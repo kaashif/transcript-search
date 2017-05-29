@@ -6,14 +6,14 @@ I will also write a tool that will let you search for text by scene,
 character, season, episode etc.
 
 
-##Copyright
+## Copyright
 
 The scripts and anything I have written are under the MIT license. The
 transcripts themselves are provided under the Fair Use doctrine of US
 copyright law. The credit for typing out the transcripts goes to the
 individual authors, the names of whom are included in each file.
 
-##MIT License
+## MIT License
 Copyright (c) 2017 Kaashif Hymabaccus
 
 Permission is hereby granted, free of charge, to any person obtaining
