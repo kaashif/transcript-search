@@ -19,6 +19,7 @@ sub trim_file {
 	}
 	if ($line =~ /^Transcript$/) {
 	  $start_printing = 1;
+	  next;
 	}
 	if (!$start_printing) {
 	  next;
