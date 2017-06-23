@@ -33,7 +33,7 @@ def transcript_index():
 @app.route("/transcripts/<series>/<episode>")
 def transcript(series, episode):
     [season, ep] = episode.split(".")
-    return render_template("transcript.html", text="\n".join(transcript_lines[series][episode]), episode="{} Season {} Episode {}".format(series.upper(), season, ep))
+    return render_template("transcript.html", text="".join(transcript_lines[series][episode]), episode="{} Season {} Episode {}".format(series.upper(), season, ep))
 
 def main():
     cache_transcripts()
@@ -60,8 +60,8 @@ def do_search(query):
                 if query in lines[i]:
                     results.append({
                         "episode": "Stargate {}: Season {}, Episode {}".format(series, season, episode),
-                        "context_before": "\n".join(lines[max(0,i-3):i]),
-                        "context_after": "\n".join(lines[min(i+1,len(lines)):i+4]),
+                        "context_before": "".join(lines[max(0,i-5):i]),
+                        "context_after": "".join(lines[min(i+1,len(lines)):i+6]),
                         "match": lines[i],
                         "url":"/transcripts/{}/{}.{}".format(dire, season, episode)
                     })
