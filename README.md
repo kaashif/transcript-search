@@ -10,7 +10,7 @@ series. You can run it by cloning this repo and running:
 And you can access it at the URL given. It's fairly barebones at the
 moment, you can only search for a string.
 
-##Planned features
+## Planned features
 
 * Search by character (who said it, who was it said to)
 * Search by series
