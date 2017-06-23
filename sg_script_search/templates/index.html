@@ -5,14 +5,6 @@
 <li role="presentation"><a href="/about">About</a></li>
 {% endblock %}
 {% block content %}
-<div class="alert alert-info">
-  This tool searches transcripts of SG1 and Atlantis episodes taken
-  from <a href="http://www.stargate-sg1-solutions.com/wiki/Transcripts">here</a>. They
-  are provided under the Fair Use doctrine of US copyright law. See
-  the <a href="https://github.com/kaashif/sg-script-search">source
-  code</a> for more information on the copyright and on the
-  transcribers.
-</div>
 <form action="{{ url_for('search') }}" method="POST">
   <div class="form-group">
 	<label for="query">Enter a word or phrase you are looking for:</label>
