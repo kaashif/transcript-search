@@ -22,6 +22,10 @@ def search():
     results = do_search(query)
     return render_template("results.html", results=results)
 
+@app.route("/style.css")
+def style():
+    return app.send_static_file("style.css")
+
 @app.route("/transcripts")
 def transcript_index():
     return render_template("transcript_index.html")
