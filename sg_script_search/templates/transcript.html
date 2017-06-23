@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+{% block buttons %}
+<li role="presentation"><a href="/">Search</a></li>
+<li role="presentation" class="active"><a href="/transcripts">Transcripts</a></li>
+<li role="presentation"><a href="/about">About</a></li>
+{% endblock %}
+{% block content %}
+<h2>{{ episode }}</h2>
+<pre>
+  {{ text }}
+</pre>
+{% endblock %}

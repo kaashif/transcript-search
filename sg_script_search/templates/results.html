@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+{% block buttons %}
+<li role="presentation" class="active"><a href="/">Search</a></li>
+<li role="presentation"><a href="/about">About</a></li>
+{% endblock %}
+{% block content %}
+{% for result in results %}
+<p>Episode: <a href="{{ result ['url'] }}">{{ result['episode'] }}</a></p>
+<pre>
+  {{ result['context_before'] }}
+  <div class="text-success">{{ result['match'] }}</div>
+  {{ result['context_after'] }}
+</pre>
+<hr>
+{% endfor %}
+{% endblock %}
