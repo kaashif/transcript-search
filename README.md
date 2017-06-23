@@ -1,10 +1,23 @@
 # Stargate Script Search Tool
 
-This is a dump of the text from
-[here](http://www.stargate-sg1-solutions.com/wiki/Transcripts). Eventually
-I will also write a tool that will let you search for text by scene,
-character, season, episode etc.
+This is a web app for searching transcripts from the Stargate TV
+series. You can run it by cloning this repo and running:
 
+	$ python3 setup.py install
+	$ sg_script_search
+	 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+And you can access it at the URL given. It's fairly barebones at the
+moment, you can only search for a string.
+
+##Planned features
+
+* Search by character (who said it, who was it said to)
+* Search by series
+* Search by season/episode
+* Search by location
+* Multiple search queries
+* Regular expressions
 
 ## Copyright
 
@@ -12,6 +25,9 @@ The scripts and anything I have written are under the MIT license. The
 transcripts themselves are provided under the Fair Use doctrine of US
 copyright law. The credit for typing out the transcripts goes to the
 individual authors, the names of whom are included in each file.
+
+The contents of this repository are for educational and entertainment
+purposes only.
 
 ## MIT License
 Copyright (c) 2017 Kaashif Hymabaccus
