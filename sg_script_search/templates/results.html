@@ -4,6 +4,9 @@
 <li role="presentation"><a href="/about">About</a></li>
 {% endblock %}
 {% block content %}
+{% if results|length == 0 %}
+<h2>No results found :(</h2>
+{% endif %}
 {% for result in results %}
 <p>Episode: <a href="{{ result ['url'] }}">{{ result['episode'] }}</a></p>
 <pre>
