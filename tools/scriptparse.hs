@@ -36,6 +36,7 @@ junkp = do
   j <- choice $ try excerptp : map (try . string) [ "ROLL CREDITS"
                                                   , "TEASER"
                                                   , "FADE OUT"
+                                                  , "THE END"
                                                   , "BEGIN EXCERPTS"
                                                   , "END CREDITS"
                                                   , "END TEASER"
