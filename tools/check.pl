@@ -11,7 +11,7 @@ while (1) {
   }
   printf $transcript_fnames[$i] . ": ";
   my $result = `timeout 3s runhaskell tools/scriptparse.hs $transcript_fnames[$i] | tail -n5`;
-  if ($result =~ m/(END CREDITS|ROLL CREDITS)/) {
+  if ($result =~ m/(CREDITS|THE END)/) {
 	printf "SUCCEEDED\n";
 	$i += 1;
   } else {

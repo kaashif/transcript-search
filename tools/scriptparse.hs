@@ -1,3 +1,4 @@
+#!/usr/bin/env runhaskell
 {-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE OverloadedStrings #-}
 module Main (main) where
@@ -39,10 +40,13 @@ junkp = do
                                                   , "THE END"
                                                   , "BEGIN EXCERPTS"
                                                   , "END CREDITS"
+                                                  , "ROLL END CREDITS"
+                                                  , "CREDITS"
                                                   , "END TEASER"
                                                   , "END EXCERPT"
                                                   , "END EXCERPTS"
                                                   , "OPENING CREDITS"
+                                                  , "CLOSING CREDITS"
                                                   , "END TEASER--OPENING CREDITS"
                                                   , "END OF TEASER--OPENING CREDITS"
                                                   ]
