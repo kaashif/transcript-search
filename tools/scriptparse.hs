@@ -1,12 +1,16 @@
 {-# LANGUAGE FlexibleContexts #-}
+{-# LANGUAGE OverloadedStrings #-}
 module Main (main) where
 
 import Text.Parsec
-import Text.Parsec.Char
-import System.IO (readFile)
+import Text.Parsec.Text
+import qualified Data.Text.IO as T
+import qualified Data.ByteString as BS
 import System.Environment (getArgs)
 import Data.Char
 import Data.List
+import qualified Data.Text as T
+import qualified Data.Text.Encoding as T
 
 type Character = String
 
@@ -19,15 +23,15 @@ data ScriptExpr = Place String
 main :: IO ()
 main = do
   fname <- fmap head getArgs
-  rawscript <- readFile fname
+  rawscript <- fmap T.decodeLatin1 $ BS.readFile fname
   case (parse scriptp fname rawscript) of
     Left err -> print err
     Right exprs -> mapM_ print exprs
 
-scriptp :: Stream s m Char => ParsecT s u m [ScriptExpr]
+scriptp :: Parser [ScriptExpr]
 scriptp = many (choice [try junkp, try annotationp, try placep, try speechp])
 
-junkp :: Stream s m Char => ParsecT s u m ScriptExpr
+junkp :: Parser ScriptExpr
 junkp = do
   j <- choice $ concat [map (try . string) [ "ROLL CREDITS"
                                            , "TEASER"
@@ -46,39 +50,39 @@ junkp = do
   skipMany $ string "\n"
   return $ Junk j
 
-excerptp :: Stream s m Char => ParsecT s u m String
+excerptp :: Parser String
 excerptp = do
   a <- try (string "EXCERPT") <|> string "EXCERPTS"
   b <- many (noneOf "\n")
   return (a ++ b)
 
-annotationp :: Stream s m Char => ParsecT s u m ScriptExpr
+annotationp :: Parser ScriptExpr
 annotationp = do
   string "["
   ann <- fmap (map (\c -> if c=='\n' then ' ' else c)) $ many (satisfy (\c -> isLatin1 c && c /= ']'))
   string "]\n"
   return $ Annotation ann
 
-headerChar :: Stream s m Char => ParsecT s u m Char
-headerChar = upper <|> digit <|> oneOf " '-#(),."
+headerChar :: Parser Char
+headerChar = satisfy (\c -> isLatin1 c && not (isLower c) && c/='\n')
 
-namep :: Stream s m Char => ParsecT s u m String
+namep :: Parser String
 namep = many headerChar
 
-placep :: Stream s m Char => ParsecT s u m ScriptExpr
+placep :: Parser ScriptExpr
 placep = do
   try (string "INT--") <|> (string "EXT--")
   name <- namep
   skipMany $ string "\n"
   return $ Place name
   
-speechlinep :: Stream s m Char => ParsecT s u m String
+speechlinep :: Parser String
 speechlinep = do
-  l <- many $ satisfy (\c -> isLatin1 c && not (elem c "[]\n"))
+  l <- many $ satisfy (\c -> isLatin1 c && c /= '\n')
   skipMany $ string "\n"
   return l
 
-speechp :: Stream s m Char => ParsecT s u m ScriptExpr
+speechp :: Parser ScriptExpr
 speechp = do
   cname <- namep
   string "\n"
