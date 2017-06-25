@@ -2,6 +2,7 @@
 module Main (main) where
 
 import Text.Parsec
+import Text.Parsec.Char
 import System.IO (readFile)
 import System.Environment (getArgs)
 import Data.Char
@@ -19,17 +20,24 @@ main :: IO ()
 main = do
   fname <- fmap head getArgs
   rawscript <- readFile fname
-  parseTest scriptp rawscript
+  case (parse scriptp fname rawscript) of
+    Left err -> print err
+    Right exprs -> mapM_ print exprs
 
 scriptp :: Stream s m Char => ParsecT s u m [ScriptExpr]
 scriptp = many (choice [try junkp, try annotationp, try placep, try speechp])
 
 junkp :: Stream s m Char => ParsecT s u m ScriptExpr
 junkp = do
-  j <- string "ROLL CREDITS"
-        <|> string "TEASER"
-        <|> string "FADE OUT"
-        <|> string "END CREDITS"
+  j <- choice $ map (try . string) [ "ROLL CREDITS"
+                                   , "TEASER"
+                                   , "FADE OUT"
+                                   , "END CREDITS"
+                                   , "END TEASER"
+                                   , "OPENING CREDITS"
+                                   , "END TEASER--OPENING CREDITS"
+                                   , "END OF TEASER--OPENING CREDITS"
+                                   ]
   skipMany $ string "\n"
   return $ Junk j
 
@@ -40,11 +48,8 @@ annotationp = do
   string "]\n"
   return $ Annotation ann
 
-isHeaderChar :: Char -> Bool
-isHeaderChar c = elem c "ABCDEFGHIJKLMNOPQRSTUVYXYZ-' "
-
 namep :: Stream s m Char => ParsecT s u m String
-namep = many (satisfy isHeaderChar)
+namep = many (upper <|> digit <|> oneOf " '-#")
 
 placep :: Stream s m Char => ParsecT s u m ScriptExpr
 placep = do
