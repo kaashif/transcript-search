@@ -29,17 +29,28 @@ scriptp = many (choice [try junkp, try annotationp, try placep, try speechp])
 
 junkp :: Stream s m Char => ParsecT s u m ScriptExpr
 junkp = do
-  j <- choice $ map (try . string) [ "ROLL CREDITS"
-                                   , "TEASER"
-                                   , "FADE OUT"
-                                   , "END CREDITS"
-                                   , "END TEASER"
-                                   , "OPENING CREDITS"
-                                   , "END TEASER--OPENING CREDITS"
-                                   , "END OF TEASER--OPENING CREDITS"
-                                   ]
+  j <- choice $ concat [map (try . string) [ "ROLL CREDITS"
+                                           , "TEASER"
+                                           , "FADE OUT"
+                                           , "BEGIN EXCERPTS"
+                                           , "END CREDITS"
+                                           , "END TEASER"
+                                           , "END EXCERPT"
+                                           , "END EXCERPTS"
+                                           , "OPENING CREDITS"
+                                           , "END TEASER--OPENING CREDITS"
+                                           , "END OF TEASER--OPENING CREDITS"
+                                           ]
+                       , [try excerptp]
+                       ]
   skipMany $ string "\n"
   return $ Junk j
+
+excerptp :: Stream s m Char => ParsecT s u m String
+excerptp = do
+  a <- try (string "EXCERPT") <|> string "EXCERPTS"
+  b <- many (noneOf "\n")
+  return (a ++ b)
 
 annotationp :: Stream s m Char => ParsecT s u m ScriptExpr
 annotationp = do
@@ -48,12 +59,15 @@ annotationp = do
   string "]\n"
   return $ Annotation ann
 
+headerChar :: Stream s m Char => ParsecT s u m Char
+headerChar = upper <|> digit <|> oneOf " '-#(),."
+
 namep :: Stream s m Char => ParsecT s u m String
-namep = many (upper <|> digit <|> oneOf " '-#")
+namep = many headerChar
 
 placep :: Stream s m Char => ParsecT s u m ScriptExpr
 placep = do
-  try (string "INT--") <|> string "EXT--"
+  try (string "INT--") <|> (string "EXT--")
   name <- namep
   skipMany $ string "\n"
   return $ Place name
@@ -70,5 +84,5 @@ speechp = do
   string "\n"
   ls <- manyTill speechlinep (try $ lookAhead ps)
   return $ Speech cname (intercalate " " ls)
-      where namelinep = fmap Junk (namep >> string "\n")
-            ps = choice [junkp, placep, annotationp, namelinep]
+      where namelinep = (Junk . concat) <$> sequence [namep, string "\n"]
+            ps = choice $ map try [junkp, placep, annotationp, namelinep]
