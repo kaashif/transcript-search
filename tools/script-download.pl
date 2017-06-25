@@ -27,6 +27,10 @@ sub trim_file {
 	if ($line =~ /Related Articles/) {
 	  last;
 	}
+	if ($line =~ /^$/) {
+	  next;
+	}
+	$line =~ s/^\s*//g;
 	$fh->print($line, "\n");
   }
 }
