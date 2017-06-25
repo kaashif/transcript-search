@@ -33,28 +33,25 @@ scriptp = many (choice [try junkp, try annotationp, try placep, try speechp])
 
 junkp :: Parser ScriptExpr
 junkp = do
-  j <- choice $ concat [map (try . string) [ "ROLL CREDITS"
-                                           , "TEASER"
-                                           , "FADE OUT"
-                                           , "BEGIN EXCERPTS"
-                                           , "END CREDITS"
-                                           , "END TEASER"
-                                           , "END EXCERPT"
-                                           , "END EXCERPTS"
-                                           , "OPENING CREDITS"
-                                           , "END TEASER--OPENING CREDITS"
-                                           , "END OF TEASER--OPENING CREDITS"
-                                           ]
-                       , [try excerptp]
-                       ]
+  j <- choice $ try excerptp : map (try . string) [ "ROLL CREDITS"
+                                                  , "TEASER"
+                                                  , "FADE OUT"
+                                                  , "BEGIN EXCERPTS"
+                                                  , "END CREDITS"
+                                                  , "END TEASER"
+                                                  , "END EXCERPT"
+                                                  , "END EXCERPTS"
+                                                  , "OPENING CREDITS"
+                                                  , "END TEASER--OPENING CREDITS"
+                                                  , "END OF TEASER--OPENING CREDITS"
+                                                  ]
   skipMany $ string "\n"
   return $ Junk j
 
 excerptp :: Parser String
-excerptp = do
-  a <- try (string "EXCERPT") <|> string "EXCERPTS"
-  b <- many (noneOf "\n")
-  return (a ++ b)
+excerptp = fmap concat $ sequence [ try (string "EXCERPT") <|> string "EXCERPTS"
+                                  , many (noneOf "\n")
+                                  ]
 
 annotationp :: Parser ScriptExpr
 annotationp = do
