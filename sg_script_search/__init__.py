@@ -72,7 +72,7 @@ def do_search(query):
             for scene in transcript_json[dire][fname]:
                 lines = scene["speech"]
                 for i in range(len(lines)):
-                    if query in lines[i][1]:
+                    if query.upper() in lines[i][1].upper():
                         results.append({
                             "episode": "Stargate {}: Season {}, Episode {}".format(series, season, episode),
                             "context_before": strline(lines, max(0,i-2), i),
