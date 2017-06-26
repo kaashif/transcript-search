@@ -23,8 +23,10 @@ def about():
 @app.route("/search", methods=["POST"])
 def search():
     query = request.form.get("query", "default")
-    print(query)
-    results = do_search(query)
+    place = request.form.get("place", "default")
+    present = request.form.get("present", "default")
+    person = request.form.get("person", "default")
+    results = do_search(query, place, present, person)
     return render_template("results.html", results=results)
 
 @app.route("/style.css")
@@ -64,7 +66,10 @@ def strline(lines, i, j):
     toprint = lines[i:j]
     return ["{}: {}".format(c, l) for [c, l] in toprint]
 
-def do_search(query):
+def match_or_empty(q, m):
+    return (q=="" or q.upper() in m.upper())
+
+def do_search(query, place, present, person):
     results = []
     for (dire, series) in [("sg1", "SG1"), ("atl", "Atlantis")]:
         for fname in transcript_json[dire].keys():
@@ -72,7 +77,7 @@ def do_search(query):
             for scene in transcript_json[dire][fname]:
                 lines = scene["speech"]
                 for i in range(len(lines)):
-                    if query.upper() in lines[i][1].upper():
+                    if query.upper() in lines[i][1].upper() and match_or_empty(person, lines[i][0]) and match_or_empty(place, scene["place"]) and (present=="" or any(map((lambda x: match_or_empty(present, x)), scene["present"]))):
                         results.append({
                             "episode": "Stargate {}: Season {}, Episode {}".format(series, season, episode),
                             "context_before": strline(lines, max(0,i-2), i),

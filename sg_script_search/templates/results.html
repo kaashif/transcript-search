@@ -10,7 +10,11 @@
 {% endif %}
 {% for result in results %}
 <div class="panel panel-default">
-  <div class="panel-heading"><a href="{{ result ['url'] }}">{{ result['episode'] }}</a></div>
+  <div class="panel-heading">
+	<a href="{{ result ['url'] }}">
+	  {{ result['episode'] }}, in {{ result['place'] }}
+	</a>
+  </div>
   <div class="panel-body">
 	<ul style="list-style-type: none">
 	  {% for c in result['context_before'] %}
