@@ -9,12 +9,20 @@
 <h2>No results found :(</h2>
 {% endif %}
 {% for result in results %}
-<p>Episode: <a href="{{ result ['url'] }}">{{ result['episode'] }}</a></p>
-<pre>
-  {{ result['context_before'] }}
-  <div class="text-success">{{ result['match'] }}</div>
-  {{ result['context_after'] }}
-</pre>
+<div class="panel panel-default">
+  <div class="panel-heading"><a href="{{ result ['url'] }}">{{ result['episode'] }}</a></div>
+  <div class="panel-body">
+	<ul style="list-style-type: none">
+	  {% for c in result['context_before'] %}
+	  <li class="text-muted">{{ c }}</li>
+	  {% endfor %}
+	  <li>{{ result['match'] }}</li>
+	  {% for c in result['context_after'] %}
+	  <li class="text-muted">{{ c }}</li>
+	  {% endfor %}
+	</ul>
+  </div>
+</div>
 <hr>
 {% endfor %}
 {% endblock %}
