@@ -27,7 +27,10 @@ def search():
     present = request.form.get("present", "default")
     person = request.form.get("person", "default")
     results = do_search(query, place, present, person)
-    return render_template("results.html", results=results)
+    if type(results) == list:
+        return render_template("results.html", results=results)
+    else:
+        return render_template("results.html")
 
 @app.route("/style.css")
 def style():
@@ -73,6 +76,8 @@ def do_search(query, place, present, person):
     results = []
     for (dire, series) in [("sg1", "SG1"), ("atl", "Atlantis")]:
         for fname in transcript_json[dire].keys():
+            if len(results) >= 500:
+                return False
             [season, episode] = fname.split(".")
             for scene in transcript_json[dire][fname]:
                 lines = scene["speech"]

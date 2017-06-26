@@ -5,6 +5,12 @@
 <li role="presentation"><a href="/about">About</a></li>
 {% endblock %}
 {% block content %}
+<div class="alert alert-info">
+  <strong>Note:</strong> All search parameters are optional! You can
+  just search for a place or character if you want. But if there are
+  too many results (>=500), then you will have to make your query more
+  specific.
+</div>
 <form action="{{ url_for('search') }}" method="POST">
   <div class="form-group">
 	<label for="query">Enter a word or phrase you are looking for:</label>
@@ -12,17 +18,17 @@
 		   placeholder="Word or phrase">
   </div>
   <div class="form-group">
-	<label for="person">Who said it? (optional)</label>
+	<label for="person">Who said it?</label>
 	<input type="text" class="form-control" id="person" name="person"
 		   placeholder="e.g. O'Neill">
   </div>
   <div class="form-group">
-	<label for="present">Who else was present? (optional)</label>
+	<label for="present">Who else was present?</label>
 	<input type="text" class="form-control" id="present" name="present"
 		   placeholder="e.g. Carter">
   </div>
   <div class="form-group">
-	<label for="place">Which location was the word/phrase spoken? (optional)</label>
+	<label for="place">Which location was the word/phrase spoken?</label>
 	<input type="text" class="form-control" id="place" name="place"
 		   placeholder="e.g. Gate Room">
   </div>
