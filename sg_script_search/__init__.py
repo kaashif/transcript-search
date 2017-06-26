@@ -41,7 +41,7 @@ def main():
 
 def cache_transcripts():
     olddir = os.getcwd()
-    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+    os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "raw"))
     for dire in ["sg1", "atl"]:
         for fname in os.listdir(dire):
             [season, episode] = fname.split(".")

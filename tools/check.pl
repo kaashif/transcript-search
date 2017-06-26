@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 
-my @transcript_fnames = glob("sg_script_search/{sg1,atl}/*");
+my @transcript_fnames = glob("sg_script_search/raw/{sg1,atl}/*");
 my $i = 0;
 
 while (1) {
