@@ -36,6 +36,7 @@ junkp :: Parser ScriptExpr
 junkp = do
   j <- choice $ try excerptp : map (try . string) [ "ROLL CREDITS"
                                                   , "TEASER"
+                                                  , "TO BE CONTINUED"
                                                   , "FADE OUT"
                                                   , "THE END"
                                                   , "BEGIN EXCERPTS"
@@ -45,6 +46,7 @@ junkp = do
                                                   , "END TEASER"
                                                   , "END EXCERPT"
                                                   , "END EXCERPTS"
+                                                  , "END FLASHBACK"
                                                   , "OPENING CREDITS"
                                                   , "CLOSING CREDITS"
                                                   , "END TEASER--OPENING CREDITS"
@@ -54,7 +56,7 @@ junkp = do
   return $ Junk j
 
 excerptp :: Parser String
-excerptp = fmap concat $ sequence [ try (string "EXCERPT") <|> string "EXCERPTS"
+excerptp = fmap concat $ sequence [ try (string "EXCERPT") <|> try (string "EXCERPTS") <|> try (string "FLASHBACK")
                                   , many (noneOf "\n")
                                   ]
 
