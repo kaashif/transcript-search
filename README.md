@@ -7,17 +7,23 @@ series. You can run it by cloning this repo and running:
 	$ sg_script_search
 	 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
-And you can access it at the URL given. It's fairly barebones at the
-moment, you can only search for a string.
+And you can access it at the URL given.
+
+There is also an instance running at <http://stargate.kaashif.co.uk>.
+
+## Current features
+
+* Search by spoken phrase
+* Search by character (who said it, who was it said to)
+* Search by location
 
 ## Planned features
 
-* Search by character (who said it, who was it said to)
 * Search by series
 * Search by season/episode
-* Search by location
 * Multiple search queries
 * Regular expressions
+* Something more efficient than going through JSON line by line
 
 ## Copyright
 
