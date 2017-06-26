@@ -1,4 +1,1 @@
-recursive-include sg_script_search/sg1 *
-recursive-include sg_script_search/atl *
-recursive-include sg_script_search/templates *
-recursive-include sg_script_search/static *
+recursive-include sg_script_search *
