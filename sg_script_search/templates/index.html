@@ -11,7 +11,7 @@
   too many results (>=500), then you will have to make your query more
   specific.
 </div>
-<form action="{{ url_for('search') }}" method="POST">
+<form action="{{ url_for('search') }}" method="GET">
   <div class="form-group">
 	<label for="query">Enter a word or phrase you are looking for:</label>
 	<input type="text" class="form-control" id="query" name="query"

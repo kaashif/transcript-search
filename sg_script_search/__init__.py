@@ -20,12 +20,12 @@ def index():
 def about():
     return render_template("about.html")
 
-@app.route("/search", methods=["POST"])
+@app.route("/search")
 def search():
-    query = request.form.get("query", "default")
-    place = request.form.get("place", "default")
-    present = request.form.get("present", "default")
-    person = request.form.get("person", "default")
+    query = request.args.get("query", "")
+    place = request.args.get("place", "")
+    present = request.args.get("present", "")
+    person = request.args.get("person", "")
     results = do_search(query, place, present, person)
     if type(results) == list:
         return render_template("results.html", results=results)
