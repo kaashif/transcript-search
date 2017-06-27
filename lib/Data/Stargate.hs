@@ -1,5 +1,5 @@
 {-# LANGUAGE DeriveGeneric #-}
-module Web.Stargate.Data where
+module Data.Stargate where
 
 import GHC.Generics
 import Data.Aeson

@@ -19,8 +19,8 @@ import qualified Data.HashMap.Lazy as M
 import qualified Data.Text.Lazy as TL
 import qualified Data.Text as T
 import qualified Data.Text.IO as T
-import Web.Stargate.Parse (readTranscript)
-import qualified Web.Stargate.Data as D
+import Data.Stargate.Parse (readTranscript)
+import qualified Data.Stargate as D
 import System.FilePath.Glob hiding (match)
 import Control.Monad.ST
 import Data.STRef

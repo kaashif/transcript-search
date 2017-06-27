@@ -13,10 +13,10 @@ executable          stargate-search
 
 library
     hs-source-dirs: lib
-    exposed-modules: Web.Stargate.JSON
-                   , Web.Stargate.Main
-                   , Web.Stargate.Parse
-    other-modules: Web.Stargate.Data
+    exposed-modules: Web.Stargate.Main
+    other-modules: Data.Stargate
+                 , Data.Stargate.Parse
+                 , Data.Stargate.CSV
     build-depends: base   >= 4      && < 5
                  , scotty
                  , parsec

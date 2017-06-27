@@ -1,6 +1,6 @@
 {-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE OverloadedStrings #-}
-module Web.Stargate.Parse (readTranscript) where
+module Data.Stargate.Parse (readTranscript) where
 
 import Text.Parsec
 import Text.Parsec.Text
@@ -14,7 +14,7 @@ import Data.Char
 import Data.List
 import qualified Data.Set as S
 import System.IO
-import Web.Stargate.Data
+import Data.Stargate
 
 readTranscript :: FilePath -> IO Episode
 readTranscript fname = do
