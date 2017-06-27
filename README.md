@@ -3,11 +3,11 @@
 This is a web app for searching transcripts from the Stargate TV
 series. You can run it by cloning this repo and running:
 
-	$ python3 setup.py install
-	$ sg_script_search
-	 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+	$ stack build
+	$ stack exec stargate-search
+	Setting phasers to stun... (port 5000) (ctrl-c to quit)
 
-And you can access it at the URL given.
+And you can access it at localhost.
 
 There is also an instance running at <http://stargate.kaashif.co.uk>.
 
@@ -23,7 +23,18 @@ There is also an instance running at <http://stargate.kaashif.co.uk>.
 * Search by season/episode
 * Multiple search queries
 * Regular expressions
-* Something more efficient than going through JSON line by line
+
+## Raw data
+
+The raw data is just the transcripts. They are human-readable and
+located in the `transcripts` directory. I wrote a parser that parses
+them, so they are also machine-readable (see `Data.Stargate.Parse` for
+the parser). I have also provided some CSV in the `data` directory,
+which might be of interest if you want to do some analysis of your
+own. The format is "season,episode,series,character,characters
+present,location,text". There's a lot of redundancy storing the data
+like this, but it is really easy to process. See `Data.Stargate.CSV`
+for how the CSV munging is done.
 
 ## Copyright
 
