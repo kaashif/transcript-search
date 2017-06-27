@@ -1,0 +1,45 @@
+{% extends "layout.html" %}
+{% block buttons %}
+<li role="presentation" class="active"><a href="/">Search</a></li>
+<li role="presentation"><a href="/transcripts">Transcripts</a></li>
+<li role="presentation"><a href="/about">About</a></li>
+{% endblock %}
+{% block content %}
+{% if equals(toomany, "yes") %}
+<div class="alert alert-danger">
+  There were too many results (>=500) to display! Please make your
+  search query more specific.
+</div>
+{% else %}
+{% if results|length == 0 %}
+<div class="alert alert-danger">
+  <strong>No results found :(</strong>
+</div>
+{% else %}
+<div class="alert alert-success">
+  Found <strong>{{ results|length }}</strong> results!
+</div>
+{% for result in results %}
+<div class="panel panel-default">
+  <div class="panel-heading">
+	<a href="{{ result ['url'] }}">
+	  {{ result['episode'] }}, in {{ result['place'] }}
+	</a>
+  </div>
+  <div class="panel-body">
+	<ul style="list-style-type: none">
+	  {% for c in result['context_before'] %}
+	  <li class="text-muted">{{ c }}</li>
+	  {% endfor %}
+	  <li>{{ result['match'] }}</li>
+	  {% for c in result['context_after'] %}
+	  <li class="text-muted">{{ c }}</li>
+	  {% endfor %}
+	</ul>
+  </div>
+</div>
+<hr>
+{% endfor %}
+{% endif %}
+{% endif %}
+{% endblock %}

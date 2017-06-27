@@ -1,0 +1,33 @@
+name:          stargate-search
+version:       0.0.0
+cabal-version: >= 1.8
+build-type:    Simple
+
+executable          stargate-search
+    hs-source-dirs: exe
+    main-is:        Main.hs
+    ghc-options:    -Wall -threaded -O2 -rtsopts -with-rtsopts=-N
+    extensions:     OverloadedStrings
+    build-depends:  base   >= 4      && < 5
+                  , stargate-search
+
+library
+    hs-source-dirs: lib
+    exposed-modules: Web.Stargate.JSON
+                   , Web.Stargate.Main
+                   , Web.Stargate.Parse
+    other-modules: Web.Stargate.Data
+    build-depends: base   >= 4      && < 5
+                 , scotty
+                 , parsec
+                 , aeson
+                 , aeson-pretty
+                 , ginger
+                 , filepath
+                 , either-unwrap
+                 , text
+                 , containers
+                 , unordered-containers
+                 , Glob
+                 , bytestring
+                                                                          
