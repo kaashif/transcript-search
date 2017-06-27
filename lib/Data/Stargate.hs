@@ -3,19 +3,20 @@ module Data.Stargate where
 
 import GHC.Generics
 import qualified Data.Set as S
+import qualified Data.Text as T
 
-type Character = String
+type Character = T.Text
 
-data ScriptExpr = Place String
-                | Annotation String
-                | Speech Character String
-                | Junk String
+data ScriptExpr = Place T.Text
+                | Annotation T.Text
+                | Speech Character T.Text
+                | Junk T.Text
                   deriving Show
 
 data Scene = Scene {
-      place :: String,
-      present :: S.Set String,
-      speech :: [(Character, String)]
+      place :: T.Text,
+      present :: S.Set T.Text,
+      speech :: [(Character, T.Text)]
     } deriving (Generic, Show)
 
 type Episode = [Scene]

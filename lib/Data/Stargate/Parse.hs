@@ -2,8 +2,9 @@
 {-# LANGUAGE OverloadedStrings #-}
 module Data.Stargate.Parse (readTranscript) where
 
-import Text.Parsec
-import Text.Parsec.Text
+import Text.Parsec hiding (Parser, string)
+import qualified Text.Parsec as P (string)
+import Text.Parsec.Text (Parser)
 import qualified Data.Text.IO as T
 import qualified Data.Text as T
 import qualified Data.Text.Encoding as T
@@ -25,6 +26,9 @@ readTranscript fname = do
 
 scriptp :: Parser [ScriptExpr]
 scriptp = many (choice [try junkp, try annotationp, try placep, try speechp])
+
+string :: String -> Parser T.Text
+string s = fmap T.pack (P.string s)
 
 junkp :: Parser ScriptExpr
 junkp = do
@@ -49,9 +53,9 @@ junkp = do
   skipMany $ string "\n"
   return $ Junk j
 
-excerptp :: Parser String
-excerptp = fmap concat $ sequence [ try (string "EXCERPT") <|> try (string "EXCERPTS") <|> try (string "FLASHBACK")
-                                  , many (noneOf "\n")
+excerptp :: Parser T.Text
+excerptp = fmap T.concat $ sequence [ try (string "EXCERPT") <|> try (string "EXCERPTS") <|> try (string "FLASHBACK")
+                                  , fmap T.pack $ many (noneOf "\n")
                                   ]
 
 annotationp :: Parser ScriptExpr
@@ -59,13 +63,13 @@ annotationp = do
   string "["
   ann <- fmap (map (\c -> if c=='\n' then ' ' else c)) $ many (satisfy (\c -> isLatin1 c && c /= ']'))
   string "]\n"
-  return $ Annotation ann
+  return $ Annotation $ T.pack ann
 
 headerChar :: Parser Char
 headerChar = satisfy (\c -> isLatin1 c && not (isLower c) && c/='\n')
 
-namep :: Parser String
-namep = many headerChar
+namep :: Parser T.Text
+namep = fmap T.pack $ many headerChar
 
 placep :: Parser ScriptExpr
 placep = do
@@ -74,19 +78,19 @@ placep = do
   skipMany $ string "\n"
   return $ Place name
   
-speechlinep :: Parser String
+speechlinep :: Parser T.Text
 speechlinep = do
   l <- many $ satisfy (\c -> isLatin1 c && c /= '\n')
   skipMany $ string "\n"
-  return l
+  return $ T.pack l
 
 speechp :: Parser ScriptExpr
 speechp = do
   cname <- namep
   string "\n"
   ls <- manyTill speechlinep (try $ lookAhead ps)
-  return $ Speech cname (intercalate " " ls)
-      where namelinep = (Junk . concat) <$> sequence [namep, string "\n"]
+  return $ Speech cname (T.intercalate " " ls)
+      where namelinep = (Junk . T.concat) <$> sequence [namep, string "\n"]
             ps = choice $ map try [junkp, placep, annotationp, namelinep]
 
 convert :: [ScriptExpr] -> Episode
