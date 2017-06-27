@@ -5,7 +5,20 @@
 <li role="presentation"><a href="/about">About</a></li>
 {% endblock %}
 {% block content %}
-<p>
-Here is an index of transcripts.
-</p>
+<table class="table table-hover">
+  <tr>
+	<th>Series</th>
+	<th>Season</th>
+	<th>Episode</th>
+	<th>Title</th>
+  </tr>
+{% for entry in entries %}
+	<tr onclick="location.href='/transcripts/{{ entry.seriesurl }}/{{ entry.season }}.{{ entry.episode }}'">
+	  <td>{{ entry.series }}</td>
+	  <td>{{ entry.season }}</td>
+	  <td>{{ entry.episode }}</td>
+	  <td>{{ entry.title }}</td>
+	</tr>
+{% endfor %}
+</table>
 {% endblock %}

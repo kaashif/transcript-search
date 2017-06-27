@@ -29,6 +29,7 @@ import Data.Char
 
 main :: IO ()
 main = readAllTranscripts >>= \eps -> scotty 3000 $ do
+  let epentries = makeEntries eps
   get "/" indexR
   get "/transcripts/:series/:episode" $ do
     series <- param "series"                      
@@ -44,13 +45,23 @@ main = readAllTranscripts >>= \eps -> scotty 3000 $ do
   get "/style.css" $ do
     setHeader "Content-Type" "text/css"
     file "style.css"
-  get "/transcripts" transIndexR
+  get "/transcripts" $ transIndexR epentries
 
 readAllTranscripts :: IO (M.HashMap (String, String) D.Episode)
 readAllTranscripts = (forM ["sg1", "atl"] $ \series -> do
   fnames <- globDir1 (compile $ joinPath ["transcripts", series, "*"]) "."
   let readT f = readTranscript f >>= \t -> return ((series, last $ splitPath f), t)
   mapM readT fnames) >>= \m -> return $ M.fromList $ concat m
+
+type Entry = (T.Text, T.Text, T.Text, T.Text)
+
+makeEntries :: M.HashMap (String, String) D.Episode -> [Entry]
+makeEntries eps = let
+    oneEntry entries (series, episode) ep = let
+          newentry = (T.pack series, season, epnum, T.pack "unknown")
+          [season, epnum] = T.splitOn "." $ T.pack episode
+        in newentry:entries
+  in sort $ M.foldlWithKey' oneEntry [] eps
 
 templateFromFile :: FilePath -> IO Template
 templateFromFile fp = (parseGingerFile resolver fp) >>= \x -> case x of
@@ -142,7 +153,13 @@ aboutR = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "about.html"])
   html $ TL.fromStrict $ htmlSource $ easyRender (M.empty :: M.HashMap T.Text T.Text) tpl
 
-transIndexR :: ActionM ()
-transIndexR = do
+transIndexR :: [Entry] -> ActionM ()
+transIndexR epentries = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "transcript_index.html"])
-  html $ TL.fromStrict $ htmlSource $ easyRender (M.empty :: M.HashMap T.Text T.Text) tpl
+  let ctx :: M.HashMap T.Text [M.HashMap T.Text T.Text] = M.fromList [("entries", map (\(p,q,r,s) -> M.fromList [ ("series", T.toUpper p)
+                                                                                                                , ("seriesurl", p)
+                                                                                                                , ("season", q) 
+                                                                                                                , ("episode", r)
+                                                                                                                , ("title", s)
+                                                                                                                ]) epentries)]
+  html $ TL.fromStrict $ htmlSource $ easyRender ctx tpl
