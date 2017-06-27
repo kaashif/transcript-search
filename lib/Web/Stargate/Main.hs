@@ -2,7 +2,7 @@
 {-# LANGUAGE ScopedTypeVariables #-}
 {-# LANGUAGE FlexibleInstances #-}
 {-# LANGUAGE MultiParamTypeClasses #-}
-module Web.Stargate.Main (main) where
+module Web.Stargate.Main where
 import Web.Scotty
 import Text.Ginger hiding (length)
 import Text.Ginger.Run
