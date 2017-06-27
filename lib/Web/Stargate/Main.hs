@@ -28,7 +28,7 @@ import Control.Monad
 import Data.Char
 
 main :: IO ()
-main = readAllTranscripts >>= \eps -> scotty 3000 $ do
+main = readAllTranscripts >>= \eps -> scotty 5000 $ do
   let epentries = makeEntries eps
   get "/" indexR
   get "/transcripts/:series/:episode" $ do
