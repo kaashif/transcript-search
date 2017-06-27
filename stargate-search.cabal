@@ -30,4 +30,5 @@ library
                  , unordered-containers
                  , Glob
                  , bytestring
-                                                                          
+                 , cassava
+                 , split
