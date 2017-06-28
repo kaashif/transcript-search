@@ -33,7 +33,7 @@ instance ToGVal m ResultsOrText where
 
 
 match :: T.Text -> T.Text -> Bool
-match query body = (T.null query) || ((T.toUpper query) `T.isInfixOf` (T.toUpper body))
+match query body = (T.null query) || query `T.isInfixOf` body
 
 makeResult :: Int -> T.Text -> T.Text -> T.Text -> D.Scene -> M.HashMap T.Text TextOrList
 makeResult i series season epnum scene = M.fromList [ ("url", Text $ T.concat ["/transcripts/", series, "/", season, ".", epnum])
@@ -59,12 +59,13 @@ sceneMatches scene query place person present = if or [ not $ any (match present
                                                 else runST $ do
   matches <- newSTRef []
   forM_ [0..((V.length $ D.speech scene)-1)] $ \k ->
-      when ((match person (fst $ (D.speech scene) ! k)) && (match query $ snd $ (D.speech scene) ! k))
+      when ((match person (fst $ (D.speech scene) ! k)) && (match query $ snd $ (D.upperspeech scene) ! k))
            (modifySTRef matches (k:))
   readSTRef matches
 
 search :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> T.Text -> T.Text -> M.HashMap T.Text ResultsOrText
-search eps query place person present = runST $ do
+search eps q place person present = runST $ do
+  let query = T.toUpper q                                      
   results <- newSTRef []
   found <- newSTRef 0
   forM_ [0..((V.length eps)-1)] $ \i -> do

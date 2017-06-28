@@ -100,7 +100,7 @@ convert es = V.reverse $ convert' (V.singleton empty) (filter p es)
     where p e = case e of
                   Junk s -> False
                   _ -> True
-          empty = Scene "nowhere" S.empty V.empty
+          empty = Scene "nowhere" S.empty V.empty V.empty
 
 convert' :: Episode -> [ScriptExpr] -> Episode
 convert' ep [] = ep
@@ -111,9 +111,12 @@ convert' scs' (ex:exs) = let
   Speech c l -> convert' (V.cons newsc scs) exs
       where newsc = sc { present = S.insert c (present sc)
                        , speech = V.concat [speech sc, V.singleton (c, l)]
+                       , upperspeech = V.concat [upperspeech sc, V.singleton (c, T.toUpper l)]
                        }
   Place p -> convert' (V.cons newsc $ V.cons sc scs) exs
-      where newsc = Scene p S.empty V.empty
+      where newsc = Scene p S.empty V.empty V.empty
   Annotation ann -> convert' (V.cons newsc scs) exs
-      where newsc = sc { speech = V.concat [speech sc, V.singleton ("ANNOTATION", ann)] }
+      where newsc = sc { speech = V.concat [speech sc, V.singleton ("ANNOTATION", ann)]
+                       , upperspeech = V.concat [speech sc, V.singleton ("ANNOTATION", T.toUpper ann)]
+                       }
   _ -> convert' (V.cons sc scs) exs

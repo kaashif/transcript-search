@@ -17,7 +17,8 @@ data ScriptExpr = Place T.Text
 data Scene = Scene {
       place :: T.Text,
       present :: S.Set T.Text,
-      speech :: V.Vector (Character, T.Text)
+      speech :: V.Vector (Character, T.Text),
+      upperspeech :: V.Vector (Character, T.Text)
     } deriving (Generic, Show)
 
 type Episode = V.Vector Scene
