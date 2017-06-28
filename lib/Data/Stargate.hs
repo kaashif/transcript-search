@@ -2,6 +2,7 @@
 module Data.Stargate where
 
 import GHC.Generics
+import qualified Data.Vector as V
 import qualified Data.Set as S
 import qualified Data.Text as T
 
@@ -16,7 +17,7 @@ data ScriptExpr = Place T.Text
 data Scene = Scene {
       place :: T.Text,
       present :: S.Set T.Text,
-      speech :: [(Character, T.Text)]
+      speech :: V.Vector (Character, T.Text)
     } deriving (Generic, Show)
 
-type Episode = [Scene]
+type Episode = V.Vector Scene

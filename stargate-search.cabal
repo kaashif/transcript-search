@@ -32,3 +32,4 @@ library
                  , bytestring
                  , cassava
                  , split
+                 , vector

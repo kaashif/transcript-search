@@ -26,6 +26,8 @@ import Control.Monad.ST
 import Data.STRef
 import Control.Monad
 import Data.Char
+import qualified Data.Vector as V
+import Data.Vector ((!))
 
 main :: IO ()
 main = readAllTranscripts >>= \eps -> scotty 5000 $ do
@@ -123,19 +125,19 @@ resultCtx eps query place person present =
                         then []
                         else lineMatches (D.speech scene)
               lineMatches speech = let
-                  resultOrEmpty i = if (match person (fst $ speech !! i)) && (match query (snd $ speech !! i))
+                  resultOrEmpty i = if (match person (fst $ speech ! i)) && (match query (snd $ speech ! i))
                         then [makeResult i]
                         else []
                   makeResult i = M.fromList [ ("url", Text $ T.concat ["/transcripts/", series, "/", episode])
-                                            , ("context_before", List $ strline (max 0 (i-2)) i)
-                                            , ("match", Text $ head $ strline i (i+1))
-                                            , ("context_after", List $ strline (min (i+1) (length speech)) (min (i+3) (length speech)))
+                                            , ("context_before", List $ V.toList $ strline (max 0 (i-2)) i)
+                                            , ("match", Text $ V.head $ strline i (i+1))
+                                            , ("context_after", List $ V.toList $ strline (min (i+1) (length speech)) (min (i+3) (length speech)))
                                             , ("episode", Text $ T.concat [T.toUpper series, " Season ", season, " Episode ", epnum])
                                             , ("place", Text $ D.place scene)
                                             ]
                   [season, epnum] = T.splitOn "." episode
-                  strline x y = map (\pair -> T.concat [fst pair, ": ", snd pair]) (drop x $ take y speech)
-                in concat $ map resultOrEmpty [0..(length speech)-1]
+                  strline x y = V.map (\pair -> T.concat [fst pair, ": ", snd pair]) (V.slice x y speech)
+                in concat $ map resultOrEmpty [0..(V.length speech)-1]
               in concat [newSceneResults, ress]
           in concat [newmatches, res]
   in M.fromList [("results", Results results)

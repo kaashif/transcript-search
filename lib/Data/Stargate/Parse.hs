@@ -16,6 +16,8 @@ import Data.List
 import qualified Data.Set as S
 import System.IO
 import Data.Stargate
+import qualified Data.Vector as V
+import Data.Vector ((!))
 
 readTranscript :: FilePath -> IO Episode
 readTranscript fname = do
@@ -94,21 +96,24 @@ speechp = do
             ps = choice $ map try [junkp, placep, annotationp, namelinep]
 
 convert :: [ScriptExpr] -> Episode
-convert es = reverse $ convert' [empty] (filter p es)
+convert es = V.reverse $ convert' (V.singleton empty) (filter p es)
     where p e = case e of
                   Junk s -> False
                   _ -> True
-          empty = Scene "nowhere" S.empty []
+          empty = Scene "nowhere" S.empty V.empty
 
 convert' :: Episode -> [ScriptExpr] -> Episode
 convert' ep [] = ep
-convert' (sc:scs) (ex:exs) = case ex of
-  Speech c l -> convert' (newsc:scs) exs
+convert' scs' (ex:exs) = let
+    sc = V.head scs'
+    scs = V.tail scs'
+  in case ex of
+  Speech c l -> convert' (V.cons newsc scs) exs
       where newsc = sc { present = S.insert c (present sc)
-                       , speech = speech sc ++ [(c, l)]
+                       , speech = V.concat [speech sc, V.singleton (c, l)]
                        }
-  Place p -> convert' (newsc:sc:scs) exs
-      where newsc = Scene p S.empty []
-  Annotation ann -> convert' (newsc:scs) exs
-      where newsc = sc { speech = speech sc ++ [("ANNOTATION", ann)] }
-  _ -> convert' (sc:scs) exs
+  Place p -> convert' (V.cons newsc $ V.cons sc scs) exs
+      where newsc = Scene p S.empty V.empty
+  Annotation ann -> convert' (V.cons newsc scs) exs
+      where newsc = sc { speech = V.concat [speech sc, V.singleton ("ANNOTATION", ann)] }
+  _ -> convert' (V.cons sc scs) exs

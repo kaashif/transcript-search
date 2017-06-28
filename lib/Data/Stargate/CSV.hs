@@ -12,6 +12,7 @@ import qualified Data.Stargate as D
 import qualified Data.HashMap.Lazy as M
 import qualified Data.ByteString.Lazy as BSL
 import qualified Data.Text as T
+import qualified Data.Vector as V
 
 data LineRecord = LineRecord { season :: Int
                              , episode :: Int
@@ -23,10 +24,10 @@ data LineRecord = LineRecord { season :: Int
                              } deriving (Show, Generic)
 instance ToRecord LineRecord
 
-toLineRecords :: T.Text -> T.Text -> D.Episode -> [LineRecord]
+toLineRecords :: T.Text -> T.Text -> D.Episode -> V.Vector LineRecord
 toLineRecords serie epcode ep = let
     [seasnum, epnum] :: [Int] = map (read . T.unpack) $ T.splitOn "." epcode
-    sceneToLineRecords scene = map (lineToLineRecord seasnum epnum (D.place scene) (D.present scene)) (D.speech scene)
+    sceneToLineRecords scene = V.map (lineToLineRecord seasnum epnum (D.place scene) (D.present scene)) (D.speech scene)
     lineToLineRecord sn en pl pr speec = LineRecord { season = seasnum
                                                     , episode = epnum
                                                     , series = serie
@@ -35,8 +36,8 @@ toLineRecords serie epcode ep = let
                                                     , place = pl
                                                     , speech = snd speec
                                                     }
-    in concat $ map sceneToLineRecords ep
+    in V.concat $ V.toList $ V.map sceneToLineRecords ep
 
 toCsv :: M.HashMap (T.Text, T.Text) D.Episode -> BSL.ByteString
 toCsv m = encode $ M.foldlWithKey' convert' [] m
-    where convert' recs (serie, epcode) ep = (toLineRecords serie epcode ep) ++ recs
+    where convert' recs (serie, epcode) ep = (V.toList $ toLineRecords serie epcode ep) ++ recs
