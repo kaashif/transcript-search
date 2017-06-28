@@ -17,6 +17,7 @@ library
     other-modules: Data.Stargate
                  , Data.Stargate.Parse
                  , Data.Stargate.CSV
+                 , Web.Stargate.Search
     build-depends: base   >= 4      && < 5
                  , scotty
                  , parsec
@@ -33,3 +34,4 @@ library
                  , cassava
                  , split
                  , vector
+                 , vector-algorithms
