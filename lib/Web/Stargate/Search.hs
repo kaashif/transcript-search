@@ -30,15 +30,14 @@ instance ToGVal m ResultsOrText where
                     RText t -> toGVal t
                     Results t -> toGVal t
 
-
 match :: T.Text -> T.Text -> Bool
 match query body = (T.null query) || query `T.isInfixOf` body
 
 makeResult :: Int -> T.Text -> T.Text -> T.Text -> D.Scene -> M.HashMap T.Text TextOrList
 makeResult i series season epnum scene = M.fromList [ ("url", Text $ T.concat ["/transcripts/", series, "/", season, ".", epnum])
-                                                    , ("context_before", List $ strline speech (max 0 (i-2)) i)
+                                                    , ("context_before", List $ strline speech (i-2) i)
                                                     , ("match", Text $ head $ strline speech i (i+1))
-                                                    , ("context_after", List $ strline speech (min (i+1) (length speech)) (min (i+3) (length speech)))
+                                                    , ("context_after", List $ strline speech (i+1) (i+3))
                                                     , ("episode", Text $ T.concat [T.toUpper series, " Season ", season, " Episode ", epnum])
                                                     , ("place", Text $ D.place scene)
                                                     ]
@@ -46,7 +45,9 @@ makeResult i series season epnum scene = M.fromList [ ("url", Text $ T.concat ["
 
 strline :: V.Vector (D.Character, T.Text) -> Int -> Int -> [T.Text]
 strline speech x y
-        | x < 0 || x > V.length speech = []
+        | x > y = []
+        | x < 0 = strline speech 0 y
+        | x >= V.length speech = []
         | y > V.length speech = strline speech x (V.length speech)
         | otherwise =  V.toList $ V.map (\(c, l) -> T.concat [c, ": ", l]) (V.slice x (y-x) speech)
 
