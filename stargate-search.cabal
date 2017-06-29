@@ -20,9 +20,6 @@ library
                  , Web.Stargate.Search
     build-depends: base   >= 4      && < 5
                  , scotty
-                 , parsec
-                 , aeson
-                 , aeson-pretty
                  , ginger
                  , filepath
                  , either-unwrap
@@ -34,4 +31,4 @@ library
                  , cassava
                  , split
                  , vector
-                 , vector-algorithms
+                 , attoparsec

@@ -9,7 +9,6 @@ import Text.Ginger.Parse
 import qualified Data.Stargate as D
 import qualified Data.Vector as V
 import Data.Vector ((!))
-import qualified Data.Vector.Algorithms.Merge as V
 import qualified Data.HashMap.Lazy as M
 import Control.Monad.ST
 import Data.STRef

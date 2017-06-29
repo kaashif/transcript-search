@@ -2,9 +2,9 @@
 {-# LANGUAGE OverloadedStrings #-}
 module Data.Stargate.Parse (readTranscript) where
 
-import Text.Parsec hiding (Parser, string)
-import qualified Text.Parsec as P (string)
-import Text.Parsec.Text (Parser)
+import Control.Applicative
+import Data.Attoparsec.Text
+import Data.Attoparsec.Combinator
 import qualified Data.Text.IO as T
 import qualified Data.Text as T
 import qualified Data.Text.Encoding as T
@@ -22,78 +22,75 @@ import Data.Vector ((!))
 readTranscript :: FilePath -> IO Episode
 readTranscript fname = do
   rawscript <- fmap T.decodeLatin1 $ BS.readFile fname
-  case (parse scriptp fname rawscript) of
-    Left err -> fail $ show err
+  case (parseOnly scriptp rawscript) of
     Right exprs -> return $ convert exprs
+    _ -> fail "something bad happened"
 
 scriptp :: Parser [ScriptExpr]
-scriptp = many (choice [try junkp, try annotationp, try placep, try speechp])
-
-string :: String -> Parser T.Text
-string s = fmap T.pack (P.string s)
+scriptp = many (choice [junkp, annotationp, placep, speechp])
 
 junkp :: Parser ScriptExpr
 junkp = do
-  j <- choice $ try excerptp : map (try . string) [ "ROLL CREDITS"
-                                                  , "TEASER"
-                                                  , "TO BE CONTINUED"
-                                                  , "FADE OUT"
-                                                  , "THE END"
-                                                  , "BEGIN EXCERPTS"
-                                                  , "END CREDITS"
-                                                  , "ROLL END CREDITS"
-                                                  , "CREDITS"
-                                                  , "END TEASER"
-                                                  , "END EXCERPT"
-                                                  , "END EXCERPTS"
-                                                  , "END FLASHBACK"
-                                                  , "OPENING CREDITS"
-                                                  , "CLOSING CREDITS"
-                                                  , "END TEASER--OPENING CREDITS"
-                                                  , "END OF TEASER--OPENING CREDITS"
-                                                  ]
-  skipMany $ string "\n"
+  j <- choice $ try excerptp : map string [ "ROLL CREDITS"
+                                          , "TEASER"
+                                          , "TO BE CONTINUED"
+                                          , "FADE OUT"
+                                          , "THE END"
+                                          , "BEGIN EXCERPTS"
+                                          , "END CREDITS"
+                                          , "ROLL END CREDITS"
+                                          , "CREDITS"
+                                          , "END TEASER"
+                                          , "END EXCERPT"
+                                          , "END EXCERPTS"
+                                          , "END FLASHBACK"
+                                          , "OPENING CREDITS"
+                                          , "CLOSING CREDITS"
+                                          , "END TEASER--OPENING CREDITS"
+                                          , "END OF TEASER--OPENING CREDITS"
+                                          ]
+  char '\n'
   return $ Junk j
 
 excerptp :: Parser T.Text
-excerptp = fmap T.concat $ sequence [ try (string "EXCERPT") <|> try (string "EXCERPTS") <|> try (string "FLASHBACK")
-                                  , fmap T.pack $ many (noneOf "\n")
-                                  ]
+excerptp = fmap T.concat $ sequence [ (string "EXCERPT") <|> (string "EXCERPTS") <|> (string "FLASHBACK")
+                                    , takeWhile1 (/='\n')
+                                    ]
 
 annotationp :: Parser ScriptExpr
 annotationp = do
   string "["
-  ann <- fmap (map (\c -> if c=='\n' then ' ' else c)) $ many (satisfy (\c -> isLatin1 c && c /= ']'))
+  ann <- fmap (T.map (\c -> if c=='\n' then ' ' else c)) $ (takeWhile1 (\c -> isLatin1 c && c /= ']'))
   string "]\n"
-  return $ Annotation $ T.pack ann
+  return $ Annotation ann
 
-headerChar :: Parser Char
-headerChar = satisfy (\c -> isLatin1 c && not (isLower c) && c/='\n')
+headerChar :: Char -> Bool
+headerChar c = isLatin1 c && not (isLower c) && c/='\n'
 
 namep :: Parser T.Text
-namep = fmap T.pack $ many headerChar
+namep = takeWhile1 headerChar
 
 placep :: Parser ScriptExpr
 placep = do
   try (string "INT--") <|> (string "EXT--")
   name <- namep
-  skipMany $ string "\n"
+  skip (=='\n')
   return $ Place name
   
 speechlinep :: Parser T.Text
 speechlinep = do
-  l <- many $ satisfy (\c -> isLatin1 c && c /= '\n')
-  skipMany $ string "\n"
-  return $ T.pack l
+  l <- takeWhile1 (\c -> isLatin1 c && c /= '\n')
+  skip (=='\n')
+  return l
 
 speechp :: Parser ScriptExpr
 speechp = do
   cname <- namep
   string "\n"
-  ls <- manyTill speechlinep (try $ lookAhead ps)
+  ls <- manyTill speechlinep (lookAhead ps)
   return $ Speech cname (T.intercalate " " ls)
       where namelinep = (Junk . T.concat) <$> sequence [namep, string "\n"]
-            ps = choice $ map try [junkp, placep, annotationp, namelinep]
+            ps = choice [junkp, placep, annotationp, namelinep]
 
 convert :: [ScriptExpr] -> Episode
 convert es = V.reverse $ convert' (V.singleton empty) (filter p es)
