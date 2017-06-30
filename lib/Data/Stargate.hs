@@ -8,17 +8,25 @@ import qualified Data.Text as T
 
 type Character = T.Text
 
-data ScriptExpr = Place T.Text
+data IntExt = Interior
+            | Exterior
+              deriving Show
+
+data ScriptExpr = Place IntExt T.Text
                 | Annotation T.Text
                 | Speech Character T.Text
                 | Junk T.Text
                   deriving Show
 
 data Scene = Scene {
+      intext :: IntExt,
       place :: T.Text,
       present :: S.Set T.Text,
       speech :: V.Vector (Character, T.Text),
       upperspeech :: V.Vector (Character, T.Text)
-    } deriving (Generic, Show)
+    } deriving Generic
+
+instance Show Scene where
+    show scene = concat [""]
 
 type Episode = V.Vector Scene

@@ -5,8 +5,12 @@
 <li role="presentation"><a href="/about">About</a></li>
 {% endblock %}
 {% block content %}
-<h2>{{ episode }}</h2>
+<h2>{{ episode }} (raw)</h2>
 <pre>
   {{ text }}
+</pre>
+<h2>{{ episode }} (parsed)</h2>
+<pre>
+{{ parsed_transcript }}
 </pre>
 {% endblock %}

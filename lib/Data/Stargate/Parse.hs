@@ -72,10 +72,10 @@ namep = takeWhile1 headerChar
 
 placep :: Parser ScriptExpr
 placep = do
-  try (string "INT--") <|> (string "EXT--")
+  intext <- (string "INT--") <|> (string "EXT--")
   name <- namep
   skip (=='\n')
-  return $ Place name
+  return $ Place (if "INT" `T.isPrefixOf` intext then Interior else Exterior) name
   
 speechlinep :: Parser T.Text
 speechlinep = do
@@ -93,11 +93,8 @@ speechp = do
             ps = choice [junkp, placep, annotationp, namelinep]
 
 convert :: [ScriptExpr] -> Episode
-convert es = V.reverse $ convert' (V.singleton empty) (filter p es)
-    where p e = case e of
-                  Junk s -> False
-                  _ -> True
-          empty = Scene "nowhere" S.empty V.empty V.empty
+convert es = V.reverse $ convert' (V.singleton empty) es
+    where empty = Scene Exterior "nowhere" S.empty V.empty V.empty
 
 convert' :: Episode -> [ScriptExpr] -> Episode
 convert' ep [] = ep
@@ -110,8 +107,8 @@ convert' scs' (ex:exs) = let
                        , speech = V.concat [speech sc, V.singleton (c, l)]
                        , upperspeech = V.concat [upperspeech sc, V.singleton (c, T.toUpper l)]
                        }
-  Place p -> convert' (V.cons newsc $ V.cons sc scs) exs
-      where newsc = Scene p S.empty V.empty V.empty
+  Place intext p -> convert' (V.cons newsc $ V.cons sc scs) exs
+      where newsc = Scene intext p S.empty V.empty V.empty
   Annotation ann -> convert' (V.cons newsc scs) exs
       where newsc = sc { speech = V.concat [speech sc, V.singleton ("ANNOTATION", ann)]
                        , upperspeech = V.concat [speech sc, V.singleton ("ANNOTATION", T.toUpper ann)]

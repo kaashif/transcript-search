@@ -29,6 +29,7 @@ import Data.Char
 import qualified Data.Vector as V
 import Data.Vector ((!))
 import Web.Stargate.Search
+import Data.Maybe
 
 main :: IO ()
 main = readAllTranscripts >>= \eps -> scotty 5000 $ do
@@ -37,7 +38,7 @@ main = readAllTranscripts >>= \eps -> scotty 5000 $ do
   get "/transcripts/:series/:episode" $ do
     series <- param "series"                      
     episode <- param "episode"
-    transR series episode
+    transR (findTrans eps series episode) series episode
   get "/search" $ do
     query <- param "query"
     place <- param "place"
@@ -55,6 +56,10 @@ readAllTranscripts = (forM ["sg1", "atl"] $ \series -> do
   fnames <- globDir1 (compile $ joinPath ["transcripts", series, "*"]) "."
   let readT f = readTranscript f >>= \t -> return (T.pack series, T.pack $ last $ splitPath f, t)
   V.mapM readT (V.fromList fnames)) >>= \m -> return $ V.concat m
+
+findTrans :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> D.Episode
+findTrans eps series episode = thd $ fromJust $ V.find (\(a, b, c) -> series == a && episode == b) eps
+  where thd (a,b,c) = c
 
 type Entry = (T.Text, T.Text, T.Text, T.Text)
 
@@ -80,19 +85,34 @@ indexR = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "index.html"])
   html $ TL.fromStrict $ htmlSource $ easyRender (M.empty :: M.HashMap T.Text T.Text) tpl
 
-transR :: T.Text -> T.Text -> ActionM ()
-transR series episode = do
+transR :: D.Episode -> T.Text -> T.Text -> ActionM ()
+transR ep series episode = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "transcript.html"])
-  ctx <- liftIO $ transcriptCtx series episode
+  ctx <- liftIO $ transcriptCtx ep series episode
   html $ TL.fromStrict $ htmlSource $ easyRender ctx tpl
 
-transcriptCtx :: T.Text -> T.Text -> IO (M.HashMap T.Text T.Text)
-transcriptCtx series episode = do
+transcriptCtx :: D.Episode -> T.Text -> T.Text -> IO (M.HashMap T.Text T.Text)
+transcriptCtx ep series episode = do
   text <- T.readFile $ joinPath ["transcripts", T.unpack series, T.unpack episode]
   let [season, epnum] = T.splitOn "." episode
   return $ M.fromList [("episode", T.concat [T.toUpper $ series, " Season ", season, " Episode ", epnum])
                       ,("text", text)
+                      ,("parsed_transcript", makeText ep)
                       ]
+
+makeText :: D.Episode -> T.Text
+makeText ep = T.concat [V.foldl' makeSceneText T.empty ep, "\nEND CREDITS"]
+  where makeSceneText soFar scene = if null $ D.speech scene
+                                    then ""
+                                    else T.concat [soFar, "\nLOCATION--", D.place scene, "\n\n", T.intercalate "\n" (V.toList $ V.map lineText $ D.speech scene)]
+        lineText (c,l) = T.concat ["  ", c, "\n", indent 5 50 l, "\n"]
+        indent n col l = T.intercalate "\n" $ map (\t -> T.concat [T.replicate n " ", t]) $ wordChunk col l
+
+wordChunk :: Int -> T.Text -> [T.Text]
+wordChunk col text = foldl' newOrAdd [] $ T.words text
+  where newOrAdd ls word = if null ls || ((T.length $ T.concat [last ls, " ", word]) > col)
+                           then ls ++ [word]
+                           else init ls ++ [T.concat [last ls, " ", word]]
 
 searchR :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> T.Text -> T.Text -> ActionM ()
 searchR eps query place person present = do
