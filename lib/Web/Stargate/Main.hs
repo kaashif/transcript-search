@@ -50,7 +50,7 @@ main = readAllTranscripts >>= \eps -> scotty 5000 $ do
   get "/style.css" $ do
     setHeader "Content-Type" "text/css"
     file "style.css"
-  get "/transcripts" $ transIndexR epentries
+  get "/transcripts" $ transIndexR $ sort epentries
 
 readAllTranscripts :: IO (V.Vector (T.Text, T.Text, D.Episode))
 readAllTranscripts = fmap V.concat $ forM ["sg1", "atl"] $ \series -> do
