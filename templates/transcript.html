@@ -5,11 +5,14 @@
 <li role="presentation"><a href="/about">About</a></li>
 {% endblock %}
 {% block content %}
-<h2>{{ episode }} (raw)</h2>
-<pre>
-  {{ text }}
-</pre>
-<h2>{{ episode }} (parsed)</h2>
+<div class="alert alert-info">
+  <strong>Note:</strong> there may be bugs in the parser that produced
+  this transcript. If you find a mistake, please report it on
+  GitHub. Visit <a href="http://www.stargate-sg1-solutions.com/wiki/Transcripts">the
+  stargate-sg1-solutions.com transcripts page</a> for the full
+  unedited transcripts.
+</div>
+<h2>{{ episode }}</h2>
 <pre>
 {{ parsed_transcript }}
 </pre>
