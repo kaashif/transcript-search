@@ -1,6 +1,6 @@
 {-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE OverloadedStrings #-}
-module Data.Stargate.Parse (readTranscript) where
+module Data.Stargate.Parse where
 
 import Control.Applicative
 import Data.Attoparsec.Text
@@ -18,13 +18,6 @@ import System.IO
 import Data.Stargate
 import qualified Data.Vector as V
 import Data.Vector ((!))
-
-readTranscript :: FilePath -> IO Episode
-readTranscript fname = do
-  rawscript <- fmap T.decodeLatin1 $ BS.readFile fname
-  case (parseOnly scriptp rawscript) of
-    Right exprs -> return $ convert exprs
-    _ -> fail "something bad happened"
 
 scriptp :: Parser [ScriptExpr]
 scriptp = many (choice [junkp, annotationp, placep, speechp])

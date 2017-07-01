@@ -27,6 +27,7 @@ makeResult i series season epnum scene = M.fromList [ ("url", Text $ T.concat ["
                                                     , ("match", Text $ head $ strline speech i (i+1))
                                                     , ("context_after", List $ strline speech (i+1) (i+3))
                                                     , ("episode", Text $ T.concat [T.toUpper series, " Season ", season, " Episode ", epnum])
+                                                    , ("epraw", Text $ T.concat [series, ": ", season, ".", epnum])
                                                     , ("place", Text $ D.place scene)
                                                     ]
     where speech = D.speech scene
@@ -52,8 +53,11 @@ sceneMatches scene query place person present = if or [ not $ any (match present
   readSTRef matches
 
 search :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> T.Text -> T.Text -> M.HashMap T.Text ResultsOrText
-search eps q place person present = runST $ do
+search eps q pl p pr = runST $ do
   let query = T.toUpper q                                      
+      person = T.toUpper p
+      place = T.toUpper pl
+      present = T.toUpper pr
   results <- newSTRef []
   found <- newSTRef (0 :: Int)
   forM_ [0..((V.length eps)-1)] $ \i -> do

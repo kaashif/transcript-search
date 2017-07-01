@@ -8,21 +8,19 @@ module Main where
 import Web.Scotty
 import Text.Ginger hiding (length)
 import Text.Ginger.Html hiding (html)
-import System.FilePath
 import System.IO.Error
 import System.IO
+import System.FilePath
 import Control.Monad.IO.Class
 import Data.List
 import qualified Data.HashMap.Lazy as M
 import qualified Data.Text.Lazy as TL
 import qualified Data.Text as T
 import qualified Data.Text.IO as T
-import Data.Stargate.Parse (readTranscript)
 import qualified Data.Stargate as D
-import System.FilePath.Glob hiding (match)
-import Control.Monad
 import qualified Data.Vector as V
 import Data.Stargate.Search
+import Data.Stargate.IO
 import Data.Maybe
 import Control.Monad.Trans.Writer.Lazy
 
@@ -55,12 +53,6 @@ main = readAllTranscripts >>= \eps -> scotty 5000 $ do
     setHeader "Content-Type" "text/css"
     file "style.css"
   get "/transcripts" $ transIndexR $ sort epentries
-
-readAllTranscripts :: IO (V.Vector (T.Text, T.Text, D.Episode))
-readAllTranscripts = fmap V.concat $ forM ["sg1", "atl"] $ \series -> do
-  fnames <- globDir1 (compile $ joinPath ["transcripts", series, "*"]) "."
-  let readT f = readTranscript f >>= \t -> return (T.pack series, T.pack $ last $ splitPath f, t)
-  V.mapM readT (V.fromList fnames)
 
 findTrans :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> D.Episode
 findTrans eps series episode = thd $ fromJust $ V.find (\(a, b, _) -> series == a && episode == b) eps
