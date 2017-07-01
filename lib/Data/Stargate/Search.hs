@@ -14,9 +14,11 @@ import Control.Monad
 
 data TextOrList = Text T.Text
                 | List [T.Text]
+                  deriving Show
 
 data ResultsOrText = RText T.Text
                    | Results [M.HashMap T.Text TextOrList]
+                     deriving Show
 
 match :: T.Text -> T.Text -> Bool
 match query body = (T.null query) || query `T.isInfixOf` body

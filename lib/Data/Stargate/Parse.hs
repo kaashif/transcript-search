@@ -104,6 +104,6 @@ convert' scs' (ex:exs) = let
       where newsc = Scene intext p S.empty V.empty V.empty
   Annotation ann -> convert' (V.cons newsc scs) exs
       where newsc = sc { speech = V.concat [speech sc, V.singleton ("ANNOTATION", ann)]
-                       , upperspeech = V.concat [speech sc, V.singleton ("ANNOTATION", T.toUpper ann)]
+                       , upperspeech = V.concat [upperspeech sc, V.singleton ("ANNOTATION", T.toUpper ann)]
                        }
   _ -> convert' (V.cons sc scs) exs
