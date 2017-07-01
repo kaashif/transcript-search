@@ -24,9 +24,6 @@ data Scene = Scene {
       present :: S.Set T.Text,
       speech :: V.Vector (Character, T.Text),
       upperspeech :: V.Vector (Character, T.Text)
-    } deriving Generic
-
-instance Show Scene where
-    show scene = concat [""]
+    } deriving (Show, Generic)
 
 type Episode = V.Vector Scene

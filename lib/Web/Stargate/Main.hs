@@ -1,6 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE ScopedTypeVariables #-}
 {-# LANGUAGE FlexibleInstances #-}
+{-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE MultiParamTypeClasses #-}
 module Web.Stargate.Main where
 import Web.Scotty
@@ -52,10 +53,10 @@ main = readAllTranscripts >>= \eps -> scotty 5000 $ do
   get "/transcripts" $ transIndexR epentries
 
 readAllTranscripts :: IO (V.Vector (T.Text, T.Text, D.Episode))
-readAllTranscripts = (forM ["sg1", "atl"] $ \series -> do
+readAllTranscripts = fmap V.concat $ forM ["sg1", "atl"] $ \series -> do
   fnames <- globDir1 (compile $ joinPath ["transcripts", series, "*"]) "."
   let readT f = readTranscript f >>= \t -> return (T.pack series, T.pack $ last $ splitPath f, t)
-  V.mapM readT (V.fromList fnames)) >>= \m -> return $ V.concat m
+  V.mapM readT (V.fromList fnames)
 
 findTrans :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> D.Episode
 findTrans eps series episode = thd $ fromJust $ V.find (\(a, b, c) -> series == a && episode == b) eps
@@ -80,16 +81,18 @@ templateFromFile fp = (parseGingerFile resolver fp) >>= \x -> case x of
                                                              Left err -> return Nothing
           loadFile fn = openFile fn ReadMode >>= hGetContents
 
+veryEasyRender ctx tpl = html $ TL.fromStrict $ htmlSource $ easyRender ctx tpl
+
 indexR :: ActionM ()
 indexR = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "index.html"])
-  html $ TL.fromStrict $ htmlSource $ easyRender (M.empty :: M.HashMap T.Text T.Text) tpl
+  veryEasyRender (M.empty :: M.HashMap T.Text T.Text) tpl
 
 transR :: D.Episode -> T.Text -> T.Text -> ActionM ()
 transR ep series episode = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "transcript.html"])
   ctx <- liftIO $ transcriptCtx ep series episode
-  html $ TL.fromStrict $ htmlSource $ easyRender ctx tpl
+  veryEasyRender ctx tpl
 
 transcriptCtx :: D.Episode -> T.Text -> T.Text -> IO (M.HashMap T.Text T.Text)
 transcriptCtx ep series episode = do
@@ -101,9 +104,9 @@ transcriptCtx ep series episode = do
                       ]
 
 makeText :: D.Episode -> T.Text
-makeText ep = T.concat [V.foldl' makeSceneText T.empty ep, "\nEND CREDITS"]
-  where makeSceneText soFar scene = if null $ D.speech scene
-                                    then ""
+makeText ep = T.concat ["TEASER\n", V.foldl' makeSceneText T.empty ep, "\nEND CREDITS"]
+  where makeSceneText soFar scene = if D.place scene == "nowhere"
+                                    then soFar
                                     else T.concat [soFar, "\nLOCATION--", D.place scene, "\n\n", T.intercalate "\n" (V.toList $ V.map lineText $ D.speech scene)]
         lineText (c,l) = T.concat ["  ", c, "\n", indent 5 50 l, "\n"]
         indent n col l = T.intercalate "\n" $ map (\t -> T.concat [T.replicate n " ", t]) $ wordChunk col l
@@ -118,12 +121,12 @@ searchR :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> T.Text ->
 searchR eps query place person present = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "results.html"])
   let ctx = search eps query place person present
-  html $ TL.fromStrict $ htmlSource $ easyRender ctx tpl
+  veryEasyRender ctx tpl
 
 aboutR :: ActionM ()
 aboutR = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "about.html"])
-  html $ TL.fromStrict $ htmlSource $ easyRender (M.empty :: M.HashMap T.Text T.Text) tpl
+  veryEasyRender (M.empty :: M.HashMap T.Text T.Text) tpl
 
 transIndexR :: [Entry] -> ActionM ()
 transIndexR epentries = do
@@ -134,4 +137,4 @@ transIndexR epentries = do
                                                                                                                 , ("episode", r)
                                                                                                                 , ("title", s)
                                                                                                                 ]) epentries)]
-  html $ TL.fromStrict $ htmlSource $ easyRender ctx tpl
+  veryEasyRender ctx tpl
