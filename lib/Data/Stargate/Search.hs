@@ -1,11 +1,9 @@
 {-# LANGUAGE FlexibleInstances #-}
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE MultiParamTypeClasses #-}
-module Web.Stargate.Search where
+module Data.Stargate.Search where
 
 import qualified Data.Text as T
-import Text.Ginger hiding (length)
-import Text.Ginger.Parse
 import qualified Data.Stargate as D
 import qualified Data.Vector as V
 import Data.Vector ((!))
@@ -17,18 +15,8 @@ import Control.Monad
 data TextOrList = Text T.Text
                 | List [T.Text]
 
-instance ToGVal m TextOrList where
-    toGVal torm = case torm of
-                    Text t -> toGVal t
-                    List l -> toGVal l
-
 data ResultsOrText = RText T.Text
                    | Results [M.HashMap T.Text TextOrList]
-
-instance ToGVal m ResultsOrText where
-    toGVal rort = case rort of
-                    RText t -> toGVal t
-                    Results t -> toGVal t
 
 match :: T.Text -> T.Text -> Bool
 match query body = (T.null query) || query `T.isInfixOf` body
@@ -67,7 +55,7 @@ search :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> T.Text -> 
 search eps q place person present = runST $ do
   let query = T.toUpper q                                      
   results <- newSTRef []
-  found <- newSTRef 0
+  found <- newSTRef (0 :: Int)
   forM_ [0..((V.length eps)-1)] $ \i -> do
       let (series, epstr, episode) = eps ! i
           [season, epnum] = T.splitOn "." epstr

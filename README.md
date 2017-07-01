@@ -4,7 +4,7 @@ This is a web app for searching transcripts from the Stargate TV
 series. You can run it by cloning this repo and running:
 
 	$ stack build
-	$ stack exec stargate-search
+	$ stack exec stargate-search-web
 	Setting phasers to stun... (port 5000) (ctrl-c to quit)
 
 And you can access it at localhost.
@@ -23,6 +23,7 @@ There is also an instance running at <http://stargate.kaashif.co.uk>.
 * Search by season/episode
 * Multiple search queries
 * Regular expressions
+* Command line interface
 
 ## Raw data
 
