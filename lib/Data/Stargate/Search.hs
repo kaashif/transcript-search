@@ -72,7 +72,7 @@ search eps q pl p pr = runST $ do
             ks -> do
               let newresults = map (\k -> makeResult k series season epnum (episode ! j) title) ks
               modifySTRef results (newresults++)
-              modifySTRef found (+1)
+              modifySTRef found (+(length ks))
   nfound <- readSTRef found
   let toomany = if nfound >= 500 then "yes" else "no"
   finalres <- readSTRef results
