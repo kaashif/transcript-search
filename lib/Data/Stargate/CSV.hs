@@ -36,7 +36,7 @@ toLineRecords serie epcode ep = let
                                                     , place = pl
                                                     , speech = snd speec
                                                     }
-    in V.concat $ V.toList $ V.map sceneToLineRecords ep
+    in V.concat $ V.toList $ V.map sceneToLineRecords (D.scenes ep)
 
 toCsv :: M.HashMap (T.Text, T.Text) D.Episode -> BSL.ByteString
 toCsv m = encode $ M.foldlWithKey' convert' [] m

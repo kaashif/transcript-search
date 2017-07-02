@@ -16,6 +16,7 @@ data ScriptExpr = Place IntExt T.Text
                 | Annotation T.Text
                 | Speech Character T.Text
                 | Junk T.Text
+                | Title T.Text
                   deriving Show
 
 data Scene = Scene {
@@ -26,4 +27,7 @@ data Scene = Scene {
       upperspeech :: V.Vector (Character, T.Text)
     } deriving (Show, Generic)
 
-type Episode = V.Vector Scene
+data Episode = Episode {
+      scenes :: V.Vector Scene,
+      title :: T.Text
+    } deriving (Show, Generic)

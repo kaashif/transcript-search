@@ -62,8 +62,8 @@ type Entry = (T.Text, T.Text, T.Text, T.Text)
 
 makeEntries :: V.Vector (T.Text, T.Text, D.Episode) -> [Entry]
 makeEntries eps = let
-    oneEntry entries (series, episode, _) = let
-          newentry = (series, season, epnum, "unknown")
+    oneEntry entries (series, episode, ep) = let
+          newentry = (series, season, epnum, D.title ep)
           [season, epnum] = T.splitOn "." episode
         in newentry:entries
   in V.foldl' oneEntry [] eps
@@ -95,14 +95,15 @@ transcriptCtx :: D.Episode -> T.Text -> T.Text -> IO (M.HashMap T.Text T.Text)
 transcriptCtx ep series episode = do
   t <- T.readFile $ joinPath ["transcripts", T.unpack series, T.unpack episode]
   let [season, epnum] = T.splitOn "." episode
-  return $ M.fromList [("episode", T.concat [T.toUpper $ series, " Season ", season, " Episode ", epnum])
+  return $ M.fromList [("episode", T.concat [T.toUpper $ series, " Season ", season, " Episode ", epnum, ": ", D.title ep])
                       ,("text", t)
                       ,("parsed_transcript", makeText ep)
                       ]
 
 makeText :: D.Episode -> T.Text
-makeText ep = T.concat ["TEASER\n", V.foldl' makeSceneText T.empty ep, "\nEND CREDITS"]
-  where makeSceneText soFar scene = if D.place scene == "nowhere"
+makeText e = T.concat ["TEASER\n", V.foldl' makeSceneText T.empty ep, "\nEND CREDITS"]
+  where ep = D.scenes e
+        makeSceneText soFar scene = if D.place scene == "nowhere"
                                     then soFar
                                     else T.concat [soFar, "\nLOCATION--", D.place scene, "\n\n", T.intercalate "\n" (V.toList $ V.map lineText $ D.speech scene)]
         lineText (c,l) = T.concat ["  ", c, "\n", indent 5 50 l, "\n"]

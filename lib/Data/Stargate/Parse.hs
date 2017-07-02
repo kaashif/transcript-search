@@ -20,7 +20,10 @@ import qualified Data.Vector as V
 import Data.Vector ((!))
 
 scriptp :: Parser [ScriptExpr]
-scriptp = many (choice [junkp, annotationp, placep, speechp])
+scriptp = do
+  title <- titlep
+  exprs <- many (choice [junkp, annotationp, placep, speechp])
+  return $ title:exprs
 
 junkp :: Parser ScriptExpr
 junkp = do
@@ -44,6 +47,13 @@ junkp = do
                                           ]
   char '\n'
   return $ Junk j
+
+titlep :: Parser ScriptExpr
+titlep = do
+  string "TITLE\n"
+  t <- takeWhile1 (/='\n')
+  string "\n"
+  return $ Title t
 
 excerptp :: Parser T.Text
 excerptp = fmap T.concat $ sequence [ (string "EXCERPT") <|> (string "EXCERPTS") <|> (string "FLASHBACK")
@@ -86,24 +96,26 @@ speechp = do
             ps = choice [junkp, placep, annotationp, namelinep]
 
 convert :: [ScriptExpr] -> Episode
-convert es = V.reverse $ convert' (V.singleton empty) es
+convert es = reversed { scenes = V.reverse $ scenes reversed }
     where empty = Scene Exterior "nowhere" S.empty V.empty V.empty
+          reversed = convert' "" (V.singleton empty) es
 
-convert' :: Episode -> [ScriptExpr] -> Episode
-convert' ep [] = ep
-convert' scs' (ex:exs) = let
+convert' :: T.Text -> V.Vector Scene -> [ScriptExpr] -> Episode
+convert' title ep [] = Episode ep title
+convert' title scs' (ex:exs) = let
     sc = V.head scs'
     scs = V.tail scs'
   in case ex of
-  Speech c l -> convert' (V.cons newsc scs) exs
+  Title t -> convert' t scs' exs
+  Speech c l -> convert' title (V.cons newsc scs) exs
       where newsc = sc { present = S.insert c (present sc)
                        , speech = V.concat [speech sc, V.singleton (c, l)]
                        , upperspeech = V.concat [upperspeech sc, V.singleton (c, T.toUpper l)]
                        }
-  Place intext p -> convert' (V.cons newsc $ V.cons sc scs) exs
+  Place intext p -> convert' title (V.cons newsc $ V.cons sc scs) exs
       where newsc = Scene intext p S.empty V.empty V.empty
-  Annotation ann -> convert' (V.cons newsc scs) exs
+  Annotation ann -> convert' title (V.cons newsc scs) exs
       where newsc = sc { speech = V.concat [speech sc, V.singleton ("ANNOTATION", ann)]
                        , upperspeech = V.concat [upperspeech sc, V.singleton ("ANNOTATION", T.toUpper ann)]
                        }
-  _ -> convert' (V.cons sc scs) exs
+  _ -> convert' title (V.cons sc scs) exs

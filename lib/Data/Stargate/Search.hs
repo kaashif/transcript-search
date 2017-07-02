@@ -23,14 +23,14 @@ data ResultsOrText = RText T.Text
 match :: T.Text -> T.Text -> Bool
 match query body = (T.null query) || query `T.isInfixOf` body
 
-makeResult :: Int -> T.Text -> T.Text -> T.Text -> D.Scene -> M.HashMap T.Text TextOrList
-makeResult i series season epnum scene = M.fromList [ ("url", Text $ T.concat ["/transcripts/", series, "/", season, ".", epnum])
-                                                    , ("context_before", List $ strline speech (i-2) i)
-                                                    , ("match", Text $ head $ strline speech i (i+1))
-                                                    , ("context_after", List $ strline speech (i+1) (i+3))
-                                                    , ("episode", Text $ T.concat [T.toUpper series, " Season ", season, " Episode ", epnum])
-                                                    , ("epraw", Text $ T.concat [series, ": ", season, ".", epnum])
-                                                    , ("place", Text $ D.place scene)
+makeResult :: Int -> T.Text -> T.Text -> T.Text -> D.Scene -> T.Text -> M.HashMap T.Text TextOrList
+makeResult i series season epnum scene title = M.fromList [ ("url", Text $ T.concat ["/transcripts/", series, "/", season, ".", epnum])
+                                                          , ("context_before", List $ strline speech (i-2) i)
+                                                          , ("match", Text $ head $ strline speech i (i+1))
+                                                          , ("context_after", List $ strline speech (i+1) (i+3))
+                                                          , ("episode", Text $ T.concat [T.toUpper series, " Season ", season, " Episode ", epnum, ": ", title])
+                                                          , ("epraw", Text $ T.concat [series, ": ", season, ".", epnum])
+                                                          , ("place", Text $ D.place scene)
                                                     ]
     where speech = D.speech scene
 
@@ -63,14 +63,14 @@ search eps q pl p pr = runST $ do
   results <- newSTRef []
   found <- newSTRef (0 :: Int)
   forM_ [0..((V.length eps)-1)] $ \i -> do
-      let (series, epstr, episode) = eps ! i
+      let (series, epstr, D.Episode episode title) = eps ! i
           [season, epnum] = T.splitOn "." epstr
       forM_ [0..((V.length episode)-1)] $ \j -> do
           let matchks = sceneMatches (episode ! j) query place person present
           case matchks of
             [] -> return ()
             ks -> do
-              let newresults = map (\k -> makeResult k series season epnum (episode ! j)) ks
+              let newresults = map (\k -> makeResult k series season epnum (episode ! j) title) ks
               modifySTRef results (newresults++)
               modifySTRef found (+1)
   nfound <- readSTRef found

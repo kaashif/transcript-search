@@ -1,3 +1,4 @@
+{-# LANGUAGE OverloadedStrings #-}
 module Data.Stargate.IO where
 
 import qualified Data.Vector as V
@@ -10,13 +11,15 @@ import Data.Attoparsec.Text (parseOnly)
 import Control.Monad
 import System.FilePath.Glob
 import qualified Data.ByteString as BS
+import qualified Data.Set as S
 
 readTranscript :: FilePath -> IO D.Episode
 readTranscript fname = do
   rawscript <- fmap T.decodeLatin1 $ BS.readFile fname
-  case (parseOnly scriptp rawscript) of
+  case parseOnly scriptp rawscript of
     Right exprs -> return $ convert exprs
-    _ -> fail "something bad happened"
+    _ -> return $ D.Episode (V.singleton noScene) T.empty
+    where noScene = D.Scene D.Exterior "nowhere" S.empty V.empty V.empty
 
 readAllTranscripts :: IO (V.Vector (T.Text, T.Text, D.Episode))
 readAllTranscripts = fmap V.concat $ forM ["sg1", "atl"] $ \series -> do
