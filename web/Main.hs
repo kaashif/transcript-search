@@ -23,6 +23,7 @@ import Data.Stargate.Search
 import Data.Stargate.IO
 import Data.Maybe
 import Control.Monad.Trans.Writer.Lazy
+import System.Environment
 
 instance ToGVal m TextOrList where
     toGVal torm = case torm of
@@ -35,7 +36,10 @@ instance ToGVal m ResultsOrText where
                     Results t -> toGVal t
 
 main :: IO ()
-main = readAllTranscripts >>= \eps -> scotty 5000 $ do
+main = do
+  eps <- readAllTranscripts
+  port <- fmap (fromMaybe "5000") $ lookupEnv "PORT"
+  scotty (read port :: Int) $ do
   let epentries = makeEntries eps
   get "/" indexR
   get "/transcripts/:series/:episode" $ do
