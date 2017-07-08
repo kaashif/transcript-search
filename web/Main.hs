@@ -24,6 +24,7 @@ import Data.Stargate.IO
 import Data.Maybe
 import Control.Monad.Trans.Writer.Lazy
 import System.Environment
+import Control.Concurrent.Async (async, wait)
 
 instance ToGVal m TextOrList where
     toGVal torm = case torm of
@@ -37,16 +38,17 @@ instance ToGVal m ResultsOrText where
 
 main :: IO ()
 main = do
-  eps <- readAllTranscripts
+  aeps <- async readAllTranscripts
   port <- fmap (fromMaybe "5000") $ lookupEnv "PORT"
   scotty (read port :: Int) $ do
-  let epentries = makeEntries eps
   get "/" indexR
   get "/transcripts/:series/:episode" $ do
+    eps <- liftIO $ wait aeps
     series <- param "series"                      
     episode <- param "episode"
     transR (findTrans eps series episode) series episode
   get "/search" $ do
+    eps <- liftIO $ wait aeps
     query <- param "query"
     place <- param "place"
     person <- param "person"
@@ -56,7 +58,9 @@ main = do
   get "/style.css" $ do
     setHeader "Content-Type" "text/css"
     file "style.css"
-  get "/transcripts" $ transIndexR $ sort epentries
+  get "/transcripts" $ do
+    epentries <- fmap makeEntries $ liftIO $ wait aeps
+    transIndexR $ sort epentries
 
 findTrans :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> D.Episode
 findTrans eps series episode = thd $ fromJust $ V.find (\(a, b, _) -> series == a && episode == b) eps

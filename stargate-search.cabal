@@ -21,6 +21,7 @@ executable          stargate-search-web
                   , split
                   , vector
                   , transformers
+                  , async
 
 executable          stargate-search-cli
     hs-source-dirs: cli
