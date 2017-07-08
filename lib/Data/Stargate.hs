@@ -10,7 +10,7 @@ type Character = T.Text
 
 data IntExt = Interior
             | Exterior
-              deriving Show
+              deriving (Show, Generic)
 
 data ScriptExpr = Place IntExt T.Text
                 | Annotation T.Text

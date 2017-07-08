@@ -47,6 +47,7 @@ library
                    , Data.Stargate.CSV
                    , Data.Stargate.Search
                    , Data.Stargate.IO
+                   , Data.Stargate.JSON
     build-depends: base   >= 4      && < 5
                  , filepath
                  , either-unwrap
@@ -59,3 +60,4 @@ library
                  , split
                  , vector
                  , attoparsec
+                 , aeson

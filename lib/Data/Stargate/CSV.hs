@@ -38,6 +38,6 @@ toLineRecords serie epcode ep = let
                                                     }
     in V.concat $ V.toList $ V.map sceneToLineRecords (D.scenes ep)
 
-toCsv :: M.HashMap (T.Text, T.Text) D.Episode -> BSL.ByteString
-toCsv m = encode $ M.foldlWithKey' convert' [] m
-    where convert' recs (serie, epcode) ep = (V.toList $ toLineRecords serie epcode ep) ++ recs
+toCsv :: V.Vector (T.Text, T.Text, D.Episode) -> BSL.ByteString
+toCsv v = encode $ V.foldl' convert' [] v
+    where convert' recs (serie, epcode, ep) = (V.toList $ toLineRecords serie epcode ep) ++ recs
