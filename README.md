@@ -11,6 +11,11 @@ And you can access it at localhost.
 
 There is also an instance running at <http://stargate.kaashif.co.uk>.
 
+And, you can deploy it to Heroku yourself. Simply create an app with
+the
+[Heroku Stack Buildpack](https://github.com/mfine/heroku-buildpack-stack)
+and push this there.
+
 ## Current features
 
 * Search by spoken phrase
