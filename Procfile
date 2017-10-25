@@ -1,2 +1,0 @@
-web: stargate-search-web
-
