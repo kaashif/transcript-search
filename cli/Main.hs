@@ -17,11 +17,13 @@ main :: IO ()
 main = do
   args <- getArgs
   ts <- readAllTranscripts
-  if length args == 0
-    then forever $ do
-         querystr <- getLine
-         putStrLn $ doSearch ts querystr
-    else BSL.putStr $ toCsv ts
+  case args of
+    ["interactive"] -> forever $ do
+              querystr <- getLine
+              putStrLn $ doSearch ts querystr
+    ["dumpcsv"] -> BSL.putStr $ toCsv ts
+    ["search", query] -> putStrLn $ doSearch ts query
+    _ -> return ()
 
 doSearch :: V.Vector (T.Text, T.Text, D.Episode) -> String -> String
 doSearch ts querystr = case (fromJust $ M.lookup "results" $ search ts (T.toUpper $ T.pack querystr) "" "" "") of
