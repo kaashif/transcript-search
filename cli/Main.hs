@@ -7,15 +7,21 @@ import qualified Data.Stargate as D
 import qualified Data.Vector as V
 import qualified Data.Text as T
 import qualified Data.HashMap.Lazy as M
+import qualified Data.ByteString.Lazy as BSL
 import Data.Maybe
 import Control.Monad
+import System.Environment (getArgs)
+import Data.Stargate.CSV
 
 main :: IO ()
 main = do
+  args <- getArgs
   ts <- readAllTranscripts
-  forever $ do
-    querystr <- getLine
-    putStrLn $ doSearch ts querystr
+  if length args == 0
+    then forever $ do
+         querystr <- getLine
+         putStrLn $ doSearch ts querystr
+    else BSL.putStr $ toCsv ts
 
 doSearch :: V.Vector (T.Text, T.Text, D.Episode) -> String -> String
 doSearch ts querystr = case (fromJust $ M.lookup "results" $ search ts (T.toUpper $ T.pack querystr) "" "" "") of
