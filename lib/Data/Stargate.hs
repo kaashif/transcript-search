@@ -17,7 +17,7 @@ data ScriptExpr = Place IntExt T.Text
                 | Speech Character T.Text
                 | Junk T.Text
                 | Title T.Text
-                  deriving Show
+                  deriving (Show, Generic)
 
 data Scene = Scene {
       intext :: IntExt,

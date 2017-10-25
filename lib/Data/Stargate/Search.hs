@@ -1,6 +1,7 @@
 {-# LANGUAGE FlexibleInstances #-}
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE MultiParamTypeClasses #-}
+{-# LANGUAGE DeriveGeneric #-}
 module Data.Stargate.Search where
 
 import qualified Data.Text as T
@@ -11,14 +12,15 @@ import qualified Data.HashMap.Lazy as M
 import Control.Monad.ST
 import Data.STRef
 import Control.Monad
+import GHC.Generics
 
 data TextOrList = Text T.Text
                 | List [T.Text]
-                  deriving Show
+                  deriving (Show, Generic)
 
 data ResultsOrText = RText T.Text
                    | Results [M.HashMap T.Text TextOrList]
-                     deriving Show
+                     deriving (Show, Generic)
 
 match :: T.Text -> T.Text -> Bool
 match query body = (T.null query) || query `T.isInfixOf` body
