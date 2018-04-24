@@ -10,6 +10,7 @@ import Text.Ginger hiding (length)
 import Text.Ginger.Html hiding (html)
 import System.IO.Error
 import System.IO
+import System.Random
 import System.FilePath
 import Control.Monad.IO.Class
 import Data.List
@@ -24,7 +25,8 @@ import Data.Stargate.IO
 import Data.Maybe
 import Control.Monad.Trans.Writer.Lazy
 import System.Environment
-import Control.Concurrent.Async (async, wait)
+import qualified Data.MarkovChain as MC
+import Text.Wrap as TW
 
 instance ToGVal m TextOrList where
     toGVal torm = case torm of
@@ -38,17 +40,19 @@ instance ToGVal m ResultsOrText where
 
 main :: IO ()
 main = do
-  aeps <- async readAllTranscripts
+  (eps, raweps) <- fmap V.unzip readAllTranscripts
+  let wordlist = concat $ V.toList $ V.map T.words raweps
   port <- fmap (fromMaybe "5000") $ lookupEnv "PORT"
   scotty (read port :: Int) $ do
   get "/" indexR
   get "/transcripts/:series/:episode" $ do
-    eps <- liftIO $ wait aeps
     series <- param "series"                      
     episode <- param "episode"
     transR (findTrans eps series episode) series episode
+  get "/random" $ do
+    rand <- liftIO getStdGen
+    genR $ TW.wrapText TW.defaultWrapSettings 80 $ generateTrans rand wordlist
   get "/search" $ do
-    eps <- liftIO $ wait aeps
     query <- param "query"
     place <- param "place"
     person <- param "person"
@@ -59,12 +63,14 @@ main = do
     setHeader "Content-Type" "text/css"
     file "style.css"
   get "/transcripts" $ do
-    epentries <- fmap makeEntries $ liftIO $ wait aeps
-    transIndexR $ sort epentries
+    transIndexR $ sort $ makeEntries eps
 
 findTrans :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> D.Episode
 findTrans eps series episode = thd $ fromJust $ V.find (\(a, b, _) -> series == a && episode == b) eps
   where thd (_,_,c) = c
+
+generateTrans :: StdGen -> [T.Text] -> T.Text
+generateTrans rand wordlist = T.unwords $ take 5000 $ MC.run 2 wordlist 0 rand
 
 type Entry = (T.Text, T.Text, T.Text, T.Text)
 
@@ -76,7 +82,7 @@ makeEntries eps = let
         in newentry:entries
   in V.foldl' oneEntry [] eps
 
-templateFromFile :: FilePath -> IO Template
+templateFromFile :: SourceName -> IO (Template SourcePos)
 templateFromFile fp = (parseGingerFile resolver fp) >>= \x -> case x of
                                                                 Right t -> return t
                                                                 Left e -> fail $ show e
@@ -85,7 +91,9 @@ templateFromFile fp = (parseGingerFile resolver fp) >>= \x -> case x of
                                                              Left _ -> return Nothing
           loadFile fn = openFile fn ReadMode >>= hGetContents
 
-veryEasyRender :: ToGVal (Run (Writer Html) Html) v => v -> Template -> ActionM ()
+veryEasyRender :: (ToGVal (Run p (Writer Html) Html) v,
+                   ToGVal (Run p (Writer Html) Html) p) =>
+                  v -> Template p -> ActionM ()
 veryEasyRender ctx tpl = html $ TL.fromStrict $ htmlSource $ easyRender ctx tpl
 
 indexR :: ActionM ()
@@ -96,15 +104,20 @@ indexR = do
 transR :: D.Episode -> T.Text -> T.Text -> ActionM ()
 transR ep series episode = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "transcript.html"])
-  ctx <- liftIO $ transcriptCtx ep series episode
+  ctx <- liftIO $ transcriptCtx ep series episode ""
   veryEasyRender ctx tpl
 
-transcriptCtx :: D.Episode -> T.Text -> T.Text -> IO (M.HashMap T.Text T.Text)
-transcriptCtx ep series episode = do
-  t <- T.readFile $ joinPath ["transcripts", T.unpack series, T.unpack episode]
+genR :: T.Text -> ActionM ()
+genR raw = do
+  tpl <- liftIO $ templateFromFile (joinPath ["templates", "random.html"])
+  ctx <- liftIO $ transcriptCtx (parseRaw "") "AI Generated Stargate" "0.0" raw
+  veryEasyRender ctx tpl
+
+transcriptCtx :: D.Episode -> T.Text -> T.Text -> T.Text -> IO (M.HashMap T.Text T.Text)
+transcriptCtx ep series episode debug = do
   let [season, epnum] = T.splitOn "." episode
   return $ M.fromList [("episode", T.concat [T.toUpper $ series, " Season ", season, " Episode ", epnum, ": ", D.title ep])
-                      ,("text", t)
+                      ,("text", debug)
                       ,("parsed_transcript", makeText ep)
                       ]
 

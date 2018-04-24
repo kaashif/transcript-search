@@ -22,23 +22,9 @@ executable          stargate-search-web
                   , vector
                   , transformers
                   , async
-
-executable          stargate-search-cli
-    hs-source-dirs: cli
-    main-is:        Main.hs
-    ghc-options:    -Wall -threaded -O2
-    extensions:     OverloadedStrings
-    build-depends:  base   >= 4      && < 5
-                  , stargate-search
-                  , filepath
-                  , either-unwrap
-                  , text
-                  , containers
-                  , unordered-containers
-                  , Glob
-                  , bytestring
-                  , split
-                  , vector
+                  , markov-chain
+                  , random
+                  , word-wrap
 
 library
     hs-source-dirs: lib

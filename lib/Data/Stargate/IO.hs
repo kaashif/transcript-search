@@ -13,16 +13,19 @@ import System.FilePath.Glob
 import qualified Data.ByteString as BS
 import qualified Data.Set as S
 
-readTranscript :: FilePath -> IO D.Episode
-readTranscript fname = do
-  rawscript <- fmap T.decodeLatin1 $ BS.readFile fname
-  case parseOnly scriptp rawscript of
-    Right exprs -> return $ convert exprs
-    _ -> return $ D.Episode (V.singleton noScene) T.empty
+parseRaw :: T.Text -> D.Episode
+parseRaw raw = case parseOnly scriptp raw of
+                 Right exprs -> convert exprs
+                 _ -> D.Episode (V.singleton noScene) T.empty
     where noScene = D.Scene D.Exterior "nowhere" S.empty V.empty V.empty
 
-readAllTranscripts :: IO (V.Vector (T.Text, T.Text, D.Episode))
+readTranscript :: FilePath -> IO (D.Episode, T.Text)
+readTranscript fname = do
+  raw <- fmap T.decodeLatin1 $ BS.readFile fname
+  return (parseRaw raw, raw)
+
+readAllTranscripts :: IO (V.Vector ((T.Text, T.Text, D.Episode), T.Text))
 readAllTranscripts = fmap V.concat $ forM ["sg1", "atl"] $ \series -> do
   fnames <- globDir1 (compile $ joinPath ["transcripts", series, "*"]) "."
-  let readT f = readTranscript f >>= \t -> return (T.pack series, T.pack $ last $ splitPath f, t)
+  let readT f = readTranscript f >>= \(t, raw) -> return ((T.pack series, T.pack $ last $ splitPath f, t), raw)
   V.mapM readT (V.fromList fnames)
