@@ -8,6 +8,9 @@ import qualified Data.Text as T
 
 type Character = T.Text
 
+newtype SpeechLine = SpeechLine (Character, T.Text)
+  deriving Show
+
 data IntExt = Interior
             | Exterior
               deriving (Show, Generic, Eq, Ord)
@@ -23,8 +26,8 @@ data Scene = Scene {
       intext :: IntExt,
       place :: T.Text,
       present :: S.Set T.Text,
-      speech :: V.Vector (Character, T.Text),
-      upperspeech :: V.Vector (Character, T.Text)
+      speech :: V.Vector SpeechLine,
+      upperspeech :: V.Vector SpeechLine
     } deriving (Show, Generic)
 
 data Episode = Episode {
