@@ -16,7 +16,7 @@ import qualified Data.Set as S
 parseRaw :: T.Text -> D.Episode
 parseRaw raw = case parseOnly scriptp raw of
                  Right exprs -> convert exprs
-                 _ -> D.Episode (V.singleton noScene) T.empty
+                 _ -> D.Episode (V.singleton noScene) T.empty []
     where noScene = D.Scene D.Exterior "nowhere" S.empty V.empty V.empty
 
 readTranscript :: FilePath -> IO (D.Episode, T.Text)

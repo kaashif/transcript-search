@@ -96,12 +96,12 @@ speechp = do
             ps = choice [junkp, placep, annotationp, namelinep]
 
 convert :: [ScriptExpr] -> Episode
-convert es = reversed { scenes = V.reverse $ scenes reversed }
+convert es = reversed { scenes = V.reverse $ scenes reversed, exprs = es }
     where empty = Scene Exterior "nowhere" S.empty V.empty V.empty
           reversed = convert' "" (V.singleton empty) es
 
 convert' :: T.Text -> V.Vector Scene -> [ScriptExpr] -> Episode
-convert' title ep [] = Episode ep title
+convert' title ep [] = Episode ep title []
 convert' title scs' (ex:exs) = let
     sc = V.head scs'
     scs = V.tail scs'

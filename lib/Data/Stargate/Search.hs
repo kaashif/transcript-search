@@ -65,7 +65,7 @@ search eps q pl p pr = runST $ do
   results <- newSTRef []
   found <- newSTRef (0 :: Int)
   forM_ [0..((V.length eps)-1)] $ \i -> do
-      let (series, epstr, D.Episode episode title) = eps ! i
+      let (series, epstr, D.Episode episode title _) = eps ! i
           [season, epnum] = T.splitOn "." epstr
       forM_ [0..((V.length episode)-1)] $ \j -> do
           let matchks = sceneMatches (episode ! j) query place person present

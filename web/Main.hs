@@ -41,7 +41,8 @@ instance ToGVal m ResultsOrText where
 main :: IO ()
 main = do
   (eps, raweps) <- fmap V.unzip readAllTranscripts
-  let wordlist = concat $ V.toList $ V.map T.words raweps
+  let thd (_,_,c) = c
+  let wordlist = exprsToMarkov $ concat $ V.map (D.exprs . thd) eps
   port <- fmap (fromMaybe "5000") $ lookupEnv "PORT"
   scotty (read port :: Int) $ do
   get "/" indexR
@@ -69,8 +70,8 @@ findTrans :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> D.Episo
 findTrans eps series episode = thd $ fromJust $ V.find (\(a, b, _) -> series == a && episode == b) eps
   where thd (_,_,c) = c
 
-generateTrans :: StdGen -> [T.Text] -> T.Text
-generateTrans rand wordlist = T.unwords $ take 5000 $ MC.run 2 wordlist 0 rand
+generateTrans :: StdGen -> [MarkovExpr] -> T.Text
+generateTrans rand wordlist = markovToText $ take 5000 $ MC.run 2 wordlist 0 rand
 
 type Entry = (T.Text, T.Text, T.Text, T.Text)
 
@@ -110,7 +111,7 @@ transR ep series episode = do
 genR :: T.Text -> ActionM ()
 genR raw = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "random.html"])
-  ctx <- liftIO $ transcriptCtx (parseRaw "") "AI Generated Stargate" "0.0" raw
+  ctx <- liftIO $ transcriptCtx (parseRaw "") "AI" "0.0" raw
   veryEasyRender ctx tpl
 
 transcriptCtx :: D.Episode -> T.Text -> T.Text -> T.Text -> IO (M.HashMap T.Text T.Text)
@@ -157,3 +158,26 @@ transIndexR epentries = do
                                                                                                                 , ("title", s)
                                                                                                                 ]) epentries)]
   veryEasyRender ctx tpl
+
+markovToText :: [MarkovExpr] -> T.Text
+markovToText [] = T.empty
+markovToText (e:es) = T.concat [one e, markovToText es]
+    where one (Word t) = T.concat [" ", t]
+          one (Place i t) = T.concat ["\n\nLOCATION--", t, "\n"]
+          one (Annotation) = "\n\nSTAGE DIRECTION\n"
+          one (Speech c) = T.concat ["\n\n", c, "\n"]
+
+exprsToMarkov :: [D.ScriptExpr] -> [MarkovExpr]
+exprsToMarkov = concat . map exprToMarkov
+
+exprToMarkov :: D.ScriptExpr -> [MarkovExpr]
+exprToMarkov (D.Place i t) = [Place i t]
+exprToMarkov (D.Annotation t) = Annotation:(map Word $ T.words t)
+exprToMarkov (D.Speech c t) = (Speech c):(map Word $ T.words t)
+exprToMarkov _ = []
+
+data MarkovExpr = Word T.Text
+                | Place D.IntExt T.Text
+                | Annotation
+                | Speech D.Character
+                  deriving (Ord, Eq)

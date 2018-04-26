@@ -10,14 +10,14 @@ type Character = T.Text
 
 data IntExt = Interior
             | Exterior
-              deriving (Show, Generic)
+              deriving (Show, Generic, Eq, Ord)
 
 data ScriptExpr = Place IntExt T.Text
                 | Annotation T.Text
                 | Speech Character T.Text
                 | Junk T.Text
                 | Title T.Text
-                  deriving (Show, Generic)
+                  deriving (Show, Generic, Eq)
 
 data Scene = Scene {
       intext :: IntExt,
@@ -29,5 +29,6 @@ data Scene = Scene {
 
 data Episode = Episode {
       scenes :: V.Vector Scene,
-      title :: T.Text
+      title :: T.Text,
+      exprs :: [ScriptExpr]
     } deriving (Show, Generic)
