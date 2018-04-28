@@ -8,24 +8,25 @@ import qualified Data.MarkovChain as MC
 -- | Lists of these are used to train the model
 data MarkovExpr = Word T.Text
                 | Place D.IntExt T.Text
-                | Annotation
                 | Speech D.Character
                   deriving (Ord, Eq)
 
 
 -- | Converts expressions to transcript text
 markovToText :: [MarkovExpr] -> T.Text
-markovToText [] = T.empty
-markovToText (e:es) = T.concat [one e, markovToText es]
-    where one (Word t) = T.concat [" ", t]
-          one (Place _ t) = T.concat ["\n\nLOCATION--", t, "\n"]
-          one (Annotation) = "\n\nSTAGE DIRECTION\n"
-          one (Speech c) = T.concat ["\n\n", c, "\n"]
+markovToText l = T.replace "\n\n" "\n" $ T.concat ["TITLE\nMarkov Chain Generated Transcript", markovToText' l]
+
+markovToText' :: [MarkovExpr] -> T.Text
+markovToText' [] = T.empty
+markovToText' (e:es) = T.concat [one e, markovToText' es]
+    where one (Word t) = T.concat [t, " "]
+          one (Place _ t) = T.concat ["\nINT--", t]
+          one (Speech c) = T.concat ["\n", c, "\n"]
 
 -- | Cuts up fully parsed expressions into trainable chunks
 exprToMarkov :: D.ScriptExpr -> [MarkovExpr]
 exprToMarkov (D.Place i t) = [Place i t]
-exprToMarkov (D.Annotation t) = Annotation:(map Word $ T.words t)
+exprToMarkov (D.Annotation t) = (Speech "STAGE DIRECTION"):(map Word $ T.words t)
 exprToMarkov (D.Speech c t) = (Speech c):(map Word $ T.words t)
 exprToMarkov _ = []
 
