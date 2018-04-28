@@ -37,7 +37,7 @@ toLineRecords serie epcode ep = let
     [seasnum, epnum] :: [Int] = map (read . T.unpack) $ T.splitOn "." epcode
     sceneToLineRecords (sceneno, scene) = V.map (lineToLineRecord sceneno (D.place scene) (D.present scene))
                                      (V.indexed $ D.speech scene)
-    lineToLineRecord sceneno pl pr (lineno, speec) = LineRecord { epid = toId serie seasnum epnum sceneno lineno
+    lineToLineRecord sceneno pl pr (lineno, D.SpeechLine speec) = LineRecord { epid = toId serie seasnum epnum sceneno lineno
                                                         , person = fst speec
                                                         , present = T.intercalate " " $ S.toList pr
                                                         , place = pl

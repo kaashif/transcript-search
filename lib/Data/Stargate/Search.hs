@@ -36,13 +36,13 @@ makeResult i series season epnum scene title = M.fromList [ ("url", Text $ T.con
                                                     ]
     where speech = D.speech scene
 
-strline :: V.Vector (D.Character, T.Text) -> Int -> Int -> [T.Text]
+strline :: V.Vector D.SpeechLine -> Int -> Int -> [T.Text]
 strline speech x y
         | x > y = []
         | x < 0 = strline speech 0 y
         | x >= V.length speech = []
         | y > V.length speech = strline speech x (V.length speech)
-        | otherwise =  V.toList $ V.map (\(c, l) -> T.concat [c, ": ", l]) (V.slice x (y-x) speech)
+        | otherwise =  V.toList $ V.map (\(D.SpeechLine (c, l)) -> T.concat [c, ": ", l]) (V.slice x (y-x) speech)
 
 sceneMatches :: D.Scene -> T.Text -> T.Text -> T.Text -> T.Text -> [Int]
 sceneMatches scene query place person present = if or [ not $ any (match present) (D.present scene)
@@ -52,9 +52,11 @@ sceneMatches scene query place person present = if or [ not $ any (match present
                                                 else runST $ do
   matches <- newSTRef []
   forM_ [0..((V.length $ D.speech scene)-1)] $ \k ->
-      when ((match person (fst $ (D.speech scene) ! k)) && (match query $ snd $ (D.upperspeech scene) ! k))
+      when ((match person (sfst $ (D.speech scene) ! k)) && (match query $ ssnd $ (D.upperspeech scene) ! k))
            (modifySTRef matches (k:))
   readSTRef matches
+      where sfst (D.SpeechLine p) = fst p
+            ssnd (D.SpeechLine p) = snd p
 
 search :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> T.Text -> T.Text -> M.HashMap T.Text ResultsOrText
 search eps q pl p pr = runST $ do

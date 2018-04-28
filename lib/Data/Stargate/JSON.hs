@@ -8,6 +8,7 @@ import qualified Data.Text as T
 import qualified Data.Vector as V
 import System.FilePath
 
+instance ToJSON SpeechLine
 instance ToJSON Scene
 instance ToJSON ScriptExpr
 instance ToJSON Episode

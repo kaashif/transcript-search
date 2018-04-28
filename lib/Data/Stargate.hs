@@ -9,7 +9,7 @@ import qualified Data.Text as T
 type Character = T.Text
 
 newtype SpeechLine = SpeechLine (Character, T.Text)
-  deriving Show
+  deriving (Show, Generic)
 
 data IntExt = Interior
             | Exterior

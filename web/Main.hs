@@ -19,6 +19,7 @@ import qualified Data.Text.Lazy as TL
 import qualified Data.Text as T
 import qualified Data.Stargate as D
 import qualified Data.Vector as V
+import qualified Data.Stargate.Parse as P
 import Data.Stargate.Search
 import Data.Stargate.IO
 import Data.Stargate.Markov
@@ -53,6 +54,7 @@ main = do
     transR (findTrans eps series episode) series episode
   get "/random" $ do
     rand <- liftIO getStdGen
+    liftIO newStdGen
     genR $ TW.wrapText TW.defaultWrapSettings 80 $ generateTrans rand wordlist
   get "/search" $ do
     query <- param "query"
@@ -111,7 +113,7 @@ transR ep series episode = do
 genR :: T.Text -> ActionM ()
 genR raw = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "random.html"])
-  ctx <- liftIO $ transcriptCtx (parseRaw "") "AI" "0.0" raw
+  ctx <- liftIO $ transcriptCtx (parseRaw raw) "AI" "0.0" T.empty
   veryEasyRender ctx tpl
 
 transcriptCtx :: D.Episode -> T.Text -> T.Text -> T.Text -> IO (M.HashMap T.Text T.Text)
@@ -125,8 +127,6 @@ transcriptCtx ep series episode debug = do
                       ,("text", debug)
                       ,("parsed_transcript", showt ep)
                       ]
-
-
 
 searchR :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> T.Text -> T.Text -> ActionM ()
 searchR eps query place person present = do

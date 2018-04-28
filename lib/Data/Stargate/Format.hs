@@ -16,7 +16,7 @@ instance TextShow D.Episode where
 
 instance TextShow (V.Vector D.Scene) where
     showb ss = V.foldl' showSceneConcat mempty ss
-        where showSceneConcat soFar scene = if scene == "nowhere"
+        where showSceneConcat soFar scene = if D.place scene == "nowhere"
                                             then soFar
                                             else soFar <> (showb scene)
 
@@ -26,12 +26,12 @@ instance TextShow D.Scene where
                           ,fromText "\n\n"
                           ,unlinesB (V.toList $ V.map showb $ D.speech scene)]
 
-instance TextShow D.Speech where
-    showb (c,l) = mconcat [fromText "  "
-                          ,fromText c
-                          ,fromText "\n"
-                          ,fromText $ indent 5 50 l
-                          ,fromText "\n"]
+instance TextShow D.SpeechLine where
+    showb (D.SpeechLine (c,l)) = mconcat [fromText "  "
+                                         ,fromText c
+                                         ,fromText "\n"
+                                         ,fromText $ indent 5 50 l
+                                         ,fromText "\n"]
                  
 -- | Converts a line of text to a block indented n spaces, wrapped to col characters
 indent :: Int -> Int -> T.Text -> T.Text

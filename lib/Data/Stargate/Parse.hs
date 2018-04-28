@@ -109,13 +109,13 @@ convert' title scs' (ex:exs) = let
   Title t -> convert' t scs' exs
   Speech c l -> convert' title (V.cons newsc scs) exs
       where newsc = sc { present = S.insert c (present sc)
-                       , speech = V.concat [speech sc, V.singleton (c, l)]
-                       , upperspeech = V.concat [upperspeech sc, V.singleton (c, T.toUpper l)]
+                       , speech = V.concat [speech sc, V.singleton $ SpeechLine (c, l)]
+                       , upperspeech = V.concat [upperspeech sc, V.singleton $ SpeechLine (c, T.toUpper l)]
                        }
   Place intext p -> convert' title (V.cons newsc $ V.cons sc scs) exs
       where newsc = Scene intext p S.empty V.empty V.empty
   Annotation ann -> convert' title (V.cons newsc scs) exs
-      where newsc = sc { speech = V.concat [speech sc, V.singleton ("ANNOTATION", ann)]
-                       , upperspeech = V.concat [upperspeech sc, V.singleton ("ANNOTATION", T.toUpper ann)]
+      where newsc = sc { speech = V.concat [speech sc, V.singleton $ SpeechLine ("ANNOTATION", ann)]
+                       , upperspeech = V.concat [upperspeech sc, V.singleton $ SpeechLine ("ANNOTATION", T.toUpper ann)]
                        }
   _ -> convert' title (V.cons sc scs) exs
