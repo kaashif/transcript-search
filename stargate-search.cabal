@@ -49,9 +49,9 @@ library
                  , vector
                  , attoparsec
                  , aeson
-                 , markov-chain
                  , random
                  , text-show
+                 , transformers
 
 
 benchmark bench-parser
