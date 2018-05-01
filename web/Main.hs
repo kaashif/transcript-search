@@ -44,7 +44,8 @@ main :: IO ()
 main = do
   eps <- readAllTranscripts
   let thd (_,_,c) = c
-  let wordlist = exprsToMarkov $ concat $ V.map (D.exprs . thd) eps
+  let wordlist = V.fromList $ exprsToMarkov $ concat $ V.map (D.exprs . thd) eps
+  let succmap = createMap2 wordlist
   port <- fmap (fromMaybe "5000") $ lookupEnv "PORT"
   scotty (read port :: Int) $ do
   get "/" indexR
@@ -55,7 +56,7 @@ main = do
   get "/random" $ do
     rand <- liftIO getStdGen
     liftIO newStdGen
-    genR $ TW.wrapText TW.defaultWrapSettings 80 $ generateTrans rand wordlist
+    genR $ TW.wrapText TW.defaultWrapSettings 80 $ generateTrans rand wordlist succmap
   get "/search" $ do
     query <- param "query"
     place <- param "place"

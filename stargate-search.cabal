@@ -52,7 +52,7 @@ library
                  , random
                  , text-show
                  , transformers
-
+                 , hashable
 
 benchmark bench-parser
     type:           exitcode-stdio-1.0
@@ -71,4 +71,6 @@ benchmark bench-parser
                   , vector
                   , criterion
                   , deepseq
+                  , random
+                  , word-wrap
     ghc-options:  -Wall -threaded -O2

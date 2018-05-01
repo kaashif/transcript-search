@@ -1,19 +1,31 @@
 {-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE DeriveGeneric #-}
 module Data.Stargate.Markov where
 import qualified Data.Text as T
 import qualified Data.Stargate as D
 import System.Random
-import Data.Map (Map)
-import qualified Data.Map as Map
+import qualified Data.HashMap.Lazy as M
+import qualified Data.Hashable as M
 import System.Random (RandomGen, randomR)
-import Control.Monad.Trans.State (State, state, evalState)
 import qualified Data.Vector as V
+import Data.Vector ((!))
+import Control.Monad.ST
+import Data.STRef
+import Control.Monad
+import Data.Maybe
+import qualified Data.Sequence as S
+import Data.Sequence ((|>))
+import Data.Foldable (toList)
+import GHC.Generics
 
 -- | Lists of these are used to train the model
 data MarkovExpr = Word T.Text
                 | Place D.IntExt T.Text
                 | Speech D.Character
-                  deriving (Ord, Eq)
+                  deriving (Ord, Eq, Generic)
+
+instance M.Hashable D.IntExt
+instance M.Hashable MarkovExpr
 
 -- | Converts expressions to transcript text
 markovToText :: [MarkovExpr] -> T.Text
@@ -38,114 +50,41 @@ exprsToMarkov :: [D.ScriptExpr] -> [MarkovExpr]
 exprsToMarkov = concat . map exprToMarkov
 
 -- | Trains and runs a new Markov chain model, generating raw transcript text
-generateTrans :: StdGen -> [MarkovExpr] -> T.Text
-generateTrans rand wordlist = markovToText $ take 5000 $ run 2 wordlist 0 rand
+generateTrans :: StdGen -> V.Vector MarkovExpr -> M.HashMap (MarkovExpr, MarkovExpr) (V.Vector MarkovExpr) -> T.Text
+generateTrans rand wordlist succmap = markovToText $ run 2 wordlist 0 rand 5000 succmap
 
-
-{- |
-Creates a chain of elements
-respecting to the probabilities of possible successors.
-The list is considered being cyclic in order
-to have successors for the last elements.
-
-Example:
-
-> take 100 $ run 2 "The sad cat sat on the mat. " 0 (Random.mkStdGen 123)
-
--}
-run :: (Ord a, RandomGen g) =>
+run :: (Eq a, M.Hashable a, RandomGen g) =>
       Int  -- ^ size of prediction context
-   -> [a]  -- ^ training sequence, the one to walk through randomly
+   -> V.Vector a  -- ^ training sequence, the one to walk through randomly
    -> Int  -- ^ index to start the random walk within the training sequence
    -> g    -- ^ random generator state
-   -> [a]
-run n dict start g = 
-   let keyError = error "key is not contained in dictionary"
-       fm = createMap n dict
-       {- This is the main function of this program.
-          It is quite involved.
-          If you want to understand it,
-          imagine that the list 'y' completely exists
-          before the computation. -}
-       y = take n (drop start dict) ++
-           -- run them on the initial random generator state
-           (flip evalState g $
-            -- this turns the list of possible successors
-            -- into an action that generate a list
-            -- of randomly chosen items
-            mapM
-               (randomItem .
-                -- lookup all possible successors of an infix
-                flip (Map.findWithDefault keyError) fm .
-                -- turn suffix into an infixes of length n
-                take n) $
-            iterate tail y)
-   in  y
+   -> Int -- length of sequence to generate
+   -> M.HashMap (a, a) (V.Vector a)
+   -> [a] -- random result
+run n wordlist start g len succmap = runST $ do
+  randgen <- newSTRef g
+  result <- newSTRef S.empty
+  -- start off with some initial words
+  modifySTRef result (\s -> s |> (wordlist ! 0))
+  modifySTRef result (\s -> s |> (wordlist ! 1))
+  forM_ [1..len] $ \i -> do
+    s <- readSTRef result
+    let (w1, w2) = (S.index s (S.length s - 2), S.index s (S.length s -1))
+    gen <- readSTRef randgen
+    let (next,newgen) = randomElem gen $ fromJust $ M.lookup (w1,w2) succmap
+    modifySTRef result (\s -> s |> next)
+    writeSTRef randgen newgen
+  readSTRef result >>= return . toList
 
+randomElem :: RandomGen g => g -> V.Vector a -> (a, g)
+randomElem g v = (v ! index, newg)
+  where (index, newg) = randomR (0, (V.length v) - 1) g
 
-runMulti :: (Ord a, RandomGen g) =>
-      Int    -- ^ size of prediction context
-   -> [[a]]  -- ^ training sequences, the order is relevant
-   -> Int    -- ^ index of starting training sequence
-   -> g      -- ^ random generator state
-   -> [[a]]
-runMulti n dicts i g =
-   let wrappedDicts = map ((Nothing :) . map Just) dicts
-       k  = sum (map length (take i wrappedDicts))
-       xs = run n (concat wrappedDicts) k g
-       ([], ys) = segment (maybe (Left ()) Right) xs
-   in  map snd ys
-
-{-
-runMulti :: (Ord a, RandomGen g) =>
-      Int        -- ^ size of prediction context
-   -> [[a]]      -- ^ training sequences, the order is relevant
-   -> (Int,Int)  -- ^ index to start the random walk within a training sequence
-   -> g          -- ^ random generator state
-   -> [[a]]
-runMulti n dicts (i,j) g =
-   let wrappedDicts = map ((Nothing :) . map Just) dicts
-       k  = sum (map length (take i wrappedDicts)) + j
-       xs = run n (concat wrappedDicts) k g
-       (y, ys) = segment (maybe (Left ()) Right) xs
-   in  y : map snd ys
--}
-
-segment :: (a -> Either b c) -> [a] -> ([c], [(b,[c])])
-segment p =
-   foldr (\ x ~(y,ys) ->
-      either
-         (\b -> ([], (b,y):ys))
-         (\c -> (c:y, ys))
-         (p x)) ([], [])
-
-{- |
-Choose a random item from a list.
--}
-randomItem :: (RandomGen g) => [a] -> State g a
-randomItem x = fmap (x!!) (randomRState (0, length x - 1))
-
-{- |
-'System.Random.randomR' wrapped in a State monad.
--}
-randomRState :: (RandomGen g) => (Int,Int) -> State g Int
-randomRState bnds = state (randomR bnds)
-
-{- |
-Create a map that lists for each string all possible successors.
--}
-createMap :: (Ord a) => Int -> [a] -> Map [a] [a]
-createMap n x =
-   let xc = cycle x
-       -- list of the map keys
-       sufxs   = map (take n) (iterate tail xc)
-       -- list of the map images, i.e. single element lists
-       imgxs   = map (:[]) (drop n xc)
-       mapList = takeMatch x (zip sufxs imgxs)
-   in  Map.fromListWith (++) mapList
-
-{- |
-Lazy variant of 'take'.
--}
-takeMatch :: [b] -> [a] -> [a]
-takeMatch = zipWith (flip const)
+-- Creates a map of [n words] -> [possible successor words]
+createMap2 :: (Eq a, M.Hashable a) => V.Vector a -> M.HashMap (a, a) (V.Vector a)
+createMap2 wordlist = runST $ do
+  succmap <- newSTRef (M.empty :: M.HashMap (a, a) (V.Vector a))
+  forM_ [0..(V.length wordlist)-1-2] $ \i -> do
+    let (w1, w2, successor) = (wordlist ! i, wordlist ! (i+1), wordlist ! (i+2))
+    modifySTRef succmap (M.insertWith (V.++) (w1,w2) (V.singleton successor))
+  readSTRef succmap >>= return
