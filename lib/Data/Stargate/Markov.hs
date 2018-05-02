@@ -17,6 +17,8 @@ import qualified Data.Sequence as S
 import Data.Sequence ((|>))
 import Data.Foldable (toList)
 import GHC.Generics
+import qualified Data.Vector.Unboxed.Mutable as VM
+import qualified Data.Vector.Unboxed as VU
 
 -- | Lists of these are used to train the model
 data MarkovExpr = Word T.Text
@@ -28,15 +30,10 @@ instance M.Hashable D.IntExt
 instance M.Hashable MarkovExpr
 
 -- | Converts expressions to transcript text
-markovToText :: [MarkovExpr] -> T.Text
-markovToText l = T.replace "\n\n" "\n" $ T.concat ["TITLE\nMarkov Chain Generated Transcript", markovToText' l]
-
-markovToText' :: [MarkovExpr] -> T.Text
-markovToText' [] = T.empty
-markovToText' (e:es) = T.concat [one e, markovToText' es]
-    where one (Word t) = T.concat [t, " "]
-          one (Place _ t) = T.concat ["\nINT--", t]
-          one (Speech c) = T.concat ["\n", c, "\n"]
+markovToText :: MarkovExpr -> T.Text
+markovToText (Word t) = T.concat [t, " "]
+markovToText (Place _ t) = T.concat ["\nINT--", t]
+markovToText (Speech c) = T.concat ["\n", c, "\n"]
 
 -- | Cuts up fully parsed expressions into trainable chunks
 exprToMarkov :: D.ScriptExpr -> [MarkovExpr]
@@ -51,12 +48,15 @@ exprsToMarkov = concat . map exprToMarkov
 
 -- | Trains and runs a new Markov chain model, generating raw transcript text
 generateTrans :: StdGen
-              -> V.Vector Int
-              -> M.HashMap (Int, Int) (V.Vector Int)
+              -> VU.Vector Int
+              -> M.HashMap (Int, Int) (VU.Vector Int)
               -> (MarkovExpr -> Int)
               -> (Int -> MarkovExpr)
               -> T.Text
-generateTrans rand wordlist succmap toInt toMarkov = markovToText $ map toMarkov $ run 2 wordlist 0 rand 5000 succmap
+generateTrans rand wordlist succmap toInt toMarkov = T.replace "\n\n" "\n" $ VU.foldl' (accumMarkovToText toMarkov) "TITLE\nMarkov Chain Generated Transcript\n" $ run 2 wordlist 0 rand 5000 succmap
+
+accumMarkovToText :: (Int -> MarkovExpr) -> T.Text -> Int -> T.Text
+accumMarkovToText f t code = T.append t (markovToText $ f code)
 
 -- | Makes a lookup table and its inverse (saves space)
 makeLookup :: V.Vector MarkovExpr -> (MarkovExpr -> Int, Int -> MarkovExpr)
@@ -80,43 +80,45 @@ makeLookup v = runST $ do
   let toMarkovF i = fromJust $ M.lookup i toMarkov
   return (toIntF, toMarkovF)
 
-run :: (Eq a, M.Hashable a, RandomGen g) =>
-      Int  -- ^ size of prediction context
-   -> V.Vector a  -- ^ training sequence, the one to walk through randomly
-   -> Int  -- ^ index to start the random walk within the training sequence
-   -> g    -- ^ random generator state
-   -> Int -- length of sequence to generate
-   -> M.HashMap (a, a) (V.Vector a)
-   -> [a] -- random result
+run :: (RandomGen g)
+    => Int  -- ^ size of prediction context
+    -> VU.Vector Int  -- ^ training sequence, the one to walk through randomly
+    -> Int  -- ^ index to start the random walk within the training sequence
+    -> g    -- ^ random generator state
+    -> Int -- length of sequence to generate
+    -> M.HashMap (Int, Int) (VU.Vector Int)
+    -> VU.Vector Int -- random result, unboxed for performance
 run n wordlist start g len succmap = runST $ do
   randgen <- newSTRef g
-  result <- newSTRef S.empty
+  result <- VM.new len
   -- start off with some initial words
-  modifySTRef' result (\s -> s |> (wordlist ! 0))
-  modifySTRef' result (\s -> s |> (wordlist ! 1))
-  forM_ [1..len] $ \i -> do
-    s <- readSTRef result
-    let (w1, w2) = (S.index s (S.length s - 2), S.index s (S.length s -1))
+  VU.indexM wordlist 0 >>= VM.write result 0 
+  VU.indexM wordlist 1 >>= VM.write result 1
+  forM_ [2..len-1] $ \i -> do
+    w1 <- VM.read result (i-2)
+    w2 <- VM.read result (i-1)
     gen <- readSTRef randgen
-    let (next,newgen) = randomElem gen $ fromJust $ M.lookup (w1,w2) succmap
-    modifySTRef' result (\s -> s |> next)
+    (next,newgen) <- randomElem gen $ fromJust $ M.lookup (w1,w2) succmap
+    VM.write result i next
     writeSTRef randgen newgen
-  readSTRef result >>= return . toList
+  VU.unsafeFreeze result
 
-randomElem :: RandomGen g => g -> V.Vector a -> (a, g)
-randomElem g v = (v ! index, newg)
-  where (index, newg) = randomR (0, (V.length v) - 1) g
+randomElem :: Monad m => RandomGen g => g -> VU.Vector Int -> m (Int, g)
+randomElem g v = do
+  elt <- VU.indexM v index
+  return (elt, newg)
+    where (index, newg) = randomR (0, (VU.length v) - 1) g
 
 -- Creates a map of [n words] -> [possible successor words] (for now n=2 always)
-createMap2 :: (Eq a, M.Hashable a) => V.Vector a -> M.HashMap (a, a) (V.Vector a)
+createMap2 :: VU.Vector Int -> M.HashMap (Int, Int) (VU.Vector Int)
 createMap2 wordlist = runST $ do
-  succmap <- newSTRef (M.empty :: M.HashMap (a, a) (V.Vector a))
-  forM_ [0..(V.length wordlist)-1-2] $ \i -> do
-    w1 <- V.indexM wordlist i
-    w2 <- V.indexM wordlist (i+1)
-    successor <- V.indexM wordlist (i+2)
+  succmap <- newSTRef (M.empty :: M.HashMap (Int, Int) (VU.Vector Int))
+  forM_ [0..(VU.length wordlist)-1-2] $ \i -> do
+    w1 <- VU.indexM wordlist i
+    w2 <- VU.indexM wordlist (i+1)
+    successor <- VU.indexM wordlist (i+2)
     modifySTRef' succmap (\m -> case M.lookup (w1,w2) m of
-                                  Nothing -> M.insert (w1,w2) (V.singleton successor) m
-                                  Just succs -> M.insert (w1,w2) (V.cons successor succs) m)
+                                  Nothing -> M.insert (w1,w2) (VU.singleton successor) m
+                                  Just succs -> M.insert (w1,w2) (VU.cons successor succs) m)
   seqmap <- readSTRef succmap
   return seqmap
