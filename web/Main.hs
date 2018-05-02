@@ -19,6 +19,7 @@ import qualified Data.Text.Lazy as TL
 import qualified Data.Text as T
 import qualified Data.Stargate as D
 import qualified Data.Vector as V
+import qualified Data.Vector.Unboxed as VU
 import qualified Data.Stargate.Parse as P
 import Data.Stargate.Search
 import Data.Stargate.IO
@@ -46,7 +47,7 @@ main = do
   let thd (_,_,c) = c
   let wordlist1 = V.fromList $ exprsToMarkov $ concat $ V.map (D.exprs . thd) eps
   let (toInt, toMarkov) = makeLookup wordlist1
-  let wordlist = V.map toInt wordlist1
+  let wordlist = VU.convert $ V.map toInt wordlist1
   let succmap = createMap2 wordlist
 
   -- statistics useful for optimization
