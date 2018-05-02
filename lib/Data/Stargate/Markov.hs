@@ -1,5 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE DeriveGeneric #-}
+{-# LANGUAGE BangPatterns #-}
 module Data.Stargate.Markov where
 import qualified Data.Text as T
 import qualified Data.Stargate as D
@@ -46,19 +47,18 @@ exprToMarkov _ = []
 exprsToMarkov :: [D.ScriptExpr] -> [MarkovExpr]
 exprsToMarkov = concat . map exprToMarkov
 
--- | Trains and runs a new Markov chain model, generating raw transcript text
+-- | Runs a given Markov chain model, generating raw transcript text
 generateTrans :: StdGen
               -> VU.Vector Int
               -> M.HashMap (Int, Int) (VU.Vector Int)
               -> (MarkovExpr -> Int)
               -> (Int -> MarkovExpr)
               -> T.Text
-generateTrans rand wordlist succmap toInt toMarkov = T.replace "\n\n" "\n" $ VU.foldl' (accumMarkovToText toMarkov) "TITLE\nMarkov Chain Generated Transcript\n" $ run 2 wordlist 0 rand 5000 succmap
+generateTrans rand wordlist succmap toInt toMarkov = T.replace "\n\n" "\n" $ T.append title trans
+    where title = "TITLE\nMarkov Chain Generated Transcript\n"
+          trans = T.concat $ V.toList $ V.map (markovToText . toMarkov) $ VU.convert $ run 2 wordlist 0 rand 5000 succmap
 
-accumMarkovToText :: (Int -> MarkovExpr) -> T.Text -> Int -> T.Text
-accumMarkovToText f t code = T.append t (markovToText $ f code)
-
--- | Makes a lookup table and its inverse (saves space)
+-- | Makes a lookup table and its inverse (saves space, lets us use unboxed stuff)
 makeLookup :: V.Vector MarkovExpr -> (MarkovExpr -> Int, Int -> MarkovExpr)
 makeLookup v = runST $ do
   toIntMap <- newSTRef M.empty
