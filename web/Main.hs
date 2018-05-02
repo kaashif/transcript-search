@@ -44,8 +44,19 @@ main :: IO ()
 main = do
   eps <- readAllTranscripts
   let thd (_,_,c) = c
-  let wordlist = V.fromList $ exprsToMarkov $ concat $ V.map (D.exprs . thd) eps
+  let wordlist1 = V.fromList $ exprsToMarkov $ concat $ V.map (D.exprs . thd) eps
+  let (toInt, toMarkov) = makeLookup wordlist1
+  let wordlist = V.map toInt wordlist1
   let succmap = createMap2 wordlist
+
+  -- statistics useful for optimization
+--let nkeys = length $ M.keys succmap
+--let val_lengths = map length $ M.elems succmap
+--let avg_length = fromIntegral (sum val_lengths) / fromIntegral (length val_lengths)
+--putStrLn $ concat ["Number of keys: ", show nkeys, "\n"
+--                  ,"Average value length: ", show avg_length, "\n"
+--                  ]
+      
   port <- fmap (fromMaybe "5000") $ lookupEnv "PORT"
   scotty (read port :: Int) $ do
   get "/" indexR
@@ -56,7 +67,7 @@ main = do
   get "/random" $ do
     rand <- liftIO getStdGen
     liftIO newStdGen
-    genR $ TW.wrapText TW.defaultWrapSettings 80 $ generateTrans rand wordlist succmap
+    genR $ TW.wrapText TW.defaultWrapSettings 80 $ generateTrans rand wordlist succmap toInt toMarkov
   get "/search" $ do
     query <- param "query"
     place <- param "place"
