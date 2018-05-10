@@ -53,24 +53,3 @@ library
                  , text-show
                  , transformers
                  , hashable
-
-benchmark bench-parser
-    type:           exitcode-stdio-1.0
-    hs-source-dirs: bench
-    main-is:        Parser.hs
-    build-depends:  base   >= 4      && < 5
-                  , stargate-search
-                  , filepath
-                  , either-unwrap
-                  , text
-                  , containers
-                  , unordered-containers
-                  , Glob
-                  , bytestring
-                  , split
-                  , vector
-                  , criterion
-                  , deepseq
-                  , random
-                  , word-wrap
-    ghc-options:  -Wall -threaded -O2
