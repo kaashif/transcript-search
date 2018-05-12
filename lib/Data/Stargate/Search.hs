@@ -23,7 +23,11 @@ data ResultsOrText = RText T.Text
                      deriving (Show, Generic)
 
 match :: T.Text -> T.Text -> Bool
-match query body = (T.null query) || query `T.isInfixOf` body
+match query body = (T.null query) || (or $ map match' [ T.toLower query
+                                                      , T.toUpper query
+                                                      , T.toTitle query
+                                                      ])
+    where match' w = w `T.isInfixOf` body
 
 makeResult :: Int -> T.Text -> T.Text -> T.Text -> D.Scene -> T.Text -> M.HashMap T.Text TextOrList
 makeResult i series season epnum scene title = M.fromList [ ("url", Text $ T.concat ["/transcripts/", series, "/", season, ".", epnum])
@@ -52,8 +56,8 @@ sceneMatches scene query place person present = if or [ not $ any (match present
                                                 else runST $ do
   matches <- newSTRef []
   forM_ [0..((V.length $ D.speech scene)-1)] $ \k ->
-      when ((match person (sfst $ (D.speech scene) ! k)) && (match query $ ssnd $ (D.upperspeech scene) ! k))
-           (modifySTRef matches (k:))
+      when ((match person (sfst $ (D.speech scene) ! k)) && (match query $ ssnd $ (D.speech scene) ! k))
+           (modifySTRef' matches (k:))
   readSTRef matches
       where sfst (D.SpeechLine p) = fst p
             ssnd (D.SpeechLine p) = snd p
@@ -75,8 +79,8 @@ search eps q pl p pr = runST $ do
             [] -> return ()
             ks -> do
               let newresults = map (\k -> makeResult k series season epnum (episode ! j) title) ks
-              modifySTRef results (newresults++)
-              modifySTRef found (+(length ks))
+              modifySTRef' results (newresults++)
+              modifySTRef' found (+(length ks))
   nfound <- readSTRef found
   let toomany = if nfound >= 500 then "yes" else "no"
   finalres <- readSTRef results

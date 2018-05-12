@@ -97,7 +97,7 @@ speechp = do
 
 convert :: [ScriptExpr] -> Episode
 convert es = reversed { scenes = V.reverse $ scenes reversed, exprs = es }
-    where empty = Scene Exterior "nowhere" S.empty V.empty V.empty
+    where empty = Scene Exterior "nowhere" S.empty V.empty
           reversed = convert' "" (V.singleton empty) es
 
 convert' :: T.Text -> V.Vector Scene -> [ScriptExpr] -> Episode
@@ -110,12 +110,10 @@ convert' title scs' (ex:exs) = let
   Speech c l -> convert' title (V.cons newsc scs) exs
       where newsc = sc { present = S.insert c (present sc)
                        , speech = V.concat [speech sc, V.singleton $ SpeechLine (c, l)]
-                       , upperspeech = V.concat [upperspeech sc, V.singleton $ SpeechLine (c, T.toUpper l)]
                        }
   Place intext p -> convert' title (V.cons newsc $ V.cons sc scs) exs
-      where newsc = Scene intext p S.empty V.empty V.empty
+      where newsc = Scene intext p S.empty V.empty
   Annotation ann -> convert' title (V.cons newsc scs) exs
       where newsc = sc { speech = V.concat [speech sc, V.singleton $ SpeechLine ("ANNOTATION", ann)]
-                       , upperspeech = V.concat [upperspeech sc, V.singleton $ SpeechLine ("ANNOTATION", T.toUpper ann)]
                        }
   _ -> convert' title (V.cons sc scs) exs

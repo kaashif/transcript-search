@@ -26,8 +26,7 @@ data Scene = Scene {
       intext :: IntExt,
       place :: T.Text,
       present :: S.Set T.Text,
-      speech :: V.Vector SpeechLine,
-      upperspeech :: V.Vector SpeechLine
+      speech :: V.Vector SpeechLine
     } deriving (Show, Generic)
 
 data Episode = Episode {

@@ -14,9 +14,6 @@ import Control.Monad.ST.Strict
 import Data.STRef
 import Control.Monad
 import Data.Maybe
-import qualified Data.Sequence as S
-import Data.Sequence ((|>))
-import Data.Foldable (toList)
 import GHC.Generics
 import qualified Data.Vector.Unboxed.Mutable as VM
 import qualified Data.Vector.Unboxed as VU

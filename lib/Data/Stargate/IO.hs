@@ -23,7 +23,7 @@ parseRaw :: T.Text -> D.Episode
 parseRaw raw = case parseOnly scriptp raw of
                  Right exprs -> convert exprs
                  _ -> D.Episode (V.singleton noScene) T.empty []
-    where noScene = D.Scene D.Exterior "nowhere" S.empty V.empty V.empty
+    where noScene = D.Scene D.Exterior "nowhere" S.empty V.empty
 
 readTranscript :: FilePath -> IO D.Episode
 readTranscript = fmap (parseRaw . T.decodeLatin1) . BS.readFile
