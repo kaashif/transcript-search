@@ -48,7 +48,7 @@ main = do
   let wordlist1 = V.fromList $ exprsToMarkov $ concat $ V.map (D.exprs . thd) eps
   let (toInt, toMarkov) = makeLookup wordlist1
   let wordlist = VU.convert $ V.map toInt wordlist1
-  let succmap = createMap2 wordlist
+  let succmap = id $! createMap2 wordlist
 
   -- statistics useful for optimization
 --let nkeys = length $ M.keys succmap
