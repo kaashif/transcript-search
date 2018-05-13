@@ -5,6 +5,7 @@
 {-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE MultiParamTypeClasses #-}
 module Main where
+import ElasticSearch
 import Web.Scotty
 import Text.Ginger hiding (length)
 import Text.Ginger.Html hiding (html)
@@ -21,15 +22,19 @@ import qualified Data.Stargate as D
 import qualified Data.Vector as V
 import qualified Data.Vector.Unboxed as VU
 import qualified Data.Stargate.Parse as P
-import Data.Stargate.Search
 import Data.Stargate.IO
 import Data.Stargate.Markov
 import Data.Stargate.Format
 import Data.Maybe
+import Data.Aeson
 import Control.Monad.Trans.Writer.Lazy
 import System.Environment
 import Text.Wrap as TW
 import TextShow
+import Network.HTTP.Simple
+import Network.HTTP.Conduit
+import qualified Network.URI.Encode as U
+import qualified Data.ByteString.Char8 as B8
 
 instance ToGVal m TextOrList where
     toGVal torm = case torm of
@@ -50,14 +55,6 @@ main = do
   let wordlist = VU.convert $ V.map toInt wordlist1
   let succmap = id $! createMap2 wordlist
 
-  -- statistics useful for optimization
---let nkeys = length $ M.keys succmap
---let val_lengths = map length $ M.elems succmap
---let avg_length = fromIntegral (sum val_lengths) / fromIntegral (length val_lengths)
---putStrLn $ concat ["Number of keys: ", show nkeys, "\n"
---                  ,"Average value length: ", show avg_length, "\n"
---                  ]
-      
   port <- fmap (fromMaybe "5000") $ lookupEnv "PORT"
   scotty (read port :: Int) $ do
   get "/" indexR
@@ -141,10 +138,23 @@ transcriptCtx ep series episode debug = do
                       ,("parsed_transcript", showt ep)
                       ]
 
+searchCtx :: T.Text -> T.Text -> T.Text -> T.Text -> IO (M.HashMap T.Text ResultsOrText)
+searchCtx query place person present = do
+  let qstring = B8.pack $ U.encode $ T.unpack query
+  initReq <- parseRequest "http://localhost:9200/stargate/_search"
+  let myreq = initReq {
+                queryString = B8.concat ["?size=1000&q=", qstring]
+              }
+  results <- httpJSON myreq
+  let finalres = map hitToResult $ h_hits $ r_hits $ getResponseBody results
+  return $ M.fromList [("results", Results finalres)
+                      ,("toomany", RText "no")
+                      ]
+
 searchR :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> T.Text -> T.Text -> ActionM ()
 searchR eps query place person present = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "results.html"])
-  let ctx = search eps query place person present
+  ctx <- liftIO $ searchCtx query place person present
   veryEasyRender ctx tpl
 
 aboutR :: ActionM ()
