@@ -1,7 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE DeriveGeneric #-}
 module ElasticSearch where
-    
+
 import Data.Aeson
 import GHC.Generics
 import Text.Printf
@@ -60,7 +60,7 @@ data Hits = Hits {
     , h_max_score :: Float
     , h_hits :: [Hit]
     } deriving (Show, Generic)
-      
+
 instance FromJSON Hits where
     parseJSON = genericParseJSON $ defaultOptions { fieldLabelModifier = removePrefix }
 
@@ -74,18 +74,22 @@ data SearchResults = SearchResults {
 instance FromJSON SearchResults where
     parseJSON = genericParseJSON $ defaultOptions { fieldLabelModifier = removePrefix }
 
-hitToResult :: Hit -> M.HashMap T.Text TextOrList
-hitToResult hit = M.fromList [ ("url", Text $ T.concat ["/transcripts/", series, "/", seasnum, ".", epnum])
-                             , ("context_before", List [])
-                             , ("match", Text $ T.concat [person, ": ", speech])
-                             , ("context_after", List [])
-                             , ("episode", Text $ T.concat [T.toUpper series, " Season ", seasnum, " Episode ", epnum, ": ", "TODO put title here"])
-                             , ("epraw", Text $ T.concat [series, ": ", seasnum, ".", epnum])
-                             , ("place", Text place)
-                             ]
-    where src = h__source hit
+hitToText :: Hit -> T.Text
+hitToText h = T.concat [person, ": ", speech]
+    where src = h__source h
           person = T.pack $ s_person src
           speech = T.pack $ s_speech src
+
+hitToResult :: ([Hit], Hit, [Hit]) -> M.HashMap T.Text TextOrList
+hitToResult (before, hit, after) = M.fromList [ ("url", Text $ T.concat ["/transcripts/", series, "/", seasnum, ".", epnum])
+                                              , ("context_before", List $ map hitToText before)
+                                              , ("match", Text $ hitToText hit)
+                                              , ("context_after", List $ map hitToText after)
+                                              , ("episode", Text $ T.concat [T.toUpper series, " Season ", seasnum, " Episode ", epnum, ": ", "TODO put title here"])
+                                              , ("epraw", Text $ T.concat [series, ": ", seasnum, ".", epnum])
+                                              , ("place", Text place)
+                                              ]
+    where src = h__source hit
           series = T.pack $ s_series src
           seasnum = T.pack $ printf "%d" $ s_seasnum src
           epnum = T.pack $ printf "%d" $ s_epnum src

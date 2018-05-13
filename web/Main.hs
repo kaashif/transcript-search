@@ -33,8 +33,11 @@ import Text.Wrap as TW
 import TextShow
 import Network.HTTP.Simple
 import Network.HTTP.Conduit
+import Network.HTTP.Types.Status
 import qualified Network.URI.Encode as U
 import qualified Data.ByteString.Char8 as B8
+import Text.Printf
+import GHC.Exts
 
 instance ToGVal m TextOrList where
     toGVal torm = case torm of
@@ -63,9 +66,10 @@ main = do
     episode <- param "episode"
     transR (findTrans eps series episode) series episode
   get "/random" $ do
-    rand <- liftIO getStdGen
-    liftIO newStdGen
-    genR $ TW.wrapText TW.defaultWrapSettings 80 $ generateTrans rand wordlist succmap toInt toMarkov
+    --rand <- liftIO getStdGen
+    --liftIO newStdGen
+    --genR $ TW.wrapText TW.defaultWrapSettings 80 $ generateTrans rand wordlist succmap toInt toMarkov
+    status serviceUnavailable503
   get "/search" $ do
     query <- param "query"
     place <- param "place"
@@ -153,7 +157,8 @@ searchCtx query place person present = do
                               else B8.empty
               }
   results <- httpJSON myreq
-  let finalres = map hitToResult $ h_hits $ r_hits $ getResponseBody results
+  hits <- mapM (getHitContext 2) $ h_hits $ r_hits $ getResponseBody results
+  let finalres = map hitToResult hits
   return $ M.fromList [("results", Results finalres)
                       ,("toomany", RText "no")
                       ]
@@ -181,3 +186,26 @@ transIndexR epentries = do
                                                                    ]) epentries)]
   veryEasyRender ctx tpl
 
+-- | Gets n hits before and after the hit, from the same scene. Asks ElasticSearch.
+getHitContext :: Int -> Hit -> IO ([Hit], Hit, [Hit])
+getHitContext n hit = do
+  let src = h__source hit
+  let qstring = B8.pack $ U.encode $ concat ["series:", s_series src, " AND "
+                                            ,"seasnum:", printf "%d" $ s_seasnum src, " AND "
+                                            ,"epnum:", printf "%d" $ s_epnum src, " AND "
+                                            ,"sceneno:", printf "%d" $ s_sceneno src, " AND "
+                                            ,"lineno:[", printf "%d" (s_lineno src - n)
+                                            , " TO ", printf "%d" (s_lineno src + n), "]"
+                                            ]
+  initReq <- parseRequest "http://localhost:9200/stargate/_search"
+  let myreq = initReq {
+                queryString = if not $ B8.null qstring
+                              then B8.concat ["?size=1000&q=", qstring]
+                              else B8.empty
+              }
+  results <- httpJSON myreq
+  let hits = h_hits $ r_hits $ getResponseBody results
+  let l = s_lineno . h__source
+  let lefthits = sortWith l $ filter (\h -> l h < s_lineno src) hits
+  let righthits = sortWith l $ filter (\h -> l h > s_lineno src) hits
+  return (lefthits, hit, righthits)

@@ -29,6 +29,7 @@ executable          stargate-search-web
                   , aeson
                   , http-conduit
                   , uri-encode
+                  , http-types
 
 executable          stargate-parse
     hs-source-dirs: cli
