@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+{% block buttons %}
+<li role="presentation"><a href="/">Search</a></li>
+<li role="presentation" class="active"><a href="/advanced">Advanced Search</a></li>
+<li role="presentation"><a href="/transcripts">Transcripts</a></li>
+<li role="presentation"><a href="/about">About</a></li>
+{% endblock %}
+{% block content %}
+<div class="alert alert-info">
+  This advanced search page
+  uses <a href="https://www.elastic.co/guide/en/elasticsearch/reference/6.2/query-dsl-query-string-query.html#query-string-syntax">
+  ElasticSearch query syntax</a>. The available fields are: series,
+  seasnum, epnum, sceneno, lineno, person, speech, present, place.
+</div>
+<form action="/adv_search" method="GET">
+  <div class="form-group">
+	<label for="query">Search Query:</label>
+	<input type="text" class="form-control" id="query" name="query"
+		   placeholder="ElasticSearch query string">
+  </div>
+  <button type="submit" class="btn btn-primary">Search</button>
+</form>
+{% endblock %}

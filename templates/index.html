@@ -1,16 +1,16 @@
 {% extends "layout.html" %}
 {% block buttons %}
 <li role="presentation" class="active"><a href="/">Search</a></li>
+<li role="presentation"><a href="/advanced">Advanced Search</a></li>
 <li role="presentation"><a href="/transcripts">Transcripts</a></li>
-<li role="presentation"><a href="/random">AI Script</a></li>
 <li role="presentation"><a href="/about">About</a></li>
 {% endblock %}
 {% block content %}
 <div class="alert alert-info">
   <strong>Note:</strong> All search parameters are optional! You can
   just search for a place or character if you want. But if there are
-  too many results (>=500), then you will have to make your query more
-  specific.
+  too many results, then you will have to make your query more
+  specific, we will only show up to the 1000th result.
 </div>
 <form action="/search" method="GET">
   <div class="form-group">

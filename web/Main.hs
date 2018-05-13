@@ -36,6 +36,7 @@ import qualified Network.URI.Encode as U
 import qualified Data.ByteString.Char8 as B8
 import Text.Printf
 import GHC.Exts
+import Data.Either
 
 instance ToGVal m TextOrList where
     toGVal torm = case torm of
@@ -58,7 +59,8 @@ main = do
 
   port <- fmap (fromMaybe "5000") $ lookupEnv "PORT"
   scotty (read port :: Int) $ do
-  get "/" indexR
+  get "/" $ indexR "index.html"
+  get "/advanced" $ indexR "advanced.html"
   get "/transcripts/:series/:episode" $ do
     series <- param "series"                      
     episode <- param "episode"
@@ -68,12 +70,17 @@ main = do
   --liftIO newStdGen
   --genR $ TW.wrapText TW.defaultWrapSettings 80 $ generateTrans rand wordlist succmap toInt toMarkov
     status serviceUnavailable503
+  get "/adv_search" $ do
+    query <- param "query"
+    ctx <- liftIO $ advSearchCtx query
+    searchR ctx
   get "/search" $ do
     query <- param "query"
     place <- param "place"
     person <- param "person"
     present <- param "present"
-    searchR query place person present
+    ctx <- liftIO $ searchCtx False query place person present
+    searchR ctx
   get "/about" aboutR
   get "/style.css" $ do
     setHeader "Content-Type" "text/css"
@@ -98,9 +105,9 @@ veryEasyRender :: (ToGVal (Run p (Writer Html) Html) v,
                   v -> Template p -> ActionM ()
 veryEasyRender ctx tpl = html $ TL.fromStrict $ htmlSource $ easyRender ctx tpl
 
-indexR :: ActionM ()
-indexR = do
-  tpl <- liftIO $ templateFromFile (joinPath ["templates", "index.html"])
+indexR :: String -> ActionM ()
+indexR t = do
+  tpl <- liftIO $ templateFromFile (joinPath ["templates", t])
   veryEasyRender (M.empty :: M.HashMap T.Text T.Text) tpl
 
 transR :: T.Text -> T.Text -> ActionM ()
@@ -130,31 +137,42 @@ transcriptCtx series episode = do
                       ,("parsed_transcript", transcript)
                       ]
 
-searchCtx :: T.Text -> T.Text -> T.Text -> T.Text -> IO (M.HashMap T.Text ResultsOrText)
-searchCtx query place person present = do
+advSearchCtx :: T.Text -> IO (M.HashMap T.Text ResultsOrText)
+advSearchCtx q = searchCtx True q "" "" ""
+
+searchCtx :: Bool -> T.Text -> T.Text -> T.Text -> T.Text -> IO (M.HashMap T.Text ResultsOrText)
+searchCtx adv query place person present = do
   let qstrs = [if not $ T.null query then ["speech: ", query] else []
               ,if not $ T.null place then ["place: ", place] else []
               ,if not $ T.null person then ["person: ", person] else []
               ,if not $ T.null present then ["present: ", present] else []
               ]
-  let qstring = B8.pack $ U.encode $ T.unpack $ T.concat $ intercalate [" AND "] $ filter (not . null) qstrs
+  let qstring = if adv
+                then B8.pack $ U.encode $ T.unpack query
+                else B8.pack $ U.encode $ T.unpack $ T.concat $ intercalate [" AND "] $ filter (not . null) qstrs
   initReq <- parseRequest "http://localhost:9200/stargate/_search"
   let myreq = initReq {
                 queryString = if not $ B8.null qstring
                               then B8.concat ["?size=1000&q=", qstring]
                               else B8.empty
               }
-  results <- httpJSON myreq
-  hits <- mapM (getHitContext 2) $ h_hits $ r_hits $ getResponseBody results
+  re :: Response (Either JSONException SearchResults) <- httpJSONEither myreq
+  let r = getResponseBody re
+  let err = case r of
+        Left _ -> "yes"
+        Right _ -> "no"
+  let results = case r of
+        Left _ -> SearchResults 0 False (Shards 0 0 0 0) (Hits 0 0.0 [])
+        Right res -> res
+  hits <- mapM (getHitContext 2) $ h_hits $ r_hits results
   let finalres = map hitToResult hits
   return $ M.fromList [("results", Results finalres)
-                      ,("toomany", RText "no")
+                      ,("toomany", RText err)
                       ]
 
-searchR :: T.Text -> T.Text -> T.Text -> T.Text -> ActionM ()
-searchR query place person present = do
+searchR :: M.HashMap T.Text ResultsOrText -> ActionM ()
+searchR ctx = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "results.html"])
-  ctx <- liftIO $ searchCtx query place person present
   veryEasyRender ctx tpl
 
 aboutR :: ActionM ()

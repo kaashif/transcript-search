@@ -1,15 +1,15 @@
 {% extends "layout.html" %}
 {% block buttons %}
 <li role="presentation" class="active"><a href="/">Search</a></li>
+<li role="presentation"><a href="/advanced">Advanced Search</a></li>
 <li role="presentation"><a href="/transcripts">Transcripts</a></li>
-<li role="presentation"><a href="/random">AI Script</a></li>
 <li role="presentation"><a href="/about">About</a></li>
 {% endblock %}
 {% block content %}
 {% if equals(toomany, "yes") %}
 <div class="alert alert-danger">
-  There were too many results (>=500) to display! Please make your
-  search query more specific.
+  There was a problem with your search query! It was probably
+  malformed, please check the syntax and try again.
 </div>
 {% else %}
 {% if results|length == 0 %}
