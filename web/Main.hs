@@ -140,10 +140,17 @@ transcriptCtx ep series episode debug = do
 
 searchCtx :: T.Text -> T.Text -> T.Text -> T.Text -> IO (M.HashMap T.Text ResultsOrText)
 searchCtx query place person present = do
-  let qstring = B8.pack $ U.encode $ T.unpack query
+  let qstrs = [if not $ T.null query then ["speech: ", query] else []
+              ,if not $ T.null place then ["place: ", place] else []
+              ,if not $ T.null person then ["person: ", person] else []
+              ,if not $ T.null present then ["present: ", present] else []
+              ]
+  let qstring = B8.pack $ U.encode $ T.unpack $ T.concat $ intercalate [" AND "] $ filter (not . null) qstrs
   initReq <- parseRequest "http://localhost:9200/stargate/_search"
   let myreq = initReq {
-                queryString = B8.concat ["?size=1000&q=", qstring]
+                queryString = if not $ B8.null qstring
+                              then B8.concat ["?size=1000&q=", qstring]
+                              else B8.empty
               }
   results <- httpJSON myreq
   let finalres = map hitToResult $ h_hits $ r_hits $ getResponseBody results
