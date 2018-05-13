@@ -18,6 +18,11 @@ Input the data into ElasticSearch:
 
 	$ curl -XGET 'localhost:9200/stargate/_search' --data-binary @stargate.json
 
+Create the prettified transcripts (so the web app doesn't have to
+parse or do anything at runtime):
+
+	$ ./make_pretty.sh
+
 Now you can run the web app:
 
 	$ stargate-search-web
