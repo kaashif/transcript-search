@@ -12,7 +12,7 @@ Build the programs:
 Read the transcripts and output a suitable body to input the data into
 ElasticSearch (the resulting file will be about 300k lines of text):
 
-	$ stargate-parse > stargate.json
+	$ stargate-parse elasticsearch > stargate.json
 
 Input the data into ElasticSearch:
 
