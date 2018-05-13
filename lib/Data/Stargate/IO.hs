@@ -6,12 +6,14 @@ import System.FilePath
 import qualified Data.Stargate as D
 import Data.Stargate.Parse (scriptp, convert)
 import qualified Data.Text as T
+import qualified Data.Text.IO as T
 import qualified Data.Text.Encoding as T
 import Data.Attoparsec.Text (parseOnly)
 import Control.Monad
 import System.FilePath.Glob
 import qualified Data.ByteString as BS
 import qualified Data.Set as S
+import System.IO
 
 type SeriesName = T.Text
 type SeasonCode = T.Text
@@ -33,3 +35,15 @@ readAllTranscripts = fmap V.concat $ forM ["sg1", "atl"] $ \series -> do
   fnames <- globDir1 (compile $ joinPath ["transcripts", series, "*"]) "."
   let readT f = readTranscript f >>= \t -> return (T.pack series, T.pack $ last $ splitPath f, t)
   V.mapM readT (V.fromList fnames)
+
+type Entry = (SeriesName, SeasonCode, EpisodeCode, EpisodeTitle)
+
+readAllEntries :: IO [Entry]
+readAllEntries = fmap concat $ forM ["sg1", "atl"] $ \series -> do
+  fnames <- globDir1 (compile $ joinPath ["pretty", series, "*"]) "."
+  let readTitle f = openFile f ReadMode >>= T.hGetLine
+  let makeEntry fname = do
+        title <- readTitle fname
+        let [seasnum, epnum] = T.splitOn "." $ T.pack $ last $ splitPath fname
+        return (T.pack series, seasnum, epnum, title)
+  mapM makeEntry fnames

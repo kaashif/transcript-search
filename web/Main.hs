@@ -18,19 +18,17 @@ import Data.List
 import qualified Data.HashMap.Lazy as M
 import qualified Data.Text.Lazy as TL
 import qualified Data.Text as T
+import qualified Data.Text.IO as T
 import qualified Data.Stargate as D
 import qualified Data.Vector as V
 import qualified Data.Vector.Unboxed as VU
 import qualified Data.Stargate.Parse as P
-import Data.Stargate.IO
-import Data.Stargate.Markov
+import Data.Stargate.IO hiding (Entry)
 import Data.Stargate.Format
 import Data.Maybe
 import Data.Aeson
 import Control.Monad.Trans.Writer.Lazy
 import System.Environment
-import Text.Wrap as TW
-import TextShow
 import Network.HTTP.Simple
 import Network.HTTP.Conduit
 import Network.HTTP.Types.Status
@@ -51,12 +49,12 @@ instance ToGVal m ResultsOrText where
 
 main :: IO ()
 main = do
-  eps <- readAllTranscripts
+  entries <- fmap sort readAllEntries
   let thd (_,_,c) = c
-  let wordlist1 = V.fromList $ exprsToMarkov $ concat $ V.map (D.exprs . thd) eps
-  let (toInt, toMarkov) = makeLookup wordlist1
-  let wordlist = VU.convert $ V.map toInt wordlist1
-  let succmap = id $! createMap2 wordlist
+--let wordlist1 = V.fromList $ exprsToMarkov $ concat $ V.map (D.exprs . thd) eps
+--let (toInt, toMarkov) = makeLookup wordlist1
+--let wordlist = VU.convert $ V.map toInt wordlist1
+--let succmap = id $! createMap2 wordlist
 
   port <- fmap (fromMaybe "5000") $ lookupEnv "PORT"
   scotty (read port :: Int) $ do
@@ -64,40 +62,27 @@ main = do
   get "/transcripts/:series/:episode" $ do
     series <- param "series"                      
     episode <- param "episode"
-    transR (findTrans eps series episode) series episode
+    transR series episode
   get "/random" $ do
-    --rand <- liftIO getStdGen
-    --liftIO newStdGen
-    --genR $ TW.wrapText TW.defaultWrapSettings 80 $ generateTrans rand wordlist succmap toInt toMarkov
+  --rand <- liftIO getStdGen
+  --liftIO newStdGen
+  --genR $ TW.wrapText TW.defaultWrapSettings 80 $ generateTrans rand wordlist succmap toInt toMarkov
     status serviceUnavailable503
   get "/search" $ do
     query <- param "query"
     place <- param "place"
     person <- param "person"
     present <- param "present"
-    searchR eps query place person present
+    searchR query place person present
   get "/about" aboutR
   get "/style.css" $ do
     setHeader "Content-Type" "text/css"
     file "style.css"
   get "/transcripts" $ do
-    transIndexR $ sort $ makeEntries eps
-
-findTrans :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> D.Episode
-findTrans eps series episode = thd $ fromJust $ V.find (\(a, b, _) -> series == a && episode == b) eps
-  where thd (_,_,c) = c
+    transIndexR entries
 
 -- | Table entry identifying episodes
 type Entry = (SeriesName, SeasonCode, EpisodeCode, EpisodeTitle)
-
--- | Converts episode vector to list of identifying table entries
-makeEntries :: V.Vector (SeriesName, SeasonEpisodeCode, D.Episode) -> [Entry]
-makeEntries eps = let
-    oneEntry entries (series, episode, ep) = let
-          newentry = (series, season, epnum, D.title ep)
-          [season, epnum] = T.splitOn "." episode
-        in newentry:entries
-  in V.foldl' oneEntry [] eps
 
 templateFromFile :: SourceName -> IO (Template SourcePos)
 templateFromFile fp = (parseGingerFile resolver fp) >>= \x -> case x of
@@ -118,28 +103,31 @@ indexR = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "index.html"])
   veryEasyRender (M.empty :: M.HashMap T.Text T.Text) tpl
 
-transR :: D.Episode -> T.Text -> T.Text -> ActionM ()
-transR ep series episode = do
+transR :: T.Text -> T.Text -> ActionM ()
+transR series episode = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "transcript.html"])
-  ctx <- liftIO $ transcriptCtx ep series episode ""
+  ctx <- liftIO $ transcriptCtx series episode
   veryEasyRender ctx tpl
 
 genR :: T.Text -> ActionM ()
 genR raw = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "random.html"])
-  ctx <- liftIO $ transcriptCtx (parseRaw raw) "AI" "0.0" T.empty
+  ctx <- liftIO $ transcriptCtx "AI" "0.0"
   veryEasyRender ctx tpl
 
-transcriptCtx :: D.Episode -> T.Text -> T.Text -> T.Text -> IO (M.HashMap T.Text T.Text)
-transcriptCtx ep series episode debug = do
+transcriptCtx :: T.Text -> T.Text -> IO (M.HashMap T.Text T.Text)
+transcriptCtx series episode = do
   let [season, epnum] = T.splitOn "." episode
+  h <- openFile (joinPath ["pretty", T.unpack series, T.unpack episode]) ReadMode
+  title <- T.hGetLine h
+  transcript <- T.hGetContents h
   return $ M.fromList [("episode",
                         T.concat [T.toUpper $ series
                                  ," Season ", season
                                  ," Episode ", epnum
-                                 ,": ", D.title ep])
-                      ,("text", debug)
-                      ,("parsed_transcript", showt ep)
+                                 ,": ", title])
+                      ,("text", "")
+                      ,("parsed_transcript", transcript)
                       ]
 
 searchCtx :: T.Text -> T.Text -> T.Text -> T.Text -> IO (M.HashMap T.Text ResultsOrText)
@@ -163,8 +151,8 @@ searchCtx query place person present = do
                       ,("toomany", RText "no")
                       ]
 
-searchR :: V.Vector (T.Text, T.Text, D.Episode) -> T.Text -> T.Text -> T.Text -> T.Text -> ActionM ()
-searchR eps query place person present = do
+searchR :: T.Text -> T.Text -> T.Text -> T.Text -> ActionM ()
+searchR query place person present = do
   tpl <- liftIO $ templateFromFile (joinPath ["templates", "results.html"])
   ctx <- liftIO $ searchCtx query place person present
   veryEasyRender ctx tpl
