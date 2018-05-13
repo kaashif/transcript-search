@@ -168,6 +168,7 @@ searchCtx adv query place person present = do
   let finalres = map hitToResult hits
   return $ M.fromList [("results", Results finalres)
                       ,("toomany", RText err)
+                      ,("advanced", if adv then RText "true" else RText "false")
                       ]
 
 searchR :: M.HashMap T.Text ResultsOrText -> ActionM ()
