@@ -31,13 +31,14 @@ instance FromJSON Shards where
     parseJSON = genericParseJSON $ defaultOptions { fieldLabelModifier = removePrefix }
 
 data Source = Source {
-      s_sceneno :: Int
-    , s_seasnum :: Int
+      s_scene_number :: Int
+    , s_season_number :: Int
     , s_person :: String
     , s_speech :: String
     , s_series :: String
-    , s_epnum :: Int
-    , s_lineno :: Int
+    , s_episode_number :: Int
+    , s_episode_title :: String
+    , s_line_number :: Int
     , s_present :: String
     , s_place :: String
     } deriving (Show, Generic)
@@ -85,12 +86,13 @@ hitToResult (before, hit, after) = M.fromList [ ("url", Text $ T.concat ["/trans
                                               , ("context_before", List $ map hitToText before)
                                               , ("match", Text $ hitToText hit)
                                               , ("context_after", List $ map hitToText after)
-                                              , ("episode", Text $ T.concat [T.toUpper series, " Season ", seasnum, " Episode ", epnum, ": ", "TODO put title here"])
+                                              , ("episode", Text $ T.concat [T.toUpper series, " Season ", seasnum, " Episode ", epnum, ": ", title])
                                               , ("epraw", Text $ T.concat [series, ": ", seasnum, ".", epnum])
                                               , ("place", Text place)
                                               ]
     where src = h__source hit
           series = T.pack $ s_series src
-          seasnum = T.pack $ printf "%d" $ s_seasnum src
-          epnum = T.pack $ printf "%d" $ s_epnum src
+          seasnum = T.pack $ printf "%d" $ s_season_number src
+          epnum = T.pack $ printf "%d" $ s_episode_number src
           place = T.pack $ s_place src
+          title = T.pack $ s_episode_title src

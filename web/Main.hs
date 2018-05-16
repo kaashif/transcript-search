@@ -75,11 +75,16 @@ main = do
     ctx <- liftIO $ advSearchCtx query
     searchR ctx
   get "/search" $ do
-    query <- param "query"
-    place <- param "place"
-    person <- param "person"
-    present <- param "present"
-    ctx <- liftIO $ searchCtx False query place person present
+    ps <- params
+    let real_ps = if length (filter (\(x,_) -> x=="series") ps) >= 2
+                  then filter (\(x,_) -> x /= "series") ps
+                  else ps
+        smap w = case w of
+                   "SG-1" -> Just "sg1"
+                   "Atlantis" -> Just "atl"
+                   _ -> Just "sg1"
+    ctx <- liftIO $ searchCtx False (M.update smap "series" $ M.fromList real_ps)
+
     searchR ctx
   get "/about" aboutR
   get "/style.css" $ do
@@ -137,19 +142,27 @@ transcriptCtx series episode = do
                       ,("parsed_transcript", transcript)
                       ]
 
-advSearchCtx :: T.Text -> IO (M.HashMap T.Text ResultsOrText)
-advSearchCtx q = searchCtx True q "" "" ""
+advSearchCtx :: TL.Text -> IO (M.HashMap T.Text ResultsOrText)
+advSearchCtx q = searchCtx True (M.singleton "query" q)
 
-searchCtx :: Bool -> T.Text -> T.Text -> T.Text -> T.Text -> IO (M.HashMap T.Text ResultsOrText)
-searchCtx adv query place person present = do
-  let qstrs = [if not $ T.null query then ["speech: ", query] else []
-              ,if not $ T.null place then ["place: ", place] else []
-              ,if not $ T.null person then ["person: ", person] else []
-              ,if not $ T.null present then ["present: ", present] else []
+searchCtx :: Bool -> M.HashMap TL.Text TL.Text -> IO (M.HashMap T.Text ResultsOrText)
+searchCtx adv query_map = do
+  let query = M.lookupDefault "" "query" query_map
+  let place = M.lookupDefault "" "place" query_map
+  let person = M.lookupDefault "" "person" query_map
+  let present = M.lookupDefault "" "present" query_map
+  let episode_title = M.lookupDefault "" "episode_title" query_map
+  let series = M.lookupDefault "" "series" query_map
+  let qstrs = [if not $ TL.null query then ["speech: ", query] else []
+              ,if not $ TL.null place then ["place: ", place] else []
+              ,if not $ TL.null person then ["person: ", person] else []
+              ,if not $ TL.null present then ["present: ", present] else []
+              ,if not $ TL.null episode_title then ["episode_title: ", episode_title] else []
+              ,if not $ TL.null series then ["series: ", series] else []
               ]
   let qstring = if adv
-                then B8.pack $ U.encode $ T.unpack query
-                else B8.pack $ U.encode $ T.unpack $ T.concat $ intercalate [" AND "] $ filter (not . null) qstrs
+                then B8.pack $ U.encode $ TL.unpack query
+                else B8.pack $ U.encode $ TL.unpack $ TL.concat $ intercalate [" AND "] $ filter (not . null) qstrs
   initReq <- parseRequest "http://localhost:9200/stargate/_search"
   let myreq = initReq {
                 queryString = if not $ B8.null qstring
@@ -198,11 +211,11 @@ getHitContext :: Int -> Hit -> IO ([Hit], Hit, [Hit])
 getHitContext n hit = do
   let src = h__source hit
   let qstring = B8.pack $ U.encode $ concat ["series:", s_series src, " AND "
-                                            ,"seasnum:", printf "%d" $ s_seasnum src, " AND "
-                                            ,"epnum:", printf "%d" $ s_epnum src, " AND "
-                                            ,"sceneno:", printf "%d" $ s_sceneno src, " AND "
-                                            ,"lineno:[", printf "%d" (s_lineno src - n)
-                                            , " TO ", printf "%d" (s_lineno src + n), "]"
+                                            ,"season_number:", printf "%d" $ s_season_number src, " AND "
+                                            ,"episode_number:", printf "%d" $ s_episode_number src, " AND "
+                                            ,"scene_number:", printf "%d" $ s_scene_number src, " AND "
+                                            ,"line_number:[", printf "%d" (s_line_number src - n)
+                                            , " TO ", printf "%d" (s_line_number src + n), "]"
                                             ]
   initReq <- parseRequest "http://localhost:9200/stargate/_search"
   let myreq = initReq {
@@ -212,7 +225,7 @@ getHitContext n hit = do
               }
   results <- httpJSON myreq
   let hits = h_hits $ r_hits $ getResponseBody results
-  let l = s_lineno . h__source
-  let lefthits = sortWith l $ filter (\h -> l h < s_lineno src) hits
-  let righthits = sortWith l $ filter (\h -> l h > s_lineno src) hits
+  let l = s_line_number . h__source
+  let lefthits = sortWith l $ filter (\h -> l h < s_line_number src) hits
+  let righthits = sortWith l $ filter (\h -> l h > s_line_number src) hits
   return (lefthits, hit, righthits)

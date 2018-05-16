@@ -10,7 +10,9 @@
   <strong>Note:</strong> All search parameters are optional! You can
   just search for a place or character if you want. But if there are
   too many results, then you will have to make your query more
-  specific, we will only show up to the 1000th result.
+  specific, we will only show up to the 1000th result. Also, if you
+  want a more complex query, go to the <a href="/advanced">advanced
+  search page</a>.
 </div>
 <form action="/search" method="GET">
   <div class="form-group">
@@ -29,11 +31,22 @@
 		   placeholder="e.g. Carter">
   </div>
   <div class="form-group">
-	<label for="place">Which location was the word/phrase spoken?</label>
+	<label for="place">In which location was it spoken?</label>
 	<input type="text" class="form-control" id="place" name="place"
 		   placeholder="e.g. Gate Room">
   </div>
-
+  <div class="form-group">
+	<label for="series">Which series is it from?</label>
+	<select multiple class="form-control" id="series" name="series">
+      <option selected>SG-1</option>
+      <option selected>Atlantis</option>
+    </select>
+  </div>
+  <div class="form-group">
+	<label for="episode_title">What was the title of the episode?</label>
+	<input type="text" class="form-control" id="episode_title" name="episode_title"
+		   placeholder="e.g. Window of Opportunity">
+  </div>
   <button type="submit" class="btn btn-primary">Search</button>
 </form>
 {% endblock %}

@@ -15,10 +15,11 @@ import qualified Data.ByteString as BS
 import Data.Stargate.IO
 
 data LineRecord = LineRecord { series :: T.Text
-                             , seasnum :: Int
-                             , epnum :: Int
-                             , sceneno :: Int
-                             , lineno :: Int
+                             , season_number :: Int
+                             , episode_number :: Int
+                             , episode_title :: T.Text
+                             , scene_number :: Int
+                             , line_number :: Int
                              , person :: T.Text
                              , present :: T.Text
                              , place :: T.Text
@@ -38,10 +39,11 @@ toLineRecords serie epcode ep = let
     sceneToLineRecords (sceneno', scene) = V.map (lineToLineRecord sceneno' (D.place scene) (D.present scene))
                                      (V.indexed $ D.speech scene)
     lineToLineRecord sceneno' pl pr (lineno', D.SpeechLine speec) = LineRecord { series = serie
-                                                                               , seasnum = seasnum'
-                                                                               , epnum = epnum'
-                                                                               , sceneno = sceneno'
-                                                                               , lineno = lineno'
+                                                                               , season_number = seasnum'
+                                                                               , episode_number = epnum'
+                                                                               , episode_title = D.title ep
+                                                                               , scene_number = sceneno'
+                                                                               , line_number = lineno'
                                                                                , person = fst speec
                                                                                , present = T.intercalate " " $ S.toList pr
                                                                                , place = pl

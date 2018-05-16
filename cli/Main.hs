@@ -14,10 +14,9 @@ import qualified Data.ByteString as BS
 main :: IO ()
 main = do
   args <- getArgs
-  if length args == 0
-    then putStrLn "Need 1 argument, 'elasticsearch' or 'single'"
-    else do
-      case (head args) of
+  case args of
+    [] ->  putStrLn "Need 1 argument, 'elasticsearch' or 'single'"
+    (x:_) -> case x of
         "elasticsearch" -> do
           eps <- readAllTranscripts
           BS.putStr $ toJSON eps
@@ -26,3 +25,4 @@ main = do
            let ep = parseRaw raw
            T.putStrLn $ D.title ep
            T.putStr $ showt ep
+        s -> putStrLn $ "Bad argument: " ++ s
