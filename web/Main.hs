@@ -82,9 +82,13 @@ main = do
         smap w = case w of
                    "SG-1" -> Just "sg1"
                    "Atlantis" -> Just "atl"
+                   "The Original Series" -> Just "tos"
+                   "Deep Space 9" -> Just "ds9"
+                   "The Next Generation" -> Just "tng"
+                   "Voyager" -> Just "voy"
+                   "Enterprise" -> Just "ent"
                    _ -> Just "sg1"
     ctx <- liftIO $ searchCtx False (M.update smap "series" $ M.fromList real_ps)
-
     searchR ctx
   get "/about" aboutR
   get "/style.css" $ do
@@ -129,7 +133,9 @@ genR raw = do
 
 transcriptCtx :: T.Text -> T.Text -> IO (M.HashMap T.Text T.Text)
 transcriptCtx series episode = do
-  let [season, epnum] = T.splitOn "." episode
+  let [season, epnum] = case T.splitOn "." episode of
+                          [x, y] -> [x, y]
+                          _ -> ["N/A", "N/A"]
   h <- openFile (joinPath ["pretty", T.unpack series, T.unpack episode]) ReadMode
   title <- T.hGetLine h
   transcript <- T.hGetContents h
