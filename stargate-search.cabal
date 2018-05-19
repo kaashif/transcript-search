@@ -45,6 +45,7 @@ library
     hs-source-dirs: lib
     exposed-modules: Data.Stargate
                    , Data.Stargate.Parse
+                   , Data.Stargate.ParseTrek
                    , Data.Stargate.IO
                    , Data.Stargate.Markov
                    , Data.Stargate.Format

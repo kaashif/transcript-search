@@ -5,19 +5,11 @@ module Data.Stargate.Parse where
 import Control.Applicative
 import Data.Attoparsec.Text
 import Data.Attoparsec.Combinator
-import qualified Data.Text.IO as T
 import qualified Data.Text as T
-import qualified Data.Text.Encoding as T
-import qualified Data.ByteString as BS
-import qualified Data.ByteString.Lazy as BSL
-import System.Environment (getArgs)
 import Data.Char
-import Data.List
 import qualified Data.Set as S
-import System.IO
 import Data.Stargate
 import qualified Data.Vector as V
-import Data.Vector ((!))
 
 scriptp :: Parser [ScriptExpr]
 scriptp = do

@@ -15,14 +15,19 @@ main :: IO ()
 main = do
   args <- getArgs
   case args of
-    [] ->  putStrLn "Need 1 argument, 'elasticsearch' or 'single'"
+    [] ->  putStrLn "Need 1 argument, 'elasticsearch', 'single_trek' or 'single_gate'"
     (x:_) -> case x of
         "elasticsearch" -> do
           eps <- readAllTranscripts
           BS.putStr $ toJSON eps
-        "single" -> do
+        "single_gate" -> do
            raw <- T.hGetContents stdin
-           let ep = parseRaw raw
+           let ep = parseStargate raw
+           T.putStrLn $ D.title ep
+           T.putStr $ showt ep
+        "single_trek" -> do
+           raw <- T.hGetContents stdin
+           let ep = parseStarTrek raw
            T.putStrLn $ D.title ep
            T.putStr $ showt ep
         s -> putStrLn $ "Bad argument: " ++ s
