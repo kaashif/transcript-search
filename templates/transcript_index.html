@@ -14,7 +14,7 @@
 	<th>Title</th>
   </tr>
 {% for entry in entries %}
-	<tr onclick="location.href='/transcripts/{{ entry.seriesurl }}/{{ entry.season }}.{{ entry.episode }}'">
+	<tr onclick="location.href='/transcripts/{{ entry.seriesurl }}/{{ entry.link }}'">
 	  <td>{{ entry.series }}</td>
 	  <td>{{ entry.season }}</td>
 	  <td>{{ entry.episode }}</td>
