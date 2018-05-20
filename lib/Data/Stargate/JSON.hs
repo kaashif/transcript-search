@@ -13,6 +13,8 @@ import qualified Data.HashMap.Lazy as M
 import qualified Data.ByteString.Lazy as BSL
 import qualified Data.ByteString as BS
 import Data.Stargate.IO
+import Text.Read (readMaybe)
+import Data.Maybe
 
 data LineRecord = LineRecord { series :: T.Text
                              , season_number :: Int
@@ -35,7 +37,10 @@ instance ToJSON IDRecord
 
 toLineRecords :: T.Text -> T.Text -> D.Episode -> V.Vector LineRecord
 toLineRecords serie epcode ep = let
-    [seasnum', epnum'] :: [Int] = map (read . T.unpack) $ T.splitOn "." epcode
+    [seasnum', epnum'] :: [Int] = case T.splitOn "." epcode of
+                                    [x, y] -> map (read . T.unpack) [x, y]
+                                    [x] -> [0, maybe 0 id $ readMaybe $ T.unpack x]
+                                    _ -> [0, 0]
     sceneToLineRecords (sceneno', scene) = V.map (lineToLineRecord sceneno' (D.place scene) (D.present scene))
                                      (V.indexed $ D.speech scene)
     lineToLineRecord sceneno' pl pr (lineno', D.SpeechLine speec) = LineRecord { series = serie

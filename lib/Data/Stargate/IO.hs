@@ -56,11 +56,14 @@ readAllTranscripts = fmap V.concat $ forM seriesParsers $ \(series, parser) -> d
 type Entry = (SeriesName, SeasonCode, EpisodeCode, EpisodeTitle)
 
 readAllEntries :: IO [Entry]
-readAllEntries = fmap concat $ forM ["sg1", "atl"] $ \series -> do
+readAllEntries = fmap concat $ forM seriesParsers $ \(series, parser) -> do
   fnames <- globDir1 (compile $ joinPath ["pretty", series, "*"]) "."
   let readTitle f = openFile f ReadMode >>= T.hGetLine
   let makeEntry fname = do
         title <- readTitle fname
-        let [seasnum, epnum] = T.splitOn "." $ T.pack $ last $ splitPath fname
+        let [seasnum, epnum] = case T.splitOn "." $ T.pack $ last $ splitPath fname of
+                                 [x, y] -> [x, y]
+                                 [x] -> [T.empty, x]
+                                 _ -> [T.empty, T.empty]
         return (T.pack series, seasnum, epnum, title)
   mapM makeEntry fnames
