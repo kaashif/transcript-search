@@ -82,17 +82,23 @@ hitToText h = T.concat [person, ": ", speech]
           speech = T.pack $ s_speech src
 
 hitToResult :: ([Hit], Hit, [Hit]) -> M.HashMap T.Text TextOrList
-hitToResult (before, hit, after) = M.fromList [ ("url", Text $ T.concat ["/transcripts/", series, "/", seasnum, ".", epnum])
+hitToResult (before, hit, after) = M.fromList [ ("url", Text $ T.concat ["/transcripts/", series, "/", filename])
                                               , ("context_before", List $ map hitToText before)
                                               , ("match", Text $ hitToText hit)
                                               , ("context_after", List $ map hitToText after)
-                                              , ("episode", Text $ T.concat [T.toUpper series, " Season ", seasnum, " Episode ", epnum, ": ", title])
-                                              , ("epraw", Text $ T.concat [series, ": ", seasnum, ".", epnum])
+                                              , ("episode", Text $ T.concat [T.toUpper series,  ": ", shorttext])
+                                              , ("epraw", Text $ T.concat [series, ": ", T.pack $ printf "%d" seasnum, ".", epnum])
                                               , ("place", Text place)
                                               ]
     where src = h__source hit
           series = T.pack $ s_series src
-          seasnum = T.pack $ printf "%d" $ s_season_number src
+          seasnum = s_season_number src
           epnum = T.pack $ printf "%d" $ s_episode_number src
           place = T.pack $ s_place src
           title = T.pack $ s_episode_title src
+          filename = if seasnum == 0
+                     then epnum
+                     else T.concat [T.pack $ printf "%d" seasnum, ".", epnum]
+          shorttext = if seasnum == 0
+                      then title
+                      else T.concat ["Season ", T.pack $ printf "%d" seasnum, " Episode ", epnum, ": ", title]
