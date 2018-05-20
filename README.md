@@ -1,9 +1,9 @@
-# Stargate Script Search Tool
+# Transcript Search Tool
 
-This is a web app for searching transcripts from the Stargate TV
-series. You can run it by first installing ElasticSearch and starting
-it. The program assumes ElasticSearch is running on localhost at
-post 9200.
+This is a web app for searching transcripts from the Stargate and Star
+Trek TV series. You can run it by first installing ElasticSearch and
+starting it. The program assumes ElasticSearch is running on localhost
+at post 9200.
 
 Build the programs:
 
@@ -12,11 +12,11 @@ Build the programs:
 Read the transcripts and output a suitable body to input the data into
 ElasticSearch (the resulting file will be about 300k lines of text):
 
-	$ stargate-parse elasticsearch > stargate.json
+	$ transcript-parse elasticsearch > transcripts.json
 
 Input the data into ElasticSearch:
 
-	$ curl -XPOST 'localhost:9200/stargate/_bulk' --data-binary @stargate.json
+	$ curl -XPOST 'localhost:9200/stargate/_bulk' --data-binary @transcripts.json
 
 Note, if you're running on a memory constrained environment (e.g. a
 tiny VPS), then you may run into trouble inserting all 150k records at
@@ -24,8 +24,8 @@ the same time. Also performance isn't great doing that. Instead, split
 the file into 1000 line chunks (make a directory to do this in, _lots_
 of files will get created).
 
-	$ split -l 1000 stargate.json stargate
-	$ rm stargate.json # or move it somewhere else
+	$ split -l 1000 transcripts.json
+	$ rm transcripts.json # or move it somewhere else
 	$ for f in *; do curl -XPOST 'localhost:9200/stargate/_bulk' --data-binary @${f}; done
 
 That should reduce any possible breakage due to low memory. Also look
@@ -38,7 +38,7 @@ parse or do anything at runtime):
 
 Now you can run the web app:
 
-	$ stargate-search-web
+	$ transcript-search-web
 	Setting phasers to stun... (port 5000) (ctrl-c to quit)
 
 And you can access it at localhost.
@@ -63,8 +63,8 @@ string syntax, so I get all of these features for free.
 
 The raw data is just the transcripts. They are human-readable and
 located in the `transcripts` directory. I wrote a parser that parses
-them, so they are also machine-readable (see `Data.Stargate.Parse` for
-the parser).
+them, so they are also machine-readable (see `Transcript.Parse` for
+the parsers).
 
 The web app itself doesn't read the raw transcripts, but preprocessed
 and preformatted versions of them.
