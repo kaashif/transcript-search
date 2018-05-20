@@ -12,7 +12,7 @@ for s in transcripts/{sg1,atl}; do
 	for e in transcripts/${series}/*; do
 		episode=$(basename $e)
 		echo "$series : $episode"
-		stargate-parse single_gate <transcripts/${series}/${episode} >pretty/${series}/${episode}
+		transcript-parse single_gate <transcripts/${series}/${episode} >pretty/${series}/${episode}
 	done
 done
 for s in transcripts/{tos,tng,ds9,voy,ent}; do
@@ -21,7 +21,7 @@ for s in transcripts/{tos,tng,ds9,voy,ent}; do
 	for e in transcripts/${series}/*; do
 		episode=$(basename $e)
 		echo "$series : $episode"
-		stargate-parse single_trek <transcripts/${series}/${episode} >pretty/${series}/${episode}
+		transcript-parse single_trek <transcripts/${series}/${episode} >pretty/${series}/${episode}
 	done
 done
 

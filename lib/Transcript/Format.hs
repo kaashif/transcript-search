@@ -1,10 +1,10 @@
 {-# OPTIONS_GHC -fno-warn-orphans #-}
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE FlexibleInstances #-}
-module Data.Stargate.Format where
+module Transcript.Format where
 import TextShow
 import Data.Monoid
-import qualified Data.Stargate as D
+import qualified Transcript as D
 import qualified Data.Vector as V
 import qualified Data.Text as T
 import Data.List

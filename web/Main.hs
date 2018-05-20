@@ -19,12 +19,12 @@ import qualified Data.HashMap.Lazy as M
 import qualified Data.Text.Lazy as TL
 import qualified Data.Text as T
 import qualified Data.Text.IO as T
-import qualified Data.Stargate as D
+import qualified Transcript as D
 import qualified Data.Vector as V
 import qualified Data.Vector.Unboxed as VU
-import qualified Data.Stargate.Parse as P
-import Data.Stargate.IO hiding (Entry)
-import Data.Stargate.Format
+import qualified Transcript.Parse.Stargate as P
+import Transcript.IO hiding (Entry)
+import Transcript.Format
 import Data.Maybe
 import Data.Aeson
 import Control.Monad.Trans.Writer.Lazy
@@ -209,6 +209,7 @@ transIndexR epentries = do
                                                                    , ("season", q) 
                                                                    , ("episode", r)
                                                                    , ("title", s)
+                                                                   , ("link", if T.null q then r else T.concat [q,".",r])
                                                                    ]) epentries)]
   veryEasyRender ctx tpl
 

@@ -1,11 +1,11 @@
 {-# LANGUAGE OverloadedStrings #-}
-module Data.Stargate.IO where
+module Transcript.IO where
 
 import qualified Data.Vector as V
 import System.FilePath
-import qualified Data.Stargate as D
-import qualified Data.Stargate.Parse as Gate (scriptp, convert)
-import qualified Data.Stargate.ParseTrek as Trek (scriptp, convert)
+import qualified Transcript as D
+import qualified Transcript.Parse.Stargate as Gate (scriptp, convert)
+import qualified Transcript.Parse.Trek as Trek (scriptp, convert)
 import qualified Data.Text as T
 import qualified Data.Text.IO as T
 import qualified Data.Text.Encoding as T

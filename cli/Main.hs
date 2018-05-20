@@ -1,14 +1,14 @@
 {-# LANGUAGE OverloadedStrings #-}
 module Main where
-import Data.Stargate.IO
-import qualified Data.Stargate as D
+import Transcript.IO
+import qualified Transcript as D
 import qualified Data.Text.IO as T
 import qualified Data.Text as T
-import Data.Stargate.Format ()
+import Transcript.Format ()
 import System.IO
 import System.Environment
 import TextShow
-import Data.Stargate.JSON
+import Transcript.JSON
 import qualified Data.ByteString as BS
 
 main :: IO ()

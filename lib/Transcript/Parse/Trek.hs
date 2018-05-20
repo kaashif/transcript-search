@@ -1,14 +1,13 @@
 {-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE OverloadedStrings #-}
-module Data.Stargate.ParseTrek where
+module Transcript.Parse.Trek where
 
 import Control.Applicative
 import Data.Attoparsec.Text
-import Data.Attoparsec.Combinator
 import qualified Data.Text as T
 import Data.Char
 import qualified Data.Set as S
-import Data.Stargate
+import Transcript
 import qualified Data.Vector as V
 
 scriptp :: Parser [ScriptExpr]

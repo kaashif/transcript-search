@@ -1,9 +1,9 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE DeriveGeneric #-}
 {-# LANGUAGE BangPatterns #-}
-module Data.Stargate.Markov where
+module Transcript.Markov where
 import qualified Data.Text as T
-import qualified Data.Stargate as D
+import qualified Transcript as D
 import System.Random
 import qualified Data.HashMap.Strict as M
 import qualified Data.Hashable as M

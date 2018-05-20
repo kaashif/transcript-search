@@ -1,18 +1,18 @@
 {-# LANGUAGE DeriveGeneric #-}
 {-# LANGUAGE ScopedTypeVariables #-}
 {-# LANGUAGE OverloadedStrings #-}
-module Data.Stargate.JSON where
+module Transcript.JSON where
 
 import GHC.Generics
 import Data.Aeson
 import qualified Data.Text as T
 import qualified Data.Vector as V
 import qualified Data.Set as S
-import qualified Data.Stargate as D
+import qualified Transcript as D
 import qualified Data.HashMap.Lazy as M
 import qualified Data.ByteString.Lazy as BSL
 import qualified Data.ByteString as BS
-import Data.Stargate.IO
+import Transcript.IO
 import Text.Read (readMaybe)
 import Data.Maybe
 

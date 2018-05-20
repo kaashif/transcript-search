@@ -1,16 +1,16 @@
-name:          stargate-search
+name:          transcript-search
 version:       0.0.0
 cabal-version: >= 1.8
 build-type:    Simple
 
-executable          stargate-search-web
+executable          transcript-search-web
     hs-source-dirs: web
     main-is:        Main.hs
     other-modules:  ElasticSearch
     ghc-options:    -Wall -threaded -O2
     extensions:     OverloadedStrings
     build-depends:  base   >= 4      && < 5
-                  , stargate-search
+                  , transcript-search
                   , scotty
                   , ginger
                   , filepath
@@ -31,25 +31,25 @@ executable          stargate-search-web
                   , uri-encode
                   , http-types
 
-executable          stargate-parse
+executable          transcript-parse
     hs-source-dirs: cli
     main-is:        Main.hs
     ghc-options:    -Wall -threaded -O2
     build-depends:  base   >= 4      && < 5
-                  , stargate-search
+                  , transcript-search
                   , text
                   , text-show
                   , bytestring
 
 library
     hs-source-dirs: lib
-    exposed-modules: Data.Stargate
-                   , Data.Stargate.Parse
-                   , Data.Stargate.ParseTrek
-                   , Data.Stargate.IO
-                   , Data.Stargate.Markov
-                   , Data.Stargate.Format
-                   , Data.Stargate.JSON
+    exposed-modules: Transcript
+                   , Transcript.Parse.Stargate
+                   , Transcript.Parse.Trek
+                   , Transcript.IO
+                   , Transcript.Markov
+                   , Transcript.Format
+                   , Transcript.JSON
     build-depends: base   >= 4      && < 5
                  , filepath
                  , either-unwrap

@@ -1,5 +1,5 @@
 {-# LANGUAGE DeriveGeneric #-}
-module Data.Stargate where
+module Transcript where
 
 import GHC.Generics
 import qualified Data.Vector as V
