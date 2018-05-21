@@ -16,7 +16,7 @@ ElasticSearch (the resulting file will be about 300k lines of text):
 
 Input the data into ElasticSearch:
 
-	$ curl -XPOST 'localhost:9200/stargate/_bulk' --data-binary @transcripts.json
+	$ curl -XPOST 'localhost:9200/transcripts/_bulk' --data-binary @transcripts.json
 
 Note, if you're running on a memory constrained environment (e.g. a
 tiny VPS), then you may run into trouble inserting all 150k records at
@@ -26,7 +26,7 @@ of files will get created).
 
 	$ split -l 1000 transcripts.json
 	$ rm transcripts.json # or move it somewhere else
-	$ for f in *; do curl -XPOST 'localhost:9200/stargate/_bulk' --data-binary @${f}; done
+	$ for f in *; do curl -XPOST 'localhost:9200/transcripts/_bulk' --data-binary @${f}; done
 
 That should reduce any possible breakage due to low memory. Also look
 up how to reduce ElasticSearch's JVM heap size.

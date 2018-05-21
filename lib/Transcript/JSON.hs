@@ -14,7 +14,6 @@ import qualified Data.ByteString.Lazy as BSL
 import qualified Data.ByteString as BS
 import Transcript.IO
 import Text.Read (readMaybe)
-import Data.Maybe
 
 data LineRecord = LineRecord { series :: T.Text
                              , season_number :: Int
@@ -60,7 +59,7 @@ toJSON :: V.Vector (SeriesName, SeasonEpisodeCode, D.Episode) -> BS.ByteString
 toJSON v = BS.concat $ snd $ V.foldl' convert' (0, []) v
     where convert' (currentID, result) (serie, epcode, ep) = V.foldl' addID (currentID, result) $ toLineRecords serie epcode ep
           addID (currentID, result) linerec = ( currentID+1
-                                              , (BSL.toStrict $ encode $ M.singleton ("index" :: T.Text) $ IDRecord "stargate" "line" currentID)
+                                              , (BSL.toStrict $ encode $ M.singleton ("index" :: T.Text) $ IDRecord "transcripts" "line" currentID)
                                               : "\n"
                                               : (BSL.toStrict $ encode linerec)
                                               : "\n"

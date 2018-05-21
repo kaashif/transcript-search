@@ -169,7 +169,7 @@ searchCtx adv query_map = do
   let qstring = if adv
                 then B8.pack $ U.encode $ TL.unpack query
                 else B8.pack $ U.encode $ TL.unpack $ TL.concat $ intercalate [" AND "] $ filter (not . null) qstrs
-  initReq <- parseRequest "http://localhost:9200/stargate/_search"
+  initReq <- parseRequest "http://localhost:9200/transcripts/_search"
   let myreq = initReq {
                 queryString = if not $ B8.null qstring
                               then B8.concat ["?size=1000&q=", qstring]
@@ -224,7 +224,7 @@ getHitContext n hit = do
                                             ,"line_number:[", printf "%d" (s_line_number src - n)
                                             , " TO ", printf "%d" (s_line_number src + n), "]"
                                             ]
-  initReq <- parseRequest "http://localhost:9200/stargate/_search"
+  initReq <- parseRequest "http://localhost:9200/transcripts/_search"
   let myreq = initReq {
                 queryString = if not $ B8.null qstring
                               then B8.concat ["?size=1000&q=", qstring]
