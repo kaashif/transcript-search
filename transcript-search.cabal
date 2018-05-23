@@ -30,6 +30,7 @@ executable          transcript-search-web
                   , http-conduit
                   , uri-encode
                   , http-types
+                  , directory
 
 executable          transcript-parse
     hs-source-dirs: cli
