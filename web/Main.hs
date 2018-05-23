@@ -51,12 +51,12 @@ instance ToGVal m ResultsOrText where
 
 main :: IO ()
 main = do
-  entries <- fmap sort readAllEntries
-  let thd (_,_,c) = c
   args <- getArgs
   case args of
     (x:_) -> setCurrentDirectory x
     _ -> return ()
+  entries <- fmap sort readAllEntries
+  let thd (_,_,c) = c
 --let wordlist1 = V.fromList $ exprsToMarkov $ concat $ V.map (D.exprs . thd) eps
 --let (toInt, toMarkov) = makeLookup wordlist1
 --let wordlist = VU.convert $ V.map toInt wordlist1
