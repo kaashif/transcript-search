@@ -14,11 +14,11 @@
 	<th>Title</th>
   </tr>
 {% for entry in entries %}
-	<tr onclick="location.href='/transcripts/{{ entry.seriesurl }}/{{ entry.link }}'">
-	  <td>{{ entry.series }}</td>
-	  <td>{{ entry.season }}</td>
-	  <td>{{ entry.episode }}</td>
-	  <td>{{ entry.title }}</td>
+	<tr onclick="location.href='/transcripts/{{ entry['series'] }}/{{ entry['season_number'] }}.{{ entry['episode_number'] }}'">
+	  <td>{{ entry['series'] }}</td>
+	  <td>{{ entry['season_number'] }}</td>
+	  <td>{{ entry['episode_number'] }}</td>
+	  <td>{{ entry['episode_title'] }}</td>
 	</tr>
 {% endfor %}
 </table>
