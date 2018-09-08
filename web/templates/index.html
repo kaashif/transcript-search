@@ -1,0 +1,75 @@
+{% extends "layout.html" %}
+{% block buttons %}
+<li role="presentation" class="active"><a href="/">Search</a></li>
+<li role="presentation"><a href="/advanced">Advanced Search</a></li>
+<li role="presentation"><a href="/transcripts">Transcripts</a></li>
+<li role="presentation"><a href="/about">About</a></li>
+{% endblock %}
+{% block content %}
+<div class="alert alert-info">
+  <ul>
+    <li>
+      All search parameters are optional! Just leave it blank if you
+      don't care about it
+    </li>
+    <li>Only the first 1000 results of a query will be shown</li>
+  </ul>
+</div>
+<form action="/search" method="GET">
+  <div class="form-group">
+    <label for="speech">Enter a word or phrase you are looking for:</label>
+    <input type="text" class="form-control" id="speech" name="speech"
+           placeholder="Word or phrase">
+  </div>
+  <div class="form-group">
+    <label for="person">Who said it?</label>
+    <input type="text" class="form-control" id="person" name="person"
+           placeholder="e.g. O'Neill">
+  </div>
+  <div class="form-group">
+    <label for="present">Who else was present?</label>
+    <input type="text" class="form-control" id="present" name="present"
+           placeholder="e.g. Carter">
+  </div>
+  <div class="form-group">
+    <label for="place">In which location was it spoken?</label>
+    <input type="text" class="form-control" id="place" name="place"
+           placeholder="e.g. Gate Room">
+  </div>
+  <div class="form-group">
+    <label for="episode_title">What was the title of the episode?</label>
+    <input type="text" class="form-control" id="episode_title" name="episode_title"
+           placeholder="e.g. Window of Opportunity">
+  </div>
+  <div class="form-group">
+    <input type="radio" id="andor" name="andor" value="and"
+           checked="yes"> AND (match all parameters) <br>
+    <input type="radio" id="andor" name="andor"
+           value="or"> OR (match any parameters) <br>
+  </div>
+  <div class="form-group">
+    <label for="series">Which series is it from?</label><br>
+    <input type="checkbox" checked="checked" name="series"
+           value="sg1">   SG-1<br>
+    <input type="checkbox" checked="checked" name="series"
+           value="atl">   Atlantis<br>
+  </div>
+  <div class="form-group">
+    <div class="alert alert-danger">
+      Non-Stargate series have not been quality controlled to the
+      extent of Stargate, search results may be seriously malformed.
+    </div>
+    <input type="checkbox" checked="checked" name="series"
+           value="tos">   The Original Series<br>
+    <input type="checkbox" checked="checked" name="series"
+           value="ds9">   Deep Space 9<br>
+    <input type="checkbox" checked="checked" name="series"
+           value="ds9">   The Next Generation<br>
+    <input type="checkbox" checked="checked" name="series"
+           value="voy">   Voyager<br>
+    <input type="checkbox" checked="checked" name="series"
+           value="ent">   Enterprise<br>
+  </div>
+  <button type="submit" class="btn btn-primary">Search</button>
+</form>
+{% endblock %}

@@ -1,6 +1,6 @@
 {% extends "layout.html" %}
 {% block buttons %}
-{% if equals(advanced, "true") %}
+{% if advanced %}
 <li role="presentation"><a href="/">Search</a></li>
 <li role="presentation" class="active"><a href="/advanced">Advanced Search</a></li>
 {% else %}
@@ -11,20 +11,28 @@
 <li role="presentation"><a href="/about">About</a></li>
 {% endblock %}
 {% block content %}
-{% if equals(toomany, "yes") %}
+
+{% if error %}
 <div class="alert alert-danger">
   There was a problem with your search query! It was probably
   malformed, please check the syntax and try again.
 </div>
 {% else %}
+
 {% if results|length == 0 %}
-<div class="alert alert-danger">
+<div class="alert alert-warning">
   <strong>No results found :(</strong>
+</div>
+{% elif results|length == 1000 %}
+<div class="alert alert-warning">
+  <strong>Found &gt;1000 results! Only showing the first 1000.</strong>
 </div>
 {% else %}
 <div class="alert alert-success">
   Found <strong>{{ results|length }}</strong> results!
 </div>
+{% endif %}
+
 {% for result in results %}
 <div class="panel panel-default">
   <div class="panel-heading">
@@ -46,6 +54,5 @@
 </div>
 <hr>
 {% endfor %}
-{% endif %}
 {% endif %}
 {% endblock %}
