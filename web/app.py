@@ -29,13 +29,19 @@ def speech(r):
 
 def get_contexts(row):
     cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
-    query_string = "SELECT * FROM transcripts WHERE series=%s AND episode_number=%s AND season_number=%s AND scene_number=%s AND abs(line_number - %s) <= 2"
-    cur.execute(query_string,
-                [row['series'], row['episode_number'], row['season_number'], row['scene_number'], row['line_number']])
+    query_string = "SELECT * from transcripts WHERE id <= %(id)s + 2 AND id >= %(id)s - 2"
+    cur.execute(query_string, {'id':row['id']})
     results = cur.fetchall()
     conn.commit()
-    before = [speech(r) for r in results if r['line_number'] < row['line_number']]
-    after = [speech(r) for r in results if r['line_number'] > row['line_number']]
+
+    def same_scene(r):
+        return all([r['series'] == row['series'],
+                    r['season_number'] == row['season_number'],
+                    r['episode_number'] == row['episode_number'],
+                    r['scene_number'] == row['scene_number']])
+
+    before = [speech(r) for r in results if r['line_number'] < row['line_number'] and same_scene(r)]
+    after = [speech(r) for r in results if r['line_number'] > row['line_number'] and same_scene(r)]
     return (before, after)
 
 def make_result(row):
@@ -85,11 +91,11 @@ def search():
                     { col:"%{}%".format(request.args.get(col)) for col in search_cols if request.args.get(col) not in [None, ""] })
         results = cur.fetchall()
         conn.commit()
-    except psycopg2.DatabaseError as e: 
+    except psycopg2.DatabaseError as e:
         print(e)
         conn.rollback()
         error = True
-    
+
     results = [make_result(row) for row in results]
     return render_template("results.html",
                            results=results,
@@ -98,4 +104,18 @@ def search():
 
 @app.route("/transcripts")
 def transcripts():
-    return render_template("transcripts.html")
+    cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
+    cur.execute("SELECT DISTINCT ON (series, season_number, episode_number) * FROM transcripts ORDER BY series, season_number, episode_number")
+    entries = cur.fetchall()
+    conn.commit()
+    return render_template("transcript_index.html",
+                           entries=entries)
+
+@app.route("/transcripts/<series>/<epcode>")
+def transcript(series, epcode):
+    parsed = ""
+    with open(f'pretty/{series}/{epcode}', 'r') as f:
+        parsed = f.read()
+    return render_template("transcript.html",
+                           episode="{} Episode {}".format(series.upper(), epcode),
+                           parsed_transcript=parsed)
