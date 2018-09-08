@@ -111,8 +111,12 @@ def transcripts():
     return render_template("transcript_index.html",
                            entries=entries)
 
-@app.route("/transcripts/<series>/<epcode>")
-def transcript(series, epcode):
+@app.route("/transcripts/<series>/<raw_epcode>")
+def transcript(series, raw_epcode):
+    epcode = raw_epcode
+    if series in ["sg1", "atl"]:
+        seas, ep = raw_epcode.split(".")
+        epcode = '{}.{:02d}'.format(seas, int(ep))
     parsed = ""
     with open(f'pretty/{series}/{epcode}', 'r') as f:
         parsed = f.read()
