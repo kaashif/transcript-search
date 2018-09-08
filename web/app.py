@@ -8,6 +8,11 @@ conn = psycopg2.connect(user="transcripts",
                         password=os.environ["DB_PASS"],
                         host="localhost")
 
+gcur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
+gcur.execute("SELECT DISTINCT ON (series, season_number, episode_number) * FROM transcripts ORDER BY series, season_number, episode_number")
+conn.commit()
+entries = gcur.fetchall()
+
 @app.route("/")
 def index():
     return render_template("index.html")
@@ -46,7 +51,9 @@ def get_contexts(row):
 
 def make_result(row):
     result = {}
-    result['url'] = ''
+    result['url'] = '/transcripts/{}/{}.{}'.format(row['series'],
+                                                   row['season_number'],
+                                                   row['episode_number'])
     result['episode'] = "{}: Season {}, Episode {}: {}".format(row['series'].upper(),
                                                                row['season_number'],
                                                                row['episode_number'],
@@ -104,10 +111,6 @@ def search():
 
 @app.route("/transcripts")
 def transcripts():
-    cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
-    cur.execute("SELECT DISTINCT ON (series, season_number, episode_number) * FROM transcripts ORDER BY series, season_number, episode_number")
-    entries = cur.fetchall()
-    conn.commit()
     return render_template("transcript_index.html",
                            entries=entries)
 
