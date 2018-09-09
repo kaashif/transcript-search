@@ -23,7 +23,7 @@ def about():
 
 @app.route("/advanced")
 def advanced():
-    return "There is no advanced search yet, go back."
+    return render_template("advanced.html")
 
 @app.route("/random")
 def random():

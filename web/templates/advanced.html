@@ -6,31 +6,10 @@
 <li role="presentation"><a href="/about">About</a></li>
 {% endblock %}
 {% block content %}
-<form action="/adv_search" method="GET">
-  <div class="form-group">
-	<label for="query">Search Query:</label>
-	<input type="text" class="form-control" id="query" name="query"
-		   placeholder="ElasticSearch query string">
-  </div>
-  <button type="submit" class="btn btn-primary">Search</button>
-</form>
-<hr/>
-<div class="syntax">
-  <h3>Syntax</h3>
-  <div class="alert alert-info">
-	This advanced search page
-	uses <a href="https://www.elastic.co/guide/en/elasticsearch/reference/6.2/query-dsl-query-string-query.html#query-string-syntax">
-	ElasticSearch query syntax</a>, see that page for the full syntax.
-  </div>
+<div>
   <p>
-	Generally, queries are of the form <code>field:string</code>. The
-	lines returned will have <code>string</code> contained
-	in <code>field</code>. For example: <code>speech:"gate
-	room"</code> will search for lines where someone says the exact
-	phrase "gate room" (case insensitively).
-  </p>
-  <p>
-	Here is a list of available fields and what they are:
+    There is no advanced search at the moment. The data is just stored
+    in an SQL database, so let me just tell you what the columns are:
   </p>
   <table class="table table-striped table-bordered"> 
 	<tr>
@@ -55,16 +34,22 @@
 	</tr>
 	<tr>
 	  <td>scene_number</td>
-	  <td>Scene number: this probably isn't useful to you</td>
-	</tr> 
+	  <td>
+        A "scene", as the parser sees it, is a list of consecutive
+	    lines that all happen in the same place. An episode is a list
+	    of scenes.
+      </td>
+	</tr>
 	<tr>
 	  <td>line_number</td>
-	  <td>Line number: this probably isn't useful to you</td>
+	  <td>This is the line number <i>in the scene</i>.</td>
 	</tr> 
 	<tr>
 	  <td>person</td>
-	  <td>Who said this line (or "ANNOTATION", meaning a stage
-	  direction)</td>
+	  <td>
+        Who said this line (or "ANNOTATION", meaning a stage
+	    direction or something else)
+      </td>
 	</tr> 
 	<tr>
 	  <td>speech</td>
@@ -72,25 +57,15 @@
 	</tr> 
 	<tr>
 	  <td>present</td>
-	  <td>Space delimited list of who is present when the line is
-	  spoken</td>
-	</tr> 
+	  <td>
+        Space delimited list of who is present when the line is
+	    spoken.
+      </td>
+	</tr>
 	<tr>
 	  <td>place</td>
 	  <td>Where the scene takes place</td>
 	</tr> 
   </table> 
-
-  <p>
-	You can mix and match field names, use logical operators and even
-	regular expressions. Check out
-	the <a href="https://www.elastic.co/guide/en/elasticsearch/reference/6.2/query-dsl-query-string-query.html#query-string-syntax">ElasticSearch</a>
-	query syntax page to learn more. Here are a few examples:
-  </p>
-  <ul>
-	<li><code>person:carter AND speech:stargate AND present:"o'neill"</code></li>
-	<li><code>person:(teal'c OR o'neill) speech:indeed</code></li>
-	<li><code>series:sg1 AND person:/robot.*/</code></li>
-  </ul>
 </div>
 {% endblock %}
