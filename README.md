@@ -1,49 +1,31 @@
 # Transcript Search Tool
 
 This is a web app for searching transcripts from the Stargate and Star
-Trek TV series. You can run it by first installing ElasticSearch and
-starting it. The program assumes ElasticSearch is running on localhost
-at post 9200.
+Trek TV series.
 
-Build the programs:
+You can run this app using Docker, but before you can build the image,
+there are some things you need to do.
+
+Build the parser program:
 
 	$ stack build --copy-bins
 
-Read the transcripts and output a suitable body to input the data into
-ElasticSearch (the resulting file will be about 300k lines of text):
+Run the build script that regenerates the transcript data and the
+prettified transcripts for the web app:
 
-	$ transcript-parse elasticsearch > transcripts.json
+    $ ./build.sh
 
-Input the data into ElasticSearch:
+Now you can use `docker-compose` which will start up the database and
+web app in separate containers.
 
-	$ curl -XPOST 'localhost:9200/transcripts/_bulk' --data-binary @transcripts.json
+    $ docker-compose up
 
-Note, if you're running on a memory constrained environment (e.g. a
-tiny VPS), then you may run into trouble inserting all 150k records at
-the same time. Also performance isn't great doing that. Instead, split
-the file into 1000 line chunks (make a directory to do this in, _lots_
-of files will get created).
-
-	$ split -l 1000 transcripts.json
-	$ rm transcripts.json # or move it somewhere else
-	$ for f in *; do curl -XPOST 'localhost:9200/transcripts/_bulk' --data-binary @${f}; done
-
-That should reduce any possible breakage due to low memory. Also look
-up how to reduce ElasticSearch's JVM heap size.
-
-Create the prettified transcripts (so the web app doesn't have to
-parse or do anything at runtime):
-
-	$ ./make_pretty.sh
-
-Now you can run the web app:
-
-	$ transcript-search-web
-	Setting phasers to stun... (port 5000) (ctrl-c to quit)
-
-And you can access it at localhost.
-
-There is also an instance running at <http://stargate.kaashif.co.uk>.
+Note that the first time you run this, the database container will
+import the transcripts, which might take a long time. It will take so
+long that the web app will probably time out connecting to the
+database. Just wait for the importing to complete, then restart
+everything. The second time around, the container will already have
+the transcripts.
 
 ## Current features
 
