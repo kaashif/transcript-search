@@ -1,15 +1,22 @@
 from flask import Flask, render_template, request
-import psycopg2, psycopg2.extras, os
+import psycopg2, psycopg2.extras, os, time
 
 app = Flask(__name__)
 
 conn = psycopg2.connect(user="transcripts",
                         dbname="postgres",
                         password=os.environ["DB_PASS"],
-                        host="localhost")
+                        host=os.environ["DB_HOST"],
+                        port=5432)
+
+print("Connected to database")
 
 gcur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
+
+# try to load the episode list, it will work eventually, when the DB
+# gets the data
 gcur.execute("SELECT DISTINCT ON (series, season_number, episode_number) * FROM transcripts ORDER BY series, season_number, episode_number")
+
 conn.commit()
 entries = gcur.fetchall()
 
@@ -76,7 +83,7 @@ def search():
     # Series is a special case since it can have multiple values and
     # the user *always* wants to OR on series
     seriess = ["sg1", "atl", "tos", "ent", "ds9", "tng", "voy"]
-    series_strings = ["series = '{}'".format(series) for series in seriess if series in request.args.getlist("series")] 
+    series_strings = ["series = '{}'".format(series) for series in seriess if series in request.args.getlist("series")]
 
     series_string = " OR ".join(series_strings)
     search_string = andor.join(search_strings)
@@ -126,3 +133,6 @@ def transcript(series, raw_epcode):
     return render_template("transcript.html",
                            episode="{} Episode {}".format(series.upper(), epcode),
                            parsed_transcript=parsed)
+
+if __name__ == "__main__":
+    app.run(port=8000, host="0.0.0.0")

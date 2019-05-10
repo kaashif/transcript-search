@@ -1,0 +1,24 @@
+version: '3.1'
+
+services:
+  web:
+    depends_on:
+      - postgres
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      DB_HOST: postgres
+      DB_PASS: transcripts
+    restart: always
+  postgres:
+    image: postgres:11
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: transcripts
+      POSTGRES_PASSWORD: transcripts
+      POSTGRES_DB: postgres
+    volumes:
+      - ./data:/docker-entrypoint-initdb.d
+    restart: always
