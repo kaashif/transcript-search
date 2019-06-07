@@ -1,18 +1,11 @@
 {% extends "layout.html" %}
 {% block buttons %}
 <li role="presentation"><a href="/">Search</a></li>
-<li role="presentation"><a href="/advanced">Advanced Search</a></li>
 <li role="presentation"><a href="/transcripts">Transcripts</a></li>
+<li role="presentation" class="active"><a href="/random">Random</a></li>
 <li role="presentation"><a href="/about">About</a></li>
 {% endblock %}
 {% block content %}
-<div class="alert alert-info">
-  <strong>Note:</strong> there may be bugs in the parser that produced
-  this transcript. If you find a mistake, please report it on
-  GitHub. Visit <a href="http://www.stargate-sg1-solutions.com/wiki/Transcripts">the
-  stargate-sg1-solutions.com transcripts page</a> for the full
-  unedited transcripts.
-</div>
 <h2>{{ episode }}</h2>
 <pre>
 {{ parsed_transcript }}

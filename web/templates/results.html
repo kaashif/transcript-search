@@ -1,13 +1,8 @@
 {% extends "layout.html" %}
 {% block buttons %}
-{% if advanced %}
-<li role="presentation"><a href="/">Search</a></li>
-<li role="presentation" class="active"><a href="/advanced">Advanced Search</a></li>
-{% else %}
 <li role="presentation" class="active"><a href="/">Search</a></li>
-<li role="presentation"><a href="/advanced">Advanced Search</a></li>
-{% endif %}
 <li role="presentation"><a href="/transcripts">Transcripts</a></li>
+<li role="presentation"><a href="/random">Random</a></li>
 <li role="presentation"><a href="/about">About</a></li>
 <li role="presentation"><a href="https://gitlab.com/kaashif/transcript-search">Source</a></li>
 {% endblock %}

@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-import psycopg2, psycopg2.extras, os, time
+import psycopg2, psycopg2.extras, os, time, random, glob
 
 app = Flask(__name__)
 
@@ -31,10 +31,6 @@ def about():
 @app.route("/advanced")
 def advanced():
     return render_template("advanced.html")
-
-@app.route("/random")
-def random():
-    return render_template("random.html")
 
 def speech(r):
     return "{}: {}".format(r['person'], r['speech'])
@@ -142,6 +138,17 @@ def transcript(series, raw_epcode):
         parsed = f.read()
     return render_template("transcript.html",
                            episode="{} Episode {}".format(series.upper(), epcode),
+                           parsed_transcript=parsed)
+
+@app.route("/random")
+def random():
+    series = random.choice(["ent", "tos", "tng", "ds9", "voy"])
+    random_fname = random.choice(glob.glob(f'sample_random/{series}/*.pretty'))
+    parsed = ""
+    with open(randome_fname, 'r') as f:
+        parsed = f.read()
+    return render_template("random.html",
+                           episode=f'{series.upper()} Randomly Generated Episode',
                            parsed_transcript=parsed)
 
 if __name__ == "__main__":
