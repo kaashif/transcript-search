@@ -7,20 +7,21 @@
 <li role="presentation"><a href="https://gitlab.com/kaashif/transcript-search">Source</a></li>
 {% endblock %}
 {% block content %}
-<div class="alert alert-danger">
-  None of the Star Trek links on this page actually work.
-</div>
 <table class="table table-hover">
   <tr>
 	<th>Series</th>
 	<th>Season</th>
-	<th>Episode</th>
+	<th>Episode/Production Code</th>
 	<th>Title</th>
   </tr>
 {% for entry in entries %}
+  {% if entry['season_number'] != 0 %}
 	<tr onclick="location.href='/transcripts/{{ entry['series'] }}/{{ entry['season_number'] }}.{{ entry['episode_number'] }}'">
-	  <td>{{ entry['series'] }}</td>
-	  <td>{{ entry['season_number'] }}</td>
+  {% else %}
+	<tr onclick="location.href='/transcripts/{{ entry['series'] }}/{{ entry['episode_number'] }}'">
+  {% endif %}
+	  <td>{{ entry['series'].upper() }}</td>
+	  <td>{{ entry['season_number'] if entry['season_number'] != 0 else '' }}</td>
 	  <td>{{ entry['episode_number'] }}</td>
 	  <td>{{ entry['episode_title'] }}</td>
 	</tr>
