@@ -1,7 +1,8 @@
 # Transcript Search Tool
 
 This is a web app for searching transcripts from the Stargate and Star
-Trek TV series.
+Trek TV series. There is an instance running at
+<https://transcripts.kaashif.co.uk>.
 
 You can run this app using Docker, but before you can build the image,
 there are some things you need to do.
@@ -25,7 +26,7 @@ import the transcripts, which might take a long time. It will take so
 long that the web app will probably time out connecting to the
 database. Just wait for the importing to complete, then restart
 everything. The second time around, the container will already have
-the transcripts.
+the transcripts and it will work.
 
 ## Current features
 
@@ -33,13 +34,16 @@ the transcripts.
 * Search by character (who said it, who was it said to)
 * Search by location
 * Search by series
+
+## Planned features
+
 * Search by season/episode
 * Multiple search queries
 * Regular expressions
 
-Note: these features are inherited from ElasticSearch. The advanced
-search page of the web app literally uses the ElasticSearch query
-string syntax, so I get all of these features for free.
+I used to have these features from using ElasticSearch, but then I
+switched to a plain old SQL server. This means I have to re-implement
+these.
 
 ## Raw data
 
@@ -62,7 +66,7 @@ The contents of this repository are for educational and entertainment
 purposes only.
 
 ## AGPL License
-Copyright (c) 2018 Kaashif Hymabaccus
+Copyright (c) 2018-2019 Kaashif Hymabaccus
 
 This project is licensed under the AGPLv3, find a copy in the
 `LICENSE` file.
