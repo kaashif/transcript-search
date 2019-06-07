@@ -1,5 +1,5 @@
-from flask import Flask, render_template, request
-import psycopg2, psycopg2.extras, os, time, random, glob
+from flask import Flask, render_template, request, redirect
+import psycopg2, psycopg2.extras, os, time, random, glob, uuid
 
 app = Flask(__name__)
 
@@ -140,12 +140,18 @@ def transcript(series, raw_epcode):
                            episode="{} Episode {}".format(series.upper(), epcode),
                            parsed_transcript=parsed)
 
-@app.route("/random")
-def random():
-    series = random.choice(["ent", "tos", "tng", "ds9", "voy"])
-    random_fname = random.choice(glob.glob(f'sample_random/{series}/*.pretty'))
+@app.route("/random/")
+def random_noseed():
+    digest = uuid.uuid4().hex
+    return redirect(f'/random/{digest}', code=302)
+
+@app.route("/random/<rand_seed>")
+def random_seeded(rand_seed):
+    my_random = random.Random(rand_seed)
+    series = my_random.choice(["ent", "tos", "tng", "ds9", "voy"])
+    random_fname = my_random.choice(glob.glob(f'sample_random/{series}/*.pretty'))
     parsed = ""
-    with open(randome_fname, 'r') as f:
+    with open(random_fname, 'r') as f:
         parsed = f.read()
     return render_template("random.html",
                            episode=f'{series.upper()} Randomly Generated Episode',
