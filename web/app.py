@@ -58,13 +58,23 @@ def get_contexts(row):
 
 def make_result(row):
     result = {}
-    result['url'] = '/transcripts/{}/{}.{}'.format(row['series'],
-                                                   row['season_number'],
-                                                   row['episode_number'])
-    result['episode'] = "{}: Season {}, Episode {}: {}".format(row['series'].upper(),
-                                                               row['season_number'],
-                                                               row['episode_number'],
-                                                               row['episode_title'])
+
+    # if the season number is actually known
+    if row['season_number'] != 0:
+        result['url'] = '/transcripts/{}/{}.{}'.format(row['series'],
+                                                       row['season_number'],
+                                                       row['episode_number'])
+        result['episode'] = "{}: Season {}, Episode {}: {}".format(row['series'].upper(),
+                                                                   row['season_number'],
+                                                                   row['episode_number'],
+                                                                   row['episode_title'])
+    else:
+        # else it's just a production code
+        result['url'] = '/transcripts/{}/{}'.format(row['series'],
+                                                    row['episode_number'])
+        result['episode'] = "{}: {} ({})".format(row['series'].upper(),
+                                                 row['episode_title'],
+                                                 row['episode_number'])
     result['place'] = row['place']
     result['context_before'], result['context_after'] = get_contexts(row)
     result['match'] = speech(row)
