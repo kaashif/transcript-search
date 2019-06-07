@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import sys, glob, nltk, random
+import sys, glob, nltk, random, os
 from collections import defaultdict
 from sacremoses import MosesDetokenizer, MosesTokenizer
 
@@ -46,6 +46,7 @@ def main():
                 char_trigrams[char_name][(w1, w2)].append(w3)
 
     output_dir = sys.argv[2]
+    os.mkdir(output_dir)
 
     for i in range(NUM_GENERATE):
         print(f'Generating {i}.txt')
