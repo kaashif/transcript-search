@@ -14,9 +14,9 @@ scriptp :: Parser [ScriptExpr]
 scriptp = do
   title <- takeTill (=='\n')
   char '\n'
-  takeTill (=='\n')
+  stardate <- takeTill (=='\n')
   char '\n'
-  takeTill (=='\n')
+  airdate <- takeTill (=='\n')
   char '\n'
   exprs <- many (choice [annotationp, placep, speechp])
   return $ (Title title):exprs
@@ -28,32 +28,32 @@ annotationp = do
   string ")\n"
   return $ Annotation ann
 
-headerChar :: Char -> Bool
-headerChar c = isLatin1 c && not (isLower c) && c/='\n'
-
-namep :: Parser T.Text
-namep = takeWhile1 headerChar
-
 placep :: Parser ScriptExpr
 placep = do
   string "["
   place <- fmap (T.map (\c -> if c=='\n' then ' ' else c)) $ (takeWhile1 (\c -> isLatin1 c && c /= ']'))
   string "]\n"
   return $ Place Exterior place
-  
-speechlinep :: Parser T.Text
-speechlinep = do
-  l <- takeWhile1 (\c -> isLatin1 c && c /= '\n')
-  skip (=='\n')
-  return l
 
 speechp :: Parser ScriptExpr
 speechp = do
-  cname <- takeTill (==':')
-  string ": "
-  speech <- takeTill (=='\n')
-  char '\n'
-  return $ Speech cname speech
+  cname <- takeTill (`elem` ['\n', ':'])
+  c <- peekChar
+  case c of
+    Just ':' -> do
+      string ": "
+      speech <- takeTill (=='\n')
+      char '\n'
+      return $ Speech cname speech
+    _ -> do
+      -- Occasionally there is a line that no-one is saying, like the
+      -- on-screen text at the start of Caretaker or Emissary. This is
+      -- rare. More common are captain's logs, which *should* have a person
+      -- attributed, but often don't. We can't tell programmatically what
+      -- the situation is, who is doing the log, so we just say "someone" is
+      -- saying it.
+      char '\n'
+      return $ Speech "SOMEONE" cname
 
 convert :: [ScriptExpr] -> Episode
 convert es = reversed { scenes = V.reverse $ scenes reversed, exprs = es }
