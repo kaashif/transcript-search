@@ -2,58 +2,29 @@
 {-# LANGUAGE OverloadedStrings #-}
 module Transcript.Parse.Trek where
 
-import Control.Applicative
-import Data.Attoparsec.Text
 import qualified Data.Text as T
-import Data.Char
 import qualified Data.Set as S
 import Transcript
 import qualified Data.Vector as V
 
-scriptp :: Parser [ScriptExpr]
-scriptp = do
-  title <- takeTill (=='\n')
-  char '\n'
-  stardate <- takeTill (=='\n')
-  char '\n'
-  airdate <- takeTill (=='\n')
-  char '\n'
-  exprs <- many (choice [annotationp, placep, speechp])
-  return $ (Title title):exprs
+parse :: T.Text -> Maybe [ScriptExpr]
+parse raw = if length lines < 3
+  then Nothing -- we expect 3 lines, the title, airdate, then stardate
+  else Just $ (Title $ head lines):(concat $ map parseRest $ drop 3 lines)
+  where lines = T.lines raw
 
-annotationp :: Parser ScriptExpr
-annotationp = do
-  string "("
-  ann <- fmap (T.map (\c -> if c=='\n' then ' ' else c)) $ (takeWhile1 (\c -> isLatin1 c && c /= ')'))
-  string ")\n"
-  return $ Annotation ann
-
-placep :: Parser ScriptExpr
-placep = do
-  string "["
-  place <- fmap (T.map (\c -> if c=='\n' then ' ' else c)) $ (takeWhile1 (\c -> isLatin1 c && c /= ']'))
-  string "]\n"
-  return $ Place Exterior place
-
-speechp :: Parser ScriptExpr
-speechp = do
-  cname <- takeTill (`elem` ['\n', ':'])
-  c <- peekChar
-  case c of
-    Just ':' -> do
-      string ": "
-      speech <- takeTill (=='\n')
-      char '\n'
-      return $ Speech cname speech
-    _ -> do
-      -- Occasionally there is a line that no-one is saying, like the
-      -- on-screen text at the start of Caretaker or Emissary. This is
-      -- rare. More common are captain's logs, which *should* have a person
-      -- attributed, but often don't. We can't tell programmatically what
-      -- the situation is, who is doing the log, so we just say "someone" is
-      -- saying it.
-      char '\n'
-      return $ Speech "SOMEONE" cname
+-- Takes exactly 1 line, changes it into a scriptexpr
+parseRest :: T.Text -> [ScriptExpr]
+parseRest l
+  | T.null l = []
+  | T.head l == '(' && T.last l == ')' = [Annotation $ T.drop 1 $ T.init l]
+  | T.head l == '[' && T.last l == ']' = [Place Exterior $ T.drop 1 $ T.init l]
+  | ":" `T.isInfixOf` l = [Speech (head splat) (T.intercalate ":" $ tail splat)]
+  -- sometimes there is an unattributed line (e.g. some captains logs,
+  -- that text at the start of Emissary or Caretaker), and we need to
+  -- include it but the script doesn't tell us who said it
+  | otherwise = [Speech "SOMEONE" l]
+  where splat = T.splitOn ":" l
 
 convert :: [ScriptExpr] -> Episode
 convert es = reversed { scenes = V.reverse $ scenes reversed, exprs = es }

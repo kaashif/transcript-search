@@ -5,7 +5,7 @@ import qualified Data.Vector as V
 import System.FilePath
 import qualified Transcript as D
 import qualified Transcript.Parse.Stargate as Gate (scriptp, convert)
-import qualified Transcript.Parse.Trek as Trek (scriptp, convert)
+import qualified Transcript.Parse.Trek as Trek (parse, convert)
 import qualified Data.Text as T
 import qualified Data.Text.IO as T
 import qualified Data.Text.Encoding as T
@@ -29,9 +29,9 @@ parseStargate raw = case parseOnly Gate.scriptp raw of
     where noScene = D.Scene D.Exterior "nowhere" S.empty V.empty
 
 parseStarTrek :: T.Text -> D.Episode
-parseStarTrek raw = case parseOnly Trek.scriptp raw of
-                      Right exprs -> Trek.convert exprs
-                      _ -> D.Episode (V.singleton noScene) T.empty []
+parseStarTrek raw = case Trek.parse raw of
+                      Just exprs -> Trek.convert exprs
+                      Nothing -> D.Episode (V.singleton noScene) T.empty []
     where noScene = D.Scene D.Exterior "nowhere" S.empty V.empty
 
 readTranscript :: (T.Text -> D.Episode) -> FilePath -> IO D.Episode
