@@ -81,46 +81,93 @@ LOCATION--Bridge
   KIRK
      All decks go to full alert.
 
-  ANNOTATION
-     Enterprise comes alongside the smaller ship, which
-     is still as big as the engineering hull. Captain's
-     log, stardate 3141.9. A full hour has elapsed
-     since interception of the strange vessel. Our
-     presence alongside is still being completely
+  SOMEONE
+     (Enterprise comes alongside the smaller ship,
+     which is still as big as the engineering hull.
+
+  SOMEONE
+     Captain's log, stardate 3141.9. A full hour has
+     elapsed since interception of the strange vessel.
+     Our presence alongside is still being completely
      ignored. Although our sensors continue to show
      signs of equipment and life aboard, there has been
-     no indication of danger to us. [Bridge] KIRK:
+     no indication of danger to us.
+
+
+LOCATION--Bridge
+
+  KIRK
      Weapons department, maintain battle stations. All
-     other decks standby alert. UHURA: All decks
-     acknowledging, sir. MCCOY: We're continuing to
-     pick up some form of heart action over there. Very
-     faint, very slow. Seems to be coming from about
-     sixty or seventy bodies, as near as I can tell.
-     KIRK: Alien bodies, Bones? MCCOY: Could be.
-     There's no sign of breathing or other form of
-     respiration. SPOCK: Hull surface is pitted with
-     meteor scars. However, scanners make out a name.
-     SS Botany Bay. KIRK: Then you can check the
-     registry. SPOCK: No such vessel listed. Records of
-     that period are fragmentary, however. The
-     mid=1990s was the era of your last so-called World
-     War. MCCOY: The Eugenics Wars. SPOCK: Of course.
-     Your attempt to improve the race through selective
-     breeding. MCCOY: Now, wait a minute. Not our
-     attempt, Mister Spock. A group of ambitious
-     scientists. I'm sure you know the type. Devoted to
-     logic, completely unemotional KIRK: All right, all
-     right, gentlemen. As you were. Rig for tractor
-     beam, Helm. Lock onto that vessel. SPINELLI:
-     Rigging for tractor beam, sir. KIRK: The Bridge is
-     yours, Mister Spock. Care to join the landing
-     party, Doctor? MCCOY: Well, if you're actually
-     giving me a choice KIRK: I'm not. Oh, I'll need
-     somebody familiar with the late 20th-Century
-     Earth. Here's a chance for that historian to do
-     something for a change. What's her name? McIvers?
-     SPOCK: Lieutenant McGivers. [McGiver's quarters]
-     (Lt McGivers is just about to settle down to some
+     other decks standby alert.
+
+  UHURA
+     All decks acknowledging, sir.
+
+  MCCOY
+     We're continuing to pick up some form of heart
+     action over there. Very faint, very slow. Seems to
+     be coming from about sixty or seventy bodies, as
+     near as I can tell.
+
+  KIRK
+     Alien bodies, Bones?
+
+  MCCOY
+     Could be. There's no sign of breathing or other
+     form of respiration.
+
+  SPOCK
+     Hull surface is pitted with meteor scars. However,
+     scanners make out a name. SS Botany Bay.
+
+  KIRK
+     Then you can check the registry.
+
+  SPOCK
+     No such vessel listed. Records of that period are
+     fragmentary, however. The mid=1990s was the era of
+     your last so-called World War.
+
+  MCCOY
+     The Eugenics Wars.
+
+  SPOCK
+     Of course. Your attempt to improve the race
+     through selective breeding.
+
+  MCCOY
+     Now, wait a minute. Not our attempt, Mister Spock.
+     A group of ambitious scientists. I'm sure you know
+     the type. Devoted to logic, completely unemotional
+
+  KIRK
+     All right, all right, gentlemen. As you were. Rig
+     for tractor beam, Helm. Lock onto that vessel.
+
+  SPINELLI
+     Rigging for tractor beam, sir.
+
+  KIRK
+     The Bridge is yours, Mister Spock. Care to join
+     the landing party, Doctor?
+
+  MCCOY
+     Well, if you're actually giving me a choice
+
+  KIRK
+     I'm not. Oh, I'll need somebody familiar with the
+     late 20th-Century Earth. Here's a chance for that
+     historian to do something for a change. What's her
+     name? McIvers?
+
+  SPOCK
+     Lieutenant McGivers.
+
+
+LOCATION--McGiver's quarters
+
+  ANNOTATION
+     Lt McGivers is just about to settle down to some
      painting, when
 
   SPOCK [OC]

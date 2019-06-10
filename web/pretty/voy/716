@@ -380,11 +380,16 @@ LOCATION--Sickbay
 
 LOCATION--Bridge
 
-  ANNOTATION
-     Junior is sitting in the Captain's chair. JUNIOR:
+  SOMEONE
+     (Junior is sitting in the Captain's chair.
+
+  JUNIOR
      Q said I should pay attention to how you humans
-     react under pressure. (There are three attacking
-     Borg Cubes on the viewscreen.
+     react under pressure.
+
+  ANNOTATION
+     There are three attacking Borg Cubes on the
+     viewscreen.
 
   JUNIOR
      Is this enough pressure?

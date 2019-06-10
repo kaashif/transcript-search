@@ -1232,16 +1232,29 @@ LOCATION--Bridge
 
 LOCATION--Countryside
 
-  ANNOTATION
-     Kirk finds Nona near a stream which is running
-     over a rock. She has been bathing. KIRK: Nona.
-     Pardon me. NONA: You are here because I wished you
-     here. KIRK: Oh? I thought it was my idea. NONA:
+  (Kirk finds Nona near a stream which is running over a rock. She has been bathing. KIRK
+     Nona. Pardon me.
+
+  NONA
+     You are here because I wished you here.
+
+  KIRK
+     Oh? I thought it was my idea.
+
+  NONA
      Yes. They always believe they come of free will.
      Tyree thought the same when I cast my first spell
-     on him. KIRK: Nona NONA: Can you smell this
-     fragrance? Some find it pleasing. (It is the same
-     planet that she used on Tyree.
+     on him.
+
+  KIRK
+     Nona
+
+  NONA
+     Can you smell this fragrance? Some find it
+     pleasing.
+
+  ANNOTATION
+     It is the same planet that she used on Tyree.
 
   KIRK
      I'd like to talk to you.
@@ -1341,10 +1354,16 @@ LOCATION--Hillside
   NONA
      Touch me again, and this small box will kill you.
 
+  SOMEONE
+     (They don't believe her, and all four men struggle
+     with her.
+
+
+LOCATION--Countryside
+
   ANNOTATION
-     They don't believe her, and all four men struggle
-     with her. [Countryside] (McCoy is about to give
-     Kirk an injection to go with the headache pills.
+     McCoy is about to give Kirk an injection to go
+     with the headache pills.
 
   KIRK
      No, no. I'm all right. My phaser. She took it.

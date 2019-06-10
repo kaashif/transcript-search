@@ -851,11 +851,16 @@ LOCATION--Mess hall
 
 LOCATION--Corridor
 
-  ANNOTATION
-     Three crew members are escorted into a cabin. ODO:
+  SOMEONE
+     (Three crew members are escorted into a cabin.
+
+  ODO
      Thank you for your cooperation. Hopefully this
      will be over soon and you'll be able to return to
-     duty. (Forcefield is in place.
+     duty.
+
+  ANNOTATION
+     Forcefield is in place.
 
   ODO
      All right, let's go.

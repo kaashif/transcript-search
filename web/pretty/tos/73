@@ -67,10 +67,10 @@ LOCATION--Bridge
   SULU
      No, sir.
 
-  SOMEONE
-     (There's a bright thing in the middle of the
+  ANNOTATION
+     There's a bright thing in the middle of the
      viewscreen.) An engineer touches Scott's arm to
-     attract his attention.)
+     attract his attention.
 
   SCOTT
      Excuse me.
@@ -1010,18 +1010,48 @@ LOCATION--Engineering
   MIRA
      No, Scotty. No! No.
 
-  ANNOTATION
-     Scott holds her close. [Bridge] KIRK: Lock in
-     phaser tracking controls. Locked in, sir. KIRK:
+  SOMEONE
+     (Scott holds her close.
+
+
+LOCATION--Bridge
+
+  KIRK
+     Lock in phaser tracking controls.
+
+  SOMEONE
+     Locked in, sir.
+
+  KIRK
      Adjust phasers to fire across its course. Do not
-     hit it. SULU: Locked in, sir. KIRK: Fire.
-     Reaction, Mister Sulu? SULU: None, sir. They're
-     still approaching us. KIRK: Apparently a shot
-     across the bow is insufficiently convincing.
-     Prepare to lock phasers into the heart of the
-     community. SULU: Locked in, sir. KIRK: Fire.
-     [Engineering] (Mira falls to the floor, clutching
-     her stomach in pain
+     hit it.
+
+  SULU
+     Locked in, sir.
+
+  KIRK
+     Fire. Reaction, Mister Sulu?
+
+  SULU
+     None, sir. They're still approaching us.
+
+  KIRK
+     Apparently a shot across the bow is insufficiently
+     convincing. Prepare to lock phasers into the heart
+     of the community.
+
+  SULU
+     Locked in, sir.
+
+  KIRK
+     Fire.
+
+
+LOCATION--Engineering
+
+  ANNOTATION
+     Mira falls to the floor, clutching her stomach in
+     pain
 
   MIRA
      Scotty!

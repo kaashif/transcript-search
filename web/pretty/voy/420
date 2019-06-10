@@ -1345,5 +1345,471 @@ LOCATION--Pseudo Bridge
   pJANEWAY
      Go ahead.
 
+  pTUVOK [OC]
+     The Kyrians have killed
+
+
+LOCATION--Pseudo Engineering
+
+  pTUVOK
+     Three of the engineering crew. They've taken Seven
+     of Nine and one of the injured crew members
+     hostage.
+
+
+LOCATION--Pseudo Bridge
+
+  pTUVOK [OC]
+     They're now on deck two, section thirty two.
+
+  pJANEWAY
+     Acknowledged. Remember your offer to make me a
+     diplomat? Well, it looks like I don't have much of
+     a choice. Tell the doctor we have casualties. Have
+     him meet us on deck two.
+
+
+LOCATION--Pseudo Corridor
+
+  pJANEWAY
+     Janeway to Tuvok. We're approaching section thirty
+     one.
+
+  pTUVOK [OC]
+     The evacuation of deck two is complete.
+
+  pJANEWAY
+     Send three security teams to this deck, then seal
+     all the access points.
+
+  pTUVOK [OC]
+     Acknowledged.
+
+  DALETH
+     How typical of the Kyrians.
+
+  pEMH
+     What do you mean?
+
+  DALETH
+     They fight the same way they live. Deviously.
+
+  ANNOTATION
+     Daleth has a weapon. They see Tedran and Seven at
+     the end of the corridor.
+
+  pJANEWAY
+     Janeway to Tuvok.
+
+  pTUVOK [OC]
+     Tuvok here.
+
+  pJANEWAY
+     The Kyrians are in the mess hall. We're going in.
+
+  pTUVOK [OC]
+     Security is on the way.
+
+  pEMH
+     I'll go first, Captain, and draw any fire if need
+     be.
+
+  DALETH
+     Your crew is heroic, Captain.
+
+  pEMH
+     I just happen to be invulnerable to phaser fire,
+     but I appreciate the compliment. Captain?
+
+  pJANEWAY
+     Go.
+
+
+LOCATION--Pseudo Mess hall
+
+  DALETH
+     Tedran, this is between us. Leave these people out
+     of it.
+
+  TEDRAN
+     I know what you're doing. An alliance with these
+     aliens.
+
+  pJANEWAY
+     We were trading with them, nothing more.
+
+  TEDRAN
+     You expect me to believe that? You plan to use
+     this ship to destroy us.
+
+  DALETH
+     We wouldn't need help if we wanted to destroy you.
+
+  pJANEWAY
+     We didn't realise you were fighting with the
+     Vaskans. Now, lay down your weapons and I promise
+     you won't be harmed.
+
+  ANNOTATION
+     Tedran turns as security enter through the other
+     door. Seven uses the distraction to disarm Tedran.
+     Daleth fires his weapon.
+
+  pJANEWAY
+     No!
+
+  pEMH
+     He's dead.
+
+  ANNOTATION
+     The Arbiters are also present.
+
+  EMH
+     Computer, freeze programme. A tragic, needless
+     death, but as you can see, Voyager was not
+     responsible. After Tedran was killed, Voyager was
+     attacked by nine Kyrian ships. My programme was
+     disabled, most likely when they stole my backup
+     module. The next thing I knew, I was standing next
+     to this gentleman seven centuries later.
+
+  KYRIAN ARBITER
+     Very entertaining.
+
+  EMH
+     I'll admit your holotechnology is new to me. I had
+     to extrapolate in a few places. But I assure you
+     this is an accurate recreation.
+
+  KYRIAN ARBITER
+     Perhaps. Or perhaps it's the fabrication of a war
+     criminal who's afraid for his life.
+
+  VASKAN ARBITER
+     Do you have any evidence to support your
+     explanation?
+
+  EMH
+     In fact, I do. I've confirmed that this is the
+     same tricorder I used to scan Tedran at the moment
+     of his death. If I can access the bio-readings
+     inside, I can prove he was killed by a Vaskan
+     weapon, not by Captain Janeway.
+
+  VASKAN ARBITER
+     Can this be done?
+
+  QUARREN
+     I've been trying to decipher the instrument for
+     years, but, with the Doctor's help
+
+  KYRIAN ARBITER
+     I fail to see what this would prove. Tedran died
+     on Voyager, a victim of a conspiracy to oppress my
+     people. The weapon used, who fired it, this is all
+     beside the point.
+
+  VASKAN ARBITER
+     Was there a conspiracy? Did Voyager really help my
+     ancestors to start the Great War? Or were Kyrians
+     the aggressors as my people have always believed?
+     Now, this casts doubt on everything.
+
+  KYRIAN ARBITER
+     But it doesn't change the fact my children can't
+     attend the same academies as yours, or that we are
+     forced to live outside of the city centre.
+
+  VASKAN ARBITER
+     Today's problems are not at issue here. This is
+     about history.
+
+  EMH
+     Look, I don't know who started your war. All I'm
+     saying is that Voyager wasn't responsible.
+
+  KYRIAN ARBITER
+     I can't believe that you would cooperate with this
+     murderer. You of all people. You built this
+     museum.
+
+  QUARREN
+     The facts are turning out to be more complex than
+     I expected.
+
+  KYRIAN ARBITER
+     We shouldn't be listening to this hologram. I want
+     him arrested and charged for the crimes we know he
+     committed.
+
+  VASKAN ARBITER
+     That's not your decision to make.
+
+  KYRIAN ARBITER
+     No, it's not, is it? I'm only on this commission
+     because you needed a token Kyrian.
+
+  QUARREN
+     Please. This isn't about race.
+
+  KYRIAN ARBITER
+     It's always about race. You seize every
+     opportunity to keep yourselves in power.
+
+  VASKAN ARBITER
+     I'm sorry you see it that way. I think we are
+     obligated to hear what the Doctor has to say.
+     Proceed with your investigation.
+
+  QUARREN
+     Yes, Arbiter.
+
+  KYRIAN ARBITER
+     You'll pay for your crimes.
+
+
+LOCATION--Pseudo Sickbay
+
+  EMH
+     Seven hundred years and I'm still caught in the
+     middle of your little dispute. One might have
+     hoped for a bit of social progress in the interim.
+
+  QUARREN
+     Change never comes easily for us.
+
+  EMH
+     Hmm. That's an understatement.
+
+  QUARREN
+     I've entered the specifications that you gave me.
+
+  EMH
+     Let's give it a try. (A tool materialises.) Hmm.
+     Close enough. This diagnostic tool should help me
+     get past the initial encryption sequences. Too bad
+     we can't re-create B'Elanna Torres.
+
+  QUARREN
+     Torres. The chief transporter operator.
+
+  EMH
+     Chief Engineer. You might want to make the
+     correction in your history books.
+
+  QUARREN
+     What was she like, Torres? I suppose we've gotten
+     her personality wrong too.
+
+  EMH
+     Starting to believe me, are you?
+
+  QUARREN
+     Well, let's just say I'm trying to keep an open
+     mind.
+
+  EMH
+     B'Elanna Torres. Intelligent, beautiful and with a
+     chip on her shoulder the size of the Horsehead
+     Nebula. She also had a kind of vulnerability that
+     made her quite endearing.
+
+  QUARREN
+     You miss her, and the others.
+
+  EMH
+     From my perspective, I saw them all only a few
+     days ago. But in fact, it's been centuries, and
+     I'll never see them again. Did they ever reach
+     home? I wonder.
+
+  QUARREN
+     I've always wondered that too, from as far back as
+     I can remember.
+
+  EMH
+     Really?
+
+  QUARREN
+     Ever since I was a small child, the first time I
+     heard the name Voyager, it conjured up my
+     imagination.
+
+  EMH
+     Even though we were the bad guys?
+
+  QUARREN
+     That didn't matter. I was too young to understand
+     the implications. The fact you were so far from
+     home, travelling across the stars. Ah, I found it
+     all very heroic. I suppose Voyager is what made me
+     fall in love with history.
+
+  EMH
+     If it means anything to you, you would have made a
+     fine member of our crew.
+
+  ANNOTATION
+     Boom! The building shakes.
+
+  EMH
+     I hope that's part of the simulation.
+
+  QUARREN
+     No, it isn't.
+
+  ANNOTATION
+     The sound of breaking glass, and loud voices.
+
+
+LOCATION--Museum
+
+  ANNOTATION
+     A group of young Vaskans are trashing the museum.
+
+  MOB
+     Everything goes! The days of lies are over!
+     Destroy it all!
+
+  QUARREN
+     No! Stop this!
+
+  VASKAN VISITOR
+     We know about the hologram. This museum's filled
+     with lies.
+
+  QUARREN
+     Stop! Listen to me!
+
+  VASKAN VISITOR
+     We've listened long enough!
+
+  QUARREN
+     They're using photon grenades. We've got to take
+     cover. This way.
+
+  ANNOTATION
+     The tricorder gets left behind on a step as they
+     take shelter by a large buttress. In the cold
+     light of day, the mob has gone, but there is still
+     weapons fire outside.
+
+  EMH
+     What's happening? I've been hearing weapons.
+
+  QUARREN
+     It's getting worse. Protests, vandalism. Two
+     people have been killed. Don't worry, they've
+     cordoned off the museum. We're safe for now.
+
+  EMH
+     That's not what I'm concerned about. Two deaths, a
+     race riot, all because of me?
+
+  QUARREN
+     You were only the catalyst. The pressure's been
+     building for years. It was only a matter of time
+     before something set it off. Have you found the
+     tricorder?
+
+  EMH
+     Not yet.
+
+  QUARREN
+     It's crucial that we do. The Kyrians are demanding
+     you be punished for your crimes, but the Vaskans
+     want to hear your version of events again. They
+     want to continue the investigation.
+
+  EMH
+     What's going to happen?
+
+  QUARREN
+     I don't know. The Vaskans are more powerful, but
+     the Kyrians are very angry. They're talking about
+     another war.
+
+  EMH
+     Then there's only one solution. Delete my
+     programme. I've become a kind of symbol for this
+     conflict. As long as I'm around your people are
+     going to keep on fighting. I'll show you how to
+     decompile my programme. You can say I was damaged
+     in the attack last night. No one will hold you
+     responsible.
+
+  QUARREN
+     I can't do that to you.
+
+  EMH
+     Then I'll do it myself.
+
+  QUARREN
+     No!
+
+  EMH
+     I'm a medical hologram, programmed to do no harm.
+     But I'm doing harm on a global scale. Ever since
+     you reactivated me, I've been concerned with
+     clearing Voyager's good name. But that's not
+     important now. There's more at stake.
+
+  QUARREN
+     A few days ago I might have agreed with you, but
+     what about the facts?
+
+  EMH
+     Facts be damned! Names, dates, places, it's all
+     open to interpretation. Who's to say what really
+     happened? And ultimately, what difference does it
+     make? What matters is today and the future of your
+     people.
+
+  QUARREN
+     Doctor, you were there. You can't deny what
+     happened.
+
+  EMH
+     I can, and I will. Tedran was a martyr for your
+     people, a hero. A symbol of your struggle for
+     freedom. Who am I to wander in seven hundred years
+     later and take that away from you?
+
+  QUARREN
+     History has been abused. We keep blaming each
+     other for what happened in the past. If you don't
+     help us now, it could be another seven hundred
+     years.
+
+  EMH
+     Let's find that tricorder.
+
+  ANNOTATION
+     The camera swings round to reveal that all this
+     too was a simulation.
+
+
+LOCATION--Future Museum
+
+  TABRIS
+     It was a pivotal moment in our history. As a
+     result of the Doctor's testimony, a dialogue was
+     opened between our peoples. Eventually, we found a
+     new respect for our divergent cultures and
+     traditions. The efforts of people like Quarren and
+     the Doctor paved the way for unity. Quarren died
+     six years later, but he lived long enough to
+     witness the Dawn of Harmony.
+
+  KYRIAN SPECTATOR
+     And the Doctor?
+
+  TABRIS
+     Well, he served as our surgical chancellor for
+     many years until he decided to leave. He took a
+     small craft and set a course for the Alpha
+     Quadrant, attempting to trace the path of Voyager.
+     He said he had a longing for home. This way.
+
 
 END CREDITS

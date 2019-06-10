@@ -1523,5 +1523,408 @@ LOCATION--Catwalk command area
      Tucker is standing watching through a grid,
      looking impassive.
 
+  PHLOX [OC]
+     Two blue.
+
+
+LOCATION--Atmosphere control
+
+  PHLOX
+     Two silver.
+
+
+LOCATION--Catwalk command area
+
+  ARCHER
+     Open them. The silver ones first.
+
+
+LOCATION--Atmosphere control
+
+  PHLOX
+     Done.
+
+  ARCHER
+     Now pull the panel off.
+
+  PHLOX
+     What should I do with it?
+
+
+LOCATION--Catwalk command area
+
+  ARCHER
+     Whatever you want.
+
+
+LOCATION--Atmosphere control
+
+  ARCHER [OC]
+     Lay it down on the floor.
+
+  PHLOX
+     Very well.
+
+  ANNOTATION
+     He pulls it off to reveal a right angled pipe and
+     a load of lights.
+
+  PHLOX
+     Right where you said it was, Captain.
+
+
+LOCATION--Catwalk command area
+
+  ARCHER
+     Find the control panel.
+
+
+LOCATION--Atmosphere control
+
+  PHLOX
+     It's right here. It has six green lights.
+
+
+LOCATION--Catwalk command area
+
+  ARCHER
+     Each of them should have a switch next to it.
+
+  PHLOX [OC]
+     About five centimetres to the left.
+
+  ARCHER
+     Now, before we can release the gas into central
+     ventilation, you're going to have to reroute the
+     transfer lines to the carbon dioxide tanks.
+
+  ANNOTATION
+     Tucker leaves quietly.
+
+
+LOCATION--Atmosphere control
+
+  PHLOX
+     And how do I go about doing that?
+
+
+LOCATION--Catwalk command area
+
+  T'POL
+     Those six switches control the feed. You're going
+     to have to recalibrate them in sequence for CO2.
+
+
+LOCATION--Atmosphere control
+
+  T'POL [OC]
+     I'll guide you through it.
+
+  TRAVIS
+     Commander, I've been looking all over for you! Are
+     you all right, sir?
+
+  ANNOTATION
+     Tucker is working busily at a wall control panel,
+     then abruptly gets onto the catwalk and walks
+     briskly away.
+
+  TUCKER
+     I'm fine.
+
+  TRAVIS
+     The Captain asked me to find you. He needs you in
+     the Command Compartment. Commander!
+
+  ANNOTATION
+     Tucker breaks into a run, knocking crewmen aside
+     then goes to open the hatch.
+
+  TRAVIS
+     You can't go out there, sir. It's not safe!
+
+  ANNOTATION
+     He gets pushed away.
+
+  TRAVIS
+     What are you doing?
+
+  ANNOTATION
+     Travis gets hit, hard, then Tucker goes down the
+     ladder to the main body of the ship.
+
+
+LOCATION--Corridor
+
+  PHLOX
+     I've reached the access tube, Captain.
+
+  ARCHER [OC]
+     Good. Now pull off the panel.
+
+  PHLOX
+     (heaves at the bar) It's not coming off.
+
+
+LOCATION--Catwalk command area
+
+  ARCHER
+     It'll come off. You just need to use a little
+     muscle.
+
+
+LOCATION--Corridor
+
+  PHLOX
+     I've used every muscle I've got. it won't budge.
+
+
+LOCATION--Catwalk command area
+
+  ARCHER
+     Try using your foot
+
+
+LOCATION--Corridor
+
+  ARCHER [OC]
+     For leverage.
+
+  ANNOTATION
+     It comes away so suddenly he falls against the
+     bulkhead opposite
+
+  PHLOX
+     Good suggestion.
+
+  ARCHER [OC]
+     Okay.
+
+
+LOCATION--Catwalk command area
+
+  ARCHER
+     Now, the next part's a piece of cake.
+
+  TRAVIS
+     We've got a problem, Captain.
+
+  ARCHER
+     Stand by, Doc. What happened?
+
+  TRAVIS
+     Commander Tucker. He just went out the forward
+     hatch.
+
+  ARCHER
+     What?
+
+  TRAVIS
+     I tried to stop him, sir. He didn't look like
+     himself. I think one of those things got inside
+     him.
+
+  T'POL
+     If he knows what we're doing.
+
+  ARCHER
+     We're going to have to speed things up, Doc.
+     Trip's been taken. He left the catwalk a few
+     minutes ago.
+
+
+LOCATION--Corridor
+
+  ARCHER [OC]
+     If he tries to let his buddies out of their
+     quarters we don't have any guards down there to
+     stop him.
+
+  PHLOX
+     Tell me what to do.
+
+
+LOCATION--Catwalk command area
+
+  ARCHER
+     You'll have to purge the osmotic filters.
+
+
+LOCATION--Corridor
+
+  ARCHER [OC]
+     The valves are right behind the control circuit.
+     You're going to have to get two fingers through
+     the upper holes in the support plate.
+
+
+LOCATION--Catwalk command area
+
+  ARCHER
+     Normally, that wouldn't be a problem, but wearing
+     those gloves
+
+
+LOCATION--Corridor
+
+  ARCHER [OC]
+     Could make it difficult.
+
+  PHLOX
+     Back home, I'm known for my fine motor skills. I
+     doubt a pair of EV gloves
+
+
+LOCATION--Catwalk command area
+
+  PHLOX [OC]
+     Will deter me.
+
+  T'POL
+     There are two solenoids behind the openings. When
+     you tap them simultaneously, the plate should
+     retract.
+
+
+LOCATION--Corridor
+
+  PHLOX
+     Did you say there were two?
+
+
+LOCATION--Catwalk command area
+
+  ANNOTATION
+     Archer checks the schematic on the monitor/.
+
+  ARCHER
+     About three centimetres apart.
+
+
+LOCATION--Corridor
+
+  PHLOX
+     Got it.
+
+  ARCHER [OC]
+     You should be looking at two rotary valves and a
+     lever.
+
+  PHLOX
+     I see them.
+
+  ARCHER [OC]
+     Open both valves all the way, then turn the lever
+     to the three o'clock position. That should do it.
+
+  ANNOTATION
+     Phlox seals his helmet shut.
+
+  T'POL
+     T'POL: The nine o'clock position will vent the gas
+     when we're finished.
+
+  ANNOTATION
+     As Phlox reaches for the lever, Tucker grabs his
+     arm, throws him away and starts closing the valves
+     instead. Hitting him with the metal cover doesn't
+     stop him, but a headbutt from a space helmet does.
+     The CO2 is released while the possessed engineer
+     tries to move the lever back, and he passes out.
+
+  PHLOX
+     Phlox to Captain Archer.
+
+  ARCHER [OC]
+     Go ahead.
+
+  PHLOX
+     Mission accomplished.
+
+
+LOCATION--Catwalk command area
+
+  PHLOX [OC]
+     I'm monitoring Commander Tucker.
+
+  ARCHER
+     Good job.
+
+  ANNOTATION
+     Throughout the ship, possessed crew pass out,
+     yellow wisps return home and blue ones leave.
+
+
+LOCATION--Corridor
+
+  PHLOX
+     It's left Commander Tucker.
+
+  ARCHER [OC]
+     Vent the gas.
+
+  PHLOX
+     In a moment, Captain. I need to be certain the CO2
+     levels are consistent throughout the ship, that
+     all the lifeforms are gone.
+
+
+LOCATION--Catwalk command area
+
+  ARCHER
+     Ready, Travis?
+
+  TRAVIS
+     (at the helm) Yes, sir.
+
+
+LOCATION--Corridor
+
+  PHLOX
+     It's done.
+
+
+LOCATION--Catwalk command area
+
+  ARCHER
+     Full impulse.
+
+  T'POL
+     They're in pursuit.
+
+  ANNOTATION
+     The big ship opens it's maw again.
+
+  T'POL
+     Stand by. Now.
+
+  ANNOTATION
+     Archer fires two torpedoes at it. They detonate
+     within the cavernous body and the ship falls to
+     pieces.
+
+
+LOCATION--Corridor
+
+  TUCKER
+     What's going on, Doc?
+
+  PHLOX
+     Just breathe deeply. You'll be fine.
+
+  TUCKER
+     I was just at a barbecue.
+
+  PHLOX
+     In through the nose, out through the mouth.
+
+  TUCKER
+     I've never seen so many ribs. (Phlox helps him to
+     his feet.)
+
+  PHLOX
+     Follow me, Commander. We have a lot of doors to
+     unlock.
+
 
 END CREDITS

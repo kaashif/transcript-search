@@ -814,8 +814,32 @@ LOCATION--Prison transport Bridge
 
 LOCATION--Prison transport
 
+  SOMEONE
+     [The Nausicaan puts Tucker back in shackles.)
 
-LOCATION--The Nausicaan puts Tucker back in shackles.) TUCKER: Is this really necessary? I just saved your skin and you still don't trust me. Do you know how much power flows through those plasma conduits? ZOUMAS: How much? TUCKER: A lot. I could have been electrocuted. The least you could do is say thanks. NAUSICAAN: Thanks. ZOUMAS: That was nice. It reminds me of the time I was on TUCKER: Shut up! [Situation room
+  TUCKER
+     Is this really necessary? I just saved your skin
+     and you still don't trust me. Do you know how much
+     power flows through those plasma conduits?
+
+  ZOUMAS
+     How much?
+
+  TUCKER
+     A lot. I could have been electrocuted. The least
+     you could do is say thanks.
+
+  NAUSICAAN
+     Thanks.
+
+  ZOUMAS
+     That was nice. It reminds me of the time I was on
+
+  TUCKER
+     Shut up!
+
+
+LOCATION--Situation room
 
   ENOLIAN
      Both our ships were disabled before the transport
