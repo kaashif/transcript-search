@@ -7,9 +7,8 @@ import Transcript.Format ()
 import System.IO
 import System.Environment
 import TextShow
-import Transcript.JSON
 import Transcript.PostgreSQL
-import qualified Data.ByteString as BS
+import Transcript.Format (showh)
 
 main :: IO ()
 main = do
@@ -20,17 +19,14 @@ main = do
         "postgresql" -> do
           eps <- readAllTranscripts
           T.putStr $ toPostgreSQL eps
-        "elasticsearch" -> do
-          eps <- readAllTranscripts
-          BS.putStr $ toJSON eps
         "single_gate" -> do
            raw <- T.hGetContents stdin
            let ep = parseStargate raw
            T.putStrLn $ D.title ep
-           T.putStr $ showt ep
+           T.putStr $ showh ep
         "single_trek" -> do
            raw <- T.hGetContents stdin
            let ep = parseStarTrek raw
            T.putStrLn $ D.title ep
-           T.putStr $ showt ep
+           T.putStr $ showh ep
         s -> putStrLn $ "Bad argument: " ++ s
