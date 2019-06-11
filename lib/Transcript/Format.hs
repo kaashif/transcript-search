@@ -51,28 +51,37 @@ wordChunk col t = foldl' newOrAdd [] $ T.words t
 class HtmlShow a where
     showh :: a -> T.Text
 
+tr :: T.Text -> T.Text -> T.Text -> T.Text
+tr d1 d2 c = T.concat [if T.null c then "<tr>" else T.concat ["<tr class=\"",c,"\">"]
+                      ,"<td>",d1,"</td>"
+                      ,"<td>",d2,"</td>"
+                      ,"</tr>\n"]
+
+lineno :: T.Text -> T.Text -> T.Text
+lineno no line = T.concat ["<tr id=\"L",no,"\">"
+                          ,"<td><a href=\"#L",no,"\">",no,"</a></td>"
+                          ,"<td>",line,"</td>"
+                          ,"</tr>\n"]
+
 instance HtmlShow D.Episode where
-    showh e = T.concat [ "TEASER\n"
-                       , showh (D.scenes e)
-                       , "\nEND CREDITS"]
+    showh e = T.concat [ "<table class=\"table table-striped\">\n"
+                       , tr "" (D.title e) ""
+                       , tr "" "TEASER" ""
+                       , showh $ V.zip (V.init $ V.scanl (+) 1 $ V.map countlines scenes) scenes
+                       , tr "" "END CREDITS" ""
+                       , "</table>\n"
+                       ]
+        where scenes = V.filter (\s -> (D.place s) /= "nowhere") $ D.scenes e
+              countlines = V.length . D.speech
 
-instance HtmlShow (V.Vector D.Scene) where
-    showh ss = V.foldl' showSceneConcat mempty ss
-        where showSceneConcat soFar scene = if D.place scene == "nowhere"
-                                            then soFar
-                                            else soFar <> (showh scene)
+instance HtmlShow (V.Vector (Int, D.Scene)) where
+    showh ss = T.concat $ V.toList $ V.map showh ss
 
-instance HtmlShow D.Scene where
-    showh scene = T.concat [ "\nLOCATION--"
-                           , D.place scene
-                           , "\n\n"
-                           , T.unlines (V.toList $ V.map showh $ D.speech scene)]
+instance HtmlShow (Int, D.Scene) where
+    showh (one, scene) = T.concat [ tr "" (T.concat ["LOCATION--", D.place scene]) ""
+                                  , T.unlines (V.toList $ V.map showh lineSpeech)]
+        where lineSpeech = V.zip (V.fromList [one..one+(V.length sp)]) sp
+              sp = D.speech scene
 
-instance HtmlShow D.SpeechLine where
-    showh (D.SpeechLine (c,l)) = T.concat [ "<code id=\"Lxx\">xx\n"
-                                          , "  "
-                                          , c
-                                          , "\n"
-                                          , indent 5 50 l
-                                          , "\n"
-                                          , "</code>\n"]
+instance HtmlShow (Int, D.SpeechLine) where
+    showh (n, D.SpeechLine(c,l)) = lineno (showt n) (T.concat [c, ": ", l])

@@ -22,11 +22,9 @@ main = do
         "single_gate" -> do
            raw <- T.hGetContents stdin
            let ep = parseStargate raw
-           T.putStrLn $ D.title ep
            T.putStr $ showh ep
         "single_trek" -> do
            raw <- T.hGetContents stdin
            let ep = parseStarTrek raw
-           T.putStrLn $ D.title ep
            T.putStr $ showh ep
         s -> putStrLn $ "Bad argument: " ++ s

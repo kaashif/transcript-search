@@ -34,3 +34,6 @@ data Episode = Episode {
       title :: T.Text,
       exprs :: [ScriptExpr]
     } deriving (Show, Generic)
+
+emptyScene :: Scene
+emptyScene = Scene Exterior (T.pack "nowhere") S.empty V.empty
