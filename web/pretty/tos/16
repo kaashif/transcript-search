@@ -1,1456 +1,698 @@
-The Menagerie, part 1
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Menagerie, part 1</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Starbase 11, outside</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>PIPER:  Welcome to Starbase Eleven, Captain. The Commodore's waiting to see you. He's curious why you suddenly changed course and came here.</td></tr>
 
-LOCATION--Starbase 11, outside
+<tr id="L2"><td><a href="#L2">2</a></td><td>KIRK:  We received a subspace message asking us to divert here immediately.</td></tr>
 
-  PIPER
-     Welcome to Starbase Eleven, Captain. The
-     Commodore's waiting to see you. He's curious why
-     you suddenly changed course and came here.
+<tr id="L3"><td><a href="#L3">3</a></td><td>PIPER:  This base sent no message, Captain.</td></tr>
 
-  KIRK
-     We received a subspace message asking us to divert
-     here immediately.
+<tr><td></td><td>LOCATION--Mendez' office</td></tr>
+<tr id="L4"><td><a href="#L4">4</a></td><td>MENDEZ:  Oh, Jim, I just can't understand this.</td></tr>
 
-  PIPER
-     This base sent no message, Captain.
+<tr id="L5"><td><a href="#L5">5</a></td><td>KIRK:  Mister Spock received a starbase transmission, a message from the former commander of the Enterprise, Fleet Captain Pike, urgently requesting that we divert here.</td></tr>
 
+<tr id="L6"><td><a href="#L6">6</a></td><td>MENDEZ:  Impossible.</td></tr>
 
-LOCATION--Mendez' office
+<tr id="L7"><td><a href="#L7">7</a></td><td>KIRK:  If my first officer states he received a transmission from</td></tr>
 
-  MENDEZ
-     Oh, Jim, I just can't understand this.
+<tr id="L8"><td><a href="#L8">8</a></td><td>MENDEZ:  Jim, I'm not doubting anyone's word. I'm simply telling you it's impossible.</td></tr>
 
-  KIRK
-     Mister Spock received a starbase transmission, a
-     message from the former commander of the
-     Enterprise, Fleet Captain Pike, urgently
-     requesting that we divert here.
+<tr id="L9"><td><a href="#L9">9</a></td><td>KIRK:  Why?</td></tr>
 
-  MENDEZ
-     Impossible.
+<tr id="L10"><td><a href="#L10">10</a></td><td>MENDEZ:  You don't know? You actually don't know what's happened to Captain Pike? There's been subspace chatter about it for months. I'm sorry to have to be the one to show you. He's upstairs in the medical section.</td></tr>
 
-  KIRK
-     If my first officer states he received a
-     transmission from
+<tr><td></td><td>LOCATION--Intensive Care Area</td></tr>
+<tr id="L11"><td><a href="#L11">11</a></td><td>MENDEZ:  You ever met Chris Pike?</td></tr>
 
-  MENDEZ
-     Jim, I'm not doubting anyone's word. I'm simply
-     telling you it's impossible.
+<tr id="L12"><td><a href="#L12">12</a></td><td>KIRK:  When he was promoted to Fleet Captain.</td></tr>
 
-  KIRK
-     Why?
+<tr id="L13"><td><a href="#L13">13</a></td><td>MENDEZ:  About your age. Big, handsome man, vital, active.</td></tr>
 
-  MENDEZ
-     You don't know? You actually don't know what's
-     happened to Captain Pike? There's been subspace
-     chatter about it for months. I'm sorry to have to
-     be the one to show you. He's upstairs in the
-     medical section.
+<tr id="L14"><td><a href="#L14">14</a></td><td>KIRK:  I took over the Enterprise from him. Spock served with him for several years.</td></tr>
 
+<tr id="L15"><td><a href="#L15">15</a></td><td>SPOCK:  Eleven years, four months, five days.</td></tr>
 
-LOCATION--Intensive Care Area
+<tr id="L16"><td><a href="#L16">16</a></td><td>MCCOY:  What's his problem, Commodore?</td></tr>
 
-  MENDEZ
-     You ever met Chris Pike?
+<tr id="L17"><td><a href="#L17">17</a></td><td>MENDEZ:  Inspection tour of a cadet vessel. Old Class J starship. One of the baffle plates ruptured.</td></tr>
 
-  KIRK
-     When he was promoted to Fleet Captain.
+<tr id="L18"><td><a href="#L18">18</a></td><td>MCCOY:  The delta rays?</td></tr>
 
-  MENDEZ
-     About your age. Big, handsome man, vital, active.
+<tr id="L19"><td><a href="#L19">19</a></td><td>MENDEZ:  He went in bringing out all those kids that were still alive. Just wanted you gentlemen to be prepared.</td></tr>
 
-  KIRK
-     I took over the Enterprise from him. Spock served
-     with him for several years.
+<tr><td></td><td>LOCATION--Pike's room</td></tr>
+<tr id="L20"><td><a href="#L20">20</a></td><td>MENDEZ:  Captain Pike. (a scarred head and shoulders sticking out of wheelchair device) Captain, you remember these gentlemen. They wanted to visit you. Two flashes mean no. I thought you might make an exception for them. (flash, flash) I'm sorry, gentlemen.</td></tr>
 
-  SPOCK
-     Eleven years, four months, five days.
+<tr id="L21"><td><a href="#L21">21</a></td><td>KIRK:  Chris, if there's anything I can do for you. (flash, flash)</td></tr>
 
-  MCCOY
-     What's his problem, Commodore?
+<tr id="L22"><td><a href="#L22">22</a></td><td>SPOCK:  Captain Pike, may I remain for a moment? (flash, the others leave) You know why I've come, Captain. It's only six days away at maximum warp and I have it well-planned. (flash, flash) I have never disobeyed your orders before, Captain, but this time I must. (flash, flash) I know. I know it is treachery and it's mutiny. but I must do this. (flash, flash) I have no choice. (flash, flash)</td></tr>
 
-  MENDEZ
-     Inspection tour of a cadet vessel. Old Class J
-     starship. One of the baffle plates ruptured.
+<tr><td></td><td>LOCATION--Mendez' office</td></tr>
+<tr id="L23"><td><a href="#L23">23</a></td><td>KIRK:  Once more, Jose. Spock stated he received a message for us to come here. He entered same in his log. That's all the proof I require.</td></tr>
 
-  MCCOY
-     The delta rays?
+<tr id="L24"><td><a href="#L24">24</a></td><td>MENDEZ:  And what do those record tapes show? No message sent from here. No message received by your vessel.</td></tr>
 
-  MENDEZ
-     He went in bringing out all those kids that were
-     still alive. Just wanted you gentlemen to be
-     prepared.
+<tr id="L25"><td><a href="#L25">25</a></td><td>KIRK:  Then I suggest the record tapes have been deliberately changed. A computer expert can change record tapes, duplicate voices, say anything, say nothing.</td></tr>
 
+<tr id="L26"><td><a href="#L26">26</a></td><td>MENDEZ:  The fact remains that your first officer's former captain is hospitalised, horribly injured, at this base, and that same first officer seems to be the only one who heard that message.</td></tr>
 
-LOCATION--Pike's room
+<tr id="L27"><td><a href="#L27">27</a></td><td>KIRK:  If he had wanted to see Captain Pike he could have requested a leave. I would have granted it.</td></tr>
 
-  MENDEZ
-     Captain Pike. (a scarred head and shoulders
-     sticking out of wheelchair device) Captain, you
-     remember these gentlemen. They wanted to visit
-     you. Two flashes mean no. I thought you might make
-     an exception for them. (flash, flash) I'm sorry,
-     gentlemen.
+<tr id="L28"><td><a href="#L28">28</a></td><td>MENDEZ:  Well, that's true of course.</td></tr>
 
-  KIRK
-     Chris, if there's anything I can do for you.
-     (flash, flash)
+<tr id="L29"><td><a href="#L29">29</a></td><td>KIRK:  Who would want to divert us here? There's no trouble in the space sector we're patrolling now. No alien problems.</td></tr>
 
-  SPOCK
-     Captain Pike, may I remain for a moment? (flash,
-     the others leave) You know why I've come, Captain.
-     It's only six days away at maximum warp and I have
-     it well-planned. (flash, flash) I have never
-     disobeyed your orders before, Captain, but this
-     time I must. (flash, flash) I know. I know it is
-     treachery and it's mutiny. but I must do this.
-     (flash, flash) I have no choice. (flash, flash)
+<tr id="L30"><td><a href="#L30">30</a></td><td>MENDEZ:  Computer Centre.</td></tr>
 
+<tr><td></td><td>LOCATION--Starbase Computer Centre</td></tr>
+<tr id="L31"><td><a href="#L31">31</a></td><td>HUMBOLDT:  Chief Humboldt here, sir.</td></tr>
 
-LOCATION--Mendez' office
+<tr id="L32"><td><a href="#L32">32</a></td><td>MENDEZ [OC]:  Have you rechecked all the record tapes on the date in question?</td></tr>
 
-  KIRK
-     Once more, Jose. Spock stated he received a
-     message for us to come here. He entered same in
-     his log. That's all the proof I require.
+<tr id="L33"><td><a href="#L33">33</a></td><td>HUMBOLDT:  Yes, sir.</td></tr>
 
-  MENDEZ
-     And what do those record tapes show? No message
-     sent from here. No message received by your
-     vessel.
-
-  KIRK
-     Then I suggest the record tapes have been
-     deliberately changed. A computer expert can change
-     record tapes, duplicate voices, say anything, say
-     nothing.
+<tr id="L34"><td><a href="#L34">34</a></td><td>MENDEZ [OC]:  Is there any way at all a message could have been sent from here without us knowing it?</td></tr>
 
-  MENDEZ
-     The fact remains that your first officer's former
-     captain is hospitalised, horribly injured, at this
-     base, and that same first officer seems to be the
-     only one who heard that message.
-
-  KIRK
-     If he had wanted to see Captain Pike he could have
-     requested a leave. I would have granted it.
-
-  MENDEZ
-     Well, that's true of course.
+<tr id="L35"><td><a href="#L35">35</a></td><td>HUMBOLDT:  Negative, Commodore. We've checked and double-checked everything possible.</td></tr>
 
-  KIRK
-     Who would want to divert us here? There's no
-     trouble in the space sector we're patrolling now.
-     No alien problems.
-
-  MENDEZ
-     Computer Centre.
+<tr id="L36"><td><a href="#L36">36</a></td><td>MENDEZ [OC]:  All right. Start checking the impossible. Mendez out.</td></tr>
 
+<tr id="L37"><td><a href="#L37">37</a></td><td>ANNOTATION: Spock creeps up behind Humboldt and neck-pinches him, then does something to the innards of a computer bank</td></tr>
 
-LOCATION--Starbase Computer Centre
+<tr><td></td><td>LOCATION--Mendez' office</td></tr>
+<tr id="L38"><td><a href="#L38">38</a></td><td>MENDEZ:  Oh, have I introduced Miss Piper, Jim? This is Captain Kirk, Miss Piper.</td></tr>
 
-  HUMBOLDT
-     Chief Humboldt here, sir.
+<tr id="L39"><td><a href="#L39">39</a></td><td>PIPER:  I recognized the Captain immediately. A mutual friend described you, sir. Lieutenant Helen Johansson.</td></tr>
 
-  MENDEZ [OC]
-     Have you rechecked all the record tapes on the
-     date in question?
+<tr id="L40"><td><a href="#L40">40</a></td><td>KIRK:  Helen described</td></tr>
 
-  HUMBOLDT
-     Yes, sir.
+<tr id="L41"><td><a href="#L41">41</a></td><td>PIPER:  She merely mentioned she knew you, sir.</td></tr>
 
-  MENDEZ [OC]
-     Is there any way at all a message could have been
-     sent from here without us knowing it?
+<tr id="L42"><td><a href="#L42">42</a></td><td>MENDEZ:  You have something to report, Miss Piper?</td></tr>
 
-  HUMBOLDT
-     Negative, Commodore. We've checked and
-     double-checked everything possible.
+<tr id="L43"><td><a href="#L43">43</a></td><td>PIPER:  Oh, yes, sir. I'm afraid our investigation turned up very little, Commodore. There is, of course, Mister Spock's years of service with Captain Pike. Indications of his extreme loyalty to this former commander.</td></tr>
 
-  MENDEZ [OC]
-     All right. Start checking the impossible. Mendez
-     out.
+<tr id="L44"><td><a href="#L44">44</a></td><td>KIRK:  Miss Piper, a Vulcan can no sooner be disloyal than he can exist without breathing. That goes for his present commander as well as his past.</td></tr>
 
-  ANNOTATION
-     Spock creeps up behind Humboldt and neck-pinches
-     him, then does something to the innards of a
-     computer bank
+<tr id="L45"><td><a href="#L45">45</a></td><td>PIPER:  We're forced to consider every possibility, sir. We can be certain Captain Pike cannot have sent a message. In his condition he's under observation every minute of every day.</td></tr>
 
+<tr id="L46"><td><a href="#L46">46</a></td><td>MENDEZ:  And totally unable to move, Jim. His wheel chair is constructed to respond to his brain waves. Oh, he can turn it, move it forwards, or backwards slightly.</td></tr>
 
-LOCATION--Mendez' office
+<tr id="L47"><td><a href="#L47">47</a></td><td>PIPER:  With the flashing light, he can say yes or no.</td></tr>
 
-  MENDEZ
-     Oh, have I introduced Miss Piper, Jim? This is
-     Captain Kirk, Miss Piper.
+<tr id="L48"><td><a href="#L48">48</a></td><td>MENDEZ:  But that's it, Jim. That's as much as that poor devil can do. His mind is as active as yours and mine, but it's trapped inside a useless vegetating body. He's kept alive mechanically, a battery-driven heart.</td></tr>
 
-  PIPER
-     I recognized the Captain immediately. A mutual
-     friend described you, sir. Lieutenant Helen
-     Johansson.
+<tr id="L49"><td><a href="#L49">49</a></td><td>KIRK:  There's no way he could even have asked for that message to be sent?</td></tr>
 
-  KIRK
-     Helen described
+<tr><td></td><td>LOCATION--Starbase Computer Centre</td></tr>
+<tr id="L50"><td><a href="#L50">50</a></td><td>VOICE [OC]:  (slow) Starbase Operations. (fast) Starbase Operations. (Spock adjusts it to sound normal) Starbase Operations. Starbase Operations, Enterprise. Standby to receive new orders, Enterprise.</td></tr>
 
-  PIPER
-     She merely mentioned she knew you, sir.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L51"><td><a href="#L51">51</a></td><td>UHURA:  Starbase Operation, Mister Hansen.</td></tr>
 
-  MENDEZ
-     You have something to report, Miss Piper?
+<tr id="L52"><td><a href="#L52">52</a></td><td>VOICE [OC]:  Starbase Operations to Enterprise. Standby to receive new orders. They're to be fed directly into the ship's computers. This is top secret and scrambled.</td></tr>
 
-  PIPER
-     Oh, yes, sir. I'm afraid our investigation turned
-     up very little, Commodore. There is, of course,
-     Mister Spock's years of service with Captain Pike.
-     Indications of his extreme loyalty to this former
-     commander.
+<tr id="L53"><td><a href="#L53">53</a></td><td>HANSEN:  Enterprise standing by. Request confirmation.</td></tr>
 
-  KIRK
-     Miss Piper, a Vulcan can no sooner be disloyal
-     than he can exist without breathing. That goes for
-     his present commander as well as his past.
+<tr id="L54"><td><a href="#L54">54</a></td><td>UHURA:  Enterprise to Starbase. Request confirmation.</td></tr>
 
-  PIPER
-     We're forced to consider every possibility, sir.
-     We can be certain Captain Pike cannot have sent a
-     message. In his condition he's under observation
-     every minute of every day.
+<tr><td></td><td>LOCATION--Starbase Computer Centre</td></tr>
+<tr id="L55"><td><a href="#L55">55</a></td><td>CHIEF:  Sir, this is a security area. What are you doing here?</td></tr>
 
-  MENDEZ
-     And totally unable to move, Jim. His wheel chair
-     is constructed to respond to his brain waves. Oh,
-     he can turn it, move it forwards, or backwards
-     slightly.
+<tr id="L56"><td><a href="#L56">56</a></td><td>SPOCK:  I have security clearance, Chief.</td></tr>
 
-  PIPER
-     With the flashing light, he can say yes or no.
+<tr id="L57"><td><a href="#L57">57</a></td><td>CHIEF:  Who gave you clearance? I haven't been notified. You're cross-circuiting the. (struggle) Whose tapes are these?</td></tr>
 
-  MENDEZ
-     But that's it, Jim. That's as much as that poor
-     devil can do. His mind is as active as yours and
-     mine, but it's trapped inside a useless vegetating
-     body. He's kept alive mechanically, a
-     battery-driven heart.
+<tr id="L58"><td><a href="#L58">58</a></td><td>UHURA [OC]:  Repeat, Enterprise to Starbase. Orders received. We need operating confirmation from the ship's Captain. (Spock pinches the Chief unconscious)</td></tr>
 
-  KIRK
-     There's no way he could even have asked for that
-     message to be sent?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L59"><td><a href="#L59">59</a></td><td>UHURA:  Come in, Starbase. Come in, Captain Kirk.</td></tr>
 
+<tr><td></td><td>LOCATION--Starbase Computer Centre</td></tr>
+<tr id="L60"><td><a href="#L60">60</a></td><td>ANNOTATION: Spock inserts data chip</td></tr>
 
-LOCATION--Starbase Computer Centre
+<tr id="L61"><td><a href="#L61">61</a></td><td>KIRK [OC]:  This is Captain Kirk. You have confirmation, Miss Uhura.</td></tr>
 
-  VOICE [OC]
-     (slow) Starbase Operations. (fast) Starbase
-     Operations. (Spock adjusts it to sound normal)
-     Starbase Operations. Starbase Operations,
-     Enterprise. Standby to receive new orders,
-     Enterprise.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L62"><td><a href="#L62">62</a></td><td>HANSEN:  Hansen here, Captain.</td></tr>
 
+<tr><td></td><td>LOCATION--Starbase Computer Centre</td></tr>
+<tr id="L63"><td><a href="#L63">63</a></td><td>HANSEN [OC]:  Our destination has been scramble-fed into ship's computers. Er, how can I handle the helm if I don't know where we're going?</td></tr>
 
-LOCATION--Bridge
+<tr id="L64"><td><a href="#L64">64</a></td><td>KIRK [OC]:  (another chip) Mister Spock is with me here. He'll answer all questions. Kirk out.</td></tr>
 
-  UHURA
-     Starbase Operation, Mister Hansen.
+<tr id="L65"><td><a href="#L65">65</a></td><td>SPOCK:  This is Mister Spock.</td></tr>
 
-  VOICE [OC]
-     Starbase Operations to Enterprise. Standby to
-     receive new orders. They're to be fed directly
-     into the ship's computers. This is top secret and
-     scrambled.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L66"><td><a href="#L66">66</a></td><td>SPOCK [OC]:  The ship's computers will handle the helm on this voyage, Mister Hansen. Course will be computed and set automatically.</td></tr>
 
-  HANSEN
-     Enterprise standing by. Request confirmation.
+<tr><td></td><td>LOCATION--Starbase Computer Centre</td></tr>
+<tr id="L67"><td><a href="#L67">67</a></td><td>SPOCK:  You will not discuss this with ship's crew or starbase personnel. Do you read?</td></tr>
 
-  UHURA
-     Enterprise to Starbase. Request confirmation.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L68"><td><a href="#L68">68</a></td><td>HANSEN:  Acknowledged, sir.</td></tr>
 
+<tr><td></td><td>LOCATION--Starbase Computer Centre</td></tr>
+<tr id="L69"><td><a href="#L69">69</a></td><td>SPOCK:  Stand by. We'll warp out of orbit in one hour.</td></tr>
 
-LOCATION--Starbase Computer Centre
+<tr><td></td><td>LOCATION--Mendez' office</td></tr>
+<tr id="L70"><td><a href="#L70">70</a></td><td>KIRK:  (watching Pike on monitor) He keeps blinking no. No to what?</td></tr>
 
-  CHIEF
-     Sir, this is a security area. What are you doing
-     here?
+<tr id="L71"><td><a href="#L71">71</a></td><td>MCCOY:  They've tried questioning him. He's almost agitated himself into a coma.</td></tr>
 
-  SPOCK
-     I have security clearance, Chief.
+<tr id="L72"><td><a href="#L72">72</a></td><td>KIRK:  How long will he live?</td></tr>
 
-  CHIEF
-     Who gave you clearance? I haven't been notified.
-     You're cross-circuiting the. (struggle) Whose
-     tapes are these?
+<tr id="L73"><td><a href="#L73">73</a></td><td>MCCOY:  As long as any of us. Blast medicine anyway. We've learned to tie into every human organ in the body except one. The brain. The brain is what life is all about. Now, that man can think any thought that we can, and love, hope, dream as much as we can, but he can't reach out, and no one can reach in.</td></tr>
 
-  UHURA [OC]
-     Repeat, Enterprise to Starbase. Orders received.
-     We need operating confirmation from the ship's
-     Captain. (Spock pinches the Chief unconscious)
+<tr id="L74"><td><a href="#L74">74</a></td><td>KIRK:  He keeps blinking no.</td></tr>
 
+<tr id="L75"><td><a href="#L75">75</a></td><td>MCCOY:  No to what? They could question him for days, weeks, before they stumble on the right thing.</td></tr>
 
-LOCATION--Bridge
+<tr id="L76"><td><a href="#L76">76</a></td><td>KIRK:  Bones, could this have anything to do with Spock?</td></tr>
 
-  UHURA
-     Come in, Starbase. Come in, Captain Kirk.
+<tr id="L77"><td><a href="#L77">77</a></td><td>MCCOY:  I don't read you at all, Jim.</td></tr>
 
+<tr id="L78"><td><a href="#L78">78</a></td><td>KIRK:  What I mean is either a message was received. It was one of two things. Either someone sent a message diverting us here, or someone on board the ship lied about receiving it. Could that someone be Mister Spock?</td></tr>
 
-LOCATION--Starbase Computer Centre
+<tr id="L79"><td><a href="#L79">79</a></td><td>MCCOY:  Jim, forgetting how well we both know Spock, the simple fact that he's a Vulcan means he's incapable of telling a lie.</td></tr>
 
-  ANNOTATION
-     Spock inserts data chip
+<tr id="L80"><td><a href="#L80">80</a></td><td>KIRK:  He's also half human.</td></tr>
 
-  KIRK [OC]
-     This is Captain Kirk. You have confirmation, Miss
-     Uhura.
+<tr id="L81"><td><a href="#L81">81</a></td><td>MCCOY:  And that half is completely submerged. To be caught acting like us or even thinking like us would completely embarrass him.</td></tr>
 
+<tr id="L82"><td><a href="#L82">82</a></td><td>KIRK:  Someone's interfering with my command and my ship. I don't know who it is, but I mean to find out. Even you. If I thought you had the technical know-how I'd suspect you, but you don't. Spock does.</td></tr>
 
-LOCATION--Bridge
+<tr id="L83"><td><a href="#L83">83</a></td><td>MCCOY:  He would not make a false entry.</td></tr>
 
-  HANSEN
-     Hansen here, Captain.
+<tr id="L84"><td><a href="#L84">84</a></td><td>KIRK:  There's a false entry in the log right now which doesn't jibe with the established facts. How do you explain that.</td></tr>
 
+<tr id="L85"><td><a href="#L85">85</a></td><td>MCCOY:  I can't, but to question Spock of all people? Me, yes. I could run off half-cocked given a good reason. So could you, but not Spock. It's impossible.</td></tr>
 
-LOCATION--Starbase Computer Centre
+<tr id="L86"><td><a href="#L86">86</a></td><td>VOICE [OC]:  Doctor McCoy, report to Transporter Control. Doctor McCoy to Transporter Control.</td></tr>
 
-  HANSEN [OC]
-     Our destination has been scramble-fed into ship's
-     computers. Er, how can I handle the helm if I
-     don't know where we're going?
+<tr id="L87"><td><a href="#L87">87</a></td><td>MCCOY:  McCoy here.</td></tr>
 
-  KIRK [OC]
-     (another chip) Mister Spock is with me here. He'll
-     answer all questions. Kirk out.
+<tr id="L88"><td><a href="#L88">88</a></td><td>VOICE [OC]:  You're needed aboard the Enterprise, Doctor. Medical emergency.</td></tr>
 
-  SPOCK
-     This is Mister Spock.
+<tr id="L89"><td><a href="#L89">89</a></td><td>MCCOY:  Well, what is it? Sickness? Injury? How bad is it?</td></tr>
 
+<tr id="L90"><td><a href="#L90">90</a></td><td>VOICE [OC]:  That's all we have on it, Doctor. Just needed aboard.</td></tr>
 
-LOCATION--Bridge
+<tr id="L91"><td><a href="#L91">91</a></td><td>MCCOY:  Probably somebody discovered a hangnail. I'll beam up and let you know, Jim.</td></tr>
 
-  SPOCK [OC]
-     The ship's computers will handle the helm on this
-     voyage, Mister Hansen. Course will be computed and
-     set automatically.
+<tr id="L92"><td><a href="#L92">92</a></td><td>KIRK:  (reading) For eyes of Starfleet Command only.</td></tr>
 
+<tr id="L93"><td><a href="#L93">93</a></td><td>MENDEZ:  Oh, I'm certifying I ordered you to read it. Know anything at all about this planet?</td></tr>
 
-LOCATION--Starbase Computer Centre
+<tr id="L94"><td><a href="#L94">94</a></td><td>KIRK:  What every ship Captain knows. General Order 7, no vessel under any condition, emergency or otherwise, is to visit Talos Four.</td></tr>
 
-  SPOCK
-     You will not discuss this with ship's crew or
-     starbase personnel. Do you read?
+<tr id="L95"><td><a href="#L95">95</a></td><td>MENDEZ:  And to do so is the only death penalty left on our books. Only Fleet Command knows why. Not even this file explains that. (unlocks the magnetic strip) But it does name the only Earth ship that ever visited the planet.</td></tr>
 
+<tr id="L96"><td><a href="#L96">96</a></td><td>KIRK:  The Enterprise, commanded by Captain Christopher Pike.</td></tr>
 
-LOCATION--Bridge
+<tr id="L97"><td><a href="#L97">97</a></td><td>MENDEZ:  With a half Vulcan science officer named Spock.</td></tr>
 
-  HANSEN
-     Acknowledged, sir.
+<tr id="L98"><td><a href="#L98">98</a></td><td>PIPER:  Commodore! Captain Pike, he's gone!</td></tr>
 
+<tr id="L99"><td><a href="#L99">99</a></td><td>MENDEZ:  Mendez here. What is it?</td></tr>
 
-LOCATION--Starbase Computer Centre
+<tr id="L100"><td><a href="#L100">100</a></td><td>VOICE [OC]:  Starship Enterprise, Commodore. It's warping out of orbit. Refuses to acknowledge our signal.</td></tr>
 
-  SPOCK
-     Stand by. We'll warp out of orbit in one hour.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L101"><td><a href="#L101">101</a></td><td>HANSEN:  Out of orbit, Mister Spock. Seems strange with no navigator on duty.</td></tr>
 
+<tr id="L102"><td><a href="#L102">102</a></td><td>SPOCK:  The Enterprise knows where she's going, Mister Hansen.</td></tr>
 
-LOCATION--Mendez' office
+<tr id="L103"><td><a href="#L103">103</a></td><td>UHURA:  Someone's trying to hail us, sir.</td></tr>
 
-  KIRK
-     (watching Pike on monitor) He keeps blinking no.
-     No to what?
+<tr id="L104"><td><a href="#L104">104</a></td><td>SPOCK:  Maintain radio silence, Lieutenant. This is First Officer Spock. Per Starfleet orders this date, I have been placed in temporary command of the Enterprise. While our destination is secret, our mission is relatively simple. Starbase Command has assigned Captain Kirk medical rest leave until our return. His instructions are that you will obey my orders as you would his. First Officer out.</td></tr>
 
-  MCCOY
-     They've tried questioning him. He's almost
-     agitated himself into a coma.
+<tr id="L105"><td><a href="#L105">105</a></td><td>MCCOY:  What's going on around here? Who said Jim needed a medical rest leave? And this call about me being needed aboard the ship. I've checked everywhere.</td></tr>
 
-  KIRK
-     How long will he live?
+<tr id="L106"><td><a href="#L106">106</a></td><td>SPOCK:  And no one from the ship made such a call.</td></tr>
 
-  MCCOY
-     As long as any of us. Blast medicine anyway. We've
-     learned to tie into every human organ in the body
-     except one. The brain. The brain is what life is
-     all about. Now, that man can think any thought
-     that we can, and love, hope, dream as much as we
-     can, but he can't reach out, and no one can reach
-     in.
+<tr id="L107"><td><a href="#L107">107</a></td><td>MCCOY:  That's right.</td></tr>
 
-  KIRK
-     He keeps blinking no.
+<tr id="L108"><td><a href="#L108">108</a></td><td>SPOCK:  Doctor, I regret they elected to keep certain things from you. Will you come with me, please.</td></tr>
 
-  MCCOY
-     No to what? They could question him for days,
-     weeks, before they stumble on the right thing.
+<tr><td></td><td>LOCATION--Pike's quarters</td></tr>
+<tr id="L109"><td><a href="#L109">109</a></td><td>MCCOY:  What is this, Spock? Captain, are you all right? (flash, flash) I see that you're still signaling</td></tr>
 
-  KIRK
-     Bones, could this have anything to do with Spock?
+<tr id="L110"><td><a href="#L110">110</a></td><td>SPOCK:  Doctor, one moment, please.</td></tr>
 
-  MCCOY
-     I don't read you at all, Jim.
+<tr id="L111"><td><a href="#L111">111</a></td><td>KIRK [OC]:  Kirk to Doctor McCoy. I'm recording you this message, Bones, so there will be no misunderstanding. I'm sorry to have to make it an order. You're not to disturb Captain Pike with any questions. Simply take good care of him. Follow Spock's instructions to the letter. Kirk out. (flash, flash)</td></tr>
 
-  KIRK
-     What I mean is either a message was received. It
-     was one of two things. Either someone sent a
-     message diverting us here, or someone on board the
-     ship lied about receiving it. Could that someone
-     be Mister Spock?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L112"><td><a href="#L112">112</a></td><td>HANSEN:  Sir, scanners report an object following us, about the size of a starbase shuttlecraft. Shall we reverse helm?</td></tr>
 
-  MCCOY
-     Jim, forgetting how well we both know Spock, the
-     simple fact that he's a Vulcan means he's
-     incapable of telling a lie.
+<tr id="L113"><td><a href="#L113">113</a></td><td>SPOCK:  Take no action, Mister Hansen.</td></tr>
 
-  KIRK
-     He's also half human.
+<tr id="L114"><td><a href="#L114">114</a></td><td>HANSEN:  But at our speed, they'll never catch us. In case they want to reach us</td></tr>
 
-  MCCOY
-     And that half is completely submerged. To be
-     caught acting like us or even thinking like us
-     would completely embarrass him.
+<tr id="L115"><td><a href="#L115">115</a></td><td>SPOCK:  You have your orders, Mister Hansen. We'll make no contact.</td></tr>
 
-  KIRK
-     Someone's interfering with my command and my ship.
-     I don't know who it is, but I mean to find out.
-     Even you. If I thought you had the technical
-     know-how I'd suspect you, but you don't. Spock
-     does.
+<tr><td></td><td>LOCATION--Shuttlecraft</td></tr>
+<tr id="L116"><td><a href="#L116">116</a></td><td>MENDEZ:  Starbase Shuttlecraft one to Enterprise. Come in, please. Enterprise, Commodore Mendez and Captain Kirk. If you read me, you are ordered to reply. Repeating it on all emergency frequencies, Jim.</td></tr>
 
-  MCCOY
-     He would not make a false entry.
+<tr id="L117"><td><a href="#L117">117</a></td><td>KIRK:  Spock is headed for Talos Four, all right.</td></tr>
 
-  KIRK
-     There's a false entry in the log right now which
-     doesn't jibe with the established facts. How do
-     you explain that.
+<tr id="L118"><td><a href="#L118">118</a></td><td>MENDEZ:  Pulling ahead of us fast. Fuel is down to sixty three point three. If we turn back now, we've just got barely enough to get us back to the base.</td></tr>
 
-  MCCOY
-     I can't, but to question Spock of all people? Me,
-     yes. I could run off half-cocked given a good
-     reason. So could you, but not Spock. It's
-     impossible.
+<tr id="L119"><td><a href="#L119">119</a></td><td>KIRK:  Shuttlecraft to Enterprise, come in. Shuttlecraft to Enterprise, come in. Enterprise, come in!</td></tr>
 
-  VOICE [OC]
-     Doctor McCoy, report to Transporter Control.
-     Doctor McCoy to Transporter Control.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L120"><td><a href="#L120">120</a></td><td>COMPUTER:  Library computer.</td></tr>
 
-  MCCOY
-     McCoy here.
+<tr id="L121"><td><a href="#L121">121</a></td><td>SPOCK:  Lock on to sensors. Measure object now following the Enterprise.</td></tr>
 
-  VOICE [OC]
-     You're needed aboard the Enterprise, Doctor.
-     Medical emergency.
+<tr id="L122"><td><a href="#L122">122</a></td><td>COMPUTER:  Computed. Object is a Class F shuttlecraft. Duranium metal shell, ion engine power</td></tr>
 
-  MCCOY
-     Well, what is it? Sickness? Injury? How bad is it?
+<tr id="L123"><td><a href="#L123">123</a></td><td>SPOCK:  Stop. How long before shuttlecraft's fuel supply forces return to starbase?</td></tr>
 
-  VOICE [OC]
-     That's all we have on it, Doctor. Just needed
-     aboard.
+<tr id="L124"><td><a href="#L124">124</a></td><td>COMPUTER:  Computed. Shuttlecraft is already past point of safe return.</td></tr>
 
-  MCCOY
-     Probably somebody discovered a hangnail. I'll beam
-     up and let you know, Jim.
+<tr><td></td><td>LOCATION--Shuttlecraft</td></tr>
+<tr id="L125"><td><a href="#L125">125</a></td><td>MENDEZ:  We coast.</td></tr>
 
-  KIRK
-     (reading) For eyes of Starfleet Command only.
+<tr id="L126"><td><a href="#L126">126</a></td><td>KIRK:  Blast you any way. You had no right to come along.</td></tr>
 
-  MENDEZ
-     Oh, I'm certifying I ordered you to read it. Know
-     anything at all about this planet?
+<tr id="L127"><td><a href="#L127">127</a></td><td>MENDEZ:  RHIP, Captain. Rank hath its privileges.</td></tr>
 
-  KIRK
-     What every ship Captain knows. General Order 7, no
-     vessel under any condition, emergency or
-     otherwise, is to visit Talos Four.
+<tr id="L128"><td><a href="#L128">128</a></td><td>KIRK:  Two hours of oxygen left.</td></tr>
 
-  MENDEZ
-     And to do so is the only death penalty left on our
-     books. Only Fleet Command knows why. Not even this
-     file explains that. (unlocks the magnetic strip)
-     But it does name the only Earth ship that ever
-     visited the planet.
+<tr id="L129"><td><a href="#L129">129</a></td><td>MENDEZ:  Wonderful.</td></tr>
 
-  KIRK
-     The Enterprise, commanded by Captain Christopher
-     Pike.
+<tr id="L130"><td><a href="#L130">130</a></td><td>KIRK:  Part of me is hoping the Enterprise won't come back for us. We step on that deck, Spock is finished. Court-martialed, disgraced.</td></tr>
 
-  MENDEZ
-     With a half Vulcan science officer named Spock.
+<tr id="L131"><td><a href="#L131">131</a></td><td>MENDEZ:  He's dead if he makes it to Talos Four. Why would he want to get Pike there? The command reports stated Talos contained absolutely no practical benefits to mankind.</td></tr>
 
-  PIPER
-     Commodore! Captain Pike, he's gone!
+<tr id="L132"><td><a href="#L132">132</a></td><td>KIRK:  Spock would have some logical reason for going there.</td></tr>
 
-  MENDEZ
-     Mendez here. What is it?
+<tr id="L133"><td><a href="#L133">133</a></td><td>MENDEZ:  Maybe. Maybe he's just gone mad.</td></tr>
 
-  VOICE [OC]
-     Starship Enterprise, Commodore. It's warping out
-     of orbit. Refuses to acknowledge our signal.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L134"><td><a href="#L134">134</a></td><td>MCCOY:  I keep wondering who might be after us in a shuttlecraft and I keep coming up with the same answers, but I can't be right, can l, Mister Spock.</td></tr>
 
+<tr id="L135"><td><a href="#L135">135</a></td><td>SPOCK:  Computer control. Lock on to shuttlecraft following us.</td></tr>
 
-LOCATION--Bridge
+<tr id="L136"><td><a href="#L136">136</a></td><td>COMPUTER:  Locked on. Tractor beam ready.</td></tr>
 
-  HANSEN
-     Out of orbit, Mister Spock. Seems strange with no
-     navigator on duty.
+<tr id="L137"><td><a href="#L137">137</a></td><td>SPOCK:  Go to tape Abel Seven Baker. Execute instructions.</td></tr>
 
-  SPOCK
-     The Enterprise knows where she's going, Mister
-     Hansen.
+<tr id="L138"><td><a href="#L138">138</a></td><td>MCCOY:  Is it the captain, Mister Spock?</td></tr>
 
-  UHURA
-     Someone's trying to hail us, sir.
+<tr id="L139"><td><a href="#L139">139</a></td><td>HANSEN:  Sir, the engines are reversing. She's brought herself to a dead stop.</td></tr>
 
-  SPOCK
-     Maintain radio silence, Lieutenant. This is First
-     Officer Spock. Per Starfleet orders this date, I
-     have been placed in temporary command of the
-     Enterprise. While our destination is secret, our
-     mission is relatively simple. Starbase Command has
-     assigned Captain Kirk medical rest leave until our
-     return. His instructions are that you will obey my
-     orders as you would his. First Officer out.
+<tr id="L140"><td><a href="#L140">140</a></td><td>SPOCK:  This is the First Officer speaking. Security, send an armed team to the Bridge. Transporter Room, stand by to beam Captain Kirk aboard. Effective until then, Lieutenant Hansen is in operational command.</td></tr>
 
-  MCCOY
-     What's going on around here? Who said Jim needed a
-     medical rest leave? And this call about me being
-     needed aboard the ship. I've checked everywhere.
+<tr id="L141"><td><a href="#L141">141</a></td><td>HANSEN:  Sir?</td></tr>
 
-  SPOCK
-     And no one from the ship made such a call.
+<tr id="L142"><td><a href="#L142">142</a></td><td>SPOCK:  First Officer out. Doctor, as senior officer present, I present myself to you for arrest.</td></tr>
 
-  MCCOY
-     That's right.
+<tr id="L143"><td><a href="#L143">143</a></td><td>MCCOY:  You what?</td></tr>
 
-  SPOCK
-     Doctor, I regret they elected to keep certain
-     things from you. Will you come with me, please.
+<tr id="L144"><td><a href="#L144">144</a></td><td>SPOCK:  The charge is mutiny, Doctor. I never received orders to take command.</td></tr>
 
+<tr id="L145"><td><a href="#L145">145</a></td><td>SECURITY:  Security reporting, Mister Spock.</td></tr>
 
-LOCATION--Pike's quarters
+<tr id="L146"><td><a href="#L146">146</a></td><td>SPOCK:  Doctor.</td></tr>
 
-  MCCOY
-     What is this, Spock? Captain, are you all right?
-     (flash, flash) I see that you're still signaling
+<tr id="L147"><td><a href="#L147">147</a></td><td>MCCOY:  Mister Spock is, er, under arrest. Is confinement to quarters enough?</td></tr>
 
-  SPOCK
-     Doctor, one moment, please.
+<tr id="L148"><td><a href="#L148">148</a></td><td>SPOCK:  Adequate, Doctor. I'll make no trouble.</td></tr>
 
-  KIRK [OC]
-     Kirk to Doctor McCoy. I'm recording you this
-     message, Bones, so there will be no
-     misunderstanding. I'm sorry to have to make it an
-     order. You're not to disturb Captain Pike with any
-     questions. Simply take good care of him. Follow
-     Spock's instructions to the letter. Kirk out.
-     (flash, flash)
+<tr id="L149"><td><a href="#L149">149</a></td><td>MCCOY:  Well, confine him.</td></tr>
 
+<tr id="L150"><td><a href="#L150">150</a></td><td>SECURITY:  Yes, sir.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L151"><td><a href="#L151">151</a></td><td>KIRK [OC]:  Store our shuttlecraft on the hangar deck, Mister Scott. Beam us directly aboard.</td></tr>
 
-  HANSEN
-     Sir, scanners report an object following us, about
-     the size of a starbase shuttlecraft. Shall we
-     reverse helm?
+<tr id="L152"><td><a href="#L152">152</a></td><td>SCOTT:  All right, Captain. Locked on to you.</td></tr>
 
-  SPOCK
-     Take no action, Mister Hansen.
+<tr id="L153"><td><a href="#L153">153</a></td><td>HANSEN:  Transferring command to you, sir.</td></tr>
 
-  HANSEN
-     But at our speed, they'll never catch us. In case
-     they want to reach us
+<tr id="L154"><td><a href="#L154">154</a></td><td>KIRK:  Accepting command. Where's Mister Spock?</td></tr>
 
-  SPOCK
-     You have your orders, Mister Hansen. We'll make no
-     contact.
+<tr id="L155"><td><a href="#L155">155</a></td><td>HANSEN:  In his quarters, under arrest.</td></tr>
 
+<tr id="L156"><td><a href="#L156">156</a></td><td>MENDEZ:  His quarters, after what he's done, Lieutenant?</td></tr>
 
-LOCATION--Shuttlecraft
+<tr id="L157"><td><a href="#L157">157</a></td><td>UHURA [OC]:  Captain from Bridge. The engines are coming on.</td></tr>
 
-  MENDEZ
-     Starbase Shuttlecraft one to Enterprise. Come in,
-     please. Enterprise, Commodore Mendez and Captain
-     Kirk. If you read me, you are ordered to reply.
-     Repeating it on all emergency frequencies, Jim.
+<tr id="L158"><td><a href="#L158">158</a></td><td>KIRK:  Reverse power. Hold this position. Tell whoever gave those orders to report</td></tr>
 
-  KIRK
-     Spock is headed for Talos Four, all right.
+<tr id="L159"><td><a href="#L159">159</a></td><td>HANSEN:  Sir, there's nobody up there giving orders. Mister Spock has the computers running the ship.</td></tr>
 
-  MENDEZ
-     Pulling ahead of us fast. Fuel is down to sixty
-     three point three. If we turn back now, we've just
-     got barely enough to get us back to the base.
+<tr id="L160"><td><a href="#L160">160</a></td><td>KIRK:  Disengage computer control, Uhura.</td></tr>
 
-  KIRK
-     Shuttlecraft to Enterprise, come in. Shuttlecraft
-     to Enterprise, come in. Enterprise, come in!
+<tr id="L161"><td><a href="#L161">161</a></td><td>UHURA [OC]:  We can't disengage, Captain. The helm does not respond. (Scott leaves, muttering in Gaelic)</td></tr>
 
+<tr id="L162"><td><a href="#L162">162</a></td><td>KIRK:  Computer control, come in.</td></tr>
 
-LOCATION--Bridge
+<tr id="L163"><td><a href="#L163">163</a></td><td>COMPUTER:  Computer.</td></tr>
 
-  COMPUTER
-     Library computer.
+<tr id="L164"><td><a href="#L164">164</a></td><td>KIRK:  Disengage from helm.</td></tr>
 
-  SPOCK
-     Lock on to sensors. Measure object now following
-     the Enterprise.
+<tr id="L165"><td><a href="#L165">165</a></td><td>COMPUTER:  Unable to comply.</td></tr>
 
-  COMPUTER
-     Computed. Object is a Class F shuttlecraft.
-     Duranium metal shell, ion engine power
+<tr><td></td><td>LOCATION--Spock's quarters</td></tr>
+<tr id="L166"><td><a href="#L166">166</a></td><td>KIRK [on monitor]:  This is the Captain. On voice command, you will override all contrary instructions. Voice command, disengage from helm.</td></tr>
 
-  SPOCK
-     Stop. How long before shuttlecraft's fuel supply
-     forces return to starbase?
+<tr id="L167"><td><a href="#L167">167</a></td><td>COMPUTER:  Unable to comply. Any such attempt will cross-circuit vessel's life-supporting system. Computer control cannot be disengaged until vessel reaches planet Talos Four.</td></tr>
 
-  COMPUTER
-     Computed. Shuttlecraft is already past point of
-     safe return.
+<tr id="L168"><td><a href="#L168">168</a></td><td>SOMEONE: Captain's log, stardate 3012.4. Despite our best efforts to disengage computers, the Enterprise is still locked on a heading for the mysterious planet Talos Four. Meanwhile, as required by Starfleet General Orders, a preliminary hearing on Lieutenant Commander Spock is being convened. And in all the years of my service, this is the most painful moment I've ever faced.</td></tr>
 
+<tr><td></td><td>LOCATION--Hearing room</td></tr>
+<tr id="L169"><td><a href="#L169">169</a></td><td>KIRK:  This hearing is convened. Mister Spock, you're aware of your right to counsel of your choice?</td></tr>
 
-LOCATION--Shuttlecraft
+<tr id="L170"><td><a href="#L170">170</a></td><td>SPOCK:  Sir, I waive counsel. Further, I waive rights to this hearing and request immediate court-martial.</td></tr>
 
-  MENDEZ
-     We coast.
+<tr id="L171"><td><a href="#L171">171</a></td><td>KIRK:  Request denied.</td></tr>
 
-  KIRK
-     Blast you any way. You had no right to come along.
+<tr id="L172"><td><a href="#L172">172</a></td><td>SPOCK:  May I inquire on what grounds, Captain?</td></tr>
 
-  MENDEZ
-     RHIP, Captain. Rank hath its privileges.
+<tr id="L173"><td><a href="#L173">173</a></td><td>KIRK:  A mutiny requires a trial board of no less than three command officers. Since there are only two of that rank available</td></tr>
 
-  KIRK
-     Two hours of oxygen left.
+<tr id="L174"><td><a href="#L174">174</a></td><td>SPOCK:  Sir, I must point out that there are three officers of command rank available. Yourself, Commodore Mendez, and Captain Christopher Pike.</td></tr>
 
-  MENDEZ
-     Wonderful.
+<tr id="L175"><td><a href="#L175">175</a></td><td>KIRK:  Denied. Captain Pike is a complete invalid.</td></tr>
 
-  KIRK
-     Part of me is hoping the Enterprise won't come
-     back for us. We step on that deck, Spock is
-     finished. Court-martialed, disgraced.
+<tr id="L176"><td><a href="#L176">176</a></td><td>SPOCK:  I believe you'll find he's still on the active duty list.</td></tr>
 
-  MENDEZ
-     He's dead if he makes it to Talos Four. Why would
-     he want to get Pike there? The command reports
-     stated Talos contained absolutely no practical
-     benefits to mankind.
+<tr id="L177"><td><a href="#L177">177</a></td><td>MENDEZ:  We didn't have the heart to retire him, Jim. He's got you. Whatever he's up to, he's planned it well.</td></tr>
 
-  KIRK
-     Spock would have some logical reason for going
-     there.
+<tr id="L178"><td><a href="#L178">178</a></td><td>SOMEONE: Captain's log, stardate 3012.6. General Court-Martial convened. Mister Spock has again waived counsel and has entered a plea of guilty.</td></tr>
 
-  MENDEZ
-     Maybe. Maybe he's just gone mad.
+<tr id="L179"><td><a href="#L179">179</a></td><td>MENDEZ:  Mister Spock, are you aware in pleading guilty that a further charge involving the death penalty must be held against you should this vessel enter the Talos star group?</td></tr>
 
+<tr id="L180"><td><a href="#L180">180</a></td><td>SPOCK:  I am.</td></tr>
 
-LOCATION--Bridge
+<tr id="L181"><td><a href="#L181">181</a></td><td>MENDEZ:  Why? What does it accomplish to go there or to take Captain Pike there? I want to know why.</td></tr>
 
-  MCCOY
-     I keep wondering who might be after us in a
-     shuttlecraft and I keep coming up with the same
-     answers, but I can't be right, can l, Mister
-     Spock.
+<tr id="L182"><td><a href="#L182">182</a></td><td>SPOCK:  Are your comments a part of the record, sir?</td></tr>
 
-  SPOCK
-     Computer control. Lock on to shuttlecraft
-     following us.
+<tr id="L183"><td><a href="#L183">183</a></td><td>MENDEZ:  Yes, it's on the record.</td></tr>
 
-  COMPUTER
-     Locked on. Tractor beam ready.
+<tr id="L184"><td><a href="#L184">184</a></td><td>SPOCK:  Thank you. Request monitor screen be engaged.</td></tr>
 
-  SPOCK
-     Go to tape Abel Seven Baker. Execute instructions.
+<tr id="L185"><td><a href="#L185">185</a></td><td>MENDEZ:  For what purpose?</td></tr>
 
-  MCCOY
-     Is it the captain, Mister Spock?
+<tr id="L186"><td><a href="#L186">186</a></td><td>SPOCK:  To comply with the request you just made, sir, that I explain the importance of going to Talos Four.</td></tr>
 
-  HANSEN
-     Sir, the engines are reversing. She's brought
-     herself to a dead stop.
+<tr id="L187"><td><a href="#L187">187</a></td><td>KIRK:  By asking why, you've opened the door to any evidence he may wish to present. Apparently what he had in mind.</td></tr>
 
-  SPOCK
-     This is the First Officer speaking. Security, send
-     an armed team to the Bridge. Transporter Room,
-     stand by to beam Captain Kirk aboard. Effective
-     until then, Lieutenant Hansen is in operational
-     command.
+<tr id="L188"><td><a href="#L188">188</a></td><td>MENDEZ:  Present your evidence. Screen on.</td></tr>
 
-  HANSEN
-     Sir?
+<tr id="L189"><td><a href="#L189">189</a></td><td>SPOCK:  This is thirteen years ago. The Enterprise and its commander, Captain Christopher Pike.</td></tr>
 
-  SPOCK
-     First Officer out. Doctor, as senior officer
-     present, I present myself to you for arrest.
+<tr id="L190"><td><a href="#L190">190</a></td><td>SPOCK [on screen]:  Definitely something out there, Captain, headed this way.</td></tr>
 
-  MCCOY
-     You what?
+<tr id="L191"><td><a href="#L191">191</a></td><td>KIRK:  Screen off. Chris, was that really you on the screen? (flash) That's impossible. Mister Spock, no vessel makes record tapes in that detail, that perfect. What were we watching?</td></tr>
 
-  SPOCK
-     The charge is mutiny, Doctor. I never received
-     orders to take command.
+<tr id="L192"><td><a href="#L192">192</a></td><td>SPOCK:  I cannot tell you at this time, sir.</td></tr>
 
-  SECURITY
-     Security reporting, Mister Spock.
+<tr id="L193"><td><a href="#L193">193</a></td><td>MENDEZ:  Captain Pike, were any record tapes of this nature made during your voyage? (flash, flash) The court is not obliged to view evidence without knowing its source.</td></tr>
 
-  SPOCK
-     Doctor.
+<tr id="L194"><td><a href="#L194">194</a></td><td>SPOCK:  Unless the court asks a prisoner why, Commodore. You did ask that question.</td></tr>
 
-  MCCOY
-     Mister Spock is, er, under arrest. Is confinement
-     to quarters enough?
+<tr id="L195"><td><a href="#L195">195</a></td><td>MENDEZ:  You mean I was maneuvered into asking. Your evidence is out of order.</td></tr>
 
-  SPOCK
-     Adequate, Doctor. I'll make no trouble.
+<tr id="L196"><td><a href="#L196">196</a></td><td>KIRK:  I am forced to contest that, Commodore. I want to see more.</td></tr>
 
-  MCCOY
-     Well, confine him.
+<tr id="L197"><td><a href="#L197">197</a></td><td>MENDEZ:  You have that right, Captain, but just because the prisoner is your First Officer and your personal friend</td></tr>
 
-  SECURITY
-     Yes, sir.
+<tr id="L198"><td><a href="#L198">198</a></td><td>KIRK:  That has nothing to do with it.</td></tr>
 
+<tr id="L199"><td><a href="#L199">199</a></td><td>MENDEZ:  Very well, continue.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L200"><td><a href="#L200">200</a></td><td>KIRK:  Screen on, Mister Scott.</td></tr>
 
-  KIRK [OC]
-     Store our shuttlecraft on the hangar deck, Mister
-     Scott. Beam us directly aboard.
+<tr id="L201"><td><a href="#L201">201</a></td><td>NUMBER ONE [on screen]:  No. It's something else. There's still something out there.</td></tr>
 
-  SCOTT
-     All right, Captain. Locked on to you.
+<tr id="L202"><td><a href="#L202">202</a></td><td>SPOCK:  As I stated, gentlemen, this was thirteen years ago. We were on routine patrol when the ship's sensors detected something ahead. At first we were not certain what it was.</td></tr>
 
-  HANSEN
-     Transferring command to you, sir.
+<tr id="L203"><td><a href="#L203">203</a></td><td>TYLER [on screen]:  It's coming at the speed of light. Collision course.</td></tr>
 
-  KIRK
-     Accepting command. Where's Mister Spock?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L204"><td><a href="#L204">204</a></td><td>TYLER:  The meteorite beam has not deflected it, Captain.</td></tr>
 
-  HANSEN
-     In his quarters, under arrest.
+<tr id="L205"><td><a href="#L205">205</a></td><td>NUMBER ONE:  Evasive manoeuvres, sir?</td></tr>
 
-  MENDEZ
-     His quarters, after what he's done, Lieutenant?
+<tr id="L206"><td><a href="#L206">206</a></td><td>PIKE:  Steady as we go.</td></tr>
 
-  UHURA [OC]
-     Captain from Bridge. The engines are coming on.
+<tr id="L207"><td><a href="#L207">207</a></td><td>COMM OFFICER:  It's a radio wave, sir. We're passing through an old-style distress signal.</td></tr>
 
-  KIRK
-     Reverse power. Hold this position. Tell whoever
-     gave those orders to report
+<tr id="L208"><td><a href="#L208">208</a></td><td>PIKE:  They were keyed to cause interference and attract attention this way.</td></tr>
 
-  HANSEN
-     Sir, there's nobody up there giving orders. Mister
-     Spock has the computers running the ship.
+<tr id="L209"><td><a href="#L209">209</a></td><td>COMM OFFICER:  A ship in trouble making a forced landing, sir. That's it. No other message.</td></tr>
 
-  KIRK
-     Disengage computer control, Uhura.
+<tr id="L210"><td><a href="#L210">210</a></td><td>TYLER:  I have a fix. It comes from the Talos star group.</td></tr>
 
-  UHURA [OC]
-     We can't disengage, Captain. The helm does not
-     respond. (Scott leaves, muttering in Gaelic)
+<tr id="L211"><td><a href="#L211">211</a></td><td>NUMBER ONE:  We've no ships or Earth colonies that far out.</td></tr>
 
-  KIRK
-     Computer control, come in.
+<tr id="L212"><td><a href="#L212">212</a></td><td>SPOCK:  Their call letters check with a survey expedition. S.S. Columbia disappeared in that region approximately eighteen years ago.</td></tr>
 
-  COMPUTER
-     Computer.
+<tr id="L213"><td><a href="#L213">213</a></td><td>TYLER:  It would take that long for a radio beam to travel from there to here.</td></tr>
 
-  KIRK
-     Disengage from helm.
+<tr id="L214"><td><a href="#L214">214</a></td><td>SPOCK:  Records show the Talos group has never been explored. Solar system similar to Earth, eleven planets. Number four seems to be Class M, oxygen atmosphere.</td></tr>
 
-  COMPUTER
-     Unable to comply.
+<tr id="L215"><td><a href="#L215">215</a></td><td>NUMBER ONE:  Then they could still be alive, even after eighteen years.</td></tr>
 
+<tr id="L216"><td><a href="#L216">216</a></td><td>PIKE:  If they survived the crash.</td></tr>
 
-LOCATION--Spock's quarters
+<tr id="L217"><td><a href="#L217">217</a></td><td>SPOCK:  We aren't going to go, to be certain?</td></tr>
 
-  KIRK [on monitor]
-     This is the Captain. On voice command, you will
-     override all contrary instructions. Voice command,
-     disengage from helm.
+<tr id="L218"><td><a href="#L218">218</a></td><td>PIKE:  Not without any indication of survivors, no. Continue to the Vega Colony and take care of our own sick and injured first. You have the helm. Maintain present course.</td></tr>
 
-  COMPUTER
-     Unable to comply. Any such attempt will
-     cross-circuit vessel's life-supporting system.
-     Computer control cannot be disengaged until vessel
-     reaches planet Talos Four.
+<tr id="L219"><td><a href="#L219">219</a></td><td>NUMBER ONE:  Yes, sir.</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 3012.4. Despite our best
-     efforts to disengage computers, the Enterprise is
-     still locked on a heading for the mysterious
-     planet Talos Four. Meanwhile, as required by
-     Starfleet General Orders, a preliminary hearing on
-     Lieutenant Commander Spock is being convened. And
-     in all the years of my service, this is the most
-     painful moment I've ever faced.
+<tr><td></td><td>LOCATION--Pike's quarters</td></tr>
+<tr id="L220"><td><a href="#L220">220</a></td><td>BOYCE [OC]:  Boyce here.</td></tr>
 
+<tr id="L221"><td><a href="#L221">221</a></td><td>PIKE:  Drop by my cabin, Doctor. (Boyce enters with bag) What's that? I didn't say there's anything wrong with me.</td></tr>
 
-LOCATION--Hearing room
+<tr id="L222"><td><a href="#L222">222</a></td><td>BOYCE:  I understand we picked up a distress signal.</td></tr>
 
-  KIRK
-     This hearing is convened. Mister Spock, you're
-     aware of your right to counsel of your choice?
+<tr id="L223"><td><a href="#L223">223</a></td><td>PIKE:  That's right. Unless we get anything more positive on it, it seems to me the condition of our own crew takes precedent. I'd like to log the ship's doctor's opinion, too.</td></tr>
 
-  SPOCK
-     Sir, I waive counsel. Further, I waive rights to
-     this hearing and request immediate court-martial.
+<tr id="L224"><td><a href="#L224">224</a></td><td>BOYCE:  Oh, I concur with yours, definitely.</td></tr>
 
-  KIRK
-     Request denied.
+<tr id="L225"><td><a href="#L225">225</a></td><td>PIKE:  Good. I'm glad you do, because we're going to stop first at the Vega Colony and replace anybody who needs hospitalisation and also. What the devil are you putting in there, ice?</td></tr>
 
-  SPOCK
-     May I inquire on what grounds, Captain?
+<tr id="L226"><td><a href="#L226">226</a></td><td>BOYCE:  Who wants a warm martini?</td></tr>
 
-  KIRK
-     A mutiny requires a trial board of no less than
-     three command officers. Since there are only two
-     of that rank available
+<tr id="L227"><td><a href="#L227">227</a></td><td>PIKE:  What makes you think I need one?</td></tr>
 
-  SPOCK
-     Sir, I must point out that there are three
-     officers of command rank available. Yourself,
-     Commodore Mendez, and Captain Christopher Pike.
+<tr id="L228"><td><a href="#L228">228</a></td><td>BOYCE:  Sometimes a man will tell his bartender things he'll never tell his doctor. What's been on your mind, Chris, the fight on Rigel seven?</td></tr>
 
-  KIRK
-     Denied. Captain Pike is a complete invalid.
+<tr id="L229"><td><a href="#L229">229</a></td><td>PIKE:  Shouldn't it be? My only yeoman and two others dead, seven injured.</td></tr>
 
-  SPOCK
-     I believe you'll find he's still on the active
-     duty list.
+<tr id="L230"><td><a href="#L230">230</a></td><td>BOYCE:  Was there anything you personally could have done to prevent it?</td></tr>
 
-  MENDEZ
-     We didn't have the heart to retire him, Jim. He's
-     got you. Whatever he's up to, he's planned it
-     well.
+<tr id="L231"><td><a href="#L231">231</a></td><td>PIKE:  Oh, I should have smelled trouble when I saw the swords and the armour. Instead of that, I let myself get trapped in that deserted fortress and attacked by one of their warriors.</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 3012.6. General
-     Court-Martial convened. Mister Spock has again
-     waived counsel and has entered a plea of guilty.
+<tr id="L232"><td><a href="#L232">232</a></td><td>BOYCE:  Chris, you set standards for yourself no one could meet. You treat everyone on board like a human being except yourself, and now you're tired and you</td></tr>
 
-  MENDEZ
-     Mister Spock, are you aware in pleading guilty
-     that a further charge involving the death penalty
-     must be held against you should this vessel enter
-     the Talos star group?
+<tr id="L233"><td><a href="#L233">233</a></td><td>PIKE:  You bet I'm tired. You bet. I'm tired of being responsible for two hundred and three lives. I'm tired of deciding which mission is too risky and which isn't, and who's going on the landing party and who doesn't, and who lives and who dies. Boy, I've had it, Phil.</td></tr>
 
-  SPOCK
-     I am.
+<tr id="L234"><td><a href="#L234">234</a></td><td>BOYCE:  To the point of finally taking my advice, a rest leave?</td></tr>
 
-  MENDEZ
-     Why? What does it accomplish to go there or to
-     take Captain Pike there? I want to know why.
+<tr id="L235"><td><a href="#L235">235</a></td><td>PIKE:  To the point of considering resigning.</td></tr>
 
-  SPOCK
-     Are your comments a part of the record, sir?
+<tr id="L236"><td><a href="#L236">236</a></td><td>BOYCE:  And do what?</td></tr>
 
-  MENDEZ
-     Yes, it's on the record.
+<tr id="L237"><td><a href="#L237">237</a></td><td>PIKE:  Well, for one thing, go home. Nice little town with fifty miles of park land around it. Remember I told you I had two horses, and we used to take some food and ride out all day.</td></tr>
 
-  SPOCK
-     Thank you. Request monitor screen be engaged.
+<tr id="L238"><td><a href="#L238">238</a></td><td>BOYCE:  Ah, that sounds exciting. Ride out with a picnic lunch every day.</td></tr>
 
-  MENDEZ
-     For what purpose?
+<tr id="L239"><td><a href="#L239">239</a></td><td>PIKE:  I said that's one place I might go. I might go into business on Regulus or on the Orion colony.</td></tr>
 
-  SPOCK
-     To comply with the request you just made, sir,
-     that I explain the importance of going to Talos
-     Four.
+<tr id="L240"><td><a href="#L240">240</a></td><td>BOYCE:  You, an Orion trader, dealing in green animal women, slaves?</td></tr>
 
-  KIRK
-     By asking why, you've opened the door to any
-     evidence he may wish to present. Apparently what
-     he had in mind.
+<tr id="L241"><td><a href="#L241">241</a></td><td>PIKE:  The point is this isn't the only life available. There's a whole galaxy of things to choose from.</td></tr>
 
-  MENDEZ
-     Present your evidence. Screen on.
+<tr id="L242"><td><a href="#L242">242</a></td><td>BOYCE:  Not for you. A man either lives life as it happens to him, meets it head-on, and licks it, or he turns his back on it and starts to wither away.</td></tr>
 
-  SPOCK
-     This is thirteen years ago. The Enterprise and its
-     commander, Captain Christopher Pike.
+<tr id="L243"><td><a href="#L243">243</a></td><td>PIKE:  Now you're beginning to talk like a doctor, bartender.</td></tr>
 
-  SPOCK [on screen]
-     Definitely something out there, Captain, headed
-     this way.
+<tr id="L244"><td><a href="#L244">244</a></td><td>BOYCE:  Take your choice. We both get the same two kinds of customers. The living and the dying.</td></tr>
 
-  KIRK
-     Screen off. Chris, was that really you on the
-     screen? (flash) That's impossible. Mister Spock,
-     no vessel makes record tapes in that detail, that
-     perfect. What were we watching?
+<tr id="L245"><td><a href="#L245">245</a></td><td>SPOCK [on monitor]:  Mister Spock here. We're intercepting a follow-up message, sir. There are crash survivors on Talos.</td></tr>
 
-  SPOCK
-     I cannot tell you at this time, sir.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L246"><td><a href="#L246">246</a></td><td>OFFICER:  (reads) Eleven survivors from crash. Gravity and oxygen within limits. Food and water obtainable, but unless. The message faded at that point, sir.</td></tr>
 
-  MENDEZ
-     Captain Pike, were any record tapes of this nature
-     made during your voyage? (flash, flash) The court
-     is not obliged to view evidence without knowing
-     its source.
+<tr id="L247"><td><a href="#L247">247</a></td><td>PIKE:  Address intercraft.</td></tr>
 
-  SPOCK
-     Unless the court asks a prisoner why, Commodore.
-     You did ask that question.
+<tr id="L248"><td><a href="#L248">248</a></td><td>TYLER:  System open.</td></tr>
 
-  MENDEZ
-     You mean I was maneuvered into asking. Your
-     evidence is out of order.
+<tr id="L249"><td><a href="#L249">249</a></td><td>PIKE:  This is the captain. Our destination is the Talos star group.</td></tr>
 
-  KIRK
-     I am forced to contest that, Commodore. I want to
-     see more.
+<tr><td></td><td>LOCATION--Hearing room</td></tr>
+<tr id="L250"><td><a href="#L250">250</a></td><td>PIKE [on screen]:  Our time warp, factor seven.</td></tr>
 
-  MENDEZ
-     You have that right, Captain, but just because the
-     prisoner is your First Officer and your personal
-     friend
+<tr id="L251"><td><a href="#L251">251</a></td><td>TYLER [on screen]:  Course computed and on the screen.</td></tr>
 
-  KIRK
-     That has nothing to do with it.
+<tr id="L252"><td><a href="#L252">252</a></td><td>NUMBER ONE [on screen]:  All decks have acknowledged, sir.</td></tr>
 
-  MENDEZ
-     Very well, continue.
+<tr id="L253"><td><a href="#L253">253</a></td><td>PIKE [on screen]:  Engage.</td></tr>
 
-  KIRK
-     Screen on, Mister Scott.
+<tr id="L254"><td><a href="#L254">254</a></td><td>MENDEZ:  Screen off. Mister Spock, I'm truly amazed at your technical prowess in somehow manufacturing all this. I congratulate you on your imagination. But this is a court of space law, not a theatre.</td></tr>
 
-  NUMBER ONE [on screen]
-     No. It's something else. There's still something
-     out there.
+<tr id="L255"><td><a href="#L255">255</a></td><td>SPOCK:  Captain, please tell the court this is not imagination, nor some clever photographic record. Are we seeing the actual events of thirteen years ago? (flash) Yes, gentlemen. On that screen as it happened, the incredible experience of Captain Christopher Pike on Talos Four. If, after witnessing this, the court wishes to turn this vessel back, I will release this ship to manual control.</td></tr>
 
-  SPOCK
-     As I stated, gentlemen, this was thirteen years
-     ago. We were on routine patrol when the ship's
-     sensors detected something ahead. At first we were
-     not certain what it was.
+<tr id="L256"><td><a href="#L256">256</a></td><td>MENDEZ:  You're in no position to bargain. This is ridiculous. This man mutinied, stole your ship, abducted Captain Pike. Well, for me this has gone far enough.</td></tr>
 
-  TYLER [on screen]
-     It's coming at the speed of light. Collision
-     course.
+<tr id="L257"><td><a href="#L257">257</a></td><td>KIRK:  We still haven't heard the full story. I vote to continue.</td></tr>
 
+<tr id="L258"><td><a href="#L258">258</a></td><td>MENDEZ:  And I vote we do not. Deadlock, and since I'm</td></tr>
 
-LOCATION--Bridge
+<tr id="L259"><td><a href="#L259">259</a></td><td>KIRK:  Not a deadlock. There's still one member of the trial board to be heard from.</td></tr>
 
-  TYLER
-     The meteorite beam has not deflected it, Captain.
+<tr id="L260"><td><a href="#L260">260</a></td><td>MENDEZ:  Very well. Captain Pike, it's up to you. Do we continue under these conditions? (flash)</td></tr>
 
-  NUMBER ONE
-     Evasive manoeuvres, sir?
+<tr id="L261"><td><a href="#L261">261</a></td><td>KIRK:  Yes.</td></tr>
 
-  PIKE
-     Steady as we go.
+<tr id="L262"><td><a href="#L262">262</a></td><td>SOMEONE: Captain's log supplemental. Mister Spock, on trial for mutiny, has forced the court to accept unusual evidence. On our monitor screen, the voyage of Captain Pike and the Enterprise to the one forbidden world in all the galaxy.</td></tr>
 
-  COMM OFFICER
-     It's a radio wave, sir. We're passing through an
-     old-style distress signal.
+<tr id="L263"><td><a href="#L263">263</a></td><td>MENDEZ:  Screen on.</td></tr>
 
-  PIKE
-     They were keyed to cause interference and attract
-     attention this way.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L264"><td><a href="#L264">264</a></td><td>TYLER:  We've settled into orbit, sir.</td></tr>
 
-  COMM OFFICER
-     A ship in trouble making a forced landing, sir.
-     That's it. No other message.
+<tr id="L265"><td><a href="#L265">265</a></td><td>GEOLOGIST:  Geological lab report complete, Captain.</td></tr>
 
-  TYLER
-     I have a fix. It comes from the Talos star group.
+<tr id="L266"><td><a href="#L266">266</a></td><td>SPOCK:  Preliminary lab survey ready, sir.</td></tr>
 
-  NUMBER ONE
-     We've no ships or Earth colonies that far out.
+<tr id="L267"><td><a href="#L267">267</a></td><td>PIKE:  Spectography?</td></tr>
 
-  SPOCK
-     Their call letters check with a survey expedition.
-     S.S. Columbia disappeared in that region
-     approximately eighteen years ago.
+<tr id="L268"><td><a href="#L268">268</a></td><td>GEOLOGIST:  Our reading shows an oxygen nitrogen atmosphere, sir, heavy with inert elements but well within safety limits.</td></tr>
 
-  TYLER
-     It would take that long for a radio beam to travel
-     from there to here.
+<tr id="L269"><td><a href="#L269">269</a></td><td>PIKE:  Gravity?</td></tr>
 
-  SPOCK
-     Records show the Talos group has never been
-     explored. Solar system similar to Earth, eleven
-     planets. Number four seems to be Class M, oxygen
-     atmosphere.
+<tr id="L270"><td><a href="#L270">270</a></td><td>GEOLOGIST:  Zero point nine of Earth.</td></tr>
 
-  NUMBER ONE
-     Then they could still be alive, even after
-     eighteen years.
+<tr id="L271"><td><a href="#L271">271</a></td><td>TYLER:  Captain? Reflections, sir, from the planet's surface. As I read it, they polarise out as rounded metal bits. Could be parts of a spaceship hull.</td></tr>
 
-  PIKE
-     If they survived the crash.
+<tr id="L272"><td><a href="#L272">272</a></td><td>PIKE:  Prep a landing party of six. You feel up to it?</td></tr>
 
-  SPOCK
-     We aren't going to go, to be certain?
+<tr id="L273"><td><a href="#L273">273</a></td><td>SPOCK:  Yes, sir.</td></tr>
 
-  PIKE
-     Not without any indication of survivors, no.
-     Continue to the Vega Colony and take care of our
-     own sick and injured first. You have the helm.
-     Maintain present course.
+<tr id="L274"><td><a href="#L274">274</a></td><td>TYLER:  Yes, sir.</td></tr>
 
-  NUMBER ONE
-     Yes, sir.
+<tr id="L275"><td><a href="#L275">275</a></td><td>PIKE:  Sorry, Number One. With little information on this planet, we'll have to leave the ship's most experienced officer here covering us.</td></tr>
 
+<tr id="L276"><td><a href="#L276">276</a></td><td>NUMBER ONE:  Of course, sir.</td></tr>
 
-LOCATION--Pike's quarters
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L277"><td><a href="#L277">277</a></td><td>PIKE:  There's no indication of problems down there, but let's not take chances.</td></tr>
 
-  BOYCE [OC]
-     Boyce here.
+<tr id="L278"><td><a href="#L278">278</a></td><td>PITCAIRN:  Yes, sir. There's a canyon to the left. We can set you there completely unobserved.</td></tr>
 
-  PIKE
-     Drop by my cabin, Doctor. (Boyce enters with bag)
-     What's that? I didn't say there's anything wrong
-     with me.
+<tr id="L279"><td><a href="#L279">279</a></td><td>PIKE:  Right.</td></tr>
 
-  BOYCE
-     I understand we picked up a distress signal.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L280"><td><a href="#L280">280</a></td><td>ANNOTATION: the group explores until they find a rough settlement</td></tr>
 
-  PIKE
-     That's right. Unless we get anything more positive
-     on it, it seems to me the condition of our own
-     crew takes precedent. I'd like to log the ship's
-     doctor's opinion, too.
+<tr id="L281"><td><a href="#L281">281</a></td><td>CREWMAN:  Sir.</td></tr>
 
-  BOYCE
-     Oh, I concur with yours, definitely.
+<tr id="L282"><td><a href="#L282">282</a></td><td>OLD MAN:  They're men. They're humans.</td></tr>
 
-  PIKE
-     Good. I'm glad you do, because we're going to stop
-     first at the Vega Colony and replace anybody who
-     needs hospitalisation and also. What the devil are
-     you putting in there, ice?
+<tr id="L283"><td><a href="#L283">283</a></td><td>PIKE:  Captain Christopher Pike, United Space Ship Enterprise.</td></tr>
 
-  BOYCE
-     Who wants a warm martini?
+<tr id="L284"><td><a href="#L284">284</a></td><td>HASKINS:  Doctor Theodore Haskins, American Continent lnstitute.</td></tr>
 
-  PIKE
-     What makes you think I need one?
+<tr id="L285"><td><a href="#L285">285</a></td><td>SURVIVOR:  Is Earth all right?</td></tr>
 
-  BOYCE
-     Sometimes a man will tell his bartender things
-     he'll never tell his doctor. What's been on your
-     mind, Chris, the fight on Rigel seven?
+<tr id="L286"><td><a href="#L286">286</a></td><td>PIKE:  The same old Earth, and you'll see it very soon.</td></tr>
 
-  PIKE
-     Shouldn't it be? My only yeoman and two others
-     dead, seven injured.
+<tr id="L287"><td><a href="#L287">287</a></td><td>TYLER:  And you won't believe how fast you can get back. Well the time barrier's been broken. Our new ships can</td></tr>
 
-  BOYCE
-     Was there anything you personally could have done
-     to prevent it?
+<tr id="L288"><td><a href="#L288">288</a></td><td>HASKINS:  This is Vina. Her parents are dead. She was born almost as we crashed.</td></tr>
 
-  PIKE
-     Oh, I should have smelled trouble when I saw the
-     swords and the armour. Instead of that, I let
-     myself get trapped in that deserted fortress and
-     attacked by one of their warriors.
+<tr id="L289"><td><a href="#L289">289</a></td><td>ANNOTATION: The reunion is being watched on another screen, by people with big bald heads</td></tr>
 
-  BOYCE
-     Chris, you set standards for yourself no one could
-     meet. You treat everyone on board like a human
-     being except yourself, and now you're tired and
-     you
+<tr id="L290"><td><a href="#L290">290</a></td><td>PIKE:  (as the survivors pack up the settlement) Enterprise.</td></tr>
 
-  PIKE
-     You bet I'm tired. You bet. I'm tired of being
-     responsible for two hundred and three lives. I'm
-     tired of deciding which mission is too risky and
-     which isn't, and who's going on the landing party
-     and who doesn't, and who lives and who dies. Boy,
-     I've had it, Phil.
+<tr id="L291"><td><a href="#L291">291</a></td><td>NUMBER ONE [OC]:  Landing party, come in.</td></tr>
 
-  BOYCE
-     To the point of finally taking my advice, a rest
-     leave?
+<tr id="L292"><td><a href="#L292">292</a></td><td>PIKE:  We'll begin transporting the survivors and their effects up to you very shortly.</td></tr>
 
-  PIKE
-     To the point of considering resigning.
+<tr id="L293"><td><a href="#L293">293</a></td><td>NUMBER ONE [OC]:  Quarters are being prepared, sir. Have I permission to send out scouting and scientific parties now?</td></tr>
 
-  BOYCE
-     And do what?
+<tr id="L294"><td><a href="#L294">294</a></td><td>PIKE:  Yes, affirmative on the</td></tr>
 
-  PIKE
-     Well, for one thing, go home. Nice little town
-     with fifty miles of park land around it. Remember
-     I told you I had two horses, and we used to take
-     some food and ride out all day.
+<tr id="L295"><td><a href="#L295">295</a></td><td>VINA:  You appear to be healthy and intelligent, Captain. A prime specimen.</td></tr>
 
-  BOYCE
-     Ah, that sounds exciting. Ride out with a picnic
-     lunch every day.
+<tr id="L296"><td><a href="#L296">296</a></td><td>NUMBER ONE [OC]:  I didn't get that last message, Captain.</td></tr>
 
-  PIKE
-     I said that's one place I might go. I might go
-     into business on Regulus or on the Orion colony.
+<tr id="L297"><td><a href="#L297">297</a></td><td>PIKE:  Er, affirmative on request. Landing party out.</td></tr>
 
-  BOYCE
-     You, an Orion trader, dealing in green animal
-     women, slaves?
+<tr id="L298"><td><a href="#L298">298</a></td><td>HASKINS:  You must forgive her choice of words, Captain. She's lived her whole life with a collection of aging scientists.</td></tr>
 
-  PIKE
-     The point is this isn't the only life available.
-     There's a whole galaxy of things to choose from.
+<tr id="L299"><td><a href="#L299">299</a></td><td>BOYCE:  If they can, er, spare you a moment, I'd like to make my medical report.</td></tr>
 
-  BOYCE
-     Not for you. A man either lives life as it happens
-     to him, meets it head-on, and licks it, or he
-     turns his back on it and starts to wither away.
+<tr id="L300"><td><a href="#L300">300</a></td><td>VINA:  I think it's time to show the Captain our secret.</td></tr>
 
-  PIKE
-     Now you're beginning to talk like a doctor,
-     bartender.
+<tr id="L301"><td><a href="#L301">301</a></td><td>BOYCE:  Their health is excellent, almost too good.</td></tr>
 
-  BOYCE
-     Take your choice. We both get the same two kinds
-     of customers. The living and the dying.
+<tr id="L302"><td><a href="#L302">302</a></td><td>HASKINS:  There's a reason for our condition, but we've had some doubt if Earth is ready to learn the secret. Let the girl show you. We'll accept your judgment.</td></tr>
 
-  SPOCK [on monitor]
-     Mister Spock here. We're intercepting a follow-up
-     message, sir. There are crash survivors on Talos.
+<tr id="L303"><td><a href="#L303">303</a></td><td>ANNOTATION: Pike follows Vina up a slope to a ledge by a rock face</td></tr>
 
+<tr id="L304"><td><a href="#L304">304</a></td><td>VINA:  You're tired, but don't worry. You'll feel much better soon. Don't you see it? Here and here.</td></tr>
 
-LOCATION--Bridge
+<tr id="L305"><td><a href="#L305">305</a></td><td>PIKE:  I, I don't understand.</td></tr>
 
-  OFFICER
-     (reads) Eleven survivors from crash. Gravity and
-     oxygen within limits. Food and water obtainable,
-     but unless. The message faded at that point, sir.
+<tr id="L306"><td><a href="#L306">306</a></td><td>VINA:  You will. You're a perfect choice.</td></tr>
 
-  PIKE
-     Address intercraft.
+<tr id="L307"><td><a href="#L307">307</a></td><td>ANNOTATION: she vanishes, and so do all the survivors and their encampment. A door opens in the rock face, Pike is knocked out and taken inside. At the settlement -</td></tr>
 
-  TYLER
-     System open.
+<tr id="L308"><td><a href="#L308">308</a></td><td>TYLER:  Captain! (everyone rushes over in time to see the door closing in the rock. They fire their phasers at it to no avail.</td></tr>
 
-  PIKE
-     This is the captain. Our destination is the Talos
-     star group.
+<tr><td></td><td>LOCATION--Hearing room</td></tr>
+<tr id="L309"><td><a href="#L309">309</a></td><td>SPOCK [on screen]:  Spock here.</td></tr>
 
+<tr id="L310"><td><a href="#L310">310</a></td><td>NUMBER ONE [OC]:  Landing party, come in.</td></tr>
 
-LOCATION--Hearing room
+<tr id="L311"><td><a href="#L311">311</a></td><td>SPOCK [on screen]:  There is no survivors' encampment, Number One. This is all some sort of trap. We've lost the Captain. Do you read?</td></tr>
 
-  PIKE [on screen]
-     Our time warp, factor seven.
+<tr id="L312"><td><a href="#L312">312</a></td><td>KIRK:  What is it?</td></tr>
 
-  TYLER [on screen]
-     Course computed and on the screen.
+<tr id="L313"><td><a href="#L313">313</a></td><td>UHURA [OC]:  It's for Commodore Mendez.</td></tr>
 
-  NUMBER ONE [on screen]
-     All decks have acknowledged, sir.
+<tr id="L314"><td><a href="#L314">314</a></td><td>KIRK:  Plead signal for you, sir. Go ahead, Uhura.</td></tr>
 
-  PIKE [on screen]
-     Engage.
+<tr id="L315"><td><a href="#L315">315</a></td><td>UHURA [OC]:  Commodore Mendez, urgent. Subspace monitors show Enterprise receiving transmissions from planet Talos Four in violation of Starfleet General Orders.</td></tr>
 
-  MENDEZ
-     Screen off. Mister Spock, I'm truly amazed at your
-     technical prowess in somehow manufacturing all
-     this. I congratulate you on your imagination. But
-     this is a court of space law, not a theatre.
+<tr id="L316"><td><a href="#L316">316</a></td><td>KIRK:  Receiving transmissions from Talos Four? Then the images we've been seeing are</td></tr>
 
-  SPOCK
-     Captain, please tell the court this is not
-     imagination, nor some clever photographic record.
-     Are we seeing the actual events of thirteen years
-     ago? (flash) Yes, gentlemen. On that screen as it
-     happened, the incredible experience of Captain
-     Christopher Pike on Talos Four. If, after
-     witnessing this, the court wishes to turn this
-     vessel back, I will release this ship to manual
-     control.
+<tr id="L317"><td><a href="#L317">317</a></td><td>SPOCK:  Are coming from Talos Four, sir.</td></tr>
 
-  MENDEZ
-     You're in no position to bargain. This is
-     ridiculous. This man mutinied, stole your ship,
-     abducted Captain Pike. Well, for me this has gone
-     far enough.
+<tr id="L318"><td><a href="#L318">318</a></td><td>UHURA [OC]:  Captain Kirk is here by relieved. You are ordered to assume command of the Enterprise. Disable vessel if necessary to prevent further contact. Message signed ComSol, Starfleet Command.</td></tr>
 
-  KIRK
-     We still haven't heard the full story. I vote to
-     continue.
+<tr id="L319"><td><a href="#L319">319</a></td><td>MENDEZ:  Mister Spock, you're aware of the orders regarding any contact with Talos Four. You have deliberately invited the death penalty. You've not only finished yourself, Spock, but you've finished your Captain as well.</td></tr>
 
-  MENDEZ
-     And I vote we do not. Deadlock, and since I'm
+<tr id="L320"><td><a href="#L320">320</a></td><td>SPOCK:  The Commodore must be aware that Captain Kirk knew nothing of this.</td></tr>
 
-  KIRK
-     Not a deadlock. There's still one member of the
-     trial board to be heard from.
+<tr id="L321"><td><a href="#L321">321</a></td><td>MENDEZ:  And you're aware a Captain is responsible for everything that occurs on his ship. I order you to return this vessel back to manual control.</td></tr>
 
-  MENDEZ
-     Very well. Captain Pike, it's up to you. Do we
-     continue under these conditions? (flash)
+<tr id="L322"><td><a href="#L322">322</a></td><td>SPOCK:  Sir, I respectfully decline.</td></tr>
 
-  KIRK
-     Yes.
+<tr id="L323"><td><a href="#L323">323</a></td><td>MENDEZ:  Very well. You've earned the consequences. This court is in recess.</td></tr>
 
-  SOMEONE
-     Captain's log supplemental. Mister Spock, on trial
-     for mutiny, has forced the court to accept unusual
-     evidence. On our monitor screen, the voyage of
-     Captain Pike and the Enterprise to the one
-     forbidden world in all the galaxy.
+<tr id="L324"><td><a href="#L324">324</a></td><td>ANNOTATION: Mendez and yeoman leave, Scott and McCoy wheel Pike out after him</td></tr>
 
-  MENDEZ
-     Screen on.
+<tr id="L325"><td><a href="#L325">325</a></td><td>KIRK:  Do you know what you're doing? Have you lost your mind?</td></tr>
 
+<tr id="L326"><td><a href="#L326">326</a></td><td>SPOCK:  Captain, Jim, please don't stop me. Don't let him stop me. It's your career and Captain Pike's life. You must see the rest of the transmission.</td></tr>
 
-LOCATION--Bridge
+<tr id="L327"><td><a href="#L327">327</a></td><td>KIRK:  Lock him up.</td></tr>
 
-  TYLER
-     We've settled into orbit, sir.
+<tr id="L328"><td><a href="#L328">328</a></td><td>SOMEONE: To be concluded next week...</td></tr>
 
-  GEOLOGIST
-     Geological lab report complete, Captain.
-
-  SPOCK
-     Preliminary lab survey ready, sir.
-
-  PIKE
-     Spectography?
-
-  GEOLOGIST
-     Our reading shows an oxygen nitrogen atmosphere,
-     sir, heavy with inert elements but well within
-     safety limits.
-
-  PIKE
-     Gravity?
-
-  GEOLOGIST
-     Zero point nine of Earth.
-
-  TYLER
-     Captain? Reflections, sir, from the planet's
-     surface. As I read it, they polarise out as
-     rounded metal bits. Could be parts of a spaceship
-     hull.
-
-  PIKE
-     Prep a landing party of six. You feel up to it?
-
-  SPOCK
-     Yes, sir.
-
-  TYLER
-     Yes, sir.
-
-  PIKE
-     Sorry, Number One. With little information on this
-     planet, we'll have to leave the ship's most
-     experienced officer here covering us.
-
-  NUMBER ONE
-     Of course, sir.
-
-
-LOCATION--Transporter room
-
-  PIKE
-     There's no indication of problems down there, but
-     let's not take chances.
-
-  PITCAIRN
-     Yes, sir. There's a canyon to the left. We can set
-     you there completely unobserved.
-
-  PIKE
-     Right.
-
-
-LOCATION--Planet surface
-
-  ANNOTATION
-     the group explores until they find a rough
-     settlement
-
-  CREWMAN
-     Sir.
-
-  OLD MAN
-     They're men. They're humans.
-
-  PIKE
-     Captain Christopher Pike, United Space Ship
-     Enterprise.
-
-  HASKINS
-     Doctor Theodore Haskins, American Continent
-     lnstitute.
-
-  SURVIVOR
-     Is Earth all right?
-
-  PIKE
-     The same old Earth, and you'll see it very soon.
-
-  TYLER
-     And you won't believe how fast you can get back.
-     Well the time barrier's been broken. Our new ships
-     can
-
-  HASKINS
-     This is Vina. Her parents are dead. She was born
-     almost as we crashed.
-
-  ANNOTATION
-     The reunion is being watched on another screen, by
-     people with big bald heads
-
-  PIKE
-     (as the survivors pack up the settlement)
-     Enterprise.
-
-  NUMBER ONE [OC]
-     Landing party, come in.
-
-  PIKE
-     We'll begin transporting the survivors and their
-     effects up to you very shortly.
-
-  NUMBER ONE [OC]
-     Quarters are being prepared, sir. Have I
-     permission to send out scouting and scientific
-     parties now?
-
-  PIKE
-     Yes, affirmative on the
-
-  VINA
-     You appear to be healthy and intelligent, Captain.
-     A prime specimen.
-
-  NUMBER ONE [OC]
-     I didn't get that last message, Captain.
-
-  PIKE
-     Er, affirmative on request. Landing party out.
-
-  HASKINS
-     You must forgive her choice of words, Captain.
-     She's lived her whole life with a collection of
-     aging scientists.
-
-  BOYCE
-     If they can, er, spare you a moment, I'd like to
-     make my medical report.
-
-  VINA
-     I think it's time to show the Captain our secret.
-
-  BOYCE
-     Their health is excellent, almost too good.
-
-  HASKINS
-     There's a reason for our condition, but we've had
-     some doubt if Earth is ready to learn the secret.
-     Let the girl show you. We'll accept your judgment.
-
-  ANNOTATION
-     Pike follows Vina up a slope to a ledge by a rock
-     face
-
-  VINA
-     You're tired, but don't worry. You'll feel much
-     better soon. Don't you see it? Here and here.
-
-  PIKE
-     I, I don't understand.
-
-  VINA
-     You will. You're a perfect choice.
-
-  ANNOTATION
-     she vanishes, and so do all the survivors and
-     their encampment. A door opens in the rock face,
-     Pike is knocked out and taken inside. At the
-     settlement -
-
-  TYLER
-     Captain! (everyone rushes over in time to see the
-     door closing in the rock. They fire their phasers
-     at it to no avail.
-
-
-LOCATION--Hearing room
-
-  SPOCK [on screen]
-     Spock here.
-
-  NUMBER ONE [OC]
-     Landing party, come in.
-
-  SPOCK [on screen]
-     There is no survivors' encampment, Number One.
-     This is all some sort of trap. We've lost the
-     Captain. Do you read?
-
-  KIRK
-     What is it?
-
-  UHURA [OC]
-     It's for Commodore Mendez.
-
-  KIRK
-     Plead signal for you, sir. Go ahead, Uhura.
-
-  UHURA [OC]
-     Commodore Mendez, urgent. Subspace monitors show
-     Enterprise receiving transmissions from planet
-     Talos Four in violation of Starfleet General
-     Orders.
-
-  KIRK
-     Receiving transmissions from Talos Four? Then the
-     images we've been seeing are
-
-  SPOCK
-     Are coming from Talos Four, sir.
-
-  UHURA [OC]
-     Captain Kirk is here by relieved. You are ordered
-     to assume command of the Enterprise. Disable
-     vessel if necessary to prevent further contact.
-     Message signed ComSol, Starfleet Command.
-
-  MENDEZ
-     Mister Spock, you're aware of the orders regarding
-     any contact with Talos Four. You have deliberately
-     invited the death penalty. You've not only
-     finished yourself, Spock, but you've finished your
-     Captain as well.
-
-  SPOCK
-     The Commodore must be aware that Captain Kirk knew
-     nothing of this.
-
-  MENDEZ
-     And you're aware a Captain is responsible for
-     everything that occurs on his ship. I order you to
-     return this vessel back to manual control.
-
-  SPOCK
-     Sir, I respectfully decline.
-
-  MENDEZ
-     Very well. You've earned the consequences. This
-     court is in recess.
-
-  ANNOTATION
-     Mendez and yeoman leave, Scott and McCoy wheel
-     Pike out after him
-
-  KIRK
-     Do you know what you're doing? Have you lost your
-     mind?
-
-  SPOCK
-     Captain, Jim, please don't stop me. Don't let him
-     stop me. It's your career and Captain Pike's life.
-     You must see the rest of the transmission.
-
-  KIRK
-     Lock him up.
-
-  SOMEONE
-     To be concluded next week...
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

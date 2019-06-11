@@ -1,1791 +1,936 @@
-Life Line
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Life Line</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Shuttlecraft</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>BARCLAY:  Shuttlecraft Dawkins to Jupiter Station.</td></tr>
 
-LOCATION--Shuttlecraft
+<tr id="L2"><td><a href="#L2">2</a></td><td>WOMAN [OC]:  Go ahead.</td></tr>
 
-  BARCLAY
-     Shuttlecraft Dawkins to Jupiter Station.
+<tr id="L3"><td><a href="#L3">3</a></td><td>BARCLAY:  This is Lieutenant Reginald Barclay requesting permission to dock.</td></tr>
 
-  WOMAN [OC]
-     Go ahead.
+<tr id="L4"><td><a href="#L4">4</a></td><td>WOMAN [OC]:  Granted.</td></tr>
 
-  BARCLAY
-     This is Lieutenant Reginald Barclay requesting
-     permission to dock.
+<tr><td></td><td>LOCATION--Zimmerman's living quarters</td></tr>
+<tr id="L5"><td><a href="#L5">5</a></td><td>ZIMMERMAN [OC]:  What? What is it?</td></tr>
 
-  WOMAN [OC]
-     Granted.
+<tr id="L6"><td><a href="#L6">6</a></td><td>BARCLAY [OC]:  It's me, sir, Reg Barclay.</td></tr>
 
+<tr id="L7"><td><a href="#L7">7</a></td><td>ZIMMERMAN [OC]:  Come in.</td></tr>
 
-LOCATION--Zimmerman's living quarters
+<tr id="L8"><td><a href="#L8">8</a></td><td>ANNOTATION: An iguana is lounging on a console.</td></tr>
 
-  ZIMMERMAN [OC]
-     What? What is it?
+<tr id="L9"><td><a href="#L9">9</a></td><td>BARCLAY:  Doctor Z? How are you?</td></tr>
 
-  BARCLAY [OC]
-     It's me, sir, Reg Barclay.
+<tr id="L10"><td><a href="#L10">10</a></td><td>ANNOTATION: We are shown a grey haired version of our EMH.</td></tr>
 
-  ZIMMERMAN [OC]
-     Come in.
+<tr id="L11"><td><a href="#L11">11</a></td><td>ZIMMERMAN:  Nice of you to finally drop by.</td></tr>
 
-  ANNOTATION
-     An iguana is lounging on a console.
+<tr id="L12"><td><a href="#L12">12</a></td><td>BARCLAY:  I've been extremely busy. The, er, Pathfinder project.</td></tr>
 
-  BARCLAY
-     Doctor Z? How are you?
+<tr id="L13"><td><a href="#L13">13</a></td><td>ZIMMERMAN:  You're still searching for that ship? What's it called, Pioneer?</td></tr>
 
-  ANNOTATION
-     We are shown a grey haired version of our EMH.
+<tr id="L14"><td><a href="#L14">14</a></td><td>BARCLAY:  Er, Voyager.</td></tr>
 
-  ZIMMERMAN
-     Nice of you to finally drop by.
+<tr id="L15"><td><a href="#L15">15</a></td><td>ZIMMERMAN:  Voyager. Any luck?</td></tr>
 
-  BARCLAY
-     I've been extremely busy. The, er, Pathfinder
-     project.
+<tr id="L16"><td><a href="#L16">16</a></td><td>BARCLAY:  Actually, we're on the verge of a breakthrough. A communications link.</td></tr>
 
-  ZIMMERMAN
-     You're still searching for that ship? What's it
-     called, Pioneer?
+<tr id="L17"><td><a href="#L17">17</a></td><td>ZIMMERMAN:  Congratulations. The first transgalactic phone call.</td></tr>
 
-  BARCLAY
-     Er, Voyager.
+<tr id="L18"><td><a href="#L18">18</a></td><td>BARCLAY:  Is there any word from Starfleet Medical?</td></tr>
 
-  ZIMMERMAN
-     Voyager. Any luck?
+<tr id="L19"><td><a href="#L19">19</a></td><td>ZIMMERMAN:  Doctors. I've been scanned and probed a hundred times and they still can't tell me what's wrong.</td></tr>
 
-  BARCLAY
-     Actually, we're on the verge of a breakthrough. A
-     communications link.
+<tr id="L20"><td><a href="#L20">20</a></td><td>BARCLAY:  I'm sure it's only a matter of time.</td></tr>
 
-  ZIMMERMAN
-     Congratulations. The first transgalactic phone
-     call.
+<tr id="L21"><td><a href="#L21">21</a></td><td>ZIMMERMAN:  I'm dying, Reginald. And there's nothing anybody can do about it.</td></tr>
 
-  BARCLAY
-     Is there any word from Starfleet Medical?
+<tr><td></td><td>LOCATION--Astrometrics lab</td></tr>
+<tr id="L22"><td><a href="#L22">22</a></td><td>ANNOTATION: A signal leaves Earth, gets boosted by the MIDAS array and arrives at -</td></tr>
 
-  ZIMMERMAN
-     Doctors. I've been scanned and probed a hundred
-     times and they still can't tell me what's wrong.
+<tr id="L23"><td><a href="#L23">23</a></td><td>SEVEN:  Seven of Nine to the bridge.</td></tr>
 
-  BARCLAY
-     I'm sure it's only a matter of time.
+<tr id="L24"><td><a href="#L24">24</a></td><td>JANEWAY [OC]:  Go ahead.</td></tr>
 
-  ZIMMERMAN
-     I'm dying, Reginald. And there's nothing anybody
-     can do about it.
+<tr id="L25"><td><a href="#L25">25</a></td><td>SEVEN:  We're receiving a transmission from Starfleet.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L26"><td><a href="#L26">26</a></td><td>JANEWAY:  Route it here.</td></tr>
 
-LOCATION--Astrometrics lab
+<tr><td></td><td>LOCATION--Astrometrics lab</td></tr>
+<tr id="L27"><td><a href="#L27">27</a></td><td>SEVEN:  It's not a comm. link, Captain. It appears to be</td></tr>
 
-  ANNOTATION
-     A signal leaves Earth, gets boosted by the MIDAS
-     array and arrives at -
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L28"><td><a href="#L28">28</a></td><td>SEVEN [OC]:  A compressed datastream, badly degraded.</td></tr>
 
-  SEVEN
-     Seven of Nine to the bridge.
+<tr id="L29"><td><a href="#L29">29</a></td><td>JANEWAY:  On my way.</td></tr>
 
-  JANEWAY [OC]
-     Go ahead.
+<tr><td></td><td>LOCATION--Briefing room</td></tr>
+<tr id="L30"><td><a href="#L30">30</a></td><td>JANEWAY:  They say good things come in small packages. This is all the data they could send us, until next month.</td></tr>
 
-  SEVEN
-     We're receiving a transmission from Starfleet.
+<tr id="L31"><td><a href="#L31">31</a></td><td>TORRES:  Next month?</td></tr>
 
+<tr id="L32"><td><a href="#L32">32</a></td><td>CHAKOTAY:  They're using a cyclic pulsar to amplify signals from the MIDAS array, but the cycle only peaks every thirty two days.</td></tr>
 
-LOCATION--Bridge
+<tr id="L33"><td><a href="#L33">33</a></td><td>JANEWAY:  So once a month we'll be able to receive a short burst of information. And we'll have about seventeen hours to respond.</td></tr>
 
-  JANEWAY
-     Route it here.
+<tr id="L34"><td><a href="#L34">34</a></td><td>CHAKOTAY:  So far we've gotten tactical updates, letters from home, and news about the Alpha Quadrant.</td></tr>
 
+<tr id="L35"><td><a href="#L35">35</a></td><td>KIM:  I don't suppose they found us a shortcut home.</td></tr>
 
-LOCATION--Astrometrics lab
+<tr id="L36"><td><a href="#L36">36</a></td><td>CHAKOTAY:  It doesn't look that way.</td></tr>
 
-  SEVEN
-     It's not a comm. link, Captain. It appears to be
+<tr id="L37"><td><a href="#L37">37</a></td><td>JANEWAY:  We don't have much time to prepare a response, and we'll have to keep it short, but I want to give everyone an opportunity to send something. Even if it's only a brief note.</td></tr>
 
+<tr id="L38"><td><a href="#L38">38</a></td><td>ANNOTATION: This is directed at Tuvok.</td></tr>
 
-LOCATION--Bridge
+<tr id="L39"><td><a href="#L39">39</a></td><td>JANEWAY:  Inform the crew.</td></tr>
 
-  SEVEN [OC]
-     A compressed datastream, badly degraded.
+<tr id="L40"><td><a href="#L40">40</a></td><td>PARIS:  Yes, ma'am.</td></tr>
 
-  JANEWAY
-     On my way.
+<tr id="L41"><td><a href="#L41">41</a></td><td>KIM:  Aye, Captain.</td></tr>
 
+<tr id="L42"><td><a href="#L42">42</a></td><td>JANEWAY:  Lieutenant Barclay, the Pathfinder Project. They didn't give up on us. So when you write those letters, you might want to thank them.</td></tr>
 
-LOCATION--Briefing room
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L43"><td><a href="#L43">43</a></td><td>NEELIX:  Mail call.</td></tr>
 
-  JANEWAY
-     They say good things come in small packages. This
-     is all the data they could send us, until next
-     month.
+<tr id="L44"><td><a href="#L44">44</a></td><td>EMH:  A letter? For me? Oh, it's from Lieutenant Barclay.</td></tr>
 
-  TORRES
-     Next month?
+<tr id="L45"><td><a href="#L45">45</a></td><td>NEELIX:  Bad news?</td></tr>
 
-  CHAKOTAY
-     They're using a cyclic pulsar to amplify signals
-     from the MIDAS array, but the cycle only peaks
-     every thirty two days.
+<tr id="L46"><td><a href="#L46">46</a></td><td>EMH:  Lewis Zimmerman. Apparently, he's seriously ill.</td></tr>
 
-  JANEWAY
-     So once a month we'll be able to receive a short
-     burst of information. And we'll have about
-     seventeen hours to respond.
+<tr id="L47"><td><a href="#L47">47</a></td><td>NEELIX:  Zimmerman?</td></tr>
 
-  CHAKOTAY
-     So far we've gotten tactical updates, letters from
-     home, and news about the Alpha Quadrant.
+<tr id="L48"><td><a href="#L48">48</a></td><td>EMH:  He's the father of modern holography. He invented the matrix that made my programme possible.</td></tr>
 
-  KIM
-     I don't suppose they found us a shortcut home.
+<tr id="L49"><td><a href="#L49">49</a></td><td>NEELIX:  Oh. What's wrong with him?</td></tr>
 
-  CHAKOTAY
-     It doesn't look that way.
+<tr id="L50"><td><a href="#L50">50</a></td><td>EMH:  He's suffering from acute subcellular degradation. The doctors here are having trouble finding the cause, much less a treatment. I've included his medical files. As you'll see, the prognosis isn't good. They say he's only got a few months. I'm sorry I don't have better news to report, but I thought you'd want to know.</td></tr>
 
-  JANEWAY
-     We don't have much time to prepare a response, and
-     we'll have to keep it short, but I want to give
-     everyone an opportunity to send something. Even if
-     it's only a brief note.
+<tr id="L51"><td><a href="#L51">51</a></td><td>NEELIX:  How well did you know him?</td></tr>
 
-  ANNOTATION
-     This is directed at Tuvok.
+<tr id="L52"><td><a href="#L52">52</a></td><td>EMH:  I've never met the man.</td></tr>
 
-  JANEWAY
-     Inform the crew.
+<tr id="L53"><td><a href="#L53">53</a></td><td>NEELIX:  If you'd like to send a response, the captain will need it by nineteen hundred hours.</td></tr>
 
-  PARIS
-     Yes, ma'am.
+<tr><td></td><td>LOCATION--Doctor's office</td></tr>
+<tr id="L54"><td><a href="#L54">54</a></td><td>ANNOTATION: The EMH is reviewing Patient Profile 1027, Zimmerman, Lewis.</td></tr>
 
-  KIM
-     Aye, Captain.
+<tr id="L55"><td><a href="#L55">55</a></td><td>SEVEN:  Here's the information you requested.</td></tr>
 
-  JANEWAY
-     Lieutenant Barclay, the Pathfinder Project. They
-     didn't give up on us. So when you write those
-     letters, you might want to thank them.
+<tr id="L56"><td><a href="#L56">56</a></td><td>EMH:  Thank you.</td></tr>
 
+<tr id="L57"><td><a href="#L57">57</a></td><td>SEVEN:  You're reviewing his medical data.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L58"><td><a href="#L58">58</a></td><td>EMH:  I thought I could send Starfleet a second opinion. It's a long shot, but maybe my experiences in the Delta Quadrant could provide some insights. I was hoping these Borg regeneration techniques might help them develop a treatment for his condition.</td></tr>
 
-  NEELIX
-     Mail call.
+<tr id="L59"><td><a href="#L59">59</a></td><td>SEVEN:  You bear a striking resemblance.</td></tr>
 
-  EMH
-     A letter? For me? Oh, it's from Lieutenant
-     Barclay.
+<tr id="L60"><td><a href="#L60">60</a></td><td>EMH:  He used his own physical parameters as a model for my matrix. Can't say I blame him. A doctor needs to inspire confidence in his patients. Compassionate eyes and a strong chin can go a long way.</td></tr>
 
-  NEELIX
-     Bad news?
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L61"><td><a href="#L61">61</a></td><td>EMH:  I believe I can help him, Captain.</td></tr>
 
-  EMH
-     Lewis Zimmerman. Apparently, he's seriously ill.
+<tr id="L62"><td><a href="#L62">62</a></td><td>JANEWAY:  How?</td></tr>
 
-  NEELIX
-     Zimmerman?
+<tr id="L63"><td><a href="#L63">63</a></td><td>EMH:  You remember the Vidiians? The early stages of the Phage are very similar to Doctor Zimmerman's disease. I believe I can adapt a variety of Borg regeneration techniques to arrest the cell damage, maybe even reverse it.</td></tr>
 
-  EMH
-     He's the father of modern holography. He invented
-     the matrix that made my programme possible.
+<tr id="L64"><td><a href="#L64">64</a></td><td>JANEWAY:  Make sure to pass along your findings. Thank you, Doctor.</td></tr>
 
-  NEELIX
-     Oh. What's wrong with him?
+<tr id="L65"><td><a href="#L65">65</a></td><td>EMH:  Actually, I was hoping to administer the treatment myself.</td></tr>
 
-  EMH
-     He's suffering from acute subcellular degradation.
-     The doctors here are having trouble finding the
-     cause, much less a treatment. I've included his
-     medical files. As you'll see, the prognosis isn't
-     good. They say he's only got a few months. I'm
-     sorry I don't have better news to report, but I
-     thought you'd want to know.
+<tr id="L66"><td><a href="#L66">66</a></td><td>JANEWAY:  What are you suggesting?</td></tr>
 
-  NEELIX
-     How well did you know him?
+<tr id="L67"><td><a href="#L67">67</a></td><td>EMH:  I'd like you to send my programme back to the Alpha Quadrant. None of the Doctors at Starfleet are familiar with these techniques. It would take them months to fully understand them, much less put them to use.</td></tr>
 
-  EMH
-     I've never met the man.
+<tr id="L68"><td><a href="#L68">68</a></td><td>JANEWAY:  Even if we could send you, you're needed here.</td></tr>
 
-  NEELIX
-     If you'd like to send a response, the captain will
-     need it by nineteen hundred hours.
+<tr id="L69"><td><a href="#L69">69</a></td><td>EMH:  Mister Paris can take over Sickbay. He's more than capable. We've done this once before. There weren't any problems.</td></tr>
 
+<tr id="L70"><td><a href="#L70">70</a></td><td>JANEWAY:  Three years ago, and we used alien technology.</td></tr>
 
-LOCATION--Doctor's office
+<tr id="L71"><td><a href="#L71">71</a></td><td>EMH:  I've spoken to Seven of Nine. She believes we can compress my programme.</td></tr>
 
-  ANNOTATION
-     The EMH is reviewing Patient Profile 1027,
-     Zimmerman, Lewis.
+<tr id="L72"><td><a href="#L72">72</a></td><td>JANEWAY:  There's limited space in the datastream. If we send you, there won't be room for anything else.</td></tr>
 
-  SEVEN
-     Here's the information you requested.
+<tr id="L73"><td><a href="#L73">73</a></td><td>EMH:  I realise I'd be asking the crew to make a sacrifice on my behalf, but they can wait another month. Doctor Zimmerman might not have that time.</td></tr>
 
-  EMH
-     Thank you.
+<tr id="L74"><td><a href="#L74">74</a></td><td>JANEWAY:  I'm sorry he's not doing well. Unusual man. I met him once at a conference. He managed to offend just about everyone there, but he was certainly brilliant. I'm sure Starfleet is consulting their best physicians, Doctor.</td></tr>
 
-  SEVEN
-     You're reviewing his medical data.
+<tr id="L75"><td><a href="#L75">75</a></td><td>EMH:  They are, but no one's been able to develop a cure. I have. But I can't treat a patient who's thirty thousand light years away.</td></tr>
 
-  EMH
-     I thought I could send Starfleet a second opinion.
-     It's a long shot, but maybe my experiences in the
-     Delta Quadrant could provide some insights. I was
-     hoping these Borg regeneration techniques might
-     help them develop a treatment for his condition.
+<tr id="L76"><td><a href="#L76">76</a></td><td>JANEWAY:  I'm sorry.</td></tr>
 
-  SEVEN
-     You bear a striking resemblance.
+<tr id="L77"><td><a href="#L77">77</a></td><td>EMH:  Captain.</td></tr>
 
-  EMH
-     He used his own physical parameters as a model for
-     my matrix. Can't say I blame him. A doctor needs
-     to inspire confidence in his patients.
-     Compassionate eyes and a strong chin can go a long
-     way.
+<tr id="L78"><td><a href="#L78">78</a></td><td>JANEWAY:  This is the first time we're attempting to send a response. We don't know if it will even get through.</td></tr>
 
+<tr id="L79"><td><a href="#L79">79</a></td><td>EMH:  I'm willing to take that risk.</td></tr>
 
-LOCATION--Ready room
+<tr id="L80"><td><a href="#L80">80</a></td><td>JANEWAY:  I'm not.</td></tr>
 
-  EMH
-     I believe I can help him, Captain.
+<tr id="L81"><td><a href="#L81">81</a></td><td>EMH:  He programmed me. Every algorithm, every subroutine. If it weren't for his years of work, I wouldn't be standing here. I owe him something. And frankly, so does this crew. In a way, he's responsible for every life I've saved.</td></tr>
 
-  JANEWAY
-     How?
+<tr id="L82"><td><a href="#L82">82</a></td><td>JANEWAY:  Lewis Zimmerman designed the template for Starfleet's EMH. You're one of thousands based on that technology. It's not as though he's your father.</td></tr>
 
-  EMH
-     You remember the Vidiians? The early stages of the
-     Phage are very similar to Doctor Zimmerman's
-     disease. I believe I can adapt a variety of Borg
-     regeneration techniques to arrest the cell damage,
-     maybe even reverse it.
+<tr id="L83"><td><a href="#L83">83</a></td><td>EMH:  From your perspective. From mine, he's the closest thing I've got. If I don't try to help him now, I may never get the chance.</td></tr>
 
-  JANEWAY
-     Make sure to pass along your findings. Thank you,
-     Doctor.
+<tr id="L84"><td><a href="#L84">84</a></td><td>JANEWAY:  You'll have to find a way to convince Tom to take those duty shifts.</td></tr>
 
-  EMH
-     Actually, I was hoping to administer the treatment
-     myself.
+<tr id="L85"><td><a href="#L85">85</a></td><td>EMH:  He's already agreed.</td></tr>
 
-  JANEWAY
-     What are you suggesting?
+<tr id="L86"><td><a href="#L86">86</a></td><td>JANEWAY:  Tell him Captain Jane said hello. That's what he kept calling me at the conference. I think he did it just to get on my nerves.</td></tr>
 
-  EMH
-     I'd like you to send my programme back to the
-     Alpha Quadrant. None of the Doctors at Starfleet
-     are familiar with these techniques. It would take
-     them months to fully understand them, much less
-     put them to use.
+<tr id="L87"><td><a href="#L87">87</a></td><td>EMH:  I've heard he can be difficult.</td></tr>
 
-  JANEWAY
-     Even if we could send you, you're needed here.
+<tr id="L88"><td><a href="#L88">88</a></td><td>JANEWAY:  I certainly hope you get a chance to find out.</td></tr>
 
-  EMH
-     Mister Paris can take over Sickbay. He's more than
-     capable. We've done this once before. There
-     weren't any problems.
+<tr id="L89"><td><a href="#L89">89</a></td><td>EMH:  Thank you, Captain.</td></tr>
 
-  JANEWAY
-     Three years ago, and we used alien technology.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L90"><td><a href="#L90">90</a></td><td>ANNOTATION: The EMH is in his office humming La Donna e Mobile. When he tries to sing, nothing comes out. He goes out to speak to Seven.</td></tr>
 
-  EMH
-     I've spoken to Seven of Nine. She believes we can
-     compress my programme.
+<tr id="L91"><td><a href="#L91">91</a></td><td>EMH:  My vocal processor.</td></tr>
 
-  JANEWAY
-     There's limited space in the datastream. If we
-     send you, there won't be room for anything else.
+<tr id="L92"><td><a href="#L92">92</a></td><td>SEVEN:  It's not a malfunction. I've removed your singing algorithms. They'll be stored in a memory buffer until you return.</td></tr>
 
-  EMH
-     I realise I'd be asking the crew to make a
-     sacrifice on my behalf, but they can wait another
-     month. Doctor Zimmerman might not have that time.
+<tr id="L93"><td><a href="#L93">93</a></td><td>EMH:  Why?</td></tr>
 
-  JANEWAY
-     I'm sorry he's not doing well. Unusual man. I met
-     him once at a conference. He managed to offend
-     just about everyone there, but he was certainly
-     brilliant. I'm sure Starfleet is consulting their
-     best physicians, Doctor.
+<tr id="L94"><td><a href="#L94">94</a></td><td>SEVEN:  Your programme's too large for the datastream. I have to extract all non-essential subroutines.</td></tr>
 
-  EMH
-     They are, but no one's been able to develop a
-     cure. I have. But I can't treat a patient who's
-     thirty thousand light years away.
+<tr id="L95"><td><a href="#L95">95</a></td><td>EMH:  They're essential to me. They're part of who I am.</td></tr>
 
-  JANEWAY
-     I'm sorry.
+<tr id="L96"><td><a href="#L96">96</a></td><td>SEVEN:  Are you planning on performing opera during your visit?</td></tr>
 
-  EMH
-     Captain.
+<tr id="L97"><td><a href="#L97">97</a></td><td>EMH:  No.</td></tr>
 
-  JANEWAY
-     This is the first time we're attempting to send a
-     response. We don't know if it will even get
-     through.
+<tr id="L98"><td><a href="#L98">98</a></td><td>SEVEN:  Will you be reciting poetry?</td></tr>
 
-  EMH
-     I'm willing to take that risk.
+<tr id="L99"><td><a href="#L99">99</a></td><td>EMH:  Doubtful.</td></tr>
 
-  JANEWAY
-     I'm not.
+<tr id="L100"><td><a href="#L100">100</a></td><td>SEVEN:  Hoverball? Holophotography?</td></tr>
 
-  EMH
-     He programmed me. Every algorithm, every
-     subroutine. If it weren't for his years of work, I
-     wouldn't be standing here. I owe him something.
-     And frankly, so does this crew. In a way, he's
-     responsible for every life I've saved.
+<tr id="L101"><td><a href="#L101">101</a></td><td>EMH:  I may want to take a few snapshots to document my trip.</td></tr>
 
-  JANEWAY
-     Lewis Zimmerman designed the template for
-     Starfleet's EMH. You're one of thousands based on
-     that technology. It's not as though he's your
-     father.
+<tr id="L102"><td><a href="#L102">102</a></td><td>SEVEN:  Sexual activities?</td></tr>
 
-  EMH
-     From your perspective. From mine, he's the closest
-     thing I've got. If I don't try to help him now, I
-     may never get the chance.
+<tr id="L103"><td><a href="#L103">103</a></td><td>EMH:  I get the point. How much has to be left behind?</td></tr>
 
-  JANEWAY
-     You'll have to find a way to convince Tom to take
-     those duty shifts.
+<tr id="L104"><td><a href="#L104">104</a></td><td>SEVEN:  Twelve megaquads.</td></tr>
 
-  EMH
-     He's already agreed.
+<tr id="L105"><td><a href="#L105">105</a></td><td>EMH:  I suppose you could get rid of my athletic abilities and my grand master chess programme.</td></tr>
 
-  JANEWAY
-     Tell him Captain Jane said hello. That's what he
-     kept calling me at the conference. I think he did
-     it just to get on my nerves.
+<tr id="L106"><td><a href="#L106">106</a></td><td>SEVEN:  That leaves three megaquads. Your painting skills?</td></tr>
 
-  EMH
-     I've heard he can be difficult.
+<tr id="L107"><td><a href="#L107">107</a></td><td>EMH:  Oh, if you must. Try to leave a few of my enhancements intact. I don't want to look like every other EMH on the block. I think Doctor Zimmerman will be very interested to see what I've learned. He probably never imagined what one of his own creations could accomplish. I could spark a whole new field in holographic research.</td></tr>
 
-  JANEWAY
-     I certainly hope you get a chance to find out.
+<tr><td></td><td>LOCATION--Astrometrics lab</td></tr>
+<tr id="L108"><td><a href="#L108">108</a></td><td>JANEWAY:  Bon voyage.</td></tr>
 
-  EMH
-     Thank you, Captain.
+<tr id="L109"><td><a href="#L109">109</a></td><td>EMH:  See you in a month.</td></tr>
 
+<tr id="L110"><td><a href="#L110">110</a></td><td>KIM:  Don't get lost.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L111"><td><a href="#L111">111</a></td><td>ANNOTATION: Kim removes the mobile emitter.</td></tr>
 
-  ANNOTATION
-     The EMH is in his office humming La Donna e
-     Mobile. When he tries to sing, nothing comes out.
-     He goes out to speak to Seven.
+<tr><td></td><td>LOCATION--Zimmerman's living quarters</td></tr>
+<tr id="L112"><td><a href="#L112">112</a></td><td>ANNOTATION: A woman waves her hand over a salad.</td></tr>
 
-  EMH
-     My vocal processor.
+<tr id="L113"><td><a href="#L113">113</a></td><td>HALEY:  (to fly) If I've told you once, I've told you a thousand times. Stay off the food.</td></tr>
 
-  SEVEN
-     It's not a malfunction. I've removed your singing
-     algorithms. They'll be stored in a memory buffer
-     until you return.
+<tr id="L114"><td><a href="#L114">114</a></td><td>ZIMMERMAN [OC]:  Haley? Haley, what's the status of my lunch?</td></tr>
 
-  EMH
-     Why?
+<tr id="L115"><td><a href="#L115">115</a></td><td>HALEY:  It's coming, Doctor!</td></tr>
 
-  SEVEN
-     Your programme's too large for the datastream. I
-     have to extract all non-essential subroutines.
+<tr id="L116"><td><a href="#L116">116</a></td><td>ZIMMERMAN [OC]:  As if things weren't bad enough, now I'm dying of starvation.</td></tr>
 
-  EMH
-     They're essential to me. They're part of who I am.
+<tr id="L117"><td><a href="#L117">117</a></td><td>ANNOTATION: Doorbell.</td></tr>
 
-  SEVEN
-     Are you planning on performing opera during your
-     visit?
+<tr id="L118"><td><a href="#L118">118</a></td><td>HALEY:  Come in!</td></tr>
 
-  EMH
-     No.
+<tr id="L119"><td><a href="#L119">119</a></td><td>BARCLAY:  Haley.</td></tr>
 
-  SEVEN
-     Will you be reciting poetry?
+<tr id="L120"><td><a href="#L120">120</a></td><td>HALEY:  Mister Barclay. Is something wrong?</td></tr>
 
-  EMH
-     Doubtful.
+<tr id="L121"><td><a href="#L121">121</a></td><td>BARCLAY:  No, no, just the opposite. Is he in?</td></tr>
 
-  SEVEN
-     Hoverball? Holophotography?
+<tr id="L122"><td><a href="#L122">122</a></td><td>HALEY:  He's not taking visitors today.</td></tr>
 
-  EMH
-     I may want to take a few snapshots to document my
-     trip.
+<tr id="L123"><td><a href="#L123">123</a></td><td>BARCLAY:  Tell him this is important.</td></tr>
 
-  SEVEN
-     Sexual activities?
+<tr id="L124"><td><a href="#L124">124</a></td><td>HALEY:  He's in a prickly mood.</td></tr>
 
-  EMH
-     I get the point. How much has to be left behind?
+<tr id="L125"><td><a href="#L125">125</a></td><td>BARCLAY:  I've brought something with me that might cheer him up. Computer, is the download complete?</td></tr>
 
-  SEVEN
-     Twelve megaquads.
+<tr id="L126"><td><a href="#L126">126</a></td><td>COMPUTER:  Affirmative.</td></tr>
 
-  EMH
-     I suppose you could get rid of my athletic
-     abilities and my grand master chess programme.
+<tr><td></td><td>LOCATION--Zimmerman's lab</td></tr>
+<tr id="L127"><td><a href="#L127">127</a></td><td>HALEY:  Lunch.</td></tr>
 
-  SEVEN
-     That leaves three megaquads. Your painting skills?
+<tr id="L128"><td><a href="#L128">128</a></td><td>ZIMMERMAN:  That's not pork chops.</td></tr>
 
-  EMH
-     Oh, if you must. Try to leave a few of my
-     enhancements intact. I don't want to look like
-     every other EMH on the block. I think Doctor
-     Zimmerman will be very interested to see what I've
-     learned. He probably never imagined what one of
-     his own creations could accomplish. I could spark
-     a whole new field in holographic research.
+<tr id="L129"><td><a href="#L129">129</a></td><td>HALEY:  It's salad.</td></tr>
 
+<tr id="L130"><td><a href="#L130">130</a></td><td>ZIMMERMAN:  I didn't ask for salad.</td></tr>
 
-LOCATION--Astrometrics lab
+<tr id="L131"><td><a href="#L131">131</a></td><td>HALEY:  It's healthy.</td></tr>
 
-  JANEWAY
-     Bon voyage.
+<tr id="L132"><td><a href="#L132">132</a></td><td>ZIMMERMAN:  I'm dying. A piece of meat isn't going to kill me any quicker. Give the plants to Leonard. He's the one trying to watch his weight.</td></tr>
 
-  EMH
-     See you in a month.
+<tr id="L133"><td><a href="#L133">133</a></td><td>ANNOTATION: That will be the iguana.</td></tr>
 
-  KIM
-     Don't get lost.
+<tr id="L134"><td><a href="#L134">134</a></td><td>HALEY:  Lieutenant Barclay is here to see you.</td></tr>
 
-  ANNOTATION
-     Kim removes the mobile emitter.
+<tr id="L135"><td><a href="#L135">135</a></td><td>ZIMMERMAN:  I told you I wasn't</td></tr>
 
+<tr id="L136"><td><a href="#L136">136</a></td><td>HALEY:  He says it's urgent.</td></tr>
 
-LOCATION--Zimmerman's living quarters
+<tr id="L137"><td><a href="#L137">137</a></td><td>ZIMMERMAN:  Can't it wait until I'm dead? All right, send him in. Three minutes. He's got three minutes.</td></tr>
 
-  ANNOTATION
-     A woman waves her hand over a salad.
+<tr id="L138"><td><a href="#L138">138</a></td><td>HALEY:  Be civil to him, Lewis. He's worried about you. We all are.</td></tr>
 
-  HALEY
-     (to fly) If I've told you once, I've told you a
-     thousand times. Stay off the food.
+<tr id="L139"><td><a href="#L139">139</a></td><td>ANNOTATION: Haley leaves, Barclay enters.</td></tr>
 
-  ZIMMERMAN [OC]
-     Haley? Haley, what's the status of my lunch?
+<tr id="L140"><td><a href="#L140">140</a></td><td>BARCLAY:  I found a friend waiting for me at home.</td></tr>
 
-  HALEY
-     It's coming, Doctor!
+<tr id="L141"><td><a href="#L141">141</a></td><td>ZIMMERMAN:  You don't have any friends.</td></tr>
 
-  ZIMMERMAN [OC]
-     As if things weren't bad enough, now I'm dying of
-     starvation.
+<tr id="L142"><td><a href="#L142">142</a></td><td>BARCLAY:  Well, I guess, er, you could say he's a friend of yours.</td></tr>
 
-  ANNOTATION
-     Doorbell.
+<tr id="L143"><td><a href="#L143">143</a></td><td>ANNOTATION: Barclay activates the hologram.</td></tr>
 
-  HALEY
-     Come in!
+<tr id="L144"><td><a href="#L144">144</a></td><td>EMH:  Please state the nature of the medical emergency.</td></tr>
 
-  BARCLAY
-     Haley.
+<tr id="L145"><td><a href="#L145">145</a></td><td>ZIMMERMAN:  An EMH Mark One? I'm not in the mood for nostalgia, Reginald.</td></tr>
 
-  HALEY
-     Mister Barclay. Is something wrong?
+<tr id="L146"><td><a href="#L146">146</a></td><td>BARCLAY:  But this is the Mark One from Voyager.</td></tr>
 
-  BARCLAY
-     No, no, just the opposite. Is he in?
+<tr id="L147"><td><a href="#L147">147</a></td><td>EMH:  I was compressed into a datastream and transmitted from the Delta Quadrant.</td></tr>
 
-  HALEY
-     He's not taking visitors today.
+<tr id="L148"><td><a href="#L148">148</a></td><td>ZIMMERMAN:  Congratulations. I recommend a tour of Jupiter's third moon. I hear the lava flows are lovely this time of year.</td></tr>
 
-  BARCLAY
-     Tell him this is important.
+<tr id="L149"><td><a href="#L149">149</a></td><td>EMH:  I'm not here for a vacation. I'm here to treat your illness.</td></tr>
 
-  HALEY
-     He's in a prickly mood.
+<tr id="L150"><td><a href="#L150">150</a></td><td>ZIMMERMAN:  You brought a Mark One thirty thousand light years to treat me? I was wrong about you, Reginald. You do have a sense of humour.</td></tr>
 
-  BARCLAY
-     I've brought something with me that might cheer
-     him up. Computer, is the download complete?
+<tr id="L151"><td><a href="#L151">151</a></td><td>EMH:  Care to let me in on the joke?</td></tr>
 
-  COMPUTER
-     Affirmative.
+<tr id="L152"><td><a href="#L152">152</a></td><td>ZIMMERMAN:  You didn't tell him?</td></tr>
 
+<tr id="L153"><td><a href="#L153">153</a></td><td>EMH:  Tell me what?</td></tr>
 
-LOCATION--Zimmerman's lab
+<tr id="L154"><td><a href="#L154">154</a></td><td>BARCLAY:  Well, I, er</td></tr>
 
-  HALEY
-     Lunch.
+<tr id="L155"><td><a href="#L155">155</a></td><td>ZIMMERMAN:  You're obsolete, extinct. Yesterday's news.</td></tr>
 
-  ZIMMERMAN
-     That's not pork chops.
+<tr id="L156"><td><a href="#L156">156</a></td><td>EMH:  My programme was retired?</td></tr>
 
-  HALEY
-     It's salad.
+<tr id="L157"><td><a href="#L157">157</a></td><td>ZIMMERMAN:  Retired? Not at all. The EMH Mark One was reconfigured to scrub plasma conduits on waste transfer barges. I've been treated by the Mark Three, the Mark Four, not to mention the finest real doctors in Starfleet. None of them could help me.</td></tr>
 
-  ZIMMERMAN
-     I didn't ask for salad.
+<tr id="L158"><td><a href="#L158">158</a></td><td>BARCLAY:  He has been running almost continuously for six years. He has seen more things than most doctors can even imagine.</td></tr>
 
-  HALEY
-     It's healthy.
+<tr id="L159"><td><a href="#L159">159</a></td><td>EMH:  I also have an exceptionally high tolerance for difficult patients.</td></tr>
 
-  ZIMMERMAN
-     I'm dying. A piece of meat isn't going to kill me
-     any quicker. Give the plants to Leonard. He's the
-     one trying to watch his weight.
+<tr id="L160"><td><a href="#L160">160</a></td><td>ZIMMERMAN:  I didn't programme you for sarcasm.</td></tr>
 
-  ANNOTATION
-     That will be the iguana.
+<tr id="L161"><td><a href="#L161">161</a></td><td>EMH:  You'll find I'm full of surprises.</td></tr>
 
-  HALEY
-     Lieutenant Barclay is here to see you.
+<tr id="L162"><td><a href="#L162">162</a></td><td>ZIMMERMAN:  Show the good Doctor to the plasma generator. I understand there's quite a build-up of residue.</td></tr>
 
-  ZIMMERMAN
-     I told you I wasn't
+<tr id="L163"><td><a href="#L163">163</a></td><td>EMH:  If we had more time, I'd enjoy trading barbs with you. But right now, there's a more pressing concern. Your life. I'm working on a treatment based on a disease I encountered in the Delta Quadrant, but I'll need to run a complete analysis. However, if it's impossible for you to believe that a lowly Mark One could have anything useful to offer, I'll be happy to pack my bags and go explore those sulphur mines.</td></tr>
 
-  HALEY
-     He says it's urgent.
+<tr id="L164"><td><a href="#L164">164</a></td><td>ZIMMERMAN:  Go ahead, scan away.</td></tr>
 
-  ZIMMERMAN
-     Can't it wait until I'm dead? All right, send him
-     in. Three minutes. He's got three minutes.
+<tr id="L165"><td><a href="#L165">165</a></td><td>BARCLAY:  I'll be outside.</td></tr>
 
-  HALEY
-     Be civil to him, Lewis. He's worried about you. We
-     all are.
+<tr id="L166"><td><a href="#L166">166</a></td><td>ANNOTATION: Barclay leaves.</td></tr>
 
-  ANNOTATION
-     Haley leaves, Barclay enters.
+<tr id="L167"><td><a href="#L167">167</a></td><td>EMH:  What were your initial symptoms?</td></tr>
 
-  BARCLAY
-     I found a friend waiting for me at home.
+<tr id="L168"><td><a href="#L168">168</a></td><td>ZIMMERMAN:  Radical hair loss. Fatigue, nausea, joint inflammation.</td></tr>
 
-  ZIMMERMAN
-     You don't have any friends.
+<tr id="L169"><td><a href="#L169">169</a></td><td>EMH:  Have you travelled outside the solar system recently?</td></tr>
 
-  BARCLAY
-     Well, I guess, er, you could say he's a friend of
-     yours.
+<tr id="L170"><td><a href="#L170">170</a></td><td>ZIMMERMAN:  What's that got to do with anything?</td></tr>
 
-  ANNOTATION
-     Barclay activates the hologram.
+<tr id="L171"><td><a href="#L171">171</a></td><td>EMH:  Just answer the question.</td></tr>
 
-  EMH
-     Please state the nature of the medical emergency.
+<tr id="L172"><td><a href="#L172">172</a></td><td>ZIMMERMAN:  I haven't left Jupiter station in over four years.</td></tr>
 
-  ZIMMERMAN
-     An EMH Mark One? I'm not in the mood for
-     nostalgia, Reginald.
+<tr id="L173"><td><a href="#L173">173</a></td><td>EMH:  To your knowledge, have you been exposed to theta radiation?</td></tr>
 
-  BARCLAY
-     But this is the Mark One from Voyager.
+<tr id="L174"><td><a href="#L174">174</a></td><td>ZIMMERMAN:  No.</td></tr>
 
-  EMH
-     I was compressed into a datastream and transmitted
-     from the Delta Quadrant.
+<tr id="L175"><td><a href="#L175">175</a></td><td>EMH:  Neutron flux?</td></tr>
 
-  ZIMMERMAN
-     Congratulations. I recommend a tour of Jupiter's
-     third moon. I hear the lava flows are lovely this
-     time of year.
+<tr id="L176"><td><a href="#L176">176</a></td><td>ZIMMERMAN:  Never.</td></tr>
 
-  EMH
-     I'm not here for a vacation. I'm here to treat
-     your illness.
+<tr id="L177"><td><a href="#L177">177</a></td><td>EMH:  Have you had intimate relations with a Bolian?</td></tr>
 
-  ZIMMERMAN
-     You brought a Mark One thirty thousand light years
-     to treat me? I was wrong about you, Reginald. You
-     do have a sense of humour.
+<tr id="L178"><td><a href="#L178">178</a></td><td>ZIMMERMAN:  These are questions first year medical students would ask.</td></tr>
 
-  EMH
-     Care to let me in on the joke?
+<tr id="L179"><td><a href="#L179">179</a></td><td>EMH:  I'm just being thorough.</td></tr>
 
-  ZIMMERMAN
-     You didn't tell him?
+<tr id="L180"><td><a href="#L180">180</a></td><td>LEONARD:  Just being thorough.</td></tr>
 
-  EMH
-     Tell me what?
+<tr id="L181"><td><a href="#L181">181</a></td><td>EMH:  Did that creature just speak?</td></tr>
 
-  BARCLAY
-     Well, I, er
+<tr id="L182"><td><a href="#L182">182</a></td><td>ZIMMERMAN:  His name's Leonard. He's a hologram.</td></tr>
 
-  ZIMMERMAN
-     You're obsolete, extinct. Yesterday's news.
+<tr id="L183"><td><a href="#L183">183</a></td><td>EMH:  Computer, deactivate iguana.</td></tr>
 
-  EMH
-     My programme was retired?
+<tr id="L184"><td><a href="#L184">184</a></td><td>ZIMMERMAN:  How dare you!</td></tr>
 
-  ZIMMERMAN
-     Retired? Not at all. The EMH Mark One was
-     reconfigured to scrub plasma conduits on waste
-     transfer barges. I've been treated by the Mark
-     Three, the Mark Four, not to mention the finest
-     real doctors in Starfleet. None of them could help
-     me.
+<tr id="L185"><td><a href="#L185">185</a></td><td>EMH:  I'm a Doctor, not a zoo keeper. Has there ever been an epidemic on this station?</td></tr>
 
-  BARCLAY
-     He has been running almost continuously for six
-     years. He has seen more things than most doctors
-     can even imagine.
+<tr id="L186"><td><a href="#L186">186</a></td><td>ZIMMERMAN:  No! Enough questions! Finish your scans and get out of here.</td></tr>
 
-  EMH
-     I also have an exceptionally high tolerance for
-     difficult patients.
+<tr id="L187"><td><a href="#L187">187</a></td><td>EMH:  Doctor.</td></tr>
 
-  ZIMMERMAN
-     I didn't programme you for sarcasm.
+<tr id="L188"><td><a href="#L188">188</a></td><td>ZIMMERMAN:  I said get out of here.</td></tr>
 
-  EMH
-     You'll find I'm full of surprises.
+<tr id="L189"><td><a href="#L189">189</a></td><td>EMH:  I travelled halfway across the galaxy to treat you. The least you could do is show a little gratitude.</td></tr>
 
-  ZIMMERMAN
-     Show the good Doctor to the plasma generator. I
-     understand there's quite a build-up of residue.
+<tr id="L190"><td><a href="#L190">190</a></td><td>ZIMMERMAN:  Thank you. Get out of here!</td></tr>
 
-  EMH
-     If we had more time, I'd enjoy trading barbs with
-     you. But right now, there's a more pressing
-     concern. Your life. I'm working on a treatment
-     based on a disease I encountered in the Delta
-     Quadrant, but I'll need to run a complete
-     analysis. However, if it's impossible for you to
-     believe that a lowly Mark One could have anything
-     useful to offer, I'll be happy to pack my bags and
-     go explore those sulphur mines.
+<tr id="L191"><td><a href="#L191">191</a></td><td>EMH:  I may be the only physician who can save your life. You need me.</td></tr>
 
-  ZIMMERMAN
-     Go ahead, scan away.
+<tr id="L192"><td><a href="#L192">192</a></td><td>ZIMMERMAN:  Like hell. I brought your matrix into this world and I can take it out.</td></tr>
 
-  BARCLAY
-     I'll be outside.
+<tr id="L193"><td><a href="#L193">193</a></td><td>EMH:  I'm no longer a prototype. I have exceeded my original programming. I'm no longer under your control.</td></tr>
 
-  ANNOTATION
-     Barclay leaves.
+<tr id="L194"><td><a href="#L194">194</a></td><td>ZIMMERMAN:  Oh, really? Computer, transfer EMH to the living quarters.</td></tr>
 
-  EMH
-     What were your initial symptoms?
+<tr><td></td><td>LOCATION--Zimmerman's living quarters</td></tr>
+<tr id="L195"><td><a href="#L195">195</a></td><td>BARCLAY:  How did it go?</td></tr>
 
-  ZIMMERMAN
-     Radical hair loss. Fatigue, nausea, joint
-     inflammation.
+<tr id="L196"><td><a href="#L196">196</a></td><td>ANNOTATION: Later, the EMH comes storming out of the lab on his own.</td></tr>
 
-  EMH
-     Have you travelled outside the solar system
-     recently?
+<tr id="L197"><td><a href="#L197">197</a></td><td>EMH:  Power up the MIDAS array. I'm leaving.</td></tr>
 
-  ZIMMERMAN
-     What's that got to do with anything?
+<tr id="L198"><td><a href="#L198">198</a></td><td>BARCLAY:  What, what happened this time?</td></tr>
 
-  EMH
-     Just answer the question.
+<tr id="L199"><td><a href="#L199">199</a></td><td>EMH:  I ran a mitochondrial scan. There was something odd about the results, so I spent a full hour analysing them. And what did I discover? He's a Vulcan marsupial. He reconfigured my tricorder! You find that amusing?</td></tr>
 
-  ZIMMERMAN
-     I haven't left Jupiter station in over four years.
+<tr id="L200"><td><a href="#L200">200</a></td><td>BARCLAY:  A little. Well, not really.</td></tr>
 
-  EMH
-     To your knowledge, have you been exposed to theta
-     radiation?
+<tr id="L201"><td><a href="#L201">201</a></td><td>HALEY:  Sounds like you're making progress.</td></tr>
 
-  ZIMMERMAN
-     No.
+<tr id="L202"><td><a href="#L202">202</a></td><td>EMH:  How so?</td></tr>
 
-  EMH
-     Neutron flux?
+<tr id="L203"><td><a href="#L203">203</a></td><td>HALEY:  He only teases people he likes.</td></tr>
 
-  ZIMMERMAN
-     Never.
+<tr id="L204"><td><a href="#L204">204</a></td><td>EMH:  Then he must love me.</td></tr>
 
-  EMH
-     Have you had intimate relations with a Bolian?
+<tr id="L205"><td><a href="#L205">205</a></td><td>BARCLAY:  I take it that you, er, still haven't been able to diagnose him.</td></tr>
 
-  ZIMMERMAN
-     These are questions first year medical students
-     would ask.
+<tr id="L206"><td><a href="#L206">206</a></td><td>EMH:  On the contrary, the patient appears to be suffering from an acute case of arrogance!</td></tr>
 
-  EMH
-     I'm just being thorough.
+<tr id="L207"><td><a href="#L207">207</a></td><td>ANNOTATION: A fly buzzes</td></tr>
 
-  LEONARD
-     Just being thorough.
+<tr id="L208"><td><a href="#L208">208</a></td><td>BARCLAY:  Oh, that's Roy.</td></tr>
 
-  EMH
-     Did that creature just speak?
+<tr id="L209"><td><a href="#L209">209</a></td><td>EMH:  Don't tell me. A hologram?.</td></tr>
 
-  ZIMMERMAN
-     His name's Leonard. He's a hologram.
+<tr id="L210"><td><a href="#L210">210</a></td><td>BARCLAY:  It was commissioned by Starfleet Intelligence. An experiment in micro-surveillance. Doctor Z keeps it around as a sort of a pet.</td></tr>
 
-  EMH
-     Computer, deactivate iguana.
+<tr id="L211"><td><a href="#L211">211</a></td><td>EMH:  Undercover insects, talking iguanas. This isn't a research station, it's a three ring Circus. You should charge admission.</td></tr>
 
-  ZIMMERMAN
-     How dare you!
+<tr id="L212"><td><a href="#L212">212</a></td><td>BARCLAY:  Look. Look, you know that we can't send you back for another two weeks so please, just, just keep trying.</td></tr>
 
-  EMH
-     I'm a Doctor, not a zoo keeper. Has there ever
-     been an epidemic on this station?
+<tr id="L213"><td><a href="#L213">213</a></td><td>EMH:  I can't treat a patient who won't let me near him. He's deranged. What he needs is a counsellor.</td></tr>
 
-  ZIMMERMAN
-     No! Enough questions! Finish your scans and get
-     out of here.
+<tr id="L214"><td><a href="#L214">214</a></td><td>ANNOTATION: The EMH swats Roy.</td></tr>
 
-  EMH
-     Doctor.
+<tr id="L215"><td><a href="#L215">215</a></td><td>EMH:  Finally, I've accomplished something.</td></tr>
 
-  ZIMMERMAN
-     I said get out of here.
+<tr><td></td><td>LOCATION--Barclay's quarters</td></tr>
+<tr id="L216"><td><a href="#L216">216</a></td><td>BARCLAY:  I thought you might be able to provide some, er, insight.</td></tr>
 
-  EMH
-     I travelled halfway across the galaxy to treat
-     you. The least you could do is show a little
-     gratitude.
+<tr id="L217"><td><a href="#L217">217</a></td><td>TROI [on monitor]:  It's not that simple, Reg. Doctor Zimmerman sounds like a very complex individual. I'd need to speak to him in person.</td></tr>
 
-  ZIMMERMAN
-     Thank you. Get out of here!
+<tr id="L218"><td><a href="#L218">218</a></td><td>BARCLAY:  Then maybe I could get him to agree to a counselling session.</td></tr>
 
-  EMH
-     I may be the only physician who can save your
-     life. You need me.
+<tr id="L219"><td><a href="#L219">219</a></td><td>TROI [on monitor]:  The Enterprise is in the middle of a mission. We're nearly seven light years from you.</td></tr>
 
-  ZIMMERMAN
-     Like hell. I brought your matrix into this world
-     and I can take it out.
+<tr id="L220"><td><a href="#L220">220</a></td><td>BARCLAY:  An important mission?</td></tr>
 
-  EMH
-     I'm no longer a prototype. I have exceeded my
-     original programming. I'm no longer under your
-     control.
+<tr id="L221"><td><a href="#L221">221</a></td><td>TROI [on monitor]:  They're all important, Reg. I could refer you to Counsellor Jenzo, a colleague of mine on Earth.</td></tr>
 
-  ZIMMERMAN
-     Oh, really? Computer, transfer EMH to the living
-     quarters.
+<tr id="L222"><td><a href="#L222">222</a></td><td>BARCLAY:  I need the best, Deanna.</td></tr>
 
+<tr id="L223"><td><a href="#L223">223</a></td><td>TROI [on monitor]:  It would be an interesting challenge.</td></tr>
 
-LOCATION--Zimmerman's living quarters
+<tr id="L224"><td><a href="#L224">224</a></td><td>BARCLAY:  Thank you, thank you, thank you, thank you.</td></tr>
 
-  BARCLAY
-     How did it go?
+<tr id="L225"><td><a href="#L225">225</a></td><td>TROI [on monitor]:  Don't thank me yet. I'll still need to clear this with Captain Picard. If he agrees, I might be able to be there by early next week.</td></tr>
 
-  ANNOTATION
-     Later, the EMH comes storming out of the lab on
-     his own.
+<tr id="L226"><td><a href="#L226">226</a></td><td>BARCLAY:  I'll see you then.</td></tr>
 
-  EMH
-     Power up the MIDAS array. I'm leaving.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L227"><td><a href="#L227">227</a></td><td>ANNOTATION: Doorbell.</td></tr>
 
-  BARCLAY
-     What, what happened this time?
+<tr id="L228"><td><a href="#L228">228</a></td><td>JANEWAY:  Come in.</td></tr>
 
-  EMH
-     I ran a mitochondrial scan. There was something
-     odd about the results, so I spent a full hour
-     analysing them. And what did I discover? He's a
-     Vulcan marsupial. He reconfigured my tricorder!
-     You find that amusing?
+<tr id="L229"><td><a href="#L229">229</a></td><td>CHAKOTAY:  Good morning. Problem?</td></tr>
 
-  BARCLAY
-     A little. Well, not really.
+<tr id="L230"><td><a href="#L230">230</a></td><td>JANEWAY:  I haven't decided. I've just listened to a communiqu from Admiral Hayes.</td></tr>
 
-  HALEY
-     Sounds like you're making progress.
+<tr id="L231"><td><a href="#L231">231</a></td><td>CHAKOTAY:  Nice to have friends in high places.</td></tr>
 
-  EMH
-     How so?
+<tr id="L232"><td><a href="#L232">232</a></td><td>ADMIRAL HAYES [on monitor]:  Hello, Captain. I hope this message finds you well. From what I understand, it has not been easy, but I want you to know that a lot of people here are very proud of what you've accomplished. I also want to assure you that we have not given up finding a way to get you home. We've redirected two deep space vessels toward your position. If all goes well, they could rendezvous with you in the next five to six years.</td></tr>
 
-  HALEY
-     He only teases people he likes.
+<tr id="L233"><td><a href="#L233">233</a></td><td>JANEWAY:  Computer, advance to time index one twenty one point four.</td></tr>
 
-  EMH
-     Then he must love me.
+<tr id="L234"><td><a href="#L234">234</a></td><td>ADMIRAL HAYES [on monitor]:  As we get closer and our conversations become more frequent. When you respond to this message, please let us know of any casualties. I'm sure you've had more than your share. I'm anxious to know the status of your crew, the Maquis, first contacts that you've made, interactions with the Borg. But there'll be time for everything. Our thoughts are with you. Talk to you soon.</td></tr>
 
-  BARCLAY
-     I take it that you, er, still haven't been able to
-     diagnose him.
+<tr id="L235"><td><a href="#L235">235</a></td><td>CHAKOTAY:  What?</td></tr>
 
-  EMH
-     On the contrary, the patient appears to be
-     suffering from an acute case of arrogance!
+<tr id="L236"><td><a href="#L236">236</a></td><td>JANEWAY:  Status of the Maquis.</td></tr>
 
-  ANNOTATION
-     A fly buzzes
+<tr id="L237"><td><a href="#L237">237</a></td><td>CHAKOTAY:  Do you find that surprising?</td></tr>
 
-  BARCLAY
-     Oh, that's Roy.
+<tr id="L238"><td><a href="#L238">238</a></td><td>JANEWAY:  I don't think of you or B'Elanna or the others as Maquis. I think of you as part of my crew.</td></tr>
 
-  EMH
-     Don't tell me. A hologram?.
+<tr id="L239"><td><a href="#L239">239</a></td><td>CHAKOTAY:  You may have forgotten, but we haven't. You heard the Admiral. It'll be years before we have to deal with those issues. Let's worry about it then.</td></tr>
 
-  BARCLAY
-     It was commissioned by Starfleet Intelligence. An
-     experiment in micro-surveillance. Doctor Z keeps
-     it around as a sort of a pet.
+<tr id="L240"><td><a href="#L240">240</a></td><td>JANEWAY:  Do you have lunch plans?</td></tr>
 
-  EMH
-     Undercover insects, talking iguanas. This isn't a
-     research station, it's a three ring Circus. You
-     should charge admission.
+<tr id="L241"><td><a href="#L241">241</a></td><td>CHAKOTAY:  Is that an invitation?</td></tr>
 
-  BARCLAY
-     Look. Look, you know that we can't send you back
-     for another two weeks so please, just, just keep
-     trying.
+<tr id="L242"><td><a href="#L242">242</a></td><td>JANEWAY:  I was hoping you'd help me compose a response.</td></tr>
 
-  EMH
-     I can't treat a patient who won't let me near him.
-     He's deranged. What he needs is a counsellor.
+<tr id="L243"><td><a href="#L243">243</a></td><td>CHAKOTAY:  You're on.</td></tr>
 
-  ANNOTATION
-     The EMH swats Roy.
+<tr><td></td><td>LOCATION--Zimmerman's living quarters</td></tr>
+<tr id="L244"><td><a href="#L244">244</a></td><td>HALEY:  Doctor, your lunch is ready.</td></tr>
 
-  EMH
-     Finally, I've accomplished something.
+<tr id="L245"><td><a href="#L245">245</a></td><td>ANNOTATION: Moans come over the comm.</td></tr>
 
+<tr id="L246"><td><a href="#L246">246</a></td><td>HALEY:  Are you all right?</td></tr>
 
-LOCATION--Barclay's quarters
+<tr id="L247"><td><a href="#L247">247</a></td><td>ZIMMERMAN [OC]:  Fine, Haley, fine. Give me a few minutes.</td></tr>
 
-  BARCLAY
-     I thought you might be able to provide some, er,
-     insight.
+<tr><td></td><td>LOCATION--Zimmerman's lab</td></tr>
+<tr id="L248"><td><a href="#L248">248</a></td><td>ANNOTATION: Zimmerman is receiving a massage from a Tarlac woman. She continues to knead with her elbow whilst scanning him with a medical tricorder.</td></tr>
 
-  TROI [on monitor]
-     It's not that simple, Reg. Doctor Zimmerman sounds
-     like a very complex individual. I'd need to speak
-     to him in person.
+<tr id="L249"><td><a href="#L249">249</a></td><td>ZIMMERMAN:  Ah. Ah. Lower. Ah. Perfect. I needed this. You have no idea what I've had to endure these past few days. Last night I woke up and I found him hovering over my bed with a hypospray. A smattering of photons, that's all he is. What's that? What is that? A tricorder? You were scanning me? Computer, realign Voyager's EMH. You!</td></tr>
 
-  BARCLAY
-     Then maybe I could get him to agree to a
-     counselling session.
+<tr id="L250"><td><a href="#L250">250</a></td><td>EMH:  Remain calm. Emotional outbursts will only aggravate your condition.</td></tr>
 
-  TROI [on monitor]
-     The Enterprise is in the middle of a mission.
-     We're nearly seven light years from you.
+<tr id="L251"><td><a href="#L251">251</a></td><td>ZIMMERMAN:  I'll tell you what's aggravating my condition. You!</td></tr>
 
-  BARCLAY
-     An important mission?
+<tr id="L252"><td><a href="#L252">252</a></td><td>EMH:  If you'd let me examine you.</td></tr>
 
-  TROI [on monitor]
-     They're all important, Reg. I could refer you to
-     Counsellor Jenzo, a colleague of mine on Earth.
+<tr id="L253"><td><a href="#L253">253</a></td><td>ZIMMERMAN:  I'll report you to the medical ethics board.</td></tr>
 
-  BARCLAY
-     I need the best, Deanna.
+<tr id="L254"><td><a href="#L254">254</a></td><td>EMH:  Doctor!</td></tr>
 
-  TROI [on monitor]
-     It would be an interesting challenge.
+<tr id="L255"><td><a href="#L255">255</a></td><td>ZIMMERMAN:  Save it for your hearing.</td></tr>
 
-  BARCLAY
-     Thank you, thank you, thank you, thank you.
+<tr id="L256"><td><a href="#L256">256</a></td><td>EMH:  If you weren't so stubborn, you'd see I'm only trying to help.</td></tr>
 
-  TROI [on monitor]
-     Don't thank me yet. I'll still need to clear this
-     with Captain Picard. If he agrees, I might be able
-     to be there by early next week.
+<tr id="L257"><td><a href="#L257">257</a></td><td>ZIMMERMAN:  I don't want your help! Why won't you leave me alone?</td></tr>
 
-  BARCLAY
-     I'll see you then.
+<tr id="L258"><td><a href="#L258">258</a></td><td>EMH:  Because, for reasons beyond my comprehension, I care about you.</td></tr>
 
+<tr id="L259"><td><a href="#L259">259</a></td><td>ZIMMERMAN:  You weren't programmed to care. You were programmed to hold a scalpel.</td></tr>
 
-LOCATION--Ready room
+<tr id="L260"><td><a href="#L260">260</a></td><td>EMH:  I told you, I'm not the same EMH you created six years ago.</td></tr>
 
-  ANNOTATION
-     Doorbell.
+<tr id="L261"><td><a href="#L261">261</a></td><td>ZIMMERMAN:  Of course. You can sing and dance. I should install you in a Ferengi nightclub.</td></tr>
 
-  JANEWAY
-     Come in.
+<tr id="L262"><td><a href="#L262">262</a></td><td>EMH:  The Voyager crew appreciates my attempts to expand my programme.</td></tr>
 
-  CHAKOTAY
-     Good morning. Problem?
+<tr id="L263"><td><a href="#L263">263</a></td><td>ZIMMERMAN:  This isn't Voyager. It's my lab. And in my lab, you're still just a hologram.</td></tr>
 
-  JANEWAY
-     I haven't decided. I've just listened to a
-     communiqu from Admiral Hayes.
+<tr id="L264"><td><a href="#L264">264</a></td><td>EMH:  A hologram you created. A hologram who owes you his existence.</td></tr>
 
-  CHAKOTAY
-     Nice to have friends in high places.
+<tr id="L265"><td><a href="#L265">265</a></td><td>ZIMMERMAN:  Is that what's keeping you here? Some twisted sense of obligation? Well, let me assure you, you don't owe me anything.</td></tr>
 
-  ADMIRAL HAYES [on monitor]
-     Hello, Captain. I hope this message finds you
-     well. From what I understand, it has not been
-     easy, but I want you to know that a lot of people
-     here are very proud of what you've accomplished. I
-     also want to assure you that we have not given up
-     finding a way to get you home. We've redirected
-     two deep space vessels toward your position. If
-     all goes well, they could rendezvous with you in
-     the next five to six years.
+<tr id="L266"><td><a href="#L266">266</a></td><td>HALEY [OC]:  Doctor?</td></tr>
 
-  JANEWAY
-     Computer, advance to time index one twenty one
-     point four.
+<tr id="L267"><td><a href="#L267">267</a></td><td>ZIMMERMAN:  Yes, Haley, what is it?</td></tr>
 
-  ADMIRAL HAYES [on monitor]
-     As we get closer and our conversations become more
-     frequent. When you respond to this message, please
-     let us know of any casualties. I'm sure you've had
-     more than your share. I'm anxious to know the
-     status of your crew, the Maquis, first contacts
-     that you've made, interactions with the Borg. But
-     there'll be time for everything. Our thoughts are
-     with you. Talk to you soon.
+<tr id="L268"><td><a href="#L268">268</a></td><td>HALEY [OC]:  You have a visitor.</td></tr>
 
-  CHAKOTAY
-     What?
+<tr id="L269"><td><a href="#L269">269</a></td><td>ANNOTATION: Troi enters.</td></tr>
 
-  JANEWAY
-     Status of the Maquis.
+<tr id="L270"><td><a href="#L270">270</a></td><td>TROI:  Hello, I'm Deanna Troi. Which one of you is Doctor Zimmerman?</td></tr>
 
-  CHAKOTAY
-     Do you find that surprising?
+<tr id="L271"><td><a href="#L271">271</a></td><td>ZIMMERMAN:  Deanna Troi. Another one of your tricks?</td></tr>
 
-  JANEWAY
-     I don't think of you or B'Elanna or the others as
-     Maquis. I think of you as part of my crew.
+<tr id="L272"><td><a href="#L272">272</a></td><td>TROI:  Excuse me? Ow!</td></tr>
 
-  CHAKOTAY
-     You may have forgotten, but we haven't. You heard
-     the Admiral. It'll be years before we have to deal
-     with those issues. Let's worry about it then.
+<tr id="L273"><td><a href="#L273">273</a></td><td>ANNOTATION: Zimmerman pinches her arm.</td></tr>
 
-  JANEWAY
-     Do you have lunch plans?
+<tr id="L274"><td><a href="#L274">274</a></td><td>EMH:  He thinks you're a hologram.</td></tr>
 
-  CHAKOTAY
-     Is that an invitation?
+<tr id="L275"><td><a href="#L275">275</a></td><td>TROI:  I can assure you I'm quite real.</td></tr>
 
-  JANEWAY
-     I was hoping you'd help me compose a response.
+<tr id="L276"><td><a href="#L276">276</a></td><td>ZIMMERMAN:  Oh. Well. The last beautiful woman to walk in here turned out to be him.</td></tr>
 
-  CHAKOTAY
-     You're on.
+<tr id="L277"><td><a href="#L277">277</a></td><td>EMH:  I'll take that as a compliment.</td></tr>
 
+<tr id="L278"><td><a href="#L278">278</a></td><td>TROI:  Did I come at a bad time?</td></tr>
 
-LOCATION--Zimmerman's living quarters
+<tr id="L279"><td><a href="#L279">279</a></td><td>EMH:  Your timing couldn't be better. The patient is suffering from acute anxiety, normally associated with terminal illness. It's made him agoraphobic, paranoid and extremely antagonistic.</td></tr>
 
-  HALEY
-     Doctor, your lunch is ready.
+<tr id="L280"><td><a href="#L280">280</a></td><td>TROI:  I see. Mind if I sit down?</td></tr>
 
-  ANNOTATION
-     Moans come over the comm.
+<tr id="L281"><td><a href="#L281">281</a></td><td>ZIMMERMAN:  Please.</td></tr>
 
-  HALEY
-     Are you all right?
+<tr id="L282"><td><a href="#L282">282</a></td><td>ANNOTATION: Leonard is watching her closely.</td></tr>
 
-  ZIMMERMAN [OC]
-     Fine, Haley, fine. Give me a few minutes.
+<tr id="L283"><td><a href="#L283">283</a></td><td>TROI:  Reg tells me you won't let the Doctor help you.</td></tr>
 
+<tr id="L284"><td><a href="#L284">284</a></td><td>ZIMMERMAN:  He's a Mark One. He's obsolete. I'd be safer in the hands of a Klingon field medic.</td></tr>
 
-LOCATION--Zimmerman's lab
+<tr id="L285"><td><a href="#L285">285</a></td><td>TROI:  I understand he's developed a promising treatment.</td></tr>
 
-  ANNOTATION
-     Zimmerman is receiving a massage from a Tarlac
-     woman. She continues to knead with her elbow
-     whilst scanning him with a medical tricorder.
+<tr id="L286"><td><a href="#L286">286</a></td><td>ZIMMERMAN:  If you're a Borg drone. He's threatening to use some kind of ghoulish assimilation technique. It's not fit for a lab rat.</td></tr>
 
-  ZIMMERMAN
-     Ah. Ah. Lower. Ah. Perfect. I needed this. You
-     have no idea what I've had to endure these past
-     few days. Last night I woke up and I found him
-     hovering over my bed with a hypospray. A
-     smattering of photons, that's all he is. What's
-     that? What is that? A tricorder? You were scanning
-     me? Computer, realign Voyager's EMH. You!
+<tr id="L287"><td><a href="#L287">287</a></td><td>EMH:  You won't even look at my research. From the moment I arrived, you've berated me, treated me like an antique. Well, let me tell you something. Antique or not, I took a huge risk coming here. I had to plead with my Captain, leave my ship without a surgeon.</td></tr>
 
-  EMH
-     Remain calm. Emotional outbursts will only
-     aggravate your condition.
+<tr id="L288"><td><a href="#L288">288</a></td><td>TROI:  Doctor. Imagine that your programme was seriously damaged, and the only person who could repair you was an engineer from, say, a hundred years ago. Would you feel comfortable with that?</td></tr>
 
-  ZIMMERMAN
-     I'll tell you what's aggravating my condition.
-     You!
+<tr id="L289"><td><a href="#L289">289</a></td><td>EMH:  If he were skilled, intelligent, creative.</td></tr>
 
-  EMH
-     If you'd let me examine you.
+<tr id="L290"><td><a href="#L290">290</a></td><td>TROI:  Honestly, Doctor? A hundred years ago?</td></tr>
 
-  ZIMMERMAN
-     I'll report you to the medical ethics board.
+<tr id="L291"><td><a href="#L291">291</a></td><td>EMH:  Well, I suppose it would give me pause.</td></tr>
 
-  EMH
-     Doctor!
+<tr id="L292"><td><a href="#L292">292</a></td><td>ZIMMERMAN:  Ha.</td></tr>
 
-  ZIMMERMAN
-     Save it for your hearing.
+<tr id="L293"><td><a href="#L293">293</a></td><td>TROI:  Now, put yourself in the Doctor's shoes. Imagine you were asked to treat someone you cared about, say an EMH Mark twelve.</td></tr>
 
-  EMH
-     If you weren't so stubborn, you'd see I'm only
-     trying to help.
+<tr id="L294"><td><a href="#L294">294</a></td><td>ZIMMERMAN:  There is no Mark twelve.</td></tr>
 
-  ZIMMERMAN
-     I don't want your help! Why won't you leave me
-     alone?
+<tr id="L295"><td><a href="#L295">295</a></td><td>TROI:  But if there were, and you wanted to save his programme. He probably wouldn't let you near him. He wouldn't care that you'd won the Daystrom Prize for holography. From his perspective, you'd be out of date. But what if you knew you could save him?</td></tr>
 
-  EMH
-     Because, for reasons beyond my comprehension, I
-     care about you.
+<tr id="L296"><td><a href="#L296">296</a></td><td>EMH:  Thank you, Counsellor, for extending that olive branch. I'm willing to see past our differences, if he is.</td></tr>
 
-  ZIMMERMAN
-     You weren't programmed to care. You were
-     programmed to hold a scalpel.
+<tr id="L297"><td><a href="#L297">297</a></td><td>ZIMMERMAN:  All right. He can start by purging the plasma conduits on deck six.</td></tr>
 
-  EMH
-     I told you, I'm not the same EMH you created six
-     years ago.
+<tr id="L298"><td><a href="#L298">298</a></td><td>TROI:  Doctor Zimmerman.</td></tr>
 
-  ZIMMERMAN
-     Of course. You can sing and dance. I should
-     install you in a Ferengi nightclub.
+<tr id="L299"><td><a href="#L299">299</a></td><td>ZIMMERMAN:  I will not put my life in the hands of a primitive.</td></tr>
 
-  EMH
-     The Voyager crew appreciates my attempts to expand
-     my programme.
+<tr id="L300"><td><a href="#L300">300</a></td><td>EMH:  You'd need a phaser drill to get through that thick skull of his.</td></tr>
 
-  ZIMMERMAN
-     This isn't Voyager. It's my lab. And in my lab,
-     you're still just a hologram.
+<tr id="L301"><td><a href="#L301">301</a></td><td>ZIMMERMAN:  Get out!</td></tr>
 
-  EMH
-     A hologram you created. A hologram who owes you
-     his existence.
+<tr id="L302"><td><a href="#L302">302</a></td><td>TROI:  Gentlemen!</td></tr>
 
-  ZIMMERMAN
-     Is that what's keeping you here? Some twisted
-     sense of obligation? Well, let me assure you, you
-     don't owe me anything.
+<tr id="L303"><td><a href="#L303">303</a></td><td>ZIMMERMAN:  Oh, spare us your psychobabble.</td></tr>
 
-  HALEY [OC]
-     Doctor?
+<tr id="L304"><td><a href="#L304">304</a></td><td>TROI:  I came here thinking that you were opposite sides of the same coin. Identical, but different. Now I see you're both exactly the same. You're both jerks.</td></tr>
 
-  ZIMMERMAN
-     Yes, Haley, what is it?
+<tr id="L305"><td><a href="#L305">305</a></td><td>LEONARD:  Jerks.</td></tr>
 
-  HALEY [OC]
-     You have a visitor.
+<tr><td></td><td>LOCATION--Zimmerman's living quarters</td></tr>
+<tr id="L306"><td><a href="#L306">306</a></td><td>TROI:  I'm starting to think you called the wrong counsellor, Reg.</td></tr>
 
-  ANNOTATION
-     Troi enters.
+<tr id="L307"><td><a href="#L307">307</a></td><td>BARCLAY:  You'll figure something out. You always do.</td></tr>
 
-  TROI
-     Hello, I'm Deanna Troi. Which one of you is Doctor
-     Zimmerman?
+<tr id="L308"><td><a href="#L308">308</a></td><td>TROI:  Things are worse now than when I arrived. Lewis won't come out of his lab and the EMH is hiding in a holodeck.</td></tr>
 
-  ZIMMERMAN
-     Deanna Troi. Another one of your tricks?
+<tr id="L309"><td><a href="#L309">309</a></td><td>BARCLAY:  He's feeling homesick. I let him use my Voyager simulation and it seems to be cheering him up.</td></tr>
 
-  TROI
-     Excuse me? Ow!
+<tr id="L310"><td><a href="#L310">310</a></td><td>TROI:  A hologram fighting to save the life of his creator, who just so happens to be the same man his own personality is based on. I think I'd need a whole team of therapists just to get them in the same room.</td></tr>
 
-  ANNOTATION
-     Zimmerman pinches her arm.
+<tr id="L311"><td><a href="#L311">311</a></td><td>HALEY:  Mister Barclay said this is your favourite ice cream.</td></tr>
 
-  EMH
-     He thinks you're a hologram.
+<tr id="L312"><td><a href="#L312">312</a></td><td>TROI:  I hardly deserve it, but thanks. You're a hologram.</td></tr>
 
-  TROI
-     I can assure you I'm quite real.
+<tr id="L313"><td><a href="#L313">313</a></td><td>HALEY:  How do you know?</td></tr>
 
-  ZIMMERMAN
-     Oh. Well. The last beautiful woman to walk in here
-     turned out to be him.
+<tr id="L314"><td><a href="#L314">314</a></td><td>TROI:  I'm an empath. I haven't sensed any emotions from you. When were you first brought online?</td></tr>
 
-  EMH
-     I'll take that as a compliment.
+<tr id="L315"><td><a href="#L315">315</a></td><td>HALEY:  Nine years ago.</td></tr>
 
-  TROI
-     Did I come at a bad time?
+<tr id="L316"><td><a href="#L316">316</a></td><td>TROI:  No offence but, you're more antiquated than the EMH Mark One, and yet Lewis seems to listen to you. Why do you suppose that is? Were you here when the Mark One was created?</td></tr>
 
-  EMH
-     Your timing couldn't be better. The patient is
-     suffering from acute anxiety, normally associated
-     with terminal illness. It's made him agoraphobic,
-     paranoid and extremely antagonistic.
+<tr id="L317"><td><a href="#L317">317</a></td><td>HALEY:  Yes.</td></tr>
 
-  TROI
-     I see. Mind if I sit down?
+<tr id="L318"><td><a href="#L318">318</a></td><td>TROI:  Any idea why Lewis made it in his own image?</td></tr>
 
-  ZIMMERMAN
-     Please.
+<tr id="L319"><td><a href="#L319">319</a></td><td>HALEY:  Maybe you should ask him.</td></tr>
 
-  ANNOTATION
-     Leonard is watching her closely.
+<tr id="L320"><td><a href="#L320">320</a></td><td>TROI:  I did. He evaded the question. I was hoping you might know.</td></tr>
 
-  TROI
-     Reg tells me you won't let the Doctor help you.
+<tr id="L321"><td><a href="#L321">321</a></td><td>HALEY:  He was extremely proud of the Mark One. He used to dream about hundreds of holograms in every corner of the quadrant saving lives. He put so much of himself into its development. I suppose it only seemed natural that it should look like him, too.</td></tr>
 
-  ZIMMERMAN
-     He's a Mark One. He's obsolete. I'd be safer in
-     the hands of a Klingon field medic.
+<tr id="L322"><td><a href="#L322">322</a></td><td>TROI:  But the Mark One failed to meet Starfleet's expectations.</td></tr>
 
-  TROI
-     I understand he's developed a promising treatment.
+<tr id="L323"><td><a href="#L323">323</a></td><td>HALEY:  He was devastated.</td></tr>
 
-  ZIMMERMAN
-     If you're a Borg drone. He's threatening to use
-     some kind of ghoulish assimilation technique. It's
-     not fit for a lab rat.
+<tr id="L324"><td><a href="#L324">324</a></td><td>BARCLAY:  He, he locked himself away in this lab for two years trying to repair the defects. Finally, he just gave up. Started from scratch. A whole new matrix.</td></tr>
 
-  EMH
-     You won't even look at my research. From the
-     moment I arrived, you've berated me, treated me
-     like an antique. Well, let me tell you something.
-     Antique or not, I took a huge risk coming here. I
-     had to plead with my Captain, leave my ship
-     without a surgeon.
+<tr id="L325"><td><a href="#L325">325</a></td><td>TROI:  The Mark Two.</td></tr>
 
-  TROI
-     Doctor. Imagine that your programme was seriously
-     damaged, and the only person who could repair you
-     was an engineer from, say, a hundred years ago.
-     Would you feel comfortable with that?
+<tr id="L326"><td><a href="#L326">326</a></td><td>BARCLAY:  Followed by the Mark Three, and then the Mark Four. He, he was obsessed with perfecting it.</td></tr>
 
-  EMH
-     If he were skilled, intelligent, creative.
+<tr id="L327"><td><a href="#L327">327</a></td><td>TROI:  But none of the later models resembled Lewis.</td></tr>
 
-  TROI
-     Honestly, Doctor? A hundred years ago?
+<tr id="L328"><td><a href="#L328">328</a></td><td>HALEY:  He made that mistake once. He wasn't about to do it again.</td></tr>
 
-  EMH
-     Well, I suppose it would give me pause.
+<tr id="L329"><td><a href="#L329">329</a></td><td>TROI:  And now, after all this time, a Mark One shows up. It must be like staring in a mirror at a reflection you don't want to remember.</td></tr>
 
-  ZIMMERMAN
-     Ha.
+<tr><td></td><td>LOCATION--Zimmerman's lab</td></tr>
+<tr id="L330"><td><a href="#L330">330</a></td><td>ZIMMERMAN:  Computer, resume recording. Last Will and Testament, Doctor Lewis Zimmerman. Let's see. Where were we? Subsection eight, the Trojan Horse project. I hereby bequeath my latest research in holographic infiltration technology to the only engineer I trust to complete the work, Lieutenant Reginald Barclay. Subsection nine, holographic art. I hereby bequeath my entire collection, including the twenty first century masterpiece, Woman in Four Dimensions, to the person who has appreciated it the most. I guess that would be Reg Barclay, too. Subsection ten, Haley. I realise she's only a hologram, but she's been a loyal assistant for many years. I'd like to request that Starfleet keep her programme running for as long as this research facility exists. She's been as real to me as anyone I've ever known. Not that I've known many people. I've created most of my friends.</td></tr>
 
-  TROI
-     Now, put yourself in the Doctor's shoes. Imagine
-     you were asked to treat someone you cared about,
-     say an EMH Mark twelve.
+<tr id="L331"><td><a href="#L331">331</a></td><td>ANNOTATION: He is struck by a stab of pain that takes his breath away.</td></tr>
 
-  ZIMMERMAN
-     There is no Mark twelve.
+<tr id="L332"><td><a href="#L332">332</a></td><td>ZIMMERMAN:  Pause recording. (to Leonard) Don't worry. I'll find a home for you, too.</td></tr>
 
-  TROI
-     But if there were, and you wanted to save his
-     programme. He probably wouldn't let you near him.
-     He wouldn't care that you'd won the Daystrom Prize
-     for holography. From his perspective, you'd be out
-     of date. But what if you knew you could save him?
+<tr><td></td><td>LOCATION--Holodeck - Doctor's office</td></tr>
+<tr id="L333"><td><a href="#L333">333</a></td><td>TROI:  So this is Voyager. I like it.</td></tr>
 
-  EMH
-     Thank you, Counsellor, for extending that olive
-     branch. I'm willing to see past our differences,
-     if he is.
+<tr id="L334"><td><a href="#L334">334</a></td><td>EMH:  It's a remarkable facsimile, but Mister Barclay did get a few of the details wrong. For one thing, Neelix doesn't purr.</td></tr>
 
-  ZIMMERMAN
-     All right. He can start by purging the plasma
-     conduits on deck six.
+<tr id="L335"><td><a href="#L335">335</a></td><td>TROI:  I think that may have something to do with Reg's cat. He named it after your friend.</td></tr>
 
-  TROI
-     Doctor Zimmerman.
+<tr id="L336"><td><a href="#L336">336</a></td><td>EMH:  Neelix would be honoured. If you're here for Doctor Zimmerman's medical files, I've nearly finished updating them. Maybe the next physician will put them to better use.</td></tr>
 
-  ZIMMERMAN
-     I will not put my life in the hands of a
-     primitive.
+<tr><td></td><td>LOCATION--Holodeck - Sickbay</td></tr>
+<tr id="L337"><td><a href="#L337">337</a></td><td>TROI:  Actually, I stopped by to ask you to dinner.</td></tr>
 
-  EMH
-     You'd need a phaser drill to get through that
-     thick skull of his.
+<tr id="L338"><td><a href="#L338">338</a></td><td>EMH:  I'm a hologram, Counsellor. I don't eat.</td></tr>
 
-  ZIMMERMAN
-     Get out!
+<tr id="L339"><td><a href="#L339">339</a></td><td>TROI:  I know that, but we'd still enjoy your company.</td></tr>
 
-  TROI
-     Gentlemen!
+<tr id="L340"><td><a href="#L340">340</a></td><td>EMH:  We?</td></tr>
 
-  ZIMMERMAN
-     Oh, spare us your psychobabble.
+<tr id="L341"><td><a href="#L341">341</a></td><td>TROI:  Lieutenant Barclay, Haley, myself, Doctor Zimmerman.</td></tr>
 
-  TROI
-     I came here thinking that you were opposite sides
-     of the same coin. Identical, but different. Now I
-     see you're both exactly the same. You're both
-     jerks.
+<tr id="L342"><td><a href="#L342">342</a></td><td>EMH:  No, thanks. Unless that man's eating crow, I'm not interested.</td></tr>
 
-  LEONARD
-     Jerks.
+<tr id="L343"><td><a href="#L343">343</a></td><td>TROI:  It's the perfect opportunity for us to talk things out in a more casual environment.</td></tr>
 
+<tr id="L344"><td><a href="#L344">344</a></td><td>EMH:  Sorry.</td></tr>
 
-LOCATION--Zimmerman's living quarters
+<tr id="L345"><td><a href="#L345">345</a></td><td>TROI:  Just one meal.</td></tr>
 
-  TROI
-     I'm starting to think you called the wrong
-     counsellor, Reg.
+<tr id="L346"><td><a href="#L346">346</a></td><td>EMH:  I said no.</td></tr>
 
-  BARCLAY
-     You'll figure something out. You always do.
+<tr id="L347"><td><a href="#L347">347</a></td><td>ANNOTATION: His matrix flickers.</td></tr>
 
-  TROI
-     Things are worse now than when I arrived. Lewis
-     won't come out of his lab and the EMH is hiding in
-     a holodeck.
+<tr id="L348"><td><a href="#L348">348</a></td><td>TROI:  Doctor?</td></tr>
 
-  BARCLAY
-     He's feeling homesick. I let him use my Voyager
-     simulation and it seems to be cheering him up.
+<tr id="L349"><td><a href="#L349">349</a></td><td>EMH:  Something's wrong.</td></tr>
 
-  TROI
-     A hologram fighting to save the life of his
-     creator, who just so happens to be the same man
-     his own personality is based on. I think I'd need
-     a whole team of therapists just to get them in the
-     same room.
+<tr id="L350"><td><a href="#L350">350</a></td><td>TROI:  Troi to Lieutenant Barclay.</td></tr>
 
-  HALEY
-     Mister Barclay said this is your favourite ice
-     cream.
+<tr id="L351"><td><a href="#L351">351</a></td><td>BARCLAY [OC]:  Go ahead.</td></tr>
 
-  TROI
-     I hardly deserve it, but thanks. You're a
-     hologram.
+<tr id="L352"><td><a href="#L352">352</a></td><td>TROI:  There's something wrong with the EMH.</td></tr>
 
-  HALEY
-     How do you know?
+<tr id="L353"><td><a href="#L353">353</a></td><td>BARCLAY [OC]:  Can you be more specific?</td></tr>
 
-  TROI
-     I'm an empath. I haven't sensed any emotions from
-     you. When were you first brought online?
+<tr id="L354"><td><a href="#L354">354</a></td><td>EMH:  She's a counsellor, Lieutenant, not an engineer.</td></tr>
 
-  HALEY
-     Nine years ago.
+<tr id="L355"><td><a href="#L355">355</a></td><td>BARCLAY [OC]:  Stand by.</td></tr>
 
-  TROI
-     No offence but, you're more antiquated than the
-     EMH Mark One, and yet Lewis seems to listen to
-     you. Why do you suppose that is? Were you here
-     when the Mark One was created?
+<tr><td></td><td>LOCATION--Zimmerman's living quarters</td></tr>
+<tr id="L356"><td><a href="#L356">356</a></td><td>ANNOTATION: The EMH is still flickering.</td></tr>
 
-  HALEY
-     Yes.
+<tr id="L357"><td><a href="#L357">357</a></td><td>EMH:  What's happening to me?</td></tr>
 
-  TROI
-     Any idea why Lewis made it in his own image?
+<tr id="L358"><td><a href="#L358">358</a></td><td>BARCLAY:  Your programme is destabilising.</td></tr>
 
-  HALEY
-     Maybe you should ask him.
+<tr id="L359"><td><a href="#L359">359</a></td><td>EMH:  What? Why?</td></tr>
 
-  TROI
-     I did. He evaded the question. I was hoping you
-     might know.
+<tr id="L360"><td><a href="#L360">360</a></td><td>BARCLAY:  They sent you thirty thousand light years. I should have expected some problems.</td></tr>
 
-  HALEY
-     He was extremely proud of the Mark One. He used to
-     dream about hundreds of holograms in every corner
-     of the quadrant saving lives. He put so much of
-     himself into its development. I suppose it only
-     seemed natural that it should look like him, too.
+<tr id="L361"><td><a href="#L361">361</a></td><td>EMH:  It's not your fault, Mister Barclay. We just need to find a way to repair the damage.</td></tr>
 
-  TROI
-     But the Mark One failed to meet Starfleet's
-     expectations.
+<tr id="L362"><td><a href="#L362">362</a></td><td>BARCLAY:  You don't understand. Your primary matrix is degrading and there is nothing I can do.</td></tr>
 
-  HALEY
-     He was devastated.
+<tr><td></td><td>LOCATION--Zimmerman's lab</td></tr>
+<tr id="L363"><td><a href="#L363">363</a></td><td>ZIMMERMAN:  Good riddance to bad photons.</td></tr>
 
-  BARCLAY
-     He, he locked himself away in this lab for two
-     years trying to repair the defects. Finally, he
-     just gave up. Started from scratch. A whole new
-     matrix.
+<tr id="L364"><td><a href="#L364">364</a></td><td>BARCLAY:  He's dying, Lewis.</td></tr>
 
-  TROI
-     The Mark Two.
+<tr id="L365"><td><a href="#L365">365</a></td><td>ZIMMERMAN:  He's not dying. His files are just degrading.</td></tr>
 
-  BARCLAY
-     Followed by the Mark Three, and then the Mark
-     Four. He, he was obsessed with perfecting it.
+<tr id="L366"><td><a href="#L366">366</a></td><td>TROI:  There are people on Voyager who count on him.</td></tr>
 
-  TROI
-     But none of the later models resembled Lewis.
+<tr id="L367"><td><a href="#L367">367</a></td><td>ZIMMERMAN:  I'll send them a Mark Four. They're more reliable.</td></tr>
 
-  HALEY
-     He made that mistake once. He wasn't about to do
-     it again.
+<tr id="L368"><td><a href="#L368">368</a></td><td>BARCLAY:  They don't want a Mark Four. They want their friend.</td></tr>
 
-  TROI
-     And now, after all this time, a Mark One shows up.
-     It must be like staring in a mirror at a
-     reflection you don't want to remember.
+<tr id="L369"><td><a href="#L369">369</a></td><td>ZIMMERMAN:  No EMH was ever designed to be anyone's friend. He's just a hologram.</td></tr>
 
+<tr id="L370"><td><a href="#L370">370</a></td><td>HALEY:  Is that how you feel about me? Just a hologram?</td></tr>
 
-LOCATION--Zimmerman's lab
+<tr id="L371"><td><a href="#L371">371</a></td><td>ZIMMERMAN:  I will not be ambushed in my own lab.</td></tr>
 
-  ZIMMERMAN
-     Computer, resume recording. Last Will and
-     Testament, Doctor Lewis Zimmerman. Let's see.
-     Where were we? Subsection eight, the Trojan Horse
-     project. I hereby bequeath my latest research in
-     holographic infiltration technology to the only
-     engineer I trust to complete the work, Lieutenant
-     Reginald Barclay. Subsection nine, holographic
-     art. I hereby bequeath my entire collection,
-     including the twenty first century masterpiece,
-     Woman in Four Dimensions, to the person who has
-     appreciated it the most. I guess that would be Reg
-     Barclay, too. Subsection ten, Haley. I realise
-     she's only a hologram, but she's been a loyal
-     assistant for many years. I'd like to request that
-     Starfleet keep her programme running for as long
-     as this research facility exists. She's been as
-     real to me as anyone I've ever known. Not that
-     I've known many people. I've created most of my
-     friends.
+<tr id="L372"><td><a href="#L372">372</a></td><td>HALEY:  Stardate 53292. My programme malfunctioned and you cancelled a lecture on Vulcan and came all the way home to repair me.</td></tr>
 
-  ANNOTATION
-     He is struck by a stab of pain that takes his
-     breath away.
+<tr id="L373"><td><a href="#L373">373</a></td><td>ZIMMERMAN:  There's nothing worse than addressing a room full of pointy-eared blowhards. I was looking for an excuse to get away.</td></tr>
 
-  ZIMMERMAN
-     Pause recording. (to Leonard) Don't worry. I'll
-     find a home for you, too.
+<tr id="L374"><td><a href="#L374">374</a></td><td>HALEY:  You came back because you cared about me, just like you care about the Mark One. You just won't admit it. He may not be perfect, but he's still one of your creations and right now he needs his creator. Don't turn your back on him.</td></tr>
 
+<tr id="L375"><td><a href="#L375">375</a></td><td>ANNOTATION: Later, Zimmerman forks some salad into his mouth and presses buttons.</td></tr>
 
-LOCATION--Holodeck - Doctor's office
+<tr id="L376"><td><a href="#L376">376</a></td><td>ZIMMERMAN:  Computer, activate Voyager's EMH.</td></tr>
 
-  TROI
-     So this is Voyager. I like it.
+<tr id="L377"><td><a href="#L377">377</a></td><td>EMH:  Please state the nature of the medical emergency.</td></tr>
 
-  EMH
-     It's a remarkable facsimile, but Mister Barclay
-     did get a few of the details wrong. For one thing,
-     Neelix doesn't purr.
+<tr id="L378"><td><a href="#L378">378</a></td><td>ZIMMERMAN:  You're the emergency.</td></tr>
 
-  TROI
-     I think that may have something to do with Reg's
-     cat. He named it after your friend.
+<tr id="L379"><td><a href="#L379">379</a></td><td>EMH:  Where's Lieutenant Barclay?</td></tr>
 
-  EMH
-     Neelix would be honoured. If you're here for
-     Doctor Zimmerman's medical files, I've nearly
-     finished updating them. Maybe the next physician
-     will put them to better use.
+<tr id="L380"><td><a href="#L380">380</a></td><td>ZIMMERMAN:  Trust me, you're in far more capable hands.</td></tr>
 
+<tr id="L381"><td><a href="#L381">381</a></td><td>EMH:  You're going to repair my programme?</td></tr>
 
-LOCATION--Holodeck - Sickbay
+<tr id="L382"><td><a href="#L382">382</a></td><td>ZIMMERMAN:  Who better?</td></tr>
 
-  TROI
-     Actually, I stopped by to ask you to dinner.
+<tr id="L383"><td><a href="#L383">383</a></td><td>EMH:  Just yesterday you threatened to decompile me.</td></tr>
 
-  EMH
-     I'm a hologram, Counsellor. I don't eat.
+<tr id="L384"><td><a href="#L384">384</a></td><td>ZIMMERMAN:  That was before your colleagues made me feel guilty.</td></tr>
 
-  TROI
-     I know that, but we'd still enjoy your company.
+<tr id="L385"><td><a href="#L385">385</a></td><td>EMH:  You're ill. You're in no condition to perform delicate procedures.</td></tr>
 
-  EMH
-     We?
+<tr id="L386"><td><a href="#L386">386</a></td><td>ZIMMERMAN:  I'll survive, but you won't if you don't relax and let me finish.</td></tr>
 
-  TROI
-     Lieutenant Barclay, Haley, myself, Doctor
-     Zimmerman.
+<tr id="L387"><td><a href="#L387">387</a></td><td>EMH:  What are you doing?</td></tr>
 
-  EMH
-     No, thanks. Unless that man's eating crow, I'm not
-     interested.
+<tr id="L388"><td><a href="#L388">388</a></td><td>ZIMMERMAN:  My scans identified a recursive error in your pattern buffer. I'm trying to isolate it.</td></tr>
 
-  TROI
-     It's the perfect opportunity for us to talk things
-     out in a more casual environment.
+<tr id="L389"><td><a href="#L389">389</a></td><td>EMH:  Is that a fractal algorithm?</td></tr>
 
-  EMH
-     Sorry.
+<tr id="L390"><td><a href="#L390">390</a></td><td>ZIMMERMAN:  Very good. I'm using it to realign your matrix.</td></tr>
 
-  TROI
-     Just one meal.
+<tr id="L391"><td><a href="#L391">391</a></td><td>EMH:  Fractal algorithms are notoriously unstable.</td></tr>
 
-  EMH
-     I said no.
+<tr id="L392"><td><a href="#L392">392</a></td><td>ZIMMERMAN:  In the hands of a novice. (Beep!) Whoops.</td></tr>
 
-  ANNOTATION
-     His matrix flickers.
+<tr id="L393"><td><a href="#L393">393</a></td><td>EMH:  Whoops? What's whoops?</td></tr>
 
-  TROI
-     Doctor?
+<tr id="L394"><td><a href="#L394">394</a></td><td>ZIMMERMAN:  Computer, deactivate EMH.</td></tr>
 
-  EMH
-     Something's wrong.
+<tr id="L395"><td><a href="#L395">395</a></td><td>ANNOTATION: Later, the EMH is reactivated.</td></tr>
 
-  TROI
-     Troi to Lieutenant Barclay.
+<tr id="L396"><td><a href="#L396">396</a></td><td>EMH:  I, I can't move!</td></tr>
 
-  BARCLAY [OC]
-     Go ahead.
+<tr id="L397"><td><a href="#L397">397</a></td><td>ZIMMERMAN:  I know. I had to take your mobility subroutines offline.</td></tr>
 
-  TROI
-     There's something wrong with the EMH.
+<tr id="L398"><td><a href="#L398">398</a></td><td>EMH:  How long have I been deactivated?</td></tr>
 
-  BARCLAY [OC]
-     Can you be more specific?
+<tr id="L399"><td><a href="#L399">399</a></td><td>ZIMMERMAN:  Seventeen hours. I'm resetting your parameters.</td></tr>
 
-  EMH
-     She's a counsellor, Lieutenant, not an engineer.
+<tr id="L400"><td><a href="#L400">400</a></td><td>ANNOTATION: The EMH goes off and on, and walks over to Zimmerman.</td></tr>
 
-  BARCLAY [OC]
-     Stand by.
+<tr id="L401"><td><a href="#L401">401</a></td><td>EMH:  You don't look well. You need rest.</td></tr>
 
+<tr id="L402"><td><a href="#L402">402</a></td><td>ZIMMERMAN:  I'm fine. And so are you. Your programme's been stabilised.</td></tr>
 
-LOCATION--Zimmerman's living quarters
+<tr id="L403"><td><a href="#L403">403</a></td><td>EMH:  I, I'm going to be okay?</td></tr>
 
-  ANNOTATION
-     The EMH is still flickering.
+<tr id="L404"><td><a href="#L404">404</a></td><td>ZIMMERMAN:  No, you're going to be better than okay.</td></tr>
 
-  EMH
-     What's happening to me?
+<tr id="L405"><td><a href="#L405">405</a></td><td>EMH:  Now what are you doing?</td></tr>
 
-  BARCLAY
-     Your programme is destabilising.
+<tr id="L406"><td><a href="#L406">406</a></td><td>ANNOTATION: The EMH disappears and reappears.</td></tr>
 
-  EMH
-     What? Why?
+<tr id="L407"><td><a href="#L407">407</a></td><td>EMH:  Welcome to Sickbay. How may I help you today?</td></tr>
 
-  BARCLAY
-     They sent you thirty thousand light years. I
-     should have expected some problems.
+<tr id="L408"><td><a href="#L408">408</a></td><td>ZIMMERMAN:  Well, what do you think?</td></tr>
 
-  EMH
-     It's not your fault, Mister Barclay. We just need
-     to find a way to repair the damage.
+<tr id="L409"><td><a href="#L409">409</a></td><td>EMH:  I think you've altered my greeting protocol.</td></tr>
 
-  BARCLAY
-     You don't understand. Your primary matrix is
-     degrading and there is nothing I can do.
+<tr id="L410"><td><a href="#L410">410</a></td><td>ZIMMERMAN:  That's just the beginning. I've also added new subroutines for compassion, patience, empathy, decorum.</td></tr>
 
+<tr id="L411"><td><a href="#L411">411</a></td><td>EMH:  I don't feel any different.</td></tr>
 
-LOCATION--Zimmerman's lab
+<tr id="L412"><td><a href="#L412">412</a></td><td>ZIMMERMAN:  Because I haven't installed them yet. I thought you'd like to be awake for the big moment. Reginald was right about you. You have exceeded the sum of your programming. You've accomplished far more than I would have ever predicted. But let's face facts. You never overcame the inherent flaws in your personality subroutines. You're arrogant, irritable. A jerk, as Counsellor Troi would say.</td></tr>
 
-  ZIMMERMAN
-     Good riddance to bad photons.
+<tr id="L413"><td><a href="#L413">413</a></td><td>EMH:  I believe she was describing you as well.</td></tr>
 
-  BARCLAY
-     He's dying, Lewis.
+<tr id="L414"><td><a href="#L414">414</a></td><td>ZIMMERMAN:  Don't change the subject. I may not be able to turn you into a Mark Four, but I can make you a bit more presentable.</td></tr>
 
-  ZIMMERMAN
-     He's not dying. His files are just degrading.
+<tr id="L415"><td><a href="#L415">415</a></td><td>EMH:  What if I'm happy with the way I am?</td></tr>
 
-  TROI
-     There are people on Voyager who count on him.
+<tr id="L416"><td><a href="#L416">416</a></td><td>ZIMMERMAN:  I'm doing you a favour.</td></tr>
 
-  ZIMMERMAN
-     I'll send them a Mark Four. They're more reliable.
+<tr id="L417"><td><a href="#L417">417</a></td><td>EMH:  I don't want any favours and I don't want your new subroutines. Why can't you accept me as I am?</td></tr>
 
-  BARCLAY
-     They don't want a Mark Four. They want their
-     friend.
+<tr id="L418"><td><a href="#L418">418</a></td><td>ZIMMERMAN:  Because you're defective. Emergency Medical Hotheads. Extremely Marginal Housecalls. That's what everyone used to call the Mark Ones until they were bounced out of the Medical Corps. I tried to have them decommissioned, but Starfleet in its infinite wisdom overruled me and reassigned them all to work waste transfer barges. That's where you'd be too, if you hadn't been lost in the Delta Quadrant. Do you know how humiliating it is to have six hundred and seventy five Mark Ones out there, scrubbing plasma conduits, all with my face?</td></tr>
 
-  ZIMMERMAN
-     No EMH was ever designed to be anyone's friend.
-     He's just a hologram.
+<tr id="L419"><td><a href="#L419">419</a></td><td>EMH:  I'm sure they're doing a fine job.</td></tr>
 
-  HALEY
-     Is that how you feel about me? Just a hologram?
+<tr id="L420"><td><a href="#L420">420</a></td><td>ZIMMERMAN:  What are you doing? I'm not finished with you. (The EMH is scanning him.)</td></tr>
 
-  ZIMMERMAN
-     I will not be ambushed in my own lab.
+<tr id="L421"><td><a href="#L421">421</a></td><td>EMH:  I'm trying to do my job. And if you give me a chance you'll see that I'm pretty good at it. Frankly, I'd hoped that if we ever met, you'd be proud of me.</td></tr>
 
-  HALEY
-     Stardate 53292. My programme malfunctioned and you
-     cancelled a lecture on Vulcan and came all the way
-     home to repair me.
+<tr id="L422"><td><a href="#L422">422</a></td><td>ZIMMERMAN:  Well, I guess it is comforting to know that at least one of you is still doing what I designed you to do.</td></tr>
 
-  ZIMMERMAN
-     There's nothing worse than addressing a room full
-     of pointy-eared blowhards. I was looking for an
-     excuse to get away.
+<tr id="L423"><td><a href="#L423">423</a></td><td>EMH:  Your intercellular proteins are at a dangerous level. We should begin the procedure. Please, give me a chance to make you proud of me.</td></tr>
 
-  HALEY
-     You came back because you cared about me, just
-     like you care about the Mark One. You just won't
-     admit it. He may not be perfect, but he's still
-     one of your creations and right now he needs his
-     creator. Don't turn your back on him.
+<tr id="L424"><td><a href="#L424">424</a></td><td>ZIMMERMAN:  Maybe we could try it, see how it goes.</td></tr>
 
-  ANNOTATION
-     Later, Zimmerman forks some salad into his mouth
-     and presses buttons.
+<tr id="L425"><td><a href="#L425">425</a></td><td>EMH:  See how it goes.</td></tr>
 
-  ZIMMERMAN
-     Computer, activate Voyager's EMH.
+<tr id="L426"><td><a href="#L426">426</a></td><td>ZIMMERMAN:  Just don't expect me to put you in my will.</td></tr>
 
-  EMH
-     Please state the nature of the medical emergency.
+<tr><td></td><td>LOCATION--Zimmerman's living quarters</td></tr>
+<tr id="L427"><td><a href="#L427">427</a></td><td>ANNOTATION: Barclay is pacing. Troi and Haley are sitting quietly.</td></tr>
 
-  ZIMMERMAN
-     You're the emergency.
+<tr id="L428"><td><a href="#L428">428</a></td><td>BARCLAY:  I, I'm going in.</td></tr>
 
-  EMH
-     Where's Lieutenant Barclay?
+<tr id="L429"><td><a href="#L429">429</a></td><td>TROI:  Reg.</td></tr>
 
-  ZIMMERMAN
-     Trust me, you're in far more capable hands.
+<tr id="L430"><td><a href="#L430">430</a></td><td>BARCLAY:  They have been in there for thirty two hours.</td></tr>
 
-  EMH
-     You're going to repair my programme?
+<tr id="L431"><td><a href="#L431">431</a></td><td>TROI:  Be patient.</td></tr>
 
-  ZIMMERMAN
-     Who better?
+<tr id="L432"><td><a href="#L432">432</a></td><td>ANNOTATION: The EMH enters.</td></tr>
 
-  EMH
-     Just yesterday you threatened to decompile me.
+<tr id="L433"><td><a href="#L433">433</a></td><td>BARCLAY:  Well, you, you're not fritzing anymore.</td></tr>
 
-  ZIMMERMAN
-     That was before your colleagues made me feel
-     guilty.
+<tr id="L434"><td><a href="#L434">434</a></td><td>EMH:  No thanks to you. Doctor Zimmerman ran a diagnostic on my subtronic relays and he made a very interesting discovery. Apparently, I was the victim of foul play.</td></tr>
 
-  EMH
-     You're ill. You're in no condition to perform
-     delicate procedures.
+<tr id="L435"><td><a href="#L435">435</a></td><td>BARCLAY:  Well, what, what do you mean?</td></tr>
 
-  ZIMMERMAN
-     I'll survive, but you won't if you don't relax and
-     let me finish.
+<tr id="L436"><td><a href="#L436">436</a></td><td>EMH:  He found an algorithm designed to disrupt my matrix. You wouldn't know anything about that, would you?</td></tr>
 
-  EMH
-     What are you doing?
+<tr id="L437"><td><a href="#L437">437</a></td><td>TROI:  Well, traditional therapy wasn't getting us anywhere.</td></tr>
 
-  ZIMMERMAN
-     My scans identified a recursive error in your
-     pattern buffer. I'm trying to isolate it.
+<tr id="L438"><td><a href="#L438">438</a></td><td>EMH:  Well, your little scheme worked. Doctor Zimmerman has agreed to the cellular regeneration procedure. He'll require several more treatments, but I'm optimistic he'll make a full recovery.</td></tr>
 
-  EMH
-     Is that a fractal algorithm?
+<tr><td></td><td>LOCATION--Zimmerman's lab</td></tr>
+<tr id="L439"><td><a href="#L439">439</a></td><td>ANNOTATION: The EMH is taking holo-photographs of the lab.</td></tr>
 
-  ZIMMERMAN
-     Very good. I'm using it to realign your matrix.
+<tr id="L440"><td><a href="#L440">440</a></td><td>ZIMMERMAN:  Trying to steal my secrets?</td></tr>
 
-  EMH
-     Fractal algorithms are notoriously unstable.
+<tr id="L441"><td><a href="#L441">441</a></td><td>EMH:  Another one of my hobbies. I thought I'd take home a few memories. You're supposed to be in bed.</td></tr>
 
-  ZIMMERMAN
-     In the hands of a novice. (Beep!) Whoops.
+<tr id="L442"><td><a href="#L442">442</a></td><td>ZIMMERMAN:  I've got work to do.</td></tr>
 
-  EMH
-     Whoops? What's whoops?
+<tr id="L443"><td><a href="#L443">443</a></td><td>EMH:  It can wait. Go to bed. Doctor's orders.</td></tr>
 
-  ZIMMERMAN
-     Computer, deactivate EMH.
+<tr id="L444"><td><a href="#L444">444</a></td><td>ZIMMERMAN:  I hope you won't be coming back next month to make sure I'm taking my medicine.</td></tr>
 
-  ANNOTATION
-     Later, the EMH is reactivated.
+<tr id="L445"><td><a href="#L445">445</a></td><td>EMH:  Don't worry. My captain's not likely to authorise another house call.</td></tr>
 
-  EMH
-     I, I can't move!
+<tr id="L446"><td><a href="#L446">446</a></td><td>ZIMMERMAN:  Good. The next time she sends a datastream, you might want to drop me a line, let me know how you're doing.</td></tr>
 
-  ZIMMERMAN
-     I know. I had to take your mobility subroutines
-     offline.
+<tr id="L447"><td><a href="#L447">447</a></td><td>EMH:  If you insist.</td></tr>
 
-  EMH
-     How long have I been deactivated?
+<tr id="L448"><td><a href="#L448">448</a></td><td>ANNOTATION: Barclay enters.</td></tr>
 
-  ZIMMERMAN
-     Seventeen hours. I'm resetting your parameters.
+<tr id="L449"><td><a href="#L449">449</a></td><td>BARCLAY:  Ready?</td></tr>
 
-  ANNOTATION
-     The EMH goes off and on, and walks over to
-     Zimmerman.
+<tr id="L450"><td><a href="#L450">450</a></td><td>EMH:  Would you mind?</td></tr>
 
-  EMH
-     You don't look well. You need rest.
+<tr id="L451"><td><a href="#L451">451</a></td><td>ANNOTATION: He hands Barclay his holo-camera.</td></tr>
 
-  ZIMMERMAN
-     I'm fine. And so are you. Your programme's been
-     stabilised.
+<tr id="L452"><td><a href="#L452">452</a></td><td>BARCLAY:  Not at all. Smile!</td></tr>
 
-  EMH
-     I, I'm going to be okay?
-
-  ZIMMERMAN
-     No, you're going to be better than okay.
-
-  EMH
-     Now what are you doing?
-
-  ANNOTATION
-     The EMH disappears and reappears.
-
-  EMH
-     Welcome to Sickbay. How may I help you today?
-
-  ZIMMERMAN
-     Well, what do you think?
-
-  EMH
-     I think you've altered my greeting protocol.
-
-  ZIMMERMAN
-     That's just the beginning. I've also added new
-     subroutines for compassion, patience, empathy,
-     decorum.
-
-  EMH
-     I don't feel any different.
-
-  ZIMMERMAN
-     Because I haven't installed them yet. I thought
-     you'd like to be awake for the big moment.
-     Reginald was right about you. You have exceeded
-     the sum of your programming. You've accomplished
-     far more than I would have ever predicted. But
-     let's face facts. You never overcame the inherent
-     flaws in your personality subroutines. You're
-     arrogant, irritable. A jerk, as Counsellor Troi
-     would say.
-
-  EMH
-     I believe she was describing you as well.
-
-  ZIMMERMAN
-     Don't change the subject. I may not be able to
-     turn you into a Mark Four, but I can make you a
-     bit more presentable.
-
-  EMH
-     What if I'm happy with the way I am?
-
-  ZIMMERMAN
-     I'm doing you a favour.
-
-  EMH
-     I don't want any favours and I don't want your new
-     subroutines. Why can't you accept me as I am?
-
-  ZIMMERMAN
-     Because you're defective. Emergency Medical
-     Hotheads. Extremely Marginal Housecalls. That's
-     what everyone used to call the Mark Ones until
-     they were bounced out of the Medical Corps. I
-     tried to have them decommissioned, but Starfleet
-     in its infinite wisdom overruled me and reassigned
-     them all to work waste transfer barges. That's
-     where you'd be too, if you hadn't been lost in the
-     Delta Quadrant. Do you know how humiliating it is
-     to have six hundred and seventy five Mark Ones out
-     there, scrubbing plasma conduits, all with my
-     face?
-
-  EMH
-     I'm sure they're doing a fine job.
-
-  ZIMMERMAN
-     What are you doing? I'm not finished with you.
-     (The EMH is scanning him.)
-
-  EMH
-     I'm trying to do my job. And if you give me a
-     chance you'll see that I'm pretty good at it.
-     Frankly, I'd hoped that if we ever met, you'd be
-     proud of me.
-
-  ZIMMERMAN
-     Well, I guess it is comforting to know that at
-     least one of you is still doing what I designed
-     you to do.
-
-  EMH
-     Your intercellular proteins are at a dangerous
-     level. We should begin the procedure. Please, give
-     me a chance to make you proud of me.
-
-  ZIMMERMAN
-     Maybe we could try it, see how it goes.
-
-  EMH
-     See how it goes.
-
-  ZIMMERMAN
-     Just don't expect me to put you in my will.
-
-
-LOCATION--Zimmerman's living quarters
-
-  ANNOTATION
-     Barclay is pacing. Troi and Haley are sitting
-     quietly.
-
-  BARCLAY
-     I, I'm going in.
-
-  TROI
-     Reg.
-
-  BARCLAY
-     They have been in there for thirty two hours.
-
-  TROI
-     Be patient.
-
-  ANNOTATION
-     The EMH enters.
-
-  BARCLAY
-     Well, you, you're not fritzing anymore.
-
-  EMH
-     No thanks to you. Doctor Zimmerman ran a
-     diagnostic on my subtronic relays and he made a
-     very interesting discovery. Apparently, I was the
-     victim of foul play.
-
-  BARCLAY
-     Well, what, what do you mean?
-
-  EMH
-     He found an algorithm designed to disrupt my
-     matrix. You wouldn't know anything about that,
-     would you?
-
-  TROI
-     Well, traditional therapy wasn't getting us
-     anywhere.
-
-  EMH
-     Well, your little scheme worked. Doctor Zimmerman
-     has agreed to the cellular regeneration procedure.
-     He'll require several more treatments, but I'm
-     optimistic he'll make a full recovery.
-
-
-LOCATION--Zimmerman's lab
-
-  ANNOTATION
-     The EMH is taking holo-photographs of the lab.
-
-  ZIMMERMAN
-     Trying to steal my secrets?
-
-  EMH
-     Another one of my hobbies. I thought I'd take home
-     a few memories. You're supposed to be in bed.
-
-  ZIMMERMAN
-     I've got work to do.
-
-  EMH
-     It can wait. Go to bed. Doctor's orders.
-
-  ZIMMERMAN
-     I hope you won't be coming back next month to make
-     sure I'm taking my medicine.
-
-  EMH
-     Don't worry. My captain's not likely to authorise
-     another house call.
-
-  ZIMMERMAN
-     Good. The next time she sends a datastream, you
-     might want to drop me a line, let me know how
-     you're doing.
-
-  EMH
-     If you insist.
-
-  ANNOTATION
-     Barclay enters.
-
-  BARCLAY
-     Ready?
-
-  EMH
-     Would you mind?
-
-  ANNOTATION
-     He hands Barclay his holo-camera.
-
-  BARCLAY
-     Not at all. Smile!
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

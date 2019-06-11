@@ -1,1647 +1,859 @@
-Hero Worship
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Hero Worship</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>FELTON:  Captain, we are entering sector nine seven.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>DATA:  I am picking up massive gravitational fluctuations, sir.</td></tr>
 
-  FELTON
-     Captain, we are entering sector nine seven.
+<tr id="L3"><td><a href="#L3">3</a></td><td>PICARD:  Take us out of warp, Ensign.</td></tr>
 
-  DATA
-     I am picking up massive gravitational
-     fluctuations, sir.
+<tr id="L4"><td><a href="#L4">4</a></td><td>FELTON:  Yes, sir.</td></tr>
 
-  PICARD
-     Take us out of warp, Ensign.
+<tr id="L5"><td><a href="#L5">5</a></td><td>WORF:  The Black Cluster is within visual range, Captain.</td></tr>
 
-  FELTON
-     Yes, sir.
+<tr id="L6"><td><a href="#L6">6</a></td><td>PICARD:  On screen.</td></tr>
 
-  WORF
-     The Black Cluster is within visual range, Captain.
+<tr id="L7"><td><a href="#L7">7</a></td><td>WORF:  Aye, Captain.</td></tr>
 
-  PICARD
-     On screen.
+<tr id="L8"><td><a href="#L8">8</a></td><td>ANNOTATION: it looks like any other streak of black against a star cluster</td></tr>
 
-  WORF
-     Aye, Captain.
+<tr id="L9"><td><a href="#L9">9</a></td><td>RIKER:  Let's find that ship. Full sensor sweep, Mister Data.</td></tr>
 
-  ANNOTATION
-     it looks like any other streak of black against a
-     star cluster
+<tr id="L10"><td><a href="#L10">10</a></td><td>DATA:  Aye, sir.</td></tr>
 
-  RIKER
-     Let's find that ship. Full sensor sweep, Mister
-     Data.
+<tr id="L11"><td><a href="#L11">11</a></td><td>RIKER:  What a sight.</td></tr>
 
-  DATA
-     Aye, sir.
+<tr id="L12"><td><a href="#L12">12</a></td><td>PICARD:  One of the most ancient formations in the galaxy.</td></tr>
 
-  RIKER
-     What a sight.
+<tr id="L13"><td><a href="#L13">13</a></td><td>DATA:  I have located the Vico, sir. The vessel appears to be adrift.</td></tr>
 
-  PICARD
-     One of the most ancient formations in the galaxy.
+<tr id="L14"><td><a href="#L14">14</a></td><td>RIKER:  Let's see it. Life signs?</td></tr>
 
-  DATA
-     I have located the Vico, sir. The vessel appears
-     to be adrift.
+<tr id="L15"><td><a href="#L15">15</a></td><td>WORF:  Nothing, Commander.</td></tr>
 
-  RIKER
-     Let's see it. Life signs?
+<tr id="L16"><td><a href="#L16">16</a></td><td>RIKER:  Damage report, Mister Data.</td></tr>
 
-  WORF
-     Nothing, Commander.
+<tr id="L17"><td><a href="#L17">17</a></td><td>DATA:  Outer and inner hulls have been breached. Decks seven through twelve are exposed to space.</td></tr>
 
-  RIKER
-     Damage report, Mister Data.
+<tr id="L18"><td><a href="#L18">18</a></td><td>RIKER:  Set up a translink to their computer core. Let's see what happened.</td></tr>
 
-  DATA
-     Outer and inner hulls have been breached. Decks
-     seven through twelve are exposed to space.
+<tr id="L19"><td><a href="#L19">19</a></td><td>DATA:  I cannot, sir. The emergency bulkheads on that deck are in place. Our linkup signal cannot penetrate them.</td></tr>
 
-  RIKER
-     Set up a translink to their computer core. Let's
-     see what happened.
+<tr id="L20"><td><a href="#L20">20</a></td><td>PICARD:  Structural status, Commander?</td></tr>
 
-  DATA
-     I cannot, sir. The emergency bulkheads on that
-     deck are in place. Our linkup signal cannot
-     penetrate them.
+<tr id="L21"><td><a href="#L21">21</a></td><td>DATA:  Stress readings indicate considerable pressure on the transverse supports.</td></tr>
 
-  PICARD
-     Structural status, Commander?
+<tr id="L22"><td><a href="#L22">22</a></td><td>PICARD:  Is it stable enough for an away team?</td></tr>
 
-  DATA
-     Stress readings indicate considerable pressure on
-     the transverse supports.
+<tr id="L23"><td><a href="#L23">23</a></td><td>DATA:  Yes, sir, but the risk of structural collapse is quite high.</td></tr>
 
-  PICARD
-     Is it stable enough for an away team?
+<tr id="L24"><td><a href="#L24">24</a></td><td>PICARD:  Have transporter room one maintain a lock on each member of your away team. I want you out of there at the first sign of trouble.</td></tr>
 
-  DATA
-     Yes, sir, but the risk of structural collapse is
-     quite high.
+<tr id="L25"><td><a href="#L25">25</a></td><td>RIKER:  Take us to fifteen thousand metres, Ensign.</td></tr>
 
-  PICARD
-     Have transporter room one maintain a lock on each
-     member of your away team. I want you out of there
-     at the first sign of trouble.
+<tr id="L26"><td><a href="#L26">26</a></td><td>FELTON:  Yes, sir.</td></tr>
 
-  RIKER
-     Take us to fifteen thousand metres, Ensign.
+<tr id="L27"><td><a href="#L27">27</a></td><td>RIKER:  Data, you're with me.</td></tr>
 
-  FELTON
-     Yes, sir.
+<tr><td></td><td>LOCATION--Vico</td></tr>
+<tr id="L28"><td><a href="#L28">28</a></td><td>ANNOTATION: flickering lights, escaping steam, debris, bodies. A falling girder nearly catches the away team as they start to move through the ship</td></tr>
 
-  RIKER
-     Data, you're with me.
+<tr id="L29"><td><a href="#L29">29</a></td><td>DATA:  This station is inoperable, sir.</td></tr>
 
+<tr id="L30"><td><a href="#L30">30</a></td><td>LAFORGE:  This one seems to be stuck in a feedback loop.</td></tr>
 
-LOCATION--Vico
+<tr id="L31"><td><a href="#L31">31</a></td><td>RIKER:  Let's see if we can tap directly into the computer core.</td></tr>
 
-  ANNOTATION
-     flickering lights, escaping steam, debris, bodies.
-     A falling girder nearly catches the away team as
-     they start to move through the ship
+<tr id="L32"><td><a href="#L32">32</a></td><td>LAFORGE:  The ODN junction is right down here.</td></tr>
 
-  DATA
-     This station is inoperable, sir.
+<tr id="L33"><td><a href="#L33">33</a></td><td>ANNOTATION: takes of a panel</td></tr>
 
-  LAFORGE
-     This one seems to be stuck in a feedback loop.
+<tr id="L34"><td><a href="#L34">34</a></td><td>LAFORGE:  Data?</td></tr>
 
-  RIKER
-     Let's see if we can tap directly into the computer
-     core.
+<tr id="L35"><td><a href="#L35">35</a></td><td>ANNOTATION: puts the spare CPU down and sets up the laser link</td></tr>
 
-  LAFORGE
-     The ODN junction is right down here.
+<tr id="L36"><td><a href="#L36">36</a></td><td>DATA:  Core transfer is engaged.</td></tr>
 
-  ANNOTATION
-     takes of a panel
+<tr id="L37"><td><a href="#L37">37</a></td><td>ANNOTATION: Geordi looks at the instrumentation on the device.</td></tr>
 
-  LAFORGE
-     Data?
+<tr id="L38"><td><a href="#L38">38</a></td><td>LAFORGE:  Exchange protocol verified. The files are intact. At least some of them, anyway.</td></tr>
 
-  ANNOTATION
-     puts the spare CPU down and sets up the laser link
+<tr id="L39"><td><a href="#L39">39</a></td><td>ANNOTATION: a high pitched voice is heard</td></tr>
 
-  DATA
-     Core transfer is engaged.
+<tr id="L40"><td><a href="#L40">40</a></td><td>RIKER:  Stay here, Geordi. Data.</td></tr>
 
-  ANNOTATION
-     Geordi looks at the instrumentation on the device.
+<tr id="L41"><td><a href="#L41">41</a></td><td>ANNOTATION: a little further along, they find a young boy trapped under debris</td></tr>
 
-  LAFORGE
-     Exchange protocol verified. The files are intact.
-     At least some of them, anyway.
+<tr id="L42"><td><a href="#L42">42</a></td><td>TIMOTHY:  Are my parents alright?</td></tr>
 
-  ANNOTATION
-     a high pitched voice is heard
+<tr id="L43"><td><a href="#L43">43</a></td><td>SOMEONE: Captain's log, supplemental. A young boy, shielded from our initial sensor scans, has been discovered pinned beneath a fallen beam. The degree of damage to the Vico is making our rescue attempt difficult.</td></tr>
 
-  RIKER
-     Stay here, Geordi. Data.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L44"><td><a href="#L44">44</a></td><td>PICARD:  Transporter room one, can you lock on</td></tr>
 
-  ANNOTATION
-     a little further along, they find a young boy
-     trapped under debris
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L45"><td><a href="#L45">45</a></td><td>PICARD [OC]:  To him and transport directly to Sickbay?</td></tr>
 
-  TIMOTHY
-     Are my parents alright?
+<tr id="L46"><td><a href="#L46">46</a></td><td>HUTCHINSON:  I'll try, Captain, but there's a lot of shielding to pull him through.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. A young boy, shielded
-     from our initial sensor scans, has been discovered
-     pinned beneath a fallen beam. The degree of damage
-     to the Vico is making our rescue attempt
-     difficult.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L47"><td><a href="#L47">47</a></td><td>PICARD:  Acknowledged. Picard to Crusher.</td></tr>
 
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L48"><td><a href="#L48">48</a></td><td>CRUSHER:  Sickbay here, Captain.</td></tr>
 
-LOCATION--Bridge
+<tr id="L49"><td><a href="#L49">49</a></td><td>PICARD [OC]:  Prepare for emergency transport.</td></tr>
 
-  PICARD
-     Transporter room one, can you lock on
+<tr id="L50"><td><a href="#L50">50</a></td><td>CRUSHER:  Yes, sir.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L51"><td><a href="#L51">51</a></td><td>CRUSHER [OC]:  Crusher out.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L52"><td><a href="#L52">52</a></td><td>PICARD:  Picard to Commander Riker.</td></tr>
 
-  PICARD [OC]
-     To him and transport directly to Sickbay?
+<tr><td></td><td>LOCATION--Vico</td></tr>
+<tr id="L53"><td><a href="#L53">53</a></td><td>PICARD [OC]:  Is the boy ready, Number One?</td></tr>
 
-  HUTCHINSON
-     I'll try, Captain, but there's a lot of shielding
-     to pull him through.
+<tr id="L54"><td><a href="#L54">54</a></td><td>RIKER:  Ready, sir.</td></tr>
 
+<tr id="L55"><td><a href="#L55">55</a></td><td>PICARD [OC]:  It's your signal.</td></tr>
 
-LOCATION--Bridge
+<tr id="L56"><td><a href="#L56">56</a></td><td>RIKER:  Aye, Captain. It's going to be okay. Here we go. Energise.</td></tr>
 
-  PICARD
-     Acknowledged. Picard to Crusher.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L57"><td><a href="#L57">57</a></td><td>PICARD [OC]:  Ensign, do we have him?</td></tr>
 
+<tr id="L58"><td><a href="#L58">58</a></td><td>HUTCHINSON:  The lock is holding. I just can't resolve the matter stream, not with all that victurium alloy in the way.</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Vico</td></tr>
+<tr id="L59"><td><a href="#L59">59</a></td><td>HUTCHINSON [OC]:  Commander Riker. You'll have to get him out into the corridor.</td></tr>
 
-  CRUSHER
-     Sickbay here, Captain.
+<tr id="L60"><td><a href="#L60">60</a></td><td>DATA:  I could move the beam, sir. However, it may initiate the collapse of the surrounding supports. I recommend you and Geordi return to the ship.</td></tr>
 
-  PICARD [OC]
-     Prepare for emergency transport.
+<tr id="L61"><td><a href="#L61">61</a></td><td>RIKER:  Agreed. La Forge.</td></tr>
 
-  CRUSHER
-     Yes, sir.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L62"><td><a href="#L62">62</a></td><td>ANNOTATION: Riker and La Forge are beamed in</td></tr>
 
+<tr id="L63"><td><a href="#L63">63</a></td><td>HUTCHINSON:  I'm locked onto Commander Data and the boy, sir. I'll energise as soon as they've cleared the bulkheads.</td></tr>
 
-LOCATION--Bridge
+<tr id="L64"><td><a href="#L64">64</a></td><td>RIKER:  Whenever you're ready, Data.</td></tr>
 
-  CRUSHER [OC]
-     Crusher out.
+<tr id="L65"><td><a href="#L65">65</a></td><td>DATA [OC]:  Yes, sir.</td></tr>
 
-  PICARD
-     Picard to Commander Riker.
+<tr><td></td><td>LOCATION--Vico</td></tr>
+<tr id="L66"><td><a href="#L66">66</a></td><td>TIMOTHY:  Are you're going to lift that?</td></tr>
 
+<tr id="L67"><td><a href="#L67">67</a></td><td>DATA:  Yes. Then I will take you to the corridor. We will transport back to the Enterprise from there. Do you understand?</td></tr>
 
-LOCATION--Vico
+<tr id="L68"><td><a href="#L68">68</a></td><td>TIMOTHY:  How come you can pick up something so heavy?</td></tr>
 
-  PICARD [OC]
-     Is the boy ready, Number One?
+<tr id="L69"><td><a href="#L69">69</a></td><td>DATA:  I am an android. My strength is many times that of a human. It is going to be okay. I will count to three. One two three.</td></tr>
 
-  RIKER
-     Ready, sir.
+<tr id="L70"><td><a href="#L70">70</a></td><td>ANNOTATION: he pushes up the beam with one hand, Timothy wriggles out and runs. Data drops the beam and follows, picking the boy up when he stumbles at the steps</td></tr>
 
-  PICARD [OC]
-     It's your signal.
+<tr id="L71"><td><a href="#L71">71</a></td><td>DATA:  Energise.</td></tr>
 
-  RIKER
-     Aye, Captain. It's going to be okay. Here we go.
-     Energise.
+<tr id="L72"><td><a href="#L72">72</a></td><td>SOMEONE: Captain's log, supplemental. A thorough search of the Vico has revealed no additional survivors. We have begun the process of counselling the boy with regard to the tragedy.</td></tr>
 
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L73"><td><a href="#L73">73</a></td><td>CRUSHER:  Don't be afraid.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L74"><td><a href="#L74">74</a></td><td>ANNOTATION: a little while later</td></tr>
 
-  PICARD [OC]
-     Ensign, do we have him?
+<tr id="L75"><td><a href="#L75">75</a></td><td>TIMOTHY:  We were in the Black Cluster. I don't know where they came from. They had a big ship and they kept shooting at us. Then they beamed over. They had purple helmets on and phaser rifles. I saw them. They didn't see me.</td></tr>
 
-  HUTCHINSON
-     The lock is holding. I just can't resolve the
-     matter stream, not with all that victurium alloy
-     in the way.
+<tr id="L76"><td><a href="#L76">76</a></td><td>CRUSHER:  You're safe now, Timothy. I'm sorry for what happened. It's going to be all right. I bet you're hungry. Would you like me to get you something to eat?</td></tr>
 
+<tr id="L77"><td><a href="#L77">77</a></td><td>ANNOTATION: Timothy nods and Crusher leaves</td></tr>
 
-LOCATION--Vico
+<tr id="L78"><td><a href="#L78">78</a></td><td>DATA:  Counsellor, I must join Commander La Forge in Engineering. If you will excuse me.</td></tr>
 
-  HUTCHINSON [OC]
-     Commander Riker. You'll have to get him out into
-     the corridor.
+<tr id="L79"><td><a href="#L79">79</a></td><td>ANNOTATION: but Timothy is holding onto Data's hand</td></tr>
 
-  DATA
-     I could move the beam, sir. However, it may
-     initiate the collapse of the surrounding supports.
-     I recommend you and Geordi return to the ship.
+<tr id="L80"><td><a href="#L80">80</a></td><td>TROI:  Timothy, would you like Data to stay with you a little bit longer? (a little nod)</td></tr>
 
-  RIKER
-     Agreed. La Forge.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L81"><td><a href="#L81">81</a></td><td>ANNOTATION: looking at a schematic of the Vico on a wall monitor</td></tr>
 
+<tr id="L82"><td><a href="#L82">82</a></td><td>LAFORGE:  Sections of the primary and secondary hull were torn right off. The shearing planes are here, here, and here.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L83"><td><a href="#L83">83</a></td><td>PICARD:  How much longer till we can access their logs?</td></tr>
 
-  ANNOTATION
-     Riker and La Forge are beamed in
+<tr id="L84"><td><a href="#L84">84</a></td><td>LAFORGE:  Almost an hour.</td></tr>
 
-  HUTCHINSON
-     I'm locked onto Commander Data and the boy, sir.
-     I'll energise as soon as they've cleared the
-     bulkheads.
+<tr id="L85"><td><a href="#L85">85</a></td><td>PICARD:  The boy was here.</td></tr>
 
-  RIKER
-     Whenever you're ready, Data.
+<tr id="L86"><td><a href="#L86">86</a></td><td>LAFORGE:  The hallway outside the computer core. His mother was the ship's systems engineer. The second away team found her body here inside the core.</td></tr>
 
-  DATA [OC]
-     Yes, sir.
+<tr id="L87"><td><a href="#L87">87</a></td><td>PICARD:  And his father?</td></tr>
 
+<tr id="L88"><td><a href="#L88">88</a></td><td>LAFORGE:  Ship's second officer. He was most likely on the bridge when it was exposed to space.</td></tr>
 
-LOCATION--Vico
+<tr id="L89"><td><a href="#L89">89</a></td><td>PICARD:  Most likely.</td></tr>
 
-  TIMOTHY
-     Are you're going to lift that?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L90"><td><a href="#L90">90</a></td><td>ANNOTATION: Timothy falls asleep and Data is freed from his grip</td></tr>
 
-  DATA
-     Yes. Then I will take you to the corridor. We will
-     transport back to the Enterprise from there. Do
-     you understand?
+<tr id="L91"><td><a href="#L91">91</a></td><td>CRUSHER:  He'll sleep for a few hours at least. I don't need to keep him here but I will need to see him again tomorrow. You've got some work cut out for you.</td></tr>
 
-  TIMOTHY
-     How come you can pick up something so heavy?
+<tr id="L92"><td><a href="#L92">92</a></td><td>TROI:  His world is gone, Data. We're going to have to help him build a new one.</td></tr>
 
-  DATA
-     I am an android. My strength is many times that of
-     a human. It is going to be okay. I will count to
-     three. One two three.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L93"><td><a href="#L93">93</a></td><td>LAFORGE:  This is not good. Whatever hit the Vico must have set up an EM pulse that flashed through their computer banks.</td></tr>
 
-  ANNOTATION
-     he pushes up the beam with one hand, Timothy
-     wriggles out and runs. Data drops the beam and
-     follows, picking the boy up when he stumbles at
-     the steps
+<tr id="L94"><td><a href="#L94">94</a></td><td>DATA:  Nearly eighty three percent of their records have been lost.</td></tr>
 
-  DATA
-     Energise.
+<tr id="L95"><td><a href="#L95">95</a></td><td>LAFORGE:  And all of their sensor logs. Let's use what we got from our own sensors. I'll call up the structural analysis and the surface scans.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. A thorough search of
-     the Vico has revealed no additional survivors. We
-     have begun the process of counselling the boy with
-     regard to the tragedy.
+<tr id="L96"><td><a href="#L96">96</a></td><td>DATA:  Geordi, as a child, did you ever experience a traumatic event?</td></tr>
 
+<tr id="L97"><td><a href="#L97">97</a></td><td>LAFORGE:  You're wondering about Timothy?</td></tr>
 
-LOCATION--Sickbay
+<tr id="L98"><td><a href="#L98">98</a></td><td>DATA:  Yes.</td></tr>
 
-  CRUSHER
-     Don't be afraid.
+<tr id="L99"><td><a href="#L99">99</a></td><td>LAFORGE:  I was caught in a fire once. I must have been, I don't know, about five, I guess. It was before I got the first visor. And it was only a couple of minutes before my parents found me and pulled me out. And nobody got hurt, but I tell you that was the longest couple of minutes of my life. It was a while after that before I could even let my parents get out of earshot. It was like I absolutely needed to know that they were there, you know?</td></tr>
 
-  ANNOTATION
-     a little while later
+<tr id="L100"><td><a href="#L100">100</a></td><td>DATA:  Timothy no longer has that kind of support.</td></tr>
 
-  TIMOTHY
-     We were in the Black Cluster. I don't know where
-     they came from. They had a big ship and they kept
-     shooting at us. Then they beamed over. They had
-     purple helmets on and phaser rifles. I saw them.
-     They didn't see me.
+<tr id="L101"><td><a href="#L101">101</a></td><td>LAFORGE:  Yeah.</td></tr>
 
-  CRUSHER
-     You're safe now, Timothy. I'm sorry for what
-     happened. It's going to be all right. I bet you're
-     hungry. Would you like me to get you something to
-     eat?
+<tr><td></td><td>LOCATION--Classroom</td></tr>
+<tr id="L102"><td><a href="#L102">102</a></td><td>ANNOTATION: the male teacher is reading aloud to the quiet and attentive pupils, who are following on their PADDS, except one</td></tr>
 
-  ANNOTATION
-     Timothy nods and Crusher leaves
+<tr id="L103"><td><a href="#L103">103</a></td><td>TEACHER:  Dara and her brother found themselves in the land of Tagas where the ruler, Elamos the Magnificent, had proclaimed as law. 'No children will be tolerated within the Great Kingdom'. When Dara saw the proclamation, she just laughed, and said, 'How magnificent a ruler, to be frightened by the likes of us.' Timothy, we're done with sculpture for now.</td></tr>
 
-  DATA
-     Counsellor, I must join Commander La Forge in
-     Engineering. If you will excuse me.
+<tr id="L104"><td><a href="#L104">104</a></td><td>TIMOTHY:  It's not finished.</td></tr>
 
-  ANNOTATION
-     but Timothy is holding onto Data's hand
+<tr id="L105"><td><a href="#L105">105</a></td><td>ANNOTATION: putting a portico on a model building</td></tr>
 
-  TROI
-     Timothy, would you like Data to stay with you a
-     little bit longer? (a little nod)
+<tr id="L106"><td><a href="#L106">106</a></td><td>TEACHER:  We'll come back to it next period. Why don't you pick up your mythology book and follow along?</td></tr>
 
+<tr id="L107"><td><a href="#L107">107</a></td><td>TIMOTHY:  But it's not finished.</td></tr>
 
-LOCATION--Engineering
+<tr id="L108"><td><a href="#L108">108</a></td><td>ANNOTATION: the worried teacher casts a glance towards Troi watching through the window</td></tr>
 
-  ANNOTATION
-     looking at a schematic of the Vico on a wall
-     monitor
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L109"><td><a href="#L109">109</a></td><td>ANNOTATION: at the science station</td></tr>
 
-  LAFORGE
-     Sections of the primary and secondary hull were
-     torn right off. The shearing planes are here,
-     here, and here.
+<tr id="L110"><td><a href="#L110">110</a></td><td>LAFORGE:  Magnetic residual analysis confirms that the Vico was attacked inside the Black Cluster. The graviton wave fronts pushed the ship to where we found it.</td></tr>
 
-  PICARD
-     How much longer till we can access their logs?
+<tr id="L111"><td><a href="#L111">111</a></td><td>PICARD:  No signs of phaser burns on the hull.</td></tr>
 
-  LAFORGE
-     Almost an hour.
+<tr id="L112"><td><a href="#L112">112</a></td><td>LAFORGE:  No, sir. Torsional stress levels point to a disrupter-style weapon.</td></tr>
 
-  PICARD
-     The boy was here.
+<tr id="L113"><td><a href="#L113">113</a></td><td>DATA:  Fracture points indicate that the energy burst came from a range of less than three thousand metres.</td></tr>
 
-  LAFORGE
-     The hallway outside the computer core. His mother
-     was the ship's systems engineer. The second away
-     team found her body here inside the core.
+<tr id="L114"><td><a href="#L114">114</a></td><td>PICARD:  But that's a strategy consistent with a cloaked vessel. Romulan. Or Klingon. But we're quite a distance from either of their territories.</td></tr>
 
-  PICARD
-     And his father?
+<tr id="L115"><td><a href="#L115">115</a></td><td>DATA:  The Breen have outposts in this sector. The attack on the Vico is consistent with their battle tactics and their level of technology.</td></tr>
 
-  LAFORGE
-     Ship's second officer. He was most likely on the
-     bridge when it was exposed to space.
+<tr id="L116"><td><a href="#L116">116</a></td><td>PICARD:  Thank you, Data. But what would the Breen be doing inside the Black Cluster? The boy described a boarding party with helmets and phaser rifles.</td></tr>
 
-  PICARD
-     Most likely.
+<tr id="L117"><td><a href="#L117">117</a></td><td>LAFORGE:  Boarding party? I don't think that's likely, sir.</td></tr>
 
+<tr id="L118"><td><a href="#L118">118</a></td><td>ANNOTATION: Troi enters</td></tr>
 
-LOCATION--Sickbay
+<tr id="L119"><td><a href="#L119">119</a></td><td>PICARD:  Counsellor.</td></tr>
 
-  ANNOTATION
-     Timothy falls asleep and Data is freed from his
-     grip
+<tr id="L120"><td><a href="#L120">120</a></td><td>LAFORGE:  There was absolutely no evidence of anybody coming on board the Vico. We would have found a transporter field trace. Or if somebody had used the entry ports, we would have found an electrostatic differential in the docking latches, and we didn't. Could Timothy have imagined that, Counsellor?</td></tr>
 
-  CRUSHER
-     He'll sleep for a few hours at least. I don't need
-     to keep him here but I will need to see him again
-     tomorrow. You've got some work cut out for you.
+<tr id="L121"><td><a href="#L121">121</a></td><td>PICARD:  Or could he be lying?</td></tr>
 
-  TROI
-     His world is gone, Data. We're going to have to
-     help him build a new one.
+<tr id="L122"><td><a href="#L122">122</a></td><td>TROI:  If he's lying, I haven't been able to sense it. Perhaps his emotional trauma level is too high.</td></tr>
 
+<tr id="L123"><td><a href="#L123">123</a></td><td>PICARD:  Why wouldn't he tell us the truth?</td></tr>
 
-LOCATION--Engineering
+<tr id="L124"><td><a href="#L124">124</a></td><td>TROI:  He's still in shock. it's hard to know what's going on in his mind right now.</td></tr>
 
-  LAFORGE
-     This is not good. Whatever hit the Vico must have
-     set up an EM pulse that flashed through their
-     computer banks.
+<tr id="L125"><td><a href="#L125">125</a></td><td>LAFORGE:  Well, I'll go back and check the sensor readings again but I don't think we're going to find anything.</td></tr>
 
-  DATA
-     Nearly eighty three percent of their records have
-     been lost.
+<tr id="L126"><td><a href="#L126">126</a></td><td>PICARD:  Thank you, Geordi.</td></tr>
 
-  LAFORGE
-     And all of their sensor logs. Let's use what we
-     got from our own sensors. I'll call up the
-     structural analysis and the surface scans.
+<tr id="L127"><td><a href="#L127">127</a></td><td>ANNOTATION: La Forge leaves</td></tr>
 
-  DATA
-     Geordi, as a child, did you ever experience a
-     traumatic event?
+<tr id="L128"><td><a href="#L128">128</a></td><td>TROI:  Data. Captain, I think we should ask Data to spend some time with him.</td></tr>
 
-  LAFORGE
-     You're wondering about Timothy?
+<tr id="L129"><td><a href="#L129">129</a></td><td>DATA:  I do not understand.</td></tr>
 
-  DATA
-     Yes.
+<tr id="L130"><td><a href="#L130">130</a></td><td>TROI:  I'm very worried about his behaviour and what I've just heard doesn't make me feel any better. Data, you're the only one he's reached out to, because you rescued him. We can use your relationship with him to help his recovery.</td></tr>
 
-  LAFORGE
-     I was caught in a fire once. I must have been, I
-     don't know, about five, I guess. It was before I
-     got the first visor. And it was only a couple of
-     minutes before my parents found me and pulled me
-     out. And nobody got hurt, but I tell you that was
-     the longest couple of minutes of my life. It was a
-     while after that before I could even let my
-     parents get out of earshot. It was like I
-     absolutely needed to know that they were there,
-     you know?
+<tr id="L131"><td><a href="#L131">131</a></td><td>PICARD:  Would Timothy also be more inclined to tell Data the truth about what happened?</td></tr>
 
-  DATA
-     Timothy no longer has that kind of support.
+<tr id="L132"><td><a href="#L132">132</a></td><td>TROI:  It's a possibility.</td></tr>
 
-  LAFORGE
-     Yeah.
+<tr id="L133"><td><a href="#L133">133</a></td><td>PICARD:  Commander, proceed with Timothy as the Counsellor suggests.</td></tr>
 
+<tr id="L134"><td><a href="#L134">134</a></td><td>DATA:  Aye, sir.</td></tr>
 
-LOCATION--Classroom
+<tr id="L135"><td><a href="#L135">135</a></td><td>ANNOTATION: Picard leaves</td></tr>
 
-  ANNOTATION
-     the male teacher is reading aloud to the quiet and
-     attentive pupils, who are following on their
-     PADDS, except one
+<tr id="L136"><td><a href="#L136">136</a></td><td>DATA:  Counsellor, exactly how shall I proceed?</td></tr>
 
-  TEACHER
-     Dara and her brother found themselves in the land
-     of Tagas where the ruler, Elamos the Magnificent,
-     had proclaimed as law. 'No children will be
-     tolerated within the Great Kingdom'. When Dara saw
-     the proclamation, she just laughed, and said, 'How
-     magnificent a ruler, to be frightened by the likes
-     of us.' Timothy, we're done with sculpture for
-     now.
+<tr id="L137"><td><a href="#L137">137</a></td><td>TROI:  Just be with him. You're a presence he trusts, and that's what he needs most right now.</td></tr>
 
-  TIMOTHY
-     It's not finished.
+<tr><td></td><td>LOCATION--Timothy's quarters</td></tr>
+<tr id="L138"><td><a href="#L138">138</a></td><td>ANNOTATION: Timothy is working on the temple sculpture he was doing in class earlier when the doorbell rings</td></tr>
 
-  ANNOTATION
-     putting a portico on a model building
+<tr id="L139"><td><a href="#L139">139</a></td><td>TIMOTHY:  What?</td></tr>
 
-  TEACHER
-     We'll come back to it next period. Why don't you
-     pick up your mythology book and follow along?
+<tr id="L140"><td><a href="#L140">140</a></td><td>ANNOTATION: Data enters</td></tr>
 
-  TIMOTHY
-     But it's not finished.
+<tr id="L141"><td><a href="#L141">141</a></td><td>TIMOTHY:  Data.</td></tr>
 
-  ANNOTATION
-     the worried teacher casts a glance towards Troi
-     watching through the window
+<tr id="L142"><td><a href="#L142">142</a></td><td>DATA:  Hello, Timothy. May I enter?</td></tr>
 
+<tr id="L143"><td><a href="#L143">143</a></td><td>TIMOTHY:  Yeah.</td></tr>
 
-LOCATION--Bridge
+<tr id="L144"><td><a href="#L144">144</a></td><td>DATA:  Ah. You are attempting to recreate the Dokkaran temple of Kural Hanesh?</td></tr>
 
-  ANNOTATION
-     at the science station
+<tr id="L145"><td><a href="#L145">145</a></td><td>TIMOTHY:  Isn't it great?! See, there's the big hallway the teacher told us about. That's where everybody came in. That's where they stood. And that's where the altar was. What do you think?</td></tr>
 
-  LAFORGE
-     Magnetic residual analysis confirms that the Vico
-     was attacked inside the Black Cluster. The
-     graviton wave fronts pushed the ship to where we
-     found it.
+<tr id="L146"><td><a href="#L146">146</a></td><td>DATA:  Do you wish a frank evaluation? (nod) It lacks the harmony that characterised this particular temple and Dokkaran culture in general.</td></tr>
 
-  PICARD
-     No signs of phaser burns on the hull.
+<tr id="L147"><td><a href="#L147">147</a></td><td>ANNOTATION: Timothy flops onto a chair</td></tr>
 
-  LAFORGE
-     No, sir. Torsional stress levels point to a
-     disrupter-style weapon.
+<tr id="L148"><td><a href="#L148">148</a></td><td>TIMOTHY:  You hate it.</td></tr>
 
-  DATA
-     Fracture points indicate that the energy burst
-     came from a range of less than three thousand
-     metres.
+<tr id="L149"><td><a href="#L149">149</a></td><td>DATA:  No, I am not capable of hatred.</td></tr>
 
-  PICARD
-     But that's a strategy consistent with a cloaked
-     vessel. Romulan. Or Klingon. But we're quite a
-     distance from either of their territories.
+<tr id="L150"><td><a href="#L150">150</a></td><td>TIMOTHY:  I can't do anything right.</td></tr>
 
-  DATA
-     The Breen have outposts in this sector. The attack
-     on the Vico is consistent with their battle
-     tactics and their level of technology.
+<tr id="L151"><td><a href="#L151">151</a></td><td>DATA:  You are making an unwarranted extrapolation. I was merely offering an aesthetic analysis of this particular model. The base appears quite sturdy.</td></tr>
 
-  PICARD
-     Thank you, Data. But what would the Breen be doing
-     inside the Black Cluster? The boy described a
-     boarding party with helmets and phaser rifles.
+<tr id="L152"><td><a href="#L152">152</a></td><td>ANNOTATION: Timothy comes back and starts again, but tries to put a ceiling on with only half it's supports available. It falls</td></tr>
 
-  LAFORGE
-     Boarding party? I don't think that's likely, sir.
+<tr id="L153"><td><a href="#L153">153</a></td><td>TIMOTHY:  I told you.</td></tr>
 
-  ANNOTATION
-     Troi enters
+<tr id="L154"><td><a href="#L154">154</a></td><td>DATA:  May I suggest a different approach? You were attempting to construct the upper level before the supports were in place. Observe.</td></tr>
 
-  PICARD
-     Counsellor.
+<tr id="L155"><td><a href="#L155">155</a></td><td>LAFORGE [OC]:  La Forge to Data.</td></tr>
 
-  LAFORGE
-     There was absolutely no evidence of anybody coming
-     on board the Vico. We would have found a
-     transporter field trace. Or if somebody had used
-     the entry ports, we would have found an
-     electrostatic differential in the docking latches,
-     and we didn't. Could Timothy have imagined that,
-     Counsellor?
+<tr id="L156"><td><a href="#L156">156</a></td><td>DATA:  Data here.</td></tr>
 
-  PICARD
-     Or could he be lying?
+<tr id="L157"><td><a href="#L157">157</a></td><td>LAFORGE [OC]:  I need your help with the shield modulators.</td></tr>
 
-  TROI
-     If he's lying, I haven't been able to sense it.
-     Perhaps his emotional trauma level is too high.
+<tr id="L158"><td><a href="#L158">158</a></td><td>DATA:  I will join you in a moment, Geordi. Data out. Lieutenant La Forge requires my assistance.</td></tr>
 
-  PICARD
-     Why wouldn't he tell us the truth?
+<tr id="L159"><td><a href="#L159">159</a></td><td>ANNOTATION: Data turns to go, then goes back and builds the temple very quickly</td></tr>
 
-  TROI
-     He's still in shock. it's hard to know what's
-     going on in his mind right now.
+<tr id="L160"><td><a href="#L160">160</a></td><td>TIMOTHY:  Incredible. Data, how come you can do that?</td></tr>
 
-  LAFORGE
-     Well, I'll go back and check the sensor readings
-     again but I don't think we're going to find
-     anything.
+<tr id="L161"><td><a href="#L161">161</a></td><td>DATA:  I am designed to exceed human capacity, both mentally and physically.</td></tr>
 
-  PICARD
-     Thank you, Geordi.
+<tr id="L162"><td><a href="#L162">162</a></td><td>TIMOTHY:  Androids are better than humans?</td></tr>
 
-  ANNOTATION
-     La Forge leaves
+<tr id="L163"><td><a href="#L163">163</a></td><td>DATA:  Better is a highly subjective term. I do not, for example, possess the ability to experience emotion as humans do.</td></tr>
 
-  TROI
-     Data. Captain, I think we should ask Data to spend
-     some time with him.
+<tr id="L164"><td><a href="#L164">164</a></td><td>TIMOTHY:  No emotions? You mean you can't be happy or sad?</td></tr>
 
-  DATA
-     I do not understand.
+<tr id="L165"><td><a href="#L165">165</a></td><td>DATA:  That is correct.</td></tr>
 
-  TROI
-     I'm very worried about his behaviour and what I've
-     just heard doesn't make me feel any better. Data,
-     you're the only one he's reached out to, because
-     you rescued him. We can use your relationship with
-     him to help his recovery.
+<tr id="L166"><td><a href="#L166">166</a></td><td>TIMOTHY:  Why not?</td></tr>
 
-  PICARD
-     Would Timothy also be more inclined to tell Data
-     the truth about what happened?
+<tr id="L167"><td><a href="#L167">167</a></td><td>DATA:  My positronic brain is not capable of generating those conditions. Goodbye.</td></tr>
 
-  TROI
-     It's a possibility.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L168"><td><a href="#L168">168</a></td><td>TIMOTHY:  Data! Can we build something else later?</td></tr>
 
-  PICARD
-     Commander, proceed with Timothy as the Counsellor
-     suggests.
+<tr id="L169"><td><a href="#L169">169</a></td><td>DATA:  That would be acceptable.</td></tr>
 
-  DATA
-     Aye, sir.
+<tr id="L170"><td><a href="#L170">170</a></td><td>TIMOTHY:  Bye.</td></tr>
 
-  ANNOTATION
-     Picard leaves
+<tr><td></td><td>LOCATION--Timothy's quarters</td></tr>
+<tr id="L171"><td><a href="#L171">171</a></td><td>ANNOTATION: looking in the mirror</td></tr>
 
-  DATA
-     Counsellor, exactly how shall I proceed?
+<tr id="L172"><td><a href="#L172">172</a></td><td>TIMOTHY:  I am designed to exceed human capacity. tilts head) That is correct.</td></tr>
 
-  TROI
-     Just be with him. You're a presence he trusts, and
-     that's what he needs most right now.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L173"><td><a href="#L173">173</a></td><td>DATA:  The Black Cluster was formed almost nine billion years ago when hundreds of protostars collapsed in close proximity. The resulting gravitational forces are both violent and highly unpredictable.</td></tr>
 
+<tr id="L174"><td><a href="#L174">174</a></td><td>LAFORGE:  To get anywhere near the centre, we're going to have to push through the gravitational wavefronts like the science vessel was designed to do. I've already adjusted our shields accordingly.</td></tr>
 
-LOCATION--Timothy's quarters
+<tr id="L175"><td><a href="#L175">175</a></td><td>WORF:  The gravitational forces will affect sensor accuracy. Detecting an enemy vessel will be difficult.</td></tr>
 
-  ANNOTATION
-     Timothy is working on the temple sculpture he was
-     doing in class earlier when the doorbell rings
+<tr id="L176"><td><a href="#L176">176</a></td><td>RIKER:  Maybe that's what happened to the Vico. They didn't see anything coming until it was too late.</td></tr>
 
-  TIMOTHY
-     What?
+<tr id="L177"><td><a href="#L177">177</a></td><td>PICARD:  Counsellor, has the boy volunteered any further information?</td></tr>
 
-  ANNOTATION
-     Data enters
+<tr id="L178"><td><a href="#L178">178</a></td><td>TROI:  No, but I do have an appointment with him in less than half an hour.</td></tr>
 
-  TIMOTHY
-     Data.
+<tr id="L179"><td><a href="#L179">179</a></td><td>PICARD:  If there's a possibility of getting more from him, I'd like you to pursue it. But we need to continue our investigation. We'll enter the Black Cluster at oh seven hundred hours tomorrow morning. Dismissed.</td></tr>
 
-  DATA
-     Hello, Timothy. May I enter?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L180"><td><a href="#L180">180</a></td><td>ANNOTATION: Troi rings the bell of 08-1402 and Timothy opens the door. He's wearing a jumper with a gold body section like a starfleet uniform</td></tr>
 
-  TIMOTHY
-     Yeah.
+<tr id="L181"><td><a href="#L181">181</a></td><td>TROI:  Hello, Timothy. Are you ready to go?</td></tr>
 
-  DATA
-     Ah. You are attempting to recreate the Dokkaran
-     temple of Kural Hanesh?
+<tr id="L182"><td><a href="#L182">182</a></td><td>TIMOTHY:  Yes, Counsellor. I am ready.</td></tr>
 
-  TIMOTHY
-     Isn't it great?! See, there's the big hallway the
-     teacher told us about. That's where everybody came
-     in. That's where they stood. And that's where the
-     altar was. What do you think?
+<tr id="L183"><td><a href="#L183">183</a></td><td>TROI:  How are you feeling?</td></tr>
 
-  DATA
-     Do you wish a frank evaluation? (nod) It lacks the
-     harmony that characterised this particular temple
-     and Dokkaran culture in general.
+<tr id="L184"><td><a href="#L184">184</a></td><td>TIMOTHY:  I am functioning within established parameters.</td></tr>
 
-  ANNOTATION
-     Timothy flops onto a chair
+<tr id="L185"><td><a href="#L185">185</a></td><td>TROI:  Established parameters? You sound like Data.</td></tr>
 
-  TIMOTHY
-     You hate it.
+<tr id="L186"><td><a href="#L186">186</a></td><td>TIMOTHY:  I am an android.</td></tr>
 
-  DATA
-     No, I am not capable of hatred.
+<tr id="L187"><td><a href="#L187">187</a></td><td>TROI:  I see. Well, let's go for our walk, shall we?</td></tr>
 
-  TIMOTHY
-     I can't do anything right.
+<tr id="L188"><td><a href="#L188">188</a></td><td>TIMOTHY:  That would be acceptable.</td></tr>
 
-  DATA
-     You are making an unwarranted extrapolation. I was
-     merely offering an aesthetic analysis of this
-     particular model. The base appears quite sturdy.
+<tr><td></td><td>LOCATION--Ten Forward</td></tr>
+<tr id="L189"><td><a href="#L189">189</a></td><td>TROI:  So, what would you like?</td></tr>
 
-  ANNOTATION
-     Timothy comes back and starts again, but tries to
-     put a ceiling on with only half it's supports
-     available. It falls
+<tr id="L190"><td><a href="#L190">190</a></td><td>TIMOTHY:  Androids do not need to eat or drink. (spots a dessert being carried by a waiter) However, sometimes we like to taste things. A Tamarin frost, please. Would you like anything, Counsellor?</td></tr>
 
-  TIMOTHY
-     I told you.
+<tr id="L191"><td><a href="#L191">191</a></td><td>TROI:  No, I'm fine, thank you.</td></tr>
 
-  DATA
-     May I suggest a different approach? You were
-     attempting to construct the upper level before the
-     supports were in place. Observe.
+<tr id="L192"><td><a href="#L192">192</a></td><td>TIMOTHY:  As you wish.</td></tr>
 
-  LAFORGE [OC]
-     La Forge to Data.
+<tr id="L193"><td><a href="#L193">193</a></td><td>TROI:  So you're no longer a human?</td></tr>
 
-  DATA
-     Data here.
+<tr id="L194"><td><a href="#L194">194</a></td><td>TIMOTHY:  I'm an android.</td></tr>
 
-  LAFORGE [OC]
-     I need your help with the shield modulators.
+<tr id="L195"><td><a href="#L195">195</a></td><td>TROI:  When did this happen?</td></tr>
 
-  DATA
-     I will join you in a moment, Geordi. Data out.
-     Lieutenant La Forge requires my assistance.
+<tr id="L196"><td><a href="#L196">196</a></td><td>TIMOTHY:  I've always been an android.</td></tr>
 
-  ANNOTATION
-     Data turns to go, then goes back and builds the
-     temple very quickly
+<tr id="L197"><td><a href="#L197">197</a></td><td>TROI:  What's it like being an android?</td></tr>
 
-  TIMOTHY
-     Incredible. Data, how come you can do that?
+<tr id="L198"><td><a href="#L198">198</a></td><td>TIMOTHY:  I am designed to exceed human capacity, both mentally and physically. But I do not experience emotions.</td></tr>
 
-  DATA
-     I am designed to exceed human capacity, both
-     mentally and physically.
+<tr id="L199"><td><a href="#L199">199</a></td><td>TROI:  You don't? No emotion at all?</td></tr>
 
-  TIMOTHY
-     Androids are better than humans?
+<tr id="L200"><td><a href="#L200">200</a></td><td>TIMOTHY:  That is correct.</td></tr>
 
-  DATA
-     Better is a highly subjective term. I do not, for
-     example, possess the ability to experience emotion
-     as humans do.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L201"><td><a href="#L201">201</a></td><td>ANNOTATION: Data is included in the meeting</td></tr>
 
-  TIMOTHY
-     No emotions? You mean you can't be happy or sad?
+<tr id="L202"><td><a href="#L202">202</a></td><td>PICARD:  An android?</td></tr>
 
-  DATA
-     That is correct.
+<tr id="L203"><td><a href="#L203">203</a></td><td>TROI:  I know it sounds unusual, but it is understandable. Technically, it's called enantiodromia. Conversion into the opposite. Timothy went from human to machine, from being emotional to being emotionless. But the underlying trauma is still there. He's just found a new way to suppress it.</td></tr>
 
-  TIMOTHY
-     Why not?
+<tr id="L204"><td><a href="#L204">204</a></td><td>PICARD:  Counsellor, how long will this behaviour last?</td></tr>
 
-  DATA
-     My positronic brain is not capable of generating
-     those conditions. Goodbye.
+<tr id="L205"><td><a href="#L205">205</a></td><td>TROI:  As long as he needs it to. Timothy is rebuilding his identity as best he can. The android persona is just one step along the way. As soon as he feels stronger and more sure of himself, it should drop away naturally.</td></tr>
 
+<tr id="L206"><td><a href="#L206">206</a></td><td>PICARD:  I assume this is not a time to confront him about what happened to his ship.</td></tr>
 
-LOCATION--Corridor
+<tr id="L207"><td><a href="#L207">207</a></td><td>TROI:  Not yet. The best thing we can do right now is to let Timothy take us where he wants to go. We should support the process and even encourage it.</td></tr>
 
-  TIMOTHY
-     Data! Can we build something else later?
+<tr id="L208"><td><a href="#L208">208</a></td><td>PICARD:  Data, I would like you to make Timothy the best android he can possibly be.</td></tr>
 
-  DATA
-     That would be acceptable.
+<tr><td></td><td>LOCATION--Timothy's quarters</td></tr>
+<tr id="L209"><td><a href="#L209">209</a></td><td>ANNOTATION: Data checks his appearance in the mirror, then tries to brush Timothy's hair to match his own</td></tr>
 
-  TIMOTHY
-     Bye.
+<tr id="L210"><td><a href="#L210">210</a></td><td>DATA:  Timothy, your head movements are counterproductive. Can you be still?</td></tr>
 
+<tr id="L211"><td><a href="#L211">211</a></td><td>TIMOTHY:  But you do it.</td></tr>
 
-LOCATION--Timothy's quarters
+<tr id="L212"><td><a href="#L212">212</a></td><td>DATA:  The servo mechanisms in my neck are designed to approximate human movements. I did not realize the effect was so distracting.</td></tr>
 
-  ANNOTATION
-     looking in the mirror
+<tr id="L213"><td><a href="#L213">213</a></td><td>TIMOTHY:  I like it. Data, are there any other androids in Starfleet?</td></tr>
 
-  TIMOTHY
-     I am designed to exceed human capacity. tilts
-     head) That is correct.
+<tr id="L214"><td><a href="#L214">214</a></td><td>DATA:  No. I am the only one.</td></tr>
 
+<tr id="L215"><td><a href="#L215">215</a></td><td>TIMOTHY:  How come you're not Captain?</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L216"><td><a href="#L216">216</a></td><td>DATA:  My service experience does not yet warrant such a position.</td></tr>
 
-  DATA
-     The Black Cluster was formed almost nine billion
-     years ago when hundreds of protostars collapsed in
-     close proximity. The resulting gravitational
-     forces are both violent and highly unpredictable.
+<tr id="L217"><td><a href="#L217">217</a></td><td>TIMOTHY:  Data, what's the scariest thing that ever happened to you?</td></tr>
 
-  LAFORGE
-     To get anywhere near the centre, we're going to
-     have to push through the gravitational wavefronts
-     like the science vessel was designed to do. I've
-     already adjusted our shields accordingly.
+<tr id="L218"><td><a href="#L218">218</a></td><td>DATA:  Fear is a quality that I do not possess.</td></tr>
 
-  WORF
-     The gravitational forces will affect sensor
-     accuracy. Detecting an enemy vessel will be
-     difficult.
+<tr id="L219"><td><a href="#L219">219</a></td><td>TIMOTHY:  Because it's an emotion?</td></tr>
 
-  RIKER
-     Maybe that's what happened to the Vico. They
-     didn't see anything coming until it was too late.
+<tr id="L220"><td><a href="#L220">220</a></td><td>DATA:  Correct.</td></tr>
 
-  PICARD
-     Counsellor, has the boy volunteered any further
-     information?
+<tr id="L221"><td><a href="#L221">221</a></td><td>TIMOTHY:  But what if you had a nightmare?</td></tr>
 
-  TROI
-     No, but I do have an appointment with him in less
-     than half an hour.
+<tr id="L222"><td><a href="#L222">222</a></td><td>DATA:  I have never had a nightmare. I do not require sleep. Timothy, are you having disturbing dreams?</td></tr>
 
-  PICARD
-     If there's a possibility of getting more from him,
-     I'd like you to pursue it. But we need to continue
-     our investigation. We'll enter the Black Cluster
-     at oh seven hundred hours tomorrow morning.
-     Dismissed.
+<tr id="L223"><td><a href="#L223">223</a></td><td>TIMOTHY:  I do not require sleep.</td></tr>
 
+<tr id="L224"><td><a href="#L224">224</a></td><td>DATA:  Is that satisfactory? (the hair)</td></tr>
 
-LOCATION--Corridor
+<tr id="L225"><td><a href="#L225">225</a></td><td>TIMOTHY:  It's perfect.</td></tr>
 
-  ANNOTATION
-     Troi rings the bell of 08-1402 and Timothy opens
-     the door. He's wearing a jumper with a gold body
-     section like a starfleet uniform
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L226"><td><a href="#L226">226</a></td><td>CRUSHER:  Transfer circuits are functioning properly.</td></tr>
 
-  TROI
-     Hello, Timothy. Are you ready to go?
+<tr id="L227"><td><a href="#L227">227</a></td><td>TIMOTHY:  Within established parameters?</td></tr>
 
-  TIMOTHY
-     Yes, Counsellor. I am ready.
+<tr id="L228"><td><a href="#L228">228</a></td><td>CRUSHER:  Absolutely. Input processing, pattern recognition, all within established parameters.</td></tr>
 
-  TROI
-     How are you feeling?
+<tr id="L229"><td><a href="#L229">229</a></td><td>DATA + TIMOTHY:  Thank you, Doctor.</td></tr>
 
-  TIMOTHY
-     I am functioning within established parameters.
+<tr><td></td><td>LOCATION--Data's quarters</td></tr>
+<tr id="L230"><td><a href="#L230">230</a></td><td>ANNOTATION: They are both painting - Data is doing a traditional pastoral landscape whilst Timothy's image is, well, angry</td></tr>
 
-  TROI
-     Established parameters? You sound like Data.
+<tr id="L231"><td><a href="#L231">231</a></td><td>TIMOTHY:  I ran out of red ochre.</td></tr>
 
-  TIMOTHY
-     I am an android.
+<tr id="L232"><td><a href="#L232">232</a></td><td>DATA:  You may use mine.</td></tr>
 
-  TROI
-     I see. Well, let's go for our walk, shall we?
+<tr id="L233"><td><a href="#L233">233</a></td><td>TIMOTHY:  Thank you. (yawns)</td></tr>
 
-  TIMOTHY
-     That would be acceptable.
+<tr id="L234"><td><a href="#L234">234</a></td><td>DATA:  Perhaps you should return to your quarters.</td></tr>
 
+<tr id="L235"><td><a href="#L235">235</a></td><td>TIMOTHY:  I'm fine. The servo mechanisms in my mouth are designed to approximate human movements.</td></tr>
 
-LOCATION--Ten Forward
+<tr id="L236"><td><a href="#L236">236</a></td><td>ANNOTATION: Data tries a yawn</td></tr>
 
-  TROI
-     So, what would you like?
+<tr id="L237"><td><a href="#L237">237</a></td><td>TIMOTHY:  That is not bad.</td></tr>
 
-  TIMOTHY
-     Androids do not need to eat or drink. (spots a
-     dessert being carried by a waiter) However,
-     sometimes we like to taste things. A Tamarin
-     frost, please. Would you like anything,
-     Counsellor?
+<tr id="L238"><td><a href="#L238">238</a></td><td>DATA:  Thank you. (re painting) It is very expressive.</td></tr>
 
-  TROI
-     No, I'm fine, thank you.
+<tr id="L239"><td><a href="#L239">239</a></td><td>TIMOTHY:  Thank you.</td></tr>
 
-  TIMOTHY
-     As you wish.
+<tr id="L240"><td><a href="#L240">240</a></td><td>DATA:  Is your painting representative of something?</td></tr>
 
-  TROI
-     So you're no longer a human?
+<tr id="L241"><td><a href="#L241">241</a></td><td>TIMOTHY:  It's just a painting.</td></tr>
 
-  TIMOTHY
-     I'm an android.
+<tr id="L242"><td><a href="#L242">242</a></td><td>DATA:  Timothy, you understand that you may speak with me about anything you wish? Any subject?</td></tr>
 
-  TROI
-     When did this happen?
+<tr id="L243"><td><a href="#L243">243</a></td><td>TIMOTHY:  I understand.</td></tr>
 
-  TIMOTHY
-     I've always been an android.
+<tr id="L244"><td><a href="#L244">244</a></td><td>DATA:  At times, I too find it difficult to share my thoughts with others. I am not always confident that I am expressing myself in a manner which humans can comprehend. But do I know that</td></tr>
 
-  TROI
-     What's it like being an android?
+<tr id="L245"><td><a href="#L245">245</a></td><td>ANNOTATION: Data sees that Timothy has fallen asleep and carries him to the couch</td></tr>
 
-  TIMOTHY
-     I am designed to exceed human capacity, both
-     mentally and physically. But I do not experience
-     emotions.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L246"><td><a href="#L246">246</a></td><td>WORF:  We are approaching the perimeter. I'm picking up the gravitational wavefronts.</td></tr>
 
-  TROI
-     You don't? No emotion at all?
+<tr id="L247"><td><a href="#L247">247</a></td><td>RIKER:  Engage forward shields thirty five percent.</td></tr>
 
-  TIMOTHY
-     That is correct.
+<tr id="L248"><td><a href="#L248">248</a></td><td>WORF:  Shields up.</td></tr>
 
+<tr id="L249"><td><a href="#L249">249</a></td><td>ANNOTATION: the ship rocks in the waves</td></tr>
 
-LOCATION--Ready room
+<tr id="L250"><td><a href="#L250">250</a></td><td>PICARD:  Drop to one quarter impulse, Ensign.</td></tr>
 
-  ANNOTATION
-     Data is included in the meeting
+<tr id="L251"><td><a href="#L251">251</a></td><td>FELTON:  Yes, sir.</td></tr>
 
-  PICARD
-     An android?
+<tr id="L252"><td><a href="#L252">252</a></td><td>RIKER:  Bridge to Engineering.</td></tr>
 
-  TROI
-     I know it sounds unusual, but it is
-     understandable. Technically, it's called
-     enantiodromia. Conversion into the opposite.
-     Timothy went from human to machine, from being
-     emotional to being emotionless. But the underlying
-     trauma is still there. He's just found a new way
-     to suppress it.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L253"><td><a href="#L253">253</a></td><td>LAFORGE:  Adjusting shield frequencies now, Commander. We'll have this smoothed out in just a second.</td></tr>
 
-  PICARD
-     Counsellor, how long will this behaviour last?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L254"><td><a href="#L254">254</a></td><td>RIKER:  Ensign, adjust course for any deviations.</td></tr>
 
-  TROI
-     As long as he needs it to. Timothy is rebuilding
-     his identity as best he can. The android persona
-     is just one step along the way. As soon as he
-     feels stronger and more sure of himself, it should
-     drop away naturally.
+<tr id="L255"><td><a href="#L255">255</a></td><td>FELTON:  Yes, sir.</td></tr>
 
-  PICARD
-     I assume this is not a time to confront him about
-     what happened to his ship.
+<tr id="L256"><td><a href="#L256">256</a></td><td>RIKER:  Resume one third impulse.</td></tr>
 
-  TROI
-     Not yet. The best thing we can do right now is to
-     let Timothy take us where he wants to go. We
-     should support the process and even encourage it.
+<tr id="L257"><td><a href="#L257">257</a></td><td>WORF:  Captain, I am reading something at four hundred thousand kilometres off the starboard bow. Possibly a ship.</td></tr>
 
-  PICARD
-     Data, I would like you to make Timothy the best
-     android he can possibly be.
+<tr id="L258"><td><a href="#L258">258</a></td><td>RIKER:  Red alert.</td></tr>
 
+<tr id="L259"><td><a href="#L259">259</a></td><td>PICARD:  Take us to visual range, Ensign.</td></tr>
 
-LOCATION--Timothy's quarters
+<tr id="L260"><td><a href="#L260">260</a></td><td>FELTON:  Adjusting course.</td></tr>
 
-  ANNOTATION
-     Data checks his appearance in the mirror, then
-     tries to brush Timothy's hair to match his own
+<tr id="L261"><td><a href="#L261">261</a></td><td>WORF:  Sensor readings have disappeared. Wait, I am picking up another reading at four hundred thousand kilometres off the port bow. It's gone. No, it is back to starboard.</td></tr>
 
-  DATA
-     Timothy, your head movements are
-     counterproductive. Can you be still?
+<tr id="L262"><td><a href="#L262">262</a></td><td>RIKER:  Captain, the Black Cluster is distorting the sensors. We're picking up echoes of the Enterprise reflecting off the wavefronts.</td></tr>
 
-  TIMOTHY
-     But you do it.
+<tr id="L263"><td><a href="#L263">263</a></td><td>PICARD:  Cancel Red alert. Mister Worf, adjust the sensors to compensate for the distortion.</td></tr>
 
-  DATA
-     The servo mechanisms in my neck are designed to
-     approximate human movements. I did not realize the
-     effect was so distracting.
+<tr id="L264"><td><a href="#L264">264</a></td><td>WORF:  Aye.</td></tr>
 
-  TIMOTHY
-     I like it. Data, are there any other androids in
-     Starfleet?
+<tr id="L265"><td><a href="#L265">265</a></td><td>PICARD:  Sensor difficulties have been reported by ships travelling through black clusters, but never this extreme.</td></tr>
 
-  DATA
-     No. I am the only one.
+<tr id="L266"><td><a href="#L266">266</a></td><td>WORF:  Captain, that formation is seven times more massive than any explored previously. That could explain the difference.</td></tr>
 
-  TIMOTHY
-     How come you're not Captain?
+<tr id="L267"><td><a href="#L267">267</a></td><td>PICARD:  Resume previous course, Ensign.</td></tr>
 
-  DATA
-     My service experience does not yet warrant such a
-     position.
+<tr id="L268"><td><a href="#L268">268</a></td><td>FELTON:  Yes, sir.</td></tr>
 
-  TIMOTHY
-     Data, what's the scariest thing that ever happened
-     to you?
+<tr><td></td><td>LOCATION--Classroom observation area</td></tr>
+<tr id="L269"><td><a href="#L269">269</a></td><td>ANNOTATION: Data and Troi are watching Timothy with two other children</td></tr>
 
-  DATA
-     Fear is a quality that I do not possess.
+<tr id="L270"><td><a href="#L270">270</a></td><td>DATA:  He laughed.</td></tr>
 
-  TIMOTHY
-     Because it's an emotion?
+<tr id="L271"><td><a href="#L271">271</a></td><td>TROI:  Yes. It's nice to see, isn't it?</td></tr>
 
-  DATA
-     Correct.
+<tr id="L272"><td><a href="#L272">272</a></td><td>DATA:  It is certainly not consistent with his android persona.</td></tr>
 
-  TIMOTHY
-     But what if you had a nightmare?
+<tr id="L273"><td><a href="#L273">273</a></td><td>TROI:  I'd say he's beginning the process of letting go of that fantasy.</td></tr>
 
-  DATA
-     I have never had a nightmare. I do not require
-     sleep. Timothy, are you having disturbing dreams?
+<tr id="L274"><td><a href="#L274">274</a></td><td>DATA:  Then my work with him is done.</td></tr>
 
-  TIMOTHY
-     I do not require sleep.
+<tr id="L275"><td><a href="#L275">275</a></td><td>TROI:  No, I don't think it is, Data. A laugh is one step in the right direction. We need to help him take a few more steps.</td></tr>
 
-  DATA
-     Is that satisfactory? (the hair)
+<tr id="L276"><td><a href="#L276">276</a></td><td>DATA:  How, Counsellor?</td></tr>
 
-  TIMOTHY
-     It's perfect.
+<tr id="L277"><td><a href="#L277">277</a></td><td>TROI:  I'd like you to talk to him about your own fascination with humanity. If you can explain to Timothy the appeal that humanity has for you, he might find it easier to become a boy again.</td></tr>
 
+<tr><td></td><td>LOCATION--Ten Forward</td></tr>
+<tr id="L278"><td><a href="#L278">278</a></td><td>ANNOTATION: Data and Timothy are solemnly sucking tall drinks through long straws</td></tr>
 
-LOCATION--Sickbay
+<tr id="L279"><td><a href="#L279">279</a></td><td>TIMOTHY:  This is great. How is yours?</td></tr>
 
-  CRUSHER
-     Transfer circuits are functioning properly.
+<tr id="L280"><td><a href="#L280">280</a></td><td>DATA:  The complex polysaccharides, in reaction with the carbon dioxide, produces an unusual combination of texture and effervescence.</td></tr>
 
-  TIMOTHY
-     Within established parameters?
+<tr id="L281"><td><a href="#L281">281</a></td><td>TIMOTHY:  But how does it taste? Is it good?</td></tr>
 
-  CRUSHER
-     Absolutely. Input processing, pattern recognition,
-     all within established parameters.
+<tr id="L282"><td><a href="#L282">282</a></td><td>DATA:  I am not capable of tasting in the manner you suggest. However, I can analyse the composition of a dessert and make comparative conclusions about its possible effect on the human palate. But I neither like it nor dislike it.</td></tr>
 
-  DATA + TIMOTHY
-     Thank you, Doctor.
+<tr id="L283"><td><a href="#L283">283</a></td><td>TIMOTHY:  Oh. I didn't realise that.</td></tr>
 
+<tr id="L284"><td><a href="#L284">284</a></td><td>DATA:  I have often wondered what it must be like to have one's mouth water in anticipation of the arrival of a confection, or to feel the pleasure I have observed in humans as they consume it.</td></tr>
 
-LOCATION--Data's quarters
+<tr id="L285"><td><a href="#L285">285</a></td><td>TIMOTHY:  You sound like you don't want to be an android.</td></tr>
 
-  ANNOTATION
-     They are both painting - Data is doing a
-     traditional pastoral landscape whilst Timothy's
-     image is, well, angry
+<tr id="L286"><td><a href="#L286">286</a></td><td>DATA:  I am an android. That will never change.</td></tr>
 
-  TIMOTHY
-     I ran out of red ochre.
+<tr id="L287"><td><a href="#L287">287</a></td><td>TIMOTHY:  But if you could change, would you?</td></tr>
 
-  DATA
-     You may use mine.
+<tr id="L288"><td><a href="#L288">288</a></td><td>DATA:  I have often wished to be human. I study people carefully in order to more closely approximate human behaviour.</td></tr>
 
-  TIMOTHY
-     Thank you. (yawns)
+<tr id="L289"><td><a href="#L289">289</a></td><td>TIMOTHY:  Why? We're stronger and smarter than humans. We can do more than they can.</td></tr>
 
-  DATA
-     Perhaps you should return to your quarters.
+<tr id="L290"><td><a href="#L290">290</a></td><td>DATA:  But I cannot take pride in my abilities. I cannot take pleasure in my accomplishments.</td></tr>
 
-  TIMOTHY
-     I'm fine. The servo mechanisms in my mouth are
-     designed to approximate human movements.
+<tr id="L291"><td><a href="#L291">291</a></td><td>TIMOTHY:  But we never have to feel bad, either.</td></tr>
 
-  ANNOTATION
-     Data tries a yawn
+<tr id="L292"><td><a href="#L292">292</a></td><td>DATA:  I would gladly risk feeling bad at times if it also meant that I could also taste my dessert.</td></tr>
 
-  TIMOTHY
-     That is not bad.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L293"><td><a href="#L293">293</a></td><td>WORF:  Captain, gravitational wavefront intensity is increasing steadily. Eleven hundred standard G units and rising.</td></tr>
 
-  DATA
-     Thank you. (re painting) It is very expressive.
+<tr id="L294"><td><a href="#L294">294</a></td><td>PICARD:  Let's see if anyone's out there. Mister Worf, attempt a wide range sensor sweep.</td></tr>
 
-  TIMOTHY
-     Thank you.
+<tr id="L295"><td><a href="#L295">295</a></td><td>WORF:  Aye, sir. Gravitational distortion is too great, Captain. The scanning signal is again being reflected off the wavefronts. I am unable to compensate. The sensors are useless.</td></tr>
 
-  DATA
-     Is your painting representative of something?
+<tr id="L296"><td><a href="#L296">296</a></td><td>PICARD:  Mister Data to the Bridge, please.</td></tr>
 
-  TIMOTHY
-     It's just a painting.
+<tr id="L297"><td><a href="#L297">297</a></td><td>DATA [OC]:  Acknowledged.</td></tr>
 
-  DATA
-     Timothy, you understand that you may speak with me
-     about anything you wish? Any subject?
+<tr id="L298"><td><a href="#L298">298</a></td><td>PICARD:  Adjust sensors to short range. Attempt a limited positron scan.</td></tr>
 
-  TIMOTHY
-     I understand.
+<tr id="L299"><td><a href="#L299">299</a></td><td>WORF:  The distortion is still in effect.</td></tr>
 
-  DATA
-     At times, I too find it difficult to share my
-     thoughts with others. I am not always confident
-     that I am expressing myself in a manner which
-     humans can comprehend. But do I know that
+<tr id="L300"><td><a href="#L300">300</a></td><td>RIKER:  Better jacket the scanning beam.</td></tr>
 
-  ANNOTATION
-     Data sees that Timothy has fallen asleep and
-     carries him to the couch
+<tr id="L301"><td><a href="#L301">301</a></td><td>WORF:  The secondary beam is being distorted as well.</td></tr>
 
+<tr id="L302"><td><a href="#L302">302</a></td><td>ANNOTATION: Data enters</td></tr>
 
-LOCATION--Bridge
+<tr id="L303"><td><a href="#L303">303</a></td><td>PICARD:  Mister Data, our sensors have been rendered ineffective by the field distortion. I want your analysis. Mister Worf, fire phasers, maximum intensity, limited spectrum. Zero zero one mark zero four five.</td></tr>
 
-  WORF
-     We are approaching the perimeter. I'm picking up
-     the gravitational wavefronts.
+<tr id="L304"><td><a href="#L304">304</a></td><td>RIKER:  An experiment, Captain?</td></tr>
 
-  RIKER
-     Engage forward shields thirty five percent.
+<tr id="L305"><td><a href="#L305">305</a></td><td>PICARD:  Exactly, Number One.</td></tr>
 
-  WORF
-     Shields up.
+<tr id="L306"><td><a href="#L306">306</a></td><td>WORF:  Firing phasers.</td></tr>
 
-  ANNOTATION
-     the ship rocks in the waves
+<tr id="L307"><td><a href="#L307">307</a></td><td>ANNOTATION: the single shot branches off in several directions</td></tr>
 
-  PICARD
-     Drop to one quarter impulse, Ensign.
+<tr id="L308"><td><a href="#L308">308</a></td><td>PICARD:  Explanation, Mister Data.</td></tr>
 
-  FELTON
-     Yes, sir.
+<tr id="L309"><td><a href="#L309">309</a></td><td>DATA:  Phaser energy was reflected by the gravitational wavefronts. It is similar to the phenomenon distorting our sensor signals.</td></tr>
 
-  RIKER
-     Bridge to Engineering.
+<tr id="L310"><td><a href="#L310">310</a></td><td>PICARD:  Phasers and sensors both useless? Mister Data, this reflection phenomenon, would it have the same effect on a disruptor-style weapon?</td></tr>
 
+<tr id="L311"><td><a href="#L311">311</a></td><td>DATA:  Yes, sir. Disruptors would be ineffectual.</td></tr>
 
-LOCATION--Engineering
+<tr id="L312"><td><a href="#L312">312</a></td><td>PICARD:  And a ship's cloaking field?</td></tr>
 
-  LAFORGE
-     Adjusting shield frequencies now, Commander. We'll
-     have this smoothed out in just a second.
+<tr id="L313"><td><a href="#L313">313</a></td><td>DATA:  It would be extremely difficult to maintain.</td></tr>
 
+<tr id="L314"><td><a href="#L314">314</a></td><td>PICARD:  Mister Data, is it at all likely that the Vico could have been attacked inside the cluster?</td></tr>
 
-LOCATION--Bridge
+<tr id="L315"><td><a href="#L315">315</a></td><td>DATA:  Given the effects we have observed, the probability is exceedingly remote, sir.</td></tr>
 
-  RIKER
-     Ensign, adjust course for any deviations.
+<tr id="L316"><td><a href="#L316">316</a></td><td>PICARD:  Picard to Counsellor Troi.</td></tr>
 
-  FELTON
-     Yes, sir.
+<tr id="L317"><td><a href="#L317">317</a></td><td>TROI [OC]:  Yes, Captain?</td></tr>
 
-  RIKER
-     Resume one third impulse.
+<tr id="L318"><td><a href="#L318">318</a></td><td>PICARD:  Counsellor, will you bring Timothy to my Ready room?</td></tr>
 
-  WORF
-     Captain, I am reading something at four hundred
-     thousand kilometres off the starboard bow.
-     Possibly a ship.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L319"><td><a href="#L319">319</a></td><td>PICARD:  Timothy, can you tell us what happened to your ship?</td></tr>
 
-  RIKER
-     Red alert.
+<tr id="L320"><td><a href="#L320">320</a></td><td>TIMOTHY:  I did tell you.</td></tr>
 
-  PICARD
-     Take us to visual range, Ensign.
+<tr id="L321"><td><a href="#L321">321</a></td><td>TROI:  Tell us again.</td></tr>
 
-  FELTON
-     Adjusting course.
+<tr id="L322"><td><a href="#L322">322</a></td><td>TIMOTHY:  We were attacked.</td></tr>
 
-  WORF
-     Sensor readings have disappeared. Wait, I am
-     picking up another reading at four hundred
-     thousand kilometres off the port bow. It's gone.
-     No, it is back to starboard.
+<tr id="L323"><td><a href="#L323">323</a></td><td>DATA:  That is highly unlikely. Our investigations have clearly demonstrated</td></tr>
 
-  RIKER
-     Captain, the Black Cluster is distorting the
-     sensors. We're picking up echoes of the Enterprise
-     reflecting off the wavefronts.
+<tr id="L324"><td><a href="#L324">324</a></td><td>TIMOTHY:  We were attacked! We were attacked!</td></tr>
 
-  PICARD
-     Cancel Red alert. Mister Worf, adjust the sensors
-     to compensate for the distortion.
+<tr id="L325"><td><a href="#L325">325</a></td><td>DATA:  Timothy, androids do not lie.</td></tr>
 
-  WORF
-     Aye.
+<tr id="L326"><td><a href="#L326">326</a></td><td>TIMOTHY:  It was me.</td></tr>
 
-  PICARD
-     Sensor difficulties have been reported by ships
-     travelling through black clusters, but never this
-     extreme.
+<tr id="L327"><td><a href="#L327">327</a></td><td>DATA:  Please explain.</td></tr>
 
-  WORF
-     Captain, that formation is seven times more
-     massive than any explored previously. That could
-     explain the difference.
+<tr id="L328"><td><a href="#L328">328</a></td><td>TIMOTHY:  It was me. I did it. I killed them all. Everything was shaking. I lost my balance. I was just trying to hold on to something. I didn't mean to do it.</td></tr>
 
-  PICARD
-     Resume previous course, Ensign.
+<tr id="L329"><td><a href="#L329">329</a></td><td>PICARD:  What was it that didn't you mean to do, Timothy?</td></tr>
 
-  FELTON
-     Yes, sir.
+<tr id="L330"><td><a href="#L330">330</a></td><td>TIMOTHY:  My arm hit the computer panel. That's what destroyed the ship.</td></tr>
 
+<tr id="L331"><td><a href="#L331">331</a></td><td>TROI:  The ship was damaged when your arm hit the computer panel? Timothy, listen to me. The damage to your ship might have occurred at the same time your arm touched the panel, but it was only a coincidence. This wasn't your fault.</td></tr>
 
-LOCATION--Classroom observation area
+<tr id="L332"><td><a href="#L332">332</a></td><td>TIMOTHY:  Yes it was.</td></tr>
 
-  ANNOTATION
-     Data and Troi are watching Timothy with two other
-     children
+<tr id="L333"><td><a href="#L333">333</a></td><td>DATA:  It is not possible. The onboard control systems for every starship require a user code clearance. You could not have inadvertently affected any of the Vico's systems.</td></tr>
 
-  DATA
-     He laughed.
+<tr id="L334"><td><a href="#L334">334</a></td><td>PICARD:  Your computer had safety precautions. There is nothing you could have touched that would have damaged your ship.</td></tr>
 
-  TROI
-     Yes. It's nice to see, isn't it?
+<tr id="L335"><td><a href="#L335">335</a></td><td>TROI:  You're not responsible for what happened to your parents, Timothy.</td></tr>
 
-  DATA
-     It is certainly not consistent with his android
-     persona.
+<tr id="L336"><td><a href="#L336">336</a></td><td>TIMOTHY:  But if it wasn't me</td></tr>
 
-  TROI
-     I'd say he's beginning the process of letting go
-     of that fantasy.
+<tr id="L337"><td><a href="#L337">337</a></td><td>PICARD:  We're trying to determine what happened right now, and if there is anything you can remember that may assist</td></tr>
 
-  DATA
-     Then my work with him is done.
+<tr id="L338"><td><a href="#L338">338</a></td><td>ANNOTATION: they shake from a wavefront</td></tr>
 
-  TROI
-     No, I don't think it is, Data. A laugh is one step
-     in the right direction. We need to help him take a
-     few more steps.
+<tr id="L339"><td><a href="#L339">339</a></td><td>TIMOTHY:  That's just how it was when it started on the Vico.</td></tr>
 
-  DATA
-     How, Counsellor?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L340"><td><a href="#L340">340</a></td><td>WORF:  Wavefront intensity has increased.</td></tr>
 
-  TROI
-     I'd like you to talk to him about your own
-     fascination with humanity. If you can explain to
-     Timothy the appeal that humanity has for you, he
-     might find it easier to become a boy again.
+<tr id="L341"><td><a href="#L341">341</a></td><td>RIKER:  Increase shields to seventy five percent.</td></tr>
 
+<tr id="L342"><td><a href="#L342">342</a></td><td>WORF:  Aye, sir.</td></tr>
 
-LOCATION--Ten Forward
+<tr id="L343"><td><a href="#L343">343</a></td><td>ANNOTATION: a big wave sets off alarms</td></tr>
 
-  ANNOTATION
-     Data and Timothy are solemnly sucking tall drinks
-     through long straws
+<tr id="L344"><td><a href="#L344">344</a></td><td>RIKER:  Damage, Mister Worf.</td></tr>
 
-  TIMOTHY
-     This is great. How is yours?
+<tr id="L345"><td><a href="#L345">345</a></td><td>WORF:  Minimal, sir. Shields are holding.</td></tr>
 
-  DATA
-     The complex polysaccharides, in reaction with the
-     carbon dioxide, produces an unusual combination of
-     texture and effervescence.
+<tr id="L346"><td><a href="#L346">346</a></td><td>ANNOTATION: Picard, Timothy and Troi enter</td></tr>
 
-  TIMOTHY
-     But how does it taste? Is it good?
+<tr id="L347"><td><a href="#L347">347</a></td><td>PICARD:  Ensign, full about. Go to warp two.</td></tr>
 
-  DATA
-     I am not capable of tasting in the manner you
-     suggest. However, I can analyse the composition of
-     a dessert and make comparative conclusions about
-     its possible effect on the human palate. But I
-     neither like it nor dislike it.
+<tr id="L348"><td><a href="#L348">348</a></td><td>FELTON:  The gravitational distortion is too high. We can't maintain a warp field.</td></tr>
 
-  TIMOTHY
-     Oh. I didn't realise that.
+<tr id="L349"><td><a href="#L349">349</a></td><td>PICARD:  Full shields.</td></tr>
 
-  DATA
-     I have often wondered what it must be like to have
-     one's mouth water in anticipation of the arrival
-     of a confection, or to feel the pleasure I have
-     observed in humans as they consume it.
+<tr id="L350"><td><a href="#L350">350</a></td><td>WORF:  Aye.</td></tr>
 
-  TIMOTHY
-     You sound like you don't want to be an android.
+<tr id="L351"><td><a href="#L351">351</a></td><td>FELTON:  Captain, impulse power has been disrupted. The helm won't respond.</td></tr>
 
-  DATA
-     I am an android. That will never change.
+<tr id="L352"><td><a href="#L352">352</a></td><td>TIMOTHY:  We couldn't get out either.</td></tr>
 
-  TIMOTHY
-     But if you could change, would you?
+<tr id="L353"><td><a href="#L353">353</a></td><td>TROI:  Timothy, perhaps you and I should go below and get out of everyone's way.</td></tr>
 
-  DATA
-     I have often wished to be human. I study people
-     carefully in order to more closely approximate
-     human behaviour.
+<tr id="L354"><td><a href="#L354">354</a></td><td>TIMOTHY:  No.</td></tr>
 
-  TIMOTHY
-     Why? We're stronger and smarter than humans. We
-     can do more than they can.
+<tr id="L355"><td><a href="#L355">355</a></td><td>RIKER:  Riker to La Forge. Can you give me more power to the shields?</td></tr>
 
-  DATA
-     But I cannot take pride in my abilities. I cannot
-     take pleasure in my accomplishments.
+<tr id="L356"><td><a href="#L356">356</a></td><td>LAFORGE [OC]:  Stand by.</td></tr>
 
-  TIMOTHY
-     But we never have to feel bad, either.
+<tr id="L357"><td><a href="#L357">357</a></td><td>TIMOTHY:  That's what they kept saying. More shields, more shields.</td></tr>
 
-  DATA
-     I would gladly risk feeling bad at times if it
-     also meant that I could also taste my dessert.
+<tr id="L358"><td><a href="#L358">358</a></td><td>DATA:  Timothy, accompany me, please. (go to science station) I want you to recall everything you heard people say aboard the Vico before it was destroyed.</td></tr>
 
+<tr id="L359"><td><a href="#L359">359</a></td><td>TIMOTHY:  I don't know. Just that. Just more shields.</td></tr>
 
-LOCATION--Bridge
+<tr id="L360"><td><a href="#L360">360</a></td><td>LAFORGE [OC]:  Captain, I've transferred</td></tr>
 
-  WORF
-     Captain, gravitational wavefront intensity is
-     increasing steadily. Eleven hundred standard G
-     units and rising.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L361"><td><a href="#L361">361</a></td><td>LAFORGE:  Fusion reactors four through nine into the shield array. That should double the shield strength.</td></tr>
 
-  PICARD
-     Let's see if anyone's out there. Mister Worf,
-     attempt a wide range sensor sweep.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L362"><td><a href="#L362">362</a></td><td>WORF:  Wavefront intensity has increased by an order of magnitude. Impact in three, two, one.</td></tr>
 
-  WORF
-     Aye, sir. Gravitational distortion is too great,
-     Captain. The scanning signal is again being
-     reflected off the wavefronts. I am unable to
-     compensate. The sensors are useless.
+<tr id="L363"><td><a href="#L363">363</a></td><td>ANNOTATION: very big hit</td></tr>
 
-  PICARD
-     Mister Data to the Bridge, please.
+<tr id="L364"><td><a href="#L364">364</a></td><td>WORF:  Wave front intensity is continuing to increase. Structural over-pressure now exceeding one hundred eighty percent.</td></tr>
 
-  DATA [OC]
-     Acknowledged.
+<tr id="L365"><td><a href="#L365">365</a></td><td>PICARD:  La Forge?</td></tr>
 
-  PICARD
-     Adjust sensors to short range. Attempt a limited
-     positron scan.
+<tr id="L366"><td><a href="#L366">366</a></td><td>LAFORGE [OC]:  I don't understand. That should have been enough.</td></tr>
 
-  WORF
-     The distortion is still in effect.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L367"><td><a href="#L367">367</a></td><td>LAFORGE:  We could run the shield grid directly off the warp drive.</td></tr>
 
-  RIKER
-     Better jacket the scanning beam.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L368"><td><a href="#L368">368</a></td><td>PICARD:  Go ahead, Commander.</td></tr>
 
-  WORF
-     The secondary beam is being distorted as well.
+<tr id="L369"><td><a href="#L369">369</a></td><td>WORF:  Initiating warp-transfer pathways now.</td></tr>
 
-  ANNOTATION
-     Data enters
+<tr id="L370"><td><a href="#L370">370</a></td><td>LAFORGE [OC]:  Diverting warp power to the shields.</td></tr>
 
-  PICARD
-     Mister Data, our sensors have been rendered
-     ineffective by the field distortion. I want your
-     analysis. Mister Worf, fire phasers, maximum
-     intensity, limited spectrum. Zero zero one mark
-     zero four five.
+<tr id="L371"><td><a href="#L371">371</a></td><td>TIMOTHY:  Warp power to the shields. They said that too, Data. I'm positive.</td></tr>
 
-  RIKER
-     An experiment, Captain?
+<tr id="L372"><td><a href="#L372">372</a></td><td>WORF:  Wavefront intensity has increased by a factor of ten. Contact in thirty one seconds. Without additional power to the shields, the outer hull will not hold.</td></tr>
 
-  PICARD
-     Exactly, Number One.
+<tr id="L373"><td><a href="#L373">373</a></td><td>RIKER:  La Forge?</td></tr>
 
-  WORF
-     Firing phasers.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L374"><td><a href="#L374">374</a></td><td>LAFORGE:  Warp transfer to the shields complete.</td></tr>
 
-  ANNOTATION
-     the single shot branches off in several directions
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L375"><td><a href="#L375">375</a></td><td>LAFORGE [OC]:  That's as strong as they're going to get.</td></tr>
 
-  PICARD
-     Explanation, Mister Data.
+<tr id="L376"><td><a href="#L376">376</a></td><td>WORF:  Impact in fifteen seconds.</td></tr>
 
-  DATA
-     Phaser energy was reflected by the gravitational
-     wavefronts. It is similar to the phenomenon
-     distorting our sensor signals.
+<tr id="L377"><td><a href="#L377">377</a></td><td>ANNOTATION: Data finishes running his analysis</td></tr>
 
-  PICARD
-     Phasers and sensors both useless? Mister Data,
-     this reflection phenomenon, would it have the same
-     effect on a disruptor-style weapon?
+<tr id="L378"><td><a href="#L378">378</a></td><td>DATA:  Sir, drop the shields.</td></tr>
 
-  DATA
-     Yes, sir. Disruptors would be ineffectual.
+<tr id="L379"><td><a href="#L379">379</a></td><td>RIKER:  That's suicide, Data.</td></tr>
 
-  PICARD
-     And a ship's cloaking field?
+<tr id="L380"><td><a href="#L380">380</a></td><td>DATA:  Captain, drop the shields.</td></tr>
 
-  DATA
-     It would be extremely difficult to maintain.
+<tr id="L381"><td><a href="#L381">381</a></td><td>PICARD:  Make it so.</td></tr>
 
-  PICARD
-     Mister Data, is it at all likely that the Vico
-     could have been attacked inside the cluster?
+<tr id="L382"><td><a href="#L382">382</a></td><td>WORF:  Aye.</td></tr>
 
-  DATA
-     Given the effects we have observed, the
-     probability is exceedingly remote, sir.
+<tr id="L383"><td><a href="#L383">383</a></td><td>ANNOTATION: a very gently ripple rocks the ship</td></tr>
 
-  PICARD
-     Picard to Counsellor Troi.
+<tr id="L384"><td><a href="#L384">384</a></td><td>DATA:  Our own shields caused the increases in the wavefronts, sir. We have been experiencing a harmonic amplification effect.</td></tr>
 
-  TROI [OC]
-     Yes, Captain?
+<tr id="L385"><td><a href="#L385">385</a></td><td>RIKER:  The more energy we dumped into the shield grid, the worse the impact.</td></tr>
 
-  PICARD
-     Counsellor, will you bring Timothy to my Ready
-     room?
+<tr id="L386"><td><a href="#L386">386</a></td><td>DATA:  Precisely. That is also what destroyed the Vico. When Timothy remembered similar procedures on his ship, I initiated an analysis of shield output to wavefront amplitude and discovered a correlation.</td></tr>
 
+<tr id="L387"><td><a href="#L387">387</a></td><td>PICARD:  If we had transferred all that warp power to the shields, it would have torn the ship apart.</td></tr>
 
-LOCATION--Ready room
+<tr id="L388"><td><a href="#L388">388</a></td><td>RIKER:  Status, Ensign?</td></tr>
 
-  PICARD
-     Timothy, can you tell us what happened to your
-     ship?
+<tr id="L389"><td><a href="#L389">389</a></td><td>FELTON:  Navigation is coming back online.</td></tr>
 
-  TIMOTHY
-     I did tell you.
+<tr id="L390"><td><a href="#L390">390</a></td><td>PICARD:  Full about, one quarter impulse. Take us out of here.</td></tr>
 
-  TROI
-     Tell us again.
+<tr><td></td><td>LOCATION--Classroom observation area</td></tr>
+<tr id="L391"><td><a href="#L391">391</a></td><td>ANNOTATION: the class is singing 'Row your boat'</td></tr>
 
-  TIMOTHY
-     We were attacked.
+<tr id="L392"><td><a href="#L392">392</a></td><td>TROI:  Timothy's a boy feeling a great deal of pain. But he is a boy again. Is this difficult for you, Data?</td></tr>
 
-  DATA
-     That is highly unlikely. Our investigations have
-     clearly demonstrated
+<tr id="L393"><td><a href="#L393">393</a></td><td>DATA:  Difficult?</td></tr>
 
-  TIMOTHY
-     We were attacked! We were attacked!
+<tr id="L394"><td><a href="#L394">394</a></td><td>TROI:  To watch him moving away from being like you.</td></tr>
 
-  DATA
-     Timothy, androids do not lie.
+<tr id="L395"><td><a href="#L395">395</a></td><td>DATA:  That would require an emotional context which I cannot provide.</td></tr>
 
-  TIMOTHY
-     It was me.
+<tr><td></td><td>LOCATION--Classroom</td></tr>
+<tr id="L396"><td><a href="#L396">396</a></td><td>TEACHER:  Okay, everybody, let's go. Come on.</td></tr>
 
-  DATA
-     Please explain.
+<tr id="L397"><td><a href="#L397">397</a></td><td>ANNOTATION: Data enters</td></tr>
 
-  TIMOTHY
-     It was me. I did it. I killed them all. Everything
-     was shaking. I lost my balance. I was just trying
-     to hold on to something. I didn't mean to do it.
+<tr id="L398"><td><a href="#L398">398</a></td><td>DATA:  Hello, Timothy.</td></tr>
 
-  PICARD
-     What was it that didn't you mean to do, Timothy?
+<tr id="L399"><td><a href="#L399">399</a></td><td>TIMOTHY:  Hi, Data. How are you?</td></tr>
 
-  TIMOTHY
-     My arm hit the computer panel. That's what
-     destroyed the ship.
+<tr id="L400"><td><a href="#L400">400</a></td><td>DATA:  I am operating within established parameters. How are you?</td></tr>
 
-  TROI
-     The ship was damaged when your arm hit the
-     computer panel? Timothy, listen to me. The damage
-     to your ship might have occurred at the same time
-     your arm touched the panel, but it was only a
-     coincidence. This wasn't your fault.
+<tr id="L401"><td><a href="#L401">401</a></td><td>TIMOTHY:  I miss my parents. But I'm okay. I guess you thought I was pretty silly when I had my hair like yours and everything.</td></tr>
 
-  TIMOTHY
-     Yes it was.
+<tr id="L402"><td><a href="#L402">402</a></td><td>DATA:  I have been told that imitation is the highest form of flattery.</td></tr>
 
-  DATA
-     It is not possible. The onboard control systems
-     for every starship require a user code clearance.
-     You could not have inadvertently affected any of
-     the Vico's systems.
+<tr id="L403"><td><a href="#L403">403</a></td><td>TIMOTHY:  Can we still do things together, even if I'm not really an android?</td></tr>
 
-  PICARD
-     Your computer had safety precautions. There is
-     nothing you could have touched that would have
-     damaged your ship.
+<tr id="L404"><td><a href="#L404">404</a></td><td>DATA:  I have many human friends. I would be pleased to count you among them.</td></tr>
 
-  TROI
-     You're not responsible for what happened to your
-     parents, Timothy.
+<tr id="L405"><td><a href="#L405">405</a></td><td>TIMOTHY:  That would be acceptable.</td></tr>
 
-  TIMOTHY
-     But if it wasn't me
-
-  PICARD
-     We're trying to determine what happened right now,
-     and if there is anything you can remember that may
-     assist
-
-  ANNOTATION
-     they shake from a wavefront
-
-  TIMOTHY
-     That's just how it was when it started on the
-     Vico.
-
-
-LOCATION--Bridge
-
-  WORF
-     Wavefront intensity has increased.
-
-  RIKER
-     Increase shields to seventy five percent.
-
-  WORF
-     Aye, sir.
-
-  ANNOTATION
-     a big wave sets off alarms
-
-  RIKER
-     Damage, Mister Worf.
-
-  WORF
-     Minimal, sir. Shields are holding.
-
-  ANNOTATION
-     Picard, Timothy and Troi enter
-
-  PICARD
-     Ensign, full about. Go to warp two.
-
-  FELTON
-     The gravitational distortion is too high. We can't
-     maintain a warp field.
-
-  PICARD
-     Full shields.
-
-  WORF
-     Aye.
-
-  FELTON
-     Captain, impulse power has been disrupted. The
-     helm won't respond.
-
-  TIMOTHY
-     We couldn't get out either.
-
-  TROI
-     Timothy, perhaps you and I should go below and get
-     out of everyone's way.
-
-  TIMOTHY
-     No.
-
-  RIKER
-     Riker to La Forge. Can you give me more power to
-     the shields?
-
-  LAFORGE [OC]
-     Stand by.
-
-  TIMOTHY
-     That's what they kept saying. More shields, more
-     shields.
-
-  DATA
-     Timothy, accompany me, please. (go to science
-     station) I want you to recall everything you heard
-     people say aboard the Vico before it was
-     destroyed.
-
-  TIMOTHY
-     I don't know. Just that. Just more shields.
-
-  LAFORGE [OC]
-     Captain, I've transferred
-
-
-LOCATION--Engineering
-
-  LAFORGE
-     Fusion reactors four through nine into the shield
-     array. That should double the shield strength.
-
-
-LOCATION--Bridge
-
-  WORF
-     Wavefront intensity has increased by an order of
-     magnitude. Impact in three, two, one.
-
-  ANNOTATION
-     very big hit
-
-  WORF
-     Wave front intensity is continuing to increase.
-     Structural over-pressure now exceeding one hundred
-     eighty percent.
-
-  PICARD
-     La Forge?
-
-  LAFORGE [OC]
-     I don't understand. That should have been enough.
-
-
-LOCATION--Engineering
-
-  LAFORGE
-     We could run the shield grid directly off the warp
-     drive.
-
-
-LOCATION--Bridge
-
-  PICARD
-     Go ahead, Commander.
-
-  WORF
-     Initiating warp-transfer pathways now.
-
-  LAFORGE [OC]
-     Diverting warp power to the shields.
-
-  TIMOTHY
-     Warp power to the shields. They said that too,
-     Data. I'm positive.
-
-  WORF
-     Wavefront intensity has increased by a factor of
-     ten. Contact in thirty one seconds. Without
-     additional power to the shields, the outer hull
-     will not hold.
-
-  RIKER
-     La Forge?
-
-
-LOCATION--Engineering
-
-  LAFORGE
-     Warp transfer to the shields complete.
-
-
-LOCATION--Bridge
-
-  LAFORGE [OC]
-     That's as strong as they're going to get.
-
-  WORF
-     Impact in fifteen seconds.
-
-  ANNOTATION
-     Data finishes running his analysis
-
-  DATA
-     Sir, drop the shields.
-
-  RIKER
-     That's suicide, Data.
-
-  DATA
-     Captain, drop the shields.
-
-  PICARD
-     Make it so.
-
-  WORF
-     Aye.
-
-  ANNOTATION
-     a very gently ripple rocks the ship
-
-  DATA
-     Our own shields caused the increases in the
-     wavefronts, sir. We have been experiencing a
-     harmonic amplification effect.
-
-  RIKER
-     The more energy we dumped into the shield grid,
-     the worse the impact.
-
-  DATA
-     Precisely. That is also what destroyed the Vico.
-     When Timothy remembered similar procedures on his
-     ship, I initiated an analysis of shield output to
-     wavefront amplitude and discovered a correlation.
-
-  PICARD
-     If we had transferred all that warp power to the
-     shields, it would have torn the ship apart.
-
-  RIKER
-     Status, Ensign?
-
-  FELTON
-     Navigation is coming back online.
-
-  PICARD
-     Full about, one quarter impulse. Take us out of
-     here.
-
-
-LOCATION--Classroom observation area
-
-  ANNOTATION
-     the class is singing 'Row your boat'
-
-  TROI
-     Timothy's a boy feeling a great deal of pain. But
-     he is a boy again. Is this difficult for you,
-     Data?
-
-  DATA
-     Difficult?
-
-  TROI
-     To watch him moving away from being like you.
-
-  DATA
-     That would require an emotional context which I
-     cannot provide.
-
-
-LOCATION--Classroom
-
-  TEACHER
-     Okay, everybody, let's go. Come on.
-
-  ANNOTATION
-     Data enters
-
-  DATA
-     Hello, Timothy.
-
-  TIMOTHY
-     Hi, Data. How are you?
-
-  DATA
-     I am operating within established parameters. How
-     are you?
-
-  TIMOTHY
-     I miss my parents. But I'm okay. I guess you
-     thought I was pretty silly when I had my hair like
-     yours and everything.
-
-  DATA
-     I have been told that imitation is the highest
-     form of flattery.
-
-  TIMOTHY
-     Can we still do things together, even if I'm not
-     really an android?
-
-  DATA
-     I have many human friends. I would be pleased to
-     count you among them.
-
-  TIMOTHY
-     That would be acceptable.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

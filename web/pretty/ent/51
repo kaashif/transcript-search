@@ -1,1612 +1,881 @@
-Bounty
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Bounty</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ARCHER:  Maybe you were light-headed from the altitude.</td></tr>
 
-LOCATION--Turbolift
+<tr id="L2"><td><a href="#L2">2</a></td><td>TUCKER:  I didn't slip. That overhang gave way the moment I put my foot on it.</td></tr>
 
-  ARCHER
-     Maybe you were light-headed from the altitude.
+<tr id="L3"><td><a href="#L3">3</a></td><td>ARCHER:  I walked on the same rocks you did.</td></tr>
 
-  TUCKER
-     I didn't slip. That overhang gave way the moment I
-     put my foot on it.
+<tr id="L4"><td><a href="#L4">4</a></td><td>TUCKER:  Maybe you loosened them. You do weigh a few kilos more than I do.</td></tr>
 
-  ARCHER
-     I walked on the same rocks you did.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L5"><td><a href="#L5">5</a></td><td>ARCHER:  Report.</td></tr>
 
-  TUCKER
-     Maybe you loosened them. You do weigh a few kilos
-     more than I do.
+<tr id="L6"><td><a href="#L6">6</a></td><td>REED:  It dropped out of warp thirty minutes ago. The pilot sent a brief audio message. He insisted on speaking with you right away.</td></tr>
 
+<tr id="L7"><td><a href="#L7">7</a></td><td>ARCHER:  Any idea what he wants?</td></tr>
 
-LOCATION--Bridge
+<tr id="L8"><td><a href="#L8">8</a></td><td>REED:  He wouldn't say, but I did manage to find his ship design in the Vulcan database. It's Tellarite.</td></tr>
 
-  ARCHER
-     Report.
+<tr id="L9"><td><a href="#L9">9</a></td><td>ARCHER:  T'Pol's mentioned them. Open a channel. This is Jonathan Archer of the Enterprise. What can I do for you?</td></tr>
 
-  REED
-     It dropped out of warp thirty minutes ago. The
-     pilot sent a brief audio message. He insisted on
-     speaking with you right away.
+<tr id="L10"><td><a href="#L10">10</a></td><td>ANNOTATION: A Tellarite has small eyes, tusk-like lower incisor teeth, more of a snout than a nose.</td></tr>
 
-  ARCHER
-     Any idea what he wants?
+<tr id="L11"><td><a href="#L11">11</a></td><td>SKALAAR [on viewscreen]:  You can start by telling me what you're doing here.</td></tr>
 
-  REED
-     He wouldn't say, but I did manage to find his ship
-     design in the Vulcan database. It's Tellarite.
+<tr id="L12"><td><a href="#L12">12</a></td><td>ARCHER:  I didn't get your name.</td></tr>
 
-  ARCHER
-     T'Pol's mentioned them. Open a channel. This is
-     Jonathan Archer of the Enterprise. What can I do
-     for you?
+<tr id="L13"><td><a href="#L13">13</a></td><td>SKALAAR [on viewscreen]:  Captain Skalaar of the Tellarite Mining Consortium.</td></tr>
 
-  ANNOTATION
-     A Tellarite has small eyes, tusk-like lower
-     incisor teeth, more of a snout than a nose.
+<tr id="L14"><td><a href="#L14">14</a></td><td>ARCHER:  We're studying this planet. I have three science teams on the surface. We're also here for a little shore leave.</td></tr>
 
-  SKALAAR [on viewscreen]
-     You can start by telling me what you're doing
-     here.
+<tr id="L15"><td><a href="#L15">15</a></td><td>SKALAAR [on viewscreen]:  Shore leave?</td></tr>
 
-  ARCHER
-     I didn't get your name.
+<tr id="L16"><td><a href="#L16">16</a></td><td>ARCHER:  Vacation. It's been a while since we've had a chance to relax.</td></tr>
 
-  SKALAAR [on viewscreen]
-     Captain Skalaar of the Tellarite Mining
-     Consortium.
+<tr id="L17"><td><a href="#L17">17</a></td><td>SKALAAR [on viewscreen]:  In that case, I recommend you visit the equatorial range. The view from the north summit is inspiring.</td></tr>
 
-  ARCHER
-     We're studying this planet. I have three science
-     teams on the surface. We're also here for a little
-     shore leave.
+<tr id="L18"><td><a href="#L18">18</a></td><td>ARCHER:  You've been here before?</td></tr>
 
-  SKALAAR [on viewscreen]
-     Shore leave?
+<tr id="L19"><td><a href="#L19">19</a></td><td>SKALAAR [on viewscreen]:  Many times. I prefer to think of it as my own personal retreat. You mustn't leave until you've experienced the hydrothermal pools of Ren-gham.</td></tr>
 
-  ARCHER
-     Vacation. It's been a while since we've had a
-     chance to relax.
+<tr id="L20"><td><a href="#L20">20</a></td><td>ARCHER:  Where are they?</td></tr>
 
-  SKALAAR [on viewscreen]
-     In that case, I recommend you visit the equatorial
-     range. The view from the north summit is
-     inspiring.
+<tr id="L21"><td><a href="#L21">21</a></td><td>SKALAAR [on viewscreen]:  The polar island chain, two hundred and twenty seven kilometres from the southern tip of the Rykos shoreline. Look for the pyroclastic debris field then follow the lava tubes</td></tr>
 
-  ARCHER
-     You've been here before?
+<tr id="L22"><td><a href="#L22">22</a></td><td>TUCKER:  Sounds like we could use a guide.</td></tr>
 
-  SKALAAR [on viewscreen]
-     Many times. I prefer to think of it as my own
-     personal retreat. You mustn't leave until you've
-     experienced the hydrothermal pools of Ren-gham.
+<tr id="L23"><td><a href="#L23">23</a></td><td>SKALAAR [on viewscreen]:  I'd be happy to show you.</td></tr>
 
-  ARCHER
-     Where are they?
+<tr id="L24"><td><a href="#L24">24</a></td><td>ARCHER:  Sure we're not intruding?</td></tr>
 
-  SKALAAR [on viewscreen]
-     The polar island chain, two hundred and twenty
-     seven kilometres from the southern tip of the
-     Rykos shoreline. Look for the pyroclastic debris
-     field then follow the lava tubes
+<tr id="L25"><td><a href="#L25">25</a></td><td>SKALAAR [on viewscreen]:  Not at all. I'll meet you at your starboard docking port. I'll help you plan your shore leave.</td></tr>
 
-  TUCKER
-     Sounds like we could use a guide.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L26"><td><a href="#L26">26</a></td><td>ARCHER:  T'Pol says they're not the most agreeable species. Apparently they enjoy a good argument. It's considered a sport on their planet.</td></tr>
 
-  SKALAAR [on viewscreen]
-     I'd be happy to show you.
+<tr id="L27"><td><a href="#L27">27</a></td><td>TUCKER:  I've got an old girlfriend this guy might like to meet.</td></tr>
 
-  ARCHER
-     Sure we're not intruding?
+<tr id="L28"><td><a href="#L28">28</a></td><td>ANNOTATION: He opens the airlock and Skalaar shoots him. Archer struggles for the weapon and gets shot himself. Skalaar closes the airlock taking Archer with him.</td></tr>
 
-  SKALAAR [on viewscreen]
-     Not at all. I'll meet you at your starboard
-     docking port. I'll help you plan your shore leave.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L29"><td><a href="#L29">29</a></td><td>HOSHI:  I'm picking up weapons fire on E deck, the starboard airlock.</td></tr>
 
+<tr id="L30"><td><a href="#L30">30</a></td><td>REED:  Send a security team. Bridge to Captain Archer.</td></tr>
 
-LOCATION--Corridor
+<tr id="L31"><td><a href="#L31">31</a></td><td>ANNOTATION: Enterprise shudders.</td></tr>
 
-  ARCHER
-     T'Pol says they're not the most agreeable species.
-     Apparently they enjoy a good argument. It's
-     considered a sport on their planet.
+<tr id="L32"><td><a href="#L32">32</a></td><td>TRAVIS:  The Tellarite ship's trying to undock with the seals locked.</td></tr>
 
-  TUCKER
-     I've got an old girlfriend this guy might like to
-     meet.
+<tr id="L33"><td><a href="#L33">33</a></td><td>REED:  Engage the emergency clamps.</td></tr>
 
-  ANNOTATION
-     He opens the airlock and Skalaar shoots him.
-     Archer struggles for the weapon and gets shot
-     himself. Skalaar closes the airlock taking Archer
-     with him.
+<tr id="L34"><td><a href="#L34">34</a></td><td>ANNOTATION: The little ship gets away and shoots at the starboard nacelle.</td></tr>
 
+<tr id="L35"><td><a href="#L35">35</a></td><td>TRAVIS:  He's going to warp.</td></tr>
 
-LOCATION--Bridge
+<tr id="L36"><td><a href="#L36">36</a></td><td>REED:  Pursuit course.</td></tr>
 
-  HOSHI
-     I'm picking up weapons fire on E deck, the
-     starboard airlock.
+<tr id="L37"><td><a href="#L37">37</a></td><td>TRAVIS:  He's disabled our starboard nacelle. We can't follow him, sir.</td></tr>
 
-  REED
-     Send a security team. Bridge to Captain Archer.
+<tr id="L38"><td><a href="#L38">38</a></td><td>REED:  Get those teams up from the surface.</td></tr>
 
-  ANNOTATION
-     Enterprise shudders.
+<tr id="L39"><td><a href="#L39">39</a></td><td>ANNOTATION: The shuttlepod returns.</td></tr>
 
-  TRAVIS
-     The Tellarite ship's trying to undock with the
-     seals locked.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L40"><td><a href="#L40">40</a></td><td>TUCKER [OC]:  We're having trouble isolating his signature. There must have been something masking it.</td></tr>
 
-  REED
-     Engage the emergency clamps.
+<tr id="L41"><td><a href="#L41">41</a></td><td>T'POL:  How long until we have warp drive.</td></tr>
 
-  ANNOTATION
-     The little ship gets away and shoots at the
-     starboard nacelle.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L42"><td><a href="#L42">42</a></td><td>TUCKER:  Less than an hour.</td></tr>
 
-  TRAVIS
-     He's going to warp.
+<tr id="L43"><td><a href="#L43">43</a></td><td>T'POL [OC]:  I'm on my way to the Bridge.</td></tr>
 
-  REED
-     Pursuit course.
+<tr id="L44"><td><a href="#L44">44</a></td><td>TUCKER:  Acknowledged.</td></tr>
 
-  TRAVIS
-     He's disabled our starboard nacelle. We can't
-     follow him, sir.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L45"><td><a href="#L45">45</a></td><td>PHLOX:  I'm afraid you're not going anywhere for the moment. We brought a stowaway with us, an unusual microbe.</td></tr>
 
-  REED
-     Get those teams up from the surface.
+<tr id="L46"><td><a href="#L46">46</a></td><td>T'POL:  Is it contagious?</td></tr>
 
-  ANNOTATION
-     The shuttlepod returns.
+<tr id="L47"><td><a href="#L47">47</a></td><td>PHLOX:  I'll have to run some more tests. To be safe, we should both go through Decon.</td></tr>
 
+<tr><td></td><td>LOCATION--Skalaar's ship</td></tr>
+<tr id="L48"><td><a href="#L48">48</a></td><td>ANNOTATION: Archer wakes up behind bright yellow 'bars.'</td></tr>
 
-LOCATION--Sickbay
+<tr id="L49"><td><a href="#L49">49</a></td><td>ARCHER:  What do you want? I asked you a question.</td></tr>
 
-  TUCKER [OC]
-     We're having trouble isolating his signature.
-     There must have been something masking it.
+<tr id="L50"><td><a href="#L50">50</a></td><td>ANNOTATION: He touches a bar and gets a shock.</td></tr>
 
-  T'POL
-     How long until we have warp drive.
+<tr id="L51"><td><a href="#L51">51</a></td><td>SKALAAR:  I'd stay clear of those emitters if I were you. The very latest technology. I installed them last month.</td></tr>
 
+<tr id="L52"><td><a href="#L52">52</a></td><td>ARCHER:  I doubt this ship of yours will be a match for Enterprise.</td></tr>
 
-LOCATION--Bridge
+<tr id="L53"><td><a href="#L53">53</a></td><td>SKALAAR:  I've taken appropriate counter-measures. We won't be seeing any more of your starship.</td></tr>
 
-  TUCKER
-     Less than an hour.
+<tr id="L54"><td><a href="#L54">54</a></td><td>ARCHER:  I want to know where you're taking me. My crew's not going to give up until they find me. If you take me back, I'd be willing to forget this ever happened.</td></tr>
 
-  T'POL [OC]
-     I'm on my way to the Bridge.
+<tr id="L55"><td><a href="#L55">55</a></td><td>ANNOTATION: Skalaar points his weapon at him.</td></tr>
 
-  TUCKER
-     Acknowledged.
+<tr id="L56"><td><a href="#L56">56</a></td><td>SKALAAR:  You can either be quiet or spend the rest of this trip unconscious. Which do you prefer?</td></tr>
 
+<tr id="L57"><td><a href="#L57">57</a></td><td>ANNOTATION: Archer sits down quietly</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Decon chamber</td></tr>
+<tr id="L58"><td><a href="#L58">58</a></td><td>ANNOTATION: The pair are in their underwear.</td></tr>
 
-  PHLOX
-     I'm afraid you're not going anywhere for the
-     moment. We brought a stowaway with us, an unusual
-     microbe.
+<tr id="L59"><td><a href="#L59">59</a></td><td>PHLOX:  This microbe is more resilient than I thought. It doesn't seem to be vulnerable to theta radiation.</td></tr>
 
-  T'POL
-     Is it contagious?
+<tr id="L60"><td><a href="#L60">60</a></td><td>T'POL:  Perhaps you can increase the dosage.</td></tr>
 
-  PHLOX
-     I'll have to run some more tests. To be safe, we
-     should both go through Decon.
+<tr id="L61"><td><a href="#L61">61</a></td><td>PHLOX:  That wouldn't be advisable. We'd both suffer permanent cellular damage.</td></tr>
 
+<tr id="L62"><td><a href="#L62">62</a></td><td>T'POL:  There must be something else you can try.</td></tr>
 
-LOCATION--Skalaar's ship
+<tr id="L63"><td><a href="#L63">63</a></td><td>PHLOX:  Decon gel E may neutralise the microbe, but it will be several hours before we know if it's effective.</td></tr>
 
-  ANNOTATION
-     Archer wakes up behind bright yellow 'bars.'
+<tr id="L64"><td><a href="#L64">64</a></td><td>T'POL:  I can't stay here several hours.</td></tr>
 
-  ARCHER
-     What do you want? I asked you a question.
+<tr id="L65"><td><a href="#L65">65</a></td><td>PHLOX:  You have little choice. This organism appears to be infectious and humans would be far more vulnerable to it than you or I. Commander Tucker is quite capable. If he needs your help, he knows where to find you.</td></tr>
 
-  ANNOTATION
-     He touches a bar and gets a shock.
+<tr id="L66"><td><a href="#L66">66</a></td><td>ANNOTATION: He draws a curtain between them before disrobing to apply the gel.</td></tr>
 
-  SKALAAR
-     I'd stay clear of those emitters if I were you.
-     The very latest technology. I installed them last
-     month.
+<tr id="L67"><td><a href="#L67">67</a></td><td>PHLOX:  Fortunately no one else on the surface was exposed to the microbe. I suspect you and I were contaminated when we climbed into the second ravine. Considering the quantity of fauna down there, I'm not at all surprised. We were probably infected by the marsupials I found.</td></tr>
 
-  ARCHER
-     I doubt this ship of yours will be a match for
-     Enterprise.
+<tr id="L68"><td><a href="#L68">68</a></td><td>T'POL:  I told you to leave them alone.</td></tr>
 
-  SKALAAR
-     I've taken appropriate counter-measures. We won't
-     be seeing any more of your starship.
+<tr id="L69"><td><a href="#L69">69</a></td><td>PHLOX:  Their saliva is a natural anti-coagulant. I couldn't return to the ship without a sample. I could use your assistance.</td></tr>
 
-  ARCHER
-     I want to know where you're taking me. My crew's
-     not going to give up until they find me. If you
-     take me back, I'd be willing to forget this ever
-     happened.
+<tr id="L70"><td><a href="#L70">70</a></td><td>ANNOTATION: T'Pol pulls the curtain back to apply the gel to his prominent ridged spine.</td></tr>
 
-  ANNOTATION
-     Skalaar points his weapon at him.
+<tr id="L71"><td><a href="#L71">71</a></td><td>T'POL:  I wasn't aware a curtain was installed.</td></tr>
 
-  SKALAAR
-     You can either be quiet or spend the rest of this
-     trip unconscious. Which do you prefer?
+<tr id="L72"><td><a href="#L72">72</a></td><td>PHLOX:  Not everyone is comfortable with the idea of disrobing in front of others.</td></tr>
 
-  ANNOTATION
-     Archer sits down quietly
+<tr id="L73"><td><a href="#L73">73</a></td><td>T'POL:  An odd attitude for a physician.</td></tr>
 
+<tr id="L74"><td><a href="#L74">74</a></td><td>PHLOX:  It's a characteristic of Denobulan males. We're more inhibited than our women. It's led to a number of awkward moments. My Starfleet physical was an experience I never hope to repeat.</td></tr>
 
-LOCATION--Decon chamber
+<tr id="L75"><td><a href="#L75">75</a></td><td>ANNOTATION: T'Pol is fascinated by his spinal ridges.</td></tr>
 
-  ANNOTATION
-     The pair are in their underwear.
+<tr id="L76"><td><a href="#L76">76</a></td><td>T'POL:  If you wouldn't mind.</td></tr>
 
-  PHLOX
-     This microbe is more resilient than I thought. It
-     doesn't seem to be vulnerable to theta radiation.
+<tr id="L77"><td><a href="#L77">77</a></td><td>ANNOTATION: She pulls up her vest, and he returns the favour without actually looking at her.</td></tr>
 
-  T'POL
-     Perhaps you can increase the dosage.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L78"><td><a href="#L78">78</a></td><td>REED:  Sensors are picking up a faint warp signature.</td></tr>
 
-  PHLOX
-     That wouldn't be advisable. We'd both suffer
-     permanent cellular damage.
+<tr id="L79"><td><a href="#L79">79</a></td><td>TUCKER:  Can you get a fix on it?</td></tr>
 
-  T'POL
-     There must be something else you can try.
+<tr id="L80"><td><a href="#L80">80</a></td><td>REED:  Bearing oh seven one mark three two. It's erratic, but it matches our Tellarite friend.</td></tr>
 
-  PHLOX
-     Decon gel E may neutralise the microbe, but it
-     will be several hours before we know if it's
-     effective.
+<tr id="L81"><td><a href="#L81">81</a></td><td>TUCKER:  Set a course, maximum warp.</td></tr>
 
-  T'POL
-     I can't stay here several hours.
+<tr><td></td><td>LOCATION--Skalaar's ship</td></tr>
+<tr id="L82"><td><a href="#L82">82</a></td><td>KLINGON [OC]:  You are speaking on a secure channel.</td></tr>
 
-  PHLOX
-     You have little choice. This organism appears to
-     be infectious and humans would be far more
-     vulnerable to it than you or I. Commander Tucker
-     is quite capable. If he needs your help, he knows
-     where to find you.
+<tr id="L83"><td><a href="#L83">83</a></td><td>SKALAAR:  I'm trying to reach Captain Goroth. It's very important that I speak with him.</td></tr>
 
-  ANNOTATION
-     He draws a curtain between them before disrobing
-     to apply the gel.
+<tr id="L84"><td><a href="#L84">84</a></td><td>KLINGON [OC]:  We're attempting to transfer you. Stand by.</td></tr>
 
-  PHLOX
-     Fortunately no one else on the surface was exposed
-     to the microbe. I suspect you and I were
-     contaminated when we climbed into the second
-     ravine. Considering the quantity of fauna down
-     there, I'm not at all surprised. We were probably
-     infected by the marsupials I found.
+<tr id="L85"><td><a href="#L85">85</a></td><td>GOROTH [OC]:  This is Goroth. What do you want?</td></tr>
 
-  T'POL
-     I told you to leave them alone.
+<tr id="L86"><td><a href="#L86">86</a></td><td>SKALAAR:  I have the fugitive.</td></tr>
 
-  PHLOX
-     Their saliva is a natural anti-coagulant. I
-     couldn't return to the ship without a sample. I
-     could use your assistance.
+<tr id="L87"><td><a href="#L87">87</a></td><td>GOROTH [OC]:  He's in your custody?</td></tr>
 
-  ANNOTATION
-     T'Pol pulls the curtain back to apply the gel to
-     his prominent ridged spine.
+<tr id="L88"><td><a href="#L88">88</a></td><td>SKALAAR:  He's standing about five metres from me. You'll be pleased to know he's still alive. I'm bringing him to Kronos as we agreed.</td></tr>
 
-  T'POL
-     I wasn't aware a curtain was installed.
+<tr id="L89"><td><a href="#L89">89</a></td><td>GOROTH [OC]:  No. I'm transmitting rendezvous co-ordinates. Be there in two days.</td></tr>
 
-  PHLOX
-     Not everyone is comfortable with the idea of
-     disrobing in front of others.
+<tr id="L90"><td><a href="#L90">90</a></td><td>SKALAAR:  I trust you'll have the full payment?</td></tr>
 
-  T'POL
-     An odd attitude for a physician.
+<tr id="L91"><td><a href="#L91">91</a></td><td>GOROTH [OC]:  You'll get what was promised.</td></tr>
 
-  PHLOX
-     It's a characteristic of Denobulan males. We're
-     more inhibited than our women. It's led to a
-     number of awkward moments. My Starfleet physical
-     was an experience I never hope to repeat.
+<tr id="L92"><td><a href="#L92">92</a></td><td>SKALAAR:  A pleasure doing business with you, Captain.</td></tr>
 
-  ANNOTATION
-     T'Pol is fascinated by his spinal ridges.
+<tr id="L93"><td><a href="#L93">93</a></td><td>ANNOTATION: Ends transmission.</td></tr>
 
-  T'POL
-     If you wouldn't mind.
+<tr id="L94"><td><a href="#L94">94</a></td><td>SKALAAR:  As always.</td></tr>
 
-  ANNOTATION
-     She pulls up her vest, and he returns the favour
-     without actually looking at her.
+<tr id="L95"><td><a href="#L95">95</a></td><td>ARCHER:  How much are they paying you? You mentioned the Klingon homeworld, Kronos. I assume this has something to do with my escaping prison. You don't even know what I'm accused of.</td></tr>
 
+<tr id="L96"><td><a href="#L96">96</a></td><td>SKALAAR:  You're right, and I don't care to.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L97"><td><a href="#L97">97</a></td><td>REED:  The signature's holding steady. Looks like he's orbiting a G-type star.</td></tr>
 
-  REED
-     Sensors are picking up a faint warp signature.
+<tr id="L98"><td><a href="#L98">98</a></td><td>TUCKER:  Go to Tactical Alert.</td></tr>
 
-  TUCKER
-     Can you get a fix on it?
+<tr id="L99"><td><a href="#L99">99</a></td><td>ANNOTATION: But as they approach, we can see it's not a ship.</td></tr>
 
-  REED
-     Bearing oh seven one mark three two. It's erratic,
-     but it matches our Tellarite friend.
+<tr id="L100"><td><a href="#L100">100</a></td><td>REED:  It appears to be a beacon of some kind. It's generating a warp signature identical to the Tellarites.</td></tr>
 
-  TUCKER
-     Set a course, maximum warp.
+<tr id="L101"><td><a href="#L101">101</a></td><td>TUCKER:  A decoy! Anything on sensors?</td></tr>
 
+<tr id="L102"><td><a href="#L102">102</a></td><td>ANNOTATION: Reed shakes his head.</td></tr>
 
-LOCATION--Skalaar's ship
+<tr id="L103"><td><a href="#L103">103</a></td><td>TUCKER:  We're going to have to start all over.</td></tr>
 
-  KLINGON [OC]
-     You are speaking on a secure channel.
+<tr id="L104"><td><a href="#L104">104</a></td><td>REED:  I'm getting too much interference from that device. It's throwing off our scans.</td></tr>
 
-  SKALAAR
-     I'm trying to reach Captain Goroth. It's very
-     important that I speak with him.
+<tr id="L105"><td><a href="#L105">105</a></td><td>TUCKER:  Then get rid of it.</td></tr>
 
-  KLINGON [OC]
-     We're attempting to transfer you. Stand by.
+<tr id="L106"><td><a href="#L106">106</a></td><td>REED:  With pleasure, sir.</td></tr>
 
-  GOROTH [OC]
-     This is Goroth. What do you want?
+<tr id="L107"><td><a href="#L107">107</a></td><td>ANNOTATION: He phasers it into atoms.</td></tr>
 
-  SKALAAR
-     I have the fugitive.
+<tr><td></td><td>LOCATION--Skalaar's ship</td></tr>
+<tr id="L108"><td><a href="#L108">108</a></td><td>ANNOTATION: It's meal time, and Skalaar is serving up something from a pan on a stove.</td></tr>
 
-  GOROTH [OC]
-     He's in your custody?
+<tr id="L109"><td><a href="#L109">109</a></td><td>ARCHER:  I have no idea what the Klingons are paying you, but whatever it is, Starfleet will double it.</td></tr>
 
-  SKALAAR
-     He's standing about five metres from me. You'll be
-     pleased to know he's still alive. I'm bringing him
-     to Kronos as we agreed.
+<tr id="L110"><td><a href="#L110">110</a></td><td>SKALAAR:  I don't take bribes from criminals.</td></tr>
 
-  GOROTH [OC]
-     No. I'm transmitting rendezvous co-ordinates. Be
-     there in two days.
+<tr id="L111"><td><a href="#L111">111</a></td><td>ARCHER:  I'm not a criminal.</td></tr>
 
-  SKALAAR
-     I trust you'll have the full payment?
+<tr id="L112"><td><a href="#L112">112</a></td><td>SKALAAR:  Klingon Judiciary says you are.</td></tr>
 
-  GOROTH [OC]
-     You'll get what was promised.
+<tr id="L113"><td><a href="#L113">113</a></td><td>ARCHER:  My crime was helping a ship full of refugees.</td></tr>
 
-  SKALAAR
-     A pleasure doing business with you, Captain.
+<tr id="L114"><td><a href="#L114">114</a></td><td>SKALAAR:  Oh, that was very noble of you. You'll think twice before doing that again.</td></tr>
 
-  ANNOTATION
-     Ends transmission.
+<tr id="L115"><td><a href="#L115">115</a></td><td>ANNOTATION: Skalaar sits down to eat.</td></tr>
 
-  SKALAAR
-     As always.
+<tr id="L116"><td><a href="#L116">116</a></td><td>ARCHER:  It's pretty clear I'm never going to get the chance. I was sentenced to life in prison on Rura Penthe. Ever heard of it?</td></tr>
 
-  ARCHER
-     How much are they paying you? You mentioned the
-     Klingon homeworld, Kronos. I assume this has
-     something to do with my escaping prison. You don't
-     even know what I'm accused of.
+<tr id="L117"><td><a href="#L117">117</a></td><td>SKALAAR:  I'm familiar with Rura Penthe.</td></tr>
 
-  SKALAAR
-     You're right, and I don't care to.
+<tr id="L118"><td><a href="#L118">118</a></td><td>ARCHER:  The magistrate isn't going to be so lenient next time. I'll probably be executed.</td></tr>
 
+<tr id="L119"><td><a href="#L119">119</a></td><td>ANNOTATION: Skalaar loses his appetite.</td></tr>
 
-LOCATION--Bridge
+<tr id="L120"><td><a href="#L120">120</a></td><td>SKALAAR:  That's not my concern.</td></tr>
 
-  REED
-     The signature's holding steady. Looks like he's
-     orbiting a G-type star.
+<tr id="L121"><td><a href="#L121">121</a></td><td>ARCHER:  You don't care that you're sending an innocent man to his death.</td></tr>
 
-  TUCKER
-     Go to Tactical Alert.
+<tr id="L122"><td><a href="#L122">122</a></td><td>SKALAAR:  I've captured dozens of fugitives. Every one of them claimed to be an innocent man.</td></tr>
 
-  ANNOTATION
-     But as they approach, we can see it's not a ship.
+<tr id="L123"><td><a href="#L123">123</a></td><td>ARCHER:  If the Klingons wanted them, they probably were. You don't have to do this.</td></tr>
 
-  REED
-     It appears to be a beacon of some kind. It's
-     generating a warp signature identical to the
-     Tellarites.
+<tr id="L124"><td><a href="#L124">124</a></td><td>SKALAAR:  Goroth already knows you're aboard. If I don't deliver you he'll offer a reward for both of us. I've learned never to cross a Klingon.</td></tr>
 
-  TUCKER
-     A decoy! Anything on sensors?
+<tr id="L125"><td><a href="#L125">125</a></td><td>ARCHER:  It must be difficult working for people like them.</td></tr>
 
-  ANNOTATION
-     Reed shakes his head.
+<tr id="L126"><td><a href="#L126">126</a></td><td>SKALAAR:  I don't answer to those savages. I work for myself.</td></tr>
 
-  TUCKER
-     We're going to have to start all over.
+<tr id="L127"><td><a href="#L127">127</a></td><td>ARCHER:  That's not how it looks from in here.</td></tr>
 
-  REED
-     I'm getting too much interference from that
-     device. It's throwing off our scans.
+<tr id="L128"><td><a href="#L128">128</a></td><td>SKALAAR:  If you knew how much they were paying me you'd understand. This has nothing to do with you. I'm sure you're not a bad person, just an unlucky one.</td></tr>
 
-  TUCKER
-     Then get rid of it.
+<tr><td></td><td>LOCATION--Decon chamber</td></tr>
+<tr id="L129"><td><a href="#L129">129</a></td><td>T'POL:  You're making it difficult to meditate.</td></tr>
 
-  REED
-     With pleasure, sir.
+<tr id="L130"><td><a href="#L130">130</a></td><td>PHLOX:  (scanning her) You've developed a slight fever. I'm also reading elevated dopamine levels. The microbe may be affecting your limbic system.</td></tr>
 
-  ANNOTATION
-     He phasers it into atoms.
+<tr id="L131"><td><a href="#L131">131</a></td><td>T'POL:  I can't concentrate under these conditions.</td></tr>
 
+<tr id="L132"><td><a href="#L132">132</a></td><td>PHLOX:  I don't mean to be intrusive. (T'Pol stands and paces.)</td></tr>
 
-LOCATION--Skalaar's ship
+<tr id="L133"><td><a href="#L133">133</a></td><td>T'POL:  The Captain's been abducted, he may even be dead. My place is on the Bridge.</td></tr>
 
-  ANNOTATION
-     It's meal time, and Skalaar is serving up
-     something from a pan on a stove.
+<tr id="L134"><td><a href="#L134">134</a></td><td>ANNOTATION: She exits via the locker room, but Phlox gets to the main exit before her and locks it.</td></tr>
 
-  ARCHER
-     I have no idea what the Klingons are paying you,
-     but whatever it is, Starfleet will double it.
+<tr id="L135"><td><a href="#L135">135</a></td><td>PHLOX:  Sub-Commander, where are you going?</td></tr>
 
-  SKALAAR
-     I don't take bribes from criminals.
+<tr id="L136"><td><a href="#L136">136</a></td><td>T'POL:  Open it.</td></tr>
 
-  ARCHER
-     I'm not a criminal.
+<tr id="L137"><td><a href="#L137">137</a></td><td>PHLOX:  You'll spread the infection.</td></tr>
 
-  SKALAAR
-     Klingon Judiciary says you are.
+<tr id="L138"><td><a href="#L138">138</a></td><td>T'POL:  I'll go to my quarters. If I seal off the ventilation system it should minimise the risk of exposing anyone.</td></tr>
 
-  ARCHER
-     My crime was helping a ship full of refugees.
+<tr id="L139"><td><a href="#L139">139</a></td><td>PHLOX:  Your quarters are on C deck. By the time you reach them you'll contaminate half the ship.</td></tr>
 
-  SKALAAR
-     Oh, that was very noble of you. You'll think twice
-     before doing that again.
+<tr id="L140"><td><a href="#L140">140</a></td><td>T'POL:  Unlock this door. I gave you a direct order.</td></tr>
 
-  ANNOTATION
-     Skalaar sits down to eat.
+<tr id="L141"><td><a href="#L141">141</a></td><td>PHLOX:  I'm sorry, but I can't obey it.</td></tr>
 
-  ARCHER
-     It's pretty clear I'm never going to get the
-     chance. I was sentenced to life in prison on Rura
-     Penthe. Ever heard of it?
+<tr id="L142"><td><a href="#L142">142</a></td><td>T'POL:  I can have you court-martialed.</td></tr>
 
-  SKALAAR
-     I'm familiar with Rura Penthe.
+<tr id="L143"><td><a href="#L143">143</a></td><td>PHLOX:  I doubt that very</td></tr>
 
-  ARCHER
-     The magistrate isn't going to be so lenient next
-     time. I'll probably be executed.
+<tr id="L144"><td><a href="#L144">144</a></td><td>T'POL:  Open it! I apologise. I'm having trouble suppressing my emotions.</td></tr>
 
-  ANNOTATION
-     Skalaar loses his appetite.
+<tr id="L145"><td><a href="#L145">145</a></td><td>PHLOX:  We'll know in a few hours whether the gel is working. Until then, perhaps a mild sedative will help?</td></tr>
 
-  SKALAAR
-     That's not my concern.
+<tr><td></td><td>LOCATION--Skalaar's ship</td></tr>
+<tr id="L146"><td><a href="#L146">146</a></td><td>ANNOTATION: Skalaar is speaking to another Tellarite.</td></tr>
 
-  ARCHER
-     You don't care that you're sending an innocent man
-     to his death.
+<tr id="L147"><td><a href="#L147">147</a></td><td>SKALAAR:  The Klingons are paying nine thousand darseks. That's more than enough to get Tezra back.</td></tr>
 
-  SKALAAR
-     I've captured dozens of fugitives. Every one of
-     them claimed to be an innocent man.
+<tr id="L148"><td><a href="#L148">148</a></td><td>GAAVRIN [on monitor]:  You're not being realistic.</td></tr>
 
-  ARCHER
-     If the Klingons wanted them, they probably were.
-     You don't have to do this.
+<tr id="L149"><td><a href="#L149">149</a></td><td>SKALAAR:  I already have the human in custody. The reward is guaranteed.</td></tr>
 
-  SKALAAR
-     Goroth already knows you're aboard. If I don't
-     deliver you he'll offer a reward for both of us.
-     I've learned never to cross a Klingon.
+<tr id="L150"><td><a href="#L150">150</a></td><td>GAAVRIN [on monitor]:  You've made this promise before.</td></tr>
 
-  ARCHER
-     It must be difficult working for people like them.
+<tr id="L151"><td><a href="#L151">151</a></td><td>SKALAAR:  In two days you'll see I'm telling the truth.</td></tr>
 
-  SKALAAR
-     I don't answer to those savages. I work for
-     myself.
+<tr id="L152"><td><a href="#L152">152</a></td><td>GAAVRIN [on monitor]:  Even if you get the money, which I doubt, it wouldn't change my decision.</td></tr>
 
-  ARCHER
-     That's not how it looks from in here.
+<tr id="L153"><td><a href="#L153">153</a></td><td>SKALAAR:  Do you want to scrub plasma injectors the rest of your life? I'm giving you a chance to</td></tr>
 
-  SKALAAR
-     If you knew how much they were paying me you'd
-     understand. This has nothing to do with you. I'm
-     sure you're not a bad person, just an unlucky one.
+<tr id="L154"><td><a href="#L154">154</a></td><td>ANNOTATION: Signal ends.</td></tr>
 
+<tr id="L155"><td><a href="#L155">155</a></td><td>ARCHER:  Who's Tezra?</td></tr>
 
-LOCATION--Decon chamber
+<tr id="L156"><td><a href="#L156">156</a></td><td>SKALAAR:  Tezra's not a person, it's a cargo ship. Far more impressive than this antique.</td></tr>
 
-  T'POL
-     You're making it difficult to meditate.
+<tr id="L157"><td><a href="#L157">157</a></td><td>ARCHER:  You're going to use the reward to buy your ship back?</td></tr>
 
-  PHLOX
-     (scanning her) You've developed a slight fever.
-     I'm also reading elevated dopamine levels. The
-     microbe may be affecting your limbic system.
+<tr id="L158"><td><a href="#L158">158</a></td><td>SKALAAR:  You'd be wise to keep quiet. The Klingons pay me the same whether you're alive or dead. A vessel's approaching. I wouldn't get too optimistic. It's not your starship.</td></tr>
 
-  T'POL
-     I can't concentrate under these conditions.
+<tr id="L159"><td><a href="#L159">159</a></td><td>ANNOTATION: Another alien makes contact with Skalaar. This one has its chin tucked in and a ridged skull with two plumes of fine hair hanging down.</td></tr>
 
-  PHLOX
-     I don't mean to be intrusive. (T'Pol stands and
-     paces.)
+<tr id="L160"><td><a href="#L160">160</a></td><td>KAGO-DARR [on viewscreen]:  You have something I want.</td></tr>
 
-  T'POL
-     The Captain's been abducted, he may even be dead.
-     My place is on the Bridge.
+<tr id="L161"><td><a href="#L161">161</a></td><td>SKALAAR:  Always one step behind me, eh, Kago?</td></tr>
 
-  ANNOTATION
-     She exits via the locker room, but Phlox gets to
-     the main exit before her and locks it.
+<tr id="L162"><td><a href="#L162">162</a></td><td>KAGO-DARR [on viewscreen]:  Drop out of warp and surrender the prisoner.</td></tr>
 
-  PHLOX
-     Sub-Commander, where are you going?
+<tr id="L163"><td><a href="#L163">163</a></td><td>SKALAAR:  Why would I do that?</td></tr>
 
-  T'POL
-     Open it.
+<tr id="L164"><td><a href="#L164">164</a></td><td>KAGO-DARR [on viewscreen]:  Don't force me to take action.</td></tr>
 
-  PHLOX
-     You'll spread the infection.
+<tr id="L165"><td><a href="#L165">165</a></td><td>SKALAAR:  Goroth told you where I was, didn't he.</td></tr>
 
-  T'POL
-     I'll go to my quarters. If I seal off the
-     ventilation system it should minimise the risk of
-     exposing anyone.
+<tr id="L166"><td><a href="#L166">166</a></td><td>KAGO-DARR [on viewscreen]:  You had two months to find the human. Goroth contacted me because you obviously weren't going to succeed. You're incompetent!</td></tr>
 
-  PHLOX
-     Your quarters are on C deck. By the time you reach
-     them you'll contaminate half the ship.
+<tr id="L167"><td><a href="#L167">167</a></td><td>SKALAAR:  If I was incompetent Archer would be aboard your ship, wouldn't he?</td></tr>
 
-  T'POL
-     Unlock this door. I gave you a direct order.
+<tr id="L168"><td><a href="#L168">168</a></td><td>KAGO-DARR [on viewscreen]:  The human. Now.</td></tr>
 
-  PHLOX
-     I'm sorry, but I can't obey it.
+<tr id="L169"><td><a href="#L169">169</a></td><td>SKALAAR:  Or what, you'll destroy my shuttle? Can't collect on Archer if he's a cloud of vapour.</td></tr>
 
-  T'POL
-     I can have you court-martialed.
+<tr id="L170"><td><a href="#L170">170</a></td><td>ANNOTATION: He breaks contact.</td></tr>
 
-  PHLOX
-     I doubt that very
+<tr id="L171"><td><a href="#L171">171</a></td><td>SKALAAR:  You may want to hold on to something.</td></tr>
 
-  T'POL
-     Open it! I apologise. I'm having trouble
-     suppressing my emotions.
+<tr id="L172"><td><a href="#L172">172</a></td><td>ANNOTATION: Kago-Darr starts firing at them, and Skalaar returns fire.</td></tr>
 
-  PHLOX
-     We'll know in a few hours whether the gel is
-     working. Until then, perhaps a mild sedative will
-     help?
+<tr id="L173"><td><a href="#L173">173</a></td><td>ARCHER:  Let me out. I can help you.</td></tr>
 
+<tr id="L174"><td><a href="#L174">174</a></td><td>SKALAAR:  You must think I'm a fool.</td></tr>
 
-LOCATION--Skalaar's ship
+<tr id="L175"><td><a href="#L175">175</a></td><td>ARCHER:  You can't manoeuvre the ship and make repairs at the same time. I'm a pilot, let me take the helm.</td></tr>
 
-  ANNOTATION
-     Skalaar is speaking to another Tellarite.
+<tr id="L176"><td><a href="#L176">176</a></td><td>SKALAAR:  If you try to escape.</td></tr>
 
-  SKALAAR
-     The Klingons are paying nine thousand darseks.
-     That's more than enough to get Tezra back.
+<tr id="L177"><td><a href="#L177">177</a></td><td>ANNOTATION: Skalaar lets him out.</td></tr>
 
-  GAAVRIN [on monitor]
-     You're not being realistic.
+<tr id="L178"><td><a href="#L178">178</a></td><td>SKALARR:  This is the warp field regulator, the impulse throttle.</td></tr>
 
-  SKALAAR
-     I already have the human in custody. The reward is
-     guaranteed.
+<tr id="L179"><td><a href="#L179">179</a></td><td>ARCHER:  Navigation sensors.</td></tr>
 
-  GAAVRIN [on monitor]
-     You've made this promise before.
+<tr id="L180"><td><a href="#L180">180</a></td><td>SKALAAR:  There.</td></tr>
 
-  SKALAAR
-     In two days you'll see I'm telling the truth.
+<tr id="L181"><td><a href="#L181">181</a></td><td>ARCHER:  There's an L class planet in this system. I'm taking us out of warp.</td></tr>
 
-  GAAVRIN [on monitor]
-     Even if you get the money, which I doubt, it
-     wouldn't change my decision.
+<tr id="L182"><td><a href="#L182">182</a></td><td>SKALAAR:  What?</td></tr>
 
-  SKALAAR
-     Do you want to scrub plasma injectors the rest of
-     your life? I'm giving you a chance to
+<tr id="L183"><td><a href="#L183">183</a></td><td>ARCHER:  We can't outrun him but he may not be able to navigate as well as we can in the planet's atmosphere.</td></tr>
 
-  ANNOTATION
-     Signal ends.
+<tr id="L184"><td><a href="#L184">184</a></td><td>ANNOTATION: They go down into the atmosphere.</td></tr>
 
-  ARCHER
-     Who's Tezra?
+<tr id="L185"><td><a href="#L185">185</a></td><td>SKALAAR:  This ship wasn't designed for these manoeuvres. We've lost the aft cannons.</td></tr>
 
-  SKALAAR
-     Tezra's not a person, it's a cargo ship. Far more
-     impressive than this antique.
+<tr id="L186"><td><a href="#L186">186</a></td><td>ARCHER:  What about forward cannons?</td></tr>
 
-  ARCHER
-     You're going to use the reward to buy your ship
-     back?
+<tr id="L187"><td><a href="#L187">187</a></td><td>SKALAAR:  Still online.</td></tr>
 
-  SKALAAR
-     You'd be wise to keep quiet. The Klingons pay me
-     the same whether you're alive or dead. A vessel's
-     approaching. I wouldn't get too optimistic. It's
-     not your starship.
+<tr id="L188"><td><a href="#L188">188</a></td><td>ARCHER:  What are these?</td></tr>
 
-  ANNOTATION
-     Another alien makes contact with Skalaar. This one
-     has its chin tucked in and a ridged skull with two
-     plumes of fine hair hanging down.
+<tr id="L189"><td><a href="#L189">189</a></td><td>SKALAAR:  Subspace beacons. They generate a false warp signature. I used one of them to evade your vessel.</td></tr>
 
-  KAGO-DARR [on viewscreen]
-     You have something I want.
+<tr id="L190"><td><a href="#L190">190</a></td><td>ARCHER:  Get ready to launch them.</td></tr>
 
-  SKALAAR
-     Always one step behind me, eh, Kago?
+<tr id="L191"><td><a href="#L191">191</a></td><td>SKALAAR:  What good will that do?</td></tr>
 
-  KAGO-DARR [on viewscreen]
-     Drop out of warp and surrender the prisoner.
+<tr id="L192"><td><a href="#L192">192</a></td><td>ARCHER:  He's flying on sensors, just like we are. He'll only have a one in three chance of targeting us.</td></tr>
 
-  SKALAAR
-     Why would I do that?
+<tr id="L193"><td><a href="#L193">193</a></td><td>SKALAAR:  Ready.</td></tr>
 
-  KAGO-DARR [on viewscreen]
-     Don't force me to take action.
+<tr id="L194"><td><a href="#L194">194</a></td><td>ARCHER:  Now.</td></tr>
 
-  SKALAAR
-     Goroth told you where I was, didn't he.
+<tr id="L195"><td><a href="#L195">195</a></td><td>ANNOTATION: The strategy succeeds and Archer comes up behind Kago-Darr's ship to fire at him.</td></tr>
 
-  KAGO-DARR [on viewscreen]
-     You had two months to find the human. Goroth
-     contacted me because you obviously weren't going
-     to succeed. You're incompetent!
+<tr id="L196"><td><a href="#L196">196</a></td><td>ARCHER:  We knocked out his engine. He's making an emergency landing.</td></tr>
 
-  SKALAAR
-     If I was incompetent Archer would be aboard your
-     ship, wouldn't he?
+<tr id="L197"><td><a href="#L197">197</a></td><td>SKALAAR:  Don't celebrate yet. Our reactor's leaking. The warp drive's offline. I'm never going to make the rendezvous.</td></tr>
 
-  KAGO-DARR [on viewscreen]
-     The human. Now.
+<tr id="L198"><td><a href="#L198">198</a></td><td>ARCHER:  Isn't that a shame.</td></tr>
 
-  SKALAAR
-     Or what, you'll destroy my shuttle? Can't collect
-     on Archer if he's a cloud of vapour.
+<tr id="L199"><td><a href="#L199">199</a></td><td>SKALAAR:  The reactor also powers life support.</td></tr>
 
-  ANNOTATION
-     He breaks contact.
+<tr id="L200"><td><a href="#L200">200</a></td><td>ARCHER:  Then you'd better get to work.</td></tr>
 
-  SKALAAR
-     You may want to hold on to something.
+<tr id="L201"><td><a href="#L201">201</a></td><td>SKALAAR:  It can only be accessed from the outer hull.</td></tr>
 
-  ANNOTATION
-     Kago-Darr starts firing at them, and Skalaar
-     returns fire.
+<tr id="L202"><td><a href="#L202">202</a></td><td>ARCHER:  Then we should set down here.</td></tr>
 
-  ARCHER
-     Let me out. I can help you.
+<tr id="L203"><td><a href="#L203">203</a></td><td>SKALAAR:  But Kago's on the surface.</td></tr>
 
-  SKALAAR
-     You must think I'm a fool.
+<tr id="L204"><td><a href="#L204">204</a></td><td>ARCHER:  We'll land a thousand kilometres away.</td></tr>
 
-  ARCHER
-     You can't manoeuvre the ship and make repairs at
-     the same time. I'm a pilot, let me take the helm.
+<tr><td></td><td>LOCATION--Decon chamber</td></tr>
+<tr id="L205"><td><a href="#L205">205</a></td><td>ANNOTATION: Phlox is woken by T'Pol's hand on his neck.</td></tr>
 
-  SKALAAR
-     If you try to escape.
+<tr id="L206"><td><a href="#L206">206</a></td><td>PHLOX:  What are you doing?</td></tr>
 
-  ANNOTATION
-     Skalaar lets him out.
+<tr id="L207"><td><a href="#L207">207</a></td><td>T'POL:  You said we'd need another treatment.</td></tr>
 
-  SKALARR
-     This is the warp field regulator, the impulse
-     throttle.
+<tr id="L208"><td><a href="#L208">208</a></td><td>PHLOX:  Not for three hours.</td></tr>
 
-  ARCHER
-     Navigation sensors.
+<tr id="L209"><td><a href="#L209">209</a></td><td>T'POL:  Is there any harm in starting now?</td></tr>
 
-  SKALAAR
-     There.
+<tr id="L210"><td><a href="#L210">210</a></td><td>PHLOX:  (sitting up) I can apply it myself, thank you. Perhaps you need another sedative.</td></tr>
 
-  ARCHER
-     There's an L class planet in this system. I'm
-     taking us out of warp.
+<tr id="L211"><td><a href="#L211">211</a></td><td>T'POL:  Rest is not what I need.</td></tr>
 
-  SKALAAR
-     What?
+<tr id="L212"><td><a href="#L212">212</a></td><td>PHLOX:  Sub-Commander, this behaviour is hardly appropriate.</td></tr>
 
-  ARCHER
-     We can't outrun him but he may not be able to
-     navigate as well as we can in the planet's
-     atmosphere.
+<tr id="L213"><td><a href="#L213">213</a></td><td>T'POL:  My name is T'Pol. You don't find me attractive?</td></tr>
 
-  ANNOTATION
-     They go down into the atmosphere.
+<tr id="L214"><td><a href="#L214">214</a></td><td>PHLOX:  Of course I do, but that is not the issue.</td></tr>
 
-  SKALAAR
-     This ship wasn't designed for these manoeuvres.
-     We've lost the aft cannons.
+<tr id="L215"><td><a href="#L215">215</a></td><td>T'POL:  I am familiar with Denobulan sexuality. I know that your marriages aren't exclusive.</td></tr>
 
-  ARCHER
-     What about forward cannons?
+<tr id="L216"><td><a href="#L216">216</a></td><td>PHLOX:  You and I are colleagues. It's against regulations.</td></tr>
 
-  SKALAAR
-     Still online.
+<tr id="L217"><td><a href="#L217">217</a></td><td>T'POL:  Starfleet regulations. There's no reason to be restrained by human morality.</td></tr>
 
-  ARCHER
-     What are these?
+<tr id="L218"><td><a href="#L218">218</a></td><td>PHLOX:  It's obvious you're not well. Please.</td></tr>
 
-  SKALAAR
-     Subspace beacons. They generate a false warp
-     signature. I used one of them to evade your
-     vessel.
+<tr id="L219"><td><a href="#L219">219</a></td><td>T'POL:  You have no idea what you're denying yourself.</td></tr>
 
-  ARCHER
-     Get ready to launch them.
+<tr id="L220"><td><a href="#L220">220</a></td><td>PHLOX:  Your hormonal and endorphin levels are dangerously high.</td></tr>
 
-  SKALAAR
-     What good will that do?
+<tr id="L221"><td><a href="#L221">221</a></td><td>T'POL:  You don't understand. I'm not ill.</td></tr>
 
-  ARCHER
-     He's flying on sensors, just like we are. He'll
-     only have a one in three chance of targeting us.
+<tr id="L222"><td><a href="#L222">222</a></td><td>PHLOX:  These are hardly normal readings.</td></tr>
 
-  SKALAAR
-     Ready.
+<tr id="L223"><td><a href="#L223">223</a></td><td>T'POL:  They're normal for a Vulcan in my condition.</td></tr>
 
-  ARCHER
-     Now.
+<tr id="L224"><td><a href="#L224">224</a></td><td>PHLOX:  You know what's wrong with you?</td></tr>
 
-  ANNOTATION
-     The strategy succeeds and Archer comes up behind
-     Kago-Darr's ship to fire at him.
+<tr id="L225"><td><a href="#L225">225</a></td><td>T'POL:  It's not something we discuss with others.</td></tr>
 
-  ARCHER
-     We knocked out his engine. He's making an
-     emergency landing.
+<tr id="L226"><td><a href="#L226">226</a></td><td>PHLOX:  I believe it's time for you to amend that policy. You have my assurance it will remain between us.</td></tr>
 
-  SKALAAR
-     Don't celebrate yet. Our reactor's leaking. The
-     warp drive's offline. I'm never going to make the
-     rendezvous.
+<tr id="L227"><td><a href="#L227">227</a></td><td>T'POL:  We call it the pon farr, the cycle of mating.</td></tr>
 
-  ARCHER
-     Isn't that a shame.
+<tr id="L228"><td><a href="#L228">228</a></td><td>PHLOX:  Have you gone through this before?</td></tr>
 
-  SKALAAR
-     The reactor also powers life support.
+<tr id="L229"><td><a href="#L229">229</a></td><td>T'POL:  It's not time.</td></tr>
 
-  ARCHER
-     Then you'd better get to work.
+<tr id="L230"><td><a href="#L230">230</a></td><td>PHLOX:  It's possible the infection acted as a catalyst.</td></tr>
 
-  SKALAAR
-     It can only be accessed from the outer hull.
+<tr id="L231"><td><a href="#L231">231</a></td><td>T'POL:  What caused it doesn't matter. If I don't mate with a male, Vulcan or otherwise, I'll die.</td></tr>
 
-  ARCHER
-     Then we should set down here.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L232"><td><a href="#L232">232</a></td><td>ARCHER:  That ship you mentioned, the Tezra, sounds pretty important to you.</td></tr>
 
-  SKALAAR
-     But Kago's on the surface.
+<tr id="L233"><td><a href="#L233">233</a></td><td>SKALAAR:  More than you know. If Kago collects the reward he'll probably waste it on Orion slave girls. Not me, I'm going to do something useful with it.</td></tr>
 
-  ARCHER
-     We'll land a thousand kilometres away.
+<tr id="L234"><td><a href="#L234">234</a></td><td>ARCHER:  I don't understand why you want a cargo ship. It doesn't seem practical in your line of work.</td></tr>
 
+<tr id="L235"><td><a href="#L235">235</a></td><td>SKALAAR:  You think I've been chasing fugitives my entire life? Once I get the money I'll have enough to pay off the impound fees. I'll be a freighter captain again.</td></tr>
 
-LOCATION--Decon chamber
+<tr id="L236"><td><a href="#L236">236</a></td><td>ARCHER:  My helmsman used to run freight. The two of you would probably have a lot to talk about.</td></tr>
 
-  ANNOTATION
-     Phlox is woken by T'Pol's hand on his neck.
+<tr id="L237"><td><a href="#L237">237</a></td><td>SKALAAR:  The Tezra isn't like any other cargo ship. She was the first of her class, the fastest ever built. She could haul a million metric tons at warp four point five. Even your starship isn't capable of that. I retrofitted her engines myself.</td></tr>
 
-  PHLOX
-     What are you doing?
+<tr id="L238"><td><a href="#L238">238</a></td><td>ARCHER:  You never told me why it was impounded.</td></tr>
 
-  T'POL
-     You said we'd need another treatment.
+<tr id="L239"><td><a href="#L239">239</a></td><td>SKALAAR:  My brother and I were hauling a shipment of fire-salt. I thought I could trim two or three days off our journey by cutting across the most insignificant corner of Klingon space. I learned very quickly there's no thing as an insignificant corner of Klingon space. We were lucky to escape with our lives, though we did pay a price.</td></tr>
 
-  PHLOX
-     Not for three hours.
+<tr id="L240"><td><a href="#L240">240</a></td><td>ARCHER:  They took your ship?</td></tr>
 
-  T'POL
-     Is there any harm in starting now?
+<tr id="L241"><td><a href="#L241">241</a></td><td>SKALAAR:  And it's cargo too. My brother never forgave me. I've been trying to find a way to get the Tezra back every since. What are you doing!</td></tr>
 
-  PHLOX
-     (sitting up) I can apply it myself, thank you.
-     Perhaps you need another sedative.
+<tr id="L242"><td><a href="#L242">242</a></td><td>ANNOTATION: Archer throws him to the ground and pulls a weapon.</td></tr>
 
-  T'POL
-     Rest is not what I need.
+<tr id="L243"><td><a href="#L243">243</a></td><td>ARCHER:  Did you really think I wanted this engine fixed? You're taking me to be executed.</td></tr>
 
-  PHLOX
-     Sub-Commander, this behaviour is hardly
-     appropriate.
+<tr id="L244"><td><a href="#L244">244</a></td><td>SKALAAR:  Don't worry, we'll meet Goroth on time.</td></tr>
 
-  T'POL
-     My name is T'Pol. You don't find me attractive?
+<tr><td></td><td>LOCATION--Decon chamber</td></tr>
+<tr id="L245"><td><a href="#L245">245</a></td><td>ANNOTATION: T'Pol wakes up as Phlox is working with test tubes and a PADD.</td></tr>
 
-  PHLOX
-     Of course I do, but that is not the issue.
+<tr id="L246"><td><a href="#L246">246</a></td><td>PHLOX:  Feel any better?</td></tr>
 
-  T'POL
-     I am familiar with Denobulan sexuality. I know
-     that your marriages aren't exclusive.
+<tr id="L247"><td><a href="#L247">247</a></td><td>T'POL:  (breathing heavily) I'm hungry.</td></tr>
 
-  PHLOX
-     You and I are colleagues. It's against
-     regulations.
+<tr id="L248"><td><a href="#L248">248</a></td><td>PHLOX:  Our meals will be here soon.</td></tr>
 
-  T'POL
-     Starfleet regulations. There's no reason to be
-     restrained by human morality.
+<tr id="L249"><td><a href="#L249">249</a></td><td>T'POL:  I wasn't referring to food.</td></tr>
 
-  PHLOX
-     It's obvious you're not well. Please.
+<tr id="L250"><td><a href="#L250">250</a></td><td>PHLOX:  I'm working as quickly as I can. The serum should help alleviate most of your symptoms.</td></tr>
 
-  T'POL
-     You have no idea what you're denying yourself.
+<tr id="L251"><td><a href="#L251">251</a></td><td>T'POL:  There's a far simpler treatment.</td></tr>
 
-  PHLOX
-     Your hormonal and endorphin levels are dangerously
-     high.
+<tr id="L252"><td><a href="#L252">252</a></td><td>PHLOX:  I'd prefer to explore a more conventional approach.</td></tr>
 
-  T'POL
-     You don't understand. I'm not ill.
+<tr id="L253"><td><a href="#L253">253</a></td><td>T'POL:  You have the cure. It's unethical for you to withhold it, Doctor.</td></tr>
 
-  PHLOX
-     These are hardly normal readings.
+<tr id="L254"><td><a href="#L254">254</a></td><td>PHLOX:  This mating cycle of yours was artificially induced. We can't be certain that a physical encounter would help.</td></tr>
 
-  T'POL
-     They're normal for a Vulcan in my condition.
+<tr id="L255"><td><a href="#L255">255</a></td><td>T'POL:  I'm willing to try.</td></tr>
 
-  PHLOX
-     You know what's wrong with you?
+<tr id="L256"><td><a href="#L256">256</a></td><td>PHLOX:  Sub-commander.</td></tr>
 
-  T'POL
-     It's not something we discuss with others.
+<tr id="L257"><td><a href="#L257">257</a></td><td>T'POL:  Don't be frightened. I won't hurt you.</td></tr>
 
-  PHLOX
-     I believe it's time for you to amend that policy.
-     You have my assurance it will remain between us.
+<tr id="L258"><td><a href="#L258">258</a></td><td>ANNOTATION: She rubs up against him.</td></tr>
 
-  T'POL
-     We call it the pon farr, the cycle of mating.
+<tr id="L259"><td><a href="#L259">259</a></td><td>PHLOX:  You're disturbing my serum! You obviously need to be sedated again.</td></tr>
 
-  PHLOX
-     Have you gone through this before?
+<tr id="L260"><td><a href="#L260">260</a></td><td>T'POL:  No more hyposprays.</td></tr>
 
-  T'POL
-     It's not time.
+<tr id="L261"><td><a href="#L261">261</a></td><td>ANNOTATION: The comm. chimes</td></tr>
 
-  PHLOX
-     It's possible the infection acted as a catalyst.
+<tr id="L262"><td><a href="#L262">262</a></td><td>PHLOX:  One of us should probably answer that. It could be news about the Captain. This is Phlox.</td></tr>
 
-  T'POL
-     What caused it doesn't matter. If I don't mate
-     with a male, Vulcan or otherwise, I'll die.
+<tr id="L263"><td><a href="#L263">263</a></td><td>TUCKER [OC]:  Anyone hungry in there? I brought you some supper.</td></tr>
 
+<tr id="L264"><td><a href="#L264">264</a></td><td>PHLOX:  Just in the nick of time, Commander. (to T'Pol) It would be best if you remained here.</td></tr>
 
-LOCATION--Planet surface
+<tr><td></td><td>LOCATION--Isolation ward window</td></tr>
+<tr id="L265"><td><a href="#L265">265</a></td><td>TUCKER:  How are you two holding up?</td></tr>
 
-  ARCHER
-     That ship you mentioned, the Tezra, sounds pretty
-     important to you.
+<tr id="L266"><td><a href="#L266">266</a></td><td>PHLOX:  Well enough. Have you been able to locate Captain Archer?</td></tr>
 
-  SKALAAR
-     More than you know. If Kago collects the reward
-     he'll probably waste it on Orion slave girls. Not
-     me, I'm going to do something useful with it.
+<tr id="L267"><td><a href="#L267">267</a></td><td>TUCKER:  We're tracking another warp signature, hoping this one is the real thing. Are those the ones you wanted?</td></tr>
 
-  ARCHER
-     I don't understand why you want a cargo ship. It
-     doesn't seem practical in your line of work.
+<tr id="L268"><td><a href="#L268">268</a></td><td>ANNOTATION: Phlox checks the meals and a case of something.</td></tr>
 
-  SKALAAR
-     You think I've been chasing fugitives my entire
-     life? Once I get the money I'll have enough to pay
-     off the impound fees. I'll be a freighter captain
-     again.
+<tr id="L269"><td><a href="#L269">269</a></td><td>PHLOX:  Yes, thank you.</td></tr>
 
-  ARCHER
-     My helmsman used to run freight. The two of you
-     would probably have a lot to talk about.
+<tr id="L270"><td><a href="#L270">270</a></td><td>T'POL:  Is that food?</td></tr>
 
-  SKALAAR
-     The Tezra isn't like any other cargo ship. She was
-     the first of her class, the fastest ever built.
-     She could haul a million metric tons at warp four
-     point five. Even your starship isn't capable of
-     that. I retrofitted her engines myself.
+<tr id="L271"><td><a href="#L271">271</a></td><td>ANNOTATION: She snatches a meal.</td></tr>
 
-  ARCHER
-     You never told me why it was impounded.
+<tr id="L272"><td><a href="#L272">272</a></td><td>TUCKER:  Yeah. I had Chef make you some</td></tr>
 
-  SKALAAR
-     My brother and I were hauling a shipment of
-     fire-salt. I thought I could trim two or three
-     days off our journey by cutting across the most
-     insignificant corner of Klingon space. I learned
-     very quickly there's no thing as an insignificant
-     corner of Klingon space. We were lucky to escape
-     with our lives, though we did pay a price.
+<tr id="L273"><td><a href="#L273">273</a></td><td>ANNOTATION: T'Pol devours it greedily.</td></tr>
 
-  ARCHER
-     They took your ship?
+<tr id="L274"><td><a href="#L274">274</a></td><td>TUCKER:  Is she all right?</td></tr>
 
-  SKALAAR
-     And it's cargo too. My brother never forgave me.
-     I've been trying to find a way to get the Tezra
-     back every since. What are you doing!
+<tr id="L275"><td><a href="#L275">275</a></td><td>PHLOX:  She developed a slight fever. Nothing to be concerned about.</td></tr>
 
-  ANNOTATION
-     Archer throws him to the ground and pulls a
-     weapon.
+<tr id="L276"><td><a href="#L276">276</a></td><td>ANNOTATION: Phlox pushes her back into the chamber and shuts the door on her.</td></tr>
 
-  ARCHER
-     Did you really think I wanted this engine fixed?
-     You're taking me to be executed.
+<tr id="L277"><td><a href="#L277">277</a></td><td>REED [OC]:  Bridge to Commander Tucker.</td></tr>
 
-  SKALAAR
-     Don't worry, we'll meet Goroth on time.
+<tr id="L278"><td><a href="#L278">278</a></td><td>TUCKER:  Go ahead.</td></tr>
 
+<tr id="L279"><td><a href="#L279">279</a></td><td>REED [OC]:  We're approaching the coordinates.</td></tr>
 
-LOCATION--Decon chamber
+<tr id="L280"><td><a href="#L280">280</a></td><td>TUCKER:  On my way. (to Phlox) Call if you need anything.</td></tr>
 
-  ANNOTATION
-     T'Pol wakes up as Phlox is working with test tubes
-     and a PADD.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L281"><td><a href="#L281">281</a></td><td>TUCKER:  What have you got?</td></tr>
 
-  PHLOX
-     Feel any better?
+<tr id="L282"><td><a href="#L282">282</a></td><td>REED:  Two matching warp signatures, both in the upper atmosphere. More subspace beacons. There is a ship on the surface. It seems to have suffered engine damage, but it's not Tellarite.</td></tr>
 
-  T'POL
-     (breathing heavily) I'm hungry.
+<tr id="L283"><td><a href="#L283">283</a></td><td>TUCKER:  Biosigns?</td></tr>
 
-  PHLOX
-     Our meals will be here soon.
+<tr id="L284"><td><a href="#L284">284</a></td><td>REED:  One.</td></tr>
 
-  T'POL
-     I wasn't referring to food.
+<tr id="L285"><td><a href="#L285">285</a></td><td>TUCKER:  Open a channel.</td></tr>
 
-  PHLOX
-     I'm working as quickly as I can. The serum should
-     help alleviate most of your symptoms.
+<tr id="L286"><td><a href="#L286">286</a></td><td>KAGO-DARR [on viewscreen]:  Yes.</td></tr>
 
-  T'POL
-     There's a far simpler treatment.
+<tr id="L287"><td><a href="#L287">287</a></td><td>TUCKER:  Sorry to bother you, but we're looking for a Tellarite shuttle. Have you seen one?</td></tr>
 
-  PHLOX
-     I'd prefer to explore a more conventional
-     approach.
+<tr id="L288"><td><a href="#L288">288</a></td><td>KAGO-DARR [on viewscreen]:  How much did the Klingons offer you?</td></tr>
 
-  T'POL
-     You have the cure. It's unethical for you to
-     withhold it, Doctor.
+<tr id="L289"><td><a href="#L289">289</a></td><td>TUCKER:  Klingons? Look, there must be some sort of misunderstanding here. We're looking for our Captain.</td></tr>
 
-  PHLOX
-     This mating cycle of yours was artificially
-     induced. We can't be certain that a physical
-     encounter would help.
+<tr id="L290"><td><a href="#L290">290</a></td><td>KAGO-DARR [on viewscreen]:  Your Captain. He's got a price on his head. He's probably halfway to Klingon space by now.</td></tr>
 
-  T'POL
-     I'm willing to try.
+<tr id="L291"><td><a href="#L291">291</a></td><td>ANNOTATION: Ends transmission</td></tr>
 
-  PHLOX
-     Sub-commander.
+<tr id="L292"><td><a href="#L292">292</a></td><td>TUCKER:  Travis, how close are we to Klingon space?</td></tr>
 
-  T'POL
-     Don't be frightened. I won't hurt you.
+<tr id="L293"><td><a href="#L293">293</a></td><td>TRAVIS:  Less than six light years.</td></tr>
 
-  ANNOTATION
-     She rubs up against him.
+<tr id="L294"><td><a href="#L294">294</a></td><td>TUCKER:  If that Tellarite's looking to collect some kind of reward we'd better find him before he gets there. Set a course. Take us back to warp.</td></tr>
 
-  PHLOX
-     You're disturbing my serum! You obviously need to
-     be sedated again.
+<tr id="L295"><td><a href="#L295">295</a></td><td>TRAVIS:  Aye, sir.</td></tr>
 
-  T'POL
-     No more hyposprays.
+<tr><td></td><td>LOCATION--Skalaar's ship</td></tr>
+<tr id="L296"><td><a href="#L296">296</a></td><td>ANNOTATION: Docked at a space station.</td></tr>
 
-  ANNOTATION
-     The comm. chimes
+<tr id="L297"><td><a href="#L297">297</a></td><td>GAAVRIN:  What are you doing here?</td></tr>
 
-  PHLOX
-     One of us should probably answer that. It could be
-     news about the Captain. This is Phlox.
+<tr id="L298"><td><a href="#L298">298</a></td><td>SKALAAR:  I need your help.</td></tr>
 
-  TUCKER [OC]
-     Anyone hungry in there? I brought you some supper.
+<tr id="L299"><td><a href="#L299">299</a></td><td>GAAVRIN:  You shouldn't have brought him.</td></tr>
 
-  PHLOX
-     Just in the nick of time, Commander. (to T'Pol) It
-     would be best if you remained here.
+<tr id="L300"><td><a href="#L300">300</a></td><td>SKALAAR:  You think I would have come here if I had a choice? I need an antimatter injector.</td></tr>
 
+<tr id="L301"><td><a href="#L301">301</a></td><td>GAAVRIN:  And I suppose you have no way of paying for it.</td></tr>
 
-LOCATION--Isolation ward window
+<tr id="L302"><td><a href="#L302">302</a></td><td>SKALAAR:  Do you know who this is? He's the only prisoner who's ever escaped from Rura Penthe. The Klingons are offering a fortune to get him back. Tell him. (Archer stays quiet) Tell him!</td></tr>
 
-  TUCKER
-     How are you two holding up?
+<tr id="L303"><td><a href="#L303">303</a></td><td>GAAVRIN:  If I give you the injector, you have to promise never to come back here.</td></tr>
 
-  PHLOX
-     Well enough. Have you been able to locate Captain
-     Archer?
+<tr id="L304"><td><a href="#L304">304</a></td><td>SKALAAR:  Of course I'm coming back. You're going to be my first officer.</td></tr>
 
-  TUCKER
-     We're tracking another warp signature, hoping this
-     one is the real thing. Are those the ones you
-     wanted?
+<tr id="L305"><td><a href="#L305">305</a></td><td>GAAVRIN:  That was years ago. I work here now.</td></tr>
 
-  ANNOTATION
-     Phlox checks the meals and a case of something.
+<tr id="L306"><td><a href="#L306">306</a></td><td>SKALAAR:  Scrubbing plasma injectors? Is that how you want your children to see you?</td></tr>
 
-  PHLOX
-     Yes, thank you.
+<tr id="L307"><td><a href="#L307">307</a></td><td>GAAVRIN:  It's better than hunting criminals.</td></tr>
 
-  T'POL
-     Is that food?
+<tr id="L308"><td><a href="#L308">308</a></td><td>SKALAAR:  You think that I enjoy spending my time with vermin like him?</td></tr>
 
-  ANNOTATION
-     She snatches a meal.
+<tr id="L309"><td><a href="#L309">309</a></td><td>GAAVRIN:  I have work to do.</td></tr>
 
-  TUCKER
-     Yeah. I had Chef make you some
+<tr id="L310"><td><a href="#L310">310</a></td><td>SKALAAR:  Please, don't turn your back on me again. We can reclaim the Tezra.</td></tr>
 
-  ANNOTATION
-     T'Pol devours it greedily.
+<tr id="L311"><td><a href="#L311">311</a></td><td>GAAVRIN:  You won't want that ship after you see it.</td></tr>
 
-  TUCKER
-     Is she all right?
+<tr id="L312"><td><a href="#L312">312</a></td><td>SKALAAR:  Why not?</td></tr>
 
-  PHLOX
-     She developed a slight fever. Nothing to be
-     concerned about.
+<tr id="L313"><td><a href="#L313">313</a></td><td>GAAVRIN:  The Klingons cannibalised her. Every power relay, every conduit.</td></tr>
 
-  ANNOTATION
-     Phlox pushes her back into the chamber and shuts
-     the door on her.
+<tr id="L314"><td><a href="#L314">314</a></td><td>SKALAAR:  The engines?</td></tr>
 
-  REED [OC]
-     Bridge to Commander Tucker.
+<tr id="L315"><td><a href="#L315">315</a></td><td>GAAVRIN:  They're gone. I'll give you the injector, but after that I want you to leave.</td></tr>
 
-  TUCKER
-     Go ahead.
+<tr id="L316"><td><a href="#L316">316</a></td><td>ANNOTATION: Gaavrin leaves.</td></tr>
 
-  REED [OC]
-     We're approaching the coordinates.
+<tr id="L317"><td><a href="#L317">317</a></td><td>ARCHER:  What do you plan to do now?</td></tr>
 
-  TUCKER
-     On my way. (to Phlox) Call if you need anything.
+<tr id="L318"><td><a href="#L318">318</a></td><td>SKALAAR:  Get that injector and install it.</td></tr>
 
+<tr id="L319"><td><a href="#L319">319</a></td><td>ARCHER:  And then? I suppose you'll turn me over to the Klingons. I'll be disembowelled with one of those nasty looking swords of theirs. You'll collect your nine thousand darseks but it won't get you the Tezra back.</td></tr>
 
-LOCATION--Bridge
+<tr id="L320"><td><a href="#L320">320</a></td><td>SKALAAR:  What are you trying to say?</td></tr>
 
-  TUCKER
-     What have you got?
+<tr id="L321"><td><a href="#L321">321</a></td><td>ARCHER:  The Klingons took your freighter, your livelihood, damaged your relationship with your brother, and what do you get in exchange? Nine thousand darseks. Doesn't seem like a very fair trade to me.</td></tr>
 
-  REED
-     Two matching warp signatures, both in the upper
-     atmosphere. More subspace beacons. There is a ship
-     on the surface. It seems to have suffered engine
-     damage, but it's not Tellarite.
+<tr id="L322"><td><a href="#L322">322</a></td><td>SKALAAR:  What choice do I have? I told you, if I let you go they'd kill me.</td></tr>
 
-  TUCKER
-     Biosigns?
+<tr id="L323"><td><a href="#L323">323</a></td><td>ARCHER:  Maybe not. Have you ever been aboard Goroth's ship?</td></tr>
 
-  REED
-     One.
+<tr id="L324"><td><a href="#L324">324</a></td><td>SKALAAR:  Twice. Why?</td></tr>
 
-  TUCKER
-     Open a channel.
+<tr><td></td><td>LOCATION--Decon Chamber</td></tr>
+<tr id="L325"><td><a href="#L325">325</a></td><td>ANNOTATION: T'Pol is muttering in Vulcan.</td></tr>
 
-  KAGO-DARR [on viewscreen]
-     Yes.
+<tr id="L326"><td><a href="#L326">326</a></td><td>PHLOX:  I beg your pardon?</td></tr>
 
-  TUCKER
-     Sorry to bother you, but we're looking for a
-     Tellarite shuttle. Have you seen one?
+<tr id="L327"><td><a href="#L327">327</a></td><td>T'POL:  (on her knees) Let me out.</td></tr>
 
-  KAGO-DARR [on viewscreen]
-     How much did the Klingons offer you?
+<tr id="L328"><td><a href="#L328">328</a></td><td>PHLOX:  You know I can't do that.</td></tr>
 
-  TUCKER
-     Klingons? Look, there must be some sort of
-     misunderstanding here. We're looking for our
-     Captain.
+<tr id="L329"><td><a href="#L329">329</a></td><td>T'POL:  The heat. It's unbearable.</td></tr>
 
-  KAGO-DARR [on viewscreen]
-     Your Captain. He's got a price on his head. He's
-     probably halfway to Klingon space by now.
+<tr id="L330"><td><a href="#L330">330</a></td><td>PHLOX:  If I lower the temperature, the serum will start to congeal.</td></tr>
 
-  ANNOTATION
-     Ends transmission
+<tr id="L331"><td><a href="#L331">331</a></td><td>T'POL:  I don't want your serum. Open the door.</td></tr>
 
-  TUCKER
-     Travis, how close are we to Klingon space?
+<tr id="L332"><td><a href="#L332">332</a></td><td>PHLOX:  I assure you, you're going to feel much better in just a few minutes.</td></tr>
 
-  TRAVIS
-     Less than six light years.
+<tr id="L333"><td><a href="#L333">333</a></td><td>T'POL:  Open it!</td></tr>
 
-  TUCKER
-     If that Tellarite's looking to collect some kind
-     of reward we'd better find him before he gets
-     there. Set a course. Take us back to warp.
+<tr id="L334"><td><a href="#L334">334</a></td><td>PHLOX:  This will only take a moment. (she fends him off) Your biochemical imbalance is growing worse. If we don't treat it now, the damage to your limbic system could be irreversible. You said it yourself, T'Pol, it could kill you.</td></tr>
 
-  TRAVIS
-     Aye, sir.
+<tr id="L335"><td><a href="#L335">335</a></td><td>T'POL:  Stay away from me.</td></tr>
 
+<tr id="L336"><td><a href="#L336">336</a></td><td>PHLOX:  One injection, that's all I ask. Very well.</td></tr>
 
-LOCATION--Skalaar's ship
+<tr id="L337"><td><a href="#L337">337</a></td><td>ANNOTATION: He opens the door.</td></tr>
 
-  ANNOTATION
-     Docked at a space station.
+<tr id="L338"><td><a href="#L338">338</a></td><td>PHLOX:  You're free to go. Four two eight six four. That's the locking code. Denobulan medical ethics prevent me from treating patients against their will. Four two eight six four!</td></tr>
 
-  GAAVRIN
-     What are you doing here?
+<tr id="L339"><td><a href="#L339">339</a></td><td>ANNOTATION: He tries to inject her from behind as she stands at the keypad, but she knocks him out instead. The code doesn't work so she rips the panel from the wall, forces the door open by hand and dashes into the corridor. Phlox gets up.</td></tr>
 
-  SKALAAR
-     I need your help.
+<tr id="L340"><td><a href="#L340">340</a></td><td>PHLOX:  Phlox to the Bridge.</td></tr>
 
-  GAAVRIN
-     You shouldn't have brought him.
+<tr id="L341"><td><a href="#L341">341</a></td><td>TUCKER [OC]:  Tucker here.</td></tr>
 
-  SKALAAR
-     You think I would have come here if I had a
-     choice? I need an antimatter injector.
+<tr id="L342"><td><a href="#L342">342</a></td><td>PHLOX:  You may want to evacuate D deck.</td></tr>
 
-  GAAVRIN
-     And I suppose you have no way of paying for it.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L343"><td><a href="#L343">343</a></td><td>ANNOTATION: Reed and his security team are in spacesuits.</td></tr>
 
-  SKALAAR
-     Do you know who this is? He's the only prisoner
-     who's ever escaped from Rura Penthe. The Klingons
-     are offering a fortune to get him back. Tell him.
-     (Archer stays quiet) Tell him!
+<tr id="L344"><td><a href="#L344">344</a></td><td>REED:  She's still in this section. The doctor says she's irrational, so use caution.</td></tr>
 
-  GAAVRIN
-     If I give you the injector, you have to promise
-     never to come back here.
+<tr id="L345"><td><a href="#L345">345</a></td><td>SECURITY:  Yes, sir.</td></tr>
 
-  SKALAAR
-     Of course I'm coming back. You're going to be my
-     first officer.
+<tr id="L346"><td><a href="#L346">346</a></td><td>ANNOTATION: They split up to search.</td></tr>
 
-  GAAVRIN
-     That was years ago. I work here now.
+<tr id="L347"><td><a href="#L347">347</a></td><td>T'POL:  Malcolm. I need your assistance.</td></tr>
 
-  SKALAAR
-     Scrubbing plasma injectors? Is that how you want
-     your children to see you?
+<tr id="L348"><td><a href="#L348">348</a></td><td>REED:  We've been very worried about you, Sub-Commander. Let's get you back to the Doctor.</td></tr>
 
-  GAAVRIN
-     It's better than hunting criminals.
+<tr id="L349"><td><a href="#L349">349</a></td><td>T'POL:  I can't return to the doctor. He's refusing to treat me. How long has it been?</td></tr>
 
-  SKALAAR
-     You think that I enjoy spending my time with
-     vermin like him?
+<tr id="L350"><td><a href="#L350">350</a></td><td>REED:  I beg your pardon</td></tr>
 
-  GAAVRIN
-     I have work to do.
+<tr id="L351"><td><a href="#L351">351</a></td><td>ANNOTATION: She's almost trying to climb into his spacesuit with him.</td></tr>
 
-  SKALAAR
-     Please, don't turn your back on me again. We can
-     reclaim the Tezra.
+<tr id="L352"><td><a href="#L352">352</a></td><td>T'POL:  Since you've mated. I've seen the way you look at me on the Bridge.</td></tr>
 
-  GAAVRIN
-     You won't want that ship after you see it.
+<tr id="L353"><td><a href="#L353">353</a></td><td>REED:  Why don't we discuss this in Decon.</td></tr>
 
-  SKALAAR
-     Why not?
+<tr id="L354"><td><a href="#L354">354</a></td><td>T'POL:  My quarters would be more comfortable.</td></tr>
 
-  GAAVRIN
-     The Klingons cannibalised her. Every power relay,
-     every conduit.
+<tr id="L355"><td><a href="#L355">355</a></td><td>ANNOTATION: She reaches for the helmet lock and he pushes her away.</td></tr>
 
-  SKALAAR
-     The engines?
+<tr id="L356"><td><a href="#L356">356</a></td><td>REED:  Doctor Phlox was very insistent.</td></tr>
 
-  GAAVRIN
-     They're gone. I'll give you the injector, but
-     after that I want you to leave.
+<tr id="L357"><td><a href="#L357">357</a></td><td>ANNOTATION: Reed puts his hand on his phase pistol, she pushes him against the bulkhead and he falls. She runs off but gets trapped at an intersection by the three men.</td></tr>
 
-  ANNOTATION
-     Gaavrin leaves.
+<tr id="L358"><td><a href="#L358">358</a></td><td>REED:  Follow me, Sub-Commander.</td></tr>
 
-  ARCHER
-     What do you plan to do now?
+<tr id="L359"><td><a href="#L359">359</a></td><td>ANNOTATION: She rushes at him and gets stunned.</td></tr>
 
-  SKALAAR
-     Get that injector and install it.
+<tr><td></td><td>LOCATION--Skalaar's ship</td></tr>
+<tr id="L360"><td><a href="#L360">360</a></td><td>ANNOTATION: Docked with a Klingon vessel.</td></tr>
 
-  ARCHER
-     And then? I suppose you'll turn me over to the
-     Klingons. I'll be disembowelled with one of those
-     nasty looking swords of theirs. You'll collect
-     your nine thousand darseks but it won't get you
-     the Tezra back.
+<tr id="L361"><td><a href="#L361">361</a></td><td>SKALAAR:  Welcome.</td></tr>
 
-  SKALAAR
-     What are you trying to say?
+<tr id="L362"><td><a href="#L362">362</a></td><td>ANNOTATION: Skalaar gets pushed aside, and a Klingon scans Archer to check his identity.</td></tr>
 
-  ARCHER
-     The Klingons took your freighter, your livelihood,
-     damaged your relationship with your brother, and
-     what do you get in exchange? Nine thousand
-     darseks. Doesn't seem like a very fair trade to
-     me.
+<tr id="L363"><td><a href="#L363">363</a></td><td>GOROTH:  The Empire never forgets its enemies. Taka!</td></tr>
 
-  SKALAAR
-     What choice do I have? I told you, if I let you go
-     they'd kill me.
+<tr id="L364"><td><a href="#L364">364</a></td><td>SKALAAR:  What about my payment?</td></tr>
 
-  ARCHER
-     Maybe not. Have you ever been aboard Goroth's
-     ship?
+<tr id="L365"><td><a href="#L365">365</a></td><td>ANNOTATION: Goroth throws a box at him.</td></tr>
 
-  SKALAAR
-     Twice. Why?
+<tr id="L366"><td><a href="#L366">366</a></td><td>GOROTH:  Six thousand darseks.</td></tr>
 
+<tr id="L367"><td><a href="#L367">367</a></td><td>SKALAAR:  We agreed to nine.</td></tr>
 
-LOCATION--Decon Chamber
+<tr id="L368"><td><a href="#L368">368</a></td><td>GOROTH:  Did we?</td></tr>
 
-  ANNOTATION
-     T'Pol is muttering in Vulcan.
+<tr id="L369"><td><a href="#L369">369</a></td><td>ARCHER:  That's blood money, Skalaar. I hope you enjoy it.</td></tr>
 
-  PHLOX
-     I beg your pardon?
+<tr id="L370"><td><a href="#L370">370</a></td><td>ANNOTATION: They take Archer away and go to warp.</td></tr>
 
-  T'POL
-     (on her knees) Let me out.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L371"><td><a href="#L371">371</a></td><td>HOSHI:  We're being hailed, Commander. It's the Tellarite ship.</td></tr>
 
-  PHLOX
-     You know I can't do that.
+<tr id="L372"><td><a href="#L372">372</a></td><td>TUCKER:  What? Put him through. (In Goroth's brig, Archer frees himself from his handcuffs, then uses a device concealed in them to open the door. He uses the cuffs to eventually bludgeon a guard who comes running at the alarm, takes his disrupter and runs.)</td></tr>
 
-  T'POL
-     The heat. It's unbearable.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L373"><td><a href="#L373">373</a></td><td>REED:  I've got them. Bearing two two six mark seven one.</td></tr>
 
-  PHLOX
-     If I lower the temperature, the serum will start
-     to congeal.
+<tr id="L374"><td><a href="#L374">374</a></td><td>TUCKER:  Set a course. Go to Tactical Alert.</td></tr>
 
-  T'POL
-     I don't want your serum. Open the door.
+<tr><td></td><td>LOCATION--Goroth's ship - Corridor</td></tr>
+<tr id="L375"><td><a href="#L375">375</a></td><td>ANNOTATION: Archer takes out two guards and tries to get into an escape pod, but fails. He has a gun fight with more Klingons.</td></tr>
 
-  PHLOX
-     I assure you, you're going to feel much better in
-     just a few minutes.
+<tr id="L376"><td><a href="#L376">376</a></td><td>GOROTH:  Where do you think you can go, human? There isn't a planet within fifty light years.</td></tr>
 
-  T'POL
-     Open it!
+<tr id="L377"><td><a href="#L377">377</a></td><td>ANNOTATION: Archer blasts his way into an escape pod and launches it.</td></tr>
 
-  PHLOX
-     This will only take a moment. (she fends him off)
-     Your biochemical imbalance is growing worse. If we
-     don't treat it now, the damage to your limbic
-     system could be irreversible. You said it
-     yourself, T'Pol, it could kill you.
+<tr id="L378"><td><a href="#L378">378</a></td><td>GOROTH:  He won't get far. Drop out of warp.</td></tr>
 
-  T'POL
-     Stay away from me.
+<tr id="L379"><td><a href="#L379">379</a></td><td>KLINGON:  Should I charge weapons?</td></tr>
 
-  PHLOX
-     One injection, that's all I ask. Very well.
+<tr id="L380"><td><a href="#L380">380</a></td><td>GOROTH:  No. I want him alive.</td></tr>
 
-  ANNOTATION
-     He opens the door.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L381"><td><a href="#L381">381</a></td><td>TRAVIS:  I see him. Eight hundred thousand kilometres.</td></tr>
 
-  PHLOX
-     You're free to go. Four two eight six four. That's
-     the locking code. Denobulan medical ethics prevent
-     me from treating patients against their will. Four
-     two eight six four!
+<tr id="L382"><td><a href="#L382">382</a></td><td>TUCKER:  What about the Klingons?</td></tr>
 
-  ANNOTATION
-     He tries to inject her from behind as she stands
-     at the keypad, but she knocks him out instead. The
-     code doesn't work so she rips the panel from the
-     wall, forces the door open by hand and dashes into
-     the corridor. Phlox gets up.
+<tr id="L383"><td><a href="#L383">383</a></td><td>REED:  They're closing in on him.</td></tr>
 
-  PHLOX
-     Phlox to the Bridge.
+<tr id="L384"><td><a href="#L384">384</a></td><td>ANNOTATION: The Klingons lock a tractor beam onto the pod, but Enterprise's weapons fire disrupts it.</td></tr>
 
-  TUCKER [OC]
-     Tucker here.
+<tr id="L385"><td><a href="#L385">385</a></td><td>REED:  They're charging weapons.</td></tr>
 
-  PHLOX
-     You may want to evacuate D deck.
+<tr id="L386"><td><a href="#L386">386</a></td><td>ANNOTATION: Enterprise shakes.</td></tr>
 
+<tr id="L387"><td><a href="#L387">387</a></td><td>TUCKER:  Return fire. Deploy the grappler.</td></tr>
 
-LOCATION--Corridor
+<tr id="L388"><td><a href="#L388">388</a></td><td>TRAVIS:  They're not making it easy.</td></tr>
 
-  ANNOTATION
-     Reed and his security team are in spacesuits.
+<tr id="L389"><td><a href="#L389">389</a></td><td>TUCKER:  Malcolm?</td></tr>
 
-  REED
-     She's still in this section. The doctor says she's
-     irrational, so use caution.
+<tr id="L390"><td><a href="#L390">390</a></td><td>REED:  I'm doing the best I can, sir. Their weapon ports are heavily shielded.</td></tr>
 
-  SECURITY
-     Yes, sir.
+<tr id="L391"><td><a href="#L391">391</a></td><td>TRAVIS:  Got it!</td></tr>
 
-  ANNOTATION
-     They split up to search.
+<tr id="L392"><td><a href="#L392">392</a></td><td>TUCKER:  Bring him in.</td></tr>
 
-  T'POL
-     Malcolm. I need your assistance.
+<tr id="L393"><td><a href="#L393">393</a></td><td>ANNOTATION: The final phase cannon salvo does damage.</td></tr>
 
-  REED
-     We've been very worried about you, Sub-Commander.
-     Let's get you back to the Doctor.
+<tr id="L394"><td><a href="#L394">394</a></td><td>REED:  Their weapons are down.</td></tr>
 
-  T'POL
-     I can't return to the doctor. He's refusing to
-     treat me. How long has it been?
+<tr id="L395"><td><a href="#L395">395</a></td><td>TUCKER:  The pod?</td></tr>
 
-  REED
-     I beg your pardon
+<tr id="L396"><td><a href="#L396">396</a></td><td>TRAVIS:  Safe and sound, Launch bay two.</td></tr>
 
-  ANNOTATION
-     She's almost trying to climb into his spacesuit
-     with him.
+<tr id="L397"><td><a href="#L397">397</a></td><td>TUCKER:  Let's get the hell out of here.</td></tr>
 
-  T'POL
-     Since you've mated. I've seen the way you look at
-     me on the Bridge.
+<tr><td></td><td>LOCATION--Decon Chamber</td></tr>
+<tr id="L398"><td><a href="#L398">398</a></td><td>ANNOTATION: Phlox enters fully clothed, and wakes T'Pol with a hypospray</td></tr>
 
-  REED
-     Why don't we discuss this in Decon.
+<tr id="L399"><td><a href="#L399">399</a></td><td>PHLOX:  You'll be pleased to know the microbe's been eliminated from your system. The premature mating cycle has ended.</td></tr>
 
-  T'POL
-     My quarters would be more comfortable.
+<tr id="L400"><td><a href="#L400">400</a></td><td>T'POL:  Did I do anything inappropriate?</td></tr>
 
-  ANNOTATION
-     She reaches for the helmet lock and he pushes her
-     away.
+<tr id="L401"><td><a href="#L401">401</a></td><td>PHLOX:  I've had patients treat me far worse.</td></tr>
 
-  REED
-     Doctor Phlox was very insistent.
+<tr id="L402"><td><a href="#L402">402</a></td><td>T'POL:  Did we?</td></tr>
 
-  ANNOTATION
-     Reed puts his hand on his phase pistol, she pushes
-     him against the bulkhead and he falls. She runs
-     off but gets trapped at an intersection by the
-     three men.
+<tr id="L403"><td><a href="#L403">403</a></td><td>PHLOX:  Denobulan males aren't comfortable discussing such topics.</td></tr>
 
-  REED
-     Follow me, Sub-Commander.
+<tr id="L404"><td><a href="#L404">404</a></td><td>T'POL:  I'd appreciate it if you didn't mention this to anyone.</td></tr>
 
-  ANNOTATION
-     She rushes at him and gets stunned.
+<tr id="L405"><td><a href="#L405">405</a></td><td>PHLOX:  I'd never violate a patient's privacy.</td></tr>
 
+<tr id="L406"><td><a href="#L406">406</a></td><td>ANNOTATION: He helps her to her feet.</td></tr>
 
-LOCATION--Skalaar's ship
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L407"><td><a href="#L407">407</a></td><td>TUCKER:  Rough ride?</td></tr>
 
-  ANNOTATION
-     Docked with a Klingon vessel.
+<tr id="L408"><td><a href="#L408">408</a></td><td>ARCHER:  What's the status of the Klingons?</td></tr>
 
-  SKALAAR
-     Welcome.
+<tr id="L409"><td><a href="#L409">409</a></td><td>TUCKER:  We damaged their port nacelle. They're limping back to Kronos.</td></tr>
 
-  ANNOTATION
-     Skalaar gets pushed aside, and a Klingon scans
-     Archer to check his identity.
+<tr id="L410"><td><a href="#L410">410</a></td><td>ARCHER:  Where's T'Pol?</td></tr>
 
-  GOROTH
-     The Empire never forgets its enemies. Taka!
+<tr id="L411"><td><a href="#L411">411</a></td><td>TUCKER:  She's in Decon with Doctor Phlox.</td></tr>
 
-  SKALAAR
-     What about my payment?
+<tr id="L412"><td><a href="#L412">412</a></td><td>ARCHER:  What happened?</td></tr>
 
-  ANNOTATION
-     Goroth throws a box at him.
+<tr id="L413"><td><a href="#L413">413</a></td><td>REED:  It's a long story.</td></tr>
 
-  GOROTH
-     Six thousand darseks.
+<tr id="L414"><td><a href="#L414">414</a></td><td>HOSHI:  You're being hailed, Captain.</td></tr>
 
-  SKALAAR
-     We agreed to nine.
+<tr id="L415"><td><a href="#L415">415</a></td><td>SKALAAR [on viewscreen]:  I see you made it back safely.</td></tr>
 
-  GOROTH
-     Did we?
+<tr id="L416"><td><a href="#L416">416</a></td><td>ARCHER:  Do you think the Klingons know you gave me that lock pick?</td></tr>
 
-  ARCHER
-     That's blood money, Skalaar. I hope you enjoy it.
+<tr id="L417"><td><a href="#L417">417</a></td><td>SKALAAR [on viewscreen]:  I don't see why they would.</td></tr>
 
-  ANNOTATION
-     They take Archer away and go to warp.
+<tr id="L418"><td><a href="#L418">418</a></td><td>ARCHER:  What are you going to do with your reward?</td></tr>
 
+<tr id="L419"><td><a href="#L419">419</a></td><td>SKALAAR [on viewscreen]:  I'm not sure. If you know of an old freighter for sale?</td></tr>
 
-LOCATION--Bridge
+<tr id="L420"><td><a href="#L420">420</a></td><td>ARCHER:  I'll keep my eyes open.</td></tr>
 
-  HOSHI
-     We're being hailed, Commander. It's the Tellarite
-     ship.
+<tr id="L421"><td><a href="#L421">421</a></td><td>SKALAAR [on viewscreen]:  Be careful, Captain. It's likely the Klingons will double their bounty.</td></tr>
 
-  TUCKER
-     What? Put him through. (In Goroth's brig, Archer
-     frees himself from his handcuffs, then uses a
-     device concealed in them to open the door. He uses
-     the cuffs to eventually bludgeon a guard who comes
-     running at the alarm, takes his disrupter and
-     runs.)
+<tr id="L422"><td><a href="#L422">422</a></td><td>ARCHER:  I hope you won't be the one to collect it.</td></tr>
 
+<tr id="L423"><td><a href="#L423">423</a></td><td>SKALAAR [on viewscreen]:  No promises.</td></tr>
 
-LOCATION--Bridge
-
-  REED
-     I've got them. Bearing two two six mark seven one.
-
-  TUCKER
-     Set a course. Go to Tactical Alert.
-
-
-LOCATION--Goroth's ship - Corridor
-
-  ANNOTATION
-     Archer takes out two guards and tries to get into
-     an escape pod, but fails. He has a gun fight with
-     more Klingons.
-
-  GOROTH
-     Where do you think you can go, human? There isn't
-     a planet within fifty light years.
-
-  ANNOTATION
-     Archer blasts his way into an escape pod and
-     launches it.
-
-  GOROTH
-     He won't get far. Drop out of warp.
-
-  KLINGON
-     Should I charge weapons?
-
-  GOROTH
-     No. I want him alive.
-
-
-LOCATION--Bridge
-
-  TRAVIS
-     I see him. Eight hundred thousand kilometres.
-
-  TUCKER
-     What about the Klingons?
-
-  REED
-     They're closing in on him.
-
-  ANNOTATION
-     The Klingons lock a tractor beam onto the pod, but
-     Enterprise's weapons fire disrupts it.
-
-  REED
-     They're charging weapons.
-
-  ANNOTATION
-     Enterprise shakes.
-
-  TUCKER
-     Return fire. Deploy the grappler.
-
-  TRAVIS
-     They're not making it easy.
-
-  TUCKER
-     Malcolm?
-
-  REED
-     I'm doing the best I can, sir. Their weapon ports
-     are heavily shielded.
-
-  TRAVIS
-     Got it!
-
-  TUCKER
-     Bring him in.
-
-  ANNOTATION
-     The final phase cannon salvo does damage.
-
-  REED
-     Their weapons are down.
-
-  TUCKER
-     The pod?
-
-  TRAVIS
-     Safe and sound, Launch bay two.
-
-  TUCKER
-     Let's get the hell out of here.
-
-
-LOCATION--Decon Chamber
-
-  ANNOTATION
-     Phlox enters fully clothed, and wakes T'Pol with a
-     hypospray
-
-  PHLOX
-     You'll be pleased to know the microbe's been
-     eliminated from your system. The premature mating
-     cycle has ended.
-
-  T'POL
-     Did I do anything inappropriate?
-
-  PHLOX
-     I've had patients treat me far worse.
-
-  T'POL
-     Did we?
-
-  PHLOX
-     Denobulan males aren't comfortable discussing such
-     topics.
-
-  T'POL
-     I'd appreciate it if you didn't mention this to
-     anyone.
-
-  PHLOX
-     I'd never violate a patient's privacy.
-
-  ANNOTATION
-     He helps her to her feet.
-
-
-LOCATION--Bridge
-
-  TUCKER
-     Rough ride?
-
-  ARCHER
-     What's the status of the Klingons?
-
-  TUCKER
-     We damaged their port nacelle. They're limping
-     back to Kronos.
-
-  ARCHER
-     Where's T'Pol?
-
-  TUCKER
-     She's in Decon with Doctor Phlox.
-
-  ARCHER
-     What happened?
-
-  REED
-     It's a long story.
-
-  HOSHI
-     You're being hailed, Captain.
-
-  SKALAAR [on viewscreen]
-     I see you made it back safely.
-
-  ARCHER
-     Do you think the Klingons know you gave me that
-     lock pick?
-
-  SKALAAR [on viewscreen]
-     I don't see why they would.
-
-  ARCHER
-     What are you going to do with your reward?
-
-  SKALAAR [on viewscreen]
-     I'm not sure. If you know of an old freighter for
-     sale?
-
-  ARCHER
-     I'll keep my eyes open.
-
-  SKALAAR [on viewscreen]
-     Be careful, Captain. It's likely the Klingons will
-     double their bounty.
-
-  ARCHER
-     I hope you won't be the one to collect it.
-
-  SKALAAR [on viewscreen]
-     No promises.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

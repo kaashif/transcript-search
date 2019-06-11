@@ -1,1630 +1,798 @@
-Heroes and Demons
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Heroes and Demons</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>TORRES:  Containment field is active. We're ready for transport.</td></tr>
 
-LOCATION--Engineering
+<tr id="L2"><td><a href="#L2">2</a></td><td>JANEWAY:  Energise.</td></tr>
 
-  TORRES
-     Containment field is active. We're ready for
-     transport.
+<tr id="L3"><td><a href="#L3">3</a></td><td>ANNOTATION: Glowing orange gas fills a container.</td></tr>
 
-  JANEWAY
-     Energise.
+<tr id="L4"><td><a href="#L4">4</a></td><td>TORRES:  That's strange. Both containers should have been filled.</td></tr>
 
-  ANNOTATION
-     Glowing orange gas fills a container.
+<tr id="L5"><td><a href="#L5">5</a></td><td>JANEWAY:  Here's the problem. A slight breach in the annular confinement beam.</td></tr>
 
-  TORRES
-     That's strange. Both containers should have been
-     filled.
+<tr id="L6"><td><a href="#L6">6</a></td><td>TORRES:  I'm aborting transport. Okay, let's try that again. Energising.</td></tr>
 
-  JANEWAY
-     Here's the problem. A slight breach in the annular
-     confinement beam.
+<tr id="L7"><td><a href="#L7">7</a></td><td>ANNOTATION: Both containers fill this time.</td></tr>
 
-  TORRES
-     I'm aborting transport. Okay, let's try that
-     again. Energising.
+<tr id="L8"><td><a href="#L8">8</a></td><td>TORRES:  All right. I'll get a complete phase spectrum analysis on this as soon as possible.</td></tr>
 
-  ANNOTATION
-     Both containers fill this time.
+<tr id="L9"><td><a href="#L9">9</a></td><td>JANEWAY:  If this photonic matter works as well as I think, it could boost the efficiency of our power converters fifteen percent.</td></tr>
 
-  TORRES
-     All right. I'll get a complete phase spectrum
-     analysis on this as soon as possible.
+<tr id="L10"><td><a href="#L10">10</a></td><td>TORRES:  I'd say more like twenty.</td></tr>
 
-  JANEWAY
-     If this photonic matter works as well as I think,
-     it could boost the efficiency of our power
-     converters fifteen percent.
+<tr id="L11"><td><a href="#L11">11</a></td><td>JANEWAY:  How long will it take to finish the preliminary analysis?</td></tr>
 
-  TORRES
-     I'd say more like twenty.
+<tr id="L12"><td><a href="#L12">12</a></td><td>TORRES:  Um, six hours. Maybe more.</td></tr>
 
-  JANEWAY
-     How long will it take to finish the preliminary
-     analysis?
+<tr id="L13"><td><a href="#L13">13</a></td><td>JANEWAY:  I'd like to get it sooner than that. I believe Ensign Kim is off duty. Could you use his help?</td></tr>
 
-  TORRES
-     Um, six hours. Maybe more.
+<tr id="L14"><td><a href="#L14">14</a></td><td>TORRES:  Can you convince him to give up his free time?</td></tr>
 
-  JANEWAY
-     I'd like to get it sooner than that. I believe
-     Ensign Kim is off duty. Could you use his help?
+<tr id="L15"><td><a href="#L15">15</a></td><td>JANEWAY:  I think I might be able to. Janeway to Kim. That's odd. Computer, locate Ensign Kim.</td></tr>
 
-  TORRES
-     Can you convince him to give up his free time?
+<tr id="L16"><td><a href="#L16">16</a></td><td>COMPUTER:  Unable to comply. Ensign Kim is not aboard the ship.</td></tr>
 
-  JANEWAY
-     I think I might be able to. Janeway to Kim. That's
-     odd. Computer, locate Ensign Kim.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L17"><td><a href="#L17">17</a></td><td>TUVOK:  Sensor logs show no record of any unauthorised transporter activity and all shuttlecraft are accounted for. If Ensign Kim left the ship, he did not do so by conventional means.</td></tr>
 
-  COMPUTER
-     Unable to comply. Ensign Kim is not aboard the
-     ship.
+<tr id="L18"><td><a href="#L18">18</a></td><td>CHAKOTAY:  His last shift ended four hours ago, and he was scheduled for time on holodeck two when he went off duty. No one has seen him since.</td></tr>
 
+<tr id="L19"><td><a href="#L19">19</a></td><td>JANEWAY:  Scan the holodeck. What's the matter?</td></tr>
 
-LOCATION--Bridge
+<tr id="L20"><td><a href="#L20">20</a></td><td>TUVOK:  There is significant interference in the holodeck. I cannot obtain a clear scan.</td></tr>
 
-  TUVOK
-     Sensor logs show no record of any unauthorised
-     transporter activity and all shuttlecraft are
-     accounted for. If Ensign Kim left the ship, he did
-     not do so by conventional means.
+<tr id="L21"><td><a href="#L21">21</a></td><td>JANEWAY:  Is it a system malfunction?</td></tr>
 
-  CHAKOTAY
-     His last shift ended four hours ago, and he was
-     scheduled for time on holodeck two when he went
-     off duty. No one has seen him since.
+<tr id="L22"><td><a href="#L22">22</a></td><td>TUVOK:  I do not believe so.</td></tr>
 
-  JANEWAY
-     Scan the holodeck. What's the matter?
+<tr id="L23"><td><a href="#L23">23</a></td><td>JANEWAY:  Commander.</td></tr>
 
-  TUVOK
-     There is significant interference in the holodeck.
-     I cannot obtain a clear scan.
+<tr><td></td><td>LOCATION--Outside Holodeck two</td></tr>
+<tr id="L24"><td><a href="#L24">24</a></td><td>TUVOK:  The holodeck is definitely active. There appears to be a programme in progress.</td></tr>
 
-  JANEWAY
-     Is it a system malfunction?
+<tr id="L25"><td><a href="#L25">25</a></td><td>CHAKOTAY:  Can you shut it down?</td></tr>
 
-  TUVOK
-     I do not believe so.
+<tr id="L26"><td><a href="#L26">26</a></td><td>TUVOK:  Manual overrides are not functioning. I cannot terminate the programme.</td></tr>
 
-  JANEWAY
-     Commander.
+<tr id="L27"><td><a href="#L27">27</a></td><td>CHAKOTAY:  All right, let's go in.</td></tr>
 
+<tr><td></td><td>LOCATION--Holodeck - Forest</td></tr>
+<tr id="L28"><td><a href="#L28">28</a></td><td>ANNOTATION: Night time. Frogs are calling.</td></tr>
 
-LOCATION--Outside Holodeck two
+<tr id="L29"><td><a href="#L29">29</a></td><td>CHAKOTAY:  Computer, identify programme.</td></tr>
 
-  TUVOK
-     The holodeck is definitely active. There appears
-     to be a programme in progress.
+<tr id="L30"><td><a href="#L30">30</a></td><td>COMPUTER:  The programme in progress is a holonovel based on the epic Earth poem Beowulf.</td></tr>
 
-  CHAKOTAY
-     Can you shut it down?
+<tr id="L31"><td><a href="#L31">31</a></td><td>TUVOK:  Beowulf?</td></tr>
 
-  TUVOK
-     Manual overrides are not functioning. I cannot
-     terminate the programme.
+<tr id="L32"><td><a href="#L32">32</a></td><td>CHAKOTAY:  An ancient English epic, set in sixth century Denmark, if I remember correctly. It's about a hero named Beowulf who fights a creature that's terrorising a kingdom and murdering its subjects. Monsters and swordplay. That sort of thing.</td></tr>
 
-  CHAKOTAY
-     All right, let's go in.
+<tr id="L33"><td><a href="#L33">33</a></td><td>TUVOK:  I'm not detecting any life signs but there's still considerable interference.</td></tr>
 
+<tr id="L34"><td><a href="#L34">34</a></td><td>CHAKOTAY:  I can't determine the source.</td></tr>
 
-LOCATION--Holodeck - Forest
+<tr id="L35"><td><a href="#L35">35</a></td><td>ANNOTATION: A spear flies past and stick into a tree.</td></tr>
 
-  ANNOTATION
-     Night time. Frogs are calling.
+<tr id="L36"><td><a href="#L36">36</a></td><td>FREYA:  Speak as a friend or stand challenged.</td></tr>
 
-  CHAKOTAY
-     Computer, identify programme.
+<tr id="L37"><td><a href="#L37">37</a></td><td>TUVOK:  Computer, delete character.</td></tr>
 
-  COMPUTER
-     The programme in progress is a holonovel based on
-     the epic Earth poem Beowulf.
+<tr id="L38"><td><a href="#L38">38</a></td><td>CHAKOTAY:  The holodeck command systems must not be functioning either.</td></tr>
 
-  TUVOK
-     Beowulf?
+<tr id="L39"><td><a href="#L39">39</a></td><td>TUVOK:  We must also consider the possibility that the safety programmes are malfunctioning as well.</td></tr>
 
-  CHAKOTAY
-     An ancient English epic, set in sixth century
-     Denmark, if I remember correctly. It's about a
-     hero named Beowulf who fights a creature that's
-     terrorising a kingdom and murdering its subjects.
-     Monsters and swordplay. That sort of thing.
+<tr id="L40"><td><a href="#L40">40</a></td><td>FREYA:  I am Freya, shield maiden, daughter of King Hrothgar. I hold this guard post against any intruders who would bear us harm, so declare yourselves. I will hear your answer before you march any further through this land.</td></tr>
 
-  TUVOK
-     I'm not detecting any life signs but there's still
-     considerable interference.
+<tr id="L41"><td><a href="#L41">41</a></td><td>TUVOK:  We have no desire to trespass. However, we are on an urgent mission, so if you would allow us to continue, we would appreciate it.</td></tr>
 
-  CHAKOTAY
-     I can't determine the source.
+<tr id="L42"><td><a href="#L42">42</a></td><td>FREYA:  What land do you call home? Your faces tell me you are not men of the Danes. Are you kinsmen of Beowulf?</td></tr>
 
-  ANNOTATION
-     A spear flies past and stick into a tree.
+<tr id="L43"><td><a href="#L43">43</a></td><td>CHAKOTAY:  Yes. We are Beowulf's kinsmen. My name is Chakotay and this is Tuvok. Have you seen Beowulf?</td></tr>
 
-  FREYA
-     Speak as a friend or stand challenged.
+<tr id="L44"><td><a href="#L44">44</a></td><td>FREYA:  Yes. He was like no other. Hair straight and raven black. Eyes bright with fierce fire. The burning gaze of a hero.</td></tr>
 
-  TUVOK
-     Computer, delete character.
+<tr id="L45"><td><a href="#L45">45</a></td><td>TUVOK:  Grandiloquence notwithstanding, that would qualify as a description of Mister Kim. How did you know he was Beowulf?</td></tr>
 
-  CHAKOTAY
-     The holodeck command systems must not be
-     functioning either.
+<tr id="L46"><td><a href="#L46">46</a></td><td>CHAKOTAY:  This is Harry's holonovel. It'd make sense that he'd be playing the hero. She might be able to help us figure out what happened to him.</td></tr>
 
-  TUVOK
-     We must also consider the possibility that the
-     safety programmes are malfunctioning as well.
+<tr id="L47"><td><a href="#L47">47</a></td><td>TUVOK:  A reasonable assumption.</td></tr>
 
-  FREYA
-     I am Freya, shield maiden, daughter of King
-     Hrothgar. I hold this guard post against any
-     intruders who would bear us harm, so declare
-     yourselves. I will hear your answer before you
-     march any further through this land.
+<tr id="L48"><td><a href="#L48">48</a></td><td>FREYA:  Your kinsman was a truly noble warrior. It is right you should avenge his death.</td></tr>
 
-  TUVOK
-     We have no desire to trespass. However, we are on
-     an urgent mission, so if you would allow us to
-     continue, we would appreciate it.
+<tr id="L49"><td><a href="#L49">49</a></td><td>CHAKOTAY:  Yes. But first we'd like to know more about how Beowulf died.</td></tr>
 
-  FREYA
-     What land do you call home? Your faces tell me you
-     are not men of the Danes. Are you kinsmen of
-     Beowulf?
+<tr id="L50"><td><a href="#L50">50</a></td><td>FREYA:  Of course. Come. I will take you to the king.</td></tr>
 
-  CHAKOTAY
-     Yes. We are Beowulf's kinsmen. My name is Chakotay
-     and this is Tuvok. Have you seen Beowulf?
+<tr><td></td><td>LOCATION--Holodeck - Great Hall</td></tr>
+<tr id="L51"><td><a href="#L51">51</a></td><td>ANNOTATION: The evening feast is in progress.</td></tr>
 
-  FREYA
-     Yes. He was like no other. Hair straight and raven
-     black. Eyes bright with fierce fire. The burning
-     gaze of a hero.
+<tr id="L52"><td><a href="#L52">52</a></td><td>FREYA:  Hail, Lord Hrothgar! I bring new friends, Chakotay and Tuvok, kinsmen of Beowulf who come to avenge his death. Greet them well.</td></tr>
 
-  TUVOK
-     Grandiloquence notwithstanding, that would qualify
-     as a description of Mister Kim. How did you know
-     he was Beowulf?
+<tr id="L53"><td><a href="#L53">53</a></td><td>HROTHGAR:  I would bid you welcome to my hall, but the days of glad tidings are gone from this place. We grieve with you for your kinsman. We had hoped that a warrior of Beowulf 's strength and renown would be able to deliver us from our curse.</td></tr>
 
-  CHAKOTAY
-     This is Harry's holonovel. It'd make sense that
-     he'd be playing the hero. She might be able to
-     help us figure out what happened to him.
+<tr id="L54"><td><a href="#L54">54</a></td><td>ANNOTATION: Hrothgar is helped to his throne by Unferth.</td></tr>
 
-  TUVOK
-     A reasonable assumption.
+<tr id="L55"><td><a href="#L55">55</a></td><td>CHAKOTAY:  Could you tell us exactly what happened to him?</td></tr>
 
-  FREYA
-     Your kinsman was a truly noble warrior. It is
-     right you should avenge his death.
+<tr id="L56"><td><a href="#L56">56</a></td><td>UNFERTH:  He met with the same fate as did thirty of our own warriors.</td></tr>
 
-  CHAKOTAY
-     Yes. But first we'd like to know more about how
-     Beowulf died.
+<tr id="L57"><td><a href="#L57">57</a></td><td>HROTHGAR:  It's true. Grendel.</td></tr>
 
-  FREYA
-     Of course. Come. I will take you to the king.
+<tr id="L58"><td><a href="#L58">58</a></td><td>CHAKOTAY:  That's the monster who's been attacking you.</td></tr>
 
+<tr id="L59"><td><a href="#L59">59</a></td><td>HROTHGAR:  Repelled by light and laughter, the beast waits until we slumber. Then bereft of remorse, Grendel comes in murderous rage to my hall to take my people, and there is nothing anyone can do to stop it. If you are wise, you will forego your vengeance and return home. Death lives here now.</td></tr>
 
-LOCATION--Holodeck - Great Hall
+<tr id="L60"><td><a href="#L60">60</a></td><td>UNFERTH:  My lord is fatigued. It is time to retire.</td></tr>
 
-  ANNOTATION
-     The evening feast is in progress.
+<tr id="L61"><td><a href="#L61">61</a></td><td>TUVOK:  We would like more information about Beowulf. Would it be possible to examine his body?</td></tr>
 
-  FREYA
-     Hail, Lord Hrothgar! I bring new friends, Chakotay
-     and Tuvok, kinsmen of Beowulf who come to avenge
-     his death. Greet them well.
+<tr id="L62"><td><a href="#L62">62</a></td><td>FREYA:  The body of Beowulf is gone, dragged down to Grendel's foul lair, no doubt. The beast leaves no traces.</td></tr>
 
-  HROTHGAR
-     I would bid you welcome to my hall, but the days
-     of glad tidings are gone from this place. We
-     grieve with you for your kinsman. We had hoped
-     that a warrior of Beowulf 's strength and renown
-     would be able to deliver us from our curse.
+<tr id="L63"><td><a href="#L63">63</a></td><td>CHAKOTAY:  Did anyone actually see the battle?</td></tr>
 
-  ANNOTATION
-     Hrothgar is helped to his throne by Unferth.
+<tr id="L64"><td><a href="#L64">64</a></td><td>FREYA:  No. Beowulf chose to face Grendel alone.</td></tr>
 
-  CHAKOTAY
-     Could you tell us exactly what happened to him?
+<tr id="L65"><td><a href="#L65">65</a></td><td>CHAKOTAY:  Then I think we'd like to see this Grendel for ourselves.</td></tr>
 
-  UNFERTH
-     He met with the same fate as did thirty of our own
-     warriors.
+<tr id="L66"><td><a href="#L66">66</a></td><td>UNFERTH:  To what purpose? To raise false hopes in our king again, as did your kinsman? Leave us alone in our misery.</td></tr>
 
-  HROTHGAR
-     It's true. Grendel.
+<tr id="L67"><td><a href="#L67">67</a></td><td>FREYA:  Unferth, these men are our guests. You will show them the hospitality they deserve.</td></tr>
 
-  CHAKOTAY
-     That's the monster who's been attacking you.
+<tr id="L68"><td><a href="#L68">68</a></td><td>UNFERTH:  They deserve nothing! If their Beowulf was truly the champion he claimed to be, then Grendel would be dead, his head mounted on a spear! Instead, we spend yet another night in terror.</td></tr>
 
-  HROTHGAR
-     Repelled by light and laughter, the beast waits
-     until we slumber. Then bereft of remorse, Grendel
-     comes in murderous rage to my hall to take my
-     people, and there is nothing anyone can do to stop
-     it. If you are wise, you will forego your
-     vengeance and return home. Death lives here now.
+<tr id="L69"><td><a href="#L69">69</a></td><td>TUVOK:  If you would allow us to assist you, perhaps we could help alleviate your terror.</td></tr>
 
-  UNFERTH
-     My lord is fatigued. It is time to retire.
+<tr id="L70"><td><a href="#L70">70</a></td><td>UNFERTH:  Your names mean nothing to me. There are no songs of your deeds nor stories of the battles you have fought. Who are you to believe you can slay Grendel?</td></tr>
 
-  TUVOK
-     We would like more information about Beowulf.
-     Would it be possible to examine his body?
+<tr id="L71"><td><a href="#L71">71</a></td><td>TUVOK:  We have no intention of slaying anyone. We simply wish to examine the creature.</td></tr>
 
-  FREYA
-     The body of Beowulf is gone, dragged down to
-     Grendel's foul lair, no doubt. The beast leaves no
-     traces.
+<tr id="L72"><td><a href="#L72">72</a></td><td>UNFERTH:  Grendel might not wish to be examined without a fight. And if you would fight Grendel, then you will first prove your worth to me. Defend yourselves!</td></tr>
 
-  CHAKOTAY
-     Did anyone actually see the battle?
+<tr id="L73"><td><a href="#L73">73</a></td><td>ANNOTATION: Hrothgar puts his hand on Unferth's sword.</td></tr>
 
-  FREYA
-     No. Beowulf chose to face Grendel alone.
+<tr id="L74"><td><a href="#L74">74</a></td><td>HROTHGAR:  You are able warriors. You may stand sentry tonight.</td></tr>
 
-  CHAKOTAY
-     Then I think we'd like to see this Grendel for
-     ourselves.
+<tr id="L75"><td><a href="#L75">75</a></td><td>ANNOTATION: The Danes leave.</td></tr>
 
-  UNFERTH
-     To what purpose? To raise false hopes in our king
-     again, as did your kinsman? Leave us alone in our
-     misery.
+<tr id="L76"><td><a href="#L76">76</a></td><td>FREYA:  You are brave men. I hope to see you again, fate permitting.</td></tr>
 
-  FREYA
-     Unferth, these men are our guests. You will show
-     them the hospitality they deserve.
+<tr id="L77"><td><a href="#L77">77</a></td><td>ANNOTATION: Freya leaves.</td></tr>
 
-  UNFERTH
-     They deserve nothing! If their Beowulf was truly
-     the champion he claimed to be, then Grendel would
-     be dead, his head mounted on a spear! Instead, we
-     spend yet another night in terror.
+<tr id="L78"><td><a href="#L78">78</a></td><td>CHAKOTAY:  Chakotay to Janeway.</td></tr>
 
-  TUVOK
-     If you would allow us to assist you, perhaps we
-     could help alleviate your terror.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L79"><td><a href="#L79">79</a></td><td>ANNOTATION: Paris and Torres are at the rear science stations.</td></tr>
 
-  UNFERTH
-     Your names mean nothing to me. There are no songs
-     of your deeds nor stories of the battles you have
-     fought. Who are you to believe you can slay
-     Grendel?
+<tr id="L80"><td><a href="#L80">80</a></td><td>JANEWAY:  Go ahead.</td></tr>
 
-  TUVOK
-     We have no intention of slaying anyone. We simply
-     wish to examine the creature.
+<tr id="L81"><td><a href="#L81">81</a></td><td>CHAKOTAY [OC]:  Captain, we haven't found any definite signs of Harry, but we've encountered several holodeck characters who claim to know what happened to him.</td></tr>
 
-  UNFERTH
-     Grendel might not wish to be examined without a
-     fight. And if you would fight Grendel, then you
-     will first prove your worth to me. Defend
-     yourselves!
+<tr id="L82"><td><a href="#L82">82</a></td><td>TUVOK [OC]:  Mister Kim was running a holonovel based on the poem Beowulf. According to the holo characters, he attempted to battle a creature of some kind and was killed in the process.</td></tr>
 
-  ANNOTATION
-     Hrothgar puts his hand on Unferth's sword.
+<tr id="L83"><td><a href="#L83">83</a></td><td>JANEWAY:  Killed?</td></tr>
 
-  HROTHGAR
-     You are able warriors. You may stand sentry
-     tonight.
+<tr id="L84"><td><a href="#L84">84</a></td><td>TUVOK [OC]:  Since the</td></tr>
 
-  ANNOTATION
-     The Danes leave.
+<tr><td></td><td>LOCATION--Holodeck - Great Hall</td></tr>
+<tr id="L85"><td><a href="#L85">85</a></td><td>TUVOK:  Safety programs are malfunctioning, we must consider the possibility.</td></tr>
 
-  FREYA
-     You are brave men. I hope to see you again, fate
-     permitting.
+<tr id="L86"><td><a href="#L86">86</a></td><td>JANEWAY [OC]:  But you haven't found a body.</td></tr>
 
-  ANNOTATION
-     Freya leaves.
+<tr id="L87"><td><a href="#L87">87</a></td><td>CHAKOTAY:  No. If we shut down the programme, we'd know if he's here or not.</td></tr>
 
-  CHAKOTAY
-     Chakotay to Janeway.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L88"><td><a href="#L88">88</a></td><td>JANEWAY:  Run a diagnostic on the holodeck's imaging control systems. If they're not working, try to repair them. And relay your tricorder scans to the Bridge. I'd like to analyse your readings.</td></tr>
 
+<tr id="L89"><td><a href="#L89">89</a></td><td>CHAKOTAY [OC]:  Aye, Captain. Chakotay out.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Holodeck - Great Hall</td></tr>
+<tr id="L90"><td><a href="#L90">90</a></td><td>TUVOK:  Primary imaging matrix should be here behind this wooden panel. I will attempt to locate the auxiliary matrix. This ancient Earth culture seems fascinated with monsters.</td></tr>
 
-  ANNOTATION
-     Paris and Torres are at the rear science stations.
+<tr id="L91"><td><a href="#L91">91</a></td><td>CHAKOTAY:  Every culture has its demons. They embody the darkest emotions of its people. Giving them physical form in heroic literature is a way of exploring those feelings. The Vok'sha of Rakella Prime believe that hate is a beast which lives inside the stomach. Their greatest mythical hero is a man who ate stones for twenty three days to kill the beast and became a saint.</td></tr>
 
-  JANEWAY
-     Go ahead.
+<tr id="L92"><td><a href="#L92">92</a></td><td>TUVOK:  Such fables are necessary only in cultures which unduly emphasise emotional behaviour. I would point out there are no demons in Vulcan literature.</td></tr>
 
-  CHAKOTAY [OC]
-     Captain, we haven't found any definite signs of
-     Harry, but we've encountered several holodeck
-     characters who claim to know what happened to him.
+<tr id="L93"><td><a href="#L93">93</a></td><td>CHAKOTAY:  That might account for its popularity.</td></tr>
 
-  TUVOK [OC]
-     Mister Kim was running a holonovel based on the
-     poem Beowulf. According to the holo characters, he
-     attempted to battle a creature of some kind and
-     was killed in the process.
+<tr id="L94"><td><a href="#L94">94</a></td><td>JANEWAY [OC]:  Bridge to Chakotay.</td></tr>
 
-  JANEWAY
-     Killed?
+<tr id="L95"><td><a href="#L95">95</a></td><td>CHAKOTAY:  Chakotay here.</td></tr>
 
-  TUVOK [OC]
-     Since the
+<tr id="L96"><td><a href="#L96">96</a></td><td>JANEWAY [OC]:  Commander</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L97"><td><a href="#L97">97</a></td><td>JANEWAY:  We've analysed your tricorder data. A deep-level scan shows minute quantities of photonic energy.</td></tr>
 
-LOCATION--Holodeck - Great Hall
+<tr id="L98"><td><a href="#L98">98</a></td><td>CHAKOTAY [OC]:  How could it be in the holodeck?</td></tr>
 
-  TUVOK
-     Safety programs are malfunctioning, we must
-     consider the possibility.
+<tr id="L99"><td><a href="#L99">99</a></td><td>TORRES:  We think it happened when we beamed aboard the samples from the protostar. There was a breach in the annular confinement beam, and photonic energy must have leaked into the transporter system.</td></tr>
 
-  JANEWAY [OC]
-     But you haven't found a body.
+<tr id="L100"><td><a href="#L100">100</a></td><td>JANEWAY:  And from there into other ship systems as well. We've already found some in the replicators.</td></tr>
 
-  CHAKOTAY
-     No. If we shut down the programme, we'd know if
-     he's here or not.
+<tr id="L101"><td><a href="#L101">101</a></td><td>TUVOK [OC]:  That raises an uncomfortable possibility, Captain.</td></tr>
 
+<tr><td></td><td>LOCATION--Holodeck - Great Hall</td></tr>
+<tr id="L102"><td><a href="#L102">102</a></td><td>TUVOK:  If the holodeck's conversion nodes were contaminated, Ensign Kim may have inadvertently undergone the process of matter conversion.</td></tr>
 
-LOCATION--Bridge
+<tr id="L103"><td><a href="#L103">103</a></td><td>CHAKOTAY:  You're saying he might have been converted into energy?</td></tr>
 
-  JANEWAY
-     Run a diagnostic on the holodeck's imaging control
-     systems. If they're not working, try to repair
-     them. And relay your tricorder scans to the
-     Bridge. I'd like to analyse your readings.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L104"><td><a href="#L104">104</a></td><td>JANEWAY:  We have to consider it a possibility. After all, the holodeck are basically an outgrowth of transporter technology, changing energy into matter and back again every time a programme is run.</td></tr>
 
-  CHAKOTAY [OC]
-     Aye, Captain. Chakotay out.
+<tr id="L105"><td><a href="#L105">105</a></td><td>TORRES:  Except it's not supposed to convert people.</td></tr>
 
+<tr id="L106"><td><a href="#L106">106</a></td><td>CHAKOTAY [OC]:  Hold on, Captain.</td></tr>
 
-LOCATION--Holodeck - Great Hall
+<tr><td></td><td>LOCATION--Holodeck - Great Hall</td></tr>
+<tr id="L107"><td><a href="#L107">107</a></td><td>CHAKOTAY:  Something's coming.</td></tr>
 
-  TUVOK
-     Primary imaging matrix should be here behind this
-     wooden panel. I will attempt to locate the
-     auxiliary matrix. This ancient Earth culture seems
-     fascinated with monsters.
+<tr id="L108"><td><a href="#L108">108</a></td><td>TUVOK:  It is an object approximately one metre in diameter.</td></tr>
 
-  CHAKOTAY
-     Every culture has its demons. They embody the
-     darkest emotions of its people. Giving them
-     physical form in heroic literature is a way of
-     exploring those feelings. The Vok'sha of Rakella
-     Prime believe that hate is a beast which lives
-     inside the stomach. Their greatest mythical hero
-     is a man who ate stones for twenty three days to
-     kill the beast and became a saint.
+<tr id="L109"><td><a href="#L109">109</a></td><td>CHAKOTAY:  I think Grendel may be paying us a visit.</td></tr>
 
-  TUVOK
-     Such fables are necessary only in cultures which
-     unduly emphasise emotional behaviour. I would
-     point out there are no demons in Vulcan
-     literature.
+<tr id="L110"><td><a href="#L110">110</a></td><td>TUVOK:  Captain, the holo-characters told us Kim was killed by Grendel. An examination of this part of the programme might be advisable.</td></tr>
 
-  CHAKOTAY
-     That might account for its popularity.
+<tr id="L111"><td><a href="#L111">111</a></td><td>JANEWAY [OC]:  Proceed.</td></tr>
 
-  JANEWAY [OC]
-     Bridge to Chakotay.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L112"><td><a href="#L112">112</a></td><td>TORRES:  Captain, I'm picking up signs of matter energy conversion.</td></tr>
 
-  CHAKOTAY
-     Chakotay here.
+<tr id="L113"><td><a href="#L113">113</a></td><td>JANEWAY:  Emergency transport. Get them out of there now.</td></tr>
 
-  JANEWAY [OC]
-     Commander
+<tr id="L114"><td><a href="#L114">114</a></td><td>TORRES:  I can't get a lock.</td></tr>
 
+<tr id="L115"><td><a href="#L115">115</a></td><td>ANNOTATION: A bright light forces open the door to the Great Hall.</td></tr>
 
-LOCATION--Bridge
+<tr id="L116"><td><a href="#L116">116</a></td><td>JANEWAY:  Commander Chakotay, report. Mister Tuvok.</td></tr>
 
-  JANEWAY
-     We've analysed your tricorder data. A deep-level
-     scan shows minute quantities of photonic energy.
+<tr id="L117"><td><a href="#L117">117</a></td><td>TORRES:  Captain, I've lost their life signs. They're gone.</td></tr>
 
-  CHAKOTAY [OC]
-     How could it be in the holodeck?
+<tr><td></td><td>LOCATION--Briefing room</td></tr>
+<tr id="L118"><td><a href="#L118">118</a></td><td>TORRES:  This is a scan of the holodeck just before we lost contact with Chakotay and Tuvok. The readings are pretty garbled, but I'm still inclined to think there is a malfunction in the holodeck's matter conversion nodes.</td></tr>
 
-  TORRES
-     We think it happened when we beamed aboard the
-     samples from the protostar. There was a breach in
-     the annular confinement beam, and photonic energy
-     must have leaked into the transporter system.
+<tr id="L119"><td><a href="#L119">119</a></td><td>JANEWAY:  Photonic energy leaking into the subsystems could certainly damage the nodes, and it might have created a defect in the programme that occurs when Grendel shows up.</td></tr>
 
-  JANEWAY
-     And from there into other ship systems as well.
-     We've already found some in the replicators.
+<tr id="L120"><td><a href="#L120">120</a></td><td>TORRES:  A defect that dematerialised our people.</td></tr>
 
-  TUVOK [OC]
-     That raises an uncomfortable possibility, Captain.
+<tr id="L121"><td><a href="#L121">121</a></td><td>PARIS: : I'm not willing to accept the fact that Harry and the others are gone for good. Their molecular patterns might still be there. And if they are, we might be able to rematerialise them. The only thing we can do is go back into the holodeck, study this energy surge, find out what exactly happened.</td></tr>
 
+<tr id="L122"><td><a href="#L122">122</a></td><td>TORRES:  Anyone who goes back in there might wind up just like the others.</td></tr>
 
-LOCATION--Holodeck - Great Hall
+<tr id="L123"><td><a href="#L123">123</a></td><td>PARIS:  Maybe not anyone.</td></tr>
 
-  TUVOK
-     If the holodeck's conversion nodes were
-     contaminated, Ensign Kim may have inadvertently
-     undergone the process of matter conversion.
+<tr><td></td><td>LOCATION--Doctor's office</td></tr>
+<tr id="L124"><td><a href="#L124">124</a></td><td>EMH:  Me?</td></tr>
 
-  CHAKOTAY
-     You're saying he might have been converted into
-     energy?
+<tr id="L125"><td><a href="#L125">125</a></td><td>PARIS:  A hologram can't be converted into energy. It already is energy. You're the perfect choice.</td></tr>
 
+<tr id="L126"><td><a href="#L126">126</a></td><td>EMH:  How do you intend to transfer me out of Sickbay?</td></tr>
 
-LOCATION--Bridge
+<tr id="L127"><td><a href="#L127">127</a></td><td>JANEWAY:  We'll have to modify your data stream protocols and imaging systems. But the fact that you're going to the holodeck simplifies things. The projection systems are already in place there.</td></tr>
 
-  JANEWAY
-     We have to consider it a possibility. After all,
-     the holodeck are basically an outgrowth of
-     transporter technology, changing energy into
-     matter and back again every time a programme is
-     run.
+<tr id="L128"><td><a href="#L128">128</a></td><td>TORRES:  And we're going to give you complete control over your magnetic containment field. You'll be able to make yourself solid or let matter pass through you at will.</td></tr>
 
-  TORRES
-     Except it's not supposed to convert people.
+<tr id="L129"><td><a href="#L129">129</a></td><td>JANEWAY:  Nothing on the holodeck will be able to touch you unless you want it to.</td></tr>
 
-  CHAKOTAY [OC]
-     Hold on, Captain.
+<tr id="L130"><td><a href="#L130">130</a></td><td>EMH:  I see.</td></tr>
 
+<tr id="L131"><td><a href="#L131">131</a></td><td>JANEWAY:  Think of this as your first away mission, Doctor. I can understand your hesitation. But there are three lives at stake, and you have the best chance of anyone on this ship to save them. Do you understand that?</td></tr>
 
-LOCATION--Holodeck - Great Hall
+<tr id="L132"><td><a href="#L132">132</a></td><td>EMH:  Yes.</td></tr>
 
-  CHAKOTAY
-     Something's coming.
+<tr id="L133"><td><a href="#L133">133</a></td><td>JANEWAY:  Good. Your job is to find the photonic energy surge and scan it closely. We need all the data we can get. You'll have to interact with the characters in the holonovel, so make sure you're familiar with the Beowulf story. Your circuit modifications will be finished in three hours.</td></tr>
 
-  TUVOK
-     It is an object approximately one metre in
-     diameter.
+<tr id="L134"><td><a href="#L134">134</a></td><td>EMH:  Yes, Captain.</td></tr>
 
-  CHAKOTAY
-     I think Grendel may be paying us a visit.
+<tr id="L135"><td><a href="#L135">135</a></td><td>ANNOTATION: Janeway, Torres, and Paris leave.</td></tr>
 
-  TUVOK
-     Captain, the holo-characters told us Kim was
-     killed by Grendel. An examination of this part of
-     the programme might be advisable.
+<tr id="L136"><td><a href="#L136">136</a></td><td>EMH:  Computer, access full text of ancient Earth epic Beowulf including historical annotation and cultural references.</td></tr>
 
-  JANEWAY [OC]
-     Proceed.
+<tr id="L137"><td><a href="#L137">137</a></td><td>COMPUTER:  Data compilation in progress.</td></tr>
 
+<tr id="L138"><td><a href="#L138">138</a></td><td>KES:  Doctor?</td></tr>
 
-LOCATION--Bridge
+<tr id="L139"><td><a href="#L139">139</a></td><td>EMH:  Ah, Kes. Come in. I don't know how long I'll be gone, but my absence is no reason to suspend your studies. How are you doing with the protein synthesis text?</td></tr>
 
-  TORRES
-     Captain, I'm picking up signs of matter energy
-     conversion.
+<tr id="L140"><td><a href="#L140">140</a></td><td>KES:  I finished it yesterday.</td></tr>
 
-  JANEWAY
-     Emergency transport. Get them out of there now.
+<tr id="L141"><td><a href="#L141">141</a></td><td>EMH:  Good. Then you may as well start learning how to operate the base-pair sequencer. You'll find the manual in the technical database. Was there something else?</td></tr>
 
-  TORRES
-     I can't get a lock.
+<tr id="L142"><td><a href="#L142">142</a></td><td>KES:  There's something bothering you.</td></tr>
 
-  ANNOTATION
-     A bright light forces open the door to the Great
-     Hall.
+<tr id="L143"><td><a href="#L143">143</a></td><td>EMH:  Not at all. Now if you'll excuse me, I have a great deal of preparation to do.</td></tr>
 
-  JANEWAY
-     Commander Chakotay, report. Mister Tuvok.
+<tr id="L144"><td><a href="#L144">144</a></td><td>KES:  You're nervous about this mission, aren't you?</td></tr>
 
-  TORRES
-     Captain, I've lost their life signs. They're gone.
+<tr id="L145"><td><a href="#L145">145</a></td><td>EMH:  Nervous? I can perform emergency surgery without getting nervous. I can make life-or-death decisions about patients without getting nervous. What makes you think I'm nervous?</td></tr>
 
+<tr id="L146"><td><a href="#L146">146</a></td><td>KES:  Those things are familiar to you. You've been programmed to do them but, this is different, isn't it?</td></tr>
 
-LOCATION--Briefing room
+<tr id="L147"><td><a href="#L147">147</a></td><td>EMH:  I can describe every detail of every piece of equipment in this Sickbay from biobed to neurostimulator, but I've never even seen a sky or a forest, let alone Vikings and monsters. I can't afford to fail but I don't know what to expect in that holodeck.</td></tr>
 
-  TORRES
-     This is a scan of the holodeck just before we lost
-     contact with Chakotay and Tuvok. The readings are
-     pretty garbled, but I'm still inclined to think
-     there is a malfunction in the holodeck's matter
-     conversion nodes.
+<tr id="L148"><td><a href="#L148">148</a></td><td>KES:  You've been telling me that you deserve to be treated like a member of the crew. Well, here's your chance. And I can tell you that none of the crew knows exactly what to expect when they go on an away mission. Doctor, have you chosen a name for yourself yet?</td></tr>
 
-  JANEWAY
-     Photonic energy leaking into the subsystems could
-     certainly damage the nodes, and it might have
-     created a defect in the programme that occurs when
-     Grendel shows up.
+<tr id="L149"><td><a href="#L149">149</a></td><td>EMH:  I have narrowed the list to three possibilities.</td></tr>
 
-  TORRES
-     A defect that dematerialised our people.
+<tr id="L150"><td><a href="#L150">150</a></td><td>KES:  Then let me suggest you choose one before you go. It might help you feel more like a Starfleet officer.</td></tr>
 
-  PARIS
-     : I'm not willing to accept the fact that Harry
-     and the others are gone for good. Their molecular
-     patterns might still be there. And if they are, we
-     might be able to rematerialise them. The only
-     thing we can do is go back into the holodeck,
-     study this energy surge, find out what exactly
-     happened.
+<tr id="L151"><td><a href="#L151">151</a></td><td>EMH:  You may be right. I'll give it some thought. And Kes, thank you.</td></tr>
 
-  TORRES
-     Anyone who goes back in there might wind up just
-     like the others.
+<tr id="L152"><td><a href="#L152">152</a></td><td>KES:  Good luck.</td></tr>
 
-  PARIS
-     Maybe not anyone.
+<tr id="L153"><td><a href="#L153">153</a></td><td>ANNOTATION: Kes leaves. Later - </td></tr>
 
+<tr id="L154"><td><a href="#L154">154</a></td><td>PARIS: : Paris to Janeway. We're ready for the transfer, Captain.</td></tr>
 
-LOCATION--Doctor's office
+<tr id="L155"><td><a href="#L155">155</a></td><td>JANEWAY [OC]:  Good. Go ahead.</td></tr>
 
-  EMH
-     Me?
+<tr id="L156"><td><a href="#L156">156</a></td><td>PARIS:  How about you, Doctor? Are you ready?</td></tr>
 
-  PARIS
-     A hologram can't be converted into energy. It
-     already is energy. You're the perfect choice.
+<tr id="L157"><td><a href="#L157">157</a></td><td>EMH:  Of course.</td></tr>
 
-  EMH
-     How do you intend to transfer me out of Sickbay?
+<tr id="L158"><td><a href="#L158">158</a></td><td>PARIS:  I've already transported a tricorder onto the holodeck. Engaging transfer circuits now.</td></tr>
 
-  JANEWAY
-     We'll have to modify your data stream protocols
-     and imaging systems. But the fact that you're
-     going to the holodeck simplifies things. The
-     projection systems are already in place there.
+<tr><td></td><td>LOCATION--Holodeck - Forest</td></tr>
+<tr id="L159"><td><a href="#L159">159</a></td><td>ANNOTATION: Night time. The EMH picks up the tricorder then gets his first feel of tree bark.</td></tr>
 
-  TORRES
-     And we're going to give you complete control over
-     your magnetic containment field. You'll be able to
-     make yourself solid or let matter pass through you
-     at will.
+<tr id="L160"><td><a href="#L160">160</a></td><td>JANEWAY [OC]:  Is everything all right, Doctor?</td></tr>
 
-  JANEWAY
-     Nothing on the holodeck will be able to touch you
-     unless you want it to.
+<tr id="L161"><td><a href="#L161">161</a></td><td>EMH:  Yes. There were no problems with the transfer. I'm on my way.</td></tr>
 
-  EMH
-     I see.
+<tr id="L162"><td><a href="#L162">162</a></td><td>ANNOTATION: The spear thuds into the tree.</td></tr>
 
-  JANEWAY
-     Think of this as your first away mission, Doctor.
-     I can understand your hesitation. But there are
-     three lives at stake, and you have the best chance
-     of anyone on this ship to save them. Do you
-     understand that?
+<tr id="L163"><td><a href="#L163">163</a></td><td>FREYA:  Speak as a friend or stand challenged. I am</td></tr>
 
-  EMH
-     Yes.
+<tr id="L164"><td><a href="#L164">164</a></td><td>EMH:  Yes, you're Freya, the king's daughter. A female warrior known as a Shield maiden.</td></tr>
 
-  JANEWAY
-     Good. Your job is to find the photonic energy
-     surge and scan it closely. We need all the data we
-     can get. You'll have to interact with the
-     characters in the holonovel, so make sure you're
-     familiar with the Beowulf story. Your circuit
-     modifications will be finished in three hours.
+<tr id="L165"><td><a href="#L165">165</a></td><td>FREYA:  We have never met and yet you know my name? Are you a sorcerer?</td></tr>
 
-  EMH
-     Yes, Captain.
+<tr id="L166"><td><a href="#L166">166</a></td><td>EMH:  No. It's simply that your reputation precedes you. A warrior of your skill. You're quite famous where I come from.</td></tr>
 
-  ANNOTATION
-     Janeway, Torres, and Paris leave.
+<tr id="L167"><td><a href="#L167">167</a></td><td>FREYA:  I did not know that word of my deeds has carried to other lands. Tell me what you have heard.</td></tr>
 
-  EMH
-     Computer, access full text of ancient Earth epic
-     Beowulf including historical annotation and
-     cultural references.
+<tr id="L168"><td><a href="#L168">168</a></td><td>EMH:  Well, your battle with</td></tr>
 
-  COMPUTER
-     Data compilation in progress.
+<tr id="L169"><td><a href="#L169">169</a></td><td>FREYA:  Scyld, the Gar-Dane?</td></tr>
 
-  KES
-     Doctor?
+<tr id="L170"><td><a href="#L170">170</a></td><td>EMH:  It's practically legend. An incredible story.</td></tr>
 
-  EMH
-     Ah, Kes. Come in. I don't know how long I'll be
-     gone, but my absence is no reason to suspend your
-     studies. How are you doing with the protein
-     synthesis text?
+<tr id="L171"><td><a href="#L171">171</a></td><td>FREYA:  I burned his hall to the ground. There was nothing left but ashes.</td></tr>
 
-  KES
-     I finished it yesterday.
+<tr id="L172"><td><a href="#L172">172</a></td><td>EMH:  Charming.</td></tr>
 
-  EMH
-     Good. Then you may as well start learning how to
-     operate the base-pair sequencer. You'll find the
-     manual in the technical database. Was there
-     something else?
+<tr id="L173"><td><a href="#L173">173</a></td><td>FREYA:  And did you hear of my campaign against the Heatho-bards to the south? I fought them for</td></tr>
 
-  KES
-     There's something bothering you.
+<tr id="L174"><td><a href="#L174">174</a></td><td>EMH:  I'd be delighted to hear all about it but I'm on an urgent mission of my own. I'm looking for Grendel.</td></tr>
 
-  EMH
-     Not at all. Now if you'll excuse me, I have a
-     great deal of preparation to do.
+<tr id="L175"><td><a href="#L175">175</a></td><td>FREYA:  Only a warrior would seek that which others flee. What is your name?</td></tr>
 
-  KES
-     You're nervous about this mission, aren't you?
+<tr id="L176"><td><a href="#L176">176</a></td><td>EMH:  I'm glad you asked. My name is Schweitzer. Doctor Schweitzer.</td></tr>
 
-  EMH
-     Nervous? I can perform emergency surgery without
-     getting nervous. I can make life-or-death
-     decisions about patients without getting nervous.
-     What makes you think I'm nervous?
+<tr id="L177"><td><a href="#L177">177</a></td><td>FREYA:  Schweitzer. A hero's name. Come, I will take you to the king. The hall is not far from here.</td></tr>
 
-  KES
-     Those things are familiar to you. You've been
-     programmed to do them but, this is different,
-     isn't it?
+<tr id="L178"><td><a href="#L178">178</a></td><td>ANNOTATION: They walk on. Freya finds a mushroom.</td></tr>
 
-  EMH
-     I can describe every detail of every piece of
-     equipment in this Sickbay from biobed to
-     neurostimulator, but I've never even seen a sky or
-     a forest, let alone Vikings and monsters. I can't
-     afford to fail but I don't know what to expect in
-     that holodeck.
+<tr id="L179"><td><a href="#L179">179</a></td><td>FREYA:  Look, fortune is with us. Atuta, a most powerful plant.</td></tr>
 
-  KES
-     You've been telling me that you deserve to be
-     treated like a member of the crew. Well, here's
-     your chance. And I can tell you that none of the
-     crew knows exactly what to expect when they go on
-     an away mission. Doctor, have you chosen a name
-     for yourself yet?
+<tr id="L180"><td><a href="#L180">180</a></td><td>EMH:  What exactly do you intend to do with it?</td></tr>
 
-  EMH
-     I have narrowed the list to three possibilities.
+<tr id="L181"><td><a href="#L181">181</a></td><td>FREYA:  We brew the Atuta into a broth which we drink before battle. It brings on the spirit of the bear and gives us strength to swing our swords.</td></tr>
 
-  KES
-     Then let me suggest you choose one before you go.
-     It might help you feel more like a Starfleet
-     officer.
+<tr id="L182"><td><a href="#L182">182</a></td><td>EMH:  It's more likely to bring on profuse sweating, convulsions and acute delirium. This is an amonita muscaria, a fungus common to sub-arctic climates and, let me assure you, quite poisonous.</td></tr>
 
-  EMH
-     You may be right. I'll give it some thought. And
-     Kes, thank you.
+<tr id="L183"><td><a href="#L183">183</a></td><td>FREYA:  Yes, but those it does not kill it makes strong. A most hardy plant. Are you a master of herb lore?</td></tr>
 
-  KES
-     Good luck.
+<tr id="L184"><td><a href="#L184">184</a></td><td>EMH:  In a way, I suppose I am.</td></tr>
 
-  ANNOTATION
-     Kes leaves. Later -
+<tr id="L185"><td><a href="#L185">185</a></td><td>FREYA:  You are truly a man of many talents, Lord Schweitzer. Your people must value you greatly.</td></tr>
 
-  PARIS
-     : Paris to Janeway. We're ready for the transfer,
-     Captain.
+<tr id="L186"><td><a href="#L186">186</a></td><td>EMH:  You would think so.</td></tr>
 
-  JANEWAY [OC]
-     Good. Go ahead.
+<tr><td></td><td>LOCATION--Holodeck - Great Hall</td></tr>
+<tr id="L187"><td><a href="#L187">187</a></td><td>FREYA:  Hail, Lord Hrothgar! I bring a new friend, Schweitzer, who has come to destroy Grendel. Greet him well.</td></tr>
 
-  PARIS
-     How about you, Doctor? Are you ready?
+<tr id="L188"><td><a href="#L188">188</a></td><td>HROTHGAR:  I would bid you welcome to my hall, but the days of glad tidings are gone from this place.</td></tr>
 
-  EMH
-     Of course.
+<tr id="L189"><td><a href="#L189">189</a></td><td>EMH:  I'm sorry to hear that, but with your permission, sir, I'd like to stay here tonight and wait for Grendel.</td></tr>
 
-  PARIS
-     I've already transported a tricorder onto the
-     holodeck. Engaging transfer circuits now.
+<tr id="L190"><td><a href="#L190">190</a></td><td>UNFERTH:  To what purpose? To raise false hopes again, as have others before you? Leave us alone in our misery.</td></tr>
 
+<tr id="L191"><td><a href="#L191">191</a></td><td>EMH:  I'm afraid I can't do that. I have a mission.</td></tr>
 
-LOCATION--Holodeck - Forest
+<tr id="L192"><td><a href="#L192">192</a></td><td>UNFERTH:  Your name means nothing to me. There are no songs of your deeds nor stories of the battles you have fought. Who are you to believe you can slay Grendel?</td></tr>
 
-  ANNOTATION
-     Night time. The EMH picks up the tricorder then
-     gets his first feel of tree bark.
+<tr id="L193"><td><a href="#L193">193</a></td><td>EMH:  I'm simply a warrior. I'm only concerned with Grendel. I have no quarrel with you.</td></tr>
 
-  JANEWAY [OC]
-     Is everything all right, Doctor?
+<tr id="L194"><td><a href="#L194">194</a></td><td>UNFERTH:  Indeed you do. And if you will fight Grendel, then you will first prove your worth to me. Defend yourself!</td></tr>
 
-  EMH
-     Yes. There were no problems with the transfer. I'm
-     on my way.
+<tr id="L195"><td><a href="#L195">195</a></td><td>ANNOTATION: The EMH puts down his tricorder and takes the sword which Freya holds out to him.</td></tr>
 
-  ANNOTATION
-     The spear thuds into the tree.
+<tr id="L196"><td><a href="#L196">196</a></td><td>FREYA:  Fate be with you.</td></tr>
 
-  FREYA
-     Speak as a friend or stand challenged. I am
+<tr id="L197"><td><a href="#L197">197</a></td><td>ANNOTATION: It is a heavy two-handed sword. The warriors laugh. The EMH parries two blows, barely.</td></tr>
 
-  EMH
-     Yes, you're Freya, the king's daughter. A female
-     warrior known as a Shield maiden.
+<tr id="L198"><td><a href="#L198">198</a></td><td>UNFERTH:  If this is your best, then you should thank me. Grendel would destroy you with far greater ease than I.</td></tr>
 
-  FREYA
-     We have never met and yet you know my name? Are
-     you a sorcerer?
+<tr id="L199"><td><a href="#L199">199</a></td><td>EMH:  This is absurd.</td></tr>
 
-  EMH
-     No. It's simply that your reputation precedes you.
-     A warrior of your skill. You're quite famous where
-     I come from.
+<tr id="L200"><td><a href="#L200">200</a></td><td>ANNOTATION: The EMH puts the sword on a bench.</td></tr>
 
-  FREYA
-     I did not know that word of my deeds has carried
-     to other lands. Tell me what you have heard.
+<tr id="L201"><td><a href="#L201">201</a></td><td>UNFERTH:  So be it.</td></tr>
 
-  EMH
-     Well, your battle with
+<tr id="L202"><td><a href="#L202">202</a></td><td>ANNOTATION: Unferth's swing goes straight through the EMH and the sword hits the floor, hurting his wrist. Unferth falls to his knees in pain.</td></tr>
 
-  FREYA
-     Scyld, the Gar-Dane?
+<tr id="L203"><td><a href="#L203">203</a></td><td>EMH:  You might want to put some ice on that. It'll take down the swelling.</td></tr>
 
-  EMH
-     It's practically legend. An incredible story.
+<tr id="L204"><td><a href="#L204">204</a></td><td>FREYA:  Our time of deliverance is at hand. We have been given a new champion, one whom weapons cannot hurt! The one who will destroy Grendel and end our suffering! All hail the hero! All hail Schweitzer!</td></tr>
 
-  FREYA
-     I burned his hall to the ground. There was nothing
-     left but ashes.
+<tr id="L205"><td><a href="#L205">205</a></td><td>ALL:  All hail Schweitzer! Schweitzer!</td></tr>
 
-  EMH
-     Charming.
+<tr id="L206"><td><a href="#L206">206</a></td><td>ANNOTATION: Later, at table.</td></tr>
 
-  FREYA
-     And did you hear of my campaign against the
-     Heatho-bards to the south? I fought them for
+<tr id="L207"><td><a href="#L207">207</a></td><td>HROTHGAR:  Eat. Eat.</td></tr>
 
-  EMH
-     I'd be delighted to hear all about it but I'm on
-     an urgent mission of my own. I'm looking for
-     Grendel.
+<tr id="L208"><td><a href="#L208">208</a></td><td>EMH:  What is it?</td></tr>
 
-  FREYA
-     Only a warrior would seek that which others flee.
-     What is your name?
+<tr id="L209"><td><a href="#L209">209</a></td><td>HROTHGAR:  Elk. When I built this hall, the forest ran thick with them. But today, game's more scarce. Enjoy it, Lord Schweitzer. It is a great delicacy in our land.</td></tr>
 
-  EMH
-     I'm glad you asked. My name is Schweitzer. Doctor
-     Schweitzer.
+<tr id="L210"><td><a href="#L210">210</a></td><td>EMH:  It's quite good.</td></tr>
 
-  FREYA
-     Schweitzer. A hero's name. Come, I will take you
-     to the king. The hall is not far from here.
+<tr id="L211"><td><a href="#L211">211</a></td><td>HROTHGAR:  We rarely hear stories of other lands. Honour us with a tale of your home to gladden our hearts.</td></tr>
 
-  ANNOTATION
-     They walk on. Freya finds a mushroom.
+<tr id="L212"><td><a href="#L212">212</a></td><td>EMH:  I'm not much of a storyteller.</td></tr>
 
-  FREYA
-     Look, fortune is with us. Atuta, a most powerful
-     plant.
+<tr id="L213"><td><a href="#L213">213</a></td><td>HROTHGAR:  Please, indulge us.</td></tr>
 
-  EMH
-     What exactly do you intend to do with it?
+<tr id="L214"><td><a href="#L214">214</a></td><td>UNFERTH:  Yes. Tell us a tale of your prowess in battle.</td></tr>
 
-  FREYA
-     We brew the Atuta into a broth which we drink
-     before battle. It brings on the spirit of the bear
-     and gives us strength to swing our swords.
+<tr id="L215"><td><a href="#L215">215</a></td><td>EMH:  Well, there was the time I managed to stop the spread of Paronisti measles before it became epidemic. For a while, things were touch-and-go. Six people came down with it. Fortunately, I was able to isolate the endoplasmic virus and replicate it in order to form an antibody. Even then, it wasn't altogether clear I could create an effective vaccine, but I worked at it for seventy four hours straight and managed to create an inoculation that successfully protected the crew.</td></tr>
 
-  EMH
-     It's more likely to bring on profuse sweating,
-     convulsions and acute delirium. This is an amonita
-     muscaria, a fungus common to sub-arctic climates
-     and, let me assure you, quite poisonous.
+<tr id="L216"><td><a href="#L216">216</a></td><td>UNFERTH:  You'll excuse me, my lord, if I take leave of this folly.</td></tr>
 
-  FREYA
-     Yes, but those it does not kill it makes strong. A
-     most hardy plant. Are you a master of herb lore?
+<tr id="L217"><td><a href="#L217">217</a></td><td>HROTHGAR:  A truly unique tale. Come, Lord Schweitzer. Allow me to show you my home. If you are in need of anything, please do not hesitate to ask.</td></tr>
 
-  EMH
-     In a way, I suppose I am.
+<tr id="L218"><td><a href="#L218">218</a></td><td>EMH:  All I need is to find Grendel.</td></tr>
 
-  FREYA
-     You are truly a man of many talents, Lord
-     Schweitzer. Your people must value you greatly.
+<tr id="L219"><td><a href="#L219">219</a></td><td>HROTHGAR:  You're a true champion, always ready for the fight. Ah, perhaps you would like some mead to fortify yourself for the battle.</td></tr>
 
-  EMH
-     You would think so.
+<tr id="L220"><td><a href="#L220">220</a></td><td>EMH:  No, thank you. I'm fine.</td></tr>
 
+<tr id="L221"><td><a href="#L221">221</a></td><td>HROTHGAR:  Away! You're disturbing Lord Schweitzer! It was with that weapon I made my first kill. I was eleven years old.</td></tr>
 
-LOCATION--Holodeck - Great Hall
+<tr id="L222"><td><a href="#L222">222</a></td><td>EMH:  You killed someone when you were eleven?</td></tr>
 
-  FREYA
-     Hail, Lord Hrothgar! I bring a new friend,
-     Schweitzer, who has come to destroy Grendel. Greet
-     him well.
+<tr id="L223"><td><a href="#L223">223</a></td><td>HROTHGAR:  Well, it's a poor weapon, I agree, but a token of my youth. You must have similar trophies from your own childhood.</td></tr>
 
-  HROTHGAR
-     I would bid you welcome to my hall, but the days
-     of glad tidings are gone from this place.
+<tr id="L224"><td><a href="#L224">224</a></td><td>EMH:  I don't remember much about my childhood.</td></tr>
 
-  EMH
-     I'm sorry to hear that, but with your permission,
-     sir, I'd like to stay here tonight and wait for
-     Grendel.
+<tr id="L225"><td><a href="#L225">225</a></td><td>HROTHGAR:  Well, I'm certain you distinguished yourself in battle many times and did honour to your father.</td></tr>
 
-  UNFERTH
-     To what purpose? To raise false hopes again, as
-     have others before you? Leave us alone in our
-     misery.
+<tr id="L226"><td><a href="#L226">226</a></td><td>UNFERTH:  My lord! It grows late. It is time to retire.</td></tr>
 
-  EMH
-     I'm afraid I can't do that. I have a mission.
+<tr id="L227"><td><a href="#L227">227</a></td><td>HROTHGAR:  Always with you it is time to sleep. Perhaps you have forgotten that the work of a warrior is battle not rest. You would do well to learn from Lord Schweitzer. This was a beautiful hall once, before Grendel. You will make it so again. You have our thanks.</td></tr>
 
-  UNFERTH
-     Your name means nothing to me. There are no songs
-     of your deeds nor stories of the battles you have
-     fought. Who are you to believe you can slay
-     Grendel?
+<tr id="L228"><td><a href="#L228">228</a></td><td>EMH:  I appreciate your faith in me, sire.</td></tr>
 
-  EMH
-     I'm simply a warrior. I'm only concerned with
-     Grendel. I have no quarrel with you.
+<tr id="L229"><td><a href="#L229">229</a></td><td>ANNOTATION: Hrothgar leaves.</td></tr>
 
-  UNFERTH
-     Indeed you do. And if you will fight Grendel, then
-     you will first prove your worth to me. Defend
-     yourself!
+<tr id="L230"><td><a href="#L230">230</a></td><td>DANE:  Come, my lord.</td></tr>
 
-  ANNOTATION
-     The EMH puts down his tricorder and takes the
-     sword which Freya holds out to him.
+<tr id="L231"><td><a href="#L231">231</a></td><td>UNFERTH:  You may have deceived them with your tricks, but the king is old and desperate for hope, and the rest are just fools!</td></tr>
 
-  FREYA
-     Fate be with you.
+<tr id="L232"><td><a href="#L232">232</a></td><td>EMH:  You have nothing to worry about, Unferth. Once I'm done with Grendel, I'll be leaving.</td></tr>
 
-  ANNOTATION
-     It is a heavy two-handed sword. The warriors
-     laugh. The EMH parries two blows, barely.
+<tr id="L233"><td><a href="#L233">233</a></td><td>UNFERTH:  We shall see. The morning will prove if your deeds are as strong as your words.</td></tr>
 
-  UNFERTH
-     If this is your best, then you should thank me.
-     Grendel would destroy you with far greater ease
-     than I.
+<tr id="L234"><td><a href="#L234">234</a></td><td>ANNOTATION: Unferth leaves. Freya stokes the fire. She has taken off her armour.</td></tr>
 
-  EMH
-     This is absurd.
+<tr id="L235"><td><a href="#L235">235</a></td><td>FREYA:  The nights here are cold. I wanted to make certain you were comfortable.</td></tr>
 
-  ANNOTATION
-     The EMH puts the sword on a bench.
+<tr id="L236"><td><a href="#L236">236</a></td><td>EMH:  I appreciate your concern. I thought everyone had gone to sleep.</td></tr>
 
-  UNFERTH
-     So be it.
+<tr id="L237"><td><a href="#L237">237</a></td><td>FREYA:  Sleep does not come easily in this place. Not anymore. I was taught the world would end in winter. First there would be a desperate cold, followed by a demon who would devour the sun. It has been long since we felt summer, and a demon does walk these halls.</td></tr>
 
-  ANNOTATION
-     Unferth's swing goes straight through the EMH and
-     the sword hits the floor, hurting his wrist.
-     Unferth falls to his knees in pain.
+<tr id="L238"><td><a href="#L238">238</a></td><td>EMH:  Freya, your world isn't coming to an end.</td></tr>
 
-  EMH
-     You might want to put some ice on that. It'll take
-     down the swelling.
+<tr id="L239"><td><a href="#L239">239</a></td><td>FREYA:  Perhaps not. But it has changed. Every night, the monster comes. And every day, our numbers are lessened and no one will speak of it. No one speaks of the fear that he will be next. Each meal become quieter than the last, and after time, we barely speak at all. Do you know what it is to be alone among many and unable to speak your fears?</td></tr>
 
-  FREYA
-     Our time of deliverance is at hand. We have been
-     given a new champion, one whom weapons cannot
-     hurt! The one who will destroy Grendel and end our
-     suffering! All hail the hero! All hail Schweitzer!
+<tr id="L240"><td><a href="#L240">240</a></td><td>EMH:  I think I do.</td></tr>
 
-  ALL
-     All hail Schweitzer! Schweitzer!
+<tr id="L241"><td><a href="#L241">241</a></td><td>FREYA:  How do you survive?</td></tr>
 
-  ANNOTATION
-     Later, at table.
+<tr id="L242"><td><a href="#L242">242</a></td><td>EMH:  I'm still learning how. I'm sure that's not very helpful.</td></tr>
 
-  HROTHGAR
-     Eat. Eat.
+<tr id="L243"><td><a href="#L243">243</a></td><td>FREYA:  Sometimes I believe I can see the moment of my own death. It comes in battle, I think, my sword raised high. It is said that fate often spares a doomed warrior if his courage can prevail, but there have been days when I have felt my own courage falter, and then you came.</td></tr>
 
-  EMH
-     What is it?
+<tr id="L244"><td><a href="#L244">244</a></td><td>EMH:  I'm glad I could help.</td></tr>
 
-  HROTHGAR
-     Elk. When I built this hall, the forest ran thick
-     with them. But today, game's more scarce. Enjoy
-     it, Lord Schweitzer. It is a great delicacy in our
-     land.
+<tr id="L245"><td><a href="#L245">245</a></td><td>FREYA:  Perhaps I can help you. Before combat, it is most important to stay warm.</td></tr>
 
-  EMH
-     It's quite good.
+<tr id="L246"><td><a href="#L246">246</a></td><td>EMH:  Well, you've done an excellent job with the fire. I'm sure I'll</td></tr>
 
-  HROTHGAR
-     We rarely hear stories of other lands. Honour us
-     with a tale of your home to gladden our hearts.
+<tr id="L247"><td><a href="#L247">247</a></td><td>ANNOTATION: Freya kisses him.</td></tr>
 
-  EMH
-     I'm not much of a storyteller.
+<tr id="L248"><td><a href="#L248">248</a></td><td>FREYA:  Fire is not the only heat, Lord Schweitzer. You know where I sleep.</td></tr>
 
-  HROTHGAR
-     Please, indulge us.
+<tr id="L249"><td><a href="#L249">249</a></td><td>ANNOTATION: Freya leaves. A noise starts up outside.</td></tr>
 
-  UNFERTH
-     Yes. Tell us a tale of your prowess in battle.
+<tr id="L250"><td><a href="#L250">250</a></td><td>EMH:  Holodeck to Bridge.</td></tr>
 
-  EMH
-     Well, there was the time I managed to stop the
-     spread of Paronisti measles before it became
-     epidemic. For a while, things were touch-and-go.
-     Six people came down with it. Fortunately, I was
-     able to isolate the endoplasmic virus and
-     replicate it in order to form an antibody. Even
-     then, it wasn't altogether clear I could create an
-     effective vaccine, but I worked at it for seventy
-     four hours straight and managed to create an
-     inoculation that successfully protected the crew.
+<tr id="L251"><td><a href="#L251">251</a></td><td>JANEWAY [OC]:  We're monitoring you.</td></tr>
 
-  UNFERTH
-     You'll excuse me, my lord, if I take leave of this
-     folly.
+<tr id="L252"><td><a href="#L252">252</a></td><td>EMH:  Captain, I'm picking up readings of photonic energy.</td></tr>
 
-  HROTHGAR
-     A truly unique tale. Come, Lord Schweitzer. Allow
-     me to show you my home. If you are in need of
-     anything, please do not hesitate to ask.
+<tr id="L253"><td><a href="#L253">253</a></td><td>ANNOTATION: The light forces the doors open. We see its tendrils of energy.</td></tr>
 
-  EMH
-     All I need is to find Grendel.
+<tr id="L254"><td><a href="#L254">254</a></td><td>EMH:  Captain, it's right in front of me. It's some kind of photonic energy formation.</td></tr>
 
-  HROTHGAR
-     You're a true champion, always ready for the
-     fight. Ah, perhaps you would like some mead to
-     fortify yourself for the battle.
+<tr id="L255"><td><a href="#L255">255</a></td><td>ANNOTATION: A tendril wraps around his arm.</td></tr>
 
-  EMH
-     No, thank you. I'm fine.
+<tr id="L256"><td><a href="#L256">256</a></td><td>EMH:  Emergency! Get me out of here!</td></tr>
 
-  HROTHGAR
-     Away! You're disturbing Lord Schweitzer! It was
-     with that weapon I made my first kill. I was
-     eleven years old.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L257"><td><a href="#L257">257</a></td><td>EMH [OC]:  Now!</td></tr>
 
-  EMH
-     You killed someone when you were eleven?
+<tr id="L258"><td><a href="#L258">258</a></td><td>JANEWAY:  Sickbay, emergency transfer.</td></tr>
 
-  HROTHGAR
-     Well, it's a poor weapon, I agree, but a token of
-     my youth. You must have similar trophies from your
-     own childhood.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L259"><td><a href="#L259">259</a></td><td>PARIS:  I'm on it.</td></tr>
 
-  EMH
-     I don't remember much about my childhood.
+<tr id="L260"><td><a href="#L260">260</a></td><td>ANNOTATION: The EMH appears with a missing arm.</td></tr>
 
-  HROTHGAR
-     Well, I'm certain you distinguished yourself in
-     battle many times and did honour to your father.
+<tr id="L261"><td><a href="#L261">261</a></td><td>JANEWAY [OC]:  Sickbay. Report.</td></tr>
 
-  UNFERTH
-     My lord! It grows late. It is time to retire.
+<tr id="L262"><td><a href="#L262">262</a></td><td>PARIS:  Er, I have him, Captain, more or less. I think you'd better come take a look at this.</td></tr>
 
-  HROTHGAR
-     Always with you it is time to sleep. Perhaps you
-     have forgotten that the work of a warrior is
-     battle not rest. You would do well to learn from
-     Lord Schweitzer. This was a beautiful hall once,
-     before Grendel. You will make it so again. You
-     have our thanks.
+<tr id="L263"><td><a href="#L263">263</a></td><td>ANNOTATION: Later, the EMH has a replacement arm.</td></tr>
 
-  EMH
-     I appreciate your faith in me, sire.
+<tr id="L264"><td><a href="#L264">264</a></td><td>PARIS:  How does it feel?</td></tr>
 
-  ANNOTATION
-     Hrothgar leaves.
+<tr id="L265"><td><a href="#L265">265</a></td><td>EMH:  Just like the old one, actually.</td></tr>
 
-  DANE
-     Come, my lord.
+<tr id="L266"><td><a href="#L266">266</a></td><td>JANEWAY:  Apparently, contact with photonic energy disrupted your magnetic cohesion, but we're still not sure if that's what happened to the others.</td></tr>
 
-  UNFERTH
-     You may have deceived them with your tricks, but
-     the king is old and desperate for hope, and the
-     rest are just fools!
+<tr id="L267"><td><a href="#L267">267</a></td><td>TORRES:  Captain, take a look at this. The readings from the Doctor's tricorder when the energy surge made contact with him.</td></tr>
 
-  EMH
-     You have nothing to worry about, Unferth. Once I'm
-     done with Grendel, I'll be leaving.
+<tr id="L268"><td><a href="#L268">268</a></td><td>JANEWAY:  They're showing a synaptic pattern. I wouldn't expect to see something like this in photonic energy. Is this the first time those patterns have shown up like this?</td></tr>
 
-  UNFERTH
-     We shall see. The morning will prove if your deeds
-     are as strong as your words.
+<tr id="L269"><td><a href="#L269">269</a></td><td>TORRES:  Yes, but it's the first time we've had clear readings from a moment of contact. I wonder if I could produce these same patterns in the samples we have in Engineering.</td></tr>
 
-  ANNOTATION
-     Unferth leaves. Freya stokes the fire. She has
-     taken off her armour.
+<tr id="L270"><td><a href="#L270">270</a></td><td>JANEWAY:  If you can, you might be able to get more information about how photonic energy damaged the holodeck systems.</td></tr>
 
-  FREYA
-     The nights here are cold. I wanted to make certain
-     you were comfortable.
+<tr id="L271"><td><a href="#L271">271</a></td><td>TORRES:  I'm on it.</td></tr>
 
-  EMH
-     I appreciate your concern. I thought everyone had
-     gone to sleep.
+<tr id="L272"><td><a href="#L272">272</a></td><td>PARIS:  I'll give you a hand.</td></tr>
 
-  FREYA
-     Sleep does not come easily in this place. Not
-     anymore. I was taught the world would end in
-     winter. First there would be a desperate cold,
-     followed by a demon who would devour the sun. It
-     has been long since we felt summer, and a demon
-     does walk these halls.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L273"><td><a href="#L273">273</a></td><td>PARIS:  Okay, I've initiated a polarisation field. I'm introducing it into the container.</td></tr>
 
-  EMH
-     Freya, your world isn't coming to an end.
+<tr id="L274"><td><a href="#L274">274</a></td><td>TORRES:  We're getting a reaction.</td></tr>
 
-  FREYA
-     Perhaps not. But it has changed. Every night, the
-     monster comes. And every day, our numbers are
-     lessened and no one will speak of it. No one
-     speaks of the fear that he will be next. Each meal
-     become quieter than the last, and after time, we
-     barely speak at all. Do you know what it is to be
-     alone among many and unable to speak your fears?
+<tr id="L275"><td><a href="#L275">275</a></td><td>PARIS: : It's producing a synaptic pattern, all right. Highly complex.</td></tr>
 
-  EMH
-     I think I do.
+<tr id="L276"><td><a href="#L276">276</a></td><td>ANNOTATION: The orange energy leaves the container and flies off through Engineering.</td></tr>
 
-  FREYA
-     How do you survive?
+<tr id="L277"><td><a href="#L277">277</a></td><td>TORRES:  What's that?</td></tr>
 
-  EMH
-     I'm still learning how. I'm sure that's not very
-     helpful.
+<tr id="L278"><td><a href="#L278">278</a></td><td>PARIS: : Whatever it is, it's cutting through the bulkheads.</td></tr>
 
-  FREYA
-     Sometimes I believe I can see the moment of my own
-     death. It comes in battle, I think, my sword
-     raised high. It is said that fate often spares a
-     doomed warrior if his courage can prevail, but
-     there have been days when I have felt my own
-     courage falter, and then you came.
+<tr id="L279"><td><a href="#L279">279</a></td><td>TORRES:  Let's get a containment field around it.</td></tr>
 
-  EMH
-     I'm glad I could help.
+<tr id="L280"><td><a href="#L280">280</a></td><td>PARIS: : It's heading for deck fourteen, section C five.</td></tr>
 
-  FREYA
-     Perhaps I can help you. Before combat, it is most
-     important to stay warm.
+<tr id="L281"><td><a href="#L281">281</a></td><td>TORRES:  Okay, now I've got a containment field blocking it.</td></tr>
 
-  EMH
-     Well, you've done an excellent job with the fire.
-     I'm sure I'll
+<tr id="L282"><td><a href="#L282">282</a></td><td>PARIS: : Oh. It's changing direction. It's like it's avoiding the containment field.</td></tr>
 
-  ANNOTATION
-     Freya kisses him.
+<tr id="L283"><td><a href="#L283">283</a></td><td>TORRES:  Let's give it another try. Now it's blocked on three sides.</td></tr>
 
-  FREYA
-     Fire is not the only heat, Lord Schweitzer. You
-     know where I sleep.
+<tr id="L284"><td><a href="#L284">284</a></td><td>PARIS: : It's changing course, heading for the open side.</td></tr>
 
-  ANNOTATION
-     Freya leaves. A noise starts up outside.
+<tr id="L285"><td><a href="#L285">285</a></td><td>TORRES:  Are you thinking what I'm thinking?</td></tr>
 
-  EMH
-     Holodeck to Bridge.
+<tr id="L286"><td><a href="#L286">286</a></td><td>PARIS: : Those synaptic patterns could be some sort of neural net.</td></tr>
 
-  JANEWAY [OC]
-     We're monitoring you.
+<tr id="L287"><td><a href="#L287">287</a></td><td>TORRES:  We may be dealing with a life form.</td></tr>
 
-  EMH
-     Captain, I'm picking up readings of photonic
-     energy.
+<tr id="L288"><td><a href="#L288">288</a></td><td>JANEWAY [OC]:  Bridge to Engineering.</td></tr>
 
-  ANNOTATION
-     The light forces the doors open. We see its
-     tendrils of energy.
+<tr id="L289"><td><a href="#L289">289</a></td><td>TORRES:  Torres here.</td></tr>
 
-  EMH
-     Captain, it's right in front of me. It's some kind
-     of photonic energy formation.
+<tr id="L290"><td><a href="#L290">290</a></td><td>JANEWAY [OC]:  We're detecting an energy mass</td></tr>
 
-  ANNOTATION
-     A tendril wraps around his arm.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L291"><td><a href="#L291">291</a></td><td>JANEWAY:  Moving through the ship.</td></tr>
 
-  EMH
-     Emergency! Get me out of here!
+<tr id="L292"><td><a href="#L292">292</a></td><td>TORRES [OC]:  Right. It broke through the sample container. Captain, it's showing the properties of a life form.</td></tr>
 
+<tr id="L293"><td><a href="#L293">293</a></td><td>JANEWAY:  A life form?</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L294"><td><a href="#L294">294</a></td><td>TORRES:  It seems to have a neural net, and it's demonstrating signs of intelligent behaviour.</td></tr>
 
-  EMH [OC]
-     Now!
+<tr id="L295"><td><a href="#L295">295</a></td><td>PARIS: : It's cutting its way through the ship, heading for the outer hull. It'll breach in about fifteen seconds.</td></tr>
 
-  JANEWAY
-     Sickbay, emergency transfer.
+<tr id="L296"><td><a href="#L296">296</a></td><td>JANEWAY [OC]:  Are there any critical systems in its path?</td></tr>
 
+<tr id="L297"><td><a href="#L297">297</a></td><td>PARIS:  Negative.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L298"><td><a href="#L298">298</a></td><td>JANEWAY [OC]:  Then let it go.</td></tr>
 
-  PARIS
-     I'm on it.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L299"><td><a href="#L299">299</a></td><td>JANEWAY:  Be ready to seal the hull breach with a force field. I'll have a damage control team standing by for repairs. And let's track it on sensors when it gets out.</td></tr>
 
-  ANNOTATION
-     The EMH appears with a missing arm.
+<tr id="L300"><td><a href="#L300">300</a></td><td>PARIS [OC]:  Captain</td></tr>
 
-  JANEWAY [OC]
-     Sickbay. Report.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L301"><td><a href="#L301">301</a></td><td>PARIS:  It's penetrating the outer hull.</td></tr>
 
-  PARIS
-     Er, I have him, Captain, more or less. I think
-     you'd better come take a look at this.
+<tr id="L302"><td><a href="#L302">302</a></td><td>ANNOTATION: Whumph.</td></tr>
 
-  ANNOTATION
-     Later, the EMH has a replacement arm.
+<tr id="L303"><td><a href="#L303">303</a></td><td>TORRES:  Force field is in place.</td></tr>
 
-  PARIS
-     How does it feel?
+<tr id="L304"><td><a href="#L304">304</a></td><td>PARIS:  I'm showing the energy form one hundred metres off our port side.</td></tr>
 
-  EMH
-     Just like the old one, actually.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L305"><td><a href="#L305">305</a></td><td>JANEWAY:  Let's get it on screen.</td></tr>
 
-  JANEWAY
-     Apparently, contact with photonic energy disrupted
-     your magnetic cohesion, but we're still not sure
-     if that's what happened to the others.
+<tr id="L306"><td><a href="#L306">306</a></td><td>ANNOTATION: A bright light appears and takes in the small one.</td></tr>
 
-  TORRES
-     Captain, take a look at this. The readings from
-     the Doctor's tricorder when the energy surge made
-     contact with him.
+<tr id="L307"><td><a href="#L307">307</a></td><td>JANEWAY:  What was that?</td></tr>
 
-  JANEWAY
-     They're showing a synaptic pattern. I wouldn't
-     expect to see something like this in photonic
-     energy. Is this the first time those patterns have
-     shown up like this?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L308"><td><a href="#L308">308</a></td><td>JANEWAY:  It appears to be some kind of photonic lattice.</td></tr>
 
-  TORRES
-     Yes, but it's the first time we've had clear
-     readings from a moment of contact. I wonder if I
-     could produce these same patterns in the samples
-     we have in Engineering.
+<tr id="L309"><td><a href="#L309">309</a></td><td>TORRES:  And it seems pretty clear that the energy form was trying to get back to it as though it's a shelter of some kind.</td></tr>
 
-  JANEWAY
-     If you can, you might be able to get more
-     information about how photonic energy damaged the
-     holodeck systems.
+<tr id="L310"><td><a href="#L310">310</a></td><td>JANEWAY:  Or maybe a transportation device. Their equivalent of a ship. At any rate, we had sensor contact for a few seconds, and we picked up three distinct bio-electrical patterns inside it.</td></tr>
 
-  TORRES
-     I'm on it.
+<tr id="L311"><td><a href="#L311">311</a></td><td>EMH:  Bio-electrical? What are you suggesting, Captain?</td></tr>
 
-  PARIS
-     I'll give you a hand.
+<tr id="L312"><td><a href="#L312">312</a></td><td>JANEWAY:  We have three missing crewmen. Our best guess has been that they were somehow converted into energy while they were on the holodeck. We find no sign of them on this ship. Then we pick up three discrete patterns in that lattice. Three patterns that don't match anything else in that lattice, and which have biological components. I don't think it's a stretch to hypothesise that those are our crew members, converted into a kind of photonic energy.</td></tr>
 
+<tr id="L313"><td><a href="#L313">313</a></td><td>TORRES:  But what are they doing over there? How did they get there?</td></tr>
 
-LOCATION--Engineering
+<tr id="L314"><td><a href="#L314">314</a></td><td>JANEWAY:  We have good evidence now that there are photonic beings that live in that protostar. Life forms that have intelligence. We didn't know that when we beamed those energy samples on board. We had no idea that what we were doing, in essence, was capturing those life forms. We locked them in a containment field and began to experiment on them. If my people were taken like that, I know what my response would be. I would do whatever was necessary to get them back.</td></tr>
 
-  PARIS
-     Okay, I've initiated a polarisation field. I'm
-     introducing it into the container.
+<tr id="L315"><td><a href="#L315">315</a></td><td>EMH:  Then you think they have simply retaliated against us?</td></tr>
 
-  TORRES
-     We're getting a reaction.
+<tr id="L316"><td><a href="#L316">316</a></td><td>JANEWAY:  Yes. These beings can manifest themselves on the holodeck in the matrix of a holo-character. That's how they were able to take our crew members hostage.</td></tr>
 
-  PARIS
-     : It's producing a synaptic pattern, all right.
-     Highly complex.
+<tr id="L317"><td><a href="#L317">317</a></td><td>EMH:  Captain, if you're right about this, then we should return the remaining life form.</td></tr>
 
-  ANNOTATION
-     The orange energy leaves the container and flies
-     off through Engineering.
+<tr id="L318"><td><a href="#L318">318</a></td><td>JANEWAY:  A gesture, to show we mean well. It's certainly worth a try.</td></tr>
 
-  TORRES
-     What's that?
+<tr id="L319"><td><a href="#L319">319</a></td><td>EMH:  If I took the life form onto the holodeck and released it to Grendel, maybe they'll understand and release our people.</td></tr>
 
-  PARIS
-     : Whatever it is, it's cutting through the
-     bulkheads.
+<tr id="L320"><td><a href="#L320">320</a></td><td>JANEWAY:  Ordinarily, officers go through intensive training before they're put into a first contact situation but you're the only one who can do this safely.</td></tr>
 
-  TORRES
-     Let's get a containment field around it.
+<tr id="L321"><td><a href="#L321">321</a></td><td>EMH:  I'd like to finish what I started, Captain. I can do this.</td></tr>
 
-  PARIS
-     : It's heading for deck fourteen, section C five.
+<tr id="L322"><td><a href="#L322">322</a></td><td>JANEWAY:  I agree. Make arrangements to transfer the life form to a container so the Doctor can carry it. But remember, if you're holding the container, you'll have to stay in solid form.</td></tr>
 
-  TORRES
-     Okay, now I've got a containment field blocking
-     it.
+<tr id="L323"><td><a href="#L323">323</a></td><td>EMH:  I understand.</td></tr>
 
-  PARIS
-     : Oh. It's changing direction. It's like it's
-     avoiding the containment field.
+<tr><td></td><td>LOCATION--Holodeck - Forest</td></tr>
+<tr id="L324"><td><a href="#L324">324</a></td><td>EMH:  Freya? Freya!</td></tr>
 
-  TORRES
-     Let's give it another try. Now it's blocked on
-     three sides.
+<tr id="L325"><td><a href="#L325">325</a></td><td>FREYA:  Lord Schweitzer! We thought that Grendel had taken you.</td></tr>
 
-  PARIS
-     : It's changing course, heading for the open side.
+<tr id="L326"><td><a href="#L326">326</a></td><td>EMH:  Not entirely.</td></tr>
 
-  TORRES
-     Are you thinking what I'm thinking?
+<tr id="L327"><td><a href="#L327">327</a></td><td>FREYA:  How did you survive?</td></tr>
 
-  PARIS
-     : Those synaptic patterns could be some sort of
-     neural net.
+<tr id="L328"><td><a href="#L328">328</a></td><td>EMH:  That would be difficult to explain. But, that's not important right now. This is a talisman to destroy Grendel. I</td></tr>
 
-  TORRES
-     We may be dealing with a life form.
+<tr id="L329"><td><a href="#L329">329</a></td><td>UNFERTH:  You lie! No man could survive an encounter with Grendel unless he were in league with the beast. You have brought that talisman to destroy us all!</td></tr>
 
-  JANEWAY [OC]
-     Bridge to Engineering.
+<tr id="L330"><td><a href="#L330">330</a></td><td>FREYA:  That is not true! He has returned to help us.</td></tr>
 
-  TORRES
-     Torres here.
+<tr id="L331"><td><a href="#L331">331</a></td><td>UNFERTH:  No! You speak his lies now. He has bewitched you.</td></tr>
 
-  JANEWAY [OC]
-     We're detecting an energy mass
+<tr id="L332"><td><a href="#L332">332</a></td><td>EMH:  Unferth, I need to get this talisman to the Hall.</td></tr>
 
+<tr id="L333"><td><a href="#L333">333</a></td><td>UNFERTH:  Then that gives me reason enough to make sure it never gets there.</td></tr>
 
-LOCATION--Bridge
+<tr id="L334"><td><a href="#L334">334</a></td><td>ANNOTATION: Unferth knocks the EMH down. Freya blocks his sword swing.</td></tr>
 
-  JANEWAY
-     Moving through the ship.
+<tr id="L335"><td><a href="#L335">335</a></td><td>EMH:  No. Please, you don't know what you're doing.</td></tr>
 
-  TORRES [OC]
-     Right. It broke through the sample container.
-     Captain, it's showing the properties of a life
-     form.
+<tr id="L336"><td><a href="#L336">336</a></td><td>ANNOTATION: After a few blows, Unferth knocks Freya down.</td></tr>
 
-  JANEWAY
-     A life form?
+<tr id="L337"><td><a href="#L337">337</a></td><td>UNFERTH:  Prepare to die, demon.</td></tr>
 
+<tr id="L338"><td><a href="#L338">338</a></td><td>ANNOTATION: Unferth swings, and Freya gets in front of the EMH. Unferth takes the container and leaves.</td></tr>
 
-LOCATION--Engineering
+<tr id="L339"><td><a href="#L339">339</a></td><td>EMH:  Freya.</td></tr>
 
-  TORRES
-     It seems to have a neural net, and it's
-     demonstrating signs of intelligent behaviour.
+<tr id="L340"><td><a href="#L340">340</a></td><td>FREYA:  My lord, my time has come.</td></tr>
 
-  PARIS
-     : It's cutting its way through the ship, heading
-     for the outer hull. It'll breach in about fifteen
-     seconds.
+<tr id="L341"><td><a href="#L341">341</a></td><td>EMH:  Freya, I'm sorry. There's nothing I can do.</td></tr>
 
-  JANEWAY [OC]
-     Are there any critical systems in its path?
+<tr id="L342"><td><a href="#L342">342</a></td><td>FREYA:  It is a good death. Take my sword. Stop Unferth, and Grendel.</td></tr>
 
-  PARIS
-     Negative.
+<tr id="L343"><td><a href="#L343">343</a></td><td>EMH:  I won't forget you.</td></tr>
 
-  JANEWAY [OC]
-     Then let it go.
+<tr id="L344"><td><a href="#L344">344</a></td><td>FREYA:  Then I die happily with your name on my lips. Farewell, Schweitzer.</td></tr>
 
+<tr><td></td><td>LOCATION--Holodeck - Great Hall</td></tr>
+<tr id="L345"><td><a href="#L345">345</a></td><td>UNFERTH:  Here, sire.</td></tr>
 
-LOCATION--Bridge
+<tr id="L346"><td><a href="#L346">346</a></td><td>ANNOTATION: Unferth gives Hrothgar the glowing container. The EMH enters.</td></tr>
 
-  JANEWAY
-     Be ready to seal the hull breach with a force
-     field. I'll have a damage control team standing by
-     for repairs. And let's track it on sensors when it
-     gets out.
+<tr id="L347"><td><a href="#L347">347</a></td><td>EMH:  My lord, you know me as a true warrior. You know I am the one hope you have to rid your kingdom of Grendel. That talisman will aid me in my conquest. I must have it.</td></tr>
 
-  PARIS [OC]
-     Captain
+<tr id="L348"><td><a href="#L348">348</a></td><td>UNFERTH:  Do not listen to him. He has already killed Freya.</td></tr>
 
+<tr id="L349"><td><a href="#L349">349</a></td><td>ANNOTATION: The EMH lights a brand from the fire and approaches Unferth with it. Unferth backs away against a table, and the EMH puts Freya's sword to his throat.</td></tr>
 
-LOCATION--Engineering
+<tr id="L350"><td><a href="#L350">350</a></td><td>UNFERTH:  Stop him, my Lord! He is a madman!</td></tr>
 
-  PARIS
-     It's penetrating the outer hull.
+<tr id="L351"><td><a href="#L351">351</a></td><td>EMH:  The only reason you won't die is that I've taken an oath to do no harm.</td></tr>
 
-  ANNOTATION
-     Whumph.
+<tr id="L352"><td><a href="#L352">352</a></td><td>ANNOTATION: Hrothgar gives the EMH the container.</td></tr>
 
-  TORRES
-     Force field is in place.
+<tr id="L353"><td><a href="#L353">353</a></td><td>EMH:  Grendel, I'm ready for you.</td></tr>
 
-  PARIS
-     I'm showing the energy form one hundred metres off
-     our port side.
+<tr id="L354"><td><a href="#L354">354</a></td><td>SOMEONE: {The doors burst open.)</td></tr>
 
+<tr id="L355"><td><a href="#L355">355</a></td><td>EMH:  I don't know if you can understand me, but watch, I'm setting this one free.</td></tr>
 
-LOCATION--Bridge
+<tr id="L356"><td><a href="#L356">356</a></td><td>ANNOTATION: The little light flies to the big light.</td></tr>
 
-  JANEWAY
-     Let's get it on screen.
+<tr id="L357"><td><a href="#L357">357</a></td><td>EMH:  There's no need for any more of this. Please, we ask you to return our crew.</td></tr>
 
-  ANNOTATION
-     A bright light appears and takes in the small one.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L358"><td><a href="#L358">358</a></td><td>PARIS:  Captain, the photonic lattice has reappeared.</td></tr>
 
-  JANEWAY
-     What was that?
+<tr id="L359"><td><a href="#L359">359</a></td><td>JANEWAY:  Scan it. All sensors.</td></tr>
 
+<tr id="L360"><td><a href="#L360">360</a></td><td>TORRES:  I'm reading a massive particle surge on our holodeck.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L361"><td><a href="#L361">361</a></td><td>PARIS:  The lattice is gone again.</td></tr>
 
-  JANEWAY
-     It appears to be some kind of photonic lattice.
+<tr id="L362"><td><a href="#L362">362</a></td><td>EMH [OC]:  Holodeck to Bridge.</td></tr>
 
-  TORRES
-     And it seems pretty clear that the energy form was
-     trying to get back to it as though it's a shelter
-     of some kind.
+<tr id="L363"><td><a href="#L363">363</a></td><td>JANEWAY:  Go ahead, Doctor.</td></tr>
 
-  JANEWAY
-     Or maybe a transportation device. Their equivalent
-     of a ship. At any rate, we had sensor contact for
-     a few seconds, and we picked up three distinct
-     bio-electrical patterns inside it.
+<tr><td></td><td>LOCATION--Holodeck - Great Hall</td></tr>
+<tr id="L364"><td><a href="#L364">364</a></td><td>JANEWAY [OC]:  What is it?</td></tr>
 
-  EMH
-     Bio-electrical? What are you suggesting, Captain?
+<tr id="L365"><td><a href="#L365">365</a></td><td>EMH:  We have them back, Captain. All three of them.</td></tr>
 
-  JANEWAY
-     We have three missing crewmen. Our best guess has
-     been that they were somehow converted into energy
-     while they were on the holodeck. We find no sign
-     of them on this ship. Then we pick up three
-     discrete patterns in that lattice. Three patterns
-     that don't match anything else in that lattice,
-     and which have biological components. I don't
-     think it's a stretch to hypothesise that those are
-     our crew members, converted into a kind of
-     photonic energy.
+<tr id="L366"><td><a href="#L366">366</a></td><td>JANEWAY [OC]:  Good work, Doctor.</td></tr>
 
-  TORRES
-     But what are they doing over there? How did they
-     get there?
+<tr id="L367"><td><a href="#L367">367</a></td><td>KIM:  Yeah, good work. Would you mind telling me where I was?</td></tr>
 
-  JANEWAY
-     We have good evidence now that there are photonic
-     beings that live in that protostar. Life forms
-     that have intelligence. We didn't know that when
-     we beamed those energy samples on board. We had no
-     idea that what we were doing, in essence, was
-     capturing those life forms. We locked them in a
-     containment field and began to experiment on them.
-     If my people were taken like that, I know what my
-     response would be. I would do whatever was
-     necessary to get them back.
+<tr id="L368"><td><a href="#L368">368</a></td><td>SOMEONE: Captain's log, stardate 48710.5. Since the return of our missing crewmen, we've been unable to locate any further traces of the photonic aliens.</td></tr>
 
-  EMH
-     Then you think they have simply retaliated against
-     us?
+<tr><td></td><td>LOCATION--Doctor's office</td></tr>
+<tr id="L369"><td><a href="#L369">369</a></td><td>EMH:  I don't know if the being understood language or just my behaviour. It would have been interesting to pursue the relationship further.</td></tr>
 
-  JANEWAY
-     Yes. These beings can manifest themselves on the
-     holodeck in the matrix of a holo-character. That's
-     how they were able to take our crew members
-     hostage.
+<tr id="L370"><td><a href="#L370">370</a></td><td>JANEWAY:  It's one of the most exciting aspects of space exploration, meeting new species, establishing communication, sharing differences and similarities.</td></tr>
 
-  EMH
-     Captain, if you're right about this, then we
-     should return the remaining life form.
+<tr id="L371"><td><a href="#L371">371</a></td><td>EMH:  I'm sorry none of that happened this time.</td></tr>
 
-  JANEWAY
-     A gesture, to show we mean well. It's certainly
-     worth a try.
+<tr id="L372"><td><a href="#L372">372</a></td><td>JANEWAY:  But it did. It just didn't happen in very predictable ways. But if you think about it, we entered into conflict, communicated, and eventually established a peace treaty with them. I'm placing a special commendation in the logs for exemplary performance by the Chief Medical Officer during his first away mission.</td></tr>
 
-  EMH
-     If I took the life form onto the holodeck and
-     released it to Grendel, maybe they'll understand
-     and release our people.
+<tr id="L373"><td><a href="#L373">373</a></td><td>EMH:  Thank you.</td></tr>
 
-  JANEWAY
-     Ordinarily, officers go through intensive training
-     before they're put into a first contact situation
-     but you're the only one who can do this safely.
+<tr id="L374"><td><a href="#L374">374</a></td><td>JANEWAY:  I'd like to cite you by name. Kes tells me you've chosen one. Is that true?</td></tr>
 
-  EMH
-     I'd like to finish what I started, Captain. I can
-     do this.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L375"><td><a href="#L375">375</a></td><td>EMH:  I had, but I'm not sure I want to keep it. The last time I heard that name spoken was a painful one. I don't think I want to be reminded.</td></tr>
 
-  JANEWAY
-     I agree. Make arrangements to transfer the life
-     form to a container so the Doctor can carry it.
-     But remember, if you're holding the container,
-     you'll have to stay in solid form.
+<tr id="L376"><td><a href="#L376">376</a></td><td>JANEWAY:  Sounds like you had quite an adventure on that holodeck, Doctor.</td></tr>
 
-  EMH
-     I understand.
+<tr id="L377"><td><a href="#L377">377</a></td><td>EMH:  Yes, I would say so.</td></tr>
 
+<tr id="L378"><td><a href="#L378">378</a></td><td>JANEWAY:  Well, something tells me you haven't had your last one.</td></tr>
 
-LOCATION--Holodeck - Forest
+<tr id="L379"><td><a href="#L379">379</a></td><td>ANNOTATION: Janeway leaves.</td></tr>
 
-  EMH
-     Freya? Freya!
+<tr id="L380"><td><a href="#L380">380</a></td><td>EMH:  Something tells me the same thing.</td></tr>
 
-  FREYA
-     Lord Schweitzer! We thought that Grendel had taken
-     you.
-
-  EMH
-     Not entirely.
-
-  FREYA
-     How did you survive?
-
-  EMH
-     That would be difficult to explain. But, that's
-     not important right now. This is a talisman to
-     destroy Grendel. I
-
-  UNFERTH
-     You lie! No man could survive an encounter with
-     Grendel unless he were in league with the beast.
-     You have brought that talisman to destroy us all!
-
-  FREYA
-     That is not true! He has returned to help us.
-
-  UNFERTH
-     No! You speak his lies now. He has bewitched you.
-
-  EMH
-     Unferth, I need to get this talisman to the Hall.
-
-  UNFERTH
-     Then that gives me reason enough to make sure it
-     never gets there.
-
-  ANNOTATION
-     Unferth knocks the EMH down. Freya blocks his
-     sword swing.
-
-  EMH
-     No. Please, you don't know what you're doing.
-
-  ANNOTATION
-     After a few blows, Unferth knocks Freya down.
-
-  UNFERTH
-     Prepare to die, demon.
-
-  ANNOTATION
-     Unferth swings, and Freya gets in front of the
-     EMH. Unferth takes the container and leaves.
-
-  EMH
-     Freya.
-
-  FREYA
-     My lord, my time has come.
-
-  EMH
-     Freya, I'm sorry. There's nothing I can do.
-
-  FREYA
-     It is a good death. Take my sword. Stop Unferth,
-     and Grendel.
-
-  EMH
-     I won't forget you.
-
-  FREYA
-     Then I die happily with your name on my lips.
-     Farewell, Schweitzer.
-
-
-LOCATION--Holodeck - Great Hall
-
-  UNFERTH
-     Here, sire.
-
-  ANNOTATION
-     Unferth gives Hrothgar the glowing container. The
-     EMH enters.
-
-  EMH
-     My lord, you know me as a true warrior. You know I
-     am the one hope you have to rid your kingdom of
-     Grendel. That talisman will aid me in my conquest.
-     I must have it.
-
-  UNFERTH
-     Do not listen to him. He has already killed Freya.
-
-  ANNOTATION
-     The EMH lights a brand from the fire and
-     approaches Unferth with it. Unferth backs away
-     against a table, and the EMH puts Freya's sword to
-     his throat.
-
-  UNFERTH
-     Stop him, my Lord! He is a madman!
-
-  EMH
-     The only reason you won't die is that I've taken
-     an oath to do no harm.
-
-  ANNOTATION
-     Hrothgar gives the EMH the container.
-
-  EMH
-     Grendel, I'm ready for you.
-
-  SOMEONE
-     {The doors burst open.)
-
-  EMH
-     I don't know if you can understand me, but watch,
-     I'm setting this one free.
-
-  ANNOTATION
-     The little light flies to the big light.
-
-  EMH
-     There's no need for any more of this. Please, we
-     ask you to return our crew.
-
-
-LOCATION--Bridge
-
-  PARIS
-     Captain, the photonic lattice has reappeared.
-
-  JANEWAY
-     Scan it. All sensors.
-
-  TORRES
-     I'm reading a massive particle surge on our
-     holodeck.
-
-  PARIS
-     The lattice is gone again.
-
-  EMH [OC]
-     Holodeck to Bridge.
-
-  JANEWAY
-     Go ahead, Doctor.
-
-
-LOCATION--Holodeck - Great Hall
-
-  JANEWAY [OC]
-     What is it?
-
-  EMH
-     We have them back, Captain. All three of them.
-
-  JANEWAY [OC]
-     Good work, Doctor.
-
-  KIM
-     Yeah, good work. Would you mind telling me where I
-     was?
-
-  SOMEONE
-     Captain's log, stardate 48710.5. Since the return
-     of our missing crewmen, we've been unable to
-     locate any further traces of the photonic aliens.
-
-
-LOCATION--Doctor's office
-
-  EMH
-     I don't know if the being understood language or
-     just my behaviour. It would have been interesting
-     to pursue the relationship further.
-
-  JANEWAY
-     It's one of the most exciting aspects of space
-     exploration, meeting new species, establishing
-     communication, sharing differences and
-     similarities.
-
-  EMH
-     I'm sorry none of that happened this time.
-
-  JANEWAY
-     But it did. It just didn't happen in very
-     predictable ways. But if you think about it, we
-     entered into conflict, communicated, and
-     eventually established a peace treaty with them.
-     I'm placing a special commendation in the logs for
-     exemplary performance by the Chief Medical Officer
-     during his first away mission.
-
-  EMH
-     Thank you.
-
-  JANEWAY
-     I'd like to cite you by name. Kes tells me you've
-     chosen one. Is that true?
-
-
-LOCATION--Sickbay
-
-  EMH
-     I had, but I'm not sure I want to keep it. The
-     last time I heard that name spoken was a painful
-     one. I don't think I want to be reminded.
-
-  JANEWAY
-     Sounds like you had quite an adventure on that
-     holodeck, Doctor.
-
-  EMH
-     Yes, I would say so.
-
-  JANEWAY
-     Well, something tells me you haven't had your last
-     one.
-
-  ANNOTATION
-     Janeway leaves.
-
-  EMH
-     Something tells me the same thing.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

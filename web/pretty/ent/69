@@ -1,1720 +1,896 @@
-Hatchery
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Hatchery</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: In orbit of a brown and white planet.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>ARCHER:  Magnify.</td></tr>
 
-  ANNOTATION
-     In orbit of a brown and white planet.
+<tr id="L3"><td><a href="#L3">3</a></td><td>ANNOTATION: There's a crashed ship on the surface.</td></tr>
 
-  ARCHER
-     Magnify.
+<tr id="L4"><td><a href="#L4">4</a></td><td>REED:  It's definitely Xindi, sir. The hull composition matches the other ships we've seen.</td></tr>
 
-  ANNOTATION
-     There's a crashed ship on the surface.
+<tr id="L5"><td><a href="#L5">5</a></td><td>ARCHER:  It doesn't look like a reptilian or a primate design. Biosigns?</td></tr>
 
-  REED
-     It's definitely Xindi, sir. The hull composition
-     matches the other ships we've seen.
+<tr id="L6"><td><a href="#L6">6</a></td><td>T'POL:  None that I can detect. There's no atmosphere aboard.</td></tr>
 
-  ARCHER
-     It doesn't look like a reptilian or a primate
-     design. Biosigns?
+<tr id="L7"><td><a href="#L7">7</a></td><td>ARCHER:  Anyone else in the system?</td></tr>
 
-  T'POL
-     None that I can detect. There's no atmosphere
-     aboard.
+<tr id="L8"><td><a href="#L8">8</a></td><td>TRAVIS:  No, sir.</td></tr>
 
-  ARCHER
-     Anyone else in the system?
+<tr id="L9"><td><a href="#L9">9</a></td><td>ARCHER:  Put a team together.</td></tr>
 
-  TRAVIS
-     No, sir.
+<tr id="L10"><td><a href="#L10">10</a></td><td>REED:  Aye, sir.</td></tr>
 
-  ARCHER
-     Put a team together.
+<tr><td></td><td>LOCATION--Crashed ship</td></tr>
+<tr id="L11"><td><a href="#L11">11</a></td><td>ANNOTATION: The EV-suited team finds a couple of insectoid bodies.</td></tr>
 
-  REED
-     Aye, sir.
+<tr id="L12"><td><a href="#L12">12</a></td><td>ARCHER:  We'll take them back to Enterprise. Tell Phlox I want a complete autopsy. (to T'Pol) The Major and I will search the port side. See if you can access their ship's database.</td></tr>
 
+<tr id="L13"><td><a href="#L13">13</a></td><td>ANNOTATION: Archer and Hayes find a closed door, and pries it up to reveal a huge chamber. They investigate, while elsewhere -</td></tr>
 
-LOCATION--Crashed ship
+<tr id="L14"><td><a href="#L14">14</a></td><td>T'POL:  It's a computer interface.</td></tr>
 
-  ANNOTATION
-     The EV-suited team finds a couple of insectoid
-     bodies.
+<tr id="L15"><td><a href="#L15">15</a></td><td>TUCKER:  See what you can download.</td></tr>
 
-  ARCHER
-     We'll take them back to Enterprise. Tell Phlox I
-     want a complete autopsy. (to T'Pol) The Major and
-     I will search the port side. See if you can access
-     their ship's database.
+<tr id="L16"><td><a href="#L16">16</a></td><td>REED:  My father'd love to get a look at this place. He's fascinated by insects, always filling the house up with bugs he's collected. Drives my mother crazy.</td></tr>
 
-  ANNOTATION
-     Archer and Hayes find a closed door, and pries it
-     up to reveal a huge chamber. They investigate,
-     while elsewhere -
+<tr id="L17"><td><a href="#L17">17</a></td><td>TUCKER:  Maybe we can bring home something new for his collection.</td></tr>
 
-  T'POL
-     It's a computer interface.
+<tr id="L18"><td><a href="#L18">18</a></td><td>ANNOTATION: Tucker and Reed are at a bulkhead that Tucker's scanner has lead him to.</td></tr>
 
-  TUCKER
-     See what you can download.
+<tr id="L19"><td><a href="#L19">19</a></td><td>REED:  It's heavily reinforced.</td></tr>
 
-  REED
-     My father'd love to get a look at this place. He's
-     fascinated by insects, always filling the house up
-     with bugs he's collected. Drives my mother crazy.
+<tr id="L20"><td><a href="#L20">20</a></td><td>ANNOTATION: They open the hexagonal hatch and step through.</td></tr>
 
-  TUCKER
-     Maybe we can bring home something new for his
-     collection.
+<tr><td></td><td>LOCATION--Hatchery airlock</td></tr>
+<tr id="L21"><td><a href="#L21">21</a></td><td>ANNOTATION: The hatch shuts automatically behind them.</td></tr>
 
-  ANNOTATION
-     Tucker and Reed are at a bulkhead that Tucker's
-     scanner has lead him to.
+<tr id="L22"><td><a href="#L22">22</a></td><td>REED:  It's pressurising. Oxygen nitrogen atmosphere.</td></tr>
 
-  REED
-     It's heavily reinforced.
+<tr id="L23"><td><a href="#L23">23</a></td><td>TUCKER:  After you. (Reed opens his helmet a little.)</td></tr>
 
-  ANNOTATION
-     They open the hexagonal hatch and step through.
+<tr id="L24"><td><a href="#L24">24</a></td><td>REED:  A little stale, but breathable. Biosigns, very faint. Coming from in here.</td></tr>
 
+<tr id="L25"><td><a href="#L25">25</a></td><td>ANNOTATION: Another hatch.</td></tr>
 
-LOCATION--Hatchery airlock
+<tr><td></td><td>LOCATION--Xindi shuttlebay</td></tr>
+<tr id="L26"><td><a href="#L26">26</a></td><td>ANNOTATION: investigating a craft inside the huge chamber</td></tr>
 
-  ANNOTATION
-     The hatch shuts automatically behind them.
+<tr id="L27"><td><a href="#L27">27</a></td><td>HAYES:  Some kind of shuttlecraft?</td></tr>
 
-  REED
-     It's pressurising. Oxygen nitrogen atmosphere.
+<tr id="L28"><td><a href="#L28">28</a></td><td>ARCHER:  More like an assault vehicle. I'm reading a half dozen particle cannons, torpedo launchers. Archer.</td></tr>
 
-  TUCKER
-     After you. (Reed opens his helmet a little.)
+<tr id="L29"><td><a href="#L29">29</a></td><td>TUCKER [OC]:  You'd better get over here, sir.</td></tr>
 
-  REED
-     A little stale, but breathable. Biosigns, very
-     faint. Coming from in here.
+<tr><td></td><td>LOCATION--Hatchery</td></tr>
+<tr id="L30"><td><a href="#L30">30</a></td><td>ANNOTATION: Archer and Hayes enter the hatchery to find their colleagues gazing in wonder at the things hanging from the ceiling, and the fact that the power is on. They remove their helmets.</td></tr>
 
-  ANNOTATION
-     Another hatch.
+<tr id="L31"><td><a href="#L31">31</a></td><td>T'POL:  The DNA is identical to the bodies we found. They would appear to be the crew's offspring.</td></tr>
 
+<tr id="L32"><td><a href="#L32">32</a></td><td>ARCHER:  A hatchery?</td></tr>
 
-LOCATION--Xindi shuttlebay
+<tr id="L33"><td><a href="#L33">33</a></td><td>TUCKER:  They built this place to take quite a beating. Reinforced bulkheads, back-up power systems.</td></tr>
 
-  ANNOTATION
-     investigating a craft inside the huge chamber
+<tr id="L34"><td><a href="#L34">34</a></td><td>T'POL:  Thirty one eggs are still viable.</td></tr>
 
-  HAYES
-     Some kind of shuttlecraft?
+<tr id="L35"><td><a href="#L35">35</a></td><td>TUCKER:  They won't survive for long. The bio-support's losing power.</td></tr>
 
-  ARCHER
-     More like an assault vehicle. I'm reading a half
-     dozen particle cannons, torpedo launchers. Archer.
+<tr id="L36"><td><a href="#L36">36</a></td><td>ARCHER:  Do you think you can repair it?</td></tr>
 
-  TUCKER [OC]
-     You'd better get over here, sir.
+<tr id="L37"><td><a href="#L37">37</a></td><td>TUCKER:  I wouldn't even know where to start.</td></tr>
 
+<tr id="L38"><td><a href="#L38">38</a></td><td>ARCHER:  There's a shuttlecraft in their port bay. Get it back to the ship. I want an analysis of their tactical systems as soon as possible.</td></tr>
 
-LOCATION--Hatchery
+<tr id="L39"><td><a href="#L39">39</a></td><td>REED:  Aye sir.</td></tr>
 
-  ANNOTATION
-     Archer and Hayes enter the hatchery to find their
-     colleagues gazing in wonder at the things hanging
-     from the ceiling, and the fact that the power is
-     on. They remove their helmets.
+<tr id="L40"><td><a href="#L40">40</a></td><td>ANNOTATION: He leaves with Tucker. Archer looks at a cluster of dangling eggs.</td></tr>
 
-  T'POL
-     The DNA is identical to the bodies we found. They
-     would appear to be the crew's offspring.
+<tr id="L41"><td><a href="#L41">41</a></td><td>ARCHER:  Did you find their Bridge?</td></tr>
 
-  ARCHER
-     A hatchery?
+<tr id="L42"><td><a href="#L42">42</a></td><td>T'POL:  I'm not certain there is one. Their command functions appear to be distributed through various</td></tr>
 
-  TUCKER
-     They built this place to take quite a beating.
-     Reinforced bulkheads, back-up power systems.
+<tr id="L43"><td><a href="#L43">43</a></td><td>ANNOTATION: Archer gets splattered by a dangling egg.</td></tr>
 
-  T'POL
-     Thirty one eggs are still viable.
+<tr id="L44"><td><a href="#L44">44</a></td><td>T'POL:  Captain!</td></tr>
 
-  TUCKER
-     They won't survive for long. The bio-support's
-     losing power.
+<tr id="L45"><td><a href="#L45">45</a></td><td>ARCHER:  I'm all right.</td></tr>
 
-  ARCHER
-     Do you think you can repair it?
+<tr id="L46"><td><a href="#L46">46</a></td><td>T'POL:  We should get you to Sickbay.</td></tr>
 
-  TUCKER
-     I wouldn't even know where to start.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L47"><td><a href="#L47">47</a></td><td>ANNOTATION: Archer has a bright rash where the egg squirted him.</td></tr>
 
-  ARCHER
-     There's a shuttlecraft in their port bay. Get it
-     back to the ship. I want an analysis of their
-     tactical systems as soon as possible.
+<tr id="L48"><td><a href="#L48">48</a></td><td>PHLOX:  A mild neurotoxin. Likely part of an autonomic defence system. The egg probably considered you a threat.</td></tr>
 
-  REED
-     Aye sir.
+<tr id="L49"><td><a href="#L49">49</a></td><td>ARCHER:  Humans seem to have that effect on the Xindi.</td></tr>
 
-  ANNOTATION
-     He leaves with Tucker. Archer looks at a cluster
-     of dangling eggs.
+<tr id="L50"><td><a href="#L50">50</a></td><td>PHLOX:  An analgesic should take care of the irritation.</td></tr>
 
-  ARCHER
-     Did you find their Bridge?
+<tr id="L51"><td><a href="#L51">51</a></td><td>ARCHER:  Malcolm's bringing you two dead insectoids. I want you to learn as much as you can about them.</td></tr>
 
-  T'POL
-     I'm not certain there is one. Their command
-     functions appear to be distributed through various
+<tr id="L52"><td><a href="#L52">52</a></td><td>PHLOX:  Understood.</td></tr>
 
-  ANNOTATION
-     Archer gets splattered by a dangling egg.
+<tr id="L53"><td><a href="#L53">53</a></td><td>T'POL:  We've located their Armoury. We found several particle weapons and torpedo casings.</td></tr>
 
-  T'POL
-     Captain!
+<tr id="L54"><td><a href="#L54">54</a></td><td>ARCHER:  What about the data you recovered?</td></tr>
 
-  ARCHER
-     I'm all right.
+<tr id="L55"><td><a href="#L55">55</a></td><td>T'POL:  Ensign Sato's translating it. We'll be ready to leave orbit as soon as the Xindi shuttle's aboard.</td></tr>
 
-  T'POL
-     We should get you to Sickbay.
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L56"><td><a href="#L56">56</a></td><td>ANNOTATION: Towing the Xindi shuttle, which is about the same size.</td></tr>
 
+<tr id="L57"><td><a href="#L57">57</a></td><td>REED:  We've cleared the thermosphere.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L58"><td><a href="#L58">58</a></td><td>ANNOTATION: The pod shakes, and a corpse falls over.</td></tr>
 
-  ANNOTATION
-     Archer has a bright rash where the egg squirted
-     him.
+<tr id="L59"><td><a href="#L59">59</a></td><td>REED:  You might want to do a better job securing our guests.</td></tr>
 
-  PHLOX
-     A mild neurotoxin. Likely part of an autonomic
-     defence system. The egg probably considered you a
-     threat.
+<tr id="L60"><td><a href="#L60">60</a></td><td>ANNOTATION: Hayes kicks the bodybag.</td></tr>
 
-  ARCHER
-     Humans seem to have that effect on the Xindi.
+<tr id="L61"><td><a href="#L61">61</a></td><td>REED:  I think it's safe to assume it's dead.</td></tr>
 
-  PHLOX
-     An analgesic should take care of the irritation.
+<tr id="L62"><td><a href="#L62">62</a></td><td>HAYES:  Just being cautious.</td></tr>
 
-  ARCHER
-     Malcolm's bringing you two dead insectoids. I want
-     you to learn as much as you can about them.
+<tr id="L63"><td><a href="#L63">63</a></td><td>ANNOTATION: He puts it back on the bench and straps it in.</td></tr>
 
-  PHLOX
-     Understood.
+<tr id="L64"><td><a href="#L64">64</a></td><td>HAYES:  Certain insects on Earth are known to hibernate.</td></tr>
 
-  T'POL
-     We've located their Armoury. We found several
-     particle weapons and torpedo casings.
+<tr id="L65"><td><a href="#L65">65</a></td><td>ANNOTATION: Hayes sits down and draws his weapon.</td></tr>
 
-  ARCHER
-     What about the data you recovered?
+<tr id="L66"><td><a href="#L66">66</a></td><td>REED:  Do you intent do shoot me, Major?</td></tr>
 
-  T'POL
-     Ensign Sato's translating it. We'll be ready to
-     leave orbit as soon as the Xindi shuttle's aboard.
+<tr id="L67"><td><a href="#L67">67</a></td><td>HAYES:  It's not you I'm worried about. I've been going over the results from the last training session. Your senior officers have shown a lot of improvement, but I think they can do better. With your permission I'd like to schedule some more target practice for Monday evening.</td></tr>
 
+<tr id="L68"><td><a href="#L68">68</a></td><td>REED:  That won't go over well with Commander Tucker. Monday night is movie night.</td></tr>
 
-LOCATION--Shuttlepod
+<tr id="L69"><td><a href="#L69">69</a></td><td>HAYES:  Maybe he can sacrifice some leisure time for the sake of this mission.</td></tr>
 
-  ANNOTATION
-     Towing the Xindi shuttle, which is about the same
-     size.
+<tr id="L70"><td><a href="#L70">70</a></td><td>REED:  The senior officers do have other duties. We can't all spend our time playing holographic games in the Armoury.</td></tr>
 
-  REED
-     We've cleared the thermosphere.
+<tr id="L71"><td><a href="#L71">71</a></td><td>HAYES:  I'm not sure that's how the Captain would see it.</td></tr>
 
-  ANNOTATION
-     The pod shakes, and a corpse falls over.
+<tr id="L72"><td><a href="#L72">72</a></td><td>HOSHI [OC]:  Enterprise to Shuttlepod two. You're clear to approach.</td></tr>
 
-  REED
-     You might want to do a better job securing our
-     guests.
+<tr id="L73"><td><a href="#L73">73</a></td><td>REED:  Acknowledged. Deploy the docking arm.</td></tr>
 
-  ANNOTATION
-     Hayes kicks the bodybag.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L74"><td><a href="#L74">74</a></td><td>ARCHER:  Come in.</td></tr>
 
-  REED
-     I think it's safe to assume it's dead.
+<tr id="L75"><td><a href="#L75">75</a></td><td>ANNOTATION: T'Pol and Tucker enter.</td></tr>
 
-  HAYES
-     Just being cautious.
+<tr id="L76"><td><a href="#L76">76</a></td><td>TUCKER:  I think we figured out what happened to them. One of the nacelles fractured when they were coming out of a subspace vortex. They probably tried to make an emergency landing on this planet.</td></tr>
 
-  ANNOTATION
-     He puts it back on the bench and straps it in.
+<tr id="L77"><td><a href="#L77">77</a></td><td>ARCHER:  According to Phlox, the insectoids we found weren't killed in the crash, they suffocated?</td></tr>
 
-  HAYES
-     Certain insects on Earth are known to hibernate.
+<tr id="L78"><td><a href="#L78">78</a></td><td>T'POL:  Most of the crew appear to have died when they transferred their life-support to the hatchery.</td></tr>
 
-  ANNOTATION
-     Hayes sits down and draws his weapon.
+<tr id="L79"><td><a href="#L79">79</a></td><td>ARCHER:  They sacrificed themselves to save their children. You said the hatchery's losing biosupport. How long will it last?</td></tr>
 
-  REED
-     Do you intent do shoot me, Major?
+<tr id="L80"><td><a href="#L80">80</a></td><td>TUCKER:  Another day, at most.</td></tr>
 
-  HAYES
-     It's not you I'm worried about. I've been going
-     over the results from the last training session.
-     Your senior officers have shown a lot of
-     improvement, but I think they can do better. With
-     your permission I'd like to schedule some more
-     target practice for Monday evening.
+<tr id="L81"><td><a href="#L81">81</a></td><td>ARCHER:  I want you to assign a team to repair it.</td></tr>
 
-  REED
-     That won't go over well with Commander Tucker.
-     Monday night is movie night.
+<tr id="L82"><td><a href="#L82">82</a></td><td>TUCKER:  Captain?</td></tr>
 
-  HAYES
-     Maybe he can sacrifice some leisure time for the
-     sake of this mission.
+<tr id="L83"><td><a href="#L83">83</a></td><td>T'POL:  What about Azati Prime?</td></tr>
 
-  REED
-     The senior officers do have other duties. We can't
-     all spend our time playing holographic games in
-     the Armoury.
+<tr id="L84"><td><a href="#L84">84</a></td><td>ARCHER:  It's not going anywhere. This is a sentient species. We can't abandon them.</td></tr>
 
-  HAYES
-     I'm not sure that's how the Captain would see it.
+<tr id="L85"><td><a href="#L85">85</a></td><td>TUCKER:  Captain, with all due respect, why the hell not? I've got half a mind to take a plasma torch to that place.</td></tr>
 
-  HOSHI [OC]
-     Enterprise to Shuttlepod two. You're clear to
-     approach.
+<tr id="L86"><td><a href="#L86">86</a></td><td>ARCHER:  What if we found a nursery filled with thirty one infant primates. Would you want to torch them? The Xindi are trying to destroy Earth because they heard that humans are ruthless. This is a chance to prove them wrong.</td></tr>
 
-  REED
-     Acknowledged. Deploy the docking arm.
+<tr id="L87"><td><a href="#L87">87</a></td><td>T'POL:  We can bring the eggs aboard, reconfigure one of the cargo bays.</td></tr>
 
+<tr id="L88"><td><a href="#L88">88</a></td><td>ARCHER:  I already talked to Phlox. He says they're integrated into the hatchery walls. If we remove them, they'll die.</td></tr>
 
-LOCATION--Ready room
+<tr id="L89"><td><a href="#L89">89</a></td><td>TUCKER:  Sir, this is crazy. These people are trying to kill us.</td></tr>
 
-  ARCHER
-     Come in.
+<tr id="L90"><td><a href="#L90">90</a></td><td>ARCHER:  This isn't open for discussion. I'll lead the engineering team. I need you up here to help Travis figure out how to operate that Xindi shuttle.</td></tr>
 
-  ANNOTATION
-     T'Pol and Tucker enter.
+<tr id="L91"><td><a href="#L91">91</a></td><td>TUCKER:  Captain.</td></tr>
 
-  TUCKER
-     I think we figured out what happened to them. One
-     of the nacelles fractured when they were coming
-     out of a subspace vortex. They probably tried to
-     make an emergency landing on this planet.
+<tr id="L92"><td><a href="#L92">92</a></td><td>ARCHER:  I've made my decision. Get to work.</td></tr>
 
-  ARCHER
-     According to Phlox, the insectoids we found
-     weren't killed in the crash, they suffocated?
+<tr id="L93"><td><a href="#L93">93</a></td><td>SOMEONE: Captain's Starlog, January 8th 2154. We've been in orbit for more than a day. The crew is restless, eager to resume our mission, but I'm certain my decision to stay was the right one.</td></tr>
 
-  T'POL
-     Most of the crew appear to have died when they
-     transferred their life-support to the hatchery.
+<tr><td></td><td>LOCATION--Xindi shuttle</td></tr>
+<tr id="L94"><td><a href="#L94">94</a></td><td>TUCKER:  They may know how to make a weapon, but these people could learn a thing or two about designing a comfortable chair.</td></tr>
 
-  ARCHER
-     They sacrificed themselves to save their children.
-     You said the hatchery's losing biosupport. How
-     long will it last?
+<tr id="L95"><td><a href="#L95">95</a></td><td>TRAVIS:  For an Insectoid, maybe they are comfortable.</td></tr>
 
-  TUCKER
-     Another day, at most.
+<tr id="L96"><td><a href="#L96">96</a></td><td>TUCKER:  And the power grid doesn't make much sense. Almost half of it's routed to structural integrity.</td></tr>
 
-  ARCHER
-     I want you to assign a team to repair it.
+<tr id="L97"><td><a href="#L97">97</a></td><td>TRAVIS:  You could probably fly this thing inside a gas giant.</td></tr>
 
-  TUCKER
-     Captain?
+<tr id="L98"><td><a href="#L98">98</a></td><td>TUCKER:  Assuming you could figure out how to fly it.</td></tr>
 
-  T'POL
-     What about Azati Prime?
+<tr id="L99"><td><a href="#L99">99</a></td><td>TRAVIS:  This icon looks like it might represent the impulse manifolds.</td></tr>
 
-  ARCHER
-     It's not going anywhere. This is a sentient
-     species. We can't abandon them.
+<tr id="L100"><td><a href="#L100">100</a></td><td>TUCKER:  Give it a shot.</td></tr>
 
-  TUCKER
-     Captain, with all due respect, why the hell not?
-     I've got half a mind to take a plasma torch to
-     that place.
+<tr id="L101"><td><a href="#L101">101</a></td><td>ANNOTATION: There's an Insectoid warning then the lights go out.</td></tr>
 
-  ARCHER
-     What if we found a nursery filled with thirty one
-     infant primates. Would you want to torch them? The
-     Xindi are trying to destroy Earth because they
-     heard that humans are ruthless. This is a chance
-     to prove them wrong.
+<tr id="L102"><td><a href="#L102">102</a></td><td>TRAVIS:  I don't think this ship likes us very much.</td></tr>
 
-  T'POL
-     We can bring the eggs aboard, reconfigure one of
-     the cargo bays.
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L103"><td><a href="#L103">103</a></td><td>REED:  (using PADD) You're going to have to remove the relays here and here. That should disable the security protocols.</td></tr>
 
-  ARCHER
-     I already talked to Phlox. He says they're
-     integrated into the hatchery walls. If we remove
-     them, they'll die.
+<tr id="L104"><td><a href="#L104">104</a></td><td>TUCKER:  We can't initialise the engines without them.</td></tr>
 
-  TUCKER
-     Sir, this is crazy. These people are trying to
-     kill us.
+<tr id="L105"><td><a href="#L105">105</a></td><td>TRAVIS:  What about the ship on the surface? We might be able to salvage what we need.</td></tr>
 
-  ARCHER
-     This isn't open for discussion. I'll lead the
-     engineering team. I need you up here to help
-     Travis figure out how to operate that Xindi
-     shuttle.
+<tr id="L106"><td><a href="#L106">106</a></td><td>TUCKER:  Yeah.</td></tr>
 
-  TUCKER
-     Captain.
+<tr id="L107"><td><a href="#L107">107</a></td><td>REED:  Any word on how much longer he's planning to stay in orbit?</td></tr>
 
-  ARCHER
-     I've made my decision. Get to work.
+<tr id="L108"><td><a href="#L108">108</a></td><td>TUCKER:  The repairs are moving slow.</td></tr>
 
-  SOMEONE
-     Captain's Starlog, January 8th 2154. We've been in
-     orbit for more than a day. The crew is restless,
-     eager to resume our mission, but I'm certain my
-     decision to stay was the right one.
+<tr id="L109"><td><a href="#L109">109</a></td><td>REED:  I'd be the last to question the Captain's orders, but doesn't it seem a little odd that we're staying here to save a nest of Xindi?</td></tr>
 
+<tr id="L110"><td><a href="#L110">110</a></td><td>TUCKER:  The Captain thinks it's the right thing to do. We may be at war, but these creatures need our help.</td></tr>
 
-LOCATION--Xindi shuttle
+<tr id="L111"><td><a href="#L111">111</a></td><td>REED:  Meanwhile, their big brothers are trying to destroy Earth.</td></tr>
 
-  TUCKER
-     They may know how to make a weapon, but these
-     people could learn a thing or two about designing
-     a comfortable chair.
+<tr id="L112"><td><a href="#L112">112</a></td><td>TRAVIS:  Every day we stay here gives them more time to finish their weapon.</td></tr>
 
-  TRAVIS
-     For an Insectoid, maybe they are comfortable.
+<tr id="L113"><td><a href="#L113">113</a></td><td>TUCKER:  Look, there's a chance we'll run into more insectoids when we reach that red giant. Spending an extra day or two studying their tactical systems might be useful.</td></tr>
 
-  TUCKER
-     And the power grid doesn't make much sense. Almost
-     half of it's routed to structural integrity.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L114"><td><a href="#L114">114</a></td><td>ANNOTATION: Phlox is in autopsy rubbers standing over an Insectoid with it's chest cavity open, when Archer comes in.</td></tr>
 
-  TRAVIS
-     You could probably fly this thing inside a gas
-     giant.
+<tr id="L115"><td><a href="#L115">115</a></td><td>PHLOX:  Ah, Captain. I've learnt quite a bit about this fascinating fellow. Perhaps fellow is the wrong word. Their species is genderless.</td></tr>
 
-  TUCKER
-     Assuming you could figure out how to fly it.
+<tr id="L116"><td><a href="#L116">116</a></td><td>ARCHER:  Then who made all those eggs?</td></tr>
 
-  TRAVIS
-     This icon looks like it might represent the
-     impulse manifolds.
+<tr id="L117"><td><a href="#L117">117</a></td><td>PHLOX:  They reproduce asexually. Each adult appears capable of producing multiple egg sacs. I wouldn't be surprised if every insectoid vessel had it's own hatchery. I'd estimate their lifespan is no more than twelve Earth years. This individual may be one of the elder members of the crew. It was nearly ten years old.</td></tr>
 
-  TUCKER
-     Give it a shot.
+<tr id="L118"><td><a href="#L118">118</a></td><td>ARCHER:  What about the hatchery? When will the eggs mature?</td></tr>
 
-  ANNOTATION
-     There's an Insectoid warning then the lights go
-     out.
+<tr id="L119"><td><a href="#L119">119</a></td><td>PHLOX:  Without knowing more about their incubation cycle it's impossible to say, but probably no more than a week at most. Captain, if you don't mind my saying, you look as if you could use some rest.</td></tr>
 
-  TRAVIS
-     I don't think this ship likes us very much.
+<tr id="L120"><td><a href="#L120">120</a></td><td>ARCHER:  We've got to get the repairs finished.</td></tr>
 
+<tr id="L121"><td><a href="#L121">121</a></td><td>PHLOX:  Surely a few hours sleep wouldn't</td></tr>
 
-LOCATION--Mess hall
+<tr id="L122"><td><a href="#L122">122</a></td><td>ARCHER:  Contact me if you find anything else.</td></tr>
 
-  REED
-     (using PADD) You're going to have to remove the
-     relays here and here. That should disable the
-     security protocols.
+<tr><td></td><td>LOCATION--Hatchery airlock</td></tr>
+<tr id="L123"><td><a href="#L123">123</a></td><td>ANNOTATION: T'Pol has walked through the Xindi ship without an EV suit.</td></tr>
 
-  TUCKER
-     We can't initialise the engines without them.
+<tr id="L124"><td><a href="#L124">124</a></td><td>T'POL:  Is there a problem, Corporal?</td></tr>
 
-  TRAVIS
-     What about the ship on the surface? We might be
-     able to salvage what we need.
+<tr id="L125"><td><a href="#L125">125</a></td><td>CHANG:  No, ma'am.</td></tr>
 
-  TUCKER
-     Yeah.
+<tr id="L126"><td><a href="#L126">126</a></td><td>T'POL:  Why are you guarding this chamber?</td></tr>
 
-  REED
-     Any word on how much longer he's planning to stay
-     in orbit?
+<tr id="L127"><td><a href="#L127">127</a></td><td>CHANG:  Captain's orders.</td></tr>
 
-  TUCKER
-     The repairs are moving slow.
+<tr><td></td><td>LOCATION--Hatchery</td></tr>
+<tr id="L128"><td><a href="#L128">128</a></td><td>ANNOTATION: Archer is working on the main life support control unit in the middle of the chamber.</td></tr>
 
-  REED
-     I'd be the last to question the Captain's orders,
-     but doesn't it seem a little odd that we're
-     staying here to save a nest of Xindi?
+<tr id="L129"><td><a href="#L129">129</a></td><td>T'POL:  Lieutenant Reed's report.</td></tr>
 
-  TUCKER
-     The Captain thinks it's the right thing to do. We
-     may be at war, but these creatures need our help.
+<tr id="L130"><td><a href="#L130">130</a></td><td>ARCHER:  What?</td></tr>
 
-  REED
-     Meanwhile, their big brothers are trying to
-     destroy Earth.
+<tr id="L131"><td><a href="#L131">131</a></td><td>T'POL:  You requested a tactical analysis of the Insectoid ship.</td></tr>
 
-  TRAVIS
-     Every day we stay here gives them more time to
-     finish their weapon.
+<tr id="L132"><td><a href="#L132">132</a></td><td>ARCHER:  Later. Are we ready?</td></tr>
 
-  TUCKER
-     Look, there's a chance we'll run into more
-     insectoids when we reach that red giant. Spending
-     an extra day or two studying their tactical
-     systems might be useful.
+<tr id="L133"><td><a href="#L133">133</a></td><td>TUCKER:  Just a few seconds, Captain.</td></tr>
 
+<tr id="L134"><td><a href="#L134">134</a></td><td>T'POL:  There are two MACOs posted outside.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L135"><td><a href="#L135">135</a></td><td>ARCHER:  I asked Major Hayes to assign them. These eggs are vulnerable. There are breaches in the outer hull. There could be predators around.</td></tr>
 
-  ANNOTATION
-     Phlox is in autopsy rubbers standing over an
-     Insectoid with it's chest cavity open, when Archer
-     comes in.
+<tr id="L136"><td><a href="#L136">136</a></td><td>T'POL:  Aside from microbes, we found no evidence of life on this planet.</td></tr>
 
-  PHLOX
-     Ah, Captain. I've learnt quite a bit about this
-     fascinating fellow. Perhaps fellow is the wrong
-     word. Their species is genderless.
+<tr id="L137"><td><a href="#L137">137</a></td><td>ARCHER:  Trip.</td></tr>
 
-  ARCHER
-     Then who made all those eggs?
+<tr id="L138"><td><a href="#L138">138</a></td><td>TUCKER:  We're ready. Start at forty megajoules, but keep an eye on that matrix converter. Take it up to fifty.</td></tr>
 
-  PHLOX
-     They reproduce asexually. Each adult appears
-     capable of producing multiple egg sacs. I wouldn't
-     be surprised if every insectoid vessel had it's
-     own hatchery. I'd estimate their lifespan is no
-     more than twelve Earth years. This individual may
-     be one of the elder members of the crew. It was
-     nearly ten years old.
+<tr id="L139"><td><a href="#L139">139</a></td><td>ANNOTATION: Systems start to light up, then something goes bang.</td></tr>
 
-  ARCHER
-     What about the hatchery? When will the eggs
-     mature?
+<tr id="L140"><td><a href="#L140">140</a></td><td>ARCHER:  Trip.</td></tr>
 
-  PHLOX
-     Without knowing more about their incubation cycle
-     it's impossible to say, but probably no more than
-     a week at most. Captain, if you don't mind my
-     saying, you look as if you could use some rest.
+<tr id="L141"><td><a href="#L141">141</a></td><td>ANNOTATION: An egg sac explodes and an engineer goes flying.</td></tr>
 
-  ARCHER
-     We've got to get the repairs finished.
+<tr id="L142"><td><a href="#L142">142</a></td><td>ARCHER:  Shut it down. What happened.</td></tr>
 
-  PHLOX
-     Surely a few hours sleep wouldn't
+<tr id="L143"><td><a href="#L143">143</a></td><td>TUCKER:  It must have been a surge in the power grid. I'll need a few minutes, Captain.</td></tr>
 
-  ARCHER
-     Contact me if you find anything else.
+<tr id="L144"><td><a href="#L144">144</a></td><td>ANNOTATION: The burst sac contained two babies, one of which is moving slightly.</td></tr>
 
+<tr id="L145"><td><a href="#L145">145</a></td><td>ARCHER:  Archer to Enterprise. Medical emergency.</td></tr>
 
-LOCATION--Hatchery airlock
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L146"><td><a href="#L146">146</a></td><td>ANNOTATION: Phlox holda the tiny stiff corpse in one hand.</td></tr>
 
-  ANNOTATION
-     T'Pol has walked through the Xindi ship without an
-     EV suit.
+<tr id="L147"><td><a href="#L147">147</a></td><td>PHLOX:  There was nothing I could do. I'm sorry.</td></tr>
 
-  T'POL
-     Is there a problem, Corporal?
+<tr id="L148"><td><a href="#L148">148</a></td><td>ARCHER:  How's Hoshi coming with that translation.</td></tr>
 
-  CHANG
-     No, ma'am.
+<tr id="L149"><td><a href="#L149">149</a></td><td>T'POL:  Their iconography is different from the other Xindi species. It's taking some time.</td></tr>
 
-  T'POL
-     Why are you guarding this chamber?
+<tr id="L150"><td><a href="#L150">150</a></td><td>ARCHER:  When she's done, ask her to search their database. See if she can locate anything about their burial rituals.</td></tr>
 
-  CHANG
-     Captain's orders.
+<tr id="L151"><td><a href="#L151">151</a></td><td>T'POL:  Do you plan to hold a funeral?</td></tr>
 
+<tr id="L152"><td><a href="#L152">152</a></td><td>TUCKER [OC]:  Tucker to Captain Archer.</td></tr>
 
-LOCATION--Hatchery
+<tr id="L153"><td><a href="#L153">153</a></td><td>ARCHER:  Go ahead.</td></tr>
 
-  ANNOTATION
-     Archer is working on the main life support control
-     unit in the middle of the chamber.
+<tr id="L154"><td><a href="#L154">154</a></td><td>TUCKER [OC]:  I think I've figured out the problem. Their power grid can't handle our converters.</td></tr>
 
-  T'POL
-     Lieutenant Reed's report.
+<tr><td></td><td>LOCATION--Hatchery</td></tr>
+<tr id="L155"><td><a href="#L155">155</a></td><td>TUCKER:  It's going to take at least three days to make them compatible.</td></tr>
 
-  ARCHER
-     What?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L156"><td><a href="#L156">156</a></td><td>ARCHER:  What about the reactor? Any way to bring it online?</td></tr>
 
-  T'POL
-     You requested a tactical analysis of the Insectoid
-     ship.
+<tr id="L157"><td><a href="#L157">157</a></td><td>TUCKER [OC]:  It's possible</td></tr>
 
-  ARCHER
-     Later. Are we ready?
+<tr><td></td><td>LOCATION--Hatchery</td></tr>
+<tr id="L158"><td><a href="#L158">158</a></td><td>TUCKER:  But they lost most of their antimatter in the accident.</td></tr>
 
-  TUCKER
-     Just a few seconds, Captain.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L159"><td><a href="#L159">159</a></td><td>ARCHER:  Stand by. Work with Trip. Help him get their reactor up and running.</td></tr>
 
-  T'POL
-     There are two MACOs posted outside.
+<tr id="L160"><td><a href="#L160">160</a></td><td>T'POL:  Sir?</td></tr>
 
-  ARCHER
-     I asked Major Hayes to assign them. These eggs are
-     vulnerable. There are breaches in the outer hull.
-     There could be predators around.
+<tr id="L161"><td><a href="#L161">161</a></td><td>ARCHER:  We're going to transfer our antimatter to their ship. Use as much as you have to.</td></tr>
 
-  T'POL
-     Aside from microbes, we found no evidence of life
-     on this planet.
+<tr id="L162"><td><a href="#L162">162</a></td><td>T'POL:  Our reserves are at less than sixty percent.</td></tr>
 
-  ARCHER
-     Trip.
+<tr id="L163"><td><a href="#L163">163</a></td><td>ARCHER:  I'm not going to let any more of them die.</td></tr>
 
-  TUCKER
-     We're ready. Start at forty megajoules, but keep
-     an eye on that matrix converter. Take it up to
-     fifty.
+<tr><td></td><td>LOCATION--Command centre</td></tr>
+<tr id="L164"><td><a href="#L164">164</a></td><td>TUCKER:  To get that reactor running again, we'll have to use a third of our antimatter reserves.</td></tr>
 
-  ANNOTATION
-     Systems start to light up, then something goes
-     bang.
+<tr id="L165"><td><a href="#L165">165</a></td><td>REED:  Why so much?</td></tr>
 
-  ARCHER
-     Trip.
+<tr id="L166"><td><a href="#L166">166</a></td><td>TUCKER:  Every system on that ship is integrated. The only way to bring biosupport back online is to power up the whole thing.</td></tr>
 
-  ANNOTATION
-     An egg sac explodes and an engineer goes flying.
+<tr id="L167"><td><a href="#L167">167</a></td><td>REED:  That's not going to leave much antimatter for our torpedoes, never mind our engines.</td></tr>
 
-  ARCHER
-     Shut it down. What happened.
+<tr id="L168"><td><a href="#L168">168</a></td><td>T'POL:  Did you inform the Captain?</td></tr>
 
-  TUCKER
-     It must have been a surge in the power grid. I'll
-     need a few minutes, Captain.
+<tr id="L169"><td><a href="#L169">169</a></td><td>TUCKER:  I wanted to run it by both of you first.</td></tr>
 
-  ANNOTATION
-     The burst sac contained two babies, one of which
-     is moving slightly.
+<tr id="L170"><td><a href="#L170">170</a></td><td>REED:  I never imagined Captain Archer would put the welfare of a few Xindi before his own people. Do you know, he spent nearly two days in that hatchery. From what I'm told, he hasn't stopped working long enough to even sleep!</td></tr>
 
-  ARCHER
-     Archer to Enterprise. Medical emergency.
+<tr id="L171"><td><a href="#L171">171</a></td><td>T'POL:  Delay the transfer for now.</td></tr>
 
+<tr id="L172"><td><a href="#L172">172</a></td><td>TUCKER:  The Captain gave us an order.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L173"><td><a href="#L173">173</a></td><td>T'POL:  I'll speak with him.</td></tr>
 
-  ANNOTATION
-     Phlox holda the tiny stiff corpse in one hand.
+<tr><td></td><td>LOCATION--Hatchery</td></tr>
+<tr id="L174"><td><a href="#L174">174</a></td><td>ANNOTATION: Archer's still trying to repair a console, and Hayes is standing guard</td></tr>
 
-  PHLOX
-     There was nothing I could do. I'm sorry.
+<tr id="L175"><td><a href="#L175">175</a></td><td>ARCHER:  Where's Trip? Did you bring the antimatter?</td></tr>
 
-  ARCHER
-     How's Hoshi coming with that translation.
+<tr id="L176"><td><a href="#L176">176</a></td><td>T'POL:  No.</td></tr>
 
-  T'POL
-     Their iconography is different from the other
-     Xindi species. It's taking some time.
+<tr id="L177"><td><a href="#L177">177</a></td><td>ARCHER:  What's the problem?</td></tr>
 
-  ARCHER
-     When she's done, ask her to search their database.
-     See if she can locate anything about their burial
-     rituals.
+<tr id="L178"><td><a href="#L178">178</a></td><td>T'POL:  Initialising their reactor will deplete our reserves by over one third.</td></tr>
 
-  T'POL
-     Do you plan to hold a funeral?
+<tr id="L179"><td><a href="#L179">179</a></td><td>ARCHER:  We can spare it. We're only a few light years from the red giant. We'll still have more than enough fuel get there.</td></tr>
 
-  TUCKER [OC]
-     Tucker to Captain Archer.
+<tr id="L180"><td><a href="#L180">180</a></td><td>T'POL:  We don't know for certain if the weapon is in that system.</td></tr>
 
-  ARCHER
-     Go ahead.
+<tr id="L181"><td><a href="#L181">181</a></td><td>ARCHER:  There are lives at risk here.</td></tr>
 
-  TUCKER [OC]
-     I think I've figured out the problem. Their power
-     grid can't handle our converters.
+<tr id="L182"><td><a href="#L182">182</a></td><td>T'POL:  Billions of lives are at risk on Earth if our mission fails.</td></tr>
 
+<tr id="L183"><td><a href="#L183">183</a></td><td>ARCHER:  I'm well aware of that. These Xindi are innocent. If we let them die, we'll be proving to the others that they're right about us. I don't know much about Vulcan ethics, but humans don't throw morality out the window when things start getting a little rough.</td></tr>
 
-LOCATION--Hatchery
+<tr id="L184"><td><a href="#L184">184</a></td><td>T'POL:  Commander Tucker and Lieutenant Reed also believe that this would compromise our mission.</td></tr>
 
-  TUCKER
-     It's going to take at least three days to make
-     them compatible.
+<tr id="L185"><td><a href="#L185">185</a></td><td>ARCHER:  Your opinions have been noted. Now get back to Enterprise and start the antimatter transfer.</td></tr>
 
+<tr id="L186"><td><a href="#L186">186</a></td><td>T'POL:  I'm sorry, Captain. I can't obey that order.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L187"><td><a href="#L187">187</a></td><td>ARCHER:  You may not be wearing a uniform, but you can still be charged with insubordination.</td></tr>
 
-  ARCHER
-     What about the reactor? Any way to bring it
-     online?
+<tr id="L188"><td><a href="#L188">188</a></td><td>T'POL:  Perhaps we should contact Starfleet, and discuss this with Admiral Forrest.</td></tr>
 
-  TUCKER [OC]
-     It's possible
+<tr id="L189"><td><a href="#L189">189</a></td><td>ARCHER:  You're relieved as First Officer. Major, escort T'Pol back to the ship and confine her to her quarters.</td></tr>
 
+<tr id="L190"><td><a href="#L190">190</a></td><td>HAYES:  Sir?</td></tr>
 
-LOCATION--Hatchery
+<tr id="L191"><td><a href="#L191">191</a></td><td>ARCHER:  I gave you an order.</td></tr>
 
-  TUCKER
-     But they lost most of their antimatter in the
-     accident.
+<tr id="L192"><td><a href="#L192">192</a></td><td>HAYES:  Ma'am.</td></tr>
 
+<tr id="L193"><td><a href="#L193">193</a></td><td>ANNOTATION: A glance from the Captain sends the gobsmacked engineers scurrying back to work.</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Archer's quarters</td></tr>
+<tr id="L194"><td><a href="#L194">194</a></td><td>ANNOTATION: Archer comes out of the bathroom, showered and shaved, when the doorbell chimes.</td></tr>
 
-  ARCHER
-     Stand by. Work with Trip. Help him get their
-     reactor up and running.
+<tr id="L195"><td><a href="#L195">195</a></td><td>ARCHER:  Come in.</td></tr>
 
-  T'POL
-     Sir?
+<tr id="L196"><td><a href="#L196">196</a></td><td>TUCKER:  The first shuttlepod's on it's way.</td></tr>
 
-  ARCHER
-     We're going to transfer our antimatter to their
-     ship. Use as much as you have to.
+<tr id="L197"><td><a href="#L197">197</a></td><td>ARCHER:  How long will it take to transfer the antimatter?</td></tr>
 
-  T'POL
-     Our reserves are at less than sixty percent.
+<tr id="L198"><td><a href="#L198">198</a></td><td>TUCKER:  Using both shuttlepods, about four or five hours.</td></tr>
 
-  ARCHER
-     I'm not going to let any more of them die.
+<tr id="L199"><td><a href="#L199">199</a></td><td>ARCHER:  I didn't realise how badly I needed a shower. I've spent too much time in that hatchery.</td></tr>
 
+<tr id="L200"><td><a href="#L200">200</a></td><td>TUCKER:  If you're looking for a new first officer, you should consider Malcolm. You're going to want someone on the Bridge full time, and I'm a little busy at the moment.</td></tr>
 
-LOCATION--Command centre
+<tr id="L201"><td><a href="#L201">201</a></td><td>ARCHER:  I'm happy with the command structure the way it is. This is only temporary. T'Pol just needed a slap on the wrist.</td></tr>
 
-  TUCKER
-     To get that reactor running again, we'll have to
-     use a third of our antimatter reserves.
+<tr id="L202"><td><a href="#L202">202</a></td><td>TUCKER:  She's questioned your orders lots of times, but you've never locked her up before. You have to admit its a little out of the ordinary.</td></tr>
 
-  REED
-     Why so much?
+<tr id="L203"><td><a href="#L203">203</a></td><td>ARCHER:  These aren't ordinary circumstances. T'Pol refused a direct order in front of the crew. I can't have senior officers behaving like that, especially on a mission this important.</td></tr>
 
-  TUCKER
-     Every system on that ship is integrated. The only
-     way to bring biosupport back online is to power up
-     the whole thing.
+<tr id="L204"><td><a href="#L204">204</a></td><td>TUCKER:  Maybe you ought to confine me to quarters too, sir, because I'm still not sure we're doing the right thing here. If the roles were reversed I can't imagine these Xindi would do the same for us.</td></tr>
 
-  REED
-     That's not going to leave much antimatter for our
-     torpedoes, never mind our engines.
+<tr id="L205"><td><a href="#L205">205</a></td><td>ARCHER:  My great grandfather was in North Africa during the Eugenics Wars. His battalion was evacuating civilians from a war zone when they came under attack. There was a school full of children directly between them and the enemy. If his men had returned fire, they might have hit it. So he called the commander on the other side, and got him to agree to hold his fire long enough to evacuate the school. There are rules, Trip, even in war. We have to help these children.</td></tr>
 
-  T'POL
-     Did you inform the Captain?
+<tr><td></td><td>LOCATION--Armoury</td></tr>
+<tr id="L206"><td><a href="#L206">206</a></td><td>ANNOTATION: On the screen, an image of Enterprise chases an image of an Insectoid ship.</td></tr>
 
-  TUCKER
-     I wanted to run it by both of you first.
+<tr id="L207"><td><a href="#L207">207</a></td><td>REED:  This is what you wanted to show me, a battle simulation?</td></tr>
 
-  REED
-     I never imagined Captain Archer would put the
-     welfare of a few Xindi before his own people. Do
-     you know, he spent nearly two days in that
-     hatchery. From what I'm told, he hasn't stopped
-     working long enough to even sleep!
+<tr id="L208"><td><a href="#L208">208</a></td><td>HAYES:  Scenarios like this can tell us a lot about the enemy's tactical capabilities. Much more that we'd learn from a standard analysis.</td></tr>
 
-  T'POL
-     Delay the transfer for now.
+<tr id="L209"><td><a href="#L209">209</a></td><td>REED:  I asked you to look for weaknesses in their shields, not to play more games.</td></tr>
 
-  TUCKER
-     The Captain gave us an order.
+<tr id="L210"><td><a href="#L210">210</a></td><td>HAYES:  This isn't exactly a game, Lieutenant. The simulation found that they're vulnerable here. They've got minimal shielding around their impulse manifolds. A pair of torpedoes should be enough to take out the engines.</td></tr>
 
-  T'POL
-     I'll speak with him.
+<tr id="L211"><td><a href="#L211">211</a></td><td>REED:  Those manifolds are pretty narrow, but our targeting scanners should be able to get a lock. Nice work.</td></tr>
 
+<tr id="L212"><td><a href="#L212">212</a></td><td>HAYES:  Thank you, sir.</td></tr>
 
-LOCATION--Hatchery
+<tr id="L213"><td><a href="#L213">213</a></td><td>REED:  I apologise. I over-reacted. A lot of the crew's on edge lately.</td></tr>
 
-  ANNOTATION
-     Archer's still trying to repair a console, and
-     Hayes is standing guard
+<tr id="L214"><td><a href="#L214">214</a></td><td>HAYES:  They certainly are.</td></tr>
 
-  ARCHER
-     Where's Trip? Did you bring the antimatter?
+<tr id="L215"><td><a href="#L215">215</a></td><td>REED:  I heard things got pretty ugly down there.</td></tr>
 
-  T'POL
-     No.
+<tr id="L216"><td><a href="#L216">216</a></td><td>HAYES:  It's not every day I'm asked to confine a senior officer. I can't say I disagree with the Captain's decision. If one of my men disobeyed orders I'd throw him in the stockade.</td></tr>
 
-  ARCHER
-     What's the problem?
+<tr id="L217"><td><a href="#L217">217</a></td><td>REED:  I've got to get back to the Bridge. Let me know if your simulation finds anything else.</td></tr>
 
-  T'POL
-     Initialising their reactor will deplete our
-     reserves by over one third.
+<tr><td></td><td>LOCATION--Outside T'Pol's quarters</td></tr>
+<tr id="L218"><td><a href="#L218">218</a></td><td>TUCKER:  I need to see T'Pol.</td></tr>
 
-  ARCHER
-     We can spare it. We're only a few light years from
-     the red giant. We'll still have more than enough
-     fuel get there.
+<tr id="L219"><td><a href="#L219">219</a></td><td>CHANG:  She's not suppose to have any visitors, sir.</td></tr>
 
-  T'POL
-     We don't know for certain if the weapon is in that
-     system.
+<tr id="L220"><td><a href="#L220">220</a></td><td>TUCKER:  This isn't a social call. I'm here for my neuropressure treatment. Doctor's orders. You don't want me to bring Phlox down here, do you?</td></tr>
 
-  ARCHER
-     There are lives at risk here.
+<tr id="L221"><td><a href="#L221">221</a></td><td>ANNOTATION: Chang steps aside.</td></tr>
 
-  T'POL
-     Billions of lives are at risk on Earth if our
-     mission fails.
+<tr><td></td><td>LOCATION--T'Pol's quarters</td></tr>
+<tr id="L222"><td><a href="#L222">222</a></td><td>T'POL:  What's our status?</td></tr>
 
-  ARCHER
-     I'm well aware of that. These Xindi are innocent.
-     If we let them die, we'll be proving to the others
-     that they're right about us. I don't know much
-     about Vulcan ethics, but humans don't throw
-     morality out the window when things start getting
-     a little rough.
+<tr id="L223"><td><a href="#L223">223</a></td><td>TUCKER:  The antimatter's on it's way. I had a talk with him. Everything's going to be all right. This whole thing'll blow over in a day or two.</td></tr>
 
-  T'POL
-     Commander Tucker and Lieutenant Reed also believe
-     that this would compromise our mission.
+<tr id="L224"><td><a href="#L224">224</a></td><td>T'POL:  Our antimatter supply will be depleted by then. The Captain's behaviour is becoming increasingly illogical, even for a human. He's preoccupied with the hatchery, he's displaying signs of paranoia.</td></tr>
 
-  ARCHER
-     Your opinions have been noted. Now get back to
-     Enterprise and start the antimatter transfer.
+<tr id="L225"><td><a href="#L225">225</a></td><td>TUCKER:  I think you're overstating things just a little.</td></tr>
 
-  T'POL
-     I'm sorry, Captain. I can't obey that order.
+<tr id="L226"><td><a href="#L226">226</a></td><td>T'POL:  You can't allow him to use our antimatter.</td></tr>
 
-  ARCHER
-     You may not be wearing a uniform, but you can
-     still be charged with insubordination.
+<tr id="L227"><td><a href="#L227">227</a></td><td>TUCKER:  What do you suggest I do, start a mutiny?</td></tr>
 
-  T'POL
-     Perhaps we should contact Starfleet, and discuss
-     this with Admiral Forrest.
+<tr id="L228"><td><a href="#L228">228</a></td><td>T'POL:  You have to speak with Phlox. Ask him to run a full exam on the Captain.</td></tr>
 
-  ARCHER
-     You're relieved as First Officer. Major, escort
-     T'Pol back to the ship and confine her to her
-     quarters.
+<tr id="L229"><td><a href="#L229">229</a></td><td>TUCKER:  What good would that do?</td></tr>
 
-  HAYES
-     Sir?
+<tr id="L230"><td><a href="#L230">230</a></td><td>T'POL:  If the Doctor can find something wrong, we may have medical grounds to relieve him of command.</td></tr>
 
-  ARCHER
-     I gave you an order.
+<tr id="L231"><td><a href="#L231">231</a></td><td>TUCKER:  Relieve him? Look, I know you're upset about what happened, but I think you're taking this personally.</td></tr>
 
-  HAYES
-     Ma'am.
+<tr id="L232"><td><a href="#L232">232</a></td><td>T'POL:  How long before the reactor's brought online?</td></tr>
 
-  ANNOTATION
-     A glance from the Captain sends the gobsmacked
-     engineers scurrying back to work.
+<tr id="L233"><td><a href="#L233">233</a></td><td>TUCKER:  Assuming Hoshi can translate the interface, about twelve hours.</td></tr>
 
+<tr id="L234"><td><a href="#L234">234</a></td><td>T'POL:  You have to delay it until we can verify the Captain's mental state.</td></tr>
 
-LOCATION--Archer's quarters
+<tr id="L235"><td><a href="#L235">235</a></td><td>TUCKER:  If he finds out what we're doing, we'll both end up in the Brig. You're asking me to betray him.</td></tr>
 
-  ANNOTATION
-     Archer comes out of the bathroom, showered and
-     shaved, when the doorbell chimes.
+<tr id="L236"><td><a href="#L236">236</a></td><td>T'POL:  You can't allow your personal feelings for the Captain to affect your decision. We both know he's endangering this ship and our mission.</td></tr>
 
-  ARCHER
-     Come in.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L237"><td><a href="#L237">237</a></td><td>REED:  What is it?</td></tr>
 
-  TUCKER
-     The first shuttlepod's on it's way.
+<tr id="L238"><td><a href="#L238">238</a></td><td>TRAVIS:  A subspace vortex is opening off the port bow.</td></tr>
 
-  ARCHER
-     How long will it take to transfer the antimatter?
+<tr id="L239"><td><a href="#L239">239</a></td><td>REED:  Tactical alert. Captain Archer, report to the Bridge.</td></tr>
 
-  TUCKER
-     Using both shuttlepods, about four or five hours.
+<tr id="L240"><td><a href="#L240">240</a></td><td>HOSHI:  It's an insectoid, three biosigns aboard.</td></tr>
 
-  ARCHER
-     I didn't realise how badly I needed a shower. I've
-     spent too much time in that hatchery.
+<tr id="L241"><td><a href="#L241">241</a></td><td>TRAVIS:  They're firing.</td></tr>
 
-  TUCKER
-     If you're looking for a new first officer, you
-     should consider Malcolm. You're going to want
-     someone on the Bridge full time, and I'm a little
-     busy at the moment.
+<tr id="L242"><td><a href="#L242">242</a></td><td>ANNOTATION: Enterprise rocks to the impact.</td></tr>
 
-  ARCHER
-     I'm happy with the command structure the way it
-     is. This is only temporary. T'Pol just needed a
-     slap on the wrist.
+<tr id="L243"><td><a href="#L243">243</a></td><td>TRAVIS:  They're moving away at full impulse.</td></tr>
 
-  TUCKER
-     She's questioned your orders lots of times, but
-     you've never locked her up before. You have to
-     admit its a little out of the ordinary.
+<tr id="L244"><td><a href="#L244">244</a></td><td>REED:  Pursuit course. Arm phase cannons. Disable their engines.</td></tr>
 
-  ARCHER
-     These aren't ordinary circumstances. T'Pol refused
-     a direct order in front of the crew. I can't have
-     senior officers behaving like that, especially on
-     a mission this important.
+<tr id="L245"><td><a href="#L245">245</a></td><td>ANNOTATION: Two phase shots are fired.</td></tr>
 
-  TUCKER
-     Maybe you ought to confine me to quarters too,
-     sir, because I'm still not sure we're doing the
-     right thing here. If the roles were reversed I
-     can't imagine these Xindi would do the same for
-     us.
+<tr id="L246"><td><a href="#L246">246</a></td><td>TRAVIS:  No effect.</td></tr>
 
-  ARCHER
-     My great grandfather was in North Africa during
-     the Eugenics Wars. His battalion was evacuating
-     civilians from a war zone when they came under
-     attack. There was a school full of children
-     directly between them and the enemy. If his men
-     had returned fire, they might have hit it. So he
-     called the commander on the other side, and got
-     him to agree to hold his fire long enough to
-     evacuate the school. There are rules, Trip, even
-     in war. We have to help these children.
+<tr id="L247"><td><a href="#L247">247</a></td><td>HOSHI:  Their main deflector's charging. They could be trying to open a vortex.</td></tr>
 
+<tr id="L248"><td><a href="#L248">248</a></td><td>REED:  Torpedoes. Maximum yield. Target their impulse manifolds.</td></tr>
 
-LOCATION--Armoury
+<tr id="L249"><td><a href="#L249">249</a></td><td>OFFICER:  Ready.</td></tr>
 
-  ANNOTATION
-     On the screen, an image of Enterprise chases an
-     image of an Insectoid ship.
+<tr id="L250"><td><a href="#L250">250</a></td><td>REED:  Fire.</td></tr>
 
-  REED
-     This is what you wanted to show me, a battle
-     simulation?
+<tr id="L251"><td><a href="#L251">251</a></td><td>ANNOTATION: One torpedo misses, the other blows it to pieces just as Archer comes on deck.</td></tr>
 
-  HAYES
-     Scenarios like this can tell us a lot about the
-     enemy's tactical capabilities. Much more that we'd
-     learn from a standard analysis.
+<tr id="L252"><td><a href="#L252">252</a></td><td>ARCHER:  What the hell's going on?</td></tr>
 
-  REED
-     I asked you to look for weaknesses in their
-     shields, not to play more games.
+<tr id="L253"><td><a href="#L253">253</a></td><td>REED:  An insectoid ship, sir.</td></tr>
 
-  HAYES
-     This isn't exactly a game, Lieutenant. The
-     simulation found that they're vulnerable here.
-     They've got minimal shielding around their impulse
-     manifolds. A pair of torpedoes should be enough to
-     take out the engines.
+<tr id="L254"><td><a href="#L254">254</a></td><td>ARCHER:  You destroyed them?</td></tr>
 
-  REED
-     Those manifolds are pretty narrow, but our
-     targeting scanners should be able to get a lock.
-     Nice work.
+<tr id="L255"><td><a href="#L255">255</a></td><td>REED:  They were opening a vortex. They would have escaped.</td></tr>
 
-  HAYES
-     Thank you, sir.
+<tr id="L256"><td><a href="#L256">256</a></td><td>ARCHER:  The crew might have been able to take care of the hatchery.</td></tr>
 
-  REED
-     I apologise. I over-reacted. A lot of the crew's
-     on edge lately.
+<tr id="L257"><td><a href="#L257">257</a></td><td>REED:  Sir?</td></tr>
 
-  HAYES
-     They certainly are.
+<tr id="L258"><td><a href="#L258">258</a></td><td>ARCHER:  We could have kept our antimatter and continued the mission.</td></tr>
 
-  REED
-     I heard things got pretty ugly down there.
+<tr id="L259"><td><a href="#L259">259</a></td><td>REED:  They would have told their superiors, sir. Given away our position.</td></tr>
 
-  HAYES
-     It's not every day I'm asked to confine a senior
-     officer. I can't say I disagree with the Captain's
-     decision. If one of my men disobeyed orders I'd
-     throw him in the stockade.
+<tr id="L260"><td><a href="#L260">260</a></td><td>ARCHER:  If you'd explained to them why we were here, you might have avoided a fire fight.</td></tr>
 
-  REED
-     I've got to get back to the Bridge. Let me know if
-     your simulation finds anything else.
+<tr id="L261"><td><a href="#L261">261</a></td><td>REED:  With all due respect sir, they didn't seem particularly interested in talking.</td></tr>
 
+<tr id="L262"><td><a href="#L262">262</a></td><td>ARCHER:  Archer to Major Hayes.</td></tr>
 
-LOCATION--Outside T'Pol's quarters
+<tr id="L263"><td><a href="#L263">263</a></td><td>HAYES [OC]:  Go ahead, Captain.</td></tr>
 
-  TUCKER
-     I need to see T'Pol.
+<tr id="L264"><td><a href="#L264">264</a></td><td>ARCHER:  Report to my Ready room, on the double.</td></tr>
 
-  CHANG
-     She's not suppose to have any visitors, sir.
+<tr id="L265"><td><a href="#L265">265</a></td><td>HAYES [OC]:  Aye, sir.</td></tr>
 
-  TUCKER
-     This isn't a social call. I'm here for my
-     neuropressure treatment. Doctor's orders. You
-     don't want me to bring Phlox down here, do you?
+<tr id="L266"><td><a href="#L266">266</a></td><td>ARCHER:  I'm relieving you as Tactical officer. From now on, you'll report to Major Hayes.</td></tr>
 
-  ANNOTATION
-     Chang steps aside.
+<tr id="L267"><td><a href="#L267">267</a></td><td>REED:  I did what was necessary to protect this ship and its mission.</td></tr>
 
+<tr id="L268"><td><a href="#L268">268</a></td><td>ARCHER:  You'll be confined to quarters until further notice.</td></tr>
 
-LOCATION--T'Pol's quarters
+<tr id="L269"><td><a href="#L269">269</a></td><td>REED:  Captain.</td></tr>
 
-  T'POL
-     What's our status?
+<tr id="L270"><td><a href="#L270">270</a></td><td>ARCHER:  Dismissed.</td></tr>
 
-  TUCKER
-     The antimatter's on it's way. I had a talk with
-     him. Everything's going to be all right. This
-     whole thing'll blow over in a day or two.
+<tr id="L271"><td><a href="#L271">271</a></td><td>REED:  Yes, sir.</td></tr>
 
-  T'POL
-     Our antimatter supply will be depleted by then.
-     The Captain's behaviour is becoming increasingly
-     illogical, even for a human. He's preoccupied with
-     the hatchery, he's displaying signs of paranoia.
+<tr id="L272"><td><a href="#L272">272</a></td><td>ANNOTATION: Reed leaves.</td></tr>
 
-  TUCKER
-     I think you're overstating things just a little.
+<tr id="L273"><td><a href="#L273">273</a></td><td>ARCHER:  Are you done with that translation?</td></tr>
 
-  T'POL
-     You can't allow him to use our antimatter.
+<tr id="L274"><td><a href="#L274">274</a></td><td>HOSHI:  Almost.</td></tr>
 
-  TUCKER
-     What do you suggest I do, start a mutiny?
+<tr id="L275"><td><a href="#L275">275</a></td><td>ARCHER:  I want you to put together a distress call in the Insectoid language. Transmit it on all frequencies as soon as you're ready.</td></tr>
 
-  T'POL
-     You have to speak with Phlox. Ask him to run a
-     full exam on the Captain.
+<tr id="L276"><td><a href="#L276">276</a></td><td>HOSHI:  Understood.</td></tr>
 
-  TUCKER
-     What good would that do?
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L277"><td><a href="#L277">277</a></td><td>ARCHER:  There's nothing more important than the success of this mission. Do you agree, Major?</td></tr>
 
-  T'POL
-     If the Doctor can find something wrong, we may
-     have medical grounds to relieve him of command.
+<tr id="L278"><td><a href="#L278">278</a></td><td>HAYES:  Of course, sir.</td></tr>
 
-  TUCKER
-     Relieve him? Look, I know you're upset about what
-     happened, but I think you're taking this
-     personally.
+<tr id="L279"><td><a href="#L279">279</a></td><td>ARCHER:  My senior officers don't seem to understand what I'm trying to do here. I guess I have myself to blame. In the past, I've encouraged them to ask questions, but we don't have time for that now. I need officers who respect the chain of command and can follow orders.</td></tr>
 
-  T'POL
-     How long before the reactor's brought online?
+<tr id="L280"><td><a href="#L280">280</a></td><td>HAYES:  It won't be a problem, sir.</td></tr>
 
-  TUCKER
-     Assuming Hoshi can translate the interface, about
-     twelve hours.
+<tr id="L281"><td><a href="#L281">281</a></td><td>ARCHER:  I thought what happened with T'Pol might have been an isolated incident, but I'm not so sure now. Lieutenant Reed destroyed a ship that could have helped us. I'm starting to wonder if he deliberately tried to sabotage this mission. You're in command while I'm on the surface. You answer to me, and me alone. Is that understood, Major?</td></tr>
 
-  T'POL
-     You have to delay it until we can verify the
-     Captain's mental state.
+<tr id="L282"><td><a href="#L282">282</a></td><td>HAYES:  Perfectly, sir.</td></tr>
 
-  TUCKER
-     If he finds out what we're doing, we'll both end
-     up in the Brig. You're asking me to betray him.
+<tr id="L283"><td><a href="#L283">283</a></td><td>ARCHER:  That'll be all.</td></tr>
 
-  T'POL
-     You can't allow your personal feelings for the
-     Captain to affect your decision. We both know he's
-     endangering this ship and our mission.
+<tr><td></td><td>LOCATION--Launch bay</td></tr>
+<tr id="L284"><td><a href="#L284">284</a></td><td>TUCKER:  Can we talk to you for a minute, sir?</td></tr>
 
+<tr id="L285"><td><a href="#L285">285</a></td><td>ANNOTATION: Archer is loading canisters into Shuttlepod One.</td></tr>
 
-LOCATION--Bridge
+<tr id="L286"><td><a href="#L286">286</a></td><td>ARCHER:  What is it?</td></tr>
 
-  REED
-     What is it?
+<tr id="L287"><td><a href="#L287">287</a></td><td>TUCKER:  I'd like you to go to Sickbay with Phlox.</td></tr>
 
-  TRAVIS
-     A subspace vortex is opening off the port bow.
+<tr id="L288"><td><a href="#L288">288</a></td><td>ARCHER:  Do I look sick to you?</td></tr>
 
-  REED
-     Tactical alert. Captain Archer, report to the
-     Bridge.
+<tr id="L289"><td><a href="#L289">289</a></td><td>TUCKER:  Hoshi says you ordered her to transmit a distress call.</td></tr>
 
-  HOSHI
-     It's an insectoid, three biosigns aboard.
+<tr id="L290"><td><a href="#L290">290</a></td><td>ARCHER:  That's right.</td></tr>
 
-  TRAVIS
-     They're firing.
+<tr id="L291"><td><a href="#L291">291</a></td><td>TUCKER:  Don't you think that's a little dangerous?</td></tr>
 
-  ANNOTATION
-     Enterprise rocks to the impact.
+<tr id="L292"><td><a href="#L292">292</a></td><td>ARCHER:  We'll be light years from here before the Xindi respond to it.</td></tr>
 
-  TRAVIS
-     They're moving away at full impulse.
+<tr id="L293"><td><a href="#L293">293</a></td><td>TUCKER:  We don't know how far away their ships are. If we send that message we'll be taking a hell of a risk.</td></tr>
 
-  REED
-     Pursuit course. Arm phase cannons. Disable their
-     engines.
+<tr id="L294"><td><a href="#L294">294</a></td><td>ARCHER:  We can't afford to play it safe anymore. This mission's too important.</td></tr>
 
-  ANNOTATION
-     Two phase shots are fired.
+<tr id="L295"><td><a href="#L295">295</a></td><td>TUCKER:  This mission is to save Earth, not an alien hatchery.</td></tr>
 
-  TRAVIS
-     No effect.
+<tr id="L296"><td><a href="#L296">296</a></td><td>PHLOX:  Captain, you haven't eaten or slept in almost two days. You've shown signs of obsessional behaviour and paranoia.</td></tr>
 
-  HOSHI
-     Their main deflector's charging. They could be
-     trying to open a vortex.
+<tr id="L297"><td><a href="#L297">297</a></td><td>ARCHER:  If it'll make the two of you feel better, I'll go to Sickbay for a complete physical as soon as that reactor's online.</td></tr>
 
-  REED
-     Torpedoes. Maximum yield. Target their impulse
-     manifolds.
+<tr id="L298"><td><a href="#L298">298</a></td><td>TUCKER:  That's not good enough, sir. Phlox has the authority to order you to Sickbay.</td></tr>
 
-  OFFICER
-     Ready.
+<tr id="L299"><td><a href="#L299">299</a></td><td>ARCHER:  T'Pol's manipulating you, isn't she. If I'm declared unfit for duty, then she takes over.</td></tr>
 
-  REED
-     Fire.
+<tr id="L300"><td><a href="#L300">300</a></td><td>PHLOX:  Captain, if you won't come with me then I'll be required under Starfleet order 104 section C to relieve you of command.</td></tr>
 
-  ANNOTATION
-     One torpedo misses, the other blows it to pieces
-     just as Archer comes on deck.
+<tr id="L301"><td><a href="#L301">301</a></td><td>ARCHER:  I expected something like this from her, but not from the two of you. Corporal.</td></tr>
 
-  ARCHER
-     What the hell's going on?
+<tr id="L302"><td><a href="#L302">302</a></td><td>ANNOTATION: A MACO comes from around the corner.</td></tr>
 
-  REED
-     An insectoid ship, sir.
+<tr id="L303"><td><a href="#L303">303</a></td><td>ARCHER:  I've already confined two senior officers today.</td></tr>
 
-  ARCHER
-     You destroyed them?
+<tr id="L304"><td><a href="#L304">304</a></td><td>ANNOTATION: As they leave, Phlox checks the medical scanner he had hidden in his pocket.</td></tr>
 
-  REED
-     They were opening a vortex. They would have
-     escaped.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L305"><td><a href="#L305">305</a></td><td>ANNOTATION: Looking at the results of the scan on the overhead monitor.</td></tr>
 
-  ARCHER
-     The crew might have been able to take care of the
-     hatchery.
+<tr id="L306"><td><a href="#L306">306</a></td><td>PHLOX:  His neurochemistry appears normal.</td></tr>
 
-  REED
-     Sir?
+<tr id="L307"><td><a href="#L307">307</a></td><td>TUCKER:  There's nothing wrong with him?</td></tr>
 
-  ARCHER
-     We could have kept our antimatter and continued
-     the mission.
+<tr id="L308"><td><a href="#L308">308</a></td><td>PHLOX:  This scan is hardly conclusive. I'll need to get him into the imaging chamber and run a complete neurological series.</td></tr>
 
-  REED
-     They would have told their superiors, sir. Given
-     away our position.
+<tr id="L309"><td><a href="#L309">309</a></td><td>TUCKER:  When Hoshi sends that distress call, every Xindi ship that picks it up will start heading this way. He's got Hayes on the Bridge, MACOs posted all over the ship. Whatever we do, we're going to have to do it fast.</td></tr>
 
-  ARCHER
-     If you'd explained to them why we were here, you
-     might have avoided a fire fight.
+<tr id="L310"><td><a href="#L310">310</a></td><td>PHLOX:  What are you proposing, Commander?</td></tr>
 
-  REED
-     With all due respect sir, they didn't seem
-     particularly interested in talking.
+<tr id="L311"><td><a href="#L311">311</a></td><td>TUCKER:  I think it's time we throw the rule book out the window.</td></tr>
 
-  ARCHER
-     Archer to Major Hayes.
+<tr><td></td><td>LOCATION--Hatchery</td></tr>
+<tr id="L312"><td><a href="#L312">312</a></td><td>CREWMAN:  Captain.</td></tr>
 
-  HAYES [OC]
-     Go ahead, Captain.
+<tr id="L313"><td><a href="#L313">313</a></td><td>ANNOTATION: Some eggs are starting to hatch.</td></tr>
 
-  ARCHER
-     Report to my Ready room, on the double.
+<tr><td></td><td>LOCATION--Outside T'Pol's quarters</td></tr>
+<tr id="L314"><td><a href="#L314">314</a></td><td>ANNOTATION: Tucker is clutching his shoulder and looking uncomfortable.</td></tr>
 
-  HAYES [OC]
-     Aye, sir.
+<tr id="L315"><td><a href="#L315">315</a></td><td>CHANG:  I'm sorry sir, no visitors.</td></tr>
 
-  ARCHER
-     I'm relieving you as Tactical officer. From now
-     on, you'll report to Major Hayes.
+<tr id="L316"><td><a href="#L316">316</a></td><td>TUCKER:  You let me in before.</td></tr>
 
-  REED
-     I did what was necessary to protect this ship and
-     its mission.
+<tr id="L317"><td><a href="#L317">317</a></td><td>CHANG:  I have new orders from Major Hayes.</td></tr>
 
-  ARCHER
-     You'll be confined to quarters until further
-     notice.
+<tr id="L318"><td><a href="#L318">318</a></td><td>TUCKER:  Look, T'Pol was a little rough with me during the last session. I think she caused some nerve damage.</td></tr>
 
-  REED
-     Captain.
+<tr id="L319"><td><a href="#L319">319</a></td><td>CHANG:  You'll have to speak with the Major, sir.</td></tr>
 
-  ARCHER
-     Dismissed.
+<tr id="L320"><td><a href="#L320">320</a></td><td>ANNOTATION: We see Reed and Phlox sneaking down the corridor while Chang is distracted.</td></tr>
 
-  REED
-     Yes, sir.
+<tr id="L321"><td><a href="#L321">321</a></td><td>TUCKER:  This is a Starfleet ship. I don't have to ask Major Hayes for anything.</td></tr>
 
-  ANNOTATION
-     Reed leaves.
+<tr id="L322"><td><a href="#L322">322</a></td><td>CHANG:  Step away, sir.</td></tr>
 
-  ARCHER
-     Are you done with that translation?
+<tr id="L323"><td><a href="#L323">323</a></td><td>ANNOTATION: Reed is holding a phase pistol.</td></tr>
 
-  HOSHI
-     Almost.
+<tr id="L324"><td><a href="#L324">324</a></td><td>REED:  Stand down, Corporal.</td></tr>
 
-  ARCHER
-     I want you to put together a distress call in the
-     Insectoid language. Transmit it on all frequencies
-     as soon as you're ready.
+<tr id="L325"><td><a href="#L325">325</a></td><td>ANNOTATION: Phlox injects Chang.</td></tr>
 
-  HOSHI
-     Understood.
+<tr><td></td><td>LOCATION--T'Pol's quarters</td></tr>
+<tr id="L326"><td><a href="#L326">326</a></td><td>TUCKER:  The Captain gave Hayes control of the Bridge, posted MACOs on every deck.</td></tr>
 
+<tr id="L327"><td><a href="#L327">327</a></td><td>T'POL:  Is he still on the surface?</td></tr>
 
-LOCATION--Ready room
+<tr id="L328"><td><a href="#L328">328</a></td><td>TUCKER:  Yeah.</td></tr>
 
-  ARCHER
-     There's nothing more important than the success of
-     this mission. Do you agree, Major?
+<tr id="L329"><td><a href="#L329">329</a></td><td>T'POL:  Retrieving him and the antimatter should be the priority.</td></tr>
 
-  HAYES
-     Of course, sir.
+<tr id="L330"><td><a href="#L330">330</a></td><td>REED:  I'd advise securing the Bridge first. If Hayes gets wind of this we could have a fire-fight on our hands.</td></tr>
 
-  ARCHER
-     My senior officers don't seem to understand what
-     I'm trying to do here. I guess I have myself to
-     blame. In the past, I've encouraged them to ask
-     questions, but we don't have time for that now. I
-     need officers who respect the chain of command and
-     can follow orders.
+<tr id="L331"><td><a href="#L331">331</a></td><td>PHLOX:  Perhaps we should approach the Major and explain the situation. He seems like a reasonable man.</td></tr>
 
-  HAYES
-     It won't be a problem, sir.
+<tr id="L332"><td><a href="#L332">332</a></td><td>REED:  That would be risky. If Hayes sides with the Captain, this mutiny will be over before it begins.</td></tr>
 
-  ARCHER
-     I thought what happened with T'Pol might have been
-     an isolated incident, but I'm not so sure now.
-     Lieutenant Reed destroyed a ship that could have
-     helped us. I'm starting to wonder if he
-     deliberately tried to sabotage this mission.
-     You're in command while I'm on the surface. You
-     answer to me, and me alone. Is that understood,
-     Major?
+<tr id="L333"><td><a href="#L333">333</a></td><td>T'POL:  We'll need more people. Who's on duty in the Armoury?</td></tr>
 
-  HAYES
-     Perfectly, sir.
+<tr id="L334"><td><a href="#L334">334</a></td><td>REED:  Ensign Walsh and two of my men. They'll side with us, but Hayes posted two MACO there.</td></tr>
 
-  ARCHER
-     That'll be all.
+<tr><td></td><td>LOCATION--Hatchery</td></tr>
+<tr id="L335"><td><a href="#L335">335</a></td><td>ANNOTATION: Lots of the eggs are starting to jiggle.</td></tr>
 
+<tr id="L336"><td><a href="#L336">336</a></td><td>ARCHER:  Take the shuttlepod back to Enterprise.</td></tr>
 
-LOCATION--Launch bay
+<tr id="L337"><td><a href="#L337">337</a></td><td>CREWMAN:  What about you, sir?</td></tr>
 
-  TUCKER
-     Can we talk to you for a minute, sir?
+<tr id="L338"><td><a href="#L338">338</a></td><td>ARCHER:  You heard me.</td></tr>
 
-  ANNOTATION
-     Archer is loading canisters into Shuttlepod One.
+<tr id="L339"><td><a href="#L339">339</a></td><td>ANNOTATION: The two crewmen pick up the boxes and go.</td></tr>
 
-  ARCHER
-     What is it?
+<tr><td></td><td>LOCATION--Armoury</td></tr>
+<tr id="L340"><td><a href="#L340">340</a></td><td>ANNOTATION: T'Pol comes down the steps in a Starfleet uniform and baseball cap, then neck pinches one MACO.</td></tr>
 
-  TUCKER
-     I'd like you to go to Sickbay with Phlox.
+<tr id="L341"><td><a href="#L341">341</a></td><td>REED:  Hold it. Sorry.</td></tr>
 
-  ARCHER
-     Do I look sick to you?
+<tr id="L342"><td><a href="#L342">342</a></td><td>ANNOTATION: He stuns at other MACO.</td></tr>
 
-  TUCKER
-     Hoshi says you ordered her to transmit a distress
-     call.
+<tr id="L343"><td><a href="#L343">343</a></td><td>TUCKER:  That's going to leave a bruise.</td></tr>
 
-  ARCHER
-     That's right.
+<tr id="L344"><td><a href="#L344">344</a></td><td>ANNOTATION: They all arm themselves.</td></tr>
 
-  TUCKER
-     Don't you think that's a little dangerous?
+<tr id="L345"><td><a href="#L345">345</a></td><td>TUCKER:  All right? You're with me.</td></tr>
 
-  ARCHER
-     We'll be light years from here before the Xindi
-     respond to it.
+<tr id="L346"><td><a href="#L346">346</a></td><td>WALSH:  Yes, sir.</td></tr>
 
-  TUCKER
-     We don't know how far away their ships are. If we
-     send that message we'll be taking a hell of a
-     risk.
+<tr id="L347"><td><a href="#L347">347</a></td><td>ANNOTATION: Walsh and Tucker transport themselves into the crashed ship.</td></tr>
 
-  ARCHER
-     We can't afford to play it safe anymore. This
-     mission's too important.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L348"><td><a href="#L348">348</a></td><td>ANNOTATION: Seeing two MACO by the turbolift.</td></tr>
 
-  TUCKER
-     This mission is to save Earth, not an alien
-     hatchery.
+<tr id="L349"><td><a href="#L349">349</a></td><td>REED:  Well, we won't get to the Bridge this way.</td></tr>
 
-  PHLOX
-     Captain, you haven't eaten or slept in almost two
-     days. You've shown signs of obsessional behaviour
-     and paranoia.
+<tr id="L350"><td><a href="#L350">350</a></td><td>ANNOTATION: The four head to an access ladder instead.</td></tr>
 
-  ARCHER
-     If it'll make the two of you feel better, I'll go
-     to Sickbay for a complete physical as soon as that
-     reactor's online.
+<tr><td></td><td>LOCATION--Hatchery</td></tr>
+<tr id="L351"><td><a href="#L351">351</a></td><td>ANNOTATION: The hatch opens and Tucker throws in a stun grenade to knock out the MACOs in the airlock before heading into the main chamber.</td></tr>
 
-  TUCKER
-     That's not good enough, sir. Phlox has the
-     authority to order you to Sickbay.
+<tr id="L352"><td><a href="#L352">352</a></td><td>TUCKER:  Captain!</td></tr>
 
-  ARCHER
-     T'Pol's manipulating you, isn't she. If I'm
-     declared unfit for duty, then she takes over.
+<tr id="L353"><td><a href="#L353">353</a></td><td>ANNOTATION: There are young Insectoids running around the floor.</td></tr>
 
-  PHLOX
-     Captain, if you won't come with me then I'll be
-     required under Starfleet order 104 section C to
-     relieve you of command.
+<tr id="L354"><td><a href="#L354">354</a></td><td>TUCKER:  Captain, it's Trip!</td></tr>
 
-  ARCHER
-     I expected something like this from her, but not
-     from the two of you. Corporal.
+<tr id="L355"><td><a href="#L355">355</a></td><td>ARCHER:  You shouldn't have weapons in here.</td></tr>
 
-  ANNOTATION
-     A MACO comes from around the corner.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L356"><td><a href="#L356">356</a></td><td>HAYES:  Go ahead.</td></tr>
 
-  ARCHER
-     I've already confined two senior officers today.
+<tr id="L357"><td><a href="#L357">357</a></td><td>HAWKINGS [OC]:  Major, Corporal Chang's been found unconscious in T'Pol's quarters.</td></tr>
 
-  ANNOTATION
-     As they leave, Phlox checks the medical scanner he
-     had hidden in his pocket.
+<tr id="L358"><td><a href="#L358">358</a></td><td>HAYES:  Where's T'Pol?</td></tr>
 
+<tr id="L359"><td><a href="#L359">359</a></td><td>HAWKINGS [OC]:  Not here, sir.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L360"><td><a href="#L360">360</a></td><td>HAYES:  Hayes to the Armoury. Armoury, respond.</td></tr>
 
-  ANNOTATION
-     Looking at the results of the scan on the overhead
-     monitor.
+<tr id="L361"><td><a href="#L361">361</a></td><td>ANNOTATION: He nods to the MACO at Tactical who leaves his post, then the Bridge doors open at the side and in the Situation room. There's a standoff between the mutineers and the MACOs, particularly Reed and Hayes with pistols aimed at each other's heads.</td></tr>
 
-  PHLOX
-     His neurochemistry appears normal.
+<tr id="L362"><td><a href="#L362">362</a></td><td>REED:  Stand down!</td></tr>
 
-  TUCKER
-     There's nothing wrong with him?
+<tr id="L363"><td><a href="#L363">363</a></td><td>HAYES:  You intend to shoot me, Lieutenant?</td></tr>
 
-  PHLOX
-     This scan is hardly conclusive. I'll need to get
-     him into the imaging chamber and run a complete
-     neurological series.
+<tr id="L364"><td><a href="#L364">364</a></td><td>REED:  Tell them to stand down.</td></tr>
 
-  TUCKER
-     When Hoshi sends that distress call, every Xindi
-     ship that picks it up will start heading this way.
-     He's got Hayes on the Bridge, MACOs posted all
-     over the ship. Whatever we do, we're going to have
-     to do it fast.
+<tr id="L365"><td><a href="#L365">365</a></td><td>HAYES:  The Captain relieved you of duty. Both of you.</td></tr>
 
-  PHLOX
-     What are you proposing, Commander?
+<tr id="L366"><td><a href="#L366">366</a></td><td>T'POL:  We don't want anyone injured. Put down your weapons.</td></tr>
 
-  TUCKER
-     I think it's time we throw the rule book out the
-     window.
+<tr id="L367"><td><a href="#L367">367</a></td><td>HAYES:  Until the Captain says otherwise, I give the orders on this Bridge.</td></tr>
 
+<tr><td></td><td>LOCATION--Hatchery</td></tr>
+<tr id="L368"><td><a href="#L368">368</a></td><td>ARCHER:  Go back to the ship.</td></tr>
 
-LOCATION--Hatchery
+<tr id="L369"><td><a href="#L369">369</a></td><td>TUCKER:  You have to come with us.</td></tr>
 
-  CREWMAN
-     Captain.
+<tr id="L370"><td><a href="#L370">370</a></td><td>ANNOTATION: An Insectoid leaves it's egg and crawls over Archer.</td></tr>
 
-  ANNOTATION
-     Some eggs are starting to hatch.
+<tr id="L371"><td><a href="#L371">371</a></td><td>TUCKER:  Captain!</td></tr>
 
+<tr id="L372"><td><a href="#L372">372</a></td><td>ARCHER:  Shush. It's all right.</td></tr>
 
-LOCATION--Outside T'Pol's quarters
+<tr id="L373"><td><a href="#L373">373</a></td><td>ANNOTATION: A second baby climbs onto him, and a third. Tucker stuns him.</td></tr>
 
-  ANNOTATION
-     Tucker is clutching his shoulder and looking
-     uncomfortable.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L374"><td><a href="#L374">374</a></td><td>HAYES:  Contact the Captain.</td></tr>
 
-  CHANG
-     I'm sorry sir, no visitors.
+<tr id="L375"><td><a href="#L375">375</a></td><td>T'POL:  Belay that.</td></tr>
 
-  TUCKER
-     You let me in before.
+<tr id="L376"><td><a href="#L376">376</a></td><td>HAYES:  I gave you a direct order, Ensign.</td></tr>
 
-  CHANG
-     I have new orders from Major Hayes.
+<tr id="L377"><td><a href="#L377">377</a></td><td>HOSHI:  I'm sorry, Major.</td></tr>
 
-  TUCKER
-     Look, T'Pol was a little rough with me during the
-     last session. I think she caused some nerve
-     damage.
+<tr id="L378"><td><a href="#L378">378</a></td><td>ANNOTATION: Hayes starts to back up to open a comm. channel himself, and Travis jumps him. One Starfleet and two MACOs get stunned. Reed holds a pistol to Hayes' head.</td></tr>
 
-  CHANG
-     You'll have to speak with the Major, sir.
+<tr id="L379"><td><a href="#L379">379</a></td><td>REED:  It's over, Major. Take him to his quarters.</td></tr>
 
-  ANNOTATION
-     We see Reed and Phlox sneaking down the corridor
-     while Chang is distracted.
+<tr id="L380"><td><a href="#L380">380</a></td><td>TRAVIS:  Aye, sir.</td></tr>
 
-  TUCKER
-     This is a Starfleet ship. I don't have to ask
-     Major Hayes for anything.
+<tr id="L381"><td><a href="#L381">381</a></td><td>HOSHI:  It's Commander Tucker.</td></tr>
 
-  CHANG
-     Step away, sir.
+<tr id="L382"><td><a href="#L382">382</a></td><td>T'POL:  Put him through. Go ahead.</td></tr>
 
-  ANNOTATION
-     Reed is holding a phase pistol.
+<tr id="L383"><td><a href="#L383">383</a></td><td>TUCKER [OC]:  We've got the Captain. What's going on up there?</td></tr>
 
-  REED
-     Stand down, Corporal.
+<tr id="L384"><td><a href="#L384">384</a></td><td>T'POL:  The Bridge is secure.</td></tr>
 
-  ANNOTATION
-     Phlox injects Chang.
+<tr><td></td><td>LOCATION--Hatchery</td></tr>
+<tr id="L385"><td><a href="#L385">385</a></td><td>TUCKER:  Tell Phlox to get the imaging chamber ready. We've got a patient for him.</td></tr>
 
+<tr id="L386"><td><a href="#L386">386</a></td><td>T'POL [OC]:  Acting Captain's starlog, supplemental. We've resumed our course for Azati Prime. Major Hayes and his men have been temporarily relieved of duty. Doctor Phlox believes he has found an explanation for the Captain's behaviour.</td></tr>
 
-LOCATION--T'Pol's quarters
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L387"><td><a href="#L387">387</a></td><td>HAYES:  Where is he?</td></tr>
 
-  TUCKER
-     The Captain gave Hayes control of the Bridge,
-     posted MACOs on every deck.
+<tr id="L388"><td><a href="#L388">388</a></td><td>PHLOX:  In his quarters, resting. Do you recall when the Captain was attacked by one of the eggs?</td></tr>
 
-  T'POL
-     Is he still on the surface?
+<tr id="L389"><td><a href="#L389">389</a></td><td>HAYES:  It sprayed something in his face.</td></tr>
 
-  TUCKER
-     Yeah.
+<tr id="L390"><td><a href="#L390">390</a></td><td>PHLOX:  I thought it was a defence reflex, but it was actually something far more sophisticated. The substance contained a unique neurochemical. It infiltrated the Captain's synaptic pathways, causing him to reverse imprint on the baby insectoids. It's the opposite of what happens when a young animal bonds with its mother.</td></tr>
 
-  T'POL
-     Retrieving him and the antimatter should be the
-     priority.
+<tr id="L391"><td><a href="#L391">391</a></td><td>HAYES:  Are you saying he thought he was the mother of those things?</td></tr>
 
-  REED
-     I'd advise securing the Bridge first. If Hayes
-     gets wind of this we could have a fire-fight on
-     our hands.
+<tr id="L392"><td><a href="#L392">392</a></td><td>PHLOX:  Well, more likely a caretaker. Of course, the Captain didn't realise this on a conscious level. Eventually he became obsessed with protecting the eggs to the exclusion of everything else.</td></tr>
 
-  PHLOX
-     Perhaps we should approach the Major and explain
-     the situation. He seems like a reasonable man.
+<tr id="L393"><td><a href="#L393">393</a></td><td>T'POL:  Including our mission.</td></tr>
 
-  REED
-     That would be risky. If Hayes sides with the
-     Captain, this mutiny will be over before it
-     begins.
+<tr id="L394"><td><a href="#L394">394</a></td><td>HAYES:  I'd like to speak with him, if you don't mind.</td></tr>
 
-  T'POL
-     We'll need more people. Who's on duty in the
-     Armoury?
+<tr id="L395"><td><a href="#L395">395</a></td><td>PHLOX:  He'll be awake in a few hours. He should be fully recovered by then.</td></tr>
 
-  REED
-     Ensign Walsh and two of my men. They'll side with
-     us, but Hayes posted two MACO there.
+<tr id="L396"><td><a href="#L396">396</a></td><td>T'POL:  I want you and your men to return to duty.</td></tr>
 
+<tr id="L397"><td><a href="#L397">397</a></td><td>HAYES:  Yes, ma'am.</td></tr>
 
-LOCATION--Hatchery
+<tr id="L398"><td><a href="#L398">398</a></td><td>ANNOTATION: T'Pol and Trip leave.</td></tr>
 
-  ANNOTATION
-     Lots of the eggs are starting to jiggle.
+<tr id="L399"><td><a href="#L399">399</a></td><td>HAYES:  Not the sort of thing they trained us for at West Point.</td></tr>
 
-  ARCHER
-     Take the shuttlepod back to Enterprise.
+<tr id="L400"><td><a href="#L400">400</a></td><td>REED:  I imagine not.</td></tr>
 
-  CREWMAN
-     What about you, sir?
+<tr id="L401"><td><a href="#L401">401</a></td><td>HAYES:  You could have come to me, explained the situation.</td></tr>
 
-  ARCHER
-     You heard me.
+<tr id="L402"><td><a href="#L402">402</a></td><td>REED:  We couldn't take the chance that you'd side with the Captain.</td></tr>
 
-  ANNOTATION
-     The two crewmen pick up the boxes and go.
+<tr id="L403"><td><a href="#L403">403</a></td><td>HAYES:  I probably would have.</td></tr>
 
+<tr id="L404"><td><a href="#L404">404</a></td><td>REED:  Yeah.</td></tr>
 
-LOCATION--Armoury
+<tr><td></td><td>LOCATION--Archer's quarters</td></tr>
+<tr id="L405"><td><a href="#L405">405</a></td><td>ANNOTATION: The room is darkened, Archer is dozing with Porthos by his side when the doorbell chimes.</td></tr>
 
-  ANNOTATION
-     T'Pol comes down the steps in a Starfleet uniform
-     and baseball cap, then neck pinches one MACO.
+<tr id="L406"><td><a href="#L406">406</a></td><td>ARCHER:  Come in.</td></tr>
 
-  REED
-     Hold it. Sorry.
+<tr id="L407"><td><a href="#L407">407</a></td><td>TUCKER:  I didn't mean to wake you, sir.</td></tr>
 
-  ANNOTATION
-     He stuns at other MACO.
+<tr id="L408"><td><a href="#L408">408</a></td><td>ARCHER:  It's all right, I was getting up anyway.</td></tr>
 
-  TUCKER
-     That's going to leave a bruise.
+<tr id="L409"><td><a href="#L409">409</a></td><td>TUCKER:  How are you feeling?</td></tr>
 
-  ANNOTATION
-     They all arm themselves.
+<tr id="L410"><td><a href="#L410">410</a></td><td>ARCHER:  Oh, I've been better. Are you sure you had that pistol set to stun?</td></tr>
 
-  TUCKER
-     All right? You're with me.
+<tr id="L411"><td><a href="#L411">411</a></td><td>TUCKER:  Captain. I hope you understand, if there'd been any other way</td></tr>
 
-  WALSH
-     Yes, sir.
+<tr id="L412"><td><a href="#L412">412</a></td><td>ARCHER:  You were protecting our mission, Trip. I would have done the same thing.</td></tr>
 
-  ANNOTATION
-     Walsh and Tucker transport themselves into the
-     crashed ship.
+<tr id="L413"><td><a href="#L413">413</a></td><td>TUCKER:  Still, I never thought I'd find myself pointing a weapon at you, no matter what the circumstances.</td></tr>
 
+<tr id="L414"><td><a href="#L414">414</a></td><td>ARCHER:  Let's put this behind us, okay?</td></tr>
 
-LOCATION--Corridor
+<tr id="L415"><td><a href="#L415">415</a></td><td>TUCKER:  Yes, sir.</td></tr>
 
-  ANNOTATION
-     Seeing two MACO by the turbolift.
+<tr id="L416"><td><a href="#L416">416</a></td><td>ARCHER:  What's our status?</td></tr>
 
-  REED
-     Well, we won't get to the Bridge this way.
+<tr id="L417"><td><a href="#L417">417</a></td><td>TUCKER:  We just recovered the last of our antimatter reserves.</td></tr>
 
-  ANNOTATION
-     The four head to an access ladder instead.
+<tr id="L418"><td><a href="#L418">418</a></td><td>ARCHER:  The hatchlings?</td></tr>
 
+<tr id="L419"><td><a href="#L419">419</a></td><td>TUCKER:  Phlox says there's nineteen of them running around down there. Chances are they'll survive until the next Xindi ship comes along.</td></tr>
 
-LOCATION--Hatchery
+<tr id="L420"><td><a href="#L420">420</a></td><td>ARCHER:  It's time we got back on the road. I want you at your post. We're going to be pushing the engines pretty hard. I'll be on the Bridge.</td></tr>
 
-  ANNOTATION
-     The hatch opens and Tucker throws in a stun
-     grenade to knock out the MACOs in the airlock
-     before heading into the main chamber.
+<tr id="L421"><td><a href="#L421">421</a></td><td>TUCKER:  Aren't you supposed to get some rest?</td></tr>
 
-  TUCKER
-     Captain!
+<tr id="L422"><td><a href="#L422">422</a></td><td>ARCHER:  I've had plenty.</td></tr>
 
-  ANNOTATION
-     There are young Insectoids running around the
-     floor.
+<tr id="L423"><td><a href="#L423">423</a></td><td>TUCKER:  I'm sorry, sir, but the Doctor was insistent.</td></tr>
 
-  TUCKER
-     Captain, it's Trip!
+<tr id="L424"><td><a href="#L424">424</a></td><td>ARCHER:  Okay. I guess I don't want another mutiny on my hands. Tell Travis to set a course for Azati Prime, maximum warp.</td></tr>
 
-  ARCHER
-     You shouldn't have weapons in here.
+<tr id="L425"><td><a href="#L425">425</a></td><td>TUCKER:  Right away, sir.</td></tr>
 
-
-LOCATION--Bridge
-
-  HAYES
-     Go ahead.
-
-  HAWKINGS [OC]
-     Major, Corporal Chang's been found unconscious in
-     T'Pol's quarters.
-
-  HAYES
-     Where's T'Pol?
-
-  HAWKINGS [OC]
-     Not here, sir.
-
-  HAYES
-     Hayes to the Armoury. Armoury, respond.
-
-  ANNOTATION
-     He nods to the MACO at Tactical who leaves his
-     post, then the Bridge doors open at the side and
-     in the Situation room. There's a standoff between
-     the mutineers and the MACOs, particularly Reed and
-     Hayes with pistols aimed at each other's heads.
-
-  REED
-     Stand down!
-
-  HAYES
-     You intend to shoot me, Lieutenant?
-
-  REED
-     Tell them to stand down.
-
-  HAYES
-     The Captain relieved you of duty. Both of you.
-
-  T'POL
-     We don't want anyone injured. Put down your
-     weapons.
-
-  HAYES
-     Until the Captain says otherwise, I give the
-     orders on this Bridge.
-
-
-LOCATION--Hatchery
-
-  ARCHER
-     Go back to the ship.
-
-  TUCKER
-     You have to come with us.
-
-  ANNOTATION
-     An Insectoid leaves it's egg and crawls over
-     Archer.
-
-  TUCKER
-     Captain!
-
-  ARCHER
-     Shush. It's all right.
-
-  ANNOTATION
-     A second baby climbs onto him, and a third. Tucker
-     stuns him.
-
-
-LOCATION--Bridge
-
-  HAYES
-     Contact the Captain.
-
-  T'POL
-     Belay that.
-
-  HAYES
-     I gave you a direct order, Ensign.
-
-  HOSHI
-     I'm sorry, Major.
-
-  ANNOTATION
-     Hayes starts to back up to open a comm. channel
-     himself, and Travis jumps him. One Starfleet and
-     two MACOs get stunned. Reed holds a pistol to
-     Hayes' head.
-
-  REED
-     It's over, Major. Take him to his quarters.
-
-  TRAVIS
-     Aye, sir.
-
-  HOSHI
-     It's Commander Tucker.
-
-  T'POL
-     Put him through. Go ahead.
-
-  TUCKER [OC]
-     We've got the Captain. What's going on up there?
-
-  T'POL
-     The Bridge is secure.
-
-
-LOCATION--Hatchery
-
-  TUCKER
-     Tell Phlox to get the imaging chamber ready. We've
-     got a patient for him.
-
-  T'POL [OC]
-     Acting Captain's starlog, supplemental. We've
-     resumed our course for Azati Prime. Major Hayes
-     and his men have been temporarily relieved of
-     duty. Doctor Phlox believes he has found an
-     explanation for the Captain's behaviour.
-
-
-LOCATION--Sickbay
-
-  HAYES
-     Where is he?
-
-  PHLOX
-     In his quarters, resting. Do you recall when the
-     Captain was attacked by one of the eggs?
-
-  HAYES
-     It sprayed something in his face.
-
-  PHLOX
-     I thought it was a defence reflex, but it was
-     actually something far more sophisticated. The
-     substance contained a unique neurochemical. It
-     infiltrated the Captain's synaptic pathways,
-     causing him to reverse imprint on the baby
-     insectoids. It's the opposite of what happens when
-     a young animal bonds with its mother.
-
-  HAYES
-     Are you saying he thought he was the mother of
-     those things?
-
-  PHLOX
-     Well, more likely a caretaker. Of course, the
-     Captain didn't realise this on a conscious level.
-     Eventually he became obsessed with protecting the
-     eggs to the exclusion of everything else.
-
-  T'POL
-     Including our mission.
-
-  HAYES
-     I'd like to speak with him, if you don't mind.
-
-  PHLOX
-     He'll be awake in a few hours. He should be fully
-     recovered by then.
-
-  T'POL
-     I want you and your men to return to duty.
-
-  HAYES
-     Yes, ma'am.
-
-  ANNOTATION
-     T'Pol and Trip leave.
-
-  HAYES
-     Not the sort of thing they trained us for at West
-     Point.
-
-  REED
-     I imagine not.
-
-  HAYES
-     You could have come to me, explained the
-     situation.
-
-  REED
-     We couldn't take the chance that you'd side with
-     the Captain.
-
-  HAYES
-     I probably would have.
-
-  REED
-     Yeah.
-
-
-LOCATION--Archer's quarters
-
-  ANNOTATION
-     The room is darkened, Archer is dozing with
-     Porthos by his side when the doorbell chimes.
-
-  ARCHER
-     Come in.
-
-  TUCKER
-     I didn't mean to wake you, sir.
-
-  ARCHER
-     It's all right, I was getting up anyway.
-
-  TUCKER
-     How are you feeling?
-
-  ARCHER
-     Oh, I've been better. Are you sure you had that
-     pistol set to stun?
-
-  TUCKER
-     Captain. I hope you understand, if there'd been
-     any other way
-
-  ARCHER
-     You were protecting our mission, Trip. I would
-     have done the same thing.
-
-  TUCKER
-     Still, I never thought I'd find myself pointing a
-     weapon at you, no matter what the circumstances.
-
-  ARCHER
-     Let's put this behind us, okay?
-
-  TUCKER
-     Yes, sir.
-
-  ARCHER
-     What's our status?
-
-  TUCKER
-     We just recovered the last of our antimatter
-     reserves.
-
-  ARCHER
-     The hatchlings?
-
-  TUCKER
-     Phlox says there's nineteen of them running around
-     down there. Chances are they'll survive until the
-     next Xindi ship comes along.
-
-  ARCHER
-     It's time we got back on the road. I want you at
-     your post. We're going to be pushing the engines
-     pretty hard. I'll be on the Bridge.
-
-  TUCKER
-     Aren't you supposed to get some rest?
-
-  ARCHER
-     I've had plenty.
-
-  TUCKER
-     I'm sorry, sir, but the Doctor was insistent.
-
-  ARCHER
-     Okay. I guess I don't want another mutiny on my
-     hands. Tell Travis to set a course for Azati
-     Prime, maximum warp.
-
-  TUCKER
-     Right away, sir.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

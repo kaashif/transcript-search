@@ -1,1670 +1,838 @@
-Unification Part 2
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Unification Part 2</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Romulan caves</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>SPOCK:  What are you doing on Romulus?</td></tr>
 
-LOCATION--Romulan caves
+<tr id="L2"><td><a href="#L2">2</a></td><td>PICARD:  That was to have been my question of you, sir.</td></tr>
 
-  SPOCK
-     What are you doing on Romulus?
+<tr id="L3"><td><a href="#L3">3</a></td><td>SPOCK:  It is no concern of Starfleet.</td></tr>
 
-  PICARD
-     That was to have been my question of you, sir.
+<tr id="L4"><td><a href="#L4">4</a></td><td>PICARD:  On the contrary, it is very much Starfleet's concern. You're in a position to compromise the security of the Federation.</td></tr>
 
-  SPOCK
-     It is no concern of Starfleet.
-
-  PICARD
-     On the contrary, it is very much Starfleet's
-     concern. You're in a position to compromise the
-     security of the Federation.
-
-  SPOCK
-     You may assure your superiors, Captain, that I am
-     here on a personal mission of peace, and I will
-     advise Starfleet when it is appropriate.
-
-  PICARD
-     That is not satisfactory.
-
-  SPOCK
-     You cannot remain here, Captain Picard.
-
-  PICARD
-     And I will not return without a full explanation.
-     Ambassador, with great respect for all that you've
-     achieved on behalf of the Federation, this sort of
-     cowboy diplomacy will not easily be tolerated any
-     more.
-
-  SPOCK
-     Cowboy diplomacy?
-
-  PICARD
-     If you wish to undertake a mission with obvious
-     repercussions to the Federation, then you should
-     discuss it with the Federation. I'm here as their
-     representative. You'll have to discuss it with me.
-
-  SPOCK
-     That is precisely what I had hoped to avoid.
-
-  PICARD
-     I also have the responsibility of being the bearer
-     of unhappy news.
-
-  SPOCK
-     Sarek? Sarek is dead? Walk with me, Picard.
-
-
-LOCATION--Romulan cavern
-
-  ANNOTATION
-     a sort of living quarters adjoining the cave
-
-  SPOCK
-     I know of your mind-meld with my father which
-     enabled him to complete his last mission.
-
-  PICARD
-     It was an honour. He is a great man.
+<tr id="L5"><td><a href="#L5">5</a></td><td>SPOCK:  You may assure your superiors, Captain, that I am here on a personal mission of peace, and I will advise Starfleet when it is appropriate.</td></tr>
 
-  SPOCK
-     He was a great representative of the Vulcan people
-     and of the Federation.
+<tr id="L6"><td><a href="#L6">6</a></td><td>PICARD:  That is not satisfactory.</td></tr>
 
-  PICARD
-     I was with him before coming here. He expressed
-     his pride in you. His love.
-
-  SPOCK
-     Emotional disarray was a symptom of the illness
-     from which he suffered.
+<tr id="L7"><td><a href="#L7">7</a></td><td>SPOCK:  You cannot remain here, Captain Picard.</td></tr>
 
-  PICARD
-     No, those feelings came from his heart, Spock. He
-     shared them with me. I know.
+<tr id="L8"><td><a href="#L8">8</a></td><td>PICARD:  And I will not return without a full explanation. Ambassador, with great respect for all that you've achieved on behalf of the Federation, this sort of cowboy diplomacy will not easily be tolerated any more.</td></tr>
 
-  SPOCK
-     Sarek would no more approve my coming here than
-     you do, Picard. For some time now, I've been aware
-     of a growing movement here of people who seek to
-     learn the ideals of the Vulcan philosophy. They've
-     been declared enemies of the state. But there are
-     a few in the Romulan hierarchy like Pardek, who
-     are sympathetic. He asked me to come now, because
-     he believes it may be time to take the first step
-     toward reunification.
+<tr id="L9"><td><a href="#L9">9</a></td><td>SPOCK:  Cowboy diplomacy?</td></tr>
 
-  PICARD
-     Reunification? After so many centuries? After so
-     many fundamental differences have evolved between
-     your peoples?
+<tr id="L10"><td><a href="#L10">10</a></td><td>PICARD:  If you wish to undertake a mission with obvious repercussions to the Federation, then you should discuss it with the Federation. I'm here as their representative. You'll have to discuss it with me.</td></tr>
 
-  SPOCK
-     It would seem unlikely to succeed, but I cannot
-     ignore the potential rewards that a union between
-     our two worlds would bring.
-
-  PICARD
-     What is this first step that Pardek suggests?
+<tr id="L11"><td><a href="#L11">11</a></td><td>SPOCK:  That is precisely what I had hoped to avoid.</td></tr>
 
-  SPOCK
-     There is a new Proconsul in the Romulan Senate. He
-     is young and idealistic. He has promised many
-     reforms. Pardek believes that he may be receptive
-     to discussing reunification.
-
-  PICARD
-     Why would you not bring something so important to
-     the attention of your own people or the
-     Federation?
+<tr id="L12"><td><a href="#L12">12</a></td><td>PICARD:  I also have the responsibility of being the bearer of unhappy news.</td></tr>
 
-  SPOCK
-     A personal decision, Captain. Perhaps you are
-     aware of the small role I played in the overture
-     to peace with the Klingons.
+<tr id="L13"><td><a href="#L13">13</a></td><td>SPOCK:  Sarek? Sarek is dead? Walk with me, Picard.</td></tr>
 
-  PICARD
-     History is aware of the role you played,
-     Ambassador.
+<tr><td></td><td>LOCATION--Romulan cavern</td></tr>
+<tr id="L14"><td><a href="#L14">14</a></td><td>ANNOTATION: a sort of living quarters adjoining the cave</td></tr>
 
-  SPOCK
-     Not entirely. It was I who committed Captain Kirk
-     to that peace mission, and I who had to bear the
-     responsibility for the consequences to him and his
-     crew. Quite simply, I am unwilling to risk
-     anyone's life but my own on this occasion. So I
-     ask you respect my wishes and leave.
-
-  PICARD
-     Ambassador, your logic escapes me. If I didn't
-     know better, I would say that your judgment is
-     influenced by your emotions.
+<tr id="L15"><td><a href="#L15">15</a></td><td>SPOCK:  I know of your mind-meld with my father which enabled him to complete his last mission.</td></tr>
 
-  SPOCK
-     You speak as my father would if he were here,
-     Picard.
+<tr id="L16"><td><a href="#L16">16</a></td><td>PICARD:  It was an honour. He is a great man.</td></tr>
 
-  PICARD
-     I speak as a Starfleet officer, and I cannot
-     ignore the risks to you.
+<tr id="L17"><td><a href="#L17">17</a></td><td>SPOCK:  He was a great representative of the Vulcan people and of the Federation.</td></tr>
 
-  SPOCK
-     I was involved with cowboy diplomacy, as you
-     describe it, long before you were born.
+<tr id="L18"><td><a href="#L18">18</a></td><td>PICARD:  I was with him before coming here. He expressed his pride in you. His love.</td></tr>
 
-  PICARD
-     Nevertheless, sir, I'm not prepared to leave until
-     your affairs are completed.
+<tr id="L19"><td><a href="#L19">19</a></td><td>SPOCK:  Emotional disarray was a symptom of the illness from which he suffered.</td></tr>
 
-  SPOCK
-     In your own way, you are as stubborn as another
-     Captain of the Enterprise I once knew.
+<tr id="L20"><td><a href="#L20">20</a></td><td>PICARD:  No, those feelings came from his heart, Spock. He shared them with me. I know.</td></tr>
 
-  PICARD
-     Then I'm in good company, sir.
+<tr id="L21"><td><a href="#L21">21</a></td><td>SPOCK:  Sarek would no more approve my coming here than you do, Picard. For some time now, I've been aware of a growing movement here of people who seek to learn the ideals of the Vulcan philosophy. They've been declared enemies of the state. But there are a few in the Romulan hierarchy like Pardek, who are sympathetic. He asked me to come now, because he believes it may be time to take the first step toward reunification.</td></tr>
 
+<tr id="L22"><td><a href="#L22">22</a></td><td>PICARD:  Reunification? After so many centuries? After so many fundamental differences have evolved between your peoples?</td></tr>
 
-LOCATION--Klingon bridge
+<tr id="L23"><td><a href="#L23">23</a></td><td>SPOCK:  It would seem unlikely to succeed, but I cannot ignore the potential rewards that a union between our two worlds would bring.</td></tr>
 
-  K'VADA
-     We have more important things to attend to than
-     acting as your nursemaids.
+<tr id="L24"><td><a href="#L24">24</a></td><td>PICARD:  What is this first step that Pardek suggests?</td></tr>
 
-  DATA
-     Captain Picard regrets detaining you, but it will
-     be necessary for a while longer. In addition, I
-     require access to your ship's computer.
+<tr id="L25"><td><a href="#L25">25</a></td><td>SPOCK:  There is a new Proconsul in the Romulan Senate. He is young and idealistic. He has promised many reforms. Pardek believes that he may be receptive to discussing reunification.</td></tr>
 
-  K'VADA
-     Access to our computer? For what purpose?
+<tr id="L26"><td><a href="#L26">26</a></td><td>PICARD:  Why would you not bring something so important to the attention of your own people or the Federation?</td></tr>
 
-  DATA
-     I am going to attempt to penetrate the Romulan
-     Central Information net.
+<tr id="L27"><td><a href="#L27">27</a></td><td>SPOCK:  A personal decision, Captain. Perhaps you are aware of the small role I played in the overture to peace with the Klingons.</td></tr>
 
-  K'VADA
-     Don't bother. We've been trying for years.
+<tr id="L28"><td><a href="#L28">28</a></td><td>PICARD:  History is aware of the role you played, Ambassador.</td></tr>
 
-  DATA
-     I have unique skills that may allow me to succeed.
+<tr id="L29"><td><a href="#L29">29</a></td><td>SPOCK:  Not entirely. It was I who committed Captain Kirk to that peace mission, and I who had to bear the responsibility for the consequences to him and his crew. Quite simply, I am unwilling to risk anyone's life but my own on this occasion. So I ask you respect my wishes and leave.</td></tr>
 
-  K'VADA
-     I cannot reveal classified Klingon entry codes to
-     Starfleet.
+<tr id="L30"><td><a href="#L30">30</a></td><td>PICARD:  Ambassador, your logic escapes me. If I didn't know better, I would say that your judgment is influenced by your emotions.</td></tr>
 
-  DATA
-     Your entry codes can be easily reconfigured after
-     we depart. And Captain Picard has authorised me to
-     share with you any information we obtain from the
-     Romulan databanks.
+<tr id="L31"><td><a href="#L31">31</a></td><td>SPOCK:  You speak as my father would if he were here, Picard.</td></tr>
 
-  K'VADA
-     Anything else?
+<tr id="L32"><td><a href="#L32">32</a></td><td>PICARD:  I speak as a Starfleet officer, and I cannot ignore the risks to you.</td></tr>
 
-  DATA
-     We will also need to communicate with the
-     Enterprise in sector two thirteen.
+<tr id="L33"><td><a href="#L33">33</a></td><td>SPOCK:  I was involved with cowboy diplomacy, as you describe it, long before you were born.</td></tr>
 
-  K'VADA
-     You do and the Romulans will instantly know our
-     co-ordinates.
+<tr id="L34"><td><a href="#L34">34</a></td><td>PICARD:  Nevertheless, sir, I'm not prepared to leave until your affairs are completed.</td></tr>
 
-  DATA
-     Using conventional means, that would be true.
-     However, I suggest we piggy-back our signal on
-     Romulan subspace transmissions.
+<tr id="L35"><td><a href="#L35">35</a></td><td>SPOCK:  In your own way, you are as stubborn as another Captain of the Enterprise I once knew.</td></tr>
 
-  K'VADA
-     Piggy-back?
+<tr id="L36"><td><a href="#L36">36</a></td><td>PICARD:  Then I'm in good company, sir.</td></tr>
 
-  DATA
-     A human metaphor, pardon me. We would use a
-     Romulan signal as a carrier for own one, thus
-     disguising its origin.
+<tr><td></td><td>LOCATION--Klingon bridge</td></tr>
+<tr id="L37"><td><a href="#L37">37</a></td><td>K'VADA:  We have more important things to attend to than acting as your nursemaids.</td></tr>
 
-  K'VADA
-     It won't work.
+<tr id="L38"><td><a href="#L38">38</a></td><td>DATA:  Captain Picard regrets detaining you, but it will be necessary for a while longer. In addition, I require access to your ship's computer.</td></tr>
 
-  DATA
-     I believe it would. During the last hour, I have
-     conducted a systematic review of the entire
-     Romulan subspace grid. I have compared my findings
-     with the specifications of your own transmission
-     array. They appear to be compatible.
+<tr id="L39"><td><a href="#L39">39</a></td><td>K'VADA:  Access to our computer? For what purpose?</td></tr>
 
-  ANNOTATION
-     K'Vada agrees
+<tr id="L40"><td><a href="#L40">40</a></td><td>DATA:  I am going to attempt to penetrate the Romulan Central Information net.</td></tr>
 
-  DATA
-     Thank you for your co-operation.
+<tr id="L41"><td><a href="#L41">41</a></td><td>K'VADA:  Don't bother. We've been trying for years.</td></tr>
 
+<tr id="L42"><td><a href="#L42">42</a></td><td>DATA:  I have unique skills that may allow me to succeed.</td></tr>
 
-LOCATION--Romulan street
+<tr id="L43"><td><a href="#L43">43</a></td><td>K'VADA:  I cannot reveal classified Klingon entry codes to Starfleet.</td></tr>
 
-  ANNOTATION
-     a young boy hands a pink orchid-like flower to the
-     soldier, who is now out of uniform
+<tr id="L44"><td><a href="#L44">44</a></td><td>DATA:  Your entry codes can be easily reconfigured after we depart. And Captain Picard has authorised me to share with you any information we obtain from the Romulan databanks.</td></tr>
 
+<tr id="L45"><td><a href="#L45">45</a></td><td>K'VADA:  Anything else?</td></tr>
 
-LOCATION--Cafe
+<tr id="L46"><td><a href="#L46">46</a></td><td>DATA:  We will also need to communicate with the Enterprise in sector two thirteen.</td></tr>
 
-  ANNOTATION
-     the soldier puts the flower in a glass
+<tr id="L47"><td><a href="#L47">47</a></td><td>K'VADA:  You do and the Romulans will instantly know our co-ordinates.</td></tr>
 
-  ROMULAN 1
-     Allow me to brighten your table. Jolan tru.
+<tr id="L48"><td><a href="#L48">48</a></td><td>DATA:  Using conventional means, that would be true. However, I suggest we piggy-back our signal on Romulan subspace transmissions.</td></tr>
 
-  SPOCK
-     The Senate has adjourned. Pardek will be here
-     shortly.
+<tr id="L49"><td><a href="#L49">49</a></td><td>K'VADA:  Piggy-back?</td></tr>
 
-  PICARD
-     How widespread is this movement?
+<tr id="L50"><td><a href="#L50">50</a></td><td>DATA:  A human metaphor, pardon me. We would use a Romulan signal as a carrier for own one, thus disguising its origin.</td></tr>
 
-  SPOCK
-     There are groups in every populated area. I've
-     personally spoken with members from four
-     provinces. It has become a serious concern for the
-     Romulan leadership.
+<tr id="L51"><td><a href="#L51">51</a></td><td>K'VADA:  It won't work.</td></tr>
 
-  PICARD
-     Serious enough for the leaders to suddenly embrace
-     a Vulcan peace initiative? I have some difficulty
-     in accepting that.
+<tr id="L52"><td><a href="#L52">52</a></td><td>DATA:  I believe it would. During the last hour, I have conducted a systematic review of the entire Romulan subspace grid. I have compared my findings with the specifications of your own transmission array. They appear to be compatible.</td></tr>
 
-  SPOCK
-     I sense you have a closed mind, Captain. Closed
-     minds have kept these two worlds apart for
-     centuries. In the Federation, we have learned from
-     experience to view the Romulans with distrust. We
-     can either choose to live with that enmity or seek
-     an opportunity to change it. I choose the latter.
+<tr id="L53"><td><a href="#L53">53</a></td><td>ANNOTATION: K'Vada agrees</td></tr>
 
-  PICARD
-     I will be the first to cheer when the Neutral Zone
-     is abolished. But I wonder if this movement is
-     strong enough to reshape the entire Romulan
-     political landscape.
+<tr id="L54"><td><a href="#L54">54</a></td><td>DATA:  Thank you for your co-operation.</td></tr>
 
-  SPOCK
-     One can begin to reshape the landscape with a
-     single flower, Captain.
+<tr><td></td><td>LOCATION--Romulan street</td></tr>
+<tr id="L55"><td><a href="#L55">55</a></td><td>ANNOTATION: a young boy hands a pink orchid-like flower to the soldier, who is now out of uniform</td></tr>
 
-  D'TAN
-     Jolan Tru, Mister Spock. Here, look what I've
-     brought you.
+<tr><td></td><td>LOCATION--Cafe</td></tr>
+<tr id="L56"><td><a href="#L56">56</a></td><td>ANNOTATION: the soldier puts the flower in a glass</td></tr>
 
-  ANNOTATION
-     it is a small book
+<tr id="L57"><td><a href="#L57">57</a></td><td>ROMULAN 1:  Allow me to brighten your table. Jolan tru.</td></tr>
 
-  SPOCK
-     This is my friend, D'Tan. He's very curious about
-     Vulcan.
+<tr id="L58"><td><a href="#L58">58</a></td><td>SPOCK:  The Senate has adjourned. Pardek will be here shortly.</td></tr>
 
-  PICARD
-     Hello, D'Tan.
+<tr id="L59"><td><a href="#L59">59</a></td><td>PICARD:  How widespread is this movement?</td></tr>
 
-  SPOCK
-     Where did you get this? This is very old.
+<tr id="L60"><td><a href="#L60">60</a></td><td>SPOCK:  There are groups in every populated area. I've personally spoken with members from four provinces. It has become a serious concern for the Romulan leadership.</td></tr>
 
-  D'TAN
-     They read to us from it at the meetings. It tells
-     the story of the Vulcan separation.
+<tr id="L61"><td><a href="#L61">61</a></td><td>PICARD:  Serious enough for the leaders to suddenly embrace a Vulcan peace initiative? I have some difficulty in accepting that.</td></tr>
 
-  PARDEK
-     D'Tan, you should not bring that out here. You've
-     been told many times.
+<tr id="L62"><td><a href="#L62">62</a></td><td>SPOCK:  I sense you have a closed mind, Captain. Closed minds have kept these two worlds apart for centuries. In the Federation, we have learned from experience to view the Romulans with distrust. We can either choose to live with that enmity or seek an opportunity to change it. I choose the latter.</td></tr>
 
-  D'TAN
-     I just wanted to show it to Mister Spock.
+<tr id="L63"><td><a href="#L63">63</a></td><td>PICARD:  I will be the first to cheer when the Neutral Zone is abolished. But I wonder if this movement is strong enough to reshape the entire Romulan political landscape.</td></tr>
 
-  PARDEK
-     Off with you. We'll see you later tonight.
+<tr id="L64"><td><a href="#L64">64</a></td><td>SPOCK:  One can begin to reshape the landscape with a single flower, Captain.</td></tr>
 
-  D'TAN
-     Will you tell us more stories about Vulcan?
+<tr id="L65"><td><a href="#L65">65</a></td><td>D'TAN:  Jolan Tru, Mister Spock. Here, look what I've brought you.</td></tr>
 
-  SPOCK
-     Yes, I will.
+<tr id="L66"><td><a href="#L66">66</a></td><td>ANNOTATION: it is a small book</td></tr>
 
-  D'TAN
-     Jolan Tru.
+<tr id="L67"><td><a href="#L67">67</a></td><td>SPOCK:  This is my friend, D'Tan. He's very curious about Vulcan.</td></tr>
 
-  PARDEK
-     Perhaps this is not such a good place to talk.
+<tr id="L68"><td><a href="#L68">68</a></td><td>PICARD:  Hello, D'Tan.</td></tr>
 
+<tr id="L69"><td><a href="#L69">69</a></td><td>SPOCK:  Where did you get this? This is very old.</td></tr>
 
-LOCATION--Romulan street
+<tr id="L70"><td><a href="#L70">70</a></td><td>D'TAN:  They read to us from it at the meetings. It tells the story of the Vulcan separation.</td></tr>
 
-  PARDEK
-     So, what do you think of your enemy, Captain
-     Picard?
+<tr id="L71"><td><a href="#L71">71</a></td><td>PARDEK:  D'Tan, you should not bring that out here. You've been told many times.</td></tr>
 
-  PICARD
-     These people are no one's enemy, Senator.
+<tr id="L72"><td><a href="#L72">72</a></td><td>D'TAN:  I just wanted to show it to Mister Spock.</td></tr>
 
-  PARDEK
-     Many of my colleagues fear what they have to say.
-     But I have learned to listen carefully. Children
-     like D'Tan are our future. Old men like me will
-     not be able to hold on to ancient prejudice and
-     hostility. Young people won't allow it. But now,
-     now that they've met their first real Vulcan, it
-     has only inspired them more. I am sure that is
-     evident to you, Spock.
+<tr id="L73"><td><a href="#L73">73</a></td><td>PARDEK:  Off with you. We'll see you later tonight.</td></tr>
 
-  SPOCK
-     I did not anticipate such a passionate response to
-     my arrival.
+<tr id="L74"><td><a href="#L74">74</a></td><td>D'TAN:  Will you tell us more stories about Vulcan?</td></tr>
 
-  PARDEK
-     Romulans are passionate people. The Vulcans will
-     learn to appreciate that quality in us.
+<tr id="L75"><td><a href="#L75">75</a></td><td>SPOCK:  Yes, I will.</td></tr>
 
-  SPOCK
-     If we are successful.
+<tr id="L76"><td><a href="#L76">76</a></td><td>D'TAN:  Jolan Tru.</td></tr>
 
-  PARDEK
-     We will know soon. The Proconsul has agreed to
-     meet with you.
+<tr id="L77"><td><a href="#L77">77</a></td><td>PARDEK:  Perhaps this is not such a good place to talk.</td></tr>
 
-  SOMEONE
-     First Officer's log, stardate 45245.8. The
-     Enterprise remains at Qualor Two as we continue to
-     investigate the theft of a surplus Vulcan ship.
-     The trail has led us to the former wife of a
-     deceased smuggler.
+<tr><td></td><td>LOCATION--Romulan street</td></tr>
+<tr id="L78"><td><a href="#L78">78</a></td><td>PARDEK:  So, what do you think of your enemy, Captain Picard?</td></tr>
 
+<tr id="L79"><td><a href="#L79">79</a></td><td>PICARD:  These people are no one's enemy, Senator.</td></tr>
 
-LOCATION--Piano bar
+<tr id="L80"><td><a href="#L80">80</a></td><td>PARDEK:  Many of my colleagues fear what they have to say. But I have learned to listen carefully. Children like D'Tan are our future. Old men like me will not be able to hold on to ancient prejudice and hostility. Young people won't allow it. But now, now that they've met their first real Vulcan, it has only inspired them more. I am sure that is evident to you, Spock.</td></tr>
 
-  ANNOTATION
-     Riker takes a drink from the tray of a Zakdorn
-     waiter, and goes over to a large, four-armed lady
-     piano player
+<tr id="L81"><td><a href="#L81">81</a></td><td>SPOCK:  I did not anticipate such a passionate response to my arrival.</td></tr>
 
-  AMARIE
-     A new face.
+<tr id="L82"><td><a href="#L82">82</a></td><td>PARDEK:  Romulans are passionate people. The Vulcans will learn to appreciate that quality in us.</td></tr>
 
-  RIKER
-     Same one I've always had.
+<tr id="L83"><td><a href="#L83">83</a></td><td>SPOCK:  If we are successful.</td></tr>
 
-  AMARIE
-     And what would you like to hear?
+<tr id="L84"><td><a href="#L84">84</a></td><td>PARDEK:  We will know soon. The Proconsul has agreed to meet with you.</td></tr>
 
-  RIKER
-     Know some blues?
+<tr id="L85"><td><a href="#L85">85</a></td><td>SOMEONE: First Officer's log, stardate 45245.8. The Enterprise remains at Qualor Two as we continue to investigate the theft of a surplus Vulcan ship. The trail has led us to the former wife of a deceased smuggler.</td></tr>
 
-  AMARIE
-     Look at me, Mister. What do you think? Seven
-     different shades of them. How about some Andorian
-     blues? Suck salt?
+<tr><td></td><td>LOCATION--Piano bar</td></tr>
+<tr id="L86"><td><a href="#L86">86</a></td><td>ANNOTATION: Riker takes a drink from the tray of a Zakdorn waiter, and goes over to a large, four-armed lady piano player</td></tr>
 
-  RIKER
-     Never cared for it.
+<tr id="L87"><td><a href="#L87">87</a></td><td>AMARIE:  A new face.</td></tr>
 
-  AMARIE
-     Good for you. Nasty habit. So who are you looking
-     for?
+<tr id="L88"><td><a href="#L88">88</a></td><td>RIKER:  Same one I've always had.</td></tr>
 
-  RIKER
-     Who says I'm looking for anybody?
+<tr id="L89"><td><a href="#L89">89</a></td><td>AMARIE:  And what would you like to hear?</td></tr>
 
-  AMARIE
-     Your face. Your uniform. In a place like this.
+<tr id="L90"><td><a href="#L90">90</a></td><td>RIKER:  Know some blues?</td></tr>
 
-  RIKER
-     Okay. I'm looking for you.
+<tr id="L91"><td><a href="#L91">91</a></td><td>AMARIE:  Look at me, Mister. What do you think? Seven different shades of them. How about some Andorian blues? Suck salt?</td></tr>
 
-  AMARIE
-     Oh, you just made my day.
+<tr id="L92"><td><a href="#L92">92</a></td><td>RIKER:  Never cared for it.</td></tr>
 
-  RIKER
-     I have to ask you about your husband.
+<tr id="L93"><td><a href="#L93">93</a></td><td>AMARIE:  Good for you. Nasty habit. So who are you looking for?</td></tr>
 
-  AMARIE
-     Well, it was nice while it lasted. Which husband?
+<tr id="L94"><td><a href="#L94">94</a></td><td>RIKER:  Who says I'm looking for anybody?</td></tr>
 
-  RIKER
-     The dead one, I'm afraid.
+<tr id="L95"><td><a href="#L95">95</a></td><td>AMARIE:  Your face. Your uniform. In a place like this.</td></tr>
 
-  AMARIE
-     Oh, you must be from the Enterprise. You destroyed
-     his ship.
+<tr id="L96"><td><a href="#L96">96</a></td><td>RIKER:  Okay. I'm looking for you.</td></tr>
 
-  RIKER
-     He was into some bad business. He took the
-     evidence with him.
+<tr id="L97"><td><a href="#L97">97</a></td><td>AMARIE:  Oh, you just made my day.</td></tr>
 
-  AMARIE
-     His one endearing quality, he always cleaned up
-     after himself. And what do you want from me?
+<tr id="L98"><td><a href="#L98">98</a></td><td>RIKER:  I have to ask you about your husband.</td></tr>
 
-  RIKER
-     I was hoping you might know his business partners.
+<tr id="L99"><td><a href="#L99">99</a></td><td>AMARIE:  Well, it was nice while it lasted. Which husband?</td></tr>
 
-  AMARIE
-     And why should I help you?
+<tr id="L100"><td><a href="#L100">100</a></td><td>RIKER:  The dead one, I'm afraid.</td></tr>
 
-  RIKER
-     To be honest, I can't think of a good reason.
+<tr id="L101"><td><a href="#L101">101</a></td><td>AMARIE:  Oh, you must be from the Enterprise. You destroyed his ship.</td></tr>
 
-  AMARIE
-     Well, you did kill my ex-husband, and that's not a
-     bad start. So why don't you drop a few coins in
-     the jar and I'll see what I remember.
+<tr id="L102"><td><a href="#L102">102</a></td><td>RIKER:  He was into some bad business. He took the evidence with him.</td></tr>
 
-  RIKER
-     I don't carry money.
+<tr id="L103"><td><a href="#L103">103</a></td><td>AMARIE:  His one endearing quality, he always cleaned up after himself. And what do you want from me?</td></tr>
 
-  AMARIE
-     Well, you don't offer much, do you?
+<tr id="L104"><td><a href="#L104">104</a></td><td>RIKER:  I was hoping you might know his business partners.</td></tr>
 
-  RIKER
-     Move over.
+<tr id="L105"><td><a href="#L105">105</a></td><td>AMARIE:  And why should I help you?</td></tr>
 
-  AMARIE
-     Oh, just what I need. Another set of hands.
+<tr id="L106"><td><a href="#L106">106</a></td><td>RIKER:  To be honest, I can't think of a good reason.</td></tr>
 
-  RIKER
-     You know this one? Twentieth century, Earth. Maybe
-     I can teach you a lick or two.
+<tr id="L107"><td><a href="#L107">107</a></td><td>AMARIE:  Well, you did kill my ex-husband, and that's not a bad start. So why don't you drop a few coins in the jar and I'll see what I remember.</td></tr>
 
-  AMARIE
-     You already have.
+<tr id="L108"><td><a href="#L108">108</a></td><td>RIKER:  I don't carry money.</td></tr>
 
-  RIKER
-     So, what do you say?
+<tr id="L109"><td><a href="#L109">109</a></td><td>AMARIE:  Well, you don't offer much, do you?</td></tr>
 
-  AMARIE
-     You going to be around for a couple of days?
+<tr id="L110"><td><a href="#L110">110</a></td><td>RIKER:  Move over.</td></tr>
 
-  RIKER
-     I can be.
+<tr id="L111"><td><a href="#L111">111</a></td><td>AMARIE:  Oh, just what I need. Another set of hands.</td></tr>
 
-  AMARIE
-     Sooner or later, a man named Omag will come by for
-     a song. Always wants to hear the same thing, Melor
-     Famagal. (she shudders) He's an arms trader. A fat
-     Ferengi.
+<tr id="L112"><td><a href="#L112">112</a></td><td>RIKER:  You know this one? Twentieth century, Earth. Maybe I can teach you a lick or two.</td></tr>
 
+<tr id="L113"><td><a href="#L113">113</a></td><td>AMARIE:  You already have.</td></tr>
 
-LOCATION--Romulan office
+<tr id="L114"><td><a href="#L114">114</a></td><td>RIKER:  So, what do you say?</td></tr>
 
-  NERAL
-     Enter.
+<tr id="L115"><td><a href="#L115">115</a></td><td>AMARIE:  You going to be around for a couple of days?</td></tr>
 
-  PARDEK
-     Proconsul?
+<tr id="L116"><td><a href="#L116">116</a></td><td>RIKER:  I can be.</td></tr>
 
-  NERAL
-     Yes. Pardek, come in.
+<tr id="L117"><td><a href="#L117">117</a></td><td>AMARIE:  Sooner or later, a man named Omag will come by for a song. Always wants to hear the same thing, Melor Famagal. (she shudders) He's an arms trader. A fat Ferengi.</td></tr>
 
-  PARDEK
-     Ambassador Spock of Vulcan.
+<tr><td></td><td>LOCATION--Romulan office</td></tr>
+<tr id="L118"><td><a href="#L118">118</a></td><td>NERAL:  Enter.</td></tr>
 
-  SPOCK
-     Proconsul.
+<tr id="L119"><td><a href="#L119">119</a></td><td>PARDEK:  Proconsul?</td></tr>
 
-  NERAL
-     Please. I've never liked titles since I was a
-     lowly Uhlan in the Romulan guard. I am Neral. How
-     is it again, Pardek's tried to show me.
+<tr id="L120"><td><a href="#L120">120</a></td><td>NERAL:  Yes. Pardek, come in.</td></tr>
 
-  ANNOTATION
-     they swap hand gestures
+<tr id="L121"><td><a href="#L121">121</a></td><td>PARDEK:  Ambassador Spock of Vulcan.</td></tr>
 
-  SPOCK
-     I am honoured.
+<tr id="L122"><td><a href="#L122">122</a></td><td>SPOCK:  Proconsul.</td></tr>
 
-  NERAL
-     Good.
+<tr id="L123"><td><a href="#L123">123</a></td><td>NERAL:  Please. I've never liked titles since I was a lowly Uhlan in the Romulan guard. I am Neral. How is it again, Pardek's tried to show me.</td></tr>
 
-  PARDEK
-     Permit me to withdraw.
+<tr id="L124"><td><a href="#L124">124</a></td><td>ANNOTATION: they swap hand gestures</td></tr>
 
-  NERAL
-     Will we see you and your wife tomorrow at the
-     state dinner?
+<tr id="L125"><td><a href="#L125">125</a></td><td>SPOCK:  I am honoured.</td></tr>
 
-  PARDEK
-     We're looking forward to it.
+<tr id="L126"><td><a href="#L126">126</a></td><td>NERAL:  Good.</td></tr>
 
-  ANNOTATION
-     Pardek leaves
+<tr id="L127"><td><a href="#L127">127</a></td><td>PARDEK:  Permit me to withdraw.</td></tr>
 
-  NERAL
-     It's been years since old Pardek's been invited to
-     an official function. He's far too attached to the
-     common man for most peoples' comfort.
+<tr id="L128"><td><a href="#L128">128</a></td><td>NERAL:  Will we see you and your wife tomorrow at the state dinner?</td></tr>
 
-  SPOCK
-     That is their loss. I have found Pardek to have a
-     unique insight into many issues.
+<tr id="L129"><td><a href="#L129">129</a></td><td>PARDEK:  We're looking forward to it.</td></tr>
 
-  NERAL
-     Let me tell you something, Spock. We're going to
-     start something here, you and I, that will redraw
-     the face of the quadrant.
+<tr id="L130"><td><a href="#L130">130</a></td><td>ANNOTATION: Pardek leaves</td></tr>
 
-  SPOCK
-     Are you prepared to support reunification?
+<tr id="L131"><td><a href="#L131">131</a></td><td>NERAL:  It's been years since old Pardek's been invited to an official function. He's far too attached to the common man for most peoples' comfort.</td></tr>
 
-  NERAL
-     I believe it must eventually come. Our two worlds
-     need each other.
+<tr id="L132"><td><a href="#L132">132</a></td><td>SPOCK:  That is their loss. I have found Pardek to have a unique insight into many issues.</td></tr>
 
-  SPOCK
-     Forgive me, I did not expect to hear a Romulan
-     Proconsul speak like a member of your underground.
+<tr id="L133"><td><a href="#L133">133</a></td><td>NERAL:  Let me tell you something, Spock. We're going to start something here, you and I, that will redraw the face of the quadrant.</td></tr>
 
-  NERAL
-     I want you to know exactly where I stand.
+<tr id="L134"><td><a href="#L134">134</a></td><td>SPOCK:  Are you prepared to support reunification?</td></tr>
 
-  SPOCK
-     And do you believe that you can gain the support
-     of your full Senate?
+<tr id="L135"><td><a href="#L135">135</a></td><td>NERAL:  I believe it must eventually come. Our two worlds need each other.</td></tr>
 
-  NERAL
-     Things are not what they once were in the Senate.
-     The old leaders have lost the respect of the
-     people. Involvement in the Klingon War, endless
-     confrontations with the Federation, they're tired
-     of it. Times are changing, and leaders who refuse
-     to change with them will no longer be leaders.
-     Spock, I am prepared to publicly endorse the
-     opening of talks between our peoples. What do you
-     think the Vulcan people think of that?
+<tr id="L136"><td><a href="#L136">136</a></td><td>SPOCK:  Forgive me, I did not expect to hear a Romulan Proconsul speak like a member of your underground.</td></tr>
 
-  SPOCK
-     They will be cautious. There are generations of
-     distrust to overcome.
+<tr id="L137"><td><a href="#L137">137</a></td><td>NERAL:  I want you to know exactly where I stand.</td></tr>
 
-  NERAL
-     But surely with a man of your influence leading
-     the way?
+<tr id="L138"><td><a href="#L138">138</a></td><td>SPOCK:  And do you believe that you can gain the support of your full Senate?</td></tr>
 
-  WOMAN [OC]
-     Proconsul, the Senate has been recalled into
-     session.
+<tr id="L139"><td><a href="#L139">139</a></td><td>NERAL:  Things are not what they once were in the Senate. The old leaders have lost the respect of the people. Involvement in the Klingon War, endless confrontations with the Federation, they're tired of it. Times are changing, and leaders who refuse to change with them will no longer be leaders. Spock, I am prepared to publicly endorse the opening of talks between our peoples. What do you think the Vulcan people think of that?</td></tr>
 
-  NERAL
-     Very well. Can we meet again tomorrow?
+<tr id="L140"><td><a href="#L140">140</a></td><td>SPOCK:  They will be cautious. There are generations of distrust to overcome.</td></tr>
 
-  SPOCK
-     As you wish.
+<tr id="L141"><td><a href="#L141">141</a></td><td>NERAL:  But surely with a man of your influence leading the way?</td></tr>
 
-  NERAL
-     Good. Jolan tru, Spock. Oh. Live long and prosper.
+<tr id="L142"><td><a href="#L142">142</a></td><td>WOMAN [OC]:  Proconsul, the Senate has been recalled into session.</td></tr>
 
+<tr id="L143"><td><a href="#L143">143</a></td><td>NERAL:  Very well. Can we meet again tomorrow?</td></tr>
 
-LOCATION--Romulan caves
+<tr id="L144"><td><a href="#L144">144</a></td><td>SPOCK:  As you wish.</td></tr>
 
-  ROMULAN 1
-     It's everything we could have hoped for.
+<tr id="L145"><td><a href="#L145">145</a></td><td>NERAL:  Good. Jolan tru, Spock. Oh. Live long and prosper.</td></tr>
 
-  SPOCK
-     It is more than we could have hoped for.
+<tr><td></td><td>LOCATION--Romulan caves</td></tr>
+<tr id="L146"><td><a href="#L146">146</a></td><td>ROMULAN 1:  It's everything we could have hoped for.</td></tr>
 
-  PARDEK
-     But if Neral is ready to publicly endorse
-     reunification.
+<tr id="L147"><td><a href="#L147">147</a></td><td>SPOCK:  It is more than we could have hoped for.</td></tr>
 
-  PICARD
-     It's hard to believe that he could rise to the
-     rank of Senate Proconsul without the support of
-     the Romulan traditionalists.
+<tr id="L148"><td><a href="#L148">148</a></td><td>PARDEK:  But if Neral is ready to publicly endorse reunification.</td></tr>
 
-  PARDEK
-     That may be true.
+<tr id="L149"><td><a href="#L149">149</a></td><td>PICARD:  It's hard to believe that he could rise to the rank of Senate Proconsul without the support of the Romulan traditionalists.</td></tr>
 
-  PICARD
-     Then how can he turn his back on them so easily?
-     How can he endorse reunification when it's
-     considered subversive?
+<tr id="L150"><td><a href="#L150">150</a></td><td>PARDEK:  That may be true.</td></tr>
 
-  ROMULAN 1
-     Because he's not afraid of them. He knows that
-     we'll support him.
+<tr id="L151"><td><a href="#L151">151</a></td><td>PICARD:  Then how can he turn his back on them so easily? How can he endorse reunification when it's considered subversive?</td></tr>
 
-  SPOCK
-     Captain Picard is correct. It is not logical for
-     the Proconsul to support reunification at this
-     time.
+<tr id="L152"><td><a href="#L152">152</a></td><td>ROMULAN 1:  Because he's not afraid of them. He knows that we'll support him.</td></tr>
 
-  WOMAN 2
-     Why would Neral lie?
+<tr id="L153"><td><a href="#L153">153</a></td><td>SPOCK:  Captain Picard is correct. It is not logical for the Proconsul to support reunification at this time.</td></tr>
 
-  PICARD
-     Perhaps because he's hoping to expose members of
-     your movement.
+<tr id="L154"><td><a href="#L154">154</a></td><td>WOMAN 2:  Why would Neral lie?</td></tr>
 
-  WOMAN 2
-     No, this is our chance for acceptance. Finally to
-     be heard.
+<tr id="L155"><td><a href="#L155">155</a></td><td>PICARD:  Perhaps because he's hoping to expose members of your movement.</td></tr>
 
-  ROMULAN 1
-     I believe it's the Federation that fears an
-     alliance between Romulus and Vulcan.
+<tr id="L156"><td><a href="#L156">156</a></td><td>WOMAN 2:  No, this is our chance for acceptance. Finally to be heard.</td></tr>
 
-  PICARD
-     That is not true.
+<tr id="L157"><td><a href="#L157">157</a></td><td>ROMULAN 1:  I believe it's the Federation that fears an alliance between Romulus and Vulcan.</td></tr>
 
-  SPOCK
-     I came here to determine the potential for
-     reunification. In spite of what has occurred, I
-     intend to continue with my efforts. I intend to
-     meet with the Proconsul as planned.
+<tr id="L158"><td><a href="#L158">158</a></td><td>PICARD:  That is not true.</td></tr>
 
+<tr id="L159"><td><a href="#L159">159</a></td><td>SPOCK:  I came here to determine the potential for reunification. In spite of what has occurred, I intend to continue with my efforts. I intend to meet with the Proconsul as planned.</td></tr>
 
-LOCATION--Romulan cavern
+<tr><td></td><td>LOCATION--Romulan cavern</td></tr>
+<tr id="L160"><td><a href="#L160">160</a></td><td>PICARD:  You let their emotion sway you.</td></tr>
 
-  PICARD
-     You let their emotion sway you.
+<tr id="L161"><td><a href="#L161">161</a></td><td>SPOCK:  On the contrary, I am pursuing the most logical course.</td></tr>
 
-  SPOCK
-     On the contrary, I am pursuing the most logical
-     course.
+<tr id="L162"><td><a href="#L162">162</a></td><td>PICARD:  You are as sceptical as I am. Is it logical to ignore your own good sense?</td></tr>
 
-  PICARD
-     You are as sceptical as I am. Is it logical to
-     ignore your own good sense?
+<tr id="L163"><td><a href="#L163">163</a></td><td>SPOCK:  I fear the influence of Sarek has coloured your attitudes, Captain, toward reunification and perhaps toward me.</td></tr>
 
-  SPOCK
-     I fear the influence of Sarek has coloured your
-     attitudes, Captain, toward reunification and
-     perhaps toward me.
+<tr id="L164"><td><a href="#L164">164</a></td><td>PICARD:  That is the second time you have accused me of speaking with another man's voice. It's true he will always be a part of me. His experiences, his spirit. But I speak with my own voice, not his.</td></tr>
 
-  PICARD
-     That is the second time you have accused me of
-     speaking with another man's voice. It's true he
-     will always be a part of me. His experiences, his
-     spirit. But I speak with my own voice, not his.
+<tr id="L165"><td><a href="#L165">165</a></td><td>SPOCK:  Curious that I should hear him so clearly now that he is dead. It is possible that I have brought my argument with Sarek to you, Captain. If so, I apologise.</td></tr>
 
-  SPOCK
-     Curious that I should hear him so clearly now that
-     he is dead. It is possible that I have brought my
-     argument with Sarek to you, Captain. If so, I
-     apologise.
+<tr id="L166"><td><a href="#L166">166</a></td><td>PICARD:  Is it so important that you to win one last argument?</td></tr>
 
-  PICARD
-     Is it so important that you to win one last
-     argument?
+<tr id="L167"><td><a href="#L167">167</a></td><td>SPOCK:  No, it is not. But it is true that I will miss the arguments. They were, finally, all that we had.</td></tr>
 
-  SPOCK
-     No, it is not. But it is true that I will miss the
-     arguments. They were, finally, all that we had.
+<tr id="L168"><td><a href="#L168">168</a></td><td>PICARD:  But your fight with Sarek is over, Spock, and you have none with me.</td></tr>
 
-  PICARD
-     But your fight with Sarek is over, Spock, and you
-     have none with me.
+<tr id="L169"><td><a href="#L169">169</a></td><td>SPOCK:  I always had a different vision than my father. The ability to see beyond pure logic. He considered it weak, but I have discovered it to be a source of extraordinary strength. Sarek would have seen this mission of reunification as a fool's errand, but somehow I think it is not. Logic cannot explain why, I know that I must pursue this.</td></tr>
 
-  SPOCK
-     I always had a different vision than my father.
-     The ability to see beyond pure logic. He
-     considered it weak, but I have discovered it to be
-     a source of extraordinary strength. Sarek would
-     have seen this mission of reunification as a
-     fool's errand, but somehow I think it is not.
-     Logic cannot explain why, I know that I must
-     pursue this.
+<tr id="L170"><td><a href="#L170">170</a></td><td>PICARD:  Even if it leads you into a Romulan trap.</td></tr>
 
-  PICARD
-     Even if it leads you into a Romulan trap.
+<tr id="L171"><td><a href="#L171">171</a></td><td>SPOCK:  If the Romulans do have an ulterior motive, it is in the interests of all concerned that we determine what it is. So, I will play the role that they would have me play.</td></tr>
 
-  SPOCK
-     If the Romulans do have an ulterior motive, it is
-     in the interests of all concerned that we
-     determine what it is. So, I will play the role
-     that they would have me play.
+<tr><td></td><td>LOCATION--Klingon quarters</td></tr>
+<tr id="L172"><td><a href="#L172">172</a></td><td>ANNOTATION: Data is back to his android self when Spock and Picard enter</td></tr>
 
+<tr id="L173"><td><a href="#L173">173</a></td><td>PICARD:  Have you had any success, Mister Data?</td></tr>
 
-LOCATION--Klingon quarters
+<tr id="L174"><td><a href="#L174">174</a></td><td>DATA:  Negative, Captain. The Romulan Information net employs a progressive encryption lock. I have been unable to penetrate their security measures.</td></tr>
 
-  ANNOTATION
-     Data is back to his android self when Spock and
-     Picard enter
+<tr id="L175"><td><a href="#L175">175</a></td><td>SPOCK:  May I assist you, Commander? I have had some experience in these matters.</td></tr>
 
-  PICARD
-     Have you had any success, Mister Data?
+<tr id="L176"><td><a href="#L176">176</a></td><td>DATA:  By all means, Ambassador.</td></tr>
 
-  DATA
-     Negative, Captain. The Romulan Information net
-     employs a progressive encryption lock. I have been
-     unable to penetrate their security measures.
+<tr id="L177"><td><a href="#L177">177</a></td><td>SPOCK:  The Romulans have incorporated a forty three part cipher key into their entry sequence.</td></tr>
 
-  SPOCK
-     May I assist you, Commander? I have had some
-     experience in these matters.
+<tr id="L178"><td><a href="#L178">178</a></td><td>DATA:  Yes, sir, the twenty ninth is the only one I cannot bypass.</td></tr>
 
-  DATA
-     By all means, Ambassador.
+<tr id="L179"><td><a href="#L179">179</a></td><td>PICARD:  I think I'll take this opportunity to remove my ears.</td></tr>
 
-  SPOCK
-     The Romulans have incorporated a forty three part
-     cipher key into their entry sequence.
+<tr id="L180"><td><a href="#L180">180</a></td><td>ANNOTATION: Picard leaves</td></tr>
 
-  DATA
-     Yes, sir, the twenty ninth is the only one I
-     cannot bypass.
+<tr id="L181"><td><a href="#L181">181</a></td><td>SPOCK:  He intrigues me, this Picard.</td></tr>
 
-  PICARD
-     I think I'll take this opportunity to remove my
-     ears.
+<tr id="L182"><td><a href="#L182">182</a></td><td>DATA:  In what manner, sir?</td></tr>
 
-  ANNOTATION
-     Picard leaves
+<tr id="L183"><td><a href="#L183">183</a></td><td>SPOCK:  Remarkably analytical and dispassionate, for a human. I understand why my father chose to mind-meld with him. There's almost a Vulcan quality to the man.</td></tr>
 
-  SPOCK
-     He intrigues me, this Picard.
+<tr id="L184"><td><a href="#L184">184</a></td><td>DATA:  Interesting. I have not considered that. And Captain Picard has been a role model in my quest to be more human.</td></tr>
 
-  DATA
-     In what manner, sir?
+<tr id="L185"><td><a href="#L185">185</a></td><td>SPOCK:  More human?</td></tr>
 
-  SPOCK
-     Remarkably analytical and dispassionate, for a
-     human. I understand why my father chose to
-     mind-meld with him. There's almost a Vulcan
-     quality to the man.
+<tr id="L186"><td><a href="#L186">186</a></td><td>DATA:  Yes, Ambassador.</td></tr>
 
-  DATA
-     Interesting. I have not considered that. And
-     Captain Picard has been a role model in my quest
-     to be more human.
+<tr id="L187"><td><a href="#L187">187</a></td><td>SPOCK:  Fascinating. You have an efficient intellect, superior physical skills and no emotional impediments. There are Vulcans who aspire all their lives to achieve what you've been given by design.</td></tr>
 
-  SPOCK
-     More human?
+<tr id="L188"><td><a href="#L188">188</a></td><td>DATA:  You are half human.</td></tr>
 
-  DATA
-     Yes, Ambassador.
+<tr id="L189"><td><a href="#L189">189</a></td><td>SPOCK:  Yes.</td></tr>
 
-  SPOCK
-     Fascinating. You have an efficient intellect,
-     superior physical skills and no emotional
-     impediments. There are Vulcans who aspire all
-     their lives to achieve what you've been given by
-     design.
+<tr id="L190"><td><a href="#L190">190</a></td><td>DATA:  Yet you have chosen a Vulcan way of life.</td></tr>
 
-  DATA
-     You are half human.
+<tr id="L191"><td><a href="#L191">191</a></td><td>SPOCK:  I have.</td></tr>
 
-  SPOCK
-     Yes.
+<tr id="L192"><td><a href="#L192">192</a></td><td>DATA:  In effect, you have abandoned what I have sought all my life.</td></tr>
 
-  DATA
-     Yet you have chosen a Vulcan way of life.
+<tr id="L193"><td><a href="#L193">193</a></td><td>SPOCK:  I believe I have isolated the twenty ninth cipher access code. I shall attempt to access the Proconsul's files.</td></tr>
 
-  SPOCK
-     I have.
+<tr id="L194"><td><a href="#L194">194</a></td><td>DATA:  Ambassador Spock, may I ask a personal question?</td></tr>
 
-  DATA
-     In effect, you have abandoned what I have sought
-     all my life.
+<tr id="L195"><td><a href="#L195">195</a></td><td>SPOCK:  Please.</td></tr>
 
-  SPOCK
-     I believe I have isolated the twenty ninth cipher
-     access code. I shall attempt to access the
-     Proconsul's files.
+<tr id="L196"><td><a href="#L196">196</a></td><td>DATA:  As you examine your life, do you find you have missed your humanity?</td></tr>
 
-  DATA
-     Ambassador Spock, may I ask a personal question?
+<tr id="L197"><td><a href="#L197">197</a></td><td>SPOCK:  I have no regrets.</td></tr>
 
-  SPOCK
-     Please.
+<tr id="L198"><td><a href="#L198">198</a></td><td>DATA:  No regrets. That is a human expression.</td></tr>
 
-  DATA
-     As you examine your life, do you find you have
-     missed your humanity?
+<tr id="L199"><td><a href="#L199">199</a></td><td>SPOCK:  Yes. Fascinating.</td></tr>
 
-  SPOCK
-     I have no regrets.
+<tr><td></td><td>LOCATION--Piano bar</td></tr>
+<tr id="L200"><td><a href="#L200">200</a></td><td>WORF:  Do you know any Klingon opera?</td></tr>
 
-  DATA
-     No regrets. That is a human expression.
+<tr id="L201"><td><a href="#L201">201</a></td><td>AMARIE:  I don't get a lot of requests for it.</td></tr>
 
-  SPOCK
-     Yes. Fascinating.
+<tr id="L202"><td><a href="#L202">202</a></td><td>WORF:  Surely, you must know at least one theme from Aktuh and Maylota.</td></tr>
 
+<tr id="L203"><td><a href="#L203">203</a></td><td>AMARIE:  I may be a little rusty.</td></tr>
 
-LOCATION--Piano bar
+<tr id="L204"><td><a href="#L204">204</a></td><td>ANNOTATION: with a pounding discord, she starts to sing an aria, and Worf joins in. A fat Ferengi enters with a tall thin female on each arm</td></tr>
 
-  WORF
-     Do you know any Klingon opera?
+<tr id="L205"><td><a href="#L205">205</a></td><td>OMAG:  What is that dreadful noise? It sounds like a Bardakian pronghorn moose. You know what I want to hear.</td></tr>
 
-  AMARIE
-     I don't get a lot of requests for it.
+<tr id="L206"><td><a href="#L206">206</a></td><td>AMARIE:  Yes, yes, I know.</td></tr>
 
-  WORF
-     Surely, you must know at least one theme from
-     Aktuh and Maylota.
+<tr id="L207"><td><a href="#L207">207</a></td><td>WORF:  Worf to Enterprise.</td></tr>
 
-  AMARIE
-     I may be a little rusty.
+<tr id="L208"><td><a href="#L208">208</a></td><td>RIKER [OC]:  Go ahead.</td></tr>
 
-  ANNOTATION
-     with a pounding discord, she starts to sing an
-     aria, and Worf joins in. A fat Ferengi enters with
-     a tall thin female on each arm
+<tr id="L209"><td><a href="#L209">209</a></td><td>WORF:  A fat Ferengi</td></tr>
 
-  OMAG
-     What is that dreadful noise? It sounds like a
-     Bardakian pronghorn moose. You know what I want to
-     hear.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L210"><td><a href="#L210">210</a></td><td>WORF [OC]:  Has just entered the establishment.</td></tr>
 
-  AMARIE
-     Yes, yes, I know.
+<tr id="L211"><td><a href="#L211">211</a></td><td>RIKER:  Is that Melor Famagal I hear?</td></tr>
 
-  WORF
-     Worf to Enterprise.
+<tr id="L212"><td><a href="#L212">212</a></td><td>WORF [OC]:  It is.</td></tr>
 
-  RIKER [OC]
-     Go ahead.
+<tr id="L213"><td><a href="#L213">213</a></td><td>RIKER:  I'm on my way.</td></tr>
 
-  WORF
-     A fat Ferengi
+<tr><td></td><td>LOCATION--Piano bar</td></tr>
+<tr id="L214"><td><a href="#L214">214</a></td><td>OMAG:  Where's the waiter? Is there a waiter in this sorry place?</td></tr>
 
+<tr id="L215"><td><a href="#L215">215</a></td><td>RIKER:  Is there a problem?</td></tr>
 
-LOCATION--Bridge
+<tr id="L216"><td><a href="#L216">216</a></td><td>OMAG:  Yes. I need more napkins.</td></tr>
 
-  WORF [OC]
-     Has just entered the establishment.
+<tr id="L217"><td><a href="#L217">217</a></td><td>RIKER:  Use your sleeve.</td></tr>
 
-  RIKER
-     Is that Melor Famagal I hear?
+<tr id="L218"><td><a href="#L218">218</a></td><td>OMAG:  What did you say?</td></tr>
 
-  WORF [OC]
-     It is.
+<tr id="L219"><td><a href="#L219">219</a></td><td>RIKER:  Or use one of their sleeves, I don't care.</td></tr>
 
-  RIKER
-     I'm on my way.
+<tr id="L220"><td><a href="#L220">220</a></td><td>OMAG:  Who are you?</td></tr>
 
+<tr id="L221"><td><a href="#L221">221</a></td><td>RIKER:  Commander William Riker, USS Enterprise.</td></tr>
 
-LOCATION--Piano bar
+<tr id="L222"><td><a href="#L222">222</a></td><td>OMAG:  Am I supposed to stand up and salute?</td></tr>
 
-  OMAG
-     Where's the waiter? Is there a waiter in this
-     sorry place?
+<tr id="L223"><td><a href="#L223">223</a></td><td>RIKER:  We're investigating the disappearance of a Vulcan ship.</td></tr>
 
-  RIKER
-     Is there a problem?
+<tr id="L224"><td><a href="#L224">224</a></td><td>OMAG:  Well you've got the wrong Ferengi. I never trade in Vulcan ships.</td></tr>
 
-  OMAG
-     Yes. I need more napkins.
+<tr id="L225"><td><a href="#L225">225</a></td><td>RIKER:  We know that you're involved.</td></tr>
 
-  RIKER
-     Use your sleeve.
+<tr id="L226"><td><a href="#L226">226</a></td><td>OMAG:  Who would want a Vulcan ship? Vulcans are pacifists. I deal in warships. Can somebody get me a napkin?</td></tr>
 
-  OMAG
-     What did you say?
+<tr id="L227"><td><a href="#L227">227</a></td><td>RIKER:  Who would want a Vulcan ship?</td></tr>
 
-  RIKER
-     Or use one of their sleeves, I don't care.
+<tr id="L228"><td><a href="#L228">228</a></td><td>OMAG:  Hypothetically speaking?</td></tr>
 
-  OMAG
-     Who are you?
+<tr id="L229"><td><a href="#L229">229</a></td><td>RIKER:  Hypothetically speaking.</td></tr>
 
-  RIKER
-     Commander William Riker, USS Enterprise.
+<tr id="L230"><td><a href="#L230">230</a></td><td>OMAG:  I never learned to speak hypothetical.</td></tr>
 
-  OMAG
-     Am I supposed to stand up and salute?
+<tr id="L231"><td><a href="#L231">231</a></td><td>ANNOTATION: so Riker tips Omag's dinner onto his lap then grabs him by his lapels</td></tr>
 
-  RIKER
-     We're investigating the disappearance of a Vulcan
-     ship.
+<tr id="L232"><td><a href="#L232">232</a></td><td>OMAG:  Are you crazy?</td></tr>
 
-  OMAG
-     Well you've got the wrong Ferengi. I never trade
-     in Vulcan ships.
+<tr id="L233"><td><a href="#L233">233</a></td><td>RIKER:  Let me explain what'll happen to you if you don't tell me about the Vulcan ship. Your right of passage through this sector will be revoked and more than that, I will be very unhappy.</td></tr>
 
-  RIKER
-     We know that you're involved.
+<tr id="L234"><td><a href="#L234">234</a></td><td>OMAG:  I delivered it to a Barolian freighter.</td></tr>
 
-  OMAG
-     Who would want a Vulcan ship? Vulcans are
-     pacifists. I deal in warships. Can somebody get me
-     a napkin?
+<tr id="L235"><td><a href="#L235">235</a></td><td>RIKER:  At what coordinates?</td></tr>
 
-  RIKER
-     Who would want a Vulcan ship?
+<tr id="L236"><td><a href="#L236">236</a></td><td>OMAG:  I don't remember. Ow! Watch it! You're stretching my neck.</td></tr>
 
-  OMAG
-     Hypothetically speaking?
+<tr id="L237"><td><a href="#L237">237</a></td><td>RIKER:  Co-ordinates?</td></tr>
 
-  RIKER
-     Hypothetically speaking.
+<tr id="L238"><td><a href="#L238">238</a></td><td>OMAG:  At Galorndon Core. Near the Neutral Zone. That's all I know. I swear it.</td></tr>
 
-  OMAG
-     I never learned to speak hypothetical.
+<tr id="L239"><td><a href="#L239">239</a></td><td>RIKER:  Enjoy your dinner.</td></tr>
 
-  ANNOTATION
-     so Riker tips Omag's dinner onto his lap then
-     grabs him by his lapels
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L240"><td><a href="#L240">240</a></td><td>RIKER:  As soon as I heard this Barolian ship was at the Galorndon Core, I started to think Romulans.</td></tr>
 
-  OMAG
-     Are you crazy?
+<tr id="L241"><td><a href="#L241">241</a></td><td>PICARD [on viewscreen]:  And the Romulans are suddenly very interested in bonding with the Vulcans. Spock has been meeting with the new Senate Proconsul about reunification.</td></tr>
 
-  RIKER
-     Let me explain what'll happen to you if you don't
-     tell me about the Vulcan ship. Your right of
-     passage through this sector will be revoked and
-     more than that, I will be very unhappy.
+<tr id="L242"><td><a href="#L242">242</a></td><td>RIKER:  Reunification?</td></tr>
 
-  OMAG
-     I delivered it to a Barolian freighter.
+<tr id="L243"><td><a href="#L243">243</a></td><td>PICARD [on viewscreen]:  The Proconsul says that he is prepared to endorse peace talks.</td></tr>
 
-  RIKER
-     At what coordinates?
+<tr id="L244"><td><a href="#L244">244</a></td><td>RIKER:  And Spock?</td></tr>
 
-  OMAG
-     I don't remember. Ow! Watch it! You're stretching
-     my neck.
+<tr id="L245"><td><a href="#L245">245</a></td><td>PICARD [on viewscreen]:  The Ambassador is sceptical, but he cares a great deal about reunification. As long as there's a chance of success, he's prepared to pursue it.</td></tr>
 
-  RIKER
-     Co-ordinates?
+<tr id="L246"><td><a href="#L246">246</a></td><td>TROI:  I'm afraid I don't see how a stolen Vulcan ship fits into all this.</td></tr>
 
-  OMAG
-     At Galorndon Core. Near the Neutral Zone. That's
-     all I know. I swear it.
+<tr id="L247"><td><a href="#L247">247</a></td><td>PICARD [on viewscreen]:  Neither do I, Counsellor. How soon can you be at Galorndon Core, Number One?</td></tr>
 
-  RIKER
-     Enjoy your dinner.
+<tr id="L248"><td><a href="#L248">248</a></td><td>RIKER:  A little over eight hours.</td></tr>
 
+<tr id="L249"><td><a href="#L249">249</a></td><td>PICARD [on viewscreen]:  Well, this may prove to be a wild goose chase, but I don't see that we have any other choice, do you?</td></tr>
 
-LOCATION--Bridge
+<tr id="L250"><td><a href="#L250">250</a></td><td>RIKER:  Agreed.</td></tr>
 
-  RIKER
-     As soon as I heard this Barolian ship was at the
-     Galorndon Core, I started to think Romulans.
+<tr id="L251"><td><a href="#L251">251</a></td><td>DATA:  We are losing our Romulan carrier wave, sir.</td></tr>
 
-  PICARD [on viewscreen]
-     And the Romulans are suddenly very interested in
-     bonding with the Vulcans. Spock has been meeting
-     with the new Senate Proconsul about reunification.
+<tr id="L252"><td><a href="#L252">252</a></td><td>PICARD [on viewscreen]:  We'll advise you further as soon as you reach your destination, Number One. Picard out.</td></tr>
 
-  RIKER
-     Reunification?
+<tr id="L253"><td><a href="#L253">253</a></td><td>ANNOTATION: transmission ends</td></tr>
 
-  PICARD [on viewscreen]
-     The Proconsul says that he is prepared to endorse
-     peace talks.
+<tr id="L254"><td><a href="#L254">254</a></td><td>RIKER:  Ensign, set a course to Galorndon Core. Take us to warp eight.</td></tr>
 
-  RIKER
-     And Spock?
+<tr id="L255"><td><a href="#L255">255</a></td><td>ENSIGN:  Aye, sir.</td></tr>
 
-  PICARD [on viewscreen]
-     The Ambassador is sceptical, but he cares a great
-     deal about reunification. As long as there's a
-     chance of success, he's prepared to pursue it.
+<tr><td></td><td>LOCATION--Klingon bridge</td></tr>
+<tr id="L256"><td><a href="#L256">256</a></td><td>DATA:  Captain, the Romulan subspace logs identify a transmission from the Romulan surface to a Barolian ship near Galorndon Core twelve hours ago.</td></tr>
 
-  TROI
-     I'm afraid I don't see how a stolen Vulcan ship
-     fits into all this.
+<tr id="L257"><td><a href="#L257">257</a></td><td>K'VADA:  Galorndon Core is along the Barolian trade route. They trade a great deal with the Romulans. It's probably just routine.</td></tr>
 
-  PICARD [on viewscreen]
-     Neither do I, Counsellor. How soon can you be at
-     Galorndon Core, Number One?
+<tr id="L258"><td><a href="#L258">258</a></td><td>DATA:  This would not appear to be routine. I was able to trace the source of the transmission. It incorporates the code prefix of Romulan intelligence.</td></tr>
 
-  RIKER
-     A little over eight hours.
+<tr id="L259"><td><a href="#L259">259</a></td><td>PICARD:  Can you access it?</td></tr>
 
-  PICARD [on viewscreen]
-     Well, this may prove to be a wild goose chase, but
-     I don't see that we have any other choice, do you?
+<tr id="L260"><td><a href="#L260">260</a></td><td>DATA:  It is a short sequence of numbers. One four zero zero.</td></tr>
 
-  RIKER
-     Agreed.
+<tr id="L261"><td><a href="#L261">261</a></td><td>PICARD:  Nothing more?</td></tr>
 
-  DATA
-     We are losing our Romulan carrier wave, sir.
+<tr id="L262"><td><a href="#L262">262</a></td><td>DATA:  No, sir.</td></tr>
 
-  PICARD [on viewscreen]
-     We'll advise you further as soon as you reach your
-     destination, Number One. Picard out.
+<tr><td></td><td>LOCATION--Romulan street</td></tr>
+<tr id="L263"><td><a href="#L263">263</a></td><td>D'TAN:  Spock! I've been looking for you.</td></tr>
 
-  ANNOTATION
-     transmission ends
+<tr id="L264"><td><a href="#L264">264</a></td><td>SPOCK:  I have been meeting with the Proconsul.</td></tr>
 
-  RIKER
-     Ensign, set a course to Galorndon Core. Take us to
-     warp eight.
+<tr id="L265"><td><a href="#L265">265</a></td><td>D'TAN:  Does he still speak of reunification?</td></tr>
 
-  ENSIGN
-     Aye, sir.
+<tr id="L266"><td><a href="#L266">266</a></td><td>SPOCK:  He speaks of nothing else.</td></tr>
 
+<tr><td></td><td>LOCATION--Cafe</td></tr>
+<tr id="L267"><td><a href="#L267">267</a></td><td>D'TAN:  Have you ever seen these?</td></tr>
 
-LOCATION--Klingon bridge
+<tr id="L268"><td><a href="#L268">268</a></td><td>ANNOTATION: odd shapes small blocks</td></tr>
 
-  DATA
-     Captain, the Romulan subspace logs identify a
-     transmission from the Romulan surface to a
-     Barolian ship near Galorndon Core twelve hours
-     ago.
+<tr id="L269"><td><a href="#L269">269</a></td><td>SPOCK:  The syllabic nucleus of the Vulcan language.</td></tr>
 
-  K'VADA
-     Galorndon Core is along the Barolian trade route.
-     They trade a great deal with the Romulans. It's
-     probably just routine.
+<tr id="L270"><td><a href="#L270">270</a></td><td>D'TAN:  They were my toys when I was small.</td></tr>
 
-  DATA
-     This would not appear to be routine. I was able to
-     trace the source of the transmission. It
-     incorporates the code prefix of Romulan
-     intelligence.
+<tr id="L271"><td><a href="#L271">271</a></td><td>SPOCK:  Your parents wanted you to learn to understand Vulcan?</td></tr>
 
-  PICARD
-     Can you access it?
+<tr id="L272"><td><a href="#L272">272</a></td><td>D'TAN:  Yes, as did their parents before them, to prepare us for the day when we would live again with our Vulcan cousins.</td></tr>
 
-  DATA
-     It is a short sequence of numbers. One four zero
-     zero.
+<tr id="L273"><td><a href="#L273">273</a></td><td>ROMULAN 1:  Your friends from the Federation have returned. They need to see you immediately. I've told Pardek. He'll meet you at the cave.</td></tr>
 
-  PICARD
-     Nothing more?
+<tr><td></td><td>LOCATION--Caves</td></tr>
+<tr id="L274"><td><a href="#L274">274</a></td><td>PICARD:  The only communication that was sent were the numbers one four zero zero.</td></tr>
 
-  DATA
-     No, sir.
+<tr id="L275"><td><a href="#L275">275</a></td><td>PARDEK:  What does it mean?</td></tr>
 
+<tr id="L276"><td><a href="#L276">276</a></td><td>SPOCK:  It means that the Proconsul has apparently been attempting to deceive me. For what purpose I cannot say yet. But his conversations with me have obviously been part of a greater plan which involves the stolen Vulcan ship.</td></tr>
 
-LOCATION--Romulan street
+<tr id="L277"><td><a href="#L277">277</a></td><td>DATA:  How do you know that, Ambassador?</td></tr>
 
-  D'TAN
-     Spock! I've been looking for you.
+<tr id="L278"><td><a href="#L278">278</a></td><td>SPOCK:  The time the Proconsul set for the subspace announcement of our peace initiative is fourteen hundred hours tomorrow. One four zero zero.</td></tr>
 
-  SPOCK
-     I have been meeting with the Proconsul.
+<tr id="L279"><td><a href="#L279">279</a></td><td>PARDEK:  Why would they need a Vulcan ship?</td></tr>
 
-  D'TAN
-     Does he still speak of reunification?
+<tr id="L280"><td><a href="#L280">280</a></td><td>SELA:  That will become clear very shortly. Captain Picard, welcome to Romulus. I trust you've enjoyed your visit. And this is the android I have come to respect in battle.</td></tr>
 
-  SPOCK
-     He speaks of nothing else.
+<tr id="L281"><td><a href="#L281">281</a></td><td>DATA:  Lieutenant Commander Data.</td></tr>
 
+<tr id="L282"><td><a href="#L282">282</a></td><td>PARDEK:  How could they know of this location? Someone has betrayed us.</td></tr>
 
-LOCATION--Cafe
+<tr id="L283"><td><a href="#L283">283</a></td><td>SPOCK:  Yes. You did.</td></tr>
 
-  D'TAN
-     Have you ever seen these?
+<tr id="L284"><td><a href="#L284">284</a></td><td>PARDEK:  Spock, we've been friends for eighty years.</td></tr>
 
-  ANNOTATION
-     odd shapes small blocks
+<tr id="L285"><td><a href="#L285">285</a></td><td>SPOCK:  It is the only logical conclusion. You asked me to Romulus, you arranged the meetings with the Proconsul, and you knew that Picard and Data had returned to the surface with new information.</td></tr>
 
-  SPOCK
-     The syllabic nucleus of the Vulcan language.
+<tr id="L286"><td><a href="#L286">286</a></td><td>SELA:  The great Spock. Very well. Senator Pardek, your service to the Romulan people is noted and appreciated.</td></tr>
 
-  D'TAN
-     They were my toys when I was small.
+<tr id="L287"><td><a href="#L287">287</a></td><td>PARDEK:  Jolan tru, Spock.</td></tr>
 
-  SPOCK
-     Your parents wanted you to learn to understand
-     Vulcan?
+<tr id="L288"><td><a href="#L288">288</a></td><td>SELA:  Do not be distressed. Your dream of reunification is not dead. It will simply take a different form. The Romulan conquest of Vulcan. Bring them.</td></tr>
 
-  D'TAN
-     Yes, as did their parents before them, to prepare
-     us for the day when we would live again with our
-     Vulcan cousins.
+<tr id="L289"><td><a href="#L289">289</a></td><td>SOMEONE: First Officer's log, supplemental. The Enterprise has reached Galorndon Core, near the border of the Neutral Zone.</td></tr>
 
-  ROMULAN 1
-     Your friends from the Federation have returned.
-     They need to see you immediately. I've told
-     Pardek. He'll meet you at the cave.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L290"><td><a href="#L290">290</a></td><td>RIKER:  Any signs of life, Mister La Forge?</td></tr>
 
+<tr id="L291"><td><a href="#L291">291</a></td><td>LAFORGE:  Negative, Commander.</td></tr>
 
-LOCATION--Caves
+<tr id="L292"><td><a href="#L292">292</a></td><td>TROI:  The Romulans could have a cloaked base on the surface.</td></tr>
 
-  PICARD
-     The only communication that was sent were the
-     numbers one four zero zero.
+<tr id="L293"><td><a href="#L293">293</a></td><td>RIKER:  Or anywhere else along the Neutral Zone.</td></tr>
 
-  PARDEK
-     What does it mean?
+<tr id="L294"><td><a href="#L294">294</a></td><td>WORF:  Sir, a coded subspace signal from Romulus. It's the Captain.</td></tr>
 
-  SPOCK
-     It means that the Proconsul has apparently been
-     attempting to deceive me. For what purpose I
-     cannot say yet. But his conversations with me have
-     obviously been part of a greater plan which
-     involves the stolen Vulcan ship.
+<tr id="L295"><td><a href="#L295">295</a></td><td>TROI:  What?</td></tr>
 
-  DATA
-     How do you know that, Ambassador?
+<tr id="L296"><td><a href="#L296">296</a></td><td>RIKER:  Maintain position at Galorndon Core. Diplomatic initiative appears to be succeeding. Will advise.</td></tr>
 
-  SPOCK
-     The time the Proconsul set for the subspace
-     announcement of our peace initiative is fourteen
-     hundred hours tomorrow. One four zero zero.
+<tr id="L297"><td><a href="#L297">297</a></td><td>WORF:  The message did employ the proper coded sequence.</td></tr>
 
-  PARDEK
-     Why would they need a Vulcan ship?
+<tr id="L298"><td><a href="#L298">298</a></td><td>RIKER:  Yeah. I'm sure it did.</td></tr>
 
-  SELA
-     That will become clear very shortly. Captain
-     Picard, welcome to Romulus. I trust you've enjoyed
-     your visit. And this is the android I have come to
-     respect in battle.
+<tr><td></td><td>LOCATION--Romulan office</td></tr>
+<tr id="L299"><td><a href="#L299">299</a></td><td>SELA:  Come in, gentlemen. Take a seat, please. (she continues working on a PADD) Excuse me, I'm just finishing up a speech. For you, Mister Spock. I rather enjoy writing. I don't get to do it often in this job.</td></tr>
 
-  DATA
-     Lieutenant Commander Data.
+<tr id="L300"><td><a href="#L300">300</a></td><td>DATA:  Perhaps you would be happier in another job.</td></tr>
 
-  PARDEK
-     How could they know of this location? Someone has
-     betrayed us.
+<tr id="L301"><td><a href="#L301">301</a></td><td>SELA:  Please feel free to change any words that you wish. I've tried to make it sound Vulcan. A lot of unnecessarily long words. In a few hours, you will deliver this statement alongside our Senate Proconsul. It will announce to the Vulcan people that a peace envoy is on its way from Romulus. We will transmit it on all Federation subspace frequencies.</td></tr>
 
-  SPOCK
-     Yes. You did.
+<tr id="L302"><td><a href="#L302">302</a></td><td>PICARD:  Peace envoy, in a stolen Vulcan ship.</td></tr>
 
-  PARDEK
-     Spock, we've been friends for eighty years.
+<tr id="L303"><td><a href="#L303">303</a></td><td>SELA:  Actually, three Vulcan ships, Captain. The Enterprise is only aware of the one we stole from Qualor Two. We have been following your investigation. It has forced us to make some minor changes. One of them, a message sent in your name, ordering them to stay where they are.</td></tr>
 
-  SPOCK
-     It is the only logical conclusion. You asked me to
-     Romulus, you arranged the meetings with the
-     Proconsul, and you knew that Picard and Data had
-     returned to the surface with new information.
+<tr id="L304"><td><a href="#L304">304</a></td><td>PICARD:  The moment those Vulcan ships appear in the Neutral Zone, the Enterprise will move to intercept.</td></tr>
 
-  SELA
-     The great Spock. Very well. Senator Pardek, your
-     service to the Romulan people is noted and
-     appreciated.
+<tr id="L305"><td><a href="#L305">305</a></td><td>SELA:  In that event, the Enterprise will be given more important matters to attend to. In the meantime, Ambassador Spock will be telling his people to welcome the peace envoy. And when they do, our forces will seize control before anyone realises what has happened.</td></tr>
 
-  PARDEK
-     Jolan tru, Spock.
+<tr id="L306"><td><a href="#L306">306</a></td><td>PICARD:  Do you seriously believe that the Federation will not immediately intervene?</td></tr>
 
-  SELA
-     Do not be distressed. Your dream of reunification
-     is not dead. It will simply take a different form.
-     The Romulan conquest of Vulcan. Bring them.
+<tr id="L307"><td><a href="#L307">307</a></td><td>SELA:  Of course it will, and we're fully prepared for it. But we will be there, entrenched, and it will be very difficult to get us out once we are. Reunification will become a fact of life.</td></tr>
 
-  SOMEONE
-     First Officer's log, supplemental. The Enterprise
-     has reached Galorndon Core, near the border of the
-     Neutral Zone.
+<tr id="L308"><td><a href="#L308">308</a></td><td>SPOCK:  I will not read this or any other statement.</td></tr>
 
+<tr id="L309"><td><a href="#L309">309</a></td><td>SELA:  If you do not, you will die. All of you will die.</td></tr>
 
-LOCATION--Bridge
+<tr id="L310"><td><a href="#L310">310</a></td><td>SPOCK:  Since it is logical to conclude that you will kill us in any event, I choose not to cooperate.</td></tr>
 
-  RIKER
-     Any signs of life, Mister La Forge?
+<tr id="L311"><td><a href="#L311">311</a></td><td>SELA:  I hate Vulcans. I hate the logic. I hate the arrogance. Very well. Computer, holographic programme Spock One. By taking advantage of holographic sampling during the last several days, we have created a programmable Spock. Run programme!</td></tr>
 
-  LAFORGE
-     Negative, Commander.
+<tr id="L312"><td><a href="#L312">312</a></td><td>HOLO-SPOCK:  This is Ambassador Spock of Vulcan. By now, Federation sensors are tracking three Vulcan ships crossing the Neutral Zone. These ships carry the future of the Romulan and Vulcan people. Our long conflict is finally over.</td></tr>
 
-  TROI
-     The Romulans could have a cloaked base on the
-     surface.
+<tr id="L313"><td><a href="#L313">313</a></td><td>SELA:  Freeze. We would have preferred an interactive Spock who could have responded to questions, but this will have to suffice.</td></tr>
 
-  RIKER
-     Or anywhere else along the Neutral Zone.
+<tr id="L314"><td><a href="#L314">314</a></td><td>PICARD:  You can hardly believe this will convince anyone.</td></tr>
 
-  WORF
-     Sir, a coded subspace signal from Romulus. It's
-     the Captain.
+<tr id="L315"><td><a href="#L315">315</a></td><td>SELA:  I don't need to convince them. Just confuse them long enough to reach Vulcan. End programme. If you'll excuse me, it's time to send our ships on their journey.</td></tr>
 
-  TROI
-     What?
+<tr id="L316"><td><a href="#L316">316</a></td><td>ANNOTATION: Sela and the guards leave</td></tr>
 
-  RIKER
-     Maintain position at Galorndon Core. Diplomatic
-     initiative appears to be succeeding. Will advise.
+<tr id="L317"><td><a href="#L317">317</a></td><td>PICARD:  Suggestions?</td></tr>
 
-  WORF
-     The message did employ the proper coded sequence.
+<tr id="L318"><td><a href="#L318">318</a></td><td>SPOCK:  Commander Data, are they still unaware that we have access to their computers?</td></tr>
 
-  RIKER
-     Yeah. I'm sure it did.
+<tr id="L319"><td><a href="#L319">319</a></td><td>DATA:  I believe so, Ambassador.</td></tr>
 
+<tr id="L320"><td><a href="#L320">320</a></td><td>SPOCK:  Then perhaps you and I can find a way to create a diversion.</td></tr>
 
-LOCATION--Romulan office
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L321"><td><a href="#L321">321</a></td><td>WORF:  Sir, sensors are picking up three vessels crossing the Neutral Zone. Vulcan ships.</td></tr>
 
-  SELA
-     Come in, gentlemen. Take a seat, please. (she
-     continues working on a PADD) Excuse me, I'm just
-     finishing up a speech. For you, Mister Spock. I
-     rather enjoy writing. I don't get to do it often
-     in this job.
+<tr id="L322"><td><a href="#L322">322</a></td><td>TROI:  Vulcan?</td></tr>
 
-  DATA
-     Perhaps you would be happier in another job.
+<tr id="L323"><td><a href="#L323">323</a></td><td>RIKER:  What's their heading, Mister Worf?</td></tr>
 
-  SELA
-     Please feel free to change any words that you
-     wish. I've tried to make it sound Vulcan. A lot of
-     unnecessarily long words. In a few hours, you will
-     deliver this statement alongside our Senate
-     Proconsul. It will announce to the Vulcan people
-     that a peace envoy is on its way from Romulus. We
-     will transmit it on all Federation subspace
-     frequencies.
+<tr id="L324"><td><a href="#L324">324</a></td><td>WORF:  One four three mark zero one two.</td></tr>
 
-  PICARD
-     Peace envoy, in a stolen Vulcan ship.
+<tr id="L325"><td><a href="#L325">325</a></td><td>LAFORGE:  That would put them on a course to Vulcan. They don't seem to be in any hurry. They're only moving at warp one, Commander.</td></tr>
 
-  SELA
-     Actually, three Vulcan ships, Captain. The
-     Enterprise is only aware of the one we stole from
-     Qualor Two. We have been following your
-     investigation. It has forced us to make some minor
-     changes. One of them, a message sent in your name,
-     ordering them to stay where they are.
+<tr id="L326"><td><a href="#L326">326</a></td><td>RIKER:  Worf, signal them on subspace. Request their status. Geordi, see if you can tell if it's one of ships we've been looking for.</td></tr>
 
-  PICARD
-     The moment those Vulcan ships appear in the
-     Neutral Zone, the Enterprise will move to
-     intercept.
+<tr id="L327"><td><a href="#L327">327</a></td><td>WORF:  They say they are escorting a peace envoy from Romulus to Vulcan. They request that we monitor Federation subspace channels. Ambassador Spock will be making an announcement shortly.</td></tr>
 
-  SELA
-     In that event, the Enterprise will be given more
-     important matters to attend to. In the meantime,
-     Ambassador Spock will be telling his people to
-     welcome the peace envoy. And when they do, our
-     forces will seize control before anyone realises
-     what has happened.
+<tr id="L328"><td><a href="#L328">328</a></td><td>TROI:  Perhaps his reunification talks were successful.</td></tr>
 
-  PICARD
-     Do you seriously believe that the Federation will
-     not immediately intervene?
+<tr id="L329"><td><a href="#L329">329</a></td><td>RIKER:  Geordi?</td></tr>
 
-  SELA
-     Of course it will, and we're fully prepared for
-     it. But we will be there, entrenched, and it will
-     be very difficult to get us out once we are.
-     Reunification will become a fact of life.
+<tr id="L330"><td><a href="#L330">330</a></td><td>LAFORGE:  None of the transponder signatures matches that of the missing ship. They could have been altered. I'll keep checking.</td></tr>
 
-  SPOCK
-     I will not read this or any other statement.
+<tr id="L331"><td><a href="#L331">331</a></td><td>RIKER:  Set a course to intercept.</td></tr>
 
-  SELA
-     If you do not, you will die. All of you will die.
+<tr id="L332"><td><a href="#L332">332</a></td><td>WORF:  Sir, the Captain's orders were to maintain</td></tr>
 
-  SPOCK
-     Since it is logical to conclude that you will kill
-     us in any event, I choose not to cooperate.
+<tr id="L333"><td><a href="#L333">333</a></td><td>RIKER:  I know the Captain's orders, Lieutenant. Engage.</td></tr>
 
-  SELA
-     I hate Vulcans. I hate the logic. I hate the
-     arrogance. Very well. Computer, holographic
-     programme Spock One. By taking advantage of
-     holographic sampling during the last several days,
-     we have created a programmable Spock. Run
-     programme!
+<tr><td></td><td>LOCATION--Romulan office</td></tr>
+<tr id="L334"><td><a href="#L334">334</a></td><td>ANNOTATION: Sela and her guards enter an empty room</td></tr>
 
-  HOLO-SPOCK
-     This is Ambassador Spock of Vulcan. By now,
-     Federation sensors are tracking three Vulcan ships
-     crossing the Neutral Zone. These ships carry the
-     future of the Romulan and Vulcan people. Our long
-     conflict is finally over.
+<tr id="L335"><td><a href="#L335">335</a></td><td>SELA:  Impossible! There's no way they could have gotten out of this room.</td></tr>
 
-  SELA
-     Freeze. We would have preferred an interactive
-     Spock who could have responded to questions, but
-     this will have to suffice.
+<tr id="L336"><td><a href="#L336">336</a></td><td>RIKER:  That's far enough.</td></tr>
 
-  PICARD
-     You can hardly believe this will convince anyone.
+<tr id="L337"><td><a href="#L337">337</a></td><td>ANNOTATION: Riker and two security with phasers</td></tr>
 
-  SELA
-     I don't need to convince them. Just confuse them
-     long enough to reach Vulcan. End programme. If
-     you'll excuse me, it's time to send our ships on
-     their journey.
+<tr id="L338"><td><a href="#L338">338</a></td><td>RIKER:  Stay right where you are. Drop your weapons.</td></tr>
 
-  ANNOTATION
-     Sela and the guards leave
+<tr id="L339"><td><a href="#L339">339</a></td><td>SELA:  How did you get in here?</td></tr>
 
-  PICARD
-     Suggestions?
+<tr id="L340"><td><a href="#L340">340</a></td><td>RIKER:  Drop your weapons.</td></tr>
 
-  SPOCK
-     Commander Data, are they still unaware that we
-     have access to their computers?
+<tr id="L341"><td><a href="#L341">341</a></td><td>ANNOTATION: the Romulans shoot at them</td></tr>
 
-  DATA
-     I believe so, Ambassador.
+<tr id="L342"><td><a href="#L342">342</a></td><td>RIKER:  Drop your weapons.</td></tr>
 
-  SPOCK
-     Then perhaps you and I can find a way to create a
-     diversion.
+<tr id="L343"><td><a href="#L343">343</a></td><td>SELA:  Cease fire. Holograms.</td></tr>
 
+<tr id="L344"><td><a href="#L344">344</a></td><td>ANNOTATION: Spock comes out of a presumably holographic wall and neck pinches a guard. Picard punches the other one</td></tr>
 
-LOCATION--Bridge
+<tr id="L345"><td><a href="#L345">345</a></td><td>SPOCK:  I'm afraid I don't know too much about Romulan disruptor settings.</td></tr>
 
-  WORF
-     Sir, sensors are picking up three vessels crossing
-     the Neutral Zone. Vulcan ships.
+<tr id="L346"><td><a href="#L346">346</a></td><td>ANNOTATION: Sela surrenders</td></tr>
 
-  TROI
-     Vulcan?
+<tr id="L347"><td><a href="#L347">347</a></td><td>SPOCK:  Cowboy diplomacy?</td></tr>
 
-  RIKER
-     What's their heading, Mister Worf?
+<tr id="L348"><td><a href="#L348">348</a></td><td>ANNOTATION: the fake wall vanishes</td></tr>
 
-  WORF
-     One four three mark zero one two.
+<tr id="L349"><td><a href="#L349">349</a></td><td>PICARD:  Well done, Mister Data. Though I don't think you got Commander Riker's hair quite right.</td></tr>
 
-  LAFORGE
-     That would put them on a course to Vulcan. They
-     don't seem to be in any hurry. They're only moving
-     at warp one, Commander.
+<tr id="L350"><td><a href="#L350">350</a></td><td>DATA:  I will be more observant in the future, sir.</td></tr>
 
-  RIKER
-     Worf, signal them on subspace. Request their
-     status. Geordi, see if you can tell if it's one of
-     ships we've been looking for.
+<tr id="L351"><td><a href="#L351">351</a></td><td>SELA:  It doesn't matter what you do now. Spock's announcement will be made in minutes. Our forces will be on Vulcan before you can alert anyone.</td></tr>
 
-  WORF
-     They say they are escorting a peace envoy from
-     Romulus to Vulcan. They request that we monitor
-     Federation subspace channels. Ambassador Spock
-     will be making an announcement shortly.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L352"><td><a href="#L352">352</a></td><td>CRUSHER:  We've just received a priority one distress call from the colony on Dulisian Four. A massive failure of the environmental support systems. They're going to require evacuation.</td></tr>
 
-  TROI
-     Perhaps his reunification talks were successful.
+<tr id="L353"><td><a href="#L353">353</a></td><td>RIKER:  Mister Worf, any other ships in the vicinity of Dulisian Four?</td></tr>
 
-  RIKER
-     Geordi?
+<tr id="L354"><td><a href="#L354">354</a></td><td>WORF:  One, sir. A Rutian archaeological vessel.</td></tr>
 
-  LAFORGE
-     None of the transponder signatures matches that of
-     the missing ship. They could have been altered.
-     I'll keep checking.
+<tr id="L355"><td><a href="#L355">355</a></td><td>CRUSHER:  I'm sure it's not equipped to handle something of this scale, Will.</td></tr>
 
-  RIKER
-     Set a course to intercept.
+<tr id="L356"><td><a href="#L356">356</a></td><td>RIKER:  Geordi, any update on the Vulcan ships?</td></tr>
 
-  WORF
-     Sir, the Captain's orders were to maintain
+<tr id="L357"><td><a href="#L357">357</a></td><td>LAFORGE:  I've checked every sensor display backwards and forwards. If the Romulans altered them, they didn't leave any fingerprints. I can't tie any of them to the surplus yard.</td></tr>
 
-  RIKER
-     I know the Captain's orders, Lieutenant. Engage.
+<tr id="L358"><td><a href="#L358">358</a></td><td>WORF:  The Vulcan ships have entered Federation space. Maintaining low warp.</td></tr>
 
+<tr id="L359"><td><a href="#L359">359</a></td><td>RIKER:  Lay in a new course to Dulisian Four.</td></tr>
 
-LOCATION--Romulan office
+<tr id="L360"><td><a href="#L360">360</a></td><td>WORF:  Incoming message from Romulus on all subspace channels.</td></tr>
 
-  ANNOTATION
-     Sela and her guards enter an empty room
+<tr id="L361"><td><a href="#L361">361</a></td><td>RIKER:  On screen.</td></tr>
 
-  SELA
-     Impossible! There's no way they could have gotten
-     out of this room.
+<tr id="L362"><td><a href="#L362">362</a></td><td>SPOCK [on viewscreen]:  This is Ambassador Spock of Vulcan. By now, Federation sensors are tracking three Vulcan ships crossing the Neutral Zone. These ships carry a Romulan invasion force and must be stopped. I repeat, these ships carry a Romulan</td></tr>
 
-  RIKER
-     That's far enough.
+<tr id="L363"><td><a href="#L363">363</a></td><td>ANNOTATION: transmission ends</td></tr>
 
-  ANNOTATION
-     Riker and two security with phasers
+<tr id="L364"><td><a href="#L364">364</a></td><td>RIKER:  Doctor, contact Dulisian Four and confirm this distress call. I have a feeling it may prove to be a false alarm. Mister Worf, how long before we intercept the Vulcan ships?</td></tr>
 
-  RIKER
-     Stay right where you are. Drop your weapons.
+<tr id="L365"><td><a href="#L365">365</a></td><td>WORF:  Fourteen minutes, sir.</td></tr>
 
-  SELA
-     How did you get in here?
+<tr><td></td><td>LOCATION--Romulan office</td></tr>
+<tr id="L366"><td><a href="#L366">366</a></td><td>DATA:  Communication lines have been terminated at the transmitter, but I am quite certain the message was sent prior to the interruption.</td></tr>
 
-  RIKER
-     Drop your weapons.
+<tr id="L367"><td><a href="#L367">367</a></td><td>PICARD:  Well done, Mister Data.</td></tr>
 
-  ANNOTATION
-     the Romulans shoot at them
+<tr id="L368"><td><a href="#L368">368</a></td><td>SELA:  You'll never get out of this building.</td></tr>
 
-  RIKER
-     Drop your weapons.
+<tr id="L369"><td><a href="#L369">369</a></td><td>DATA:  I disagree, Commander. After studying the design of this structure, I have determined that our best route of escape would be the underground exit to the east of this wing. I have disconnected certain security scanners to assist us. I am afraid we cannot permit you to warn your guards.</td></tr>
 
-  SELA
-     Cease fire. Holograms.
+<tr id="L370"><td><a href="#L370">370</a></td><td>ANNOTATION: and Data neck-pinches Sela into unconsciousness</td></tr>
 
-  ANNOTATION
-     Spock comes out of a presumably holographic wall
-     and neck pinches a guard. Picard punches the other
-     one
+<tr id="L371"><td><a href="#L371">371</a></td><td>SPOCK:  Not bad.</td></tr>
 
-  SPOCK
-     I'm afraid I don't know too much about Romulan
-     disruptor settings.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L372"><td><a href="#L372">372</a></td><td>WORF:  The Vulcan defence vessels are also responding. The Romulan force is retreating toward the Neutral Zone.</td></tr>
 
-  ANNOTATION
-     Sela surrenders
+<tr id="L373"><td><a href="#L373">373</a></td><td>RIKER:  They're not taking those Vulcan ships home with them.</td></tr>
 
-  SPOCK
-     Cowboy diplomacy?
+<tr id="L374"><td><a href="#L374">374</a></td><td>WORF:  Visual range, Commander.</td></tr>
 
-  ANNOTATION
-     the fake wall vanishes
+<tr id="L375"><td><a href="#L375">375</a></td><td>RIKER:  On screen.</td></tr>
 
-  PICARD
-     Well done, Mister Data. Though I don't think you
-     got Commander Riker's hair quite right.
+<tr id="L376"><td><a href="#L376">376</a></td><td>LAFORGE:  Romulan warbird decloaking alongside the Vulcan ships.</td></tr>
 
-  DATA
-     I will be more observant in the future, sir.
+<tr id="L377"><td><a href="#L377">377</a></td><td>RIKER:  Red alert.</td></tr>
 
-  SELA
-     It doesn't matter what you do now. Spock's
-     announcement will be made in minutes. Our forces
-     will be on Vulcan before you can alert anyone.
+<tr id="L378"><td><a href="#L378">378</a></td><td>ANNOTATION: but the green meanie is facing the Vulcan ships</td></tr>
 
+<tr id="L379"><td><a href="#L379">379</a></td><td>RIKER:  Advise the warbird to withdraw from Federation space, and tell them to leave the Vulcan ships where they are.</td></tr>
 
-LOCATION--Bridge
+<tr id="L380"><td><a href="#L380">380</a></td><td>WORF:  The warbird is powering up its forward disruptor array.</td></tr>
 
-  CRUSHER
-     We've just received a priority one distress call
-     from the colony on Dulisian Four. A massive
-     failure of the environmental support systems.
-     They're going to require evacuation.
+<tr id="L381"><td><a href="#L381">381</a></td><td>RIKER:  Ready phasers.</td></tr>
 
-  RIKER
-     Mister Worf, any other ships in the vicinity of
-     Dulisian Four?
+<tr id="L382"><td><a href="#L382">382</a></td><td>ANNOTATION: KaBOOM, kaBOOM, kaBOOM, and the green meanie cloaks again</td></tr>
 
-  WORF
-     One, sir. A Rutian archaeological vessel.
+<tr id="L383"><td><a href="#L383">383</a></td><td>LAFORGE:  There were over two thousand Romulan troops on board those ships.</td></tr>
 
-  CRUSHER
-     I'm sure it's not equipped to handle something of
-     this scale, Will.
+<tr id="L384"><td><a href="#L384">384</a></td><td>TROI:  They destroyed their own invasion force.</td></tr>
 
-  RIKER
-     Geordi, any update on the Vulcan ships?
+<tr id="L385"><td><a href="#L385">385</a></td><td>RIKER:  Rather than let them be taken prisoner. Stand down Red alert. Mister Worf, advise the Klingon ship to signal us as soon as Captain Picard and Data are safely aboard.</td></tr>
 
-  LAFORGE
-     I've checked every sensor display backwards and
-     forwards. If the Romulans altered them, they
-     didn't leave any fingerprints. I can't tie any of
-     them to the surplus yard.
+<tr id="L386"><td><a href="#L386">386</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  WORF
-     The Vulcan ships have entered Federation space.
-     Maintaining low warp.
+<tr><td></td><td>LOCATION--Other Caves</td></tr>
+<tr id="L387"><td><a href="#L387">387</a></td><td>D'TAN:  This way. Pardek never saw these caves. It's safe. They won't find us here.</td></tr>
 
-  RIKER
-     Lay in a new course to Dulisian Four.
+<tr id="L388"><td><a href="#L388">388</a></td><td>PICARD:  What will you do now ?</td></tr>
 
-  WORF
-     Incoming message from Romulus on all subspace
-     channels.
+<tr id="L389"><td><a href="#L389">389</a></td><td>WOMAN 2:  What we have always done. Continue to teach. Pass on the ideals to a new generation. Work for the day when new thoughts may be spoken aloud.</td></tr>
 
-  RIKER
-     On screen.
+<tr id="L390"><td><a href="#L390">390</a></td><td>PICARD:  The Federation will welcome that day.</td></tr>
 
-  SPOCK [on viewscreen]
-     This is Ambassador Spock of Vulcan. By now,
-     Federation sensors are tracking three Vulcan ships
-     crossing the Neutral Zone. These ships carry a
-     Romulan invasion force and must be stopped. I
-     repeat, these ships carry a Romulan
+<tr id="L391"><td><a href="#L391">391</a></td><td>DATA:  Captain, we will need to reach our transport site in fourteen minutes.</td></tr>
 
-  ANNOTATION
-     transmission ends
+<tr id="L392"><td><a href="#L392">392</a></td><td>PICARD:  I wish you well.</td></tr>
 
-  RIKER
-     Doctor, contact Dulisian Four and confirm this
-     distress call. I have a feeling it may prove to be
-     a false alarm. Mister Worf, how long before we
-     intercept the Vulcan ships?
+<tr id="L393"><td><a href="#L393">393</a></td><td>VARIOUS:  Thank you. Thank you Captain.</td></tr>
 
-  WORF
-     Fourteen minutes, sir.
+<tr id="L394"><td><a href="#L394">394</a></td><td>ANNOTATION: Picard, Data and Spock go into an adjoining cave</td></tr>
 
+<tr id="L395"><td><a href="#L395">395</a></td><td>SPOCK:  Captain, I will not be coming with you.</td></tr>
 
-LOCATION--Romulan office
+<tr id="L396"><td><a href="#L396">396</a></td><td>PICARD:  Ambassador</td></tr>
 
-  DATA
-     Communication lines have been terminated at the
-     transmitter, but I am quite certain the message
-     was sent prior to the interruption.
+<tr id="L397"><td><a href="#L397">397</a></td><td>SPOCK:  The reason for my coming here has never been more clear. The union of Vulcan and the Romulan people will not be achieved by politics or by diplomacy, but it will be achieved. The answer has been here before us all along. An inexorable evolution toward a Vulcan philosophy has already begun. Like the first Vulcans, these people are struggling to a new enlightenment. It may take decades, even centuries for them to reach it, but they will reach it. And I must help.</td></tr>
 
-  PICARD
-     Well done, Mister Data.
+<tr id="L398"><td><a href="#L398">398</a></td><td>PICARD:  I have learned it is useless to argue with you once your mind is set.</td></tr>
 
-  SELA
-     You'll never get out of this building.
+<tr id="L399"><td><a href="#L399">399</a></td><td>SPOCK:  Not at all, Captain. I have found our arguments quite useful. Almost as useful as those I had with my father.</td></tr>
 
-  DATA
-     I disagree, Commander. After studying the design
-     of this structure, I have determined that our best
-     route of escape would be the underground exit to
-     the east of this wing. I have disconnected certain
-     security scanners to assist us. I am afraid we
-     cannot permit you to warn your guards.
+<tr id="L400"><td><a href="#L400">400</a></td><td>PICARD:  Would it surprise you to learn that he found them equally valuable?</td></tr>
 
-  ANNOTATION
-     and Data neck-pinches Sela into unconsciousness
+<tr id="L401"><td><a href="#L401">401</a></td><td>SPOCK:  Ironically, you may know Sarek better than his own son does. My father and I never chose to meld.</td></tr>
 
-  SPOCK
-     Not bad.
+<tr id="L402"><td><a href="#L402">402</a></td><td>PICARD:  I offer you the chance to touch what he shared with me.</td></tr>
 
+<tr id="L403"><td><a href="#L403">403</a></td><td>ANNOTATION: and we close on Spock initiating a mind-meld with Picard</td></tr>
 
-LOCATION--Bridge
-
-  WORF
-     The Vulcan defence vessels are also responding.
-     The Romulan force is retreating toward the Neutral
-     Zone.
-
-  RIKER
-     They're not taking those Vulcan ships home with
-     them.
-
-  WORF
-     Visual range, Commander.
-
-  RIKER
-     On screen.
-
-  LAFORGE
-     Romulan warbird decloaking alongside the Vulcan
-     ships.
-
-  RIKER
-     Red alert.
-
-  ANNOTATION
-     but the green meanie is facing the Vulcan ships
-
-  RIKER
-     Advise the warbird to withdraw from Federation
-     space, and tell them to leave the Vulcan ships
-     where they are.
-
-  WORF
-     The warbird is powering up its forward disruptor
-     array.
-
-  RIKER
-     Ready phasers.
-
-  ANNOTATION
-     KaBOOM, kaBOOM, kaBOOM, and the green meanie
-     cloaks again
-
-  LAFORGE
-     There were over two thousand Romulan troops on
-     board those ships.
-
-  TROI
-     They destroyed their own invasion force.
-
-  RIKER
-     Rather than let them be taken prisoner. Stand down
-     Red alert. Mister Worf, advise the Klingon ship to
-     signal us as soon as Captain Picard and Data are
-     safely aboard.
-
-  WORF
-     Aye, sir.
-
-
-LOCATION--Other Caves
-
-  D'TAN
-     This way. Pardek never saw these caves. It's safe.
-     They won't find us here.
-
-  PICARD
-     What will you do now ?
-
-  WOMAN 2
-     What we have always done. Continue to teach. Pass
-     on the ideals to a new generation. Work for the
-     day when new thoughts may be spoken aloud.
-
-  PICARD
-     The Federation will welcome that day.
-
-  DATA
-     Captain, we will need to reach our transport site
-     in fourteen minutes.
-
-  PICARD
-     I wish you well.
-
-  VARIOUS
-     Thank you. Thank you Captain.
-
-  ANNOTATION
-     Picard, Data and Spock go into an adjoining cave
-
-  SPOCK
-     Captain, I will not be coming with you.
-
-  PICARD
-     Ambassador
-
-  SPOCK
-     The reason for my coming here has never been more
-     clear. The union of Vulcan and the Romulan people
-     will not be achieved by politics or by diplomacy,
-     but it will be achieved. The answer has been here
-     before us all along. An inexorable evolution
-     toward a Vulcan philosophy has already begun. Like
-     the first Vulcans, these people are struggling to
-     a new enlightenment. It may take decades, even
-     centuries for them to reach it, but they will
-     reach it. And I must help.
-
-  PICARD
-     I have learned it is useless to argue with you
-     once your mind is set.
-
-  SPOCK
-     Not at all, Captain. I have found our arguments
-     quite useful. Almost as useful as those I had with
-     my father.
-
-  PICARD
-     Would it surprise you to learn that he found them
-     equally valuable?
-
-  SPOCK
-     Ironically, you may know Sarek better than his own
-     son does. My father and I never chose to meld.
-
-  PICARD
-     I offer you the chance to touch what he shared
-     with me.
-
-  ANNOTATION
-     and we close on Spock initiating a mind-meld with
-     Picard
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

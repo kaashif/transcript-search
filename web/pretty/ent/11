@@ -1,1777 +1,940 @@
-Cold Front
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Cold Front</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>TRAVIS:  Hold the door. Where were you last night?</td></tr>
 
-LOCATION--Turbolift
+<tr id="L2"><td><a href="#L2">2</a></td><td>HOSHI:  I decided to turn in early.</td></tr>
 
-  TRAVIS
-     Hold the door. Where were you last night?
+<tr id="L3"><td><a href="#L3">3</a></td><td>TRAVIS:  Well, you didn't miss much.</td></tr>
 
-  HOSHI
-     I decided to turn in early.
+<tr id="L4"><td><a href="#L4">4</a></td><td>HOSHI:  What'd they show?</td></tr>
 
-  TRAVIS
-     Well, you didn't miss much.
+<tr id="L5"><td><a href="#L5">5</a></td><td>TRAVIS:  Night of the Killer Androids.</td></tr>
 
-  HOSHI
-     What'd they show?
+<tr id="L6"><td><a href="#L6">6</a></td><td>HOSHI:  That bad?</td></tr>
 
-  TRAVIS
-     Night of the Killer Androids.
+<tr id="L7"><td><a href="#L7">7</a></td><td>TRAVIS:  We've got fifty thousand movies in the database. There must be something worth watching.</td></tr>
 
-  HOSHI
-     That bad?
+<tr id="L8"><td><a href="#L8">8</a></td><td>HOSHI:  You could always read a book.</td></tr>
 
-  TRAVIS
-     We've got fifty thousand movies in the database.
-     There must be something worth watching.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L9"><td><a href="#L9">9</a></td><td>TRAVIS:  Lieutenant.</td></tr>
 
-  HOSHI
-     You could always read a book.
+<tr id="L10"><td><a href="#L10">10</a></td><td>REED:  Ensigns. Enjoy the show last night? Those were two hours of my life I'd rather have back.</td></tr>
 
+<tr><td></td><td>LOCATION--Captain's mess</td></tr>
+<tr id="L11"><td><a href="#L11">11</a></td><td>DANIELS:  Good morning, sir.</td></tr>
 
-LOCATION--Bridge
+<tr id="L12"><td><a href="#L12">12</a></td><td>ARCHER:  Morning, Daniels. I thought this was Taylor's shift.</td></tr>
 
-  TRAVIS
-     Lieutenant.
+<tr id="L13"><td><a href="#L13">13</a></td><td>DANIELS:  I switched with him, if that's all right with you.</td></tr>
 
-  REED
-     Ensigns. Enjoy the show last night? Those were two
-     hours of my life I'd rather have back.
+<tr id="L14"><td><a href="#L14">14</a></td><td>ARCHER:  No problem.</td></tr>
 
+<tr id="L15"><td><a href="#L15">15</a></td><td>DANIELS:  Sir, I noticed we changed course. May I ask why?</td></tr>
 
-LOCATION--Captain's mess
+<tr id="L16"><td><a href="#L16">16</a></td><td>ARCHER:  There's a stellar nursery not far from here. We detected several ships inside. We thought we might go say hello.</td></tr>
 
-  DANIELS
-     Good morning, sir.
+<tr id="L17"><td><a href="#L17">17</a></td><td>DANIELS:  Very good, sir. More orange juice?</td></tr>
 
-  ARCHER
-     Morning, Daniels. I thought this was Taylor's
-     shift.
+<tr id="L18"><td><a href="#L18">18</a></td><td>ARCHER:  No, thanks, I'm fine.</td></tr>
 
-  DANIELS
-     I switched with him, if that's all right with you.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L19"><td><a href="#L19">19</a></td><td>ARCHER:  What have you got?</td></tr>
 
-  ARCHER
-     No problem.
+<tr id="L20"><td><a href="#L20">20</a></td><td>TRAVIS:  We found one of the ships, sir.</td></tr>
 
-  DANIELS
-     Sir, I noticed we changed course. May I ask why?
+<tr id="L21"><td><a href="#L21">21</a></td><td>ARCHER:  Put it up.</td></tr>
 
-  ARCHER
-     There's a stellar nursery not far from here. We
-     detected several ships inside. We thought we might
-     go say hello.
+<tr id="L22"><td><a href="#L22">22</a></td><td>ANNOTATION: The ship is on the viewscreen.</td></tr>
 
-  DANIELS
-     Very good, sir. More orange juice?
+<tr id="L23"><td><a href="#L23">23</a></td><td>T'POL:  It appears to be a transport vessel.</td></tr>
 
-  ARCHER
-     No, thanks, I'm fine.
+<tr id="L24"><td><a href="#L24">24</a></td><td>ARCHER:  Hail them.</td></tr>
 
+<tr id="L25"><td><a href="#L25">25</a></td><td>HOSHI:  They're responding.</td></tr>
 
-LOCATION--Bridge
+<tr id="L26"><td><a href="#L26">26</a></td><td>ANNOTATION: It is a reptilian type with large scale plates.</td></tr>
 
-  ARCHER
-     What have you got?
+<tr id="L27"><td><a href="#L27">27</a></td><td>FRADDOCK [on viewscreen]:  Can I help you?</td></tr>
 
-  TRAVIS
-     We found one of the ships, sir.
+<tr id="L28"><td><a href="#L28">28</a></td><td>ARCHER:  My name is Archer. I'm Captain of the starship Enterprise. We're from Earth. We thought we'd introduce ourselves.</td></tr>
 
-  ARCHER
-     Put it up.
+<tr id="L29"><td><a href="#L29">29</a></td><td>FRADDOCK [on viewscreen]:  Pleased to meet you. What do you want?</td></tr>
 
-  ANNOTATION
-     The ship is on the viewscreen.
+<tr id="L30"><td><a href="#L30">30</a></td><td>ARCHER:  Nothing. We're new to this region and we're eager to make contact with other species.</td></tr>
 
-  T'POL
-     It appears to be a transport vessel.
+<tr id="L31"><td><a href="#L31">31</a></td><td>FRADDOCK [on viewscreen]:  Oh.</td></tr>
 
-  ARCHER
-     Hail them.
+<tr id="L32"><td><a href="#L32">32</a></td><td>ARCHER:  If you don't mind my asking, what brings you here?</td></tr>
 
-  HOSHI
-     They're responding.
+<tr id="L33"><td><a href="#L33">33</a></td><td>FRADDOCK [on viewscreen]:  A job. I'm escorting a group of spiritually minded men on a pilgrimage to the Great Plume of Agosoria.</td></tr>
 
-  ANNOTATION
-     It is a reptilian type with large scale plates.
+<tr id="L34"><td><a href="#L34">34</a></td><td>ARCHER:  The, the what?</td></tr>
 
-  FRADDOCK [on viewscreen]
-     Can I help you?
+<tr id="L35"><td><a href="#L35">35</a></td><td>FRADDOCK [on viewscreen]:  Every eleven years, one of the protostars gives out a neutron blast. These gentlemen believe it's a sacred event. If you ask me, I think it's just another ball of hydrogen.</td></tr>
 
-  ARCHER
-     My name is Archer. I'm Captain of the starship
-     Enterprise. We're from Earth. We thought we'd
-     introduce ourselves.
+<tr id="L36"><td><a href="#L36">36</a></td><td>T'POL:  When is this Great Plume due to erupt?</td></tr>
 
-  FRADDOCK [on viewscreen]
-     Pleased to meet you. What do you want?
+<tr id="L37"><td><a href="#L37">37</a></td><td>FRADDOCK [on viewscreen]:  Tomorrow.</td></tr>
 
-  ARCHER
-     Nothing. We're new to this region and we're eager
-     to make contact with other species.
+<tr id="L38"><td><a href="#L38">38</a></td><td>ARCHER:  Mind if we join you?</td></tr>
 
-  FRADDOCK [on viewscreen]
-     Oh.
+<tr id="L39"><td><a href="#L39">39</a></td><td>FRADDOCK [on viewscreen]:  It's your time to waste.</td></tr>
 
-  ARCHER
-     If you don't mind my asking, what brings you here?
+<tr id="L40"><td><a href="#L40">40</a></td><td>ARCHER:  I'd like to extend an invitation to you and your passengers to visit Enterprise.</td></tr>
 
-  FRADDOCK [on viewscreen]
-     A job. I'm escorting a group of spiritually minded
-     men on a pilgrimage to the Great Plume of
-     Agosoria.
+<tr id="L41"><td><a href="#L41">41</a></td><td>FRADDOCK [on viewscreen]:  I'll ask them if they're interested. I prefer to stay with my ship.</td></tr>
 
-  ARCHER
-     The, the what?
+<tr id="L42"><td><a href="#L42">42</a></td><td>ARCHER:  Understood, Mister?</td></tr>
 
-  FRADDOCK [on viewscreen]
-     Every eleven years, one of the protostars gives
-     out a neutron blast. These gentlemen believe it's
-     a sacred event. If you ask me, I think it's just
-     another ball of hydrogen.
+<tr id="L43"><td><a href="#L43">43</a></td><td>FRADDOCK [on viewscreen]:  Fraddock. Captain Fraddock.</td></tr>
 
-  T'POL
-     When is this Great Plume due to erupt?
+<tr id="L44"><td><a href="#L44">44</a></td><td>ANNOTATION: Ends transmission</td></tr>
 
-  FRADDOCK [on viewscreen]
-     Tomorrow.
+<tr id="L45"><td><a href="#L45">45</a></td><td>ARCHER:  Looks like we could be having guests. Tell Chef to prepare something.</td></tr>
 
-  ARCHER
-     Mind if we join you?
+<tr><td></td><td>LOCATION--Docking port</td></tr>
+<tr id="L46"><td><a href="#L46">46</a></td><td>TUCKER:  Seal's good.</td></tr>
 
-  FRADDOCK [on viewscreen]
-     It's your time to waste.
+<tr id="L47"><td><a href="#L47">47</a></td><td>ARCHER:  Welcome aboard. Captain Jonathan Archer. It's customary on Earth to greet someone with a handshake.</td></tr>
 
-  ARCHER
-     I'd like to extend an invitation to you and your
-     passengers to visit Enterprise.
+<tr id="L48"><td><a href="#L48">48</a></td><td>ANNOTATION: Archer holds his hand out to an alien with a very high forehead with ridged domes.</td></tr>
 
-  FRADDOCK [on viewscreen]
-     I'll ask them if they're interested. I prefer to
-     stay with my ship.
+<tr id="L49"><td><a href="#L49">49</a></td><td>MANTOOS:  I'm Prah Mantoos. May Agosoria embrace you into his cycle of renewal.</td></tr>
 
-  ARCHER
-     Understood, Mister?
+<tr id="L50"><td><a href="#L50">50</a></td><td>ARCHER:  Thanks.</td></tr>
 
-  FRADDOCK [on viewscreen]
-     Fraddock. Captain Fraddock.
+<tr id="L51"><td><a href="#L51">51</a></td><td>MANTOOS:  These are my fellow celebrants. We've travelled many light years from different worlds to watch this event.</td></tr>
 
-  ANNOTATION
-     Ends transmission
+<tr id="L52"><td><a href="#L52">52</a></td><td>TUCKER:  I'm Commander Tucker, Chief Engineer, and this is our Science Officer, Sub-commander T'Pol.</td></tr>
 
-  ARCHER
-     Looks like we could be having guests. Tell Chef to
-     prepare something.
+<tr id="L53"><td><a href="#L53">53</a></td><td>MANTOOS:  For you, Captain.</td></tr>
 
+<tr id="L54"><td><a href="#L54">54</a></td><td>ANNOTATION: Mantoos hands over glass circle with etchings, in a stand.</td></tr>
 
-LOCATION--Docking port
+<tr id="L55"><td><a href="#L55">55</a></td><td>ARCHER:  It's beautiful. What exactly is it?</td></tr>
 
-  TUCKER
-     Seal's good.
+<tr id="L56"><td><a href="#L56">56</a></td><td>MANTOOS:  A clock. It charts time from the beginning of the universe.</td></tr>
 
-  ARCHER
-     Welcome aboard. Captain Jonathan Archer. It's
-     customary on Earth to greet someone with a
-     handshake.
+<tr id="L57"><td><a href="#L57">57</a></td><td>ANNOTATION: With points around the chin and eyebrows.</td></tr>
 
-  ANNOTATION
-     Archer holds his hand out to an alien with a very
-     high forehead with ridged domes.
+<tr id="L58"><td><a href="#L58">58</a></td><td>SONSORRA:  Voo-Sinteel.</td></tr>
 
-  MANTOOS
-     I'm Prah Mantoos. May Agosoria embrace you into
-     his cycle of renewal.
+<tr id="L59"><td><a href="#L59">59</a></td><td>ANNOTATION: He hands a long bottle of red liquid to Tucker.</td></tr>
 
-  ARCHER
-     Thanks.
+<tr id="L60"><td><a href="#L60">60</a></td><td>SONSORRA:  It's a spirit traditionally consumed as the Plume reaches its full brilliance. You'll find it enhances the experience.</td></tr>
 
-  MANTOOS
-     These are my fellow celebrants. We've travelled
-     many light years from different worlds to watch
-     this event.
+<tr id="L61"><td><a href="#L61">61</a></td><td>TUCKER:  Mmm, I'm sure it does.</td></tr>
 
-  TUCKER
-     I'm Commander Tucker, Chief Engineer, and this is
-     our Science Officer, Sub-commander T'Pol.
+<tr id="L62"><td><a href="#L62">62</a></td><td>ARCHER:  You're very generous. I'm afraid the only thing we have to offer you is our hospitality.</td></tr>
 
-  MANTOOS
-     For you, Captain.
+<tr id="L63"><td><a href="#L63">63</a></td><td>MANTOOS:  That will be more than enough.</td></tr>
 
-  ANNOTATION
-     Mantoos hands over glass circle with etchings, in
-     a stand.
+<tr id="L64"><td><a href="#L64">64</a></td><td>ARCHER:  Our chef has prepared a meal in your honour.</td></tr>
 
-  ARCHER
-     It's beautiful. What exactly is it?
+<tr id="L65"><td><a href="#L65">65</a></td><td>MANTOOS:  Normally we fast during the Time of Agosoria, but in this case I suppose we can break with tradition.</td></tr>
 
-  MANTOOS
-     A clock. It charts time from the beginning of the
-     universe.
+<tr id="L66"><td><a href="#L66">66</a></td><td>ARCHER:  Please.</td></tr>
 
-  ANNOTATION
-     With points around the chin and eyebrows.
+<tr id="L67"><td><a href="#L67">67</a></td><td>ANNOTATION: He leads the way.</td></tr>
 
-  SONSORRA
-     Voo-Sinteel.
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L68"><td><a href="#L68">68</a></td><td>ANNOTATION: A buffet meal. Some crew are in casual dress.</td></tr>
 
-  ANNOTATION
-     He hands a long bottle of red liquid to Tucker.
+<tr id="L69"><td><a href="#L69">69</a></td><td>ARCHER:  Four months, three weeks and</td></tr>
 
-  SONSORRA
-     It's a spirit traditionally consumed as the Plume
-     reaches its full brilliance. You'll find it
-     enhances the experience.
+<tr id="L70"><td><a href="#L70">70</a></td><td>T'POL:  Six days.</td></tr>
 
-  TUCKER
-     Mmm, I'm sure it does.
+<tr id="L71"><td><a href="#L71">71</a></td><td>MANTOOS:  You've travelled a great distance in a short period of time.</td></tr>
 
-  ARCHER
-     You're very generous. I'm afraid the only thing we
-     have to offer you is our hospitality.
+<tr id="L72"><td><a href="#L72">72</a></td><td>TUCKER:  Warp five will get you where you're going pretty fast.</td></tr>
 
-  MANTOOS
-     That will be more than enough.
+<tr id="L73"><td><a href="#L73">73</a></td><td>ARCHER:  We've seen a lot since we left Earth but I have to say that this place is definitely one of the highlights.</td></tr>
 
-  ARCHER
-     Our chef has prepared a meal in your honour.
+<tr id="L74"><td><a href="#L74">74</a></td><td>MANTOOS:  I'm pleased you appreciate its beauty, Captain. To us, it's more than just a simple stellar nursery. According to our sacred text this is where the universe began.</td></tr>
 
-  MANTOOS
-     Normally we fast during the Time of Agosoria, but
-     in this case I suppose we can break with
-     tradition.
+<tr id="L75"><td><a href="#L75">75</a></td><td>TUCKER:  And the Great Plume of A, Ager?</td></tr>
 
-  ARCHER
-     Please.
+<tr id="L76"><td><a href="#L76">76</a></td><td>SONSORRA:  Agosoria.</td></tr>
 
-  ANNOTATION
-     He leads the way.
+<tr id="L77"><td><a href="#L77">77</a></td><td>TUCKER:  Agosoria. How does that fit in?</td></tr>
 
+<tr id="L78"><td><a href="#L78">78</a></td><td>MANTOOS:  It represents the continuing cycle of creation.</td></tr>
 
-LOCATION--Mess hall
+<tr id="L79"><td><a href="#L79">79</a></td><td>PHLOX:  It's not unlike the Hindu faith, Commander. They also believe that the universe goes through repeated cycles of rebirth.</td></tr>
 
-  ANNOTATION
-     A buffet meal. Some crew are in casual dress.
+<tr id="L80"><td><a href="#L80">80</a></td><td>ARCHER:  I didn't realise you were familiar with Earth religions, Doctor.</td></tr>
 
-  ARCHER
-     Four months, three weeks and
+<tr id="L81"><td><a href="#L81">81</a></td><td>PHLOX:  Oh, yes. In fact, while I was there I made it a point to study a number of them. I spent two weeks at a Tibetan monastery where I learned to sing chords with the high lamas. I attended Mass at Saint Peter's Square. I was even allowed to observe the Tal-Shanar at the Vulcan consulate.</td></tr>
 
-  T'POL
-     Six days.
+<tr id="L82"><td><a href="#L82">82</a></td><td>SONSORRA:  I understand Vulcans are a deeply spiritual people.</td></tr>
 
-  MANTOOS
-     You've travelled a great distance in a short
-     period of time.
+<tr id="L83"><td><a href="#L83">83</a></td><td>T'POL:  Our beliefs are based on logic and the pursuit of clarity.</td></tr>
 
-  TUCKER
-     Warp five will get you where you're going pretty
-     fast.
+<tr id="L84"><td><a href="#L84">84</a></td><td>SONSORRA:  Do you follow a particular faith, Captain?</td></tr>
 
-  ARCHER
-     We've seen a lot since we left Earth but I have to
-     say that this place is definitely one of the
-     highlights.
+<tr id="L85"><td><a href="#L85">85</a></td><td>ARCHER:  I guess you could say I try to keep an open mind.</td></tr>
 
-  MANTOOS
-     I'm pleased you appreciate its beauty, Captain. To
-     us, it's more than just a simple stellar nursery.
-     According to our sacred text this is where the
-     universe began.
+<tr id="L86"><td><a href="#L86">86</a></td><td>MANTOOS:  Many who see the Great Plume are often inspired by it. Perhaps you will be, too.</td></tr>
 
-  TUCKER
-     And the Great Plume of A, Ager?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L87"><td><a href="#L87">87</a></td><td>TRAVIS:  Did you get to meet them?</td></tr>
 
-  SONSORRA
-     Agosoria.
+<tr id="L88"><td><a href="#L88">88</a></td><td>HOSHI:  Two, briefly.</td></tr>
 
-  TUCKER
-     Agosoria. How does that fit in?
+<tr id="L89"><td><a href="#L89">89</a></td><td>REED:  What were they like?</td></tr>
 
-  MANTOOS
-     It represents the continuing cycle of creation.
+<tr id="L90"><td><a href="#L90">90</a></td><td>HOSHI:  Quiet. They're taking a tour of the ship.</td></tr>
 
-  PHLOX
-     It's not unlike the Hindu faith, Commander. They
-     also believe that the universe goes through
-     repeated cycles of rebirth.
+<tr id="L91"><td><a href="#L91">91</a></td><td>TRAVIS:  Looks like the Captain's going all out.</td></tr>
 
-  ARCHER
-     I didn't realise you were familiar with Earth
-     religions, Doctor.
+<tr id="L92"><td><a href="#L92">92</a></td><td>REED:  I hope he's not planning to show them the Armory.</td></tr>
 
-  PHLOX
-     Oh, yes. In fact, while I was there I made it a
-     point to study a number of them. I spent two weeks
-     at a Tibetan monastery where I learned to sing
-     chords with the high lamas. I attended Mass at
-     Saint Peter's Square. I was even allowed to
-     observe the Tal-Shanar at the Vulcan consulate.
+<tr id="L93"><td><a href="#L93">93</a></td><td>HOSHI:  Don't worry, Lieutenant. They didn't look like the types who'd go around stealing military secrets.</td></tr>
 
-  SONSORRA
-     I understand Vulcans are a deeply spiritual
-     people.
+<tr id="L94"><td><a href="#L94">94</a></td><td>REED:  Still, we're not familiar with these species. Tactical systems should be off-limits. Starboard targeting sensor's out again.</td></tr>
 
-  T'POL
-     Our beliefs are based on logic and the pursuit of
-     clarity.
+<tr id="L95"><td><a href="#L95">95</a></td><td>HOSHI:  Should I call Engineering?</td></tr>
 
-  SONSORRA
-     Do you follow a particular faith, Captain?
+<tr id="L96"><td><a href="#L96">96</a></td><td>REED:  No. I'll take care of it. It'll only take a moment. You have the Bridge, Ensign.</td></tr>
 
-  ARCHER
-     I guess you could say I try to keep an open mind.
+<tr id="L97"><td><a href="#L97">97</a></td><td>ANNOTATION: Reed leaves.</td></tr>
 
-  MANTOOS
-     Many who see the Great Plume are often inspired by
-     it. Perhaps you will be, too.
+<tr id="L98"><td><a href="#L98">98</a></td><td>HOSHI:  Aren't you going to take the chair?</td></tr>
 
+<tr id="L99"><td><a href="#L99">99</a></td><td>TRAVIS:  What?</td></tr>
 
-LOCATION--Bridge
+<tr id="L100"><td><a href="#L100">100</a></td><td>HOSHI:  You're in command.</td></tr>
 
-  TRAVIS
-     Did you get to meet them?
+<tr id="L101"><td><a href="#L101">101</a></td><td>TRAVIS:  I'm fine right here.</td></tr>
 
-  HOSHI
-     Two, briefly.
+<tr id="L102"><td><a href="#L102">102</a></td><td>HOSHI:  Haven't you ever wondered what it's like?</td></tr>
 
-  REED
-     What were they like?
+<tr id="L103"><td><a href="#L103">103</a></td><td>TRAVIS:  I can wait till I'm promoted.</td></tr>
 
-  HOSHI
-     Quiet. They're taking a tour of the ship.
+<tr id="L104"><td><a href="#L104">104</a></td><td>HOSHI:  Okay.</td></tr>
 
-  TRAVIS
-     Looks like the Captain's going all out.
+<tr id="L105"><td><a href="#L105">105</a></td><td>ANNOTATION: Travis goes and sits in the Captain's chair.</td></tr>
 
-  REED
-     I hope he's not planning to show them the Armory.
+<tr id="L106"><td><a href="#L106">106</a></td><td>TRAVIS:  Nice fit. Bridge looks a lot different from here. Think anyone would mind if I fired a torpedo?</td></tr>
 
-  HOSHI
-     Don't worry, Lieutenant. They didn't look like the
-     types who'd go around stealing military secrets.
+<tr id="L107"><td><a href="#L107">107</a></td><td>REED:  Permission to take my station?</td></tr>
 
-  REED
-     Still, we're not familiar with these species.
-     Tactical systems should be off-limits. Starboard
-     targeting sensor's out again.
+<tr id="L108"><td><a href="#L108">108</a></td><td>TRAVIS:  Sorry, sir.</td></tr>
 
-  HOSHI
-     Should I call Engineering?
+<tr id="L109"><td><a href="#L109">109</a></td><td>ANNOTATION: He returns to helm.</td></tr>
 
-  REED
-     No. I'll take care of it. It'll only take a
-     moment. You have the Bridge, Ensign.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L110"><td><a href="#L110">110</a></td><td>TUCKER:  The gravimetric field displacement manifold, commonly known as the warp reactor. Just think of it as a great big engine but instead of using electricity or chemical fuel it runs on antimatter. See this swirling light? When matter and antimatter collide it creates a whole lot of energy. We channel that energy through those conduits over there. They lead to the two large glowing cylinders you may have seen on the outside of the ship.</td></tr>
 
-  ANNOTATION
-     Reed leaves.
+<tr id="L111"><td><a href="#L111">111</a></td><td>SONSORRA:  The nacelles.</td></tr>
 
-  HOSHI
-     Aren't you going to take the chair?
+<tr id="L112"><td><a href="#L112">112</a></td><td>TUCKER:  That's right.</td></tr>
 
-  TRAVIS
-     What?
+<tr id="L113"><td><a href="#L113">113</a></td><td>SONSORRA:  Which contain warp coils that create the subspace displacement field.</td></tr>
 
-  HOSHI
-     You're in command.
+<tr id="L114"><td><a href="#L114">114</a></td><td>TUCKER:  I see you already know a thing or two about starship engines.</td></tr>
 
-  TRAVIS
-     I'm fine right here.
+<tr id="L115"><td><a href="#L115">115</a></td><td>SONSORRA:  I'm a warp field theorist.</td></tr>
 
-  HOSHI
-     Haven't you ever wondered what it's like?
+<tr id="L116"><td><a href="#L116">116</a></td><td>TUCKER:  Oh. Well, I guess that covers the basics. Any questions?</td></tr>
 
-  TRAVIS
-     I can wait till I'm promoted.
+<tr id="L117"><td><a href="#L117">117</a></td><td>ALIEN:  How do you regulate positron flow in your dilithium matrix?</td></tr>
 
-  HOSHI
-     Okay.
+<tr id="L118"><td><a href="#L118">118</a></td><td>TUCKER:  Good one. I'll bring up the schematic of the reactor assembly and you can see for yourself. If you'll just come with me. We use a series of magnetic constrictors to align the positron stream.</td></tr>
 
-  ANNOTATION
-     Travis goes and sits in the Captain's chair.
+<tr id="L119"><td><a href="#L119">119</a></td><td>ANNOTATION: One of the point-chinned aliens breaks away from the group.</td></tr>
 
-  TRAVIS
-     Nice fit. Bridge looks a lot different from here.
-     Think anyone would mind if I fired a torpedo?
+<tr id="L120"><td><a href="#L120">120</a></td><td>TUCKER:  If any stray particles escape backups automatically kick in. During one of our training tests we momentarily lost the primaries and the backups.</td></tr>
 
-  REED
-     Permission to take my station?
+<tr id="L121"><td><a href="#L121">121</a></td><td>ANNOTATION: The alien's arm becomes very flexible as he reaches into part of the engine and pulls connections before rejoining the group.</td></tr>
 
-  TRAVIS
-     Sorry, sir.
+<tr id="L122"><td><a href="#L122">122</a></td><td>TUCKER:  About a billion positrons cut through the plating on three decks. Nearly caused a hull breach. We spent a month redesigning the system. It hasn't given us a single problem since.</td></tr>
 
-  ANNOTATION
-     He returns to helm.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L123"><td><a href="#L123">123</a></td><td>HOSHI:  We're being hailed by Captain Fraddock.</td></tr>
 
+<tr id="L124"><td><a href="#L124">124</a></td><td>TRAVIS:  He's probably calling about the weather.</td></tr>
 
-LOCATION--Engineering
+<tr id="L125"><td><a href="#L125">125</a></td><td>T'POL:  On screen.</td></tr>
 
-  TUCKER
-     The gravimetric field displacement manifold,
-     commonly known as the warp reactor. Just think of
-     it as a great big engine but instead of using
-     electricity or chemical fuel it runs on
-     antimatter. See this swirling light? When matter
-     and antimatter collide it creates a whole lot of
-     energy. We channel that energy through those
-     conduits over there. They lead to the two large
-     glowing cylinders you may have seen on the outside
-     of the ship.
+<tr id="L126"><td><a href="#L126">126</a></td><td>FRADDOCK [on viewscreen]:  You might want to focus your sensors on that plasma lightning up ahead.</td></tr>
 
-  SONSORRA
-     The nacelles.
+<tr id="L127"><td><a href="#L127">127</a></td><td>T'POL:  We're aware of it.</td></tr>
 
-  TUCKER
-     That's right.
+<tr id="L128"><td><a href="#L128">128</a></td><td>FRADDOCK [on viewscreen]:  You ever been in a plasma storm?</td></tr>
 
-  SONSORRA
-     Which contain warp coils that create the subspace
-     displacement field.
+<tr id="L129"><td><a href="#L129">129</a></td><td>T'POL:  Twice.</td></tr>
 
-  TUCKER
-     I see you already know a thing or two about
-     starship engines.
+<tr id="L130"><td><a href="#L130">130</a></td><td>FRADDOCK [on viewscreen]:  Then you know it can get a little bumpy. I suggest we try and go around it.</td></tr>
 
-  SONSORRA
-     I'm a warp field theorist.
+<tr id="L131"><td><a href="#L131">131</a></td><td>T'POL:  Agreed. Ensign.</td></tr>
 
-  TUCKER
-     Oh. Well, I guess that covers the basics. Any
-     questions?
+<tr id="L132"><td><a href="#L132">132</a></td><td>TRAVIS:  I'm already on it.</td></tr>
 
-  ALIEN
-     How do you regulate positron flow in your
-     dilithium matrix?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L133"><td><a href="#L133">133</a></td><td>ANNOTATION: As a volunteer comes out of the body scanner.</td></tr>
 
-  TUCKER
-     Good one. I'll bring up the schematic of the
-     reactor assembly and you can see for yourself. If
-     you'll just come with me. We use a series of
-     magnetic constrictors to align the positron
-     stream.
+<tr id="L134"><td><a href="#L134">134</a></td><td>PHLOX:  There's your heart, lungs, liver, another heart. Every organ. This imaging device also allows us to examine your genetic structure. Ah, you'll be happy to know you're in perfect health. Who would like to go next?</td></tr>
 
-  ANNOTATION
-     One of the point-chinned aliens breaks away from
-     the group.
+<tr id="L135"><td><a href="#L135">135</a></td><td>ANNOTATION: The ship judders.</td></tr>
 
-  TUCKER
-     If any stray particles escape backups
-     automatically kick in. During one of our training
-     tests we momentarily lost the primaries and the
-     backups.
+<tr id="L136"><td><a href="#L136">136</a></td><td>ARCHER:  Excuse me. Archer to the Bridge. Report.</td></tr>
 
-  ANNOTATION
-     The alien's arm becomes very flexible as he
-     reaches into part of the engine and pulls
-     connections before rejoining the group.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L137"><td><a href="#L137">137</a></td><td>T'POL:  We're circumnavigating a plasma storm, Captain.</td></tr>
 
-  TUCKER
-     About a billion positrons cut through the plating
-     on three decks. Nearly caused a hull breach. We
-     spent a month redesigning the system. It hasn't
-     given us a single problem since.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L138"><td><a href="#L138">138</a></td><td>T'POL [OC]:  It's just turbulence from the outer edge.</td></tr>
 
+<tr id="L139"><td><a href="#L139">139</a></td><td>MANTOOS:  They're very common in this region. I'm sure there's nothing to worry about.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L140"><td><a href="#L140">140</a></td><td>REED:  That one hit our port bow. Power's down on C-Deck, subsection four. No other damage.</td></tr>
 
-  HOSHI
-     We're being hailed by Captain Fraddock.
+<tr id="L141"><td><a href="#L141">141</a></td><td>T'POL:  Ensign.</td></tr>
 
-  TRAVIS
-     He's probably calling about the weather.
+<tr id="L142"><td><a href="#L142">142</a></td><td>TRAVIS:  The storm's moving in our direction. I'm having trouble getting around it.</td></tr>
 
-  T'POL
-     On screen.
+<tr id="L143"><td><a href="#L143">143</a></td><td>T'POL:  What about the transport ship?</td></tr>
 
-  FRADDOCK [on viewscreen]
-     You might want to focus your sensors on that
-     plasma lightning up ahead.
+<tr id="L144"><td><a href="#L144">144</a></td><td>TRAVIS:  He's far enough ahead. He made it past.</td></tr>
 
-  T'POL
-     We're aware of it.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L145"><td><a href="#L145">145</a></td><td>TUCKER:  We've got a power surge in the impulse relays. Here's a good example of how we can reroute the energy flow to protect our critical systems.</td></tr>
 
-  FRADDOCK [on viewscreen]
-     You ever been in a plasma storm?
+<tr id="L146"><td><a href="#L146">146</a></td><td>ANNOTATION: A big jolt and lights flicker.</td></tr>
 
-  T'POL
-     Twice.
+<tr id="L147"><td><a href="#L147">147</a></td><td>ARCHER:  I'm afraid we have to cut the tour a little short. I'll be on the Bridge.</td></tr>
 
-  FRADDOCK [on viewscreen]
-     Then you know it can get a little bumpy. I suggest
-     we try and go around it.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L148"><td><a href="#L148">148</a></td><td>ANNOTATION: Lightning strikes the ship.</td></tr>
 
-  T'POL
-     Agreed. Ensign.
+<tr id="L149"><td><a href="#L149">149</a></td><td>ARCHER:  Report.</td></tr>
 
-  TRAVIS
-     I'm already on it.
+<tr id="L150"><td><a href="#L150">150</a></td><td>REED:  We're losing main power.</td></tr>
 
+<tr id="L151"><td><a href="#L151">151</a></td><td>ARCHER:  Trip.</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L152"><td><a href="#L152">152</a></td><td>ARCHER [OC]:  What's happening?</td></tr>
 
-  ANNOTATION
-     As a volunteer comes out of the body scanner.
+<tr id="L153"><td><a href="#L153">153</a></td><td>TUCKER:  That last bolt struck the warp manifold!</td></tr>
 
-  PHLOX
-     There's your heart, lungs, liver, another heart.
-     Every organ. This imaging device also allows us to
-     examine your genetic structure. Ah, you'll be
-     happy to know you're in perfect health. Who would
-     like to go next?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L154"><td><a href="#L154">154</a></td><td>TUCKER [OC]:  We've got an antimatter cascade, sir!</td></tr>
 
-  ANNOTATION
-     The ship judders.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L155"><td><a href="#L155">155</a></td><td>TUCKER:  If it reaches the warp reactor we're going to (a series of explosions then the lights come back on) I think we're all right, Captain. The cascade stopped in its tracks.</td></tr>
 
-  ARCHER
-     Excuse me. Archer to the Bridge. Report.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L156"><td><a href="#L156">156</a></td><td>ARCHER:  Good work, Trip.</td></tr>
 
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L157"><td><a href="#L157">157</a></td><td>TUCKER:  It wasn't me, sir.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L158"><td><a href="#L158">158</a></td><td>ARCHER:  Sorry about the bad weather.</td></tr>
 
-  T'POL
-     We're circumnavigating a plasma storm, Captain.
+<tr id="L159"><td><a href="#L159">159</a></td><td>MANTOOS:  We're used to it. I'm just grateful there was no serious damage.</td></tr>
 
+<tr id="L160"><td><a href="#L160">160</a></td><td>ARCHER:  If any of your group would like to watch the Great Plume from our Mess Hall, they're welcome to come back tomorrow.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L161"><td><a href="#L161">161</a></td><td>MANTOOS:  I'll let them know.</td></tr>
 
-  T'POL [OC]
-     It's just turbulence from the outer edge.
+<tr id="L162"><td><a href="#L162">162</a></td><td>ARCHER:  Have a great time, Doctor.</td></tr>
 
-  MANTOOS
-     They're very common in this region. I'm sure
-     there's nothing to worry about.
+<tr id="L163"><td><a href="#L163">163</a></td><td>PHLOX:  I plan to, Captain. Thank you for letting me spend the night with these people.</td></tr>
 
+<tr id="L164"><td><a href="#L164">164</a></td><td>ARCHER:  I'll expect a full report in the morning.</td></tr>
 
-LOCATION--Bridge
+<tr id="L165"><td><a href="#L165">165</a></td><td>PHLOX:  Aye, Captain.</td></tr>
 
-  REED
-     That one hit our port bow. Power's down on C-Deck,
-     subsection four. No other damage.
+<tr id="L166"><td><a href="#L166">166</a></td><td>SOMEONE: (Archer speaks to Mantoos, as the group heads through the airlock).</td></tr>
 
-  T'POL
-     Ensign.
+<tr id="L167"><td><a href="#L167">167</a></td><td>ARCHER:  Hope to see you tomorrow.</td></tr>
 
-  TRAVIS
-     The storm's moving in our direction. I'm having
-     trouble getting around it.
+<tr id="L168"><td><a href="#L168">168</a></td><td>TUCKER [OC]:  Tucker to Captain Archer.</td></tr>
 
-  T'POL
-     What about the transport ship?
+<tr id="L169"><td><a href="#L169">169</a></td><td>ARCHER:  Go ahead, Trip.</td></tr>
 
-  TRAVIS
-     He's far enough ahead. He made it past.
+<tr id="L170"><td><a href="#L170">170</a></td><td>TUCKER [OC]:  Can you come down to Engineering for a minute?</td></tr>
 
+<tr id="L171"><td><a href="#L171">171</a></td><td>ARCHER:  On my way.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L172"><td><a href="#L172">172</a></td><td>ARCHER:  What is it, Trip?</td></tr>
 
-  TUCKER
-     We've got a power surge in the impulse relays.
-     Here's a good example of how we can reroute the
-     energy flow to protect our critical systems.
+<tr id="L173"><td><a href="#L173">173</a></td><td>TUCKER:  Take a look at this.</td></tr>
 
-  ANNOTATION
-     A big jolt and lights flicker.
+<tr id="L174"><td><a href="#L174">174</a></td><td>ARCHER:  What?</td></tr>
 
-  ARCHER
-     I'm afraid we have to cut the tour a little short.
-     I'll be on the Bridge.
+<tr id="L175"><td><a href="#L175">175</a></td><td>ANNOTATION: Tucker reachs into where the alien stuck his arm.</td></tr>
 
+<tr id="L176"><td><a href="#L176">176</a></td><td>TUCKER:  Right up there. See that conduit?</td></tr>
 
-LOCATION--Bridge
+<tr id="L177"><td><a href="#L177">177</a></td><td>ARCHER:  Yeah.</td></tr>
 
-  ANNOTATION
-     Lightning strikes the ship.
+<tr id="L178"><td><a href="#L178">178</a></td><td>TUCKER:  It's an antimatter junction. It stopped the cascade from reaching the warp reactor.</td></tr>
 
-  ARCHER
-     Report.
+<tr id="L179"><td><a href="#L179">179</a></td><td>ARCHER:  What are you getting at?</td></tr>
 
-  REED
-     We're losing main power.
+<tr id="L180"><td><a href="#L180">180</a></td><td>TUCKER:  Somebody got in here and disconnected it from the primary antimatter feed. If they hadn't, that cascade would have continued right into the reactor core, and this ship would have gone up just like the Great Plume of Agosoria.</td></tr>
 
-  ARCHER
-     Trip.
+<tr id="L181"><td><a href="#L181">181</a></td><td>ARCHER:  One of your staff?</td></tr>
 
+<tr id="L182"><td><a href="#L182">182</a></td><td>TUCKER:  I already asked. Nobody seems to know anything about it.</td></tr>
 
-LOCATION--Engineering
+<tr id="L183"><td><a href="#L183">183</a></td><td>ARCHER:  Sounds to me like you've got a hero who's a little reluctant about taking credit. Talk to them again. Whoever did this deserves a commendation.</td></tr>
 
-  ARCHER [OC]
-     What's happening?
+<tr id="L184"><td><a href="#L184">184</a></td><td>TUCKER:  I'm telling you, sir, I don't think it was one of my people. They would have said something.</td></tr>
 
-  TUCKER
-     That last bolt struck the warp manifold!
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L185"><td><a href="#L185">185</a></td><td>FRADDOCK:  I spoke with every one of them.</td></tr>
 
+<tr id="L186"><td><a href="#L186">186</a></td><td>TUCKER:  How about the warp theorist?</td></tr>
 
-LOCATION--Bridge
+<tr id="L187"><td><a href="#L187">187</a></td><td>FRADDOCK:  Him, too. None of them went anywhere near that conduit. If I told you I did it, would there be some kind of reward?</td></tr>
 
-  TUCKER [OC]
-     We've got an antimatter cascade, sir!
+<tr id="L188"><td><a href="#L188">188</a></td><td>ARCHER:  Thank you, Captain.</td></tr>
 
+<tr id="L189"><td><a href="#L189">189</a></td><td>FRADDOCK:  Maybe it was the Cycle of Renewal.</td></tr>
 
-LOCATION--Engineering
+<tr id="L190"><td><a href="#L190">190</a></td><td>ARCHER:  If anyone comes forward, you'll let me know?</td></tr>
 
-  TUCKER
-     If it reaches the warp reactor we're going to (a
-     series of explosions then the lights come back on)
-     I think we're all right, Captain. The cascade
-     stopped in its tracks.
+<tr id="L191"><td><a href="#L191">191</a></td><td>FRADDOCK:  Oh, you'll be the first.</td></tr>
 
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L192"><td><a href="#L192">192</a></td><td>DANIELS:  Sir, I need to speak with you.</td></tr>
 
-LOCATION--Bridge
+<tr id="L193"><td><a href="#L193">193</a></td><td>ARCHER:  Why don't you talk to one of my Bridge officers. I'm a little busy right now.</td></tr>
 
-  ARCHER
-     Good work, Trip.
+<tr id="L194"><td><a href="#L194">194</a></td><td>DANIELS:  It's important.</td></tr>
 
+<tr id="L195"><td><a href="#L195">195</a></td><td>ARCHER:  I'm sorry Daniels, I've got my hands full.</td></tr>
 
-LOCATION--Engineering
+<tr id="L196"><td><a href="#L196">196</a></td><td>DANIELS:  It's about the Suliban.</td></tr>
 
-  TUCKER
-     It wasn't me, sir.
+<tr id="L197"><td><a href="#L197">197</a></td><td>ARCHER:  What about them?</td></tr>
 
+<tr id="L198"><td><a href="#L198">198</a></td><td>DANIELS:  I've reason to believe that one of the pilgrims who came aboard today is a Suliban soldier. His name is Silik. He's the man you fought with on the Helix.</td></tr>
 
-LOCATION--Corridor
+<tr id="L199"><td><a href="#L199">199</a></td><td>ARCHER:  How the hell do you know what I did on the Helix?</td></tr>
 
-  ARCHER
-     Sorry about the bad weather.
+<tr id="L200"><td><a href="#L200">200</a></td><td>DANIELS:  It might be best if we discussed this in private.</td></tr>
 
-  MANTOOS
-     We're used to it. I'm just grateful there was no
-     serious damage.
+<tr id="L201"><td><a href="#L201">201</a></td><td>ARCHER:  My ready room.</td></tr>
 
-  ARCHER
-     If any of your group would like to watch the Great
-     Plume from our Mess Hall, they're welcome to come
-     back tomorrow.
+<tr id="L202"><td><a href="#L202">202</a></td><td>DANIELS:  I think it'd be better if we went to my quarters.</td></tr>
 
-  MANTOOS
-     I'll let them know.
+<tr id="L203"><td><a href="#L203">203</a></td><td>ARCHER:  What?</td></tr>
 
-  ARCHER
-     Have a great time, Doctor.
+<tr id="L204"><td><a href="#L204">204</a></td><td>DANIELS:  You'll understand when we get there, sir.</td></tr>
 
-  PHLOX
-     I plan to, Captain. Thank you for letting me spend
-     the night with these people.
+<tr><td></td><td>LOCATION--Daniel's quarters</td></tr>
+<tr id="L205"><td><a href="#L205">205</a></td><td>ANNOTATION: A very small room with two bunk beds</td></tr>
 
-  ARCHER
-     I'll expect a full report in the morning.
+<tr id="L206"><td><a href="#L206">206</a></td><td>DANIELS:  Oh, please, have a seat. I'm sorry about the mess. Sometimes I think my bunk-mate majored in Chaos Theory.</td></tr>
 
-  PHLOX
-     Aye, Captain.
+<tr id="L207"><td><a href="#L207">207</a></td><td>ANNOTATION: He takes a case out of a locker.</td></tr>
 
-  SOMEONE
-     (Archer speaks to Mantoos, as the group heads
-     through the airlock).
+<tr id="L208"><td><a href="#L208">208</a></td><td>ARCHER:  What is that? That doesn't look like Starfleet issue.</td></tr>
 
-  ARCHER
-     Hope to see you tomorrow.
+<tr id="L209"><td><a href="#L209">209</a></td><td>DANIELS:  That's because I'm not a member of Starfleet. Not that I wouldn't be honoured to be one, sir, especially after spending time</td></tr>
 
-  TUCKER [OC]
-     Tucker to Captain Archer.
+<tr id="L210"><td><a href="#L210">210</a></td><td>ARCHER:  Who are you? How do you know what happened on the Helix?</td></tr>
 
-  ARCHER
-     Go ahead, Trip.
+<tr id="L211"><td><a href="#L211">211</a></td><td>DANIELS:  Did Silik tell you who he was working for?</td></tr>
 
-  TUCKER [OC]
-     Can you come down to Engineering for a minute?
+<tr id="L212"><td><a href="#L212">212</a></td><td>ARCHER:  I'm the one asking questions, crewman.</td></tr>
 
-  ARCHER
-     On my way.
+<tr id="L213"><td><a href="#L213">213</a></td><td>DANIELS:  Did he mention the Temporal Cold War?</td></tr>
 
+<tr id="L214"><td><a href="#L214">214</a></td><td>ARCHER:  What do you know about that?</td></tr>
 
-LOCATION--Engineering
+<tr id="L215"><td><a href="#L215">215</a></td><td>DANIELS:  A great deal more than you do, sir.</td></tr>
 
-  ARCHER
-     What is it, Trip?
+<tr id="L216"><td><a href="#L216">216</a></td><td>ARCHER:  If you're not a member of Starfleet, then who are you?</td></tr>
 
-  TUCKER
-     Take a look at this.
+<tr id="L217"><td><a href="#L217">217</a></td><td>DANIELS:  I work for a different kind of organization. We make sure that people like Silik don't interfere with historical events.</td></tr>
 
-  ARCHER
-     What?
+<tr id="L218"><td><a href="#L218">218</a></td><td>ARCHER:  I've never heard of a group like that.</td></tr>
 
-  ANNOTATION
-     Tucker reachs into where the alien stuck his arm.
+<tr id="L219"><td><a href="#L219">219</a></td><td>DANIELS:  That's because it doesn't exist yet.</td></tr>
 
-  TUCKER
-     Right up there. See that conduit?
+<tr id="L220"><td><a href="#L220">220</a></td><td>ARCHER:  So you're telling me you're some kind of a time traveller?</td></tr>
 
-  ARCHER
-     Yeah.
+<tr id="L221"><td><a href="#L221">221</a></td><td>DANIELS:  That's one way of putting it. Maybe this'll help clear things up.</td></tr>
 
-  TUCKER
-     It's an antimatter junction. It stopped the
-     cascade from reaching the warp reactor.
+<tr id="L222"><td><a href="#L222">222</a></td><td>ANNOTATION: He activates device from the case and the room is filled with holographic data representations.</td></tr>
 
-  ARCHER
-     What are you getting at?
+<tr id="L223"><td><a href="#L223">223</a></td><td>DANIELS:  This is how we keep an eye on what's going on. You might call it a Temporal Observatory. I know this must seem a little overwhelming.</td></tr>
 
-  TUCKER
-     Somebody got in here and disconnected it from the
-     primary antimatter feed. If they hadn't, that
-     cascade would have continued right into the
-     reactor core, and this ship would have gone up
-     just like the Great Plume of Agosoria.
+<tr id="L224"><td><a href="#L224">224</a></td><td>ARCHER:  Overwhelming doesn't quite cover it.</td></tr>
 
-  ARCHER
-     One of your staff?
+<tr id="L225"><td><a href="#L225">225</a></td><td>DANIELS:  I come from right about, right about here. Approximately nine hundred years from now.</td></tr>
 
-  TUCKER
-     I already asked. Nobody seems to know anything
-     about it.
+<tr id="L226"><td><a href="#L226">226</a></td><td>ARCHER:  Are you human?</td></tr>
 
-  ARCHER
-     Sounds to me like you've got a hero who's a little
-     reluctant about taking credit. Talk to them again.
-     Whoever did this deserves a commendation.
+<tr id="L227"><td><a href="#L227">227</a></td><td>DANIELS:  More or less.</td></tr>
 
-  TUCKER
-     I'm telling you, sir, I don't think it was one of
-     my people. They would have said something.
+<tr id="L228"><td><a href="#L228">228</a></td><td>ARCHER:  And the people giving Silik orders?</td></tr>
 
+<tr id="L229"><td><a href="#L229">229</a></td><td>DANIELS:  They're from an earlier century. From about here. They can't manifest themselves physically in the past. They can only partially materialise to deliver information.</td></tr>
 
-LOCATION--Ready room
+<tr id="L230"><td><a href="#L230">230</a></td><td>ARCHER:  But not you?</td></tr>
 
-  FRADDOCK
-     I spoke with every one of them.
+<tr id="L231"><td><a href="#L231">231</a></td><td>DANIELS:  In the years that followed we eventually perfected the process.</td></tr>
 
-  TUCKER
-     How about the warp theorist?
+<tr id="L232"><td><a href="#L232">232</a></td><td>ARCHER:  Sounds dangerous.</td></tr>
 
-  FRADDOCK
-     Him, too. None of them went anywhere near that
-     conduit. If I told you I did it, would there be
-     some kind of reward?
+<tr id="L233"><td><a href="#L233">233</a></td><td>DANIELS:  When time travel was first developed, it wasn't long before people realised that laws had to be made. All the species who had the technology agreed that it would only be used for research.</td></tr>
 
-  ARCHER
-     Thank you, Captain.
+<tr id="L234"><td><a href="#L234">234</a></td><td>ARCHER:  But it wasn't. That's what the Temporal Cold War is all about.</td></tr>
 
-  FRADDOCK
-     Maybe it was the Cycle of Renewal.
+<tr id="L235"><td><a href="#L235">235</a></td><td>DANIELS:  Look at this. This is a group of anthropologists from 2769 observing the construction of the Great Pyramid at Giza. They're doing it using the proper procedures set forth in the Temporal Accord. But there are factions that ignore those procedures.</td></tr>
 
-  ARCHER
-     If anyone comes forward, you'll let me know?
+<tr id="L236"><td><a href="#L236">236</a></td><td>ARCHER:  Why are you telling me all this?</td></tr>
 
-  FRADDOCK
-     Oh, you'll be the first.
+<tr id="L237"><td><a href="#L237">237</a></td><td>DANIELS:  (switches off images) Silik is the one who prevented the reactor breach.</td></tr>
 
+<tr id="L238"><td><a href="#L238">238</a></td><td>ARCHER:  Are you implying Silik was sent here to save my ship, and if he hadn't we would have been destroyed today?</td></tr>
 
-LOCATION--Corridor
+<tr id="L239"><td><a href="#L239">239</a></td><td>DANIELS:  I am not implying anything. All I'm saying is that I was assigned here to capture Silik when he came aboard. He is a threat and I need you to help me capture him.</td></tr>
 
-  DANIELS
-     Sir, I need to speak with you.
+<tr id="L240"><td><a href="#L240">240</a></td><td>ARCHER:  You're from nine hundred years in the future, and you need my help?</td></tr>
 
-  ARCHER
-     Why don't you talk to one of my Bridge officers.
-     I'm a little busy right now.
+<tr id="L241"><td><a href="#L241">241</a></td><td>DANIELS:  The Suliban have been given genetic enhancements that allow them to evade most sensors. They're nearly impossible to detect.</td></tr>
 
-  DANIELS
-     It's important.
+<tr id="L242"><td><a href="#L242">242</a></td><td>ARCHER:  I've noticed.</td></tr>
 
-  ARCHER
-     I'm sorry Daniels, I've got my hands full.
+<tr id="L243"><td><a href="#L243">243</a></td><td>DANIELS:  I have special equipment that can help track Silik but it'll be far more effective if I can tie it into your internal sensor grid. I'll need access to Main Engineering and your command codes. But we have reason to believe that the twenty second century is a front in this cold war. What happens here could affect millennia to come. It's imperative that we find out who Silik is working for and what they're trying to do.</td></tr>
 
-  DANIELS
-     It's about the Suliban.
+<tr id="L244"><td><a href="#L244">244</a></td><td>ARCHER:  If I decide to help you I can't do it alone. I need to inform some of my crew.</td></tr>
 
-  ARCHER
-     What about them?
+<tr id="L245"><td><a href="#L245">245</a></td><td>DANIELS:  The fewer the better. You're asking me to capture someone who just saved my ship. Why should I trust you?</td></tr>
 
-  DANIELS
-     I've reason to believe that one of the pilgrims
-     who came aboard today is a Suliban soldier. His
-     name is Silik. He's the man you fought with on the
-     Helix.
+<tr id="L246"><td><a href="#L246">246</a></td><td>DANIELS:  You like your scrambled eggs soft. Have I ever brought them to you any other way?</td></tr>
 
-  ARCHER
-     How the hell do you know what I did on the Helix?
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L247"><td><a href="#L247">247</a></td><td>ANNOTATION: Archer pours out the Voo-Sinteel.</td></tr>
 
-  DANIELS
-     It might be best if we discussed this in private.
+<tr id="L248"><td><a href="#L248">248</a></td><td>ARCHER:  You sure you don't want a glass?</td></tr>
 
-  ARCHER
-     My ready room.
+<tr id="L249"><td><a href="#L249">249</a></td><td>T'POL:  I'm sure. The Vulcan Science Directorate has studied the question of time travel in great detail. They found no evidence that it exists or that it can exist.</td></tr>
 
-  DANIELS
-     I think it'd be better if we went to my quarters.
+<tr id="L250"><td><a href="#L250">250</a></td><td>ARCHER:  The Suliban woman I spoke with, Sarin, she also used the phrase Temporal Cold War.</td></tr>
 
-  ARCHER
-     What?
+<tr id="L251"><td><a href="#L251">251</a></td><td>TUCKER:  That's what Daniels called it?</td></tr>
 
-  DANIELS
-     You'll understand when we get there, sir.
+<tr id="L252"><td><a href="#L252">252</a></td><td>ARCHER:  The same words.</td></tr>
 
+<tr id="L253"><td><a href="#L253">253</a></td><td>T'POL:  That proves nothing.</td></tr>
 
-LOCATION--Daniel's quarters
+<tr id="L254"><td><a href="#L254">254</a></td><td>ARCHER:  What about the Suliban's genetic engineering? Phlox says it's far beyond their abilities.</td></tr>
 
-  ANNOTATION
-     A very small room with two bunk beds
+<tr id="L255"><td><a href="#L255">255</a></td><td>T'POL:  That doesn't mean that it was given to them by visitors from the future. Until Daniels can offer you concrete proof, I'd remain extremely skeptical.</td></tr>
 
-  DANIELS
-     Oh, please, have a seat. I'm sorry about the mess.
-     Sometimes I think my bunk-mate majored in Chaos
-     Theory.
+<tr id="L256"><td><a href="#L256">256</a></td><td>ARCHER:  I'm telling you, he pushed a button on this device and the whole room changed.</td></tr>
 
-  ANNOTATION
-     He takes a case out of a locker.
+<tr id="L257"><td><a href="#L257">257</a></td><td>TUCKER:  On the Xyrillian ship I was in a holographic chamber where I could've sworn I was in a boat at sea. If what Daniels says is true, then Silik saved Enterprise. Maybe we shouldn't look a gift horse in the mouth.</td></tr>
 
-  ARCHER
-     What is that? That doesn't look like Starfleet
-     issue.
+<tr id="L258"><td><a href="#L258">258</a></td><td>ARCHER:  If there's even a possibility that this cold war exists, we can't ignore Daniels' request.</td></tr>
 
-  DANIELS
-     That's because I'm not a member of Starfleet. Not
-     that I wouldn't be honoured to be one, sir,
-     especially after spending time
+<tr id="L259"><td><a href="#L259">259</a></td><td>HOSHI [OC]:  Bridge to Captain Archer.</td></tr>
 
-  ARCHER
-     Who are you? How do you know what happened on the
-     Helix?
+<tr id="L260"><td><a href="#L260">260</a></td><td>ARCHER:  Yes, Hoshi.</td></tr>
 
-  DANIELS
-     Did Silik tell you who he was working for?
+<tr id="L261"><td><a href="#L261">261</a></td><td>HOSHI [OC]:  We're approaching the protostar, sir</td></tr>
 
-  ARCHER
-     I'm the one asking questions, crewman.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L262"><td><a href="#L262">262</a></td><td>HOSHI:  And the transport ship is requesting permission to dock. Some of the passengers would like to take you up on your offer and observe it from the Mess Hall.</td></tr>
 
-  DANIELS
-     Did he mention the Temporal Cold War?
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L263"><td><a href="#L263">263</a></td><td>ARCHER:  Initiate docking procedures. I'll be right there. One of them might be Silik. We don't have time to debate this any longer. (to T'Pol) I want you to help Daniels.</td></tr>
 
-  ARCHER
-     What do you know about that?
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L264"><td><a href="#L264">264</a></td><td>TUCKER:  I always knew we'd be meeting people from other planets, but other centuries? You're not buying any of this, are you?</td></tr>
 
-  DANIELS
-     A great deal more than you do, sir.
+<tr id="L265"><td><a href="#L265">265</a></td><td>T'POL:  If Daniels could travel through time why not simply go back one more day into the past and prevent Silik from boarding this ship in the first place?</td></tr>
 
-  ARCHER
-     If you're not a member of Starfleet, then who are
-     you?
+<tr id="L266"><td><a href="#L266">266</a></td><td>TUCKER:  Maybe that's plan B.</td></tr>
 
-  DANIELS
-     I work for a different kind of organization. We
-     make sure that people like Silik don't interfere
-     with historical events.
+<tr id="L267"><td><a href="#L267">267</a></td><td>T'POL:  Or maybe he's really not from the future.</td></tr>
 
-  ARCHER
-     I've never heard of a group like that.
+<tr id="L268"><td><a href="#L268">268</a></td><td>TUCKER:  Then why make up such a crazy story?</td></tr>
 
-  DANIELS
-     That's because it doesn't exist yet.
+<tr id="L269"><td><a href="#L269">269</a></td><td>T'POL:  He could be trying to conceal his true intentions.</td></tr>
 
-  ARCHER
-     So you're telling me you're some kind of a time
-     traveller?
+<tr id="L270"><td><a href="#L270">270</a></td><td>TUCKER:  I thought you scientists were supposed to keep an open mind.</td></tr>
 
-  DANIELS
-     That's one way of putting it. Maybe this'll help
-     clear things up.
+<tr id="L271"><td><a href="#L271">271</a></td><td>T'POL:  There's a difference between keeping an open mind and believing something because you want it to be true.</td></tr>
 
-  ANNOTATION
-     He activates device from the case and the room is
-     filled with holographic data representations.
+<tr id="L272"><td><a href="#L272">272</a></td><td>TUCKER:  What the hell's that supposed to mean?</td></tr>
 
-  DANIELS
-     This is how we keep an eye on what's going on. You
-     might call it a Temporal Observatory. I know this
-     must seem a little overwhelming.
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L273"><td><a href="#L273">273</a></td><td>PHLOX:  Roja durana tua teenan, Captain. That is a traditional greeting on the morning of Agosoria. It means, may the Plume light your way.</td></tr>
 
-  ARCHER
-     Overwhelming doesn't quite cover it.
+<tr id="L274"><td><a href="#L274">274</a></td><td>ARCHER:  I take it you enjoyed your visit.</td></tr>
 
-  DANIELS
-     I come from right about, right about here.
-     Approximately nine hundred years from now.
+<tr id="L275"><td><a href="#L275">275</a></td><td>PHLOX:  Oh, it was mesmerising. Four hours of ritual prayer followed by the Kaana-sah, a series of exercises designed to purify the body. I think I strained a leg muscle, but it was well worth it.</td></tr>
 
-  ARCHER
-     Are you human?
+<tr id="L276"><td><a href="#L276">276</a></td><td>ARCHER:  How many decided to join us?</td></tr>
 
-  DANIELS
-     More or less.
+<tr id="L277"><td><a href="#L277">277</a></td><td>PHLOX:  Eleven, I believe. The others wanted to observe the star from their ship.</td></tr>
 
-  ARCHER
-     And the people giving Silik orders?
+<tr id="L278"><td><a href="#L278">278</a></td><td>ARCHER:  So that leaves six on the transport?</td></tr>
 
-  DANIELS
-     They're from an earlier century. From about here.
-     They can't manifest themselves physically in the
-     past. They can only partially materialise to
-     deliver information.
+<tr id="L279"><td><a href="#L279">279</a></td><td>PHLOX:  I didn't take a head count but that sounds about right.</td></tr>
 
-  ARCHER
-     But not you?
+<tr id="L280"><td><a href="#L280">280</a></td><td>ARCHER:  Did any of them seem out of place?</td></tr>
 
-  DANIELS
-     In the years that followed we eventually perfected
-     the process.
+<tr id="L281"><td><a href="#L281">281</a></td><td>PHLOX:  How do you mean?</td></tr>
 
-  ARCHER
-     Sounds dangerous.
+<tr id="L282"><td><a href="#L282">282</a></td><td>ARCHER:  Did they all take part in the rituals?</td></tr>
 
-  DANIELS
-     When time travel was first developed, it wasn't
-     long before people realised that laws had to be
-     made. All the species who had the technology
-     agreed that it would only be used for research.
+<tr id="L283"><td><a href="#L283">283</a></td><td>PHLOX:  As far as I could tell, but our eyes were closed most of the time. Is there something wrong, Captain?</td></tr>
 
-  ARCHER
-     But it wasn't. That's what the Temporal Cold War
-     is all about.
+<tr id="L284"><td><a href="#L284">284</a></td><td>ARCHER:  No, just curious.</td></tr>
 
-  DANIELS
-     Look at this. This is a group of anthropologists
-     from 2769 observing the construction of the Great
-     Pyramid at Giza. They're doing it using the proper
-     procedures set forth in the Temporal Accord. But
-     there are factions that ignore those procedures.
+<tr id="L285"><td><a href="#L285">285</a></td><td>PHLOX:  You seem a little preoccupied.</td></tr>
 
-  ARCHER
-     Why are you telling me all this?
+<tr id="L286"><td><a href="#L286">286</a></td><td>ARCHER:  It's been a long night. Glad you had a good time. Enjoy the view.</td></tr>
 
-  DANIELS
-     (switches off images) Silik is the one who
-     prevented the reactor breach.
+<tr id="L287"><td><a href="#L287">287</a></td><td>PHLOX:  I will.</td></tr>
 
-  ARCHER
-     Are you implying Silik was sent here to save my
-     ship, and if he hadn't we would have been
-     destroyed today?
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L288"><td><a href="#L288">288</a></td><td>DANIELS:  My equipment draws a lot of power. I'll need another twenty megawatts routed to your sensor grid.</td></tr>
 
-  DANIELS
-     I am not implying anything. All I'm saying is that
-     I was assigned here to capture Silik when he came
-     aboard. He is a threat and I need you to help me
-     capture him.
+<tr id="L289"><td><a href="#L289">289</a></td><td>T'POL:  Commander?</td></tr>
 
-  ARCHER
-     You're from nine hundred years in the future, and
-     you need my help?
+<tr id="L290"><td><a href="#L290">290</a></td><td>TUCKER:  The grid can handle it. So I take it your brother isn't really an orbital engineer at Jupiter Station.</td></tr>
 
-  DANIELS
-     The Suliban have been given genetic enhancements
-     that allow them to evade most sensors. They're
-     nearly impossible to detect.
+<tr id="L291"><td><a href="#L291">291</a></td><td>DANIELS:  Actually, I don't have a brother.</td></tr>
 
-  ARCHER
-     I've noticed.
+<tr id="L292"><td><a href="#L292">292</a></td><td>TUCKER:  And you didn't grow up in Illinois.</td></tr>
 
-  DANIELS
-     I have special equipment that can help track Silik
-     but it'll be far more effective if I can tie it
-     into your internal sensor grid. I'll need access
-     to Main Engineering and your command codes. But we
-     have reason to believe that the twenty second
-     century is a front in this cold war. What happens
-     here could affect millennia to come. It's
-     imperative that we find out who Silik is working
-     for and what they're trying to do.
+<tr id="L293"><td><a href="#L293">293</a></td><td>DANIELS:  Oh, I'm from a place called Illinois, sir. Just not the one you're familiar with.</td></tr>
 
-  ARCHER
-     If I decide to help you I can't do it alone. I
-     need to inform some of my crew.
+<tr id="L294"><td><a href="#L294">294</a></td><td>TUCKER:  It's good to know Earth will still be around in nine hundred years.</td></tr>
 
-  DANIELS
-     The fewer the better. You're asking me to capture
-     someone who just saved my ship. Why should I trust
-     you?
+<tr id="L295"><td><a href="#L295">295</a></td><td>DANIELS:  That depends on how you define Earth.</td></tr>
 
-  DANIELS
-     You like your scrambled eggs soft. Have I ever
-     brought them to you any other way?
+<tr id="L296"><td><a href="#L296">296</a></td><td>TUCKER:  Beg your pardon?</td></tr>
 
+<tr id="L297"><td><a href="#L297">297</a></td><td>DANIELS:  You might want to initialise the grid. I'm ready to download the biometric parameters.</td></tr>
 
-LOCATION--Ready room
+<tr id="L298"><td><a href="#L298">298</a></td><td>TUCKER:  Right. What's this?</td></tr>
 
-  ANNOTATION
-     Archer pours out the Voo-Sinteel.
+<tr id="L299"><td><a href="#L299">299</a></td><td>ANNOTATION: He picks up Daniels' device.</td></tr>
 
-  ARCHER
-     You sure you don't want a glass?
+<tr id="L300"><td><a href="#L300">300</a></td><td>DANIELS:  It's very delicate. Please don't.</td></tr>
 
-  T'POL
-     I'm sure. The Vulcan Science Directorate has
-     studied the question of time travel in great
-     detail. They found no evidence that it exists or
-     that it can exist.
+<tr id="L301"><td><a href="#L301">301</a></td><td>ANNOTATION: A holographic screen is being projected from it.</td></tr>
 
-  ARCHER
-     The Suliban woman I spoke with, Sarin, she also
-     used the phrase Temporal Cold War.
+<tr id="L302"><td><a href="#L302">302</a></td><td>DANIELS:  Please don't touch it.</td></tr>
 
-  TUCKER
-     That's what Daniels called it?
+<tr id="L303"><td><a href="#L303">303</a></td><td>TUCKER:  You know, we've got a little pool going in Engineering where we try to guess how far the ship will travel each day. I don't suppose you could give me a tip on tomorrow's distance.</td></tr>
 
-  ARCHER
-     The same words.
+<tr id="L304"><td><a href="#L304">304</a></td><td>DANIELS:  I'm afraid we don't monitor events quite that closely.</td></tr>
 
-  T'POL
-     That proves nothing.
+<tr id="L305"><td><a href="#L305">305</a></td><td>T'POL:  One of the power relays is offline.</td></tr>
 
-  ARCHER
-     What about the Suliban's genetic engineering?
-     Phlox says it's far beyond their abilities.
+<tr id="L306"><td><a href="#L306">306</a></td><td>TUCKER:  Must have been damaged during the plasma storm. J-37. It's about three metres behind that bulkhead.</td></tr>
 
-  T'POL
-     That doesn't mean that it was given to them by
-     visitors from the future. Until Daniels can offer
-     you concrete proof, I'd remain extremely
-     skeptical.
+<tr id="L307"><td><a href="#L307">307</a></td><td>ANNOTATION: Daniels slips a device over his hand.</td></tr>
 
-  ARCHER
-     I'm telling you, he pushed a button on this device
-     and the whole room changed.
+<tr id="L308"><td><a href="#L308">308</a></td><td>DANIELS:   I'll take care of it.</td></tr>
 
-  TUCKER
-     On the Xyrillian ship I was in a holographic
-     chamber where I could've sworn I was in a boat at
-     sea. If what Daniels says is true, then Silik
-     saved Enterprise. Maybe we shouldn't look a gift
-     horse in the mouth.
+<tr id="L309"><td><a href="#L309">309</a></td><td>ANNOTATION: He goes to the bulkhead.</td></tr>
 
-  ARCHER
-     If there's even a possibility that this cold war
-     exists, we can't ignore Daniels' request.
+<tr id="L310"><td><a href="#L310">310</a></td><td>DANIELS:  J-37?</td></tr>
 
-  HOSHI [OC]
-     Bridge to Captain Archer.
+<tr id="L311"><td><a href="#L311">311</a></td><td>ANNOTATION: Daniels activates device and walks through the wall, a few moments and back he comes.</td></tr>
 
-  ARCHER
-     Yes, Hoshi.
+<tr id="L312"><td><a href="#L312">312</a></td><td>DANIELS:  Try it now.</td></tr>
 
-  HOSHI [OC]
-     We're approaching the protostar, sir
+<tr><td></td><td>LOCATION--Archer's quarters</td></tr>
+<tr id="L313"><td><a href="#L313">313</a></td><td>ANNOTATION: Porthos is barking.</td></tr>
 
+<tr id="L314"><td><a href="#L314">314</a></td><td>ARCHER:  I know, I know, your breakfast is two hours late. Don't give me that look. If it's any consolation I missed my breakfast, too.</td></tr>
 
-LOCATION--Bridge
+<tr id="L315"><td><a href="#L315">315</a></td><td>ANNOTATION: Porthos keeps barking.</td></tr>
 
-  HOSHI
-     And the transport ship is requesting permission to
-     dock. Some of the passengers would like to take
-     you up on your offer and observe it from the Mess
-     Hall.
+<tr id="L316"><td><a href="#L316">316</a></td><td>ARCHER:  What's the problem? You're not getting any cheese.</td></tr>
 
+<tr id="L317"><td><a href="#L317">317</a></td><td>ANNOTATION: Porthos ignores his bowl and starts growling. Archer moves to the comm.</td></tr>
 
-LOCATION--Ready room
+<tr id="L318"><td><a href="#L318">318</a></td><td>SILIK:  If you're thinking of calling for help I'd advise against it. (materialises) I'm not the one you should be worried about, Jon.</td></tr>
 
-  ARCHER
-     Initiate docking procedures. I'll be right there.
-     One of them might be Silik. We don't have time to
-     debate this any longer. (to T'Pol) I want you to
-     help Daniels.
+<tr id="L319"><td><a href="#L319">319</a></td><td>ARCHER:  What are you doing here?</td></tr>
 
+<tr id="L320"><td><a href="#L320">320</a></td><td>SILIK:  I thought you might want to thank me. I saved your life. The least you could do is return the favour. There's someone here trying to find me. I need to know who it is.</td></tr>
 
-LOCATION--Turbolift
+<tr id="L321"><td><a href="#L321">321</a></td><td>ARCHER:  I don't know what you're talking about.</td></tr>
 
-  TUCKER
-     I always knew we'd be meeting people from other
-     planets, but other centuries? You're not buying
-     any of this, are you?
+<tr id="L322"><td><a href="#L322">322</a></td><td>SILIK:  I detected tachyon radiation. You don't have anything that emits tachyons. Who's looking for me?</td></tr>
 
-  T'POL
-     If Daniels could travel through time why not
-     simply go back one more day into the past and
-     prevent Silik from boarding this ship in the first
-     place?
+<tr id="L323"><td><a href="#L323">323</a></td><td>ARCHER:  I don't know.</td></tr>
 
-  TUCKER
-     Maybe that's plan B.
+<tr id="L324"><td><a href="#L324">324</a></td><td>SILIK:  Did they tell you that ridiculous story about their noble efforts to protect history? The great Temporal Accord? They're lying to you, Jon. None of it is true. Whoever contacted you is working for another faction. They didn't come here to protect history. They came to alter it. Who do you think was responsible for the antimatter cascade that nearly destroyed your ship? It was them. I was sent to prevent it.</td></tr>
 
-  T'POL
-     Or maybe he's really not from the future.
+<tr id="L325"><td><a href="#L325">325</a></td><td>ARCHER:  And why would you want to do that? The first time we met, you tried to kill me.</td></tr>
 
-  TUCKER
-     Then why make up such a crazy story?
+<tr id="L326"><td><a href="#L326">326</a></td><td>SILIK:  I saved your ship because I was instructed to.</td></tr>
 
-  T'POL
-     He could be trying to conceal his true intentions.
+<tr id="L327"><td><a href="#L327">327</a></td><td>ARCHER:  By whom? What does Enterprise have to do with your temporal war?</td></tr>
 
-  TUCKER
-     I thought you scientists were supposed to keep an
-     open mind.
+<tr id="L328"><td><a href="#L328">328</a></td><td>SILIK:  I'm not privy to that kind of information, but I can tell you this. Whoever's looking for me is a danger to your crew. If you want to continue on your mission you'll help me find them.</td></tr>
 
-  T'POL
-     There's a difference between keeping an open mind
-     and believing something because you want it to be
-     true.
+<tr id="L329"><td><a href="#L329">329</a></td><td>T'POL [OC]:  T'Pol to Captain Archer.</td></tr>
 
-  TUCKER
-     What the hell's that supposed to mean?
+<tr id="L330"><td><a href="#L330">330</a></td><td>ANNOTATION: Silik draws a weapon, then gestures him to answer.</td></tr>
 
+<tr id="L331"><td><a href="#L331">331</a></td><td>ARCHER:  Archer here.</td></tr>
 
-LOCATION--Mess hall
+<tr id="L332"><td><a href="#L332">332</a></td><td>T'POL [OC]:  We've finished the modifications.</td></tr>
 
-  PHLOX
-     Roja durana tua teenan, Captain. That is a
-     traditional greeting on the morning of Agosoria.
-     It means, may the Plume light your way.
+<tr id="L333"><td><a href="#L333">333</a></td><td>ARCHER:  Thanks. I'll be there in a few minutes.</td></tr>
 
-  ARCHER
-     I take it you enjoyed your visit.
+<tr id="L334"><td><a href="#L334">334</a></td><td>T'POL [OC]:  Mister Daniels is eager to get started.</td></tr>
 
-  PHLOX
-     Oh, it was mesmerising. Four hours of ritual
-     prayer followed by the Kaana-sah, a series of
-     exercises designed to purify the body. I think I
-     strained a leg muscle, but it was well worth it.
+<tr id="L335"><td><a href="#L335">335</a></td><td>ARCHER:  He'll have to wait a few minutes. Archer out.</td></tr>
 
-  ARCHER
-     How many decided to join us?
+<tr id="L336"><td><a href="#L336">336</a></td><td>SILIK:  You've been very helpful, Jon.</td></tr>
 
-  PHLOX
-     Eleven, I believe. The others wanted to observe
-     the star from their ship.
+<tr id="L337"><td><a href="#L337">337</a></td><td>ANNOTATION: Silik shoots him and walks out the door, leaving Porthos barking and licking at his master's face.</td></tr>
 
-  ARCHER
-     So that leaves six on the transport?
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L338"><td><a href="#L338">338</a></td><td>MANTOOS:  It's beginning.</td></tr>
 
-  PHLOX
-     I didn't take a head count but that sounds about
-     right.
+<tr id="L339"><td><a href="#L339">339</a></td><td>PHLOX:  How long before we see the Plume?</td></tr>
 
-  ARCHER
-     Did any of them seem out of place?
+<tr id="L340"><td><a href="#L340">340</a></td><td>MANTOOS:  Well, that's hard to predict. Every cycle is unique. Would you care to recite the Invocation of Renewal with us?</td></tr>
 
-  PHLOX
-     How do you mean?
+<tr id="L341"><td><a href="#L341">341</a></td><td>PHLOX:  I'd be honoured. Goran tonia Agosoria.</td></tr>
 
-  ARCHER
-     Did they all take part in the rituals?
+<tr id="L342"><td><a href="#L342">342</a></td><td>MANTOOS:  Yoraya.</td></tr>
 
-  PHLOX
-     As far as I could tell, but our eyes were closed
-     most of the time. Is there something wrong,
-     Captain?
+<tr id="L343"><td><a href="#L343">343</a></td><td>PHLOX:  Yoraya uralan porporo gost.</td></tr>
 
-  ARCHER
-     No, just curious.
+<tr id="L344"><td><a href="#L344">344</a></td><td>ALL:  Goran tonia Agosoria. Yoraya uralan porporo gost.</td></tr>
 
-  PHLOX
-     You seem a little preoccupied.
+<tr id="L345"><td><a href="#L345">345</a></td><td>PHLOX:  Totonya tur eeta dura.</td></tr>
 
-  ARCHER
-     It's been a long night. Glad you had a good time.
-     Enjoy the view.
+<tr id="L346"><td><a href="#L346">346</a></td><td>ALL:  Totonya tur eeta dura.</td></tr>
 
-  PHLOX
-     I will.
+<tr id="L347"><td><a href="#L347">347</a></td><td>PHLOX:  Tyana morita.</td></tr>
 
+<tr id="L348"><td><a href="#L348">348</a></td><td>ALL:  Tyana morita.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L349"><td><a href="#L349">349</a></td><td>TUCKER:  Does this mean it's working?</td></tr>
 
-  DANIELS
-     My equipment draws a lot of power. I'll need
-     another twenty megawatts routed to your sensor
-     grid.
+<tr id="L350"><td><a href="#L350">350</a></td><td>DANIELS:  It's working.</td></tr>
 
-  T'POL
-     Commander?
+<tr id="L351"><td><a href="#L351">351</a></td><td>ANNOTATION: His device chirps.</td></tr>
 
-  TUCKER
-     The grid can handle it. So I take it your brother
-     isn't really an orbital engineer at Jupiter
-     Station.
+<tr id="L352"><td><a href="#L352">352</a></td><td>T'POL:  What is it?</td></tr>
 
-  DANIELS
-     Actually, I don't have a brother.
+<tr id="L353"><td><a href="#L353">353</a></td><td>DANIELS:  Suliban biosigns. He's somewhere on this deck. I can't isolate him, but he's close. Call Lieutenant Reed. Tell him to seal off C Deck. And it wouldn't hurt if he could get down here with a security team.</td></tr>
 
-  TUCKER
-     And you didn't grow up in Illinois.
+<tr id="L354"><td><a href="#L354">354</a></td><td>ANNOTATION: Tucker sees a ripple against a bulkhead.</td></tr>
 
-  DANIELS
-     Oh, I'm from a place called Illinois, sir. Just
-     not the one you're familiar with.
+<tr id="L355"><td><a href="#L355">355</a></td><td>TUCKER:  What's that?</td></tr>
 
-  TUCKER
-     It's good to know Earth will still be around in
-     nine hundred years.
+<tr id="L356"><td><a href="#L356">356</a></td><td>DANIELS:  You two should go.</td></tr>
 
-  DANIELS
-     That depends on how you define Earth.
+<tr id="L357"><td><a href="#L357">357</a></td><td>TUCKER:  We're not leaving.</td></tr>
 
-  TUCKER
-     Beg your pardon?
+<tr id="L358"><td><a href="#L358">358</a></td><td>DANIELS:  Go! Bring help. Go.</td></tr>
 
-  DANIELS
-     You might want to initialise the grid. I'm ready
-     to download the biometric parameters.
+<tr id="L359"><td><a href="#L359">359</a></td><td>ANNOTATION: The outline of a figure is on the upper gantry.</td></tr>
 
-  TUCKER
-     Right. What's this?
+<tr id="L360"><td><a href="#L360">360</a></td><td>TUCKER:  Evacuate Engineering. Everybody out!</td></tr>
 
-  ANNOTATION
-     He picks up Daniels' device.
+<tr id="L361"><td><a href="#L361">361</a></td><td>ANNOTATION: All the crew leave the room. Silik points his gun at Daniels.</td></tr>
 
-  DANIELS
-     It's very delicate. Please don't.
+<tr id="L362"><td><a href="#L362">362</a></td><td>SILIK:  Did they tell you that the twenty second century was going to be your final resting place?</td></tr>
 
-  ANNOTATION
-     A holographic screen is being projected from it.
+<tr id="L363"><td><a href="#L363">363</a></td><td>ANNOTATION: Silik shoots him and he ripples, again and he flies apart. Tucker watches with T'Pol from the doorway.</td></tr>
 
-  DANIELS
-     Please don't touch it.
+<tr id="L364"><td><a href="#L364">364</a></td><td>TUCKER:  Still skeptical? Tucker to Captain Archer. Captain, are you there?</td></tr>
 
-  TUCKER
-     You know, we've got a little pool going in
-     Engineering where we try to guess how far the ship
-     will travel each day. I don't suppose you could
-     give me a tip on tomorrow's distance.
+<tr id="L365"><td><a href="#L365">365</a></td><td>ANNOTATION: T'Pol checks the sensors.</td></tr>
 
-  DANIELS
-     I'm afraid we don't monitor events quite that
-     closely.
+<tr id="L366"><td><a href="#L366">366</a></td><td>T'POL:  He's in his quarters.</td></tr>
 
-  T'POL
-     One of the power relays is offline.
+<tr id="L367"><td><a href="#L367">367</a></td><td>TUCKER:  Tucker to Doctor Phlox.</td></tr>
 
-  TUCKER
-     Must have been damaged during the plasma storm.
-     J-37. It's about three metres behind that
-     bulkhead.
+<tr id="L368"><td><a href="#L368">368</a></td><td>PHLOX [OC]:  Yes, Commander.</td></tr>
 
-  ANNOTATION
-     Daniels slips a device over his hand.
+<tr id="L369"><td><a href="#L369">369</a></td><td>TUCKER:  Meet us in the Captain's quarters on the double.</td></tr>
 
-  DANIELS
-     I'll take care of it.
+<tr id="L370"><td><a href="#L370">370</a></td><td>PHLOX [OC]:  On my way.</td></tr>
 
-  ANNOTATION
-     He goes to the bulkhead.
+<tr><td></td><td>LOCATION--Archer's quarters</td></tr>
+<tr id="L371"><td><a href="#L371">371</a></td><td>ANNOTATION: Phlox gives an injection and Archer wakes.</td></tr>
 
-  DANIELS
-     J-37?
+<tr id="L372"><td><a href="#L372">372</a></td><td>PHLOX:  Easy, Captain. Aside from a nasty headache, you're going to be fine. You were stunned by a particle weapon.</td></tr>
 
-  ANNOTATION
-     Daniels activates device and walks through the
-     wall, a few moments and back he comes.
+<tr id="L373"><td><a href="#L373">373</a></td><td>ARCHER:  It was Silik. I guess he decided not to try and kill me this time.</td></tr>
 
-  DANIELS
-     Try it now.
+<tr id="L374"><td><a href="#L374">374</a></td><td>TUCKER:  He wasn't quite as generous when it came to Daniels. He's dead, sir.</td></tr>
 
+<tr id="L375"><td><a href="#L375">375</a></td><td>ARCHER:  Have our guests left yet?</td></tr>
 
-LOCATION--Archer's quarters
+<tr id="L376"><td><a href="#L376">376</a></td><td>T'POL:  No, the Plume is just beginning.</td></tr>
 
-  ANNOTATION
-     Porthos is barking.
+<tr id="L377"><td><a href="#L377">377</a></td><td>ARCHER:  Enterprise to Captain Fraddock.</td></tr>
 
-  ARCHER
-     I know, I know, your breakfast is two hours late.
-     Don't give me that look. If it's any consolation I
-     missed my breakfast, too.
+<tr id="L378"><td><a href="#L378">378</a></td><td>FRADDOCK [OC]:  Fraddock.</td></tr>
 
-  ANNOTATION
-     Porthos keeps barking.
+<tr id="L379"><td><a href="#L379">379</a></td><td>ARCHER:  I'm looking for one of your passengers. Have any of the ones who were here returned in the last hour or so?</td></tr>
 
-  ARCHER
-     What's the problem? You're not getting any cheese.
+<tr id="L380"><td><a href="#L380">380</a></td><td>FRADDOCK [OC]:  None.</td></tr>
 
-  ANNOTATION
-     Porthos ignores his bowl and starts growling.
-     Archer moves to the comm.
+<tr id="L381"><td><a href="#L381">381</a></td><td>ARCHER:  You're sure?</td></tr>
 
-  SILIK
-     If you're thinking of calling for help I'd advise
-     against it. (materialises) I'm not the one you
-     should be worried about, Jon.
+<tr id="L382"><td><a href="#L382">382</a></td><td>FRADDOCK [OC]:  The hatch has been sealed the entire time.</td></tr>
 
-  ARCHER
-     What are you doing here?
+<tr id="L383"><td><a href="#L383">383</a></td><td>ARCHER:  Thanks. Archer out.</td></tr>
 
-  SILIK
-     I thought you might want to thank me. I saved your
-     life. The least you could do is return the favour.
-     There's someone here trying to find me. I need to
-     know who it is.
+<tr id="L384"><td><a href="#L384">384</a></td><td>ANNOTATION: He opens another channel.</td></tr>
 
-  ARCHER
-     I don't know what you're talking about.
+<tr id="L385"><td><a href="#L385">385</a></td><td>ARCHER:  Mister Reed.</td></tr>
 
-  SILIK
-     I detected tachyon radiation. You don't have
-     anything that emits tachyons. Who's looking for
-     me?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L386"><td><a href="#L386">386</a></td><td>REED:  Yes, sir.</td></tr>
 
-  ARCHER
-     I don't know.
+<tr id="L387"><td><a href="#L387">387</a></td><td>ARCHER [OC]:  We've got a Suliban loose on the ship.</td></tr>
 
-  SILIK
-     Did they tell you that ridiculous story about
-     their noble efforts to protect history? The great
-     Temporal Accord? They're lying to you, Jon. None
-     of it is true. Whoever contacted you is working
-     for another faction. They didn't come here to
-     protect history. They came to alter it. Who do you
-     think was responsible for the antimatter cascade
-     that nearly destroyed your ship? It was them. I
-     was sent to prevent it.
+<tr><td></td><td>LOCATION--Archer's quarters</td></tr>
+<tr id="L388"><td><a href="#L388">388</a></td><td>ARCHER:  I want you to lock down every outer door and exit hatch. Post security teams on all decks.</td></tr>
 
-  ARCHER
-     And why would you want to do that? The first time
-     we met, you tried to kill me.
+<tr id="L389"><td><a href="#L389">389</a></td><td>REED [OC]:  Understood.</td></tr>
 
-  SILIK
-     I saved your ship because I was instructed to.
+<tr id="L390"><td><a href="#L390">390</a></td><td>ARCHER:  Do you think you can find him using Daniels' sensors?</td></tr>
 
-  ARCHER
-     By whom? What does Enterprise have to do with your
-     temporal war?
+<tr id="L391"><td><a href="#L391">391</a></td><td>TUCKER:  I can sure as hell try.</td></tr>
 
-  SILIK
-     I'm not privy to that kind of information, but I
-     can tell you this. Whoever's looking for me is a
-     danger to your crew. If you want to continue on
-     your mission you'll help me find them.
+<tr id="L392"><td><a href="#L392">392</a></td><td>ARCHER:  Get to Engineering.</td></tr>
 
-  T'POL [OC]
-     T'Pol to Captain Archer.
+<tr id="L393"><td><a href="#L393">393</a></td><td>TUCKER:  Yes, sir.</td></tr>
 
-  ANNOTATION
-     Silik draws a weapon, then gestures him to answer.
+<tr id="L394"><td><a href="#L394">394</a></td><td>ARCHER:  T'Pol. Thanks, Doc.</td></tr>
 
-  ARCHER
-     Archer here.
+<tr><td></td><td>LOCATION--Daniels quarters</td></tr>
+<tr id="L395"><td><a href="#L395">395</a></td><td>ANNOTATION: Archer takes the case from the locker and opens it.</td></tr>
 
-  T'POL [OC]
-     We've finished the modifications.
+<tr id="L396"><td><a href="#L396">396</a></td><td>T'POL:  Captain?</td></tr>
 
-  ARCHER
-     Thanks. I'll be there in a few minutes.
+<tr id="L397"><td><a href="#L397">397</a></td><td>ARCHER:  It's gone. He took it.</td></tr>
 
-  T'POL [OC]
-     Mister Daniels is eager to get started.
+<tr id="L398"><td><a href="#L398">398</a></td><td>T'POL:  Took what?</td></tr>
 
-  ARCHER
-     He'll have to wait a few minutes. Archer out.
+<tr id="L399"><td><a href="#L399">399</a></td><td>ARCHER:  The device I told you about. The one Daniels used to show me all those things. That kind of information could give an advantage to whomever Silik's working for.</td></tr>
 
-  SILIK
-     You've been very helpful, Jon.
+<tr id="L400"><td><a href="#L400">400</a></td><td>HOSHI [OC]:  Bridge to Captain Archer.</td></tr>
 
-  ANNOTATION
-     Silik shoots him and walks out the door, leaving
-     Porthos barking and licking at his master's face.
+<tr id="L401"><td><a href="#L401">401</a></td><td>ARCHER:  Go ahead.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L402"><td><a href="#L402">402</a></td><td>HOSHI:  Someone just used our comm. system to transmit a message.</td></tr>
 
-LOCATION--Mess hall
+<tr><td></td><td>LOCATION--Daniels quarters</td></tr>
+<tr id="L403"><td><a href="#L403">403</a></td><td>ARCHER:  What kind of message?</td></tr>
 
-  MANTOOS
-     It's beginning.
+<tr id="L404"><td><a href="#L404">404</a></td><td>HOSHI [OC]:  It's encrypted, sir.</td></tr>
 
-  PHLOX
-     How long before we see the Plume?
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L405"><td><a href="#L405">405</a></td><td>ANNOTATION: As the people in the mess hall watch as spectacular display of stellar pyrotechnics.</td></tr>
 
-  MANTOOS
-     Well, that's hard to predict. Every cycle is
-     unique. Would you care to recite the Invocation of
-     Renewal with us?
+<tr id="L406"><td><a href="#L406">406</a></td><td>ARCHER:  Anything?</td></tr>
 
-  PHLOX
-     I'd be honoured. Goran tonia Agosoria.
+<tr id="L407"><td><a href="#L407">407</a></td><td>TUCKER:  I'm sorry, Captain. I can't make heads or tails of most of this. These might represent Suliban bio-signs but I wouldn't bet on it.</td></tr>
 
-  MANTOOS
-     Yoraya.
+<tr id="L408"><td><a href="#L408">408</a></td><td>ANNOTATION: Silik squishes himself through narrow gaps between conduits in the bulkheads.</td></tr>
 
-  PHLOX
-     Yoraya uralan porporo gost.
+<tr id="L409"><td><a href="#L409">409</a></td><td>TUCKER:  B-deck, service junction 59. Somebody's trying to bypass the lock out codes for Launch Bay Two.</td></tr>
 
-  ALL
-     Goran tonia Agosoria. Yoraya uralan porporo gost.
+<tr id="L410"><td><a href="#L410">410</a></td><td>ARCHER:  Tell Malcolm to meet me with a security team.</td></tr>
 
-  PHLOX
-     Totonya tur eeta dura.
+<tr id="L411"><td><a href="#L411">411</a></td><td>TUCKER:  Captain, I've got something that might give you a leg up.</td></tr>
 
-  ALL
-     Totonya tur eeta dura.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L412"><td><a href="#L412">412</a></td><td>REED:  Looks like he slipped through here. We could remove these conduits but it would take some time.</td></tr>
 
-  PHLOX
-     Tyana morita.
+<tr id="L413"><td><a href="#L413">413</a></td><td>ANNOTATION: Archer switches on Daniels' 'walk through walls' device</td></tr>
 
-  ALL
-     Tyana morita.
+<tr id="L414"><td><a href="#L414">414</a></td><td>REED:  Sir?</td></tr>
 
+<tr id="L415"><td><a href="#L415">415</a></td><td>ANNOTATION: Archer tests it, his hand passes through the bulkhead. Reed hands over a phase pistol.</td></tr>
 
-LOCATION--Engineering
+<tr id="L416"><td><a href="#L416">416</a></td><td>ARCHER:  Stay here.</td></tr>
 
-  TUCKER
-     Does this mean it's working?
+<tr><td></td><td>LOCATION--Service Junction 59</td></tr>
+<tr id="L417"><td><a href="#L417">417</a></td><td>SILIK:  Very clever. Careful, Jon. It would be a shame to trigger another antimatter cascade. There'd be nobody here to stop it.</td></tr>
 
-  DANIELS
-     It's working.
+<tr id="L418"><td><a href="#L418">418</a></td><td>ARCHER:  Put that device on the floor.</td></tr>
 
-  ANNOTATION
-     His device chirps.
+<tr id="L419"><td><a href="#L419">419</a></td><td>SILIK:  It would be in your best interest to let me take it.</td></tr>
 
-  T'POL
-     What is it?
+<tr id="L420"><td><a href="#L420">420</a></td><td>ARCHER:  You keep saying you're here to help us, but I can't stop wondering what kind of genetic enhancements you'll get for bringing back that little prize. Eyes in the back of your head? A pair of wings?</td></tr>
 
-  DANIELS
-     Suliban biosigns. He's somewhere on this deck. I
-     can't isolate him, but he's close. Call Lieutenant
-     Reed. Tell him to seal off C Deck. And it wouldn't
-     hurt if he could get down here with a security
-     team.
+<tr id="L421"><td><a href="#L421">421</a></td><td>SILIK:  That's a cynical attitude, Jon. I thought your species was more trusting.</td></tr>
 
-  ANNOTATION
-     Tucker sees a ripple against a bulkhead.
+<tr id="L422"><td><a href="#L422">422</a></td><td>ANNOTATION: Enterprise shakes violently, both fall, there's a fight, Silik loses his weapon but escapes into a Jefferies tube.</td></tr>
 
-  TUCKER
-     What's that?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L423"><td><a href="#L423">423</a></td><td>TRAVIS:  There's a vessel approaching no bigger than a shuttlepod. It's Suliban.</td></tr>
 
-  DANIELS
-     You two should go.
+<tr><td></td><td>LOCATION--Launch Bay</td></tr>
+<tr id="L424"><td><a href="#L424">424</a></td><td>ARCHER:  I'm not going to ask you again. Put it down.</td></tr>
 
-  TUCKER
-     We're not leaving.
+<tr id="L425"><td><a href="#L425">425</a></td><td>SILIK:  You're going to kill me after I saved your life?</td></tr>
 
-  DANIELS
-     Go! Bring help. Go.
+<tr id="L426"><td><a href="#L426">426</a></td><td>ANNOTATION: Silik shoots Daniels holoprojector out of his hand.</td></tr>
 
-  ANNOTATION
-     The outline of a figure is on the upper gantry.
+<tr id="L427"><td><a href="#L427">427</a></td><td>SILIK:  You may have endangered your future, Jon.</td></tr>
 
-  TUCKER
-     Evacuate Engineering. Everybody out!
+<tr id="L428"><td><a href="#L428">428</a></td><td>ANNOTATION: Silik disappears into the main bay. Suddenly hatch 4 opens and Archer is hanging onto a rail to stop being sucked into space. He drops his phase pistol and crawls onto a walk way. Silik calmly dives out of the ship. Archer manages to get out of the bay, close the launch doors and recompress the area. Silik free-falls to the Suliban pod</td></tr>
 
-  ANNOTATION
-     All the crew leave the room. Silik points his gun
-     at Daniels.
+<tr id="L429"><td><a href="#L429">429</a></td><td>T'POL:  Bridge to Captain Archer.</td></tr>
 
-  SILIK
-     Did they tell you that the twenty second century
-     was going to be your final resting place?
+<tr id="L430"><td><a href="#L430">430</a></td><td>ARCHER:  Yeah.</td></tr>
 
-  ANNOTATION
-     Silik shoots him and he ripples, again and he
-     flies apart. Tucker watches with T'Pol from the
-     doorway.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L431"><td><a href="#L431">431</a></td><td>T'POL:  A Suliban vessel just took something in and went to warp. Should we go after them?</td></tr>
 
-  TUCKER
-     Still skeptical? Tucker to Captain Archer.
-     Captain, are you there?
+<tr><td></td><td>LOCATION--Launch bay</td></tr>
+<tr id="L432"><td><a href="#L432">432</a></td><td>ARCHER:  No. Let 'em go.</td></tr>
 
-  ANNOTATION
-     T'Pol checks the sensors.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L433"><td><a href="#L433">433</a></td><td>ANNOTATION: Archer admires his new clock.</td></tr>
 
-  T'POL
-     He's in his quarters.
+<tr id="L434"><td><a href="#L434">434</a></td><td>ARCHER:  Come in.</td></tr>
 
-  TUCKER
-     Tucker to Doctor Phlox.
+<tr id="L435"><td><a href="#L435">435</a></td><td>T'POL:  The transport ship has left. We're ready to resume course. Have you learned how it works?</td></tr>
 
-  PHLOX [OC]
-     Yes, Commander.
+<tr id="L436"><td><a href="#L436">436</a></td><td>ARCHER:  Not a clue. Starfleet's in store for one hell of a report. I'm not quite sure where to begin.</td></tr>
 
-  TUCKER
-     Meet us in the Captain's quarters on the double.
+<tr id="L437"><td><a href="#L437">437</a></td><td>T'POL:  I'd be glad to help.</td></tr>
 
-  PHLOX [OC]
-     On my way.
+<tr id="L438"><td><a href="#L438">438</a></td><td>ARCHER:  First thing in the morning. I don't know about you, but I could use a good night's sleep.</td></tr>
 
+<tr id="L439"><td><a href="#L439">439</a></td><td>T'POL:  Agreed.</td></tr>
 
-LOCATION--Archer's quarters
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L440"><td><a href="#L440">440</a></td><td>ARCHER:  Mister Reed, assign new quarters to Daniels' roommate and seal off cabin E-14. It's off-limits til further notice.</td></tr>
 
-  ANNOTATION
-     Phlox gives an injection and Archer wakes.
+<tr id="L441"><td><a href="#L441">441</a></td><td>REED:  Aye, sir.</td></tr>
 
-  PHLOX
-     Easy, Captain. Aside from a nasty headache, you're
-     going to be fine. You were stunned by a particle
-     weapon.
+<tr id="L442"><td><a href="#L442">442</a></td><td>ARCHER:  God knows what else is in there. Let's get back on the road, Travis.</td></tr>
 
-  ARCHER
-     It was Silik. I guess he decided not to try and
-     kill me this time.
+<tr id="L443"><td><a href="#L443">443</a></td><td>ANNOTATION: A big security magnetic lock is clamped on Daniels' door and the light glows red.</td></tr>
 
-  TUCKER
-     He wasn't quite as generous when it came to
-     Daniels. He's dead, sir.
-
-  ARCHER
-     Have our guests left yet?
-
-  T'POL
-     No, the Plume is just beginning.
-
-  ARCHER
-     Enterprise to Captain Fraddock.
-
-  FRADDOCK [OC]
-     Fraddock.
-
-  ARCHER
-     I'm looking for one of your passengers. Have any
-     of the ones who were here returned in the last
-     hour or so?
-
-  FRADDOCK [OC]
-     None.
-
-  ARCHER
-     You're sure?
-
-  FRADDOCK [OC]
-     The hatch has been sealed the entire time.
-
-  ARCHER
-     Thanks. Archer out.
-
-  ANNOTATION
-     He opens another channel.
-
-  ARCHER
-     Mister Reed.
-
-
-LOCATION--Bridge
-
-  REED
-     Yes, sir.
-
-  ARCHER [OC]
-     We've got a Suliban loose on the ship.
-
-
-LOCATION--Archer's quarters
-
-  ARCHER
-     I want you to lock down every outer door and exit
-     hatch. Post security teams on all decks.
-
-  REED [OC]
-     Understood.
-
-  ARCHER
-     Do you think you can find him using Daniels'
-     sensors?
-
-  TUCKER
-     I can sure as hell try.
-
-  ARCHER
-     Get to Engineering.
-
-  TUCKER
-     Yes, sir.
-
-  ARCHER
-     T'Pol. Thanks, Doc.
-
-
-LOCATION--Daniels quarters
-
-  ANNOTATION
-     Archer takes the case from the locker and opens
-     it.
-
-  T'POL
-     Captain?
-
-  ARCHER
-     It's gone. He took it.
-
-  T'POL
-     Took what?
-
-  ARCHER
-     The device I told you about. The one Daniels used
-     to show me all those things. That kind of
-     information could give an advantage to whomever
-     Silik's working for.
-
-  HOSHI [OC]
-     Bridge to Captain Archer.
-
-  ARCHER
-     Go ahead.
-
-
-LOCATION--Bridge
-
-  HOSHI
-     Someone just used our comm. system to transmit a
-     message.
-
-
-LOCATION--Daniels quarters
-
-  ARCHER
-     What kind of message?
-
-  HOSHI [OC]
-     It's encrypted, sir.
-
-
-LOCATION--Engineering
-
-  ANNOTATION
-     As the people in the mess hall watch as
-     spectacular display of stellar pyrotechnics.
-
-  ARCHER
-     Anything?
-
-  TUCKER
-     I'm sorry, Captain. I can't make heads or tails of
-     most of this. These might represent Suliban
-     bio-signs but I wouldn't bet on it.
-
-  ANNOTATION
-     Silik squishes himself through narrow gaps between
-     conduits in the bulkheads.
-
-  TUCKER
-     B-deck, service junction 59. Somebody's trying to
-     bypass the lock out codes for Launch Bay Two.
-
-  ARCHER
-     Tell Malcolm to meet me with a security team.
-
-  TUCKER
-     Captain, I've got something that might give you a
-     leg up.
-
-
-LOCATION--Corridor
-
-  REED
-     Looks like he slipped through here. We could
-     remove these conduits but it would take some time.
-
-  ANNOTATION
-     Archer switches on Daniels' 'walk through walls'
-     device
-
-  REED
-     Sir?
-
-  ANNOTATION
-     Archer tests it, his hand passes through the
-     bulkhead. Reed hands over a phase pistol.
-
-  ARCHER
-     Stay here.
-
-
-LOCATION--Service Junction 59
-
-  SILIK
-     Very clever. Careful, Jon. It would be a shame to
-     trigger another antimatter cascade. There'd be
-     nobody here to stop it.
-
-  ARCHER
-     Put that device on the floor.
-
-  SILIK
-     It would be in your best interest to let me take
-     it.
-
-  ARCHER
-     You keep saying you're here to help us, but I
-     can't stop wondering what kind of genetic
-     enhancements you'll get for bringing back that
-     little prize. Eyes in the back of your head? A
-     pair of wings?
-
-  SILIK
-     That's a cynical attitude, Jon. I thought your
-     species was more trusting.
-
-  ANNOTATION
-     Enterprise shakes violently, both fall, there's a
-     fight, Silik loses his weapon but escapes into a
-     Jefferies tube.
-
-
-LOCATION--Bridge
-
-  TRAVIS
-     There's a vessel approaching no bigger than a
-     shuttlepod. It's Suliban.
-
-
-LOCATION--Launch Bay
-
-  ARCHER
-     I'm not going to ask you again. Put it down.
-
-  SILIK
-     You're going to kill me after I saved your life?
-
-  ANNOTATION
-     Silik shoots Daniels holoprojector out of his
-     hand.
-
-  SILIK
-     You may have endangered your future, Jon.
-
-  ANNOTATION
-     Silik disappears into the main bay. Suddenly hatch
-     4 opens and Archer is hanging onto a rail to stop
-     being sucked into space. He drops his phase pistol
-     and crawls onto a walk way. Silik calmly dives out
-     of the ship. Archer manages to get out of the bay,
-     close the launch doors and recompress the area.
-     Silik free-falls to the Suliban pod
-
-  T'POL
-     Bridge to Captain Archer.
-
-  ARCHER
-     Yeah.
-
-
-LOCATION--Bridge
-
-  T'POL
-     A Suliban vessel just took something in and went
-     to warp. Should we go after them?
-
-
-LOCATION--Launch bay
-
-  ARCHER
-     No. Let 'em go.
-
-
-LOCATION--Ready room
-
-  ANNOTATION
-     Archer admires his new clock.
-
-  ARCHER
-     Come in.
-
-  T'POL
-     The transport ship has left. We're ready to resume
-     course. Have you learned how it works?
-
-  ARCHER
-     Not a clue. Starfleet's in store for one hell of a
-     report. I'm not quite sure where to begin.
-
-  T'POL
-     I'd be glad to help.
-
-  ARCHER
-     First thing in the morning. I don't know about
-     you, but I could use a good night's sleep.
-
-  T'POL
-     Agreed.
-
-
-LOCATION--Bridge
-
-  ARCHER
-     Mister Reed, assign new quarters to Daniels'
-     roommate and seal off cabin E-14. It's off-limits
-     til further notice.
-
-  REED
-     Aye, sir.
-
-  ARCHER
-     God knows what else is in there. Let's get back on
-     the road, Travis.
-
-  ANNOTATION
-     A big security magnetic lock is clamped on
-     Daniels' door and the light glows red.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

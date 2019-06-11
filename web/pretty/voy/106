@@ -1,1732 +1,856 @@
-Eye of the Needle
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Eye of the Needle</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: Janeway enters. Tuvok and Chakotay are at Kim's station.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>JANEWAY:  Let's see what you have, Mister Kim.</td></tr>
 
-  ANNOTATION
-     Janeway enters. Tuvok and Chakotay are at Kim's
-     station.
+<tr id="L3"><td><a href="#L3">3</a></td><td>KIM:  There. It's registering only on subspace bands. We don't even have it on long range sensors yet.</td></tr>
 
-  JANEWAY
-     Let's see what you have, Mister Kim.
+<tr id="L4"><td><a href="#L4">4</a></td><td>JANEWAY:  Verteron emanations. Tunnelling secondary particles. It certainly looks like a wormhole.</td></tr>
 
-  KIM
-     There. It's registering only on subspace bands. We
-     don't even have it on long range sensors yet.
+<tr id="L5"><td><a href="#L5">5</a></td><td>CHAKOTAY:  But is it stable enough for us to enter, and if it is, where does it lead?</td></tr>
 
-  JANEWAY
-     Verteron emanations. Tunnelling secondary
-     particles. It certainly looks like a wormhole.
+<tr id="L6"><td><a href="#L6">6</a></td><td>TUVOK:  There is, of course, a seventy five percent chance the wormhole will not lead to the Alpha Quadrant.</td></tr>
 
-  CHAKOTAY
-     But is it stable enough for us to enter, and if it
-     is, where does it lead?
+<tr id="L7"><td><a href="#L7">7</a></td><td>JANEWAY:  Very true. But you can also say there's a one in four chance it will. Those aren't bad odds. Any analysis yet, Ensign?</td></tr>
 
-  TUVOK
-     There is, of course, a seventy five percent chance
-     the wormhole will not lead to the Alpha Quadrant.
+<tr id="L8"><td><a href="#L8">8</a></td><td>KIM:  Too far away. We'd have to be within a thousand kilometres to get a detailed analysis. That would mean a significant course change.</td></tr>
 
-  JANEWAY
-     Very true. But you can also say there's a one in
-     four chance it will. Those aren't bad odds. Any
-     analysis yet, Ensign?
+<tr id="L9"><td><a href="#L9">9</a></td><td>JANEWAY:  Well, Mister Kim, if there's even the possibility of finding a wormhole, I think we can afford a detour. Lieutenant, input the coordinates and change course.</td></tr>
 
-  KIM
-     Too far away. We'd have to be within a thousand
-     kilometres to get a detailed analysis. That would
-     mean a significant course change.
+<tr id="L10"><td><a href="#L10">10</a></td><td>PARIS:  Aye, Captain. And may I suggest, if this works, we petition the Federation Astronomical Committee to officially designate this the Harry Kim Wormhole.</td></tr>
 
-  JANEWAY
-     Well, Mister Kim, if there's even the possibility
-     of finding a wormhole, I think we can afford a
-     detour. Lieutenant, input the coordinates and
-     change course.
+<tr id="L11"><td><a href="#L11">11</a></td><td>ANNOTATION: Later.</td></tr>
 
-  PARIS
-     Aye, Captain. And may I suggest, if this works, we
-     petition the Federation Astronomical Committee to
-     officially designate this the Harry Kim Wormhole.
+<tr id="L12"><td><a href="#L12">12</a></td><td>PARIS:  Captain, we're approaching the coordinates of the wormhole.</td></tr>
 
-  ANNOTATION
-     Later.
+<tr id="L13"><td><a href="#L13">13</a></td><td>JANEWAY:  On screen. Are we in visual range?</td></tr>
 
-  PARIS
-     Captain, we're approaching the coordinates of the
-     wormhole.
+<tr id="L14"><td><a href="#L14">14</a></td><td>KIM:  Affirmative, Captain, and the anomaly is still registering on subspace bands.</td></tr>
 
-  JANEWAY
-     On screen. Are we in visual range?
+<tr id="L15"><td><a href="#L15">15</a></td><td>PARIS:  Sensors also indicate it's there.</td></tr>
 
-  KIM
-     Affirmative, Captain, and the anomaly is still
-     registering on subspace bands.
+<tr id="L16"><td><a href="#L16">16</a></td><td>JANEWAY:  Magnify. Increase to highest magnification.</td></tr>
 
-  PARIS
-     Sensors also indicate it's there.
+<tr id="L17"><td><a href="#L17">17</a></td><td>CHAKOTAY:  If that's a wormhole, it must be the smallest one on record.</td></tr>
 
-  JANEWAY
-     Magnify. Increase to highest magnification.
+<tr id="L18"><td><a href="#L18">18</a></td><td>JANEWAY:  Mister Kim, are you able to analyse it?</td></tr>
 
-  CHAKOTAY
-     If that's a wormhole, it must be the smallest one
-     on record.
+<tr id="L19"><td><a href="#L19">19</a></td><td>KIM:  Aye Captain. It's virtually microscopic. The aperture is only about thirty centimetres in diameter.</td></tr>
 
-  JANEWAY
-     Mister Kim, are you able to analyse it?
+<tr id="L20"><td><a href="#L20">20</a></td><td>PARIS:  I guess it's a little too small for us to fly through.</td></tr>
 
-  KIM
-     Aye Captain. It's virtually microscopic. The
-     aperture is only about thirty centimetres in
-     diameter.
+<tr id="L21"><td><a href="#L21">21</a></td><td>TUVOK:  However, it might be large enough to act as a conduit for a message.</td></tr>
 
-  PARIS
-     I guess it's a little too small for us to fly
-     through.
+<tr id="L22"><td><a href="#L22">22</a></td><td>KIM:  That's right. It could carry a compressed data transmission to Federation space in minutes.</td></tr>
 
-  TUVOK
-     However, it might be large enough to act as a
-     conduit for a message.
+<tr id="L23"><td><a href="#L23">23</a></td><td>JANEWAY:  We still have to find out if it goes anywhere near the Alpha Quadrant. Can you trace it's subspace bearing?</td></tr>
 
-  KIM
-     That's right. It could carry a compressed data
-     transmission to Federation space in minutes.
+<tr id="L24"><td><a href="#L24">24</a></td><td>KIM:  I can't get any directional readings at all. The aperture is too small.</td></tr>
 
-  JANEWAY
-     We still have to find out if it goes anywhere near
-     the Alpha Quadrant. Can you trace it's subspace
-     bearing?
+<tr id="L25"><td><a href="#L25">25</a></td><td>TUVOK:  I recommend we launch a microprobe into the wormhole.</td></tr>
 
-  KIM
-     I can't get any directional readings at all. The
-     aperture is too small.
+<tr id="L26"><td><a href="#L26">26</a></td><td>JANEWAY:  Agreed. Do it, Lieutenant.</td></tr>
 
-  TUVOK
-     I recommend we launch a microprobe into the
-     wormhole.
+<tr id="L27"><td><a href="#L27">27</a></td><td>TUVOK:  Aye, Captain.</td></tr>
 
-  JANEWAY
-     Agreed. Do it, Lieutenant.
+<tr id="L28"><td><a href="#L28">28</a></td><td>ANNOTATION: Whoosh.</td></tr>
 
-  TUVOK
-     Aye, Captain.
+<tr id="L29"><td><a href="#L29">29</a></td><td>KIM:  We're receiving telemetry.</td></tr>
 
-  ANNOTATION
-     Whoosh.
+<tr id="L30"><td><a href="#L30">30</a></td><td>ANNOTATION: The viewscreen shows a green tunnel.</td></tr>
 
-  KIM
-     We're receiving telemetry.
+<tr id="L31"><td><a href="#L31">31</a></td><td>PARIS:  It doesn't look like any wormhole I've ever studied.</td></tr>
 
-  ANNOTATION
-     The viewscreen shows a green tunnel.
+<tr id="L32"><td><a href="#L32">32</a></td><td>KIM:  Microscopic gravitational eddies, extremely constricted spatial dimensions. The pathway's barely wider than the probe itself.</td></tr>
 
-  PARIS
-     It doesn't look like any wormhole I've ever
-     studied.
+<tr id="L33"><td><a href="#L33">33</a></td><td>JANEWAY:  I think what we're seeing is a wormhole in an advanced state of decay. Must be ancient. Probably been collapsing for centuries.</td></tr>
 
-  KIM
-     Microscopic gravitational eddies, extremely
-     constricted spatial dimensions. The pathway's
-     barely wider than the probe itself.
+<tr id="L34"><td><a href="#L34">34</a></td><td>PARIS:  Does that mean we can't send a message through it?</td></tr>
 
-  JANEWAY
-     I think what we're seeing is a wormhole in an
-     advanced state of decay. Must be ancient. Probably
-     been collapsing for centuries.
+<tr id="L35"><td><a href="#L35">35</a></td><td>KIM:  No, I can do it. Maybe it'll take longer to get through, but the wormhole's still stable enough to carry a transmission.</td></tr>
 
-  PARIS
-     Does that mean we can't send a message through it?
+<tr id="L36"><td><a href="#L36">36</a></td><td>CHAKOTAY:  Any idea yet where that message would end up, Ensign?</td></tr>
 
-  KIM
-     No, I can do it. Maybe it'll take longer to get
-     through, but the wormhole's still stable enough to
-     carry a transmission.
+<tr id="L37"><td><a href="#L37">37</a></td><td>KIM:  I'll try extrapolating the verteron exit vector. No, I can't get it. There's a strange phase variance in the radiation stream. We'll have to wait until the probe exits.</td></tr>
 
-  CHAKOTAY
-     Any idea yet where that message would end up,
-     Ensign?
+<tr id="L38"><td><a href="#L38">38</a></td><td>JANEWAY:  That shouldn't take long.</td></tr>
 
-  KIM
-     I'll try extrapolating the verteron exit vector.
-     No, I can't get it. There's a strange phase
-     variance in the radiation stream. We'll have to
-     wait until the probe exits.
+<tr id="L39"><td><a href="#L39">39</a></td><td>PARIS:  Captain, I'm getting a distorted energy reading.</td></tr>
 
-  JANEWAY
-     That shouldn't take long.
+<tr id="L40"><td><a href="#L40">40</a></td><td>TUVOK:  The probe's telemetry has changed.</td></tr>
 
-  PARIS
-     Captain, I'm getting a distorted energy reading.
+<tr id="L41"><td><a href="#L41">41</a></td><td>KIM:  It's stuck.</td></tr>
 
-  TUVOK
-     The probe's telemetry has changed.
+<tr id="L42"><td><a href="#L42">42</a></td><td>JANEWAY:  Stuck?</td></tr>
 
-  KIM
-     It's stuck.
+<tr id="L43"><td><a href="#L43">43</a></td><td>KIM:  It's mired in a gravitational eddy, and because the wormhole's in a state of collapse, those eddies are incredibly dense. That probe will never break free, Captain, and we'll have no way of finding out where the wormhole ends.</td></tr>
 
-  JANEWAY
-     Stuck?
+<tr id="L44"><td><a href="#L44">44</a></td><td>JANEWAY:  Let's give it some time. Maybe it will work itself loose.</td></tr>
 
-  KIM
-     It's mired in a gravitational eddy, and because
-     the wormhole's in a state of collapse, those
-     eddies are incredibly dense. That probe will never
-     break free, Captain, and we'll have no way of
-     finding out where the wormhole ends.
+<tr id="L45"><td><a href="#L45">45</a></td><td>KIM:  Captain?</td></tr>
 
-  JANEWAY
-     Let's give it some time. Maybe it will work itself
-     loose.
+<tr id="L46"><td><a href="#L46">46</a></td><td>JANEWAY:  What is it, Ensign.</td></tr>
 
-  KIM
-     Captain?
+<tr id="L47"><td><a href="#L47">47</a></td><td>KIM:  Our probe was just scanned. There's somebody on the other side of the wormhole.</td></tr>
 
-  JANEWAY
-     What is it, Ensign.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L48"><td><a href="#L48">48</a></td><td>ANNOTATION: The Doctor and new assistant Kes have a patient - a man with a sore wrist.</td></tr>
 
-  KIM
-     Our probe was just scanned. There's somebody on
-     the other side of the wormhole.
+<tr id="L49"><td><a href="#L49">49</a></td><td>BAXTER:  It started acting up a couple of days ago. I'd been working out in the gym, maybe I overdid it.</td></tr>
 
+<tr id="L50"><td><a href="#L50">50</a></td><td>EMH:  Is it sore here?</td></tr>
 
-LOCATION--Sickbay
+<tr id="L51"><td><a href="#L51">51</a></td><td>BAXTER:  Yes.</td></tr>
 
-  ANNOTATION
-     The Doctor and new assistant Kes have a patient -
-     a man with a sore wrist.
+<tr id="L52"><td><a href="#L52">52</a></td><td>EMH:  Localised tenderness to the ulna bone, no epidermal damage, moderate oedema. What are the possible diagnoses?</td></tr>
 
-  BAXTER
-     It started acting up a couple of days ago. I'd
-     been working out in the gym, maybe I overdid it.
+<tr id="L53"><td><a href="#L53">53</a></td><td>KES:  Epicondylitis, strained ligament, torn muscle and hairline fracture.</td></tr>
 
-  EMH
-     Is it sore here?
+<tr id="L54"><td><a href="#L54">54</a></td><td>EMH:  That's exactly right.</td></tr>
 
-  BAXTER
-     Yes.
+<tr id="L55"><td><a href="#L55">55</a></td><td>KES:  I've studied all the material you gave me. I'm ready for more.</td></tr>
 
-  EMH
-     Localised tenderness to the ulna bone, no
-     epidermal damage, moderate oedema. What are the
-     possible diagnoses?
+<tr id="L56"><td><a href="#L56">56</a></td><td>EMH:  Good. There's a great deal more for you to learn. The tricorder indicates this is a small stress fracture.</td></tr>
 
-  KES
-     Epicondylitis, strained ligament, torn muscle and
-     hairline fracture.
+<tr id="L57"><td><a href="#L57">57</a></td><td>BAXTER:  Can this guy do everything a real doctor does?</td></tr>
 
-  EMH
-     That's exactly right.
+<tr id="L58"><td><a href="#L58">58</a></td><td>ANNOTATION: The EMH hands a device to Kes.</td></tr>
 
-  KES
-     I've studied all the material you gave me. I'm
-     ready for more.
+<tr id="L59"><td><a href="#L59">59</a></td><td>EMH:  Yes, he can. Activate it and direct the beam here. That's it. Not quite so fast.</td></tr>
 
-  EMH
-     Good. There's a great deal more for you to learn.
-     The tricorder indicates this is a small stress
-     fracture.
+<tr id="L60"><td><a href="#L60">60</a></td><td>BAXTER:  If I had to get treatment for something serious, if I needed surgery for instance, would he be performing it?</td></tr>
 
-  BAXTER
-     Can this guy do everything a real doctor does?
+<tr id="L61"><td><a href="#L61">61</a></td><td>EMH:  Of course, and quite expertly too.</td></tr>
 
-  ANNOTATION
-     The EMH hands a device to Kes.
+<tr id="L62"><td><a href="#L62">62</a></td><td>BAXTER:  I don't know. I'd have to think twice about that.</td></tr>
 
-  EMH
-     Yes, he can. Activate it and direct the beam here.
-     That's it. Not quite so fast.
+<tr id="L63"><td><a href="#L63">63</a></td><td>EMH:  Fine. And if you were lucky you wouldn't die on the table while you were making up your mind. That should do it. How does it feel?</td></tr>
 
-  BAXTER
-     If I had to get treatment for something serious,
-     if I needed surgery for instance, would he be
-     performing it?
+<tr id="L64"><td><a href="#L64">64</a></td><td>BAXTER:  Not bad. Thanks.</td></tr>
 
-  EMH
-     Of course, and quite expertly too.
+<tr id="L65"><td><a href="#L65">65</a></td><td>ANNOTATION: Baxter leaves.</td></tr>
 
-  BAXTER
-     I don't know. I'd have to think twice about that.
+<tr><td></td><td>LOCATION--Doctor's office</td></tr>
+<tr id="L66"><td><a href="#L66">66</a></td><td>KES:  Doctor, did you notice how rudely that officer treated you?</td></tr>
 
-  EMH
-     Fine. And if you were lucky you wouldn't die on
-     the table while you were making up your mind. That
-     should do it. How does it feel?
+<tr id="L67"><td><a href="#L67">67</a></td><td>EMH:  Not more so than most.</td></tr>
 
-  BAXTER
-     Not bad. Thanks.
+<tr id="L68"><td><a href="#L68">68</a></td><td>KES:  You mean others act that way too.</td></tr>
 
-  ANNOTATION
-     Baxter leaves.
+<tr id="L69"><td><a href="#L69">69</a></td><td>EMH:  Let's just say I've become accustomed to being treated like a hypospray. Now, here's some material on first aid for burns.</td></tr>
 
+<tr id="L70"><td><a href="#L70">70</a></td><td>KES:  Doctor, I think I'd like to do more than study first aid. I'd be interested in knowing more about anatomy and physiology.</td></tr>
 
-LOCATION--Doctor's office
+<tr id="L71"><td><a href="#L71">71</a></td><td>EMH:  You're intellectually curious. I like that. These deal with human anatomy and physiology, but they weren't written for the layman. They're quite technical.</td></tr>
 
-  KES
-     Doctor, did you notice how rudely that officer
-     treated you?
+<tr id="L72"><td><a href="#L72">72</a></td><td>ANNOTATION: Kes looks over the set of PADDs.</td></tr>
 
-  EMH
-     Not more so than most.
+<tr id="L73"><td><a href="#L73">73</a></td><td>KES:  I understand. I'll do my best. And I really appreciate your help.</td></tr>
 
-  KES
-     You mean others act that way too.
+<tr><td></td><td>LOCATION--Briefing Room</td></tr>
+<tr id="L74"><td><a href="#L74">74</a></td><td>KIM:  We've analysed the data. So far our sensors have detected four separate scans of the microprobe, each one on a progressively narrower band. Someone on the other end of that wormhole is definitely interested in that probe.</td></tr>
 
-  EMH
-     Let's just say I've become accustomed to being
-     treated like a hypospray. Now, here's some
-     material on first aid for burns.
+<tr id="L75"><td><a href="#L75">75</a></td><td>TUVOK:  We cannot preclude the possibility that there is a microscopic entity within the wormhole curious about an intruder.</td></tr>
 
-  KES
-     Doctor, I think I'd like to do more than study
-     first aid. I'd be interested in knowing more about
-     anatomy and physiology.
+<tr id="L76"><td><a href="#L76">76</a></td><td>KIM:  That's possible, but you'd think our probe would have detected something like that.</td></tr>
 
-  EMH
-     You're intellectually curious. I like that. These
-     deal with human anatomy and physiology, but they
-     weren't written for the layman. They're quite
-     technical.
+<tr id="L77"><td><a href="#L77">77</a></td><td>JANEWAY:  What's the condition of the probe now?</td></tr>
 
-  ANNOTATION
-     Kes looks over the set of PADDs.
+<tr id="L78"><td><a href="#L78">78</a></td><td>TORRES:  I've been monitoring it from Engineering. It's still embedded in a gravitational eddy, but within seventy two hours it will be crushed.</td></tr>
 
-  KES
-     I understand. I'll do my best. And I really
-     appreciate your help.
+<tr id="L79"><td><a href="#L79">79</a></td><td>KIM:  But until then it should continue to transmit telemetry.</td></tr>
 
+<tr id="L80"><td><a href="#L80">80</a></td><td>JANEWAY:  If we're reading scans from the other side, it's possible the probe is acting as a relay. If that's true, we should be able to use it to transmit a message to whoever is executing the scan.</td></tr>
 
-LOCATION--Briefing Room
+<tr id="L81"><td><a href="#L81">81</a></td><td>KIM:  Yes. I can modify our subspace communications band to accept the probe as a booster.</td></tr>
 
-  KIM
-     We've analysed the data. So far our sensors have
-     detected four separate scans of the microprobe,
-     each one on a progressively narrower band. Someone
-     on the other end of that wormhole is definitely
-     interested in that probe.
+<tr id="L82"><td><a href="#L82">82</a></td><td>JANEWAY:  Let's try it, Mister Kim.</td></tr>
 
-  TUVOK
-     We cannot preclude the possibility that there is a
-     microscopic entity within the wormhole curious
-     about an intruder.
+<tr id="L83"><td><a href="#L83">83</a></td><td>TORRES:  I'll give you a hand.</td></tr>
 
-  KIM
-     That's possible, but you'd think our probe would
-     have detected something like that.
+<tr id="L84"><td><a href="#L84">84</a></td><td>ANNOTATION: Kim and Torres leave.</td></tr>
 
-  JANEWAY
-     What's the condition of the probe now?
+<tr id="L85"><td><a href="#L85">85</a></td><td>TUVOK:  I fear Mister Kim's exuberance may turn into an equally intense disappointment if his efforts prove in vain.</td></tr>
 
-  TORRES
-     I've been monitoring it from Engineering. It's
-     still embedded in a gravitational eddy, but within
-     seventy two hours it will be crushed.
+<tr id="L86"><td><a href="#L86">86</a></td><td>JANEWAY:  You may be right, but I'd rather assume that he's going to be successful.</td></tr>
 
-  KIM
-     But until then it should continue to transmit
-     telemetry.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L87"><td><a href="#L87">87</a></td><td>KIM:  Okay, I've boosted power to the communications bandwidth. Now all we have to do reconfigure the signal generator so it's compatible with the probe's long range sensors.</td></tr>
 
-  JANEWAY
-     If we're reading scans from the other side, it's
-     possible the probe is acting as a relay. If that's
-     true, we should be able to use it to transmit a
-     message to whoever is executing the scan.
+<tr id="L88"><td><a href="#L88">88</a></td><td>TORRES:  I'm on it. Just a few minutes more.</td></tr>
 
-  KIM
-     Yes. I can modify our subspace communications band
-     to accept the probe as a booster.
+<tr id="L89"><td><a href="#L89">89</a></td><td>KIM:  This has to work. It'll mean so much to people back home to know we're alive and headed for Federation space.</td></tr>
 
-  JANEWAY
-     Let's try it, Mister Kim.
+<tr id="L90"><td><a href="#L90">90</a></td><td>TORRES:  We haven't been gone that long. People won't give up on us so soon. They probably just think we're lost.</td></tr>
 
-  TORRES
-     I'll give you a hand.
+<tr id="L91"><td><a href="#L91">91</a></td><td>KIM:  It's still going to be hard on my folks. I always called them once a week, even when I was on my training missions. I've never been out of contact for so long.</td></tr>
 
-  ANNOTATION
-     Kim and Torres leave.
+<tr id="L92"><td><a href="#L92">92</a></td><td>TORRES:  Well, it is going to work, Starfleet, so pretty soon they're going to know you're all right.</td></tr>
 
-  TUVOK
-     I fear Mister Kim's exuberance may turn into an
-     equally intense disappointment if his efforts
-     prove in vain.
+<tr id="L93"><td><a href="#L93">93</a></td><td>KIM:  How about you? Any family?</td></tr>
 
-  JANEWAY
-     You may be right, but I'd rather assume that he's
-     going to be successful.
+<tr id="L94"><td><a href="#L94">94</a></td><td>TORRES:  I haven't seen my father since I was five. He and my mother separated. He went back to Earth and that was the last I saw of him.</td></tr>
 
+<tr id="L95"><td><a href="#L95">95</a></td><td>KIM:  And your mom?</td></tr>
 
-LOCATION--Engineering
+<tr id="L96"><td><a href="#L96">96</a></td><td>TORRES:  I think she's on the Klingon Homeworld.</td></tr>
 
-  KIM
-     Okay, I've boosted power to the communications
-     bandwidth. Now all we have to do reconfigure the
-     signal generator so it's compatible with the
-     probe's long range sensors.
+<tr id="L97"><td><a href="#L97">97</a></td><td>KIM:  You think?</td></tr>
 
-  TORRES
-     I'm on it. Just a few minutes more.
+<tr id="L98"><td><a href="#L98">98</a></td><td>TORRES:  We didn't get along very well. Okay, the signal generator should be tuned to the probe's long range sensors.</td></tr>
 
-  KIM
-     This has to work. It'll mean so much to people
-     back home to know we're alive and headed for
-     Federation space.
+<tr id="L99"><td><a href="#L99">99</a></td><td>KIM:  Isn't there anyone back home who'll be worried about you?</td></tr>
 
-  TORRES
-     We haven't been gone that long. People won't give
-     up on us so soon. They probably just think we're
-     lost.
+<tr id="L100"><td><a href="#L100">100</a></td><td>TORRES:  The Maquis are as to a close family as I've ever had. Most of my friends are here, on the ship, so no, there's no one back home who's going to care one way or the other whether I'm alive. We're ready to transmit.</td></tr>
 
-  KIM
-     It's still going to be hard on my folks. I always
-     called them once a week, even when I was on my
-     training missions. I've never been out of contact
-     for so long.
+<tr id="L101"><td><a href="#L101">101</a></td><td>KIM:  Engineering to Bridge.</td></tr>
 
-  TORRES
-     Well, it is going to work, Starfleet, so pretty
-     soon they're going to know you're all right.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L102"><td><a href="#L102">102</a></td><td>JANEWAY:  Janeway here.</td></tr>
 
-  KIM
-     How about you? Any family?
+<tr id="L103"><td><a href="#L103">103</a></td><td>KIM [OC]:  We have a communications link with the microprobe. We're going to try sending a preliminary test signal, a series of sub-harmonic pulses.</td></tr>
 
-  TORRES
-     I haven't seen my father since I was five. He and
-     my mother separated. He went back to Earth and
-     that was the last I saw of him.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L104"><td><a href="#L104">104</a></td><td>KIM:  They stand the best chance of transmission through the wormhole.</td></tr>
 
-  KIM
-     And your mom?
+<tr id="L105"><td><a href="#L105">105</a></td><td>JANEWAY [OC]:  Acknowledged.</td></tr>
 
-  TORRES
-     I think she's on the Klingon Homeworld.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L106"><td><a href="#L106">106</a></td><td>JANEWAY:  Proceed.</td></tr>
 
-  KIM
-     You think?
+<tr id="L107"><td><a href="#L107">107</a></td><td>KIM [OC]:  Aye, Captain.</td></tr>
 
-  TORRES
-     We didn't get along very well. Okay, the signal
-     generator should be tuned to the probe's long
-     range sensors.
+<tr id="L108"><td><a href="#L108">108</a></td><td>CHAKOTAY:  I'm reading transmission of the test signal. The probe has received it and relayed it.</td></tr>
 
-  KIM
-     Isn't there anyone back home who'll be worried
-     about you?
+<tr id="L109"><td><a href="#L109">109</a></td><td>PARIS:  How will we know if the signal reaches somebody?</td></tr>
 
-  TORRES
-     The Maquis are as to a close family as I've ever
-     had. Most of my friends are here, on the ship, so
-     no, there's no one back home who's going to care
-     one way or the other whether I'm alive. We're
-     ready to transmit.
+<tr id="L110"><td><a href="#L110">110</a></td><td>JANEWAY:  The only way is if that somebody answers.</td></tr>
 
-  KIM
-     Engineering to Bridge.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L111"><td><a href="#L111">111</a></td><td>KIM:  There's no response.</td></tr>
 
+<tr id="L112"><td><a href="#L112">112</a></td><td>TORRES:  It's too soon. Remember, we have no idea how long it takes to reach the other side.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L113"><td><a href="#L113">113</a></td><td>JANEWAY:  Are you reading anything, Mister Tuvok?</td></tr>
 
-  JANEWAY
-     Janeway here.
+<tr id="L114"><td><a href="#L114">114</a></td><td>TUVOK:  Negative Captain. There is nothing that would suggest a response.</td></tr>
 
-  KIM [OC]
-     We have a communications link with the microprobe.
-     We're going to try sending a preliminary test
-     signal, a series of sub-harmonic pulses.
+<tr id="L115"><td><a href="#L115">115</a></td><td>CHAKOTAY:  Even if someone receives our signal, it might take them some time to figure out how to return it.</td></tr>
 
+<tr id="L116"><td><a href="#L116">116</a></td><td>JANEWAY:  You're right. Janeway to Kim. Continue transmitting.</td></tr>
 
-LOCATION--Engineering
+<tr id="L117"><td><a href="#L117">117</a></td><td>KIM [OC]:  Aye Captain.</td></tr>
 
-  KIM
-     They stand the best chance of transmission through
-     the wormhole.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L118"><td><a href="#L118">118</a></td><td>KIM:  How long shall we keep it up?</td></tr>
 
-  JANEWAY [OC]
-     Acknowledged.
+<tr id="L119"><td><a href="#L119">119</a></td><td>JANEWAY [OC]:  Until I tell you otherwise.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L120"><td><a href="#L120">120</a></td><td>JANEWAY:  You have the bridge, Commander.</td></tr>
 
-LOCATION--Bridge
+<tr id="L121"><td><a href="#L121">121</a></td><td>TUVOK:  Captain.</td></tr>
 
-  JANEWAY
-     Proceed.
+<tr id="L122"><td><a href="#L122">122</a></td><td>JANEWAY:  Mister Tuvok.</td></tr>
 
-  KIM [OC]
-     Aye, Captain.
+<tr id="L123"><td><a href="#L123">123</a></td><td>TUVOK:  I'm getting something, Captain.</td></tr>
 
-  CHAKOTAY
-     I'm reading transmission of the test signal. The
-     probe has received it and relayed it.
+<tr id="L124"><td><a href="#L124">124</a></td><td>PARIS:  I'm getting it too. A subspace signal relayed through the probe.</td></tr>
 
-  PARIS
-     How will we know if the signal reaches somebody?
+<tr id="L125"><td><a href="#L125">125</a></td><td>TUVOK:  That signal is being transmitted at exactly the same frequency and amplitude as our signal. It's a response. Someone received our transmission and sent one back, and their signal originated in the Alpha Quadrant.</td></tr>
 
-  JANEWAY
-     The only way is if that somebody answers.
+<tr id="L126"><td><a href="#L126">126</a></td><td>SOMEONE: Captain's log, supplemental. Encouraged by his success in transmitting a signal to the Alpha Quadrant, Mister Kim is investigating the possibility of establishing a voice link with whoever is at the other end of the wormhole.</td></tr>
 
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L127"><td><a href="#L127">127</a></td><td>JANEWAY:  Come in. Kes, this is a surprise.</td></tr>
 
-LOCATION--Engineering
+<tr id="L128"><td><a href="#L128">128</a></td><td>KES:  Am I interrupting?</td></tr>
 
-  KIM
-     There's no response.
+<tr id="L129"><td><a href="#L129">129</a></td><td>JANEWAY:  Not at all. I was just going to have a cup of soup. Would you like anything?</td></tr>
 
-  TORRES
-     It's too soon. Remember, we have no idea how long
-     it takes to reach the other side.
+<tr id="L130"><td><a href="#L130">130</a></td><td>KES:  Ah, spinach juice with a touch of pear, please. Tom Paris introduced me to it, it's very nutritious.</td></tr>
 
+<tr id="L131"><td><a href="#L131">131</a></td><td>JANEWAY:  I'm sure. Computer, one spinach juice with a touch of pear and one cup of vegetable bouillon. What can I do for you?</td></tr>
 
-LOCATION--Bridge
+<tr id="L132"><td><a href="#L132">132</a></td><td>ANNOTATION: They take their drinks to the settee.</td></tr>
 
-  JANEWAY
-     Are you reading anything, Mister Tuvok?
+<tr id="L133"><td><a href="#L133">133</a></td><td>KES:  If there were a member of the crew whose needs weren't being met, would you want to know about it?</td></tr>
 
-  TUVOK
-     Negative Captain. There is nothing that would
-     suggest a response.
+<tr id="L134"><td><a href="#L134">134</a></td><td>JANEWAY:  Of course. Kes, do you and Neelix feel that your needs are being ignored?</td></tr>
 
-  CHAKOTAY
-     Even if someone receives our signal, it might take
-     them some time to figure out how to return it.
+<tr id="L135"><td><a href="#L135">135</a></td><td>KES:  Of course not, we're very happy here. I'm referring to the Doctor.</td></tr>
 
-  JANEWAY
-     You're right. Janeway to Kim. Continue
-     transmitting.
+<tr id="L136"><td><a href="#L136">136</a></td><td>JANEWAY:  The Doctor?</td></tr>
 
-  KIM [OC]
-     Aye Captain.
+<tr id="L137"><td><a href="#L137">137</a></td><td>KES:  I don't understand why people treat him the way they do.</td></tr>
 
+<tr id="L138"><td><a href="#L138">138</a></td><td>JANEWAY:  How do people treat him?</td></tr>
 
-LOCATION--Engineering
+<tr id="L139"><td><a href="#L139">139</a></td><td>KES:  As though he doesn't exist. They talk about him while he's standing right there. They ignore him. They insult him.</td></tr>
 
-  KIM
-     How long shall we keep it up?
+<tr id="L140"><td><a href="#L140">140</a></td><td>JANEWAY:  Well as a matter of fact, I've been hearing the other side of the coin. Many of the crew have complained that the Doctor is brusque, even rude, that he lacks any bedside manner. We've been talking about reprogramming him.</td></tr>
 
-  JANEWAY [OC]
-     Until I tell you otherwise.
+<tr id="L141"><td><a href="#L141">141</a></td><td>KES:  You can do that? It doesn't seem right.</td></tr>
 
+<tr id="L142"><td><a href="#L142">142</a></td><td>JANEWAY:  Kes, he's only a hologram.</td></tr>
 
-LOCATION--Bridge
+<tr id="L143"><td><a href="#L143">143</a></td><td>KES:  He's your Medical Officer. He's alive.</td></tr>
 
-  JANEWAY
-     You have the bridge, Commander.
+<tr id="L144"><td><a href="#L144">144</a></td><td>JANEWAY:  No he's not.</td></tr>
 
-  TUVOK
-     Captain.
+<tr id="L145"><td><a href="#L145">145</a></td><td>KES:  He's self aware, he's communicative, he has the ability to learn.</td></tr>
 
-  JANEWAY
-     Mister Tuvok.
+<tr id="L146"><td><a href="#L146">146</a></td><td>JANEWAY:  Because he's been programmed to do that.</td></tr>
 
-  TUVOK
-     I'm getting something, Captain.
+<tr id="L147"><td><a href="#L147">147</a></td><td>KES:  So because he's a hologram he doesn't have to be treated with respect or any consideration at all?</td></tr>
 
-  PARIS
-     I'm getting it too. A subspace signal relayed
-     through the probe.
+<tr id="L148"><td><a href="#L148">148</a></td><td>JANEWAY:  Very well, I'll look into it.</td></tr>
 
-  TUVOK
-     That signal is being transmitted at exactly the
-     same frequency and amplitude as our signal. It's a
-     response. Someone received our transmission and
-     sent one back, and their signal originated in the
-     Alpha Quadrant.
+<tr id="L149"><td><a href="#L149">149</a></td><td>KES:  Thank you, Captain.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. Encouraged by his
-     success in transmitting a signal to the Alpha
-     Quadrant, Mister Kim is investigating the
-     possibility of establishing a voice link with
-     whoever is at the other end of the wormhole.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L150"><td><a href="#L150">150</a></td><td>ANNOTATION: At Engineering station 2, scan analysis 21166 shows the wormhole.</td></tr>
 
+<tr id="L151"><td><a href="#L151">151</a></td><td>KIM:  Okay, we'll be ready to go online in a couple of minutes.</td></tr>
 
-LOCATION--Ready room
+<tr id="L152"><td><a href="#L152">152</a></td><td>TORRES:  I'm still worried about the gravitational interference. I don't think the co-variant isolator will be effective with a vocal transmission.</td></tr>
 
-  JANEWAY
-     Come in. Kes, this is a surprise.
+<tr id="L153"><td><a href="#L153">153</a></td><td>KIM:  Let's try inverting the narrow band filter.</td></tr>
 
-  KES
-     Am I interrupting?
+<tr id="L154"><td><a href="#L154">154</a></td><td>ANNOTATION: Janeway enters from her Ready room.</td></tr>
 
-  JANEWAY
-     Not at all. I was just going to have a cup of
-     soup. Would you like anything?
+<tr id="L155"><td><a href="#L155">155</a></td><td>JANEWAY:  Progress report, Ensign.</td></tr>
 
-  KES
-     Ah, spinach juice with a touch of pear, please.
-     Tom Paris introduced me to it, it's very
-     nutritious.
+<tr id="L156"><td><a href="#L156">156</a></td><td>KIM:  I think we're ready to give it a try, though we're pushing through some pretty heavy gravitational interference. I can't guarantee the clarity of the transmission.</td></tr>
 
-  JANEWAY
-     I'm sure. Computer, one spinach juice with a touch
-     of pear and one cup of vegetable bouillon. What
-     can I do for you?
+<tr id="L157"><td><a href="#L157">157</a></td><td>JANEWAY:  Let's see what happens. This is Captain Kathryn Janeway of the Federation Starship Voyager. Do you read?</td></tr>
 
-  ANNOTATION
-     They take their drinks to the settee.
+<tr id="L158"><td><a href="#L158">158</a></td><td>ANNOTATION: Static garble.</td></tr>
 
-  KES
-     If there were a member of the crew whose needs
-     weren't being met, would you want to know about
-     it?
+<tr id="L159"><td><a href="#L159">159</a></td><td>TORRES:  I'll narrow the filter bandpass some more. Try again, Captain.</td></tr>
 
-  JANEWAY
-     Of course. Kes, do you and Neelix feel that your
-     needs are being ignored?
+<tr id="L160"><td><a href="#L160">160</a></td><td>JANEWAY:  This is Kathryn Janeway of the Federation ship Voyager. Is anyone receiving this communication?</td></tr>
 
-  KES
-     Of course not, we're very happy here. I'm
-     referring to the Doctor.
+<tr id="L161"><td><a href="#L161">161</a></td><td>TELEK [OC]:  (skreech, gurgle) vessel (gurgle)</td></tr>
 
-  JANEWAY
-     The Doctor?
+<tr id="L162"><td><a href="#L162">162</a></td><td>KIM:  Narrow the bandpass some more. Try again, Captain.</td></tr>
 
-  KES
-     I don't understand why people treat him the way
-     they do.
+<tr id="L163"><td><a href="#L163">163</a></td><td>JANEWAY:  This is Janeway. Please repeat your last transmission.</td></tr>
 
-  JANEWAY
-     How do people treat him?
+<tr id="L164"><td><a href="#L164">164</a></td><td>TELEK [OC]:  (gurgle) cargo vessel (gurgle) quadrant (gurgle) your location.</td></tr>
 
-  KES
-     As though he doesn't exist. They talk about him
-     while he's standing right there. They ignore him.
-     They insult him.
+<tr id="L165"><td><a href="#L165">165</a></td><td>JANEWAY:  Cargo vessel, we're still trying to clear up your last transmission. Please repeat one more time.</td></tr>
 
-  JANEWAY
-     Well as a matter of fact, I've been hearing the
-     other side of the coin. Many of the crew have
-     complained that the Doctor is brusque, even rude,
-     that he lacks any bedside manner. We've been
-     talking about reprogramming him.
+<tr id="L166"><td><a href="#L166">166</a></td><td>TELEK [OC]:  I am Captain of the cargo vessel Talvath, location Alpha Quadrant, sector one three eight five. What is your location?</td></tr>
 
-  KES
-     You can do that? It doesn't seem right.
+<tr id="L167"><td><a href="#L167">167</a></td><td>JANEWAY:  We're in the Delta Quadrant, but since this quadrant hasn't been charted I can't specify our exact location.</td></tr>
 
-  JANEWAY
-     Kes, he's only a hologram.
+<tr id="L168"><td><a href="#L168">168</a></td><td>TELEK [OC]:  Please confirm. You said Delta Quadrant?</td></tr>
 
-  KES
-     He's your Medical Officer. He's alive.
+<tr id="L169"><td><a href="#L169">169</a></td><td>JANEWAY:  Correct.</td></tr>
 
-  JANEWAY
-     No he's not.
+<tr id="L170"><td><a href="#L170">170</a></td><td>TELEK [OC]:  In a Federation starship?</td></tr>
 
-  KES
-     He's self aware, he's communicative, he has the
-     ability to learn.
+<tr id="L171"><td><a href="#L171">171</a></td><td>JANEWAY:  Yes. We were on a mission and we got pulled into this quadrant.</td></tr>
 
-  JANEWAY
-     Because he's been programmed to do that.
+<tr id="L172"><td><a href="#L172">172</a></td><td>TELEK [OC]:  Pulled in? How?</td></tr>
 
-  KES
-     So because he's a hologram he doesn't have to be
-     treated with respect or any consideration at all?
+<tr id="L173"><td><a href="#L173">173</a></td><td>JANEWAY:  It's a complicated story. Please, if you would just try deconstructing the phase shift of our hailing frequency you could verify.</td></tr>
 
-  JANEWAY
-     Very well, I'll look into it.
+<tr id="L174"><td><a href="#L174">174</a></td><td>TELEK [OC]:  You are undoubtedly still in the Alpha quadrant. What are your coordinates?</td></tr>
 
-  KES
-     Thank you, Captain.
+<tr id="L175"><td><a href="#L175">175</a></td><td>JANEWAY:  I assure you I am telling you the truth. We are in the Delta quadrant, seventy thousand light years from you.</td></tr>
 
+<tr id="L176"><td><a href="#L176">176</a></td><td>TELEK [OC]:  This is preposterous. You are obviously lying. I am terminating communication.</td></tr>
 
-LOCATION--Bridge
+<tr id="L177"><td><a href="#L177">177</a></td><td>JANEWAY:  No, no, wait! Kim! Hail them again.</td></tr>
 
-  ANNOTATION
-     At Engineering station 2, scan analysis 21166
-     shows the wormhole.
+<tr id="L178"><td><a href="#L178">178</a></td><td>KIM:  No response, Captain.</td></tr>
 
-  KIM
-     Okay, we'll be ready to go online in a couple of
-     minutes.
+<tr id="L179"><td><a href="#L179">179</a></td><td>CHAKOTAY:  Why would he have broken off transmission?</td></tr>
 
-  TORRES
-     I'm still worried about the gravitational
-     interference. I don't think the co-variant
-     isolator will be effective with a vocal
-     transmission.
+<tr id="L180"><td><a href="#L180">180</a></td><td>TUVOK:  Perhaps I can offer an explanation. The comm. link signature of his transmission indicates the message originated from a Romulan ship. Further, there are no known shipping lanes in the sector he identified. Given the precise calibration of his signal I would suggest that he is in fact on board a science vessel.</td></tr>
 
-  KIM
-     Let's try inverting the narrow band filter.
+<tr id="L181"><td><a href="#L181">181</a></td><td>PARIS:  Why would he pretend to be a cargo captain.</td></tr>
 
-  ANNOTATION
-     Janeway enters from her Ready room.
+<tr id="L182"><td><a href="#L182">182</a></td><td>CHAKOTAY:  If he's engaged in some kind of secret research he might want to conceal that fact.</td></tr>
 
-  JANEWAY
-     Progress report, Ensign.
+<tr id="L183"><td><a href="#L183">183</a></td><td>TUVOK:  Precisely. When we claimed to be transmitting from the Delta quadrant, an impossibility so far as he knows, he may have feared we were Federation spies.</td></tr>
 
-  KIM
-     I think we're ready to give it a try, though we're
-     pushing through some pretty heavy gravitational
-     interference. I can't guarantee the clarity of the
-     transmission.
+<tr id="L184"><td><a href="#L184">184</a></td><td>TORRES:  Just our luck. We raise one ship from the Alpha quadrant and it has to be Romulan.</td></tr>
 
-  JANEWAY
-     Let's see what happens. This is Captain Kathryn
-     Janeway of the Federation Starship Voyager. Do you
-     read?
+<tr id="L185"><td><a href="#L185">185</a></td><td>JANEWAY:  That Romulan still has the ability to get a message to Starfleet. Mister Kim, hail the Talvath repeatedly. Call me the minute you re-establish contact. Commander, you have the bridge.</td></tr>
 
-  ANNOTATION
-     Static garble.
+<tr id="L186"><td><a href="#L186">186</a></td><td>CHAKOTAY:  Aye, Captain.</td></tr>
 
-  TORRES
-     I'll narrow the filter bandpass some more. Try
-     again, Captain.
+<tr><td></td><td>LOCATION--Doctor's office</td></tr>
+<tr id="L187"><td><a href="#L187">187</a></td><td>ANNOTATION: Janeway enters Sickbay. The place is deserted.</td></tr>
 
-  JANEWAY
-     This is Kathryn Janeway of the Federation ship
-     Voyager. Is anyone receiving this communication?
+<tr id="L188"><td><a href="#L188">188</a></td><td>JANEWAY:  Computer, initiate Emergency Medical Holographic Programme.</td></tr>
 
-  TELEK [OC]
-     (skreech, gurgle) vessel (gurgle)
+<tr id="L189"><td><a href="#L189">189</a></td><td>EMH:  Please state the nature of the medical emergency.</td></tr>
 
-  KIM
-     Narrow the bandpass some more. Try again, Captain.
+<tr id="L190"><td><a href="#L190">190</a></td><td>JANEWAY:  There is no emergency, Doctor.</td></tr>
 
-  JANEWAY
-     This is Janeway. Please repeat your last
-     transmission.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L191"><td><a href="#L191">191</a></td><td>EMH:  Well, that's good. I was right in the middle of preparing a culture to test Lieutenant Hargrove for Arethian flu when Ensign Kyoto deactivated me.</td></tr>
 
-  TELEK [OC]
-     (gurgle) cargo vessel (gurgle) quadrant (gurgle)
-     your location.
+<tr id="L192"><td><a href="#L192">192</a></td><td>JANEWAY:  I'm sure she didn't realise you were busy.</td></tr>
 
-  JANEWAY
-     Cargo vessel, we're still trying to clear up your
-     last transmission. Please repeat one more time.
+<tr id="L193"><td><a href="#L193">193</a></td><td>EMH:  What is it you want, Captain.</td></tr>
 
-  TELEK [OC]
-     I am Captain of the cargo vessel Talvath, location
-     Alpha Quadrant, sector one three eight five. What
-     is your location?
+<tr id="L194"><td><a href="#L194">194</a></td><td>JANEWAY:  Actually, I thought we might just talk for a moment.</td></tr>
 
-  JANEWAY
-     We're in the Delta Quadrant, but since this
-     quadrant hasn't been charted I can't specify our
-     exact location.
+<tr id="L195"><td><a href="#L195">195</a></td><td>EMH:  About what?</td></tr>
 
-  TELEK [OC]
-     Please confirm. You said Delta Quadrant?
+<tr id="L196"><td><a href="#L196">196</a></td><td>JANEWAY:  Doctor, you were originally programmed to serve in a limited fashion during an emergency. Now you're being asked to do much more.</td></tr>
 
-  JANEWAY
-     Correct.
+<tr id="L197"><td><a href="#L197">197</a></td><td>EMH:  That's certainly true. I'm providing full time medical service for the entire ship's crew, functioning both as doctor and nurse, and now as an instructor as well.</td></tr>
 
-  TELEK [OC]
-     In a Federation starship?
+<tr id="L198"><td><a href="#L198">198</a></td><td>JANEWAY:  You don't have the luxury of thinking of yourself as am Emergency Medical Programme any more. You've become a full-fledged member of the crew.</td></tr>
 
-  JANEWAY
-     Yes. We were on a mission and we got pulled into
-     this quadrant.
+<tr id="L199"><td><a href="#L199">199</a></td><td>EMH:  I see. Are you suggesting that I be re-programmed?</td></tr>
 
-  TELEK [OC]
-     Pulled in? How?
+<tr id="L200"><td><a href="#L200">200</a></td><td>JANEWAY:  No. I'm asking if there's anything I can do to help you.</td></tr>
 
-  JANEWAY
-     It's a complicated story. Please, if you would
-     just try deconstructing the phase shift of our
-     hailing frequency you could verify.
+<tr id="L201"><td><a href="#L201">201</a></td><td>EMH:  Help me?</td></tr>
 
-  TELEK [OC]
-     You are undoubtedly still in the Alpha quadrant.
-     What are your coordinates?
+<tr id="L202"><td><a href="#L202">202</a></td><td>JANEWAY:  If there's anything you need, or want, I'd like to see that you get it.</td></tr>
 
-  JANEWAY
-     I assure you I am telling you the truth. We are in
-     the Delta quadrant, seventy thousand light years
-     from you.
+<tr id="L203"><td><a href="#L203">203</a></td><td>EMH:  What I'd like is to be turned off when people leave. I spend hours here with absolutely nothing to do. When someone does remember to deactivate me they do so without asking if it's convenient. It's extremely irritating.</td></tr>
 
-  TELEK [OC]
-     This is preposterous. You are obviously lying. I
-     am terminating communication.
+<tr id="L204"><td><a href="#L204">204</a></td><td>JANEWAY:  What if I gave you control over your deactivation sequence?</td></tr>
 
-  JANEWAY
-     No, no, wait! Kim! Hail them again.
+<tr id="L205"><td><a href="#L205">205</a></td><td>EMH:  I beg your pardon?</td></tr>
 
-  KIM
-     No response, Captain.
+<tr id="L206"><td><a href="#L206">206</a></td><td>JANEWAY:  I'm sure we can make it possible for you to turn yourself off, or to prevent being turned off.</td></tr>
 
-  CHAKOTAY
-     Why would he have broken off transmission?
+<tr id="L207"><td><a href="#L207">207</a></td><td>EMH:  I, I might like that.</td></tr>
 
-  TUVOK
-     Perhaps I can offer an explanation. The comm. link
-     signature of his transmission indicates the
-     message originated from a Romulan ship. Further,
-     there are no known shipping lanes in the sector he
-     identified. Given the precise calibration of his
-     signal I would suggest that he is in fact on board
-     a science vessel.
+<tr id="L208"><td><a href="#L208">208</a></td><td>JANEWAY:  I'll have someone look into it. Anything else?</td></tr>
 
-  PARIS
-     Why would he pretend to be a cargo captain.
+<tr id="L209"><td><a href="#L209">209</a></td><td>EMH:  I'm not sure, I'll have to give it some thought.</td></tr>
 
-  CHAKOTAY
-     If he's engaged in some kind of secret research he
-     might want to conceal that fact.
+<tr id="L210"><td><a href="#L210">210</a></td><td>JANEWAY:  You do that.</td></tr>
 
-  TUVOK
-     Precisely. When we claimed to be transmitting from
-     the Delta quadrant, an impossibility so far as he
-     knows, he may have feared we were Federation
-     spies.
+<tr><td></td><td>LOCATION--Captain's quarters</td></tr>
+<tr id="L211"><td><a href="#L211">211</a></td><td>ANNOTATION: Janeway is asleep in her bed under the stars.</td></tr>
 
-  TORRES
-     Just our luck. We raise one ship from the Alpha
-     quadrant and it has to be Romulan.
+<tr id="L212"><td><a href="#L212">212</a></td><td>KIM [OC]:  Kim to Captain Janeway.</td></tr>
 
-  JANEWAY
-     That Romulan still has the ability to get a
-     message to Starfleet. Mister Kim, hail the Talvath
-     repeatedly. Call me the minute you re-establish
-     contact. Commander, you have the bridge.
+<tr id="L213"><td><a href="#L213">213</a></td><td>JANEWAY:  Janeway here.</td></tr>
 
-  CHAKOTAY
-     Aye, Captain.
+<tr id="L214"><td><a href="#L214">214</a></td><td>KIM [OC]:  Captain, we've got him back. The Romulan.</td></tr>
 
+<tr id="L215"><td><a href="#L215">215</a></td><td>JANEWAY:  Good work. Put him through to my quarters.</td></tr>
 
-LOCATION--Doctor's office
+<tr id="L216"><td><a href="#L216">216</a></td><td>ANNOTATION: She gets up and goes into the main room.</td></tr>
 
-  ANNOTATION
-     Janeway enters Sickbay. The place is deserted.
+<tr id="L217"><td><a href="#L217">217</a></td><td>JANEWAY:  This is Kathryn Janeway.</td></tr>
 
-  JANEWAY
-     Computer, initiate Emergency Medical Holographic
-     Programme.
+<tr id="L218"><td><a href="#L218">218</a></td><td>TELEK [OC]:  This is the cargo vessel Talvath.</td></tr>
 
-  EMH
-     Please state the nature of the medical emergency.
+<tr id="L219"><td><a href="#L219">219</a></td><td>JANEWAY:  Thank you for answering our hail, Captain. What is your name? How may I address you?</td></tr>
 
-  JANEWAY
-     There is no emergency, Doctor.
+<tr id="L220"><td><a href="#L220">220</a></td><td>TELEK [OC]:  I'd prefer not to give my name.</td></tr>
 
+<tr id="L221"><td><a href="#L221">221</a></td><td>JANEWAY:  Very well, I understand that you must have been sceptical when I told you where we are. I hope you've been able to verify our position.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L222"><td><a href="#L222">222</a></td><td>TELEK [OC]:  My analysis of your hailing frequency seems to indicate that it originates in the Delta quadrant, but I am not precluding the possibility that you've been able to create that illusion somehow.</td></tr>
 
-  EMH
-     Well, that's good. I was right in the middle of
-     preparing a culture to test Lieutenant Hargrove
-     for Arethian flu when Ensign Kyoto deactivated me.
+<tr id="L223"><td><a href="#L223">223</a></td><td>JANEWAY:  To what end?</td></tr>
 
-  JANEWAY
-     I'm sure she didn't realise you were busy.
+<tr id="L224"><td><a href="#L224">224</a></td><td>TELEK [OC]:  I'm not sure. That doesn't negate the possibility.</td></tr>
 
-  EMH
-     What is it you want, Captain.
+<tr id="L225"><td><a href="#L225">225</a></td><td>JANEWAY:  How can I assure you of my truthfulness?</td></tr>
 
-  JANEWAY
-     Actually, I thought we might just talk for a
-     moment.
+<tr id="L226"><td><a href="#L226">226</a></td><td>TELEK [OC]:  You say you are a Federation ship. Are you a Starfleet vessel?</td></tr>
 
-  EMH
-     About what?
+<tr id="L227"><td><a href="#L227">227</a></td><td>JANEWAY:  Yes, we are.</td></tr>
 
-  JANEWAY
-     Doctor, you were originally programmed to serve in
-     a limited fashion during an emergency. Now you're
-     being asked to do much more.
+<tr id="L228"><td><a href="#L228">228</a></td><td>TELEK [OC]:  And your mission in the Delta quadrant?</td></tr>
 
-  EMH
-     That's certainly true. I'm providing full time
-     medical service for the entire ship's crew,
-     functioning both as doctor and nurse, and now as
-     an instructor as well.
+<tr id="L229"><td><a href="#L229">229</a></td><td>JANEWAY:  Our mission was originally in the Alpha quadrant. We were pulled against our will to our present location. Now we're trying to get home.</td></tr>
 
-  JANEWAY
-     You don't have the luxury of thinking of yourself
-     as am Emergency Medical Programme any more. You've
-     become a full-fledged member of the crew.
+<tr id="L230"><td><a href="#L230">230</a></td><td>TELEK [OC]:  Aren't you in fact Starfleet spies on a surveillance mission?</td></tr>
 
-  EMH
-     I see. Are you suggesting that I be re-programmed?
+<tr id="L231"><td><a href="#L231">231</a></td><td>JANEWAY:  Captain, I understand your concern. Naturally the Romulan Empire doesn't want Starfleet spying on it's science vessels, but since we're seventy thousand light years from Romulan space and a subspace message to Starfleet would take years, I think you have to admit that we can't be much of a threat to you. You have nothing to fear from us.</td></tr>
 
-  JANEWAY
-     No. I'm asking if there's anything I can do to
-     help you.
+<tr id="L232"><td><a href="#L232">232</a></td><td>TELEK [OC]:  Soothing words, Captain, but they are only words.</td></tr>
 
-  EMH
-     Help me?
+<tr id="L233"><td><a href="#L233">233</a></td><td>JANEWAY:  If we were spies, we wouldn't be asking what I'm going to ask you now. We have no way of communicating with Starfleet, with our friends and families. We're hoping you might be able to relay a message for us. Our crew is not large. Each of them could write a short personal message. You'd be welcome to read them all before passing them on. I think you'd be convinced that they're nothing more than the heartfelt words of some very lonely people.</td></tr>
 
-  JANEWAY
-     If there's anything you need, or want, I'd like to
-     see that you get it.
+<tr id="L234"><td><a href="#L234">234</a></td><td>TELEK [OC]:  Captain, it would ease my apprehension if I could see that you are who you say you are. I have a signal amplifier on board. I've been working to reconfigure the protocols to penetrate the radiation stream of the wormhole. I think it might be possible to establish a visual link between us.</td></tr>
 
-  EMH
-     What I'd like is to be turned off when people
-     leave. I spend hours here with absolutely nothing
-     to do. When someone does remember to deactivate me
-     they do so without asking if it's convenient. It's
-     extremely irritating.
+<tr id="L235"><td><a href="#L235">235</a></td><td>JANEWAY:  I have no objection. When that's done, will you help us?</td></tr>
 
-  JANEWAY
-     What if I gave you control over your deactivation
-     sequence?
+<tr id="L236"><td><a href="#L236">236</a></td><td>TELEK [OC]:  I make no promises. Let us proceed one step at a time. Have your officers contact me in order to attempt the visual link. Goodnight.</td></tr>
 
-  EMH
-     I beg your pardon?
+<tr id="L237"><td><a href="#L237">237</a></td><td>JANEWAY:  Goodnight.</td></tr>
 
-  JANEWAY
-     I'm sure we can make it possible for you to turn
-     yourself off, or to prevent being turned off.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L238"><td><a href="#L238">238</a></td><td>TUVOK:  We're ready to try a visual link with the Romulan ship, Captain.</td></tr>
 
-  EMH
-     I, I might like that.
+<tr id="L239"><td><a href="#L239">239</a></td><td>JANEWAY:  Good work.</td></tr>
 
-  JANEWAY
-     I'll have someone look into it. Anything else?
+<tr id="L240"><td><a href="#L240">240</a></td><td>KIM:  We didn't have any trouble configuring the protocols, but that phase variance in the radiation stream gave us a few problems. Torres is going to balance it manually from Engineering.</td></tr>
 
-  EMH
-     I'm not sure, I'll have to give it some thought.
+<tr id="L241"><td><a href="#L241">241</a></td><td>PARIS:  Okay, we've got the communications frequency locked in.</td></tr>
 
-  JANEWAY
-     You do that.
+<tr id="L242"><td><a href="#L242">242</a></td><td>JANEWAY:  On screen.</td></tr>
 
+<tr id="L243"><td><a href="#L243">243</a></td><td>ANNOTATION: The static eventually resolves itself into the head and shoulders of a Romulan man.</td></tr>
 
-LOCATION--Captain's quarters
+<tr id="L244"><td><a href="#L244">244</a></td><td>TELEK [on viewscreen]:  I presume you are Captain Janeway.</td></tr>
 
-  ANNOTATION
-     Janeway is asleep in her bed under the stars.
+<tr id="L245"><td><a href="#L245">245</a></td><td>JANEWAY:  Yes. I want to thank you, Captain, for maintaining contact with us. It means a great deal to me and to my crew.</td></tr>
 
-  KIM [OC]
-     Kim to Captain Janeway.
+<tr id="L246"><td><a href="#L246">246</a></td><td>TELEK [on viewscreen]:  I am not familiar with this class of ship.</td></tr>
 
-  JANEWAY
-     Janeway here.
+<tr id="L247"><td><a href="#L247">247</a></td><td>JANEWAY:  It's new, but it isn't classified. I'm a little surprised your intelligence hasn't provided you with the information.</td></tr>
 
-  KIM [OC]
-     Captain, we've got him back. The Romulan.
+<tr id="L248"><td><a href="#L248">248</a></td><td>TELEK [on viewscreen]:  I've been in space for over a year, Captain, and am not privy to the latest intelligence, but I'm sure that our operatives provided the government with detailed information about your new ship.</td></tr>
 
-  JANEWAY
-     Good work. Put him through to my quarters.
+<tr id="L249"><td><a href="#L249">249</a></td><td>JANEWAY:  No doubt. Captain, have you been able to communicate with your government about sending on our messages?</td></tr>
 
-  ANNOTATION
-     She gets up and goes into the main room.
+<tr id="L250"><td><a href="#L250">250</a></td><td>TELEK [on viewscreen]:  I have. They've promised to take the matter under advisement.</td></tr>
 
-  JANEWAY
-     This is Kathryn Janeway.
+<tr id="L251"><td><a href="#L251">251</a></td><td>JANEWAY:  I see. And when do you think they will have an answer?</td></tr>
 
-  TELEK [OC]
-     This is the cargo vessel Talvath.
+<tr id="L252"><td><a href="#L252">252</a></td><td>TELEK [on viewscreen]:  It is impossible to predict the time table of the Romulan Senate. When they've made their decision I will hear from them.</td></tr>
 
-  JANEWAY
-     Thank you for answering our hail, Captain. What is
-     your name? How may I address you?
+<tr id="L253"><td><a href="#L253">253</a></td><td>JANEWAY:  We don't have the luxury of a great deal of time. My officers are predicting that the probe will become inoperable in the next forty eight hours.</td></tr>
 
-  TELEK [OC]
-     I'd prefer not to give my name.
+<tr id="L254"><td><a href="#L254">254</a></td><td>TELEK [on viewscreen]:  Captain, I am a low ranking scientist, a minor functionary. It is not my place to tell the Romulan Senate to speed up their decision making process.</td></tr>
 
-  JANEWAY
-     Very well, I understand that you must have been
-     sceptical when I told you where we are. I hope
-     you've been able to verify our position.
+<tr id="L255"><td><a href="#L255">255</a></td><td>JANEWAY:  You said you've been in space for over a year. Have you any family?</td></tr>
 
-  TELEK [OC]
-     My analysis of your hailing frequency seems to
-     indicate that it originates in the Delta quadrant,
-     but I am not precluding the possibility that
-     you've been able to create that illusion somehow.
+<tr id="L256"><td><a href="#L256">256</a></td><td>TELEK [on viewscreen]:  Yes.</td></tr>
 
-  JANEWAY
-     To what end?
+<tr id="L257"><td><a href="#L257">257</a></td><td>JANEWAY:  I assume they're not with you in space.</td></tr>
 
-  TELEK [OC]
-     I'm not sure. That doesn't negate the possibility.
+<tr id="L258"><td><a href="#L258">258</a></td><td>TELEK [on viewscreen]:  My wife and my daughter are on Romulus.</td></tr>
 
-  JANEWAY
-     How can I assure you of my truthfulness?
+<tr id="L259"><td><a href="#L259">259</a></td><td>JANEWAY:  A daughter. How old is she?</td></tr>
 
-  TELEK [OC]
-     You say you are a Federation ship. Are you a
-     Starfleet vessel?
+<tr id="L260"><td><a href="#L260">260</a></td><td>TELEK [on viewscreen]:  She is seven months.</td></tr>
 
-  JANEWAY
-     Yes, we are.
+<tr id="L261"><td><a href="#L261">261</a></td><td>JANEWAY:  Then you've never seen her.</td></tr>
 
-  TELEK [OC]
-     And your mission in the Delta quadrant?
+<tr id="L262"><td><a href="#L262">262</a></td><td>TELEK [on viewscreen]:  To my sorrow, no. She'll be two years old before I get back.</td></tr>
 
-  JANEWAY
-     Our mission was originally in the Alpha quadrant.
-     We were pulled against our will to our present
-     location. Now we're trying to get home.
+<tr id="L263"><td><a href="#L263">263</a></td><td>JANEWAY:  You must miss your family very much.</td></tr>
 
-  TELEK [OC]
-     Aren't you in fact Starfleet spies on a
-     surveillance mission?
+<tr id="L264"><td><a href="#L264">264</a></td><td>TELEK [on viewscreen]:  I knew when I accepted this assignment there would be a price to pay. Perhaps I didn't realise how high that price would be.</td></tr>
 
-  JANEWAY
-     Captain, I understand your concern. Naturally the
-     Romulan Empire doesn't want Starfleet spying on
-     it's science vessels, but since we're seventy
-     thousand light years from Romulan space and a
-     subspace message to Starfleet would take years, I
-     think you have to admit that we can't be much of a
-     threat to you. You have nothing to fear from us.
+<tr id="L265"><td><a href="#L265">265</a></td><td>JANEWAY:  Captain. Everyone of us on this ship has left behind friends, family, loved ones. We may not see them again for years, maybe never, so we can all understand how lonely you must be. Surely you must understand our feelings as well. We would be deeply grateful for any efforts you might make to persuade your government to send our messages.</td></tr>
 
-  TELEK [OC]
-     Soothing words, Captain, but they are only words.
+<tr id="L266"><td><a href="#L266">266</a></td><td>TELEK [on viewscreen]:  I cannot guarantee success, but I will try to persuade my superiors to make their decision quickly and positively.</td></tr>
 
-  JANEWAY
-     If we were spies, we wouldn't be asking what I'm
-     going to ask you now. We have no way of
-     communicating with Starfleet, with our friends and
-     families. We're hoping you might be able to relay
-     a message for us. Our crew is not large. Each of
-     them could write a short personal message. You'd
-     be welcome to read them all before passing them
-     on. I think you'd be convinced that they're
-     nothing more than the heartfelt words of some very
-     lonely people.
+<tr id="L267"><td><a href="#L267">267</a></td><td>JANEWAY:  Thank you.</td></tr>
 
-  TELEK [OC]
-     Captain, it would ease my apprehension if I could
-     see that you are who you say you are. I have a
-     signal amplifier on board. I've been working to
-     reconfigure the protocols to penetrate the
-     radiation stream of the wormhole. I think it might
-     be possible to establish a visual link between us.
+<tr id="L268"><td><a href="#L268">268</a></td><td>TELEK [on viewscreen]:  I will contact you again.</td></tr>
 
-  JANEWAY
-     I have no objection. When that's done, will you
-     help us?
+<tr id="L269"><td><a href="#L269">269</a></td><td>ANNOTATION: Transmission ends.</td></tr>
 
-  TELEK [OC]
-     I make no promises. Let us proceed one step at a
-     time. Have your officers contact me in order to
-     attempt the visual link. Goodnight.
+<tr id="L270"><td><a href="#L270">270</a></td><td>JANEWAY:  Commander, let's assume he's going to be successful. Tell the crew to prepare personal messages and have them ready within the hour.</td></tr>
 
-  JANEWAY
-     Goodnight.
+<tr id="L271"><td><a href="#L271">271</a></td><td>CHAKOTAY:  With pleasure, Captain.</td></tr>
 
+<tr id="L272"><td><a href="#L272">272</a></td><td>ANNOTATION: Torres runs in.</td></tr>
 
-LOCATION--Bridge
+<tr id="L273"><td><a href="#L273">273</a></td><td>TORRES:  Captain, I have to talk to you.</td></tr>
 
-  TUVOK
-     We're ready to try a visual link with the Romulan
-     ship, Captain.
+<tr id="L274"><td><a href="#L274">274</a></td><td>JANEWAY:  Go ahead, Torres.</td></tr>
 
-  JANEWAY
-     Good work.
+<tr id="L275"><td><a href="#L275">275</a></td><td>TORRES:  No. I mean, in private.</td></tr>
 
-  KIM
-     We didn't have any trouble configuring the
-     protocols, but that phase variance in the
-     radiation stream gave us a few problems. Torres is
-     going to balance it manually from Engineering.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L276"><td><a href="#L276">276</a></td><td>TORRES:  I think this will work, Captain, but I didn't want to bring it up in front of the crew. It wouldn't be right to get their hopes up in case it doesn't work, although I think it will.</td></tr>
 
-  PARIS
-     Okay, we've got the communications frequency
-     locked in.
+<tr id="L277"><td><a href="#L277">277</a></td><td>JANEWAY:  Slow down, Torres, and tell me what you're talking about.</td></tr>
 
-  JANEWAY
-     On screen.
+<tr id="L278"><td><a href="#L278">278</a></td><td>TORRES:  The phase amplitude of the visual link with the Romulan ship is within just a few megahertz of meeting transporter protocols.</td></tr>
 
-  ANNOTATION
-     The static eventually resolves itself into the
-     head and shoulders of a Romulan man.
+<tr id="L279"><td><a href="#L279">279</a></td><td>JANEWAY:  Are you suggesting</td></tr>
 
-  TELEK [on viewscreen]
-     I presume you are Captain Janeway.
+<tr id="L280"><td><a href="#L280">280</a></td><td>TORRES:  We might be able to piggyback a transporter beam onto the visual link. We could transport the entire crew back to the Alpha quadrant.</td></tr>
 
-  JANEWAY
-     Yes. I want to thank you, Captain, for maintaining
-     contact with us. It means a great deal to me and
-     to my crew.
+<tr id="L281"><td><a href="#L281">281</a></td><td>JANEWAY:  You'll have to reconfigure the matter transmission rate.</td></tr>
 
-  TELEK [on viewscreen]
-     I am not familiar with this class of ship.
+<tr id="L282"><td><a href="#L282">282</a></td><td>TORRES:  Fairly substantially.</td></tr>
 
-  JANEWAY
-     It's new, but it isn't classified. I'm a little
-     surprised your intelligence hasn't provided you
-     with the information.
+<tr id="L283"><td><a href="#L283">283</a></td><td>JANEWAY:  And we risk losing whatever we try to beam out.</td></tr>
 
-  TELEK [on viewscreen]
-     I've been in space for over a year, Captain, and
-     am not privy to the latest intelligence, but I'm
-     sure that our operatives provided the government
-     with detailed information about your new ship.
+<tr id="L284"><td><a href="#L284">284</a></td><td>TORRES:  We'll have to run a series of tests first.</td></tr>
 
-  JANEWAY
-     No doubt. Captain, have you been able to
-     communicate with your government about sending on
-     our messages?
+<tr id="L285"><td><a href="#L285">285</a></td><td>JANEWAY:  See to it, Lieutenant.</td></tr>
 
-  TELEK [on viewscreen]
-     I have. They've promised to take the matter under
-     advisement.
+<tr id="L286"><td><a href="#L286">286</a></td><td>TORRES:  I'll need some help.</td></tr>
 
-  JANEWAY
-     I see. And when do you think they will have an
-     answer?
+<tr id="L287"><td><a href="#L287">287</a></td><td>JANEWAY:  You have my authorisation to use any of the ships personnel you need. This has top priority. And don't worry about secrecy. I doubt you'd be able to keep this quiet for very long.</td></tr>
 
-  TELEK [on viewscreen]
-     It is impossible to predict the time table of the
-     Romulan Senate. When they've made their decision I
-     will hear from them.
+<tr id="L288"><td><a href="#L288">288</a></td><td>ANNOTATION: Torres leaves. Janeway picks up a photograph of a man and a dog, and gazes longingly at it.</td></tr>
 
-  JANEWAY
-     We don't have the luxury of a great deal of time.
-     My officers are predicting that the probe will
-     become inoperable in the next forty eight hours.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L289"><td><a href="#L289">289</a></td><td>ANNOTATION: Kes returns the PADDs.</td></tr>
 
-  TELEK [on viewscreen]
-     Captain, I am a low ranking scientist, a minor
-     functionary. It is not my place to tell the
-     Romulan Senate to speed up their decision making
-     process.
+<tr id="L290"><td><a href="#L290">290</a></td><td>KES:  I've finished these and I'm ready for more.</td></tr>
 
-  JANEWAY
-     You said you've been in space for over a year.
-     Have you any family?
+<tr id="L291"><td><a href="#L291">291</a></td><td>EMH:  You've finished those already?</td></tr>
 
-  TELEK [on viewscreen]
-     Yes.
+<tr id="L292"><td><a href="#L292">292</a></td><td>KES:  I enjoyed studying anatomy. It would be interesting to see an autopsy sometime.</td></tr>
 
-  JANEWAY
-     I assume they're not with you in space.
+<tr id="L293"><td><a href="#L293">293</a></td><td>EMH:  What are the bones of the middle ear?</td></tr>
 
-  TELEK [on viewscreen]
-     My wife and my daughter are on Romulus.
+<tr id="L294"><td><a href="#L294">294</a></td><td>KES:  Malleus, incus and stapes.</td></tr>
 
-  JANEWAY
-     A daughter. How old is she?
+<tr id="L295"><td><a href="#L295">295</a></td><td>EMH:  And the connective tissue between the middle and the external auditory canal?</td></tr>
 
-  TELEK [on viewscreen]
-     She is seven months.
+<tr id="L296"><td><a href="#L296">296</a></td><td>KES:  The tympanic membrane.</td></tr>
 
-  JANEWAY
-     Then you've never seen her.
+<tr id="L297"><td><a href="#L297">297</a></td><td>EMH:  Hmm. I suspect you have an eidetic memory. An astonishing gift. I'll do a full neural scan on you at some point.</td></tr>
 
-  TELEK [on viewscreen]
-     To my sorrow, no. She'll be two years old before I
-     get back.
+<tr><td></td><td>LOCATION--Doctor's office</td></tr>
+<tr id="L298"><td><a href="#L298">298</a></td><td>KES:  I've been thinking. If we do get back to Federation space, I'd like to explore the possibility of going to Medical School.</td></tr>
 
-  JANEWAY
-     You must miss your family very much.
+<tr id="L299"><td><a href="#L299">299</a></td><td>EMH:  If you continue to apply yourself as you have, by the time we get back you may already have the equivalent of a medical degree.</td></tr>
 
-  TELEK [on viewscreen]
-     I knew when I accepted this assignment there would
-     be a price to pay. Perhaps I didn't realise how
-     high that price would be.
+<tr id="L300"><td><a href="#L300">300</a></td><td>KES:  Then you haven't heard?</td></tr>
 
-  JANEWAY
-     Captain. Everyone of us on this ship has left
-     behind friends, family, loved ones. We may not see
-     them again for years, maybe never, so we can all
-     understand how lonely you must be. Surely you must
-     understand our feelings as well. We would be
-     deeply grateful for any efforts you might make to
-     persuade your government to send our messages.
+<tr id="L301"><td><a href="#L301">301</a></td><td>EMH:  Heard what?</td></tr>
 
-  TELEK [on viewscreen]
-     I cannot guarantee success, but I will try to
-     persuade my superiors to make their decision
-     quickly and positively.
+<tr id="L302"><td><a href="#L302">302</a></td><td>KES:  That we might be getting back soon.</td></tr>
 
-  JANEWAY
-     Thank you.
+<tr id="L303"><td><a href="#L303">303</a></td><td>EMH:  If there's one thing you can count on, it's that I am the last to be told about anything that happens on this ship.</td></tr>
 
-  TELEK [on viewscreen]
-     I will contact you again.
+<tr id="L304"><td><a href="#L304">304</a></td><td>KES:  Everyone's talking about it. There may be a way to transport all of us to the Alpha Quadrant. Chief Torres and half of engineering are working on it right now.</td></tr>
 
-  ANNOTATION
-     Transmission ends.
+<tr id="L305"><td><a href="#L305">305</a></td><td>EMH:  I see. Well, I'll say goodbye now. I won't be transporting with the rest of you.</td></tr>
 
-  JANEWAY
-     Commander, let's assume he's going to be
-     successful. Tell the crew to prepare personal
-     messages and have them ready within the hour.
+<tr id="L306"><td><a href="#L306">306</a></td><td>KES:  But can't we download your programme and take you with us?</td></tr>
 
-  CHAKOTAY
-     With pleasure, Captain.
+<tr id="L307"><td><a href="#L307">307</a></td><td>EMH:  My programme is fully integrated into the sickbay system. At present I cannot be downloaded.</td></tr>
 
-  ANNOTATION
-     Torres runs in.
+<tr id="L308"><td><a href="#L308">308</a></td><td>ANNOTATION: Kes kisses him on the cheek.</td></tr>
 
-  TORRES
-     Captain, I have to talk to you.
+<tr id="L309"><td><a href="#L309">309</a></td><td>KES:  Thank you for everything.</td></tr>
 
-  JANEWAY
-     Go ahead, Torres.
+<tr id="L310"><td><a href="#L310">310</a></td><td>EMH:  Wait. I'd like. That is, could I ask a favour of you?</td></tr>
 
-  TORRES
-     No. I mean, in private.
+<tr id="L311"><td><a href="#L311">311</a></td><td>KES:  Anything.</td></tr>
 
+<tr id="L312"><td><a href="#L312">312</a></td><td>EMH:  If you do leave, before you go, would you check to make sure I've been deactivated.</td></tr>
 
-LOCATION--Ready room
+<tr id="L313"><td><a href="#L313">313</a></td><td>KES:  I promise.</td></tr>
 
-  TORRES
-     I think this will work, Captain, but I didn't want
-     to bring it up in front of the crew. It wouldn't
-     be right to get their hopes up in case it doesn't
-     work, although I think it will.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L314"><td><a href="#L314">314</a></td><td>JANEWAY:  And our Chief Engineer has managed to bind a transporter beam to the visual link between us.</td></tr>
 
-  JANEWAY
-     Slow down, Torres, and tell me what you're talking
-     about.
+<tr id="L315"><td><a href="#L315">315</a></td><td>TELEK [on viewscreen]:  Then you've matched your data transmission to the phase amplitude of our comm. signal?</td></tr>
 
-  TORRES
-     The phase amplitude of the visual link with the
-     Romulan ship is within just a few megahertz of
-     meeting transporter protocols.
+<tr id="L316"><td><a href="#L316">316</a></td><td>JANEWAY:  Exactly.</td></tr>
 
-  JANEWAY
-     Are you suggesting
+<tr id="L317"><td><a href="#L317">317</a></td><td>TELEK [on viewscreen]:  Apparently our intelligence operatives are not doing their job. You clearly have technology that we are unaware of. This would be an incredible breakthrough in subspace field mechanics.</td></tr>
 
-  TORRES
-     We might be able to piggyback a transporter beam
-     onto the visual link. We could transport the
-     entire crew back to the Alpha quadrant.
+<tr id="L318"><td><a href="#L318">318</a></td><td>CHAKOTAY:  If it's successful, we'd like to try transmitting a test cylinder to you.</td></tr>
 
-  JANEWAY
-     You'll have to reconfigure the matter transmission
-     rate.
+<tr id="L319"><td><a href="#L319">319</a></td><td>TELEK [on viewscreen]:  A test cylinder of what sort?</td></tr>
 
-  TORRES
-     Fairly substantially.
+<tr id="L320"><td><a href="#L320">320</a></td><td>TUVOK:  It is a standard Starfleet mechanism with a varietal molecular matrix. It simulates most organic and non-organic compounds. It is not classified technology.</td></tr>
 
-  JANEWAY
-     And we risk losing whatever we try to beam out.
+<tr id="L321"><td><a href="#L321">321</a></td><td>TELEK [on viewscreen]:  Ah, I am aware of this mechanism. We use a similar device. I will allow the transport.</td></tr>
 
-  TORRES
-     We'll have to run a series of tests first.
+<tr id="L322"><td><a href="#L322">322</a></td><td>JANEWAY:  Bridge to Transporter room one.</td></tr>
 
-  JANEWAY
-     See to it, Lieutenant.
+<tr id="L323"><td><a href="#L323">323</a></td><td>TORRES [OC]:  Torres here.</td></tr>
 
-  TORRES
-     I'll need some help.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L324"><td><a href="#L324">324</a></td><td>TORRES:  We're all set, Captain. The lock is active and we're focused on the Romulan's</td></tr>
 
-  JANEWAY
-     You have my authorisation to use any of the ships
-     personnel you need. This has top priority. And
-     don't worry about secrecy. I doubt you'd be able
-     to keep this quiet for very long.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L325"><td><a href="#L325">325</a></td><td>TORRES [OC]:  Transporter coordinates.</td></tr>
 
-  ANNOTATION
-     Torres leaves. Janeway picks up a photograph of a
-     man and a dog, and gazes longingly at it.
+<tr id="L326"><td><a href="#L326">326</a></td><td>JANEWAY:  All right then. Let's give it a try.</td></tr>
 
+<tr id="L327"><td><a href="#L327">327</a></td><td>CHAKOTAY:  Energise.</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Transporter Room</td></tr>
+<tr id="L328"><td><a href="#L328">328</a></td><td>TORRES:  The cylinder has dematerialised, Captain.</td></tr>
 
-  ANNOTATION
-     Kes returns the PADDs.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L329"><td><a href="#L329">329</a></td><td>ANNOTATION: The cylinder tries to stutter into solidity next to Telek.</td></tr>
 
-  KES
-     I've finished these and I'm ready for more.
+<tr id="L330"><td><a href="#L330">330</a></td><td>JANEWAY:  Can you get it back?</td></tr>
 
-  EMH
-     You've finished those already?
+<tr><td></td><td>LOCATION--Transporter Room</td></tr>
+<tr id="L331"><td><a href="#L331">331</a></td><td>TORRES:  The pattern buffer is having trouble accepting the matter stream.</td></tr>
 
-  KES
-     I enjoyed studying anatomy. It would be
-     interesting to see an autopsy sometime.
+<tr id="L332"><td><a href="#L332">332</a></td><td>KIM:  I'll increase power to the</td></tr>
 
-  EMH
-     What are the bones of the middle ear?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L333"><td><a href="#L333">333</a></td><td>KIM [OC]:  Phase transition coils.</td></tr>
 
-  KES
-     Malleus, incus and stapes.
+<tr id="L334"><td><a href="#L334">334</a></td><td>ANNOTATION: It still won't solidify.</td></tr>
 
-  EMH
-     And the connective tissue between the middle and
-     the external auditory canal?
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L335"><td><a href="#L335">335</a></td><td>TORRES:  Ramp the coils to thirty seven megajoules.</td></tr>
 
-  KES
-     The tympanic membrane.
+<tr id="L336"><td><a href="#L336">336</a></td><td>KIM:  Thirty seven megajoules.</td></tr>
 
-  EMH
-     Hmm. I suspect you have an eidetic memory. An
-     astonishing gift. I'll do a full neural scan on
-     you at some point.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L337"><td><a href="#L337">337</a></td><td>ANNOTATION: The cylinder solidifies and Telek takes hold of it.</td></tr>
 
+<tr id="L338"><td><a href="#L338">338</a></td><td>TELEK [on viewscreen]:  Congratulations, Captain. You've done it. Very impressive.</td></tr>
 
-LOCATION--Doctor's office
+<tr id="L339"><td><a href="#L339">339</a></td><td>JANEWAY:  We should run a series of these tests just to make sure, but we have to act quickly before the probe is crushed.</td></tr>
 
-  KES
-     I've been thinking. If we do get back to
-     Federation space, I'd like to explore the
-     possibility of going to Medical School.
+<tr id="L340"><td><a href="#L340">340</a></td><td>TELEK [on viewscreen]:  I understand.</td></tr>
 
-  EMH
-     If you continue to apply yourself as you have, by
-     the time we get back you may already have the
-     equivalent of a medical degree.
+<tr id="L341"><td><a href="#L341">341</a></td><td>JANEWAY:  Eventually we will have to try transporting a person. One of our crew will beam to your ship if you'll allow it.</td></tr>
 
-  KES
-     Then you haven't heard?
+<tr id="L342"><td><a href="#L342">342</a></td><td>TELEK [on viewscreen]:  I'm afraid I can't permit that, Captain, my government would never allow Starfleet personnel on this ship. I wouldn't want my logs to show that activity.</td></tr>
 
-  EMH
-     Heard what?
+<tr id="L343"><td><a href="#L343">343</a></td><td>TUVOK:  Then what would you suggest?</td></tr>
 
-  KES
-     That we might be getting back soon.
+<tr id="L344"><td><a href="#L344">344</a></td><td>TELEK [on viewscreen]:  I'll volunteer to transport to your ship and back again.</td></tr>
 
-  EMH
-     If there's one thing you can count on, it's that I
-     am the last to be told about anything that happens
-     on this ship.
+<tr id="L345"><td><a href="#L345">345</a></td><td>JANEWAY:  But Captain, if we can't transport to your ship, how are we to get back?</td></tr>
 
-  KES
-     Everyone's talking about it. There may be a way to
-     transport all of us to the Alpha Quadrant. Chief
-     Torres and half of engineering are working on it
-     right now.
+<tr id="L346"><td><a href="#L346">346</a></td><td>TELEK [on viewscreen]:  If the procedure is successful, I'll arrange for a troop ship to join me. That would easily accommodate your crew.</td></tr>
 
-  EMH
-     I see. Well, I'll say goodbye now. I won't be
-     transporting with the rest of you.
+<tr id="L347"><td><a href="#L347">347</a></td><td>JANEWAY:  Very well. We'll be in touch.</td></tr>
 
-  KES
-     But can't we download your programme and take you
-     with us?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L348"><td><a href="#L348">348</a></td><td>CHAKOTAY:  Kim and Torres have made more than twenty transports of the test cylinder, even though she's still having trouble with that phase variance. Every one of them has been successful.</td></tr>
 
-  EMH
-     My programme is fully integrated into the sickbay
-     system. At present I cannot be downloaded.
+<tr id="L349"><td><a href="#L349">349</a></td><td>JANEWAY:  Let's hope it goes as well with the Romulan.</td></tr>
 
-  ANNOTATION
-     Kes kisses him on the cheek.
+<tr id="L350"><td><a href="#L350">350</a></td><td>TUVOK:  Captain, I must insist that I stay with him at all times while he is on board.</td></tr>
 
-  KES
-     Thank you for everything.
+<tr><td></td><td>LOCATION--Transporter Room</td></tr>
+<tr id="L351"><td><a href="#L351">351</a></td><td>JANEWAY:  Agreed.</td></tr>
 
-  EMH
-     Wait. I'd like. That is, could I ask a favour of
-     you?
+<tr id="L352"><td><a href="#L352">352</a></td><td>TORRES:  We're locked onto him. Whenever you're ready, Captain.</td></tr>
 
-  KES
-     Anything.
+<tr id="L353"><td><a href="#L353">353</a></td><td>JANEWAY:  Well, let's try it. Energise. What's the problem?</td></tr>
 
-  EMH
-     If you do leave, before you go, would you check to
-     make sure I've been deactivated.
+<tr id="L354"><td><a href="#L354">354</a></td><td>TORRES:  It's the phase variance in the radiation stream. I'm balancing it manually.</td></tr>
 
-  KES
-     I promise.
+<tr id="L355"><td><a href="#L355">355</a></td><td>ANNOTATION: Telek finally solidifies.</td></tr>
 
+<tr id="L356"><td><a href="#L356">356</a></td><td>JANEWAY:  Welcome to the Delta quadrant, Captain. My first officer, Commander Chakotay. Lieutenant Tuvok, head of security. Chief Engineer Torres and Operations officer Kim.</td></tr>
 
-LOCATION--Bridge
+<tr id="L357"><td><a href="#L357">357</a></td><td>ANNOTATION: Tuvok puts away his phaser and takes out a tricorder.</td></tr>
 
-  JANEWAY
-     And our Chief Engineer has managed to bind a
-     transporter beam to the visual link between us.
+<tr id="L358"><td><a href="#L358">358</a></td><td>TELEK:  My congratulations on your remarkable accomplishment. This is an astonishing breakthrough.</td></tr>
 
-  TELEK [on viewscreen]
-     Then you've matched your data transmission to the
-     phase amplitude of our comm. signal?
+<tr id="L359"><td><a href="#L359">359</a></td><td>TORRES:  For a while there I didn't think you were going make it. There was a strange phase variance in the radiation stream. It almost kept us from pulling you through.</td></tr>
 
-  JANEWAY
-     Exactly.
+<tr id="L360"><td><a href="#L360">360</a></td><td>JANEWAY:  Mister Tuvok, you may begin evacuation procedures.</td></tr>
 
-  TELEK [on viewscreen]
-     Apparently our intelligence operatives are not
-     doing their job. You clearly have technology that
-     we are unaware of. This would be an incredible
-     breakthrough in subspace field mechanics.
+<tr id="L361"><td><a href="#L361">361</a></td><td>TUVOK:  I suggest we delay that for the moment, Captain. I'm afraid I've found the reason for the unusual phase variance.</td></tr>
 
-  CHAKOTAY
-     If it's successful, we'd like to try transmitting
-     a test cylinder to you.
+<tr id="L362"><td><a href="#L362">362</a></td><td>JANEWAY:  What is it?</td></tr>
 
-  TELEK [on viewscreen]
-     A test cylinder of what sort?
+<tr id="L363"><td><a href="#L363">363</a></td><td>TUVOK:  Captain, what year is it?</td></tr>
 
-  TUVOK
-     It is a standard Starfleet mechanism with a
-     varietal molecular matrix. It simulates most
-     organic and non-organic compounds. It is not
-     classified technology.
+<tr id="L364"><td><a href="#L364">364</a></td><td>TELEK:  What year?</td></tr>
 
-  TELEK [on viewscreen]
-     Ah, I am aware of this mechanism. We use a similar
-     device. I will allow the transport.
+<tr id="L365"><td><a href="#L365">365</a></td><td>TUVOK:  If you please.</td></tr>
 
-  JANEWAY
-     Bridge to Transporter room one.
+<tr id="L366"><td><a href="#L366">366</a></td><td>TELEK:  By your calendar, the year is 2351.</td></tr>
 
-  TORRES [OC]
-     Torres here.
+<tr id="L367"><td><a href="#L367">367</a></td><td>CHAKOTAY:  But this is 2371.</td></tr>
 
+<tr id="L368"><td><a href="#L368">368</a></td><td>TUVOK:  Exactly. Our Romulan visitor is a person out of time. He is showing clear evidence of temporal displacement. I would surmise that the wormhole is a rift not just in space but in time. The unusual phase variance we detected was actually an indication of a temporal shift. We have transported him from twenty years in the past to our present.</td></tr>
 
-LOCATION--Transporter room
+<tr><td></td><td>LOCATION--Briefing Room</td></tr>
+<tr id="L369"><td><a href="#L369">369</a></td><td>TORRES:  I've gone over and over the transporter logs. There's no question that if we try to transport ourselves through that wormhole, we'll end up twenty years in the past.</td></tr>
 
-  TORRES
-     We're all set, Captain. The lock is active and
-     we're focused on the Romulan's
+<tr id="L370"><td><a href="#L370">370</a></td><td>KIM:  Then lets do it. It's better than trying to spend the next seventy years trying to get back.</td></tr>
 
+<tr id="L371"><td><a href="#L371">371</a></td><td>PARIS:  How can we do that? We'd be going back to a time when you were only two years old.</td></tr>
 
-LOCATION--Bridge
+<tr id="L372"><td><a href="#L372">372</a></td><td>JANEWAY:  I know you're disappointed, Harry, we all are. It seemed we were so close. But clearly we can't go back. It would pollute the time line to such an extent that the consequences would be unimaginable. I'm afraid we'll have to send you back alone and ask that you not reveal anything that has happened here.</td></tr>
 
-  TORRES [OC]
-     Transporter coordinates.
+<tr id="L373"><td><a href="#L373">373</a></td><td>TELEK:  I can assure you, Captain, that I would not do anything that might contaminate the future and perhaps harm the Romulan Empire, but, in twenty years I could alert Starfleet not to launch the mission which sent you here.</td></tr>
 
-  JANEWAY
-     All right then. Let's give it a try.
+<tr id="L374"><td><a href="#L374">374</a></td><td>CHAKOTAY:  I'm afraid that's not possible either. We've already had a huge impact on this quadrant. People and events here would be drastically affected.</td></tr>
 
-  CHAKOTAY
-     Energise.
+<tr id="L375"><td><a href="#L375">375</a></td><td>JANEWAY:  I'm afraid we're left with our original request. In twenty years, would you relay our personal messages to Starfleet?</td></tr>
 
+<tr id="L376"><td><a href="#L376">376</a></td><td>TELEK:  Of course. At the proper time, I will transmit them. If you should find a way back within my lifetime, I'd be an old man, but I would welcome a message from you. I am Telek R'Mor of the Romulan Astrophysical Academy.</td></tr>
 
-LOCATION--Transporter Room
+<tr id="L377"><td><a href="#L377">377</a></td><td>JANEWAY:  I promise you'll hear from us. Because we will get back.</td></tr>
 
-  TORRES
-     The cylinder has dematerialised, Captain.
+<tr><td></td><td>LOCATION--Transporter Room</td></tr>
+<tr id="L378"><td><a href="#L378">378</a></td><td>ANNOTATION: Tuvok gives Telek a yellow isolinear chip.</td></tr>
 
+<tr id="L379"><td><a href="#L379">379</a></td><td>TUVOK:  These are our messages.</td></tr>
 
-LOCATION--Bridge
+<tr id="L380"><td><a href="#L380">380</a></td><td>TELEK:  I wish you luck on your journey.</td></tr>
 
-  ANNOTATION
-     The cylinder tries to stutter into solidity next
-     to Telek.
+<tr id="L381"><td><a href="#L381">381</a></td><td>JANEWAY:  And I thank you for your help. Energize.</td></tr>
 
-  JANEWAY
-     Can you get it back?
+<tr id="L382"><td><a href="#L382">382</a></td><td>TORRES:  The signal's in the pattern buffer. Transferring to the emitter array.</td></tr>
 
+<tr id="L383"><td><a href="#L383">383</a></td><td>KIM:  Phase variance is out of synch again.</td></tr>
 
-LOCATION--Transporter Room
+<tr id="L384"><td><a href="#L384">384</a></td><td>TORRES:  Compensating. Transport complete, Captain. He made it.</td></tr>
 
-  TORRES
-     The pattern buffer is having trouble accepting the
-     matter stream.
+<tr id="L385"><td><a href="#L385">385</a></td><td>JANEWAY:  I'll tell the crew. They can have the satisfaction of knowing that their messages have reached their families.</td></tr>
 
-  KIM
-     I'll increase power to the
+<tr id="L386"><td><a href="#L386">386</a></td><td>TUVOK:  Captain, I did not want to mention this until after our guest had left. I checked the computers databanks for a Romulan scientist named Telek R'Mor.</td></tr>
 
+<tr id="L387"><td><a href="#L387">387</a></td><td>JANEWAY:  And?</td></tr>
 
-LOCATION--Bridge
+<tr id="L388"><td><a href="#L388">388</a></td><td>TUVOK:  I'm sorry to report Doctor R'Mor died in 2367.</td></tr>
 
-  KIM [OC]
-     Phase transition coils.
+<tr id="L389"><td><a href="#L389">389</a></td><td>JANEWAY:  That was four years ago.</td></tr>
 
-  ANNOTATION
-     It still won't solidify.
+<tr id="L390"><td><a href="#L390">390</a></td><td>TUVOK:  That is correct. Before he would have sent our messages.</td></tr>
 
+<tr id="L391"><td><a href="#L391">391</a></td><td>TORRES:  Maybe he left a will telling someone else to transmit the messages. Or he could have given our computer chip to the Romulan Government.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L392"><td><a href="#L392">392</a></td><td>TUVOK:  It is possible. Unfortunately, there is no way to know.</td></tr>
 
-  TORRES
-     Ramp the coils to thirty seven megajoules.
+<tr id="L393"><td><a href="#L393">393</a></td><td>JANEWAY:  Then let's move on. We've got a long way to go.</td></tr>
 
-  KIM
-     Thirty seven megajoules.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L394"><td><a href="#L394">394</a></td><td>ANNOTATION: Guess who is back on the biobed, this time having his calf examined, and talking to Kes.</td></tr>
 
+<tr id="L395"><td><a href="#L395">395</a></td><td>BAXTER:  I tried a new hamstring exercise. Maybe I overdid it. But my workouts are about all that stand between me and a severe case of cabin fever.</td></tr>
 
-LOCATION--Bridge
+<tr id="L396"><td><a href="#L396">396</a></td><td>EMH:  Lieutenant, I am the Chief Medical Officer of this ship. If you have something to say to me, please, direct the statement to me.</td></tr>
 
-  ANNOTATION
-     The cylinder solidifies and Telek takes hold of
-     it.
+<tr id="L397"><td><a href="#L397">397</a></td><td>BAXTER:  Well, you see, I need to work out.</td></tr>
 
-  TELEK [on viewscreen]
-     Congratulations, Captain. You've done it. Very
-     impressive.
+<tr id="L398"><td><a href="#L398">398</a></td><td>EMH:  I'm not telling you not to work out. I'm suggesting you use a modicum of commonsense when you do it. If I see you in here again for an exercise related injury, I'll have to discuss the matter with your superior officer.</td></tr>
 
-  JANEWAY
-     We should run a series of these tests just to make
-     sure, but we have to act quickly before the probe
-     is crushed.
+<tr id="L399"><td><a href="#L399">399</a></td><td>BAXTER:  Yes, sir.</td></tr>
 
-  TELEK [on viewscreen]
-     I understand.
+<tr id="L400"><td><a href="#L400">400</a></td><td>EMH:  You're fine now. You may leave.</td></tr>
 
-  JANEWAY
-     Eventually we will have to try transporting a
-     person. One of our crew will beam to your ship if
-     you'll allow it.
+<tr id="L401"><td><a href="#L401">401</a></td><td>BAXTER:  Yes, sir. Thank you, sir.</td></tr>
 
-  TELEK [on viewscreen]
-     I'm afraid I can't permit that, Captain, my
-     government would never allow Starfleet personnel
-     on this ship. I wouldn't want my logs to show that
-     activity.
+<tr id="L402"><td><a href="#L402">402</a></td><td>ANNOTATION: Baxter leaves.</td></tr>
 
-  TUVOK
-     Then what would you suggest?
+<tr id="L403"><td><a href="#L403">403</a></td><td>KES:  I don't think he'll make the mistake of ignoring you again.</td></tr>
 
-  TELEK [on viewscreen]
-     I'll volunteer to transport to your ship and back
-     again.
+<tr id="L404"><td><a href="#L404">404</a></td><td>EMH:  Captain Janeway has made me realise that I must function as more than an Emergency Medical replacement. I must think of myself as a member of the crew.</td></tr>
 
-  JANEWAY
-     But Captain, if we can't transport to your ship,
-     how are we to get back?
+<tr id="L405"><td><a href="#L405">405</a></td><td>KES:  you're absolutely right.</td></tr>
 
-  TELEK [on viewscreen]
-     If the procedure is successful, I'll arrange for a
-     troop ship to join me. That would easily
-     accommodate your crew.
+<tr id="L406"><td><a href="#L406">406</a></td><td>EMH:  I've prepared a list of things I'd like to see added to Sickbay. Perhaps you could present it to the Captain?</td></tr>
 
-  JANEWAY
-     Very well. We'll be in touch.
+<tr id="L407"><td><a href="#L407">407</a></td><td>KES:  I'd be happy to.</td></tr>
 
+<tr id="L408"><td><a href="#L408">408</a></td><td>EMH:  There's one more request. Something of a, a personal nature. I would like a name.</td></tr>
 
-LOCATION--Corridor
-
-  CHAKOTAY
-     Kim and Torres have made more than twenty
-     transports of the test cylinder, even though she's
-     still having trouble with that phase variance.
-     Every one of them has been successful.
-
-  JANEWAY
-     Let's hope it goes as well with the Romulan.
-
-  TUVOK
-     Captain, I must insist that I stay with him at all
-     times while he is on board.
-
-
-LOCATION--Transporter Room
-
-  JANEWAY
-     Agreed.
-
-  TORRES
-     We're locked onto him. Whenever you're ready,
-     Captain.
-
-  JANEWAY
-     Well, let's try it. Energise. What's the problem?
-
-  TORRES
-     It's the phase variance in the radiation stream.
-     I'm balancing it manually.
-
-  ANNOTATION
-     Telek finally solidifies.
-
-  JANEWAY
-     Welcome to the Delta quadrant, Captain. My first
-     officer, Commander Chakotay. Lieutenant Tuvok,
-     head of security. Chief Engineer Torres and
-     Operations officer Kim.
-
-  ANNOTATION
-     Tuvok puts away his phaser and takes out a
-     tricorder.
-
-  TELEK
-     My congratulations on your remarkable
-     accomplishment. This is an astonishing
-     breakthrough.
-
-  TORRES
-     For a while there I didn't think you were going
-     make it. There was a strange phase variance in the
-     radiation stream. It almost kept us from pulling
-     you through.
-
-  JANEWAY
-     Mister Tuvok, you may begin evacuation procedures.
-
-  TUVOK
-     I suggest we delay that for the moment, Captain.
-     I'm afraid I've found the reason for the unusual
-     phase variance.
-
-  JANEWAY
-     What is it?
-
-  TUVOK
-     Captain, what year is it?
-
-  TELEK
-     What year?
-
-  TUVOK
-     If you please.
-
-  TELEK
-     By your calendar, the year is 2351.
-
-  CHAKOTAY
-     But this is 2371.
-
-  TUVOK
-     Exactly. Our Romulan visitor is a person out of
-     time. He is showing clear evidence of temporal
-     displacement. I would surmise that the wormhole is
-     a rift not just in space but in time. The unusual
-     phase variance we detected was actually an
-     indication of a temporal shift. We have
-     transported him from twenty years in the past to
-     our present.
-
-
-LOCATION--Briefing Room
-
-  TORRES
-     I've gone over and over the transporter logs.
-     There's no question that if we try to transport
-     ourselves through that wormhole, we'll end up
-     twenty years in the past.
-
-  KIM
-     Then lets do it. It's better than trying to spend
-     the next seventy years trying to get back.
-
-  PARIS
-     How can we do that? We'd be going back to a time
-     when you were only two years old.
-
-  JANEWAY
-     I know you're disappointed, Harry, we all are. It
-     seemed we were so close. But clearly we can't go
-     back. It would pollute the time line to such an
-     extent that the consequences would be
-     unimaginable. I'm afraid we'll have to send you
-     back alone and ask that you not reveal anything
-     that has happened here.
-
-  TELEK
-     I can assure you, Captain, that I would not do
-     anything that might contaminate the future and
-     perhaps harm the Romulan Empire, but, in twenty
-     years I could alert Starfleet not to launch the
-     mission which sent you here.
-
-  CHAKOTAY
-     I'm afraid that's not possible either. We've
-     already had a huge impact on this quadrant. People
-     and events here would be drastically affected.
-
-  JANEWAY
-     I'm afraid we're left with our original request.
-     In twenty years, would you relay our personal
-     messages to Starfleet?
-
-  TELEK
-     Of course. At the proper time, I will transmit
-     them. If you should find a way back within my
-     lifetime, I'd be an old man, but I would welcome a
-     message from you. I am Telek R'Mor of the Romulan
-     Astrophysical Academy.
-
-  JANEWAY
-     I promise you'll hear from us. Because we will get
-     back.
-
-
-LOCATION--Transporter Room
-
-  ANNOTATION
-     Tuvok gives Telek a yellow isolinear chip.
-
-  TUVOK
-     These are our messages.
-
-  TELEK
-     I wish you luck on your journey.
-
-  JANEWAY
-     And I thank you for your help. Energize.
-
-  TORRES
-     The signal's in the pattern buffer. Transferring
-     to the emitter array.
-
-  KIM
-     Phase variance is out of synch again.
-
-  TORRES
-     Compensating. Transport complete, Captain. He made
-     it.
-
-  JANEWAY
-     I'll tell the crew. They can have the satisfaction
-     of knowing that their messages have reached their
-     families.
-
-  TUVOK
-     Captain, I did not want to mention this until
-     after our guest had left. I checked the computers
-     databanks for a Romulan scientist named Telek
-     R'Mor.
-
-  JANEWAY
-     And?
-
-  TUVOK
-     I'm sorry to report Doctor R'Mor died in 2367.
-
-  JANEWAY
-     That was four years ago.
-
-  TUVOK
-     That is correct. Before he would have sent our
-     messages.
-
-  TORRES
-     Maybe he left a will telling someone else to
-     transmit the messages. Or he could have given our
-     computer chip to the Romulan Government.
-
-  TUVOK
-     It is possible. Unfortunately, there is no way to
-     know.
-
-  JANEWAY
-     Then let's move on. We've got a long way to go.
-
-
-LOCATION--Sickbay
-
-  ANNOTATION
-     Guess who is back on the biobed, this time having
-     his calf examined, and talking to Kes.
-
-  BAXTER
-     I tried a new hamstring exercise. Maybe I overdid
-     it. But my workouts are about all that stand
-     between me and a severe case of cabin fever.
-
-  EMH
-     Lieutenant, I am the Chief Medical Officer of this
-     ship. If you have something to say to me, please,
-     direct the statement to me.
-
-  BAXTER
-     Well, you see, I need to work out.
-
-  EMH
-     I'm not telling you not to work out. I'm
-     suggesting you use a modicum of commonsense when
-     you do it. If I see you in here again for an
-     exercise related injury, I'll have to discuss the
-     matter with your superior officer.
-
-  BAXTER
-     Yes, sir.
-
-  EMH
-     You're fine now. You may leave.
-
-  BAXTER
-     Yes, sir. Thank you, sir.
-
-  ANNOTATION
-     Baxter leaves.
-
-  KES
-     I don't think he'll make the mistake of ignoring
-     you again.
-
-  EMH
-     Captain Janeway has made me realise that I must
-     function as more than an Emergency Medical
-     replacement. I must think of myself as a member of
-     the crew.
-
-  KES
-     you're absolutely right.
-
-  EMH
-     I've prepared a list of things I'd like to see
-     added to Sickbay. Perhaps you could present it to
-     the Captain?
-
-  KES
-     I'd be happy to.
-
-  EMH
-     There's one more request. Something of a, a
-     personal nature. I would like a name.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

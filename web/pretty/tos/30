@@ -1,1467 +1,743 @@
-Catspaw
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Catspaw</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>UHURA:  Still no response, sir.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>KIRK:  No, keep it open. I don't like this. Nothing since the first check in. Scott and Sulu should've contacted us again a half an hour ago.</td></tr>
 
-  UHURA
-     Still no response, sir.
+<tr id="L3"><td><a href="#L3">3</a></td><td>SPOCK:  They may have nothing to report. Our sensors indicate no life forms except our landing party.</td></tr>
 
-  KIRK
-     No, keep it open. I don't like this. Nothing since
-     the first check in. Scott and Sulu should've
-     contacted us again a half an hour ago.
+<tr id="L4"><td><a href="#L4">4</a></td><td>KIRK:  Both those men are well aware of landing party procedure. They should've checked in with us by now.</td></tr>
 
-  SPOCK
-     They may have nothing to report. Our sensors
-     indicate no life forms except our landing party.
+<tr id="L5"><td><a href="#L5">5</a></td><td>UHURA:  Contact established, Captain.</td></tr>
 
-  KIRK
-     Both those men are well aware of landing party
-     procedure. They should've checked in with us by
-     now.
+<tr id="L6"><td><a href="#L6">6</a></td><td>JACKSON [OC]:  Jackson to Enterprise.</td></tr>
 
-  UHURA
-     Contact established, Captain.
+<tr id="L7"><td><a href="#L7">7</a></td><td>KIRK:  Enterprise. Kirk here.</td></tr>
 
-  JACKSON [OC]
-     Jackson to Enterprise.
+<tr id="L8"><td><a href="#L8">8</a></td><td>JACKSON [OC]:  One to beam up, Enterprise.</td></tr>
 
-  KIRK
-     Enterprise. Kirk here.
+<tr id="L9"><td><a href="#L9">9</a></td><td>KIRK:  One? Jackson, where are Scott and Sulu?</td></tr>
 
-  JACKSON [OC]
-     One to beam up, Enterprise.
+<tr id="L10"><td><a href="#L10">10</a></td><td>JACKSON [OC]:  I'm ready to beam up, sir.</td></tr>
 
-  KIRK
-     One? Jackson, where are Scott and Sulu?
+<tr id="L11"><td><a href="#L11">11</a></td><td>KIRK:  Jackson!</td></tr>
 
-  JACKSON [OC]
-     I'm ready to beam up, sir.
+<tr id="L12"><td><a href="#L12">12</a></td><td>UHURA:  I'm sorry. I can't clear it, Captain.</td></tr>
 
-  KIRK
-     Jackson!
+<tr id="L13"><td><a href="#L13">13</a></td><td>KIRK:  Notify Transporter room to prepare to beam up one member of the landing party. Then have Doctor McCoy report to me in the Transporter room on the double.</td></tr>
 
-  UHURA
-     I'm sorry. I can't clear it, Captain.
+<tr id="L14"><td><a href="#L14">14</a></td><td>UHURA:  Yes, sir.</td></tr>
 
-  KIRK
-     Notify Transporter room to prepare to beam up one
-     member of the landing party. Then have Doctor
-     McCoy report to me in the Transporter room on the
-     double.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L15"><td><a href="#L15">15</a></td><td>KYLE:  Ready, sir.</td></tr>
 
-  UHURA
-     Yes, sir.
+<tr id="L16"><td><a href="#L16">16</a></td><td>KIRK:  Energise.</td></tr>
 
+<tr id="L17"><td><a href="#L17">17</a></td><td>MCCOY:  What's on, Jim?</td></tr>
 
-LOCATION--Transporter room
+<tr id="L18"><td><a href="#L18">18</a></td><td>KIRK:  Trouble. (one man materialises) Jackson, where are the others?</td></tr>
 
-  KYLE
-     Ready, sir.
+<tr id="L19"><td><a href="#L19">19</a></td><td>ANNOTATION: The man falls over and off the transporter platform.</td></tr>
 
-  KIRK
-     Energise.
+<tr id="L20"><td><a href="#L20">20</a></td><td>MCCOY:  The man is dead.</td></tr>
 
-  MCCOY
-     What's on, Jim?
+<tr id="L21"><td><a href="#L21">21</a></td><td>KOROB [OC]:  (from the mouth of Jackson) Captain Kirk, can you hear me? There is a curse on your ship. Leave this place or you will all die.</td></tr>
 
-  KIRK
-     Trouble. (one man materialises) Jackson, where are
-     the others?
+<tr id="L22"><td><a href="#L22">22</a></td><td>SOMEONE: Captain's Log, stardate 3018.2. Crewman Jackson is dead and there are no apparent physical causes. Mister Scott and Mister Sulu are still out of touch on the planet below. Leaving Assistant Chief Engineer DeSalle in command of the Enterprise, I'm beaming down to the planet's surface to find my two missing crewmen and discover what killed Jackson.</td></tr>
 
-  ANNOTATION
-     The man falls over and off the transporter
-     platform.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L23"><td><a href="#L23">23</a></td><td>ANNOTATION: It's rocky, and misty. Very spooky.</td></tr>
 
-  MCCOY
-     The man is dead.
+<tr id="L24"><td><a href="#L24">24</a></td><td>KIRK:  Odd. Our probe data didn't indicate fog.</td></tr>
 
-  KOROB [OC]
-     (from the mouth of Jackson) Captain Kirk, can you
-     hear me? There is a curse on your ship. Leave this
-     place or you will all die.
+<tr id="L25"><td><a href="#L25">25</a></td><td>SPOCK:  No cloud formations, no bodies of water, no changes in surface temperature. Under these conditions, fog is highly unlikely, Captain. According to our transporter co-ordinates this is the exact location from which Jackson was beamed up to the ship.</td></tr>
 
-  SOMEONE
-     Captain's Log, stardate 3018.2. Crewman Jackson is
-     dead and there are no apparent physical causes.
-     Mister Scott and Mister Sulu are still out of
-     touch on the planet below. Leaving Assistant Chief
-     Engineer DeSalle in command of the Enterprise, I'm
-     beaming down to the planet's surface to find my
-     two missing crewmen and discover what killed
-     Jackson.
+<tr id="L26"><td><a href="#L26">26</a></td><td>ANNOTATION: They step down carefully into the mist swirling along the path.</td></tr>
 
+<tr id="L27"><td><a href="#L27">27</a></td><td>KIRK:  Readings, Mister Spock.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L28"><td><a href="#L28">28</a></td><td>SPOCK:  No indications of. A moment, Captain. Picking up life form readings. Twenty four degrees mark seven. Range one thirty seven point one six metres. Multiple readings, Captain.</td></tr>
 
-  ANNOTATION
-     It's rocky, and misty. Very spooky.
+<tr id="L29"><td><a href="#L29">29</a></td><td>MCCOY:  Scott and Sulu?</td></tr>
 
-  KIRK
-     Odd. Our probe data didn't indicate fog.
+<tr id="L30"><td><a href="#L30">30</a></td><td>KIRK:  Kirk to Enterprise.</td></tr>
 
-  SPOCK
-     No cloud formations, no bodies of water, no
-     changes in surface temperature. Under these
-     conditions, fog is highly unlikely, Captain.
-     According to our transporter co-ordinates this is
-     the exact location from which Jackson was beamed
-     up to the ship.
+<tr id="L31"><td><a href="#L31">31</a></td><td>UHURA [OC]:  Enterprise. Lieutenant Uhura here.</td></tr>
 
-  ANNOTATION
-     They step down carefully into the mist swirling
-     along the path.
+<tr id="L32"><td><a href="#L32">32</a></td><td>KIRK:  What are the ship's sensors reading now, Lieutenant?</td></tr>
 
-  KIRK
-     Readings, Mister Spock.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L33"><td><a href="#L33">33</a></td><td>DESALLE:  Report, Mister.</td></tr>
 
-  SPOCK
-     No indications of. A moment, Captain. Picking up
-     life form readings. Twenty four degrees mark
-     seven. Range one thirty seven point one six
-     metres. Multiple readings, Captain.
+<tr id="L34"><td><a href="#L34">34</a></td><td>CHEKOV:  I am only picking up physical impulses from the three of them. As far as instruments can make out, there is nothing else down there that's alive.</td></tr>
 
-  MCCOY
-     Scott and Sulu?
+<tr id="L35"><td><a href="#L35">35</a></td><td>DESALLE:  Relay, Lieutenant.</td></tr>
 
-  KIRK
-     Kirk to Enterprise.
+<tr id="L36"><td><a href="#L36">36</a></td><td>UHURA:  Captain, we are only registering on you. (static) Captain? Captain Kirk?</td></tr>
 
-  UHURA [OC]
-     Enterprise. Lieutenant Uhura here.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L37"><td><a href="#L37">37</a></td><td>KIRK:  Lieutenant, can you hear me?</td></tr>
 
-  KIRK
-     What are the ship's sensors reading now,
-     Lieutenant?
+<tr id="L38"><td><a href="#L38">38</a></td><td>MCCOY:  Whatever this stuff is, it's getting thicker. Suppose that has anything to do with the interference?</td></tr>
 
+<tr id="L39"><td><a href="#L39">39</a></td><td>KIRK:  I don't know. There has to be some explanation for the fact that the ship's sensors can't register anything but us, while we're picking up readings of multiple life forms. Are they still there, Spock?</td></tr>
 
-LOCATION--Bridge
+<tr id="L40"><td><a href="#L40">40</a></td><td>SPOCK:  No change, Captain.</td></tr>
 
-  DESALLE
-     Report, Mister.
+<tr id="L41"><td><a href="#L41">41</a></td><td>KIRK:  Stand-by alert.</td></tr>
 
-  CHEKOV
-     I am only picking up physical impulses from the
-     three of them. As far as instruments can make out,
-     there is nothing else down there that's alive.
+<tr id="L42"><td><a href="#L42">42</a></td><td>ANNOTATION: They check their phasers.</td></tr>
 
-  DESALLE
-     Relay, Lieutenant.
+<tr id="L43"><td><a href="#L43">43</a></td><td>MCCOY:  Listen. Now, what do you think that</td></tr>
 
-  UHURA
-     Captain, we are only registering on you. (static)
-     Captain? Captain Kirk?
+<tr id="L44"><td><a href="#L44">44</a></td><td>KIRK:  Quiet.</td></tr>
 
+<tr id="L45"><td><a href="#L45">45</a></td><td>ANNOTATION: There's an eerie wailing, then the images of, well, the Three Witches from Macbeth, appear.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L46"><td><a href="#L46">46</a></td><td>WITCH 1:  Captain Kirk!</td></tr>
 
-  KIRK
-     Lieutenant, can you hear me?
+<tr id="L47"><td><a href="#L47">47</a></td><td>WITCH 2:  Captain Kirk!</td></tr>
 
-  MCCOY
-     Whatever this stuff is, it's getting thicker.
-     Suppose that has anything to do with the
-     interference?
+<tr id="L48"><td><a href="#L48">48</a></td><td>WITCH 3:  Captain Kirk!</td></tr>
 
-  KIRK
-     I don't know. There has to be some explanation for
-     the fact that the ship's sensors can't register
-     anything but us, while we're picking up readings
-     of multiple life forms. Are they still there,
-     Spock?
+<tr id="L49"><td><a href="#L49">49</a></td><td>KIRK:  Who are you?</td></tr>
 
-  SPOCK
-     No change, Captain.
+<tr id="L50"><td><a href="#L50">50</a></td><td>WITCH 1:  Go back!</td></tr>
 
-  KIRK
-     Stand-by alert.
+<tr id="L51"><td><a href="#L51">51</a></td><td>WITCH 2:  Go back!</td></tr>
 
-  ANNOTATION
-     They check their phasers.
+<tr id="L52"><td><a href="#L52">52</a></td><td>WITCH 3:  Go back! Remember the curse!</td></tr>
 
-  MCCOY
-     Listen. Now, what do you think that
+<tr id="L53"><td><a href="#L53">53</a></td><td>WITCH 1:  Wind shall rise.</td></tr>
 
-  KIRK
-     Quiet.
+<tr id="L54"><td><a href="#L54">54</a></td><td>WITCH 2:  And fog descend.</td></tr>
 
-  ANNOTATION
-     There's an eerie wailing, then the images of,
-     well, the Three Witches from Macbeth, appear.
+<tr id="L55"><td><a href="#L55">55</a></td><td>WITCH 3:  So leave here, all, or meet your end.</td></tr>
 
-  WITCH 1
-     Captain Kirk!
+<tr id="L56"><td><a href="#L56">56</a></td><td>ANNOTATION: Maniacal cackling as they vanish. </td></tr>
 
-  WITCH 2
-     Captain Kirk!
+<tr id="L57"><td><a href="#L57">57</a></td><td>KIRK:  Spock. Comment?</td></tr>
 
-  WITCH 3
-     Captain Kirk!
+<tr id="L58"><td><a href="#L58">58</a></td><td>SPOCK:  Very bad poetry, Captain.</td></tr>
 
-  KIRK
-     Who are you?
+<tr id="L59"><td><a href="#L59">59</a></td><td>KIRK:  A more useful comment, Mister Spock.</td></tr>
 
-  WITCH 1
-     Go back!
+<tr id="L60"><td><a href="#L60">60</a></td><td>SPOCK:  What we've just seen is not real.</td></tr>
 
-  WITCH 2
-     Go back!
+<tr id="L61"><td><a href="#L61">61</a></td><td>KIRK:  That's useful.</td></tr>
 
-  WITCH 3
-     Go back! Remember the curse!
+<tr id="L62"><td><a href="#L62">62</a></td><td>SPOCK:  However, on azimuth twenty four, at just over one hundred metres, there are definitely life forms. Erratic, confused, but definitely registering.</td></tr>
 
-  WITCH 1
-     Wind shall rise.
+<tr id="L63"><td><a href="#L63">63</a></td><td>KIRK:  That's where we're going.</td></tr>
 
-  WITCH 2
-     And fog descend.
+<tr id="L64"><td><a href="#L64">64</a></td><td>ANNOTATION: A strong gust of wind blows them back.</td></tr>
 
-  WITCH 3
-     So leave here, all, or meet your end.
+<tr id="L65"><td><a href="#L65">65</a></td><td>MCCOY:  That was a pretty real illusion, Mister Spock.</td></tr>
 
-  ANNOTATION
-     Maniacal cackling as they vanish.
+<tr id="L66"><td><a href="#L66">66</a></td><td>ANNOTATION: They walk on again.</td></tr>
 
-  KIRK
-     Spock. Comment?
+<tr id="L67"><td><a href="#L67">67</a></td><td>MCCOY:  Jim.</td></tr>
 
-  SPOCK
-     Very bad poetry, Captain.
+<tr id="L68"><td><a href="#L68">68</a></td><td>ANNOTATION: There is a castle hewn from the local rock, and a door is opening.</td></tr>
 
-  KIRK
-     A more useful comment, Mister Spock.
+<tr id="L69"><td><a href="#L69">69</a></td><td>SPOCK:  This is the source of the life form readings, Captain. They're inside, somewhere.</td></tr>
 
-  SPOCK
-     What we've just seen is not real.
+<tr id="L70"><td><a href="#L70">70</a></td><td>KIRK:  Kirk to Enterprise. Enterprise, come in.</td></tr>
 
-  KIRK
-     That's useful.
+<tr id="L71"><td><a href="#L71">71</a></td><td>MCCOY:  Is this how we lost contact with the first landing party?</td></tr>
 
-  SPOCK
-     However, on azimuth twenty four, at just over one
-     hundred metres, there are definitely life forms.
-     Erratic, confused, but definitely registering.
+<tr id="L72"><td><a href="#L72">72</a></td><td>KIRK:  What about it, Spock? Does this structure have anything to do with communicator interference?</td></tr>
 
-  KIRK
-     That's where we're going.
+<tr id="L73"><td><a href="#L73">73</a></td><td>SPOCK:  I would say not, Captain. There's no indication of anything that would cause such interference.</td></tr>
 
-  ANNOTATION
-     A strong gust of wind blows them back.
+<tr id="L74"><td><a href="#L74">74</a></td><td>KIRK:  And it doesn't pick up on our ship's sensors.</td></tr>
 
-  MCCOY
-     That was a pretty real illusion, Mister Spock.
+<tr id="L75"><td><a href="#L75">75</a></td><td>SPOCK:  Nor do our sensors register the life forms inside.</td></tr>
 
-  ANNOTATION
-     They walk on again.
+<tr id="L76"><td><a href="#L76">76</a></td><td>KIRK:  Could it be exerting a force field of some kind that cuts into our sensor scan.</td></tr>
 
-  MCCOY
-     Jim.
+<tr id="L77"><td><a href="#L77">77</a></td><td>MCCOY:  Then it would affect Spock's tricorder too, wouldn't it?</td></tr>
 
-  ANNOTATION
-     There is a castle hewn from the local rock, and a
-     door is opening.
+<tr id="L78"><td><a href="#L78">78</a></td><td>SOMEONE: KIRK; Would it? I wonder.</td></tr>
 
-  SPOCK
-     This is the source of the life form readings,
-     Captain. They're inside, somewhere.
+<tr id="L79"><td><a href="#L79">79</a></td><td>ANNOTATION: They approach the edifice cautiously, then enter.</td></tr>
 
-  KIRK
-     Kirk to Enterprise. Enterprise, come in.
+<tr><td></td><td>LOCATION--Castle</td></tr>
+<tr id="L80"><td><a href="#L80">80</a></td><td>ANNOTATION: They are greeted by an angry, spitting black cat, wearing a large gem on its collar. It runs off, tail bristling.</td></tr>
 
-  MCCOY
-     Is this how we lost contact with the first landing
-     party?
+<tr id="L81"><td><a href="#L81">81</a></td><td>MCCOY:  Three witches, what appears to be a castle and a black cat.</td></tr>
 
-  KIRK
-     What about it, Spock? Does this structure have
-     anything to do with communicator interference?
+<tr id="L82"><td><a href="#L82">82</a></td><td>KIRK:  If we weren't missing two officers and a third one dead I'd say someone was playing an elaborate trick or treat on us.</td></tr>
 
-  SPOCK
-     I would say not, Captain. There's no indication of
-     anything that would cause such interference.
+<tr id="L83"><td><a href="#L83">83</a></td><td>SPOCK:  Trick or treat, Captain?</td></tr>
 
-  KIRK
-     And it doesn't pick up on our ship's sensors.
+<tr id="L84"><td><a href="#L84">84</a></td><td>KIRK:  Yes, Mister Spock. You'd be a natural. I'll explain it to you one day. Shall we have a look around?</td></tr>
 
-  SPOCK
-     Nor do our sensors register the life forms inside.
+<tr id="L85"><td><a href="#L85">85</a></td><td>SPOCK:  That would seem to be in order.</td></tr>
 
-  KIRK
-     Could it be exerting a force field of some kind
-     that cuts into our sensor scan.
+<tr id="L86"><td><a href="#L86">86</a></td><td>KIRK:  (sending them off in different directions) Bones. Spock.</td></tr>
 
-  MCCOY
-     Then it would affect Spock's tricorder too,
-     wouldn't it?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L87"><td><a href="#L87">87</a></td><td>CHEKOV:  They're gone, Mister DeSalle. The captain and the others simply stopped registering.</td></tr>
 
-  SOMEONE
-     KIRK; Would it? I wonder.
+<tr id="L88"><td><a href="#L88">88</a></td><td>DESALLE:  Check for malfunctions.</td></tr>
 
-  ANNOTATION
-     They approach the edifice cautiously, then enter.
+<tr id="L89"><td><a href="#L89">89</a></td><td>CHEKOV:  I did, sir, as soon as it happened.</td></tr>
 
+<tr id="L90"><td><a href="#L90">90</a></td><td>UHURA:  Mister DeSalle, that's exactly what happened to Mister Scott and his party. They, they just disappeared.</td></tr>
 
-LOCATION--Castle
+<tr id="L91"><td><a href="#L91">91</a></td><td>DESALLE:  Nobody just disappears. They may have encountered a magnetic field or some other obstruction. Mister Chekov, recalibrate your sensors. If you need help</td></tr>
 
-  ANNOTATION
-     They are greeted by an angry, spitting black cat,
-     wearing a large gem on its collar. It runs off,
-     tail bristling.
+<tr id="L92"><td><a href="#L92">92</a></td><td>CHEKOV:  I can do it, sir. I'm not that green.</td></tr>
 
-  MCCOY
-     Three witches, what appears to be a castle and a
-     black cat.
+<tr id="L93"><td><a href="#L93">93</a></td><td>DESALLE:  Lieutenant Uhura, continue in your efforts to break through that static interference.</td></tr>
 
-  KIRK
-     If we weren't missing two officers and a third one
-     dead I'd say someone was playing an elaborate
-     trick or treat on us.
+<tr id="L94"><td><a href="#L94">94</a></td><td>UHURA:  Aye, aye, sir.</td></tr>
 
-  SPOCK
-     Trick or treat, Captain?
+<tr id="L95"><td><a href="#L95">95</a></td><td>DESALLE:  We know they're down there. I want them found.</td></tr>
 
-  KIRK
-     Yes, Mister Spock. You'd be a natural. I'll
-     explain it to you one day. Shall we have a look
-     around?
+<tr><td></td><td>LOCATION--Castle</td></tr>
+<tr id="L96"><td><a href="#L96">96</a></td><td>ANNOTATION: The main door slams shut behind them.</td></tr>
 
-  SPOCK
-     That would seem to be in order.
+<tr id="L97"><td><a href="#L97">97</a></td><td>KIRK:  Straight ahead, Mister Spock?</td></tr>
 
-  KIRK
-     (sending them off in different directions) Bones.
-     Spock.
+<tr id="L98"><td><a href="#L98">98</a></td><td>SPOCK:  The readings would so indicate.</td></tr>
 
+<tr id="L99"><td><a href="#L99">99</a></td><td>ANNOTATION: Unlike a real castle, this one is all corridors at present.</td></tr>
 
-LOCATION--Bridge
+<tr id="L100"><td><a href="#L100">100</a></td><td>MCCOY:  Dust, cobwebs. Halloween is right.</td></tr>
 
-  CHEKOV
-     They're gone, Mister DeSalle. The captain and the
-     others simply stopped registering.
+<tr id="L101"><td><a href="#L101">101</a></td><td>ANNOTATION: The black cat is ahead of them when the stone floor gives way and dumps the trio into </td></tr>
 
-  DESALLE
-     Check for malfunctions.
+<tr><td></td><td>LOCATION--Dungeon</td></tr>
+<tr id="L102"><td><a href="#L102">102</a></td><td>ANNOTATION: Reasonably well equipped out of Edgar Allen Poe - rack, skeleton in iron cage - and our heroes chained to the wall.</td></tr>
 
-  CHEKOV
-     I did, sir, as soon as it happened.
+<tr id="L103"><td><a href="#L103">103</a></td><td>KIRK:  Spock. Are you all right?</td></tr>
 
-  UHURA
-     Mister DeSalle, that's exactly what happened to
-     Mister Scott and his party. They, they just
-     disappeared.
+<tr id="L104"><td><a href="#L104">104</a></td><td>SPOCK:  Yes. I am undamaged, Captain.</td></tr>
 
-  DESALLE
-     Nobody just disappears. They may have encountered
-     a magnetic field or some other obstruction. Mister
-     Chekov, recalibrate your sensors. If you need help
+<tr id="L105"><td><a href="#L105">105</a></td><td>KIRK:  Bones? (sees another skeleton chained to the wall) Doc?</td></tr>
 
-  CHEKOV
-     I can do it, sir. I'm not that green.
+<tr id="L106"><td><a href="#L106">106</a></td><td>MCCOY:  You were saying something about trick or treat.</td></tr>
 
-  DESALLE
-     Lieutenant Uhura, continue in your efforts to
-     break through that static interference.
+<tr id="L107"><td><a href="#L107">107</a></td><td>KIRK:  Dungeons, curses, skeletons and iron maidens. They're all Earth manifestations. Why?</td></tr>
 
-  UHURA
-     Aye, aye, sir.
+<tr id="L108"><td><a href="#L108">108</a></td><td>SPOCK:  I do not know, Captain, but these things do exist. They are real.</td></tr>
 
-  DESALLE
-     We know they're down there. I want them found.
+<tr id="L109"><td><a href="#L109">109</a></td><td>MCCOY:  Could this be an Earth parallel development of some sort?</td></tr>
 
+<tr id="L110"><td><a href="#L110">110</a></td><td>KIRK:  None of this parallels any human development. It's more like a human nightmare.</td></tr>
 
-LOCATION--Castle
+<tr id="L111"><td><a href="#L111">111</a></td><td>SPOCK:  As if someone knew what it was that terrifies man most on an instinctive level.</td></tr>
 
-  ANNOTATION
-     The main door slams shut behind them.
+<tr id="L112"><td><a href="#L112">112</a></td><td>KIRK:  Ghost stories, ogres, demons. The whole</td></tr>
 
-  KIRK
-     Straight ahead, Mister Spock?
+<tr id="L113"><td><a href="#L113">113</a></td><td>ANNOTATION: Footsteps, then the dungeon door opens. Down the steps walk - Scott and Sulu! as if in a trance.</td></tr>
 
-  SPOCK
-     The readings would so indicate.
+<tr id="L114"><td><a href="#L114">114</a></td><td>KIRK:  Scotty, Sulu. Scotty. Put down the phaser. Scotty!</td></tr>
 
-  ANNOTATION
-     Unlike a real castle, this one is all corridors at
-     present.
+<tr id="L115"><td><a href="#L115">115</a></td><td>MCCOY:  They appear to be drugged, Jim. Look at their eyes. Hardly blink at all.</td></tr>
 
-  MCCOY
-     Dust, cobwebs. Halloween is right.
+<tr id="L116"><td><a href="#L116">116</a></td><td>SPOCK:  Neither did Jackson just before he collapsed.</td></tr>
 
-  ANNOTATION
-     The black cat is ahead of them when the stone
-     floor gives way and dumps the trio into
+<tr id="L117"><td><a href="#L117">117</a></td><td>KIRK:  These two are alive. Scotty, do you hear me? Sulu, do you know who I am? What's happened to you?</td></tr>
 
+<tr id="L118"><td><a href="#L118">118</a></td><td>ANNOTATION: Sulu holds up a very big key ring</td></tr>
 
-LOCATION--Dungeon
+<tr id="L119"><td><a href="#L119">119</a></td><td>MCCOY:  They're going to release us.</td></tr>
 
-  ANNOTATION
-     Reasonably well equipped out of Edgar Allen Poe -
-     rack, skeleton in iron cage - and our heroes
-     chained to the wall.
+<tr id="L120"><td><a href="#L120">120</a></td><td>ANNOTATION: Sulu undoes their shackles and they start to leave. They begin to fight, but suddenly</td></tr>
 
-  KIRK
-     Spock. Are you all right?
+<tr><td></td><td>LOCATION--Drawing room</td></tr>
+<tr id="L121"><td><a href="#L121">121</a></td><td>KOROB:  Stop!</td></tr>
 
-  SPOCK
-     Yes. I am undamaged, Captain.
+<tr id="L122"><td><a href="#L122">122</a></td><td>ANNOTATION: Red plush furnishings and a bald man with a little beard, wearing a golden gown, is sitting on what is effectively a throne on a raised dais.</td></tr>
 
-  KIRK
-     Bones? (sees another skeleton chained to the wall)
-     Doc?
+<tr id="L123"><td><a href="#L123">123</a></td><td>KIRK:  Whoever you are, you've proven your skill at creating illusion. Now I want to know why and what you've done to my men.</td></tr>
 
-  MCCOY
-     You were saying something about trick or treat.
+<tr id="L124"><td><a href="#L124">124</a></td><td>KOROB:  Where did your race get this ridiculous predilection for resistance? You examine any object, you question everything. Is it not enough to accept what is?</td></tr>
 
-  KIRK
-     Dungeons, curses, skeletons and iron maidens.
-     They're all Earth manifestations. Why?
+<tr id="L125"><td><a href="#L125">125</a></td><td>KIRK:  Not when one of my men is dead because of it and two others turned into mindless</td></tr>
 
-  SPOCK
-     I do not know, Captain, but these things do exist.
-     They are real.
+<tr id="L126"><td><a href="#L126">126</a></td><td>KOROB:  NO, not mindless. These two are merely controlled, Captain Kirk. Oh, yes, we know who you are. All of you. (to the cat) Don't we, my precious?</td></tr>
 
-  MCCOY
-     Could this be an Earth parallel development of
-     some sort?
+<tr id="L127"><td><a href="#L127">127</a></td><td>KIRK:  Who are you? Why did you bring us here?</td></tr>
 
-  KIRK
-     None of this parallels any human development. It's
-     more like a human nightmare.
+<tr id="L128"><td><a href="#L128">128</a></td><td>KOROB:  My name is Korob. And as for bringing you here, it was you who quite contrarily insisted upon coming. You were warned to stay away.</td></tr>
 
-  SPOCK
-     As if someone knew what it was that terrifies man
-     most on an instinctive level.
+<tr id="L129"><td><a href="#L129">129</a></td><td>KIRK:  Why? For what reason? Why all the mumbo-jumbo?</td></tr>
 
-  KIRK
-     Ghost stories, ogres, demons. The whole
+<tr id="L130"><td><a href="#L130">130</a></td><td>KOROB:  Mumbo-jumbo? (the cat meows as if explaining) Oh! Oh, no, I assure you it was not that, Captain.</td></tr>
 
-  ANNOTATION
-     Footsteps, then the dungeon door opens. Down the
-     steps walk - Scott and Sulu! as if in a trance.
+<tr id="L131"><td><a href="#L131">131</a></td><td>SPOCK:  Mapping expeditions have charted this solar system before. There never have been any life forms on Pyris Seven.</td></tr>
 
-  KIRK
-     Scotty, Sulu. Scotty. Put down the phaser. Scotty!
+<tr id="L132"><td><a href="#L132">132</a></td><td>KOROB:  It is of no importance that we are not native to this planet. (meow) Oh! I'm told that I've been an inattentive host, gentlemen. You will join me for something to refresh yourselves.</td></tr>
 
-  MCCOY
-     They appear to be drugged, Jim. Look at their
-     eyes. Hardly blink at all.
+<tr id="L133"><td><a href="#L133">133</a></td><td>ANNOTATION: He leaves his throne and the cat follows.</td></tr>
 
-  SPOCK
-     Neither did Jackson just before he collapsed.
+<tr id="L134"><td><a href="#L134">134</a></td><td>MCCOY:  That cat.</td></tr>
 
-  KIRK
-     These two are alive. Scotty, do you hear me? Sulu,
-     do you know who I am? What's happened to you?
+<tr id="L135"><td><a href="#L135">135</a></td><td>KIRK:  That cat.</td></tr>
 
-  ANNOTATION
-     Sulu holds up a very big key ring
+<tr id="L136"><td><a href="#L136">136</a></td><td>SPOCK:  There are ancient Earth legends about wizards and their familiars.</td></tr>
 
-  MCCOY
-     They're going to release us.
+<tr id="L137"><td><a href="#L137">137</a></td><td>MCCOY:  Familiars?</td></tr>
 
-  ANNOTATION
-     Sulu undoes their shackles and they start to
-     leave. They begin to fight, but suddenly
+<tr id="L138"><td><a href="#L138">138</a></td><td>SPOCK:  Demons in animal forms sent by Satan to serve the wizard.</td></tr>
 
+<tr id="L139"><td><a href="#L139">139</a></td><td>KIRK:  Superstition.</td></tr>
 
-LOCATION--Drawing room
+<tr id="L140"><td><a href="#L140">140</a></td><td>SPOCK:  I do not create the legend, Captain. I merely report it.</td></tr>
 
-  KOROB
-     Stop!
+<tr id="L141"><td><a href="#L141">141</a></td><td>KOROB:  You are the different one, Mister Spock. You do not think like the others. There are no colours to your patterns of logic. There's only black and white. You see all this around you, yet you do not believe.</td></tr>
 
-  ANNOTATION
-     Red plush furnishings and a bald man with a little
-     beard, wearing a golden gown, is sitting on what
-     is effectively a throne on a raised dais.
+<tr id="L142"><td><a href="#L142">142</a></td><td>MCCOY:  He doesn't know about trick or treat.</td></tr>
 
-  KIRK
-     Whoever you are, you've proven your skill at
-     creating illusion. Now I want to know why and what
-     you've done to my men.
+<tr id="L143"><td><a href="#L143">143</a></td><td>KOROB:  I do not understand that reference, therefore it also is of no importance. Gentlemen, I can be most hospitable.</td></tr>
 
-  KOROB
-     Where did your race get this ridiculous
-     predilection for resistance? You examine any
-     object, you question everything. Is it not enough
-     to accept what is?
+<tr id="L144"><td><a href="#L144">144</a></td><td>ANNOTATION: He waves his wand and the table is loaded with food.</td></tr>
 
-  KIRK
-     Not when one of my men is dead because of it and
-     two others turned into mindless
+<tr id="L145"><td><a href="#L145">145</a></td><td>SPOCK:  Ingenious.</td></tr>
 
-  KOROB
-     NO, not mindless. These two are merely controlled,
-     Captain Kirk. Oh, yes, we know who you are. All of
-     you. (to the cat) Don't we, my precious?
+<tr id="L146"><td><a href="#L146">146</a></td><td>KOROB:  Do be seated.</td></tr>
 
-  KIRK
-     Who are you? Why did you bring us here?
+<tr id="L147"><td><a href="#L147">147</a></td><td>MCCOY:  We're not hungry.</td></tr>
 
-  KOROB
-     My name is Korob. And as for bringing you here, it
-     was you who quite contrarily insisted upon coming.
-     You were warned to stay away.
+<tr id="L148"><td><a href="#L148">148</a></td><td>KOROB:  But I insist.</td></tr>
 
-  KIRK
-     Why? For what reason? Why all the mumbo-jumbo?
+<tr id="L149"><td><a href="#L149">149</a></td><td>ANNOTATION: They seat themselves.</td></tr>
 
-  KOROB
-     Mumbo-jumbo? (the cat meows as if explaining) Oh!
-     Oh, no, I assure you it was not that, Captain.
+<tr id="L150"><td><a href="#L150">150</a></td><td>KIRK:  All right, Korob. What do you want from us?</td></tr>
 
-  SPOCK
-     Mapping expeditions have charted this solar system
-     before. There never have been any life forms on
-     Pyris Seven.
+<tr id="L151"><td><a href="#L151">151</a></td><td>KOROB:  For the moment, merely that you eat and enjoy. Oh, Doctor, do try the wine. You'll find it excellent.</td></tr>
 
-  KOROB
-     It is of no importance that we are not native to
-     this planet. (meow) Oh! I'm told that I've been an
-     inattentive host, gentlemen. You will join me for
-     something to refresh yourselves.
+<tr id="L152"><td><a href="#L152">152</a></td><td>KIRK:  You'll find us most unco-operative unless you start explaining yourself.</td></tr>
 
-  ANNOTATION
-     He leaves his throne and the cat follows.
+<tr id="L153"><td><a href="#L153">153</a></td><td>KOROB:  Hopefully I can change that attitude.</td></tr>
 
-  MCCOY
-     That cat.
+<tr id="L154"><td><a href="#L154">154</a></td><td>ANNOTATION: The food vanishes and their plates are now filled with cut gemstones.</td></tr>
 
-  KIRK
-     That cat.
+<tr id="L155"><td><a href="#L155">155</a></td><td>MCCOY:  These look real.</td></tr>
 
-  SPOCK
-     There are ancient Earth legends about wizards and
-     their familiars.
+<tr id="L156"><td><a href="#L156">156</a></td><td>KOROB:  They are, I assure you. Diamonds, rubies, emeralds, sapphires. All the crystalline forms that you cherish above all things. A fortune of them for each of you if you leave here without further inquiry.</td></tr>
 
-  MCCOY
-     Familiars?
+<tr id="L157"><td><a href="#L157">157</a></td><td>KIRK:  We could manufacture a ton of these on our ship. They mean nothing to us.</td></tr>
 
-  SPOCK
-     Demons in animal forms sent by Satan to serve the
-     wizard.
+<tr id="L158"><td><a href="#L158">158</a></td><td>KOROB:  Valueless? I don't understand. I read</td></tr>
 
-  KIRK
-     Superstition.
+<tr id="L159"><td><a href="#L159">159</a></td><td>KIRK:  Whatever it is you read, you read it wrong. As for leaving, we'll leave when we're ready.</td></tr>
 
-  SPOCK
-     I do not create the legend, Captain. I merely
-     report it.
+<tr id="L160"><td><a href="#L160">160</a></td><td>KOROB:  You are most unpredictable. Perhaps I have made a small mistake. Nevertheless, you have passed the tests.</td></tr>
 
-  KOROB
-     You are the different one, Mister Spock. You do
-     not think like the others. There are no colours to
-     your patterns of logic. There's only black and
-     white. You see all this around you, yet you do not
-     believe.
+<tr id="L161"><td><a href="#L161">161</a></td><td>MCCOY:  Tests?</td></tr>
 
-  MCCOY
-     He doesn't know about trick or treat.
+<tr id="L162"><td><a href="#L162">162</a></td><td>KOROB:  Yes. Our analysis of you may have been in some small way in error, but you were warned to stay away and yet you came to save your comrades. That proves loyalty. Your bravery was tested and you did not frighten. And despite my failure with these bright baubles, I perceive that you cannot be bribed. In many ways you are quite admirable. (meow) Quite right. Go at once, yes.</td></tr>
 
-  KOROB
-     I do not understand that reference, therefore it
-     also is of no importance. Gentlemen, I can be most
-     hospitable.
+<tr id="L163"><td><a href="#L163">163</a></td><td>ANNOTATION: The cat leaves, and a few moments later a dark haired woman in a loose black dress enters the room. She is wearing a pendant like the cat's collar.</td></tr>
 
-  ANNOTATION
-     He waves his wand and the table is loaded with
-     food.
+<tr id="L164"><td><a href="#L164">164</a></td><td>KOROB:  Gentlemen, my colleague. Sylvia.</td></tr>
 
-  SPOCK
-     Ingenious.
+<tr id="L165"><td><a href="#L165">165</a></td><td>SYLVIA:  Doctor McCoy, Mister Spock and Captain Kirk. You wanted to know what we did to your men. Actually it's a simple matter for us to probe the minds of creatures like yourself.</td></tr>
 
-  KOROB
-     Do be seated.
+<tr id="L166"><td><a href="#L166">166</a></td><td>SPOCK:  Mind probing? Hypnosis?</td></tr>
 
-  MCCOY
-     We're not hungry.
+<tr id="L167"><td><a href="#L167">167</a></td><td>SYLVIA:  You like to think of yourselves as complex creatures, but you're flawed. One gains admittance to your minds through many levels. You have too many to keep track of yourselves. There are unguarded entrances to any human mind.</td></tr>
 
-  KOROB
-     But I insist.
+<tr id="L168"><td><a href="#L168">168</a></td><td>SPOCK:  Telepathy?</td></tr>
 
-  ANNOTATION
-     They seat themselves.
+<tr id="L169"><td><a href="#L169">169</a></td><td>SPOCK:  Not entirely, no. Telepathy doesn't imply control and I assure you that I have full control over your friends.</td></tr>
 
-  KIRK
-     All right, Korob. What do you want from us?
+<tr id="L170"><td><a href="#L170">170</a></td><td>ANNOTATION: Kirk gets the phaser off Scott by throwing gems in his face.</td></tr>
 
-  KOROB
-     For the moment, merely that you eat and enjoy. Oh,
-     Doctor, do try the wine. You'll find it excellent.
+<tr id="L171"><td><a href="#L171">171</a></td><td>KIRK:  Don't move! (hands it to Spock) Cover them. Now, I want the rest of our weapons and our equipment. I want some answers.</td></tr>
 
-  KIRK
-     You'll find us most unco-operative unless you
-     start explaining yourself.
+<tr id="L172"><td><a href="#L172">172</a></td><td>SYLVIA:  Put that weapon down! Captain, it seems so foolish of you to insist on demonstrations. (She holds up a model Enterprise on a chain) In the mythology of your race this is called sympathetic magic. Jackson, the crew member who returned to the ship. You wondered what killed him. I made an image of him. In the essence of my thoughts the image was Jackson. And when I killed the image and knew that it was dead, he died.</td></tr>
 
-  KOROB
-     Hopefully I can change that attitude.
+<tr id="L173"><td><a href="#L173">173</a></td><td>KIRK:  You can't think a man to death.</td></tr>
 
-  ANNOTATION
-     The food vanishes and their plates are now filled
-     with cut gemstones.
+<tr id="L174"><td><a href="#L174">174</a></td><td>SYLVIA:  Your communicator. (it appears on the table) Now, signal your ship.</td></tr>
 
-  MCCOY
-     These look real.
+<tr id="L175"><td><a href="#L175">175</a></td><td>ANNOTATION: She moves the model into a candle flame.</td></tr>
 
-  KOROB
-     They are, I assure you. Diamonds, rubies,
-     emeralds, sapphires. All the crystalline forms
-     that you cherish above all things. A fortune of
-     them for each of you if you leave here without
-     further inquiry.
+<tr id="L176"><td><a href="#L176">176</a></td><td>KOROB:  Don't. Sylvia, don't.</td></tr>
 
-  KIRK
-     We could manufacture a ton of these on our ship.
-     They mean nothing to us.
+<tr id="L177"><td><a href="#L177">177</a></td><td>KIRK:  Kirk to Enterprise. Come in. Come in.</td></tr>
 
-  KOROB
-     Valueless? I don't understand. I read
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L178"><td><a href="#L178">178</a></td><td>ANNOTATION: The ship is at Red Alert.</td></tr>
 
-  KIRK
-     Whatever it is you read, you read it wrong. As for
-     leaving, we'll leave when we're ready.
+<tr id="L179"><td><a href="#L179">179</a></td><td>KIRK [OC]:  Enterprise. From Captain Kirk. Come in.</td></tr>
 
-  KOROB
-     You are most unpredictable. Perhaps I have made a
-     small mistake. Nevertheless, you have passed the
-     tests.
+<tr id="L180"><td><a href="#L180">180</a></td><td>UHURA:  Captain, are you all right? Where are you? Are the others all right, sir?</td></tr>
 
-  MCCOY
-     Tests?
+<tr><td></td><td>LOCATION--Drawing room</td></tr>
+<tr id="L181"><td><a href="#L181">181</a></td><td>KIRK:  Never mind about us. What's happening up there?</td></tr>
 
-  KOROB
-     Yes. Our analysis of you may have been in some
-     small way in error, but you were warned to stay
-     away and yet you came to save your comrades. That
-     proves loyalty. Your bravery was tested and you
-     did not frighten. And despite my failure with
-     these bright baubles, I perceive that you cannot
-     be bribed. In many ways you are quite admirable.
-     (meow) Quite right. Go at once, yes.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L182"><td><a href="#L182">182</a></td><td>DESALLE:  The temperature, sir. It keeps rising. Reading, Mister.</td></tr>
 
-  ANNOTATION
-     The cat leaves, and a few moments later a dark
-     haired woman in a loose black dress enters the
-     room. She is wearing a pendant like the cat's
-     collar.
+<tr id="L183"><td><a href="#L183">183</a></td><td>CHEKOV:  It's up sixty degrees in the past thirty seconds. We're burning up, sir.</td></tr>
 
-  KOROB
-     Gentlemen, my colleague. Sylvia.
+<tr><td></td><td>LOCATION--Drawing room</td></tr>
+<tr id="L184"><td><a href="#L184">184</a></td><td>KIRK:  DeSalle, channel bypass power into your heat dissipation units.</td></tr>
 
-  SYLVIA
-     Doctor McCoy, Mister Spock and Captain Kirk. You
-     wanted to know what we did to your men. Actually
-     it's a simple matter for us to probe the minds of
-     creatures like yourself.
+<tr id="L185"><td><a href="#L185">185</a></td><td>DESALLE [OC]:  We've already done it, Captain. It had no effect. We're cooking up here.</td></tr>
 
-  SPOCK
-     Mind probing? Hypnosis?
+<tr id="L186"><td><a href="#L186">186</a></td><td>KIRK:  All right. I'll handle it down here. Kirk out. (taking the model from Sylvia and the phaser from Spock) You've won.</td></tr>
 
-  SYLVIA
-     You like to think of yourselves as complex
-     creatures, but you're flawed. One gains admittance
-     to your minds through many levels. You have too
-     many to keep track of yourselves. There are
-     unguarded entrances to any human mind.
+<tr id="L187"><td><a href="#L187">187</a></td><td>SYLVIA:  You can relax now, Captain. Your ship is safe.</td></tr>
 
-  SPOCK
-     Telepathy?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L188"><td><a href="#L188">188</a></td><td>CHEKOV:  Temperature is almost back to normal, dropping down fast.</td></tr>
 
-  SPOCK
-     Not entirely, no. Telepathy doesn't imply control
-     and I assure you that I have full control over
-     your friends.
+<tr id="L189"><td><a href="#L189">189</a></td><td>DESALLE:  Lieutenant, try to raise the captain again.</td></tr>
 
-  ANNOTATION
-     Kirk gets the phaser off Scott by throwing gems in
-     his face.
+<tr id="L190"><td><a href="#L190">190</a></td><td>UHURA:  Enterprise to Captain Kirk. Come in, please. Enterprise to Captain Kirk. Acknowledge. We've lost him again, Mister DeSalle.</td></tr>
 
-  KIRK
-     Don't move! (hands it to Spock) Cover them. Now, I
-     want the rest of our weapons and our equipment. I
-     want some answers.
+<tr><td></td><td>LOCATION--Drawing room</td></tr>
+<tr id="L191"><td><a href="#L191">191</a></td><td>KOROB:  Captain, you've seen something of our science. Now tell us about yours.</td></tr>
 
-  SYLVIA
-     Put that weapon down! Captain, it seems so foolish
-     of you to insist on demonstrations. (She holds up
-     a model Enterprise on a chain) In the mythology of
-     your race this is called sympathetic magic.
-     Jackson, the crew member who returned to the ship.
-     You wondered what killed him. I made an image of
-     him. In the essence of my thoughts the image was
-     Jackson. And when I killed the image and knew that
-     it was dead, he died.
+<tr id="L192"><td><a href="#L192">192</a></td><td>KIRK:  You seem to be singing a different tune. I'd rather know more about yours. You call it magic, you call it science. It seems unrelated to both of them.</td></tr>
 
-  KIRK
-     You can't think a man to death.
+<tr id="L193"><td><a href="#L193">193</a></td><td>KOROB:  What would you name it, Captain?</td></tr>
 
-  SYLVIA
-     Your communicator. (it appears on the table) Now,
-     signal your ship.
+<tr id="L194"><td><a href="#L194">194</a></td><td>KIRK:  I wouldn't attempt to name it, but you seem to do with your mind what we do with tools. You alter matter, move it about by telekinesis.</td></tr>
 
-  ANNOTATION
-     She moves the model into a candle flame.
+<tr id="L195"><td><a href="#L195">195</a></td><td>KOROB:  Yes, we can change the molecular structure</td></tr>
 
-  KOROB
-     Don't. Sylvia, don't.
+<tr id="L196"><td><a href="#L196">196</a></td><td>SYLVIA:  Korob, you talk too much.</td></tr>
 
-  KIRK
-     Kirk to Enterprise. Come in. Come in.
+<tr id="L197"><td><a href="#L197">197</a></td><td>MCCOY:  You kept Scott and Sulu as catspaws to lure us down here. How'd you know we'd come?</td></tr>
 
+<tr id="L198"><td><a href="#L198">198</a></td><td>KOROB:  Oh, we didn't have to know. They knew.</td></tr>
 
-LOCATION--Bridge
+<tr id="L199"><td><a href="#L199">199</a></td><td>SYLVIA:  Enough of this! You will tell us what we want to know.</td></tr>
 
-  ANNOTATION
-     The ship is at Red Alert.
+<tr id="L200"><td><a href="#L200">200</a></td><td>KIRK:  It's too late for threats. You let me contact the ship. How long do you think it will it be before a search party arrives?</td></tr>
 
-  KIRK [OC]
-     Enterprise. From Captain Kirk. Come in.
+<tr id="L201"><td><a href="#L201">201</a></td><td>KOROB:  Some time, Captain. Quite some time.</td></tr>
 
-  UHURA
-     Captain, are you all right? Where are you? Are the
-     others all right, sir?
+<tr id="L202"><td><a href="#L202">202</a></td><td>ANNOTATION: The model Enterprise is encased in a block of perspex.</td></tr>
 
+<tr id="L203"><td><a href="#L203">203</a></td><td>KOROB:  There will be no search party, Captain Kirk. An impenetrable force field around your ship, Captain. It will not hinder orbit, but your people are prisoners within it.</td></tr>
 
-LOCATION--Drawing room
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L204"><td><a href="#L204">204</a></td><td>CHEKOV:  It's some kind of a force field, sir, but not like any other I've ever heard of before. It's not coming from anywhere. It's simply all around us.</td></tr>
 
-  KIRK
-     Never mind about us. What's happening up there?
+<tr><td></td><td>LOCATION--Drawing room</td></tr>
+<tr id="L205"><td><a href="#L205">205</a></td><td>SYLVIA:  I would advise you to co-operate, Captain. Forcible extraction of the information we wish from you is not complicated, but it is extremely painful and it has a certain draining effect.</td></tr>
 
+<tr id="L206"><td><a href="#L206">206</a></td><td>KIRK:  We have nothing to discuss.</td></tr>
 
-LOCATION--Bridge
+<tr id="L207"><td><a href="#L207">207</a></td><td>KOROB:  Take them to their cell. (gives the phaser to Scott)</td></tr>
 
-  DESALLE
-     The temperature, sir. It keeps rising. Reading,
-     Mister.
+<tr id="L208"><td><a href="#L208">208</a></td><td>SYLVIA:  Wait. The doctor will stay. Your turn will be next, Captain. It makes little difference. Take them out of here.</td></tr>
 
-  CHEKOV
-     It's up sixty degrees in the past thirty seconds.
-     We're burning up, sir.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L209"><td><a href="#L209">209</a></td><td>DESALLE:  Wave length analysis, Mister Chekov?</td></tr>
 
+<tr id="L210"><td><a href="#L210">210</a></td><td>CHEKOV:  It will not analyse, sir.</td></tr>
 
-LOCATION--Drawing room
+<tr id="L211"><td><a href="#L211">211</a></td><td>DESALLE:  All right, but it's there and it's real. If it's real, it can be affected. Engineering, stand by to divert all power systems to the outer hull. Prepare impulse engines for generation of maximum heat directed as ordered. Maybe we can't break it, but I'll bet you credits to navy beans we can put a dent in it.</td></tr>
 
-  KIRK
-     DeSalle, channel bypass power into your heat
-     dissipation units.
+<tr><td></td><td>LOCATION--Dungeon</td></tr>
+<tr id="L212"><td><a href="#L212">212</a></td><td>ANNOTATION: Kirk and Spock are shackled to the wall again.</td></tr>
 
-  DESALLE [OC]
-     We've already done it, Captain. It had no effect.
-     We're cooking up here.
+<tr id="L213"><td><a href="#L213">213</a></td><td>KIRK:  How long has it been?</td></tr>
 
-  KIRK
-     All right. I'll handle it down here. Kirk out.
-     (taking the model from Sylvia and the phaser from
-     Spock) You've won.
+<tr id="L214"><td><a href="#L214">214</a></td><td>SPOCK:  Twenty two minutes, seventeen seconds.</td></tr>
 
-  SYLVIA
-     You can relax now, Captain. Your ship is safe.
+<tr id="L215"><td><a href="#L215">215</a></td><td>KIRK:  Thanks. I wonder what they're doing to Doc.</td></tr>
 
+<tr id="L216"><td><a href="#L216">216</a></td><td>SPOCK:  I'm sure we'll find out shortly. Jim, all of these things that we've seen. To an Earthman like yourself, they must seem quite familiar.</td></tr>
 
-LOCATION--Bridge
+<tr id="L217"><td><a href="#L217">217</a></td><td>KIRK:  Familiar. Startling. Not rational.</td></tr>
 
-  CHEKOV
-     Temperature is almost back to normal, dropping
-     down fast.
+<tr id="L218"><td><a href="#L218">218</a></td><td>SPOCK:  Precisely. I refer you to the psychological theory of the racial subconscious. The universal myths, symbols.</td></tr>
 
-  DESALLE
-     Lieutenant, try to raise the captain again.
+<tr id="L219"><td><a href="#L219">219</a></td><td>KIRK:  Ghosts, witches.</td></tr>
 
-  UHURA
-     Enterprise to Captain Kirk. Come in, please.
-     Enterprise to Captain Kirk. Acknowledge. We've
-     lost him again, Mister DeSalle.
+<tr id="L220"><td><a href="#L220">220</a></td><td>SPOCK:  And dungeons and castles and black cats. They all belong to the twilight world of consciousness.</td></tr>
 
+<tr id="L221"><td><a href="#L221">221</a></td><td>KIRK:  They tried to tap our conscious mind.</td></tr>
 
-LOCATION--Drawing room
+<tr id="L222"><td><a href="#L222">222</a></td><td>SPOCK:  And they missed. They reached basically only the subconscious. Korob seemed puzzled by your reaction to the environment he'd provided.</td></tr>
 
-  KOROB
-     Captain, you've seen something of our science. Now
-     tell us about yours.
+<tr id="L223"><td><a href="#L223">223</a></td><td>KIRK:  He expected me to react as though it were all normal. Well, he admitted that they weren't native to this planet.</td></tr>
 
-  KIRK
-     You seem to be singing a different tune. I'd
-     rather know more about yours. You call it magic,
-     you call it science. It seems unrelated to both of
-     them.
+<tr id="L224"><td><a href="#L224">224</a></td><td>SPOCK:  And not to have a knowledge of our scientific methods is most unlikely for any life form we've met in this galaxy.</td></tr>
 
-  KOROB
-     What would you name it, Captain?
+<tr id="L225"><td><a href="#L225">225</a></td><td>KIRK:  They refer to us as creatures, as though we were some species that they were unfamiliar with. If we're creatures, I wonder what they're really like.</td></tr>
 
-  KIRK
-     I wouldn't attempt to name it, but you seem to do
-     with your mind what we do with tools. You alter
-     matter, move it about by telekinesis.
+<tr id="L226"><td><a href="#L226">226</a></td><td>SPOCK:  Evidently something totally alien in all respects.</td></tr>
 
-  KOROB
-     Yes, we can change the molecular structure
+<tr id="L227"><td><a href="#L227">227</a></td><td>KIRK:  Agreed. Totally alien. And I don't like hostile strangers showing such an acute interest in our galaxy, our world, Spock. Not at all like friendly visitors. We're going to have to stop them, cold. But at the moment</td></tr>
 
-  SYLVIA
-     Korob, you talk too much.
+<tr id="L228"><td><a href="#L228">228</a></td><td>SPOCK:  I, too, am at a loss at this time to suggest a course of action.</td></tr>
 
-  MCCOY
-     You kept Scott and Sulu as catspaws to lure us
-     down here. How'd you know we'd come?
+<tr id="L229"><td><a href="#L229">229</a></td><td>ANNOTATION: The door opens and McCoy enters with Scott and Sulu. He has been zombified. Sulu unchains Kirk.</td></tr>
 
-  KOROB
-     Oh, we didn't have to know. They knew.
+<tr id="L230"><td><a href="#L230">230</a></td><td>KIRK:  Oh, Bones. Doc.</td></tr>
 
-  SYLVIA
-     Enough of this! You will tell us what we want to
-     know.
+<tr><td></td><td>LOCATION--Drawing room</td></tr>
+<tr id="L231"><td><a href="#L231">231</a></td><td>KOROB:  You forget what we were sent here for.</td></tr>
 
-  KIRK
-     It's too late for threats. You let me contact the
-     ship. How long do you think it will it be before a
-     search party arrives?
+<tr id="L232"><td><a href="#L232">232</a></td><td>SYLVIA:  I forget nothing. I'm not a puppet, Korob, like you.</td></tr>
 
-  KOROB
-     Some time, Captain. Quite some time.
+<tr id="L233"><td><a href="#L233">233</a></td><td>KOROB:  You're a traitor.</td></tr>
 
-  ANNOTATION
-     The model Enterprise is encased in a block of
-     perspex.
+<tr id="L234"><td><a href="#L234">234</a></td><td>SYLVIA:  You are a fool. We have nothing like this and I like it. To touch, to feel to understand the idea of luxury I like it. And I don't intend to leave it.</td></tr>
 
-  KOROB
-     There will be no search party, Captain Kirk. An
-     impenetrable force field around your ship,
-     Captain. It will not hinder orbit, but your people
-     are prisoners within it.
+<tr id="L235"><td><a href="#L235">235</a></td><td>KOROB:  We have a duty to the old ones.</td></tr>
 
+<tr id="L236"><td><a href="#L236">236</a></td><td>SYLVIA:  What do they know of sensations? This is a new world.</td></tr>
 
-LOCATION--Bridge
+<tr id="L237"><td><a href="#L237">237</a></td><td>KOROB:  You're cruel. You torture our specimens.</td></tr>
 
-  CHEKOV
-     It's some kind of a force field, sir, but not like
-     any other I've ever heard of before. It's not
-     coming from anywhere. It's simply all around us.
+<tr id="L238"><td><a href="#L238">238</a></td><td>SYLVIA:  And that, too, is a new sensation. I find it stimulating.</td></tr>
 
+<tr id="L239"><td><a href="#L239">239</a></td><td>KOROB:  You're wrong! You're discarding everything we live by.</td></tr>
 
-LOCATION--Drawing room
+<tr id="L240"><td><a href="#L240">240</a></td><td>SYLVIA:  I live by my own decisions. You're a weak fool, Korob.</td></tr>
 
-  SYLVIA
-     I would advise you to co-operate, Captain.
-     Forcible extraction of the information we wish
-     from you is not complicated, but it is extremely
-     painful and it has a certain draining effect.
+<tr id="L241"><td><a href="#L241">241</a></td><td>KOROB:  I have the power.</td></tr>
 
-  KIRK
-     We have nothing to discuss.
+<tr id="L242"><td><a href="#L242">242</a></td><td>SYLVIA:  But you're afraid to use it. Don't threaten me. I can squash you and that would be an interesting sensation, yes. I find I like these new sensations. Don't try to push me.</td></tr>
 
-  KOROB
-     Take them to their cell. (gives the phaser to
-     Scott)
+<tr id="L243"><td><a href="#L243">243</a></td><td>ANNOTATION: The door opens and the group enters.</td></tr>
 
-  SYLVIA
-     Wait. The doctor will stay. Your turn will be
-     next, Captain. It makes little difference. Take
-     them out of here.
+<tr id="L244"><td><a href="#L244">244</a></td><td>SYLVIA:  Captain. It's time for our talk. Korob, leave us alone and take these men with you.</td></tr>
 
+<tr id="L245"><td><a href="#L245">245</a></td><td>ANNOTATION: Korob picks up the communicator and Enterprise from the table.</td></tr>
 
-LOCATION--Bridge
+<tr id="L246"><td><a href="#L246">246</a></td><td>KOROB:  This is not ended, Sylvia.</td></tr>
 
-  DESALLE
-     Wave length analysis, Mister Chekov?
+<tr id="L247"><td><a href="#L247">247</a></td><td>SYLVIA:  But it may end soon, old man.</td></tr>
 
-  CHEKOV
-     It will not analyse, sir.
+<tr id="L248"><td><a href="#L248">248</a></td><td>ANNOTATION: He leaves, followed by McCoy, Scott and Sulu.</td></tr>
 
-  DESALLE
-     All right, but it's there and it's real. If it's
-     real, it can be affected. Engineering, stand by to
-     divert all power systems to the outer hull.
-     Prepare impulse engines for generation of maximum
-     heat directed as ordered. Maybe we can't break it,
-     but I'll bet you credits to navy beans we can put
-     a dent in it.
+<tr id="L249"><td><a href="#L249">249</a></td><td>KIRK:  What now? You wave your magic wand and destroy my mind, too?</td></tr>
 
+<tr id="L250"><td><a href="#L250">250</a></td><td>SYLVIA:  There's no real damage to the mind, Captain, simply a drain of knowledge and will.</td></tr>
 
-LOCATION--Dungeon
+<tr id="L251"><td><a href="#L251">251</a></td><td>KIRK:  You don't call that damage?</td></tr>
 
-  ANNOTATION
-     Kirk and Spock are shackled to the wall again.
+<tr id="L252"><td><a href="#L252">252</a></td><td>SYLVIA:  Why should I?</td></tr>
 
-  KIRK
-     How long has it been?
+<tr id="L253"><td><a href="#L253">253</a></td><td>KIRK:  You'd know if you had compassion. A woman should have compassion, but I forget you're not a woman.</td></tr>
 
-  SPOCK
-     Twenty two minutes, seventeen seconds.
+<tr id="L254"><td><a href="#L254">254</a></td><td>SYLVIA:  But you're mistaken, Captain. I am a woman now. I come from a world without sensation as you and I now know it. It excites me. I want more.</td></tr>
 
-  KIRK
-     Thanks. I wonder what they're doing to Doc.
+<tr id="L255"><td><a href="#L255">255</a></td><td>KIRK:  You seem to need us. Why?</td></tr>
 
-  SPOCK
-     I'm sure we'll find out shortly. Jim, all of these
-     things that we've seen. To an Earthman like
-     yourself, they must seem quite familiar.
+<tr id="L256"><td><a href="#L256">256</a></td><td>SYLVIA:  Because you have knowledge which I lack. but were our abilities put together. Tell me about power, Captain. How does it feel?</td></tr>
 
-  KIRK
-     Familiar. Startling. Not rational.
+<tr id="L257"><td><a href="#L257">257</a></td><td>ANNOTATION: As Korob watches from behind a screen, Kirk puts his hand on her shoulder. He strokes her neck and face.</td></tr>
 
-  SPOCK
-     Precisely. I refer you to the psychological theory
-     of the racial subconscious. The universal myths,
-     symbols.
+<tr id="L258"><td><a href="#L258">258</a></td><td>KIRK:  What about Korob?</td></tr>
 
-  KIRK
-     Ghosts, witches.
+<tr id="L259"><td><a href="#L259">259</a></td><td>SYLVIA:  He is a fool. I'll do without him. But you? Why do I find you different? Why would it be so difficult to dispose of you?</td></tr>
 
-  SPOCK
-     And dungeons and castles and black cats. They all
-     belong to the twilight world of consciousness.
+<tr id="L260"><td><a href="#L260">260</a></td><td>KIRK:  Why don't you simply probe my mind and get what you want?</td></tr>
 
-  KIRK
-     They tried to tap our conscious mind.
+<tr id="L261"><td><a href="#L261">261</a></td><td>SYLVIA:  No, not that, not for you. What I want is a joining. My mind to yours willingly. Think of the secrets you could learn. Think of the power that would be yours. Anything you can imagine, I can give you.</td></tr>
 
-  SPOCK
-     And they missed. They reached basically only the
-     subconscious. Korob seemed puzzled by your
-     reaction to the environment he'd provided.
+<tr id="L262"><td><a href="#L262">262</a></td><td>KIRK:  You're very persuasive. What happens if I go along?</td></tr>
 
-  KIRK
-     He expected me to react as though it were all
-     normal. Well, he admitted that they weren't native
-     to this planet.
+<tr id="L263"><td><a href="#L263">263</a></td><td>SYLVIA:  Then everything would be ours together. I've never conceived of the idea of togetherness before. It excites me. You excite me. Why?</td></tr>
 
-  SPOCK
-     And not to have a knowledge of our scientific
-     methods is most unlikely for any life form we've
-     met in this galaxy.
+<tr id="L264"><td><a href="#L264">264</a></td><td>KIRK:  For the same reasons you excite me. You're a very beautiful woman.</td></tr>
 
-  KIRK
-     They refer to us as creatures, as though we were
-     some species that they were unfamiliar with. If
-     we're creatures, I wonder what they're really
-     like.
+<tr id="L265"><td><a href="#L265">265</a></td><td>ANNOTATION: He kisses her.</td></tr>
 
-  SPOCK
-     Evidently something totally alien in all respects.
+<tr id="L266"><td><a href="#L266">266</a></td><td>SYLVIA:  You find me beautiful? But I can be many women. (now she's blonde teen jail-bait) You like what you see. (a platinum blonde in a loose cat-suit) or do you prefer me as I was?</td></tr>
 
-  KIRK
-     Agreed. Totally alien. And I don't like hostile
-     strangers showing such an acute interest in our
-     galaxy, our world, Spock. Not at all like friendly
-     visitors. We're going to have to stop them, cold.
-     But at the moment
+<tr id="L267"><td><a href="#L267">267</a></td><td>KIRK:  You have a knack for giving me difficult choices. (kisses her again) You have nothing like that where you come from?</td></tr>
 
-  SPOCK
-     I, too, am at a loss at this time to suggest a
-     course of action.
+<tr id="L268"><td><a href="#L268">268</a></td><td>SYLVIA:  Nothing.</td></tr>
 
-  ANNOTATION
-     The door opens and McCoy enters with Scott and
-     Sulu. He has been zombified. Sulu unchains Kirk.
+<tr id="L269"><td><a href="#L269">269</a></td><td>KIRK:  Your people, when they come here</td></tr>
 
-  KIRK
-     Oh, Bones. Doc.
+<tr id="L270"><td><a href="#L270">270</a></td><td>SYLVIA:  They're like, like feathers in the wind without the transmuter.</td></tr>
 
+<tr id="L271"><td><a href="#L271">271</a></td><td>KIRK:  (nuzzling her neck) Transmuter?</td></tr>
 
-LOCATION--Drawing room
+<tr id="L272"><td><a href="#L272">272</a></td><td>SYLVIA:  The source. You will learn. I will teach you later. Later.</td></tr>
 
-  KOROB
-     You forget what we were sent here for.
+<tr id="L273"><td><a href="#L273">273</a></td><td>KIRK:  Then it's a device. You do use tools.</td></tr>
 
-  SYLVIA
-     I forget nothing. I'm not a puppet, Korob, like
-     you.
+<tr id="L274"><td><a href="#L274">274</a></td><td>SYLVIA:  It gives only form. You're teaching me substance.</td></tr>
 
-  KOROB
-     You're a traitor.
+<tr id="L275"><td><a href="#L275">275</a></td><td>KIRK:  You haven't changed your mind? You won't return home?</td></tr>
 
-  SYLVIA
-     You are a fool. We have nothing like this and I
-     like it. To touch, to feel to understand the idea
-     of luxury I like it. And I don't intend to leave
-     it.
+<tr id="L276"><td><a href="#L276">276</a></td><td>SYLVIA:  My home is here with you. A billion worlds of sensation to pick and choose.</td></tr>
 
-  KOROB
-     We have a duty to the old ones.
+<tr id="L277"><td><a href="#L277">277</a></td><td>ANNOTATION: Another kiss, then he lets her go and she realises </td></tr>
 
-  SYLVIA
-     What do they know of sensations? This is a new
-     world.
+<tr id="L278"><td><a href="#L278">278</a></td><td>SYLVIA:  You are using me. You hold me in your arms and there is no fire in your mind. You're trying to deceive me! It's here, (the crystal) like words on a page. You are using me.</td></tr>
 
-  KOROB
-     You're cruel. You torture our specimens.
+<tr id="L279"><td><a href="#L279">279</a></td><td>KIRK:  And why not? You've been using me and my crew.</td></tr>
 
-  SYLVIA
-     And that, too, is a new sensation. I find it
-     stimulating.
+<tr id="L280"><td><a href="#L280">280</a></td><td>ANNOTATION: Enter Sulu, Scott and McCoy.</td></tr>
 
-  KOROB
-     You're wrong! You're discarding everything we live
-     by.
+<tr id="L281"><td><a href="#L281">281</a></td><td>SYLVIA:  You will be swept away. You, your men, your ship, your worlds!</td></tr>
 
-  SYLVIA
-     I live by my own decisions. You're a weak fool,
-     Korob.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L282"><td><a href="#L282">282</a></td><td>UHURA:  I don't see any change.</td></tr>
 
-  KOROB
-     I have the power.
+<tr id="L283"><td><a href="#L283">283</a></td><td>DESALLE:  It's there, Lieutenant.</td></tr>
 
-  SYLVIA
-     But you're afraid to use it. Don't threaten me. I
-     can squash you and that would be an interesting
-     sensation, yes. I find I like these new
-     sensations. Don't try to push me.
+<tr id="L284"><td><a href="#L284">284</a></td><td>CHEKOV:  It was that electrical field we set up, Mister DeSalle, that dent you wanted. It's not much, but it is a start.</td></tr>
 
-  ANNOTATION
-     The door opens and the group enters.
+<tr id="L285"><td><a href="#L285">285</a></td><td>DESALLE:  Keep it up, Mister Chekov. Channel the entire output of reactors one, two, and three into the relay stations. Whatever it is, it's starting to weaken.</td></tr>
 
-  SYLVIA
-     Captain. It's time for our talk. Korob, leave us
-     alone and take these men with you.
+<tr><td></td><td>LOCATION--Dungeon</td></tr>
+<tr id="L286"><td><a href="#L286">286</a></td><td>ANNOTATION: Korob rushes in and releases the prisoners.</td></tr>
 
-  ANNOTATION
-     Korob picks up the communicator and Enterprise
-     from the table.
+<tr id="L287"><td><a href="#L287">287</a></td><td>KOROB:  I've released the model of your ship from the crystal, although they would have freed themselves soon. It's difficult to control so many things in so little time. (hands over phaser and communicator) Here. You must go before she finds the weapon is missing.</td></tr>
 
-  KOROB
-     This is not ended, Sylvia.
+<tr id="L288"><td><a href="#L288">288</a></td><td>KIRK:  I'm not leaving without my men.</td></tr>
 
-  SYLVIA
-     But it may end soon, old man.
+<tr id="L289"><td><a href="#L289">289</a></td><td>KOROB:  They're not your men anymore. They belong to Sylvia. I can no longer control them or her. She's irrational. The strain of adopting to your form, the insatiable desire for sensation and experience. She's a great danger and it was not necessary. We could have entered your galaxy in peace.</td></tr>
 
-  ANNOTATION
-     He leaves, followed by McCoy, Scott and Sulu.
+<tr id="L290"><td><a href="#L290">290</a></td><td>SPOCK:  You came in a ship?</td></tr>
 
-  KIRK
-     What now? You wave your magic wand and destroy my
-     mind, too?
+<tr id="L291"><td><a href="#L291">291</a></td><td>KOROB:  We used the transmuter.</td></tr>
 
-  SYLVIA
-     There's no real damage to the mind, Captain,
-     simply a drain of knowledge and will.
+<tr id="L292"><td><a href="#L292">292</a></td><td>KIRK:  Transmuter. Yes, she mentioned that.</td></tr>
 
-  KIRK
-     You don't call that damage?
+<tr id="L293"><td><a href="#L293">293</a></td><td>KOROB:  There's no time to explain now. She means to destroy us all. There might still be a chance. Quickly. Come.</td></tr>
 
-  SYLVIA
-     Why should I?
+<tr><td></td><td>LOCATION--Castle</td></tr>
+<tr id="L294"><td><a href="#L294">294</a></td><td>ANNOTATION: They go cautiously along the corridors, and a cat's snarl is heard. There on a wall is the shadow of a very large feline.</td></tr>
 
-  KIRK
-     You'd know if you had compassion. A woman should
-     have compassion, but I forget you're not a woman.
+<tr id="L295"><td><a href="#L295">295</a></td><td>SPOCK:  Fascinating.</td></tr>
 
-  SYLVIA
-     But you're mistaken, Captain. I am a woman now. I
-     come from a world without sensation as you and I
-     now know it. It excites me. I want more.
+<tr id="L296"><td><a href="#L296">296</a></td><td>KIRK:  Why a cat?</td></tr>
 
-  KIRK
-     You seem to need us. Why?
+<tr id="L297"><td><a href="#L297">297</a></td><td>SPOCK:  Racial memories. The cat is the most ruthless, most terrifying of animals, as far back as the sabre-toothed tiger.</td></tr>
 
-  SYLVIA
-     Because you have knowledge which I lack. but were
-     our abilities put together. Tell me about power,
-     Captain. How does it feel?
+<tr id="L298"><td><a href="#L298">298</a></td><td>KOROB:  I think I can stop her.</td></tr>
 
-  ANNOTATION
-     As Korob watches from behind a screen, Kirk puts
-     his hand on her shoulder. He strokes her neck and
-     face.
+<tr id="L299"><td><a href="#L299">299</a></td><td>KIRK:  You'd better let us. (draws the phaser) It's out of energy. She must have drained it. We could have jumped Scott and Sulu at any time. We didn't know. No way out.</td></tr>
 
-  KIRK
-     What about Korob?
+<tr id="L300"><td><a href="#L300">300</a></td><td>KOROB:  It's my problem. She's one of my kind. Come quickly.</td></tr>
 
-  SYLVIA
-     He is a fool. I'll do without him. But you? Why do
-     I find you different? Why would it be so difficult
-     to dispose of you?
+<tr id="L301"><td><a href="#L301">301</a></td><td>ANNOTATION: The giant cat pads down the corridor as they retreat back into the dungeon.</td></tr>
 
-  KIRK
-     Why don't you simply probe my mind and get what
-     you want?
+<tr><td></td><td>LOCATION--Dungeon</td></tr>
+<tr id="L302"><td><a href="#L302">302</a></td><td>ANNOTATION: Spock goes to the hole in the ceiling that they originally fell through.</td></tr>
 
-  SYLVIA
-     No, not that, not for you. What I want is a
-     joining. My mind to yours willingly. Think of the
-     secrets you could learn. Think of the power that
-     would be yours. Anything you can imagine, I can
-     give you.
+<tr id="L303"><td><a href="#L303">303</a></td><td>KIRK:  Do you think you can make it?</td></tr>
 
-  KIRK
-     You're very persuasive. What happens if I go
-     along?
+<tr id="L304"><td><a href="#L304">304</a></td><td>SPOCK:  Ready when you are, Captain.</td></tr>
 
-  SYLVIA
-     Then everything would be ours together. I've never
-     conceived of the idea of togetherness before. It
-     excites me. You excite me. Why?
+<tr id="L305"><td><a href="#L305">305</a></td><td>KIRK:  (to Korob) Get ready.</td></tr>
 
-  KIRK
-     For the same reasons you excite me. You're a very
-     beautiful woman.
+<tr id="L306"><td><a href="#L306">306</a></td><td>ANNOTATION: Spock gets out into the corridor above.</td></tr>
 
-  ANNOTATION
-     He kisses her.
+<tr id="L307"><td><a href="#L307">307</a></td><td>KOROB:  No! Get back. Get back. Get back! Get back!</td></tr>
 
-  SYLVIA
-     You find me beautiful? But I can be many women.
-     (now she's blonde teen jail-bait) You like what
-     you see. (a platinum blonde in a loose cat-suit)
-     or do you prefer me as I was?
+<tr id="L308"><td><a href="#L308">308</a></td><td>KIRK:  Korob, that door won't last.</td></tr>
 
-  KIRK
-     You have a knack for giving me difficult choices.
-     (kisses her again) You have nothing like that
-     where you come from?
+<tr id="L309"><td><a href="#L309">309</a></td><td>KOROB:  Get back!</td></tr>
 
-  SYLVIA
-     Nothing.
+<tr id="L310"><td><a href="#L310">310</a></td><td>ANNOTATION: The door is pushed in and he is crushed underneath it. Kirk runs to his aid.</td></tr>
 
-  KIRK
-     Your people, when they come here
+<tr id="L311"><td><a href="#L311">311</a></td><td>KOROB:  Go. Go! (He dies, and Kirk picks up his wand.)</td></tr>
 
-  SYLVIA
-     They're like, like feathers in the wind without
-     the transmuter.
+<tr id="L312"><td><a href="#L312">312</a></td><td>SPOCK:  Quickly, Captain.</td></tr>
 
-  KIRK
-     (nuzzling her neck) Transmuter?
+<tr id="L313"><td><a href="#L313">313</a></td><td>KIRK:  Korob seemed to think this was important. Said something about a transmuter.</td></tr>
 
-  SYLVIA
-     The source. You will learn. I will teach you
-     later. Later.
+<tr id="L314"><td><a href="#L314">314</a></td><td>ANNOTATION: He throws the wand up to Spock.</td></tr>
 
-  KIRK
-     Then it's a device. You do use tools.
+<tr id="L315"><td><a href="#L315">315</a></td><td>SPOCK:  Captain, a bit more alacrity, if you please.</td></tr>
 
-  SYLVIA
-     It gives only form. You're teaching me substance.
+<tr id="L316"><td><a href="#L316">316</a></td><td>ANNOTATION: Kirk uses a bed frame as a trampoline to help him reach the hole, and Spock pulls him the rest of the way.</td></tr>
 
-  KIRK
-     You haven't changed your mind? You won't return
-     home?
+<tr><td></td><td>LOCATION--Castle</td></tr>
+<tr id="L317"><td><a href="#L317">317</a></td><td>SPOCK:  Captain.</td></tr>
 
-  SYLVIA
-     My home is here with you. A billion worlds of
-     sensation to pick and choose.
+<tr id="L318"><td><a href="#L318">318</a></td><td>ANNOTATION: McCoy arrives to take a swing at them with a morning-star. Kirk fights with him as Spock takes on Scott. Kirk knocks McCoy out.</td></tr>
 
-  ANNOTATION
-     Another kiss, then he lets her go and she realises
+<tr id="L319"><td><a href="#L319">319</a></td><td>KIRK:  Doc.</td></tr>
 
-  SYLVIA
-     You are using me. You hold me in your arms and
-     there is no fire in your mind. You're trying to
-     deceive me! It's here, (the crystal) like words on
-     a page. You are using me.
+<tr id="L320"><td><a href="#L320">320</a></td><td>ANNOTATION: Then Sulu arrives. Spock neck-pinches Scott. Kirk parries Sulu's martial arts attack until he can throw him against a door, when he is knocked out.</td></tr>
 
-  KIRK
-     And why not? You've been using me and my crew.
+<tr id="L321"><td><a href="#L321">321</a></td><td>SPOCK:  Jim!</td></tr>
 
-  ANNOTATION
-     Enter Sulu, Scott and McCoy.
+<tr id="L322"><td><a href="#L322">322</a></td><td>ANNOTATION: McCoy has awakened only to get knocked out again.</td></tr>
 
-  SYLVIA
-     You will be swept away. You, your men, your ship,
-     your worlds!
+<tr id="L323"><td><a href="#L323">323</a></td><td>KIRK:  Well, at least we found them.</td></tr>
 
+<tr id="L324"><td><a href="#L324">324</a></td><td>SPOCK:  Fortuitous, Captain. And now that we have them all together? (the cat arrives) A most unpleasant situation, Captain. If only your phaser had some power.</td></tr>
 
-LOCATION--Bridge
+<tr id="L325"><td><a href="#L325">325</a></td><td>KIRK:  Maybe we do. (he gets the wand) Sylvia, I have the transmuter. It's mine now.</td></tr>
 
-  UHURA
-     I don't see any change.
+<tr id="L326"><td><a href="#L326">326</a></td><td>SYLVIA:  You're very clever, Captain. More so than I'd imagined. Clever, resourceful and handsome.</td></tr>
 
-  DESALLE
-     It's there, Lieutenant.
+<tr id="L327"><td><a href="#L327">327</a></td><td>SPOCK:  Don't let her touch the wand, Captain.</td></tr>
 
-  CHEKOV
-     It was that electrical field we set up, Mister
-     DeSalle, that dent you wanted. It's not much, but
-     it is a start.
+<tr id="L328"><td><a href="#L328">328</a></td><td>ANNOTATION: She strokes her pendant, and she and Kirk vanish.</td></tr>
 
-  DESALLE
-     Keep it up, Mister Chekov. Channel the entire
-     output of reactors one, two, and three into the
-     relay stations. Whatever it is, it's starting to
-     weaken.
+<tr id="L329"><td><a href="#L329">329</a></td><td>SPOCK:  Jim!</td></tr>
 
+<tr><td></td><td>LOCATION--Drawing room</td></tr>
+<tr id="L330"><td><a href="#L330">330</a></td><td>KIRK:  Don't you get tired of these games?</td></tr>
 
-LOCATION--Dungeon
+<tr id="L331"><td><a href="#L331">331</a></td><td>SYLVIA:  I've never played games. Give it to me.</td></tr>
 
-  ANNOTATION
-     Korob rushes in and releases the prisoners.
+<tr id="L332"><td><a href="#L332">332</a></td><td>KIRK:  I wasn't sure before, but I am now. This is the source of your power, isn't it. The transmuter.</td></tr>
 
-  KOROB
-     I've released the model of your ship from the
-     crystal, although they would have freed themselves
-     soon. It's difficult to control so many things in
-     so little time. (hands over phaser and
-     communicator) Here. You must go before she finds
-     the weapon is missing.
+<tr id="L333"><td><a href="#L333">333</a></td><td>SYLVIA:  No, not the source. It's merely an amplifier. The mind is the source. Mine is simple, but yours has the key but you don't know how to use it.</td></tr>
 
-  KIRK
-     I'm not leaving without my men.
+<tr id="L334"><td><a href="#L334">334</a></td><td>KIRK:  I catch on quickly.</td></tr>
 
-  KOROB
-     They're not your men anymore. They belong to
-     Sylvia. I can no longer control them or her. She's
-     irrational. The strain of adopting to your form,
-     the insatiable desire for sensation and
-     experience. She's a great danger and it was not
-     necessary. We could have entered your galaxy in
-     peace.
+<tr id="L335"><td><a href="#L335">335</a></td><td>SYLVIA:  It is not too late, Captain James Kirk. Come with me. I'll teach you. You'll teach me.</td></tr>
 
-  SPOCK
-     You came in a ship?
+<tr id="L336"><td><a href="#L336">336</a></td><td>KIRK:  Why? Because your people have nothing of your own? Is that why you need us?</td></tr>
 
-  KOROB
-     We used the transmuter.
+<tr id="L337"><td><a href="#L337">337</a></td><td>SYLVIA:  We need your dreams, your ambition. With them, I can build. Give me the transmuter.</td></tr>
 
-  KIRK
-     Transmuter. Yes, she mentioned that.
+<tr id="L338"><td><a href="#L338">338</a></td><td>KIRK:  No.</td></tr>
 
-  KOROB
-     There's no time to explain now. She means to
-     destroy us all. There might still be a chance.
-     Quickly. Come.
+<tr id="L339"><td><a href="#L339">339</a></td><td>SYLVIA:  You fool. Don't you know what you're giving up? Everything that your species finds desirable. Look at me. I am a woman. I am all women.</td></tr>
 
+<tr id="L340"><td><a href="#L340">340</a></td><td>KIRK:  I don't know what you are but you're not a woman. You've tortured my men and taken their minds from them. You ask for love and return pain instead.</td></tr>
 
-LOCATION--Castle
+<tr id="L341"><td><a href="#L341">341</a></td><td>SYLVIA:  (holding a phaser) Korob was wrong. I didn't destroy all your weapons. Give me the transmuter. Give it to me!</td></tr>
 
-  ANNOTATION
-     They go cautiously along the corridors, and a
-     cat's snarl is heard. There on a wall is the
-     shadow of a very large feline.
+<tr id="L342"><td><a href="#L342">342</a></td><td>ANNOTATION: Kirk smashes the wand against the table, and there is a blinding blue light.</td></tr>
 
-  SPOCK
-     Fascinating.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L343"><td><a href="#L343">343</a></td><td>ANNOTATION: Kirk is standing on the rocks holding a phaser. Spock approaches wearing his tricorder. McCoy, Scott and Sulu follow him.</td></tr>
 
-  KIRK
-     Why a cat?
+<tr id="L344"><td><a href="#L344">344</a></td><td>MCCOY:  What happened, Jim?</td></tr>
 
-  SPOCK
-     Racial memories. The cat is the most ruthless,
-     most terrifying of animals, as far back as the
-     sabre-toothed tiger.
+<tr id="L345"><td><a href="#L345">345</a></td><td>KIRK:  That'll take some explaining, Bones.</td></tr>
 
-  KOROB
-     I think I can stop her.
+<tr id="L346"><td><a href="#L346">346</a></td><td>SCOTT:  Everything's vanished.</td></tr>
 
-  KIRK
-     You'd better let us. (draws the phaser) It's out
-     of energy. She must have drained it. We could have
-     jumped Scott and Sulu at any time. We didn't know.
-     No way out.
+<tr id="L347"><td><a href="#L347">347</a></td><td>KIRK:  Not everything.</td></tr>
 
-  KOROB
-     It's my problem. She's one of my kind. Come
-     quickly.
+<tr id="L348"><td><a href="#L348">348</a></td><td>ANNOTATION: By his feet are two tiny blue fluffy creatures with stick-thin arms and legs, and squid's tentacles for faces.</td></tr>
 
-  ANNOTATION
-     The giant cat pads down the corridor as they
-     retreat back into the dungeon.
+<tr id="L349"><td><a href="#L349">349</a></td><td>KIRK:  Korob and Sylvia as they really are. Their forms were an illusion, just like the castle and everything else. Only the power pack gave them reality.</td></tr>
 
+<tr id="L350"><td><a href="#L350">350</a></td><td>SPOCK:  Fascinating. A life form totally alien to our galaxy. If we could preserve and study this</td></tr>
 
-LOCATION--Dungeon
+<tr id="L351"><td><a href="#L351">351</a></td><td>ANNOTATION: But the little puppets collapse and die. Smoke rises from the bodies.</td></tr>
 
-  ANNOTATION
-     Spock goes to the hole in the ceiling that they
-     originally fell through.
+<tr id="L352"><td><a href="#L352">352</a></td><td>MCCOY:  Too late. All of this, just an illusion.</td></tr>
 
-  KIRK
-     Do you think you can make it?
+<tr id="L353"><td><a href="#L353">353</a></td><td>KIRK:  No illusion. Jackson is dead. Kirk to Enterprise. Come in.</td></tr>
 
-  SPOCK
-     Ready when you are, Captain.
+<tr id="L354"><td><a href="#L354">354</a></td><td>UHURA [OC]:  Standing by, Captain.</td></tr>
 
-  KIRK
-     (to Korob) Get ready.
+<tr id="L355"><td><a href="#L355">355</a></td><td>KIRK:  Five to beam up.</td></tr>
 
-  ANNOTATION
-     Spock gets out into the corridor above.
-
-  KOROB
-     No! Get back. Get back. Get back! Get back!
-
-  KIRK
-     Korob, that door won't last.
-
-  KOROB
-     Get back!
-
-  ANNOTATION
-     The door is pushed in and he is crushed underneath
-     it. Kirk runs to his aid.
-
-  KOROB
-     Go. Go! (He dies, and Kirk picks up his wand.)
-
-  SPOCK
-     Quickly, Captain.
-
-  KIRK
-     Korob seemed to think this was important. Said
-     something about a transmuter.
-
-  ANNOTATION
-     He throws the wand up to Spock.
-
-  SPOCK
-     Captain, a bit more alacrity, if you please.
-
-  ANNOTATION
-     Kirk uses a bed frame as a trampoline to help him
-     reach the hole, and Spock pulls him the rest of
-     the way.
-
-
-LOCATION--Castle
-
-  SPOCK
-     Captain.
-
-  ANNOTATION
-     McCoy arrives to take a swing at them with a
-     morning-star. Kirk fights with him as Spock takes
-     on Scott. Kirk knocks McCoy out.
-
-  KIRK
-     Doc.
-
-  ANNOTATION
-     Then Sulu arrives. Spock neck-pinches Scott. Kirk
-     parries Sulu's martial arts attack until he can
-     throw him against a door, when he is knocked out.
-
-  SPOCK
-     Jim!
-
-  ANNOTATION
-     McCoy has awakened only to get knocked out again.
-
-  KIRK
-     Well, at least we found them.
-
-  SPOCK
-     Fortuitous, Captain. And now that we have them all
-     together? (the cat arrives) A most unpleasant
-     situation, Captain. If only your phaser had some
-     power.
-
-  KIRK
-     Maybe we do. (he gets the wand) Sylvia, I have the
-     transmuter. It's mine now.
-
-  SYLVIA
-     You're very clever, Captain. More so than I'd
-     imagined. Clever, resourceful and handsome.
-
-  SPOCK
-     Don't let her touch the wand, Captain.
-
-  ANNOTATION
-     She strokes her pendant, and she and Kirk vanish.
-
-  SPOCK
-     Jim!
-
-
-LOCATION--Drawing room
-
-  KIRK
-     Don't you get tired of these games?
-
-  SYLVIA
-     I've never played games. Give it to me.
-
-  KIRK
-     I wasn't sure before, but I am now. This is the
-     source of your power, isn't it. The transmuter.
-
-  SYLVIA
-     No, not the source. It's merely an amplifier. The
-     mind is the source. Mine is simple, but yours has
-     the key but you don't know how to use it.
-
-  KIRK
-     I catch on quickly.
-
-  SYLVIA
-     It is not too late, Captain James Kirk. Come with
-     me. I'll teach you. You'll teach me.
-
-  KIRK
-     Why? Because your people have nothing of your own?
-     Is that why you need us?
-
-  SYLVIA
-     We need your dreams, your ambition. With them, I
-     can build. Give me the transmuter.
-
-  KIRK
-     No.
-
-  SYLVIA
-     You fool. Don't you know what you're giving up?
-     Everything that your species finds desirable. Look
-     at me. I am a woman. I am all women.
-
-  KIRK
-     I don't know what you are but you're not a woman.
-     You've tortured my men and taken their minds from
-     them. You ask for love and return pain instead.
-
-  SYLVIA
-     (holding a phaser) Korob was wrong. I didn't
-     destroy all your weapons. Give me the transmuter.
-     Give it to me!
-
-  ANNOTATION
-     Kirk smashes the wand against the table, and there
-     is a blinding blue light.
-
-
-LOCATION--Planet surface
-
-  ANNOTATION
-     Kirk is standing on the rocks holding a phaser.
-     Spock approaches wearing his tricorder. McCoy,
-     Scott and Sulu follow him.
-
-  MCCOY
-     What happened, Jim?
-
-  KIRK
-     That'll take some explaining, Bones.
-
-  SCOTT
-     Everything's vanished.
-
-  KIRK
-     Not everything.
-
-  ANNOTATION
-     By his feet are two tiny blue fluffy creatures
-     with stick-thin arms and legs, and squid's
-     tentacles for faces.
-
-  KIRK
-     Korob and Sylvia as they really are. Their forms
-     were an illusion, just like the castle and
-     everything else. Only the power pack gave them
-     reality.
-
-  SPOCK
-     Fascinating. A life form totally alien to our
-     galaxy. If we could preserve and study this
-
-  ANNOTATION
-     But the little puppets collapse and die. Smoke
-     rises from the bodies.
-
-  MCCOY
-     Too late. All of this, just an illusion.
-
-  KIRK
-     No illusion. Jackson is dead. Kirk to Enterprise.
-     Come in.
-
-  UHURA [OC]
-     Standing by, Captain.
-
-  KIRK
-     Five to beam up.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

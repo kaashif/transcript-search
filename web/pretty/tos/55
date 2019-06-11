@@ -1,1828 +1,902 @@
-Assignment: Earth
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Assignment: Earth</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: The ship rocks as if being hit by something.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>KIRK:  Alert status. Force shields on maximum. Leslie, begin sensor scan.</td></tr>
 
-  ANNOTATION
-     The ship rocks as if being hit by something.
+<tr id="L3"><td><a href="#L3">3</a></td><td>SPOCK [OC]:  Transporter room to Captain.</td></tr>
 
-  KIRK
-     Alert status. Force shields on maximum. Leslie,
-     begin sensor scan.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L4"><td><a href="#L4">4</a></td><td>KIRK [OC]:  Kirk here. What's happening?</td></tr>
 
-  SPOCK [OC]
-     Transporter room to Captain.
+<tr id="L5"><td><a href="#L5">5</a></td><td>SPOCK:  It appears we have accidentally intercepted someone's transporter beam, Captain.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L6"><td><a href="#L6">6</a></td><td>SPOCK [OC]:  It's incredibly powerful.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L7"><td><a href="#L7">7</a></td><td>KIRK:  It's impossible. The twentieth century had no such</td></tr>
 
-  KIRK [OC]
-     Kirk here. What's happening?
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L8"><td><a href="#L8">8</a></td><td>SPOCK:  Captain, something is beaming aboard this vessel.</td></tr>
 
-  SPOCK
-     It appears we have accidentally intercepted
-     someone's transporter beam, Captain.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L9"><td><a href="#L9">9</a></td><td>KIRK:  I'll be right there.</td></tr>
 
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L10"><td><a href="#L10">10</a></td><td>SPOCK:  The beam is originating at least one thousand light years away.</td></tr>
 
-LOCATION--Bridge
+<tr id="L11"><td><a href="#L11">11</a></td><td>SCOTT:  No transporter beam can reach that far, not even in our century.</td></tr>
 
-  SPOCK [OC]
-     It's incredibly powerful.
+<tr id="L12"><td><a href="#L12">12</a></td><td>ANNOTATION: Kirk enters.</td></tr>
 
-  KIRK
-     It's impossible. The twentieth century had no such
+<tr id="L13"><td><a href="#L13">13</a></td><td>KIRK:  Something is shaking us apart.</td></tr>
 
+<tr id="L14"><td><a href="#L14">14</a></td><td>SCOTT:  It's locked, it's locked our circuits wide open.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L15"><td><a href="#L15">15</a></td><td>ANNOTATION: One of the transporter pads has activated.</td></tr>
 
-  SPOCK
-     Captain, something is beaming aboard this vessel.
+<tr id="L16"><td><a href="#L16">16</a></td><td>KIRK:  You're right. Something is beaming aboard.</td></tr>
 
+<tr id="L17"><td><a href="#L17">17</a></td><td>ANNOTATION: It's a man in a dark suit, holding a black cat. He steps down from the platform and speaks calmly.</td></tr>
 
-LOCATION--Bridge
+<tr id="L18"><td><a href="#L18">18</a></td><td>SEVEN:  Why have you intercepted me?</td></tr>
 
-  KIRK
-     I'll be right there.
+<tr id="L19"><td><a href="#L19">19</a></td><td>KIRK:  Security.</td></tr>
 
+<tr id="L20"><td><a href="#L20">20</a></td><td>SECURITY [OC]:  Security.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L21"><td><a href="#L21">21</a></td><td>KIRK:  Transporter room, on the double.</td></tr>
 
-  SPOCK
-     The beam is originating at least one thousand
-     light years away.
+<tr id="L22"><td><a href="#L22">22</a></td><td>SECURITY [OC]:  On our way, sir.</td></tr>
 
-  SCOTT
-     No transporter beam can reach that far, not even
-     in our century.
+<tr id="L23"><td><a href="#L23">23</a></td><td>SEVEN:  Please identify yourselves.</td></tr>
 
-  ANNOTATION
-     Kirk enters.
+<tr id="L24"><td><a href="#L24">24</a></td><td>KIRK:  This is the United Spaceship Enterprise. I'm Captain Kirk, commanding.</td></tr>
 
-  KIRK
-     Something is shaking us apart.
+<tr id="L25"><td><a href="#L25">25</a></td><td>SEVEN:  (to the cat) Yes, I heard him, Isis. We're aboard a space vessel. From what planet?</td></tr>
 
-  SCOTT
-     It's locked, it's locked our circuits wide open.
+<tr id="L26"><td><a href="#L26">26</a></td><td>KIRK:  Earth.</td></tr>
 
-  ANNOTATION
-     One of the transporter pads has activated.
+<tr id="L27"><td><a href="#L27">27</a></td><td>SEVEN:  That's impossible. In this time period, there weren't (notices Spock) Humans with a Vulcan? You're from the future, Captain. You're going to have to beam me down to Earth immediately.</td></tr>
 
-  KIRK
-     You're right. Something is beaming aboard.
+<tr id="L28"><td><a href="#L28">28</a></td><td>ANNOTATION: Security arrive.</td></tr>
 
-  ANNOTATION
-     It's a man in a dark suit, holding a black cat. He
-     steps down from the platform and speaks calmly.
+<tr id="L29"><td><a href="#L29">29</a></td><td>KIRK:  Phasers on stun.</td></tr>
 
-  SEVEN
-     Why have you intercepted me?
+<tr id="L30"><td><a href="#L30">30</a></td><td>SEVEN:  Careful, Isis. All right. Captain Kirk. My name is Gary Seven. I am a human being from the twentieth century. I was on my way</td></tr>
 
-  KIRK
-     Security.
+<tr id="L31"><td><a href="#L31">31</a></td><td>KIRK:  Humans of the twentieth century do not go beaming around the galaxy, Mister Seven.</td></tr>
 
-  SECURITY [OC]
-     Security.
+<tr id="L32"><td><a href="#L32">32</a></td><td>SEVEN:  I've been living on another planet far more advanced. I was beaming to Earth when you intercepted me.</td></tr>
 
-  KIRK
-     Transporter room, on the double.
+<tr id="L33"><td><a href="#L33">33</a></td><td>KIRK:  The location of that planet?</td></tr>
 
-  SECURITY [OC]
-     On our way, sir.
+<tr id="L34"><td><a href="#L34">34</a></td><td>SEVEN:  They wish their existence kept secret. Even in your time, it will remain unknown.</td></tr>
 
-  SEVEN
-     Please identify yourselves.
+<tr id="L35"><td><a href="#L35">35</a></td><td>SCOTT:  It's impossible to hide a whole planet.</td></tr>
 
-  KIRK
-     This is the United Spaceship Enterprise. I'm
-     Captain Kirk, commanding.
+<tr id="L36"><td><a href="#L36">36</a></td><td>SEVEN:  Impossible for you, not for them. Captain Kirk, I am of this time period. You are not. You interfere with me with what I have to do there, and you'll change history. You'll destroy the Earth and probably yourselves, too.</td></tr>
 
-  SEVEN
-     (to the cat) Yes, I heard him, Isis. We're aboard
-     a space vessel. From what planet?
+<tr id="L37"><td><a href="#L37">37</a></td><td>SPOCK:  If what he says is true, Captain, every second we delay him could be dangerous.</td></tr>
 
-  KIRK
-     Earth.
+<tr id="L38"><td><a href="#L38">38</a></td><td>KIRK:  And if he's lying?</td></tr>
 
-  SEVEN
-     That's impossible. In this time period, there
-     weren't (notices Spock) Humans with a Vulcan?
-     You're from the future, Captain. You're going to
-     have to beam me down to Earth immediately.
+<tr id="L39"><td><a href="#L39">39</a></td><td>SEVEN:  This is the most critical period in Earth's history. The planet I'm from wants to help Earth survive.</td></tr>
 
-  ANNOTATION
-     Security arrive.
+<tr id="L40"><td><a href="#L40">40</a></td><td>KIRK:  What if it turns out you're an invading alien from the future?</td></tr>
 
-  KIRK
-     Phasers on stun.
+<tr id="L41"><td><a href="#L41">41</a></td><td>SPOCK:  A most difficult decision, Captain.</td></tr>
 
-  SEVEN
-     Careful, Isis. All right. Captain Kirk. My name is
-     Gary Seven. I am a human being from the twentieth
-     century. I was on my way
+<tr id="L42"><td><a href="#L42">42</a></td><td>KIRK:  I can't beam you down without further proof one way or the other. Security confinement.</td></tr>
 
-  KIRK
-     Humans of the twentieth century do not go beaming
-     around the galaxy, Mister Seven.
+<tr id="L43"><td><a href="#L43">43</a></td><td>SECURITY:  This way, please.</td></tr>
 
-  SEVEN
-     I've been living on another planet far more
-     advanced. I was beaming to Earth when you
-     intercepted me.
+<tr id="L44"><td><a href="#L44">44</a></td><td>KIRK:  Sickbay.</td></tr>
 
-  KIRK
-     The location of that planet?
+<tr id="L45"><td><a href="#L45">45</a></td><td>MCCOY [OC]:  McCoy here.</td></tr>
 
-  SEVEN
-     They wish their existence kept secret. Even in
-     your time, it will remain unknown.
+<tr id="L46"><td><a href="#L46">46</a></td><td>SOMEONE: (Seven attacks the security men. Spock neck-pinches him but is thrown off.</td></tr>
 
-  SCOTT
-     It's impossible to hide a whole planet.
+<tr id="L47"><td><a href="#L47">47</a></td><td>MCCOY [OC]:  Jim. Jim! Jim. What's going on there?</td></tr>
 
-  SEVEN
-     Impossible for you, not for them. Captain Kirk, I
-     am of this time period. You are not. You interfere
-     with me with what I have to do there, and you'll
-     change history. You'll destroy the Earth and
-     probably yourselves, too.
+<tr id="L48"><td><a href="#L48">48</a></td><td>ANNOTATION: Kirk gets a phaser and stuns Seven as he starts to work the transporter controls.</td></tr>
 
-  SPOCK
-     If what he says is true, Captain, every second we
-     delay him could be dangerous.
+<tr id="L49"><td><a href="#L49">49</a></td><td>MCCOY [OC]:  Sickbay to transporter room.</td></tr>
 
-  KIRK
-     And if he's lying?
+<tr><td></td><td>LOCATION--McCoy's office</td></tr>
+<tr id="L50"><td><a href="#L50">50</a></td><td>MCCOY:  Jim, what's going on down there?</td></tr>
 
-  SEVEN
-     This is the most critical period in Earth's
-     history. The planet I'm from wants to help Earth
-     survive.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L51"><td><a href="#L51">51</a></td><td>KIRK:  Bones, check the prisoner you'll find in security confinement. I want a medical analysis fast. Is he or isn't he human?</td></tr>
 
-  KIRK
-     What if it turns out you're an invading alien from
-     the future?
+<tr id="L52"><td><a href="#L52">52</a></td><td>SOMEONE: Captain's log, supplemental. A man in a twentieth century business suit. What is he? Not even Spock's Vulcan neck pinch could stop him. Without our phasers, he would have over powered all five of us. I find it difficult to believe the mysterious Mister Seven can be human, and yet, suppose he is?</td></tr>
 
-  SPOCK
-     A most difficult decision, Captain.
+<tr><td></td><td>LOCATION--Briefing room</td></tr>
+<tr id="L53"><td><a href="#L53">53</a></td><td>ANNOTATION: Spock is stroking the cat, who is purring.</td></tr>
 
-  KIRK
-     I can't beam you down without further proof one
-     way or the other. Security confinement.
+<tr id="L54"><td><a href="#L54">54</a></td><td>KIRK:  What do you make of the cat, Mister Spock?</td></tr>
 
-  SECURITY
-     This way, please.
+<tr id="L55"><td><a href="#L55">55</a></td><td>SPOCK:  Quite a lovely animal, Captain. I find myself strangely drawn to it.</td></tr>
 
-  KIRK
-     Sickbay.
+<tr id="L56"><td><a href="#L56">56</a></td><td>KIRK:  This is the captain. All science, engineering, and supervisory personnel, lock into the briefing room. Our next decision can be of enormous consequence, not only to us but to Earth's entire future. You've already been given as much information as we have. Please break in at any time with analysis of that information. Navigation report.</td></tr>
 
-  MCCOY [OC]
-     McCoy here.
+<tr id="L57"><td><a href="#L57">57</a></td><td>CHEKOV [on monitor]:  We have analysed the direction of his beam, sir. Our star maps show no habitable planets in that area of the galaxy.</td></tr>
 
-  SOMEONE
-     (Seven attacks the security men. Spock
-     neck-pinches him but is thrown off.
+<tr id="L58"><td><a href="#L58">58</a></td><td>SPOCK:  He did say his planet was hidden, Captain.</td></tr>
 
-  MCCOY [OC]
-     Jim. Jim! Jim. What's going on there?
+<tr id="L59"><td><a href="#L59">59</a></td><td>KIRK:  Engineering.</td></tr>
 
-  ANNOTATION
-     Kirk gets a phaser and stuns Seven as he starts to
-     work the transporter controls.
+<tr id="L60"><td><a href="#L60">60</a></td><td>SCOTT [on monitor]:  Still unable to analyze it, sir. It was so powerful, it fused most of our recording circuits. Could have brought him back through great distances, could have brought him back through time. There's no way for us to know.</td></tr>
 
-  MCCOY [OC]
-     Sickbay to transporter room.
+<tr id="L61"><td><a href="#L61">61</a></td><td>KIRK:  Mister Spock, historical report.</td></tr>
 
+<tr id="L62"><td><a href="#L62">62</a></td><td>SPOCK:  Current Earth crises would fill a tape bank, Captain. There will be an important assassination today, an equally dangerous government coup in Asia, and, this could be highly critical, the launching of an orbital nuclear warhead platform by the United States countering a similar launch by other powers.</td></tr>
 
-LOCATION--McCoy's office
+<tr id="L63"><td><a href="#L63">63</a></td><td>KIRK:  Weren't orbital nuclear devices one of this era's greatest problems?</td></tr>
 
-  MCCOY
-     Jim, what's going on down there?
+<tr id="L64"><td><a href="#L64">64</a></td><td>SPOCK:  Most definitely. Once the sky was full of orbiting H-bombs, the slightest mistake could have brought one down by accident, setting off a nuclear holocaust.</td></tr>
 
+<tr><td></td><td>LOCATION--McCoy's office</td></tr>
+<tr id="L65"><td><a href="#L65">65</a></td><td>MCCOY:  McCoy here.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L66"><td><a href="#L66">66</a></td><td>KIRK [OC]:  Bones, hurry with that report. Join me in the briefing room with your analysis.</td></tr>
 
-  KIRK
-     Bones, check the prisoner you'll find in security
-     confinement. I want a medical analysis fast. Is he
-     or isn't he human?
+<tr id="L67"><td><a href="#L67">67</a></td><td>MCCOY:  Acknowledged.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. A man in a twentieth
-     century business suit. What is he? Not even
-     Spock's Vulcan neck pinch could stop him. Without
-     our phasers, he would have over powered all five
-     of us. I find it difficult to believe the
-     mysterious Mister Seven can be human, and yet,
-     suppose he is?
+<tr><td></td><td>LOCATION--Brig</td></tr>
+<tr id="L68"><td><a href="#L68">68</a></td><td>ANNOTATION: Seven tests the forcefield blocking the doorway. Then, behind the guard's back, he takes a pen from his pocket and turns it into a device that shuts the forcefield off. He also uses it to stop the guard from shooting him.</td></tr>
 
+<tr id="L69"><td><a href="#L69">69</a></td><td>SEVEN:  You're tired. Go to sleep.</td></tr>
 
-LOCATION--Briefing room
+<tr id="L70"><td><a href="#L70">70</a></td><td>ANNOTATION: The guard slides down the wall with a grin on his face as Seven makes his escape.</td></tr>
 
-  ANNOTATION
-     Spock is stroking the cat, who is purring.
+<tr><td></td><td>LOCATION--Briefing room</td></tr>
+<tr id="L71"><td><a href="#L71">71</a></td><td>MCCOY:  Well, I must admit the sensor readings seem too good. Human readings, yes, but not a single physical flaw. Totally perfect body.</td></tr>
 
-  KIRK
-     What do you make of the cat, Mister Spock?
+<tr id="L72"><td><a href="#L72">72</a></td><td>KIRK:  If an alien needed a body.</td></tr>
 
-  SPOCK
-     Quite a lovely animal, Captain. I find myself
-     strangely drawn to it.
+<tr id="L73"><td><a href="#L73">73</a></td><td>SPOCK:  He might be inclined to prepare a perfect one, Captain. But then again he may be telling the truth.</td></tr>
 
-  KIRK
-     This is the captain. All science, engineering, and
-     supervisory personnel, lock into the briefing
-     room. Our next decision can be of enormous
-     consequence, not only to us but to Earth's entire
-     future. You've already been given as much
-     information as we have. Please break in at any
-     time with analysis of that information. Navigation
-     report.
+<tr id="L74"><td><a href="#L74">74</a></td><td>KIRK:  Gentlemen, I need proof. All you're telling me is that on the one hand he may be lying and on the other</td></tr>
 
-  CHEKOV [on monitor]
-     We have analysed the direction of his beam, sir.
-     Our star maps show no habitable planets in that
-     area of the galaxy.
+<tr id="L75"><td><a href="#L75">75</a></td><td>ANNOTATION: The cat exits the room.</td></tr>
 
-  SPOCK
-     He did say his planet was hidden, Captain.
+<tr id="L76"><td><a href="#L76">76</a></td><td>SECURITY [OC]:  Security alert. All decks alert. The prisoner has escaped. All decks alert.</td></tr>
 
-  KIRK
-     Engineering.
+<tr id="L77"><td><a href="#L77">77</a></td><td>KIRK:  This is the Captain. Inform us</td></tr>
 
-  SCOTT [on monitor]
-     Still unable to analyze it, sir. It was so
-     powerful, it fused most of our recording circuits.
-     Could have brought him back through great
-     distances, could have brought him back through
-     time. There's no way for us to know.
+<tr id="L78"><td><a href="#L78">78</a></td><td>UHURA [OC]:  Bridge to Captain, transporter circuits show someone preparing to beam down.</td></tr>
 
-  KIRK
-     Mister Spock, historical report.
+<tr id="L79"><td><a href="#L79">79</a></td><td>KIRK:  Try to override. Shut it off!</td></tr>
 
-  SPOCK
-     Current Earth crises would fill a tape bank,
-     Captain. There will be an important assassination
-     today, an equally dangerous government coup in
-     Asia, and, this could be highly critical, the
-     launching of an orbital nuclear warhead platform
-     by the United States countering a similar launch
-     by other powers.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L80"><td><a href="#L80">80</a></td><td>ANNOTATION: The cat arrives as Seven finishes setting the controls.</td></tr>
 
-  KIRK
-     Weren't orbital nuclear devices one of this era's
-     greatest problems?
+<tr id="L81"><td><a href="#L81">81</a></td><td>SEVEN:  I know, Isis. But we'll be gone before they get here.</td></tr>
 
-  SPOCK
-     Most definitely. Once the sky was full of orbiting
-     H-bombs, the slightest mistake could have brought
-     one down by accident, setting off a nuclear
-     holocaust.
+<tr id="L82"><td><a href="#L82">82</a></td><td>ANNOTATION: They beam away just as Kirk, McCoy and Spock dash into the room.</td></tr>
 
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L83"><td><a href="#L83">83</a></td><td>ANNOTATION: A display case full of glasses splits in two, revealing a massive safe door behind it. The locking wheel turns, the safe door opens and Gary Seven carrying Isis the cat walks out of a fog into the main room. The safe door shuts itself behind him and is hidden again behind the shelves of glasses. Seven goes to the window and looks down onto a street filled with people and traffic.</td></tr>
 
-LOCATION--McCoy's office
+<tr id="L84"><td><a href="#L84">84</a></td><td>SEVEN:  You're right, Isis. It is primitive. It's incredible that people can exist like this. At least we won't have to. Not for long. Computer on.</td></tr>
 
-  MCCOY
-     McCoy here.
+<tr id="L85"><td><a href="#L85">85</a></td><td>ANNOTATION: A bookcase swings open to reveal a black screen, circular monitor and control panel.</td></tr>
 
-  KIRK [OC]
-     Bones, hurry with that report. Join me in the
-     briefing room with your analysis.
+<tr id="L86"><td><a href="#L86">86</a></td><td>COMPUTER:  (high-pitched staccato female) Computer on.</td></tr>
 
-  MCCOY
-     Acknowledged.
+<tr id="L87"><td><a href="#L87">87</a></td><td>SEVEN:  Specify locations of agents two oh one and three four seven.</td></tr>
 
+<tr id="L88"><td><a href="#L88">88</a></td><td>COMPUTER:  Identify self.</td></tr>
 
-LOCATION--Brig
+<tr id="L89"><td><a href="#L89">89</a></td><td>SEVEN:  Simply check my voice pattern. You'll find me listed as Supervisor one nine four. Code name Gary Seven.</td></tr>
 
-  ANNOTATION
-     Seven tests the forcefield blocking the doorway.
-     Then, behind the guard's back, he takes a pen from
-     his pocket and turns it into a device that shuts
-     the forcefield off. He also uses it to stop the
-     guard from shooting him.
+<tr id="L90"><td><a href="#L90">90</a></td><td>COMPUTER:  Voice pattern matches, but I have no listing of a Gary Seven assigned this planet.</td></tr>
 
-  SEVEN
-     You're tired. Go to sleep.
+<tr id="L91"><td><a href="#L91">91</a></td><td>SEVEN:  Computer, I am a class one supervisor. You are ordered to override previous instructions and answer my questions.</td></tr>
 
-  ANNOTATION
-     The guard slides down the wall with a grin on his
-     face as Seven makes his escape.
+<tr id="L92"><td><a href="#L92">92</a></td><td>COMPUTER:  I am a Beta Five computer capable of analytical decisions. Please confirm identity as supervisor by describing nature of agents and mission here.</td></tr>
 
+<tr id="L93"><td><a href="#L93">93</a></td><td>SEVEN:  Computer, I caution you. I have little love for Beta Five snobbery. Override. All right. Agents are male and female, descendants of human ancestors taken from Earth approximately six thousand years ago. They're the product of generations of training for this mission. Problem. Earth technology and science have progressed faster than political and social knowledge. Purpose of mission. To prevent Earth's civilisation from destroying itself before it can mature into a peaceful society.</td></tr>
 
-LOCATION--Briefing room
+<tr id="L94"><td><a href="#L94">94</a></td><td>COMPUTER:  Incomplete but sufficient. Location of agents unreported for three days.</td></tr>
 
-  MCCOY
-     Well, I must admit the sensor readings seem too
-     good. Human readings, yes, but not a single
-     physical flaw. Totally perfect body.
+<tr id="L95"><td><a href="#L95">95</a></td><td>SEVEN:  Why didn't you say so in the first place? No, don't answer that. Simply begin search immediately. Recheck all news broadcasts, decode any government intercepted message</td></tr>
 
-  KIRK
-     If an alien needed a body.
+<tr id="L96"><td><a href="#L96">96</a></td><td>COMPUTER:  I am aware of proper search procedures, one nine four.</td></tr>
 
-  SPOCK
-     He might be inclined to prepare a perfect one,
-     Captain. But then again he may be telling the
-     truth.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L97"><td><a href="#L97">97</a></td><td>ANNOTATION: There are no clouds at all over North and Central Africa, the Middle East and into the Indian subcontinent as the Enterprise orbits Earth. No green vegetation either.</td></tr>
 
-  KIRK
-     Gentlemen, I need proof. All you're telling me is
-     that on the one hand he may be lying and on the
-     other
+<tr id="L98"><td><a href="#L98">98</a></td><td>SCOTT:  We can estimate only within a thousand metres or so where he beamed down, Captain.</td></tr>
 
-  ANNOTATION
-     The cat exits the room.
+<tr id="L99"><td><a href="#L99">99</a></td><td>KIRK:  If we beam down, can you compare our position with his control setting?</td></tr>
 
-  SECURITY [OC]
-     Security alert. All decks alert. The prisoner has
-     escaped. All decks alert.
+<tr id="L100"><td><a href="#L100">100</a></td><td>SCOTT:  Aye.</td></tr>
 
-  KIRK
-     This is the Captain. Inform us
+<tr id="L101"><td><a href="#L101">101</a></td><td>SPOCK:  Following him down is a major risk, Captain. If we ourselves do anything that changes history</td></tr>
 
-  UHURA [OC]
-     Bridge to Captain, transporter circuits show
-     someone preparing to beam down.
+<tr id="L102"><td><a href="#L102">102</a></td><td>KIRK:  I'm aware of that. But I must know if he's lying, and we can't answer that sitting up here. Have ship's stores prepare the proper costumes. Stand by to beam us down.</td></tr>
 
-  KIRK
-     Try to override. Shut it off!
+<tr><td></td><td>LOCATION--Apartment -main room</td></tr>
+<tr id="L103"><td><a href="#L103">103</a></td><td>COMPUTER:  In response to nuclear warhead placed in suborbit by other major power, United States today launching suborbital platform with multi-warhead capacity. Purpose, to maintain balance of power.</td></tr>
 
+<tr id="L104"><td><a href="#L104">104</a></td><td>SEVEN:  That's the same kind of nonsense that almost destroyed planet Omicron Four.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L105"><td><a href="#L105">105</a></td><td>COMPUTER:  Analysis correct. Earth situation similar. Mission of agents two oh one and three four seven. Set malfunction on United States rocket.</td></tr>
 
-  ANNOTATION
-     The cat arrives as Seven finishes setting the
-     controls.
+<tr id="L106"><td><a href="#L106">106</a></td><td>SEVEN:  Progress of mission Has the rocket been set to malfunction?</td></tr>
 
-  SEVEN
-     I know, Isis. But we'll be gone before they get
-     here.
+<tr id="L107"><td><a href="#L107">107</a></td><td>COMPUTER:  Negative. No progress.</td></tr>
 
-  ANNOTATION
-     They beam away just as Kirk, McCoy and Spock dash
-     into the room.
+<tr id="L108"><td><a href="#L108">108</a></td><td>SEVEN:  How much time before launch?</td></tr>
 
+<tr id="L109"><td><a href="#L109">109</a></td><td>COMPUTER:  Exactly one hour, twenty seven minutes, twelve seconds.</td></tr>
 
-LOCATION--Apartment - main room
+<tr id="L110"><td><a href="#L110">110</a></td><td>SEVEN:  Computer, record the following. Unless agents are found immediately, I must undertake their mission.</td></tr>
 
-  ANNOTATION
-     A display case full of glasses splits in two,
-     revealing a massive safe door behind it. The
-     locking wheel turns, the safe door opens and Gary
-     Seven carrying Isis the cat walks out of a fog
-     into the main room. The safe door shuts itself
-     behind him and is hidden again behind the shelves
-     of glasses. Seven goes to the window and looks
-     down onto a street filled with people and traffic.
+<tr><td></td><td>LOCATION--Street</td></tr>
+<tr id="L111"><td><a href="#L111">111</a></td><td>ANNOTATION: Kirk and Spock have managed to beam down in suits and overcoats (and woolly hat for Spock of course</td></tr>
 
-  SEVEN
-     You're right, Isis. It is primitive. It's
-     incredible that people can exist like this. At
-     least we won't have to. Not for long. Computer on.
+<tr id="L112"><td><a href="#L112">112</a></td><td>KIRK:  Scotty, lock in on our position.</td></tr>
 
-  ANNOTATION
-     A bookcase swings open to reveal a black screen,
-     circular monitor and control panel.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L113"><td><a href="#L113">113</a></td><td>KIRK [OC]:  Lead us to him.</td></tr>
 
-  COMPUTER
-     (high-pitched staccato female) Computer on.
+<tr id="L114"><td><a href="#L114">114</a></td><td>SCOTT:  Locked in. Proceed one nine five degrees true.</td></tr>
 
-  SEVEN
-     Specify locations of agents two oh one and three
-     four seven.
+<tr><td></td><td>LOCATION--Apartment - office</td></tr>
+<tr id="L115"><td><a href="#L115">115</a></td><td>ANNOTATION: The computer is fabricating identity papers for Seven, as a Colonel with the CIA, a Lieutenant in the NYPD and a Colonel with the NSA. It has also produced a map of McKinley Rocket Base. Then a young woman in an orange and purple mini-dress lets herself into an adjoining room.</td></tr>
 
-  COMPUTER
-     Identify self.
+<tr id="L116"><td><a href="#L116">116</a></td><td>ROBERTA:  Hello? Anybody here? Looks like your lucky day, Roberta. They can't dock you if they don't know you're late.</td></tr>
 
-  SEVEN
-     Simply check my voice pattern. You'll find me
-     listed as Supervisor one nine four. Code name Gary
-     Seven.
+<tr id="L117"><td><a href="#L117">117</a></td><td>ANNOTATION: Seven comes in from the main room.</td></tr>
 
-  COMPUTER
-     Voice pattern matches, but I have no listing of a
-     Gary Seven assigned this planet.
+<tr id="L118"><td><a href="#L118">118</a></td><td>SEVEN:  Where have you been?</td></tr>
 
-  SEVEN
-     Computer, I am a class one supervisor. You are
-     ordered to override previous instructions and
-     answer my questions.
+<tr id="L119"><td><a href="#L119">119</a></td><td>ROBERTA:  Oh, the subway got stalled</td></tr>
 
-  COMPUTER
-     I am a Beta Five computer capable of analytical
-     decisions. Please confirm identity as supervisor
-     by describing nature of agents and mission here.
+<tr id="L120"><td><a href="#L120">120</a></td><td>SEVEN:  Where have you been for the past three days?</td></tr>
 
-  SEVEN
-     Computer, I caution you. I have little love for
-     Beta Five snobbery. Override. All right. Agents
-     are male and female, descendants of human
-     ancestors taken from Earth approximately six
-     thousand years ago. They're the product of
-     generations of training for this mission. Problem.
-     Earth technology and science have progressed
-     faster than political and social knowledge.
-     Purpose of mission. To prevent Earth's
-     civilisation from destroying itself before it can
-     mature into a peaceful society.
+<tr id="L121"><td><a href="#L121">121</a></td><td>ROBERTA:  Now, wait a minute. Why should I tell you? Who are you, anyway?</td></tr>
 
-  COMPUTER
-     Incomplete but sufficient. Location of agents
-     unreported for three days.
+<tr id="L122"><td><a href="#L122">122</a></td><td>SEVEN:  Where's three four seven?</td></tr>
 
-  SEVEN
-     Why didn't you say so in the first place? No,
-     don't answer that. Simply begin search
-     immediately. Recheck all news broadcasts, decode
-     any government intercepted message
+<tr id="L123"><td><a href="#L123">123</a></td><td>ROBERTA:  With three four eight?</td></tr>
 
-  COMPUTER
-     I am aware of proper search procedures, one nine
-     four.
+<tr id="L124"><td><a href="#L124">124</a></td><td>SEVEN:  Two oh one, code responses are not necessary.</td></tr>
 
+<tr id="L125"><td><a href="#L125">125</a></td><td>ROBERTA:  Listen, friend, maybe I'd just better call the police right now.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L126"><td><a href="#L126">126</a></td><td>SEVEN:  Sit down.</td></tr>
 
-  ANNOTATION
-     There are no clouds at all over North and Central
-     Africa, the Middle East and into the Indian
-     subcontinent as the Enterprise orbits Earth. No
-     green vegetation either.
+<tr id="L127"><td><a href="#L127">127</a></td><td>ROBERTA:  Who do you think you are?</td></tr>
 
-  SCOTT
-     We can estimate only within a thousand metres or
-     so where he beamed down, Captain.
+<tr id="L128"><td><a href="#L128">128</a></td><td>SEVEN:  I said sit down.</td></tr>
 
-  KIRK
-     If we beam down, can you compare our position with
-     his control setting?
+<tr id="L129"><td><a href="#L129">129</a></td><td>ROBERTA:  Okay, I will.</td></tr>
 
-  SCOTT
-     Aye.
+<tr id="L130"><td><a href="#L130">130</a></td><td>SEVEN:  I'll say one thing for you. You play your role well. But that is no longer necessary. I'm Supervisor one nine four, code name Gary Seven. I need a complete report</td></tr>
 
-  SPOCK
-     Following him down is a major risk, Captain. If we
-     ourselves do anything that changes history
+<tr id="L131"><td><a href="#L131">131</a></td><td>ROBERTA:  Report.</td></tr>
 
-  KIRK
-     I'm aware of that. But I must know if he's lying,
-     and we can't answer that sitting up here. Have
-     ship's stores prepare the proper costumes. Stand
-     by to beam us down.
+<tr id="L132"><td><a href="#L132">132</a></td><td>SEVEN:  Yes, report. Everything you have done for the past three Earth days.</td></tr>
 
+<tr id="L133"><td><a href="#L133">133</a></td><td>ANNOTATION: He gestures to the typewriter.</td></tr>
 
-LOCATION--Apartment -main room
+<tr id="L134"><td><a href="#L134">134</a></td><td>ROBERTA:  Oh. Everything I've done?</td></tr>
 
-  COMPUTER
-     In response to nuclear warhead placed in suborbit
-     by other major power, United States today
-     launching suborbital platform with multi-warhead
-     capacity. Purpose, to maintain balance of power.
+<tr id="L135"><td><a href="#L135">135</a></td><td>SEVEN:  Everything you've done.</td></tr>
 
-  SEVEN
-     That's the same kind of nonsense that almost
-     destroyed planet Omicron Four.
+<tr id="L136"><td><a href="#L136">136</a></td><td>ROBERTA:  Well, okay. (puts a sheet of paper in it.) Well, let's see.</td></tr>
 
-  COMPUTER
-     Analysis correct. Earth situation similar. Mission
-     of agents two oh one and three four seven. Set
-     malfunction on United States rocket.
+<tr id="L137"><td><a href="#L137">137</a></td><td>SEVEN:  Not with your fingers.</td></tr>
 
-  SEVEN
-     Progress of mission Has the rocket been set to
-     malfunction?
+<tr id="L138"><td><a href="#L138">138</a></td><td>ANNOTATION: He flicks a switch on the side of the machine.</td></tr>
 
-  COMPUTER
-     Negative. No progress.
+<tr id="L139"><td><a href="#L139">139</a></td><td>ROBERTA:  Well, how do you expect me to type, with my nose? Did you see that? The machine typed everything I. It's typing everything I'm saying! Stop it. Stop it! Stop it! (He turns it off.) Okay. That does it. I quit!</td></tr>
 
-  SEVEN
-     How much time before launch?
+<tr id="L140"><td><a href="#L140">140</a></td><td>SEVEN:  Wait a minute.</td></tr>
 
-  COMPUTER
-     Exactly one hour, twenty seven minutes, twelve
-     seconds.
+<tr id="L141"><td><a href="#L141">141</a></td><td>ROBERTA:  I'm quitting right now!</td></tr>
 
-  SEVEN
-     Computer, record the following. Unless agents are
-     found immediately, I must undertake their mission.
+<tr id="L142"><td><a href="#L142">142</a></td><td>SEVEN:  You're not acting, are you?</td></tr>
 
+<tr id="L143"><td><a href="#L143">143</a></td><td>ROBERTA:  Acting? I'm leaving. Goodbye. (Seven locks the door remotely with his pen.) Hey. Hey!</td></tr>
 
-LOCATION--Street
+<tr id="L144"><td><a href="#L144">144</a></td><td>ANNOTATION: Seven activates a green cube on the desk.</td></tr>
 
-  ANNOTATION
-     Kirk and Spock have managed to beam down in suits
-     and overcoats (and woolly hat for Spock of course
+<tr id="L145"><td><a href="#L145">145</a></td><td>SEVEN:  Tie in to computer.</td></tr>
 
-  KIRK
-     Scotty, lock in on our position.
+<tr id="L146"><td><a href="#L146">146</a></td><td>COMPUTER:  Computer on.</td></tr>
 
+<tr id="L147"><td><a href="#L147">147</a></td><td>SEVEN:  Scan unidentified female present.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L148"><td><a href="#L148">148</a></td><td>COMPUTER:  Roberta Lincoln. Human. Profession, secretary. Employed by three four seven and two oh one. Description. Age twenty, five feet seven inches, one hundred twenty pounds, hair presently tinted honey blonde. Although behaviour appears erratic, possesses high IQ. Birthmarks</td></tr>
 
-  KIRK [OC]
-     Lead us to him.
+<tr id="L149"><td><a href="#L149">149</a></td><td>ROBERTA:  Hey.</td></tr>
 
-  SCOTT
-     Locked in. Proceed one nine five degrees true.
+<tr id="L150"><td><a href="#L150">150</a></td><td>COMPUTER:  Small mole on left shoulder. Somewhat larger star-shaped mark on her</td></tr>
 
+<tr id="L151"><td><a href="#L151">151</a></td><td>ROBERTA:  Hey, watch it! Okay, I'll bite. What is it?</td></tr>
 
-LOCATION--Apartment - office
+<tr id="L152"><td><a href="#L152">152</a></td><td>SEVEN:  Miss Lincoln. Miss Lincoln, What kind of work did your employers say they were doing here?</td></tr>
 
-  ANNOTATION
-     The computer is fabricating identity papers for
-     Seven, as a Colonel with the CIA, a Lieutenant in
-     the NYPD and a Colonel with the NSA. It has also
-     produced a map of McKinley Rocket Base. Then a
-     young woman in an orange and purple mini-dress
-     lets herself into an adjoining room.
+<tr id="L153"><td><a href="#L153">153</a></td><td>ROBERTA:  Research for a new encyclopaedia? No? No.</td></tr>
 
-  ROBERTA
-     Hello? Anybody here? Looks like your lucky day,
-     Roberta. They can't dock you if they don't know
-     you're late.
+<tr id="L154"><td><a href="#L154">154</a></td><td>SEVEN:  All right. You can go. Of course, if you do, you won't be helping your country. Unless you don't care about that.</td></tr>
 
-  ANNOTATION
-     Seven comes in from the main room.
+<tr id="L155"><td><a href="#L155">155</a></td><td>ROBERTA:  Sure, I care. What do you think I am?</td></tr>
 
-  SEVEN
-     Where have you been?
+<tr id="L156"><td><a href="#L156">156</a></td><td>SEVEN:  I don't know, Miss Lincoln, what you are, not yet. All I know is that my incompetence has made you aware of very secret devices that are vital to the security of this nation.</td></tr>
 
-  ROBERTA
-     Oh, the subway got stalled
+<tr id="L157"><td><a href="#L157">157</a></td><td>ROBERTA:  Oh. Well, what are you guys around here, anyway? FBI? Some kind of government agents, huh? (The cat enters as he hands her one of his new IDs) CIA. Very groovy.</td></tr>
 
-  SEVEN
-     Where have you been for the past three days?
+<tr id="L158"><td><a href="#L158">158</a></td><td>SEVEN:  Thank you, Isis. I'll be right in. (Isis leaves) It's a trained cat, Just like guard dogs, that kind of thing.</td></tr>
 
-  ROBERTA
-     Now, wait a minute. Why should I tell you? Who are
-     you, anyway?
+<tr id="L159"><td><a href="#L159">159</a></td><td>ROBERTA:  Yeah?</td></tr>
 
-  SEVEN
-     Where's three four seven?
+<tr id="L160"><td><a href="#L160">160</a></td><td>SEVEN:  Don't let anybody in here. I'll be busy.</td></tr>
 
-  ROBERTA
-     With three four eight?
+<tr id="L161"><td><a href="#L161">161</a></td><td>ROBERTA:  Okay.</td></tr>
 
-  SEVEN
-     Two oh one, code responses are not necessary.
+<tr><td></td><td>LOCATION--Street</td></tr>
+<tr id="L162"><td><a href="#L162">162</a></td><td>ANNOTATION: Outside the apartment building.</td></tr>
 
-  ROBERTA
-     Listen, friend, maybe I'd just better call the
-     police right now.
+<tr id="L163"><td><a href="#L163">163</a></td><td>KIRK:  Scotty,</td></tr>
 
-  SEVEN
-     Sit down.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L164"><td><a href="#L164">164</a></td><td>KIRK [OC]:  Triangulate on this location.</td></tr>
 
-  ROBERTA
-     Who do you think you are?
+<tr id="L165"><td><a href="#L165">165</a></td><td>SCOTT:  Correlated. Readings indicate a greater altitude. Approximately thirty metres higher, sir.</td></tr>
 
-  SEVEN
-     I said sit down.
+<tr><td></td><td>LOCATION--Street</td></tr>
+<tr id="L166"><td><a href="#L166">166</a></td><td>KIRK:  Out.</td></tr>
 
-  ROBERTA
-     Okay, I will.
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L167"><td><a href="#L167">167</a></td><td>COMPUTER:  Occurrence, automobile accident. Location Highway nine four nine, ten miles north of McKinley Rocket Base. Agents three four seven and two oh one were killed instantly.</td></tr>
 
-  SEVEN
-     I'll say one thing for you. You play your role
-     well. But that is no longer necessary. I'm
-     Supervisor one nine four, code name Gary Seven. I
-     need a complete report
+<tr id="L168"><td><a href="#L168">168</a></td><td>SEVEN:  That just doesn't make sense. For them to die in something as useless as an automobile accident. Are the facts verified?</td></tr>
 
-  ROBERTA
-     Report.
+<tr id="L169"><td><a href="#L169">169</a></td><td>COMPUTER:  Verified. Descriptions of bodies are exact.</td></tr>
 
-  SEVEN
-     Yes, report. Everything you have done for the past
-     three Earth days.
+<tr><td></td><td>LOCATION--Apartment building</td></tr>
+<tr id="L170"><td><a href="#L170">170</a></td><td>ANNOTATION: Kirk and Spock step out of the elevator by apartment 12A</td></tr>
 
-  ANNOTATION
-     He gestures to the typewriter.
+<tr id="L171"><td><a href="#L171">171</a></td><td>KIRK:  Go ahead, Scotty.</td></tr>
 
-  ROBERTA
-     Oh. Everything I've done?
+<tr id="L172"><td><a href="#L172">172</a></td><td>SCOTT:  Proceed five metres, two four seven degrees true.</td></tr>
 
-  SEVEN
-     Everything you've done.
+<tr id="L173"><td><a href="#L173">173</a></td><td>ANNOTATION: They arrive outside 12B, and Kirk rings the doorbell.</td></tr>
 
-  ROBERTA
-     Well, okay. (puts a sheet of paper in it.) Well,
-     let's see.
+<tr><td></td><td>LOCATION--Apartment - office</td></tr>
+<tr id="L174"><td><a href="#L174">174</a></td><td>SEVEN:  Computer off.</td></tr>
 
-  SEVEN
-     Not with your fingers.
+<tr id="L175"><td><a href="#L175">175</a></td><td>ANNOTATION: Roberta answers the door to the office as the computer hides behind the bookcase again.</td></tr>
 
-  ANNOTATION
-     He flicks a switch on the side of the machine.
+<tr id="L176"><td><a href="#L176">176</a></td><td>SOMEONE: KIRK; Where's Mister Seven?</td></tr>
 
-  ROBERTA
-     Well, how do you expect me to type, with my nose?
-     Did you see that? The machine typed everything I.
-     It's typing everything I'm saying! Stop it. Stop
-     it! Stop it! (He turns it off.) Okay. That does
-     it. I quit!
+<tr id="L177"><td><a href="#L177">177</a></td><td>ROBERTA:  I don't know what you're talking about. Listen, you guys can't come in here.</td></tr>
 
-  SEVEN
-     Wait a minute.
+<tr id="L178"><td><a href="#L178">178</a></td><td>KIRK:  Where's Mister Seven?</td></tr>
 
-  ROBERTA
-     I'm quitting right now!
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L179"><td><a href="#L179">179</a></td><td>ANNOTATION: Seven activates the safe-cum-transporter.</td></tr>
 
-  SEVEN
-     You're not acting, are you?
+<tr id="L180"><td><a href="#L180">180</a></td><td>ROBERTA [OC]:  You can't come in here. Now, get out. What do you think you're doing? This is a government office.</td></tr>
 
-  ROBERTA
-     Acting? I'm leaving. Goodbye. (Seven locks the
-     door remotely with his pen.) Hey. Hey!
+<tr id="L181"><td><a href="#L181">181</a></td><td>ANNOTATION: Seven picks up Isis and leaves.</td></tr>
 
-  ANNOTATION
-     Seven activates a green cube on the desk.
+<tr><td></td><td>LOCATION--Apartment - office</td></tr>
+<tr id="L182"><td><a href="#L182">182</a></td><td>ROBERTA:  Neither one of you can come in here.</td></tr>
 
-  SEVEN
-     Tie in to computer.
+<tr id="L183"><td><a href="#L183">183</a></td><td>KIRK:  Where's Mister Seven?</td></tr>
 
-  COMPUTER
-     Computer on.
+<tr id="L184"><td><a href="#L184">184</a></td><td>ROBERTA:  This is against the rules.</td></tr>
 
-  SEVEN
-     Scan unidentified female present.
+<tr id="L185"><td><a href="#L185">185</a></td><td>SPOCK:  In here, Captain. (at door to main room)</td></tr>
 
-  COMPUTER
-     Roberta Lincoln. Human. Profession, secretary.
-     Employed by three four seven and two oh one.
-     Description. Age twenty, five feet seven inches,
-     one hundred twenty pounds, hair presently tinted
-     honey blonde. Although behaviour appears erratic,
-     possesses high IQ. Birthmarks
+<tr id="L186"><td><a href="#L186">186</a></td><td>ROBERTA:  What do you think you're doing? You want me to (picks up the telephone) Send the police. Eight Eleven East Sixty Eighth Street, apartment twelve B.</td></tr>
 
-  ROBERTA
-     Hey.
+<tr id="L187"><td><a href="#L187">187</a></td><td>KIRK:  Give me the phone.</td></tr>
 
-  COMPUTER
-     Small mole on left shoulder. Somewhat larger
-     star-shaped mark on her
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L188"><td><a href="#L188">188</a></td><td>ANNOTATION: Seven is setting the dial on the 'safe'</td></tr>
 
-  ROBERTA
-     Hey, watch it! Okay, I'll bite. What is it?
+<tr id="L189"><td><a href="#L189">189</a></td><td>ROBERTA [OC]:  No, get your hands off of me, you big jerk! Who do you think you are? Let go!</td></tr>
 
-  SEVEN
-     Miss Lincoln. Miss Lincoln, What kind of work did
-     your employers say they were doing here?
+<tr><td></td><td>LOCATION--Apartment - office</td></tr>
+<tr id="L190"><td><a href="#L190">190</a></td><td>ANNOTATION: There's a physical tussle going on between Kirk and Roberta.</td></tr>
 
-  ROBERTA
-     Research for a new encyclopaedia? No? No.
+<tr id="L191"><td><a href="#L191">191</a></td><td>ROBERTA:  What do you think you're doing, you big jerk? What's the big idea?</td></tr>
 
-  SEVEN
-     All right. You can go. Of course, if you do, you
-     won't be helping your country. Unless you don't
-     care about that.
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L192"><td><a href="#L192">192</a></td><td>ROBERTA [OC]:  Mister Seven, help! Help!</td></tr>
 
-  ROBERTA
-     Sure, I care. What do you think I am?
+<tr><td></td><td>LOCATION--Apartment - office</td></tr>
+<tr id="L193"><td><a href="#L193">193</a></td><td>ANNOTATION: Spock takes over from Kirk in manhandling Roberta.</td></tr>
 
-  SEVEN
-     I don't know, Miss Lincoln, what you are, not yet.
-     All I know is that my incompetence has made you
-     aware of very secret devices that are vital to the
-     security of this nation.
+<tr id="L194"><td><a href="#L194">194</a></td><td>ROBERTA:  Let go of me! Stop it! Don't go in there! What's the big idea? Get your hands off of me! I mean it!</td></tr>
 
-  ROBERTA
-     Oh. Well, what are you guys around here, anyway?
-     FBI? Some kind of government agents, huh? (The cat
-     enters as he hands her one of his new IDs) CIA.
-     Very groovy.
+<tr id="L195"><td><a href="#L195">195</a></td><td>SOMEONE: (She pulls off his hat and sees his ears and eyebrows.) What are you?</td></tr>
 
-  SEVEN
-     Thank you, Isis. I'll be right in. (Isis leaves)
-     It's a trained cat, Just like guard dogs, that
-     kind of thing.
+<tr id="L196"><td><a href="#L196">196</a></td><td>ANNOTATION: Kirk blasts open the connecting door as Seven dematerialises and the safe shuts itself.</td></tr>
 
-  ROBERTA
-     Yeah?
+<tr><td></td><td>LOCATION--McKinley Rocket Base</td></tr>
+<tr id="L197"><td><a href="#L197">197</a></td><td>SOMEONE: (Carrying Isis, Seven walks out of Assembly Area B-10 hangar - warning, liquid hydrogen - into the early morning sunshine. Or late afternoon. The shadows are fairly long.</td></tr>
 
-  SEVEN
-     Don't let anybody in here. I'll be busy.
+<tr id="L198"><td><a href="#L198">198</a></td><td>TANNOY:  Attention. Stand by for launch area clearance. It is now sixty minutes to launch. T minus sixty and counting.</td></tr>
 
-  ROBERTA
-     Okay.
+<tr id="L199"><td><a href="#L199">199</a></td><td>ANNOTATION: And the big white US rocket stands gleaming on its launch gantry.</td></tr>
 
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L200"><td><a href="#L200">200</a></td><td>ANNOTATION: Kirk finds the plans to the rocket base lying on the table.</td></tr>
 
-LOCATION--Street
+<tr><td></td><td>LOCATION--Apartment - office</td></tr>
+<tr id="L201"><td><a href="#L201">201</a></td><td>KIRK:  Where's Mister Seven?</td></tr>
 
-  ANNOTATION
-     Outside the apartment building.
+<tr id="L202"><td><a href="#L202">202</a></td><td>ROBERTA:  I'm warning you, I've already called the police.</td></tr>
 
-  KIRK
-     Scotty,
+<tr id="L203"><td><a href="#L203">203</a></td><td>KIRK:  Plans to McKinley Rocket Base.</td></tr>
 
+<tr><td></td><td>LOCATION--Apartment building corridor</td></tr>
+<tr id="L204"><td><a href="#L204">204</a></td><td>POLICE 1:  There it is, Charlie. Open up in there. Police.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L205"><td><a href="#L205">205</a></td><td>ANNOTATION: Roberta manages to shout before Spock can get his hand over her mouth.</td></tr>
 
-  KIRK [OC]
-     Triangulate on this location.
+<tr id="L206"><td><a href="#L206">206</a></td><td>POLICE 1:  Open up in there! It's the police!</td></tr>
 
-  SCOTT
-     Correlated. Readings indicate a greater altitude.
-     Approximately thirty metres higher, sir.
+<tr><td></td><td>LOCATION--Apartment - office</td></tr>
+<tr id="L207"><td><a href="#L207">207</a></td><td>KIRK:  Wide scan, Scotty. We'll be moving. Spock, in here. Spock!</td></tr>
 
+<tr id="L208"><td><a href="#L208">208</a></td><td>ANNOTATION: They go into the main room and Roberta dashes to open the door to the police.</td></tr>
 
-LOCATION--Street
+<tr id="L209"><td><a href="#L209">209</a></td><td>ROBERTA:  In there!</td></tr>
 
-  KIRK
-     Out.
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L210"><td><a href="#L210">210</a></td><td>KIRK:  Now, Scotty!</td></tr>
 
+<tr id="L211"><td><a href="#L211">211</a></td><td>POLICE 1:  What's going on here?</td></tr>
 
-LOCATION--Apartment - main room
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L212"><td><a href="#L212">212</a></td><td>ANNOTATION: Kirk, Spock and the two policemen are beamed up. Kirk and Spock dash off the transporter pad leaving the flat-foots standing, slack-jawed.</td></tr>
 
-  COMPUTER
-     Occurrence, automobile accident. Location Highway
-     nine four nine, ten miles north of McKinley Rocket
-     Base. Agents three four seven and two oh one were
-     killed instantly.
+<tr id="L213"><td><a href="#L213">213</a></td><td>KIRK:  Reverse and energise.</td></tr>
 
-  SEVEN
-     That just doesn't make sense. For them to die in
-     something as useless as an automobile accident.
-     Are the facts verified?
+<tr id="L214"><td><a href="#L214">214</a></td><td>POLICE 1:  Charlie.</td></tr>
 
-  COMPUTER
-     Verified. Descriptions of bodies are exact.
+<tr id="L215"><td><a href="#L215">215</a></td><td>ANNOTATION: They are beamed back into the apartment, watched by Roberta.</td></tr>
 
+<tr><td></td><td>LOCATION--McKinley Rocket Base - launch control</td></tr>
+<tr id="L216"><td><a href="#L216">216</a></td><td>TANNOY:  Attention. It is now fifty minutes to launch. T minus fifty and counting. All systems clear. All systems clear. Standing by for inspection of launch pad.</td></tr>
 
-LOCATION--Apartment building
+<tr><td></td><td>LOCATION--Outside Launch Control</td></tr>
+<tr id="L217"><td><a href="#L217">217</a></td><td>ANNOTATION: Seven is standing next to launch director Cromwell's car.</td></tr>
 
-  ANNOTATION
-     Kirk and Spock step out of the elevator by
-     apartment 12A
+<tr id="L218"><td><a href="#L218">218</a></td><td>LIPTON:  (a security guard) You! Speak to you a moment?</td></tr>
 
-  KIRK
-     Go ahead, Scotty.
+<tr id="L219"><td><a href="#L219">219</a></td><td>SEVEN:  Yeah, sure, Sarge. (hands over his NSA ID) There it is.</td></tr>
 
-  SCOTT
-     Proceed five metres, two four seven degrees true.
+<tr id="L220"><td><a href="#L220">220</a></td><td>LIPTON:  I'll have to confirm this, Colonel.</td></tr>
 
-  ANNOTATION
-     They arrive outside 12B, and Kirk rings the
-     doorbell.
+<tr id="L221"><td><a href="#L221">221</a></td><td>SEVEN:  All right.</td></tr>
 
+<tr id="L222"><td><a href="#L222">222</a></td><td>LIPTON:  Just put the cat down and keep your hands at your side.</td></tr>
 
-LOCATION--Apartment - office
+<tr id="L223"><td><a href="#L223">223</a></td><td>SEVEN:  All right.</td></tr>
 
-  SEVEN
-     Computer off.
+<tr id="L224"><td><a href="#L224">224</a></td><td>LIPTON:  (into telephone) Give me security. Identification check.</td></tr>
 
-  ANNOTATION
-     Roberta answers the door to the office as the
-     computer hides behind the bookcase again.
+<tr id="L225"><td><a href="#L225">225</a></td><td>SEVEN:  Be careful, lsis. Don't get stepped on.</td></tr>
 
-  SOMEONE
-     KIRK; Where's Mister Seven?
+<tr id="L226"><td><a href="#L226">226</a></td><td>LIPTON:  Yes, security?</td></tr>
 
-  ROBERTA
-     I don't know what you're talking about. Listen,
-     you guys can't come in here.
+<tr id="L227"><td><a href="#L227">227</a></td><td>ANNOTATION: Isis yowls, distracting the guard. Seven whips out his 'pen' and zaps the guard into immobility.</td></tr>
 
-  KIRK
-     Where's Mister Seven?
+<tr id="L228"><td><a href="#L228">228</a></td><td>SEVEN:  (into telephone) Security, this is Sergeant Lipton, and we're all straightened out down here. Right, thank you very much. Goodbye. All right, Sergeant. Now let's just turn right around. We're going to walk this way. You just sit right down right right there and have a little nap.</td></tr>
 
+<tr id="L229"><td><a href="#L229">229</a></td><td>(Grinning inanely, the guard sits on the ground by the building and goes to sleep.) TANNOY:  Attention. It is now forty five minutes to launch. T minus forty five and counting. All systems clear. All systems clear.</td></tr>
 
-LOCATION--Apartment - main room
+<tr><td></td><td>LOCATION--Launch Control</td></tr>
+<tr id="L230"><td><a href="#L230">230</a></td><td>TANNOY:  Standby for inspection of launch pad.</td></tr>
 
-  ANNOTATION
-     Seven activates the safe-cum-transporter.
+<tr id="L231"><td><a href="#L231">231</a></td><td>CROMWELL:  Heading for the gantry. Sound alert.</td></tr>
 
-  ROBERTA [OC]
-     You can't come in here. Now, get out. What do you
-     think you're doing? This is a government office.
+<tr><td></td><td>LOCATION--Rocket gantry</td></tr>
+<tr id="L232"><td><a href="#L232">232</a></td><td>TANNOY:  Attention. First alert. First alert. Begin clearing gantry area. Clear launch pad. Safety group, clear launch pad. All systems continue to green. Repeat. All systems still green. Standing by for inspection of launch pad.</td></tr>
 
-  ANNOTATION
-     Seven picks up Isis and leaves.
+<tr id="L233"><td><a href="#L233">233</a></td><td>ANNOTATION: Cromwell gets into his car outside launch control and drives away. Remember, we last saw Seven by this car.</td></tr>
 
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L234"><td><a href="#L234">234</a></td><td>SCOTT:  There's an old-style weather satellite in orbit below us. If I could bounce off it, I could get some good views. I've got it.</td></tr>
 
-LOCATION--Apartment - office
+<tr id="L235"><td><a href="#L235">235</a></td><td>ANNOTATION: An image of the rocket is on the wall monitor.</td></tr>
 
-  ROBERTA
-     Neither one of you can come in here.
+<tr id="L236"><td><a href="#L236">236</a></td><td>SCOTT:  I could get even closer. If I could spot him, I could lock on and beam him up.</td></tr>
 
-  KIRK
-     Where's Mister Seven?
+<tr id="L237"><td><a href="#L237">237</a></td><td>SPOCK:  Chances are he's out of sight inside the rocket gantry or at one of the control centres.</td></tr>
 
-  ROBERTA
-     This is against the rules.
+<tr id="L238"><td><a href="#L238">238</a></td><td>KIRK:  Launch is in forty minutes. Stand by to beam us down. Continue visual scan.</td></tr>
 
-  SPOCK
-     In here, Captain. (at door to main room)
+<tr><td></td><td>LOCATION--McKinley Rocket Base</td></tr>
+<tr id="L239"><td><a href="#L239">239</a></td><td>TANNOY:  Attention. Stand by for launch area clearance. Range safety verified. Launch director now en route to rocket gantry to confirm launch pad clear. Ground stations three, four and eleven, stand by for confirmation. Repeat. Standby for launch area clearance.</td></tr>
 
-  ROBERTA
-     What do you think you're doing? You want me to
-     (picks up the telephone) Send the police. Eight
-     Eleven East Sixty Eighth Street, apartment twelve
-     B.
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: Cromwell and a couple of military men arrive in their cars at the base of the rocket.</td></tr>
 
-  KIRK
-     Give me the phone.
+<tr id="L241"><td><a href="#L241">241</a></td><td>CROMWELL:  Hi, Jack.</td></tr>
 
+<tr id="L242"><td><a href="#L242">242</a></td><td>NESVIG:  Mister Cromwell.</td></tr>
 
-LOCATION--Apartment - main room
+<tr id="L243"><td><a href="#L243">243</a></td><td>CROMWELL:  Launch director at gantry, beginning final check.</td></tr>
 
-  ANNOTATION
-     Seven is setting the dial on the 'safe'
+<tr id="L244"><td><a href="#L244">244</a></td><td>TANNOY:  Attention. It is now thirty five minutes to launch. T minus thirty five minutes and counting.</td></tr>
 
-  ROBERTA [OC]
-     No, get your hands off of me, you big jerk! Who do
-     you think you are? Let go!
+<tr id="L245"><td><a href="#L245">245</a></td><td>ANNOTATION: Cromwell's car boot opens, and Seven and Isis get out.</td></tr>
 
+<tr id="L246"><td><a href="#L246">246</a></td><td>TANNOY:  Canary Islands confirming they are go for the launch. All ground stations confirm go.</td></tr>
 
-LOCATION--Apartment - office
+<tr id="L247"><td><a href="#L247">247</a></td><td>ANNOTATION: The three officials return to their cars.</td></tr>
 
-  ANNOTATION
-     There's a physical tussle going on between Kirk
-     and Roberta.
+<tr id="L248"><td><a href="#L248">248</a></td><td>NESVIG:  Lock the elevator at the top, Lieutenant. Time to get out of here.</td></tr>
 
-  ROBERTA
-     What do you think you're doing, you big jerk?
-     What's the big idea?
+<tr id="L249"><td><a href="#L249">249</a></td><td>TANNOY:  Attention. Clear launch pad. Repeat. Clear launch pad and gantry.</td></tr>
 
+<tr id="L250"><td><a href="#L250">250</a></td><td>ANNOTATION: The officials drive away. Seven and Isis are in the elevator heading for the top of the rocket.</td></tr>
 
-LOCATION--Apartment - main room
+<tr><td></td><td>LOCATION--Outside Launch Control</td></tr>
+<tr id="L251"><td><a href="#L251">251</a></td><td>ANNOTATION: Lipton, the guard that Seven put to sleep, wakes up as Kirk and Spock beam in.</td></tr>
 
-  ROBERTA [OC]
-     Mister Seven, help! Help!
+<tr id="L252"><td><a href="#L252">252</a></td><td>LIPTON:  Freeze! One move and you've both had it.</td></tr>
 
+<tr><td></td><td>LOCATION--Launch Control</td></tr>
+<tr id="L253"><td><a href="#L253">253</a></td><td>SECURITY [OC]:  Intruder alert. Intruder alert. Security to launch director. We have unidentified intruders. Males. A pair. Do you want to delay countdown?</td></tr>
 
-LOCATION--Apartment - office
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L254"><td><a href="#L254">254</a></td><td>ANNOTATION: Roberta is talking to the green cube.</td></tr>
 
-  ANNOTATION
-     Spock takes over from Kirk in manhandling Roberta.
+<tr id="L255"><td><a href="#L255">255</a></td><td>ROBERTA:  All right, don't answer, but you can tell him I quit. You can tell him I promise not to tell anybody anything. He's safe, and you're safe, my little green friend. (the box flashes twice) Same to you.</td></tr>
 
-  ROBERTA
-     Let go of me! Stop it! Don't go in there! What's
-     the big idea? Get your hands off of me! I mean it!
+<tr id="L256"><td><a href="#L256">256</a></td><td>ANNOTATION: She sits on the desk and accidentally knocks the 'desk pen' that controls the safe door. Intrigued, she investigates.</td></tr>
 
-  SOMEONE
-     (She pulls off his hat and sees his ears and
-     eyebrows.) What are you?
+<tr><td></td><td>LOCATION--McKinley Rocket Base</td></tr>
+<tr id="L257"><td><a href="#L257">257</a></td><td>ANNOTATION: A crowd is gathering a few miles away to watch the launch.</td></tr>
 
-  ANNOTATION
-     Kirk blasts open the connecting door as Seven
-     dematerialises and the safe shuts itself.
+<tr id="L258"><td><a href="#L258">258</a></td><td>TANNOY:  Attention. Twenty minutes to launch. T minus twenty minutes and counting. All systems continue green. Repeat. All systems still green.</td></tr>
 
+<tr><td></td><td>LOCATION--Rocket Gantry</td></tr>
+<tr id="L259"><td><a href="#L259">259</a></td><td>ANNOTATION: Seven is lying along one of the girders supporting the rocket, at a control panel access. Isis is meowing instructions.</td></tr>
 
-LOCATION--McKinley Rocket Base
+<tr id="L260"><td><a href="#L260">260</a></td><td>SEVEN:  Yes, thank you. I know how to open it. (with his ubiquitous pen) I know there's not much time.</td></tr>
 
-  SOMEONE
-     (Carrying Isis, Seven walks out of Assembly Area
-     B-10 hangar - warning, liquid hydrogen - into the
-     early morning sunshine. Or late afternoon. The
-     shadows are fairly long.
+<tr id="L261"><td><a href="#L261">261</a></td><td>ANNOTATION: He starts fiddling with the wiring inside.</td></tr>
 
-  TANNOY
-     Attention. Stand by for launch area clearance. It
-     is now sixty minutes to launch. T minus sixty and
-     counting.
+<tr><td></td><td>LOCATION--Launch Control</td></tr>
+<tr id="L262"><td><a href="#L262">262</a></td><td>ANNOTATION: Two communicators and two phasers are on the launch controllers console. Lipton's boss is doing the interrogation.</td></tr>
 
-  ANNOTATION
-     And the big white US rocket stands gleaming on its
-     launch gantry.
+<tr id="L263"><td><a href="#L263">263</a></td><td>NESVIG:  These are all they were carrying.</td></tr>
 
+<tr id="L264"><td><a href="#L264">264</a></td><td>TANNOY:  T minus fifteen minutes and counting.</td></tr>
 
-LOCATION--Apartment - main room
+<tr id="L265"><td><a href="#L265">265</a></td><td>NESVIG:  You've got a chance, and I'll offer it only this once. The slightest possible charges will be brought against you if you identify yourselves and tell us why you're here.</td></tr>
 
-  ANNOTATION
-     Kirk finds the plans to the rocket base lying on
-     the table.
+<tr id="L266"><td><a href="#L266">266</a></td><td>TANNOY:  To delay countdown.</td></tr>
 
+<tr id="L267"><td><a href="#L267">267</a></td><td>CROMWELL:  No sign of trouble on my boards. Launch director, confirm status all systems.</td></tr>
 
-LOCATION--Apartment - office
+<tr id="L268"><td><a href="#L268">268</a></td><td>TANNOY:  Control to launch director, confirming. Status board indicates all is well. Space flight conditions measure out as planned.</td></tr>
 
-  KIRK
-     Where's Mister Seven?
+<tr id="L269"><td><a href="#L269">269</a></td><td>CROMWELL:  Continue countdown.</td></tr>
 
-  ROBERTA
-     I'm warning you, I've already called the police.
+<tr id="L270"><td><a href="#L270">270</a></td><td>TANNOY:  No countdown delay. Repeat, no delay. All systems are green and go. All systems are go.</td></tr>
 
-  KIRK
-     Plans to McKinley Rocket Base.
+<tr><td></td><td>LOCATION--Rocket Gantry</td></tr>
+<tr id="L271"><td><a href="#L271">271</a></td><td>TANNOY:  T minus fourteen and counting.</td></tr>
 
+<tr id="L272"><td><a href="#L272">272</a></td><td>SEVEN:  Meow? You are nervous, aren't you, doll? All right. I'm going as fast as I can.</td></tr>
 
-LOCATION--Apartment building corridor
+<tr><td></td><td>LOCATION--Launch Control</td></tr>
+<tr id="L273"><td><a href="#L273">273</a></td><td>TANNOY:  T minus thirteen minutes and counting. Status board looks good. Stages look good. All systems go. Status board says go.</td></tr>
 
-  POLICE 1
-     There it is, Charlie. Open up in there. Police.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L274"><td><a href="#L274">274</a></td><td>ANNOTATION: Scott is continuing his visual search for Seven, and finally spots him at the top of the rocket.</td></tr>
 
-  ANNOTATION
-     Roberta manages to shout before Spock can get his
-     hand over her mouth.
+<tr id="L275"><td><a href="#L275">275</a></td><td>SCOTT:  Security, send two men up here right away.</td></tr>
 
-  POLICE 1
-     Open up in there! It's the police!
+<tr><td></td><td>LOCATION--Launch Control</td></tr>
+<tr id="L276"><td><a href="#L276">276</a></td><td>TANNOY:  T minus eight minutes and counting. All systems go. Status board go.</td></tr>
 
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L277"><td><a href="#L277">277</a></td><td>ANNOTATION: Roberta's fiddling with the safe door finally makes it open.</td></tr>
 
-LOCATION--Apartment - office
+<tr id="L278"><td><a href="#L278">278</a></td><td>ROBERTA:  No!</td></tr>
 
-  KIRK
-     Wide scan, Scotty. We'll be moving. Spock, in
-     here. Spock!
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L279"><td><a href="#L279">279</a></td><td>SCOTT:  Stand by. I'm going to beam him up.</td></tr>
 
-  ANNOTATION
-     They go into the main room and Roberta dashes to
-     open the door to the police.
+<tr id="L280"><td><a href="#L280">280</a></td><td>ANNOTATION: On the gantry, Seven feels the transporter effect and sits up, holding Isis. In the apartment, Roberta fiddles with knobs on the inside of the safe door and pulls him away from the Enterprise.</td></tr>
 
-  ROBERTA
-     In there!
+<tr id="L281"><td><a href="#L281">281</a></td><td>SCOTT:  I had him and something yanked him away.</td></tr>
 
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L282"><td><a href="#L282">282</a></td><td>ANNOTATION: Seven gets up from the floor of the safe.</td></tr>
 
-LOCATION--Apartment - main room
+<tr id="L283"><td><a href="#L283">283</a></td><td>SEVEN:  What are you doing? I wasn't finished.</td></tr>
 
-  KIRK
-     Now, Scotty!
+<tr id="L284"><td><a href="#L284">284</a></td><td>ROBERTA:  I'm sorry. I just touched that button right there and then wow!</td></tr>
 
-  POLICE 1
-     What's going on here?
+<tr id="L285"><td><a href="#L285">285</a></td><td>SEVEN:  You must have intercepted the Enterprise trying to beam me on board. Computer on.</td></tr>
 
+<tr id="L286"><td><a href="#L286">286</a></td><td>ANNOTATION: The bookcase opens up.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L287"><td><a href="#L287">287</a></td><td>SEVEN:  Lock into launch site scan.</td></tr>
 
-  ANNOTATION
-     Kirk, Spock and the two policemen are beamed up.
-     Kirk and Spock dash off the transporter pad
-     leaving the flat-foots standing, slack-jawed.
+<tr id="L288"><td><a href="#L288">288</a></td><td>COMPUTER:  One minute to launch.</td></tr>
 
-  KIRK
-     Reverse and energise.
+<tr id="L289"><td><a href="#L289">289</a></td><td>ROBERTA:  Oh, my gosh!</td></tr>
 
-  POLICE 1
-     Charlie.
+<tr id="L290"><td><a href="#L290">290</a></td><td>SOMEONE: Captain's log, supplemental. Spock and I in custody. Even if we talked, they wouldn't believe us. We're powerless to stop Mister Seven or prevent the launch, or even be certain if we should. I have never felt so helpless.</td></tr>
 
-  ANNOTATION
-     They are beamed back into the apartment, watched
-     by Roberta.
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L291"><td><a href="#L291">291</a></td><td>COMPUTER:  Thirty seconds to launch.</td></tr>
 
+<tr id="L292"><td><a href="#L292">292</a></td><td>ROBERTA:  Look, hey, I mean, not even the CIA could do all this.</td></tr>
 
-LOCATION--McKinley Rocket Base - launch control
+<tr><td></td><td>LOCATION--Launch Control</td></tr>
+<tr id="L293"><td><a href="#L293">293</a></td><td>TANNOY:  T minus twenty seconds. Mark. Stages reporting ready for launch. Automatic sequences on. She's completely automatic now.</td></tr>
 
-  TANNOY
-     Attention. It is now fifty minutes to launch. T
-     minus fifty and counting. All systems clear. All
-     systems clear. Standing by for inspection of
-     launch pad.
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L294"><td><a href="#L294">294</a></td><td>COMPUTER:  Fifteen seconds to launch. Ten seconds.</td></tr>
 
+<tr><td></td><td>LOCATION--Launch Control</td></tr>
+<tr id="L295"><td><a href="#L295">295</a></td><td>TANNOY:  Nine, eight, seven, six, five, four, three, two, one. Ignition. We have ignition.</td></tr>
 
-LOCATION--Outside Launch Control
+<tr id="L296"><td><a href="#L296">296</a></td><td>ANNOTATION: NASA footage of the powerful rocket lifting off and being tracked by radio telescopes.</td></tr>
 
-  ANNOTATION
-     Seven is standing next to launch director
-     Cromwell's car.
+<tr id="L297"><td><a href="#L297">297</a></td><td>TANNOY:  Altitude one thousand feet. All good. All as planned. Trajectory nominal.</td></tr>
 
-  LIPTON
-     (a security guard) You! Speak to you a moment?
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L298"><td><a href="#L298">298</a></td><td>COMPUTER:  Rocket passing twenty mile arc and accelerating.</td></tr>
 
-  SEVEN
-     Yeah, sure, Sarge. (hands over his NSA ID) There
-     it is.
+<tr id="L299"><td><a href="#L299">299</a></td><td>SEVEN:  Computer, adjustments at the rocket base were not completed. Can I still take over the rocket as planned?</td></tr>
 
-  LIPTON
-     I'll have to confirm this, Colonel.
+<tr id="L300"><td><a href="#L300">300</a></td><td>COMPUTER:  Rocket control possible with exceiver circuits operated manually.</td></tr>
 
-  SEVEN
-     All right.
+<tr id="L301"><td><a href="#L301">301</a></td><td>SEVEN:  Exceiver on manual. Lock into flight telemetry. Visual off.</td></tr>
 
-  LIPTON
-     Just put the cat down and keep your hands at your
-     side.
+<tr id="L302"><td><a href="#L302">302</a></td><td>ANNOTATION: Roberta backs away and picks up the telephone. Isis meows a warning and Seven uses his pen to sever the cord.</td></tr>
 
-  SEVEN
-     All right.
+<tr id="L303"><td><a href="#L303">303</a></td><td>SEVEN:  Roberta, please don't try to leave. You'll find all the doors locked. Are you jealous, Isis? It's most unbecoming.</td></tr>
 
-  LIPTON
-     (into telephone) Give me security. Identification
-     check.
+<tr id="L304"><td><a href="#L304">304</a></td><td>COMPUTER:  Rocket altitude now one hundred miles. Standing by to begin malfunction as planned.</td></tr>
 
-  SEVEN
-     Be careful, lsis. Don't get stepped on.
+<tr id="L305"><td><a href="#L305">305</a></td><td>SEVEN:  Begin malfunction at third stage.</td></tr>
 
-  LIPTON
-     Yes, security?
+<tr id="L306"><td><a href="#L306">306</a></td><td>COMPUTER:  Exceiver setting now nine zero point zero eight.</td></tr>
 
-  ANNOTATION
-     Isis yowls, distracting the guard. Seven whips out
-     his 'pen' and zaps the guard into immobility.
+<tr id="L307"><td><a href="#L307">307</a></td><td>SEVEN:  Nine zero point zero eight.</td></tr>
 
-  SEVEN
-     (into telephone) Security, this is Sergeant
-     Lipton, and we're all straightened out down here.
-     Right, thank you very much. Goodbye. All right,
-     Sergeant. Now let's just turn right around. We're
-     going to walk this way. You just sit right down
-     right right there and have a little nap.
+<tr id="L308"><td><a href="#L308">308</a></td><td>COMPUTER:  Second stage ready to detach.</td></tr>
 
-  (Grinning inanely, the guard sits on the ground by the building and goes to sleep.) TANNOY
-     Attention. It is now forty five minutes to launch.
-     T minus forty five and counting. All systems
-     clear. All systems clear.
+<tr id="L309"><td><a href="#L309">309</a></td><td>SEVEN:  Visual on.</td></tr>
 
+<tr id="L310"><td><a href="#L310">310</a></td><td>COMPUTER:  Second stage detaching.</td></tr>
 
-LOCATION--Launch Control
+<tr id="L311"><td><a href="#L311">311</a></td><td>ANNOTATION: The famous shot of a rocket stage falling away back to Earth.</td></tr>
 
-  TANNOY
-     Standby for inspection of launch pad.
+<tr id="L312"><td><a href="#L312">312</a></td><td>COMPUTER:  Third stage igniting.</td></tr>
 
-  CROMWELL
-     Heading for the gantry. Sound alert.
+<tr id="L313"><td><a href="#L313">313</a></td><td>SEVEN:  Begin malfunction. Take it off course.</td></tr>
 
+<tr id="L314"><td><a href="#L314">314</a></td><td>COMPUTER:  Malfunction setting correct. Rocket veering from planned course.</td></tr>
 
-LOCATION--Rocket gantry
+<tr><td></td><td>LOCATION--Launch Control</td></tr>
+<tr id="L315"><td><a href="#L315">315</a></td><td>CROMWELL:  Give me the readings fast.</td></tr>
 
-  TANNOY
-     Attention. First alert. First alert. Begin
-     clearing gantry area. Clear launch pad. Safety
-     group, clear launch pad. All systems continue to
-     green. Repeat. All systems still green. Standing
-     by for inspection of launch pad.
+<tr id="L316"><td><a href="#L316">316</a></td><td>NESVIG:  What is it?</td></tr>
 
-  ANNOTATION
-     Cromwell gets into his car outside launch control
-     and drives away. Remember, we last saw Seven by
-     this car.
+<tr id="L317"><td><a href="#L317">317</a></td><td>CROMWELL:  Malfunction. Rocket is deviating from programmed flight path.</td></tr>
 
+<tr id="L318"><td><a href="#L318">318</a></td><td>TANNOY:  Safety, standby to destruct. Continuing deviation from flight path. Repeat, deviation confirmed and increasing. Telemetry control transmitter systems tie in. All systems tie in. Report.</td></tr>
 
-LOCATION--Transporter room
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L319"><td><a href="#L319">319</a></td><td>SEVEN:  Arm the warhead.</td></tr>
 
-  SCOTT
-     There's an old-style weather satellite in orbit
-     below us. If I could bounce off it, I could get
-     some good views. I've got it.
+<tr id="L320"><td><a href="#L320">320</a></td><td>COMPUTER:  Accomplished. Nuclear warhead now armed. Set exceiver nine one point two one eight.</td></tr>
 
-  ANNOTATION
-     An image of the rocket is on the wall monitor.
+<tr id="L321"><td><a href="#L321">321</a></td><td>ANNOTATION: Roberta picks up a cigar box.</td></tr>
 
-  SCOTT
-     I could get even closer. If I could spot him, I
-     could lock on and beam him up.
+<tr id="L322"><td><a href="#L322">322</a></td><td>SEVEN:  Exceiver nine one point two one eight.</td></tr>
 
-  SPOCK
-     Chances are he's out of sight inside the rocket
-     gantry or at one of the control centres.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L323"><td><a href="#L323">323</a></td><td>ANNOTATION: Uhura is scanning broadcasts in different languages.</td></tr>
 
-  KIRK
-     Launch is in forty minutes. Stand by to beam us
-     down. Continue visual scan.
+<tr id="L324"><td><a href="#L324">324</a></td><td>SCOTT [OC]:  Scott here.</td></tr>
 
+<tr id="L325"><td><a href="#L325">325</a></td><td>CHEKOV:  Sensor shows that the rocket has armed itself, Mister Scott.</td></tr>
 
-LOCATION--McKinley Rocket Base
+<tr id="L326"><td><a href="#L326">326</a></td><td>SULU:  Computers indicate an impact somewhere in the heart of the Euro-Asian continent.</td></tr>
 
-  TANNOY
-     Attention. Stand by for launch area clearance.
-     Range safety verified. Launch director now en
-     route to rocket gantry to confirm launch pad
-     clear. Ground stations three, four and eleven,
-     stand by for confirmation. Repeat. Standby for
-     launch area clearance.
+<tr id="L327"><td><a href="#L327">327</a></td><td>CHEKOV:  We've still time to enter close orbit and destroy it with our phaser, sir.</td></tr>
 
-  ANNOTATION
-     Cromwell and a couple of military men arrive in
-     their cars at the base of the rocket.
+<tr id="L328"><td><a href="#L328">328</a></td><td>UHURA:  They're beginning to worry on Earth, Mister Scott.</td></tr>
 
-  CROMWELL
-     Hi, Jack.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L329"><td><a href="#L329">329</a></td><td>UHURA [OC]:  I'm getting military alerts from the major powers.</td></tr>
 
-  NESVIG
-     Mister Cromwell.
+<tr id="L330"><td><a href="#L330">330</a></td><td>SCOTT:  I've got to risk calling the captain. Lieutenant Uhura, open a channel.</td></tr>
 
-  CROMWELL
-     Launch director at gantry, beginning final check.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L331"><td><a href="#L331">331</a></td><td>UHURA:  Aye, aye.</td></tr>
 
-  TANNOY
-     Attention. It is now thirty five minutes to
-     launch. T minus thirty five minutes and counting.
+<tr><td></td><td>LOCATION--Launch Control</td></tr>
+<tr id="L332"><td><a href="#L332">332</a></td><td>TANNOY:  Warhead status confirmed. She's armed herself somehow. Repeat. This bird is armed. The warhead's alive. All boards report status. Stand by on destruct. Standby to transmit destruct signal.</td></tr>
 
-  ANNOTATION
-     Cromwell's car boot opens, and Seven and Isis get
-     out.
+<tr id="L333"><td><a href="#L333">333</a></td><td>NESVIG:  How could the warhead arm itself?</td></tr>
 
-  TANNOY
-     Canary Islands confirming they are go for the
-     launch. All ground stations confirm go.
+<tr id="L334"><td><a href="#L334">334</a></td><td>CROMWELL:  We don't know.</td></tr>
 
-  ANNOTATION
-     The three officials return to their cars.
+<tr id="L335"><td><a href="#L335">335</a></td><td>NESVIG:  You can destroy it, of course.</td></tr>
 
-  NESVIG
-     Lock the elevator at the top, Lieutenant. Time to
-     get out of here.
+<tr id="L336"><td><a href="#L336">336</a></td><td>CROMWELL:  If we can't, we're going to lay an H bomb on somebody somewhere. Ready on destruct signal. Destruct.</td></tr>
 
-  TANNOY
-     Attention. Clear launch pad. Repeat. Clear launch
-     pad and gantry.
+<tr id="L337"><td><a href="#L337">337</a></td><td>TANNOY:  Transmit destruct signal. Transmit destruct signal.</td></tr>
 
-  ANNOTATION
-     The officials drive away. Seven and Isis are in
-     the elevator heading for the top of the rocket.
+<tr id="L338"><td><a href="#L338">338</a></td><td>ANNOTATION: Kirk picks up a communicator, but Lipton hears the chirp as he opens it.</td></tr>
 
+<tr id="L339"><td><a href="#L339">339</a></td><td>LIPTON:  Get back over there.</td></tr>
 
-LOCATION--Outside Launch Control
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L340"><td><a href="#L340">340</a></td><td>ANNOTATION: Roberta hits Seven over the head with the cigar box.</td></tr>
 
-  ANNOTATION
-     Lipton, the guard that Seven put to sleep, wakes
-     up as Kirk and Spock beam in.
+<tr id="L341"><td><a href="#L341">341</a></td><td>ROBERTA:  Look, I'm sorry, but like you asked me, I do care about my country, and you can't be CIA.</td></tr>
 
-  LIPTON
-     Freeze! One move and you've both had it.
+<tr id="L342"><td><a href="#L342">342</a></td><td>ANNOTATION: She takes his pen from his pocket.</td></tr>
 
+<tr id="L343"><td><a href="#L343">343</a></td><td>COMPUTER:  Orbital platform separating.</td></tr>
 
-LOCATION--Launch Control
+<tr id="L344"><td><a href="#L344">344</a></td><td>ROBERTA:  Hold it!</td></tr>
 
-  SECURITY [OC]
-     Intruder alert. Intruder alert. Security to launch
-     director. We have unidentified intruders. Males. A
-     pair. Do you want to delay countdown?
+<tr id="L345"><td><a href="#L345">345</a></td><td>SEVEN:  Computer, rocket status.</td></tr>
 
+<tr id="L346"><td><a href="#L346">346</a></td><td>ROBERTA:  Hold it, Mister Seven. I'm telling you, you're through monkeying around with my country's rocket.</td></tr>
 
-LOCATION--Apartment - main room
+<tr id="L347"><td><a href="#L347">347</a></td><td>COMPUTER:  Warhead still armed. Six minutes to impact.</td></tr>
 
-  ANNOTATION
-     Roberta is talking to the green cube.
+<tr id="L348"><td><a href="#L348">348</a></td><td>ROBERTA:  Hold it! Don't move! You did enough already!</td></tr>
 
-  ROBERTA
-     All right, don't answer, but you can tell him I
-     quit. You can tell him I promise not to tell
-     anybody anything. He's safe, and you're safe, my
-     little green friend. (the box flashes twice) Same
-     to you.
+<tr id="L349"><td><a href="#L349">349</a></td><td>SEVEN:  You've got to let me finish what I started, or in six minutes World War Three begins.</td></tr>
 
-  ANNOTATION
-     She sits on the desk and accidentally knocks the
-     'desk pen' that controls the safe door. Intrigued,
-     she investigates.
+<tr id="L350"><td><a href="#L350">350</a></td><td>COMPUTER:  Flight path continuing on target.</td></tr>
 
+<tr><td></td><td>LOCATION--Launch Control</td></tr>
+<tr id="L351"><td><a href="#L351">351</a></td><td>TANNOY:  Destruct is fouled up somehow, flight control. She's coming down fully armed. She'll go off on impact.</td></tr>
 
-LOCATION--McKinley Rocket Base
+<tr id="L352"><td><a href="#L352">352</a></td><td>CROMWELL:  What? Try again! Boost the signal!</td></tr>
 
-  ANNOTATION
-     A crowd is gathering a few miles away to watch the
-     launch.
+<tr id="L353"><td><a href="#L353">353</a></td><td>TANNOY:  Boosting signal. Boosting signal. Flight control, we have boosted destruct signal. Repeat. Destruct signal at maximum boost.</td></tr>
 
-  TANNOY
-     Attention. Twenty minutes to launch. T minus
-     twenty minutes and counting. All systems continue
-     green. Repeat. All systems still green.
+<tr id="L354"><td><a href="#L354">354</a></td><td>SCOTT [OC]:  (over the open communicator) Captain, can you read me? I was beaming up Mister Seven, and something yanked him away from me.</td></tr>
 
+<tr id="L355"><td><a href="#L355">355</a></td><td>LIPTON:  Hello? Hello, come in.</td></tr>
 
-LOCATION--Rocket Gantry
+<tr id="L356"><td><a href="#L356">356</a></td><td>SPOCK:  Here, let me help you, Sergeant. It's operated with this dial here.</td></tr>
 
-  ANNOTATION
-     Seven is lying along one of the girders supporting
-     the rocket, at a control panel access. Isis is
-     meowing instructions.
+<tr id="L357"><td><a href="#L357">357</a></td><td>ANNOTATION: Neck pinches Lipton and Kirk gets to the communicator.</td></tr>
 
-  SEVEN
-     Yes, thank you. I know how to open it. (with his
-     ubiquitous pen) I know there's not much time.
+<tr id="L358"><td><a href="#L358">358</a></td><td>TANNOY:  We're getting no response.</td></tr>
 
-  ANNOTATION
-     He starts fiddling with the wiring inside.
+<tr id="L359"><td><a href="#L359">359</a></td><td>CROMWELL:  Make absolutely certain. Check everything again.</td></tr>
 
+<tr id="L360"><td><a href="#L360">360</a></td><td>TANNOY:  Tracking stations report no response on destruct signal.</td></tr>
 
-LOCATION--Launch Control
+<tr id="L361"><td><a href="#L361">361</a></td><td>KIRK:  Scotty, beam us directly to Seven's apartment.</td></tr>
 
-  ANNOTATION
-     Two communicators and two phasers are on the
-     launch controllers console. Lipton's boss is doing
-     the interrogation.
+<tr id="L362"><td><a href="#L362">362</a></td><td>TANNOY:  Auxiliary transmitters check out flight control. She hasn't destructed herself. Repeat. Destruct is not working. She's still up there. Do you read? Descending and armed. Descending and armed. She'll go off on impact. Bermuda ground station reports she's still up there. South Africa ground station reports no response on boosted destruct signal.</td></tr>
 
-  NESVIG
-     These are all they were carrying.
+<tr id="L363"><td><a href="#L363">363</a></td><td>CROMWELL:  (picks up the red telephone) Get me the president.</td></tr>
 
-  TANNOY
-     T minus fifteen minutes and counting.
+<tr><td></td><td>LOCATION--Apartment - main room</td></tr>
+<tr id="L364"><td><a href="#L364">364</a></td><td>COMPUTER:  Rocket descending and accelerating. Do you have further instructions, one nine four?</td></tr>
 
-  NESVIG
-     You've got a chance, and I'll offer it only this
-     once. The slightest possible charges will be
-     brought against you if you identify yourselves and
-     tell us why you're here.
+<tr id="L365"><td><a href="#L365">365</a></td><td>SEVEN:  Roberta, you've got to believe me. Look, a truly advanced planet wouldn't use force. They wouldn't come here in strange alien forms. The best of all possible methods would be to take human beings to their world, train them for generations until they're needed here.</td></tr>
 
-  TANNOY
-     To delay countdown.
+<tr id="L366"><td><a href="#L366">366</a></td><td>ROBERTA:  Mister Seven, I want to believe you. I do. I know this world needs help. That's why some of my generation are kind of crazy and rebels, you know. We wonder if we're going to be alive when we're thirty.</td></tr>
 
-  CROMWELL
-     No sign of trouble on my boards. Launch director,
-     confirm status all systems.
+<tr id="L367"><td><a href="#L367">367</a></td><td>COMPUTER:  Two minutes to impact.</td></tr>
 
-  TANNOY
-     Control to launch director, confirming. Status
-     board indicates all is well. Space flight
-     conditions measure out as planned.
+<tr id="L368"><td><a href="#L368">368</a></td><td>KIRK:  Hold it right there, Mister Seven.</td></tr>
 
-  CROMWELL
-     Continue countdown.
+<tr id="L369"><td><a href="#L369">369</a></td><td>ROBERTA:  Oh, no.</td></tr>
 
-  TANNOY
-     No countdown delay. Repeat, no delay. All systems
-     are green and go. All systems are go.
+<tr id="L370"><td><a href="#L370">370</a></td><td>KIRK:  Spock, you're the expert. Can you detonate the warhead from this computer?</td></tr>
 
+<tr id="L371"><td><a href="#L371">371</a></td><td>SPOCK:  I can try, Captain.</td></tr>
 
-LOCATION--Rocket Gantry
+<tr id="L372"><td><a href="#L372">372</a></td><td>COMPUTER:  Altitude five hundred fifty miles.</td></tr>
 
-  TANNOY
-     T minus fourteen and counting.
+<tr id="L373"><td><a href="#L373">373</a></td><td>SEVEN:  Captain, I want that warhead detonated, too. Unless I do it at least a hundred miles above ground, just barely in time to frighten them out of this arms race</td></tr>
 
-  SEVEN
-     Meow? You are nervous, aren't you, doll? All
-     right. I'm going as fast as I can.
+<tr id="L374"><td><a href="#L374">374</a></td><td>SCOTT [OC]:  Captain, monitors show all major powers on full missile alert. Retaliatory strike ordered on warhead impact.</td></tr>
 
+<tr id="L375"><td><a href="#L375">375</a></td><td>COMPUTER:  Altitude four hundred and fifty miles.</td></tr>
 
-LOCATION--Launch Control
+<tr id="L376"><td><a href="#L376">376</a></td><td>KIRK:  Spock.</td></tr>
 
-  TANNOY
-     T minus thirteen minutes and counting. Status
-     board looks good. Stages look good. All systems
-     go. Status board says go.
+<tr id="L377"><td><a href="#L377">377</a></td><td>SPOCK:  I can estimate some of this, Captain, but without more time</td></tr>
 
+<tr id="L378"><td><a href="#L378">378</a></td><td>SEVEN:  Captain, he can only guess. Will you please let me do my job.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L379"><td><a href="#L379">379</a></td><td>KIRK:  I don't know what your job is! You may set those controls so we can't detonate that warhead.</td></tr>
 
-  ANNOTATION
-     Scott is continuing his visual search for Seven,
-     and finally spots him at the top of the rocket.
+<tr id="L380"><td><a href="#L380">380</a></td><td>ROBERTA:  (pointing the pen at Kirk) Listen you, get away from him.</td></tr>
 
-  SCOTT
-     Security, send two men up here right away.
+<tr id="L381"><td><a href="#L381">381</a></td><td>SEVEN:  (grabbing the pen from her) Roberta, be careful. The servo is set to kill.</td></tr>
 
+<tr id="L382"><td><a href="#L382">382</a></td><td>ANNOTATION: He hands the pen to Kirk.</td></tr>
 
-LOCATION--Launch Control
+<tr id="L383"><td><a href="#L383">383</a></td><td>COMPUTER:  Altitude four hundred miles.</td></tr>
 
-  TANNOY
-     T minus eight minutes and counting. All systems
-     go. Status board go.
+<tr id="L384"><td><a href="#L384">384</a></td><td>SEVEN:  There are only seconds. I'll need time to set it.</td></tr>
 
+<tr id="L385"><td><a href="#L385">385</a></td><td>ROBERTA:  Please. He's telling the truth.</td></tr>
 
-LOCATION--Apartment - main room
+<tr id="L386"><td><a href="#L386">386</a></td><td>COMPUTER:  Fifty five seconds to impact.</td></tr>
 
-  ANNOTATION
-     Roberta's fiddling with the safe door finally
-     makes it open.
+<tr id="L387"><td><a href="#L387">387</a></td><td>KIRK:  Spock, if you can't handle it, I'm going to have to trust him.</td></tr>
 
-  ROBERTA
-     No!
+<tr id="L388"><td><a href="#L388">388</a></td><td>SPOCK:  It is difficult to know which is best, Captain.</td></tr>
 
+<tr id="L389"><td><a href="#L389">389</a></td><td>COMPUTER:  Forty seconds to impact.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L390"><td><a href="#L390">390</a></td><td>SPOCK:  Without facts, the decision cannot be made logically. You must rely on your human intuition.</td></tr>
 
-  SCOTT
-     Stand by. I'm going to beam him up.
+<tr id="L391"><td><a href="#L391">391</a></td><td>COMPUTER:  Altitude three hundred miles. Descending and accelerating.</td></tr>
 
-  ANNOTATION
-     On the gantry, Seven feels the transporter effect
-     and sits up, holding Isis. In the apartment,
-     Roberta fiddles with knobs on the inside of the
-     safe door and pulls him away from the Enterprise.
+<tr id="L392"><td><a href="#L392">392</a></td><td>KIRK:  Go.</td></tr>
 
-  SCOTT
-     I had him and something yanked him away.
+<tr id="L393"><td><a href="#L393">393</a></td><td>COMPUTER:  Thirty seconds and accelerating.</td></tr>
 
+<tr id="L394"><td><a href="#L394">394</a></td><td>SEVEN:  Computer, go to visual. Count by tens.</td></tr>
 
-LOCATION--Apartment - main room
+<tr id="L395"><td><a href="#L395">395</a></td><td>COMPUTER:  One hundred ninety miles. One hundred eighty miles. One hundred seventy miles. One hundred sixty miles. One hundred fifty, one hundred forty, one hundred thirty, one hundred twenty. (there's a bright flash) Detonation one hundred four miles.</td></tr>
 
-  ANNOTATION
-     Seven gets up from the floor of the safe.
+<tr id="L396"><td><a href="#L396">396</a></td><td>ANNOTATION: Big sighs of relief all round.</td></tr>
 
-  SEVEN
-     What are you doing? I wasn't finished.
+<tr id="L397"><td><a href="#L397">397</a></td><td>ANNOTATION: Later, Gary Seven is dictating his report to the special typewriter. Kirk and Spock are back in uniform.</td></tr>
 
-  ROBERTA
-     I'm sorry. I just touched that button right there
-     and then wow!
+<tr id="L398"><td><a href="#L398">398</a></td><td>SEVEN:  And in spite of the accidental interference with history by the Earth ship from the future, the mission was completed.</td></tr>
 
-  SEVEN
-     You must have intercepted the Enterprise trying to
-     beam me on board. Computer on.
+<tr id="L399"><td><a href="#L399">399</a></td><td>SPOCK:  Correction, Mister Seven. It appears we did not interfere. The Enterprise was part of what was supposed to happen on this day in 1968.</td></tr>
 
-  ANNOTATION
-     The bookcase opens up.
+<tr id="L400"><td><a href="#L400">400</a></td><td>ANNOTATION: Suddenly Isis has transformed from a black cat to a dark haired woman in a black outfit.</td></tr>
 
-  SEVEN
-     Lock into launch site scan.
+<tr id="L401"><td><a href="#L401">401</a></td><td>KIRK:  Our record tapes show, although not generally revealed, that on this date, a malfunctioning suborbital warhead was exploded exactly one hundred and four miles above the Earth.</td></tr>
 
-  COMPUTER
-     One minute to launch.
+<tr id="L402"><td><a href="#L402">402</a></td><td>SEVEN:  So everything happened the way it was supposed to.</td></tr>
 
-  ROBERTA
-     Oh, my gosh!
+<tr id="L403"><td><a href="#L403">403</a></td><td>SPOCK:  And you'll be pleased our records show that it resulted in a new and stronger international agreement against the use of such weapons.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. Spock and I in
-     custody. Even if we talked, they wouldn't believe
-     us. We're powerless to stop Mister Seven or
-     prevent the launch, or even be certain if we
-     should. I have never felt so helpless.
+<tr id="L404"><td><a href="#L404">404</a></td><td>ROBERTA:  Would you mind telling me who that is?</td></tr>
 
+<tr id="L405"><td><a href="#L405">405</a></td><td>SEVEN:  That, Miss Lincoln, is simply my cat.</td></tr>
 
-LOCATION--Apartment - main room
+<tr id="L406"><td><a href="#L406">406</a></td><td>ROBERTA:  Your cat?</td></tr>
 
-  COMPUTER
-     Thirty seconds to launch.
+<tr id="L407"><td><a href="#L407">407</a></td><td>ANNOTATION: She's a cat again, who decides to scratch behind her own ear.</td></tr>
 
-  ROBERTA
-     Look, hey, I mean, not even the CIA could do all
-     this.
+<tr id="L408"><td><a href="#L408">408</a></td><td>SEVEN:  What else do your record tapes show?</td></tr>
 
+<tr id="L409"><td><a href="#L409">409</a></td><td>KIRK:  I'm afraid we can't reveal everything we know, Mister Seven.</td></tr>
 
-LOCATION--Launch Control
+<tr id="L410"><td><a href="#L410">410</a></td><td>SPOCK:  Captain, we could say that Mister Seven and Miss Lincoln have some interesting experiences in store for them.</td></tr>
 
-  TANNOY
-     T minus twenty seconds. Mark. Stages reporting
-     ready for launch. Automatic sequences on. She's
-     completely automatic now.
+<tr id="L411"><td><a href="#L411">411</a></td><td>KIRK:  Yes, I think we could say that. Two to beam up, Scotty.</td></tr>
 
+<tr id="L412"><td><a href="#L412">412</a></td><td>SPOCK:  Live long and prosper, Mister Seven.</td></tr>
 
-LOCATION--Apartment - main room
+<tr id="L413"><td><a href="#L413">413</a></td><td>KIRK:  And the same to you, Miss Lincoln. Energise.</td></tr>
 
-  COMPUTER
-     Fifteen seconds to launch. Ten seconds.
-
-
-LOCATION--Launch Control
-
-  TANNOY
-     Nine, eight, seven, six, five, four, three, two,
-     one. Ignition. We have ignition.
-
-  ANNOTATION
-     NASA footage of the powerful rocket lifting off
-     and being tracked by radio telescopes.
-
-  TANNOY
-     Altitude one thousand feet. All good. All as
-     planned. Trajectory nominal.
-
-
-LOCATION--Apartment - main room
-
-  COMPUTER
-     Rocket passing twenty mile arc and accelerating.
-
-  SEVEN
-     Computer, adjustments at the rocket base were not
-     completed. Can I still take over the rocket as
-     planned?
-
-  COMPUTER
-     Rocket control possible with exceiver circuits
-     operated manually.
-
-  SEVEN
-     Exceiver on manual. Lock into flight telemetry.
-     Visual off.
-
-  ANNOTATION
-     Roberta backs away and picks up the telephone.
-     Isis meows a warning and Seven uses his pen to
-     sever the cord.
-
-  SEVEN
-     Roberta, please don't try to leave. You'll find
-     all the doors locked. Are you jealous, Isis? It's
-     most unbecoming.
-
-  COMPUTER
-     Rocket altitude now one hundred miles. Standing by
-     to begin malfunction as planned.
-
-  SEVEN
-     Begin malfunction at third stage.
-
-  COMPUTER
-     Exceiver setting now nine zero point zero eight.
-
-  SEVEN
-     Nine zero point zero eight.
-
-  COMPUTER
-     Second stage ready to detach.
-
-  SEVEN
-     Visual on.
-
-  COMPUTER
-     Second stage detaching.
-
-  ANNOTATION
-     The famous shot of a rocket stage falling away
-     back to Earth.
-
-  COMPUTER
-     Third stage igniting.
-
-  SEVEN
-     Begin malfunction. Take it off course.
-
-  COMPUTER
-     Malfunction setting correct. Rocket veering from
-     planned course.
-
-
-LOCATION--Launch Control
-
-  CROMWELL
-     Give me the readings fast.
-
-  NESVIG
-     What is it?
-
-  CROMWELL
-     Malfunction. Rocket is deviating from programmed
-     flight path.
-
-  TANNOY
-     Safety, standby to destruct. Continuing deviation
-     from flight path. Repeat, deviation confirmed and
-     increasing. Telemetry control transmitter systems
-     tie in. All systems tie in. Report.
-
-
-LOCATION--Apartment - main room
-
-  SEVEN
-     Arm the warhead.
-
-  COMPUTER
-     Accomplished. Nuclear warhead now armed. Set
-     exceiver nine one point two one eight.
-
-  ANNOTATION
-     Roberta picks up a cigar box.
-
-  SEVEN
-     Exceiver nine one point two one eight.
-
-
-LOCATION--Bridge
-
-  ANNOTATION
-     Uhura is scanning broadcasts in different
-     languages.
-
-  SCOTT [OC]
-     Scott here.
-
-  CHEKOV
-     Sensor shows that the rocket has armed itself,
-     Mister Scott.
-
-  SULU
-     Computers indicate an impact somewhere in the
-     heart of the Euro-Asian continent.
-
-  CHEKOV
-     We've still time to enter close orbit and destroy
-     it with our phaser, sir.
-
-  UHURA
-     They're beginning to worry on Earth, Mister Scott.
-
-
-LOCATION--Transporter room
-
-  UHURA [OC]
-     I'm getting military alerts from the major powers.
-
-  SCOTT
-     I've got to risk calling the captain. Lieutenant
-     Uhura, open a channel.
-
-
-LOCATION--Bridge
-
-  UHURA
-     Aye, aye.
-
-
-LOCATION--Launch Control
-
-  TANNOY
-     Warhead status confirmed. She's armed herself
-     somehow. Repeat. This bird is armed. The warhead's
-     alive. All boards report status. Stand by on
-     destruct. Standby to transmit destruct signal.
-
-  NESVIG
-     How could the warhead arm itself?
-
-  CROMWELL
-     We don't know.
-
-  NESVIG
-     You can destroy it, of course.
-
-  CROMWELL
-     If we can't, we're going to lay an H bomb on
-     somebody somewhere. Ready on destruct signal.
-     Destruct.
-
-  TANNOY
-     Transmit destruct signal. Transmit destruct
-     signal.
-
-  ANNOTATION
-     Kirk picks up a communicator, but Lipton hears the
-     chirp as he opens it.
-
-  LIPTON
-     Get back over there.
-
-
-LOCATION--Apartment - main room
-
-  ANNOTATION
-     Roberta hits Seven over the head with the cigar
-     box.
-
-  ROBERTA
-     Look, I'm sorry, but like you asked me, I do care
-     about my country, and you can't be CIA.
-
-  ANNOTATION
-     She takes his pen from his pocket.
-
-  COMPUTER
-     Orbital platform separating.
-
-  ROBERTA
-     Hold it!
-
-  SEVEN
-     Computer, rocket status.
-
-  ROBERTA
-     Hold it, Mister Seven. I'm telling you, you're
-     through monkeying around with my country's rocket.
-
-  COMPUTER
-     Warhead still armed. Six minutes to impact.
-
-  ROBERTA
-     Hold it! Don't move! You did enough already!
-
-  SEVEN
-     You've got to let me finish what I started, or in
-     six minutes World War Three begins.
-
-  COMPUTER
-     Flight path continuing on target.
-
-
-LOCATION--Launch Control
-
-  TANNOY
-     Destruct is fouled up somehow, flight control.
-     She's coming down fully armed. She'll go off on
-     impact.
-
-  CROMWELL
-     What? Try again! Boost the signal!
-
-  TANNOY
-     Boosting signal. Boosting signal. Flight control,
-     we have boosted destruct signal. Repeat. Destruct
-     signal at maximum boost.
-
-  SCOTT [OC]
-     (over the open communicator) Captain, can you read
-     me? I was beaming up Mister Seven, and something
-     yanked him away from me.
-
-  LIPTON
-     Hello? Hello, come in.
-
-  SPOCK
-     Here, let me help you, Sergeant. It's operated
-     with this dial here.
-
-  ANNOTATION
-     Neck pinches Lipton and Kirk gets to the
-     communicator.
-
-  TANNOY
-     We're getting no response.
-
-  CROMWELL
-     Make absolutely certain. Check everything again.
-
-  TANNOY
-     Tracking stations report no response on destruct
-     signal.
-
-  KIRK
-     Scotty, beam us directly to Seven's apartment.
-
-  TANNOY
-     Auxiliary transmitters check out flight control.
-     She hasn't destructed herself. Repeat. Destruct is
-     not working. She's still up there. Do you read?
-     Descending and armed. Descending and armed. She'll
-     go off on impact. Bermuda ground station reports
-     she's still up there. South Africa ground station
-     reports no response on boosted destruct signal.
-
-  CROMWELL
-     (picks up the red telephone) Get me the president.
-
-
-LOCATION--Apartment - main room
-
-  COMPUTER
-     Rocket descending and accelerating. Do you have
-     further instructions, one nine four?
-
-  SEVEN
-     Roberta, you've got to believe me. Look, a truly
-     advanced planet wouldn't use force. They wouldn't
-     come here in strange alien forms. The best of all
-     possible methods would be to take human beings to
-     their world, train them for generations until
-     they're needed here.
-
-  ROBERTA
-     Mister Seven, I want to believe you. I do. I know
-     this world needs help. That's why some of my
-     generation are kind of crazy and rebels, you know.
-     We wonder if we're going to be alive when we're
-     thirty.
-
-  COMPUTER
-     Two minutes to impact.
-
-  KIRK
-     Hold it right there, Mister Seven.
-
-  ROBERTA
-     Oh, no.
-
-  KIRK
-     Spock, you're the expert. Can you detonate the
-     warhead from this computer?
-
-  SPOCK
-     I can try, Captain.
-
-  COMPUTER
-     Altitude five hundred fifty miles.
-
-  SEVEN
-     Captain, I want that warhead detonated, too.
-     Unless I do it at least a hundred miles above
-     ground, just barely in time to frighten them out
-     of this arms race
-
-  SCOTT [OC]
-     Captain, monitors show all major powers on full
-     missile alert. Retaliatory strike ordered on
-     warhead impact.
-
-  COMPUTER
-     Altitude four hundred and fifty miles.
-
-  KIRK
-     Spock.
-
-  SPOCK
-     I can estimate some of this, Captain, but without
-     more time
-
-  SEVEN
-     Captain, he can only guess. Will you please let me
-     do my job.
-
-  KIRK
-     I don't know what your job is! You may set those
-     controls so we can't detonate that warhead.
-
-  ROBERTA
-     (pointing the pen at Kirk) Listen you, get away
-     from him.
-
-  SEVEN
-     (grabbing the pen from her) Roberta, be careful.
-     The servo is set to kill.
-
-  ANNOTATION
-     He hands the pen to Kirk.
-
-  COMPUTER
-     Altitude four hundred miles.
-
-  SEVEN
-     There are only seconds. I'll need time to set it.
-
-  ROBERTA
-     Please. He's telling the truth.
-
-  COMPUTER
-     Fifty five seconds to impact.
-
-  KIRK
-     Spock, if you can't handle it, I'm going to have
-     to trust him.
-
-  SPOCK
-     It is difficult to know which is best, Captain.
-
-  COMPUTER
-     Forty seconds to impact.
-
-  SPOCK
-     Without facts, the decision cannot be made
-     logically. You must rely on your human intuition.
-
-  COMPUTER
-     Altitude three hundred miles. Descending and
-     accelerating.
-
-  KIRK
-     Go.
-
-  COMPUTER
-     Thirty seconds and accelerating.
-
-  SEVEN
-     Computer, go to visual. Count by tens.
-
-  COMPUTER
-     One hundred ninety miles. One hundred eighty
-     miles. One hundred seventy miles. One hundred
-     sixty miles. One hundred fifty, one hundred forty,
-     one hundred thirty, one hundred twenty. (there's a
-     bright flash) Detonation one hundred four miles.
-
-  ANNOTATION
-     Big sighs of relief all round.
-
-  ANNOTATION
-     Later, Gary Seven is dictating his report to the
-     special typewriter. Kirk and Spock are back in
-     uniform.
-
-  SEVEN
-     And in spite of the accidental interference with
-     history by the Earth ship from the future, the
-     mission was completed.
-
-  SPOCK
-     Correction, Mister Seven. It appears we did not
-     interfere. The Enterprise was part of what was
-     supposed to happen on this day in 1968.
-
-  ANNOTATION
-     Suddenly Isis has transformed from a black cat to
-     a dark haired woman in a black outfit.
-
-  KIRK
-     Our record tapes show, although not generally
-     revealed, that on this date, a malfunctioning
-     suborbital warhead was exploded exactly one
-     hundred and four miles above the Earth.
-
-  SEVEN
-     So everything happened the way it was supposed to.
-
-  SPOCK
-     And you'll be pleased our records show that it
-     resulted in a new and stronger international
-     agreement against the use of such weapons.
-
-  ROBERTA
-     Would you mind telling me who that is?
-
-  SEVEN
-     That, Miss Lincoln, is simply my cat.
-
-  ROBERTA
-     Your cat?
-
-  ANNOTATION
-     She's a cat again, who decides to scratch behind
-     her own ear.
-
-  SEVEN
-     What else do your record tapes show?
-
-  KIRK
-     I'm afraid we can't reveal everything we know,
-     Mister Seven.
-
-  SPOCK
-     Captain, we could say that Mister Seven and Miss
-     Lincoln have some interesting experiences in store
-     for them.
-
-  KIRK
-     Yes, I think we could say that. Two to beam up,
-     Scotty.
-
-  SPOCK
-     Live long and prosper, Mister Seven.
-
-  KIRK
-     And the same to you, Miss Lincoln. Energise.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

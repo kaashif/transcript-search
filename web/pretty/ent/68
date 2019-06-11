@@ -1,1494 +1,761 @@
-Doctor's Orders
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Doctor's Orders</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>PHLOX:  Porthos, come back here. Porthos, stop. Return. Heel, that's it. Heel. Porthos.</td></tr>
 
-LOCATION--Corridor
+<tr id="L2"><td><a href="#L2">2</a></td><td>ANNOTATION: Outside Archer's quarters, the faithful companion scratches at the door and yips.</td></tr>
 
-  PHLOX
-     Porthos, come back here. Porthos, stop. Return.
-     Heel, that's it. Heel. Porthos.
+<tr id="L3"><td><a href="#L3">3</a></td><td>PHLOX:  All right, but just for a moment.</td></tr>
 
-  ANNOTATION
-     Outside Archer's quarters, the faithful companion
-     scratches at the door and yips.
+<tr><td></td><td>LOCATION--Archer's quarters</td></tr>
+<tr id="L4"><td><a href="#L4">4</a></td><td>ANNOTATION: Porthos jumps onto the still figure on the bed and licks his face.</td></tr>
 
-  PHLOX
-     All right, but just for a moment.
+<tr id="L5"><td><a href="#L5">5</a></td><td>PHLOX:  That's enough. You can come and see him again tomorrow.</td></tr>
 
+<tr id="L6"><td><a href="#L6">6</a></td><td>ANNOTATION: Phlox picks Porthos up and leaves. Archer never even twitched.</td></tr>
 
-LOCATION--Archer's quarters
+<tr><td></td><td>LOCATION--Phlox's quarters</td></tr>
+<tr id="L7"><td><a href="#L7">7</a></td><td>PHLOX:  (reading) It says here that canines can be quite territorial. Is that why you keep returning to the Captain's quarters? On Earth, a dog called Scruffers travelled three thousand kilometres attempting to reunite with it's human keeper. I heard of a Pycan space moth that drifted half a light year trying to return to it's home world, but I don't believe it had a name. I could use a walk. How about you?</td></tr>
 
-  ANNOTATION
-     Porthos jumps onto the still figure on the bed and
-     licks his face.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L8"><td><a href="#L8">8</a></td><td>PHLOX:  (dictating) Dear Doctor Lucas. I apologise in responding to your last letter. As you can imagine, the crew and I have been quite busy.</td></tr>
 
-  PHLOX
-     That's enough. You can come and see him again
-     tomorrow.
+<tr><td></td><td>LOCATION--Galley</td></tr>
+<tr id="L9"><td><a href="#L9">9</a></td><td>PHLOX:  In we go. I was deeply saddened to hear about your colleagues lost in the Xindi attack. You have my condolences. It's unfortunate you were forced to cut your time on Denobula short, but obviously you're needed on Earth. Perhaps when our mission is successfully completed I'll see you back in San Francisco. The Expanse. An extremely curious place.</td></tr>
 
-  ANNOTATION
-     Phlox picks Porthos up and leaves. Archer never
-     even twitched.
+<tr id="L10"><td><a href="#L10">10</a></td><td>ANNOTATION: He takes something from a jar labeled Dr Phlox - do not eat.</td></tr>
 
+<tr id="L11"><td><a href="#L11">11</a></td><td>PHLOX:  For example, we've recently encountered a phenomenon that, er. (to Porthos) Do you want one of these? I doubt you'd like it. It's a leech, you know. It will clean out your intestinal tract. Don't tell the Captain.</td></tr>
 
-LOCATION--Phlox's quarters
+<tr id="L12"><td><a href="#L12">12</a></td><td>ANNOTATION: Porthos catches the morsel.</td></tr>
 
-  PHLOX
-     (reading) It says here that canines can be quite
-     territorial. Is that why you keep returning to the
-     Captain's quarters? On Earth, a dog called
-     Scruffers travelled three thousand kilometres
-     attempting to reunite with it's human keeper. I
-     heard of a Pycan space moth that drifted half a
-     light year trying to return to it's home world,
-     but I don't believe it had a name. I could use a
-     walk. How about you?
+<tr id="L13"><td><a href="#L13">13</a></td><td>PHLOX:  I apparently find myself in somewhat unsettling circumstances, Doctor Lucas. Although they have allowed me the luxury of catching up on my correspondence.</td></tr>
 
+<tr id="L14"><td><a href="#L14">14</a></td><td>ANNOTATION: Phlox eats a leech himself.</td></tr>
 
-LOCATION--Corridor
+<tr><td></td><td>LOCATION--Situation room</td></tr>
+<tr id="L15"><td><a href="#L15">15</a></td><td>PHLOX [OC]:  We first encountered the phenomenon responsible for this situation two days ago.</td></tr>
 
-  PHLOX
-     (dictating) Dear Doctor Lucas. I apologise in
-     responding to your last letter. As you can
-     imagine, the crew and I have been quite busy.
+<tr id="L16"><td><a href="#L16">16</a></td><td>T'POL:  It's directly on our route to Azati Prime.</td></tr>
 
+<tr id="L17"><td><a href="#L17">17</a></td><td>ARCHER:  Why didn't sensors pick it up before now?</td></tr>
 
-LOCATION--Galley
+<tr id="L18"><td><a href="#L18">18</a></td><td>T'POL:  Because it wasn't there before now. It's similar to the phenomenon we encountered several weeks ago.</td></tr>
 
-  PHLOX
-     In we go. I was deeply saddened to hear about your
-     colleagues lost in the Xindi attack. You have my
-     condolences. It's unfortunate you were forced to
-     cut your time on Denobula short, but obviously
-     you're needed on Earth. Perhaps when our mission
-     is successfully completed I'll see you back in San
-     Francisco. The Expanse. An extremely curious
-     place.
+<tr id="L19"><td><a href="#L19">19</a></td><td>ARCHER:  A trans-dimensional disturbance.</td></tr>
 
-  ANNOTATION
-     He takes something from a jar labeled Dr Phlox -
-     do not eat.
+<tr id="L20"><td><a href="#L20">20</a></td><td>T'POL:  This region is being rapidly reconfigured as we speak.</td></tr>
 
-  PHLOX
-     For example, we've recently encountered a
-     phenomenon that, er. (to Porthos) Do you want one
-     of these? I doubt you'd like it. It's a leech, you
-     know. It will clean out your intestinal tract.
-     Don't tell the Captain.
+<tr id="L21"><td><a href="#L21">21</a></td><td>ARCHER:  How long would it take to go around it?</td></tr>
 
-  ANNOTATION
-     Porthos catches the morsel.
+<tr id="L22"><td><a href="#L22">22</a></td><td>T'POL:  Two weeks.</td></tr>
 
-  PHLOX
-     I apparently find myself in somewhat unsettling
-     circumstances, Doctor Lucas. Although they have
-     allowed me the luxury of catching up on my
-     correspondence.
+<tr id="L23"><td><a href="#L23">23</a></td><td>REED:  Another detour.</td></tr>
 
-  ANNOTATION
-     Phlox eats a leech himself.
+<tr id="L24"><td><a href="#L24">24</a></td><td>T'POL:  Perhaps not. Since this region was formed only recently, it hasn't been completely reconfigured. We should still be able to cross it safely.</td></tr>
 
+<tr id="L25"><td><a href="#L25">25</a></td><td>TUCKER:  You said nothing from our universe could survive inside these things.</td></tr>
 
-LOCATION--Situation room
+<tr id="L26"><td><a href="#L26">26</a></td><td>T'POL:  Doctor.</td></tr>
 
-  PHLOX [OC]
-     We first encountered the phenomenon responsible
-     for this situation two days ago.
+<tr id="L27"><td><a href="#L27">27</a></td><td>PHLOX:  That's true, unless we take the appropriate precautions. The reconfigured space disrupts the human neocortex, but I can counteract the effects by dampening the crew's neurological activity. It would be like, oh, shutting down the main computer to protect it from an ion storm.</td></tr>
 
-  T'POL
-     It's directly on our route to Azati Prime.
+<tr id="L28"><td><a href="#L28">28</a></td><td>TUCKER:  How do you plan to shut down our neocortexes?</td></tr>
 
-  ARCHER
-     Why didn't sensors pick it up before now?
+<tr id="L29"><td><a href="#L29">29</a></td><td>PHLOX:  Quite simply, I can place each of you in a comatose state until we've passed through the affected region.</td></tr>
 
-  T'POL
-     Because it wasn't there before now. It's similar
-     to the phenomenon we encountered several weeks
-     ago.
+<tr id="L30"><td><a href="#L30">30</a></td><td>ARCHER:  How quickly can we get across it?</td></tr>
 
-  ARCHER
-     A trans-dimensional disturbance.
+<tr id="L31"><td><a href="#L31">31</a></td><td>T'POL:  Less than an hour at warp four.</td></tr>
 
-  T'POL
-     This region is being rapidly reconfigured as we
-     speak.
+<tr id="L32"><td><a href="#L32">32</a></td><td>TUCKER:  I don't want to risk going to warp in there. Who knows what kind of effect this disturbance will have on our warp field. We'll be safer sticking to impulse. You'll have to keep us in comas for at least four days.</td></tr>
 
-  ARCHER
-     How long would it take to go around it?
+<tr id="L33"><td><a href="#L33">33</a></td><td>REED:  That's still less time than it would take to go around it.</td></tr>
 
-  T'POL
-     Two weeks.
+<tr id="L34"><td><a href="#L34">34</a></td><td>ARCHER:  Can you keep us under that long?</td></tr>
 
-  REED
-     Another detour.
+<tr id="L35"><td><a href="#L35">35</a></td><td>PHLOX:  Shouldn't cause any problems.</td></tr>
 
-  T'POL
-     Perhaps not. Since this region was formed only
-     recently, it hasn't been completely reconfigured.
-     We should still be able to cross it safely.
+<tr><td></td><td>LOCATION--Travis's quarters</td></tr>
+<tr id="L36"><td><a href="#L36">36</a></td><td>PHLOX:  Commander Tucker was none too keen on my plan. However, I was able to convince Captain Archer. Since my Denobulan physiology is immune to the effects of the disturbance, I volunteered to watch over the crew. So far, they've been no trouble at all.</td></tr>
 
-  TUCKER
-     You said nothing from our universe could survive
-     inside these things.
+<tr><td></td><td>LOCATION--Bridge - memory</td></tr>
+<tr id="L37"><td><a href="#L37">37</a></td><td>ANNOTATION: Phlox is getting a practical driving lesson.</td></tr>
 
-  T'POL
-     Doctor.
+<tr id="L38"><td><a href="#L38">38</a></td><td>PHLOX [OC]:  While the computer's controlling most of the ship's systems, I was given a quick tutorial, just in case. Despite the dire circumstances I must say I relished the challenge and soon developed a new-found respect for Ensign Mayweather.</td></tr>
 
-  PHLOX
-     That's true, unless we take the appropriate
-     precautions. The reconfigured space disrupts the
-     human neocortex, but I can counteract the effects
-     by dampening the crew's neurological activity. It
-     would be like, oh, shutting down the main computer
-     to protect it from an ion storm.
+<tr><td></td><td>LOCATION--Engineering - memory</td></tr>
+<tr id="L39"><td><a href="#L39">39</a></td><td>TUCKER:  You need to check this every two hours, minimum.</td></tr>
 
-  TUCKER
-     How do you plan to shut down our neocortexes?
+<tr id="L40"><td><a href="#L40">40</a></td><td>PHLOX:  Every two hours.</td></tr>
 
-  PHLOX
-     Quite simply, I can place each of you in a
-     comatose state until we've passed through the
-     affected region.
+<tr id="L41"><td><a href="#L41">41</a></td><td>TUCKER:  If the impulse manifolds get clogged, the engines'll overload. That would be very bad.</td></tr>
 
-  ARCHER
-     How quickly can we get across it?
+<tr id="L42"><td><a href="#L42">42</a></td><td>PHLOX:  I imagine it would.</td></tr>
 
-  T'POL
-     Less than an hour at warp four.
+<tr id="L43"><td><a href="#L43">43</a></td><td>TUCKER:  No offence, Doc, but under normal circumstances I wouldn't even let you in here without four years of Starfleet training under your belt.</td></tr>
 
-  TUCKER
-     I don't want to risk going to warp in there. Who
-     knows what kind of effect this disturbance will
-     have on our warp field. We'll be safer sticking to
-     impulse. You'll have to keep us in comas for at
-     least four days.
+<tr id="L44"><td><a href="#L44">44</a></td><td>PHLOX:  These are hardly normal circumstances.</td></tr>
 
-  REED
-     That's still less time than it would take to go
-     around it.
+<tr id="L45"><td><a href="#L45">45</a></td><td>TUCKER:  Listen. If something happens, something you can't handle, I want you to wake me up.</td></tr>
 
-  ARCHER
-     Can you keep us under that long?
+<tr id="L46"><td><a href="#L46">46</a></td><td>PHLOX:  I can't do that. Even a few minutes of exposure would cause permanent damage.</td></tr>
 
-  PHLOX
-     Shouldn't cause any problems.
+<tr id="L47"><td><a href="#L47">47</a></td><td>TUCKER:  If it comes down to saving the ship? Look, I'm making it easy for you. Okay?</td></tr>
 
+<tr><td></td><td>LOCATION--Archer's quarters</td></tr>
+<tr id="L48"><td><a href="#L48">48</a></td><td>ARCHER:  How's the rest of the crew doing?</td></tr>
 
-LOCATION--Travis's quarters
+<tr id="L49"><td><a href="#L49">49</a></td><td>PHLOX:  Sleeping peacefully, except for you. Now, lie back.</td></tr>
 
-  PHLOX
-     Commander Tucker was none too keen on my plan.
-     However, I was able to convince Captain Archer.
-     Since my Denobulan physiology is immune to the
-     effects of the disturbance, I volunteered to watch
-     over the crew. So far, they've been no trouble at
-     all.
+<tr id="L50"><td><a href="#L50">50</a></td><td>ARCHER:  Doctor.</td></tr>
 
+<tr id="L51"><td><a href="#L51">51</a></td><td>PHLOX:  Please, Captain, I've told you the procedure's completely safe.</td></tr>
 
-LOCATION--Bridge - memory
+<tr id="L52"><td><a href="#L52">52</a></td><td>ARCHER:  I'm sure it is, but I</td></tr>
 
-  ANNOTATION
-     Phlox is getting a practical driving lesson.
+<tr id="L53"><td><a href="#L53">53</a></td><td>PHLOX:  Captain, I have already had this discussion with Commander Tucker, Lieutenant Reed and virtually every other officer on the ship. I'm not comfortable being incapacitated, I really should be at my post, I'm willing to risk staying awake. Well you can't, nor do you need to. I assure you I have everything well in hand.</td></tr>
 
-  PHLOX [OC]
-     While the computer's controlling most of the
-     ship's systems, I was given a quick tutorial, just
-     in case. Despite the dire circumstances I must say
-     I relished the challenge and soon developed a
-     new-found respect for Ensign Mayweather.
+<tr id="L54"><td><a href="#L54">54</a></td><td>ARCHER:  I know, Doctor. As Captain of the ship I'm the one who's responsible for everyone aboard. There aren't many people I'd willingly turn that responsibility over to. You're one of them.</td></tr>
 
+<tr id="L55"><td><a href="#L55">55</a></td><td>PHLOX:  Well, thank you, Captain.</td></tr>
 
-LOCATION--Engineering - memory
+<tr id="L56"><td><a href="#L56">56</a></td><td>ARCHER:  I just wanted to say that before you put me under.</td></tr>
 
-  TUCKER
-     You need to check this every two hours, minimum.
+<tr id="L57"><td><a href="#L57">57</a></td><td>ANNOTATION: Archer lies down on his bed, and Phlox does the deed.</td></tr>
 
-  PHLOX
-     Every two hours.
+<tr id="L58"><td><a href="#L58">58</a></td><td>PHLOX [OC]:  I must say, Doctor Lucas, that I appreciated the Captain's vote of confidence. I had in fact been feeling some trepidation over the responsibility I'd been handed, but after two days at the helm the ship is running perfectly.</td></tr>
 
-  TUCKER
-     If the impulse manifolds get clogged, the
-     engines'll overload. That would be very bad.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L59"><td><a href="#L59">59</a></td><td>ANNOTATION: He hears a door slamming somewhere.</td></tr>
 
-  PHLOX
-     I imagine it would.
+<tr id="L60"><td><a href="#L60">60</a></td><td>PHLOX:  Hello? Hello? (finds no one) Nonetheless, I'm not ashamed to admit I'll be relieved when I can wake up the crew in two days, sixteen hours and forty three minutes.</td></tr>
 
-  TUCKER
-     No offence, Doc, but under normal circumstances I
-     wouldn't even let you in here without four years
-     of Starfleet training under your belt.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L61"><td><a href="#L61">61</a></td><td>ANNOTATION: Phlox jogs down a corridor, singing something Denobulan, with Porthos following him. In Sickbay, strategically placed items spare our blushes as a naked Phlox comes in to feed his menagerie.</td></tr>
 
-  PHLOX
-     These are hardly normal circumstances.
+<tr id="L62"><td><a href="#L62">62</a></td><td>PHLOX:  I know, I know, I'm sorry I'm late.</td></tr>
 
-  TUCKER
-     Listen. If something happens, something you can't
-     handle, I want you to wake me up.
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L63"><td><a href="#L63">63</a></td><td>ANNOTATION: Movie night is The Court Jester starring Danny Kaye.</td></tr>
 
-  PHLOX
-     I can't do that. Even a few minutes of exposure
-     would cause permanent damage.
+<tr id="L64"><td><a href="#L64">64</a></td><td>HAWKINS:  I don't want the vessel with the pestle, I want the chalice from the what?</td></tr>
 
-  TUCKER
-     If it comes down to saving the ship? Look, I'm
-     making it easy for you. Okay?
+<tr id="L65"><td><a href="#L65">65</a></td><td>JEAN:  The chalice from the palace.</td></tr>
 
+<tr id="L66"><td><a href="#L66">66</a></td><td>WITCH:  It's a little crystal chalice with a figure of a palace.</td></tr>
 
-LOCATION--Archer's quarters
+<tr id="L67"><td><a href="#L67">67</a></td><td>HAWKINS:  The chalice from the palace have the pellet with the poison?</td></tr>
 
-  ARCHER
-     How's the rest of the crew doing?
+<tr id="L68"><td><a href="#L68">68</a></td><td>WITCH:  No, the pellet with the poison's in the vessel with a pestle.</td></tr>
 
-  PHLOX
-     Sleeping peacefully, except for you. Now, lie
-     back.
+<tr id="L69"><td><a href="#L69">69</a></td><td>HAWKINS:  Oh, oh, the pestle with the vessel.</td></tr>
 
-  ARCHER
-     Doctor.
+<tr id="L70"><td><a href="#L70">70</a></td><td>JEAN:  The vessel with a pestle.</td></tr>
 
-  PHLOX
-     Please, Captain, I've told you the procedure's
-     completely safe.
+<tr id="L71"><td><a href="#L71">71</a></td><td>HAWKINS:  What about the palace from the chalice?</td></tr>
 
-  ARCHER
-     I'm sure it is, but I
+<tr id="L72"><td><a href="#L72">72</a></td><td>WITCH:  Not the palace from the chalice! The chalice from the palace!</td></tr>
 
-  PHLOX
-     Captain, I have already had this discussion with
-     Commander Tucker, Lieutenant Reed and virtually
-     every other officer on the ship. I'm not
-     comfortable being incapacitated, I really should
-     be at my post, I'm willing to risk staying awake.
-     Well you can't, nor do you need to. I assure you I
-     have everything well in hand.
+<tr id="L73"><td><a href="#L73">73</a></td><td>HAWKINS:  Where's the pellet with the poison?</td></tr>
 
-  ARCHER
-     I know, Doctor. As Captain of the ship I'm the one
-     who's responsible for everyone aboard. There
-     aren't many people I'd willingly turn that
-     responsibility over to. You're one of them.
+<tr id="L74"><td><a href="#L74">74</a></td><td>WITCH:  In the vessel with a pestle!</td></tr>
 
-  PHLOX
-     Well, thank you, Captain.
+<tr id="L75"><td><a href="#L75">75</a></td><td>JEAN:  Don't you see? The pellet with the poison's in the vessel with the pestle.</td></tr>
 
-  ARCHER
-     I just wanted to say that before you put me under.
+<tr id="L76"><td><a href="#L76">76</a></td><td>WITCH:  The chalice from the palace has the brew that is true!</td></tr>
 
-  ANNOTATION
-     Archer lies down on his bed, and Phlox does the
-     deed.
+<tr id="L77"><td><a href="#L77">77</a></td><td>JEAN:  It's so easy, I can say it!</td></tr>
 
-  PHLOX [OC]
-     I must say, Doctor Lucas, that I appreciated the
-     Captain's vote of confidence. I had in fact been
-     feeling some trepidation over the responsibility
-     I'd been handed, but after two days at the helm
-     the ship is running perfectly.
+<tr id="L78"><td><a href="#L78">78</a></td><td>HAWKINS:  Well then you fight him!</td></tr>
 
+<tr id="L79"><td><a href="#L79">79</a></td><td>WITCH:  Listen carefully. The pellet with the poison's in the vessel with a pestle, the chalice from the palace has the brew that is true.</td></tr>
 
-LOCATION--Engineering
+<tr id="L80"><td><a href="#L80">80</a></td><td>HAWKINS:  Where the pellet with the poison's in the vessel with a pestle, the chalice from the palace has the brew that is true.</td></tr>
 
-  ANNOTATION
-     He hears a door slamming somewhere.
+<tr id="L81"><td><a href="#L81">81</a></td><td>JEAN:  Good man!</td></tr>
 
-  PHLOX
-     Hello? Hello? (finds no one) Nonetheless, I'm not
-     ashamed to admit I'll be relieved when I can wake
-     up the crew in two days, sixteen hours and forty
-     three minutes.
+<tr id="L82"><td><a href="#L82">82</a></td><td>PHLOX:  (to Porthos, his faithful companion) Did you hear that?</td></tr>
 
+<tr id="L83"><td><a href="#L83">83</a></td><td>WITCH:  Just remember that.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L84"><td><a href="#L84">84</a></td><td>MAN:  Sir Giacomo, into your armour, and you to your place in the pavilion.</td></tr>
 
-  ANNOTATION
-     Phlox jogs down a corridor, singing something
-     Denobulan, with Porthos following him. In Sickbay,
-     strategically placed items spare our blushes as a
-     naked Phlox comes in to feed his menagerie.
+<tr id="L85"><td><a href="#L85">85</a></td><td>HAWKINS:  The pellet with the poison, the pellet with the poison.</td></tr>
 
-  PHLOX
-     I know, I know, I'm sorry I'm late.
+<tr id="L86"><td><a href="#L86">86</a></td><td>PHLOX:  Computer, mute sound. (I have no idea what he hears) That doesn't sound normal, does it. I suppose we should investigate, hmm. I'm not going alone. Come, Porthos, come. (picks him up) I'd be better off talking to my Pyrithian bat.</td></tr>
 
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L87"><td><a href="#L87">87</a></td><td>PHLOX:  Perhaps we are letting our imaginations run away with us. I should never have let Mister Tucker talk me into watching The Exorcist last week.</td></tr>
 
-LOCATION--Mess hall
+<tr id="L88"><td><a href="#L88">88</a></td><td>ANNOTATION: Another strange clunk.</td></tr>
 
-  ANNOTATION
-     Movie night is The Court Jester starring Danny
-     Kaye.
+<tr><td></td><td>LOCATION--Launch bay</td></tr>
+<tr id="L89"><td><a href="#L89">89</a></td><td>PHLOX:  Hello? It's Doctor Phlox. (Porthos barks) Porthos! Porthos, come back here. Porthos.</td></tr>
 
-  HAWKINS
-     I don't want the vessel with the pestle, I want
-     the chalice from the what?
+<tr id="L90"><td><a href="#L90">90</a></td><td>ANNOTATION: He sees a vent of steam rattling a chain handrail.</td></tr>
 
-  JEAN
-     The chalice from the palace.
+<tr id="L91"><td><a href="#L91">91</a></td><td>PHLOX:  Well, now don't you feel foolish.</td></tr>
 
-  WITCH
-     It's a little crystal chalice with a figure of a
-     palace.
+<tr id="L92"><td><a href="#L92">92</a></td><td>ANNOTATION: A door closes, and he turns to see - and clutches at his heart.</td></tr>
 
-  HAWKINS
-     The chalice from the palace have the pellet with
-     the poison?
+<tr id="L93"><td><a href="#L93">93</a></td><td>PHLOX:  I called out. Didn't you hear me?</td></tr>
 
-  WITCH
-     No, the pellet with the poison's in the vessel
-     with a pestle.
+<tr id="L94"><td><a href="#L94">94</a></td><td>T'POL:  I was running a diagnostic. Do you require my assistance? What are you doing here? I thought it was movie night.</td></tr>
 
-  HAWKINS
-     Oh, oh, the pestle with the vessel.
+<tr id="L95"><td><a href="#L95">95</a></td><td>PHLOX:  You could hear that all the way from the mess hall.</td></tr>
 
-  JEAN
-     The vessel with a pestle.
+<tr id="L96"><td><a href="#L96">96</a></td><td>T'POL:  I'll make a note of it in the maintenance log.</td></tr>
 
-  HAWKINS
-     What about the palace from the chalice?
+<tr id="L97"><td><a href="#L97">97</a></td><td>PHLOX:  Bangs, squeaks, rattling chains.</td></tr>
 
-  WITCH
-     Not the palace from the chalice! The chalice from
-     the palace!
+<tr id="L98"><td><a href="#L98">98</a></td><td>ANNOTATION: He turns off the venting steam.</td></tr>
 
-  HAWKINS
-     Where's the pellet with the poison?
+<tr id="L99"><td><a href="#L99">99</a></td><td>PHLOX:  Is this a starship or a haunted house?</td></tr>
 
-  WITCH
-     In the vessel with a pestle!
+<tr id="L100"><td><a href="#L100">100</a></td><td>T'POL:  Are you all right, Doctor? You seem somewhat agitated.</td></tr>
 
-  JEAN
-     Don't you see? The pellet with the poison's in the
-     vessel with the pestle.
+<tr id="L101"><td><a href="#L101">101</a></td><td>PHLOX:  Considering you nearly sent me into cardiac shock.</td></tr>
 
-  WITCH
-     The chalice from the palace has the brew that is
-     true!
+<tr id="L102"><td><a href="#L102">102</a></td><td>T'POL:  I apologise if I startled you. You're certain that's all?</td></tr>
 
-  JEAN
-     It's so easy, I can say it!
+<tr id="L103"><td><a href="#L103">103</a></td><td>PHLOX:  I have had a slight headache since we entered this region. Perhaps Vulcans and Earth canines are better able to adapt to it than Denobulans. How are you? I've barely seen you the last two days.</td></tr>
 
-  HAWKINS
-     Well then you fight him!
+<tr id="L104"><td><a href="#L104">104</a></td><td>T'POL:  I've had my duties to attend to. The rest of the time I've spent in my quarters, reading, meditating.</td></tr>
 
-  WITCH
-     Listen carefully. The pellet with the poison's in
-     the vessel with a pestle, the chalice from the
-     palace has the brew that is true.
+<tr id="L105"><td><a href="#L105">105</a></td><td>PHLOX:  Then you're due for a night out. Why don't you join Porthos and me?</td></tr>
 
-  HAWKINS
-     Where the pellet with the poison's in the vessel
-     with a pestle, the chalice from the palace has the
-     brew that is true.
+<tr id="L106"><td><a href="#L106">106</a></td><td>T'POL:  I'd like to complete the diagnostic.</td></tr>
 
-  JEAN
-     Good man!
+<tr id="L107"><td><a href="#L107">107</a></td><td>PHLOX:  The movie's quite amusing.</td></tr>
 
-  PHLOX
-     (to Porthos, his faithful companion) Did you hear
-     that?
+<tr id="L108"><td><a href="#L108">108</a></td><td>T'POL:  No, thank you.</td></tr>
 
-  WITCH
-     Just remember that.
+<tr id="L109"><td><a href="#L109">109</a></td><td>PHLOX:  T'Pol, I, er, perhaps you'll share a meal with me later.</td></tr>
 
-  MAN
-     Sir Giacomo, into your armour, and you to your
-     place in the pavilion.
+<tr id="L110"><td><a href="#L110">110</a></td><td>T'POL:  If you like.</td></tr>
 
-  HAWKINS
-     The pellet with the poison, the pellet with the
-     poison.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L111"><td><a href="#L111">111</a></td><td>ANNOTATION: Another door sound.</td></tr>
 
-  PHLOX
-     Computer, mute sound. (I have no idea what he
-     hears) That doesn't sound normal, does it. I
-     suppose we should investigate, hmm. I'm not going
-     alone. Come, Porthos, come. (picks him up) I'd be
-     better off talking to my Pyrithian bat.
+<tr id="L112"><td><a href="#L112">112</a></td><td>PHLOX:  Hello? (and again) T'Pol? Is that you?</td></tr>
 
+<tr id="L113"><td><a href="#L113">113</a></td><td>ANNOTATION: It seems like someone runs along the upper walkway.</td></tr>
 
-LOCATION--Corridor
+<tr id="L114"><td><a href="#L114">114</a></td><td>PHLOX:  Stop! Phlox to T'Pol.</td></tr>
 
-  PHLOX
-     Perhaps we are letting our imaginations run away
-     with us. I should never have let Mister Tucker
-     talk me into watching The Exorcist last week.
+<tr id="L115"><td><a href="#L115">115</a></td><td>T'POL [OC]:  Go ahead.</td></tr>
 
-  ANNOTATION
-     Another strange clunk.
+<tr id="L116"><td><a href="#L116">116</a></td><td>PHLOX:  Would you mind not creeping around the ship like a Draxxan cloud viper.</td></tr>
 
+<tr id="L117"><td><a href="#L117">117</a></td><td>T'POL [OC]:  Doctor?</td></tr>
 
-LOCATION--Launch bay
+<tr id="L118"><td><a href="#L118">118</a></td><td>PHLOX:  Please. I wouldn't have imagined that Vulcans engaged in childish games.</td></tr>
 
-  PHLOX
-     Hello? It's Doctor Phlox. (Porthos barks) Porthos!
-     Porthos, come back here. Porthos.
+<tr id="L119"><td><a href="#L119">119</a></td><td>T'POL [OC]:  I don't understand.</td></tr>
 
-  ANNOTATION
-     He sees a vent of steam rattling a chain handrail.
+<tr id="L120"><td><a href="#L120">120</a></td><td>PHLOX:  What were you doing in Engineering just now?</td></tr>
 
-  PHLOX
-     Well, now don't you feel foolish.
+<tr id="L121"><td><a href="#L121">121</a></td><td>T'POL [OC]:  Doctor, I'm on the Bridge.</td></tr>
 
-  ANNOTATION
-     A door closes, and he turns to see - and clutches
-     at his heart.
+<tr><td></td><td>LOCATION--Galley</td></tr>
+<tr id="L122"><td><a href="#L122">122</a></td><td>PHLOX:  I hope you don't mind eating here in the galley. Mess hall seems a bit, er, oh, melancholy. All the empty chairs.</td></tr>
 
-  PHLOX
-     I called out. Didn't you hear me?
+<tr id="L123"><td><a href="#L123">123</a></td><td>T'POL:  This is fine.</td></tr>
 
-  T'POL
-     I was running a diagnostic. Do you require my
-     assistance? What are you doing here? I thought it
-     was movie night.
+<tr id="L124"><td><a href="#L124">124</a></td><td>PHLOX:  My fifth grandmother made this for each of my weddings (ladling liquid). Chef's tried to prepare it, but he never gets it quite right.</td></tr>
 
-  PHLOX
-     You could hear that all the way from the mess
-     hall.
+<tr id="L125"><td><a href="#L125">125</a></td><td>T'POL:  Yes, his plomeek broth leaves something to be desired as well.</td></tr>
 
-  T'POL
-     I'll make a note of it in the maintenance log.
+<tr id="L126"><td><a href="#L126">126</a></td><td>PHLOX:  I always thought so, but was afraid to mention it. T'Pol, you're sure you weren't in Engineering today?</td></tr>
 
-  PHLOX
-     Bangs, squeaks, rattling chains.
+<tr id="L127"><td><a href="#L127">127</a></td><td>T'POL:  Quite sure. What were you doing there? I'm responsible for monitoring the engines.</td></tr>
 
-  ANNOTATION
-     He turns off the venting steam.
+<tr id="L128"><td><a href="#L128">128</a></td><td>PHLOX:  We're supposed to be assisting each other. It's a large ship for two people to maintain.</td></tr>
 
-  PHLOX
-     Is this a starship or a haunted house?
+<tr id="L129"><td><a href="#L129">129</a></td><td>T'POL:  Do you have anything to report? Doctor?</td></tr>
 
-  T'POL
-     Are you all right, Doctor? You seem somewhat
-     agitated.
+<tr id="L130"><td><a href="#L130">130</a></td><td>PHLOX:  I could have sworn there was someone in that room with me.</td></tr>
 
-  PHLOX
-     Considering you nearly sent me into cardiac shock.
+<tr id="L131"><td><a href="#L131">131</a></td><td>T'POL:  A member of the crew?</td></tr>
 
-  T'POL
-     I apologise if I startled you. You're certain
-     that's all?
+<tr id="L132"><td><a href="#L132">132</a></td><td>PHLOX:  No, everyone except us is in deep neuro-sedation.</td></tr>
 
-  PHLOX
-     I have had a slight headache since we entered this
-     region. Perhaps Vulcans and Earth canines are
-     better able to adapt to it than Denobulans. How
-     are you? I've barely seen you the last two days.
+<tr id="L133"><td><a href="#L133">133</a></td><td>T'POL:  Then obviously you were mistaken.</td></tr>
 
-  T'POL
-     I've had my duties to attend to. The rest of the
-     time I've spent in my quarters, reading,
-     meditating.
+<tr id="L134"><td><a href="#L134">134</a></td><td>PHLOX:  Obviously. You've never been to Denobula, have you.</td></tr>
 
-  PHLOX
-     Then you're due for a night out. Why don't you
-     join Porthos and me?
+<tr id="L135"><td><a href="#L135">135</a></td><td>T'POL:  No.</td></tr>
 
-  T'POL
-     I'd like to complete the diagnostic.
+<tr id="L136"><td><a href="#L136">136</a></td><td>PHLOX:  The cities are quite crowded, by choice, not by necessity. The atmosphere is vibrant, communal.</td></tr>
 
-  PHLOX
-     The movie's quite amusing.
+<tr id="L137"><td><a href="#L137">137</a></td><td>T'POL:  It sounds fascinating.</td></tr>
 
-  T'POL
-     No, thank you.
+<tr id="L138"><td><a href="#L138">138</a></td><td>PHLOX:  What I'm saying is that we're a sociable people. Being alone on Enterprise, just the two of us, has proven more stressful than I imagined. Two people aren't even enough for a Denobulan marriage, a proper one anyway.</td></tr>
 
-  PHLOX
-     T'Pol, I, er, perhaps you'll share a meal with me
-     later.
+<tr id="L139"><td><a href="#L139">139</a></td><td>T'POL:  I'm sorry I haven't been better company.</td></tr>
 
-  T'POL
-     If you like.
+<tr id="L140"><td><a href="#L140">140</a></td><td>PHLOX:  That isn't what I meant.</td></tr>
 
+<tr id="L141"><td><a href="#L141">141</a></td><td>T'POL:  I know. It is ironic, however, that I should be your sole companion. Unlike your people, most Vulcans will go to great lengths to find solitude. At times it has been trying for me to co-exist with eighty humans. Especially the more irrational ones.</td></tr>
 
-LOCATION--Engineering
+<tr id="L142"><td><a href="#L142">142</a></td><td>PHLOX:  Such as Commander Tucker.</td></tr>
 
-  ANNOTATION
-     Another door sound.
+<tr id="L143"><td><a href="#L143">143</a></td><td>T'POL:  I've found the last two days to be a welcome respite.</td></tr>
 
-  PHLOX
-     Hello? (and again) T'Pol? Is that you?
+<tr id="L144"><td><a href="#L144">144</a></td><td>PHLOX:  I understand, but I for one will never complain again when I can't get a good seat on movie night.</td></tr>
 
-  ANNOTATION
-     It seems like someone runs along the upper
-     walkway.
+<tr id="L145"><td><a href="#L145">145</a></td><td>ANNOTATION: T'Pol has not touched the food</td></tr>
 
-  PHLOX
-     Stop! Phlox to T'Pol.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L146"><td><a href="#L146">146</a></td><td>PHLOX:  (dictating) Despite the tragic circumstances surrounding your homecoming, Doctor Lucas, you must be happy to return to Earth. As I've mentioned before, I've no regrets about accepting my position on Enterprise. However, it has struck me recently how much I miss the familiar pleasures of my home.</td></tr>
 
-  T'POL [OC]
-     Go ahead.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L147"><td><a href="#L147">147</a></td><td>PHLOX:  You've experienced the nightclubs in our Kaybin district, so you know the excitement of meeting a new companion or two. The intimacy that can develop so quickly when all parties are receptive. You humans are a truly remarkable species, Doctor Lucas, but when Enterprise has accomplished its mission I look forward to being among Denobulans again. The more of them, the better.</td></tr>
 
-  PHLOX
-     Would you mind not creeping around the ship like a
-     Draxxan cloud viper.
+<tr><td></td><td>LOCATION--Archer's quarters</td></tr>
+<tr id="L148"><td><a href="#L148">148</a></td><td>PHLOX:  Good afternoon, Captain. How are we feeling today? Neurochemistry looks excellent, theta waves are good, you should wake up extremely well rested.</td></tr>
 
-  T'POL [OC]
-     Doctor?
+<tr id="L149"><td><a href="#L149">149</a></td><td>ANNOTATION: There's a creaking noise. He looks out of the porthole and recoils as something comes at him.</td></tr>
 
-  PHLOX
-     Please. I wouldn't have imagined that Vulcans
-     engaged in childish games.
+<tr id="L150"><td><a href="#L150">150</a></td><td>PHLOX:  Phlox to T'Pol.</td></tr>
 
-  T'POL [OC]
-     I don't understand.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L151"><td><a href="#L151">151</a></td><td>T'POL:  Internal sensors don't show any additional biosigns.</td></tr>
 
-  PHLOX
-     What were you doing in Engineering just now?
+<tr id="L152"><td><a href="#L152">152</a></td><td>PHLOX:  I told you, it was outside of the ship, on the hull.</td></tr>
 
-  T'POL [OC]
-     Doctor, I'm on the Bridge.
+<tr id="L153"><td><a href="#L153">153</a></td><td>T'POL:  There are no lifeforms anywhere in this vicinity.</td></tr>
 
+<tr id="L154"><td><a href="#L154">154</a></td><td>PHLOX:  What about alien vessels?</td></tr>
 
-LOCATION--Galley
+<tr id="L155"><td><a href="#L155">155</a></td><td>T'POL:  You can see for yourself there's nothing there.</td></tr>
 
-  PHLOX
-     I hope you don't mind eating here in the galley.
-     Mess hall seems a bit, er, oh, melancholy. All the
-     empty chairs.
+<tr id="L156"><td><a href="#L156">156</a></td><td>PHLOX:  You said this reconfigured space could be affecting our systems. What if it's interfering with our sensors?</td></tr>
 
-  T'POL
-     This is fine.
+<tr id="L157"><td><a href="#L157">157</a></td><td>T'POL:  That's possible, but we should consider another explanation. You mentioned you were having difficulty adjusting to the solitude of the past few days.</td></tr>
 
-  PHLOX
-     My fifth grandmother made this for each of my
-     weddings (ladling liquid). Chef's tried to prepare
-     it, but he never gets it quite right.
+<tr id="L158"><td><a href="#L158">158</a></td><td>PHLOX:  I didn't imagine it! I saw something.</td></tr>
 
-  T'POL
-     Yes, his plomeek broth leaves something to be
-     desired as well.
+<tr id="L159"><td><a href="#L159">159</a></td><td>T'POL:  Outside the ship, crawling on the hull.</td></tr>
 
-  PHLOX
-     I always thought so, but was afraid to mention it.
-     T'Pol, you're sure you weren't in Engineering
-     today?
+<tr id="L160"><td><a href="#L160">160</a></td><td>PHLOX:  What about what I saw in Engineering?</td></tr>
 
-  T'POL
-     Quite sure. What were you doing there? I'm
-     responsible for monitoring the engines.
+<tr id="L161"><td><a href="#L161">161</a></td><td>T'POL:  You ran the scans yourself. There is nothing unusual on board. You said you haven't slept much since we entered this disturbance. Perhaps you should return to your quarters, try to rest.</td></tr>
 
-  PHLOX
-     We're supposed to be assisting each other. It's a
-     large ship for two people to maintain.
+<tr id="L162"><td><a href="#L162">162</a></td><td>PHLOX:  I need to finish my rounds.</td></tr>
 
-  T'POL
-     Do you have anything to report? Doctor?
+<tr><td></td><td>LOCATION--Hoshi's quarters</td></tr>
+<tr id="L163"><td><a href="#L163">163</a></td><td>ANNOTATION: He sees an Insectoid standing over Hoshi.</td></tr>
 
-  PHLOX
-     I could have sworn there was someone in that room
-     with me.
+<tr id="L164"><td><a href="#L164">164</a></td><td>PHLOX:  Get away from her!</td></tr>
 
-  T'POL
-     A member of the crew?
+<tr id="L165"><td><a href="#L165">165</a></td><td>ANNOTATION: It comes after him, so he runs down a corridor, sees the shadow of another and hides in an airlock.</td></tr>
 
-  PHLOX
-     No, everyone except us is in deep neuro-sedation.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L166"><td><a href="#L166">166</a></td><td>PHLOX:  Phlox to T'Pol.</td></tr>
 
-  T'POL
-     Then obviously you were mistaken.
+<tr id="L167"><td><a href="#L167">167</a></td><td>T'POL [OC]:  Go ahead, Doctor.</td></tr>
 
-  PHLOX
-     Obviously. You've never been to Denobula, have
-     you.
+<tr id="L168"><td><a href="#L168">168</a></td><td>PHLOX:  It's the Xindi. They're on board.</td></tr>
 
-  T'POL
-     No.
+<tr><td></td><td>LOCATION--Armoury</td></tr>
+<tr id="L169"><td><a href="#L169">169</a></td><td>PHLOX:  We'll need to arm ourselves. I saw two. There could be more of them.</td></tr>
 
-  PHLOX
-     The cities are quite crowded, by choice, not by
-     necessity. The atmosphere is vibrant, communal.
+<tr id="L170"><td><a href="#L170">170</a></td><td>T'POL:  There's nothing on sensors.</td></tr>
 
-  T'POL
-     It sounds fascinating.
+<tr id="L171"><td><a href="#L171">171</a></td><td>PHLOX:  Then the sensors must be wrong.</td></tr>
 
-  PHLOX
-     What I'm saying is that we're a sociable people.
-     Being alone on Enterprise, just the two of us, has
-     proven more stressful than I imagined. Two people
-     aren't even enough for a Denobulan marriage, a
-     proper one anyway.
+<tr id="L172"><td><a href="#L172">172</a></td><td>T'POL:  Doctor. Phlox! I thought you were going to get some rest.</td></tr>
 
-  T'POL
-     I'm sorry I haven't been better company.
+<tr id="L173"><td><a href="#L173">173</a></td><td>PHLOX:  They were real. I saw them.</td></tr>
 
-  PHLOX
-     That isn't what I meant.
+<tr id="L174"><td><a href="#L174">174</a></td><td>T'POL:  If that's true, then how did they get on the ship? All external hatches and docking ports are sealed.</td></tr>
 
-  T'POL
-     I know. It is ironic, however, that I should be
-     your sole companion. Unlike your people, most
-     Vulcans will go to great lengths to find solitude.
-     At times it has been trying for me to co-exist
-     with eighty humans. Especially the more irrational
-     ones.
+<tr id="L175"><td><a href="#L175">175</a></td><td>PHLOX:  They could have transporter technology.</td></tr>
 
-  PHLOX
-     Such as Commander Tucker.
+<tr id="L176"><td><a href="#L176">176</a></td><td>T'POL:  There were no transporter signatures.</td></tr>
 
-  T'POL
-     I've found the last two days to be a welcome
-     respite.
+<tr id="L177"><td><a href="#L177">177</a></td><td>PHLOX:  What difference does it make how they got on board. If we wake up Lieutenant Reed or the MACOs they will be incapacitated in minutes, dead within hours. It is up to us to deal with this situation. I plan to start on G deck and work my way up.</td></tr>
 
-  PHLOX
-     I understand, but I for one will never complain
-     again when I can't get a good seat on movie night.
+<tr id="L178"><td><a href="#L178">178</a></td><td>ANNOTATION: She doesn't take the weapon he offers her.</td></tr>
 
-  ANNOTATION
-     T'Pol has not touched the food
+<tr id="L179"><td><a href="#L179">179</a></td><td>PHLOX:  I'm going to stop them whether you help me or not.</td></tr>
 
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L180"><td><a href="#L180">180</a></td><td>T'POL:  We've searched four decks.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L181"><td><a href="#L181">181</a></td><td>PHLOX:  That leaves three to go.</td></tr>
 
-  PHLOX
-     (dictating) Despite the tragic circumstances
-     surrounding your homecoming, Doctor Lucas, you
-     must be happy to return to Earth. As I've
-     mentioned before, I've no regrets about accepting
-     my position on Enterprise. However, it has struck
-     me recently how much I miss the familiar pleasures
-     of my home.
+<tr id="L182"><td><a href="#L182">182</a></td><td>T'POL:  If there are Xindi aboard, why are they concealing themselves?</td></tr>
 
+<tr id="L183"><td><a href="#L183">183</a></td><td>PHLOX:  They could be trying to destroy Enterprise. What better time than while the crew is incapacitated. (his scanner beeps) A biosign.</td></tr>
 
-LOCATION--Corridor
+<tr id="L184"><td><a href="#L184">184</a></td><td>T'POL:  There are over eighty biosigns aboard, not counting your pets in Sickbay.</td></tr>
 
-  PHLOX
-     You've experienced the nightclubs in our Kaybin
-     district, so you know the excitement of meeting a
-     new companion or two. The intimacy that can
-     develop so quickly when all parties are receptive.
-     You humans are a truly remarkable species, Doctor
-     Lucas, but when Enterprise has accomplished its
-     mission I look forward to being among Denobulans
-     again. The more of them, the better.
+<tr id="L185"><td><a href="#L185">185</a></td><td>PHLOX:  This isn't human.</td></tr>
 
+<tr id="L186"><td><a href="#L186">186</a></td><td>T'POL:  Neither are your pets.</td></tr>
 
-LOCATION--Archer's quarters
+<tr id="L187"><td><a href="#L187">187</a></td><td>PHLOX:  I can't lock onto it.</td></tr>
 
-  PHLOX
-     Good afternoon, Captain. How are we feeling today?
-     Neurochemistry looks excellent, theta waves are
-     good, you should wake up extremely well rested.
+<tr id="L188"><td><a href="#L188">188</a></td><td>T'POL:  There must be some interference, possibly from the reconfigured space.</td></tr>
 
-  ANNOTATION
-     There's a creaking noise. He looks out of the
-     porthole and recoils as something comes at him.
+<tr id="L189"><td><a href="#L189">189</a></td><td>PHLOX:  You said it wasn't affecting our sensors.</td></tr>
 
-  PHLOX
-     Phlox to T'Pol.
+<tr id="L190"><td><a href="#L190">190</a></td><td>T'POL:  I said it wasn't affecting main sensors. That hand scanner is far less powerful, you know that.</td></tr>
 
+<tr id="L191"><td><a href="#L191">191</a></td><td>PHLOX:  I have it. (further on) It's just ahead. (something comes round the corner, Phlox fires and thankfully misses Porthos)</td></tr>
 
-LOCATION--Bridge
+<tr id="L192"><td><a href="#L192">192</a></td><td>T'POL:  Doctor!</td></tr>
 
-  T'POL
-     Internal sensors don't show any additional
-     biosigns.
+<tr id="L193"><td><a href="#L193">193</a></td><td>PHLOX:  It's all right. Fortunately I'm not very proficient with hand weapons.</td></tr>
 
-  PHLOX
-     I told you, it was outside of the ship, on the
-     hull.
+<tr id="L194"><td><a href="#L194">194</a></td><td>T'POL:  How did he get out?</td></tr>
 
-  T'POL
-     There are no lifeforms anywhere in this vicinity.
+<tr id="L195"><td><a href="#L195">195</a></td><td>PHLOX:  I, er, I believe I. We went for a walk earlier. I might have neglected to put him back in my quarters.</td></tr>
 
-  PHLOX
-     What about alien vessels?
+<tr id="L196"><td><a href="#L196">196</a></td><td>T'POL:  And you simply forgot.</td></tr>
 
-  T'POL
-     You can see for yourself there's nothing there.
+<tr id="L197"><td><a href="#L197">197</a></td><td>PHLOX:  I've been distracted. I would have thought this could tell the difference between a giant insect and a beagle.</td></tr>
 
-  PHLOX
-     You said this reconfigured space could be
-     affecting our systems. What if it's interfering
-     with our sensors?
+<tr id="L198"><td><a href="#L198">198</a></td><td>T'POL:  It can, if you use it properly.</td></tr>
 
-  T'POL
-     That's possible, but we should consider another
-     explanation. You mentioned you were having
-     difficulty adjusting to the solitude of the past
-     few days.
+<tr id="L199"><td><a href="#L199">199</a></td><td>PHLOX:  You're the science officer, you might have offered some assistance in that area.</td></tr>
 
-  PHLOX
-     I didn't imagine it! I saw something.
+<tr id="L200"><td><a href="#L200">200</a></td><td>T'POL:  You feel I haven't been helpful? How would you characterise the two hours I wasted searching for a figment of your imagination?</td></tr>
 
-  T'POL
-     Outside the ship, crawling on the hull.
+<tr id="L201"><td><a href="#L201">201</a></td><td>PHLOX:  I'm not delusional.</td></tr>
 
-  PHLOX
-     What about what I saw in Engineering?
+<tr id="L202"><td><a href="#L202">202</a></td><td>T'POL:  Are you certain? As I recall, you once told Ensign Sato that it's considered healthy for Denobulans to hallucinate. It's how you release stress. You've been under a lot of stress lately, haven't you, Doctor.</td></tr>
 
-  T'POL
-     You ran the scans yourself. There is nothing
-     unusual on board. You said you haven't slept much
-     since we entered this disturbance. Perhaps you
-     should return to your quarters, try to rest.
+<tr id="L203"><td><a href="#L203">203</a></td><td>PHLOX:  It's not unheard of, but I</td></tr>
 
-  PHLOX
-     I need to finish my rounds.
+<tr id="L204"><td><a href="#L204">204</a></td><td>T'POL:  You said you've been having headaches. Is there anything else you care to tell me?</td></tr>
 
+<tr id="L205"><td><a href="#L205">205</a></td><td>PHLOX:  I'm fine.</td></tr>
 
-LOCATION--Hoshi's quarters
+<tr id="L206"><td><a href="#L206">206</a></td><td>T'POL:  You nearly shot the Captain's dog!</td></tr>
 
-  ANNOTATION
-     He sees an Insectoid standing over Hoshi.
+<tr id="L207"><td><a href="#L207">207</a></td><td>PHLOX:  I'm going to recalibrate this to exclude canine biosigns and then I'm going to finish searching this ship. I'm not seeing things and I intend to prove it. (stomps off)</td></tr>
 
-  PHLOX
-     Get away from her!
+<tr id="L208"><td><a href="#L208">208</a></td><td>HOSHI [OC]:  Ensign Sato to the Doctor.</td></tr>
 
-  ANNOTATION
-     It comes after him, so he runs down a corridor,
-     sees the shadow of another and hides in an
-     airlock.
+<tr id="L209"><td><a href="#L209">209</a></td><td>PHLOX:  Hoshi? Hoshi?</td></tr>
 
+<tr><td></td><td>LOCATION--Hoshi's quarters</td></tr>
+<tr id="L210"><td><a href="#L210">210</a></td><td>ANNOTATION: The shower is running, her bed is empty.</td></tr>
 
-LOCATION--Corridor
+<tr id="L211"><td><a href="#L211">211</a></td><td>PHLOX:  Ensign? Hoshi? What are you doing? I have to put you back under sedation immediately. You'll suffer permanent damage.</td></tr>
 
-  PHLOX
-     Phlox to T'Pol.
+<tr id="L212"><td><a href="#L212">212</a></td><td>ANNOTATION: He sees a disfigured woman.</td></tr>
 
-  T'POL [OC]
-     Go ahead, Doctor.
+<tr id="L213"><td><a href="#L213">213</a></td><td>PHLOX:  Hoshi?</td></tr>
 
-  PHLOX
-     It's the Xindi. They're on board.
+<tr id="L214"><td><a href="#L214">214</a></td><td>HOSHI:  You did this.</td></tr>
 
+<tr id="L215"><td><a href="#L215">215</a></td><td>PHLOX:  What?</td></tr>
 
-LOCATION--Armoury
+<tr id="L216"><td><a href="#L216">216</a></td><td>HOSHI:  You said we'd be safe.</td></tr>
 
-  PHLOX
-     We'll need to arm ourselves. I saw two. There
-     could be more of them.
+<tr id="L217"><td><a href="#L217">217</a></td><td>PHLOX:  Let me get you to Sickbay.</td></tr>
 
-  T'POL
-     There's nothing on sensors.
+<tr id="L218"><td><a href="#L218">218</a></td><td>HOSHI:  You promised us!</td></tr>
 
-  PHLOX
-     Then the sensors must be wrong.
+<tr id="L219"><td><a href="#L219">219</a></td><td>ANNOTATION: Phlox backs away, falls over, then sees Hoshi lying peacefully on her bed.</td></tr>
 
-  T'POL
-     Doctor. Phlox! I thought you were going to get
-     some rest.
+<tr id="L220"><td><a href="#L220">220</a></td><td>PHLOX:  T'Pol, please meet me in Sickbay immediately.</td></tr>
 
-  PHLOX
-     They were real. I saw them.
+<tr><td></td><td>LOCATION--Corridor outside turbolift</td></tr>
+<tr id="L221"><td><a href="#L221">221</a></td><td>ARCHER:  Where've you been? I was calling you.</td></tr>
 
-  T'POL
-     If that's true, then how did they get on the ship?
-     All external hatches and docking ports are sealed.
+<tr id="L222"><td><a href="#L222">222</a></td><td>PHLOX:  Captain. What are you doing up?</td></tr>
 
-  PHLOX
-     They could have transporter technology.
+<tr id="L223"><td><a href="#L223">223</a></td><td>ARCHER:  T'Pol woke me. She said something was wrong.</td></tr>
 
-  T'POL
-     There were no transporter signatures.
+<tr id="L224"><td><a href="#L224">224</a></td><td>PHLOX:  I don't know what's happening.</td></tr>
 
-  PHLOX
-     What difference does it make how they got on
-     board. If we wake up Lieutenant Reed or the MACOs
-     they will be incapacitated in minutes, dead within
-     hours. It is up to us to deal with this situation.
-     I plan to start on G deck and work my way up.
+<tr id="L225"><td><a href="#L225">225</a></td><td>ARCHER:  She said you've been seeing things. Something about Xindi on board the ship.</td></tr>
 
-  ANNOTATION
-     She doesn't take the weapon he offers her.
+<tr id="L226"><td><a href="#L226">226</a></td><td>PHLOX:  You're not concerned about that?</td></tr>
 
-  PHLOX
-     I'm going to stop them whether you help me or not.
+<tr id="L227"><td><a href="#L227">227</a></td><td>ANNOTATION: He starts backing away down the corridor.</td></tr>
 
+<tr id="L228"><td><a href="#L228">228</a></td><td>ARCHER:  I'm more concerned about you. I obviously expected too much from you.</td></tr>
 
-LOCATION--Corridor
+<tr id="L229"><td><a href="#L229">229</a></td><td>PHLOX:  You're not real.</td></tr>
 
-  T'POL
-     We've searched four decks.
+<tr id="L230"><td><a href="#L230">230</a></td><td>ARCHER:  Why don't you go to your quarters. Lie down. I'll take over. You did the best you could.</td></tr>
 
-  PHLOX
-     That leaves three to go.
+<tr id="L231"><td><a href="#L231">231</a></td><td>PHLOX:  You are not real!</td></tr>
 
-  T'POL
-     If there are Xindi aboard, why are they concealing
-     themselves?
+<tr id="L232"><td><a href="#L232">232</a></td><td>T'POL:  Doctor.</td></tr>
 
-  PHLOX
-     They could be trying to destroy Enterprise. What
-     better time than while the crew is incapacitated.
-     (his scanner beeps) A biosign.
+<tr id="L233"><td><a href="#L233">233</a></td><td>ANNOTATION: Phlox turns to look at her, and when he looks back, Archer has gone.</td></tr>
 
-  T'POL
-     There are over eighty biosigns aboard, not
-     counting your pets in Sickbay.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L234"><td><a href="#L234">234</a></td><td>PHLOX:  I was so busy monitoring the crew I never thought to run another neural scan on myself. The effects are subtle and difficult to detect, but there are disruptions deep within my neocortex. You were right. I was hallucinating.</td></tr>
 
-  PHLOX
-     This isn't human.
+<tr id="L235"><td><a href="#L235">235</a></td><td>T'POL:  Are you in danger?</td></tr>
 
-  T'POL
-     Neither are your pets.
+<tr id="L236"><td><a href="#L236">236</a></td><td>PHLOX:  I don't believe there'll be any permanent damage. However, it's obviously affecting my judgment. I have no choice but to put myself under neuro-sedation and ask you to look after the crew.</td></tr>
 
-  PHLOX
-     I can't lock onto it.
+<tr id="L237"><td><a href="#L237">237</a></td><td>T'POL:  I don't have the medical expertise.</td></tr>
 
-  T'POL
-     There must be some interference, possibly from the
-     reconfigured space.
+<tr id="L238"><td><a href="#L238">238</a></td><td>PHLOX:  With your scientific background, you should have no problems.</td></tr>
 
-  PHLOX
-     You said it wasn't affecting our sensors.
+<tr id="L239"><td><a href="#L239">239</a></td><td>T'POL:  I have my own duties. I can't possibly monitor the entire crew.</td></tr>
 
-  T'POL
-     I said it wasn't affecting main sensors. That hand
-     scanner is far less powerful, you know that.
+<tr id="L240"><td><a href="#L240">240</a></td><td>PHLOX:  It won't be for long. We'll be coming out of the disturbance in less than six hours. T'Pol, I'm asking for your help.</td></tr>
 
-  PHLOX
-     I have it. (further on) It's just ahead.
-     (something comes round the corner, Phlox fires and
-     thankfully misses Porthos)
+<tr id="L241"><td><a href="#L241">241</a></td><td>T'POL:  I can't.</td></tr>
 
-  T'POL
-     Doctor!
+<tr id="L242"><td><a href="#L242">242</a></td><td>PHLOX:  Why not?</td></tr>
 
-  PHLOX
-     It's all right. Fortunately I'm not very
-     proficient with hand weapons.
+<tr id="L243"><td><a href="#L243">243</a></td><td>T'POL:  When we were searching the ship, I became irritated with you.</td></tr>
 
-  T'POL
-     How did he get out?
+<tr id="L244"><td><a href="#L244">244</a></td><td>PHLOX:  Apparently, I deserved it.</td></tr>
 
-  PHLOX
-     I, er, I believe I. We went for a walk earlier. I
-     might have neglected to put him back in my
-     quarters.
+<tr id="L245"><td><a href="#L245">245</a></td><td>T'POL:  You don't understand. I was on the verge of losing control of my emotions. This reconfigured space is effecting me as well.</td></tr>
 
-  T'POL
-     And you simply forgot.
+<tr id="L246"><td><a href="#L246">246</a></td><td>PHLOX:  Why didn't you tell me?</td></tr>
 
-  PHLOX
-     I've been distracted. I would have thought this
-     could tell the difference between a giant insect
-     and a beagle.
+<tr id="L247"><td><a href="#L247">247</a></td><td>T'POL:  I'd hoped to control it, but it's proven more difficult than I thought. The crew is better off in your hands.</td></tr>
 
-  T'POL
-     It can, if you use it properly.
+<tr id="L248"><td><a href="#L248">248</a></td><td>PHLOX:  I doubt that. I nearly killed Porthos, remember. What if one of these delusions causes me to open an airlock or shut down life support?</td></tr>
 
-  PHLOX
-     You're the science officer, you might have offered
-     some assistance in that area.
+<tr id="L249"><td><a href="#L249">249</a></td><td>T'POL:  You won't do that.</td></tr>
 
-  T'POL
-     You feel I haven't been helpful? How would you
-     characterise the two hours I wasted searching for
-     a figment of your imagination?
+<tr id="L250"><td><a href="#L250">250</a></td><td>PHLOX:  How do you know?</td></tr>
 
-  PHLOX
-     I'm not delusional.
+<tr id="L251"><td><a href="#L251">251</a></td><td>T'POL:  Because your duty is to look out for the welfare of this crew. Why do you think the Captain allowed you to sedate him over Commander Tucker's objections? Because he trusts you, as do I.</td></tr>
 
-  T'POL
-     Are you certain? As I recall, you once told Ensign
-     Sato that it's considered healthy for Denobulans
-     to hallucinate. It's how you release stress.
-     You've been under a lot of stress lately, haven't
-     you, Doctor.
+<tr id="L252"><td><a href="#L252">252</a></td><td>PHLOX:  I'm not sure I trust myself.</td></tr>
 
-  PHLOX
-     It's not unheard of, but I
+<tr id="L253"><td><a href="#L253">253</a></td><td>T'POL:  Just a few more hours, Doctor.</td></tr>
 
-  T'POL
-     You said you've been having headaches. Is there
-     anything else you care to tell me?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L254"><td><a href="#L254">254</a></td><td>PHLOX [OC]:  So, Doctor Lucas, while the past few days have proven challenging, both T'Pol and I are relieved that our adventure is nearly over.</td></tr>
 
-  PHLOX
-     I'm fine.
+<tr id="L255"><td><a href="#L255">255</a></td><td>PHLOX:  (taking the helm) Once we've confirmed we're out of the disturbance I can begin waking the senior officers. My medical staff should be next. They can assist me with the rest of the</td></tr>
 
-  T'POL
-     You nearly shot the Captain's dog!
+<tr id="L256"><td><a href="#L256">256</a></td><td>ANNOTATION: He gazes in disbelief at a purple viewscreen.</td></tr>
 
-  PHLOX
-     I'm going to recalibrate this to exclude canine
-     biosigns and then I'm going to finish searching
-     this ship. I'm not seeing things and I intend to
-     prove it. (stomps off)
+<tr id="L257"><td><a href="#L257">257</a></td><td>PHLOX:  We should have been out of the disturbance half an hour ago.</td></tr>
 
-  HOSHI [OC]
-     Ensign Sato to the Doctor.
+<tr id="L258"><td><a href="#L258">258</a></td><td>T'POL:  There could have been some slight navigational discrepancies.</td></tr>
 
-  PHLOX
-     Hoshi? Hoshi?
+<tr id="L259"><td><a href="#L259">259</a></td><td>PHLOX:  I thought space travel was supposed to be precise.</td></tr>
 
+<tr id="L260"><td><a href="#L260">260</a></td><td>T'POL:  Not always. Check long range sensors.</td></tr>
 
-LOCATION--Hoshi's quarters
+<tr id="L261"><td><a href="#L261">261</a></td><td>ANNOTATION: Phlox dashes to the back of the Situation room.</td></tr>
 
-  ANNOTATION
-     The shower is running, her bed is empty.
+<tr id="L262"><td><a href="#L262">262</a></td><td>PHLOX:  What do you think I'm doing. There's more than a slight discrepancy.</td></tr>
 
-  PHLOX
-     Ensign? Hoshi? What are you doing? I have to put
-     you back under sedation immediately. You'll suffer
-     permanent damage.
+<tr id="L263"><td><a href="#L263">263</a></td><td>T'POL:  This can't be correct. We're nearly a quarter of a light year from the far edge.</td></tr>
 
-  ANNOTATION
-     He sees a disfigured woman.
+<tr id="L264"><td><a href="#L264">264</a></td><td>PHLOX:  At our current rate of speed we won't be out of this for another ten weeks! Autonavigation is still engaged, engines are online, why aren't we through?</td></tr>
 
-  PHLOX
-     Hoshi?
+<tr id="L265"><td><a href="#L265">265</a></td><td>T'POL:  The reconfigured space has expanded.</td></tr>
 
-  HOSHI
-     You did this.
+<tr id="L266"><td><a href="#L266">266</a></td><td>PHLOX:  But we knew it would. Travis said our course and speed would compensate. T'Pol?</td></tr>
 
-  PHLOX
-     What?
+<tr id="L267"><td><a href="#L267">267</a></td><td>T'POL:  Obviously the rate of acceleration has accelerated. We need to increase speed.</td></tr>
 
-  HOSHI
-     You said we'd be safe.
+<tr id="L268"><td><a href="#L268">268</a></td><td>PHLOX:  We're already at full impulse.</td></tr>
 
-  PHLOX
-     Let me get you to Sickbay.
+<tr id="L269"><td><a href="#L269">269</a></td><td>T'POL:  As you can see, that's insufficient. We need to go to warp.</td></tr>
 
-  HOSHI
-     You promised us!
+<tr id="L270"><td><a href="#L270">270</a></td><td>PHLOX:  Commander Tucker said it would be too dangerous. We don't know what might happen.</td></tr>
 
-  ANNOTATION
-     Phlox backs away, falls over, then sees Hoshi
-     lying peacefully on her bed.
+<tr id="L271"><td><a href="#L271">271</a></td><td>T'POL:  What do you propose? Keeping the crew comatose for the next ten weeks?</td></tr>
 
-  PHLOX
-     T'Pol, please meet me in Sickbay immediately.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L272"><td><a href="#L272">272</a></td><td>PHLOX:  All right, what do we do first?</td></tr>
 
+<tr id="L273"><td><a href="#L273">273</a></td><td>T'POL:  I'm afraid I may not be of much assistance.</td></tr>
 
-LOCATION--Corridor outside turbolift
+<tr id="L274"><td><a href="#L274">274</a></td><td>PHLOX:  Do I need to keep reminding you, you are the Science Officer.</td></tr>
 
-  ARCHER
-     Where've you been? I was calling you.
+<tr id="L275"><td><a href="#L275">275</a></td><td>T'POL:  I already told you, I'm finding it difficult to focus.</td></tr>
 
-  PHLOX
-     Captain. What are you doing up?
+<tr id="L276"><td><a href="#L276">276</a></td><td>PHLOX:  On your worst day you're more qualified to operate the warp engines than I am.</td></tr>
 
-  ARCHER
-     T'Pol woke me. She said something was wrong.
+<tr id="L277"><td><a href="#L277">277</a></td><td>T'POL:  Unfortunately, this is by far one of my worst days.</td></tr>
 
-  PHLOX
-     I don't know what's happening.
+<tr id="L278"><td><a href="#L278">278</a></td><td>PHLOX:  I'm a physician, not an engineer.</td></tr>
 
-  ARCHER
-     She said you've been seeing things. Something
-     about Xindi on board the ship.
+<tr id="L279"><td><a href="#L279">279</a></td><td>T'POL:  You hold a dozen scientific degrees.</td></tr>
 
-  PHLOX
-     You're not concerned about that?
+<tr id="L280"><td><a href="#L280">280</a></td><td>PHLOX:  None of them are in warp theory.</td></tr>
 
-  ANNOTATION
-     He starts backing away down the corridor.
+<tr id="L281"><td><a href="#L281">281</a></td><td>T'POL:  The procedures for restarting the reactor are in the database.</td></tr>
 
-  ARCHER
-     I'm more concerned about you. I obviously expected
-     too much from you.
+<tr id="L282"><td><a href="#L282">282</a></td><td>PHLOX:  You're suggesting I read the manual? (but he does, from a screen) Output must be confined to within three hundred and three hundred twelve millicochranes to prevent fusion of the dilithium matrix.</td></tr>
 
-  PHLOX
-     You're not real.
+<tr id="L283"><td><a href="#L283">283</a></td><td>T'POL:  That seems simple enough.</td></tr>
 
-  ARCHER
-     Why don't you go to your quarters. Lie down. I'll
-     take over. You did the best you could.
+<tr id="L284"><td><a href="#L284">284</a></td><td>PHLOX:  Unless the spatial compression index is greater than five point six two percent, or the ship is within two parsecs of a class C gravimetric field distortion?</td></tr>
 
-  PHLOX
-     You are not real!
+<tr id="L285"><td><a href="#L285">285</a></td><td>T'POL:  I realise this is a complex procedure.</td></tr>
 
-  T'POL
-     Doctor.
+<tr id="L286"><td><a href="#L286">286</a></td><td>PHLOX:  Complex? This is utterly baffling. It might as well be written ancient Klingon for all the sense I can make of it. I'm sorry.</td></tr>
 
-  ANNOTATION
-     Phlox turns to look at her, and when he looks
-     back, Archer has gone.
+<tr id="L287"><td><a href="#L287">287</a></td><td>T'POL:  I understand. I just wish I could be more helpful.</td></tr>
 
+<tr id="L288"><td><a href="#L288">288</a></td><td>PHLOX:  You're doing fine. We have to close the plasma relays before we can begin the start-up sequence. Would you mind?</td></tr>
 
-LOCATION--Sickbay
+<tr id="L289"><td><a href="#L289">289</a></td><td>TUCKER:  What the hell are you doing? I told you not to mess with the warp engines.</td></tr>
 
-  PHLOX
-     I was so busy monitoring the crew I never thought
-     to run another neural scan on myself. The effects
-     are subtle and difficult to detect, but there are
-     disruptions deep within my neocortex. You were
-     right. I was hallucinating.
+<tr id="L290"><td><a href="#L290">290</a></td><td>PHLOX:  I don't have time for this.</td></tr>
 
-  T'POL
-     Are you in danger?
+<tr id="L291"><td><a href="#L291">291</a></td><td>TUCKER:  You'd better make time, Doc. I told you, you can't start the warp reactor inside this disturbance.</td></tr>
 
-  PHLOX
-     I don't believe there'll be any permanent damage.
-     However, it's obviously affecting my judgment. I
-     have no choice but to put myself under
-     neuro-sedation and ask you to look after the crew.
+<tr id="L292"><td><a href="#L292">292</a></td><td>PHLOX:  Actually you told me it would be difficult, not impossible.</td></tr>
 
-  T'POL
-     I don't have the medical expertise.
+<tr id="L293"><td><a href="#L293">293</a></td><td>TUCKER:  That machine was designed to manipulate space, to violate the laws of motion. You make the tiniest mistake, you'll collapse the warp field, you'll crush this ship.</td></tr>
 
-  PHLOX
-     With your scientific background, you should have
-     no problems.
+<tr id="L294"><td><a href="#L294">294</a></td><td>PHLOX:  Thank you for the warning.</td></tr>
 
-  T'POL
-     I have my own duties. I can't possibly monitor the
-     entire crew.
+<tr id="L295"><td><a href="#L295">295</a></td><td>TUCKER:  You're going to screw this up, Phlox!</td></tr>
 
-  PHLOX
-     It won't be for long. We'll be coming out of the
-     disturbance in less than six hours. T'Pol, I'm
-     asking for your help.
+<tr id="L296"><td><a href="#L296">296</a></td><td>PHLOX:  Go away.</td></tr>
 
-  T'POL
-     I can't.
+<tr id="L297"><td><a href="#L297">297</a></td><td>TUCKER:  You're going to kill everybody.</td></tr>
 
-  PHLOX
-     Why not?
+<tr id="L298"><td><a href="#L298">298</a></td><td>PHLOX:  Can't you see I'm busy!</td></tr>
 
-  T'POL
-     When we were searching the ship, I became
-     irritated with you.
+<tr id="L299"><td><a href="#L299">299</a></td><td>T'POL:  Doctor, are you all right?</td></tr>
 
-  PHLOX
-     Apparently, I deserved it.
+<tr id="L300"><td><a href="#L300">300</a></td><td>PHLOX:  Fine.</td></tr>
 
-  T'POL
-     You don't understand. I was on the verge of losing
-     control of my emotions. This reconfigured space is
-     effecting me as well.
+<tr id="L301"><td><a href="#L301">301</a></td><td>T'POL:  Doctor, I can't find the plasma relays.</td></tr>
 
-  PHLOX
-     Why didn't you tell me?
+<tr id="L302"><td><a href="#L302">302</a></td><td>PHLOX:  I'll do it myself.</td></tr>
 
-  T'POL
-     I'd hoped to control it, but it's proven more
-     difficult than I thought. The crew is better off
-     in your hands.
+<tr id="L303"><td><a href="#L303">303</a></td><td>ANNOTATION: He goes to the main reactor controls.</td></tr>
 
-  PHLOX
-     I doubt that. I nearly killed Porthos, remember.
-     What if one of these delusions causes me to open
-     an airlock or shut down life support?
+<tr id="L304"><td><a href="#L304">304</a></td><td>PHLOX:  Deuterium pressure is nominal. Anti-matter constrictor coils are online. Warp two should be sufficient.</td></tr>
 
-  T'POL
-     You won't do that.
+<tr id="L305"><td><a href="#L305">305</a></td><td>T'POL:  Shall we try?</td></tr>
 
-  PHLOX
-     How do you know?
+<tr id="L306"><td><a href="#L306">306</a></td><td>ANNOTATION: Bits of engine room start to light up.</td></tr>
 
-  T'POL
-     Because your duty is to look out for the welfare
-     of this crew. Why do you think the Captain allowed
-     you to sedate him over Commander Tucker's
-     objections? Because he trusts you, as do I.
+<tr id="L307"><td><a href="#L307">307</a></td><td>PHLOX:  The intermix is stable. A warp field is forming.</td></tr>
 
-  PHLOX
-     I'm not sure I trust myself.
+<tr id="L308"><td><a href="#L308">308</a></td><td>ANNOTATION: An alarm sounds.</td></tr>
 
-  T'POL
-     Just a few more hours, Doctor.
+<tr id="L309"><td><a href="#L309">309</a></td><td>T'POL:  What's wrong?</td></tr>
 
+<tr id="L310"><td><a href="#L310">310</a></td><td>PHLOX:  I don't know.</td></tr>
 
-LOCATION--Bridge
+<tr id="L311"><td><a href="#L311">311</a></td><td>ANNOTATION: The ship shakes and the nacelles stutter.</td></tr>
 
-  PHLOX [OC]
-     So, Doctor Lucas, while the past few days have
-     proven challenging, both T'Pol and I are relieved
-     that our adventure is nearly over.
+<tr id="L312"><td><a href="#L312">312</a></td><td>PHLOX:  I followed the procedures exactly. What did I do wrong?</td></tr>
 
-  PHLOX
-     (taking the helm) Once we've confirmed we're out
-     of the disturbance I can begin waking the senior
-     officers. My medical staff should be next. They
-     can assist me with the rest of the
+<tr id="L313"><td><a href="#L313">313</a></td><td>T'POL:  You need to</td></tr>
 
-  ANNOTATION
-     He gazes in disbelief at a purple viewscreen.
+<tr id="L314"><td><a href="#L314">314</a></td><td>PHLOX:  What? What, T'Pol? Help me. Is it the particle confinement?</td></tr>
 
-  PHLOX
-     We should have been out of the disturbance half an
-     hour ago.
+<tr id="L315"><td><a href="#L315">315</a></td><td>T'POL:  Perhaps you should increase it.</td></tr>
 
-  T'POL
-     There could have been some slight navigational
-     discrepancies.
+<tr id="L316"><td><a href="#L316">316</a></td><td>PHLOX:  How do I do that?</td></tr>
 
-  PHLOX
-     I thought space travel was supposed to be precise.
+<tr id="L317"><td><a href="#L317">317</a></td><td>ANNOTATION: He dashes to his help screen.</td></tr>
 
-  T'POL
-     Not always. Check long range sensors.
+<tr id="L318"><td><a href="#L318">318</a></td><td>PHLOX:  Particle confinement, particle confinement.</td></tr>
 
-  ANNOTATION
-     Phlox dashes to the back of the Situation room.
+<tr id="L319"><td><a href="#L319">319</a></td><td>ANNOTATION: Things go bang.</td></tr>
 
-  PHLOX
-     What do you think I'm doing. There's more than a
-     slight discrepancy.
+<tr id="L320"><td><a href="#L320">320</a></td><td>T'POL:  Doctor, perhaps we should wake Commander Tucker.</td></tr>
 
-  T'POL
-     This can't be correct. We're nearly a quarter of a
-     light year from the far edge.
+<tr id="L321"><td><a href="#L321">321</a></td><td>PHLOX:  He'll die.</td></tr>
 
-  PHLOX
-     At our current rate of speed we won't be out of
-     this for another ten weeks! Autonavigation is
-     still engaged, engines are online, why aren't we
-     through?
+<tr id="L322"><td><a href="#L322">322</a></td><td>T'POL:  If we destroy the ship, we'll all die.</td></tr>
 
-  T'POL
-     The reconfigured space has expanded.
+<tr id="L323"><td><a href="#L323">323</a></td><td>PHLOX:  I know.</td></tr>
 
-  PHLOX
-     But we knew it would. Travis said our course and
-     speed would compensate. T'Pol?
+<tr id="L324"><td><a href="#L324">324</a></td><td>T'POL:  If we can't accomplish our mission, billions of people on Earth could die. Isn't it logical to sacrifice one life to save so many?</td></tr>
 
-  T'POL
-     Obviously the rate of acceleration has
-     accelerated. We need to increase speed.
+<tr id="L325"><td><a href="#L325">325</a></td><td>PHLOX:  I'm not willing to make that sacrifice yet. Particle confinement. Increase power to the magnetic constriction coils.</td></tr>
 
-  PHLOX
-     We're already at full impulse.
+<tr id="L326"><td><a href="#L326">326</a></td><td>ANNOTATION: She can't touch the controls, and looks plaintively at him.</td></tr>
 
-  T'POL
-     As you can see, that's insufficient. We need to go
-     to warp.
+<tr id="L327"><td><a href="#L327">327</a></td><td>PHLOX:  T'Pol! Here.</td></tr>
 
-  PHLOX
-     Commander Tucker said it would be too dangerous.
-     We don't know what might happen.
+<tr id="L328"><td><a href="#L328">328</a></td><td>ANNOTATION: He does it himself and the shaking stops.</td></tr>
 
-  T'POL
-     What do you propose? Keeping the crew comatose for
-     the next ten weeks?
+<tr id="L329"><td><a href="#L329">329</a></td><td>T'POL:  The field is stabilising.</td></tr>
 
+<tr id="L330"><td><a href="#L330">330</a></td><td>PHLOX:  It's holding.</td></tr>
 
-LOCATION--Engineering
+<tr id="L331"><td><a href="#L331">331</a></td><td>T'POL:  Then I suggest we go to warp.</td></tr>
 
-  PHLOX
-     All right, what do we do first?
+<tr id="L332"><td><a href="#L332">332</a></td><td>PHLOX:  Engaging warp engines. Warp one point one, point two.</td></tr>
 
-  T'POL
-     I'm afraid I may not be of much assistance.
+<tr id="L333"><td><a href="#L333">333</a></td><td>ANNOTATION: The engine gets unhappy again.</td></tr>
 
-  PHLOX
-     Do I need to keep reminding you, you are the
-     Science Officer.
+<tr id="L334"><td><a href="#L334">334</a></td><td>PHLOX:  Pressure on the hull's increasing.</td></tr>
 
-  T'POL
-     I already told you, I'm finding it difficult to
-     focus.
+<tr id="L335"><td><a href="#L335">335</a></td><td>T'POL:  What are you doing?</td></tr>
 
-  PHLOX
-     On your worst day you're more qualified to operate
-     the warp engines than I am.
+<tr id="L336"><td><a href="#L336">336</a></td><td>PHLOX:  Lieutenant Reed insisted on showing me how to transfer power to the hull plating, just in case. It seems to be working. Warp one point eight, one point nine, warp two!</td></tr>
 
-  T'POL
-     Unfortunately, this is by far one of my worst
-     days.
+<tr><td></td><td>LOCATION--Archer's quarters</td></tr>
+<tr id="L337"><td><a href="#L337">337</a></td><td>ANNOTATION: Safely back in normal space, Phlox removes the neural inhibitor from Archer's forehead and gives him a hypo.</td></tr>
 
-  PHLOX
-     I'm a physician, not an engineer.
+<tr id="L338"><td><a href="#L338">338</a></td><td>ARCHER:  Doctor.</td></tr>
 
-  T'POL
-     You hold a dozen scientific degrees.
+<tr id="L339"><td><a href="#L339">339</a></td><td>PHLOX:  Lie still. Your neocortex may need a few moments to warm up.</td></tr>
 
-  PHLOX
-     None of them are in warp theory.
+<tr id="L340"><td><a href="#L340">340</a></td><td>ARCHER:  Are we through the disturbance?</td></tr>
 
-  T'POL
-     The procedures for restarting the reactor are in
-     the database.
+<tr id="L341"><td><a href="#L341">341</a></td><td>PHLOX:  Yes. I'll begin waking the rest of the crew shortly.</td></tr>
 
-  PHLOX
-     You're suggesting I read the manual? (but he does,
-     from a screen) Output must be confined to within
-     three hundred and three hundred twelve
-     millicochranes to prevent fusion of the dilithium
-     matrix.
+<tr id="L342"><td><a href="#L342">342</a></td><td>ARCHER:  Any problems?</td></tr>
 
-  T'POL
-     That seems simple enough.
+<tr id="L343"><td><a href="#L343">343</a></td><td>PHLOX:  A few minor glitches. It will all be in my log. If you're feeling up to it, you have a visitor.</td></tr>
 
-  PHLOX
-     Unless the spatial compression index is greater
-     than five point six two percent, or the ship is
-     within two parsecs of a class C gravimetric field
-     distortion?
+<tr id="L344"><td><a href="#L344">344</a></td><td>ARCHER:  Hey. (fondling Porthos) Thanks, Doctor.</td></tr>
 
-  T'POL
-     I realise this is a complex procedure.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L345"><td><a href="#L345">345</a></td><td>PHLOX:  How are you feeling?</td></tr>
 
-  PHLOX
-     Complex? This is utterly baffling. It might as
-     well be written ancient Klingon for all the sense
-     I can make of it. I'm sorry.
+<tr id="L346"><td><a href="#L346">346</a></td><td>TUCKER:  A little woozy.</td></tr>
 
-  T'POL
-     I understand. I just wish I could be more helpful.
+<tr id="L347"><td><a href="#L347">347</a></td><td>PHLOX:  I'm not surprised. You haven't eaten anything in four days. Get to the Mess hall.</td></tr>
 
-  PHLOX
-     You're doing fine. We have to close the plasma
-     relays before we can begin the start-up sequence.
-     Would you mind?
+<tr id="L348"><td><a href="#L348">348</a></td><td>TUCKER:  Aye, aye, Doc.</td></tr>
 
-  TUCKER
-     What the hell are you doing? I told you not to
-     mess with the warp engines.
+<tr id="L349"><td><a href="#L349">349</a></td><td>ANNOTATION: Tucker leaves.</td></tr>
 
-  PHLOX
-     I don't have time for this.
+<tr id="L350"><td><a href="#L350">350</a></td><td>T'POL:  I'll assist you in waking the others.</td></tr>
 
-  TUCKER
-     You'd better make time, Doc. I told you, you can't
-     start the warp reactor inside this disturbance.
+<tr id="L351"><td><a href="#L351">351</a></td><td>PHLOX:  Oh, that won't be necessary. I appreciate the offer but you need some rest. Let me walk you to your quarters.</td></tr>
 
-  PHLOX
-     Actually you told me it would be difficult, not
-     impossible.
+<tr id="L352"><td><a href="#L352">352</a></td><td>T'POL:  Doctor's orders?</td></tr>
 
-  TUCKER
-     That machine was designed to manipulate space, to
-     violate the laws of motion. You make the tiniest
-     mistake, you'll collapse the warp field, you'll
-     crush this ship.
+<tr><td></td><td>LOCATION--T'Pol's quarters</td></tr>
+<tr id="L353"><td><a href="#L353">353</a></td><td>T'POL:  Thank you.</td></tr>
 
-  PHLOX
-     Thank you for the warning.
+<tr id="L354"><td><a href="#L354">354</a></td><td>PHLOX:  I'll stop by and check on you in a few hours.</td></tr>
 
-  TUCKER
-     You're going to screw this up, Phlox!
+<tr id="L355"><td><a href="#L355">355</a></td><td>ANNOTATION: He glances at the bed and sees T'Pol lying there, comatose. The T'Pol he was talking to has vanished.</td></tr>
 
-  PHLOX
-     Go away.
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L356"><td><a href="#L356">356</a></td><td>PHLOX [OC]:  As you might guess, Doctor Lucas, I had considered deleting this letter and starting over, since large sections of it are now obviously fictitious. However, I decided that my delusional account would probably prove entertaining. As always, you have my best wishes. Your friend and colleague, Phlox.</td></tr>
 
-  TUCKER
-     You're going to kill everybody.
+<tr id="L357"><td><a href="#L357">357</a></td><td>PHLOX:  May I join you?</td></tr>
 
-  PHLOX
-     Can't you see I'm busy!
+<tr id="L358"><td><a href="#L358">358</a></td><td>T'POL:  Of course. Commander Tucker was complaining that it will take him days to realign the warp coils.</td></tr>
 
-  T'POL
-     Doctor, are you all right?
+<tr id="L359"><td><a href="#L359">359</a></td><td>PHLOX:  Yes, he gave me quite a talking to.</td></tr>
 
-  PHLOX
-     Fine.
+<tr id="L360"><td><a href="#L360">360</a></td><td>T'POL:  He also said, and I quote, Phlox did one hell of a job. You must have enjoyed having the ship to yourself.</td></tr>
 
-  T'POL
-     Doctor, I can't find the plasma relays.
+<tr id="L361"><td><a href="#L361">361</a></td><td>PHLOX:  It wasn't nearly as empty as I'd anticipated.</td></tr>
 
-  PHLOX
-     I'll do it myself.
-
-  ANNOTATION
-     He goes to the main reactor controls.
-
-  PHLOX
-     Deuterium pressure is nominal. Anti-matter
-     constrictor coils are online. Warp two should be
-     sufficient.
-
-  T'POL
-     Shall we try?
-
-  ANNOTATION
-     Bits of engine room start to light up.
-
-  PHLOX
-     The intermix is stable. A warp field is forming.
-
-  ANNOTATION
-     An alarm sounds.
-
-  T'POL
-     What's wrong?
-
-  PHLOX
-     I don't know.
-
-  ANNOTATION
-     The ship shakes and the nacelles stutter.
-
-  PHLOX
-     I followed the procedures exactly. What did I do
-     wrong?
-
-  T'POL
-     You need to
-
-  PHLOX
-     What? What, T'Pol? Help me. Is it the particle
-     confinement?
-
-  T'POL
-     Perhaps you should increase it.
-
-  PHLOX
-     How do I do that?
-
-  ANNOTATION
-     He dashes to his help screen.
-
-  PHLOX
-     Particle confinement, particle confinement.
-
-  ANNOTATION
-     Things go bang.
-
-  T'POL
-     Doctor, perhaps we should wake Commander Tucker.
-
-  PHLOX
-     He'll die.
-
-  T'POL
-     If we destroy the ship, we'll all die.
-
-  PHLOX
-     I know.
-
-  T'POL
-     If we can't accomplish our mission, billions of
-     people on Earth could die. Isn't it logical to
-     sacrifice one life to save so many?
-
-  PHLOX
-     I'm not willing to make that sacrifice yet.
-     Particle confinement. Increase power to the
-     magnetic constriction coils.
-
-  ANNOTATION
-     She can't touch the controls, and looks
-     plaintively at him.
-
-  PHLOX
-     T'Pol! Here.
-
-  ANNOTATION
-     He does it himself and the shaking stops.
-
-  T'POL
-     The field is stabilising.
-
-  PHLOX
-     It's holding.
-
-  T'POL
-     Then I suggest we go to warp.
-
-  PHLOX
-     Engaging warp engines. Warp one point one, point
-     two.
-
-  ANNOTATION
-     The engine gets unhappy again.
-
-  PHLOX
-     Pressure on the hull's increasing.
-
-  T'POL
-     What are you doing?
-
-  PHLOX
-     Lieutenant Reed insisted on showing me how to
-     transfer power to the hull plating, just in case.
-     It seems to be working. Warp one point eight, one
-     point nine, warp two!
-
-
-LOCATION--Archer's quarters
-
-  ANNOTATION
-     Safely back in normal space, Phlox removes the
-     neural inhibitor from Archer's forehead and gives
-     him a hypo.
-
-  ARCHER
-     Doctor.
-
-  PHLOX
-     Lie still. Your neocortex may need a few moments
-     to warm up.
-
-  ARCHER
-     Are we through the disturbance?
-
-  PHLOX
-     Yes. I'll begin waking the rest of the crew
-     shortly.
-
-  ARCHER
-     Any problems?
-
-  PHLOX
-     A few minor glitches. It will all be in my log. If
-     you're feeling up to it, you have a visitor.
-
-  ARCHER
-     Hey. (fondling Porthos) Thanks, Doctor.
-
-
-LOCATION--Corridor
-
-  PHLOX
-     How are you feeling?
-
-  TUCKER
-     A little woozy.
-
-  PHLOX
-     I'm not surprised. You haven't eaten anything in
-     four days. Get to the Mess hall.
-
-  TUCKER
-     Aye, aye, Doc.
-
-  ANNOTATION
-     Tucker leaves.
-
-  T'POL
-     I'll assist you in waking the others.
-
-  PHLOX
-     Oh, that won't be necessary. I appreciate the
-     offer but you need some rest. Let me walk you to
-     your quarters.
-
-  T'POL
-     Doctor's orders?
-
-
-LOCATION--T'Pol's quarters
-
-  T'POL
-     Thank you.
-
-  PHLOX
-     I'll stop by and check on you in a few hours.
-
-  ANNOTATION
-     He glances at the bed and sees T'Pol lying there,
-     comatose. The T'Pol he was talking to has
-     vanished.
-
-
-LOCATION--Mess hall
-
-  PHLOX [OC]
-     As you might guess, Doctor Lucas, I had considered
-     deleting this letter and starting over, since
-     large sections of it are now obviously fictitious.
-     However, I decided that my delusional account
-     would probably prove entertaining. As always, you
-     have my best wishes. Your friend and colleague,
-     Phlox.
-
-  PHLOX
-     May I join you?
-
-  T'POL
-     Of course. Commander Tucker was complaining that
-     it will take him days to realign the warp coils.
-
-  PHLOX
-     Yes, he gave me quite a talking to.
-
-  T'POL
-     He also said, and I quote, Phlox did one hell of a
-     job. You must have enjoyed having the ship to
-     yourself.
-
-  PHLOX
-     It wasn't nearly as empty as I'd anticipated.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

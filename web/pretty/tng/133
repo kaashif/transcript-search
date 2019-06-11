@@ -1,1703 +1,873 @@
-Unnatural Selection
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Unnatural Selection</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>PICARD:  Come.</td></tr>
 
-LOCATION--Ready room
+<tr id="L2"><td><a href="#L2">2</a></td><td>ANNOTATION: Troi enters</td></tr>
 
-  PICARD
-     Come.
+<tr id="L3"><td><a href="#L3">3</a></td><td>TROI:  You wanted to see me, Captain?</td></tr>
 
-  ANNOTATION
-     Troi enters
+<tr id="L4"><td><a href="#L4">4</a></td><td>PICARD:  Yes, Counsellor. Come, sit down. Counsellor, you've had the opportunity to observe Doctor Pulaski for some time now. How would you evaluate her as a Chief Medical Officer?</td></tr>
 
-  TROI
-     You wanted to see me, Captain?
+<tr id="L5"><td><a href="#L5">5</a></td><td>TROI:  I've never met a more dedicated physician. I would say she has a passion for her work.</td></tr>
 
-  PICARD
-     Yes, Counsellor. Come, sit down. Counsellor,
-     you've had the opportunity to observe Doctor
-     Pulaski for some time now. How would you evaluate
-     her as a Chief Medical Officer?
+<tr id="L6"><td><a href="#L6">6</a></td><td>PICARD:  Yes, of course. I entirely agree. Is it possible that such consuming dedication could interfere with her judgement?</td></tr>
 
-  TROI
-     I've never met a more dedicated physician. I would
-     say she has a passion for her work.
+<tr id="L7"><td><a href="#L7">7</a></td><td>TROI:  I feel your concern, Captain, but I don't share it. Perhaps because I've had the opportunity to spend more time with her and get to know her better.</td></tr>
 
-  PICARD
-     Yes, of course. I entirely agree. Is it possible
-     that such consuming dedication could interfere
-     with her judgement?
+<tr id="L8"><td><a href="#L8">8</a></td><td>PICARD:  Yes, perhaps you're right.</td></tr>
 
-  TROI
-     I feel your concern, Captain, but I don't share
-     it. Perhaps because I've had the opportunity to
-     spend more time with her and get to know her
-     better.
+<tr id="L9"><td><a href="#L9">9</a></td><td>DATA [OC]:  Captain, we are picking up a faint distress signal on an open subspace frequency. It appears to be coming from an adjacent sector.</td></tr>
 
-  PICARD
-     Yes, perhaps you're right.
+<tr id="L10"><td><a href="#L10">10</a></td><td>PICARD:  Respond on the same frequency.</td></tr>
 
-  DATA [OC]
-     Captain, we are picking up a faint distress signal
-     on an open subspace frequency. It appears to be
-     coming from an adjacent sector.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L11"><td><a href="#L11">11</a></td><td>PICARD:  Are you locked on to that transmission?</td></tr>
 
-  PICARD
-     Respond on the same frequency.
+<tr id="L12"><td><a href="#L12">12</a></td><td>DATA:  Aye, sir. A voice only transmission from the USS Lantree, a Federation supply ship.</td></tr>
 
+<tr id="L13"><td><a href="#L13">13</a></td><td>PICARD:  USS Lantree, this is Picard of the Enterprise. What is the nature of your emergency?</td></tr>
 
-LOCATION--Bridge
+<tr id="L14"><td><a href="#L14">14</a></td><td>VOICE [OC]:  Can't hold out any more. People dying. Too many to help.</td></tr>
 
-  PICARD
-     Are you locked on to that transmission?
+<tr id="L15"><td><a href="#L15">15</a></td><td>DATA:  We are still receiving their signal, Captain, but there is no message.</td></tr>
 
-  DATA
-     Aye, sir. A voice only transmission from the USS
-     Lantree, a Federation supply ship.
+<tr id="L16"><td><a href="#L16">16</a></td><td>PICARD:  Lantree. Are you under attack? Lantree? USS Lantree, this is the Enterprise. Come in, Lantree. Replay that last transmission.</td></tr>
 
-  PICARD
-     USS Lantree, this is Picard of the Enterprise.
-     What is the nature of your emergency?
+<tr id="L17"><td><a href="#L17">17</a></td><td>VOICE [OC]:  Can't hold out any more. People dying. Too many to help.</td></tr>
 
-  VOICE [OC]
-     Can't hold out any more. People dying. Too many to
-     help.
+<tr id="L18"><td><a href="#L18">18</a></td><td>RIKER:  Have we got a fix on her?</td></tr>
 
-  DATA
-     We are still receiving their signal, Captain, but
-     there is no message.
+<tr id="L19"><td><a href="#L19">19</a></td><td>DATA:  Two point two milli-parsecs, bearing three zero at one four five degrees.</td></tr>
 
-  PICARD
-     Lantree. Are you under attack? Lantree? USS
-     Lantree, this is the Enterprise. Come in, Lantree.
-     Replay that last transmission.
+<tr id="L20"><td><a href="#L20">20</a></td><td>PICARD:  Number One?</td></tr>
 
-  VOICE [OC]
-     Can't hold out any more. People dying. Too many to
-     help.
+<tr id="L21"><td><a href="#L21">21</a></td><td>RIKER:  We'd better take a look. What kind of vessel is she?</td></tr>
 
-  RIKER
-     Have we got a fix on her?
+<tr id="L22"><td><a href="#L22">22</a></td><td>DATA:  The Lantree is a Class Six Federation supply ship assigned to Gamma seven sector, Captain L.I. Telaka commanding. Normal complement, twenty six officers and crew.</td></tr>
 
-  DATA
-     Two point two milli-parsecs, bearing three zero at
-     one four five degrees.
+<tr id="L23"><td><a href="#L23">23</a></td><td>RIKER:  Armed?</td></tr>
 
-  PICARD
-     Number One?
+<tr id="L24"><td><a href="#L24">24</a></td><td>DATA:  Class three defensive only.</td></tr>
 
-  RIKER
-     We'd better take a look. What kind of vessel is
-     she?
+<tr id="L25"><td><a href="#L25">25</a></td><td>RIKER:  Is she still underway?</td></tr>
 
-  DATA
-     The Lantree is a Class Six Federation supply ship
-     assigned to Gamma seven sector, Captain L.I.
-     Telaka commanding. Normal complement, twenty six
-     officers and crew.
+<tr id="L26"><td><a href="#L26">26</a></td><td>DATA:  Aye, sir.</td></tr>
 
-  RIKER
-     Armed?
+<tr id="L27"><td><a href="#L27">27</a></td><td>PICARD:  Adjust course to intercept. Warp seven.</td></tr>
 
-  DATA
-     Class three defensive only.
+<tr id="L28"><td><a href="#L28">28</a></td><td>WESLEY:  Adjusting course to intercept. Warp seven, sir.</td></tr>
 
-  RIKER
-     Is she still underway?
+<tr id="L29"><td><a href="#L29">29</a></td><td>ANNOTATION: Geordi enters</td></tr>
 
-  DATA
-     Aye, sir.
+<tr id="L30"><td><a href="#L30">30</a></td><td>LAFORGE:  Engineering, transfer to Bridge.</td></tr>
 
-  PICARD
-     Adjust course to intercept. Warp seven.
+<tr id="L31"><td><a href="#L31">31</a></td><td>WESLEY:  We are closing on the Lantree, Captain.</td></tr>
 
-  WESLEY
-     Adjusting course to intercept. Warp seven, sir.
+<tr id="L32"><td><a href="#L32">32</a></td><td>PICARD:  Take us out of warp. Establish parallel course. Match speed.</td></tr>
 
-  ANNOTATION
-     Geordi enters
+<tr id="L33"><td><a href="#L33">33</a></td><td>WESLEY:  Yes, sir.</td></tr>
 
-  LAFORGE
-     Engineering, transfer to Bridge.
+<tr id="L34"><td><a href="#L34">34</a></td><td>PICARD:  Hailing frequencies.</td></tr>
 
-  WESLEY
-     We are closing on the Lantree, Captain.
+<tr id="L35"><td><a href="#L35">35</a></td><td>WORF:  Open.</td></tr>
 
-  PICARD
-     Take us out of warp. Establish parallel course.
-     Match speed.
+<tr id="L36"><td><a href="#L36">36</a></td><td>PICARD:  Lantree, this is the Enterprise. Captain Telaka, this is Picard of the Enterprise. Do you read me?</td></tr>
 
-  WESLEY
-     Yes, sir.
+<tr id="L37"><td><a href="#L37">37</a></td><td>DATA:  No life signs, Captain.</td></tr>
 
-  PICARD
-     Hailing frequencies.
+<tr id="L38"><td><a href="#L38">38</a></td><td>PICARD:  Counsellor?</td></tr>
 
-  WORF
-     Open.
+<tr id="L39"><td><a href="#L39">39</a></td><td>TROI:  Nothing, Captain.</td></tr>
 
-  PICARD
-     Lantree, this is the Enterprise. Captain Telaka,
-     this is Picard of the Enterprise. Do you read me?
+<tr id="L40"><td><a href="#L40">40</a></td><td>RIKER:  What else have we got in the neighbourhood?</td></tr>
 
-  DATA
-     No life signs, Captain.
+<tr id="L41"><td><a href="#L41">41</a></td><td>WESLEY:  No other vessels of any kind within two parsecs.</td></tr>
 
-  PICARD
-     Counsellor?
+<tr id="L42"><td><a href="#L42">42</a></td><td>WORF:  No battle damage.</td></tr>
 
-  TROI
-     Nothing, Captain.
+<tr id="L43"><td><a href="#L43">43</a></td><td>DATA:  All systems seem functional, Captain. Everything is in perfect order.</td></tr>
 
-  RIKER
-     What else have we got in the neighbourhood?
+<tr id="L44"><td><a href="#L44">44</a></td><td>WORF:  We have to board her, Captain.</td></tr>
 
-  WESLEY
-     No other vessels of any kind within two parsecs.
+<tr id="L45"><td><a href="#L45">45</a></td><td>PICARD:  Possibly, Mister Worf. Number One?</td></tr>
 
-  WORF
-     No battle damage.
+<tr id="L46"><td><a href="#L46">46</a></td><td>RIKER:  If we gain control of her systems remotely, we could activate the viewscreen. That way we could at least look at the Bridge.</td></tr>
 
-  DATA
-     All systems seem functional, Captain. Everything
-     is in perfect order.
+<tr id="L47"><td><a href="#L47">47</a></td><td>PICARD:  Agreed.</td></tr>
 
-  WORF
-     We have to board her, Captain.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L48"><td><a href="#L48">48</a></td><td>PICARD:  Computer, security override request.</td></tr>
 
-  PICARD
-     Possibly, Mister Worf. Number One?
+<tr id="L49"><td><a href="#L49">49</a></td><td>COMPUTER:  Identify.</td></tr>
 
-  RIKER
-     If we gain control of her systems remotely, we
-     could activate the viewscreen. That way we could
-     at least look at the Bridge.
+<tr id="L50"><td><a href="#L50">50</a></td><td>PICARD:  Picard, Jean-Luc, Captain, USS Enterprise. Request control access Starfleet ship USS Lantree, Isao Telaka commanding.</td></tr>
 
-  PICARD
-     Agreed.
+<tr id="L51"><td><a href="#L51">51</a></td><td>COMPUTER:  Enter access code.</td></tr>
 
+<tr id="L52"><td><a href="#L52">52</a></td><td>PICARD:  Omicron omicron alpha yellow daystar two seven. Enable.</td></tr>
 
-LOCATION--Ready room
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L53"><td><a href="#L53">53</a></td><td>ANNOTATION: At the rear stations</td></tr>
 
-  PICARD
-     Computer, security override request.
+<tr id="L54"><td><a href="#L54">54</a></td><td>DATA:  I have verified receipt of the access codes for the Lantree, Captain.</td></tr>
 
-  COMPUTER
-     Identify.
+<tr id="L55"><td><a href="#L55">55</a></td><td>PICARD:  Grand. Commence operations.</td></tr>
 
-  PICARD
-     Picard, Jean-Luc, Captain, USS Enterprise. Request
-     control access Starfleet ship USS Lantree, Isao
-     Telaka commanding.
+<tr id="L56"><td><a href="#L56">56</a></td><td>RIKER:  Our first move will be shut down the engines.</td></tr>
 
-  COMPUTER
-     Enter access code.
+<tr id="L57"><td><a href="#L57">57</a></td><td>LAFORGE:  Standing by, Commander.</td></tr>
 
-  PICARD
-     Omicron omicron alpha yellow daystar two seven.
-     Enable.
+<tr id="L58"><td><a href="#L58">58</a></td><td>DATA:  The Lantree computer reports access codes received and accepted, sir.</td></tr>
 
+<tr id="L59"><td><a href="#L59">59</a></td><td>ANNOTATION: Pulaski enters</td></tr>
 
-LOCATION--Bridge
+<tr id="L60"><td><a href="#L60">60</a></td><td>PULASKI:  Sickbay on alert, Captain.</td></tr>
 
-  ANNOTATION
-     At the rear stations
+<tr id="L61"><td><a href="#L61">61</a></td><td>LAFORGE:  Interlock is engaged. The Lantree is responding, sir.</td></tr>
 
-  DATA
-     I have verified receipt of the access codes for
-     the Lantree, Captain.
+<tr id="L62"><td><a href="#L62">62</a></td><td>DATA:  We have override control of her Bridge, Captain. All systems answering.</td></tr>
 
-  PICARD
-     Grand. Commence operations.
+<tr id="L63"><td><a href="#L63">63</a></td><td>PICARD:  All right, let's have a look.</td></tr>
 
-  RIKER
-     Our first move will be shut down the engines.
+<tr id="L64"><td><a href="#L64">64</a></td><td>LAFORGE:  Lantree Bridge monitor engaging.</td></tr>
 
-  LAFORGE
-     Standing by, Commander.
+<tr id="L65"><td><a href="#L65">65</a></td><td>ANNOTATION: The viewscreen shows very old people dead in their seats</td></tr>
 
-  DATA
-     The Lantree computer reports access codes received
-     and accepted, sir.
+<tr id="L66"><td><a href="#L66">66</a></td><td>PICARD:  Are you reading anything, Doctor?</td></tr>
 
-  ANNOTATION
-     Pulaski enters
+<tr id="L67"><td><a href="#L67">67</a></td><td>PULASKI:  Still no signs of life, Captain.</td></tr>
 
-  PULASKI
-     Sickbay on alert, Captain.
+<tr id="L68"><td><a href="#L68">68</a></td><td>PICARD:  Magnify. That must be Captain Telaka on the left. Let's look at him. Closer. My God.</td></tr>
 
-  LAFORGE
-     Interlock is engaged. The Lantree is responding,
-     sir.
+<tr id="L69"><td><a href="#L69">69</a></td><td>RIKER:  Looks like they had a battle with time.</td></tr>
 
-  DATA
-     We have override control of her Bridge, Captain.
-     All systems answering.
+<tr id="L70"><td><a href="#L70">70</a></td><td>WORF:  And lost.</td></tr>
 
-  PICARD
-     All right, let's have a look.
+<tr id="L71"><td><a href="#L71">71</a></td><td>PULASKI:  Heart, lungs, liver, everything.</td></tr>
 
-  LAFORGE
-     Lantree Bridge monitor engaging.
+<tr id="L72"><td><a href="#L72">72</a></td><td>PICARD:  What is it?</td></tr>
 
-  ANNOTATION
-     The viewscreen shows very old people dead in their
-     seats
+<tr id="L73"><td><a href="#L73">73</a></td><td>PULASKI:  They died of natural causes.</td></tr>
 
-  PICARD
-     Are you reading anything, Doctor?
+<tr id="L74"><td><a href="#L74">74</a></td><td>PICARD:  Natural causes? What in nature could cause that?</td></tr>
 
-  PULASKI
-     Still no signs of life, Captain.
+<tr id="L75"><td><a href="#L75">75</a></td><td>PULASKI:  For the record, Captain, they died of old age.</td></tr>
 
-  PICARD
-     Magnify. That must be Captain Telaka on the left.
-     Let's look at him. Closer. My God.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L76"><td><a href="#L76">76</a></td><td>RIKER:  We've downloaded the Lantree's log, sir.</td></tr>
 
-  RIKER
-     Looks like they had a battle with time.
+<tr id="L77"><td><a href="#L77">77</a></td><td>PICARD:  Play back the Captain's last entry.</td></tr>
 
-  WORF
-     And lost.
+<tr id="L78"><td><a href="#L78">78</a></td><td>TELAKA [OC]:  Captain's log, stardate 42493.1. There are only six of us left. We've set course for the nearest Federation outpost, but I am afraid it's too late. All attempts to analyse what is happening have failed. In the last few hours I've watched friends grow old and die, and I'm seeing it happen to me. Captain L.I. Telaka, USS Lantree.</td></tr>
 
-  PULASKI
-     Heart, lungs, liver, everything.
+<tr id="L79"><td><a href="#L79">79</a></td><td>RIKER:  Captain Telaka was my age, sir.</td></tr>
 
-  PICARD
-     What is it?
+<tr id="L80"><td><a href="#L80">80</a></td><td>PICARD:  Doctor?</td></tr>
 
-  PULASKI
-     They died of natural causes.
+<tr id="L81"><td><a href="#L81">81</a></td><td>PULASKI:  Every member of the Lantree crew had a complete examination at the beginning of this duty cycle eight weeks ago. They were in perfect health.</td></tr>
 
-  PICARD
-     Natural causes? What in nature could cause that?
+<tr id="L82"><td><a href="#L82">82</a></td><td>TROI:  Nothing else since?</td></tr>
 
-  PULASKI
-     For the record, Captain, they died of old age.
+<tr id="L83"><td><a href="#L83">83</a></td><td>PULASKI:  A single medical entry noting that the First Officer was treated for Thelusian flu five days ago.</td></tr>
 
+<tr id="L84"><td><a href="#L84">84</a></td><td>PICARD:  Thelusian flu?</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L85"><td><a href="#L85">85</a></td><td>PULASKI:  It's an exotic but harmless rhinal virus. It couldn't have caused this.</td></tr>
 
-  RIKER
-     We've downloaded the Lantree's log, sir.
+<tr id="L86"><td><a href="#L86">86</a></td><td>RIKER:  The last port of call of the Lantree was the Darwin Genetic Research Station on Gagarin Four three days ago.</td></tr>
 
-  PICARD
-     Play back the Captain's last entry.
+<tr id="L87"><td><a href="#L87">87</a></td><td>PULASKI:  Whatever happened, it could be something that the Lantree crew already had or it could have come from Gagarin. At the very least, the people from Darwin Station deserve a warning. We may have to consider a quarantine.</td></tr>
 
-  TELAKA [OC]
-     Captain's log, stardate 42493.1. There are only
-     six of us left. We've set course for the nearest
-     Federation outpost, but I am afraid it's too late.
-     All attempts to analyse what is happening have
-     failed. In the last few hours I've watched friends
-     grow old and die, and I'm seeing it happen to me.
-     Captain L.I. Telaka, USS Lantree.
+<tr id="L88"><td><a href="#L88">88</a></td><td>PICARD:  You'll agree that we should quarantine the Lantree.</td></tr>
 
-  RIKER
-     Captain Telaka was my age, sir.
+<tr id="L89"><td><a href="#L89">89</a></td><td>PULASKI:  Absolutely.</td></tr>
 
-  PICARD
-     Doctor?
+<tr id="L90"><td><a href="#L90">90</a></td><td>RIKER:  Lieutenant, initiate the quarantine transmitters on the Lantree and activate her marker beacons. We'll need to find her again.</td></tr>
 
-  PULASKI
-     Every member of the Lantree crew had a complete
-     examination at the beginning of this duty cycle
-     eight weeks ago. They were in perfect health.
+<tr id="L91"><td><a href="#L91">91</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  TROI
-     Nothing else since?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L92"><td><a href="#L92">92</a></td><td>WORF:  Quarantine warnings active on all frequencies, Captain.</td></tr>
 
-  PULASKI
-     A single medical entry noting that the First
-     Officer was treated for Thelusian flu five days
-     ago.
+<tr id="L93"><td><a href="#L93">93</a></td><td>LANTREE [OC]:  Extreme caution. The USS Lantree is a quarantined vessel by order of Starfleet Command. Do not board.</td></tr>
 
-  PICARD
-     Thelusian flu?
+<tr id="L94"><td><a href="#L94">94</a></td><td>PICARD:  Set course for Gagarin Four, warp seven.</td></tr>
 
-  PULASKI
-     It's an exotic but harmless rhinal virus. It
-     couldn't have caused this.
+<tr id="L95"><td><a href="#L95">95</a></td><td>WESLEY:  Course and speed set, sir.</td></tr>
 
-  RIKER
-     The last port of call of the Lantree was the
-     Darwin Genetic Research Station on Gagarin Four
-     three days ago.
+<tr id="L96"><td><a href="#L96">96</a></td><td>PICARD:  Engage.</td></tr>
 
-  PULASKI
-     Whatever happened, it could be something that the
-     Lantree crew already had or it could have come
-     from Gagarin. At the very least, the people from
-     Darwin Station deserve a warning. We may have to
-     consider a quarantine.
+<tr id="L97"><td><a href="#L97">97</a></td><td>SOMEONE: Captain's log, supplemental. We're en route to the Federation Research station on Gagarin Four. The mere thought of a possible connection between the Lantree tragedy and a genetic research facility fills me with profound apprehension.</td></tr>
 
-  PICARD
-     You'll agree that we should quarantine the
-     Lantree.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L98"><td><a href="#L98">98</a></td><td>WESLEY:  We're approaching Gagarin Four, Captain.</td></tr>
 
-  PULASKI
-     Absolutely.
+<tr id="L99"><td><a href="#L99">99</a></td><td>PICARD:  Standard orbit, Mister Crusher.</td></tr>
 
-  RIKER
-     Lieutenant, initiate the quarantine transmitters
-     on the Lantree and activate her marker beacons.
-     We'll need to find her again.
+<tr id="L100"><td><a href="#L100">100</a></td><td>WESLEY:  Aye, sir.</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L101"><td><a href="#L101">101</a></td><td>PICARD:  Hailing frequencies.</td></tr>
 
+<tr id="L102"><td><a href="#L102">102</a></td><td>WORF:  Open.</td></tr>
 
-LOCATION--Bridge
+<tr id="L103"><td><a href="#L103">103</a></td><td>PICARD:  Darwin Station, this is Captain Jean-Luc Picard of the USS Enterprise.</td></tr>
 
-  WORF
-     Quarantine warnings active on all frequencies,
-     Captain.
+<tr id="L104"><td><a href="#L104">104</a></td><td>ANNOTATION: A middle aged woman comes on the viewscreen. She seems harassed</td></tr>
 
-  LANTREE [OC]
-     Extreme caution. The USS Lantree is a quarantined
-     vessel by order of Starfleet Command. Do not
-     board.
+<tr id="L105"><td><a href="#L105">105</a></td><td>KINGSLEY [on viewscreen]:  Enterprise, this is Darwin Station. I'm Doctor Kingsley. We've just declared a medical emergency here. We need your help.</td></tr>
 
-  PICARD
-     Set course for Gagarin Four, warp seven.
+<tr id="L106"><td><a href="#L106">106</a></td><td>PULASKI:  Doctor Kingsley, what is the nature of your emergency?</td></tr>
 
-  WESLEY
-     Course and speed set, sir.
+<tr id="L107"><td><a href="#L107">107</a></td><td>KINGSLEY [on viewscreen]:  To whom am I speaking, please?</td></tr>
 
-  PICARD
-     Engage.
+<tr id="L108"><td><a href="#L108">108</a></td><td>PULASKI:  I'm Doctor Pulaski, Chief Medical Officer.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. We're en route to the
-     Federation Research station on Gagarin Four. The
-     mere thought of a possible connection between the
-     Lantree tragedy and a genetic research facility
-     fills me with profound apprehension.
+<tr id="L109"><td><a href="#L109">109</a></td><td>KINGSLEY [on viewscreen]:  Katherine Pulaski, author of Linear Models of Viral Propagation?</td></tr>
 
+<tr id="L110"><td><a href="#L110">110</a></td><td>PULASKI:  That was a long time ago.</td></tr>
 
-LOCATION--Bridge
+<tr id="L111"><td><a href="#L111">111</a></td><td>KINGSLEY [on viewscreen]:  But still the standard. I can't think of anyone I'd rather be dealing with. Doctor, we're experiencing the rapid onset of geriatric phenomena. The first symptom is sudden, acute arthritic inflammation. Then the aging process accelerates.</td></tr>
 
-  WESLEY
-     We're approaching Gagarin Four, Captain.
+<tr id="L112"><td><a href="#L112">112</a></td><td>PULASKI:  The Lantree.</td></tr>
 
-  PICARD
-     Standard orbit, Mister Crusher.
+<tr id="L113"><td><a href="#L113">113</a></td><td>KINGSLEY [on viewscreen]:  Doctor Pulaski, I celebrated my thirty fifth birthday a week ago.</td></tr>
 
-  WESLEY
-     Aye, sir.
+<tr id="L114"><td><a href="#L114">114</a></td><td>PULASKI:  Doctor, we understand that Darwin Station is involved in genetic research. Is there a possible connection?</td></tr>
 
-  PICARD
-     Hailing frequencies.
+<tr id="L115"><td><a href="#L115">115</a></td><td>KINGSLEY [on viewscreen]:  Our research here is limited to human genetics. I can assure you we're not dealing with something that got away from us. We believe that we were infected by a supply ship that was here three days ago.</td></tr>
 
-  WORF
-     Open.
+<tr id="L116"><td><a href="#L116">116</a></td><td>PICARD:  Doctor, if you're speaking of the Lantree, we encountered it a few hours ago. All the crew members were dead.</td></tr>
 
-  PICARD
-     Darwin Station, this is Captain Jean-Luc Picard of
-     the USS Enterprise.
+<tr id="L117"><td><a href="#L117">117</a></td><td>KINGSLEY:  Which would seem to confirm our suspicion. Were you able to establish a pathology, Doctor?</td></tr>
 
-  ANNOTATION
-     A middle aged woman comes on the viewscreen. She
-     seems harassed
+<tr id="L118"><td><a href="#L118">118</a></td><td>PICARD:  Doctor, did you hear what I said? All the twenty six men and women aboard that ship were dead.</td></tr>
 
-  KINGSLEY [on viewscreen]
-     Enterprise, this is Darwin Station. I'm Doctor
-     Kingsley. We've just declared a medical emergency
-     here. We need your help.
+<tr id="L119"><td><a href="#L119">119</a></td><td>KINGSLEY:  I heard you, Captain, and the prognosis is alarming, but my immediate concern is our children.</td></tr>
 
-  PULASKI
-     Doctor Kingsley, what is the nature of your
-     emergency?
+<tr id="L120"><td><a href="#L120">120</a></td><td>PULASKI:  Children?</td></tr>
 
-  KINGSLEY [on viewscreen]
-     To whom am I speaking, please?
+<tr id="L121"><td><a href="#L121">121</a></td><td>KINGSLEY:  They represent years of advanced genetic research. You must evacuate them as soon as possible.</td></tr>
 
-  PULASKI
-     I'm Doctor Pulaski, Chief Medical Officer.
+<tr id="L122"><td><a href="#L122">122</a></td><td>PICARD:  I'm sorry, but under the circumstances, until we know what's going on I'm imposing a full quarantine on Darwin Station.</td></tr>
 
-  KINGSLEY [on viewscreen]
-     Katherine Pulaski, author of Linear Models of
-     Viral Propagation?
+<tr id="L123"><td><a href="#L123">123</a></td><td>KINGSLEY:  But the children have been in protective isolation since this was detected. They show no symptoms. You cannot leave them here to die!</td></tr>
 
-  PULASKI
-     That was a long time ago.
+<tr id="L124"><td><a href="#L124">124</a></td><td>PICARD:  Doctor, our options in a quarantine situation are extremely limited. We are going to consider the possibilities. I suggest you do the same.</td></tr>
 
-  KINGSLEY [on viewscreen]
-     But still the standard. I can't think of anyone
-     I'd rather be dealing with. Doctor, we're
-     experiencing the rapid onset of geriatric
-     phenomena. The first symptom is sudden, acute
-     arthritic inflammation. Then the aging process
-     accelerates.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L125"><td><a href="#L125">125</a></td><td>WORF:  I recommend against contact, Captain.</td></tr>
 
-  PULASKI
-     The Lantree.
+<tr id="L126"><td><a href="#L126">126</a></td><td>PICARD:  Number One?</td></tr>
 
-  KINGSLEY [on viewscreen]
-     Doctor Pulaski, I celebrated my thirty fifth
-     birthday a week ago.
+<tr id="L127"><td><a href="#L127">127</a></td><td>RIKER:  I have to agree, sir. I wish there was something we could do, but the risk is too great.</td></tr>
 
-  PULASKI
-     Doctor, we understand that Darwin Station is
-     involved in genetic research. Is there a possible
-     connection?
+<tr id="L128"><td><a href="#L128">128</a></td><td>PICARD:  Doctor?</td></tr>
 
-  KINGSLEY [on viewscreen]
-     Our research here is limited to human genetics. I
-     can assure you we're not dealing with something
-     that got away from us. We believe that we were
-     infected by a supply ship that was here three days
-     ago.
+<tr id="L129"><td><a href="#L129">129</a></td><td>PULASKI:  If the children are free of disease, as Doctor Kingsley said, they should be evacuated. I would like to bring one of them aboard within a force field for a complete examination.</td></tr>
 
-  PICARD
-     Doctor, if you're speaking of the Lantree, we
-     encountered it a few hours ago. All the crew
-     members were dead.
+<tr id="L130"><td><a href="#L130">130</a></td><td>PICARD:  Counsellor, do you sense anything?</td></tr>
 
-  KINGSLEY
-     Which would seem to confirm our suspicion. Were
-     you able to establish a pathology, Doctor?
+<tr id="L131"><td><a href="#L131">131</a></td><td>TROI:  Doctor Kingsley sincerely believes the children are not a threat, but she's not telling us the whole truth. I recommend caution.</td></tr>
 
-  PICARD
-     Doctor, did you hear what I said? All the twenty
-     six men and women aboard that ship were dead.
+<tr id="L132"><td><a href="#L132">132</a></td><td>PICARD:  We have only Doctor Kingsley's assurance that these children are not infected, whereas we have seen the results of this disease first hand. In a case like this, I think we should err on the side of caution.</td></tr>
 
-  KINGSLEY
-     I heard you, Captain, and the prognosis is
-     alarming, but my immediate concern is our
-     children.
+<tr id="L133"><td><a href="#L133">133</a></td><td>PULASKI:  All right. We could beam up one child in styrolite in suspended animation. That way I could scan for possible infection without any danger to ourselves or to the child.</td></tr>
 
-  PULASKI
-     Children?
+<tr id="L134"><td><a href="#L134">134</a></td><td>RIKER:  But we don't know what we're looking for.</td></tr>
 
-  KINGSLEY
-     They represent years of advanced genetic research.
-     You must evacuate them as soon as possible.
+<tr id="L135"><td><a href="#L135">135</a></td><td>PULASKI:  Exactly. And we won't know until we begin gathering data. Captain, that's worth some risk.</td></tr>
 
-  PICARD
-     I'm sorry, but under the circumstances, until we
-     know what's going on I'm imposing a full
-     quarantine on Darwin Station.
+<tr id="L136"><td><a href="#L136">136</a></td><td>PICARD:  There's always risk, Doctor. Proceed with the examination, but I shall require positive proof that these children are harmless before I place any of my crew in jeopardy.</td></tr>
 
-  KINGSLEY
-     But the children have been in protective isolation
-     since this was detected. They show no symptoms.
-     You cannot leave them here to die!
+<tr><td></td><td>LOCATION--Science lab</td></tr>
+<tr id="L137"><td><a href="#L137">137</a></td><td>LAFORGE:  The forcefield's ready, Captain.</td></tr>
 
-  PICARD
-     Doctor, our options in a quarantine situation are
-     extremely limited. We are going to consider the
-     possibilities. I suggest you do the same.
+<tr id="L138"><td><a href="#L138">138</a></td><td>PICARD:  Activate it.</td></tr>
 
+<tr id="L139"><td><a href="#L139">139</a></td><td>ANNOTATION: The forcefield goes up around a single examination table in the middle of the room</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L140"><td><a href="#L140">140</a></td><td>PICARD:  Transporter?</td></tr>
 
-  WORF
-     I recommend against contact, Captain.
+<tr id="L141"><td><a href="#L141">141</a></td><td>O'BRIEN [OC]:  This is Chief O'Brien, sir. Almost ready.</td></tr>
 
-  PICARD
-     Number One?
+<tr id="L142"><td><a href="#L142">142</a></td><td>PICARD:  Is there a problem?</td></tr>
 
-  RIKER
-     I have to agree, sir. I wish there was something
-     we could do, but the risk is too great.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L143"><td><a href="#L143">143</a></td><td>O'BRIEN:  It's the styrolite. I'm altering the delta-T so the styrolite coding materialises two micro-seconds ahead of the child.</td></tr>
 
-  PICARD
-     Doctor?
+<tr><td></td><td>LOCATION--Science lab</td></tr>
+<tr id="L144"><td><a href="#L144">144</a></td><td>O'BRIEN [OC]:  It has to be right the first time.</td></tr>
 
-  PULASKI
-     If the children are free of disease, as Doctor
-     Kingsley said, they should be evacuated. I would
-     like to bring one of them aboard within a force
-     field for a complete examination.
+<tr id="L145"><td><a href="#L145">145</a></td><td>PICARD:  Well take all the time you need.</td></tr>
 
-  PICARD
-     Counsellor, do you sense anything?
+<tr id="L146"><td><a href="#L146">146</a></td><td>O'BRIEN [OC]:  Entering corrections now, sir.</td></tr>
 
-  TROI
-     Doctor Kingsley sincerely believes the children
-     are not a threat, but she's not telling us the
-     whole truth. I recommend caution.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L147"><td><a href="#L147">147</a></td><td>O'BRIEN:  Ready, Captain.</td></tr>
 
-  PICARD
-     We have only Doctor Kingsley's assurance that
-     these children are not infected, whereas we have
-     seen the results of this disease first hand. In a
-     case like this, I think we should err on the side
-     of caution.
+<tr><td></td><td>LOCATION--Science lab</td></tr>
+<tr id="L148"><td><a href="#L148">148</a></td><td>PULASKI:  Doctor Kingsley, are you ready to transport?</td></tr>
 
-  PULASKI
-     All right. We could beam up one child in styrolite
-     in suspended animation. That way I could scan for
-     possible infection without any danger to ourselves
-     or to the child.
+<tr id="L149"><td><a href="#L149">149</a></td><td>KINGSLEY [OC]:  You have the coordinates. We have one twelve year old male encased in number six styrolite.</td></tr>
 
-  RIKER
-     But we don't know what we're looking for.
+<tr id="L150"><td><a href="#L150">150</a></td><td>LAFORGE:  Transporter, energise.</td></tr>
 
-  PULASKI
-     Exactly. And we won't know until we begin
-     gathering data. Captain, that's worth some risk.
+<tr id="L151"><td><a href="#L151">151</a></td><td>ANNOTATION: A male older than twelve appears on the table</td></tr>
 
-  PICARD
-     There's always risk, Doctor. Proceed with the
-     examination, but I shall require positive proof
-     that these children are harmless before I place
-     any of my crew in jeopardy.
+<tr id="L152"><td><a href="#L152">152</a></td><td>WORF:  A trick!</td></tr>
 
+<tr id="L153"><td><a href="#L153">153</a></td><td>LAFORGE:  Transporter, reverse</td></tr>
 
-LOCATION--Science lab
+<tr id="L154"><td><a href="#L154">154</a></td><td>PICARD:  One moment, Lieutenant. Whoever he is, he's still in stasis.</td></tr>
 
-  LAFORGE
-     The forcefield's ready, Captain.
+<tr id="L155"><td><a href="#L155">155</a></td><td>PULASKI:  The styrolite is intact, Captain.</td></tr>
 
-  PICARD
-     Activate it.
+<tr id="L156"><td><a href="#L156">156</a></td><td>PICARD:  Force field down.</td></tr>
 
-  ANNOTATION
-     The forcefield goes up around a single examination
-     table in the middle of the room
+<tr id="L157"><td><a href="#L157">157</a></td><td>TROI:  Captain, there's a definite presence, a distinct personality. Even in stasis it's quite strong. The child is unquestionably telepathic.</td></tr>
 
-  PICARD
-     Transporter?
+<tr id="L158"><td><a href="#L158">158</a></td><td>PULASKI:  A child this mature? We could be looking at the future of humanity.</td></tr>
 
-  O'BRIEN [OC]
-     This is Chief O'Brien, sir. Almost ready.
+<tr id="L159"><td><a href="#L159">159</a></td><td>PICARD:  At least Doctor Kingsley's vision of it.</td></tr>
 
-  PICARD
-     Is there a problem?
+<tr id="L160"><td><a href="#L160">160</a></td><td>ANNOTATION: Later, as two nurses do most of the examining with various instruments, Picard returns to the lab</td></tr>
 
+<tr id="L161"><td><a href="#L161">161</a></td><td>PULASKI:  This child is in better health than we are. His immune system is so advanced it may not be possible for him to contract disease. I want to free him from the styrolite.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L162"><td><a href="#L162">162</a></td><td>PICARD:  That seems rather risky, Doctor.</td></tr>
 
-  O'BRIEN
-     It's the styrolite. I'm altering the delta-T so
-     the styrolite coding materialises two
-     micro-seconds ahead of the child.
+<tr id="L163"><td><a href="#L163">163</a></td><td>PULASKI:  I can do no further tests until he's out of it.</td></tr>
 
+<tr id="L164"><td><a href="#L164">164</a></td><td>PICARD:  But what if you're wrong? You saw what happened on the Lantree.</td></tr>
 
-LOCATION--Science lab
+<tr id="L165"><td><a href="#L165">165</a></td><td>PULASKI:  I know I'm right.</td></tr>
 
-  O'BRIEN [OC]
-     It has to be right the first time.
+<tr id="L166"><td><a href="#L166">166</a></td><td>PICARD:  I can't expose the Enterprise until I know where this disease came from and how it is transmitted.</td></tr>
 
-  PICARD
-     Well take all the time you need.
+<tr id="L167"><td><a href="#L167">167</a></td><td>PULASKI:  I realise that, Captain. Naturally, we'll establish a force field containment.</td></tr>
 
-  O'BRIEN [OC]
-     Entering corrections now, sir.
+<tr id="L168"><td><a href="#L168">168</a></td><td>PICARD:  But if we lose the force field for any reason, we lose the ship. Force fields can fail, and until</td></tr>
 
+<tr id="L169"><td><a href="#L169">169</a></td><td>PULASKI:  We don't have that kind of time. These children can't survive in the lab once their parents are dead. Look at him, Captain. He's a human being who needs our help.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L170"><td><a href="#L170">170</a></td><td>PICARD:  But the risk is</td></tr>
 
-  O'BRIEN
-     Ready, Captain.
+<tr id="L171"><td><a href="#L171">171</a></td><td>PULASKI:  Minimal.</td></tr>
 
+<tr id="L172"><td><a href="#L172">172</a></td><td>PICARD:  If you can demonstrate that he is biologically harmless without risk to the crew, I'll do everything in my power to assist. And Doctor, God knows I'm not one to discourage input, but I would appreciate it if you'd let me finish my sentences once in a while.</td></tr>
 
-LOCATION--Science lab
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L173"><td><a href="#L173">173</a></td><td>PULASKI:  Deanna, do you have a minute? You've known the Captain for some time. I think I need some advice. I don't seem to be dealing with him very well.</td></tr>
 
-  PULASKI
-     Doctor Kingsley, are you ready to transport?
+<tr id="L174"><td><a href="#L174">174</a></td><td>TROI:  Why do you say that?</td></tr>
 
-  KINGSLEY [OC]
-     You have the coordinates. We have one twelve year
-     old male encased in number six styrolite.
+<tr id="L175"><td><a href="#L175">175</a></td><td>PULASKI:  Well, my arguments don't seem to have any affect on him. We just end up quoting regulations to each other. He has such a consuming dedication to his ship, he doesn't seem able to step back to see the human side of the equation.</td></tr>
 
-  LAFORGE
-     Transporter, energise.
+<tr id="L176"><td><a href="#L176">176</a></td><td>ANNOTATION: Troi smiles</td></tr>
 
-  ANNOTATION
-     A male older than twelve appears on the table
+<tr id="L177"><td><a href="#L177">177</a></td><td>PULASKI:  What's the matter?</td></tr>
 
-  WORF
-     A trick!
+<tr id="L178"><td><a href="#L178">178</a></td><td>TROI:  Kate, I don't think he'd be where he is if he couldn't see the human side of the equation. Perhaps the two of you aren't all that different.</td></tr>
 
-  LAFORGE
-     Transporter, reverse
+<tr id="L179"><td><a href="#L179">179</a></td><td>PULASKI:  What do you mean?</td></tr>
 
-  PICARD
-     One moment, Lieutenant. Whoever he is, he's still
-     in stasis.
+<tr id="L180"><td><a href="#L180">180</a></td><td>TROI:  Let's just say you both have well established personalities.</td></tr>
 
-  PULASKI
-     The styrolite is intact, Captain.
+<tr><td></td><td>LOCATION--Doctor's office</td></tr>
+<tr id="L181"><td><a href="#L181">181</a></td><td>PULASKI:  Doctor Kingsley, this is Kate Pulaski.</td></tr>
 
-  PICARD
-     Force field down.
+<tr id="L182"><td><a href="#L182">182</a></td><td>KINGSLEY [on monitor]:  Doctor? Do you have a decision?</td></tr>
 
-  TROI
-     Captain, there's a definite presence, a distinct
-     personality. Even in stasis it's quite strong. The
-     child is unquestionably telepathic.
+<tr id="L183"><td><a href="#L183">183</a></td><td>PULASKI:  I'm afraid it's bad news.</td></tr>
 
-  PULASKI
-     A child this mature? We could be looking at the
-     future of humanity.
+<tr id="L184"><td><a href="#L184">184</a></td><td>KINGSLEY [on monitor]:  How can that be?!</td></tr>
 
-  PICARD
-     At least Doctor Kingsley's vision of it.
+<tr id="L185"><td><a href="#L185">185</a></td><td>PULASKI:  The risk to the ship and crew is too great. Until we absolutely know the cause of the disease, the children</td></tr>
 
-  ANNOTATION
-     Later, as two nurses do most of the examining with
-     various instruments, Picard returns to the lab
+<tr id="L186"><td><a href="#L186">186</a></td><td>KINGSLEY [on monitor]:  The children are harmless. Every test on them has been negative. I demand that you do something to save them. Please, Doctor. For God's sake, we haven't got much time.</td></tr>
 
-  PULASKI
-     This child is in better health than we are. His
-     immune system is so advanced it may not be
-     possible for him to contract disease. I want to
-     free him from the styrolite.
+<tr id="L187"><td><a href="#L187">187</a></td><td>PULASKI:  Stand by. I'll get back to you.</td></tr>
 
-  PICARD
-     That seems rather risky, Doctor.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L188"><td><a href="#L188">188</a></td><td>PULASKI:  Geordi, I need your help.</td></tr>
 
-  PULASKI
-     I can do no further tests until he's out of it.
+<tr id="L189"><td><a href="#L189">189</a></td><td>LAFORGE:  What is it, Doctor.</td></tr>
 
-  PICARD
-     But what if you're wrong? You saw what happened on
-     the Lantree.
+<tr id="L190"><td><a href="#L190">190</a></td><td>PULASKI:  I need to prove the children are harmless. I can only do that in a fail-safe environment.</td></tr>
 
-  PULASKI
-     I know I'm right.
+<tr id="L191"><td><a href="#L191">191</a></td><td>LAFORGE:  The problem is there's no area on the ship that can be sealed off with absolute certainty, even with force fields.</td></tr>
 
-  PICARD
-     I can't expose the Enterprise until I know where
-     this disease came from and how it is transmitted.
+<tr id="L192"><td><a href="#L192">192</a></td><td>PULASKI:  Sickbay has an isolated system.</td></tr>
 
-  PULASKI
-     I realise that, Captain. Naturally, we'll
-     establish a force field containment.
+<tr id="L193"><td><a href="#L193">193</a></td><td>LAFORGE:  But it's not possible to totally cut it off from the rest of the ship. The only truly independent environment would be something like a shuttlecraft.</td></tr>
 
-  PICARD
-     But if we lose the force field for any reason, we
-     lose the ship. Force fields can fail, and until
+<tr id="L194"><td><a href="#L194">194</a></td><td>PULASKI:  A shuttlecraft. Why didn't you say so?</td></tr>
 
-  PULASKI
-     We don't have that kind of time. These children
-     can't survive in the lab once their parents are
-     dead. Look at him, Captain. He's a human being who
-     needs our help.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L195"><td><a href="#L195">195</a></td><td>PICARD:  Come.</td></tr>
 
-  PICARD
-     But the risk is
+<tr id="L196"><td><a href="#L196">196</a></td><td>PULASKI:  Captain, I'd like permission to put the boy in a shuttlecraft. I can study him there without risk to anyone else.</td></tr>
 
-  PULASKI
-     Minimal.
+<tr id="L197"><td><a href="#L197">197</a></td><td>PICARD:  What about you?</td></tr>
 
-  PICARD
-     If you can demonstrate that he is biologically
-     harmless without risk to the crew, I'll do
-     everything in my power to assist. And Doctor, God
-     knows I'm not one to discourage input, but I would
-     appreciate it if you'd let me finish my sentences
-     once in a while.
+<tr id="L198"><td><a href="#L198">198</a></td><td>PULASKI:  I'm prepared to take that risk. Someone has to breathe the same air he breathes, to touch him. I'm volunteering to make that test myself.</td></tr>
 
+<tr id="L199"><td><a href="#L199">199</a></td><td>PICARD:  Doctor, you have a responsibility to this ship which goes</td></tr>
 
-LOCATION--Corridor
+<tr id="L200"><td><a href="#L200">200</a></td><td>PULASKI:  I also have a responsibility to humanity.</td></tr>
 
-  PULASKI
-     Deanna, do you have a minute? You've known the
-     Captain for some time. I think I need some advice.
-     I don't seem to be dealing with him very well.
+<tr id="L201"><td><a href="#L201">201</a></td><td>PICARD:  Starfleet guidelines about contact with quarantined</td></tr>
 
-  TROI
-     Why do you say that?
+<tr id="L202"><td><a href="#L202">202</a></td><td>PULASKI:  You don't have to quote the rule book. You were saying?</td></tr>
 
-  PULASKI
-     Well, my arguments don't seem to have any affect
-     on him. We just end up quoting regulations to each
-     other. He has such a consuming dedication to his
-     ship, he doesn't seem able to step back to see the
-     human side of the equation.
+<tr id="L203"><td><a href="#L203">203</a></td><td>PICARD:  Request approved.</td></tr>
 
-  ANNOTATION
-     Troi smiles
+<tr id="L204"><td><a href="#L204">204</a></td><td>PULASKI:  Captain, you said if I. Approved?</td></tr>
 
-  PULASKI
-     What's the matter?
+<tr id="L205"><td><a href="#L205">205</a></td><td>PICARD:  I recognise that you're trying to satisfy my conditions.</td></tr>
 
-  TROI
-     Kate, I don't think he'd be where he is if he
-     couldn't see the human side of the equation.
-     Perhaps the two of you aren't all that different.
+<tr id="L206"><td><a href="#L206">206</a></td><td>PULASKI:  Thank you.</td></tr>
 
-  PULASKI
-     What do you mean?
+<tr><td></td><td>LOCATION--Shuttlebay</td></tr>
+<tr id="L207"><td><a href="#L207">207</a></td><td>ANNOTATION: Shuttlecraft Sakharov is being prepped for launch</td></tr>
 
-  TROI
-     Let's just say you both have well established
-     personalities.
+<tr id="L208"><td><a href="#L208">208</a></td><td>DATA:  You sent for me, Doctor?</td></tr>
 
+<tr id="L209"><td><a href="#L209">209</a></td><td>PULASKI:  I did, Commander. I assume that you're qualified to pilot this shuttlecraft.</td></tr>
 
-LOCATION--Doctor's office
+<tr id="L210"><td><a href="#L210">210</a></td><td>DATA:  Certainly. I took advanced training in the operation of auxiliary space vessels at Starfleet Academy, where I received</td></tr>
 
-  PULASKI
-     Doctor Kingsley, this is Kate Pulaski.
+<tr id="L211"><td><a href="#L211">211</a></td><td>PULASKI:  A more than passing grade, no doubt. Please, come aboard. We don't have much time.</td></tr>
 
-  KINGSLEY [on monitor]
-     Doctor? Do you have a decision?
+<tr id="L212"><td><a href="#L212">212</a></td><td>COMPUTER:  Shuttlebay three force field activated.</td></tr>
 
-  PULASKI
-     I'm afraid it's bad news.
+<tr><td></td><td>LOCATION--Shuttlecraft</td></tr>
+<tr id="L213"><td><a href="#L213">213</a></td><td>DATA:  You're certain the Captain approved this, Doctor?</td></tr>
 
-  KINGSLEY [on monitor]
-     How can that be?!
+<tr id="L214"><td><a href="#L214">214</a></td><td>PULASKI:  You'll take us a few hundred metres away from the Enterprise and hold position.</td></tr>
 
-  PULASKI
-     The risk to the ship and crew is too great. Until
-     we absolutely know the cause of the disease, the
-     children
+<tr id="L215"><td><a href="#L215">215</a></td><td>DATA:  Begin shuttlecraft launch sequence.</td></tr>
 
-  KINGSLEY [on monitor]
-     The children are harmless. Every test on them has
-     been negative. I demand that you do something to
-     save them. Please, Doctor. For God's sake, we
-     haven't got much time.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L216"><td><a href="#L216">216</a></td><td>PICARD:  Good luck, Doctor.</td></tr>
 
-  PULASKI
-     Stand by. I'll get back to you.
+<tr><td></td><td>LOCATION--Shuttlecraft</td></tr>
+<tr id="L217"><td><a href="#L217">217</a></td><td>DATA:  We are in position, Doctor.</td></tr>
 
+<tr id="L218"><td><a href="#L218">218</a></td><td>PULASKI:  It's the only way to prove they're harmless.</td></tr>
 
-LOCATION--Engineering
+<tr id="L219"><td><a href="#L219">219</a></td><td>DATA:  And if they are not?</td></tr>
 
-  PULASKI
-     Geordi, I need your help.
+<tr id="L220"><td><a href="#L220">220</a></td><td>PULASKI:  I hate to keep reminding you, but you are a machine. You'll be perfectly safe.</td></tr>
 
-  LAFORGE
-     What is it, Doctor.
+<tr id="L221"><td><a href="#L221">221</a></td><td>DATA:  That is by no means certain, Doctor, but I was referring to you.</td></tr>
 
-  PULASKI
-     I need to prove the children are harmless. I can
-     only do that in a fail-safe environment.
+<tr id="L222"><td><a href="#L222">222</a></td><td>PULASKI:  Medical research is sometimes a risky business. It's all part of being human. Shall we proceed?</td></tr>
 
-  LAFORGE
-     The problem is there's no area on the ship that
-     can be sealed off with absolute certainty, even
-     with force fields.
+<tr id="L223"><td><a href="#L223">223</a></td><td>DATA:  Ready to transport.</td></tr>
 
-  PULASKI
-     Sickbay has an isolated system.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L224"><td><a href="#L224">224</a></td><td>DATA [OC]:  You have the coordinates, Chief O'Brien.</td></tr>
 
-  LAFORGE
-     But it's not possible to totally cut it off from
-     the rest of the ship. The only truly independent
-     environment would be something like a
-     shuttlecraft.
+<tr id="L225"><td><a href="#L225">225</a></td><td>O'BRIEN:  Shuttlecraft, maintain your position and stand by.</td></tr>
 
-  PULASKI
-     A shuttlecraft. Why didn't you say so?
+<tr id="L226"><td><a href="#L226">226</a></td><td>DATA [OC]:  Standing by.</td></tr>
 
+<tr><td></td><td>LOCATION--Science lab</td></tr>
+<tr id="L227"><td><a href="#L227">227</a></td><td>O'BRIEN:  Transporter control, what's our status?</td></tr>
 
-LOCATION--Ready room
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L228"><td><a href="#L228">228</a></td><td>CREWMAN:  We have a green panel, sir.</td></tr>
 
-  PICARD
-     Come.
+<tr><td></td><td>LOCATION--Science lab</td></tr>
+<tr id="L229"><td><a href="#L229">229</a></td><td>O'BRIEN:  Stand by to transport.</td></tr>
 
-  PULASKI
-     Captain, I'd like permission to put the boy in a
-     shuttlecraft. I can study him there without risk
-     to anyone else.
+<tr id="L230"><td><a href="#L230">230</a></td><td>CREWMAN [OC]:  Aye, sir.</td></tr>
 
-  PICARD
-     What about you?
+<tr id="L231"><td><a href="#L231">231</a></td><td>O'BRIEN:  Energise.</td></tr>
 
-  PULASKI
-     I'm prepared to take that risk. Someone has to
-     breathe the same air he breathes, to touch him.
-     I'm volunteering to make that test myself.
+<tr><td></td><td>LOCATION--Shuttlecraft</td></tr>
+<tr id="L232"><td><a href="#L232">232</a></td><td>ANNOTATION: The boy is beamed in, and Pulaski uses a device to remove the styrolite covering from him. He sits up and looks into Kate's eyes</td></tr>
 
-  PICARD
-     Doctor, you have a responsibility to this ship
-     which goes
+<tr id="L233"><td><a href="#L233">233</a></td><td>PULASKI:  Oh, yes, I do. I understand you perfectly.</td></tr>
 
-  PULASKI
-     I also have a responsibility to humanity.
+<tr id="L234"><td><a href="#L234">234</a></td><td>DATA:  How could you, Doctor? He has not said anything.</td></tr>
 
-  PICARD
-     Starfleet guidelines about contact with
-     quarantined
+<tr id="L235"><td><a href="#L235">235</a></td><td>PULASKI:  Oh yes, he has. Troi's right. He's telepathic.</td></tr>
 
-  PULASKI
-     You don't have to quote the rule book. You were
-     saying?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L236"><td><a href="#L236">236</a></td><td>PICARD:  Time?</td></tr>
 
-  PICARD
-     Request approved.
+<tr id="L237"><td><a href="#L237">237</a></td><td>COMPUTER:  Zero three two two exactly.</td></tr>
 
-  PULASKI
-     Captain, you said if I. Approved?
+<tr id="L238"><td><a href="#L238">238</a></td><td>PICARD:  She's been in direct contact with the boy for eighteen minutes.</td></tr>
 
-  PICARD
-     I recognise that you're trying to satisfy my
-     conditions.
+<tr><td></td><td>LOCATION--Shuttlecraft</td></tr>
+<tr id="L239"><td><a href="#L239">239</a></td><td>ANNOTATION: Data is giving Pulaski a medical examination</td></tr>
 
-  PULASKI
-     Thank you.
+<tr id="L240"><td><a href="#L240">240</a></td><td>DATA:  All systems are functioning within normal specifications, Doctor.</td></tr>
 
+<tr id="L241"><td><a href="#L241">241</a></td><td>PULASKI:  The manufacturer will be pleased to hear it. I appreciate your help, but your bedside manner needs work.</td></tr>
 
-LOCATION--Shuttlebay
+<tr id="L242"><td><a href="#L242">242</a></td><td>DATA:  Bedside manner?</td></tr>
 
-  ANNOTATION
-     Shuttlecraft Sakharov is being prepped for launch
+<tr id="L243"><td><a href="#L243">243</a></td><td>ANNOTATION: Pulaski scans the boy, then drops the instruments and clutches her elbow in agony</td></tr>
 
-  DATA
-     You sent for me, Doctor?
+<tr id="L244"><td><a href="#L244">244</a></td><td>DATA:  Doctor?</td></tr>
 
-  PULASKI
-     I did, Commander. I assume that you're qualified
-     to pilot this shuttlecraft.
+<tr id="L245"><td><a href="#L245">245</a></td><td>PICARD [on monitor]:  Doctor, I don't understand. What has happened?</td></tr>
 
-  DATA
-     Certainly. I took advanced training in the
-     operation of auxiliary space vessels at Starfleet
-     Academy, where I received
+<tr id="L246"><td><a href="#L246">246</a></td><td>PULASKI:  There was no warning.</td></tr>
 
-  PULASKI
-     A more than passing grade, no doubt. Please, come
-     aboard. We don't have much time.
+<tr id="L247"><td><a href="#L247">247</a></td><td>PICARD [on monitor]:  Explain.</td></tr>
 
-  COMPUTER
-     Shuttlebay three force field activated.
+<tr id="L248"><td><a href="#L248">248</a></td><td>PULASKI:  Arthritic inflammation. It's the initial symptom of the disease.</td></tr>
 
+<tr id="L249"><td><a href="#L249">249</a></td><td>PICARD [on monitor]:  What can we do?</td></tr>
 
-LOCATION--Shuttlecraft
+<tr id="L250"><td><a href="#L250">250</a></td><td>PULASKI:  Return the boy to Darwin Station. Apparently the children are carriers.</td></tr>
 
-  DATA
-     You're certain the Captain approved this, Doctor?
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L251"><td><a href="#L251">251</a></td><td>PICARD [OC]:  Chief O'Brien, are you ready?</td></tr>
 
-  PULASKI
-     You'll take us a few hundred metres away from the
-     Enterprise and hold position.
+<tr id="L252"><td><a href="#L252">252</a></td><td>O'BRIEN:  I have the original coordinates of the Darwin isolation lab, Captain.</td></tr>
 
-  DATA
-     Begin shuttlecraft launch sequence.
+<tr id="L253"><td><a href="#L253">253</a></td><td>PICARD [OC]:  Quickly, please.</td></tr>
 
+<tr id="L254"><td><a href="#L254">254</a></td><td>O'BRIEN:  Shuttle One, hold your position.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Shuttlecraft</td></tr>
+<tr id="L255"><td><a href="#L255">255</a></td><td>DATA:  Holding.</td></tr>
 
-  PICARD
-     Good luck, Doctor.
+<tr id="L256"><td><a href="#L256">256</a></td><td>ANNOTATION: Pulaski gives herself a painkilling hypo</td></tr>
 
+<tr id="L257"><td><a href="#L257">257</a></td><td>O'BRIEN [OC]:  Stand by to transport.</td></tr>
 
-LOCATION--Shuttlecraft
+<tr id="L258"><td><a href="#L258">258</a></td><td>PULASKI:  It wasn't your fault.</td></tr>
 
-  DATA
-     We are in position, Doctor.
+<tr id="L259"><td><a href="#L259">259</a></td><td>ANNOTATION: The boy is beamed away</td></tr>
 
-  PULASKI
-     It's the only way to prove they're harmless.
+<tr id="L260"><td><a href="#L260">260</a></td><td>PICARD [OC]:  Tell us what you need, Doctor.</td></tr>
 
-  DATA
-     And if they are not?
+<tr id="L261"><td><a href="#L261">261</a></td><td>PULASKI:  There's nothing you can do, Captain. I'm not going to make myself an exception to the Darwin quarantine. Shuttle One out.</td></tr>
 
-  PULASKI
-     I hate to keep reminding you, but you are a
-     machine. You'll be perfectly safe.
+<tr id="L262"><td><a href="#L262">262</a></td><td>DATA:  What is your condition, Doctor?</td></tr>
 
-  DATA
-     That is by no means certain, Doctor, but I was
-     referring to you.
+<tr id="L263"><td><a href="#L263">263</a></td><td>PULASKI:  Not exactly up to factory specs. I'm sorry. The pain is tolerable, thank you.</td></tr>
 
-  PULASKI
-     Medical research is sometimes a risky business.
-     It's all part of being human. Shall we proceed?
+<tr id="L264"><td><a href="#L264">264</a></td><td>DATA:  Shall I set course for Darwin Station?</td></tr>
 
-  DATA
-     Ready to transport.
+<tr id="L265"><td><a href="#L265">265</a></td><td>PULASKI:  We're already under quarantined. What do we have to lose?</td></tr>
 
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L266"><td><a href="#L266">266</a></td><td>PICARD:  We can no longer consider the Darwin Station crisis our most immediate concern, although Doctor Pulaski's condition is inseparably linked with that emergency. Her safe return and that of Commander Data must take priority, please.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L267"><td><a href="#L267">267</a></td><td>TROI:  Shouldn't Doctor Pulaski be involved in this?</td></tr>
 
-  DATA [OC]
-     You have the coordinates, Chief O'Brien.
+<tr id="L268"><td><a href="#L268">268</a></td><td>RIKER:  From what we've seen on the Lantree, Doctor Pulaski may not have time to help herself.</td></tr>
 
-  O'BRIEN
-     Shuttlecraft, maintain your position and stand by.
+<tr id="L269"><td><a href="#L269">269</a></td><td>TROI:  Well I suggest we beam them both back onto the ship. Commander Data is most likely immune and surely the biofilter will</td></tr>
 
-  DATA [OC]
-     Standing by.
+<tr id="L270"><td><a href="#L270">270</a></td><td>O'BRIEN:  The transporter's biofilter won't protect us. The boy was transported twice already and still infected Doctor Pulaski.</td></tr>
 
+<tr id="L271"><td><a href="#L271">271</a></td><td>LAFORGE:  Couldn't we adjust the biofilter? We could alter the filter to screen out whatever it is that's causing the disease.</td></tr>
 
-LOCATION--Science lab
+<tr id="L272"><td><a href="#L272">272</a></td><td>PICARD:  But we don't know what's causing the disease. We can't protect ourselves against the unknown. What we need is some kind of filter that doesn't depend on known biological factors.</td></tr>
 
-  O'BRIEN
-     Transporter control, what's our status?
+<tr id="L273"><td><a href="#L273">273</a></td><td>O'BRIEN:  We might try the trace.</td></tr>
 
+<tr id="L274"><td><a href="#L274">274</a></td><td>RIKER:  The transporter trace?</td></tr>
 
-LOCATION--Transporter room
+<tr id="L275"><td><a href="#L275">275</a></td><td>O'BRIEN:  As you know, the transporter keeps a record of all transmissions, a pattern if you will. Usually it's just stored for security purposes, but if we use the transporter trace to control the reconstitution process</td></tr>
 
-  CREWMAN
-     We have a green panel, sir.
+<tr id="L276"><td><a href="#L276">276</a></td><td>LAFORGE:  I don't think it's ever been tried quite that way before, but theoretically it is possible.</td></tr>
 
+<tr id="L277"><td><a href="#L277">277</a></td><td>O'BRIEN:  I'd have to make extensive modifications.</td></tr>
 
-LOCATION--Science lab
+<tr id="L278"><td><a href="#L278">278</a></td><td>PICARD:  Then do it. It seems we have no alternative.</td></tr>
 
-  O'BRIEN
-     Stand by to transport.
+<tr id="L279"><td><a href="#L279">279</a></td><td>RIKER:  Where will we get the trace pattern? The Doctor's never used our transporter.</td></tr>
 
-  CREWMAN [OC]
-     Aye, sir.
+<tr id="L280"><td><a href="#L280">280</a></td><td>PICARD:  Never?</td></tr>
 
-  O'BRIEN
-     Energise.
+<tr id="L281"><td><a href="#L281">281</a></td><td>RIKER:  No. She's a woman of very strongly held opinions, sir. What was her previous assignment?</td></tr>
 
+<tr id="L282"><td><a href="#L282">282</a></td><td>TROI:  Her last ship was the Repulse.</td></tr>
 
-LOCATION--Shuttlecraft
+<tr id="L283"><td><a href="#L283">283</a></td><td>PICARD:  Bridge, Picard. Contact the USS Repulse using subspace captain's priority channel.</td></tr>
 
-  ANNOTATION
-     The boy is beamed in, and Pulaski uses a device to
-     remove the styrolite covering from him. He sits up
-     and looks into Kate's eyes
+<tr><td></td><td>LOCATION--Darwin Station Lab</td></tr>
+<tr id="L284"><td><a href="#L284">284</a></td><td>KINGSLEY:  Oh, Doctor Pulaski. I can only tell you how much I regret the burden we've imposed on you. On both of you.</td></tr>
 
-  PULASKI
-     Oh, yes, I do. I understand you perfectly.
+<tr id="L285"><td><a href="#L285">285</a></td><td>PULASKI:  Commander Data is an android, Doctor. He is unaffected. As for me, I chose this. I was convinced the children were safe.</td></tr>
 
-  DATA
-     How could you, Doctor? He has not said anything.
+<tr id="L286"><td><a href="#L286">286</a></td><td>KINGSLEY:  I still can't believe you were infected by one of our children.</td></tr>
 
-  PULASKI
-     Oh yes, he has. Troi's right. He's telepathic.
+<tr id="L287"><td><a href="#L287">287</a></td><td>DATA:  The evidence is fairly conclusive.</td></tr>
 
+<tr id="L288"><td><a href="#L288">288</a></td><td>KINGSLEY:  You don't understand. They were designed to resist disease.</td></tr>
 
-LOCATION--Bridge
+<tr id="L289"><td><a href="#L289">289</a></td><td>PULASKI:  I think it's time we talked about that.</td></tr>
 
-  PICARD
-     Time?
+<tr id="L290"><td><a href="#L290">290</a></td><td>KINGSLEY:  Let me show you something.</td></tr>
 
-  COMPUTER
-     Zero three two two exactly.
+<tr id="L291"><td><a href="#L291">291</a></td><td>ANNOTATION: They go up some steps to an observation window on the Isolation lab. Seven 'children' are playing games</td></tr>
 
-  PICARD
-     She's been in direct contact with the boy for
-     eighteen minutes.
+<tr id="L292"><td><a href="#L292">292</a></td><td>KINGSLEY:  Our ultimate achievement. The oldest is twelve, and all are telekinetic. Watch.</td></tr>
 
+<tr id="L293"><td><a href="#L293">293</a></td><td>ANNOTATION: A chess piece glides to an upper level of the three-d board</td></tr>
 
-LOCATION--Shuttlecraft
+<tr id="L294"><td><a href="#L294">294</a></td><td>PULASKI:  Genetically engineered?</td></tr>
 
-  ANNOTATION
-     Data is giving Pulaski a medical examination
+<tr id="L295"><td><a href="#L295">295</a></td><td>KINGSLEY:  Not engineered, created. Perfect in every way. Their body structure, their musculature, their minds.</td></tr>
 
-  DATA
-     All systems are functioning within normal
-     specifications, Doctor.
+<tr id="L296"><td><a href="#L296">296</a></td><td>PULASKI:  You were telling me about their immune system.</td></tr>
 
-  PULASKI
-     The manufacturer will be pleased to hear it. I
-     appreciate your help, but your bedside manner
-     needs work.
+<tr id="L297"><td><a href="#L297">297</a></td><td>KINGSLEY:  That was our masterpiece. We gave these children an aggressive immunity. The rest of us were infected by the supply ship, but they were protected.</td></tr>
 
-  DATA
-     Bedside manner?
+<tr id="L298"><td><a href="#L298">298</a></td><td>DATA:  The Lantree logs indicated that only one crewman had any illness prior to arrival here. The First Officer had a mild case of Thelusian flu.</td></tr>
 
-  ANNOTATION
-     Pulaski scans the boy, then drops the instruments
-     and clutches her elbow in agony
+<tr id="L299"><td><a href="#L299">299</a></td><td>KINGSLEY:  Yes, he was one of the crewmen who came in direct contact with us.</td></tr>
 
-  DATA
-     Doctor?
+<tr id="L300"><td><a href="#L300">300</a></td><td>PULASKI:  The Thelusian flu would have little effect on you, but tell me, how would they react?</td></tr>
 
-  PICARD [on monitor]
-     Doctor, I don't understand. What has happened?
+<tr id="L301"><td><a href="#L301">301</a></td><td>KINGSLEY:  Their immune system would release an active antibody that would attack the virus.</td></tr>
 
-  PULASKI
-     There was no warning.
+<tr id="L302"><td><a href="#L302">302</a></td><td>PULASKI:  Even at a distance?</td></tr>
 
-  PICARD [on monitor]
-     Explain.
+<tr id="L303"><td><a href="#L303">303</a></td><td>KINGSLEY:  Their immune systems don't wait for a disease to attack the body. It would seek out an airborne virus and destroy it.</td></tr>
 
-  PULASKI
-     Arthritic inflammation. It's the initial symptom
-     of the disease.
+<tr id="L304"><td><a href="#L304">304</a></td><td>PULASKI:  Destroy it? How, exactly?</td></tr>
 
-  PICARD [on monitor]
-     What can we do?
+<tr id="L305"><td><a href="#L305">305</a></td><td>KINGSLEY:  The antibody would adapt itself to alter the genetic code of the virus.</td></tr>
 
-  PULASKI
-     Return the boy to Darwin Station. Apparently the
-     children are carriers.
+<tr id="L306"><td><a href="#L306">306</a></td><td>PULASKI:  Commander, I want an analysis of the interaction between the Thelusian flu and the children.</td></tr>
 
+<tr id="L307"><td><a href="#L307">307</a></td><td>DATA:  On a molecular genetic level?</td></tr>
 
-LOCATION--Transporter room
+<tr id="L308"><td><a href="#L308">308</a></td><td>KINGSLEY:  We don't have time for that. Genetic analysis could take months.</td></tr>
 
-  PICARD [OC]
-     Chief O'Brien, are you ready?
+<tr id="L309"><td><a href="#L309">309</a></td><td>PULASKI:  Not necessarily. Commander Data has a way with computers.</td></tr>
 
-  O'BRIEN
-     I have the original coordinates of the Darwin
-     isolation lab, Captain.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L310"><td><a href="#L310">310</a></td><td>TAGGERT [on monitor]:  Sorry, Picard. We erased Doctor Pulaski's transporter pattern right after she transferred. Not that she used the transporter much, she preferred using the shuttlecraft. I would have given her a shuttle if it would have kept her here.</td></tr>
 
-  PICARD [OC]
-     Quickly, please.
+<tr id="L311"><td><a href="#L311">311</a></td><td>PICARD:  Tell me, Taggert, if she served you as well as you say, why did you let her go?</td></tr>
 
-  O'BRIEN
-     Shuttle One, hold your position.
+<tr id="L312"><td><a href="#L312">312</a></td><td>TAGGERT [on monitor]:  I see you haven't run into her stubborn streak yet. As soon as she found out about an opening on the Enterprise, she put in a request for transfer. Knew your service record backward and forward. Apparently she's been an admirer of yours for some time.</td></tr>
 
+<tr id="L313"><td><a href="#L313">313</a></td><td>PICARD:  Extraordinary.</td></tr>
 
-LOCATION--Shuttlecraft
+<tr><td></td><td>LOCATION--Darwin Station lab</td></tr>
+<tr id="L314"><td><a href="#L314">314</a></td><td>PULASKI:  Commander, what have you got?</td></tr>
 
-  DATA
-     Holding.
+<tr id="L315"><td><a href="#L315">315</a></td><td>DATA:  The answer, I believe, Doctor. The Lantree was not the source of the disease, but it was the trigger.</td></tr>
 
-  ANNOTATION
-     Pulaski gives herself a painkilling hypo
+<tr id="L316"><td><a href="#L316">316</a></td><td>KINGSLEY:  Trigger?</td></tr>
 
-  O'BRIEN [OC]
-     Stand by to transport.
+<tr id="L317"><td><a href="#L317">317</a></td><td>DATA:  The Lantree's First Officer exposed your children to Thelusian flu for the first time. Their active immune systems set out to attack the virus, and once it was triggered, it kept going. The antibody created an unexpected side-effect. It alters the genetic make-up of normal humans. This is a comparison of the normal and altered DNA. These are the two molecules that have been transposed.</td></tr>
 
-  PULASKI
-     It wasn't your fault.
+<tr id="L318"><td><a href="#L318">318</a></td><td>PULASKI:  And since our DNA is self replicating, the process</td></tr>
 
-  ANNOTATION
-     The boy is beamed away
+<tr id="L319"><td><a href="#L319">319</a></td><td>DATA:  Is irreversible.</td></tr>
 
-  PICARD [OC]
-     Tell us what you need, Doctor.
+<tr id="L320"><td><a href="#L320">320</a></td><td>PULASKI:  Judging from what happened on the Lantree, anyone is a carrier once they're infected.</td></tr>
 
-  PULASKI
-     There's nothing you can do, Captain. I'm not going
-     to make myself an exception to the Darwin
-     quarantine. Shuttle One out.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L321"><td><a href="#L321">321</a></td><td>PICARD:  Have you made any progress, Doctor?</td></tr>
 
-  DATA
-     What is your condition, Doctor?
+<tr id="L322"><td><a href="#L322">322</a></td><td>PULASKI [on viewscreen]:  I'm afraid so, Captain. The children don't carry the disease, they are the cause.</td></tr>
 
-  PULASKI
-     Not exactly up to factory specs. I'm sorry. The
-     pain is tolerable, thank you.
+<tr id="L323"><td><a href="#L323">323</a></td><td>PICARD:  What do you mean?</td></tr>
 
-  DATA
-     Shall I set course for Darwin Station?
+<tr id="L324"><td><a href="#L324">324</a></td><td>PULASKI [on viewscreen]:  Their advanced immune system has created an antibody that changes normal DNA. The altered genes are the ones that control aging.</td></tr>
 
-  PULASKI
-     We're already under quarantined. What do we have
-     to lose?
+<tr id="L325"><td><a href="#L325">325</a></td><td>PICARD:  Then why did it attack you more quickly than Doctor Kingsley?</td></tr>
 
+<tr id="L326"><td><a href="#L326">326</a></td><td>PULASKI [on viewscreen]:  The enclosed environment of the shuttlecraft concentrated my exposure. The Lantree's First Officer carried the antibody onto his ship. It had the same effect on his crew.</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L327"><td><a href="#L327">327</a></td><td>PICARD:  Right, what's the next step?</td></tr>
 
-  PICARD
-     We can no longer consider the Darwin Station
-     crisis our most immediate concern, although Doctor
-     Pulaski's condition is inseparably linked with
-     that emergency. Her safe return and that of
-     Commander Data must take priority, please.
+<tr id="L328"><td><a href="#L328">328</a></td><td>PULASKI [on viewscreen]:  The children will survive, but the rest of us are just about out of time.</td></tr>
 
-  TROI
-     Shouldn't Doctor Pulaski be involved in this?
+<tr id="L329"><td><a href="#L329">329</a></td><td>PICARD:  Doctor, I want you back aboard this ship. We'll beam you up in suspended animation like the boy. That will give us more time.</td></tr>
 
-  RIKER
-     From what we've seen on the Lantree, Doctor
-     Pulaski may not have time to help herself.
+<tr id="L330"><td><a href="#L330">330</a></td><td>PULASKI [on viewscreen]:  Captain, I appreciate what you're trying to do, but I got into this by leaping before I looked, and I won't allow you to make the same mistake. Chief Medical Officer's log. This will be my final report to the Enterprise. Just as changes in evolution are known to be caused by changes in the environment, we now know the process also works in reverse. An attempt to control human evolution has resulted in a new species that's lethal to its predecessors. The children will be condemned to live out their lives in isolation. Quarantine of the Darwin Station must be maintained for ever.</td></tr>
 
-  TROI
-     Well I suggest we beam them both back onto the
-     ship. Commander Data is most likely immune and
-     surely the biofilter will
+<tr><td></td><td>LOCATION--Darwin Station lab</td></tr>
+<tr id="L331"><td><a href="#L331">331</a></td><td>ANNOTATION: By now Pulaski is white-haired and wrinkled</td></tr>
 
-  O'BRIEN
-     The transporter's biofilter won't protect us. The
-     boy was transported twice already and still
-     infected Doctor Pulaski.
+<tr id="L332"><td><a href="#L332">332</a></td><td>DATA:  I am sorry I could not be more helpful, Doctor Pulaski.</td></tr>
 
-  LAFORGE
-     Couldn't we adjust the biofilter? We could alter
-     the filter to screen out whatever it is that's
-     causing the disease.
+<tr id="L333"><td><a href="#L333">333</a></td><td>PULASKI:  You did everything you could, Commander. As androids go, you're in a class by yourself.</td></tr>
 
-  PICARD
-     But we don't know what's causing the disease. We
-     can't protect ourselves against the unknown. What
-     we need is some kind of filter that doesn't depend
-     on known biological factors.
+<tr id="L334"><td><a href="#L334">334</a></td><td>DATA:  Doctor</td></tr>
 
-  O'BRIEN
-     We might try the trace.
+<tr id="L335"><td><a href="#L335">335</a></td><td>PULASKI:  Please, give my best to the Captain.</td></tr>
 
-  RIKER
-     The transporter trace?
+<tr id="L336"><td><a href="#L336">336</a></td><td>DATA:  Enterprise. Commander Data ready to beam aboard.</td></tr>
 
-  O'BRIEN
-     As you know, the transporter keeps a record of all
-     transmissions, a pattern if you will. Usually it's
-     just stored for security purposes, but if we use
-     the transporter trace to control the
-     reconstitution process
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L337"><td><a href="#L337">337</a></td><td>TROI:  Captain, Kate knew what she was doing.</td></tr>
 
-  LAFORGE
-     I don't think it's ever been tried quite that way
-     before, but theoretically it is possible.
+<tr id="L338"><td><a href="#L338">338</a></td><td>PICARD:  I wish I could be certain that we'd tried everything.</td></tr>
 
-  O'BRIEN
-     I'd have to make extensive modifications.
+<tr id="L339"><td><a href="#L339">339</a></td><td>WORF:  Commander Data is ready to come aboard, sir.</td></tr>
 
-  PICARD
-     Then do it. It seems we have no alternative.
+<tr id="L340"><td><a href="#L340">340</a></td><td>PICARD:  You have the Bridge, Number One.</td></tr>
 
-  RIKER
-     Where will we get the trace pattern? The Doctor's
-     never used our transporter.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L341"><td><a href="#L341">341</a></td><td>CREWMAN:  No life forms present.</td></tr>
 
-  PICARD
-     Never?
+<tr id="L342"><td><a href="#L342">342</a></td><td>O'BRIEN:  You may step down, sir.</td></tr>
 
-  RIKER
-     No. She's a woman of very strongly held opinions,
-     sir. What was her previous assignment?
+<tr id="L343"><td><a href="#L343">343</a></td><td>PICARD:  Data, tell me if. It's good to see you again.</td></tr>
 
-  TROI
-     Her last ship was the Repulse.
+<tr id="L344"><td><a href="#L344">344</a></td><td>DATA:  Thank you, sir.</td></tr>
 
-  PICARD
-     Bridge, Picard. Contact the USS Repulse using
-     subspace captain's priority channel.
+<tr id="L345"><td><a href="#L345">345</a></td><td>PICARD:  Now, quickly. If the changes in Doctor Pulaski's DNA were reversed, would it be possible</td></tr>
 
+<tr id="L346"><td><a href="#L346">346</a></td><td>DATA:  It is not reversible, sir. The subtle molecular transposition of</td></tr>
 
-LOCATION--Darwin Station Lab
+<tr id="L347"><td><a href="#L347">347</a></td><td>PICARD:  Yes, yes, yes. But say if it were undone, would she be normal again?</td></tr>
 
-  KINGSLEY
-     Oh, Doctor Pulaski. I can only tell you how much I
-     regret the burden we've imposed on you. On both of
-     you.
+<tr id="L348"><td><a href="#L348">348</a></td><td>DATA:  As normal as ever, sir.</td></tr>
 
-  PULASKI
-     Commander Data is an android, Doctor. He is
-     unaffected. As for me, I chose this. I was
-     convinced the children were safe.
+<tr id="L349"><td><a href="#L349">349</a></td><td>PICARD:  You said that the transporter could be modified to filter out the changes in Doctor Pulaski?</td></tr>
 
-  KINGSLEY
-     I still can't believe you were infected by one of
-     our children.
+<tr id="L350"><td><a href="#L350">350</a></td><td>O'BRIEN:  Yes, sir, but we were unable to locate her trace pattern.</td></tr>
 
-  DATA
-     The evidence is fairly conclusive.
+<tr id="L351"><td><a href="#L351">351</a></td><td>PICARD:  Well, what if we used a sample of her DNA, say from a blood test taken before she was exposed to the disease? Could that be used to filter out the genetic changes?</td></tr>
 
-  KINGSLEY
-     You don't understand. They were designed to resist
-     disease.
+<tr id="L352"><td><a href="#L352">352</a></td><td>O'BRIEN:  Well, I'd have to get into the biofilter bus to patch in a molecular matrix reader. That's no problem. But the waveform modulator will be overloaded without the regeneration limiter in the first stage circuit.</td></tr>
 
-  PULASKI
-     I think it's time we talked about that.
+<tr id="L353"><td><a href="#L353">353</a></td><td>DATA:  Interesting. However, theoretically,</td></tr>
 
-  KINGSLEY
-     Let me show you something.
+<tr id="L354"><td><a href="#L354">354</a></td><td>PICARD:  Data.</td></tr>
 
-  ANNOTATION
-     They go up some steps to an observation window on
-     the Isolation lab. Seven 'children' are playing
-     games
+<tr id="L355"><td><a href="#L355">355</a></td><td>DATA:  Yes, sir.</td></tr>
 
-  KINGSLEY
-     Our ultimate achievement. The oldest is twelve,
-     and all are telekinetic. Watch.
+<tr id="L356"><td><a href="#L356">356</a></td><td>PICARD:  Can you do the modifications?</td></tr>
 
-  ANNOTATION
-     A chess piece glides to an upper level of the
-     three-d board
+<tr id="L357"><td><a href="#L357">357</a></td><td>O'BRIEN:  I think so, sir.</td></tr>
 
-  PULASKI
-     Genetically engineered?
+<tr id="L358"><td><a href="#L358">358</a></td><td>PICARD:  Then make it so.</td></tr>
 
-  KINGSLEY
-     Not engineered, created. Perfect in every way.
-     Their body structure, their musculature, their
-     minds.
+<tr id="L359"><td><a href="#L359">359</a></td><td>O'BRIEN:  You heard what he said. Let's get those panels off.</td></tr>
 
-  PULASKI
-     You were telling me about their immune system.
+<tr><td></td><td>LOCATION--Doctor's office</td></tr>
+<tr id="L360"><td><a href="#L360">360</a></td><td>RIKER:  A blood test, a tissue sample, anything that would have a sample of Doctor Pulaski's original DNA.</td></tr>
 
-  KINGSLEY
-     That was our masterpiece. We gave these children
-     an aggressive immunity. The rest of us were
-     infected by the supply ship, but they were
-     protected.
+<tr id="L361"><td><a href="#L361">361</a></td><td>DATA:  No, sir. Her records were shipped by way of Starfleet headquarters. They have not caught up with us yet.</td></tr>
 
-  DATA
-     The Lantree logs indicated that only one crewman
-     had any illness prior to arrival here. The First
-     Officer had a mild case of Thelusian flu.
+<tr id="L362"><td><a href="#L362">362</a></td><td>RIKER:  This is ridiculous. A cell, a single cell. Let's check her quarters.</td></tr>
 
-  KINGSLEY
-     Yes, he was one of the crewmen who came in direct
-     contact with us.
+<tr><td></td><td>LOCATION--Pulaski's quarters</td></tr>
+<tr id="L363"><td><a href="#L363">363</a></td><td>RIKER:  Anything. A fingernail, a hair.</td></tr>
 
-  PULASKI
-     The Thelusian flu would have little effect on you,
-     but tell me, how would they react?
+<tr id="L364"><td><a href="#L364">364</a></td><td>DATA:  Hair brush.</td></tr>
 
-  KINGSLEY
-     Their immune system would release an active
-     antibody that would attack the virus.
+<tr id="L365"><td><a href="#L365">365</a></td><td>ANNOTATION: Which for some reason she keeps at the back of a clothes drawer</td></tr>
 
-  PULASKI
-     Even at a distance?
+<tr id="L366"><td><a href="#L366">366</a></td><td>DATA:  It has a follicle, sir. Live cells.</td></tr>
 
-  KINGSLEY
-     Their immune systems don't wait for a disease to
-     attack the body. It would seek out an airborne
-     virus and destroy it.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L367"><td><a href="#L367">367</a></td><td>PICARD:  Darwin Station, this is the Enterprise.</td></tr>
 
-  PULASKI
-     Destroy it? How, exactly?
+<tr id="L368"><td><a href="#L368">368</a></td><td>PULASKI [on viewscreen]:  Go ahead, Captain. I'm here.</td></tr>
 
-  KINGSLEY
-     The antibody would adapt itself to alter the
-     genetic code of the virus.
+<tr id="L369"><td><a href="#L369">369</a></td><td>PICARD:  Doctor, we may have a solution. We have a sample of your normal DNA to use as a filter in the transporter. We think that we can beam you aboard while filtering out any of the genetic problems caused by the disease.</td></tr>
 
-  PULASKI
-     Commander, I want an analysis of the interaction
-     between the Thelusian flu and the children.
+<tr id="L370"><td><a href="#L370">370</a></td><td>PULASKI [on viewscreen]:  Interesting theory, Captain. If it works, we could use the same technique to save Doctor Kingsley and her colleagues.</td></tr>
 
-  DATA
-     On a molecular genetic level?
+<tr id="L371"><td><a href="#L371">371</a></td><td>PICARD:  I think you should know, this has never been attempted before.</td></tr>
 
-  KINGSLEY
-     We don't have time for that. Genetic analysis
-     could take months.
+<tr id="L372"><td><a href="#L372">372</a></td><td>PULASKI [on viewscreen]:  Well, I'll tell you one thing. If I live through this, I'll have a much better understanding of geriatrics.</td></tr>
 
-  PULASKI
-     Not necessarily. Commander Data has a way with
-     computers.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L373"><td><a href="#L373">373</a></td><td>ANNOTATION: La Forge and Data are assisting O'Brien and his crewman with the modifications</td></tr>
 
+<tr id="L374"><td><a href="#L374">374</a></td><td>PICARD:  All set, Chief?</td></tr>
 
-LOCATION--Ready room
+<tr id="L375"><td><a href="#L375">375</a></td><td>O'BRIEN:  Almost ready, sir. There's just one thing.</td></tr>
 
-  TAGGERT [on monitor]
-     Sorry, Picard. We erased Doctor Pulaski's
-     transporter pattern right after she transferred.
-     Not that she used the transporter much, she
-     preferred using the shuttlecraft. I would have
-     given her a shuttle if it would have kept her
-     here.
+<tr id="L376"><td><a href="#L376">376</a></td><td>PICARD:  Yes?</td></tr>
 
-  PICARD
-     Tell me, Taggert, if she served you as well as you
-     say, why did you let her go?
+<tr id="L377"><td><a href="#L377">377</a></td><td>O'BRIEN:  This modification's one way only. If it doesn't work we won't be able to reverse transport the Doctor back to the planet.</td></tr>
 
-  TAGGERT [on monitor]
-     I see you haven't run into her stubborn streak
-     yet. As soon as she found out about an opening on
-     the Enterprise, she put in a request for transfer.
-     Knew your service record backward and forward.
-     Apparently she's been an admirer of yours for some
-     time.
+<tr id="L378"><td><a href="#L378">378</a></td><td>PICARD:  Then I'll operate the transporter controls myself. If she's going to be consigned to oblivion, then</td></tr>
 
-  PICARD
-     Extraordinary.
+<tr id="L379"><td><a href="#L379">379</a></td><td>O'BRIEN:  Thank you, sir. I'll be monitoring the medical scans. But you'll be able to tell if it's worked by watching the stack.</td></tr>
 
+<tr id="L380"><td><a href="#L380">380</a></td><td>PICARD:  Doctor Pulaski, are you ready?</td></tr>
 
-LOCATION--Darwin Station lab
+<tr id="L381"><td><a href="#L381">381</a></td><td>PULASKI [OC]:  I suppose I am, Captain.</td></tr>
 
-  PULASKI
-     Commander, what have you got?
+<tr id="L382"><td><a href="#L382">382</a></td><td>PICARD:  Here we go.</td></tr>
 
-  DATA
-     The answer, I believe, Doctor. The Lantree was not
-     the source of the disease, but it was the trigger.
+<tr id="L383"><td><a href="#L383">383</a></td><td>ANNOTATION: The figure that starts to materialise is white-haired and old</td></tr>
 
-  KINGSLEY
-     Trigger?
+<tr id="L384"><td><a href="#L384">384</a></td><td>PICARD:  It's not working.</td></tr>
 
-  DATA
-     The Lantree's First Officer exposed your children
-     to Thelusian flu for the first time. Their active
-     immune systems set out to attack the virus, and
-     once it was triggered, it kept going. The antibody
-     created an unexpected side-effect. It alters the
-     genetic make-up of normal humans. This is a
-     comparison of the normal and altered DNA. These
-     are the two molecules that have been transposed.
+<tr id="L385"><td><a href="#L385">385</a></td><td>O'BRIEN:  Captain, wait.</td></tr>
 
-  PULASKI
-     And since our DNA is self replicating, the process
+<tr id="L386"><td><a href="#L386">386</a></td><td>ANNOTATION: He taps his board and she becomes younger, and solid. Picard and Pulaski embrace.</td></tr>
 
-  DATA
-     Is irreversible.
+<tr id="L387"><td><a href="#L387">387</a></td><td>DATA:  Doctor.</td></tr>
 
-  PULASKI
-     Judging from what happened on the Lantree, anyone
-     is a carrier once they're infected.
+<tr id="L388"><td><a href="#L388">388</a></td><td>LAFORGE:  Good to see you, Doctor.</td></tr>
 
+<tr id="L389"><td><a href="#L389">389</a></td><td>PICARD:  Welcome back, Doctor. Come.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L390"><td><a href="#L390">390</a></td><td>PULASKI:  Captain, if this hadn't worked?</td></tr>
 
-  PICARD
-     Have you made any progress, Doctor?
+<tr id="L391"><td><a href="#L391">391</a></td><td>PICARD:  If this hadn't worked, it would have been necessary to beam your energy into empty space.</td></tr>
 
-  PULASKI [on viewscreen]
-     I'm afraid so, Captain. The children don't carry
-     the disease, they are the cause.
+<tr id="L392"><td><a href="#L392">392</a></td><td>PULASKI:  And spread my atoms spread across the galaxy.</td></tr>
 
-  PICARD
-     What do you mean?
+<tr id="L393"><td><a href="#L393">393</a></td><td>PICARD:  Yes. I'm sorry.</td></tr>
 
-  PULASKI [on viewscreen]
-     Their advanced immune system has created an
-     antibody that changes normal DNA. The altered
-     genes are the ones that control aging.
+<tr id="L394"><td><a href="#L394">394</a></td><td>PULASKI:  No, no, don't be sorry. Every time I get into the damn thing, I'm convinced that's what's going to happen.</td></tr>
 
-  PICARD
-     Then why did it attack you more quickly than
-     Doctor Kingsley?
+<tr id="L395"><td><a href="#L395">395</a></td><td>SOMEONE: Chief Medical Officer's log, supplemental. The adults of Darwin Station have been restored to normal health using our transporter. They will remain on Gagarin Four and continue their research in hopes of one day rejoining their children.</td></tr>
 
-  PULASKI [on viewscreen]
-     The enclosed environment of the shuttlecraft
-     concentrated my exposure. The Lantree's First
-     Officer carried the antibody onto his ship. It had
-     the same effect on his crew.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L396"><td><a href="#L396">396</a></td><td>WESLEY:  Impulse speed.</td></tr>
 
-  PICARD
-     Right, what's the next step?
+<tr id="L397"><td><a href="#L397">397</a></td><td>DATA:  There she is, Captain.</td></tr>
 
-  PULASKI [on viewscreen]
-     The children will survive, but the rest of us are
-     just about out of time.
+<tr id="L398"><td><a href="#L398">398</a></td><td>PULASKI [OC]:  (continuing log) Scientists believe no experiment is a failure, that even a mistake advances the evolution of understanding.</td></tr>
 
-  PICARD
-     Doctor, I want you back aboard this ship. We'll
-     beam you up in suspended animation like the boy.
-     That will give us more time.
+<tr id="L399"><td><a href="#L399">399</a></td><td>RIKER:  Close to forty kilometres.</td></tr>
 
-  PULASKI [on viewscreen]
-     Captain, I appreciate what you're trying to do,
-     but I got into this by leaping before I looked,
-     and I won't allow you to make the same mistake.
-     Chief Medical Officer's log. This will be my final
-     report to the Enterprise. Just as changes in
-     evolution are known to be caused by changes in the
-     environment, we now know the process also works in
-     reverse. An attempt to control human evolution has
-     resulted in a new species that's lethal to its
-     predecessors. The children will be condemned to
-     live out their lives in isolation. Quarantine of
-     the Darwin Station must be maintained for ever.
+<tr id="L400"><td><a href="#L400">400</a></td><td>WESLEY:  Forty kilometres, aye, sir.</td></tr>
 
+<tr id="L401"><td><a href="#L401">401</a></td><td>PULASKI [OC]:  But all achievement has a price. For one brief glimpse at the mysterious blueprint of human evolution, the men and women off the USS Lantree paid with their lives. Their sacrifice is thus noted in this scientist's log.</td></tr>
 
-LOCATION--Darwin Station lab
+<tr id="L402"><td><a href="#L402">402</a></td><td>PICARD:  Number One.</td></tr>
 
-  ANNOTATION
-     By now Pulaski is white-haired and wrinkled
+<tr id="L403"><td><a href="#L403">403</a></td><td>RIKER:  Lieutenant Worf, arm the photon torpedoes.</td></tr>
 
-  DATA
-     I am sorry I could not be more helpful, Doctor
-     Pulaski.
+<tr id="L404"><td><a href="#L404">404</a></td><td>WORF:  Torpedoes ready, Commander.</td></tr>
 
-  PULASKI
-     You did everything you could, Commander. As
-     androids go, you're in a class by yourself.
+<tr id="L405"><td><a href="#L405">405</a></td><td>LANTREE:  Extreme caution. The USS Lantree is a quarantined vessel by order of Starfleet Command. Do not board.</td></tr>
 
-  DATA
-     Doctor
+<tr id="L406"><td><a href="#L406">406</a></td><td>ANNOTATION: Every one stands</td></tr>
 
-  PULASKI
-     Please, give my best to the Captain.
+<tr id="L407"><td><a href="#L407">407</a></td><td>PICARD:  Gentlemen.</td></tr>
 
-  DATA
-     Enterprise. Commander Data ready to beam aboard.
+<tr id="L408"><td><a href="#L408">408</a></td><td>LANTREE:  Extreme caution. The USS Lantree is a quarantined vessel by order of Starfleet Command. Do not board.</td></tr>
 
+<tr id="L409"><td><a href="#L409">409</a></td><td>ANNOTATION: The Lantree is cremated in an instant. After a brief moment of reflection</td></tr>
 
-LOCATION--Bridge
+<tr id="L410"><td><a href="#L410">410</a></td><td>RIKER:  Set course and speed for Star Station India.</td></tr>
 
-  TROI
-     Captain, Kate knew what she was doing.
+<tr id="L411"><td><a href="#L411">411</a></td><td>WESLEY:  Course and speed set, sir.</td></tr>
 
-  PICARD
-     I wish I could be certain that we'd tried
-     everything.
+<tr id="L412"><td><a href="#L412">412</a></td><td>PICARD:  Engage.</td></tr>
 
-  WORF
-     Commander Data is ready to come aboard, sir.
-
-  PICARD
-     You have the Bridge, Number One.
-
-
-LOCATION--Transporter room
-
-  CREWMAN
-     No life forms present.
-
-  O'BRIEN
-     You may step down, sir.
-
-  PICARD
-     Data, tell me if. It's good to see you again.
-
-  DATA
-     Thank you, sir.
-
-  PICARD
-     Now, quickly. If the changes in Doctor Pulaski's
-     DNA were reversed, would it be possible
-
-  DATA
-     It is not reversible, sir. The subtle molecular
-     transposition of
-
-  PICARD
-     Yes, yes, yes. But say if it were undone, would
-     she be normal again?
-
-  DATA
-     As normal as ever, sir.
-
-  PICARD
-     You said that the transporter could be modified to
-     filter out the changes in Doctor Pulaski?
-
-  O'BRIEN
-     Yes, sir, but we were unable to locate her trace
-     pattern.
-
-  PICARD
-     Well, what if we used a sample of her DNA, say
-     from a blood test taken before she was exposed to
-     the disease? Could that be used to filter out the
-     genetic changes?
-
-  O'BRIEN
-     Well, I'd have to get into the biofilter bus to
-     patch in a molecular matrix reader. That's no
-     problem. But the waveform modulator will be
-     overloaded without the regeneration limiter in the
-     first stage circuit.
-
-  DATA
-     Interesting. However, theoretically,
-
-  PICARD
-     Data.
-
-  DATA
-     Yes, sir.
-
-  PICARD
-     Can you do the modifications?
-
-  O'BRIEN
-     I think so, sir.
-
-  PICARD
-     Then make it so.
-
-  O'BRIEN
-     You heard what he said. Let's get those panels
-     off.
-
-
-LOCATION--Doctor's office
-
-  RIKER
-     A blood test, a tissue sample, anything that would
-     have a sample of Doctor Pulaski's original DNA.
-
-  DATA
-     No, sir. Her records were shipped by way of
-     Starfleet headquarters. They have not caught up
-     with us yet.
-
-  RIKER
-     This is ridiculous. A cell, a single cell. Let's
-     check her quarters.
-
-
-LOCATION--Pulaski's quarters
-
-  RIKER
-     Anything. A fingernail, a hair.
-
-  DATA
-     Hair brush.
-
-  ANNOTATION
-     Which for some reason she keeps at the back of a
-     clothes drawer
-
-  DATA
-     It has a follicle, sir. Live cells.
-
-
-LOCATION--Bridge
-
-  PICARD
-     Darwin Station, this is the Enterprise.
-
-  PULASKI [on viewscreen]
-     Go ahead, Captain. I'm here.
-
-  PICARD
-     Doctor, we may have a solution. We have a sample
-     of your normal DNA to use as a filter in the
-     transporter. We think that we can beam you aboard
-     while filtering out any of the genetic problems
-     caused by the disease.
-
-  PULASKI [on viewscreen]
-     Interesting theory, Captain. If it works, we could
-     use the same technique to save Doctor Kingsley and
-     her colleagues.
-
-  PICARD
-     I think you should know, this has never been
-     attempted before.
-
-  PULASKI [on viewscreen]
-     Well, I'll tell you one thing. If I live through
-     this, I'll have a much better understanding of
-     geriatrics.
-
-
-LOCATION--Transporter room
-
-  ANNOTATION
-     La Forge and Data are assisting O'Brien and his
-     crewman with the modifications
-
-  PICARD
-     All set, Chief?
-
-  O'BRIEN
-     Almost ready, sir. There's just one thing.
-
-  PICARD
-     Yes?
-
-  O'BRIEN
-     This modification's one way only. If it doesn't
-     work we won't be able to reverse transport the
-     Doctor back to the planet.
-
-  PICARD
-     Then I'll operate the transporter controls myself.
-     If she's going to be consigned to oblivion, then
-
-  O'BRIEN
-     Thank you, sir. I'll be monitoring the medical
-     scans. But you'll be able to tell if it's worked
-     by watching the stack.
-
-  PICARD
-     Doctor Pulaski, are you ready?
-
-  PULASKI [OC]
-     I suppose I am, Captain.
-
-  PICARD
-     Here we go.
-
-  ANNOTATION
-     The figure that starts to materialise is
-     white-haired and old
-
-  PICARD
-     It's not working.
-
-  O'BRIEN
-     Captain, wait.
-
-  ANNOTATION
-     He taps his board and she becomes younger, and
-     solid. Picard and Pulaski embrace.
-
-  DATA
-     Doctor.
-
-  LAFORGE
-     Good to see you, Doctor.
-
-  PICARD
-     Welcome back, Doctor. Come.
-
-
-LOCATION--Corridor
-
-  PULASKI
-     Captain, if this hadn't worked?
-
-  PICARD
-     If this hadn't worked, it would have been
-     necessary to beam your energy into empty space.
-
-  PULASKI
-     And spread my atoms spread across the galaxy.
-
-  PICARD
-     Yes. I'm sorry.
-
-  PULASKI
-     No, no, don't be sorry. Every time I get into the
-     damn thing, I'm convinced that's what's going to
-     happen.
-
-  SOMEONE
-     Chief Medical Officer's log, supplemental. The
-     adults of Darwin Station have been restored to
-     normal health using our transporter. They will
-     remain on Gagarin Four and continue their research
-     in hopes of one day rejoining their children.
-
-
-LOCATION--Bridge
-
-  WESLEY
-     Impulse speed.
-
-  DATA
-     There she is, Captain.
-
-  PULASKI [OC]
-     (continuing log) Scientists believe no experiment
-     is a failure, that even a mistake advances the
-     evolution of understanding.
-
-  RIKER
-     Close to forty kilometres.
-
-  WESLEY
-     Forty kilometres, aye, sir.
-
-  PULASKI [OC]
-     But all achievement has a price. For one brief
-     glimpse at the mysterious blueprint of human
-     evolution, the men and women off the USS Lantree
-     paid with their lives. Their sacrifice is thus
-     noted in this scientist's log.
-
-  PICARD
-     Number One.
-
-  RIKER
-     Lieutenant Worf, arm the photon torpedoes.
-
-  WORF
-     Torpedoes ready, Commander.
-
-  LANTREE
-     Extreme caution. The USS Lantree is a quarantined
-     vessel by order of Starfleet Command. Do not
-     board.
-
-  ANNOTATION
-     Every one stands
-
-  PICARD
-     Gentlemen.
-
-  LANTREE
-     Extreme caution. The USS Lantree is a quarantined
-     vessel by order of Starfleet Command. Do not
-     board.
-
-  ANNOTATION
-     The Lantree is cremated in an instant. After a
-     brief moment of reflection
-
-  RIKER
-     Set course and speed for Star Station India.
-
-  WESLEY
-     Course and speed set, sir.
-
-  PICARD
-     Engage.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

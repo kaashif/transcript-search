@@ -1,1711 +1,832 @@
-The 37's
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The 37's</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: Kim has detected strange compounds in space.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>JANEWAY:  Rust?</td></tr>
 
-  ANNOTATION
-     Kim has detected strange compounds in space.
+<tr id="L3"><td><a href="#L3">3</a></td><td>KIM:  That's right, Captain. High levels of ferric oxide. Corroded iron particles.</td></tr>
 
-  JANEWAY
-     Rust?
+<tr id="L4"><td><a href="#L4">4</a></td><td>JANEWAY:  Would you mind telling me how iron could rust in space without oxygen?</td></tr>
 
-  KIM
-     That's right, Captain. High levels of ferric
-     oxide. Corroded iron particles.
+<tr id="L5"><td><a href="#L5">5</a></td><td>KIM:  I wish I could.</td></tr>
 
-  JANEWAY
-     Would you mind telling me how iron could rust in
-     space without oxygen?
+<tr id="L6"><td><a href="#L6">6</a></td><td>JANEWAY:  Mister Paris, alter our course to follow that trail of rust. One quarter impulse.</td></tr>
 
-  KIM
-     I wish I could.
+<tr id="L7"><td><a href="#L7">7</a></td><td>PARIS:  Aye, Captain.</td></tr>
 
-  JANEWAY
-     Mister Paris, alter our course to follow that
-     trail of rust. One quarter impulse.
+<tr id="L8"><td><a href="#L8">8</a></td><td>ANNOTATION: Later, on long range sensors.</td></tr>
 
-  PARIS
-     Aye, Captain.
+<tr id="L9"><td><a href="#L9">9</a></td><td>KIM:  Captain, look at this. I'm picking up traces of complex hydrocarbons in the rust. Benzene, ethylene, acetylene.</td></tr>
 
-  ANNOTATION
-     Later, on long range sensors.
+<tr id="L10"><td><a href="#L10">10</a></td><td>PARIS:  That sounds like gasoline.</td></tr>
 
-  KIM
-     Captain, look at this. I'm picking up traces of
-     complex hydrocarbons in the rust. Benzene,
-     ethylene, acetylene.
+<tr id="L11"><td><a href="#L11">11</a></td><td>CHAKOTAY:  Gasoline?</td></tr>
 
-  PARIS
-     That sounds like gasoline.
+<tr id="L12"><td><a href="#L12">12</a></td><td>PARIS:  It's a liquid fuel that was used centuries ago on Earth. They burned it to drive internal combustion engines.</td></tr>
 
-  CHAKOTAY
-     Gasoline?
+<tr id="L13"><td><a href="#L13">13</a></td><td>JANEWAY:  How did it get out here?</td></tr>
 
-  PARIS
-     It's a liquid fuel that was used centuries ago on
-     Earth. They burned it to drive internal combustion
-     engines.
+<tr id="L14"><td><a href="#L14">14</a></td><td>TUVOK:  I'm detecting a small object. It appears to be the source of the rust and hydrocarbons.</td></tr>
 
-  JANEWAY
-     How did it get out here?
+<tr id="L15"><td><a href="#L15">15</a></td><td>JANEWAY:  Put it on screen. Magnify.</td></tr>
 
-  TUVOK
-     I'm detecting a small object. It appears to be the
-     source of the rust and hydrocarbons.
+<tr id="L16"><td><a href="#L16">16</a></td><td>ANNOTATION: They all stare at one of Henry Ford's products, floating in space.</td></tr>
 
-  JANEWAY
-     Put it on screen. Magnify.
+<tr><td></td><td>LOCATION--Cargo bay</td></tr>
+<tr id="L17"><td><a href="#L17">17</a></td><td>ANNOTATION: The pick up has been brought on board.</td></tr>
 
-  ANNOTATION
-     They all stare at one of Henry Ford's products,
-     floating in space.
+<tr id="L18"><td><a href="#L18">18</a></td><td>TUVOK:  Apparently it is a ground vehicle from mid-twentieth century Earth.</td></tr>
 
+<tr id="L19"><td><a href="#L19">19</a></td><td>PARIS:  It's a 1936 Ford, actually.</td></tr>
 
-LOCATION--Cargo bay
+<tr id="L20"><td><a href="#L20">20</a></td><td>JANEWAY:  Mister Paris?</td></tr>
 
-  ANNOTATION
-     The pick up has been brought on board.
+<tr id="L21"><td><a href="#L21">21</a></td><td>PARIS:  That was the manufacturing date, 1936. Ford was the name of the company that build it. Antique vehicles are a hobby of mine.</td></tr>
 
-  TUVOK
-     Apparently it is a ground vehicle from
-     mid-twentieth century Earth.
+<tr id="L22"><td><a href="#L22">22</a></td><td>ANNOTATION: He opens the bonnet, sorry, pops the hood, and whistles.</td></tr>
 
-  PARIS
-     It's a 1936 Ford, actually.
+<tr id="L23"><td><a href="#L23">23</a></td><td>PARIS:  Internal combustion engine, a reciprocating piston cylinder design, fuel source was a refined petroleum. Gasoline.</td></tr>
 
-  JANEWAY
-     Mister Paris?
+<tr id="L24"><td><a href="#L24">24</a></td><td>KIM:  So is this an early hover car?</td></tr>
 
-  PARIS
-     That was the manufacturing date, 1936. Ford was
-     the name of the company that build it. Antique
-     vehicles are a hobby of mine.
+<tr id="L25"><td><a href="#L25">25</a></td><td>PARIS:  No, you're about a century too early for that. This is about one step ahead of the horse drawn carriage.</td></tr>
 
-  ANNOTATION
-     He opens the bonnet, sorry, pops the hood, and
-     whistles.
+<tr id="L26"><td><a href="#L26">26</a></td><td>TORRES:  Traces of potassium nitrate, ammonium and methane back here.</td></tr>
 
-  PARIS
-     Internal combustion engine, a reciprocating piston
-     cylinder design, fuel source was a refined
-     petroleum. Gasoline.
+<tr id="L27"><td><a href="#L27">27</a></td><td>JANEWAY:  I think you'll find that's manure. Horse manure, if I'm not mistaken. Judging from the mud on the wheels, and the alfalfa seedlings stuck in the metal frame, I'd say this vehicle belonged to a farmer, or at least someone who lived in a rural area. But the question is, how did it get here? I doubt there are many twentieth century farmers driving around the Delta Quadrant.</td></tr>
 
-  KIM
-     So is this an early hover car?
+<tr id="L28"><td><a href="#L28">28</a></td><td>TUVOK:  There are no signs of any wormholes or temporal anomalies in this region of space.</td></tr>
 
-  PARIS
-     No, you're about a century too early for that.
-     This is about one step ahead of the horse drawn
-     carriage.
+<tr id="L29"><td><a href="#L29">29</a></td><td>JANEWAY:  Let's run a metallurgical analysis of the vehicle.</td></tr>
 
-  TORRES
-     Traces of potassium nitrate, ammonium and methane
-     back here.
+<tr id="L30"><td><a href="#L30">30</a></td><td>PARIS:  There's still oil in the crank case, water in the radiator. I wonder if the battery's still charged. Now, let's see. This is before voice command activation, so there should be something in here called a key. Key.</td></tr>
 
-  JANEWAY
-     I think you'll find that's manure. Horse manure,
-     if I'm not mistaken. Judging from the mud on the
-     wheels, and the alfalfa seedlings stuck in the
-     metal frame, I'd say this vehicle belonged to a
-     farmer, or at least someone who lived in a rural
-     area. But the question is, how did it get here? I
-     doubt there are many twentieth century farmers
-     driving around the Delta Quadrant.
+<tr id="L31"><td><a href="#L31">31</a></td><td>ANNOTATION: Paris gets into the driver's seat.</td></tr>
 
-  TUVOK
-     There are no signs of any wormholes or temporal
-     anomalies in this region of space.
+<tr id="L32"><td><a href="#L32">32</a></td><td>KIM:  What are you doing?</td></tr>
 
-  JANEWAY
-     Let's run a metallurgical analysis of the vehicle.
+<tr id="L33"><td><a href="#L33">33</a></td><td>PARIS:  Trying to bring this beauty back to life. Now where are the keys? Ah ha. Here they are. Okay, choke out, clutch in, give her a little gas, turn the key and step on the starter.</td></tr>
 
-  PARIS
-     There's still oil in the crank case, water in the
-     radiator. I wonder if the battery's still charged.
-     Now, let's see. This is before voice command
-     activation, so there should be something in here
-     called a key. Key.
+<tr id="L34"><td><a href="#L34">34</a></td><td>ANNOTATION: The engine grinds into life with a series bang and cloud of smoke from the exhaust. Everyone dives for cover except Tuvok, who draws his phaser.</td></tr>
 
-  ANNOTATION
-     Paris gets into the driver's seat.
+<tr id="L35"><td><a href="#L35">35</a></td><td>PARIS:  Sorry.</td></tr>
 
-  KIM
-     What are you doing?
+<tr id="L36"><td><a href="#L36">36</a></td><td>JANEWAY:  Next time you might give us a little warning, Mister Paris.</td></tr>
 
-  PARIS
-     Trying to bring this beauty back to life. Now
-     where are the keys? Ah ha. Here they are. Okay,
-     choke out, clutch in, give her a little gas, turn
-     the key and step on the starter.
+<tr id="L37"><td><a href="#L37">37</a></td><td>PARIS:  Aye, Captain.</td></tr>
 
-  ANNOTATION
-     The engine grinds into life with a series bang and
-     cloud of smoke from the exhaust. Everyone dives
-     for cover except Tuvok, who draws his phaser.
+<tr id="L38"><td><a href="#L38">38</a></td><td>TUVOK:  I suggest we increase the ventilation in the cargo bay before we are asphyxiated.</td></tr>
 
-  PARIS
-     Sorry.
+<tr id="L39"><td><a href="#L39">39</a></td><td>KIM:  What's that?</td></tr>
 
-  JANEWAY
-     Next time you might give us a little warning,
-     Mister Paris.
+<tr id="L40"><td><a href="#L40">40</a></td><td>PARIS:  That is an amplitude modulation receiving device. AM radio. Not sure we'll pick up much out here.</td></tr>
 
-  PARIS
-     Aye, Captain.
+<tr id="L41"><td><a href="#L41">41</a></td><td>ANNOTATION: Beep, beep, beep.</td></tr>
 
-  TUVOK
-     I suggest we increase the ventilation in the cargo
-     bay before we are asphyxiated.
+<tr id="L42"><td><a href="#L42">42</a></td><td>PARIS:  Whoa. What was that?</td></tr>
 
-  KIM
-     What's that?
+<tr id="L43"><td><a href="#L43">43</a></td><td>ANNOTATION: Di di di, dah dah dah, di di di.</td></tr>
 
-  PARIS
-     That is an amplitude modulation receiving device.
-     AM radio. Not sure we'll pick up much out here.
+<tr id="L44"><td><a href="#L44">44</a></td><td>TORRES:  What is that?</td></tr>
 
-  ANNOTATION
-     Beep, beep, beep.
+<tr id="L45"><td><a href="#L45">45</a></td><td>KIM:  It's too regular to be random interference.</td></tr>
 
-  PARIS
-     Whoa. What was that?
+<tr id="L46"><td><a href="#L46">46</a></td><td>TORRES:  I'm running the signal through the ship's database. It's an ancient Earth distress call known as an SOS.</td></tr>
 
-  ANNOTATION
-     Di di di, dah dah dah, di di di.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L47"><td><a href="#L47">47</a></td><td>KIM:  I've located the source of the SOS signal. It's coming from a planet in a star system bearing three one zero mark two one five.</td></tr>
 
-  TORRES
-     What is that?
+<tr id="L48"><td><a href="#L48">48</a></td><td>JANEWAY:  Mister Paris, lay in a course.</td></tr>
 
-  KIM
-     It's too regular to be random interference.
+<tr id="L49"><td><a href="#L49">49</a></td><td>PARIS:  Aye, Captain.</td></tr>
 
-  TORRES
-     I'm running the signal through the ship's
-     database. It's an ancient Earth distress call
-     known as an SOS.
+<tr id="L50"><td><a href="#L50">50</a></td><td>JANEWAY:  Why didn't we pick up this signal earlier?</td></tr>
 
+<tr id="L51"><td><a href="#L51">51</a></td><td>KIM:  This isn't one of the standard frequencies we monitor. Messages on this channel only travel at the speed of light. Too slow for interstellar communications.</td></tr>
 
-LOCATION--Bridge
+<tr id="L52"><td><a href="#L52">52</a></td><td>PARIS:  Course laid in, Captain.</td></tr>
 
-  KIM
-     I've located the source of the SOS signal. It's
-     coming from a planet in a star system bearing
-     three one zero mark two one five.
+<tr id="L53"><td><a href="#L53">53</a></td><td>JANEWAY:  Warp six. engage.</td></tr>
 
-  JANEWAY
-     Mister Paris, lay in a course.
+<tr id="L54"><td><a href="#L54">54</a></td><td>ANNOTATION: Later - </td></tr>
 
-  PARIS
-     Aye, Captain.
+<tr id="L55"><td><a href="#L55">55</a></td><td>CREWMAN [OC]:  I'll run a diagnostic check, sir.</td></tr>
 
-  JANEWAY
-     Why didn't we pick up this signal earlier?
+<tr id="L56"><td><a href="#L56">56</a></td><td>ANNOTATION: The crewman leaves Paris.</td></tr>
 
-  KIM
-     This isn't one of the standard frequencies we
-     monitor. Messages on this channel only travel at
-     the speed of light. Too slow for interstellar
-     communications.
+<tr id="L57"><td><a href="#L57">57</a></td><td>JANEWAY:  Bring us out of warp. Full scan, Mister Kim.</td></tr>
 
-  PARIS
-     Course laid in, Captain.
+<tr id="L58"><td><a href="#L58">58</a></td><td>KIM:  The SOS signal is coming from the third planet. It's class L, oxygen argon atmosphere.</td></tr>
 
-  JANEWAY
-     Warp six. engage.
+<tr id="L59"><td><a href="#L59">59</a></td><td>JANEWAY:  Any life signs?</td></tr>
 
-  ANNOTATION
-     Later -
+<tr id="L60"><td><a href="#L60">60</a></td><td>KIM:  There's a great deal of trinimbic interference in the upper atmosphere. I can't get a clear reading of the surface.</td></tr>
 
-  CREWMAN [OC]
-     I'll run a diagnostic check, sir.
+<tr id="L61"><td><a href="#L61">61</a></td><td>CHAKOTAY:  Can you pin point the coordinates of the distress call?</td></tr>
 
-  ANNOTATION
-     The crewman leaves Paris.
+<tr id="L62"><td><a href="#L62">62</a></td><td>KIM:  Yes, here it is. It's coming from a continent in the northern hemisphere.</td></tr>
 
-  JANEWAY
-     Bring us out of warp. Full scan, Mister Kim.
+<tr id="L63"><td><a href="#L63">63</a></td><td>CHAKOTAY:  We won't be able to transport through this kind of interference. I might be able to take an away team in a shuttlecraft.</td></tr>
 
-  KIM
-     The SOS signal is coming from the third planet.
-     It's class L, oxygen argon atmosphere.
+<tr id="L64"><td><a href="#L64">64</a></td><td>TUVOK:  That would not be wise, Commander, as the atmosphere is charged with trinimbic turbulence. A shuttlecraft could not safely navigate the currents.</td></tr>
 
-  JANEWAY
-     Any life signs?
+<tr id="L65"><td><a href="#L65">65</a></td><td>JANEWAY:  We could land the ship.</td></tr>
 
-  KIM
-     There's a great deal of trinimbic interference in
-     the upper atmosphere. I can't get a clear reading
-     of the surface.
+<tr id="L66"><td><a href="#L66">66</a></td><td>CHAKOTAY:  Are you sure that's necessary?</td></tr>
 
-  CHAKOTAY
-     Can you pin point the coordinates of the distress
-     call?
+<tr id="L67"><td><a href="#L67">67</a></td><td>JANEWAY:  Someone on this planet is sending out a distress call.</td></tr>
 
-  KIM
-     Yes, here it is. It's coming from a continent in
-     the northern hemisphere.
+<tr id="L68"><td><a href="#L68">68</a></td><td>CHAKOTAY:  If that someone is as old as the truck in the cargo bay, they're long dead by now. This might be an automated distress call.</td></tr>
 
-  CHAKOTAY
-     We won't be able to transport through this kind of
-     interference. I might be able to take an away team
-     in a shuttlecraft.
+<tr id="L69"><td><a href="#L69">69</a></td><td>JANEWAY:  Possibly. But something brought that truck half way across the galaxy, and that something might be down on that planet.</td></tr>
 
-  TUVOK
-     That would not be wise, Commander, as the
-     atmosphere is charged with trinimbic turbulence. A
-     shuttlecraft could not safely navigate the
-     currents.
+<tr id="L70"><td><a href="#L70">70</a></td><td>CHAKOTAY:  And if it brought the truck here, it might be able to take us home too.</td></tr>
 
-  JANEWAY
-     We could land the ship.
+<tr id="L71"><td><a href="#L71">71</a></td><td>JANEWAY:  I'd say it's worth a look. Mister Paris, prepare the ship for landing.</td></tr>
 
-  CHAKOTAY
-     Are you sure that's necessary?
+<tr id="L72"><td><a href="#L72">72</a></td><td>PARIS:  Captain, I think I should tell you I've never actually landed a starship before.</td></tr>
 
-  JANEWAY
-     Someone on this planet is sending out a distress
-     call.
+<tr id="L73"><td><a href="#L73">73</a></td><td>JANEWAY:  That's all right, Lieutenant, neither have I. Bridge to Engineering. We're going to land the ship, Miss Torres. Take the warp core offline, vent all plasma from the nacelles and standby to engage atmospheric thrusters.</td></tr>
 
-  CHAKOTAY
-     If that someone is as old as the truck in the
-     cargo bay, they're long dead by now. This might be
-     an automated distress call.
+<tr id="L74"><td><a href="#L74">74</a></td><td>SOMEONE: TORRES [OC] Aye, Captain.</td></tr>
 
-  JANEWAY
-     Possibly. But something brought that truck half
-     way across the galaxy, and that something might be
-     down on that planet.
+<tr id="L75"><td><a href="#L75">75</a></td><td>TUVOK:  This is Lieutenant Tuvok to all decks. We are preparing to land the ship. Go to blue alert and report to code blue stations.</td></tr>
 
-  CHAKOTAY
-     And if it brought the truck here, it might be able
-     to take us home too.
+<tr id="L76"><td><a href="#L76">76</a></td><td>PARIS:  I've plotted a descent course. How close do you want to land to the distress coordinates?</td></tr>
 
-  JANEWAY
-     I'd say it's worth a look. Mister Paris, prepare
-     the ship for landing.
+<tr id="L77"><td><a href="#L77">77</a></td><td>JANEWAY:  No closer than two kilometres.</td></tr>
 
-  PARIS
-     Captain, I think I should tell you I've never
-     actually landed a starship before.
+<tr id="L78"><td><a href="#L78">78</a></td><td>PARIS:  Okay. Atmospheric controls at standby. Landing mechanisms online. Inertial dampers at maximum.</td></tr>
 
-  JANEWAY
-     That's all right, Lieutenant, neither have I.
-     Bridge to Engineering. We're going to land the
-     ship, Miss Torres. Take the warp core offline,
-     vent all plasma from the nacelles and standby to
-     engage atmospheric thrusters.
+<tr id="L79"><td><a href="#L79">79</a></td><td>TUVOK:  All decks report condition blue, Captain.</td></tr>
 
-  SOMEONE
-     TORRES [OC] Aye, Captain.
+<tr id="L80"><td><a href="#L80">80</a></td><td>JANEWAY:  Put her down, Mister Paris.</td></tr>
 
-  TUVOK
-     This is Lieutenant Tuvok to all decks. We are
-     preparing to land the ship. Go to blue alert and
-     report to code blue stations.
+<tr id="L81"><td><a href="#L81">81</a></td><td>ANNOTATION: Voyager descends into the atmosphere.</td></tr>
 
-  PARIS
-     I've plotted a descent course. How close do you
-     want to land to the distress coordinates?
+<tr id="L82"><td><a href="#L82">82</a></td><td>JANEWAY:  Status.</td></tr>
 
-  JANEWAY
-     No closer than two kilometres.
+<tr id="L83"><td><a href="#L83">83</a></td><td>PARIS:  We're on the glide trajectory. Altitude one hundred kilometres, speed ten thousand kph. Encountering some trinimbic turbulence. Compensating.</td></tr>
 
-  PARIS
-     Okay. Atmospheric controls at standby. Landing
-     mechanisms online. Inertial dampers at maximum.
+<tr id="L84"><td><a href="#L84">84</a></td><td>ANNOTATION: A big judder and a console explodes.</td></tr>
 
-  TUVOK
-     All decks report condition blue, Captain.
+<tr id="L85"><td><a href="#L85">85</a></td><td>KIM:  We have an EM discharge in the lateral relays. I'm rerouting the ODN conduit.</td></tr>
 
-  JANEWAY
-     Put her down, Mister Paris.
+<tr id="L86"><td><a href="#L86">86</a></td><td>PARIS:  Come on.</td></tr>
 
-  ANNOTATION
-     Voyager descends into the atmosphere.
+<tr id="L87"><td><a href="#L87">87</a></td><td>KIM:  Another EM discharge. I think we're all right. though.</td></tr>
 
-  JANEWAY
-     Status.
+<tr id="L88"><td><a href="#L88">88</a></td><td>PARIS:  Twenty kilometres to the landing site. We should be able to see it now.</td></tr>
 
-  PARIS
-     We're on the glide trajectory. Altitude one
-     hundred kilometres, speed ten thousand kph.
-     Encountering some trinimbic turbulence.
-     Compensating.
+<tr id="L89"><td><a href="#L89">89</a></td><td>JANEWAY:  Extend landing struts. Prepare to release inertial dampers and adjust them to match the planet's gravity.</td></tr>
 
-  ANNOTATION
-     A big judder and a console explodes.
+<tr id="L90"><td><a href="#L90">90</a></td><td>PARIS:  Landing struts down and locked.</td></tr>
 
-  KIM
-     We have an EM discharge in the lateral relays. I'm
-     rerouting the ODN conduit.
+<tr id="L91"><td><a href="#L91">91</a></td><td>KIM:  Standing by environmental controls.</td></tr>
 
-  PARIS
-     Come on.
+<tr id="L92"><td><a href="#L92">92</a></td><td>PARIS:  Here we go.</td></tr>
 
-  KIM
-     Another EM discharge. I think we're all right.
-     though.
+<tr id="L93"><td><a href="#L93">93</a></td><td>ANNOTATION: Voyager touches down gently.</td></tr>
 
-  PARIS
-     Twenty kilometres to the landing site. We should
-     be able to see it now.
+<tr id="L94"><td><a href="#L94">94</a></td><td>PARIS:  Disengaging engines, securing thrusters exhaust. We're down.</td></tr>
 
-  JANEWAY
-     Extend landing struts. Prepare to release inertial
-     dampers and adjust them to match the planet's
-     gravity.
+<tr id="L95"><td><a href="#L95">95</a></td><td>JANEWAY:  Not bad, for a beginner.</td></tr>
 
-  PARIS
-     Landing struts down and locked.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L96"><td><a href="#L96">96</a></td><td>JANEWAY:  Nice day.</td></tr>
 
-  KIM
-     Standing by environmental controls.
+<tr id="L97"><td><a href="#L97">97</a></td><td>KIM:  I've locked onto the distress signal. It's one point five kilometres on a bearing of two four six.</td></tr>
 
-  PARIS
-     Here we go.
+<tr id="L98"><td><a href="#L98">98</a></td><td>CHAKOTAY:  Wait a second, I've got something else. There's a high concentration of trianium particles bearing two two five, a little over a kilometre away. Looks like some kind of power source.</td></tr>
 
-  ANNOTATION
-     Voyager touches down gently.
+<tr id="L99"><td><a href="#L99">99</a></td><td>JANEWAY:  Two teams. Chakotay, yours investigates the power source. Tuvok, Kim, you're with me.</td></tr>
 
-  PARIS
-     Disengaging engines, securing thrusters exhaust.
-     We're down.
+<tr><td></td><td>LOCATION--Outside the aircraft</td></tr>
+<tr id="L100"><td><a href="#L100">100</a></td><td>JANEWAY:  My god.</td></tr>
 
-  JANEWAY
-     Not bad, for a beginner.
+<tr id="L101"><td><a href="#L101">101</a></td><td>ANNOTATION: Janeway's group go down the slope to the apparently intact twin engined Lockheed Electra monoplane, and scan it.</td></tr>
 
+<tr id="L102"><td><a href="#L102">102</a></td><td>TUVOK:  The metal is an aluminium alloy. It appears to be an ancient Earth aircraft.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L103"><td><a href="#L103">103</a></td><td>KIM:  The SOS call is coming from inside.</td></tr>
 
-  JANEWAY
-     Nice day.
+<tr><td></td><td>LOCATION--Inside the aircraft</td></tr>
+<tr id="L104"><td><a href="#L104">104</a></td><td>KIM:  I've found the AM transmitter. From what I can tell, it's sending out an automated SOS.</td></tr>
 
-  KIM
-     I've locked onto the distress signal. It's one
-     point five kilometres on a bearing of two four
-     six.
+<tr id="L105"><td><a href="#L105">105</a></td><td>JANEWAY:  What about the power source? Somehow I find it hard to believe the battery on this aircraft has been running for four hundred years.</td></tr>
 
-  CHAKOTAY
-     Wait a second, I've got something else. There's a
-     high concentration of trianium particles bearing
-     two two five, a little over a kilometre away.
-     Looks like some kind of power source.
+<tr id="L106"><td><a href="#L106">106</a></td><td>KIM:  I don't recognise the power signature. Hold on, Captain, I've found what appears to be an alien fusion based generator. It's hooked up to the AM transmitter.</td></tr>
 
-  JANEWAY
-     Two teams. Chakotay, yours investigates the power
-     source. Tuvok, Kim, you're with me.
+<tr id="L107"><td><a href="#L107">107</a></td><td>CHAKOTAY {OC]:  Chakotay to Janeway.</td></tr>
 
+<tr><td></td><td>LOCATION--Outside the aircraft</td></tr>
+<tr id="L108"><td><a href="#L108">108</a></td><td>JANEWAY:  Go ahead, Commander.</td></tr>
 
-LOCATION--Outside the aircraft
+<tr id="L109"><td><a href="#L109">109</a></td><td>CHAKOTAY [OC]:  We've located the source</td></tr>
 
-  JANEWAY
-     My god.
+<tr><td></td><td>LOCATION--Outside the cave entrance</td></tr>
+<tr id="L110"><td><a href="#L110">110</a></td><td>CHAKOTAY:  Of the trianium readings. It appears to be some sort of mine shaft. I'd like to bring out another security detachment before we go inside.</td></tr>
 
-  ANNOTATION
-     Janeway's group go down the slope to the
-     apparently intact twin engined Lockheed Electra
-     monoplane, and scan it.
+<tr id="L111"><td><a href="#L111">111</a></td><td>JANEWAY [OC]:  Good idea.</td></tr>
 
-  TUVOK
-     The metal is an aluminium alloy. It appears to be
-     an ancient Earth aircraft.
+<tr><td></td><td>LOCATION--Outside the aircraft</td></tr>
+<tr id="L112"><td><a href="#L112">112</a></td><td>JANEWAY:  Good idea. I'll join you. Janeway out. (to Tuvok) I want the two of you to analyse the alien generator. Then see what you can find out about this SOS call.</td></tr>
 
-  KIM
-     The SOS call is coming from inside.
+<tr id="L113"><td><a href="#L113">113</a></td><td>ANNOTATION: They are watched by a figure all clothed in black.</td></tr>
 
+<tr><td></td><td>LOCATION--Tunnels</td></tr>
+<tr id="L114"><td><a href="#L114">114</a></td><td>TORRES:  I'm picking up something directly ahead. Some kind of power signature, fusion based.</td></tr>
 
-LOCATION--Inside the aircraft
+<tr id="L115"><td><a href="#L115">115</a></td><td>ANNOTATION: Janeway leads the team and extra security into -</td></tr>
 
-  KIM
-     I've found the AM transmitter. From what I can
-     tell, it's sending out an automated SOS.
+<tr><td></td><td>LOCATION--Cryochamber</td></tr>
+<tr id="L116"><td><a href="#L116">116</a></td><td>ANNOTATION: A high-tech area with walls lined with eight vertical cubicles. The doors are transparent and the insides are lit.</td></tr>
 
-  JANEWAY
-     What about the power source? Somehow I find it
-     hard to believe the battery on this aircraft has
-     been running for four hundred years.
+<tr id="L117"><td><a href="#L117">117</a></td><td>TORRES:  This looks like some kind of cryostasis chamber.</td></tr>
 
-  KIM
-     I don't recognise the power signature. Hold on,
-     Captain, I've found what appears to be an alien
-     fusion based generator. It's hooked up to the AM
-     transmitter.
+<tr id="L118"><td><a href="#L118">118</a></td><td>JANEWAY:  How many bodies are there?</td></tr>
 
-  CHAKOTAY {OC]
-     Chakotay to Janeway.
+<tr id="L119"><td><a href="#L119">119</a></td><td>TORRES:  Eight. And the equipment is still functioning.</td></tr>
 
+<tr id="L120"><td><a href="#L120">120</a></td><td>ANNOTATION: Janeway wipes the dust from the first cubicle.</td></tr>
 
-LOCATION--Outside the aircraft
+<tr id="L121"><td><a href="#L121">121</a></td><td>JANEWAY:  He's human. And from the clothes I'd say he's from the same era as the vehicle we found.</td></tr>
 
-  JANEWAY
-     Go ahead, Commander.
+<tr id="L122"><td><a href="#L122">122</a></td><td>ANNOTATION: He is oriental. His cap has a single golden star on it.</td></tr>
 
-  CHAKOTAY [OC]
-     We've located the source
+<tr id="L123"><td><a href="#L123">123</a></td><td>TORRES:  His life sign readings are minimal, but he's alive.</td></tr>
 
+<tr id="L124"><td><a href="#L124">124</a></td><td>CHAKOTAY:  Captain, according to these readings there are five other cryostasis chambers nearby. No life signs in any of them. This appears to be the only one with people inside.</td></tr>
 
-LOCATION--Outside the cave entrance
+<tr id="L125"><td><a href="#L125">125</a></td><td>TORRES:  There's another male over here.</td></tr>
 
-  CHAKOTAY
-     Of the trianium readings. It appears to be some
-     sort of mine shaft. I'd like to bring out another
-     security detachment before we go inside.
+<tr id="L126"><td><a href="#L126">126</a></td><td>JANEWAY:  This one's a female. She's wearing some sort of leather jacket and a pair of gold wings. Wait, there's a name tag here. I think it's A period E A R H A R T. Earhart. A Earhart. Amelia Earhart!</td></tr>
 
-  JANEWAY [OC]
-     Good idea.
+<tr><td></td><td>LOCATION--Briefing room</td></tr>
+<tr id="L127"><td><a href="#L127">127</a></td><td>KIM:  Who's Amelia Earhart?</td></tr>
 
+<tr id="L128"><td><a href="#L128">128</a></td><td>JANEWAY:  She was one of the first female pilots in Earth History. In the mid twentieth century she became quite famous for flying across the Atlantic Ocean. In 1937 she attempted to fly around the world. According to the records of the time, on July 2nd 1937 Earhart and her navigator, Fred Noonan, took off from New Guinea and they were headed east, around the Equator. But somewhere in the South Seas they vanished and their disappearance became one of the most celebrated mysteries of the twentieth century.</td></tr>
 
-LOCATION--Outside the aircraft
+<tr id="L129"><td><a href="#L129">129</a></td><td>PARIS:  Why didn't they think she'd just crashed?</td></tr>
 
-  JANEWAY
-     Good idea. I'll join you. Janeway out. (to Tuvok)
-     I want the two of you to analyse the alien
-     generator. Then see what you can find out about
-     this SOS call.
+<tr id="L130"><td><a href="#L130">130</a></td><td>JANEWAY:  That was the most commonly held theory. However, numerous searches of the area failed to produce the wreckage of an aircraft, so people began to speculate. Some thought she'd been shot down and captured by the Japanese Navy. Others thought that she and Noonan had flown off together on some sort of romantic adventure. Of course, the most ridiculed notion was that she had been abducted by aliens.</td></tr>
 
-  ANNOTATION
-     They are watched by a figure all clothed in black.
+<tr id="L131"><td><a href="#L131">131</a></td><td>CHAKOTAY:  Well, it certainly looks like that's what happened. From what we can tell, all eight of the people in that stasis chamber were taken from Earth in the 1930's and brought here.</td></tr>
 
+<tr id="L132"><td><a href="#L132">132</a></td><td>KIM:  The question is, why? And where are the aliens who did this?</td></tr>
 
-LOCATION--Tunnels
+<tr id="L133"><td><a href="#L133">133</a></td><td>TUVOK:  Scans of the region show no alien life signs.</td></tr>
 
-  TORRES
-     I'm picking up something directly ahead. Some kind
-     of power signature, fusion based.
+<tr id="L134"><td><a href="#L134">134</a></td><td>JANEWAY:  Continue the scans. They may not be here now, but once they detect our presence, they might return. In the meantime, we'll have to get some answers on our own. Have you had any luck tapping into the computer system in the cryochamber?</td></tr>
 
-  ANNOTATION
-     Janeway leads the team and extra security into -
+<tr id="L135"><td><a href="#L135">135</a></td><td>TUVOK:  Not as of yet. We are having difficulty decoding the operating system.</td></tr>
 
+<tr id="L136"><td><a href="#L136">136</a></td><td>PARIS:  There's one way we could find out what happened. We could wake those people up and ask them.</td></tr>
 
-LOCATION--Cryochamber
+<tr id="L137"><td><a href="#L137">137</a></td><td>JANEWAY:  I've had the same thought myself.</td></tr>
 
-  ANNOTATION
-     A high-tech area with walls lined with eight
-     vertical cubicles. The doors are transparent and
-     the insides are lit.
+<tr id="L138"><td><a href="#L138">138</a></td><td>TORRES:  Is that wise? We don't know how these people are going to react when they wake up in an alien world in the twenty fourth century.</td></tr>
 
-  TORRES
-     This looks like some kind of cryostasis chamber.
+<tr id="L139"><td><a href="#L139">139</a></td><td>JANEWAY:  True, but I'm not willing to just leave them in stasis for another four hundred years. And if we can find out how they were brought here, we might be able to use that method to get home. We'll just have to be very careful how we handle this.</td></tr>
 
-  JANEWAY
-     How many bodies are there?
+<tr id="L140"><td><a href="#L140">140</a></td><td>CHAKOTAY:  I suggest that only human crew members be present when we revive them.</td></tr>
 
-  TORRES
-     Eight. And the equipment is still functioning.
+<tr id="L141"><td><a href="#L141">141</a></td><td>JANEWAY:  Agreed. Mister Kim, I want a complete analysis of those cryostasis tubes. Find a way to deactivate them safely.</td></tr>
 
-  ANNOTATION
-     Janeway wipes the dust from the first cubicle.
+<tr id="L142"><td><a href="#L142">142</a></td><td>KIM:  Aye, Captain.</td></tr>
 
-  JANEWAY
-     He's human. And from the clothes I'd say he's from
-     the same era as the vehicle we found.
+<tr id="L143"><td><a href="#L143">143</a></td><td>JANEWAY:  Commander, apprise the Doctor of our situation. Tell him to instruct Kes in the proper procedure for reviving someone from cryostasis. She can be made to look human easily enough. In the meantime I suggest we all brush up on ancient Earth. We're about to meet a bit of our history.</td></tr>
 
-  ANNOTATION
-     He is oriental. His cap has a single golden star
-     on it.
+<tr><td></td><td>LOCATION--Cryochamber</td></tr>
+<tr id="L144"><td><a href="#L144">144</a></td><td>PARIS:  We're ready, Captain.</td></tr>
 
-  TORRES
-     His life sign readings are minimal, but he's
-     alive.
+<tr id="L145"><td><a href="#L145">145</a></td><td>KIM:  All the cryo-tubes are linked by a common power source, so we've decided to revive everyone simultaneously.</td></tr>
 
-  CHAKOTAY
-     Captain, according to these readings there are
-     five other cryostasis chambers nearby. No life
-     signs in any of them. This appears to be the only
-     one with people inside.
+<tr id="L146"><td><a href="#L146">146</a></td><td>JANEWAY:  Proceed.</td></tr>
 
-  TORRES
-     There's another male over here.
+<tr id="L147"><td><a href="#L147">147</a></td><td>KIM:  The power's offline. Deactivate locking mechanisms.</td></tr>
 
-  JANEWAY
-     This one's a female. She's wearing some sort of
-     leather jacket and a pair of gold wings. Wait,
-     there's a name tag here. I think it's A period E A
-     R H A R T. Earhart. A Earhart. Amelia Earhart!
+<tr id="L148"><td><a href="#L148">148</a></td><td>ANNOTATION: The doors on the cubicles slide upwards, and dry ice pours out. Kes hands hypos to Paris and Kim.</td></tr>
 
+<tr id="L149"><td><a href="#L149">149</a></td><td>PARIS:  Captain, this one's armed with some kind of weapon.</td></tr>
 
-LOCATION--Briefing room
+<tr id="L150"><td><a href="#L150">150</a></td><td>JANEWAY:  Disarm him, just to be on the safe side.</td></tr>
 
-  KIM
-     Who's Amelia Earhart?
+<tr id="L151"><td><a href="#L151">151</a></td><td>ANNOTATION: Paris takes the Japanese soldier's gun then give him the hypo, while Kim revives Amelia. Kes does Noonan and the negro farmer. They start to wake. Janeway walks up to Amelia and smiles. Shortly afterwards, everyone is awake and Kes is scanning them.</td></tr>
 
-  JANEWAY
-     She was one of the first female pilots in Earth
-     History. In the mid twentieth century she became
-     quite famous for flying across the Atlantic Ocean.
-     In 1937 she attempted to fly around the world.
-     According to the records of the time, on July 2nd
-     1937 Earhart and her navigator, Fred Noonan, took
-     off from New Guinea and they were headed east,
-     around the Equator. But somewhere in the South
-     Seas they vanished and their disappearance became
-     one of the most celebrated mysteries of the
-     twentieth century.
+<tr id="L152"><td><a href="#L152">152</a></td><td>JANEWAY:  I know this must be very strange for you.</td></tr>
 
-  PARIS
-     Why didn't they think she'd just crashed?
+<tr id="L153"><td><a href="#L153">153</a></td><td>NOONAN:  Who are you? What is going on here?</td></tr>
 
-  JANEWAY
-     That was the most commonly held theory. However,
-     numerous searches of the area failed to produce
-     the wreckage of an aircraft, so people began to
-     speculate. Some thought she'd been shot down and
-     captured by the Japanese Navy. Others thought that
-     she and Noonan had flown off together on some sort
-     of romantic adventure. Of course, the most
-     ridiculed notion was that she had been abducted by
-     aliens.
+<tr id="L154"><td><a href="#L154">154</a></td><td>NOGAMI:  I demand you release me immediately.</td></tr>
 
-  CHAKOTAY
-     Well, it certainly looks like that's what
-     happened. From what we can tell, all eight of the
-     people in that stasis chamber were taken from
-     Earth in the 1930's and brought here.
+<tr id="L155"><td><a href="#L155">155</a></td><td>JANEWAY:  Please, if you'll just listen for a moment, I'll try to explain.</td></tr>
 
-  KIM
-     The question is, why? And where are the aliens who
-     did this?
+<tr id="L156"><td><a href="#L156">156</a></td><td>NOGAMI:  You are all speaking Japanese.</td></tr>
 
-  TUVOK
-     Scans of the region show no alien life signs.
+<tr id="L157"><td><a href="#L157">157</a></td><td>HAYES:  (the farmer) Sounds to me like you are speaking English.</td></tr>
 
-  JANEWAY
-     Continue the scans. They may not be here now, but
-     once they detect our presence, they might return.
-     In the meantime, we'll have to get some answers on
-     our own. Have you had any luck tapping into the
-     computer system in the cryochamber?
+<tr id="L158"><td><a href="#L158">158</a></td><td>JANEWAY:  It's because of a device we have. A universal translator. It allows us to talk to each other even though our languages aren't the same.</td></tr>
 
-  TUVOK
-     Not as of yet. We are having difficulty decoding
-     the operating system.
+<tr id="L159"><td><a href="#L159">159</a></td><td>AMELIA:  Who are you people?</td></tr>
 
-  PARIS
-     There's one way we could find out what happened.
-     We could wake those people up and ask them.
+<tr id="L160"><td><a href="#L160">160</a></td><td>HAYES:  Look, just let us go home. We won't tell anybody.</td></tr>
 
-  JANEWAY
-     I've had the same thought myself.
+<tr id="L161"><td><a href="#L161">161</a></td><td>NOONAN:  The hell we won't! I'm going to let the world know what you people have done. Do you know who you've kidnapped here? Amelia Earhart. I'm her navigator. This is going to be headline news. You people are in trouble.</td></tr>
 
-  TORRES
-     Is that wise? We don't know how these people are
-     going to react when they wake up in an alien world
-     in the twenty fourth century.
+<tr id="L162"><td><a href="#L162">162</a></td><td>AMELIA:  Fred, let her talk.</td></tr>
 
-  JANEWAY
-     True, but I'm not willing to just leave them in
-     stasis for another four hundred years. And if we
-     can find out how they were brought here, we might
-     be able to use that method to get home. We'll just
-     have to be very careful how we handle this.
+<tr id="L163"><td><a href="#L163">163</a></td><td>JANEWAY:  What I'm going to tell you is going to sound hard to believe. Even preposterous. We think you were abducted from Earth in the 1930's and brought millions of miles through space to a planet on the other side of the galaxy. You were put into a kind of deep sleep for a very long time. It's not the 1930's any more. The year is 2371, over four hundred years from the time you were abducted.</td></tr>
 
-  CHAKOTAY
-     I suggest that only human crew members be present
-     when we revive them.
+<tr id="L164"><td><a href="#L164">164</a></td><td>AMELIA:  You must think we are awfully gullible.</td></tr>
 
-  JANEWAY
-     Agreed. Mister Kim, I want a complete analysis of
-     those cryostasis tubes. Find a way to deactivate
-     them safely.
+<tr id="L165"><td><a href="#L165">165</a></td><td>JANEWAY:  Tell me, what's the last thing you remember before waking up here?</td></tr>
 
-  KIM
-     Aye, Captain.
+<tr id="L166"><td><a href="#L166">166</a></td><td>AMELIA:  We were over the Pacific, running low on gas. We were looking for an atoll to set down. We tried to send out an SOS and suddenly there was this huge light in back of us. And the plane stopped, dead. And then it started moving backward towards the light. I must have blacked out. And I woke up here, just now.</td></tr>
 
-  JANEWAY
-     Commander, apprise the Doctor of our situation.
-     Tell him to instruct Kes in the proper procedure
-     for reviving someone from cryostasis. She can be
-     made to look human easily enough. In the meantime
-     I suggest we all brush up on ancient Earth. We're
-     about to meet a bit of our history.
+<tr id="L167"><td><a href="#L167">167</a></td><td>HAYES:  That's just the way it was with me! I was in my truck heading into town. I was just about to get onto the blacktop, when this big light come down from the sky. Just about blinded me. Next thing I know the whole truck is lifted up off the ground.</td></tr>
 
+<tr id="L168"><td><a href="#L168">168</a></td><td>JANEWAY:  I believe what happened was that you were abducted by aliens, and if we can find out how they got you here, we might all be able to get back to Earth.</td></tr>
 
-LOCATION--Cryochamber
+<tr id="L169"><td><a href="#L169">169</a></td><td>ANNOTATION: Noonan takes out a revolver he had under his jacket.</td></tr>
 
-  PARIS
-     We're ready, Captain.
+<tr id="L170"><td><a href="#L170">170</a></td><td>NOONAN:  I want some real answers, now.</td></tr>
 
-  KIM
-     All the cryo-tubes are linked by a common power
-     source, so we've decided to revive everyone
-     simultaneously.
+<tr id="L171"><td><a href="#L171">171</a></td><td>JANEWAY:  I assure you, I am telling the truth.</td></tr>
 
-  JANEWAY
-     Proceed.
+<tr id="L172"><td><a href="#L172">172</a></td><td>NOONAN:  You! Come on down here and get those funny looking guns of theirs.</td></tr>
 
-  KIM
-     The power's offline. Deactivate locking
-     mechanisms.
+<tr id="L173"><td><a href="#L173">173</a></td><td>ANNOTATION: Hayes obeys.</td></tr>
 
-  ANNOTATION
-     The doors on the cubicles slide upwards, and dry
-     ice pours out. Kes hands hypos to Paris and Kim.
+<tr id="L174"><td><a href="#L174">174</a></td><td>NOONAN:  (to Kes) You, get over there with the others.</td></tr>
 
-  PARIS
-     Captain, this one's armed with some kind of
-     weapon.
+<tr id="L175"><td><a href="#L175">175</a></td><td>ANNOTATION: Amelia takes the tricorder from Kes.</td></tr>
 
-  JANEWAY
-     Disarm him, just to be on the safe side.
+<tr id="L176"><td><a href="#L176">176</a></td><td>AMELIA:  What is this?</td></tr>
 
-  ANNOTATION
-     Paris takes the Japanese soldier's gun then give
-     him the hypo, while Kim revives Amelia. Kes does
-     Noonan and the negro farmer. They start to wake.
-     Janeway walks up to Amelia and smiles. Shortly
-     afterwards, everyone is awake and Kes is scanning
-     them.
+<tr id="L177"><td><a href="#L177">177</a></td><td>KES:  It's a medical device. I'm just trying to make sure that everyone is all right.</td></tr>
 
-  JANEWAY
-     I know this must be very strange for you.
+<tr id="L178"><td><a href="#L178">178</a></td><td>NOONAN:  Now, how do we get out of here?</td></tr>
 
-  NOONAN
-     Who are you? What is going on here?
+<tr id="L179"><td><a href="#L179">179</a></td><td>ANNOTATION: Amelia opens the tricorder, starting it beeping.</td></tr>
 
-  NOGAMI
-     I demand you release me immediately.
+<tr id="L180"><td><a href="#L180">180</a></td><td>CHAKOTAY [OC]:  Chakotay to away team.</td></tr>
 
-  JANEWAY
-     Please, if you'll just listen for a moment, I'll
-     try to explain.
+<tr id="L181"><td><a href="#L181">181</a></td><td>JANEWAY:  Janeway here.</td></tr>
 
-  NOGAMI
-     You are all speaking Japanese.
+<tr id="L182"><td><a href="#L182">182</a></td><td>CHAKOTAY [OC]:  Captain, I'm picking up some energy displacements</td></tr>
 
-  HAYES
-     (the farmer) Sounds to me like you are speaking
-     English.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L183"><td><a href="#L183">183</a></td><td>CHAKOTAY:  On the surface. I think it might be alien humanoids. It looks like they're using some kind of deflection system to trick our sensors.</td></tr>
 
-  JANEWAY
-     It's because of a device we have. A universal
-     translator. It allows us to talk to each other
-     even though our languages aren't the same.
+<tr><td></td><td>LOCATION--Cryochamber</td></tr>
+<tr id="L184"><td><a href="#L184">184</a></td><td>CHAKOTAY [OC]:  I think you'd better get up here.</td></tr>
 
-  AMELIA
-     Who are you people?
+<tr id="L185"><td><a href="#L185">185</a></td><td>NOONAN:  Who's that talking?</td></tr>
 
-  HAYES
-     Look, just let us go home. We won't tell anybody.
+<tr id="L186"><td><a href="#L186">186</a></td><td>JANEWAY:  That's Commander Chakotay, on our ship.</td></tr>
 
-  NOONAN
-     The hell we won't! I'm going to let the world know
-     what you people have done. Do you know who you've
-     kidnapped here? Amelia Earhart. I'm her navigator.
-     This is going to be headline news. You people are
-     in trouble.
+<tr id="L187"><td><a href="#L187">187</a></td><td>NOONAN:  Commander, huh? Okay, now hear this, Commander.</td></tr>
 
-  AMELIA
-     Fred, let her talk.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L188"><td><a href="#L188">188</a></td><td>NOONAN [OC]:  There's a gun pointed at the lady's head right now, so you call Washington</td></tr>
 
-  JANEWAY
-     What I'm going to tell you is going to sound hard
-     to believe. Even preposterous. We think you were
-     abducted from Earth in the 1930's and brought
-     millions of miles through space to a planet on the
-     other side of the galaxy. You were put into a kind
-     of deep sleep for a very long time. It's not the
-     1930's any more. The year is 2371, over four
-     hundred years from the time you were abducted.
+<tr><td></td><td>LOCATION--Cryochamber</td></tr>
+<tr id="L189"><td><a href="#L189">189</a></td><td>NOONAN:  And you tell them we're holding your people prisoner, and they're not going anywhere until I personally talk to J Edgar Hoover. You've got one hour.</td></tr>
 
-  AMELIA
-     You must think we are awfully gullible.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L190"><td><a href="#L190">190</a></td><td>CHAKOTAY:  Captain?</td></tr>
 
-  JANEWAY
-     Tell me, what's the last thing you remember before
-     waking up here?
+<tr><td></td><td>LOCATION--Cryochamber</td></tr>
+<tr id="L191"><td><a href="#L191">191</a></td><td>JANEWAY:  It seems we're being held hostage, Commander. I suggest you pay attention to what the gentleman says.</td></tr>
 
-  AMELIA
-     We were over the Pacific, running low on gas. We
-     were looking for an atoll to set down. We tried to
-     send out an SOS and suddenly there was this huge
-     light in back of us. And the plane stopped, dead.
-     And then it started moving backward towards the
-     light. I must have blacked out. And I woke up
-     here, just now.
+<tr id="L192"><td><a href="#L192">192</a></td><td>CHAKOTAY [OC]:  I understand.</td></tr>
 
-  HAYES
-     That's just the way it was with me! I was in my
-     truck heading into town. I was just about to get
-     onto the blacktop, when this big light come down
-     from the sky. Just about blinded me. Next thing I
-     know the whole truck is lifted up off the ground.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L193"><td><a href="#L193">193</a></td><td>CHAKOTAY:  Chakotay out.</td></tr>
 
-  JANEWAY
-     I believe what happened was that you were abducted
-     by aliens, and if we can find out how they got you
-     here, we might all be able to get back to Earth.
+<tr id="L194"><td><a href="#L194">194</a></td><td>TUVOK:  All security personnel report to the cargo bay immediately.</td></tr>
 
-  ANNOTATION
-     Noonan takes out a revolver he had under his
-     jacket.
+<tr><td></td><td>LOCATION--Cryochamber</td></tr>
+<tr id="L195"><td><a href="#L195">195</a></td><td>AMELIA:  The compass isn't working.</td></tr>
 
-  NOONAN
-     I want some real answers, now.
+<tr id="L196"><td><a href="#L196">196</a></td><td>JANEWAY:  I know what we've told you sounds hard to believe, but there was a time when no one believed that a woman could fly across the Atlantic. Now, people are able to travel between the stars. The galaxy is full of many different species. For instance, this young woman isn't human, she's an Ocampa.</td></tr>
 
-  JANEWAY
-     I assure you, I am telling the truth.
+<tr id="L197"><td><a href="#L197">197</a></td><td>ANNOTATION: Janeway pushes back Kes's hair to reveal her pointed ears.</td></tr>
 
-  NOONAN
-     You! Come on down here and get those funny looking
-     guns of theirs.
+<tr id="L198"><td><a href="#L198">198</a></td><td>AMELIA:  I've been on expeditions all over the world, and I've seen people do all kinds of strange things to their bodies. That doesn't mean that Martians have invaded Earth.</td></tr>
 
-  ANNOTATION
-     Hayes obeys.
+<tr id="L199"><td><a href="#L199">199</a></td><td>KIM:  Actually it was the other way around. Mars was colonised by people from Earth in 2103.</td></tr>
 
-  NOONAN
-     (to Kes) You, get over there with the others.
+<tr id="L200"><td><a href="#L200">200</a></td><td>NOONAN:  That's enough! All of you just go over there and sit down and keep quiet.</td></tr>
 
-  ANNOTATION
-     Amelia takes the tricorder from Kes.
+<tr><td></td><td>LOCATION--Cargo bay</td></tr>
+<tr id="L201"><td><a href="#L201">201</a></td><td>ANNOTATION: Tuvok hands out phaser rifles from a weapons locker.</td></tr>
 
-  AMELIA
-     What is this?
+<tr id="L202"><td><a href="#L202">202</a></td><td>CHAKOTAY:  The trinimbic interference has affected the transporter's targeting scanners. We can't beam into the chamber so we'll have to go on foot.</td></tr>
 
-  KES
-     It's a medical device. I'm just trying to make
-     sure that everyone is all right.
+<tr id="L203"><td><a href="#L203">203</a></td><td>TUVOK:  We will deploy throughout the caves, sealing off any exit from the chamber.</td></tr>
 
-  NOONAN
-     Now, how do we get out of here?
+<tr id="L204"><td><a href="#L204">204</a></td><td>CHAKOTAY:  Let's go.</td></tr>
 
-  ANNOTATION
-     Amelia opens the tricorder, starting it beeping.
+<tr><td></td><td>LOCATION--Cryochamber</td></tr>
+<tr id="L205"><td><a href="#L205">205</a></td><td>ANNOTATION: Noonan takes a swig from a hip flask.</td></tr>
 
-  CHAKOTAY [OC]
-     Chakotay to away team.
+<tr id="L206"><td><a href="#L206">206</a></td><td>AMELIA:  Now is probably not the best time for that, Fred.</td></tr>
 
-  JANEWAY
-     Janeway here.
+<tr id="L207"><td><a href="#L207">207</a></td><td>NOONAN:  Just a little pick me up.</td></tr>
 
-  CHAKOTAY [OC]
-     Captain, I'm picking up some energy displacements
+<tr id="L208"><td><a href="#L208">208</a></td><td>PARIS:  He's had a few nips from that flask, Captain. We could probably rush him, get the gun.</td></tr>
 
+<tr id="L209"><td><a href="#L209">209</a></td><td>JANEWAY:  Let me try to talk to Earhart first. She seems reasonable. Maybe I can get through to her. Miss Earhart?</td></tr>
 
-LOCATION--Bridge
+<tr id="L210"><td><a href="#L210">210</a></td><td>ANNOTATION: Amelia walks over.</td></tr>
 
-  CHAKOTAY
-     On the surface. I think it might be alien
-     humanoids. It looks like they're using some kind
-     of deflection system to trick our sensors.
+<tr id="L211"><td><a href="#L211">211</a></td><td>JANEWAY:  I want you to know you've always been an inspiration to me. Because of you, generations of women have become pilots.</td></tr>
 
+<tr id="L212"><td><a href="#L212">212</a></td><td>AMELIA:  Generations. What's your name?</td></tr>
 
-LOCATION--Cryochamber
+<tr id="L213"><td><a href="#L213">213</a></td><td>JANEWAY:  Kathryn Janeway.</td></tr>
 
-  CHAKOTAY [OC]
-     I think you'd better get up here.
+<tr id="L214"><td><a href="#L214">214</a></td><td>AMELIA:  I heard the Commander call you Captain. What exactly do you captain?</td></tr>
 
-  NOONAN
-     Who's that talking?
+<tr id="L215"><td><a href="#L215">215</a></td><td>JANEWAY:  The Federation Starship Voyager.</td></tr>
 
-  JANEWAY
-     That's Commander Chakotay, on our ship.
+<tr id="L216"><td><a href="#L216">216</a></td><td>AMELIA:  Starship. That supposed to mean it flies through space?</td></tr>
 
-  NOONAN
-     Commander, huh? Okay, now hear this, Commander.
+<tr id="L217"><td><a href="#L217">217</a></td><td>JANEWAY:  That's right.</td></tr>
 
+<tr id="L218"><td><a href="#L218">218</a></td><td>AMELIA:  That isn't possible. Only in books. H G Wells, Jules Verne.</td></tr>
 
-LOCATION--Bridge
+<tr id="L219"><td><a href="#L219">219</a></td><td>JANEWAY:  Maybe if you saw it you'd think otherwise.</td></tr>
 
-  NOONAN [OC]
-     There's a gun pointed at the lady's head right
-     now, so you call Washington
+<tr id="L220"><td><a href="#L220">220</a></td><td>AMELIA:  Saw it? Where is it?</td></tr>
 
+<tr id="L221"><td><a href="#L221">221</a></td><td>JANEWAY:  On the surface. We're actually about a hundred metres underground now. If you'd come with me to see Voyager, you'd realise that what we're telling you is true.</td></tr>
 
-LOCATION--Cryochamber
+<tr id="L222"><td><a href="#L222">222</a></td><td>AMELIA:  And risk a trap? No, you could have hundreds of reinforcements up there.</td></tr>
 
-  NOONAN
-     And you tell them we're holding your people
-     prisoner, and they're not going anywhere until I
-     personally talk to J Edgar Hoover. You've got one
-     hour.
+<tr id="L223"><td><a href="#L223">223</a></td><td>JANEWAY:  I assure you, we have no interest in harming you. We took you out of stasis to help you.</td></tr>
 
+<tr id="L224"><td><a href="#L224">224</a></td><td>AMELIA:  Put yourself in my shoes, Captain. If you were me, would you believe your story?</td></tr>
 
-LOCATION--Bridge
+<tr id="L225"><td><a href="#L225">225</a></td><td>JANEWAY:  Maybe not. Let me tell you some of what happened after you disappeared over the Pacific. No trace of you or your plane was ever found, in spite of a massive search. Over the years there was a lot of speculation about your flight, including the rumour that it was financed by the Government and may have been part of an operation to gather information about the Japanese.</td></tr>
 
-  CHAKOTAY
-     Captain?
+<tr id="L226"><td><a href="#L226">226</a></td><td>AMELIA:  Where did you hear that?</td></tr>
 
+<tr id="L227"><td><a href="#L227">227</a></td><td>JANEWAY:  It's somewhat common knowledge. You see, Japan attacked Pearl Harbour in 1941, drawing the United States into a massive world war. In retrospect, your journey was seen in a different light, perhaps as part of an intelligence mission devised by a Government deeply concerned about Japanese war plans.</td></tr>
 
-LOCATION--Cryochamber
+<tr id="L228"><td><a href="#L228">228</a></td><td>AMELIA:  No one was supposed to know about that.</td></tr>
 
-  JANEWAY
-     It seems we're being held hostage, Commander. I
-     suggest you pay attention to what the gentleman
-     says.
+<tr id="L229"><td><a href="#L229">229</a></td><td>JANEWAY:  Maybe not in 1937, but now it's part of history.</td></tr>
 
-  CHAKOTAY [OC]
-     I understand.
+<tr id="L230"><td><a href="#L230">230</a></td><td>NOONAN:  Hey, I've got an idea. Why don't we stick them in these things? Put them to sleep like we were. No fuss, no trouble.</td></tr>
 
+<tr id="L231"><td><a href="#L231">231</a></td><td>JANEWAY:  Mister Noonan, that will accomplish nothing. Please, let us take you to our ship. You'll see that everything we've told you is true.</td></tr>
 
-LOCATION--Bridge
+<tr id="L232"><td><a href="#L232">232</a></td><td>NOONAN:  Show me how to operate this thing.</td></tr>
 
-  CHAKOTAY
-     Chakotay out.
+<tr id="L233"><td><a href="#L233">233</a></td><td>AMELIA:  Hey! Last time I looked, you were working for me. And I think we should listen to these people. They just may be telling the truth. What's the harm in seeing if maybe they do have this starship? Beats being cooped up in here trying to figure out what happened. How about it? Anyone want to come along?</td></tr>
 
-  TUVOK
-     All security personnel report to the cargo bay
-     immediately.
+<tr id="L234"><td><a href="#L234">234</a></td><td>HAYES:  I wouldn't mind taking a look.</td></tr>
 
+<tr id="L235"><td><a href="#L235">235</a></td><td>JANEWAY:  Anyone else?</td></tr>
 
-LOCATION--Cryochamber
+<tr id="L236"><td><a href="#L236">236</a></td><td>NOONAN:  You're not leaving me behind.</td></tr>
 
-  AMELIA
-     The compass isn't working.
+<tr id="L237"><td><a href="#L237">237</a></td><td>PARIS:  Kes and I'll stay with the others, Captain.</td></tr>
 
-  JANEWAY
-     I know what we've told you sounds hard to believe,
-     but there was a time when no one believed that a
-     woman could fly across the Atlantic. Now, people
-     are able to travel between the stars. The galaxy
-     is full of many different species. For instance,
-     this young woman isn't human, she's an Ocampa.
+<tr id="L238"><td><a href="#L238">238</a></td><td>JANEWAY:  It'll take about ten minutes to get to the surface. Stay close to us. Mister Kim.</td></tr>
 
-  ANNOTATION
-     Janeway pushes back Kes's hair to reveal her
-     pointed ears.
+<tr><td></td><td>LOCATION--Outside Voyager</td></tr>
+<tr id="L239"><td><a href="#L239">239</a></td><td>CHAKOTAY:  What is it?</td></tr>
 
-  AMELIA
-     I've been on expeditions all over the world, and
-     I've seen people do all kinds of strange things to
-     their bodies. That doesn't mean that Martians have
-     invaded Earth.
+<tr id="L240"><td><a href="#L240">240</a></td><td>TUVOK:  I am reading energy displacements again. Possibly alien lifesigns. Two hundred metres ahead.</td></tr>
 
-  KIM
-     Actually it was the other way around. Mars was
-     colonised by people from Earth in 2103.
+<tr id="L241"><td><a href="#L241">241</a></td><td>ANNOTATION: The team heads into a canyon. An alien takes aim.</td></tr>
 
-  NOONAN
-     That's enough! All of you just go over there and
-     sit down and keep quiet.
+<tr id="L242"><td><a href="#L242">242</a></td><td>TUVOK:  They may be up there.</td></tr>
 
+<tr id="L243"><td><a href="#L243">243</a></td><td>ANNOTATION: An energy bolt misses them.</td></tr>
 
-LOCATION--Cargo bay
+<tr id="L244"><td><a href="#L244">244</a></td><td>CHAKOTAY:  Take cover!</td></tr>
 
-  ANNOTATION
-     Tuvok hands out phaser rifles from a weapons
-     locker.
+<tr id="L245"><td><a href="#L245">245</a></td><td>CREWWOMAN:  Get down!</td></tr>
 
-  CHAKOTAY
-     The trinimbic interference has affected the
-     transporter's targeting scanners. We can't beam
-     into the chamber so we'll have to go on foot.
+<tr id="L246"><td><a href="#L246">246</a></td><td>ANNOTATION: They run for the rocks under a barrage of fire.</td></tr>
 
-  TUVOK
-     We will deploy throughout the caves, sealing off
-     any exit from the chamber.
+<tr><td></td><td>LOCATION--Canyon</td></tr>
+<tr id="L247"><td><a href="#L247">247</a></td><td>ANNOTATION: Janeway leads the party out of the cave and into the line of fire.</td></tr>
 
-  CHAKOTAY
-     Let's go.
+<tr id="L248"><td><a href="#L248">248</a></td><td>JANEWAY:  This way.</td></tr>
 
+<tr id="L249"><td><a href="#L249">249</a></td><td>HAYES:  What's all that racket?</td></tr>
 
-LOCATION--Cryochamber
+<tr id="L250"><td><a href="#L250">250</a></td><td>ANNOTATION: An energy bolt passes between Janeway's legs.</td></tr>
 
-  ANNOTATION
-     Noonan takes a swig from a hip flask.
+<tr id="L251"><td><a href="#L251">251</a></td><td>JANEWAY:  Take cover!</td></tr>
 
-  AMELIA
-     Now is probably not the best time for that, Fred.
+<tr id="L252"><td><a href="#L252">252</a></td><td>NOONAN:  I told you it was a trick!</td></tr>
 
-  NOONAN
-     Just a little pick me up.
+<tr id="L253"><td><a href="#L253">253</a></td><td>ANNOTATION: Noonan gets shot.</td></tr>
 
-  PARIS
-     He's had a few nips from that flask, Captain. We
-     could probably rush him, get the gun.
+<tr id="L254"><td><a href="#L254">254</a></td><td>AMELIA:  Fred!</td></tr>
 
-  JANEWAY
-     Let me try to talk to Earhart first. She seems
-     reasonable. Maybe I can get through to her. Miss
-     Earhart?
+<tr id="L255"><td><a href="#L255">255</a></td><td>ANNOTATION: Kim runs out and drags Noonan to cover. Janeway spots their attackers, and Tuvok and Chakotay hiding behind a nearby large rock.</td></tr>
 
-  ANNOTATION
-     Amelia walks over.
+<tr id="L256"><td><a href="#L256">256</a></td><td>JANEWAY:  Janeway to Chakotay.</td></tr>
 
-  JANEWAY
-     I want you to know you've always been an
-     inspiration to me. Because of you, generations of
-     women have become pilots.
+<tr id="L257"><td><a href="#L257">257</a></td><td>CHAKOTAY [OC]:  I'm here, Captain. We're pinned down.</td></tr>
 
-  AMELIA
-     Generations. What's your name?
+<tr id="L258"><td><a href="#L258">258</a></td><td>JANEWAY:  I can see you from here. Lay down phaser fire. I'm going to circle around to your left, try to come at them from the rear.</td></tr>
 
-  JANEWAY
-     Kathryn Janeway.
+<tr id="L259"><td><a href="#L259">259</a></td><td>CHAKOTAY [OC]:  Right!</td></tr>
 
-  AMELIA
-     I heard the Commander call you Captain. What
-     exactly do you captain?
+<tr id="L260"><td><a href="#L260">260</a></td><td>ANNOTATION: Tuvok and Chakotay start shooting, Janeway moves off.</td></tr>
 
-  JANEWAY
-     The Federation Starship Voyager.
+<tr id="L261"><td><a href="#L261">261</a></td><td>CHAKOTAY:  Chakotay to Voyager.</td></tr>
 
-  AMELIA
-     Starship. That supposed to mean it flies through
-     space?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L262"><td><a href="#L262">262</a></td><td>TORRES:  Torres here, Commander.</td></tr>
 
-  JANEWAY
-     That's right.
+<tr><td></td><td>LOCATION--Canyon</td></tr>
+<tr id="L263"><td><a href="#L263">263</a></td><td>CHAKOTAY:  Can you give us some help down here?</td></tr>
 
-  AMELIA
-     That isn't possible. Only in books. H G Wells,
-     Jules Verne.
+<tr id="L264"><td><a href="#L264">264</a></td><td>TORRES [OC]:  I don't think so.</td></tr>
 
-  JANEWAY
-     Maybe if you saw it you'd think otherwise.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L265"><td><a href="#L265">265</a></td><td>TORRES:  The targeting scanners are still useless. I can't risk laying down weapons fire if I don't know where it's going.</td></tr>
 
-  AMELIA
-     Saw it? Where is it?
+<tr><td></td><td>LOCATION--Canyon</td></tr>
+<tr id="L266"><td><a href="#L266">266</a></td><td>CHAKOTAY:  Keep trying to get them online.</td></tr>
 
-  JANEWAY
-     On the surface. We're actually about a hundred
-     metres underground now. If you'd come with me to
-     see Voyager, you'd realise that what we're telling
-     you is true.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L267"><td><a href="#L267">267</a></td><td>TORRES:  Aye, Commander.</td></tr>
 
-  AMELIA
-     And risk a trap? No, you could have hundreds of
-     reinforcements up there.
+<tr><td></td><td>LOCATION--Hillside</td></tr>
+<tr id="L268"><td><a href="#L268">268</a></td><td>ANNOTATION: Janeway has got behind the three attackers. She treads on a twig, one turns and she shoots him.</td></tr>
 
-  JANEWAY
-     I assure you, we have no interest in harming you.
-     We took you out of stasis to help you.
+<tr id="L269"><td><a href="#L269">269</a></td><td>JANEWAY:  Hold your fire. Drop your weapons. Turn around slowly.</td></tr>
 
-  AMELIA
-     Put yourself in my shoes, Captain. If you were me,
-     would you believe your story?
+<tr id="L270"><td><a href="#L270">270</a></td><td>EVANSVILLE:  You're not Briori.</td></tr>
 
-  JANEWAY
-     Maybe not. Let me tell you some of what happened
-     after you disappeared over the Pacific. No trace
-     of you or your plane was ever found, in spite of a
-     massive search. Over the years there was a lot of
-     speculation about your flight, including the
-     rumour that it was financed by the Government and
-     may have been part of an operation to gather
-     information about the Japanese.
+<tr id="L271"><td><a href="#L271">271</a></td><td>JANEWAY:  No, I'm human.</td></tr>
 
-  AMELIA
-     Where did you hear that?
+<tr id="L272"><td><a href="#L272">272</a></td><td>EVANSVILLE:  Human?</td></tr>
 
-  JANEWAY
-     It's somewhat common knowledge. You see, Japan
-     attacked Pearl Harbour in 1941, drawing the United
-     States into a massive world war. In retrospect,
-     your journey was seen in a different light,
-     perhaps as part of an intelligence mission devised
-     by a Government deeply concerned about Japanese
-     war plans.
+<tr id="L273"><td><a href="#L273">273</a></td><td>ANNOTATION: He turns to his companion, who nods. They remove their hoods to reveal that they are a man and a woman.</td></tr>
 
-  AMELIA
-     No one was supposed to know about that.
+<tr id="L274"><td><a href="#L274">274</a></td><td>EVANSVILLE:  We're human. You're working for the Briori. They have ships like yours.</td></tr>
 
-  JANEWAY
-     Maybe not in 1937, but now it's part of history.
+<tr id="L275"><td><a href="#L275">275</a></td><td>JANEWAY:  I'll answer any questions you have, but first we must take care of our wounded. Can we agree to end this?</td></tr>
 
-  NOONAN
-     Hey, I've got an idea. Why don't we stick them in
-     these things? Put them to sleep like we were. No
-     fuss, no trouble.
+<tr id="L276"><td><a href="#L276">276</a></td><td>EVANSVILLE:  Yes.</td></tr>
 
-  JANEWAY
-     Mister Noonan, that will accomplish nothing.
-     Please, let us take you to our ship. You'll see
-     that everything we've told you is true.
+<tr id="L277"><td><a href="#L277">277</a></td><td>JANEWAY:  I'm Kathryn Janeway of the Federation Starship Voyager.</td></tr>
 
-  NOONAN
-     Show me how to operate this thing.
+<tr id="L278"><td><a href="#L278">278</a></td><td>EVANSVILLE:  John Evansville. This is my colleague, Karen Berlin.</td></tr>
 
-  AMELIA
-     Hey! Last time I looked, you were working for me.
-     And I think we should listen to these people. They
-     just may be telling the truth. What's the harm in
-     seeing if maybe they do have this starship? Beats
-     being cooped up in here trying to figure out what
-     happened. How about it? Anyone want to come along?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L279"><td><a href="#L279">279</a></td><td>ANNOTATION: Noonan is on a biobed, chest bared and a nice hole burnt into it. Kes and Amelia stand by.</td></tr>
 
-  HAYES
-     I wouldn't mind taking a look.
+<tr id="L280"><td><a href="#L280">280</a></td><td>EMH:  Severe trauma to the thoracic cavity, lacerated carotid artery.</td></tr>
 
-  JANEWAY
-     Anyone else?
+<tr id="L281"><td><a href="#L281">281</a></td><td>AMELIA:  He's not going to make it.</td></tr>
 
-  NOONAN
-     You're not leaving me behind.
+<tr id="L282"><td><a href="#L282">282</a></td><td>EMH:  I wouldn't be so sure of that. Vascular regenerator. Hmm. He's not responding to the treatment. The alcohol level in his blood is so high it's inhibiting the repair to his circulatory system. Attempting to compensate.</td></tr>
 
-  PARIS
-     Kes and I'll stay with the others, Captain.
+<tr id="L283"><td><a href="#L283">283</a></td><td>AMELIA:  Told you your drinking'd kill you one day.</td></tr>
 
-  JANEWAY
-     It'll take about ten minutes to get to the
-     surface. Stay close to us. Mister Kim.
+<tr id="L284"><td><a href="#L284">284</a></td><td>NOONAN:  She's right, Doc. Just let me die in peace. There's just one thing I want to say to you first, even though it's four hundred years late. Amelia, I love you.</td></tr>
 
+<tr id="L285"><td><a href="#L285">285</a></td><td>AMELIA:  Fred. You never said anything.</td></tr>
 
-LOCATION--Outside Voyager
+<tr id="L286"><td><a href="#L286">286</a></td><td>NOONAN:  You're married, or you were. I guess he's dead now. I just wanted you to know before I, before I met my maker.</td></tr>
 
-  CHAKOTAY
-     What is it?
+<tr id="L287"><td><a href="#L287">287</a></td><td>EMH:  There, that should do it.</td></tr>
 
-  TUVOK
-     I am reading energy displacements again. Possibly
-     alien lifesigns. Two hundred metres ahead.
+<tr id="L288"><td><a href="#L288">288</a></td><td>NOONAN:  Do what?</td></tr>
 
-  ANNOTATION
-     The team heads into a canyon. An alien takes aim.
+<tr id="L289"><td><a href="#L289">289</a></td><td>EMH:  You're healed.</td></tr>
 
-  TUVOK
-     They may be up there.
+<tr id="L290"><td><a href="#L290">290</a></td><td>NOONAN:  You mean I'm not going to die?</td></tr>
 
-  ANNOTATION
-     An energy bolt misses them.
+<tr id="L291"><td><a href="#L291">291</a></td><td>EMH:  Aside from a hangover, you're going to be fine.</td></tr>
 
-  CHAKOTAY
-     Take cover!
+<tr id="L292"><td><a href="#L292">292</a></td><td>NOONAN:  Oh, Amelia, you got to forget what I just told you. Promise me.</td></tr>
 
-  CREWWOMAN
-     Get down!
+<tr id="L293"><td><a href="#L293">293</a></td><td>AMELIA:  Fred, I already have.</td></tr>
 
-  ANNOTATION
-     They run for the rocks under a barrage of fire.
+<tr><td></td><td>LOCATION--Briefing room</td></tr>
+<tr id="L294"><td><a href="#L294">294</a></td><td>EVANSVILLE:  You've taken the 37s. Why?</td></tr>
 
+<tr id="L295"><td><a href="#L295">295</a></td><td>JANEWAY:  I'm afraid I don't understand.</td></tr>
 
-LOCATION--Canyon
+<tr id="L296"><td><a href="#L296">296</a></td><td>EVANSVILLE:  You went into the shrine. You stole the 37s from the sacred altars, and you disturbed the radio signal that we have been so careful to preserve.</td></tr>
 
-  ANNOTATION
-     Janeway leads the party out of the cave and into
-     the line of fire.
+<tr id="L297"><td><a href="#L297">297</a></td><td>CHAKOTAY:  Captain, I think he's talking about Earhart and the others.</td></tr>
 
-  JANEWAY
-     This way.
+<tr id="L298"><td><a href="#L298">298</a></td><td>JANEWAY:  Tell me more about the 37s? Are you one of them?</td></tr>
 
-  HAYES
-     What's all that racket?
+<tr id="L299"><td><a href="#L299">299</a></td><td>EVANSVILLE:  I'm one of their descendants. The 37s were brought here over fifteen generations ago by the Briori.</td></tr>
 
-  ANNOTATION
-     An energy bolt passes between Janeway's legs.
+<tr id="L300"><td><a href="#L300">300</a></td><td>CHAKOTAY:  Who are the Briori?</td></tr>
 
-  JANEWAY
-     Take cover!
+<tr id="L301"><td><a href="#L301">301</a></td><td>EVANSVILLE:  They're an alien race. They abducted over three hundred people from Earth in the year 1937, brought them over here, turned them into slaves. But those slaves revolted, killed the Briori, took their weapons and their technology and survived. And now there are over one hundred thousand of us. The Briori never came back. Now, you answer me. Why did you steal the remaining 37s from the shrine?</td></tr>
 
-  NOONAN
-     I told you it was a trick!
+<tr id="L302"><td><a href="#L302">302</a></td><td>JANEWAY:  We didn't steal them. We simply revived them.</td></tr>
 
-  ANNOTATION
-     Noonan gets shot.
+<tr id="L303"><td><a href="#L303">303</a></td><td>EVANSVILLE:  Revived them? They're dead.</td></tr>
 
-  AMELIA
-     Fred!
+<tr id="L304"><td><a href="#L304">304</a></td><td>JANEWAY:  No, they were simply in a state of what we call cryostasis. That's a form of sleep that appears very much like death.</td></tr>
 
-  ANNOTATION
-     Kim runs out and drags Noonan to cover. Janeway
-     spots their attackers, and Tuvok and Chakotay
-     hiding behind a nearby large rock.
+<tr id="L305"><td><a href="#L305">305</a></td><td>EVANSVILLE:  Do you mean they're alive?</td></tr>
 
-  JANEWAY
-     Janeway to Chakotay.
+<tr id="L306"><td><a href="#L306">306</a></td><td>JANEWAY:  Yes.</td></tr>
 
-  CHAKOTAY [OC]
-     I'm here, Captain. We're pinned down.
+<tr id="L307"><td><a href="#L307">307</a></td><td>EVANSVILLE:  My people have come to regard the 37s as monuments to our ancestors. Nobody has even entered their shrine for generations.</td></tr>
 
-  JANEWAY
-     I can see you from here. Lay down phaser fire. I'm
-     going to circle around to your left, try to come
-     at them from the rear.
+<tr id="L308"><td><a href="#L308">308</a></td><td>JANEWAY:  Mister Evansville, we were hoping to find the ship that brought your ancestors here. Possibly use it to get back to Earth a little faster.</td></tr>
 
-  CHAKOTAY [OC]
-     Right!
+<tr id="L309"><td><a href="#L309">309</a></td><td>EVANSVILLE:  I'm sorry, the Briori ship was destroyed in the slave revolt. There's nothing left. Captain, I'm sorry to hear about your long journey home, but you should know that life on this planet is good. We live in three beautiful cities only fifty miles from here.</td></tr>
 
-  ANNOTATION
-     Tuvok and Chakotay start shooting, Janeway moves
-     off.
+<tr id="L310"><td><a href="#L310">310</a></td><td>JANEWAY:  Oh, I'd like to see your cities.</td></tr>
 
-  CHAKOTAY
-     Chakotay to Voyager.
+<tr id="L311"><td><a href="#L311">311</a></td><td>EVANSVILLE:  And I'd like to show them to you.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L312"><td><a href="#L312">312</a></td><td>ANNOTATION: Amelia is admiring the helm.</td></tr>
 
-LOCATION--Bridge
+<tr id="L313"><td><a href="#L313">313</a></td><td>AMELIA:  How fast?</td></tr>
 
-  TORRES
-     Torres here, Commander.
+<tr id="L314"><td><a href="#L314">314</a></td><td>PARIS:  Warp nine point nine. In your terms, that's about four billion miles a second.</td></tr>
 
+<tr id="L315"><td><a href="#L315">315</a></td><td>AMELIA:  Think I could take her out for a spin?</td></tr>
 
-LOCATION--Canyon
+<tr id="L316"><td><a href="#L316">316</a></td><td>PARIS:  Well, er</td></tr>
 
-  CHAKOTAY
-     Can you give us some help down here?
+<tr id="L317"><td><a href="#L317">317</a></td><td>ANNOTATION: Janeway enters with Evansville.</td></tr>
 
-  TORRES [OC]
-     I don't think so.
+<tr id="L318"><td><a href="#L318">318</a></td><td>JANEWAY:  Mister Evansville has offered to take us on a tour of the settlement. He's extended the invitation to the entire crew, and the 37s, of course.</td></tr>
 
+<tr id="L319"><td><a href="#L319">319</a></td><td>EVANSVILLE:  You, you're a 37?</td></tr>
 
-LOCATION--Bridge
+<tr id="L320"><td><a href="#L320">320</a></td><td>ANNOTATION: Janeway nods.</td></tr>
 
-  TORRES
-     The targeting scanners are still useless. I can't
-     risk laying down weapons fire if I don't know
-     where it's going.
+<tr id="L321"><td><a href="#L321">321</a></td><td>AMELIA:  I guess you could call me that.</td></tr>
 
+<tr id="L322"><td><a href="#L322">322</a></td><td>EVANSVILLE:  It would be an honour to show you our cities.</td></tr>
 
-LOCATION--Canyon
+<tr id="L323"><td><a href="#L323">323</a></td><td>SOMEONE: Captain's log, stardate 48975.1. Evansville wasn't exaggerating when he said they have a lot to be proud of here. It was an amazing experience, but it's left me a little disturbed.</td></tr>
 
-  CHAKOTAY
-     Keep trying to get them online.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L324"><td><a href="#L324">324</a></td><td>JANEWAY:  Come in.</td></tr>
 
+<tr id="L325"><td><a href="#L325">325</a></td><td>CHAKOTAY:  Here's the damage report you asked for.</td></tr>
 
-LOCATION--Bridge
+<tr id="L326"><td><a href="#L326">326</a></td><td>JANEWAY:  Thank you.</td></tr>
 
-  TORRES
-     Aye, Commander.
+<tr id="L327"><td><a href="#L327">327</a></td><td>CHAKOTAY:  Is something wrong, Captain? You've seemed a little distracted ever since we came back from the cities. Weren't you impressed?</td></tr>
 
+<tr id="L328"><td><a href="#L328">328</a></td><td>JANEWAY:  A little too impressed.</td></tr>
 
-LOCATION--Hillside
+<tr id="L329"><td><a href="#L329">329</a></td><td>CHAKOTAY:  What do you mean?</td></tr>
 
-  ANNOTATION
-     Janeway has got behind the three attackers. She
-     treads on a twig, one turns and she shoots him.
+<tr id="L330"><td><a href="#L330">330</a></td><td>JANEWAY:  There's a thriving, sophisticated culture on this planet. Of human beings. In someways walking around those cities was almost like being back on Earth.</td></tr>
 
-  JANEWAY
-     Hold your fire. Drop your weapons. Turn around
-     slowly.
+<tr id="L331"><td><a href="#L331">331</a></td><td>CHAKOTAY:  It was a little eerie. It reminded me of home, too.</td></tr>
 
-  EVANSVILLE
-     You're not Briori.
+<tr id="L332"><td><a href="#L332">332</a></td><td>JANEWAY:  Evansville has offered to let any of our crew stay.</td></tr>
 
-  JANEWAY
-     No, I'm human.
+<tr id="L333"><td><a href="#L333">333</a></td><td>CHAKOTAY:  What will you do about that?</td></tr>
 
-  EVANSVILLE
-     Human?
+<tr id="L334"><td><a href="#L334">334</a></td><td>JANEWAY:  Maybe this is one of those decisions that the captain has to make for the entire ship.</td></tr>
 
-  ANNOTATION
-     He turns to his companion, who nods. They remove
-     their hoods to reveal that they are a man and a
-     woman.
+<tr id="L335"><td><a href="#L335">335</a></td><td>CHAKOTAY:  You may have a problem if a lot of people want to stay.</td></tr>
 
-  EVANSVILLE
-     We're human. You're working for the Briori. They
-     have ships like yours.
+<tr id="L336"><td><a href="#L336">336</a></td><td>JANEWAY:  I know that, but at the same time I can't take a vote every time there's a major decision to be made. And yet, we're a long way from Starfleet, and a lot of the rules and regulations I've learnt to uphold seem distant as well. Am I the only one who's so intent on getting home? Is it just me? Am I leading the crew on a forlorn mission with no real hope of success?</td></tr>
 
-  JANEWAY
-     I'll answer any questions you have, but first we
-     must take care of our wounded. Can we agree to end
-     this?
+<tr id="L337"><td><a href="#L337">337</a></td><td>CHAKOTAY:  You're not alone. I want to get home, too. And there's not a day that goes by when I don't hear someone mention Earth.</td></tr>
 
-  EVANSVILLE
-     Yes.
+<tr id="L338"><td><a href="#L338">338</a></td><td>JANEWAY:  The people here have built a new Earth. We could stay, help them build a human civilisation in the Delta Quadrant. Isn't that an exciting prospect? Shouldn't we be grateful for the opportunity they're giving us?</td></tr>
 
-  JANEWAY
-     I'm Kathryn Janeway of the Federation Starship
-     Voyager.
+<tr id="L339"><td><a href="#L339">339</a></td><td>CHAKOTAY:  It is a tempting prospect, but when I hold it up against the prospect of seeing the sun rise over the Arizona desert, or swimming in the Gulf of Mexico on a summers day, there's just no comparison. I want to go home.</td></tr>
 
-  EVANSVILLE
-     John Evansville. This is my colleague, Karen
-     Berlin.
+<tr id="L340"><td><a href="#L340">340</a></td><td>JANEWAY:  We have one hundred and fifty two men and women on this ship. What happens if half of them decide to stay on the planet? Could we operate Voyager with seventy five crew members?</td></tr>
 
+<tr id="L341"><td><a href="#L341">341</a></td><td>CHAKOTAY:  I doubt it. In fact I don't think we could operate the ship with fewer than one hundred. If too many of the crew choose to stay behind, we could all be stranded here.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L342"><td><a href="#L342">342</a></td><td>JANEWAY:  Tell all hands to prepare for an announcement from the Captain at fourteen hundred hours. They deserve to make the choice for themselves.</td></tr>
 
-  ANNOTATION
-     Noonan is on a biobed, chest bared and a nice hole
-     burnt into it. Kes and Amelia stand by.
+<tr id="L343"><td><a href="#L343">343</a></td><td>CHAKOTAY:  Aye, Captain.</td></tr>
 
-  EMH
-     Severe trauma to the thoracic cavity, lacerated
-     carotid artery.
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L344"><td><a href="#L344">344</a></td><td>ANNOTATION: Neelix carries a tray over to the table for eight.</td></tr>
 
-  AMELIA
-     He's not going to make it.
+<tr id="L345"><td><a href="#L345">345</a></td><td>NEELIX:  Here we are! My research on twentieth century Earth is a little thin, but I've done what I can. Pot roast, green beans and something called Jell-O.</td></tr>
 
-  EMH
-     I wouldn't be so sure of that. Vascular
-     regenerator. Hmm. He's not responding to the
-     treatment. The alcohol level in his blood is so
-     high it's inhibiting the repair to his circulatory
-     system. Attempting to compensate.
+<tr id="L346"><td><a href="#L346">346</a></td><td>NOONAN:  You know how to make Jell-O?</td></tr>
 
-  AMELIA
-     Told you your drinking'd kill you one day.
+<tr id="L347"><td><a href="#L347">347</a></td><td>NEELIX:  I even put in fruit cocktail.</td></tr>
 
-  NOONAN
-     She's right, Doc. Just let me die in peace.
-     There's just one thing I want to say to you first,
-     even though it's four hundred years late. Amelia,
-     I love you.
+<tr id="L348"><td><a href="#L348">348</a></td><td>NOONAN:  You don't say.</td></tr>
 
-  AMELIA
-     Fred. You never said anything.
+<tr id="L349"><td><a href="#L349">349</a></td><td>HAYES:  I don't know about the rest of you, but I've made up my mind. There is land here that goes begging, and I could have a big farm, just like I always dreamed.</td></tr>
 
-  NOONAN
-     You're married, or you were. I guess he's dead
-     now. I just wanted you to know before I, before I
-     met my maker.
+<tr id="L350"><td><a href="#L350">350</a></td><td>NEELIX:  And for you, rice with a little fish. I even replicated some ginger for seasoning.</td></tr>
 
-  EMH
-     There, that should do it.
+<tr id="L351"><td><a href="#L351">351</a></td><td>NOGAMI:  Very nice, thank you.</td></tr>
 
-  NOONAN
-     Do what?
+<tr id="L352"><td><a href="#L352">352</a></td><td>NOONAN:  I have to admit, life here looks a lot better than what we left on Earth.</td></tr>
 
-  EMH
-     You're healed.
+<tr id="L353"><td><a href="#L353">353</a></td><td>NOGAMI:  It's paradise by comparison. And there are many Japanese here. I could be very happy.</td></tr>
 
-  NOONAN
-     You mean I'm not going to die?
+<tr id="L354"><td><a href="#L354">354</a></td><td>NOONAN:  We all could. Right?</td></tr>
 
-  EMH
-     Aside from a hangover, you're going to be fine.
+<tr id="L355"><td><a href="#L355">355</a></td><td>AMELIA:  I'm just not sure. What about you, Mister Neelix? Have you made your decision?</td></tr>
 
-  NOONAN
-     Oh, Amelia, you got to forget what I just told
-     you. Promise me.
+<tr id="L356"><td><a href="#L356">356</a></td><td>NEELIX:  Oh yes, indeed. I'm staying right here with Captain Janeway. She'd be lost without me. She's come to depend on me a great deal.</td></tr>
 
-  AMELIA
-     Fred, I already have.
+<tr id="L357"><td><a href="#L357">357</a></td><td>NOONAN:  What about the rest of the crew? Do you think many of them will stay here?</td></tr>
 
+<tr id="L358"><td><a href="#L358">358</a></td><td>NEELIX:  Oh, I don't think so. At least, not many. Well, that is, there's a good chance. Well, now that you ask, I honestly don't know.</td></tr>
 
-LOCATION--Briefing room
+<tr id="L359"><td><a href="#L359">359</a></td><td>ANNOTATION: At another table.</td></tr>
 
-  EVANSVILLE
-     You've taken the 37s. Why?
+<tr id="L360"><td><a href="#L360">360</a></td><td>TORRES:  You? You'd stay here on the planet?</td></tr>
 
-  JANEWAY
-     I'm afraid I don't understand.
+<tr id="L361"><td><a href="#L361">361</a></td><td>KIM:  I didn't say I was going to, I just said I could understand why people would want to. The people here remind me of home. I haven't felt like that since I left Earth.</td></tr>
 
-  EVANSVILLE
-     You went into the shrine. You stole the 37s from
-     the sacred altars, and you disturbed the radio
-     signal that we have been so careful to preserve.
+<tr id="L362"><td><a href="#L362">362</a></td><td>TORRES:  But you're Starfleet. You've always wanted a life in space.</td></tr>
 
-  CHAKOTAY
-     Captain, I think he's talking about Earhart and
-     the others.
+<tr id="L363"><td><a href="#L363">363</a></td><td>KIM:  I know, but, my whole life on a starship, day after day, with no end in sight? That's not exactly what I had in mind.</td></tr>
 
-  JANEWAY
-     Tell me more about the 37s? Are you one of them?
+<tr id="L364"><td><a href="#L364">364</a></td><td>TORRES:  You're not the first person I've heard talk like this. A lot of people are thinking about staying.</td></tr>
 
-  EVANSVILLE
-     I'm one of their descendants. The 37s were brought
-     here over fifteen generations ago by the Briori.
+<tr id="L365"><td><a href="#L365">365</a></td><td>KIM:  What about you? Don't you have some of those feelings?</td></tr>
 
-  CHAKOTAY
-     Who are the Briori?
+<tr id="L366"><td><a href="#L366">366</a></td><td>TORRES:  I'd be lying if I said I didn't.</td></tr>
 
-  EVANSVILLE
-     They're an alien race. They abducted over three
-     hundred people from Earth in the year 1937,
-     brought them over here, turned them into slaves.
-     But those slaves revolted, killed the Briori, took
-     their weapons and their technology and survived.
-     And now there are over one hundred thousand of us.
-     The Briori never came back. Now, you answer me.
-     Why did you steal the remaining 37s from the
-     shrine?
+<tr><td></td><td>LOCATION--Outside Voyager</td></tr>
+<tr id="L367"><td><a href="#L367">367</a></td><td>AMELIA:  Captain. I was told I'd find you here. Am I intruding?</td></tr>
 
-  JANEWAY
-     We didn't steal them. We simply revived them.
+<tr id="L368"><td><a href="#L368">368</a></td><td>JANEWAY:  Not at all. Please join me.</td></tr>
 
-  EVANSVILLE
-     Revived them? They're dead.
+<tr id="L369"><td><a href="#L369">369</a></td><td>AMELIA:  I wanted you to know that the group you brought out of stasis, we've all decided to stay here on the planet.</td></tr>
 
-  JANEWAY
-     No, they were simply in a state of what we call
-     cryostasis. That's a form of sleep that appears
-     very much like death.
+<tr id="L370"><td><a href="#L370">370</a></td><td>JANEWAY:  I understand.</td></tr>
 
-  EVANSVILLE
-     Do you mean they're alive?
+<tr id="L371"><td><a href="#L371">371</a></td><td>AMELIA:  I must admit the thought of travelling through space, maybe even learning to fly this ship, was very appealing to me.</td></tr>
 
-  JANEWAY
-     Yes.
+<tr id="L372"><td><a href="#L372">372</a></td><td>JANEWAY:  And I'd looked forward to getting to know you better. I suspect we have a lot in common.</td></tr>
 
-  EVANSVILLE
-     My people have come to regard the 37s as monuments
-     to our ancestors. Nobody has even entered their
-     shrine for generations.
+<tr id="L373"><td><a href="#L373">373</a></td><td>AMELIA:  At first I didn't know what to do. We talked about it for quite some time. Finally I realised the people here on this planet are part of us. We're their ancestors in a way. It made us feel close to them.</td></tr>
 
-  JANEWAY
-     Mister Evansville, we were hoping to find the ship
-     that brought your ancestors here. Possibly use it
-     to get back to Earth a little faster.
+<tr id="L374"><td><a href="#L374">374</a></td><td>JANEWAY:  The remarkable thing about the humans on this planet is that they evolved very much like the people on Earth. Tens of thousands of light years apart, both civilisations managed to create a world they could be proud of. One where war and poverty simply don't exist. I certainly can't blame you for wanting to be part of it, any more than I can blame members of my crew if they make the same decision.</td></tr>
 
-  EVANSVILLE
-     I'm sorry, the Briori ship was destroyed in the
-     slave revolt. There's nothing left. Captain, I'm
-     sorry to hear about your long journey home, but
-     you should know that life on this planet is good.
-     We live in three beautiful cities only fifty miles
-     from here.
+<tr id="L375"><td><a href="#L375">375</a></td><td>AMELIA:  When will you find out?</td></tr>
 
-  JANEWAY
-     Oh, I'd like to see your cities.
+<tr id="L376"><td><a href="#L376">376</a></td><td>JANEWAY:  In half an hour. Any one who wants to stay behind is to report to the cargo bay at fifteen hundred hours.</td></tr>
 
-  EVANSVILLE
-     And I'd like to show them to you.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L377"><td><a href="#L377">377</a></td><td>CHAKOTAY:  I expect Jarvin will stay on the planet. In fact, I'd bet on it.</td></tr>
 
+<tr id="L378"><td><a href="#L378">378</a></td><td>JANEWAY:  Why Jarvin?</td></tr>
 
-LOCATION--Bridge
+<tr id="L379"><td><a href="#L379">379</a></td><td>CHAKOTAY:  He's been more uncomfortable about being on a Starfleet ship than most of the Maquis, and he's gotten involved with a young woman in Quantum Mechanics. I think they'd like to settle down, raise a family.</td></tr>
 
-  ANNOTATION
-     Amelia is admiring the helm.
+<tr id="L380"><td><a href="#L380">380</a></td><td>JANEWAY:  The person I expect to see is Baxter.</td></tr>
 
-  AMELIA
-     How fast?
+<tr id="L381"><td><a href="#L381">381</a></td><td>CHAKOTAY:  Baxter? Walter Baxter?</td></tr>
 
-  PARIS
-     Warp nine point nine. In your terms, that's about
-     four billion miles a second.
+<tr id="L382"><td><a href="#L382">382</a></td><td>JANEWAY:  He's adventurous, a risk taker. I can see him wanting to take on the challenge of building a new life on this planet.</td></tr>
 
-  AMELIA
-     Think I could take her out for a spin?
+<tr id="L383"><td><a href="#L383">383</a></td><td>CHAKOTAY:  I'd hate to loose Baxter. He's a good man.</td></tr>
 
-  PARIS
-     Well, er
+<tr id="L384"><td><a href="#L384">384</a></td><td>JANEWAY:  I'd hate to loose Jarvin. I don't want to loose anyone. We've all been through so much together, it just wouldn't seem right. But I couldn't blame anyone, anyone for staying behind. I'm not sure I want to go in.</td></tr>
 
-  ANNOTATION
-     Janeway enters with Evansville.
+<tr id="L385"><td><a href="#L385">385</a></td><td>CHAKOTAY:  No matter what happens, we'll make it. Remember that.</td></tr>
 
-  JANEWAY
-     Mister Evansville has offered to take us on a tour
-     of the settlement. He's extended the invitation to
-     the entire crew, and the 37s, of course.
+<tr id="L386"><td><a href="#L386">386</a></td><td>ANNOTATION: The cargo bay is devoid of people.</td></tr>
 
-  EVANSVILLE
-     You, you're a 37?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L387"><td><a href="#L387">387</a></td><td>TUVOK:  Captain on the bridge.</td></tr>
 
-  ANNOTATION
-     Janeway nods.
+<tr id="L388"><td><a href="#L388">388</a></td><td>JANEWAY:  All stations prepare for departure. Condition blue, Mister Tuvok. Miss Torres, anti-grav thrusters online.</td></tr>
 
-  AMELIA
-     I guess you could call me that.
+<tr id="L389"><td><a href="#L389">389</a></td><td>TORRES:  Thrusters enabled.</td></tr>
 
-  EVANSVILLE
-     It would be an honour to show you our cities.
+<tr id="L390"><td><a href="#L390">390</a></td><td>JANEWAY:  Mister Paris, inertial dampers to flight configuration. Impulse drive to stand by.</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 48975.1. Evansville wasn't
-     exaggerating when he said they have a lot to be
-     proud of here. It was an amazing experience, but
-     it's left me a little disturbed.
+<tr id="L391"><td><a href="#L391">391</a></td><td>PARIS:  Yes, ma'am.</td></tr>
 
+<tr id="L392"><td><a href="#L392">392</a></td><td>KIM:  All stations report ready, Captain.</td></tr>
 
-LOCATION--Ready room
+<tr id="L393"><td><a href="#L393">393</a></td><td>JANEWAY:  Then lets do it. Take us up.</td></tr>
 
-  JANEWAY
-     Come in.
+<tr id="L394"><td><a href="#L394">394</a></td><td>ANNOTATION: Amelia, Noonan and Evansville watch Voyager lift off and fly away.</td></tr>
 
-  CHAKOTAY
-     Here's the damage report you asked for.
-
-  JANEWAY
-     Thank you.
-
-  CHAKOTAY
-     Is something wrong, Captain? You've seemed a
-     little distracted ever since we came back from the
-     cities. Weren't you impressed?
-
-  JANEWAY
-     A little too impressed.
-
-  CHAKOTAY
-     What do you mean?
-
-  JANEWAY
-     There's a thriving, sophisticated culture on this
-     planet. Of human beings. In someways walking
-     around those cities was almost like being back on
-     Earth.
-
-  CHAKOTAY
-     It was a little eerie. It reminded me of home,
-     too.
-
-  JANEWAY
-     Evansville has offered to let any of our crew
-     stay.
-
-  CHAKOTAY
-     What will you do about that?
-
-  JANEWAY
-     Maybe this is one of those decisions that the
-     captain has to make for the entire ship.
-
-  CHAKOTAY
-     You may have a problem if a lot of people want to
-     stay.
-
-  JANEWAY
-     I know that, but at the same time I can't take a
-     vote every time there's a major decision to be
-     made. And yet, we're a long way from Starfleet,
-     and a lot of the rules and regulations I've learnt
-     to uphold seem distant as well. Am I the only one
-     who's so intent on getting home? Is it just me? Am
-     I leading the crew on a forlorn mission with no
-     real hope of success?
-
-  CHAKOTAY
-     You're not alone. I want to get home, too. And
-     there's not a day that goes by when I don't hear
-     someone mention Earth.
-
-  JANEWAY
-     The people here have built a new Earth. We could
-     stay, help them build a human civilisation in the
-     Delta Quadrant. Isn't that an exciting prospect?
-     Shouldn't we be grateful for the opportunity
-     they're giving us?
-
-  CHAKOTAY
-     It is a tempting prospect, but when I hold it up
-     against the prospect of seeing the sun rise over
-     the Arizona desert, or swimming in the Gulf of
-     Mexico on a summers day, there's just no
-     comparison. I want to go home.
-
-  JANEWAY
-     We have one hundred and fifty two men and women on
-     this ship. What happens if half of them decide to
-     stay on the planet? Could we operate Voyager with
-     seventy five crew members?
-
-  CHAKOTAY
-     I doubt it. In fact I don't think we could operate
-     the ship with fewer than one hundred. If too many
-     of the crew choose to stay behind, we could all be
-     stranded here.
-
-  JANEWAY
-     Tell all hands to prepare for an announcement from
-     the Captain at fourteen hundred hours. They
-     deserve to make the choice for themselves.
-
-  CHAKOTAY
-     Aye, Captain.
-
-
-LOCATION--Mess hall
-
-  ANNOTATION
-     Neelix carries a tray over to the table for eight.
-
-  NEELIX
-     Here we are! My research on twentieth century
-     Earth is a little thin, but I've done what I can.
-     Pot roast, green beans and something called
-     Jell-O.
-
-  NOONAN
-     You know how to make Jell-O?
-
-  NEELIX
-     I even put in fruit cocktail.
-
-  NOONAN
-     You don't say.
-
-  HAYES
-     I don't know about the rest of you, but I've made
-     up my mind. There is land here that goes begging,
-     and I could have a big farm, just like I always
-     dreamed.
-
-  NEELIX
-     And for you, rice with a little fish. I even
-     replicated some ginger for seasoning.
-
-  NOGAMI
-     Very nice, thank you.
-
-  NOONAN
-     I have to admit, life here looks a lot better than
-     what we left on Earth.
-
-  NOGAMI
-     It's paradise by comparison. And there are many
-     Japanese here. I could be very happy.
-
-  NOONAN
-     We all could. Right?
-
-  AMELIA
-     I'm just not sure. What about you, Mister Neelix?
-     Have you made your decision?
-
-  NEELIX
-     Oh yes, indeed. I'm staying right here with
-     Captain Janeway. She'd be lost without me. She's
-     come to depend on me a great deal.
-
-  NOONAN
-     What about the rest of the crew? Do you think many
-     of them will stay here?
-
-  NEELIX
-     Oh, I don't think so. At least, not many. Well,
-     that is, there's a good chance. Well, now that you
-     ask, I honestly don't know.
-
-  ANNOTATION
-     At another table.
-
-  TORRES
-     You? You'd stay here on the planet?
-
-  KIM
-     I didn't say I was going to, I just said I could
-     understand why people would want to. The people
-     here remind me of home. I haven't felt like that
-     since I left Earth.
-
-  TORRES
-     But you're Starfleet. You've always wanted a life
-     in space.
-
-  KIM
-     I know, but, my whole life on a starship, day
-     after day, with no end in sight? That's not
-     exactly what I had in mind.
-
-  TORRES
-     You're not the first person I've heard talk like
-     this. A lot of people are thinking about staying.
-
-  KIM
-     What about you? Don't you have some of those
-     feelings?
-
-  TORRES
-     I'd be lying if I said I didn't.
-
-
-LOCATION--Outside Voyager
-
-  AMELIA
-     Captain. I was told I'd find you here. Am I
-     intruding?
-
-  JANEWAY
-     Not at all. Please join me.
-
-  AMELIA
-     I wanted you to know that the group you brought
-     out of stasis, we've all decided to stay here on
-     the planet.
-
-  JANEWAY
-     I understand.
-
-  AMELIA
-     I must admit the thought of travelling through
-     space, maybe even learning to fly this ship, was
-     very appealing to me.
-
-  JANEWAY
-     And I'd looked forward to getting to know you
-     better. I suspect we have a lot in common.
-
-  AMELIA
-     At first I didn't know what to do. We talked about
-     it for quite some time. Finally I realised the
-     people here on this planet are part of us. We're
-     their ancestors in a way. It made us feel close to
-     them.
-
-  JANEWAY
-     The remarkable thing about the humans on this
-     planet is that they evolved very much like the
-     people on Earth. Tens of thousands of light years
-     apart, both civilisations managed to create a
-     world they could be proud of. One where war and
-     poverty simply don't exist. I certainly can't
-     blame you for wanting to be part of it, any more
-     than I can blame members of my crew if they make
-     the same decision.
-
-  AMELIA
-     When will you find out?
-
-  JANEWAY
-     In half an hour. Any one who wants to stay behind
-     is to report to the cargo bay at fifteen hundred
-     hours.
-
-
-LOCATION--Corridor
-
-  CHAKOTAY
-     I expect Jarvin will stay on the planet. In fact,
-     I'd bet on it.
-
-  JANEWAY
-     Why Jarvin?
-
-  CHAKOTAY
-     He's been more uncomfortable about being on a
-     Starfleet ship than most of the Maquis, and he's
-     gotten involved with a young woman in Quantum
-     Mechanics. I think they'd like to settle down,
-     raise a family.
-
-  JANEWAY
-     The person I expect to see is Baxter.
-
-  CHAKOTAY
-     Baxter? Walter Baxter?
-
-  JANEWAY
-     He's adventurous, a risk taker. I can see him
-     wanting to take on the challenge of building a new
-     life on this planet.
-
-  CHAKOTAY
-     I'd hate to loose Baxter. He's a good man.
-
-  JANEWAY
-     I'd hate to loose Jarvin. I don't want to loose
-     anyone. We've all been through so much together,
-     it just wouldn't seem right. But I couldn't blame
-     anyone, anyone for staying behind. I'm not sure I
-     want to go in.
-
-  CHAKOTAY
-     No matter what happens, we'll make it. Remember
-     that.
-
-  ANNOTATION
-     The cargo bay is devoid of people.
-
-
-LOCATION--Bridge
-
-  TUVOK
-     Captain on the bridge.
-
-  JANEWAY
-     All stations prepare for departure. Condition
-     blue, Mister Tuvok. Miss Torres, anti-grav
-     thrusters online.
-
-  TORRES
-     Thrusters enabled.
-
-  JANEWAY
-     Mister Paris, inertial dampers to flight
-     configuration. Impulse drive to stand by.
-
-  PARIS
-     Yes, ma'am.
-
-  KIM
-     All stations report ready, Captain.
-
-  JANEWAY
-     Then lets do it. Take us up.
-
-  ANNOTATION
-     Amelia, Noonan and Evansville watch Voyager lift
-     off and fly away.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

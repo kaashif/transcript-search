@@ -1,1735 +1,871 @@
-Projections
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Projections</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>EMH:  Please state the nature of the medical emergency. Hello? Computer, who activated the Emergency Medical Holographic programme?</td></tr>
 
-LOCATION--Sickbay
+<tr id="L2"><td><a href="#L2">2</a></td><td>COMPUTER:  Auto-initiation of the EMH programme occurred when a ship-wide Red alert was initiated.</td></tr>
 
-  EMH
-     Please state the nature of the medical emergency.
-     Hello? Computer, who activated the Emergency
-     Medical Holographic programme?
+<tr id="L3"><td><a href="#L3">3</a></td><td>EMH:  Emergency? Sickbay to bridge. Captain Janeway, please respond.</td></tr>
 
-  COMPUTER
-     Auto-initiation of the EMH programme occurred when
-     a ship-wide Red alert was initiated.
+<tr id="L4"><td><a href="#L4">4</a></td><td>COMPUTER:  Captain Janeway is not on board the ship.</td></tr>
 
-  EMH
-     Emergency? Sickbay to bridge. Captain Janeway,
-     please respond.
+<tr id="L5"><td><a href="#L5">5</a></td><td>EMH:  Well then, who's in command?</td></tr>
 
-  COMPUTER
-     Captain Janeway is not on board the ship.
+<tr id="L6"><td><a href="#L6">6</a></td><td>COMPUTER:  Internal scans indicate no crew members are on board.</td></tr>
 
-  EMH
-     Well then, who's in command?
+<tr id="L7"><td><a href="#L7">7</a></td><td>EMH:  You mean the ship's empty?</td></tr>
 
-  COMPUTER
-     Internal scans indicate no crew members are on
-     board.
+<tr id="L8"><td><a href="#L8">8</a></td><td>COMPUTER:  Affirmative.</td></tr>
 
-  EMH
-     You mean the ship's empty?
+<tr id="L9"><td><a href="#L9">9</a></td><td>EMH:  What is the crew's status?</td></tr>
 
-  COMPUTER
-     Affirmative.
+<tr id="L10"><td><a href="#L10">10</a></td><td>COMPUTER:  Unknown.</td></tr>
 
-  EMH
-     What is the crew's status?
+<tr id="L11"><td><a href="#L11">11</a></td><td>EMH:  Did they go on shore leave? Are they dead? What?</td></tr>
 
-  COMPUTER
-     Unknown.
+<tr id="L12"><td><a href="#L12">12</a></td><td>COMPUTER:  That information is not available.</td></tr>
 
-  EMH
-     Did they go on shore leave? Are they dead? What?
+<tr id="L13"><td><a href="#L13">13</a></td><td>EMH:  Can you give me a ship's status report?</td></tr>
 
-  COMPUTER
-     That information is not available.
+<tr id="L14"><td><a href="#L14">14</a></td><td>COMPUTER:  Affirmative. Warp core is offline. The ship is restricted to emergency power and auxiliary systems only. Structural integrity breach on deck six, deck seven and deck twelve. Deflector shields inoperative. Weapons array offline. Communications offline. Sewage and waste reclamation offline.</td></tr>
 
-  EMH
-     Can you give me a ship's status report?
+<tr id="L15"><td><a href="#L15">15</a></td><td>EMH:  Okay, I get the idea. What caused this damage?</td></tr>
 
-  COMPUTER
-     Affirmative. Warp core is offline. The ship is
-     restricted to emergency power and auxiliary
-     systems only. Structural integrity breach on deck
-     six, deck seven and deck twelve. Deflector shields
-     inoperative. Weapons array offline. Communications
-     offline. Sewage and waste reclamation offline.
+<tr id="L16"><td><a href="#L16">16</a></td><td>COMPUTER:  That information is not available.</td></tr>
 
-  EMH
-     Okay, I get the idea. What caused this damage?
+<tr id="L17"><td><a href="#L17">17</a></td><td>EMH:  Of course it isn't.</td></tr>
 
-  COMPUTER
-     That information is not available.
+<tr><td></td><td>LOCATION--Doctor's office</td></tr>
+<tr id="L18"><td><a href="#L18">18</a></td><td>EMH:  Computer, transfer all bridge logs to this station.</td></tr>
 
-  EMH
-     Of course it isn't.
+<tr id="L19"><td><a href="#L19">19</a></td><td>COMPUTER:  Accessing bridge logs.</td></tr>
 
+<tr id="L20"><td><a href="#L20">20</a></td><td>EMH:  Replay last log entry.</td></tr>
 
-LOCATION--Doctor's office
+<tr id="L21"><td><a href="#L21">21</a></td><td>JANEWAY [on monitor]:  heavy casualties. The warp core is going critical and the ejection system is offline. I've ordered all personnel to abandon ship. Lieutenant Torres and I</td></tr>
 
-  EMH
-     Computer, transfer all bridge logs to this
-     station.
+<tr id="L22"><td><a href="#L22">22</a></td><td>ANNOTATION: The screen goes blank.</td></tr>
 
-  COMPUTER
-     Accessing bridge logs.
+<tr id="L23"><td><a href="#L23">23</a></td><td>EMH:  Computer, have any escape pods been ejected?</td></tr>
 
-  EMH
-     Replay last log entry.
+<tr id="L24"><td><a href="#L24">24</a></td><td>COMPUTER:  All escape pods were launched at twenty one hundred hours.</td></tr>
 
-  JANEWAY [on monitor]
-     heavy casualties. The warp core is going critical
-     and the ejection system is offline. I've ordered
-     all personnel to abandon ship. Lieutenant Torres
-     and I
+<tr id="L25"><td><a href="#L25">25</a></td><td>EMH:  Scan the ship for any humanoid life forms.</td></tr>
 
-  ANNOTATION
-     The screen goes blank.
+<tr id="L26"><td><a href="#L26">26</a></td><td>COMPUTER:  There are no humanoid life forms aboard this vessel.</td></tr>
 
-  EMH
-     Computer, have any escape pods been ejected?
+<tr id="L27"><td><a href="#L27">27</a></td><td>EMH:  Well, I'm glad everyone bothered to say goodbye. Chief Medical Officers log, stardate 48892.1. It appears that Voyager has suffered a disaster. What kind I don't know, but one thing is clear. The crew was forced to abandon ship. It would therefore seem that my usefulness has come to an end. I am terminating my programme. If anyone finds this log, I can be re-activated by</td></tr>
 
-  COMPUTER
-     All escape pods were launched at twenty one
-     hundred hours.
+<tr id="L28"><td><a href="#L28">28</a></td><td>ANNOTATION: There is a noise nearby.</td></tr>
 
-  EMH
-     Scan the ship for any humanoid life forms.
+<tr id="L29"><td><a href="#L29">29</a></td><td>EMH:  Hello?</td></tr>
 
-  COMPUTER
-     There are no humanoid life forms aboard this
-     vessel.
-
-  EMH
-     Well, I'm glad everyone bothered to say goodbye.
-     Chief Medical Officers log, stardate 48892.1. It
-     appears that Voyager has suffered a disaster. What
-     kind I don't know, but one thing is clear. The
-     crew was forced to abandon ship. It would
-     therefore seem that my usefulness has come to an
-     end. I am terminating my programme. If anyone
-     finds this log, I can be re-activated by
-
-  ANNOTATION
-     There is a noise nearby.
-
-  EMH
-     Hello?
-
-  ANNOTATION
-     Something is trying to get through the Sickbay
-     doors.
-
-
-LOCATION--Sickbay
-
-  ANNOTATION
-     The EMH loads a hypo.
-
-  EMH
-     Hello?
-
-  ANNOTATION
-     He stands by the door. A dirty pair of hands
-     finally prise the doors open. He grabs the person
-     and pulls them through.
-
-  TORRES
-     Doctor! What are you doing?
-
-  EMH
-     Sorry, I wasn't expecting a member of the crew.
-     The computer said everyone had left.
-
-  TORRES
-     The internal sensors were damaged during the
-     attack. They must not be reading every life sign
-     on the ship.
-
-  EMH
-     Attack?
-
-  TORRES
-     The Kazon. Two of their Predator class warships
-     took us by surprise, hit us with a volley of
-     plasma torpedoes. It started a core breach and we
-     had to abandon ship. The Captain and I stayed
-     behind to see if we could stop the breach. At the
-     last second we did.
-
-  ANNOTATION
-     The EMH starts to scan her.
-
-  EMH
-     Why didn't the crew return to the ship?
-
-  TORRES
-     Because they couldn't. The Kazon tractored all of
-     the life pods onto their ships. They went into
-     warp before we could stop them. What's wrong?
-
-  EMH
-     This tricorder isn't registering your life signs.
-     This one isn't working either.
-
-  TORRES
-     You've got to help the Captain. She was hit by a
-     falling support beam. I didn't want to risk moving
-     her so I had to leave her on the bridge.
-
-  EMH
-     Can't we beam her to Sickbay?
-
-  TORRES
-     The transporters are down. So are the turbolifts.
-     I had to crawl through thirty one Jefferies tubes
-     on five decks just to get here.
-
-  EMH
-     Then you're going to have to go back up there with
-     a medical kit. I'll instruct you on how to treat
-     her.
-
-  TORRES
-     You don't understand, Doctor. I'm not going, you
-     are. I'm sending you to the bridge.
-
-  EMH
-     That would be ideal, if it were possible, but my
-     projection system is limited to the Sickbay and
-     the holodecks.
-
-  TORRES
-     Not any more. For the past few weeks we've been
-     setting up holographic emitters on critical decks.
-     We were hoping to set up a remote holo-projection
-     system, give you access to other parts of the
-     ship.
-
-  EMH
-     Why wasn't I told about this?
-
-  TORRES
-     We hadn't even tested the system yet. There was no
-     guarantee it was going to work. I guess the
-     Captain didn't want to get your hopes up.
-
-  EMH
-     Her compassion is heart-warming. The next time I'd
-     rather be kept informed. Where are these remote
-     projectors?
-
-  TORRES
-     Decks one through five. We also put them in
-     Engineering, the Mess hall and the cargo bay. All
-     the projectors are in place but the problem is
-     we're going to have to interface with the Sickbay
-     imaging system. That's going to take a lot of
-     power and computer memory. I don't know if we have
-     enough reserve power to spare.
-
-  EMH
-     Most of the crew is gone. Could we divert power
-     from life support systems?
-
-  TORRES
-     Good idea. I can drop life support down to minimum
-     levels on the lower decks. That should give us
-     enough power. All right, I'll need another twenty
-     minutes to get the projectors online.
-
-  ANNOTATION
-     Later.
-
-  TORRES
-     All right, the remote projectors are charged and
-     ready to go. Imaging interface stable. Are you
-     ready to try this?
-
-  EMH
-     I assume there's still an emergency medical kit
-     behind the tactical console?
-
-  TORRES
-     That's right.
-
-  EMH
-     Then I'm ready.
-
-  TORRES
-     There are a couple of things you should know. In
-     order to do this I had to recalibrate your
-     containment field, so your holo-matrix will be
-     very sensitive to disruption. Try to stay away
-     from energy discharges. Phaser fire, forcefields,
-     that sort of thing.
-
-  EMH
-     I'll try.
-
-  TORRES
-     Make sure you do, because if your containment
-     field collapses it'll take hours to re-initialise
-     your programme.
-
-  EMH
-     Understood.
-
-  TORRES
-     I'm going to head down to engineering and try and
-     get some of the critical systems working. You'll
-     hear from me when I get the comm. system back
-     online. Unless, of course, this doesn't work, in
-     which case I'll see you in about five seconds.
-     Good luck, Doctor.
-
-  EMH
-     Thank you. I have a feeling I'll need it.
-
-
-LOCATION--Bridge
-
-  EMH
-     Well, It's bigger than I thought.
-
-  ANNOTATION
-     He checks on an unidentified crewman then goes to
-     where Janeway is lying face down.
-
-  EMH
-     Captain?
-
-  ANNOTATION
-     The tricorder from the emergency kit does not seem
-     to work, but the hypo does. Janeway groans and he
-     lifts her into a sitting position.
-
-  EMH
-     Hello, Captain. You're going to be fine.
+<tr id="L30"><td><a href="#L30">30</a></td><td>ANNOTATION: Something is trying to get through the Sickbay doors.</td></tr>
 
-  JANEWAY
-     Oh, Doctor. I see the new holoprojectors are
-     working.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L31"><td><a href="#L31">31</a></td><td>ANNOTATION: The EMH loads a hypo.</td></tr>
 
-  EMH
-     Lieutenant Torres was able to get them online. Are
-     you feeling any pain, dizziness, nausea?
+<tr id="L32"><td><a href="#L32">32</a></td><td>EMH:  Hello?</td></tr>
 
-  JANEWAY
-     I'm a little disoriented and I have one hell of a
-     headache.
+<tr id="L33"><td><a href="#L33">33</a></td><td>ANNOTATION: He stands by the door. A dirty pair of hands finally prise the doors open. He grabs the person and pulls them through.</td></tr>
 
-  EMH
-     For some reason none of the tricorders are
-     working, but from what I can tell you have a
-     concussion. I'd like to get you to Sickbay as soon
-     as possible.
+<tr id="L34"><td><a href="#L34">34</a></td><td>TORRES:  Doctor! What are you doing?</td></tr>
 
-  JANEWAY
-     The last thing I remember is launching the escape
-     pods. Lieutenant Torres and I were trying to stop
-     the core breach, and then I blacked out.
+<tr id="L35"><td><a href="#L35">35</a></td><td>EMH:  Sorry, I wasn't expecting a member of the crew. The computer said everyone had left.</td></tr>
 
-  EMH
-     You were successful in preventing the breach.
+<tr id="L36"><td><a href="#L36">36</a></td><td>TORRES:  The internal sensors were damaged during the attack. They must not be reading every life sign on the ship.</td></tr>
 
-  JANEWAY
-     And the crew?
+<tr id="L37"><td><a href="#L37">37</a></td><td>EMH:  Attack?</td></tr>
 
-  EMH
-     They were taken prisoner by the Kazon.
+<tr id="L38"><td><a href="#L38">38</a></td><td>TORRES:  The Kazon. Two of their Predator class warships took us by surprise, hit us with a volley of plasma torpedoes. It started a core breach and we had to abandon ship. The Captain and I stayed behind to see if we could stop the breach. At the last second we did.</td></tr>
 
-  TORRES [OC]
-     Torres to bridge, can you hear me?
+<tr id="L39"><td><a href="#L39">39</a></td><td>ANNOTATION: The EMH starts to scan her.</td></tr>
 
-  JANEWAY
-     Yes, Lieutenant, we hear you. Go ahead.
+<tr id="L40"><td><a href="#L40">40</a></td><td>EMH:  Why didn't the crew return to the ship?</td></tr>
 
-  TORRES [OC]
-     Are you all right, Captain?
+<tr id="L41"><td><a href="#L41">41</a></td><td>TORRES:  Because they couldn't. The Kazon tractored all of the life pods onto their ships. They went into warp before we could stop them. What's wrong?</td></tr>
 
-  JANEWAY
-     I'm fine. I'm glad you convinced the Doctor to
-     make a house call. What's our status?
+<tr id="L42"><td><a href="#L42">42</a></td><td>EMH:  This tricorder isn't registering your life signs. This one isn't working either.</td></tr>
 
-  TORRES [OC]
-     I've got communications back online and I think I
-     can re-activate the warp core, but it'll mean
-     recrystallising the entire dilithium matrix.
+<tr id="L43"><td><a href="#L43">43</a></td><td>TORRES:  You've got to help the Captain. She was hit by a falling support beam. I didn't want to risk moving her so I had to leave her on the bridge.</td></tr>
 
-  JANEWAY
-     Keep on it. In the meantime I'll see if I can
-     restore the bridge controls and start scanning for
-     the Kazon ships.
+<tr id="L44"><td><a href="#L44">44</a></td><td>EMH:  Can't we beam her to Sickbay?</td></tr>
 
-  TORRES [OC]
-     Aye, Captain. Torres out.
+<tr id="L45"><td><a href="#L45">45</a></td><td>TORRES:  The transporters are down. So are the turbolifts. I had to crawl through thirty one Jefferies tubes on five decks just to get here.</td></tr>
 
-  JANEWAY
-     Doctor, do you know anything about bypassing a
-     power relay?
+<tr id="L46"><td><a href="#L46">46</a></td><td>EMH:  Then you're going to have to go back up there with a medical kit. I'll instruct you on how to treat her.</td></tr>
 
-  EMH
-     Is it anything like a coronary bypass?
+<tr id="L47"><td><a href="#L47">47</a></td><td>TORRES:  You don't understand, Doctor. I'm not going, you are. I'm sending you to the bridge.</td></tr>
 
-  JANEWAY
-     Actually, it is. Give me a hand. See this conduit?
-     It's a power relay. It's circuits are burnt out.
-     What we need to do is reconfigure the
+<tr id="L48"><td><a href="#L48">48</a></td><td>EMH:  That would be ideal, if it were possible, but my projection system is limited to the Sickbay and the holodecks.</td></tr>
 
-  NEELIX [OC]
-     Neelix to bridge. Is anyone there? Emergency!
+<tr id="L49"><td><a href="#L49">49</a></td><td>TORRES:  Not any more. For the past few weeks we've been setting up holographic emitters on critical decks. We were hoping to set up a remote holo-projection system, give you access to other parts of the ship.</td></tr>
 
-  JANEWAY
-     Neelix, this is the Captain. What's wrong?
+<tr id="L50"><td><a href="#L50">50</a></td><td>EMH:  Why wasn't I told about this?</td></tr>
 
-  NEELIX [OC]
-     Help. I need help! I'm in the mess hall. There's a
+<tr id="L51"><td><a href="#L51">51</a></td><td>TORRES:  We hadn't even tested the system yet. There was no guarantee it was going to work. I guess the Captain didn't want to get your hopes up.</td></tr>
 
-  ANNOTATION
-     Weapons fire.
+<tr id="L52"><td><a href="#L52">52</a></td><td>EMH:  Her compassion is heart-warming. The next time I'd rather be kept informed. Where are these remote projectors?</td></tr>
 
-  JANEWAY
-     Neelix, are you there? Neelix? With the turbolifts
-     down it'll take me a half hour to get there.
-     Doctor, it's up to you. I'll use the remote
-     projectors to send you to the Mess hall. Stand by
-     for transfer.
+<tr id="L53"><td><a href="#L53">53</a></td><td>TORRES:  Decks one through five. We also put them in Engineering, the Mess hall and the cargo bay. All the projectors are in place but the problem is we're going to have to interface with the Sickbay imaging system. That's going to take a lot of power and computer memory. I don't know if we have enough reserve power to spare.</td></tr>
 
+<tr id="L54"><td><a href="#L54">54</a></td><td>EMH:  Most of the crew is gone. Could we divert power from life support systems?</td></tr>
 
-LOCATION--Mess hall
+<tr id="L55"><td><a href="#L55">55</a></td><td>TORRES:  Good idea. I can drop life support down to minimum levels on the lower decks. That should give us enough power. All right, I'll need another twenty minutes to get the projectors online.</td></tr>
 
-  ANNOTATION
-     A clatter of pots and pans.
+<tr id="L56"><td><a href="#L56">56</a></td><td>ANNOTATION: Later.</td></tr>
 
-  NEELIX
-     I hope that crushed your skull, Kazon pus hog.
+<tr id="L57"><td><a href="#L57">57</a></td><td>TORRES:  All right, the remote projectors are charged and ready to go. Imaging interface stable. Are you ready to try this?</td></tr>
 
-  EMH
-     Kazon!
+<tr id="L58"><td><a href="#L58">58</a></td><td>EMH:  I assume there's still an emergency medical kit behind the tactical console?</td></tr>
 
-  ANNOTATION
-     The EMH ducks down under the tables and crawls
-     along while Neelix catapults fruit and vegetables
-     at a shadowy figure cowering by the window.
+<tr id="L59"><td><a href="#L59">59</a></td><td>TORRES:  That's right.</td></tr>
 
-  NEELIX
-     What's it like to stare death in the face, Kazon?
+<tr id="L60"><td><a href="#L60">60</a></td><td>EMH:  Then I'm ready.</td></tr>
 
-  ANNOTATION
-     The Kazon shoots his rifle at Neelix.
+<tr id="L61"><td><a href="#L61">61</a></td><td>TORRES:  There are a couple of things you should know. In order to do this I had to recalibrate your containment field, so your holo-matrix will be very sensitive to disruption. Try to stay away from energy discharges. Phaser fire, forcefields, that sort of thing.</td></tr>
 
-  NEELIX
-     Missed me!
+<tr id="L62"><td><a href="#L62">62</a></td><td>EMH:  I'll try.</td></tr>
 
-  ANNOTATION
-     The EMH makes his way behind the Kazon.
+<tr id="L63"><td><a href="#L63">63</a></td><td>TORRES:  Make sure you do, because if your containment field collapses it'll take hours to re-initialise your programme.</td></tr>
 
-  NEELIX
-     I suggest you surrender now, Kazon. The Captain's
-     on her way!
+<tr id="L64"><td><a href="#L64">64</a></td><td>EMH:  Understood.</td></tr>
 
-  ANNOTATION
-     Neelix continues his barrage.
+<tr id="L65"><td><a href="#L65">65</a></td><td>TORRES:  I'm going to head down to engineering and try and get some of the critical systems working. You'll hear from me when I get the comm. system back online. Unless, of course, this doesn't work, in which case I'll see you in about five seconds. Good luck, Doctor.</td></tr>
 
-  NEELIX
-     Want some more, you needle-snake?
+<tr id="L66"><td><a href="#L66">66</a></td><td>EMH:  Thank you. I have a feeling I'll need it.</td></tr>
 
-  ANNOTATION
-     The EMH jumps the Kaxon from behind. Neelix runs
-     out of the kitchen and smacks the Kazon across the
-     head with a pan, making a dent in it.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L67"><td><a href="#L67">67</a></td><td>EMH:  Well, It's bigger than I thought.</td></tr>
 
-  NEELIX
-     My best saut pan. Good work, Doctor.
+<tr id="L68"><td><a href="#L68">68</a></td><td>ANNOTATION: He checks on an unidentified crewman then goes to where Janeway is lying face down.</td></tr>
 
-  EMH
-     You're injured.
+<tr id="L69"><td><a href="#L69">69</a></td><td>EMH:  Captain?</td></tr>
 
-  ANNOTATION
-     Neelix sees the red on his shoulder.
+<tr id="L70"><td><a href="#L70">70</a></td><td>ANNOTATION: The tricorder from the emergency kit does not seem to work, but the hypo does. Janeway groans and he lifts her into a sitting position.</td></tr>
 
-  NEELIX
-     Ahhh! What's wrong? Is it serious?
+<tr id="L71"><td><a href="#L71">71</a></td><td>EMH:  Hello, Captain. You're going to be fine.</td></tr>
 
-  EMH
-     Don't panic, Mister Neelix. It looks superficial.
+<tr id="L72"><td><a href="#L72">72</a></td><td>JANEWAY:  Oh, Doctor. I see the new holoprojectors are working.</td></tr>
 
-  NEELIX
-     Am I going to die?
+<tr id="L73"><td><a href="#L73">73</a></td><td>EMH:  Lieutenant Torres was able to get them online. Are you feeling any pain, dizziness, nausea?</td></tr>
 
-  EMH
-     Not unless you're allergic to tomatoes. That isn't
-     blood, it's some kind of sauce.
+<tr id="L74"><td><a href="#L74">74</a></td><td>JANEWAY:  I'm a little disoriented and I have one hell of a headache.</td></tr>
 
-  NEELIX
-     Nondoran tomato paste. Oh, that'll leave a nasty
-     stain. What are you doing here, Doctor?
+<tr id="L75"><td><a href="#L75">75</a></td><td>EMH:  For some reason none of the tricorders are working, but from what I can tell you have a concussion. I'd like to get you to Sickbay as soon as possible.</td></tr>
 
-  EMH
-     I could ask you the same thing.
+<tr id="L76"><td><a href="#L76">76</a></td><td>JANEWAY:  The last thing I remember is launching the escape pods. Lieutenant Torres and I were trying to stop the core breach, and then I blacked out.</td></tr>
 
-  NEELIX
-     Kes and I were on our way to the escape pod when
-     this Kazon fungus came crawling out of an access
-     hatch. I kept him occupied long enough for Kes to
-     get away but he didn't give up so easily. So I
-     took off running, he chased me and I led him here.
-     No one gets the best of me in my kitchen! I'm fine
-     now. The question is, are you?
+<tr id="L77"><td><a href="#L77">77</a></td><td>EMH:  You were successful in preventing the breach.</td></tr>
 
-  EMH
-     Me?
+<tr id="L78"><td><a href="#L78">78</a></td><td>JANEWAY:  And the crew?</td></tr>
 
-  NEELIX
-     You're bleeding.
+<tr id="L79"><td><a href="#L79">79</a></td><td>EMH:  They were taken prisoner by the Kazon.</td></tr>
 
-  EMH
-     Bleeding? That's impossible.
+<tr id="L80"><td><a href="#L80">80</a></td><td>TORRES [OC]:  Torres to bridge, can you hear me?</td></tr>
 
-  ANNOTATION
-     But there is blood behind his ear.
+<tr id="L81"><td><a href="#L81">81</a></td><td>JANEWAY:  Yes, Lieutenant, we hear you. Go ahead.</td></tr>
 
-  NEELIX
-     Don't panic, Doctor. It looks superficial.
+<tr id="L82"><td><a href="#L82">82</a></td><td>TORRES [OC]:  Are you all right, Captain?</td></tr>
 
-  EMH
-     I'm not programmed to bleed.
+<tr id="L83"><td><a href="#L83">83</a></td><td>JANEWAY:  I'm fine. I'm glad you convinced the Doctor to make a house call. What's our status?</td></tr>
 
-  NEELIX
-     Maybe you should check your programme.
+<tr id="L84"><td><a href="#L84">84</a></td><td>TORRES [OC]:  I've got communications back online and I think I can re-activate the warp core, but it'll mean recrystallising the entire dilithium matrix.</td></tr>
 
-  EMH
-     Emergency Medical Hologram to Captain Janeway.
+<tr id="L85"><td><a href="#L85">85</a></td><td>JANEWAY:  Keep on it. In the meantime I'll see if I can restore the bridge controls and start scanning for the Kazon ships.</td></tr>
 
-  JANEWAY [OC]
-     Go ahead Doctor.
+<tr id="L86"><td><a href="#L86">86</a></td><td>TORRES [OC]:  Aye, Captain. Torres out.</td></tr>
 
-  EMH
-     Captain, we've captured a Kazon. He's been
-     rendered unconscious and Mister Neelix is fine.
-     But I believe my programme is malfunctioning. I
-     request that you return me to sickbay immediately.
+<tr id="L87"><td><a href="#L87">87</a></td><td>JANEWAY:  Doctor, do you know anything about bypassing a power relay?</td></tr>
 
-  JANEWAY [OC]
-     Acknowledged. Mr Neelix, keep an eye on the Kazon
-     until I get there. I'm on my way.
+<tr id="L88"><td><a href="#L88">88</a></td><td>EMH:  Is it anything like a coronary bypass?</td></tr>
 
-  NEELIX
-     No problem, Captain.
+<tr id="L89"><td><a href="#L89">89</a></td><td>JANEWAY:  Actually, it is. Give me a hand. See this conduit? It's a power relay. It's circuits are burnt out. What we need to do is reconfigure the</td></tr>
 
+<tr id="L90"><td><a href="#L90">90</a></td><td>NEELIX [OC]:  Neelix to bridge. Is anyone there? Emergency!</td></tr>
 
-LOCATION--Sickbay
+<tr id="L91"><td><a href="#L91">91</a></td><td>JANEWAY:  Neelix, this is the Captain. What's wrong?</td></tr>
 
-  ANNOTATION
-     The EMH dabs at his wound and winces.
+<tr id="L92"><td><a href="#L92">92</a></td><td>NEELIX [OC]:  Help. I need help! I'm in the mess hall. There's a</td></tr>
 
-  EMH
-     Pain? I'm not programmed to feel pain.
+<tr id="L93"><td><a href="#L93">93</a></td><td>ANNOTATION: Weapons fire.</td></tr>
 
-  ANNOTATION
-     He scans himself.
+<tr id="L94"><td><a href="#L94">94</a></td><td>JANEWAY:  Neelix, are you there? Neelix? With the turbolifts down it'll take me a half hour to get there. Doctor, it's up to you. I'll use the remote projectors to send you to the Mess hall. Stand by for transfer.</td></tr>
 
-  EMH
-     Heart rate, blood pressure, brain patterns?
-     Computer, analyse Emergency Medical Holographic
-     programme. Has it been altered in any way to
-     include life signs?
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L95"><td><a href="#L95">95</a></td><td>ANNOTATION: A clatter of pots and pans.</td></tr>
 
-  COMPUTER
-     Unable to comply. Requested programme is not on
-     file.
+<tr id="L96"><td><a href="#L96">96</a></td><td>NEELIX:  I hope that crushed your skull, Kazon pus hog.</td></tr>
 
-  EMH
-     Not on file? The programme's running right now!
-     Display schematics for all Sickbay holographic
-     systems.
+<tr id="L97"><td><a href="#L97">97</a></td><td>EMH:  Kazon!</td></tr>
 
-  COMPUTER
-     No holographic systems exist in Sickbay.
+<tr id="L98"><td><a href="#L98">98</a></td><td>ANNOTATION: The EMH ducks down under the tables and crawls along while Neelix catapults fruit and vegetables at a shadowy figure cowering by the window.</td></tr>
 
-  EMH
-     EMH programme A K one diagnostic and surgical
-     subroutine omega three two three. Check the
-     database and you'll find it!
+<tr id="L99"><td><a href="#L99">99</a></td><td>NEELIX:  What's it like to stare death in the face, Kazon?</td></tr>
 
-  COMPUTER
-     Specified programme does not exist.
+<tr id="L100"><td><a href="#L100">100</a></td><td>ANNOTATION: The Kazon shoots his rifle at Neelix.</td></tr>
 
-  EMH
-     Well, then, who is the Chief Medical Officer on
-     board this ship?
+<tr id="L101"><td><a href="#L101">101</a></td><td>NEELIX:  Missed me!</td></tr>
 
-  COMPUTER
-     The Chief Medical Officer of USS Voyager is Doctor
-     Louis Zimmerman.
+<tr id="L102"><td><a href="#L102">102</a></td><td>ANNOTATION: The EMH makes his way behind the Kazon.</td></tr>
 
-  EMH
-     Louis Zimmerman? Yes. He was the engineer who
-     created my programme. I understand he resembles me
-     but, he's not on Voyager! He's at the Jupiter
-     Station Holo-Programming Centre. Computer, how
-     long has Doctor Zimmerman served on Voyager?
+<tr id="L103"><td><a href="#L103">103</a></td><td>NEELIX:  I suggest you surrender now, Kazon. The Captain's on her way!</td></tr>
 
-  COMPUTER
-     Doctor Zimmerman commenced duty on stardate
-     48308.2
+<tr id="L104"><td><a href="#L104">104</a></td><td>ANNOTATION: Neelix continues his barrage.</td></tr>
 
-  EMH
-     48308. That's the date I was activated. Computer,
-     display all Starfleet records on Doctor Lewis
-     Zimmerman.
+<tr id="L105"><td><a href="#L105">105</a></td><td>NEELIX:  Want some more, you needle-snake?</td></tr>
 
-  ANNOTATION
-     Personnel database 2794 comes up on a monitor.
+<tr id="L106"><td><a href="#L106">106</a></td><td>ANNOTATION: The EMH jumps the Kaxon from behind. Neelix runs out of the kitchen and smacks the Kazon across the head with a pan, making a dent in it.</td></tr>
 
-  EMH
-     He looks a lot like me. In fact, he looks exactly
-     like me. Computer, is this me?
+<tr id="L107"><td><a href="#L107">107</a></td><td>NEELIX:  My best saut pan. Good work, Doctor.</td></tr>
 
-  COMPUTER
-     Affirmative. Doctor Lewis Zimmerman.
+<tr id="L108"><td><a href="#L108">108</a></td><td>EMH:  You're injured.</td></tr>
 
-  ANNOTATION
-     Janeway, Torres and Neelix enter with the Kazon.
+<tr id="L109"><td><a href="#L109">109</a></td><td>ANNOTATION: Neelix sees the red on his shoulder.</td></tr>
 
-  JANEWAY
-     Doctor, we've almost got the warp core back
-     online, but we need to know where the crew was
-     taken. I want you to perform an ARA scan on the
-     Kazon while we question him. Is something wrong?
+<tr id="L110"><td><a href="#L110">110</a></td><td>NEELIX:  Ahhh! What's wrong? Is it serious?</td></tr>
 
-  EMH
-     Something's very wrong. These tricorders aren't
-     picking up any of your life signs. At first I
-     thought they were malfunctioning, but now I find
-     they show me to be a living, breathing, bleeding
-     human being.
+<tr id="L111"><td><a href="#L111">111</a></td><td>EMH:  Don't panic, Mister Neelix. It looks superficial.</td></tr>
 
-  JANEWAY
-     What?
+<tr id="L112"><td><a href="#L112">112</a></td><td>NEELIX:  Am I going to die?</td></tr>
 
-  EMH
-     And that's not all. According to the computer, I'm
-     not a hologram. I'm a real person named Zimmerman.
-     I've been trying to analyse my programme but the
-     computer says it doesn't exist.
+<tr id="L113"><td><a href="#L113">113</a></td><td>EMH:  Not unless you're allergic to tomatoes. That isn't blood, it's some kind of sauce.</td></tr>
 
-  JANEWAY
-     This could be a problem with the remote
-     projectors. The multiple holographic signals may
-     be confusing the computer. I'm going to deactivate
-     you and then re-initialise your programme
-     parameters. Computer, discontinue Emergency
-     Medical Holographic system.
+<tr id="L114"><td><a href="#L114">114</a></td><td>NEELIX:  Nondoran tomato paste. Oh, that'll leave a nasty stain. What are you doing here, Doctor?</td></tr>
 
-  EMH
-     See what I mean?
+<tr id="L115"><td><a href="#L115">115</a></td><td>EMH:  I could ask you the same thing.</td></tr>
 
-  JANEWAY
-     You're right. Your programme's not anywhere on
-     file. Computer, shut down all holographic systems
-     throughout the ship.
+<tr id="L116"><td><a href="#L116">116</a></td><td>NEELIX:  Kes and I were on our way to the escape pod when this Kazon fungus came crawling out of an access hatch. I kept him occupied long enough for Kes to get away but he didn't give up so easily. So I took off running, he chased me and I led him here. No one gets the best of me in my kitchen! I'm fine now. The question is, are you?</td></tr>
 
-  ANNOTATION
-     Janeway, Torres, Neelix and the Kazon vanish.
+<tr id="L117"><td><a href="#L117">117</a></td><td>EMH:  Me?</td></tr>
 
-  EMH
-     Computer, what happened to Captain Janeway,
-     Lieutenant Torres, Mister Neelix and the Kazon?
+<tr id="L118"><td><a href="#L118">118</a></td><td>NEELIX:  You're bleeding.</td></tr>
 
-  COMPUTER
-     All holographic simulations were discontinued.
+<tr id="L119"><td><a href="#L119">119</a></td><td>EMH:  Bleeding? That's impossible.</td></tr>
 
-  EMH
-     Simulations? Computer, I'm talking about real
-     people. Locate Captain Janeway.
+<tr id="L120"><td><a href="#L120">120</a></td><td>ANNOTATION: But there is blood behind his ear.</td></tr>
 
-  COMPUTER
-     Captain Janeway is stored in memory block forty
-     seven alpha.
+<tr id="L121"><td><a href="#L121">121</a></td><td>NEELIX:  Don't panic, Doctor. It looks superficial.</td></tr>
 
-  EMH
-     List all other programmes stored in that memory
-     block. This is the entire Voyager crew. Computer,
-     are you saying that the crew is nothing more than
-     a collection of holographic programmes?
+<tr id="L122"><td><a href="#L122">122</a></td><td>EMH:  I'm not programmed to bleed.</td></tr>
 
-  COMPUTER
-     Affirmative.
+<tr id="L123"><td><a href="#L123">123</a></td><td>NEELIX:  Maybe you should check your programme.</td></tr>
 
-  EMH
-     This is ridiculous. There must be something wrong.
+<tr id="L124"><td><a href="#L124">124</a></td><td>EMH:  Emergency Medical Hologram to Captain Janeway.</td></tr>
 
-  ANNOTATION
-     A Starfleet Lieutenant appears. Everyone say Hi!
-     to [1]Dwight Schultz.
+<tr id="L125"><td><a href="#L125">125</a></td><td>JANEWAY [OC]:  Go ahead Doctor.</td></tr>
 
-  BARCLAY
-     Doctor, am I glad to see you. Can you see me?
+<tr id="L126"><td><a href="#L126">126</a></td><td>EMH:  Captain, we've captured a Kazon. He's been rendered unconscious and Mister Neelix is fine. But I believe my programme is malfunctioning. I request that you return me to sickbay immediately.</td></tr>
 
-  EMH
-     Of course I can see you. Who are you?
+<tr id="L127"><td><a href="#L127">127</a></td><td>JANEWAY [OC]:  Acknowledged. Mr Neelix, keep an eye on the Kazon until I get there. I'm on my way.</td></tr>
 
-  BARCLAY
-     Sir, it's me. It's Lieutenant Barclay. Reg. Your
-     assistant.
+<tr id="L128"><td><a href="#L128">128</a></td><td>NEELIX:  No problem, Captain.</td></tr>
 
-  EMH
-     My assistant's name is Kes. Who are you?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L129"><td><a href="#L129">129</a></td><td>ANNOTATION: The EMH dabs at his wound and winces.</td></tr>
 
-  BARCLAY
-     Uh-oh.
+<tr id="L130"><td><a href="#L130">130</a></td><td>EMH:  Pain? I'm not programmed to feel pain.</td></tr>
 
-  EMH
-     What?
+<tr id="L131"><td><a href="#L131">131</a></td><td>ANNOTATION: He scans himself.</td></tr>
 
-  BARCLAY
-     Oh, no, this is bad. This is very bad. Don't
-     panic. Let's just try to think our way through
-     this.
+<tr id="L132"><td><a href="#L132">132</a></td><td>EMH:  Heart rate, blood pressure, brain patterns? Computer, analyse Emergency Medical Holographic programme. Has it been altered in any way to include life signs?</td></tr>
 
-  EMH
-     I'm not familiar with you. Are you a member of the
-     Voyager crew or have we encountered another
-     Federation ship?
+<tr id="L133"><td><a href="#L133">133</a></td><td>COMPUTER:  Unable to comply. Requested programme is not on file.</td></tr>
 
-  BARCLAY
-     Oh, boy. The Voyager. Oh, boy. This is going to
-     sound a little crazy from your perspective, but
-     you've got to trust me. None of this is happening.
-     This is all a holographic simulation that you've
-     been running.
+<tr id="L134"><td><a href="#L134">134</a></td><td>EMH:  Not on file? The programme's running right now! Display schematics for all Sickbay holographic systems.</td></tr>
 
-  EMH
-     What are you talking about.
+<tr id="L135"><td><a href="#L135">135</a></td><td>COMPUTER:  No holographic systems exist in Sickbay.</td></tr>
 
-  BARCLAY
-     You're in the holodeck at the Jupiter Station.
-     Your name is Doctor Lewis Zimmerman, you're a
-     holo-engineer and you've been running a programme
-     that's malfunctioning and we've been trying to
-     reach you.
+<tr id="L136"><td><a href="#L136">136</a></td><td>EMH:  EMH programme A K one diagnostic and surgical subroutine omega three two three. Check the database and you'll find it!</td></tr>
 
-  EMH
-     What are you saying? That I'm a real person?
+<tr id="L137"><td><a href="#L137">137</a></td><td>COMPUTER:  Specified programme does not exist.</td></tr>
 
-  BARCLAY
-     Well, I always used to think of you that way and I
-     know your wife tends to think
+<tr id="L138"><td><a href="#L138">138</a></td><td>EMH:  Well, then, who is the Chief Medical Officer on board this ship?</td></tr>
 
-  EMH
-     My wife?
+<tr id="L139"><td><a href="#L139">139</a></td><td>COMPUTER:  The Chief Medical Officer of USS Voyager is Doctor Louis Zimmerman.</td></tr>
 
-  BARCLAY
-     We'd, er, we'd better take this one step at a
-     time.
+<tr id="L140"><td><a href="#L140">140</a></td><td>EMH:  Louis Zimmerman? Yes. He was the engineer who created my programme. I understand he resembles me but, he's not on Voyager! He's at the Jupiter Station Holo-Programming Centre. Computer, how long has Doctor Zimmerman served on Voyager?</td></tr>
 
-  EMH
-     Please do.
+<tr id="L141"><td><a href="#L141">141</a></td><td>COMPUTER:  Doctor Zimmerman commenced duty on stardate 48308.2</td></tr>
 
-  BARCLAY
-     Well, you see, this starship, it's not really a
-     starship.
+<tr id="L142"><td><a href="#L142">142</a></td><td>EMH:  48308. That's the date I was activated. Computer, display all Starfleet records on Doctor Lewis Zimmerman.</td></tr>
 
+<tr id="L143"><td><a href="#L143">143</a></td><td>ANNOTATION: Personnel database 2794 comes up on a monitor.</td></tr>
 
-LOCATION--Doctor's office
+<tr id="L144"><td><a href="#L144">144</a></td><td>EMH:  He looks a lot like me. In fact, he looks exactly like me. Computer, is this me?</td></tr>
 
-  BARCLAY
-     It was a programme that you wrote to study the
-     psychological impact of long term isolation on a
-     crew made up of Starfleet and Maquis crewmembers.
+<tr id="L145"><td><a href="#L145">145</a></td><td>COMPUTER:  Affirmative. Doctor Lewis Zimmerman.</td></tr>
 
-  EMH
-     A programme I wrote? That's preposterous. I'm the
-     programme. Voyager is a real ship, manned by real
-     people.
+<tr id="L146"><td><a href="#L146">146</a></td><td>ANNOTATION: Janeway, Torres and Neelix enter with the Kazon.</td></tr>
 
-  BARCLAY
-     I'm afraid not. This must have something to do
-     with the radiation surge.
+<tr id="L147"><td><a href="#L147">147</a></td><td>JANEWAY:  Doctor, we've almost got the warp core back online, but we need to know where the crew was taken. I want you to perform an ARA scan on the Kazon while we question him. Is something wrong?</td></tr>
 
-  EMH
-     What was that?
+<tr id="L148"><td><a href="#L148">148</a></td><td>EMH:  Something's very wrong. These tricorders aren't picking up any of your life signs. At first I thought they were malfunctioning, but now I find they show me to be a living, breathing, bleeding human being.</td></tr>
 
-  BARCLAY
-     We've been having problems shutting the programme
-     down because of a kinoplasmic radiation surge on
-     the station. It's affected all of the computer
-     systems, including the holodecks. The radiation
-     must be affecting the memory centres of your
-     brain.
+<tr id="L149"><td><a href="#L149">149</a></td><td>JANEWAY:  What?</td></tr>
 
-  EMH
-     How did you get in here?
+<tr id="L150"><td><a href="#L150">150</a></td><td>EMH:  And that's not all. According to the computer, I'm not a hologram. I'm a real person named Zimmerman. I've been trying to analyse my programme but the computer says it doesn't exist.</td></tr>
 
-  BARCLAY
-     I'm not really here. Clearly, I'm here because
-     we're talking. You see, what I mean is, I'm in a
-     control booth outside of the holodeck. What you
-     see is a projection of my body so that we can
-     communicate. We've been trying to get in here, or
-     send a comm. signal in for nearly six hours.
+<tr id="L151"><td><a href="#L151">151</a></td><td>JANEWAY:  This could be a problem with the remote projectors. The multiple holographic signals may be confusing the computer. I'm going to deactivate you and then re-initialise your programme parameters. Computer, discontinue Emergency Medical Holographic system.</td></tr>
 
-  EMH
-     You expect me to believe that the past six months
-     I've spent on this ship have been nothing but a
-     simulation?
+<tr id="L152"><td><a href="#L152">152</a></td><td>EMH:  See what I mean?</td></tr>
 
-  BARCLAY
-     You haven't been here six months. You've only been
-     here six hours.
-
-  EMH
-     That's impossible! I have very clear memories of
-     my first appearance on Voyager. Meeting Captain
-     Janeway for the first time. I've had numerous
-     experiences aboard this ship.
+<tr id="L153"><td><a href="#L153">153</a></td><td>JANEWAY:  You're right. Your programme's not anywhere on file. Computer, shut down all holographic systems throughout the ship.</td></tr>
 
-  BARCLAY
-     That's all part of the simulation.
-
-  EMH
-     How do I know you're not some kind of alien,
-     impersonating a Starfleet officer.
+<tr id="L154"><td><a href="#L154">154</a></td><td>ANNOTATION: Janeway, Torres, Neelix and the Kazon vanish.</td></tr>
 
-  BARCLAY
-     Look, Doctor, it's very important that you believe
-     me. You're losing your sense of identity. You're
-     starting to think that you're part of the
-     programme and that's, that's not good. It's called
-     HTDS. Holo Transference Dementia Syndrome.
-
-  EMH
-     So now I'm having a psychotic episode.
+<tr id="L155"><td><a href="#L155">155</a></td><td>EMH:  Computer, what happened to Captain Janeway, Lieutenant Torres, Mister Neelix and the Kazon?</td></tr>
 
-  BARCLAY
-     No. Yes. I mean, maybe the radiation. Doctor, I'm
-     sorry I have to do this.
-
-  ANNOTATION
-     Barclay slaps the EMH's face.
-
-  EMH
-     How dare you!
-
-  BARCLAY
-     It hurt, right? If you were a programme it
-     wouldn't hurt.
-
-  EMH
-     I could be programmed to think it hurt.
-
-  BARCLAY
-     Doctor.
-
-  ANNOTATION
-     The EMH slaps Barclay.
-
-  BARCLAY
-     I'll be back. I've got to discuss this with the
-     others. Don't, don't go anywhere.
-
-  ANNOTATION
-     Barclay vanishes.
-
-  EMH
-     Pain. Pain, why would I have pain? I think I'm
-     hungry. I'm not sure what for, but I'm definitely
-     hungry. This is impossible.
-
-  ANNOTATION
-     Barclay returns.
-
-  BARCLAY
-     The problem is worse than we thought. The
-     radiation is disrupting the command protocols. We
-     can't shut the programme down, and while the
-     programme is running we can't access the holodeck
-     grid.
-
-  EMH
-     Why don't you beam me out of here?
-
-  BARCLAY
-     We tried, but the radiation is interfering with
-     the transporters and we can't get a lock on you.
-     I've consulted with our neurologist, Doctor
-     Kaplin, and he said if we can't get you out of
-     here within the next hour, that the radiation
-     would completely oxidise your neurocellular
-     structures.
-
-  EMH
-     So, what do you suggest?
+<tr id="L156"><td><a href="#L156">156</a></td><td>COMPUTER:  All holographic simulations were discontinued.</td></tr>
 
-  BARCLAY
-     There's only one way left to terminate the
-     programme, and that's to play it out. Bring it to
-     it's conclusion and once the simulation ends,
-     it'll release the access locks on the holodeck
-     arch and we can get you out of here.
+<tr id="L157"><td><a href="#L157">157</a></td><td>EMH:  Simulations? Computer, I'm talking about real people. Locate Captain Janeway.</td></tr>
 
-  EMH
-     How does it conclude?
+<tr id="L158"><td><a href="#L158">158</a></td><td>COMPUTER:  Captain Janeway is stored in memory block forty seven alpha.</td></tr>
 
-  BARCLAY
-     You programmed two possible outcomes. Either
-     Voyager finds its way back to Federation space, or
-     it's destroyed in the process. But the simulation
-     was designed to run for weeks before either
-     happens. But I know of a way that you can bring it
-     to an end right now. Destroy the ship.
+<tr id="L159"><td><a href="#L159">159</a></td><td>EMH:  List all other programmes stored in that memory block. This is the entire Voyager crew. Computer, are you saying that the crew is nothing more than a collection of holographic programmes?</td></tr>
 
-  EMH
-     Destroy the ship? Destroy Voyager?
+<tr id="L160"><td><a href="#L160">160</a></td><td>COMPUTER:  Affirmative.</td></tr>
 
-  BARCLAY
-     This is just a simulation, Lewis. None of this is
-     real. And unless you destroy this ship that you
-     think you're on, you're going to die.
+<tr id="L161"><td><a href="#L161">161</a></td><td>EMH:  This is ridiculous. There must be something wrong.</td></tr>
 
-  EMH
-     No. No, absolutely not.
+<tr id="L162"><td><a href="#L162">162</a></td><td>ANNOTATION: A Starfleet Lieutenant appears. Everyone say Hi! to [1]Dwight Schultz.</td></tr>
 
-  BARCLAY
-     Doctor, it's the only way.
+<tr id="L163"><td><a href="#L163">163</a></td><td>BARCLAY:  Doctor, am I glad to see you. Can you see me?</td></tr>
 
-  EMH
-     First of all, I don't even know how to destroy the
-     ship. Second of all I wouldn't do it even if I
-     could, and third, how do I know you're not an
-     alien intruder trying to trick me into killing
-     everyone?
+<tr id="L164"><td><a href="#L164">164</a></td><td>EMH:  Of course I can see you. Who are you?</td></tr>
 
-  BARCLAY
-     Well, those are good questions. First, I can tell
-     you how to destroy the Voyager. Second, if you
-     don't do it, you're going to die. And third. Well,
-     I'm just not an alien and I don't know how else to
-     convince you of that.
+<tr id="L165"><td><a href="#L165">165</a></td><td>BARCLAY:  Sir, it's me. It's Lieutenant Barclay. Reg. Your assistant.</td></tr>
 
-  EMH
-     If what you're saying is true, why don't you
-     destroy the ship? Why do I have to do it?
+<tr id="L166"><td><a href="#L166">166</a></td><td>EMH:  My assistant's name is Kes. Who are you?</td></tr>
 
-  BARCLAY
-     You are the one running the simulation. It's coded
-     to respond to your input, not mine.
+<tr id="L167"><td><a href="#L167">167</a></td><td>BARCLAY:  Uh-oh.</td></tr>
 
-  EMH
-     I'm sorry, Mister Barclay, if that's what your
-     name really is, but you're not very convincing.
+<tr id="L168"><td><a href="#L168">168</a></td><td>EMH:  What?</td></tr>
 
-  BARCLAY
-     Here, use this tricorder. Scan the room outwards
-     to a distance of fifteen metres.
+<tr id="L169"><td><a href="#L169">169</a></td><td>BARCLAY:  Oh, no, this is bad. This is very bad. Don't panic. Let's just try to think our way through this.</td></tr>
 
-  EMH
-     This appears to show a wall fifteen metres away
-     and it does have a holodeck grid configuration.
+<tr id="L170"><td><a href="#L170">170</a></td><td>EMH:  I'm not familiar with you. Are you a member of the Voyager crew or have we encountered another Federation ship?</td></tr>
 
-  BARCLAY
-     You see?
+<tr id="L171"><td><a href="#L171">171</a></td><td>BARCLAY:  Oh, boy. The Voyager. Oh, boy. This is going to sound a little crazy from your perspective, but you've got to trust me. None of this is happening. This is all a holographic simulation that you've been running.</td></tr>
 
-  EMH
-     But you could be manipulating these readings.
+<tr id="L172"><td><a href="#L172">172</a></td><td>EMH:  What are you talking about.</td></tr>
 
-  BARCLAY
-     Scan me. You'll see I'm a holographic projection
-     originating from beyond that wall.
+<tr id="L173"><td><a href="#L173">173</a></td><td>BARCLAY:  You're in the holodeck at the Jupiter Station. Your name is Doctor Lewis Zimmerman, you're a holo-engineer and you've been running a programme that's malfunctioning and we've been trying to reach you.</td></tr>
 
-  EMH
-     Yes, all right. But it could still be an elaborate
-     deception. I can't take that risk.
+<tr id="L174"><td><a href="#L174">174</a></td><td>EMH:  What are you saying? That I'm a real person?</td></tr>
 
-  BARCLAY
-     There has to be some way to convince you. Oh, I
-     know. I'll be right back.
+<tr id="L175"><td><a href="#L175">175</a></td><td>BARCLAY:  Well, I always used to think of you that way and I know your wife tends to think</td></tr>
 
-  ANNOTATION
-     Barclay vanishes. The Sickbay changes from empty
-     to full, with flickering lights.
+<tr id="L176"><td><a href="#L176">176</a></td><td>EMH:  My wife?</td></tr>
 
-  KIM
-     Are you the Emergency Medical Hologram?
+<tr id="L177"><td><a href="#L177">177</a></td><td>BARCLAY:  We'd, er, we'd better take this one step at a time.</td></tr>
 
-  EMH
-     Yes, of course I am.
+<tr id="L178"><td><a href="#L178">178</a></td><td>EMH:  Please do.</td></tr>
 
-  KIM
-     We've got wounded here.
+<tr id="L179"><td><a href="#L179">179</a></td><td>BARCLAY:  Well, you see, this starship, it's not really a starship.</td></tr>
 
-  EMH
-     I've seen this patient before. He has multiple
-     percussive injuries. Tricorder. Medical tricorder.
-     I've been in this moment in time before.
+<tr><td></td><td>LOCATION--Doctor's office</td></tr>
+<tr id="L180"><td><a href="#L180">180</a></td><td>BARCLAY:  It was a programme that you wrote to study the psychological impact of long term isolation on a crew made up of Starfleet and Maquis crewmembers.</td></tr>
 
-  PARIS
-     What? What are you talking about? Help this man.
+<tr id="L181"><td><a href="#L181">181</a></td><td>EMH:  A programme I wrote? That's preposterous. I'm the programme. Voyager is a real ship, manned by real people.</td></tr>
 
-  EMH
-     Have we just been catapulted across the galaxy to
-     an unknown area of the Delta Quadrant?
+<tr id="L182"><td><a href="#L182">182</a></td><td>BARCLAY:  I'm afraid not. This must have something to do with the radiation surge.</td></tr>
 
-  KIM
-     Yes.
+<tr id="L183"><td><a href="#L183">183</a></td><td>EMH:  What was that?</td></tr>
 
-  EMH
-     And you are developing tumourous growths on your
-     chest.
+<tr id="L184"><td><a href="#L184">184</a></td><td>BARCLAY:  We've been having problems shutting the programme down because of a kinoplasmic radiation surge on the station. It's affected all of the computer systems, including the holodecks. The radiation must be affecting the memory centres of your brain.</td></tr>
 
-  KIM
-     What?
+<tr id="L185"><td><a href="#L185">185</a></td><td>EMH:  How did you get in here?</td></tr>
 
-  EMH
-     Ah. So that hasn't happened yet. Is this stardate
-     48308?
+<tr id="L186"><td><a href="#L186">186</a></td><td>BARCLAY:  I'm not really here. Clearly, I'm here because we're talking. You see, what I mean is, I'm in a control booth outside of the holodeck. What you see is a projection of my body so that we can communicate. We've been trying to get in here, or send a comm. signal in for nearly six hours.</td></tr>
 
-  PARIS
-     Look, are you going to help this man or not?
+<tr id="L187"><td><a href="#L187">187</a></td><td>EMH:  You expect me to believe that the past six months I've spent on this ship have been nothing but a simulation?</td></tr>
 
-  EMH
-     I'm not. Mister Barclay?
+<tr id="L188"><td><a href="#L188">188</a></td><td>BARCLAY:  You haven't been here six months. You've only been here six hours.</td></tr>
 
-  KIM
-     The programme must be malfunctioning. Let me see
-     if I can reset the holographic projector.
+<tr id="L189"><td><a href="#L189">189</a></td><td>EMH:  That's impossible! I have very clear memories of my first appearance on Voyager. Meeting Captain Janeway for the first time. I've had numerous experiences aboard this ship.</td></tr>
 
-  EMH
-     Mister Barclay, will you please return?
+<tr id="L190"><td><a href="#L190">190</a></td><td>BARCLAY:  That's all part of the simulation.</td></tr>
 
-  ANNOTATION
-     Barclay appears.
+<tr id="L191"><td><a href="#L191">191</a></td><td>EMH:  How do I know you're not some kind of alien, impersonating a Starfleet officer.</td></tr>
 
-  BARCLAY
-     Now do you believe me? This is the beginning of
-     the simulation. We can't shut down the programme
-     but we can restart it.
+<tr id="L192"><td><a href="#L192">192</a></td><td>BARCLAY:  Look, Doctor, it's very important that you believe me. You're losing your sense of identity. You're starting to think that you're part of the programme and that's, that's not good. It's called HTDS. Holo Transference Dementia Syndrome.</td></tr>
 
-  EMH
-     This is my first memory of being activated on
-     Voyager.
+<tr id="L193"><td><a href="#L193">193</a></td><td>EMH:  So now I'm having a psychotic episode.</td></tr>
 
-  PARIS
-     Who the hell are you?
+<tr id="L194"><td><a href="#L194">194</a></td><td>BARCLAY:  No. Yes. I mean, maybe the radiation. Doctor, I'm sorry I have to do this.</td></tr>
 
-  EMH
-     Did I programme Mister Paris to be so annoying?
+<tr id="L195"><td><a href="#L195">195</a></td><td>ANNOTATION: Barclay slaps the EMH's face.</td></tr>
 
-  BARCLAY
-     Actually, I programmed him. I modelled him after
-     my cousin Frank.
+<tr id="L196"><td><a href="#L196">196</a></td><td>EMH:  How dare you!</td></tr>
 
-  EMH
-     Hmm. Computer, delete Paris.
+<tr id="L197"><td><a href="#L197">197</a></td><td>BARCLAY:  It hurt, right? If you were a programme it wouldn't hurt.</td></tr>
 
-  PARIS
-     What are you
+<tr id="L198"><td><a href="#L198">198</a></td><td>EMH:  I could be programmed to think it hurt.</td></tr>
 
-  ANNOTATION
-     Paris disappears.
+<tr id="L199"><td><a href="#L199">199</a></td><td>BARCLAY:  Doctor.</td></tr>
 
-  KIM
-     What did you do to him?
+<tr id="L200"><td><a href="#L200">200</a></td><td>ANNOTATION: The EMH slaps Barclay.</td></tr>
 
-  EMH
-     Computer, delete Kim. Hmm.
+<tr id="L201"><td><a href="#L201">201</a></td><td>BARCLAY:  I'll be back. I've got to discuss this with the others. Don't, don't go anywhere.</td></tr>
 
-  ANNOTATION
-     Kim disappears.
+<tr id="L202"><td><a href="#L202">202</a></td><td>ANNOTATION: Barclay vanishes.</td></tr>
 
-  BARCLAY
-     Are you convinced yet?
+<tr id="L203"><td><a href="#L203">203</a></td><td>EMH:  Pain. Pain, why would I have pain? I think I'm hungry. I'm not sure what for, but I'm definitely hungry. This is impossible.</td></tr>
 
-  EMH
-     Let's just say your credibility level is rising.
-     But I'm still not prepared to destroy Voyager.
+<tr id="L204"><td><a href="#L204">204</a></td><td>ANNOTATION: Barclay returns.</td></tr>
 
-  BARCLAY
-     So what are you going to do now?
+<tr id="L205"><td><a href="#L205">205</a></td><td>BARCLAY:  The problem is worse than we thought. The radiation is disrupting the command protocols. We can't shut the programme down, and while the programme is running we can't access the holodeck grid.</td></tr>
 
-  EMH
-     I need to confirm my true nature. Whether or not I
-     am in fact a real person. Let's just say that I'm
-     right and this is a real ship and I am a hologram.
-     If I were to destroy the holographic memory core
-     then I should disappear.
+<tr id="L206"><td><a href="#L206">206</a></td><td>EMH:  Why don't you beam me out of here?</td></tr>
 
-  BARCLAY
-     Yes. But if you destroy it and you're still here
+<tr id="L207"><td><a href="#L207">207</a></td><td>BARCLAY:  We tried, but the radiation is interfering with the transporters and we can't get a lock on you. I've consulted with our neurologist, Doctor Kaplin, and he said if we can't get you out of here within the next hour, that the radiation would completely oxidise your neurocellular structures.</td></tr>
 
-  EMH
-     Then I'm not a hologram.
+<tr id="L208"><td><a href="#L208">208</a></td><td>EMH:  So, what do you suggest?</td></tr>
 
-  BARCLAY
-     And you'll know that I'm telling you the truth.
+<tr id="L209"><td><a href="#L209">209</a></td><td>BARCLAY:  There's only one way left to terminate the programme, and that's to play it out. Bring it to it's conclusion and once the simulation ends, it'll release the access locks on the holodeck arch and we can get you out of here.</td></tr>
 
-  EMH
-     The holo-memory core is located in Engineering.
-     Let's go.
+<tr id="L210"><td><a href="#L210">210</a></td><td>EMH:  How does it conclude?</td></tr>
 
+<tr id="L211"><td><a href="#L211">211</a></td><td>BARCLAY:  You programmed two possible outcomes. Either Voyager finds its way back to Federation space, or it's destroyed in the process. But the simulation was designed to run for weeks before either happens. But I know of a way that you can bring it to an end right now. Destroy the ship.</td></tr>
 
-LOCATION--Corridor
+<tr id="L212"><td><a href="#L212">212</a></td><td>EMH:  Destroy the ship? Destroy Voyager?</td></tr>
 
-  BARCLAY
-     What's wrong?
+<tr id="L213"><td><a href="#L213">213</a></td><td>BARCLAY:  This is just a simulation, Lewis. None of this is real. And unless you destroy this ship that you think you're on, you're going to die.</td></tr>
 
-  EMH
-     The remote holoprojectors were taken offline. I
-     shouldn't be able to exist outside sickbay?
+<tr id="L214"><td><a href="#L214">214</a></td><td>EMH:  No. No, absolutely not.</td></tr>
 
-  BARCLAY
-     That's because you're a
+<tr id="L215"><td><a href="#L215">215</a></td><td>BARCLAY:  Doctor, it's the only way.</td></tr>
 
-  EMH
-     A real person. Yes. I'm getting the idea.
+<tr id="L216"><td><a href="#L216">216</a></td><td>EMH:  First of all, I don't even know how to destroy the ship. Second of all I wouldn't do it even if I could, and third, how do I know you're not an alien intruder trying to trick me into killing everyone?</td></tr>
 
+<tr id="L217"><td><a href="#L217">217</a></td><td>BARCLAY:  Well, those are good questions. First, I can tell you how to destroy the Voyager. Second, if you don't do it, you're going to die. And third. Well, I'm just not an alien and I don't know how else to convince you of that.</td></tr>
 
-LOCATION--Engineering
+<tr id="L218"><td><a href="#L218">218</a></td><td>EMH:  If what you're saying is true, why don't you destroy the ship? Why do I have to do it?</td></tr>
 
-  JANEWAY
-     Magnetic constrictors are online. The warp core is
-     stable. Let's get started on those plasma relays.
-     You, who are you?
+<tr id="L219"><td><a href="#L219">219</a></td><td>BARCLAY:  You are the one running the simulation. It's coded to respond to your input, not mine.</td></tr>
 
-  EMH
-     I'm the Emergency Medical Hologram.
+<tr id="L220"><td><a href="#L220">220</a></td><td>EMH:  I'm sorry, Mister Barclay, if that's what your name really is, but you're not very convincing.</td></tr>
 
-  JANEWAY
-     I didn't know you could be projected into
-     Engineering.
+<tr id="L221"><td><a href="#L221">221</a></td><td>BARCLAY:  Here, use this tricorder. Scan the room outwards to a distance of fifteen metres.</td></tr>
 
-  EMH
-     I can't. But it's a long story. I'd rather not get
-     into it right now.
+<tr id="L222"><td><a href="#L222">222</a></td><td>EMH:  This appears to show a wall fifteen metres away and it does have a holodeck grid configuration.</td></tr>
 
-  JANEWAY
-     Fine. We have three wounded crewmembers over here.
+<tr id="L223"><td><a href="#L223">223</a></td><td>BARCLAY:  You see?</td></tr>
 
-  EMH
-     I'm afraid I have a more pressing matter to attend
-     to, Captain.
+<tr id="L224"><td><a href="#L224">224</a></td><td>EMH:  But you could be manipulating these readings.</td></tr>
 
-  JANEWAY
-     What do you mean, you have a more pressing matter
-     to attend to? And who are you? I don't recognise
-     you.
+<tr id="L225"><td><a href="#L225">225</a></td><td>BARCLAY:  Scan me. You'll see I'm a holographic projection originating from beyond that wall.</td></tr>
 
-  BARCLAY
-     Oh, don't mind me, I'm just assisting the Doctor.
+<tr id="L226"><td><a href="#L226">226</a></td><td>EMH:  Yes, all right. But it could still be an elaborate deception. I can't take that risk.</td></tr>
 
-  JANEWAY
-     Doctor, I am ordering you to take care of these
-     wounded crewmembers.
+<tr id="L227"><td><a href="#L227">227</a></td><td>BARCLAY:  There has to be some way to convince you. Oh, I know. I'll be right back.</td></tr>
 
-  EMH
-     Computer, delete Janeway.
+<tr id="L228"><td><a href="#L228">228</a></td><td>ANNOTATION: Barclay vanishes. The Sickbay changes from empty to full, with flickering lights.</td></tr>
 
-  ANNOTATION
-     She stays where she is.
+<tr id="L229"><td><a href="#L229">229</a></td><td>KIM:  Are you the Emergency Medical Hologram?</td></tr>
 
-  BARCLAY
-     The computer's not responding to vocal commands.
-     The protocols are starting to freeze up. We don't
-     have much time.
+<tr id="L230"><td><a href="#L230">230</a></td><td>EMH:  Yes, of course I am.</td></tr>
 
-  JANEWAY
-     Jarvis, Parsons, put these men under arrest.
+<tr id="L231"><td><a href="#L231">231</a></td><td>KIM:  We've got wounded here.</td></tr>
 
-  BARCLAY
-     Don't worry, those phasers aren't real, they're
-     just holograms.
+<tr id="L232"><td><a href="#L232">232</a></td><td>EMH:  I've seen this patient before. He has multiple percussive injuries. Tricorder. Medical tricorder. I've been in this moment in time before.</td></tr>
 
-  EMH
-     I wouldn't be so sure. I was injured earlier.
+<tr id="L233"><td><a href="#L233">233</a></td><td>PARIS:  What? What are you talking about? Help this man.</td></tr>
 
-  BARCLAY
-     That means the holodeck safeties are off.
+<tr id="L234"><td><a href="#L234">234</a></td><td>EMH:  Have we just been catapulted across the galaxy to an unknown area of the Delta Quadrant?</td></tr>
 
-  EMH
-     Now, just a moment. Let's not do anything hasty.
+<tr id="L235"><td><a href="#L235">235</a></td><td>KIM:  Yes.</td></tr>
 
-  JANEWAY
-     Who are you? Are you two responsible for bringing
-     us here?
+<tr id="L236"><td><a href="#L236">236</a></td><td>EMH:  And you are developing tumourous growths on your chest.</td></tr>
 
-  EMH
-     Actually, no. The array you discovered is
-     controlled by an entity you will come to know as
-     the Caretaker. Or Banjo man. He's actually an
-     alien life form who's caring for a species known
-     as the Ocampa who live nearby.
+<tr id="L237"><td><a href="#L237">237</a></td><td>KIM:  What?</td></tr>
 
-  JANEWAY
-     Enough! I don't know what this is all about, but
-     clearly you're involved. Take them to the brig.
-     I'll question them later.
+<tr id="L238"><td><a href="#L238">238</a></td><td>EMH:  Ah. So that hasn't happened yet. Is this stardate 48308?</td></tr>
 
-  EMH
-     No, I don't think so.
+<tr id="L239"><td><a href="#L239">239</a></td><td>PARIS:  Look, are you going to help this man or not?</td></tr>
 
-  JANEWAY
-     You're in no position to argue.
+<tr id="L240"><td><a href="#L240">240</a></td><td>EMH:  I'm not. Mister Barclay?</td></tr>
 
-  EMH
-     I'm not arguing. I'm simply pointing out that in
-     several seconds the entire crew of Voyager will be
-     transported to the array, where you will be
-     tortured and probed for medical information. It
-     will be quite painful, but not fatal.
+<tr id="L241"><td><a href="#L241">241</a></td><td>KIM:  The programme must be malfunctioning. Let me see if I can reset the holographic projector.</td></tr>
 
-  KIM [OC]
-     Bridge to Janeway. We're being scanned by the
-     array, Captain. It's penetrated our shields.
+<tr id="L242"><td><a href="#L242">242</a></td><td>EMH:  Mister Barclay, will you please return?</td></tr>
 
-  JANEWAY
-     What kind of scan?
+<tr id="L243"><td><a href="#L243">243</a></td><td>ANNOTATION: Barclay appears.</td></tr>
 
-  ANNOTATION
-     Some people disappear.
+<tr id="L244"><td><a href="#L244">244</a></td><td>BARCLAY:  Now do you believe me? This is the beginning of the simulation. We can't shut down the programme but we can restart it.</td></tr>
 
-  JANEWAY
-     Bridge. Janeway to Bridge, respond. What are you
+<tr id="L245"><td><a href="#L245">245</a></td><td>EMH:  This is my first memory of being activated on Voyager.</td></tr>
 
-  ANNOTATION
-     Finally, Janeway disappears.
+<tr id="L246"><td><a href="#L246">246</a></td><td>PARIS:  Who the hell are you?</td></tr>
 
-  BARCLAY
-     Time is running out, Doctor. The oxidation levels
-     in your neural tissues are rising. You've got to
-     destroy this ship and bring this programme to an
-     end.
+<tr id="L247"><td><a href="#L247">247</a></td><td>EMH:  Did I programme Mister Paris to be so annoying?</td></tr>
 
-  EMH
-     First things first. I have to make absolutely sure
-     what I am.
+<tr id="L248"><td><a href="#L248">248</a></td><td>BARCLAY:  Actually, I programmed him. I modelled him after my cousin Frank.</td></tr>
 
-  ANNOTATION
-     He removes a wall panel.
+<tr id="L249"><td><a href="#L249">249</a></td><td>EMH:  Hmm. Computer, delete Paris.</td></tr>
 
-  EMH
-     This is the central memory nexus for all
-     holographic systems on board. If I destroy this,
-     there won't be a single hologram left on Voyager.
+<tr id="L250"><td><a href="#L250">250</a></td><td>PARIS:  What are you</td></tr>
 
-  BARCLAY
-     Well, except for me. I'm being projected from
-     outside the simulation. Go ahead, give it a try.
+<tr id="L251"><td><a href="#L251">251</a></td><td>ANNOTATION: Paris disappears.</td></tr>
 
-  ANNOTATION
-     Barclay hands the EMH a phaser. They move back to
-     the warp core and the EMH shoots out the circuits.
+<tr id="L252"><td><a href="#L252">252</a></td><td>KIM:  What did you do to him?</td></tr>
 
-  BARCLAY
-     Convinced?
+<tr id="L253"><td><a href="#L253">253</a></td><td>EMH:  Computer, delete Kim. Hmm.</td></tr>
 
-  EMH
-     Computer, what is the status of the holographic
-     imaging system on Voyager?
+<tr id="L254"><td><a href="#L254">254</a></td><td>ANNOTATION: Kim disappears.</td></tr>
 
-  COMPUTER
-     The holographic imaging system has been destroyed.
+<tr id="L255"><td><a href="#L255">255</a></td><td>BARCLAY:  Are you convinced yet?</td></tr>
 
-  EMH
-     Are there any holographic programmes running
-     anywhere on the ship?
+<tr id="L256"><td><a href="#L256">256</a></td><td>EMH:  Let's just say your credibility level is rising. But I'm still not prepared to destroy Voyager.</td></tr>
 
-  COMPUTER
-     Negative.
+<tr id="L257"><td><a href="#L257">257</a></td><td>BARCLAY:  So what are you going to do now?</td></tr>
 
-  EMH
-     Then why is the ship still here, and not a
-     hologrid?
+<tr id="L258"><td><a href="#L258">258</a></td><td>EMH:  I need to confirm my true nature. Whether or not I am in fact a real person. Let's just say that I'm right and this is a real ship and I am a hologram. If I were to destroy the holographic memory core then I should disappear.</td></tr>
 
-  COMPUTER
-     Please restate the question.
+<tr id="L259"><td><a href="#L259">259</a></td><td>BARCLAY:  Yes. But if you destroy it and you're still here</td></tr>
 
-  EMH
-     You said all holo-systems were destroyed. Why is
-     the ship simulation still running?
+<tr id="L260"><td><a href="#L260">260</a></td><td>EMH:  Then I'm not a hologram.</td></tr>
 
-  COMPUTER
-     All holo-simulations have been terminated.
+<tr id="L261"><td><a href="#L261">261</a></td><td>BARCLAY:  And you'll know that I'm telling you the truth.</td></tr>
 
-  BARCLAY
-     Doctor, I know this is a little confusing, but try
-     to remember you just destroyed the holographic
-     imaging system on a holographic ship. A hologram
-     in a hologram. If you want to bring this to an end
-     you've got to destroy the entire simulation. The
-     ship itself.
+<tr id="L262"><td><a href="#L262">262</a></td><td>EMH:  The holo-memory core is located in Engineering. Let's go.</td></tr>
 
-  EMH
-     Then it's true. I am a real person.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L263"><td><a href="#L263">263</a></td><td>BARCLAY:  What's wrong?</td></tr>
 
-  BARCLAY
-     And you're a person in great danger. Destroy the
-     ship. Now, before it's too late.
+<tr id="L264"><td><a href="#L264">264</a></td><td>EMH:  The remote holoprojectors were taken offline. I shouldn't be able to exist outside sickbay?</td></tr>
 
-  EMH
-     But if I'm wrong?
+<tr id="L265"><td><a href="#L265">265</a></td><td>BARCLAY:  That's because you're a</td></tr>
 
-  BARCLAY
-     Doctor, you've got to believe me. What else can I
-     do to prove it to you?
+<tr id="L266"><td><a href="#L266">266</a></td><td>EMH:  A real person. Yes. I'm getting the idea.</td></tr>
 
-  EMH
-     I know, I know, but it's just so
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L267"><td><a href="#L267">267</a></td><td>JANEWAY:  Magnetic constrictors are online. The warp core is stable. Let's get started on those plasma relays. You, who are you?</td></tr>
 
-  ANNOTATION
-     The EMH clutches his head.
+<tr id="L268"><td><a href="#L268">268</a></td><td>EMH:  I'm the Emergency Medical Hologram.</td></tr>
 
-  BARCLAY
-     There. Do you see what's happening? Holograms
-     don't feel pain. Your brain is being flooded with
-     kinoplasmic radiation. You're dying.
+<tr id="L269"><td><a href="#L269">269</a></td><td>JANEWAY:  I didn't know you could be projected into Engineering.</td></tr>
 
-  EMH
-     I guess you're right. What should I do?
+<tr id="L270"><td><a href="#L270">270</a></td><td>EMH:  I can't. But it's a long story. I'd rather not get into it right now.</td></tr>
 
-  BARCLAY
-     The warp core. Even set on full power it's going
-     to take a sustained phaser burst to punch through
-     the outer duranium shielding. Set your phaser to
-     maximum. Aim for the magnetic constrictors. Ready?
+<tr id="L271"><td><a href="#L271">271</a></td><td>JANEWAY:  Fine. We have three wounded crewmembers over here.</td></tr>
 
-  EMH
-     Ready.
+<tr id="L272"><td><a href="#L272">272</a></td><td>EMH:  I'm afraid I have a more pressing matter to attend to, Captain.</td></tr>
 
-  CHAKOTAY
-     Stop! Doctor, don't do it! Doctor, don't listen to
-     him. He's lying. Step away from the warp core,
-     Doctor, don't do anything that man tells you.
-     You're in danger if you do. None of this is real.
+<tr id="L273"><td><a href="#L273">273</a></td><td>JANEWAY:  What do you mean, you have a more pressing matter to attend to? And who are you? I don't recognise you.</td></tr>
 
-  EMH
-     So I've been told. It's all a holographic
-     simulation.
+<tr id="L274"><td><a href="#L274">274</a></td><td>BARCLAY:  Oh, don't mind me, I'm just assisting the Doctor.</td></tr>
 
-  CHAKOTAY
-     That's right. But it's not the simulation you
-     think it is. Everything around you is part of a
-     holographic projection that's being created by
-     your programme.
+<tr id="L275"><td><a href="#L275">275</a></td><td>JANEWAY:  Doctor, I am ordering you to take care of these wounded crewmembers.</td></tr>
 
-  EMH
-     My programme?
+<tr id="L276"><td><a href="#L276">276</a></td><td>EMH:  Computer, delete Janeway.</td></tr>
 
-  CHAKOTAY
-     You're on the holodeck on Voyager. The Captain
-     suggested you take a day off, try a holonovel, so
-     you did. But while you were running the holonovel,
-     there was a kinoplasmic radiation surge in the
-     imaging system. It created a feedback loop between
-     the holodeck computer and your programme. All of
-     this, including Mister Barclay, is a holographic
-     simulation generated by your codes, subroutines
-     and memory circuits.
+<tr id="L277"><td><a href="#L277">277</a></td><td>ANNOTATION: She stays where she is.</td></tr>
 
-  BARCLAY
-     Don't be distracted by these holographic
-     characters. Stay focused on what you need to do.
-     Destroy the warp core.
+<tr id="L278"><td><a href="#L278">278</a></td><td>BARCLAY:  The computer's not responding to vocal commands. The protocols are starting to freeze up. We don't have much time.</td></tr>
 
-  EMH
-     Wait a minute. The entire crew of Voyager was just
-     taken by the array. They won't be back for three
-     days. So what's he doing here?
+<tr id="L279"><td><a href="#L279">279</a></td><td>JANEWAY:  Jarvis, Parsons, put these men under arrest.</td></tr>
 
-  BARCLAY
-     The programme is malfunctioning.
+<tr id="L280"><td><a href="#L280">280</a></td><td>BARCLAY:  Don't worry, those phasers aren't real, they're just holograms.</td></tr>
 
-  EMH
-     Are you the real Commander Chakotay, or a
-     holographic projection like Mister Barclay.
+<tr id="L281"><td><a href="#L281">281</a></td><td>EMH:  I wouldn't be so sure. I was injured earlier.</td></tr>
 
-  CHAKOTAY
-     I'm a projection. I'm really at the holographic
-     control station in Engineering. You're trapped on
-     the holodeck. We've been monitoring the programme
-     from here and we've been trying to reach you for
-     hours.
+<tr id="L282"><td><a href="#L282">282</a></td><td>BARCLAY:  That means the holodeck safeties are off.</td></tr>
 
-  EMH
-     Sounds familiar. He told me the same thing.
+<tr id="L283"><td><a href="#L283">283</a></td><td>EMH:  Now, just a moment. Let's not do anything hasty.</td></tr>
 
-  BARCLAY
-     Doctor, do you remember coming into the holodeck
-     and running a holonovel within the last six hours?
+<tr id="L284"><td><a href="#L284">284</a></td><td>JANEWAY:  Who are you? Are you two responsible for bringing us here?</td></tr>
 
-  EMH
-     No. No, I don't.
+<tr id="L285"><td><a href="#L285">285</a></td><td>EMH:  Actually, no. The array you discovered is controlled by an entity you will come to know as the Caretaker. Or Banjo man. He's actually an alien life form who's caring for a species known as the Ocampa who live nearby.</td></tr>
 
-  CHAKOTAY
-     That's because your memory circuits are being
-     eradicated by the feedback loop. We have to get
-     you off the holodeck, transfer you back to
-     Sickbay.
+<tr id="L286"><td><a href="#L286">286</a></td><td>JANEWAY:  Enough! I don't know what this is all about, but clearly you're involved. Take them to the brig. I'll question them later.</td></tr>
 
-  BARCLAY
-     You don't have memory circuits, you have a mind,
-     and it's being damaged. Destroy the Voyager, the
-     programme will end, and we can get you off the
-     holodeck.
+<tr id="L287"><td><a href="#L287">287</a></td><td>EMH:  No, I don't think so.</td></tr>
 
-  CHAKOTAY
-     That's not true, Doctor. Because of the feedback
-     loop, if you destroy the simulation, you will be
-     destroyed as well.
+<tr id="L288"><td><a href="#L288">288</a></td><td>JANEWAY:  You're in no position to argue.</td></tr>
 
-  EMH
-     Me?
+<tr id="L289"><td><a href="#L289">289</a></td><td>EMH:  I'm not arguing. I'm simply pointing out that in several seconds the entire crew of Voyager will be transported to the array, where you will be tortured and probed for medical information. It will be quite painful, but not fatal.</td></tr>
 
-  CHAKOTAY
-     If you shut down this simulation your programme
-     will be wiped out right along with it. There'll be
-     no way to retrieve the lost data. You'll be gone.
+<tr id="L290"><td><a href="#L290">290</a></td><td>KIM [OC]:  Bridge to Janeway. We're being scanned by the array, Captain. It's penetrated our shields.</td></tr>
 
-  ANNOTATION
-     The EMH gets another headache.
+<tr id="L291"><td><a href="#L291">291</a></td><td>JANEWAY:  What kind of scan?</td></tr>
 
-  BARCLAY
-     Only real people experience pain. You've got to
-     believe me.
+<tr id="L292"><td><a href="#L292">292</a></td><td>ANNOTATION: Some people disappear.</td></tr>
 
-  CHAKOTAY
-     What you're perceiving as pain is really the
-     feedback loop eradicating your memory circuits.
+<tr id="L293"><td><a href="#L293">293</a></td><td>JANEWAY:  Bridge. Janeway to Bridge, respond. What are you</td></tr>
 
-  EMH
-     What, what is it you want me to do?
+<tr id="L294"><td><a href="#L294">294</a></td><td>ANNOTATION: Finally, Janeway disappears.</td></tr>
 
-  CHAKOTAY
-     Don't do anything. We're working on the problem
-     right now. We're close to a solution.
+<tr id="L295"><td><a href="#L295">295</a></td><td>BARCLAY:  Time is running out, Doctor. The oxidation levels in your neural tissues are rising. You've got to destroy this ship and bring this programme to an end.</td></tr>
 
-  BARCLAY
-     Do nothing and you'll die.
+<tr id="L296"><td><a href="#L296">296</a></td><td>EMH:  First things first. I have to make absolutely sure what I am.</td></tr>
 
-  ANNOTATION
-     The EMH collapses.
+<tr id="L297"><td><a href="#L297">297</a></td><td>ANNOTATION: He removes a wall panel.</td></tr>
 
-  CHAKOTAY
-     Doctor, trust me.
+<tr id="L298"><td><a href="#L298">298</a></td><td>EMH:  This is the central memory nexus for all holographic systems on board. If I destroy this, there won't be a single hologram left on Voyager.</td></tr>
 
-  KES
-     Trust me, Lewis.
+<tr id="L299"><td><a href="#L299">299</a></td><td>BARCLAY:  Well, except for me. I'm being projected from outside the simulation. Go ahead, give it a try.</td></tr>
 
-  EMH
-     Kes.
+<tr id="L300"><td><a href="#L300">300</a></td><td>ANNOTATION: Barclay hands the EMH a phaser. They move back to the warp core and the EMH shoots out the circuits.</td></tr>
 
-  KES
-     Yes, you know me. You remember me.
+<tr id="L301"><td><a href="#L301">301</a></td><td>BARCLAY:  Convinced?</td></tr>
 
-  EMH
-     Yes, you're my assistant.
+<tr id="L302"><td><a href="#L302">302</a></td><td>EMH:  Computer, what is the status of the holographic imaging system on Voyager?</td></tr>
 
-  BARCLAY
-     I told you, his brain is being damaged. He's
-     losing his memory. This is Kes Zimmerman, your
-     wife.
+<tr id="L303"><td><a href="#L303">303</a></td><td>COMPUTER:  The holographic imaging system has been destroyed.</td></tr>
 
-  CHAKOTAY
-     This is all a holographic delusion drawn from
-     people and experiences in your own memory
-     circuits. You are malfunctioning.
+<tr id="L304"><td><a href="#L304">304</a></td><td>EMH:  Are there any holographic programmes running anywhere on the ship?</td></tr>
 
-  KES
-     Lewis, please, listen to Reg, he's trying to help
-     you. Destroy this programme.
+<tr id="L305"><td><a href="#L305">305</a></td><td>COMPUTER:  Negative.</td></tr>
 
-  CHAKOTAY
-     If you listen to her, you'll end up destroying
-     yourself.
+<tr id="L306"><td><a href="#L306">306</a></td><td>EMH:  Then why is the ship still here, and not a hologrid?</td></tr>
 
-  KES
-     Believe in yourself. You're not a programme,
-     you're a real flesh and blood human being. And
-     you're my husband. I don't want to lose you.
+<tr id="L307"><td><a href="#L307">307</a></td><td>COMPUTER:  Please restate the question.</td></tr>
 
-  BARCLAY
-     Lewis, how would you rather think of yourself? As
-     a real person with a real life, with a family that
-     loves you? Or as some hologram that exists in a
-     Sickbay on a starship lost in deep space.
+<tr id="L308"><td><a href="#L308">308</a></td><td>EMH:  You said all holo-systems were destroyed. Why is the ship simulation still running?</td></tr>
 
-  CHAKOTAY
-     This isn't about what you want. This is about what
-     you are. Just because you're made of projected
-     light and energy doesn't mean you're any less real
-     than someone made of flesh and blood. It doesn't
-     matter what you're made of. What matters is who
-     you are. You're our friend, and we want you back.
+<tr id="L309"><td><a href="#L309">309</a></td><td>COMPUTER:  All holo-simulations have been terminated.</td></tr>
 
-  KES
-     Louis, please. Pick up the phaser, destroy the
-     warp core. It's your only hope.
+<tr id="L310"><td><a href="#L310">310</a></td><td>BARCLAY:  Doctor, I know this is a little confusing, but try to remember you just destroyed the holographic imaging system on a holographic ship. A hologram in a hologram. If you want to bring this to an end you've got to destroy the entire simulation. The ship itself.</td></tr>
 
-  CHAKOTAY
-     Doctor, we're close to getting you out of here.
-     Try to hold on!
+<tr id="L311"><td><a href="#L311">311</a></td><td>EMH:  Then it's true. I am a real person.</td></tr>
 
-  ANNOTATION
-     Kes caresses the EMH.
+<tr id="L312"><td><a href="#L312">312</a></td><td>BARCLAY:  And you're a person in great danger. Destroy the ship. Now, before it's too late.</td></tr>
 
-  KES
-     What ever happens, I just want you to know, I love
-     you.
+<tr id="L313"><td><a href="#L313">313</a></td><td>EMH:  But if I'm wrong?</td></tr>
 
-  EMH
-     I always wanted to
+<tr id="L314"><td><a href="#L314">314</a></td><td>BARCLAY:  Doctor, you've got to believe me. What else can I do to prove it to you?</td></tr>
 
+<tr id="L315"><td><a href="#L315">315</a></td><td>EMH:  I know, I know, but it's just so</td></tr>
 
-LOCATION--Sickbay
+<tr id="L316"><td><a href="#L316">316</a></td><td>ANNOTATION: The EMH clutches his head.</td></tr>
 
-  EMH
-     Tell you, Kes, that you're beautiful.
+<tr id="L317"><td><a href="#L317">317</a></td><td>BARCLAY:  There. Do you see what's happening? Holograms don't feel pain. Your brain is being flooded with kinoplasmic radiation. You're dying.</td></tr>
 
-  KES
-     Thank you.
+<tr id="L318"><td><a href="#L318">318</a></td><td>EMH:  I guess you're right. What should I do?</td></tr>
 
-  EMH
-     What's going on?
+<tr id="L319"><td><a href="#L319">319</a></td><td>BARCLAY:  The warp core. Even set on full power it's going to take a sustained phaser burst to punch through the outer duranium shielding. Set your phaser to maximum. Aim for the magnetic constrictors. Ready?</td></tr>
 
-  TUVOK
-     We were able to shut down the holodeck simulation
-     that your programme was generating. Commander
-     Chakotay transferred you back to Sickbay. You seem
-     to have suffered no damage.
+<tr id="L320"><td><a href="#L320">320</a></td><td>EMH:  Ready.</td></tr>
 
-  EMH
-     What really happened?
+<tr id="L321"><td><a href="#L321">321</a></td><td>CHAKOTAY:  Stop! Doctor, don't do it! Doctor, don't listen to him. He's lying. Step away from the warp core, Doctor, don't do anything that man tells you. You're in danger if you do. None of this is real.</td></tr>
 
-  KIM
-     Voyager encountered a subspace anomaly which
-     created a kinoplasmic radiation surge throughout
-     most of our computers. Unfortunately it happened
-     while you were using the holodeck.
+<tr id="L322"><td><a href="#L322">322</a></td><td>EMH:  So I've been told. It's all a holographic simulation.</td></tr>
 
-  KES
-     We've been working for the past six hours to get
-     you out of there.
+<tr id="L323"><td><a href="#L323">323</a></td><td>CHAKOTAY:  That's right. But it's not the simulation you think it is. Everything around you is part of a holographic projection that's being created by your programme.</td></tr>
 
-  EMH
-     So there was never a Kazon attack.
+<tr id="L324"><td><a href="#L324">324</a></td><td>EMH:  My programme?</td></tr>
 
-  KES
-     That's right.
+<tr id="L325"><td><a href="#L325">325</a></td><td>CHAKOTAY:  You're on the holodeck on Voyager. The Captain suggested you take a day off, try a holonovel, so you did. But while you were running the holonovel, there was a kinoplasmic radiation surge in the imaging system. It created a feedback loop between the holodeck computer and your programme. All of this, including Mister Barclay, is a holographic simulation generated by your codes, subroutines and memory circuits.</td></tr>
 
-  EMH
-     And the crew didn't really abandon ship.
+<tr id="L326"><td><a href="#L326">326</a></td><td>BARCLAY:  Don't be distracted by these holographic characters. Stay focused on what you need to do. Destroy the warp core.</td></tr>
 
-  TUVOK
-     No. In fact, except for the computer problems, it
-     has been an uneventful day.
+<tr id="L327"><td><a href="#L327">327</a></td><td>EMH:  Wait a minute. The entire crew of Voyager was just taken by the array. They won't be back for three days. So what's he doing here?</td></tr>
 
-  EMH
-     And who is this Lieutenant Barclay I imagined.
+<tr id="L328"><td><a href="#L328">328</a></td><td>BARCLAY:  The programme is malfunctioning.</td></tr>
 
-  KIM
-     Barclay was part of the original engineering team
-     that designed your programme. He was in charge of
-     testing your interpersonal skills.
+<tr id="L329"><td><a href="#L329">329</a></td><td>EMH:  Are you the real Commander Chakotay, or a holographic projection like Mister Barclay.</td></tr>
 
-  EMH
-     Well, this should make an interesting paper.
+<tr id="L330"><td><a href="#L330">330</a></td><td>CHAKOTAY:  I'm a projection. I'm really at the holographic control station in Engineering. You're trapped on the holodeck. We've been monitoring the programme from here and we've been trying to reach you for hours.</td></tr>
 
-  CHAKOTAY [OC]
-     Chakotay to Sickbay. Is the Doctor all right?
+<tr id="L331"><td><a href="#L331">331</a></td><td>EMH:  Sounds familiar. He told me the same thing.</td></tr>
 
-  TUVOK
-     Yes, Commander. His programme is functioning
-     normally.
+<tr id="L332"><td><a href="#L332">332</a></td><td>BARCLAY:  Doctor, do you remember coming into the holodeck and running a holonovel within the last six hours?</td></tr>
 
-  CHAKOTAY [OC]
-     Good work. As soon as you're finished there I want
-     all senior officers to report to the bridge.
+<tr id="L333"><td><a href="#L333">333</a></td><td>EMH:  No. No, I don't.</td></tr>
 
-  TUVOK
-     Acknowledged.
+<tr id="L334"><td><a href="#L334">334</a></td><td>CHAKOTAY:  That's because your memory circuits are being eradicated by the feedback loop. We have to get you off the holodeck, transfer you back to Sickbay.</td></tr>
 
-  KIM
-     It's good to have you back, Doctor.
+<tr id="L335"><td><a href="#L335">335</a></td><td>BARCLAY:  You don't have memory circuits, you have a mind, and it's being damaged. Destroy the Voyager, the programme will end, and we can get you off the holodeck.</td></tr>
 
-  EMH
-     Well, I suppose I should begin cataloguing the
-     neotrianate samples I was working on this morning.
+<tr id="L336"><td><a href="#L336">336</a></td><td>CHAKOTAY:  That's not true, Doctor. Because of the feedback loop, if you destroy the simulation, you will be destroyed as well.</td></tr>
 
-  ANNOTATION
-     Tuvok and Kim leave.
+<tr id="L337"><td><a href="#L337">337</a></td><td>EMH:  Me?</td></tr>
 
-  KES
-     So you really think I'm beautiful?
+<tr id="L338"><td><a href="#L338">338</a></td><td>CHAKOTAY:  If you shut down this simulation your programme will be wiped out right along with it. There'll be no way to retrieve the lost data. You'll be gone.</td></tr>
 
-  EMH
-     I was under a great deal of stress, you
-     understand. I may have said things that are not
-     necessarily my true feelings.
+<tr id="L339"><td><a href="#L339">339</a></td><td>ANNOTATION: The EMH gets another headache.</td></tr>
 
-  SOMEONE
-     Kes. Oh. Then you don't think I'm beautiful.
+<tr id="L340"><td><a href="#L340">340</a></td><td>BARCLAY:  Only real people experience pain. You've got to believe me.</td></tr>
 
-  EMH
-     I didn't say that, exactly. I consider you very,
-     very attractive. In a platonic sense.
+<tr id="L341"><td><a href="#L341">341</a></td><td>CHAKOTAY:  What you're perceiving as pain is really the feedback loop eradicating your memory circuits.</td></tr>
 
-  KES
-     I see. Then you don't really love me.
+<tr id="L342"><td><a href="#L342">342</a></td><td>EMH:  What, what is it you want me to do?</td></tr>
 
-  EMH
-     I'm afraid not.
+<tr id="L343"><td><a href="#L343">343</a></td><td>CHAKOTAY:  Don't do anything. We're working on the problem right now. We're close to a solution.</td></tr>
 
-  KES
-     Then I guess our marriage is over.
+<tr id="L344"><td><a href="#L344">344</a></td><td>BARCLAY:  Do nothing and you'll die.</td></tr>
 
-  EMH
-     Our marriage? Are you making a joke?
+<tr id="L345"><td><a href="#L345">345</a></td><td>ANNOTATION: The EMH collapses.</td></tr>
 
-  KES
-     It isn't a joke to me, Lewis. I know we have
-     problems but I think we can solve them.
+<tr id="L346"><td><a href="#L346">346</a></td><td>CHAKOTAY:  Doctor, trust me.</td></tr>
 
-  EMH
-     No. No, this can't be right. Something's wrong
-     here.
+<tr id="L347"><td><a href="#L347">347</a></td><td>KES:  Trust me, Lewis.</td></tr>
 
-  BARCLAY
-     It's not too late, Lewis. You can still save
-     yourself by destroying the warp core.
+<tr id="L348"><td><a href="#L348">348</a></td><td>EMH:  Kes.</td></tr>
 
-  ANNOTATION
-     The headaches return.
+<tr id="L349"><td><a href="#L349">349</a></td><td>KES:  Yes, you know me. You remember me.</td></tr>
 
-  EMH
-     No! No, I don't believe you. None of this is real.
-     It's all a delusion. Somebody help me!
+<tr id="L350"><td><a href="#L350">350</a></td><td>EMH:  Yes, you're my assistant.</td></tr>
 
-  BARCLAY
-     I am helping you.
+<tr id="L351"><td><a href="#L351">351</a></td><td>BARCLAY:  I told you, his brain is being damaged. He's losing his memory. This is Kes Zimmerman, your wife.</td></tr>
 
-  KES
-     Listen to him, Lewis.
+<tr id="L352"><td><a href="#L352">352</a></td><td>CHAKOTAY:  This is all a holographic delusion drawn from people and experiences in your own memory circuits. You are malfunctioning.</td></tr>
 
-  EMH
-     No!
+<tr id="L353"><td><a href="#L353">353</a></td><td>KES:  Lewis, please, listen to Reg, he's trying to help you. Destroy this programme.</td></tr>
 
-  ANNOTATION
-     The EMH tries to leave Sickbay but an armed Kazon
-     forces him back inside.
+<tr id="L354"><td><a href="#L354">354</a></td><td>CHAKOTAY:  If you listen to her, you'll end up destroying yourself.</td></tr>
 
-  PARIS
-     Doctor, are you listening to me? That man needs
-     help!
+<tr id="L355"><td><a href="#L355">355</a></td><td>KES:  Believe in yourself. You're not a programme, you're a real flesh and blood human being. And you're my husband. I don't want to lose you.</td></tr>
 
-  ANNOTATION
-     That man is the EMH on a biobed, with bad burns
-     and Janeway's voice.
+<tr id="L356"><td><a href="#L356">356</a></td><td>BARCLAY:  Lewis, how would you rather think of yourself? As a real person with a real life, with a family that loves you? Or as some hologram that exists in a Sickbay on a starship lost in deep space.</td></tr>
 
-  JANEWAY
-     Try to calm down, Doctor, everything's going to be
-     fine.
+<tr id="L357"><td><a href="#L357">357</a></td><td>CHAKOTAY:  This isn't about what you want. This is about what you are. Just because you're made of projected light and energy doesn't mean you're any less real than someone made of flesh and blood. It doesn't matter what you're made of. What matters is who you are. You're our friend, and we want you back.</td></tr>
 
+<tr id="L358"><td><a href="#L358">358</a></td><td>KES:  Louis, please. Pick up the phaser, destroy the warp core. It's your only hope.</td></tr>
 
-LOCATION--Holodeck
+<tr id="L359"><td><a href="#L359">359</a></td><td>CHAKOTAY:  Doctor, we're close to getting you out of here. Try to hold on!</td></tr>
 
-  JANEWAY
-     Doctor, do you know who I am? Do you know where
-     you are?
+<tr id="L360"><td><a href="#L360">360</a></td><td>ANNOTATION: Kes caresses the EMH.</td></tr>
 
-  ANNOTATION
-     Chakotay and Kim are there, too.
+<tr id="L361"><td><a href="#L361">361</a></td><td>KES:  What ever happens, I just want you to know, I love you.</td></tr>
 
-  EMH
-     I appear to be on the holodeck grid.
+<tr id="L362"><td><a href="#L362">362</a></td><td>EMH:  I always wanted to</td></tr>
 
-  JANEWAY
-     That's right. And do you know what you are?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L363"><td><a href="#L363">363</a></td><td>EMH:  Tell you, Kes, that you're beautiful.</td></tr>
 
-  EMH
-     Yes, I'm the Emergency Medical Holographic
-     programme. Right?
+<tr id="L364"><td><a href="#L364">364</a></td><td>KES:  Thank you.</td></tr>
 
-  JANEWAY
-     Right.
+<tr id="L365"><td><a href="#L365">365</a></td><td>EMH:  What's going on?</td></tr>
 
-  EMH
-     Well, I assume everything that's happened took
-     place here on the holodeck.
+<tr id="L366"><td><a href="#L366">366</a></td><td>TUVOK:  We were able to shut down the holodeck simulation that your programme was generating. Commander Chakotay transferred you back to Sickbay. You seem to have suffered no damage.</td></tr>
 
-  CHAKOTAY
-     That's right. We encountered a subspace anomaly
-     and there was a radiation surge in the computer
-     system.
+<tr id="L367"><td><a href="#L367">367</a></td><td>EMH:  What really happened?</td></tr>
 
-  EMH
-     And Kes is my assistant, not my wife?
+<tr id="L368"><td><a href="#L368">368</a></td><td>KIM:  Voyager encountered a subspace anomaly which created a kinoplasmic radiation surge throughout most of our computers. Unfortunately it happened while you were using the holodeck.</td></tr>
 
-  CHAKOTAY
-     Your wife?
+<tr id="L369"><td><a href="#L369">369</a></td><td>KES:  We've been working for the past six hours to get you out of there.</td></tr>
 
-  EMH
-     Never mind. Captain, if it's okay, I'd like to
-     return to Sickbay now.
+<tr id="L370"><td><a href="#L370">370</a></td><td>EMH:  So there was never a Kazon attack.</td></tr>
 
-  JANEWAY
-     Of course. It's good to have you back, Doctor.
+<tr id="L371"><td><a href="#L371">371</a></td><td>KES:  That's right.</td></tr>
 
-  EMH
-     It's good to be back.
+<tr id="L372"><td><a href="#L372">372</a></td><td>EMH:  And the crew didn't really abandon ship.</td></tr>
 
-  JANEWAY
-     Computer, transfer EMH programme to Sickbay.
+<tr id="L373"><td><a href="#L373">373</a></td><td>TUVOK:  No. In fact, except for the computer problems, it has been an uneventful day.</td></tr>
 
+<tr id="L374"><td><a href="#L374">374</a></td><td>EMH:  And who is this Lieutenant Barclay I imagined.</td></tr>
 
-LOCATION--Doctor's office
+<tr id="L375"><td><a href="#L375">375</a></td><td>KIM:  Barclay was part of the original engineering team that designed your programme. He was in charge of testing your interpersonal skills.</td></tr>
 
-  KES
-     We were married?
+<tr id="L376"><td><a href="#L376">376</a></td><td>EMH:  Well, this should make an interesting paper.</td></tr>
 
-  EMH
-     It was a delusion, of course.
+<tr id="L377"><td><a href="#L377">377</a></td><td>CHAKOTAY [OC]:  Chakotay to Sickbay. Is the Doctor all right?</td></tr>
 
-  KES
-     I understand. But I'd still prefer it if you
-     didn't tell Neelix about this. He tends to get a
-     little jealous. It'll be our secret.
+<tr id="L378"><td><a href="#L378">378</a></td><td>TUVOK:  Yes, Commander. His programme is functioning normally.</td></tr>
 
-  EMH
-     I am curious about one thing.
+<tr id="L379"><td><a href="#L379">379</a></td><td>CHAKOTAY [OC]:  Good work. As soon as you're finished there I want all senior officers to report to the bridge.</td></tr>
 
-  KES
-     What's that?
+<tr id="L380"><td><a href="#L380">380</a></td><td>TUVOK:  Acknowledged.</td></tr>
 
-  EMH
-     The radiation surge caused my programme to
-     malfunction and my codes and circuits began to
-     degrade and yet, instead of detecting that threat
-     to my programme, I experienced an elaborate
-     delusion concerning the nature of my existence.
-     Human or hologram. Person or projection. Why? Why
-     would my programme focus on such an esoteric
-     dilemma?
+<tr id="L381"><td><a href="#L381">381</a></td><td>KIM:  It's good to have you back, Doctor.</td></tr>
 
-  KES
-     Well, I sometimes ask those kind of questions. Who
-     am I? What am I doing here? What's my purpose in
-     life? Doesn't everybody?
+<tr id="L382"><td><a href="#L382">382</a></td><td>EMH:  Well, I suppose I should begin cataloguing the neotrianate samples I was working on this morning.</td></tr>
 
-  EMH
-     Not me. I know exactly who I am and what my
-     purpose is. I am the Emergency Medical Hologram
-     aboard the starship Voyager.
+<tr id="L383"><td><a href="#L383">383</a></td><td>ANNOTATION: Tuvok and Kim leave.</td></tr>
 
-  KES
-     Are you sure about that?
+<tr id="L384"><td><a href="#L384">384</a></td><td>KES:  So you really think I'm beautiful?</td></tr>
 
-  ANNOTATION
-     Kes leaves. The EMH leaves his desk and strolls to
-     the Sickbay door. It opens. He checks that the
-     corridor is clear then sticks his arm out. It
-     disappears up to the elbow. He pulls it back in,
-     smiles, and goes back to his work.
+<tr id="L385"><td><a href="#L385">385</a></td><td>EMH:  I was under a great deal of stress, you understand. I may have said things that are not necessarily my true feelings.</td></tr>
 
+<tr id="L386"><td><a href="#L386">386</a></td><td>SOMEONE: Kes. Oh. Then you don't think I'm beautiful.</td></tr>
 
-END CREDITS
+<tr id="L387"><td><a href="#L387">387</a></td><td>EMH:  I didn't say that, exactly. I consider you very, very attractive. In a platonic sense.</td></tr>
+
+<tr id="L388"><td><a href="#L388">388</a></td><td>KES:  I see. Then you don't really love me.</td></tr>
+
+<tr id="L389"><td><a href="#L389">389</a></td><td>EMH:  I'm afraid not.</td></tr>
+
+<tr id="L390"><td><a href="#L390">390</a></td><td>KES:  Then I guess our marriage is over.</td></tr>
+
+<tr id="L391"><td><a href="#L391">391</a></td><td>EMH:  Our marriage? Are you making a joke?</td></tr>
+
+<tr id="L392"><td><a href="#L392">392</a></td><td>KES:  It isn't a joke to me, Lewis. I know we have problems but I think we can solve them.</td></tr>
+
+<tr id="L393"><td><a href="#L393">393</a></td><td>EMH:  No. No, this can't be right. Something's wrong here.</td></tr>
+
+<tr id="L394"><td><a href="#L394">394</a></td><td>BARCLAY:  It's not too late, Lewis. You can still save yourself by destroying the warp core.</td></tr>
+
+<tr id="L395"><td><a href="#L395">395</a></td><td>ANNOTATION: The headaches return.</td></tr>
+
+<tr id="L396"><td><a href="#L396">396</a></td><td>EMH:  No! No, I don't believe you. None of this is real. It's all a delusion. Somebody help me!</td></tr>
+
+<tr id="L397"><td><a href="#L397">397</a></td><td>BARCLAY:  I am helping you.</td></tr>
+
+<tr id="L398"><td><a href="#L398">398</a></td><td>KES:  Listen to him, Lewis.</td></tr>
+
+<tr id="L399"><td><a href="#L399">399</a></td><td>EMH:  No!</td></tr>
+
+<tr id="L400"><td><a href="#L400">400</a></td><td>ANNOTATION: The EMH tries to leave Sickbay but an armed Kazon forces him back inside.</td></tr>
+
+<tr id="L401"><td><a href="#L401">401</a></td><td>PARIS:  Doctor, are you listening to me? That man needs help!</td></tr>
+
+<tr id="L402"><td><a href="#L402">402</a></td><td>ANNOTATION: That man is the EMH on a biobed, with bad burns and Janeway's voice.</td></tr>
+
+<tr id="L403"><td><a href="#L403">403</a></td><td>JANEWAY:  Try to calm down, Doctor, everything's going to be fine.</td></tr>
+
+<tr><td></td><td>LOCATION--Holodeck</td></tr>
+<tr id="L404"><td><a href="#L404">404</a></td><td>JANEWAY:  Doctor, do you know who I am? Do you know where you are?</td></tr>
+
+<tr id="L405"><td><a href="#L405">405</a></td><td>ANNOTATION: Chakotay and Kim are there, too.</td></tr>
+
+<tr id="L406"><td><a href="#L406">406</a></td><td>EMH:  I appear to be on the holodeck grid.</td></tr>
+
+<tr id="L407"><td><a href="#L407">407</a></td><td>JANEWAY:  That's right. And do you know what you are?</td></tr>
+
+<tr id="L408"><td><a href="#L408">408</a></td><td>EMH:  Yes, I'm the Emergency Medical Holographic programme. Right?</td></tr>
+
+<tr id="L409"><td><a href="#L409">409</a></td><td>JANEWAY:  Right.</td></tr>
+
+<tr id="L410"><td><a href="#L410">410</a></td><td>EMH:  Well, I assume everything that's happened took place here on the holodeck.</td></tr>
+
+<tr id="L411"><td><a href="#L411">411</a></td><td>CHAKOTAY:  That's right. We encountered a subspace anomaly and there was a radiation surge in the computer system.</td></tr>
+
+<tr id="L412"><td><a href="#L412">412</a></td><td>EMH:  And Kes is my assistant, not my wife?</td></tr>
+
+<tr id="L413"><td><a href="#L413">413</a></td><td>CHAKOTAY:  Your wife?</td></tr>
+
+<tr id="L414"><td><a href="#L414">414</a></td><td>EMH:  Never mind. Captain, if it's okay, I'd like to return to Sickbay now.</td></tr>
+
+<tr id="L415"><td><a href="#L415">415</a></td><td>JANEWAY:  Of course. It's good to have you back, Doctor.</td></tr>
+
+<tr id="L416"><td><a href="#L416">416</a></td><td>EMH:  It's good to be back.</td></tr>
+
+<tr id="L417"><td><a href="#L417">417</a></td><td>JANEWAY:  Computer, transfer EMH programme to Sickbay.</td></tr>
+
+<tr><td></td><td>LOCATION--Doctor's office</td></tr>
+<tr id="L418"><td><a href="#L418">418</a></td><td>KES:  We were married?</td></tr>
+
+<tr id="L419"><td><a href="#L419">419</a></td><td>EMH:  It was a delusion, of course.</td></tr>
+
+<tr id="L420"><td><a href="#L420">420</a></td><td>KES:  I understand. But I'd still prefer it if you didn't tell Neelix about this. He tends to get a little jealous. It'll be our secret.</td></tr>
+
+<tr id="L421"><td><a href="#L421">421</a></td><td>EMH:  I am curious about one thing.</td></tr>
+
+<tr id="L422"><td><a href="#L422">422</a></td><td>KES:  What's that?</td></tr>
+
+<tr id="L423"><td><a href="#L423">423</a></td><td>EMH:  The radiation surge caused my programme to malfunction and my codes and circuits began to degrade and yet, instead of detecting that threat to my programme, I experienced an elaborate delusion concerning the nature of my existence. Human or hologram. Person or projection. Why? Why would my programme focus on such an esoteric dilemma?</td></tr>
+
+<tr id="L424"><td><a href="#L424">424</a></td><td>KES:  Well, I sometimes ask those kind of questions. Who am I? What am I doing here? What's my purpose in life? Doesn't everybody?</td></tr>
+
+<tr id="L425"><td><a href="#L425">425</a></td><td>EMH:  Not me. I know exactly who I am and what my purpose is. I am the Emergency Medical Hologram aboard the starship Voyager.</td></tr>
+
+<tr id="L426"><td><a href="#L426">426</a></td><td>KES:  Are you sure about that?</td></tr>
+
+<tr id="L427"><td><a href="#L427">427</a></td><td>ANNOTATION: Kes leaves. The EMH leaves his desk and strolls to the Sickbay door. It opens. He checks that the corridor is clear then sticks his arm out. It disappears up to the elbow. He pulls it back in, smiles, and goes back to his work.</td></tr>
+
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

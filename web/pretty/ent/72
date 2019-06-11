@@ -1,1446 +1,753 @@
-The Forgotten
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Forgotten</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Cargo bay</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ARCHER:  We're in bad shape, I can't deny that, but we're still in one piece. Enterprise is a tough ship. She took more than anyone could ask her to and then some, and so have all of you. I wanted to say thank you. I only wish I could thank the eighteen crewmen who were lost. Like you, they understood how important our mission is and they accepted the risks. We came into the Expanse not knowing what we'd find, with no one to rely on but ourselves, but we're going to succeed, to accomplish our mission, for everyone on Earth who's relying on us, and for the eighteen.</td></tr>
 
-LOCATION--Cargo bay
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L2"><td><a href="#L2">2</a></td><td>TUCKER:  We managed to get into sections six and seven on C deck. We found Taylor and Kamata.</td></tr>
 
-  ARCHER
-     We're in bad shape, I can't deny that, but we're
-     still in one piece. Enterprise is a tough ship.
-     She took more than anyone could ask her to and
-     then some, and so have all of you. I wanted to say
-     thank you. I only wish I could thank the eighteen
-     crewmen who were lost. Like you, they understood
-     how important our mission is and they accepted the
-     risks. We came into the Expanse not knowing what
-     we'd find, with no one to rely on but ourselves,
-     but we're going to succeed, to accomplish our
-     mission, for everyone on Earth who's relying on
-     us, and for the eighteen.
+<tr id="L3"><td><a href="#L3">3</a></td><td>T'POL:  That accounts for everyone.</td></tr>
 
+<tr id="L4"><td><a href="#L4">4</a></td><td>ARCHER:  What's our status on weapons?</td></tr>
 
-LOCATION--Ready room
+<tr id="L5"><td><a href="#L5">5</a></td><td>T'POL:  Mister Reed has both forward phase cannons back online in addition to the aft torpedo launchers. Hull plating is up to eighty percent.</td></tr>
 
-  TUCKER
-     We managed to get into sections six and seven on C
-     deck. We found Taylor and Kamata.
+<tr id="L6"><td><a href="#L6">6</a></td><td>ARCHER:  That'll have to do.</td></tr>
 
-  T'POL
-     That accounts for everyone.
+<tr id="L7"><td><a href="#L7">7</a></td><td>TUCKER:  We could wait, hang back until we've had a chance to make more repairs.</td></tr>
 
-  ARCHER
-     What's our status on weapons?
+<tr id="L8"><td><a href="#L8">8</a></td><td>T'POL:  Degra's message was clear. We're to meet him ten hours from now.</td></tr>
 
-  T'POL
-     Mister Reed has both forward phase cannons back
-     online in addition to the aft torpedo launchers.
-     Hull plating is up to eighty percent.
+<tr id="L9"><td><a href="#L9">9</a></td><td>ARCHER:  And I don't intend to be late.</td></tr>
 
-  ARCHER
-     That'll have to do.
+<tr id="L10"><td><a href="#L10">10</a></td><td>TUCKER:  Maybe that's what he's counting on. Lure us into an ambush while we're still licking our wounds.</td></tr>
 
-  TUCKER
-     We could wait, hang back until we've had a chance
-     to make more repairs.
+<tr id="L11"><td><a href="#L11">11</a></td><td>ARCHER:  I've made my decision. We have a lot of work to do. I suggest we get to it.</td></tr>
 
-  T'POL
-     Degra's message was clear. We're to meet him ten
-     hours from now.
+<tr id="L12"><td><a href="#L12">12</a></td><td>TUCKER:  Aye sir.</td></tr>
 
-  ARCHER
-     And I don't intend to be late.
+<tr id="L13"><td><a href="#L13">13</a></td><td>ANNOTATION: T'Pol leaves.</td></tr>
 
-  TUCKER
-     Maybe that's what he's counting on. Lure us into
-     an ambush while we're still licking our wounds.
+<tr id="L14"><td><a href="#L14">14</a></td><td>ARCHER:  Commander. Crewman Taylor was one of yours, wasn't she?</td></tr>
 
-  ARCHER
-     I've made my decision. We have a lot of work to
-     do. I suggest we get to it.
+<tr id="L15"><td><a href="#L15">15</a></td><td>TUCKER:  She was an EPS control specialist, a damn good one.</td></tr>
 
-  TUCKER
-     Aye sir.
+<tr id="L16"><td><a href="#L16">16</a></td><td>ARCHER:  I'd like you to write a letter to her family.</td></tr>
 
-  ANNOTATION
-     T'Pol leaves.
+<tr id="L17"><td><a href="#L17">17</a></td><td>TUCKER:  She worked on Rostov's team. I can ask him.</td></tr>
 
-  ARCHER
-     Commander. Crewman Taylor was one of yours, wasn't
-     she?
+<tr id="L18"><td><a href="#L18">18</a></td><td>ARCHER:  I asked you.</td></tr>
 
-  TUCKER
-     She was an EPS control specialist, a damn good
-     one.
+<tr id="L19"><td><a href="#L19">19</a></td><td>TUCKER:  I'm barely holding the ship together. I don't have time to sit down to and write a letter.</td></tr>
 
-  ARCHER
-     I'd like you to write a letter to her family.
+<tr id="L20"><td><a href="#L20">20</a></td><td>ARCHER:  It doesn't have to be long. Her family deserves to know what happened to her.</td></tr>
 
-  TUCKER
-     She worked on Rostov's team. I can ask him.
+<tr id="L21"><td><a href="#L21">21</a></td><td>TUCKER:  Understood.</td></tr>
 
-  ARCHER
-     I asked you.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L22"><td><a href="#L22">22</a></td><td>T'POL:  You're busy. I'll come back.</td></tr>
 
-  TUCKER
-     I'm barely holding the ship together. I don't have
-     time to sit down to and write a letter.
+<tr id="L23"><td><a href="#L23">23</a></td><td>PHLOX:  Have a seat. I'll have to use a hand scanner. The imaging chamber is still offline. Commander Tucker reassigned the repair team that was working here. He said the Armoury was a higher priority. We'll see how low a priority I am the next time he burns his fingers on a plasma conduit. (examines her) You've experienced no further withdrawal symptoms?</td></tr>
 
-  ARCHER
-     It doesn't have to be long. Her family deserves to
-     know what happened to her.
+<tr id="L24"><td><a href="#L24">24</a></td><td>T'POL:  None.</td></tr>
 
-  TUCKER
-     Understood.
+<tr id="L25"><td><a href="#L25">25</a></td><td>PHLOX:  I'm only detecting trace amounts of trellium in your system. Hardly worth mentioning. That's good news. What is it?</td></tr>
 
+<tr id="L26"><td><a href="#L26">26</a></td><td>T'POL:  (agitated) These emotions have grown more difficult to control. My usual techniques for suppressing them haven't been effective.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L27"><td><a href="#L27">27</a></td><td>PHLOX:  On Earth, there is a cautionary tale about the dangers of releasing a magical creature called a genie from the bottle. Once it's out, it's extremely difficult to put back in.</td></tr>
 
-  T'POL
-     You're busy. I'll come back.
+<tr id="L28"><td><a href="#L28">28</a></td><td>T'POL:  Are you saying these emotions may never subside?</td></tr>
 
-  PHLOX
-     Have a seat. I'll have to use a hand scanner. The
-     imaging chamber is still offline. Commander Tucker
-     reassigned the repair team that was working here.
-     He said the Armoury was a higher priority. We'll
-     see how low a priority I am the next time he burns
-     his fingers on a plasma conduit. (examines her)
-     You've experienced no further withdrawal symptoms?
+<tr id="L29"><td><a href="#L29">29</a></td><td>PHLOX:  You used trellium for three months. It caused significant damage to your neural pathways. You may have to learn to live with these emotions.</td></tr>
 
-  T'POL
-     None.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L30"><td><a href="#L30">30</a></td><td>ANNOTATION: There's welding going on in the Situation room, and Hoshi's hair is a mess.</td></tr>
 
-  PHLOX
-     I'm only detecting trace amounts of trellium in
-     your system. Hardly worth mentioning. That's good
-     news. What is it?
+<tr id="L31"><td><a href="#L31">31</a></td><td>TRAVIS:  We're approaching the coordinates, Captain. Right on schedule.</td></tr>
 
-  T'POL
-     (agitated) These emotions have grown more
-     difficult to control. My usual techniques for
-     suppressing them haven't been effective.
+<tr id="L32"><td><a href="#L32">32</a></td><td>REED:  No ships out there, sir.</td></tr>
 
-  PHLOX
-     On Earth, there is a cautionary tale about the
-     dangers of releasing a magical creature called a
-     genie from the bottle. Once it's out, it's
-     extremely difficult to put back in.
+<tr id="L33"><td><a href="#L33">33</a></td><td>ARCHER:  Hoshi.</td></tr>
 
-  T'POL
-     Are you saying these emotions may never subside?
+<tr id="L34"><td><a href="#L34">34</a></td><td>HOSHI:  Scanning all frequencies. Nothing so far.</td></tr>
 
-  PHLOX
-     You used trellium for three months. It caused
-     significant damage to your neural pathways. You
-     may have to learn to live with these emotions.
+<tr id="L35"><td><a href="#L35">35</a></td><td>TRAVIS:  Maybe they're running late?</td></tr>
 
+<tr id="L36"><td><a href="#L36">36</a></td><td>ANNOTATION: The ship shudders.</td></tr>
 
-LOCATION--Bridge
+<tr id="L37"><td><a href="#L37">37</a></td><td>ARCHER:  Tactical alert!</td></tr>
 
-  ANNOTATION
-     There's welding going on in the Situation room,
-     and Hoshi's hair is a mess.
+<tr id="L38"><td><a href="#L38">38</a></td><td>T'POL:  It's a spatial anomaly. We've entered a dense field.</td></tr>
 
-  TRAVIS
-     We're approaching the coordinates, Captain. Right
-     on schedule.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L39"><td><a href="#L39">39</a></td><td>ANNOTATION: Things start to crackle and flex.</td></tr>
 
-  REED
-     No ships out there, sir.
+<tr id="L40"><td><a href="#L40">40</a></td><td>TUCKER:  Tucker to the Bridge.</td></tr>
 
-  ARCHER
-     Hoshi.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L41"><td><a href="#L41">41</a></td><td>TUCKER [OC]:  This is not the best time for this.</td></tr>
 
-  HOSHI
-     Scanning all frequencies. Nothing so far.
+<tr id="L42"><td><a href="#L42">42</a></td><td>ARCHER:  Stand by, Trip.</td></tr>
 
-  TRAVIS
-     Maybe they're running late?
+<tr id="L43"><td><a href="#L43">43</a></td><td>REED:  Reports of injuries on B deck.</td></tr>
 
-  ANNOTATION
-     The ship shudders.
+<tr id="L44"><td><a href="#L44">44</a></td><td>ANNOTATION: Lots more stuff goes bang and flash.</td></tr>
 
-  ARCHER
-     Tactical alert!
+<tr id="L45"><td><a href="#L45">45</a></td><td>REED:  No one's out there, sir.</td></tr>
 
-  T'POL
-     It's a spatial anomaly. We've entered a dense
-     field.
+<tr id="L46"><td><a href="#L46">46</a></td><td>ARCHER:  Get us out of here.</td></tr>
 
+<tr id="L47"><td><a href="#L47">47</a></td><td>TRAVIS:  Aye, sir.</td></tr>
 
-LOCATION--Engineering
+<tr id="L48"><td><a href="#L48">48</a></td><td>T'POL:  Captain.</td></tr>
 
-  ANNOTATION
-     Things start to crackle and flex.
+<tr id="L49"><td><a href="#L49">49</a></td><td>ANNOTATION: On the viewscreen, a little ship appears from nowhere.</td></tr>
 
-  TUCKER
-     Tucker to the Bridge.
+<tr id="L50"><td><a href="#L50">50</a></td><td>HOSHI:  We're receiving a transmission. It's Degra. He's telling us to follow him.</td></tr>
 
+<tr id="L51"><td><a href="#L51">51</a></td><td>ANNOTATION: Archer nods and they follow the little ship back into nothing.</td></tr>
 
-LOCATION--Bridge
+<tr id="L52"><td><a href="#L52">52</a></td><td>ARCHER:  Stay with him, Travis.</td></tr>
 
-  TUCKER [OC]
-     This is not the best time for this.
+<tr id="L53"><td><a href="#L53">53</a></td><td>TRAVIS:  Aye, sir.</td></tr>
 
-  ARCHER
-     Stand by, Trip.
+<tr id="L54"><td><a href="#L54">54</a></td><td>ANNOTATION: They emerge at a Sphere.</td></tr>
 
-  REED
-     Reports of injuries on B deck.
+<tr id="L55"><td><a href="#L55">55</a></td><td>HOSHI:  They're hailing us.</td></tr>
 
-  ANNOTATION
-     Lots more stuff goes bang and flash.
+<tr id="L56"><td><a href="#L56">56</a></td><td>DEGRA [on viewscreen]:  I see you found my message. We have a great deal to discuss and I don't have much time. Come aboard my ship.</td></tr>
 
-  REED
-     No one's out there, sir.
+<tr><td></td><td>LOCATION--Degra's ship</td></tr>
+<tr id="L57"><td><a href="#L57">57</a></td><td>DEGRA:  If we'd left you with the Reptilians they would have killed you.</td></tr>
 
-  ARCHER
-     Get us out of here.
+<tr id="L58"><td><a href="#L58">58</a></td><td>ARBOREAL:  Degra arranged for the Aquatics to return you to your ship.</td></tr>
 
-  TRAVIS
-     Aye, sir.
+<tr id="L59"><td><a href="#L59">59</a></td><td>ARCHER:  Then you also called off the attack on Enterprise?</td></tr>
 
-  T'POL
-     Captain.
+<tr id="L60"><td><a href="#L60">60</a></td><td>DEGRA:  The Reptilians weren't very pleased about that either.</td></tr>
 
-  ANNOTATION
-     On the viewscreen, a little ship appears from
-     nowhere.
+<tr id="L61"><td><a href="#L61">61</a></td><td>ARCHER:  You've taken a big risk.</td></tr>
 
-  HOSHI
-     We're receiving a transmission. It's Degra. He's
-     telling us to follow him.
+<tr id="L62"><td><a href="#L62">62</a></td><td>DEGRA:  If you're telling the truth, the future of my people is at stake.</td></tr>
 
-  ANNOTATION
-     Archer nods and they follow the little ship back
-     into nothing.
+<tr id="L63"><td><a href="#L63">63</a></td><td>ARCHER:  Everything I've told you is true.</td></tr>
 
-  ARCHER
-     Stay with him, Travis.
+<tr id="L64"><td><a href="#L64">64</a></td><td>ARBOREAL:  Forgive me, but the Council will need more than your word. Perhaps you can demonstrate your ability to time travel?</td></tr>
 
-  TRAVIS
-     Aye, sir.
+<tr id="L65"><td><a href="#L65">65</a></td><td>ARCHER:  That might be a bit difficult, but if you come aboard my ship I can give you all the proof you want.</td></tr>
 
-  ANNOTATION
-     They emerge at a Sphere.
+<tr id="L66"><td><a href="#L66">66</a></td><td>ARBOREAL:  Very well.</td></tr>
 
-  HOSHI
-     They're hailing us.
+<tr id="L67"><td><a href="#L67">67</a></td><td>ARCHER:  But there are some things I want to know first.</td></tr>
 
-  DEGRA [on viewscreen]
-     I see you found my message. We have a great deal
-     to discuss and I don't have much time. Come aboard
-     my ship.
+<tr id="L68"><td><a href="#L68">68</a></td><td>ARBOREAL:  Such as?</td></tr>
 
+<tr id="L69"><td><a href="#L69">69</a></td><td>ARCHER:  When will your weapon be launched?</td></tr>
 
-LOCATION--Degra's ship
+<tr id="L70"><td><a href="#L70">70</a></td><td>DEGRA:  The precise date hasn't been determined yet.</td></tr>
 
-  DEGRA
-     If we'd left you with the Reptilians they would
-     have killed you.
+<tr id="L71"><td><a href="#L71">71</a></td><td>ARCHER:  Weeks? Days?</td></tr>
 
-  ARBOREAL
-     Degra arranged for the Aquatics to return you to
-     your ship.
+<tr id="L72"><td><a href="#L72">72</a></td><td>ARBOREAL:  That's up to the Council.</td></tr>
 
-  ARCHER
-     Then you also called off the attack on Enterprise?
+<tr id="L73"><td><a href="#L73">73</a></td><td>ARCHER:  I'm trying to help you, but I need to know my world isn't being destroyed while I'm doing it.</td></tr>
 
-  DEGRA
-     The Reptilians weren't very pleased about that
-     either.
+<tr id="L74"><td><a href="#L74">74</a></td><td>DEGRA:  The weapon won't be launched for several days. Show us your proof and we'll do what we can to stop it.</td></tr>
 
-  ARCHER
-     You've taken a big risk.
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L75"><td><a href="#L75">75</a></td><td>ANNOTATION: Ration packs are being handed out.</td></tr>
 
-  DEGRA
-     If you're telling the truth, the future of my
-     people is at stake.
+<tr id="L76"><td><a href="#L76">76</a></td><td>TUCKER:  What'd you get?</td></tr>
 
-  ARCHER
-     Everything I've told you is true.
+<tr id="L77"><td><a href="#L77">77</a></td><td>T'POL:  Pepperoni pizza.</td></tr>
 
-  ARBOREAL
-     Forgive me, but the Council will need more than
-     your word. Perhaps you can demonstrate your
-     ability to time travel?
+<tr id="L78"><td><a href="#L78">78</a></td><td>TUCKER:  Don't worry, you can pick the pepperoni off.</td></tr>
 
-  ARCHER
-     That might be a bit difficult, but if you come
-     aboard my ship I can give you all the proof you
-     want.
+<tr id="L79"><td><a href="#L79">79</a></td><td>ANNOTATION: T'Pol seeing the PADD he's holding.</td></tr>
 
-  ARBOREAL
-     Very well.
+<tr id="L80"><td><a href="#L80">80</a></td><td>T'POL:  Damage reports?</td></tr>
 
-  ARCHER
-     But there are some things I want to know first.
+<tr id="L81"><td><a href="#L81">81</a></td><td>TUCKER:  No, the Captain wants me to write a letter to Crewman Taylor's family.</td></tr>
 
-  ARBOREAL
-     Such as?
+<tr id="L82"><td><a href="#L82">82</a></td><td>T'POL:  I'm sure they'll appreciate that.</td></tr>
 
-  ARCHER
-     When will your weapon be launched?
+<tr id="L83"><td><a href="#L83">83</a></td><td>TUCKER:  Their daughter's dead. Do you really think they'll care what I have to say?</td></tr>
 
-  DEGRA
-     The precise date hasn't been determined yet.
+<tr id="L84"><td><a href="#L84">84</a></td><td>T'POL:  When was the last time you slept?</td></tr>
 
-  ARCHER
-     Weeks? Days?
+<tr id="L85"><td><a href="#L85">85</a></td><td>TUCKER:  I don't know. Not since the attack.</td></tr>
 
-  ARBOREAL
-     That's up to the Council.
+<tr id="L86"><td><a href="#L86">86</a></td><td>T'POL:  That was two days ago.</td></tr>
 
-  ARCHER
-     I'm trying to help you, but I need to know my
-     world isn't being destroyed while I'm doing it.
+<tr id="L87"><td><a href="#L87">87</a></td><td>TUCKER:  All right then, two days.</td></tr>
 
-  DEGRA
-     The weapon won't be launched for several days.
-     Show us your proof and we'll do what we can to
-     stop it.
+<tr id="L88"><td><a href="#L88">88</a></td><td>T'POL:  Go to your quarters. Get some sleep.</td></tr>
 
+<tr id="L89"><td><a href="#L89">89</a></td><td>TUCKER:  Believe me, I'd love to.</td></tr>
 
-LOCATION--Mess hall
+<tr id="L90"><td><a href="#L90">90</a></td><td>T'POL:  I could order you.</td></tr>
 
-  ANNOTATION
-     Ration packs are being handed out.
+<tr id="L91"><td><a href="#L91">91</a></td><td>TUCKER:  I don't have time. We're full of holes. The only thing keeping us flying is a stolen warp coil, and now I've got to write this letter. (jolt) What the hell?</td></tr>
 
-  TUCKER
-     What'd you get?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L92"><td><a href="#L92">92</a></td><td>ANNOTATION: A crewman has been badly burnt. T'Pol and Trip pull him away as another crewman puts out the fire.</td></tr>
 
-  T'POL
-     Pepperoni pizza.
+<tr id="L93"><td><a href="#L93">93</a></td><td>TUCKER:  Tucker to Engineering. Shut down the auxiliary coolant line between sections twelve and fourteen on E deck.</td></tr>
 
-  TUCKER
-     Don't worry, you can pick the pepperoni off.
+<tr id="L94"><td><a href="#L94">94</a></td><td>CREWMAN [OC]:  Aye sir.</td></tr>
 
-  ANNOTATION
-     T'Pol seeing the PADD he's holding.
+<tr id="L95"><td><a href="#L95">95</a></td><td>TUCKER:  Tucker to Sickbay. Medical emergency on E deck, section twelve.</td></tr>
 
-  T'POL
-     Damage reports?
+<tr id="L96"><td><a href="#L96">96</a></td><td>PHLOX [OC]:  On my way, Commander.</td></tr>
 
-  TUCKER
-     No, the Captain wants me to write a letter to
-     Crewman Taylor's family.
+<tr id="L97"><td><a href="#L97">97</a></td><td>TUCKER:  Reactor pressure's holding. Good thing I wasn't taking a nap.</td></tr>
 
-  T'POL
-     I'm sure they'll appreciate that.
+<tr id="L98"><td><a href="#L98">98</a></td><td>ANNOTATION: But on the outside of the hull, we see atmosphere escaping.</td></tr>
 
-  TUCKER
-     Their daughter's dead. Do you really think they'll
-     care what I have to say?
+<tr><td></td><td>LOCATION--Morgue</td></tr>
+<tr id="L99"><td><a href="#L99">99</a></td><td>ANNOTATION: Degra views the Reptilian bodies.</td></tr>
 
-  T'POL
-     When was the last time you slept?
+<tr id="L100"><td><a href="#L100">100</a></td><td>DEGRA:  Damron.</td></tr>
 
-  TUCKER
-     I don't know. Not since the attack.
+<tr id="L101"><td><a href="#L101">101</a></td><td>ARCHER:  A friend of yours?</td></tr>
 
-  T'POL
-     That was two days ago.
+<tr id="L102"><td><a href="#L102">102</a></td><td>DEGRA:  A colleague, of sorts.</td></tr>
 
-  TUCKER
-     All right then, two days.
+<tr id="L103"><td><a href="#L103">103</a></td><td>ARCHER:  They're the ones we found on Earth, in the past.</td></tr>
 
-  T'POL
-     Go to your quarters. Get some sleep.
+<tr id="L104"><td><a href="#L104">104</a></td><td>ARBOREAL:  And this is the result of your finding them?</td></tr>
 
-  TUCKER
-     Believe me, I'd love to.
+<tr id="L105"><td><a href="#L105">105</a></td><td>ARCHER:  They were about to release a bioweapon that would have decimated the population.</td></tr>
 
-  T'POL
-     I could order you.
+<tr id="L106"><td><a href="#L106">106</a></td><td>DEGRA:  Reptilians felt a toxin would be more effective on your species. Damron and his team disappeared shortly after the Council rejected his proposal.</td></tr>
 
-  TUCKER
-     I don't have time. We're full of holes. The only
-     thing keeping us flying is a stolen warp coil, and
-     now I've got to write this letter. (jolt) What the
-     hell?
+<tr id="L107"><td><a href="#L107">107</a></td><td>ARCHER:  Apparently he decided to go ahead without your Council's approval.</td></tr>
 
+<tr id="L108"><td><a href="#L108">108</a></td><td>ARBOREAL:  But fortunately, you were able to stop him, by travelling back through time.</td></tr>
 
-LOCATION--Corridor
+<tr id="L109"><td><a href="#L109">109</a></td><td>ARCHER:  I already told you. We had help, just like they did.</td></tr>
 
-  ANNOTATION
-     A crewman has been badly burnt. T'Pol and Trip
-     pull him away as another crewman puts out the
-     fire.
+<tr id="L110"><td><a href="#L110">110</a></td><td>ARBOREAL:  This proves nothing. How do we know he didn't capture them in the present.</td></tr>
 
-  TUCKER
-     Tucker to Engineering. Shut down the auxiliary
-     coolant line between sections twelve and fourteen
-     on E deck.
+<tr id="L111"><td><a href="#L111">111</a></td><td>ARCHER:  You need more evidence.</td></tr>
 
-  CREWMAN [OC]
-     Aye sir.
+<tr><td></td><td>LOCATION--Secure storage</td></tr>
+<tr id="L112"><td><a href="#L112">112</a></td><td>ANNOTATION: Archer opens up the Xindi bioweapon contraption and takes out the central cylinder.</td></tr>
 
-  TUCKER
-     Tucker to Sickbay. Medical emergency on E deck,
-     section twelve.
+<tr id="L113"><td><a href="#L113">113</a></td><td>ARCHER:  They had this with them. We destroyed the toxin, but my doctor kept a sample of it in stasis.</td></tr>
 
-  PHLOX [OC]
-     On my way, Commander.
+<tr id="L114"><td><a href="#L114">114</a></td><td>DEGRA:  This appears to be Xindi technology, but I'd like to have our engineers confirm it.</td></tr>
 
-  TUCKER
-     Reactor pressure's holding. Good thing I wasn't
-     taking a nap.
+<tr id="L115"><td><a href="#L115">115</a></td><td>ARCHER:  Have them come aboard, perform whatever test they'd like.</td></tr>
 
-  ANNOTATION
-     But on the outside of the hull, we see atmosphere
-     escaping.
+<tr id="L116"><td><a href="#L116">116</a></td><td>ARBOREAL:  This proves nothing except the reptilians disobeyed the Council, which comes as no great surprise. But you also claim that we've been misled by transdimensional aliens. Where is your evidence of that?</td></tr>
 
+<tr id="L117"><td><a href="#L117">117</a></td><td>ANNOTATION: Archer puts the cylinder back in the device and locking it all away again.</td></tr>
 
-LOCATION--Morgue
+<tr id="L118"><td><a href="#L118">118</a></td><td>ARCHER:  Come with me.</td></tr>
 
-  ANNOTATION
-     Degra views the Reptilian bodies.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L119"><td><a href="#L119">119</a></td><td>TUCKER:  There's a microfracture in the magnesium jacket. That's why it ruptured.</td></tr>
 
-  DEGRA
-     Damron.
+<tr id="L120"><td><a href="#L120">120</a></td><td>CREWMAN:  I ran a pressure test.</td></tr>
 
-  ARCHER
-     A friend of yours?
+<tr id="L121"><td><a href="#L121">121</a></td><td>TUCKER:  Tell it to the man lying in Sickbay! Test them again, all of them.</td></tr>
 
-  DEGRA
-     A colleague, of sorts.
+<tr id="L122"><td><a href="#L122">122</a></td><td>CREWMAN:  Aye, sir.</td></tr>
 
-  ARCHER
-     They're the ones we found on Earth, in the past.
+<tr id="L123"><td><a href="#L123">123</a></td><td>PHLOX:  Commander.</td></tr>
 
-  ARBOREAL
-     And this is the result of your finding them?
+<tr id="L124"><td><a href="#L124">124</a></td><td>TUCKER:  I'm a little busy, Doc.</td></tr>
 
-  ARCHER
-     They were about to release a bioweapon that would
-     have decimated the population.
+<tr id="L125"><td><a href="#L125">125</a></td><td>PHLOX:  So it seems. I understand you haven't slept since the attack.</td></tr>
 
-  DEGRA
-     Reptilians felt a toxin would be more effective on
-     your species. Damron and his team disappeared
-     shortly after the Council rejected his proposal.
+<tr id="L126"><td><a href="#L126">126</a></td><td>TUCKER:  T'Pol tattling on me now?</td></tr>
 
-  ARCHER
-     Apparently he decided to go ahead without your
-     Council's approval.
+<tr id="L127"><td><a href="#L127">127</a></td><td>PHLOX:  Perhaps she's worried about you.</td></tr>
 
-  ARBOREAL
-     But fortunately, you were able to stop him, by
-     travelling back through time.
+<tr id="L128"><td><a href="#L128">128</a></td><td>TUCKER:  Well, I appreciate that, but I'm trying to hold this ship together with spit and baling wire.</td></tr>
 
-  ARCHER
-     I already told you. We had help, just like they
-     did.
+<tr id="L129"><td><a href="#L129">129</a></td><td>PHLOX:  Has it occurred to you that we'll be far worse off if you collapse from exhaustion?</td></tr>
 
-  ARBOREAL
-     This proves nothing. How do we know he didn't
-     capture them in the present.
+<tr id="L130"><td><a href="#L130">130</a></td><td>TUCKER:  Your concern is duly noted, Doc, but I've got to get back to work.</td></tr>
 
-  ARCHER
-     You need more evidence.
+<tr id="L131"><td><a href="#L131">131</a></td><td>PHLOX:  I don't believe so.</td></tr>
 
+<tr id="L132"><td><a href="#L132">132</a></td><td>TUCKER:  Come again?</td></tr>
 
-LOCATION--Secure storage
+<tr id="L133"><td><a href="#L133">133</a></td><td>PHLOX:  I'm relieving you of duty. You will go to your quarters and not return to your post before oh five hundred tomorrow.</td></tr>
 
-  ANNOTATION
-     Archer opens up the Xindi bioweapon contraption
-     and takes out the central cylinder.
+<tr id="L134"><td><a href="#L134">134</a></td><td>TUCKER:  Six hours?</td></tr>
 
-  ARCHER
-     They had this with them. We destroyed the toxin,
-     but my doctor kept a sample of it in stasis.
+<tr id="L135"><td><a href="#L135">135</a></td><td>PHLOX:  Please don't make me involve security.</td></tr>
 
-  DEGRA
-     This appears to be Xindi technology, but I'd like
-     to have our engineers confirm it.
+<tr id="L136"><td><a href="#L136">136</a></td><td>ARCHER [OC]:  Archer to Doctor Phlox.</td></tr>
 
-  ARCHER
-     Have them come aboard, perform whatever test
-     they'd like.
+<tr id="L137"><td><a href="#L137">137</a></td><td>PHLOX:  Yes, Captain.</td></tr>
 
-  ARBOREAL
-     This proves nothing except the reptilians
-     disobeyed the Council, which comes as no great
-     surprise. But you also claim that we've been
-     misled by transdimensional aliens. Where is your
-     evidence of that?
+<tr id="L138"><td><a href="#L138">138</a></td><td>ARCHER [OC]:  I need you in Sickbay.</td></tr>
 
-  ANNOTATION
-     Archer puts the cylinder back in the device and
-     locking it all away again.
+<tr id="L139"><td><a href="#L139">139</a></td><td>PHLOX:  I'll be right there. Well, Commander?</td></tr>
 
-  ARCHER
-     Come with me.
+<tr id="L140"><td><a href="#L140">140</a></td><td>TUCKER:  I can give you two hours.</td></tr>
 
+<tr id="L141"><td><a href="#L141">141</a></td><td>PHLOX:  I believe the number was six.</td></tr>
 
-LOCATION--Corridor
+<tr id="L142"><td><a href="#L142">142</a></td><td>TUCKER:  If I'm gone longer than three there may not be a ship here when I get back.</td></tr>
 
-  TUCKER
-     There's a microfracture in the magnesium jacket.
-     That's why it ruptured.
+<tr id="L143"><td><a href="#L143">143</a></td><td>PHLOX:  Four. Not a minute less.</td></tr>
 
-  CREWMAN
-     I ran a pressure test.
+<tr id="L144"><td><a href="#L144">144</a></td><td>TUCKER:  Done. And remind me never to buy a car from you. Captain's waiting for you.</td></tr>
 
-  TUCKER
-     Tell it to the man lying in Sickbay! Test them
-     again, all of them.
+<tr id="L145"><td><a href="#L145">145</a></td><td>PHLOX:  I'm aware of that.</td></tr>
 
-  CREWMAN
-     Aye, sir.
+<tr id="L146"><td><a href="#L146">146</a></td><td>TUCKER:  Well, goodnight then.</td></tr>
 
-  PHLOX
-     Commander.
+<tr id="L147"><td><a href="#L147">147</a></td><td>ANNOTATION: Meanwhile, the air leak gets bigger.</td></tr>
 
-  TUCKER
-     I'm a little busy, Doc.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L148"><td><a href="#L148">148</a></td><td>ANNOTATION: Images of the transdimensional harbinger alien on a screen.</td></tr>
 
-  PHLOX
-     So it seems. I understand you haven't slept since
-     the attack.
+<tr id="L149"><td><a href="#L149">149</a></td><td>ARCHER:  We found him adrift. Do you recognise his species?</td></tr>
 
-  TUCKER
-     T'Pol tattling on me now?
+<tr id="L150"><td><a href="#L150">150</a></td><td>ARBOREAL:  We've met one of them.</td></tr>
 
-  PHLOX
-     Perhaps she's worried about you.
+<tr id="L151"><td><a href="#L151">151</a></td><td>DEGRA:  What caused his death?</td></tr>
 
-  TUCKER
-     Well, I appreciate that, but I'm trying to hold
-     this ship together with spit and baling wire.
+<tr id="L152"><td><a href="#L152">152</a></td><td>ARCHER:  Some kind of cellular degeneration. It started the moment he was taken off his ship.</td></tr>
 
-  PHLOX
-     Has it occurred to you that we'll be far worse off
-     if you collapse from exhaustion?
+<tr id="L153"><td><a href="#L153">153</a></td><td>DEGRA:  Perhaps your atmosphere was toxic to him.</td></tr>
 
-  TUCKER
-     Your concern is duly noted, Doc, but I've got to
-     get back to work.
+<tr id="L154"><td><a href="#L154">154</a></td><td>PHLOX:  I believe our universe was toxic to him. His species evolved in a different dimension with a different set of physical laws. He simply couldn't exist here.</td></tr>
 
-  PHLOX
-     I don't believe so.
+<tr id="L155"><td><a href="#L155">155</a></td><td>ARCHER:  That's why his species built the Spheres, to make our space more compatible for themselves.</td></tr>
 
-  TUCKER
-     Come again?
+<tr id="L156"><td><a href="#L156">156</a></td><td>PHLOX:  I believe he was a test subject sent here to see if they were succeeding.</td></tr>
 
-  PHLOX
-     I'm relieving you of duty. You will go to your
-     quarters and not return to your post before oh
-     five hundred tomorrow.
+<tr id="L157"><td><a href="#L157">157</a></td><td>DEGRA:  And if they are, you're saying the Expanse will no longer be compatible for us.</td></tr>
 
-  TUCKER
-     Six hours?
+<tr id="L158"><td><a href="#L158">158</a></td><td>PHLOX:  Or any of us.</td></tr>
 
-  PHLOX
-     Please don't make me involve security.
+<tr id="L159"><td><a href="#L159">159</a></td><td>ARCHER:  We're destined to form an alliance to stop them, but if you destroy Earth that'll never happen. You'll be condemning your own race to extinction.</td></tr>
 
-  ARCHER [OC]
-     Archer to Doctor Phlox.
+<tr><td></td><td>LOCATION--Taylor's quarters</td></tr>
+<tr id="L160"><td><a href="#L160">160</a></td><td>ANNOTATION: Tucker has woken in his own quarters and gone to Taylor's wrecked quarters, looking for inspiration. He finds a broken picture in a frame.</td></tr>
 
-  PHLOX
-     Yes, Captain.
+<tr id="L161"><td><a href="#L161">161</a></td><td>TAYLOR:  Trouble sleeping, sir?</td></tr>
 
-  ARCHER [OC]
-     I need you in Sickbay.
+<tr id="L162"><td><a href="#L162">162</a></td><td>TUCKER:  Taylor! You were killed. This whole section decompressed. Did you find a sealed compartment?</td></tr>
 
-  PHLOX
-     I'll be right there. Well, Commander?
+<tr id="L163"><td><a href="#L163">163</a></td><td>TAYLOR:  No.</td></tr>
 
-  TUCKER
-     I can give you two hours.
+<tr id="L164"><td><a href="#L164">164</a></td><td>TUCKER:  Then how? (realises) You're dead, and I'm dreaming.</td></tr>
 
-  PHLOX
-     I believe the number was six.
+<tr id="L165"><td><a href="#L165">165</a></td><td>TAYLOR:  The letter. How's it going?</td></tr>
 
-  TUCKER
-     If I'm gone longer than three there may not be a
-     ship here when I get back.
+<tr id="L166"><td><a href="#L166">166</a></td><td>TUCKER:  I got as far as 'I regret to inform you.'</td></tr>
 
-  PHLOX
-     Four. Not a minute less.
+<tr id="L167"><td><a href="#L167">167</a></td><td>TAYLOR:  That's a little dry, sir.</td></tr>
 
-  TUCKER
-     Done. And remind me never to buy a car from you.
-     Captain's waiting for you.
+<tr id="L168"><td><a href="#L168">168</a></td><td>TUCKER:  You're not real. You don't have to call me sir.</td></tr>
 
-  PHLOX
-     I'm aware of that.
+<tr id="L169"><td><a href="#L169">169</a></td><td>TAYLOR:  So what's the problem? The letter doesn't have to be long, the Captain told you that. You can't think of anything.</td></tr>
 
-  TUCKER
-     Well, goodnight then.
+<tr id="L170"><td><a href="#L170">170</a></td><td>TUCKER:  I wish it was that simple.</td></tr>
 
-  ANNOTATION
-     Meanwhile, the air leak gets bigger.
+<tr id="L171"><td><a href="#L171">171</a></td><td>TAYLOR:  I served on Enterprise for three years. You pulled me off the Saratoga to be on your team. Captain Brody was pretty angry at you.</td></tr>
 
+<tr id="L172"><td><a href="#L172">172</a></td><td>TUCKER:  I'd forgot about that.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L173"><td><a href="#L173">173</a></td><td>TAYLOR:  You told me I'd make a fine Chief Engineer someday.</td></tr>
 
-  ANNOTATION
-     Images of the transdimensional harbinger alien on
-     a screen.
+<tr id="L174"><td><a href="#L174">174</a></td><td>TUCKER:  You will. You would have.</td></tr>
 
-  ARCHER
-     We found him adrift. Do you recognise his species?
+<tr id="L175"><td><a href="#L175">175</a></td><td>TAYLOR:  Then tell my parents that. Tell them about the practical jokes Rostov used to play, or that one time when I found that glitch in the injector assembly that everyone else missed? Tell them how hard I worked. Tell them how much you liked me. Why can't you look at me? Just remember me. Is that asking so much?</td></tr>
 
-  ARBOREAL
-     We've met one of them.
+<tr id="L176"><td><a href="#L176">176</a></td><td>TUCKER:  Yes.</td></tr>
 
-  DEGRA
-     What caused his death?
+<tr id="L177"><td><a href="#L177">177</a></td><td>TAYLOR:  Why?</td></tr>
 
-  ARCHER
-     Some kind of cellular degeneration. It started the
-     moment he was taken off his ship.
+<tr id="L178"><td><a href="#L178">178</a></td><td>ANNOTATION: He tries to leave but she stops him.</td></tr>
 
-  DEGRA
-     Perhaps your atmosphere was toxic to him.
+<tr id="L179"><td><a href="#L179">179</a></td><td>TAYLOR:   Why?</td></tr>
 
-  PHLOX
-     I believe our universe was toxic to him. His
-     species evolved in a different dimension with a
-     different set of physical laws. He simply couldn't
-     exist here.
+<tr id="L180"><td><a href="#L180">180</a></td><td>ANNOTATION: Tucker wakes up again in his own quarters.</td></tr>
 
-  ARCHER
-     That's why his species built the Spheres, to make
-     our space more compatible for themselves.
+<tr><td></td><td>LOCATION--Degra's ship</td></tr>
+<tr id="L181"><td><a href="#L181">181</a></td><td>ARBOREAL:  These tests only confirm the equipment belonged to the reptilians.</td></tr>
 
-  PHLOX
-     I believe he was a test subject sent here to see
-     if they were succeeding.
+<tr id="L182"><td><a href="#L182">182</a></td><td>DEGRA:  There's also evidence of chronometric distortion. Time travel.</td></tr>
 
-  DEGRA
-     And if they are, you're saying the Expanse will no
-     longer be compatible for us.
+<tr id="L183"><td><a href="#L183">183</a></td><td>ARBOREAL:  The readings could have been fabricated.</td></tr>
 
-  PHLOX
-     Or any of us.
+<tr id="L184"><td><a href="#L184">184</a></td><td>DEGRA:  You're determined not to trust him.</td></tr>
 
-  ARCHER
-     We're destined to form an alliance to stop them,
-     but if you destroy Earth that'll never happen.
-     You'll be condemning your own race to extinction.
+<tr id="L185"><td><a href="#L185">185</a></td><td>ARBOREAL:  No more than you seem to be determined to believe whatever he says. Now, I admit Archer's evidence is intriguing, but we barely know this human. Our contact from the future has helped us many times. She brought this Council together.</td></tr>
 
+<tr id="L186"><td><a href="#L186">186</a></td><td>DEGRA:  And you've never wondered if she might have an agenda of her own?</td></tr>
 
-LOCATION--Taylor's quarters
+<tr id="L187"><td><a href="#L187">187</a></td><td>ARBOREAL:  I am not a fool, Degra. All I'm saying is that it'll take a little more than a few chronometric distortions to turn the Council against her.</td></tr>
 
-  ANNOTATION
-     Tucker has woken in his own quarters and gone to
-     Taylor's wrecked quarters, looking for
-     inspiration. He finds a broken picture in a frame.
+<tr id="L188"><td><a href="#L188">188</a></td><td>DEGRA:  Captain Archer is expecting me.</td></tr>
 
-  TAYLOR
-     Trouble sleeping, sir?
+<tr id="L189"><td><a href="#L189">189</a></td><td>ARBOREAL:  More evidence?</td></tr>
 
-  TUCKER
-     Taylor! You were killed. This whole section
-     decompressed. Did you find a sealed compartment?
+<tr id="L190"><td><a href="#L190">190</a></td><td>DEGRA:  He claims to know a great deal about the Spheres.</td></tr>
 
-  TAYLOR
-     No.
+<tr id="L191"><td><a href="#L191">191</a></td><td>ARBOREAL:  Degra, I know you've had doubts about building the weapon. Don't let them cloud your judgment.</td></tr>
 
-  TUCKER
-     Then how? (realises) You're dead, and I'm
-     dreaming.
+<tr><td></td><td>LOCATION--Command centre</td></tr>
+<tr id="L192"><td><a href="#L192">192</a></td><td>ANNOTATION: Degra is standing with T'Pol as Tucker works lying on the floor by the wall. The main display screen is a maze of fuzz and distortion</td></tr>
 
-  TAYLOR
-     The letter. How's it going?
+<tr id="L193"><td><a href="#L193">193</a></td><td>T'POL:  We've been working to reconstruct our database.</td></tr>
 
-  TUCKER
-     I got as far as 'I regret to inform you.'
+<tr id="L194"><td><a href="#L194">194</a></td><td>TUCKER:  The pounding your ships gave us didn't help much. Try it now. I'm going to reset the optical subprocessors. That might clear it up. When we slipped through your detection grid, we got a look at the weapon you're building. An impressive piece of engineering. Hell, it'd take at least a thousand starships like Enterprise to blow up an entire planet. You know, I'd like to see the telemetry from the probe you launched against Earth.</td></tr>
 
-  TAYLOR
-     That's a little dry, sir.
+<tr id="L195"><td><a href="#L195">195</a></td><td>T'POL:  Increase the data resolution.</td></tr>
 
-  TUCKER
-     You're not real. You don't have to call me sir.
+<tr id="L196"><td><a href="#L196">196</a></td><td>TUCKER:  I assume you were watching the attack, calculating the blast yields. Boy, you must have been pretty damn excited. I mean, that beam cut one hell of a swath through Florida. That's the name of one of the places you destroyed. Florida.</td></tr>
 
-  TAYLOR
-     So what's the problem? The letter doesn't have to
-     be long, the Captain told you that. You can't
-     think of anything.
+<tr id="L197"><td><a href="#L197">197</a></td><td>T'POL:  Commander.</td></tr>
 
-  TUCKER
-     I wish it was that simple.
+<tr id="L198"><td><a href="#L198">198</a></td><td>TUCKER:  Did you actually see the cities burning? The houses, the people being vaporised? I had a sister there.</td></tr>
 
-  TAYLOR
-     I served on Enterprise for three years. You pulled
-     me off the Saratoga to be on your team. Captain
-     Brody was pretty angry at you.
+<tr id="L199"><td><a href="#L199">199</a></td><td>T'POL:  Commander!</td></tr>
 
-  TUCKER
-     I'd forgot about that.
+<tr id="L200"><td><a href="#L200">200</a></td><td>ARCHER:  How are the repairs coming.</td></tr>
 
-  TAYLOR
-     You told me I'd make a fine Chief Engineer
-     someday.
+<tr id="L201"><td><a href="#L201">201</a></td><td>TUCKER:  Just need a few more minutes, Captain.</td></tr>
 
-  TUCKER
-     You will. You would have.
+<tr id="L202"><td><a href="#L202">202</a></td><td>ARCHER:  (to Degra) Why don't you join me in my Ready room until they're finished.</td></tr>
 
-  TAYLOR
-     Then tell my parents that. Tell them about the
-     practical jokes Rostov used to play, or that one
-     time when I found that glitch in the injector
-     assembly that everyone else missed? Tell them how
-     hard I worked. Tell them how much you liked me.
-     Why can't you look at me? Just remember me. Is
-     that asking so much?
+<tr id="L203"><td><a href="#L203">203</a></td><td>ANNOTATION: Degra leaves. To Tucker -</td></tr>
 
-  TUCKER
-     Yes.
+<tr id="L204"><td><a href="#L204">204</a></td><td>ARCHER:  Let's stick to the job at hand.</td></tr>
 
-  TAYLOR
-     Why?
+<tr id="L205"><td><a href="#L205">205</a></td><td>TUCKER:  Aye, sir.</td></tr>
 
-  ANNOTATION
-     He tries to leave but she stops him.
+<tr id="L206"><td><a href="#L206">206</a></td><td>ANNOTATION: Archer leaves.</td></tr>
 
-  TAYLOR
-     Why?
+<tr id="L207"><td><a href="#L207">207</a></td><td>T'POL:  The Captain is trying to gain Degra's trust.</td></tr>
 
-  ANNOTATION
-     Tucker wakes up again in his own quarters.
+<tr id="L208"><td><a href="#L208">208</a></td><td>ANNOTATION: Tucker closes his tool box and stalks out of the room. Outside, the hole blows into a green volcano.</td></tr>
 
+<tr><td></td><td>LOCATION--Situation room</td></tr>
+<tr id="L209"><td><a href="#L209">209</a></td><td>ANNOTATION: The wall monitor has 'System failure' in large red letters on it.</td></tr>
 
-LOCATION--Degra's ship
+<tr id="L210"><td><a href="#L210">210</a></td><td>TUCKER:  It's one of the warp plasma conduits.</td></tr>
 
-  ARBOREAL
-     These tests only confirm the equipment belonged to
-     the reptilians.
+<tr id="L211"><td><a href="#L211">211</a></td><td>T'POL:  It must have ruptured when our sensors were offline.</td></tr>
 
-  DEGRA
-     There's also evidence of chronometric distortion.
-     Time travel.
+<tr id="L212"><td><a href="#L212">212</a></td><td>DEGRA:  Perhaps my crew can help.</td></tr>
 
-  ARBOREAL
-     The readings could have been fabricated.
+<tr id="L213"><td><a href="#L213">213</a></td><td>TUCKER:  We'll handle it.</td></tr>
 
-  DEGRA
-     You're determined not to trust him.
+<tr id="L214"><td><a href="#L214">214</a></td><td>ARCHER:  We'll need to shut down the main plasma feeds.</td></tr>
 
-  ARBOREAL
-     No more than you seem to be determined to believe
-     whatever he says. Now, I admit Archer's evidence
-     is intriguing, but we barely know this human. Our
-     contact from the future has helped us many times.
-     She brought this Council together.
+<tr id="L215"><td><a href="#L215">215</a></td><td>TUCKER:  The flow regulators are damaged. There are manual cut-offs here and here, but we can only access it from outside.</td></tr>
 
-  DEGRA
-     And you've never wondered if she might have an
-     agenda of her own?
+<tr id="L216"><td><a href="#L216">216</a></td><td>REED:  That's very close to the fire.</td></tr>
 
-  ARBOREAL
-     I am not a fool, Degra. All I'm saying is that
-     it'll take a little more than a few chronometric
-     distortions to turn the Council against her.
+<tr id="L217"><td><a href="#L217">217</a></td><td>TUCKER:  We don't have a choice. (ship judders) If we don't get control of it fast, it'll spread to the reactor.</td></tr>
 
-  DEGRA
-     Captain Archer is expecting me.
+<tr id="L218"><td><a href="#L218">218</a></td><td>ARCHER:  Get going.</td></tr>
 
-  ARBOREAL
-     More evidence?
+<tr id="L219"><td><a href="#L219">219</a></td><td>TUCKER:  I could use a hand.</td></tr>
 
-  DEGRA
-     He claims to know a great deal about the Spheres.
+<tr id="L220"><td><a href="#L220">220</a></td><td>REED:  That'd be me, sir.</td></tr>
 
-  ARBOREAL
-     Degra, I know you've had doubts about building the
-     weapon. Don't let them cloud your judgment.
+<tr><td></td><td>LOCATION--Ship's hull</td></tr>
+<tr id="L221"><td><a href="#L221">221</a></td><td>ANNOTATION: Two figures walk across the girders over a hole in the hull to approach the green Vesuvius.</td></tr>
 
+<tr id="L222"><td><a href="#L222">222</a></td><td>TUCKER:  Open that panel and I'll talk you through the cut-off sequence.</td></tr>
 
-LOCATION--Command centre
+<tr id="L223"><td><a href="#L223">223</a></td><td>REED:  Where's the other valve?</td></tr>
 
-  ANNOTATION
-     Degra is standing with T'Pol as Tucker works lying
-     on the floor by the wall. The main display screen
-     is a maze of fuzz and distortion
+<tr id="L224"><td><a href="#L224">224</a></td><td>TUCKER:  Over there.</td></tr>
 
-  T'POL
-     We've been working to reconstruct our database.
+<tr id="L225"><td><a href="#L225">225</a></td><td>ANNOTATION: Reed has trouble with his panel, but Tucker's opens smoothly.</td></tr>
 
-  TUCKER
-     The pounding your ships gave us didn't help much.
-     Try it now. I'm going to reset the optical
-     subprocessors. That might clear it up. When we
-     slipped through your detection grid, we got a look
-     at the weapon you're building. An impressive piece
-     of engineering. Hell, it'd take at least a
-     thousand starships like Enterprise to blow up an
-     entire planet. You know, I'd like to see the
-     telemetry from the probe you launched against
-     Earth.
+<tr id="L226"><td><a href="#L226">226</a></td><td>TUCKER:  I need to open the emergency bypass ports first, and you can't close your valve until I release the pressure from the secondary lines.</td></tr>
 
-  T'POL
-     Increase the data resolution.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L227"><td><a href="#L227">227</a></td><td>REED [OC]:  Commander, I have a problem.</td></tr>
 
-  TUCKER
-     I assume you were watching the attack, calculating
-     the blast yields. Boy, you must have been pretty
-     damn excited. I mean, that beam cut one hell of a
-     swath through Florida. That's the name of one of
-     the places you destroyed. Florida.
+<tr><td></td><td>LOCATION--Ship's hull</td></tr>
+<tr id="L228"><td><a href="#L228">228</a></td><td>REED:  I think the heat's warped the metal. The panel won't open.</td></tr>
 
-  T'POL
-     Commander.
+<tr id="L229"><td><a href="#L229">229</a></td><td>TUCKER:  Use your plasma torch. I'll be there in a minute. I'm releasing the interlocks on the first port.</td></tr>
 
-  TUCKER
-     Did you actually see the cities burning? The
-     houses, the people being vaporised? I had a sister
-     there.
+<tr id="L230"><td><a href="#L230">230</a></td><td>REED:  This is going to take a while.</td></tr>
 
-  T'POL
-     Commander!
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L231"><td><a href="#L231">231</a></td><td>TUCKER [OC]:  Careful you don't cut through the bypass relays, Malcolm.</td></tr>
 
-  ARCHER
-     How are the repairs coming.
+<tr id="L232"><td><a href="#L232">232</a></td><td>T'POL:  The manifold pressure is increasing. We have less than six minutes before the fire reaches the reactor shielding.</td></tr>
 
-  TUCKER
-     Just need a few more minutes, Captain.
+<tr id="L233"><td><a href="#L233">233</a></td><td>ARCHER:  Archer to Trip.</td></tr>
 
-  ARCHER
-     (to Degra) Why don't you join me in my Ready room
-     until they're finished.
+<tr><td></td><td>LOCATION--Ship's hull</td></tr>
+<tr id="L234"><td><a href="#L234">234</a></td><td>ARCHER [OC]:  You've got less than six minutes.</td></tr>
 
-  ANNOTATION
-     Degra leaves. To Tucker -
+<tr id="L235"><td><a href="#L235">235</a></td><td>TUCKER:  Understood.</td></tr>
 
-  ARCHER
-     Let's stick to the job at hand.
+<tr id="L236"><td><a href="#L236">236</a></td><td>ANNOTATION: The plasma stream flares.</td></tr>
 
-  TUCKER
-     Aye, sir.
+<tr id="L237"><td><a href="#L237">237</a></td><td>TUCKER:  You okay, Malcolm?</td></tr>
 
-  ANNOTATION
-     Archer leaves.
+<tr id="L238"><td><a href="#L238">238</a></td><td>REED:  Almost there.</td></tr>
 
-  T'POL
-     The Captain is trying to gain Degra's trust.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L239"><td><a href="#L239">239</a></td><td>HOSHI:  Captain, the temperature in Lieutenant Reed's suit is over forty four degrees.</td></tr>
 
-  ANNOTATION
-     Tucker closes his tool box and stalks out of the
-     room. Outside, the hole blows into a green
-     volcano.
+<tr id="L240"><td><a href="#L240">240</a></td><td>T'POL:  He's too close to the fire. His EV suit can't compensate.</td></tr>
 
+<tr id="L241"><td><a href="#L241">241</a></td><td>ARCHER:  Malcolm</td></tr>
 
-LOCATION--Situation room
+<tr><td></td><td>LOCATION--Ship's hull</td></tr>
+<tr id="L242"><td><a href="#L242">242</a></td><td>ARCHER [OC]:  Get back to the airlock.</td></tr>
 
-  ANNOTATION
-     The wall monitor has 'System failure' in large red
-     letters on it.
+<tr id="L243"><td><a href="#L243">243</a></td><td>REED:  I'm almost finished, Captain.</td></tr>
 
-  TUCKER
-     It's one of the warp plasma conduits.
+<tr id="L244"><td><a href="#L244">244</a></td><td>ARCHER [OC]:  That's an order.</td></tr>
 
-  T'POL
-     It must have ruptured when our sensors were
-     offline.
+<tr id="L245"><td><a href="#L245">245</a></td><td>TUCKER:  Get inside, Malcolm. I can wrap it up. (Reed finishes cutting around the panel) I'm opening the primary bypass port. Two more to go and we're in business.</td></tr>
 
-  DEGRA
-     Perhaps my crew can help.
+<tr id="L246"><td><a href="#L246">246</a></td><td>ANNOTATION: Reed gets his panel open and sends it floating off into space.</td></tr>
 
-  TUCKER
-     We'll handle it.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L247"><td><a href="#L247">247</a></td><td>HOSHI:  Forty six degrees.</td></tr>
 
-  ARCHER
-     We'll need to shut down the main plasma feeds.
+<tr id="L248"><td><a href="#L248">248</a></td><td>ARCHER:  Malcolm.</td></tr>
 
-  TUCKER
-     The flow regulators are damaged. There are manual
-     cut-offs here and here, but we can only access it
-     from outside.
+<tr><td></td><td>LOCATION--Ship's hull</td></tr>
+<tr id="L249"><td><a href="#L249">249</a></td><td>REED:  I'm sorry sir, you're breaking up.</td></tr>
 
-  REED
-     That's very close to the fire.
+<tr id="L250"><td><a href="#L250">250</a></td><td>ANNOTATION: So's his eyesight.</td></tr>
 
-  TUCKER
-     We don't have a choice. (ship judders) If we don't
-     get control of it fast, it'll spread to the
-     reactor.
+<tr id="L251"><td><a href="#L251">251</a></td><td>TUCKER:  Get inside, Malcolm. I can finish.</td></tr>
 
-  ARCHER
-     Get going.
+<tr id="L252"><td><a href="#L252">252</a></td><td>REED:  There's no time. Do what you have to do so I can shut this down.</td></tr>
 
-  TUCKER
-     I could use a hand.
+<tr id="L253"><td><a href="#L253">253</a></td><td>TUCKER:  A few more seconds. I'm purging the last port.</td></tr>
 
-  REED
-     That'd be me, sir.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L254"><td><a href="#L254">254</a></td><td>T'POL:  The forward valve is closed.</td></tr>
 
+<tr><td></td><td>LOCATION--Ship's hull</td></tr>
+<tr id="L255"><td><a href="#L255">255</a></td><td>TUCKER:  Okay, Malcolm, clockwise ninety degrees.</td></tr>
 
-LOCATION--Ship's hull
+<tr id="L256"><td><a href="#L256">256</a></td><td>ANNOTATION: The jet shuts down and Tucker walks over.</td></tr>
 
-  ANNOTATION
-     Two figures walk across the girders over a hole in
-     the hull to approach the green Vesuvius.
+<tr id="L257"><td><a href="#L257">257</a></td><td>TUCKER:  Nice work, Malcolm. Malcolm?</td></tr>
 
-  TUCKER
-     Open that panel and I'll talk you through the
-     cut-off sequence.
+<tr id="L258"><td><a href="#L258">258</a></td><td>ANNOTATION: He's passed out.</td></tr>
 
-  REED
-     Where's the other valve?
+<tr id="L259"><td><a href="#L259">259</a></td><td>TUCKER:  Malcolm! Tucker to Doctor Phlox.</td></tr>
 
-  TUCKER
-     Over there.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L260"><td><a href="#L260">260</a></td><td>TUCKER [OC]:  Meet us in the airlock.</td></tr>
 
-  ANNOTATION
-     Reed has trouble with his panel, but Tucker's
-     opens smoothly.
+<tr><td></td><td>LOCATION--EV suit storage</td></tr>
+<tr id="L261"><td><a href="#L261">261</a></td><td>PHLOX:  We need to bring his body temperature down. Let's get him to Sickbay.</td></tr>
 
-  TUCKER
-     I need to open the emergency bypass ports first,
-     and you can't close your valve until I release the
-     pressure from the secondary lines.
+<tr id="L262"><td><a href="#L262">262</a></td><td>ANNOTATION: Phlox leaves.</td></tr>
 
+<tr id="L263"><td><a href="#L263">263</a></td><td>DEGRA:  I hope he'll be alright.</td></tr>
 
-LOCATION--Bridge
+<tr id="L264"><td><a href="#L264">264</a></td><td>TUCKER:  What's one more dead human to you?</td></tr>
 
-  REED [OC]
-     Commander, I have a problem.
+<tr id="L265"><td><a href="#L265">265</a></td><td>ARCHER:  Trip.</td></tr>
 
+<tr id="L266"><td><a href="#L266">266</a></td><td>TUCKER:  He had no problem killing seven million of us, but seven million and one is more than you can stomach?</td></tr>
 
-LOCATION--Ship's hull
+<tr id="L267"><td><a href="#L267">267</a></td><td>ARCHER:  That's enough.</td></tr>
 
-  REED
-     I think the heat's warped the metal. The panel
-     won't open.
+<tr id="L268"><td><a href="#L268">268</a></td><td>TUCKER:  I guess even Xindi have their limits.</td></tr>
 
-  TUCKER
-     Use your plasma torch. I'll be there in a minute.
-     I'm releasing the interlocks on the first port.
+<tr id="L269"><td><a href="#L269">269</a></td><td>ARCHER:  I said that's enough!</td></tr>
 
-  REED
-     This is going to take a while.
+<tr id="L270"><td><a href="#L270">270</a></td><td>TUCKER:  Aye, sir.</td></tr>
 
+<tr><td></td><td>LOCATION--Command centre</td></tr>
+<tr id="L271"><td><a href="#L271">271</a></td><td>ARCHER:  We've determined there are fifty nine of them.</td></tr>
 
-LOCATION--Bridge
+<tr id="L272"><td><a href="#L272">272</a></td><td>DEGRA:  Seventy eight, at our last count.</td></tr>
 
-  TUCKER [OC]
-     Careful you don't cut through the bypass relays,
-     Malcolm.
+<tr id="L273"><td><a href="#L273">273</a></td><td>ARCHER:  Seventy eight?</td></tr>
 
-  T'POL
-     The manifold pressure is increasing. We have less
-     than six minutes before the fire reaches the
-     reactor shielding.
+<tr id="L274"><td><a href="#L274">274</a></td><td>DEGRA:  We've had more time to study them than you.</td></tr>
 
-  ARCHER
-     Archer to Trip.
+<tr id="L275"><td><a href="#L275">275</a></td><td>ARCHER:  I apologise for Mister Tucker.</td></tr>
 
+<tr id="L276"><td><a href="#L276">276</a></td><td>DEGRA:  I never expected to meet anyone who'd suffered because of what I'd done. At the time, I thought the attack was necessary to save my people.</td></tr>
 
-LOCATION--Ship's hull
+<tr id="L277"><td><a href="#L277">277</a></td><td>ARCHER:  I know. Believe it or not, we've had this conversation before.</td></tr>
 
-  ARCHER [OC]
-     You've got less than six minutes.
+<tr id="L278"><td><a href="#L278">278</a></td><td>DEGRA:  That's right. Our escape from prison together. The reptilians are correct about one thing, Captain. You have an impressive facility for deception.</td></tr>
 
-  TUCKER
-     Understood.
+<tr id="L279"><td><a href="#L279">279</a></td><td>ARCHER:  Erasing your memory probably wasn't the best way to earn your trust.</td></tr>
 
-  ANNOTATION
-     The plasma stream flares.
+<tr id="L280"><td><a href="#L280">280</a></td><td>DEGRA:  Probably not. (referring to Sphere diagram) They are all connected by a subspace energy grid. Unfortunately our data on the Spheres' interiors is extremely limited.</td></tr>
 
-  TUCKER
-     You okay, Malcolm?
+<tr id="L281"><td><a href="#L281">281</a></td><td>ARCHER:  Maybe I can help.</td></tr>
 
-  REED
-     Almost there.
+<tr id="L282"><td><a href="#L282">282</a></td><td>ANNOTATION: He calls up pictures of the inside of a Sphere.</td></tr>
 
+<tr id="L283"><td><a href="#L283">283</a></td><td>DEGRA:  How did you get this?</td></tr>
 
-LOCATION--Bridge
+<tr id="L284"><td><a href="#L284">284</a></td><td>ARCHER:  The first Sphere we came across was damaged. There was a breach in the outer shell.</td></tr>
 
-  HOSHI
-     Captain, the temperature in Lieutenant Reed's suit
-     is over forty four degrees.
+<tr id="L285"><td><a href="#L285">285</a></td><td>DEGRA:  We've never been able to gain access to one. These scans are remarkably detailed for a military vessel.</td></tr>
 
-  T'POL
-     He's too close to the fire. His EV suit can't
-     compensate.
+<tr id="L286"><td><a href="#L286">286</a></td><td>ARCHER:  Enterprise was designed to be a ship of exploration.</td></tr>
 
-  ARCHER
-     Malcolm
+<tr id="L287"><td><a href="#L287">287</a></td><td>DEGRA:  If we're successful, it will be again.</td></tr>
 
+<tr><td></td><td>LOCATION--Tucker's quarters</td></tr>
+<tr id="L288"><td><a href="#L288">288</a></td><td>TUCKER:  Computer, begin recording. Dear Mister and Mrs. Taylor, I regret to inform you that your daughter was killed in the line of duty. She was a fine engineer, and she died performing her duties. Computer, stop recording. Delete that. Computer, start again. Dear Mister and Mrs. Taylor. As Jane's commanding officer, it's with deepest regret that I inform you of her death. She was a diligent engineer, very hard-working.</td></tr>
 
-LOCATION--Ship's hull
+<tr id="L289"><td><a href="#L289">289</a></td><td>REED [OC]:  Tactical alert. All hands to stations.</td></tr>
 
-  ARCHER [OC]
-     Get back to the airlock.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L290"><td><a href="#L290">290</a></td><td>ARCHER:  Report.</td></tr>
 
-  REED
-     I'm almost finished, Captain.
+<tr id="L291"><td><a href="#L291">291</a></td><td>T'POL:  We've detected a ship. They've just passed through the cloaking barrier.</td></tr>
 
-  ARCHER [OC]
-     That's an order.
+<tr id="L292"><td><a href="#L292">292</a></td><td>ARCHER:  On screen.</td></tr>
 
-  TUCKER
-     Get inside, Malcolm. I can wrap it up. (Reed
-     finishes cutting around the panel) I'm opening the
-     primary bypass port. Two more to go and we're in
-     business.
+<tr id="L293"><td><a href="#L293">293</a></td><td>REED:  Reptilians.</td></tr>
 
-  ANNOTATION
-     Reed gets his panel open and sends it floating off
-     into space.
+<tr id="L294"><td><a href="#L294">294</a></td><td>ARCHER:  Did you invite anyone else?</td></tr>
 
+<tr id="L295"><td><a href="#L295">295</a></td><td>DEGRA:  We masked our warp trail. I don't know how they found us.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Degra's ship</td></tr>
+<tr id="L296"><td><a href="#L296">296</a></td><td>REPTILIAN [on viewscreen]:  Where is Degra?</td></tr>
 
-  HOSHI
-     Forty six degrees.
+<tr id="L297"><td><a href="#L297">297</a></td><td>ARBOREAL:  He's involved in sensitive negotiations.</td></tr>
 
-  ARCHER
-     Malcolm.
+<tr id="L298"><td><a href="#L298">298</a></td><td>REPTILIAN [on viewscreen]:  With the humans? I supposed the Council authorised these negotiations?</td></tr>
 
+<tr id="L299"><td><a href="#L299">299</a></td><td>ARBOREAL:  No one authorised the development of a bioweapon, but that didn't deter your colleagues from creating one.</td></tr>
 
-LOCATION--Ship's hull
+<tr id="L300"><td><a href="#L300">300</a></td><td>REPTILIAN [on viewscreen]:  Undock from the human vessel immediately.</td></tr>
 
-  REED
-     I'm sorry sir, you're breaking up.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L301"><td><a href="#L301">301</a></td><td>ARBOREAL [on viewscreen]:  He intends to seize the human vessel. He'll destroy both our ships if we don't comply.</td></tr>
 
-  ANNOTATION
-     So's his eyesight.
+<tr id="L302"><td><a href="#L302">302</a></td><td>DEGRA:  Stand by.</td></tr>
 
-  TUCKER
-     Get inside, Malcolm. I can finish.
+<tr id="L303"><td><a href="#L303">303</a></td><td>ARBOREAL [on viewscreen]:  Degra.</td></tr>
 
-  REED
-     There's no time. Do what you have to do so I can
-     shut this down.
+<tr id="L304"><td><a href="#L304">304</a></td><td>DEGRA:  I said, stand by.</td></tr>
 
-  TUCKER
-     A few more seconds. I'm purging the last port.
+<tr id="L305"><td><a href="#L305">305</a></td><td>REED:  We don't stand a chance against them. Not in the shape we're in.</td></tr>
 
+<tr id="L306"><td><a href="#L306">306</a></td><td>ARCHER:  What kind of weapons do you have?</td></tr>
 
-LOCATION--Bridge
+<tr id="L307"><td><a href="#L307">307</a></td><td>DEGRA:  You expect me to attack a reptilian warship?</td></tr>
 
-  T'POL
-     The forward valve is closed.
+<tr id="L308"><td><a href="#L308">308</a></td><td>ARCHER:  If we work together, we might be able to disable them.</td></tr>
 
+<tr id="L309"><td><a href="#L309">309</a></td><td>REED:  They're charging weapons.</td></tr>
 
-LOCATION--Ship's hull
+<tr id="L310"><td><a href="#L310">310</a></td><td>ARCHER:  Are you familiar with the design of that ship?</td></tr>
 
-  TUCKER
-     Okay, Malcolm, clockwise ninety degrees.
+<tr id="L311"><td><a href="#L311">311</a></td><td>DEGRA:  I did some work on their power systems.</td></tr>
 
-  ANNOTATION
-     The jet shuts down and Tucker walks over.
+<tr id="L312"><td><a href="#L312">312</a></td><td>REED:  Then you know where they're vulnerable, where to target our weapons.</td></tr>
 
-  TUCKER
-     Nice work, Malcolm. Malcolm?
+<tr id="L313"><td><a href="#L313">313</a></td><td>DEGRA:  Their ship is heavily armoured.</td></tr>
 
-  ANNOTATION
-     He's passed out.
+<tr id="L314"><td><a href="#L314">314</a></td><td>ARCHER:  At least we'd stand a chance.</td></tr>
 
-  TUCKER
-     Malcolm! Tucker to Doctor Phlox.
+<tr id="L315"><td><a href="#L315">315</a></td><td>DEGRA:  Those reptilians are Xindi. You're asking me to attack my own people.</td></tr>
 
+<tr><td></td><td>LOCATION--Degra's ship</td></tr>
+<tr id="L316"><td><a href="#L316">316</a></td><td>ANNOTATION: After undocking from Enterprise.</td></tr>
 
-LOCATION--Bridge
+<tr id="L317"><td><a href="#L317">317</a></td><td>REPTILIAN [on viewscreen]:  Proceed to our starboard docking port.</td></tr>
 
-  TUCKER [OC]
-     Meet us in the airlock.
+<tr id="L318"><td><a href="#L318">318</a></td><td>DEGRA:  I want your word that my crew won't be punished.</td></tr>
 
+<tr id="L319"><td><a href="#L319">319</a></td><td>REPTILIAN [on viewscreen]:  You'll all be dealt with as the Council sees fit.</td></tr>
 
-LOCATION--EV suit storage
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L320"><td><a href="#L320">320</a></td><td>TRAVIS:  He's nearly reached the Reptilians.</td></tr>
 
-  PHLOX
-     We need to bring his body temperature down. Let's
-     get him to Sickbay.
+<tr id="L321"><td><a href="#L321">321</a></td><td>ANNOTATION: As Degra's ship flies past, he fires twice.</td></tr>
 
-  ANNOTATION
-     Phlox leaves.
+<tr id="L322"><td><a href="#L322">322</a></td><td>REED:  He's knocked out their shield generators.</td></tr>
 
-  DEGRA
-     I hope he'll be alright.
+<tr id="L323"><td><a href="#L323">323</a></td><td>ARCHER:  Fire.</td></tr>
 
-  TUCKER
-     What's one more dead human to you?
+<tr id="L324"><td><a href="#L324">324</a></td><td>ANNOTATION: They exchange torpedoes and phase cannon fire.</td></tr>
 
-  ARCHER
-     Trip.
+<tr id="L325"><td><a href="#L325">325</a></td><td>ARCHER:  Evasive manoeuvres. Keep firing. Target their weapons.</td></tr>
 
-  TUCKER
-     He had no problem killing seven million of us, but
-     seven million and one is more than you can
-     stomach?
+<tr id="L326"><td><a href="#L326">326</a></td><td>ANNOTATION: More shooting.</td></tr>
 
-  ARCHER
-     That's enough.
+<tr id="L327"><td><a href="#L327">327</a></td><td>REED:  Their weapons are down. Degra was spot on. He knew exactly where to hit them.</td></tr>
 
-  TUCKER
-     I guess even Xindi have their limits.
+<tr id="L328"><td><a href="#L328">328</a></td><td>ARCHER:  Open a channel to Degra.</td></tr>
 
-  ARCHER
-     I said that's enough!
+<tr id="L329"><td><a href="#L329">329</a></td><td>REED:  Sir, he's charging weapons!</td></tr>
 
-  TUCKER
-     Aye, sir.
+<tr id="L330"><td><a href="#L330">330</a></td><td>ANNOTATION: Two more shots from Degra and the big warship falls apart.</td></tr>
 
+<tr id="L331"><td><a href="#L331">331</a></td><td>T'POL:  The Reptilian ship has been destroyed.</td></tr>
 
-LOCATION--Command centre
+<tr id="L332"><td><a href="#L332">332</a></td><td>HOSHI:  Captain, Degra's hailing us.</td></tr>
 
-  ARCHER
-     We've determined there are fifty nine of them.
+<tr id="L333"><td><a href="#L333">333</a></td><td>DEGRA [on viewscreen]:  They would have contacted the Council and exposed our alliance. I had no choice.</td></tr>
 
-  DEGRA
-     Seventy eight, at our last count.
+<tr><td></td><td>LOCATION--a wrecked area</td></tr>
+<tr id="L334"><td><a href="#L334">334</a></td><td>T'POL:  Crewman Rostov said I'd find you here.</td></tr>
 
-  ARCHER
-     Seventy eight?
+<tr id="L335"><td><a href="#L335">335</a></td><td>TUCKER:  Repair crews are starting tomorrow. Thought I'd try and get them some power. These assemblies are all fused together. I've spent the last hour trying to isolate the damaged relays.</td></tr>
 
-  DEGRA
-     We've had more time to study them than you.
+<tr id="L336"><td><a href="#L336">336</a></td><td>T'POL:  You might find this useful. Portable power cells.</td></tr>
 
-  ARCHER
-     I apologise for Mister Tucker.
+<tr id="L337"><td><a href="#L337">337</a></td><td>TUCKER:  Courtesy of our new Xindi friends? Damn neighbourly of them.</td></tr>
 
-  DEGRA
-     I never expected to meet anyone who'd suffered
-     because of what I'd done. At the time, I thought
-     the attack was necessary to save my people.
+<tr id="L338"><td><a href="#L338">338</a></td><td>T'POL:  Is there anything I can help you with?</td></tr>
 
-  ARCHER
-     I know. Believe it or not, we've had this
-     conversation before.
+<tr id="L339"><td><a href="#L339">339</a></td><td>TUCKER:  Not unless you can resurrect the dead. Crewman Taylor had a real knack for this kind of thing. But Taylor's not here, is she, and neither is Crewman Kamata, or Ensign Marcel or a dozen others. So forgive me if I don't want the damn power cells! (kicks the container across the corridor) We found Taylor over there, outside her quarters. She was probably trying to get to her station. If she'd made it a few more metres I wouldn't be trying to write this damn letter. 'Cause every time I start I hear myself saying, what a fine young woman she was, how smart and full of potential. And I realise that I'm not thinking about Taylor at all. I'm thinking about Elizabeth. There's so many people dead. I tried not to see her any differently than the other seven million, so I've spent the last nine months trying to pretend she was just another victim. But she's my sister, T'Pol. My baby sister. (finally he cries) I envy you Vulcans.</td></tr>
 
-  DEGRA
-     That's right. Our escape from prison together. The
-     reptilians are correct about one thing, Captain.
-     You have an impressive facility for deception.
+<tr id="L340"><td><a href="#L340">340</a></td><td>T'POL:  You think that the loss of a colleague or friend doesn't affect us? It does. But if we give in to those emotions, they overwhelm us. You're the ones to be envied.</td></tr>
 
-  ARCHER
-     Erasing your memory probably wasn't the best way
-     to earn your trust.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L341"><td><a href="#L341">341</a></td><td>DEGRA:  You need to speak to the Council. With the evidence you've shown me, they'll have no choice but to take us seriously.</td></tr>
 
-  DEGRA
-     Probably not. (referring to Sphere diagram) They
-     are all connected by a subspace energy grid.
-     Unfortunately our data on the Spheres' interiors
-     is extremely limited.
+<tr id="L342"><td><a href="#L342">342</a></td><td>ARCHER:  Even the reptilians?</td></tr>
 
-  ARCHER
-     Maybe I can help.
+<tr id="L343"><td><a href="#L343">343</a></td><td>DEGRA:  I'm more concerned about the aquatics. They can be somewhat enigmatic, but if we can sway them we'll have the majority on our side. (hands over a PADD) These are the coordinates of the Council chamber.</td></tr>
 
-  ANNOTATION
-     He calls up pictures of the inside of a Sphere.
+<tr id="L344"><td><a href="#L344">344</a></td><td>ARCHER:  This is nearly a dozen light years away. It'll take us weeks to get there.</td></tr>
 
-  DEGRA
-     How did you get this?
+<tr id="L345"><td><a href="#L345">345</a></td><td>DEGRA:  There's a shorter route, a subspace corridor. It's located in a nebula less than half a light year from here. That will show your helmsman how to get through it. I'll meet you at the far end in three days.</td></tr>
 
-  ARCHER
-     The first Sphere we came across was damaged. There
-     was a breach in the outer shell.
+<tr id="L346"><td><a href="#L346">346</a></td><td>ARCHER:  Will it be soon enough to stop the weapon?</td></tr>
 
-  DEGRA
-     We've never been able to gain access to one. These
-     scans are remarkably detailed for a military
-     vessel.
+<tr id="L347"><td><a href="#L347">347</a></td><td>DEGRA:  I'll do everything I can to delay it. Use caution when you enter the nebula. A hostile species is known to prey on ships that approach it.</td></tr>
 
-  ARCHER
-     Enterprise was designed to be a ship of
-     exploration.
+<tr id="L348"><td><a href="#L348">348</a></td><td>ARCHER:  Thanks for the warning.</td></tr>
 
-  DEGRA
-     If we're successful, it will be again.
+<tr id="L349"><td><a href="#L349">349</a></td><td>ANNOTATION: Archer holds out his hand, and they shake.</td></tr>
 
+<tr id="L350"><td><a href="#L350">350</a></td><td>ARCHER:  See you in three days.</td></tr>
 
-LOCATION--Tucker's quarters
+<tr id="L351"><td><a href="#L351">351</a></td><td>DEGRA:  Three days.</td></tr>
 
-  TUCKER
-     Computer, begin recording. Dear Mister and Mrs.
-     Taylor, I regret to inform you that your daughter
-     was killed in the line of duty. She was a fine
-     engineer, and she died performing her duties.
-     Computer, stop recording. Delete that. Computer,
-     start again. Dear Mister and Mrs. Taylor. As
-     Jane's commanding officer, it's with deepest
-     regret that I inform you of her death. She was a
-     diligent engineer, very hard-working.
+<tr><td></td><td>LOCATION--Tucker's quarters</td></tr>
+<tr id="L352"><td><a href="#L352">352</a></td><td>TUCKER:  Computer, begin recording. Mister and Mrs. Taylor, by the time you get this, Starfleet will have already told you about Jane. Since I worked so closely with her, I wanted to add my personal condolences. I have to confess, I've been putting off writing this for a while. I convinced myself that my duties on Enterprise took precedence. But the truth is I didn't want to face the fact that someone so young, with so much promise, could just be gone. But I'm facing it now, and I find myself thinking how important she was to me. She was a great engineer, and she was my friend. She won't be forgotten.</td></tr>
 
-  REED [OC]
-     Tactical alert. All hands to stations.
+<tr id="L353"><td><a href="#L353">353</a></td><td>ANNOTATION: He puts down the picture he's holding.</td></tr>
 
+<tr id="L354"><td><a href="#L354">354</a></td><td>TUCKER:  Goodbye, Elizabeth.</td></tr>
 
-LOCATION--Bridge
-
-  ARCHER
-     Report.
-
-  T'POL
-     We've detected a ship. They've just passed through
-     the cloaking barrier.
-
-  ARCHER
-     On screen.
-
-  REED
-     Reptilians.
-
-  ARCHER
-     Did you invite anyone else?
-
-  DEGRA
-     We masked our warp trail. I don't know how they
-     found us.
-
-
-LOCATION--Degra's ship
-
-  REPTILIAN [on viewscreen]
-     Where is Degra?
-
-  ARBOREAL
-     He's involved in sensitive negotiations.
-
-  REPTILIAN [on viewscreen]
-     With the humans? I supposed the Council authorised
-     these negotiations?
-
-  ARBOREAL
-     No one authorised the development of a bioweapon,
-     but that didn't deter your colleagues from
-     creating one.
-
-  REPTILIAN [on viewscreen]
-     Undock from the human vessel immediately.
-
-
-LOCATION--Bridge
-
-  ARBOREAL [on viewscreen]
-     He intends to seize the human vessel. He'll
-     destroy both our ships if we don't comply.
-
-  DEGRA
-     Stand by.
-
-  ARBOREAL [on viewscreen]
-     Degra.
-
-  DEGRA
-     I said, stand by.
-
-  REED
-     We don't stand a chance against them. Not in the
-     shape we're in.
-
-  ARCHER
-     What kind of weapons do you have?
-
-  DEGRA
-     You expect me to attack a reptilian warship?
-
-  ARCHER
-     If we work together, we might be able to disable
-     them.
-
-  REED
-     They're charging weapons.
-
-  ARCHER
-     Are you familiar with the design of that ship?
-
-  DEGRA
-     I did some work on their power systems.
-
-  REED
-     Then you know where they're vulnerable, where to
-     target our weapons.
-
-  DEGRA
-     Their ship is heavily armoured.
-
-  ARCHER
-     At least we'd stand a chance.
-
-  DEGRA
-     Those reptilians are Xindi. You're asking me to
-     attack my own people.
-
-
-LOCATION--Degra's ship
-
-  ANNOTATION
-     After undocking from Enterprise.
-
-  REPTILIAN [on viewscreen]
-     Proceed to our starboard docking port.
-
-  DEGRA
-     I want your word that my crew won't be punished.
-
-  REPTILIAN [on viewscreen]
-     You'll all be dealt with as the Council sees fit.
-
-
-LOCATION--Bridge
-
-  TRAVIS
-     He's nearly reached the Reptilians.
-
-  ANNOTATION
-     As Degra's ship flies past, he fires twice.
-
-  REED
-     He's knocked out their shield generators.
-
-  ARCHER
-     Fire.
-
-  ANNOTATION
-     They exchange torpedoes and phase cannon fire.
-
-  ARCHER
-     Evasive manoeuvres. Keep firing. Target their
-     weapons.
-
-  ANNOTATION
-     More shooting.
-
-  REED
-     Their weapons are down. Degra was spot on. He knew
-     exactly where to hit them.
-
-  ARCHER
-     Open a channel to Degra.
-
-  REED
-     Sir, he's charging weapons!
-
-  ANNOTATION
-     Two more shots from Degra and the big warship
-     falls apart.
-
-  T'POL
-     The Reptilian ship has been destroyed.
-
-  HOSHI
-     Captain, Degra's hailing us.
-
-  DEGRA [on viewscreen]
-     They would have contacted the Council and exposed
-     our alliance. I had no choice.
-
-
-LOCATION--a wrecked area
-
-  T'POL
-     Crewman Rostov said I'd find you here.
-
-  TUCKER
-     Repair crews are starting tomorrow. Thought I'd
-     try and get them some power. These assemblies are
-     all fused together. I've spent the last hour
-     trying to isolate the damaged relays.
-
-  T'POL
-     You might find this useful. Portable power cells.
-
-  TUCKER
-     Courtesy of our new Xindi friends? Damn
-     neighbourly of them.
-
-  T'POL
-     Is there anything I can help you with?
-
-  TUCKER
-     Not unless you can resurrect the dead. Crewman
-     Taylor had a real knack for this kind of thing.
-     But Taylor's not here, is she, and neither is
-     Crewman Kamata, or Ensign Marcel or a dozen
-     others. So forgive me if I don't want the damn
-     power cells! (kicks the container across the
-     corridor) We found Taylor over there, outside her
-     quarters. She was probably trying to get to her
-     station. If she'd made it a few more metres I
-     wouldn't be trying to write this damn letter.
-     'Cause every time I start I hear myself saying,
-     what a fine young woman she was, how smart and
-     full of potential. And I realise that I'm not
-     thinking about Taylor at all. I'm thinking about
-     Elizabeth. There's so many people dead. I tried
-     not to see her any differently than the other
-     seven million, so I've spent the last nine months
-     trying to pretend she was just another victim. But
-     she's my sister, T'Pol. My baby sister. (finally
-     he cries) I envy you Vulcans.
-
-  T'POL
-     You think that the loss of a colleague or friend
-     doesn't affect us? It does. But if we give in to
-     those emotions, they overwhelm us. You're the ones
-     to be envied.
-
-
-LOCATION--Ready room
-
-  DEGRA
-     You need to speak to the Council. With the
-     evidence you've shown me, they'll have no choice
-     but to take us seriously.
-
-  ARCHER
-     Even the reptilians?
-
-  DEGRA
-     I'm more concerned about the aquatics. They can be
-     somewhat enigmatic, but if we can sway them we'll
-     have the majority on our side. (hands over a PADD)
-     These are the coordinates of the Council chamber.
-
-  ARCHER
-     This is nearly a dozen light years away. It'll
-     take us weeks to get there.
-
-  DEGRA
-     There's a shorter route, a subspace corridor. It's
-     located in a nebula less than half a light year
-     from here. That will show your helmsman how to get
-     through it. I'll meet you at the far end in three
-     days.
-
-  ARCHER
-     Will it be soon enough to stop the weapon?
-
-  DEGRA
-     I'll do everything I can to delay it. Use caution
-     when you enter the nebula. A hostile species is
-     known to prey on ships that approach it.
-
-  ARCHER
-     Thanks for the warning.
-
-  ANNOTATION
-     Archer holds out his hand, and they shake.
-
-  ARCHER
-     See you in three days.
-
-  DEGRA
-     Three days.
-
-
-LOCATION--Tucker's quarters
-
-  TUCKER
-     Computer, begin recording. Mister and Mrs. Taylor,
-     by the time you get this, Starfleet will have
-     already told you about Jane. Since I worked so
-     closely with her, I wanted to add my personal
-     condolences. I have to confess, I've been putting
-     off writing this for a while. I convinced myself
-     that my duties on Enterprise took precedence. But
-     the truth is I didn't want to face the fact that
-     someone so young, with so much promise, could just
-     be gone. But I'm facing it now, and I find myself
-     thinking how important she was to me. She was a
-     great engineer, and she was my friend. She won't
-     be forgotten.
-
-  ANNOTATION
-     He puts down the picture he's holding.
-
-  TUCKER
-     Goodbye, Elizabeth.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

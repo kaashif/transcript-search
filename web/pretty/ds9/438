@@ -1,1832 +1,968 @@
-Profit and Loss
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Profit and Loss</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: There's a ship on the viewscreen</td></tr>
 
-LOCATION--Ops
+<tr id="L2"><td><a href="#L2">2</a></td><td>KIRA:  Definitely Cardassian.</td></tr>
 
-  ANNOTATION
-     There's a ship on the viewscreen
+<tr id="L3"><td><a href="#L3">3</a></td><td>DAX:  And in trouble. Its engines are completely disabled.</td></tr>
 
-  KIRA
-     Definitely Cardassian.
+<tr id="L4"><td><a href="#L4">4</a></td><td>SISKO:  Open a hailing frequency. This is Commander Sisko of Deep Space Nine. Do you need assistance?</td></tr>
 
-  DAX
-     And in trouble. Its engines are completely
-     disabled.
+<tr id="L5"><td><a href="#L5">5</a></td><td>DAX:  They're not answering. Their life support systems are operating on reserve power.</td></tr>
 
-  SISKO
-     Open a hailing frequency. This is Commander Sisko
-     of Deep Space Nine. Do you need assistance?
+<tr id="L6"><td><a href="#L6">6</a></td><td>SISKO:  Better lock on a tractor beam and pull them into cargo bay seven. Tell Mister O'Brien to meet me there.</td></tr>
 
-  DAX
-     They're not answering. Their life support systems
-     are operating on reserve power.
+<tr><td></td><td>LOCATION--Cargo bay</td></tr>
+<tr id="L7"><td><a href="#L7">7</a></td><td>ANNOTATION: The airlock rolls open and Cardassian civilians come out.</td></tr>
 
-  SISKO
-     Better lock on a tractor beam and pull them into
-     cargo bay seven. Tell Mister O'Brien to meet me
-     there.
+<tr id="L8"><td><a href="#L8">8</a></td><td>SISKO:  I'm Benjamin Sisko, commander of Deep Space Nine. My chief of operations, Miles O'Brien. Do any of you need medical assistance?</td></tr>
 
+<tr id="L9"><td><a href="#L9">9</a></td><td>NATIMA:  I think we're all fine, considering. I'm Professor Natima Lang. These are two of my students, Rekelen and Hogue.</td></tr>
 
-LOCATION--Cargo bay
+<tr id="L10"><td><a href="#L10">10</a></td><td>O'BRIEN:  What happened to your ship?</td></tr>
 
-  ANNOTATION
-     The airlock rolls open and Cardassian civilians
-     come out.
+<tr id="L11"><td><a href="#L11">11</a></td><td>NATIMA:  We were caught in a meteor swarm. I'm a decent teacher, but I'm afraid I'm not much of a shuttle pilot. Do you think you'll be able to repair our ship?</td></tr>
 
-  SISKO
-     I'm Benjamin Sisko, commander of Deep Space Nine.
-     My chief of operations, Miles O'Brien. Do any of
-     you need medical assistance?
+<tr id="L12"><td><a href="#L12">12</a></td><td>O'BRIEN:  I'll have to take a look. Excuse me.</td></tr>
 
-  NATIMA
-     I think we're all fine, considering. I'm Professor
-     Natima Lang. These are two of my students, Rekelen
-     and Hogue.
+<tr id="L13"><td><a href="#L13">13</a></td><td>ANNOTATION: O'Brien and an engineer go into the airlock</td></tr>
 
-  O'BRIEN
-     What happened to your ship?
+<tr id="L14"><td><a href="#L14">14</a></td><td>NATIMA:  We'd like to be on our way as soon as possible. We know having Cardassians on a Bajoran station may cause trouble. That's the last thing we want.</td></tr>
 
-  NATIMA
-     We were caught in a meteor swarm. I'm a decent
-     teacher, but I'm afraid I'm not much of a shuttle
-     pilot. Do you think you'll be able to repair our
-     ship?
+<tr id="L15"><td><a href="#L15">15</a></td><td>SISKO:  If anyone can fix your ship, it is Mister O'Brien. In the meantime, you're welcome to stay here. If you stick to the Promenade, I'm sure there won't be any trouble.</td></tr>
 
-  O'BRIEN
-     I'll have to take a look. Excuse me.
+<tr><td></td><td>LOCATION--Quark's cafe</td></tr>
+<tr id="L16"><td><a href="#L16">16</a></td><td>ANNOTATION: A meal is being served</td></tr>
 
-  ANNOTATION
-     O'Brien and an engineer go into the airlock
+<tr id="L17"><td><a href="#L17">17</a></td><td>BASHIR:  Wait, wait, wait a second. Are you telling me you agreed with General Yiri's decision to execute his brother?</td></tr>
 
-  NATIMA
-     We'd like to be on our way as soon as possible. We
-     know having Cardassians on a Bajoran station may
-     cause trouble. That's the last thing we want.
+<tr id="L18"><td><a href="#L18">18</a></td><td>GARAK:  Of course I agreed. Yiri's brother was a traitor to the Trelonian government.</td></tr>
 
-  SISKO
-     If anyone can fix your ship, it is Mister O'Brien.
-     In the meantime, you're welcome to stay here. If
-     you stick to the Promenade, I'm sure there won't
-     be any trouble.
+<tr id="L19"><td><a href="#L19">19</a></td><td>BASHIR:  The evidence is all circumstantial.</td></tr>
 
+<tr id="L20"><td><a href="#L20">20</a></td><td>GARAK:  It all comes down to a question of loyalty. My dear Doctor, Yiri had to choose between protecting his brother and protecting the state. He chose the state, as would I, every time.</td></tr>
 
-LOCATION--Quark's cafe
+<tr id="L21"><td><a href="#L21">21</a></td><td>BASHIR:  I suppose that's one way of looking at it. But then again, before you can be loyal to another, you must be loyal to yourself.</td></tr>
 
-  ANNOTATION
-     A meal is being served
+<tr id="L22"><td><a href="#L22">22</a></td><td>GARAK:  And who can we thank for those misguided words of wisdom? Sarek of Vulcan?</td></tr>
 
-  BASHIR
-     Wait, wait, wait a second. Are you telling me you
-     agreed with General Yiri's decision to execute his
-     brother?
+<tr id="L23"><td><a href="#L23">23</a></td><td>BASHIR:  Actually, it was Bashir of Earth.</td></tr>
 
-  GARAK
-     Of course I agreed. Yiri's brother was a traitor
-     to the Trelonian government.
+<tr id="L24"><td><a href="#L24">24</a></td><td>GARAK:  With sentiments like those, you wouldn't last for five seconds on Cardassia.</td></tr>
 
-  BASHIR
-     The evidence is all circumstantial.
+<tr id="L25"><td><a href="#L25">25</a></td><td>BASHIR:  Would you?</td></tr>
 
-  GARAK
-     It all comes down to a question of loyalty. My
-     dear Doctor, Yiri had to choose between protecting
-     his brother and protecting the state. He chose the
-     state, as would I, every time.
+<tr id="L26"><td><a href="#L26">26</a></td><td>GARAK:  Fishing again, Doctor?</td></tr>
 
-  BASHIR
-     I suppose that's one way of looking at it. But
-     then again, before you can be loyal to another,
-     you must be loyal to yourself.
+<tr id="L27"><td><a href="#L27">27</a></td><td>BASHIR:  Well, assuming you're not a spy</td></tr>
 
-  GARAK
-     And who can we thank for those misguided words of
-     wisdom? Sarek of Vulcan?
+<tr id="L28"><td><a href="#L28">28</a></td><td>GARAK:  Assuming.</td></tr>
 
-  BASHIR
-     Actually, it was Bashir of Earth.
+<tr id="L29"><td><a href="#L29">29</a></td><td>BASHIR:  Then maybe you're an outcast?</td></tr>
 
-  GARAK
-     With sentiments like those, you wouldn't last for
-     five seconds on Cardassia.
+<tr id="L30"><td><a href="#L30">30</a></td><td>GARAK:  Or maybe I'm an outcast spy.</td></tr>
 
-  BASHIR
-     Would you?
+<tr id="L31"><td><a href="#L31">31</a></td><td>BASHIR:  How could you be both?</td></tr>
 
-  GARAK
-     Fishing again, Doctor?
+<tr id="L32"><td><a href="#L32">32</a></td><td>GARAK:  I never said I was either.</td></tr>
 
-  BASHIR
-     Well, assuming you're not a spy
+<tr><td></td><td>LOCATION--Quark's</td></tr>
+<tr id="L33"><td><a href="#L33">33</a></td><td>ANNOTATION: Meanwhile, downstairs Odo has just walked in.</td></tr>
 
-  GARAK
-     Assuming.
+<tr id="L34"><td><a href="#L34">34</a></td><td>ODO:  I heard an interesting rumour today.</td></tr>
 
-  BASHIR
-     Then maybe you're an outcast?
+<tr id="L35"><td><a href="#L35">35</a></td><td>QUARK:  Only one? I started at least twelve.</td></tr>
 
-  GARAK
-     Or maybe I'm an outcast spy.
+<tr id="L36"><td><a href="#L36">36</a></td><td>ODO:  Rumour has it you've managed to get your hands on a small cloaking device.</td></tr>
 
-  BASHIR
-     How could you be both?
+<tr id="L37"><td><a href="#L37">37</a></td><td>QUARK:  And you believe everything you hear?</td></tr>
 
-  GARAK
-     I never said I was either.
+<tr id="L38"><td><a href="#L38">38</a></td><td>ODO:  When it's about you, yes. According to Bajoran law, such a device would be highly illegal.</td></tr>
 
+<tr id="L39"><td><a href="#L39">39</a></td><td>QUARK:  If I had one, which I don't.</td></tr>
 
-LOCATION--Quark's
+<tr id="L40"><td><a href="#L40">40</a></td><td>ODO:  I didn't expect you to admit it. I'm simply serving notice. You try to sell it and I'll see to it that you spend the next fifty years digging trenches in a penal colony.</td></tr>
 
-  ANNOTATION
-     Meanwhile, downstairs Odo has just walked in.
+<tr id="L41"><td><a href="#L41">41</a></td><td>QUARK:  I told you, you have nothing to worry about.</td></tr>
 
-  ODO
-     I heard an interesting rumour today.
+<tr id="L42"><td><a href="#L42">42</a></td><td>ANNOTATION: Quark sees Natima on the promenade and rushes out of the bar.</td></tr>
 
-  QUARK
-     Only one? I started at least twelve.
+<tr id="L43"><td><a href="#L43">43</a></td><td>QUARK:  Excuse me. Excuse me. Out of my way. Excuse me.</td></tr>
 
-  ODO
-     Rumour has it you've managed to get your hands on
-     a small cloaking device.
+<tr><td></td><td>LOCATION--Promenade</td></tr>
+<tr id="L44"><td><a href="#L44">44</a></td><td>QUARK:  Natima!</td></tr>
 
-  QUARK
-     And you believe everything you hear?
+<tr id="L45"><td><a href="#L45">45</a></td><td>NATIMA:  Quark.</td></tr>
 
-  ODO
-     When it's about you, yes. According to Bajoran
-     law, such a device would be highly illegal.
+<tr id="L46"><td><a href="#L46">46</a></td><td>QUARK:  I knew you'd come b</td></tr>
 
-  QUARK
-     If I had one, which I don't.
+<tr id="L47"><td><a href="#L47">47</a></td><td>ANNOTATION: Natima hits him, hard</td></tr>
 
-  ODO
-     I didn't expect you to admit it. I'm simply
-     serving notice. You try to sell it and I'll see to
-     it that you spend the next fifty years digging
-     trenches in a penal colony.
+<tr id="L48"><td><a href="#L48">48</a></td><td>NATIMA:  I told you never to speak to me again.</td></tr>
 
-  QUARK
-     I told you, you have nothing to worry about.
+<tr id="L49"><td><a href="#L49">49</a></td><td>ANNOTATION: Natima and her students march off</td></tr>
 
-  ANNOTATION
-     Quark sees Natima on the promenade and rushes out
-     of the bar.
+<tr id="L50"><td><a href="#L50">50</a></td><td>ODO:  Are you all right?</td></tr>
 
-  QUARK
-     Excuse me. Excuse me. Out of my way. Excuse me.
+<tr id="L51"><td><a href="#L51">51</a></td><td>QUARK:  All right? This is the happiest day of my life.</td></tr>
 
+<tr id="L52"><td><a href="#L52">52</a></td><td>ANNOTATION: After the opening titles, Quark catches up to them at the spiral staircase.</td></tr>
 
-LOCATION--Promenade
+<tr id="L53"><td><a href="#L53">53</a></td><td>QUARK:  Natima, wait. At least let me buy you and your friends a drink. I can make you a Samarian Sunset.</td></tr>
 
-  QUARK
-     Natima!
+<tr id="L54"><td><a href="#L54">54</a></td><td>NATIMA:  I don't drink Samarian Sunsets anymore.</td></tr>
 
-  NATIMA
-     Quark.
+<tr id="L55"><td><a href="#L55">55</a></td><td>QUARK:  Why not?</td></tr>
 
-  QUARK
-     I knew you'd come b
+<tr id="L56"><td><a href="#L56">56</a></td><td>NATIMA:  Because they remind me of you.</td></tr>
 
-  ANNOTATION
-     Natima hits him, hard
+<tr id="L57"><td><a href="#L57">57</a></td><td>HOGUE:  (male) Is this Ferengi bothering you?</td></tr>
 
-  NATIMA
-     I told you never to speak to me again.
+<tr id="L58"><td><a href="#L58">58</a></td><td>QUARK:  This Ferengi happens to be Natima's old and cherished friend. Who are you?</td></tr>
 
-  ANNOTATION
-     Natima and her students march off
+<tr id="L59"><td><a href="#L59">59</a></td><td>NATIMA:  These are my students.</td></tr>
 
-  ODO
-     Are you all right?
+<tr id="L60"><td><a href="#L60">60</a></td><td>QUARK:  Students. You don't say. I'd love to sit in on one of your classes. What do you teach?</td></tr>
 
-  QUARK
-     All right? This is the happiest day of my life.
+<tr id="L61"><td><a href="#L61">61</a></td><td>HOGUE:  Political Ethics.</td></tr>
 
-  ANNOTATION
-     After the opening titles, Quark catches up to them
-     at the spiral staircase.
+<tr id="L62"><td><a href="#L62">62</a></td><td>REKELEN:  (female) Her teachings will change the future of Cardassia.</td></tr>
 
-  QUARK
-     Natima, wait. At least let me buy you and your
-     friends a drink. I can make you a Samarian Sunset.
+<tr id="L63"><td><a href="#L63">63</a></td><td>NATIMA:  That's enough, Rekelen.</td></tr>
 
-  NATIMA
-     I don't drink Samarian Sunsets anymore.
+<tr id="L64"><td><a href="#L64">64</a></td><td>QUARK:  Not at all. I want to hear more. I always knew Natima was destined for greatness.</td></tr>
 
-  QUARK
-     Why not?
+<tr id="L65"><td><a href="#L65">65</a></td><td>NATIMA:  Quark.</td></tr>
 
-  NATIMA
-     Because they remind me of you.
+<tr><td></td><td>LOCATION--Quark's</td></tr>
+<tr id="L66"><td><a href="#L66">66</a></td><td>ANNOTATION: The group sit at a table near the entrance</td></tr>
 
-  HOGUE
-     (male) Is this Ferengi bothering you?
+<tr id="L67"><td><a href="#L67">67</a></td><td>QUARK:  Just one drink. It'll be like old times.</td></tr>
 
-  QUARK
-     This Ferengi happens to be Natima's old and
-     cherished friend. Who are you?
+<tr id="L68"><td><a href="#L68">68</a></td><td>NATIMA:  It'll never be like old times.</td></tr>
 
-  NATIMA
-     These are my students.
+<tr id="L69"><td><a href="#L69">69</a></td><td>QUARK:  You're right. It'll be better. I'll be right back with refreshments.</td></tr>
 
-  QUARK
-     Students. You don't say. I'd love to sit in on one
-     of your classes. What do you teach?
+<tr id="L70"><td><a href="#L70">70</a></td><td>ANNOTATION: Quark goes over to the bar.</td></tr>
 
-  HOGUE
-     Political Ethics.
+<tr id="L71"><td><a href="#L71">71</a></td><td>ODO:  Your hands are shaking. So, how well does this woman know you? Just enough to dislike you, or well enough to really hate you.</td></tr>
 
-  REKELEN
-     (female) Her teachings will change the future of
-     Cardassia.
+<tr id="L72"><td><a href="#L72">72</a></td><td>QUARK:  She used to work here on the station. She was a correspondent for the Cardassian information service. It was before your time.</td></tr>
 
-  NATIMA
-     That's enough, Rekelen.
+<tr id="L73"><td><a href="#L73">73</a></td><td>ODO:  So which is it, dislike or hate?</td></tr>
 
-  QUARK
-     Not at all. I want to hear more. I always knew
-     Natima was destined for greatness.
+<tr id="L74"><td><a href="#L74">74</a></td><td>QUARK:  It's none of your business, but if you have to know, I was the love of her life.</td></tr>
 
-  NATIMA
-     Quark.
+<tr id="L75"><td><a href="#L75">75</a></td><td>ODO:  Must have been some life.</td></tr>
 
+<tr id="L76"><td><a href="#L76">76</a></td><td>ANNOTATION: Quark takes a single glass to the table</td></tr>
 
-LOCATION--Quark's
+<tr id="L77"><td><a href="#L77">77</a></td><td>HOGUE:  What about our drinks?</td></tr>
 
-  ANNOTATION
-     The group sit at a table near the entrance
+<tr id="L78"><td><a href="#L78">78</a></td><td>QUARK:  If you want a drink, the bar's right over there.</td></tr>
 
-  QUARK
-     Just one drink. It'll be like old times.
+<tr id="L79"><td><a href="#L79">79</a></td><td>NATIMA:  Go ahead.</td></tr>
 
-  NATIMA
-     It'll never be like old times.
+<tr id="L80"><td><a href="#L80">80</a></td><td>ANNOTATION: Hogue and Rekelen go to the bar</td></tr>
 
-  QUARK
-     You're right. It'll be better. I'll be right back
-     with refreshments.
+<tr id="L81"><td><a href="#L81">81</a></td><td>QUARK:  Your Samarian Sunset.</td></tr>
 
-  ANNOTATION
-     Quark goes over to the bar.
+<tr id="L82"><td><a href="#L82">82</a></td><td>ANNOTATION: He pings the glass to get the clear liquid to turn into a yellow-orange sunset effect</td></tr>
 
-  ODO
-     Your hands are shaking. So, how well does this
-     woman know you? Just enough to dislike you, or
-     well enough to really hate you.
+<tr id="L83"><td><a href="#L83">83</a></td><td>NATIMA:  I said I didn't drink these anymore.</td></tr>
 
-  QUARK
-     She used to work here on the station. She was a
-     correspondent for the Cardassian information
-     service. It was before your time.
+<tr id="L84"><td><a href="#L84">84</a></td><td>QUARK:  Because they remind you of me. But since I'm here anyway, you may as well enjoy yourself. Besides, it's on the house. You know, you're as beautiful as ever.</td></tr>
 
-  ODO
-     So which is it, dislike or hate?
+<tr id="L85"><td><a href="#L85">85</a></td><td>NATIMA:  And you're as big a liar as ever.</td></tr>
 
-  QUARK
-     It's none of your business, but if you have to
-     know, I was the love of her life.
+<tr id="L86"><td><a href="#L86">86</a></td><td>QUARK:  You see, just like old times. I've missed you, Natima. That's no lie.</td></tr>
 
-  ODO
-     Must have been some life.
+<tr id="L87"><td><a href="#L87">87</a></td><td>NATIMA:  You seem to have kept busy.</td></tr>
 
-  ANNOTATION
-     Quark takes a single glass to the table
+<tr id="L88"><td><a href="#L88">88</a></td><td>QUARK:  Oh, yes, I'm very successful. But as the two hundred and twenty third Rule of Acquisition says</td></tr>
 
-  HOGUE
-     What about our drinks?
+<tr id="L89"><td><a href="#L89">89</a></td><td>NATIMA:  Please. I haven't heard a Rule of Acquisition in seven years and I don't want to hear one now.</td></tr>
 
-  QUARK
-     If you want a drink, the bar's right over there.
+<tr id="L90"><td><a href="#L90">90</a></td><td>QUARK:  So, how long are you going to be on the station?</td></tr>
 
-  NATIMA
-     Go ahead.
+<tr id="L91"><td><a href="#L91">91</a></td><td>ANNOTATION: Bashir and Garak have come down the stairs.</td></tr>
 
-  ANNOTATION
-     Hogue and Rekelen go to the bar
+<tr id="L92"><td><a href="#L92">92</a></td><td>GARAK:  Thank you for another enjoyable lunch. Doctor.</td></tr>
 
-  QUARK
-     Your Samarian Sunset.
+<tr id="L93"><td><a href="#L93">93</a></td><td>ANNOTATION: Bashir and Garak leave. Garak nods to Natima on his way out. Rekelen and Hogue return to the table.</td></tr>
 
-  ANNOTATION
-     He pings the glass to get the clear liquid to turn
-     into a yellow-orange sunset effect
+<tr id="L94"><td><a href="#L94">94</a></td><td>NATIMA:  I didn't think there'd be any Cardassians left on the station.</td></tr>
 
-  NATIMA
-     I said I didn't drink these anymore.
+<tr id="L95"><td><a href="#L95">95</a></td><td>QUARK:  He's the only one.</td></tr>
 
-  QUARK
-     Because they remind you of me. But since I'm here
-     anyway, you may as well enjoy yourself. Besides,
-     it's on the house. You know, you're as beautiful
-     as ever.
+<tr id="L96"><td><a href="#L96">96</a></td><td>HOGUE:  What do we do now?</td></tr>
 
-  NATIMA
-     And you're as big a liar as ever.
+<tr id="L97"><td><a href="#L97">97</a></td><td>QUARK:  Is something wrong?</td></tr>
 
-  QUARK
-     You see, just like old times. I've missed you,
-     Natima. That's no lie.
+<tr id="L98"><td><a href="#L98">98</a></td><td>NATIMA:  We have to leave as soon as possible. Goodbye, Quark. Thanks for the drink.</td></tr>
 
-  NATIMA
-     You seem to have kept busy.
+<tr id="L99"><td><a href="#L99">99</a></td><td>QUARK:  But you didn't touch it.</td></tr>
 
-  QUARK
-     Oh, yes, I'm very successful. But as the two
-     hundred and twenty third Rule of Acquisition says
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L100"><td><a href="#L100">100</a></td><td>SISKO:  How are your repairs coming?</td></tr>
 
-  NATIMA
-     Please. I haven't heard a Rule of Acquisition in
-     seven years and I don't want to hear one now.
+<tr id="L101"><td><a href="#L101">101</a></td><td>O'BRIEN:  The damage is more extensive than I thought. They were lucky to escape the attack.</td></tr>
 
-  QUARK
-     So, how long are you going to be on the station?
+<tr id="L102"><td><a href="#L102">102</a></td><td>SISKO:  The attack?</td></tr>
 
-  ANNOTATION
-     Bashir and Garak have come down the stairs.
+<tr id="L103"><td><a href="#L103">103</a></td><td>O'BRIEN:  They weren't in any meteor swarm. They were hit by Cardassian disrupters.</td></tr>
 
-  GARAK
-     Thank you for another enjoyable lunch. Doctor.
+<tr id="L104"><td><a href="#L104">104</a></td><td>KIRA:  That doesn't make sense. Why would Cardassians fire on other Cardassians?</td></tr>
 
-  ANNOTATION
-     Bashir and Garak leave. Garak nods to Natima on
-     his way out. Rekelen and Hogue return to the
-     table.
+<tr id="L105"><td><a href="#L105">105</a></td><td>DAX:  Maybe you should ask her.</td></tr>
 
-  NATIMA
-     I didn't think there'd be any Cardassians left on
-     the station.
+<tr id="L106"><td><a href="#L106">106</a></td><td>ANNOTATION: Natima and Co arrive on the turbolift.</td></tr>
 
-  QUARK
-     He's the only one.
+<tr id="L107"><td><a href="#L107">107</a></td><td>NATIMA:  Commander, I hate to be an imposition, but I need my ship.</td></tr>
 
-  HOGUE
-     What do we do now?
+<tr id="L108"><td><a href="#L108">108</a></td><td>SISKO:  That's not possible. Mister O'Brien is still working on it. Your ship sustained more damage than we originally thought. In fact</td></tr>
 
-  QUARK
-     Is something wrong?
+<tr id="L109"><td><a href="#L109">109</a></td><td>NATIMA:  You suspect that our ship was damaged by Cardassian weapons. You're right, of course.</td></tr>
 
-  NATIMA
-     We have to leave as soon as possible. Goodbye,
-     Quark. Thanks for the drink.
+<tr id="L110"><td><a href="#L110">110</a></td><td>HOGUE:  Professor.</td></tr>
 
-  QUARK
-     But you didn't touch it.
+<tr id="L111"><td><a href="#L111">111</a></td><td>NATIMA:  It's all right, Hogue. I should've told them the truth in the first place.</td></tr>
 
+<tr id="L112"><td><a href="#L112">112</a></td><td>KIRA:  Then why didn't you?</td></tr>
 
-LOCATION--Ops
+<tr id="L113"><td><a href="#L113">113</a></td><td>NATIMA:  Because Cardassians don't involve outsiders in their internal politics. Especially Bajorans.</td></tr>
 
-  SISKO
-     How are your repairs coming?
+<tr id="L114"><td><a href="#L114">114</a></td><td>SISKO:  Being shot at by your own people goes a little beyond politics.</td></tr>
 
-  O'BRIEN
-     The damage is more extensive than I thought. They
-     were lucky to escape the attack.
+<tr id="L115"><td><a href="#L115">115</a></td><td>NATIMA:  We take our politics very seriously. Commander, if I don't get my students to safety they're going to be killed. And if they die, the future of Cardassia may die with them.</td></tr>
 
-  SISKO
-     The attack?
+<tr><td></td><td>LOCATION--Commander's office</td></tr>
+<tr id="L116"><td><a href="#L116">116</a></td><td>NATIMA:  There are some who believe the future of Cardassia should not remain in the hands of the military.</td></tr>
 
-  O'BRIEN
-     They weren't in any meteor swarm. They were hit by
-     Cardassian disrupters.
+<tr id="L117"><td><a href="#L117">117</a></td><td>SISKO:  And you're among them?</td></tr>
 
-  KIRA
-     That doesn't make sense. Why would Cardassians
-     fire on other Cardassians?
+<tr id="L118"><td><a href="#L118">118</a></td><td>HOGUE:  Yes, we are.</td></tr>
 
-  DAX
-     Maybe you should ask her.
+<tr id="L119"><td><a href="#L119">119</a></td><td>NATIMA:  Rekelen and Hogue are two of the most important leaders of our movement.</td></tr>
 
-  ANNOTATION
-     Natima and Co arrive on the turbolift.
+<tr id="L120"><td><a href="#L120">120</a></td><td>SISKO:  Which makes you fugitives.</td></tr>
 
-  NATIMA
-     Commander, I hate to be an imposition, but I need
-     my ship.
+<tr id="L121"><td><a href="#L121">121</a></td><td>HOGUE:  The military's afraid to let us speak our minds.</td></tr>
 
-  SISKO
-     That's not possible. Mister O'Brien is still
-     working on it. Your ship sustained more damage
-     than we originally thought. In fact
+<tr id="L122"><td><a href="#L122">122</a></td><td>REKELEN:  They've already tried to kill us once. They're sure to try again.</td></tr>
 
-  NATIMA
-     You suspect that our ship was damaged by
-     Cardassian weapons. You're right, of course.
+<tr id="L123"><td><a href="#L123">123</a></td><td>NATIMA:  Which is why I have to get them off this station as soon as possible.</td></tr>
 
-  HOGUE
-     Professor.
+<tr id="L124"><td><a href="#L124">124</a></td><td>SISKO:  I'll dispatch additional work crews to help repair your ship.</td></tr>
 
-  NATIMA
-     It's all right, Hogue. I should've told them the
-     truth in the first place.
+<tr id="L125"><td><a href="#L125">125</a></td><td>HOGUE:  We saw another Cardassian aboard the station in the bar.</td></tr>
 
-  KIRA
-     Then why didn't you?
+<tr id="L126"><td><a href="#L126">126</a></td><td>SISKO:  Garak. He saw you?</td></tr>
 
-  NATIMA
-     Because Cardassians don't involve outsiders in
-     their internal politics. Especially Bajorans.
+<tr id="L127"><td><a href="#L127">127</a></td><td>NATIMA:  I'm certain of it.</td></tr>
 
-  SISKO
-     Being shot at by your own people goes a little
-     beyond politics.
+<tr id="L128"><td><a href="#L128">128</a></td><td>SISKO:  Well then, we may have a problem. Mister Garak is a bit of a mystery to us. I'll assign you some guest quarters. You'll be safe there until your ship is ready.</td></tr>
 
-  NATIMA
-     We take our politics very seriously. Commander, if
-     I don't get my students to safety they're going to
-     be killed. And if they die, the future of
-     Cardassia may die with them.
+<tr id="L129"><td><a href="#L129">129</a></td><td>NATIMA:  We appreciate your assistance, Commander.</td></tr>
 
+<tr><td></td><td>LOCATION--Garak's shop</td></tr>
+<tr id="L130"><td><a href="#L130">130</a></td><td>GARAK:  Ah, Mister Quark, this is a surprise. I don't believe you've ever been in my establishment before.</td></tr>
 
-LOCATION--Commander's office
+<tr id="L131"><td><a href="#L131">131</a></td><td>QUARK:  You usually don't frequent mine, either. Though I did see you in there today.</td></tr>
 
-  NATIMA
-     There are some who believe the future of Cardassia
-     should not remain in the hands of the military.
+<tr id="L132"><td><a href="#L132">132</a></td><td>GARAK:  The Replimat was a little crowded. So what brings you here now?</td></tr>
 
-  SISKO
-     And you're among them?
+<tr id="L133"><td><a href="#L133">133</a></td><td>QUARK:  Oh, I just wanted to see what you're offering. What do you get for that?</td></tr>
 
-  HOGUE
-     Yes, we are.
+<tr id="L134"><td><a href="#L134">134</a></td><td>ANNOTATION: A dress</td></tr>
 
-  NATIMA
-     Rekelen and Hogue are two of the most important
-     leaders of our movement.
+<tr id="L135"><td><a href="#L135">135</a></td><td>GARAK:  Seventeen strips of latinum.</td></tr>
 
-  SISKO
-     Which makes you fugitives.
+<tr id="L136"><td><a href="#L136">136</a></td><td>QUARK:  I tell you what, I'll give you twenty.</td></tr>
 
-  HOGUE
-     The military's afraid to let us speak our minds.
+<tr id="L137"><td><a href="#L137">137</a></td><td>GARAK:  Twenty? How uncharacteristically generous for a Ferengi.</td></tr>
 
-  REKELEN
-     They've already tried to kill us once. They're
-     sure to try again.
+<tr id="L138"><td><a href="#L138">138</a></td><td>QUARK:  Just one businessman trying to help out another. I figure we have to stick together.</td></tr>
 
-  NATIMA
-     Which is why I have to get them off this station
-     as soon as possible.
+<tr id="L139"><td><a href="#L139">139</a></td><td>GARAK:  Well, this is the latest style on my homeworld. Do you like it?</td></tr>
 
-  SISKO
-     I'll dispatch additional work crews to help repair
-     your ship.
+<tr id="L140"><td><a href="#L140">140</a></td><td>QUARK:  I'm no expert on Cardassian fashions. What do you think?</td></tr>
 
-  HOGUE
-     We saw another Cardassian aboard the station in
-     the bar.
+<tr id="L141"><td><a href="#L141">141</a></td><td>GARAK:  I don't know. It's been so long since I've had a Cardassian customer.</td></tr>
 
-  SISKO
-     Garak. He saw you?
+<tr id="L142"><td><a href="#L142">142</a></td><td>QUARK:  Then you're in luck. There're some board on the station right now.</td></tr>
 
-  NATIMA
-     I'm certain of it.
+<tr id="L143"><td><a href="#L143">143</a></td><td>GARAK:  Now that you mention it, I think your lady friend may find this style very appealing. You're old friends, aren't you?</td></tr>
 
-  SISKO
-     Well then, we may have a problem. Mister Garak is
-     a bit of a mystery to us. I'll assign you some
-     guest quarters. You'll be safe there until your
-     ship is ready.
+<tr id="L144"><td><a href="#L144">144</a></td><td>QUARK:  You're very perceptive, for a Cardassian.</td></tr>
 
-  NATIMA
-     We appreciate your assistance, Commander.
+<tr id="L145"><td><a href="#L145">145</a></td><td>GARAK:  It would have been hard to miss the way you were looking at her.</td></tr>
 
+<tr id="L146"><td><a href="#L146">146</a></td><td>QUARK:  It would've been hard to miss the way you were looking at her.</td></tr>
 
-LOCATION--Garak's shop
+<tr id="L147"><td><a href="#L147">147</a></td><td>GARAK:  Personally, I find this style a bit too radical, but your friend seems the sort who appreciates that kind of thing.</td></tr>
 
-  GARAK
-     Ah, Mister Quark, this is a surprise. I don't
-     believe you've ever been in my establishment
-     before.
+<tr id="L148"><td><a href="#L148">148</a></td><td>QUARK:  Different tastes for different people. Nothing wrong with that, is there?</td></tr>
 
-  QUARK
-     You usually don't frequent mine, either. Though I
-     did see you in there today.
+<tr id="L149"><td><a href="#L149">149</a></td><td>GARAK:  Oh, you'd be surprised how detrimental a poor choice of fashion can be. Take this dress. It may be all the rage now but in a very short time it can become tiresome, an affront to the eyes. Certain people might even think it's objectionable. And then (Garak tears it) Nothing but rags.</td></tr>
 
-  GARAK
-     The Replimat was a little crowded. So what brings
-     you here now?
+<tr id="L150"><td><a href="#L150">150</a></td><td>QUARK:  I see.</td></tr>
 
-  QUARK
-     Oh, I just wanted to see what you're offering.
-     What do you get for that?
+<tr id="L151"><td><a href="#L151">151</a></td><td>GARAK:  Mister Quark, might I offer you some free advice?</td></tr>
 
-  ANNOTATION
-     A dress
+<tr id="L152"><td><a href="#L152">152</a></td><td>QUARK:  As long as I'm under no obligation to follow it.</td></tr>
 
-  GARAK
-     Seventeen strips of latinum.
+<tr id="L153"><td><a href="#L153">153</a></td><td>GARAK:  I've been in this business a long time and I know there's nothing worse than following the wrong trend. Now you're a smart fellow, with your own inimitable sense of style. Perhaps you should mention this to your lady friend. I'd hate to see her fall victim to fashion.</td></tr>
 
-  QUARK
-     I tell you what, I'll give you twenty.
+<tr id="L154"><td><a href="#L154">154</a></td><td>QUARK:  Would you like to explain that?</td></tr>
 
-  GARAK
-     Twenty? How uncharacteristically generous for a
-     Ferengi.
+<tr id="L155"><td><a href="#L155">155</a></td><td>GARAK:  She's chosen to associate herself with some rather flamboyant companions. It would be a tragedy if she got in the way when her friends go out of fashion.</td></tr>
 
-  QUARK
-     Just one businessman trying to help out another. I
-     figure we have to stick together.
+<tr id="L156"><td><a href="#L156">156</a></td><td>QUARK:  If anyone tries to harm her, they're going to have to deal with me.</td></tr>
 
-  GARAK
-     Well, this is the latest style on my homeworld. Do
-     you like it?
+<tr id="L157"><td><a href="#L157">157</a></td><td>GARAK:  What're you going to do, short change them at the dabo table?</td></tr>
 
-  QUARK
-     I'm no expert on Cardassian fashions. What do you
-     think?
+<tr id="L158"><td><a href="#L158">158</a></td><td>QUARK:  I think I'll buy this dress after all. See that it's mended.</td></tr>
 
-  GARAK
-     I don't know. It's been so long since I've had a
-     Cardassian customer.
+<tr><td></td><td>LOCATION--Natima's quarters</td></tr>
+<tr id="L159"><td><a href="#L159">159</a></td><td>NATIMA:  What is it you want from me?</td></tr>
 
-  QUARK
-     Then you're in luck. There're some board on the
-     station right now.
+<tr id="L160"><td><a href="#L160">160</a></td><td>QUARK:  I know you're in trouble. I want to help you.</td></tr>
 
-  GARAK
-     Now that you mention it, I think your lady friend
-     may find this style very appealing. You're old
-     friends, aren't you?
+<tr id="L161"><td><a href="#L161">161</a></td><td>NATIMA:  I don't want your help.</td></tr>
 
-  QUARK
-     You're very perceptive, for a Cardassian.
+<tr id="L162"><td><a href="#L162">162</a></td><td>QUARK:  I owe you. You saved my life. If you'd turned me over to the authorities, I would have been executed.</td></tr>
 
-  GARAK
-     It would have been hard to miss the way you were
-     looking at her.
+<tr id="L163"><td><a href="#L163">163</a></td><td>NATIMA:  I admired your courage. It was a brave thing you were doing selling food to the Bajorans. I thought you were a man of honour.</td></tr>
 
-  QUARK
-     It would've been hard to miss the way you were
-     looking at her.
+<tr id="L164"><td><a href="#L164">164</a></td><td>QUARK:  I'm a Ferengi. You should've known better.</td></tr>
 
-  GARAK
-     Personally, I find this style a bit too radical,
-     but your friend seems the sort who appreciates
-     that kind of thing.
+<tr id="L165"><td><a href="#L165">165</a></td><td>NATIMA:  You're right. I should have. Instead</td></tr>
 
-  QUARK
-     Different tastes for different people. Nothing
-     wrong with that, is there?
+<tr id="L166"><td><a href="#L166">166</a></td><td>QUARK:  Can't you even say it?</td></tr>
 
-  GARAK
-     Oh, you'd be surprised how detrimental a poor
-     choice of fashion can be. Take this dress. It may
-     be all the rage now but in a very short time it
-     can become tiresome, an affront to the eyes.
-     Certain people might even think it's
-     objectionable. And then (Garak tears it) Nothing
-     but rags.
+<tr id="L167"><td><a href="#L167">167</a></td><td>NATIMA:  I can't even think it.</td></tr>
 
-  QUARK
-     I see.
+<tr id="L168"><td><a href="#L168">168</a></td><td>QUARK:  Okay, I'll say it for you. We fell in love. And that month we spent together was the best time of our lives and you know it.</td></tr>
 
-  GARAK
-     Mister Quark, might I offer you some free advice?
+<tr id="L169"><td><a href="#L169">169</a></td><td>NATIMA:  I think you're confusing lust with love.</td></tr>
 
-  QUARK
-     As long as I'm under no obligation to follow it.
+<tr id="L170"><td><a href="#L170">170</a></td><td>QUARK:  I admit I'm capable of that, but not this time. I loved you, Natima.</td></tr>
 
-  GARAK
-     I've been in this business a long time and I know
-     there's nothing worse than following the wrong
-     trend. Now you're a smart fellow, with your own
-     inimitable sense of style. Perhaps you should
-     mention this to your lady friend. I'd hate to see
-     her fall victim to fashion.
+<tr id="L171"><td><a href="#L171">171</a></td><td>NATIMA:  Then how could you have betrayed me?</td></tr>
 
-  QUARK
-     Would you like to explain that?
+<tr id="L172"><td><a href="#L172">172</a></td><td>QUARK:  I didn't betray you.</td></tr>
 
-  GARAK
-     She's chosen to associate herself with some rather
-     flamboyant companions. It would be a tragedy if
-     she got in the way when her friends go out of
-     fashion.
+<tr id="L173"><td><a href="#L173">173</a></td><td>NATIMA:  Don't lie to me, Quark. I know better. You used my personal access codes to authorise payments for goods you never provided.</td></tr>
 
-  QUARK
-     If anyone tries to harm her, they're going to have
-     to deal with me.
+<tr id="L174"><td><a href="#L174">174</a></td><td>QUARK:  So I took a little money from the Cardassian Communication Service. They could afford it.</td></tr>
 
-  GARAK
-     What're you going to do, short change them at the
-     dabo table?
+<tr id="L175"><td><a href="#L175">175</a></td><td>NATIMA:  You stole that money.</td></tr>
 
-  QUARK
-     I think I'll buy this dress after all. See that
-     it's mended.
+<tr id="L176"><td><a href="#L176">176</a></td><td>QUARK:  I saw a chance for profit and I took it. Maybe that was wrong. I don't know. But what I really regret is betraying your trust. That was the worst mistake of my life.</td></tr>
 
+<tr id="L177"><td><a href="#L177">177</a></td><td>NATIMA:  And you'd do it again in a second. I believed in you, Quark. But you were using me like you use everyone. For profit.</td></tr>
 
-LOCATION--Natima's quarters
+<tr id="L178"><td><a href="#L178">178</a></td><td>QUARK:  Then let me make it up to you. Let me help you. I ask for nothing in return.</td></tr>
 
-  NATIMA
-     What is it you want from me?
+<tr id="L179"><td><a href="#L179">179</a></td><td>NATIMA:  Nothing?</td></tr>
 
-  QUARK
-     I know you're in trouble. I want to help you.
+<tr id="L180"><td><a href="#L180">180</a></td><td>QUARK:  Except that you stay with me forever.</td></tr>
 
-  NATIMA
-     I don't want your help.
+<tr id="L181"><td><a href="#L181">181</a></td><td>NATIMA:  I can't stay here. My students need me.</td></tr>
 
-  QUARK
-     I owe you. You saved my life. If you'd turned me
-     over to the authorities, I would have been
-     executed.
+<tr id="L182"><td><a href="#L182">182</a></td><td>QUARK:  Listen to me, Natima. You can't leave me. Not now. If you don't stay with me, I'll have to follow you. And I will, wherever you go, until you agree to take me back.</td></tr>
 
-  NATIMA
-     I admired your courage. It was a brave thing you
-     were doing selling food to the Bajorans. I thought
-     you were a man of honour.
+<tr id="L183"><td><a href="#L183">183</a></td><td>NATIMA:  You don't even know me anymore. I'm part of the Cardassian underground. Following me will only get you killed.</td></tr>
 
-  QUARK
-     I'm a Ferengi. You should've known better.
+<tr id="L184"><td><a href="#L184">184</a></td><td>QUARK:  I'll take that chance.</td></tr>
 
-  NATIMA
-     You're right. I should have. Instead
+<tr id="L185"><td><a href="#L185">185</a></td><td>NATIMA:  What about the bar?</td></tr>
 
-  QUARK
-     Can't you even say it?
+<tr id="L186"><td><a href="#L186">186</a></td><td>QUARK:  I don't care about the bar. I'll turn it over to Rom. He'll run it into the ground in a month, but it doesn't matter. I have to be with you.</td></tr>
 
-  NATIMA
-     I can't even think it.
+<tr id="L187"><td><a href="#L187">187</a></td><td>NATIMA:  It won't work, Quark. You say you'd do anything for me. Maybe right now, you even believe it. But I know better. In the end, you'd only care about yourself.</td></tr>
 
-  QUARK
-     Okay, I'll say it for you. We fell in love. And
-     that month we spent together was the best time of
-     our lives and you know it.
+<tr id="L188"><td><a href="#L188">188</a></td><td>QUARK:  But I love you.</td></tr>
 
-  NATIMA
-     I think you're confusing lust with love.
+<tr id="L189"><td><a href="#L189">189</a></td><td>NATIMA:  I don't love you.</td></tr>
 
-  QUARK
-     I admit I'm capable of that, but not this time. I
-     loved you, Natima.
+<tr id="L190"><td><a href="#L190">190</a></td><td>QUARK:  Now which one of us is lying?</td></tr>
 
-  NATIMA
-     Then how could you have betrayed me?
+<tr id="L191"><td><a href="#L191">191</a></td><td>NATIMA:  You'd better go.</td></tr>
 
-  QUARK
-     I didn't betray you.
+<tr id="L192"><td><a href="#L192">192</a></td><td>QUARK:  All right. But if there's anything you need, anything at all, I'll be waiting.</td></tr>
 
-  NATIMA
-     Don't lie to me, Quark. I know better. You used my
-     personal access codes to authorise payments for
-     goods you never provided.
+<tr id="L193"><td><a href="#L193">193</a></td><td>NATIMA:  It'll be a long wait.</td></tr>
 
-  QUARK
-     So I took a little money from the Cardassian
-     Communication Service. They could afford it.
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L194"><td><a href="#L194">194</a></td><td>O'BRIEN:  Professor Lang's ship should be ready to go in about an hour, Commander.</td></tr>
 
-  NATIMA
-     You stole that money.
+<tr id="L195"><td><a href="#L195">195</a></td><td>SISKO:  Good, I'll let her know.</td></tr>
 
-  QUARK
-     I saw a chance for profit and I took it. Maybe
-     that was wrong. I don't know. But what I really
-     regret is betraying your trust. That was the worst
-     mistake of my life.
+<tr id="L196"><td><a href="#L196">196</a></td><td>KIRA:  We have a Cardassian warship approaching fast.</td></tr>
 
-  NATIMA
-     And you'd do it again in a second. I believed in
-     you, Quark. But you were using me like you use
-     everyone. For profit.
+<tr id="L197"><td><a href="#L197">197</a></td><td>SISKO:  On screen. Hail them, Lieutenant.</td></tr>
 
-  QUARK
-     Then let me make it up to you. Let me help you. I
-     ask for nothing in return.
+<tr id="L198"><td><a href="#L198">198</a></td><td>DAX:  No response.</td></tr>
 
-  NATIMA
-     Nothing?
+<tr id="L199"><td><a href="#L199">199</a></td><td>KIRA:  They're taking up an attack posture.</td></tr>
 
-  QUARK
-     Except that you stay with me forever.
+<tr id="L200"><td><a href="#L200">200</a></td><td>DAX:  They're ignoring us.</td></tr>
 
-  NATIMA
-     I can't stay here. My students need me.
+<tr id="L201"><td><a href="#L201">201</a></td><td>O'BRIEN:  They're powering up their forward disrupters.</td></tr>
 
-  QUARK
-     Listen to me, Natima. You can't leave me. Not now.
-     If you don't stay with me, I'll have to follow
-     you. And I will, wherever you go, until you agree
-     to take me back.
+<tr id="L202"><td><a href="#L202">202</a></td><td>SISKO:  Shields!</td></tr>
 
-  NATIMA
-     You don't even know me anymore. I'm part of the
-     Cardassian underground. Following me will only get
-     you killed.
+<tr id="L203"><td><a href="#L203">203</a></td><td>KIRA:  Shields up.</td></tr>
 
-  QUARK
-     I'll take that chance.
+<tr id="L204"><td><a href="#L204">204</a></td><td>SISKO:  Lock on phasers and photon torpedoes. Prepare to return fire if necessary.</td></tr>
 
-  NATIMA
-     What about the bar?
+<tr id="L205"><td><a href="#L205">205</a></td><td>GARAK:  Commander. We think we should talk.</td></tr>
 
-  QUARK
-     I don't care about the bar. I'll turn it over to
-     Rom. He'll run it into the ground in a month, but
-     it doesn't matter. I have to be with you.
+<tr><td></td><td>LOCATION--Commander's office</td></tr>
+<tr id="L206"><td><a href="#L206">206</a></td><td>SISKO:  All right, Garak, do you mind telling me why a Cardassian warship is threatening my station?</td></tr>
 
-  NATIMA
-     It won't work, Quark. You say you'd do anything
-     for me. Maybe right now, you even believe it. But
-     I know better. In the end, you'd only care about
-     yourself.
+<tr id="L207"><td><a href="#L207">207</a></td><td>GARAK:  No one is threatening you. The Central Command merely wants to make sure they have your undivided attention.</td></tr>
 
-  QUARK
-     But I love you.
+<tr id="L208"><td><a href="#L208">208</a></td><td>SISKO:  Well, they have it. I assume this has something to do with Professor Lang and her students?</td></tr>
 
-  NATIMA
-     I don't love you.
+<tr id="L209"><td><a href="#L209">209</a></td><td>GARAK:  Students is a rather benign term for them. Terrorists would be more accurate. The Cardassian government would very much like Hogue and Rekelen returned home immediately.</td></tr>
 
-  QUARK
-     Now which one of us is lying?
+<tr id="L210"><td><a href="#L210">210</a></td><td>SISKO:  They haven't committed any crimes here. As long as they're on my station, they're free to do whatever they want.</td></tr>
 
-  NATIMA
-     You'd better go.
+<tr id="L211"><td><a href="#L211">211</a></td><td>GARAK:  This is all very embarrassing, Commander. The Central Command would hate to see the Federation pulled into such an insignificant and purely internal affair.</td></tr>
 
-  QUARK
-     All right. But if there's anything you need,
-     anything at all, I'll be waiting.
+<tr id="L212"><td><a href="#L212">212</a></td><td>SISKO:  I would hardly call it insignificant. Judging by the behaviour of the ship out there, it appears the Central Command considers Hogue and Rekelen to be extremely dangerous.</td></tr>
 
-  NATIMA
-     It'll be a long wait.
+<tr id="L213"><td><a href="#L213">213</a></td><td>GARAK:  Not at all. Annoying, perhaps, inconvenient, maybe, but dangerous? Hardly. And if they were dangerous, would the Central Command entrust the situation to me, a simple tailor?</td></tr>
 
+<tr id="L214"><td><a href="#L214">214</a></td><td>SISKO:  Which only confirms what I have suspected all along. You, Mister Garak, are no simple tailor.</td></tr>
 
-LOCATION--Ops
+<tr id="L215"><td><a href="#L215">215</a></td><td>GARAK:  Really, Commander, that's another discussion entirely. All you really need to know right now is that the return of Hogue and Rekelen is in the best interests of the Cardassian Empire.</td></tr>
 
-  O'BRIEN
-     Professor Lang's ship should be ready to go in
-     about an hour, Commander.
+<tr id="L216"><td><a href="#L216">216</a></td><td>SISKO:  Or at least in the best interest of the Cardassian military.</td></tr>
 
-  SISKO
-     Good, I'll let her know.
+<tr id="L217"><td><a href="#L217">217</a></td><td>GARAK:  Is there a difference?</td></tr>
 
-  KIRA
-     We have a Cardassian warship approaching fast.
+<tr id="L218"><td><a href="#L218">218</a></td><td>SISKO:  Do you really expect a Bajoran station under Federation command to turn over Cardassian political refugees on your say-so?</td></tr>
 
-  SISKO
-     On screen. Hail them, Lieutenant.
+<tr id="L219"><td><a href="#L219">219</a></td><td>GARAK:  The ultimate decision is of course yours. I am simply relaying a message.</td></tr>
 
-  DAX
-     No response.
+<tr id="L220"><td><a href="#L220">220</a></td><td>SISKO:  Then relay this. Tell the Central Command if anyone attempts to take Hogue and Rekelen by force, I will respond in kind. Am I clear, Mister Garak?</td></tr>
 
-  KIRA
-     They're taking up an attack posture.
+<tr id="L221"><td><a href="#L221">221</a></td><td>GARAK:  Absolutely. Thank you for your time. Oh, and if you'd like, stop by the shop one day. I have a number of suits that would look quite flattering on you.</td></tr>
 
-  DAX
-     They're ignoring us.
+<tr><td></td><td>LOCATION--Quark's</td></tr>
+<tr id="L222"><td><a href="#L222">222</a></td><td>QUARK:  Here, you go. Two mugs of Kanar on the house.</td></tr>
 
-  O'BRIEN
-     They're powering up their forward disrupters.
+<tr id="L223"><td><a href="#L223">223</a></td><td>HOGUE:  We didn't order these.</td></tr>
 
-  SISKO
-     Shields!
+<tr id="L224"><td><a href="#L224">224</a></td><td>QUARK:  They're the drinks I promised you the first time you came in here. Sorry they took so long but things have been a little hectic. Do you mind?</td></tr>
 
-  KIRA
-     Shields up.
+<tr id="L225"><td><a href="#L225">225</a></td><td>REKELEN:  I'm afraid that we do.</td></tr>
 
-  SISKO
-     Lock on phasers and photon torpedoes. Prepare to
-     return fire if necessary.
+<tr id="L226"><td><a href="#L226">226</a></td><td>HOGUE:  Professor Lang told us you couldn't be trusted.</td></tr>
 
-  GARAK
-     Commander. We think we should talk.
+<tr id="L227"><td><a href="#L227">227</a></td><td>QUARK:  You Cardassians do hold grudges. Seven years ago Natima and I had some little silly lovers' quarrel and well, all I can say is I'm willing to let bygones be bygones.</td></tr>
 
+<tr id="L228"><td><a href="#L228">228</a></td><td>HOGUE:  But Professor Lang isn't.</td></tr>
 
-LOCATION--Commander's office
+<tr id="L229"><td><a href="#L229">229</a></td><td>QUARK:  I have to say I find your loyalty to her extremely touching.</td></tr>
 
-  SISKO
-     All right, Garak, do you mind telling me why a
-     Cardassian warship is threatening my station?
+<tr id="L230"><td><a href="#L230">230</a></td><td>REKELEN:  There is nothing that we wouldn't do for her, and if she says we're not to talk to you, we don't talk to you.</td></tr>
 
-  GARAK
-     No one is threatening you. The Central Command
-     merely wants to make sure they have your undivided
-     attention.
+<tr id="L231"><td><a href="#L231">231</a></td><td>QUARK:  I understand. She's your teacher, you're her students. You have to listen to her. So, if you don't want to talk to the only person who can get you off this station in one piece, that's fine with me.</td></tr>
 
-  SISKO
-     Well, they have it. I assume this has something to
-     do with Professor Lang and her students?
+<tr id="L232"><td><a href="#L232">232</a></td><td>HOGUE:  Wait.</td></tr>
 
-  GARAK
-     Students is a rather benign term for them.
-     Terrorists would be more accurate. The Cardassian
-     government would very much like Hogue and Rekelen
-     returned home immediately.
+<tr id="L233"><td><a href="#L233">233</a></td><td>REKELEN:  You say you can help us get away?</td></tr>
 
-  SISKO
-     They haven't committed any crimes here. As long as
-     they're on my station, they're free to do whatever
-     they want.
+<tr id="L234"><td><a href="#L234">234</a></td><td>QUARK:  It's possible.</td></tr>
 
-  GARAK
-     This is all very embarrassing, Commander. The
-     Central Command would hate to see the Federation
-     pulled into such an insignificant and purely
-     internal affair.
+<tr id="L235"><td><a href="#L235">235</a></td><td>HOGUE:  How?</td></tr>
 
-  SISKO
-     I would hardly call it insignificant. Judging by
-     the behaviour of the ship out there, it appears
-     the Central Command considers Hogue and Rekelen to
-     be extremely dangerous.
+<tr id="L236"><td><a href="#L236">236</a></td><td>QUARK:  One second.</td></tr>
 
-  GARAK
-     Not at all. Annoying, perhaps, inconvenient,
-     maybe, but dangerous? Hardly. And if they were
-     dangerous, would the Central Command entrust the
-     situation to me, a simple tailor?
+<tr id="L237"><td><a href="#L237">237</a></td><td>ANNOTATION: Quark taps everything nearby</td></tr>
 
-  SISKO
-     Which only confirms what I have suspected all
-     along. You, Mister Garak, are no simple tailor.
+<tr id="L238"><td><a href="#L238">238</a></td><td>QUARK:  The station's security chief's a shape-shifter. You can never be too careful. I take it you know what a cloaking device is? Well, I have one. It's not in the best of condition but it'll work for about fifteen minutes. Long enough to get you away from here.</td></tr>
 
-  GARAK
-     Really, Commander, that's another discussion
-     entirely. All you really need to know right now is
-     that the return of Hogue and Rekelen is in the
-     best interests of the Cardassian Empire.
+<tr id="L239"><td><a href="#L239">239</a></td><td>REKELEN:  Sounds expensive.</td></tr>
 
-  SISKO
-     Or at least in the best interest of the Cardassian
-     military.
+<tr id="L240"><td><a href="#L240">240</a></td><td>HOGUE:  We don't have much latinum. What we do have is yours.</td></tr>
 
-  GARAK
-     Is there a difference?
+<tr id="L241"><td><a href="#L241">241</a></td><td>QUARK:  Exactly how much latinum are we talking about? No, forget I said that. I don't want your money. Consider the cloaking device a gift.</td></tr>
 
-  SISKO
-     Do you really expect a Bajoran station under
-     Federation command to turn over Cardassian
-     political refugees on your say-so?
+<tr id="L242"><td><a href="#L242">242</a></td><td>REKELEN:  I'm surprised. Ferengis aren't known for their generosity.</td></tr>
 
-  GARAK
-     The ultimate decision is of course yours. I am
-     simply relaying a message.
+<tr id="L243"><td><a href="#L243">243</a></td><td>QUARK:  We are a deeply misunderstood race.</td></tr>
 
-  SISKO
-     Then relay this. Tell the Central Command if
-     anyone attempts to take Hogue and Rekelen by
-     force, I will respond in kind. Am I clear, Mister
-     Garak?
+<tr id="L244"><td><a href="#L244">244</a></td><td>HOGUE:  You may've saved our lives. Our movement owes you a debt of gratitude.</td></tr>
 
-  GARAK
-     Absolutely. Thank you for your time. Oh, and if
-     you'd like, stop by the shop one day. I have a
-     number of suits that would look quite flattering
-     on you.
+<tr id="L245"><td><a href="#L245">245</a></td><td>QUARK:  And I know exactly how you can repay me. You have to convince Natima to stay here.</td></tr>
 
+<tr id="L246"><td><a href="#L246">246</a></td><td>REKELEN:  The Professor will never agree to stay behind.</td></tr>
 
-LOCATION--Quark's
+<tr id="L247"><td><a href="#L247">247</a></td><td>QUARK:  No Natima, no cloaking device, and no way off this station.</td></tr>
 
-  QUARK
-     Here, you go. Two mugs of Kanar on the house.
+<tr id="L248"><td><a href="#L248">248</a></td><td>REKELEN:  She won't do it.</td></tr>
 
-  HOGUE
-     We didn't order these.
+<tr id="L249"><td><a href="#L249">249</a></td><td>QUARK:  You have to talk her into it. After all, you're the ones the Cardassians are after.</td></tr>
 
-  QUARK
-     They're the drinks I promised you the first time
-     you came in here. Sorry they took so long but
-     things have been a little hectic. Do you mind?
+<tr id="L250"><td><a href="#L250">250</a></td><td>HOGUE:  He's right. She shouldn't have to risk her life for our crimes.</td></tr>
 
-  REKELEN
-     I'm afraid that we do.
+<tr id="L251"><td><a href="#L251">251</a></td><td>REKELEN:  I suppose we could ask her.</td></tr>
 
-  HOGUE
-     Professor Lang told us you couldn't be trusted.
+<tr id="L252"><td><a href="#L252">252</a></td><td>QUARK:  Don't ask her. Tell her.</td></tr>
 
-  QUARK
-     You Cardassians do hold grudges. Seven years ago
-     Natima and I had some little silly lovers' quarrel
-     and well, all I can say is I'm willing to let
-     bygones be bygones.
+<tr id="L253"><td><a href="#L253">253</a></td><td>HOGUE:  We will. We'll do our best.</td></tr>
 
-  HOGUE
-     But Professor Lang isn't.
+<tr id="L254"><td><a href="#L254">254</a></td><td>QUARK:  I'm sure you will. I shudder to think what would happen if the military got its hands on you.</td></tr>
 
-  QUARK
-     I have to say I find your loyalty to her extremely
-     touching.
+<tr id="L255"><td><a href="#L255">255</a></td><td>HOGUE:  Meet us at our quarters in an hour.</td></tr>
 
-  REKELEN
-     There is nothing that we wouldn't do for her, and
-     if she says we're not to talk to you, we don't
-     talk to you.
+<tr id="L256"><td><a href="#L256">256</a></td><td>QUARK:  I'll be there.</td></tr>
 
-  QUARK
-     I understand. She's your teacher, you're her
-     students. You have to listen to her. So, if you
-     don't want to talk to the only person who can get
-     you off this station in one piece, that's fine
-     with me.
+<tr><td></td><td>LOCATION--Natima's quarters</td></tr>
+<tr id="L257"><td><a href="#L257">257</a></td><td>NATIMA:  Come in.</td></tr>
 
-  HOGUE
-     Wait.
+<tr id="L258"><td><a href="#L258">258</a></td><td>QUARK:  Where are Rekelen and Hogue?</td></tr>
 
-  REKELEN
-     You say you can help us get away?
+<tr id="L259"><td><a href="#L259">259</a></td><td>NATIMA:  They're waiting at the ship.</td></tr>
 
-  QUARK
-     It's possible.
+<tr id="L260"><td><a href="#L260">260</a></td><td>QUARK:  Perfect. I know my quarters might seem a little crowded at first, but tomorrow morning, I'll put in a request for something bigger.</td></tr>
 
-  HOGUE
-     How?
+<tr id="L261"><td><a href="#L261">261</a></td><td>NATIMA:  That won't be necessary.</td></tr>
 
-  QUARK
-     One second.
+<tr id="L262"><td><a href="#L262">262</a></td><td>QUARK:  All right. If you want your own quarters to start out with, I can arrange that, too.</td></tr>
 
-  ANNOTATION
-     Quark taps everything nearby
+<tr id="L263"><td><a href="#L263">263</a></td><td>NATIMA:  I mean I'm not staying.</td></tr>
 
-  QUARK
-     The station's security chief's a shape-shifter.
-     You can never be too careful. I take it you know
-     what a cloaking device is? Well, I have one. It's
-     not in the best of condition but it'll work for
-     about fifteen minutes. Long enough to get you away
-     from here.
+<tr id="L264"><td><a href="#L264">264</a></td><td>QUARK:  Now hold on. Your students and I have an agreement. They get the cloaking device and you stay with me. That way everyone's happy.</td></tr>
 
-  REKELEN
-     Sounds expensive.
+<tr id="L265"><td><a href="#L265">265</a></td><td>NATIMA:  Quark, you say you love me? Then give me that cloaking device and let me be on my way.</td></tr>
 
-  HOGUE
-     We don't have much latinum. What we do have is
-     yours.
+<tr id="L266"><td><a href="#L266">266</a></td><td>QUARK:  And let you disappear out of my life again?</td></tr>
 
-  QUARK
-     Exactly how much latinum are we talking about? No,
-     forget I said that. I don't want your money.
-     Consider the cloaking device a gift.
+<tr id="L267"><td><a href="#L267">267</a></td><td>NATIMA:  I'm not part of your life.</td></tr>
 
-  REKELEN
-     I'm surprised. Ferengis aren't known for their
-     generosity.
+<tr id="L268"><td><a href="#L268">268</a></td><td>QUARK:  But you are. You always have been. Don't you understand, since you left me, not a day goes by that I don't regret what I did. And now you're asking me to lose you again.</td></tr>
 
-  QUARK
-     We are a deeply misunderstood race.
+<tr id="L269"><td><a href="#L269">269</a></td><td>NATIMA:  You lost me a long time ago.</td></tr>
 
-  HOGUE
-     You may've saved our lives. Our movement owes you
-     a debt of gratitude.
+<tr id="L270"><td><a href="#L270">270</a></td><td>QUARK:  All right, then say it. Let me hear you say there isn't a spark of love left in you.</td></tr>
 
-  QUARK
-     And I know exactly how you can repay me. You have
-     to convince Natima to stay here.
+<tr id="L271"><td><a href="#L271">271</a></td><td>NATIMA:  There isn't a spark of love left in me.</td></tr>
 
-  REKELEN
-     The Professor will never agree to stay behind.
+<tr id="L272"><td><a href="#L272">272</a></td><td>QUARK:  I heard that.</td></tr>
 
-  QUARK
-     No Natima, no cloaking device, and no way off this
-     station.
+<tr id="L273"><td><a href="#L273">273</a></td><td>NATIMA:  What?</td></tr>
 
-  REKELEN
-     She won't do it.
+<tr id="L274"><td><a href="#L274">274</a></td><td>QUARK:  You hesitated. Admit it, you still care.</td></tr>
 
-  QUARK
-     You have to talk her into it. After all, you're
-     the ones the Cardassians are after.
+<tr id="L275"><td><a href="#L275">275</a></td><td>NATIMA:  Quark, I don't have time for this. Give me that cloaking device.</td></tr>
 
-  HOGUE
-     He's right. She shouldn't have to risk her life
-     for our crimes.
+<tr id="L276"><td><a href="#L276">276</a></td><td>QUARK:  I can't. I won't let you go.</td></tr>
 
-  REKELEN
-     I suppose we could ask her.
+<tr id="L277"><td><a href="#L277">277</a></td><td>ANNOTATION: She gets a weapon from a drawer</td></tr>
 
-  QUARK
-     Don't ask her. Tell her.
+<tr id="L278"><td><a href="#L278">278</a></td><td>NATIMA:  Quark. I didn't want to have to get it this way, but I need that device. Give it to me. Now.</td></tr>
 
-  HOGUE
-     We will. We'll do our best.
+<tr id="L279"><td><a href="#L279">279</a></td><td>QUARK:  Or what? You'll shoot me?</td></tr>
 
-  QUARK
-     I'm sure you will. I shudder to think what would
-     happen if the military got its hands on you.
+<tr id="L280"><td><a href="#L280">280</a></td><td>NATIMA:  If I have to.</td></tr>
 
-  HOGUE
-     Meet us at our quarters in an hour.
+<tr id="L281"><td><a href="#L281">281</a></td><td>QUARK:  Then go ahead and shoot.</td></tr>
 
-  QUARK
-     I'll be there.
+<tr id="L282"><td><a href="#L282">282</a></td><td>ANNOTATION: Just as he reaches for the weapon, she fires and he falls. The cloaking device rolls from his hand. After the break.</td></tr>
 
+<tr id="L283"><td><a href="#L283">283</a></td><td>NATIMA:  Quark. Quark, are you all right.</td></tr>
 
-LOCATION--Natima's quarters
+<tr id="L284"><td><a href="#L284">284</a></td><td>QUARK:  You shot me.</td></tr>
 
-  NATIMA
-     Come in.
+<tr id="L285"><td><a href="#L285">285</a></td><td>NATIMA:  I didn't mean to. It was an accident. I've never fired a phaser before. I barely touched the trigger</td></tr>
 
-  QUARK
-     Where are Rekelen and Hogue?
+<tr id="L286"><td><a href="#L286">286</a></td><td>QUARK:  Careful. Owww.</td></tr>
 
-  NATIMA
-     They're waiting at the ship.
+<tr id="L287"><td><a href="#L287">287</a></td><td>NATIMA:  It hurts?</td></tr>
 
-  QUARK
-     Perfect. I know my quarters might seem a little
-     crowded at first, but tomorrow morning, I'll put
-     in a request for something bigger.
+<tr id="L288"><td><a href="#L288">288</a></td><td>QUARK:  She wants to know if it hurts? Of course it hurts. It's supposed to hurt. It's a phaser.</td></tr>
 
-  NATIMA
-     That won't be necessary.
+<tr id="L289"><td><a href="#L289">289</a></td><td>NATIMA:  I made sure it was on the first setting.</td></tr>
 
-  QUARK
-     All right. If you want your own quarters to start
-     out with, I can arrange that, too.
+<tr id="L290"><td><a href="#L290">290</a></td><td>QUARK:  How considerate of you.</td></tr>
 
-  NATIMA
-     I mean I'm not staying.
+<tr id="L291"><td><a href="#L291">291</a></td><td>NATIMA:  Should I get a doctor?</td></tr>
 
-  QUARK
-     Now hold on. Your students and I have an
-     agreement. They get the cloaking device and you
-     stay with me. That way everyone's happy.
+<tr id="L292"><td><a href="#L292">292</a></td><td>QUARK:  It's okay. Maybe if you rub it.</td></tr>
 
-  NATIMA
-     Quark, you say you love me? Then give me that
-     cloaking device and let me be on my way.
+<tr id="L293"><td><a href="#L293">293</a></td><td>NATIMA:  Oh, Quark, I'm sorry.</td></tr>
 
-  QUARK
-     And let you disappear out of my life again?
+<tr id="L294"><td><a href="#L294">294</a></td><td>QUARK:  Really?</td></tr>
 
-  NATIMA
-     I'm not part of your life.
+<tr id="L295"><td><a href="#L295">295</a></td><td>NATIMA:  Yes, for everything. For all those horrible things I said.</td></tr>
 
-  QUARK
-     But you are. You always have been. Don't you
-     understand, since you left me, not a day goes by
-     that I don't regret what I did. And now you're
-     asking me to lose you again.
+<tr id="L296"><td><a href="#L296">296</a></td><td>QUARK:  You really didn't mean them?</td></tr>
 
-  NATIMA
-     You lost me a long time ago.
+<tr id="L297"><td><a href="#L297">297</a></td><td>NATIMA:  I love you, Quark. I've always loved you. Even when I hated you.</td></tr>
 
-  QUARK
-     All right, then say it. Let me hear you say there
-     isn't a spark of love left in you.
+<tr id="L298"><td><a href="#L298">298</a></td><td>ANNOTATION: They kiss.</td></tr>
 
-  NATIMA
-     There isn't a spark of love left in me.
+<tr id="L299"><td><a href="#L299">299</a></td><td>QUARK:  Natima.</td></tr>
 
-  QUARK
-     I heard that.
+<tr id="L300"><td><a href="#L300">300</a></td><td>NATIMA:  I've missed you. I've missed you so much. Being with you was the happiest time of my life.</td></tr>
 
-  NATIMA
-     What?
+<tr id="L301"><td><a href="#L301">301</a></td><td>QUARK:  And now we're together again, and we have the rest of our lives to be happy.</td></tr>
 
-  QUARK
-     You hesitated. Admit it, you still care.
+<tr id="L302"><td><a href="#L302">302</a></td><td>NATIMA:  I wish it was that easy.</td></tr>
 
-  NATIMA
-     Quark, I don't have time for this. Give me that
-     cloaking device.
+<tr id="L303"><td><a href="#L303">303</a></td><td>QUARK:  It can be if you let it.</td></tr>
 
-  QUARK
-     I can't. I won't let you go.
+<tr id="L304"><td><a href="#L304">304</a></td><td>NATIMA:  I'm not the same person I was seven years ago. I have responsibilities.</td></tr>
 
-  ANNOTATION
-     She gets a weapon from a drawer
+<tr id="L305"><td><a href="#L305">305</a></td><td>QUARK:  I'll share them with you.</td></tr>
 
-  NATIMA
-     Quark. I didn't want to have to get it this way,
-     but I need that device. Give it to me. Now.
+<tr id="L306"><td><a href="#L306">306</a></td><td>NATIMA:  The movement is my life now. I don't have time for anything else.</td></tr>
 
-  QUARK
-     Or what? You'll shoot me?
+<tr id="L307"><td><a href="#L307">307</a></td><td>QUARK:  We'll make the time. You're a woman, Natima, believe me, I know. It's not right for you to be alone.</td></tr>
 
-  NATIMA
-     If I have to.
+<tr id="L308"><td><a href="#L308">308</a></td><td>NATIMA:  I'm not alone. I have my students, my dreams for a better Cardassia.</td></tr>
 
-  QUARK
-     Then go ahead and shoot.
+<tr id="L309"><td><a href="#L309">309</a></td><td>QUARK:  But are dreams enough? Can dreams make you laugh? Can dreams hold you close at night?</td></tr>
 
-  ANNOTATION
-     Just as he reaches for the weapon, she fires and
-     he falls. The cloaking device rolls from his hand.
-     After the break.
+<tr id="L310"><td><a href="#L310">310</a></td><td>NATIMA:  No. But my life demands I make certain sacrifices.</td></tr>
 
-  NATIMA
-     Quark. Quark, are you all right.
+<tr id="L311"><td><a href="#L311">311</a></td><td>QUARK:  And you've made them, but it doesn't mean you can't be happy.</td></tr>
 
-  QUARK
-     You shot me.
+<tr id="L312"><td><a href="#L312">312</a></td><td>NATIMA:  We did have fun together, didn't we?</td></tr>
 
-  NATIMA
-     I didn't mean to. It was an accident. I've never
-     fired a phaser before. I barely touched the
-     trigger
+<tr id="L313"><td><a href="#L313">313</a></td><td>QUARK:  Remember the day I installed my first holosuite.</td></tr>
 
-  QUARK
-     Careful. Owww.
+<tr id="L314"><td><a href="#L314">314</a></td><td>NATIMA:  I'd never been in one before.</td></tr>
 
-  NATIMA
-     It hurts?
+<tr id="L315"><td><a href="#L315">315</a></td><td>QUARK:  I still have that programme. The picnic on Rhymus Major. Two suns in the sky.</td></tr>
 
-  QUARK
-     She wants to know if it hurts? Of course it hurts.
-     It's supposed to hurt. It's a phaser.
+<tr id="L316"><td><a href="#L316">316</a></td><td>NATIMA:  The sound of the waterfalls.</td></tr>
 
-  NATIMA
-     I made sure it was on the first setting.
+<tr id="L317"><td><a href="#L317">317</a></td><td>QUARK:  The whisper of flitterbird wings over our heads.</td></tr>
 
-  QUARK
-     How considerate of you.
+<tr id="L318"><td><a href="#L318">318</a></td><td>NATIMA:  You painted my face with honey.</td></tr>
 
-  NATIMA
-     Should I get a doctor?
+<tr id="L319"><td><a href="#L319">319</a></td><td>QUARK:  And a Mordian butterfly landed on your nose.</td></tr>
 
-  QUARK
-     It's okay. Maybe if you rub it.
+<tr id="L320"><td><a href="#L320">320</a></td><td>NATIMA:  And a Mordian butterfly got stuck on my nose.</td></tr>
 
-  NATIMA
-     Oh, Quark, I'm sorry.
+<tr id="L321"><td><a href="#L321">321</a></td><td>QUARK:  His wings were beating almost as fast as my heart.</td></tr>
 
-  QUARK
-     Really?
+<tr id="L322"><td><a href="#L322">322</a></td><td>NATIMA:  Those were good times.</td></tr>
 
-  NATIMA
-     Yes, for everything. For all those horrible things
-     I said.
+<tr id="L323"><td><a href="#L323">323</a></td><td>QUARK:  The best. And we can have them back again. I'll give the cloaking device to your students. Once they're gone you'll be safe, and we can be together.</td></tr>
 
-  QUARK
-     You really didn't mean them?
+<tr id="L324"><td><a href="#L324">324</a></td><td>NATIMA:  I can't just abandon them. They need me.</td></tr>
 
-  NATIMA
-     I love you, Quark. I've always loved you. Even
-     when I hated you.
+<tr id="L325"><td><a href="#L325">325</a></td><td>QUARK:  I need you. Listen to me, Natima. You've done enough for the movement. You lit the match. Let them carry the torch. Or are you saying that the movement won't survive without you?</td></tr>
 
-  ANNOTATION
-     They kiss.
+<tr id="L326"><td><a href="#L326">326</a></td><td>NATIMA:  Of course it will.</td></tr>
 
-  QUARK
-     Natima.
+<tr id="L327"><td><a href="#L327">327</a></td><td>QUARK:  Then let it. And let us have the happiness we deserve.</td></tr>
 
-  NATIMA
-     I've missed you. I've missed you so much. Being
-     with you was the happiest time of my life.
+<tr id="L328"><td><a href="#L328">328</a></td><td>NATIMA:  You really do love me, don't you?</td></tr>
 
-  QUARK
-     And now we're together again, and we have the rest
-     of our lives to be happy.
+<tr id="L329"><td><a href="#L329">329</a></td><td>QUARK:  With all that I am, Natima. Forever. Will you stay?</td></tr>
 
-  NATIMA
-     I wish it was that easy.
+<tr id="L330"><td><a href="#L330">330</a></td><td>NATIMA:  Yes, Quark. I'll stay.</td></tr>
 
-  QUARK
-     It can be if you let it.
+<tr id="L331"><td><a href="#L331">331</a></td><td>QUARK:  You don't know how I've waited to hear you say that.</td></tr>
 
-  NATIMA
-     I'm not the same person I was seven years ago. I
-     have responsibilities.
+<tr id="L332"><td><a href="#L332">332</a></td><td>ANNOTATION: The doorbell interrupts their passion. Quark hides the cloaking device under the table.</td></tr>
 
-  QUARK
-     I'll share them with you.
+<tr id="L333"><td><a href="#L333">333</a></td><td>NATIMA:  Enter.</td></tr>
 
-  NATIMA
-     The movement is my life now. I don't have time for
-     anything else.
+<tr id="L334"><td><a href="#L334">334</a></td><td>ODO:  Professor Lang?</td></tr>
 
-  QUARK
-     We'll make the time. You're a woman, Natima,
-     believe me, I know. It's not right for you to be
-     alone.
+<tr id="L335"><td><a href="#L335">335</a></td><td>QUARK:  Not now, Odo. Can't you see we're busy?</td></tr>
 
-  NATIMA
-     I'm not alone. I have my students, my dreams for a
-     better Cardassia.
+<tr id="L336"><td><a href="#L336">336</a></td><td>ODO:  I apologise for the interruption, but I'm afraid, madam, that you're under arrest.</td></tr>
 
-  QUARK
-     But are dreams enough? Can dreams make you laugh?
-     Can dreams hold you close at night?
+<tr id="L337"><td><a href="#L337">337</a></td><td>NATIMA:  I'm what?</td></tr>
 
-  NATIMA
-     No. But my life demands I make certain sacrifices.
+<tr id="L338"><td><a href="#L338">338</a></td><td>QUARK:  On what charge?</td></tr>
 
-  QUARK
-     And you've made them, but it doesn't mean you
-     can't be happy.
+<tr id="L339"><td><a href="#L339">339</a></td><td>ODO:  Commander Sisko will explain. I'm truly sorry.</td></tr>
 
-  NATIMA
-     We did have fun together, didn't we?
+<tr id="L340"><td><a href="#L340">340</a></td><td>QUARK:  Now hold on.</td></tr>
 
-  QUARK
-     Remember the day I installed my first holosuite.
+<tr id="L341"><td><a href="#L341">341</a></td><td>NATIMA:  Quark, it's all right.</td></tr>
 
-  NATIMA
-     I'd never been in one before.
+<tr><td></td><td>LOCATION--Holding cell</td></tr>
+<tr id="L342"><td><a href="#L342">342</a></td><td>NATIMA:  Commander, would you please explain what we're doing here?</td></tr>
 
-  QUARK
-     I still have that programme. The picnic on Rhymus
-     Major. Two suns in the sky.
+<tr id="L343"><td><a href="#L343">343</a></td><td>SISKO:  I'm afraid all of you are to be turned over to the Cardassian government.</td></tr>
 
-  NATIMA
-     The sound of the waterfalls.
+<tr id="L344"><td><a href="#L344">344</a></td><td>REKELEN:  You can't do that.</td></tr>
 
-  QUARK
-     The whisper of flitterbird wings over our heads.
+<tr id="L345"><td><a href="#L345">345</a></td><td>SISKO:  I wish I didn't have to, but Cardassia has offered to hand over a half a dozen Bajoran prisoners in exchange for you.</td></tr>
 
-  NATIMA
-     You painted my face with honey.
+<tr id="L346"><td><a href="#L346">346</a></td><td>NATIMA:  And you've agreed to this?</td></tr>
 
-  QUARK
-     And a Mordian butterfly landed on your nose.
+<tr id="L347"><td><a href="#L347">347</a></td><td>ODO:  The Bajoran Provisional Government has agreed to it. A Cardassian transport will deliver the Bajoran prisoners within five hours.</td></tr>
 
-  NATIMA
-     And a Mordian butterfly got stuck on my nose.
+<tr id="L348"><td><a href="#L348">348</a></td><td>NATIMA:  Commander, you have no idea what they'll do to us.</td></tr>
 
-  QUARK
-     His wings were beating almost as fast as my heart.
+<tr id="L349"><td><a href="#L349">349</a></td><td>REKELEN:  We're the ones they're after. At least let Professor Lang go.</td></tr>
 
-  NATIMA
-     Those were good times.
+<tr id="L350"><td><a href="#L350">350</a></td><td>SISKO:  I'd like nothing better, but the provisional government has ordered you all be turned over. I'm fighting this every way I can. I'm not ready to give up yet. But in the end, this is a Bajoran station, and I have to abide by their decision no matter how much I disagree with it.</td></tr>
 
-  QUARK
-     The best. And we can have them back again. I'll
-     give the cloaking device to your students. Once
-     they're gone you'll be safe, and we can be
-     together.
+<tr><td></td><td>LOCATION--Garak's shop</td></tr>
+<tr id="L351"><td><a href="#L351">351</a></td><td>TORAN:  How the mighty have fallen.</td></tr>
 
-  NATIMA
-     I can't just abandon them. They need me.
+<tr id="L352"><td><a href="#L352">352</a></td><td>GARAK:  Toran?</td></tr>
 
-  QUARK
-     I need you. Listen to me, Natima. You've done
-     enough for the movement. You lit the match. Let
-     them carry the torch. Or are you saying that the
-     movement won't survive without you?
+<tr id="L353"><td><a href="#L353">353</a></td><td>TORAN:  It's Gul Toran now.</td></tr>
 
-  NATIMA
-     Of course it will.
+<tr id="L354"><td><a href="#L354">354</a></td><td>GARAK:  They've made you a Gul. I didn't realise the situation on Cardassia had gotten so desperate.</td></tr>
 
-  QUARK
-     Then let it. And let us have the happiness we
-     deserve.
+<tr id="L355"><td><a href="#L355">355</a></td><td>TORAN:  I find your bitterness extremely gratifying. I'm glad to see that you're adjusting so poorly to exile.</td></tr>
 
-  NATIMA
-     You really do love me, don't you?
+<tr id="L356"><td><a href="#L356">356</a></td><td>GARAK:  Actually, I'm finding my time here quite illuminating.</td></tr>
 
-  QUARK
-     With all that I am, Natima. Forever. Will you
-     stay?
+<tr id="L357"><td><a href="#L357">357</a></td><td>TORAN:  Then I don't suppose you'd be interested in going home again?</td></tr>
 
-  NATIMA
-     Yes, Quark. I'll stay.
+<tr id="L358"><td><a href="#L358">358</a></td><td>GARAK:  Am I to be rewarded for informing the Central Command about the presence of Hogue and Rekelen on the station?</td></tr>
 
-  QUARK
-     You don't know how I've waited to hear you say
-     that.
+<tr id="L359"><td><a href="#L359">359</a></td><td>TORAN:  Perhaps. But only after you see to it that they don't leave this station alive.</td></tr>
 
-  ANNOTATION
-     The doorbell interrupts their passion. Quark hides
-     the cloaking device under the table.
+<tr id="L360"><td><a href="#L360">360</a></td><td>GARAK:  But I suggested a prisoner exchange and the Central Command agreed.</td></tr>
 
-  NATIMA
-     Enter.
+<tr id="L361"><td><a href="#L361">361</a></td><td>TORAN:  I convinced them otherwise.</td></tr>
 
-  ODO
-     Professor Lang?
+<tr id="L362"><td><a href="#L362">362</a></td><td>GARAK:  They listen to you?</td></tr>
 
-  QUARK
-     Not now, Odo. Can't you see we're busy?
+<tr id="L363"><td><a href="#L363">363</a></td><td>TORAN:  My voice is less tarnished than yours.</td></tr>
 
-  ODO
-     I apologise for the interruption, but I'm afraid,
-     madam, that you're under arrest.
+<tr id="L364"><td><a href="#L364">364</a></td><td>GARAK:  Kill them and all you'll do is create martyrs.</td></tr>
 
-  NATIMA
-     I'm what?
+<tr id="L365"><td><a href="#L365">365</a></td><td>TORAN:  You overestimate their importance.</td></tr>
 
-  QUARK
-     On what charge?
+<tr id="L366"><td><a href="#L366">366</a></td><td>GARAK:  And how do you propose to arrange this unfortunate incident?</td></tr>
 
-  ODO
-     Commander Sisko will explain. I'm truly sorry.
+<tr id="L367"><td><a href="#L367">367</a></td><td>TORAN:  I'm sure you'll think of something. You always did in the past. Don't you see? Lang's death will benefit us both. Unless of course, you intend to spend the rest of your life as a tailor.</td></tr>
 
-  QUARK
-     Now hold on.
+<tr id="L368"><td><a href="#L368">368</a></td><td>GARAK:  I see your point.</td></tr>
 
-  NATIMA
-     Quark, it's all right.
+<tr id="L369"><td><a href="#L369">369</a></td><td>TORAN:  I knew you would.</td></tr>
 
+<tr><td></td><td>LOCATION--Security office</td></tr>
+<tr id="L370"><td><a href="#L370">370</a></td><td>ANNOTATION: Odo is reading a PADD</td></tr>
 
-LOCATION--Holding cell
+<tr id="L371"><td><a href="#L371">371</a></td><td>QUARK:  Odo, we have to talk.</td></tr>
 
-  NATIMA
-     Commander, would you please explain what we're
-     doing here?
+<tr id="L372"><td><a href="#L372">372</a></td><td>ODO:  I'm busy. Come back later.</td></tr>
 
-  SISKO
-     I'm afraid all of you are to be turned over to the
-     Cardassian government.
+<tr id="L373"><td><a href="#L373">373</a></td><td>QUARK:  Later will be too late. (sees what Odo is reading) I, the Jury by Mickey Spillane?</td></tr>
 
-  REKELEN
-     You can't do that.
+<tr id="L374"><td><a href="#L374">374</a></td><td>ODO:  Chief O'Brien loaned it to me. This better be important, Quark.</td></tr>
 
-  SISKO
-     I wish I didn't have to, but Cardassia has offered
-     to hand over a half a dozen Bajoran prisoners in
-     exchange for you.
+<tr id="L375"><td><a href="#L375">375</a></td><td>QUARK:  It is. Odo, you have to let Natima and her students go.</td></tr>
 
-  NATIMA
-     And you've agreed to this?
+<tr id="L376"><td><a href="#L376">376</a></td><td>ODO:  Do I?</td></tr>
 
-  ODO
-     The Bajoran Provisional Government has agreed to
-     it. A Cardassian transport will deliver the
-     Bajoran prisoners within five hours.
+<tr id="L377"><td><a href="#L377">377</a></td><td>QUARK:  Those students could be the key to a new Cardassia. A Cardassia free of military rule and oppression.</td></tr>
 
-  NATIMA
-     Commander, you have no idea what they'll do to us.
+<tr id="L378"><td><a href="#L378">378</a></td><td>ODO:  Since when have you become so interested in Cardassian politics?</td></tr>
 
-  REKELEN
-     We're the ones they're after. At least let
-     Professor Lang go.
+<tr id="L379"><td><a href="#L379">379</a></td><td>QUARK:  A freer more open society on Cardassia would benefit this entire sector. And it'd be great for business.</td></tr>
 
-  SISKO
-     I'd like nothing better, but the provisional
-     government has ordered you all be turned over. I'm
-     fighting this every way I can. I'm not ready to
-     give up yet. But in the end, this is a Bajoran
-     station, and I have to abide by their decision no
-     matter how much I disagree with it.
+<tr id="L380"><td><a href="#L380">380</a></td><td>ODO:  So, wanting me to free Natima and those students is strictly a financial consideration on your part?</td></tr>
 
+<tr id="L381"><td><a href="#L381">381</a></td><td>QUARK:  Now, Odo. Don't allow my greed to keep you from doing the right thing.</td></tr>
 
-LOCATION--Garak's shop
+<tr id="L382"><td><a href="#L382">382</a></td><td>ODO:  I know you better than you think, Quark. This isn't about Cardassia, and for once it's not even about profit. This is about Professor Lang.</td></tr>
 
-  TORAN
-     How the mighty have fallen.
+<tr id="L383"><td><a href="#L383">383</a></td><td>QUARK:  You're right. It is. Her life is in jeopardy as long as Rekelen and Hogue are on the station.</td></tr>
 
-  GARAK
-     Toran?
+<tr id="L384"><td><a href="#L384">384</a></td><td>ODO:  Why didn't you tell me that before?</td></tr>
 
-  TORAN
-     It's Gul Toran now.
+<tr id="L385"><td><a href="#L385">385</a></td><td>QUARK:  What was I supposed to say? That I love her? That I would do anything for her? That without her, my life would be meaningless? Sure, I could say those things, but what good would it do? How could I expect you to understand? You've never had those feelings. You don't know what it means to really care about another person. You've never been in love. You've got all the emotions of a stone. No offence.</td></tr>
 
-  GARAK
-     They've made you a Gul. I didn't realise the
-     situation on Cardassia had gotten so desperate.
+<tr id="L386"><td><a href="#L386">386</a></td><td>ODO:  Go on.</td></tr>
 
-  TORAN
-     I find your bitterness extremely gratifying. I'm
-     glad to see that you're adjusting so poorly to
-     exile.
+<tr id="L387"><td><a href="#L387">387</a></td><td>QUARK:  Listen to me, Odo. You do this for me, and I promise you there'll be no more secrets between us. I will tell you about every underhanded deal, every lying scheme, every dirty trick my brother Rom's involved in.</td></tr>
 
-  GARAK
-     Actually, I'm finding my time here quite
-     illuminating.
+<tr id="L388"><td><a href="#L388">388</a></td><td>ODO:  Well, since you put it that way, I'm not interested.</td></tr>
 
-  TORAN
-     Then I don't suppose you'd be interested in going
-     home again?
+<tr id="L389"><td><a href="#L389">389</a></td><td>QUARK:  Okay, okay, let me put it another way. Do it for me.</td></tr>
 
-  GARAK
-     Am I to be rewarded for informing the Central
-     Command about the presence of Hogue and Rekelen on
-     the station?
+<tr id="L390"><td><a href="#L390">390</a></td><td>ODO:  For you?</td></tr>
 
-  TORAN
-     Perhaps. But only after you see to it that they
-     don't leave this station alive.
+<tr id="L391"><td><a href="#L391">391</a></td><td>QUARK:  That's right. For all the years we've known each other. For everything we've been through together. You say you know me better than anyone else? Well, I know you. Sure, sometimes we're on opposite sides, but that doesn't mean that we aren't close. I never told you this, Odo, but I consider you as dear to me as my brother.</td></tr>
 
-  GARAK
-     But I suggested a prisoner exchange and the
-     Central Command agreed.
+<tr id="L392"><td><a href="#L392">392</a></td><td>ODO:  And I've seen how well you treat him.</td></tr>
 
-  TORAN
-     I convinced them otherwise.
+<tr id="L393"><td><a href="#L393">393</a></td><td>QUARK:  Odo, look at me.</td></tr>
 
-  GARAK
-     They listen to you?
+<tr id="L394"><td><a href="#L394">394</a></td><td>ANNOTATION: Odo turns round but cannot see Quark.</td></tr>
 
-  TORAN
-     My voice is less tarnished than yours.
+<tr id="L395"><td><a href="#L395">395</a></td><td>QUARK:  Look at me. I'm on my knees. I'm begging you. I don't care why you do it. Pick any reason you want. But please, let Natima and the others go.</td></tr>
 
-  GARAK
-     Kill them and all you'll do is create martyrs.
+<tr id="L396"><td><a href="#L396">396</a></td><td>ODO:  All right. I'll do it.</td></tr>
 
-  TORAN
-     You overestimate their importance.
+<tr id="L397"><td><a href="#L397">397</a></td><td>QUARK:  You will?</td></tr>
 
-  GARAK
-     And how do you propose to arrange this unfortunate
-     incident?
+<tr id="L398"><td><a href="#L398">398</a></td><td>ODO:  But not for you. Turning Hogue and Rekelen over to the Cardassians would mean their deaths. I've read their files and nothing they've done warrants that kind of punishment. I'll free them, Quark, but only in the name of justice.</td></tr>
 
-  TORAN
-     I'm sure you'll think of something. You always did
-     in the past. Don't you see? Lang's death will
-     benefit us both. Unless of course, you intend to
-     spend the rest of your life as a tailor.
+<tr id="L399"><td><a href="#L399">399</a></td><td>QUARK:  Justice. That was going to be my next suggestion. (He gets up) So, you're not really doing this for me?</td></tr>
 
-  GARAK
-     I see your point.
+<tr id="L400"><td><a href="#L400">400</a></td><td>ODO:  That's right.</td></tr>
 
-  TORAN
-     I knew you would.
+<tr id="L401"><td><a href="#L401">401</a></td><td>QUARK:  Then I don't owe you a thing. Thank you.</td></tr>
 
+<tr id="L402"><td><a href="#L402">402</a></td><td>ANNOTATION: Quark hugs Odo</td></tr>
 
-LOCATION--Security office
+<tr id="L403"><td><a href="#L403">403</a></td><td>QUARK:  You'll never know how much this means to me.</td></tr>
 
-  ANNOTATION
-     Odo is reading a PADD
+<tr id="L404"><td><a href="#L404">404</a></td><td>ODO:  Let go.</td></tr>
 
-  QUARK
-     Odo, we have to talk.
+<tr id="L405"><td><a href="#L405">405</a></td><td>QUARK:  Sorry. Now let's hurry before you change your mind.</td></tr>
 
-  ODO
-     I'm busy. Come back later.
+<tr id="L406"><td><a href="#L406">406</a></td><td>ODO:  One question. How do you expect Rekelen and Hogue to get past that warship? I knew you had a cloaking device.</td></tr>
 
-  QUARK
-     Later will be too late. (sees what Odo is reading)
-     I, the Jury by Mickey Spillane?
+<tr id="L407"><td><a href="#L407">407</a></td><td>QUARK:  I always said you were too smart for me, Odo.</td></tr>
 
-  ODO
-     Chief O'Brien loaned it to me. This better be
-     important, Quark.
+<tr><td></td><td>LOCATION--Holding cell</td></tr>
+<tr id="L408"><td><a href="#L408">408</a></td><td>NATIMA:  Quark, what are you doing here?</td></tr>
 
-  QUARK
-     It is. Odo, you have to let Natima and her
-     students go.
+<tr id="L409"><td><a href="#L409">409</a></td><td>QUARK:  Getting you out.</td></tr>
 
-  ODO
-     Do I?
+<tr id="L410"><td><a href="#L410">410</a></td><td>NATIMA:  Thank you.</td></tr>
 
-  QUARK
-     Those students could be the key to a new
-     Cardassia. A Cardassia free of military rule and
-     oppression.
+<tr id="L411"><td><a href="#L411">411</a></td><td>ODO:  Good luck.</td></tr>
 
-  ODO
-     Since when have you become so interested in
-     Cardassian politics?
+<tr><td></td><td>LOCATION--Cargo bay</td></tr>
+<tr id="L412"><td><a href="#L412">412</a></td><td>QUARK:  I've installed the cloaking device in the central engine core. You can activate it from the bridge as soon as the mooring clamps are released. Then I suggest you take your ship to warp eight and don't look back. Now please, make your goodbyes brief.</td></tr>
 
-  QUARK
-     A freer more open society on Cardassia would
-     benefit this entire sector. And it'd be great for
-     business.
+<tr id="L413"><td><a href="#L413">413</a></td><td>ANNOTATION: Quark opens the airlock and Garak is inside with a weapon.</td></tr>
 
-  ODO
-     So, wanting me to free Natima and those students
-     is strictly a financial consideration on your
-     part?
+<tr id="L414"><td><a href="#L414">414</a></td><td>GARAK:  But what's the rush?</td></tr>
 
-  QUARK
-     Now, Odo. Don't allow my greed to keep you from
-     doing the right thing.
+<tr id="L415"><td><a href="#L415">415</a></td><td>REKELEN:  You've betrayed us.</td></tr>
 
-  ODO
-     I know you better than you think, Quark. This
-     isn't about Cardassia, and for once it's not even
-     about profit. This is about Professor Lang.
+<tr id="L416"><td><a href="#L416">416</a></td><td>QUARK:  No.</td></tr>
 
-  QUARK
-     You're right. It is. Her life is in jeopardy as
-     long as Rekelen and Hogue are on the station.
+<tr id="L417"><td><a href="#L417">417</a></td><td>GARAK:  Don't. I'd hate to ruin such a nice suit.</td></tr>
 
-  ODO
-     Why didn't you tell me that before?
+<tr id="L418"><td><a href="#L418">418</a></td><td>QUARK:  Why are you doing this?</td></tr>
 
-  QUARK
-     What was I supposed to say? That I love her? That
-     I would do anything for her? That without her, my
-     life would be meaningless? Sure, I could say those
-     things, but what good would it do? How could I
-     expect you to understand? You've never had those
-     feelings. You don't know what it means to really
-     care about another person. You've never been in
-     love. You've got all the emotions of a stone. No
-     offence.
+<tr id="L419"><td><a href="#L419">419</a></td><td>GARAK:  Exile tends to wear a bit thin after a while, even with surroundings as pleasant as these.</td></tr>
 
-  ODO
-     Go on.
+<tr id="L420"><td><a href="#L420">420</a></td><td>QUARK:  Fine. Take them, but leave Natima alone.</td></tr>
 
-  QUARK
-     Listen to me, Odo. You do this for me, and I
-     promise you there'll be no more secrets between
-     us. I will tell you about every underhanded deal,
-     every lying scheme, every dirty trick my brother
-     Rom's involved in.
+<tr id="L421"><td><a href="#L421">421</a></td><td>NATIMA:  Quark.</td></tr>
 
-  ODO
-     Well, since you put it that way, I'm not
-     interested.
+<tr id="L422"><td><a href="#L422">422</a></td><td>HOGUE:  No, he's right. We're the fugitives, not you.</td></tr>
 
-  QUARK
-     Okay, okay, let me put it another way. Do it for
-     me.
+<tr id="L423"><td><a href="#L423">423</a></td><td>QUARK:  You see, they agree with me.</td></tr>
 
-  ODO
-     For you?
+<tr id="L424"><td><a href="#L424">424</a></td><td>GARAK:  Unfortunately, it's not their decision to make, nor mine. Professor Lang, however minor her role in this matter, has come to the attention of the Central Command.</td></tr>
 
-  QUARK
-     That's right. For all the years we've known each
-     other. For everything we've been through together.
-     You say you know me better than anyone else? Well,
-     I know you. Sure, sometimes we're on opposite
-     sides, but that doesn't mean that we aren't close.
-     I never told you this, Odo, but I consider you as
-     dear to me as my brother.
+<tr id="L425"><td><a href="#L425">425</a></td><td>NATIMA:  Do you think killing us will change anything? Cardassia is slipping out of the hands of the military, and nothing you do will prevent it.</td></tr>
 
-  ODO
-     And I've seen how well you treat him.
+<tr id="L426"><td><a href="#L426">426</a></td><td>GARAK:  Madam, I am not here to debate you.</td></tr>
 
-  QUARK
-     Odo, look at me.
+<tr id="L427"><td><a href="#L427">427</a></td><td>QUARK:  Garak, if you harm these people, I'll see to it that Commander Sisko prosecutes you to the fullest extent of the law.</td></tr>
 
-  ANNOTATION
-     Odo turns round but cannot see Quark.
+<tr id="L428"><td><a href="#L428">428</a></td><td>GARAK:  Which brings up another issue. Quark, things would've gone much easier if you'd taken my advice and not gotten involved with these people.</td></tr>
 
-  QUARK
-     Look at me. I'm on my knees. I'm begging you. I
-     don't care why you do it. Pick any reason you
-     want. But please, let Natima and the others go.
+<tr id="L429"><td><a href="#L429">429</a></td><td>QUARK:  I was already involved.</td></tr>
 
-  ODO
-     All right. I'll do it.
+<tr id="L430"><td><a href="#L430">430</a></td><td>GARAK:  I know. A pity, really. Personally, I rather like you, Quark.</td></tr>
 
-  QUARK
-     You will?
+<tr id="L431"><td><a href="#L431">431</a></td><td>QUARK:  You mean you're going to shoot me too?</td></tr>
 
-  ODO
-     But not for you. Turning Hogue and Rekelen over to
-     the Cardassians would mean their deaths. I've read
-     their files and nothing they've done warrants that
-     kind of punishment. I'll free them, Quark, but
-     only in the name of justice.
+<tr id="L432"><td><a href="#L432">432</a></td><td>GARAK:  Before I became a tailor, I lived by a simple motto. Never let sentiment get in the way of your work. A bit of a clich, but true, nonetheless.</td></tr>
 
-  QUARK
-     Justice. That was going to be my next suggestion.
-     (He gets up) So, you're not really doing this for
-     me?
+<tr id="L433"><td><a href="#L433">433</a></td><td>QUARK:  I'll keep that in mind.</td></tr>
 
-  ODO
-     That's right.
+<tr id="L434"><td><a href="#L434">434</a></td><td>GARAK:  Well then, although I admit it's against my better judgement, I'm afraid I must carry out the verdict of the Central Command.</td></tr>
 
-  QUARK
-     Then I don't owe you a thing. Thank you.
+<tr id="L435"><td><a href="#L435">435</a></td><td>QUARK:  But you admit that they're wrong. Why don't you stand up for what you believe in?</td></tr>
 
-  ANNOTATION
-     Quark hugs Odo
+<tr id="L436"><td><a href="#L436">436</a></td><td>TORAN:  More to the point, what do you believe in, Garak?</td></tr>
 
-  QUARK
-     You'll never know how much this means to me.
+<tr id="L437"><td><a href="#L437">437</a></td><td>GARAK:  What are you doing here, Toran?</td></tr>
 
-  ODO
-     Let go.
+<tr id="L438"><td><a href="#L438">438</a></td><td>TORAN:  Making sure that you carry out your assignment. I suspected that two years living among the Bajorans would make you soft. I see I was right.</td></tr>
 
-  QUARK
-     Sorry. Now let's hurry before you change your
-     mind.
+<tr id="L439"><td><a href="#L439">439</a></td><td>GARAK:  You've never been right about anything. Now step aside, Toran, and allow me to finish this sorry business.</td></tr>
 
-  ODO
-     One question. How do you expect Rekelen and Hogue
-     to get past that warship? I knew you had a
-     cloaking device.
+<tr id="L440"><td><a href="#L440">440</a></td><td>TORAN:  I will take over from here.</td></tr>
 
-  QUARK
-     I always said you were too smart for me, Odo.
+<tr id="L441"><td><a href="#L441">441</a></td><td>ANNOTATION: Toran takes Garak's weapon.</td></tr>
 
+<tr id="L442"><td><a href="#L442">442</a></td><td>GARAK:  Why? So you can take the credit and make sure I remain in disgrace.</td></tr>
 
-LOCATION--Holding cell
+<tr id="L443"><td><a href="#L443">443</a></td><td>TORAN:  I can't believe that you were once considered clever. Do you think that completing this one simple task your reputation will be restored at Central Command?</td></tr>
 
-  NATIMA
-     Quark, what are you doing here?
+<tr id="L444"><td><a href="#L444">444</a></td><td>GARAK:  No, I suppose not.</td></tr>
 
-  QUARK
-     Getting you out.
+<tr id="L445"><td><a href="#L445">445</a></td><td>TORAN:  Go back to your sewing kit, tailor.</td></tr>
 
-  NATIMA
-     Thank you.
+<tr id="L446"><td><a href="#L446">446</a></td><td>ANNOTATION: As Toran points the weapon at Rekelen's nose, there's a flash. Garak has vapourised Toran.</td></tr>
 
-  ODO
-     Good luck.
+<tr id="L447"><td><a href="#L447">447</a></td><td>GARAK:  Well, some people should never be promoted. Well, don't just stand there. Your ship is waiting.</td></tr>
 
+<tr id="L448"><td><a href="#L448">448</a></td><td>QUARK:  I'm going to see to it that every Ferengi on the station shops at your store.</td></tr>
 
-LOCATION--Cargo bay
+<tr id="L449"><td><a href="#L449">449</a></td><td>GARAK:  Ah. That alone makes it all worthwhile.</td></tr>
 
-  QUARK
-     I've installed the cloaking device in the central
-     engine core. You can activate it from the bridge
-     as soon as the mooring clamps are released. Then I
-     suggest you take your ship to warp eight and don't
-     look back. Now please, make your goodbyes brief.
+<tr id="L450"><td><a href="#L450">450</a></td><td>QUARK:  You heard the man. Get moving.</td></tr>
 
-  ANNOTATION
-     Quark opens the airlock and Garak is inside with a
-     weapon.
+<tr id="L451"><td><a href="#L451">451</a></td><td>HOGUE:  Thank you. Both of you.</td></tr>
 
-  GARAK
-     But what's the rush?
+<tr id="L452"><td><a href="#L452">452</a></td><td>ANNOTATION: Hogue and Rekelen enter the airlock</td></tr>
 
-  REKELEN
-     You've betrayed us.
+<tr id="L453"><td><a href="#L453">453</a></td><td>QUARK:  Yes, yes, yes, go, quickly. Keep up the good work.</td></tr>
 
-  QUARK
-     No.
+<tr id="L454"><td><a href="#L454">454</a></td><td>ANNOTATION: Natima kisses Quark</td></tr>
 
-  GARAK
-     Don't. I'd hate to ruin such a nice suit.
+<tr id="L455"><td><a href="#L455">455</a></td><td>NATIMA:  Quark, I've got to say goodbye.</td></tr>
 
-  QUARK
-     Why are you doing this?
+<tr id="L456"><td><a href="#L456">456</a></td><td>QUARK:  Just let them go. It'll be less painful that way.</td></tr>
 
-  GARAK
-     Exile tends to wear a bit thin after a while, even
-     with surroundings as pleasant as these.
+<tr id="L457"><td><a href="#L457">457</a></td><td>NATIMA:  No, you don't understand. I have to say goodbye to you. I'm going with them.</td></tr>
 
-  QUARK
-     Fine. Take them, but leave Natima alone.
+<tr id="L458"><td><a href="#L458">458</a></td><td>QUARK:  But we had a deal.</td></tr>
 
-  NATIMA
-     Quark.
+<tr id="L459"><td><a href="#L459">459</a></td><td>NATIMA:  I can't stay here. Maybe one day I can come back and we'll be together again, but not until my work is done.</td></tr>
 
-  HOGUE
-     No, he's right. We're the fugitives, not you.
+<tr id="L460"><td><a href="#L460">460</a></td><td>QUARK:  So all I have to do to get you back is wait until Cardassia becomes a free and democratic society?</td></tr>
 
-  QUARK
-     You see, they agree with me.
+<tr id="L461"><td><a href="#L461">461</a></td><td>NATIMA:  I promise, I'll make it worth the wait.</td></tr>
 
-  GARAK
-     Unfortunately, it's not their decision to make,
-     nor mine. Professor Lang, however minor her role
-     in this matter, has come to the attention of the
-     Central Command.
+<tr id="L462"><td><a href="#L462">462</a></td><td>QUARK:  I don't suppose I could come with you.</td></tr>
 
-  NATIMA
-     Do you think killing us will change anything?
-     Cardassia is slipping out of the hands of the
-     military, and nothing you do will prevent it.
+<tr id="L463"><td><a href="#L463">463</a></td><td>NATIMA:  No. It's not your fight. Besides, I could never live with myself if something happened to you. I need to know that you're here, safe. That way a part of me will always be safe too. I love you, Quark. I always will.</td></tr>
 
-  GARAK
-     Madam, I am not here to debate you.
+<tr id="L464"><td><a href="#L464">464</a></td><td>ANNOTATION: Natima enters the airlock</td></tr>
 
-  QUARK
-     Garak, if you harm these people, I'll see to it
-     that Commander Sisko prosecutes you to the fullest
-     extent of the law.
+<tr id="L465"><td><a href="#L465">465</a></td><td>QUARK:  I love you, too.</td></tr>
 
-  GARAK
-     Which brings up another issue. Quark, things
-     would've gone much easier if you'd taken my advice
-     and not gotten involved with these people.
+<tr id="L466"><td><a href="#L466">466</a></td><td>GARAK:  I suggest we return to the Promenade without delay.</td></tr>
 
-  QUARK
-     I was already involved.
+<tr id="L467"><td><a href="#L467">467</a></td><td>QUARK:  You have to tell me, why'd you do it? Shoot Toran?</td></tr>
 
-  GARAK
-     I know. A pity, really. Personally, I rather like
-     you, Quark.
+<tr id="L468"><td><a href="#L468">468</a></td><td>GARAK:  Why did you let Professor Lang go?</td></tr>
 
-  QUARK
-     You mean you're going to shoot me too?
+<tr id="L469"><td><a href="#L469">469</a></td><td>QUARK:  I had no choice. I love her.</td></tr>
 
-  GARAK
-     Before I became a tailor, I lived by a simple
-     motto. Never let sentiment get in the way of your
-     work. A bit of a clich, but true, nonetheless.
+<tr id="L470"><td><a href="#L470">470</a></td><td>GARAK:  And I love Cardassia. Which is why I had to do what I did.</td></tr>
 
-  QUARK
-     I'll keep that in mind.
+<tr id="L471"><td><a href="#L471">471</a></td><td>QUARK:  I don't understand.</td></tr>
 
-  GARAK
-     Well then, although I admit it's against my better
-     judgement, I'm afraid I must carry out the verdict
-     of the Central Command.
+<tr id="L472"><td><a href="#L472">472</a></td><td>GARAK:  That's the thing about love. No one really understands it, do they?</td></tr>
 
-  QUARK
-     But you admit that they're wrong. Why don't you
-     stand up for what you believe in?
-
-  TORAN
-     More to the point, what do you believe in, Garak?
-
-  GARAK
-     What are you doing here, Toran?
-
-  TORAN
-     Making sure that you carry out your assignment. I
-     suspected that two years living among the Bajorans
-     would make you soft. I see I was right.
-
-  GARAK
-     You've never been right about anything. Now step
-     aside, Toran, and allow me to finish this sorry
-     business.
-
-  TORAN
-     I will take over from here.
-
-  ANNOTATION
-     Toran takes Garak's weapon.
-
-  GARAK
-     Why? So you can take the credit and make sure I
-     remain in disgrace.
-
-  TORAN
-     I can't believe that you were once considered
-     clever. Do you think that completing this one
-     simple task your reputation will be restored at
-     Central Command?
-
-  GARAK
-     No, I suppose not.
-
-  TORAN
-     Go back to your sewing kit, tailor.
-
-  ANNOTATION
-     As Toran points the weapon at Rekelen's nose,
-     there's a flash. Garak has vapourised Toran.
-
-  GARAK
-     Well, some people should never be promoted. Well,
-     don't just stand there. Your ship is waiting.
-
-  QUARK
-     I'm going to see to it that every Ferengi on the
-     station shops at your store.
-
-  GARAK
-     Ah. That alone makes it all worthwhile.
-
-  QUARK
-     You heard the man. Get moving.
-
-  HOGUE
-     Thank you. Both of you.
-
-  ANNOTATION
-     Hogue and Rekelen enter the airlock
-
-  QUARK
-     Yes, yes, yes, go, quickly. Keep up the good work.
-
-  ANNOTATION
-     Natima kisses Quark
-
-  NATIMA
-     Quark, I've got to say goodbye.
-
-  QUARK
-     Just let them go. It'll be less painful that way.
-
-  NATIMA
-     No, you don't understand. I have to say goodbye to
-     you. I'm going with them.
-
-  QUARK
-     But we had a deal.
-
-  NATIMA
-     I can't stay here. Maybe one day I can come back
-     and we'll be together again, but not until my work
-     is done.
-
-  QUARK
-     So all I have to do to get you back is wait until
-     Cardassia becomes a free and democratic society?
-
-  NATIMA
-     I promise, I'll make it worth the wait.
-
-  QUARK
-     I don't suppose I could come with you.
-
-  NATIMA
-     No. It's not your fight. Besides, I could never
-     live with myself if something happened to you. I
-     need to know that you're here, safe. That way a
-     part of me will always be safe too. I love you,
-     Quark. I always will.
-
-  ANNOTATION
-     Natima enters the airlock
-
-  QUARK
-     I love you, too.
-
-  GARAK
-     I suggest we return to the Promenade without
-     delay.
-
-  QUARK
-     You have to tell me, why'd you do it? Shoot Toran?
-
-  GARAK
-     Why did you let Professor Lang go?
-
-  QUARK
-     I had no choice. I love her.
-
-  GARAK
-     And I love Cardassia. Which is why I had to do
-     what I did.
-
-  QUARK
-     I don't understand.
-
-  GARAK
-     That's the thing about love. No one really
-     understands it, do they?
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

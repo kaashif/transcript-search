@@ -1,1814 +1,934 @@
-One Little Ship
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>One Little Ship</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>KIRA:  So, how small are they?</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>NOG:  The miniaturisation process won't begin until the runabout reaches the edge of the accretion disc.</td></tr>
 
-  KIRA
-     So, how small are they?
+<tr id="L3"><td><a href="#L3">3</a></td><td>KIRA:  I see. And then they'll begin to shrink?</td></tr>
 
-  NOG
-     The miniaturisation process won't begin until the
-     runabout reaches the edge of the accretion disc.
+<tr id="L4"><td><a href="#L4">4</a></td><td>NOG:  Yes, sir.</td></tr>
 
-  KIRA
-     I see. And then they'll begin to shrink?
+<tr id="L5"><td><a href="#L5">5</a></td><td>SISKO:  Major, are you laughing at our investigation of this subspace anomaly?</td></tr>
 
-  NOG
-     Yes, sir.
+<tr id="L6"><td><a href="#L6">6</a></td><td>KIRA:  No, sir.</td></tr>
 
-  SISKO
-     Major, are you laughing at our investigation of
-     this subspace anomaly?
+<tr id="L7"><td><a href="#L7">7</a></td><td>WORF:  The data collected here could provide Starfleet with the key to creating transwarp corridors through space. It could give us a substantial tactical advantage over the Dominion.</td></tr>
 
-  KIRA
-     No, sir.
+<tr id="L8"><td><a href="#L8">8</a></td><td>KIRA:  It's very important research. What? I'm not laughing. Just because we are shrinking three people to the size of coffee cups.</td></tr>
 
-  WORF
-     The data collected here could provide Starfleet
-     with the key to creating transwarp corridors
-     through space. It could give us a substantial
-     tactical advantage over the Dominion.
+<tr id="L9"><td><a href="#L9">9</a></td><td>ANNOTATION: And collapses in hysterical laughter.</td></tr>
 
-  KIRA
-     It's very important research. What? I'm not
-     laughing. Just because we are shrinking three
-     people to the size of coffee cups.
+<tr id="L10"><td><a href="#L10">10</a></td><td>NOG:  Smaller, actually.</td></tr>
 
-  ANNOTATION
-     And collapses in hysterical laughter.
+<tr id="L11"><td><a href="#L11">11</a></td><td>WORF:  I do not see what is so humourous about being small.</td></tr>
 
-  NOG
-     Smaller, actually.
+<tr id="L12"><td><a href="#L12">12</a></td><td>NOG:  Neither do I.</td></tr>
 
-  WORF
-     I do not see what is so humourous about being
-     small.
+<tr id="L13"><td><a href="#L13">13</a></td><td>ANNOTATION: Comm. beep.</td></tr>
 
-  NOG
-     Neither do I.
+<tr id="L14"><td><a href="#L14">14</a></td><td>SISKO:  On screen.</td></tr>
 
-  ANNOTATION
-     Comm. beep.
+<tr id="L15"><td><a href="#L15">15</a></td><td>NOG:  Their visual signal's degrading, Captain. We have audio only.</td></tr>
 
-  SISKO
-     On screen.
+<tr id="L16"><td><a href="#L16">16</a></td><td>SISKO:  Go ahead, Rubicon.</td></tr>
 
-  NOG
-     Their visual signal's degrading, Captain. We have
-     audio only.
+<tr id="L17"><td><a href="#L17">17</a></td><td>DAX [OC]:  We're about to enter the accretion disc.</td></tr>
 
-  SISKO
-     Go ahead, Rubicon.
+<tr id="L18"><td><a href="#L18">18</a></td><td>SISKO:  I wish were with you, old man.</td></tr>
 
-  DAX [OC]
-     We're about to enter the accretion disc.
+<tr id="L19"><td><a href="#L19">19</a></td><td>DAX [OC]:  (static starting to break in) I'll send you a postcard. Tell Worf I look forward to hearing his poem. I'll bet it'll be inspiring. We'll talk to you again once we've left the accretion disc and reversed the effects of the compression. Rubicon out.</td></tr>
 
-  SISKO
-     I wish were with you, old man.
+<tr id="L20"><td><a href="#L20">20</a></td><td>SISKO:  Good luck, Rubicon.</td></tr>
 
-  DAX [OC]
-     (static starting to break in) I'll send you a
-     postcard. Tell Worf I look forward to hearing his
-     poem. I'll bet it'll be inspiring. We'll talk to
-     you again once we've left the accretion disc and
-     reversed the effects of the compression. Rubicon
-     out.
+<tr id="L21"><td><a href="#L21">21</a></td><td>NOG:  We've lost their signal, Captain.</td></tr>
 
-  SISKO
-     Good luck, Rubicon.
+<tr id="L22"><td><a href="#L22">22</a></td><td>SISKO:  Thank you, Ensign. Mister Worf. Poem?</td></tr>
 
-  NOG
-     We've lost their signal, Captain.
+<tr id="L23"><td><a href="#L23">23</a></td><td>WORF:  It is an ancient Klingon tradition to commemorate an important event with a poem. Jadzia asked me to compose one for this occasion.</td></tr>
 
-  SISKO
-     Thank you, Ensign. Mister Worf. Poem?
+<tr id="L24"><td><a href="#L24">24</a></td><td>SISKO:  Well, what have you got so far?</td></tr>
 
-  WORF
-     It is an ancient Klingon tradition to commemorate
-     an important event with a poem. Jadzia asked me to
-     compose one for this occasion.
+<tr id="L25"><td><a href="#L25">25</a></td><td>NOG:  They've penetrated the accretion disc.</td></tr>
 
-  SISKO
-     Well, what have you got so far?
+<tr id="L26"><td><a href="#L26">26</a></td><td>KIRA:  Now is it my imagination, or did the kid just cover for him?</td></tr>
 
-  NOG
-     They've penetrated the accretion disc.
+<tr id="L27"><td><a href="#L27">27</a></td><td>SISKO:  This could be the beginning of a beautiful friendship.</td></tr>
 
-  KIRA
-     Now is it my imagination, or did the kid just
-     cover for him?
+<tr id="L28"><td><a href="#L28">28</a></td><td>WORF:  They are getting smaller.</td></tr>
 
-  SISKO
-     This could be the beginning of a beautiful
-     friendship.
+<tr id="L29"><td><a href="#L29">29</a></td><td>NOG:  Even the space within their subatomic structure is shrinking.</td></tr>
 
-  WORF
-     They are getting smaller.
+<tr id="L30"><td><a href="#L30">30</a></td><td>KIRA:  I wonder what it feels like.</td></tr>
 
-  NOG
-     Even the space within their subatomic structure is
-     shrinking.
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L31"><td><a href="#L31">31</a></td><td>O'BRIEN:  I don't feel any smaller.</td></tr>
 
-  KIRA
-     I wonder what it feels like.
+<tr id="L32"><td><a href="#L32">32</a></td><td>BASHIR:  Well, believe it or not, you're about a metre tall and shrinking fast. In a few minutes, you're going to be half the size of a comm. badge.</td></tr>
 
+<tr id="L33"><td><a href="#L33">33</a></td><td>O'BRIEN:  There's a comforting thought.</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr id="L34"><td><a href="#L34">34</a></td><td>BASHIR:  The gamma ray flux is increasing. We should close the blast shutters.</td></tr>
 
-  O'BRIEN
-     I don't feel any smaller.
+<tr id="L35"><td><a href="#L35">35</a></td><td>DAX:  Take a last look. We're on sensors from here on.</td></tr>
 
-  BASHIR
-     Well, believe it or not, you're about a metre tall
-     and shrinking fast. In a few minutes, you're going
-     to be half the size of a comm. badge.
+<tr id="L36"><td><a href="#L36">36</a></td><td>O'BRIEN:  Now you're certain we'll return to normal size once we clear the anomaly?</td></tr>
 
-  O'BRIEN
-     There's a comforting thought.
+<tr id="L37"><td><a href="#L37">37</a></td><td>DAX:  Our probes did. You saw the data. Something wrong?</td></tr>
 
-  BASHIR
-     The gamma ray flux is increasing. We should close
-     the blast shutters.
+<tr id="L38"><td><a href="#L38">38</a></td><td>O'BRIEN:  No, I'm fine. I'm just not in love with the idea of being small. What are you smirking at? You're as small as I am.</td></tr>
 
-  DAX
-     Take a last look. We're on sensors from here on.
+<tr id="L39"><td><a href="#L39">39</a></td><td>BASHIR:  Actually, you're sitting one point one four metres closer to the focal point of the anomaly, which means you've shrunk point zero four percent more than I have.</td></tr>
 
-  O'BRIEN
-     Now you're certain we'll return to normal size
-     once we clear the anomaly?
+<tr id="L40"><td><a href="#L40">40</a></td><td>ANNOTATION: Weird noise and shudder.</td></tr>
 
-  DAX
-     Our probes did. You saw the data. Something wrong?
+<tr id="L41"><td><a href="#L41">41</a></td><td>DAX:  What was that?</td></tr>
 
-  O'BRIEN
-     No, I'm fine. I'm just not in love with the idea
-     of being small. What are you smirking at? You're
-     as small as I am.
+<tr id="L42"><td><a href="#L42">42</a></td><td>O'BRIEN:  The tractor beam's fluctuating. Something's wrong.</td></tr>
 
-  BASHIR
-     Actually, you're sitting one point one four metres
-     closer to the focal point of the anomaly, which
-     means you've shrunk point zero four percent more
-     than I have.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L43"><td><a href="#L43">43</a></td><td>ANNOTATION: Defiant is under sustained attack. An extra's console blows up.</td></tr>
 
-  ANNOTATION
-     Weird noise and shudder.
+<tr id="L44"><td><a href="#L44">44</a></td><td>WORF:  The Jem'Hadar are coming around for another pass.</td></tr>
 
-  DAX
-     What was that?
+<tr id="L45"><td><a href="#L45">45</a></td><td>KIRA:  Radiation from the vortex must have masked their warp signature.</td></tr>
 
-  O'BRIEN
-     The tractor beam's fluctuating. Something's wrong.
+<tr id="L46"><td><a href="#L46">46</a></td><td>SISKO:  Return fire, Mister Worf. Ensign, pull the Rubicon out of there.</td></tr>
 
+<tr id="L47"><td><a href="#L47">47</a></td><td>ANNOTATION: Boom!</td></tr>
 
-LOCATION--Bridge
+<tr id="L48"><td><a href="#L48">48</a></td><td>WORF:  Phasers are offline.</td></tr>
 
-  ANNOTATION
-     Defiant is under sustained attack. An extra's
-     console blows up.
+<tr id="L49"><td><a href="#L49">49</a></td><td>ANNOTATION: Boom!</td></tr>
 
-  WORF
-     The Jem'Hadar are coming around for another pass.
+<tr id="L50"><td><a href="#L50">50</a></td><td>KIRA:  We're a sitting duck as long as we're tethered to the runabout.</td></tr>
 
-  KIRA
-     Radiation from the vortex must have masked their
-     warp signature.
+<tr id="L51"><td><a href="#L51">51</a></td><td>SISKO:  I'm not going to leave them in there if I can help it. Mister Worf, go down to auxiliary control and target the phasers manually.</td></tr>
 
-  SISKO
-     Return fire, Mister Worf. Ensign, pull the Rubicon
-     out of there.
+<tr id="L52"><td><a href="#L52">52</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  ANNOTATION
-     Boom!
+<tr id="L53"><td><a href="#L53">53</a></td><td>NOG:  I'm losing the Rubicon, sir!</td></tr>
 
-  WORF
-     Phasers are offline.
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L54"><td><a href="#L54">54</a></td><td>ANNOTATION: The tractor beam switches off and the runabout catapults forward into the purple haze. Bang!</td></tr>
 
-  ANNOTATION
-     Boom!
+<tr id="L55"><td><a href="#L55">55</a></td><td>DAX:  If we're going to get out of here, I need warp power now!</td></tr>
 
-  KIRA
-     We're a sitting duck as long as we're tethered to
-     the runabout.
+<tr id="L56"><td><a href="#L56">56</a></td><td>ANNOTATION: Bang!</td></tr>
 
-  SISKO
-     I'm not going to leave them in there if I can help
-     it. Mister Worf, go down to auxiliary control and
-     target the phasers manually.
+<tr id="L57"><td><a href="#L57">57</a></td><td>O'BRIEN:  I'm on it.</td></tr>
 
-  WORF
-     Aye, sir.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L58"><td><a href="#L58">58</a></td><td>ANNOTATION: Bang! One helmsman out cold. Kira takes over.</td></tr>
 
-  NOG
-     I'm losing the Rubicon, sir!
+<tr id="L59"><td><a href="#L59">59</a></td><td>SISKO:  Report.</td></tr>
 
+<tr id="L60"><td><a href="#L60">60</a></td><td>KIRA:  Shield generators and impulse engines are offline, sir. Warp engines, too.</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr id="L61"><td><a href="#L61">61</a></td><td>ANNOTATION: Bang and Kira's knocked out. A squad of Jem'Hadar beam in.</td></tr>
 
-  ANNOTATION
-     The tractor beam switches off and the runabout
-     catapults forward into the purple haze. Bang!
+<tr id="L62"><td><a href="#L62">62</a></td><td>IXTANA'RAX:  Surrender or you will all be killed.</td></tr>
 
-  DAX
-     If we're going to get out of here, I need warp
-     power now!
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L63"><td><a href="#L63">63</a></td><td>ANNOTATION: The power is off.</td></tr>
 
-  ANNOTATION
-     Bang!
+<tr id="L64"><td><a href="#L64">64</a></td><td>DAX:  Chief, you okay?</td></tr>
 
-  O'BRIEN
-     I'm on it.
+<tr id="L65"><td><a href="#L65">65</a></td><td>O'BRIEN:  I think so.</td></tr>
 
+<tr id="L66"><td><a href="#L66">66</a></td><td>DAX:  Julian?</td></tr>
 
-LOCATION--Bridge
+<tr id="L67"><td><a href="#L67">67</a></td><td>BASHIR:  I'm fine, but you're not.</td></tr>
 
-  ANNOTATION
-     Bang! One helmsman out cold. Kira takes over.
+<tr id="L68"><td><a href="#L68">68</a></td><td>ANNOTATION: O'Brien thumps the power back on</td></tr>
 
-  SISKO
-     Report.
+<tr id="L69"><td><a href="#L69">69</a></td><td>DAX:  Oh, that's better.</td></tr>
 
-  KIRA
-     Shield generators and impulse engines are offline,
-     sir. Warp engines, too.
+<tr id="L70"><td><a href="#L70">70</a></td><td>O'BRIEN:  That was the easy part.</td></tr>
 
-  ANNOTATION
-     Bang and Kira's knocked out. A squad of Jem'Hadar
-     beam in.
+<tr id="L71"><td><a href="#L71">71</a></td><td>DAX:  Well, the good news is we're alive, so we must have escaped the anomaly.</td></tr>
 
-  IXTANA'RAX
-     Surrender or you will all be killed.
+<tr id="L72"><td><a href="#L72">72</a></td><td>O'BRIEN:  The bad news is the external sensors and the comm. system are down. I can patch around most of the damage, but it'll take time.</td></tr>
 
+<tr id="L73"><td><a href="#L73">73</a></td><td>DAX:  Better add the blast shutters to your list. I can't get them open.</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr id="L74"><td><a href="#L74">74</a></td><td>ANNOTATION: Bashir finishes treating Dax's head injury.</td></tr>
 
-  ANNOTATION
-     The power is off.
+<tr id="L75"><td><a href="#L75">75</a></td><td>BASHIR:  There you go. Good as new.</td></tr>
 
-  DAX
-     Chief, you okay?
+<tr id="L76"><td><a href="#L76">76</a></td><td>DAX:  I don't suppose that thing'll work on our communications system?</td></tr>
 
-  O'BRIEN
-     I think so.
+<tr id="L77"><td><a href="#L77">77</a></td><td>O'BRIEN:  I'm picking up the Defiant's transponder signal. We can home in on that.</td></tr>
 
-  DAX
-     Julian?
+<tr id="L78"><td><a href="#L78">78</a></td><td>DAX:  Going to one quarter impulse. Chief, either open these shutters or give me external sensors, whichever's quicker. I need to see where we're going.</td></tr>
 
-  BASHIR
-     I'm fine, but you're not.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L79"><td><a href="#L79">79</a></td><td>ANNOTATION: Enter the Jem'Hadar First, who has bronze overtones compared to the grey of the other one.</td></tr>
 
-  ANNOTATION
-     O'Brien thumps the power back on
+<tr id="L80"><td><a href="#L80">80</a></td><td>IXTANA'RAX:  The bridge is secure.</td></tr>
 
-  DAX
-     Oh, that's better.
+<tr id="L81"><td><a href="#L81">81</a></td><td>KUDAK'ETAN:  Tactical report.</td></tr>
 
-  O'BRIEN
-     That was the easy part.
+<tr id="L82"><td><a href="#L82">82</a></td><td>IXTANA'RAX:  The bridge officers are confined in the mess hall, other survivors in the cargo bay. We will have impulse power back online in thirty minutes, but it will take several hours to restore warp capability.</td></tr>
 
-  DAX
-     Well, the good news is we're alive, so we must
-     have escaped the anomaly.
+<tr id="L83"><td><a href="#L83">83</a></td><td>KUDAK'ETAN:  It must be gratifying for an Elder to end his career with a victory. I feel privileged to be here with you at such a moment.</td></tr>
 
-  O'BRIEN
-     The bad news is the external sensors and the comm.
-     system are down. I can patch around most of the
-     damage, but it'll take time.
+<tr id="L84"><td><a href="#L84">84</a></td><td>IXTANA'RAX:  There is still much to do before we declare victory. Until we leave Federation space, we are vulnerable</td></tr>
 
-  DAX
-     Better add the blast shutters to your list. I
-     can't get them open.
+<tr id="L85"><td><a href="#L85">85</a></td><td>KUDAK'ETAN:  I am First. And I have declared victory.</td></tr>
 
-  ANNOTATION
-     Bashir finishes treating Dax's head injury.
+<tr id="L86"><td><a href="#L86">86</a></td><td>IXTANA'RAX:  It is, of course, your prerogative.</td></tr>
 
-  BASHIR
-     There you go. Good as new.
+<tr id="L87"><td><a href="#L87">87</a></td><td>KUDAK'ETAN:  Open a channel to the Vorta.</td></tr>
 
-  DAX
-     I don't suppose that thing'll work on our
-     communications system?
+<tr id="L88"><td><a href="#L88">88</a></td><td>JEM'HADAR:  Yes, First.</td></tr>
 
-  O'BRIEN
-     I'm picking up the Defiant's transponder signal.
-     We can home in on that.
+<tr id="L89"><td><a href="#L89">89</a></td><td>JEM'HADAR [OC]:  We have the boarding party.</td></tr>
 
-  DAX
-     Going to one quarter impulse. Chief, either open
-     these shutters or give me external sensors,
-     whichever's quicker. I need to see where we're
-     going.
+<tr id="L90"><td><a href="#L90">90</a></td><td>GELNON [on viewscreen]:  Ah, First. Your report?</td></tr>
 
+<tr id="L91"><td><a href="#L91">91</a></td><td>KUDAK'ETAN:  The Defiant is ours.</td></tr>
 
-LOCATION--Bridge
+<tr id="L92"><td><a href="#L92">92</a></td><td>GELNON [on viewscreen]:  Good. Very, very good. I must admit, I was initially quite sceptical about you and the other new Jem'Hadar bred in this quadrant, but this is a most impressive debut. Wouldn't you agree, Elder?</td></tr>
 
-  ANNOTATION
-     Enter the Jem'Hadar First, who has bronze
-     overtones compared to the grey of the other one.
+<tr id="L93"><td><a href="#L93">93</a></td><td>IXTANA'RAX:  The takeover of the ship was competently executed.</td></tr>
 
-  IXTANA'RAX
-     The bridge is secure.
+<tr id="L94"><td><a href="#L94">94</a></td><td>GELNON [on viewscreen]:  Do I detect a note of jealousy in your voice? I'm sure it must be difficult for you to watch a new race of Jem'Hadar beginning to supplant you and the other members of the old guard.</td></tr>
 
-  KUDAK'ETAN
-     Tactical report.
+<tr id="L95"><td><a href="#L95">95</a></td><td>IXTANA'RAX:  I serve the Founders. If it is their will to create a new race, then that is the order of things.</td></tr>
 
-  IXTANA'RAX
-     The bridge officers are confined in the mess hall,
-     other survivors in the cargo bay. We will have
-     impulse power back online in thirty minutes, but
-     it will take several hours to restore warp
-     capability.
+<tr id="L96"><td><a href="#L96">96</a></td><td>GELNON [on viewscreen]:  But?</td></tr>
 
-  KUDAK'ETAN
-     It must be gratifying for an Elder to end his
-     career with a victory. I feel privileged to be
-     here with you at such a moment.
+<tr id="L97"><td><a href="#L97">97</a></td><td>IXTANA'RAX:  But the Jem'Hadar bred here in the Alpha Quadrant have not proven themselves superior to those from the Gamma Quadrant. At least not yet.</td></tr>
 
-  IXTANA'RAX
-     There is still much to do before we declare
-     victory. Until we leave Federation space, we are
-     vulnerable
+<tr id="L98"><td><a href="#L98">98</a></td><td>KUDAK'ETAN:  Not yet? It was the Alphas who made this victory possible. If it were not for us, you would never</td></tr>
 
-  KUDAK'ETAN
-     I am First. And I have declared victory.
+<tr id="L99"><td><a href="#L99">99</a></td><td>GELNON [on viewscreen]:  You two can argue about this on your own time. First, how long until you restore warp power?</td></tr>
 
-  IXTANA'RAX
-     It is, of course, your prerogative.
+<tr id="L100"><td><a href="#L100">100</a></td><td>KUDAK'ETAN:  I will make a complete survey of the ship and give you a report in one hour.</td></tr>
 
-  KUDAK'ETAN
-     Open a channel to the Vorta.
+<tr id="L101"><td><a href="#L101">101</a></td><td>GELNON [on viewscreen]:  Very well. I await your report.</td></tr>
 
-  JEM'HADAR
-     Yes, First.
+<tr id="L102"><td><a href="#L102">102</a></td><td>ANNOTATION: Transmission ends</td></tr>
 
-  JEM'HADAR [OC]
-     We have the boarding party.
+<tr id="L103"><td><a href="#L103">103</a></td><td>KUDAK'ETAN:  Bring me Captain Sisko.</td></tr>
 
-  GELNON [on viewscreen]
-     Ah, First. Your report?
+<tr id="L104"><td><a href="#L104">104</a></td><td>IXTANA'RAX:  I would suggest that his execution can wait until we have completed repairs to the ship.</td></tr>
 
-  KUDAK'ETAN
-     The Defiant is ours.
+<tr id="L105"><td><a href="#L105">105</a></td><td>KUDAK'ETAN:  I'm not going to execute him. Are you about to question my order, Second?</td></tr>
 
-  GELNON [on viewscreen]
-     Good. Very, very good. I must admit, I was
-     initially quite sceptical about you and the other
-     new Jem'Hadar bred in this quadrant, but this is a
-     most impressive debut. Wouldn't you agree, Elder?
+<tr id="L106"><td><a href="#L106">106</a></td><td>IXTANA'RAX:  No. Obedience brings Victory.</td></tr>
 
-  IXTANA'RAX
-     The takeover of the ship was competently executed.
+<tr id="L107"><td><a href="#L107">107</a></td><td>KUDAK'ETAN:  And Victory is Life.</td></tr>
 
-  GELNON [on viewscreen]
-     Do I detect a note of jealousy in your voice? I'm
-     sure it must be difficult for you to watch a new
-     race of Jem'Hadar beginning to supplant you and
-     the other members of the old guard.
+<tr id="L108"><td><a href="#L108">108</a></td><td>ANNOTATION: Ixtana'Rax leaves</td></tr>
 
-  IXTANA'RAX
-     I serve the Founders. If it is their will to
-     create a new race, then that is the order of
-     things.
+<tr id="L109"><td><a href="#L109">109</a></td><td>KUDAK'ETAN:  Find the ship's transponder and shut it down. I don't want anyone tracking us.</td></tr>
 
-  GELNON [on viewscreen]
-     But?
+<tr id="L110"><td><a href="#L110">110</a></td><td>JEM'HADAR:  Yes, First.</td></tr>
 
-  IXTANA'RAX
-     But the Jem'Hadar bred here in the Alpha Quadrant
-     have not proven themselves superior to those from
-     the Gamma Quadrant. At least not yet.
+<tr id="L111"><td><a href="#L111">111</a></td><td>KUDAK'ETAN:  And get these chairs off the bridge.</td></tr>
 
-  KUDAK'ETAN
-     Not yet? It was the Alphas who made this victory
-     possible. If it were not for us, you would never
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L112"><td><a href="#L112">112</a></td><td>ANNOTATION: Nog is tending Kira's head wound.</td></tr>
 
-  GELNON [on viewscreen]
-     You two can argue about this on your own time.
-     First, how long until you restore warp power?
+<tr id="L113"><td><a href="#L113">113</a></td><td>KIRA:  Thanks. That's enough.</td></tr>
 
-  KUDAK'ETAN
-     I will make a complete survey of the ship and give
-     you a report in one hour.
+<tr id="L114"><td><a href="#L114">114</a></td><td>WORF:  I should have foreseen this. I should have sent out reconnaissance probes to scan for enemy ships. Or a shuttle. Or recalibrated our sensors. If I had, Jadzia</td></tr>
 
-  GELNON [on viewscreen]
-     Very well. I await your report.
+<tr id="L115"><td><a href="#L115">115</a></td><td>NOG:  None of that would've done any good. The Jem'Hadar approached us from the anterior angle of the anomaly. Their warp signatures</td></tr>
 
-  ANNOTATION
-     Transmission ends
+<tr id="L116"><td><a href="#L116">116</a></td><td>KIRA:  He's just trying to tell you</td></tr>
 
-  KUDAK'ETAN
-     Bring me Captain Sisko.
+<tr id="L117"><td><a href="#L117">117</a></td><td>WORF:  I do not need him to tell me anything.</td></tr>
 
-  IXTANA'RAX
-     I would suggest that his execution can wait until
-     we have completed repairs to the ship.
+<tr id="L118"><td><a href="#L118">118</a></td><td>SISKO:  Everybody settle. First of all, we don't know what happened to the Rubicon. For all we know they got out of the anomaly on their own. If they did, they're headed home and in much better shape than we are. So let's hold off on analysing our mistakes for now.</td></tr>
 
-  KUDAK'ETAN
-     I'm not going to execute him. Are you about to
-     question my order, Second?
+<tr id="L119"><td><a href="#L119">119</a></td><td>KIRA:  If they restore warp power, we'll be analysing them from inside a Dominion prison camp.</td></tr>
 
-  IXTANA'RAX
-     No. Obedience brings Victory.
+<tr id="L120"><td><a href="#L120">120</a></td><td>SISKO:  Restoring warp power might not be so simple for them. It took us a week just to learn how to pilot one of their ships. We might have a chance to retake the Defiant, but we can't do anything unless we can get out of this room. Suggestions?</td></tr>
 
-  KUDAK'ETAN
-     And Victory is Life.
+<tr id="L121"><td><a href="#L121">121</a></td><td>ANNOTATION: Ixtana'Rax enters.</td></tr>
 
-  ANNOTATION
-     Ixtana'Rax leaves
+<tr id="L122"><td><a href="#L122">122</a></td><td>IXTANA'RAX:  Captain Sisko, come with me.</td></tr>
 
-  KUDAK'ETAN
-     Find the ship's transponder and shut it down. I
-     don't want anyone tracking us.
+<tr id="L123"><td><a href="#L123">123</a></td><td>SISKO:  Everybody sit tight. I'll be back.</td></tr>
 
-  JEM'HADAR
-     Yes, First.
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L124"><td><a href="#L124">124</a></td><td>BASHIR:  We've lost the Defiant's transponder signal.</td></tr>
 
-  KUDAK'ETAN
-     And get these chairs off the bridge.
+<tr id="L125"><td><a href="#L125">125</a></td><td>DAX:  Coming to full stop.</td></tr>
 
+<tr id="L126"><td><a href="#L126">126</a></td><td>O'BRIEN:  The problem isn't at this end. They must have stopped transmitting.</td></tr>
 
-LOCATION--Mess hall
+<tr id="L127"><td><a href="#L127">127</a></td><td>DAX:  I can't keep flying blind, Chief.</td></tr>
 
-  ANNOTATION
-     Nog is tending Kira's head wound.
+<tr id="L128"><td><a href="#L128">128</a></td><td>O'BRIEN:  Try the shutters.</td></tr>
 
-  KIRA
-     Thanks. That's enough.
+<tr id="L129"><td><a href="#L129">129</a></td><td>DAX:  Nice work.</td></tr>
 
-  WORF
-     I should have foreseen this. I should have sent
-     out reconnaissance probes to scan for enemy ships.
-     Or a shuttle. Or recalibrated our sensors. If I
-     had, Jadzia
+<tr id="L130"><td><a href="#L130">130</a></td><td>O'BRIEN:  Ask and ye shall receive.</td></tr>
 
-  NOG
-     None of that would've done any good. The Jem'Hadar
-     approached us from the anterior angle of the
-     anomaly. Their warp signatures
+<tr id="L131"><td><a href="#L131">131</a></td><td>ANNOTATION: There is a sheet of metal in front of them.</td></tr>
 
-  KIRA
-     He's just trying to tell you
+<tr id="L132"><td><a href="#L132">132</a></td><td>O'BRIEN:  What the hell is that?</td></tr>
 
-  WORF
-     I do not need him to tell me anything.
+<tr id="L133"><td><a href="#L133">133</a></td><td>DAX:  Some kind of wall?</td></tr>
 
-  SISKO
-     Everybody settle. First of all, we don't know what
-     happened to the Rubicon. For all we know they got
-     out of the anomaly on their own. If they did,
-     they're headed home and in much better shape than
-     we are. So let's hold off on analysing our
-     mistakes for now.
+<tr id="L134"><td><a href="#L134">134</a></td><td>O'BRIEN:  In the middle of nowhere?</td></tr>
 
-  KIRA
-     If they restore warp power, we'll be analysing
-     them from inside a Dominion prison camp.
+<tr id="L135"><td><a href="#L135">135</a></td><td>BASHIR:  (craning his neck) Wait a minute, there's a symbol up there. It looks like a large black circle.</td></tr>
 
-  SISKO
-     Restoring warp power might not be so simple for
-     them. It took us a week just to learn how to pilot
-     one of their ships. We might have a chance to
-     retake the Defiant, but we can't do anything
-     unless we can get out of this room. Suggestions?
+<tr id="L136"><td><a href="#L136">136</a></td><td>DAX:  Anything else?</td></tr>
 
-  ANNOTATION
-     Ixtana'Rax enters.
+<tr id="L137"><td><a href="#L137">137</a></td><td>BASHIR:  Hold on. Chief, you're not going to like this.</td></tr>
 
-  IXTANA'RAX
-     Captain Sisko, come with me.
+<tr id="L138"><td><a href="#L138">138</a></td><td>ANNOTATION: It's the Defiant, and compared to Rubicon, it is massive.</td></tr>
 
-  SISKO
-     Everybody sit tight. I'll be back.
+<tr id="L139"><td><a href="#L139">139</a></td><td>O'BRIEN:  I thought you said we'd return to our normal size once we left the anomaly.</td></tr>
 
+<tr id="L140"><td><a href="#L140">140</a></td><td>BASHIR:  We should have.</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr id="L141"><td><a href="#L141">141</a></td><td>DAX:  We didn't leave the anomaly by the same path at which we entered it.</td></tr>
 
-  BASHIR
-     We've lost the Defiant's transponder signal.
+<tr id="L142"><td><a href="#L142">142</a></td><td>BASHIR:  So the process failed to reverse itself.</td></tr>
 
-  DAX
-     Coming to full stop.
+<tr id="L143"><td><a href="#L143">143</a></td><td>O'BRIEN:  Are you telling me that I'm going to be this bloody tall for the rest of my life? (five centimetres)</td></tr>
 
-  O'BRIEN
-     The problem isn't at this end. They must have
-     stopped transmitting.
+<tr id="L144"><td><a href="#L144">144</a></td><td>BASHIR:  This bloody tall, actually. (one centimetre) But don't worry. All we have to do to regain our original size is re-enter the anomaly and follow our original trajectory back out.</td></tr>
 
-  DAX
-     I can't keep flying blind, Chief.
+<tr id="L145"><td><a href="#L145">145</a></td><td>O'BRIEN:  In theory.</td></tr>
 
-  O'BRIEN
-     Try the shutters.
+<tr id="L146"><td><a href="#L146">146</a></td><td>BASHIR:  In theory.</td></tr>
 
-  DAX
-     Nice work.
+<tr id="L147"><td><a href="#L147">147</a></td><td>DAX:  I'll tell you what isn't a theory. We're going to need the Defiant's help to re-enter the anomaly.</td></tr>
 
-  O'BRIEN
-     Ask and ye shall receive.
+<tr id="L148"><td><a href="#L148">148</a></td><td>BASHIR:  With communications out, how do we get their attention?</td></tr>
 
-  ANNOTATION
-     There is a sheet of metal in front of them.
+<tr id="L149"><td><a href="#L149">149</a></td><td>DAX:  Fly up to a window and knock?</td></tr>
 
-  O'BRIEN
-     What the hell is that?
+<tr id="L150"><td><a href="#L150">150</a></td><td>O'BRIEN:  Wait. If we're this big, that means the Rubicon is what, this big? (ten centimetres)</td></tr>
 
-  DAX
-     Some kind of wall?
+<tr id="L151"><td><a href="#L151">151</a></td><td>BASHIR:  More or less.</td></tr>
 
-  O'BRIEN
-     In the middle of nowhere?
+<tr id="L152"><td><a href="#L152">152</a></td><td>O'BRIEN:  And the Defiant's aft plasma vent is this big? (double the Rubicon)</td></tr>
 
-  BASHIR
-     (craning his neck) Wait a minute, there's a symbol
-     up there. It looks like a large black circle.
+<tr id="L153"><td><a href="#L153">153</a></td><td>DAX:  Are you suggesting that we take the Rubicon inside the Defiant?</td></tr>
 
-  DAX
-     Anything else?
+<tr id="L154"><td><a href="#L154">154</a></td><td>O'BRIEN:  Why not? Getting past the anti-backflow valve might be tricky, but once we're inside we've a better chance of attracting someone's attention than we do sitting out here.</td></tr>
 
-  BASHIR
-     Hold on. Chief, you're not going to like this.
+<tr id="L155"><td><a href="#L155">155</a></td><td>DAX:  I love it. Let's go.</td></tr>
 
-  ANNOTATION
-     It's the Defiant, and compared to Rubicon, it is
-     massive.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L156"><td><a href="#L156">156</a></td><td>LAMAT'UKAN:  The engineering team reports that we can restart the impulse engines in twelve minutes.</td></tr>
 
-  O'BRIEN
-     I thought you said we'd return to our normal size
-     once we left the anomaly.
+<tr id="L157"><td><a href="#L157">157</a></td><td>KUDAK'ETAN:  Good. Captain Benjamin Sisko. The one the Bajorans call the Emissary. I am First Kudak'Etan. In a strange way, you are the reason I exist. If you had not eliminated our fleet in the wormhole, there would have been no need to breed Alpha Quadrant Jem'Hadar.</td></tr>
 
-  BASHIR
-     We should have.
+<tr id="L158"><td><a href="#L158">158</a></td><td>SISKO:  You didn't bring me here to say thank you.</td></tr>
 
-  DAX
-     We didn't leave the anomaly by the same path at
-     which we entered it.
+<tr id="L159"><td><a href="#L159">159</a></td><td>KUDAK'ETAN:  No. The impulse engines sustained only minor damage in our attack, but the warp drive was severely damaged. I need your technical expertise in order to repair it. Bring Captain to the engine room so he may begin necessary repairs.</td></tr>
 
-  BASHIR
-     So the process failed to reverse itself.
+<tr id="L160"><td><a href="#L160">160</a></td><td>IXTANA'RAX:  It's a mistake. Giving him access to the engine room will only give him an opportunity to retake the ship. In fact, he's working on a plan at this very moment.</td></tr>
 
-  O'BRIEN
-     Are you telling me that I'm going to be this
-     bloody tall for the rest of my life? (five
-     centimetres)
+<tr id="L161"><td><a href="#L161">161</a></td><td>KUDAK'ETAN:  I was not aware that telepathy was a Gamma characteristic.</td></tr>
 
-  BASHIR
-     This bloody tall, actually. (one centimetre) But
-     don't worry. All we have to do to regain our
-     original size is re-enter the anomaly and follow
-     our original trajectory back out.
+<tr id="L162"><td><a href="#L162">162</a></td><td>IXTANA'RAX:  I know what he's thinking because it's exactly what I would be doing in his position. You should kill him now, before he has a chance to put his plan into motion.</td></tr>
 
-  O'BRIEN
-     In theory.
+<tr id="L163"><td><a href="#L163">163</a></td><td>KUDAK'ETAN:  You are the Second. I am the First. Do not presume to tell me what to do.</td></tr>
 
-  BASHIR
-     In theory.
+<tr id="L164"><td><a href="#L164">164</a></td><td>SISKO:  I'm glad the two of you worked that out. Now, what makes you think I'm going to help you?</td></tr>
 
-  DAX
-     I'll tell you what isn't a theory. We're going to
-     need the Defiant's help to re-enter the anomaly.
+<tr id="L165"><td><a href="#L165">165</a></td><td>KUDAK'ETAN:  Your choice is to repair the warp drive or watch me execute your crew one at a time. Have Sixth Duran'Adar select one of the prisoners for execution and bring him to the bridge!</td></tr>
 
-  BASHIR
-     With communications out, how do we get their
-     attention?
+<tr id="L166"><td><a href="#L166">166</a></td><td>SISKO:  I can't do this job alone. I'm going to need some of my crew.</td></tr>
 
-  DAX
-     Fly up to a window and knock?
+<tr id="L167"><td><a href="#L167">167</a></td><td>KUDAK'ETAN:  How many?</td></tr>
 
-  O'BRIEN
-     Wait. If we're this big, that means the Rubicon is
-     what, this big? (ten centimetres)
+<tr id="L168"><td><a href="#L168">168</a></td><td>IXTANA'RAX:  I strongly suggest that you refuse this request.</td></tr>
 
-  BASHIR
-     More or less.
+<tr id="L169"><td><a href="#L169">169</a></td><td>SISKO:  You have the weapons. Are you afraid you can't handle a few unarmed prisoners?</td></tr>
 
-  O'BRIEN
-     And the Defiant's aft plasma vent is this big?
-     (double the Rubicon)
+<tr id="L170"><td><a href="#L170">170</a></td><td>IXTANA'RAX:  I won't be baited by a prisoner, and neither should you.</td></tr>
 
-  DAX
-     Are you suggesting that we take the Rubicon inside
-     the Defiant?
+<tr id="L171"><td><a href="#L171">171</a></td><td>SISKO:  Okay. I'm in no hurry to reach a Dominion prison camp. if you want me to teach your men how to repair the warp drive, that's fine with me. We'll begin with primary command and control systems. That should take about six hours. Then we will move up to basic engineering theory for a class seven warp drive. Then</td></tr>
 
-  O'BRIEN
-     Why not? Getting past the anti-backflow valve
-     might be tricky, but once we're inside we've a
-     better chance of attracting someone's attention
-     than we do sitting out here.
+<tr id="L172"><td><a href="#L172">172</a></td><td>IXTANA'RAX:  Enough.</td></tr>
 
-  DAX
-     I love it. Let's go.
+<tr id="L173"><td><a href="#L173">173</a></td><td>KUDAK'ETAN:  You may have the three other Bridge officers, but that is all. And I am not interested in any more of your suggestions. Now take him to the engine room.</td></tr>
 
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L174"><td><a href="#L174">174</a></td><td>ANNOTATION: They're in a duct.</td></tr>
 
-LOCATION--Bridge
+<tr id="L175"><td><a href="#L175">175</a></td><td>DAX:  Where are we, Chief?</td></tr>
 
-  LAMAT'UKAN
-     The engineering team reports that we can restart
-     the impulse engines in twelve minutes.
+<tr id="L176"><td><a href="#L176">176</a></td><td>O'BRIEN:  We've just about reached the bi-polar flow junction, I think.</td></tr>
 
-  KUDAK'ETAN
-     Good. Captain Benjamin Sisko. The one the Bajorans
-     call the Emissary. I am First Kudak'Etan. In a
-     strange way, you are the reason I exist. If you
-     had not eliminated our fleet in the wormhole,
-     there would have been no need to breed Alpha
-     Quadrant Jem'Hadar.
+<tr id="L177"><td><a href="#L177">177</a></td><td>BASHIR:  You think?</td></tr>
 
-  SISKO
-     You didn't bring me here to say thank you.
+<tr id="L178"><td><a href="#L178">178</a></td><td>O'BRIEN:  I'm not used to seeing things from this perspective. Once we reach the flow junction we should be able to go up into the secondary warp plasma feed and then exit via the diagnostic panel.</td></tr>
 
-  KUDAK'ETAN
-     No. The impulse engines sustained only minor
-     damage in our attack, but the warp drive was
-     severely damaged. I need your technical expertise
-     in order to repair it. Bring Captain to the engine
-     room so he may begin necessary repairs.
+<tr id="L179"><td><a href="#L179">179</a></td><td>BASHIR:  This conduit's filthy, Chief. Don't you ever clean up in here?</td></tr>
 
-  IXTANA'RAX
-     It's a mistake. Giving him access to the engine
-     room will only give him an opportunity to retake
-     the ship. In fact, he's working on a plan at this
-     very moment.
+<tr id="L180"><td><a href="#L180">180</a></td><td>DAX:  All right, all right. Let's not badger the Chief.</td></tr>
 
-  KUDAK'ETAN
-     I was not aware that telepathy was a Gamma
-     characteristic.
+<tr id="L181"><td><a href="#L181">181</a></td><td>O'BRIEN:  Thank you.</td></tr>
 
-  IXTANA'RAX
-     I know what he's thinking because it's exactly
-     what I would be doing in his position. You should
-     kill him now, before he has a chance to put his
-     plan into motion.
+<tr id="L182"><td><a href="#L182">182</a></td><td>BASHIR:  I'm sorry. It was very small of me.</td></tr>
 
-  KUDAK'ETAN
-     You are the Second. I am the First. Do not presume
-     to tell me what to do.
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L183"><td><a href="#L183">183</a></td><td>ANNOTATION: Ixtana'Rax takes Sisko by lapels.</td></tr>
 
-  SISKO
-     I'm glad the two of you worked that out. Now, what
-     makes you think I'm going to help you?
+<tr id="L184"><td><a href="#L184">184</a></td><td>IXTANA'RAX:  Whatever it is you're planning, don't. I'll be watching you, and at the first sign of treachery I will kill all your bridge officers.</td></tr>
 
-  KUDAK'ETAN
-     Your choice is to repair the warp drive or watch
-     me execute your crew one at a time. Have Sixth
-     Duran'Adar select one of the prisoners for
-     execution and bring him to the bridge!
+<tr id="L185"><td><a href="#L185">185</a></td><td>SISKO:  I'm a prisoner. I have no intention</td></tr>
 
-  SISKO
-     I can't do this job alone. I'm going to need some
-     of my crew.
+<tr id="L186"><td><a href="#L186">186</a></td><td>IXTANA'RAX:  The First may be a fool, but I am not.</td></tr>
 
-  KUDAK'ETAN
-     How many?
+<tr id="L187"><td><a href="#L187">187</a></td><td>SISKO:  Then it is a pity for you that you are not the First.</td></tr>
 
-  IXTANA'RAX
-     I strongly suggest that you refuse this request.
+<tr id="L188"><td><a href="#L188">188</a></td><td>IXTANA'RAX:  I was, until two days ago. If we had captured you while I was in command we wouldn't be having this conversation. Deck two, section five.</td></tr>
 
-  SISKO
-     You have the weapons. Are you afraid you can't
-     handle a few unarmed prisoners?
+<tr id="L189"><td><a href="#L189">189</a></td><td>SISKO:  What happened?</td></tr>
 
-  IXTANA'RAX
-     I won't be baited by a prisoner, and neither
-     should you.
+<tr id="L190"><td><a href="#L190">190</a></td><td>IXTANA'RAX:  He is an Alpha, I am a Gamma. His DNA and psychological profile are specifically designed for combat in this quadrant. The Founders believe that makes him a better leader.</td></tr>
 
-  SISKO
-     Okay. I'm in no hurry to reach a Dominion prison
-     camp. if you want me to teach your men how to
-     repair the warp drive, that's fine with me. We'll
-     begin with primary command and control systems.
-     That should take about six hours. Then we will
-     move up to basic engineering theory for a class
-     seven warp drive. Then
+<tr id="L191"><td><a href="#L191">191</a></td><td>SISKO:  What do you believe?</td></tr>
 
-  IXTANA'RAX
-     Enough.
+<tr id="L192"><td><a href="#L192">192</a></td><td>IXTANA'RAX:  I believe I've given you enough information already.</td></tr>
 
-  KUDAK'ETAN
-     You may have the three other Bridge officers, but
-     that is all. And I am not interested in any more
-     of your suggestions. Now take him to the engine
-     room.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L193"><td><a href="#L193">193</a></td><td>KUDAK'ETAN:  We have restored impulse power, and the warp drive will be operational in five hours.</td></tr>
 
+<tr id="L194"><td><a href="#L194">194</a></td><td>GELNON [on viewscreen]:  Excellent. It's good to see my faith in you has not been misplaced. The Founders will be pleased. If you require no more assistance, I will resume our mission to Coridan. Let's hope the Federation's dilithium miners will be as surprised to see us as the Defiant's crew was.</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr id="L195"><td><a href="#L195">195</a></td><td>KUDAK'ETAN:  Victory is Life.</td></tr>
 
-  ANNOTATION
-     They're in a duct.
+<tr id="L196"><td><a href="#L196">196</a></td><td>GELNON [on viewscreen]:  Indeed.</td></tr>
 
-  DAX
-     Where are we, Chief?
+<tr id="L197"><td><a href="#L197">197</a></td><td>ANNOTATION: Transmission ends.</td></tr>
 
-  O'BRIEN
-     We've just about reached the bi-polar flow
-     junction, I think.
+<tr id="L198"><td><a href="#L198">198</a></td><td>KUDAK'ETAN:  Set course for the closest Dominion outpost. Engage impulse engines.</td></tr>
 
-  BASHIR
-     You think?
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L199"><td><a href="#L199">199</a></td><td>ANNOTATION: As the little ship whizzes along a conduit, the walls start to glow red.</td></tr>
 
-  O'BRIEN
-     I'm not used to seeing things from this
-     perspective. Once we reach the flow junction we
-     should be able to go up into the secondary warp
-     plasma feed and then exit via the diagnostic
-     panel.
+<tr id="L200"><td><a href="#L200">200</a></td><td>O'BRIEN:  Uh oh.</td></tr>
 
-  BASHIR
-     This conduit's filthy, Chief. Don't you ever clean
-     up in here?
+<tr id="L201"><td><a href="#L201">201</a></td><td>DAX:  What is it?</td></tr>
 
-  DAX
-     All right, all right. Let's not badger the Chief.
+<tr id="L202"><td><a href="#L202">202</a></td><td>O'BRIEN:  The magnetic plasma guides are heating up.</td></tr>
 
-  O'BRIEN
-     Thank you.
+<tr id="L203"><td><a href="#L203">203</a></td><td>DAX:  They must have initiated the impulse prestart sequence.</td></tr>
 
-  BASHIR
-     I'm sorry. It was very small of me.
+<tr id="L204"><td><a href="#L204">204</a></td><td>BASHIR:  What does that mean, then?</td></tr>
 
+<tr id="L205"><td><a href="#L205">205</a></td><td>DAX:  It means this entire conduit is about to be filled with superheated plasma.</td></tr>
 
-LOCATION--Turbolift
+<tr id="L206"><td><a href="#L206">206</a></td><td>BASHIR:  When you say superheated?</td></tr>
 
-  ANNOTATION
-     Ixtana'Rax takes Sisko by lapels.
+<tr id="L207"><td><a href="#L207">207</a></td><td>O'BRIEN:  If I can't find another way out of here, we'll be vaporised. Is that clear?</td></tr>
 
-  IXTANA'RAX
-     Whatever it is you're planning, don't. I'll be
-     watching you, and at the first sign of treachery I
-     will kill all your bridge officers.
+<tr id="L208"><td><a href="#L208">208</a></td><td>BASHIR:  Crystal.</td></tr>
 
-  SISKO
-     I'm a prisoner. I have no intention
+<tr id="L209"><td><a href="#L209">209</a></td><td>ANNOTATION: Plasma flame bursts into life behind them.</td></tr>
 
-  IXTANA'RAX
-     The First may be a fool, but I am not.
+<tr id="L210"><td><a href="#L210">210</a></td><td>O'BRIEN:  There's a distribution manifold coming up. Take the left conduit, then make a quick right into the relays.</td></tr>
 
-  SISKO
-     Then it is a pity for you that you are not the
-     First.
+<tr id="L211"><td><a href="#L211">211</a></td><td>DAX:  Left, then right.</td></tr>
 
-  IXTANA'RAX
-     I was, until two days ago. If we had captured you
-     while I was in command we wouldn't be having this
-     conversation. Deck two, section five.
+<tr id="L212"><td><a href="#L212">212</a></td><td>BASHIR:  I hope you know where you're going, Chief.</td></tr>
 
-  SISKO
-     What happened?
+<tr id="L213"><td><a href="#L213">213</a></td><td>O'BRIEN:  So do I. Through the relays. There's an inspection hatch coming up on the right. If we can figure out a way to open the hatch</td></tr>
 
-  IXTANA'RAX
-     He is an Alpha, I am a Gamma. His DNA and
-     psychological profile are specifically designed
-     for combat in this quadrant. The Founders believe
-     that makes him a better leader.
+<tr id="L214"><td><a href="#L214">214</a></td><td>DAX:  We're out of time.</td></tr>
 
-  SISKO
-     What do you believe?
+<tr id="L215"><td><a href="#L215">215</a></td><td>BASHIR:  What about the hatch?</td></tr>
 
-  IXTANA'RAX
-     I believe I've given you enough information
-     already.
+<tr id="L216"><td><a href="#L216">216</a></td><td>DAX:  We'll have to open it the old-fashioned way.</td></tr>
 
+<tr id="L217"><td><a href="#L217">217</a></td><td>ANNOTATION: Flames arrive as Rubicon rams the hatch.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Engine room</td></tr>
+<tr id="L218"><td><a href="#L218">218</a></td><td>ANNOTATION: The hatch opens, Rubicon shoots out and the doors automatically shut again with only a little wisp of plasma coming through.</td></tr>
 
-  KUDAK'ETAN
-     We have restored impulse power, and the warp drive
-     will be operational in five hours.
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L219"><td><a href="#L219">219</a></td><td>BASHIR:  Let's not do that again.</td></tr>
 
-  GELNON [on viewscreen]
-     Excellent. It's good to see my faith in you has
-     not been misplaced. The Founders will be pleased.
-     If you require no more assistance, I will resume
-     our mission to Coridan. Let's hope the
-     Federation's dilithium miners will be as surprised
-     to see us as the Defiant's crew was.
+<tr id="L220"><td><a href="#L220">220</a></td><td>DAX:  No promises. So where are we, Chief?</td></tr>
 
-  KUDAK'ETAN
-     Victory is Life.
+<tr id="L221"><td><a href="#L221">221</a></td><td>O'BRIEN:  We should be in the engine room near, the warp core.</td></tr>
 
-  GELNON [on viewscreen]
-     Indeed.
+<tr id="L222"><td><a href="#L222">222</a></td><td>DAX:  Right. There's the core. Looks like the warp drive is offline.</td></tr>
 
-  ANNOTATION
-     Transmission ends.
+<tr id="L223"><td><a href="#L223">223</a></td><td>BASHIR:  Quite a mess. I wonder what happened?</td></tr>
 
-  KUDAK'ETAN
-     Set course for the closest Dominion outpost.
-     Engage impulse engines.
+<tr><td></td><td>LOCATION--Engine room</td></tr>
+<tr id="L224"><td><a href="#L224">224</a></td><td>ANNOTATION: On the opposite side of the core there is activity.</td></tr>
 
+<tr id="L225"><td><a href="#L225">225</a></td><td>IXTANA'RAX:  What are you doing?</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr id="L226"><td><a href="#L226">226</a></td><td>KIRA:  Realigning the dilithium articulation frame.</td></tr>
 
-  ANNOTATION
-     As the little ship whizzes along a conduit, the
-     walls start to glow red.
+<tr id="L227"><td><a href="#L227">227</a></td><td>IXTANA'RAX:  Instruct him on how to complete the realignment.</td></tr>
 
-  O'BRIEN
-     Uh oh.
+<tr id="L228"><td><a href="#L228">228</a></td><td>KIRA:  It'll take longer to explain, than just to do it my</td></tr>
 
-  DAX
-     What is it?
+<tr id="L229"><td><a href="#L229">229</a></td><td>IXTANA'RAX:  Then explain it quickly. Give him the tool.</td></tr>
 
-  O'BRIEN
-     The magnetic plasma guides are heating up.
+<tr id="L230"><td><a href="#L230">230</a></td><td>KIRA:  All right. Start by decoupling the lateral microbrace.</td></tr>
 
-  DAX
-     They must have initiated the impulse prestart
-     sequence.
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L231"><td><a href="#L231">231</a></td><td>ANNOTATION: As the ship gains altitude, a Jem'Hadar working on a console looms into view right next to them.</td></tr>
 
-  BASHIR
-     What does that mean, then?
+<tr id="L232"><td><a href="#L232">232</a></td><td>DAX:  That's not good.</td></tr>
 
-  DAX
-     It means this entire conduit is about to be filled
-     with superheated plasma.
+<tr id="L233"><td><a href="#L233">233</a></td><td>ANNOTATION: They fly away and the Jem'Hadar around. Rubicon parks on some pipes by the ceiling.</td></tr>
 
-  BASHIR
-     When you say superheated?
+<tr id="L234"><td><a href="#L234">234</a></td><td>DAX:  Chief, I need visual sensors as fast as you can give them to me.</td></tr>
 
-  O'BRIEN
-     If I can't find another way out of here, we'll be
-     vaporised. Is that clear?
+<tr id="L235"><td><a href="#L235">235</a></td><td>O'BRIEN:  Right. Julian, give me a hand down here.</td></tr>
 
-  BASHIR
-     Crystal.
+<tr id="L236"><td><a href="#L236">236</a></td><td>ANNOTATION: They open a floor plate. Kira is using a tricorder on a console.</td></tr>
 
-  ANNOTATION
-     Plasma flame bursts into life behind them.
+<tr id="L237"><td><a href="#L237">237</a></td><td>O'BRIEN:  Okay, you should have visual sensors now. The comm. system's back online.</td></tr>
 
-  O'BRIEN
-     There's a distribution manifold coming up. Take
-     the left conduit, then make a quick right into the
-     relays.
+<tr id="L238"><td><a href="#L238">238</a></td><td>DAX:  They're forcing our crew to repair the warp drive.</td></tr>
 
-  DAX
-     Left, then right.
+<tr id="L239"><td><a href="#L239">239</a></td><td>BASHIR:  Why's the Captain going along with this?</td></tr>
 
-  BASHIR
-     I hope you know where you're going, Chief.
+<tr id="L240"><td><a href="#L240">240</a></td><td>DAX:  Good question. But if I know Benjamin, he's up to something. Can you give me a tight shot on the operations display?</td></tr>
 
-  O'BRIEN
-     So do I. Through the relays. There's an inspection
-     hatch coming up on the right. If we can figure out
-     a way to open the hatch
+<tr id="L241"><td><a href="#L241">241</a></td><td>O'BRIEN:  I think so.</td></tr>
 
-  DAX
-     We're out of time.
+<tr id="L242"><td><a href="#L242">242</a></td><td>ANNOTATION: Magnification 979.85</td></tr>
 
-  BASHIR
-     What about the hatch?
+<tr id="L243"><td><a href="#L243">243</a></td><td>DAX:  Do you see what I see?</td></tr>
 
-  DAX
-     We'll have to open it the old-fashioned way.
+<tr id="L244"><td><a href="#L244">244</a></td><td>O'BRIEN:  Very clever.</td></tr>
 
-  ANNOTATION
-     Flames arrive as Rubicon rams the hatch.
+<tr id="L245"><td><a href="#L245">245</a></td><td>DAX:  Problem is, it's never going to work.</td></tr>
 
+<tr id="L246"><td><a href="#L246">246</a></td><td>O'BRIEN:  The bridge control lockouts.</td></tr>
 
-LOCATION--Engine room
+<tr id="L247"><td><a href="#L247">247</a></td><td>DAX:  The security codes are hardwired through the encryption circuitry.</td></tr>
 
-  ANNOTATION
-     The hatch opens, Rubicon shoots out and the doors
-     automatically shut again with only a little wisp
-     of plasma coming through.
+<tr id="L248"><td><a href="#L248">248</a></td><td>BASHIR:  Will someone please let me in on this conversation?</td></tr>
 
+<tr id="L249"><td><a href="#L249">249</a></td><td>O'BRIEN:  The Captain's trying to take control of the ship from Engineering. Kira is the only one actually working on the warp drive, and it doesn't look like she's in any hurry to get it done.</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr id="L250"><td><a href="#L250">250</a></td><td>DAX:  I think Worf's trying to cover their tracks. It looks like he's sending false signals through the computer system.</td></tr>
 
-  BASHIR
-     Let's not do that again.
+<tr id="L251"><td><a href="#L251">251</a></td><td>O'BRIEN:  Nog is the key. He's trying to override the bridge control lockout so he can release the command codes. If he can do that, the Captain can control the entire ship from the operations console. Nog's a smart kid, but it's going to take him weeks to release the codes from here.</td></tr>
 
-  DAX
-     No promises. So where are we, Chief?
+<tr id="L252"><td><a href="#L252">252</a></td><td>BASHIR:  Can we do anything to help him?</td></tr>
 
-  O'BRIEN
-     We should be in the engine room near, the warp
-     core.
+<tr id="L253"><td><a href="#L253">253</a></td><td>O'BRIEN:  Not from engineering. If we could get to the bridge, we could release the codes from there.</td></tr>
 
-  DAX
-     Right. There's the core. Looks like the warp drive
-     is offline.
+<tr id="L254"><td><a href="#L254">254</a></td><td>BASHIR:  How?</td></tr>
 
-  BASHIR
-     Quite a mess. I wonder what happened?
+<tr id="L255"><td><a href="#L255">255</a></td><td>DAX:  Wait a minute. One thing at a time. First we need to get out of the engine room without getting caught.</td></tr>
 
+<tr id="L256"><td><a href="#L256">256</a></td><td>ANNOTATION: Rubicon flies low over the bulkheads.</td></tr>
 
-LOCATION--Engine room
+<tr><td></td><td>LOCATION--Engine room</td></tr>
+<tr id="L257"><td><a href="#L257">257</a></td><td>IXTANA'RAX:  Why is the Klingon working on the plasma display subsystem?</td></tr>
 
-  ANNOTATION
-     On the opposite side of the core there is
-     activity.
+<tr id="L258"><td><a href="#L258">258</a></td><td>SISKO:  Because I told him to.</td></tr>
 
-  IXTANA'RAX
-     What are you doing?
+<tr id="L259"><td><a href="#L259">259</a></td><td>IXTANA'RAX:  That system has nothing to do with warp drive operation.</td></tr>
 
-  KIRA
-     Realigning the dilithium articulation frame.
+<tr id="L260"><td><a href="#L260">260</a></td><td>SISKO:  Maybe not on Dominion ships, but I'll need to use the display to monitor warp plasma stability. Pardon me.</td></tr>
 
-  IXTANA'RAX
-     Instruct him on how to complete the realignment.
+<tr id="L261"><td><a href="#L261">261</a></td><td>ANNOTATION: Defiant dodges between a Jem'Hadar's legs and hides behind a tool box.</td></tr>
 
-  KIRA
-     It'll take longer to explain, than just to do it
-     my
+<tr id="L262"><td><a href="#L262">262</a></td><td>KIRA:  Until I tell you to stop.</td></tr>
 
-  IXTANA'RAX
-     Then explain it quickly. Give him the tool.
+<tr id="L263"><td><a href="#L263">263</a></td><td>JEM'HADAR:  Yes, Major.</td></tr>
 
-  KIRA
-     All right. Start by decoupling the lateral
-     microbrace.
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L264"><td><a href="#L264">264</a></td><td>O'BRIEN:  Now what?</td></tr>
 
+<tr id="L265"><td><a href="#L265">265</a></td><td>DAX:  Now we wait until someone walks out that door.</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr><td></td><td>LOCATION--Engine room</td></tr>
+<tr id="L266"><td><a href="#L266">266</a></td><td>IXTANA'RAX:  Sixth!</td></tr>
 
-  ANNOTATION
-     As the ship gains altitude, a Jem'Hadar working on
-     a console looms into view right next to them.
+<tr id="L267"><td><a href="#L267">267</a></td><td>SIXTH:  Yes, Second.</td></tr>
 
-  DAX
-     That's not good.
+<tr id="L268"><td><a href="#L268">268</a></td><td>IXTANA'RAX:  Relieve the Klingon. Take over the repair of the display subsystem.</td></tr>
 
-  ANNOTATION
-     They fly away and the Jem'Hadar around. Rubicon
-     parks on some pipes by the ceiling.
+<tr id="L269"><td><a href="#L269">269</a></td><td>SIXTH:  Immediately, Second.</td></tr>
 
-  DAX
-     Chief, I need visual sensors as fast as you can
-     give them to me.
+<tr id="L270"><td><a href="#L270">270</a></td><td>IXTANA'RAX:  Give the Klingon another task.</td></tr>
 
-  O'BRIEN
-     Right. Julian, give me a hand down here.
+<tr id="L271"><td><a href="#L271">271</a></td><td>SISKO:  Why?</td></tr>
 
-  ANNOTATION
-     They open a floor plate. Kira is using a tricorder
-     on a console.
+<tr id="L272"><td><a href="#L272">272</a></td><td>IXTANA'RAX:  Because I said so.</td></tr>
 
-  O'BRIEN
-     Okay, you should have visual sensors now. The
-     comm. system's back online.
+<tr id="L273"><td><a href="#L273">273</a></td><td>ANNOTATION: The door opens.</td></tr>
 
-  DAX
-     They're forcing our crew to repair the warp drive.
+<tr id="L274"><td><a href="#L274">274</a></td><td>KUDAK'ETAN:  Why is the warp drive not online yet?</td></tr>
 
-  BASHIR
-     Why's the Captain going along with this?
+<tr id="L275"><td><a href="#L275">275</a></td><td>IXTANA'RAX:  He's stalling.</td></tr>
 
-  DAX
-     Good question. But if I know Benjamin, he's up to
-     something. Can you give me a tight shot on the
-     operations display?
+<tr id="L276"><td><a href="#L276">276</a></td><td>SISKO:  Stalling? Your Second is the one who's slowing down the work. He countermands my orders, arbitrarily reassigns my crew. I can't get any work done in here.</td></tr>
 
-  O'BRIEN
-     I think so.
+<tr id="L277"><td><a href="#L277">277</a></td><td>KUDAK'ETAN:  You were told to watch them, not to interfere with them.</td></tr>
 
-  ANNOTATION
-     Magnification 979.85
+<tr id="L278"><td><a href="#L278">278</a></td><td>IXTANA'RAX:  You're playing right into his hands. Don't you see that?</td></tr>
 
-  DAX
-     Do you see what I see?
+<tr id="L279"><td><a href="#L279">279</a></td><td>KUDAK'ETAN:  Captain Sisko, you have thirty minutes to restore warp power, or I will kill her, (Kira) and another of your crew every fifteen minutes until you do. And you, Second, will no longer interfere with their work.</td></tr>
 
-  O'BRIEN
-     Very clever.
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L280"><td><a href="#L280">280</a></td><td>DAX:  Get ready. When he activates the door sensor, we'll</td></tr>
 
-  DAX
-     Problem is, it's never going to work.
+<tr id="L281"><td><a href="#L281">281</a></td><td>ANNOTATION: Do a bit of dodging as someone picks up tools right next to them. Kudak'Etan leaves and Rubicon slides sideways through the gap just before the door closes.</td></tr>
 
-  O'BRIEN
-     The bridge control lockouts.
+<tr id="L282"><td><a href="#L282">282</a></td><td>BASHIR:  Nice bit of piloting.</td></tr>
 
-  DAX
-     The security codes are hardwired through the
-     encryption circuitry.
+<tr id="L283"><td><a href="#L283">283</a></td><td>DAX:  If you liked that, you're going to love what's coming up next.</td></tr>
 
-  BASHIR
-     Will someone please let me in on this
-     conversation?
+<tr><td></td><td>LOCATION--Engine room</td></tr>
+<tr id="L284"><td><a href="#L284">284</a></td><td>ANNOTATION: Sisko has just run a gizmo over a circuit board. Worf is by a display panel. Nog is round a corner working a PADD.</td></tr>
 
-  O'BRIEN
-     The Captain's trying to take control of the ship
-     from Engineering. Kira is the only one actually
-     working on the warp drive, and it doesn't look
-     like she's in any hurry to get it done.
+<tr id="L285"><td><a href="#L285">285</a></td><td>SISKO:  Any luck, Ensign?</td></tr>
 
-  DAX
-     I think Worf's trying to cover their tracks. It
-     looks like he's sending false signals through the
-     computer system.
+<tr id="L286"><td><a href="#L286">286</a></td><td>NOG:  Not yet, sir. The system's always three steps ahead of me. Every time I get past the primary security net, the secondary always kicks me back out and the codes are all reset, and I have to start all over again. (beep) Like that. Do you have a backup plan in case this doesn't work?</td></tr>
 
-  O'BRIEN
-     Nog is the key. He's trying to override the bridge
-     control lockout so he can release the command
-     codes. If he can do that, the Captain can control
-     the entire ship from the operations console. Nog's
-     a smart kid, but it's going to take him weeks to
-     release the codes from here.
+<tr id="L287"><td><a href="#L287">287</a></td><td>SISKO:  Yes. I'll destroy the ship.</td></tr>
 
-  BASHIR
-     Can we do anything to help him?
+<tr id="L288"><td><a href="#L288">288</a></td><td>NOG:  There are still a few algorithms I haven't tried yet.</td></tr>
 
-  O'BRIEN
-     Not from engineering. If we could get to the
-     bridge, we could release the codes from there.
+<tr id="L289"><td><a href="#L289">289</a></td><td>ANNOTATION: A Jem'Hadar hands Kira a tool.</td></tr>
 
-  BASHIR
-     How?
+<tr id="L290"><td><a href="#L290">290</a></td><td>KIRA:  Thanks. All right, I'm ready to connect the deuterium injector. Go to the plasma relay and power it up, but slowly just like I showed you.</td></tr>
 
-  DAX
-     Wait a minute. One thing at a time. First we need
-     to get out of the engine room without getting
-     caught.
+<tr id="L291"><td><a href="#L291">291</a></td><td>ANNOTATION: The Jem'Hadar bows and moves away. Sisko comes over.</td></tr>
 
-  ANNOTATION
-     Rubicon flies low over the bulkheads.
+<tr id="L292"><td><a href="#L292">292</a></td><td>KIRA:  I'm about ten minutes away from initiating the prestart sequence on the warp drive. How's Nog doing?</td></tr>
 
+<tr id="L293"><td><a href="#L293">293</a></td><td>SISKO:  Not good. You'll have to find another problem.</td></tr>
 
-LOCATION--Engine room
+<tr id="L294"><td><a href="#L294">294</a></td><td>KIRA:  (beep) Too fast! Reinitialise the system and start again, but do it at about half the speed this time. He's not stupid. He's already got the entire command and control system committed to memory. I can't keep him fooled forever.</td></tr>
 
-  IXTANA'RAX
-     Why is the Klingon working on the plasma display
-     subsystem?
+<tr id="L295"><td><a href="#L295">295</a></td><td>SISKO:  In a battle of wits between you and him, I'll bet on you every time.</td></tr>
 
-  SISKO
-     Because I told him to.
+<tr id="L296"><td><a href="#L296">296</a></td><td>KIRA:  What kind of odds are you giving?</td></tr>
 
-  IXTANA'RAX
-     That system has nothing to do with warp drive
-     operation.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L297"><td><a href="#L297">297</a></td><td>ANNOTATION: Kudak'Etan thinks he can hear something, but can't see it. Rubicon was right behind his head. He goes through another door.</td></tr>
 
-  SISKO
-     Maybe not on Dominion ships, but I'll need to use
-     the display to monitor warp plasma stability.
-     Pardon me.
+<tr id="L298"><td><a href="#L298">298</a></td><td>LAMAT'UKAN:  First? I've realigned the targeting sensors. There were errors in the tracking subroutines.</td></tr>
 
-  ANNOTATION
-     Defiant dodges between a Jem'Hadar's legs and
-     hides behind a tool box.
+<tr id="L299"><td><a href="#L299">299</a></td><td>KUDAK'ETAN:  You were not ordered to check the targeting sensors.</td></tr>
 
-  KIRA
-     Until I tell you to stop.
+<tr id="L300"><td><a href="#L300">300</a></td><td>LAMAT'UKAN:  Well, I thought it a wise precaution in case we encountered an enemy ship on our way home.</td></tr>
 
-  JEM'HADAR
-     Yes, Major.
+<tr id="L301"><td><a href="#L301">301</a></td><td>KUDAK'ETAN:  Your initiative pleases me. It's a trait that the Gammas lack.</td></tr>
 
+<tr id="L302"><td><a href="#L302">302</a></td><td>LAMAT'UKAN:  Well, the Gammas have many flaws.</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr id="L303"><td><a href="#L303">303</a></td><td>KUDAK'ETAN:  When we return from this mission there will be need for a new Second. I will recommend you to the Vorta.</td></tr>
 
-  O'BRIEN
-     Now what?
+<tr id="L304"><td><a href="#L304">304</a></td><td>LAMAT'UKAN:  You will not be disappointed.</td></tr>
 
-  DAX
-     Now we wait until someone walks out that door.
+<tr id="L305"><td><a href="#L305">305</a></td><td>KUDAK'ETAN:  I'm sure that I won't. It'll be Alphas like us that determine the future of this quadrant. That will be the new order of things.</td></tr>
 
+<tr id="L306"><td><a href="#L306">306</a></td><td>ANNOTATION: Rubicon is sitting on the ceiling, upside down to us.</td></tr>
 
-LOCATION--Engine room
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L307"><td><a href="#L307">307</a></td><td>O'BRIEN:  Looks like we need another ticket into the bridge.</td></tr>
 
-  IXTANA'RAX
-     Sixth!
+<tr id="L308"><td><a href="#L308">308</a></td><td>BASHIR:  So how long do we wait for someone to open the door?</td></tr>
 
-  SIXTH
-     Yes, Second.
+<tr id="L309"><td><a href="#L309">309</a></td><td>DAX:  We don't.</td></tr>
 
-  IXTANA'RAX
-     Relieve the Klingon. Take over the repair of the
-     display subsystem.
+<tr><td></td><td>LOCATION--Engine room</td></tr>
+<tr id="L310"><td><a href="#L310">310</a></td><td>WORF:  I cannot access the autodestruct system without drawing attention.</td></tr>
 
-  SIXTH
-     Immediately, Second.
+<tr id="L311"><td><a href="#L311">311</a></td><td>SISKO:  Plant a computer virus in the warp plasma subprocessor. Set it to cause a core breach once the ship reaches warp one.</td></tr>
 
-  IXTANA'RAX
-     Give the Klingon another task.
+<tr id="L312"><td><a href="#L312">312</a></td><td>WORF:  Understood.</td></tr>
 
-  SISKO
-     Why?
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L313"><td><a href="#L313">313</a></td><td>ANNOTATION: They are hovering by the Bridge door control panel</td></tr>
 
-  IXTANA'RAX
-     Because I said so.
+<tr id="L314"><td><a href="#L314">314</a></td><td>O'BRIEN:  Don't hit it too hard. It could shatter the control panel.</td></tr>
 
-  ANNOTATION
-     The door opens.
+<tr id="L315"><td><a href="#L315">315</a></td><td>DAX:  Don't worry. I have a light touch.</td></tr>
 
-  KUDAK'ETAN
-     Why is the warp drive not online yet?
+<tr id="L316"><td><a href="#L316">316</a></td><td>BASHIR:  Not according to Worf. (get a Look) What?</td></tr>
 
-  IXTANA'RAX
-     He's stalling.
+<tr id="L317"><td><a href="#L317">317</a></td><td>ANNOTATION: Rubicon taps panel key 51 twice.</td></tr>
 
-  SISKO
-     Stalling? Your Second is the one who's slowing
-     down the work. He countermands my orders,
-     arbitrarily reassigns my crew. I can't get any
-     work done in here.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L318"><td><a href="#L318">318</a></td><td>ANNOTATION: The door opens but no one comes in. A Jem'Hadar investigates and Rubicon comes in and hides under a console.</td></tr>
 
-  KUDAK'ETAN
-     You were told to watch them, not to interfere with
-     them.
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L319"><td><a href="#L319">319</a></td><td>O'BRIEN:  Well we certainly can't release the control lock while the First has his hand on it.</td></tr>
 
-  IXTANA'RAX
-     You're playing right into his hands. Don't you see
-     that?
+<tr id="L320"><td><a href="#L320">320</a></td><td>DAX:  Can we bypass it?</td></tr>
 
-  KUDAK'ETAN
-     Captain Sisko, you have thirty minutes to restore
-     warp power, or I will kill her, (Kira) and another
-     of your crew every fifteen minutes until you do.
-     And you, Second, will no longer interfere with
-     their work.
+<tr id="L321"><td><a href="#L321">321</a></td><td>O'BRIEN:  I suppose I could reroute the encryption subprocessors manually.</td></tr>
 
+<tr id="L322"><td><a href="#L322">322</a></td><td>DAX:  But?</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr id="L323"><td><a href="#L323">323</a></td><td>O'BRIEN:  But I'd have to leave the ship to do it. And I have to say I'm not fond of the idea. I can think of about a thousand ways a one centimetre man could get fried walking around inside a circuit housing.</td></tr>
 
-  DAX
-     Get ready. When he activates the door sensor,
-     we'll
+<tr id="L324"><td><a href="#L324">324</a></td><td>BASHIR:  Relax, Miles. You wouldn't be able go out there even if you wanted to. You wouldn't be able to breathe. The oxygen molecules outside are almost two thousand times larger than anything your haemoglobin could assimilate. You'd suffocate.</td></tr>
 
-  ANNOTATION
-     Do a bit of dodging as someone picks up tools
-     right next to them. Kudak'Etan leaves and Rubicon
-     slides sideways through the gap just before the
-     door closes.
+<tr id="L325"><td><a href="#L325">325</a></td><td>O'BRIEN:  Well, that takes care of that idea.</td></tr>
 
-  BASHIR
-     Nice bit of piloting.
+<tr id="L326"><td><a href="#L326">326</a></td><td>DAX:  Unless. Circuit housings are airtight. I could beam a bubble of compressed air ahead of you and it would expand to fill the housing.</td></tr>
 
-  DAX
-     If you liked that, you're going to love what's
-     coming up next.
+<tr id="L327"><td><a href="#L327">327</a></td><td>BASHIR:  It should work. The air would be thin, but you'd be able to breathe for about twenty minutes.</td></tr>
 
+<tr id="L328"><td><a href="#L328">328</a></td><td>O'BRIEN:  And then?</td></tr>
 
-LOCATION--Engine room
+<tr id="L329"><td><a href="#L329">329</a></td><td>BASHIR:  You'd pass out.</td></tr>
 
-  ANNOTATION
-     Sisko has just run a gizmo over a circuit board.
-     Worf is by a display panel. Nog is round a corner
-     working a PADD.
+<tr id="L330"><td><a href="#L330">330</a></td><td>O'BRIEN:  We'd pass out. You're coming with me.</td></tr>
 
-  SISKO
-     Any luck, Ensign?
+<tr><td></td><td>LOCATION--Optronic circuitry</td></tr>
+<tr id="L331"><td><a href="#L331">331</a></td><td>ANNOTATION: Two little figures beam in amongst a colourful forest of circuit chips.</td></tr>
 
-  NOG
-     Not yet, sir. The system's always three steps
-     ahead of me. Every time I get past the primary
-     security net, the secondary always kicks me back
-     out and the codes are all reset, and I have to
-     start all over again. (beep) Like that. Do you
-     have a backup plan in case this doesn't work?
+<tr id="L332"><td><a href="#L332">332</a></td><td>O'BRIEN:  This might take longer than I thought.</td></tr>
 
-  SISKO
-     Yes. I'll destroy the ship.
+<tr id="L333"><td><a href="#L333">333</a></td><td>ANNOTATION: He consults a PADD.</td></tr>
 
-  NOG
-     There are still a few algorithms I haven't tried
-     yet.
+<tr id="L334"><td><a href="#L334">334</a></td><td>O'BRIEN:  All right. If we beamed into the primary safeties junction, we should see a cluster of heuristic subprocessors next to a rectilinear expansion module. The question is, what does a rectilinear expansion module look like when you're one centimetre tall?</td></tr>
 
-  ANNOTATION
-     A Jem'Hadar hands Kira a tool.
+<tr id="L335"><td><a href="#L335">335</a></td><td>BASHIR:  What? I haven't the faintest idea, but it's amazing. It's like we're in the middle of an optronic forest.</td></tr>
 
-  KIRA
-     Thanks. All right, I'm ready to connect the
-     deuterium injector. Go to the plasma relay and
-     power it up, but slowly just like I showed you.
+<tr id="L336"><td><a href="#L336">336</a></td><td>O'BRIEN:  Looks like we need to go. Julian, stop!</td></tr>
 
-  ANNOTATION
-     The Jem'Hadar bows and moves away. Sisko comes
-     over.
+<tr id="L337"><td><a href="#L337">337</a></td><td>ANNOTATION: Bashir is about to sit down.</td></tr>
 
-  KIRA
-     I'm about ten minutes away from initiating the
-     prestart sequence on the warp drive. How's Nog
-     doing?
+<tr id="L338"><td><a href="#L338">338</a></td><td>O'BRIEN:  That chip behind you is carrying twenty microamps of electric current. Now, that's not very much</td></tr>
 
-  SISKO
-     Not good. You'll have to find another problem.
+<tr id="L339"><td><a href="#L339">339</a></td><td>BASHIR:  But it's enough to fry every synapse in my tiny body. Thanks for the tip.</td></tr>
 
-  KIRA
-     (beep) Too fast! Reinitialise the system and start
-     again, but do it at about half the speed this
-     time. He's not stupid. He's already got the entire
-     command and control system committed to memory. I
-     can't keep him fooled forever.
+<tr id="L340"><td><a href="#L340">340</a></td><td>O'BRIEN:  All right, stay right behind me. And don't touch anything without asking.</td></tr>
 
-  SISKO
-     In a battle of wits between you and him, I'll bet
-     on you every time.
+<tr id="L341"><td><a href="#L341">341</a></td><td>BASHIR:  Believe me, I won't.</td></tr>
 
-  KIRA
-     What kind of odds are you giving?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L342"><td><a href="#L342">342</a></td><td>ANNOTATION: Lamat'Ukan enters with the Ketracel White.</td></tr>
 
+<tr id="L343"><td><a href="#L343">343</a></td><td>LAMAT'UKAN:  The White.</td></tr>
 
-LOCATION--Corridor
+<tr id="L344"><td><a href="#L344">344</a></td><td>KUDAK'ETAN:  It is time.</td></tr>
 
-  ANNOTATION
-     Kudak'Etan thinks he can hear something, but can't
-     see it. Rubicon was right behind his head. He goes
-     through another door.
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L345"><td><a href="#L345">345</a></td><td>DAX:  How's it coming, Chief?</td></tr>
 
-  LAMAT'UKAN
-     First? I've realigned the targeting sensors. There
-     were errors in the tracking subroutines.
+<tr><td></td><td>LOCATION--Optronic circuitry</td></tr>
+<tr id="L346"><td><a href="#L346">346</a></td><td>BASHIR:  We're making progress. Aren't we, Chief?</td></tr>
 
-  KUDAK'ETAN
-     You were not ordered to check the targeting
-     sensors.
+<tr id="L347"><td><a href="#L347">347</a></td><td>O'BRIEN:  I'm still trying to locate the security protocol interlink. Shouldn't take much longer.</td></tr>
 
-  LAMAT'UKAN
-     Well, I thought it a wise precaution in case we
-     encountered an enemy ship on our way home.
+<tr id="L348"><td><a href="#L348">348</a></td><td>DAX [OC]:  Well</td></tr>
 
-  KUDAK'ETAN
-     Your initiative pleases me. It's a trait that the
-     Gammas lack.
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L349"><td><a href="#L349">349</a></td><td>DAX:  The sooner the better. Things are getting a little crowded up here.</td></tr>
 
-  LAMAT'UKAN
-     Well, the Gammas have many flaws.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L350"><td><a href="#L350">350</a></td><td>ANNOTATION: The First opens the box and hands out the vials without ceremony.</td></tr>
 
-  KUDAK'ETAN
-     When we return from this mission there will be
-     need for a new Second. I will recommend you to the
-     Vorta.
+<tr id="L351"><td><a href="#L351">351</a></td><td>LAMAT'UKAN:  We pledge our loyalties to the Founders from this</td></tr>
 
-  LAMAT'UKAN
-     You will not be disappointed.
+<tr id="L352"><td><a href="#L352">352</a></td><td>KUDAK'ETAN:  Pah. We're all Alphas here. Our loyalty is demonstrated by our actions, not our words.</td></tr>
 
-  KUDAK'ETAN
-     I'm sure that I won't. It'll be Alphas like us
-     that determine the future of this quadrant. That
-     will be the new order of things.
+<tr><td></td><td>LOCATION--Optronic circuitry</td></tr>
+<tr id="L353"><td><a href="#L353">353</a></td><td>O'BRIEN:  All right. Now</td></tr>
 
-  ANNOTATION
-     Rubicon is sitting on the ceiling, upside down to
-     us.
+<tr id="L354"><td><a href="#L354">354</a></td><td>BASHIR:  Miles, we're lost, aren't we?</td></tr>
 
+<tr id="L355"><td><a href="#L355">355</a></td><td>O'BRIEN:  Yes, we're lost! I can draw these circuits in my sleep. I've just never seen them from this perspective.</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr id="L356"><td><a href="#L356">356</a></td><td>BASHIR:  Disorientation is one of the effects of hypoxia, lack of oxygen. Need to focus on a landmark. There. That large isolinear chip, number five eight nine six six stroke delta. What is it?</td></tr>
 
-  O'BRIEN
-     Looks like we need another ticket into the bridge.
+<tr id="L357"><td><a href="#L357">357</a></td><td>O'BRIEN:  Julian, there are two dozen six six delta's in the asymmetric encryption circuits alone.</td></tr>
 
-  BASHIR
-     So how long do we wait for someone to open the
-     door?
+<tr id="L358"><td><a href="#L358">358</a></td><td>BASHIR:  All right, then what's this here at it's base?</td></tr>
 
-  DAX
-     We don't.
+<tr id="L359"><td><a href="#L359">359</a></td><td>O'BRIEN:  That's a four way interlink shunt.</td></tr>
 
+<tr id="L360"><td><a href="#L360">360</a></td><td>BASHIR:  So that would mean that this chip is?</td></tr>
 
-LOCATION--Engine room
+<tr id="L361"><td><a href="#L361">361</a></td><td>O'BRIEN:  I don't know. I told you, they all look the same to me.</td></tr>
 
-  WORF
-     I cannot access the autodestruct system without
-     drawing attention.
+<tr id="L362"><td><a href="#L362">362</a></td><td>BASHIR:  All right, don't look at it.</td></tr>
 
-  SISKO
-     Plant a computer virus in the warp plasma
-     subprocessor. Set it to cause a core breach once
-     the ship reaches warp one.
+<tr id="L363"><td><a href="#L363">363</a></td><td>O'BRIEN:  What?</td></tr>
 
-  WORF
-     Understood.
+<tr id="L364"><td><a href="#L364">364</a></td><td>BASHIR:  Close your eyes, use your memory. Okay. There's a four way shunt at the base of a eight five nine six six stroke delta isolinear chip, which is where?</td></tr>
 
+<tr id="L365"><td><a href="#L365">365</a></td><td>O'BRIEN:  The only four way shunt near a six six delta is at the base of the master differential relay. That's got to be it.</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr id="L366"><td><a href="#L366">366</a></td><td>BASHIR:  So the interlink we want has to be?</td></tr>
 
-  ANNOTATION
-     They are hovering by the Bridge door control panel
+<tr id="L367"><td><a href="#L367">367</a></td><td>O'BRIEN:  That way.</td></tr>
 
-  O'BRIEN
-     Don't hit it too hard. It could shatter the
-     control panel.
+<tr><td></td><td>LOCATION--Engine room</td></tr>
+<tr id="L368"><td><a href="#L368">368</a></td><td>SISKO:  We've got trouble. They're cross-checking the diagnostic protocols.</td></tr>
 
-  DAX
-     Don't worry. I have a light touch.
+<tr id="L369"><td><a href="#L369">369</a></td><td>KIRA:  Has Nog made any progress?</td></tr>
 
-  BASHIR
-     Not according to Worf. (get a Look) What?
+<tr id="L370"><td><a href="#L370">370</a></td><td>SISKO:  Not yet.</td></tr>
 
-  ANNOTATION
-     Rubicon taps panel key 51 twice.
+<tr><td></td><td>LOCATION--Optronic circuitry</td></tr>
+<tr id="L371"><td><a href="#L371">371</a></td><td>ANNOTATION: O'Brien heaves a cable into a socket. Bashir is trying to force another one.</td></tr>
 
+<tr id="L372"><td><a href="#L372">372</a></td><td>BASHIR:  It's stuck.</td></tr>
 
-LOCATION--Bridge
+<tr id="L373"><td><a href="#L373">373</a></td><td>ANNOTATION: O'Brien helps him pull it out. They're gasping for air.</td></tr>
 
-  ANNOTATION
-     The door opens but no one comes in. A Jem'Hadar
-     investigates and Rubicon comes in and hides under
-     a console.
+<tr id="L374"><td><a href="#L374">374</a></td><td>BASHIR:  Which one?</td></tr>
 
+<tr id="L375"><td><a href="#L375">375</a></td><td>O'BRIEN:  That one. No, no, no. That one.</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr id="L376"><td><a href="#L376">376</a></td><td>BASHIR:  You sure?</td></tr>
 
-  O'BRIEN
-     Well we certainly can't release the control lock
-     while the First has his hand on it.
+<tr id="L377"><td><a href="#L377">377</a></td><td>ANNOTATION: Bashir puts the cable from R8-773 into a socket by his head. It falls out.</td></tr>
 
-  DAX
-     Can we bypass it?
+<tr id="L378"><td><a href="#L378">378</a></td><td>O'BRIEN:  Again. Julian.</td></tr>
 
-  O'BRIEN
-     I suppose I could reroute the encryption
-     subprocessors manually.
+<tr id="L379"><td><a href="#L379">379</a></td><td>ANNOTATION: O'Brien uses his phaser to spot weld it in place.</td></tr>
 
-  DAX
-     But?
+<tr id="L380"><td><a href="#L380">380</a></td><td>O'BRIEN:  (gasps) Rubicon. Mission complete.</td></tr>
 
-  O'BRIEN
-     But I'd have to leave the ship to do it. And I
-     have to say I'm not fond of the idea. I can think
-     of about a thousand ways a one centimetre man
-     could get fried walking around inside a circuit
-     housing.
+<tr><td></td><td>LOCATION--Engine room</td></tr>
+<tr id="L381"><td><a href="#L381">381</a></td><td>NOG:  Oh, I am good.</td></tr>
 
-  BASHIR
-     Relax, Miles. You wouldn't be able go out there
-     even if you wanted to. You wouldn't be able to
-     breathe. The oxygen molecules outside are almost
-     two thousand times larger than anything your
-     haemoglobin could assimilate. You'd suffocate.
+<tr id="L382"><td><a href="#L382">382</a></td><td>ANNOTATION: A Jem'Hadar grabs him.</td></tr>
 
-  O'BRIEN
-     Well, that takes care of that idea.
+<tr id="L383"><td><a href="#L383">383</a></td><td>JEM'HADAR:  Come with me.</td></tr>
 
-  DAX
-     Unless. Circuit housings are airtight. I could
-     beam a bubble of compressed air ahead of you and
-     it would expand to fill the housing.
+<tr id="L384"><td><a href="#L384">384</a></td><td>IXTANA'RAX:  All of you, step away from the consoles. Right now!</td></tr>
 
-  BASHIR
-     It should work. The air would be thin, but you'd
-     be able to breathe for about twenty minutes.
+<tr id="L385"><td><a href="#L385">385</a></td><td>NOG:  Captain. I did it. I don't know how, but I released the command codes.</td></tr>
 
-  O'BRIEN
-     And then?
+<tr id="L386"><td><a href="#L386">386</a></td><td>SISKO:  Well done. What we need now is a diversion before they go to warp.</td></tr>
 
-  BASHIR
-     You'd pass out.
+<tr id="L387"><td><a href="#L387">387</a></td><td>IXTANA'RAX:  Silence!</td></tr>
 
-  O'BRIEN
-     We'd pass out. You're coming with me.
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L388"><td><a href="#L388">388</a></td><td>O'BRIEN:  All the Defiant's command functions have been transferred to Engineering. But nothing's happening.</td></tr>
 
+<tr id="L389"><td><a href="#L389">389</a></td><td>BASHIR:  Maybe the Captain doesn't realise he has control of the ship yet.</td></tr>
 
-LOCATION--Optronic circuitry
+<tr id="L390"><td><a href="#L390">390</a></td><td>DAX:  Or maybe he's in trouble. The First was called to the engine room a few minutes ago.</td></tr>
 
-  ANNOTATION
-     Two little figures beam in amongst a colourful
-     forest of circuit chips.
+<tr><td></td><td>LOCATION--Engine room</td></tr>
+<tr id="L391"><td><a href="#L391">391</a></td><td>KUDAK'ETAN:  How long has the warp drive been repaired?</td></tr>
 
-  O'BRIEN
-     This might take longer than I thought.
+<tr id="L392"><td><a href="#L392">392</a></td><td>IXTANA'RAX:  At least one hour, maybe longer.</td></tr>
 
-  ANNOTATION
-     He consults a PADD.
+<tr id="L393"><td><a href="#L393">393</a></td><td>KUDAK'ETAN:  And they managed to conceal it from you?</td></tr>
 
-  O'BRIEN
-     All right. If we beamed into the primary safeties
-     junction, we should see a cluster of heuristic
-     subprocessors next to a rectilinear expansion
-     module. The question is, what does a rectilinear
-     expansion module look like when you're one
-     centimetre tall?
+<tr id="L394"><td><a href="#L394">394</a></td><td>IXTANA'RAX:  You ordered me not to interfere with them.</td></tr>
 
-  BASHIR
-     What? I haven't the faintest idea, but it's
-     amazing. It's like we're in the middle of an
-     optronic forest.
+<tr id="L395"><td><a href="#L395">395</a></td><td>KUDAK'ETAN:  I also told you to watch them carefully.</td></tr>
 
-  O'BRIEN
-     Looks like we need to go. Julian, stop!
+<tr id="L396"><td><a href="#L396">396</a></td><td>IXTANA'RAX:  If we had assigned Jem'Hadar to do the repair, as I said</td></tr>
 
-  ANNOTATION
-     Bashir is about to sit down.
+<tr id="L397"><td><a href="#L397">397</a></td><td>KUDAK'ETAN:  I am not interested in your excuses. Bring the warp drive online.</td></tr>
 
-  O'BRIEN
-     That chip behind you is carrying twenty microamps
-     of electric current. Now, that's not very much
+<tr id="L398"><td><a href="#L398">398</a></td><td>IXTANA'RAX:  Wait! Before we activate the warp drive we should check the entire system for possible sabotage.</td></tr>
 
-  BASHIR
-     But it's enough to fry every synapse in my tiny
-     body. Thanks for the tip.
+<tr id="L399"><td><a href="#L399">399</a></td><td>KUDAK'ETAN:  That would take hours. Every minute we spend in Federation space exposes us to detection and attack. And I would hate for your last mission to end in failure, Elder. Do it. And when you have sufficient engine power available, bring us to warp four.</td></tr>
 
-  O'BRIEN
-     All right, stay right behind me. And don't touch
-     anything without asking.
+<tr id="L400"><td><a href="#L400">400</a></td><td>KIRA:  At least we're going to take them with us.</td></tr>
 
-  BASHIR
-     Believe me, I won't.
+<tr id="L401"><td><a href="#L401">401</a></td><td>KUDAK'ETAN:  Secure these four with the other prisoners.</td></tr>
 
+<tr id="L402"><td><a href="#L402">402</a></td><td>ANNOTATION: The door opens and he actually sees Rubicon enter. He fires his weapon and misses, then Rubicon fires a torpedo at a Jem'Hadar and kills him. The rest of the Jem'Hadar are firing as our people dive for cover. Sisko gets to a control panel and starts entering commands.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Runabout Rubicon</td></tr>
+<tr id="L403"><td><a href="#L403">403</a></td><td>O'BRIEN:  Dax, upper rail.</td></tr>
 
-  ANNOTATION
-     Lamat'Ukan enters with the Ketracel White.
+<tr id="L404"><td><a href="#L404">404</a></td><td>DAX:  I've got him.</td></tr>
 
-  LAMAT'UKAN
-     The White.
+<tr id="L405"><td><a href="#L405">405</a></td><td>ANNOTATION: It's a miss. Kira gets a weapon from the corpse and Work breaks Kudak'Etan's neck. Nog tries to take on another, but gets thrown into a corner. Worf and a Jem'Hadar wrestle as the one on the upper level fires at Sisko, who moves to another panel. </td></tr>
 
-  KUDAK'ETAN
-     It is time.
+<tr id="L406"><td><a href="#L406">406</a></td><td>DAX:  This guy's really starting to get on my nerves.</td></tr>
 
+<tr id="L407"><td><a href="#L407">407</a></td><td>BASHIR:  I have got torpedo lock.</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr id="L408"><td><a href="#L408">408</a></td><td>DAX:  Fire!</td></tr>
 
-  DAX
-     How's it coming, Chief?
+<tr id="L409"><td><a href="#L409">409</a></td><td>ANNOTATION: The Jem'Hadar falls over the rail. Kira shoots Ixtana'Rax then the one who is attacking Sisko, and Worf disposes of the last one.</td></tr>
 
+<tr id="L410"><td><a href="#L410">410</a></td><td>SISKO:  I'm flooding all compartments except the engine room with anesthesine gas. Major, get that virus out of the computer before somebody on the bridge engages the warp drive.</td></tr>
 
-LOCATION--Optronic circuitry
+<tr id="L411"><td><a href="#L411">411</a></td><td>KIRA:  Aye, sir.</td></tr>
 
-  BASHIR
-     We're making progress. Aren't we, Chief?
+<tr id="L412"><td><a href="#L412">412</a></td><td>SISKO:  He should've listened to you and killed me when he had the chance.</td></tr>
 
-  O'BRIEN
-     I'm still trying to locate the security protocol
-     interlink. Shouldn't take much longer.
+<tr id="L413"><td><a href="#L413">413</a></td><td>IXTANA'RAX:  He was a First. They don't need to listen. Obedience brings Victory and Victory is (dies)</td></tr>
 
-  DAX [OC]
-     Well
+<tr id="L414"><td><a href="#L414">414</a></td><td>ANNOTATION: Rubicon swoops down.</td></tr>
 
+<tr id="L415"><td><a href="#L415">415</a></td><td>SISKO:  Mister Worf, I think your wife is here.</td></tr>
 
-LOCATION--Runabout Rubicon
+<tr id="L416"><td><a href="#L416">416</a></td><td>ANNOTATION: Rubicon hovers in front of Worf and Dax blows him a kiss.</td></tr>
 
-  DAX
-     The sooner the better. Things are getting a little
-     crowded up here.
+<tr id="L417"><td><a href="#L417">417</a></td><td>SOMEONE: Captain's log, supplemental. After completing repairs, we were able to return to the anomaly and successfully restore our runabout and its crew to their normal size. The surviving Jem'Hadar have been transferred to a Federation POW camp.</td></tr>
 
+<tr><td></td><td>LOCATION--Quark's</td></tr>
+<tr id="L418"><td><a href="#L418">418</a></td><td>DAX:  Is that your poem?</td></tr>
 
-LOCATION--Bridge
+<tr id="L419"><td><a href="#L419">419</a></td><td>WORF:  Yes. Bloodwine.</td></tr>
 
-  ANNOTATION
-     The First opens the box and hands out the vials
-     without ceremony.
+<tr id="L420"><td><a href="#L420">420</a></td><td>DAX:  Can I hear it?</td></tr>
 
-  LAMAT'UKAN
-     We pledge our loyalties to the Founders from this
+<tr id="L421"><td><a href="#L421">421</a></td><td>WORF:  It is not finished yet.</td></tr>
 
-  KUDAK'ETAN
-     Pah. We're all Alphas here. Our loyalty is
-     demonstrated by our actions, not our words.
+<tr id="L422"><td><a href="#L422">422</a></td><td>DAX:  Please, just the first line?</td></tr>
 
+<tr id="L423"><td><a href="#L423">423</a></td><td>WORF:  All right. But it is my first poem.</td></tr>
 
-LOCATION--Optronic circuitry
+<tr id="L424"><td><a href="#L424">424</a></td><td>DAX:  I understand.</td></tr>
 
-  O'BRIEN
-     All right. Now
+<tr id="L425"><td><a href="#L425">425</a></td><td>WORF:  And I have worked very hard and very long on this.</td></tr>
 
-  BASHIR
-     Miles, we're lost, aren't we?
+<tr id="L426"><td><a href="#L426">426</a></td><td>DAX:  I know.</td></tr>
 
-  O'BRIEN
-     Yes, we're lost! I can draw these circuits in my
-     sleep. I've just never seen them from this
-     perspective.
+<tr id="L427"><td><a href="#L427">427</a></td><td>WORF:  And I do not wish to be ridiculed.</td></tr>
 
-  BASHIR
-     Disorientation is one of the effects of hypoxia,
-     lack of oxygen. Need to focus on a landmark.
-     There. That large isolinear chip, number five
-     eight nine six six stroke delta. What is it?
+<tr id="L428"><td><a href="#L428">428</a></td><td>DAX:  I promise.</td></tr>
 
-  O'BRIEN
-     Julian, there are two dozen six six delta's in the
-     asymmetric encryption circuits alone.
+<tr id="L429"><td><a href="#L429">429</a></td><td>WORF:  Very well. (declaims) This is the story of a little ship that took a little trip. What do you think?</td></tr>
 
-  BASHIR
-     All right, then what's this here at it's base?
+<tr id="L430"><td><a href="#L430">430</a></td><td>DAX:  It's, er, well, it rhymes. (takes the PADD) There's nothing on this PADD!</td></tr>
 
-  O'BRIEN
-     That's a four way interlink shunt.
+<tr id="L431"><td><a href="#L431">431</a></td><td>ANNOTATION: Odo enters and walks over to the bar where O'Brien and Bashir are talking to Morn and a dabo girl.</td></tr>
 
-  BASHIR
-     So that would mean that this chip is?
+<tr id="L432"><td><a href="#L432">432</a></td><td>BASHIR:  We were just minding our own business when suddenly, right there in front of us, was this immense Jem'Hadar.</td></tr>
 
-  O'BRIEN
-     I don't know. I told you, they all look the same
-     to me.
+<tr id="L433"><td><a href="#L433">433</a></td><td>O'BRIEN:  He looked as tall as a Seltan carnosaur. We were so close, you could see the veins throbbing in his eyeballs. We swung around and ducked behind the operations console. I knew we had to do was get our sensors back online if we were going to be any help to the Captain and the others. So I said to Julian</td></tr>
 
-  BASHIR
-     All right, don't look at it.
+<tr id="L434"><td><a href="#L434">434</a></td><td>BASHIR:  Is there something wrong?</td></tr>
 
-  O'BRIEN
-     What?
+<tr id="L435"><td><a href="#L435">435</a></td><td>ODO:  Are you sure you've returned to your normal size?</td></tr>
 
-  BASHIR
-     Close your eyes, use your memory. Okay. There's a
-     four way shunt at the base of a eight five nine
-     six six stroke delta isolinear chip, which is
-     where?
+<tr id="L436"><td><a href="#L436">436</a></td><td>O'BRIEN:  Of course.</td></tr>
 
-  O'BRIEN
-     The only four way shunt near a six six delta is at
-     the base of the master differential relay. That's
-     got to be it.
+<tr id="L437"><td><a href="#L437">437</a></td><td>BASHIR:  Why?</td></tr>
 
-  BASHIR
-     So the interlink we want has to be?
+<tr id="L438"><td><a href="#L438">438</a></td><td>ODO:  Well, you both appear to be a couple of centimetres shorter than you were the last time I saw you. A changeling notices that sort of thing.</td></tr>
 
-  O'BRIEN
-     That way.
+<tr id="L439"><td><a href="#L439">439</a></td><td>ANNOTATION: The dabo girl stands up straight. She is very tall.</td></tr>
 
+<tr id="L440"><td><a href="#L440">440</a></td><td>QUARK:  I didn't want to say anything, but you do look a little on the petite side.</td></tr>
 
-LOCATION--Engine room
+<tr id="L441"><td><a href="#L441">441</a></td><td>BASHIR:  Infirmary.</td></tr>
 
-  SISKO
-     We've got trouble. They're cross-checking the
-     diagnostic protocols.
+<tr id="L442"><td><a href="#L442">442</a></td><td>ANNOTATION: Bashir and O'Brien leave quickly, and Odo and Quark step down from a small platform.</td></tr>
 
-  KIRA
-     Has Nog made any progress?
+<tr id="L443"><td><a href="#L443">443</a></td><td>QUARK:  And they say you don't have a sense of humour.</td></tr>
 
-  SISKO
-     Not yet.
-
-
-LOCATION--Optronic circuitry
-
-  ANNOTATION
-     O'Brien heaves a cable into a socket. Bashir is
-     trying to force another one.
-
-  BASHIR
-     It's stuck.
-
-  ANNOTATION
-     O'Brien helps him pull it out. They're gasping for
-     air.
-
-  BASHIR
-     Which one?
-
-  O'BRIEN
-     That one. No, no, no. That one.
-
-  BASHIR
-     You sure?
-
-  ANNOTATION
-     Bashir puts the cable from R8-773 into a socket by
-     his head. It falls out.
-
-  O'BRIEN
-     Again. Julian.
-
-  ANNOTATION
-     O'Brien uses his phaser to spot weld it in place.
-
-  O'BRIEN
-     (gasps) Rubicon. Mission complete.
-
-
-LOCATION--Engine room
-
-  NOG
-     Oh, I am good.
-
-  ANNOTATION
-     A Jem'Hadar grabs him.
-
-  JEM'HADAR
-     Come with me.
-
-  IXTANA'RAX
-     All of you, step away from the consoles. Right
-     now!
-
-  NOG
-     Captain. I did it. I don't know how, but I
-     released the command codes.
-
-  SISKO
-     Well done. What we need now is a diversion before
-     they go to warp.
-
-  IXTANA'RAX
-     Silence!
-
-
-LOCATION--Runabout Rubicon
-
-  O'BRIEN
-     All the Defiant's command functions have been
-     transferred to Engineering. But nothing's
-     happening.
-
-  BASHIR
-     Maybe the Captain doesn't realise he has control
-     of the ship yet.
-
-  DAX
-     Or maybe he's in trouble. The First was called to
-     the engine room a few minutes ago.
-
-
-LOCATION--Engine room
-
-  KUDAK'ETAN
-     How long has the warp drive been repaired?
-
-  IXTANA'RAX
-     At least one hour, maybe longer.
-
-  KUDAK'ETAN
-     And they managed to conceal it from you?
-
-  IXTANA'RAX
-     You ordered me not to interfere with them.
-
-  KUDAK'ETAN
-     I also told you to watch them carefully.
-
-  IXTANA'RAX
-     If we had assigned Jem'Hadar to do the repair, as
-     I said
-
-  KUDAK'ETAN
-     I am not interested in your excuses. Bring the
-     warp drive online.
-
-  IXTANA'RAX
-     Wait! Before we activate the warp drive we should
-     check the entire system for possible sabotage.
-
-  KUDAK'ETAN
-     That would take hours. Every minute we spend in
-     Federation space exposes us to detection and
-     attack. And I would hate for your last mission to
-     end in failure, Elder. Do it. And when you have
-     sufficient engine power available, bring us to
-     warp four.
-
-  KIRA
-     At least we're going to take them with us.
-
-  KUDAK'ETAN
-     Secure these four with the other prisoners.
-
-  ANNOTATION
-     The door opens and he actually sees Rubicon enter.
-     He fires his weapon and misses, then Rubicon fires
-     a torpedo at a Jem'Hadar and kills him. The rest
-     of the Jem'Hadar are firing as our people dive for
-     cover. Sisko gets to a control panel and starts
-     entering commands.
-
-
-LOCATION--Runabout Rubicon
-
-  O'BRIEN
-     Dax, upper rail.
-
-  DAX
-     I've got him.
-
-  ANNOTATION
-     It's a miss. Kira gets a weapon from the corpse
-     and Work breaks Kudak'Etan's neck. Nog tries to
-     take on another, but gets thrown into a corner.
-     Worf and a Jem'Hadar wrestle as the one on the
-     upper level fires at Sisko, who moves to another
-     panel.
-
-  DAX
-     This guy's really starting to get on my nerves.
-
-  BASHIR
-     I have got torpedo lock.
-
-  DAX
-     Fire!
-
-  ANNOTATION
-     The Jem'Hadar falls over the rail. Kira shoots
-     Ixtana'Rax then the one who is attacking Sisko,
-     and Worf disposes of the last one.
-
-  SISKO
-     I'm flooding all compartments except the engine
-     room with anesthesine gas. Major, get that virus
-     out of the computer before somebody on the bridge
-     engages the warp drive.
-
-  KIRA
-     Aye, sir.
-
-  SISKO
-     He should've listened to you and killed me when he
-     had the chance.
-
-  IXTANA'RAX
-     He was a First. They don't need to listen.
-     Obedience brings Victory and Victory is (dies)
-
-  ANNOTATION
-     Rubicon swoops down.
-
-  SISKO
-     Mister Worf, I think your wife is here.
-
-  ANNOTATION
-     Rubicon hovers in front of Worf and Dax blows him
-     a kiss.
-
-  SOMEONE
-     Captain's log, supplemental. After completing
-     repairs, we were able to return to the anomaly and
-     successfully restore our runabout and its crew to
-     their normal size. The surviving Jem'Hadar have
-     been transferred to a Federation POW camp.
-
-
-LOCATION--Quark's
-
-  DAX
-     Is that your poem?
-
-  WORF
-     Yes. Bloodwine.
-
-  DAX
-     Can I hear it?
-
-  WORF
-     It is not finished yet.
-
-  DAX
-     Please, just the first line?
-
-  WORF
-     All right. But it is my first poem.
-
-  DAX
-     I understand.
-
-  WORF
-     And I have worked very hard and very long on this.
-
-  DAX
-     I know.
-
-  WORF
-     And I do not wish to be ridiculed.
-
-  DAX
-     I promise.
-
-  WORF
-     Very well. (declaims) This is the story of a
-     little ship that took a little trip. What do you
-     think?
-
-  DAX
-     It's, er, well, it rhymes. (takes the PADD)
-     There's nothing on this PADD!
-
-  ANNOTATION
-     Odo enters and walks over to the bar where O'Brien
-     and Bashir are talking to Morn and a dabo girl.
-
-  BASHIR
-     We were just minding our own business when
-     suddenly, right there in front of us, was this
-     immense Jem'Hadar.
-
-  O'BRIEN
-     He looked as tall as a Seltan carnosaur. We were
-     so close, you could see the veins throbbing in his
-     eyeballs. We swung around and ducked behind the
-     operations console. I knew we had to do was get
-     our sensors back online if we were going to be any
-     help to the Captain and the others. So I said to
-     Julian
-
-  BASHIR
-     Is there something wrong?
-
-  ODO
-     Are you sure you've returned to your normal size?
-
-  O'BRIEN
-     Of course.
-
-  BASHIR
-     Why?
-
-  ODO
-     Well, you both appear to be a couple of
-     centimetres shorter than you were the last time I
-     saw you. A changeling notices that sort of thing.
-
-  ANNOTATION
-     The dabo girl stands up straight. She is very
-     tall.
-
-  QUARK
-     I didn't want to say anything, but you do look a
-     little on the petite side.
-
-  BASHIR
-     Infirmary.
-
-  ANNOTATION
-     Bashir and O'Brien leave quickly, and Odo and
-     Quark step down from a small platform.
-
-  QUARK
-     And they say you don't have a sense of humour.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

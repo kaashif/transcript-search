@@ -1,1607 +1,845 @@
-Survival Instinct
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Survival Instinct</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: Birds fly into the air of a purple-skied planet as a small Borg Sphere crashes into a swampy area. Its four survivors clamber from the wreckage.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L2"><td><a href="#L2">2</a></td><td>TWO OF NINE:  Input failure.</td></tr>
 
-  ANNOTATION
-     Birds fly into the air of a purple-skied planet as
-     a small Borg Sphere crashes into a swampy area.
-     Its four survivors clamber from the wreckage.
+<tr id="L3"><td><a href="#L3">3</a></td><td>FOUR OF NINE:  Input failure.</td></tr>
 
-  TWO OF NINE
-     Input failure.
+<tr id="L4"><td><a href="#L4">4</a></td><td>THREE OF NINE:  Input failure.</td></tr>
 
-  FOUR OF NINE
-     Input failure.
+<tr id="L5"><td><a href="#L5">5</a></td><td>SEVEN OF NINE:  Our link to the Collective has been severed. Initiate secondary protocols. The vessel's transwarp chamber is approaching critical pressure. We must evacuate this area.</td></tr>
 
-  THREE OF NINE
-     Input failure.
+<tr id="L6"><td><a href="#L6">6</a></td><td>ALL:  Agreed.</td></tr>
 
-  SEVEN OF NINE
-     Our link to the Collective has been severed.
-     Initiate secondary protocols. The vessel's
-     transwarp chamber is approaching critical
-     pressure. We must evacuate this area.
+<tr id="L7"><td><a href="#L7">7</a></td><td>TWO OF NINE:  No directional coordinates available.</td></tr>
 
-  ALL
-     Agreed.
+<tr id="L8"><td><a href="#L8">8</a></td><td>SEVEN OF NINE:  That way. Bearing three zero one.</td></tr>
 
-  TWO OF NINE
-     No directional coordinates available.
+<tr id="L9"><td><a href="#L9">9</a></td><td>ALL:  Agreed:</td></tr>
 
-  SEVEN OF NINE
-     That way. Bearing three zero one.
+<tr id="L10"><td><a href="#L10">10</a></td><td>SEVEN OF NINE:  Bring that drone.</td></tr>
 
-  ALL
-     Agreed:
+<tr id="L11"><td><a href="#L11">11</a></td><td>Captain's log:  stardate 53049.2. We've docked at the Markonian outpost and agreed to mutual visits, so I'm allowing shore leave to anyone who wants it. Commander Tuvok has objected to taking on too many visitors, but security issues aside, I'm looking forward to a cultural exchange, and making some new friends.</td></tr>
 
-  SEVEN OF NINE
-     Bring that drone.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L12"><td><a href="#L12">12</a></td><td>ANNOTATION: Voyager is docked at a space station or drift. Chakotay carries a strange object with four hinged arms through the bridge, trying not to hit anyone with their tennis racket style ends as they flap around.</td></tr>
 
-  Captain's log
-     stardate 53049.2. We've docked at the Markonian
-     outpost and agreed to mutual visits, so I'm
-     allowing shore leave to anyone who wants it.
-     Commander Tuvok has objected to taking on too many
-     visitors, but security issues aside, I'm looking
-     forward to a cultural exchange, and making some
-     new friends.
+<tr id="L13"><td><a href="#L13">13</a></td><td>CHAKOTAY:  Captain?</td></tr>
 
+<tr id="L14"><td><a href="#L14">14</a></td><td>ANNOTATION: There is a large plant on her desk, others by the window and many more bits and pieces scattered around the room.</td></tr>
 
-LOCATION--Ready room
+<tr id="L15"><td><a href="#L15">15</a></td><td>JANEWAY:  I'll be right with you. The station manager didn't tell me the vines were prehensile. I went to put some water in the pot and it grabbed me.</td></tr>
 
-  ANNOTATION
-     Voyager is docked at a space station or drift.
-     Chakotay carries a strange object with four hinged
-     arms through the bridge, trying not to hit anyone
-     with their tennis racket style ends as they flap
-     around.
+<tr id="L16"><td><a href="#L16">16</a></td><td>CHAKOTAY:  This is a gift from the Kinbori delegation. I don't know its name, only that it's used in one of their sacred games and it's very heavy.</td></tr>
 
-  CHAKOTAY
-     Captain?
+<tr id="L17"><td><a href="#L17">17</a></td><td>JANEWAY:  Put it down anywhere. Thank the Kinbori for me and give them a token of our esteem.</td></tr>
 
-  ANNOTATION
-     There is a large plant on her desk, others by the
-     window and many more bits and pieces scattered
-     around the room.
+<tr id="L18"><td><a href="#L18">18</a></td><td>ANNOTATION: She hands Chakotay a book.</td></tr>
 
-  JANEWAY
-     I'll be right with you. The station manager didn't
-     tell me the vines were prehensile. I went to put
-     some water in the pot and it grabbed me.
+<tr id="L19"><td><a href="#L19">19</a></td><td>CHAKOTAY:  I already gave them a Voyager medallion. They seemed appreciative.</td></tr>
 
-  CHAKOTAY
-     This is a gift from the Kinbori delegation. I
-     don't know its name, only that it's used in one of
-     their sacred games and it's very heavy.
+<tr id="L20"><td><a href="#L20">20</a></td><td>JANEWAY:  Come in. Doesn't it look like Christmas morning in here, Commander?</td></tr>
 
-  JANEWAY
-     Put it down anywhere. Thank the Kinbori for me and
-     give them a token of our esteem.
+<tr id="L21"><td><a href="#L21">21</a></td><td>CHAKOTAY:  You have to admit the generosity of our guests is very impressive.</td></tr>
 
-  ANNOTATION
-     She hands Chakotay a book.
+<tr id="L22"><td><a href="#L22">22</a></td><td>TUVOK:  As is their proclivity for criminal behaviour. This morning's security report.</td></tr>
 
-  CHAKOTAY
-     I already gave them a Voyager medallion. They
-     seemed appreciative.
+<tr id="L23"><td><a href="#L23">23</a></td><td>JANEWAY:  A broken ODN line, some missing personal items, a damaged scanner relay. All in all, not that bad.</td></tr>
 
-  JANEWAY
-     Come in. Doesn't it look like Christmas morning in
-     here, Commander?
+<tr id="L24"><td><a href="#L24">24</a></td><td>TUVOK:  There is a second page to the report.</td></tr>
 
-  CHAKOTAY
-     You have to admit the generosity of our guests is
-     very impressive.
+<tr id="L25"><td><a href="#L25">25</a></td><td>JANEWAY:  Oh. Some of these incidents are a little more serious but, on balance, I still think we did the right thing.</td></tr>
 
-  TUVOK
-     As is their proclivity for criminal behaviour.
-     This morning's security report.
+<tr id="L26"><td><a href="#L26">26</a></td><td>TUVOK:  There is a third page.</td></tr>
 
-  JANEWAY
-     A broken ODN line, some missing personal items, a
-     damaged scanner relay. All in all, not that bad.
+<tr id="L27"><td><a href="#L27">27</a></td><td>CHAKOTAY:  Come on, Tuvok. After all the xenophobic races we've run into, don't you find it just a little refreshing to meet some people who value openness and freedom?</td></tr>
 
-  TUVOK
-     There is a second page to the report.
+<tr id="L28"><td><a href="#L28">28</a></td><td>JANEWAY:  Well as far as I'm concerned, opening the ship has been a fascinating experience and an unqualified success. I'm very pleased.</td></tr>
 
-  JANEWAY
-     Oh. Some of these incidents are a little more
-     serious but, on balance, I still think we did the
-     right thing.
+<tr id="L29"><td><a href="#L29">29</a></td><td>CHAKOTAY:  Me too.</td></tr>
 
-  TUVOK
-     There is a third page.
+<tr id="L30"><td><a href="#L30">30</a></td><td>TUVOK:  I am pleased that you are pleased. If you'll excuse me.</td></tr>
 
-  CHAKOTAY
-     Come on, Tuvok. After all the xenophobic races
-     we've run into, don't you find it just a little
-     refreshing to meet some people who value openness
-     and freedom?
+<tr id="L31"><td><a href="#L31">31</a></td><td>CHAKOTAY:  Tuvok. Please accept this token of our esteem.</td></tr>
 
-  JANEWAY
-     Well as far as I'm concerned, opening the ship has
-     been a fascinating experience and an unqualified
-     success. I'm very pleased.
+<tr id="L32"><td><a href="#L32">32</a></td><td>ANNOTATION: Tuvok declines with a Look and leaves.</td></tr>
 
-  CHAKOTAY
-     Me too.
+<tr id="L33"><td><a href="#L33">33</a></td><td>JANEWAY:  Ooh, ow! It's got me by the hair!</td></tr>
 
-  TUVOK
-     I am pleased that you are pleased. If you'll
-     excuse me.
+<tr><td></td><td>LOCATION--Astrometrics lab</td></tr>
+<tr id="L34"><td><a href="#L34">34</a></td><td>NAOMI:  Now it's twelve forty five.</td></tr>
 
-  CHAKOTAY
-     Tuvok. Please accept this token of our esteem.
+<tr id="L35"><td><a href="#L35">35</a></td><td>SEVEN:  If you're hungry you may eat without me.</td></tr>
 
-  ANNOTATION
-     Tuvok declines with a Look and leaves.
+<tr id="L36"><td><a href="#L36">36</a></td><td>NAOMI:  You said we'd have lunch together.</td></tr>
 
-  JANEWAY
-     Ooh, ow! It's got me by the hair!
+<tr id="L37"><td><a href="#L37">37</a></td><td>SEVEN:  I haven't completed my analysis of the station's power conversion matrix.</td></tr>
 
+<tr id="L38"><td><a href="#L38">38</a></td><td>NAOMI:  How long is it going to take?</td></tr>
 
-LOCATION--Astrometrics lab
+<tr id="L39"><td><a href="#L39">39</a></td><td>SEVEN:  Several hours.</td></tr>
 
-  NAOMI
-     Now it's twelve forty five.
+<tr id="L40"><td><a href="#L40">40</a></td><td>NAOMI:  Seven, you promised.</td></tr>
 
-  SEVEN
-     If you're hungry you may eat without me.
+<tr id="L41"><td><a href="#L41">41</a></td><td>SEVEN:  Very well.</td></tr>
 
-  NAOMI
-     You said we'd have lunch together.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L42"><td><a href="#L42">42</a></td><td>NAOMI:  I think it's even more crowded than this morning.</td></tr>
 
-  SEVEN
-     I haven't completed my analysis of the station's
-     power conversion matrix.
+<tr id="L43"><td><a href="#L43">43</a></td><td>SEVEN:  Yes.</td></tr>
 
-  NAOMI
-     How long is it going to take?
+<tr id="L44"><td><a href="#L44">44</a></td><td>NAOMI:  Excuse us. Excuse us. Please, we're trying to get through to the turbolift. Excuse us.</td></tr>
 
-  SEVEN
-     Several hours.
+<tr id="L45"><td><a href="#L45">45</a></td><td>SEVEN:  Stand aside!</td></tr>
 
-  NAOMI
-     Seven, you promised.
+<tr id="L46"><td><a href="#L46">46</a></td><td>NAOMI:  Thank you.</td></tr>
 
-  SEVEN
-     Very well.
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L47"><td><a href="#L47">47</a></td><td>NEELIX:  I'm sorry, but there's no more Marsupial surprise. We only had two kilos of pouches to begin with, and it's all gone. Now how about some pizza, huh?</td></tr>
 
+<tr id="L48"><td><a href="#L48">48</a></td><td>NAOMI:  She's a Shivolian, right?</td></tr>
 
-LOCATION--Corridor
+<tr id="L49"><td><a href="#L49">49</a></td><td>SEVEN:  Correct.</td></tr>
 
-  NAOMI
-     I think it's even more crowded than this morning.
+<tr id="L50"><td><a href="#L50">50</a></td><td>NAOMI:  Species five two one?</td></tr>
 
-  SEVEN
-     Yes.
+<tr id="L51"><td><a href="#L51">51</a></td><td>SEVEN:  Your mother would not approve of you memorising Borg designations. I don't approve either. We've discussed the impropriety of you emulating the Borg.</td></tr>
 
-  NAOMI
-     Excuse us. Excuse us. Please, we're trying to get
-     through to the turbolift. Excuse us.
+<tr id="L52"><td><a href="#L52">52</a></td><td>NAOMI:  Sorry.</td></tr>
 
-  SEVEN
-     Stand aside!
+<tr id="L53"><td><a href="#L53">53</a></td><td>SEVEN:  I'm finished.</td></tr>
 
-  NAOMI
-     Thank you.
+<tr id="L54"><td><a href="#L54">54</a></td><td>NAOMI:  We just sat down.</td></tr>
 
+<tr id="L55"><td><a href="#L55">55</a></td><td>SEVEN:  I do not enjoy crowds.</td></tr>
 
-LOCATION--Mess hall
+<tr id="L56"><td><a href="#L56">56</a></td><td>NAOMI:  But you were in the Collective. Wasn't that like a big crowd?</td></tr>
 
-  NEELIX
-     I'm sorry, but there's no more Marsupial surprise.
-     We only had two kilos of pouches to begin with,
-     and it's all gone. Now how about some pizza, huh?
+<tr id="L57"><td><a href="#L57">57</a></td><td>SEVEN:  Which is why I do not enjoy them now.</td></tr>
 
-  NAOMI
-     She's a Shivolian, right?
+<tr id="L58"><td><a href="#L58">58</a></td><td>NAOMI:  Oh, I'm sorry, I didn't realise that. Let's go.</td></tr>
 
-  SEVEN
-     Correct.
+<tr id="L59"><td><a href="#L59">59</a></td><td>ANNOTATION: A man with a cross scar below one eye comes up to the table.</td></tr>
 
-  NAOMI
-     Species five two one?
+<tr id="L60"><td><a href="#L60">60</a></td><td>TWO:  Excuse me. Are you Seven of Nine?</td></tr>
 
-  SEVEN
-     Your mother would not approve of you memorising
-     Borg designations. I don't approve either. We've
-     discussed the impropriety of you emulating the
-     Borg.
+<tr id="L61"><td><a href="#L61">61</a></td><td>SEVEN:  Yes.</td></tr>
 
-  NAOMI
-     Sorry.
+<tr id="L62"><td><a href="#L62">62</a></td><td>ANNOTATION: He opens a case. Seven stands and staggers back a couple of steps. She remembers the crash from the teaser.</td></tr>
 
-  SEVEN
-     I'm finished.
+<tr id="L63"><td><a href="#L63">63</a></td><td>NAOMI:  You okay?</td></tr>
 
-  NAOMI
-     We just sat down.
+<tr id="L64"><td><a href="#L64">64</a></td><td>SEVEN:  These are Borg synaptic relays from my original Unimatrix.</td></tr>
 
-  SEVEN
-     I do not enjoy crowds.
+<tr id="L65"><td><a href="#L65">65</a></td><td>NAOMI:  These are yours?</td></tr>
 
-  NAOMI
-     But you were in the Collective. Wasn't that like a
-     big crowd?
+<tr id="L66"><td><a href="#L66">66</a></td><td>SEVEN:  Where did you acquire them?</td></tr>
 
-  SEVEN
-     Which is why I do not enjoy them now.
+<tr id="L67"><td><a href="#L67">67</a></td><td>TWO:  A trader from Orendal Five. I was told you are a former Borg drone and might be interested in acquiring these pieces.</td></tr>
 
-  NAOMI
-     Oh, I'm sorry, I didn't realise that. Let's go.
+<tr id="L68"><td><a href="#L68">68</a></td><td>SEVEN:  I'll take them. Captain Janeway will provide you with whatever monetary reimbursement you require.</td></tr>
 
-  ANNOTATION
-     A man with a cross scar below one eye comes up to
-     the table.
+<tr id="L69"><td><a href="#L69">69</a></td><td>TWO:  Agreed.</td></tr>
 
-  TWO
-     Excuse me. Are you Seven of Nine?
+<tr id="L70"><td><a href="#L70">70</a></td><td>SEVEN:  I must examine these items more closely.</td></tr>
 
-  SEVEN
-     Yes.
+<tr id="L71"><td><a href="#L71">71</a></td><td>NAOMI:  Okay.</td></tr>
 
-  ANNOTATION
-     He opens a case. Seven stands and staggers back a
-     couple of steps. She remembers the crash from the
-     teaser.
+<tr id="L72"><td><a href="#L72">72</a></td><td>ANNOTATION: Seven leaves with the case.</td></tr>
 
-  NAOMI
-     You okay?
+<tr id="L73"><td><a href="#L73">73</a></td><td>NAOMI:  What's your name?</td></tr>
 
-  SEVEN
-     These are Borg synaptic relays from my original
-     Unimatrix.
+<tr id="L74"><td><a href="#L74">74</a></td><td>ANNOTATION: Two walks away.</td></tr>
 
-  NAOMI
-     These are yours?
+<tr id="L75"><td><a href="#L75">75</a></td><td>NAOMI:  That was rude.</td></tr>
 
-  SEVEN
-     Where did you acquire them?
+<tr id="L76"><td><a href="#L76">76</a></td><td>TWO OF NINE [OC]:  Stage two is complete. She has the relays.</td></tr>
 
-  TWO
-     A trader from Orendal Five. I was told you are a
-     former Borg drone and might be interested in
-     acquiring these pieces.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L77"><td><a href="#L77">77</a></td><td>TWO [OC}:  She's going to study them.</td></tr>
 
-  SEVEN
-     I'll take them. Captain Janeway will provide you
-     with whatever monetary reimbursement you require.
+<tr id="L78"><td><a href="#L78">78</a></td><td>ANNOTATION: A woman with no obvious scars receives his message.</td></tr>
 
-  TWO
-     Agreed.
+<tr id="L79"><td><a href="#L79">79</a></td><td>THREE [OC]:  Her regeneration alcove is in Cargo Bay Two.</td></tr>
 
-  SEVEN
-     I must examine these items more closely.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L80"><td><a href="#L80">80</a></td><td>ANNOTATION: A younger man joins the conversation.</td></tr>
 
-  NAOMI
-     Okay.
+<tr id="L81"><td><a href="#L81">81</a></td><td>FOUR [OC]:  That's where she'll go. We should prepare for stage three.</td></tr>
 
-  ANNOTATION
-     Seven leaves with the case.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L82"><td><a href="#L82">82</a></td><td>THREE [OC]:  Agreed.</td></tr>
 
-  NAOMI
-     What's your name?
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L83"><td><a href="#L83">83</a></td><td>TWO [OC]:  There's consensus. Rendezvous at my coordinates and stand by to penetrate their security.</td></tr>
 
-  ANNOTATION
-     Two walks away.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L84"><td><a href="#L84">84</a></td><td>ANNOTATION: Back in the past, items are  being extracted from the dead drone.</td></tr>
 
-  NAOMI
-     That was rude.
+<tr id="L85"><td><a href="#L85">85</a></td><td>FOUR OF NINE:  Error.</td></tr>
 
-  TWO OF NINE [OC]
-     Stage two is complete. She has the relays.
+<tr id="L86"><td><a href="#L86">86</a></td><td>SEVEN OF NINE:  Explain.</td></tr>
 
+<tr id="L87"><td><a href="#L87">87</a></td><td>FOUR OF NINE:  We shouldn't be desecrating the body of this drone. It is against the will of Brothara.</td></tr>
 
-LOCATION--Engineering
+<tr id="L88"><td><a href="#L88">88</a></td><td>THREE OF NINE:  Who is Brothara?</td></tr>
 
-  TWO [OC}
-     She's going to study them.
+<tr id="L89"><td><a href="#L89">89</a></td><td>TWO OF NINE:  Brothara. Supernatural deity worshipped by species five seven one.</td></tr>
 
-  ANNOTATION
-     A woman with no obvious scars receives his
-     message.
+<tr id="L90"><td><a href="#L90">90</a></td><td>FOUR OF NINE:  I am a member of species five seven one.</td></tr>
 
-  THREE [OC]
-     Her regeneration alcove is in Cargo Bay Two.
+<tr id="L91"><td><a href="#L91">91</a></td><td>SEVEN OF NINE:  You're being confused by irrelevant data. Ignore it.</td></tr>
 
+<tr id="L92"><td><a href="#L92">92</a></td><td>THREE OF NINE:  You said I am a member of species five seven one. Do you consider yourself an individual?</td></tr>
 
-LOCATION--Corridor
+<tr id="L93"><td><a href="#L93">93</a></td><td>SEVEN OF NINE:  There are no individuals here. We are Borg.</td></tr>
 
-  ANNOTATION
-     A younger man joins the conversation.
+<tr id="L94"><td><a href="#L94">94</a></td><td>ALL:  Agreed.</td></tr>
 
-  FOUR [OC]
-     That's where she'll go. We should prepare for
-     stage three.
+<tr id="L95"><td><a href="#L95">95</a></td><td>SEVEN OF NINE:  Resume constructing the communications beacon.</td></tr>
 
+<tr id="L96"><td><a href="#L96">96</a></td><td>ANNOTATION: But Four and Two are bothered by this turn of events.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Cargo Bay two</td></tr>
+<tr id="L97"><td><a href="#L97">97</a></td><td>ANNOTATION: Fashion note - this season, Torres has curled her hair.</td></tr>
 
-  THREE [OC]
-     Agreed.
+<tr id="L98"><td><a href="#L98">98</a></td><td>TORRES:  It looks like a standard Borg synaptic relay.</td></tr>
 
+<tr id="L99"><td><a href="#L99">99</a></td><td>SEVEN:  There must be something more. When I first came into contact with it, I was overwhelmed with images, memories, sounds.</td></tr>
 
-LOCATION--Mess hall
+<tr id="L100"><td><a href="#L100">100</a></td><td>TORRES:  Sounds like a perfectly natural reaction to me. That was part your old unimatrix, right? Well, isn't it at least possible that what you experienced was simply nostalgia? You know, sentimental feelings about the past.</td></tr>
 
-  TWO [OC]
-     There's consensus. Rendezvous at my coordinates
-     and stand by to penetrate their security.
+<tr id="L101"><td><a href="#L101">101</a></td><td>SEVEN:  I know what nostalgia is, but I have no feelings about the past.</td></tr>
 
+<tr id="L102"><td><a href="#L102">102</a></td><td>TORRES:  Okay. I think I've done all I can here.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L103"><td><a href="#L103">103</a></td><td>SEVEN:  Lieutenant. You were trying to help. I appreciate that.</td></tr>
 
-  ANNOTATION
-     Back in the past, items are being extracted from
-     the dead drone.
+<tr id="L104"><td><a href="#L104">104</a></td><td>TORRES:  Anytime. Oh, and, er, you may not be nostalgic about the past, but I'd say you definitely have feelings about it. Strong ones.</td></tr>
 
-  FOUR OF NINE
-     Error.
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L105"><td><a href="#L105">105</a></td><td>ANNOTATION: All three ex-Borg are seated at a table.</td></tr>
 
-  SEVEN OF NINE
-     Explain.
+<tr id="L106"><td><a href="#L106">106</a></td><td>TWO [OC]:  Their security protocols are formidable. We may not have enough time.</td></tr>
 
-  FOUR OF NINE
-     We shouldn't be desecrating the body of this
-     drone. It is against the will of Brothara.
+<tr id="L107"><td><a href="#L107">107</a></td><td>FOUR [OC]:  I'm worried about Seven of Nine. We should re-examine the question of simply asking</td></tr>
 
-  THREE OF NINE
-     Who is Brothara?
+<tr id="L108"><td><a href="#L108">108</a></td><td>THREE [OC]:  You know what her reactions will be. She won't help us because she</td></tr>
 
-  TWO OF NINE
-     Brothara. Supernatural deity worshipped by species
-     five seven one.
+<tr id="L109"><td><a href="#L109">109</a></td><td>TWO [OC]:  We've been through all that.</td></tr>
 
-  FOUR OF NINE
-     I am a member of species five seven one.
+<tr id="L110"><td><a href="#L110">110</a></td><td>SOMEONE: FOUR [OC] She could be permanently injured. I don't want to harm her.</td></tr>
 
-  SEVEN OF NINE
-     You're being confused by irrelevant data. Ignore
-     it.
+<tr id="L111"><td><a href="#L111">111</a></td><td>TWO:  Enough!</td></tr>
 
-  THREE OF NINE
-     You said I am a member of species five seven one.
-     Do you consider yourself an individual?
+<tr id="L112"><td><a href="#L112">112</a></td><td>THREE:  I need consensus.</td></tr>
 
-  SEVEN OF NINE
-     There are no individuals here. We are Borg.
+<tr id="L113"><td><a href="#L113">113</a></td><td>TWO:  We can't act without it.</td></tr>
 
-  ALL
-     Agreed.
+<tr id="L114"><td><a href="#L114">114</a></td><td>FOUR:  I know.</td></tr>
 
-  SEVEN OF NINE
-     Resume constructing the communications beacon.
+<tr id="L115"><td><a href="#L115">115</a></td><td>TWO:  So then it's up to you. Do we proceed or not?</td></tr>
 
-  ANNOTATION
-     But Four and Two are bothered by this turn of
-     events.
+<tr id="L116"><td><a href="#L116">116</a></td><td>FOUR:  Yes. We, I apologise for my indecision.</td></tr>
 
+<tr id="L117"><td><a href="#L117">117</a></td><td>THREE:  Apologies are irrelevant.</td></tr>
 
-LOCATION--Cargo Bay two
+<tr><td></td><td>LOCATION--Cargo Bay two</td></tr>
+<tr id="L118"><td><a href="#L118">118</a></td><td>SEVEN:  Computer, begin multi-polar analysis.</td></tr>
 
-  ANNOTATION
-     Fashion note - this season, Torres has curled her
-     hair.
+<tr id="L119"><td><a href="#L119">119</a></td><td>COMPUTER:  Analysis underway.</td></tr>
 
-  TORRES
-     It looks like a standard Borg synaptic relay.
+<tr id="L120"><td><a href="#L120">120</a></td><td>SEVEN:  Time to completion?</td></tr>
 
-  SEVEN
-     There must be something more. When I first came
-     into contact with it, I was overwhelmed with
-     images, memories, sounds.
+<tr id="L121"><td><a href="#L121">121</a></td><td>COMPUTER:  Five hours, seventeen minutes.</td></tr>
 
-  TORRES
-     Sounds like a perfectly natural reaction to me.
-     That was part your old unimatrix, right? Well,
-     isn't it at least possible that what you
-     experienced was simply nostalgia? You know,
-     sentimental feelings about the past.
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L122"><td><a href="#L122">122</a></td><td>TWO:  She's regenerating.</td></tr>
 
-  SEVEN
-     I know what nostalgia is, but I have no feelings
-     about the past.
+<tr id="L123"><td><a href="#L123">123</a></td><td>THREE:  Begin rerouting their internal sensors.</td></tr>
 
-  TORRES
-     Okay. I think I've done all I can here.
+<tr id="L124"><td><a href="#L124">124</a></td><td>FOUR [OC]:  Rerouting sensor input to secondary processors.</td></tr>
 
-  SEVEN
-     Lieutenant. You were trying to help. I appreciate
-     that.
+<tr id="L125"><td><a href="#L125">125</a></td><td>ANNOTATION: On the bridge, Tuvok detects something going on.</td></tr>
 
-  TORRES
-     Anytime. Oh, and, er, you may not be nostalgic
-     about the past, but I'd say you definitely have
-     feelings about it. Strong ones.
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L126"><td><a href="#L126">126</a></td><td>ANNOTATION: Two, Three and Four are left alone.</td></tr>
 
+<tr id="L127"><td><a href="#L127">127</a></td><td>THREE:  Hold.</td></tr>
 
-LOCATION--Mess hall
+<tr id="L128"><td><a href="#L128">128</a></td><td>ANNOTATION: Two opens the roof hatch.</td></tr>
 
-  ANNOTATION
-     All three ex-Borg are seated at a table.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L129"><td><a href="#L129">129</a></td><td>CHAKOTAY:  What have you got?</td></tr>
 
-  TWO [OC]
-     Their security protocols are formidable. We may
-     not have enough time.
+<tr id="L130"><td><a href="#L130">130</a></td><td>TUVOK:  There's a power fluctuation in the security grid.</td></tr>
 
-  FOUR [OC]
-     I'm worried about Seven of Nine. We should
-     re-examine the question of simply asking
+<tr id="L131"><td><a href="#L131">131</a></td><td>ANNOTATION: Seven's former colleagues make their way through Jefferies tubes to Cargo Bay two. Janeway is called to the bridge.</td></tr>
 
-  THREE [OC]
-     You know what her reactions will be. She won't
-     help us because she
+<tr id="L132"><td><a href="#L132">132</a></td><td>CHAKOTAY:  All we know is that we've got a security breach. We don't know where.</td></tr>
 
-  TWO [OC]
-     We've been through all that.
+<tr><td></td><td>LOCATION--Cargo Bay two</td></tr>
+<tr id="L133"><td><a href="#L133">133</a></td><td>ANNOTATION: Two removes a bandage from his hand and taps the back of it.</td></tr>
 
-  SOMEONE
-     FOUR [OC] She could be permanently injured. I
-     don't want to harm her.
+<tr id="L134"><td><a href="#L134">134</a></td><td>TWO:  Ready. Insert the interlink module.</td></tr>
 
-  TWO
-     Enough!
+<tr id="L135"><td><a href="#L135">135</a></td><td>ANNOTATION: Three removes the module from her leg and attaches it to Seven's regeneration chamber.</td></tr>
 
-  THREE
-     I need consensus.
+<tr id="L136"><td><a href="#L136">136</a></td><td>THREE:  Ready.</td></tr>
 
-  TWO
-     We can't act without it.
+<tr id="L137"><td><a href="#L137">137</a></td><td>ANNOTATION: Four hesitates.</td></tr>
 
-  FOUR
-     I know.
+<tr id="L138"><td><a href="#L138">138</a></td><td>TWO:  He's still worried about injuring her.</td></tr>
 
-  TWO
-     So then it's up to you. Do we proceed or not?
+<tr id="L139"><td><a href="#L139">139</a></td><td>THREE:  If we fail, we'll never become individuals. We have to remember that.</td></tr>
 
-  FOUR
-     Yes. We, I apologise for my indecision.
+<tr id="L140"><td><a href="#L140">140</a></td><td>TWO:  There is consensus. (Two injects his tubules into Seven's neck.)</td></tr>
 
-  THREE
-     Apologies are irrelevant.
+<tr id="L141"><td><a href="#L141">141</a></td><td>TWO:   I've found her memory files.</td></tr>
 
+<tr id="L142"><td><a href="#L142">142</a></td><td>THREE:  She's aware of our presence.</td></tr>
 
-LOCATION--Cargo Bay two
+<tr id="L143"><td><a href="#L143">143</a></td><td>TWO:  She's trying to regain consciousness.</td></tr>
 
-  SEVEN
-     Computer, begin multi-polar analysis.
+<tr id="L144"><td><a href="#L144">144</a></td><td>FOUR:  We must abort.</td></tr>
 
-  COMPUTER
-     Analysis underway.
+<tr id="L145"><td><a href="#L145">145</a></td><td>THREE:  No! We're too close.</td></tr>
 
-  SEVEN
-     Time to completion?
+<tr id="L146"><td><a href="#L146">146</a></td><td>ANNOTATION: Seven wakes.</td></tr>
 
-  COMPUTER
-     Five hours, seventeen minutes.
+<tr id="L147"><td><a href="#L147">147</a></td><td>SEVEN:  I will not comply.</td></tr>
 
+<tr id="L148"><td><a href="#L148">148</a></td><td>ANNOTATION: She knocks Two away, disconnecting him. Tuvok and security run in to stun them with phaser fire.</td></tr>
 
-LOCATION--Mess hall
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L149"><td><a href="#L149">149</a></td><td>ANNOTATION: Nighttime. The Borgs have built a campfire, and Four is roasting a piece of meat from their dead colleague over it. Seven reaches out and warms her hands.</td></tr>
 
-  TWO
-     She's regenerating.
+<tr id="L150"><td><a href="#L150">150</a></td><td>SEVEN OF NINE:  I have performed this action before. I was with my father. He was a tall man.</td></tr>
 
-  THREE
-     Begin rerouting their internal sensors.
+<tr id="L151"><td><a href="#L151">151</a></td><td>TWO OF NINE:  I have a similar memory. But I was in a house and the fire was in the hearth.</td></tr>
 
-  FOUR [OC]
-     Rerouting sensor input to secondary processors.
+<tr id="L152"><td><a href="#L152">152</a></td><td>FOUR OF NINE:  The biomatter is ready.</td></tr>
 
-  ANNOTATION
-     On the bridge, Tuvok detects something going on.
+<tr id="L153"><td><a href="#L153">153</a></td><td>ANNOTATION: They each take a piece.</td></tr>
 
+<tr id="L154"><td><a href="#L154">154</a></td><td>THREE OF NINE:  It tastes similar to a bird I once ate.</td></tr>
 
-LOCATION--Turbolift
+<tr id="L155"><td><a href="#L155">155</a></td><td>FOUR OF NINE:  I used to prepare food for my parents. They lived in a small building by a river.</td></tr>
 
-  ANNOTATION
-     Two, Three and Four are left alone.
+<tr id="L156"><td><a href="#L156">156</a></td><td>SEVEN OF NINE:  I used to be afraid of the dark.</td></tr>
 
-  THREE
-     Hold.
+<tr id="L157"><td><a href="#L157">157</a></td><td>TWO OF NINE:  Just before I was assimilated, I was eating with a group of men. We worked in numbers. Mathematics. I calculated equations for another man.</td></tr>
 
-  ANNOTATION
-     Two opens the roof hatch.
+<tr id="L158"><td><a href="#L158">158</a></td><td>THREE OF NINE:  I have a name. It's Marika. Marika Willkarah. Willkarah.</td></tr>
 
+<tr id="L159"><td><a href="#L159">159</a></td><td>TWO OF NINE:  Hello, Marika Willkarah.</td></tr>
 
-LOCATION--Bridge
+<tr id="L160"><td><a href="#L160">160</a></td><td>SEVEN OF NINE:  Her designation is Three of Nine.</td></tr>
 
-  CHAKOTAY
-     What have you got?
+<tr id="L161"><td><a href="#L161">161</a></td><td>FOUR OF NINE:  I have a name. P'Chan. Son of Dornar and Ansha. My primary function was to care for them.</td></tr>
 
-  TUVOK
-     There's a power fluctuation in the security grid.
+<tr id="L162"><td><a href="#L162">162</a></td><td>THREE OF NINE:  I was married. We were on a starship, the Excalibur. I worked in Engineering.</td></tr>
 
-  ANNOTATION
-     Seven's former colleagues make their way through
-     Jefferies tubes to Cargo Bay two. Janeway is
-     called to the bridge.
+<tr id="L163"><td><a href="#L163">163</a></td><td>TWO OF NINE:  This is not my hand.</td></tr>
 
-  CHAKOTAY
-     All we know is that we've got a security breach.
-     We don't know where.
+<tr id="L164"><td><a href="#L164">164</a></td><td>FOUR OF NINE:  My parents are dead. The Borg killed them. I hate the Borg.</td></tr>
 
+<tr id="L165"><td><a href="#L165">165</a></td><td>SEVEN OF NINE:  This is counterproductive. We must delete all irrelevant data.</td></tr>
 
-LOCATION--Cargo Bay two
+<tr id="L166"><td><a href="#L166">166</a></td><td>TWO OF NINE:  I want my hand back.</td></tr>
 
-  ANNOTATION
-     Two removes a bandage from his hand and taps the
-     back of it.
+<tr id="L167"><td><a href="#L167">167</a></td><td>THREE OF NINE:  I was on duty, the night watch, when the Borg came. Oh, my God, look at what they've done to me. These, these things they put in my body. What have they done?</td></tr>
 
-  TWO
-     Ready. Insert the interlink module.
+<tr id="L168"><td><a href="#L168">168</a></td><td>SEVEN OF NINE:  Command override. Cease this interaction. Comply! We will not access these memory files again. Initiate the prescribed maintenance and survival protocols only. No further communication is required until we are r-assimilated into the Collective.</td></tr>
 
-  ANNOTATION
-     Three removes the module from her leg and attaches
-     it to Seven's regeneration chamber.
+<tr id="L169"><td><a href="#L169">169</a></td><td>TWO OF NINE:  Agreed.</td></tr>
 
-  THREE
-     Ready.
+<tr id="L170"><td><a href="#L170">170</a></td><td>THREE OF NINE:  Agreed.</td></tr>
 
-  ANNOTATION
-     Four hesitates.
+<tr id="L171"><td><a href="#L171">171</a></td><td>FOUR OF NINE:  Agreed.</td></tr>
 
-  TWO
-     He's still worried about injuring her.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L172"><td><a href="#L172">172</a></td><td>ANNOTATION: The three ex-Borg are unconscious on biobeds.</td></tr>
 
-  THREE
-     If we fail, we'll never become individuals. We
-     have to remember that.
+<tr id="L173"><td><a href="#L173">173</a></td><td>EMH:  But whoever removed their implants was a poor surgeon. Their internal organs were damaged during the procedure and their bodies are covered with scars.</td></tr>
 
-  TWO
-     There is consensus. (Two injects his tubules into
-     Seven's neck.)
+<tr id="L174"><td><a href="#L174">174</a></td><td>JANEWAY:  You said you recognised them.</td></tr>
 
-  TWO
-     I've found her memory files.
+<tr id="L175"><td><a href="#L175">175</a></td><td>SEVEN:  Not at first. But when they attempted to access my memory files I was momentarily linked with them. Two of Nine. Three of Nine. Four of Nine. We were all members of the same Unimatrix.</td></tr>
 
-  THREE
-     She's aware of our presence.
+<tr id="L176"><td><a href="#L176">176</a></td><td>JANEWAY:  Do you know why they were trying to access your memories?</td></tr>
 
-  TWO
-     She's trying to regain consciousness.
+<tr id="L177"><td><a href="#L177">177</a></td><td>SEVEN:  No.</td></tr>
 
-  FOUR
-     We must abort.
+<tr id="L178"><td><a href="#L178">178</a></td><td>JANEWAY:  How long have they been disconnected from the Collective?</td></tr>
 
-  THREE
-     No! We're too close.
+<tr id="L179"><td><a href="#L179">179</a></td><td>EMH:  Three or four months. However, they are still connected to each other. Somehow, the left parietal lobes of their brains have been transformed into organic interlink nodes. They've become linked together into a sort of Collective Triad.</td></tr>
 
-  ANNOTATION
-     Seven wakes.
+<tr id="L180"><td><a href="#L180">180</a></td><td>JANEWAY:  Revive them. I'm Captain Janeway. We know who you are and we know what you were trying to do. What we don't know is why.</td></tr>
 
-  SEVEN
-     I will not comply.
+<tr id="L181"><td><a href="#L181">181</a></td><td>TWO:  She has information we need.</td></tr>
 
-  ANNOTATION
-     She knocks Two away, disconnecting him. Tuvok and
-     security run in to stun them with phaser fire.
+<tr id="L182"><td><a href="#L182">182</a></td><td>JANEWAY:  What kind of information?</td></tr>
 
+<tr id="L183"><td><a href="#L183">183</a></td><td>TWO:  We want to become</td></tr>
 
-LOCATION--Planet surface
+<tr id="L184"><td><a href="#L184">184</a></td><td>THREE:  Individuals.</td></tr>
 
-  ANNOTATION
-     Nighttime. The Borgs have built a campfire, and
-     Four is roasting a piece of meat from their dead
-     colleague over it. Seven reaches out and warms her
-     hands.
+<tr id="L185"><td><a href="#L185">185</a></td><td>JANEWAY:  You want to break the neural link between the three of you?</td></tr>
 
-  SEVEN OF NINE
-     I have performed this action before. I was with my
-     father. He was a tall man.
+<tr id="L186"><td><a href="#L186">186</a></td><td>THREE:  Wouldn't you? None of us is alone with our own thoughts, our own feelings.</td></tr>
 
-  TWO OF NINE
-     I have a similar memory. But I was in a house and
-     the fire was in the hearth.
+<tr id="L187"><td><a href="#L187">187</a></td><td>TWO:  Every day of my life is spent hearing their two voices in my head.</td></tr>
 
-  FOUR OF NINE
-     The biomatter is ready.
+<tr id="L188"><td><a href="#L188">188</a></td><td>FOUR:  When we're asleep, we experience each other's dreams.</td></tr>
 
-  ANNOTATION
-     They each take a piece.
+<tr id="L189"><td><a href="#L189">189</a></td><td>EMH:  How's that different from life in the Collective?</td></tr>
 
-  THREE OF NINE
-     It tastes similar to a bird I once ate.
+<tr id="L190"><td><a href="#L190">190</a></td><td>SEVEN:  In the Collective there are billions of voices. They become white noise.</td></tr>
 
-  FOUR OF NINE
-     I used to prepare food for my parents. They lived
-     in a small building by a river.
+<tr id="L191"><td><a href="#L191">191</a></td><td>TWO:  But, with only three</td></tr>
 
-  SEVEN OF NINE
-     I used to be afraid of the dark.
+<tr id="L192"><td><a href="#L192">192</a></td><td>THREE:  Each voice comes through clearly.</td></tr>
 
-  TWO OF NINE
-     Just before I was assimilated, I was eating with a
-     group of men. We worked in numbers. Mathematics. I
-     calculated equations for another man.
+<tr id="L193"><td><a href="#L193">193</a></td><td>FOUR:  It has to stop. We must break the neural link.</td></tr>
 
-  THREE OF NINE
-     I have a name. It's Marika. Marika Willkarah.
-     Willkarah.
+<tr id="L194"><td><a href="#L194">194</a></td><td>JANEWAY:  Doctor, is there anything you can do?</td></tr>
 
-  TWO OF NINE
-     Hello, Marika Willkarah.
+<tr id="L195"><td><a href="#L195">195</a></td><td>EMH:  The modifications are too extensive. Their neuronal pathways have been fundamentally altered.</td></tr>
 
-  SEVEN OF NINE
-     Her designation is Three of Nine.
+<tr id="L196"><td><a href="#L196">196</a></td><td>TWO:  You hold the key.</td></tr>
 
-  FOUR OF NINE
-     I have a name. P'Chan. Son of Dornar and Ansha. My
-     primary function was to care for them.
+<tr id="L197"><td><a href="#L197">197</a></td><td>SEVEN:  Why?</td></tr>
 
-  THREE OF NINE
-     I was married. We were on a starship, the
-     Excalibur. I worked in Engineering.
+<tr id="L198"><td><a href="#L198">198</a></td><td>THREE:  You were there with us.</td></tr>
 
-  TWO OF NINE
-     This is not my hand.
+<tr id="L199"><td><a href="#L199">199</a></td><td>FOUR:  Planet one eight six five alpha. You must remember.</td></tr>
 
-  FOUR OF NINE
-     My parents are dead. The Borg killed them. I hate
-     the Borg.
+<tr id="L200"><td><a href="#L200">200</a></td><td>SEVEN:  Eight years ago our vessel crashed. The four of us were the only survivors.</td></tr>
 
-  SEVEN OF NINE
-     This is counterproductive. We must delete all
-     irrelevant data.
+<tr id="L201"><td><a href="#L201">201</a></td><td>TWO:  When we were reassimilated</td></tr>
 
-  TWO OF NINE
-     I want my hand back.
+<tr id="L202"><td><a href="#L202">202</a></td><td>THREE:  We found we'd been linked together somehow.</td></tr>
 
-  THREE OF NINE
-     I was on duty, the night watch, when the Borg
-     came. Oh, my God, look at what they've done to me.
-     These, these things they put in my body. What have
-     they done?
+<tr id="L203"><td><a href="#L203">203</a></td><td>FOUR:  We were a subset within the Collective.</td></tr>
 
-  SEVEN OF NINE
-     Command override. Cease this interaction. Comply!
-     We will not access these memory files again.
-     Initiate the prescribed maintenance and survival
-     protocols only. No further communication is
-     required until we are r-assimilated into the
-     Collective.
+<tr id="L204"><td><a href="#L204">204</a></td><td>TWO:  It's like having three voices whispering in one ear</td></tr>
 
-  TWO OF NINE
-     Agreed.
+<tr id="L205"><td><a href="#L205">205</a></td><td>THREE:  And a crowd screaming in the other</td></tr>
 
-  THREE OF NINE
-     Agreed.
+<tr id="L206"><td><a href="#L206">206</a></td><td>FOUR:  We had to break free, so we worked together. We finally escaped.</td></tr>
 
-  FOUR OF NINE
-     Agreed.
+<tr id="L207"><td><a href="#L207">207</a></td><td>TWO:  We had our implants removed on Inavar Prime.</td></tr>
 
+<tr id="L208"><td><a href="#L208">208</a></td><td>THREE:  But they couldn't break the neural link.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L209"><td><a href="#L209">209</a></td><td>FOUR:  We need to find out what happened eight years ago, after the crash.</td></tr>
 
-  ANNOTATION
-     The three ex-Borg are unconscious on biobeds.
+<tr id="L210"><td><a href="#L210">210</a></td><td>TWO:  The night we were reassimilated into the Collective. We need to know how the link was created, but our memories are</td></tr>
 
-  EMH
-     But whoever removed their implants was a poor
-     surgeon. Their internal organs were damaged during
-     the procedure and their bodies are covered with
-     scars.
+<tr id="L211"><td><a href="#L211">211</a></td><td>THREE:  Fragmented, disorganised. We hoped that you would know.</td></tr>
 
-  JANEWAY
-     You said you recognised them.
+<tr id="L212"><td><a href="#L212">212</a></td><td>SEVEN:  I don't. However, I am willing to attempt to retrieve the data. Come with me.</td></tr>
 
-  SEVEN
-     Not at first. But when they attempted to access my
-     memory files I was momentarily linked with them.
-     Two of Nine. Three of Nine. Four of Nine. We were
-     all members of the same Unimatrix.
+<tr><td></td><td>LOCATION--Cargo Bay two</td></tr>
+<tr id="L213"><td><a href="#L213">213</a></td><td>ANNOTATION: A data cable is plugged into the back of Four's head.</td></tr>
 
-  JANEWAY
-     Do you know why they were trying to access your
-     memories?
+<tr id="L214"><td><a href="#L214">214</a></td><td>SEVEN:  Are you ready?</td></tr>
 
-  SEVEN
-     No.
+<tr id="L215"><td><a href="#L215">215</a></td><td>FOUR:  Yes.</td></tr>
 
-  JANEWAY
-     How long have they been disconnected from the
-     Collective?
+<tr id="L216"><td><a href="#L216">216</a></td><td>SEVEN:  Data search complete. Do you remember anything further?</td></tr>
 
-  EMH
-     Three or four months. However, they are still
-     connected to each other. Somehow, the left
-     parietal lobes of their brains have been
-     transformed into organic interlink nodes. They've
-     become linked together into a sort of Collective
-     Triad.
+<tr id="L217"><td><a href="#L217">217</a></td><td>FOUR:  No. My last memory</td></tr>
 
-  JANEWAY
-     Revive them. I'm Captain Janeway. We know who you
-     are and we know what you were trying to do. What
-     we don't know is why.
+<tr id="L218"><td><a href="#L218">218</a></td><td>THREE:  Is of us standing</td></tr>
 
-  TWO
-     She has information we need.
+<tr id="L219"><td><a href="#L219">219</a></td><td>ALL:  Around the campfire.</td></tr>
 
-  JANEWAY
-     What kind of information?
+<tr id="L220"><td><a href="#L220">220</a></td><td>SEVEN:  And yet the data files in your cortical processor appear to be intact. I see no evidence that would explain your lapse in memory.</td></tr>
 
-  TWO
-     We want to become
+<tr id="L221"><td><a href="#L221">221</a></td><td>TWO:  What about you? Why don't you remember what happened?</td></tr>
 
-  THREE
-     Individuals.
+<tr id="L222"><td><a href="#L222">222</a></td><td>SEVEN:  I don't know. I've found no evidence of damage to my memory files either. I remember the campfire and then waking up in the Collective. There is an obvious gap, but no indication of why.</td></tr>
 
-  JANEWAY
-     You want to break the neural link between the
-     three of you?
+<tr id="L223"><td><a href="#L223">223</a></td><td>TWO:  Why do they still call you Seven? You should have a name.</td></tr>
 
-  THREE
-     Wouldn't you? None of us is alone with our own
-     thoughts, our own feelings.
+<tr id="L224"><td><a href="#L224">224</a></td><td>SEVEN:  It is my name.</td></tr>
 
-  TWO
-     Every day of my life is spent hearing their two
-     voices in my head.
+<tr id="L225"><td><a href="#L225">225</a></td><td>FOUR:  No. It's a designation. You're an individual now.</td></tr>
 
-  FOUR
-     When we're asleep, we experience each other's
-     dreams.
+<tr id="L226"><td><a href="#L226">226</a></td><td>SEVEN:  I decided that my former name was no longer appropriate. Prepare to reinitialise the memory cascade.</td></tr>
 
-  EMH
-     How's that different from life in the Collective?
+<tr id="L227"><td><a href="#L227">227</a></td><td>THREE:  I can't wait to use my real name again.</td></tr>
 
-  SEVEN
-     In the Collective there are billions of voices.
-     They become white noise.
+<tr id="L228"><td><a href="#L228">228</a></td><td>SEVEN:  There is nothing preventing you from doing so.</td></tr>
 
-  TWO
-     But, with only three
+<tr id="L229"><td><a href="#L229">229</a></td><td>TWO:  Except that most of the time I don't know whether my name is Marika, P'Chan or Lansor. The names, the memories</td></tr>
 
-  THREE
-     Each voice comes through clearly.
+<tr id="L230"><td><a href="#L230">230</a></td><td>FOUR:  The memories, even the thoughts flow from one to the other.</td></tr>
 
-  FOUR
-     It has to stop. We must break the neural link.
+<tr id="L231"><td><a href="#L231">231</a></td><td>THREE:  I can't love or hate or laugh.</td></tr>
 
-  JANEWAY
-     Doctor, is there anything you can do?
+<tr id="L232"><td><a href="#L232">232</a></td><td>ALL:  Or cry without sharing it with them.</td></tr>
 
-  EMH
-     The modifications are too extensive. Their
-     neuronal pathways have been fundamentally altered.
+<tr id="L233"><td><a href="#L233">233</a></td><td>TWO:  How can any of us take a name for</td></tr>
 
-  TWO
-     You hold the key.
+<tr id="L234"><td><a href="#L234">234</a></td><td>ALL:  For ourselves?</td></tr>
 
-  SEVEN
-     Why?
+<tr id="L235"><td><a href="#L235">235</a></td><td>FOUR:  We're not individuals.</td></tr>
 
-  THREE
-     You were there with us.
+<tr id="L236"><td><a href="#L236">236</a></td><td>THREE:  We're not Borg.</td></tr>
 
-  FOUR
-     Planet one eight six five alpha. You must
-     remember.
+<tr id="L237"><td><a href="#L237">237</a></td><td>TWO:  We're nothing.</td></tr>
 
-  SEVEN
-     Eight years ago our vessel crashed. The four of us
-     were the only survivors.
+<tr id="L238"><td><a href="#L238">238</a></td><td>SEVEN:  Begin the memory cascade.</td></tr>
 
-  TWO
-     When we were reassimilated
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L239"><td><a href="#L239">239</a></td><td>JANEWAY:  A friendly game?</td></tr>
 
-  THREE
-     We found we'd been linked together somehow.
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: Paris has a black eye.</td></tr>
 
-  FOUR
-     We were a subset within the Collective.
+<tr id="L241"><td><a href="#L241">241</a></td><td>PARIS:  Well, that's how it started.</td></tr>
 
-  TWO
-     It's like having three voices whispering in one
-     ear
+<tr id="L242"><td><a href="#L242">242</a></td><td>ANNOTATION: Kim has a cut lip.</td></tr>
 
-  THREE
-     And a crowd screaming in the other
+<tr id="L243"><td><a href="#L243">243</a></td><td>JANEWAY:  I see. Perhaps you could explain to me how this friendly game turned into a street brawl?</td></tr>
 
-  FOUR
-     We had to break free, so we worked together. We
-     finally escaped.
+<tr id="L244"><td><a href="#L244">244</a></td><td>PARIS:  Well, Harry and I wanted to explore the station. We wanted to broaden our understanding of alien cultures and, er</td></tr>
 
-  TWO
-     We had our implants removed on Inavar Prime.
+<tr id="L245"><td><a href="#L245">245</a></td><td>JANEWAY:  Skip the recruiting speech. You were looking for a bar. Then what?</td></tr>
 
-  THREE
-     But they couldn't break the neural link.
+<tr id="L246"><td><a href="#L246">246</a></td><td>KIM:  Well, we found one, and we met a pair of Kinbori who told us about this game they play with these big, odd-looking rackets.</td></tr>
 
-  FOUR
-     We need to find out what happened eight years ago,
-     after the crash.
+<tr id="L247"><td><a href="#L247">247</a></td><td>JANEWAY:  You mean one of those?</td></tr>
 
-  TWO
-     The night we were reassimilated into the
-     Collective. We need to know how the link was
-     created, but our memories are
+<tr id="L248"><td><a href="#L248">248</a></td><td>BOTH:  Yeah!</td></tr>
 
-  THREE
-     Fragmented, disorganised. We hoped that you would
-     know.
+<tr id="L249"><td><a href="#L249">249</a></td><td>PARIS:  In any case, they challenged us to a game and we accepted, but I guess we weren't quite aware of all the rules.</td></tr>
 
-  SEVEN
-     I don't. However, I am willing to attempt to
-     retrieve the data. Come with me.
+<tr id="L250"><td><a href="#L250">250</a></td><td>JANEWAY:  Because you'd been drinking.</td></tr>
 
+<tr id="L251"><td><a href="#L251">251</a></td><td>PARIS:  Yes, ma'am. You see, we thought it was a version of tennis, but as soon as we hit the first volley this Kinbori jumps over the net and starts attacking us with his racket.</td></tr>
 
-LOCATION--Cargo Bay two
+<tr id="L252"><td><a href="#L252">252</a></td><td>KIM:  So we figured we were supposed to fight back.</td></tr>
 
-  ANNOTATION
-     A data cable is plugged into the back of Four's
-     head.
+<tr id="L253"><td><a href="#L253">253</a></td><td>PARIS:  Yeah.</td></tr>
 
-  SEVEN
-     Are you ready?
+<tr id="L254"><td><a href="#L254">254</a></td><td>KIM:  And then, er, well, things got a little out of hand.</td></tr>
 
-  FOUR
-     Yes.
+<tr id="L255"><td><a href="#L255">255</a></td><td>JANEWAY:  A little out of hand? Seven Voyager crewmen, including two bridge officers, along with thirteen Kinbori and one Morphinian caf owner, all arrested. The charges range from disorderly conduct to assault on a security officer.</td></tr>
 
-  SEVEN
-     Data search complete. Do you remember anything
-     further?
+<tr id="L256"><td><a href="#L256">256</a></td><td>KIM:  That last one's not true.</td></tr>
 
-  FOUR
-     No. My last memory
+<tr id="L257"><td><a href="#L257">257</a></td><td>JANEWAY:  Thank you, Mister Kim. I'll note that exception in my log. You're both confined to quarters until further notice, after you report to Sickbay. That's all. Well, did you win?</td></tr>
 
-  THREE
-     Is of us standing
+<tr id="L258"><td><a href="#L258">258</a></td><td>PARIS:  Oh yes, ma'am.</td></tr>
 
-  ALL
-     Around the campfire.
+<tr id="L259"><td><a href="#L259">259</a></td><td>KIM:  We kicked their rackets.</td></tr>
 
-  SEVEN
-     And yet the data files in your cortical processor
-     appear to be intact. I see no evidence that would
-     explain your lapse in memory.
+<tr id="L260"><td><a href="#L260">260</a></td><td>JANEWAY:  Good. Dismissed.</td></tr>
 
-  TWO
-     What about you? Why don't you remember what
-     happened?
+<tr id="L261"><td><a href="#L261">261</a></td><td>ANNOTATION: Paris and Kim leaves, Seven enters.</td></tr>
 
-  SEVEN
-     I don't know. I've found no evidence of damage to
-     my memory files either. I remember the campfire
-     and then waking up in the Collective. There is an
-     obvious gap, but no indication of why.
+<tr id="L262"><td><a href="#L262">262</a></td><td>JANEWAY:  Any progress?</td></tr>
 
-  TWO
-     Why do they still call you Seven? You should have
-     a name.
+<tr id="L263"><td><a href="#L263">263</a></td><td>SEVEN:  I've determined that we all have exactly the same gap in our memories. It seems unlikely that it would be a coincidence.</td></tr>
 
-  SEVEN
-     It is my name.
+<tr id="L264"><td><a href="#L264">264</a></td><td>JANEWAY:  So you believe the Collective deliberately wiped your recollections of the reassimilation process?</td></tr>
 
-  FOUR
-     No. It's a designation. You're an individual now.
+<tr id="L265"><td><a href="#L265">265</a></td><td>SEVEN:  It is the most likely explanation.</td></tr>
 
-  SEVEN
-     I decided that my former name was no longer
-     appropriate. Prepare to reinitialise the memory
-     cascade.
+<tr id="L266"><td><a href="#L266">266</a></td><td>JANEWAY:  But?</td></tr>
 
-  THREE
-     I can't wait to use my real name again.
+<tr id="L267"><td><a href="#L267">267</a></td><td>SEVEN:  The Collective would not care that four drones remember being reassimilated.</td></tr>
 
-  SEVEN
-     There is nothing preventing you from doing so.
+<tr id="L268"><td><a href="#L268">268</a></td><td>JANEWAY:  Something must have happened during the process. Something they wanted to hide from you. Let's look at this from a different perspective. Why would the Collective lock them into a neural triad in the first place?</td></tr>
 
-  TWO
-     Except that most of the time I don't know whether
-     my name is Marika, P'Chan or Lansor. The names,
-     the memories
+<tr id="L269"><td><a href="#L269">269</a></td><td>SEVEN:  I don't know. There is no advantage to having three drones linked together in this manner.</td></tr>
 
-  FOUR
-     The memories, even the thoughts flow from one to
-     the other.
+<tr id="L270"><td><a href="#L270">270</a></td><td>JANEWAY:  They obviously did it for some reason. And I get the feeling that if we can answer that question, the rest should fall into place. But I wish we could find a way to close the gaps in your memories.</td></tr>
 
-  THREE
-     I can't love or hate or laugh.
+<tr id="L271"><td><a href="#L271">271</a></td><td>SEVEN:  There is a way.</td></tr>
 
-  ALL
-     Or cry without sharing it with them.
+<tr id="L272"><td><a href="#L272">272</a></td><td>JANEWAY:  I assume there's a reason you didn't mention it before now?</td></tr>
 
-  TWO
-     How can any of us take a name for
+<tr id="L273"><td><a href="#L273">273</a></td><td>SEVEN:  It would involve linking my neural interface to theirs. Together, we may be able to restore the missing data. However, I would again be part of a group mind.</td></tr>
 
-  ALL
-     For ourselves?
+<tr id="L274"><td><a href="#L274">274</a></td><td>JANEWAY:  You're not eager to revisit that experience, hmm?</td></tr>
 
-  FOUR
-     We're not individuals.
+<tr id="L275"><td><a href="#L275">275</a></td><td>SEVEN:  There's also the possibility that I could become trapped in the neural link.</td></tr>
 
-  THREE
-     We're not Borg.
+<tr id="L276"><td><a href="#L276">276</a></td><td>JANEWAY:  Turning the triad into a quartet. I won't ask you to take that kind of risk.</td></tr>
 
-  TWO
-     We're nothing.
+<tr id="L277"><td><a href="#L277">277</a></td><td>SEVEN:  I do feel compelled to help them, but I am uncertain as to the correct course of action.</td></tr>
 
-  SEVEN
-     Begin the memory cascade.
+<tr id="L278"><td><a href="#L278">278</a></td><td>JANEWAY:  Let me ask you something. Do you think of these people as family?</td></tr>
 
+<tr id="L279"><td><a href="#L279">279</a></td><td>SEVEN:  Is it relevant?</td></tr>
 
-LOCATION--Ready room
+<tr id="L280"><td><a href="#L280">280</a></td><td>JANEWAY:  There's an old saying. Blood is thicker than water. It means that the ties of family run deeper than any other kind of relationship. We'll often do things for members of our family we'd never dream of doing for anyone else.</td></tr>
 
-  JANEWAY
-     A friendly game?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L281"><td><a href="#L281">281</a></td><td>NAOMI:  Seven. Seven.</td></tr>
 
-  ANNOTATION
-     Paris has a black eye.
+<tr id="L282"><td><a href="#L282">282</a></td><td>SEVEN:  Naomi Wildman.</td></tr>
 
-  PARIS
-     Well, that's how it started.
+<tr id="L283"><td><a href="#L283">283</a></td><td>NAOMI:  I heard about the drones. Did they hurt you?</td></tr>
 
-  ANNOTATION
-     Kim has a cut lip.
+<tr id="L284"><td><a href="#L284">284</a></td><td>SEVEN:  I am not damaged.</td></tr>
 
-  JANEWAY
-     I see. Perhaps you could explain to me how this
-     friendly game turned into a street brawl?
+<tr id="L285"><td><a href="#L285">285</a></td><td>NAOMI:  What do they want?</td></tr>
 
-  PARIS
-     Well, Harry and I wanted to explore the station.
-     We wanted to broaden our understanding of alien
-     cultures and, er
+<tr id="L286"><td><a href="#L286">286</a></td><td>SEVEN:  They are seeking information from me, but I am uncertain whether I can help them.</td></tr>
 
-  JANEWAY
-     Skip the recruiting speech. You were looking for a
-     bar. Then what?
+<tr id="L287"><td><a href="#L287">287</a></td><td>NAOMI:  Oh. Be careful.</td></tr>
 
-  KIM
-     Well, we found one, and we met a pair of Kinbori
-     who told us about this game they play with these
-     big, odd-looking rackets.
+<tr id="L288"><td><a href="#L288">288</a></td><td>SEVEN:  Naomi Wildman, do you consider me to be family?</td></tr>
 
-  JANEWAY
-     You mean one of those?
+<tr id="L289"><td><a href="#L289">289</a></td><td>NAOMI:  I, I don't, I mean. Yes. Is that okay?</td></tr>
 
-  BOTH
-     Yeah!
+<tr id="L290"><td><a href="#L290">290</a></td><td>SEVEN:  I have no objection.</td></tr>
 
-  PARIS
-     In any case, they challenged us to a game and we
-     accepted, but I guess we weren't quite aware of
-     all the rules.
+<tr id="L291"><td><a href="#L291">291</a></td><td>NAOMI:  Do you think of me as family?</td></tr>
 
-  JANEWAY
-     Because you'd been drinking.
+<tr id="L292"><td><a href="#L292">292</a></td><td>SEVEN:  Yes.</td></tr>
 
-  PARIS
-     Yes, ma'am. You see, we thought it was a version
-     of tennis, but as soon as we hit the first volley
-     this Kinbori jumps over the net and starts
-     attacking us with his racket.
+<tr id="L293"><td><a href="#L293">293</a></td><td>SOMEONE: Captain's log, supplemental. Seven of Nine has decided to undergo the procedure that will link her mind with the other drones. Despite the risk involved, she feels an obligation to help these distant cousins.</td></tr>
 
-  KIM
-     So we figured we were supposed to fight back.
+<tr><td></td><td>LOCATION--Cargo Bay two</td></tr>
+<tr id="L294"><td><a href="#L294">294</a></td><td>EMH:  I'll be monitoring your neural readings while you're in the link, but I'm not certain I'll be able to counter the effects if you become trapped.</td></tr>
 
-  PARIS
-     Yeah.
+<tr id="L295"><td><a href="#L295">295</a></td><td>SEVEN:  I know you'll do your best.</td></tr>
 
-  KIM
-     And then, er, well, things got a little out of
-     hand.
+<tr id="L296"><td><a href="#L296">296</a></td><td>EMH:  It's never a good sign when the patient feels the need to comfort the doctor. Good luck.</td></tr>
 
-  JANEWAY
-     A little out of hand? Seven Voyager crewmen,
-     including two bridge officers, along with thirteen
-     Kinbori and one Morphinian caf owner, all
-     arrested. The charges range from disorderly
-     conduct to assault on a security officer.
+<tr id="L297"><td><a href="#L297">297</a></td><td>ANNOTATION: All four drones step into alcoves.</td></tr>
 
-  KIM
-     That last one's not true.
+<tr id="L298"><td><a href="#L298">298</a></td><td>SEVEN:  Ready?</td></tr>
 
-  JANEWAY
-     Thank you, Mister Kim. I'll note that exception in
-     my log. You're both confined to quarters until
-     further notice, after you report to Sickbay.
-     That's all. Well, did you win?
+<tr id="L299"><td><a href="#L299">299</a></td><td>TWO:  Ready.</td></tr>
 
-  PARIS
-     Oh yes, ma'am.
+<tr id="L300"><td><a href="#L300">300</a></td><td>FOUR:  Ready.</td></tr>
 
-  KIM
-     We kicked their rackets.
+<tr id="L301"><td><a href="#L301">301</a></td><td>THREE:  Ready.</td></tr>
 
-  JANEWAY
-     Good. Dismissed.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L302"><td><a href="#L302">302</a></td><td>ANNOTATION: Seven is walking around, and find another drone.</td></tr>
 
-  ANNOTATION
-     Paris and Kim leaves, Seven enters.
+<tr id="L303"><td><a href="#L303">303</a></td><td>SEVEN OF NINE:  You are damaged. I will assist you. Don't worry. Everything will be all right.</td></tr>
 
-  JANEWAY
-     Any progress?
+<tr id="L304"><td><a href="#L304">304</a></td><td>ANNOTATION: The drone dies in her arms. She returns to the campfire.</td></tr>
 
-  SEVEN
-     I've determined that we all have exactly the same
-     gap in our memories. It seems unlikely that it
-     would be a coincidence.
+<tr id="L305"><td><a href="#L305">305</a></td><td>FOUR OF NINE:  The Collective has located us. A Borg vessel is on its way.</td></tr>
 
-  JANEWAY
-     So you believe the Collective deliberately wiped
-     your recollections of the reassimilation process?
+<tr id="L306"><td><a href="#L306">306</a></td><td>SEVEN OF NINE:  We will be one with the Borg again.</td></tr>
 
-  SEVEN
-     It is the most likely explanation.
+<tr id="L307"><td><a href="#L307">307</a></td><td>TWO OF NINE:  No. I do not want to rejoin the Collective.</td></tr>
 
-  JANEWAY
-     But?
+<tr id="L308"><td><a href="#L308">308</a></td><td>FOUR OF NINE:  Agreed.</td></tr>
 
-  SEVEN
-     The Collective would not care that four drones
-     remember being reassimilated.
+<tr id="L309"><td><a href="#L309">309</a></td><td>SEVEN OF NINE:  That is in violation of all established protocols.</td></tr>
 
-  JANEWAY
-     Something must have happened during the process.
-     Something they wanted to hide from you. Let's look
-     at this from a different perspective. Why would
-     the Collective lock them into a neural triad in
-     the first place?
+<tr id="L310"><td><a href="#L310">310</a></td><td>THREE OF NINE:  Forget the protocols. You're not a drone. You're a person, like us.</td></tr>
 
-  SEVEN
-     I don't know. There is no advantage to having
-     three drones linked together in this manner.
+<tr id="L311"><td><a href="#L311">311</a></td><td>FOUR OF NINE:  You have a name, a life. All you have to do is embrace who you really are.</td></tr>
 
-  JANEWAY
-     They obviously did it for some reason. And I get
-     the feeling that if we can answer that question,
-     the rest should fall into place. But I wish we
-     could find a way to close the gaps in your
-     memories.
+<tr id="L312"><td><a href="#L312">312</a></td><td>SEVEN OF NINE:  No. I do not exist. I am only part of the greater whole.</td></tr>
 
-  SEVEN
-     There is a way.
+<tr id="L313"><td><a href="#L313">313</a></td><td>TWO OF NINE:  That's what they want you to believe. That's what they want us all to believe.</td></tr>
 
-  JANEWAY
-     I assume there's a reason you didn't mention it
-     before now?
+<tr id="L314"><td><a href="#L314">314</a></td><td>SEVEN OF NINE:  We are Borg. Our primary function is to serve the Collective.</td></tr>
 
-  SEVEN
-     It would involve linking my neural interface to
-     theirs. Together, we may be able to restore the
-     missing data. However, I would again be part of a
-     group mind.
+<tr id="L315"><td><a href="#L315">315</a></td><td>TWO OF NINE:  Not anymore.</td></tr>
 
-  JANEWAY
-     You're not eager to revisit that experience, hmm?
+<tr id="L316"><td><a href="#L316">316</a></td><td>ANNOTATION: Two smashes the communications beacon.</td></tr>
 
-  SEVEN
-     There's also the possibility that I could become
-     trapped in the neural link.
+<tr id="L317"><td><a href="#L317">317</a></td><td>SEVEN OF NINE:  Error. Input failure.</td></tr>
 
-  JANEWAY
-     Turning the triad into a quartet. I won't ask you
-     to take that kind of risk.
+<tr id="L318"><td><a href="#L318">318</a></td><td>TWO OF NINE:  They may know what planet we're on, but without the beacon it'll be far more difficult to locate us.</td></tr>
 
-  SEVEN
-     I do feel compelled to help them, but I am
-     uncertain as to the correct course of action.
+<tr id="L319"><td><a href="#L319">319</a></td><td>THREE OF NINE:  If we can remodulate our cortical implants, we might be able to elude their sensors.</td></tr>
 
-  JANEWAY
-     Let me ask you something. Do you think of these
-     people as family?
+<tr id="L320"><td><a href="#L320">320</a></td><td>TWO OF NINE:  We must leave this place.</td></tr>
 
-  SEVEN
-     Is it relevant?
+<tr id="L321"><td><a href="#L321">321</a></td><td>SEVEN OF NINE:  This discussion is in violation of all established protocols.</td></tr>
 
-  JANEWAY
-     There's an old saying. Blood is thicker than
-     water. It means that the ties of family run deeper
-     than any other kind of relationship. We'll often
-     do things for members of our family we'd never
-     dream of doing for anyone else.
+<tr id="L322"><td><a href="#L322">322</a></td><td>THREE OF NINE:  You stay here and be reassimilated if you want to. I won't.</td></tr>
 
+<tr id="L323"><td><a href="#L323">323</a></td><td>ANNOTATION: They leave Seven alone. She paces around as the camp fire dies. Later, she finds Four and stuns him. Then she inserts tubules into him.</td></tr>
 
-LOCATION--Corridor
+<tr id="L324"><td><a href="#L324">324</a></td><td>FOUR OF NINE:  What are you doing?</td></tr>
 
-  NAOMI
-     Seven. Seven.
+<tr id="L325"><td><a href="#L325">325</a></td><td>SEVEN OF NINE:  The nanoprobes will create new interlink nodes in your left hemisphere. Resistance is futile.</td></tr>
 
-  SEVEN
-     Naomi Wildman.
+<tr id="L326"><td><a href="#L326">326</a></td><td>ANNOTATION: A few moments later, he gets up and follows her. They find Two, and Seven does the same to him. They finally catch up to Three.</td></tr>
 
-  NAOMI
-     I heard about the drones. Did they hurt you?
+<tr id="L327"><td><a href="#L327">327</a></td><td>THREE OF NINE:  I will not comply. I will not comply.</td></tr>
 
-  SEVEN
-     I am not damaged.
+<tr id="L328"><td><a href="#L328">328</a></td><td>ANNOTATION: Seven injects her.</td></tr>
 
-  NAOMI
-     What do they want?
+<tr id="L329"><td><a href="#L329">329</a></td><td>SEVEN OF NINE:  State your designations.</td></tr>
 
-  SEVEN
-     They are seeking information from me, but I am
-     uncertain whether I can help them.
+<tr id="L330"><td><a href="#L330">330</a></td><td>TWO OF NINE:  Two of Nine. Primary adjunct of Unimatrix zero one.</td></tr>
 
-  NAOMI
-     Oh. Be careful.
+<tr id="L331"><td><a href="#L331">331</a></td><td>THREE OF NINE:  Three of Nine. Auxiliary processor of Unimatrix zero one.</td></tr>
 
-  SEVEN
-     Naomi Wildman, do you consider me to be family?
+<tr id="L332"><td><a href="#L332">332</a></td><td>FOUR OF NINE:  Four of Nine. Secondary adjunct of Unimatrix zero one.</td></tr>
 
-  NAOMI
-     I, I don't, I mean. Yes. Is that okay?
+<tr id="L333"><td><a href="#L333">333</a></td><td>SEVEN OF NINE:  What is your primary function?</td></tr>
 
-  SEVEN
-     I have no objection.
+<tr id="L334"><td><a href="#L334">334</a></td><td>ALL:  To serve the Collective.</td></tr>
 
-  NAOMI
-     Do you think of me as family?
+<tr id="L335"><td><a href="#L335">335</a></td><td>SEVEN OF NINE:  You will repair the communications beacon.</td></tr>
 
-  SEVEN
-     Yes.
+<tr><td></td><td>LOCATION--Cargo Bay two</td></tr>
+<tr id="L336"><td><a href="#L336">336</a></td><td>TWO:  It was you. You were responsible. What have you done to us?</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. Seven of Nine has
-     decided to undergo the procedure that will link
-     her mind with the other drones. Despite the risk
-     involved, she feels an obligation to help these
-     distant cousins.
+<tr id="L337"><td><a href="#L337">337</a></td><td>THREE:  You linked us together.</td></tr>
 
+<tr id="L338"><td><a href="#L338">338</a></td><td>FOUR:  You're responsible for our suffering.</td></tr>
 
-LOCATION--Cargo Bay two
+<tr id="L339"><td><a href="#L339">339</a></td><td>THREE:  How could you do it?</td></tr>
 
-  EMH
-     I'll be monitoring your neural readings while
-     you're in the link, but I'm not certain I'll be
-     able to counter the effects if you become trapped.
+<tr id="L340"><td><a href="#L340">340</a></td><td>TWO:  If you didn't want to return to the Collective</td></tr>
 
-  SEVEN
-     I know you'll do your best.
+<tr id="L341"><td><a href="#L341">341</a></td><td>THREE:  You didn't have to.</td></tr>
 
-  EMH
-     It's never a good sign when the patient feels the
-     need to comfort the doctor. Good luck.
+<tr id="L342"><td><a href="#L342">342</a></td><td>SEVEN:  You don't understand what happened.</td></tr>
 
-  ANNOTATION
-     All four drones step into alcoves.
+<tr id="L343"><td><a href="#L343">343</a></td><td>ANNOTATION: All three shout at her at the same time.</td></tr>
 
-  SEVEN
-     Ready?
+<tr id="L344"><td><a href="#L344">344</a></td><td>SEVEN:  Somebody help me!</td></tr>
 
-  TWO
-     Ready.
+<tr id="L345"><td><a href="#L345">345</a></td><td>ANNOTATION: Tuvok enters.</td></tr>
 
-  FOUR
-     Ready.
+<tr id="L346"><td><a href="#L346">346</a></td><td>TUVOK:  What's happening?</td></tr>
 
-  THREE
-     Ready.
+<tr id="L347"><td><a href="#L347">347</a></td><td>EMH:  Somehow they broke their link with Seven. They're malfunctioning. Help me get them to Sickbay.</td></tr>
 
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L348"><td><a href="#L348">348</a></td><td>EMH:  When they broke the connection with you, it must have overloaded their cortical implants. They went into neural shock.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L349"><td><a href="#L349">349</a></td><td>SEVEN:  And yet I was undamaged?</td></tr>
 
-  ANNOTATION
-     Seven is walking around, and find another drone.
+<tr id="L350"><td><a href="#L350">350</a></td><td>EMH:  I think I know why. You said you remembered injecting them with nanoprobes eight years ago.</td></tr>
 
-  SEVEN OF NINE
-     You are damaged. I will assist you. Don't worry.
-     Everything will be all right.
+<tr id="L351"><td><a href="#L351">351</a></td><td>SEVEN:  Yes. It created an interlink between them. It was the only way to prevent them from escaping the Collective.</td></tr>
 
-  ANNOTATION
-     The drone dies in her arms. She returns to the
-     campfire.
+<tr id="L352"><td><a href="#L352">352</a></td><td>EMH:  Well, it seems to have had an unfortunate side effect. Their higher brain functions were somehow tied into the interlink. When they broke their connection with you in the cargo bay, the shock to their cognitive systems was too great.</td></tr>
 
-  FOUR OF NINE
-     The Collective has located us. A Borg vessel is on
-     its way.
+<tr id="L353"><td><a href="#L353">353</a></td><td>SEVEN:  Can you revive them?</td></tr>
 
-  SEVEN OF NINE
-     We will be one with the Borg again.
+<tr id="L354"><td><a href="#L354">354</a></td><td>EMH:  I can remove the microcortical implants. That would break the link binding them together, but it would also kill them. They'd only live a matter of weeks. A month at the most.</td></tr>
 
-  TWO OF NINE
-     No. I do not want to rejoin the Collective.
+<tr id="L355"><td><a href="#L355">355</a></td><td>SEVEN:  What are the other options?</td></tr>
 
-  FOUR OF NINE
-     Agreed.
+<tr id="L356"><td><a href="#L356">356</a></td><td>EMH:  They could be returned to the Borg. If they were reassimilated into the Collective, they would regain consciousness, and then live out a normal life span.</td></tr>
 
-  SEVEN OF NINE
-     That is in violation of all established protocols.
+<tr id="L357"><td><a href="#L357">357</a></td><td>SEVEN:  As drones.</td></tr>
 
-  THREE OF NINE
-     Forget the protocols. You're not a drone. You're a
-     person, like us.
+<tr id="L358"><td><a href="#L358">358</a></td><td>EMH:  As drones. But they'd be alive, Seven.</td></tr>
 
-  FOUR OF NINE
-     You have a name, a life. All you have to do is
-     embrace who you really are.
+<tr><td></td><td>LOCATION--Astrometrics lab</td></tr>
+<tr id="L359"><td><a href="#L359">359</a></td><td>SEVEN:  They have no hope of surviving unless they return to the Collective.</td></tr>
 
-  SEVEN OF NINE
-     No. I do not exist. I am only part of the greater
-     whole.
+<tr id="L360"><td><a href="#L360">360</a></td><td>CHAKOTAY:  Not exactly a happy ending, is it?</td></tr>
 
-  TWO OF NINE
-     That's what they want you to believe. That's what
-     they want us all to believe.
+<tr id="L361"><td><a href="#L361">361</a></td><td>SEVEN:  No.</td></tr>
 
-  SEVEN OF NINE
-     We are Borg. Our primary function is to serve the
-     Collective.
+<tr id="L362"><td><a href="#L362">362</a></td><td>CHAKOTAY:  Back on that planet, why do you think you reacted so differently from the rest of them? Why were you so afraid of becoming an individual?</td></tr>
 
-  TWO OF NINE
-     Not anymore.
+<tr id="L363"><td><a href="#L363">363</a></td><td>SEVEN:  When I was first assimilated into the Collective, I was a child. They were assimilated as adults. When our individual memories began to resurface</td></tr>
 
-  ANNOTATION
-     Two smashes the communications beacon.
+<tr id="L364"><td><a href="#L364">364</a></td><td>CHAKOTAY:  Yours were of being a little girl. A scared little girl.</td></tr>
 
-  SEVEN OF NINE
-     Error. Input failure.
+<tr id="L365"><td><a href="#L365">365</a></td><td>SEVEN:  I let that fear control me. After I saw the drone die in the swamp, I panicked. I began to envision my own death. Alone, without even the sound of another drone to comfort me. So I forced them to return. I infiltrated their left cerebral hemispheres with nanoprobes and created a new interlink network. One that they couldn't resist. And then I eliminated the evidence of what I had done.</td></tr>
 
-  TWO OF NINE
-     They may know what planet we're on, but without
-     the beacon it'll be far more difficult to locate
-     us.
+<tr id="L366"><td><a href="#L366">366</a></td><td>CHAKOTAY:  You were overwhelmed by feelings you couldn't begin to understand. You're not responsible for that.</td></tr>
 
-  THREE OF NINE
-     If we can remodulate our cortical implants, we
-     might be able to elude their sensors.
+<tr id="L367"><td><a href="#L367">367</a></td><td>SEVEN:  Because of what I did, they'll be forced to live the rest of their lives in the Collective. For that, I am responsible.</td></tr>
 
-  TWO OF NINE
-     We must leave this place.
+<tr id="L368"><td><a href="#L368">368</a></td><td>CHAKOTAY:  There's a difference between surviving and living. They'll survive in the Collective, but they won't really be alive. You know that better than any of us.</td></tr>
 
-  SEVEN OF NINE
-     This discussion is in violation of all established
-     protocols.
+<tr id="L369"><td><a href="#L369">369</a></td><td>SEVEN:  There is no alternative.</td></tr>
 
-  THREE OF NINE
-     You stay here and be reassimilated if you want to.
-     I won't.
+<tr id="L370"><td><a href="#L370">370</a></td><td>CHAKOTAY:  How long would they survive if the Doctor deactivated this interlink network you created?</td></tr>
 
-  ANNOTATION
-     They leave Seven alone. She paces around as the
-     camp fire dies. Later, she finds Four and stuns
-     him. Then she inserts tubules into him.
+<tr id="L371"><td><a href="#L371">371</a></td><td>SEVEN:  A month at most.</td></tr>
 
-  FOUR OF NINE
-     What are you doing?
+<tr id="L372"><td><a href="#L372">372</a></td><td>CHAKOTAY:  A month as an individual, or a lifetime as a drone. Which option would you choose?</td></tr>
 
-  SEVEN OF NINE
-     The nanoprobes will create new interlink nodes in
-     your left hemisphere. Resistance is futile.
+<tr><td></td><td>LOCATION--Doctor's office</td></tr>
+<tr id="L373"><td><a href="#L373">373</a></td><td>SEVEN:  Survival is insufficient.</td></tr>
 
-  ANNOTATION
-     A few moments later, he gets up and follows her.
-     They find Two, and Seven does the same to him.
-     They finally catch up to Three.
+<tr id="L374"><td><a href="#L374">374</a></td><td>EMH:  I beg your pardon?</td></tr>
 
-  THREE OF NINE
-     I will not comply. I will not comply.
+<tr id="L375"><td><a href="#L375">375</a></td><td>SEVEN:  Eight years ago, I forced them to return to the Collective. I won't make the same mistake again. They deserve to exist as individuals. We must terminate the link between them.</td></tr>
 
-  ANNOTATION
-     Seven injects her.
+<tr id="L376"><td><a href="#L376">376</a></td><td>EMH:  I understand that you feel a certain responsibility for these patients, but as their physician, so do I. It's my duty to preserve their lives for as long as possible, even if that means</td></tr>
 
-  SEVEN OF NINE
-     State your designations.
+<tr id="L377"><td><a href="#L377">377</a></td><td>SEVEN:  I will not return them to the Borg.</td></tr>
 
-  TWO OF NINE
-     Two of Nine. Primary adjunct of Unimatrix zero
-     one.
+<tr id="L378"><td><a href="#L378">378</a></td><td>EMH:  Are you thinking of what's best for them, or for you?</td></tr>
 
-  THREE OF NINE
-     Three of Nine. Auxiliary processor of Unimatrix
-     zero one.
+<tr id="L379"><td><a href="#L379">379</a></td><td>SEVEN:  Clarify.</td></tr>
 
-  FOUR OF NINE
-     Four of Nine. Secondary adjunct of Unimatrix zero
-     one.
+<tr id="L380"><td><a href="#L380">380</a></td><td>EMH:  You said it yourself. You made a mistake. And Seven of Nine doesn't like to make mistakes. She strives for perfection. I want you to think about the motivation behind your decision. Are you doing what's right for those three people, or are you trying to alleviate the guilt you feel over what happened eight years ago?</td></tr>
 
-  SEVEN OF NINE
-     What is your primary function?
+<tr id="L381"><td><a href="#L381">381</a></td><td>SEVEN:  The damage I did can never be repaired, and my guilt is irrelevant. I simply want them to experience individuality, as I have. As you have. At one time, you were confined to this Sickbay. Your programme was limited to emergency medical protocols. In some ways, you were not unlike a drone. But you were granted the opportunity to explore your individuality. You were allowed to expand your programme. Your mobile emitter gives you freedom of movement. Your thoughts are your own. If you were told you had to become a drone again, I believe you would resist.</td></tr>
 
-  ALL
-     To serve the Collective.
+<tr id="L382"><td><a href="#L382">382</a></td><td>EMH:  Yes. I suppose I would.</td></tr>
 
-  SEVEN OF NINE
-     You will repair the communications beacon.
+<tr id="L383"><td><a href="#L383">383</a></td><td>SEVEN:  They would resist as well. They would choose freedom, no matter how fleeting. Only you and I can truly understand that.</td></tr>
 
+<tr id="L384"><td><a href="#L384">384</a></td><td>EMH:  Survival is insufficient.</td></tr>
 
-LOCATION--Cargo Bay two
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L385"><td><a href="#L385">385</a></td><td>ANNOTATION: It is dark. The trio are standing by the windows. Seven is with them.</td></tr>
 
-  TWO
-     It was you. You were responsible. What have you
-     done to us?
+<tr id="L386"><td><a href="#L386">386</a></td><td>THREE:  It's so quiet.</td></tr>
 
-  THREE
-     You linked us together.
+<tr id="L387"><td><a href="#L387">387</a></td><td>FOUR:  I had no idea you were going to say that. I don't know what either of you is thinking.</td></tr>
 
-  FOUR
-     You're responsible for our suffering.
+<tr id="L388"><td><a href="#L388">388</a></td><td>TWO:  I'd forgotten what it was like to be alone with my own thoughts. I'm leaving.</td></tr>
 
-  THREE
-     How could you do it?
+<tr id="L389"><td><a href="#L389">389</a></td><td>THREE:  Where will you go?</td></tr>
 
-  TWO
-     If you didn't want to return to the Collective
+<tr id="L390"><td><a href="#L390">390</a></td><td>TWO:  I want to see the space station, to meet new people. To fill my life with life again, in the time I have left.</td></tr>
 
-  THREE
-     You didn't have to.
+<tr id="L391"><td><a href="#L391">391</a></td><td>ANNOTATION: He nods a thank you to Seven, and leaves.</td></tr>
 
-  SEVEN
-     You don't understand what happened.
+<tr id="L392"><td><a href="#L392">392</a></td><td>FOUR:  I'm leaving as well. There's an uninhabited planet only a few light years from here. I'd like to spend my final days in the open air.</td></tr>
 
-  ANNOTATION
-     All three shout at her at the same time.
+<tr id="L393"><td><a href="#L393">393</a></td><td>ANNOTATION: He hugs Three, then turns to Seven.</td></tr>
 
-  SEVEN
-     Somebody help me!
+<tr id="L394"><td><a href="#L394">394</a></td><td>FOUR:  My people don't believe in holding grudges. I wish you well, Seven of Nine.</td></tr>
 
-  ANNOTATION
-     Tuvok enters.
+<tr id="L395"><td><a href="#L395">395</a></td><td>SEVEN:  Thank you.</td></tr>
 
-  TUVOK
-     What's happening?
+<tr id="L396"><td><a href="#L396">396</a></td><td>ANNOTATION: Four leaves.</td></tr>
 
-  EMH
-     Somehow they broke their link with Seven. They're
-     malfunctioning. Help me get them to Sickbay.
+<tr id="L397"><td><a href="#L397">397</a></td><td>THREE:  It's nice to be on a Federation Starship again. I'd like to stay aboard Voyager.</td></tr>
 
+<tr id="L398"><td><a href="#L398">398</a></td><td>SEVEN:  The Captain said you may stay as long as you wish.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L399"><td><a href="#L399">399</a></td><td>THREE:  You mean as long as I have. I can't forgive you for what you did to us, but I do understand why you did it.</td></tr>
 
-  EMH
-     When they broke the connection with you, it must
-     have overloaded their cortical implants. They went
-     into neural shock.
+<tr><td></td><td>LOCATION--Astrometrics lab</td></tr>
+<tr id="L400"><td><a href="#L400">400</a></td><td>SEVEN:  Naomi Wildman.</td></tr>
 
-  SEVEN
-     And yet I was undamaged?
+<tr id="L401"><td><a href="#L401">401</a></td><td>NAOMI:  I thought you might like some company.</td></tr>
 
-  EMH
-     I think I know why. You said you remembered
-     injecting them with nanoprobes eight years ago.
+<tr id="L402"><td><a href="#L402">402</a></td><td>SEVEN:  Why?</td></tr>
 
-  SEVEN
-     Yes. It created an interlink between them. It was
-     the only way to prevent them from escaping the
-     Collective.
+<tr id="L403"><td><a href="#L403">403</a></td><td>NAOMI:  Because of what happened with the drones.</td></tr>
 
-  EMH
-     Well, it seems to have had an unfortunate side
-     effect. Their higher brain functions were somehow
-     tied into the interlink. When they broke their
-     connection with you in the cargo bay, the shock to
-     their cognitive systems was too great.
+<tr id="L404"><td><a href="#L404">404</a></td><td>SEVEN:  I see that word travels quickly.</td></tr>
 
-  SEVEN
-     Can you revive them?
+<tr id="L405"><td><a href="#L405">405</a></td><td>NAOMI:  It's a small ship. I thought maybe you might want to spend some time with family.</td></tr>
 
-  EMH
-     I can remove the microcortical implants. That
-     would break the link binding them together, but it
-     would also kill them. They'd only live a matter of
-     weeks. A month at the most.
-
-  SEVEN
-     What are the other options?
-
-  EMH
-     They could be returned to the Borg. If they were
-     reassimilated into the Collective, they would
-     regain consciousness, and then live out a normal
-     life span.
-
-  SEVEN
-     As drones.
-
-  EMH
-     As drones. But they'd be alive, Seven.
-
-
-LOCATION--Astrometrics lab
-
-  SEVEN
-     They have no hope of surviving unless they return
-     to the Collective.
-
-  CHAKOTAY
-     Not exactly a happy ending, is it?
-
-  SEVEN
-     No.
-
-  CHAKOTAY
-     Back on that planet, why do you think you reacted
-     so differently from the rest of them? Why were you
-     so afraid of becoming an individual?
-
-  SEVEN
-     When I was first assimilated into the Collective,
-     I was a child. They were assimilated as adults.
-     When our individual memories began to resurface
-
-  CHAKOTAY
-     Yours were of being a little girl. A scared little
-     girl.
-
-  SEVEN
-     I let that fear control me. After I saw the drone
-     die in the swamp, I panicked. I began to envision
-     my own death. Alone, without even the sound of
-     another drone to comfort me. So I forced them to
-     return. I infiltrated their left cerebral
-     hemispheres with nanoprobes and created a new
-     interlink network. One that they couldn't resist.
-     And then I eliminated the evidence of what I had
-     done.
-
-  CHAKOTAY
-     You were overwhelmed by feelings you couldn't
-     begin to understand. You're not responsible for
-     that.
-
-  SEVEN
-     Because of what I did, they'll be forced to live
-     the rest of their lives in the Collective. For
-     that, I am responsible.
-
-  CHAKOTAY
-     There's a difference between surviving and living.
-     They'll survive in the Collective, but they won't
-     really be alive. You know that better than any of
-     us.
-
-  SEVEN
-     There is no alternative.
-
-  CHAKOTAY
-     How long would they survive if the Doctor
-     deactivated this interlink network you created?
-
-  SEVEN
-     A month at most.
-
-  CHAKOTAY
-     A month as an individual, or a lifetime as a
-     drone. Which option would you choose?
-
-
-LOCATION--Doctor's office
-
-  SEVEN
-     Survival is insufficient.
-
-  EMH
-     I beg your pardon?
-
-  SEVEN
-     Eight years ago, I forced them to return to the
-     Collective. I won't make the same mistake again.
-     They deserve to exist as individuals. We must
-     terminate the link between them.
-
-  EMH
-     I understand that you feel a certain
-     responsibility for these patients, but as their
-     physician, so do I. It's my duty to preserve their
-     lives for as long as possible, even if that means
-
-  SEVEN
-     I will not return them to the Borg.
-
-  EMH
-     Are you thinking of what's best for them, or for
-     you?
-
-  SEVEN
-     Clarify.
-
-  EMH
-     You said it yourself. You made a mistake. And
-     Seven of Nine doesn't like to make mistakes. She
-     strives for perfection. I want you to think about
-     the motivation behind your decision. Are you doing
-     what's right for those three people, or are you
-     trying to alleviate the guilt you feel over what
-     happened eight years ago?
-
-  SEVEN
-     The damage I did can never be repaired, and my
-     guilt is irrelevant. I simply want them to
-     experience individuality, as I have. As you have.
-     At one time, you were confined to this Sickbay.
-     Your programme was limited to emergency medical
-     protocols. In some ways, you were not unlike a
-     drone. But you were granted the opportunity to
-     explore your individuality. You were allowed to
-     expand your programme. Your mobile emitter gives
-     you freedom of movement. Your thoughts are your
-     own. If you were told you had to become a drone
-     again, I believe you would resist.
-
-  EMH
-     Yes. I suppose I would.
-
-  SEVEN
-     They would resist as well. They would choose
-     freedom, no matter how fleeting. Only you and I
-     can truly understand that.
-
-  EMH
-     Survival is insufficient.
-
-
-LOCATION--Mess hall
-
-  ANNOTATION
-     It is dark. The trio are standing by the windows.
-     Seven is with them.
-
-  THREE
-     It's so quiet.
-
-  FOUR
-     I had no idea you were going to say that. I don't
-     know what either of you is thinking.
-
-  TWO
-     I'd forgotten what it was like to be alone with my
-     own thoughts. I'm leaving.
-
-  THREE
-     Where will you go?
-
-  TWO
-     I want to see the space station, to meet new
-     people. To fill my life with life again, in the
-     time I have left.
-
-  ANNOTATION
-     He nods a thank you to Seven, and leaves.
-
-  FOUR
-     I'm leaving as well. There's an uninhabited planet
-     only a few light years from here. I'd like to
-     spend my final days in the open air.
-
-  ANNOTATION
-     He hugs Three, then turns to Seven.
-
-  FOUR
-     My people don't believe in holding grudges. I wish
-     you well, Seven of Nine.
-
-  SEVEN
-     Thank you.
-
-  ANNOTATION
-     Four leaves.
-
-  THREE
-     It's nice to be on a Federation Starship again.
-     I'd like to stay aboard Voyager.
-
-  SEVEN
-     The Captain said you may stay as long as you wish.
-
-  THREE
-     You mean as long as I have. I can't forgive you
-     for what you did to us, but I do understand why
-     you did it.
-
-
-LOCATION--Astrometrics lab
-
-  SEVEN
-     Naomi Wildman.
-
-  NAOMI
-     I thought you might like some company.
-
-  SEVEN
-     Why?
-
-  NAOMI
-     Because of what happened with the drones.
-
-  SEVEN
-     I see that word travels quickly.
-
-  NAOMI
-     It's a small ship. I thought maybe you might want
-     to spend some time with family.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

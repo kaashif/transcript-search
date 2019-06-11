@@ -1,1455 +1,710 @@
-The Most Toys
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Most Toys</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Jovis Cargo bay</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>DATA:  Data to Enterprise.</td></tr>
 
-LOCATION--Jovis Cargo bay
+<tr id="L2"><td><a href="#L2">2</a></td><td>PICARD [OC]:  Go ahead, Mister Data.</td></tr>
 
-  DATA
-     Data to Enterprise.
+<tr id="L3"><td><a href="#L3">3</a></td><td>DATA:  This will be the last trip, sir.</td></tr>
 
-  PICARD [OC]
-     Go ahead, Mister Data.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L4"><td><a href="#L4">4</a></td><td>DATA [OC]:  The remaining cases of hytritium are now being loaded.</td></tr>
 
-  DATA
-     This will be the last trip, sir.
+<tr id="L5"><td><a href="#L5">5</a></td><td>PICARD:  Acknowledged. Mister Worf, advise Beta Agni Two that our departure is imminent.</td></tr>
 
+<tr id="L6"><td><a href="#L6">6</a></td><td>WORF:  Aye, Captain.</td></tr>
 
-LOCATION--Bridge
+<tr id="L7"><td><a href="#L7">7</a></td><td>RIKER:  At warp six, we should be there in just over sixteen hours.</td></tr>
 
-  DATA [OC]
-     The remaining cases of hytritium are now being
-     loaded.
+<tr><td></td><td>LOCATION--Jovis Cargo bay</td></tr>
+<tr id="L8"><td><a href="#L8">8</a></td><td>ANNOTATION: The rear hatch on shuttlepod Pike closes and Data gets into the pilot's seat</td></tr>
 
-  PICARD
-     Acknowledged. Mister Worf, advise Beta Agni Two
-     that our departure is imminent.
+<tr id="L9"><td><a href="#L9">9</a></td><td>DATA:  Loading is complete. I am proceeding with departure. Enterprise shuttlebay two, prepare for docking, level one precautions for incoming material remain in effect.</td></tr>
 
-  WORF
-     Aye, Captain.
+<tr id="L10"><td><a href="#L10">10</a></td><td>VARRIA:  If you'll just acknowledge this last load, Commander></td></tr>
 
-  RIKER
-     At warp six, we should be there in just over
-     sixteen hours.
+<tr id="L11"><td><a href="#L11">11</a></td><td>ANNOTATION: Data puts his thumb on the PADD and is enveloped in electricity. He is knocked out cold. Varria takes back the PADD then she scans him</td></tr>
 
+<tr id="L12"><td><a href="#L12">12</a></td><td>VARRIA:  Twenty six point eight kilos of tripolymer composites. Eleven point eight kilos of molybdenum-cobalt alloy. One point three kilos Bioplast sheeting.</td></tr>
 
-LOCATION--Jovis Cargo bay
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L13"><td><a href="#L13">13</a></td><td>LAFORGE:  Shuttle twelve containment field reads nominal. Now leaving the Jovis.</td></tr>
 
-  ANNOTATION
-     The rear hatch on shuttlepod Pike closes and Data
-     gets into the pilot's seat
+<tr id="L14"><td><a href="#L14">14</a></td><td>PICARD:  On viewer.</td></tr>
 
-  DATA
-     Loading is complete. I am proceeding with
-     departure. Enterprise shuttlebay two, prepare for
-     docking, level one precautions for incoming
-     material remain in effect.
+<tr id="L15"><td><a href="#L15">15</a></td><td>LAFORGE:  Containment field stable. Gravitational fluctuations within acceptable parameters. Flight pattern</td></tr>
 
-  VARRIA
-     If you'll just acknowledge this last load,
-     Commander>
+<tr id="L16"><td><a href="#L16">16</a></td><td>ANNOTATION: Shuttlepod Pike goes Ka-BOOM! Stunned expressions all round</td></tr>
 
-  ANNOTATION
-     Data puts his thumb on the PADD and is enveloped
-     in electricity. He is knocked out cold. Varria
-     takes back the PADD then she scans him
+<tr id="L17"><td><a href="#L17">17</a></td><td>WORF:  Data.</td></tr>
 
-  VARRIA
-     Twenty six point eight kilos of tripolymer
-     composites. Eleven point eight kilos of
-     molybdenum-cobalt alloy. One point three kilos
-     Bioplast sheeting.
+<tr id="L18"><td><a href="#L18">18</a></td><td>SOMEONE: Captain's log, supplemental. As the result of a yet unexplained shuttle explosion, Lieutenant Commander Data has been lost.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L19"><td><a href="#L19">19</a></td><td>RIKER:  Why didn't the containment field hold?</td></tr>
 
-LOCATION--Bridge
+<tr id="L20"><td><a href="#L20">20</a></td><td>LAFORGE:  Unknown, Commander.</td></tr>
 
-  LAFORGE
-     Shuttle twelve containment field reads nominal.
-     Now leaving the Jovis.
+<tr id="L21"><td><a href="#L21">21</a></td><td>PICARD:  Hail the Jovis. I want to speak with Kivas Fajo.</td></tr>
 
-  PICARD
-     On viewer.
+<tr id="L22"><td><a href="#L22">22</a></td><td>WORF:  Sir, Mister Fajo is hailing us.</td></tr>
 
-  LAFORGE
-     Containment field stable. Gravitational
-     fluctuations within acceptable parameters. Flight
-     pattern
+<tr id="L23"><td><a href="#L23">23</a></td><td>PICARD:  On viewer.</td></tr>
 
-  ANNOTATION
-     Shuttlepod Pike goes Ka-BOOM! Stunned expressions
-     all round
+<tr id="L24"><td><a href="#L24">24</a></td><td>FAJO [on viewscreen]:  Captain Picard, what happened?</td></tr>
 
-  WORF
-     Data.
+<tr id="L25"><td><a href="#L25">25</a></td><td>PICARD:  It's unclear. We're running a full analysis.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. As the result of a
-     yet unexplained shuttle explosion, Lieutenant
-     Commander Data has been lost.
+<tr id="L26"><td><a href="#L26">26</a></td><td>FAJO [on viewscreen]:  We detected no malfunctions before the explosion. Everything seemed to be running as smoothly as the other flights. Were you able to save the pilot?</td></tr>
 
+<tr id="L27"><td><a href="#L27">27</a></td><td>PICARD:  No.</td></tr>
 
-LOCATION--Bridge
+<tr id="L28"><td><a href="#L28">28</a></td><td>FAJO [on viewscreen]:  I'm sorry.</td></tr>
 
-  RIKER
-     Why didn't the containment field hold?
+<tr id="L29"><td><a href="#L29">29</a></td><td>PICARD:  Mister Fajo, I would like to analyse your sensor readings of the explosion.</td></tr>
 
-  LAFORGE
-     Unknown, Commander.
+<tr id="L30"><td><a href="#L30">30</a></td><td>FAJO [on viewscreen]:  Compared to the Enterprise's, our sensors are rather primitive. I doubt they contain any information that your sensors overlooked.</td></tr>
 
-  PICARD
-     Hail the Jovis. I want to speak with Kivas Fajo.
+<tr id="L31"><td><a href="#L31">31</a></td><td>PICARD:  Perhaps, but I don't want to leave any avenue unexplored.</td></tr>
 
-  WORF
-     Sir, Mister Fajo is hailing us.
+<tr id="L32"><td><a href="#L32">32</a></td><td>FAJO [on viewscreen]:  I understand. We'll transmit the information.</td></tr>
 
-  PICARD
-     On viewer.
+<tr id="L33"><td><a href="#L33">33</a></td><td>WORF:  Link established. Receiving.</td></tr>
 
-  FAJO [on viewscreen]
-     Captain Picard, what happened?
+<tr id="L34"><td><a href="#L34">34</a></td><td>FAJO [on viewscreen]:  Can we be of any further assistance?</td></tr>
 
-  PICARD
-     It's unclear. We're running a full analysis.
+<tr id="L35"><td><a href="#L35">35</a></td><td>PICARD:  How much hytritium did we manage to bring on board?</td></tr>
 
-  FAJO [on viewscreen]
-     We detected no malfunctions before the explosion.
-     Everything seemed to be running as smoothly as the
-     other flights. Were you able to save the pilot?
+<tr id="L36"><td><a href="#L36">36</a></td><td>RIKER:  Eighty one kilos.</td></tr>
 
-  PICARD
-     No.
+<tr id="L37"><td><a href="#L37">37</a></td><td>LAFORGE:  That will barely allow us to complete our mission, Captain, but it leaves us no margin for error.</td></tr>
 
-  FAJO [on viewscreen]
-     I'm sorry.
+<tr id="L38"><td><a href="#L38">38</a></td><td>PICARD:  Mister Fajo, I realise we have acquired your complete supply of hytritium. Do you know where we could obtain some more?</td></tr>
 
-  PICARD
-     Mister Fajo, I would like to analyse your sensor
-     readings of the explosion.
+<tr id="L39"><td><a href="#L39">39</a></td><td>FAJO [on viewscreen]:  That may be difficult. The only source I know is in the Sigma Erani system.</td></tr>
 
-  FAJO [on viewscreen]
-     Compared to the Enterprise's, our sensors are
-     rather primitive. I doubt they contain any
-     information that your sensors overlooked.
+<tr id="L40"><td><a href="#L40">40</a></td><td>RIKER:  Three weeks away, sir.</td></tr>
 
-  PICARD
-     Perhaps, but I don't want to leave any avenue
-     unexplored.
+<tr id="L41"><td><a href="#L41">41</a></td><td>FAJO [on viewscreen]:  And I can't guarantee they'll have any. For obvious reasons, no one wants to keep it around. In fact, even I may stop selling it. It's just too dangerous.</td></tr>
 
-  FAJO [on viewscreen]
-     I understand. We'll transmit the information.
+<tr id="L42"><td><a href="#L42">42</a></td><td>RIKER:  I guess we're fortunate you had any at all, sir.</td></tr>
 
-  WORF
-     Link established. Receiving.
+<tr id="L43"><td><a href="#L43">43</a></td><td>WORF:  Captain, transfer of information complete.</td></tr>
 
-  FAJO [on viewscreen]
-     Can we be of any further assistance?
+<tr id="L44"><td><a href="#L44">44</a></td><td>PICARD:  Mister Fajo, thank you for your help.</td></tr>
 
-  PICARD
-     How much hytritium did we manage to bring on
-     board?
+<tr id="L45"><td><a href="#L45">45</a></td><td>ANNOTATION: transmission ends</td></tr>
 
-  RIKER
-     Eighty one kilos.
+<tr id="L46"><td><a href="#L46">46</a></td><td>PICARD:  Mister Crusher, set a course for the Beta Agni Two system, warp six.</td></tr>
 
-  LAFORGE
-     That will barely allow us to complete our mission,
-     Captain, but it leaves us no margin for error.
+<tr id="L47"><td><a href="#L47">47</a></td><td>WESLEY:  Aye, sir.</td></tr>
 
-  PICARD
-     Mister Fajo, I realise we have acquired your
-     complete supply of hytritium. Do you know where we
-     could obtain some more?
+<tr id="L48"><td><a href="#L48">48</a></td><td>RIKER:  The Grissom is near the Sigma Erani system. I'll alert them to stand by in case we need more hytritium.</td></tr>
 
-  FAJO [on viewscreen]
-     That may be difficult. The only source I know is
-     in the Sigma Erani system.
+<tr id="L49"><td><a href="#L49">49</a></td><td>PICARD:  Thank you, Number One.</td></tr>
 
-  RIKER
-     Three weeks away, sir.
+<tr id="L50"><td><a href="#L50">50</a></td><td>WESLEY:  Course laid in, sir.</td></tr>
 
-  FAJO [on viewscreen]
-     And I can't guarantee they'll have any. For
-     obvious reasons, no one wants to keep it around.
-     In fact, even I may stop selling it. It's just too
-     dangerous.
+<tr id="L51"><td><a href="#L51">51</a></td><td>PICARD:  Engage.</td></tr>
 
-  RIKER
-     I guess we're fortunate you had any at all, sir.
+<tr><td></td><td>LOCATION--Fajo's den</td></tr>
+<tr id="L52"><td><a href="#L52">52</a></td><td>ANNOTATION: It's a large, clean room with ornamentation arranged on display around the walls and a red circular seat in the middle. The rigid Data is currently laid across it. He suddenly reboots and sits up. His communicator is gone</td></tr>
 
-  WORF
-     Captain, transfer of information complete.
+<tr id="L53"><td><a href="#L53">53</a></td><td>DATA:  What am I doing here?</td></tr>
 
-  PICARD
-     Mister Fajo, thank you for your help.
+<tr id="L54"><td><a href="#L54">54</a></td><td>ANNOTATION: Fajo and Varria enter</td></tr>
 
-  ANNOTATION
-     transmission ends
+<tr id="L55"><td><a href="#L55">55</a></td><td>FAJO:  Wondrous. The detail. The balance. Was I not right, Varria? What a remarkable piece of work.</td></tr>
 
-  PICARD
-     Mister Crusher, set a course for the Beta Agni Two
-     system, warp six.
+<tr id="L56"><td><a href="#L56">56</a></td><td>DATA:  Why have I been brought here?</td></tr>
 
-  WESLEY
-     Aye, sir.
+<tr id="L57"><td><a href="#L57">57</a></td><td>FAJO:  The voice simulation. it's perfection. The inflections, the timing.</td></tr>
 
-  RIKER
-     The Grissom is near the Sigma Erani system. I'll
-     alert them to stand by in case we need more
-     hytritium.
+<tr id="L58"><td><a href="#L58">58</a></td><td>ANNOTATION: Fajo snaps his fingers to test Data's responses, then speaks to him as if Data does not understand English, complete with gestures</td></tr>
 
-  PICARD
-     Thank you, Number One.
+<tr id="L59"><td><a href="#L59">59</a></td><td>FAJO:  It took great effort. Effort. to bring you here. I was sure he'd be worth it. I was right.</td></tr>
 
-  WESLEY
-     Course laid in, sir.
+<tr id="L60"><td><a href="#L60">60</a></td><td>DATA:  I've been delivered here against my wishes. I would like to know the reason.</td></tr>
 
-  PICARD
-     Engage.
+<tr id="L61"><td><a href="#L61">61</a></td><td>FAJO:  Certainly. You have been brought here for my enjoyment and my appreciation.</td></tr>
 
+<tr id="L62"><td><a href="#L62">62</a></td><td>DATA:  Am I to infer that you intend to keep me captive?</td></tr>
 
-LOCATION--Fajo's den
+<tr id="L63"><td><a href="#L63">63</a></td><td>FAJO:  Captive? Captive? That's such an inappropriate description. My dear android. May I call you Data?</td></tr>
 
-  ANNOTATION
-     It's a large, clean room with ornamentation
-     arranged on display around the walls and a red
-     circular seat in the middle. The rigid Data is
-     currently laid across it. He suddenly reboots and
-     sits up. His communicator is gone
+<tr id="L64"><td><a href="#L64">64</a></td><td>DATA:  It is my name.</td></tr>
 
-  DATA
-     What am I doing here?
+<tr id="L65"><td><a href="#L65">65</a></td><td>FAJO:  Data. You will be catered to, fawned over, cared for as you never have been before. Your every wish will be fulfilled</td></tr>
 
-  ANNOTATION
-     Fajo and Varria enter
+<tr id="L66"><td><a href="#L66">66</a></td><td>DATA:  I wish to leave.</td></tr>
 
-  FAJO
-     Wondrous. The detail. The balance. Was I not
-     right, Varria? What a remarkable piece of work.
+<tr id="L67"><td><a href="#L67">67</a></td><td>FAJO:  Almost every wish.</td></tr>
 
-  DATA
-     Why have I been brought here?
+<tr id="L68"><td><a href="#L68">68</a></td><td>DATA:  This is unacceptable, sir. I have no desire to remain here and even if I did, my Starfleet duties would not allow it.</td></tr>
 
-  FAJO
-     The voice simulation. it's perfection. The
-     inflections, the timing.
+<tr id="L69"><td><a href="#L69">69</a></td><td>FAJO:  It's so single minded, isn't it?</td></tr>
 
-  ANNOTATION
-     Fajo snaps his fingers to test Data's responses,
-     then speaks to him as if Data does not understand
-     English, complete with gestures
+<tr id="L70"><td><a href="#L70">70</a></td><td>VARRIA:  Very persistent.</td></tr>
 
-  FAJO
-     It took great effort. Effort. to bring you here. I
-     was sure he'd be worth it. I was right.
+<tr id="L71"><td><a href="#L71">71</a></td><td>FAJO:  But it's very polite, which is a very nice touch. I decline to allow you to go.</td></tr>
 
-  DATA
-     I've been delivered here against my wishes. I
-     would like to know the reason.
+<tr id="L72"><td><a href="#L72">72</a></td><td>DATA:  Then I am forced to attempt escape.</td></tr>
 
-  FAJO
-     Certainly. You have been brought here for my
-     enjoyment and my appreciation.
+<tr id="L73"><td><a href="#L73">73</a></td><td>ANNOTATION: Data tries to force the door open</td></tr>
 
-  DATA
-     Am I to infer that you intend to keep me captive?
+<tr id="L74"><td><a href="#L74">74</a></td><td>FAJO:  Ten androids just like you might be able to force that thing open. But then again, there aren't any more just like you, are there? It's keyed to galvanic skin responses and DNA patterns. Sorry.</td></tr>
 
-  FAJO
-     Captive? Captive? That's such an inappropriate
-     description. My dear android. May I call you Data?
+<tr id="L75"><td><a href="#L75">75</a></td><td>DATA:  Then you will have to open it for me.</td></tr>
 
-  DATA
-     It is my name.
+<tr id="L76"><td><a href="#L76">76</a></td><td>ANNOTATION: But as soon as Data gets to almost arms reach of Fajo, he is stopped by a green forcefield. He tries again at a run and is thrown back across the room</td></tr>
 
-  FAJO
-     Data. You will be catered to, fawned over, cared
-     for as you never have been before. Your every wish
-     will be fulfilled
+<tr id="L77"><td><a href="#L77">77</a></td><td>FAJO:  Oh. Really, I wouldn't do that again if I were you. This is a proximity-actuated field. It impedes positron flow. It's very bad for the brainpaths in the long term.</td></tr>
 
-  DATA
-     I wish to leave.
+<tr id="L78"><td><a href="#L78">78</a></td><td>DATA:  I fail to understand the value you place on my presence.</td></tr>
 
-  FAJO
-     Almost every wish.
+<tr id="L79"><td><a href="#L79">79</a></td><td>FAJO:  Well, just look around the room. There are items her gathered from half the galaxy. Right here. This is the very first Basotile ever created. (a sort of avant-guard sculpture) Sorry. (Fajo moves so Data can see it) It's very, very ancient. Hundreds of years old. It's priceless.</td></tr>
 
-  DATA
-     This is unacceptable, sir. I have no desire to
-     remain here and even if I did, my Starfleet duties
-     would not allow it.
+<tr id="L80"><td><a href="#L80">80</a></td><td>ANNOTATION: He goes past a beautiful porcelain urn on a stand to an orange rectangular thing</td></tr>
 
-  FAJO
-     It's so single minded, isn't it?
+<tr id="L81"><td><a href="#L81">81</a></td><td>FAJO:  Come. This vase is made by Mark, the late Mark Off-Zel from Sirrie Four. (painting) Dali. This is the only known Roger Maris trading card from Earth circa 1962. The smell? Bubblegum. I've preserved the scent. What? A Lapling.</td></tr>
 
-  VARRIA
-     Very persistent.
+<tr id="L82"><td><a href="#L82">82</a></td><td>ANNOTATION: A glove puppet with huge blue eyes in a case</td></tr>
 
-  FAJO
-     But it's very polite, which is a very nice touch.
-     I decline to allow you to go.
+<tr id="L83"><td><a href="#L83">83</a></td><td>DATA:  I thought they were extinct.</td></tr>
 
-  DATA
-     Then I am forced to attempt escape.
+<tr id="L84"><td><a href="#L84">84</a></td><td>FAJO:  Extinct? Good. That is what is generally believed. She is the last surviving member of her species. They're very defenseless creatures, really. Everything that you see in the room here, everything. One of its kind. Unique. All original. Just as you are. There. (a chair) That is your place of honour. Sit, sit. Sit! You think perhaps it might be uncomfortable? But then again, you don't give a thought to comfort, do you. (to Varria) When Palor Toff learns of that, he'll swallow his tongue with envy. I can't wait to see his face. You are the crown jewel of my collection. You're a treasure beyond comparison.</td></tr>
 
-  ANNOTATION
-     Data tries to force the door open
+<tr id="L85"><td><a href="#L85">85</a></td><td>ANNOTATION: The comm. beeps</td></tr>
 
-  FAJO
-     Ten androids just like you might be able to force
-     that thing open. But then again, there aren't any
-     more just like you, are there? It's keyed to
-     galvanic skin responses and DNA patterns. Sorry.
+<tr id="L86"><td><a href="#L86">86</a></td><td>VARRIA:  Yes, go ahead.</td></tr>
 
-  DATA
-     Then you will have to open it for me.
+<tr id="L87"><td><a href="#L87">87</a></td><td>FAJO:  I think you should be flattered.</td></tr>
 
-  ANNOTATION
-     But as soon as Data gets to almost arms reach of
-     Fajo, he is stopped by a green forcefield. He
-     tries again at a run and is thrown back across the
-     room
+<tr id="L88"><td><a href="#L88">88</a></td><td>DATA:  I am not, sir. Most intelligent lifeforms find involuntary confinement offensive and inequitable. Moreover, you have violated Federation law</td></tr>
 
-  FAJO
-     Oh. Really, I wouldn't do that again if I were
-     you. This is a proximity-actuated field. It
-     impedes positron flow. It's very bad for the
-     brainpaths in the long term.
+<tr id="L89"><td><a href="#L89">89</a></td><td>FAJO:  I know, I know. What I've done is evil, selfish, immoral, unprincipled, illegal. Well, I've learned to live with it.</td></tr>
 
-  DATA
-     I fail to understand the value you place on my
-     presence.
+<tr id="L90"><td><a href="#L90">90</a></td><td>VARRIA:  The Andorians wish to make a bid on the shipment of Tellurian spices you offered.</td></tr>
 
-  FAJO
-     Well, just look around the room. There are items
-     her gathered from half the galaxy. Right here.
-     This is the very first Basotile ever created. (a
-     sort of avant-guard sculpture) Sorry. (Fajo moves
-     so Data can see it) It's very, very ancient.
-     Hundreds of years old. It's priceless.
+<tr id="L91"><td><a href="#L91">91</a></td><td>FAJO:  They've had four days to decide! Why do they have to decide right! Sorry.</td></tr>
 
-  ANNOTATION
-     He goes past a beautiful porcelain urn on a stand
-     to an orange rectangular thing
+<tr id="L92"><td><a href="#L92">92</a></td><td>DATA:  I must emphasize, Mister Fajo, that I consider this captivity a hostile act on your part.</td></tr>
 
-  FAJO
-     Come. This vase is made by Mark, the late Mark
-     Off-Zel from Sirrie Four. (painting) Dali. This is
-     the only known Roger Maris trading card from Earth
-     circa 1962. The smell? Bubblegum. I've preserved
-     the scent. What? A Lapling.
+<tr id="L93"><td><a href="#L93">93</a></td><td>FAJO:  You'll get used to it.</td></tr>
 
-  ANNOTATION
-     A glove puppet with huge blue eyes in a case
+<tr><td></td><td>LOCATION--Data's quarters</td></tr>
+<tr id="L94"><td><a href="#L94">94</a></td><td>WESLEY:  I can't believe he's gone.</td></tr>
 
-  DATA
-     I thought they were extinct.
+<tr id="L95"><td><a href="#L95">95</a></td><td>LAFORGE:  I always thought he'd outlive us, by centuries.</td></tr>
 
-  FAJO
-     Extinct? Good. That is what is generally believed.
-     She is the last surviving member of her species.
-     They're very defenseless creatures, really.
-     Everything that you see in the room here,
-     everything. One of its kind. Unique. All original.
-     Just as you are. There. (a chair) That is your
-     place of honour. Sit, sit. Sit! You think perhaps
-     it might be uncomfortable? But then again, you
-     don't give a thought to comfort, do you. (to
-     Varria) When Palor Toff learns of that, he'll
-     swallow his tongue with envy. I can't wait to see
-     his face. You are the crown jewel of my
-     collection. You're a treasure beyond comparison.
+<tr id="L96"><td><a href="#L96">96</a></td><td>ANNOTATION: Wesley uncovers a painting</td></tr>
 
-  ANNOTATION
-     The comm. beeps
+<tr id="L97"><td><a href="#L97">97</a></td><td>WESLEY:  He'd been working on this for months. He never felt it was quite finished.</td></tr>
 
-  VARRIA
-     Yes, go ahead.
+<tr id="L98"><td><a href="#L98">98</a></td><td>LAFORGE:  You know what a critic Data was, especially about his own work.</td></tr>
 
-  FAJO
-     I think you should be flattered.
+<tr id="L99"><td><a href="#L99">99</a></td><td>ANNOTATION: Geordi opens a drawer and takes out a book. Shakespeare, I think</td></tr>
 
-  DATA
-     I am not, sir. Most intelligent lifeforms find
-     involuntary confinement offensive and inequitable.
-     Moreover, you have violated Federation law
+<tr id="L100"><td><a href="#L100">100</a></td><td>WESLEY:  That was a gift from the Captain.</td></tr>
 
-  FAJO
-     I know, I know. What I've done is evil, selfish,
-     immoral, unprincipled, illegal. Well, I've learned
-     to live with it.
+<tr id="L101"><td><a href="#L101">101</a></td><td>LAFORGE:  And he should have it back.</td></tr>
 
-  VARRIA
-     The Andorians wish to make a bid on the shipment
-     of Tellurian spices you offered.
+<tr id="L102"><td><a href="#L102">102</a></td><td>ANNOTATION: Cards and poker chips</td></tr>
 
-  FAJO
-     They've had four days to decide! Why do they have
-     to decide right! Sorry.
+<tr id="L103"><td><a href="#L103">103</a></td><td>WESLEY:  Those should go to Commander Riker.</td></tr>
 
-  DATA
-     I must emphasize, Mister Fajo, that I consider
-     this captivity a hostile act on your part.
+<tr id="L104"><td><a href="#L104">104</a></td><td>LAFORGE:  Data always fell for Riker's bluffs.</td></tr>
 
-  FAJO
-     You'll get used to it.
+<tr id="L105"><td><a href="#L105">105</a></td><td>ANNOTATION: A box with eight medals in it</td></tr>
 
+<tr id="L106"><td><a href="#L106">106</a></td><td>WESLEY:  These are some of Starfleet's highest honours.</td></tr>
 
-LOCATION--Data's quarters
+<tr id="L107"><td><a href="#L107">107</a></td><td>LAFORGE:  Not bad for a walking pile of circuitry and memory cells.</td></tr>
 
-  WESLEY
-     I can't believe he's gone.
+<tr id="L108"><td><a href="#L108">108</a></td><td>ANNOTATION: and the hologram of Tasha Yar</td></tr>
 
-  LAFORGE
-     I always thought he'd outlive us, by centuries.
+<tr id="L109"><td><a href="#L109">109</a></td><td>LAFORGE:  You know, I keep going over and over the accident in my mind, trying to figure out what went wrong. I can see Data in the shuttle, almost like I'm sitting there next to him going through the departure sequence. What the hell happened? Why didn't I see it coming? What am I missing?</td></tr>
 
-  ANNOTATION
-     Wesley uncovers a painting
+<tr><td></td><td>LOCATION--Fajo's den</td></tr>
+<tr id="L110"><td><a href="#L110">110</a></td><td>VARRIA:  Kivas wishes you to wear this set of clothes, and to sit in your chair.</td></tr>
 
-  WESLEY
-     He'd been working on this for months. He never
-     felt it was quite finished.
+<tr id="L111"><td><a href="#L111">111</a></td><td>DATA:  I have no reason to accede to Mister Fajo's wishes.</td></tr>
 
-  LAFORGE
-     You know what a critic Data was, especially about
-     his own work.
+<tr id="L112"><td><a href="#L112">112</a></td><td>VARRIA:  He will give you reasons if you force him to.</td></tr>
 
-  ANNOTATION
-     Geordi opens a drawer and takes out a book.
-     Shakespeare, I think
+<tr id="L113"><td><a href="#L113">113</a></td><td>DATA:  Mister Fajo is deluding himself if he believes he can keep me here. The Enterprise is certain to find me.</td></tr>
 
-  WESLEY
-     That was a gift from the Captain.
+<tr id="L114"><td><a href="#L114">114</a></td><td>VARRIA:  They're not even looking for you. They think you're destroyed. Your shuttle blew up. A hytritium explosion.</td></tr>
 
-  LAFORGE
-     And he should have it back.
+<tr id="L115"><td><a href="#L115">115</a></td><td>DATA:  They will scan the debris and discover I was not aboard.</td></tr>
 
-  ANNOTATION
-     Cards and poker chips
+<tr id="L116"><td><a href="#L116">116</a></td><td>VARRIA:  They'll find exactly what they thought they'd find. Traces of your component elements. We put them aboard the shuttle in just the right proportions.</td></tr>
 
-  WESLEY
-     Those should go to Commander Riker.
+<tr id="L117"><td><a href="#L117">117</a></td><td>DATA:  Clearly, Mister Fajo has no moral difficulty with my imprisonment here.</td></tr>
 
-  LAFORGE
-     Data always fell for Riker's bluffs.
+<tr id="L118"><td><a href="#L118">118</a></td><td>VARRIA:  Mister Fajo has no moral difficulties at all.</td></tr>
 
-  ANNOTATION
-     A box with eight medals in it
+<tr id="L119"><td><a href="#L119">119</a></td><td>DATA:  Do you?</td></tr>
 
-  WESLEY
-     These are some of Starfleet's highest honours.
+<tr id="L120"><td><a href="#L120">120</a></td><td>VARRIA:  Clever, android. Is it part of your programme to seek out vulnerabilities in your enemies?</td></tr>
 
-  LAFORGE
-     Not bad for a walking pile of circuitry and memory
-     cells.
+<tr id="L121"><td><a href="#L121">121</a></td><td>DATA:  Yes. Are you my enemy?</td></tr>
 
-  ANNOTATION
-     and the hologram of Tasha Yar
+<tr id="L122"><td><a href="#L122">122</a></td><td>VARRIA:  I obey Fajo. And so does everyone on this ship.</td></tr>
 
-  LAFORGE
-     You know, I keep going over and over the accident
-     in my mind, trying to figure out what went wrong.
-     I can see Data in the shuttle, almost like I'm
-     sitting there next to him going through the
-     departure sequence. What the hell happened? Why
-     didn't I see it coming? What am I missing?
+<tr id="L123"><td><a href="#L123">123</a></td><td>DATA:  Why?</td></tr>
 
+<tr id="L124"><td><a href="#L124">124</a></td><td>VARRIA:  You are a curious thing, aren't you?</td></tr>
 
-LOCATION--Fajo's den
+<tr id="L125"><td><a href="#L125">125</a></td><td>DATA:  Do you object to the question?</td></tr>
 
-  VARRIA
-     Kivas wishes you to wear this set of clothes, and
-     to sit in your chair.
+<tr id="L126"><td><a href="#L126">126</a></td><td>VARRIA:  Kivas finds a way to get what he wants from his people. His rewards for loyalty are lavish. His punishments for disloyalty are equally lavish. You won't find anyone here on this ship to help you escape. Face it, android. He has you.</td></tr>
 
-  DATA
-     I have no reason to accede to Mister Fajo's
-     wishes.
+<tr id="L127"><td><a href="#L127">127</a></td><td>DATA:  It appears he has us both.</td></tr>
 
-  VARRIA
-     He will give you reasons if you force him to.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L128"><td><a href="#L128">128</a></td><td>LAFORGE:  The reason I can't find anything is that there's nothing there to find. I've run this analysis dozens of times over and there's just no indication of any malfunction.</td></tr>
 
-  DATA
-     Mister Fajo is deluding himself if he believes he
-     can keep me here. The Enterprise is certain to
-     find me.
+<tr id="L129"><td><a href="#L129">129</a></td><td>RIKER:  No possible explanation at all?</td></tr>
 
-  VARRIA
-     They're not even looking for you. They think
-     you're destroyed. Your shuttle blew up. A
-     hytritium explosion.
+<tr id="L130"><td><a href="#L130">130</a></td><td>LAFORGE:  Yeah, there's one, but I don't believe it. Pilot error.</td></tr>
 
-  DATA
-     They will scan the debris and discover I was not
-     aboard.
+<tr id="L131"><td><a href="#L131">131</a></td><td>PICARD:  I know it's hard to accept, but even the best</td></tr>
 
-  VARRIA
-     They'll find exactly what they thought they'd
-     find. Traces of your component elements. We put
-     them aboard the shuttle in just the right
-     proportions.
+<tr id="L132"><td><a href="#L132">132</a></td><td>LAFORGE:  Captain, it's not only hard to accept, with Data it's impossible. I mean, I can't even begin to calculate the odds. If Data were here, we could ask him.</td></tr>
 
-  DATA
-     Clearly, Mister Fajo has no moral difficulty with
-     my imprisonment here.
+<tr id="L133"><td><a href="#L133">133</a></td><td>PICARD:  What are you suggesting, Lieutenant?</td></tr>
 
-  VARRIA
-     Mister Fajo has no moral difficulties at all.
+<tr id="L134"><td><a href="#L134">134</a></td><td>LAFORGE:  I don't know, sir. It just doesn't make sense, and I like things to make sense, that's all.</td></tr>
 
-  DATA
-     Do you?
+<tr id="L135"><td><a href="#L135">135</a></td><td>RIKER:  Geordi, maybe if you get a little rest and came at this thing fresh.</td></tr>
 
-  VARRIA
-     Clever, android. Is it part of your programme to
-     seek out vulnerabilities in your enemies?
+<tr id="L136"><td><a href="#L136">136</a></td><td>LAFORGE:  A little rest isn't going to change the computer analysis, Commander.</td></tr>
 
-  DATA
-     Yes. Are you my enemy?
+<tr id="L137"><td><a href="#L137">137</a></td><td>PICARD:  I'm sure you have done a complete investigation, and if you wish to continue it, of course you have my support. But we shall be reaching the Beta Agni system shortly, and I expect you to be rested.</td></tr>
 
-  VARRIA
-     I obey Fajo. And so does everyone on this ship.
+<tr id="L138"><td><a href="#L138">138</a></td><td>LAFORGE:  I understand, sir.</td></tr>
 
-  DATA
-     Why?
+<tr id="L139"><td><a href="#L139">139</a></td><td>PICARD:  Dismissed. Geordi, I understand how much we want, even need, to explain an accident like this. Sometimes there just aren't any explanations.</td></tr>
 
-  VARRIA
-     You are a curious thing, aren't you?
+<tr id="L140"><td><a href="#L140">140</a></td><td>ANNOTATION: La Forge leaves</td></tr>
 
-  DATA
-     Do you object to the question?
+<tr id="L141"><td><a href="#L141">141</a></td><td>RIKER:  For an android with no feelings, he sure managed to evoke them in others.</td></tr>
 
-  VARRIA
-     Kivas finds a way to get what he wants from his
-     people. His rewards for loyalty are lavish. His
-     punishments for disloyalty are equally lavish. You
-     won't find anyone here on this ship to help you
-     escape. Face it, android. He has you.
+<tr id="L142"><td><a href="#L142">142</a></td><td>PICARD:  We must select an officer to replace Data at Ops. Recommendations?</td></tr>
 
-  DATA
-     It appears he has us both.
+<tr id="L143"><td><a href="#L143">143</a></td><td>RIKER:  Worf would be my first choice, sir.</td></tr>
 
+<tr id="L144"><td><a href="#L144">144</a></td><td>PICARD:  Mine as well. Make it so.</td></tr>
 
-LOCATION--Ready room
+<tr id="L145"><td><a href="#L145">145</a></td><td>ANNOTATION: Picard opens the copy of Shakespeare that has been returned to him at Data's bookmark. It's Hamlet, Act 1, Scene 2</td></tr>
 
-  LAFORGE
-     The reason I can't find anything is that there's
-     nothing there to find. I've run this analysis
-     dozens of times over and there's just no
-     indication of any malfunction.
+<tr id="L146"><td><a href="#L146">146</a></td><td>PICARD:  (reading) [1]He was a man, taken for all in all. I shall not look upon his like again.</td></tr>
 
-  RIKER
-     No possible explanation at all?
+<tr><td></td><td>LOCATION--Fajo's den</td></tr>
+<tr id="L147"><td><a href="#L147">147</a></td><td>ANNOTATION: Data is feeding the lapling when Fajo enters</td></tr>
 
-  LAFORGE
-     Yeah, there's one, but I don't believe it. Pilot
-     error.
+<tr id="L148"><td><a href="#L148">148</a></td><td>FAJO:  You are still wearing that uniform. Why?</td></tr>
 
-  PICARD
-     I know it's hard to accept, but even the best
+<tr id="L149"><td><a href="#L149">149</a></td><td>DATA:  I am a Starfleet officer.</td></tr>
 
-  LAFORGE
-     Captain, it's not only hard to accept, with Data
-     it's impossible. I mean, I can't even begin to
-     calculate the odds. If Data were here, we could
-     ask him.
+<tr id="L150"><td><a href="#L150">150</a></td><td>FAJO:  You are not in Starfleet any longer. It's time you adjusted your programme to accept reality.</td></tr>
 
-  PICARD
-     What are you suggesting, Lieutenant?
+<tr id="L151"><td><a href="#L151">151</a></td><td>DATA:  Even if I chose to do so, it is doubtful that my programming could be sufficiently altered to accede to your wishes.</td></tr>
 
-  LAFORGE
-     I don't know, sir. It just doesn't make sense, and
-     I like things to make sense, that's all.
+<tr id="L152"><td><a href="#L152">152</a></td><td>FAJO:  Oh?</td></tr>
 
-  RIKER
-     Geordi, maybe if you get a little rest and came at
-     this thing fresh.
+<tr id="L153"><td><a href="#L153">153</a></td><td>DATA:  I have been designed with a fundamental respect for life in all its forms and a strong inhibition against causing harm to living beings.</td></tr>
 
-  LAFORGE
-     A little rest isn't going to change the computer
-     analysis, Commander.
+<tr id="L154"><td><a href="#L154">154</a></td><td>FAJO:  What a marvellous contradiction. A military pacifist. Tell me, whose dreadful decision was it to enlist you in Starfleet to begin with?</td></tr>
 
-  PICARD
-     I'm sure you have done a complete investigation,
-     and if you wish to continue it, of course you have
-     my support. But we shall be reaching the Beta Agni
-     system shortly, and I expect you to be rested.
+<tr id="L155"><td><a href="#L155">155</a></td><td>DATA:  My skills seemed appropriate</td></tr>
 
-  LAFORGE
-     I understand, sir.
+<tr id="L156"><td><a href="#L156">156</a></td><td>FAJO:  Data, Data, Data. Big mistake. A grievous error. You belong in Starfleet about as much as I belong in a verbal contract. Tell me, have you killed yet?</td></tr>
 
-  PICARD
-     Dismissed. Geordi, I understand how much we want,
-     even need, to explain an accident like this.
-     Sometimes there just aren't any explanations.
+<tr id="L157"><td><a href="#L157">157</a></td><td>DATA:  No, but I am programmed with the ability to use deadly force in the cause of defense.</td></tr>
 
-  ANNOTATION
-     La Forge leaves
+<tr id="L158"><td><a href="#L158">158</a></td><td>FAJO:  Shame on you. Shame on you. How neatly you rationalise your capabilities. How can you just casually accept your role in murder?</td></tr>
 
-  RIKER
-     For an android with no feelings, he sure managed
-     to evoke them in others.
+<tr id="L159"><td><a href="#L159">159</a></td><td>DATA:  I would not participate in murder. Perhaps you misunderstand.</td></tr>
 
-  PICARD
-     We must select an officer to replace Data at Ops.
-     Recommendations?
+<tr id="L160"><td><a href="#L160">160</a></td><td>FAJO:  Can't you see how much better it will be for you right here? The intellectual rewards alone. Our personal exploration of the galaxy. I am at war with no one. I am your liberator.</td></tr>
 
-  RIKER
-     Worf would be my first choice, sir.
+<tr id="L161"><td><a href="#L161">161</a></td><td>DATA:  You are a fine debater, sir. It is a pity you have used your verbal gifts for mere hucksterism and the advancement of your own greed.</td></tr>
 
-  PICARD
-     Mine as well. Make it so.
+<tr id="L162"><td><a href="#L162">162</a></td><td>FAJO:  Perhaps. Perhaps you would not judge me so harshly if you knew of my desperate youth, wasted, wasted on the streets of Zimballia.</td></tr>
 
-  ANNOTATION
-     Picard opens the copy of Shakespeare that has been
-     returned to him at Data's bookmark. It's Hamlet,
-     Act 1, Scene 2
+<tr id="L163"><td><a href="#L163">163</a></td><td>DATA:  Your past does not excuse unethical or immoral behaviour, sir.</td></tr>
 
-  PICARD
-     (reading) [1]He was a man, taken for all in all. I
-     shall not look upon his like again.
+<tr id="L164"><td><a href="#L164">164</a></td><td>FAJO:  Well, it doesn't matter. It isn't true anyway. My father was quite wealthy, actually. He was a thief. Data, why don't you put on these lovely new clothes and sit on the chair.</td></tr>
 
+<tr id="L165"><td><a href="#L165">165</a></td><td>DATA:  I must decline.</td></tr>
 
-LOCATION--Fajo's den
+<tr id="L166"><td><a href="#L166">166</a></td><td>FAJO:  You are going to be much more of a challenge than I had first thought. (goes to replicator) Finoplak, one hundred denkirs. (A vial of liquid appears) Now, Data, in the meantime, here is something for your logic circuits to analyse.</td></tr>
 
-  ANNOTATION
-     Data is feeding the lapling when Fajo enters
+<tr id="L167"><td><a href="#L167">167</a></td><td>ANNOTATION: Fajo thrown the liquid onto Data's uniform, which begins to smoke and dissolve</td></tr>
 
-  FAJO
-     You are still wearing that uniform. Why?
+<tr id="L168"><td><a href="#L168">168</a></td><td>FAJO:  Oh, don't worry. The solvent won't harm your, your skin. But in seconds it will completely dissolve that uniform. Personally, I'd be delighted to see you go around naked. I assume you have no modesty. But, then, I guess that decency is the rule of your Starfleet training. In any case, Data, why don't you make a decision about which alternative you dislike the least. Make a decision by dinnertime tonight. I have invited a guest to meet you, and I expect you to be as entertaining with him as you have been with me.</td></tr>
 
-  DATA
-     I am a Starfleet officer.
+<tr><td></td><td>LOCATION--Geordi's quarters</td></tr>
+<tr id="L169"><td><a href="#L169">169</a></td><td>ANNOTATION: Rest is not coming easily. Dreams are intervening</td></tr>
 
-  FAJO
-     You are not in Starfleet any longer. It's time you
-     adjusted your programme to accept reality.
+<tr id="L170"><td><a href="#L170">170</a></td><td>DATA [OC]:  Proceeding with departure. Enterprise shuttlebay two, prepare for docking. Level one precautions remain in effect.</td></tr>
 
-  DATA
-     Even if I chose to do so, it is doubtful that my
-     programming could be sufficiently altered to
-     accede to your wishes.
+<tr id="L171"><td><a href="#L171">171</a></td><td>LAFORGE:  I did miss something.</td></tr>
 
-  FAJO
-     Oh?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L172"><td><a href="#L172">172</a></td><td>ANNOTATION: Deanna is talking to a woman when Worf comes by</td></tr>
 
-  DATA
-     I have been designed with a fundamental respect
-     for life in all its forms and a strong inhibition
-     against causing harm to living beings.
+<tr id="L173"><td><a href="#L173">173</a></td><td>TROI:  (to woman) See you later. (to Worf) Your first watch at Ops?</td></tr>
 
-  FAJO
-     What a marvellous contradiction. A military
-     pacifist. Tell me, whose dreadful decision was it
-     to enlist you in Starfleet to begin with?
+<tr id="L174"><td><a href="#L174">174</a></td><td>WORF:  I have served at the position before.</td></tr>
 
-  DATA
-     My skills seemed appropriate
+<tr id="L175"><td><a href="#L175">175</a></td><td>TROI:  I've been concerned about you.</td></tr>
 
-  FAJO
-     Data, Data, Data. Big mistake. A grievous error.
-     You belong in Starfleet about as much as I belong
-     in a verbal contract. Tell me, have you killed
-     yet?
+<tr id="L176"><td><a href="#L176">176</a></td><td>WORF:  About me? Why?</td></tr>
 
-  DATA
-     No, but I am programmed with the ability to use
-     deadly force in the cause of defense.
+<tr id="L177"><td><a href="#L177">177</a></td><td>TROI:  Because I know how I'd feel if I was asked to replace Data at his station.</td></tr>
 
-  FAJO
-     Shame on you. Shame on you. How neatly you
-     rationalise your capabilities. How can you just
-     casually accept your role in murder?
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L178"><td><a href="#L178">178</a></td><td>WORF:  Bridge. Promotion due to the death of a crewmate is commonplace on Klingon ships.</td></tr>
 
-  DATA
-     I would not participate in murder. Perhaps you
-     misunderstand.
+<tr id="L179"><td><a href="#L179">179</a></td><td>TROI:  I know, but this isn't a Klingon ship and Data was your friend. And it's the second time you've replaced a crewmate who's died.</td></tr>
 
-  FAJO
-     Can't you see how much better it will be for you
-     right here? The intellectual rewards alone. Our
-     personal exploration of the galaxy. I am at war
-     with no one. I am your liberator.
+<tr id="L180"><td><a href="#L180">180</a></td><td>WORF:  I honour Data's memory, as I did Lieutenant Yar's, by attempting to perform their duties as well as they did.</td></tr>
 
-  DATA
-     You are a fine debater, sir. It is a pity you have
-     used your verbal gifts for mere hucksterism and
-     the advancement of your own greed.
+<tr id="L181"><td><a href="#L181">181</a></td><td>TROI:  In true Klingon fashion.</td></tr>
 
-  FAJO
-     Perhaps. Perhaps you would not judge me so harshly
-     if you knew of my desperate youth, wasted, wasted
-     on the streets of Zimballia.
+<tr id="L182"><td><a href="#L182">182</a></td><td>WORF:  I appreciate your concern.</td></tr>
 
-  DATA
-     Your past does not excuse unethical or immoral
-     behaviour, sir.
+<tr><td></td><td>LOCATION--La Forge's office</td></tr>
+<tr id="L183"><td><a href="#L183">183</a></td><td>LAFORGE:  Computer, now replay shuttle audio transmission time index zero four two three. This is Data's second trip.</td></tr>
 
-  FAJO
-     Well, it doesn't matter. It isn't true anyway. My
-     father was quite wealthy, actually. He was a
-     thief. Data, why don't you put on these lovely new
-     clothes and sit on the chair.
+<tr id="L184"><td><a href="#L184">184</a></td><td>DATA [OC]:  Proceeding with departure. Enterprise shuttlebay two, prepare for docking. Level one precautions remain in effect. Shuttle has cleared the Jovis cargo bay.</td></tr>
 
-  DATA
-     I must decline.
+<tr id="L185"><td><a href="#L185">185</a></td><td>WESLEY:  Sounds just like the first trip.</td></tr>
 
-  FAJO
-     You are going to be much more of a challenge than
-     I had first thought. (goes to replicator)
-     Finoplak, one hundred denkirs. (A vial of liquid
-     appears) Now, Data, in the meantime, here is
-     something for your logic circuits to analyse.
+<tr id="L186"><td><a href="#L186">186</a></td><td>LAFORGE:  Exactly the same. That's protocol. And that's Data. Following protocol to the letter. Okay, computer, now replay shuttle audio transmission, time index zero four three nine. Third and final trip.</td></tr>
 
-  ANNOTATION
-     Fajo thrown the liquid onto Data's uniform, which
-     begins to smoke and dissolve
+<tr id="L187"><td><a href="#L187">187</a></td><td>DATA [OC]:  Loading is complete. I am proceeding with departure. Enterprise shuttlebay two, prepare for docking. Level one precautions remain in effect.</td></tr>
 
-  FAJO
-     Oh, don't worry. The solvent won't harm your, your
-     skin. But in seconds it will completely dissolve
-     that uniform. Personally, I'd be delighted to see
-     you go around naked. I assume you have no modesty.
-     But, then, I guess that decency is the rule of
-     your Starfleet training. In any case, Data, why
-     don't you make a decision about which alternative
-     you dislike the least. Make a decision by
-     dinnertime tonight. I have invited a guest to meet
-     you, and I expect you to be as entertaining with
-     him as you have been with me.
+<tr id="L188"><td><a href="#L188">188</a></td><td>LAFORGE:  That's it. That's the last communication.</td></tr>
 
+<tr id="L189"><td><a href="#L189">189</a></td><td>WESLEY:  He didn't report the shuttle clearing the cargo bay of the Jovis.</td></tr>
 
-LOCATION--Geordi's quarters
+<tr id="L190"><td><a href="#L190">190</a></td><td>LAFORGE:  Of course, there really wasn't any reason for him to make voice contact. He knew we'd be monitoring his position. Any other pilot might not bother, but Data? not following standard procedures?</td></tr>
 
-  ANNOTATION
-     Rest is not coming easily. Dreams are intervening
+<tr id="L191"><td><a href="#L191">191</a></td><td>WESLEY:  What do you think it means?</td></tr>
 
-  DATA [OC]
-     Proceeding with departure. Enterprise shuttlebay
-     two, prepare for docking. Level one precautions
-     remain in effect.
+<tr id="L192"><td><a href="#L192">192</a></td><td>LAFORGE:  I'm not sure, Wes. I suppose he could've been too busy. Maybe he saw something was wrong.</td></tr>
 
-  LAFORGE
-     I did miss something.
+<tr id="L193"><td><a href="#L193">193</a></td><td>WESLEY:  Without communicating it? That doesn't sound like Data either.</td></tr>
 
+<tr id="L194"><td><a href="#L194">194</a></td><td>LAFORGE:  Which means maybe something was wrong with him. But there's no other indication of that. Nothing he said or did during the entire mission. None. I sure wish I could talk to the last people who saw him alive.</td></tr>
 
-LOCATION--Corridor
+<tr><td></td><td>LOCATION--Fajo's den</td></tr>
+<tr id="L195"><td><a href="#L195">195</a></td><td>ANNOTATION: Data is in the overall when Fajo and Varria enter with a guest</td></tr>
 
-  ANNOTATION
-     Deanna is talking to a woman when Worf comes by
+<tr id="L196"><td><a href="#L196">196</a></td><td>TOFF:  I've added a Veltan sex idol to my collection.</td></tr>
 
-  TROI
-     (to woman) See you later. (to Worf) Your first
-     watch at Ops?
+<tr id="L197"><td><a href="#L197">197</a></td><td>FAJO:  I've got four of them.</td></tr>
 
-  WORF
-     I have served at the position before.
+<tr id="L198"><td><a href="#L198">198</a></td><td>TOFF:  What? With the pearls intact?</td></tr>
 
-  TROI
-     I've been concerned about you.
+<tr id="L199"><td><a href="#L199">199</a></td><td>FAJO:  Please. Pearls were added by the Ferengi agents to increase the value.</td></tr>
 
-  WORF
-     About me? Why?
+<tr id="L200"><td><a href="#L200">200</a></td><td>TOFF:  What is that? Something new? And you didn't tell me.</td></tr>
 
-  TROI
-     Because I know how I'd feel if I was asked to
-     replace Data at his station.
+<tr id="L201"><td><a href="#L201">201</a></td><td>FAJO:  Mister Data, I'm delighted to see that you dressed for the occasion. Say hello to my very good friend, Palor Toff.</td></tr>
 
+<tr id="L202"><td><a href="#L202">202</a></td><td>ANNOTATION: Data remains still and silence. Passive resistance in action</td></tr>
 
-LOCATION--Turbolift
+<tr id="L203"><td><a href="#L203">203</a></td><td>FAJO:  Data, say hello. No need to be shy.</td></tr>
 
-  WORF
-     Bridge. Promotion due to the death of a crewmate
-     is commonplace on Klingon ships.
+<tr id="L204"><td><a href="#L204">204</a></td><td>TOFF:  It's a mannequin of some sort.</td></tr>
 
-  TROI
-     I know, but this isn't a Klingon ship and Data was
-     your friend. And it's the second time you've
-     replaced a crewmate who's died.
+<tr id="L205"><td><a href="#L205">205</a></td><td>FAJO:  This is not a mannequin. This is Data. This is formerly Lieutenant Commander Data of the Federation Starfleet. The only sentient android in existence.</td></tr>
 
-  WORF
-     I honour Data's memory, as I did Lieutenant Yar's,
-     by attempting to perform their duties as well as
-     they did.
+<tr id="L206"><td><a href="#L206">206</a></td><td>TOFF:  It doesn't seem particularly sentient right now.</td></tr>
 
-  TROI
-     In true Klingon fashion.
+<tr id="L207"><td><a href="#L207">207</a></td><td>FAJO:  That's because it's playing a stupid little game with us.</td></tr>
 
-  WORF
-     I appreciate your concern.
+<tr id="L208"><td><a href="#L208">208</a></td><td>TOFF:  Well, someone has certainly played a game on you, Fajo.</td></tr>
 
+<tr id="L209"><td><a href="#L209">209</a></td><td>FAJO:  I don't find this amusing. I demand that you behave normally. Behave normally! I know you can hear me!</td></tr>
 
-LOCATION--La Forge's office
+<tr id="L210"><td><a href="#L210">210</a></td><td>ANNOTATION: Fajo raises his hand to Data, which means the proximity field hits, and Data topples forward stiff as a board</td></tr>
 
-  LAFORGE
-     Computer, now replay shuttle audio transmission
-     time index zero four two three. This is Data's
-     second trip.
+<tr id="L211"><td><a href="#L211">211</a></td><td>TOFF:  He falls well.</td></tr>
 
-  DATA [OC]
-     Proceeding with departure. Enterprise shuttlebay
-     two, prepare for docking. Level one precautions
-     remain in effect. Shuttle has cleared the Jovis
-     cargo bay.
+<tr id="L212"><td><a href="#L212">212</a></td><td>FAJO:  I apologize for this.</td></tr>
 
-  WESLEY
-     Sounds just like the first trip.
+<tr id="L213"><td><a href="#L213">213</a></td><td>TOFF:  Do not be upset, my friend. I'm having a delightful visit. Come along, Varria. You're much more fun to play with than Fajo's new toy.</td></tr>
 
-  LAFORGE
-     Exactly the same. That's protocol. And that's
-     Data. Following protocol to the letter. Okay,
-     computer, now replay shuttle audio transmission,
-     time index zero four three nine. Third and final
-     trip.
+<tr id="L214"><td><a href="#L214">214</a></td><td>FAJO:  (to Data) You'll regret this.</td></tr>
 
-  DATA [OC]
-     Loading is complete. I am proceeding with
-     departure. Enterprise shuttlebay two, prepare for
-     docking. Level one precautions remain in effect.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L215"><td><a href="#L215">215</a></td><td>WESLEY:  Now entering the Beta Agni system, sir.</td></tr>
 
-  LAFORGE
-     That's it. That's the last communication.
+<tr id="L216"><td><a href="#L216">216</a></td><td>RIKER:  Take us to half impulse, Mister Crusher.</td></tr>
 
-  WESLEY
-     He didn't report the shuttle clearing the cargo
-     bay of the Jovis.
+<tr id="L217"><td><a href="#L217">217</a></td><td>LAFORGE [OC]:  La Forge to bridge.</td></tr>
 
-  LAFORGE
-     Of course, there really wasn't any reason for him
-     to make voice contact. He knew we'd be monitoring
-     his position. Any other pilot might not bother,
-     but Data? not following standard procedures?
+<tr id="L218"><td><a href="#L218">218</a></td><td>PICARD:  Go ahead, Commander.</td></tr>
 
-  WESLEY
-     What do you think it means?
+<tr id="L219"><td><a href="#L219">219</a></td><td>LAFORGE [OC]:  Captain.</td></tr>
 
-  LAFORGE
-     I'm not sure, Wes. I suppose he could've been too
-     busy. Maybe he saw something was wrong.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L220"><td><a href="#L220">220</a></td><td>LAFORGE:  A class two probe has been loaded with the hytritium compound and is ready to launch.</td></tr>
 
-  WESLEY
-     Without communicating it? That doesn't sound like
-     Data either.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L221"><td><a href="#L221">221</a></td><td>WESLEY:  Now approaching Beta Agni Two, sir.</td></tr>
 
-  LAFORGE
-     Which means maybe something was wrong with him.
-     But there's no other indication of that. Nothing
-     he said or did during the entire mission. None. I
-     sure wish I could talk to the last people who saw
-     him alive.
+<tr id="L222"><td><a href="#L222">222</a></td><td>PICARD:  Mister Crusher, put us into close orbit. Mister Data, scan. My apologies, Mister Worf. Scan the colony's subsurface water.</td></tr>
 
+<tr id="L223"><td><a href="#L223">223</a></td><td>WORF:  Scanning. Tricyanate contamination confirmed. Levels approaching forty two parts per million.</td></tr>
 
-LOCATION--Fajo's den
+<tr id="L224"><td><a href="#L224">224</a></td><td>RIKER:  Area affected?</td></tr>
 
-  ANNOTATION
-     Data is in the overall when Fajo and Varria enter
-     with a guest
+<tr id="L225"><td><a href="#L225">225</a></td><td>WORF:  Thirty square kilometres.</td></tr>
 
-  TOFF
-     I've added a Veltan sex idol to my collection.
+<tr id="L226"><td><a href="#L226">226</a></td><td>PICARD:  Any indication of the source?</td></tr>
 
-  FAJO
-     I've got four of them.
+<tr id="L227"><td><a href="#L227">227</a></td><td>WORF:  Highest concentration eight kilometres west of the colony.</td></tr>
 
-  TOFF
-     What? With the pearls intact?
+<tr id="L228"><td><a href="#L228">228</a></td><td>RIKER:  Adjust target coordinates.</td></tr>
 
-  FAJO
-     Please. Pearls were added by the Ferengi agents to
-     increase the value.
+<tr id="L229"><td><a href="#L229">229</a></td><td>WESLEY:  Aye, sir.</td></tr>
 
-  TOFF
-     What is that? Something new? And you didn't tell
-     me.
+<tr id="L230"><td><a href="#L230">230</a></td><td>LAFORGE [OC]:  La Forge to bridge.</td></tr>
 
-  FAJO
-     Mister Data, I'm delighted to see that you dressed
-     for the occasion. Say hello to my very good
-     friend, Palor Toff.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L231"><td><a href="#L231">231</a></td><td>LAFORGE:  According to these figures, the eighty one kilos</td></tr>
 
-  ANNOTATION
-     Data remains still and silence. Passive resistance
-     in action
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L232"><td><a href="#L232">232</a></td><td>LAFORGE [OC]:  Of hytritium should be enough to neutralise the contamination.</td></tr>
 
-  FAJO
-     Data, say hello. No need to be shy.
+<tr id="L233"><td><a href="#L233">233</a></td><td>WESLEY:  Now approaching target coordinates.</td></tr>
 
-  TOFF
-     It's a mannequin of some sort.
+<tr id="L234"><td><a href="#L234">234</a></td><td>PICARD:  Launch probe.</td></tr>
 
-  FAJO
-     This is not a mannequin. This is Data. This is
-     formerly Lieutenant Commander Data of the
-     Federation Starfleet. The only sentient android in
-     existence.
+<tr id="L235"><td><a href="#L235">235</a></td><td>WORF:  Probe on target. Hytritium entering water table. Disbursement slightly faster than expected. Sir, something unusual.</td></tr>
 
-  TOFF
-     It doesn't seem particularly sentient right now.
+<tr id="L236"><td><a href="#L236">236</a></td><td>PICARD:  Specify.</td></tr>
 
-  FAJO
-     That's because it's playing a stupid little game
-     with us.
+<tr id="L237"><td><a href="#L237">237</a></td><td>WORF:  I'm getting concentrated tricyanate readings of seventy grams per cubic centimetre at the source coordinates. Much higher than would normally occur.</td></tr>
 
-  TOFF
-     Well, someone has certainly played a game on you,
-     Fajo.
+<tr id="L238"><td><a href="#L238">238</a></td><td>PICARD:  Computer, report on geologic instability on Beta Agni Two.</td></tr>
 
-  FAJO
-     I don't find this amusing. I demand that you
-     behave normally. Behave normally! I know you can
-     hear me!
+<tr id="L239"><td><a href="#L239">239</a></td><td>COMPUTER:  No significant geological activity has been recorded on Beta Agni Two since the settlement of the Federation colony.</td></tr>
 
-  ANNOTATION
-     Fajo raises his hand to Data, which means the
-     proximity field hits, and Data topples forward
-     stiff as a board
+<tr id="L240"><td><a href="#L240">240</a></td><td>PICARD:  Number One, perhaps you'd better take an away team down and have a closer look.</td></tr>
 
-  TOFF
-     He falls well.
+<tr id="L241"><td><a href="#L241">241</a></td><td>RIKER:  Yes, sir. Doctor Crusher, join me in Transporter room three.</td></tr>
 
-  FAJO
-     I apologize for this.
+<tr id="L242"><td><a href="#L242">242</a></td><td>CRUSHER [OC]:  On my way.</td></tr>
 
-  TOFF
-     Do not be upset, my friend. I'm having a
-     delightful visit. Come along, Varria. You're much
-     more fun to play with than Fajo's new toy.
+<tr id="L243"><td><a href="#L243">243</a></td><td>RIKER:  Mister Worf?</td></tr>
 
-  FAJO
-     (to Data) You'll regret this.
+<tr><td></td><td>LOCATION--Fajo's den</td></tr>
+<tr id="L244"><td><a href="#L244">244</a></td><td>ANNOTATION: Data is trying to imitate La Gioconda's smile. I wonder if this is one of the copies Doctor Who wrote 'this is a fake' on?</td></tr>
 
+<tr id="L245"><td><a href="#L245">245</a></td><td>FAJO:  I would very much like our relationship to change.</td></tr>
 
-LOCATION--Bridge
+<tr id="L246"><td><a href="#L246">246</a></td><td>DATA:  You may expect me to use every means at my disposal to resist your wishes.</td></tr>
 
-  WESLEY
-     Now entering the Beta Agni system, sir.
+<tr id="L247"><td><a href="#L247">247</a></td><td>FAJO:  Why can't you just comply? Why do you argue all the time? Couldn't you just go sit on the chair? Come on. Go on, sit on the chair.</td></tr>
 
-  RIKER
-     Take us to half impulse, Mister Crusher.
+<tr id="L248"><td><a href="#L248">248</a></td><td>DATA:  I do not intend to sit in the chair.</td></tr>
 
-  LAFORGE [OC]
-     La Forge to bridge.
+<tr id="L249"><td><a href="#L249">249</a></td><td>FAJO:  You will. You may believe it right now, but you will.</td></tr>
 
-  PICARD
-     Go ahead, Commander.
+<tr id="L250"><td><a href="#L250">250</a></td><td>ANNOTATION: There is a wall safe behind one of his display items, a necklace. Fajo tries to hide the combination from Data, then removes a gun</td></tr>
 
-  LAFORGE [OC]
-     Captain.
+<tr id="L251"><td><a href="#L251">251</a></td><td>FAJO:  Have you ever seen one of these, Data?</td></tr>
 
+<tr id="L252"><td><a href="#L252">252</a></td><td>DATA:  It is a disruptor.</td></tr>
 
-LOCATION--Engineering
+<tr id="L253"><td><a href="#L253">253</a></td><td>FAJO:  Well, no. It's a prototype for a Varon-T disruptor.</td></tr>
 
-  LAFORGE
-     A class two probe has been loaded with the
-     hytritium compound and is ready to launch.
+<tr id="L254"><td><a href="#L254">254</a></td><td>DATA:  The Varon-T disruptor is banned in the Federation.</td></tr>
 
+<tr id="L255"><td><a href="#L255">255</a></td><td>FAJO:  Oh, yes. They only manufactured five of them. I own four. I sleep with one under my pillow at night, and I sleep very well knowing it's there too. Do you know why?</td></tr>
 
-LOCATION--Bridge
+<tr id="L256"><td><a href="#L256">256</a></td><td>DATA:  It is a most lethal weapon.</td></tr>
 
-  WESLEY
-     Now approaching Beta Agni Two, sir.
+<tr id="L257"><td><a href="#L257">257</a></td><td>FAJO:  It's not just lethal. It's vicious. It tears a body apart, inside out, and very slowly too by your phaser standards. It's tortuous. A very, very painful death. I've always wanted to try this.</td></tr>
 
-  PICARD
-     Mister Crusher, put us into close orbit. Mister
-     Data, scan. My apologies, Mister Worf. Scan the
-     colony's subsurface water.
+<tr id="L258"><td><a href="#L258">258</a></td><td>DATA:  It is doubtful you will destroy me since you assign so much value to possessing me.</td></tr>
 
-  WORF
-     Scanning. Tricyanate contamination confirmed.
-     Levels approaching forty two parts per million.
+<tr id="L259"><td><a href="#L259">259</a></td><td>FAJO:  That goes without saying. Please come in.</td></tr>
 
-  RIKER
-     Area affected?
+<tr id="L260"><td><a href="#L260">260</a></td><td>ANNOTATION: Varria enters</td></tr>
 
-  WORF
-     Thirty square kilometres.
+<tr id="L261"><td><a href="#L261">261</a></td><td>FAJO:  Varria, how long have we been together, my dear?</td></tr>
 
-  PICARD
-     Any indication of the source?
+<tr id="L262"><td><a href="#L262">262</a></td><td>VARRIA:  Fourteen years.</td></tr>
 
-  WORF
-     Highest concentration eight kilometres west of the
-     colony.
+<tr id="L263"><td><a href="#L263">263</a></td><td>FAJO:  Fourteen wonderful years they were too. She was barely an adult when I found her. She was idealistic, naive, full of dreams. And I made those dreams come true, too, didn't I? I'm going to miss you.</td></tr>
 
-  RIKER
-     Adjust target coordinates.
+<tr id="L264"><td><a href="#L264">264</a></td><td>ANNOTATION: Fajo points the disruptor at Varria</td></tr>
 
-  WESLEY
-     Aye, sir.
+<tr id="L265"><td><a href="#L265">265</a></td><td>DATA:  Fajo.</td></tr>
 
-  LAFORGE [OC]
-     La Forge to bridge.
+<tr id="L266"><td><a href="#L266">266</a></td><td>ANNOTATION: Data is sitting on the chair</td></tr>
 
+<tr><td></td><td>LOCATION--Beta Agni Two</td></tr>
+<tr id="L267"><td><a href="#L267">267</a></td><td>ANNOTATION: The three beam down onto rock ledges just above the water</td></tr>
 
-LOCATION--Engineering
+<tr id="L268"><td><a href="#L268">268</a></td><td>CRUSHER:  The contamination's been neutralised. The water's clean.</td></tr>
 
-  LAFORGE
-     According to these figures, the eighty one kilos
+<tr id="L269"><td><a href="#L269">269</a></td><td>WORF:  Curious. The process of neutralisation should have taken several hours. Naturally occurring tricyanate does not respond this quickly.</td></tr>
 
+<tr id="L270"><td><a href="#L270">270</a></td><td>RIKER:  Are you saying it's not naturally occurring?</td></tr>
 
-LOCATION--Bridge
+<tr id="L271"><td><a href="#L271">271</a></td><td>WORF:  There are no natural trace elements present in these tricyanate crystals.</td></tr>
 
-  LAFORGE [OC]
-     Of hytritium should be enough to neutralise the
-     contamination.
+<tr id="L272"><td><a href="#L272">272</a></td><td>RIKER:  If it's artificial, then we're talking about sabotage.</td></tr>
 
-  WESLEY
-     Now approaching target coordinates.
+<tr id="L273"><td><a href="#L273">273</a></td><td>CRUSHER:  With tricyanate? That's hard to believe. It's slow to assimilate, difficult to replicate, and hard to transport. There are a lot easier ways to poison a water supply. More effective ways too.</td></tr>
 
-  PICARD
-     Launch probe.
+<tr id="L274"><td><a href="#L274">274</a></td><td>RIKER:  Can you think of any reason a saboteur would choose tricyanate?</td></tr>
 
-  WORF
-     Probe on target. Hytritium entering water table.
-     Disbursement slightly faster than expected. Sir,
-     something unusual.
+<tr id="L275"><td><a href="#L275">275</a></td><td>CRUSHER:  It might pass for a natural disaster. And since there's only one way to treat it, with hytritium, maybe somebody figured we couldn't locate it. It is hard to find.</td></tr>
 
-  PICARD
-     Specify.
+<tr id="L276"><td><a href="#L276">276</a></td><td>RIKER:  Then it really was lucky, wasn't it, that we were able to find hytritium when we did. And just enough hytritium for this crisis?</td></tr>
 
-  WORF
-     I'm getting concentrated tricyanate readings of
-     seventy grams per cubic centimetre at the source
-     coordinates. Much higher than would normally
-     occur.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L277"><td><a href="#L277">277</a></td><td>RIKER:  Fajo was in the right place at the right time just when we needed him most.</td></tr>
 
-  PICARD
-     Computer, report on geologic instability on Beta
-     Agni Two.
+<tr id="L278"><td><a href="#L278">278</a></td><td>PICARD:  You're suggesting he created the problem just to solve it?</td></tr>
 
-  COMPUTER
-     No significant geological activity has been
-     recorded on Beta Agni Two since the settlement of
-     the Federation colony.
+<tr id="L279"><td><a href="#L279">279</a></td><td>RIKER:  Possibly.</td></tr>
 
-  PICARD
-     Number One, perhaps you'd better take an away team
-     down and have a closer look.
+<tr id="L280"><td><a href="#L280">280</a></td><td>LAFORGE:  What, to make a profit from his sale of hytritium?</td></tr>
 
-  RIKER
-     Yes, sir. Doctor Crusher, join me in Transporter
-     room three.
+<tr id="L281"><td><a href="#L281">281</a></td><td>CRUSHER:  It doesn't add up. The cost of producing tricyanate is very expensive. He wouldn't make a profit on it. Quite the contrary.</td></tr>
 
-  CRUSHER [OC]
-     On my way.
+<tr id="L282"><td><a href="#L282">282</a></td><td>WORF:  Then, why would he do it?</td></tr>
 
-  RIKER
-     Mister Worf?
+<tr id="L283"><td><a href="#L283">283</a></td><td>RIKER:  What could he want?</td></tr>
 
+<tr id="L284"><td><a href="#L284">284</a></td><td>PICARD:  Computer, biographical file on trader Kivas Fajo.</td></tr>
 
-LOCATION--Fajo's den
+<tr id="L285"><td><a href="#L285">285</a></td><td>COMPUTER:  Accessing file Kivas Fajo. A Zibalian trader of the Stacius trade guild, educated on Iraaten Five. A noted collector of rare and valuable objects including the Rejac Crystal, the Starry Night by Van Gogh, the Lawmim Galactopedia, the Moliam Andi tapestries</td></tr>
 
-  ANNOTATION
-     Data is trying to imitate La Gioconda's smile. I
-     wonder if this is one of the copies Doctor Who
-     wrote 'this is a fake' on?
+<tr id="L286"><td><a href="#L286">286</a></td><td>PICARD:  Computer, that is sufficient.</td></tr>
 
-  FAJO
-     I would very much like our relationship to change.
+<tr id="L287"><td><a href="#L287">287</a></td><td>RIKER:  A rare and valuable object?</td></tr>
 
-  DATA
-     You may expect me to use every means at my
-     disposal to resist your wishes.
+<tr id="L288"><td><a href="#L288">288</a></td><td>LAFORGE:  What if Data wasn't on that shuttle?</td></tr>
 
-  FAJO
-     Why can't you just comply? Why do you argue all
-     the time? Couldn't you just go sit on the chair?
-     Come on. Go on, sit on the chair.
+<tr id="L289"><td><a href="#L289">289</a></td><td>PICARD:  Mister Crusher.</td></tr>
 
-  DATA
-     I do not intend to sit in the chair.
+<tr id="L290"><td><a href="#L290">290</a></td><td>WESLEY [OC]:  Aye, sir.</td></tr>
 
-  FAJO
-     You will. You may believe it right now, but you
-     will.
+<tr id="L291"><td><a href="#L291">291</a></td><td>PICARD:  Set course for the site of the shuttlepod explosion. Warp eight.</td></tr>
 
-  ANNOTATION
-     There is a wall safe behind one of his display
-     items, a necklace. Fajo tries to hide the
-     combination from Data, then removes a gun
+<tr id="L292"><td><a href="#L292">292</a></td><td>WESLEY [OC]:  Aye, sir.</td></tr>
 
-  FAJO
-     Have you ever seen one of these, Data?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L293"><td><a href="#L293">293</a></td><td>WESLEY:  The Jovis has a maximum speed of warp three. He's had twenty three hours so we can define a perimeter of point one oh two light years as his possible distance.</td></tr>
 
-  DATA
-     It is a disruptor.
+<tr id="L294"><td><a href="#L294">294</a></td><td>RIKER:  Fajo doesn't know that we're onto him, so he probably isn't taxing his engines at top speed.</td></tr>
 
-  FAJO
-     Well, no. It's a prototype for a Varon-T
-     disruptor.
+<tr id="L295"><td><a href="#L295">295</a></td><td>WESLEY:  He could have made it to the Nel Bato system, or maybe even the Giles Belt.</td></tr>
 
-  DATA
-     The Varon-T disruptor is banned in the Federation.
+<tr id="L296"><td><a href="#L296">296</a></td><td>PICARD:  He's a trader. He doesn't attract customers by being hard to find.</td></tr>
 
-  FAJO
-     Oh, yes. They only manufactured five of them. I
-     own four. I sleep with one under my pillow at
-     night, and I sleep very well knowing it's there
-     too. Do you know why?
+<tr id="L297"><td><a href="#L297">297</a></td><td>RIKER:  We could put out a coded level two query to all Federation outposts within the perimeter.</td></tr>
 
-  DATA
-     It is a most lethal weapon.
+<tr id="L298"><td><a href="#L298">298</a></td><td>PICARD:  Make it so.</td></tr>
 
-  FAJO
-     It's not just lethal. It's vicious. It tears a
-     body apart, inside out, and very slowly too by
-     your phaser standards. It's tortuous. A very, very
-     painful death. I've always wanted to try this.
+<tr><td></td><td>LOCATION--Fajo's den</td></tr>
+<tr id="L299"><td><a href="#L299">299</a></td><td>ANNOTATION: Data is trying to get into the wall safe when -</td></tr>
 
-  DATA
-     It is doubtful you will destroy me since you
-     assign so much value to possessing me.
+<tr id="L300"><td><a href="#L300">300</a></td><td>VARRIA:  If I help you escape, will you take me with you? He's sleeping, and there isn't much time.</td></tr>
 
-  FAJO
-     That goes without saying. Please come in.
+<tr id="L301"><td><a href="#L301">301</a></td><td>DATA:  The consequences if we are caught</td></tr>
 
-  ANNOTATION
-     Varria enters
+<tr id="L302"><td><a href="#L302">302</a></td><td>VARRIA:  I know the consequences. Fourteen years. You learn a few things. There's an escape pod in the aft cargo bay.</td></tr>
 
-  FAJO
-     Varria, how long have we been together, my dear?
+<tr id="L303"><td><a href="#L303">303</a></td><td>ANNOTATION: She opens the safe and takes the disruptor</td></tr>
 
-  VARRIA
-     Fourteen years.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L304"><td><a href="#L304">304</a></td><td>WORF:  Captain, affirmative response from station Lya Four.</td></tr>
 
-  FAJO
-     Fourteen wonderful years they were too. She was
-     barely an adult when I found her. She was
-     idealistic, naive, full of dreams. And I made
-     those dreams come true, too, didn't I? I'm going
-     to miss you.
+<tr id="L305"><td><a href="#L305">305</a></td><td>RIKER:  Fajo spent more than half a day in orbit. Departed just over seven hours ago.</td></tr>
 
-  ANNOTATION
-     Fajo points the disruptor at Varria
+<tr id="L306"><td><a href="#L306">306</a></td><td>PICARD:  Mister Crusher, new coordinates. Lay in a course for Lya Four.</td></tr>
 
-  DATA
-     Fajo.
+<tr id="L307"><td><a href="#L307">307</a></td><td>WESLEY:  Coordinates already laid in, sir.</td></tr>
 
-  ANNOTATION
-     Data is sitting on the chair
+<tr><td></td><td>LOCATION--Jovis Cargo bay</td></tr>
+<tr id="L308"><td><a href="#L308">308</a></td><td>DATA:  Perhaps I should attempt to communicate with the Enterprise.</td></tr>
 
+<tr id="L309"><td><a href="#L309">309</a></td><td>VARRIA:  You can't. Fajo has communications access restricted to the bridge. Once we're out, the shuttlepod will emit an emergency beacon. We'll just have to hope somebody responds before Fajo is able to destroy us.</td></tr>
 
-LOCATION--Beta Agni Two
+<tr id="L310"><td><a href="#L310">310</a></td><td>DATA:  I am trained in evasive manoeuvres.</td></tr>
 
-  ANNOTATION
-     The three beam down onto rock ledges just above
-     the water
+<tr id="L311"><td><a href="#L311">311</a></td><td>VARRIA:  We'll need a few. Let's get going. As soon as I start the escape sequence, an alarm will sound. We won't have much time.</td></tr>
 
-  CRUSHER
-     The contamination's been neutralised. The water's
-     clean.
+<tr id="L312"><td><a href="#L312">312</a></td><td>ANNOTATION: Data gets in the pod, Varria goes to a control station and presses buttons. The alarm sounds, a man runs in. She points the disrupter at him, then is jumped from behind by another crewman and disarmed. Man number one cancels the sequence while Data rescues Varria. Data ends up throwing both men across the bay. They go to start again, when Fajo enters. The disrupter is lying on the floor. Varria dives for it but lands short. Fajo aims another disrupter at her. For a moment, he starts to turn away, then fires. Varria screams for several seconds before she finally disintegrates. Data comes out of the pod</td></tr>
 
-  WORF
-     Curious. The process of neutralisation should have
-     taken several hours. Naturally occurring
-     tricyanate does not respond this quickly.
+<tr id="L313"><td><a href="#L313">313</a></td><td>FAJO:  It's your fault. You knew the price for disobedience. And so did she. Well, there's always another Varria.</td></tr>
 
-  RIKER
-     Are you saying it's not naturally occurring?
+<tr id="L314"><td><a href="#L314">314</a></td><td>ANNOTATION: Data picks up the disrupter and points it at Fajo</td></tr>
 
-  WORF
-     There are no natural trace elements present in
-     these tricyanate crystals.
+<tr id="L315"><td><a href="#L315">315</a></td><td>FAJO:  You won't hurt me. Fundamental respect for all living beings. That is what you said. I'm a living being, therefore you can't harm me.</td></tr>
 
-  RIKER
-     If it's artificial, then we're talking about
-     sabotage.
+<tr id="L316"><td><a href="#L316">316</a></td><td>DATA:  You will surrender yourself to the authorities.</td></tr>
 
-  CRUSHER
-     With tricyanate? That's hard to believe. It's slow
-     to assimilate, difficult to replicate, and hard to
-     transport. There are a lot easier ways to poison a
-     water supply. More effective ways too.
+<tr id="L317"><td><a href="#L317">317</a></td><td>FAJO:  Or what? You'll fire? Empty threat and we both know it. Why don't you accept your fate? You will return to your chair and you will sit there. You will entertain me and you will entertain my guests. And if you do not, I will simply kill somebody else. Him, perhaps. It doesn't matter. Their blood will be on your hands too, just like poor Varria's. Your only alternative, Data, is to fire. Murder me. That's all you have to do. Go ahead. Fire. If only you could feel rage over Varria's death. If only you could feel the need for revenge, then maybe you could fire. But you're just an android. You can't feel anything, can you? It's just another interesting intellectual puzzle for you. Another of life's curiosities.</td></tr>
 
-  RIKER
-     Can you think of any reason a saboteur would
-     choose tricyanate?
+<tr id="L318"><td><a href="#L318">318</a></td><td>DATA:  I cannot permit this to continue.</td></tr>
 
-  CRUSHER
-     It might pass for a natural disaster. And since
-     there's only one way to treat it, with hytritium,
-     maybe somebody figured we couldn't locate it. It
-     is hard to find.
+<tr id="L319"><td><a href="#L319">319</a></td><td>ANNOTATION: He levels the disrupter at Fajo again</td></tr>
 
-  RIKER
-     Then it really was lucky, wasn't it, that we were
-     able to find hytritium when we did. And just
-     enough hytritium for this crisis?
+<tr id="L320"><td><a href="#L320">320</a></td><td>FAJO:  Wait. Your programme won't allow you to fire. You cannot fire. No.</td></tr>
 
+<tr id="L321"><td><a href="#L321">321</a></td><td>ANNOTATION: A transporter beam takes hold of Data</td></tr>
 
-LOCATION--Observation lounge
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L322"><td><a href="#L322">322</a></td><td>O'BRIEN:  I'm reading a weapon in transit with Commander Data. It seems to have discharged, sir.</td></tr>
 
-  RIKER
-     Fajo was in the right place at the right time just
-     when we needed him most.
+<tr id="L323"><td><a href="#L323">323</a></td><td>RIKER:  Discharged?</td></tr>
 
-  PICARD
-     You're suggesting he created the problem just to
-     solve it?
+<tr id="L324"><td><a href="#L324">324</a></td><td>O'BRIEN:  I'm deactivating it.</td></tr>
 
-  RIKER
-     Possibly.
+<tr id="L325"><td><a href="#L325">325</a></td><td>RIKER:  Welcome back, Mister Data. Are you all right?</td></tr>
 
-  LAFORGE
-     What, to make a profit from his sale of hytritium?
+<tr id="L326"><td><a href="#L326">326</a></td><td>DATA:  Yes, Commander. Please arrange to take Kivas Fajo into custody on charges of murder, kidnapping, theft.</td></tr>
 
-  CRUSHER
-     It doesn't add up. The cost of producing
-     tricyanate is very expensive. He wouldn't make a
-     profit on it. Quite the contrary.
+<tr id="L327"><td><a href="#L327">327</a></td><td>RIKER:  The arrangements have already been made.</td></tr>
 
-  WORF
-     Then, why would he do it?
+<tr id="L328"><td><a href="#L328">328</a></td><td>DATA:  A Varon-T disruptor. It belongs to Fajo.</td></tr>
 
-  RIKER
-     What could he want?
+<tr id="L329"><td><a href="#L329">329</a></td><td>RIKER:  Mister O'Brien says the weapon was in a state of discharge.</td></tr>
 
-  PICARD
-     Computer, biographical file on trader Kivas Fajo.
+<tr id="L330"><td><a href="#L330">330</a></td><td>DATA:  Perhaps something occurred during transport, Commander.</td></tr>
 
-  COMPUTER
-     Accessing file Kivas Fajo. A Zibalian trader of
-     the Stacius trade guild, educated on Iraaten Five.
-     A noted collector of rare and valuable objects
-     including the Rejac Crystal, the Starry Night by
-     Van Gogh, the Lawmim Galactopedia, the Moliam Andi
-     tapestries
+<tr><td></td><td>LOCATION--Brig</td></tr>
+<tr id="L331"><td><a href="#L331">331</a></td><td>FAJO:  Oh, have you come to see me to repent? Is this your final satisfaction? Want to see me beg for mercy? You're not going to get any of that from me.</td></tr>
 
-  PICARD
-     Computer, that is sufficient.
+<tr id="L332"><td><a href="#L332">332</a></td><td>DATA:  I expected nothing.</td></tr>
 
-  RIKER
-     A rare and valuable object?
+<tr id="L333"><td><a href="#L333">333</a></td><td>FAJO:  Our roles are reversed, aren't they, Data? You're the collector now. Me, I'm in a cage.</td></tr>
 
-  LAFORGE
-     What if Data wasn't on that shuttle?
+<tr id="L334"><td><a href="#L334">334</a></td><td>DATA:  So it seems.</td></tr>
 
-  PICARD
-     Mister Crusher.
+<tr id="L335"><td><a href="#L335">335</a></td><td>FAJO:  Just don't count me out too quickly. I had you in my collection once. I can have you there again.</td></tr>
 
-  WESLEY [OC]
-     Aye, sir.
+<tr id="L336"><td><a href="#L336">336</a></td><td>DATA:  Unlikely, sir. Your collection has been confiscated. All of your stolen possessions are being returned to their rightful owners. You have lost everything you value.</td></tr>
 
-  PICARD
-     Set course for the site of the shuttlepod
-     explosion. Warp eight.
+<tr id="L337"><td><a href="#L337">337</a></td><td>FAJO:  It must give you great pleasure.</td></tr>
 
-  WESLEY [OC]
-     Aye, sir.
+<tr id="L338"><td><a href="#L338">338</a></td><td>DATA:  No, sir, it does not. I do not feel pleasure. I am only an android.</td></tr>
 
-
-LOCATION--Bridge
-
-  WESLEY
-     The Jovis has a maximum speed of warp three. He's
-     had twenty three hours so we can define a
-     perimeter of point one oh two light years as his
-     possible distance.
-
-  RIKER
-     Fajo doesn't know that we're onto him, so he
-     probably isn't taxing his engines at top speed.
-
-  WESLEY
-     He could have made it to the Nel Bato system, or
-     maybe even the Giles Belt.
-
-  PICARD
-     He's a trader. He doesn't attract customers by
-     being hard to find.
-
-  RIKER
-     We could put out a coded level two query to all
-     Federation outposts within the perimeter.
-
-  PICARD
-     Make it so.
-
-
-LOCATION--Fajo's den
-
-  ANNOTATION
-     Data is trying to get into the wall safe when -
-
-  VARRIA
-     If I help you escape, will you take me with you?
-     He's sleeping, and there isn't much time.
-
-  DATA
-     The consequences if we are caught
-
-  VARRIA
-     I know the consequences. Fourteen years. You learn
-     a few things. There's an escape pod in the aft
-     cargo bay.
-
-  ANNOTATION
-     She opens the safe and takes the disruptor
-
-
-LOCATION--Bridge
-
-  WORF
-     Captain, affirmative response from station Lya
-     Four.
-
-  RIKER
-     Fajo spent more than half a day in orbit. Departed
-     just over seven hours ago.
-
-  PICARD
-     Mister Crusher, new coordinates. Lay in a course
-     for Lya Four.
-
-  WESLEY
-     Coordinates already laid in, sir.
-
-
-LOCATION--Jovis Cargo bay
-
-  DATA
-     Perhaps I should attempt to communicate with the
-     Enterprise.
-
-  VARRIA
-     You can't. Fajo has communications access
-     restricted to the bridge. Once we're out, the
-     shuttlepod will emit an emergency beacon. We'll
-     just have to hope somebody responds before Fajo is
-     able to destroy us.
-
-  DATA
-     I am trained in evasive manoeuvres.
-
-  VARRIA
-     We'll need a few. Let's get going. As soon as I
-     start the escape sequence, an alarm will sound. We
-     won't have much time.
-
-  ANNOTATION
-     Data gets in the pod, Varria goes to a control
-     station and presses buttons. The alarm sounds, a
-     man runs in. She points the disrupter at him, then
-     is jumped from behind by another crewman and
-     disarmed. Man number one cancels the sequence
-     while Data rescues Varria. Data ends up throwing
-     both men across the bay. They go to start again,
-     when Fajo enters. The disrupter is lying on the
-     floor. Varria dives for it but lands short. Fajo
-     aims another disrupter at her. For a moment, he
-     starts to turn away, then fires. Varria screams
-     for several seconds before she finally
-     disintegrates. Data comes out of the pod
-
-  FAJO
-     It's your fault. You knew the price for
-     disobedience. And so did she. Well, there's always
-     another Varria.
-
-  ANNOTATION
-     Data picks up the disrupter and points it at Fajo
-
-  FAJO
-     You won't hurt me. Fundamental respect for all
-     living beings. That is what you said. I'm a living
-     being, therefore you can't harm me.
-
-  DATA
-     You will surrender yourself to the authorities.
-
-  FAJO
-     Or what? You'll fire? Empty threat and we both
-     know it. Why don't you accept your fate? You will
-     return to your chair and you will sit there. You
-     will entertain me and you will entertain my
-     guests. And if you do not, I will simply kill
-     somebody else. Him, perhaps. It doesn't matter.
-     Their blood will be on your hands too, just like
-     poor Varria's. Your only alternative, Data, is to
-     fire. Murder me. That's all you have to do. Go
-     ahead. Fire. If only you could feel rage over
-     Varria's death. If only you could feel the need
-     for revenge, then maybe you could fire. But you're
-     just an android. You can't feel anything, can you?
-     It's just another interesting intellectual puzzle
-     for you. Another of life's curiosities.
-
-  DATA
-     I cannot permit this to continue.
-
-  ANNOTATION
-     He levels the disrupter at Fajo again
-
-  FAJO
-     Wait. Your programme won't allow you to fire. You
-     cannot fire. No.
-
-  ANNOTATION
-     A transporter beam takes hold of Data
-
-
-LOCATION--Transporter room
-
-  O'BRIEN
-     I'm reading a weapon in transit with Commander
-     Data. It seems to have discharged, sir.
-
-  RIKER
-     Discharged?
-
-  O'BRIEN
-     I'm deactivating it.
-
-  RIKER
-     Welcome back, Mister Data. Are you all right?
-
-  DATA
-     Yes, Commander. Please arrange to take Kivas Fajo
-     into custody on charges of murder, kidnapping,
-     theft.
-
-  RIKER
-     The arrangements have already been made.
-
-  DATA
-     A Varon-T disruptor. It belongs to Fajo.
-
-  RIKER
-     Mister O'Brien says the weapon was in a state of
-     discharge.
-
-  DATA
-     Perhaps something occurred during transport,
-     Commander.
-
-
-LOCATION--Brig
-
-  FAJO
-     Oh, have you come to see me to repent? Is this
-     your final satisfaction? Want to see me beg for
-     mercy? You're not going to get any of that from
-     me.
-
-  DATA
-     I expected nothing.
-
-  FAJO
-     Our roles are reversed, aren't they, Data? You're
-     the collector now. Me, I'm in a cage.
-
-  DATA
-     So it seems.
-
-  FAJO
-     Just don't count me out too quickly. I had you in
-     my collection once. I can have you there again.
-
-  DATA
-     Unlikely, sir. Your collection has been
-     confiscated. All of your stolen possessions are
-     being returned to their rightful owners. You have
-     lost everything you value.
-
-  FAJO
-     It must give you great pleasure.
-
-  DATA
-     No, sir, it does not. I do not feel pleasure. I am
-     only an android.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

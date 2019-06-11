@@ -1,1815 +1,967 @@
-Cause and Effect
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Cause and Effect</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>RIKER:  Damage report!</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>CRUSHER:  Casualty reports coming in from all over the ship.</td></tr>
 
-  RIKER
-     Damage report!
+<tr id="L3"><td><a href="#L3">3</a></td><td>DATA:  The starboard nacelle has sustained a direct impact. We are venting drive plasma.</td></tr>
 
-  CRUSHER
-     Casualty reports coming in from all over the ship.
+<tr id="L4"><td><a href="#L4">4</a></td><td>LAFORGE:  Initiating emergency core shutdown.</td></tr>
 
-  DATA
-     The starboard nacelle has sustained a direct
-     impact. We are venting drive plasma.
+<tr id="L5"><td><a href="#L5">5</a></td><td>RO:  Inertial dampers failing. We're losing attitude control.</td></tr>
 
-  LAFORGE
-     Initiating emergency core shutdown.
+<tr id="L6"><td><a href="#L6">6</a></td><td>RIKER:  This is the Bridge. All hands to emergency escape pods.</td></tr>
 
-  RO
-     Inertial dampers failing. We're losing attitude
-     control.
+<tr id="L7"><td><a href="#L7">7</a></td><td>DATA:  Core shutdown is unsuccessful. We are losing antimatter containment.</td></tr>
 
-  RIKER
-     This is the Bridge. All hands to emergency escape
-     pods.
+<tr id="L8"><td><a href="#L8">8</a></td><td>LAFORGE:  We've got to eject the core!</td></tr>
 
-  DATA
-     Core shutdown is unsuccessful. We are losing
-     antimatter containment.
+<tr id="L9"><td><a href="#L9">9</a></td><td>DATA:  Ejection systems offline. Core breach is imminent.</td></tr>
 
-  LAFORGE
-     We've got to eject the core!
+<tr id="L10"><td><a href="#L10">10</a></td><td>PICARD:  All hands abandon ship. Repeat, all hands abandon</td></tr>
 
-  DATA
-     Ejection systems offline. Core breach is imminent.
+<tr id="L11"><td><a href="#L11">11</a></td><td>ANNOTATION: KaBOOM!!!!</td></tr>
 
-  PICARD
-     All hands abandon ship. Repeat, all hands abandon
+<tr id="L12"><td><a href="#L12">12</a></td><td>SOMEONE: Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We're the first Starfleet vessel to chart this unexplored region.</td></tr>
 
-  ANNOTATION
-     KaBOOM!!!!
+<tr><td></td><td>LOCATION--Someone's quarters</td></tr>
+<tr id="L13"><td><a href="#L13">13</a></td><td>ANNOTATION: Data does a fast, professional shuffle</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 45652.1. The Enterprise
-     has entered an area of space known as the Typhon
-     Expanse. We're the first Starfleet vessel to chart
-     this unexplored region.
+<tr id="L14"><td><a href="#L14">14</a></td><td>RIKER:  Sometimes I wonder if he's stacking the deck.</td></tr>
 
+<tr id="L15"><td><a href="#L15">15</a></td><td>DATA:  I assure you, Commander, the cards are sufficiently randomised.</td></tr>
 
-LOCATION--Someone's quarters
+<tr id="L16"><td><a href="#L16">16</a></td><td>WORF:  I hope so.</td></tr>
 
-  ANNOTATION
-     Data does a fast, professional shuffle
+<tr id="L17"><td><a href="#L17">17</a></td><td>DATA:  Eight, Ace, Queen. The dealer receives a four.</td></tr>
 
-  RIKER
-     Sometimes I wonder if he's stacking the deck.
+<tr id="L18"><td><a href="#L18">18</a></td><td>WORF:  No bet.</td></tr>
 
-  DATA
-     I assure you, Commander, the cards are
-     sufficiently randomised.
+<tr id="L19"><td><a href="#L19">19</a></td><td>DATA:  Ten. Seven. No help there. A pair of ladies for the Doctor. The dealer receives a nine. Doctor? May I remind you since you show the highest hand, you control the next bet.</td></tr>
 
-  WORF
-     I hope so.
+<tr id="L20"><td><a href="#L20">20</a></td><td>CRUSHER:  Thank you, Data. I bet ten. Worf?</td></tr>
 
-  DATA
-     Eight, Ace, Queen. The dealer receives a four.
+<tr id="L21"><td><a href="#L21">21</a></td><td>DATA:  Jack. Four. Deuce. Six.</td></tr>
 
-  WORF
-     No bet.
+<tr id="L22"><td><a href="#L22">22</a></td><td>CRUSHER:  Twenty.</td></tr>
 
-  DATA
-     Ten. Seven. No help there. A pair of ladies for
-     the Doctor. The dealer receives a nine. Doctor?
-     May I remind you since you show the highest hand,
-     you control the next bet.
+<tr id="L23"><td><a href="#L23">23</a></td><td>RIKER:  Your twenty, and fifty more.</td></tr>
 
-  CRUSHER
-     Thank you, Data. I bet ten. Worf?
+<tr id="L24"><td><a href="#L24">24</a></td><td>WORF:  Fifty?</td></tr>
 
-  DATA
-     Jack. Four. Deuce. Six.
+<tr id="L25"><td><a href="#L25">25</a></td><td>CRUSHER:  I'm in.</td></tr>
 
-  CRUSHER
-     Twenty.
+<tr id="L26"><td><a href="#L26">26</a></td><td>DATA:  I will also see the bet. Seven. A possible straight for Commander Riker. Jack. Still no help for the Klingon. Eight. Nine for the dealer.</td></tr>
 
-  RIKER
-     Your twenty, and fifty more.
+<tr id="L27"><td><a href="#L27">27</a></td><td>CRUSHER:  Twenty.</td></tr>
 
-  WORF
-     Fifty?
+<tr id="L28"><td><a href="#L28">28</a></td><td>DATA:  Too rich for my blood.</td></tr>
 
-  CRUSHER
-     I'm in.
+<tr id="L29"><td><a href="#L29">29</a></td><td>RIKER:  Your twenty, one hundred more.</td></tr>
 
-  DATA
-     I will also see the bet. Seven. A possible
-     straight for Commander Riker. Jack. Still no help
-     for the Klingon. Eight. Nine for the dealer.
+<tr id="L30"><td><a href="#L30">30</a></td><td>WORF:  Fold.</td></tr>
 
-  CRUSHER
-     Twenty.
+<tr id="L31"><td><a href="#L31">31</a></td><td>CRUSHER:  Two hundred.</td></tr>
 
-  DATA
-     Too rich for my blood.
+<tr id="L32"><td><a href="#L32">32</a></td><td>RIKER:  Your two, and three hundred more.</td></tr>
 
-  RIKER
-     Your twenty, one hundred more.
+<tr id="L33"><td><a href="#L33">33</a></td><td>WORF:  He does not have a straight.</td></tr>
 
-  WORF
-     Fold.
+<tr id="L34"><td><a href="#L34">34</a></td><td>CRUSHER:  We'll soon find out, won't we. Let's see your cards.</td></tr>
 
-  CRUSHER
-     Two hundred.
+<tr id="L35"><td><a href="#L35">35</a></td><td>RIKER:  Take it. How'd you know I was bluffing?</td></tr>
 
-  RIKER
-     Your two, and three hundred more.
+<tr id="L36"><td><a href="#L36">36</a></td><td>CRUSHER:  I just had a feeling.</td></tr>
 
-  WORF
-     He does not have a straight.
+<tr id="L37"><td><a href="#L37">37</a></td><td>RIKER:  I guess it's better to be lucky than good.</td></tr>
 
-  CRUSHER
-     We'll soon find out, won't we. Let's see your
-     cards.
+<tr id="L38"><td><a href="#L38">38</a></td><td>CRUSHER:  It's the way your left eyebrow raises when your bluffing. Just kidding, Commander.</td></tr>
 
-  RIKER
-     Take it. How'd you know I was bluffing?
+<tr id="L39"><td><a href="#L39">39</a></td><td>OGAWA [OC]:  Ogawa to Doctor Crusher.</td></tr>
 
-  CRUSHER
-     I just had a feeling.
+<tr id="L40"><td><a href="#L40">40</a></td><td>CRUSHER:  Go ahead.</td></tr>
 
-  RIKER
-     I guess it's better to be lucky than good.
+<tr id="L41"><td><a href="#L41">41</a></td><td>OGAWA [OC]:  Commander La Forge needs you in Sickbay.</td></tr>
 
-  CRUSHER
-     It's the way your left eyebrow raises when your
-     bluffing. Just kidding, Commander.
+<tr id="L42"><td><a href="#L42">42</a></td><td>CRUSHER:  On my way.</td></tr>
 
-  OGAWA [OC]
-     Ogawa to Doctor Crusher.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L43"><td><a href="#L43">43</a></td><td>LAFORGE:  At first I thought the catwalk was spinning. As it turns out, it was me. Luckily Ensign Fletcher was there to grab me. It's a long way down to the bottom of the warp core.</td></tr>
 
-  CRUSHER
-     Go ahead.
+<tr id="L44"><td><a href="#L44">44</a></td><td>CRUSHER:  You have all the symptoms of an inner ear infection. That would explain the dizziness and the headaches. But there's no physical evidence. My guess is you've been working too hard.</td></tr>
 
-  OGAWA [OC]
-     Commander La Forge needs you in Sickbay.
+<tr id="L45"><td><a href="#L45">45</a></td><td>LAFORGE:  I have been putting a lot of extra hours on this Typhon Expanse project.</td></tr>
 
-  CRUSHER
-     On my way.
+<tr id="L46"><td><a href="#L46">46</a></td><td>CRUSHER:  I'll give you twenty cc's of vertazine. That should clear up the dizziness. But finding time to relax is up to you.</td></tr>
 
+<tr id="L47"><td><a href="#L47">47</a></td><td>LAFORGE:  What? What is it?</td></tr>
 
-LOCATION--Sickbay
+<tr id="L48"><td><a href="#L48">48</a></td><td>CRUSHER:  Geordi, have you had these symptoms before?</td></tr>
 
-  LAFORGE
-     At first I thought the catwalk was spinning. As it
-     turns out, it was me. Luckily Ensign Fletcher was
-     there to grab me. It's a long way down to the
-     bottom of the warp core.
+<tr id="L49"><td><a href="#L49">49</a></td><td>LAFORGE:  No.</td></tr>
 
-  CRUSHER
-     You have all the symptoms of an inner ear
-     infection. That would explain the dizziness and
-     the headaches. But there's no physical evidence.
-     My guess is you've been working too hard.
+<tr id="L50"><td><a href="#L50">50</a></td><td>CRUSHER:  You're sure?</td></tr>
 
-  LAFORGE
-     I have been putting a lot of extra hours on this
-     Typhon Expanse project.
+<tr id="L51"><td><a href="#L51">51</a></td><td>LAFORGE:  Yeah, I'm positive. Why?</td></tr>
 
-  CRUSHER
-     I'll give you twenty cc's of vertazine. That
-     should clear up the dizziness. But finding time to
-     relax is up to you.
+<tr id="L52"><td><a href="#L52">52</a></td><td>CRUSHER:  It's funny. I feel like we've discussed this before, and I remember giving you a hypospray for dizziness.</td></tr>
 
-  LAFORGE
-     What? What is it?
+<tr id="L53"><td><a href="#L53">53</a></td><td>LAFORGE:  I've never had these symptoms before today, so you must be thinking about another patient.</td></tr>
 
-  CRUSHER
-     Geordi, have you had these symptoms before?
+<tr id="L54"><td><a href="#L54">54</a></td><td>CRUSHER:  No. I'm sure it was you. Well, try to get some rest, and try to stay away from high places for a few days, just in case.</td></tr>
 
-  LAFORGE
-     No.
+<tr id="L55"><td><a href="#L55">55</a></td><td>LAFORGE:  Thanks, Doc.</td></tr>
 
-  CRUSHER
-     You're sure?
+<tr id="L56"><td><a href="#L56">56</a></td><td>CRUSHER:  Goodnight.</td></tr>
 
-  LAFORGE
-     Yeah, I'm positive. Why?
+<tr id="L57"><td><a href="#L57">57</a></td><td>LAFORGE:  Goodnight.</td></tr>
 
-  CRUSHER
-     It's funny. I feel like we've discussed this
-     before, and I remember giving you a hypospray for
-     dizziness.
+<tr><td></td><td>LOCATION--Crusher's quarters</td></tr>
+<tr id="L58"><td><a href="#L58">58</a></td><td>ANNOTATION: Beverly is dead-heading a plant and sipping on a night-cap. She goes over to the bed, turns out the lights and puts down the glass. Once she's settled down, she starts hearing lots voices all jumbled up. As she reaches to put on the lights again, she knocks over the glass, and it breaks</td></tr>
 
-  LAFORGE
-     I've never had these symptoms before today, so you
-     must be thinking about another patient.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L59"><td><a href="#L59">59</a></td><td>LAFORGE:  As you can see, the Typhon Expanse is huge. If we want to chart the most remote star system, we'll have to launch a probe within the next few hours.</td></tr>
 
-  CRUSHER
-     No. I'm sure it was you. Well, try to get some
-     rest, and try to stay away from high places for a
-     few days, just in case.
+<tr id="L60"><td><a href="#L60">60</a></td><td>RIKER:  Fine. What about the luminosity studies?</td></tr>
 
-  LAFORGE
-     Thanks, Doc.
+<tr id="L61"><td><a href="#L61">61</a></td><td>LAFORGE:  That may pose a problem.</td></tr>
 
-  CRUSHER
-     Goodnight.
+<tr id="L62"><td><a href="#L62">62</a></td><td>PICARD:  How so?</td></tr>
 
-  LAFORGE
-     Goodnight.
+<tr id="L63"><td><a href="#L63">63</a></td><td>LAFORGE:  The flux spectrometers are still down for re-alignment.</td></tr>
 
+<tr id="L64"><td><a href="#L64">64</a></td><td>RIKER:  I thought they were supposed to be back online yesterday.</td></tr>
 
-LOCATION--Crusher's quarters
+<tr id="L65"><td><a href="#L65">65</a></td><td>LAFORGE:  They were, until the stellar dynamics lab decided they needed to install new modules.</td></tr>
 
-  ANNOTATION
-     Beverly is dead-heading a plant and sipping on a
-     night-cap. She goes over to the bed, turns out the
-     lights and puts down the glass. Once she's settled
-     down, she starts hearing lots voices all jumbled
-     up. As she reaches to put on the lights again, she
-     knocks over the glass, and it breaks
+<tr id="L66"><td><a href="#L66">66</a></td><td>DATA:  I recommend we use a gravitron polarimeter. It will perform a similar function.</td></tr>
 
+<tr id="L67"><td><a href="#L67">67</a></td><td>PICARD:  Make it so, Mister Data.</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L68"><td><a href="#L68">68</a></td><td>CRUSHER:  Captain, I have something I'd like to report.</td></tr>
 
-  LAFORGE
-     As you can see, the Typhon Expanse is huge. If we
-     want to chart the most remote star system, we'll
-     have to launch a probe within the next few hours.
+<tr id="L69"><td><a href="#L69">69</a></td><td>PICARD:  Yes, Doctor?</td></tr>
 
-  RIKER
-     Fine. What about the luminosity studies?
+<tr id="L70"><td><a href="#L70">70</a></td><td>CRUSHER:  I heard voices in my room last night. I was alone, so at first I thought I was imagining things. But this morning, ten other people reported hearing them at the same time I did.</td></tr>
 
-  LAFORGE
-     That may pose a problem.
+<tr id="L71"><td><a href="#L71">71</a></td><td>TROI:  What were the voices saying?</td></tr>
 
-  PICARD
-     How so?
+<tr id="L72"><td><a href="#L72">72</a></td><td>CRUSHER:  I couldn't make them out.</td></tr>
 
-  LAFORGE
-     The flux spectrometers are still down for
-     re-alignment.
+<tr id="L73"><td><a href="#L73">73</a></td><td>RIKER:  Data, did the sensors pick up anything unusual last night?</td></tr>
 
-  RIKER
-     I thought they were supposed to be back online
-     yesterday.
+<tr id="L74"><td><a href="#L74">74</a></td><td>DATA:  No anomalous readings were reported.</td></tr>
 
-  LAFORGE
-     They were, until the stellar dynamics lab decided
-     they needed to install new modules.
+<tr id="L75"><td><a href="#L75">75</a></td><td>RIKER:  When we're through here, re-check the sensor logs.</td></tr>
 
-  DATA
-     I recommend we use a gravitron polarimeter. It
-     will perform a similar function.
+<tr id="L76"><td><a href="#L76">76</a></td><td>DATA:  Aye, sir.</td></tr>
 
-  PICARD
-     Make it so, Mister Data.
+<tr id="L77"><td><a href="#L77">77</a></td><td>PICARD:  Counsellor?</td></tr>
 
-  CRUSHER
-     Captain, I have something I'd like to report.
+<tr id="L78"><td><a href="#L78">78</a></td><td>TROI:  I sensed nothing unusual last night.</td></tr>
 
-  PICARD
-     Yes, Doctor?
+<tr id="L79"><td><a href="#L79">79</a></td><td>LAFORGE:  Maybe it's a problem with the comm. system.</td></tr>
 
-  CRUSHER
-     I heard voices in my room last night. I was alone,
-     so at first I thought I was imagining things. But
-     this morning, ten other people reported hearing
-     them at the same time I did.
+<tr id="L80"><td><a href="#L80">80</a></td><td>WORF [OC]:  Bridge to Captain Picard.</td></tr>
 
-  TROI
-     What were the voices saying?
+<tr id="L81"><td><a href="#L81">81</a></td><td>PICARD:  Go ahead.</td></tr>
 
-  CRUSHER
-     I couldn't make them out.
+<tr id="L82"><td><a href="#L82">82</a></td><td>WORF [OC]:  We are getting unusual readings twenty thousand kilometres off the starboard bow.</td></tr>
 
-  RIKER
-     Data, did the sensors pick up anything unusual
-     last night?
+<tr id="L83"><td><a href="#L83">83</a></td><td>PICARD:  On our way.</td></tr>
 
-  DATA
-     No anomalous readings were reported.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L84"><td><a href="#L84">84</a></td><td>PICARD:  Report.</td></tr>
 
-  RIKER
-     When we're through here, re-check the sensor logs.
+<tr id="L85"><td><a href="#L85">85</a></td><td>RO:  Sensors didn't detect the phenomenon until we were almost on top of it, sir.</td></tr>
 
-  DATA
-     Aye, sir.
+<tr id="L86"><td><a href="#L86">86</a></td><td>WORF:  It is a highly localised distortion of the space-time continuum.</td></tr>
 
-  PICARD
-     Counsellor?
+<tr id="L87"><td><a href="#L87">87</a></td><td>RIKER:  On screen.</td></tr>
 
-  TROI
-     I sensed nothing unusual last night.
+<tr id="L88"><td><a href="#L88">88</a></td><td>ANNOTATION: a blue weird thing</td></tr>
 
-  LAFORGE
-     Maybe it's a problem with the comm. system.
+<tr id="L89"><td><a href="#L89">89</a></td><td>PICARD:  Back us off, Ensign. Nice and slow.</td></tr>
 
-  WORF [OC]
-     Bridge to Captain Picard.
+<tr id="L90"><td><a href="#L90">90</a></td><td>RO:  Aye sir. Captain, manoeuvring thrusters are not responding.</td></tr>
 
-  PICARD
-     Go ahead.
+<tr id="L91"><td><a href="#L91">91</a></td><td>DATA:  The distortion field is fluctuating.</td></tr>
 
-  WORF [OC]
-     We are getting unusual readings twenty thousand
-     kilometres off the starboard bow.
+<tr id="L92"><td><a href="#L92">92</a></td><td>LAFORGE:  All main systems just went down. Power levels are dropping rapidly.</td></tr>
 
-  PICARD
-     On our way.
+<tr id="L93"><td><a href="#L93">93</a></td><td>RIKER:  Red alert.</td></tr>
 
+<tr id="L94"><td><a href="#L94">94</a></td><td>DATA:  There is an energy build up in the distortion field.</td></tr>
 
-LOCATION--Bridge
+<tr id="L95"><td><a href="#L95">95</a></td><td>TROI:  We have to get out of here now.</td></tr>
 
-  PICARD
-     Report.
+<tr id="L96"><td><a href="#L96">96</a></td><td>DATA:  Captain, something is emerging.</td></tr>
 
-  RO
-     Sensors didn't detect the phenomenon until we were
-     almost on top of it, sir.
+<tr id="L97"><td><a href="#L97">97</a></td><td>ANNOTATION: it's a smaller starship</td></tr>
 
-  WORF
-     It is a highly localised distortion of the
-     space-time continuum.
+<tr id="L98"><td><a href="#L98">98</a></td><td>RIKER:  Shields up. Evasive manoeuvres.</td></tr>
 
-  RIKER
-     On screen.
+<tr id="L99"><td><a href="#L99">99</a></td><td>WORF:  Shields inoperative.</td></tr>
 
-  ANNOTATION
-     a blue weird thing
+<tr id="L100"><td><a href="#L100">100</a></td><td>RO:  The helm's not responding.</td></tr>
 
-  PICARD
-     Back us off, Ensign. Nice and slow.
+<tr id="L101"><td><a href="#L101">101</a></td><td>DATA:  The vessel is on a collision course. Impact in thirty six seconds.</td></tr>
 
-  RO
-     Aye sir. Captain, manoeuvring thrusters are not
-     responding.
+<tr id="L102"><td><a href="#L102">102</a></td><td>PICARD:  Hail them.</td></tr>
 
-  DATA
-     The distortion field is fluctuating.
+<tr id="L103"><td><a href="#L103">103</a></td><td>WORF:  No response.</td></tr>
 
-  LAFORGE
-     All main systems just went down. Power levels are
-     dropping rapidly.
+<tr id="L104"><td><a href="#L104">104</a></td><td>PICARD:  Suggestions?</td></tr>
 
-  RIKER
-     Red alert.
+<tr id="L105"><td><a href="#L105">105</a></td><td>RIKER:  Decompress main shuttlebay. The explosive reaction may kick us out of the way.</td></tr>
 
-  DATA
-     There is an energy build up in the distortion
-     field.
+<tr id="L106"><td><a href="#L106">106</a></td><td>DATA:  Captain, I suggest we use the tractor beam to alter the other ship's trajectory.</td></tr>
 
-  TROI
-     We have to get out of here now.
+<tr id="L107"><td><a href="#L107">107</a></td><td>PICARD:  Mister Worf, make it so.</td></tr>
 
-  DATA
-     Captain, something is emerging.
+<tr id="L108"><td><a href="#L108">108</a></td><td>WORF:  Engaging tractor beam.</td></tr>
 
-  ANNOTATION
-     it's a smaller starship
+<tr id="L109"><td><a href="#L109">109</a></td><td>ANNOTATION: but the NCC 1841 clips the nacelle anyway</td></tr>
 
-  RIKER
-     Shields up. Evasive manoeuvres.
+<tr id="L110"><td><a href="#L110">110</a></td><td>RIKER:  Damage report!</td></tr>
 
-  WORF
-     Shields inoperative.
+<tr id="L111"><td><a href="#L111">111</a></td><td>CRUSHER:  Casualty reports coming in from all over the ship.</td></tr>
 
-  RO
-     The helm's not responding.
+<tr id="L112"><td><a href="#L112">112</a></td><td>DATA:  Starboard nacelle sustained a direct impact. Venting drive plasma.</td></tr>
 
-  DATA
-     The vessel is on a collision course. Impact in
-     thirty six seconds.
+<tr id="L113"><td><a href="#L113">113</a></td><td>LAFORGE:  Initiating emergency core shutdown.</td></tr>
 
-  PICARD
-     Hail them.
+<tr id="L114"><td><a href="#L114">114</a></td><td>RO:  Inertial dampers failing. We're losing attitude control.</td></tr>
 
-  WORF
-     No response.
+<tr id="L115"><td><a href="#L115">115</a></td><td>RIKER:  This is the Bridge. All hands to emergency escape pods.</td></tr>
 
-  PICARD
-     Suggestions?
+<tr id="L116"><td><a href="#L116">116</a></td><td>DATA:  Core shutdown was unsuccessful. We are losing antimatter containment.</td></tr>
 
-  RIKER
-     Decompress main shuttlebay. The explosive reaction
-     may kick us out of the way.
+<tr id="L117"><td><a href="#L117">117</a></td><td>LAFORGE:  We've got to eject the engine core!</td></tr>
 
-  DATA
-     Captain, I suggest we use the tractor beam to
-     alter the other ship's trajectory.
+<tr id="L118"><td><a href="#L118">118</a></td><td>DATA:  Ejection systems are offline. Core breach is imminent.</td></tr>
 
-  PICARD
-     Mister Worf, make it so.
+<tr id="L119"><td><a href="#L119">119</a></td><td>PICARD:  All hands, abandon ship! Repeat, all hands abandon</td></tr>
 
-  WORF
-     Engaging tractor beam.
+<tr id="L120"><td><a href="#L120">120</a></td><td>ANNOTATION: KaBOOM!!!!</td></tr>
 
-  ANNOTATION
-     but the NCC 1841 clips the nacelle anyway
+<tr id="L121"><td><a href="#L121">121</a></td><td>SOMEONE: Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We are the first Starfleet vessel to chart this unexplored region.</td></tr>
 
-  RIKER
-     Damage report!
+<tr><td></td><td>LOCATION--Someone's quarters</td></tr>
+<tr id="L122"><td><a href="#L122">122</a></td><td>RIKER:  Sometimes I wonder if he's stacking the deck.</td></tr>
 
-  CRUSHER
-     Casualty reports coming in from all over the ship.
+<tr id="L123"><td><a href="#L123">123</a></td><td>DATA:  I assure you, Commander, the cards have been sufficiently randomised.</td></tr>
 
-  DATA
-     Starboard nacelle sustained a direct impact.
-     Venting drive plasma.
+<tr id="L124"><td><a href="#L124">124</a></td><td>WORF:  I hope so.</td></tr>
 
-  LAFORGE
-     Initiating emergency core shutdown.
+<tr id="L125"><td><a href="#L125">125</a></td><td>DATA:  Eight. Ace. Queen. The dealer receives a four.</td></tr>
 
-  RO
-     Inertial dampers failing. We're losing attitude
-     control.
+<tr id="L126"><td><a href="#L126">126</a></td><td>WORF:  No bet.</td></tr>
 
-  RIKER
-     This is the Bridge. All hands to emergency escape
-     pods.
+<tr id="L127"><td><a href="#L127">127</a></td><td>DATA:  Ten. Seven. No help there. A pair of ladies for the Doctor. Dealer receives a nine. Doctor? May I remind you since you show the highest hand, you control the next bet.</td></tr>
 
-  DATA
-     Core shutdown was unsuccessful. We are losing
-     antimatter containment.
+<tr id="L128"><td><a href="#L128">128</a></td><td>WORF:  Is there something wrong, Doctor?</td></tr>
 
-  LAFORGE
-     We've got to eject the engine core!
+<tr id="L129"><td><a href="#L129">129</a></td><td>CRUSHER:  No. I bet ten.</td></tr>
 
-  DATA
-     Ejection systems are offline. Core breach is
-     imminent.
+<tr id="L130"><td><a href="#L130">130</a></td><td>DATA:  Jack. Four. Deuce. Six.</td></tr>
 
-  PICARD
-     All hands, abandon ship! Repeat, all hands abandon
+<tr id="L131"><td><a href="#L131">131</a></td><td>CRUSHER:  Twenty.</td></tr>
 
-  ANNOTATION
-     KaBOOM!!!!
+<tr id="L132"><td><a href="#L132">132</a></td><td>RIKER:  Your twenty and I'll raise you fifty. You're going to call my bluff, aren't you. I think I'll quit while I'm ahead.</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 45652.1. The Enterprise
-     has entered an area of space known as the Typhon
-     Expanse. We are the first Starfleet vessel to
-     chart this unexplored region.
+<tr id="L133"><td><a href="#L133">133</a></td><td>CRUSHER:  How did you know I was going to call your bluff?</td></tr>
 
+<tr id="L134"><td><a href="#L134">134</a></td><td>RIKER:  I just had a feeling.</td></tr>
 
-LOCATION--Someone's quarters
+<tr id="L135"><td><a href="#L135">135</a></td><td>CRUSHER:  Me too.</td></tr>
 
-  RIKER
-     Sometimes I wonder if he's stacking the deck.
+<tr id="L136"><td><a href="#L136">136</a></td><td>OGAWA [OC]:  Ogawa to Doctor Crusher.</td></tr>
 
-  DATA
-     I assure you, Commander, the cards have been
-     sufficiently randomised.
+<tr id="L137"><td><a href="#L137">137</a></td><td>CRUSHER:  Go ahead.</td></tr>
 
-  WORF
-     I hope so.
+<tr id="L138"><td><a href="#L138">138</a></td><td>OGAWA [OC]:  Commander La Forge needs you in Sickbay.</td></tr>
 
-  DATA
-     Eight. Ace. Queen. The dealer receives a four.
+<tr id="L139"><td><a href="#L139">139</a></td><td>CRUSHER:  On my way.</td></tr>
 
-  WORF
-     No bet.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L140"><td><a href="#L140">140</a></td><td>LAFORGE:  At first I thought the catwalk was spinning. As it turns out, it was me. I was lucky Ensign Fletcher was there to grab me. It's a long way down to the bottom of the warp core.</td></tr>
 
-  DATA
-     Ten. Seven. No help there. A pair of ladies for
-     the Doctor. Dealer receives a nine. Doctor? May I
-     remind you since you show the highest hand, you
-     control the next bet.
+<tr id="L141"><td><a href="#L141">141</a></td><td>CRUSHER:  You have all the symptoms of an inner ear infection. That would explain your the headaches and the dizziness. But there's no physical</td></tr>
 
-  WORF
-     Is there something wrong, Doctor?
+<tr id="L142"><td><a href="#L142">142</a></td><td>LAFORGE:  What? What is it?</td></tr>
 
-  CRUSHER
-     No. I bet ten.
+<tr id="L143"><td><a href="#L143">143</a></td><td>CRUSHER:  Geordi, have you ever had these symptoms before?</td></tr>
 
-  DATA
-     Jack. Four. Deuce. Six.
+<tr id="L144"><td><a href="#L144">144</a></td><td>LAFORGE:  Now that you mention it, I think I have.</td></tr>
 
-  CRUSHER
-     Twenty.
+<tr id="L145"><td><a href="#L145">145</a></td><td>CRUSHER:  Do you recall when?</td></tr>
 
-  RIKER
-     Your twenty and I'll raise you fifty. You're going
-     to call my bluff, aren't you. I think I'll quit
-     while I'm ahead.
+<tr id="L146"><td><a href="#L146">146</a></td><td>LAFORGE:  No, I don't.</td></tr>
 
-  CRUSHER
-     How did you know I was going to call your bluff?
+<tr id="L147"><td><a href="#L147">147</a></td><td>CRUSHER:  We've had this discussion before and I know I've given you this examination. Let's check the medical logs. You've been treated several times for headaches related to your visor, but I read no mention of dizziness.</td></tr>
 
-  RIKER
-     I just had a feeling.
+<tr id="L148"><td><a href="#L148">148</a></td><td>LAFORGE:  Must be dj vu.</td></tr>
 
-  CRUSHER
-     Me too.
+<tr id="L149"><td><a href="#L149">149</a></td><td>CRUSHER:  Both of us? About the same thing?</td></tr>
 
-  OGAWA [OC]
-     Ogawa to Doctor Crusher.
+<tr><td></td><td>LOCATION--Crusher's quarters</td></tr>
+<tr id="L150"><td><a href="#L150">150</a></td><td>ANNOTATION: Beverly is about to dead-head a plant, when she stops. She sips her night-cap, sits on the bed and gives the glass a quizzical look. Then she sets it down, turns out the lights and lies down. The voices start up. Reaching for the lights, she knocks over the glass, and the voices stop</td></tr>
 
-  CRUSHER
-     Go ahead.
+<tr id="L151"><td><a href="#L151">151</a></td><td>CRUSHER:  Crusher to Captain Picard.</td></tr>
 
-  OGAWA [OC]
-     Commander La Forge needs you in Sickbay.
+<tr id="L152"><td><a href="#L152">152</a></td><td>PICARD [OC]:  Yes, Doctor?</td></tr>
 
-  CRUSHER
-     On my way.
+<tr id="L153"><td><a href="#L153">153</a></td><td>CRUSHER:  Do you have a minute, Jean-Luc?</td></tr>
 
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L154"><td><a href="#L154">154</a></td><td>PICARD:  My Aunt Adele cured a lot of sleepless nights with this steamed milk.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L155"><td><a href="#L155">155</a></td><td>CRUSHER:  Thank you. Mmm, nutmeg.</td></tr>
 
-  LAFORGE
-     At first I thought the catwalk was spinning. As it
-     turns out, it was me. I was lucky Ensign Fletcher
-     was there to grab me. It's a long way down to the
-     bottom of the warp core.
+<tr id="L156"><td><a href="#L156">156</a></td><td>PICARD:  Whenever I get insomnia, I try to perfect the recipe.</td></tr>
 
-  CRUSHER
-     You have all the symptoms of an inner ear
-     infection. That would explain your the headaches
-     and the dizziness. But there's no physical
+<tr id="L157"><td><a href="#L157">157</a></td><td>CRUSHER:  It was the eeriest feeling. When the glass broke, it triggered the sensation even more intensely that I'd done it all before.</td></tr>
 
-  LAFORGE
-     What? What is it?
+<tr id="L158"><td><a href="#L158">158</a></td><td>PICARD:  You know, earlier, I was reading this book, and I had the distinct feeling I'd read certain paragraphs before. But I assumed I'd read the book years ago and I'd forgotten.</td></tr>
 
-  CRUSHER
-     Geordi, have you ever had these symptoms before?
+<tr id="L159"><td><a href="#L159">159</a></td><td>CRUSHER:  I've had this feeling for hours. And then the voices.</td></tr>
 
-  LAFORGE
-     Now that you mention it, I think I have.
+<tr id="L160"><td><a href="#L160">160</a></td><td>PICARD:  Well, it could be nothing more than the result of a sleepless night. But let's be sure. Have Data and Geordi run a shipwide diagnostic, concentrating on the time and place you heard the voices, and we'll discuss the results tomorrow at seven hundred hours.</td></tr>
 
-  CRUSHER
-     Do you recall when?
+<tr id="L161"><td><a href="#L161">161</a></td><td>CRUSHER:  Thank you. For everything.</td></tr>
 
-  LAFORGE
-     No, I don't.
+<tr id="L162"><td><a href="#L162">162</a></td><td>PICARD:  Thank Aunt Adele.</td></tr>
 
-  CRUSHER
-     We've had this discussion before and I know I've
-     given you this examination. Let's check the
-     medical logs. You've been treated several times
-     for headaches related to your visor, but I read no
-     mention of dizziness.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L163"><td><a href="#L163">163</a></td><td>DATA:  The internal scans were negative. There was no evidence of auditory anomalies anywhere on the ship.</td></tr>
 
-  LAFORGE
-     Must be dj vu.
+<tr id="L164"><td><a href="#L164">164</a></td><td>LAFORGE:  As far as the sensors are concerned, nothing unusual happened last night.</td></tr>
 
-  CRUSHER
-     Both of us? About the same thing?
+<tr id="L165"><td><a href="#L165">165</a></td><td>CRUSHER:  Ten other people reported hearing voices at the same time I did.</td></tr>
 
+<tr id="L166"><td><a href="#L166">166</a></td><td>WORF [OC]:  Bridge to Captain Picard.</td></tr>
 
-LOCATION--Crusher's quarters
+<tr id="L167"><td><a href="#L167">167</a></td><td>PICARD:  Go ahead.</td></tr>
 
-  ANNOTATION
-     Beverly is about to dead-head a plant, when she
-     stops. She sips her night-cap, sits on the bed and
-     gives the glass a quizzical look. Then she sets it
-     down, turns out the lights and lies down. The
-     voices start up. Reaching for the lights, she
-     knocks over the glass, and the voices stop
+<tr id="L168"><td><a href="#L168">168</a></td><td>WORF [OC]:  We are getting unusual readings twenty thousand kilometres off the starboard bow.</td></tr>
 
-  CRUSHER
-     Crusher to Captain Picard.
+<tr id="L169"><td><a href="#L169">169</a></td><td>PICARD:  On our way.</td></tr>
 
-  PICARD [OC]
-     Yes, Doctor?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L170"><td><a href="#L170">170</a></td><td>PICARD:  Report.</td></tr>
 
-  CRUSHER
-     Do you have a minute, Jean-Luc?
+<tr id="L171"><td><a href="#L171">171</a></td><td>RO:  Sensors didn't detect the phenomenon until we were almost on top of it, sir.</td></tr>
 
+<tr id="L172"><td><a href="#L172">172</a></td><td>WORF:  It is a highly localised distortion of the space-time continuum.</td></tr>
 
-LOCATION--Ready room
+<tr id="L173"><td><a href="#L173">173</a></td><td>RIKER:  On screen.</td></tr>
 
-  PICARD
-     My Aunt Adele cured a lot of sleepless nights with
-     this steamed milk.
+<tr id="L174"><td><a href="#L174">174</a></td><td>ANNOTATION: the blue swirly, as before</td></tr>
 
-  CRUSHER
-     Thank you. Mmm, nutmeg.
+<tr id="L175"><td><a href="#L175">175</a></td><td>PICARD:  Back us off, Ensign. Nice and slow.</td></tr>
 
-  PICARD
-     Whenever I get insomnia, I try to perfect the
-     recipe.
+<tr id="L176"><td><a href="#L176">176</a></td><td>RO:  Aye sir. Captain, manoeuvreing thrusters are not responding.</td></tr>
 
-  CRUSHER
-     It was the eeriest feeling. When the glass broke,
-     it triggered the sensation even more intensely
-     that I'd done it all before.
+<tr id="L177"><td><a href="#L177">177</a></td><td>DATA:  The distortion field is fluctuating.</td></tr>
 
-  PICARD
-     You know, earlier, I was reading this book, and I
-     had the distinct feeling I'd read certain
-     paragraphs before. But I assumed I'd read the book
-     years ago and I'd forgotten.
+<tr id="L178"><td><a href="#L178">178</a></td><td>LAFORGE:  All main systems just went down. Power levels are dropping rapidly.</td></tr>
 
-  CRUSHER
-     I've had this feeling for hours. And then the
-     voices.
+<tr id="L179"><td><a href="#L179">179</a></td><td>RIKER:  Red alert.</td></tr>
 
-  PICARD
-     Well, it could be nothing more than the result of
-     a sleepless night. But let's be sure. Have Data
-     and Geordi run a shipwide diagnostic,
-     concentrating on the time and place you heard the
-     voices, and we'll discuss the results tomorrow at
-     seven hundred hours.
+<tr id="L180"><td><a href="#L180">180</a></td><td>DATA:  There is an energy build up in the distortion field.</td></tr>
 
-  CRUSHER
-     Thank you. For everything.
+<tr id="L181"><td><a href="#L181">181</a></td><td>TROI:  We have to get out of here now.</td></tr>
 
-  PICARD
-     Thank Aunt Adele.
+<tr id="L182"><td><a href="#L182">182</a></td><td>DATA:  Captain, something is emerging.</td></tr>
 
+<tr id="L183"><td><a href="#L183">183</a></td><td>ANNOTATION: here comes the ship again</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L184"><td><a href="#L184">184</a></td><td>RIKER:  Shields up. Evasive manoeuvres.</td></tr>
 
-  DATA
-     The internal scans were negative. There was no
-     evidence of auditory anomalies anywhere on the
-     ship.
+<tr id="L185"><td><a href="#L185">185</a></td><td>WORF:  Shields inoperative.</td></tr>
 
-  LAFORGE
-     As far as the sensors are concerned, nothing
-     unusual happened last night.
+<tr id="L186"><td><a href="#L186">186</a></td><td>RO:  The helm is not responding.</td></tr>
 
-  CRUSHER
-     Ten other people reported hearing voices at the
-     same time I did.
+<tr id="L187"><td><a href="#L187">187</a></td><td>DATA:  The vessel is on a collision course. Impact in thirty six seconds.</td></tr>
 
-  WORF [OC]
-     Bridge to Captain Picard.
+<tr id="L188"><td><a href="#L188">188</a></td><td>PICARD:  Hail them.</td></tr>
 
-  PICARD
-     Go ahead.
+<tr id="L189"><td><a href="#L189">189</a></td><td>WORF:  No response.</td></tr>
 
-  WORF [OC]
-     We are getting unusual readings twenty thousand
-     kilometres off the starboard bow.
+<tr id="L190"><td><a href="#L190">190</a></td><td>PICARD:  Suggestions?</td></tr>
 
-  PICARD
-     On our way.
+<tr id="L191"><td><a href="#L191">191</a></td><td>RIKER:  Decompress main shuttlebay. The explosive reaction may blow us out of the way.</td></tr>
 
+<tr id="L192"><td><a href="#L192">192</a></td><td>DATA:  Captain, I suggest we use the tractor beam to alter the other ship's trajectory.</td></tr>
 
-LOCATION--Bridge
+<tr id="L193"><td><a href="#L193">193</a></td><td>PICARD:  Make it so, Mister Worf.</td></tr>
 
-  PICARD
-     Report.
+<tr id="L194"><td><a href="#L194">194</a></td><td>WORF:  Engaging tractor beam.</td></tr>
 
-  RO
-     Sensors didn't detect the phenomenon until we were
-     almost on top of it, sir.
+<tr id="L195"><td><a href="#L195">195</a></td><td>ANNOTATION: thump</td></tr>
 
-  WORF
-     It is a highly localised distortion of the
-     space-time continuum.
+<tr id="L196"><td><a href="#L196">196</a></td><td>RIKER:  Damage report!</td></tr>
 
-  RIKER
-     On screen.
+<tr id="L197"><td><a href="#L197">197</a></td><td>CRUSHER:  Casualty reports coming in from all over the ship.</td></tr>
 
-  ANNOTATION
-     the blue swirly, as before
+<tr id="L198"><td><a href="#L198">198</a></td><td>DATA:  Starboard nacelle has sustained a direct impact. We are venting drive plasma.</td></tr>
 
-  PICARD
-     Back us off, Ensign. Nice and slow.
+<tr id="L199"><td><a href="#L199">199</a></td><td>LAFORGE:  Initiating emergency core shutdown.</td></tr>
 
-  RO
-     Aye sir. Captain, manoeuvreing thrusters are not
-     responding.
+<tr id="L200"><td><a href="#L200">200</a></td><td>RO:  Inertial dampers failing. We're losing attitude control.</td></tr>
 
-  DATA
-     The distortion field is fluctuating.
+<tr id="L201"><td><a href="#L201">201</a></td><td>RIKER:  This is the Bridge. All hands to emergency escape pods.</td></tr>
 
-  LAFORGE
-     All main systems just went down. Power levels are
-     dropping rapidly.
+<tr id="L202"><td><a href="#L202">202</a></td><td>DATA:  Core shutdown was unsuccessful. We are losing antimatter containment.</td></tr>
 
-  RIKER
-     Red alert.
+<tr id="L203"><td><a href="#L203">203</a></td><td>LAFORGE:  We've got to eject the core!</td></tr>
 
-  DATA
-     There is an energy build up in the distortion
-     field.
+<tr id="L204"><td><a href="#L204">204</a></td><td>DATA:  Ejector systems are offline. Core breach is imminent</td></tr>
 
-  TROI
-     We have to get out of here now.
+<tr id="L205"><td><a href="#L205">205</a></td><td>PICARD:  (to comm.) All hands abandon ship. Repeat, all hands abandon</td></tr>
 
-  DATA
-     Captain, something is emerging.
+<tr id="L206"><td><a href="#L206">206</a></td><td>ANNOTATION: KaBOOM!!!!</td></tr>
 
-  ANNOTATION
-     here comes the ship again
+<tr id="L207"><td><a href="#L207">207</a></td><td>SOMEONE: Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We are the first Starfleet vessel to chart this unexplored region.</td></tr>
 
-  RIKER
-     Shields up. Evasive manoeuvres.
+<tr><td></td><td>LOCATION--Somebody's quarters</td></tr>
+<tr id="L208"><td><a href="#L208">208</a></td><td>RIKER:  Sometimes I wonder if he's stacking the deck.</td></tr>
 
-  WORF
-     Shields inoperative.
+<tr id="L209"><td><a href="#L209">209</a></td><td>DATA:  I assure you, Commander, the cards are sufficiently randomised.</td></tr>
 
-  RO
-     The helm is not responding.
+<tr id="L210"><td><a href="#L210">210</a></td><td>WORF:  I hope (pause) so.</td></tr>
 
-  DATA
-     The vessel is on a collision course. Impact in
-     thirty six seconds.
+<tr id="L211"><td><a href="#L211">211</a></td><td>RIKER:  Something wrong, Mister Worf?</td></tr>
 
-  PICARD
-     Hail them.
+<tr id="L212"><td><a href="#L212">212</a></td><td>WORF:  I am experiencing nIb'poH, the feeling I have done this before.</td></tr>
 
-  WORF
-     No response.
+<tr id="L213"><td><a href="#L213">213</a></td><td>RIKER:  Yeah, last Tuesday night.</td></tr>
 
-  PICARD
-     Suggestions?
+<tr id="L214"><td><a href="#L214">214</a></td><td>WORF:  That's not what I mean.</td></tr>
 
-  RIKER
-     Decompress main shuttlebay. The explosive reaction
-     may blow us out of the way.
+<tr id="L215"><td><a href="#L215">215</a></td><td>CRUSHER:  I've been having the same feeling. Keep dealing, Data.</td></tr>
 
-  DATA
-     Captain, I suggest we use the tractor beam to
-     alter the other ship's trajectory.
+<tr id="L216"><td><a href="#L216">216</a></td><td>DATA:  Eight. Ace.</td></tr>
 
-  PICARD
-     Make it so, Mister Worf.
+<tr id="L217"><td><a href="#L217">217</a></td><td>CRUSHER:  A Queen. You're going to give me a Queen. And you're going to get a four. Deal, Data.</td></tr>
 
-  WORF
-     Engaging tractor beam.
+<tr id="L218"><td><a href="#L218">218</a></td><td>DATA:  But no one has bet.</td></tr>
 
-  ANNOTATION
-     thump
+<tr id="L219"><td><a href="#L219">219</a></td><td>CRUSHER:  Forget the bet. Just deal. Ten, seven, queen.</td></tr>
 
-  RIKER
-     Damage report!
+<tr id="L220"><td><a href="#L220">220</a></td><td>WORF:  Nine. Jack. Four.</td></tr>
 
-  CRUSHER
-     Casualty reports coming in from all over the ship.
+<tr id="L221"><td><a href="#L221">221</a></td><td>RIKER:  Deuce. Six.</td></tr>
 
-  DATA
-     Starboard nacelle has sustained a direct impact.
-     We are venting drive plasma.
+<tr id="L222"><td><a href="#L222">222</a></td><td>DATA:  This is highly improbable.</td></tr>
 
-  LAFORGE
-     Initiating emergency core shutdown.
+<tr id="L223"><td><a href="#L223">223</a></td><td>RIKER:  How did we know?</td></tr>
 
-  RO
-     Inertial dampers failing. We're losing attitude
-     control.
+<tr id="L224"><td><a href="#L224">224</a></td><td>CRUSHER:  Wait. Crusher to Sickbay.</td></tr>
 
-  RIKER
-     This is the Bridge. All hands to emergency escape
-     pods.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L225"><td><a href="#L225">225</a></td><td>OGAWA:  Sickbay here.</td></tr>
 
-  DATA
-     Core shutdown was unsuccessful. We are losing
-     antimatter containment.
+<tr id="L226"><td><a href="#L226">226</a></td><td>CRUSHER [OC]:  Is Commander La Forge there?</td></tr>
 
-  LAFORGE
-     We've got to eject the core!
+<tr id="L227"><td><a href="#L227">227</a></td><td>OGAWA:  No, Doctor, he's not. Wait a minute. He just came in.</td></tr>
 
-  DATA
-     Ejector systems are offline. Core breach is
-     imminent
+<tr id="L228"><td><a href="#L228">228</a></td><td>ANNOTATION: After Geordi's examination</td></tr>
 
-  PICARD
-     (to comm.) All hands abandon ship. Repeat, all
-     hands abandon
+<tr id="L229"><td><a href="#L229">229</a></td><td>PICARD:  You wanted to see me, Doctor?</td></tr>
 
-  ANNOTATION
-     KaBOOM!!!!
+<tr id="L230"><td><a href="#L230">230</a></td><td>CRUSHER:  Yes. Captain, have you been getting the feeling that you've experienced certain things before? A sense of repetition?</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 45652.1. The Enterprise
-     has entered an area of space known as the Typhon
-     Expanse. We are the first Starfleet vessel to
-     chart this unexplored region.
+<tr id="L231"><td><a href="#L231">231</a></td><td>PICARD:  Yes, recently. While I was reading. Why do you ask?</td></tr>
 
+<tr id="L232"><td><a href="#L232">232</a></td><td>CRUSHER:  There have been similar incidents reported all over the ship. Feelings of dj vu. I had a premonition Geordi was going to come in to Sickbay. A few seconds later he did, with the symptoms of an ear infection. I was going to run the standard tests, but somehow I had a feeling they would turn out negative. So I ran an optical diagnostic which traced the problem to Geordi's visor. His dizziness is being caused by a phase shift in his visual receptors. It's causing him to see images that aren't there.</td></tr>
 
-LOCATION--Somebody's quarters
+<tr id="L233"><td><a href="#L233">233</a></td><td>LAFORGE:  They're like blurry after-images.</td></tr>
 
-  RIKER
-     Sometimes I wonder if he's stacking the deck.
+<tr id="L234"><td><a href="#L234">234</a></td><td>CRUSHER:  I ran a scan to see if I could detect what he was seeing. I picked up miniscule distortions in the surrounding dekyon field. Somehow, his visor is translating those distortions into visual impulses.</td></tr>
 
-  DATA
-     I assure you, Commander, the cards are
-     sufficiently randomised.
+<tr id="L235"><td><a href="#L235">235</a></td><td>LAFORGE:  It could be a malfunction in the ship's warp field generator. I'll check it out.</td></tr>
 
-  WORF
-     I hope (pause) so.
+<tr id="L236"><td><a href="#L236">236</a></td><td>PICARD:  Run a localised subspace scan to look for anything else.</td></tr>
 
-  RIKER
-     Something wrong, Mister Worf?
+<tr id="L237"><td><a href="#L237">237</a></td><td>LAFORGE:  Aye, sir.</td></tr>
 
-  WORF
-     I am experiencing nIb'poH, the feeling I have done
-     this before.
+<tr id="L238"><td><a href="#L238">238</a></td><td>ANNOTATION: Geordi leaves</td></tr>
 
-  RIKER
-     Yeah, last Tuesday night.
+<tr id="L239"><td><a href="#L239">239</a></td><td>PICARD:  Keep me advised.</td></tr>
 
-  WORF
-     That's not what I mean.
+<tr><td></td><td>LOCATION--Crusher's quarters</td></tr>
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: This time, Beverly isn't dressed for bed. She carefully puts her glass down on another table out of harm's way. As soon as she turns out the lights, the voices start and she grabs her tricorder to record them.</td></tr>
 
-  CRUSHER
-     I've been having the same feeling. Keep dealing,
-     Data.
+<tr id="L241"><td><a href="#L241">241</a></td><td>CRUSHER:  Crusher to Commander La Forge.</td></tr>
 
-  DATA
-     Eight. Ace.
+<tr id="L242"><td><a href="#L242">242</a></td><td>LAFORGE [OC]:  La Forge here.</td></tr>
 
-  CRUSHER
-     A Queen. You're going to give me a Queen. And
-     you're going to get a four. Deal, Data.
+<tr id="L243"><td><a href="#L243">243</a></td><td>CRUSHER:  Geordi, I just heard what sounded like voices in my room, but no one else is here.</td></tr>
 
-  DATA
-     But no one has bet.
+<tr id="L244"><td><a href="#L244">244</a></td><td>LAFORGE [OC]:  Sensors just picked up something strange, too. We're checking it out.</td></tr>
 
-  CRUSHER
-     Forget the bet. Just deal. Ten, seven, queen.
+<tr id="L245"><td><a href="#L245">245</a></td><td>CRUSHER:  I'm on my way.</td></tr>
 
-  WORF
-     Nine. Jack. Four.
+<tr id="L246"><td><a href="#L246">246</a></td><td>ANNOTATION: She grabs her lab coat and it knocks the glass of the table. Some things just have to happen.</td></tr>
 
-  RIKER
-     Deuce. Six.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L247"><td><a href="#L247">247</a></td><td>LAFORGE:  Looks like you managed to record six point two seconds worth. Let's see if we can filter the signal and clear it up a little bit.</td></tr>
 
-  DATA
-     This is highly improbable.
+<tr id="L248"><td><a href="#L248">248</a></td><td>CRUSHER:  Then I wasn't just hearing things?</td></tr>
 
-  RIKER
-     How did we know?
+<tr id="L249"><td><a href="#L249">249</a></td><td>DATA:  The sound itself appears to have been real. However the acoustic energy does not correspond to any ship's system, nor to any voice communications sent at the time you heard it.</td></tr>
 
-  CRUSHER
-     Wait. Crusher to Sickbay.
+<tr id="L250"><td><a href="#L250">250</a></td><td>CRUSHER:  Then where did the sound come from?</td></tr>
 
+<tr id="L251"><td><a href="#L251">251</a></td><td>LAFORGE:  You heard the voices at the same time our localised subspace scan picked up a dekyon field distortion. The two may be related. Let's give another listen.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L252"><td><a href="#L252">252</a></td><td>DATA:  Computer, perform a narrow bandwidth analysis. Eliminate all non-vocal waveform components.</td></tr>
 
-  OGAWA
-     Sickbay here.
+<tr id="L253"><td><a href="#L253">253</a></td><td>CRUSHER:  Can we isolate the voices? Find out what they're saying?</td></tr>
 
-  CRUSHER [OC]
-     Is Commander La Forge there?
+<tr id="L254"><td><a href="#L254">254</a></td><td>DATA:  Computer, continuous playback please. There are approximately one thousand voices overlapping. The voices are those of the Enterprise crew. Our voices.</td></tr>
 
-  OGAWA
-     No, Doctor, he's not. Wait a minute. He just came
-     in.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L255"><td><a href="#L255">255</a></td><td>CRUSHER:  I'm sorry to call you here so early, but we couldn't wait until oh seven hundred hours. We think we may have an explanation for the odd occurrences around here. Commander.</td></tr>
 
-  ANNOTATION
-     After Geordi's examination
+<tr id="L256"><td><a href="#L256">256</a></td><td>LAFORGE:  This is going to sound pretty wild. Somehow, we've entered what seems to be a temporal causality loop. We think we're stuck in a particular fragment in time, and we've been repeating that same fragment over and over again.</td></tr>
 
-  PICARD
-     You wanted to see me, Doctor?
+<tr id="L257"><td><a href="#L257">257</a></td><td>TROI:  Is this what's causing our dj vu?</td></tr>
 
-  CRUSHER
-     Yes. Captain, have you been getting the feeling
-     that you've experienced certain things before? A
-     sense of repetition?
+<tr id="L258"><td><a href="#L258">258</a></td><td>CRUSHER:  Yes, but it's more than that. In dj vu, you only think you're repeating events. We actually are.</td></tr>
 
-  PICARD
-     Yes, recently. While I was reading. Why do you
-     ask?
+<tr id="L259"><td><a href="#L259">259</a></td><td>LAFORGE:  Our theory is this. Every time the loop begins again, everything resets itself, and starts all over. We don't remember anything that happened before, so each time through the loop, we think it's the first.</td></tr>
 
-  CRUSHER
-     There have been similar incidents reported all
-     over the ship. Feelings of dj vu. I had a
-     premonition Geordi was going to come in to
-     Sickbay. A few seconds later he did, with the
-     symptoms of an ear infection. I was going to run
-     the standard tests, but somehow I had a feeling
-     they would turn out negative. So I ran an optical
-     diagnostic which traced the problem to Geordi's
-     visor. His dizziness is being caused by a phase
-     shift in his visual receptors. It's causing him to
-     see images that aren't there.
+<tr id="L260"><td><a href="#L260">260</a></td><td>RIKER:  You mean we could have come into this room, sat at this table and had this conversation a dozen times already?</td></tr>
 
-  LAFORGE
-     They're like blurry after-images.
+<tr id="L261"><td><a href="#L261">261</a></td><td>LAFORGE:  A dozen, a hundred, it's impossible to tell. We could have been trapped here for hours, days, maybe years.</td></tr>
 
-  CRUSHER
-     I ran a scan to see if I could detect what he was
-     seeing. I picked up miniscule distortions in the
-     surrounding dekyon field. Somehow, his visor is
-     translating those distortions into visual
-     impulses.
+<tr id="L262"><td><a href="#L262">262</a></td><td>CRUSHER:  If what we're saying is true, those voices I heard might have been echoes from previous loops.</td></tr>
 
-  LAFORGE
-     It could be a malfunction in the ship's warp field
-     generator. I'll check it out.
+<tr id="L263"><td><a href="#L263">263</a></td><td>LAFORGE:  It's the same thing with the phase shift in my visor. After-images in time.</td></tr>
 
-  PICARD
-     Run a localised subspace scan to look for anything
-     else.
+<tr id="L264"><td><a href="#L264">264</a></td><td>PICARD:  If you're right about this, how did it happen? How did we get there?</td></tr>
 
-  LAFORGE
-     Aye, sir.
+<tr id="L265"><td><a href="#L265">265</a></td><td>DATA:  I have a hypothesis that may explain that, Captain. I have analysed the recording Doctor Crusher made. Most of it is quite ordinary. One hundred fifty discussions about ship operations, two hundred fifty two conversations of a personal nature, five couples engaged in romantic encounters.</td></tr>
 
-  ANNOTATION
-     Geordi leaves
+<tr id="L266"><td><a href="#L266">266</a></td><td>PICARD:  Your point, Mister Data?</td></tr>
 
-  PICARD
-     Keep me advised.
+<tr id="L267"><td><a href="#L267">267</a></td><td>DATA:  There is evidence of some sort of disaster aboard the Enterprise, severe enough that the Captain ordered all hands to abandon ship. I have isolated three segments of the recording that are crucial.</td></tr>
 
+<tr id="L268"><td><a href="#L268">268</a></td><td>WORF [OC]:  A highly localised distortion of the space-time continuum.</td></tr>
 
-LOCATION--Crusher's quarters
+<tr id="L269"><td><a href="#L269">269</a></td><td>DATA [OC]:  Collision course. Impact in thirty six seconds.</td></tr>
 
-  ANNOTATION
-     This time, Beverly isn't dressed for bed. She
-     carefully puts her glass down on another table out
-     of harm's way. As soon as she turns out the
-     lights, the voices start and she grabs her
-     tricorder to record them.
+<tr id="L270"><td><a href="#L270">270</a></td><td>PICARD [OC]:  All hands, abandon ship! Repeat, all hands abandon</td></tr>
 
-  CRUSHER
-     Crusher to Commander La Forge.
+<tr id="L271"><td><a href="#L271">271</a></td><td>LAFORGE:  Worf refers to a distortion. If this were a temporal distortion, and if we were close enough to it, it's possible that a large enough explosion might've ruptured the space-time continuum. We collided, exploded, then got stuck in this repeating loop of time.</td></tr>
 
-  LAFORGE [OC]
-     La Forge here.
+<tr id="L272"><td><a href="#L272">272</a></td><td>PICARD:  If you're right, perhaps we could escape the loop by avoiding the collision.</td></tr>
 
-  CRUSHER
-     Geordi, I just heard what sounded like voices in
-     my room, but no one else is here.
+<tr id="L273"><td><a href="#L273">273</a></td><td>LAFORGE:  That's our guess.</td></tr>
 
-  LAFORGE [OC]
-     Sensors just picked up something strange, too.
-     We're checking it out.
+<tr id="L274"><td><a href="#L274">274</a></td><td>WORF:  Maybe we should reverse course.</td></tr>
 
-  CRUSHER
-     I'm on my way.
+<tr id="L275"><td><a href="#L275">275</a></td><td>RIKER:  For all we know, reversing course may be what leads us into the crash.</td></tr>
 
-  ANNOTATION
-     She grabs her lab coat and it knocks the glass of
-     the table. Some things just have to happen.
+<tr id="L276"><td><a href="#L276">276</a></td><td>PICARD:  No. We can't afford to start second guessing ourselves. We'll stay on this course until we have reason to change it. But let's do everything we can to avoid the collision.</td></tr>
 
+<tr id="L277"><td><a href="#L277">277</a></td><td>LAFORGE:  Captain, we might not be able to figure out how to avoid this accident until it's too late. And if the loop begins again, we'll forget everything we've learned this time around.</td></tr>
 
-LOCATION--Engineering
+<tr id="L278"><td><a href="#L278">278</a></td><td>PICARD:  What do you suggest?</td></tr>
 
-  LAFORGE
-     Looks like you managed to record six point two
-     seconds worth. Let's see if we can filter the
-     signal and clear it up a little bit.
+<tr id="L279"><td><a href="#L279">279</a></td><td>LAFORGE:  If we do find a way to avoid this collision, we should try to send that information into the next loop.</td></tr>
 
-  CRUSHER
-     Then I wasn't just hearing things?
+<tr id="L280"><td><a href="#L280">280</a></td><td>RIKER:  Is that possible?</td></tr>
 
-  DATA
-     The sound itself appears to have been real.
-     However the acoustic energy does not correspond to
-     any ship's system, nor to any voice communications
-     sent at the time you heard it.
+<tr id="L281"><td><a href="#L281">281</a></td><td>DATA:  We have seen that echoes, or after-images, from previous loops appear as distortions in the dekyon field. We may be able to send a deliberate echo into the next loop.</td></tr>
 
-  CRUSHER
-     Then where did the sound come from?
+<tr id="L282"><td><a href="#L282">282</a></td><td>TROI:  Like a message in a bottle.</td></tr>
 
-  LAFORGE
-     You heard the voices at the same time our
-     localised subspace scan picked up a dekyon field
-     distortion. The two may be related. Let's give
-     another listen.
+<tr id="L283"><td><a href="#L283">283</a></td><td>LAFORGE:  Exactly. We could enhance a dekyon emission to create a specific pattern and send ourselves a message. Not a long one, probably only a few characters. Maybe one word.</td></tr>
 
-  DATA
-     Computer, perform a narrow bandwidth analysis.
-     Eliminate all non-vocal waveform components.
+<tr id="L284"><td><a href="#L284">284</a></td><td>RIKER:  How do we know we'll pick up that word the next time through?</td></tr>
 
-  CRUSHER
-     Can we isolate the voices? Find out what they're
-     saying?
+<tr id="L285"><td><a href="#L285">285</a></td><td>DATA:  If the dekyon emission is modulated correctly, it will set up resonances in my positronic subprocessors. I will receive the information on what you would call a subconscious level.</td></tr>
 
-  DATA
-     Computer, continuous playback please. There are
-     approximately one thousand voices overlapping. The
-     voices are those of the Enterprise crew. Our
-     voices.
+<tr id="L286"><td><a href="#L286">286</a></td><td>LAFORGE:  Now there's the catch. We have no way of knowing how this information will be perceived by Data. It might be like a posthypnotic suggestion.</td></tr>
 
+<tr id="L287"><td><a href="#L287">287</a></td><td>PICARD:  Even with all these uncertainties, we've got to try. Take whatever steps are necessary to send a message. Dismissed.</td></tr>
 
-LOCATION--Observation lounge
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L288"><td><a href="#L288">288</a></td><td>ANNOTATION: Geordi is making adjustments inside Data's head</td></tr>
 
-  CRUSHER
-     I'm sorry to call you here so early, but we
-     couldn't wait until oh seven hundred hours. We
-     think we may have an explanation for the odd
-     occurrences around here. Commander.
+<tr id="L289"><td><a href="#L289">289</a></td><td>LAFORGE:  You know, it's possible we've tried this a thousand times and it's never worked.</td></tr>
 
-  LAFORGE
-     This is going to sound pretty wild. Somehow, we've
-     entered what seems to be a temporal causality
-     loop. We think we're stuck in a particular
-     fragment in time, and we've been repeating that
-     same fragment over and over again.
+<tr id="L290"><td><a href="#L290">290</a></td><td>CRUSHER:  Do you have a feeling that you've done this before?</td></tr>
 
-  TROI
-     Is this what's causing our dj vu?
+<tr id="L291"><td><a href="#L291">291</a></td><td>LAFORGE:  No, I don't.</td></tr>
 
-  CRUSHER
-     Yes, but it's more than that. In dj vu, you only
-     think you're repeating events. We actually are.
+<tr id="L292"><td><a href="#L292">292</a></td><td>CRUSHER:  Neither do I. Maybe that's a good sign.</td></tr>
 
-  LAFORGE
-     Our theory is this. Every time the loop begins
-     again, everything resets itself, and starts all
-     over. We don't remember anything that happened
-     before, so each time through the loop, we think
-     it's the first.
+<tr id="L293"><td><a href="#L293">293</a></td><td>LAFORGE:  Let's test the emitter.</td></tr>
 
-  RIKER
-     You mean we could have come into this room, sat at
-     this table and had this conversation a dozen times
-     already?
+<tr id="L294"><td><a href="#L294">294</a></td><td>DATA:  Particle accelerators at full power.</td></tr>
 
-  LAFORGE
-     A dozen, a hundred, it's impossible to tell. We
-     could have been trapped here for hours, days,
-     maybe years.
+<tr id="L295"><td><a href="#L295">295</a></td><td>LAFORGE:  Dekyon field active. Particle flux nominal. We're in business.</td></tr>
 
-  CRUSHER
-     If what we're saying is true, those voices I heard
-     might have been echoes from previous loops.
+<tr id="L296"><td><a href="#L296">296</a></td><td>CRUSHER:  All we need now is a message.</td></tr>
 
-  LAFORGE
-     It's the same thing with the phase shift in my
-     visor. After-images in time.
+<tr id="L297"><td><a href="#L297">297</a></td><td>RIKER [OC]:  Senior officers, report to the Bridge.</td></tr>
 
-  PICARD
-     If you're right about this, how did it happen? How
-     did we get there?
+<tr id="L298"><td><a href="#L298">298</a></td><td>ANNOTATION: Red alert sounds</td></tr>
 
-  DATA
-     I have a hypothesis that may explain that,
-     Captain. I have analysed the recording Doctor
-     Crusher made. Most of it is quite ordinary. One
-     hundred fifty discussions about ship operations,
-     two hundred fifty two conversations of a personal
-     nature, five couples engaged in romantic
-     encounters.
+<tr id="L299"><td><a href="#L299">299</a></td><td>CRUSHER:  On our way.</td></tr>
 
-  PICARD
-     Your point, Mister Data?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L300"><td><a href="#L300">300</a></td><td>RIKER:  We've got to figure out how we've handled this before.</td></tr>
 
-  DATA
-     There is evidence of some sort of disaster aboard
-     the Enterprise, severe enough that the Captain
-     ordered all hands to abandon ship. I have isolated
-     three segments of the recording that are crucial.
+<tr id="L301"><td><a href="#L301">301</a></td><td>PICARD:  Back us off, Ensign. Nice and slow.</td></tr>
 
-  WORF [OC]
-     A highly localised distortion of the space-time
-     continuum.
+<tr id="L302"><td><a href="#L302">302</a></td><td>RO:  Aye sir. Captain manoeuvring thrusters are not responding.</td></tr>
 
-  DATA [OC]
-     Collision course. Impact in thirty six seconds.
+<tr id="L303"><td><a href="#L303">303</a></td><td>DATA:  The distortion field is fluctuating.</td></tr>
 
-  PICARD [OC]
-     All hands, abandon ship! Repeat, all hands abandon
+<tr id="L304"><td><a href="#L304">304</a></td><td>LAFORGE:  All main systems just went down. Power levels are dropping rapidly.</td></tr>
 
-  LAFORGE
-     Worf refers to a distortion. If this were a
-     temporal distortion, and if we were close enough
-     to it, it's possible that a large enough explosion
-     might've ruptured the space-time continuum. We
-     collided, exploded, then got stuck in this
-     repeating loop of time.
+<tr id="L305"><td><a href="#L305">305</a></td><td>DATA:  There is an energy build up in the distortion field.</td></tr>
 
-  PICARD
-     If you're right, perhaps we could escape the loop
-     by avoiding the collision.
+<tr id="L306"><td><a href="#L306">306</a></td><td>TROI:  We have to get out of here now.</td></tr>
 
-  LAFORGE
-     That's our guess.
+<tr id="L307"><td><a href="#L307">307</a></td><td>DATA:  Captain, something is emerging.</td></tr>
 
-  WORF
-     Maybe we should reverse course.
+<tr id="L308"><td><a href="#L308">308</a></td><td>ANNOTATION: here comes the ship</td></tr>
 
-  RIKER
-     For all we know, reversing course may be what
-     leads us into the crash.
+<tr id="L309"><td><a href="#L309">309</a></td><td>RIKER:  Shields up. Evasive manoeuvres.</td></tr>
 
-  PICARD
-     No. We can't afford to start second guessing
-     ourselves. We'll stay on this course until we have
-     reason to change it. But let's do everything we
-     can to avoid the collision.
+<tr id="L310"><td><a href="#L310">310</a></td><td>WORF:  Shields inoperative.</td></tr>
 
-  LAFORGE
-     Captain, we might not be able to figure out how to
-     avoid this accident until it's too late. And if
-     the loop begins again, we'll forget everything
-     we've learned this time around.
+<tr id="L311"><td><a href="#L311">311</a></td><td>RO:  The helm's not responding.</td></tr>
 
-  PICARD
-     What do you suggest?
+<tr id="L312"><td><a href="#L312">312</a></td><td>DATA:  The vessel is on a collision course. Impact in thirty six seconds.</td></tr>
 
-  LAFORGE
-     If we do find a way to avoid this collision, we
-     should try to send that information into the next
-     loop.
+<tr id="L313"><td><a href="#L313">313</a></td><td>PICARD:  Hail them.</td></tr>
 
-  RIKER
-     Is that possible?
+<tr id="L314"><td><a href="#L314">314</a></td><td>WORF:  No response.</td></tr>
 
-  DATA
-     We have seen that echoes, or after-images, from
-     previous loops appear as distortions in the dekyon
-     field. We may be able to send a deliberate echo
-     into the next loop.
+<tr id="L315"><td><a href="#L315">315</a></td><td>PICARD:  Suggestions?</td></tr>
 
-  TROI
-     Like a message in a bottle.
+<tr id="L316"><td><a href="#L316">316</a></td><td>RIKER:  Decompress main shuttlebay. The explosive reaction may blow us out of the way.</td></tr>
 
-  LAFORGE
-     Exactly. We could enhance a dekyon emission to
-     create a specific pattern and send ourselves a
-     message. Not a long one, probably only a few
-     characters. Maybe one word.
+<tr id="L317"><td><a href="#L317">317</a></td><td>DATA:  Captain, I recommend we use the tractor beam to alter the other ship's trajectory.</td></tr>
 
-  RIKER
-     How do we know we'll pick up that word the next
-     time through?
+<tr id="L318"><td><a href="#L318">318</a></td><td>PICARD:  Make it so, Mister Worf.</td></tr>
 
-  DATA
-     If the dekyon emission is modulated correctly, it
-     will set up resonances in my positronic
-     subprocessors. I will receive the information on
-     what you would call a subconscious level.
+<tr id="L319"><td><a href="#L319">319</a></td><td>WORF:  Engaging tractor beam.</td></tr>
 
-  LAFORGE
-     Now there's the catch. We have no way of knowing
-     how this information will be perceived by Data. It
-     might be like a posthypnotic suggestion.
+<tr id="L320"><td><a href="#L320">320</a></td><td>ANNOTATION: thump</td></tr>
 
-  PICARD
-     Even with all these uncertainties, we've got to
-     try. Take whatever steps are necessary to send a
-     message. Dismissed.
+<tr id="L321"><td><a href="#L321">321</a></td><td>RIKER:  Damage report!</td></tr>
 
+<tr id="L322"><td><a href="#L322">322</a></td><td>CRUSHER:  Casualty reports are coming in from all over the ship.</td></tr>
 
-LOCATION--Engineering
+<tr id="L323"><td><a href="#L323">323</a></td><td>DATA:  Starboard nacelle has sustained a direct impact. We are venting drive plasma.</td></tr>
 
-  ANNOTATION
-     Geordi is making adjustments inside Data's head
+<tr id="L324"><td><a href="#L324">324</a></td><td>LAFORGE:  Initiating emergency core shutdown.</td></tr>
 
-  LAFORGE
-     You know, it's possible we've tried this a
-     thousand times and it's never worked.
+<tr id="L325"><td><a href="#L325">325</a></td><td>RO:  Inertial dampers failing. We're losing attitude control.</td></tr>
 
-  CRUSHER
-     Do you have a feeling that you've done this
-     before?
+<tr id="L326"><td><a href="#L326">326</a></td><td>RIKER:  This is the Bridge. All hands to emergency escape pods.</td></tr>
 
-  LAFORGE
-     No, I don't.
+<tr id="L327"><td><a href="#L327">327</a></td><td>DATA:  Core shutdown is unsuccessful. We are losing antimatter containment.</td></tr>
 
-  CRUSHER
-     Neither do I. Maybe that's a good sign.
+<tr id="L328"><td><a href="#L328">328</a></td><td>LAFORGE:  We got to eject the core!</td></tr>
 
-  LAFORGE
-     Let's test the emitter.
+<tr id="L329"><td><a href="#L329">329</a></td><td>DATA:  Ejection systems are offline. Core breach is imminent.</td></tr>
 
-  DATA
-     Particle accelerators at full power.
+<tr id="L330"><td><a href="#L330">330</a></td><td>ANNOTATION: Data taps something into his dekyon emitter</td></tr>
 
-  LAFORGE
-     Dekyon field active. Particle flux nominal. We're
-     in business.
+<tr id="L331"><td><a href="#L331">331</a></td><td>PICARD:  All hands abandon ship. Repeat, all hands abandon</td></tr>
 
-  CRUSHER
-     All we need now is a message.
+<tr id="L332"><td><a href="#L332">332</a></td><td>ANNOTATION: KaBOOM!!!!</td></tr>
 
-  RIKER [OC]
-     Senior officers, report to the Bridge.
+<tr id="L333"><td><a href="#L333">333</a></td><td>SOMEONE: Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We are the first Starfleet vessel to chart this unexplored region.</td></tr>
 
-  ANNOTATION
-     Red alert sounds
+<tr><td></td><td>LOCATION--Someone's quarters</td></tr>
+<tr id="L334"><td><a href="#L334">334</a></td><td>RIKER:  Sometimes I wonder if he's stacking the deck.</td></tr>
 
-  CRUSHER
-     On our way.
+<tr id="L335"><td><a href="#L335">335</a></td><td>DATA:  I assure you, Commander, the cards are sufficiently randomised.</td></tr>
 
+<tr id="L336"><td><a href="#L336">336</a></td><td>WORF:  I hope so.</td></tr>
 
-LOCATION--Bridge
+<tr id="L337"><td><a href="#L337">337</a></td><td>RIKER:  Something wrong, Mister Worf?</td></tr>
 
-  RIKER
-     We've got to figure out how we've handled this
-     before.
+<tr id="L338"><td><a href="#L338">338</a></td><td>WORF:  I am experiencing nIb'poH. The feeling I have done this before.</td></tr>
 
-  PICARD
-     Back us off, Ensign. Nice and slow.
+<tr id="L339"><td><a href="#L339">339</a></td><td>RIKER:  Yeah, last Tuesday night.</td></tr>
 
-  RO
-     Aye sir. Captain manoeuvring thrusters are not
-     responding.
+<tr id="L340"><td><a href="#L340">340</a></td><td>WORF:  That is not what I mean.</td></tr>
 
-  DATA
-     The distortion field is fluctuating.
+<tr id="L341"><td><a href="#L341">341</a></td><td>CRUSHER:  I've been having the same feeling. Wait. An eight, an Ace, a Queen and a four. Deal the cards, Data.</td></tr>
 
-  LAFORGE
-     All main systems just went down. Power levels are
-     dropping rapidly.
+<tr id="L342"><td><a href="#L342">342</a></td><td>ANNOTATION: Data deals everyone a three</td></tr>
 
-  DATA
-     There is an energy build up in the distortion
-     field.
+<tr id="L343"><td><a href="#L343">343</a></td><td>DATA:  Three. All threes.</td></tr>
 
-  TROI
-     We have to get out of here now.
+<tr id="L344"><td><a href="#L344">344</a></td><td>CRUSHER:  I was positive I knew what cards were going to be dealt.</td></tr>
 
-  DATA
-     Captain, something is emerging.
+<tr id="L345"><td><a href="#L345">345</a></td><td>WORF:  I was also sure.</td></tr>
 
-  ANNOTATION
-     here comes the ship
+<tr id="L346"><td><a href="#L346">346</a></td><td>RIKER:  Finish dealing the hand.</td></tr>
 
-  RIKER
-     Shields up. Evasive manoeuvres.
+<tr id="L347"><td><a href="#L347">347</a></td><td>ANNOTATION: Riker gets all eights, Worf all Kings, Crusher all tens and Data all sixes</td></tr>
 
-  WORF
-     Shields inoperative.
+<tr id="L348"><td><a href="#L348">348</a></td><td>RIKER:  Look at this, we've all got three of a kind.</td></tr>
 
-  RO
-     The helm's not responding.
+<tr id="L349"><td><a href="#L349">349</a></td><td>CRUSHER:  First we get a three, and then three of a kind.</td></tr>
 
-  DATA
-     The vessel is on a collision course. Impact in
-     thirty six seconds.
+<tr id="L350"><td><a href="#L350">350</a></td><td>OGAWA [OC]:  Ogawa to Doctor Crusher.</td></tr>
 
-  PICARD
-     Hail them.
+<tr id="L351"><td><a href="#L351">351</a></td><td>CRUSHER:  Go ahead.</td></tr>
 
-  WORF
-     No response.
+<tr id="L352"><td><a href="#L352">352</a></td><td>OGAWA [OC]:  Commander La Forge needs you in Sickbay.</td></tr>
 
-  PICARD
-     Suggestions?
+<tr id="L353"><td><a href="#L353">353</a></td><td>CRUSHER:  I'm on my way.</td></tr>
 
-  RIKER
-     Decompress main shuttlebay. The explosive reaction
-     may blow us out of the way.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L354"><td><a href="#L354">354</a></td><td>LAFORGE:  At first I thought the catwalk was spinning. As it turns out, it was me. I was lucky Ensign Fletcher was there to grab me. It's a long way down to the bottom of the warp core.</td></tr>
 
-  DATA
-     Captain, I recommend we use the tractor beam to
-     alter the other ship's trajectory.
+<tr id="L355"><td><a href="#L355">355</a></td><td>CRUSHER:  You have all the symptoms of an inner ear infection. That would explain the headaches, dizziness. But I don't see any physical</td></tr>
 
-  PICARD
-     Make it so, Mister Worf.
+<tr id="L356"><td><a href="#L356">356</a></td><td>LAFORGE:  What? What is it?</td></tr>
 
-  WORF
-     Engaging tractor beam.
+<tr id="L357"><td><a href="#L357">357</a></td><td>CRUSHER:  Geordi, have you ever had these symptoms before?</td></tr>
 
-  ANNOTATION
-     thump
+<tr id="L358"><td><a href="#L358">358</a></td><td>LAFORGE:  Now that you mention it, I think I have.</td></tr>
 
-  RIKER
-     Damage report!
+<tr id="L359"><td><a href="#L359">359</a></td><td>CRUSHER:  Do you recall when?</td></tr>
 
-  CRUSHER
-     Casualty reports are coming in from all over the
-     ship.
+<tr id="L360"><td><a href="#L360">360</a></td><td>LAFORGE:  No, I don't.</td></tr>
 
-  DATA
-     Starboard nacelle has sustained a direct impact.
-     We are venting drive plasma.
+<tr id="L361"><td><a href="#L361">361</a></td><td>CRUSHER:  I know we've had this discussion before, and I remember giving you this examination. Let's check the medical logs. You've been treated several times for headaches related to your visor but there's no mention of dizziness.</td></tr>
 
-  LAFORGE
-     Initiating emergency core shutdown.
+<tr id="L362"><td><a href="#L362">362</a></td><td>LAFORGE:  Must be dj vu.</td></tr>
 
-  RO
-     Inertial dampers failing. We're losing attitude
-     control.
+<tr id="L363"><td><a href="#L363">363</a></td><td>CRUSHER:  Both of us? About the same thing? I'd like to run an optical diagnostic.</td></tr>
 
-  RIKER
-     This is the Bridge. All hands to emergency escape
-     pods.
+<tr id="L364"><td><a href="#L364">364</a></td><td>LAFORGE:  For an ear infection?</td></tr>
 
-  DATA
-     Core shutdown is unsuccessful. We are losing
-     antimatter containment.
+<tr id="L365"><td><a href="#L365">365</a></td><td>CRUSHER:  I have a hunch. Hold still. This pulse may be a little bright. Have you made any changes to your visor lately?</td></tr>
 
-  LAFORGE
-     We got to eject the core!
+<tr id="L366"><td><a href="#L366">366</a></td><td>LAFORGE:  No. Why?</td></tr>
 
-  DATA
-     Ejection systems are offline. Core breach is
-     imminent.
+<tr id="L367"><td><a href="#L367">367</a></td><td>CRUSHER:  I'm detecting a small phase shift in your visual receptors.</td></tr>
 
-  ANNOTATION
-     Data taps something into his dekyon emitter
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L368"><td><a href="#L368">368</a></td><td>ANNOTATION: Picard is discovering familiar passages in his book</td></tr>
 
-  PICARD
-     All hands abandon ship. Repeat, all hands abandon
+<tr id="L369"><td><a href="#L369">369</a></td><td>CRUSHER [OC]:  Crusher to Captain Picard.</td></tr>
 
-  ANNOTATION
-     KaBOOM!!!!
+<tr id="L370"><td><a href="#L370">370</a></td><td>PICARD:  Yes, Doctor?</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 45652.1. The Enterprise
-     has entered an area of space known as the Typhon
-     Expanse. We are the first Starfleet vessel to
-     chart this unexplored region.
+<tr id="L371"><td><a href="#L371">371</a></td><td>CRUSHER [OC]:  Can you come to Sickbay immediately? It's urgent.</td></tr>
 
+<tr id="L372"><td><a href="#L372">372</a></td><td>PICARD:  I'm on my way.</td></tr>
 
-LOCATION--Someone's quarters
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L373"><td><a href="#L373">373</a></td><td>CRUSHER:  His dizziness is being caused by a phase shift in his visual receptors. It's causing him to see things that aren't there.</td></tr>
 
-  RIKER
-     Sometimes I wonder if he's stacking the deck.
+<tr id="L374"><td><a href="#L374">374</a></td><td>LAFORGE:  They're like blurry after-images.</td></tr>
 
-  DATA
-     I assure you, Commander, the cards are
-     sufficiently randomised.
+<tr id="L375"><td><a href="#L375">375</a></td><td>CRUSHER:  I ran a scan to see if I could detect what he was seeing. I picked up miniscule distortions in the surrounding dekyon field. His visor seems to be translating those distortions into visual impulses.</td></tr>
 
-  WORF
-     I hope so.
+<tr id="L376"><td><a href="#L376">376</a></td><td>LAFORGE:  Could be a malfunction in the ship's warp field generator. I'll check it out.</td></tr>
 
-  RIKER
-     Something wrong, Mister Worf?
+<tr id="L377"><td><a href="#L377">377</a></td><td>PICARD:  While you're at it, run a localised subspace scan to look for anything unusual.</td></tr>
 
-  WORF
-     I am experiencing nIb'poH. The feeling I have done
-     this before.
+<tr id="L378"><td><a href="#L378">378</a></td><td>LAFORGE:  Aye, sir.</td></tr>
 
-  RIKER
-     Yeah, last Tuesday night.
+<tr id="L379"><td><a href="#L379">379</a></td><td>PICARD:  Keep me advised, Doctor.</td></tr>
 
-  WORF
-     That is not what I mean.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L380"><td><a href="#L380">380</a></td><td>LAFORGE:  Lateral sensors online. Subspace scanners active. Data, would you run a level two diagnostic on the warp subsystems?</td></tr>
 
-  CRUSHER
-     I've been having the same feeling. Wait. An eight,
-     an Ace, a Queen and a four. Deal the cards, Data.
+<tr id="L381"><td><a href="#L381">381</a></td><td>DATA:  Certainly.</td></tr>
 
-  ANNOTATION
-     Data deals everyone a three
+<tr id="L382"><td><a href="#L382">382</a></td><td>ANNOTATION: the display keeps flashing up the number 3</td></tr>
 
-  DATA
-     Three. All threes.
+<tr id="L383"><td><a href="#L383">383</a></td><td>LAFORGE:  All threes. that can't be right.</td></tr>
 
-  CRUSHER
-     I was positive I knew what cards were going to be
-     dealt.
+<tr id="L384"><td><a href="#L384">384</a></td><td>DATA:  I have encountered the numeral three an inordinate number of times over the last two hours.</td></tr>
 
-  WORF
-     I was also sure.
+<tr id="L385"><td><a href="#L385">385</a></td><td>LAFORGE:  We have got a dekyon field fluctuation on deck nine, section twenty eight.</td></tr>
 
-  RIKER
-     Finish dealing the hand.
+<tr id="L386"><td><a href="#L386">386</a></td><td>CRUSHER [OC]:  Crusher to Commander La Forge.</td></tr>
 
-  ANNOTATION
-     Riker gets all eights, Worf all Kings, Crusher all
-     tens and Data all sixes
+<tr id="L387"><td><a href="#L387">387</a></td><td>LAFORGE:  La Forge here.</td></tr>
 
-  RIKER
-     Look at this, we've all got three of a kind.
+<tr id="L388"><td><a href="#L388">388</a></td><td>CRUSHER [OC]:  I just heard what sounded like voices in my room, but there's no one here.</td></tr>
 
-  CRUSHER
-     First we get a three, and then three of a kind.
+<tr id="L389"><td><a href="#L389">389</a></td><td>LAFORGE:  Sensors just picked up something strange, too. We're checking it out.</td></tr>
 
-  OGAWA [OC]
-     Ogawa to Doctor Crusher.
+<tr id="L390"><td><a href="#L390">390</a></td><td>CRUSHER [OC]:  I'm on my way down.</td></tr>
 
-  CRUSHER
-     Go ahead.
+<tr id="L391"><td><a href="#L391">391</a></td><td>ANNOTATION: the sound of breaking glass</td></tr>
 
-  OGAWA [OC]
-     Commander La Forge needs you in Sickbay.
+<tr id="L392"><td><a href="#L392">392</a></td><td>LAFORGE:  Doctor Crusher, are you all right?</td></tr>
 
-  CRUSHER
-     I'm on my way.
+<tr id="L393"><td><a href="#L393">393</a></td><td>CRUSHER [OC]:  I'm fine.</td></tr>
 
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L394"><td><a href="#L394">394</a></td><td>DATA:  I have isolated three segments of this recording that are crucial.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L395"><td><a href="#L395">395</a></td><td>WORF [OC]:  A highly localised distortion of the space-time continuum.</td></tr>
 
-  LAFORGE
-     At first I thought the catwalk was spinning. As it
-     turns out, it was me. I was lucky Ensign Fletcher
-     was there to grab me. It's a long way down to the
-     bottom of the warp core.
+<tr id="L396"><td><a href="#L396">396</a></td><td>DATA [OC]:  Collision course. Impact in thirty six seconds.</td></tr>
 
-  CRUSHER
-     You have all the symptoms of an inner ear
-     infection. That would explain the headaches,
-     dizziness. But I don't see any physical
+<tr id="L397"><td><a href="#L397">397</a></td><td>PICARD [OC]:  All hands, abandon ship! Repeat, all hands abandon</td></tr>
 
-  LAFORGE
-     What? What is it?
+<tr id="L398"><td><a href="#L398">398</a></td><td>LAFORGE:  Worf refers to a distortion. If this were a temporal distortion, and if we were close enough to it, it's possible that a large enough explosion might've ruptured the space time continuum. We collided, exploded, then got stuck in this repeating loop of time.</td></tr>
 
-  CRUSHER
-     Geordi, have you ever had these symptoms before?
+<tr id="L399"><td><a href="#L399">399</a></td><td>PICARD:  If you're right about this then perhaps we can escape the loop by avoiding the collision.</td></tr>
 
-  LAFORGE
-     Now that you mention it, I think I have.
+<tr id="L400"><td><a href="#L400">400</a></td><td>LAFORGE:  That's our guess.</td></tr>
 
-  CRUSHER
-     Do you recall when?
+<tr id="L401"><td><a href="#L401">401</a></td><td>WORF:  Perhaps we should reverse course.</td></tr>
 
-  LAFORGE
-     No, I don't.
+<tr id="L402"><td><a href="#L402">402</a></td><td>RIKER:  For all we know, reversing course might be what leads us into the crash.</td></tr>
 
-  CRUSHER
-     I know we've had this discussion before, and I
-     remember giving you this examination. Let's check
-     the medical logs. You've been treated several
-     times for headaches related to your visor but
-     there's no mention of dizziness.
+<tr id="L403"><td><a href="#L403">403</a></td><td>PICARD:  We can't afford to start second guessing ourselves. We should stay on this course until we have reason to change it. But in the meantime, I think we should do what we can to avoid a collision.</td></tr>
 
-  LAFORGE
-     Must be dj vu.
+<tr id="L404"><td><a href="#L404">404</a></td><td>LAFORGE:  Captain. We've been seeing the number three all over the ship. On consoles, in a poker game.</td></tr>
 
-  CRUSHER
-     Both of us? About the same thing? I'd like to run
-     an optical diagnostic.
+<tr id="L405"><td><a href="#L405">405</a></td><td>DATA:  To date we have encountered two thousand eighty five conspicuous examples of the number three.</td></tr>
 
-  LAFORGE
-     For an ear infection?
+<tr id="L406"><td><a href="#L406">406</a></td><td>LAFORGE:  All of these threes can't be coming up by accident.</td></tr>
 
-  CRUSHER
-     I have a hunch. Hold still. This pulse may be a
-     little bright. Have you made any changes to your
-     visor lately?
+<tr id="L407"><td><a href="#L407">407</a></td><td>CRUSHER:  Maybe somebody's trying to tell us something.</td></tr>
 
-  LAFORGE
-     No. Why?
+<tr id="L408"><td><a href="#L408">408</a></td><td>LAFORGE:  We came to the same conclusion so we ran a shipwide diagnostic. The only unusual thing we found was a dekyon field modulation in Data's positronic subprocessors.</td></tr>
 
-  CRUSHER
-     I'm detecting a small phase shift in your visual
-     receptors.
+<tr id="L409"><td><a href="#L409">409</a></td><td>RIKER:  What could be causing it?</td></tr>
 
+<tr id="L410"><td><a href="#L410">410</a></td><td>LAFORGE:  I don't know, but if I wanted to send information from one loop to the next I might use a method like a dekyon emission.</td></tr>
 
-LOCATION--Ready room
+<tr id="L411"><td><a href="#L411">411</a></td><td>TROI:  You think we sent ourselves a message?</td></tr>
 
-  ANNOTATION
-     Picard is discovering familiar passages in his
-     book
+<tr id="L412"><td><a href="#L412">412</a></td><td>LAFORGE:  It would make sense. Maybe we are trying to tell ourselves something.</td></tr>
 
-  CRUSHER [OC]
-     Crusher to Captain Picard.
+<tr id="L413"><td><a href="#L413">413</a></td><td>PICARD:  If that were true, what could three indicate?</td></tr>
 
-  PICARD
-     Yes, Doctor?
+<tr id="L414"><td><a href="#L414">414</a></td><td>RIKER:  Maybe we should run a level three diagnostic on all key systems.</td></tr>
 
-  CRUSHER [OC]
-     Can you come to Sickbay immediately? It's urgent.
+<tr id="L415"><td><a href="#L415">415</a></td><td>LAFORGE:  It's a good idea. I'll have the computer run a pattern matching algorithm based on the number three.</td></tr>
 
-  PICARD
-     I'm on my way.
+<tr id="L416"><td><a href="#L416">416</a></td><td>RO [OC]:  Bridge to Captain Picard.</td></tr>
 
+<tr id="L417"><td><a href="#L417">417</a></td><td>PICARD:  Go ahead.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L418"><td><a href="#L418">418</a></td><td>RO [OC]:  We're getting unusual readings twenty thousand kilometres off the starboard bow.</td></tr>
 
-  CRUSHER
-     His dizziness is being caused by a phase shift in
-     his visual receptors. It's causing him to see
-     things that aren't there.
+<tr id="L419"><td><a href="#L419">419</a></td><td>PICARD:  On our way.</td></tr>
 
-  LAFORGE
-     They're like blurry after-images.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L420"><td><a href="#L420">420</a></td><td>ANNOTATION: Red alert is sounding</td></tr>
 
-  CRUSHER
-     I ran a scan to see if I could detect what he was
-     seeing. I picked up miniscule distortions in the
-     surrounding dekyon field. His visor seems to be
-     translating those distortions into visual
-     impulses.
+<tr id="L421"><td><a href="#L421">421</a></td><td>PICARD:  Report.</td></tr>
 
-  LAFORGE
-     Could be a malfunction in the ship's warp field
-     generator. I'll check it out.
+<tr id="L422"><td><a href="#L422">422</a></td><td>RO:  Sensors didn't detect the phenomenon until we were almost on top of it, Captain.</td></tr>
 
-  PICARD
-     While you're at it, run a localised subspace scan
-     to look for anything unusual.
+<tr id="L423"><td><a href="#L423">423</a></td><td>WORF:  It is a highly localised distortion of the space-time continuum.</td></tr>
 
-  LAFORGE
-     Aye, sir.
+<tr id="L424"><td><a href="#L424">424</a></td><td>RIKER:  On screen. How do you think we handled this before?</td></tr>
 
-  PICARD
-     Keep me advised, Doctor.
+<tr id="L425"><td><a href="#L425">425</a></td><td>PICARD:  Back us off, Ensign. Nice and slow.</td></tr>
 
+<tr id="L426"><td><a href="#L426">426</a></td><td>RO:  Aye, sir. Captain, manoeuvring thrusters are not responding.</td></tr>
 
-LOCATION--Engineering
+<tr id="L427"><td><a href="#L427">427</a></td><td>DATA:  The distortion field is fluctuating.</td></tr>
 
-  LAFORGE
-     Lateral sensors online. Subspace scanners active.
-     Data, would you run a level two diagnostic on the
-     warp subsystems?
+<tr id="L428"><td><a href="#L428">428</a></td><td>LAFORGE:  All main systems just went down. Power levels are dropping rapidly.</td></tr>
 
-  DATA
-     Certainly.
+<tr id="L429"><td><a href="#L429">429</a></td><td>DATA:  There is an energy build up in the distortion field.</td></tr>
 
-  ANNOTATION
-     the display keeps flashing up the number 3
+<tr id="L430"><td><a href="#L430">430</a></td><td>TROI:  We have to get out of here now.</td></tr>
 
-  LAFORGE
-     All threes. that can't be right.
+<tr id="L431"><td><a href="#L431">431</a></td><td>DATA:  Captain, something is emerging.</td></tr>
 
-  DATA
-     I have encountered the numeral three an inordinate
-     number of times over the last two hours.
+<tr id="L432"><td><a href="#L432">432</a></td><td>ANNOTATION: the ship</td></tr>
 
-  LAFORGE
-     We have got a dekyon field fluctuation on deck
-     nine, section twenty eight.
+<tr id="L433"><td><a href="#L433">433</a></td><td>RIKER:  Shields up. Evasive manoeuvres.</td></tr>
 
-  CRUSHER [OC]
-     Crusher to Commander La Forge.
+<tr id="L434"><td><a href="#L434">434</a></td><td>WORF:  Shields inoperative.</td></tr>
 
-  LAFORGE
-     La Forge here.
+<tr id="L435"><td><a href="#L435">435</a></td><td>RO:  The helm's not responding.</td></tr>
 
-  CRUSHER [OC]
-     I just heard what sounded like voices in my room,
-     but there's no one here.
+<tr id="L436"><td><a href="#L436">436</a></td><td>DATA:  The vessel is on a collision course. Impact in thirty six seconds.</td></tr>
 
-  LAFORGE
-     Sensors just picked up something strange, too.
-     We're checking it out.
+<tr id="L437"><td><a href="#L437">437</a></td><td>PICARD:  Hail them.</td></tr>
 
-  CRUSHER [OC]
-     I'm on my way down.
+<tr id="L438"><td><a href="#L438">438</a></td><td>WORF:  No response.</td></tr>
 
-  ANNOTATION
-     the sound of breaking glass
+<tr id="L439"><td><a href="#L439">439</a></td><td>PICARD:  Suggestions?</td></tr>
 
-  LAFORGE
-     Doctor Crusher, are you all right?
+<tr id="L440"><td><a href="#L440">440</a></td><td>RIKER:  Decompress main shuttlebay. The explosive reaction may kick us out of the way.</td></tr>
 
-  CRUSHER [OC]
-     I'm fine.
+<tr id="L441"><td><a href="#L441">441</a></td><td>DATA:  Captain, I suggest we use the tractor beam to alter the other ship's trajectory.</td></tr>
 
+<tr id="L442"><td><a href="#L442">442</a></td><td>PICARD:  Make it so, Mister Worf.</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L443"><td><a href="#L443">443</a></td><td>WORF:  Engaging tractor beam.</td></tr>
 
-  DATA
-     I have isolated three segments of this recording
-     that are crucial.
+<tr id="L444"><td><a href="#L444">444</a></td><td>ANNOTATION: Data looks at Riker's three pips</td></tr>
 
-  WORF [OC]
-     A highly localised distortion of the space-time
-     continuum.
+<tr id="L445"><td><a href="#L445">445</a></td><td>DATA:  The tractor beam will not be successful. I am decompressing the main shuttlebay.</td></tr>
 
-  DATA [OC]
-     Collision course. Impact in thirty six seconds.
+<tr id="L446"><td><a href="#L446">446</a></td><td>ANNOTATION: Enterprise slides forward and there is no thump this time. The lights come back on</td></tr>
 
-  PICARD [OC]
-     All hands, abandon ship! Repeat, all hands abandon
+<tr id="L447"><td><a href="#L447">447</a></td><td>WORF:  We are clear of the distortion.</td></tr>
 
-  LAFORGE
-     Worf refers to a distortion. If this were a
-     temporal distortion, and if we were close enough
-     to it, it's possible that a large enough explosion
-     might've ruptured the space time continuum. We
-     collided, exploded, then got stuck in this
-     repeating loop of time.
+<tr id="L448"><td><a href="#L448">448</a></td><td>PICARD:  Data, what happened?</td></tr>
 
-  PICARD
-     If you're right about this then perhaps we can
-     escape the loop by avoiding the collision.
+<tr id="L449"><td><a href="#L449">449</a></td><td>DATA:  At the last moment, I speculated that three might refer to the number of rank insignia on Commander Riker's uniform. That indicated to me that his suggestion might be the correct course of action.</td></tr>
 
-  LAFORGE
-     That's our guess.
+<tr id="L450"><td><a href="#L450">450</a></td><td>LAFORGE:  Data, you must have picked up a message we sent from the last loop, and stacked the deck in the poker game without realising it.</td></tr>
 
-  WORF
-     Perhaps we should reverse course.
+<tr id="L451"><td><a href="#L451">451</a></td><td>DATA:  That is possible. I may also have been inadvertently responsible for the unexplained appearances of the number three.</td></tr>
 
-  RIKER
-     For all we know, reversing course might be what
-     leads us into the crash.
+<tr id="L452"><td><a href="#L452">452</a></td><td>PICARD:  Mister Worf, end Red alert. And try to access a Federation time base beacon. Let's see if we can find out how long we've been in this causality loop.</td></tr>
 
-  PICARD
-     We can't afford to start second guessing
-     ourselves. We should stay on this course until we
-     have reason to change it. But in the meantime, I
-     think we should do what we can to avoid a
-     collision.
+<tr id="L453"><td><a href="#L453">453</a></td><td>WORF:  Time base confirms our chronometers are off by seventeen point four days.</td></tr>
 
-  LAFORGE
-     Captain. We've been seeing the number three all
-     over the ship. On consoles, in a poker game.
+<tr id="L454"><td><a href="#L454">454</a></td><td>PICARD:  Reset them, Mister Data.</td></tr>
 
-  DATA
-     To date we have encountered two thousand eighty
-     five conspicuous examples of the number three.
+<tr id="L455"><td><a href="#L455">455</a></td><td>DATA:  Aye, sir.</td></tr>
 
-  LAFORGE
-     All of these threes can't be coming up by
-     accident.
+<tr id="L456"><td><a href="#L456">456</a></td><td>WORF:  Captain, we are being hailed by the other vessel. The computer identifies it as the USS Bozeman, a Federation starship, Soyuz class.</td></tr>
 
-  CRUSHER
-     Maybe somebody's trying to tell us something.
+<tr id="L457"><td><a href="#L457">457</a></td><td>LAFORGE:  Soyuz class? They haven't been in service in over eighty years.</td></tr>
 
-  LAFORGE
-     We came to the same conclusion so we ran a
-     shipwide diagnostic. The only unusual thing we
-     found was a dekyon field modulation in Data's
-     positronic subprocessors.
+<tr id="L458"><td><a href="#L458">458</a></td><td>PICARD:  Open a channel.</td></tr>
 
-  RIKER
-     What could be causing it?
+<tr id="L459"><td><a href="#L459">459</a></td><td>BATESON [on viewscreen]:  This is Captain Morgan Bateson of the Federation Starship Bozeman. Can we render assistance?</td></tr>
 
-  LAFORGE
-     I don't know, but if I wanted to send information
-     from one loop to the next I might use a method
-     like a dekyon emission.
+<tr id="L460"><td><a href="#L460">460</a></td><td>PICARD:  I'm Captain Jean-Luc Picard of the Federation Starship Enterprise. We were just going to ask you the same thing.</td></tr>
 
-  TROI
-     You think we sent ourselves a message?
+<tr id="L461"><td><a href="#L461">461</a></td><td>BATESON [on viewscreen]:  Captain Picard, your vessel is not familiar to us.</td></tr>
 
-  LAFORGE
-     It would make sense. Maybe we are trying to tell
-     ourselves something.
+<tr id="L462"><td><a href="#L462">462</a></td><td>PICARD:  Captain, have you any idea what has just happened?</td></tr>
 
-  PICARD
-     If that were true, what could three indicate?
+<tr id="L463"><td><a href="#L463">463</a></td><td>BATESON [on viewscreen]:  Our sensors detected a temporal distortion. Then your ship appeared. We nearly hit you.</td></tr>
 
-  RIKER
-     Maybe we should run a level three diagnostic on
-     all key systems.
+<tr id="L464"><td><a href="#L464">464</a></td><td>PICARD:  The Enterprise has been caught in temporal causality loop, and I suspect that something similar may have happened to you.</td></tr>
 
-  LAFORGE
-     It's a good idea. I'll have the computer run a
-     pattern matching algorithm based on the number
-     three.
+<tr id="L465"><td><a href="#L465">465</a></td><td>BATESON [on viewscreen]:  You must be mistaken. We left starbase only three weeks ago.</td></tr>
 
-  RO [OC]
-     Bridge to Captain Picard.
+<tr id="L466"><td><a href="#L466">466</a></td><td>PICARD:  Captain, do you know what year this is?</td></tr>
 
-  PICARD
-     Go ahead.
+<tr id="L467"><td><a href="#L467">467</a></td><td>BATESON [on viewscreen]:  Of course I do. It's twenty two seventy eight.</td></tr>
 
-  RO [OC]
-     We're getting unusual readings twenty thousand
-     kilometres off the starboard bow.
+<tr id="L468"><td><a href="#L468">468</a></td><td>PICARD:  Perhaps you should beam aboard our ship. There's something we need to discuss.</td></tr>
 
-  PICARD
-     On our way.
-
-
-LOCATION--Bridge
-
-  ANNOTATION
-     Red alert is sounding
-
-  PICARD
-     Report.
-
-  RO
-     Sensors didn't detect the phenomenon until we were
-     almost on top of it, Captain.
-
-  WORF
-     It is a highly localised distortion of the
-     space-time continuum.
-
-  RIKER
-     On screen. How do you think we handled this
-     before?
-
-  PICARD
-     Back us off, Ensign. Nice and slow.
-
-  RO
-     Aye, sir. Captain, manoeuvring thrusters are not
-     responding.
-
-  DATA
-     The distortion field is fluctuating.
-
-  LAFORGE
-     All main systems just went down. Power levels are
-     dropping rapidly.
-
-  DATA
-     There is an energy build up in the distortion
-     field.
-
-  TROI
-     We have to get out of here now.
-
-  DATA
-     Captain, something is emerging.
-
-  ANNOTATION
-     the ship
-
-  RIKER
-     Shields up. Evasive manoeuvres.
-
-  WORF
-     Shields inoperative.
-
-  RO
-     The helm's not responding.
-
-  DATA
-     The vessel is on a collision course. Impact in
-     thirty six seconds.
-
-  PICARD
-     Hail them.
-
-  WORF
-     No response.
-
-  PICARD
-     Suggestions?
-
-  RIKER
-     Decompress main shuttlebay. The explosive reaction
-     may kick us out of the way.
-
-  DATA
-     Captain, I suggest we use the tractor beam to
-     alter the other ship's trajectory.
-
-  PICARD
-     Make it so, Mister Worf.
-
-  WORF
-     Engaging tractor beam.
-
-  ANNOTATION
-     Data looks at Riker's three pips
-
-  DATA
-     The tractor beam will not be successful. I am
-     decompressing the main shuttlebay.
-
-  ANNOTATION
-     Enterprise slides forward and there is no thump
-     this time. The lights come back on
-
-  WORF
-     We are clear of the distortion.
-
-  PICARD
-     Data, what happened?
-
-  DATA
-     At the last moment, I speculated that three might
-     refer to the number of rank insignia on Commander
-     Riker's uniform. That indicated to me that his
-     suggestion might be the correct course of action.
-
-  LAFORGE
-     Data, you must have picked up a message we sent
-     from the last loop, and stacked the deck in the
-     poker game without realising it.
-
-  DATA
-     That is possible. I may also have been
-     inadvertently responsible for the unexplained
-     appearances of the number three.
-
-  PICARD
-     Mister Worf, end Red alert. And try to access a
-     Federation time base beacon. Let's see if we can
-     find out how long we've been in this causality
-     loop.
-
-  WORF
-     Time base confirms our chronometers are off by
-     seventeen point four days.
-
-  PICARD
-     Reset them, Mister Data.
-
-  DATA
-     Aye, sir.
-
-  WORF
-     Captain, we are being hailed by the other vessel.
-     The computer identifies it as the USS Bozeman, a
-     Federation starship, Soyuz class.
-
-  LAFORGE
-     Soyuz class? They haven't been in service in over
-     eighty years.
-
-  PICARD
-     Open a channel.
-
-  BATESON [on viewscreen]
-     This is Captain Morgan Bateson of the Federation
-     Starship Bozeman. Can we render assistance?
-
-  PICARD
-     I'm Captain Jean-Luc Picard of the Federation
-     Starship Enterprise. We were just going to ask you
-     the same thing.
-
-  BATESON [on viewscreen]
-     Captain Picard, your vessel is not familiar to us.
-
-  PICARD
-     Captain, have you any idea what has just happened?
-
-  BATESON [on viewscreen]
-     Our sensors detected a temporal distortion. Then
-     your ship appeared. We nearly hit you.
-
-  PICARD
-     The Enterprise has been caught in temporal
-     causality loop, and I suspect that something
-     similar may have happened to you.
-
-  BATESON [on viewscreen]
-     You must be mistaken. We left starbase only three
-     weeks ago.
-
-  PICARD
-     Captain, do you know what year this is?
-
-  BATESON [on viewscreen]
-     Of course I do. It's twenty two seventy eight.
-
-  PICARD
-     Perhaps you should beam aboard our ship. There's
-     something we need to discuss.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

@@ -1,1734 +1,864 @@
-The Neutral Zone
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Neutral Zone</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>LAFORGE:  I wonder how it got out here.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>WORF:  At its present speed and heading, it will eventually enter the Kazis binary system and will certainly be destroyed. I could attach a tractor beam and adjust its heading.</td></tr>
 
-  LAFORGE
-     I wonder how it got out here.
+<tr id="L3"><td><a href="#L3">3</a></td><td>RIKER:  I think not, Mister Worf. It's just a piece of space debris. If we hadn't sitting here waiting for the Captain, we wouldn't have noticed it. Leave it be. Let nature take its course. How long until Captain Picard returns?</td></tr>
 
-  WORF
-     At its present speed and heading, it will
-     eventually enter the Kazis binary system and will
-     certainly be destroyed. I could attach a tractor
-     beam and adjust its heading.
+<tr id="L4"><td><a href="#L4">4</a></td><td>WORF:  The last communication indicated it would be several hours.</td></tr>
 
-  RIKER
-     I think not, Mister Worf. It's just a piece of
-     space debris. If we hadn't sitting here waiting
-     for the Captain, we wouldn't have noticed it.
-     Leave it be. Let nature take its course. How long
-     until Captain Picard returns?
+<tr id="L5"><td><a href="#L5">5</a></td><td>DATA:  Commander, request permission to investigate this vehicle.</td></tr>
 
-  WORF
-     The last communication indicated it would be
-     several hours.
+<tr id="L6"><td><a href="#L6">6</a></td><td>RIKER:  Why, Data? It's just a derelict.</td></tr>
 
-  DATA
-     Commander, request permission to investigate this
-     vehicle.
+<tr id="L7"><td><a href="#L7">7</a></td><td>DATA:  It is a piece of history. The opportunity to examine such an ancient vehicle does not come around very often, and as you pointed out, we do have the time.</td></tr>
 
-  RIKER
-     Why, Data? It's just a derelict.
+<tr id="L8"><td><a href="#L8">8</a></td><td>RIKER:  Very well. Be prepared to beam back before the Captain returns.</td></tr>
 
-  DATA
-     It is a piece of history. The opportunity to
-     examine such an ancient vehicle does not come
-     around very often, and as you pointed out, we do
-     have the time.
+<tr id="L9"><td><a href="#L9">9</a></td><td>DATA:  Thank you, sir.</td></tr>
 
-  RIKER
-     Very well. Be prepared to beam back before the
-     Captain returns.
+<tr id="L10"><td><a href="#L10">10</a></td><td>RIKER:  Lieutenant Worf, go with him.</td></tr>
 
-  DATA
-     Thank you, sir.
+<tr id="L11"><td><a href="#L11">11</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  RIKER
-     Lieutenant Worf, go with him.
+<tr><td></td><td>LOCATION--Derelict ship</td></tr>
+<tr id="L12"><td><a href="#L12">12</a></td><td>DATA:  Minimal oxygen atmosphere. An ancient solar generator, still operating.</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L13"><td><a href="#L13">13</a></td><td>WORF:  Commander, look at this.</td></tr>
 
+<tr id="L14"><td><a href="#L14">14</a></td><td>DATA:  The on-board computers have ceased functioning. I may be able to download this old style disk drive back to the Enterprise.</td></tr>
 
-LOCATION--Derelict ship
+<tr id="L15"><td><a href="#L15">15</a></td><td>ANNOTATION: Worf tries to walk through the next hatch, but it does not automatically open for him</td></tr>
 
-  DATA
-     Minimal oxygen atmosphere. An ancient solar
-     generator, still operating.
+<tr id="L16"><td><a href="#L16">16</a></td><td>WORF:  It must be sealed, probably with age. (he prepares his phaser)</td></tr>
 
-  WORF
-     Commander, look at this.
+<tr id="L17"><td><a href="#L17">17</a></td><td>DATA:  Not necessary.</td></tr>
 
-  DATA
-     The on-board computers have ceased functioning. I
-     may be able to download this old style disk drive
-     back to the Enterprise.
+<tr id="L18"><td><a href="#L18">18</a></td><td>ANNOTATION: Data pulls the lever and the doorway opens</td></tr>
 
-  ANNOTATION
-     Worf tries to walk through the next hatch, but it
-     does not automatically open for him
+<tr><td></td><td>LOCATION--Cryo chamber</td></tr>
+<tr id="L19"><td><a href="#L19">19</a></td><td>ANNOTATION: This module of the ship contains frost-covered capsules in groups of three, both sides of the passageway. Data scrapes the frost off the first to view a skull</td></tr>
 
-  WORF
-     It must be sealed, probably with age. (he prepares
-     his phaser)
+<tr id="L20"><td><a href="#L20">20</a></td><td>DATA:  The seal was broken and the environment has been corrupted.</td></tr>
 
-  DATA
-     Not necessary.
+<tr id="L21"><td><a href="#L21">21</a></td><td>WORF:  Here's another.</td></tr>
 
-  ANNOTATION
-     Data pulls the lever and the doorway opens
+<tr id="L22"><td><a href="#L22">22</a></td><td>DATA:  This one is empty.</td></tr>
 
+<tr id="L23"><td><a href="#L23">23</a></td><td>WORF:  Commander, look at this.</td></tr>
 
-LOCATION--Cryo chamber
+<tr id="L24"><td><a href="#L24">24</a></td><td>ANNOTATION: They look at the face of a woman. Other capsules reveal two men still intact</td></tr>
 
-  ANNOTATION
-     This module of the ship contains frost-covered
-     capsules in groups of three, both sides of the
-     passageway. Data scrapes the frost off the first
-     to view a skull
+<tr id="L25"><td><a href="#L25">25</a></td><td>WORF:  Were they frozen for an extended journey?</td></tr>
 
-  DATA
-     The seal was broken and the environment has been
-     corrupted.
+<tr id="L26"><td><a href="#L26">26</a></td><td>DATA:  If that were the purpose, there would be evidence of a more sophisticated monitoring system. These containers were designed solely for refrigeration.</td></tr>
 
-  WORF
-     Here's another.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L27"><td><a href="#L27">27</a></td><td>LAFORGE:  The Captain's shuttle is approaching the main Shuttlebay, sir.</td></tr>
 
-  DATA
-     This one is empty.
+<tr id="L28"><td><a href="#L28">28</a></td><td>PICARD:  [OC]: Enterprise, this is the Captain. Number One, I want to get underway as soon as the shuttle is secure.</td></tr>
 
-  WORF
-     Commander, look at this.
+<tr id="L29"><td><a href="#L29">29</a></td><td>RIKER:  Aye, sir. We'll make all preparations. Commander Data, return to the Enterprise immediately.</td></tr>
 
-  ANNOTATION
-     They look at the face of a woman. Other capsules
-     reveal two men still intact
+<tr id="L30"><td><a href="#L30">30</a></td><td>DATA:  [OC]: We have run into an unusual situation, sir. There are people on board. Frozen.</td></tr>
 
-  WORF
-     Were they frozen for an extended journey?
+<tr id="L31"><td><a href="#L31">31</a></td><td>RIKER:  Frozen. How many?</td></tr>
 
-  DATA
-     If that were the purpose, there would be evidence
-     of a more sophisticated monitoring system. These
-     containers were designed solely for refrigeration.
+<tr><td></td><td>LOCATION--Cryo chamber</td></tr>
+<tr id="L32"><td><a href="#L32">32</a></td><td>DATA:  Three. The vehicle has suffered severe damage. Most of her systems have failed.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L33"><td><a href="#L33">33</a></td><td>RIKER:  Are you suggesting they be transferred to the Enterprise?</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Cryo chamber</td></tr>
+<tr id="L34"><td><a href="#L34">34</a></td><td>DATA:  I do not believe we should leave them here, sir. With your permission, we will be returning with three containers.</td></tr>
 
-  LAFORGE
-     The Captain's shuttle is approaching the main
-     Shuttlebay, sir.
+<tr id="L35"><td><a href="#L35">35</a></td><td>RIKER [OC]:  Whatever you do, do it quickly.</td></tr>
 
-  PICARD
-     [OC]: Enterprise, this is the Captain. Number One,
-     I want to get underway as soon as the shuttle is
-     secure.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L36"><td><a href="#L36">36</a></td><td>PICARD:  Mister La Forge, set course zero five eight, mark one seven three.</td></tr>
 
-  RIKER
-     Aye, sir. We'll make all preparations. Commander
-     Data, return to the Enterprise immediately.
+<tr id="L37"><td><a href="#L37">37</a></td><td>LAFORGE:  Laying it in, sir.</td></tr>
 
-  DATA
-     [OC]: We have run into an unusual situation, sir.
-     There are people on board. Frozen.
+<tr id="L38"><td><a href="#L38">38</a></td><td>PICARD:  Number One, I want a staff meeting on the observation deck.</td></tr>
 
-  RIKER
-     Frozen. How many?
+<tr id="L39"><td><a href="#L39">39</a></td><td>LAFORGE:  Captain, those coordinates will take us right into the Neutral Zone.</td></tr>
 
+<tr id="L40"><td><a href="#L40">40</a></td><td>PICARD:  That is correct, Mister La Forge. Warp factor eight.</td></tr>
 
-LOCATION--Cryo chamber
+<tr id="L41"><td><a href="#L41">41</a></td><td>LAFORGE:  Aye, sir. Warp eight.</td></tr>
 
-  DATA
-     Three. The vehicle has suffered severe damage.
-     Most of her systems have failed.
+<tr id="L42"><td><a href="#L42">42</a></td><td>PICARD:  Engage.</td></tr>
 
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L43"><td><a href="#L43">43</a></td><td>PICARD:  Two Federation outposts in sector three zero have been destroyed. There's been no communication with Federation starbases in sector three one since stardate 41903.2.</td></tr>
 
-LOCATION--Bridge
+<tr id="L44"><td><a href="#L44">44</a></td><td>WORF:  Romulans.</td></tr>
 
-  RIKER
-     Are you suggesting they be transferred to the
-     Enterprise?
+<tr id="L45"><td><a href="#L45">45</a></td><td>PICARD:  That's the assumption.</td></tr>
 
+<tr id="L46"><td><a href="#L46">46</a></td><td>RIKER:  There's been no direct contact with the Romulans since the Tomed Incident.</td></tr>
 
-LOCATION--Cryo chamber
+<tr id="L47"><td><a href="#L47">47</a></td><td>PICARD:  The question are, why now? What's their objective? For fifty years there's barely a whisper out of them, and now for no apparent reason they seem to be back with a roar.</td></tr>
 
-  DATA
-     I do not believe we should leave them here, sir.
-     With your permission, we will be returning with
-     three containers.
+<tr id="L48"><td><a href="#L48">48</a></td><td>RIKER:  Everything we know about them is based on rumour or conjecture.</td></tr>
 
-  RIKER [OC]
-     Whatever you do, do it quickly.
+<tr id="L49"><td><a href="#L49">49</a></td><td>PICARD:  The strategic decision is to send one ship.</td></tr>
 
+<tr id="L50"><td><a href="#L50">50</a></td><td>RIKER:  The Enterprise.</td></tr>
 
-LOCATION--Bridge
+<tr id="L51"><td><a href="#L51">51</a></td><td>WORF:  We could get out there and find ourselves greatly over-matched.</td></tr>
 
-  PICARD
-     Mister La Forge, set course zero five eight, mark
-     one seven three.
+<tr id="L52"><td><a href="#L52">52</a></td><td>PICARD:  True enough. It's a gamble.</td></tr>
 
-  LAFORGE
-     Laying it in, sir.
+<tr id="L53"><td><a href="#L53">53</a></td><td>RIKER:  This first encounter, coming so suddenly after all this time. We have to assume it's a setup.</td></tr>
 
-  PICARD
-     Number One, I want a staff meeting on the
-     observation deck.
+<tr id="L54"><td><a href="#L54">54</a></td><td>PICARD:  If force is necessary, we will use it, but that will mean we have failed. Our goal here is to establish some kind of relations with the Romulans. If we don't succeed, then to convince them of our resolve. The general feeling at Starfleet is that they are seeking a confrontation. They may want to test themselves in battle against a Federation starship. See how far we have advanced. If that is the case, then I need to know it. Counsellor, I shall need a full profile on them.</td></tr>
 
-  LAFORGE
-     Captain, those coordinates will take us right into
-     the Neutral Zone.
+<tr id="L55"><td><a href="#L55">55</a></td><td>TROI:  There is limited information, but I will prepare something.</td></tr>
 
-  PICARD
-     That is correct, Mister La Forge. Warp factor
-     eight.
+<tr id="L56"><td><a href="#L56">56</a></td><td>PICARD:  Computer, estimated arrival time at the Neutral Zone?</td></tr>
 
-  LAFORGE
-     Aye, sir. Warp eight.
+<tr id="L57"><td><a href="#L57">57</a></td><td>COMPUTER:  Nineteen hours, twenty eight minutes.</td></tr>
 
-  PICARD
-     Engage.
+<tr id="L58"><td><a href="#L58">58</a></td><td>PICARD:  Let's reassemble in six hours. Stay sharp. No surprises. I would rather outthink them than outfight them. Questions?</td></tr>
 
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L59"><td><a href="#L59">59</a></td><td>PICARD:  What is it, Doctor?</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L60"><td><a href="#L60">60</a></td><td>CRUSHER:  It's the people from the capsule.</td></tr>
 
-  PICARD
-     Two Federation outposts in sector three zero have
-     been destroyed. There's been no communication with
-     Federation starbases in sector three one since
-     stardate 41903.2.
+<tr id="L61"><td><a href="#L61">61</a></td><td>PICARD:  Capsule? People? What people?</td></tr>
 
-  WORF
-     Romulans.
+<tr id="L62"><td><a href="#L62">62</a></td><td>CRUSHER:  The people Data beamed over.</td></tr>
 
-  PICARD
-     That's the assumption.
+<tr id="L63"><td><a href="#L63">63</a></td><td>PICARD:  I wasn't aware that he had.</td></tr>
 
-  RIKER
-     There's been no direct contact with the Romulans
-     since the Tomed Incident.
+<tr id="L64"><td><a href="#L64">64</a></td><td>CRUSHER:  Well he did, and they were frozen. I thawed them.</td></tr>
 
-  PICARD
-     The question are, why now? What's their objective?
-     For fifty years there's barely a whisper out of
-     them, and now for no apparent reason they seem to
-     be back with a roar.
+<tr id="L65"><td><a href="#L65">65</a></td><td>PICARD:  You what?</td></tr>
 
-  RIKER
-     Everything we know about them is based on rumour
-     or conjecture.
+<tr id="L66"><td><a href="#L66">66</a></td><td>CRUSHER:  I didn't know what else to do. The crypts in which they were frozen were literally falling apart.</td></tr>
 
-  PICARD
-     The strategic decision is to send one ship.
+<tr id="L67"><td><a href="#L67">67</a></td><td>PICARD:  So what's their condition?</td></tr>
 
-  RIKER
-     The Enterprise.
+<tr id="L68"><td><a href="#L68">68</a></td><td>CRUSHER:  Right now, they are all sleeping. Each of them needed minor medical attention. Minor now, but then their conditions were obviously terminal. One had a heart problem, another had an advanced case of emphysema with extensive liver damage. You know the most surprising thing of all, is that each of them had been frozen after they died.</td></tr>
 
-  WORF
-     We could get out there and find ourselves greatly
-     over-matched.
+<tr id="L69"><td><a href="#L69">69</a></td><td>PICARD:  After they died?</td></tr>
 
-  PICARD
-     True enough. It's a gamble.
+<tr id="L70"><td><a href="#L70">70</a></td><td>CRUSHER:  Cryonics. It was a kind of fad in the late twentieth century. People feared dying. It terrified them. At the moment of death, they would be frozen, so that later, some time in the future, when presumably medical science had a cure for whatever killed them, they could be thawed back to life, healed, and sent on about their business.</td></tr>
 
-  RIKER
-     This first encounter, coming so suddenly after all
-     this time. We have to assume it's a setup.
+<tr id="L71"><td><a href="#L71">71</a></td><td>PICARD:  In the case of this group, it apparently worked. Mister Data, will you report to Sickbay.</td></tr>
 
-  PICARD
-     If force is necessary, we will use it, but that
-     will mean we have failed. Our goal here is to
-     establish some kind of relations with the
-     Romulans. If we don't succeed, then to convince
-     them of our resolve. The general feeling at
-     Starfleet is that they are seeking a
-     confrontation. They may want to test themselves in
-     battle against a Federation starship. See how far
-     we have advanced. If that is the case, then I need
-     to know it. Counsellor, I shall need a full
-     profile on them.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L72"><td><a href="#L72">72</a></td><td>PICARD [OC]:  Immediately.</td></tr>
 
-  TROI
-     There is limited information, but I will prepare
-     something.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L73"><td><a href="#L73">73</a></td><td>PICARD:  Look, I am never critical of any member of my staff being curious, but it's just that the timing is so</td></tr>
 
-  PICARD
-     Computer, estimated arrival time at the Neutral
-     Zone?
+<tr id="L74"><td><a href="#L74">74</a></td><td>DATA:  I could not leave them there, Captain. The condition of their vehicle was deteriorating.</td></tr>
 
-  COMPUTER
-     Nineteen hours, twenty eight minutes.
+<tr id="L75"><td><a href="#L75">75</a></td><td>PICARD:  But Data, they were already dead. I mean, what more could have happened to them?</td></tr>
 
-  PICARD
-     Let's reassemble in six hours. Stay sharp. No
-     surprises. I would rather outthink them than
-     outfight them. Questions?
+<tr id="L76"><td><a href="#L76">76</a></td><td>DATA:  I see your point, Captain, but at the time it seemed the proper thing to do.</td></tr>
 
+<tr id="L77"><td><a href="#L77">77</a></td><td>PICARD:  Well, they're alive now. We're going to have to treat them as living human beings.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L78"><td><a href="#L78">78</a></td><td>CRUSHER:  Alive and well and ready to be awakened.</td></tr>
 
-  PICARD
-     What is it, Doctor?
+<tr id="L79"><td><a href="#L79">79</a></td><td>PICARD:  Before you wake them up, I want to have Security here. Lieutenant Worf, report to Sickbay.</td></tr>
 
-  CRUSHER
-     It's the people from the capsule.
+<tr id="L80"><td><a href="#L80">80</a></td><td>CRUSHER:  I have them sedated now, but they should be up and about as soon as possible.</td></tr>
 
-  PICARD
-     Capsule? People? What people?
+<tr id="L81"><td><a href="#L81">81</a></td><td>PICARD:  Well, then we have no other choice.</td></tr>
 
-  CRUSHER
-     The people Data beamed over.
+<tr id="L82"><td><a href="#L82">82</a></td><td>CRUSHER:  None that I can see.</td></tr>
 
-  PICARD
-     I wasn't aware that he had.
+<tr id="L83"><td><a href="#L83">83</a></td><td>ANNOTATION: Worf enters, and Beverly puts a hypo to the woman's neck. She wakes, sees Picard, then Beverly, and smiles. Then she starts to sit up, sees Worf, and faints</td></tr>
 
-  CRUSHER
-     Well he did, and they were frozen. I thawed them.
+<tr id="L84"><td><a href="#L84">84</a></td><td>PICARD:  Welcome to the twenty fourth century.</td></tr>
 
-  PICARD
-     You what?
+<tr id="L85"><td><a href="#L85">85</a></td><td>DATA:  I was able to retrieve some information from the ancient disk I removed from the module's computer. Her name is Clare Raymond, age thirty five, occupation homemaker. Must be some kind of construction work.</td></tr>
 
-  CRUSHER
-     I didn't know what else to do. The crypts in which
-     they were frozen were literally falling apart.
+<tr id="L86"><td><a href="#L86">86</a></td><td>CRUSHER:  She died of an embolism. It probably happened very suddenly, otherwise her physical condition was excellent.</td></tr>
 
-  PICARD
-     So what's their condition?
+<tr id="L87"><td><a href="#L87">87</a></td><td>ANNOTATION: A nurse wakes Clare up, again</td></tr>
 
-  CRUSHER
-     Right now, they are all sleeping. Each of them
-     needed minor medical attention. Minor now, but
-     then their conditions were obviously terminal. One
-     had a heart problem, another had an advanced case
-     of emphysema with extensive liver damage. You know
-     the most surprising thing of all, is that each of
-     them had been frozen after they died.
+<tr id="L88"><td><a href="#L88">88</a></td><td>DATA:  His name is Ralph Offenhouse, age fifty five, occupation financier.</td></tr>
 
-  PICARD
-     After they died?
+<tr id="L89"><td><a href="#L89">89</a></td><td>CRUSHER:  Advanced cardiomyopathy. Inoperable at the time, but easily correctable now. He must have known his condition was terminal for quite some time.</td></tr>
 
-  CRUSHER
-     Cryonics. It was a kind of fad in the late
-     twentieth century. People feared dying. It
-     terrified them. At the moment of death, they would
-     be frozen, so that later, some time in the future,
-     when presumably medical science had a cure for
-     whatever killed them, they could be thawed back to
-     life, healed, and sent on about their business.
+<tr id="L90"><td><a href="#L90">90</a></td><td>ANNOTATION: Ralph is woken</td></tr>
 
-  PICARD
-     In the case of this group, it apparently worked.
-     Mister Data, will you report to Sickbay.
+<tr id="L91"><td><a href="#L91">91</a></td><td>DATA:  Much of his file we could not retrieved. His name is L Q Sonny Clemonds. Apparently his occupation had something to do with music.</td></tr>
 
+<tr id="L92"><td><a href="#L92">92</a></td><td>CRUSHER:  There was marked deterioration of every system in his body. Probably from massive chemical abuse. Unbelievable.</td></tr>
 
-LOCATION--Bridge
+<tr id="L93"><td><a href="#L93">93</a></td><td>PICARD:  That sounds like someone who hated life. Yet he had himself frozen presumably so he could go through it all again.</td></tr>
 
-  PICARD [OC]
-     Immediately.
+<tr id="L94"><td><a href="#L94">94</a></td><td>CRUSHER:  Too afraid to live, too scared to die.</td></tr>
 
+<tr id="L95"><td><a href="#L95">95</a></td><td>PICARD:  Doctor, this seems to be a situation more suited to your talents. I'll leave it with you. I'll be on the Bridge.</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L96"><td><a href="#L96">96</a></td><td>PICARD:  Number One, kindly take charge of our guests until we have time to decide what we're going to do with them.</td></tr>
 
-  PICARD
-     Look, I am never critical of any member of my
-     staff being curious, but it's just that the timing
-     is so
+<tr id="L97"><td><a href="#L97">97</a></td><td>RIKER:  Aye, sir.</td></tr>
 
-  DATA
-     I could not leave them there, Captain. The
-     condition of their vehicle was deteriorating.
+<tr id="L98"><td><a href="#L98">98</a></td><td>PICARD:  Number One, keep them out of my way.</td></tr>
 
-  PICARD
-     But Data, they were already dead. I mean, what
-     more could have happened to them?
+<tr><td></td><td>LOCATION--Guest lounge</td></tr>
+<tr id="L99"><td><a href="#L99">99</a></td><td>ANNOTATION: The three resurrected people are dressed and trying to pay attention</td></tr>
 
-  DATA
-     I see your point, Captain, but at the time it
-     seemed the proper thing to do.
+<tr id="L100"><td><a href="#L100">100</a></td><td>RIKER:  I know this is all very confusing to you so I'll attempt to explain. You are on the starship USS Enterprise.</td></tr>
 
-  PICARD
-     Well, they're alive now. We're going to have to
-     treat them as living human beings.
+<tr id="L101"><td><a href="#L101">101</a></td><td>RALPH:  American?</td></tr>
 
-  CRUSHER
-     Alive and well and ready to be awakened.
+<tr id="L102"><td><a href="#L102">102</a></td><td>RIKER:  No, it's a vessel of the United Federation of Planets, and Earth is a member.</td></tr>
 
-  PICARD
-     Before you wake them up, I want to have Security
-     here. Lieutenant Worf, report to Sickbay.
+<tr id="L103"><td><a href="#L103">103</a></td><td>RALPH:  What year is this?</td></tr>
 
-  CRUSHER
-     I have them sedated now, but they should be up and
-     about as soon as possible.
+<tr id="L104"><td><a href="#L104">104</a></td><td>DATA:  By your calendar two thousand three hundred sixty four.</td></tr>
 
-  PICARD
-     Well, then we have no other choice.
+<tr id="L105"><td><a href="#L105">105</a></td><td>RALPH:  What? My heart, is it?</td></tr>
 
-  CRUSHER
-     None that I can see.
+<tr id="L106"><td><a href="#L106">106</a></td><td>CRUSHER:  It's perfectly fine. In fact, you are all now in excellent health.</td></tr>
 
-  ANNOTATION
-     Worf enters, and Beverly puts a hypo to the
-     woman's neck. She wakes, sees Picard, then
-     Beverly, and smiles. Then she starts to sit up,
-     sees Worf, and faints
+<tr id="L107"><td><a href="#L107">107</a></td><td>RALPH:  It worked. I made it.</td></tr>
 
-  PICARD
-     Welcome to the twenty fourth century.
+<tr id="L108"><td><a href="#L108">108</a></td><td>SONNY:  (a down-home country boy, y'all) What is that?</td></tr>
 
-  DATA
-     I was able to retrieve some information from the
-     ancient disk I removed from the module's computer.
-     Her name is Clare Raymond, age thirty five,
-     occupation homemaker. Must be some kind of
-     construction work.
+<tr id="L109"><td><a href="#L109">109</a></td><td>RIKER:  An android.</td></tr>
 
-  CRUSHER
-     She died of an embolism. It probably happened very
-     suddenly, otherwise her physical condition was
-     excellent.
+<tr id="L110"><td><a href="#L110">110</a></td><td>SONNY:  You mean a robot?</td></tr>
 
-  ANNOTATION
-     A nurse wakes Clare up, again
+<tr id="L111"><td><a href="#L111">111</a></td><td>DATA:  Actually there is a distinct difference between an android and a robot.</td></tr>
 
-  DATA
-     His name is Ralph Offenhouse, age fifty five,
-     occupation financier.
+<tr id="L112"><td><a href="#L112">112</a></td><td>CLARE:  And him? The one I saw before, with the head?</td></tr>
 
-  CRUSHER
-     Advanced cardiomyopathy. Inoperable at the time,
-     but easily correctable now. He must have known his
-     condition was terminal for quite some time.
+<tr id="L113"><td><a href="#L113">113</a></td><td>CRUSHER:  She means Worf.</td></tr>
 
-  ANNOTATION
-     Ralph is woken
+<tr id="L114"><td><a href="#L114">114</a></td><td>RIKER:  He's a Klingon. That takes a little more explanation.</td></tr>
 
-  DATA
-     Much of his file we could not retrieved. His name
-     is L Q Sonny Clemonds. Apparently his occupation
-     had something to do with music.
+<tr id="L115"><td><a href="#L115">115</a></td><td>SONNY:  Now, listen, guys. I paid some idiot a lot of money to freeze me when I died, and I just got to hear the words. Am I alive?</td></tr>
 
-  CRUSHER
-     There was marked deterioration of every system in
-     his body. Probably from massive chemical abuse.
-     Unbelievable.
+<tr id="L116"><td><a href="#L116">116</a></td><td>RIKER:  Oh, yes. Absolutely.</td></tr>
 
-  PICARD
-     That sounds like someone who hated life. Yet he
-     had himself frozen presumably so he could go
-     through it all again.
+<tr id="L117"><td><a href="#L117">117</a></td><td>SONNY:  And the liver that was about to explode in my face?</td></tr>
 
-  CRUSHER
-     Too afraid to live, too scared to die.
+<tr id="L118"><td><a href="#L118">118</a></td><td>CRUSHER:  Perfectly sound.</td></tr>
 
-  PICARD
-     Doctor, this seems to be a situation more suited
-     to your talents. I'll leave it with you. I'll be
-     on the Bridge.
+<tr id="L119"><td><a href="#L119">119</a></td><td>CLARE:  Excuse me, could someone please tell me what's going on here?</td></tr>
 
+<tr id="L120"><td><a href="#L120">120</a></td><td>CRUSHER:  About three hundred and seventy years ago, you died of a massive embolism.</td></tr>
 
-LOCATION--Bridge
+<tr id="L121"><td><a href="#L121">121</a></td><td>CLARE:  I don't remember anything about that.</td></tr>
 
-  PICARD
-     Number One, kindly take charge of our guests until
-     we have time to decide what we're going to do with
-     them.
+<tr id="L122"><td><a href="#L122">122</a></td><td>CRUSHER:  You and the others were frozen.</td></tr>
 
-  RIKER
-     Aye, sir.
+<tr id="L123"><td><a href="#L123">123</a></td><td>SONNY:  Cryonics. You know, freeze you now and heal you later.</td></tr>
 
-  PICARD
-     Number One, keep them out of my way.
+<tr id="L124"><td><a href="#L124">124</a></td><td>CLARE:  Yeah, I've heard of it. I just never gave it much thought. How did we get here?</td></tr>
 
+<tr id="L125"><td><a href="#L125">125</a></td><td>DATA:  You were in a space module.</td></tr>
 
-LOCATION--Guest lounge
+<tr id="L126"><td><a href="#L126">126</a></td><td>SONNY:  The whacko who sold me this scam said that by putting us in orbit there weren't gonna be no chance of a brown out.</td></tr>
 
-  ANNOTATION
-     The three resurrected people are dressed and
-     trying to pay attention
+<tr id="L127"><td><a href="#L127">127</a></td><td>RALPH:  Yes, several cryonics companies fell into disrepute because of power failures which adversely affected their refrigeration system. Their stocks were severely depressed.</td></tr>
 
-  RIKER
-     I know this is all very confusing to you so I'll
-     attempt to explain. You are on the starship USS
-     Enterprise.
+<tr id="L128"><td><a href="#L128">128</a></td><td>SONNY:  The whole deal was a long shot but I figured what the hell, might as well give them the dough instead of leaving it to my ex-wives. But you know, son, I figured it was all just a bunch of hooey.</td></tr>
 
-  RALPH
-     American?
+<tr id="L129"><td><a href="#L129">129</a></td><td>DATA:  Hooey? Ah, as in hogwash, malarky, jive. An intentional fabrication.</td></tr>
 
-  RIKER
-     No, it's a vessel of the United Federation of
-     Planets, and Earth is a member.
+<tr id="L130"><td><a href="#L130">130</a></td><td>SONNY:  There you go, now you got it.</td></tr>
 
-  RALPH
-     What year is this?
+<tr id="L131"><td><a href="#L131">131</a></td><td>RIKER:  Now, if you didn't contract for this, who did?</td></tr>
 
-  DATA
-     By your calendar two thousand three hundred sixty
-     four.
+<tr id="L132"><td><a href="#L132">132</a></td><td>CLARE:  It must have been my husband, Donald. If it was new and foolish, he would have popped for it. Well, I'll say this for it. It's the first thing he's ever bought into that worked.</td></tr>
 
-  RALPH
-     What? My heart, is it?
+<tr id="L133"><td><a href="#L133">133</a></td><td>RALPH:  I, for one, never had a doubt. My stock in this company must have split at least a dozen times by now.</td></tr>
 
-  CRUSHER
-     It's perfectly fine. In fact, you are all now in
-     excellent health.
+<tr id="L134"><td><a href="#L134">134</a></td><td>DATA:  Actually, the process of cryonics was never more than a fad, and did not continue much beyond the mid-twenty first century.</td></tr>
 
-  RALPH
-     It worked. I made it.
+<tr id="L135"><td><a href="#L135">135</a></td><td>RALPH:  I need to make a phone call as soon as possible.</td></tr>
 
-  SONNY
-     (a down-home country boy, y'all) What is that?
+<tr id="L136"><td><a href="#L136">136</a></td><td>RIKER:  A phone call?</td></tr>
 
-  RIKER
-     An android.
+<tr id="L137"><td><a href="#L137">137</a></td><td>RALPH:  Yes. I have provided for myself. I have a substantial portfolio. It's critical that I check on it. Let the bank know that I am alive and well.</td></tr>
 
-  SONNY
-     You mean a robot?
+<tr id="L138"><td><a href="#L138">138</a></td><td>RIKER:  Ah, that's going to be a little difficult right at the moment.</td></tr>
 
-  DATA
-     Actually there is a distinct difference between an
-     android and a robot.
+<tr id="L139"><td><a href="#L139">139</a></td><td>RALPH:  Well, do you at least have a copy of The Wall Street Journal?</td></tr>
 
-  CLARE
-     And him? The one I saw before, with the head?
+<tr id="L140"><td><a href="#L140">140</a></td><td>RIKER:  I think we should take the Doctor's advice. Take this very slowly until we've all adjusted, and then we'll talk to the Captain.</td></tr>
 
-  CRUSHER
-     She means Worf.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L141"><td><a href="#L141">141</a></td><td>TROI:  As you know, there is very little available on the Romulans.</td></tr>
 
-  RIKER
-     He's a Klingon. That takes a little more
-     explanation.
+<tr id="L142"><td><a href="#L142">142</a></td><td>PICARD:  Counsellor, anything would be helpful.</td></tr>
 
-  SONNY
-     Now, listen, guys. I paid some idiot a lot of
-     money to freeze me when I died, and I just got to
-     hear the words. Am I alive?
+<tr id="L143"><td><a href="#L143">143</a></td><td>TROI:  They seem to be creatures of extremes. One moment violent beyond description, the next tender. They are related to the Vulcans, but as each race developed, their differences grew wider. They are intensely curious. Their belief in their own superiority is beyond arrogance. For some reason they have exhibited a fascination with humans and it is that fascination, more than anything else, that has kept the peace. One other thing. They will not initiate anything. They will wait for you to commit yourself.</td></tr>
 
-  RIKER
-     Oh, yes. Absolutely.
+<tr id="L144"><td><a href="#L144">144</a></td><td>PICARD:  Counter-punchers. Thank you, Counsellor. That's quite valuable.</td></tr>
 
-  SONNY
-     And the liver that was about to explode in my
-     face?
+<tr><td></td><td>LOCATION--Guest lounge</td></tr>
+<tr id="L145"><td><a href="#L145">145</a></td><td>ANNOTATION: Data and Sonny are at the food dispenser</td></tr>
 
-  CRUSHER
-     Perfectly sound.
+<tr id="L146"><td><a href="#L146">146</a></td><td>DATA:  Talk.</td></tr>
 
-  CLARE
-     Excuse me, could someone please tell me what's
-     going on here?
+<tr id="L147"><td><a href="#L147">147</a></td><td>SONNY:  I'd like me a thick Kansas City steak, and some country fried potatoes, and a mess of greens. Oh, hell, just forget all that and give me have a martini, straight up, with two olives. For the vitamins.</td></tr>
 
-  CRUSHER
-     About three hundred and seventy years ago, you
-     died of a massive embolism.
+<tr id="L148"><td><a href="#L148">148</a></td><td>ANNOTATION: The glass appears out of thin air. Sonny samples it and whistles</td></tr>
 
-  CLARE
-     I don't remember anything about that.
+<tr id="L149"><td><a href="#L149">149</a></td><td>DATA:  Is there something wrong?</td></tr>
 
-  CRUSHER
-     You and the others were frozen.
+<tr id="L150"><td><a href="#L150">150</a></td><td>SONNY:  Wrong? Only that your computer here fixed about the best martini I have ever had. I just might get to like this place. Let's see if the Braves are on. How do you turn on this teevee?</td></tr>
 
-  SONNY
-     Cryonics. You know, freeze you now and heal you
-     later.
+<tr id="L151"><td><a href="#L151">151</a></td><td>RIKER:  TV?</td></tr>
 
-  CLARE
-     Yeah, I've heard of it. I just never gave it much
-     thought. How did we get here?
+<tr id="L152"><td><a href="#L152">152</a></td><td>SONNY:  Yeah, the boob tube. I'd like to see how the Braves are doing after all this time. Probably still finding ways to lose.</td></tr>
 
-  DATA
-     You were in a space module.
+<tr id="L153"><td><a href="#L153">153</a></td><td>DATA:  I believe he means television, sir. That particular form of entertainment did not last much beyond the year two thousand forty.</td></tr>
 
-  SONNY
-     The whacko who sold me this scam said that by
-     putting us in orbit there weren't gonna be no
-     chance of a brown out.
+<tr id="L154"><td><a href="#L154">154</a></td><td>SONNY:  Well, what do you guys do? I mean, you don't drink, and you ain't got no TV. Must be kind of boring, ain't it?</td></tr>
 
-  RALPH
-     Yes, several cryonics companies fell into
-     disrepute because of power failures which
-     adversely affected their refrigeration system.
-     Their stocks were severely depressed.
+<tr id="L155"><td><a href="#L155">155</a></td><td>PICARD [OC]:  Number One.</td></tr>
 
-  SONNY
-     The whole deal was a long shot but I figured what
-     the hell, might as well give them the dough
-     instead of leaving it to my ex-wives. But you
-     know, son, I figured it was all just a bunch of
-     hooey.
+<tr id="L156"><td><a href="#L156">156</a></td><td>RIKER:  Riker here.</td></tr>
 
-  DATA
-     Hooey? Ah, as in hogwash, malarky, jive. An
-     intentional fabrication.
+<tr id="L157"><td><a href="#L157">157</a></td><td>PICARD:  Would you and Mister Data report to the Bridge?</td></tr>
 
-  SONNY
-     There you go, now you got it.
+<tr id="L158"><td><a href="#L158">158</a></td><td>RIKER:  At once, sir.</td></tr>
 
-  RIKER
-     Now, if you didn't contract for this, who did?
+<tr id="L159"><td><a href="#L159">159</a></td><td>RALPH:  With whom were you speaking?</td></tr>
 
-  CLARE
-     It must have been my husband, Donald. If it was
-     new and foolish, he would have popped for it.
-     Well, I'll say this for it. It's the first thing
-     he's ever bought into that worked.
+<tr id="L160"><td><a href="#L160">160</a></td><td>RIKER:  The Captain.</td></tr>
 
-  RALPH
-     I, for one, never had a doubt. My stock in this
-     company must have split at least a dozen times by
-     now.
+<tr id="L161"><td><a href="#L161">161</a></td><td>RALPH:  Good. Would you tell him I would like to see him as soon as it's convenient?</td></tr>
 
-  DATA
-     Actually, the process of cryonics was never more
-     than a fad, and did not continue much beyond the
-     mid-twenty first century.
+<tr id="L162"><td><a href="#L162">162</a></td><td>CLARE:  What's going to happen to us? Do we stay here with you? Do we go back to Earth?</td></tr>
 
-  RALPH
-     I need to make a phone call as soon as possible.
+<tr id="L163"><td><a href="#L163">163</a></td><td>RIKER:  That will all be up to the Captain.</td></tr>
 
-  RIKER
-     A phone call?
+<tr id="L164"><td><a href="#L164">164</a></td><td>RALPH:  Well, get him in here. I have to phone Geneva right away about my accounts. The interest alone could be enough to buy this ship.</td></tr>
 
-  RALPH
-     Yes. I have provided for myself. I have a
-     substantial portfolio. It's critical that I check
-     on it. Let the bank know that I am alive and well.
+<tr id="L165"><td><a href="#L165">165</a></td><td>SONNY:  The Yankee's right. Let's get the big boy in here.</td></tr>
 
-  RIKER
-     Ah, that's going to be a little difficult right at
-     the moment.
+<tr id="L166"><td><a href="#L166">166</a></td><td>RIKER:  I'll pass along your request. If you'll excuse us.</td></tr>
 
-  RALPH
-     Well, do you at least have a copy of The Wall
-     Street Journal?
+<tr id="L167"><td><a href="#L167">167</a></td><td>SONNY:  Duty calls. Hey, I understand. (to Data) Why don't you come back later on. You and me'll find us a couple of low mileage pit woofies, and help'em build a memory.</td></tr>
 
-  RIKER
-     I think we should take the Doctor's advice. Take
-     this very slowly until we've all adjusted, and
-     then we'll talk to the Captain.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L168"><td><a href="#L168">168</a></td><td>DATA:  What is to be done with them, sir?</td></tr>
 
+<tr id="L169"><td><a href="#L169">169</a></td><td>RIKER:  I don't know.</td></tr>
 
-LOCATION--Bridge
+<tr id="L170"><td><a href="#L170">170</a></td><td>DATA:  Commander, a low mileage pit woofie?</td></tr>
 
-  TROI
-     As you know, there is very little available on the
-     Romulans.
+<tr id="L171"><td><a href="#L171">171</a></td><td>RIKER:  This time you've got me. I haven't a clue.</td></tr>
 
-  PICARD
-     Counsellor, anything would be helpful.
+<tr id="L172"><td><a href="#L172">172</a></td><td>DATA:  These are the most unusual humans I have ever encountered.</td></tr>
 
-  TROI
-     They seem to be creatures of extremes. One moment
-     violent beyond description, the next tender. They
-     are related to the Vulcans, but as each race
-     developed, their differences grew wider. They are
-     intensely curious. Their belief in their own
-     superiority is beyond arrogance. For some reason
-     they have exhibited a fascination with humans and
-     it is that fascination, more than anything else,
-     that has kept the peace. One other thing. They
-     will not initiate anything. They will wait for you
-     to commit yourself.
+<tr id="L173"><td><a href="#L173">173</a></td><td>RIKER:  Well, from what I've seen of our guests, there's not much to redeem them. It makes one wonder how our species survived the twenty-first century.</td></tr>
 
-  PICARD
-     Counter-punchers. Thank you, Counsellor. That's
-     quite valuable.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L174"><td><a href="#L174">174</a></td><td>PICARD:  Report.</td></tr>
 
+<tr id="L175"><td><a href="#L175">175</a></td><td>WORF:  We are six hours from the Neutral Zone. I have been unable to establish communications with any Federation colony or station in this vicinity.</td></tr>
 
-LOCATION--Guest lounge
+<tr id="L176"><td><a href="#L176">176</a></td><td>PICARD:  How many outposts are there in this sector?</td></tr>
 
-  ANNOTATION
-     Data and Sonny are at the food dispenser
+<tr id="L177"><td><a href="#L177">177</a></td><td>WORF:  Nine.</td></tr>
 
-  DATA
-     Talk.
+<tr id="L178"><td><a href="#L178">178</a></td><td>RIKER:  I think we work on the assumption they've all been destroyed.</td></tr>
 
-  SONNY
-     I'd like me a thick Kansas City steak, and some
-     country fried potatoes, and a mess of greens. Oh,
-     hell, just forget all that and give me have a
-     martini, straight up, with two olives. For the
-     vitamins.
+<tr id="L179"><td><a href="#L179">179</a></td><td>LAFORGE:  By the Romulans?</td></tr>
 
-  ANNOTATION
-     The glass appears out of thin air. Sonny samples
-     it and whistles
+<tr id="L180"><td><a href="#L180">180</a></td><td>RIKER:  It fits their historical pattern.</td></tr>
 
-  DATA
-     Is there something wrong?
+<tr id="L181"><td><a href="#L181">181</a></td><td>DATA:  Since we have no contact with the Romulans for fifty three years, seven months, eighteen days, we must consider that the information we do have, is out of date.</td></tr>
 
-  SONNY
-     Wrong? Only that your computer here fixed about
-     the best martini I have ever had. I just might get
-     to like this place. Let's see if the Braves are
-     on. How do you turn on this teevee?
+<tr id="L182"><td><a href="#L182">182</a></td><td>RIKER:  The positive side of that is the information they have about us is also out of date. Captain, I think it's that lack of information that this is all about.</td></tr>
 
-  RIKER
-     TV?
+<tr id="L183"><td><a href="#L183">183</a></td><td>PICARD:  Go on.</td></tr>
 
-  SONNY
-     Yeah, the boob tube. I'd like to see how the
-     Braves are doing after all this time. Probably
-     still finding ways to lose.
+<tr id="L184"><td><a href="#L184">184</a></td><td>RIKER:  In my opinion, the Romulans want a confrontation specifically with us.</td></tr>
 
-  DATA
-     I believe he means television, sir. That
-     particular form of entertainment did not last much
-     beyond the year two thousand forty.
+<tr id="L185"><td><a href="#L185">185</a></td><td>PICARD:  The Enterprise?</td></tr>
 
-  SONNY
-     Well, what do you guys do? I mean, you don't
-     drink, and you ain't got no TV. Must be kind of
-     boring, ain't it?
+<tr id="L186"><td><a href="#L186">186</a></td><td>RIKER:  Well, not by name, but the Federation. They know the Federation will send their best. That'll give them a perfect chance to see firsthand how far we've advanced both in technology and technique.</td></tr>
 
-  PICARD [OC]
-     Number One.
+<tr id="L187"><td><a href="#L187">187</a></td><td>PICARD:  What are you recommending?</td></tr>
 
-  RIKER
-     Riker here.
+<tr id="L188"><td><a href="#L188">188</a></td><td>RIKER:  I'm not sure I have a specific recommendation. Perhaps we should assume the initiative.</td></tr>
 
-  PICARD
-     Would you and Mister Data report to the Bridge?
+<tr id="L189"><td><a href="#L189">189</a></td><td>WORF:  I agree with Commander Riker. This may be our only opportunity. We should seize it.</td></tr>
 
-  RIKER
-     At once, sir.
+<tr id="L190"><td><a href="#L190">190</a></td><td>PICARD:  Mister Data?</td></tr>
 
-  RALPH
-     With whom were you speaking?
+<tr id="L191"><td><a href="#L191">191</a></td><td>DATA:  The strategy is built on a single premise. The hostile intent of the Romulans. If the premise is sound, so is the proposal.</td></tr>
 
-  RIKER
-     The Captain.
+<tr id="L192"><td><a href="#L192">192</a></td><td>LAFORGE:  If their intention isn't hostile, what is it?</td></tr>
 
-  RALPH
-     Good. Would you tell him I would like to see him
-     as soon as it's convenient?
+<tr id="L193"><td><a href="#L193">193</a></td><td>RALPH [OC]:  Captain Picard?</td></tr>
 
-  CLARE
-     What's going to happen to us? Do we stay here with
-     you? Do we go back to Earth?
+<tr id="L194"><td><a href="#L194">194</a></td><td>PICARD:  This is Captain Picard. To whom am I speaking?</td></tr>
 
-  RIKER
-     That will all be up to the Captain.
+<tr id="L195"><td><a href="#L195">195</a></td><td>RALPH [OC]:  Ralph Offenhouse.</td></tr>
 
-  RALPH
-     Well, get him in here. I have to phone Geneva
-     right away about my accounts. The interest alone
-     could be enough to buy this ship.
+<tr><td></td><td>LOCATION--Guest lounge</td></tr>
+<tr id="L196"><td><a href="#L196">196</a></td><td>RALPH:  I need to talk to you.</td></tr>
 
-  SONNY
-     The Yankee's right. Let's get the big boy in here.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L197"><td><a href="#L197">197</a></td><td>PICARD:  What is going on here, Number One? Did you give him permission to contact me?</td></tr>
 
-  RIKER
-     I'll pass along your request. If you'll excuse us.
+<tr id="L198"><td><a href="#L198">198</a></td><td>RIKER:  Of course not. He must have seen me use the comm. panel.</td></tr>
 
-  SONNY
-     Duty calls. Hey, I understand. (to Data) Why don't
-     you come back later on. You and me'll find us a
-     couple of low mileage pit woofies, and help'em
-     build a memory.
+<tr id="L199"><td><a href="#L199">199</a></td><td>PICARD:  Listen, Mister Offenhouse. We're in a very important conference right now.</td></tr>
 
+<tr id="L200"><td><a href="#L200">200</a></td><td>RALPH [OC]:  I'm sick and tired of being put off</td></tr>
 
-LOCATION--Corridor
+<tr><td></td><td>LOCATION--Guest lounge</td></tr>
+<tr id="L201"><td><a href="#L201">201</a></td><td>RALPH:  By you and your staff. This is the worst run ship I have ever been on.</td></tr>
 
-  DATA
-     What is to be done with them, sir?
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L202"><td><a href="#L202">202</a></td><td>RALPH [OC]:  You should take some lessons from the QE Two. Now that's an efficient operation.</td></tr>
 
-  RIKER
-     I don't know.
+<tr id="L203"><td><a href="#L203">203</a></td><td>PICARD:  Data, identify. What is a QE Two?</td></tr>
 
-  DATA
-     Commander, a low mileage pit woofie?
+<tr id="L204"><td><a href="#L204">204</a></td><td>DATA:  It was a passenger liner which mostly travelled Earth's Atlantic Ocean during the late twentieth and early twenty first centuries.</td></tr>
 
-  RIKER
-     This time you've got me. I haven't a clue.
+<tr id="L205"><td><a href="#L205">205</a></td><td>PICARD:  He's comparing the Enterprise to a cruise ship?</td></tr>
 
-  DATA
-     These are the most unusual humans I have ever
-     encountered.
+<tr id="L206"><td><a href="#L206">206</a></td><td>RALPH [OC]:  Captain Picard, I demand that you see me. I think I have been very, very patient.</td></tr>
 
-  RIKER
-     Well, from what I've seen of our guests, there's
-     not much to redeem them. It makes one wonder how
-     our species survived the twenty-first century.
+<tr><td></td><td>LOCATION--Guest lounge</td></tr>
+<tr id="L207"><td><a href="#L207">207</a></td><td>RALPH:  I demand a phone, or a radio whatever else you have. Frankly, enough is enough. Especially under the circumstances, and considering what I paid for this procedure! I must make contact with my law</td></tr>
 
+<tr id="L208"><td><a href="#L208">208</a></td><td>ANNOTATION: Picard enters</td></tr>
 
-LOCATION--Ready room
+<tr id="L209"><td><a href="#L209">209</a></td><td>PICARD:  I'm Captain Picard.</td></tr>
 
-  PICARD
-     Report.
+<tr id="L210"><td><a href="#L210">210</a></td><td>RALPH:  Excellent. Now, maybe we'll be able to get some things straightened out.</td></tr>
 
-  WORF
-     We are six hours from the Neutral Zone. I have
-     been unable to establish communications with any
-     Federation colony or station in this vicinity.
+<tr id="L211"><td><a href="#L211">211</a></td><td>PICARD:  We may indeed. Those comm. panels are for official ship business.</td></tr>
 
-  PICARD
-     How many outposts are there in this sector?
+<tr id="L212"><td><a href="#L212">212</a></td><td>RALPH:  If they are so important, why don't they need an executive key?</td></tr>
 
-  WORF
-     Nine.
+<tr id="L213"><td><a href="#L213">213</a></td><td>PICARD:  Aboard a starship, that is not necessary. We are all capable of exercising self-discipline. Now, you will refrain from using them.</td></tr>
 
-  RIKER
-     I think we work on the assumption they've all been
-     destroyed.
+<tr id="L214"><td><a href="#L214">214</a></td><td>RALPH:  Now just a minute.</td></tr>
 
-  LAFORGE
-     By the Romulans?
+<tr id="L215"><td><a href="#L215">215</a></td><td>PICARD:  We are in a very serious and potentially dangerous situation.</td></tr>
 
-  RIKER
-     It fits their historical pattern.
+<tr id="L216"><td><a href="#L216">216</a></td><td>RALPH:  I'm sure whatever it is seems very important to you, but my situation is far more critical.</td></tr>
 
-  DATA
-     Since we have no contact with the Romulans for
-     fifty three years, seven months, eighteen days, we
-     must consider that the information we do have, is
-     out of date.
+<tr id="L217"><td><a href="#L217">217</a></td><td>PICARD:  I don't think you are aware of your situation, or of how much time has passed.</td></tr>
 
-  RIKER
-     The positive side of that is the information they
-     have about us is also out of date. Captain, I
-     think it's that lack of information that this is
-     all about.
+<tr id="L218"><td><a href="#L218">218</a></td><td>RALPH:  Believe me, I'm fully cognisant of where I am, and when. It is simply that I have more to protect than a man in your position could possibly imagine. No offence, but a military career has never been considered to be upwardly mobile. I must contact my lawyer.</td></tr>
 
-  PICARD
-     Go on.
+<tr id="L219"><td><a href="#L219">219</a></td><td>PICARD:  Your lawyer has been dead for centuries.</td></tr>
 
-  RIKER
-     In my opinion, the Romulans want a confrontation
-     specifically with us.
+<tr id="L220"><td><a href="#L220">220</a></td><td>RALPH:  Yes, of course I know that, but he was a full partner in a very important firm. Rest assured, that firm is still operating.</td></tr>
 
-  PICARD
-     The Enterprise?
+<tr id="L221"><td><a href="#L221">221</a></td><td>PICARD:  That's what this is all about. A lot has changed in the past three hundred years. People are no longer obsessed with the accumulation of things. We've eliminated hunger, want, the need for possessions. We have grown out of our infancy.</td></tr>
 
-  RIKER
-     Well, not by name, but the Federation. They know
-     the Federation will send their best. That'll give
-     them a perfect chance to see firsthand how far
-     we've advanced both in technology and technique.
+<tr id="L222"><td><a href="#L222">222</a></td><td>RALPH:  You've got it all wrong. It's never been about possessions. It's about power.</td></tr>
 
-  PICARD
-     What are you recommending?
+<tr id="L223"><td><a href="#L223">223</a></td><td>PICARD:  Power to do what?</td></tr>
 
-  RIKER
-     I'm not sure I have a specific recommendation.
-     Perhaps we should assume the initiative.
+<tr id="L224"><td><a href="#L224">224</a></td><td>RALPH:  To control your life, your destiny.</td></tr>
 
-  WORF
-     I agree with Commander Riker. This may be our only
-     opportunity. We should seize it.
+<tr id="L225"><td><a href="#L225">225</a></td><td>PICARD:  That kind of control is an illusion.</td></tr>
 
-  PICARD
-     Mister Data?
+<tr id="L226"><td><a href="#L226">226</a></td><td>RALPH:  Really? I'm here, aren't I? I should be dead but I'm not.</td></tr>
 
-  DATA
-     The strategy is built on a single premise. The
-     hostile intent of the Romulans. If the premise is
-     sound, so is the proposal.
+<tr id="L227"><td><a href="#L227">227</a></td><td>ANNOTATION: Clare starts weeping</td></tr>
 
-  LAFORGE
-     If their intention isn't hostile, what is it?
+<tr id="L228"><td><a href="#L228">228</a></td><td>PICARD:  What is it?</td></tr>
 
-  RALPH [OC]
-     Captain Picard?
+<tr id="L229"><td><a href="#L229">229</a></td><td>CLARE:  I don't know. It just started and it won't stop. I keep thinking about my boys.</td></tr>
 
-  PICARD
-     This is Captain Picard. To whom am I speaking?
+<tr id="L230"><td><a href="#L230">230</a></td><td>PICARD:  Counsellor Troi, will you report to the guest lounge?</td></tr>
 
-  RALPH [OC]
-     Ralph Offenhouse.
+<tr id="L231"><td><a href="#L231">231</a></td><td>RIKER [OC]:  Captain, we are approaching Science Station Delta Zero Five.</td></tr>
 
+<tr id="L232"><td><a href="#L232">232</a></td><td>PICARD:  Slow to half impulse. I'm on my way.</td></tr>
 
-LOCATION--Guest lounge
+<tr id="L233"><td><a href="#L233">233</a></td><td>SONNY:  Captain, I need to see that pretty little Doctor of yours.</td></tr>
 
-  RALPH
-     I need to talk to you.
+<tr id="L234"><td><a href="#L234">234</a></td><td>PICARD:  I'll inform her.</td></tr>
 
+<tr id="L235"><td><a href="#L235">235</a></td><td>RALPH:  Captain. I didn't mean to come on so strong. It's just that I've built my whole life on knowing what's going on. For the first time I feel completely out of touch. It's making me crazy. You can understand that?</td></tr>
 
-LOCATION--Ready room
+<tr id="L236"><td><a href="#L236">236</a></td><td>PICARD:  It's the first thing you've said I do understand. I'll see what I can do. And, please, stay off the comm. panels.</td></tr>
 
-  PICARD
-     What is going on here, Number One? Did you give
-     him permission to contact me?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L237"><td><a href="#L237">237</a></td><td>PICARD:  Counsellor, will you get those people under control. We cannot afford this continuing distraction.</td></tr>
 
-  RIKER
-     Of course not. He must have seen me use the comm.
-     panel.
+<tr id="L238"><td><a href="#L238">238</a></td><td>TROI:  Yes, sir.</td></tr>
 
-  PICARD
-     Listen, Mister Offenhouse. We're in a very
-     important conference right now.
+<tr><td></td><td>LOCATION--Clare's quarters</td></tr>
+<tr id="L239"><td><a href="#L239">239</a></td><td>ANNOTATION: There's a model of NCC1701 on a stand</td></tr>
 
-  RALPH [OC]
-     I'm sick and tired of being put off
+<tr id="L240"><td><a href="#L240">240</a></td><td>TROI:  Hello. My name is Deanna.</td></tr>
 
+<tr id="L241"><td><a href="#L241">241</a></td><td>CLARE:  They sent you here to settle me down?</td></tr>
 
-LOCATION--Guest lounge
+<tr id="L242"><td><a href="#L242">242</a></td><td>TROI:  I'm the ship's Counsellor and I thought you might want to talk.</td></tr>
 
-  RALPH
-     By you and your staff. This is the worst run ship
-     I have ever been on.
+<tr id="L243"><td><a href="#L243">243</a></td><td>CLARE:  The local shrink.</td></tr>
 
+<tr id="L244"><td><a href="#L244">244</a></td><td>TROI:  I'm sorry, I'm not familiar with that term.</td></tr>
 
-LOCATION--Ready room
+<tr id="L245"><td><a href="#L245">245</a></td><td>CLARE:  It doesn't matter.</td></tr>
 
-  RALPH [OC]
-     You should take some lessons from the QE Two. Now
-     that's an efficient operation.
+<tr id="L246"><td><a href="#L246">246</a></td><td>TROI:  You're feeling profoundly sad.</td></tr>
 
-  PICARD
-     Data, identify. What is a QE Two?
+<tr id="L247"><td><a href="#L247">247</a></td><td>CLARE:  I can't stop crying. I miss my sons, and then I think I'm here, but they are gone. Donald, that's my husband. I love that man but, good intentions aside, he'd mess up a free lunch. Why on Earth he ever decided to do this?</td></tr>
 
-  DATA
-     It was a passenger liner which mostly travelled
-     Earth's Atlantic Ocean during the late twentieth
-     and early twenty first centuries.
+<tr id="L248"><td><a href="#L248">248</a></td><td>TROI:  He must have thought you would have wanted it.</td></tr>
 
-  PICARD
-     He's comparing the Enterprise to a cruise ship?
+<tr id="L249"><td><a href="#L249">249</a></td><td>CLARE:  No, I can tell you exactly what happened. He couldn't think about going on alone. I died and he couldn't face it, so he figured if he had me frozen, then in his mind I wasn't really gone. It sounds crazy, but you had to know Donald. I wish I knew what happened to my children. Did they get married, did they have kids?</td></tr>
 
-  RALPH [OC]
-     Captain Picard, I demand that you see me. I think
-     I have been very, very patient.
+<tr id="L250"><td><a href="#L250">250</a></td><td>TROI:  Let's see if we can find out. Computer, this is Counsellor Troi. Request personal history on. What are their names?</td></tr>
 
+<tr id="L251"><td><a href="#L251">251</a></td><td>CLARE:  Tommy. He's eight, and Eddie's five.</td></tr>
 
-LOCATION--Guest lounge
+<tr id="L252"><td><a href="#L252">252</a></td><td>COMPUTER:  Full names, date and place of birth.</td></tr>
 
-  RALPH
-     I demand a phone, or a radio whatever else you
-     have. Frankly, enough is enough. Especially under
-     the circumstances, and considering what I paid for
-     this procedure! I must make contact with my law
+<tr id="L253"><td><a href="#L253">253</a></td><td>CLARE:  They were born in Secaucus, that's in Jersey. Can this really work? Can this tell me what's happened to them?</td></tr>
 
-  ANNOTATION
-     Picard enters
+<tr id="L254"><td><a href="#L254">254</a></td><td>TROI:  Well, there must be a record somewhere. There is a good chance we can find it.</td></tr>
 
-  PICARD
-     I'm Captain Picard.
+<tr id="L255"><td><a href="#L255">255</a></td><td>CLARE:  Well, whether we do or not, I want to thank you for trying. Date of birth. Tommy was born February seventeenth</td></tr>
 
-  RALPH
-     Excellent. Now, maybe we'll be able to get some
-     things straightened out.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L256"><td><a href="#L256">256</a></td><td>SONNY:  I just got to have a little something to jump start the morning, and a little something else to shut down the night.</td></tr>
 
-  PICARD
-     We may indeed. Those comm. panels are for official
-     ship business.
+<tr id="L257"><td><a href="#L257">257</a></td><td>CRUSHER:  You have no medical need.</td></tr>
 
-  RALPH
-     If they are so important, why don't they need an
-     executive key?
+<tr id="L258"><td><a href="#L258">258</a></td><td>SONNY:  It ain't a question of need, darling. It's a matter of survival.</td></tr>
 
-  PICARD
-     Aboard a starship, that is not necessary. We are
-     all capable of exercising self-discipline. Now,
-     you will refrain from using them.
+<tr id="L259"><td><a href="#L259">259</a></td><td>CRUSHER:  Sorry.</td></tr>
 
-  RALPH
-     Now just a minute.
+<tr id="L260"><td><a href="#L260">260</a></td><td>SONNY:  Not to worry. Old Watosh'll scuffle along the best way he can. How do I get a hold of that feller with the strange looking face?</td></tr>
 
-  PICARD
-     We are in a very serious and potentially dangerous
-     situation.
+<tr id="L261"><td><a href="#L261">261</a></td><td>CRUSHER:  I beg your pardon?</td></tr>
 
-  RALPH
-     I'm sure whatever it is seems very important to
-     you, but my situation is far more critical.
+<tr id="L262"><td><a href="#L262">262</a></td><td>SONNY:  What's his name. That android fella.</td></tr>
 
-  PICARD
-     I don't think you are aware of your situation, or
-     of how much time has passed.
+<tr id="L263"><td><a href="#L263">263</a></td><td>CRUSHER:  You mean Lieutenant Commander Data?</td></tr>
 
-  RALPH
-     Believe me, I'm fully cognisant of where I am, and
-     when. It is simply that I have more to protect
-     than a man in your position could possibly
-     imagine. No offence, but a military career has
-     never been considered to be upwardly mobile. I
-     must contact my lawyer.
+<tr id="L264"><td><a href="#L264">264</a></td><td>SONNY:  That's the one.</td></tr>
 
-  PICARD
-     Your lawyer has been dead for centuries.
+<tr id="L265"><td><a href="#L265">265</a></td><td>CRUSHER:  I'll let him know you're looking for him.</td></tr>
 
-  RALPH
-     Yes, of course I know that, but he was a full
-     partner in a very important firm. Rest assured,
-     that firm is still operating.
+<tr id="L266"><td><a href="#L266">266</a></td><td>SONNY:  Much obliged. You know, you're just about the prettiest little old Doctor I ever seen.</td></tr>
 
-  PICARD
-     That's what this is all about. A lot has changed
-     in the past three hundred years. People are no
-     longer obsessed with the accumulation of things.
-     We've eliminated hunger, want, the need for
-     possessions. We have grown out of our infancy.
+<tr id="L267"><td><a href="#L267">267</a></td><td>CRUSHER:  Much obliged.</td></tr>
 
-  RALPH
-     You've got it all wrong. It's never been about
-     possessions. It's about power.
+<tr><td></td><td>LOCATION--Clare's quarters</td></tr>
+<tr id="L268"><td><a href="#L268">268</a></td><td>ANNOTATION: Family trees are whizzing across the screen</td></tr>
 
-  PICARD
-     Power to do what?
+<tr id="L269"><td><a href="#L269">269</a></td><td>CLARE:  This is amazing. It's all right here.</td></tr>
 
-  RALPH
-     To control your life, your destiny.
+<tr id="L270"><td><a href="#L270">270</a></td><td>TROI:  Ten generations of your progeny.</td></tr>
 
-  PICARD
-     That kind of control is an illusion.
+<tr id="L271"><td><a href="#L271">271</a></td><td>CLARE:  Everyone I've ever known is dead. Do you mind? I'd like to be alone.</td></tr>
 
-  RALPH
-     Really? I'm here, aren't I? I should be dead but
-     I'm not.
+<tr id="L272"><td><a href="#L272">272</a></td><td>TROI:  No, not at all.</td></tr>
 
-  ANNOTATION
-     Clare starts weeping
+<tr><td></td><td>LOCATION--Sonny's quarters</td></tr>
+<tr id="L273"><td><a href="#L273">273</a></td><td>ANNOTATION: also with a model NCC1701</td></tr>
 
-  PICARD
-     What is it?
+<tr id="L274"><td><a href="#L274">274</a></td><td>DATA:  You asked to see me.</td></tr>
 
-  CLARE
-     I don't know. It just started and it won't stop. I
-     keep thinking about my boys.
+<tr id="L275"><td><a href="#L275">275</a></td><td>SONNY:  Look, I'm about to go out of my mind for something to do. I mean, sitting here alone just don't get it. What say you and I put together a little party?</td></tr>
 
-  PICARD
-     Counsellor Troi, will you report to the guest
-     lounge?
+<tr id="L276"><td><a href="#L276">276</a></td><td>DATA:  A celebration?</td></tr>
 
-  RIKER [OC]
-     Captain, we are approaching Science Station Delta
-     Zero Five.
+<tr id="L277"><td><a href="#L277">277</a></td><td>SONNY:  No, nothing that fancy. Just some folks, some suds, and some sounds. Hell, it ain't nothing but something to do.</td></tr>
 
-  PICARD
-     Slow to half impulse. I'm on my way.
+<tr id="L278"><td><a href="#L278">278</a></td><td>DATA:  I will speak to the Captain.</td></tr>
 
-  SONNY
-     Captain, I need to see that pretty little Doctor
-     of yours.
+<tr id="L279"><td><a href="#L279">279</a></td><td>SONNY:  Great, you do that.</td></tr>
 
-  PICARD
-     I'll inform her.
+<tr id="L280"><td><a href="#L280">280</a></td><td>DATA:  Inquiry. You do not seem to be having as much difficulty adjusting to your current circumstances as the others.</td></tr>
 
-  RALPH
-     Captain. I didn't mean to come on so strong. It's
-     just that I've built my whole life on knowing
-     what's going on. For the first time I feel
-     completely out of touch. It's making me crazy. You
-     can understand that?
+<tr id="L281"><td><a href="#L281">281</a></td><td>SONNY:  You mean being here on this tub four hundred years from where I started? Heck, it's the same dance, it's just a different tune. You think anybody here's got a guitar I could borrow?</td></tr>
 
-  PICARD
-     It's the first thing you've said I do understand.
-     I'll see what I can do. And, please, stay off the
-     comm. panels.
+<tr id="L282"><td><a href="#L282">282</a></td><td>DATA:  No, but the computer can replicate such an instrument.</td></tr>
 
+<tr id="L283"><td><a href="#L283">283</a></td><td>SONNY:  I was kind of hoping to get one while I still remember the chords.</td></tr>
 
-LOCATION--Corridor
+<tr id="L284"><td><a href="#L284">284</a></td><td>RIKER [OC]:  Commander Data, we are approaching the Neutral Zone. Report to the Bridge.</td></tr>
 
-  PICARD
-     Counsellor, will you get those people under
-     control. We cannot afford this continuing
-     distraction.
+<tr id="L285"><td><a href="#L285">285</a></td><td>DATA:  I must leave now.</td></tr>
 
-  TROI
-     Yes, sir.
+<tr id="L286"><td><a href="#L286">286</a></td><td>SONNY:  What's this Neutral Zone?</td></tr>
 
+<tr id="L287"><td><a href="#L287">287</a></td><td>DATA:  It is a buffer between the Romulan Empire and the Federation.</td></tr>
 
-LOCATION--Clare's quarters
+<tr id="L288"><td><a href="#L288">288</a></td><td>SONNY:  Why does that make me nervous?</td></tr>
 
-  ANNOTATION
-     There's a model of NCC1701 on a stand
+<tr id="L289"><td><a href="#L289">289</a></td><td>DATA:  I do not know.</td></tr>
 
-  TROI
-     Hello. My name is Deanna.
+<tr id="L290"><td><a href="#L290">290</a></td><td>SONNY:  We won't be inviting these Romulans to our party, will we?</td></tr>
 
-  CLARE
-     They sent you here to settle me down?
+<tr id="L291"><td><a href="#L291">291</a></td><td>DATA:  No, that would not be appropriate.</td></tr>
 
-  TROI
-     I'm the ship's Counsellor and I thought you might
-     want to talk.
+<tr id="L292"><td><a href="#L292">292</a></td><td>SOMEONE: Captain's log, supplemental. We have arrived at the edge of the Neutral Zone, where we will now have an opportunity to learn firsthand what happened to our distant outpost.</td></tr>
 
-  CLARE
-     The local shrink.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L293"><td><a href="#L293">293</a></td><td>DATA:  Captain, there is nothing left of Outpost Delta Zero Five.</td></tr>
 
-  TROI
-     I'm sorry, I'm not familiar with that term.
+<tr id="L294"><td><a href="#L294">294</a></td><td>LAFORGE:  Must have been one hell of an explosion.</td></tr>
 
-  CLARE
-     It doesn't matter.
+<tr id="L295"><td><a href="#L295">295</a></td><td>DATA:  Sensors indicate no evidence of conventional attack.</td></tr>
 
-  TROI
-     You're feeling profoundly sad.
+<tr id="L296"><td><a href="#L296">296</a></td><td>PICARD:  Can you determine what happened?</td></tr>
 
-  CLARE
-     I can't stop crying. I miss my sons, and then I
-     think I'm here, but they are gone. Donald, that's
-     my husband. I love that man but, good intentions
-     aside, he'd mess up a free lunch. Why on Earth he
-     ever decided to do this?
+<tr id="L297"><td><a href="#L297">297</a></td><td>WORF:  The outpost was not just destroyed, it's as though some great force just scooped it off the face of the planet.</td></tr>
 
-  TROI
-     He must have thought you would have wanted it.
+<tr id="L298"><td><a href="#L298">298</a></td><td>PICARD:  Could it have been a natural phenomenon?</td></tr>
 
-  CLARE
-     No, I can tell you exactly what happened. He
-     couldn't think about going on alone. I died and he
-     couldn't face it, so he figured if he had me
-     frozen, then in his mind I wasn't really gone. It
-     sounds crazy, but you had to know Donald. I wish I
-     knew what happened to my children. Did they get
-     married, did they have kids?
+<tr id="L299"><td><a href="#L299">299</a></td><td>WORF:  Insufficient information, sir.</td></tr>
 
-  TROI
-     Let's see if we can find out. Computer, this is
-     Counsellor Troi. Request personal history on. What
-     are their names?
+<tr id="L300"><td><a href="#L300">300</a></td><td>PICARD:  Mister La Forge.</td></tr>
 
-  CLARE
-     Tommy. He's eight, and Eddie's five.
+<tr id="L301"><td><a href="#L301">301</a></td><td>LAFORGE:  Sir?</td></tr>
 
-  COMPUTER
-     Full names, date and place of birth.
+<tr id="L302"><td><a href="#L302">302</a></td><td>PICARD:  Set course for the next closest station.</td></tr>
 
-  CLARE
-     They were born in Secaucus, that's in Jersey. Can
-     this really work? Can this tell me what's happened
-     to them?
+<tr id="L303"><td><a href="#L303">303</a></td><td>LAFORGE:  Aye, sir.</td></tr>
 
-  TROI
-     Well, there must be a record somewhere. There is a
-     good chance we can find it.
+<tr><td></td><td>LOCATION--Guest lounge</td></tr>
+<tr id="L304"><td><a href="#L304">304</a></td><td>RALPH:  I have spent my career being able to tell when the other guy's mouth is dry. There is something going on here. Something serious. The tension level on this ship has jumped up.</td></tr>
 
-  CLARE
-     Well, whether we do or not, I want to thank you
-     for trying. Date of birth. Tommy was born February
-     seventeenth
+<tr id="L305"><td><a href="#L305">305</a></td><td>SONNY:  Even if you're right, what can we do about it? And besides, these old boys here don't need us telling them where the bear sits. Look here what that young fella made for me.</td></tr>
 
+<tr id="L306"><td><a href="#L306">306</a></td><td>ANNOTATION: It's a guitar</td></tr>
 
-LOCATION--Sickbay
+<tr id="L307"><td><a href="#L307">307</a></td><td>CLARE:  How did he do that?</td></tr>
 
-  SONNY
-     I just got to have a little something to jump
-     start the morning, and a little something else to
-     shut down the night.
+<tr id="L308"><td><a href="#L308">308</a></td><td>SONNY:  He called it a pattern replication. It plays real good, too.</td></tr>
 
-  CRUSHER
-     You have no medical need.
+<tr id="L309"><td><a href="#L309">309</a></td><td>RALPH:  I'm trying to tell you that there is a situation developing on this vessel that directly affects us, and all you can talk about is that stupid guitar!</td></tr>
 
-  SONNY
-     It ain't a question of need, darling. It's a
-     matter of survival.
+<tr id="L310"><td><a href="#L310">310</a></td><td>SONNY:  Hey, now, these folks don't need us swimming in their soup, so why don't you just relax and let'em do their jobs?</td></tr>
 
-  CRUSHER
-     Sorry.
+<tr id="L311"><td><a href="#L311">311</a></td><td>RALPH:  That may be all right for you, but I am not willing to allow my fate to be decided by others. I at least want to know what is going on.</td></tr>
 
-  SONNY
-     Not to worry. Old Watosh'll scuffle along the best
-     way he can. How do I get a hold of that feller
-     with the strange looking face?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L312"><td><a href="#L312">312</a></td><td>LAFORGE:  We are approaching Tarod Nine.</td></tr>
 
-  CRUSHER
-     I beg your pardon?
+<tr id="L313"><td><a href="#L313">313</a></td><td>DATA:  The condition is identical, Captain.</td></tr>
 
-  SONNY
-     What's his name. That android fella.
+<tr id="L314"><td><a href="#L314">314</a></td><td>WORF:  Everyone and everything is gone.</td></tr>
 
-  CRUSHER
-     You mean Lieutenant Commander Data?
+<tr id="L315"><td><a href="#L315">315</a></td><td>RIKER:  Captain, I strongly recommend that we go to Red Alert. If the Romulans have improved their cloaking device, and we'd be fools to believe they haven't, we should assume a more defensive posture.</td></tr>
 
-  SONNY
-     That's the one.
+<tr id="L316"><td><a href="#L316">316</a></td><td>WORF:  I agree, Captain. I recommend we go immediately to battle stations.</td></tr>
 
-  CRUSHER
-     I'll let him know you're looking for him.
+<tr id="L317"><td><a href="#L317">317</a></td><td>PICARD:  I appreciate your advice and concern, but this is not the time for rash actions. We are still investigating. There are three other stations in this sector we have to visit. Let's proceed in a calm and orderly manner.</td></tr>
 
-  SONNY
-     Much obliged. You know, you're just about the
-     prettiest little old Doctor I ever seen.
+<tr id="L318"><td><a href="#L318">318</a></td><td>RIKER:  If not battle stations, may we at least take the ship to Yellow Alert?</td></tr>
 
-  CRUSHER
-     Much obliged.
+<tr id="L319"><td><a href="#L319">319</a></td><td>PICARD:  Yes, Number One. That would be prudent. Make it so.</td></tr>
 
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L320"><td><a href="#L320">320</a></td><td>ANNOTATION: Ralph is walking along, and notices a woman come out of a turbolift. He goes in</td></tr>
 
-LOCATION--Clare's quarters
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L321"><td><a href="#L321">321</a></td><td>RALPH:  Ah, let's see. I want to go to the, er. Where would the Captain be?</td></tr>
 
-  ANNOTATION
-     Family trees are whizzing across the screen
+<tr id="L322"><td><a href="#L322">322</a></td><td>COMPUTER:  Captain Picard is located on the main Bridge.</td></tr>
 
-  CLARE
-     This is amazing. It's all right here.
+<tr id="L323"><td><a href="#L323">323</a></td><td>RALPH:  Well then, take me to the main Bridge.</td></tr>
 
-  TROI
-     Ten generations of your progeny.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L324"><td><a href="#L324">324</a></td><td>WORF:  Captain, my sensors indicate a disturbance. It is large and moving, but I cannot get a positive lock nor can I get it on the viewscreen.</td></tr>
 
-  CLARE
-     Everyone I've ever known is dead. Do you mind? I'd
-     like to be alone.
+<tr id="L325"><td><a href="#L325">325</a></td><td>RIKER:  Shields up.</td></tr>
 
-  TROI
-     No, not at all.
+<tr id="L326"><td><a href="#L326">326</a></td><td>WORF:  Aye, sir.</td></tr>
 
+<tr id="L327"><td><a href="#L327">327</a></td><td>RIKER:  Captain, I recommend we transfer all power to phasers, and arm the photon torpedoes.</td></tr>
 
-LOCATION--Sonny's quarters
+<tr id="L328"><td><a href="#L328">328</a></td><td>PICARD:  Wait. If that is a Romulan ship, they will read our intent. It'll force them into taking a similar posture. We don't want to engage in battle.</td></tr>
 
-  ANNOTATION
-     also with a model NCC1701
+<tr id="L329"><td><a href="#L329">329</a></td><td>RIKER:  Captain, this is sufficient evidence. Outposts have been destroyed. Countless lives have been lost.</td></tr>
 
-  DATA
-     You asked to see me.
+<tr id="L330"><td><a href="#L330">330</a></td><td>WORF:  I have a positive lock. They're disengaging their cloaking device.</td></tr>
 
-  SONNY
-     Look, I'm about to go out of my mind for something
-     to do. I mean, sitting here alone just don't get
-     it. What say you and I put together a little
-     party?
+<tr id="L331"><td><a href="#L331">331</a></td><td>RIKER:  They'll only be vulnerable for an instant as they become visible.</td></tr>
 
-  DATA
-     A celebration?
+<tr id="L332"><td><a href="#L332">332</a></td><td>WORF:  Captain, this may be our only chance.</td></tr>
 
-  SONNY
-     No, nothing that fancy. Just some folks, some
-     suds, and some sounds. Hell, it ain't nothing but
-     something to do.
+<tr id="L333"><td><a href="#L333">333</a></td><td>PICARD:  No.</td></tr>
 
-  DATA
-     I will speak to the Captain.
+<tr id="L334"><td><a href="#L334">334</a></td><td>RIKER:  Where are they?</td></tr>
 
-  SONNY
-     Great, you do that.
+<tr id="L335"><td><a href="#L335">335</a></td><td>WORF:  The signal is weakening.</td></tr>
 
-  DATA
-     Inquiry. You do not seem to be having as much
-     difficulty adjusting to your current circumstances
-     as the others.
+<tr id="L336"><td><a href="#L336">336</a></td><td>ANNOTATION: Ralph quietly enters the Bridge</td></tr>
 
-  SONNY
-     You mean being here on this tub four hundred years
-     from where I started? Heck, it's the same dance,
-     it's just a different tune. You think anybody
-     here's got a guitar I could borrow?
+<tr id="L337"><td><a href="#L337">337</a></td><td>WORF:  I've lost them.</td></tr>
 
-  DATA
-     No, but the computer can replicate such an
-     instrument.
+<tr id="L338"><td><a href="#L338">338</a></td><td>PICARD:  Damn. Mister Data, are your sensors picking up anything? You should be detecting a disturbance.</td></tr>
 
-  SONNY
-     I was kind of hoping to get one while I still
-     remember the chords.
+<tr id="L339"><td><a href="#L339">339</a></td><td>DATA:  Negative, sir.</td></tr>
 
-  RIKER [OC]
-     Commander Data, we are approaching the Neutral
-     Zone. Report to the Bridge.
+<tr id="L340"><td><a href="#L340">340</a></td><td>LAFORGE:  We wanted to know if they have improved the cloaking device. Guess we have our answer.</td></tr>
 
-  DATA
-     I must leave now.
+<tr id="L341"><td><a href="#L341">341</a></td><td>PICARD:  (to Riker) They were trying to determine our intent. They wanted to see if we would fire.</td></tr>
 
-  SONNY
-     What's this Neutral Zone?
+<tr id="L342"><td><a href="#L342">342</a></td><td>RALPH:  Who the hell are they?</td></tr>
 
-  DATA
-     It is a buffer between the Romulan Empire and the
-     Federation.
+<tr id="L343"><td><a href="#L343">343</a></td><td>RIKER:  Get that man off the Bridge, now.</td></tr>
 
-  SONNY
-     Why does that make me nervous?
+<tr id="L344"><td><a href="#L344">344</a></td><td>RALPH:  I'm not going anywhere.</td></tr>
 
-  DATA
-     I do not know.
+<tr id="L345"><td><a href="#L345">345</a></td><td>WORF:  Captain, they're back.</td></tr>
 
-  SONNY
-     We won't be inviting these Romulans to our party,
-     will we?
+<tr id="L346"><td><a href="#L346">346</a></td><td>ANNOTATION: A big green warbird appears on the viewscreen</td></tr>
 
-  DATA
-     No, that would not be appropriate.
+<tr id="L347"><td><a href="#L347">347</a></td><td>RIKER:  Amazing. I never thought I would ever see a Romulan ship. Not this close.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. We have arrived at
-     the edge of the Neutral Zone, where we will now
-     have an opportunity to learn firsthand what
-     happened to our distant outpost.
+<tr id="L348"><td><a href="#L348">348</a></td><td>LAFORGE:  The last time we encountered them was decades ago. Cost thousands of lives.</td></tr>
 
+<tr id="L349"><td><a href="#L349">349</a></td><td>RALPH:  I can believe that.</td></tr>
 
-LOCATION--Bridge
+<tr id="L350"><td><a href="#L350">350</a></td><td>PICARD:  Stay calm, everyone. Open hailing frequencies.</td></tr>
 
-  DATA
-     Captain, there is nothing left of Outpost Delta
-     Zero Five.
+<tr id="L351"><td><a href="#L351">351</a></td><td>WORF:  Captain, these are Romulans. They are without honour. They killed my parents in an attack on Khitomer when they were supposed to be our allies. They believe humans and Klingons are a waste of skin.</td></tr>
 
-  LAFORGE
-     Must have been one hell of an explosion.
+<tr id="L352"><td><a href="#L352">352</a></td><td>PICARD:  Lieutenant, control your emotions. Please, open hailing frequencies.</td></tr>
 
-  DATA
-     Sensors indicate no evidence of conventional
-     attack.
+<tr id="L353"><td><a href="#L353">353</a></td><td>WORF:  Hailing frequencies open.</td></tr>
 
-  PICARD
-     Can you determine what happened?
+<tr id="L354"><td><a href="#L354">354</a></td><td>PICARD:  Romulan vessel, this is Captain Jean-Luc Picard of the USS Enterprise.</td></tr>
 
-  WORF
-     The outpost was not just destroyed, it's as though
-     some great force just scooped it off the face of
-     the planet.
+<tr id="L355"><td><a href="#L355">355</a></td><td>DATA:  Sensors indicate all of their systems are armed, sir.</td></tr>
 
-  PICARD
-     Could it have been a natural phenomenon?
+<tr id="L356"><td><a href="#L356">356</a></td><td>PICARD:  But they've not fired. Let's try them again.</td></tr>
 
-  WORF
-     Insufficient information, sir.
+<tr id="L357"><td><a href="#L357">357</a></td><td>ANNOTATION: Two seated Romulans appear, one relaxed and sitting back, one leaning forward. The relaxed one speaks</td></tr>
 
-  PICARD
-     Mister La Forge.
+<tr id="L358"><td><a href="#L358">358</a></td><td>TEBOK [on viewscreen]:  I am Commander Tebok.</td></tr>
 
-  LAFORGE
-     Sir?
+<tr id="L359"><td><a href="#L359">359</a></td><td>PICARD:  Commander, you have crossed the Neutral Zone. This is Federation territory.</td></tr>
 
-  PICARD
-     Set course for the next closest station.
+<tr id="L360"><td><a href="#L360">360</a></td><td>THEI [on viewscreen]:  It was necessary.</td></tr>
 
-  LAFORGE
-     Aye, sir.
+<tr id="L361"><td><a href="#L361">361</a></td><td>PICARD:  It might be viewed as an act of aggression.</td></tr>
 
+<tr id="L362"><td><a href="#L362">362</a></td><td>THEI [on viewscreen]:  If our intent were aggression, you would not be here now.</td></tr>
 
-LOCATION--Guest lounge
+<tr id="L363"><td><a href="#L363">363</a></td><td>TEBOK [On viewscreen]:  If we go to war, let us be sure it is for the right reason. We are here because our outposts, which border the Neutral Zone, were also attacked.</td></tr>
 
-  RALPH
-     I have spent my career being able to tell when the
-     other guy's mouth is dry. There is something going
-     on here. Something serious. The tension level on
-     this ship has jumped up.
+<tr id="L364"><td><a href="#L364">364</a></td><td>THEI [on viewscreen]:  Destroyed in the exact same manner as your own.</td></tr>
 
-  SONNY
-     Even if you're right, what can we do about it? And
-     besides, these old boys here don't need us telling
-     them where the bear sits. Look here what that
-     young fella made for me.
+<tr id="L365"><td><a href="#L365">365</a></td><td>WORF:  Even so, what gives them the right to enter Federation space?</td></tr>
 
-  ANNOTATION
-     It's a guitar
+<tr id="L366"><td><a href="#L366">366</a></td><td>TEBOK [on viewscreen]:  Silence your dog, Captain.</td></tr>
 
-  CLARE
-     How did he do that?
+<tr id="L367"><td><a href="#L367">367</a></td><td>PICARD:  Lieutenant Worf's question is valid.</td></tr>
 
-  SONNY
-     He called it a pattern replication. It plays real
-     good, too.
+<tr id="L368"><td><a href="#L368">368</a></td><td>THEI [on viewscreen]:  To even to ask such a question implies that we need permission. We do not.</td></tr>
 
-  RALPH
-     I'm trying to tell you that there is a situation
-     developing on this vessel that directly affects
-     us, and all you can talk about is that stupid
-     guitar!
+<tr id="L369"><td><a href="#L369">369</a></td><td>PICARD:  Do you think that we attacked your outposts?</td></tr>
 
-  SONNY
-     Hey, now, these folks don't need us swimming in
-     their soup, so why don't you just relax and let'em
-     do their jobs?
+<tr id="L370"><td><a href="#L370">370</a></td><td>TEBOK [on viewscreen]:  Once we realised the level of destruction, we knew it could not have been you.</td></tr>
 
-  RALPH
-     That may be all right for you, but I am not
-     willing to allow my fate to be decided by others.
-     I at least want to know what is going on.
+<tr id="L371"><td><a href="#L371">371</a></td><td>PICARD:  Who is responsible?</td></tr>
 
+<tr id="L372"><td><a href="#L372">372</a></td><td>RALPH:  They haven't got a clue. They're hoping you know, but they're too arrogant to ask.</td></tr>
 
-LOCATION--Bridge
+<tr id="L373"><td><a href="#L373">373</a></td><td>RIKER:  You're out of line, Mister.</td></tr>
 
-  LAFORGE
-     We are approaching Tarod Nine.
+<tr id="L374"><td><a href="#L374">374</a></td><td>PICARD:  Yes, but it's a correct assessment.</td></tr>
 
-  DATA
-     The condition is identical, Captain.
+<tr id="L375"><td><a href="#L375">375</a></td><td>TEBOK [on viewscreen]:  We do not know who is responsible. Why entire outposts on both sides have been carried off.</td></tr>
 
-  WORF
-     Everyone and everything is gone.
+<tr id="L376"><td><a href="#L376">376</a></td><td>PICARD:  I would like to offer a proposal.</td></tr>
 
-  RIKER
-     Captain, I strongly recommend that we go to Red
-     Alert. If the Romulans have improved their
-     cloaking device, and we'd be fools to believe they
-     haven't, we should assume a more defensive
-     posture.
+<tr id="L377"><td><a href="#L377">377</a></td><td>THEI [on viewscreen]:  An alliance? Between the Romulans and the Federation?</td></tr>
 
-  WORF
-     I agree, Captain. I recommend we go immediately to
-     battle stations.
+<tr id="L378"><td><a href="#L378">378</a></td><td>PICARD:  Nothing so grandiose. Just this. Cooperation. There was an intent here. Whoever or whatever did this is more powerful than either of us. Let's collaborate. Let's share whatever we learn about what has happened here.</td></tr>
 
-  PICARD
-     I appreciate your advice and concern, but this is
-     not the time for rash actions. We are still
-     investigating. There are three other stations in
-     this sector we have to visit. Let's proceed in a
-     calm and orderly manner.
+<tr id="L379"><td><a href="#L379">379</a></td><td>THEI [on viewscreen]:  Agreed. On this one issue. And only if it is convenient and appropriate at the time.</td></tr>
 
-  RIKER
-     If not battle stations, may we at least take the
-     ship to Yellow Alert?
+<tr id="L380"><td><a href="#L380">380</a></td><td>TEBOK [on viewscreen]:  Captain Picard, because your actions are those of a thoughtful man, I'll you this. Matters more urgent caused our absence. Now, witness the result. Outposts destroyed, expansion of the Federation everywhere. Yes, we have indeed been negligent, Captain. But no more.</td></tr>
 
-  PICARD
-     Yes, Number One. That would be prudent. Make it
-     so.
+<tr id="L381"><td><a href="#L381">381</a></td><td>PICARD:  Commander, we have made some progress here. Let's not ruin that with unnecessary posturing.</td></tr>
 
+<tr id="L382"><td><a href="#L382">382</a></td><td>TEBOK [on viewscreen]:  Your presence is not wanted. Do you understand my meaning, Captain? We are back.</td></tr>
 
-LOCATION--Corridor
+<tr id="L383"><td><a href="#L383">383</a></td><td>ANNOTATION: Transmission ends</td></tr>
 
-  ANNOTATION
-     Ralph is walking along, and notices a woman come
-     out of a turbolift. He goes in
+<tr id="L384"><td><a href="#L384">384</a></td><td>PICARD:  I think our lives just became a lot more complicated. Get him off my Bridge.</td></tr>
 
+<tr><td></td><td>LOCATION--Clare's quarters</td></tr>
+<tr id="L385"><td><a href="#L385">385</a></td><td>TROI:  I've found something. I have been able to locate a family living outside of Indianapolis. The man's name is Thomas Raymond.</td></tr>
 
-LOCATION--Turbolift
+<tr id="L386"><td><a href="#L386">386</a></td><td>CLARE:  That's my son's name. My son's name is Tommy.</td></tr>
 
-  RALPH
-     Ah, let's see. I want to go to the, er. Where
-     would the Captain be?
+<tr id="L387"><td><a href="#L387">387</a></td><td>TROI:  Computer, let us see Thomas Raymond.</td></tr>
 
-  COMPUTER
-     Captain Picard is located on the main Bridge.
+<tr id="L388"><td><a href="#L388">388</a></td><td>CLARE:  Oh, my God. That's Donald. That's my husband.</td></tr>
 
-  RALPH
-     Well then, take me to the main Bridge.
+<tr id="L389"><td><a href="#L389">389</a></td><td>TROI:  Actually, it's your great, great, great, great, great grandson.</td></tr>
 
+<tr id="L390"><td><a href="#L390">390</a></td><td>CLARE:  He's the spitting image.</td></tr>
 
-LOCATION--Bridge
+<tr id="L391"><td><a href="#L391">391</a></td><td>TROI:  Well, I have his address. When you get back to Earth, you can go and see him.</td></tr>
 
-  WORF
-     Captain, my sensors indicate a disturbance. It is
-     large and moving, but I cannot get a positive lock
-     nor can I get it on the viewscreen.
+<tr id="L392"><td><a href="#L392">392</a></td><td>CLARE:  No, I'll be out of time. A relic.</td></tr>
 
-  RIKER
-     Shields up.
+<tr id="L393"><td><a href="#L393">393</a></td><td>TROI:  Perhaps. But it's a place to start. After all, he is family.</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L394"><td><a href="#L394">394</a></td><td>CLARE:  There's no denying that.</td></tr>
 
-  RIKER
-     Captain, I recommend we transfer all power to
-     phasers, and arm the photon torpedoes.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L395"><td><a href="#L395">395</a></td><td>PICARD:  Here's what I propose. You can't stay on the Enterprise, but I have arranged for us to rendezvous with the USS Charleston, bound for Earth. They will deliver you there.</td></tr>
 
-  PICARD
-     Wait. If that is a Romulan ship, they will read
-     our intent. It'll force them into taking a similar
-     posture. We don't want to engage in battle.
+<tr id="L396"><td><a href="#L396">396</a></td><td>RALPH:  Then what will happen to us? There's no trace of my money. My office is gone. What will I do? How will I live?</td></tr>
 
-  RIKER
-     Captain, this is sufficient evidence. Outposts
-     have been destroyed. Countless lives have been
-     lost.
+<tr id="L397"><td><a href="#L397">397</a></td><td>PICARD:  This is the twenty fourth century. Material needs no longer exist.</td></tr>
 
-  WORF
-     I have a positive lock. They're disengaging their
-     cloaking device.
+<tr id="L398"><td><a href="#L398">398</a></td><td>RALPH:  Then what's the challenge?</td></tr>
 
-  RIKER
-     They'll only be vulnerable for an instant as they
-     become visible.
+<tr id="L399"><td><a href="#L399">399</a></td><td>PICARD:  The challenge, Mister Offenhouse, is to improve yourself. To enrich yourself. Enjoy it.</td></tr>
 
-  WORF
-     Captain, this may be our only chance.
+<tr id="L400"><td><a href="#L400">400</a></td><td>SONNY:  Well, one good thing is, since everybody's forgotten everything I ever did, it'll all be brand spanking new. I'll be a bigger hit than I ever was.</td></tr>
 
-  PICARD
-     No.
+<tr id="L401"><td><a href="#L401">401</a></td><td>PICARD:  Perhaps so. Anything is possible.</td></tr>
 
-  RIKER
-     Where are they?
+<tr id="L402"><td><a href="#L402">402</a></td><td>SONNY:  What say you, son. You'd make a hell of a sideman.</td></tr>
 
-  WORF
-     The signal is weakening.
+<tr id="L403"><td><a href="#L403">403</a></td><td>DATA:  That offer does present a certain fascination.</td></tr>
 
-  ANNOTATION
-     Ralph quietly enters the Bridge
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L404"><td><a href="#L404">404</a></td><td>LAFORGE:  Captain, I have plotted a course to intercept the Charleston, but they've just informed me that they'll be making an extended stop at Arloff Nine.</td></tr>
 
-  WORF
-     I've lost them.
+<tr id="L405"><td><a href="#L405">405</a></td><td>PICARD:  Your point, Mister La Forge?</td></tr>
 
-  PICARD
-     Damn. Mister Data, are your sensors picking up
-     anything? You should be detecting a disturbance.
+<tr id="L406"><td><a href="#L406">406</a></td><td>LAFORGE:  Well, at warp eight, we could have our guests at Starbase Thirty Nine Sierra in five days. Take months off their journey.</td></tr>
 
-  DATA
-     Negative, sir.
+<tr id="L407"><td><a href="#L407">407</a></td><td>PICARD:  But they'll benefit from the extended time. It will allow them to acclimate before returning to Earth.</td></tr>
 
-  LAFORGE
-     We wanted to know if they have improved the
-     cloaking device. Guess we have our answer.
+<tr id="L408"><td><a href="#L408">408</a></td><td>RIKER:  It's a pity we can't take them ourselves. Having them on board is like a visit from the past.</td></tr>
 
-  PICARD
-     (to Riker) They were trying to determine our
-     intent. They wanted to see if we would fire.
+<tr id="L409"><td><a href="#L409">409</a></td><td>PICARD:  That would take us in the wrong direction. Our mission is to go forward, and it's just begun. Set velocity. Warp six, Mister La Forge.</td></tr>
 
-  RALPH
-     Who the hell are they?
+<tr id="L410"><td><a href="#L410">410</a></td><td>LAFORGE:  Aye, sir. Warp six.</td></tr>
 
-  RIKER
-     Get that man off the Bridge, now.
+<tr id="L411"><td><a href="#L411">411</a></td><td>PICARD:  There's still much to do. Still so much to learn. Mister La Forge, engage.</td></tr>
 
-  RALPH
-     I'm not going anywhere.
-
-  WORF
-     Captain, they're back.
-
-  ANNOTATION
-     A big green warbird appears on the viewscreen
-
-  RIKER
-     Amazing. I never thought I would ever see a
-     Romulan ship. Not this close.
-
-  LAFORGE
-     The last time we encountered them was decades ago.
-     Cost thousands of lives.
-
-  RALPH
-     I can believe that.
-
-  PICARD
-     Stay calm, everyone. Open hailing frequencies.
-
-  WORF
-     Captain, these are Romulans. They are without
-     honour. They killed my parents in an attack on
-     Khitomer when they were supposed to be our allies.
-     They believe humans and Klingons are a waste of
-     skin.
-
-  PICARD
-     Lieutenant, control your emotions. Please, open
-     hailing frequencies.
-
-  WORF
-     Hailing frequencies open.
-
-  PICARD
-     Romulan vessel, this is Captain Jean-Luc Picard of
-     the USS Enterprise.
-
-  DATA
-     Sensors indicate all of their systems are armed,
-     sir.
-
-  PICARD
-     But they've not fired. Let's try them again.
-
-  ANNOTATION
-     Two seated Romulans appear, one relaxed and
-     sitting back, one leaning forward. The relaxed one
-     speaks
-
-  TEBOK [on viewscreen]
-     I am Commander Tebok.
-
-  PICARD
-     Commander, you have crossed the Neutral Zone. This
-     is Federation territory.
-
-  THEI [on viewscreen]
-     It was necessary.
-
-  PICARD
-     It might be viewed as an act of aggression.
-
-  THEI [on viewscreen]
-     If our intent were aggression, you would not be
-     here now.
-
-  TEBOK [On viewscreen]
-     If we go to war, let us be sure it is for the
-     right reason. We are here because our outposts,
-     which border the Neutral Zone, were also attacked.
-
-  THEI [on viewscreen]
-     Destroyed in the exact same manner as your own.
-
-  WORF
-     Even so, what gives them the right to enter
-     Federation space?
-
-  TEBOK [on viewscreen]
-     Silence your dog, Captain.
-
-  PICARD
-     Lieutenant Worf's question is valid.
-
-  THEI [on viewscreen]
-     To even to ask such a question implies that we
-     need permission. We do not.
-
-  PICARD
-     Do you think that we attacked your outposts?
-
-  TEBOK [on viewscreen]
-     Once we realised the level of destruction, we knew
-     it could not have been you.
-
-  PICARD
-     Who is responsible?
-
-  RALPH
-     They haven't got a clue. They're hoping you know,
-     but they're too arrogant to ask.
-
-  RIKER
-     You're out of line, Mister.
-
-  PICARD
-     Yes, but it's a correct assessment.
-
-  TEBOK [on viewscreen]
-     We do not know who is responsible. Why entire
-     outposts on both sides have been carried off.
-
-  PICARD
-     I would like to offer a proposal.
-
-  THEI [on viewscreen]
-     An alliance? Between the Romulans and the
-     Federation?
-
-  PICARD
-     Nothing so grandiose. Just this. Cooperation.
-     There was an intent here. Whoever or whatever did
-     this is more powerful than either of us. Let's
-     collaborate. Let's share whatever we learn about
-     what has happened here.
-
-  THEI [on viewscreen]
-     Agreed. On this one issue. And only if it is
-     convenient and appropriate at the time.
-
-  TEBOK [on viewscreen]
-     Captain Picard, because your actions are those of
-     a thoughtful man, I'll you this. Matters more
-     urgent caused our absence. Now, witness the
-     result. Outposts destroyed, expansion of the
-     Federation everywhere. Yes, we have indeed been
-     negligent, Captain. But no more.
-
-  PICARD
-     Commander, we have made some progress here. Let's
-     not ruin that with unnecessary posturing.
-
-  TEBOK [on viewscreen]
-     Your presence is not wanted. Do you understand my
-     meaning, Captain? We are back.
-
-  ANNOTATION
-     Transmission ends
-
-  PICARD
-     I think our lives just became a lot more
-     complicated. Get him off my Bridge.
-
-
-LOCATION--Clare's quarters
-
-  TROI
-     I've found something. I have been able to locate a
-     family living outside of Indianapolis. The man's
-     name is Thomas Raymond.
-
-  CLARE
-     That's my son's name. My son's name is Tommy.
-
-  TROI
-     Computer, let us see Thomas Raymond.
-
-  CLARE
-     Oh, my God. That's Donald. That's my husband.
-
-  TROI
-     Actually, it's your great, great, great, great,
-     great grandson.
-
-  CLARE
-     He's the spitting image.
-
-  TROI
-     Well, I have his address. When you get back to
-     Earth, you can go and see him.
-
-  CLARE
-     No, I'll be out of time. A relic.
-
-  TROI
-     Perhaps. But it's a place to start. After all, he
-     is family.
-
-  CLARE
-     There's no denying that.
-
-
-LOCATION--Observation lounge
-
-  PICARD
-     Here's what I propose. You can't stay on the
-     Enterprise, but I have arranged for us to
-     rendezvous with the USS Charleston, bound for
-     Earth. They will deliver you there.
-
-  RALPH
-     Then what will happen to us? There's no trace of
-     my money. My office is gone. What will I do? How
-     will I live?
-
-  PICARD
-     This is the twenty fourth century. Material needs
-     no longer exist.
-
-  RALPH
-     Then what's the challenge?
-
-  PICARD
-     The challenge, Mister Offenhouse, is to improve
-     yourself. To enrich yourself. Enjoy it.
-
-  SONNY
-     Well, one good thing is, since everybody's
-     forgotten everything I ever did, it'll all be
-     brand spanking new. I'll be a bigger hit than I
-     ever was.
-
-  PICARD
-     Perhaps so. Anything is possible.
-
-  SONNY
-     What say you, son. You'd make a hell of a sideman.
-
-  DATA
-     That offer does present a certain fascination.
-
-
-LOCATION--Bridge
-
-  LAFORGE
-     Captain, I have plotted a course to intercept the
-     Charleston, but they've just informed me that
-     they'll be making an extended stop at Arloff Nine.
-
-  PICARD
-     Your point, Mister La Forge?
-
-  LAFORGE
-     Well, at warp eight, we could have our guests at
-     Starbase Thirty Nine Sierra in five days. Take
-     months off their journey.
-
-  PICARD
-     But they'll benefit from the extended time. It
-     will allow them to acclimate before returning to
-     Earth.
-
-  RIKER
-     It's a pity we can't take them ourselves. Having
-     them on board is like a visit from the past.
-
-  PICARD
-     That would take us in the wrong direction. Our
-     mission is to go forward, and it's just begun. Set
-     velocity. Warp six, Mister La Forge.
-
-  LAFORGE
-     Aye, sir. Warp six.
-
-  PICARD
-     There's still much to do. Still so much to learn.
-     Mister La Forge, engage.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

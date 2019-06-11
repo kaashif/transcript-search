@@ -1,1281 +1,594 @@
-The Omega Glory
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Omega Glory</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>SULU:  Approaching planet Omega Four, sir. Object ahead. Another vessel in planet orbit, Captain.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>KIRK:  Lieutenant, sound alert.</td></tr>
 
-  SULU
-     Approaching planet Omega Four, sir. Object ahead.
-     Another vessel in planet orbit, Captain.
+<tr id="L3"><td><a href="#L3">3</a></td><td>UHURA:  Aye, sir. All decks report ready, sir.</td></tr>
 
-  KIRK
-     Lieutenant, sound alert.
+<tr id="L4"><td><a href="#L4">4</a></td><td>KIRK:  Long range sensor scan, Mister Sulu.</td></tr>
 
-  UHURA
-     Aye, sir. All decks report ready, sir.
+<tr id="L5"><td><a href="#L5">5</a></td><td>SULU:  It's the USS Exeter, sir.</td></tr>
 
-  KIRK
-     Long range sensor scan, Mister Sulu.
+<tr id="L6"><td><a href="#L6">6</a></td><td>KIRK:  Try to contact her, Lieutenant.</td></tr>
 
-  SULU
-     It's the USS Exeter, sir.
+<tr id="L7"><td><a href="#L7">7</a></td><td>UHURA:  Aye, sir.</td></tr>
 
-  KIRK
-     Try to contact her, Lieutenant.
+<tr id="L8"><td><a href="#L8">8</a></td><td>KIRK:  The Exeter. she was patrolling in this area six months ago. I hadn't heard of any trouble.</td></tr>
 
-  UHURA
-     Aye, sir.
+<tr id="L9"><td><a href="#L9">9</a></td><td>UHURA:  Receiving no response to our signal, sir.</td></tr>
 
-  KIRK
-     The Exeter. she was patrolling in this area six
-     months ago. I hadn't heard of any trouble.
+<tr id="L10"><td><a href="#L10">10</a></td><td>SULU:  The sensors indicate no damage to the vessel, Captain.</td></tr>
 
-  UHURA
-     Receiving no response to our signal, sir.
+<tr id="L11"><td><a href="#L11">11</a></td><td>KIRK:  I see. Magnification factor three, Mister Sulu.</td></tr>
 
-  SULU
-     The sensors indicate no damage to the vessel,
-     Captain.
+<tr id="L12"><td><a href="#L12">12</a></td><td>ANNOTATION: The viewscreen shows a sister ship to the Enterprise orbiting the purple planet.</td></tr>
 
-  KIRK
-     I see. Magnification factor three, Mister Sulu.
+<tr id="L13"><td><a href="#L13">13</a></td><td>KIRK:  Hold our position out here, Mister Sulu. Lieutenant, have Mister Spock, Doctor McCoy, and Lieutenant Galloway report to the transporter room. We'll board and investigate.</td></tr>
 
-  ANNOTATION
-     The viewscreen shows a sister ship to the
-     Enterprise orbiting the purple planet.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L14"><td><a href="#L14">14</a></td><td>SPOCK:  We're locked onto the Exeter's engineering section, Captain.</td></tr>
 
-  KIRK
-     Hold our position out here, Mister Sulu.
-     Lieutenant, have Mister Spock, Doctor McCoy, and
-     Lieutenant Galloway report to the transporter
-     room. We'll board and investigate.
+<tr id="L15"><td><a href="#L15">15</a></td><td>KIRK:  Phasers on heavy stun. Energise.</td></tr>
 
+<tr><td></td><td>LOCATION--Exeter Engineering</td></tr>
+<tr id="L16"><td><a href="#L16">16</a></td><td>ANNOTATION: It's dark and quiet.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L17"><td><a href="#L17">17</a></td><td>SPOCK:  Captain.</td></tr>
 
-  SPOCK
-     We're locked onto the Exeter's engineering
-     section, Captain.
+<tr id="L18"><td><a href="#L18">18</a></td><td>ANNOTATION: There's a red jacket draped across a console, with white crystals scattered in and around it.</td></tr>
 
-  KIRK
-     Phasers on heavy stun. Energise.
+<tr id="L19"><td><a href="#L19">19</a></td><td>KIRK:  Just their uniforms left.</td></tr>
 
+<tr id="L20"><td><a href="#L20">20</a></td><td>SPOCK:  As if they were in them when</td></tr>
 
-LOCATION--Exeter Engineering
+<tr id="L21"><td><a href="#L21">21</a></td><td>KIRK:  Exactly. When what?</td></tr>
 
-  ANNOTATION
-     It's dark and quiet.
+<tr id="L22"><td><a href="#L22">22</a></td><td>ANNOTATION: McCoy scans the white crystals.</td></tr>
 
-  SPOCK
-     Captain.
+<tr id="L23"><td><a href="#L23">23</a></td><td>KIRK:  This is Captain Kirk of the USS Enterprise. Is anyone on board? If there is, and you can hear me, please respond by intercom to the engineering section. Is there anyone on board?</td></tr>
 
-  ANNOTATION
-     There's a red jacket draped across a console, with
-     white crystals scattered in and around it.
+<tr id="L24"><td><a href="#L24">24</a></td><td>SPOCK [OC]:  Spock here, Captain.</td></tr>
 
-  KIRK
-     Just their uniforms left.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L25"><td><a href="#L25">25</a></td><td>SPOCK:  Lieutenant Galloway and I are checking out the lower levels. There seems to be no one aboard. Only uniforms.</td></tr>
 
-  SPOCK
-     As if they were in them when
+<tr><td></td><td>LOCATION--Exeter Engineering</td></tr>
+<tr id="L26"><td><a href="#L26">26</a></td><td>KIRK:  What about the shuttlecraft?</td></tr>
 
-  KIRK
-     Exactly. When what?
+<tr id="L27"><td><a href="#L27">27</a></td><td>GALLOWAY [OC]:  Galloway on the hangar deck, sir. All four of the craft are still here. If they left, they didn't leave that way.</td></tr>
 
-  ANNOTATION
-     McCoy scans the white crystals.
+<tr id="L28"><td><a href="#L28">28</a></td><td>KIRK:  Doctor McCoy and I are going to the Bridge. Meet us there.</td></tr>
 
-  KIRK
-     This is Captain Kirk of the USS Enterprise. Is
-     anyone on board? If there is, and you can hear me,
-     please respond by intercom to the engineering
-     section. Is there anyone on board?
+<tr id="L29"><td><a href="#L29">29</a></td><td>SOMEONE: Captain's log. Aboard the USS Exeter commanded by Ron Tracey, one of the most experienced captains in the Starfleet. What could have happened to him and the over four hundred men and women who were on this ship?</td></tr>
 
-  SPOCK [OC]
-     Spock here, Captain.
+<tr><td></td><td>LOCATION--Exeter Bridge</td></tr>
+<tr id="L30"><td><a href="#L30">30</a></td><td>GALLOWAY:  The helm was left on automatic, sir.</td></tr>
 
+<tr id="L31"><td><a href="#L31">31</a></td><td>SPOCK:  Fascinating.</td></tr>
 
-LOCATION--Corridor
+<tr id="L32"><td><a href="#L32">32</a></td><td>KIRK:  Spock, play the last log tape. Maybe they had time to record what happened to them.</td></tr>
 
-  SPOCK
-     Lieutenant Galloway and I are checking out the
-     lower levels. There seems to be no one aboard.
-     Only uniforms.
+<tr id="L33"><td><a href="#L33">33</a></td><td>SPOCK:  Aye, sir.</td></tr>
 
+<tr id="L34"><td><a href="#L34">34</a></td><td>MCCOY:  Jim, the analysis of this so far is potassium thirty five percent, carbon eighteen percent, phosphorous one point zero, calcium one point five. Jim, the crew didn't leave. They're still here.</td></tr>
 
-LOCATION--Exeter Engineering
+<tr id="L35"><td><a href="#L35">35</a></td><td>KIRK:  What do you mean?</td></tr>
 
-  KIRK
-     What about the shuttlecraft?
+<tr id="L36"><td><a href="#L36">36</a></td><td>MCCOY:  These white crystals. That's what's left of the human body when you take the water away, which makes up ninety six percent of our bodies. Without water, we're all just three or four pounds of chemicals. Something crystallised them down to this.</td></tr>
 
-  GALLOWAY [OC]
-     Galloway on the hangar deck, sir. All four of the
-     craft are still here. If they left, they didn't
-     leave that way.
+<tr id="L37"><td><a href="#L37">37</a></td><td>SPOCK:  I have their surgeon's log, Captain. Their last log entry, Captain, on screen.</td></tr>
 
-  KIRK
-     Doctor McCoy and I are going to the Bridge. Meet
-     us there.
+<tr id="L38"><td><a href="#L38">38</a></td><td>ANNOTATION: A man in a blue shirt is struggling to try and sit up in the Captains chair and dictate the log.</td></tr>
 
-  SOMEONE
-     Captain's log. Aboard the USS Exeter commanded by
-     Ron Tracey, one of the most experienced captains
-     in the Starfleet. What could have happened to him
-     and the over four hundred men and women who were
-     on this ship?
+<tr id="L39"><td><a href="#L39">39</a></td><td>DOCTOR [on viewscreen]:  If you've come aboard this ship, you're dead men. Don't go back to your own ship. You have one chance. Get down there. Get down there fast. Captain Tracey is (screams and falls out of view.)</td></tr>
 
+<tr id="L40"><td><a href="#L40">40</a></td><td>KIRK:  Prepare to beam down to the planet surface fast.</td></tr>
 
-LOCATION--Exeter Bridge
+<tr id="L41"><td><a href="#L41">41</a></td><td>ANNOTATION: He turns and looks down at the blue uniform lying on the floor where they saw the doctor fall.</td></tr>
 
-  GALLOWAY
-     The helm was left on automatic, sir.
-
-  SPOCK
-     Fascinating.
-
-  KIRK
-     Spock, play the last log tape. Maybe they had time
-     to record what happened to them.
-
-  SPOCK
-     Aye, sir.
-
-  MCCOY
-     Jim, the analysis of this so far is potassium
-     thirty five percent, carbon eighteen percent,
-     phosphorous one point zero, calcium one point
-     five. Jim, the crew didn't leave. They're still
-     here.
-
-  KIRK
-     What do you mean?
-
-  MCCOY
-     These white crystals. That's what's left of the
-     human body when you take the water away, which
-     makes up ninety six percent of our bodies. Without
-     water, we're all just three or four pounds of
-     chemicals. Something crystallised them down to
-     this.
-
-  SPOCK
-     I have their surgeon's log, Captain. Their last
-     log entry, Captain, on screen.
-
-  ANNOTATION
-     A man in a blue shirt is struggling to try and sit
-     up in the Captains chair and dictate the log.
-
-  DOCTOR [on viewscreen]
-     If you've come aboard this ship, you're dead men.
-     Don't go back to your own ship. You have one
-     chance. Get down there. Get down there fast.
-     Captain Tracey is (screams and falls out of view.)
-
-  KIRK
-     Prepare to beam down to the planet surface fast.
-
-  ANNOTATION
-     He turns and looks down at the blue uniform lying
-     on the floor where they saw the doctor fall.
-
-
-LOCATION--Village
-
-  ANNOTATION
-     The four beam into a place with wooden
-     construction, fabric hangings on walls, and a
-     beheading about to take place in the main square.
-     It takes three villagers to try and restrain the
-     big man they want to kill, and two to hold the
-     woman who will follow him. Then someone sees the
-     new arrivals.
+<tr><td></td><td>LOCATION--Village</td></tr>
+<tr id="L42"><td><a href="#L42">42</a></td><td>ANNOTATION: The four beam into a place with wooden construction, fabric hangings on walls, and a beheading about to take place in the main square. It takes three villagers to try and restrain the big man they want to kill, and two to hold the woman who will follow him. Then someone sees the new arrivals.</td></tr>
 
-  VOICE
-     Oi! O1!
-
-  TRACEY
-     Put the axe away, Liyang.
-
-  KIRK
-     That's Ron Tracey. Ron.
+<tr id="L43"><td><a href="#L43">43</a></td><td>VOICE:  Oi! O1!</td></tr>
 
-  TRACEY
-     I knew someone would come looking for us. I'm just
-     sorry it had to be you, Jim. I'm glad your arrival
-     stopped this. No more of this, Wu. Lock up the
-     savages.
-
-  WU
-     They carry fire boxes.
-
-  TRACEY
-     I said lock up the savages. The prisoners are
-     called Yangs. Impossible even to communicate with.
-     Hordes of them out there. They'll attack anything
-     that moves.
-
-  SPOCK
-     Interesting that the villagers know about phasers.
-
-  KIRK
-     You were left alone down here, Ron. What happened?
-
-  TRACEY
-     Our medi-scanners revealed this planet as
-     perfectly harmless. The villagers, the Kohms here,
-     were friendly enough once they got over the shock
-     of my white skin. As you've seen, we resemble the
-     Yangs, the savages. My landing party transported
-     back to the ship. I stayed down here to arrange
-     for the planet survey with the village elders. The
-     next thing I knew, the ship was calling me. The
-     landing party had taken an unknown disease back.
-     My crew, Jim. My entire crew. Gone.
-
-  KIRK
-     Yes, I know. We saw it.
-
-  TRACEY
-     And I'm just as infected as they were. As you are.
-     But I stayed alive because I stayed down here.
-     There's some natural immunisation that protects
-     everyone on the planet surface. I don't know what
-     it is.
-
-  MCCOY
-     : Lucky we found that log. If we'd gone back to
-     the Enterprise.
-
-  TRACEY
-     You'd be dying by now, along with the rest of the
-     Enterprise crew. You'll stay alive only as long as
-     you stay here. None of us will ever leave this
-     planet.
-
-  SOMEONE
-     Captain's log, supplemental. The Enterprise has
-     left the Exeter and moved into close planet orbit.
-     Although it appears the infection may strand us
-     here the rest of our lives, I face an even more
-     difficult problem. A growing belief that Captain
-     Tracey has been interfering with the evolution of
-     life on this planet. It seems impossible. A star
-     captain's most solemn oath is that he will give
-     his life, even his entire crew, rather than
-     violate the Prime Directive.
-
-
-LOCATION--Storeroom
-
-  ANNOTATION
-     Some equipment has been beamed down to the surface
-     for medical tests.
-
-  MCCOY
-     Tell the lab the final reading on our tissue is Y
-     three X point zero zero four. And I could use a
-     second blood analyser unit.
-
-
-LOCATION--Bridge
-
-  UHURA
-     We'll beam it down shortly, Doctor.
-
-
-LOCATION--Storeroom
-
-  UHURA [OC]
-     Enterprise out.
-
-  MCCOY
-     Our tissues definitely show a massive infection,
-     Jim, but something is immunising us down here,
-     thank heavens, or we'd have been dead hours ago.
-
-  KIRK
-     I don't think we're going to have time to isolate
-     it, Bones.
-
-  MCCOY
-     The problem is, it could be anything Some spores
-     or pollen in the air, some chemical. Just finding
-     it could take months, maybe even years. And I've
-     only got one lead. The infection resembles one
-     developed by Earth during their bacteriological
-     warfare experiments in the 1990s. Hard to believe
-     we were once foolish enough to play around with
-     that.
-
-  ANNOTATION
-     Spock bursts in, helping an injured Galloway who
-     is clutching his chest.
-
-  SPOCK
-     A Yang lance, Doctor.
-
-  KIRK
-     Are you all right?
-
-  SPOCK
-     Bruised only. We were approximately one hundred
-     metres from the village when five of the savages
-     ambushed us. We managed to escape without firing.
-
-  KIRK
-     Spock, do you see any hope that these Yangs can be
-     reasoned with? A truce, a parley, a
-
-  GALLOWAY
-     No, Captain. They're too wild. They act almost
-     insane.
-
-  SPOCK
-     Captain Tracey is being quite factual in several
-     statements. One, the Yangs are totally
-     contemptuous of death. They seem incredibly
-     vicious. Two, he is also being factual in that the
-     Yangs are massing for an attack. There are signs
-     of thousands of them in the foothills beyond.
-     However, he was less than truthful in one very
-     important matter.
-
-  KIRK
-     Phaser power packs.
+<tr id="L44"><td><a href="#L44">44</a></td><td>TRACEY:  Put the axe away, Liyang.</td></tr>
 
-  SPOCK
-     Captain Tracey's reserve belt packs. Empty. Found
-     among the remains of several hundred Yang bodies.
+<tr id="L45"><td><a href="#L45">45</a></td><td>KIRK:  That's Ron Tracey. Ron.</td></tr>
 
-  KIRK
-     The fool.
+<tr id="L46"><td><a href="#L46">46</a></td><td>TRACEY:  I knew someone would come looking for us. I'm just sorry it had to be you, Jim. I'm glad your arrival stopped this. No more of this, Wu. Lock up the savages.</td></tr>
 
-  SPOCK
-     A smaller attack on this village a week ago,
-     driven off by Captain Tracey with his phaser. I
-     have found villagers who will corroborate it.
+<tr id="L47"><td><a href="#L47">47</a></td><td>WU:  They carry fire boxes.</td></tr>
 
-  MCCOY
-     Now wait a minute. He lost his ship and his crew,
-     and he found himself the only thing standing
-     between an entire village of peaceful people.
-
-  SPOCK
-     Regulations are quite harsh, but they're also
-     quite clear, Captain. If you do not act, you will
-     be considered equally guilty.
+<tr id="L48"><td><a href="#L48">48</a></td><td>TRACEY:  I said lock up the savages. The prisoners are called Yangs. Impossible even to communicate with. Hordes of them out there. They'll attack anything that moves.</td></tr>
 
-  MCCOY
-     Without a serum, we're trapped here with the
-     villagers. Now why destroy what's left of the man
-     by arresting him?
+<tr id="L49"><td><a href="#L49">49</a></td><td>SPOCK:  Interesting that the villagers know about phasers.</td></tr>
 
-  SPOCK
-     I agree that formal charges have little meaning
-     now. However, you must at least confiscate his
-     phaser.
+<tr id="L50"><td><a href="#L50">50</a></td><td>KIRK:  You were left alone down here, Ron. What happened?</td></tr>
 
-  KIRK
-     The fool. Starfleet should be made aware.
-
-  ANNOTATION
-     Kirk gets out his communicator, and Tracey enters,
-     phaser ready, and backed up by villagers.
-
-  TRACEY
-     I'll be sending the next message, Jim.
-
-  ANNOTATION
-     The injured Galloway tries to reach for his own
-     phaser, and Tracey vapourises him. Then the
-     villagers take everyones equipment.
-
-  TRACEY
-     Enterprise, come in.
-
-  UHURA [OC]
-     Enterprise bridge. Lieutenant Uhura.
-
-  TRACEY
-     Captain Tracey of the Exeter.
-
-  UHURA
-     Yes, sir. Captain Kirk informed us earlier you had
-     survived.
-
-  TRACEY
-     I'm afraid I have some bad news. Your captain and
-     landing party must have beamed down too late for
-     full immunisation.
-
-
-LOCATION--Bridge
-
-  TRACEY [OC]
-     They've been found unconscious, but I'm doing
-     everything I can for them now.
-
-  SULU
-     Sir, this is Lieutenant Sulu in temporary command
-     of the Enterprise.
-
-
-LOCATION--Storeroom
-
-  SULU [OC]
-     Our whole medical staff will volunteer to beam
-     down
-
-  TRACEY
-     There's no point in risking more lives,
-     Lieutenant. Since I've acquired some immunity
-     perhaps the others
-
-  KIRK
-     Sulu!
-
-  ANNOTATION
-     Wu hits him, hard.
-
-  TRACEY
-     At their next word, kill him.
-
-  SULU [OC]
-     Repeat your message. Come in, landing party.
-     Repeat your message.
-
-  TRACEY
-     I'm sorry, Lieutenant. Your captain's feverish,
-     quite delirious.
-
-  SULU [OC]
-     I understand, sir. When he regains consciousness,
-     assure him that we have no problems here.
-
-  TRACEY
-     I'll contact you later, let you know of any future
-     needs. Landing party out.
-
-  ANNOTATION
-     Later, Kirk is still lying on the floor, with his
-     hands tied behind him. He still manages to trip up
-     the pacing guard, but then Tracey comes in.
-
-  TRACEY
-     That's enough of that, Captain. Leave us.
-
-  ANNOTATION
-     The guard leaves.
-
-  KIRK
-     Captain Ronald Tracey, as per Starfleet Command,
-     regulation seven, paragraph four
-
-  TRACEY
-     I must now consider myself under arrest, unless in
-     the presence of the most senior fellow officers
-     presently available, I give satisfactory answer to
-     those charges which you now bring. Et cetera, et
-     cetera. Those were the first words duty required
-     you to say to me, and you said them. You're
-     covered. Now, suppose we go on to the next
-     subject.
-
-  KIRK
-     Which is, why?
-
-  ANNOTATION
-     Meanwhile he is quietly loosening the leather
-     thongs around his wrists.
-
-  TRACEY
-     Good. Direct, succinct. Answer. No native to this
-     planet has ever had any trace of any kind of
-     disease. How long would a man live if all disease
-     were erased, Jim? Wu. (Wu enters) Tell Captain
-     Kirk your age.
-
-  WU
-     Age? I have seen forty two years of the red bird.
-     My eldest brother
-
-  TRACEY
-     Their year of the red bird comes once every eleven
-     years, which he's seen forty two times. Multiply
-     it. Wu is four hundred and sixty two years old.
-     His father is well over a thousand. Interested,
-     Jim?
-
-  KIRK
-     McCoy could verify all that.
-
-  TRACEY
-     He will if you order it. We must have a doctor
-     researching this. Are you grasping all it means?
-     This immunising agent here, once we've found it,
-     is a fountain of youth. Virtual immortality, or as
-     much as any man will ever want.
-
-  KIRK
-     For sale by
-
-  TRACEY
-     (to Wu) Out. (Wu leaves) By those who own the
-     serum. McCoy will eventually isolate it.
-     Meanwhile, you inform your ship your situation's
-     impossible. Order them away. When we're ready,
-     we'll bargain for a whole fleet of ships to pick
-     us up. And they'll do it.
-
-  KIRK
-     Yes, I suppose they would.
-
-  TRACEY
-     We've got to stay alive. Let the Yangs kill us and
-     destroy what we have to offer and we'll have
-     committed a crime against all humanity. I'd say
-     that's slightly more important than the Prime
-     Directive, wouldn't you, Jim?
-
-  KIRK
-     It's a very interesting proposition. Let me think
-     it over.
-
-  ANNOTATION
-     He's got his hands free, so now the two Captains
-     get to fight. Tracey wins.
-
-  TRACEY
-     Guards.
-
-
-LOCATION--Jailhouse
-
-  ANNOTATION
-     The Yang man and woman are in one cell, Spock and
-     McCoy in another, when Tracey brings in Kirk at
-     gunpoint.
-
-  TRACEY
-     Take the doctor back to his workplace. The
-     pointed-eared one stays. And Wu, tell your men
-     we'll be leaving soon. We'll be in ambush for the
-     Yangs. With many fire boxes this time. What do you
-     think of that, Jim?
-
-  ANNOTATION
-     Kirk moves towards the Yangs, but the male tries
-     to attack him through the bars.
-
-  TRACEY
-     Animals who happen to look like us. You still
-     think the Prime Directive's for this planet?
-
-  KIRK
-     I don't think we have the right or the wisdom to
-     interfere, however a planet is evolving.
-
-  TRACEY
-     Well, if logic won't work, perhaps this will. Put
-     him in there.
-
-  ANNOTATION
-     The guards use spears to keep the Yangs from the
-     door while they push Kirk inside. Of course, there
-     is a fight.
-
-  ANNOTATION
-     In the storeroom, McCoy notices that his guard has
-     fallen asleep - the snoring is a clue - and tries
-     to reach for a possible weapon. But the guard
-     wakes up and stops him.
-
-  ANNOTATION
-     In the jail cell, the two Yangs are taking it in
-     turns to keep Kirk busy.
-
-  KIRK
-     Don't they ever rest?
-
-  SPOCK
-     Not that I have observed, Captain. Of course,
-     should they wish to do so, one could always rest
-     while the other keeps you occupied.
-
-  KIRK
-     Thank you, Spock. (grabs the woman to use her as a
-     shield, but she bites his hand.) At least tell me
-     why you want to kill me.
-
-  SPOCK
-     Good, Captain. Try to reason with them. Keep
-     trying, Captain. Their behaviour is highly
-     illogical.
-
-  KIRK
-     No point in repeating that it's illogical, Spock.
-     I'm quite aware of it.
-
-  ANNOTATION
-     The woman is finally within reach of Spock's neck
-     pinch, and down she goes. The male is astonished,
-     and goes to protect her rather than keep fighting.
-
-  KIRK
-     Pity you can't teach me that.
-
-  SPOCK
-     I have tried, Captain.
+<tr id="L51"><td><a href="#L51">51</a></td><td>TRACEY:  Our medi-scanners revealed this planet as perfectly harmless. The villagers, the Kohms here, were friendly enough once they got over the shock of my white skin. As you've seen, we resemble the Yangs, the savages. My landing party transported back to the ship. I stayed down here to arrange for the planet survey with the village elders. The next thing I knew, the ship was calling me. The landing party had taken an unknown disease back. My crew, Jim. My entire crew. Gone.</td></tr>
 
-  SOMEONE
-     {Storeroom]
+<tr id="L52"><td><a href="#L52">52</a></td><td>KIRK:  Yes, I know. We saw it.</td></tr>
 
-  ANNOTATION
-     A young Kohm woman brings McCoy a plate of food.
+<tr id="L53"><td><a href="#L53">53</a></td><td>TRACEY:  And I'm just as infected as they were. As you are. But I stayed alive because I stayed down here. There's some natural immunisation that protects everyone on the planet surface. I don't know what it is.</td></tr>
 
-  MCCOY
-     Oh, thank you. Thank you very much.
+<tr id="L54"><td><a href="#L54">54</a></td><td>MCCOY: : Lucky we found that log. If we'd gone back to the Enterprise.</td></tr>
 
+<tr id="L55"><td><a href="#L55">55</a></td><td>TRACEY:  You'd be dying by now, along with the rest of the Enterprise crew. You'll stay alive only as long as you stay here. None of us will ever leave this planet.</td></tr>
 
-LOCATION--Jailhouse
+<tr id="L56"><td><a href="#L56">56</a></td><td>SOMEONE: Captain's log, supplemental. The Enterprise has left the Exeter and moved into close planet orbit. Although it appears the infection may strand us here the rest of our lives, I face an even more difficult problem. A growing belief that Captain Tracey has been interfering with the evolution of life on this planet. It seems impossible. A star captain's most solemn oath is that he will give his life, even his entire crew, rather than violate the Prime Directive.</td></tr>
 
-  SPOCK
-     Captain, I have managed to loosen this grill
-     somewhat. If the mortar on yours is as old.
+<tr><td></td><td>LOCATION--Storeroom</td></tr>
+<tr id="L57"><td><a href="#L57">57</a></td><td>ANNOTATION: Some equipment has been beamed down to the surface for medical tests.</td></tr>
 
-  KIRK
-     I can't even get at it. He'd be on me in a moment.
-     (the woman is awake again) Keep talking, Spock.
-     Don't let me doze off.
-
-  SPOCK
-     Captain Tracey mentioned there was once a
-     considerable civilisation here. The only
-     reasonable explanation would be a war. Nuclear
-     devastation or a bacteriological holocaust.
+<tr id="L58"><td><a href="#L58">58</a></td><td>MCCOY:  Tell the lab the final reading on our tissue is Y three X point zero zero four. And I could use a second blood analyser unit.</td></tr>
 
-  KIRK
-     That's a very interesting theory. The yellow
-     civilisation is almost destroyed, the white
-     civilisation is destroyed. Keep working on the
-     window if we're ever going to regain our freedom.
-
-  CLOUD
-     (The male Yang, with a very deep voice.) Freedom?
-     Freedom?
-
-  KIRK
-     Spock.
-
-  SPOCK
-     Yes, I heard, Captain.
-
-  CLOUD
-     That is a worship word. Yang worship. You will not
-     speak it.
-
-  KIRK
-     Well, well, well. It is our worship word, too.
-
-  CLOUD
-     You live with the Kohms.
-
-  KIRK
-     Am I not now a prisoner of the Kohms as you are?
-
-  ANNOTATION
-     Kirk gets to the barred window and starts working
-     on it. Cloud William helps him.
-
-  KIRK
-     Why did you not speak until now?
-
-  CLOUD
-     You spoke to Kohms. They are only for killing.
-
-  ANNOTATION
-     They get a bar free, Kirk turns around.
-
-  KIRK
-     Spock, we'll have you out in a minute.
-
-  ANNOTATION
-     Cloud William knocks Kirk out with the iron bar,
-     them rips the others out of the window to make his
-     escape.
-
-  SPOCK
-     Captain? Captain? Captain, are you able to
-     respond?
-
-  ANNOTATION
-     Later, when Kirk has regained consciousness.
-
-  KIRK
-     Spock. How long?
-
-  SPOCK
-     Seven hours and eight minutes, Captain.
-
-  KIRK
-     Seven hours and eight. Spock. Keys. (on a table)
-     I'll have you out in a minute.
-
-
-LOCATION--Storeroom
-
-  ANNOTATION
-     There is a scraping noise outside. When the guard
-     investigates, he is overpowered by Kirk and Spock.
-
-  MCCOY
-     Good morning, Jim.
-
-  KIRK
-     Good morning.
-
-  SPOCK
-     We can contact the ship in a few moments, Captain,
-     if I can cross-circuit this unit.
-
-  KIRK
-     Good. Did you find out anything?
-
-  MCCOY
-     Yes. I'm convinced that once there was a
-     frightening biological war that existed here. The
-     virus still exists. Then over the years, nature
-     built up these natural immunising agents in the
-     food, the water, and the soil.
-
-  SPOCK
-     War created an imbalance and nature
-     counterbalanced it.
-
-  KIRK
-     There is a disease here, something that affected
-     the Exeter landing party and us.
-
-  MCCOY
-     That's right. These immunising agents take time,
-     and that's the real tragedy. Had the Exeter
-     landing party stayed here just a few hours longer,
-     they never would have died.
-
-  KIRK
-     Then we can leave any time we want to. Tracey is
-     of the opinion these immunising agents can become
-     a fountain of youth. There are people here over a
-     thousand years old, Bones.
-
-  MCCOY
-     Survival of the fittest, because their ancestors
-     who survived had to have a superior resistance.
-     Then they built up these powerful protective
-     antibodies in the blood during the wars. Now, if
-     you want to destroy a civilisation or a whole
-     world, your descendants might develop a longer
-     life, but I hardly think it's worth it.
-
-  KIRK
-     Then anything you develop here as a result of all
-     this is useless.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L59"><td><a href="#L59">59</a></td><td>UHURA:  We'll beam it down shortly, Doctor.</td></tr>
 
-  MCCOY
-     Who knows? It might eventually cure the common
-     cold, but lengthen lives? Poppycock. I can do more
-     for you if you just eat right and exercise
-     regularly.
+<tr><td></td><td>LOCATION--Storeroom</td></tr>
+<tr id="L60"><td><a href="#L60">60</a></td><td>UHURA [OC]:  Enterprise out.</td></tr>
 
-  SPOCK
-     Ready, Captain. Quite crude. Voice communication
-     will not be possible, but we can signal the ship.
+<tr id="L61"><td><a href="#L61">61</a></td><td>MCCOY:  Our tissues definitely show a massive infection, Jim, but something is immunising us down here, thank heavens, or we'd have been dead hours ago.</td></tr>
 
-  KIRK
-     All that bloodshed for nothing. That'll be
-     sufficient, Mister Spock.
+<tr id="L62"><td><a href="#L62">62</a></td><td>KIRK:  I don't think we're going to have time to isolate it, Bones.</td></tr>
 
-  ANNOTATION
-     Tracey appears at the door with his phaser, and
-     shoots Spock.
+<tr id="L63"><td><a href="#L63">63</a></td><td>MCCOY:  The problem is, it could be anything Some spores or pollen in the air, some chemical. Just finding it could take months, maybe even years. And I've only got one lead. The infection resembles one developed by Earth during their bacteriological warfare experiments in the 1990s. Hard to believe we were once foolish enough to play around with that.</td></tr>
 
-  TRACEY
-     No messages. Kirk, the savage in the cell with
-     you. Did you set him free? You sent him, Kirk. You
-     sent him to warn the tribes! The Yangs must've
-     been warned. They sacrificed hundreds just to draw
-     us out in the open. And then they came, and they
-     came. We drained four of our phasers, and they
-     still came. We killed thousands and they still
-     came.
+<tr id="L64"><td><a href="#L64">64</a></td><td>ANNOTATION: Spock bursts in, helping an injured Galloway who is clutching his chest.</td></tr>
 
-  MCCOY
-     He'll live, but I'll have to get him to better
-     facilities than this.
+<tr id="L65"><td><a href="#L65">65</a></td><td>SPOCK:  A Yang lance, Doctor.</td></tr>
 
-  TRACEY
-     Impossible! You can't carry the disease up to the
-     ship with you.
+<tr id="L66"><td><a href="#L66">66</a></td><td>KIRK:  Are you all right?</td></tr>
 
-  MCCOY
-     He's fully immunised now. We all are.
+<tr id="L67"><td><a href="#L67">67</a></td><td>SPOCK:  Bruised only. We were approximately one hundred metres from the village when five of the savages ambushed us. We managed to escape without firing.</td></tr>
 
-  KIRK
-     We can beam up at any time. Any of us.
+<tr id="L68"><td><a href="#L68">68</a></td><td>KIRK:  Spock, do you see any hope that these Yangs can be reasoned with? A truce, a parley, a</td></tr>
 
-  TRACEY
-     You've isolated the serum?
+<tr id="L69"><td><a href="#L69">69</a></td><td>GALLOWAY:  No, Captain. They're too wild. They act almost insane.</td></tr>
 
-  KIRK
-     There's no serum! There are no miracles! There's
-     no immortality here! All this is for nothing!
+<tr id="L70"><td><a href="#L70">70</a></td><td>SPOCK:  Captain Tracey is being quite factual in several statements. One, the Yangs are totally contemptuous of death. They seem incredibly vicious. Two, he is also being factual in that the Yangs are massing for an attack. There are signs of thousands of them in the foothills beyond. However, he was less than truthful in one very important matter.</td></tr>
 
-  TRACEY
-     Explain it to him, Doctor.
+<tr id="L71"><td><a href="#L71">71</a></td><td>KIRK:  Phaser power packs.</td></tr>
 
-  MCCOY
-     Leave medicine to medical men, Captain. You found
-     no fountain of youth here. People live longer here
-     now because it's natural for them to.
+<tr id="L72"><td><a href="#L72">72</a></td><td>SPOCK:  Captain Tracey's reserve belt packs. Empty. Found among the remains of several hundred Yang bodies.</td></tr>
 
-  TRACEY
-     Outside. Or I'll burn down both your friends now.
+<tr id="L73"><td><a href="#L73">73</a></td><td>KIRK:  The fool.</td></tr>
 
-  KIRK
-     Do what you can for him, Doctor.
+<tr id="L74"><td><a href="#L74">74</a></td><td>SPOCK:  A smaller attack on this village a week ago, driven off by Captain Tracey with his phaser. I have found villagers who will corroborate it.</td></tr>
 
+<tr id="L75"><td><a href="#L75">75</a></td><td>MCCOY:  Now wait a minute. He lost his ship and his crew, and he found himself the only thing standing between an entire village of peaceful people.</td></tr>
 
-LOCATION--Village
+<tr id="L76"><td><a href="#L76">76</a></td><td>SPOCK:  Regulations are quite harsh, but they're also quite clear, Captain. If you do not act, you will be considered equally guilty.</td></tr>
 
-  KIRK
-     Where is everybody?
+<tr id="L77"><td><a href="#L77">77</a></td><td>MCCOY:  Without a serum, we're trapped here with the villagers. Now why destroy what's left of the man by arresting him?</td></tr>
 
-  TRACEY
-     Dead or in hiding. Now let's see how eager you are
-     to die. Call your ship. I need your help, Kirk.
-     They're going to attack the village. My phaser's
-     almost drained. We need new, fresh ones. You're
-     not just going to stand there and let them kill
-     you, are you? If I put a weapon in your hand
-     you'll fight, won't you?
+<tr id="L78"><td><a href="#L78">78</a></td><td>SPOCK:  I agree that formal charges have little meaning now. However, you must at least confiscate his phaser.</td></tr>
 
-  KIRK
-     We can beam up, Tracey. All of us.
+<tr id="L79"><td><a href="#L79">79</a></td><td>KIRK:  The fool. Starfleet should be made aware.</td></tr>
 
-  TRACEY
-     I want five phasers. No, ten. With three extra
-     power packs each.
+<tr id="L80"><td><a href="#L80">80</a></td><td>ANNOTATION: Kirk gets out his communicator, and Tracey enters, phaser ready, and backed up by villagers.</td></tr>
 
-  KIRK
-     All right. (takes the communicator) Kirk to
-     Enterprise.
+<tr id="L81"><td><a href="#L81">81</a></td><td>TRACEY:  I'll be sending the next message, Jim.</td></tr>
 
+<tr id="L82"><td><a href="#L82">82</a></td><td>ANNOTATION: The injured Galloway tries to reach for his own phaser, and Tracey vapourises him. Then the villagers take everyones equipment.</td></tr>
 
-LOCATION--Bridge
+<tr id="L83"><td><a href="#L83">83</a></td><td>TRACEY:  Enterprise, come in.</td></tr>
 
-  UHURA
-     Captain, are you all right now?
+<tr id="L84"><td><a href="#L84">84</a></td><td>UHURA [OC]:  Enterprise bridge. Lieutenant Uhura.</td></tr>
 
+<tr id="L85"><td><a href="#L85">85</a></td><td>TRACEY:  Captain Tracey of the Exeter.</td></tr>
 
-LOCATION--Village
+<tr id="L86"><td><a href="#L86">86</a></td><td>UHURA:  Yes, sir. Captain Kirk informed us earlier you had survived.</td></tr>
 
-  KIRK
-     Yes, quite all right. I'd like ten phasers beamed
-     down with three extra power packs, please. Have
-     you got that?
+<tr id="L87"><td><a href="#L87">87</a></td><td>TRACEY:  I'm afraid I have some bad news. Your captain and landing party must have beamed down too late for full immunisation.</td></tr>
 
-  TRACEY
-     Say again.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L88"><td><a href="#L88">88</a></td><td>TRACEY [OC]:  They've been found unconscious, but I'm doing everything I can for them now.</td></tr>
 
-  KIRK
-     Enterprise, do you read me?
+<tr id="L89"><td><a href="#L89">89</a></td><td>SULU:  Sir, this is Lieutenant Sulu in temporary command of the Enterprise.</td></tr>
 
+<tr><td></td><td>LOCATION--Storeroom</td></tr>
+<tr id="L90"><td><a href="#L90">90</a></td><td>SULU [OC]:  Our whole medical staff will volunteer to beam down</td></tr>
 
-LOCATION--Bridge
+<tr id="L91"><td><a href="#L91">91</a></td><td>TRACEY:  There's no point in risking more lives, Lieutenant. Since I've acquired some immunity perhaps the others</td></tr>
 
-  SULU
-     Captain, this is Sulu. We read you, but surely you
-     know that can't be done
+<tr id="L92"><td><a href="#L92">92</a></td><td>KIRK:  Sulu!</td></tr>
 
+<tr id="L93"><td><a href="#L93">93</a></td><td>ANNOTATION: Wu hits him, hard.</td></tr>
 
-LOCATION--Village
+<tr id="L94"><td><a href="#L94">94</a></td><td>TRACEY:  At their next word, kill him.</td></tr>
 
-  SULU [OC]
-     Without verification.
+<tr id="L95"><td><a href="#L95">95</a></td><td>SULU [OC]:  Repeat your message. Come in, landing party. Repeat your message.</td></tr>
 
-  KIRK
-     Not even if we're in danger, Mister Sulu?
+<tr id="L96"><td><a href="#L96">96</a></td><td>TRACEY:  I'm sorry, Lieutenant. Your captain's feverish, quite delirious.</td></tr>
 
+<tr id="L97"><td><a href="#L97">97</a></td><td>SULU [OC]:  I understand, sir. When he regains consciousness, assure him that we have no problems here.</td></tr>
 
-LOCATION--Bridge
+<tr id="L98"><td><a href="#L98">98</a></td><td>TRACEY:  I'll contact you later, let you know of any future needs. Landing party out.</td></tr>
 
-  SULU
-     Captain, we have volunteers standing by to beam
-     down. What is your situation?
+<tr id="L99"><td><a href="#L99">99</a></td><td>ANNOTATION: Later, Kirk is still lying on the floor, with his hands tied behind him. He still manages to trip up the pacing guard, but then Tracey comes in.</td></tr>
 
+<tr id="L100"><td><a href="#L100">100</a></td><td>TRACEY:  That's enough of that, Captain. Leave us.</td></tr>
 
-LOCATION--Village
+<tr id="L101"><td><a href="#L101">101</a></td><td>ANNOTATION: The guard leaves.</td></tr>
 
-  ANNOTATION
-     With Tracey's phaser almost up his nose.
+<tr id="L102"><td><a href="#L102">102</a></td><td>KIRK:  Captain Ronald Tracey, as per Starfleet Command, regulation seven, paragraph four</td></tr>
 
-  KIRK
-     The situation is not immediately dangerous. Have
-     the volunteers stand by. Kirk out.
+<tr id="L103"><td><a href="#L103">103</a></td><td>TRACEY:  I must now consider myself under arrest, unless in the presence of the most senior fellow officers presently available, I give satisfactory answer to those charges which you now bring. Et cetera, et cetera. Those were the first words duty required you to say to me, and you said them. You're covered. Now, suppose we go on to the next subject.</td></tr>
 
-  TRACEY
-     You have a well-trained bridge crew, Captain. My
-     compliments.
+<tr id="L104"><td><a href="#L104">104</a></td><td>KIRK:  Which is, why?</td></tr>
 
-  ANNOTATION
-     Kirk disarms Tracey and they have another fight.
-     Kirk runs through the village. Tracey regains his
-     phaser and uses up its power disintegrating a
-     large pot before he corners Kirk. Their final
-     fight is stopped by spear-carrying Yangs.
+<tr id="L105"><td><a href="#L105">105</a></td><td>ANNOTATION: Meanwhile he is quietly loosening the leather thongs around his wrists.</td></tr>
 
+<tr id="L106"><td><a href="#L106">106</a></td><td>TRACEY:  Good. Direct, succinct. Answer. No native to this planet has ever had any trace of any kind of disease. How long would a man live if all disease were erased, Jim? Wu. (Wu enters) Tell Captain Kirk your age.</td></tr>
 
-LOCATION--Meeting hall
+<tr id="L107"><td><a href="#L107">107</a></td><td>WU:  Age? I have seen forty two years of the red bird. My eldest brother</td></tr>
 
-  ANNOTATION
-     Cloud William sits on a chair in the place of
-     honour. There are Romanesque statues of women
-     around the walls, and papers scattered on a table
-     in front of him. The prisoners have their hands
-     tied behind them and are seated along a wall with
-     plenty of guards.
+<tr id="L108"><td><a href="#L108">108</a></td><td>TRACEY:  Their year of the red bird comes once every eleven years, which he's seen forty two times. Multiply it. Wu is four hundred and sixty two years old. His father is well over a thousand. Interested, Jim?</td></tr>
 
-  KIRK
-     Spock?
+<tr id="L109"><td><a href="#L109">109</a></td><td>KIRK:  McCoy could verify all that.</td></tr>
 
-  SPOCK
-     I'm weak, Captain, but not in difficulty.
+<tr id="L110"><td><a href="#L110">110</a></td><td>TRACEY:  He will if you order it. We must have a doctor researching this. Are you grasping all it means? This immunising agent here, once we've found it, is a fountain of youth. Virtual immortality, or as much as any man will ever want.</td></tr>
 
-  MCCOY
-     He must have attention soon.
+<tr id="L111"><td><a href="#L111">111</a></td><td>KIRK:  For sale by</td></tr>
 
-  SPOCK
-     My need for attention is vital, Doctor, but our
-     need for departure is even more immediate.
+<tr id="L112"><td><a href="#L112">112</a></td><td>TRACEY:  (to Wu) Out. (Wu leaves) By those who own the serum. McCoy will eventually isolate it. Meanwhile, you inform your ship your situation's impossible. Order them away. When we're ready, we'll bargain for a whole fleet of ships to pick us up. And they'll do it.</td></tr>
 
-  KIRK
-     If my ancestors were forced out of the cities into
-     the deserts, the hills
+<tr id="L113"><td><a href="#L113">113</a></td><td>KIRK:  Yes, I suppose they would.</td></tr>
 
-  SPOCK
-     Yes. I see, Captain. They would've learned to wear
-     skins, adopted stoic mannerisms, learned the bow
-     and the lance.
+<tr id="L114"><td><a href="#L114">114</a></td><td>TRACEY:  We've got to stay alive. Let the Yangs kill us and destroy what we have to offer and we'll have committed a crime against all humanity. I'd say that's slightly more important than the Prime Directive, wouldn't you, Jim?</td></tr>
 
-  KIRK
-     Living like the Indians, and finally even looking
-     like the American Indian. American. Yangs? Yanks?
-     Spock, Yankees!
+<tr id="L115"><td><a href="#L115">115</a></td><td>KIRK:  It's a very interesting proposition. Let me think it over.</td></tr>
 
-  SPOCK
-     Kohms? Communists? The parallel is almost too
-     close, Captain. It would mean they fought the war
-     your Earth avoided, and in this case, the Asiatics
-     won and took over this planet.
+<tr id="L116"><td><a href="#L116">116</a></td><td>ANNOTATION: He's got his hands free, so now the two Captains get to fight. Tracey wins.</td></tr>
 
-  KIRK
-     But if it were true, all these generations of
-     Yanks fighting to regain their land.
+<tr id="L117"><td><a href="#L117">117</a></td><td>TRACEY:  Guards.</td></tr>
 
-  MCCOY
-     You're a romantic, Jim.
+<tr><td></td><td>LOCATION--Jailhouse</td></tr>
+<tr id="L118"><td><a href="#L118">118</a></td><td>ANNOTATION: The Yang man and woman are in one cell, Spock and McCoy in another, when Tracey brings in Kirk at gunpoint.</td></tr>
 
-  ANNOTATION
-     A drummer enters. Cloud William stands.
+<tr id="L119"><td><a href="#L119">119</a></td><td>TRACEY:  Take the doctor back to his workplace. The pointed-eared one stays. And Wu, tell your men we'll be leaving soon. We'll be in ambush for the Yangs. With many fire boxes this time. What do you think of that, Jim?</td></tr>
 
-  CLOUD
-     That which is ours is ours again. It will never be
-     taken from us again.
+<tr id="L120"><td><a href="#L120">120</a></td><td>ANNOTATION: Kirk moves towards the Yangs, but the male tries to attack him through the bars.</td></tr>
 
-  ANNOTATION
-     A a tattered flag is brought in with great
-     ceremony. Red and white horizontal stripes, with a
-     corner of white stars on blue background. Kirk and
-     the others stand.
+<tr id="L121"><td><a href="#L121">121</a></td><td>TRACEY:  Animals who happen to look like us. You still think the Prime Directive's for this planet?</td></tr>
 
-  TRACEY
-     They can be handled, Jim. Together it'll be easy.
-     I caution you, gentlemen, don't fight me here.
-     I'll win. Or at worst, I'll drag you down with me.
+<tr id="L122"><td><a href="#L122">122</a></td><td>KIRK:  I don't think we have the right or the wisdom to interfere, however a planet is evolving.</td></tr>
 
-  CLOUD
-     I am Cloud William, chief. Also son of chief.
-     Guardian of the holies, speaker of the holy words,
-     leader of warriors. Many have died, but this is
-     the last of the Kohm places. What is ours is ours
-     again.
+<tr id="L123"><td><a href="#L123">123</a></td><td>TRACEY:  Well, if logic won't work, perhaps this will. Put him in there.</td></tr>
 
-  ANNOTATION
-     He goes over to the flag and puts his left hand
-     over his heart.
+<tr id="L124"><td><a href="#L124">124</a></td><td>ANNOTATION: The guards use spears to keep the Yangs from the door while they push Kirk inside. Of course, there is a fight.</td></tr>
 
-  CLOUD
-     Aypledgli ianectu flaggen tupep kile for stahn
+<tr id="L125"><td><a href="#L125">125</a></td><td>ANNOTATION: In the storeroom, McCoy notices that his guard has fallen asleep - the snoring is a clue - and tries to reach for a possible weapon. But the guard wakes up and stops him.</td></tr>
 
-  KIRK
-     And to the republic for which it stands, one
-     nation under God, indivisible, with liberty and
-     justice for all.
+<tr id="L126"><td><a href="#L126">126</a></td><td>ANNOTATION: In the jail cell, the two Yangs are taking it in turns to keep Kirk busy.</td></tr>
 
-  ELDER
-     He spoke the holy word.
+<tr id="L127"><td><a href="#L127">127</a></td><td>KIRK:  Don't they ever rest?</td></tr>
 
-  ANNOTATION
-     Kirk is brought forward to the table.
+<tr id="L128"><td><a href="#L128">128</a></td><td>SPOCK:  Not that I have observed, Captain. Of course, should they wish to do so, one could always rest while the other keeps you occupied.</td></tr>
 
-  CLOUD
-     You know many of our high-worship words. How?
+<tr id="L129"><td><a href="#L129">129</a></td><td>KIRK:  Thank you, Spock. (grabs the woman to use her as a shield, but she bites his hand.) At least tell me why you want to kill me.</td></tr>
 
-  KIRK
-     In my land we have a tribe like you.
+<tr id="L130"><td><a href="#L130">130</a></td><td>SPOCK:  Good, Captain. Try to reason with them. Keep trying, Captain. Their behaviour is highly illogical.</td></tr>
 
-  CLOUD
-     Where is your tribe?
+<tr id="L131"><td><a href="#L131">131</a></td><td>KIRK:  No point in repeating that it's illogical, Spock. I'm quite aware of it.</td></tr>
 
-  KIRK
-     Up there. One of those points of light that you
-     see at night.
+<tr id="L132"><td><a href="#L132">132</a></td><td>ANNOTATION: The woman is finally within reach of Spock's neck pinch, and down she goes. The male is astonished, and goes to protect her rather than keep fighting.</td></tr>
 
-  ELDER
-     Why are you here? Were you cast out?
+<tr id="L133"><td><a href="#L133">133</a></td><td>KIRK:  Pity you can't teach me that.</td></tr>
 
-  KIRK
-     You're confusing the stars with heaven.
+<tr id="L134"><td><a href="#L134">134</a></td><td>SPOCK:  I have tried, Captain.</td></tr>
 
-  TRACEY
-     He was cast out! Don't you recognise the Evil One?
-     Who else would trick you with your own sacred
-     words? Let your God strike me dead if I lie. But
-     he won't, because I speak for him.
+<tr id="L135"><td><a href="#L135">135</a></td><td>SOMEONE: {Storeroom]</td></tr>
 
-  CLOUD
-     Yet you killed many Yangs.
+<tr id="L136"><td><a href="#L136">136</a></td><td>ANNOTATION: A young Kohm woman brings McCoy a plate of food.</td></tr>
 
-  TRACEY
-     You tried to kill me.
+<tr id="L137"><td><a href="#L137">137</a></td><td>MCCOY:  Oh, thank you. Thank you very much.</td></tr>
 
-  KIRK
-     We're not gods! We're not evil ones. We're men,
-     like yourselves.
+<tr><td></td><td>LOCATION--Jailhouse</td></tr>
+<tr id="L138"><td><a href="#L138">138</a></td><td>SPOCK:  Captain, I have managed to loosen this grill somewhat. If the mortar on yours is as old.</td></tr>
 
-  TRACEY
-     Would a man know your holy words? Would a man use
-     them to trick you? See his servant? His face, his
-     eyes, his ears? Do the Yang legends describe this
-     servant of the evil one?
+<tr id="L139"><td><a href="#L139">139</a></td><td>KIRK:  I can't even get at it. He'd be on me in a moment. (the woman is awake again) Keep talking, Spock. Don't let me doze off.</td></tr>
 
-  (Cloud William kisses a large Holy Bible then opens it at Haggai - with a picture of a devil who looks very like Spock.) KIRK
-     Are your faces alike? Can you tell from them which
-     of you is good and which of you is evil?
+<tr id="L140"><td><a href="#L140">140</a></td><td>SPOCK:  Captain Tracey mentioned there was once a considerable civilisation here. The only reasonable explanation would be a war. Nuclear devastation or a bacteriological holocaust.</td></tr>
 
-  TRACEY
-     You command him. Everyone's seen that. You want
-     more proof? He has no heart.
+<tr id="L141"><td><a href="#L141">141</a></td><td>KIRK:  That's a very interesting theory. The yellow civilisation is almost destroyed, the white civilisation is destroyed. Keep working on the window if we're ever going to regain our freedom.</td></tr>
 
-  MCCOY
-     His heart is different! The internal organs of a
-     Vulcan are
+<tr id="L142"><td><a href="#L142">142</a></td><td>CLOUD:  (The male Yang, with a very deep voice.) Freedom? Freedom?</td></tr>
 
-  CLOUD
-     Bring him.
+<tr id="L143"><td><a href="#L143">143</a></td><td>KIRK:  Spock.</td></tr>
 
-  ANNOTATION
-     He puts his ear to where a human heart would be,
-     but a Vulcan heart is not.
+<tr id="L144"><td><a href="#L144">144</a></td><td>SPOCK:  Yes, I heard, Captain.</td></tr>
 
-  CLOUD
-     He has no heart.
+<tr id="L145"><td><a href="#L145">145</a></td><td>CLOUD:  That is a worship word. Yang worship. You will not speak it.</td></tr>
 
-  ELDER
-     One of them lies.
+<tr id="L146"><td><a href="#L146">146</a></td><td>KIRK:  Well, well, well. It is our worship word, too.</td></tr>
 
-  CLOUD
-     But which? If we should kill the good, evil would
-     be among us.
+<tr id="L147"><td><a href="#L147">147</a></td><td>CLOUD:  You live with the Kohms.</td></tr>
 
-  ELDER
-     (reaching for a document) There is a way.
+<tr id="L148"><td><a href="#L148">148</a></td><td>KIRK:  Am I not now a prisoner of the Kohms as you are?</td></tr>
 
-  CLOUD
-     Greatest of holies. Chiefs and sons of chiefs may
-     speak the words, but the Evil One's tongue would
-     surely turn to fire. I will begin. You shall
-     finish. Ee'dplebnista norkohn forkohn perfectunun.
+<tr id="L149"><td><a href="#L149">149</a></td><td>ANNOTATION: Kirk gets to the barred window and starts working on it. Cloud William helps him.</td></tr>
 
-  KIRK
-     Those words are familiar. Wait a moment.
+<tr id="L150"><td><a href="#L150">150</a></td><td>KIRK:  Why did you not speak until now?</td></tr>
 
-  TRACEY
-     He fears to speak them, for indeed his tongue
-     would burn with fire. Force him! Kill his servant
-     unless he speaks, so you may see if the words burn
-     him.
+<tr id="L151"><td><a href="#L151">151</a></td><td>CLOUD:  You spoke to Kohms. They are only for killing.</td></tr>
 
-  ANNOTATION
-     A knife is put to Spock's throat.
+<tr id="L152"><td><a href="#L152">152</a></td><td>ANNOTATION: They get a bar free, Kirk turns around.</td></tr>
 
-  KIRK
-     No, wait! There's a better way. Does not your
-     sacred book promise that good is stronger than
-     evil?
+<tr id="L153"><td><a href="#L153">153</a></td><td>KIRK:  Spock, we'll have you out in a minute.</td></tr>
 
-  SIRAH
-     (the woman who had been captured with Cloud
-     William) Yes, it is written. Good shall always
-     destroy evil.
+<tr id="L154"><td><a href="#L154">154</a></td><td>ANNOTATION: Cloud William knocks Kirk out with the iron bar, them rips the others out of the window to make his escape.</td></tr>
 
-  ELDER
-     It is written.
+<tr id="L155"><td><a href="#L155">155</a></td><td>SPOCK:  Captain? Captain? Captain, are you able to respond?</td></tr>
 
-  ANNOTATION
-     The room is cleared. Tracey and Kirk have their
-     left hands tied together. Cloud William stabs a
-     knife into the carpet at the other end of the
-     room.
+<tr id="L156"><td><a href="#L156">156</a></td><td>ANNOTATION: Later, when Kirk has regained consciousness.</td></tr>
 
-  CLOUD
-     The fight is done when one is dead.
+<tr id="L157"><td><a href="#L157">157</a></td><td>KIRK:  Spock. How long?</td></tr>
 
-  MCCOY
-     Spock, I've found that evil usually triumphs
-     unless good is very, very careful.
+<tr id="L158"><td><a href="#L158">158</a></td><td>SPOCK:  Seven hours and eight minutes, Captain.</td></tr>
 
-  CLOUD
-     Hoola!
+<tr id="L159"><td><a href="#L159">159</a></td><td>KIRK:  Seven hours and eight. Spock. Keys. (on a table) I'll have you out in a minute.</td></tr>
 
-  ANNOTATION
-     The fight begins with an exchange of punches, then
-     Tracey tries to drag Kirk towards the knife.
+<tr><td></td><td>LOCATION--Storeroom</td></tr>
+<tr id="L160"><td><a href="#L160">160</a></td><td>ANNOTATION: There is a scraping noise outside. When the guard investigates, he is overpowered by Kirk and Spock.</td></tr>
 
-  MCCOY
-     Spock, we've got to do something!
+<tr id="L161"><td><a href="#L161">161</a></td><td>MCCOY:  Good morning, Jim.</td></tr>
 
-  SPOCK
-     I am open to suggestions, Doctor.
+<tr id="L162"><td><a href="#L162">162</a></td><td>KIRK:  Good morning.</td></tr>
 
-  ANNOTATION
-     Kirk hooks his feet around a table leg to stop
-     Tracey reaching the knife. Spock directs his
-     attention towards the woman.
+<tr id="L163"><td><a href="#L163">163</a></td><td>SPOCK:  We can contact the ship in a few moments, Captain, if I can cross-circuit this unit.</td></tr>
 
-  MCCOY
-     What are you doing?
+<tr id="L164"><td><a href="#L164">164</a></td><td>KIRK:  Good. Did you find out anything?</td></tr>
 
-  SPOCK
-     I'm making a suggestion.
+<tr id="L165"><td><a href="#L165">165</a></td><td>MCCOY:  Yes. I'm convinced that once there was a frightening biological war that existed here. The virus still exists. Then over the years, nature built up these natural immunising agents in the food, the water, and the soil.</td></tr>
 
-  ANNOTATION
-     The two protagonists have nearly reached the
-     weapon. After a struggle, Tracey gets it. The
-     woman picks up a communicator, walks over to
-     Spock, then opens it. Kirk gets Tracey to drop the
-     knife, and brings it down across his throat.
+<tr id="L166"><td><a href="#L166">166</a></td><td>SPOCK:  War created an imbalance and nature counterbalanced it.</td></tr>
 
-  CLOUD
-     Kill him. It is written. Good must destroy evil.
+<tr id="L167"><td><a href="#L167">167</a></td><td>KIRK:  There is a disease here, something that affected the Exeter landing party and us.</td></tr>
 
-  ANNOTATION
-     Instead, Kirk cuts their bonds just as Sulu and
-     two security guards beam down.
+<tr id="L168"><td><a href="#L168">168</a></td><td>MCCOY:  That's right. These immunising agents take time, and that's the real tragedy. Had the Exeter landing party stayed here just a few hours longer, they never would have died.</td></tr>
 
-  SULU
-     Sir, we picked up communicator signals, but
+<tr id="L169"><td><a href="#L169">169</a></td><td>KIRK:  Then we can leave any time we want to. Tracey is of the opinion these immunising agents can become a fountain of youth. There are people here over a thousand years old, Bones.</td></tr>
 
-  KIRK
-     We'll discuss that later, Lieutenant. Leslie, free
-     Doctor McCoy and Mister Spock. Put Captain Tracey
-     under arrest.
+<tr id="L170"><td><a href="#L170">170</a></td><td>MCCOY:  Survival of the fittest, because their ancestors who survived had to have a superior resistance. Then they built up these powerful protective antibodies in the blood during the wars. Now, if you want to destroy a civilisation or a whole world, your descendants might develop a longer life, but I hardly think it's worth it.</td></tr>
 
-  SULU
-     Aye, sir.
+<tr id="L171"><td><a href="#L171">171</a></td><td>KIRK:  Then anything you develop here as a result of all this is useless.</td></tr>
 
-  ANNOTATION
-     Cloud William sinks to his knees.
+<tr id="L172"><td><a href="#L172">172</a></td><td>MCCOY:  Who knows? It might eventually cure the common cold, but lengthen lives? Poppycock. I can do more for you if you just eat right and exercise regularly.</td></tr>
 
-  KIRK
-     Now, Cloud William.
+<tr id="L173"><td><a href="#L173">173</a></td><td>SPOCK:  Ready, Captain. Quite crude. Voice communication will not be possible, but we can signal the ship.</td></tr>
 
-  CLOUD
-     You are a great God servant. We are your slaves.
+<tr id="L174"><td><a href="#L174">174</a></td><td>KIRK:  All that bloodshed for nothing. That'll be sufficient, Mister Spock.</td></tr>
 
-  SOMEONE
-     KIRK; Get up. Face me.
+<tr id="L175"><td><a href="#L175">175</a></td><td>ANNOTATION: Tracey appears at the door with his phaser, and shoots Spock.</td></tr>
 
-  CLOUD
-     When you would not say the holy words, of the Ee'd
-     Plebnista, I doubted you.
+<tr id="L176"><td><a href="#L176">176</a></td><td>TRACEY:  No messages. Kirk, the savage in the cell with you. Did you set him free? You sent him, Kirk. You sent him to warn the tribes! The Yangs must've been warned. They sacrificed hundreds just to draw us out in the open. And then they came, and they came. We drained four of our phasers, and they still came. We killed thousands and they still came.</td></tr>
 
-  KIRK
-     I did not recognise those words, you said them so
-     badly, Without meaning.
+<tr id="L177"><td><a href="#L177">177</a></td><td>MCCOY:  He'll live, but I'll have to get him to better facilities than this.</td></tr>
 
-  ELDER
-     No! No! Only the eyes of a chief may see the Ee'd
-     Plebnista.
+<tr id="L178"><td><a href="#L178">178</a></td><td>TRACEY:  Impossible! You can't carry the disease up to the ship with you.</td></tr>
 
-  KIRK
-     This was not written for chiefs. (general
-     consternation) Hear me! Hear this! Among my
-     people, we carry many such words as this from many
-     lands, many worlds. Many are equally good and are
-     as well respected, but wherever we have gone, no
-     words have said this thing of importance in quite
-     this way. Look at these three words written larger
-     than the rest, with a special pride never written
-     before or since. Tall words proudly saying We the
-     People. That which you call Ee'd Plebnista was not
-     written for the chiefs or the kings or the
-     warriors or the rich and powerful, but for all the
-     people! Down the centuries, you have slurred the
-     meaning of the words, 'We, the people of the
-     United States, in order to form a more perfect
-     union, establish justice, ensure domestic
-     tranquillity, provide for the common defence,
-     promote the general welfare, and secure the
-     blessings of liberty to ourselves and our
-     posterity, do ordain and establish this
-     constitution.' These words and the words that
-     follow were not
+<tr id="L179"><td><a href="#L179">179</a></td><td>MCCOY:  He's fully immunised now. We all are.</td></tr>
 
-  SOMEONE
-     written only for the Yangs, but for the Kohms as
-     well!
+<tr id="L180"><td><a href="#L180">180</a></td><td>KIRK:  We can beam up at any time. Any of us.</td></tr>
 
-  CLOUD
-     The Kohms?
+<tr id="L181"><td><a href="#L181">181</a></td><td>TRACEY:  You've isolated the serum?</td></tr>
 
-  KIRK
-     They must apply to everyone or they mean nothing!
-     Do you understand?
+<tr id="L182"><td><a href="#L182">182</a></td><td>KIRK:  There's no serum! There are no miracles! There's no immortality here! All this is for nothing!</td></tr>
 
-  CLOUD
-     I do not fully understand, one named Kirk. But the
-     holy words will be obeyed. I swear it.
+<tr id="L183"><td><a href="#L183">183</a></td><td>TRACEY:  Explain it to him, Doctor.</td></tr>
 
-  ANNOTATION
-     Kirk leaves the Yangs to gaze at the old papers
-     with new eyes.
+<tr id="L184"><td><a href="#L184">184</a></td><td>MCCOY:  Leave medicine to medical men, Captain. You found no fountain of youth here. People live longer here now because it's natural for them to.</td></tr>
 
-  SPOCK
-     There's no question about his guilt, Captain, but
-     does our involvement here also constitute a
-     violation of the Prime Directive?
+<tr id="L185"><td><a href="#L185">185</a></td><td>TRACEY:  Outside. Or I'll burn down both your friends now.</td></tr>
 
-  KIRK
-     We merely showed them the meaning of what they
-     were fighting for. Liberty and freedom have to be
-     more than just words. Gentlemen, the fighting is
-     over here. I suggest we leave them to discover
-     their history and their liberty.
+<tr id="L186"><td><a href="#L186">186</a></td><td>KIRK:  Do what you can for him, Doctor.</td></tr>
 
-  ANNOTATION
-     Kirk takes one last look at the flag before
-     leaving.
+<tr><td></td><td>LOCATION--Village</td></tr>
+<tr id="L187"><td><a href="#L187">187</a></td><td>KIRK:  Where is everybody?</td></tr>
 
+<tr id="L188"><td><a href="#L188">188</a></td><td>TRACEY:  Dead or in hiding. Now let's see how eager you are to die. Call your ship. I need your help, Kirk. They're going to attack the village. My phaser's almost drained. We need new, fresh ones. You're not just going to stand there and let them kill you, are you? If I put a weapon in your hand you'll fight, won't you?</td></tr>
 
-END CREDITS
+<tr id="L189"><td><a href="#L189">189</a></td><td>KIRK:  We can beam up, Tracey. All of us.</td></tr>
+
+<tr id="L190"><td><a href="#L190">190</a></td><td>TRACEY:  I want five phasers. No, ten. With three extra power packs each.</td></tr>
+
+<tr id="L191"><td><a href="#L191">191</a></td><td>KIRK:  All right. (takes the communicator) Kirk to Enterprise.</td></tr>
+
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L192"><td><a href="#L192">192</a></td><td>UHURA:  Captain, are you all right now?</td></tr>
+
+<tr><td></td><td>LOCATION--Village</td></tr>
+<tr id="L193"><td><a href="#L193">193</a></td><td>KIRK:  Yes, quite all right. I'd like ten phasers beamed down with three extra power packs, please. Have you got that?</td></tr>
+
+<tr id="L194"><td><a href="#L194">194</a></td><td>TRACEY:  Say again.</td></tr>
+
+<tr id="L195"><td><a href="#L195">195</a></td><td>KIRK:  Enterprise, do you read me?</td></tr>
+
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L196"><td><a href="#L196">196</a></td><td>SULU:  Captain, this is Sulu. We read you, but surely you know that can't be done</td></tr>
+
+<tr><td></td><td>LOCATION--Village</td></tr>
+<tr id="L197"><td><a href="#L197">197</a></td><td>SULU [OC]:  Without verification.</td></tr>
+
+<tr id="L198"><td><a href="#L198">198</a></td><td>KIRK:  Not even if we're in danger, Mister Sulu?</td></tr>
+
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L199"><td><a href="#L199">199</a></td><td>SULU:  Captain, we have volunteers standing by to beam down. What is your situation?</td></tr>
+
+<tr><td></td><td>LOCATION--Village</td></tr>
+<tr id="L200"><td><a href="#L200">200</a></td><td>ANNOTATION: With Tracey's phaser almost up his nose.</td></tr>
+
+<tr id="L201"><td><a href="#L201">201</a></td><td>KIRK:  The situation is not immediately dangerous. Have the volunteers stand by. Kirk out.</td></tr>
+
+<tr id="L202"><td><a href="#L202">202</a></td><td>TRACEY:  You have a well-trained bridge crew, Captain. My compliments.</td></tr>
+
+<tr id="L203"><td><a href="#L203">203</a></td><td>ANNOTATION: Kirk disarms Tracey and they have another fight. Kirk runs through the village. Tracey regains his phaser and uses up its power disintegrating a large pot before he corners Kirk. Their final fight is stopped by spear-carrying Yangs.</td></tr>
+
+<tr><td></td><td>LOCATION--Meeting hall</td></tr>
+<tr id="L204"><td><a href="#L204">204</a></td><td>ANNOTATION: Cloud William sits on a chair in the place of honour. There are Romanesque statues of women around the walls, and papers scattered on a table in front of him. The prisoners have their hands tied behind them and are seated along a wall with plenty of guards.</td></tr>
+
+<tr id="L205"><td><a href="#L205">205</a></td><td>KIRK:  Spock?</td></tr>
+
+<tr id="L206"><td><a href="#L206">206</a></td><td>SPOCK:  I'm weak, Captain, but not in difficulty.</td></tr>
+
+<tr id="L207"><td><a href="#L207">207</a></td><td>MCCOY:  He must have attention soon.</td></tr>
+
+<tr id="L208"><td><a href="#L208">208</a></td><td>SPOCK:  My need for attention is vital, Doctor, but our need for departure is even more immediate.</td></tr>
+
+<tr id="L209"><td><a href="#L209">209</a></td><td>KIRK:  If my ancestors were forced out of the cities into the deserts, the hills</td></tr>
+
+<tr id="L210"><td><a href="#L210">210</a></td><td>SPOCK:  Yes. I see, Captain. They would've learned to wear skins, adopted stoic mannerisms, learned the bow and the lance.</td></tr>
+
+<tr id="L211"><td><a href="#L211">211</a></td><td>KIRK:  Living like the Indians, and finally even looking like the American Indian. American. Yangs? Yanks? Spock, Yankees!</td></tr>
+
+<tr id="L212"><td><a href="#L212">212</a></td><td>SPOCK:  Kohms? Communists? The parallel is almost too close, Captain. It would mean they fought the war your Earth avoided, and in this case, the Asiatics won and took over this planet.</td></tr>
+
+<tr id="L213"><td><a href="#L213">213</a></td><td>KIRK:  But if it were true, all these generations of Yanks fighting to regain their land.</td></tr>
+
+<tr id="L214"><td><a href="#L214">214</a></td><td>MCCOY:  You're a romantic, Jim.</td></tr>
+
+<tr id="L215"><td><a href="#L215">215</a></td><td>ANNOTATION: A drummer enters. Cloud William stands.</td></tr>
+
+<tr id="L216"><td><a href="#L216">216</a></td><td>CLOUD:  That which is ours is ours again. It will never be taken from us again.</td></tr>
+
+<tr id="L217"><td><a href="#L217">217</a></td><td>ANNOTATION: A a tattered flag is brought in with great ceremony. Red and white horizontal stripes, with a corner of white stars on blue background. Kirk and the others stand.</td></tr>
+
+<tr id="L218"><td><a href="#L218">218</a></td><td>TRACEY:  They can be handled, Jim. Together it'll be easy. I caution you, gentlemen, don't fight me here. I'll win. Or at worst, I'll drag you down with me.</td></tr>
+
+<tr id="L219"><td><a href="#L219">219</a></td><td>CLOUD:  I am Cloud William, chief. Also son of chief. Guardian of the holies, speaker of the holy words, leader of warriors. Many have died, but this is the last of the Kohm places. What is ours is ours again.</td></tr>
+
+<tr id="L220"><td><a href="#L220">220</a></td><td>ANNOTATION: He goes over to the flag and puts his left hand over his heart.</td></tr>
+
+<tr id="L221"><td><a href="#L221">221</a></td><td>CLOUD:  Aypledgli ianectu flaggen tupep kile for stahn</td></tr>
+
+<tr id="L222"><td><a href="#L222">222</a></td><td>KIRK:  And to the republic for which it stands, one nation under God, indivisible, with liberty and justice for all.</td></tr>
+
+<tr id="L223"><td><a href="#L223">223</a></td><td>ELDER:  He spoke the holy word.</td></tr>
+
+<tr id="L224"><td><a href="#L224">224</a></td><td>ANNOTATION: Kirk is brought forward to the table.</td></tr>
+
+<tr id="L225"><td><a href="#L225">225</a></td><td>CLOUD:  You know many of our high-worship words. How?</td></tr>
+
+<tr id="L226"><td><a href="#L226">226</a></td><td>KIRK:  In my land we have a tribe like you.</td></tr>
+
+<tr id="L227"><td><a href="#L227">227</a></td><td>CLOUD:  Where is your tribe?</td></tr>
+
+<tr id="L228"><td><a href="#L228">228</a></td><td>KIRK:  Up there. One of those points of light that you see at night.</td></tr>
+
+<tr id="L229"><td><a href="#L229">229</a></td><td>ELDER:  Why are you here? Were you cast out?</td></tr>
+
+<tr id="L230"><td><a href="#L230">230</a></td><td>KIRK:  You're confusing the stars with heaven.</td></tr>
+
+<tr id="L231"><td><a href="#L231">231</a></td><td>TRACEY:  He was cast out! Don't you recognise the Evil One? Who else would trick you with your own sacred words? Let your God strike me dead if I lie. But he won't, because I speak for him.</td></tr>
+
+<tr id="L232"><td><a href="#L232">232</a></td><td>CLOUD:  Yet you killed many Yangs.</td></tr>
+
+<tr id="L233"><td><a href="#L233">233</a></td><td>TRACEY:  You tried to kill me.</td></tr>
+
+<tr id="L234"><td><a href="#L234">234</a></td><td>KIRK:  We're not gods! We're not evil ones. We're men, like yourselves.</td></tr>
+
+<tr id="L235"><td><a href="#L235">235</a></td><td>TRACEY:  Would a man know your holy words? Would a man use them to trick you? See his servant? His face, his eyes, his ears? Do the Yang legends describe this servant of the evil one?</td></tr>
+
+<tr id="L236"><td><a href="#L236">236</a></td><td>(Cloud William kisses a large Holy Bible then opens it at Haggai - with a picture of a devil who looks very like Spock.) KIRK:  Are your faces alike? Can you tell from them which of you is good and which of you is evil?</td></tr>
+
+<tr id="L237"><td><a href="#L237">237</a></td><td>TRACEY:  You command him. Everyone's seen that. You want more proof? He has no heart.</td></tr>
+
+<tr id="L238"><td><a href="#L238">238</a></td><td>MCCOY:  His heart is different! The internal organs of a Vulcan are</td></tr>
+
+<tr id="L239"><td><a href="#L239">239</a></td><td>CLOUD:  Bring him.</td></tr>
+
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: He puts his ear to where a human heart would be, but a Vulcan heart is not.</td></tr>
+
+<tr id="L241"><td><a href="#L241">241</a></td><td>CLOUD:  He has no heart.</td></tr>
+
+<tr id="L242"><td><a href="#L242">242</a></td><td>ELDER:  One of them lies.</td></tr>
+
+<tr id="L243"><td><a href="#L243">243</a></td><td>CLOUD:  But which? If we should kill the good, evil would be among us.</td></tr>
+
+<tr id="L244"><td><a href="#L244">244</a></td><td>ELDER:  (reaching for a document) There is a way.</td></tr>
+
+<tr id="L245"><td><a href="#L245">245</a></td><td>CLOUD:  Greatest of holies. Chiefs and sons of chiefs may speak the words, but the Evil One's tongue would surely turn to fire. I will begin. You shall finish. Ee'dplebnista norkohn forkohn perfectunun.</td></tr>
+
+<tr id="L246"><td><a href="#L246">246</a></td><td>KIRK:  Those words are familiar. Wait a moment.</td></tr>
+
+<tr id="L247"><td><a href="#L247">247</a></td><td>TRACEY:  He fears to speak them, for indeed his tongue would burn with fire. Force him! Kill his servant unless he speaks, so you may see if the words burn him.</td></tr>
+
+<tr id="L248"><td><a href="#L248">248</a></td><td>ANNOTATION: A knife is put to Spock's throat.</td></tr>
+
+<tr id="L249"><td><a href="#L249">249</a></td><td>KIRK:  No, wait! There's a better way. Does not your sacred book promise that good is stronger than evil?</td></tr>
+
+<tr id="L250"><td><a href="#L250">250</a></td><td>SIRAH:  (the woman who had been captured with Cloud William) Yes, it is written. Good shall always destroy evil.</td></tr>
+
+<tr id="L251"><td><a href="#L251">251</a></td><td>ELDER:  It is written.</td></tr>
+
+<tr id="L252"><td><a href="#L252">252</a></td><td>ANNOTATION: The room is cleared. Tracey and Kirk have their left hands tied together. Cloud William stabs a knife into the carpet at the other end of the room.</td></tr>
+
+<tr id="L253"><td><a href="#L253">253</a></td><td>CLOUD:  The fight is done when one is dead.</td></tr>
+
+<tr id="L254"><td><a href="#L254">254</a></td><td>MCCOY:  Spock, I've found that evil usually triumphs unless good is very, very careful.</td></tr>
+
+<tr id="L255"><td><a href="#L255">255</a></td><td>CLOUD:  Hoola!</td></tr>
+
+<tr id="L256"><td><a href="#L256">256</a></td><td>ANNOTATION: The fight begins with an exchange of punches, then Tracey tries to drag Kirk towards the knife.</td></tr>
+
+<tr id="L257"><td><a href="#L257">257</a></td><td>MCCOY:  Spock, we've got to do something!</td></tr>
+
+<tr id="L258"><td><a href="#L258">258</a></td><td>SPOCK:  I am open to suggestions, Doctor.</td></tr>
+
+<tr id="L259"><td><a href="#L259">259</a></td><td>ANNOTATION: Kirk hooks his feet around a table leg to stop Tracey reaching the knife. Spock directs his attention towards the woman.</td></tr>
+
+<tr id="L260"><td><a href="#L260">260</a></td><td>MCCOY:  What are you doing?</td></tr>
+
+<tr id="L261"><td><a href="#L261">261</a></td><td>SPOCK:  I'm making a suggestion.</td></tr>
+
+<tr id="L262"><td><a href="#L262">262</a></td><td>ANNOTATION: The two protagonists have nearly reached the weapon. After a struggle, Tracey gets it. The woman picks up a communicator, walks over to Spock, then opens it. Kirk gets Tracey to drop the knife, and brings it down across his throat.</td></tr>
+
+<tr id="L263"><td><a href="#L263">263</a></td><td>CLOUD:  Kill him. It is written. Good must destroy evil.</td></tr>
+
+<tr id="L264"><td><a href="#L264">264</a></td><td>ANNOTATION: Instead, Kirk cuts their bonds just as Sulu and two security guards beam down.</td></tr>
+
+<tr id="L265"><td><a href="#L265">265</a></td><td>SULU:  Sir, we picked up communicator signals, but</td></tr>
+
+<tr id="L266"><td><a href="#L266">266</a></td><td>KIRK:  We'll discuss that later, Lieutenant. Leslie, free Doctor McCoy and Mister Spock. Put Captain Tracey under arrest.</td></tr>
+
+<tr id="L267"><td><a href="#L267">267</a></td><td>SULU:  Aye, sir.</td></tr>
+
+<tr id="L268"><td><a href="#L268">268</a></td><td>ANNOTATION: Cloud William sinks to his knees.</td></tr>
+
+<tr id="L269"><td><a href="#L269">269</a></td><td>KIRK:  Now, Cloud William.</td></tr>
+
+<tr id="L270"><td><a href="#L270">270</a></td><td>CLOUD:  You are a great God servant. We are your slaves.</td></tr>
+
+<tr id="L271"><td><a href="#L271">271</a></td><td>SOMEONE: KIRK; Get up. Face me.</td></tr>
+
+<tr id="L272"><td><a href="#L272">272</a></td><td>CLOUD:  When you would not say the holy words, of the Ee'd Plebnista, I doubted you.</td></tr>
+
+<tr id="L273"><td><a href="#L273">273</a></td><td>KIRK:  I did not recognise those words, you said them so badly, Without meaning.</td></tr>
+
+<tr id="L274"><td><a href="#L274">274</a></td><td>ELDER:  No! No! Only the eyes of a chief may see the Ee'd Plebnista.</td></tr>
+
+<tr id="L275"><td><a href="#L275">275</a></td><td>KIRK:  This was not written for chiefs. (general consternation) Hear me! Hear this! Among my people, we carry many such words as this from many lands, many worlds. Many are equally good and are as well respected, but wherever we have gone, no words have said this thing of importance in quite this way. Look at these three words written larger than the rest, with a special pride never written before or since. Tall words proudly saying We the People. That which you call Ee'd Plebnista was not written for the chiefs or the kings or the warriors or the rich and powerful, but for all the people! Down the centuries, you have slurred the meaning of the words, 'We, the people of the United States, in order to form a more perfect union, establish justice, ensure domestic tranquillity, provide for the common defence, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain and establish this constitution.' These words and the words that follow were not</td></tr>
+
+<tr id="L276"><td><a href="#L276">276</a></td><td>SOMEONE: written only for the Yangs, but for the Kohms as well!</td></tr>
+
+<tr id="L277"><td><a href="#L277">277</a></td><td>CLOUD:  The Kohms?</td></tr>
+
+<tr id="L278"><td><a href="#L278">278</a></td><td>KIRK:  They must apply to everyone or they mean nothing! Do you understand?</td></tr>
+
+<tr id="L279"><td><a href="#L279">279</a></td><td>CLOUD:  I do not fully understand, one named Kirk. But the holy words will be obeyed. I swear it.</td></tr>
+
+<tr id="L280"><td><a href="#L280">280</a></td><td>ANNOTATION: Kirk leaves the Yangs to gaze at the old papers with new eyes.</td></tr>
+
+<tr id="L281"><td><a href="#L281">281</a></td><td>SPOCK:  There's no question about his guilt, Captain, but does our involvement here also constitute a violation of the Prime Directive?</td></tr>
+
+<tr id="L282"><td><a href="#L282">282</a></td><td>KIRK:  We merely showed them the meaning of what they were fighting for. Liberty and freedom have to be more than just words. Gentlemen, the fighting is over here. I suggest we leave them to discover their history and their liberty.</td></tr>
+
+<tr id="L283"><td><a href="#L283">283</a></td><td>ANNOTATION: Kirk takes one last look at the flag before leaving.</td></tr>
+
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

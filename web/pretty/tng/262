@@ -1,1410 +1,676 @@
-Inheritance
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Inheritance</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>JULIANA:  Captain, our situation has worsened since my husband and I first contacted you. The molten core of our planet is not just cooling, it's begun to solidify.</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L2"><td><a href="#L2">2</a></td><td>PRAN:  Our gravitational field has been affected. Seismic activity has increased by a factor of three.</td></tr>
 
-  JULIANA
-     Captain, our situation has worsened since my
-     husband and I first contacted you. The molten core
-     of our planet is not just cooling, it's begun to
-     solidify.
+<tr id="L3"><td><a href="#L3">3</a></td><td>JULIANA:  If the cooling continues at this rate Atrea will become uninhabitable in thirteen months.</td></tr>
 
-  PRAN
-     Our gravitational field has been affected. Seismic
-     activity has increased by a factor of three.
+<tr id="L4"><td><a href="#L4">4</a></td><td>LAFORGE:  We could minimise seismic activity by creating isobaric fissures and relieving some of the tectonic stress, but that would just be a temporary fix.</td></tr>
 
-  JULIANA
-     If the cooling continues at this rate Atrea will
-     become uninhabitable in thirteen months.
+<tr id="L5"><td><a href="#L5">5</a></td><td>DATA:  The only permanent solution would be to re-liquefy the core.</td></tr>
 
-  LAFORGE
-     We could minimise seismic activity by creating
-     isobaric fissures and relieving some of the
-     tectonic stress, but that would just be a
-     temporary fix.
+<tr id="L6"><td><a href="#L6">6</a></td><td>LAFORGE:  These pockets in the magma layer, how close are they to the molten region of the core?</td></tr>
 
-  DATA
-     The only permanent solution would be to re-liquefy
-     the core.
+<tr id="L7"><td><a href="#L7">7</a></td><td>JULIANA:  A few kilometres, why?</td></tr>
 
-  LAFORGE
-     These pockets in the magma layer, how close are
-     they to the molten region of the core?
+<tr id="L8"><td><a href="#L8">8</a></td><td>LAFORGE:  Data, do you think that's close enough for ferro-plasmic infusion?</td></tr>
 
-  JULIANA
-     A few kilometres, why?
+<tr id="L9"><td><a href="#L9">9</a></td><td>DATA:  The procedure will involve using the ship's phasers to drill down through the planet's surface into the pockets, where we would set up a series of plasma infusion units.</td></tr>
 
-  LAFORGE
-     Data, do you think that's close enough for
-     ferro-plasmic infusion?
+<tr id="L10"><td><a href="#L10">10</a></td><td>LAFORGE:  We'll trigger the units by firing modulated energy bursts down through the shafts.</td></tr>
 
-  DATA
-     The procedure will involve using the ship's
-     phasers to drill down through the planet's surface
-     into the pockets, where we would set up a series
-     of plasma infusion units.
+<tr id="L11"><td><a href="#L11">11</a></td><td>JULIANA:  I see. Injecting sufficient plasma directly into the core should trigger a chain reaction, and that will reliquify the magma.</td></tr>
 
-  LAFORGE
-     We'll trigger the units by firing modulated energy
-     bursts down through the shafts.
+<tr id="L12"><td><a href="#L12">12</a></td><td>DATA:  It should be possible to stabilise the core temperature at ninety three percent of normal.</td></tr>
 
-  JULIANA
-     I see. Injecting sufficient plasma directly into
-     the core should trigger a chain reaction, and that
-     will reliquify the magma.
+<tr id="L13"><td><a href="#L13">13</a></td><td>PRAN:  If it works, the core would remain molten for centuries.</td></tr>
 
-  DATA
-     It should be possible to stabilise the core
-     temperature at ninety three percent of normal.
+<tr id="L14"><td><a href="#L14">14</a></td><td>PICARD:  If you give your permission, we could begin immediately.</td></tr>
 
-  PRAN
-     If it works, the core would remain molten for
-     centuries.
+<tr id="L15"><td><a href="#L15">15</a></td><td>PRAN:  Very well. But before we proceed, I'd like to update our geological surveys.</td></tr>
 
-  PICARD
-     If you give your permission, we could begin
-     immediately.
+<tr id="L16"><td><a href="#L16">16</a></td><td>LAFORGE:  Fine. I'd be very happy to help you with that, Doctor.</td></tr>
 
-  PRAN
-     Very well. But before we proceed, I'd like to
-     update our geological surveys.
-
-  LAFORGE
-     Fine. I'd be very happy to help you with that,
-     Doctor.
-
-  PICARD
-     I've assigned you quarters during out time here.
-     Please, make yourselves comfortable.
-
-  PRAN
-     Thank you, Captain.
-
-  ANNOTATION
-     Pran, Picard and La Forge leave
-
-  JULIANA
-     Data?
-
-  DATA
-     Yes, Doctor?
-
-  JULIANA
-     Do you have any idea who I am?
-
-  DATA
-     You are Doctor Juliana Tainer.
-
-  JULIANA
-     You lost all your early memories. We thought you
-     would, but we couldn't be certain.
-
-  DATA
-     Have we met before?
-
-  JULIANA
-     Oh, Data, I was there, right at the beginning on
-     Omicron Theta. I helped create you. Now look at
-     you.
-
-  DATA
-     You were a colleague of Doctor Soong?
-
-  JULIANA
-     Yes, I certainly was. And I was also his wife. In
-     a way, I suppose you could say I am your mother.
-
-
-LOCATION--Ten Forward
-
-  JULIANA
-     I still can't believe I'm seeing you like this
-     again, after all these years.
-
-  DATA
-     Doctor, I have no memory of you.
-
-  JULIANA
-     Oh, there's a reason for that. We wiped your
-     processors after we finished refining your
-     programming. Why don't you tell me what you do
-     remember, and then I'll fill in the gaps.
-
-  DATA
-     My memory record begins when I was activated by
-     the Starfleet officers on the Omicron Theta
-     outpost.
-
-  JULIANA
-     After the attack of the Crystalline Entity.
-
-  DATA
-     Yes. All of the inhabitants of the colony were
-     killed. However, I discovered that my memory banks
-     contained the contents of their journals and logs.
-
-  JULIANA
-     We hoped their experiences would be useful. After
-     your childhood, we figured you could use all the
-     help you could get.
-
-  DATA
-     My childhood?
-
-  JULIANA
-     That's what I called it. You were like a baby, at
-     first. A hundred kilogram baby, but still. You had
-     trouble learning your motor skills, learning how
-     to process sensory information. And of course
-     Noonian was never satisfied. He kept tinkering,
-     trying to make you as human as possible.
-
-  DATA
-     So you wiped my memory processors after this
-     childhood.
-
-  JULIANA
-     Then we deactivated you and programmed you with
-     the colonists' logs. We had planned to reactivate
-     you, but we never got the chance. That's when the
-     Crystalline Entity attacked. We had to leave
-     quickly. We wanted to take you with us, but there
-     was only room for two in the escape pod.
-
-  DATA
-     Doctor, I have scanned the journals of the
-     colonists. There is only one Juliana mentioned in
-     them. Her last name was O'Donnell.
-
-  JULIANA
-     That's me.
-
-  DATA
-     But there was no mention that my father was
-     married to you.
-
-  JULIANA
-     Because of my mother. She thought that Noonian was
-     an eccentric scientist who was too old for me. We
-     decided to marry secretly to give her a chance to
-     get used to our being together. We slipped away to
-     Mavala Four and got married there. A Klingon and a
-     Corvallan trader were our witnesses. It wasn't
-     exactly the wedding I'd hoped for. Somehow Noonian
-     had a way of making even the oddest things seem
-     romantic.
-
-  DATA
-     My father did have an unusual way of looking at
-     things.
-
-  JULIANA
-     How would you know that?
-
-  DATA
-     I encountered him once in the Terlina system.
-
-  JULIANA
-     That's where we went to after we left the outpost.
-     I had no idea that you'd even met him.
-
-  DATA
-     It was shortly before his death.
-
-  JULIANA
-     He's dead?
-
-  DATA
-     Yes.
-
-  JULIANA
-     I had no idea it would hit me this hard. We didn't
-     exactly part on the best of terms.
-
-  DATA
-     What do you mean?
-
-  JULIANA
-     I realised he loved his work as much as he loved
-     me. Maybe more. There we were, stuck on this
-     planet in the middle of the jungle with no one
-     else to talk to. No life. It just wasn't enough.
-     That's why I left. That was all a very, very long
-     time ago. The important thing is that we're here
-     now together. And I do want to get to know you.
-
-  DATA
-     This has been an interesting encounter, and an
-     altogether unexpected one. I would like to
-     corroborate your story before we proceed further.
-     Excuse me, Doctor.
-
-
-LOCATION--Engineering
-
-  LAFORGE
-     Data, I'm almost finished reconfiguring the phaser
-     banks. We should be able to start drilling in
-     about an hour.
-
-  DATA
-     Inform me when you are ready.
-
-  LAFORGE
-     What is it you're doing over there?
-
-  DATA
-     I am attempting to ascertain whether Doctor
-     Tainer's story is true.
-
-  LAFORGE
-     Don't you believe her?
-
-  DATA
-     I neither believe nor doubt. I am simply
-     attempting to verify her assertions.
-
-  LAFORGE
-     Well, what have you turned up so far?
-
-  DATA
-     The Registrar's Office on Mavala Four cannot
-     confirm whether Doctor Soong was married there.
-     Apparently many of the documents were lost when
-     the government was overthrown.
-
-  LAFORGE
-     What's that you're looking at?
-
-  DATA
-     I am checking passenger manifests to see if they
-     went to Mavala during the period in question.
-     O'Donnell, Juliana. Soong, Noonian. They were both
-     passengers on a transport which travelled from
-     Omicron Theta to Mavala and returned four days
-     later.
-
-  LAFORGE
-     That sure fits with her story.
-
-  DATA
-     Still, the fact that they went to Mavala does not
-     prove they were married there.
-
-  LAFORGE
-     You know, Data, it almost seems to me like you're
-     trying to prove that Doctor Tainer wasn't telling
-     the truth.
-
-  DATA
-     Not at all. I am merely unable to reconcile her
-     story with the fact that my father never mentioned
-     her to me.
+<tr id="L17"><td><a href="#L17">17</a></td><td>PICARD:  I've assigned you quarters during out time here. Please, make yourselves comfortable.</td></tr>
 
-  LAFORGE
-     Well, she did leave him. Maybe she broke his
-     heart. Maybe he just didn't want to talk about
-     her. Let me ask you this. Doctor Soong created an
-     emotion chip. Didn't Lore tell you that chip also
-     contained memories, memories Soong wanted you to
-     have?
+<tr id="L18"><td><a href="#L18">18</a></td><td>PRAN:  Thank you, Captain.</td></tr>
 
-  DATA
-     Yes. It is possible that those are memories of my
-     childhood. And of Mrs Soong.
-
-  LAFORGE
-     When you think about it, why would she want to
-     lie? Why would anybody want to pretend to be your
-     mother?
-
-  DATA
-     I can think of no motive for such a pretense.
-
-  LAFORGE
-     And I can understand that this might all be a
-     little disconcerting for you, Data. It came out of
-     the blue, and it doesn't fit into your logical
-     processors.
-
-  DATA
-     That is true.
-
-  LAFORGE
-     But that's life, Data. Part of being human is
-     learning how to deal with the unexpected. To risk
-     new experiences even when they don't fit into your
-     preconceptions.
-
-  DATA
-     I admit I am finding it difficult to accept the
-     possibility of a past about which I know nothing.
-     But it is also true that I am curious to learn
-     more about it.
-
-
-LOCATION--Ten Forward
-
-  ANNOTATION
-     Juliana is having a meal when Data walks up to her
-     table
-
-  JULIANA
-     Data?
-
-  DATA
-     I would like to get to know you better, Mother.
-
-
-LOCATION--Corridor
-
-  JULIANA
-     I wanted to make you female, but your father
-     insisted on a son. We argued about it endlessly,
-     right up until we were ready to assemble you.
-
-  DATA
-     How did you decide?
-
-  JULIANA
-     Noonian walked in with your head in his hand and,
-     innocent as you please, said it was up to me. He
-     knew perfectly well what he was doing. Once again
-     he had made it in his own image. What could I
-     possibly say? (reads door name plate) Deanna Troi,
-     is that who you're going to visit?
+<tr id="L19"><td><a href="#L19">19</a></td><td>ANNOTATION: Pran, Picard and La Forge leave</td></tr>
 
-  DATA
-     Yes.
+<tr id="L20"><td><a href="#L20">20</a></td><td>JULIANA:  Data?</td></tr>
 
-  JULIANA
-     Your father would be so pleased.
+<tr id="L21"><td><a href="#L21">21</a></td><td>DATA:  Yes, Doctor?</td></tr>
 
-  DATA
-     Pleased?
+<tr id="L22"><td><a href="#L22">22</a></td><td>JULIANA:  Do you have any idea who I am?</td></tr>
 
-  JULIANA
-     He was worried that the sexuality programme he
-     designed for you wouldn't work.
+<tr id="L23"><td><a href="#L23">23</a></td><td>DATA:  You are Doctor Juliana Tainer.</td></tr>
 
-  DATA
-     You misunderstand. Counsellor Troi is a therapist.
+<tr id="L24"><td><a href="#L24">24</a></td><td>JULIANA:  You lost all your early memories. We thought you would, but we couldn't be certain.</td></tr>
 
-  JULIANA
-     Goodnight.
+<tr id="L25"><td><a href="#L25">25</a></td><td>DATA:  Have we met before?</td></tr>
 
+<tr id="L26"><td><a href="#L26">26</a></td><td>JULIANA:  Oh, Data, I was there, right at the beginning on Omicron Theta. I helped create you. Now look at you.</td></tr>
 
-LOCATION--Engineering
+<tr id="L27"><td><a href="#L27">27</a></td><td>DATA:  You were a colleague of Doctor Soong?</td></tr>
 
-  DATA
-     We will be in position over the drilling site in
-     three minutes twenty nine seconds.
+<tr id="L28"><td><a href="#L28">28</a></td><td>JULIANA:  Yes, I certainly was. And I was also his wife. In a way, I suppose you could say I am your mother.</td></tr>
 
-  ANNOTATION
-     Juliana rests her hand on his shoulder
+<tr><td></td><td>LOCATION--Ten Forward</td></tr>
+<tr id="L29"><td><a href="#L29">29</a></td><td>JULIANA:  I still can't believe I'm seeing you like this again, after all these years.</td></tr>
 
-  DATA
-     These scans indicate that the magma pockets where
-     we plan to set up the infusion units are somewhat
-     unstable.
+<tr id="L30"><td><a href="#L30">30</a></td><td>DATA:  Doctor, I have no memory of you.</td></tr>
 
-  JULIANA
-     I'm going to monitor the density of the rock
-     layers and adjust the strength of the particle
-     beam as we go. That should minimise the seismic
-     stress that we generate while we're drilling.
+<tr id="L31"><td><a href="#L31">31</a></td><td>JULIANA:  Oh, there's a reason for that. We wiped your processors after we finished refining your programming. Why don't you tell me what you do remember, and then I'll fill in the gaps.</td></tr>
 
-  LAFORGE
-     Data, I reconfigured the phasers to create the
-     most highly focused particle beam possible.
+<tr id="L32"><td><a href="#L32">32</a></td><td>DATA:  My memory record begins when I was activated by the Starfleet officers on the Omicron Theta outpost.</td></tr>
 
-  DATA
-     Thank you, Geordi.
+<tr id="L33"><td><a href="#L33">33</a></td><td>JULIANA:  After the attack of the Crystalline Entity.</td></tr>
 
-  JULIANA
-     I'm just so pleased you've got good manners. It
-     wasn't easy to strike the right balance with your
-     programming. At first you couldn't have cared less
-     about the social niceties like please and thank
-     you. You were downright rude, in fact.
+<tr id="L34"><td><a href="#L34">34</a></td><td>DATA:  Yes. All of the inhabitants of the colony were killed. However, I discovered that my memory banks contained the contents of their journals and logs.</td></tr>
 
-  LAFORGE
-     Data? That's hard to picture.
+<tr id="L35"><td><a href="#L35">35</a></td><td>JULIANA:  We hoped their experiences would be useful. After your childhood, we figured you could use all the help you could get.</td></tr>
 
-  JULIANA
-     That was nothing to the problems we encountered.
-     Never mind. I don't want to embarrass you.
+<tr id="L36"><td><a href="#L36">36</a></td><td>DATA:  My childhood?</td></tr>
 
-  DATA
-     I am incapable of embarrassment. Please continue.
+<tr id="L37"><td><a href="#L37">37</a></td><td>JULIANA:  That's what I called it. You were like a baby, at first. A hundred kilogram baby, but still. You had trouble learning your motor skills, learning how to process sensory information. And of course Noonian was never satisfied. He kept tinkering, trying to make you as human as possible.</td></tr>
 
-  JULIANA
-     Well, the one thing we couldn't anticipate was
-     that you didn't seem to mind about being naked.
-     Some of the colonists objected to having an
-     anatomically correct android running around
-     without any clothes on. We asked you to dress, but
-     you didn't feel it was necessary because you
-     didn't suffer from the elements. We actually had
-     to write a modesty sub-routine to get you to keep
-     your clothes on.
+<tr id="L38"><td><a href="#L38">38</a></td><td>DATA:  So you wiped my memory processors after this childhood.</td></tr>
 
-  RIKER [OC]
-     Bridge to Engineering.
+<tr id="L39"><td><a href="#L39">39</a></td><td>JULIANA:  Then we deactivated you and programmed you with the colonists' logs. We had planned to reactivate you, but we never got the chance. That's when the Crystalline Entity attacked. We had to leave quickly. We wanted to take you with us, but there was only room for two in the escape pod.</td></tr>
 
-  LAFORGE
-     La Forge here. Go ahead, Commander.
+<tr id="L40"><td><a href="#L40">40</a></td><td>DATA:  Doctor, I have scanned the journals of the colonists. There is only one Juliana mentioned in them. Her last name was O'Donnell.</td></tr>
 
-  RIKER [OC]
-     We've established a synchronous orbit over the
-     drilling site.
+<tr id="L41"><td><a href="#L41">41</a></td><td>JULIANA:  That's me.</td></tr>
 
-  LAFORGE
-     Phaser modifications are online, sir.
+<tr id="L42"><td><a href="#L42">42</a></td><td>DATA:  But there was no mention that my father was married to you.</td></tr>
 
-  DATA
-     My calculations indicate
+<tr id="L43"><td><a href="#L43">43</a></td><td>JULIANA:  Because of my mother. She thought that Noonian was an eccentric scientist who was too old for me. We decided to marry secretly to give her a chance to get used to our being together. We slipped away to Mavala Four and got married there. A Klingon and a Corvallan trader were our witnesses. It wasn't exactly the wedding I'd hoped for. Somehow Noonian had a way of making even the oddest things seem romantic.</td></tr>
 
+<tr id="L44"><td><a href="#L44">44</a></td><td>DATA:  My father did have an unusual way of looking at things.</td></tr>
 
-LOCATION--Bridge
+<tr id="L45"><td><a href="#L45">45</a></td><td>JULIANA:  How would you know that?</td></tr>
 
-  DATA [OC]
-     The first phaser blast will be approximately
-     nineteen seconds in duration.
+<tr id="L46"><td><a href="#L46">46</a></td><td>DATA:  I encountered him once in the Terlina system.</td></tr>
 
-  RIKER
-     Acknowledged.
+<tr id="L47"><td><a href="#L47">47</a></td><td>JULIANA:  That's where we went to after we left the outpost. I had no idea that you'd even met him.</td></tr>
 
-  PRAN
-     Someone's checked his calculations, of course.
+<tr id="L48"><td><a href="#L48">48</a></td><td>DATA:  It was shortly before his death.</td></tr>
 
-  RIKER
-     No, but I'm sure Mister Data knows what he's
-     doing.
+<tr id="L49"><td><a href="#L49">49</a></td><td>JULIANA:  He's dead?</td></tr>
 
-  PRAN
-     Even so, he is a machine. Someone should check up
-     on him.
+<tr id="L50"><td><a href="#L50">50</a></td><td>DATA:  Yes.</td></tr>
 
-  RIKER
-     I have complete confidence in Mister Data's
-     ability to check up on himself. Mister Worf?
+<tr id="L51"><td><a href="#L51">51</a></td><td>JULIANA:  I had no idea it would hit me this hard. We didn't exactly part on the best of terms.</td></tr>
 
-  WORF
-     Phasers locked on target.
+<tr id="L52"><td><a href="#L52">52</a></td><td>DATA:  What do you mean?</td></tr>
 
-  RIKER
-     Fire when ready.
+<tr id="L53"><td><a href="#L53">53</a></td><td>JULIANA:  I realised he loved his work as much as he loved me. Maybe more. There we were, stuck on this planet in the middle of the jungle with no one else to talk to. No life. It just wasn't enough. That's why I left. That was all a very, very long time ago. The important thing is that we're here now together. And I do want to get to know you.</td></tr>
 
+<tr id="L54"><td><a href="#L54">54</a></td><td>DATA:  This has been an interesting encounter, and an altogether unexpected one. I would like to corroborate your story before we proceed further. Excuse me, Doctor.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L55"><td><a href="#L55">55</a></td><td>LAFORGE:  Data, I'm almost finished reconfiguring the phaser banks. We should be able to start drilling in about an hour.</td></tr>
 
-  DATA
-     We are within two kilometres of the magma pocket.
+<tr id="L56"><td><a href="#L56">56</a></td><td>DATA:  Inform me when you are ready.</td></tr>
 
-  JULIANA
-     Another five seconds should do it. We've broken
-     through.
+<tr id="L57"><td><a href="#L57">57</a></td><td>LAFORGE:  What is it you're doing over there?</td></tr>
 
+<tr id="L58"><td><a href="#L58">58</a></td><td>DATA:  I am attempting to ascertain whether Doctor Tainer's story is true.</td></tr>
 
-LOCATION--Bridge
+<tr id="L59"><td><a href="#L59">59</a></td><td>LAFORGE:  Don't you believe her?</td></tr>
 
-  WORF
-     Terminating the beam.
+<tr id="L60"><td><a href="#L60">60</a></td><td>DATA:  I neither believe nor doubt. I am simply attempting to verify her assertions.</td></tr>
 
+<tr id="L61"><td><a href="#L61">61</a></td><td>LAFORGE:  Well, what have you turned up so far?</td></tr>
 
-LOCATION--Engineering
+<tr id="L62"><td><a href="#L62">62</a></td><td>DATA:  The Registrar's Office on Mavala Four cannot confirm whether Doctor Soong was married there. Apparently many of the documents were lost when the government was overthrown.</td></tr>
 
-  JULIANA
-     The pocket seems stable.
+<tr id="L63"><td><a href="#L63">63</a></td><td>LAFORGE:  What's that you're looking at?</td></tr>
 
-  DATA
-     I detect no increase in the stress levels of the
-     surrounding magma.
+<tr id="L64"><td><a href="#L64">64</a></td><td>DATA:  I am checking passenger manifests to see if they went to Mavala during the period in question. O'Donnell, Juliana. Soong, Noonian. They were both passengers on a transport which travelled from Omicron Theta to Mavala and returned four days later.</td></tr>
 
-  RIKER [OC]
-     Good work, Data.
+<tr id="L65"><td><a href="#L65">65</a></td><td>LAFORGE:  That sure fits with her story.</td></tr>
 
+<tr id="L66"><td><a href="#L66">66</a></td><td>DATA:  Still, the fact that they went to Mavala does not prove they were married there.</td></tr>
 
-LOCATION--Bridge
+<tr id="L67"><td><a href="#L67">67</a></td><td>LAFORGE:  You know, Data, it almost seems to me like you're trying to prove that Doctor Tainer wasn't telling the truth.</td></tr>
 
-  RIKER
-     I don't think we could have gotten it any cleaner.
+<tr id="L68"><td><a href="#L68">68</a></td><td>DATA:  Not at all. I am merely unable to reconcile her story with the fact that my father never mentioned her to me.</td></tr>
 
-  JULIANA [OC]
-     We have Data to thank for that. I couldn't have
-     done it without him. His figures were perfect.
+<tr id="L69"><td><a href="#L69">69</a></td><td>LAFORGE:  Well, she did leave him. Maybe she broke his heart. Maybe he just didn't want to talk about her. Let me ask you this. Doctor Soong created an emotion chip. Didn't Lore tell you that chip also contained memories, memories Soong wanted you to have?</td></tr>
 
+<tr id="L70"><td><a href="#L70">70</a></td><td>DATA:  Yes. It is possible that those are memories of my childhood. And of Mrs Soong.</td></tr>
 
-LOCATION--Engineering
+<tr id="L71"><td><a href="#L71">71</a></td><td>LAFORGE:  When you think about it, why would she want to lie? Why would anybody want to pretend to be your mother?</td></tr>
 
-  DATA
-     The drilling process has raised the temperature in
-     the magma pockets by almost three hundred degrees
-     Celsius. It will be several hours before it cools
-     enough for us to enter.
+<tr id="L72"><td><a href="#L72">72</a></td><td>DATA:  I can think of no motive for such a pretense.</td></tr>
 
-  JULIANA
-     Data, do you have any plans right now?
+<tr id="L73"><td><a href="#L73">73</a></td><td>LAFORGE:  And I can understand that this might all be a little disconcerting for you, Data. It came out of the blue, and it doesn't fit into your logical processors.</td></tr>
 
-  DATA
-     I do not.
+<tr id="L74"><td><a href="#L74">74</a></td><td>DATA:  That is true.</td></tr>
 
-  JULIANA
-     Maybe we should spend a little time together? I'd
-     love to see your quarters.
+<tr id="L75"><td><a href="#L75">75</a></td><td>LAFORGE:  But that's life, Data. Part of being human is learning how to deal with the unexpected. To risk new experiences even when they don't fit into your preconceptions.</td></tr>
 
+<tr id="L76"><td><a href="#L76">76</a></td><td>DATA:  I admit I am finding it difficult to accept the possibility of a past about which I know nothing. But it is also true that I am curious to learn more about it.</td></tr>
 
-LOCATION--Data's quarters
+<tr><td></td><td>LOCATION--Ten Forward</td></tr>
+<tr id="L77"><td><a href="#L77">77</a></td><td>ANNOTATION: Juliana is having a meal when Data walks up to her table</td></tr>
 
-  ANNOTATION
-     Data plays violin for her. Juliana applauds
+<tr id="L78"><td><a href="#L78">78</a></td><td>JULIANA:  Data?</td></tr>
 
-  DATA
-     Thank you. I will be playing this piece at a
-     recital tomorrow evening.
+<tr id="L79"><td><a href="#L79">79</a></td><td>DATA:  I would like to get to know you better, Mother.</td></tr>
 
-  JULIANA
-     That was beautiful.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L80"><td><a href="#L80">80</a></td><td>JULIANA:  I wanted to make you female, but your father insisted on a son. We argued about it endlessly, right up until we were ready to assemble you.</td></tr>
 
-  DATA
-     I have been told that my playing is technically
-     flawless, but no one has described it as
-     beautiful.
+<tr id="L81"><td><a href="#L81">81</a></td><td>DATA:  How did you decide?</td></tr>
 
-  JULIANA
-     It was, really.
+<tr id="L82"><td><a href="#L82">82</a></td><td>JULIANA:  Noonian walked in with your head in his hand and, innocent as you please, said it was up to me. He knew perfectly well what he was doing. Once again he had made it in his own image. What could I possibly say? (reads door name plate) Deanna Troi, is that who you're going to visit?</td></tr>
 
-  DATA
-     Are you certain you are not saying this because
-     you are my mother? I have noticed that parents
-     tend to exaggerate when it comes to their
-     children's accomplishments.
+<tr id="L83"><td><a href="#L83">83</a></td><td>DATA:  Yes.</td></tr>
 
-  JULIANA
-     I suppose there's a certain amount of vanity
-     involved, considering that giving you a creative
-     aspect was my idea. Your father didn't really see
-     the point. He thought that since you didn't have
-     emotions, there would be no real need for you to
-     express yourself. Somehow I had the feeling the
-     opposite would be true.
+<tr id="L84"><td><a href="#L84">84</a></td><td>JULIANA:  Your father would be so pleased.</td></tr>
 
-  DATA
-     I do not know for certain, but I believe it is
-     during my creative endeavours that I come closest
-     to experiencing what it must be like to be human.
+<tr id="L85"><td><a href="#L85">85</a></td><td>DATA:  Pleased?</td></tr>
 
-  JULIANA
-     Well, I'm glad I insisted.
+<tr id="L86"><td><a href="#L86">86</a></td><td>JULIANA:  He was worried that the sexuality programme he designed for you wouldn't work.</td></tr>
 
-  DATA
-     As am I.
+<tr id="L87"><td><a href="#L87">87</a></td><td>DATA:  You misunderstand. Counsellor Troi is a therapist.</td></tr>
 
-  JULIANA
-     Data, I'm very familiar with that Handel piece.
-     How would you feel about my playing the viola part
-     tomorrow?
+<tr id="L88"><td><a href="#L88">88</a></td><td>JULIANA:  Goodnight.</td></tr>
 
-  DATA
-     I would like that very much.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L89"><td><a href="#L89">89</a></td><td>DATA:  We will be in position over the drilling site in three minutes twenty nine seconds.</td></tr>
 
-  JULIANA
-     I'll have to practice. You don't have a viola?
+<tr id="L90"><td><a href="#L90">90</a></td><td>ANNOTATION: Juliana rests her hand on his shoulder</td></tr>
 
-  DATA
-     I could replicate one for you. Computer, please
-     replicate one viola.
+<tr id="L91"><td><a href="#L91">91</a></td><td>DATA:  These scans indicate that the magma pockets where we plan to set up the infusion units are somewhat unstable.</td></tr>
 
-  JULIANA
-     Did you paint these?
+<tr id="L92"><td><a href="#L92">92</a></td><td>JULIANA:  I'm going to monitor the density of the rock layers and adjust the strength of the particle beam as we go. That should minimise the seismic stress that we generate while we're drilling.</td></tr>
 
-  DATA
-     Yes. I am attempting to master all known styles of
-     painting. This one is in the style of the early
-     French impressionists.
+<tr id="L93"><td><a href="#L93">93</a></td><td>LAFORGE:  Data, I reconfigured the phasers to create the most highly focused particle beam possible.</td></tr>
 
-  JULIANA
-     It's very good. Who's this?
+<tr id="L94"><td><a href="#L94">94</a></td><td>DATA:  Thank you, Geordi.</td></tr>
 
-  DATA
-     That is Lal, my daughter.
+<tr id="L95"><td><a href="#L95">95</a></td><td>JULIANA:  I'm just so pleased you've got good manners. It wasn't easy to strike the right balance with your programming. At first you couldn't have cared less about the social niceties like please and thank you. You were downright rude, in fact.</td></tr>
 
-  JULIANA
-     Your daughter?
+<tr id="L96"><td><a href="#L96">96</a></td><td>LAFORGE:  Data? That's hard to picture.</td></tr>
 
-  DATA
-     I created her, using myself as a model.
+<tr id="L97"><td><a href="#L97">97</a></td><td>JULIANA:  That was nothing to the problems we encountered. Never mind. I don't want to embarrass you.</td></tr>
 
-  JULIANA
-     Where is she now?
+<tr id="L98"><td><a href="#L98">98</a></td><td>DATA:  I am incapable of embarrassment. Please continue.</td></tr>
 
-  DATA
-     The positronic matrix I designed for her was
-     unstable. She only lived a short time.
+<tr id="L99"><td><a href="#L99">99</a></td><td>JULIANA:  Well, the one thing we couldn't anticipate was that you didn't seem to mind about being naked. Some of the colonists objected to having an anatomically correct android running around without any clothes on. We asked you to dress, but you didn't feel it was necessary because you didn't suffer from the elements. We actually had to write a modesty sub-routine to get you to keep your clothes on.</td></tr>
 
-  JULIANA
-     I see.
+<tr id="L100"><td><a href="#L100">100</a></td><td>RIKER [OC]:  Bridge to Engineering.</td></tr>
 
-  DATA
-     In a sense, you were her grandmother. Would you
-     like to practice now?
+<tr id="L101"><td><a href="#L101">101</a></td><td>LAFORGE:  La Forge here. Go ahead, Commander.</td></tr>
 
-  JULIANA
-     Yes. Yes, of course.
+<tr id="L102"><td><a href="#L102">102</a></td><td>RIKER [OC]:  We've established a synchronous orbit over the drilling site.</td></tr>
 
+<tr id="L103"><td><a href="#L103">103</a></td><td>LAFORGE:  Phaser modifications are online, sir.</td></tr>
 
-LOCATION--Ten Forward
+<tr id="L104"><td><a href="#L104">104</a></td><td>DATA:  My calculations indicate</td></tr>
 
-  ANNOTATION
-     the place is empty so they are practising here
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L105"><td><a href="#L105">105</a></td><td>DATA [OC]:  The first phaser blast will be approximately nineteen seconds in duration.</td></tr>
 
-  DATA
-     The acoustics in Ten Forward are most favourable.
+<tr id="L106"><td><a href="#L106">106</a></td><td>RIKER:  Acknowledged.</td></tr>
 
-  JULIANA
-     Yes, yes, very nice. Data, may I ask you
-     something?
+<tr id="L107"><td><a href="#L107">107</a></td><td>PRAN:  Someone's checked his calculations, of course.</td></tr>
 
-  DATA
-     Of course.
+<tr id="L108"><td><a href="#L108">108</a></td><td>RIKER:  No, but I'm sure Mister Data knows what he's doing.</td></tr>
 
-  JULIANA
-     Do you think you'll ever try to create an android
-     again?
+<tr id="L109"><td><a href="#L109">109</a></td><td>PRAN:  Even so, he is a machine. Someone should check up on him.</td></tr>
 
-  DATA
-     Perhaps. I created Lal because I wished to
-     procreate. Despite what happened to her, I still
-     have that wish.
+<tr id="L110"><td><a href="#L110">110</a></td><td>RIKER:  I have complete confidence in Mister Data's ability to check up on himself. Mister Worf?</td></tr>
 
-  JULIANA
-     How do you know the same thing won't happen?
-     Creating a stable positronic matrix is very
-     tricky. Your father lost several prototypes before
-     Lore.
+<tr id="L111"><td><a href="#L111">111</a></td><td>WORF:  Phasers locked on target.</td></tr>
 
-  DATA
-     I was not aware he created other androids before
-     my brother.
+<tr id="L112"><td><a href="#L112">112</a></td><td>RIKER:  Fire when ready.</td></tr>
 
-  JULIANA
-     There were three of them. They were like children
-     to us. Losing them was very painful. When Noonian
-     decided to try again, I was very much against it.
-     I didn't think we had the right to bring a life
-     into the world with so little chance of surviving.
-     But your Father was sure that he'd figured out
-     what went wrong, insisted he could make a stable
-     matrix, and he did. But Lore was cruel. Evil.
-     Eventually we had no choice, we had to dismantle
-     him. Your father decided to build yet another
-     android, one who didn't have emotions. I couldn't
-     believe he would want to try again.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L113"><td><a href="#L113">113</a></td><td>DATA:  We are within two kilometres of the magma pocket.</td></tr>
 
-  DATA
-     I am that android. Are you saying you were against
-     my creation?
+<tr id="L114"><td><a href="#L114">114</a></td><td>JULIANA:  Another five seconds should do it. We've broken through.</td></tr>
 
-  JULIANA
-     Initially I was. But I was wrong, I know that now.
-     I've followed your progress for years. I'm very
-     proud of what you've accomplished.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L115"><td><a href="#L115">115</a></td><td>WORF:  Terminating the beam.</td></tr>
 
-  DATA
-     Then why did you never attempt to contact me?
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L116"><td><a href="#L116">116</a></td><td>JULIANA:  The pocket seems stable.</td></tr>
 
-  JULIANA
-     Because I felt guilty about something I'd done.
+<tr id="L117"><td><a href="#L117">117</a></td><td>DATA:  I detect no increase in the stress levels of the surrounding magma.</td></tr>
 
-  DATA
-     Perhaps if you told me what has made you feel this
-     way, it may alleviated the guilt.
+<tr id="L118"><td><a href="#L118">118</a></td><td>RIKER [OC]:  Good work, Data.</td></tr>
 
-  JULIANA
-     I lied. When I said there was no room for you in
-     the escape pod that we took from Omicron. There
-     was. I didn't want to bring you with us. I was
-     afraid if we reactivated you, you'd turn out like
-     Lore. I made Noonian leave you behind.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L119"><td><a href="#L119">119</a></td><td>RIKER:  I don't think we could have gotten it any cleaner.</td></tr>
 
+<tr id="L120"><td><a href="#L120">120</a></td><td>JULIANA [OC]:  We have Data to thank for that. I couldn't have done it without him. His figures were perfect.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L121"><td><a href="#L121">121</a></td><td>DATA:  The drilling process has raised the temperature in the magma pockets by almost three hundred degrees Celsius. It will be several hours before it cools enough for us to enter.</td></tr>
 
-  DATA
-     We are within four kilometres of the magma pocket.
+<tr id="L122"><td><a href="#L122">122</a></td><td>JULIANA:  Data, do you have any plans right now?</td></tr>
 
-  ANNOTATION
-     the ship starts shaking
+<tr id="L123"><td><a href="#L123">123</a></td><td>DATA:  I do not.</td></tr>
 
-  LAFORGE
-     We're picking up feedback pulses along the
-     particle beam.
+<tr id="L124"><td><a href="#L124">124</a></td><td>JULIANA:  Maybe we should spend a little time together? I'd love to see your quarters.</td></tr>
 
-  JULIANA
-     We must have hit a pocket of magnesite ore. I'll
-     try to adjust the phaser harmonics to compensate.
+<tr><td></td><td>LOCATION--Data's quarters</td></tr>
+<tr id="L125"><td><a href="#L125">125</a></td><td>ANNOTATION: Data plays violin for her. Juliana applauds</td></tr>
 
-  RIKER [OC]
-     Data, we're going to have to terminate the beam if
-     this keeps up.
+<tr id="L126"><td><a href="#L126">126</a></td><td>DATA:  Thank you. I will be playing this piece at a recital tomorrow evening.</td></tr>
 
-  DATA
-     If we do, we will have to begin a new shaft at a
-     suitable location.
+<tr id="L127"><td><a href="#L127">127</a></td><td>JULIANA:  That was beautiful.</td></tr>
 
-  JULIANA
-     There is no other suitable location. Just give me
-     a few more seconds.
+<tr id="L128"><td><a href="#L128">128</a></td><td>DATA:  I have been told that my playing is technically flawless, but no one has described it as beautiful.</td></tr>
 
-  LAFORGE
-     Doctor, it's going to take longer than that to
-     match the
+<tr id="L129"><td><a href="#L129">129</a></td><td>JULIANA:  It was, really.</td></tr>
 
-  ANNOTATION
-     the shaking stops
+<tr id="L130"><td><a href="#L130">130</a></td><td>DATA:  Are you certain you are not saying this because you are my mother? I have noticed that parents tend to exaggerate when it comes to their children's accomplishments.</td></tr>
 
-  LAFORGE
-     You did it.
+<tr id="L131"><td><a href="#L131">131</a></td><td>JULIANA:  I suppose there's a certain amount of vanity involved, considering that giving you a creative aspect was my idea. Your father didn't really see the point. He thought that since you didn't have emotions, there would be no real need for you to express yourself. Somehow I had the feeling the opposite would be true.</td></tr>
 
-  JULIANA
-     It was just luck I hit the right frequency. All
-     right, we're less than two kilometres away from
-     the target site. Stand by to terminate the beam.
+<tr id="L132"><td><a href="#L132">132</a></td><td>DATA:  I do not know for certain, but I believe it is during my creative endeavours that I come closest to experiencing what it must be like to be human.</td></tr>
 
-  LAFORGE
-     We've broken through.
+<tr id="L133"><td><a href="#L133">133</a></td><td>JULIANA:  Well, I'm glad I insisted.</td></tr>
 
-  JULIANA
-     Now.
+<tr id="L134"><td><a href="#L134">134</a></td><td>DATA:  As am I.</td></tr>
 
-  DATA
-     I am detecting no signs of
+<tr id="L135"><td><a href="#L135">135</a></td><td>JULIANA:  Data, I'm very familiar with that Handel piece. How would you feel about my playing the viola part tomorrow?</td></tr>
 
+<tr id="L136"><td><a href="#L136">136</a></td><td>DATA:  I would like that very much.</td></tr>
 
-LOCATION--Bridge
+<tr id="L137"><td><a href="#L137">137</a></td><td>JULIANA:  I'll have to practice. You don't have a viola?</td></tr>
 
-  DATA [OC]
-     Instability.
+<tr id="L138"><td><a href="#L138">138</a></td><td>DATA:  I could replicate one for you. Computer, please replicate one viola.</td></tr>
 
-  PRAN
-     Commander, may I suggest we set up the infusion
-     unit in the first magma pocket and give this one a
-     chance to cool.
+<tr id="L139"><td><a href="#L139">139</a></td><td>JULIANA:  Did you paint these?</td></tr>
 
-  RIKER
-     Data
+<tr id="L140"><td><a href="#L140">140</a></td><td>DATA:  Yes. I am attempting to master all known styles of painting. This one is in the style of the early French impressionists.</td></tr>
 
+<tr id="L141"><td><a href="#L141">141</a></td><td>JULIANA:  It's very good. Who's this?</td></tr>
 
-LOCATION--Engineering
+<tr id="L142"><td><a href="#L142">142</a></td><td>DATA:  That is Lal, my daughter.</td></tr>
 
-  RIKER [OC]
-     Doctor Tainer, we'll meet you in transporter room
-     two.
+<tr id="L143"><td><a href="#L143">143</a></td><td>JULIANA:  Your daughter?</td></tr>
 
-  DATA
-     Acknowledged.
+<tr id="L144"><td><a href="#L144">144</a></td><td>DATA:  I created her, using myself as a model.</td></tr>
 
+<tr id="L145"><td><a href="#L145">145</a></td><td>JULIANA:  Where is she now?</td></tr>
 
-LOCATION--Magma pocket
+<tr id="L146"><td><a href="#L146">146</a></td><td>DATA:  The positronic matrix I designed for her was unstable. She only lived a short time.</td></tr>
 
-  ANNOTATION
-     a nice big cave with a lovely flat floor
+<tr id="L147"><td><a href="#L147">147</a></td><td>JULIANA:  I see.</td></tr>
 
-  DATA
-     I have initialised the plasma induction coils.
+<tr id="L148"><td><a href="#L148">148</a></td><td>DATA:  In a sense, you were her grandmother. Would you like to practice now?</td></tr>
 
-  JULIANA
-     I'll need another minute to align the diverter.
+<tr id="L149"><td><a href="#L149">149</a></td><td>JULIANA:  Yes. Yes, of course.</td></tr>
 
-  ANNOTATION
-     Data is watching Juliana very carefully
+<tr><td></td><td>LOCATION--Ten Forward</td></tr>
+<tr id="L150"><td><a href="#L150">150</a></td><td>ANNOTATION: the place is empty so they are practising here</td></tr>
 
-  PRAN
-     There are signs of stress in the surrounding
-     magma, but the site should remain stable until we
-     finish the plasma infusion.
+<tr id="L151"><td><a href="#L151">151</a></td><td>DATA:  The acoustics in Ten Forward are most favourable.</td></tr>
 
-  JULIANA
-     Good, we're almost done here.
+<tr id="L152"><td><a href="#L152">152</a></td><td>JULIANA:  Yes, yes, very nice. Data, may I ask you something?</td></tr>
 
-  PRAN
-     Data, Juliana told me what she said to you last
-     night. She's been very upset. I don't blame you
-     for being angry with her
+<tr id="L153"><td><a href="#L153">153</a></td><td>DATA:  Of course.</td></tr>
 
-  DATA
-     I am incapable of anger.
+<tr id="L154"><td><a href="#L154">154</a></td><td>JULIANA:  Do you think you'll ever try to create an android again?</td></tr>
 
-  JULIANA
-     It's all right, Pran. I know what I said to you
-     must have been hard to hear, but I hope you
-     understand my reasons.
+<tr id="L155"><td><a href="#L155">155</a></td><td>DATA:  Perhaps. I created Lal because I wished to procreate. Despite what happened to her, I still have that wish.</td></tr>
 
-  DATA
-     I am not certain I do. Perhaps you could clarify
-     them for me?
+<tr id="L156"><td><a href="#L156">156</a></td><td>JULIANA:  How do you know the same thing won't happen? Creating a stable positronic matrix is very tricky. Your father lost several prototypes before Lore.</td></tr>
 
-  JULIANA
-     Well, I'll try. What do you want to know?
+<tr id="L157"><td><a href="#L157">157</a></td><td>DATA:  I was not aware he created other androids before my brother.</td></tr>
 
-  DATA
-     If I had been your biological offspring, would you
-     have left me on Omicron Theta?
+<tr id="L158"><td><a href="#L158">158</a></td><td>JULIANA:  There were three of them. They were like children to us. Losing them was very painful. When Noonian decided to try again, I was very much against it. I didn't think we had the right to bring a life into the world with so little chance of surviving. But your Father was sure that he'd figured out what went wrong, insisted he could make a stable matrix, and he did. But Lore was cruel. Evil. Eventually we had no choice, we had to dismantle him. Your father decided to build yet another android, one who didn't have emotions. I couldn't believe he would want to try again.</td></tr>
 
-  JULIANA
-     Oh, Data, how can I answer that?
+<tr id="L159"><td><a href="#L159">159</a></td><td>DATA:  I am that android. Are you saying you were against my creation?</td></tr>
 
-  DATA
-     Doctor Tainer, I get the impression you are trying
-     to spare my feelings. I assure you that is not
-     necessary.
+<tr id="L160"><td><a href="#L160">160</a></td><td>JULIANA:  Initially I was. But I was wrong, I know that now. I've followed your progress for years. I'm very proud of what you've accomplished.</td></tr>
 
-  JULIANA
-     I just don't want you to misunderstand my answer.
-     No, I wouldn't have left you behind if you'd been
-     my biological child.
+<tr id="L161"><td><a href="#L161">161</a></td><td>DATA:  Then why did you never attempt to contact me?</td></tr>
 
-  DATA
-     Is that because you place more value on biological
-     life than on artificial life?
+<tr id="L162"><td><a href="#L162">162</a></td><td>JULIANA:  Because I felt guilty about something I'd done.</td></tr>
 
-  JULIANA
-     Absolutely not. I cherished every android your
-     father and I created as if it were my child. Even
-     Lore. Despite the fact that he turned on us,
-     despite the dreadful things he did, dismantling
-     him was the most difficult thing I ever had to do.
-     I was afraid that if you turned out like him I
-     would have to dismantle you, too. And I couldn't
-     bear to do that. I'm not trying to justify leaving
-     you behind. I'm just sorry I did. I hope you
-     believe me.
+<tr id="L163"><td><a href="#L163">163</a></td><td>DATA:  Perhaps if you told me what has made you feel this way, it may alleviated the guilt.</td></tr>
 
-  DATA
-     I do. Thank you for making it clear to me.
+<tr id="L164"><td><a href="#L164">164</a></td><td>JULIANA:  I lied. When I said there was no room for you in the escape pod that we took from Omicron. There was. I didn't want to bring you with us. I was afraid if we reactivated you, you'd turn out like Lore. I made Noonian leave you behind.</td></tr>
 
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L165"><td><a href="#L165">165</a></td><td>DATA:  We are within four kilometres of the magma pocket.</td></tr>
 
-LOCATION--Ten Forward
+<tr id="L166"><td><a href="#L166">166</a></td><td>ANNOTATION: the ship starts shaking</td></tr>
 
-  ANNOTATION
-     Data and Juliana finish their recital to applause
+<tr id="L167"><td><a href="#L167">167</a></td><td>LAFORGE:  We're picking up feedback pulses along the particle beam.</td></tr>
 
-  AUDIENCE
-     Bravo, bravo.
+<tr id="L168"><td><a href="#L168">168</a></td><td>JULIANA:  We must have hit a pocket of magnesite ore. I'll try to adjust the phaser harmonics to compensate.</td></tr>
 
+<tr id="L169"><td><a href="#L169">169</a></td><td>RIKER [OC]:  Data, we're going to have to terminate the beam if this keeps up.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L170"><td><a href="#L170">170</a></td><td>DATA:  If we do, we will have to begin a new shaft at a suitable location.</td></tr>
 
-  CRUSHER
-     Data, why do you want to look at Doctor Tainer's
-     medical records? Is something wrong with her?
+<tr id="L171"><td><a href="#L171">171</a></td><td>JULIANA:  There is no other suitable location. Just give me a few more seconds.</td></tr>
 
-  DATA
-     I was hoping you would be able to determine that
-     from her transporter trace pattern.
+<tr id="L172"><td><a href="#L172">172</a></td><td>LAFORGE:  Doctor, it's going to take longer than that to match the</td></tr>
 
-  CRUSHER
-     Well, probably I could, but ordinarily I don't
-     check somebody's medical status without a good
-     reason.
+<tr id="L173"><td><a href="#L173">173</a></td><td>ANNOTATION: the shaking stops</td></tr>
 
-  DATA
-     Doctor, I would ask that you not require me to be
-     more specific. I assure you, I have a good reason
-     for asking.
+<tr id="L174"><td><a href="#L174">174</a></td><td>LAFORGE:  You did it.</td></tr>
 
-  CRUSHER
-     All right, Data. At first glance I see nothing
-     wrong with her. Except for a mild case of
-     hypertension, which is normal for a woman her age.
+<tr id="L175"><td><a href="#L175">175</a></td><td>JULIANA:  It was just luck I hit the right frequency. All right, we're less than two kilometres away from the target site. Stand by to terminate the beam.</td></tr>
 
-  DATA
-     I see.
+<tr id="L176"><td><a href="#L176">176</a></td><td>LAFORGE:  We've broken through.</td></tr>
 
-  CRUSHER
-     Maybe you should tell me what her symptoms are.
+<tr id="L177"><td><a href="#L177">177</a></td><td>JULIANA:  Now.</td></tr>
 
-  DATA
-     She has not complained of any discomfort.
+<tr id="L178"><td><a href="#L178">178</a></td><td>DATA:  I am detecting no signs of</td></tr>
 
-  CRUSHER
-     Then why do you want to see her medical records?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L179"><td><a href="#L179">179</a></td><td>DATA [OC]:  Instability.</td></tr>
 
-  DATA
-     Because I have reason to believe she is not who
-     she claims to be.
+<tr id="L180"><td><a href="#L180">180</a></td><td>PRAN:  Commander, may I suggest we set up the infusion unit in the first magma pocket and give this one a chance to cool.</td></tr>
 
-  RIKER [OC]
-     Bridge to Data.
+<tr id="L181"><td><a href="#L181">181</a></td><td>RIKER:  Data</td></tr>
 
-  DATA
-     Go ahead, sir.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L182"><td><a href="#L182">182</a></td><td>RIKER [OC]:  Doctor Tainer, we'll meet you in transporter room two.</td></tr>
 
-  RIKER [OC]
-     There's been a cave-in in one of the magma
-     pockets. You're needed in transporter room two.
+<tr id="L183"><td><a href="#L183">183</a></td><td>DATA:  Acknowledged.</td></tr>
 
-  DATA
-     On my way. Excuse me, Doctor.
+<tr><td></td><td>LOCATION--Magma pocket</td></tr>
+<tr id="L184"><td><a href="#L184">184</a></td><td>ANNOTATION: a nice big cave with a lovely flat floor</td></tr>
 
+<tr id="L185"><td><a href="#L185">185</a></td><td>DATA:  I have initialised the plasma induction coils.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L186"><td><a href="#L186">186</a></td><td>JULIANA:  I'll need another minute to align the diverter.</td></tr>
 
-  ANNOTATION
-     Juliana and Data enter
+<tr id="L187"><td><a href="#L187">187</a></td><td>ANNOTATION: Data is watching Juliana very carefully</td></tr>
 
-  JULIANA
-     What happened?
+<tr id="L188"><td><a href="#L188">188</a></td><td>PRAN:  There are signs of stress in the surrounding magma, but the site should remain stable until we finish the plasma infusion.</td></tr>
 
-  ANNOTATION
-     Pran is injured
+<tr id="L189"><td><a href="#L189">189</a></td><td>JULIANA:  Good, we're almost done here.</td></tr>
 
-  PRAN
-     We were running a final check on the infusion
-     units when a part of the wall gave way.
+<tr id="L190"><td><a href="#L190">190</a></td><td>PRAN:  Data, Juliana told me what she said to you last night. She's been very upset. I don't blame you for being angry with her</td></tr>
 
-  LAFORGE
-     It looks like the area has stabilised, but seismic
-     stress is building up. Eventually, the pocket will
-     collapse.
+<tr id="L191"><td><a href="#L191">191</a></td><td>DATA:  I am incapable of anger.</td></tr>
 
-  RIKER [OC]
-     How long, Geordi?
+<tr id="L192"><td><a href="#L192">192</a></td><td>JULIANA:  It's all right, Pran. I know what I said to you must have been hard to hear, but I hope you understand my reasons.</td></tr>
 
-  LAFORGE
-     It's tough to tell, Commander. Twelve hours at
-     most.
+<tr id="L193"><td><a href="#L193">193</a></td><td>DATA:  I am not certain I do. Perhaps you could clarify them for me?</td></tr>
 
-  JULIANA
-     Then we must finish configuring the unit and
-     inject the plasma immediately.
+<tr id="L194"><td><a href="#L194">194</a></td><td>JULIANA:  Well, I'll try. What do you want to know?</td></tr>
 
+<tr id="L195"><td><a href="#L195">195</a></td><td>DATA:  If I had been your biological offspring, would you have left me on Omicron Theta?</td></tr>
 
-LOCATION--Bridge
+<tr id="L196"><td><a href="#L196">196</a></td><td>JULIANA:  Oh, Data, how can I answer that?</td></tr>
 
-  RIKER
-     I'd rather not send anyone back down there.
+<tr id="L197"><td><a href="#L197">197</a></td><td>DATA:  Doctor Tainer, I get the impression you are trying to spare my feelings. I assure you that is not necessary.</td></tr>
 
-  JULIANA [OC]
-     If you don't do it
+<tr id="L198"><td><a href="#L198">198</a></td><td>JULIANA:  I just don't want you to misunderstand my answer. No, I wouldn't have left you behind if you'd been my biological child.</td></tr>
 
+<tr id="L199"><td><a href="#L199">199</a></td><td>DATA:  Is that because you place more value on biological life than on artificial life?</td></tr>
 
-LOCATION--Transporter room
+<tr id="L200"><td><a href="#L200">200</a></td><td>JULIANA:  Absolutely not. I cherished every android your father and I created as if it were my child. Even Lore. Despite the fact that he turned on us, despite the dreadful things he did, dismantling him was the most difficult thing I ever had to do. I was afraid that if you turned out like him I would have to dismantle you, too. And I couldn't bear to do that. I'm not trying to justify leaving you behind. I'm just sorry I did. I hope you believe me.</td></tr>
 
-  JULIANA
-     Now, Commander, it may take months to find another
-     suitable site. The core may solidify by then.
+<tr id="L201"><td><a href="#L201">201</a></td><td>DATA:  I do. Thank you for making it clear to me.</td></tr>
 
-  PRAN
-     She's right, we have to act now.
+<tr><td></td><td>LOCATION--Ten Forward</td></tr>
+<tr id="L202"><td><a href="#L202">202</a></td><td>ANNOTATION: Data and Juliana finish their recital to applause</td></tr>
 
-  RIKER [OC]
-     All right, but I want you in and out of there as
-     quickly as possible.
+<tr id="L203"><td><a href="#L203">203</a></td><td>AUDIENCE:  Bravo, bravo.</td></tr>
 
-  DATA
-     Acknowledged.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L204"><td><a href="#L204">204</a></td><td>CRUSHER:  Data, why do you want to look at Doctor Tainer's medical records? Is something wrong with her?</td></tr>
 
-  JULIANA
-     You're hurt. I'll go.
+<tr id="L205"><td><a href="#L205">205</a></td><td>DATA:  I was hoping you would be able to determine that from her transporter trace pattern.</td></tr>
 
+<tr id="L206"><td><a href="#L206">206</a></td><td>CRUSHER:  Well, probably I could, but ordinarily I don't check somebody's medical status without a good reason.</td></tr>
 
-LOCATION--Magma pocket
+<tr id="L207"><td><a href="#L207">207</a></td><td>DATA:  Doctor, I would ask that you not require me to be more specific. I assure you, I have a good reason for asking.</td></tr>
 
-  ANNOTATION
-     Data is standing up the pattern enhancers and
-     scanning the area when a quake strikes
+<tr id="L208"><td><a href="#L208">208</a></td><td>CRUSHER:  All right, Data. At first glance I see nothing wrong with her. Except for a mild case of hypertension, which is normal for a woman her age.</td></tr>
 
-  DATA
-     There will be more seismic activity. We must
-     hurry.
+<tr id="L209"><td><a href="#L209">209</a></td><td>DATA:  I see.</td></tr>
 
-  ANNOTATION
-     Data and Juliana go along a passage to where the
-     equipment is set up
+<tr id="L210"><td><a href="#L210">210</a></td><td>CRUSHER:  Maybe you should tell me what her symptoms are.</td></tr>
 
-  DATA
-     The shaft has not been obstructed by the seismic
-     activity. It should be possible to trigger the
-     unit from orbit.
+<tr id="L211"><td><a href="#L211">211</a></td><td>DATA:  She has not complained of any discomfort.</td></tr>
 
-  JULIANA
-     The infuser's been damaged. We're going to have to
-     start the programming sequence all over again.
+<tr id="L212"><td><a href="#L212">212</a></td><td>CRUSHER:  Then why do you want to see her medical records?</td></tr>
 
-  DATA
-     Priming the energy-transfer matrix.
+<tr id="L213"><td><a href="#L213">213</a></td><td>DATA:  Because I have reason to believe she is not who she claims to be.</td></tr>
 
-  JULIANA
-     Re-initialising the particle stream buffer.
+<tr id="L214"><td><a href="#L214">214</a></td><td>RIKER [OC]:  Bridge to Data.</td></tr>
 
-  RIKER [OC]
-     Riker to Data. Are you there?
+<tr id="L215"><td><a href="#L215">215</a></td><td>DATA:  Go ahead, sir.</td></tr>
 
-  DATA
-     Go ahead, sir.
+<tr id="L216"><td><a href="#L216">216</a></td><td>RIKER [OC]:  There's been a cave-in in one of the magma pockets. You're needed in transporter room two.</td></tr>
 
-  RIKER [OC]
-     We're reading an increase in seismic stress
-     levels.
+<tr id="L217"><td><a href="#L217">217</a></td><td>DATA:  On my way. Excuse me, Doctor.</td></tr>
 
-  DATA
-     Understood, sir. We will attempt to expedite our
-     work.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L218"><td><a href="#L218">218</a></td><td>ANNOTATION: Juliana and Data enter</td></tr>
 
-  JULIANA
-     There. Now we just have to re-align the diverter.
+<tr id="L219"><td><a href="#L219">219</a></td><td>JULIANA:  What happened?</td></tr>
 
-  ANNOTATION
-     another quake rocks the chamber
+<tr id="L220"><td><a href="#L220">220</a></td><td>ANNOTATION: Pran is injured</td></tr>
 
-  RIKER [OC]
-     Data, are you all right?
+<tr id="L221"><td><a href="#L221">221</a></td><td>PRAN:  We were running a final check on the infusion units when a part of the wall gave way.</td></tr>
 
-  DATA
-     Yes, sir. We'll be returning to the beam-out point
-     shortly.
+<tr id="L222"><td><a href="#L222">222</a></td><td>LAFORGE:  It looks like the area has stabilised, but seismic stress is building up. Eventually, the pocket will collapse.</td></tr>
 
-  JULIANA
-     That's it. Let's go.
+<tr id="L223"><td><a href="#L223">223</a></td><td>RIKER [OC]:  How long, Geordi?</td></tr>
 
-  ANNOTATION
-     they go down the passage and discover everything
-     has fallen down into a pit
+<tr id="L224"><td><a href="#L224">224</a></td><td>LAFORGE:  It's tough to tell, Commander. Twelve hours at most.</td></tr>
 
-  JULIANA
-     Can we transport without the pattern enhancers?
+<tr id="L225"><td><a href="#L225">225</a></td><td>JULIANA:  Then we must finish configuring the unit and inject the plasma immediately.</td></tr>
 
-  DATA
-     No, we are too far below the surface.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L226"><td><a href="#L226">226</a></td><td>RIKER:  I'd rather not send anyone back down there.</td></tr>
 
-  JULIANA
-     How are we going to get down there?
+<tr id="L227"><td><a href="#L227">227</a></td><td>JULIANA [OC]:  If you don't do it</td></tr>
 
-  DATA
-     There are no handholds in the rock face. We are
-     going to have to jump.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L228"><td><a href="#L228">228</a></td><td>JULIANA:  Now, Commander, it may take months to find another suitable site. The core may solidify by then.</td></tr>
 
-  JULIANA
-     No, it's too far! I won't make it!
+<tr id="L229"><td><a href="#L229">229</a></td><td>PRAN:  She's right, we have to act now.</td></tr>
 
-  DATA
-     You will.
+<tr id="L230"><td><a href="#L230">230</a></td><td>RIKER [OC]:  All right, but I want you in and out of there as quickly as possible.</td></tr>
 
-  ANNOTATION
-     Data takes Juliana's arm and makes her jump with
-     him. She lands badly, is knocked out, and her arm
-     has fallen off. It is artificial.
+<tr id="L231"><td><a href="#L231">231</a></td><td>DATA:  Acknowledged.</td></tr>
 
+<tr id="L232"><td><a href="#L232">232</a></td><td>JULIANA:  You're hurt. I'll go.</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Magma pocket</td></tr>
+<tr id="L233"><td><a href="#L233">233</a></td><td>ANNOTATION: Data is standing up the pattern enhancers and scanning the area when a quake strikes</td></tr>
 
-  ANNOTATION
-     Geordi has got Juliana's forehead open
+<tr id="L234"><td><a href="#L234">234</a></td><td>DATA:  There will be more seismic activity. We must hurry.</td></tr>
 
-  LAFORGE
-     Basically she's a Soong-type android, except
-     everything about her is designed to fool you into
-     thinking she's human.
+<tr id="L235"><td><a href="#L235">235</a></td><td>ANNOTATION: Data and Juliana go along a passage to where the equipment is set up</td></tr>
 
-  CRUSHER
-     She's got tear ducts, sweat glands, even veins and
-     capillaries underneath her skin.
+<tr id="L236"><td><a href="#L236">236</a></td><td>DATA:  The shaft has not been obstructed by the seismic activity. It should be possible to trigger the unit from orbit.</td></tr>
 
-  RIKER
-     Why does the scanner read her as a human?
+<tr id="L237"><td><a href="#L237">237</a></td><td>JULIANA:  The infuser's been damaged. We're going to have to start the programming sequence all over again.</td></tr>
 
-  CRUSHER
-     Because she has a feedback processor designed to
-     send out a false bio-signal.
+<tr id="L238"><td><a href="#L238">238</a></td><td>DATA:  Priming the energy-transfer matrix.</td></tr>
 
-  LAFORGE
-     It's part of her aging programme. Not only does
-     she age in appearance like Data, her vital signs
-     change too.
+<tr id="L239"><td><a href="#L239">239</a></td><td>JULIANA:  Re-initialising the particle stream buffer.</td></tr>
 
-  CRUSHER
-     What I can't figure out is why she lost
-     consciousness. As far as I can see, everything is
-     fine. She should be awake.
+<tr id="L240"><td><a href="#L240">240</a></td><td>RIKER [OC]:  Riker to Data. Are you there?</td></tr>
 
-  DATA
-     Check her positronic matrix. There may be a
-     cascade anomaly.
+<tr id="L241"><td><a href="#L241">241</a></td><td>DATA:  Go ahead, sir.</td></tr>
 
-  RIKER
-     You said you knew she was an android. How?
+<tr id="L242"><td><a href="#L242">242</a></td><td>RIKER [OC]:  We're reading an increase in seismic stress levels.</td></tr>
 
-  DATA
-     The first indication occurred when we were
-     digging. I saw her perform complex calculations
-     without the assistance of the computer.
+<tr id="L243"><td><a href="#L243">243</a></td><td>DATA:  Understood, sir. We will attempt to expedite our work.</td></tr>
 
-  RIKER
-     That could have just meant she was good at math.
+<tr id="L244"><td><a href="#L244">244</a></td><td>JULIANA:  There. Now we just have to re-align the diverter.</td></tr>
 
-  DATA
-     That is true, but it was enough to get my
-     attention. Later, I noticed something odd about
-     the way she blinked her eyes. The intervals
-     between blinks were governed by the Fourier
-     system, the same mathematical formula my father
-     used to give my blinking pattern the appearance of
-     randomness.
+<tr id="L245"><td><a href="#L245">245</a></td><td>ANNOTATION: another quake rocks the chamber</td></tr>
 
-  RIKER
-     Only you could have noticed something like that.
+<tr id="L246"><td><a href="#L246">246</a></td><td>RIKER [OC]:  Data, are you all right?</td></tr>
 
-  DATA
-     Then there was the concert in Ten Forward.
+<tr id="L247"><td><a href="#L247">247</a></td><td>DATA:  Yes, sir. We'll be returning to the beam-out point shortly.</td></tr>
 
-  RIKER
-     What about it?
+<tr id="L248"><td><a href="#L248">248</a></td><td>JULIANA:  That's it. Let's go.</td></tr>
 
-  DATA
-     We had practised the piece, and I noticed that she
-     played it the same way during the performance.
-     Every pitch, every intonation, was exactly the
-     same. Only an artificial life form could have done
-     that.
+<tr id="L249"><td><a href="#L249">249</a></td><td>ANNOTATION: they go down the passage and discover everything has fallen down into a pit</td></tr>
 
-  RIKER
-     Does her husband know anything about this?
+<tr id="L250"><td><a href="#L250">250</a></td><td>JULIANA:  Can we transport without the pattern enhancers?</td></tr>
 
-  DATA
-     I do not believe so. He is on the surface
-     monitoring the plasma infusion.
+<tr id="L251"><td><a href="#L251">251</a></td><td>DATA:  No, we are too far below the surface.</td></tr>
 
-  RIKER
-     Probably just as well.
+<tr id="L252"><td><a href="#L252">252</a></td><td>JULIANA:  How are we going to get down there?</td></tr>
 
-  LAFORGE
-     Data, come take a look at this.
+<tr id="L253"><td><a href="#L253">253</a></td><td>DATA:  There are no handholds in the rock face. We are going to have to jump.</td></tr>
 
-  DATA
-     It appears to be an information module. With a
-     holographic interface.
+<tr id="L254"><td><a href="#L254">254</a></td><td>JULIANA:  No, it's too far! I won't make it!</td></tr>
 
+<tr id="L255"><td><a href="#L255">255</a></td><td>DATA:  You will.</td></tr>
 
-LOCATION--Holodeck
+<tr id="L256"><td><a href="#L256">256</a></td><td>ANNOTATION: Data takes Juliana's arm and makes her jump with him. She lands badly, is knocked out, and her arm has fallen off. It is artificial.</td></tr>
 
-  ANNOTATION
-     Data puts Juliana's chip into a holder, then into
-     the holodeck arch panel
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L257"><td><a href="#L257">257</a></td><td>ANNOTATION: Geordi has got Juliana's forehead open</td></tr>
 
-  SOONG
-     Whoever you are, you must have found out about
-     Juliana.
+<tr id="L258"><td><a href="#L258">258</a></td><td>LAFORGE:  Basically she's a Soong-type android, except everything about her is designed to fool you into thinking she's human.</td></tr>
 
-  DATA
-     That is correct.
+<tr id="L259"><td><a href="#L259">259</a></td><td>CRUSHER:  She's got tear ducts, sweat glands, even veins and capillaries underneath her skin.</td></tr>
 
-  SOONG
-     I programmed this hologram to answer any questions
-     you might have. I am Noonian Soong. I created her.
+<tr id="L260"><td><a href="#L260">260</a></td><td>RIKER:  Why does the scanner read her as a human?</td></tr>
 
-  DATA
-     I am Data.
+<tr id="L261"><td><a href="#L261">261</a></td><td>CRUSHER:  Because she has a feedback processor designed to send out a false bio-signal.</td></tr>
 
-  SOONG
-     Data? I hoped somehow it might be you. I even
-     created a response programme to answer your
-     questions. How are you, boy?
+<tr id="L262"><td><a href="#L262">262</a></td><td>LAFORGE:  It's part of her aging programme. Not only does she age in appearance like Data, her vital signs change too.</td></tr>
 
-  DATA
-     I am fine.
+<tr id="L263"><td><a href="#L263">263</a></td><td>CRUSHER:  What I can't figure out is why she lost consciousness. As far as I can see, everything is fine. She should be awake.</td></tr>
 
-  SOONG
-     I'm glad you got the chance to meet your mother.
+<tr id="L264"><td><a href="#L264">264</a></td><td>DATA:  Check her positronic matrix. There may be a cascade anomaly.</td></tr>
 
-  DATA
-     You refer to Doctor Tainer as my mother, yet the
-     complexity of her design indicates she was created
-     after I was.
+<tr id="L265"><td><a href="#L265">265</a></td><td>RIKER:  You said you knew she was an android. How?</td></tr>
 
-  SOONG
-     You're right. But there was a real Juliana
-     O'Donnell. She was my wife. She helped me create
-     you.
+<tr id="L266"><td><a href="#L266">266</a></td><td>DATA:  The first indication occurred when we were digging. I saw her perform complex calculations without the assistance of the computer.</td></tr>
 
-  DATA
-     What happened to her?
+<tr id="L267"><td><a href="#L267">267</a></td><td>RIKER:  That could have just meant she was good at math.</td></tr>
 
-  SOONG
-     She was injured when the Crystalline Entity
-     attacked. We made it as far as Terlina Three but,
-     she slipped into a coma. When I realised nothing
-     could be done for her, I built an android. I tried
-     to perfect my synaptic scanning technique so that
-     I could transfer Juliana's memories into a
-     positronic matrix. I didn't know if it would work,
-     but I had to try. I couldn't stand the thought of
-     losing the only woman I ever loved. A few days
-     after Juliana died, I activated the android. She
-     looked up at me and smiled. She recognised me. It
-     had worked! Here was a life not two minutes old,
-     and as far as she knew I was her husband. She'd
-     just recovered from a terrible injury. It was
-     incredible.
+<tr id="L268"><td><a href="#L268">268</a></td><td>DATA:  That is true, but it was enough to get my attention. Later, I noticed something odd about the way she blinked her eyes. The intervals between blinks were governed by the Fourier system, the same mathematical formula my father used to give my blinking pattern the appearance of randomness.</td></tr>
 
-  DATA
-     Then you never told her the truth?
+<tr id="L269"><td><a href="#L269">269</a></td><td>RIKER:  Only you could have noticed something like that.</td></tr>
 
-  SOONG
-     Why? There was no reason for her to know. I wanted
-     her to be happy. I wanted us to be happy. We were.
-     For a while.
+<tr id="L270"><td><a href="#L270">270</a></td><td>DATA:  Then there was the concert in Ten Forward.</td></tr>
 
-  DATA
-     What happened?
+<tr id="L271"><td><a href="#L271">271</a></td><td>RIKER:  What about it?</td></tr>
 
-  SOONG
-     I made a terrible mistake. I never really let her
-     know how much I loved her. So she left me. The
-     real Juliana probably would have left too, if
-     she'd lived.
+<tr id="L272"><td><a href="#L272">272</a></td><td>DATA:  We had practised the piece, and I noticed that she played it the same way during the performance. Every pitch, every intonation, was exactly the same. Only an artificial life form could have done that.</td></tr>
 
-  DATA
-     If she recovers and learns that she is an android
+<tr id="L273"><td><a href="#L273">273</a></td><td>RIKER:  Does her husband know anything about this?</td></tr>
 
-  SOONG
-     She doesn't have to know. I designed her to shut
-     down in the event the truth was discovered. When
-     you put that chip back in, she will wake up and
-     remember nothing. All you have to do is make up
-     some excuse about what happened to her.
+<tr id="L274"><td><a href="#L274">274</a></td><td>DATA:  I do not believe so. He is on the surface monitoring the plasma infusion.</td></tr>
 
-  DATA
-     Then you do not believe she should know the truth?
+<tr id="L275"><td><a href="#L275">275</a></td><td>RIKER:  Probably just as well.</td></tr>
 
-  SOONG
-     Truth? The truth is, in every way that matters,
-     she is Juliana Soong. I programmed her to
-     terminate after a long life. Let her live out her
-     days, and die believing she was human. Don't rob
-     her of that, son. Please.
+<tr id="L276"><td><a href="#L276">276</a></td><td>LAFORGE:  Data, come take a look at this.</td></tr>
 
+<tr id="L277"><td><a href="#L277">277</a></td><td>DATA:  It appears to be an information module. With a holographic interface.</td></tr>
 
-LOCATION--Observation lounge
+<tr><td></td><td>LOCATION--Holodeck</td></tr>
+<tr id="L278"><td><a href="#L278">278</a></td><td>ANNOTATION: Data puts Juliana's chip into a holder, then into the holodeck arch panel</td></tr>
 
-  DATA
-     It seems that I must make a decision. Whether to
-     tell Doctor Tainer that she is an android or to
-     withhold that information from her. I do not know
-     what to do.
+<tr id="L279"><td><a href="#L279">279</a></td><td>SOONG:  Whoever you are, you must have found out about Juliana.</td></tr>
 
-  CRUSHER
-     Why was Doctor Soong so adamant that she not be
-     told?
+<tr id="L280"><td><a href="#L280">280</a></td><td>DATA:  That is correct.</td></tr>
 
-  DATA
-     He seemed certain that if she knew, it would
-     preclude the possibility of her being happy.
+<tr id="L281"><td><a href="#L281">281</a></td><td>SOONG:  I programmed this hologram to answer any questions you might have. I am Noonian Soong. I created her.</td></tr>
 
-  PICARD
-     Data, what do you think?
+<tr id="L282"><td><a href="#L282">282</a></td><td>DATA:  I am Data.</td></tr>
 
-  DATA
-     I am not certain. I understand why my father felt
-     as he did, but his wishes are not necessarily
-     paramount. I am more concerned with what would be
-     best for her.
+<tr id="L283"><td><a href="#L283">283</a></td><td>SOONG:  Data? I hoped somehow it might be you. I even created a response programme to answer your questions. How are you, boy?</td></tr>
 
-  CRUSHER
-     Wouldn't she be better off knowing the truth?
-     Dealing with the reality of her existence?
+<tr id="L284"><td><a href="#L284">284</a></td><td>DATA:  I am fine.</td></tr>
 
-  TROI
-     I don't think so. She's believed she's human all
-     her life. The truth might be devastating to her.
+<tr id="L285"><td><a href="#L285">285</a></td><td>SOONG:  I'm glad you got the chance to meet your mother.</td></tr>
 
-  PICARD
-     Data, there might come some time in the future
-     when she would find out anyway. Another accident,
-     perhaps. Maybe it would be easier for her if she
-     learned the truth from you.
+<tr id="L286"><td><a href="#L286">286</a></td><td>DATA:  You refer to Doctor Tainer as my mother, yet the complexity of her design indicates she was created after I was.</td></tr>
 
-  CRUSHER
-     I can tell you that if I were in her place, I
-     would rather be told by my son than by some
-     stranger.
+<tr id="L287"><td><a href="#L287">287</a></td><td>SOONG:  You're right. But there was a real Juliana O'Donnell. She was my wife. She helped me create you.</td></tr>
 
-  DATA
-     I find I am having difficulty separating what
-     would be best for her from what would be best for
-     me.
+<tr id="L288"><td><a href="#L288">288</a></td><td>DATA:  What happened to her?</td></tr>
 
-  TROI
-     What do you mean?
+<tr id="L289"><td><a href="#L289">289</a></td><td>SOONG:  She was injured when the Crystalline Entity attacked. We made it as far as Terlina Three but, she slipped into a coma. When I realised nothing could be done for her, I built an android. I tried to perfect my synaptic scanning technique so that I could transfer Juliana's memories into a positronic matrix. I didn't know if it would work, but I had to try. I couldn't stand the thought of losing the only woman I ever loved. A few days after Juliana died, I activated the android. She looked up at me and smiled. She recognised me. It had worked! Here was a life not two minutes old, and as far as she knew I was her husband. She'd just recovered from a terrible injury. It was incredible.</td></tr>
 
-  DATA
-     If she knew she were an android, we would have
-     something to share. I would no longer be alone in
-     the universe.
+<tr id="L290"><td><a href="#L290">290</a></td><td>DATA:  Then you never told her the truth?</td></tr>
 
-  TROI
-     I know how much that means to you, Data, but at
-     the same time, by telling her you're robbing her
-     of the one thing you've wanted all your life. To
-     be human.
+<tr id="L291"><td><a href="#L291">291</a></td><td>SOONG:  Why? There was no reason for her to know. I wanted her to be happy. I wanted us to be happy. We were. For a while.</td></tr>
 
-  PICARD
-     It's a difficult choice. You must do what you
-     think best, Data. But whatever decision you make,
-     we will support it.
+<tr id="L292"><td><a href="#L292">292</a></td><td>DATA:  What happened?</td></tr>
 
+<tr id="L293"><td><a href="#L293">293</a></td><td>SOONG:  I made a terrible mistake. I never really let her know how much I loved her. So she left me. The real Juliana probably would have left too, if she'd lived.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L294"><td><a href="#L294">294</a></td><td>DATA:  If she recovers and learns that she is an android</td></tr>
 
-  ANNOTATION
-     Data puts the chip back in her head and covers it
-     over with her hair. She wakes.
+<tr id="L295"><td><a href="#L295">295</a></td><td>SOONG:  She doesn't have to know. I designed her to shut down in the event the truth was discovered. When you put that chip back in, she will wake up and remember nothing. All you have to do is make up some excuse about what happened to her.</td></tr>
 
-  JULIANA
-     Data? What happened? The last thing I remember is
-     jumping off a cliff.
+<tr id="L296"><td><a href="#L296">296</a></td><td>DATA:  Then you do not believe she should know the truth?</td></tr>
 
-  DATA
-     You were knocked unconscious by the fall. You
-     broke a bone in your arm, but Doctor Crusher
-     repaired it. Everything is fine.
+<tr id="L297"><td><a href="#L297">297</a></td><td>SOONG:  Truth? The truth is, in every way that matters, she is Juliana Soong. I programmed her to terminate after a long life. Let her live out her days, and die believing she was human. Don't rob her of that, son. Please.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. The infusion of
-     plasma into the core of Atrea Four has been
-     accomplished. The core should remain molten for
-     several hundred years.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L298"><td><a href="#L298">298</a></td><td>DATA:  It seems that I must make a decision. Whether to tell Doctor Tainer that she is an android or to withhold that information from her. I do not know what to do.</td></tr>
 
+<tr id="L299"><td><a href="#L299">299</a></td><td>CRUSHER:  Why was Doctor Soong so adamant that she not be told?</td></tr>
 
-LOCATION--Transporter room
+<tr id="L300"><td><a href="#L300">300</a></td><td>DATA:  He seemed certain that if she knew, it would preclude the possibility of her being happy.</td></tr>
 
-  JULIANA
-     When will I see you again?
+<tr id="L301"><td><a href="#L301">301</a></td><td>PICARD:  Data, what do you think?</td></tr>
 
-  DATA
-     Perhaps I can visit Atrea on my next leave.
+<tr id="L302"><td><a href="#L302">302</a></td><td>DATA:  I am not certain. I understand why my father felt as he did, but his wishes are not necessarily paramount. I am more concerned with what would be best for her.</td></tr>
 
-  JULIANA
-     I would like that very much. Well, I'd better be
-     going.
+<tr id="L303"><td><a href="#L303">303</a></td><td>CRUSHER:  Wouldn't she be better off knowing the truth? Dealing with the reality of her existence?</td></tr>
 
-  DATA
-     There is something I thought you should know. My
-     father told me that he had only one great love in
-     his life and that he regretted never telling her
-     how much he cared for her. I am certain he was
-     referring to you.
+<tr id="L304"><td><a href="#L304">304</a></td><td>TROI:  I don't think so. She's believed she's human all her life. The truth might be devastating to her.</td></tr>
 
-  JULIANA
-     That's nice to know. On Atrea there is a saying,
-     that a child born from parents who love each other
-     will have nothing but goodness in his heart. I
-     guess that explains you. Take care of yourself,
-     son.
+<tr id="L305"><td><a href="#L305">305</a></td><td>PICARD:  Data, there might come some time in the future when she would find out anyway. Another accident, perhaps. Maybe it would be easier for her if she learned the truth from you.</td></tr>
 
-  DATA
-     Goodbye, Mother. Energise.
+<tr id="L306"><td><a href="#L306">306</a></td><td>CRUSHER:  I can tell you that if I were in her place, I would rather be told by my son than by some stranger.</td></tr>
 
+<tr id="L307"><td><a href="#L307">307</a></td><td>DATA:  I find I am having difficulty separating what would be best for her from what would be best for me.</td></tr>
 
-END CREDITS
+<tr id="L308"><td><a href="#L308">308</a></td><td>TROI:  What do you mean?</td></tr>
+
+<tr id="L309"><td><a href="#L309">309</a></td><td>DATA:  If she knew she were an android, we would have something to share. I would no longer be alone in the universe.</td></tr>
+
+<tr id="L310"><td><a href="#L310">310</a></td><td>TROI:  I know how much that means to you, Data, but at the same time, by telling her you're robbing her of the one thing you've wanted all your life. To be human.</td></tr>
+
+<tr id="L311"><td><a href="#L311">311</a></td><td>PICARD:  It's a difficult choice. You must do what you think best, Data. But whatever decision you make, we will support it.</td></tr>
+
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L312"><td><a href="#L312">312</a></td><td>ANNOTATION: Data puts the chip back in her head and covers it over with her hair. She wakes.</td></tr>
+
+<tr id="L313"><td><a href="#L313">313</a></td><td>JULIANA:  Data? What happened? The last thing I remember is jumping off a cliff.</td></tr>
+
+<tr id="L314"><td><a href="#L314">314</a></td><td>DATA:  You were knocked unconscious by the fall. You broke a bone in your arm, but Doctor Crusher repaired it. Everything is fine.</td></tr>
+
+<tr id="L315"><td><a href="#L315">315</a></td><td>SOMEONE: Captain's log, supplemental. The infusion of plasma into the core of Atrea Four has been accomplished. The core should remain molten for several hundred years.</td></tr>
+
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L316"><td><a href="#L316">316</a></td><td>JULIANA:  When will I see you again?</td></tr>
+
+<tr id="L317"><td><a href="#L317">317</a></td><td>DATA:  Perhaps I can visit Atrea on my next leave.</td></tr>
+
+<tr id="L318"><td><a href="#L318">318</a></td><td>JULIANA:  I would like that very much. Well, I'd better be going.</td></tr>
+
+<tr id="L319"><td><a href="#L319">319</a></td><td>DATA:  There is something I thought you should know. My father told me that he had only one great love in his life and that he regretted never telling her how much he cared for her. I am certain he was referring to you.</td></tr>
+
+<tr id="L320"><td><a href="#L320">320</a></td><td>JULIANA:  That's nice to know. On Atrea there is a saying, that a child born from parents who love each other will have nothing but goodness in his heart. I guess that explains you. Take care of yourself, son.</td></tr>
+
+<tr id="L321"><td><a href="#L321">321</a></td><td>DATA:  Goodbye, Mother. Energise.</td></tr>
+
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

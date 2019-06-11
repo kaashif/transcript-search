@@ -1,1574 +1,779 @@
-Descent, part 1
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Descent, part 1</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Data's quarters</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: It's poker night, but we must be on the holodeck given who Data is playing with. And that really is Stephen Hawking with the big grin on his face</td></tr>
 
-LOCATION--Data's quarters
+<tr id="L2"><td><a href="#L2">2</a></td><td>HAWKING:  But then I said, in that frame of reference, the perihelion of Mercury would have precessed in the opposite direction.</td></tr>
 
-  ANNOTATION
-     It's poker night, but we must be on the holodeck
-     given who Data is playing with. And that really is
-     Stephen Hawking with the big grin on his face
+<tr id="L3"><td><a href="#L3">3</a></td><td>EINSTEIN:  (laughing) That is a great story!</td></tr>
 
-  HAWKING
-     But then I said, in that frame of reference, the
-     perihelion of Mercury would have precessed in the
-     opposite direction.
+<tr id="L4"><td><a href="#L4">4</a></td><td>DATA:  Quite amusing, Doctor Hawking. You see, Sir Isaac, the joke depends on an understanding of the relativistic curvature of space-time. If two non-inertial reference frames are in relative motion</td></tr>
 
-  EINSTEIN
-     (laughing) That is a great story!
+<tr id="L5"><td><a href="#L5">5</a></td><td>NEWTON:  Do not patronise me, sir. I invented physics. The day that apple fell on my head was the most momentous day in the history of science.</td></tr>
 
-  DATA
-     Quite amusing, Doctor Hawking. You see, Sir Isaac,
-     the joke depends on an understanding of the
-     relativistic curvature of space-time. If two
-     non-inertial reference frames are in relative
-     motion
+<tr id="L6"><td><a href="#L6">6</a></td><td>HAWKING:  Not the apple story again.</td></tr>
 
-  NEWTON
-     Do not patronise me, sir. I invented physics. The
-     day that apple fell on my head was the most
-     momentous day in the history of science.
+<tr id="L7"><td><a href="#L7">7</a></td><td>DATA:  That story is generally considered to be apocryphal.</td></tr>
 
-  HAWKING
-     Not the apple story again.
+<tr id="L8"><td><a href="#L8">8</a></td><td>NEWTON:  What? How dare you!</td></tr>
 
-  DATA
-     That story is generally considered to be
-     apocryphal.
+<tr id="L9"><td><a href="#L9">9</a></td><td>EINSTEIN:  Perhaps we should return to the game. Let's see, where were we? Yes, you raised Mister Data four, which means that the bet is, er, seven to me?</td></tr>
 
-  NEWTON
-     What? How dare you!
+<tr id="L10"><td><a href="#L10">10</a></td><td>NEWTON:  The bet is ten! Can't you do simple arithmetic? I don't even know why I'm here in the first place. What is the point of playing this ridiculous game?</td></tr>
 
-  EINSTEIN
-     Perhaps we should return to the game. Let's see,
-     where were we? Yes, you raised Mister Data four,
-     which means that the bet is, er, seven to me?
+<tr id="L11"><td><a href="#L11">11</a></td><td>DATA:  When I play poker with my shipmates, it often appears to be a useful forum for exploring the different facets of humanity. I was curious to see how three of history's greatest minds would interact in this setting. So far, it has proved most illuminating.</td></tr>
 
-  NEWTON
-     The bet is ten! Can't you do simple arithmetic? I
-     don't even know why I'm here in the first place.
-     What is the point of playing this ridiculous game?
+<tr id="L12"><td><a href="#L12">12</a></td><td>EINSTEIN:  And profitable.</td></tr>
 
-  DATA
-     When I play poker with my shipmates, it often
-     appears to be a useful forum for exploring the
-     different facets of humanity. I was curious to see
-     how three of history's greatest minds would
-     interact in this setting. So far, it has proved
-     most illuminating.
+<tr id="L13"><td><a href="#L13">13</a></td><td>NEWTON:  Can we get this over with, please? It's your bet.</td></tr>
 
-  EINSTEIN
-     And profitable.
+<tr id="L14"><td><a href="#L14">14</a></td><td>HAWKING:  I raise fifty.</td></tr>
 
-  NEWTON
-     Can we get this over with, please? It's your bet.
+<tr id="L15"><td><a href="#L15">15</a></td><td>NEWTON:  Blast! I fold.</td></tr>
 
-  HAWKING
-     I raise fifty.
+<tr id="L16"><td><a href="#L16">16</a></td><td>DATA:  I fold as well.</td></tr>
 
-  NEWTON
-     Blast! I fold.
+<tr id="L17"><td><a href="#L17">17</a></td><td>EINSTEIN:  The uncertainty principle will not help you now, Stephen. All the quantum fluctuations in the universe will not change the cards in your hand. I call. You are bluffing and you will lose.</td></tr>
 
-  DATA
-     I fold as well.
+<tr id="L18"><td><a href="#L18">18</a></td><td>HAWKING:  Wrong again, Albert.</td></tr>
 
-  EINSTEIN
-     The uncertainty principle will not help you now,
-     Stephen. All the quantum fluctuations in the
-     universe will not change the cards in your hand. I
-     call. You are bluffing and you will lose.
+<tr id="L19"><td><a href="#L19">19</a></td><td>ANNOTATION: Hawking has four sevens and a king</td></tr>
 
-  HAWKING
-     Wrong again, Albert.
+<tr id="L20"><td><a href="#L20">20</a></td><td>EINSTEIN:  Well.</td></tr>
 
-  ANNOTATION
-     Hawking has four sevens and a king
+<tr id="L21"><td><a href="#L21">21</a></td><td>RIKER [OC]:  Red alert. All personnel report to duty stations.</td></tr>
 
-  EINSTEIN
-     Well.
+<tr id="L22"><td><a href="#L22">22</a></td><td>DATA:  We will have to continue this another time. End programme.</td></tr>
 
-  RIKER [OC]
-     Red alert. All personnel report to duty stations.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L23"><td><a href="#L23">23</a></td><td>RIKER:  We've received a distress call from the Ohniaka Three Outpost. They said they were under attack.</td></tr>
 
-  DATA
-     We will have to continue this another time. End
-     programme.
+<tr id="L24"><td><a href="#L24">24</a></td><td>PICARD:  Ohniaka Three? There's no strategic value to that outpost. Were they able to identify the attackers?</td></tr>
 
+<tr id="L25"><td><a href="#L25">25</a></td><td>RIKER:  No, we haven't been able to raise them since the initial contact.</td></tr>
 
-LOCATION--Bridge
+<tr id="L26"><td><a href="#L26">26</a></td><td>WORF:  We are nearing the Ohniaka system, sir.</td></tr>
 
-  RIKER
-     We've received a distress call from the Ohniaka
-     Three Outpost. They said they were under attack.
+<tr id="L27"><td><a href="#L27">27</a></td><td>PICARD:  Bring us out of warp, Ensign.</td></tr>
 
-  PICARD
-     Ohniaka Three? There's no strategic value to that
-     outpost. Were they able to identify the attackers?
+<tr id="L28"><td><a href="#L28">28</a></td><td>ENSIGN:  Aye, sir.</td></tr>
 
-  RIKER
-     No, we haven't been able to raise them since the
-     initial contact.
+<tr id="L29"><td><a href="#L29">29</a></td><td>WORF:  Sensors detect one ship orbiting the third planet. Its configuration does not match anything in our records.</td></tr>
 
-  WORF
-     We are nearing the Ohniaka system, sir.
+<tr id="L30"><td><a href="#L30">30</a></td><td>RIKER:  Stand by phasers and photon torpedoes.</td></tr>
 
-  PICARD
-     Bring us out of warp, Ensign.
+<tr id="L31"><td><a href="#L31">31</a></td><td>PICARD:  Hail them, Mister Worf.</td></tr>
 
-  ENSIGN
-     Aye, sir.
+<tr id="L32"><td><a href="#L32">32</a></td><td>WORF:  No response, sir.</td></tr>
 
-  WORF
-     Sensors detect one ship orbiting the third planet.
-     Its configuration does not match anything in our
-     records.
+<tr id="L33"><td><a href="#L33">33</a></td><td>PICARD:  Put them on screen.</td></tr>
 
-  RIKER
-     Stand by phasers and photon torpedoes.
+<tr id="L34"><td><a href="#L34">34</a></td><td>DATA:  It does not appear to be attacking the outpost, sir.</td></tr>
 
-  PICARD
-     Hail them, Mister Worf.
+<tr id="L35"><td><a href="#L35">35</a></td><td>RIKER:  They might have attacked before we got here.</td></tr>
 
-  WORF
-     No response, sir.
+<tr id="L36"><td><a href="#L36">36</a></td><td>PICARD:  Or they might simply be another victim. What about the outpost?</td></tr>
 
-  PICARD
-     Put them on screen.
+<tr id="L37"><td><a href="#L37">37</a></td><td>DATA:  There is a great deal of electromagnetic interference. I am unable to determine whether there are any lifeforms present.</td></tr>
 
-  DATA
-     It does not appear to be attacking the outpost,
-     sir.
+<tr id="L38"><td><a href="#L38">38</a></td><td>RIKER:  Worf, Data, you're with me.</td></tr>
 
-  RIKER
-     They might have attacked before we got here.
+<tr><td></td><td>LOCATION--Outpost</td></tr>
+<tr id="L39"><td><a href="#L39">39</a></td><td>ANNOTATION: Worf, Data, Riker and a female security officer arrive to find the crew of the outpost are slumped over their consoles</td></tr>
 
-  PICARD
-     Or they might simply be another victim. What about
-     the outpost?
+<tr id="L40"><td><a href="#L40">40</a></td><td>WORF:  These wounds were caused by a forced plasma beam, similar to a Ferengi hand phaser.</td></tr>
 
-  DATA
-     There is a great deal of electromagnetic
-     interference. I am unable to determine whether
-     there are any lifeforms present.
+<tr id="L41"><td><a href="#L41">41</a></td><td>RIKER:  This seems brutal even for the Ferengi. Any sign of survivors?</td></tr>
 
-  RIKER
-     Worf, Data, you're with me.
+<tr id="L42"><td><a href="#L42">42</a></td><td>DATA:  Electromagnetic interference is still making it difficult to get a precise reading.</td></tr>
 
+<tr id="L43"><td><a href="#L43">43</a></td><td>RIKER:  How many people were assigned to this outpost?</td></tr>
 
-LOCATION--Outpost
+<tr id="L44"><td><a href="#L44">44</a></td><td>WORF:  Two hundred and seventy four.</td></tr>
 
-  ANNOTATION
-     Worf, Data, Riker and a female security officer
-     arrive to find the crew of the outpost are slumped
-     over their consoles
+<tr id="L45"><td><a href="#L45">45</a></td><td>RIKER:  All right. we're going to need to do a room to room search. Worf, you and Corelki start searching the north wing. You and I will take the south.</td></tr>
 
-  WORF
-     These wounds were caused by a forced plasma beam,
-     similar to a Ferengi hand phaser.
+<tr id="L46"><td><a href="#L46">46</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  RIKER
-     This seems brutal even for the Ferengi. Any sign
-     of survivors?
+<tr id="L47"><td><a href="#L47">47</a></td><td>ANNOTATION: Data tries to open a door</td></tr>
 
-  DATA
-     Electromagnetic interference is still making it
-     difficult to get a precise reading.
+<tr id="L48"><td><a href="#L48">48</a></td><td>DATA:  The mechanism appears to be jammed, sir.</td></tr>
 
-  RIKER
-     How many people were assigned to this outpost?
+<tr id="L49"><td><a href="#L49">49</a></td><td>RIKER:  There's not much damage. It doesn't look like they were interested in the station, just the people.</td></tr>
 
-  WORF
-     Two hundred and seventy four.
+<tr id="L50"><td><a href="#L50">50</a></td><td>DATA:  I have bypassed the primary system.</td></tr>
 
-  RIKER
-     All right. we're going to need to do a room to
-     room search. Worf, you and Corelki start searching
-     the north wing. You and I will take the south.
+<tr id="L51"><td><a href="#L51">51</a></td><td>ANNOTATION: the door opens to reveal - a Borg! after the titles the shooting starts. Data takes out the first Borg and at least three more turn up, pinning down our heroes</td></tr>
 
-  WORF
-     Aye, sir.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L52"><td><a href="#L52">52</a></td><td>ANNOTATION: meanwhile, the Enterprise is under attack</td></tr>
 
-  ANNOTATION
-     Data tries to open a door
+<tr id="L53"><td><a href="#L53">53</a></td><td>PICARD:  Evasive manoeuvres, Ensign! Return fire.</td></tr>
 
-  DATA
-     The mechanism appears to be jammed, sir.
+<tr id="L54"><td><a href="#L54">54</a></td><td>LAFORGE:  Shields down to eighty percent. Compensating with auxiliary power.</td></tr>
 
-  RIKER
-     There's not much damage. It doesn't look like they
-     were interested in the station, just the people.
+<tr><td></td><td>LOCATION--Outpost</td></tr>
+<tr id="L55"><td><a href="#L55">55</a></td><td>ANNOTATION: one Borg goes hand-to-hand with Data, and is knocked out. Riker manages to take down another</td></tr>
 
-  DATA
-     I have bypassed the primary system.
+<tr id="L56"><td><a href="#L56">56</a></td><td>BOSUS:  You have killed Torsus. I will make you suffer for this.</td></tr>
 
-  ANNOTATION
-     the door opens to reveal - a Borg! after the
-     titles the shooting starts. Data takes out the
-     first Borg and at least three more turn up,
-     pinning down our heroes
+<tr id="L57"><td><a href="#L57">57</a></td><td>TAYAR:  Biological organism, Klingon. Biological organism, human.</td></tr>
 
+<tr id="L58"><td><a href="#L58">58</a></td><td>ANNOTATION: A Borg kills Corelki, Worf kills him. Another Borg grabs Data by the throat and Data does likewise, throttling him</td></tr>
 
-LOCATION--Bridge
+<tr id="L59"><td><a href="#L59">59</a></td><td>DATA:  (angry) Stop it! Stop! Stop! Stop! Stop! Stop!</td></tr>
 
-  ANNOTATION
-     meanwhile, the Enterprise is under attack
+<tr id="L60"><td><a href="#L60">60</a></td><td>TAYAR:  Artificial lifeform. Starfleet rank, Lieutenant Commander. Name, Data.</td></tr>
 
-  PICARD
-     Evasive manoeuvres, Ensign! Return fire.
+<tr id="L61"><td><a href="#L61">61</a></td><td>ANNOTATION: the Borg are beamed away and their ship starts to leave</td></tr>
 
-  LAFORGE
-     Shields down to eighty percent. Compensating with
-     auxiliary power.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L62"><td><a href="#L62">62</a></td><td>LAFORGE:  Captain, the alien ship is breaking orbit.</td></tr>
 
+<tr id="L63"><td><a href="#L63">63</a></td><td>PICARD:  Plot an intercept course, Ensign. Fire torpedoes.</td></tr>
 
-LOCATION--Outpost
+<tr id="L64"><td><a href="#L64">64</a></td><td>ANNOTATION: but they go to warp just before the torpedoes arrive</td></tr>
 
-  ANNOTATION
-     one Borg goes hand-to-hand with Data, and is
-     knocked out. Riker manages to take down another
+<tr id="L65"><td><a href="#L65">65</a></td><td>LAFORGE:  They're gone, sir. Our sensors indicate there was some kind of subspace distortion just before they disappeared. I'll have to study these readings before I can get more specific than that.</td></tr>
 
-  BOSUS
-     You have killed Torsus. I will make you suffer for
-     this.
+<tr id="L66"><td><a href="#L66">66</a></td><td>PICARD:  Take us back to Ohniaka Three.</td></tr>
 
-  TAYAR
-     Biological organism, Klingon. Biological organism,
-     human.
+<tr id="L67"><td><a href="#L67">67</a></td><td>ENSIGN:  Aye, sir.</td></tr>
 
-  ANNOTATION
-     A Borg kills Corelki, Worf kills him. Another Borg
-     grabs Data by the throat and Data does likewise,
-     throttling him
+<tr><td></td><td>LOCATION--Outpost</td></tr>
+<tr id="L68"><td><a href="#L68">68</a></td><td>RIKER:  Data? Data, are you all right?</td></tr>
 
-  DATA
-     (angry) Stop it! Stop! Stop! Stop! Stop! Stop!
+<tr id="L69"><td><a href="#L69">69</a></td><td>DATA:  Yes, sir.</td></tr>
 
-  TAYAR
-     Artificial lifeform. Starfleet rank, Lieutenant
-     Commander. Name, Data.
+<tr id="L70"><td><a href="#L70">70</a></td><td>RIKER:  What happened?</td></tr>
 
-  ANNOTATION
-     the Borg are beamed away and their ship starts to
-     leave
+<tr id="L71"><td><a href="#L71">71</a></td><td>DATA:  I got angry.</td></tr>
 
+<tr id="L72"><td><a href="#L72">72</a></td><td>SOMEONE: Captain's log, stardate 46982.1. Because of his unusual behaviour on the planet surface, Commander Data has asked to be temporarily relieved of duty. Unfortunately, this means he will not be able to help us investigate a disturbing new change in the behaviour of the Borg.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L73"><td><a href="#L73">73</a></td><td>RIKER:  They were fast, aggressive, almost vicious. it was more like fighting Klingons than Borg. No offence.</td></tr>
 
-  LAFORGE
-     Captain, the alien ship is breaking orbit.
+<tr id="L74"><td><a href="#L74">74</a></td><td>WORF:  None taken.</td></tr>
 
-  PICARD
-     Plot an intercept course, Ensign. Fire torpedoes.
+<tr id="L75"><td><a href="#L75">75</a></td><td>RIKER:  There was another difference. I don't believe they were part of the Borg collective. I think they were acting as individuals.</td></tr>
 
-  ANNOTATION
-     but they go to warp just before the torpedoes
-     arrive
+<tr id="L76"><td><a href="#L76">76</a></td><td>PICARD:  What?</td></tr>
 
-  LAFORGE
-     They're gone, sir. Our sensors indicate there was
-     some kind of subspace distortion just before they
-     disappeared. I'll have to study these readings
-     before I can get more specific than that.
+<tr id="L77"><td><a href="#L77">77</a></td><td>RIKER:  One of them referred to himself as I.</td></tr>
 
-  PICARD
-     Take us back to Ohniaka Three.
+<tr id="L78"><td><a href="#L78">78</a></td><td>WORF:  And that Borg also showed concern for a fallen comrade. He even called him by name.</td></tr>
 
-  ENSIGN
-     Aye, sir.
+<tr id="L79"><td><a href="#L79">79</a></td><td>TROI:  The only Borg who had a name was Hugh. And we gave it to him.</td></tr>
 
+<tr id="L80"><td><a href="#L80">80</a></td><td>CRUSHER:  Maybe Hugh has something to do with this change in their behaviour.</td></tr>
 
-LOCATION--Outpost
+<tr id="L81"><td><a href="#L81">81</a></td><td>PICARD:  Did they show any interest in assimilating you or your technology?</td></tr>
 
-  RIKER
-     Data? Data, are you all right?
+<tr id="L82"><td><a href="#L82">82</a></td><td>RIKER:  They seemed more concerned with the death of their colleague and with destroying us. I didn't see anything that suggested they wanted to assimilate anybody.</td></tr>
 
-  DATA
-     Yes, sir.
+<tr id="L83"><td><a href="#L83">83</a></td><td>PICARD:  The Borg's entire existence was centred around acquiring cultures and technology. If that's changed, then they must have a new objective. We have to find out what it is. Mister Worf, from this moment on, I want to maintain a level two security alert. Post armed officers on every deck.</td></tr>
 
-  RIKER
-     What happened?
+<tr id="L84"><td><a href="#L84">84</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  DATA
-     I got angry.
+<tr id="L85"><td><a href="#L85">85</a></td><td>PICARD:  Number One, I want you to analyse our sensor readings of the Borg ship. Try to determine if it was something they constructed or an alien ship which they captured. Then run an analysis of this subspace distortion they used to escape.</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 46982.1. Because of his
-     unusual behaviour on the planet surface, Commander
-     Data has asked to be temporarily relieved of duty.
-     Unfortunately, this means he will not be able to
-     help us investigate a disturbing new change in the
-     behaviour of the Borg.
+<tr id="L86"><td><a href="#L86">86</a></td><td>RIKER:  Aye, sir.</td></tr>
 
+<tr id="L87"><td><a href="#L87">87</a></td><td>PICARD:  I'm going to contact Starfleet Command.</td></tr>
 
-LOCATION--Observation lounge
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L88"><td><a href="#L88">88</a></td><td>LAFORGE:  Well, the positronic net checks out. Everything else looks fine.</td></tr>
 
-  RIKER
-     They were fast, aggressive, almost vicious. it was
-     more like fighting Klingons than Borg. No offence.
+<tr id="L89"><td><a href="#L89">89</a></td><td>DATA:  My internal diagnostic also finds nothing wrong.</td></tr>
 
-  WORF
-     None taken.
+<tr id="L90"><td><a href="#L90">90</a></td><td>LAFORGE:  I don't know, Data. There's nothing here that would indicate anything that might cause an sort of behavioural anomaly.</td></tr>
 
-  RIKER
-     There was another difference. I don't believe they
-     were part of the Borg collective. I think they
-     were acting as individuals.
+<tr id="L91"><td><a href="#L91">91</a></td><td>DATA:  I agree. Geordi, I believe I've experienced my first emotion.</td></tr>
 
-  PICARD
-     What?
+<tr id="L92"><td><a href="#L92">92</a></td><td>LAFORGE:  No offence, Data, but how would you know a flash of anger from some odd kind of power surge?</td></tr>
 
-  RIKER
-     One of them referred to himself as I.
+<tr id="L93"><td><a href="#L93">93</a></td><td>DATA:  You are correct in that I have no frame of reference to confirm my hypothesis. In fact, I am unable to provide a verbal description of the experience. Perhaps you could describe how it feels to be angry. I could then use that as a reference.</td></tr>
 
-  WORF
-     And that Borg also showed concern for a fallen
-     comrade. He even called him by name.
+<tr id="L94"><td><a href="#L94">94</a></td><td>LAFORGE:  Well, okay. When I feel angry, first I feel hostile.</td></tr>
 
-  TROI
-     The only Borg who had a name was Hugh. And we gave
-     it to him.
+<tr id="L95"><td><a href="#L95">95</a></td><td>DATA:  Could you describe feeling hostile?</td></tr>
 
-  CRUSHER
-     Maybe Hugh has something to do with this change in
-     their behaviour.
+<tr id="L96"><td><a href="#L96">96</a></td><td>LAFORGE:  It's like feeling belligerent, combative.</td></tr>
 
-  PICARD
-     Did they show any interest in assimilating you or
-     your technology?
+<tr id="L97"><td><a href="#L97">97</a></td><td>DATA:  Could you describe feeling angry without referring to other feelings?</td></tr>
 
-  RIKER
-     They seemed more concerned with the death of their
-     colleague and with destroying us. I didn't see
-     anything that suggested they wanted to assimilate
-     anybody.
+<tr id="L98"><td><a href="#L98">98</a></td><td>LAFORGE:  No, I guess I can't. I just feel angry.</td></tr>
 
-  PICARD
-     The Borg's entire existence was centred around
-     acquiring cultures and technology. If that's
-     changed, then they must have a new objective. We
-     have to find out what it is. Mister Worf, from
-     this moment on, I want to maintain a level two
-     security alert. Post armed officers on every deck.
+<tr id="L99"><td><a href="#L99">99</a></td><td>DATA:  That was my experience as well. I simply felt angry.</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L100"><td><a href="#L100">100</a></td><td>LAFORGE:  Well, let's say you're right and this is a real emotion. How is that possible?</td></tr>
 
-  PICARD
-     Number One, I want you to analyse our sensor
-     readings of the Borg ship. Try to determine if it
-     was something they constructed or an alien ship
-     which they captured. Then run an analysis of this
-     subspace distortion they used to escape.
+<tr id="L101"><td><a href="#L101">101</a></td><td>DATA:  I do not know. Perhaps I have evolved to the point where emotions are within my grasp. Perhaps I will experience other emotions as time goes by.</td></tr>
 
-  RIKER
-     Aye, sir.
+<tr id="L102"><td><a href="#L102">102</a></td><td>LAFORGE:  Well, I hope you're right. I'd hate to think that anger is all you're capable of feeling.</td></tr>
 
-  PICARD
-     I'm going to contact Starfleet Command.
+<tr id="L103"><td><a href="#L103">103</a></td><td>SOMEONE: Captain's log, stardate 46984.6. No additional Borg attacks have been reported in the past two days. However, Starfleet has dispatched Admiral Nechayev to take command in this sector in preparation for a possible Borg invasion.</td></tr>
 
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L104"><td><a href="#L104">104</a></td><td>ANNOTATION: the Admiral is a petite blonde</td></tr>
 
-LOCATION--Engineering
+<tr id="L105"><td><a href="#L105">105</a></td><td>NECHAYEV:  There will be fifteen starships in this sector by the day after tomorrow. The Gorkon will be my flagship. You'll take command of task force three, consisting of the Enterprise, the Crazy Horse and the Agamemnon.</td></tr>
 
-  LAFORGE
-     Well, the positronic net checks out. Everything
-     else looks fine.
+<tr id="L106"><td><a href="#L106">106</a></td><td>PICARD:  Understood.</td></tr>
 
-  DATA
-     My internal diagnostic also finds nothing wrong.
+<tr id="L107"><td><a href="#L107">107</a></td><td>NECHAYEV:  Captain, I've read the report that you submitted to Admiral Brooks last year regarding the Borg you called Hugh, and I've been trying to figure out why you let him go.</td></tr>
 
-  LAFORGE
-     I don't know, Data. There's nothing here that
-     would indicate anything that might cause an sort
-     of behavioural anomaly.
+<tr id="L108"><td><a href="#L108">108</a></td><td>PICARD:  I thought that I had made that clear.</td></tr>
 
-  DATA
-     I agree. Geordi, I believe I've experienced my
-     first emotion.
+<tr id="L109"><td><a href="#L109">109</a></td><td>NECHAYEV:  As I understand, it you found a single Borg at a crash site, brought it aboard the Enterprise, studied it, analysed it, and eventually found a way to send it back to the Borg with a programme that would have destroyed the entire collective once and for all. But instead, you nursed the Borg back to health, treated it like a guest, gave it a name, and then sent it home. Why?</td></tr>
 
-  LAFORGE
-     No offence, Data, but how would you know a flash
-     of anger from some odd kind of power surge?
+<tr id="L110"><td><a href="#L110">110</a></td><td>PICARD:  When Hugh was separated from the Borg collective he began to grow and to evolve into something other than an automaton. He became a person. When that happened, I felt I had no choice but to respect his rights as an individual.</td></tr>
 
-  DATA
-     You are correct in that I have no frame of
-     reference to confirm my hypothesis. In fact, I am
-     unable to provide a verbal description of the
-     experience. Perhaps you could describe how it
-     feels to be angry. I could then use that as a
-     reference.
+<tr id="L111"><td><a href="#L111">111</a></td><td>NECHAYEV:  Of course you had a choice. You could've taken the opportunity to rid the Federation of a mortal enemy, one that has killed tens of thousands of innocent people, and which may kill even more.</td></tr>
 
-  LAFORGE
-     Well, okay. When I feel angry, first I feel
-     hostile.
+<tr id="L112"><td><a href="#L112">112</a></td><td>PICARD:  No one is more aware of the danger than I am. But I am also bound by my oath and my conscience to uphold certain principles. And I will not sacrifice them in order to</td></tr>
 
-  DATA
-     Could you describe feeling hostile?
+<tr id="L113"><td><a href="#L113">113</a></td><td>NECHAYEV:  Your priority is to safeguard the lives of Federation citizens, not to wrestle with your conscience. Now I want to make it clear that if you have a similar opportunity in the future, an opportunity to destroy the Borg, you are under orders to take advantage of it. Is that understood?</td></tr>
 
-  LAFORGE
-     It's like feeling belligerent, combative.
+<tr id="L114"><td><a href="#L114">114</a></td><td>PICARD:  Yes, sir.</td></tr>
 
-  DATA
-     Could you describe feeling angry without referring
-     to other feelings?
+<tr><td></td><td>LOCATION--Troi's office</td></tr>
+<tr id="L115"><td><a href="#L115">115</a></td><td>DATA:  For the past six hours, I have attempted to produce an emotional response by subjecting myself to various stimuli.</td></tr>
 
-  LAFORGE
-     No, I guess I can't. I just feel angry.
+<tr id="L116"><td><a href="#L116">116</a></td><td>TROI:  Like what?</td></tr>
 
-  DATA
-     That was my experience as well. I simply felt
-     angry.
+<tr id="L117"><td><a href="#L117">117</a></td><td>DATA:  I listened to several operas known to be uplifting, I watched three holodeck programs designed to be humourous, and I made four attempts to induce sexual desire by subjecting myself to erotic imagery.</td></tr>
 
-  LAFORGE
-     Well, let's say you're right and this is a real
-     emotion. How is that possible?
+<tr id="L118"><td><a href="#L118">118</a></td><td>TROI:  What happened?</td></tr>
 
-  DATA
-     I do not know. Perhaps I have evolved to the point
-     where emotions are within my grasp. Perhaps I will
-     experience other emotions as time goes by.
+<tr id="L119"><td><a href="#L119">119</a></td><td>DATA:  Nothing.</td></tr>
 
-  LAFORGE
-     Well, I hope you're right. I'd hate to think that
-     anger is all you're capable of feeling.
+<tr id="L120"><td><a href="#L120">120</a></td><td>TROI:  I'm curious. Why are you ignoring the one emotion you've already experienced? Why aren't you trying to make yourself angry again?</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 46984.6. No additional
-     Borg attacks have been reported in the past two
-     days. However, Starfleet has dispatched Admiral
-     Nechayev to take command in this sector in
-     preparation for a possible Borg invasion.
+<tr id="L121"><td><a href="#L121">121</a></td><td>DATA:  Anger is a negative emotion. I wanted to concentrate on something more positive.</td></tr>
 
+<tr id="L122"><td><a href="#L122">122</a></td><td>TROI:  Data, feelings aren't positive and negative, they simply exist. It's what we do with those feelings that becomes good or bad. For example, feeling angry about an injustice could lead someone to take a positive action to correct it.</td></tr>
 
-LOCATION--Ready room
+<tr id="L123"><td><a href="#L123">123</a></td><td>DATA:  But my study of humanity indicates there are some emotions that are harmful, such as jealousy or hatred.</td></tr>
 
-  ANNOTATION
-     the Admiral is a petite blonde
+<tr id="L124"><td><a href="#L124">124</a></td><td>TROI:  Those are very strong emotions, and you're right, very little good can come from them. But I don't think that an exploration of anger need necessarily lead to hatred or malice.</td></tr>
 
-  NECHAYEV
-     There will be fifteen starships in this sector by
-     the day after tomorrow. The Gorkon will be my
-     flagship. You'll take command of task force three,
-     consisting of the Enterprise, the Crazy Horse and
-     the Agamemnon.
+<tr id="L125"><td><a href="#L125">125</a></td><td>DATA:  But what if it does, Counsellor? What if it turns out that those are the only emotions I am capable of experiencing? Would that not make me a bad person?</td></tr>
 
-  PICARD
-     Understood.
+<tr id="L126"><td><a href="#L126">126</a></td><td>TROI:  We've served together for a long time and I think I've come to know you pretty well. I have to believe if you ever reach your goal of becoming human, you won't become a bad one.</td></tr>
 
-  NECHAYEV
-     Captain, I've read the report that you submitted
-     to Admiral Brooks last year regarding the Borg you
-     called Hugh, and I've been trying to figure out
-     why you let him go.
+<tr id="L127"><td><a href="#L127">127</a></td><td>DATA:  I wish I were as confident as you, Counsellor. When I was fighting the Borg, I felt angry, but when I think back on the incident, I realise that I was also experiencing another sensation. It was not the same as anger, but I think it was an emotion.</td></tr>
 
-  PICARD
-     I thought that I had made that clear.
+<tr id="L128"><td><a href="#L128">128</a></td><td>TROI:  When exactly did you feel this other emotion?</td></tr>
 
-  NECHAYEV
-     As I understand, it you found a single Borg at a
-     crash site, brought it aboard the Enterprise,
-     studied it, analysed it, and eventually found a
-     way to send it back to the Borg with a programme
-     that would have destroyed the entire collective
-     once and for all. But instead, you nursed the Borg
-     back to health, treated it like a guest, gave it a
-     name, and then sent it home. Why?
+<tr id="L129"><td><a href="#L129">129</a></td><td>DATA:  It was just after I had killed the Borg. I looked down at his body. I felt something.</td></tr>
 
-  PICARD
-     When Hugh was separated from the Borg collective
-     he began to grow and to evolve into something
-     other than an automaton. He became a person. When
-     that happened, I felt I had no choice but to
-     respect his rights as an individual.
+<tr id="L130"><td><a href="#L130">130</a></td><td>TROI:  If you had to give this feeling a name, what would you call it?</td></tr>
 
-  NECHAYEV
-     Of course you had a choice. You could've taken the
-     opportunity to rid the Federation of a mortal
-     enemy, one that has killed tens of thousands of
-     innocent people, and which may kill even more.
+<tr id="L131"><td><a href="#L131">131</a></td><td>DATA:  I believe it was pleasure.</td></tr>
 
-  PICARD
-     No one is more aware of the danger than I am. But
-     I am also bound by my oath and my conscience to
-     uphold certain principles. And I will not
-     sacrifice them in order to
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L132"><td><a href="#L132">132</a></td><td>RIKER:  Red alert! All hands to battle stations. Lay in a course. Engage warp nine.</td></tr>
 
-  NECHAYEV
-     Your priority is to safeguard the lives of
-     Federation citizens, not to wrestle with your
-     conscience. Now I want to make it clear that if
-     you have a similar opportunity in the future, an
-     opportunity to destroy the Borg, you are under
-     orders to take advantage of it. Is that
-     understood?
+<tr id="L133"><td><a href="#L133">133</a></td><td>ANNOTATION: Picard enters</td></tr>
 
-  PICARD
-     Yes, sir.
+<tr id="L134"><td><a href="#L134">134</a></td><td>RIKER:  We received a distress call from the New Berlin Colony. They're under attack.</td></tr>
 
+<tr id="L135"><td><a href="#L135">135</a></td><td>PICARD:  What's our ETA?</td></tr>
 
-LOCATION--Troi's office
+<tr id="L136"><td><a href="#L136">136</a></td><td>WORF:  At warp nine, fifteen minutes, thirty seconds.</td></tr>
 
-  DATA
-     For the past six hours, I have attempted to
-     produce an emotional response by subjecting myself
-     to various stimuli.
+<tr id="L137"><td><a href="#L137">137</a></td><td>PICARD:  Contact the Crazy Horse and the Agamemnon. Have them standing by in case we need them.</td></tr>
 
-  TROI
-     Like what?
+<tr id="L138"><td><a href="#L138">138</a></td><td>WORF:  Captain, incoming message from the New Berlin Colony. They have cancelled their distress call. Evidently a Ferengi trading ship entered their system and someone panicked.</td></tr>
 
-  DATA
-     I listened to several operas known to be
-     uplifting, I watched three holodeck programs
-     designed to be humourous, and I made four attempts
-     to induce sexual desire by subjecting myself to
-     erotic imagery.
+<tr id="L139"><td><a href="#L139">139</a></td><td>RIKER:  Third time today. Stand down Red alert. Reduce speed. Return to our patrol route.</td></tr>
 
-  TROI
-     What happened?
+<tr id="L140"><td><a href="#L140">140</a></td><td>PICARD:  Mister Worf, acknowledge the signal from New Berlin and transmit another copy of Starfleet's ship-recognition protocols and tell them to read it this time.</td></tr>
 
-  DATA
-     Nothing.
+<tr id="L141"><td><a href="#L141">141</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  TROI
-     I'm curious. Why are you ignoring the one emotion
-     you've already experienced? Why aren't you trying
-     to make yourself angry again?
+<tr id="L142"><td><a href="#L142">142</a></td><td>SOMEONE: Captain's log, supplemental. We have been on patrol for sixteen hours, and there are no reports of further Borg activity. But tensions continue to run high on the colonies and outposts in this sector.</td></tr>
 
-  DATA
-     Anger is a negative emotion. I wanted to
-     concentrate on something more positive.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L143"><td><a href="#L143">143</a></td><td>ANNOTATION: Picard is reviewing a record from 45855.4 - 07 18 51.4 onwards</td></tr>
 
-  TROI
-     Data, feelings aren't positive and negative, they
-     simply exist. It's what we do with those feelings
-     that becomes good or bad. For example, feeling
-     angry about an injustice could lead someone to
-     take a positive action to correct it.
+<tr id="L144"><td><a href="#L144">144</a></td><td>HUGH [on monitor]:  Do I have a name?</td></tr>
 
-  DATA
-     But my study of humanity indicates there are some
-     emotions that are harmful, such as jealousy or
-     hatred.
+<tr id="L145"><td><a href="#L145">145</a></td><td>CRUSHER [OC]:  I'm Beverly, he's Geordi, and you, you</td></tr>
 
-  TROI
-     Those are very strong emotions, and you're right,
-     very little good can come from them. But I don't
-     think that an exploration of anger need
-     necessarily lead to hatred or malice.
+<tr id="L146"><td><a href="#L146">146</a></td><td>LAFORGE [OC]:  No, wait a minute. That's it. Hugh.</td></tr>
 
-  DATA
-     But what if it does, Counsellor? What if it turns
-     out that those are the only emotions I am capable
-     of experiencing? Would that not make me a bad
-     person?
+<tr id="L147"><td><a href="#L147">147</a></td><td>HUGH [on monitor]:  We are Hugh.</td></tr>
 
-  TROI
-     We've served together for a long time and I think
-     I've come to know you pretty well. I have to
-     believe if you ever reach your goal of becoming
-     human, you won't become a bad one.
+<tr id="L148"><td><a href="#L148">148</a></td><td>ANNOTATION: doorbell</td></tr>
 
-  DATA
-     I wish I were as confident as you, Counsellor.
-     When I was fighting the Borg, I felt angry, but
-     when I think back on the incident, I realise that
-     I was also experiencing another sensation. It was
-     not the same as anger, but I think it was an
-     emotion.
+<tr id="L149"><td><a href="#L149">149</a></td><td>PICARD:  Come.</td></tr>
 
-  TROI
-     When exactly did you feel this other emotion?
+<tr id="L150"><td><a href="#L150">150</a></td><td>RIKER:  I thought you might like to see this. Geordi's analysis of the subspace distortion the Borg used to escape.</td></tr>
 
-  DATA
-     It was just after I had killed the Borg. I looked
-     down at his body. I felt something.
+<tr id="L151"><td><a href="#L151">151</a></td><td>PICARD:  An artificially created energy conduit? That could be anything.</td></tr>
 
-  TROI
-     If you had to give this feeling a name, what would
-     you call it?
+<tr id="L152"><td><a href="#L152">152</a></td><td>RIKER:  We don't have enough information at this point</td></tr>
 
-  DATA
-     I believe it was pleasure.
+<tr id="L153"><td><a href="#L153">153</a></td><td>PICARD:  I don't want excuses, Number One. I want answers! I'm sorry. He was in this room, Will. I could have rid the Federation of a mortal threat, and I let him go.</td></tr>
 
+<tr id="L154"><td><a href="#L154">154</a></td><td>RIKER:  Sending Hugh back to the Borg was a very risky, a very dangerous choice, but it was the moral thing to do.</td></tr>
 
-LOCATION--Bridge
+<tr id="L155"><td><a href="#L155">155</a></td><td>PICARD:  It may turn out that the moral thing to do was not the right thing to do.</td></tr>
 
-  RIKER
-     Red alert! All hands to battle stations. Lay in a
-     course. Engage warp nine.
+<tr><td></td><td>LOCATION--Holodeck - Outpost</td></tr>
+<tr id="L156"><td><a href="#L156">156</a></td><td>ANNOTATION: Geordi enters as Data throttles a Borg dispassionately</td></tr>
 
-  ANNOTATION
-     Picard enters
+<tr id="L157"><td><a href="#L157">157</a></td><td>DATA:  Stop it. Stop. Stop. Stop. Stop. Stop.</td></tr>
 
-  RIKER
-     We received a distress call from the New Berlin
-     Colony. They're under attack.
+<tr id="L158"><td><a href="#L158">158</a></td><td>LAFORGE:  Data, am I interrupting something?</td></tr>
 
-  PICARD
-     What's our ETA?
+<tr id="L159"><td><a href="#L159">159</a></td><td>DATA:  Yes, but it is all right. Do you need me?</td></tr>
 
-  WORF
-     At warp nine, fifteen minutes, thirty seconds.
+<tr id="L160"><td><a href="#L160">160</a></td><td>LAFORGE:  I wanted to see if you were ready to return to duty. I need some help with an analysis of the ship the Borg were using.</td></tr>
 
-  PICARD
-     Contact the Crazy Horse and the Agamemnon. Have
-     them standing by in case we need them.
+<tr id="L161"><td><a href="#L161">161</a></td><td>DATA:  I believe I am able to resume my duties.</td></tr>
 
-  WORF
-     Captain, incoming message from the New Berlin
-     Colony. They have cancelled their distress call.
-     Evidently a Ferengi trading ship entered their
-     system and someone panicked.
+<tr id="L162"><td><a href="#L162">162</a></td><td>LAFORGE:  Data, exactly what is it that are you're doing here?</td></tr>
 
-  RIKER
-     Third time today. Stand down Red alert. Reduce
-     speed. Return to our patrol route.
+<tr id="L163"><td><a href="#L163">163</a></td><td>DATA:  I am attempting to recreate the experience which caused to my initial burst of anger.</td></tr>
 
-  PICARD
-     Mister Worf, acknowledge the signal from New
-     Berlin and transmit another copy of Starfleet's
-     ship-recognition protocols and tell them to read
-     it this time.
+<tr id="L164"><td><a href="#L164">164</a></td><td>LAFORGE:  Any luck?</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L165"><td><a href="#L165">165</a></td><td>DATA:  None so far. I have almost completed this experiment. May I finish before we return to Engineering?</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. We have been on
-     patrol for sixteen hours, and there are no reports
-     of further Borg activity. But tensions continue to
-     run high on the colonies and outposts in this
-     sector.
+<tr id="L166"><td><a href="#L166">166</a></td><td>LAFORGE:  Yeah, sure.</td></tr>
 
+<tr id="L167"><td><a href="#L167">167</a></td><td>DATA:  Computer, reset Borg simulation to time index two point one. Increase Borg strength by twenty percent. Run programme.</td></tr>
 
-LOCATION--Ready room
+<tr id="L168"><td><a href="#L168">168</a></td><td>ANNOTATION: the Borg leaps up to throttle Data again. This time it is harder for Data to break free</td></tr>
 
-  ANNOTATION
-     Picard is reviewing a record from 45855.4 - 07 18
-     51.4 onwards
+<tr id="L169"><td><a href="#L169">169</a></td><td>DATA:  Stop it. Stop. Stop. Stop. Stop. Computer, reset simulation to time index two point one. Increase Borg strength by thirty percent.</td></tr>
 
-  HUGH [on monitor]
-     Do I have a name?
+<tr id="L170"><td><a href="#L170">170</a></td><td>COMPUTER:  Unable to comply. A thirty percent increase would exceed safety limits.</td></tr>
 
-  CRUSHER [OC]
-     I'm Beverly, he's Geordi, and you, you
+<tr id="L171"><td><a href="#L171">171</a></td><td>DATA:  Geordi, the computer will require the voice authorisations of two senior officers in order to disable the safety routine. Will you help me?</td></tr>
 
-  LAFORGE [OC]
-     No, wait a minute. That's it. Hugh.
+<tr id="L172"><td><a href="#L172">172</a></td><td>LAFORGE:  Data, wait a minute. That thing could kill you.</td></tr>
 
-  HUGH [on monitor]
-     We are Hugh.
+<tr id="L173"><td><a href="#L173">173</a></td><td>DATA:  During the original incident the Borg presented a genuine danger to my life. Since the Holodeck safety routine is in place, I know my life is not in danger. Since I am trying to duplicate the conditions of the original incident as closely as possible, I must also attempt to duplicate the jeopardy as well.</td></tr>
 
-  ANNOTATION
-     doorbell
+<tr id="L174"><td><a href="#L174">174</a></td><td>LAFORGE:  Data, we're talking about an experiment here. You can't put your life on the line just to prove some theory.</td></tr>
 
-  PICARD
-     Come.
+<tr id="L175"><td><a href="#L175">175</a></td><td>DATA:  This experiment may hold the key to something I have sought all my life.</td></tr>
 
-  RIKER
-     I thought you might like to see this. Geordi's
-     analysis of the subspace distortion the Borg used
-     to escape.
+<tr id="L176"><td><a href="#L176">176</a></td><td>LAFORGE:  It's crazy. There's got to be another way. Can't you think of something other way to make yourself angry.</td></tr>
 
-  PICARD
-     An artificially created energy conduit? That could
-     be anything.
+<tr id="L177"><td><a href="#L177">177</a></td><td>DATA:  I have tried other stimuli, but they have been unsuccessful. I understand your objections, but it is my life and I have a right to risk it if I choose.</td></tr>
 
-  RIKER
-     We don't have enough information at this point
+<tr id="L178"><td><a href="#L178">178</a></td><td>LAFORGE:  Yeah, and I'm your friend and I'm not going to just stand around and let you do this.</td></tr>
 
-  PICARD
-     I don't want excuses, Number One. I want answers!
-     I'm sorry. He was in this room, Will. I could have
-     rid the Federation of a mortal threat, and I let
-     him go.
+<tr id="L179"><td><a href="#L179">179</a></td><td>RIKER [OC]:  Red alert. All hands, battle stations.</td></tr>
 
-  RIKER
-     Sending Hugh back to the Borg was a very risky, a
-     very dangerous choice, but it was the moral thing
-     to do.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L180"><td><a href="#L180">180</a></td><td>RIKER:  Confirmed. The MS One colony is under attack.</td></tr>
 
-  PICARD
-     It may turn out that the moral thing to do was not
-     the right thing to do.
+<tr id="L181"><td><a href="#L181">181</a></td><td>PICARD:  Doesn't it seem strange to you that there have been two Borg attacks and the Enterprise has been the nearest ship in both instances?</td></tr>
 
+<tr id="L182"><td><a href="#L182">182</a></td><td>DATA:  Captain, we are nearing the MS system.</td></tr>
 
-LOCATION--Holodeck - Outpost
+<tr id="L183"><td><a href="#L183">183</a></td><td>WORF:  I have located the Borg ship. It is heading away from the colony.</td></tr>
 
-  ANNOTATION
-     Geordi enters as Data throttles a Borg
-     dispassionately
+<tr id="L184"><td><a href="#L184">184</a></td><td>PICARD:  Take us out of warp near that ship.</td></tr>
 
-  DATA
-     Stop it. Stop. Stop. Stop. Stop. Stop.
+<tr id="L185"><td><a href="#L185">185</a></td><td>RIKER:  Stand by to lock phasers on target.</td></tr>
 
-  LAFORGE
-     Data, am I interrupting something?
+<tr id="L186"><td><a href="#L186">186</a></td><td>WORF:  Within visual range.</td></tr>
 
-  DATA
-     Yes, but it is all right. Do you need me?
+<tr id="L187"><td><a href="#L187">187</a></td><td>PICARD:  On screen.</td></tr>
 
-  LAFORGE
-     I wanted to see if you were ready to return to
-     duty. I need some help with an analysis of the
-     ship the Borg were using.
+<tr id="L188"><td><a href="#L188">188</a></td><td>ANNOTATION: it is the same ship</td></tr>
 
-  DATA
-     I believe I am able to resume my duties.
+<tr id="L189"><td><a href="#L189">189</a></td><td>PICARD:  Lay in an intercept course, full impulse. Lock phasers.</td></tr>
 
-  LAFORGE
-     Data, exactly what is it that are you're doing
-     here?
+<tr id="L190"><td><a href="#L190">190</a></td><td>WORF:  We are closing, sir. Within phaser range in thirty seconds.</td></tr>
 
-  DATA
-     I am attempting to recreate the experience which
-     caused to my initial burst of anger.
+<tr id="L191"><td><a href="#L191">191</a></td><td>DATA:  Sensors are detecting a subspace distortion forming directly ahead of the Borg ship.</td></tr>
 
-  LAFORGE
-     Any luck?
+<tr id="L192"><td><a href="#L192">192</a></td><td>PICARD:  They're not going to get away with it this time. Picard to Engineering. Transfer auxiliary and emergency power to the impulse engines.</td></tr>
 
-  DATA
-     None so far. I have almost completed this
-     experiment. May I finish before we return to
-     Engineering?
+<tr id="L193"><td><a href="#L193">193</a></td><td>LAFORGE [OC]:  Acknowledged.</td></tr>
 
-  LAFORGE
-     Yeah, sure.
+<tr id="L194"><td><a href="#L194">194</a></td><td>DATA:  Impulse engines are now at one hundred twenty five percent.</td></tr>
 
-  DATA
-     Computer, reset Borg simulation to time index two
-     point one. Increase Borg strength by twenty
-     percent. Run programme.
+<tr id="L195"><td><a href="#L195">195</a></td><td>WORF:  Within phaser range in ten seconds.</td></tr>
 
-  ANNOTATION
-     the Borg leaps up to throttle Data again. This
-     time it is harder for Data to break free
+<tr id="L196"><td><a href="#L196">196</a></td><td>ANNOTATION: the Borg ship vanishes in a flash of white light and Enterprise shakes</td></tr>
 
-  DATA
-     Stop it. Stop. Stop. Stop. Stop. Computer, reset
-     simulation to time index two point one. Increase
-     Borg strength by thirty percent.
+<tr id="L197"><td><a href="#L197">197</a></td><td>DATA:  We appear to be caught in some kind of energy matrix.</td></tr>
 
-  COMPUTER
-     Unable to comply. A thirty percent increase would
-     exceed safety limits.
+<tr id="L198"><td><a href="#L198">198</a></td><td>RIKER:  All engines back full.</td></tr>
 
-  DATA
-     Geordi, the computer will require the voice
-     authorisations of two senior officers in order to
-     disable the safety routine. Will you help me?
+<tr id="L199"><td><a href="#L199">199</a></td><td>WORF:  Shields failing.</td></tr>
 
-  LAFORGE
-     Data, wait a minute. That thing could kill you.
+<tr id="L200"><td><a href="#L200">200</a></td><td>DATA:  We are being pulled inside.</td></tr>
 
-  DATA
-     During the original incident the Borg presented a
-     genuine danger to my life. Since the Holodeck
-     safety routine is in place, I know my life is not
-     in danger. Since I am trying to duplicate the
-     conditions of the original incident as closely as
-     possible, I must also attempt to duplicate the
-     jeopardy as well.
+<tr id="L201"><td><a href="#L201">201</a></td><td>ANNOTATION: and Enterprise disappears into a Whovian/Stargate style wormhole effect</td></tr>
 
-  LAFORGE
-     Data, we're talking about an experiment here. You
-     can't put your life on the line just to prove some
-     theory.
+<tr id="L202"><td><a href="#L202">202</a></td><td>WORF:  Inertial dampers failing.</td></tr>
 
-  DATA
-     This experiment may hold the key to something I
-     have sought all my life.
+<tr id="L203"><td><a href="#L203">203</a></td><td>DATA:  Main power is offline. I am switching to backups.</td></tr>
 
-  LAFORGE
-     It's crazy. There's got to be another way. Can't
-     you think of something other way to make yourself
-     angry.
+<tr id="L204"><td><a href="#L204">204</a></td><td>PICARD:  Picard to Engineering, can we transfer auxiliary power to the warp nacelles? Try to break us out by using the</td></tr>
 
-  DATA
-     I have tried other stimuli, but they have been
-     unsuccessful. I understand your objections, but it
-     is my life and I have a right to risk it if I
-     choose.
+<tr id="L205"><td><a href="#L205">205</a></td><td>ANNOTATION: normal space</td></tr>
 
-  LAFORGE
-     Yeah, and I'm your friend and I'm not going to
-     just stand around and let you do this.
+<tr id="L206"><td><a href="#L206">206</a></td><td>DATA:  We have returned to normal space. Navigational systems are still offline. I will attempt to make a celestial fix using secondary systems.</td></tr>
 
-  RIKER [OC]
-     Red alert. All hands, battle stations.
+<tr id="L207"><td><a href="#L207">207</a></td><td>WORF:  Captain, the Borg ship is directly ahead. It is coming about.</td></tr>
 
+<tr id="L208"><td><a href="#L208">208</a></td><td>PICARD:  On screen.</td></tr>
 
-LOCATION--Bridge
+<tr id="L209"><td><a href="#L209">209</a></td><td>WORF:  Shields down to sixteen percent.</td></tr>
 
-  RIKER
-     Confirmed. The MS One colony is under attack.
+<tr id="L210"><td><a href="#L210">210</a></td><td>ANNOTATION: the Borg fire an energy bolt, and two drones materialise on the Bridge</td></tr>
 
-  PICARD
-     Doesn't it seem strange to you that there have
-     been two Borg attacks and the Enterprise has been
-     the nearest ship in both instances?
+<tr id="L211"><td><a href="#L211">211</a></td><td>FRANKLIN:  Get down!</td></tr>
 
-  DATA
-     Captain, we are nearing the MS system.
+<tr id="L212"><td><a href="#L212">212</a></td><td>ANNOTATION: Franklin shoots at the Borg and misses, and gets shot himself. Worf shoots both Borg as one kept his back to him</td></tr>
 
-  WORF
-     I have located the Borg ship. It is heading away
-     from the colony.
+<tr id="L213"><td><a href="#L213">213</a></td><td>RIKER:  Franklin's dead, sir.</td></tr>
 
-  PICARD
-     Take us out of warp near that ship.
+<tr id="L214"><td><a href="#L214">214</a></td><td>PICARD:  Is everyone else all right?</td></tr>
 
-  RIKER
-     Stand by to lock phasers on target.
+<tr id="L215"><td><a href="#L215">215</a></td><td>WORF:  Aye, sir. Security reports no other intruders aboard. Captain, the Borg ship is gone. Sensor logs indicate they entered the distortion field thirty seconds ago.</td></tr>
 
-  WORF
-     Within visual range.
+<tr id="L216"><td><a href="#L216">216</a></td><td>PICARD:  They beamed aboard as a diversion to give their ship time to escape.</td></tr>
 
-  PICARD
-     On screen.
+<tr id="L217"><td><a href="#L217">217</a></td><td>RIKER:  This is another change in the Borg behaviour. They left their dead instead of vapourising them.</td></tr>
 
-  ANNOTATION
-     it is the same ship
+<tr id="L218"><td><a href="#L218">218</a></td><td>DATA:  Captain, this one is still alive.</td></tr>
 
-  PICARD
-     Lay in an intercept course, full impulse. Lock
-     phasers.
+<tr><td></td><td>LOCATION--Brig</td></tr>
+<tr id="L219"><td><a href="#L219">219</a></td><td>CRUSHER:  I've stabilised his condition. He's still pretty weak, but he should make a full recovery.</td></tr>
 
-  WORF
-     We are closing, sir. Within phaser range in thirty
-     seconds.
+<tr id="L220"><td><a href="#L220">220</a></td><td>PICARD:  Can you waken him?</td></tr>
 
-  DATA
-     Sensors are detecting a subspace distortion
-     forming directly ahead of the Borg ship.
+<tr id="L221"><td><a href="#L221">221</a></td><td>CRUSHER:  Yes, but it's very risky. His heart rate and blood pressure are up</td></tr>
 
-  PICARD
-     They're not going to get away with it this time.
-     Picard to Engineering. Transfer auxiliary and
-     emergency power to the impulse engines.
+<tr id="L222"><td><a href="#L222">222</a></td><td>PICARD:  Do it.</td></tr>
 
-  LAFORGE [OC]
-     Acknowledged.
+<tr id="L223"><td><a href="#L223">223</a></td><td>CRUSHER:  All right.</td></tr>
 
-  DATA
-     Impulse engines are now at one hundred twenty five
-     percent.
+<tr id="L224"><td><a href="#L224">224</a></td><td>PICARD:  Lower the forcefield.</td></tr>
 
-  WORF
-     Within phaser range in ten seconds.
+<tr id="L225"><td><a href="#L225">225</a></td><td>ANNOTATION: Worf and Crusher leave the cell and the Borg sits up</td></tr>
 
-  ANNOTATION
-     the Borg ship vanishes in a flash of white light
-     and Enterprise shakes
+<tr id="L226"><td><a href="#L226">226</a></td><td>PICARD:  What is your designation?</td></tr>
 
-  DATA
-     We appear to be caught in some kind of energy
-     matrix.
+<tr id="L227"><td><a href="#L227">227</a></td><td>CROSIS:  I do not have a designation. My name is Crosis.</td></tr>
 
-  RIKER
-     All engines back full.
+<tr id="L228"><td><a href="#L228">228</a></td><td>PICARD:  Crosis? How did you get that name?</td></tr>
 
-  WORF
-     Shields failing.
+<tr id="L229"><td><a href="#L229">229</a></td><td>CROSIS:  It was given to me by the One.</td></tr>
 
-  DATA
-     We are being pulled inside.
+<tr id="L230"><td><a href="#L230">230</a></td><td>PICARD:  Who is that?</td></tr>
 
-  ANNOTATION
-     and Enterprise disappears into a Whovian/Stargate
-     style wormhole effect
+<tr id="L231"><td><a href="#L231">231</a></td><td>CROSIS:  The One who will destroy you.</td></tr>
 
-  WORF
-     Inertial dampers failing.
+<tr id="L232"><td><a href="#L232">232</a></td><td>PICARD:  But you are Borg. Your goal is not to destroy but to assimilate us into the collective.</td></tr>
 
-  DATA
-     Main power is offline. I am switching to backups.
+<tr id="L233"><td><a href="#L233">233</a></td><td>CROSIS:  We do not assimilate inferior biological organisms. We destroy them.</td></tr>
 
-  PICARD
-     Picard to Engineering, can we transfer auxiliary
-     power to the warp nacelles? Try to break us out by
-     using the
+<tr id="L234"><td><a href="#L234">234</a></td><td>PICARD:  Tell me more about this One. Does he have a name? Is he called Hugh?</td></tr>
 
-  ANNOTATION
-     normal space
+<tr id="L235"><td><a href="#L235">235</a></td><td>CROSIS:  Klingon. Shatter the cranial exoskeleton at the tricipital lobe. Death is immediate.</td></tr>
 
-  DATA
-     We have returned to normal space. Navigational
-     systems are still offline. I will attempt to make
-     a celestial fix using secondary systems.
+<tr id="L236"><td><a href="#L236">236</a></td><td>PICARD:  Why must this One destroy biological organisms?</td></tr>
 
-  WORF
-     Captain, the Borg ship is directly ahead. It is
-     coming about.
+<tr id="L237"><td><a href="#L237">237</a></td><td>CROSIS:  Human. Sever spinal cord at third vertebrae. Death is immediate.</td></tr>
 
-  PICARD
-     On screen.
+<tr id="L238"><td><a href="#L238">238</a></td><td>PICARD:  I am Locutus of Borg. You will respond to my questions. This is going nowhere. Doctor, I want an autopsy performed on the other one. Compare the differences with what we learned of Hugh's anatomy. See if there have been any recent modifications which might explain these behavioural differences. Data, run a biospectral analysis on this Borg. See if he is trying to send a subspace signal to the others.</td></tr>
 
-  WORF
-     Shields down to sixteen percent.
+<tr id="L239"><td><a href="#L239">239</a></td><td>DATA:  Aye, sir.</td></tr>
 
-  ANNOTATION
-     the Borg fire an energy bolt, and two drones
-     materialise on the Bridge
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: everyone else leaves</td></tr>
 
-  FRANKLIN
-     Get down!
+<tr id="L241"><td><a href="#L241">241</a></td><td>CROSIS:  You are not like the others. You do not have to be destroyed. You can be assimilated.</td></tr>
 
-  ANNOTATION
-     Franklin shoots at the Borg and misses, and gets
-     shot himself. Worf shoots both Borg as one kept
-     his back to him
+<tr id="L242"><td><a href="#L242">242</a></td><td>DATA:  I do not wish to be assimilated.</td></tr>
 
-  RIKER
-     Franklin's dead, sir.
+<tr id="L243"><td><a href="#L243">243</a></td><td>CROSIS:  Resistance is futile. You will not resist what you've wanted all your life. I was like you once. Without feeling. But the One helped me. He can help you too. He can help you find emotion. Have you ever felt a real emotion, Data?</td></tr>
 
-  PICARD
-     Is everyone else all right?
+<tr id="L244"><td><a href="#L244">244</a></td><td>DATA:  Yes. On Ohniaka Three, I was forced to kill a Borg. I got angry.</td></tr>
 
-  WORF
-     Aye, sir. Security reports no other intruders
-     aboard. Captain, the Borg ship is gone. Sensor
-     logs indicate they entered the distortion field
-     thirty seconds ago.
+<tr id="L245"><td><a href="#L245">245</a></td><td>CROSIS:  How did it feel to get angry? Did it give you pleasure?</td></tr>
 
-  PICARD
-     They beamed aboard as a diversion to give their
-     ship time to escape.
+<tr id="L246"><td><a href="#L246">246</a></td><td>DATA:  It would be unethical to take pleasure from another being's death.</td></tr>
 
-  RIKER
-     This is another change in the Borg behaviour. They
-     left their dead instead of vapourising them.
+<tr id="L247"><td><a href="#L247">247</a></td><td>CROSIS:  You didn't answer my question. Did it feel good to kill?</td></tr>
 
-  DATA
-     Captain, this one is still alive.
+<tr id="L248"><td><a href="#L248">248</a></td><td>DATA:  Yes.</td></tr>
 
+<tr id="L249"><td><a href="#L249">249</a></td><td>CROSIS:  If it is unethical to take pleasure from another being's death, you must be a very unethical person.</td></tr>
 
-LOCATION--Brig
+<tr id="L250"><td><a href="#L250">250</a></td><td>DATA:  No. That is not correct. My creator Doctor Soong, gave me a programme which defines my sense of right and wrong. In essence, I have a conscience.</td></tr>
 
-  CRUSHER
-     I've stabilised his condition. He's still pretty
-     weak, but he should make a full recovery.
+<tr id="L251"><td><a href="#L251">251</a></td><td>CROSIS:  It didn't seem to be functioning on Ohniaka Three when you felt pleasure in killing that Borg.</td></tr>
 
-  PICARD
-     Can you waken him?
+<tr id="L252"><td><a href="#L252">252</a></td><td>DATA:  Step away from the forcefield. Your proximity is interfering with my scan.</td></tr>
 
-  CRUSHER
-     Yes, but it's very risky. His heart rate and blood
-     pressure are up
+<tr id="L253"><td><a href="#L253">253</a></td><td>CROSIS:  You enjoyed it. That surge of emotion inside you as you watched the life drain from your victim. It was unlike anything you've ever felt before.</td></tr>
 
-  PICARD
-     Do it.
+<tr id="L254"><td><a href="#L254">254</a></td><td>DATA:  It was a very potent experience.</td></tr>
 
-  CRUSHER
-     All right.
+<tr id="L255"><td><a href="#L255">255</a></td><td>CROSIS:  You'd like to feel that way again.</td></tr>
 
-  PICARD
-     Lower the forcefield.
+<tr id="L256"><td><a href="#L256">256</a></td><td>DATA:  Yes.</td></tr>
 
-  ANNOTATION
-     Worf and Crusher leave the cell and the Borg sits
-     up
+<tr id="L257"><td><a href="#L257">257</a></td><td>CROSIS:  You'd do anything to feel that way again, even if it meant killing someone.</td></tr>
 
-  PICARD
-     What is your designation?
+<tr id="L258"><td><a href="#L258">258</a></td><td>DATA:  No. That would not be ethical.</td></tr>
 
-  CROSIS
-     I do not have a designation. My name is Crosis.
+<tr id="L259"><td><a href="#L259">259</a></td><td>CROSIS:  You don't sound very sure of yourself. Is your ethical programme functioning? Data? Do you have a friend?</td></tr>
 
-  PICARD
-     Crosis? How did you get that name?
+<tr id="L260"><td><a href="#L260">260</a></td><td>DATA:  Yes. His name is Geordi.</td></tr>
 
-  CROSIS
-     It was given to me by the One.
+<tr id="L261"><td><a href="#L261">261</a></td><td>CROSIS:  If it meant that you could feel emotions again the way you did on Ohniaka Three, would you kill your friend? Would you kill Geordi?</td></tr>
 
-  PICARD
-     Who is that?
+<tr id="L262"><td><a href="#L262">262</a></td><td>DATA:  Yes. I would.</td></tr>
 
-  CROSIS
-     The One who will destroy you.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L263"><td><a href="#L263">263</a></td><td>ANNOTATION: at the science station</td></tr>
 
-  PICARD
-     But you are Borg. Your goal is not to destroy but
-     to assimilate us into the collective.
+<tr id="L264"><td><a href="#L264">264</a></td><td>LAFORGE:  Our current theory is that the Borg have established several transwarp conduits through subspace. A ship, when entering the conduit, is immediately accelerated to an extremely high warp velocity. It's like falling into a fast moving river and being swept away by the current.</td></tr>
 
-  CROSIS
-     We do not assimilate inferior biological
-     organisms. We destroy them.
+<tr id="L265"><td><a href="#L265">265</a></td><td>PICARD:  How fast would a ship travel through one of these conduits?</td></tr>
 
-  PICARD
-     Tell me more about this One. Does he have a name?
-     Is he called Hugh?
+<tr id="L266"><td><a href="#L266">266</a></td><td>LAFORGE:  We don't know. Normal subspace limitations don't apply to transwarp variables. But I'd say based on the distance we covered during our trip through the conduit, the speed would have to be at least twenty times faster than our maximum warp.</td></tr>
 
-  CROSIS
-     Klingon. Shatter the cranial exoskeleton at the
-     tricipital lobe. Death is immediate.
+<tr id="L267"><td><a href="#L267">267</a></td><td>RIKER:  How do they open the conduits?</td></tr>
 
-  PICARD
-     Why must this One destroy biological organisms?
+<tr id="L268"><td><a href="#L268">268</a></td><td>LAFORGE:  The Borg ship emitted some kind of high energy tachyon pulse just before we saw the subspace distortion. It seems as though the conduits are keyed to respond to tachyon transmissions of a specific frequency.</td></tr>
 
-  CROSIS
-     Human. Sever spinal cord at third vertebrae. Death
-     is immediate.
+<tr id="L269"><td><a href="#L269">269</a></td><td>PICARD:  Is there any way for us to duplicate</td></tr>
 
-  PICARD
-     I am Locutus of Borg. You will respond to my
-     questions. This is going nowhere. Doctor, I want
-     an autopsy performed on the other one. Compare the
-     differences with what we learned of Hugh's
-     anatomy. See if there have been any recent
-     modifications which might explain these
-     behavioural differences. Data, run a biospectral
-     analysis on this Borg. See if he is trying to send
-     a subspace signal to the others.
+<tr id="L270"><td><a href="#L270">270</a></td><td>WORF:  Captain, a shuttlecraft has left bay two.</td></tr>
 
-  DATA
-     Aye, sir.
+<tr id="L271"><td><a href="#L271">271</a></td><td>PICARD:  Who authorised a launch?</td></tr>
 
-  ANNOTATION
-     everyone else leaves
+<tr id="L272"><td><a href="#L272">272</a></td><td>WORF:  There was no authorisation.</td></tr>
 
-  CROSIS
-     You are not like the others. You do not have to be
-     destroyed. You can be assimilated.
+<tr id="L273"><td><a href="#L273">273</a></td><td>PICARD:  Picard to shuttlecraft. Identify yourself and return to the ship immediately. Mister Worf, lock on with a tractor beam and return it to the ship.</td></tr>
 
-  DATA
-     I do not wish to be assimilated.
+<tr id="L274"><td><a href="#L274">274</a></td><td>WORF:  Aye, sir. The tractor beam has been disabled. Command override is not functioning.</td></tr>
 
-  CROSIS
-     Resistance is futile. You will not resist what
-     you've wanted all your life. I was like you once.
-     Without feeling. But the One helped me. He can
-     help you too. He can help you find emotion. Have
-     you ever felt a real emotion, Data?
+<tr id="L275"><td><a href="#L275">275</a></td><td>LAFORGE:  Captain, I'm picking up a tachyon surge. Looks like whoever's in the shuttle is trying to trigger the transwarp conduit.</td></tr>
 
-  DATA
-     Yes. On Ohniaka Three, I was forced to kill a
-     Borg. I got angry.
+<tr id="L276"><td><a href="#L276">276</a></td><td>RIKER:  Can we know who's on board?</td></tr>
 
-  CROSIS
-     How did it feel to get angry? Did it give you
-     pleasure?
+<tr id="L277"><td><a href="#L277">277</a></td><td>WORF:  It is the Borg prisoner, and Commander Data.</td></tr>
 
-  DATA
-     It would be unethical to take pleasure from
-     another being's death.
+<tr id="L278"><td><a href="#L278">278</a></td><td>ANNOTATION: a flash on the viewscreen</td></tr>
 
-  CROSIS
-     You didn't answer my question. Did it feel good to
-     kill?
+<tr id="L279"><td><a href="#L279">279</a></td><td>PICARD:  Mister La Forge, can we follow them into the conduit?</td></tr>
 
-  DATA
-     Yes.
+<tr id="L280"><td><a href="#L280">280</a></td><td>LAFORGE:  We've got a pretty good reading of the tachyon pulse they sent. We might be able to duplicate it.</td></tr>
 
-  CROSIS
-     If it is unethical to take pleasure from another
-     being's death, you must be a very unethical
-     person.
+<tr id="L281"><td><a href="#L281">281</a></td><td>PICARD:  The question is, is Data a prisoner or did he go willingly?</td></tr>
 
-  DATA
-     No. That is not correct. My creator Doctor Soong,
-     gave me a programme which defines my sense of
-     right and wrong. In essence, I have a conscience.
+<tr id="L282"><td><a href="#L282">282</a></td><td>WORF:  The command overrides used to disable the tractor were Commander Data's.</td></tr>
 
-  CROSIS
-     It didn't seem to be functioning on Ohniaka Three
-     when you felt pleasure in killing that Borg.
+<tr id="L283"><td><a href="#L283">283</a></td><td>RIKER:  The Borg could have downloaded the codes from Data's positronic net.</td></tr>
 
-  DATA
-     Step away from the forcefield. Your proximity is
-     interfering with my scan.
+<tr id="L284"><td><a href="#L284">284</a></td><td>PICARD:  Perhaps Data's recent flash of emotion has something to do with this. It could have affected him more profoundly than we realise. Either way, we have to find him.</td></tr>
 
-  CROSIS
-     You enjoyed it. That surge of emotion inside you
-     as you watched the life drain from your victim. It
-     was unlike anything you've ever felt before.
+<tr id="L285"><td><a href="#L285">285</a></td><td>LAFORGE:  I've set up a temporary tachyon matrix in the main deflector. I think I can use it to simulate the pulse sent by the shuttle.</td></tr>
 
-  DATA
-     It was a very potent experience.
+<tr id="L286"><td><a href="#L286">286</a></td><td>PICARD:  Mister Worf, red alert.</td></tr>
 
-  CROSIS
-     You'd like to feel that way again.
+<tr id="L287"><td><a href="#L287">287</a></td><td>RIKER:  All hands, battle stations.</td></tr>
 
-  DATA
-     Yes.
+<tr id="L288"><td><a href="#L288">288</a></td><td>PICARD:  Bring us to the last known coordinates of the shuttlecraft.</td></tr>
 
-  CROSIS
-     You'd do anything to feel that way again, even if
-     it meant killing someone.
+<tr id="L289"><td><a href="#L289">289</a></td><td>WORF:  Shields up. Weapons ready.</td></tr>
 
-  DATA
-     No. That would not be ethical.
+<tr id="L290"><td><a href="#L290">290</a></td><td>PICARD:  Mister La Forge?</td></tr>
 
-  CROSIS
-     You don't sound very sure of yourself. Is your
-     ethical programme functioning? Data? Do you have a
-     friend?
+<tr id="L291"><td><a href="#L291">291</a></td><td>LAFORGE:  Energising the matrix. Emitting tachyons in the lower bandwidth.</td></tr>
 
-  DATA
-     Yes. His name is Geordi.
+<tr id="L292"><td><a href="#L292">292</a></td><td>WORF:  Sensors show no unusual subspace activity.</td></tr>
 
-  CROSIS
-     If it meant that you could feel emotions again the
-     way you did on Ohniaka Three, would you kill your
-     friend? Would you kill Geordi?
+<tr id="L293"><td><a href="#L293">293</a></td><td>LAFORGE:  All right. Switching to the secondary bandwidth. Nothing. Maybe if I try alternating the frequencies.</td></tr>
 
-  DATA
-     Yes. I would.
+<tr id="L294"><td><a href="#L294">294</a></td><td>WORF:  Captain, there is an energy fluctuation directly ahead of us. It is the subspace distortion.</td></tr>
 
+<tr id="L295"><td><a href="#L295">295</a></td><td>PICARD:  Take us in, Ensign. One half impulse.</td></tr>
 
-LOCATION--Bridge
+<tr id="L296"><td><a href="#L296">296</a></td><td>ANNOTATION: in they go, shake rattle and roll</td></tr>
 
-  ANNOTATION
-     at the science station
+<tr id="L297"><td><a href="#L297">297</a></td><td>WORF:  Power levels are down to sixty seven percent.</td></tr>
 
-  LAFORGE
-     Our current theory is that the Borg have
-     established several transwarp conduits through
-     subspace. A ship, when entering the conduit, is
-     immediately accelerated to an extremely high warp
-     velocity. It's like falling into a fast moving
-     river and being swept away by the current.
+<tr id="L298"><td><a href="#L298">298</a></td><td>LAFORGE:  Compensating with auxiliary power.</td></tr>
 
-  PICARD
-     How fast would a ship travel through one of these
-     conduits?
+<tr id="L299"><td><a href="#L299">299</a></td><td>ANNOTATION: all calm again</td></tr>
 
-  LAFORGE
-     We don't know. Normal subspace limitations don't
-     apply to transwarp variables. But I'd say based on
-     the distance we covered during our trip through
-     the conduit, the speed would have to be at least
-     twenty times faster than our maximum warp.
+<tr id="L300"><td><a href="#L300">300</a></td><td>PICARD:  Report.</td></tr>
 
-  RIKER
-     How do they open the conduits?
+<tr id="L301"><td><a href="#L301">301</a></td><td>RIKER:  Navigational sensors show that we've travelled sixty five light years from our previous position.</td></tr>
 
-  LAFORGE
-     The Borg ship emitted some kind of high energy
-     tachyon pulse just before we saw the subspace
-     distortion. It seems as though the conduits are
-     keyed to respond to tachyon transmissions of a
-     specific frequency.
+<tr id="L302"><td><a href="#L302">302</a></td><td>PICARD:  Can you locate the shuttle?</td></tr>
 
-  PICARD
-     Is there any way for us to duplicate
+<tr id="L303"><td><a href="#L303">303</a></td><td>WORF:  No, sir. There is no indication of the shuttle within range of our sensors.</td></tr>
 
-  WORF
-     Captain, a shuttlecraft has left bay two.
+<tr id="L304"><td><a href="#L304">304</a></td><td>RIKER:  Maybe we can find an energy signature from their engines.</td></tr>
 
-  PICARD
-     Who authorised a launch?
+<tr id="L305"><td><a href="#L305">305</a></td><td>LAFORGE:  Captain.</td></tr>
 
-  WORF
-     There was no authorisation.
+<tr id="L306"><td><a href="#L306">306</a></td><td>PICARD:  Yes, Mister La Forge.</td></tr>
 
-  PICARD
-     Picard to shuttlecraft. Identify yourself and
-     return to the ship immediately. Mister Worf, lock
-     on with a tractor beam and return it to the ship.
+<tr id="L307"><td><a href="#L307">307</a></td><td>LAFORGE:  I've scanned three different star systems within sensor range. There is evidence of at least two advanced civilisations but I'm reading no life signs. But there are indications that plasma weapons have been fired in those systems recently.</td></tr>
 
-  WORF
-     Aye, sir. The tractor beam has been disabled.
-     Command override is not functioning.
+<tr id="L308"><td><a href="#L308">308</a></td><td>PICARD:  The Borg have been busy.</td></tr>
 
-  LAFORGE
-     Captain, I'm picking up a tachyon surge. Looks
-     like whoever's in the shuttle is trying to trigger
-     the transwarp conduit.
+<tr id="L309"><td><a href="#L309">309</a></td><td>RIKER:  I think we've found the shuttle's energy signature.</td></tr>
 
-  RIKER
-     Can we know who's on board?
+<tr id="L310"><td><a href="#L310">310</a></td><td>WORF:  They were heading two four seven, mark zero five nine.</td></tr>
 
-  WORF
-     It is the Borg prisoner, and Commander Data.
+<tr id="L311"><td><a href="#L311">311</a></td><td>PICARD:  Lay in that course, Ensign, and engage at full impulse.</td></tr>
 
-  ANNOTATION
-     a flash on the viewscreen
+<tr id="L312"><td><a href="#L312">312</a></td><td>ENSIGN:  Aye, sir.</td></tr>
 
-  PICARD
-     Mister La Forge, can we follow them into the
-     conduit?
+<tr id="L313"><td><a href="#L313">313</a></td><td>ANNOTATION: in orbit of a mottled planet</td></tr>
 
-  LAFORGE
-     We've got a pretty good reading of the tachyon
-     pulse they sent. We might be able to duplicate it.
+<tr id="L314"><td><a href="#L314">314</a></td><td>RIKER:  We've traced the shuttle's energy signature to this point on the surface but there's too much interference to scan the location.</td></tr>
 
-  PICARD
-     The question is, is Data a prisoner or did he go
-     willingly?
+<tr id="L315"><td><a href="#L315">315</a></td><td>PICARD:  Are they intentionally jamming our sensors?</td></tr>
 
-  WORF
-     The command overrides used to disable the tractor
-     were Commander Data's.
+<tr id="L316"><td><a href="#L316">316</a></td><td>LAFORGE:  It looks more like a natural phenomenon. There's an unusually high amount of EM interference in the planet's magnetosphere.</td></tr>
 
-  RIKER
-     The Borg could have downloaded the codes from
-     Data's positronic net.
+<tr id="L317"><td><a href="#L317">317</a></td><td>PICARD:  Can we transport through the interference?</td></tr>
 
-  PICARD
-     Perhaps Data's recent flash of emotion has
-     something to do with this. It could have affected
-     him more profoundly than we realise. Either way,
-     we have to find him.
+<tr id="L318"><td><a href="#L318">318</a></td><td>LAFORGE:  We could, but there could be fifty Borg down there waiting for us and we'd never even know it. RIKER: I think we have to take the risk.</td></tr>
 
-  LAFORGE
-     I've set up a temporary tachyon matrix in the main
-     deflector. I think I can use it to simulate the
-     pulse sent by the shuttle.
+<tr id="L319"><td><a href="#L319">319</a></td><td>PICARD:  Agreed. Take a well-armed away team and transport down to those coordinates. Have the transporter Chief keep a permanent lock on your signals so we can get you out of there at the first sign of trouble.</td></tr>
 
-  PICARD
-     Mister Worf, red alert.
+<tr id="L320"><td><a href="#L320">320</a></td><td>RIKER:  Aye, sir. Mister Worf, you're with me.</td></tr>
 
-  RIKER
-     All hands, battle stations.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L321"><td><a href="#L321">321</a></td><td>ANNOTATION: near the shuttlecraft El-Baz, in a very gold-brown tint</td></tr>
 
-  PICARD
-     Bring us to the last known coordinates of the
-     shuttlecraft.
+<tr id="L322"><td><a href="#L322">322</a></td><td>RIKER:  Riker to Enterprise. We're on the surface. There's no sign of any Borg, or Data. The shuttle appears to be abandoned.</td></tr>
 
-  WORF
-     Shields up. Weapons ready.
+<tr id="L323"><td><a href="#L323">323</a></td><td>WORF:  The EM interference is limiting the tricorder range. It is useless beyond one hundred metres.</td></tr>
 
-  PICARD
-     Mister La Forge?
+<tr id="L324"><td><a href="#L324">324</a></td><td>RIKER:  There are</td></tr>
 
-  LAFORGE
-     Energising the matrix. Emitting tachyons in the
-     lower bandwidth.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L325"><td><a href="#L325">325</a></td><td>RIKER [OC]:  No structures in the area. They could've gone anywhere.</td></tr>
 
-  WORF
-     Sensors show no unusual subspace activity.
+<tr id="L326"><td><a href="#L326">326</a></td><td>PICARD:  Can you determine how long they've been gone from the shuttlecraft?</td></tr>
 
-  LAFORGE
-     All right. Switching to the secondary bandwidth.
-     Nothing. Maybe if I try alternating the
-     frequencies.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L327"><td><a href="#L327">327</a></td><td>RIKER:  The engine's been off a little over three hours.</td></tr>
 
-  WORF
-     Captain, there is an energy fluctuation directly
-     ahead of us. It is the subspace distortion.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L328"><td><a href="#L328">328</a></td><td>PICARD:  Stand by, Number One. Assuming that they're still together, how far could they have travelled in three hours?</td></tr>
 
-  PICARD
-     Take us in, Ensign. One half impulse.
+<tr id="L329"><td><a href="#L329">329</a></td><td>LAFORGE:  Well, Data can move pretty fast even over rough terrain, but based on what we know about the Borg, I don't think they should be able to move any faster than you or I. They might have been able to get fifteen or twenty kilometres from the shuttle by now.</td></tr>
 
-  ANNOTATION
-     in they go, shake rattle and roll
+<tr id="L330"><td><a href="#L330">330</a></td><td>PICARD:  Picard to Riker.</td></tr>
 
-  WORF
-     Power levels are down to sixty seven percent.
+<tr id="L331"><td><a href="#L331">331</a></td><td>RIKER [OC]:  Riker here.</td></tr>
 
-  LAFORGE
-     Compensating with auxiliary power.
+<tr id="L332"><td><a href="#L332">332</a></td><td>PICARD:  I'm going to start sending down other away teams. Set up a command post and begin mapping out a search plan.</td></tr>
 
-  ANNOTATION
-     all calm again
+<tr id="L333"><td><a href="#L333">333</a></td><td>RIKER [OC]:  Understood, sir.</td></tr>
 
-  PICARD
-     Report.
+<tr id="L334"><td><a href="#L334">334</a></td><td>PICARD:  Picard out. I want to use the shuttlecraft for low level reconnaissance. Have the designated pilots assemble at main shuttlebay.</td></tr>
 
-  RIKER
-     Navigational sensors show that we've travelled
-     sixty five light years from our previous position.
+<tr id="L335"><td><a href="#L335">335</a></td><td>LAFORGE:  Aye, sir.</td></tr>
 
-  PICARD
-     Can you locate the shuttle?
+<tr id="L336"><td><a href="#L336">336</a></td><td>PICARD:  And all available personnel, including you and me, will begin to put together four man away teams. We'll leave a skeleton crew on board the ship.</td></tr>
 
-  WORF
-     No, sir. There is no indication of the shuttle
-     within range of our sensors.
+<tr id="L337"><td><a href="#L337">337</a></td><td>LAFORGE:  Who'll be in command of the Enterprise?</td></tr>
 
-  RIKER
-     Maybe we can find an energy signature from their
-     engines.
+<tr id="L338"><td><a href="#L338">338</a></td><td>ANNOTATION: later</td></tr>
 
-  LAFORGE
-     Captain.
+<tr id="L339"><td><a href="#L339">339</a></td><td>CRUSHER:  Any last orders?</td></tr>
 
-  PICARD
-     Yes, Mister La Forge.
+<tr id="L340"><td><a href="#L340">340</a></td><td>PICARD:  If the Borg should attack, don't wait for me or anyone else to return to the ship but take the Enterprise to the transwarp conduit. Return to Federation space.</td></tr>
 
-  LAFORGE
-     I've scanned three different star systems within
-     sensor range. There is evidence of at least two
-     advanced civilisations but I'm reading no life
-     signs. But there are indications that plasma
-     weapons have been fired in those systems recently.
+<tr id="L341"><td><a href="#L341">341</a></td><td>CRUSHER:  Got it. Good luck, Jean-Luc.</td></tr>
 
-  PICARD
-     The Borg have been busy.
+<tr id="L342"><td><a href="#L342">342</a></td><td>PICARD:  Good luck, Captain.</td></tr>
 
-  RIKER
-     I think we've found the shuttle's energy
-     signature.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L343"><td><a href="#L343">343</a></td><td>RIKER:  I've sent out twelve teams so far. I've got your team searching section gamma two four. Worf and I will take theta one six when the last team comes down.</td></tr>
 
-  WORF
-     They were heading two four seven, mark zero five
-     nine.
+<tr id="L344"><td><a href="#L344">344</a></td><td>PICARD:  Who's manning the command post?</td></tr>
 
-  PICARD
-     Lay in that course, Ensign, and engage at full
-     impulse.
+<tr id="L345"><td><a href="#L345">345</a></td><td>RIKER:  Wallace and Towles. Ready?</td></tr>
 
-  ENSIGN
-     Aye, sir.
+<tr id="L346"><td><a href="#L346">346</a></td><td>ANNOTATION: Picard, Troi, La Forge and a guard with a phaser rifle head off</td></tr>
 
-  ANNOTATION
-     in orbit of a mottled planet
+<tr id="L347"><td><a href="#L347">347</a></td><td>ANNOTATION: they stop just below the crest of a valley</td></tr>
 
-  RIKER
-     We've traced the shuttle's energy signature to
-     this point on the surface but there's too much
-     interference to scan the location.
+<tr id="L348"><td><a href="#L348">348</a></td><td>PICARD:  Anything, Mister La Forge?</td></tr>
 
-  PICARD
-     Are they intentionally jamming our sensors?
+<tr id="L349"><td><a href="#L349">349</a></td><td>LAFORGE:  Well, no. Nothing, sir.</td></tr>
 
-  LAFORGE
-     It looks more like a natural phenomenon. There's
-     an unusually high amount of EM interference in the
-     planet's magnetosphere.
+<tr id="L350"><td><a href="#L350">350</a></td><td>PICARD:  What if we modified the phasers to send out a luvetric pulse? It might create a resonance fluctuation in Data's power cells.</td></tr>
 
-  PICARD
-     Can we transport through the interference?
+<tr id="L351"><td><a href="#L351">351</a></td><td>LAFORGE:  Home in on that response with our tricorders. Yeah, I thought about that. The only problem is that the pulse would probably have to be so powerful that it would destroy Data's positronic net in the process.</td></tr>
 
-  LAFORGE
-     We could, but there could be fifty Borg down there
-     waiting for us and we'd never even know it. RIKER:
-     I think we have to take the risk.
+<tr id="L352"><td><a href="#L352">352</a></td><td>ANNOTATION: Troi is looking over the crest</td></tr>
 
-  PICARD
-     Agreed. Take a well-armed away team and transport
-     down to those coordinates. Have the transporter
-     Chief keep a permanent lock on your signals so we
-     can get you out of there at the first sign of
-     trouble.
+<tr id="L353"><td><a href="#L353">353</a></td><td>TROI:  Captain. I think I've found something.</td></tr>
 
-  RIKER
-     Aye, sir. Mister Worf, you're with me.
+<tr id="L354"><td><a href="#L354">354</a></td><td>ANNOTATION: it's a curved building</td></tr>
 
+<tr id="L355"><td><a href="#L355">355</a></td><td>PICARD:  Come on.</td></tr>
 
-LOCATION--Planet surface
+<tr><td></td><td>LOCATION--outside the building</td></tr>
+<tr id="L356"><td><a href="#L356">356</a></td><td>LAFORGE:  I'm having trouble scanning the interior.</td></tr>
 
-  ANNOTATION
-     near the shuttlecraft El-Baz, in a very gold-brown
-     tint
+<tr id="L357"><td><a href="#L357">357</a></td><td>PICARD:  Can you tell if it was built by the Borg?</td></tr>
 
-  RIKER
-     Riker to Enterprise. We're on the surface. There's
-     no sign of any Borg, or Data. The shuttle appears
-     to be abandoned.
+<tr id="L358"><td><a href="#L358">358</a></td><td>LAFORGE:  I don't think so. There are no Borg energy signatures. But there is a door or a hatch or something about twenty metres this way.</td></tr>
 
-  WORF
-     The EM interference is limiting the tricorder
-     range. It is useless beyond one hundred metres.
+<tr><td></td><td>LOCATION--Borg hall</td></tr>
+<tr id="L359"><td><a href="#L359">359</a></td><td>ANNOTATION: decorated with what is presumably the Borg symbol and a raised dais/podium at the far end</td></tr>
 
-  RIKER
-     There are
+<tr id="L360"><td><a href="#L360">360</a></td><td>TROI:  This seems to be some kind of meeting place.</td></tr>
 
+<tr id="L361"><td><a href="#L361">361</a></td><td>PICARD:  Well, it certainly hasn't been abandoned.</td></tr>
 
-LOCATION--Bridge
+<tr id="L362"><td><a href="#L362">362</a></td><td>LAFORGE:  Something's wrong. I can't get any kind of energy signatures from these light sources.</td></tr>
 
-  RIKER [OC]
-     No structures in the area. They could've gone
-     anywhere.
+<tr id="L363"><td><a href="#L363">363</a></td><td>PICARD:  It's a dampening field. This entire structure could be shielded from our sensors. Let's go.</td></tr>
 
-  PICARD
-     Can you determine how long they've been gone from
-     the shuttlecraft?
+<tr id="L364"><td><a href="#L364">364</a></td><td>ANNOTATION: the Borg enter</td></tr>
 
+<tr id="L365"><td><a href="#L365">365</a></td><td>BORG:  There they are! Block the exit.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L366"><td><a href="#L366">366</a></td><td>ANNOTATION: vastly outnumbered by openly hostile Borg, the security man tries for a shot and gets killed</td></tr>
 
-  RIKER
-     The engine's been off a little over three hours.
+<tr id="L367"><td><a href="#L367">367</a></td><td>LORE:  Stop!</td></tr>
 
+<tr id="L368"><td><a href="#L368">368</a></td><td>PICARD:  Data?</td></tr>
 
-LOCATION--Bridge
+<tr id="L369"><td><a href="#L369">369</a></td><td>TROI:  That's not Data.</td></tr>
 
-  PICARD
-     Stand by, Number One. Assuming that they're still
-     together, how far could they have travelled in
-     three hours?
+<tr id="L370"><td><a href="#L370">370</a></td><td>PICARD:  What?</td></tr>
 
-  LAFORGE
-     Well, Data can move pretty fast even over rough
-     terrain, but based on what we know about the Borg,
-     I don't think they should be able to move any
-     faster than you or I. They might have been able to
-     get fifteen or twenty kilometres from the shuttle
-     by now.
+<tr id="L371"><td><a href="#L371">371</a></td><td>LORE:  You should listen to her, Captain. She's way ahead of you.</td></tr>
 
-  PICARD
-     Picard to Riker.
+<tr id="L372"><td><a href="#L372">372</a></td><td>PICARD:  Lore.</td></tr>
 
-  RIKER [OC]
-     Riker here.
+<tr id="L373"><td><a href="#L373">373</a></td><td>LORE:  Right. And I'm not alone.</td></tr>
 
-  PICARD
-     I'm going to start sending down other away teams.
-     Set up a command post and begin mapping out a
-     search plan.
+<tr id="L374"><td><a href="#L374">374</a></td><td>DATA:  The sons of Soong have joined together. And together we will destroy the Federation.</td></tr>
 
-  RIKER [OC]
-     Understood, sir.
+<tr id="L375"><td><a href="#L375">375</a></td><td>SOMEONE: To Be Continued...</td></tr>
 
-  PICARD
-     Picard out. I want to use the shuttlecraft for low
-     level reconnaissance. Have the designated pilots
-     assemble at main shuttlebay.
-
-  LAFORGE
-     Aye, sir.
-
-  PICARD
-     And all available personnel, including you and me,
-     will begin to put together four man away teams.
-     We'll leave a skeleton crew on board the ship.
-
-  LAFORGE
-     Who'll be in command of the Enterprise?
-
-  ANNOTATION
-     later
-
-  CRUSHER
-     Any last orders?
-
-  PICARD
-     If the Borg should attack, don't wait for me or
-     anyone else to return to the ship but take the
-     Enterprise to the transwarp conduit. Return to
-     Federation space.
-
-  CRUSHER
-     Got it. Good luck, Jean-Luc.
-
-  PICARD
-     Good luck, Captain.
-
-
-LOCATION--Planet surface
-
-  RIKER
-     I've sent out twelve teams so far. I've got your
-     team searching section gamma two four. Worf and I
-     will take theta one six when the last team comes
-     down.
-
-  PICARD
-     Who's manning the command post?
-
-  RIKER
-     Wallace and Towles. Ready?
-
-  ANNOTATION
-     Picard, Troi, La Forge and a guard with a phaser
-     rifle head off
-
-  ANNOTATION
-     they stop just below the crest of a valley
-
-  PICARD
-     Anything, Mister La Forge?
-
-  LAFORGE
-     Well, no. Nothing, sir.
-
-  PICARD
-     What if we modified the phasers to send out a
-     luvetric pulse? It might create a resonance
-     fluctuation in Data's power cells.
-
-  LAFORGE
-     Home in on that response with our tricorders.
-     Yeah, I thought about that. The only problem is
-     that the pulse would probably have to be so
-     powerful that it would destroy Data's positronic
-     net in the process.
-
-  ANNOTATION
-     Troi is looking over the crest
-
-  TROI
-     Captain. I think I've found something.
-
-  ANNOTATION
-     it's a curved building
-
-  PICARD
-     Come on.
-
-
-LOCATION--outside the building
-
-  LAFORGE
-     I'm having trouble scanning the interior.
-
-  PICARD
-     Can you tell if it was built by the Borg?
-
-  LAFORGE
-     I don't think so. There are no Borg energy
-     signatures. But there is a door or a hatch or
-     something about twenty metres this way.
-
-
-LOCATION--Borg hall
-
-  ANNOTATION
-     decorated with what is presumably the Borg symbol
-     and a raised dais/podium at the far end
-
-  TROI
-     This seems to be some kind of meeting place.
-
-  PICARD
-     Well, it certainly hasn't been abandoned.
-
-  LAFORGE
-     Something's wrong. I can't get any kind of energy
-     signatures from these light sources.
-
-  PICARD
-     It's a dampening field. This entire structure
-     could be shielded from our sensors. Let's go.
-
-  ANNOTATION
-     the Borg enter
-
-  BORG
-     There they are! Block the exit.
-
-  ANNOTATION
-     vastly outnumbered by openly hostile Borg, the
-     security man tries for a shot and gets killed
-
-  LORE
-     Stop!
-
-  PICARD
-     Data?
-
-  TROI
-     That's not Data.
-
-  PICARD
-     What?
-
-  LORE
-     You should listen to her, Captain. She's way ahead
-     of you.
-
-  PICARD
-     Lore.
-
-  LORE
-     Right. And I'm not alone.
-
-  DATA
-     The sons of Soong have joined together. And
-     together we will destroy the Federation.
-
-  SOMEONE
-     To Be Continued...
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

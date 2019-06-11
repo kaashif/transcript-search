@@ -1,1646 +1,868 @@
-The Last Outpost
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Last Outpost</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>RIKER:  There she is.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>PICARD:  Enlarge. What is their course?</td></tr>
 
-  RIKER
-     There she is.
+<tr id="L3"><td><a href="#L3">3</a></td><td>LAFORGE:  They are now angling through that solar system, Captain.</td></tr>
 
-  PICARD
-     Enlarge. What is their course?
+<tr id="L4"><td><a href="#L4">4</a></td><td>PICARD:  Identify.</td></tr>
 
-  LAFORGE
-     They are now angling through that solar system,
-     Captain.
+<tr id="L5"><td><a href="#L5">5</a></td><td>DATA:  Listed as Delphi Ardu, sir. Eleven planets, unexplored.</td></tr>
 
-  PICARD
-     Identify.
+<tr id="L6"><td><a href="#L6">6</a></td><td>RIKER:  Stay with them, La Forge.</td></tr>
 
-  DATA
-     Listed as Delphi Ardu, sir. Eleven planets,
-     unexplored.
+<tr id="L7"><td><a href="#L7">7</a></td><td>LAFORGE:  Aye, sir.</td></tr>
 
-  RIKER
-     Stay with them, La Forge.
+<tr id="L8"><td><a href="#L8">8</a></td><td>TASHA:  Sensors read a power surge from their last manoeuvre, Captain.</td></tr>
 
-  LAFORGE
-     Aye, sir.
+<tr id="L9"><td><a href="#L9">9</a></td><td>LAFORGE:  They are dropping to subwarp speed.</td></tr>
 
-  TASHA
-     Sensors read a power surge from their last
-     manoeuvre, Captain.
+<tr id="L10"><td><a href="#L10">10</a></td><td>PICARD:  Reduce to impulse power.</td></tr>
 
-  LAFORGE
-     They are dropping to subwarp speed.
+<tr id="L11"><td><a href="#L11">11</a></td><td>TASHA:  Sensor record fluctuations in the energy readings from it, Captain.</td></tr>
 
-  PICARD
-     Reduce to impulse power.
+<tr id="L12"><td><a href="#L12">12</a></td><td>DATA:  Possibility, a malfunction in their engines, sir.</td></tr>
 
-  TASHA
-     Sensor record fluctuations in the energy readings
-     from it, Captain.
+<tr id="L13"><td><a href="#L13">13</a></td><td>LAFORGE:  Breaks my heart.</td></tr>
 
-  DATA
-     Possibility, a malfunction in their engines, sir.
+<tr id="L14"><td><a href="#L14">14</a></td><td>WORF:  In visual range, Captain.</td></tr>
 
-  LAFORGE
-     Breaks my heart.
+<tr id="L15"><td><a href="#L15">15</a></td><td>PICARD:  Fully enlarge.</td></tr>
 
-  WORF
-     In visual range, Captain.
+<tr id="L16"><td><a href="#L16">16</a></td><td>ANNOTATION: The Ferengi ship is nicely curved</td></tr>
 
-  PICARD
-     Fully enlarge.
+<tr id="L17"><td><a href="#L17">17</a></td><td>LAFORGE:  Hello, stranger.</td></tr>
 
-  ANNOTATION
-     The Ferengi ship is nicely curved
+<tr id="L18"><td><a href="#L18">18</a></td><td>PICARD:  Very impressive design.</td></tr>
 
-  LAFORGE
-     Hello, stranger.
+<tr id="L19"><td><a href="#L19">19</a></td><td>RIKER:  Anything on that design, Data?</td></tr>
 
-  PICARD
-     Very impressive design.
+<tr id="L20"><td><a href="#L20">20</a></td><td>DATA:  Nothing specific, sir. As you know, Ferengi technology is estimated to be generally equal to our own.</td></tr>
 
-  RIKER
-     Anything on that design, Data?
+<tr id="L21"><td><a href="#L21">21</a></td><td>PICARD:  But that does not mean identical, however.</td></tr>
 
-  DATA
-     Nothing specific, sir. As you know, Ferengi
-     technology is estimated to be generally equal to
-     our own.
+<tr id="L22"><td><a href="#L22">22</a></td><td>DATA:  Correct, sir. We are no doubt advanced in some areas, they in others.</td></tr>
 
-  PICARD
-     But that does not mean identical, however.
+<tr id="L23"><td><a href="#L23">23</a></td><td>LAFORGE:  Showing another power surge, sir.</td></tr>
 
-  DATA
-     Correct, sir. We are no doubt advanced in some
-     areas, they in others.
+<tr id="L24"><td><a href="#L24">24</a></td><td>WORF:  They are firing on us.</td></tr>
 
-  LAFORGE
-     Showing another power surge, sir.
+<tr id="L25"><td><a href="#L25">25</a></td><td>PICARD:  Damage report?</td></tr>
 
-  WORF
-     They are firing on us.
+<tr id="L26"><td><a href="#L26">26</a></td><td>TASHA:  Shields holding.</td></tr>
 
-  PICARD
-     Damage report?
+<tr id="L27"><td><a href="#L27">27</a></td><td>DATA:  Mostly electromagnetic, sir. Fusion generator and batteries down by thirty percent.</td></tr>
 
-  TASHA
-     Shields holding.
+<tr id="L28"><td><a href="#L28">28</a></td><td>LAFORGE:  Our impulse engines are surging now.</td></tr>
 
-  DATA
-     Mostly electromagnetic, sir. Fusion generator and
-     batteries down by thirty percent.
+<tr id="L29"><td><a href="#L29">29</a></td><td>WORF:  They're firing again.</td></tr>
 
-  LAFORGE
-     Our impulse engines are surging now.
+<tr id="L30"><td><a href="#L30">30</a></td><td>ANNOTATION: A bright, bright flash on the viewscreen</td></tr>
 
-  WORF
-     They're firing again.
+<tr id="L31"><td><a href="#L31">31</a></td><td>TASHA:  Deflector shield power weakening, Captain. Phasers ready. Photon torpedoes ready.</td></tr>
 
-  ANNOTATION
-     A bright, bright flash on the viewscreen
+<tr id="L32"><td><a href="#L32">32</a></td><td>RIKER:  Do we return their fire, sir?</td></tr>
 
-  TASHA
-     Deflector shield power weakening, Captain. Phasers
-     ready. Photon torpedoes ready.
+<tr id="L33"><td><a href="#L33">33</a></td><td>PICARD:  Negative, Number One. They're just reacting to our close pursuit. Fall back a bit but stay with them.</td></tr>
 
-  RIKER
-     Do we return their fire, sir?
+<tr id="L34"><td><a href="#L34">34</a></td><td>DATA:  They are slowing too, sir.</td></tr>
 
-  PICARD
-     Negative, Number One. They're just reacting to our
-     close pursuit. Fall back a bit but stay with them.
+<tr id="L35"><td><a href="#L35">35</a></td><td>TASHA:  They may be turning to fight.</td></tr>
 
-  DATA
-     They are slowing too, sir.
+<tr id="L36"><td><a href="#L36">36</a></td><td>PICARD:  Open hailing freq. (puzzled) Why are we gaining on them? Don't anticipate.</td></tr>
 
-  TASHA
-     They may be turning to fight.
+<tr id="L37"><td><a href="#L37">37</a></td><td>LAFORGE:  I'm not, sir. Something's wrong.</td></tr>
 
-  PICARD
-     Open hailing freq. (puzzled) Why are we gaining on
-     them? Don't anticipate.
+<tr id="L38"><td><a href="#L38">38</a></td><td>DATA:  Sir, something is dragging us forward.</td></tr>
 
-  LAFORGE
-     I'm not, sir. Something's wrong.
+<tr id="L39"><td><a href="#L39">39</a></td><td>PICARD:  I read that, too. Lieutenant Yar, what do your sensors show?</td></tr>
 
-  DATA
-     Sir, something is dragging us forward.
+<tr id="L40"><td><a href="#L40">40</a></td><td>TASHA:  Not certain, sir. I'm getting very confusing readings.</td></tr>
 
-  PICARD
-     I read that, too. Lieutenant Yar, what do your
-     sensors show?
+<tr id="L41"><td><a href="#L41">41</a></td><td>DATA:  Captain, this shouldn't be. Our ship's power systems are failing.</td></tr>
 
-  TASHA
-     Not certain, sir. I'm getting very confusing
-     readings.
+<tr id="L42"><td><a href="#L42">42</a></td><td>TASHA:  Deflector shield failing. Phasers going inoperative, Captain.</td></tr>
 
-  DATA
-     Captain, this shouldn't be. Our ship's power
-     systems are failing.
+<tr id="L43"><td><a href="#L43">43</a></td><td>LAFORGE:  Captain, something is completely immobilising us.</td></tr>
 
-  TASHA
-     Deflector shield failing. Phasers going
-     inoperative, Captain.
+<tr id="L44"><td><a href="#L44">44</a></td><td>WORF:  Immobilised by the damn Ferengi.</td></tr>
 
-  LAFORGE
-     Captain, something is completely immobilising us.
+<tr id="L45"><td><a href="#L45">45</a></td><td>PICARD:  We need more information. What the hell are they are using?</td></tr>
 
-  WORF
-     Immobilised by the damn Ferengi.
+<tr id="L46"><td><a href="#L46">46</a></td><td>RIKER:  Obviously we've underestimated their technology, Captain.</td></tr>
 
-  PICARD
-     We need more information. What the hell are they
-     are using?
+<tr id="L47"><td><a href="#L47">47</a></td><td>PICARD:  Considerably. It appears the Ferengi have us right where they want us. In their sights. Are you searching all frequencies? Any sign of any kind of messages?</td></tr>
 
-  RIKER
-     Obviously we've underestimated their technology,
-     Captain.
+<tr id="L48"><td><a href="#L48">48</a></td><td>WORF:  Negative, sir.</td></tr>
 
-  PICARD
-     Considerably. It appears the Ferengi have us right
-     where they want us. In their sights. Are you
-     searching all frequencies? Any sign of any kind of
-     messages?
+<tr id="L49"><td><a href="#L49">49</a></td><td>PICARD:  Weapons report, Lieutenant.</td></tr>
 
-  WORF
-     Negative, sir.
+<tr id="L50"><td><a href="#L50">50</a></td><td>TASHA:  I have phasers and torpedoes armed, but I show insufficient power to fire them.</td></tr>
 
-  PICARD
-     Weapons report, Lieutenant.
+<tr id="L51"><td><a href="#L51">51</a></td><td>PICARD:  Engineering, give me status on power recovery. Engineering, come in. Why aren't they answering? La Forge.</td></tr>
 
-  TASHA
-     I have phasers and torpedoes armed, but I show
-     insufficient power to fire them.
+<tr id="L52"><td><a href="#L52">52</a></td><td>LAFORGE:  Sir.</td></tr>
 
-  PICARD
-     Engineering, give me status on power recovery.
-     Engineering, come in. Why aren't they answering?
-     La Forge.
+<tr id="L53"><td><a href="#L53">53</a></td><td>PICARD:  Get me a full report from Engineering.</td></tr>
 
-  LAFORGE
-     Sir.
+<tr id="L54"><td><a href="#L54">54</a></td><td>LAFORGE:  Aye, sir.</td></tr>
 
-  PICARD
-     Get me a full report from Engineering.
+<tr id="L55"><td><a href="#L55">55</a></td><td>ANNOTATION: La Forge leaves</td></tr>
 
-  LAFORGE
-     Aye, sir.
+<tr id="L56"><td><a href="#L56">56</a></td><td>RIKER:  It's impossible they could be draining all power from all systems.</td></tr>
 
-  ANNOTATION
-     La Forge leaves
+<tr id="L57"><td><a href="#L57">57</a></td><td>PICARD:  Counsellor?</td></tr>
 
-  RIKER
-     It's impossible they could be draining all power
-     from all systems.
+<tr id="L58"><td><a href="#L58">58</a></td><td>TROI:  I'm sensing nothing from them Captain. Which could mean they can shield their thoughts and emotions from others.</td></tr>
 
-  PICARD
-     Counsellor?
+<tr id="L59"><td><a href="#L59">59</a></td><td>PICARD:  It still makes it our move.</td></tr>
 
-  TROI
-     I'm sensing nothing from them Captain. Which could
-     mean they can shield their thoughts and emotions
-     from others.
+<tr id="L60"><td><a href="#L60">60</a></td><td>TROI:  Sir, they may know as little about us as we do about them.</td></tr>
 
-  PICARD
-     It still makes it our move.
+<tr id="L61"><td><a href="#L61">61</a></td><td>RIKER:  Except that they know they've got us in deep trouble.</td></tr>
 
-  TROI
-     Sir, they may know as little about us as we do
-     about them.
+<tr id="L62"><td><a href="#L62">62</a></td><td>PICARD:  If so, the question becomes how will they use that knowledge? Data, do you have any information touching this on any file?</td></tr>
 
-  RIKER
-     Except that they know they've got us in deep
-     trouble.
+<tr id="L63"><td><a href="#L63">63</a></td><td>DATA:  None, sir. Only hearsay and third hand reports, most of which conflict.</td></tr>
 
-  PICARD
-     If so, the question becomes how will they use that
-     knowledge? Data, do you have any information
-     touching this on any file?
+<tr id="L64"><td><a href="#L64">64</a></td><td>RIKER:  Which reports do not conflict?</td></tr>
 
-  DATA
-     None, sir. Only hearsay and third hand reports,
-     most of which conflict.
+<tr id="L65"><td><a href="#L65">65</a></td><td>DATA:  That the Ferengi are, well, the best description may be traders.</td></tr>
 
-  RIKER
-     Which reports do not conflict?
+<tr id="L66"><td><a href="#L66">66</a></td><td>PICARD:  What kind of traders?</td></tr>
 
-  DATA
-     That the Ferengi are, well, the best description
-     may be traders.
+<tr id="L67"><td><a href="#L67">67</a></td><td>DATA:  A comparison modern scholars have drawn from Earth history likens the Ferengi to the ocean-going Yankee traders of eighteenth and nineteenth century America, sir.</td></tr>
 
-  PICARD
-     What kind of traders?
+<tr id="L68"><td><a href="#L68">68</a></td><td>RIKER:  From the history of my forebears. Yankee traders.</td></tr>
 
-  DATA
-     A comparison modern scholars have drawn from Earth
-     history likens the Ferengi to the ocean-going
-     Yankee traders of eighteenth and nineteenth
-     century America, sir.
+<tr id="L69"><td><a href="#L69">69</a></td><td>DATA:  Who in this case sail the galaxy in search of mercantile and territorial opportunity.</td></tr>
 
-  RIKER
-     From the history of my forebears. Yankee traders.
+<tr id="L70"><td><a href="#L70">70</a></td><td>RIKER:  And are those scholars saying the Ferengi may not unlike us?</td></tr>
 
-  DATA
-     Who in this case sail the galaxy in search of
-     mercantile and territorial opportunity.
+<tr id="L71"><td><a href="#L71">71</a></td><td>DATA:  Hardly, sir. I believe this analogy refers to the worst quality of capitalists. The Ferengi are believed to conduct their affairs of commerce on the ancient principle caveat emptor. Let the buyer beware.</td></tr>
 
-  RIKER
-     And are those scholars saying the Ferengi may not
-     unlike us?
+<tr id="L72"><td><a href="#L72">72</a></td><td>RIKER:  Yankee traders. I like the sound of that.</td></tr>
 
-  DATA
-     Hardly, sir. I believe this analogy refers to the
-     worst quality of capitalists. The Ferengi are
-     believed to conduct their affairs of commerce on
-     the ancient principle caveat emptor. Let the buyer
-     beware.
+<tr id="L73"><td><a href="#L73">73</a></td><td>DATA:  Well, sir, I doubt they wear red, white and blue, or look anything like Uncle Sam.</td></tr>
 
-  RIKER
-     Yankee traders. I like the sound of that.
+<tr id="L74"><td><a href="#L74">74</a></td><td>PICARD:  Engineering? Join La Forge down below in Engineering, Number One.</td></tr>
 
-  DATA
-     Well, sir, I doubt they wear red, white and blue,
-     or look anything like Uncle Sam.
+<tr id="L75"><td><a href="#L75">75</a></td><td>RIKER:  Aye, sir.</td></tr>
 
-  PICARD
-     Engineering? Join La Forge down below in
-     Engineering, Number One.
+<tr id="L76"><td><a href="#L76">76</a></td><td>PICARD:  Without warp capacity, we're just a floating target.</td></tr>
 
-  RIKER
-     Aye, sir.
+<tr id="L77"><td><a href="#L77">77</a></td><td>WORF:  Uncle who?</td></tr>
 
-  PICARD
-     Without warp capacity, we're just a floating
-     target.
+<tr id="L78"><td><a href="#L78">78</a></td><td>TASHA:  What have bright, primary colours got to do with it?</td></tr>
 
-  WORF
-     Uncle who?
+<tr id="L79"><td><a href="#L79">79</a></td><td>PICARD:  I understand the allusion. Colours representing countries at a time when they competed with each other. Red, white and blue for the United States. Whereas the French more properly used the same colours in the order of blue, white and red.</td></tr>
 
-  TASHA
-     What have bright, primary colours got to do with
-     it?
+<tr id="L80"><td><a href="#L80">80</a></td><td>DATA:  And the German nation red, black and gold. The Italians green, white and red. The British</td></tr>
 
-  PICARD
-     I understand the allusion. Colours representing
-     countries at a time when they competed with each
-     other. Red, white and blue for the United States.
-     Whereas the French more properly used the same
-     colours in the order of blue, white and red.
+<tr id="L81"><td><a href="#L81">81</a></td><td>PICARD:  That's enough, Data.</td></tr>
 
-  DATA
-     And the German nation red, black and gold. The
-     Italians green, white and red. The British
+<tr id="L82"><td><a href="#L82">82</a></td><td>DATA:  It was you who</td></tr>
 
-  PICARD
-     That's enough, Data.
+<tr id="L83"><td><a href="#L83">83</a></td><td>PICARD:  We're discussing the Ferengi. I wish I had some clue as to what they will do next.</td></tr>
 
-  DATA
-     It was you who
+<tr id="L84"><td><a href="#L84">84</a></td><td>DATA:  Given what is now happening to our ship, sir, their weapons could be vastly superior to ours.</td></tr>
 
-  PICARD
-     We're discussing the Ferengi. I wish I had some
-     clue as to what they will do next.
+<tr id="L85"><td><a href="#L85">85</a></td><td>PICARD:  Yes, Data, that is a natural assumption. Engineering?</td></tr>
 
-  DATA
-     Given what is now happening to our ship, sir,
-     their weapons could be vastly superior to ours.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L86"><td><a href="#L86">86</a></td><td>RIKER:  Bottom line, La Forge.</td></tr>
 
-  PICARD
-     Yes, Data, that is a natural assumption.
-     Engineering?
+<tr id="L87"><td><a href="#L87">87</a></td><td>LAFORGE:  It's not good, sir. The Ferengi forcefield that holds this ship compensates almost as fast as we can increase power.</td></tr>
 
+<tr id="L88"><td><a href="#L88">88</a></td><td>RIKER:  Almost?</td></tr>
 
-LOCATION--Engineering
+<tr id="L89"><td><a href="#L89">89</a></td><td>LAFORGE:  Well, there's a point three hundred seventy two millisecond delay between use of our power and the neutralising counter force of the Ferengi. See, we push and they push back in equal force, sir.</td></tr>
 
-  RIKER
-     Bottom line, La Forge.
+<tr id="L90"><td><a href="#L90">90</a></td><td>RIKER:  What's our acceleration delay between slow-reverse impulse and top warp speed?</td></tr>
 
-  LAFORGE
-     It's not good, sir. The Ferengi forcefield that
-     holds this ship compensates almost as fast as we
-     can increase power.
+<tr id="L91"><td><a href="#L91">91</a></td><td>LAFORGE:  That's point three-hundred milliseconds. There's (realisation) Ah, I see where you're going. We shift down and then kick hard into warp nine. Yeah! Come back fighting! whooey!</td></tr>
 
-  RIKER
-     Almost?
+<tr id="L92"><td><a href="#L92">92</a></td><td>RIKER:  Can we do it, Geordi?</td></tr>
 
-  LAFORGE
-     Well, there's a point three hundred seventy two
-     millisecond delay between use of our power and the
-     neutralising counter force of the Ferengi. See, we
-     push and they push back in equal force, sir.
+<tr id="L93"><td><a href="#L93">93</a></td><td>LAFORGE:  Ask me after it's done, sir. (to engineer) I want a slow reverse into drop off over five minutes. We'll show them what this baby can do, sir.</td></tr>
 
-  RIKER
-     What's our acceleration delay between slow-reverse
-     impulse and top warp speed?
+<tr id="L94"><td><a href="#L94">94</a></td><td>RIKER:  Give me everything you've got.</td></tr>
 
-  LAFORGE
-     That's point three-hundred milliseconds. There's
-     (realisation) Ah, I see where you're going. We
-     shift down and then kick hard into warp nine.
-     Yeah! Come back fighting! whooey!
+<tr id="L95"><td><a href="#L95">95</a></td><td>LAFORGE:  Aye, aye, sir.</td></tr>
 
-  RIKER
-     Can we do it, Geordi?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L96"><td><a href="#L96">96</a></td><td>RIKER:  In a sudden, abrupt power surge to high warp speed, Captain, we may be able to break loose from that Ferengi forcefield.</td></tr>
 
-  LAFORGE
-     Ask me after it's done, sir. (to engineer) I want
-     a slow reverse into drop off over five minutes.
-     We'll show them what this baby can do, sir.
+<tr id="L97"><td><a href="#L97">97</a></td><td>PICARD:  I wonder what they're thinking over there.</td></tr>
 
-  RIKER
-     Give me everything you've got.
+<tr id="L98"><td><a href="#L98">98</a></td><td>RIKER:  They're wondering what we're going to do next.</td></tr>
 
-  LAFORGE
-     Aye, aye, sir.
+<tr id="L99"><td><a href="#L99">99</a></td><td>WORF:  I say fight, sir. There's nothing shameful in falling before a superior enemy.</td></tr>
 
+<tr id="L100"><td><a href="#L100">100</a></td><td>ANNOTATION: La Forge enters</td></tr>
 
-LOCATION--Bridge
+<tr id="L101"><td><a href="#L101">101</a></td><td>PICARD:  And nothing shameful in a strategic retreat, either.</td></tr>
 
-  RIKER
-     In a sudden, abrupt power surge to high warp
-     speed, Captain, we may be able to break loose from
-     that Ferengi forcefield.
+<tr id="L102"><td><a href="#L102">102</a></td><td>LAFORGE:  All systems ready, Captain. And communication now restored to Engineering.</td></tr>
 
-  PICARD
-     I wonder what they're thinking over there.
+<tr id="L103"><td><a href="#L103">103</a></td><td>PICARD:  Excellent, La Forge. Now let's, er, let's throw them off guard. Lieutenant Yar. Open hailing frequencies.</td></tr>
 
-  RIKER
-     They're wondering what we're going to do next.
+<tr id="L104"><td><a href="#L104">104</a></td><td>TASHA:  Hailing frequencies open, sir.</td></tr>
 
-  WORF
-     I say fight, sir. There's nothing shameful in
-     falling before a superior enemy.
+<tr id="L105"><td><a href="#L105">105</a></td><td>PICARD:  At least we won't begin with weakness. Attention Ferengi starship! This is Captain Jean-Luc Picard of the USS Enterprise. In the name of the United Federation of Planets, I demand you return the T9 energy converter you removed from Gamma Tauri Four. Send that in all language forms.</td></tr>
 
-  ANNOTATION
-     La Forge enters
+<tr id="L106"><td><a href="#L106">106</a></td><td>TASHA:  All language forms, sir.</td></tr>
 
-  PICARD
-     And nothing shameful in a strategic retreat,
-     either.
+<tr id="L107"><td><a href="#L107">107</a></td><td>PICARD:  Sometimes, Riker, the best way to win a fight is not to be there.</td></tr>
 
-  LAFORGE
-     All systems ready, Captain. And communication now
-     restored to Engineering.
+<tr id="L108"><td><a href="#L108">108</a></td><td>RIKER:  Yes, sir. He will triumph who knows when to fight and when not to fight.</td></tr>
 
-  PICARD
-     Excellent, La Forge. Now let's, er, let's throw
-     them off guard. Lieutenant Yar. Open hailing
-     frequencies.
+<tr id="L109"><td><a href="#L109">109</a></td><td>PICARD:  Glad the Academy's still teaches the strategies of Sun Tzu. This delay had better prove out, LaForge.</td></tr>
 
-  TASHA
-     Hailing frequencies open, sir.
+<tr id="L110"><td><a href="#L110">110</a></td><td>LAFORGE:  Point three hundred milliseconds, sir.</td></tr>
 
-  PICARD
-     At least we won't begin with weakness. Attention
-     Ferengi starship! This is Captain Jean-Luc Picard
-     of the USS Enterprise. In the name of the United
-     Federation of Planets, I demand you return the T9
-     energy converter you removed from Gamma Tauri
-     Four. Send that in all language forms.
+<tr id="L111"><td><a href="#L111">111</a></td><td>PICARD:  Let's blast full power into warp nine. Ready?</td></tr>
 
-  TASHA
-     All language forms, sir.
+<tr id="L112"><td><a href="#L112">112</a></td><td>LAFORGE:  On your command, Captain.</td></tr>
 
-  PICARD
-     Sometimes, Riker, the best way to win a fight is
-     not to be there.
+<tr id="L113"><td><a href="#L113">113</a></td><td>PICARD:  On a count of three. Stand by on phasers. One, set warp to nine. Two, divert shield power to the main engines. Three.</td></tr>
 
-  RIKER
-     Yes, sir. He will triumph who knows when to fight
-     and when not to fight.
+<tr id="L114"><td><a href="#L114">114</a></td><td>ANNOTATION: Everything vibrates, but they don't leave</td></tr>
 
-  PICARD
-     Glad the Academy's still teaches the strategies of
-     Sun Tzu. This delay had better prove out, LaForge.
+<tr id="L115"><td><a href="#L115">115</a></td><td>PICARD:  Merde. Shields up.</td></tr>
 
-  LAFORGE
-     Point three hundred milliseconds, sir.
+<tr id="L116"><td><a href="#L116">116</a></td><td>DATA:  Captain, I think you had better see this.</td></tr>
 
-  PICARD
-     Let's blast full power into warp nine. Ready?
+<tr id="L117"><td><a href="#L117">117</a></td><td>PICARD:  What's wrong?</td></tr>
 
-  LAFORGE
-     On your command, Captain.
+<tr id="L118"><td><a href="#L118">118</a></td><td>DATA:  Someone is reading every file, every bit of information stored in the Enterprise memory banks.</td></tr>
 
-  PICARD
-     On a count of three. Stand by on phasers. One, set
-     warp to nine. Two, divert shield power to the main
-     engines. Three.
+<tr id="L119"><td><a href="#L119">119</a></td><td>LAFORGE:  They can do that?</td></tr>
 
-  ANNOTATION
-     Everything vibrates, but they don't leave
+<tr id="L120"><td><a href="#L120">120</a></td><td>DATA:  And more, perhaps.</td></tr>
 
-  PICARD
-     Merde. Shields up.
+<tr id="L121"><td><a href="#L121">121</a></td><td>TROI:  Captain, if I may recommend? With our attention on the Ferengi vessel, we have ignored the planet.</td></tr>
 
-  DATA
-     Captain, I think you had better see this.
+<tr id="L122"><td><a href="#L122">122</a></td><td>PICARD:  Data, consult the charts on this planet. See what we've got on it. Conference evaluation.</td></tr>
 
-  PICARD
-     What's wrong?
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L123"><td><a href="#L123">123</a></td><td>PICARD:  So, while we still have some power left, it is time for difficult decisions. Opinions please.</td></tr>
 
-  DATA
-     Someone is reading every file, every bit of
-     information stored in the Enterprise memory banks.
+<tr id="L124"><td><a href="#L124">124</a></td><td>TASHA:  I say put all available power into a full-out combined phaser and photon torpedo salvo. Destroy their ability to sustain this forcefield, sir.</td></tr>
 
-  LAFORGE
-     They can do that?
+<tr id="L125"><td><a href="#L125">125</a></td><td>WORF:  Yes! Hit them hard and hit them fast.</td></tr>
 
-  DATA
-     And more, perhaps.
+<tr id="L126"><td><a href="#L126">126</a></td><td>PICARD:  Impractical and provocative. Even assuming that we have the power to sustain such a tactic.</td></tr>
 
-  TROI
-     Captain, if I may recommend? With our attention on
-     the Ferengi vessel, we have ignored the planet.
+<tr id="L127"><td><a href="#L127">127</a></td><td>TASHA:  But Captain, isn't firing on us an act of war?</td></tr>
 
-  PICARD
-     Data, consult the charts on this planet. See what
-     we've got on it. Conference evaluation.
+<tr id="L128"><td><a href="#L128">128</a></td><td>TROI:  The facts are the Ferengis did fire at us, but we were chasing them. Since then, all they've done is searched our computers, trying to learn who and what we are.</td></tr>
 
+<tr id="L129"><td><a href="#L129">129</a></td><td>PICARD:  Your point, Counsellor?</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L130"><td><a href="#L130">130</a></td><td>TROI:  Let's talk to them.</td></tr>
 
-  PICARD
-     So, while we still have some power left, it is
-     time for difficult decisions. Opinions please.
+<tr id="L131"><td><a href="#L131">131</a></td><td>PICARD:  It's been tried. No response.</td></tr>
 
-  TASHA
-     I say put all available power into a full-out
-     combined phaser and photon torpedo salvo. Destroy
-     their ability to sustain this forcefield, sir.
+<tr id="L132"><td><a href="#L132">132</a></td><td>TROI:  But did we tell them anything they wanted to hear?</td></tr>
 
-  WORF
-     Yes! Hit them hard and hit them fast.
+<tr id="L133"><td><a href="#L133">133</a></td><td>PICARD:  La Forge? Other opinions? Thank you for your advice.</td></tr>
 
-  PICARD
-     Impractical and provocative. Even assuming that we
-     have the power to sustain such a tactic.
+<tr id="L134"><td><a href="#L134">134</a></td><td>ANNOTATION: The staff start to leave</td></tr>
 
-  TASHA
-     But Captain, isn't firing on us an act of war?
+<tr id="L135"><td><a href="#L135">135</a></td><td>PICARD:  Will? I haven't had your assessment.</td></tr>
 
-  TROI
-     The facts are the Ferengis did fire at us, but we
-     were chasing them. Since then, all they've done is
-     searched our computers, trying to learn who and
-     what we are.
+<tr id="L136"><td><a href="#L136">136</a></td><td>RIKER:  I believe we've covered every available alternatives, Captain. Are there other options that you want to analyse?</td></tr>
 
-  PICARD
-     Your point, Counsellor?
+<tr id="L137"><td><a href="#L137">137</a></td><td>PICARD:  The only one remaining is the one that needs no conversation. The only one we must avoid.</td></tr>
 
-  TROI
-     Let's talk to them.
+<tr id="L138"><td><a href="#L138">138</a></td><td>RIKER:  Sir?</td></tr>
 
-  PICARD
-     It's been tried. No response.
+<tr id="L139"><td><a href="#L139">139</a></td><td>PICARD:  The one that leads to total annihilation.</td></tr>
 
-  TROI
-     But did we tell them anything they wanted to hear?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L140"><td><a href="#L140">140</a></td><td>PICARD:  Open hailing frequencies.</td></tr>
 
-  PICARD
-     La Forge? Other opinions? Thank you for your
-     advice.
+<tr id="L141"><td><a href="#L141">141</a></td><td>DATA:  Open, sir.</td></tr>
 
-  ANNOTATION
-     The staff start to leave
+<tr id="L142"><td><a href="#L142">142</a></td><td>PICARD:  Attention, Ferengi starship. This is Captain Picard. It is obvious that we are in a situation here which needs resolving, and we are willing to do whatever is required, whatever is necessary. I would like, I would request, that you present your terms to us.</td></tr>
 
-  PICARD
-     Will? I haven't had your assessment.
+<tr id="L143"><td><a href="#L143">143</a></td><td>SOMEONE: Captain's log, stardate 41386.5. It is with a heavy heart that I have offered to meet whatever reasonable and necessary terms are demanded by the Ferengi. I fear for my people and my vessel in the event the unknown Ferengi ask the unreasonable. How can I oppose even unreasonable demands?</td></tr>
 
-  RIKER
-     I believe we've covered every available
-     alternatives, Captain. Are there other options
-     that you want to analyse?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L144"><td><a href="#L144">144</a></td><td>RIKER:  It's moving, sir.</td></tr>
 
-  PICARD
-     The only one remaining is the one that needs no
-     conversation. The only one we must avoid.
+<tr id="L145"><td><a href="#L145">145</a></td><td>WORF:  We ask to surrender and now they fire on us?</td></tr>
 
-  RIKER
-     Sir?
+<tr id="L146"><td><a href="#L146">146</a></td><td>TASHA:  Ready torpedoes, sir? We have enough power for a few of them.</td></tr>
 
-  PICARD
-     The one that leads to total annihilation.
+<tr id="L147"><td><a href="#L147">147</a></td><td>PICARD:  Ready, but hold on ready. Open hailing frequencies.</td></tr>
 
+<tr id="L148"><td><a href="#L148">148</a></td><td>DATA:  Hailing frequencies open, sir.</td></tr>
 
-LOCATION--Bridge
+<tr id="L149"><td><a href="#L149">149</a></td><td>PICARD:  Ferengi vessel, we are awaiting your response.</td></tr>
 
-  PICARD
-     Open hailing frequencies.
+<tr id="L150"><td><a href="#L150">150</a></td><td>TASHA:  Suggest first strike, sir. Our shields now only have sixty three seconds of power left before lowering.</td></tr>
 
-  DATA
-     Open, sir.
+<tr id="L151"><td><a href="#L151">151</a></td><td>WORF:  If the Ferengi ship's sensors can read us, sir, they will be waiting until we are most vulnerable.</td></tr>
 
-  PICARD
-     Attention, Ferengi starship. This is Captain
-     Picard. It is obvious that we are in a situation
-     here which needs resolving, and we are willing to
-     do whatever is required, whatever is necessary. I
-     would like, I would request, that you present your
-     terms to us.
+<tr id="L152"><td><a href="#L152">152</a></td><td>RIKER:  I'm afraid I agree, Captain. They have not responded.</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 41386.5. It is with a
-     heavy heart that I have offered to meet whatever
-     reasonable and necessary terms are demanded by the
-     Ferengi. I fear for my people and my vessel in the
-     event the unknown Ferengi ask the unreasonable.
-     How can I oppose even unreasonable demands?
+<tr id="L153"><td><a href="#L153">153</a></td><td>PICARD:  We'll wait a bit more, Number One.</td></tr>
 
+<tr id="L154"><td><a href="#L154">154</a></td><td>TASHA:  Fifty seconds.</td></tr>
 
-LOCATION--Bridge
+<tr id="L155"><td><a href="#L155">155</a></td><td>PICARD:  Patience. Patience.</td></tr>
 
-  RIKER
-     It's moving, sir.
+<tr id="L156"><td><a href="#L156">156</a></td><td>TARR [OC]:  The quicker we can come to terms, the better, NCC 1701-D.</td></tr>
 
-  WORF
-     We ask to surrender and now they fire on us?
+<tr id="L157"><td><a href="#L157">157</a></td><td>PICARD:  Who is speaking?</td></tr>
 
-  TASHA
-     Ready torpedoes, sir? We have enough power for a
-     few of them.
+<tr id="L158"><td><a href="#L158">158</a></td><td>TARR:  I am Tarr. DaiMon of the Ferengi. You wish to discuss surrender, Captain Picard?</td></tr>
 
-  PICARD
-     Ready, but hold on ready. Open hailing
-     frequencies.
+<tr id="L159"><td><a href="#L159">159</a></td><td>PICARD:  What I said, DaiMon Tarr, is</td></tr>
 
-  DATA
-     Hailing frequencies open, sir.
+<tr id="L160"><td><a href="#L160">160</a></td><td>TARR [OC]:  Unconditional surrender, I warn you, is totally unacceptable! We will die to the last one of us before such dishonour!</td></tr>
 
-  PICARD
-     Ferengi vessel, we are awaiting your response.
+<tr id="L161"><td><a href="#L161">161</a></td><td>TASHA:  Hailing frequencies closed, sir.</td></tr>
 
-  TASHA
-     Suggest first strike, sir. Our shields now only
-     have sixty three seconds of power left before
-     lowering.
+<tr id="L162"><td><a href="#L162">162</a></td><td>PICARD:  Something has seized their ship too. They're in the same predicament as us. (to Geordi) Launch a sensor probe. Set it to search for the source of whatever this something is that is holding both ships. Go back to hailing frequency, fast. And I regret, DaiMon Tarr, that I can no longer negotiate unless it is conducted visually.</td></tr>
 
-  WORF
-     If the Ferengi ship's sensors can read us, sir,
-     they will be waiting until we are most vulnerable.
+<tr id="L163"><td><a href="#L163">163</a></td><td>TARR [OC]:  Your complete message not received, Enterprise, but visual communication is against our custom.</td></tr>
 
-  RIKER
-     I'm afraid I agree, Captain. They have not
-     responded.
+<tr id="L164"><td><a href="#L164">164</a></td><td>PICARD:  And it is against Starfleet orders to accept a surrender otherwise. Do you withdraw your surrender?</td></tr>
 
-  PICARD
-     We'll wait a bit more, Number One.
+<tr id="L165"><td><a href="#L165">165</a></td><td>TARR [OC]:  You give us no choice, Enterprise. May we have a visual on you as well?</td></tr>
 
-  TASHA
-     Fifty seconds.
+<tr id="L166"><td><a href="#L166">166</a></td><td>PICARD:  Agreed, DaiMon Tarr. You should be able to view us now. Are we on your screen?</td></tr>
 
-  PICARD
-     Patience. Patience.
+<tr id="L167"><td><a href="#L167">167</a></td><td>ANNOTATION: The face of a humanoid with enormous ears fills the viewscreen. He even has crooked pointed teeth</td></tr>
 
-  TARR [OC]
-     The quicker we can come to terms, the better, NCC
-     1701-D.
+<tr id="L168"><td><a href="#L168">168</a></td><td>TARR [on viewscreen]:  Yes. The ugliness of the human was not an exaggeration. I do not know how your twisted alien culture has paralysed our vessel, but I concede your Enterprise is superior. We will return your worthless T9 device and we offer the life of our second officers as required by the Ferengi code.</td></tr>
 
-  PICARD
-     Who is speaking?
+<tr id="L169"><td><a href="#L169">169</a></td><td>DATA:  (sotto voce to Geordi) Fortunately, Starfleet has no such rules involving our second officers.</td></tr>
 
-  TARR
-     I am Tarr. DaiMon of the Ferengi. You wish to
-     discuss surrender, Captain Picard?
+<tr id="L170"><td><a href="#L170">170</a></td><td>TARR:  Is this to your satisfaction, Picard Captain?</td></tr>
 
-  PICARD
-     What I said, DaiMon Tarr, is
+<tr id="L171"><td><a href="#L171">171</a></td><td>PICARD:  Your offer may be inadequate, but I will discuss it with my staff. Stand by for further communications.</td></tr>
 
-  TARR [OC]
-     Unconditional surrender, I warn you, is totally
-     unacceptable! We will die to the last one of us
-     before such dishonour!
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L172"><td><a href="#L172">172</a></td><td>ANNOTATION: A couple of kids are playing by the Enterprise tableau</td></tr>
 
-  TASHA
-     Hailing frequencies closed, sir.
+<tr id="L173"><td><a href="#L173">173</a></td><td>RIKER:  Matthew! Pola! You know this area is off limits. Come on, come on. (they scurry out as Picard enters) Boys will be boys, Captain.</td></tr>
 
-  PICARD
-     Something has seized their ship too. They're in
-     the same predicament as us. (to Geordi) Launch a
-     sensor probe. Set it to search for the source of
-     whatever this something is that is holding both
-     ships. Go back to hailing frequency, fast. And I
-     regret, DaiMon Tarr, that I can no longer
-     negotiate unless it is conducted visually.
+<tr id="L174"><td><a href="#L174">174</a></td><td>PICARD:  Lieutenant, have you launched the probe?</td></tr>
 
-  TARR [OC]
-     Your complete message not received, Enterprise,
-     but visual communication is against our custom.
+<tr id="L175"><td><a href="#L175">175</a></td><td>LAFORGE:  Aye, sir. We should getting those readings soon.</td></tr>
 
-  PICARD
-     And it is against Starfleet orders to accept a
-     surrender otherwise. Do you withdraw your
-     surrender?
+<tr id="L176"><td><a href="#L176">176</a></td><td>PICARD:  Well, if we're not holding the Ferengi and they're not holding us, who the hell is?</td></tr>
 
-  TARR [OC]
-     You give us no choice, Enterprise. May we have a
-     visual on you as well?
+<tr id="L177"><td><a href="#L177">177</a></td><td>LAFORGE:  The probe will give us some of those answers, sir.</td></tr>
 
-  PICARD
-     Agreed, DaiMon Tarr. You should be able to view us
-     now. Are we on your screen?
+<tr id="L178"><td><a href="#L178">178</a></td><td>ANNOTATION: Data has found a Chinese finger puzzle that the children have left behind</td></tr>
 
-  ANNOTATION
-     The face of a humanoid with enormous ears fills
-     the viewscreen. He even has crooked pointed teeth
+<tr id="L179"><td><a href="#L179">179</a></td><td>PICARD:  Data, you were going to show us something.</td></tr>
 
-  TARR [on viewscreen]
-     Yes. The ugliness of the human was not an
-     exaggeration. I do not know how your twisted alien
-     culture has paralysed our vessel, but I concede
-     your Enterprise is superior. We will return your
-     worthless T9 device and we offer the life of our
-     second officers as required by the Ferengi code.
+<tr id="L180"><td><a href="#L180">180</a></td><td>DATA:  As requested, Captain, library computer information on this planet. It has been charted only from long range scans. It is Class M, but shows no indications of life forms, sentient or otherwise. However, you may find this of interest. Resolving it into our language.</td></tr>
 
-  DATA
-     (sotto voce to Geordi) Fortunately, Starfleet has
-     no such rules involving our second officers.
+<tr id="L181"><td><a href="#L181">181</a></td><td>ANNOTATION: a holographic display over the table of the Tkon Empire data entry</td></tr>
 
-  TARR
-     Is this to your satisfaction, Picard Captain?
+<tr id="L182"><td><a href="#L182">182</a></td><td>DATA:  The centre of a huge space federation, a population of trillions.</td></tr>
 
-  PICARD
-     Your offer may be inadequate, but I will discuss
-     it with my staff. Stand by for further
-     communications.
+<tr id="L183"><td><a href="#L183">183</a></td><td>PICARD:  Trillions? I've never heard the word Tkon before.</td></tr>
 
+<tr id="L184"><td><a href="#L184">184</a></td><td>DATA:  Understandable. It has been extinct six hundred thousand of our (his forefingers are stuck in the puzzle) of our years. These planets were once outposts of that empire.</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L185"><td><a href="#L185">185</a></td><td>PICARD:  Data, what are you doing?</td></tr>
 
-  ANNOTATION
-     A couple of kids are playing by the Enterprise
-     tableau
+<tr id="L186"><td><a href="#L186">186</a></td><td>DATA:  Apologies, Captain. I seem to have reached an odd functional impasse. I am stuck.</td></tr>
 
-  RIKER
-     Matthew! Pola! You know this area is off limits.
-     Come on, come on. (they scurry out as Picard
-     enters) Boys will be boys, Captain.
+<tr id="L187"><td><a href="#L187">187</a></td><td>PICARD:  Then get unstuck and continue with the briefing.</td></tr>
 
-  PICARD
-     Lieutenant, have you launched the probe?
+<tr id="L188"><td><a href="#L188">188</a></td><td>DATA:  Yes, sir. That is what I am trying to do, sir, but the solution eludes me.</td></tr>
 
-  LAFORGE
-     Aye, sir. We should getting those readings soon.
+<tr id="L189"><td><a href="#L189">189</a></td><td>LAFORGE:  My hero.</td></tr>
 
-  PICARD
-     Well, if we're not holding the Ferengi and they're
-     not holding us, who the hell is?
+<tr id="L190"><td><a href="#L190">190</a></td><td>ANNOTATION: Picard reaches across, pushes his fingers together and removes the puzzle</td></tr>
 
-  LAFORGE
-     The probe will give us some of those answers, sir.
+<tr id="L191"><td><a href="#L191">191</a></td><td>PICARD:  Continue, Commander.</td></tr>
 
-  ANNOTATION
-     Data has found a Chinese finger puzzle that the
-     children have left behind
+<tr id="L192"><td><a href="#L192">192</a></td><td>DATA:  Intriguing. It describes the Empire as being highly advanced and powerful, and capable of actually moving stars.</td></tr>
 
-  PICARD
-     Data, you were going to show us something.
+<tr id="L193"><td><a href="#L193">193</a></td><td>RIKER:  Stars whose planets are their defence system?</td></tr>
 
-  DATA
-     As requested, Captain, library computer
-     information on this planet. It has been charted
-     only from long range scans. It is Class M, but
-     shows no indications of life forms, sentient or
-     otherwise. However, you may find this of interest.
-     Resolving it into our language.
+<tr id="L194"><td><a href="#L194">194</a></td><td>DATA:  Correct, sir. Outposts. The planet below was possibly one of them.</td></tr>
 
-  ANNOTATION
-     a holographic display over the table of the Tkon
-     Empire data entry
+<tr id="L195"><td><a href="#L195">195</a></td><td>TASHA [OC]:  Excuse the interruption, Captain, but this may be worth it. We're now receiving a signal from the probe.</td></tr>
 
-  DATA
-     The centre of a huge space federation, a
-     population of trillions.
+<tr id="L196"><td><a href="#L196">196</a></td><td>PICARD:  We'll take it here.</td></tr>
 
-  PICARD
-     Trillions? I've never heard the word Tkon before.
+<tr id="L197"><td><a href="#L197">197</a></td><td>ANNOTATION: The display changes to the planet with streams of energy heading out to both ships</td></tr>
 
-  DATA
-     Understandable. It has been extinct six hundred
-     thousand of our (his forefingers are stuck in the
-     puzzle) of our years. These planets were once
-     outposts of that empire.
+<tr id="L198"><td><a href="#L198">198</a></td><td>LAFORGE:  Incredible!</td></tr>
 
-  PICARD
-     Data, what are you doing?
+<tr id="L199"><td><a href="#L199">199</a></td><td>RIKER:  There's our mysterious something, Captain. It is a forcefield of some kind.</td></tr>
 
-  DATA
-     Apologies, Captain. I seem to have reached an odd
-     functional impasse. I am stuck.
+<tr id="L200"><td><a href="#L200">200</a></td><td>PICARD:  Reaching up from the planet surface. Amazing power. Data, what does the legend say about the end of the Tkon Empire?</td></tr>
 
-  PICARD
-     Then get unstuck and continue with the briefing.
+<tr id="L201"><td><a href="#L201">201</a></td><td>DATA:  Their sun went supernova, sir.</td></tr>
 
-  DATA
-     Yes, sir. That is what I am trying to do, sir, but
-     the solution eludes me.
+<tr id="L202"><td><a href="#L202">202</a></td><td>PICARD:  Could this planet have escaped that?</td></tr>
 
-  LAFORGE
-     My hero.
+<tr id="L203"><td><a href="#L203">203</a></td><td>DATA:  This planet may have been the most distant outpost, sir, but it shows no life form readings.</td></tr>
 
-  ANNOTATION
-     Picard reaches across, pushes his fingers together
-     and removes the puzzle
+<tr id="L204"><td><a href="#L204">204</a></td><td>PICARD:  We should take a look at it, Number One. Stand by with an away team.</td></tr>
 
-  PICARD
-     Continue, Commander.
+<tr id="L205"><td><a href="#L205">205</a></td><td>RIKER:  And if the Ferengi also realise the forcefield emanates from the planet, sir?</td></tr>
 
-  DATA
-     Intriguing. It describes the Empire as being
-     highly advanced and powerful, and capable of
-     actually moving stars.
+<tr id="L206"><td><a href="#L206">206</a></td><td>PICARD:  That's a complication. Maybe we should ask them to join us in this.</td></tr>
 
-  RIKER
-     Stars whose planets are their defence system?
+<tr id="L207"><td><a href="#L207">207</a></td><td>LAFORGE:  Team up with the Ferengi, sir?</td></tr>
 
-  DATA
-     Correct, sir. Outposts. The planet below was
-     possibly one of them.
+<tr id="L208"><td><a href="#L208">208</a></td><td>PICARD:  We've been ordered to learn all we can about them. Do you know a better way?</td></tr>
 
-  TASHA [OC]
-     Excuse the interruption, Captain, but this may be
-     worth it. We're now receiving a signal from the
-     probe.
+<tr id="L209"><td><a href="#L209">209</a></td><td>LAFORGE:  Data.</td></tr>
 
-  PICARD
-     We'll take it here.
+<tr id="L210"><td><a href="#L210">210</a></td><td>ANNOTATION: Geordi throws the finger puzzle to him</td></tr>
 
-  ANNOTATION
-     The display changes to the planet with streams of
-     energy heading out to both ships
+<tr id="L211"><td><a href="#L211">211</a></td><td>SOMEONE: Captain's log, supplemental. In orbit of a mysterious planet, whose unexplained forcefield has seized us with a power almost beyond imagination. If there is a solution to this, it almost certainly will involve cooperation from the Ferengi.</td></tr>
 
-  LAFORGE
-     Incredible!
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L212"><td><a href="#L212">212</a></td><td>TASHA:  Ship's power drain is critical, Captain. I must now shut down our shields to maintain life support systems.</td></tr>
 
-  RIKER
-     There's our mysterious something, Captain. It is a
-     forcefield of some kind.
+<tr id="L213"><td><a href="#L213">213</a></td><td>PICARD:  Understood. Open hailing frequencies.</td></tr>
 
-  PICARD
-     Reaching up from the planet surface. Amazing
-     power. Data, what does the legend say about the
-     end of the Tkon Empire?
+<tr id="L214"><td><a href="#L214">214</a></td><td>TASHA:  Hailing frequencies open, sir.</td></tr>
 
-  DATA
-     Their sun went supernova, sir.
+<tr id="L215"><td><a href="#L215">215</a></td><td>PICARD:  Ferengi vessel from Enterprise, come in.</td></tr>
 
-  PICARD
-     Could this planet have escaped that?
+<tr id="L216"><td><a href="#L216">216</a></td><td>TARR [on viewscreen]:  Your alien images again shock us.</td></tr>
 
-  DATA
-     This planet may have been the most distant
-     outpost, sir, but it shows no life form readings.
+<tr id="L217"><td><a href="#L217">217</a></td><td>PICARD:  With regard to the surrender, DaiMon Tarr. The facts are somewhat different.</td></tr>
 
-  PICARD
-     We should take a look at it, Number One. Stand by
-     with an away team.
+<tr id="L218"><td><a href="#L218">218</a></td><td>TARR [on viewscreen]:  Our own probe has already shown us your trickery, human. We withdraw our surrender.</td></tr>
 
-  RIKER
-     And if the Ferengi also realise the forcefield
-     emanates from the planet, sir?
+<tr id="L219"><td><a href="#L219">219</a></td><td>PICARD:  Agreed. Perhaps you would agree to a more productive relationship?</td></tr>
 
-  PICARD
-     That's a complication. Maybe we should ask them to
-     join us in this.
+<tr id="L220"><td><a href="#L220">220</a></td><td>TARR [on viewscreen]:  I prefer a more profitable one, human.</td></tr>
 
-  LAFORGE
-     Team up with the Ferengi, sir?
+<tr id="L221"><td><a href="#L221">221</a></td><td>DATA:  Yankee trader.</td></tr>
 
-  PICARD
-     We've been ordered to learn all we can about them.
-     Do you know a better way?
+<tr id="L222"><td><a href="#L222">222</a></td><td>TARR [on viewscreen]:  Explain what means yankee traders?</td></tr>
 
-  LAFORGE
-     Data.
+<tr id="L223"><td><a href="#L223">223</a></td><td>LAFORGE:  He heard that.</td></tr>
 
-  ANNOTATION
-     Geordi throws the finger puzzle to him
+<tr id="L224"><td><a href="#L224">224</a></td><td>PICARD:  He recognises your interest in profit. Or is that an incorrect assumption?</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. In orbit of a
-     mysterious planet, whose unexplained forcefield
-     has seized us with a power almost beyond
-     imagination. If there is a solution to this, it
-     almost certainly will involve cooperation from the
-     Ferengi.
+<tr id="L225"><td><a href="#L225">225</a></td><td>TARR [on viewscreen]:  We seek only what is equitable. What do you seek? Why did you begin by attacking us?</td></tr>
 
+<tr id="L226"><td><a href="#L226">226</a></td><td>PICARD:  We did not attack you. We gave chase in order to recover a Federation-owned energy device which</td></tr>
 
-LOCATION--Bridge
+<tr id="L227"><td><a href="#L227">227</a></td><td>TARR [on viewscreen]:  Which we know is ours. Your barbarous Federation placed it on one of our planets!</td></tr>
 
-  TASHA
-     Ship's power drain is critical, Captain. I must
-     now shut down our shields to maintain life support
-     systems.
+<tr id="L228"><td><a href="#L228">228</a></td><td>PICARD:  On the contrary, Gamma Tauri Four is recognised by all civilised members of</td></tr>
 
-  PICARD
-     Understood. Open hailing frequencies.
+<tr id="L229"><td><a href="#L229">229</a></td><td>TARR [on viewscreen]:  The Ferengi are not uncivilised, human! Are you suggesting otherwise?</td></tr>
 
-  TASHA
-     Hailing frequencies open, sir.
+<tr id="L230"><td><a href="#L230">230</a></td><td>PICARD:  All I'm saying is that you removed something which clearly did not belong to you.</td></tr>
 
-  PICARD
-     Ferengi vessel from Enterprise, come in.
+<tr id="L231"><td><a href="#L231">231</a></td><td>TARR [on viewscreen]:  Are you now calling us thieves?!</td></tr>
 
-  TARR [on viewscreen]
-     Your alien images again shock us.
+<tr id="L232"><td><a href="#L232">232</a></td><td>PICARD:  On the contrary, I have no wish to discuss issues of property or of territory, when our mutual problem remains. Like it or not, we are both trapped by this energy draining forcefield from the planet.</td></tr>
 
-  PICARD
-     With regard to the surrender, DaiMon Tarr. The
-     facts are somewhat different.
+<tr id="L233"><td><a href="#L233">233</a></td><td>TARR [on viewscreen]:  On that matter there can be no argument.</td></tr>
 
-  TARR [on viewscreen]
-     Our own probe has already shown us your trickery,
-     human. We withdraw our surrender.
+<tr id="L234"><td><a href="#L234">234</a></td><td>PICARD:  I would like to propose a swap.</td></tr>
 
-  PICARD
-     Agreed. Perhaps you would agree to a more
-     productive relationship?
+<tr id="L235"><td><a href="#L235">235</a></td><td>TARR [on viewscreen]:  And what is a swap?</td></tr>
 
-  TARR [on viewscreen]
-     I prefer a more profitable one, human.
+<tr id="L236"><td><a href="#L236">236</a></td><td>PICARD:  It's a trade, an exchange.</td></tr>
 
-  DATA
-     Yankee trader.
+<tr id="L237"><td><a href="#L237">237</a></td><td>TARR [on viewscreen]:  Yes, trade, human. What do you offer?</td></tr>
 
-  TARR [on viewscreen]
-     Explain what means yankee traders?
+<tr id="L238"><td><a href="#L238">238</a></td><td>PICARD:  We will tell you what we know about the planet, and in trade, you will give us your information.</td></tr>
 
-  LAFORGE
-     He heard that.
+<tr id="L239"><td><a href="#L239">239</a></td><td>TARR [on viewscreen]:  Ridiculous. How will we know you will not withhold information?</td></tr>
 
-  PICARD
-     He recognises your interest in profit. Or is that
-     an incorrect assumption?
+<tr id="L240"><td><a href="#L240">240</a></td><td>PICARD:  We must trust each other, Tarr.</td></tr>
 
-  TARR [on viewscreen]
-     We seek only what is equitable. What do you seek?
-     Why did you begin by attacking us?
+<tr id="L241"><td><a href="#L241">241</a></td><td>TARR [on viewscreen]:  Amusing, human. Trust each other?</td></tr>
 
-  PICARD
-     We did not attack you. We gave chase in order to
-     recover a Federation-owned energy device which
+<tr id="L242"><td><a href="#L242">242</a></td><td>PICARD:  I propose that we test this relationship by cooperating in a joint exploration of the planet surface.</td></tr>
 
-  TARR [on viewscreen]
-     Which we know is ours. Your barbarous Federation
-     placed it on one of our planets!
+<tr id="L243"><td><a href="#L243">243</a></td><td>TARR [on viewscreen]:  And what profit is in this, Picard Captain?</td></tr>
 
-  PICARD
-     On the contrary, Gamma Tauri Four is recognised by
-     all civilised members of
+<tr id="L244"><td><a href="#L244">244</a></td><td>PICARD:  The profit, DaiMon Tarr, of saving all our lives.</td></tr>
 
-  TARR [on viewscreen]
-     The Ferengi are not uncivilised, human! Are you
-     suggesting otherwise?
+<tr id="L245"><td><a href="#L245">245</a></td><td>TARR [on viewscreen]:  We will agree, no doubt foolishly. But you are warned that any further trickery on your part will be met with no mercy.</td></tr>
 
-  PICARD
-     All I'm saying is that you removed something which
-     clearly did not belong to you.
+<tr id="L246"><td><a href="#L246">246</a></td><td>PICARD:  Agreed. If you care to join us, we have a well-proven transporter device</td></tr>
 
-  TARR [on viewscreen]
-     Are you now calling us thieves?!
+<tr id="L247"><td><a href="#L247">247</a></td><td>TARR [on viewscreen]:  We have a matter-energy device of our own. We will beam a science team of three to whatever co-ordinates you propose.</td></tr>
 
-  PICARD
-     On the contrary, I have no wish to discuss issues
-     of property or of territory, when our mutual
-     problem remains. Like it or not, we are both
-     trapped by this energy draining forcefield from
-     the planet.
+<tr id="L248"><td><a href="#L248">248</a></td><td>PICARD:  Excellent. We will transmit the information shortly. Enterprise out.</td></tr>
 
-  TARR [on viewscreen]
-     On that matter there can be no argument.
+<tr id="L249"><td><a href="#L249">249</a></td><td>TASHA:  Hailing frequencies off.</td></tr>
 
-  PICARD
-     I would like to propose a swap.
+<tr id="L250"><td><a href="#L250">250</a></td><td>PICARD:  I would log that agreement as promising, at least.</td></tr>
 
-  TARR [on viewscreen]
-     And what is a swap?
+<tr id="L251"><td><a href="#L251">251</a></td><td>RIKER:  I wonder, Captain. I'm not usually one for distrust at first sight, but this may be an exception.</td></tr>
 
-  PICARD
-     It's a trade, an exchange.
+<tr id="L252"><td><a href="#L252">252</a></td><td>DATA:  Especially in view of the fact the image he transmitted, sir, was somehow distorted.</td></tr>
 
-  TARR [on viewscreen]
-     Yes, trade, human. What do you offer?
+<tr id="L253"><td><a href="#L253">253</a></td><td>TROI:  I sensed the same thing, Captain. He's hiding something.</td></tr>
 
-  PICARD
-     We will tell you what we know about the planet,
-     and in trade, you will give us your information.
+<tr id="L254"><td><a href="#L254">254</a></td><td>RIKER:  With this power drain we can't delay. Now, I'd like some additional help in case we run into trouble. Can you spare Worf?</td></tr>
 
-  TARR [on viewscreen]
-     Ridiculous. How will we know you will not withhold
-     information?
+<tr id="L255"><td><a href="#L255">255</a></td><td>PICARD:  Take him. And be careful, Number One.</td></tr>
 
-  PICARD
-     We must trust each other, Tarr.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L256"><td><a href="#L256">256</a></td><td>DATA:  With this power drain, we may have trouble communicating with the Enterprise, sir.</td></tr>
 
-  TARR [on viewscreen]
-     Amusing, human. Trust each other?
+<tr id="L257"><td><a href="#L257">257</a></td><td>RIKER:  Understood. Anything else?</td></tr>
 
-  PICARD
-     I propose that we test this relationship by
-     cooperating in a joint exploration of the planet
-     surface.
+<tr id="L258"><td><a href="#L258">258</a></td><td>DATA:  Due to this forcefield, there is presently no way to beam us back, sir.</td></tr>
 
-  TARR [on viewscreen]
-     And what profit is in this, Picard Captain?
+<tr id="L259"><td><a href="#L259">259</a></td><td>LAFORGE:  You had to ask.</td></tr>
 
-  PICARD
-     The profit, DaiMon Tarr, of saving all our lives.
+<tr id="L260"><td><a href="#L260">260</a></td><td>RIKER:  Understood. Energise.</td></tr>
 
-  TARR [on viewscreen]
-     We will agree, no doubt foolishly. But you are
-     warned that any further trickery on your part will
-     be met with no mercy.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L261"><td><a href="#L261">261</a></td><td>ANNOTATION: It's a barren place with interesting crystalline structures here and there, and lightning flashes almost continuously. Riker appears alone</td></tr>
 
-  PICARD
-     Agreed. If you care to join us, we have a
-     well-proven transporter device
+<tr id="L262"><td><a href="#L262">262</a></td><td>RIKER:  Tasha? Data? Geordi? Worf? Anybody?!</td></tr>
 
-  TARR [on viewscreen]
-     We have a matter-energy device of our own. We will
-     beam a science team of three to whatever
-     co-ordinates you propose.
+<tr id="L263"><td><a href="#L263">263</a></td><td>ANNOTATION: He goes searching for the others</td></tr>
 
-  PICARD
-     Excellent. We will transmit the information
-     shortly. Enterprise out.
+<tr id="L264"><td><a href="#L264">264</a></td><td>RIKER:  Data?</td></tr>
 
-  TASHA
-     Hailing frequencies off.
+<tr id="L265"><td><a href="#L265">265</a></td><td>ANNOTATION: He finds him standing on one of the crystalline outcrops</td></tr>
 
-  PICARD
-     I would log that agreement as promising, at least.
+<tr id="L266"><td><a href="#L266">266</a></td><td>RIKER:  What are you doing up there?</td></tr>
 
-  RIKER
-     I wonder, Captain. I'm not usually one for
-     distrust at first sight, but this may be an
-     exception.
+<tr id="L267"><td><a href="#L267">267</a></td><td>DATA:  Most intriguing, sir. I assume a problem of inaccurately transmitted programme coordinates due to the force field around the ship, sir. Are we alone, sir?</td></tr>
 
-  DATA
-     Especially in view of the fact the image he
-     transmitted, sir, was somehow distorted.
+<tr id="L268"><td><a href="#L268">268</a></td><td>RIKER:  Unfortunately. Let's find the others. What do you make of these?</td></tr>
 
-  TROI
-     I sensed the same thing, Captain. He's hiding
-     something.
+<tr id="L269"><td><a href="#L269">269</a></td><td>DATA:  Crystalline. Mostly inert. Nothing to write home about.</td></tr>
 
-  RIKER
-     With this power drain we can't delay. Now, I'd
-     like some additional help in case we run into
-     trouble. Can you spare Worf?
+<tr id="L270"><td><a href="#L270">270</a></td><td>RIKER:  Excuse me?</td></tr>
 
-  PICARD
-     Take him. And be careful, Number One.
+<tr id="L271"><td><a href="#L271">271</a></td><td>DATA:  Slang, sir. I did use it correctly, did I not?</td></tr>
 
+<tr id="L272"><td><a href="#L272">272</a></td><td>RIKER:  They've got to be around here somewhere.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L273"><td><a href="#L273">273</a></td><td>ANNOTATION: They carry on searching</td></tr>
 
-  DATA
-     With this power drain, we may have trouble
-     communicating with the Enterprise, sir.
+<tr id="L274"><td><a href="#L274">274</a></td><td>RIKER:  What's that?</td></tr>
 
-  RIKER
-     Understood. Anything else?
+<tr id="L275"><td><a href="#L275">275</a></td><td>DATA:  What?</td></tr>
 
-  DATA
-     Due to this forcefield, there is presently no way
-     to beam us back, sir.
+<tr id="L276"><td><a href="#L276">276</a></td><td>RIKER:  That! Geordi!</td></tr>
 
-  LAFORGE
-     You had to ask.
+<tr id="L277"><td><a href="#L277">277</a></td><td>ANNOTATION: Geordi is hanging upside down from the only tree in the area</td></tr>
 
-  RIKER
-     Understood. Energise.
+<tr id="L278"><td><a href="#L278">278</a></td><td>RIKER:  Are you conscious?</td></tr>
 
+<tr id="L279"><td><a href="#L279">279</a></td><td>LAFORGE:  Do I look conscious?</td></tr>
 
-LOCATION--Planet surface
+<tr id="L280"><td><a href="#L280">280</a></td><td>RIKER:  What are you doing?</td></tr>
 
-  ANNOTATION
-     It's a barren place with interesting crystalline
-     structures here and there, and lightning flashes
-     almost continuously. Riker appears alone
+<tr id="L281"><td><a href="#L281">281</a></td><td>LAFORGE:  I'm resting, sir. My foot's stuck. Up there. I materialized upside down above the planet surface.</td></tr>
 
-  RIKER
-     Tasha? Data? Geordi? Worf? Anybody?!
+<tr id="L282"><td><a href="#L282">282</a></td><td>DATA:  Tricorder's useless, sir. Communication's gone too. Fortunately you did not break any</td></tr>
 
-  ANNOTATION
-     He goes searching for the others
+<tr id="L283"><td><a href="#L283">283</a></td><td>LAFORGE:  Data, who's that?</td></tr>
 
-  RIKER
-     Data?
+<tr id="L284"><td><a href="#L284">284</a></td><td>ANNOTATION: The Ferengis are watching them. Little crouching men with whips in their hands</td></tr>
 
-  ANNOTATION
-     He finds him standing on one of the crystalline
-     outcrops
+<tr id="L285"><td><a href="#L285">285</a></td><td>RIKER:  Who are you?</td></tr>
 
-  RIKER
-     What are you doing up there?
+<tr id="L286"><td><a href="#L286">286</a></td><td>ANNOTATION: The Ferengi let fly energy bolts from their whips, knocking the three men out. Actually, it takes two jolts to knock out Riker</td></tr>
 
-  DATA
-     Most intriguing, sir. I assume a problem of
-     inaccurately transmitted programme coordinates due
-     to the force field around the ship, sir. Are we
-     alone, sir?
+<tr id="L287"><td><a href="#L287">287</a></td><td>SOMEONE: Captain's log, supplemental. It is now six hours since our away team beamed down to the planet surface. On the Enterprise, our condition is rapidly worsening. Ordinarily, with reserve power alone, we could maintain life support for several months. But the force holding has closed down all engines and is draining our reserve power too.</td></tr>
 
-  RIKER
-     Unfortunately. Let's find the others. What do you
-     make of these?
+<tr><td></td><td>LOCATION--Recreation lounge</td></tr>
+<tr id="L288"><td><a href="#L288">288</a></td><td>ANNOTATION: Blankets are being handed out</td></tr>
 
-  DATA
-     Crystalline. Mostly inert. Nothing to write home
-     about.
+<tr id="L289"><td><a href="#L289">289</a></td><td>TROI:  It's getting much, much colder, sir. How far down is it likely to go?</td></tr>
 
-  RIKER
-     Excuse me?
+<tr id="L290"><td><a href="#L290">290</a></td><td>PICARD:  A lot. Even in orbital space it'll get below minus two hundred degrees.</td></tr>
 
-  DATA
-     Slang, sir. I did use it correctly, did I not?
+<tr id="L291"><td><a href="#L291">291</a></td><td>CRUSHER:  We won't have to worry much past minus seventy or so.</td></tr>
 
-  RIKER
-     They've got to be around here somewhere.
+<tr id="L292"><td><a href="#L292">292</a></td><td>PICARD:  Feels like that right now. Good. Thank you.</td></tr>
 
-  ANNOTATION
-     They carry on searching
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L293"><td><a href="#L293">293</a></td><td>ANNOTATION: Inquisitive fingers remove Geordi's comm. badge. Worf is dragged in to join his colleagues</td></tr>
 
-  RIKER
-     What's that?
+<tr id="L294"><td><a href="#L294">294</a></td><td>LETEK:  If he moves, kill him.</td></tr>
 
-  DATA
-     What?
+<tr id="L295"><td><a href="#L295">295</a></td><td>MORDOC:  Letek, has what we've done broken our agreement with their captain?</td></tr>
 
-  RIKER
-     That! Geordi!
+<tr id="L296"><td><a href="#L296">296</a></td><td>LETEK:  We will accuse the humans of preparing to ambush us. It will be our word against theirs and who is more trustworthy, Mordoc? (the comm. badge) It looks like gold. Tastes like gold.</td></tr>
 
-  ANNOTATION
-     Geordi is hanging upside down from the only tree
-     in the area
+<tr id="L297"><td><a href="#L297">297</a></td><td>RIKER:  It is gold.</td></tr>
 
-  RIKER
-     Are you conscious?
+<tr id="L298"><td><a href="#L298">298</a></td><td>ANNOTATION: Renewed thunder and lightning makes the Ferengi try to cover their ears</td></tr>
 
-  LAFORGE
-     Do I look conscious?
+<tr id="L299"><td><a href="#L299">299</a></td><td>LETEK:  Accursed planet!</td></tr>
 
-  RIKER
-     What are you doing?
+<tr id="L300"><td><a href="#L300">300</a></td><td>RIKER:  It's nothing compared to what our Captain will do when he finds out you've broken our landing party agreement.</td></tr>
 
-  LAFORGE
-     I'm resting, sir. My foot's stuck. Up there. I
-     materialized upside down above the planet surface.
+<tr id="L301"><td><a href="#L301">301</a></td><td>LETEK:  What part of the agreement? You appeared and attacked us. Are you one of their assassins?</td></tr>
 
-  DATA
-     Tricorder's useless, sir. Communication's gone
-     too. Fortunately you did not break any
+<tr id="L302"><td><a href="#L302">302</a></td><td>RIKER:  I'm Commander William Riker, First Officer of the USS Enterprise. You have a lot to learn.</td></tr>
 
-  LAFORGE
-     Data, who's that?
+<tr id="L303"><td><a href="#L303">303</a></td><td>ANNOTATION: Work pounces on two of the Ferengi, Data and Riker join in the melee. The little aliens fight dirty</td></tr>
 
-  ANNOTATION
-     The Ferengis are watching them. Little crouching
-     men with whips in their hands
+<tr id="L304"><td><a href="#L304">304</a></td><td>RIKER:  I've got this one!</td></tr>
 
-  RIKER
-     Who are you?
+<tr id="L305"><td><a href="#L305">305</a></td><td>DATA:  (holding one aloft) Careful, Commander, they're much stronger than</td></tr>
 
-  ANNOTATION
-     The Ferengi let fly energy bolts from their whips,
-     knocking the three men out. Actually, it takes two
-     jolts to knock out Riker
+<tr id="L306"><td><a href="#L306">306</a></td><td>ANNOTATION: Riker gets thumped, hard</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. It is now six hours
-     since our away team beamed down to the planet
-     surface. On the Enterprise, our condition is
-     rapidly worsening. Ordinarily, with reserve power
-     alone, we could maintain life support for several
-     months. But the force holding has closed down all
-     engines and is draining our reserve power too.
+<tr id="L307"><td><a href="#L307">307</a></td><td>WORF:  Pygmy cretins!</td></tr>
 
+<tr id="L308"><td><a href="#L308">308</a></td><td>LETEK:  Kill them.</td></tr>
 
-LOCATION--Recreation lounge
+<tr id="L309"><td><a href="#L309">309</a></td><td>MORDOC:  Hideous monsters!</td></tr>
 
-  ANNOTATION
-     Blankets are being handed out
+<tr id="L310"><td><a href="#L310">310</a></td><td>TASHA:  No! (they stop) Good, you've heard of phasers. Now, over there.</td></tr>
 
-  TROI
-     It's getting much, much colder, sir. How far down
-     is it likely to go?
+<tr id="L311"><td><a href="#L311">311</a></td><td>MORDOC:  Is this a female?</td></tr>
 
-  PICARD
-     A lot. Even in orbital space it'll get below minus
-     two hundred degrees.
+<tr id="L312"><td><a href="#L312">312</a></td><td>KAYRON:  A human female, Letek?</td></tr>
 
-  CRUSHER
-     We won't have to worry much past minus seventy or
-     so.
+<tr id="L313"><td><a href="#L313">313</a></td><td>LETEK:  Yes, it is true. You work with females, arm them, and force them to wear clothing.</td></tr>
 
-  PICARD
-     Feels like that right now. Good. Thank you.
+<tr id="L314"><td><a href="#L314">314</a></td><td>MORDOC:  Sickening.</td></tr>
 
+<tr><td></td><td>LOCATION--Recreation lounge</td></tr>
+<tr id="L315"><td><a href="#L315">315</a></td><td>PICARD:  I've diverted the reserve power to the family decks. They'll last longest. Is there anything else we can do, Doctor? Where's Wesley?</td></tr>
 
-LOCATION--Planet surface
+<tr id="L316"><td><a href="#L316">316</a></td><td>CRUSHER:  He's in our quarters. I was tempted to give him a sedative.</td></tr>
 
-  ANNOTATION
-     Inquisitive fingers remove Geordi's comm. badge.
-     Worf is dragged in to join his colleagues
+<tr id="L317"><td><a href="#L317">317</a></td><td>PICARD:  You shouldn't.</td></tr>
 
-  LETEK
-     If he moves, kill him.
+<tr id="L318"><td><a href="#L318">318</a></td><td>CRUSHER:  I know, but he's my son. I love him.</td></tr>
 
-  MORDOC
-     Letek, has what we've done broken our agreement
-     with their captain?
+<tr id="L319"><td><a href="#L319">319</a></td><td>PICARD:  He has the right to meet death awake.</td></tr>
 
-  LETEK
-     We will accuse the humans of preparing to ambush
-     us. It will be our word against theirs and who is
-     more trustworthy, Mordoc? (the comm. badge) It
-     looks like gold. Tastes like gold.
+<tr id="L320"><td><a href="#L320">320</a></td><td>CRUSHER:  Is that a male perspective?</td></tr>
 
-  RIKER
-     It is gold.
+<tr id="L321"><td><a href="#L321">321</a></td><td>PICARD:  Rubbish</td></tr>
 
-  ANNOTATION
-     Renewed thunder and lightning makes the Ferengi
-     try to cover their ears
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L322"><td><a href="#L322">322</a></td><td>ANNOTATION: The Ferengi are dodging about like a live 'find the lady' game</td></tr>
 
-  LETEK
-     Accursed planet!
+<tr id="L323"><td><a href="#L323">323</a></td><td>TASHA:  Hold it right there! Stop. Stop!</td></tr>
 
-  RIKER
-     It's nothing compared to what our Captain will do
-     when he finds out you've broken our landing party
-     agreement.
+<tr id="L324"><td><a href="#L324">324</a></td><td>RIKER:  Phasers on stun.</td></tr>
 
-  LETEK
-     What part of the agreement? You appeared and
-     attacked us. Are you one of their assassins?
+<tr id="L325"><td><a href="#L325">325</a></td><td>TASHA:  Already set.</td></tr>
 
-  RIKER
-     I'm Commander William Riker, First Officer of the
-     USS Enterprise. You have a lot to learn.
+<tr id="L326"><td><a href="#L326">326</a></td><td>ANNOTATION: She fires, but the beam is deflected into a crystalline structure</td></tr>
 
-  ANNOTATION
-     Work pounces on two of the Ferengi, Data and Riker
-     join in the melee. The little aliens fight dirty
+<tr id="L327"><td><a href="#L327">327</a></td><td>TASHA:  What's going on?</td></tr>
 
-  RIKER
-     I've got this one!
+<tr id="L328"><td><a href="#L328">328</a></td><td>ANNOTATION: Letek fires his whip, and that whirls around before being sucked into the crystals. His whip does not coil again</td></tr>
 
-  DATA
-     (holding one aloft) Careful, Commander, they're
-     much stronger than
+<tr id="L329"><td><a href="#L329">329</a></td><td>LETEK:  What is this?</td></tr>
 
-  ANNOTATION
-     Riker gets thumped, hard
+<tr id="L330"><td><a href="#L330">330</a></td><td>DATA:  I believe we can deduce that these crystalline tree shapes are actually energy collectors.</td></tr>
 
-  WORF
-     Pygmy cretins!
+<tr id="L331"><td><a href="#L331">331</a></td><td>RIKER:  Along the same principle as that which is draining energy from our ships.</td></tr>
 
-  LETEK
-     Kill them.
+<tr id="L332"><td><a href="#L332">332</a></td><td>LAFORGE:  But the Ferengi weapons were working when we first arrived.</td></tr>
 
-  MORDOC
-     Hideous monsters!
+<tr id="L333"><td><a href="#L333">333</a></td><td>TASHA:  Which means something new has happened.</td></tr>
 
-  TASHA
-     No! (they stop) Good, you've heard of phasers.
-     Now, over there.
+<tr id="L334"><td><a href="#L334">334</a></td><td>LAFORGE:  I'm finally beginning to understand what my eyes have been showing me. It's patterns of force everywhere. This entire planet has been turned into a power accumulator.</td></tr>
 
-  MORDOC
-     Is this a female?
+<tr id="L335"><td><a href="#L335">335</a></td><td>RIKER:  And these?</td></tr>
 
-  KAYRON
-     A human female, Letek?
+<tr id="L336"><td><a href="#L336">336</a></td><td>LAFORGE:  It's the whole point of this place. I can see the planet's power emanating from. Commander.</td></tr>
 
-  LETEK
-     Yes, it is true. You work with females, arm them,
-     and force them to wear clothing.
+<tr id="L337"><td><a href="#L337">337</a></td><td>ANNOTATION: There's an impressive display of controlled energy, which resolves to a vague face</td></tr>
 
-  MORDOC
-     Sickening.
+<tr id="L338"><td><a href="#L338">338</a></td><td>PORTAL:  Be you barbarians? Speak!</td></tr>
 
+<tr id="L339"><td><a href="#L339">339</a></td><td>ANNOTATION: The Ferengi clutch their heads in pain</td></tr>
 
-LOCATION--Recreation lounge
+<tr id="L340"><td><a href="#L340">340</a></td><td>PORTAL:  Who meets the challenge? Who will it be?</td></tr>
 
-  PICARD
-     I've diverted the reserve power to the family
-     decks. They'll last longest. Is there anything
-     else we can do, Doctor? Where's Wesley?
+<tr id="L341"><td><a href="#L341">341</a></td><td>LETEK:  (points at Riker) Him.</td></tr>
 
-  CRUSHER
-     He's in our quarters. I was tempted to give him a
-     sedative.
+<tr id="L342"><td><a href="#L342">342</a></td><td>PORTAL:  You have awakened Portal six three. Do you petition to enter the Empire?</td></tr>
 
-  PICARD
-     You shouldn't.
+<tr id="L343"><td><a href="#L343">343</a></td><td>RIKER:  Who asks the question?</td></tr>
 
-  CRUSHER
-     I know, but he's my son. I love him.
+<tr id="L344"><td><a href="#L344">344</a></td><td>PORTAL:  A guardian of the Tkon Empire.</td></tr>
 
-  PICARD
-     He has the right to meet death awake.
+<tr id="L345"><td><a href="#L345">345</a></td><td>ANNOTATION: The energy turns into a humanoid figure in a long hooded cloak, leaning on a staff</td></tr>
 
-  CRUSHER
-     Is that a male perspective?
+<tr id="L346"><td><a href="#L346">346</a></td><td>PORTAL:  Biped. Excellent.</td></tr>
 
-  PICARD
-     Rubbish
+<tr id="L347"><td><a href="#L347">347</a></td><td>RIKER:  Why should we petition to entry to an empire that no longer exists?</td></tr>
 
+<tr id="L348"><td><a href="#L348">348</a></td><td>PORTAL:  Why do you attempt deception? The Empire is forever.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L349"><td><a href="#L349">349</a></td><td>RIKER:  Your empire fell prey to a supernova.</td></tr>
 
-  ANNOTATION
-     The Ferengi are dodging about like a live 'find
-     the lady' game
+<tr id="L350"><td><a href="#L350">350</a></td><td>PORTAL:  We are forever.</td></tr>
 
-  TASHA
-     Hold it right there! Stop. Stop!
+<tr id="L351"><td><a href="#L351">351</a></td><td>RIKER:  Data, Please repeat the file.</td></tr>
 
-  RIKER
-     Phasers on stun.
+<tr id="L352"><td><a href="#L352">352</a></td><td>DATA:  It is a matter of record, Portal. In the Age of Makto, the central star of the Tkon Empire destabilised and</td></tr>
 
-  TASHA
-     Already set.
+<tr id="L353"><td><a href="#L353">353</a></td><td>PORTAL:  There has never been an Age of Makto.</td></tr>
 
-  ANNOTATION
-     She fires, but the beam is deflected into a
-     crystalline structure
+<tr id="L354"><td><a href="#L354">354</a></td><td>DATA:  In fact, there have been many ages which have come and passed since Makto.</td></tr>
 
-  TASHA
-     What's going on?
+<tr id="L355"><td><a href="#L355">355</a></td><td>PORTAL:  This is the Age of Bastu!</td></tr>
 
-  ANNOTATION
-     Letek fires his whip, and that whirls around
-     before being sucked into the crystals. His whip
-     does not coil again
+<tr id="L356"><td><a href="#L356">356</a></td><td>DATA:  I'm afraid not. According to the Tkon use of galactic motionary startime charts, after Bastu came Cimi, Xora, Makto</td></tr>
 
-  LETEK
-     What is this?
+<tr id="L357"><td><a href="#L357">357</a></td><td>PORTAL:  Enough! Absurdities!</td></tr>
 
-  DATA
-     I believe we can deduce that these crystalline
-     tree shapes are actually energy collectors.
+<tr id="L358"><td><a href="#L358">358</a></td><td>RIKER:  You must have been asleep, Portal, for hundreds of thousands of our years.</td></tr>
 
-  RIKER
-     Along the same principle as that which is draining
-     energy from our ships.
+<tr id="L359"><td><a href="#L359">359</a></td><td>LETEK:  Deception is the way of the human. We Ferengi will gladly make a petition.</td></tr>
 
-  LAFORGE
-     But the Ferengi weapons were working when we first
-     arrived.
+<tr id="L360"><td><a href="#L360">360</a></td><td>RIKER:  We invite your petition.</td></tr>
 
-  TASHA
-     Which means something new has happened.
+<tr id="L361"><td><a href="#L361">361</a></td><td>PORTAL:  Speak.</td></tr>
 
-  LAFORGE
-     I'm finally beginning to understand what my eyes
-     have been showing me. It's patterns of force
-     everywhere. This entire planet has been turned
-     into a power accumulator.
+<tr id="L362"><td><a href="#L362">362</a></td><td>LETEK:  We wish to offer our services to serve the Tkon Empire at no profit. Return control of our starship to us and we will happily destroy the human criminals and their vessel which attacked us without provocation. They came to loot your empire, but we intercepted them.</td></tr>
 
-  RIKER
-     And these?
+<tr id="L363"><td><a href="#L363">363</a></td><td>PORTAL:  You are accused of deceit and treachery. Do you give yourself up for judgement?</td></tr>
 
-  LAFORGE
-     It's the whole point of this place. I can see the
-     planet's power emanating from. Commander.
+<tr id="L364"><td><a href="#L364">364</a></td><td>RIKER:  Yes. If you believe those accusations, then you certainly should act on them.</td></tr>
 
-  ANNOTATION
-     There's an impressive display of controlled
-     energy, which resolves to a vague face
+<tr id="L365"><td><a href="#L365">365</a></td><td>LETEK:  And there is even more. We can prove that the humans are destroyers of legal commerce, and that they selfishly withhold vital technology from backward worlds.</td></tr>
 
-  PORTAL
-     Be you barbarians? Speak!
+<tr id="L366"><td><a href="#L366">366</a></td><td>MORDOC:  And necessary defensive weapons, too. We Ferengi now challenge this human madness.</td></tr>
 
-  ANNOTATION
-     The Ferengi clutch their heads in pain
+<tr id="L367"><td><a href="#L367">367</a></td><td>RIKER:  I admit we withheld modern technology from some worlds.</td></tr>
 
-  PORTAL
-     Who meets the challenge? Who will it be?
+<tr id="L368"><td><a href="#L368">368</a></td><td>KAYRON:  You see? They are demented. Their values are insane. You cannot believe the business opportunities they have destroyed.</td></tr>
 
-  LETEK
-     (points at Riker) Him.
+<tr id="L369"><td><a href="#L369">369</a></td><td>LETEK:  Proof of their barbarism. They adorn themselves with gold, a despicable use of a valuable metal. And they shamelessly clothe their females.</td></tr>
 
-  PORTAL
-     You have awakened Portal six three. Do you
-     petition to enter the Empire?
+<tr id="L370"><td><a href="#L370">370</a></td><td>MORDOC:  Inviting others to unclothe them. The very depth of perversion.</td></tr>
 
-  RIKER
-     Who asks the question?
+<tr id="L371"><td><a href="#L371">371</a></td><td>TASHA:  Paws off, Ferengi.</td></tr>
 
-  PORTAL
-     A guardian of the Tkon Empire.
+<tr id="L372"><td><a href="#L372">372</a></td><td>MORDOC:  No female, human or Ferengi, can order Mordoc around! Submit!</td></tr>
 
-  ANNOTATION
-     The energy turns into a humanoid figure in a long
-     hooded cloak, leaning on a staff
+<tr id="L373"><td><a href="#L373">373</a></td><td>TASHA:  Just try it, shorty.</td></tr>
 
-  PORTAL
-     Biped. Excellent.
+<tr id="L374"><td><a href="#L374">374</a></td><td>RIKER:  At ease, Lieutenant!</td></tr>
 
-  RIKER
-     Why should we petition to entry to an empire that
-     no longer exists?
+<tr id="L375"><td><a href="#L375">375</a></td><td>RIKER:  And we still have more faults</td></tr>
 
-  PORTAL
-     Why do you attempt deception? The Empire is
-     forever.
+<tr id="L376"><td><a href="#L376">376</a></td><td>DATA:  They should add that Starfleet has permitted several civilisations to fall. We have at times allowed the strong and violent to overcome the weak.</td></tr>
 
-  RIKER
-     Your empire fell prey to a supernova.
+<tr id="L377"><td><a href="#L377">377</a></td><td>LETEK:  They admit their crimes! Hear them! They admit the evil that they do!</td></tr>
 
-  PORTAL
-     We are forever.
+<tr id="L378"><td><a href="#L378">378</a></td><td>PORTAL:  Barbarian!</td></tr>
 
-  RIKER
-     Data, Please repeat the file.
+<tr id="L379"><td><a href="#L379">379</a></td><td>LETEK:  Yes, you show wisdom.</td></tr>
 
-  DATA
-     It is a matter of record, Portal. In the Age of
-     Makto, the central star of the Tkon Empire
-     destabilised and
+<tr id="L380"><td><a href="#L380">380</a></td><td>PORTAL:  Barbarians all! But this one first, in the fashion the Empire has always challenged savages.</td></tr>
 
-  PORTAL
-     There has never been an Age of Makto.
+<tr id="L381"><td><a href="#L381">381</a></td><td>WORF:  No! For battle, come to me!</td></tr>
 
-  DATA
-     In fact, there have been many ages which have come
-     and passed since Makto.
+<tr id="L382"><td><a href="#L382">382</a></td><td>RIKER:  No! That's an order.</td></tr>
 
-  PORTAL
-     This is the Age of Bastu!
+<tr id="L383"><td><a href="#L383">383</a></td><td>PORTAL:  You have a single chance for life. One only. What is the answer to my challenge? I offer a thought. He will triumph who knows when to fight and when not to fight. You are being tested, Riker! What is the answer?</td></tr>
 
-  DATA
-     I'm afraid not. According to the Tkon use of
-     galactic motionary startime charts, after Bastu
-     came Cimi, Xora, Makto
+<tr id="L384"><td><a href="#L384">384</a></td><td>RIKER:  How do you know my name?</td></tr>
 
-  PORTAL
-     Enough! Absurdities!
+<tr id="L385"><td><a href="#L385">385</a></td><td>ANNOTATION: Portal whirls his staff, bringing it to a sudden stop by Riker's right ear. He doesn't flinch</td></tr>
 
-  RIKER
-     You must have been asleep, Portal, for hundreds of
-     thousands of our years.
+<tr id="L386"><td><a href="#L386">386</a></td><td>PORTAL:  Ahhh. You are facing fate with composure. But what is the answer to my challenge?</td></tr>
 
-  LETEK
-     Deception is the way of the human. We Ferengi will
-     gladly make a petition.
+<tr id="L387"><td><a href="#L387">387</a></td><td>RIKER:  Fear is the true enemy, the only enemy.</td></tr>
 
-  RIKER
-     We invite your petition.
+<tr id="L388"><td><a href="#L388">388</a></td><td>ANNOTATION: Portal lowers his staff, and becomes friendly and chatty</td></tr>
 
-  PORTAL
-     Speak.
+<tr id="L389"><td><a href="#L389">389</a></td><td>PORTAL:  Unlike these little ones who close their minds, your mind holds interesting thoughts. Know your enemy and know yourself, and you will always be victorious. Why that thought? And who is this Sun Tzu you revere?</td></tr>
 
-  LETEK
-     We wish to offer our services to serve the Tkon
-     Empire at no profit. Return control of our
-     starship to us and we will happily destroy the
-     human criminals and their vessel which attacked us
-     without provocation. They came to loot your
-     empire, but we intercepted them.
+<tr id="L390"><td><a href="#L390">390</a></td><td>RIKER:  An old Chinese philosopher from ancient Earth history.</td></tr>
 
-  PORTAL
-     You are accused of deceit and treachery. Do you
-     give yourself up for judgement?
+<tr id="L391"><td><a href="#L391">391</a></td><td>PORTAL:  You must tell me more of this wisdom, so much like our own.</td></tr>
 
-  RIKER
-     Yes. If you believe those accusations, then you
-     certainly should act on them.
+<tr id="L392"><td><a href="#L392">392</a></td><td>RIKER:  Gladly. But first our starship. Can you release it?</td></tr>
 
-  LETEK
-     And there is even more. We can prove that the
-     humans are destroyers of legal commerce, and that
-     they selfishly withhold vital technology from
-     backward worlds.
+<tr id="L393"><td><a href="#L393">393</a></td><td>PORTAL:  It is released. All power is restored.</td></tr>
 
-  MORDOC
-     And necessary defensive weapons, too. We Ferengi
-     now challenge this human madness.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L394"><td><a href="#L394">394</a></td><td>ANNOTATION: The ship whirrs back into life, and people start to open their eyes</td></tr>
 
-  RIKER
-     I admit we withheld modern technology from some
-     worlds.
+<tr id="L395"><td><a href="#L395">395</a></td><td>CRUSHER:  Not a moment too soon, Jean. I mean, Captain.</td></tr>
 
-  KAYRON
-     You see? They are demented. Their values are
-     insane. You cannot believe the business
-     opportunities they have destroyed.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L396"><td><a href="#L396">396</a></td><td>PORTAL:  I admit I had my doubts as your ships battled each other in overt acts of belligerence. Normally, I would have destroyed all of you and your ships, but something confused me.</td></tr>
 
-  LETEK
-     Proof of their barbarism. They adorn themselves
-     with gold, a despicable use of a valuable metal.
-     And they shamelessly clothe their females.
+<tr id="L397"><td><a href="#L397">397</a></td><td>RIKER:  Which was?</td></tr>
 
-  MORDOC
-     Inviting others to unclothe them. The very depth
-     of perversion.
+<tr id="L398"><td><a href="#L398">398</a></td><td>PORTAL:  First, you wanted to murder each other. Then you were willing to help each other.</td></tr>
 
-  TASHA
-     Paws off, Ferengi.
+<tr id="L399"><td><a href="#L399">399</a></td><td>LETEK:  What of our vessel? We knew the same answer.</td></tr>
 
-  MORDOC
-     No female, human or Ferengi, can order Mordoc
-     around! Submit!
+<tr id="L400"><td><a href="#L400">400</a></td><td>MORDOC:  The truth is, I gave those words to this human.</td></tr>
 
-  TASHA
-     Just try it, shorty.
+<tr id="L401"><td><a href="#L401">401</a></td><td>PORTAL:  What of them? Shall I destroy them?</td></tr>
 
-  RIKER
-     At ease, Lieutenant!
+<tr id="L402"><td><a href="#L402">402</a></td><td>RIKER:  Then they would learn nothing.</td></tr>
 
-  RIKER
-     And we still have more faults
+<tr id="L403"><td><a href="#L403">403</a></td><td>PORTAL:  A most interesting conclusion. But what if they will never learn, Riker?</td></tr>
 
-  DATA
-     They should add that Starfleet has permitted
-     several civilisations to fall. We have at times
-     allowed the strong and violent to overcome the
-     weak.
+<tr id="L404"><td><a href="#L404">404</a></td><td>RIKER:  Is this a test also?</td></tr>
 
-  LETEK
-     They admit their crimes! Hear them! They admit the
-     evil that they do!
+<tr id="L405"><td><a href="#L405">405</a></td><td>PORTAL:  In life, one is always tested.</td></tr>
 
-  PORTAL
-     Barbarian!
+<tr id="L406"><td><a href="#L406">406</a></td><td>RIKER:  I find them very much as we were a several hundred years ago, but possessing the technology they have now, they're very dangerous .</td></tr>
 
-  LETEK
-     Yes, you show wisdom.
+<tr id="L407"><td><a href="#L407">407</a></td><td>KAYRON:  Untrue. We seek friendship with you.</td></tr>
 
-  PORTAL
-     Barbarians all! But this one first, in the fashion
-     the Empire has always challenged savages.
+<tr id="L408"><td><a href="#L408">408</a></td><td>RIKER:  But we can hardly hate what we once were. They may grow and learn.</td></tr>
 
-  WORF
-     No! For battle, come to me!
+<tr id="L409"><td><a href="#L409">409</a></td><td>PORTAL:  And learn ways to destroy you.</td></tr>
 
-  RIKER
-     No! That's an order.
+<tr id="L410"><td><a href="#L410">410</a></td><td>RIKER:  Our values require us to face that possibility. What of you, with your empire gone?</td></tr>
 
-  PORTAL
-     You have a single chance for life. One only. What
-     is the answer to my challenge? I offer a thought.
-     He will triumph who knows when to fight and when
-     not to fight. You are being tested, Riker! What is
-     the answer?
+<tr id="L411"><td><a href="#L411">411</a></td><td>PORTAL:  The universe exists to me to create life. I shall sleep, until needed again.</td></tr>
 
-  RIKER
-     How do you know my name?
+<tr id="L412"><td><a href="#L412">412</a></td><td>ANNOTATION: He walks away, becomes more stooped, then vanishes</td></tr>
 
-  ANNOTATION
-     Portal whirls his staff, bringing it to a sudden
-     stop by Riker's right ear. He doesn't flinch
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L413"><td><a href="#L413">413</a></td><td>PICARD:  Compliments, Lieutenant.</td></tr>
 
-  PORTAL
-     Ahhh. You are facing fate with composure. But what
-     is the answer to my challenge?
+<tr id="L414"><td><a href="#L414">414</a></td><td>TASHA:  Thank you.</td></tr>
 
-  RIKER
-     Fear is the true enemy, the only enemy.
+<tr id="L415"><td><a href="#L415">415</a></td><td>PICARD:  Lieutenant Worf.</td></tr>
 
-  ANNOTATION
-     Portal lowers his staff, and becomes friendly and
-     chatty
+<tr id="L416"><td><a href="#L416">416</a></td><td>ANNOTATION: Geordi and Data enter</td></tr>
 
-  PORTAL
-     Unlike these little ones who close their minds,
-     your mind holds interesting thoughts. Know your
-     enemy and know yourself, and you will always be
-     victorious. Why that thought? And who is this Sun
-     Tzu you revere?
+<tr id="L417"><td><a href="#L417">417</a></td><td>PICARD:  You've done well.</td></tr>
 
-  RIKER
-     An old Chinese philosopher from ancient Earth
-     history.
+<tr id="L418"><td><a href="#L418">418</a></td><td>DATA:  Something to write home about.</td></tr>
 
-  PORTAL
-     You must tell me more of this wisdom, so much like
-     our own.
+<tr id="L419"><td><a href="#L419">419</a></td><td>LAFORGE:  Something to write home about? Data, that's very human.</td></tr>
 
-  RIKER
-     Gladly. But first our starship. Can you release
-     it?
+<tr id="L420"><td><a href="#L420">420</a></td><td>RIKER:  The T9 energy converter has been beamed aboard and secured, sir. The Ferengi complained bitterly, but one final roar from Portal convinced them.</td></tr>
 
-  PORTAL
-     It is released. All power is restored.
+<tr id="L421"><td><a href="#L421">421</a></td><td>PICARD:  I commend your performance, Number One.</td></tr>
 
+<tr id="L422"><td><a href="#L422">422</a></td><td>RIKER:  One final request, sir. Permission to beam a box of Data's Chinese finger puzzles over to the Ferengi. A thank you for all they tried to do.</td></tr>
 
-LOCATION--Bridge
+<tr id="L423"><td><a href="#L423">423</a></td><td>PICARD:  Make it so.</td></tr>
 
-  ANNOTATION
-     The ship whirrs back into life, and people start
-     to open their eyes
-
-  CRUSHER
-     Not a moment too soon, Jean. I mean, Captain.
-
-
-LOCATION--Planet surface
-
-  PORTAL
-     I admit I had my doubts as your ships battled each
-     other in overt acts of belligerence. Normally, I
-     would have destroyed all of you and your ships,
-     but something confused me.
-
-  RIKER
-     Which was?
-
-  PORTAL
-     First, you wanted to murder each other. Then you
-     were willing to help each other.
-
-  LETEK
-     What of our vessel? We knew the same answer.
-
-  MORDOC
-     The truth is, I gave those words to this human.
-
-  PORTAL
-     What of them? Shall I destroy them?
-
-  RIKER
-     Then they would learn nothing.
-
-  PORTAL
-     A most interesting conclusion. But what if they
-     will never learn, Riker?
-
-  RIKER
-     Is this a test also?
-
-  PORTAL
-     In life, one is always tested.
-
-  RIKER
-     I find them very much as we were a several hundred
-     years ago, but possessing the technology they have
-     now, they're very dangerous .
-
-  KAYRON
-     Untrue. We seek friendship with you.
-
-  RIKER
-     But we can hardly hate what we once were. They may
-     grow and learn.
-
-  PORTAL
-     And learn ways to destroy you.
-
-  RIKER
-     Our values require us to face that possibility.
-     What of you, with your empire gone?
-
-  PORTAL
-     The universe exists to me to create life. I shall
-     sleep, until needed again.
-
-  ANNOTATION
-     He walks away, becomes more stooped, then vanishes
-
-
-LOCATION--Bridge
-
-  PICARD
-     Compliments, Lieutenant.
-
-  TASHA
-     Thank you.
-
-  PICARD
-     Lieutenant Worf.
-
-  ANNOTATION
-     Geordi and Data enter
-
-  PICARD
-     You've done well.
-
-  DATA
-     Something to write home about.
-
-  LAFORGE
-     Something to write home about? Data, that's very
-     human.
-
-  RIKER
-     The T9 energy converter has been beamed aboard and
-     secured, sir. The Ferengi complained bitterly, but
-     one final roar from Portal convinced them.
-
-  PICARD
-     I commend your performance, Number One.
-
-  RIKER
-     One final request, sir. Permission to beam a box
-     of Data's Chinese finger puzzles over to the
-     Ferengi. A thank you for all they tried to do.
-
-  PICARD
-     Make it so.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

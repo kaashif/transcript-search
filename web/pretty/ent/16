@@ -1,1712 +1,860 @@
-Shuttlepod One
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Shuttlepod One</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>REED:  The Captain said they'd be mapping this asteroid field, but I can't see head nor tails of them.</td></tr>
 
-LOCATION--Shuttlepod
+<tr id="L2"><td><a href="#L2">2</a></td><td>TUCKER:  Maybe it's another asteroid field.</td></tr>
 
-  REED
-     The Captain said they'd be mapping this asteroid
-     field, but I can't see head nor tails of them.
+<tr id="L3"><td><a href="#L3">3</a></td><td>REED:  No, this is the one. Two primaries, seventeen planetesimals.</td></tr>
 
-  TUCKER
-     Maybe it's another asteroid field.
+<tr id="L4"><td><a href="#L4">4</a></td><td>ANNOTATION: Tucker is examining a circuit with a laser.</td></tr>
 
-  REED
-     No, this is the one. Two primaries, seventeen
-     planetesimals.
+<tr id="L5"><td><a href="#L5">5</a></td><td>TUCKER:  Well, they weren't expecting us back for three days. Maybe they finished and went off to do something else.</td></tr>
 
-  ANNOTATION
-     Tucker is examining a circuit with a laser.
+<tr id="L6"><td><a href="#L6">6</a></td><td>REED:  Well, with our sensor array down, we won't know when they get back until we see them. Any luck with the comm?</td></tr>
 
-  TUCKER
-     Well, they weren't expecting us back for three
-     days. Maybe they finished and went off to do
-     something else.
+<tr id="L7"><td><a href="#L7">7</a></td><td>TUCKER:  Dead as a doornail. I don't understand it.</td></tr>
 
-  REED
-     Well, with our sensor array down, we won't know
-     when they get back until we see them. Any luck
-     with the comm?
+<tr id="L8"><td><a href="#L8">8</a></td><td>REED:  Well, no doubt you'll have your boys take this pod apart piece by piece once it's back in the launch bay.</td></tr>
 
-  TUCKER
-     Dead as a doornail. I don't understand it.
+<tr id="L9"><td><a href="#L9">9</a></td><td>TUCKER:  I'd feel a lot more comfortable having everything in working order by the time Enterprise gets back.</td></tr>
 
-  REED
-     Well, no doubt you'll have your boys take this pod
-     apart piece by piece once it's back in the launch
-     bay.
+<tr id="L10"><td><a href="#L10">10</a></td><td>REED:  Well, tinker all you like. I've got a copy of Ulysses here. I doubt I'll even be halfway through it by the time the ship gets back.</td></tr>
 
-  TUCKER
-     I'd feel a lot more comfortable having everything
-     in working order by the time Enterprise gets back.
+<tr id="L11"><td><a href="#L11">11</a></td><td>TUCKER:  I'd rather realign every micro-circuit on this shuttle than try to wade through that baby.</td></tr>
 
-  REED
-     Well, tinker all you like. I've got a copy of
-     Ulysses here. I doubt I'll even be halfway through
-     it by the time the ship gets back.
+<tr id="L12"><td><a href="#L12">12</a></td><td>REED:  British schools have a core curriculum. It serves to provide a well-rounded education. Sometimes I think you North Americans read nothing but comic books and those ridiculous science fiction novels.</td></tr>
 
-  TUCKER
-     I'd rather realign every micro-circuit on this
-     shuttle than try to wade through that baby.
+<tr id="L13"><td><a href="#L13">13</a></td><td>TUCKER:  I'll have you know that Superman was laced with metaphor. Subtext layered on subtext.</td></tr>
 
-  REED
-     British schools have a core curriculum. It serves
-     to provide a well-rounded education. Sometimes I
-     think you North Americans read nothing but comic
-     books and those ridiculous science fiction novels.
+<tr id="L14"><td><a href="#L14">14</a></td><td>REED:  Oh, if only Doctor Cochrane had been a European. The Vulcans would have been far less reticent to help us. But, no, he had to be from Montana. He probably spent his nights reading about cowboys and Indians.</td></tr>
 
-  TUCKER
-     I'll have you know that Superman was laced with
-     metaphor. Subtext layered on subtext.
+<tr id="L15"><td><a href="#L15">15</a></td><td>TUCKER:  Well, I don't recall any Europeans figuring out how to build a warp engine.</td></tr>
 
-  REED
-     Oh, if only Doctor Cochrane had been a European.
-     The Vulcans would have been far less reticent to
-     help us. But, no, he had to be from Montana. He
-     probably spent his nights reading about cowboys
-     and Indians.
+<tr id="L16"><td><a href="#L16">16</a></td><td>ANNOTATION: Reed is looking out the main window.</td></tr>
 
-  TUCKER
-     Well, I don't recall any Europeans figuring out
-     how to build a warp engine.
+<tr id="L17"><td><a href="#L17">17</a></td><td>REED:  Commander.</td></tr>
 
-  ANNOTATION
-     Reed is looking out the main window.
+<tr id="L18"><td><a href="#L18">18</a></td><td>TUCKER:  No Brits, no Italians, no Serbo-Croatians.</td></tr>
 
-  REED
-     Commander.
+<tr id="L19"><td><a href="#L19">19</a></td><td>REED:  Commander. I think you'd better come and take a look at this.</td></tr>
 
-  TUCKER
-     No Brits, no Italians, no Serbo-Croatians.
+<tr id="L20"><td><a href="#L20">20</a></td><td>ANNOTATION: They are passing an asteroid with a big crash site on it.</td></tr>
 
-  REED
-     Commander. I think you'd better come and take a
-     look at this.
+<tr id="L21"><td><a href="#L21">21</a></td><td>TUCKER:  Bring us in closer.</td></tr>
 
-  ANNOTATION
-     They are passing an asteroid with a big crash site
-     on it.
+<tr id="L22"><td><a href="#L22">22</a></td><td>REED:  Is it a ship?</td></tr>
 
-  TUCKER
-     Bring us in closer.
+<tr id="L23"><td><a href="#L23">23</a></td><td>TUCKER:  If the damn sensors were only working, we could. Bring us around again. There. Slow down.</td></tr>
 
-  REED
-     Is it a ship?
+<tr id="L24"><td><a href="#L24">24</a></td><td>ANNOTATION: The sight of a piece of metal with 01 on it brings a lump to their throats</td></tr>
 
-  TUCKER
-     If the damn sensors were only working, we could.
-     Bring us around again. There. Slow down.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L25"><td><a href="#L25">25</a></td><td>ARCHER:  Come in. How are the Tesnians doing?</td></tr>
 
-  ANNOTATION
-     The sight of a piece of metal with 01 on it brings
-     a lump to their throats
+<tr id="L26"><td><a href="#L26">26</a></td><td>HOSHI:  Dr. Phlox can only keep twelve of them in the Decon chamber at a time.</td></tr>
 
+<tr id="L27"><td><a href="#L27">27</a></td><td>ARCHER:  What about the other, what is it, twenty two?</td></tr>
 
-LOCATION--Ready room
+<tr id="L28"><td><a href="#L28">28</a></td><td>HOSHI:  He's rotating them. They seem to be doing fine on our atmosphere but they need at least six hours of boron gas a day. He says we've got enough to get them home.</td></tr>
 
-  ARCHER
-     Come in. How are the Tesnians doing?
+<tr id="L29"><td><a href="#L29">29</a></td><td>ARCHER:  Have you learned their language?</td></tr>
 
-  HOSHI
-     Dr. Phlox can only keep twelve of them in the
-     Decon chamber at a time.
+<tr id="L30"><td><a href="#L30">30</a></td><td>HOSHI:  Yes, sir.</td></tr>
 
-  ARCHER
-     What about the other, what is it, twenty two?
+<tr id="L31"><td><a href="#L31">31</a></td><td>ARCHER:  What do they have to say?</td></tr>
 
-  HOSHI
-     He's rotating them. They seem to be doing fine on
-     our atmosphere but they need at least six hours of
-     boron gas a day. He says we've got enough to get
-     them home.
+<tr id="L32"><td><a href="#L32">32</a></td><td>HOSHI:  They're pretty rattled. Most of them have been on that ship for years. It's a lot to digest they lost everything.</td></tr>
 
-  ARCHER
-     Have you learned their language?
+<tr id="L33"><td><a href="#L33">33</a></td><td>ARCHER:  They're alive. Does the Captain have any idea what happened?</td></tr>
 
-  HOSHI
-     Yes, sir.
+<tr id="L34"><td><a href="#L34">34</a></td><td>HOSHI:  No, and he feels terrible about the damage to Enterprise. He has no idea what went wrong. When they approached our docking port they lost control of their sensor array, and then a few seconds later their navigation system went out.</td></tr>
 
-  ARCHER
-     What do they have to say?
+<tr id="L35"><td><a href="#L35">35</a></td><td>ARCHER:  Thank God their escape pods were working.</td></tr>
 
-  HOSHI
-     They're pretty rattled. Most of them have been on
-     that ship for years. It's a lot to digest they
-     lost everything.
+<tr id="L36"><td><a href="#L36">36</a></td><td>HOSHI:  I saw the wreckage on the asteroid. There wasn't much left.</td></tr>
 
-  ARCHER
-     They're alive. Does the Captain have any idea what
-     happened?
+<tr id="L37"><td><a href="#L37">37</a></td><td>ARCHER:  Archer to Mayweather. What's our ETA?</td></tr>
 
-  HOSHI
-     No, and he feels terrible about the damage to
-     Enterprise. He has no idea what went wrong. When
-     they approached our docking port they lost control
-     of their sensor array, and then a few seconds
-     later their navigation system went out.
+<tr id="L38"><td><a href="#L38">38</a></td><td>TRAVIS [OC]:  We should reach Tesnia in about twenty hours, sir.</td></tr>
 
-  ARCHER
-     Thank God their escape pods were working.
+<tr id="L39"><td><a href="#L39">39</a></td><td>ARCHER:  Good work. That should get us back to our rendezvous co-ordinates well before Trip and Malcolm get there. Let's drop out of warp for a few minutes. I want to inspect the damage to the launch doors.</td></tr>
 
-  HOSHI
-     I saw the wreckage on the asteroid. There wasn't
-     much left.
+<tr id="L40"><td><a href="#L40">40</a></td><td>TRAVIS:  Aye, sir.</td></tr>
 
-  ARCHER
-     Archer to Mayweather. What's our ETA?
+<tr><td></td><td>LOCATION--Inspection pod</td></tr>
+<tr id="L41"><td><a href="#L41">41</a></td><td>ANNOTATION: Smaller and rounder than a shuttlepod, with no wings for atmosphere flight.</td></tr>
 
-  TRAVIS [OC]
-     We should reach Tesnia in about twenty hours, sir.
+<tr id="L42"><td><a href="#L42">42</a></td><td>ARCHER:  Who's in charge of Engineering while Trip's away?</td></tr>
 
-  ARCHER
-     Good work. That should get us back to our
-     rendezvous co-ordinates well before Trip and
-     Malcolm get there. Let's drop out of warp for a
-     few minutes. I want to inspect the damage to the
-     launch doors.
+<tr id="L43"><td><a href="#L43">43</a></td><td>T'POL:  Lieutenant Hess.</td></tr>
 
-  TRAVIS
-     Aye, sir.
+<tr id="L44"><td><a href="#L44">44</a></td><td>ARCHER:  Tell her to get a team working on a new starboard door for launch bay two.</td></tr>
 
+<tr id="L45"><td><a href="#L45">45</a></td><td>ANNOTATION: They glide underneath the gaping hole and twisted metal where the launch door used to be.</td></tr>
 
-LOCATION--Inspection pod
+<tr id="L46"><td><a href="#L46">46</a></td><td>ARCHER:  Everything else check out all right?</td></tr>
 
-  ANNOTATION
-     Smaller and rounder than a shuttlepod, with no
-     wings for atmosphere flight.
+<tr id="L47"><td><a href="#L47">47</a></td><td>T'POL:  Astrometrics detected what could be micro-singularities in the vicinity of the asteroid field.</td></tr>
 
-  ARCHER
-     Who's in charge of Engineering while Trip's away?
+<tr id="L48"><td><a href="#L48">48</a></td><td>ARCHER:  Micro-singularities are a Vulcan myth. There's no scientific evidence that they exist.</td></tr>
 
-  T'POL
-     Lieutenant Hess.
+<tr id="L49"><td><a href="#L49">49</a></td><td>T'POL:  Our deflectors registered some unusual charged particles at the same time the Tesnian ship began to malfunction.</td></tr>
 
-  ARCHER
-     Tell her to get a team working on a new starboard
-     door for launch bay two.
+<tr id="L50"><td><a href="#L50">50</a></td><td>ARCHER:  Any similar damage on Enterprise?</td></tr>
 
-  ANNOTATION
-     They glide underneath the gaping hole and twisted
-     metal where the launch door used to be.
+<tr id="L51"><td><a href="#L51">51</a></td><td>T'POL:  No, but our hull plating was polarised.</td></tr>
 
-  ARCHER
-     Everything else check out all right?
+<tr id="L52"><td><a href="#L52">52</a></td><td>ARCHER:  Micro-singularities. If the Vulcans had their way they'd blame them for the common cold.</td></tr>
 
-  T'POL
-     Astrometrics detected what could be
-     micro-singularities in the vicinity of the
-     asteroid field.
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L53"><td><a href="#L53">53</a></td><td>TUCKER:  How about the lifeboats? They could have launched the lifeboats before the crash.</td></tr>
 
-  ARCHER
-     Micro-singularities are a Vulcan myth. There's no
-     scientific evidence that they exist.
+<tr id="L54"><td><a href="#L54">54</a></td><td>REED:  They'd be here. They only go three hundred kph. They'd be right here waiting for us to return.</td></tr>
 
-  T'POL
-     Our deflectors registered some unusual charged
-     particles at the same time the Tesnian ship began
-     to malfunction.
+<tr id="L55"><td><a href="#L55">55</a></td><td>TUCKER:  Are we sure there are no survivors?</td></tr>
 
-  ARCHER
-     Any similar damage on Enterprise?
+<tr id="L56"><td><a href="#L56">56</a></td><td>REED:  Commander, we have to figure out what we're going to do.</td></tr>
 
-  T'POL
-     No, but our hull plating was polarised.
+<tr id="L57"><td><a href="#L57">57</a></td><td>TUCKER:  We can't just leave. That's Enterprise. At least we should find the black boxes.</td></tr>
 
-  ARCHER
-     Micro-singularities. If the Vulcans had their way
-     they'd blame them for the common cold.
+<tr id="L58"><td><a href="#L58">58</a></td><td>REED:  With what? We have no radio. Nothing to pick up the beacons.</td></tr>
 
+<tr id="L59"><td><a href="#L59">59</a></td><td>TUCKER:  What's the range in our distress beacon?</td></tr>
 
-LOCATION--Shuttlepod
+<tr id="L60"><td><a href="#L60">60</a></td><td>REED:  It's offline.</td></tr>
 
-  TUCKER
-     How about the lifeboats? They could have launched
-     the lifeboats before the crash.
+<tr id="L61"><td><a href="#L61">61</a></td><td>TUCKER:  I'm talking about the portable one. The one in the away kit.</td></tr>
 
-  REED
-     They'd be here. They only go three hundred kph.
-     They'd be right here waiting for us to return.
+<tr id="L62"><td><a href="#L62">62</a></td><td>REED:  Ten million kilometers, maybe twenty, but I highly doubt there'd be a ship anywhere close to that.</td></tr>
 
-  TUCKER
-     Are we sure there are no survivors?
+<tr id="L63"><td><a href="#L63">63</a></td><td>TUCKER:  We've only got ten days worth of breathable air. How far to Echo Three?</td></tr>
 
-  REED
-     Commander, we have to figure out what we're going
-     to do.
+<tr id="L64"><td><a href="#L64">64</a></td><td>REED:  At impulse? A lot more than ten days.</td></tr>
 
-  TUCKER
-     We can't just leave. That's Enterprise. At least
-     we should find the black boxes.
+<tr id="L65"><td><a href="#L65">65</a></td><td>TUCKER:  Well, if we could get close enough for it to pick up our distress beacon it'd relay the signal back to Starfleet.</td></tr>
 
-  REED
-     With what? We have no radio. Nothing to pick up
-     the beacons.
+<tr id="L66"><td><a href="#L66">66</a></td><td>REED:  I'm afraid the math doesn't work out, Commander. It's going to take weeks, maybe months for our signal to reach Echo Three. By the time Starfleet got a ship out here we'd be, we'd be long dead.</td></tr>
 
-  TUCKER
-     What's the range in our distress beacon?
+<tr id="L67"><td><a href="#L67">67</a></td><td>TUCKER:  But at least they'd find us. They'd get their shuttlepod back, a couple of well-preserved corpses.</td></tr>
 
-  REED
-     It's offline.
+<tr id="L68"><td><a href="#L68">68</a></td><td>REED:  Sir.</td></tr>
 
-  TUCKER
-     I'm talking about the portable one. The one in the
-     away kit.
+<tr id="L69"><td><a href="#L69">69</a></td><td>TUCKER:  Which way?</td></tr>
 
-  REED
-     Ten million kilometers, maybe twenty, but I highly
-     doubt there'd be a ship anywhere close to that.
+<tr id="L70"><td><a href="#L70">70</a></td><td>REED:  Which way to what?</td></tr>
 
-  TUCKER
-     We've only got ten days worth of breathable air.
-     How far to Echo Three?
+<tr id="L71"><td><a href="#L71">71</a></td><td>TUCKER:  Echo Three. Which way to Echo Three?</td></tr>
 
-  REED
-     At impulse? A lot more than ten days.
+<tr id="L72"><td><a href="#L72">72</a></td><td>REED:  I told you, it's too far.</td></tr>
 
-  TUCKER
-     Well, if we could get close enough for it to pick
-     up our distress beacon it'd relay the signal back
-     to Starfleet.
+<tr id="L73"><td><a href="#L73">73</a></td><td>TUCKER:  Do you know which direction it is or don't you?</td></tr>
 
-  REED
-     I'm afraid the math doesn't work out, Commander.
-     It's going to take weeks, maybe months for our
-     signal to reach Echo Three. By the time Starfleet
-     got a ship out here we'd be, we'd be long dead.
+<tr id="L74"><td><a href="#L74">74</a></td><td>REED:  Navigation is down.</td></tr>
 
-  TUCKER
-     But at least they'd find us. They'd get their
-     shuttlepod back, a couple of well-preserved
-     corpses.
+<tr id="L75"><td><a href="#L75">75</a></td><td>TUCKER:  That's not what I asked you.</td></tr>
 
-  REED
-     Sir.
+<tr id="L76"><td><a href="#L76">76</a></td><td>REED:  You want me to guess?</td></tr>
 
-  TUCKER
-     Which way?
+<tr id="L77"><td><a href="#L77">77</a></td><td>TUCKER:  You come from a long line of Navy men and you got a real good memory. Look hard at those stars, find something that looks familiar and tell me which way to go.</td></tr>
 
-  REED
-     Which way to what?
+<tr id="L78"><td><a href="#L78">78</a></td><td>REED:  Sir.</td></tr>
 
-  TUCKER
-     Echo Three. Which way to Echo Three?
+<tr id="L79"><td><a href="#L79">79</a></td><td>TUCKER:  That's an order!</td></tr>
 
-  REED
-     I told you, it's too far.
+<tr id="L80"><td><a href="#L80">80</a></td><td>REED:  I don't suppose you have a sextant handy.</td></tr>
 
-  TUCKER
-     Do you know which direction it is or don't you?
+<tr id="L81"><td><a href="#L81">81</a></td><td>TUCKER:  I left it with my slide rule. (Reed sits in the pilot's seat) Well?</td></tr>
 
-  REED
-     Navigation is down.
+<tr id="L82"><td><a href="#L82">82</a></td><td>REED:  That blue giant, we may have gone by it. I'm not sure.</td></tr>
 
-  TUCKER
-     That's not what I asked you.
+<tr id="L83"><td><a href="#L83">83</a></td><td>TUCKER:  That's good enough for me. Take one more low pass over the wreckage and then set a course.</td></tr>
 
-  REED
-     You want me to guess?
+<tr id="L84"><td><a href="#L84">84</a></td><td>ANNOTATION: They swoop down over the 01 sign.</td></tr>
 
-  TUCKER
-     You come from a long line of Navy men and you got
-     a real good memory. Look hard at those stars, find
-     something that looks familiar and tell me which
-     way to go.
+<tr id="L85"><td><a href="#L85">85</a></td><td>TUCKER:  See you around, Captain.</td></tr>
 
-  REED
-     Sir.
+<tr id="L86"><td><a href="#L86">86</a></td><td>ANNOTATION: Later- </td></tr>
 
-  TUCKER
-     That's an order!
+<tr id="L87"><td><a href="#L87">87</a></td><td>REED:  Personal log, Lieutenant Malcolm Reed. November 9, 2151. By the time anyone hears this, by anyone, I suppose I mean anyone human, Commander Tucker and I will be long dead. It's my intention to recount the events that led to the destruction of the Starship Enterprise and to express my deepest feelings regarding my short but memorable service with Starfleet.</td></tr>
 
-  REED
-     I don't suppose you have a sextant handy.
+<tr id="L88"><td><a href="#L88">88</a></td><td>TUCKER:  Tell them I'd love to add my two cents, but I'm trying to get a little work done.</td></tr>
 
-  TUCKER
-     I left it with my slide rule. (Reed sits in the
-     pilot's seat) Well?
+<tr id="L89"><td><a href="#L89">89</a></td><td>ANNOTATION: Reed rewinds a little.</td></tr>
 
-  REED
-     That blue giant, we may have gone by it. I'm not
-     sure.
+<tr id="L90"><td><a href="#L90">90</a></td><td>REED:  [OC] short but memorable service with Starfleet.</td></tr>
 
-  TUCKER
-     That's good enough for me. Take one more low pass
-     over the wreckage and then set a course.
+<tr id="L91"><td><a href="#L91">91</a></td><td>ANNOTATION: He resumes dictation.</td></tr>
 
-  ANNOTATION
-     They swoop down over the 01 sign.
+<tr id="L92"><td><a href="#L92">92</a></td><td>REED:  In order to test the targeting scanners on Shuttlepod one, Commander Tucker and I had to get at least twenty thousand kilometres from Enterprise. During our third trial, we experienced a brief but sizable jolt, and shortly thereafter realised that our sensor array had gone offline.</td></tr>
 
-  TUCKER
-     See you around, Captain.
+<tr id="L93"><td><a href="#L93">93</a></td><td>TUCKER:  This sensor array is more than offline. It's totally fried.</td></tr>
 
-  ANNOTATION
-     Later-
+<tr id="L94"><td><a href="#L94">94</a></td><td>REED:  (rewinds) that our sensor array had gone offline. (resumes) We had no choice but to head back to the asteroid field where Enterprise was involved in a mapping project. We found the ship destroyed, its debris strewn across a square kilometre of one of the larger asteroids. Had our sensors been working we certainly would have done everything possible to determine the cause of the disaster, but as it was, with only a short-range distress beacon and limited air, we had no alternative but to set a course for Echo Three where someday this vessel and eventually this log, will be found. May God have mercy on our souls.</td></tr>
 
-  REED
-     Personal log, Lieutenant Malcolm Reed. November 9,
-     2151. By the time anyone hears this, by anyone, I
-     suppose I mean anyone human, Commander Tucker and
-     I will be long dead. It's my intention to recount
-     the events that led to the destruction of the
-     Starship Enterprise and to express my deepest
-     feelings regarding my short but memorable service
-     with Starfleet.
+<tr id="L95"><td><a href="#L95">95</a></td><td>TUCKER:  Why don't you cut the crap and get back here and help me?</td></tr>
 
-  TUCKER
-     Tell them I'd love to add my two cents, but I'm
-     trying to get a little work done.
+<tr id="L96"><td><a href="#L96">96</a></td><td>REED:  What would you like me to do?</td></tr>
 
-  ANNOTATION
-     Reed rewinds a little.
+<tr id="L97"><td><a href="#L97">97</a></td><td>TUCKER:  I don't know. You could hold this flashlight, or turn down the heat. Whatever you want. I'm just getting a little tired of listening to all your pessimism.</td></tr>
 
-  REED
-     [OC] short but memorable service with Starfleet.
+<tr id="L98"><td><a href="#L98">98</a></td><td>REED:  If there's something you need me to do I would be more than happy to comply, but I'm afraid pessimism is simply not an accurate description of my log entry. I'm just being realistic, Commander.</td></tr>
 
-  ANNOTATION
-     He resumes dictation.
+<tr id="L99"><td><a href="#L99">99</a></td><td>TUCKER:  We've got nine days. We're bound to find someone out here.</td></tr>
 
-  REED
-     In order to test the targeting scanners on
-     Shuttlepod one, Commander Tucker and I had to get
-     at least twenty thousand kilometres from
-     Enterprise. During our third trial, we experienced
-     a brief but sizable jolt, and shortly thereafter
-     realised that our sensor array had gone offline.
+<tr id="L100"><td><a href="#L100">100</a></td><td>REED:  At warp, perhaps, but at impulse?</td></tr>
 
-  TUCKER
-     This sensor array is more than offline. It's
-     totally fried.
+<tr id="L101"><td><a href="#L101">101</a></td><td>TUCKER:  Vulcans, Klingons, Suliban, Xyrillians, Andorians. God knows who's going to be lurking around the next planet we run into.</td></tr>
 
-  REED
-     (rewinds) that our sensor array had gone offline.
-     (resumes) We had no choice but to head back to the
-     asteroid field where Enterprise was involved in a
-     mapping project. We found the ship destroyed, its
-     debris strewn across a square kilometre of one of
-     the larger asteroids. Had our sensors been working
-     we certainly would have done everything possible
-     to determine the cause of the disaster, but as it
-     was, with only a short-range distress beacon and
-     limited air, we had no alternative but to set a
-     course for Echo Three where someday this vessel
-     and eventually this log, will be found. May God
-     have mercy on our souls.
+<tr id="L102"><td><a href="#L102">102</a></td><td>REED:  But that's just it, sir. At impulse, we're not likely to be running into any planets. Not for at least six or seven years.</td></tr>
 
-  TUCKER
-     Why don't you cut the crap and get back here and
-     help me?
+<tr id="L103"><td><a href="#L103">103</a></td><td>TUCKER:  Then somebody can run into us. You ever think of that? Or see us on their sensors. The possibilities are endless.</td></tr>
 
-  REED
-     What would you like me to do?
+<tr id="L104"><td><a href="#L104">104</a></td><td>REED:  I'll heat up some rations. Unless of course you'd rather wait until we run into a vessel serving proper meals.</td></tr>
 
-  TUCKER
-     I don't know. You could hold this flashlight, or
-     turn down the heat. Whatever you want. I'm just
-     getting a little tired of listening to all your
-     pessimism.
+<tr id="L105"><td><a href="#L105">105</a></td><td>TUCKER:  Rations will be fine.</td></tr>
 
-  REED
-     If there's something you need me to do I would be
-     more than happy to comply, but I'm afraid
-     pessimism is simply not an accurate description of
-     my log entry. I'm just being realistic, Commander.
+<tr id="L106"><td><a href="#L106">106</a></td><td>ANNOTATION: Reed takes a small box out of a cubby hole.</td></tr>
 
-  TUCKER
-     We've got nine days. We're bound to find someone
-     out here.
+<tr id="L107"><td><a href="#L107">107</a></td><td>REED:  What are you in the mood for?</td></tr>
 
-  REED
-     At warp, perhaps, but at impulse?
+<tr id="L108"><td><a href="#L108">108</a></td><td>TUCKER:  Depends. What are you serving?</td></tr>
 
-  TUCKER
-     Vulcans, Klingons, Suliban, Xyrillians, Andorians.
-     God knows who's going to be lurking around the
-     next planet we run into.
+<tr id="L109"><td><a href="#L109">109</a></td><td>ANNOTATION: Reed reads the labels.</td></tr>
 
-  REED
-     But that's just it, sir. At impulse, we're not
-     likely to be running into any planets. Not for at
-     least six or seven years.
+<tr id="L110"><td><a href="#L110">110</a></td><td>REED:  Veal marsala. Chilean sea bass. Moo Goo Gai Pan.</td></tr>
 
-  TUCKER
-     Then somebody can run into us. You ever think of
-     that? Or see us on their sensors. The
-     possibilities are endless.
+<tr id="L111"><td><a href="#L111">111</a></td><td>TUCKER:  Any meat loaf?</td></tr>
 
-  REED
-     I'll heat up some rations. Unless of course you'd
-     rather wait until we run into a vessel serving
-     proper meals.
+<tr id="L112"><td><a href="#L112">112</a></td><td>REED:  With gravy and mashed potatoes.</td></tr>
 
-  TUCKER
-     Rations will be fine.
+<tr id="L113"><td><a href="#L113">113</a></td><td>TUCKER:  Perfect.</td></tr>
 
-  ANNOTATION
-     Reed takes a small box out of a cubby hole.
+<tr id="L114"><td><a href="#L114">114</a></td><td>ANNOTATION: Reed finds a bottle stashed in the cubby hole, too.</td></tr>
 
-  REED
-     What are you in the mood for?
+<tr id="L115"><td><a href="#L115">115</a></td><td>REED:  Kentucky bourbon.</td></tr>
 
-  TUCKER
-     Depends. What are you serving?
-
-  ANNOTATION
-     Reed reads the labels.
+<tr id="L116"><td><a href="#L116">116</a></td><td>TUCKER:  Yeah, the Captain was planning to give that to somebody. Can't remember who. Guess it's ours now.</td></tr>
 
-  REED
-     Veal marsala. Chilean sea bass. Moo Goo Gai Pan.
+<tr id="L117"><td><a href="#L117">117</a></td><td>ANNOTATION: Reed puts the meals into the heater, and a couple of seconds later they are eating hot food from plastic trays.</td></tr>
 
-  TUCKER
-     Any meat loaf?
+<tr id="L118"><td><a href="#L118">118</a></td><td>TUCKER:  What's that?</td></tr>
 
-  REED
-     With gravy and mashed potatoes.
+<tr id="L119"><td><a href="#L119">119</a></td><td>REED:  The sea bass.</td></tr>
 
-  TUCKER
-     Perfect.
+<tr id="L120"><td><a href="#L120">120</a></td><td>TUCKER:  Any good?</td></tr>
 
-  ANNOTATION
-     Reed finds a bottle stashed in the cubby hole,
-     too.
+<tr id="L121"><td><a href="#L121">121</a></td><td>REED:  It's lovely. Thank you.</td></tr>
 
-  REED
-     Kentucky bourbon.
+<tr id="L122"><td><a href="#L122">122</a></td><td>ANNOTATION: Later again, Trip is trying to sleep but Reed is still doing dictation.</td></tr>
 
-  TUCKER
-     Yeah, the Captain was planning to give that to
-     somebody. Can't remember who. Guess it's ours now.
+<tr id="L123"><td><a href="#L123">123</a></td><td>REED:  Captain Archer claims you told him you weren't even aware that I was serving on Enterprise. I find that difficult to believe, considering I wrote you twice in the weeks prior to our departure. Now, it is possible that you never received those letters. You were, I believe, in the process of moving back to Malaysia at the time. But you must have spoken to Aunt Sherry during that period, and I know she received my letters. I would hate to go to my death thinking that either of you felt I was trying to avoid</td></tr>
 
-  ANNOTATION
-     Reed puts the meals into the heater, and a couple
-     of seconds later they are eating hot food from
-     plastic trays.
+<tr id="L124"><td><a href="#L124">124</a></td><td>TUCKER:  Malcolm! You've been at it for hours now. Don't you think it's time to give it a rest?</td></tr>
 
-  TUCKER
-     What's that?
+<tr id="L125"><td><a href="#L125">125</a></td><td>REED:  As I'm sure you must have heard that was my esteemed colleague, Commander Charles Tucker. Mister Tucker doesn't share my belief that it is essential to say what must be said, to leave a record, tie up loose ends. Mister Tucker is labouring under the false hope that we are going to be miraculously rescued before we both suffocate.</td></tr>
 
-  REED
-     The sea bass.
+<tr id="L126"><td><a href="#L126">126</a></td><td>TUCKER:  Mister and Mrs. Reed, I realise that you've just begun a period of mourning and that I'll never get an answer to this question, but I got to ask it anyway. Was Malcolm always this cynical?</td></tr>
 
-  TUCKER
-     Any good?
+<tr id="L127"><td><a href="#L127">127</a></td><td>REED:  In a few days, when the reality of this situation actually begins to sink in, you might very well decide you want to record some logs of your own. You have my word, I will not interrupt you.</td></tr>
 
-  REED
-     It's lovely. Thank you.
+<tr id="L128"><td><a href="#L128">128</a></td><td>TUCKER:  I just need to get some sleep, Malcolm! Is that so hard to understand?</td></tr>
 
-  ANNOTATION
-     Later again, Trip is trying to sleep but Reed is
-     still doing dictation.
+<tr id="L129"><td><a href="#L129">129</a></td><td>REED:  We have less than nine days of oxygen left. It seems a waste to use it up sleeping.</td></tr>
 
-  REED
-     Captain Archer claims you told him you weren't
-     even aware that I was serving on Enterprise. I
-     find that difficult to believe, considering I
-     wrote you twice in the weeks prior to our
-     departure. Now, it is possible that you never
-     received those letters. You were, I believe, in
-     the process of moving back to Malaysia at the
-     time. But you must have spoken to Aunt Sherry
-     during that period, and I know she received my
-     letters. I would hate to go to my death thinking
-     that either of you felt I was trying to avoid
+<tr id="L130"><td><a href="#L130">130</a></td><td>TUCKER:  If I don't waste some oxygen sleeping, I'm going to start getting real cranky, and you don't want to spend your last nine days cooped up with me when I'm cranky. So turn that thing off and get some rest.</td></tr>
 
-  TUCKER
-     Malcolm! You've been at it for hours now. Don't
-     you think it's time to give it a rest?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L131"><td><a href="#L131">131</a></td><td>REED:  We're back.</td></tr>
 
-  REED
-     As I'm sure you must have heard that was my
-     esteemed colleague, Commander Charles Tucker.
-     Mister Tucker doesn't share my belief that it is
-     essential to say what must be said, to leave a
-     record, tie up loose ends. Mister Tucker is
-     labouring under the false hope that we are going
-     to be miraculously rescued before we both
-     suffocate.
+<tr id="L132"><td><a href="#L132">132</a></td><td>PHLOX:  Lie still, Lieutenant.</td></tr>
 
-  TUCKER
-     Mister and Mrs. Reed, I realise that you've just
-     begun a period of mourning and that I'll never get
-     an answer to this question, but I got to ask it
-     anyway. Was Malcolm always this cynical?
+<tr id="L133"><td><a href="#L133">133</a></td><td>REED:  What happened? How did we?</td></tr>
 
-  REED
-     In a few days, when the reality of this situation
-     actually begins to sink in, you might very well
-     decide you want to record some logs of your own.
-     You have my word, I will not interrupt you.
+<tr id="L134"><td><a href="#L134">134</a></td><td>ARCHER:  You're a very brave man, Malcolm. Commander Tucker's going to be fine, thanks to you.</td></tr>
 
-  TUCKER
-     I just need to get some sleep, Malcolm! Is that so
-     hard to understand?
+<tr id="L135"><td><a href="#L135">135</a></td><td>REED:  I'm afraid I don't understand.</td></tr>
 
-  REED
-     We have less than nine days of oxygen left. It
-     seems a waste to use it up sleeping.
+<tr id="L136"><td><a href="#L136">136</a></td><td>PHLOX:  Get some rest. There will be plenty of time to explain what happened in the morning. (the two men leave)</td></tr>
 
-  TUCKER
-     If I don't waste some oxygen sleeping, I'm going
-     to start getting real cranky, and you don't want
-     to spend your last nine days cooped up with me
-     when I'm cranky. So turn that thing off and get
-     some rest.
+<tr id="L137"><td><a href="#L137">137</a></td><td>REED:  Sub-Commander?</td></tr>
 
+<tr id="L138"><td><a href="#L138">138</a></td><td>T'POL:  How are you feeling?</td></tr>
 
-LOCATION--Sickbay
+<tr id="L139"><td><a href="#L139">139</a></td><td>REED:  I'd feel a lot better if I knew what was going on.</td></tr>
 
-  REED
-     We're back.
+<tr id="L140"><td><a href="#L140">140</a></td><td>T'POL:  Captain Archer would be quite annoyed with me if I told you of your heroics. I believe he's looking forward to doing that himself in the morning.</td></tr>
 
-  PHLOX
-     Lie still, Lieutenant.
+<tr id="L141"><td><a href="#L141">141</a></td><td>REED:  Heroics?</td></tr>
 
-  REED
-     What happened? How did we?
+<tr id="L142"><td><a href="#L142">142</a></td><td>T'POL:  I had no idea you could be so selfless in the face of such danger. Most males of your species would have given in to their fear.</td></tr>
 
-  ARCHER
-     You're a very brave man, Malcolm. Commander
-     Tucker's going to be fine, thanks to you.
+<tr id="L143"><td><a href="#L143">143</a></td><td>REED:  Well, since you're obviously not going to tell me what happened I suppose a simple good night will have to do.</td></tr>
 
-  REED
-     I'm afraid I don't understand.
+<tr id="L144"><td><a href="#L144">144</a></td><td>T'POL:  Vulcans can never ignore courage.</td></tr>
 
-  PHLOX
-     Get some rest. There will be plenty of time to
-     explain what happened in the morning. (the two men
-     leave)
+<tr id="L145"><td><a href="#L145">145</a></td><td>ANNOTATION: She sits on the bed and takes his hand.</td></tr>
 
-  REED
-     Sub-Commander?
+<tr id="L146"><td><a href="#L146">146</a></td><td>T'POL:   And this Vulcan will never ignore Lieutenant Malcolm Reed again.</td></tr>
 
-  T'POL
-     How are you feeling?
+<tr id="L147"><td><a href="#L147">147</a></td><td>REED:  I can't say I've ever ignored you, T'Pol. Is it all right if I call you T'Pol?</td></tr>
 
-  REED
-     I'd feel a lot better if I knew what was going on.
+<tr id="L148"><td><a href="#L148">148</a></td><td>T'POL:  Yes. May I call you Malcolm?</td></tr>
 
-  T'POL
-     Captain Archer would be quite annoyed with me if I
-     told you of your heroics. I believe he's looking
-     forward to doing that himself in the morning.
+<tr id="L149"><td><a href="#L149">149</a></td><td>REED:  I suppose so. But, if the truth be known, I've never much cared for the name Malcolm. Always seemed a bit too stuffy.</td></tr>
 
-  REED
-     Heroics?
+<tr id="L150"><td><a href="#L150">150</a></td><td>T'POL:  I think it's a lovely name. Mol-Kom is the Vulcan word for serenity.</td></tr>
 
-  T'POL
-     I had no idea you could be so selfless in the face
-     of such danger. Most males of your species would
-     have given in to their fear.
+<tr id="L151"><td><a href="#L151">151</a></td><td>REED:  Well, then, perhaps I won't change it. Pity, though. I was rather growing fond of the name Stinky. I can't believe you just did that.</td></tr>
 
-  REED
-     Well, since you're obviously not going to tell me
-     what happened I suppose a simple good night will
-     have to do.
+<tr id="L152"><td><a href="#L152">152</a></td><td>T'POL:  Did what?</td></tr>
 
-  T'POL
-     Vulcans can never ignore courage.
+<tr id="L153"><td><a href="#L153">153</a></td><td>REED:  You smiled. I saw you smile.</td></tr>
 
-  ANNOTATION
-     She sits on the bed and takes his hand.
+<tr id="L154"><td><a href="#L154">154</a></td><td>T'POL:  Vulcans don't smile.</td></tr>
 
-  T'POL
-     And this Vulcan will never ignore Lieutenant
-     Malcolm Reed again.
+<tr id="L155"><td><a href="#L155">155</a></td><td>REED:  This one does. I saw you.</td></tr>
 
-  REED
-     I can't say I've ever ignored you, T'Pol. Is it
-     all right if I call you T'Pol?
+<tr id="L156"><td><a href="#L156">156</a></td><td>ANNOTATION: T'Pol leans closer and closer.</td></tr>
 
-  T'POL
-     Yes. May I call you Malcolm?
+<tr id="L157"><td><a href="#L157">157</a></td><td>SOMEONE: T'POL You're mistaken.</td></tr>
 
-  REED
-     I suppose so. But, if the truth be known, I've
-     never much cared for the name Malcolm. Always
-     seemed a bit too stuffy.
+<tr id="L158"><td><a href="#L158">158</a></td><td>REED:  It was when I said Stinky, wasn't it? You smiled when I said Stinky. Good morning, Stinky. It's a lovely day,` isn't it, Stinky?</td></tr>
 
-  T'POL
-     I think it's a lovely name. Mol-Kom is the Vulcan
-     word for serenity.
+<tr id="L159"><td><a href="#L159">159</a></td><td>ANNOTATION: She laughs gently and then they almost kiss when a whistle sound goes off.</td></tr>
 
-  REED
-     Well, then, perhaps I won't change it. Pity,
-     though. I was rather growing fond of the name
-     Stinky. I can't believe you just did that.
+<tr id="L160"><td><a href="#L160">160</a></td><td>REED:  What's that?</td></tr>
 
-  T'POL
-     Did what?
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L161"><td><a href="#L161">161</a></td><td>TUCKER:  I got the receiver working but the transmitter's a lost cause. Who's Stinky?</td></tr>
 
-  REED
-     You smiled. I saw you smile.
+<tr id="L162"><td><a href="#L162">162</a></td><td>REED:  (sitting up) I beg your pardon?</td></tr>
 
-  T'POL
-     Vulcans don't smile.
+<tr id="L163"><td><a href="#L163">163</a></td><td>TUCKER:  You were talking in your sleep. You kept calling for some guy named Stinky.</td></tr>
 
-  REED
-     This one does. I saw you.
+<tr id="L164"><td><a href="#L164">164</a></td><td>REED:  You repaired the receiver. What is that? Is it a ship?</td></tr>
 
-  ANNOTATION
-     T'Pol leans closer and closer.
+<tr id="L165"><td><a href="#L165">165</a></td><td>TUCKER:  You know, the range is very limited. It's probably just white noise. The sound of the galaxy laughing at us.</td></tr>
 
-  SOMEONE
-     T'POL You're mistaken.
+<tr id="L166"><td><a href="#L166">166</a></td><td>ANNOTATION: the shuttlepod is hit, and shakes about</td></tr>
 
-  REED
-     It was when I said Stinky, wasn't it? You smiled
-     when I said Stinky. Good morning, Stinky. It's a
-     lovely day,` isn't it, Stinky?
+<tr id="L167"><td><a href="#L167">167</a></td><td>REED:  What the hell was that?</td></tr>
 
-  ANNOTATION
-     She laughs gently and then they almost kiss when a
-     whistle sound goes off.
+<tr id="L168"><td><a href="#L168">168</a></td><td>TUCKER:  I don't know, but it felt a little like whatever knocked out the sensor array.</td></tr>
 
-  REED
-     What's that?
+<tr id="L169"><td><a href="#L169">169</a></td><td>REED:  We're losing atmosphere. Pressure's down eight percent.</td></tr>
 
+<tr id="L170"><td><a href="#L170">170</a></td><td>TUCKER:  Help me. We've got to find the hole.</td></tr>
 
-LOCATION--Shuttlepod
+<tr id="L171"><td><a href="#L171">171</a></td><td>REED:  Without sensors it's not going to be easy to locate the breach.</td></tr>
 
-  TUCKER
-     I got the receiver working but the transmitter's a
-     lost cause. Who's Stinky?
+<tr id="L172"><td><a href="#L172">172</a></td><td>TUCKER:  Then use your ears.</td></tr>
 
-  REED
-     (sitting up) I beg your pardon?
+<tr id="L173"><td><a href="#L173">173</a></td><td>REED:  Pressure's down twenty two percent.</td></tr>
 
-  TUCKER
-     You were talking in your sleep. You kept calling
-     for some guy named Stinky.
+<tr id="L174"><td><a href="#L174">174</a></td><td>TUCKER:  The damn hole's too small.</td></tr>
 
-  REED
-     You repaired the receiver. What is that? Is it a
-     ship?
+<tr id="L175"><td><a href="#L175">175</a></td><td>REED:  Where is it?</td></tr>
 
-  TUCKER
-     You know, the range is very limited. It's probably
-     just white noise. The sound of the galaxy laughing
-     at us.
+<tr id="L176"><td><a href="#L176">176</a></td><td>ANNOTATION: Tucker rips open a ceiling panel.</td></tr>
 
-  ANNOTATION
-     the shuttlepod is hit, and shakes about
+<tr id="L177"><td><a href="#L177">177</a></td><td>REED:  What are you doing?</td></tr>
 
-  REED
-     What the hell was that?
+<tr id="L178"><td><a href="#L178">178</a></td><td>TUCKER:  It's nitrogen for the coolant tanks. Just give me a few seconds.</td></tr>
 
-  TUCKER
-     I don't know, but it felt a little like whatever
-     knocked out the sensor array.
+<tr id="L179"><td><a href="#L179">179</a></td><td>ANNOTATION: He fills the pod with opaque gas.</td></tr>
 
-  REED
-     We're losing atmosphere. Pressure's down eight
-     percent.
+<tr id="L180"><td><a href="#L180">180</a></td><td>TUCKER:  Now let's find that leak.</td></tr>
 
-  TUCKER
-     Help me. We've got to find the hole.
+<tr id="L181"><td><a href="#L181">181</a></td><td>ANNOTATION: Reed spots where the gas is being sucked out.</td></tr>
 
-  REED
-     Without sensors it's not going to be easy to
-     locate the breach.
+<tr id="L182"><td><a href="#L182">182</a></td><td>REED:  I got it. It's over here.</td></tr>
 
-  TUCKER
-     Then use your ears.
+<tr id="L183"><td><a href="#L183">183</a></td><td>TUCKER:  There's another one down here. Put your finger on it until we can figure out what to do.</td></tr>
 
-  REED
-     Pressure's down twenty two percent.
+<tr id="L184"><td><a href="#L184">184</a></td><td>REED:  We've got some valve sealant in storage bin three.</td></tr>
 
-  TUCKER
-     The damn hole's too small.
+<tr id="L185"><td><a href="#L185">185</a></td><td>TUCKER:  Have we got anything a little closer?</td></tr>
 
-  REED
-     Where is it?
+<tr id="L186"><td><a href="#L186">186</a></td><td>REED:  Do you mind passing your meat loaf?</td></tr>
 
-  ANNOTATION
-     Tucker rips open a ceiling panel.
+<tr id="L187"><td><a href="#L187">187</a></td><td>TUCKER:  What?</td></tr>
 
-  REED
-     What are you doing?
+<tr id="L188"><td><a href="#L188">188</a></td><td>ANNOTATION: The two food trays still have remains in them.</td></tr>
 
-  TUCKER
-     It's nitrogen for the coolant tanks. Just give me
-     a few seconds.
+<tr id="L189"><td><a href="#L189">189</a></td><td>REED:  I assume you've finished with it.</td></tr>
 
-  ANNOTATION
-     He fills the pod with opaque gas.
+<tr id="L190"><td><a href="#L190">190</a></td><td>ANNOTATION: Trip uses his feet to get the tray off the bench and push it over to Reed, who puts his boot into the mash and then uses it to block first his tiny hole and then the other one.</td></tr>
 
-  TUCKER
-     Now let's find that leak.
+<tr id="L191"><td><a href="#L191">191</a></td><td>TUCKER:  And you came close to criticising my choice of cuisine. Obviously, whatever hit us went clear through the pod.</td></tr>
 
-  ANNOTATION
-     Reed spots where the gas is being sucked out.
+<tr id="L192"><td><a href="#L192">192</a></td><td>ANNOTATION: Reed checks a readout.</td></tr>
 
-  REED
-     I got it. It's over here.
+<tr id="L193"><td><a href="#L193">193</a></td><td>REED:  I'm afraid it did more than just puncture the cabin, Commander. On it's way out it was kind enough to rupture one of the O2 cylinders.</td></tr>
 
-  TUCKER
-     There's another one down here. Put your finger on
-     it until we can figure out what to do.
+<tr id="L194"><td><a href="#L194">194</a></td><td>TUCKER:  Great. How much closer to oblivion are we?</td></tr>
 
-  REED
-     We've got some valve sealant in storage bin three.
+<tr id="L195"><td><a href="#L195">195</a></td><td>REED:  We've got less than two days of air left.</td></tr>
 
-  TUCKER
-     Have we got anything a little closer?
+<tr id="L196"><td><a href="#L196">196</a></td><td>ANNOTATION: Later, replacing the mash with proper sealant</td></tr>
 
-  REED
-     Do you mind passing your meat loaf?
+<tr id="L197"><td><a href="#L197">197</a></td><td>REED:  The skin of this pod is designed to deflect a meteor five times the size of this hole.</td></tr>
 
-  TUCKER
-     What?
+<tr id="L198"><td><a href="#L198">198</a></td><td>TUCKER:  In that case, I'd guess it wasn't a meteor. I wonder if something like it destroyed Enterprise.</td></tr>
 
-  ANNOTATION
-     The two food trays still have remains in them.
+<tr id="L199"><td><a href="#L199">199</a></td><td>REED:  We'll never know.</td></tr>
 
-  REED
-     I assume you've finished with it.
+<tr id="L200"><td><a href="#L200">200</a></td><td>TUCKER:  Always the optimist.</td></tr>
 
-  ANNOTATION
-     Trip uses his feet to get the tray off the bench
-     and push it over to Reed, who puts his boot into
-     the mash and then uses it to block first his tiny
-     hole and then the other one.
+<tr id="L201"><td><a href="#L201">201</a></td><td>REED:  We have forty hours of air left. What do you expect me to do, sit here and plan my wedding?</td></tr>
 
-  TUCKER
-     And you came close to criticising my choice of
-     cuisine. Obviously, whatever hit us went clear
-     through the pod.
+<tr id="L202"><td><a href="#L202">202</a></td><td>TUCKER:  I'm confident there'll be a Charles Tucker the fourth one day.</td></tr>
 
-  ANNOTATION
-     Reed checks a readout.
+<tr id="L203"><td><a href="#L203">203</a></td><td>REED:  Then maybe it's your wedding we should be planning. That's assuming we can find you a bride in the next day and a half. Any suggestions?</td></tr>
 
-  REED
-     I'm afraid it did more than just puncture the
-     cabin, Commander. On it's way out it was kind
-     enough to rupture one of the O2 cylinders.
+<tr id="L204"><td><a href="#L204">204</a></td><td>TUCKER:  There was a little bar in Mill Valley where all the Starfleet trainees used to go.</td></tr>
 
-  TUCKER
-     Great. How much closer to oblivion are we?
+<tr id="L205"><td><a href="#L205">205</a></td><td>REED:  The 602 Club.</td></tr>
 
-  REED
-     We've got less than two days of air left.
+<tr id="L206"><td><a href="#L206">206</a></td><td>TUCKER:  You know it?</td></tr>
 
-  ANNOTATION
-     Later, replacing the mash with proper sealant
+<tr id="L207"><td><a href="#L207">207</a></td><td>REED:  I was there more times than I can remember.</td></tr>
 
-  REED
-     The skin of this pod is designed to deflect a
-     meteor five times the size of this hole.
+<tr id="L208"><td><a href="#L208">208</a></td><td>TUCKER:  I met the girl of my dreams my first Friday night there. She was the one. There's no doubt about it. We had it all figured out. Where we'd live, how many kids we'd have. Ah, Ruby. Whatever happened to you?</td></tr>
 
-  TUCKER
-     In that case, I'd guess it wasn't a meteor. I
-     wonder if something like it destroyed Enterprise.
+<tr id="L209"><td><a href="#L209">209</a></td><td>REED:  Ruby? You don't mean the waitress Ruby?</td></tr>
 
-  REED
-     We'll never know.
+<tr id="L210"><td><a href="#L210">210</a></td><td>TUCKER:  You knew Ruby?</td></tr>
 
-  TUCKER
-     Always the optimist.
+<tr id="L211"><td><a href="#L211">211</a></td><td>REED:  I knew her more times than I can remember.</td></tr>
 
-  REED
-     We have forty hours of air left. What do you
-     expect me to do, sit here and plan my wedding?
+<tr id="L212"><td><a href="#L212">212</a></td><td>TUCKER:  Ouch.</td></tr>
 
-  TUCKER
-     I'm confident there'll be a Charles Tucker the
-     fourth one day.
+<tr id="L213"><td><a href="#L213">213</a></td><td>REED:  Seems we have more in common than we thought.</td></tr>
 
-  REED
-     Then maybe it's your wedding we should be
-     planning. That's assuming we can find you a bride
-     in the next day and a half. Any suggestions?
+<tr id="L214"><td><a href="#L214">214</a></td><td>TUCKER:  Yeah. (checks readout) Would another half day be worth freezing your butt off?</td></tr>
 
-  TUCKER
-     There was a little bar in Mill Valley where all
-     the Starfleet trainees used to go.
+<tr id="L215"><td><a href="#L215">215</a></td><td>REED:  What are you talking about?</td></tr>
 
-  REED
-     The 602 Club.
+<tr id="L216"><td><a href="#L216">216</a></td><td>TUCKER:  If we lower the thermostat in here to about minus-five centigrade, we should be able to use that power to enhance the efficiency of the atmosphere recyclers.</td></tr>
 
-  TUCKER
-     You know it?
+<tr id="L217"><td><a href="#L217">217</a></td><td>REED:  Our last two and a half days freezing versus our last two days toasty warm. What a delightful choice.</td></tr>
 
-  REED
-     I was there more times than I can remember.
+<tr id="L218"><td><a href="#L218">218</a></td><td>TUCKER:  I'd pick freezing. Another half day's another half day.</td></tr>
 
-  TUCKER
-     I met the girl of my dreams my first Friday night
-     there. She was the one. There's no doubt about it.
-     We had it all figured out. Where we'd live, how
-     many kids we'd have. Ah, Ruby. Whatever happened
-     to you?
+<tr id="L219"><td><a href="#L219">219</a></td><td>REED:  Freezing it is then.</td></tr>
 
-  REED
-     Ruby? You don't mean the waitress Ruby?
+<tr id="L220"><td><a href="#L220">220</a></td><td>ANNOTATION: He hangs up a mirror.</td></tr>
 
-  TUCKER
-     You knew Ruby?
+<tr id="L221"><td><a href="#L221">221</a></td><td>TUCKER:  And just what are you doing?</td></tr>
 
-  REED
-     I knew her more times than I can remember.
+<tr id="L222"><td><a href="#L222">222</a></td><td>REED:  An officer at his best is always well-groomed.</td></tr>
 
-  TUCKER
-     Ouch.
+<tr id="L223"><td><a href="#L223">223</a></td><td>ANNOTATION: And starts shaving.</td></tr>
 
-  REED
-     Seems we have more in common than we thought.
+<tr id="L224"><td><a href="#L224">224</a></td><td>TUCKER:  Nice to see you're developing a more positive attitude.</td></tr>
 
-  TUCKER
-     Yeah. (checks readout) Would another half day be
-     worth freezing your butt off?
+<tr id="L225"><td><a href="#L225">225</a></td><td>REED:  Actually, I was thinking about what our corpses would look like when they're eventually found. With no air in the pod, we should remain in fairly good condition.</td></tr>
 
-  REED
-     What are you talking about?
+<tr id="L226"><td><a href="#L226">226</a></td><td>TUCKER:  Charming, but you're forgetting one thing, Malcolm.</td></tr>
 
-  TUCKER
-     If we lower the thermostat in here to about
-     minus-five centigrade, we should be able to use
-     that power to enhance the efficiency of the
-     atmosphere recyclers.
+<tr id="L227"><td><a href="#L227">227</a></td><td>REED:  What's that?</td></tr>
 
-  REED
-     Our last two and a half days freezing versus our
-     last two days toasty warm. What a delightful
-     choice.
+<tr id="L228"><td><a href="#L228">228</a></td><td>TUCKER:  If I remember my honours biology course correctly, your hair and nails keep growing for quite a while after you're dead. I'm pretty sure that includes your beard.</td></tr>
 
-  TUCKER
-     I'd pick freezing. Another half day's another half
-     day.
+<tr id="L229"><td><a href="#L229">229</a></td><td>ANNOTATION: Reed turns off the shaver. By the way, that is false. It just that the skin shrinks slightly, creating that illusion.</td></tr>
 
-  REED
-     Freezing it is then.
+<tr id="L230"><td><a href="#L230">230</a></td><td>REED:  Thanks.</td></tr>
 
-  ANNOTATION
-     He hangs up a mirror.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L231"><td><a href="#L231">231</a></td><td>ARCHER:  Come in.</td></tr>
 
-  TUCKER
-     And just what are you doing?
+<tr id="L232"><td><a href="#L232">232</a></td><td>T'POL:  I've analyzed the scans we took of the Tesnian ship right before it crashed. I believe they were hit by a micro-singularity.</td></tr>
 
-  REED
-     An officer at his best is always well-groomed.
+<tr id="L233"><td><a href="#L233">233</a></td><td>ARCHER:  You still chasing gremlins?</td></tr>
 
-  ANNOTATION
-     And starts shaving.
+<tr id="L234"><td><a href="#L234">234</a></td><td>T'POL:  This is no myth, Captain. Three of the singularities also hit Enterprise. They collided with our hull plating here, here and here.</td></tr>
 
-  TUCKER
-     Nice to see you're developing a more positive
-     attitude.
+<tr id="L235"><td><a href="#L235">235</a></td><td>ARCHER:  You're telling me these are tiny black holes?</td></tr>
 
-  REED
-     Actually, I was thinking about what our corpses
-     would look like when they're eventually found.
-     With no air in the pod, we should remain in fairly
-     good condition.
+<tr id="L236"><td><a href="#L236">236</a></td><td>T'POL:  They were. The dispersal pattern suggests they dissipated on impact. This could be a significant discovery, Captain. If we could get quantum sensor readings of the three impact points, we could authenticate our findings.</td></tr>
 
-  TUCKER
-     Charming, but you're forgetting one thing,
-     Malcolm.
+<tr id="L237"><td><a href="#L237">237</a></td><td>ARCHER:  I'd be a little less concerned with winning the Nobel Prize right now and a little more concerned with Trip and Malcolm. Their shuttlepod doesn't have the hull plating we do. They could be in for a rough ride when they get back to the asteroid field. Better hail them. Agree to a new rendezvous point.</td></tr>
 
-  REED
-     What's that?
+<tr id="L238"><td><a href="#L238">238</a></td><td>T'POL:  I never intended to suggest that our crewmembers were less important than a scientific discovery. Even one of this historic magnitude.</td></tr>
 
-  TUCKER
-     If I remember my honours biology course correctly,
-     your hair and nails keep growing for quite a while
-     after you're dead. I'm pretty sure that includes
-     your beard.
+<tr id="L239"><td><a href="#L239">239</a></td><td>ARCHER:  Time's a-wasting.</td></tr>
 
-  ANNOTATION
-     Reed turns off the shaver. By the way, that is
-     false. It just that the skin shrinks slightly,
-     creating that illusion.
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: It's now minus 5C, baseball caps are firmly on and jackets zipped up to the chin.</td></tr>
 
-  REED
-     Thanks.
+<tr id="L241"><td><a href="#L241">241</a></td><td>REED:  My dearest Deborah. By this time I'm certain you've learned of the tragedy that befell the starship Enterprise. You've also undoubtedly learned that my colleague, Commander Charles Tucker, and I did manage to survive for a few days after the accident. It's during that brief time that I've chosen to correspond with you. Although our relationship was short-lived, and at times tumultuous, I can't help but picture your beautiful smile. It gives me great comfort. Think of me from time to time. Cordially, Malcolm.</td></tr>
 
+<tr id="L242"><td><a href="#L242">242</a></td><td>ANNOTATION: There is static on the comm.</td></tr>
 
-LOCATION--Ready room
+<tr id="L243"><td><a href="#L243">243</a></td><td>REED:  A ship?</td></tr>
 
-  ARCHER
-     Come in.
+<tr id="L244"><td><a href="#L244">244</a></td><td>TUCKER:  It's a little more modulated than the last one, but it could be just a random gamma-ray burst.</td></tr>
 
-  T'POL
-     I've analyzed the scans we took of the Tesnian
-     ship right before it crashed. I believe they were
-     hit by a micro-singularity.
+<tr id="L245"><td><a href="#L245">245</a></td><td>REED:  My dearest Rochelle. By this time I'm certain you've learned of the tragedy</td></tr>
 
-  ARCHER
-     You still chasing gremlins?
+<tr id="L246"><td><a href="#L246">246</a></td><td>TUCKER:  Wouldn't it be easier just to record one message and then add the Dear Whoever afterward? This is your fifth or sixth identical letter.</td></tr>
 
-  T'POL
-     This is no myth, Captain. Three of the
-     singularities also hit Enterprise. They collided
-     with our hull plating here, here and here.
+<tr id="L247"><td><a href="#L247">247</a></td><td>REED:  That's not true. There have been subtle differences. I would never refer to Rochelle as having a beautiful smile. With her, it was the eyes.</td></tr>
 
-  ARCHER
-     You're telling me these are tiny black holes?
+<tr id="L248"><td><a href="#L248">248</a></td><td>TUCKER:  Travis and Hoshi couldn't have been more than twenty four or twenty five years old.</td></tr>
 
-  T'POL
-     They were. The dispersal pattern suggests they
-     dissipated on impact. This could be a significant
-     discovery, Captain. If we could get quantum sensor
-     readings of the three impact points, we could
-     authenticate our findings.
+<tr id="L249"><td><a href="#L249">249</a></td><td>REED:  If the Captain were here with us now I wonder if he'd feel guilty about bringing them on this mission.</td></tr>
 
-  ARCHER
-     I'd be a little less concerned with winning the
-     Nobel Prize right now and a little more concerned
-     with Trip and Malcolm. Their shuttlepod doesn't
-     have the hull plating we do. They could be in for
-     a rough ride when they get back to the asteroid
-     field. Better hail them. Agree to a new rendezvous
-     point.
+<tr id="L250"><td><a href="#L250">250</a></td><td>TUCKER:  Not for a minute. They died doing what they loved.</td></tr>
 
-  T'POL
-     I never intended to suggest that our crewmembers
-     were less important than a scientific discovery.
-     Even one of this historic magnitude.
+<tr id="L251"><td><a href="#L251">251</a></td><td>REED:  I don't remember Hoshi loving much about being in deep space.</td></tr>
 
-  ARCHER
-     Time's a-wasting.
+<tr id="L252"><td><a href="#L252">252</a></td><td>TUCKER:  She was coming along. She saved our asses on more than one occasion. I plan on letting her family know just how essential she was.</td></tr>
 
+<tr id="L253"><td><a href="#L253">253</a></td><td>REED:  Sounds to me like you do have some letters to record.</td></tr>
 
-LOCATION--Shuttlepod
+<tr id="L254"><td><a href="#L254">254</a></td><td>TUCKER:  I'll wait to tell them in person.</td></tr>
 
-  ANNOTATION
-     It's now minus 5C, baseball caps are firmly on and
-     jackets zipped up to the chin.
+<tr id="L255"><td><a href="#L255">255</a></td><td>REED:  You know, your treacly optimism is beginning to get just a little bit tiresome.</td></tr>
 
-  REED
-     My dearest Deborah. By this time I'm certain
-     you've learned of the tragedy that befell the
-     starship Enterprise. You've also undoubtedly
-     learned that my colleague, Commander Charles
-     Tucker, and I did manage to survive for a few days
-     after the accident. It's during that brief time
-     that I've chosen to correspond with you. Although
-     our relationship was short-lived, and at times
-     tumultuous, I can't help but picture your
-     beautiful smile. It gives me great comfort. Think
-     of me from time to time. Cordially, Malcolm.
+<tr id="L256"><td><a href="#L256">256</a></td><td>TUCKER:  Unlike your heartfelt letters of farewell to half the girls in San Francisco?</td></tr>
 
-  ANNOTATION
-     There is static on the comm.
+<tr id="L257"><td><a href="#L257">257</a></td><td>REED:  At least I'm capable of accepting our fate. We're going to be dead in about thirty three33 hours. Whether our beards continue to grow or not is of no concern to me. We will be dead! And unless some ship happens to cross our path, our bearded bodies will be discovered in about three or four years. Is that optimistic enough for you?</td></tr>
 
-  REED
-     A ship?
+<tr id="L258"><td><a href="#L258">258</a></td><td>TUCKER:  What's your problem with having a little hope?</td></tr>
 
-  TUCKER
-     It's a little more modulated than the last one,
-     but it could be just a random gamma-ray burst.
+<tr id="L259"><td><a href="#L259">259</a></td><td>REED:  What's your problem with facing the truth?</td></tr>
 
-  REED
-     My dearest Rochelle. By this time I'm certain
-     you've learned of the tragedy
+<tr id="L260"><td><a href="#L260">260</a></td><td>TUCKER:  You're a regular grim reaper, Malcolm. Anyone ever tell you that? Well, if this little trip is a death sentence, then it would seem to me we're entitled to a last meal. What'll it be? I'm afraid our selection is somewhat limited.</td></tr>
 
-  TUCKER
-     Wouldn't it be easier just to record one message
-     and then add the Dear Whoever afterward? This is
-     your fifth or sixth identical letter.
+<tr id="L261"><td><a href="#L261">261</a></td><td>REED:  I'm not hungry.</td></tr>
 
-  REED
-     That's not true. There have been subtle
-     differences. I would never refer to Rochelle as
-     having a beautiful smile. With her, it was the
-     eyes.
+<tr id="L262"><td><a href="#L262">262</a></td><td>ANNOTATION: Tucker gets out the bourbon.</td></tr>
 
-  TUCKER
-     Travis and Hoshi couldn't have been more than
-     twenty four or twenty five years old.
+<tr id="L263"><td><a href="#L263">263</a></td><td>TUCKER:  Well, then how about a drink?</td></tr>
 
-  REED
-     If the Captain were here with us now I wonder if
-     he'd feel guilty about bringing them on this
-     mission.
+<tr id="L264"><td><a href="#L264">264</a></td><td>REED:  I don't drink on duty.</td></tr>
 
-  TUCKER
-     Not for a minute. They died doing what they loved.
+<tr id="L265"><td><a href="#L265">265</a></td><td>TUCKER:  Are you serious? We're dead men, remember? What's the matter, Lieutenant? Are you afraid the autopsy will show your blood-alcohol level was too high to pilot a shuttle? (</td></tr>
 
-  REED
-     I don't remember Hoshi loving much about being in
-     deep space.
+<tr id="L266"><td><a href="#L266">266</a></td><td>SOMEONE: Tucker gets out glasses and pours two slugs.)</td></tr>
 
-  TUCKER
-     She was coming along. She saved our asses on more
-     than one occasion. I plan on letting her family
-     know just how essential she was.
+<tr id="L267"><td><a href="#L267">267</a></td><td>TUCKER:  Live a little. That's an order.</td></tr>
 
-  REED
-     Sounds to me like you do have some letters to
-     record.
+<tr id="L268"><td><a href="#L268">268</a></td><td>ANNOTATION: He raises a floor panel into a low table, gets something out from underneath, puts a wick in it and lights it.</td></tr>
 
-  TUCKER
-     I'll wait to tell them in person.
+<tr id="L269"><td><a href="#L269">269</a></td><td>REED:  Do you really think that's going to provide any heat?</td></tr>
 
-  REED
-     You know, your treacly optimism is beginning to
-     get just a little bit tiresome.
+<tr id="L270"><td><a href="#L270">270</a></td><td>TUCKER:  The bourbon'll provide the heat. The candle's just for mood. To the brave men and women of the starship Enterprise.</td></tr>
 
-  TUCKER
-     Unlike your heartfelt letters of farewell to half
-     the girls in San Francisco?
+<tr id="L271"><td><a href="#L271">271</a></td><td>REED:  You know that's going to consume oxygen, don't you?</td></tr>
 
-  REED
-     At least I'm capable of accepting our fate. We're
-     going to be dead in about thirty three33 hours.
-     Whether our beards continue to grow or not is of
-     no concern to me. We will be dead! And unless some
-     ship happens to cross our path, our bearded bodies
-     will be discovered in about three or four years.
-     Is that optimistic enough for you?
+<tr id="L272"><td><a href="#L272">272</a></td><td>TUCKER:  We'll probably be dead five or six minutes earlier than we would have been. I can live with that. Anyway, it seems to me as far as you're concerned, the sooner the better.</td></tr>
 
-  TUCKER
-     What's your problem with having a little hope?
+<tr id="L273"><td><a href="#L273">273</a></td><td>REED:  Is that really how you see me? The eternal pessimist? The grim reaper? I don't want to die. What makes you think I want to die?</td></tr>
 
-  REED
-     What's your problem with facing the truth?
+<tr id="L274"><td><a href="#L274">274</a></td><td>TUCKER:  Because ever since we saw Enterprise spread across that asteroid, you've done nothing but write your own obituary.</td></tr>
 
-  TUCKER
-     You're a regular grim reaper, Malcolm. Anyone ever
-     tell you that? Well, if this little trip is a
-     death sentence, then it would seem to me we're
-     entitled to a last meal. What'll it be? I'm afraid
-     our selection is somewhat limited.
+<tr id="L275"><td><a href="#L275">275</a></td><td>REED:  I lost nearly everyone I cared about on that ship. Those girls I talked about. Rochelle, Deborah, Catelin. None of them worked out because I could never get very close to them. Never got very close to my family either, for that matter, not that it's any business of yours. But with the crew of the Enterprise, it was different. I was really starting to feel comfortable with them, and now the only one that's left thinks I'm the bloody angel of death.</td></tr>
 
-  REED
-     I'm not hungry.
+<tr id="L276"><td><a href="#L276">276</a></td><td>ANNOTATION: Tucker blows out candle.</td></tr>
 
-  ANNOTATION
-     Tucker gets out the bourbon.
+<tr id="L277"><td><a href="#L277">277</a></td><td>TUCKER:  All of a sudden, five or six more minutes sounds kind of nice.</td></tr>
 
-  TUCKER
-     Well, then how about a drink?
+<tr id="L278"><td><a href="#L278">278</a></td><td>ANNOTATION: Three quarters of a bottle later, speech is slurred and thermal blankets are wrapped around bodies.</td></tr>
 
-  REED
-     I don't drink on duty.
+<tr id="L279"><td><a href="#L279">279</a></td><td>REED:  Does that sound modulated enough for you?</td></tr>
 
-  TUCKER
-     Are you serious? We're dead men, remember? What's
-     the matter, Lieutenant? Are you afraid the autopsy
-     will show your blood-alcohol level was too high to
-     pilot a shuttle? (
+<tr id="L280"><td><a href="#L280">280</a></td><td>TUCKER:  Modulated?</td></tr>
 
-  SOMEONE
-     Tucker gets out glasses and pours two slugs.)
+<tr id="L281"><td><a href="#L281">281</a></td><td>REED:  The radio. Or is it just the galaxy giggling at us again?</td></tr>
 
-  TUCKER
-     Live a little. That's an order.
+<tr id="L282"><td><a href="#L282">282</a></td><td>ANNOTATION: He takes another drink.</td></tr>
 
-  ANNOTATION
-     He raises a floor panel into a low table, gets
-     something out from underneath, puts a wick in it
-     and lights it.
+<tr id="L283"><td><a href="#L283">283</a></td><td>TUCKER:  It can giggle all it wants, but the galaxy's not getting any of our bourbon.</td></tr>
 
-  REED
-     Do you really think that's going to provide any
-     heat?
+<tr id="L284"><td><a href="#L284">284</a></td><td>SOMEONE: Deleted scene</td></tr>
 
-  TUCKER
-     The bourbon'll provide the heat. The candle's just
-     for mood. To the brave men and women of the
-     starship Enterprise.
+<tr id="L285"><td><a href="#L285">285</a></td><td>REED:  You know, it's funny. I was just beginning to think that Captain Archer was invincible, you know? Just serving on the same starship as him made me feel safe for some reason. He had a knack for getting us out of trouble, didn't he.</td></tr>
 
-  REED
-     You know that's going to consume oxygen, don't
-     you?
+<tr id="L286"><td><a href="#L286">286</a></td><td>TUCKER:  Yeah, he's always been that way. When I first taught him to dive, it really got on my nerves. He'd come down to the Keys at least once a month, and whatever it was I was teaching him, he'd get it the first time. Did you ever try clearing your mask?</td></tr>
 
-  TUCKER
-     We'll probably be dead five or six minutes earlier
-     than we would have been. I can live with that.
-     Anyway, it seems to me as far as you're concerned,
-     the sooner the better.
+<tr id="L287"><td><a href="#L287">287</a></td><td>REED:  Clear my mask?</td></tr>
 
-  REED
-     Is that really how you see me? The eternal
-     pessimist? The grim reaper? I don't want to die.
-     What makes you think I want to die?
+<tr id="L288"><td><a href="#L288">288</a></td><td>TUCKER:  Everybody's got to do it before they get certified. You go down and the instructor fills your mask with water, and you have to clear it by blowing out through your nose. Nobody likes to do it.</td></tr>
 
-  TUCKER
-     Because ever since we saw Enterprise spread across
-     that asteroid, you've done nothing but write your
-     own obituary.
+<tr id="L289"><td><a href="#L289">289</a></td><td>REED:  The Captain?</td></tr>
 
-  REED
-     I lost nearly everyone I cared about on that ship.
-     Those girls I talked about. Rochelle, Deborah,
-     Catelin. None of them worked out because I could
-     never get very close to them. Never got very close
-     to my family either, for that matter, not that
-     it's any business of yours. But with the crew of
-     the Enterprise, it was different. I was really
-     starting to feel comfortable with them, and now
-     the only one that's left thinks I'm the bloody
-     angel of death.
+<tr id="L290"><td><a href="#L290">290</a></td><td>TUCKER:  Got it the first time. Filled it with water a second time just so he could clear it again. I took him on a night dive once into some caves I'd been to a hundred times before, and for some reason I got a little lost. So what does Archer do? He swims ahead of me and finds a way out.</td></tr>
 
-  ANNOTATION
-     Tucker blows out candle.
+<tr id="L291"><td><a href="#L291">291</a></td><td>REED:  I can't imagine why you'd have a problem with that.</td></tr>
 
-  TUCKER
-     All of a sudden, five or six more minutes sounds
-     kind of nice.
+<tr id="L292"><td><a href="#L292">292</a></td><td>TUCKER:  I was the instructor. I'd been diving all my life. Then big Mister Starfleet comes down and does everything faster and better than I could. That's when I decided to introduce him to old Waldo.</td></tr>
 
-  ANNOTATION
-     Three quarters of a bottle later, speech is
-     slurred and thermal blankets are wrapped around
-     bodies.
+<tr id="L293"><td><a href="#L293">293</a></td><td>REED:  And who was that?</td></tr>
 
-  REED
-     Does that sound modulated enough for you?
+<tr id="L294"><td><a href="#L294">294</a></td><td>TUCKER:  A green moray. It's said he's thirty years old. Must've been two and a half metres long. So I took the Captain into Waldo's hole. Told him there was some beautiful starfish inside, and he reached in. Damned if old Waldo didn't take hold of his forearm.</td></tr>
 
-  TUCKER
-     Modulated?
+<tr id="L295"><td><a href="#L295">295</a></td><td>REED:  A moray eel? Are you out of your mind.</td></tr>
 
-  REED
-     The radio. Or is it just the galaxy giggling at us
-     again?
+<tr id="L296"><td><a href="#L296">296</a></td><td>ANNOTATION: Reed is still drinking.</td></tr>
 
-  ANNOTATION
-     He takes another drink.
+<tr id="L297"><td><a href="#L297">297</a></td><td>TUCKER:  I was breaking just about every rule in the book, but he was wearing titanium mesh. I figures the worst thing that could happen would be that Waldo would scare him a little. He deserved to have the piss taken out of him.</td></tr>
 
-  TUCKER
-     It can giggle all it wants, but the galaxy's not
-     getting any of our bourbon.
+<tr id="L298"><td><a href="#L298">298</a></td><td>REED:  So?</td></tr>
 
-  SOMEONE
-     Deleted scene
+<tr id="L299"><td><a href="#L299">299</a></td><td>TUCKER:  No such luck. He pulled Waldo clear out of the hole. I don't think I'd ever seen that eel's tail before. He found some pressure point under it's lower jaw, right about here. Waldo just let go. Went back down his hole.</td></tr>
 
-  REED
-     You know, it's funny. I was just beginning to
-     think that Captain Archer was invincible, you
-     know? Just serving on the same starship as him
-     made me feel safe for some reason. He had a knack
-     for getting us out of trouble, didn't he.
+<tr id="L300"><td><a href="#L300">300</a></td><td>REED:  That must have been the last time the Captain ever went diving with you.</td></tr>
 
-  TUCKER
-     Yeah, he's always been that way. When I first
-     taught him to dive, it really got on my nerves.
-     He'd come down to the Keys at least once a month,
-     and whatever it was I was teaching him, he'd get
-     it the first time. Did you ever try clearing your
-     mask?
+<tr id="L301"><td><a href="#L301">301</a></td><td>TUCKER:  That's the thing. He found it all funnier than I did. He took me out to dinner that night. Steaks, lobsters, Kentucky bourbon.</td></tr>
 
-  REED
-     Clear my mask?
+<tr id="L302"><td><a href="#L302">302</a></td><td>REED:  Hey, what do you think of T'Pol, hmm? Do you think she's pretty?</td></tr>
 
-  TUCKER
-     Everybody's got to do it before they get
-     certified. You go down and the instructor fills
-     your mask with water, and you have to clear it by
-     blowing out through your nose. Nobody likes to do
-     it.
+<tr id="L303"><td><a href="#L303">303</a></td><td>TUCKER:  T'Pol? Are you serious?</td></tr>
 
-  REED
-     The Captain?
+<tr id="L304"><td><a href="#L304">304</a></td><td>REED:  Well, she's a woman, you know? I think she's pretty.</td></tr>
 
-  TUCKER
-     Got it the first time. Filled it with water a
-     second time just so he could clear it again. I
-     took him on a night dive once into some caves I'd
-     been to a hundred times before, and for some
-     reason I got a little lost. So what does Archer
-     do? He swims ahead of me and finds a way out.
+<tr id="L305"><td><a href="#L305">305</a></td><td>TUCKER:  You've had too much to drink.</td></tr>
 
-  REED
-     I can't imagine why you'd have a problem with
-     that.
+<tr id="L306"><td><a href="#L306">306</a></td><td>REED:  Don't tell me you've never looked at her, you know, in that way.</td></tr>
 
-  TUCKER
-     I was the instructor. I'd been diving all my life.
-     Then big Mister Starfleet comes down and does
-     everything faster and better than I could. That's
-     when I decided to introduce him to old Waldo.
+<tr id="L307"><td><a href="#L307">307</a></td><td>TUCKER:  Nah, she's a Vulcan.</td></tr>
 
-  REED
-     And who was that?
+<tr id="L308"><td><a href="#L308">308</a></td><td>REED:  Well, I think she's pretty.</td></tr>
 
-  TUCKER
-     A green moray. It's said he's thirty years old.
-     Must've been two and a half metres long. So I took
-     the Captain into Waldo's hole. Told him there was
-     some beautiful starfish inside, and he reached in.
-     Damned if old Waldo didn't take hold of his
-     forearm.
+<tr id="L309"><td><a href="#L309">309</a></td><td>TUCKER:  Oh, God.</td></tr>
 
-  REED
-     A moray eel? Are you out of your mind.
+<tr id="L310"><td><a href="#L310">310</a></td><td>REED:  You ever noticed her bum?</td></tr>
 
-  ANNOTATION
-     Reed is still drinking.
+<tr id="L311"><td><a href="#L311">311</a></td><td>TUCKER:  What?</td></tr>
 
-  TUCKER
-     I was breaking just about every rule in the book,
-     but he was wearing titanium mesh. I figures the
-     worst thing that could happen would be that Waldo
-     would scare him a little. He deserved to have the
-     piss taken out of him.
+<tr id="L312"><td><a href="#L312">312</a></td><td>REED:  Her bum. She's got an awfully nice bum.</td></tr>
 
-  REED
-     So?
+<tr id="L313"><td><a href="#L313">313</a></td><td>TUCKER:  To Sub-Commander T'Pol.</td></tr>
 
-  TUCKER
-     No such luck. He pulled Waldo clear out of the
-     hole. I don't think I'd ever seen that eel's tail
-     before. He found some pressure point under it's
-     lower jaw, right about here. Waldo just let go.
-     Went back down his hole.
+<tr id="L314"><td><a href="#L314">314</a></td><td>REED:  Awfully nice!</td></tr>
 
-  REED
-     That must have been the last time the Captain ever
-     went diving with you.
+<tr id="L315"><td><a href="#L315">315</a></td><td>ANNOTATION: The comm. crackles again.</td></tr>
 
-  TUCKER
-     That's the thing. He found it all funnier than I
-     did. He took me out to dinner that night. Steaks,
-     lobsters, Kentucky bourbon.
+<tr id="L316"><td><a href="#L316">316</a></td><td>REED:  It's probably nothing, right?</td></tr>
 
-  REED
-     Hey, what do you think of T'Pol, hmm? Do you think
-     she's pretty?
+<tr id="L317"><td><a href="#L317">317</a></td><td>ANNOTATION: Tucker scrambles into the pilot's seat.</td></tr>
 
-  TUCKER
-     T'Pol? Are you serious?
+<tr id="L318"><td><a href="#L318">318</a></td><td>TUCKER:  It's definitely not nothing.</td></tr>
 
-  REED
-     Well, she's a woman, you know? I think she's
-     pretty.
+<tr id="L319"><td><a href="#L319">319</a></td><td>REED:  Well then, that means it's something. What is it? Well, is it something or someone, because if it's someone</td></tr>
 
-  TUCKER
-     You've had too much to drink.
+<tr id="L320"><td><a href="#L320">320</a></td><td>TUCKER:  Shush!</td></tr>
 
-  REED
-     Don't tell me you've never looked at her, you
-     know, in that way.
+<tr id="L321"><td><a href="#L321">321</a></td><td>REED:  Sorry.</td></tr>
 
-  TUCKER
-     Nah, she's a Vulcan.
+<tr id="L322"><td><a href="#L322">322</a></td><td>TUCKER:  Definitely someone.</td></tr>
 
-  REED
-     Well, I think she's pretty.
+<tr id="L323"><td><a href="#L323">323</a></td><td>REED:  We have no way to respond, do we. This is like the plane flying over the desert island in a lost-at-sea movie.</td></tr>
 
-  TUCKER
-     Oh, God.
+<tr id="L324"><td><a href="#L324">324</a></td><td>TUCKER:  Malcolm!</td></tr>
 
-  REED
-     You ever noticed her bum?
+<tr id="L325"><td><a href="#L325">325</a></td><td>REED:  Sorry. Happy endings. I must think happy endings.</td></tr>
 
-  TUCKER
-     What?
+<tr id="L326"><td><a href="#L326">326</a></td><td>HOSHI [OC}:  Shuttlepod one, this is Enterprise. Please respond.</td></tr>
 
-  REED
-     Her bum. She's got an awfully nice bum.
+<tr id="L327"><td><a href="#L327">327</a></td><td>TUCKER:  That's Hoshi!</td></tr>
 
-  TUCKER
-     To Sub-Commander T'Pol.
+<tr id="L328"><td><a href="#L328">328</a></td><td>HOSHI [OC]:  Transmitting new co-ordinates.</td></tr>
 
-  REED
-     Awfully nice!
+<tr id="L329"><td><a href="#L329">329</a></td><td>TUCKER:  That's impossible!</td></tr>
 
-  ANNOTATION
-     The comm. crackles again.
+<tr id="L330"><td><a href="#L330">330</a></td><td>REED:  Don't be so pessimistic. It's not impossible. It's Hoshi. They're okay. Enterprise is okay. It's Hoshi!</td></tr>
 
-  REED
-     It's probably nothing, right?
+<tr id="L331"><td><a href="#L331">331</a></td><td>HOSHI [OC]:  Adjust your heading to the new coordinates. We will rendezvous in two days. Commander and Lieutenant, please respond.</td></tr>
 
-  ANNOTATION
-     Tucker scrambles into the pilot's seat.
+<tr id="L332"><td><a href="#L332">332</a></td><td>REED:  Rendezvous. What a beautiful word. What's wrong?</td></tr>
 
-  TUCKER
-     It's definitely not nothing.
+<tr id="L333"><td><a href="#L333">333</a></td><td>TUCKER:  They're still two days away.</td></tr>
 
-  REED
-     Well then, that means it's something. What is it?
-     Well, is it something or someone, because if it's
-     someone
+<tr id="L334"><td><a href="#L334">334</a></td><td>REED:  And we only have a little more than one day's air left.</td></tr>
 
-  TUCKER
-     Shush!
+<tr id="L335"><td><a href="#L335">335</a></td><td>TUCKER:  And no way to tell them to get here sooner.</td></tr>
 
-  REED
-     Sorry.
+<tr id="L336"><td><a href="#L336">336</a></td><td>ANNOTATION: Later, and the pair have lost a lot of their body heat thanks to the alcohol.</td></tr>
 
-  TUCKER
-     Definitely someone.
+<tr id="L337"><td><a href="#L337">337</a></td><td>TUCKER:  Are you sure you got the coordinates right?</td></tr>
 
-  REED
-     We have no way to respond, do we. This is like the
-     plane flying over the desert island in a
-     lost-at-sea movie.
+<tr id="L338"><td><a href="#L338">338</a></td><td>REED:  Yes, not that it matters.</td></tr>
 
-  TUCKER
-     Malcolm!
+<tr id="L339"><td><a href="#L339">339</a></td><td>TUCKER:  Lieutenant.</td></tr>
 
-  REED
-     Sorry. Happy endings. I must think happy endings.
+<tr id="L340"><td><a href="#L340">340</a></td><td>REED:  They're probably travelling at what, warp two, warp three? Compared to them, we're like a garden snail. Where we go and how fast we get there is irrelevant.</td></tr>
 
-  HOSHI [OC}
-     Shuttlepod one, this is Enterprise. Please
-     respond.
+<tr id="L341"><td><a href="#L341">341</a></td><td>TUCKER:  If I purge the CO2 filters it'll give us a little more air.</td></tr>
 
-  TUCKER
-     That's Hoshi!
+<tr id="L342"><td><a href="#L342">342</a></td><td>REED:  How much? An hour's worth?</td></tr>
 
-  HOSHI [OC]
-     Transmitting new co-ordinates.
+<tr id="L343"><td><a href="#L343">343</a></td><td>TUCKER:  Probably less.</td></tr>
 
-  TUCKER
-     That's impossible!
+<tr id="L344"><td><a href="#L344">344</a></td><td>REED:  Great. So when they reach us in two days we'll have been out of air for eleven hours. You ever try holding your breath for eleven hours?</td></tr>
 
-  REED
-     Don't be so pessimistic. It's not impossible. It's
-     Hoshi. They're okay. Enterprise is okay. It's
-     Hoshi!
+<tr id="L345"><td><a href="#L345">345</a></td><td>TUCKER:  A train leaves New York at three a.m. heading west, while another leaves Chicago at four thirty heading east. I never could figure those out.</td></tr>
 
-  HOSHI [OC]
-     Adjust your heading to the new coordinates. We
-     will rendezvous in two days. Commander and
-     Lieutenant, please respond.
+<tr id="L346"><td><a href="#L346">346</a></td><td>REED:  Enterprise is going to wonder why we haven't responded, right? Maybe they'll be concerned and increase their speed.</td></tr>
 
-  REED
-     Rendezvous. What a beautiful word. What's wrong?
+<tr id="L347"><td><a href="#L347">347</a></td><td>TUCKER:  Maybe, but if we really want to get them to go to high warp we're going to have to attract their attention. Something a little more dramatic than not answering their hails.</td></tr>
 
-  TUCKER
-     They're still two days away.
+<tr id="L348"><td><a href="#L348">348</a></td><td>REED:  Can they see us on their sensors?</td></tr>
 
-  REED
-     And we only have a little more than one day's air
-     left.
+<tr id="L349"><td><a href="#L349">349</a></td><td>TUCKER:  Two days away at warp three? Oh, they can see us, maybe not too clearly, but we should be a nice little blip on T'Pol's viewer.</td></tr>
 
-  TUCKER
-     And no way to tell them to get here sooner.
+<tr id="L350"><td><a href="#L350">350</a></td><td>REED:  Then we've got to get that blip to tell them to pick up a little steam. What if we fired our weapons?</td></tr>
 
-  ANNOTATION
-     Later, and the pair have lost a lot of their body
-     heat thanks to the alcohol.
+<tr id="L351"><td><a href="#L351">351</a></td><td>TUCKER:  They're nearly a quarter of a light year away. Our plasma cannons have a range of less than ten kilometres. It would all still look like a single blip. It's going to take a lot more than that.</td></tr>
 
-  TUCKER
-     Are you sure you got the coordinates right?
+<tr id="L352"><td><a href="#L352">352</a></td><td>REED:  What if we jettison the impulse drive?</td></tr>
 
-  REED
-     Yes, not that it matters.
+<tr id="L353"><td><a href="#L353">353</a></td><td>TUCKER:  What good would that do?</td></tr>
 
-  TUCKER
-     Lieutenant.
+<tr id="L354"><td><a href="#L354">354</a></td><td>REED:  Well, you could rig a self-destruct. I imagine that would make quite an explosion. Maybe even big enough to make that blip do something odd.</td></tr>
 
-  REED
-     They're probably travelling at what, warp two,
-     warp three? Compared to them, we're like a garden
-     snail. Where we go and how fast we get there is
-     irrelevant.
+<tr id="L355"><td><a href="#L355">355</a></td><td>TUCKER:  No, I can't blow up our engine. We'd be adrift, dead in space.</td></tr>
 
-  TUCKER
-     If I purge the CO2 filters it'll give us a little
-     more air.
+<tr id="L356"><td><a href="#L356">356</a></td><td>REED:  What's the difference between that and travelling at a snail's pace?</td></tr>
 
-  REED
-     How much? An hour's worth?
+<tr id="L357"><td><a href="#L357">357</a></td><td>TUCKER:  I'm an engineer. I won't blow up our only engine.</td></tr>
 
-  TUCKER
-     Probably less.
+<tr id="L358"><td><a href="#L358">358</a></td><td>REED:  Then I'll ask you again. Ever hold your breath for eleven hours?</td></tr>
 
-  REED
-     Great. So when they reach us in two days we'll
-     have been out of air for eleven hours. You ever
-     try holding your breath for eleven hours?
+<tr id="L359"><td><a href="#L359">359</a></td><td>TUCKER:  I think I have some micro-detonators in here somewhere.</td></tr>
 
-  TUCKER
-     A train leaves New York at three a.m. heading
-     west, while another leaves Chicago at four thirty
-     heading east. I never could figure those out.
+<tr id="L360"><td><a href="#L360">360</a></td><td>ANNOTATION: The engine module is jettisoned then exploded, creating a small shockwave.</td></tr>
 
-  REED
-     Enterprise is going to wonder why we haven't
-     responded, right? Maybe they'll be concerned and
-     increase their speed.
+<tr id="L361"><td><a href="#L361">361</a></td><td>REED:  How does it feel to be slower than a snail?</td></tr>
 
-  TUCKER
-     Maybe, but if we really want to get them to go to
-     high warp we're going to have to attract their
-     attention. Something a little more dramatic than
-     not answering their hails.
+<tr id="L362"><td><a href="#L362">362</a></td><td>TUCKER:  I saw a great cartoon once. There were these two snails sitting on the back of a big old turtle and one snail turns to the other and says 'Hold on, Fred. Here we go'.</td></tr>
 
-  REED
-     Can they see us on their sensors?
+<tr id="L363"><td><a href="#L363">363</a></td><td>ANNOTATION: Later again, as the pod spins gently in space, the two men are shivering and shaking with cold.</td></tr>
 
-  TUCKER
-     Two days away at warp three? Oh, they can see us,
-     maybe not too clearly, but we should be a nice
-     little blip on T'Pol's viewer.
+<tr id="L364"><td><a href="#L364">364</a></td><td>TUCKER:  If I'm right, I get the rest of the bourbon.</td></tr>
 
-  REED
-     Then we've got to get that blip to tell them to
-     pick up a little steam. What if we fired our
-     weapons?
+<tr id="L365"><td><a href="#L365">365</a></td><td>REED:  Fine. Less than twelve hours, you win. More than twelve and it's mine. Go check the pressure gauge.</td></tr>
 
-  TUCKER
-     They're nearly a quarter of a light year away. Our
-     plasma cannons have a range of less than ten
-     kilometres. It would all still look like a single
-     blip. It's going to take a lot more than that.
+<tr id="L366"><td><a href="#L366">366</a></td><td>TUCKER:  You check it. I don't think I can move my legs.</td></tr>
 
-  REED
-     What if we jettison the impulse drive?
+<tr id="L367"><td><a href="#L367">367</a></td><td>ANNOTATION: Reed rubs frost off the monitor.</td></tr>
 
-  TUCKER
-     What good would that do?
+<tr id="L368"><td><a href="#L368">368</a></td><td>REED:  I can't believe we've been sitting here that long.</td></tr>
 
-  REED
-     Well, you could rig a self-destruct. I imagine
-     that would make quite an explosion. Maybe even big
-     enough to make that blip do something odd.
+<tr id="L369"><td><a href="#L369">369</a></td><td>TUCKER:  Come on, let's hear it. How much air's left?</td></tr>
 
-  TUCKER
-     No, I can't blow up our engine. We'd be adrift,
-     dead in space.
+<tr id="L370"><td><a href="#L370">370</a></td><td>REED:  Ten hours.</td></tr>
 
-  REED
-     What's the difference between that and travelling
-     at a snail's pace?
+<tr id="L371"><td><a href="#L371">371</a></td><td>TUCKER:  That's probably the last bet I'll ever make, and I won. I should feel like celebrating, shouldn't I?</td></tr>
 
-  TUCKER
-     I'm an engineer. I won't blow up our only engine.
+<tr id="L372"><td><a href="#L372">372</a></td><td>REED:  The whiskey's yours. Now, why don't you give us a toast before you drink it?</td></tr>
 
-  REED
-     Then I'll ask you again. Ever hold your breath for
-     eleven hours?
+<tr id="L373"><td><a href="#L373">373</a></td><td>TUCKER:  Ten hours for two men. If there were only one of us he'd have twenty hours, wouldn't he?</td></tr>
 
-  TUCKER
-     I think I have some micro-detonators in here
-     somewhere.
+<tr id="L374"><td><a href="#L374">374</a></td><td>REED:  Great idea. Why don't you climb up into the airlock and seal yourself in.</td></tr>
 
-  ANNOTATION
-     The engine module is jettisoned then exploded,
-     creating a small shockwave.
+<tr id="L375"><td><a href="#L375">375</a></td><td>TUCKER:  That's just what I was thinking.</td></tr>
 
-  REED
-     How does it feel to be slower than a snail?
+<tr id="L376"><td><a href="#L376">376</a></td><td>REED:  Any last words you want me to pass along?</td></tr>
 
-  TUCKER
-     I saw a great cartoon once. There were these two
-     snails sitting on the back of a big old turtle and
-     one snail turns to the other and says 'Hold on,
-     Fred. Here we go'.
+<tr id="L377"><td><a href="#L377">377</a></td><td>TUCKER:  Yeah.</td></tr>
 
-  ANNOTATION
-     Later again, as the pod spins gently in space, the
-     two men are shivering and shaking with cold.
+<tr id="L378"><td><a href="#L378">378</a></td><td>ANNOTATION: Tucker is trying to get some feeling back into his legs.</td></tr>
 
-  TUCKER
-     If I'm right, I get the rest of the bourbon.
+<tr id="L379"><td><a href="#L379">379</a></td><td>TUCKER:  Tell Captain Archer that it was one hell of an honour serving with him.</td></tr>
 
-  REED
-     Fine. Less than twelve hours, you win. More than
-     twelve and it's mine. Go check the pressure gauge.
+<tr id="L380"><td><a href="#L380">380</a></td><td>ANNOTATION: Tucker opens the inner airlock.</td></tr>
 
-  TUCKER
-     You check it. I don't think I can move my legs.
+<tr id="L381"><td><a href="#L381">381</a></td><td>REED:  What are you doing?</td></tr>
 
-  ANNOTATION
-     Reed rubs frost off the monitor.
+<tr id="L382"><td><a href="#L382">382</a></td><td>TUCKER:  We don't know whether or not they saw our little display of pyrotechnics, but either way this'll double your chances.</td></tr>
 
-  REED
-     I can't believe we've been sitting here that long.
+<tr id="L383"><td><a href="#L383">383</a></td><td>ANNOTATION: Tucker climbs up.</td></tr>
 
-  TUCKER
-     Come on, let's hear it. How much air's left?
+<tr id="L384"><td><a href="#L384">384</a></td><td>REED:  You're crazy. Now get down from there!</td></tr>
 
-  REED
-     Ten hours.
+<tr id="L385"><td><a href="#L385">385</a></td><td>TUCKER:  Sit down, Lieutenant.</td></tr>
 
-  TUCKER
-     That's probably the last bet I'll ever make, and I
-     won. I should feel like celebrating, shouldn't I?
+<tr id="L386"><td><a href="#L386">386</a></td><td>REED:  If anyone should go up in there, it should be me. You're the Chief Engineer.</td></tr>
 
-  REED
-     The whiskey's yours. Now, why don't you give us a
-     toast before you drink it?
+<tr id="L387"><td><a href="#L387">387</a></td><td>TUCKER:  I'm also in charge of deciding who's going into this airlock. Do I make myself clear?</td></tr>
 
-  TUCKER
-     Ten hours for two men. If there were only one of
-     us he'd have twenty hours, wouldn't he?
+<tr id="L388"><td><a href="#L388">388</a></td><td>ANNOTATION: Reed points a phase pistol at Tucker.</td></tr>
 
-  REED
-     Great idea. Why don't you climb up into the
-     airlock and seal yourself in.
+<tr id="L389"><td><a href="#L389">389</a></td><td>REED:  Commander.</td></tr>
 
-  TUCKER
-     That's just what I was thinking.
+<tr id="L390"><td><a href="#L390">390</a></td><td>TUCKER:  What are you going to do? Kill me?</td></tr>
 
-  REED
-     Any last words you want me to pass along?
+<tr id="L391"><td><a href="#L391">391</a></td><td>REED:  It's set to stun. I don't want to use it, but I will.</td></tr>
 
-  TUCKER
-     Yeah.
+<tr id="L392"><td><a href="#L392">392</a></td><td>TUCKER:  Put it down!</td></tr>
 
-  ANNOTATION
-     Tucker is trying to get some feeling back into his
-     legs.
+<tr id="L393"><td><a href="#L393">393</a></td><td>REED:  Go to hell!</td></tr>
 
-  TUCKER
-     Tell Captain Archer that it was one hell of an
-     honour serving with him.
+<tr id="L394"><td><a href="#L394">394</a></td><td>ANNOTATION: Tucker comes back down.</td></tr>
 
-  ANNOTATION
-     Tucker opens the inner airlock.
+<tr id="L395"><td><a href="#L395">395</a></td><td>TUCKER:  Stop trying to be a hero. It doesn't suit you.</td></tr>
 
-  REED
-     What are you doing?
+<tr id="L396"><td><a href="#L396">396</a></td><td>REED:  What would you know about being a hero? It takes nothing but a coward to crawl up inside a hole to die.</td></tr>
 
-  TUCKER
-     We don't know whether or not they saw our little
-     display of pyrotechnics, but either way this'll
-     double your chances.
+<tr id="L397"><td><a href="#L397">397</a></td><td>TUCKER:  Then go ahead and shoot me, but you better hope we don't make it, because if we survive the first thing I'm going to do is bust your ass back to Crewman Second Class for insubordination.</td></tr>
 
-  ANNOTATION
-     Tucker climbs up.
+<tr id="L398"><td><a href="#L398">398</a></td><td>REED:  Be my guest. I could use a little less responsibility. Now, get down here.</td></tr>
 
-  REED
-     You're crazy. Now get down from there!
+<tr id="L399"><td><a href="#L399">399</a></td><td>TUCKER:  Who the hell do you think you are?</td></tr>
 
-  TUCKER
-     Sit down, Lieutenant.
+<tr id="L400"><td><a href="#L400">400</a></td><td>REED:  Your Armoury Officer, and perhaps your friend.</td></tr>
 
-  REED
-     If anyone should go up in there, it should be me.
-     You're the Chief Engineer.
+<tr id="L401"><td><a href="#L401">401</a></td><td>TUCKER:  Friends don't shoot each other!</td></tr>
 
-  TUCKER
-     I'm also in charge of deciding who's going into
-     this airlock. Do I make myself clear?
+<tr id="L402"><td><a href="#L402">402</a></td><td>REED:  You know, I'm not a doctor, but I'm pretty sure you use up a lot more oxygen when you shout like that!</td></tr>
 
-  ANNOTATION
-     Reed points a phase pistol at Tucker.
+<tr id="L403"><td><a href="#L403">403</a></td><td>TUCKER:  So what are you saying? That you'd rather have Enterprise find the two of us dead in here?</td></tr>
 
-  REED
-     Commander.
+<tr id="L404"><td><a href="#L404">404</a></td><td>REED:  That's exactly what I'm saying. If there's one chance in a thousand that they saw our impulse drive explode, that they increased their speed, I'll take that chance. I've invested far too much time trying to figure you out, Mister Tucker. I'm not about to accept that it was all for nothing.</td></tr>
 
-  TUCKER
-     What are you going to do? Kill me?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L405"><td><a href="#L405">405</a></td><td>REED:  We're back. How did?</td></tr>
 
-  REED
-     It's set to stun. I don't want to use it, but I
-     will.
+<tr id="L406"><td><a href="#L406">406</a></td><td>ARCHER:  Easy, Malcolm. You fellows had a nice little bout with hypothermia.</td></tr>
 
-  TUCKER
-     Put it down!
+<tr id="L407"><td><a href="#L407">407</a></td><td>REED:  The Commander.</td></tr>
 
-  REED
-     Go to hell!
+<tr id="L408"><td><a href="#L408">408</a></td><td>ARCHER:  He's going to be fine.</td></tr>
 
-  ANNOTATION
-     Tucker comes back down.
+<tr id="L409"><td><a href="#L409">409</a></td><td>PHLOX:  It took nearly three hours go get your body temperatures back to normal.</td></tr>
 
-  TUCKER
-     Stop trying to be a hero. It doesn't suit you.
+<tr id="L410"><td><a href="#L410">410</a></td><td>REED:  You must have seen the explosion.</td></tr>
 
-  REED
-     What would you know about being a hero? It takes
-     nothing but a coward to crawl up inside a hole to
-     die.
+<tr id="L411"><td><a href="#L411">411</a></td><td>ARCHER:  Hard to miss. You know, you guys only had two or three hours of air left.</td></tr>
 
-  TUCKER
-     Then go ahead and shoot me, but you better hope we
-     don't make it, because if we survive the first
-     thing I'm going to do is bust your ass back to
-     Crewman Second Class for insubordination.
+<tr id="L412"><td><a href="#L412">412</a></td><td>REED:  You don't say. We saw debris from Enterprise on one of the asteroids. We assumed, we thought you were all.</td></tr>
 
-  REED
-     Be my guest. I could use a little less
-     responsibility. Now, get down here.
+<tr id="L413"><td><a href="#L413">413</a></td><td>ARCHER:  I'll tell you all about it in the morning. Right now, the Doctor needs to warm you up a few degrees.</td></tr>
 
-  TUCKER
-     Who the hell do you think you are?
+<tr id="L414"><td><a href="#L414">414</a></td><td>ANNOTATION: Archer leaves.</td></tr>
 
-  REED
-     Your Armoury Officer, and perhaps your friend.
+<tr id="L415"><td><a href="#L415">415</a></td><td>REED:  Sub-Commander.</td></tr>
 
-  TUCKER
-     Friends don't shoot each other!
+<tr id="L416"><td><a href="#L416">416</a></td><td>T'POL:  Yes.</td></tr>
 
-  REED
-     You know, I'm not a doctor, but I'm pretty sure
-     you use up a lot more oxygen when you shout like
-     that!
+<tr id="L417"><td><a href="#L417">417</a></td><td>REED:  Isn't there something you're supposed to say to me?</td></tr>
 
-  TUCKER
-     So what are you saying? That you'd rather have
-     Enterprise find the two of us dead in here?
+<tr id="L418"><td><a href="#L418">418</a></td><td>T'POL:  About what?</td></tr>
 
-  REED
-     That's exactly what I'm saying. If there's one
-     chance in a thousand that they saw our impulse
-     drive explode, that they increased their speed,
-     I'll take that chance. I've invested far too much
-     time trying to figure you out, Mister Tucker. I'm
-     not about to accept that it was all for nothing.
+<tr id="L419"><td><a href="#L419">419</a></td><td>REED:  Heroics. Something about heroics.</td></tr>
 
+<tr id="L420"><td><a href="#L420">420</a></td><td>T'POL:  Good night, Lieutenant.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L421"><td><a href="#L421">421</a></td><td>REED:  Trip?</td></tr>
 
-  REED
-     We're back. How did?
+<tr id="L422"><td><a href="#L422">422</a></td><td>ANNOTATION: Tucker is out cold.</td></tr>
 
-  ARCHER
-     Easy, Malcolm. You fellows had a nice little bout
-     with hypothermia.
+<tr id="L423"><td><a href="#L423">423</a></td><td>REED:  Mind if I call you Trip? Sleep well, my friend.</td></tr>
 
-  REED
-     The Commander.
-
-  ARCHER
-     He's going to be fine.
-
-  PHLOX
-     It took nearly three hours go get your body
-     temperatures back to normal.
-
-  REED
-     You must have seen the explosion.
-
-  ARCHER
-     Hard to miss. You know, you guys only had two or
-     three hours of air left.
-
-  REED
-     You don't say. We saw debris from Enterprise on
-     one of the asteroids. We assumed, we thought you
-     were all.
-
-  ARCHER
-     I'll tell you all about it in the morning. Right
-     now, the Doctor needs to warm you up a few
-     degrees.
-
-  ANNOTATION
-     Archer leaves.
-
-  REED
-     Sub-Commander.
-
-  T'POL
-     Yes.
-
-  REED
-     Isn't there something you're supposed to say to
-     me?
-
-  T'POL
-     About what?
-
-  REED
-     Heroics. Something about heroics.
-
-  T'POL
-     Good night, Lieutenant.
-
-  REED
-     Trip?
-
-  ANNOTATION
-     Tucker is out cold.
-
-  REED
-     Mind if I call you Trip? Sleep well, my friend.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

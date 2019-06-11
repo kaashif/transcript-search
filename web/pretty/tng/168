@@ -1,1572 +1,789 @@
-Tin Man
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Tin Man</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>DATA:  Captain, sensors report the USS Hood is closing on an intercept course at high warp.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>PICARD:  That's odd. We weren't notified of a rendezvous.</td></tr>
 
-  DATA
-     Captain, sensors report the USS Hood is closing on
-     an intercept course at high warp.
+<tr id="L3"><td><a href="#L3">3</a></td><td>RIKER:  They seem to be in an awful hurry.</td></tr>
 
-  PICARD
-     That's odd. We weren't notified of a rendezvous.
+<tr id="L4"><td><a href="#L4">4</a></td><td>WORF:  Sir, we are being hailed on a secured channel by Captain DeSoto.</td></tr>
 
-  RIKER
-     They seem to be in an awful hurry.
+<tr id="L5"><td><a href="#L5">5</a></td><td>PICARD:  On screen.</td></tr>
 
-  WORF
-     Sir, we are being hailed on a secured channel by
-     Captain DeSoto.
+<tr id="L6"><td><a href="#L6">6</a></td><td>DESOTO [on viewscreen]:  Sorry to sneak up on you like that, Jean Luc</td></tr>
 
-  PICARD
-     On screen.
+<tr id="L7"><td><a href="#L7">7</a></td><td>PICARD:  Robert, why didn't you inform us?</td></tr>
 
-  DESOTO [on viewscreen]
-     Sorry to sneak up on you like that, Jean Luc
+<tr id="L8"><td><a href="#L8">8</a></td><td>DESOTO [on viewscreen]:  Out here, you never know who's listening. Keeps you on your toes, anyway. Hey, Will. Will, you getting soft on that luxury liner?</td></tr>
 
-  PICARD
-     Robert, why didn't you inform us?
+<tr id="L9"><td><a href="#L9">9</a></td><td>PICARD:  So, old friend. How are you?</td></tr>
 
-  DESOTO [on viewscreen]
-     Out here, you never know who's listening. Keeps
-     you on your toes, anyway. Hey, Will. Will, you
-     getting soft on that luxury liner?
+<tr id="L10"><td><a href="#L10">10</a></td><td>DESOTO [on viewscreen]:  Well, you know, they send you Galaxy Class boys out here to the far reaches. Me, I'm just hauling my butt back and forth between starbases.</td></tr>
 
-  PICARD
-     So, old friend. How are you?
+<tr id="L11"><td><a href="#L11">11</a></td><td>PICARD:  But not today.</td></tr>
 
-  DESOTO [on viewscreen]
-     Well, you know, they send you Galaxy Class boys
-     out here to the far reaches. Me, I'm just hauling
-     my butt back and forth between starbases.
+<tr id="L12"><td><a href="#L12">12</a></td><td>DESOTO [on viewscreen]:  No, not today. Starfleet's got new orders for you. This is top priority. They need the fastest ship in the fleet and the best people. That is you.</td></tr>
 
-  PICARD
-     But not today.
+<tr id="L13"><td><a href="#L13">13</a></td><td>PICARD:  If time is so important, why didn't they transmit the orders by subspace?</td></tr>
 
-  DESOTO [on viewscreen]
-     No, not today. Starfleet's got new orders for you.
-     This is top priority. They need the fastest ship
-     in the fleet and the best people. That is you.
+<tr id="L14"><td><a href="#L14">14</a></td><td>DESOTO [on viewscreen]:  They're worried about Romulan eavesdropping on this one. And we've got a passenger for you. Hard to send by subspace.</td></tr>
 
-  PICARD
-     If time is so important, why didn't they transmit
-     the orders by subspace?
+<tr id="L15"><td><a href="#L15">15</a></td><td>PICARD:  What sort of passenger?</td></tr>
 
-  DESOTO [on viewscreen]
-     They're worried about Romulan eavesdropping on
-     this one. And we've got a passenger for you. Hard
-     to send by subspace.
+<tr id="L16"><td><a href="#L16">16</a></td><td>DESOTO [on viewscreen]:  Mission specialist. He'll bring your orders aboard with him. His name is Tam Elbrun.</td></tr>
 
-  PICARD
-     What sort of passenger?
+<tr id="L17"><td><a href="#L17">17</a></td><td>RIKER:  As in Tam Elbrun of the Ghorusda disaster?</td></tr>
 
-  DESOTO [on viewscreen]
-     Mission specialist. He'll bring your orders aboard
-     with him. His name is Tam Elbrun.
+<tr id="L18"><td><a href="#L18">18</a></td><td>DESOTO [on viewscreen]:  The same. What can I say? Your orders are to cooperate fully with him. Best of luck, folks. Hood out.</td></tr>
 
-  RIKER
-     As in Tam Elbrun of the Ghorusda disaster?
+<tr id="L19"><td><a href="#L19">19</a></td><td>DATA:  Sir, the Hood is slowing to impulse.</td></tr>
 
-  DESOTO [on viewscreen]
-     The same. What can I say? Your orders are to
-     cooperate fully with him. Best of luck, folks.
-     Hood out.
+<tr id="L20"><td><a href="#L20">20</a></td><td>PICARD:  Mister Data, come with me.</td></tr>
 
-  DATA
-     Sir, the Hood is slowing to impulse.
+<tr id="L21"><td><a href="#L21">21</a></td><td>TROI:  Captain, let me come with you to greet Tam.</td></tr>
 
-  PICARD
-     Mister Data, come with me.
+<tr id="L22"><td><a href="#L22">22</a></td><td>PICARD:  You know him?</td></tr>
 
-  TROI
-     Captain, let me come with you to greet Tam.
+<tr id="L23"><td><a href="#L23">23</a></td><td>TROI:  I do. He was at the university on Betazed when I studied psychology there.</td></tr>
 
-  PICARD
-     You know him?
+<tr id="L24"><td><a href="#L24">24</a></td><td>PICARD:  Oh, I see. He was a colleague of yours.</td></tr>
 
-  TROI
-     I do. He was at the university on Betazed when I
-     studied psychology there.
+<tr id="L25"><td><a href="#L25">25</a></td><td>TROI:  No. He was a patient</td></tr>
 
-  PICARD
-     Oh, I see. He was a colleague of yours.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L26"><td><a href="#L26">26</a></td><td>TROI:  Tam is a telepath of extraordinary talent, even for a Betazoid. He's a specialist in first contact with new life forms.</td></tr>
 
-  TROI
-     No. He was a patient
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L27"><td><a href="#L27">27</a></td><td>TROI:  He's a very unique person, but he's not what you might expect, Captain.</td></tr>
 
+<tr id="L28"><td><a href="#L28">28</a></td><td>ANNOTATION: O'Brien beams the man in</td></tr>
 
-LOCATION--Corridor
+<tr id="L29"><td><a href="#L29">29</a></td><td>PICARD:  Welcome aboard the Enterprise. I'm</td></tr>
 
-  TROI
-     Tam is a telepath of extraordinary talent, even
-     for a Betazoid. He's a specialist in first contact
-     with new life forms.
+<tr id="L30"><td><a href="#L30">30</a></td><td>TAM:  Captain Picard, right?. Here. (tosses a data file to Picard) You want to know all about your mission. Everything's on there. Orders and briefings, destination and heading, all that. Dee, I sensed you were out here. How've you been?</td></tr>
 
+<tr id="L31"><td><a href="#L31">31</a></td><td>TROI:  I've been fine, but I thought</td></tr>
 
-LOCATION--Transporter room
+<tr id="L32"><td><a href="#L32">32</a></td><td>TAM + TROI:  you were on thought you were on Chandra Five.</td></tr>
 
-  TROI
-     He's a very unique person, but he's not what you
-     might expect, Captain.
+<tr id="L33"><td><a href="#L33">33</a></td><td>DATA:  Sir.</td></tr>
 
-  ANNOTATION
-     O'Brien beams the man in
+<tr id="L34"><td><a href="#L34">34</a></td><td>TAM:  Who? What are you?</td></tr>
 
-  PICARD
-     Welcome aboard the Enterprise. I'm
+<tr id="L35"><td><a href="#L35">35</a></td><td>DATA:  I am Data. An android.</td></tr>
 
-  TAM
-     Captain Picard, right?. Here. (tosses a data file
-     to Picard) You want to know all about your
-     mission. Everything's on there. Orders and
-     briefings, destination and heading, all that. Dee,
-     I sensed you were out here. How've you been?
+<tr id="L36"><td><a href="#L36">36</a></td><td>TAM:  Incredible, an android. I can't read you at all. It's like you're not there.</td></tr>
 
-  TROI
-     I've been fine, but I thought
+<tr id="L37"><td><a href="#L37">37</a></td><td>PICARD:  Data.</td></tr>
 
-  TAM + TROI
-     you were on thought you were on Chandra Five.
+<tr id="L38"><td><a href="#L38">38</a></td><td>TAM:  Oh. You better hurry up to the bridge with that. Captain wants you to run the orders, scan the technical schematics, and be ready to brief him in ten minutes. Right?</td></tr>
 
-  DATA
-     Sir.
+<tr id="L39"><td><a href="#L39">39</a></td><td>PICARD:  Number One?</td></tr>
 
-  TAM
-     Who? What are you?
+<tr id="L40"><td><a href="#L40">40</a></td><td>RIKER [OC]:  Riker here.</td></tr>
 
-  DATA
-     I am Data. An android.
+<tr id="L41"><td><a href="#L41">41</a></td><td>PICARD:  Will you meet Commander Data on the Bridge. He has our orders and new heading.</td></tr>
 
-  TAM
-     Incredible, an android. I can't read you at all.
-     It's like you're not there.
+<tr id="L42"><td><a href="#L42">42</a></td><td>RIKER [OC]:  Aye, sir.</td></tr>
 
-  PICARD
-     Data.
+<tr id="L43"><td><a href="#L43">43</a></td><td>ANNOTATION: Data leaves</td></tr>
 
-  TAM
-     Oh. You better hurry up to the bridge with that.
-     Captain wants you to run the orders, scan the
-     technical schematics, and be ready to brief him in
-     ten minutes. Right?
+<tr id="L44"><td><a href="#L44">44</a></td><td>PICARD:  And assemble the bridge staff for a mission briefing in fifteen minutes. Picard out. Mister Elbrun. Would you</td></tr>
 
-  PICARD
-     Number One?
+<tr id="L45"><td><a href="#L45">45</a></td><td>TAM:  Care to see my quarters? No. I'd rather get this briefing over with. Then be left alone until I'm needed.</td></tr>
 
-  RIKER [OC]
-     Riker here.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L46"><td><a href="#L46">46</a></td><td>LAFORGE:  I've heard something about Ghorusda. Weren't there about forty people killed?</td></tr>
 
-  PICARD
-     Will you meet Commander Data on the Bridge. He has
-     our orders and new heading.
+<tr id="L47"><td><a href="#L47">47</a></td><td>RIKER:  Forty seven, including the captain of the Adelphi and two friends from my class at the Academy.</td></tr>
 
-  RIKER [OC]
-     Aye, sir.
+<tr id="L48"><td><a href="#L48">48</a></td><td>LAFORGE:  Sorry.</td></tr>
 
-  ANNOTATION
-     Data leaves
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L49"><td><a href="#L49">49</a></td><td>RIKER:  Main Bridge.</td></tr>
 
-  PICARD
-     And assemble the bridge staff for a mission
-     briefing in fifteen minutes. Picard out. Mister
-     Elbrun. Would you
+<tr id="L50"><td><a href="#L50">50</a></td><td>LAFORGE:  So what happened?</td></tr>
 
-  TAM
-     Care to see my quarters? No. I'd rather get this
-     briefing over with. Then be left alone until I'm
-     needed.
+<tr id="L51"><td><a href="#L51">51</a></td><td>RIKER:  It was a first contact situation. Ghorusdan culture is so complex and different, that the Federation sent a specialist to prevent misunderstanding.</td></tr>
 
+<tr id="L52"><td><a href="#L52">52</a></td><td>LAFORGE:  So that was Tam Elbrun. What happened was his fault?</td></tr>
 
-LOCATION--Corridor
+<tr id="L53"><td><a href="#L53">53</a></td><td>RIKER:  Not directly. Board of inquiry blamed Darson for carelessness about Ghorusdan cultural taboos. But if Elbrun was so good, why didn't he warn Darson? What was he doing there if he couldn't sense that much hostility?</td></tr>
 
-  LAFORGE
-     I've heard something about Ghorusda. Weren't there
-     about forty people killed?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L54"><td><a href="#L54">54</a></td><td>DATA:  Our destination is the Beta Stromgren system, following the path of the Vega Nine probe.</td></tr>
 
-  RIKER
-     Forty seven, including the captain of the Adelphi
-     and two friends from my class at the Academy.
+<tr id="L55"><td><a href="#L55">55</a></td><td>RIKER:  That's twenty three parsecs beyond our furthest manned explorations.</td></tr>
 
-  LAFORGE
-     Sorry.
+<tr id="L56"><td><a href="#L56">56</a></td><td>DATA:  That is correct, Commander. Apparently the probe has discovered. Astonishing.</td></tr>
 
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L57"><td><a href="#L57">57</a></td><td>ANNOTATION: Tam is suffering in the presence of so many minds</td></tr>
 
-LOCATION--Turbolift
+<tr id="L58"><td><a href="#L58">58</a></td><td>ANNOTATION: The presentation is now up on the main screen</td></tr>
 
-  RIKER
-     Main Bridge.
+<tr id="L59"><td><a href="#L59">59</a></td><td>DATA:  Our orders are to proceed to this star, Beta Stromgren. Scientists have discovered that it is in the final stages of an alternating cycle of expansion and collapse, and will soon result in a supernova. However, the unmanned long range space probe sent by Starfleet to observe the process has discovered something much more.</td></tr>
 
-  LAFORGE
-     So what happened?
+<tr id="L60"><td><a href="#L60">60</a></td><td>TAM:  Oh, Data don't waste time. They call it Tin Man. The Vega probe found it orbiting Stromgren.</td></tr>
 
-  RIKER
-     It was a first contact situation. Ghorusdan
-     culture is so complex and different, that the
-     Federation sent a specialist to prevent
-     misunderstanding.
+<tr id="L61"><td><a href="#L61">61</a></td><td>LAFORGE:  Looks like some kind of ship.</td></tr>
 
-  LAFORGE
-     So that was Tam Elbrun. What happened was his
-     fault?
+<tr id="L62"><td><a href="#L62">62</a></td><td>TAM:  Its energy source is unknown. The people who've studied the transmissions think it's a starship. And they're sure it's alive.</td></tr>
 
-  RIKER
-     Not directly. Board of inquiry blamed Darson for
-     carelessness about Ghorusdan cultural taboos. But
-     if Elbrun was so good, why didn't he warn Darson?
-     What was he doing there if he couldn't sense that
-     much hostility?
+<tr id="L63"><td><a href="#L63">63</a></td><td>PICARD:  Alive? How?</td></tr>
 
+<tr id="L64"><td><a href="#L64">64</a></td><td>LAFORGE:  A cybernetic organism like the Borg?</td></tr>
 
-LOCATION--Bridge
+<tr id="L65"><td><a href="#L65">65</a></td><td>TAM:  No, no, no. Here. Starfleet believes it's an organic creature, born in space, living its life in the wastes between stars. No one knows where it came from, or why it's here. But we're going to meet it. We're going to talk to it. I'm going to talk to it.</td></tr>
 
-  DATA
-     Our destination is the Beta Stromgren system,
-     following the path of the Vega Nine probe.
+<tr id="L66"><td><a href="#L66">66</a></td><td>RIKER:  Have attempts been made</td></tr>
 
-  RIKER
-     That's twenty three parsecs beyond our furthest
-     manned explorations.
+<tr id="L67"><td><a href="#L67">67</a></td><td>TAM:  To communicate with it by subspace. Of course. Linguacode, universal translation, all that. It won't work. Tin Man is too different. Direct mind to mind contact is our only hope.</td></tr>
 
-  DATA
-     That is correct, Commander. Apparently the probe
-     has discovered. Astonishing.
+<tr id="L68"><td><a href="#L68">68</a></td><td>TROI:  The opportunity for discovery is extraordinary but I don't understand Starfleet's urgency.</td></tr>
 
+<tr id="L69"><td><a href="#L69">69</a></td><td>PICARD:  Romulans.</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L70"><td><a href="#L70">70</a></td><td>TAM:  Hell, I forgot. The Romulans.</td></tr>
 
-  ANNOTATION
-     Tam is suffering in the presence of so many minds
+<tr id="L71"><td><a href="#L71">71</a></td><td>PICARD:  They claim that sector of space where Beta Stromgren is located.</td></tr>
 
-  ANNOTATION
-     The presentation is now up on the main screen
+<tr id="L72"><td><a href="#L72">72</a></td><td>WORF:  The Romulans claim all that is in their field of vision.</td></tr>
 
-  DATA
-     Our orders are to proceed to this star, Beta
-     Stromgren. Scientists have discovered that it is
-     in the final stages of an alternating cycle of
-     expansion and collapse, and will soon result in a
-     supernova. However, the unmanned long range space
-     probe sent by Starfleet to observe the process has
-     discovered something much more.
+<tr id="L73"><td><a href="#L73">73</a></td><td>DATA:  They routinely monitor the telemetry of our deep space probes.</td></tr>
 
-  TAM
-     Oh, Data don't waste time. They call it Tin Man.
-     The Vega probe found it orbiting Stromgren.
+<tr id="L74"><td><a href="#L74">74</a></td><td>PICARD:  Then they will certainly be sending a ship of their own to investigate this Tin Man.</td></tr>
 
-  LAFORGE
-     Looks like some kind of ship.
+<tr id="L75"><td><a href="#L75">75</a></td><td>TAM:  No. Actually, they're sending two. Data?</td></tr>
 
-  TAM
-     Its energy source is unknown. The people who've
-     studied the transmissions think it's a starship.
-     And they're sure it's alive.
+<tr id="L76"><td><a href="#L76">76</a></td><td>DATA:  That is correct. Starbase one two three has detected two D'daridex class cruisers on an intercept course. The top speed of this class cruiser is known to be less than ours. Therefore we do have some advantage.</td></tr>
 
-  PICARD
-     Alive? How?
+<tr id="L77"><td><a href="#L77">77</a></td><td>PICARD:  Then, it's a race? An alien intelligence, a new life form, representing a technology far beyond that of either the Romulans or ourselves. The Romulans will certainly take whatever measures are required to secure this creature for study.</td></tr>
 
-  LAFORGE
-     A cybernetic organism like the Borg?
+<tr id="L78"><td><a href="#L78">78</a></td><td>LAFORGE:  Study as in dissecting, I'd bet.</td></tr>
 
-  TAM
-     No, no, no. Here. Starfleet believes it's an
-     organic creature, born in space, living its life
-     in the wastes between stars. No one knows where it
-     came from, or why it's here. But we're going to
-     meet it. We're going to talk to it. I'm going to
-     talk to it.
+<tr id="L79"><td><a href="#L79">79</a></td><td>PICARD:  Mister Data, you are our resident honour student in exobiology. I'm assigning you to head up the Life Sciences on this mission.</td></tr>
 
-  RIKER
-     Have attempts been made
+<tr id="L80"><td><a href="#L80">80</a></td><td>DATA:  Aye, sir.</td></tr>
 
-  TAM
-     To communicate with it by subspace. Of course.
-     Linguacode, universal translation, all that. It
-     won't work. Tin Man is too different. Direct mind
-     to mind contact is our only hope.
+<tr id="L81"><td><a href="#L81">81</a></td><td>TAM:  Excellent.</td></tr>
 
-  TROI
-     The opportunity for discovery is extraordinary but
-     I don't understand Starfleet's urgency.
+<tr id="L82"><td><a href="#L82">82</a></td><td>PICARD:  Meeting adjourned, then.</td></tr>
 
-  PICARD
-     Romulans.
+<tr id="L83"><td><a href="#L83">83</a></td><td>ANNOTATION: As everyone but Picard, Riker, Tam and Data leave</td></tr>
 
-  TAM
-     Hell, I forgot. The Romulans.
+<tr id="L84"><td><a href="#L84">84</a></td><td>TAM:  So, Data, I guess you're the brains of this outfit, huh?</td></tr>
 
-  PICARD
-     They claim that sector of space where Beta
-     Stromgren is located.
+<tr id="L85"><td><a href="#L85">85</a></td><td>PICARD:  Mister Elbrun, one of the reasons I'm asking you to work closely with a member of my staff is to avoid any further omissions. The possibility of an encounter with Romulans on this mission is hardly trivial. And yet</td></tr>
 
-  WORF
-     The Romulans claim all that is in their field of
-     vision.
+<tr id="L86"><td><a href="#L86">86</a></td><td>TAM:  All right, all right. I should have brought up the Romulans earlier, but I was distracted. And no, Billy boy, I wasn't distracted on Ghorusda. If Darson had listened to me, no one would have died. No? Well I don't care whether you believe that or not.</td></tr>
 
-  DATA
-     They routinely monitor the telemetry of our deep
-     space probes.
+<tr id="L87"><td><a href="#L87">87</a></td><td>SOMEONE: Captain's log, supplemental. Travelling at high warp, we are still several days from rendezvous with the mysterious entity which Starfleet has christened Tin Man. My immediate concern is with Tam Elbrun. Starfleet considers his unique abilities crucial to our mission, yet he seems to me unstable.</td></tr>
 
-  PICARD
-     Then they will certainly be sending a ship of
-     their own to investigate this Tin Man.
+<tr><td></td><td>LOCATION--Crusher's office</td></tr>
+<tr id="L88"><td><a href="#L88">88</a></td><td>CRUSHER:  Well, according to his medical records and psych profile, he's very high on the ESP scale. A sort of prodigy.</td></tr>
 
-  TAM
-     No. Actually, they're sending two. Data?
+<tr id="L89"><td><a href="#L89">89</a></td><td>PICARD:  A prodigy? In what sense?</td></tr>
 
-  DATA
-     That is correct. Starbase one two three has
-     detected two D'daridex class cruisers on an
-     intercept course. The top speed of this class
-     cruiser is known to be less than ours. Therefore
-     we do have some advantage.
+<tr id="L90"><td><a href="#L90">90</a></td><td>TROI:  Well, in most Betazoids our telepathic gifts develop at adolescence.</td></tr>
 
-  PICARD
-     Then, it's a race? An alien intelligence, a new
-     life form, representing a technology far beyond
-     that of either the Romulans or ourselves. The
-     Romulans will certainly take whatever measures are
-     required to secure this creature for study.
+<tr id="L91"><td><a href="#L91">91</a></td><td>PICARD:  You mean you're not born reading minds?</td></tr>
 
-  LAFORGE
-     Study as in dissecting, I'd bet.
+<tr id="L92"><td><a href="#L92">92</a></td><td>TROI:  No. Except for some reason that no one understands, occasionally a Betazoid child is born different.</td></tr>
 
-  PICARD
-     Mister Data, you are our resident honour student
-     in exobiology. I'm assigning you to head up the
-     Life Sciences on this mission.
+<tr id="L93"><td><a href="#L93">93</a></td><td>PICARD:  How different?</td></tr>
 
-  DATA
-     Aye, sir.
+<tr id="L94"><td><a href="#L94">94</a></td><td>CRUSHER:  Born with his telepathic abilities switched on.</td></tr>
 
-  TAM
-     Excellent.
+<tr id="L95"><td><a href="#L95">95</a></td><td>TROI:  Most Betazoids born like that never lead a normal life.</td></tr>
 
-  PICARD
-     Meeting adjourned, then.
+<tr id="L96"><td><a href="#L96">96</a></td><td>CRUSHER:  The noise of other people's thoughts and feelings must be overwhelming, incomprehensible, especially to a child.</td></tr>
 
-  ANNOTATION
-     As everyone but Picard, Riker, Tam and Data leave
+<tr id="L97"><td><a href="#L97">97</a></td><td>TROI:  And painful. Early diagnosis and special training did help Tam adjust, but he has some problems.</td></tr>
 
-  TAM
-     So, Data, I guess you're the brains of this
-     outfit, huh?
+<tr id="L98"><td><a href="#L98">98</a></td><td>PICARD:  You mentioned a hospitalisation.</td></tr>
 
-  PICARD
-     Mister Elbrun, one of the reasons I'm asking you
-     to work closely with a member of my staff is to
-     avoid any further omissions. The possibility of an
-     encounter with Romulans on this mission is hardly
-     trivial. And yet
+<tr id="L99"><td><a href="#L99">99</a></td><td>TROI:  For stress. Repeatedly, throughout his life.</td></tr>
 
-  TAM
-     All right, all right. I should have brought up the
-     Romulans earlier, but I was distracted. And no,
-     Billy boy, I wasn't distracted on Ghorusda. If
-     Darson had listened to me, no one would have died.
-     No? Well I don't care whether you believe that or
-     not.
+<tr id="L100"><td><a href="#L100">100</a></td><td>CRUSHER:  I always wonder what holds one person together through that kind of struggle, while another goes under?</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. Travelling at high
-     warp, we are still several days from rendezvous
-     with the mysterious entity which Starfleet has
-     christened Tin Man. My immediate concern is with
-     Tam Elbrun. Starfleet considers his unique
-     abilities crucial to our mission, yet he seems to
-     me unstable.
+<tr id="L101"><td><a href="#L101">101</a></td><td>PICARD:  Yes, well, he's evidently done more than hold together. He's the indispensable man. The Federation's finest specialist in communication with unknown life forms.</td></tr>
 
+<tr id="L102"><td><a href="#L102">102</a></td><td>CRUSHER:  The more unusual a life form is, the better he likes it. His personnel file shows that he's gravitated toward assignments that isolate him from other humanoids.</td></tr>
 
-LOCATION--Crusher's office
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L103"><td><a href="#L103">103</a></td><td>WESLEY:  Commander Data, I'm picking up an unusual echo from my navigational sensors.</td></tr>
 
-  CRUSHER
-     Well, according to his medical records and psych
-     profile, he's very high on the ESP scale. A sort
-     of prodigy.
+<tr id="L104"><td><a href="#L104">104</a></td><td>WORF:  Something is out there, sir, tracking us, matching our speed and heading. Something which does not fully register on our instruments.</td></tr>
 
-  PICARD
-     A prodigy? In what sense?
+<tr id="L105"><td><a href="#L105">105</a></td><td>DATA:  Since there is no known natural phenomenon capable of travel at warp velocities, there are but two possibilities. Either it is a sensor malfunction, another ship is following us covertly.</td></tr>
 
-  TROI
-     Well, in most Betazoids our telepathic gifts
-     develop at adolescence.
+<tr id="L106"><td><a href="#L106">106</a></td><td>WORF:  It is not a sensor malfunction.</td></tr>
 
-  PICARD
-     You mean you're not born reading minds?
+<tr id="L107"><td><a href="#L107">107</a></td><td>DATA:  Agreed.</td></tr>
 
-  TROI
-     No. Except for some reason that no one
-     understands, occasionally a Betazoid child is born
-     different.
+<tr id="L108"><td><a href="#L108">108</a></td><td>WESLEY:  But Commander, if it is a Romulan ship, with their cloaking device we shouldn't pick them up at all.</td></tr>
 
-  PICARD
-     How different?
+<tr id="L109"><td><a href="#L109">109</a></td><td>LAFORGE:  Unless they're pulling so much power for something else that they can't fully cloak.</td></tr>
 
-  CRUSHER
-     Born with his telepathic abilities switched on.
+<tr id="L110"><td><a href="#L110">110</a></td><td>WESLEY:  Like what?</td></tr>
 
-  TROI
-     Most Betazoids born like that never lead a normal
-     life.
+<tr id="L111"><td><a href="#L111">111</a></td><td>LAFORGE:  Ask the Romulans. If it is the Romulans.</td></tr>
 
-  CRUSHER
-     The noise of other people's thoughts and feelings
-     must be overwhelming, incomprehensible, especially
-     to a child.
+<tr id="L112"><td><a href="#L112">112</a></td><td>DATA:  Lieutenant, continue monitoring the precise position of the echo. Any sudden change in its behaviour, initiate Yellow Alert.</td></tr>
 
-  TROI
-     And painful. Early diagnosis and special training
-     did help Tam adjust, but he has some problems.
+<tr id="L113"><td><a href="#L113">113</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  PICARD
-     You mentioned a hospitalisation.
+<tr><td></td><td>LOCATION--Tam's quarters</td></tr>
+<tr id="L114"><td><a href="#L114">114</a></td><td>TAM:  Come in.</td></tr>
 
-  TROI
-     For stress. Repeatedly, throughout his life.
+<tr id="L115"><td><a href="#L115">115</a></td><td>ANNOTATION: Deanna enters</td></tr>
 
-  CRUSHER
-     I always wonder what holds one person together
-     through that kind of struggle, while another goes
-     under?
+<tr id="L116"><td><a href="#L116">116</a></td><td>TAM:  How're things in the land of the living?</td></tr>
 
-  PICARD
-     Yes, well, he's evidently done more than hold
-     together. He's the indispensable man. The
-     Federation's finest specialist in communication
-     with unknown life forms.
+<tr id="L117"><td><a href="#L117">117</a></td><td>TROI:  I thought you might be lonely. No one sees you except Data.</td></tr>
 
-  CRUSHER
-     The more unusual a life form is, the better he
-     likes it. His personnel file shows that he's
-     gravitated toward assignments that isolate him
-     from other humanoids.
+<tr id="L118"><td><a href="#L118">118</a></td><td>TAM:  Lonely? I can hear everything that everyone on this ship thinks. No one besides you seems to be missing my charming</td></tr>
 
+<tr id="L119"><td><a href="#L119">119</a></td><td>TROI:  You want them to dislike you. Why?</td></tr>
 
-LOCATION--Bridge
+<tr id="L120"><td><a href="#L120">120</a></td><td>TAM:  Because I'm not a nice man. Okay, okay. Because they scare me. They're too many minds. I can't shut them out. I never could learn. All their loves, their hates, their fears, their needs. It's like a tide that never ebbs. I could drown.</td></tr>
 
-  WESLEY
-     Commander Data, I'm picking up an unusual echo
-     from my navigational sensors.
+<tr id="L121"><td><a href="#L121">121</a></td><td>TROI:  I remember.</td></tr>
 
-  WORF
-     Something is out there, sir, tracking us, matching
-     our speed and heading. Something which does not
-     fully register on our instruments.
+<tr id="L122"><td><a href="#L122">122</a></td><td>TAM:  You understood, at least a little, how I felt. I see you finally found a place to fit in. People to care about.</td></tr>
 
-  DATA
-     Since there is no known natural phenomenon capable
-     of travel at warp velocities, there are but two
-     possibilities. Either it is a sensor malfunction,
-     another ship is following us covertly.
+<tr id="L123"><td><a href="#L123">123</a></td><td>TROI:  And you're still looking.</td></tr>
 
-  WORF
-     It is not a sensor malfunction.
+<tr id="L124"><td><a href="#L124">124</a></td><td>TAM:  Then there's Ghorusda. I've got enough doubt in my reliability without having to listen to Riker's and Picard's</td></tr>
 
-  DATA
-     Agreed.
+<tr id="L125"><td><a href="#L125">125</a></td><td>TROI:  What happened there?</td></tr>
 
-  WESLEY
-     But Commander, if it is a Romulan ship, with their
-     cloaking device we shouldn't pick them up at all.
+<tr id="L126"><td><a href="#L126">126</a></td><td>TAM:  I thought everyone knew.</td></tr>
 
-  LAFORGE
-     Unless they're pulling so much power for something
-     else that they can't fully cloak.
+<tr id="L127"><td><a href="#L127">127</a></td><td>TROI:  No. What happened to you?</td></tr>
 
-  WESLEY
-     Like what?
+<tr id="L128"><td><a href="#L128">128</a></td><td>TAM:  Maybe I got too involved with the Ghorusdans, with their point of view. It happens to me. I wanted everyone to get along. I could have warned Darson more forcefully.</td></tr>
 
-  LAFORGE
-     Ask the Romulans. If it is the Romulans.
+<tr id="L129"><td><a href="#L129">129</a></td><td>TROI:  So, after that you ran away? The last I heard, you were the only Federation delegate assigned to Chandra Five.</td></tr>
 
-  DATA
-     Lieutenant, continue monitoring the precise
-     position of the echo. Any sudden change in its
-     behaviour, initiate Yellow Alert.
+<tr id="L130"><td><a href="#L130">130</a></td><td>TAM:  Beautiful creatures, the Chandrans. Their minds are glacial. They have a lovely three day ritual for saying hello. Peaceful, untroubled people.</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L131"><td><a href="#L131">131</a></td><td>TROI:  Unlike humanoids?</td></tr>
 
+<tr id="L132"><td><a href="#L132">132</a></td><td>TAM:  Well, except for your friend Data. I like him. He's restful.</td></tr>
 
-LOCATION--Tam's quarters
+<tr id="L133"><td><a href="#L133">133</a></td><td>TROI:  I believe your impression of Data is probably unique.</td></tr>
 
-  TAM
-     Come in.
+<tr id="L134"><td><a href="#L134">134</a></td><td>TAM:  Yeah? Well, having to get to know someone, just once, has its appeal. I mean, talking to them, instead of getting it all at once up here whether I want it or not.</td></tr>
 
-  ANNOTATION
-     Deanna enters
+<tr id="L135"><td><a href="#L135">135</a></td><td>TROI:  But you accepted this mission. You could have stayed on Chandra Five. You willingly came aboard a ship with over a thousand people.</td></tr>
 
-  TAM
-     How're things in the land of the living?
+<tr id="L136"><td><a href="#L136">136</a></td><td>TAM:  How could I not? Think of it, Dee. This intelligence that swims naked through space like a fish in the sea. Totally alien, mysterious, not like us at all. Ancient. And alone. So lonely, for so long.</td></tr>
 
-  TROI
-     I thought you might be lonely. No one sees you
-     except Data.
+<tr id="L137"><td><a href="#L137">137</a></td><td>TROI:  How can you know that? Tam? You're in contact with it. With Tin Man. Aren't you?</td></tr>
 
-  TAM
-     Lonely? I can hear everything that everyone on
-     this ship thinks. No one besides you seems to be
-     missing my charming
+<tr id="L138"><td><a href="#L138">138</a></td><td>TAM:  No. Well, yes, a little. But not quite on a conscious level.</td></tr>
 
-  TROI
-     You want them to dislike you. Why?
+<tr id="L139"><td><a href="#L139">139</a></td><td>TROI:  We're light years away. That's impossible, even for you.</td></tr>
 
-  TAM
-     Because I'm not a nice man. Okay, okay. Because
-     they scare me. They're too many minds. I can't
-     shut them out. I never could learn. All their
-     loves, their hates, their fears, their needs. It's
-     like a tide that never ebbs. I could drown.
+<tr id="L140"><td><a href="#L140">140</a></td><td>TAM:  Impossible for me. Maybe not impossible for Tin Man.</td></tr>
 
-  TROI
-     I remember.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L141"><td><a href="#L141">141</a></td><td>PICARD:  Status report, Number One?</td></tr>
 
-  TAM
-     You understood, at least a little, how I felt. I
-     see you finally found a place to fit in. People to
-     care about.
+<tr id="L142"><td><a href="#L142">142</a></td><td>RIKER:  We've reached the outer regions of the Beta Stromgren system. On course for orbital intercept of Tin Man, ETA eighteen minutes.</td></tr>
 
-  TROI
-     And you're still looking.
+<tr id="L143"><td><a href="#L143">143</a></td><td>PICARD:  Grand.</td></tr>
 
-  TAM
-     Then there's Ghorusda. I've got enough doubt in my
-     reliability without having to listen to Riker's
-     and Picard's
+<tr id="L144"><td><a href="#L144">144</a></td><td>RIKER:  Not altogether. Astrophysics reports that the star's rate of collapse has increased. It could go supernova in the next few days.</td></tr>
 
-  TROI
-     What happened there?
+<tr id="L145"><td><a href="#L145">145</a></td><td>DATA:  Captain, we are receiving relayed sensor data from the Vega Probe, including visuals.</td></tr>
 
-  TAM
-     I thought everyone knew.
+<tr id="L146"><td><a href="#L146">146</a></td><td>PICARD:  On screen.</td></tr>
 
-  TROI
-     No. What happened to you?
+<tr id="L147"><td><a href="#L147">147</a></td><td>ANNOTATION: There's the big, angry orange-red star</td></tr>
 
-  TAM
-     Maybe I got too involved with the Ghorusdans, with
-     their point of view. It happens to me. I wanted
-     everyone to get along. I could have warned Darson
-     more forcefully.
+<tr id="L148"><td><a href="#L148">148</a></td><td>PICARD:  Magnify.</td></tr>
 
-  TROI
-     So, after that you ran away? The last I heard, you
-     were the only Federation delegate assigned to
-     Chandra Five.
+<tr id="L149"><td><a href="#L149">149</a></td><td>ANNOTATION: And a thing that is built like a magnified hair, with the overlapping scales</td></tr>
 
-  TAM
-     Beautiful creatures, the Chandrans. Their minds
-     are glacial. They have a lovely three day ritual
-     for saying hello. Peaceful, untroubled people.
+<tr id="L150"><td><a href="#L150">150</a></td><td>PICARD:  Remarkable. Computer locate Tam Elbrun.</td></tr>
 
-  TROI
-     Unlike humanoids?
+<tr id="L151"><td><a href="#L151">151</a></td><td>COMPUTER:  Tam Elbrun is in turbolift one, en route to the main Bridge.</td></tr>
 
-  TAM
-     Well, except for your friend Data. I like him.
-     He's restful.
+<tr id="L152"><td><a href="#L152">152</a></td><td>PICARD:  Of course.</td></tr>
 
-  TROI
-     I believe your impression of Data is probably
-     unique.
+<tr id="L153"><td><a href="#L153">153</a></td><td>WORF:  Captain. Our sensors are detecting a subspace wave front of highly ionised particles preceding the object which is tracking us.</td></tr>
 
-  TAM
-     Yeah? Well, having to get to know someone, just
-     once, has its appeal. I mean, talking to them,
-     instead of getting it all at once up here whether
-     I want it or not.
+<tr id="L154"><td><a href="#L154">154</a></td><td>ANNOTATION: Troi and Tam have entered</td></tr>
 
-  TROI
-     But you accepted this mission. You could have
-     stayed on Chandra Five. You willingly came aboard
-     a ship with over a thousand people.
+<tr id="L155"><td><a href="#L155">155</a></td><td>PICARD:  Yellow Alert. On screen.</td></tr>
 
-  TAM
-     How could I not? Think of it, Dee. This
-     intelligence that swims naked through space like a
-     fish in the sea. Totally alien, mysterious, not
-     like us at all. Ancient. And alone. So lonely, for
-     so long.
+<tr id="L156"><td><a href="#L156">156</a></td><td>ANNOTATION: It's green and mean</td></tr>
 
-  TROI
-     How can you know that? Tam? You're in contact with
-     it. With Tin Man. Aren't you?
+<tr id="L157"><td><a href="#L157">157</a></td><td>WORF:  Romulan warbird closing. They are arming main disruptors, Captain.</td></tr>
 
-  TAM
-     No. Well, yes, a little. But not quite on a
-     conscious level.
+<tr id="L158"><td><a href="#L158">158</a></td><td>PICARD:  Go to Red Alert. Shields to maximum.</td></tr>
 
-  TROI
-     We're light years away. That's impossible, even
-     for you.
+<tr id="L159"><td><a href="#L159">159</a></td><td>RIKER:  Arm photon torpedoes and stand by, Mister Worf.</td></tr>
 
-  TAM
-     Impossible for me. Maybe not impossible for Tin
-     Man.
+<tr id="L160"><td><a href="#L160">160</a></td><td>WORF:  Aye, sir.</td></tr>
 
+<tr id="L161"><td><a href="#L161">161</a></td><td>RIKER:  I thought you said the Enterprise was faster than this Romulan.</td></tr>
 
-LOCATION--Bridge
+<tr id="L162"><td><a href="#L162">162</a></td><td>DATA:  In fact, we are, Commander. However</td></tr>
 
-  PICARD
-     Status report, Number One?
+<tr id="L163"><td><a href="#L163">163</a></td><td>PICARD:  Evasive, Mister Crusher. Hailing frequencies.</td></tr>
 
-  RIKER
-     We've reached the outer regions of the Beta
-     Stromgren system. On course for orbital intercept
-     of Tin Man, ETA eighteen minutes.
+<tr id="L164"><td><a href="#L164">164</a></td><td>TAM:  I guarantee that they don't want to talk to you, Captain.</td></tr>
 
-  PICARD
-     Grand.
+<tr id="L165"><td><a href="#L165">165</a></td><td>ANNOTATION: Weapons hit, and the lights dim. The Romulan makes a strafing run then heads for the star</td></tr>
 
-  RIKER
-     Not altogether. Astrophysics reports that the
-     star's rate of collapse has increased. It could go
-     supernova in the next few days.
+<tr id="L166"><td><a href="#L166">166</a></td><td>WORF:  The Romulan has passed us.</td></tr>
 
-  DATA
-     Captain, we are receiving relayed sensor data from
-     the Vega Probe, including visuals.
+<tr id="L167"><td><a href="#L167">167</a></td><td>PICARD:  Damage report.</td></tr>
 
-  PICARD
-     On screen.
+<tr id="L168"><td><a href="#L168">168</a></td><td>WORF:  Casualties reported. Seventy percent loss to the shields.</td></tr>
 
-  ANNOTATION
-     There's the big, angry orange-red star
+<tr id="L169"><td><a href="#L169">169</a></td><td>TAM:  Their attack on us was incidental, Captain.</td></tr>
 
-  PICARD
-     Magnify.
+<tr id="L170"><td><a href="#L170">170</a></td><td>PICARD:  Incidental?</td></tr>
 
-  ANNOTATION
-     And a thing that is built like a magnified hair,
-     with the overlapping scales
+<tr id="L171"><td><a href="#L171">171</a></td><td>TAM:  Yes. To delay us.</td></tr>
 
-  PICARD
-     Remarkable. Computer locate Tam Elbrun.
+<tr id="L172"><td><a href="#L172">172</a></td><td>DATA:  Captain, it would appear that the Romulan's intent is to contact Tin Man first, at any cost. According to my sensor readings, the warbird has exceeded maximum engine output by thirty percent. They seem to have irreparable damage to their warp coils.</td></tr>
 
-  COMPUTER
-     Tam Elbrun is in turbolift one, en route to the
-     main Bridge.
+<tr id="L173"><td><a href="#L173">173</a></td><td>RIKER:  So they kept up with us by sacrificing their ability to re-enter Romulan space.</td></tr>
 
-  PICARD
-     Of course.
+<tr id="L174"><td><a href="#L174">174</a></td><td>PICARD:  One way trip.</td></tr>
 
-  WORF
-     Captain. Our sensors are detecting a subspace wave
-     front of highly ionised particles preceding the
-     object which is tracking us.
+<tr id="L175"><td><a href="#L175">175</a></td><td>TAM:  There is one more trailing us, Captain. A day or two behind. Data's right. This one's job is to beat us to Tin Man at any cost.</td></tr>
 
-  ANNOTATION
-     Troi and Tam have entered
+<tr id="L176"><td><a href="#L176">176</a></td><td>PICARD:  You read all this, telepathically?</td></tr>
 
-  PICARD
-     Yellow Alert. On screen.
+<tr id="L177"><td><a href="#L177">177</a></td><td>TAM:  In the mind of the Romulan commander during the attack.</td></tr>
 
-  ANNOTATION
-     It's green and mean
+<tr id="L178"><td><a href="#L178">178</a></td><td>PICARD:  Very well. Mister Crusher, all stop.</td></tr>
 
-  WORF
-     Romulan warbird closing. They are arming main
-     disruptors, Captain.
+<tr id="L179"><td><a href="#L179">179</a></td><td>WESLEY:  Aye, sir.</td></tr>
 
-  PICARD
-     Go to Red Alert. Shields to maximum.
+<tr id="L180"><td><a href="#L180">180</a></td><td>PICARD:  Commander La Forge.</td></tr>
 
-  RIKER
-     Arm photon torpedoes and stand by, Mister Worf.
+<tr id="L181"><td><a href="#L181">181</a></td><td>LAFORGE [OC]:  La Forge here.</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L182"><td><a href="#L182">182</a></td><td>PICARD:  Geordi</td></tr>
 
-  RIKER
-     I thought you said the Enterprise was faster than
-     this Romulan.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L183"><td><a href="#L183">183</a></td><td>PICARD [OC]:  How long to full shield restoration?</td></tr>
 
-  DATA
-     In fact, we are, Commander. However
+<tr id="L184"><td><a href="#L184">184</a></td><td>LAFORGE:  I'm working on it. Computer, reconfigure structural integrity power to feed inner deflector grid.</td></tr>
 
-  PICARD
-     Evasive, Mister Crusher. Hailing frequencies.
+<tr id="L185"><td><a href="#L185">185</a></td><td>COMPUTER:  Unable to comply. Requested reroute would compromise operational safety limits.</td></tr>
 
-  TAM
-     I guarantee that they don't want to talk to you,
-     Captain.
+<tr id="L186"><td><a href="#L186">186</a></td><td>LAFORGE:  To hell with the limits. Override. Authorization La Forge theta two nine nine seven.</td></tr>
 
-  ANNOTATION
-     Weapons hit, and the lights dim. The Romulan makes
-     a strafing run then heads for the star
+<tr id="L187"><td><a href="#L187">187</a></td><td>COMPUTER:  Rerouting structural integrity power supply.</td></tr>
 
-  WORF
-     The Romulan has passed us.
+<tr id="L188"><td><a href="#L188">188</a></td><td>LAFORGE:  Russell, watch the lateral grid balance. No. no, no, that's too much. We're going to have to do it manually. La Forge to Bridge.</td></tr>
 
-  PICARD
-     Damage report.
+<tr id="L189"><td><a href="#L189">189</a></td><td>PICARD [OC]:  Go ahead.</td></tr>
 
-  WORF
-     Casualties reported. Seventy percent loss to the
-     shields.
+<tr id="L190"><td><a href="#L190">190</a></td><td>LAFORGE:  Captain, I'm trying to feed the inner grid by stealing some power from the structural integrity field. You should have partial shielding in thirty minutes.</td></tr>
 
-  TAM
-     Their attack on us was incidental, Captain.
+<tr id="L191"><td><a href="#L191">191</a></td><td>PICARD [OC]:  You have ten. Picard out.</td></tr>
 
-  PICARD
-     Incidental?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L192"><td><a href="#L192">192</a></td><td>PICARD:  If the Romulans wish the honour of the first contact, let them have it.</td></tr>
 
-  TAM
-     Yes. To delay us.
+<tr id="L193"><td><a href="#L193">193</a></td><td>TAM:  You're out of your mind, Picard! What if the Romulans find a way to persuade Tin Man to</td></tr>
 
-  DATA
-     Captain, it would appear that the Romulan's intent
-     is to contact Tin Man first, at any cost.
-     According to my sensor readings, the warbird has
-     exceeded maximum engine output by thirty percent.
-     They seem to have irreparable damage to their warp
-     coils.
+<tr id="L194"><td><a href="#L194">194</a></td><td>PICARD:  I think the chances of that is remote. And if you will be still, Mister Elbrun, you may learn.</td></tr>
 
-  RIKER
-     So they kept up with us by sacrificing their
-     ability to re-enter Romulan space.
+<tr id="L195"><td><a href="#L195">195</a></td><td>TAM:  What?</td></tr>
 
-  PICARD
-     One way trip.
+<tr id="L196"><td><a href="#L196">196</a></td><td>PICARD:  That being first, at any cost, is not always the point. Mister Data, while we await repairs, I want Life Sciences and Engineering to continue collecting information on the alien. And query the Vega Nine probe, long range sensors.</td></tr>
 
-  TAM
-     There is one more trailing us, Captain. A day or
-     two behind. Data's right. This one's job is to
-     beat us to Tin Man at any cost.
+<tr id="L197"><td><a href="#L197">197</a></td><td>DATA:  Aye, sir.</td></tr>
 
-  PICARD
-     You read all this, telepathically?
+<tr><td></td><td>LOCATION--Data's quarters</td></tr>
+<tr id="L198"><td><a href="#L198">198</a></td><td>TAM:  You do a lot of your work here?</td></tr>
 
-  TAM
-     In the mind of the Romulan commander during the
-     attack.
+<tr id="L199"><td><a href="#L199">199</a></td><td>DATA:  Yes. I have configured these instruments to display information with greater speed and efficiency than stations used by the others.</td></tr>
 
-  PICARD
-     Very well. Mister Crusher, all stop.
+<tr id="L200"><td><a href="#L200">200</a></td><td>TAM:  Nice. A little Spartan.</td></tr>
 
-  WESLEY
-     Aye, sir.
+<tr id="L201"><td><a href="#L201">201</a></td><td>DATA:  Spartan?</td></tr>
 
-  PICARD
-     Commander La Forge.
+<tr id="L202"><td><a href="#L202">202</a></td><td>TAM:  Lots of work space, not much room to live. I don't guess you sleep.</td></tr>
 
-  LAFORGE [OC]
-     La Forge here.
+<tr id="L203"><td><a href="#L203">203</a></td><td>DATA:  I have tried it from time to time. But you are correct. I do not require rest.</td></tr>
 
-  PICARD
-     Geordi
+<tr id="L204"><td><a href="#L204">204</a></td><td>TAM:  But you paint.</td></tr>
 
+<tr id="L205"><td><a href="#L205">205</a></td><td>DATA:  The creature's anatomy appears most peculiar.</td></tr>
 
-LOCATION--Engineering
+<tr id="L206"><td><a href="#L206">206</a></td><td>TAM:  In what way?</td></tr>
 
-  PICARD [OC]
-     How long to full shield restoration?
+<tr id="L207"><td><a href="#L207">207</a></td><td>DATA:  It is indeed laid out as a vessel with what appear to be corridors and chambers. An internal environment suitable for carbon based life forms is being maintained, yet there is no evidence of a crew aboard. Tin Man is a living being which has been bred or has adapted itself to serve a purpose. I find that interesting.</td></tr>
 
-  LAFORGE
-     I'm working on it. Computer, reconfigure
-     structural integrity power to feed inner deflector
-     grid.
+<tr id="L208"><td><a href="#L208">208</a></td><td>TAM:  Why? Must living beings have a purpose? Or do we exist for no reason but to exist?</td></tr>
 
-  COMPUTER
-     Unable to comply. Requested reroute would
-     compromise operational safety limits.
+<tr id="L209"><td><a href="#L209">209</a></td><td>DATA:  I do not believe I am qualified to express an opinion.</td></tr>
 
-  LAFORGE
-     To hell with the limits. Override. Authorization
-     La Forge theta two nine nine seven.
+<tr id="L210"><td><a href="#L210">210</a></td><td>TAM:  Ah, Data, you're uniquely qualified. You think a great deal about humanity and you're an honest researcher. You don't treat anything as trivial, or irrelevant. You want to try it all.</td></tr>
 
-  COMPUTER
-     Rerouting structural integrity power supply.
+<tr id="L211"><td><a href="#L211">211</a></td><td>DATA:  You said in the transporter room that you could not read my mind.</td></tr>
 
-  LAFORGE
-     Russell, watch the lateral grid balance. No. no,
-     no, that's too much. We're going to have to do it
-     manually. La Forge to Bridge.
+<tr id="L212"><td><a href="#L212">212</a></td><td>TAM:  True enough. But I think I understand you pretty well. It worries you that I can't read your mind?</td></tr>
 
-  PICARD [OC]
-     Go ahead.
+<tr id="L213"><td><a href="#L213">213</a></td><td>DATA:  Perhaps there is nothing to read. Nothing more than mechanisms and algorithmic responses.</td></tr>
 
-  LAFORGE
-     Captain, I'm trying to feed the inner grid by
-     stealing some power from the structural integrity
-     field. You should have partial shielding in thirty
-     minutes.
+<tr id="L214"><td><a href="#L214">214</a></td><td>TAM:  Perhaps you're just different. Not a sin, you know, though you may have heard otherwise.</td></tr>
 
-  PICARD [OC]
-     You have ten. Picard out.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L215"><td><a href="#L215">215</a></td><td>DATA:  Captain, the Romulan ship is hailing the alien using their equivalent of linguacode.</td></tr>
 
+<tr id="L216"><td><a href="#L216">216</a></td><td>RIKER:  Response?</td></tr>
 
-LOCATION--Bridge
+<tr id="L217"><td><a href="#L217">217</a></td><td>DATA:  Nothing so far, Commander.</td></tr>
 
-  PICARD
-     If the Romulans wish the honour of the first
-     contact, let them have it.
+<tr id="L218"><td><a href="#L218">218</a></td><td>TAM:  Why should it answer? What could it possibly have in common with them?</td></tr>
 
-  TAM
-     You're out of your mind, Picard! What if the
-     Romulans find a way to persuade Tin Man to
+<tr id="L219"><td><a href="#L219">219</a></td><td>RIKER:  But you're so sure it'll talk to you.</td></tr>
 
-  PICARD
-     I think the chances of that is remote. And if you
-     will be still, Mister Elbrun, you may learn.
+<tr id="L220"><td><a href="#L220">220</a></td><td>WORF:  Captain, the Romulans are arming all disruptors.</td></tr>
 
-  TAM
-     What?
+<tr id="L221"><td><a href="#L221">221</a></td><td>PICARD:  Yellow alert. Prepare for evasive action at the first change in the Romulan's course.</td></tr>
 
-  PICARD
-     That being first, at any cost, is not always the
-     point. Mister Data, while we await repairs, I want
-     Life Sciences and Engineering to continue
-     collecting information on the alien. And query the
-     Vega Nine probe, long range sensors.
+<tr id="L222"><td><a href="#L222">222</a></td><td>RIKER:  With our shields in their present condition, we can't</td></tr>
 
-  DATA
-     Aye, sir.
+<tr id="L223"><td><a href="#L223">223</a></td><td>TAM:  No! No! We're not the target. It's Tin Man.</td></tr>
 
+<tr id="L224"><td><a href="#L224">224</a></td><td>PICARD:  What do you mean? Do they intend to destroy it?</td></tr>
 
-LOCATION--Data's quarters
+<tr id="L225"><td><a href="#L225">225</a></td><td>TAM:  Those are their orders if they can't secure the alien.</td></tr>
 
-  TAM
-     You do a lot of your work here?
+<tr id="L226"><td><a href="#L226">226</a></td><td>PICARD:  Increase speed to intercept the Romulan vessel.</td></tr>
 
-  DATA
-     Yes. I have configured these instruments to
-     display information with greater speed and
-     efficiency than stations used by the others.
+<tr id="L227"><td><a href="#L227">227</a></td><td>WESLEY:  Their lead is too great, sir.</td></tr>
 
-  TAM
-     Nice. A little Spartan.
+<tr id="L228"><td><a href="#L228">228</a></td><td>PICARD:  Hail them. We cannot allow them</td></tr>
 
-  DATA
-     Spartan?
+<tr id="L229"><td><a href="#L229">229</a></td><td>TAM:  They won't listen to you!</td></tr>
 
-  TAM
-     Lots of work space, not much room to live. I don't
-     guess you sleep.
+<tr id="L230"><td><a href="#L230">230</a></td><td>ANNOTATION: Tam closes his eyes and clenches his fists</td></tr>
 
-  DATA
-     I have tried it from time to time. But you are
-     correct. I do not require rest.
+<tr id="L231"><td><a href="#L231">231</a></td><td>TAM:  Danger. Gomtuu. Do not allow.</td></tr>
 
-  TAM
-     But you paint.
+<tr id="L232"><td><a href="#L232">232</a></td><td>ANNOTATION: Tin Man turns, presents its stern? to the Romulans and emits an energy pulse that blows the green machine to atoms. The pulse then hits the Enterprise, knocking everyone over and triggering Red Alert</td></tr>
 
-  DATA
-     The creature's anatomy appears most peculiar.
+<tr id="L233"><td><a href="#L233">233</a></td><td>PICARD:  Damage report!</td></tr>
 
-  TAM
-     In what way?
+<tr id="L234"><td><a href="#L234">234</a></td><td>WORF:  Nothing available yet, sir. We have partial failure of the main computer.</td></tr>
 
-  DATA
-     It is indeed laid out as a vessel with what appear
-     to be corridors and chambers. An internal
-     environment suitable for carbon based life forms
-     is being maintained, yet there is no evidence of a
-     crew aboard. Tin Man is a living being which has
-     been bred or has adapted itself to serve a
-     purpose. I find that interesting.
+<tr id="L235"><td><a href="#L235">235</a></td><td>PICARD:  It seems you woke your Tin Man.</td></tr>
 
-  TAM
-     Why? Must living beings have a purpose? Or do we
-     exist for no reason but to exist?
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L236"><td><a href="#L236">236</a></td><td>LAFORGE:  We've got impulse power, but I've got to take the warp engines offline while we recalibrate the intermix regulators.</td></tr>
 
-  DATA
-     I do not believe I am qualified to express an
-     opinion.
+<tr id="L237"><td><a href="#L237">237</a></td><td>RIKER:  How long?</td></tr>
 
-  TAM
-     Ah, Data, you're uniquely qualified. You think a
-     great deal about humanity and you're an honest
-     researcher. You don't treat anything as trivial,
-     or irrelevant. You want to try it all.
+<tr id="L238"><td><a href="#L238">238</a></td><td>LAFORGE:  For everything, or just for the warp engine?</td></tr>
 
-  DATA
-     You said in the transporter room that you could
-     not read my mind.
+<tr id="L239"><td><a href="#L239">239</a></td><td>RIKER:  All of it.</td></tr>
 
-  TAM
-     True enough. But I think I understand you pretty
-     well. It worries you that I can't read your mind?
+<tr id="L240"><td><a href="#L240">240</a></td><td>LAFORGE:  Commander, we're looking at twenty hours work here, double shifts.</td></tr>
 
-  DATA
-     Perhaps there is nothing to read. Nothing more
-     than mechanisms and algorithmic responses.
+<tr id="L241"><td><a href="#L241">241</a></td><td>RIKER:  We don't know that we have twenty hours. That star could explode at any moment.</td></tr>
 
-  TAM
-     Perhaps you're just different. Not a sin, you
-     know, though you may have heard otherwise.
+<tr id="L242"><td><a href="#L242">242</a></td><td>LAFORGE:  I know. Okay, first thing we need to do is get the main computer working right.</td></tr>
 
+<tr id="L243"><td><a href="#L243">243</a></td><td>RIKER:  No, we fix the shields first.</td></tr>
 
-LOCATION--Bridge
+<tr id="L244"><td><a href="#L244">244</a></td><td>LAFORGE:  Commander, whatever Tin Man hit us with, it fried circuits I thought were unfryable.</td></tr>
 
-  DATA
-     Captain, the Romulan ship is hailing the alien
-     using their equivalent of linguacode.
+<tr id="L245"><td><a href="#L245">245</a></td><td>RIKER:  I'm not worried about Tin Man. It's more Romulans showing up.</td></tr>
 
-  RIKER
-     Response?
+<tr id="L246"><td><a href="#L246">246</a></td><td>LAFORGE:  Right. First priority, get the shields up. Only let's not have any more surprises till I'm done, okay?</td></tr>
 
-  DATA
-     Nothing so far, Commander.
+<tr id="L247"><td><a href="#L247">247</a></td><td>RIKER:  Don't ask me about surprises. Ask Tam Elbrun.</td></tr>
 
-  TAM
-     Why should it answer? What could it possibly have
-     in common with them?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L248"><td><a href="#L248">248</a></td><td>CRUSHER:  Your brain activity suggests that you're coming out of a sort of fugue, or seizure. Your blood pressure and glucose are indicative of general systemic stress.</td></tr>
 
-  RIKER
-     But you're so sure it'll talk to you.
+<tr id="L249"><td><a href="#L249">249</a></td><td>TAM:  But I'm going to live?</td></tr>
 
-  WORF
-     Captain, the Romulans are arming all disruptors.
+<tr id="L250"><td><a href="#L250">250</a></td><td>CRUSHER:  No doubt about it.</td></tr>
 
-  PICARD
-     Yellow alert. Prepare for evasive action at the
-     first change in the Romulan's course.
+<tr id="L251"><td><a href="#L251">251</a></td><td>PICARD:  Good. Because I want to know exactly what you did. I want to know how closely you are in communication with the alien, and what you've learned about it, and I want to know now.</td></tr>
 
-  RIKER
-     With our shields in their present condition, we
-     can't
+<tr id="L252"><td><a href="#L252">252</a></td><td>TAM:  I just warned it, that's all. I've been in contact with it, sensing impressions from it. It calls itself Gomtuu. It's old, Captain. It's roamed the universe for many thousands of years.</td></tr>
 
-  TAM
-     No! No! We're not the target. It's Tin Man.
+<tr id="L253"><td><a href="#L253">253</a></td><td>PICARD:  Where did it come from? How many</td></tr>
 
-  PICARD
-     What do you mean? Do they intend to destroy it?
+<tr id="L254"><td><a href="#L254">254</a></td><td>TAM:  Far away. Maybe beyond the galaxy. Once there were millions of them.</td></tr>
 
-  TAM
-     Those are their orders if they can't secure the
-     alien.
+<tr id="L255"><td><a href="#L255">255</a></td><td>PICARD:  Once?</td></tr>
 
-  PICARD
-     Increase speed to intercept the Romulan vessel.
+<tr id="L256"><td><a href="#L256">256</a></td><td>TAM:  It hasn't seen another of its kind for millennia. It's alone. It may be the last of its species.</td></tr>
 
-  WESLEY
-     Their lead is too great, sir.
+<tr id="L257"><td><a href="#L257">257</a></td><td>PICARD:  Perhaps we can help it in some way. Can you ask it to return with us to Federation space? At least persuade it to leave the vicinity of Beta Stromgren, before the star explodes?</td></tr>
 
-  PICARD
-     Hail them. We cannot allow them
+<tr id="L258"><td><a href="#L258">258</a></td><td>TAM:  Captain, Gomtuu knows that the star will go nova soon. That's why it's here. It wants to die. There was an explosion in space. Radiation penetrating the outer layers. The crew. Oh, the crew died. Such loss. Empty pain, Hollowness.</td></tr>
 
-  TAM
-     They won't listen to you!
+<tr id="L259"><td><a href="#L259">259</a></td><td>TROI:  Tam. Stop this! You're losing yourself in this this merging.</td></tr>
 
-  ANNOTATION
-     Tam closes his eyes and clenches his fists
+<tr id="L260"><td><a href="#L260">260</a></td><td>TAM:  I know. I know. Tin Man hurts and wants to die. I can't do any more from out here. If you want me to really reach Tin Man, I have got to be in physical contact. I have got to go aboard.</td></tr>
 
-  TAM
-     Danger. Gomtuu. Do not allow.
+<tr id="L261"><td><a href="#L261">261</a></td><td>PICARD:  No. That is absolutely out of the question.</td></tr>
 
-  ANNOTATION
-     Tin Man turns, presents its stern? to the Romulans
-     and emits an energy pulse that blows the green
-     machine to atoms. The pulse then hits the
-     Enterprise, knocking everyone over and triggering
-     Red Alert
+<tr id="L262"><td><a href="#L262">262</a></td><td>TAM:  You don't trust me.</td></tr>
 
-  PICARD
-     Damage report!
+<tr id="L263"><td><a href="#L263">263</a></td><td>PICARD:  No, Tam, I don't believe that I do. Tam, when you reached out to the alien, to warn it, did you give any thought to this vessel? To the danger, however inadvertent, that creature might pose to our crew? Or did you simply react out of instinct?</td></tr>
 
-  WORF
-     Nothing available yet, sir. We have partial
-     failure of the main computer.
+<tr id="L264"><td><a href="#L264">264</a></td><td>TROI:  Captain</td></tr>
 
-  PICARD
-     It seems you woke your Tin Man.
+<tr id="L265"><td><a href="#L265">265</a></td><td>TAM:  Deanna, he's right. I don't know. I don't know what might happen but if you don't let me go, we fail our mission. Besides, at this point, you need all the help you can get. Even Tin Man's.</td></tr>
 
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L266"><td><a href="#L266">266</a></td><td>LAFORGE:  Russell, reactivate the sensor assemblies. Okay, let's do a programme reload, port array only. Good. That's good. Computer, run level two diagnostic.</td></tr>
 
-LOCATION--Engineering
+<tr id="L267"><td><a href="#L267">267</a></td><td>COMPUTER:  Port sensor array remains offline.</td></tr>
 
-  LAFORGE
-     We've got impulse power, but I've got to take the
-     warp engines offline while we recalibrate the
-     intermix regulators.
+<tr id="L268"><td><a href="#L268">268</a></td><td>LAFORGE:  Damn.</td></tr>
 
-  RIKER
-     How long?
+<tr id="L269"><td><a href="#L269">269</a></td><td>RIKER [OC]:  Riker to La Forge. How's it coming?</td></tr>
 
-  LAFORGE
-     For everything, or just for the warp engine?
+<tr id="L270"><td><a href="#L270">270</a></td><td>LAFORGE:  Not good. I think all the control processors are shot. But maybe if I swap the chips from the secondary array, I can give you a minimum EM scan.</td></tr>
 
-  RIKER
-     All of it.
+<tr id="L271"><td><a href="#L271">271</a></td><td>RIKER [OC]:  Do it.</td></tr>
 
-  LAFORGE
-     Commander, we're looking at twenty hours work
-     here, double shifts.
+<tr id="L272"><td><a href="#L272">272</a></td><td>LAFORGE:  Okay Russell, we're going to try starting retro sensor element thirty two only. You in? Go. The good news is that we have partial long range sensors. La Forge to Bridge.</td></tr>
 
-  RIKER
-     We don't know that we have twenty hours. That star
-     could explode at any moment.
+<tr id="L273"><td><a href="#L273">273</a></td><td>RIKER [OC]:  Riker here.</td></tr>
 
-  LAFORGE
-     I know. Okay, first thing we need to do is get the
-     main computer working right.
+<tr id="L274"><td><a href="#L274">274</a></td><td>LAFORGE:  I'm picking up another echo on the long range sensor display here. You getting that</td></tr>
 
-  RIKER
-     No, we fix the shields first.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L275"><td><a href="#L275">275</a></td><td>LAFORGE [OC]:  On your panel?</td></tr>
 
-  LAFORGE
-     Commander, whatever Tin Man hit us with, it fried
-     circuits I thought were unfryable.
+<tr id="L276"><td><a href="#L276">276</a></td><td>RIKER:  Worf?</td></tr>
 
-  RIKER
-     I'm not worried about Tin Man. It's more Romulans
-     showing up.
+<tr id="L277"><td><a href="#L277">277</a></td><td>WORF:  One moment, Commander. Confirmed. Sir, the other Romulan ship on an intercept course.</td></tr>
 
-  LAFORGE
-     Right. First priority, get the shields up. Only
-     let's not have any more surprises till I'm done,
-     okay?
+<tr id="L278"><td><a href="#L278">278</a></td><td>RIKER:  Geordi, are we going to have those shields anytime soon?</td></tr>
 
-  RIKER
-     Don't ask me about surprises. Ask Tam Elbrun.
+<tr id="L279"><td><a href="#L279">279</a></td><td>LAFORGE [OC]:  I'm doing the best I can</td></tr>
 
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L280"><td><a href="#L280">280</a></td><td>LAFORGE:  But shields won't help if that star explodes.</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L281"><td><a href="#L281">281</a></td><td>PICARD:  Data, you seem to have developed an affinity with Elbrun. Troi, you've known him for years. How far can he be trusted?</td></tr>
 
-  CRUSHER
-     Your brain activity suggests that you're coming
-     out of a sort of fugue, or seizure. Your blood
-     pressure and glucose are indicative of general
-     systemic stress.
+<tr id="L282"><td><a href="#L282">282</a></td><td>TROI:  Captain, the issue isn't one of trust in Tam's intentions, but in his judgment. I would trust him to do what he believes is right</td></tr>
 
-  TAM
-     But I'm going to live?
+<tr id="L283"><td><a href="#L283">283</a></td><td>PICARD:  Yes, of course. But his judgment</td></tr>
 
-  CRUSHER
-     No doubt about it.
+<tr id="L284"><td><a href="#L284">284</a></td><td>TROI:  Is precarious. The stress of exposure to so many minds on the ship is bad enough. Now he's strongly drawn to this creature. I'm afraid for him.</td></tr>
 
-  PICARD
-     Good. Because I want to know exactly what you did.
-     I want to know how closely you are in
-     communication with the alien, and what you've
-     learned about it, and I want to know now.
+<tr id="L285"><td><a href="#L285">285</a></td><td>PICARD:  Afraid of what?</td></tr>
 
-  TAM
-     I just warned it, that's all. I've been in contact
-     with it, sensing impressions from it. It calls
-     itself Gomtuu. It's old, Captain. It's roamed the
-     universe for many thousands of years.
+<tr id="L286"><td><a href="#L286">286</a></td><td>TROI:  I sense that the alien is somehow calling him. If we allow him to do as he insists, to beam over, I'm believe that we will lose him to it. That he will lose himself.</td></tr>
 
-  PICARD
-     Where did it come from? How many
+<tr id="L287"><td><a href="#L287">287</a></td><td>DATA:  Captain, I agree that Tam's motives are trustworthy, and I do not believe it is possible that he will act against us, or will cause Tin Man to act against us out of malice.</td></tr>
 
-  TAM
-     Far away. Maybe beyond the galaxy. Once there were
-     millions of them.
+<tr id="L288"><td><a href="#L288">288</a></td><td>TROI:  Captain, if Tam breaks down over there, we'll be no closer to accomplishing our mission. It would be a grave mistake.</td></tr>
 
-  PICARD
-     Once?
+<tr id="L289"><td><a href="#L289">289</a></td><td>PICARD:  Thank you both.</td></tr>
 
-  TAM
-     It hasn't seen another of its kind for millennia.
-     It's alone. It may be the last of its species.
+<tr id="L290"><td><a href="#L290">290</a></td><td>ANNOTATION: Troi leaves</td></tr>
 
-  PICARD
-     Perhaps we can help it in some way. Can you ask it
-     to return with us to Federation space? At least
-     persuade it to leave the vicinity of Beta
-     Stromgren, before the star explodes?
+<tr id="L291"><td><a href="#L291">291</a></td><td>PICARD:  Data?</td></tr>
 
-  TAM
-     Captain, Gomtuu knows that the star will go nova
-     soon. That's why it's here. It wants to die. There
-     was an explosion in space. Radiation penetrating
-     the outer layers. The crew. Oh, the crew died.
-     Such loss. Empty pain, Hollowness.
+<tr id="L292"><td><a href="#L292">292</a></td><td>DATA:  I am puzzled, sir. We have come this far. Are you not going to allow Tam to fulfill his mission?</td></tr>
 
-  TROI
-     Tam. Stop this! You're losing yourself in this
-     this merging.
+<tr id="L293"><td><a href="#L293">293</a></td><td>PICARD:  Tam Elbrun warned Tin Man. The first thing it did was to destroy a space vessel.</td></tr>
 
-  TAM
-     I know. I know. Tin Man hurts and wants to die. I
-     can't do any more from out here. If you want me to
-     really reach Tin Man, I have got to be in physical
-     contact. I have got to go aboard.
+<tr id="L294"><td><a href="#L294">294</a></td><td>DATA:  I believe I understand, sir. If you feel the risk is too great to send Tam Elbrun alone, then send me with him.</td></tr>
 
-  PICARD
-     No. That is absolutely out of the question.
+<tr id="L295"><td><a href="#L295">295</a></td><td>PICARD:  Counselor Troi understands him better.</td></tr>
 
-  TAM
-     You don't trust me.
+<tr id="L296"><td><a href="#L296">296</a></td><td>DATA:  But he is more comfortable with me, sir. It is humanity he is fleeing. Sir, I can serve as an intermediary, a bridge back. A reminder of his obligations both to us and to Tin Man.</td></tr>
 
-  PICARD
-     No, Tam, I don't believe that I do. Tam, when you
-     reached out to the alien, to warn it, did you give
-     any thought to this vessel? To the danger, however
-     inadvertent, that creature might pose to our crew?
-     Or did you simply react out of instinct?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L297"><td><a href="#L297">297</a></td><td>WORF:  Captain, the Romulan has uncloaked.</td></tr>
 
-  TROI
-     Captain
+<tr id="L298"><td><a href="#L298">298</a></td><td>PICARD:  Status, Number One?</td></tr>
 
-  TAM
-     Deanna, he's right. I don't know. I don't know
-     what might happen but if you don't let me go, we
-     fail our mission. Besides, at this point, you need
-     all the help you can get. Even Tin Man's.
+<tr id="L299"><td><a href="#L299">299</a></td><td>RIKER:  Shields are at forty percent. We can manoeuvre on impulse, sir.</td></tr>
 
+<tr id="L300"><td><a href="#L300">300</a></td><td>WORF:  Phasers available on manual, sir. Computer target lock not functioning.</td></tr>
 
-LOCATION--Engineering
+<tr id="L301"><td><a href="#L301">301</a></td><td>PICARD:  Well, let's hope they're in a mood to talk. Hailing frequency.</td></tr>
 
-  LAFORGE
-     Russell, reactivate the sensor assemblies. Okay,
-     let's do a programme reload, port array only.
-     Good. That's good. Computer, run level two
-     diagnostic.
+<tr id="L302"><td><a href="#L302">302</a></td><td>WORF:  Open.</td></tr>
 
-  COMPUTER
-     Port sensor array remains offline.
+<tr id="L303"><td><a href="#L303">303</a></td><td>PICARD:  Romulan vessel this is Captain Jean-Luc Picard of the USS Enterprise.</td></tr>
 
-  LAFORGE
-     Damn.
+<tr id="L304"><td><a href="#L304">304</a></td><td>ROMULAN [on viewscreen]:  Enterprise, your presence here is a violation of Romulan space. You will leave immediately.</td></tr>
 
-  RIKER [OC]
-     Riker to La Forge. How's it coming?
+<tr id="L305"><td><a href="#L305">305</a></td><td>PICARD:  We are not familiar with the terms of your claim on this sector. We're here engaged in scientific research. Do you wish to participate?</td></tr>
 
-  LAFORGE
-     Not good. I think all the control processors are
-     shot. But maybe if I swap the chips from the
-     secondary array, I can give you a minimum EM scan.
+<tr id="L306"><td><a href="#L306">306</a></td><td>ROMULAN [on viewscreen]:  We have monitored the destruction of our sister ship by the star creature. We claim right of vengeance. We will destroy the alien. If you interfere, we will destroy you as well.</td></tr>
 
-  RIKER [OC]
-     Do it.
+<tr id="L307"><td><a href="#L307">307</a></td><td>SOMEONE: Captain's log, Supplemental. A confrontation between the Romulan Warbird and Tin Man is imminent. I have no alternative but to rely on the telepathic abilities of Tam Elbrun.</td></tr>
 
-  LAFORGE
-     Okay Russell, we're going to try starting retro
-     sensor element thirty two only. You in? Go. The
-     good news is that we have partial long range
-     sensors. La Forge to Bridge.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L308"><td><a href="#L308">308</a></td><td>PICARD:  Picard to Tam Elbrun.</td></tr>
 
-  RIKER [OC]
-     Riker here.
+<tr id="L309"><td><a href="#L309">309</a></td><td>TAM [OC]:  Captain?</td></tr>
 
-  LAFORGE
-     I'm picking up another echo on the long range
-     sensor display here. You getting that
+<tr id="L310"><td><a href="#L310">310</a></td><td>PICARD:  Report to transporter room six immediately.</td></tr>
 
+<tr id="L311"><td><a href="#L311">311</a></td><td>TROI:  Captain, I don't</td></tr>
 
-LOCATION--Bridge
+<tr id="L312"><td><a href="#L312">312</a></td><td>PICARD:  Commander Data will meet you there.</td></tr>
 
-  LAFORGE [OC]
-     On your panel?
+<tr id="L313"><td><a href="#L313">313</a></td><td>TAM [OC]:  Yes, Captain.</td></tr>
 
-  RIKER
-     Worf?
+<tr id="L314"><td><a href="#L314">314</a></td><td>PICARD:  Counsellor, we no longer have a choice.</td></tr>
 
-  WORF
-     One moment, Commander. Confirmed. Sir, the other
-     Romulan ship on an intercept course.
+<tr><td></td><td>LOCATION--Gomtuu corridor</td></tr>
+<tr id="L315"><td><a href="#L315">315</a></td><td>ANNOTATION: not so much a corridor as an artery with no blood</td></tr>
 
-  RIKER
-     Geordi, are we going to have those shields anytime
-     soon?
+<tr id="L316"><td><a href="#L316">316</a></td><td>TAM:  No. No. Too much. Too much.</td></tr>
 
-  LAFORGE [OC]
-     I'm doing the best I can
+<tr id="L317"><td><a href="#L317">317</a></td><td>DATA:  Tam?</td></tr>
 
+<tr id="L318"><td><a href="#L318">318</a></td><td>TAM:  I can't.</td></tr>
 
-LOCATION--Engineering
+<tr id="L319"><td><a href="#L319">319</a></td><td>DATA:  Data to Enterprise. Enterprise, come in.</td></tr>
 
-  LAFORGE
-     But shields won't help if that star explodes.
+<tr id="L320"><td><a href="#L320">320</a></td><td>TAM:  No, don't.</td></tr>
 
+<tr id="L321"><td><a href="#L321">321</a></td><td>DATA:  If it is harming you, we must return. Enterprise, respond.</td></tr>
 
-LOCATION--Ready room
+<tr id="L322"><td><a href="#L322">322</a></td><td>TAM:  It's all right. It's all right now. Gomtuu was trying to communicate a lifetime of experiences to me in a few seconds, but I'm all right now.</td></tr>
 
-  PICARD
-     Data, you seem to have developed an affinity with
-     Elbrun. Troi, you've known him for years. How far
-     can he be trusted?
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L323"><td><a href="#L323">323</a></td><td>O'BRIEN:  O'Brien to Bridge.</td></tr>
 
-  TROI
-     Captain, the issue isn't one of trust in Tam's
-     intentions, but in his judgment. I would trust him
-     to do what he believes is right
+<tr id="L324"><td><a href="#L324">324</a></td><td>PICARD [OC]:  Go ahead, Chief.</td></tr>
 
-  PICARD
-     Yes, of course. But his judgment
+<tr id="L325"><td><a href="#L325">325</a></td><td>O'BRIEN:  I lost the transporter lock on them.</td></tr>
 
-  TROI
-     Is precarious. The stress of exposure to so many
-     minds on the ship is bad enough. Now he's strongly
-     drawn to this creature. I'm afraid for him.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L326"><td><a href="#L326">326</a></td><td>O'BRIEN [OC]:  Some kind of force field went up.</td></tr>
 
-  PICARD
-     Afraid of what?
+<tr id="L327"><td><a href="#L327">327</a></td><td>WORF:  Confirmed. The alien has thrown up a shield. It is blocking all our sensors. Captain, the Romulans' weapons systems are now at full power.</td></tr>
 
-  TROI
-     I sense that the alien is somehow calling him. If
-     we allow him to do as he insists, to beam over,
-     I'm believe that we will lose him to it. That he
-     will lose himself.
+<tr id="L328"><td><a href="#L328">328</a></td><td>PICARD:  Follow them in, Mister Crusher. Red Alert. Mister Worf, arm photon torpedoes.</td></tr>
 
-  DATA
-     Captain, I agree that Tam's motives are
-     trustworthy, and I do not believe it is possible
-     that he will act against us, or will cause Tin Man
-     to act against us out of malice.
+<tr id="L329"><td><a href="#L329">329</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  TROI
-     Captain, if Tam breaks down over there, we'll be
-     no closer to accomplishing our mission. It would
-     be a grave mistake.
+<tr><td></td><td>LOCATION--Gomtuu corridor</td></tr>
+<tr id="L330"><td><a href="#L330">330</a></td><td>ANNOTATION: Tam's hand sinks into the organic wall</td></tr>
 
-  PICARD
-     Thank you both.
+<tr id="L331"><td><a href="#L331">331</a></td><td>TAM:  Yes.</td></tr>
 
-  ANNOTATION
-     Troi leaves
+<tr id="L332"><td><a href="#L332">332</a></td><td>ANNOTATION: But for Data it is a solid surface</td></tr>
 
-  PICARD
-     Data?
+<tr id="L333"><td><a href="#L333">333</a></td><td>DATA:  There is a large chamber twenty metres ahead.</td></tr>
 
-  DATA
-     I am puzzled, sir. We have come this far. Are you
-     not going to allow Tam to fulfill his mission?
+<tr id="L334"><td><a href="#L334">334</a></td><td>TAM:  I know. I know everything now. Come on.</td></tr>
 
-  PICARD
-     Tam Elbrun warned Tin Man. The first thing it did
-     was to destroy a space vessel.
+<tr id="L335"><td><a href="#L335">335</a></td><td>ANNOTATION: further on, a door opens for them</td></tr>
 
-  DATA
-     I believe I understand, sir. If you feel the risk
-     is too great to send Tam Elbrun alone, then send
-     me with him.
+<tr><td></td><td>LOCATION--Pilot chamber</td></tr>
+<tr id="L336"><td><a href="#L336">336</a></td><td>ANNOTATION: it seems empty</td></tr>
 
-  PICARD
-     Counselor Troi understands him better.
+<tr id="L337"><td><a href="#L337">337</a></td><td>DATA:  Intriguing.</td></tr>
 
-  DATA
-     But he is more comfortable with me, sir. It is
-     humanity he is fleeing. Sir, I can serve as an
-     intermediary, a bridge back. A reminder of his
-     obligations both to us and to Tin Man.
+<tr id="L338"><td><a href="#L338">338</a></td><td>TAM:  This is the control centre, where Gomtuu's crew guided their journeys. The ship and the crew existed symbiotically. They needed one another. When Gomtuu had no one left to care for, it no longer had a reason to exist.</td></tr>
 
+<tr id="L339"><td><a href="#L339">339</a></td><td>DATA:  Is that the purpose of existence? To care for someone?</td></tr>
 
-LOCATION--Bridge
+<tr id="L340"><td><a href="#L340">340</a></td><td>TAM:  It is for me. Deanna was right. I'll lose myself here.</td></tr>
 
-  WORF
-     Captain, the Romulan has uncloaked.
+<tr id="L341"><td><a href="#L341">341</a></td><td>ANNOTATION: a chair grows up out of the floor</td></tr>
 
-  PICARD
-     Status, Number One?
+<tr id="L342"><td><a href="#L342">342</a></td><td>DATA:  I must remind you that our objective is to bring Tin Man out of danger and report our findings to Starfleet.</td></tr>
 
-  RIKER
-     Shields are at forty percent. We can manoeuvre on
-     impulse, sir.
+<tr id="L343"><td><a href="#L343">343</a></td><td>TAM:  I'm not going back, Data. I'm staying here.</td></tr>
 
-  WORF
-     Phasers available on manual, sir. Computer target
-     lock not functioning.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L344"><td><a href="#L344">344</a></td><td>WORF:  Sir, the Romulans are hailing us.</td></tr>
 
-  PICARD
-     Well, let's hope they're in a mood to talk.
-     Hailing frequency.
+<tr id="L345"><td><a href="#L345">345</a></td><td>ROMULAN [on viewscreen]:  Captain Picard, if you interfere with us, we will fire upon you as well.</td></tr>
 
-  WORF
-     Open.
+<tr id="L346"><td><a href="#L346">346</a></td><td>PICARD:  Commander, we are prepared to defend the life of the alien. Screen off. Shields up.</td></tr>
 
-  PICARD
-     Romulan vessel this is Captain Jean-Luc Picard of
-     the USS Enterprise.
+<tr id="L347"><td><a href="#L347">347</a></td><td>WORF:  Power levels aboard the alien are increasing, sir.</td></tr>
 
-  ROMULAN [on viewscreen]
-     Enterprise, your presence here is a violation of
-     Romulan space. You will leave immediately.
+<tr id="L348"><td><a href="#L348">348</a></td><td>WESLEY:  Captain, the diameter of the star has decreased by one hundred thousand kilometres.</td></tr>
 
-  PICARD
-     We are not familiar with the terms of your claim
-     on this sector. We're here engaged in scientific
-     research. Do you wish to participate?
+<tr id="L349"><td><a href="#L349">349</a></td><td>PICARD:  It's beginning.</td></tr>
 
-  ROMULAN [on viewscreen]
-     We have monitored the destruction of our sister
-     ship by the star creature. We claim right of
-     vengeance. We will destroy the alien. If you
-     interfere, we will destroy you as well.
+<tr><td></td><td>LOCATION--Pilot chamber</td></tr>
+<tr id="L350"><td><a href="#L350">350</a></td><td>ANNOTATION: Tam is in the chair, and a viewscreen opens in front of him. He looks blissful</td></tr>
 
-  SOMEONE
-     Captain's log, Supplemental. A confrontation
-     between the Romulan Warbird and Tin Man is
-     imminent. I have no alternative but to rely on the
-     telepathic abilities of Tam Elbrun.
+<tr id="L351"><td><a href="#L351">351</a></td><td>TAM:  Explain to them. Make them understand.</td></tr>
 
+<tr id="L352"><td><a href="#L352">352</a></td><td>DATA:  But our mission</td></tr>
 
-LOCATION--Bridge
+<tr id="L353"><td><a href="#L353">353</a></td><td>TAM:  Is to save Tin Man. And I will. But he's going to save me as well. All my life I have waited for this. A chance to find peace. Finally all the voices are silent. Only Tin Man speaks to me now. Don't you see, Data? This is where I belong.</td></tr>
 
-  PICARD
-     Picard to Tam Elbrun.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L354"><td><a href="#L354">354</a></td><td>RIKER:  That star's going to go any minute, sir.</td></tr>
 
-  TAM [OC]
-     Captain?
+<tr id="L355"><td><a href="#L355">355</a></td><td>PICARD:  The Romulans know that as well as we do.</td></tr>
 
-  PICARD
-     Report to transporter room six immediately.
+<tr id="L356"><td><a href="#L356">356</a></td><td>WORF:  Power levels aboard Tin Man are increasing beyond our sensor range.</td></tr>
 
-  TROI
-     Captain, I don't
+<tr id="L357"><td><a href="#L357">357</a></td><td>ANNOTATION: Gomtuu does his spin and throws out another wave of energy, this time just pushing the two starships fairly gently away from the sun</td></tr>
 
-  PICARD
-     Commander Data will meet you there.
+<tr id="L358"><td><a href="#L358">358</a></td><td>PICARD:  Conn report.</td></tr>
 
-  TAM [OC]
-     Yes, Captain.
+<tr id="L359"><td><a href="#L359">359</a></td><td>WESLEY:  Dead stop, Captain. Sir, we've been thrown clear of Beta Stromgren. A distance of three point eight billion kilometres.</td></tr>
 
-  PICARD
-     Counsellor, we no longer have a choice.
+<tr id="L360"><td><a href="#L360">360</a></td><td>WORF:  There is no sign of Tin Man or the Romulans, sir. Captain, on screen.</td></tr>
 
+<tr id="L361"><td><a href="#L361">361</a></td><td>ANNOTATION: The star flares in a supernova</td></tr>
 
-LOCATION--Gomtuu corridor
+<tr id="L362"><td><a href="#L362">362</a></td><td>PICARD:  Data.</td></tr>
 
-  ANNOTATION
-     not so much a corridor as an artery with no blood
+<tr id="L363"><td><a href="#L363">363</a></td><td>DATA:  Sir?</td></tr>
 
-  TAM
-     No. No. Too much. Too much.
+<tr id="L364"><td><a href="#L364">364</a></td><td>PICARD:  Data, what happened over there?</td></tr>
 
-  DATA
-     Tam?
+<tr id="L365"><td><a href="#L365">365</a></td><td>DATA:  Difficult to explain, Captain.</td></tr>
 
-  TAM
-     I can't.
+<tr id="L366"><td><a href="#L366">366</a></td><td>TROI:  Tam?</td></tr>
 
-  DATA
-     Data to Enterprise. Enterprise, come in.
+<tr id="L367"><td><a href="#L367">367</a></td><td>DATA:  I believe he found what he was looking for, Counsellor.</td></tr>
 
-  TAM
-     No, don't.
+<tr id="L368"><td><a href="#L368">368</a></td><td>SOMEONE: Captain's log, supplemental. With all main systems at least temporarily restored, we are proceeding to Starbase one five two for inspection and additional repairs. We have had no further encounter with the Romulans. As for the whereabouts of Tin Man and Tam Elbrun, we can only speculate.</td></tr>
 
-  DATA
-     If it is harming you, we must return. Enterprise,
-     respond.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L369"><td><a href="#L369">369</a></td><td>TROI:  You sent for me?</td></tr>
 
-  TAM
-     It's all right. It's all right now. Gomtuu was
-     trying to communicate a lifetime of experiences to
-     me in a few seconds, but I'm all right now.
+<tr id="L370"><td><a href="#L370">370</a></td><td>DATA:  Yes, Counsellor. It was Tam's final request that I explain his decision to the crew. But I believe his hope was that you would understand.</td></tr>
 
+<tr id="L371"><td><a href="#L371">371</a></td><td>TROI:  What did happen?</td></tr>
 
-LOCATION--Transporter room
+<tr id="L372"><td><a href="#L372">372</a></td><td>DATA:  I witnessed something remarkable. Individually they were both so</td></tr>
 
-  O'BRIEN
-     O'Brien to Bridge.
+<tr id="L373"><td><a href="#L373">373</a></td><td>TROI:  Wounded? Isolated?</td></tr>
 
-  PICARD [OC]
-     Go ahead, Chief.
+<tr id="L374"><td><a href="#L374">374</a></td><td>DATA:  Yes. But no longer. Through joining they have been healed. Grief has been transmuted to joy. Loneliness to belonging.</td></tr>
 
-  O'BRIEN
-     I lost the transporter lock on them.
+<tr id="L375"><td><a href="#L375">375</a></td><td>TROI:  Data, you do understand.</td></tr>
 
+<tr id="L376"><td><a href="#L376">376</a></td><td>DATA:  Yes, Counsellor. When Tin Man returned me to the Enterprise, I realised this is where I belong.</td></tr>
 
-LOCATION--Bridge
-
-  O'BRIEN [OC]
-     Some kind of force field went up.
-
-  WORF
-     Confirmed. The alien has thrown up a shield. It is
-     blocking all our sensors. Captain, the Romulans'
-     weapons systems are now at full power.
-
-  PICARD
-     Follow them in, Mister Crusher. Red Alert. Mister
-     Worf, arm photon torpedoes.
-
-  WORF
-     Aye, sir.
-
-
-LOCATION--Gomtuu corridor
-
-  ANNOTATION
-     Tam's hand sinks into the organic wall
-
-  TAM
-     Yes.
-
-  ANNOTATION
-     But for Data it is a solid surface
-
-  DATA
-     There is a large chamber twenty metres ahead.
-
-  TAM
-     I know. I know everything now. Come on.
-
-  ANNOTATION
-     further on, a door opens for them
-
-
-LOCATION--Pilot chamber
-
-  ANNOTATION
-     it seems empty
-
-  DATA
-     Intriguing.
-
-  TAM
-     This is the control centre, where Gomtuu's crew
-     guided their journeys. The ship and the crew
-     existed symbiotically. They needed one another.
-     When Gomtuu had no one left to care for, it no
-     longer had a reason to exist.
-
-  DATA
-     Is that the purpose of existence? To care for
-     someone?
-
-  TAM
-     It is for me. Deanna was right. I'll lose myself
-     here.
-
-  ANNOTATION
-     a chair grows up out of the floor
-
-  DATA
-     I must remind you that our objective is to bring
-     Tin Man out of danger and report our findings to
-     Starfleet.
-
-  TAM
-     I'm not going back, Data. I'm staying here.
-
-
-LOCATION--Bridge
-
-  WORF
-     Sir, the Romulans are hailing us.
-
-  ROMULAN [on viewscreen]
-     Captain Picard, if you interfere with us, we will
-     fire upon you as well.
-
-  PICARD
-     Commander, we are prepared to defend the life of
-     the alien. Screen off. Shields up.
-
-  WORF
-     Power levels aboard the alien are increasing, sir.
-
-  WESLEY
-     Captain, the diameter of the star has decreased by
-     one hundred thousand kilometres.
-
-  PICARD
-     It's beginning.
-
-
-LOCATION--Pilot chamber
-
-  ANNOTATION
-     Tam is in the chair, and a viewscreen opens in
-     front of him. He looks blissful
-
-  TAM
-     Explain to them. Make them understand.
-
-  DATA
-     But our mission
-
-  TAM
-     Is to save Tin Man. And I will. But he's going to
-     save me as well. All my life I have waited for
-     this. A chance to find peace. Finally all the
-     voices are silent. Only Tin Man speaks to me now.
-     Don't you see, Data? This is where I belong.
-
-
-LOCATION--Bridge
-
-  RIKER
-     That star's going to go any minute, sir.
-
-  PICARD
-     The Romulans know that as well as we do.
-
-  WORF
-     Power levels aboard Tin Man are increasing beyond
-     our sensor range.
-
-  ANNOTATION
-     Gomtuu does his spin and throws out another wave
-     of energy, this time just pushing the two
-     starships fairly gently away from the sun
-
-  PICARD
-     Conn report.
-
-  WESLEY
-     Dead stop, Captain. Sir, we've been thrown clear
-     of Beta Stromgren. A distance of three point eight
-     billion kilometres.
-
-  WORF
-     There is no sign of Tin Man or the Romulans, sir.
-     Captain, on screen.
-
-  ANNOTATION
-     The star flares in a supernova
-
-  PICARD
-     Data.
-
-  DATA
-     Sir?
-
-  PICARD
-     Data, what happened over there?
-
-  DATA
-     Difficult to explain, Captain.
-
-  TROI
-     Tam?
-
-  DATA
-     I believe he found what he was looking for,
-     Counsellor.
-
-  SOMEONE
-     Captain's log, supplemental. With all main systems
-     at least temporarily restored, we are proceeding
-     to Starbase one five two for inspection and
-     additional repairs. We have had no further
-     encounter with the Romulans. As for the
-     whereabouts of Tin Man and Tam Elbrun, we can only
-     speculate.
-
-
-LOCATION--Observation lounge
-
-  TROI
-     You sent for me?
-
-  DATA
-     Yes, Counsellor. It was Tam's final request that I
-     explain his decision to the crew. But I believe
-     his hope was that you would understand.
-
-  TROI
-     What did happen?
-
-  DATA
-     I witnessed something remarkable. Individually
-     they were both so
-
-  TROI
-     Wounded? Isolated?
-
-  DATA
-     Yes. But no longer. Through joining they have been
-     healed. Grief has been transmuted to joy.
-     Loneliness to belonging.
-
-  TROI
-     Data, you do understand.
-
-  DATA
-     Yes, Counsellor. When Tin Man returned me to the
-     Enterprise, I realised this is where I belong.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

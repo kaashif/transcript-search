@@ -1,1615 +1,793 @@
-The Gamesters Of Triskelion
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Gamesters Of Triskelion</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>KIRK:  Ensign Chekov, Lieutenant Uhura, and I will beam down and make a routine check of its facilities.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>CHEKOV:  Standard orbit, Captain.</td></tr>
 
-  KIRK
-     Ensign Chekov, Lieutenant Uhura, and I will beam
-     down and make a routine check of its facilities.
+<tr id="L3"><td><a href="#L3">3</a></td><td>KIRK:  Good. Mind the store, Mister Spock.</td></tr>
 
-  CHEKOV
-     Standard orbit, Captain.
+<tr id="L4"><td><a href="#L4">4</a></td><td>SPOCK:  Acknowledged, Captain.</td></tr>
 
-  KIRK
-     Good. Mind the store, Mister Spock.
+<tr id="L5"><td><a href="#L5">5</a></td><td>KIRK:  Lieutenant Uhura, let's go.</td></tr>
 
-  SPOCK
-     Acknowledged, Captain.
+<tr id="L6"><td><a href="#L6">6</a></td><td>UHURA:  Yes, sir.</td></tr>
 
-  KIRK
-     Lieutenant Uhura, let's go.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L7"><td><a href="#L7">7</a></td><td>KIRK:  Energise, Scotty.</td></tr>
 
-  UHURA
-     Yes, sir.
+<tr id="L8"><td><a href="#L8">8</a></td><td>SCOTT:  Aye, Captain.</td></tr>
 
+<tr id="L9"><td><a href="#L9">9</a></td><td>ANNOTATION: But before he can touch the controls, the landing party vanish abruptly.</td></tr>
 
-LOCATION--Transporter room
+<tr><td></td><td>LOCATION--Combat area</td></tr>
+<tr id="L10"><td><a href="#L10">10</a></td><td>ANNOTATION: The three appear lying on the ground, on a decorated surface. There are iron railings around a vaguely triangular area, and three benches, one on each side.</td></tr>
 
-  KIRK
-     Energise, Scotty.
+<tr id="L11"><td><a href="#L11">11</a></td><td>CHEKOV:  Captain. what happened?</td></tr>
 
-  SCOTT
-     Aye, Captain.
+<tr id="L12"><td><a href="#L12">12</a></td><td>KIRK:  It must be a transporter malfunction.</td></tr>
 
-  ANNOTATION
-     But before he can touch the controls, the landing
-     party vanish abruptly.
+<tr id="L13"><td><a href="#L13">13</a></td><td>CHEKOV:  That was a rough trip.</td></tr>
 
+<tr id="L14"><td><a href="#L14">14</a></td><td>KIRK:  This isn't Gamma Two. Look at the colour of that sky. (it's green)</td></tr>
 
-LOCATION--Combat area
+<tr id="L15"><td><a href="#L15">15</a></td><td>UHURA:  This is the craziest landing pad I've ever seen.</td></tr>
 
-  ANNOTATION
-     The three appear lying on the ground, on a
-     decorated surface. There are iron railings around
-     a vaguely triangular area, and three benches, one
-     on each side.
+<tr id="L16"><td><a href="#L16">16</a></td><td>KIRK:  That's a trinary sun.</td></tr>
 
-  CHEKOV
-     Captain. what happened?
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L17"><td><a href="#L17">17</a></td><td>SCOTT:  Scott to Bridge.</td></tr>
 
-  KIRK
-     It must be a transporter malfunction.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L18"><td><a href="#L18">18</a></td><td>SPOCK:  Spock here.</td></tr>
 
-  CHEKOV
-     That was a rough trip.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L19"><td><a href="#L19">19</a></td><td>SCOTT:  Mister Spock, the Captain, Lieutenant Uhura, and Chekov. they vanished. They got onto the transporter platform and they just vanished.</td></tr>
 
-  KIRK
-     This isn't Gamma Two. Look at the colour of that
-     sky. (it's green)
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L20"><td><a href="#L20">20</a></td><td>SPOCK:  I presume you mean they vanished in a manner not consistent with the usual workings of the transporter, Mister Scott.</td></tr>
 
-  UHURA
-     This is the craziest landing pad I've ever seen.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L21"><td><a href="#L21">21</a></td><td>SCOTT:  Aye, of course I mean that. You think I'd call if they just beamed down?</td></tr>
 
-  KIRK
-     That's a trinary sun.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L22"><td><a href="#L22">22</a></td><td>SPOCK:  Have you reversed controls?</td></tr>
 
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L23"><td><a href="#L23">23</a></td><td>SCOTT:  I've made all the proper checks. There was nothing. There was no flash of light, nothing. They were gone.</td></tr>
 
-LOCATION--Transporter room
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L24"><td><a href="#L24">24</a></td><td>SPOCK:  Power surge?</td></tr>
 
-  SCOTT
-     Scott to Bridge.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L25"><td><a href="#L25">25</a></td><td>SCOTT:  Not down here. All the dials were right and the transporter was functioning perfectly.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L26"><td><a href="#L26">26</a></td><td>SPOCK:  Recheck your equipment, Mister Scott. I'll scan for them on the planet's surface. Spock out.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Combat area</td></tr>
+<tr id="L27"><td><a href="#L27">27</a></td><td>CHEKOV:  But Captain, if we're not on Gamma Two, then where are we?</td></tr>
 
-  SPOCK
-     Spock here.
+<tr id="L28"><td><a href="#L28">28</a></td><td>KIRK:  That's what I'd like to know. Kirk to Enterprise. Kirk to Enterprise. Dead.</td></tr>
 
+<tr id="L29"><td><a href="#L29">29</a></td><td>CHEKOV:  Mine, too.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L30"><td><a href="#L30">30</a></td><td>UHURA:  Captain. Look.</td></tr>
 
-  SCOTT
-     Mister Spock, the Captain, Lieutenant Uhura, and
-     Chekov. they vanished. They got onto the
-     transporter platform and they just vanished.
+<tr id="L31"><td><a href="#L31">31</a></td><td>(People are approaching them. One big guy in a fur, with teeth that hold his mouth open, another male with a knife, a female in pink carrying a lance-like weapon, and another in silver with green hair.) KIRK:  Phasers on stun. Fire. (nothing happens) Hand-to-hand.</td></tr>
 
+<tr id="L32"><td><a href="#L32">32</a></td><td>ANNOTATION: The men go one-on-one while Uhura has to deal with both women simultaneously. They are not fairly matched. Chekov cannot handle the giant and Uhura quickly gives up. Only Kirk acquits himself well against the normal male, until green-hair intervenes with her weapon.</td></tr>
 
-LOCATION--Bridge
+<tr id="L33"><td><a href="#L33">33</a></td><td>SOMEONE: Captain's log, stardate 3211.8. While beaming down from the Enterprise to inspect facilities on Gamma Two, the normal transporter sequence has been interrupted, and we find ourselves on a strange and hostile planet, surrounded by creatures belonging to races scattered all through the galaxy.</td></tr>
 
-  SPOCK
-     I presume you mean they vanished in a manner not
-     consistent with the usual workings of the
-     transporter, Mister Scott.
+<tr><td></td><td>LOCATION--Combat area</td></tr>
+<tr id="L34"><td><a href="#L34">34</a></td><td>ANNOTATION: A thin bald male in a long black cloak pops into the scene.</td></tr>
 
+<tr id="L35"><td><a href="#L35">35</a></td><td>GALT:  Excellent, Captain Kirk. Although we expected strength and competitive spirit, we are greatly pleased.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L36"><td><a href="#L36">36</a></td><td>KIRK:  Either of you hurt?</td></tr>
 
-  SCOTT
-     Aye, of course I mean that. You think I'd call if
-     they just beamed down?
+<tr id="L37"><td><a href="#L37">37</a></td><td>UHURA:  I don't think so, Captain.</td></tr>
 
+<tr id="L38"><td><a href="#L38">38</a></td><td>CHEKOV:  Nobody's hurt, Captain. Yet.</td></tr>
 
-LOCATION--Bridge
+<tr id="L39"><td><a href="#L39">39</a></td><td>GALT:  Admirable, Chekov. Admirable. You also, Uhura. Your spirit is as great as the captain's. I can see you all will prove invaluable here. I am Galt, Master Thrall of the planet Triskelion. I have been sent to welcome you.</td></tr>
 
-  SPOCK
-     Have you reversed controls?
+<tr><td></td><td>LOCATION--Cell</td></tr>
+<tr id="L40"><td><a href="#L40">40</a></td><td>ANNOTATION: All three are fastened securely to the wall, and have collars around their necks.</td></tr>
 
+<tr id="L41"><td><a href="#L41">41</a></td><td>GALT:  There, Captain. Now you are prepared for your training.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L42"><td><a href="#L42">42</a></td><td>KIRK:  How do you know our names?</td></tr>
 
-  SCOTT
-     I've made all the proper checks. There was
-     nothing. There was no flash of light, nothing.
-     They were gone.
+<tr id="L43"><td><a href="#L43">43</a></td><td>GALT:  The Providers were expecting you, Captain. They arranged your transportation.</td></tr>
 
+<tr id="L44"><td><a href="#L44">44</a></td><td>KIRK:  These Providers of yours, are they</td></tr>
 
-LOCATION--Bridge
+<tr id="L45"><td><a href="#L45">45</a></td><td>GALT:  Correction, Captain. The Providers are not ours. We are theirs.</td></tr>
 
-  SPOCK
-     Power surge?
+<tr id="L46"><td><a href="#L46">46</a></td><td>KIRK:  What do they want from us?</td></tr>
 
+<tr id="L47"><td><a href="#L47">47</a></td><td>GALT:  You are to be trained, of course. What other use is there for thralls?</td></tr>
 
-LOCATION--Transporter room
+<tr id="L48"><td><a href="#L48">48</a></td><td>KIRK:  Thralls? You must be mistaken. We're officers of a United spaceship on Federation business.</td></tr>
 
-  SCOTT
-     Not down here. All the dials were right and the
-     transporter was functioning perfectly.
+<tr id="L49"><td><a href="#L49">49</a></td><td>GALT:  There has been no mistake. Your old titles mean nothing here, Captain. You are thralls now. You are to be taken to the training enclosure. (the restraints are released) Come. Places have been prepared for you.</td></tr>
 
+<tr id="L50"><td><a href="#L50">50</a></td><td>KIRK:  We're not going anywhere until we have some information. Who are you? What is this place? What do you think you're going to do with us?</td></tr>
 
-LOCATION--Bridge
+<tr id="L51"><td><a href="#L51">51</a></td><td>GALT:  I am Galt, the Master Thrall. This place is the planet Triskelion. You are to be trained and spend the rest of your lives here.</td></tr>
 
-  SPOCK
-     Recheck your equipment, Mister Scott. I'll scan
-     for them on the planet's surface. Spock out.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L52"><td><a href="#L52">52</a></td><td>SCOTT:  Mister Spock, I've checked that transporter from one end to the other. Every circuit works perfectly. Whatever that power surge was, it had nothing to do with the transporter or any other system aboard this ship.</td></tr>
 
+<tr id="L53"><td><a href="#L53">53</a></td><td>SPOCK:  I'm beginning to believe that, Mister Scott. I've conducted two sweeps of the planet's surface. There is no sign of life.</td></tr>
 
-LOCATION--Combat area
+<tr id="L54"><td><a href="#L54">54</a></td><td>MCCOY:  Then what the devil is happening? Does that mean their atoms are just floating around out there?</td></tr>
 
-  CHEKOV
-     But Captain, if we're not on Gamma Two, then where
-     are we?
+<tr id="L55"><td><a href="#L55">55</a></td><td>SPOCK:  No, Doctor. Even that would show up on our sensors.</td></tr>
 
-  KIRK
-     That's what I'd like to know. Kirk to Enterprise.
-     Kirk to Enterprise. Dead.
+<tr id="L56"><td><a href="#L56">56</a></td><td>SCOTT:  Where are they then?</td></tr>
 
-  CHEKOV
-     Mine, too.
+<tr id="L57"><td><a href="#L57">57</a></td><td>SPOCK:  The only answers are negative. No magnetic storms, no ionic interference, no breakdown in your equipment.</td></tr>
 
-  UHURA
-     Captain. Look.
+<tr id="L58"><td><a href="#L58">58</a></td><td>MCCOY:  A negative attitude is no good to us. We can't just leave them out there, wherever they are.</td></tr>
 
-  (People are approaching them. One big guy in a fur, with teeth that hold his mouth open, another male with a knife, a female in pink carrying a lance-like weapon, and another in silver with green hair.) KIRK
-     Phasers on stun. Fire. (nothing happens)
-     Hand-to-hand.
+<tr id="L59"><td><a href="#L59">59</a></td><td>SPOCK:  We shall continue sensor scans, Doctor. At the moment, that is all we can do, except hope for a rational explanation.</td></tr>
 
-  ANNOTATION
-     The men go one-on-one while Uhura has to deal with
-     both women simultaneously. They are not fairly
-     matched. Chekov cannot handle the giant and Uhura
-     quickly gives up. Only Kirk acquits himself well
-     against the normal male, until green-hair
-     intervenes with her weapon.
+<tr id="L60"><td><a href="#L60">60</a></td><td>MCCOY:  Hope? I always thought that was a human failing, Mister Spock.</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 3211.8. While beaming down
-     from the Enterprise to inspect facilities on Gamma
-     Two, the normal transporter sequence has been
-     interrupted, and we find ourselves on a strange
-     and hostile planet, surrounded by creatures
-     belonging to races scattered all through the
-     galaxy.
+<tr id="L61"><td><a href="#L61">61</a></td><td>SPOCK:  True, Doctor. Constant exposure does result in a certain degree of contamination.</td></tr>
 
+<tr><td></td><td>LOCATION--Accommodation block</td></tr>
+<tr id="L62"><td><a href="#L62">62</a></td><td>ANNOTATION: A curved corridor, with doors off on either side. The doors have iron bars in the upper half.</td></tr>
 
-LOCATION--Combat area
+<tr id="L63"><td><a href="#L63">63</a></td><td>GALT:  These are your quarters. Open, thralls.</td></tr>
 
-  ANNOTATION
-     A thin bald male in a long black cloak pops into
-     the scene.
+<tr id="L64"><td><a href="#L64">64</a></td><td>ANNOTATION: As the doors slide open, Chekov and Kirk hit their minders and they all run. Galt's eyes glow, the collars glow and the Starfleet escapees collapse, choking.</td></tr>
 
-  GALT
-     Excellent, Captain Kirk. Although we expected
-     strength and competitive spirit, we are greatly
-     pleased.
+<tr id="L65"><td><a href="#L65">65</a></td><td>GALT:  That was foolish, Captain. Escape is quite impossible, as demonstrated by your collars of obedience. Return to your quarters.</td></tr>
 
-  KIRK
-     Either of you hurt?
+<tr id="L66"><td><a href="#L66">66</a></td><td>ANNOTATION: They do, and they are left alone.</td></tr>
 
-  UHURA
-     I don't think so, Captain.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L67"><td><a href="#L67">67</a></td><td>SPOCK:  They are not within the confines of this solar system.</td></tr>
 
-  CHEKOV
-     Nobody's hurt, Captain. Yet.
+<tr id="L68"><td><a href="#L68">68</a></td><td>MCCOY:  It's been nearly an hour. Can people live that long as disassembled atoms in a transporter beam?</td></tr>
 
-  GALT
-     Admirable, Chekov. Admirable. You also, Uhura.
-     Your spirit is as great as the captain's. I can
-     see you all will prove invaluable here. I am Galt,
-     Master Thrall of the planet Triskelion. I have
-     been sent to welcome you.
+<tr id="L69"><td><a href="#L69">69</a></td><td>SPOCK:  I have never heard of a study being done, but it would be a fascinating project.</td></tr>
 
+<tr id="L70"><td><a href="#L70">70</a></td><td>MCCOY:  Fascinating? Those people are friends of ours out there, if they're still alive.</td></tr>
 
-LOCATION--Cell
+<tr id="L71"><td><a href="#L71">71</a></td><td>SPOCK:  Precisely.</td></tr>
 
-  ANNOTATION
-     All three are fastened securely to the wall, and
-     have collars around their necks.
+<tr id="L72"><td><a href="#L72">72</a></td><td>MCCOY:  The odds are not good.</td></tr>
 
-  GALT
-     There, Captain. Now you are prepared for your
-     training.
+<tr id="L73"><td><a href="#L73">73</a></td><td>SPOCK:  No. I would say approximately four hundred</td></tr>
 
-  KIRK
-     How do you know our names?
+<tr id="L74"><td><a href="#L74">74</a></td><td>MCCOY:  Don't quote odds and don't give me anymore dispassionate logic, Mister Spock. Just keep looking for them.</td></tr>
 
-  GALT
-     The Providers were expecting you, Captain. They
-     arranged your transportation.
+<tr id="L75"><td><a href="#L75">75</a></td><td>SPOCK:  I would welcome a suggestion, Doctor, even an emotional one, as to where to look.</td></tr>
 
-  KIRK
-     These Providers of yours, are they
+<tr id="L76"><td><a href="#L76">76</a></td><td>MCCOY:  First time you've ever asked me for anything, and it has to be an occasion like this.</td></tr>
 
-  GALT
-     Correction, Captain. The Providers are not ours.
-     We are theirs.
+<tr><td></td><td>LOCATION--Accommodation block</td></tr>
+<tr id="L77"><td><a href="#L77">77</a></td><td>CHEKOV:  Captain, the Enterprise. They will be trying to find us, won't they?</td></tr>
 
-  KIRK
-     What do they want from us?
+<tr id="L78"><td><a href="#L78">78</a></td><td>UHURA:  They'll try, but where do they look? We're here, and we don't know where it is.</td></tr>
 
-  GALT
-     You are to be trained, of course. What other use
-     is there for thralls?
+<tr id="L79"><td><a href="#L79">79</a></td><td>KIRK:  This system's star is a trinary. Limits it a bit, but we're a long way from the Enterprise, if we're in the same dimension.</td></tr>
 
-  KIRK
-     Thralls? You must be mistaken. We're officers of a
-     United spaceship on Federation business.
+<tr id="L80"><td><a href="#L80">80</a></td><td>ANNOTATION: The male goes to Uhura's cell with a tray.</td></tr>
 
-  GALT
-     There has been no mistake. Your old titles mean
-     nothing here, Captain. You are thralls now. You
-     are to be taken to the training enclosure. (the
-     restraints are released) Come. Places have been
-     prepared for you.
+<tr id="L81"><td><a href="#L81">81</a></td><td>LARS:  I am your drill thrall. I am called Lars.</td></tr>
 
-  KIRK
-     We're not going anywhere until we have some
-     information. Who are you? What is this place? What
-     do you think you're going to do with us?
+<tr id="L82"><td><a href="#L82">82</a></td><td>KIRK:  What do you want from her?</td></tr>
 
-  GALT
-     I am Galt, the Master Thrall. This place is the
-     planet Triskelion. You are to be trained and spend
-     the rest of your lives here.
+<tr id="L83"><td><a href="#L83">83</a></td><td>LARS:  That is not your concern. Your drill thralls will attend you presently. (he opens Uhura's door and goes in) There is little time.</td></tr>
 
+<tr id="L84"><td><a href="#L84">84</a></td><td>UHURA [OC]:  What are you doing? Get out!</td></tr>
 
-LOCATION--Bridge
+<tr id="L85"><td><a href="#L85">85</a></td><td>LARS [OC]:  I have been selected for you.</td></tr>
 
-  SCOTT
-     Mister Spock, I've checked that transporter from
-     one end to the other. Every circuit works
-     perfectly. Whatever that power surge was, it had
-     nothing to do with the transporter or any other
-     system aboard this ship.
+<tr id="L86"><td><a href="#L86">86</a></td><td>ANNOTATION: The shadow play tells all we need to know. And the screams.</td></tr>
 
-  SPOCK
-     I'm beginning to believe that, Mister Scott. I've
-     conducted two sweeps of the planet's surface.
-     There is no sign of life.
+<tr id="L87"><td><a href="#L87">87</a></td><td>KIRK:  Lieutenant, are you all right? Uhura! Lieutenant! Lieutenant, are you all right? Lieutenant, answer me! Lieutenant! What's happening to Lieutenant Uhura? Lieutenant, are you all right?</td></tr>
 
-  MCCOY
-     Then what the devil is happening? Does that mean
-     their atoms are just floating around out there?
+<tr id="L88"><td><a href="#L88">88</a></td><td>LARS:  It is not allowed to refuse selection.</td></tr>
 
-  SPOCK
-     No, Doctor. Even that would show up on our
-     sensors.
+<tr id="L89"><td><a href="#L89">89</a></td><td>ANNOTATION: He leaves. Uhura's clothes are intact.</td></tr>
 
-  SCOTT
-     Where are they then?
+<tr id="L90"><td><a href="#L90">90</a></td><td>SHAHNA:  (to Kirk): Step away from the door. (she enters with a tray) Come. It is the nourishment interval.</td></tr>
 
-  SPOCK
-     The only answers are negative. No magnetic storms,
-     no ionic interference, no breakdown in your
-     equipment.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L91"><td><a href="#L91">91</a></td><td>SPOCK:  Captain's log, stardate 3259.2. First Officer Spock in command. The Captain, Lieutenant Uhura, and Ensign Chekov have been missing for nearly two hours. Computer probability projections are useless due to insufficient data.</td></tr>
 
-  MCCOY
-     A negative attitude is no good to us. We can't
-     just leave them out there, wherever they are.
+<tr id="L92"><td><a href="#L92">92</a></td><td>HAINES:  (a woman in gold uniform at Spock's station) Mister Spock, I'm getting a fluctuating energy reading on this hydrogen cloud. It's faint, sir, but it consistently reads an excess of predictable energy level.</td></tr>
 
-  SPOCK
-     We shall continue sensor scans, Doctor. At the
-     moment, that is all we can do, except hope for a
-     rational explanation.
+<tr id="L93"><td><a href="#L93">93</a></td><td>SPOCK:  Interesting. It seems to be an ionisation trail.</td></tr>
 
-  MCCOY
-     Hope? I always thought that was a human failing,
-     Mister Spock.
+<tr id="L94"><td><a href="#L94">94</a></td><td>MCCOY:  What would account for that, Spock?</td></tr>
 
-  SPOCK
-     True, Doctor. Constant exposure does result in a
-     certain degree of contamination.
+<tr id="L95"><td><a href="#L95">95</a></td><td>SPOCK:  Exactly the question I have just fed to the computers, Doctor. And the answer is, nothing known to us would account for it.</td></tr>
 
+<tr id="L96"><td><a href="#L96">96</a></td><td>SCOTT:  Well, the transporter has neither the power nor the range to account for that.</td></tr>
 
-LOCATION--Accommodation block
+<tr id="L97"><td><a href="#L97">97</a></td><td>SPOCK:  Plot a follow course, Ensign Haines.</td></tr>
 
-  ANNOTATION
-     A curved corridor, with doors off on either side.
-     The doors have iron bars in the upper half.
+<tr id="L98"><td><a href="#L98">98</a></td><td>HAINES:  (now in Chekov's seat) Aye, sir.</td></tr>
 
-  GALT
-     These are your quarters. Open, thralls.
+<tr id="L99"><td><a href="#L99">99</a></td><td>MCCOY:  You're going to leave here without them and run off on some wild goose chase halfway across the galaxy just because you found a discrepancy in a hydrogen cloud?</td></tr>
 
-  ANNOTATION
-     As the doors slide open, Chekov and Kirk hit their
-     minders and they all run. Galt's eyes glow, the
-     collars glow and the Starfleet escapees collapse,
-     choking.
+<tr id="L100"><td><a href="#L100">100</a></td><td>SPOCK:  Doctor, I am chasing the Captain, Lieutenant Uhura, and Ensign Chekov, not some wild aquatic fowl. This is the only lead we've had.</td></tr>
 
-  GALT
-     That was foolish, Captain. Escape is quite
-     impossible, as demonstrated by your collars of
-     obedience. Return to your quarters.
+<tr id="L101"><td><a href="#L101">101</a></td><td>HAINES:  Course plotted and laid in, Mister Spock. Three ten mark two four one.</td></tr>
 
-  ANNOTATION
-     They do, and they are left alone.
+<tr id="L102"><td><a href="#L102">102</a></td><td>SPOCK:  Initiate. Warp factor two.</td></tr>
 
+<tr><td></td><td>LOCATION--Chekov's cell</td></tr>
+<tr id="L103"><td><a href="#L103">103</a></td><td>ANNOTATION: The robust woman in pink brings him his tray. She smiles at him.</td></tr>
 
-LOCATION--Bridge
+<tr id="L104"><td><a href="#L104">104</a></td><td>CHEKOV:  You, you have been selected for me?</td></tr>
 
-  SPOCK
-     They are not within the confines of this solar
-     system.
+<tr id="L105"><td><a href="#L105">105</a></td><td>TAMOON:  (with a deep voice) No. I am only your drill thrall. I have brought you nourishment. It is a nice name, Chee-koo.</td></tr>
 
-  MCCOY
-     It's been nearly an hour. Can people live that
-     long as disassembled atoms in a transporter beam?
+<tr id="L106"><td><a href="#L106">106</a></td><td>CHEKOV:  Chekov.</td></tr>
 
-  SPOCK
-     I have never heard of a study being done, but it
-     would be a fascinating project.
+<tr id="L107"><td><a href="#L107">107</a></td><td>TAMOON:  Chee-koof! It is a very nice name. I am called Tamoon.</td></tr>
 
-  MCCOY
-     Fascinating? Those people are friends of ours out
-     there, if they're still alive.
+<tr id="L108"><td><a href="#L108">108</a></td><td>CHEKOV:  (nervous of her intentions) Oh, pleased, Pleased to know you, miss.</td></tr>
 
-  SPOCK
-     Precisely.
+<tr id="L109"><td><a href="#L109">109</a></td><td>TAMOON:  You are a fine specimen. I like you better than the others. I will instruct you well, so my Provider will take you.</td></tr>
 
-  MCCOY
-     The odds are not good.
+<tr id="L110"><td><a href="#L110">110</a></td><td>CHEKOV:  That's very kind of you, miss, but</td></tr>
 
-  SPOCK
-     No. I would say approximately four hundred
+<tr id="L111"><td><a href="#L111">111</a></td><td>TAMOON:  If my Provider is pleased, we may even be selected for each other.</td></tr>
 
-  MCCOY
-     Don't quote odds and don't give me anymore
-     dispassionate logic, Mister Spock. Just keep
-     looking for them.
+<tr><td></td><td>LOCATION--Kirk's cell</td></tr>
+<tr id="L112"><td><a href="#L112">112</a></td><td>KIRK:  I didn't realise I was so hungry. Whatever you call this, it is very good.</td></tr>
 
-  SPOCK
-     I would welcome a suggestion, Doctor, even an
-     emotional one, as to where to look.
+<tr id="L113"><td><a href="#L113">113</a></td><td>SHAHNA:  It is nourishment. We call it that.</td></tr>
 
-  MCCOY
-     First time you've ever asked me for anything, and
-     it has to be an occasion like this.
+<tr id="L114"><td><a href="#L114">114</a></td><td>KIRK:  Nourishment. That's very practical. What do you call this collar?</td></tr>
 
+<tr id="L115"><td><a href="#L115">115</a></td><td>SHAHNA:  It is a sign of our Provider. By the colour of the lights it can be known who holds us. When you are vended, you will also have a colour.</td></tr>
 
-LOCATION--Accommodation block
+<tr id="L116"><td><a href="#L116">116</a></td><td>KIRK:  Vended? You mean bought, sold.</td></tr>
 
-  CHEKOV
-     Captain, the Enterprise. They will be trying to
-     find us, won't they?
+<tr id="L117"><td><a href="#L117">117</a></td><td>SHAHNA:  When you are developed. The Provider who offers the most quatloos puts his colour on us.</td></tr>
 
-  UHURA
-     They'll try, but where do they look? We're here,
-     and we don't know where it is.
+<tr id="L118"><td><a href="#L118">118</a></td><td>KIRK:  Our race has another name for it. Slavery. This collar of obedience, is Galt the only one who can operate it?</td></tr>
 
-  KIRK
-     This system's star is a trinary. Limits it a bit,
-     but we're a long way from the Enterprise, if we're
-     in the same dimension.
+<tr id="L119"><td><a href="#L119">119</a></td><td>SHAHNA:  It is only to warn and punish.</td></tr>
 
-  ANNOTATION
-     The male goes to Uhura's cell with a tray.
+<tr id="L120"><td><a href="#L120">120</a></td><td>KIRK:  How does he work it?</td></tr>
 
-  LARS
-     I am your drill thrall. I am called Lars.
+<tr id="L121"><td><a href="#L121">121</a></td><td>SHAHNA:  It is not permitted to talk of that.</td></tr>
 
-  KIRK
-     What do you want from her?
+<tr id="L122"><td><a href="#L122">122</a></td><td>KIRK:  Will you provide all my nourishment?</td></tr>
 
-  LARS
-     That is not your concern. Your drill thralls will
-     attend you presently. (he opens Uhura's door and
-     goes in) There is little time.
+<tr id="L123"><td><a href="#L123">123</a></td><td>SHAHNA:  Of course. I am your drill thrall. I will train you well.</td></tr>
 
-  UHURA [OC]
-     What are you doing? Get out!
+<tr id="L124"><td><a href="#L124">124</a></td><td>KIRK:  Yes, I'm sure you will. I must say, I've never seen a top sergeant who looked like you.</td></tr>
 
-  LARS [OC]
-     I have been selected for you.
+<tr id="L125"><td><a href="#L125">125</a></td><td>SHAHNA:  What does that mean?</td></tr>
 
-  ANNOTATION
-     The shadow play tells all we need to know. And the
-     screams.
+<tr id="L126"><td><a href="#L126">126</a></td><td>KIRK:  It means you're a very beautiful woman.</td></tr>
 
-  KIRK
-     Lieutenant, are you all right? Uhura! Lieutenant!
-     Lieutenant, are you all right? Lieutenant, answer
-     me! Lieutenant! What's happening to Lieutenant
-     Uhura? Lieutenant, are you all right?
+<tr id="L127"><td><a href="#L127">127</a></td><td>SHAHNA:  What is beautiful?</td></tr>
 
-  LARS
-     It is not allowed to refuse selection.
+<tr id="L128"><td><a href="#L128">128</a></td><td>KIRK:  You mean nobody's ever told you that before? well, er, beautiful is, Beautiful. (he holds up the tray so she can see her reflection) That's beautiful. Shahna, where were you born?</td></tr>
 
-  ANNOTATION
-     He leaves. Uhura's clothes are intact.
+<tr id="L129"><td><a href="#L129">129</a></td><td>SHAHNA:  Born? I have been here always.</td></tr>
 
-  SHAHNA
-     (to Kirk): Step away from the door. (she enters
-     with a tray) Come. It is the nourishment interval.
+<tr id="L130"><td><a href="#L130">130</a></td><td>KIRK:  Your parents. Where are they? Your mother and father.</td></tr>
 
+<tr id="L131"><td><a href="#L131">131</a></td><td>SHAHNA:  She who bore me was killed in a freestyle match.</td></tr>
 
-LOCATION--Bridge
+<tr id="L132"><td><a href="#L132">132</a></td><td>KIRK:  Freestyle?</td></tr>
 
-  SPOCK
-     Captain's log, stardate 3259.2. First Officer
-     Spock in command. The Captain, Lieutenant Uhura,
-     and Ensign Chekov have been missing for nearly two
-     hours. Computer probability projections are
-     useless due to insufficient data.
+<tr id="L133"><td><a href="#L133">133</a></td><td>SHAHNA:  You will learn all these things.</td></tr>
 
-  HAINES
-     (a woman in gold uniform at Spock's station)
-     Mister Spock, I'm getting a fluctuating energy
-     reading on this hydrogen cloud. It's faint, sir,
-     but it consistently reads an excess of predictable
-     energy level.
+<tr id="L134"><td><a href="#L134">134</a></td><td>KIRK:  Lars and Chekov's drill thrall. They weren't born here. Where do they come from?</td></tr>
 
-  SPOCK
-     Interesting. It seems to be an ionisation trail.
+<tr id="L135"><td><a href="#L135">135</a></td><td>SHAHNA:  It is not permitted. (a gong sounds and a red light flashes) The exercise interval. This is your training harness. Put it on.</td></tr>
 
-  MCCOY
-     What would account for that, Spock?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L136"><td><a href="#L136">136</a></td><td>MCCOY:  This is ridiculous. There's nothing out there. Nothing at all.</td></tr>
 
-  SPOCK
-     Exactly the question I have just fed to the
-     computers, Doctor. And the answer is, nothing
-     known to us would account for it.
+<tr id="L137"><td><a href="#L137">137</a></td><td>SCOTT:  We certainly seem to be heading into an empty sector.</td></tr>
 
-  SCOTT
-     Well, the transporter has neither the power nor
-     the range to account for that.
+<tr id="L138"><td><a href="#L138">138</a></td><td>SPOCK:  Projecting back along the path of ionisation, the nearest system is M two four alpha.</td></tr>
 
-  SPOCK
-     Plot a follow course, Ensign Haines.
+<tr id="L139"><td><a href="#L139">139</a></td><td>SCOTT:  That must be two dozen light years away.</td></tr>
 
-  HAINES
-     (now in Chekov's seat) Aye, sir.
+<tr id="L140"><td><a href="#L140">140</a></td><td>SPOCK:  Eleven point six three zero.</td></tr>
 
-  MCCOY
-     You're going to leave here without them and run
-     off on some wild goose chase halfway across the
-     galaxy just because you found a discrepancy in a
-     hydrogen cloud?
+<tr id="L141"><td><a href="#L141">141</a></td><td>MCCOY:  Are you suggesting that they could have transported over a distance of? You're out of your Vulcan mind, Spock.</td></tr>
 
-  SPOCK
-     Doctor, I am chasing the Captain, Lieutenant
-     Uhura, and Ensign Chekov, not some wild aquatic
-     fowl. This is the only lead we've had.
+<tr id="L142"><td><a href="#L142">142</a></td><td>SPOCK:  I'm suggesting nothing, Doctor. I am merely pursuing the only logical course available to us.</td></tr>
 
-  HAINES
-     Course plotted and laid in, Mister Spock. Three
-     ten mark two four one.
+<tr><td></td><td>LOCATION--Training area</td></tr>
+<tr id="L143"><td><a href="#L143">143</a></td><td>ANNOTATION: The three are learning how to fight with the long poles with the curved hook on one end and grapple on the other. Galt enters with another thrall, his hands tied behind him.</td></tr>
 
-  SPOCK
-     Initiate. Warp factor two.
+<tr id="L144"><td><a href="#L144">144</a></td><td>GALT:  Hold. This thrall was slow in obeying a command. For his punishment, he will be practice target. As you charge, you will strike the practice target when you pass. You begin, Uhura.</td></tr>
 
+<tr id="L145"><td><a href="#L145">145</a></td><td>UHURA:  No!</td></tr>
 
-LOCATION--Chekov's cell
+<tr id="L146"><td><a href="#L146">146</a></td><td>GALT:  It is not allowed to refuse a training exercise.</td></tr>
 
-  ANNOTATION
-     The robust woman in pink brings him his tray. She
-     smiles at him.
+<tr id="L147"><td><a href="#L147">147</a></td><td>UHURA:  I don't care whether it's allowed or not. I will not do it.</td></tr>
 
-  CHEKOV
-     You, you have been selected for me?
+<tr id="L148"><td><a href="#L148">148</a></td><td>KIRK:  None of us will do it, Galt.</td></tr>
 
-  TAMOON
-     (with a deep voice) No. I am only your drill
-     thrall. I have brought you nourishment. It is a
-     nice name, Chee-koo.
+<tr id="L149"><td><a href="#L149">149</a></td><td>GALT:  It is part of your training. The Providers wish it.</td></tr>
 
-  CHEKOV
-     Chekov.
+<tr id="L150"><td><a href="#L150">150</a></td><td>KIRK:  The devil with the Providers.</td></tr>
 
-  TAMOON
-     Chee-koof! It is a very nice name. I am called
-     Tamoon.
+<tr id="L151"><td><a href="#L151">151</a></td><td>CHEKOV:  Cossacks.</td></tr>
 
-  CHEKOV
-     (nervous of her intentions) Oh, pleased, Pleased
-     to know you, miss.
+<tr id="L152"><td><a href="#L152">152</a></td><td>ANNOTATION: Galt gives them a reminder of what their collars do.</td></tr>
 
-  TAMOON
-     You are a fine specimen. I like you better than
-     the others. I will instruct you well, so my
-     Provider will take you.
+<tr id="L153"><td><a href="#L153">153</a></td><td>GALT:  We have been tolerant because you are newcomers, but I see you must be given a lesson. Lars. (Lars unties the thrall) Kloog. Kloog will administer correction. Uhura, take your place on the triad. (Lars starts to tie Uhura's hands behind her back.) Tie her.</td></tr>
 
-  CHEKOV
-     That's very kind of you, miss, but
+<tr id="L154"><td><a href="#L154">154</a></td><td>KIRK:  No. No! I am responsible for the actions of my people. I demand to see the Providers.</td></tr>
 
-  TAMOON
-     If my Provider is pleased, we may even be selected
-     for each other.
+<tr id="L155"><td><a href="#L155">155</a></td><td>GALT:  It is not permitted. But, Captain, since you assume responsibility for your people, you will take the punishment. It is less painful than the collar. Turn around. {Lars ties Kirk's hands.) Captain, you will be practice target. It is a shame to lose you, Captain, but it is worth it as an example to the others.</td></tr>
 
+<tr id="L156"><td><a href="#L156">156</a></td><td>SOMEONE: Captain's log, supplemental. Stardate, unknown. Our strange captivity continues. This planet is called Triskelion. We do not know its location. We do not know who controls it. Its dangers are abundantly clear.</td></tr>
 
-LOCATION--Kirk's cell
+<tr><td></td><td>LOCATION--Combat area</td></tr>
+<tr id="L157"><td><a href="#L157">157</a></td><td>ANNOTATION: Kloog (the big, silent one) has a whip and net, which Kirk is trying to dodge. His back is bloody and his shirt is torn, but he manages to land a good kick on Kloog.</td></tr>
 
-  KIRK
-     I didn't realise I was so hungry. Whatever you
-     call this, it is very good.
+<tr id="L158"><td><a href="#L158">158</a></td><td>GALT:  Hold. Rest interval. Fifteen trisecs.</td></tr>
 
-  SHAHNA
-     It is nourishment. We call it that.
+<tr id="L159"><td><a href="#L159">159</a></td><td>ANNOTATION: The two combatants join their comrades on the benches.</td></tr>
 
-  KIRK
-     Nourishment. That's very practical. What do you
-     call this collar?
+<tr id="L160"><td><a href="#L160">160</a></td><td>KIRK:  He's pretty fast with that whip.</td></tr>
 
-  SHAHNA
-     It is a sign of our Provider. By the colour of the
-     lights it can be known who holds us. When you are
-     vended, you will also have a colour.
+<tr id="L161"><td><a href="#L161">161</a></td><td>SHAHNA:  This will strengthen you. Drink it. Kloog's left eye is weak. Approach him from that side.</td></tr>
 
-  KIRK
-     Vended? You mean bought, sold.
+<tr id="L162"><td><a href="#L162">162</a></td><td>GALT:  Resume places.</td></tr>
 
-  SHAHNA
-     When you are developed. The Provider who offers
-     the most quatloos puts his colour on us.
+<tr id="L163"><td><a href="#L163">163</a></td><td>ANNOTATION: Kirk carries on dodging the whip, whilst loosening his bonds. Finally he manages to get his hands in front of him, jump on Kloog's back and try to strangle him. Kloog falls to the ground.</td></tr>
 
-  KIRK
-     Our race has another name for it. Slavery. This
-     collar of obedience, is Galt the only one who can
-     operate it?
+<tr id="L164"><td><a href="#L164">164</a></td><td>ONE [OC]:  Hold.</td></tr>
 
-  SHAHNA
-     It is only to warn and punish.
+<tr id="L165"><td><a href="#L165">165</a></td><td>GALT:  We hold, Provider One.</td></tr>
 
-  KIRK
-     How does he work it?
+<tr id="L166"><td><a href="#L166">166</a></td><td>ONE [OC]:  Provider One bids three hundred quatloos for the newcomers.</td></tr>
 
-  SHAHNA
-     It is not permitted to talk of that.
+<tr id="L167"><td><a href="#L167">167</a></td><td>TWO [OC]:  Provider Two, three hundred and fifty quatloos.</td></tr>
 
-  KIRK
-     Will you provide all my nourishment?
+<tr id="L168"><td><a href="#L168">168</a></td><td>THREE [OC]:  Provider Three, four hundred.</td></tr>
 
-  SHAHNA
-     Of course. I am your drill thrall. I will train
-     you well.
+<tr id="L169"><td><a href="#L169">169</a></td><td>TWO [OC]:  One thousand quatloos.</td></tr>
 
-  KIRK
-     Yes, I'm sure you will. I must say, I've never
-     seen a top sergeant who looked like you.
+<tr id="L170"><td><a href="#L170">170</a></td><td>THREE [OC]:  One thousand fifty quatloos.</td></tr>
 
-  SHAHNA
-     What does that mean?
+<tr id="L171"><td><a href="#L171">171</a></td><td>ONE [OC]:  Two thousand.</td></tr>
 
-  KIRK
-     It means you're a very beautiful woman.
+<tr id="L172"><td><a href="#L172">172</a></td><td>GALT:  (after a pause) Two thousand quatloos are bid. Is there a challenge? The newcomers have been vended to Provider One.</td></tr>
 
-  SHAHNA
-     What is beautiful?
+<tr id="L173"><td><a href="#L173">173</a></td><td>KIRK:  We're free people. We belong to no one.</td></tr>
 
-  KIRK
-     You mean nobody's ever told you that before? well,
-     er, beautiful is, Beautiful. (he holds up the tray
-     so she can see her reflection) That's beautiful.
-     Shahna, where were you born?
+<tr id="L174"><td><a href="#L174">174</a></td><td>TWO [OC]:  Such spirit. I wager fifteen quatloos that he is untrainable.</td></tr>
 
-  SHAHNA
-     Born? I have been here always.
+<tr id="L175"><td><a href="#L175">175</a></td><td>THREE [OC]:  Twenty quatloos that all three are untrainable.</td></tr>
 
-  KIRK
-     Your parents. Where are they? Your mother and
-     father.
+<tr id="L176"><td><a href="#L176">176</a></td><td>TWO [OC]:  Five thousand quatloos that the newcomers will have to be destroyed.</td></tr>
 
-  SHAHNA
-     She who bore me was killed in a freestyle match.
+<tr id="L177"><td><a href="#L177">177</a></td><td>ONE [OC]:  Accepted. Mark them, Galt.</td></tr>
 
-  KIRK
-     Freestyle?
+<tr id="L178"><td><a href="#L178">178</a></td><td>ANNOTATION: Galt's eyes go bright, and the badges on the collars turn red.</td></tr>
 
-  SHAHNA
-     You will learn all these things.
+<tr id="L179"><td><a href="#L179">179</a></td><td>GALT:  You now bear the mark of a fine herd. But I must warn you, any further disobedience now that you are full-fledged thralls will be punishable by death.</td></tr>
 
-  KIRK
-     Lars and Chekov's drill thrall. They weren't born
-     here. Where do they come from?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L180"><td><a href="#L180">180</a></td><td>SCOTT:  Mister Spock, it just doesn't make sense they could have come this far. If there's any chance at all it is to continue to search in the area they were lost.</td></tr>
 
-  SHAHNA
-     It is not permitted. (a gong sounds and a red
-     light flashes) The exercise interval. This is your
-     training harness. Put it on.
+<tr id="L181"><td><a href="#L181">181</a></td><td>SPOCK:  We searched the area.</td></tr>
 
+<tr id="L182"><td><a href="#L182">182</a></td><td>SCOTT:  It's always possible to miss something.</td></tr>
 
-LOCATION--Bridge
+<tr id="L183"><td><a href="#L183">183</a></td><td>SPOCK:  Such as a failure in the transporter mechanism?</td></tr>
 
-  MCCOY
-     This is ridiculous. There's nothing out there.
-     Nothing at all.
+<tr id="L184"><td><a href="#L184">184</a></td><td>SCOTT:  No, sir. There was no sign of failure.</td></tr>
 
-  SCOTT
-     We certainly seem to be heading into an empty
-     sector.
+<tr id="L185"><td><a href="#L185">185</a></td><td>SPOCK:  There was no sign of them in the area of Gamma Two.</td></tr>
 
-  SPOCK
-     Projecting back along the path of ionisation, the
-     nearest system is M two four alpha.
+<tr id="L186"><td><a href="#L186">186</a></td><td>MCCOY:  If they weren't there it's ridiculous to think they could still be alive. Not after all this time.</td></tr>
 
-  SCOTT
-     That must be two dozen light years away.
+<tr id="L187"><td><a href="#L187">187</a></td><td>SPOCK:  In that case, Doctor, we have nothing to lose by pursuing our present course.</td></tr>
 
-  SPOCK
-     Eleven point six three zero.
+<tr><td></td><td>LOCATION--Ruins</td></tr>
+<tr id="L188"><td><a href="#L188">188</a></td><td>ANNOTATION: Shahna has taken Kirk for a run.</td></tr>
 
-  MCCOY
-     Are you suggesting that they could have
-     transported over a distance of? You're out of your
-     Vulcan mind, Spock.
+<tr id="L189"><td><a href="#L189">189</a></td><td>KIRK:  Slow down. Slow down. Wait a minute. Wait a minute. We've covered over two miles. Can we take a breather? A rest?</td></tr>
 
-  SPOCK
-     I'm suggesting nothing, Doctor. I am merely
-     pursuing the only logical course available to us.
+<tr id="L190"><td><a href="#L190">190</a></td><td>SHAHNA:  (not at all out of breath) Oh. Very well. You are tired.</td></tr>
 
+<tr id="L191"><td><a href="#L191">191</a></td><td>KIRK:  Oh. well, it's good to get away from that development area, even for a while. Shahna, why do the Providers, why do they like to watch others being hurt, killed?</td></tr>
 
-LOCATION--Training area
+<tr id="L192"><td><a href="#L192">192</a></td><td>SHAHNA:  That is the way.</td></tr>
 
-  ANNOTATION
-     The three are learning how to fight with the long
-     poles with the curved hook on one end and grapple
-     on the other. Galt enters with another thrall, his
-     hands tied behind him.
+<tr id="L193"><td><a href="#L193">193</a></td><td>KIRK:  Their voices sound mechanical. Are they computers?</td></tr>
 
-  GALT
-     Hold. This thrall was slow in obeying a command.
-     For his punishment, he will be practice target. As
-     you charge, you will strike the practice target
-     when you pass. You begin, Uhura.
+<tr id="L194"><td><a href="#L194">194</a></td><td>SHAHNA:  Computers?</td></tr>
 
-  UHURA
-     No!
+<tr id="L195"><td><a href="#L195">195</a></td><td>KIRK:  You've seen them. Do they have bodies?</td></tr>
 
-  GALT
-     It is not allowed to refuse a training exercise.
+<tr id="L196"><td><a href="#L196">196</a></td><td>SHAHNA:  Not such as ours.</td></tr>
 
-  UHURA
-     I don't care whether it's allowed or not. I will
-     not do it.
+<tr id="L197"><td><a href="#L197">197</a></td><td>KIRK:  What is this place?</td></tr>
 
-  KIRK
-     None of us will do it, Galt.
+<tr id="L198"><td><a href="#L198">198</a></td><td>SHAHNA:  It is not used.</td></tr>
 
-  GALT
-     It is part of your training. The Providers wish
-     it.
+<tr id="L199"><td><a href="#L199">199</a></td><td>KIRK:  It's very old. Does it have a name? Shahna, could it have been a city for the Providers?</td></tr>
 
-  KIRK
-     The devil with the Providers.
+<tr id="L200"><td><a href="#L200">200</a></td><td>SHAHNA:  I do not think it is well to ask such things.</td></tr>
 
-  CHEKOV
-     Cossacks.
+<tr id="L201"><td><a href="#L201">201</a></td><td>KIRK:  They do have bodies, or did have.</td></tr>
 
-  ANNOTATION
-     Galt gives them a reminder of what their collars
-     do.
+<tr id="L202"><td><a href="#L202">202</a></td><td>SHAHNA:  One does not talk of such things.</td></tr>
 
-  GALT
-     We have been tolerant because you are newcomers,
-     but I see you must be given a lesson. Lars. (Lars
-     unties the thrall) Kloog. Kloog will administer
-     correction. Uhura, take your place on the triad.
-     (Lars starts to tie Uhura's hands behind her
-     back.) Tie her.
+<tr id="L203"><td><a href="#L203">203</a></td><td>KIRK:  Very pretty country. Very much like my home planet, Earth.</td></tr>
 
-  KIRK
-     No. No! I am responsible for the actions of my
-     people. I demand to see the Providers.
+<tr id="L204"><td><a href="#L204">204</a></td><td>SHAHNA:  Planet?</td></tr>
 
-  GALT
-     It is not permitted. But, Captain, since you
-     assume responsibility for your people, you will
-     take the punishment. It is less painful than the
-     collar. Turn around. {Lars ties Kirk's hands.)
-     Captain, you will be practice target. It is a
-     shame to lose you, Captain, but it is worth it as
-     an example to the others.
+<tr id="L205"><td><a href="#L205">205</a></td><td>ANNOTATION: Stands close to her back, hands on her shoulders, so he can whisper in her ear.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. Stardate, unknown.
-     Our strange captivity continues. This planet is
-     called Triskelion. We do not know its location. We
-     do not know who controls it. Its dangers are
-     abundantly clear.
+<tr id="L206"><td><a href="#L206">206</a></td><td>KIRK:  Where I was born. Shahna, don't you ever look at the night sky? The lights up there?</td></tr>
 
+<tr id="L207"><td><a href="#L207">207</a></td><td>SHAHNA:  I have looked at them.</td></tr>
 
-LOCATION--Combat area
+<tr id="L208"><td><a href="#L208">208</a></td><td>KIRK:  Well, those are stars. And around them are planets. And there are people that live on them, Just like us.</td></tr>
 
-  ANNOTATION
-     Kloog (the big, silent one) has a whip and net,
-     which Kirk is trying to dodge. His back is bloody
-     and his shirt is torn, but he manages to land a
-     good kick on Kloog.
+<tr id="L209"><td><a href="#L209">209</a></td><td>SHAHNA:  How can one live on a flicker of light?</td></tr>
 
-  GALT
-     Hold. Rest interval. Fifteen trisecs.
+<tr id="L210"><td><a href="#L210">210</a></td><td>KIRK:  From Earth, Triskelion's three suns are just a flicker of light. Actually, this is the darkest planet I've ever seen.</td></tr>
 
-  ANNOTATION
-     The two combatants join their comrades on the
-     benches.
+<tr id="L211"><td><a href="#L211">211</a></td><td>SHAHNA:  Dark? But all is lighted. Here, the chambers.</td></tr>
 
-  KIRK
-     He's pretty fast with that whip.
+<tr id="L212"><td><a href="#L212">212</a></td><td>KIRK:  The thralls have no freedom, Shahna. You don't think or do anything but what the Providers tell you.</td></tr>
 
-  SHAHNA
-     This will strengthen you. Drink it. Kloog's left
-     eye is weak. Approach him from that side.
+<tr id="L213"><td><a href="#L213">213</a></td><td>SHAHNA:  What else would one do?</td></tr>
 
-  GALT
-     Resume places.
+<tr id="L214"><td><a href="#L214">214</a></td><td>KIRK:  Love, for one thing.</td></tr>
 
-  ANNOTATION
-     Kirk carries on dodging the whip, whilst loosening
-     his bonds. Finally he manages to get his hands in
-     front of him, jump on Kloog's back and try to
-     strangle him. Kloog falls to the ground.
+<tr id="L215"><td><a href="#L215">215</a></td><td>SHAHNA:  What is love?</td></tr>
 
-  ONE [OC]
-     Hold.
+<tr id="L216"><td><a href="#L216">216</a></td><td>KIRK:  Love is the most important thing on Earth. Especially to a man and a woman.</td></tr>
 
-  GALT
-     We hold, Provider One.
+<tr id="L217"><td><a href="#L217">217</a></td><td>SHAHNA:  We, too, have mates. When it is time to increase the herd, my Provider will select one for me.</td></tr>
 
-  ONE [OC]
-     Provider One bids three hundred quatloos for the
-     newcomers.
+<tr id="L218"><td><a href="#L218">218</a></td><td>KIRK:  On Earth, we select our own mate. Someone we care for. On Earth, men and women live together, help each other, make each other happy.</td></tr>
 
-  TWO [OC]
-     Provider Two, three hundred and fifty quatloos.
+<tr id="L219"><td><a href="#L219">219</a></td><td>SHAHNA:  I do not think your words are allowed.</td></tr>
 
-  THREE [OC]
-     Provider Three, four hundred.
+<tr id="L220"><td><a href="#L220">220</a></td><td>KIRK:  All right. All right. Tell me about the Providers. What do they look like? Where do they live?</td></tr>
 
-  TWO [OC]
-     One thousand quatloos.
+<tr id="L221"><td><a href="#L221">221</a></td><td>SHAHNA:  I have never seen them, but they are said not to be like us. They stay in</td></tr>
 
-  THREE [OC]
-     One thousand fifty quatloos.
+<tr id="L222"><td><a href="#L222">222</a></td><td>ANNOTATION: Her collar lights up, and Kirk holds her tight while she writhes in pain.</td></tr>
 
-  ONE [OC]
-     Two thousand.
+<tr id="L223"><td><a href="#L223">223</a></td><td>KIRK:  Stop it. Stop it! I'm responsible! I made her talk! Stop it! You're killing her! She did nothing wrong! It was my fault. If you want to punish someone, punish me! Please.</td></tr>
 
-  GALT
-     (after a pause) Two thousand quatloos are bid. Is
-     there a challenge? The newcomers have been vended
-     to Provider One.
+<tr id="L224"><td><a href="#L224">224</a></td><td>ONE [OC]:  Is that what you humans call compassion? It is interesting, but it has no value here. You present many interesting aspects, Captain, but you must learn obedience. Then you will be an excellent thrall.</td></tr>
 
-  KIRK
-     We're free people. We belong to no one.
+<tr id="L225"><td><a href="#L225">225</a></td><td>ANNOTATION: Shahna's collar stops glowing.</td></tr>
 
-  TWO [OC]
-     Such spirit. I wager fifteen quatloos that he is
-     untrainable.
+<tr id="L226"><td><a href="#L226">226</a></td><td>KIRK:  It's all right. It's all right. You can stop crying now, Shahna. It's all right.</td></tr>
 
-  THREE [OC]
-     Twenty quatloos that all three are untrainable.
+<tr id="L227"><td><a href="#L227">227</a></td><td>SHAHNA:  You risked bringing their anger on yourself. Why did you do it?</td></tr>
 
-  TWO [OC]
-     Five thousand quatloos that the newcomers will
-     have to be destroyed.
+<tr id="L228"><td><a href="#L228">228</a></td><td>KIRK:  It's the custom of my people to help one another when we're in trouble.</td></tr>
 
-  ONE [OC]
-     Accepted. Mark them, Galt.
+<tr id="L229"><td><a href="#L229">229</a></td><td>ANNOTATION: He kisses her.</td></tr>
 
-  ANNOTATION
-     Galt's eyes go bright, and the badges on the
-     collars turn red.
+<tr id="L230"><td><a href="#L230">230</a></td><td>SHAHNA:  And this. Is this also helping?</td></tr>
 
-  GALT
-     You now bear the mark of a fine herd. But I must
-     warn you, any further disobedience now that you
-     are full-fledged thralls will be punishable by
-     death.
+<tr id="L231"><td><a href="#L231">231</a></td><td>KIRK:  You could call it that.</td></tr>
 
+<tr id="L232"><td><a href="#L232">232</a></td><td>SHAHNA:  Please, help me once again. (another kiss) I did not know it could be like this between people. Is it always so in the place you come from?</td></tr>
 
-LOCATION--Bridge
+<tr id="L233"><td><a href="#L233">233</a></td><td>GALT:  (popping out of thin air) Captain, you do indeed present many surprises. Because you have amused the Providers, there will be no punishment. Return to your quarters.</td></tr>
 
-  SCOTT
-     Mister Spock, it just doesn't make sense they
-     could have come this far. If there's any chance at
-     all it is to continue to search in the area they
-     were lost.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L234"><td><a href="#L234">234</a></td><td>SPOCK:  Mister Scott, can we manage anything faster than warp six?</td></tr>
 
-  SPOCK
-     We searched the area.
+<tr id="L235"><td><a href="#L235">235</a></td><td>SCOTT:  It's my opinion that we've gone too far as it is, sir.</td></tr>
 
-  SCOTT
-     It's always possible to miss something.
+<tr id="L236"><td><a href="#L236">236</a></td><td>MCCOY:  He's right, Spock. We've lost Jim and the others on Gamma Two. Now you've dragged us a dozen light years on some wild hunch that</td></tr>
 
-  SPOCK
-     Such as a failure in the transporter mechanism?
+<tr id="L237"><td><a href="#L237">237</a></td><td>SPOCK:  Doctor, I do not respond to hunches. No transporter malfunction was responsible for the disappearance. They were not within the Gamma system. A focused beam of extremely high-intensity light was directed into the Gamma system from the trinary system we are now approaching. No known natural phenomena could have caused that beam. Does that clarify the situation?</td></tr>
 
-  SCOTT
-     No, sir. There was no sign of failure.
+<tr id="L238"><td><a href="#L238">238</a></td><td>MCCOY:  No, it doesn't. It's still a fancy way of saying that you're playing a hunch. well, my hunch is that they're back on Gamma Two dead or alive and I still want another search.</td></tr>
 
-  SPOCK
-     There was no sign of them in the area of Gamma
-     Two.
+<tr id="L239"><td><a href="#L239">239</a></td><td>SCOTT:  Doctor McCoy speaks for me, too, sir.</td></tr>
 
-  MCCOY
-     If they weren't there it's ridiculous to think
-     they could still be alive. Not after all this
-     time.
+<tr id="L240"><td><a href="#L240">240</a></td><td>SPOCK:  I see. (pause) Gentlemen, I am in command of this vessel, and we shall continue on our present course. (conspiratorial whisper) Unless it is your intention to declare a mutiny.</td></tr>
 
-  SPOCK
-     In that case, Doctor, we have nothing to lose by
-     pursuing our present course.
+<tr id="L241"><td><a href="#L241">241</a></td><td>SCOTT:  Mister Spock!</td></tr>
 
+<tr id="L242"><td><a href="#L242">242</a></td><td>MCCOY:  Who said anything about a mutiny, you stubborn, pointed-eared. All right. If we don't find them here, do we still have another search on Gamma Two?</td></tr>
 
-LOCATION--Ruins
+<tr id="L243"><td><a href="#L243">243</a></td><td>SPOCK:  Agreed. Mister Scott, could you manage warp seven?</td></tr>
 
-  ANNOTATION
-     Shahna has taken Kirk for a run.
+<tr id="L244"><td><a href="#L244">244</a></td><td>SCOTT:  I would be more than content to do so, sir, and maybe a wee bit more.</td></tr>
 
-  KIRK
-     Slow down. Slow down. Wait a minute. Wait a
-     minute. We've covered over two miles. Can we take
-     a breather? A rest?
+<tr id="L245"><td><a href="#L245">245</a></td><td>SPOCK:  Ensign, warp seven.</td></tr>
 
-  SHAHNA
-     (not at all out of breath) Oh. Very well. You are
-     tired.
+<tr><td></td><td>LOCATION--Kirk's cell</td></tr>
+<tr id="L246"><td><a href="#L246">246</a></td><td>ANNOTATION: Shahna brings a nourishment tray.</td></tr>
 
-  KIRK
-     Oh. well, it's good to get away from that
-     development area, even for a while. Shahna, why do
-     the Providers, why do they like to watch others
-     being hurt, killed?
+<tr id="L247"><td><a href="#L247">247</a></td><td>KIRK:  You're disturbed about what happened today.</td></tr>
 
-  SHAHNA
-     That is the way.
+<tr id="L248"><td><a href="#L248">248</a></td><td>SHAHNA:  Yes. You have made me feel strangely. If it were allowed, I would ask that you have another drill thrall.</td></tr>
 
-  KIRK
-     Their voices sound mechanical. Are they computers?
+<tr id="L249"><td><a href="#L249">249</a></td><td>KIRK:  I wouldn't like that, Shahna. I wouldn't like that at all.</td></tr>
 
-  SHAHNA
-     Computers?
+<tr id="L250"><td><a href="#L250">250</a></td><td>ANNOTATION: He kisses her, then punches her to knock her out.</td></tr>
 
-  KIRK
-     You've seen them. Do they have bodies?
+<tr id="L251"><td><a href="#L251">251</a></td><td>KIRK:  I'm sorry, Shahna. (takes the magnetic key and unlocks his door)</td></tr>
 
-  SHAHNA
-     Not such as ours.
+<tr><td></td><td>LOCATION--Accommodation area</td></tr>
+<tr id="L252"><td><a href="#L252">252</a></td><td>ANNOTATION: Kirk opens Chekov's cell. Tamoon is bound and gagged.</td></tr>
 
-  KIRK
-     What is this place?
+<tr id="L253"><td><a href="#L253">253</a></td><td>CHEKOV:  This is going to kill our romance.</td></tr>
 
-  SHAHNA
-     It is not used.
+<tr id="L254"><td><a href="#L254">254</a></td><td>ANNOTATION: They let Uhura out.</td></tr>
 
-  KIRK
-     It's very old. Does it have a name? Shahna, could
-     it have been a city for the Providers?
+<tr id="L255"><td><a href="#L255">255</a></td><td>KIRK:  What about Lars?</td></tr>
 
-  SHAHNA
-     I do not think it is well to ask such things.
+<tr id="L256"><td><a href="#L256">256</a></td><td>UHURA:  He's gone to report me. I said I didn't like the food.</td></tr>
 
-  KIRK
-     They do have bodies, or did have.
+<tr id="L257"><td><a href="#L257">257</a></td><td>KIRK:  I think Galt is the only one who controls these collars. If we can find the phaser that I threw at Lars, we can use the circuits to short out these collars.</td></tr>
 
-  SHAHNA
-     One does not talk of such things.
+<tr id="L258"><td><a href="#L258">258</a></td><td>CHEKOV:  (pointing to an exit) Captain.</td></tr>
 
-  KIRK
-     Very pretty country. Very much like my home
-     planet, Earth.
+<tr><td></td><td>LOCATION--Combat area</td></tr>
+<tr id="L259"><td><a href="#L259">259</a></td><td>ANNOTATION: Galt appears, and punishment is administered.</td></tr>
 
-  SHAHNA
-     Planet?
+<tr id="L260"><td><a href="#L260">260</a></td><td>ONE [OC]:  Only a reminder. You Earth people are most unusual, most stimulating.</td></tr>
 
-  ANNOTATION
-     Stands close to her back, hands on her shoulders,
-     so he can whisper in her ear.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L261"><td><a href="#L261">261</a></td><td>HAINES:  Standard orbit.</td></tr>
 
-  KIRK
-     Where I was born. Shahna, don't you ever look at
-     the night sky? The lights up there?
+<tr id="L262"><td><a href="#L262">262</a></td><td>SPOCK:  Sensors indicate only one concentration of life forms on the planet, on the lower hemisphere. Humanoid readings.</td></tr>
 
-  SHAHNA
-     I have looked at them.
+<tr id="L263"><td><a href="#L263">263</a></td><td>MCCOY:  Well, at least that gives our landing force a starting point.</td></tr>
 
-  KIRK
-     Well, those are stars. And around them are
-     planets. And there are people that live on them,
-     Just like us.
+<tr id="L264"><td><a href="#L264">264</a></td><td>SPOCK:  There will be no landing force, Doctor. Assuming the captain and the others are still alive, it would be unwise to endanger them by beaming down a large contingent.</td></tr>
 
-  SHAHNA
-     How can one live on a flicker of light?
+<tr id="L265"><td><a href="#L265">265</a></td><td>MCCOY:  Well we're not going to leave them there while we just sit and wait.</td></tr>
 
-  KIRK
-     From Earth, Triskelion's three suns are just a
-     flicker of light. Actually, this is the darkest
-     planet I've ever seen.
+<tr id="L266"><td><a href="#L266">266</a></td><td>SPOCK:  Interesting. No power source. It may be shielded.</td></tr>
 
-  SHAHNA
-     Dark? But all is lighted. Here, the chambers.
+<tr id="L267"><td><a href="#L267">267</a></td><td>MCCOY:  And it may be just a wild goose chase like we've been telling you.</td></tr>
 
-  KIRK
-     The thralls have no freedom, Shahna. You don't
-     think or do anything but what the Providers tell
-     you.
+<tr id="L268"><td><a href="#L268">268</a></td><td>SPOCK:  I shall beam down, Doctor. If I am unable to communicate, a landing party may be necessary.</td></tr>
 
-  SHAHNA
-     What else would one do?
+<tr id="L269"><td><a href="#L269">269</a></td><td>MCCOY:  Well, Mister Spock, if you're going into the lion's den, you'll need a medical officer.</td></tr>
 
-  KIRK
-     Love, for one thing.
+<tr id="L270"><td><a href="#L270">270</a></td><td>SPOCK:  Daniel, as I recall, had only his faith. But I welcome your company, Doctor. Mister Scott, you'll be in command.</td></tr>
 
-  SHAHNA
-     What is love?
+<tr id="L271"><td><a href="#L271">271</a></td><td>SCOTT:  Aye, sir.</td></tr>
 
-  KIRK
-     Love is the most important thing on Earth.
-     Especially to a man and a woman.
+<tr id="L272"><td><a href="#L272">272</a></td><td>ANNOTATION: But the turbolift doors shut before Spock and McCoy can leave the bridge, and the lights start flashing.</td></tr>
 
-  SHAHNA
-     We, too, have mates. When it is time to increase
-     the herd, my Provider will select one for me.
+<tr id="L273"><td><a href="#L273">273</a></td><td>ONE [OC]:  No, Mister Spock, you will not leave the ship.</td></tr>
 
-  KIRK
-     On Earth, we select our own mate. Someone we care
-     for. On Earth, men and women live together, help
-     each other, make each other happy.
+<tr><td></td><td>LOCATION--Combat area</td></tr>
+<tr id="L274"><td><a href="#L274">274</a></td><td>ONE [OC]:  None of your control systems will operate.</td></tr>
 
-  SHAHNA
-     I do not think your words are allowed.
+<tr id="L275"><td><a href="#L275">275</a></td><td>MCCOY [OC]:  What the devil's going on?</td></tr>
 
-  KIRK
-     All right. All right. Tell me about the Providers.
-     What do they look like? Where do they live?
+<tr id="L276"><td><a href="#L276">276</a></td><td>KIRK:  Spock? Spock!</td></tr>
 
-  SHAHNA
-     I have never seen them, but they are said not to
-     be like us. They stay in
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L277"><td><a href="#L277">277</a></td><td>KIRK [OC]:  Spock?</td></tr>
 
-  ANNOTATION
-     Her collar lights up, and Kirk holds her tight
-     while she writhes in pain.
+<tr><td></td><td>LOCATION--Combat area</td></tr>
+<tr id="L278"><td><a href="#L278">278</a></td><td>KIRK:  Welcome to Triskelion, gentlemen.</td></tr>
 
-  KIRK
-     Stop it. Stop it! I'm responsible! I made her
-     talk! Stop it! You're killing her! She did nothing
-     wrong! It was my fault. If you want to punish
-     someone, punish me! Please.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L279"><td><a href="#L279">279</a></td><td>KIRK [OC]:  By now it must be obvious to you that you have been expected.</td></tr>
 
-  ONE [OC]
-     Is that what you humans call compassion? It is
-     interesting, but it has no value here. You present
-     many interesting aspects, Captain, but you must
-     learn obedience. Then you will be an excellent
-     thrall.
+<tr id="L280"><td><a href="#L280">280</a></td><td>SCOTT:  What the voice said was true, sir. Nothing is functioning.</td></tr>
 
-  ANNOTATION
-     Shahna's collar stops glowing.
+<tr id="L281"><td><a href="#L281">281</a></td><td>ONE [OC]:  Commendations, gentlemen. Your ingenuity in discovering the whereabouts of your companions is noteworthy.</td></tr>
 
-  KIRK
-     It's all right. It's all right. You can stop
-     crying now, Shahna. It's all right.
+<tr id="L282"><td><a href="#L282">282</a></td><td>KIRK [OC]:  What you're hearing, gentlemen, is a Provider.</td></tr>
 
-  SHAHNA
-     You risked bringing their anger on yourself. Why
-     did you do it?
+<tr id="L283"><td><a href="#L283">283</a></td><td>ONE [OC]:  We are known to the thralls as Providers because we provide for all their needs. The term is easier for their limited mental abilities to comprehend.</td></tr>
 
-  KIRK
-     It's the custom of my people to help one another
-     when we're in trouble.
+<tr><td></td><td>LOCATION--Combat area</td></tr>
+<tr id="L284"><td><a href="#L284">284</a></td><td>KIRK:  Providing for all their needs means using thralls, people stolen from other parts of the galaxy</td></tr>
 
-  ANNOTATION
-     He kisses her.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L285"><td><a href="#L285">285</a></td><td>KIRK [OC]:  To fight each other, and the Providers gamble on the winner.</td></tr>
 
-  SHAHNA
-     And this. Is this also helping?
+<tr id="L286"><td><a href="#L286">286</a></td><td>SPOCK:  Fascinating.</td></tr>
 
-  KIRK
-     You could call it that.
+<tr id="L287"><td><a href="#L287">287</a></td><td>KIRK [OC]:  But these Providers haven't the courage to show themselves.</td></tr>
 
-  SHAHNA
-     Please, help me once again. (another kiss) I did
-     not know it could be like this between people. Is
-     it always so in the place you come from?
+<tr id="L288"><td><a href="#L288">288</a></td><td>ONE [OC]:  Your species has great curiosity.</td></tr>
 
-  GALT
-     (popping out of thin air) Captain, you do indeed
-     present many surprises. Because you have amused
-     the Providers, there will be no punishment. Return
-     to your quarters.
+<tr><td></td><td>LOCATION--Combat area</td></tr>
+<tr id="L289"><td><a href="#L289">289</a></td><td>ONE [OC]:  We knew that. You are interesting in many ways.</td></tr>
 
+<tr id="L290"><td><a href="#L290">290</a></td><td>KIRK:  But you are afraid.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L291"><td><a href="#L291">291</a></td><td>ONE [OC]:  You present no danger while you wear the collar</td></tr>
 
-  SPOCK
-     Mister Scott, can we manage anything faster than
-     warp six?
+<tr><td></td><td>LOCATION--Combat area</td></tr>
+<tr id="L292"><td><a href="#L292">292</a></td><td>ONE [OC]:  And you wear it as long as you live.</td></tr>
 
-  SCOTT
-     It's my opinion that we've gone too far as it is,
-     sir.
+<tr id="L293"><td><a href="#L293">293</a></td><td>KIRK:  Then show yourselves.</td></tr>
 
-  MCCOY
-     He's right, Spock. We've lost Jim and the others
-     on Gamma Two. Now you've dragged us a dozen light
-     years on some wild hunch that
+<tr id="L294"><td><a href="#L294">294</a></td><td>ONE [OC]:  There is no objection.</td></tr>
 
-  SPOCK
-     Doctor, I do not respond to hunches. No
-     transporter malfunction was responsible for the
-     disappearance. They were not within the Gamma
-     system. A focused beam of extremely high-intensity
-     light was directed into the Gamma system from the
-     trinary system we are now approaching. No known
-     natural phenomena could have caused that beam.
-     Does that clarify the situation?
+<tr><td></td><td>LOCATION--Cavern</td></tr>
+<tr id="L295"><td><a href="#L295">295</a></td><td>ANNOTATION: It is vast, obviously constructed with ceiling lights and a power plant in the background. In the foreground is a transparent dome with three yellow brains in it.</td></tr>
 
-  MCCOY
-     No, it doesn't. It's still a fancy way of saying
-     that you're playing a hunch. well, my hunch is
-     that they're back on Gamma Two dead or alive and I
-     still want another search.
+<tr id="L296"><td><a href="#L296">296</a></td><td>KIRK:  The power source. Shielded by solid rock.</td></tr>
 
-  SCOTT
-     Doctor McCoy speaks for me, too, sir.
+<tr id="L297"><td><a href="#L297">297</a></td><td>ONE [OC]:  (a brain pulsates red) We are one thousand of your metres beneath the surface.</td></tr>
 
-  SPOCK
-     I see. (pause) Gentlemen, I am in command of this
-     vessel, and we shall continue on our present
-     course. (conspiratorial whisper) Unless it is your
-     intention to declare a mutiny.
+<tr id="L298"><td><a href="#L298">298</a></td><td>KIRK:  Primary mental evolution. Incredible.</td></tr>
 
-  SCOTT
-     Mister Spock!
+<tr id="L299"><td><a href="#L299">299</a></td><td>TWO [OC]:  (pulsing green) That is not true, Captain. Once we had humanoid form, but we evolved beyond it.</td></tr>
 
-  MCCOY
-     Who said anything about a mutiny, you stubborn,
-     pointed-eared. All right. If we don't find them
-     here, do we still have another search on Gamma
-     Two?
+<tr id="L300"><td><a href="#L300">300</a></td><td>THREE [OC]:  (yellow) Through eons of devoting ourselves exclusively to intellectual pursuits, we became the physically simple, mentally superior creatures you see before you.</td></tr>
 
-  SPOCK
-     Agreed. Mister Scott, could you manage warp seven?
+<tr id="L301"><td><a href="#L301">301</a></td><td>KIRK:  A species that enslaves other beings is hardly superior, mentally or otherwise.</td></tr>
 
-  SCOTT
-     I would be more than content to do so, sir, and
-     maybe a wee bit more.
+<tr id="L302"><td><a href="#L302">302</a></td><td>ONE [OC]:  The thralls are necessary to the games. We have found athletic competitions our only challenge, the only thing which furnishes us with purpose.</td></tr>
 
-  SPOCK
-     Ensign, warp seven.
+<tr id="L303"><td><a href="#L303">303</a></td><td>KIRK:  It's an unproductive purpose, unworthy of your intellect.</td></tr>
 
+<tr id="L304"><td><a href="#L304">304</a></td><td>ONE [OC]:  We use only inferior beings.</td></tr>
 
-LOCATION--Kirk's cell
+<tr id="L305"><td><a href="#L305">305</a></td><td>KIRK:  We have found that all life forms in the galaxy are capable of superior development. Perhaps you're not as evolved as you believe.</td></tr>
 
-  ANNOTATION
-     Shahna brings a nourishment tray.
+<tr id="L306"><td><a href="#L306">306</a></td><td>THREE [OC]:  An interesting speculation, Captain. You and your people are most challenging.</td></tr>
 
-  KIRK
-     You're disturbed about what happened today.
+<tr id="L307"><td><a href="#L307">307</a></td><td>TWO [OC]:  Yes, most challenging. It was hoped that such new blood would stimulate our stock of thralls. How unfortunate that you must be destroyed.</td></tr>
 
-  SHAHNA
-     Yes. You have made me feel strangely. If it were
-     allowed, I would ask that you have another drill
-     thrall.
+<tr id="L308"><td><a href="#L308">308</a></td><td>KIRK:  Our destruction will result only in your own. You may control the Enterprise, but you cannot match the force of the entire Federation.</td></tr>
 
-  KIRK
-     I wouldn't like that, Shahna. I wouldn't like that
-     at all.
+<tr id="L309"><td><a href="#L309">309</a></td><td>ONE [OC]:  Your ship will be destroyed by a magnetic storm. No communications with your base will be possible. Your fate will remain a mystery to your people.</td></tr>
 
-  ANNOTATION
-     He kisses her, then punches her to knock her out.
+<tr id="L310"><td><a href="#L310">310</a></td><td>KIRK:  And you call yourselves superior! You're murderers without the spirit to really wager for the lives you take.</td></tr>
 
-  KIRK
-     I'm sorry, Shahna. (takes the magnetic key and
-     unlocks his door)
+<tr id="L311"><td><a href="#L311">311</a></td><td>ONE [OC]:  Wager? Explain yourself, Captain.</td></tr>
 
+<tr id="L312"><td><a href="#L312">312</a></td><td>KIRK:  My people pride themselves on being the greatest, most successful gamblers in the universe. We compete for everything. Power, fame, women, everything we desire, and it is our nature to win. And for proof, I offer you our exploration of this galaxy.</td></tr>
 
-LOCATION--Accommodation area
+<tr id="L313"><td><a href="#L313">313</a></td><td>THREE [OC]:  We are aware of your competitive abilities, Captain.</td></tr>
 
-  ANNOTATION
-     Kirk opens Chekov's cell. Tamoon is bound and
-     gagged.
+<tr id="L314"><td><a href="#L314">314</a></td><td>KIRK:  Well, then, I wager that with weapons of your own choice, right here and now, my people can overcome an equal number of thralls set against us.</td></tr>
 
-  CHEKOV
-     This is going to kill our romance.
+<tr id="L315"><td><a href="#L315">315</a></td><td>THREE [OC]:  A hundred quatloos on the newcomers.</td></tr>
 
-  ANNOTATION
-     They let Uhura out.
+<tr id="L316"><td><a href="#L316">316</a></td><td>ONE [OC]:  Four hundred quatloos against the newcomers.</td></tr>
 
-  KIRK
-     What about Lars?
+<tr id="L317"><td><a href="#L317">317</a></td><td>TWO [OC]:  Two hundred quatloos against!</td></tr>
 
-  UHURA
-     He's gone to report me. I said I didn't like the
-     food.
+<tr id="L318"><td><a href="#L318">318</a></td><td>THREE [OC]:  Five hundred for the newcomers. Contest by multiple elimination.</td></tr>
 
-  KIRK
-     I think Galt is the only one who controls these
-     collars. If we can find the phaser that I threw at
-     Lars, we can use the circuits to short out these
-     collars.
+<tr id="L319"><td><a href="#L319">319</a></td><td>KIRK:  Wait! Wait! Hear me! We can't wager for trifles like quatloos. The stakes must be higher.</td></tr>
 
-  CHEKOV
-     (pointing to an exit) Captain.
+<tr id="L320"><td><a href="#L320">320</a></td><td>ONE [OC]:  Name your stakes, Captain.</td></tr>
 
+<tr id="L321"><td><a href="#L321">321</a></td><td>KIRK:  If we win, the Enterprise and its crew leaves here in safety. Further more, all the thralls on the planet must be freed.</td></tr>
 
-LOCATION--Combat area
+<tr id="L322"><td><a href="#L322">322</a></td><td>TWO [OC]:  Anarchy. They would starve.</td></tr>
 
-  ANNOTATION
-     Galt appears, and punishment is administered.
+<tr id="L323"><td><a href="#L323">323</a></td><td>KIRK:  You will educate and train them to establish a normal self-governing culture.</td></tr>
 
-  ONE [OC]
-     Only a reminder. You Earth people are most
-     unusual, most stimulating.
+<tr id="L324"><td><a href="#L324">324</a></td><td>THREE [OC]:  Thralls govern themselves? Ridiculous!</td></tr>
 
+<tr id="L325"><td><a href="#L325">325</a></td><td>KIRK:  We have done the same with cultures throughout the galaxy. Are you willing to admit that we can do something you can't?</td></tr>
 
-LOCATION--Bridge
+<tr id="L326"><td><a href="#L326">326</a></td><td>TWO [OC]:  There is nothing we cannot do!</td></tr>
 
-  HAINES
-     Standard orbit.
+<tr id="L327"><td><a href="#L327">327</a></td><td>ONE [OC]:  And if you lose, Captain?</td></tr>
 
-  SPOCK
-     Sensors indicate only one concentration of life
-     forms on the planet, on the lower hemisphere.
-     Humanoid readings.
+<tr id="L328"><td><a href="#L328">328</a></td><td>KIRK:  If we lose? We will remain here, the entire crew of the Enterprise. The most stubborn, determined competitors in the universe. We'll become thralls, enter your games, obey your orders without rebellion. You'll be assured of generations of the most exciting wagering you've ever had.</td></tr>
 
-  MCCOY
-     Well, at least that gives our landing force a
-     starting point.
+<tr id="L329"><td><a href="#L329">329</a></td><td>ONE [OC]:  Your stakes are indeed high, Captain.</td></tr>
 
-  SPOCK
-     There will be no landing force, Doctor. Assuming
-     the captain and the others are still alive, it
-     would be unwise to endanger them by beaming down a
-     large contingent.
+<tr id="L330"><td><a href="#L330">330</a></td><td>KIRK:  Not for true gamesters.</td></tr>
 
-  MCCOY
-     Well we're not going to leave them there while we
-     just sit and wait.
+<tr id="L331"><td><a href="#L331">331</a></td><td>THREE [OC]:  We will accept your stakes on one condition.</td></tr>
 
-  SPOCK
-     Interesting. No power source. It may be shielded.
+<tr id="L332"><td><a href="#L332">332</a></td><td>KIRK:  Name it.</td></tr>
 
-  MCCOY
-     And it may be just a wild goose chase like we've
-     been telling you.
+<tr id="L333"><td><a href="#L333">333</a></td><td>ONE [OC]:  As leader of your people, your spirit seems most indomitable. We suggest you alone, pitted against three contestants of our choosing.</td></tr>
 
-  SPOCK
-     I shall beam down, Doctor. If I am unable to
-     communicate, a landing party may be necessary.
+<tr id="L334"><td><a href="#L334">334</a></td><td>KIRK:  Three against one? Those are pretty high odds.</td></tr>
 
-  MCCOY
-     Well, Mister Spock, if you're going into the
-     lion's den, you'll need a medical officer.
+<tr id="L335"><td><a href="#L335">335</a></td><td>TWO [OC]:  Not for true gamesters, Captain.</td></tr>
 
-  SPOCK
-     Daniel, as I recall, had only his faith. But I
-     welcome your company, Doctor. Mister Scott, you'll
-     be in command.
+<tr id="L336"><td><a href="#L336">336</a></td><td>KIRK:  Your, your terms are unfair.</td></tr>
 
-  SCOTT
-     Aye, sir.
+<tr id="L337"><td><a href="#L337">337</a></td><td>ONE [OC]:  On the contrary, they're extremely fair, since your alternative is death.</td></tr>
 
-  ANNOTATION
-     But the turbolift doors shut before Spock and
-     McCoy can leave the bridge, and the lights start
-     flashing.
+<tr id="L338"><td><a href="#L338">338</a></td><td>KIRK:  Well, in that case, I'll accept your terms.</td></tr>
 
-  ONE [OC]
-     No, Mister Spock, you will not leave the ship.
+<tr id="L339"><td><a href="#L339">339</a></td><td>ONE [OC]:  Galt will prepare you.</td></tr>
 
+<tr><td></td><td>LOCATION--Combat area</td></tr>
+<tr id="L340"><td><a href="#L340">340</a></td><td>ANNOTATION: Lars has a net, Kloog has his whip, and an Andorian has the pole weapon, same as Kirk.</td></tr>
 
-LOCATION--Combat area
+<tr id="L341"><td><a href="#L341">341</a></td><td>ONE [OC]:  Because you wager your skill for all your people, they will be permitted to watch the outcome of the game on the ship's viewscreen.</td></tr>
 
-  ONE [OC]
-     None of your control systems will operate.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L342"><td><a href="#L342">342</a></td><td>SCOTT:  Mister Spock, look!</td></tr>
 
-  MCCOY [OC]
-     What the devil's going on?
+<tr id="L343"><td><a href="#L343">343</a></td><td>ONE [OC]:  Captain, you will defend. Thralls must stay in the blue area. You will take the yellow. Touching an opposing colour deprives a contestant of one weapon. An opponent must be killed to be removed from the game. If only wounded, he is replaced by a fresh thrall. Is that clear, Captain?</td></tr>
 
-  KIRK
-     Spock? Spock!
+<tr><td></td><td>LOCATION--Combat area</td></tr>
+<tr id="L344"><td><a href="#L344">344</a></td><td>KIRK:  Yes, that's clear.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L345"><td><a href="#L345">345</a></td><td>MCCOY:  What in the name of heaven is this?</td></tr>
 
-LOCATION--Bridge
+<tr id="L346"><td><a href="#L346">346</a></td><td>SCOTT:  Heaven's got very little to do with this.</td></tr>
 
-  KIRK [OC]
-     Spock?
+<tr><td></td><td>LOCATION--Combat area</td></tr>
+<tr id="L347"><td><a href="#L347">347</a></td><td>ANNOTATION: So the fight begins, and everyone puts their feet outside their allotted colours from time to time. Kirk manages to trip up or push over each of his three opponents several times. Eventually he throws his pole into Kloog's belly then picks up a dagger to defend himself with. Lars traps his hand in the net, but Kirk ducks as the Andorian throws his pole. Now the two fight with just the daggers, until Kirk throws the Andorian. Galt sees that he is only injured, and orders in his replacement.</td></tr>
 
+<tr id="L348"><td><a href="#L348">348</a></td><td>GALT:  Shahna.</td></tr>
 
-LOCATION--Combat area
+<tr id="L349"><td><a href="#L349">349</a></td><td>ANNOTATION: She enters the area with a pole.</td></tr>
 
-  KIRK
-     Welcome to Triskelion, gentlemen.
+<tr id="L350"><td><a href="#L350">350</a></td><td>SHAHNA:  You lied. Everything you said.</td></tr>
 
+<tr id="L351"><td><a href="#L351">351</a></td><td>ANNOTATION: She trips him, but he grabs the pole and pulls her down to the point of his dagger. They both hesitate, break free, and she gets him at her mercy. Again there is hesitation, so Kirk uses his legs to grab her and this time puts the blade firmly to her throat.</td></tr>
 
-LOCATION--Bridge
+<tr id="L352"><td><a href="#L352">352</a></td><td>SHAHNA:  The thralls surrender!</td></tr>
 
-  KIRK [OC]
-     By now it must be obvious to you that you have
-     been expected.
+<tr id="L353"><td><a href="#L353">353</a></td><td>ANNOTATION: Kirk lets her go.</td></tr>
 
-  SCOTT
-     What the voice said was true, sir. Nothing is
-     functioning.
+<tr id="L354"><td><a href="#L354">354</a></td><td>ONE [OC]:  You have won, Captain Kirk, unfortunately. However, the terms of the wager will be honoured. You are free. Remove your collars.</td></tr>
 
-  ONE [OC]
-     Commendations, gentlemen. Your ingenuity in
-     discovering the whereabouts of your companions is
-     noteworthy.
+<tr id="L355"><td><a href="#L355">355</a></td><td>ANNOTATION: They come off easily.</td></tr>
 
-  KIRK [OC]
-     What you're hearing, gentlemen, is a Provider.
+<tr id="L356"><td><a href="#L356">356</a></td><td>KIRK:  The thralls will be trained?</td></tr>
 
-  ONE [OC]
-     We are known to the thralls as Providers because
-     we provide for all their needs. The term is easier
-     for their limited mental abilities to comprehend.
+<tr id="L357"><td><a href="#L357">357</a></td><td>ONE [OC]:  They will be trained. We have said it.</td></tr>
 
+<tr id="L358"><td><a href="#L358">358</a></td><td>KIRK:  I think you'll find it a much more exciting game than the one you've been playing. I'm sorry, Shahna. I didn't lie. I did what was necessary. Someday, I hope you'll understand.</td></tr>
 
-LOCATION--Combat area
+<tr id="L359"><td><a href="#L359">359</a></td><td>SHAHNA:  I understand, a little. You will leave us now?</td></tr>
 
-  KIRK
-     Providing for all their needs means using thralls,
-     people stolen from other parts of the galaxy
+<tr id="L360"><td><a href="#L360">360</a></td><td>KIRK:  Yes.</td></tr>
 
+<tr id="L361"><td><a href="#L361">361</a></td><td>SHAHNA:  To go back to the lights in the sky?</td></tr>
 
-LOCATION--Bridge
+<tr id="L362"><td><a href="#L362">362</a></td><td>KIRK:  Yes.</td></tr>
 
-  KIRK [OC]
-     To fight each other, and the Providers gamble on
-     the winner.
+<tr id="L363"><td><a href="#L363">363</a></td><td>SHAHNA:  I would like to go to those lights with you. Take me?</td></tr>
 
-  SPOCK
-     Fascinating.
+<tr id="L364"><td><a href="#L364">364</a></td><td>KIRK:  I can't.</td></tr>
 
-  KIRK [OC]
-     But these Providers haven't the courage to show
-     themselves.
+<tr id="L365"><td><a href="#L365">365</a></td><td>SHAHNA:  Then teach me how, and I will follow you.</td></tr>
 
-  ONE [OC]
-     Your species has great curiosity.
+<tr id="L366"><td><a href="#L366">366</a></td><td>KIRK:  There's so much you must learn here first. The Providers will teach you. Learn it, Shahna. all your people must learn before you can reach for the stars. Shahna. (he gives her a farewell kiss) Scotty!</td></tr>
 
+<tr id="L367"><td><a href="#L367">367</a></td><td>SCOTT [OC]:  Aye, sir.</td></tr>
 
-LOCATION--Combat area
+<tr id="L368"><td><a href="#L368">368</a></td><td>KIRK:  Beam us up.</td></tr>
 
-  ONE [OC]
-     We knew that. You are interesting in many ways.
+<tr id="L369"><td><a href="#L369">369</a></td><td>ANNOTATION: They disappear in a twinkle.</td></tr>
 
-  KIRK
-     But you are afraid.
+<tr id="L370"><td><a href="#L370">370</a></td><td>SHAHNA:  Goodbye, Jim Kirk. I will learn, and watch the lights in the sky, and remember.</td></tr>
 
-
-LOCATION--Bridge
-
-  ONE [OC]
-     You present no danger while you wear the collar
-
-
-LOCATION--Combat area
-
-  ONE [OC]
-     And you wear it as long as you live.
-
-  KIRK
-     Then show yourselves.
-
-  ONE [OC]
-     There is no objection.
-
-
-LOCATION--Cavern
-
-  ANNOTATION
-     It is vast, obviously constructed with ceiling
-     lights and a power plant in the background. In the
-     foreground is a transparent dome with three yellow
-     brains in it.
-
-  KIRK
-     The power source. Shielded by solid rock.
-
-  ONE [OC]
-     (a brain pulsates red) We are one thousand of your
-     metres beneath the surface.
-
-  KIRK
-     Primary mental evolution. Incredible.
-
-  TWO [OC]
-     (pulsing green) That is not true, Captain. Once we
-     had humanoid form, but we evolved beyond it.
-
-  THREE [OC]
-     (yellow) Through eons of devoting ourselves
-     exclusively to intellectual pursuits, we became
-     the physically simple, mentally superior creatures
-     you see before you.
-
-  KIRK
-     A species that enslaves other beings is hardly
-     superior, mentally or otherwise.
-
-  ONE [OC]
-     The thralls are necessary to the games. We have
-     found athletic competitions our only challenge,
-     the only thing which furnishes us with purpose.
-
-  KIRK
-     It's an unproductive purpose, unworthy of your
-     intellect.
-
-  ONE [OC]
-     We use only inferior beings.
-
-  KIRK
-     We have found that all life forms in the galaxy
-     are capable of superior development. Perhaps
-     you're not as evolved as you believe.
-
-  THREE [OC]
-     An interesting speculation, Captain. You and your
-     people are most challenging.
-
-  TWO [OC]
-     Yes, most challenging. It was hoped that such new
-     blood would stimulate our stock of thralls. How
-     unfortunate that you must be destroyed.
-
-  KIRK
-     Our destruction will result only in your own. You
-     may control the Enterprise, but you cannot match
-     the force of the entire Federation.
-
-  ONE [OC]
-     Your ship will be destroyed by a magnetic storm.
-     No communications with your base will be possible.
-     Your fate will remain a mystery to your people.
-
-  KIRK
-     And you call yourselves superior! You're murderers
-     without the spirit to really wager for the lives
-     you take.
-
-  ONE [OC]
-     Wager? Explain yourself, Captain.
-
-  KIRK
-     My people pride themselves on being the greatest,
-     most successful gamblers in the universe. We
-     compete for everything. Power, fame, women,
-     everything we desire, and it is our nature to win.
-     And for proof, I offer you our exploration of this
-     galaxy.
-
-  THREE [OC]
-     We are aware of your competitive abilities,
-     Captain.
-
-  KIRK
-     Well, then, I wager that with weapons of your own
-     choice, right here and now, my people can overcome
-     an equal number of thralls set against us.
-
-  THREE [OC]
-     A hundred quatloos on the newcomers.
-
-  ONE [OC]
-     Four hundred quatloos against the newcomers.
-
-  TWO [OC]
-     Two hundred quatloos against!
-
-  THREE [OC]
-     Five hundred for the newcomers. Contest by
-     multiple elimination.
-
-  KIRK
-     Wait! Wait! Hear me! We can't wager for trifles
-     like quatloos. The stakes must be higher.
-
-  ONE [OC]
-     Name your stakes, Captain.
-
-  KIRK
-     If we win, the Enterprise and its crew leaves here
-     in safety. Further more, all the thralls on the
-     planet must be freed.
-
-  TWO [OC]
-     Anarchy. They would starve.
-
-  KIRK
-     You will educate and train them to establish a
-     normal self-governing culture.
-
-  THREE [OC]
-     Thralls govern themselves? Ridiculous!
-
-  KIRK
-     We have done the same with cultures throughout the
-     galaxy. Are you willing to admit that we can do
-     something you can't?
-
-  TWO [OC]
-     There is nothing we cannot do!
-
-  ONE [OC]
-     And if you lose, Captain?
-
-  KIRK
-     If we lose? We will remain here, the entire crew
-     of the Enterprise. The most stubborn, determined
-     competitors in the universe. We'll become thralls,
-     enter your games, obey your orders without
-     rebellion. You'll be assured of generations of the
-     most exciting wagering you've ever had.
-
-  ONE [OC]
-     Your stakes are indeed high, Captain.
-
-  KIRK
-     Not for true gamesters.
-
-  THREE [OC]
-     We will accept your stakes on one condition.
-
-  KIRK
-     Name it.
-
-  ONE [OC]
-     As leader of your people, your spirit seems most
-     indomitable. We suggest you alone, pitted against
-     three contestants of our choosing.
-
-  KIRK
-     Three against one? Those are pretty high odds.
-
-  TWO [OC]
-     Not for true gamesters, Captain.
-
-  KIRK
-     Your, your terms are unfair.
-
-  ONE [OC]
-     On the contrary, they're extremely fair, since
-     your alternative is death.
-
-  KIRK
-     Well, in that case, I'll accept your terms.
-
-  ONE [OC]
-     Galt will prepare you.
-
-
-LOCATION--Combat area
-
-  ANNOTATION
-     Lars has a net, Kloog has his whip, and an
-     Andorian has the pole weapon, same as Kirk.
-
-  ONE [OC]
-     Because you wager your skill for all your people,
-     they will be permitted to watch the outcome of the
-     game on the ship's viewscreen.
-
-
-LOCATION--Bridge
-
-  SCOTT
-     Mister Spock, look!
-
-  ONE [OC]
-     Captain, you will defend. Thralls must stay in the
-     blue area. You will take the yellow. Touching an
-     opposing colour deprives a contestant of one
-     weapon. An opponent must be killed to be removed
-     from the game. If only wounded, he is replaced by
-     a fresh thrall. Is that clear, Captain?
-
-
-LOCATION--Combat area
-
-  KIRK
-     Yes, that's clear.
-
-
-LOCATION--Bridge
-
-  MCCOY
-     What in the name of heaven is this?
-
-  SCOTT
-     Heaven's got very little to do with this.
-
-
-LOCATION--Combat area
-
-  ANNOTATION
-     So the fight begins, and everyone puts their feet
-     outside their allotted colours from time to time.
-     Kirk manages to trip up or push over each of his
-     three opponents several times. Eventually he
-     throws his pole into Kloog's belly then picks up a
-     dagger to defend himself with. Lars traps his hand
-     in the net, but Kirk ducks as the Andorian throws
-     his pole. Now the two fight with just the daggers,
-     until Kirk throws the Andorian. Galt sees that he
-     is only injured, and orders in his replacement.
-
-  GALT
-     Shahna.
-
-  ANNOTATION
-     She enters the area with a pole.
-
-  SHAHNA
-     You lied. Everything you said.
-
-  ANNOTATION
-     She trips him, but he grabs the pole and pulls her
-     down to the point of his dagger. They both
-     hesitate, break free, and she gets him at her
-     mercy. Again there is hesitation, so Kirk uses his
-     legs to grab her and this time puts the blade
-     firmly to her throat.
-
-  SHAHNA
-     The thralls surrender!
-
-  ANNOTATION
-     Kirk lets her go.
-
-  ONE [OC]
-     You have won, Captain Kirk, unfortunately.
-     However, the terms of the wager will be honoured.
-     You are free. Remove your collars.
-
-  ANNOTATION
-     They come off easily.
-
-  KIRK
-     The thralls will be trained?
-
-  ONE [OC]
-     They will be trained. We have said it.
-
-  KIRK
-     I think you'll find it a much more exciting game
-     than the one you've been playing. I'm sorry,
-     Shahna. I didn't lie. I did what was necessary.
-     Someday, I hope you'll understand.
-
-  SHAHNA
-     I understand, a little. You will leave us now?
-
-  KIRK
-     Yes.
-
-  SHAHNA
-     To go back to the lights in the sky?
-
-  KIRK
-     Yes.
-
-  SHAHNA
-     I would like to go to those lights with you. Take
-     me?
-
-  KIRK
-     I can't.
-
-  SHAHNA
-     Then teach me how, and I will follow you.
-
-  KIRK
-     There's so much you must learn here first. The
-     Providers will teach you. Learn it, Shahna. all
-     your people must learn before you can reach for
-     the stars. Shahna. (he gives her a farewell kiss)
-     Scotty!
-
-  SCOTT [OC]
-     Aye, sir.
-
-  KIRK
-     Beam us up.
-
-  ANNOTATION
-     They disappear in a twinkle.
-
-  SHAHNA
-     Goodbye, Jim Kirk. I will learn, and watch the
-     lights in the sky, and remember.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

@@ -1,1636 +1,870 @@
-Minefield
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Minefield</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Captain's mess</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ARCHER:  Good morning.</td></tr>
 
-LOCATION--Captain's mess
+<tr id="L2"><td><a href="#L2">2</a></td><td>REED:  Captain.</td></tr>
 
-  ARCHER
-     Good morning.
+<tr id="L3"><td><a href="#L3">3</a></td><td>ARCHER:  Sleep well?</td></tr>
 
-  REED
-     Captain.
+<tr id="L4"><td><a href="#L4">4</a></td><td>REED:  Well enough.</td></tr>
 
-  ARCHER
-     Sleep well?
+<tr id="L5"><td><a href="#L5">5</a></td><td>ARCHER:  I wasn't sure what you wanted for breakfast, so I took the liberty of having Chef prepare his famous Eggs Benedict.</td></tr>
 
-  REED
-     Well enough.
+<tr id="L6"><td><a href="#L6">6</a></td><td>REED:  That'll be fine, sir.</td></tr>
 
-  ARCHER
-     I wasn't sure what you wanted for breakfast, so I
-     took the liberty of having Chef prepare his famous
-     Eggs Benedict.
+<tr id="L7"><td><a href="#L7">7</a></td><td>ANNOTATION: Archer sits.</td></tr>
 
-  REED
-     That'll be fine, sir.
+<tr id="L8"><td><a href="#L8">8</a></td><td>ARCHER:  You plan to eat standing up?</td></tr>
 
-  ANNOTATION
-     Archer sits.
+<tr id="L9"><td><a href="#L9">9</a></td><td>ANNOTATION: Reed sits.</td></tr>
 
-  ARCHER
-     You plan to eat standing up?
+<tr id="L10"><td><a href="#L10">10</a></td><td>ARCHER:  This isn't a visit to the principal's office, Malcolm. At ease.</td></tr>
 
-  ANNOTATION
-     Reed sits.
+<tr id="L11"><td><a href="#L11">11</a></td><td>REED:  Thank you, sir. I just wasn't sure whether you called me here to discuss something.</td></tr>
 
-  ARCHER
-     This isn't a visit to the principal's office,
-     Malcolm. At ease.
+<tr id="L12"><td><a href="#L12">12</a></td><td>ARCHER:  No. No business. I just wanted to have a long overdue meal with my Armoury Officer.</td></tr>
 
-  REED
-     Thank you, sir. I just wasn't sure whether you
-     called me here to discuss something.
+<tr id="L13"><td><a href="#L13">13</a></td><td>ANNOTATION: Breakfast is served.</td></tr>
 
-  ARCHER
-     No. No business. I just wanted to have a long
-     overdue meal with my Armoury Officer.
+<tr id="L14"><td><a href="#L14">14</a></td><td>ARCHER:  I heard that England made it to the finals in the World Cup.</td></tr>
 
-  ANNOTATION
-     Breakfast is served.
+<tr id="L15"><td><a href="#L15">15</a></td><td>REED:  I beg your pardon?</td></tr>
 
-  ARCHER
-     I heard that England made it to the finals in the
-     World Cup.
+<tr id="L16"><td><a href="#L16">16</a></td><td>ARCHER:  The World Cup? Soccer?</td></tr>
 
-  REED
-     I beg your pardon?
+<tr id="L17"><td><a href="#L17">17</a></td><td>REED:  Oh. I'm afraid I don't much follow football, sir.</td></tr>
 
-  ARCHER
-     The World Cup? Soccer?
+<tr id="L18"><td><a href="#L18">18</a></td><td>ARCHER:  Any sports you do follow?</td></tr>
 
-  REED
-     Oh. I'm afraid I don't much follow football, sir.
+<tr id="L19"><td><a href="#L19">19</a></td><td>REED:  No, not particularly.</td></tr>
 
-  ARCHER
-     Any sports you do follow?
+<tr id="L20"><td><a href="#L20">20</a></td><td>ARCHER:  Thanks.</td></tr>
 
-  REED
-     No, not particularly.
+<tr id="L21"><td><a href="#L21">21</a></td><td>CREWMAN:  You're welcome, sir.</td></tr>
 
-  ARCHER
-     Thanks.
+<tr id="L22"><td><a href="#L22">22</a></td><td>ANNOTATION: He leaves.</td></tr>
 
-  CREWMAN
-     You're welcome, sir.
+<tr id="L23"><td><a href="#L23">23</a></td><td>REED:  I've been working on the duty roster, sir. We only have two crewmen assigned to the Armoury full time. If we added a third, Ensign Tanner would be free to begin those upgrades to those torpedo launchers I told you about.</td></tr>
 
-  ANNOTATION
-     He leaves.
+<tr id="L24"><td><a href="#L24">24</a></td><td>ARCHER:  Didn't your mother ever tell you not to bring your homework to the table?</td></tr>
 
-  REED
-     I've been working on the duty roster, sir. We only
-     have two crewmen assigned to the Armoury full
-     time. If we added a third, Ensign Tanner would be
-     free to begin those upgrades to those torpedo
-     launchers I told you about.
+<tr id="L25"><td><a href="#L25">25</a></td><td>REED:  Sir?</td></tr>
 
-  ARCHER
-     Didn't your mother ever tell you not to bring your
-     homework to the table?
+<tr id="L26"><td><a href="#L26">26</a></td><td>ARCHER:  This looks fine. (comm. beeps) Archer.</td></tr>
 
-  REED
-     Sir?
+<tr id="L27"><td><a href="#L27">27</a></td><td>T'POL [OC]:  I'm sorry to interrupt, Captain, but we've detected an uncharted system along our present course. One of the planets is Minshara-Class.</td></tr>
 
-  ARCHER
-     This looks fine. (comm. beeps) Archer.
+<tr id="L28"><td><a href="#L28">28</a></td><td>ARCHER:  Take us out of warp. I'm on my way. Looks like we'll have to reschedule.</td></tr>
 
-  T'POL [OC]
-     I'm sorry to interrupt, Captain, but we've
-     detected an uncharted system along our present
-     course. One of the planets is Minshara-Class.
+<tr id="L29"><td><a href="#L29">29</a></td><td>REED:  Whenever it's convenient. After you, sir.</td></tr>
 
-  ARCHER
-     Take us out of warp. I'm on my way. Looks like
-     we'll have to reschedule.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L30"><td><a href="#L30">30</a></td><td>ARCHER:  Anybody home?</td></tr>
 
-  REED
-     Whenever it's convenient. After you, sir.
+<tr id="L31"><td><a href="#L31">31</a></td><td>T'POL:  It's uninhabited.</td></tr>
 
+<tr id="L32"><td><a href="#L32">32</a></td><td>ARCHER:  What about geographical features? Anything interesting?</td></tr>
 
-LOCATION--Bridge
+<tr id="L33"><td><a href="#L33">33</a></td><td>T'POL:  There's a chain of volcanoes that spans an entire hemisphere.</td></tr>
 
-  ARCHER
-     Anybody home?
+<tr id="L34"><td><a href="#L34">34</a></td><td>ARCHER:  Well, I don't know about anyone else, but I could use some fresh air. Put us in a standard orbit.</td></tr>
 
-  T'POL
-     It's uninhabited.
+<tr id="L35"><td><a href="#L35">35</a></td><td>TRAVIS:  Aye, sir.</td></tr>
 
-  ARCHER
-     What about geographical features? Anything
-     interesting?
+<tr id="L36"><td><a href="#L36">36</a></td><td>ARCHER:  Find a volcano with a gentle slope. Preferably one that's not erupting. Prep a shuttlepod, Travis. We'll take shifts down to</td></tr>
 
-  T'POL
-     There's a chain of volcanoes that spans an entire
-     hemisphere.
+<tr id="L37"><td><a href="#L37">37</a></td><td>ANNOTATION: An explosion rocks Enterprise and sends people flying. We see the exterior shot of a portion of port hull blown away.</td></tr>
 
-  ARCHER
-     Well, I don't know about anyone else, but I could
-     use some fresh air. Put us in a standard orbit.
+<tr id="L38"><td><a href="#L38">38</a></td><td>ARCHER:  Report!</td></tr>
 
-  TRAVIS
-     Aye, sir.
+<tr id="L39"><td><a href="#L39">39</a></td><td>REED:  It was a thermo-kinetic explosion on the outer hull, port forward quarter. Breeches on C deck, D deck.</td></tr>
 
-  ARCHER
-     Find a volcano with a gentle slope. Preferably one
-     that's not erupting. Prep a shuttlepod, Travis.
-     We'll take shifts down to
+<tr id="L40"><td><a href="#L40">40</a></td><td>ANNOTATION: T'Pol discovers Hoshi is unconscious.</td></tr>
 
-  ANNOTATION
-     An explosion rocks Enterprise and sends people
-     flying. We see the exterior shot of a portion of
-     port hull blown away.
+<tr id="L41"><td><a href="#L41">41</a></td><td>T'POL:  Bridge to Sickbay. We need medical assistance.</td></tr>
 
-  ARCHER
-     Report!
+<tr id="L42"><td><a href="#L42">42</a></td><td>PHLOX [OC]:  Acknowledged.</td></tr>
 
-  REED
-     It was a thermo-kinetic explosion on the outer
-     hull, port forward quarter. Breeches on C deck, D
-     deck.
+<tr id="L43"><td><a href="#L43">43</a></td><td>ARCHER:  Emergency bulkheads?</td></tr>
 
-  ANNOTATION
-     T'Pol discovers Hoshi is unconscious.
+<tr id="L44"><td><a href="#L44">44</a></td><td>REED:  They're in place, but eight subsections have decompressed.</td></tr>
 
-  T'POL
-     Bridge to Sickbay. We need medical assistance.
+<tr id="L45"><td><a href="#L45">45</a></td><td>ARCHER:  Was anybody in them?</td></tr>
 
-  PHLOX [OC]
-     Acknowledged.
+<tr id="L46"><td><a href="#L46">46</a></td><td>REED:  I can't tell, sir. Not yet.</td></tr>
 
-  ARCHER
-     Emergency bulkheads?
+<tr id="L47"><td><a href="#L47">47</a></td><td>ARCHER:  Find out what happened. Malcolm!</td></tr>
 
-  REED
-     They're in place, but eight subsections have
-     decompressed.
+<tr id="L48"><td><a href="#L48">48</a></td><td>REED:  I'd give you an answer if I could, sir. The sensor logs aren't showing anything. All systems were functioning normally.</td></tr>
 
-  ARCHER
-     Was anybody in them?
+<tr id="L49"><td><a href="#L49">49</a></td><td>ARCHER:  Archer to Engineering.</td></tr>
 
-  REED
-     I can't tell, sir. Not yet.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L50"><td><a href="#L50">50</a></td><td>ANNOTATION: A scene of barely controlled chaos and electrical fires.</td></tr>
 
-  ARCHER
-     Find out what happened. Malcolm!
+<tr id="L51"><td><a href="#L51">51</a></td><td>TUCKER:  Captain, what's going on?</td></tr>
 
-  REED
-     I'd give you an answer if I could, sir. The sensor
-     logs aren't showing anything. All systems were
-     functioning normally.
+<tr id="L52"><td><a href="#L52">52</a></td><td>ARCHER [OC]:  I was hoping you could tell me.</td></tr>
 
-  ARCHER
-     Archer to Engineering.
+<tr id="L53"><td><a href="#L53">53</a></td><td>TUCKER:  We've got plasma fires, an overload in the EPS grid but whatever caused that explosion,</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L54"><td><a href="#L54">54</a></td><td>TUCKER [OC]:  I don't have a clue. Weapons fire? An asteroid?</td></tr>
 
-LOCATION--Engineering
+<tr id="L55"><td><a href="#L55">55</a></td><td>ARCHER:  Nothing on our sensors. How are your people?</td></tr>
 
-  ANNOTATION
-     A scene of barely controlled chaos and electrical
-     fires.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L56"><td><a href="#L56">56</a></td><td>TUCKER:  A few bumps and bruises, but we're all right.</td></tr>
 
-  TUCKER
-     Captain, what's going on?
+<tr id="L57"><td><a href="#L57">57</a></td><td>ARCHER [OC]:  Keep me posted. Archer out.</td></tr>
 
-  ARCHER [OC]
-     I was hoping you could tell me.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L58"><td><a href="#L58">58</a></td><td>ARCHER:  Any casualty reports?</td></tr>
 
-  TUCKER
-     We've got plasma fires, an overload in the EPS
-     grid but whatever caused that explosion,
+<tr id="L59"><td><a href="#L59">59</a></td><td>REED:  Figures are coming in, sir. Seventeen so far, including Hoshi. No fatalities.</td></tr>
 
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L60"><td><a href="#L60">60</a></td><td>PHLOX:  Get this man into the imaging chamber.</td></tr>
 
-LOCATION--Bridge
+<tr id="L61"><td><a href="#L61">61</a></td><td>CREWWOMAN:  What's happening? Are we under attack?</td></tr>
 
-  TUCKER [OC]
-     I don't have a clue. Weapons fire? An asteroid?
+<tr id="L62"><td><a href="#L62">62</a></td><td>PHLOX:  I don't know.</td></tr>
 
-  ARCHER
-     Nothing on our sensors. How are your people?
+<tr id="L63"><td><a href="#L63">63</a></td><td>CREWMAN:  Doctor!</td></tr>
 
+<tr id="L64"><td><a href="#L64">64</a></td><td>ANNOTATION: More casualties are being brought in.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L65"><td><a href="#L65">65</a></td><td>TRAVIS:  Captain, something just struck the ship. Starboard side upper aft quadrant.</td></tr>
 
-  TUCKER
-     A few bumps and bruises, but we're all right.
+<tr id="L66"><td><a href="#L66">66</a></td><td>ARCHER:  Can you get a visual?</td></tr>
 
-  ARCHER [OC]
-     Keep me posted. Archer out.
+<tr id="L67"><td><a href="#L67">67</a></td><td>ANNOTATION: The viewscreen image pans around the saucer section.</td></tr>
 
+<tr id="L68"><td><a href="#L68">68</a></td><td>ARCHER:  There. Just behind the secondary plasma vent. You see it?</td></tr>
 
-LOCATION--Bridge
+<tr id="L69"><td><a href="#L69">69</a></td><td>ANNOTATION: The image is sparkling and fuzzy.</td></tr>
 
-  ARCHER
-     Any casualty reports?
+<tr id="L70"><td><a href="#L70">70</a></td><td>TRAVIS:  Some kind of cloaked ship?</td></tr>
 
-  REED
-     Figures are coming in, sir. Seventeen so far,
-     including Hoshi. No fatalities.
+<tr id="L71"><td><a href="#L71">71</a></td><td>ARCHER:  It's too small.</td></tr>
 
+<tr id="L72"><td><a href="#L72">72</a></td><td>T'POL:  I'm not reading any biosigns.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L73"><td><a href="#L73">73</a></td><td>ANNOTATION: The image solidifies.</td></tr>
 
-  PHLOX
-     Get this man into the imaging chamber.
+<tr id="L74"><td><a href="#L74">74</a></td><td>REED:  It's armed with tricobalt explosives. I think it's a mine. And judging by the firepower, something similar damaged our ship.</td></tr>
 
-  CREWWOMAN
-     What's happening? Are we under attack?
+<tr id="L75"><td><a href="#L75">75</a></td><td>ARCHER:  Can you tell if it's active?</td></tr>
 
-  PHLOX
-     I don't know.
+<tr id="L76"><td><a href="#L76">76</a></td><td>REED:  No reason to believe it's not.</td></tr>
 
-  CREWMAN
-     Doctor!
+<tr id="L77"><td><a href="#L77">77</a></td><td>T'POL:  Captain, it's lodged near Impulse Reactor Two. An explosion anywhere near there could disable Enterprise.</td></tr>
 
-  ANNOTATION
-     More casualties are being brought in.
+<tr id="L78"><td><a href="#L78">78</a></td><td>ARCHER:  What if we polarised the adjacent hull plating?</td></tr>
 
+<tr id="L79"><td><a href="#L79">79</a></td><td>REED:  We don't know how it's triggered. Somebody has to go out there and defuse it, and it should be me. I have the ordnance training.</td></tr>
 
-LOCATION--Bridge
+<tr id="L80"><td><a href="#L80">80</a></td><td>ANNOTATION: Archer nods and Reed leaves.</td></tr>
 
-  TRAVIS
-     Captain, something just struck the ship. Starboard
-     side upper aft quadrant.
+<tr id="L81"><td><a href="#L81">81</a></td><td>ARCHER:  I've never heard of a minefield with just two mines. Are the quantum beacons still mounted on the grappler arm?</td></tr>
 
-  ARCHER
-     Can you get a visual?
+<tr id="L82"><td><a href="#L82">82</a></td><td>TRAVIS:  I believe so.</td></tr>
 
-  ANNOTATION
-     The viewscreen image pans around the saucer
-     section.
+<tr id="L83"><td><a href="#L83">83</a></td><td>ARCHER:  Lower them into position, then modify the viewscreen. Activate the beacon.</td></tr>
 
-  ARCHER
-     There. Just behind the secondary plasma vent. You
-     see it?
+<tr id="L84"><td><a href="#L84">84</a></td><td>T'POL:  They were designed to penetrate Suliban cloaking devices. I'll try shifting the phase variance.</td></tr>
 
-  ANNOTATION
-     The image is sparkling and fuzzy.
+<tr><td></td><td>LOCATION--Airlock</td></tr>
+<tr id="L85"><td><a href="#L85">85</a></td><td>ANNOTATION: Suited up and ready for EVA</td></tr>
 
-  TRAVIS
-     Some kind of cloaked ship?
+<tr id="L86"><td><a href="#L86">86</a></td><td>REED:  Lieutenant Reed to Bridge. I've opened the outer hatch. Wish me luck.</td></tr>
 
-  ARCHER
-     It's too small.
+<tr id="L87"><td><a href="#L87">87</a></td><td>ANNOTATION: Weightlessness lifts him out.</td></tr>
 
-  T'POL
-     I'm not reading any biosigns.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L88"><td><a href="#L88">88</a></td><td>T'POL:  I'm detecting something in the gamma spectrum, phase variant point zero zero seven five.</td></tr>
 
-  ANNOTATION
-     The image solidifies.
+<tr id="L89"><td><a href="#L89">89</a></td><td>ANNOTATION: A large number of mines appear on the viewscreen.</td></tr>
 
-  REED
-     It's armed with tricobalt explosives. I think it's
-     a mine. And judging by the firepower, something
-     similar damaged our ship.
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L90"><td><a href="#L90">90</a></td><td>ANNOTATION: Reed carefully walks around the mine.</td></tr>
 
-  ARCHER
-     Can you tell if it's active?
+<tr id="L91"><td><a href="#L91">91</a></td><td>REED:  Its surface is pockmarked. Probably micrometeorite impacts. It seems to have been in orbit for some time. The spikes are magnetic. Two of them have locked onto the hull.</td></tr>
 
-  REED
-     No reason to believe it's not.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L92"><td><a href="#L92">92</a></td><td>REED [OC]:  Stand by. I'm going to run an internal scan.</td></tr>
 
-  T'POL
-     Captain, it's lodged near Impulse Reactor Two. An
-     explosion anywhere near there could disable
-     Enterprise.
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L93"><td><a href="#L93">93</a></td><td>REED:  There are proximity sensors, but they appear to be offline.</td></tr>
 
-  ARCHER
-     What if we polarised the adjacent hull plating?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L94"><td><a href="#L94">94</a></td><td>REED [OC}:  It looks like the mine doesn't think it's hit anything. I believe I've found an access panel. I'm going to try and remove it and get a look inside.</td></tr>
 
-  REED
-     We don't know how it's triggered. Somebody has to
-     go out there and defuse it, and it should be me. I
-     have the ordnance training.
+<tr id="L95"><td><a href="#L95">95</a></td><td>ANNOTATION: Tucker enters the Bridge.</td></tr>
 
-  ANNOTATION
-     Archer nods and Reed leaves.
+<tr id="L96"><td><a href="#L96">96</a></td><td>ARCHER:  How bad is it?</td></tr>
 
-  ARCHER
-     I've never heard of a minefield with just two
-     mines. Are the quantum beacons still mounted on
-     the grappler arm?
+<tr id="L97"><td><a href="#L97">97</a></td><td>TUCKER:  I can't really tell until we can get into the decompressed sections but I imagine it's pretty ugly. I've got one piece of good news. I did a head count. We didn't lose anyone.</td></tr>
 
-  TRAVIS
-     I believe so.
+<tr id="L98"><td><a href="#L98">98</a></td><td>ARCHER:  Trip, I'm not sure Malcolm's going to be able to defuse this thing. Couldn't we just detach that section of hull plating? Let it drift away?</td></tr>
 
-  ARCHER
-     Lower them into position, then modify the
-     viewscreen. Activate the beacon.
+<tr id="L99"><td><a href="#L99">99</a></td><td>TUCKER:  We'd have to reroute some EPS conduits. There's about three hundred bolt couplings. It could be done.</td></tr>
 
-  T'POL
-     They were designed to penetrate Suliban cloaking
-     devices. I'll try shifting the phase variance.
+<tr id="L100"><td><a href="#L100">100</a></td><td>ARCHER:  How long?</td></tr>
 
+<tr id="L101"><td><a href="#L101">101</a></td><td>TUCKER:  Three or four hours. But I wouldn't recommend it, sir. We'd be exposing a good piece of the impulse manifold.</td></tr>
 
-LOCATION--Airlock
+<tr id="L102"><td><a href="#L102">102</a></td><td>ARCHER:  Get a team started. I'll consider it our last resort.</td></tr>
 
-  ANNOTATION
-     Suited up and ready for EVA
+<tr id="L103"><td><a href="#L103">103</a></td><td>REED [OC]:  I'm removing the panel.</td></tr>
 
-  REED
-     Lieutenant Reed to Bridge. I've opened the outer
-     hatch. Wish me luck.
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L104"><td><a href="#L104">104</a></td><td>REED:  The arming mechanism's extending.</td></tr>
 
-  ANNOTATION
-     Weightlessness lifts him out.
+<tr id="L105"><td><a href="#L105">105</a></td><td>ANNOTATION: He turns to see a vessel approaching.</td></tr>
 
+<tr id="L106"><td><a href="#L106">106</a></td><td>REED:  Captain.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L107"><td><a href="#L107">107</a></td><td>ARCHER:  We see it, Malcolm.</td></tr>
 
-  T'POL
-     I'm detecting something in the gamma spectrum,
-     phase variant point zero zero seven five.
+<tr id="L108"><td><a href="#L108">108</a></td><td>ANNOTATION: On the viewscreen is a silhouette familiar to original series fans.</td></tr>
 
-  ANNOTATION
-     A large number of mines appear on the viewscreen.
+<tr id="L109"><td><a href="#L109">109</a></td><td>ARCHER:  Ever see a ship like that?</td></tr>
 
+<tr id="L110"><td><a href="#L110">110</a></td><td>T'POL:  No. It's reflecting our scans.</td></tr>
 
-LOCATION--Hull
+<tr id="L111"><td><a href="#L111">111</a></td><td>ARCHER:  Why didn't the beacons let us see through its cloak?</td></tr>
 
-  ANNOTATION
-     Reed carefully walks around the mine.
+<tr id="L112"><td><a href="#L112">112</a></td><td>T'POL:  Perhaps the mines use a more primitive cloaking system.</td></tr>
 
-  REED
-     Its surface is pockmarked. Probably micrometeorite
-     impacts. It seems to have been in orbit for some
-     time. The spikes are magnetic. Two of them have
-     locked onto the hull.
+<tr id="L113"><td><a href="#L113">113</a></td><td>TRAVIS:  Sir, they're hailing us.</td></tr>
 
+<tr id="L114"><td><a href="#L114">114</a></td><td>ANNOTATION: T'Pol goes to Hoshi's station and soon an alien language comes through the speakers.</td></tr>
 
-LOCATION--Bridge
+<tr id="L115"><td><a href="#L115">115</a></td><td>T'POL:  The translator's not locking on.</td></tr>
 
-  REED [OC]
-     Stand by. I'm going to run an internal scan.
+<tr id="L116"><td><a href="#L116">116</a></td><td>ARCHER:  Archer to Sickbay.</td></tr>
 
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L117"><td><a href="#L117">117</a></td><td>PHLOX:  Yes, Captain.</td></tr>
 
-LOCATION--Hull
+<tr id="L118"><td><a href="#L118">118</a></td><td>ARCHER [OC]:  Is Hoshi in any shape to return to the Bridge? It's urgent.</td></tr>
 
-  REED
-     There are proximity sensors, but they appear to be
-     offline.
+<tr id="L119"><td><a href="#L119">119</a></td><td>PHLOX:  I'm afraid not. She suffered a rather severe concussion.</td></tr>
 
+<tr id="L120"><td><a href="#L120">120</a></td><td>ARCHER [OC]:  Understood.</td></tr>
 
-LOCATION--Bridge
+<tr id="L121"><td><a href="#L121">121</a></td><td>ANNOTATION: Hoshi rolls over and sits up.</td></tr>
 
-  REED [OC}
-     It looks like the mine doesn't think it's hit
-     anything. I believe I've found an access panel.
-     I'm going to try and remove it and get a look
-     inside.
+<tr id="L122"><td><a href="#L122">122</a></td><td>HOSHI:  Tell him I'm on my way.</td></tr>
 
-  ANNOTATION
-     Tucker enters the Bridge.
+<tr id="L123"><td><a href="#L123">123</a></td><td>PHLOX:  You'd be of little help in your present condition, Ensign.</td></tr>
 
-  ARCHER
-     How bad is it?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L124"><td><a href="#L124">124</a></td><td>ARCHER:  Any luck?</td></tr>
 
-  TUCKER
-     I can't really tell until we can get into the
-     decompressed sections but I imagine it's pretty
-     ugly. I've got one piece of good news. I did a
-     head count. We didn't lose anyone.
+<tr id="L125"><td><a href="#L125">125</a></td><td>T'POL:  Not yet.</td></tr>
 
-  ARCHER
-     Trip, I'm not sure Malcolm's going to be able to
-     defuse this thing. Couldn't we just detach that
-     section of hull plating? Let it drift away?
+<tr id="L126"><td><a href="#L126">126</a></td><td>TRAVIS:  They're charging weapons.</td></tr>
 
-  TUCKER
-     We'd have to reroute some EPS conduits. There's
-     about three hundred bolt couplings. It could be
-     done.
+<tr id="L127"><td><a href="#L127">127</a></td><td>ANNOTATION: A shot is fired.</td></tr>
 
-  ARCHER
-     How long?
+<tr id="L128"><td><a href="#L128">128</a></td><td>TRAVIS:  They missed our starboard nacelle by less than twenty metres.</td></tr>
 
-  TUCKER
-     Three or four hours. But I wouldn't recommend it,
-     sir. We'd be exposing a good piece of the impulse
-     manifold.
+<tr id="L129"><td><a href="#L129">129</a></td><td>ARCHER:  Not a very subtle warning shot.</td></tr>
 
-  ARCHER
-     Get a team started. I'll consider it our last
-     resort.
+<tr id="L130"><td><a href="#L130">130</a></td><td>ANNOTATION: A second shot whizzes over Malcolm's head.</td></tr>
 
-  REED [OC]
-     I'm removing the panel.
+<tr id="L131"><td><a href="#L131">131</a></td><td>ARCHER:  Can you get us out of here?</td></tr>
 
+<tr id="L132"><td><a href="#L132">132</a></td><td>TRAVIS:  The orbits of those mines are pretty erratic, sir. It's going to be tricky.</td></tr>
 
-LOCATION--Hull
+<tr id="L133"><td><a href="#L133">133</a></td><td>ARCHER:  We'll give you whatever help we can. Bridge to Lieutenant Reed.</td></tr>
 
-  REED
-     The arming mechanism's extending.
+<tr id="L134"><td><a href="#L134">134</a></td><td>REED [OC]:  Go ahead.</td></tr>
 
-  ANNOTATION
-     He turns to see a vessel approaching.
+<tr id="L135"><td><a href="#L135">135</a></td><td>ARCHER:  Our friends seem to be anxious for us to leave. We're going to break orbit, nice and slowly.</td></tr>
 
-  REED
-     Captain.
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L136"><td><a href="#L136">136</a></td><td>REED:  Understood. If you plan to go to warp, sir, you'll let me know?</td></tr>
 
+<tr id="L137"><td><a href="#L137">137</a></td><td>ARCHER [OC]:  I'll try to remember.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L138"><td><a href="#L138">138</a></td><td>ARCHER:  Maneuvering thrusters only.</td></tr>
 
-  ARCHER
-     We see it, Malcolm.
+<tr id="L139"><td><a href="#L139">139</a></td><td>TRAVIS:  Aye, sir.</td></tr>
 
-  ANNOTATION
-     On the viewscreen is a silhouette familiar to
-     original series fans.
+<tr id="L140"><td><a href="#L140">140</a></td><td>ANNOTATION: A joystick comes out for him to steer with.</td></tr>
 
-  ARCHER
-     Ever see a ship like that?
+<tr id="L141"><td><a href="#L141">141</a></td><td>ARCHER:  Activate the beacon.</td></tr>
 
-  T'POL
-     No. It's reflecting our scans.
+<tr id="L142"><td><a href="#L142">142</a></td><td>ANNOTATION: The Bird of Prey cloaks as Enterprise steers gently between the mines.</td></tr>
 
-  ARCHER
-     Why didn't the beacons let us see through its
-     cloak?
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L143"><td><a href="#L143">143</a></td><td>REED:  Our friends just vanished.</td></tr>
 
-  T'POL
-     Perhaps the mines use a more primitive cloaking
-     system.
+<tr id="L144"><td><a href="#L144">144</a></td><td>ARCHER [OC]:  That doesn't mean they're not still close.</td></tr>
 
-  TRAVIS
-     Sir, they're hailing us.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L145"><td><a href="#L145">145</a></td><td>REED [OC]:  Lieutenant Reed to Bridge.</td></tr>
 
-  ANNOTATION
-     T'Pol goes to Hoshi's station and soon an alien
-     language comes through the speakers.
+<tr id="L146"><td><a href="#L146">146</a></td><td>ARCHER:  Go ahead.</td></tr>
 
-  T'POL
-     The translator's not locking on.
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L147"><td><a href="#L147">147</a></td><td>REED:  I've identified four separate detonation circuits. If I can isolate them in the proper sequence, I should be able to deactivate the mine. It'll take some doing, but to be honest, Captain, it's only a theory.</td></tr>
 
-  ARCHER
-     Archer to Sickbay.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L148"><td><a href="#L148">148</a></td><td>ARCHER:  How good a theory?</td></tr>
 
+<tr id="L149"><td><a href="#L149">149</a></td><td>REED [OC]:  The closest thing I'm familiar with that this device resembles is a Triton-Class spatial torpedo. I've disarmed at least half a dozen of those. I believe I can do it, sir.</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L150"><td><a href="#L150">150</a></td><td>ARCHER:  I've got Trip working on a backup plan, but I'd prefer not to use it. Right now, you're our best bet. Be careful, Malcolm.</td></tr>
 
-  PHLOX
-     Yes, Captain.
+<tr id="L151"><td><a href="#L151">151</a></td><td>ANNOTATION: T'Pol looks at Travis.</td></tr>
 
-  ARCHER [OC]
-     Is Hoshi in any shape to return to the Bridge?
-     It's urgent.
+<tr id="L152"><td><a href="#L152">152</a></td><td>TRAVIS:  I see it.</td></tr>
 
-  PHLOX
-     I'm afraid not. She suffered a rather severe
-     concussion.
+<tr id="L153"><td><a href="#L153">153</a></td><td>ANNOTATION: He makes a slow but sharp turn.</td></tr>
 
-  ARCHER [OC]
-     Understood.
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L154"><td><a href="#L154">154</a></td><td>ANNOTATION: The mine reacts to the manoeuvre.</td></tr>
 
-  ANNOTATION
-     Hoshi rolls over and sits up.
+<tr id="L155"><td><a href="#L155">155</a></td><td>REED:  Bridge.</td></tr>
 
-  HOSHI
-     Tell him I'm on my way.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L156"><td><a href="#L156">156</a></td><td>ARCHER:  Go ahead.</td></tr>
 
-  PHLOX
-     You'd be of little help in your present condition,
-     Ensign.
+<tr id="L157"><td><a href="#L157">157</a></td><td>REED [OC]:  Another one of those spikes I told you about.</td></tr>
 
+<tr id="L158"><td><a href="#L158">158</a></td><td>ARCHER:  What about it?</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L159"><td><a href="#L159">159</a></td><td>REED:  It just magnetised itself to the hull.</td></tr>
 
-  ARCHER
-     Any luck?
+<tr id="L160"><td><a href="#L160">160</a></td><td>ARCHER [OC]:  Is there a problem?</td></tr>
 
-  T'POL
-     Not yet.
+<tr id="L161"><td><a href="#L161">161</a></td><td>ANNOTATION: Reed's stiff upper lip is trembling with agony.</td></tr>
 
-  TRAVIS
-     They're charging weapons.
+<tr id="L162"><td><a href="#L162">162</a></td><td>REED:  On its way it went through my leg, sir.</td></tr>
 
-  ANNOTATION
-     A shot is fired.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L163"><td><a href="#L163">163</a></td><td>ARCHER:  I'm on my way, Lieutenant. (to T'Pol) The Bridge is yours.</td></tr>
 
-  TRAVIS
-     They missed our starboard nacelle by less than
-     twenty metres.
+<tr id="L164"><td><a href="#L164">164</a></td><td>TUCKER:  Captain, I should be the one to go out there. I'm the engineer.</td></tr>
 
-  ARCHER
-     Not a very subtle warning shot.
+<tr id="L165"><td><a href="#L165">165</a></td><td>ARCHER:  That's why I need you here, Trip.</td></tr>
 
-  ANNOTATION
-     A second shot whizzes over Malcolm's head.
+<tr><td></td><td>LOCATION--Deleted scene - Sickbay - not really sure where it actually belongs, but this is as good a place as any</td></tr>
+<tr id="L166"><td><a href="#L166">166</a></td><td>ANNOTATION: Hoshi tries to get up</td></tr>
 
-  ARCHER
-     Can you get us out of here?
+<tr id="L167"><td><a href="#L167">167</a></td><td>PHLOX:  Ensign, lie still. Your injuries don't appear to be serious. Present circumstances, however, should not keep up from continuing our Denobulan lessons. What about anatomy? Let's begin with the thyroid gland.</td></tr>
 
-  TRAVIS
-     The orbits of those mines are pretty erratic, sir.
-     It's going to be tricky.
+<tr id="L168"><td><a href="#L168">168</a></td><td>HOSHI:  The thyroid gland?</td></tr>
 
-  ARCHER
-     We'll give you whatever help we can. Bridge to
-     Lieutenant Reed.
+<tr id="L169"><td><a href="#L169">169</a></td><td>PHLOX:  In Denobulan.</td></tr>
 
-  REED [OC]
-     Go ahead.
+<tr id="L170"><td><a href="#L170">170</a></td><td>HOSHI:  (something)</td></tr>
 
-  ARCHER
-     Our friends seem to be anxious for us to leave.
-     We're going to break orbit, nice and slowly.
+<tr id="L171"><td><a href="#L171">171</a></td><td>PHLOX:  Very good. How about the hypothalamus?</td></tr>
 
+<tr id="L172"><td><a href="#L172">172</a></td><td>HOSHI:  (something)</td></tr>
 
-LOCATION--Hull
+<tr id="L173"><td><a href="#L173">173</a></td><td>PHLOX:  Excellent. Now the xiphoid process. That's a difficult one. (gives her a hypo)</td></tr>
 
-  REED
-     Understood. If you plan to go to warp, sir, you'll
-     let me know?
+<tr id="L174"><td><a href="#L174">174</a></td><td>HOSHI:  (something)</td></tr>
 
-  ARCHER [OC]
-     I'll try to remember.
+<tr id="L175"><td><a href="#L175">175</a></td><td>PHLOX:  No. No, that could be misinterpreted as big toe. The proper term would be (something). All right, let's try something simpler. Pericardia.</td></tr>
 
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L176"><td><a href="#L176">176</a></td><td>ANNOTATION: Phlox speaks to a crewman with gashed arm.</td></tr>
 
-LOCATION--Bridge
+<tr id="L177"><td><a href="#L177">177</a></td><td>PHLOX:  You'll have to wait in line for my osmotic eel to cauterise your wound. He's getting quite a workout today.</td></tr>
 
-  ARCHER
-     Maneuvering thrusters only.
+<tr id="L178"><td><a href="#L178">178</a></td><td>HOSHI:  Doctor.</td></tr>
 
-  TRAVIS
-     Aye, sir.
+<tr id="L179"><td><a href="#L179">179</a></td><td>PHLOX:  Ensign.</td></tr>
 
-  ANNOTATION
-     A joystick comes out for him to steer with.
+<tr id="L180"><td><a href="#L180">180</a></td><td>HOSHI:  They need a translator. I should be at my post.</td></tr>
 
-  ARCHER
-     Activate the beacon.
+<tr id="L181"><td><a href="#L181">181</a></td><td>PHLOX:  I realise you're anxious to help but you wouldn't make it to the turbolift. If you'd like, I could have them bring the comm. logs here.</td></tr>
 
-  ANNOTATION
-     The Bird of Prey cloaks as Enterprise steers
-     gently between the mines.
+<tr id="L182"><td><a href="#L182">182</a></td><td>HOSHI:  Thank you, Doctor.</td></tr>
 
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L183"><td><a href="#L183">183</a></td><td>ANNOTATION: Archer arrives at the scene of the incident.</td></tr>
 
-LOCATION--Hull
+<tr id="L184"><td><a href="#L184">184</a></td><td>ARCHER:  Thought you might need a hand.</td></tr>
 
-  REED
-     Our friends just vanished.
+<tr id="L185"><td><a href="#L185">185</a></td><td>REED:  Actually, I'd prefer a leg.</td></tr>
 
-  ARCHER [OC]
-     That doesn't mean they're not still close.
+<tr id="L186"><td><a href="#L186">186</a></td><td>ANNOTATION: Archer opens a case.</td></tr>
 
+<tr id="L187"><td><a href="#L187">187</a></td><td>ARCHER:  Let's see what we can do with the one you got. (scanning) Could have been worse. It missed the bone, and it looks like the pressure from the spike is keeping the wound from bleeding too much. You'll be in Sickbay in no time. These should cut right through it.</td></tr>
 
-LOCATION--Bridge
+<tr id="L188"><td><a href="#L188">188</a></td><td>REED:  Actually, sir, I wouldn't do that. My scans show detonation circuits inside the spikes. I would consider letting you amputate, but if Chef got hold of it he'd be serving Roast Reed for Sunday dinner. Just give me something for the pain and I'll do my best to reach the access panel.</td></tr>
 
-  REED [OC]
-     Lieutenant Reed to Bridge.
+<tr id="L189"><td><a href="#L189">189</a></td><td>ARCHER:  Not without doing more damage to that leg.</td></tr>
 
-  ARCHER
-     Go ahead.
+<tr id="L190"><td><a href="#L190">190</a></td><td>REED:  What's more important, my leg or your ship?</td></tr>
 
+<tr id="L191"><td><a href="#L191">191</a></td><td>ARCHER:  I intend to save both.</td></tr>
 
-LOCATION--Hull
+<tr id="L192"><td><a href="#L192">192</a></td><td>REED:  I don't see how.</td></tr>
 
-  REED
-     I've identified four separate detonation circuits.
-     If I can isolate them in the proper sequence, I
-     should be able to deactivate the mine. It'll take
-     some doing, but to be honest, Captain, it's only a
-     theory.
+<tr id="L193"><td><a href="#L193">193</a></td><td>ARCHER:  That backup plan I was telling you about? I asked Trip to prepare to detach this section of hull plating. Seemed like a good idea at the time.</td></tr>
 
+<tr id="L194"><td><a href="#L194">194</a></td><td>REED:  It's still a good idea.</td></tr>
 
-LOCATION--Bridge
+<tr id="L195"><td><a href="#L195">195</a></td><td>ARCHER:  Not with you attached to it.</td></tr>
 
-  ARCHER
-     How good a theory?
+<tr id="L196"><td><a href="#L196">196</a></td><td>ANNOTATION: He gives Reed a hypospray</td></tr>
 
-  REED [OC]
-     The closest thing I'm familiar with that this
-     device resembles is a Triton-Class spatial
-     torpedo. I've disarmed at least half a dozen of
-     those. I believe I can do it, sir.
+<tr id="L197"><td><a href="#L197">197</a></td><td>REED:  I hope that's an anaesthetic.</td></tr>
 
+<tr id="L198"><td><a href="#L198">198</a></td><td>ARCHER:  Phlox's own recipe.</td></tr>
 
-LOCATION--Bridge
+<tr id="L199"><td><a href="#L199">199</a></td><td>REED:  (as it takes effect) Please, sir, may I have some more?</td></tr>
 
-  ARCHER
-     I've got Trip working on a backup plan, but I'd
-     prefer not to use it. Right now, you're our best
-     bet. Be careful, Malcolm.
+<tr id="L200"><td><a href="#L200">200</a></td><td>ARCHER:  I don't want you too sedated. I'm going to need your help. Someone's got to defuse this thing. You're going to talk me through it.</td></tr>
 
-  ANNOTATION
-     T'Pol looks at Travis.
+<tr id="L201"><td><a href="#L201">201</a></td><td>REED:  With all due respect, Captain, disarming mines is extremely delicate business. I'm trained for it. You're not.</td></tr>
 
-  TRAVIS
-     I see it.
+<tr id="L202"><td><a href="#L202">202</a></td><td>ARCHER:  I'm a quick study.</td></tr>
 
-  ANNOTATION
-     He makes a slow but sharp turn.
+<tr id="L203"><td><a href="#L203">203</a></td><td>REED:  It's too dangerous.</td></tr>
 
+<tr id="L204"><td><a href="#L204">204</a></td><td>ARCHER:  In case you haven't noticed, Lieutenant we're sitting about five metres from an impulse reactor. I'm not leaving until we take this weapon offline.</td></tr>
 
-LOCATION--Hull
+<tr id="L205"><td><a href="#L205">205</a></td><td>REED:  Sir.</td></tr>
 
-  ANNOTATION
-     The mine reacts to the manoeuvre.
+<tr id="L206"><td><a href="#L206">206</a></td><td>ARCHER:  The way I see it, you don't have much choice. You're sort of stuck here. So would you let me get started?</td></tr>
 
-  REED
-     Bridge.
+<tr id="L207"><td><a href="#L207">207</a></td><td>REED:  I hope you've got a steady hand.</td></tr>
 
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L208"><td><a href="#L208">208</a></td><td>ANNOTATION: Hoshi listens to the alien recording.</td></tr>
 
-LOCATION--Bridge
+<tr id="L209"><td><a href="#L209">209</a></td><td>HOSHI:  They're ordering us to leave their system immediately or they'll destroy us.</td></tr>
 
-  ARCHER
-     Go ahead.
+<tr id="L210"><td><a href="#L210">210</a></td><td>TUCKER:  Charming. Could you figure out a way to compose a message back, explaining we're going as fast as we can?</td></tr>
 
-  REED [OC]
-     Another one of those spikes I told you about.
+<tr id="L211"><td><a href="#L211">211</a></td><td>HOSHI:  I can try.</td></tr>
 
-  ARCHER
-     What about it?
+<tr id="L212"><td><a href="#L212">212</a></td><td>T'POL:  And their next message?</td></tr>
 
+<tr id="L213"><td><a href="#L213">213</a></td><td>HOSHI:  They say they've annexed this planet in the name of something called The Romalin Star Empire.</td></tr>
 
-LOCATION--Hull
+<tr id="L214"><td><a href="#L214">214</a></td><td>T'POL:  Romulan. It's pronounced Romulan.</td></tr>
 
-  REED
-     It just magnetised itself to the hull.
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L215"><td><a href="#L215">215</a></td><td>ARCHER:  Romulans? I read about them when I was with Daniels.</td></tr>
 
-  ARCHER [OC]
-     Is there a problem?
+<tr id="L216"><td><a href="#L216">216</a></td><td>TUCKER [OC]:  What'd you find out?</td></tr>
 
-  ANNOTATION
-     Reed's stiff upper lip is trembling with agony.
+<tr id="L217"><td><a href="#L217">217</a></td><td>ARCHER:  Not much. Just the name. He wouldn't let me see anything else. T'Pol?</td></tr>
 
-  REED
-     On its way it went through my leg, sir.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L218"><td><a href="#L218">218</a></td><td>T'POL:  They're rumoured to be an aggressive, territorial species but the Vulcan High Command has never made direct contact with them. Ensign Sato's translation says that</td></tr>
 
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L219"><td><a href="#L219">219</a></td><td>T'POL [OC]:  They're demanding that we withdraw from this system immediately.</td></tr>
 
-LOCATION--Bridge
+<tr id="L220"><td><a href="#L220">220</a></td><td>ARCHER:  That's going to be a little tough to do at the moment. Is there any way you can explain our situation?</td></tr>
 
-  ARCHER
-     I'm on my way, Lieutenant. (to T'Pol) The Bridge
-     is yours.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L221"><td><a href="#L221">221</a></td><td>T'POL:  She believes she'll have a reply prepared within the hour.</td></tr>
 
-  TUCKER
-     Captain, I should be the one to go out there. I'm
-     the engineer.
+<tr id="L222"><td><a href="#L222">222</a></td><td>TUCKER:  How's it going out there, Captain?</td></tr>
 
-  ARCHER
-     That's why I need you here, Trip.
+<tr id="L223"><td><a href="#L223">223</a></td><td>ARCHER [OC]:  We've taken two of the detonation circuits offline. Three more to go. Keep me posted.</td></tr>
 
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L224"><td><a href="#L224">224</a></td><td>ANNOTATION: Reed looks at a scanner display.</td></tr>
 
-LOCATION--Deleted scene - Sickbay - not really sure where it actually belongs, but this is as good a place as any
+<tr id="L225"><td><a href="#L225">225</a></td><td>REED:  The next one's going to be tricky. Do you see the Y-shaped components surrounding the circuit?</td></tr>
 
-  ANNOTATION
-     Hoshi tries to get up
+<tr id="L226"><td><a href="#L226">226</a></td><td>ARCHER:  There's six of them.</td></tr>
 
-  PHLOX
-     Ensign, lie still. Your injuries don't appear to
-     be serious. Present circumstances, however, should
-     not keep up from continuing our Denobulan lessons.
-     What about anatomy? Let's begin with the thyroid
-     gland.
+<tr id="L227"><td><a href="#L227">227</a></td><td>REED:  Right. Those are timing relays. You'll have to rotate each one counterclockwise seventy degrees, but it has to be done in the proper order. I'll guide you through it. Start with the relay to your upper right. Raise it one centimetre and then turn it seventy degrees counterclockwise. Good. Now pull it out slowly. Be careful not to touch the housing. Well done. Now complete that set on the diagonal.</td></tr>
 
-  HOSHI
-     The thyroid gland?
+<tr id="L228"><td><a href="#L228">228</a></td><td>ARCHER:  So, where were we?</td></tr>
 
-  PHLOX
-     In Denobulan.
+<tr id="L229"><td><a href="#L229">229</a></td><td>REED:  Sir?</td></tr>
 
-  HOSHI
-     (something)
+<tr id="L230"><td><a href="#L230">230</a></td><td>ARCHER:  This morning, at breakfast, before we were interrupted. You said you didn't follow any particular sport.</td></tr>
 
-  PHLOX
-     Very good. How about the hypothalamus?
+<tr id="L231"><td><a href="#L231">231</a></td><td>REED:  Well, I'm afraid I haven't started following one since breakfast, sir. Now, go to the relay top centre, but watch that one. I believe it may be damaged. It'll need some extra torque to deactivate it.</td></tr>
 
-  HOSHI
-     (something)
+<tr id="L232"><td><a href="#L232">232</a></td><td>ARCHER:  How about hobbies? Any hobbies?</td></tr>
 
-  PHLOX
-     Excellent. Now the xiphoid process. That's a
-     difficult one. (gives her a hypo)
+<tr id="L233"><td><a href="#L233">233</a></td><td>REED:  No, not really, sir.</td></tr>
 
-  HOSHI
-     (something)
+<tr id="L234"><td><a href="#L234">234</a></td><td>ARCHER:  I could've sworn I've seen you reading a book or two in the mess hall.</td></tr>
 
-  PHLOX
-     No. No, that could be misinterpreted as big toe.
-     The proper term would be (something). All right,
-     let's try something simpler. Pericardia.
+<tr id="L235"><td><a href="#L235">235</a></td><td>REED:  Sir, do you really think that this is the appropriate time for a chat?</td></tr>
 
+<tr id="L236"><td><a href="#L236">236</a></td><td>ARCHER:  It helps me focus. It calms my nerves.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L237"><td><a href="#L237">237</a></td><td>REED:  Well, it isn't calming mine.</td></tr>
 
-  ANNOTATION
-     Phlox speaks to a crewman with gashed arm.
+<tr id="L238"><td><a href="#L238">238</a></td><td>ARCHER:  Sorry. It made you a little nervous this morning, too, didn't it? Why is that?</td></tr>
 
-  PHLOX
-     You'll have to wait in line for my osmotic eel to
-     cauterise your wound. He's getting quite a workout
-     today.
+<tr id="L239"><td><a href="#L239">239</a></td><td>REED:  If you must know, I was honoured to be asked to sit at your table. I just wasn't entirely comfortable having a casual meal with my captain. I was trained not to fraternise with superior officers.</td></tr>
 
-  HOSHI
-     Doctor.
+<tr id="L240"><td><a href="#L240">240</a></td><td>ARCHER:  Never too late to learn.</td></tr>
 
-  PHLOX
-     Ensign.
+<tr id="L241"><td><a href="#L241">241</a></td><td>REED:  Frankly, sir, from my point of view that kind of socialising has no place on a starship.</td></tr>
 
-  HOSHI
-     They need a translator. I should be at my post.
+<tr id="L242"><td><a href="#L242">242</a></td><td>ARCHER:  I had a CO once felt the same way. They're your crew, not your friends. I thought about that a lot when I took this command, but then I realised this is not your typical mission. We could be out here for years. All we have to depend on is each other.</td></tr>
 
-  PHLOX
-     I realise you're anxious to help but you wouldn't
-     make it to the turbolift. If you'd like, I could
-     have them bring the comm. logs here.
+<tr id="L243"><td><a href="#L243">243</a></td><td>REED:  There are two left. Top left first.</td></tr>
 
-  HOSHI
-     Thank you, Doctor.
+<tr id="L244"><td><a href="#L244">244</a></td><td>ARCHER:  I appreciate your suggestions, Malcolm. Anything else?</td></tr>
 
+<tr id="L245"><td><a href="#L245">245</a></td><td>REED:  Well, since you asked. Bridge protocols have become somewhat lax. Too many people offering opinions. We're here to carry out your orders, sir. You're the Captain.</td></tr>
 
-LOCATION--Hull
+<tr id="L246"><td><a href="#L246">246</a></td><td>ARCHER:  What's the point of having a senior staff if they just sit around with their mouths shut? I'm glad they have opinions. I rely on them. Keep going.</td></tr>
 
-  ANNOTATION
-     Archer arrives at the scene of the incident.
+<tr id="L247"><td><a href="#L247">247</a></td><td>REED:  And in the area of security I sometimes think you could show a little more caution, sir.</td></tr>
 
-  ARCHER
-     Thought you might need a hand.
+<tr id="L248"><td><a href="#L248">248</a></td><td>ARCHER:  I'm aware of your concerns in that area.</td></tr>
 
-  REED
-     Actually, I'd prefer a leg.
+<tr id="L249"><td><a href="#L249">249</a></td><td>REED:  Not to say that it hasn't been a privilege to have served with you.</td></tr>
 
-  ANNOTATION
-     Archer opens a case.
+<tr id="L250"><td><a href="#L250">250</a></td><td>ARCHER:  Ah ha.</td></tr>
 
-  ARCHER
-     Let's see what we can do with the one you got.
-     (scanning) Could have been worse. It missed the
-     bone, and it looks like the pressure from the
-     spike is keeping the wound from bleeding too much.
-     You'll be in Sickbay in no time. These should cut
-     right through it.
+<tr id="L251"><td><a href="#L251">251</a></td><td>REED:  Sir?</td></tr>
 
-  REED
-     Actually, sir, I wouldn't do that. My scans show
-     detonation circuits inside the spikes. I would
-     consider letting you amputate, but if Chef got
-     hold of it he'd be serving Roast Reed for Sunday
-     dinner. Just give me something for the pain and
-     I'll do my best to reach the access panel.
+<tr id="L252"><td><a href="#L252">252</a></td><td>ARCHER:  You're talking in the past tense, Lieutenant.</td></tr>
 
-  ARCHER
-     Not without doing more damage to that leg.
+<tr id="L253"><td><a href="#L253">253</a></td><td>ANNOTATION: He deactivates the sixth relay.</td></tr>
 
-  REED
-     What's more important, my leg or your ship?
+<tr id="L254"><td><a href="#L254">254</a></td><td>REED:  Now, reinsert all six relays, but in the reverse order. You're doing fine, sir.</td></tr>
 
-  ARCHER
-     I intend to save both.
+<tr id="L255"><td><a href="#L255">255</a></td><td>ARCHER:  Thanks.</td></tr>
 
-  REED
-     I don't see how.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L256"><td><a href="#L256">256</a></td><td>ANNOTATION: Yhe mines disappear from the viewscreen.</td></tr>
 
-  ARCHER
-     That backup plan I was telling you about? I asked
-     Trip to prepare to detach this section of hull
-     plating. Seemed like a good idea at the time.
+<tr id="L257"><td><a href="#L257">257</a></td><td>TUCKER:  You've earned yourself a break, Travis. Ensign Hutchison can cover the helm for a while.</td></tr>
 
-  REED
-     It's still a good idea.
+<tr id="L258"><td><a href="#L258">258</a></td><td>TRAVIS:  Thank you, sir, but I'd prefer to stay at my post.</td></tr>
 
-  ARCHER
-     Not with you attached to it.
+<tr id="L259"><td><a href="#L259">259</a></td><td>T'POL:  Bridge to Captain Archer.</td></tr>
 
-  ANNOTATION
-     He gives Reed a hypospray
+<tr id="L260"><td><a href="#L260">260</a></td><td>ARCHER [OC]:  Go ahead.</td></tr>
 
-  REED
-     I hope that's an anaesthetic.
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L261"><td><a href="#L261">261</a></td><td>T'POL [OC]:  We're clear of the minefield.</td></tr>
 
-  ARCHER
-     Phlox's own recipe.
+<tr id="L262"><td><a href="#L262">262</a></td><td>ARCHER:  Maintain course and speed.</td></tr>
 
-  REED
-     (as it takes effect) Please, sir, may I have some
-     more?
+<tr id="L263"><td><a href="#L263">263</a></td><td>T'POL:  Understood.</td></tr>
 
-  ARCHER
-     I don't want you too sedated. I'm going to need
-     your help. Someone's got to defuse this thing.
-     You're going to talk me through it.
+<tr id="L264"><td><a href="#L264">264</a></td><td>REED:  This last detonation circuit has an added attraction. I'm seeing something that looks like a back-up arming mechanism. We'll have to fool the circuit into thinking it's still online.</td></tr>
 
-  REED
-     With all due respect, Captain, disarming mines is
-     extremely delicate business. I'm trained for it.
-     You're not.
+<tr id="L265"><td><a href="#L265">265</a></td><td>ARCHER:  How do we do that?</td></tr>
 
-  ARCHER
-     I'm a quick study.
+<tr id="L266"><td><a href="#L266">266</a></td><td>REED:  There's a hyperspanner in the equipment case. Take out its power cell and strip off the casing.</td></tr>
 
-  REED
-     It's too dangerous.
+<tr id="L267"><td><a href="#L267">267</a></td><td>ARCHER:  You must have realised this wasn't going to be your typical armory posting. That my command style lacked a certain spit and polish.</td></tr>
 
-  ARCHER
-     In case you haven't noticed, Lieutenant we're
-     sitting about five metres from an impulse reactor.
-     I'm not leaving until we take this weapon offline.
+<tr id="L268"><td><a href="#L268">268</a></td><td>REED:  It was obvious, if you don't mind me saying so.</td></tr>
 
-  REED
-     Sir.
+<tr id="L269"><td><a href="#L269">269</a></td><td>ARCHER:  Strange.</td></tr>
 
-  ARCHER
-     The way I see it, you don't have much choice.
-     You're sort of stuck here. So would you let me get
-     started?
+<tr id="L270"><td><a href="#L270">270</a></td><td>REED:  What's strange, sir?</td></tr>
 
-  REED
-     I hope you've got a steady hand.
+<tr id="L271"><td><a href="#L271">271</a></td><td>ARCHER:  I understand you came from a long line of Royal Navy men. Your father, your grandfather. Why pick Starfleet? Why not continue the family tradition?</td></tr>
 
+<tr id="L272"><td><a href="#L272">272</a></td><td>REED:  God knows I tried.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L273"><td><a href="#L273">273</a></td><td>ARCHER:  What happened?</td></tr>
 
-  ANNOTATION
-     Hoshi listens to the alien recording.
+<tr id="L274"><td><a href="#L274">274</a></td><td>REED:  I'll need a circuit probe.</td></tr>
 
-  HOSHI
-     They're ordering us to leave their system
-     immediately or they'll destroy us.
+<tr id="L275"><td><a href="#L275">275</a></td><td>ARCHER:  So, what happened?</td></tr>
 
-  TUCKER
-     Charming. Could you figure out a way to compose a
-     message back, explaining we're going as fast as we
-     can?
+<tr id="L276"><td><a href="#L276">276</a></td><td>REED:  (working on the power cell) I was raised on the water. I knew how to handle a boat before I could ride a bicycle. Studied all the great naval battles. I don't know. I suppose I thought I'd just grow out of it.</td></tr>
 
-  HOSHI
-     I can try.
+<tr id="L277"><td><a href="#L277">277</a></td><td>ARCHER:  Grow out of what?</td></tr>
 
-  T'POL
-     And their next message?
+<tr id="L278"><td><a href="#L278">278</a></td><td>REED:  Aquaphobia.</td></tr>
 
-  HOSHI
-     They say they've annexed this planet in the name
-     of something called The Romalin Star Empire.
+<tr id="L279"><td><a href="#L279">279</a></td><td>ARCHER:  You're afraid of the water?</td></tr>
 
-  T'POL
-     Romulan. It's pronounced Romulan.
+<tr id="L280"><td><a href="#L280">280</a></td><td>REED:  More precisely, afraid of drowning.</td></tr>
 
+<tr id="L281"><td><a href="#L281">281</a></td><td>ARCHER:  So instead of a life on the sea you chose a life in the vacuum of space?</td></tr>
 
-LOCATION--Hull
+<tr id="L282"><td><a href="#L282">282</a></td><td>ANNOTATION: Archer goes back to the mine with the power cell.</td></tr>
 
-  ARCHER
-     Romulans? I read about them when I was with
-     Daniels.
+<tr id="L283"><td><a href="#L283">283</a></td><td>REED:  I had a great-uncle who suffered from the same problem, but he faced his fears. Joined the Navy, had a distinguished career. All you have to do is attach it to the cylinder on your upper right. It's working. Start with the topmost component. Use the caliper to lift it a few millimetres and then turn it clockwise three hundred and sixty degrees, and then gently reinsert it. He was something of a hero to me, my great-uncle.</td></tr>
 
-  TUCKER [OC]
-     What'd you find out?
+<tr id="L284"><td><a href="#L284">284</a></td><td>ANNOTATION: Archer does as he's told.</td></tr>
 
-  ARCHER
-     Not much. Just the name. He wouldn't let me see
-     anything else. T'Pol?
+<tr id="L285"><td><a href="#L285">285</a></td><td>ARCHER:  The one with aquaphobia?</td></tr>
 
+<tr id="L286"><td><a href="#L286">286</a></td><td>REED:  Indeed. He signed up with the submarine service.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L287"><td><a href="#L287">287</a></td><td>ARCHER:  Talk about facing your deepest fears.</td></tr>
 
-  T'POL
-     They're rumoured to be an aggressive, territorial
-     species but the Vulcan High Command has never made
-     direct contact with them. Ensign Sato's
-     translation says that
+<tr id="L288"><td><a href="#L288">288</a></td><td>REED:  He was a brave man. Wasn't long before he'd worked his way up through the ranks. Made chief engineer on the HMS Clement. Do you know the story of the Clement, sir?</td></tr>
 
+<tr id="L289"><td><a href="#L289">289</a></td><td>ARCHER:  I don't think I do.</td></tr>
 
-LOCATION--Hull
+<tr id="L290"><td><a href="#L290">290</a></td><td>ANNOTATION: He completes disarming that segment of the mine.</td></tr>
 
-  T'POL [OC]
-     They're demanding that we withdraw from this
-     system immediately.
+<tr id="L291"><td><a href="#L291">291</a></td><td>REED:  Good. Now, the other five components. Repeat the same process on each one, counterclockwise.</td></tr>
 
-  ARCHER
-     That's going to be a little tough to do at the
-     moment. Is there any way you can explain our
-     situation?
+<tr id="L292"><td><a href="#L292">292</a></td><td>ARCHER:  You were telling me about the Clement.</td></tr>
 
+<tr id="L293"><td><a href="#L293">293</a></td><td>REED:  They were on a routine patrol when they had an accident. Now, there's a beautiful irony for you. They hit a mine left over from some world war. There they were, trapped underneath an ice shelf, several compartments flooding, including Engineering. Can you imagine? My great-uncle, the man afraid of drowning? The ship was sinking, losing power. According to his lieutenant, my great-uncle sealed himself in the engine room and kept the reactor online long enough for his crew to make it to the escape pods. He went down with his ship. He did what he had to do to save his crewmates.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L294"><td><a href="#L294">294</a></td><td>ARCHER:  I appreciate what you're trying to tell me, Malcolm, but I was hoping you'd be able to save your heroics for another time.</td></tr>
 
-  T'POL
-     She believes she'll have a reply prepared within
-     the hour.
+<tr id="L295"><td><a href="#L295">295</a></td><td>REED:  I just want you to know, sir, that I am prepared.</td></tr>
 
-  TUCKER
-     How's it going out there, Captain?
+<tr id="L296"><td><a href="#L296">296</a></td><td>ARCHER:  Got you.</td></tr>
 
-  ARCHER [OC]
-     We've taken two of the detonation circuits
-     offline. Three more to go. Keep me posted.
+<tr id="L297"><td><a href="#L297">297</a></td><td>REED:  If we're not able to defuse this mine, the safety of the crew</td></tr>
 
+<tr id="L298"><td><a href="#L298">298</a></td><td>ARCHER:  I said I heard you, Lieutenant.</td></tr>
 
-LOCATION--Hull
+<tr id="L299"><td><a href="#L299">299</a></td><td>REED:  I'm afraid we have another problem, sir.</td></tr>
 
-  ANNOTATION
-     Reed looks at a scanner display.
+<tr id="L300"><td><a href="#L300">300</a></td><td>ARCHER:  What? What is it?</td></tr>
 
-  REED
-     The next one's going to be tricky. Do you see the
-     Y-shaped components surrounding the circuit?
+<tr id="L301"><td><a href="#L301">301</a></td><td>REED:  I need to use the bathroom.</td></tr>
 
-  ARCHER
-     There's six of them.
+<tr id="L302"><td><a href="#L302">302</a></td><td>ARCHER:  I won't tell a soul.</td></tr>
 
-  REED
-     Right. Those are timing relays. You'll have to
-     rotate each one counterclockwise seventy degrees,
-     but it has to be done in the proper order. I'll
-     guide you through it. Start with the relay to your
-     upper right. Raise it one centimetre and then turn
-     it seventy degrees counterclockwise. Good. Now
-     pull it out slowly. Be careful not to touch the
-     housing. Well done. Now complete that set on the
-     diagonal.
+<tr id="L303"><td><a href="#L303">303</a></td><td>REED:  In my EV suit, sir?</td></tr>
 
-  ARCHER
-     So, where were we?
+<tr id="L304"><td><a href="#L304">304</a></td><td>ANNOTATION: Laughter fades as two Romulan warbirds decloak.</td></tr>
 
-  REED
-     Sir?
+<tr id="L305"><td><a href="#L305">305</a></td><td>REED:  Sir.</td></tr>
 
-  ARCHER
-     This morning, at breakfast, before we were
-     interrupted. You said you didn't follow any
-     particular sport.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L306"><td><a href="#L306">306</a></td><td>TRAVIS:  We're being hailed.</td></tr>
 
-  REED
-     Well, I'm afraid I haven't started following one
-     since breakfast, sir. Now, go to the relay top
-     centre, but watch that one. I believe it may be
-     damaged. It'll need some extra torque to
-     deactivate it.
+<tr id="L307"><td><a href="#L307">307</a></td><td>ROMULAN [OC]:  You've ignored our warnings.</td></tr>
 
-  ARCHER
-     How about hobbies? Any hobbies?
+<tr id="L308"><td><a href="#L308">308</a></td><td>T'POL:  We were unable to translate your language until a short time ago. We're trying to defuse a weapon lodged on our hull.</td></tr>
 
-  REED
-     No, not really, sir.
+<tr id="L309"><td><a href="#L309">309</a></td><td>ROMULAN [OC]:  I'm well aware of your situation. Our scans show you're prepared to detach the hull segment surrounding the mine. Complete the procedure and leave this system immediately.</td></tr>
 
-  ARCHER
-     I could've sworn I've seen you reading a book or
-     two in the mess hall.
+<tr id="L310"><td><a href="#L310">310</a></td><td>TUCKER:  We've got a man trapped out there. Don't your scans show you that?</td></tr>
 
-  REED
-     Sir, do you really think that this is the
-     appropriate time for a chat?
+<tr id="L311"><td><a href="#L311">311</a></td><td>ROMULAN [OC]:  One crewman. You have eighty two others safely aboard. Jettison the hull segment and leave. We will not tolerate espionage.</td></tr>
 
-  ARCHER
-     It helps me focus. It calms my nerves.
+<tr id="L312"><td><a href="#L312">312</a></td><td>ANNOTATION: The ships recloak.</td></tr>
 
-  REED
-     Well, it isn't calming mine.
+<tr id="L313"><td><a href="#L313">313</a></td><td>ARCHER [OC]:  T'Pol, report.</td></tr>
 
-  ARCHER
-     Sorry. It made you a little nervous this morning,
-     too, didn't it? Why is that?
+<tr id="L314"><td><a href="#L314">314</a></td><td>T'POL:  They're demanding that we jettison the section of hull plating and leave.</td></tr>
 
-  REED
-     If you must know, I was honoured to be asked to
-     sit at your table. I just wasn't entirely
-     comfortable having a casual meal with my captain.
-     I was trained not to fraternise with superior
-     officers.
+<tr id="L315"><td><a href="#L315">315</a></td><td>TUCKER:  They scanned us, Captain. They know we're ready to detach it.</td></tr>
 
-  ARCHER
-     Never too late to learn.
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L316"><td><a href="#L316">316</a></td><td>ARCHER:  I'm defusing the last detonation circuit. Stand by. (a large section starts rising from the top of the mine)</td></tr>
 
-  REED
-     Frankly, sir, from my point of view that kind of
-     socialising has no place on a starship.
+<tr id="L317"><td><a href="#L317">317</a></td><td>REED:  It's rearming! Reset that last component! Quickly!</td></tr>
 
-  ARCHER
-     I had a CO once felt the same way. They're your
-     crew, not your friends. I thought about that a lot
-     when I took this command, but then I realised this
-     is not your typical mission. We could be out here
-     for years. All we have to depend on is each other.
+<tr id="L318"><td><a href="#L318">318</a></td><td>ARCHER:  (he does) Lieutenant?</td></tr>
 
-  REED
-     There are two left. Top left first.
+<tr id="L319"><td><a href="#L319">319</a></td><td>REED:  When you deactivated that final circuit, it triggered a sub detonator.</td></tr>
 
-  ARCHER
-     I appreciate your suggestions, Malcolm. Anything
-     else?
+<tr id="L320"><td><a href="#L320">320</a></td><td>ARCHER:  How can we get to it?</td></tr>
 
-  REED
-     Well, since you asked. Bridge protocols have
-     become somewhat lax. Too many people offering
-     opinions. We're here to carry out your orders,
-     sir. You're the Captain.
+<tr id="L321"><td><a href="#L321">321</a></td><td>REED:  We can't. It's too deep inside. We'd have to dismantle the entire mine. Captain? Those heroics we spoke about. I think it may be time. You've done all you can, sir. For what it's worth, you'd make a fine Armoury Officer.</td></tr>
 
-  ARCHER
-     What's the point of having a senior staff if they
-     just sit around with their mouths shut? I'm glad
-     they have opinions. I rely on them. Keep going.
+<tr id="L322"><td><a href="#L322">322</a></td><td>ARCHER:  Show me that sub-detonator.</td></tr>
 
-  REED
-     And in the area of security I sometimes think you
-     could show a little more caution, sir.
+<tr id="L323"><td><a href="#L323">323</a></td><td>REED:  I'd prefer a burial at sea, if I'm not completely vaporised.</td></tr>
 
-  ARCHER
-     I'm aware of your concerns in that area.
+<tr id="L324"><td><a href="#L324">324</a></td><td>ARCHER:  I thought you were afraid of the water. Your scanner, Lieutenant.</td></tr>
 
-  REED
-     Not to say that it hasn't been a privilege to have
-     served with you.
+<tr id="L325"><td><a href="#L325">325</a></td><td>REED:  (handing it over) I told you, sir. There's nothing we can do.</td></tr>
 
-  ARCHER
-     Ah ha.
+<tr id="L326"><td><a href="#L326">326</a></td><td>ARCHER:  We'll dismantle this thing piece by piece if we have to.</td></tr>
 
-  REED
-     Sir?
+<tr id="L327"><td><a href="#L327">327</a></td><td>REED:  That'll take days.</td></tr>
 
-  ARCHER
-     You're talking in the past tense, Lieutenant.
+<tr id="L328"><td><a href="#L328">328</a></td><td>ARCHER:  My schedule's open.</td></tr>
 
-  ANNOTATION
-     He deactivates the sixth relay.
+<tr id="L329"><td><a href="#L329">329</a></td><td>REED:  And these Romulans? They don't seem like the patient types. The longer we stay in this system, the more likely they're going to attack. As much as I appreciate all your efforts, you have to detach the hull plating. It's the only option.</td></tr>
 
-  REED
-     Now, reinsert all six relays, but in the reverse
-     order. You're doing fine, sir.
+<tr id="L330"><td><a href="#L330">330</a></td><td>ARCHER:  I'm not about to leave one of my crew behind.</td></tr>
 
-  ARCHER
-     Thanks.
+<tr id="L331"><td><a href="#L331">331</a></td><td>REED:  You're putting Enterprise at risk.</td></tr>
 
+<tr id="L332"><td><a href="#L332">332</a></td><td>ARCHER:  We're wasting time. Help me figure out a way to get you off of here. That's an order.</td></tr>
 
-LOCATION--Bridge
+<tr id="L333"><td><a href="#L333">333</a></td><td>ANNOTATION: Reed disconnects his air hose.</td></tr>
 
-  ANNOTATION
-     Yhe mines disappear from the viewscreen.
+<tr id="L334"><td><a href="#L334">334</a></td><td>ARCHER:  What the hell are you doing?</td></tr>
 
-  TUCKER
-     You've earned yourself a break, Travis. Ensign
-     Hutchison can cover the helm for a while.
+<tr id="L335"><td><a href="#L335">335</a></td><td>ANNOTATION: He lets the scanner float away as he goes to reconnect it, then sees Reed has almost zero air left now.</td></tr>
 
-  TRAVIS
-     Thank you, sir, but I'd prefer to stay at my post.
+<tr id="L336"><td><a href="#L336">336</a></td><td>ARCHER:  Great.</td></tr>
 
-  T'POL
-     Bridge to Captain Archer.
+<tr id="L337"><td><a href="#L337">337</a></td><td>ANNOTATION: He connects his own air supply to Reed's.</td></tr>
 
-  ARCHER [OC]
-     Go ahead.
+<tr id="L338"><td><a href="#L338">338</a></td><td>ARCHER:  If I were the kind of captain you think I should be, I'd bust your ass back to crewman.</td></tr>
 
+<tr id="L339"><td><a href="#L339">339</a></td><td>REED:  Begging your pardon, sir, but if you were that kind of captain we wouldn't be having this conversation. You'd have cut me loose by now.</td></tr>
 
-LOCATION--Hull
+<tr id="L340"><td><a href="#L340">340</a></td><td>ARCHER:  I'm not going to do that, Malcolm. When we triggered that sub-detonator, why didn't the mine explode right away?</td></tr>
 
-  T'POL [OC]
-     We're clear of the minefield.
+<tr id="L341"><td><a href="#L341">341</a></td><td>ANNOTATION: He disconnects the replenishment hose.</td></tr>
 
-  ARCHER
-     Maintain course and speed.
+<tr id="L342"><td><a href="#L342">342</a></td><td>ARCHER:  How many seconds went by before I rearmed it?</td></tr>
 
-  T'POL
-     Understood.
+<tr id="L343"><td><a href="#L343">343</a></td><td>REED:  Sir?</td></tr>
 
-  REED
-     This last detonation circuit has an added
-     attraction. I'm seeing something that looks like a
-     back-up arming mechanism. We'll have to fool the
-     circuit into thinking it's still online.
+<tr id="L344"><td><a href="#L344">344</a></td><td>ARCHER:  How many seconds?</td></tr>
 
-  ARCHER
-     How do we do that?
+<tr id="L345"><td><a href="#L345">345</a></td><td>REED:  I don't remember. Ten, maybe twelve.</td></tr>
 
-  REED
-     There's a hyperspanner in the equipment case. Take
-     out its power cell and strip off the casing.
+<tr id="L346"><td><a href="#L346">346</a></td><td>ARCHER:  It felt more like twenty.</td></tr>
 
-  ARCHER
-     You must have realised this wasn't going to be
-     your typical armory posting. That my command style
-     lacked a certain spit and polish.
+<tr id="L347"><td><a href="#L347">347</a></td><td>REED:  Ten, twenty, what's the difference?</td></tr>
 
-  REED
-     It was obvious, if you don't mind me saying so.
+<tr id="L348"><td><a href="#L348">348</a></td><td>ARCHER:  If it had exploded, how big would the yield have been?</td></tr>
 
-  ARCHER
-     Strange.
+<tr id="L349"><td><a href="#L349">349</a></td><td>REED:  Judging by the damage the first mine caused, I'd guess about a quarter of a kiloton. What are you getting at, sir?</td></tr>
 
-  REED
-     What's strange, sir?
+<tr><td></td><td>LOCATION--Airlock</td></tr>
+<tr id="L350"><td><a href="#L350">350</a></td><td>ARCHER:  How close is your team to finishing?</td></tr>
 
-  ARCHER
-     I understand you came from a long line of Royal
-     Navy men. Your father, your grandfather. Why pick
-     Starfleet? Why not continue the family tradition?
+<tr id="L351"><td><a href="#L351">351</a></td><td>TUCKER:  They're down to the last few couplings. What's going on out there?</td></tr>
 
-  REED
-     God knows I tried.
+<tr id="L352"><td><a href="#L352">352</a></td><td>ARCHER:  We're going to detach the plating.</td></tr>
 
-  ARCHER
-     What happened?
+<tr id="L353"><td><a href="#L353">353</a></td><td>T'POL:  I'm sure you did everything you could, Captain.</td></tr>
 
-  REED
-     I'll need a circuit probe.
+<tr id="L354"><td><a href="#L354">354</a></td><td>ARCHER:  I'm going with him. Can a shuttle pod hatch withstand a quarter-kiloton blast?</td></tr>
 
-  ARCHER
-     So, what happened?
+<tr id="L355"><td><a href="#L355">355</a></td><td>TUCKER:  Depends how close it was.</td></tr>
 
-  REED
-     (working on the power cell) I was raised on the
-     water. I knew how to handle a boat before I could
-     ride a bicycle. Studied all the great naval
-     battles. I don't know. I suppose I thought I'd
-     just grow out of it.
+<tr id="L356"><td><a href="#L356">356</a></td><td>ARCHER:  Twenty metres, maybe twenty five.</td></tr>
 
-  ARCHER
-     Grow out of what?
+<tr id="L357"><td><a href="#L357">357</a></td><td>TUCKER:  They're reinforced with duratanium alloy. They can take a hell of a beating. What have you got in mind?</td></tr>
 
-  REED
-     Aquaphobia.
+<tr id="L358"><td><a href="#L358">358</a></td><td>ARCHER:  I need two shuttlepod hatches. Have them brought up here on the double.</td></tr>
 
-  ARCHER
-     You're afraid of the water?
+<tr id="L359"><td><a href="#L359">359</a></td><td>TUCKER:  Sir?</td></tr>
 
-  REED
-     More precisely, afraid of drowning.
+<tr id="L360"><td><a href="#L360">360</a></td><td>ARCHER:  On the double.</td></tr>
 
-  ARCHER
-     So instead of a life on the sea you chose a life
-     in the vacuum of space?
+<tr id="L361"><td><a href="#L361">361</a></td><td>ANNOTATION: Tucker leaves.</td></tr>
 
-  ANNOTATION
-     Archer goes back to the mine with the power cell.
+<tr id="L362"><td><a href="#L362">362</a></td><td>T'POL:  Captain, I assume there's no point in my questioning your plan.</td></tr>
 
-  REED
-     I had a great-uncle who suffered from the same
-     problem, but he faced his fears. Joined the Navy,
-     had a distinguished career. All you have to do is
-     attach it to the cylinder on your upper right.
-     It's working. Start with the topmost component.
-     Use the caliper to lift it a few millimetres and
-     then turn it clockwise three hundred and sixty
-     degrees, and then gently reinsert it. He was
-     something of a hero to me, my great-uncle.
+<tr><td></td><td>LOCATION--Situation room</td></tr>
+<tr id="L363"><td><a href="#L363">363</a></td><td>T'POL:  Bridge to Captain Archer.</td></tr>
 
-  ANNOTATION
-     Archer does as he's told.
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L364"><td><a href="#L364">364</a></td><td>ARCHER:  Go ahead.</td></tr>
 
-  ARCHER
-     The one with aquaphobia?
+<tr id="L365"><td><a href="#L365">365</a></td><td>T'POL [OC]:  We're ready.</td></tr>
 
-  REED
-     Indeed. He signed up with the submarine service.
+<tr id="L366"><td><a href="#L366">366</a></td><td>ARCHER:  See you soon.</td></tr>
 
-  ARCHER
-     Talk about facing your deepest fears.
+<tr><td></td><td>LOCATION--Situation room</td></tr>
+<tr id="L367"><td><a href="#L367">367</a></td><td>TUCKER:  Hang on, fellas.</td></tr>
 
-  REED
-     He was a brave man. Wasn't long before he'd worked
-     his way up through the ranks. Made chief engineer
-     on the HMS Clement. Do you know the story of the
-     Clement, sir?
+<tr id="L368"><td><a href="#L368">368</a></td><td>ANNOTATION: The section of hull plating with Archer, Reed and the mine on it is set free to float away.</td></tr>
 
-  ARCHER
-     I don't think I do.
+<tr id="L369"><td><a href="#L369">369</a></td><td>SOMEONE: (Bridge]</td></tr>
 
-  ANNOTATION
-     He completes disarming that segment of the mine.
+<tr id="L370"><td><a href="#L370">370</a></td><td>TRAVIS:  Six hundred metres.</td></tr>
 
-  REED
-     Good. Now, the other five components. Repeat the
-     same process on each one, counterclockwise.
+<tr id="L371"><td><a href="#L371">371</a></td><td>ANNOTATION: Tucker is back in the situation room.</td></tr>
 
-  ARCHER
-     You were telling me about the Clement.
+<tr id="L372"><td><a href="#L372">372</a></td><td>TUCKER:  Another hundred ought to do it.</td></tr>
 
-  REED
-     They were on a routine patrol when they had an
-     accident. Now, there's a beautiful irony for you.
-     They hit a mine left over from some world war.
-     There they were, trapped underneath an ice shelf,
-     several compartments flooding, including
-     Engineering. Can you imagine? My great-uncle, the
-     man afraid of drowning? The ship was sinking,
-     losing power. According to his lieutenant, my
-     great-uncle sealed himself in the engine room and
-     kept the reactor online long enough for his crew
-     to make it to the escape pods. He went down with
-     his ship. He did what he had to do to save his
-     crewmates.
+<tr id="L373"><td><a href="#L373">373</a></td><td>ANNOTATION: Two warbirds decloak.</td></tr>
 
-  ARCHER
-     I appreciate what you're trying to tell me,
-     Malcolm, but I was hoping you'd be able to save
-     your heroics for another time.
+<tr id="L374"><td><a href="#L374">374</a></td><td>TRAVIS:  Sub-commander.</td></tr>
 
-  REED
-     I just want you to know, sir, that I am prepared.
+<tr id="L375"><td><a href="#L375">375</a></td><td>ANNOTATION: T'Pol comes forward to the Captain's chair.</td></tr>
 
-  ARCHER
-     Got you.
+<tr id="L376"><td><a href="#L376">376</a></td><td>T'POL:  Hail them.</td></tr>
 
-  REED
-     If we're not able to defuse this mine, the safety
-     of the crew
+<tr id="L377"><td><a href="#L377">377</a></td><td>TRAVIS:  No response.</td></tr>
 
-  ARCHER
-     I said I heard you, Lieutenant.
+<tr id="L378"><td><a href="#L378">378</a></td><td>ANNOTATION: He is now at Reed's station.</td></tr>
 
-  REED
-     I'm afraid we have another problem, sir.
+<tr id="L379"><td><a href="#L379">379</a></td><td>TUCKER:  They're charging weapons.</td></tr>
 
-  ARCHER
-     What? What is it?
+<tr id="L380"><td><a href="#L380">380</a></td><td>T'POL:  Polarise the hull plating.</td></tr>
 
-  REED
-     I need to use the bathroom.
+<tr id="L381"><td><a href="#L381">381</a></td><td>TUCKER:  I'll do what I can, but keep in mind we're missing some of it.</td></tr>
 
-  ARCHER
-     I won't tell a soul.
+<tr><td></td><td>LOCATION--Hull</td></tr>
+<tr id="L382"><td><a href="#L382">382</a></td><td>ANNOTATION: Archer starts cutting through the spine pinning Reed's leg to the hull.</td></tr>
 
-  REED
-     In my EV suit, sir?
+<tr id="L383"><td><a href="#L383">383</a></td><td>REED:  It's rearming.</td></tr>
 
-  ANNOTATION
-     Laughter fades as two Romulan warbirds decloak.
+<tr id="L384"><td><a href="#L384">384</a></td><td>ARCHER:  That's it, let's go.</td></tr>
 
-  REED
-     Sir.
+<tr id="L385"><td><a href="#L385">385</a></td><td>ANNOTATION: The two men push off from the hull and mine, turning the shuttlepod hatches towards the source of the expected blast.</td></tr>
 
+<tr id="L386"><td><a href="#L386">386</a></td><td>ARCHER:  Now, Malcolm!</td></tr>
 
-LOCATION--Bridge
+<tr id="L387"><td><a href="#L387">387</a></td><td>ANNOTATION: The mine explodes, and the blast impacts their metal shields first, hurling the pair far away.</td></tr>
 
-  TRAVIS
-     We're being hailed.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L388"><td><a href="#L388">388</a></td><td>T'POL:  Enterprise to Captain Archer. Captain, respond.</td></tr>
 
-  ROMULAN [OC]
-     You've ignored our warnings.
+<tr id="L389"><td><a href="#L389">389</a></td><td>ANNOTATION: Silence.</td></tr>
 
-  T'POL
-     We were unable to translate your language until a
-     short time ago. We're trying to defuse a weapon
-     lodged on our hull.
+<tr id="L390"><td><a href="#L390">390</a></td><td>TUCKER:  Maybe their transmitters were knocked out in the blast. Travis?</td></tr>
 
-  ROMULAN [OC]
-     I'm well aware of your situation. Our scans show
-     you're prepared to detach the hull segment
-     surrounding the mine. Complete the procedure and
-     leave this system immediately.
+<tr id="L391"><td><a href="#L391">391</a></td><td>TRAVIS:  I see them. Bearing two one three mark four. Closing in.</td></tr>
 
-  TUCKER
-     We've got a man trapped out there. Don't your
-     scans show you that?
+<tr id="L392"><td><a href="#L392">392</a></td><td>T'POL:  Open the doors to Launch bay two.</td></tr>
 
-  ROMULAN [OC]
-     One crewman. You have eighty two others safely
-     aboard. Jettison the hull segment and leave. We
-     will not tolerate espionage.
+<tr id="L393"><td><a href="#L393">393</a></td><td>TUCKER:  The Romulans are locking weapons.</td></tr>
 
-  ANNOTATION
-     The ships recloak.
+<tr id="L394"><td><a href="#L394">394</a></td><td>T'POL:  Bridge to Doctor Phlox.</td></tr>
 
-  ARCHER [OC]
-     T'Pol, report.
+<tr id="L395"><td><a href="#L395">395</a></td><td>PHLOX [OC]:  Go ahead.</td></tr>
 
-  T'POL
-     They're demanding that we jettison the section of
-     hull plating and leave.
+<tr id="L396"><td><a href="#L396">396</a></td><td>T'POL:  Meet us outside Launch bay two.</td></tr>
 
-  TUCKER
-     They scanned us, Captain. They know we're ready to
-     detach it.
+<tr id="L397"><td><a href="#L397">397</a></td><td>TUCKER:  They're targeting our engines.</td></tr>
 
+<tr id="L398"><td><a href="#L398">398</a></td><td>TRAVIS:  A hundred metres more. Fifty. I've got them. Sealing Launch bay doors.</td></tr>
 
-LOCATION--Hull
+<tr id="L399"><td><a href="#L399">399</a></td><td>T'POL:  Go to warp, Ensign.</td></tr>
 
-  ARCHER
-     I'm defusing the last detonation circuit. Stand
-     by. (a large section starts rising from the top of
-     the mine)
+<tr><td></td><td>LOCATION--Launch bay two</td></tr>
+<tr id="L400"><td><a href="#L400">400</a></td><td>ANNOTATION: Lying on the closed launch doors, helmets off.</td></tr>
 
-  REED
-     It's rearming! Reset that last component! Quickly!
+<tr id="L401"><td><a href="#L401">401</a></td><td>ARCHER:  Are you all right?</td></tr>
 
-  ARCHER
-     (he does) Lieutenant?
+<tr id="L402"><td><a href="#L402">402</a></td><td>REED:  All things considered. If I may say so, sir, your style of command does have its advantages.</td></tr>
 
-  REED
-     When you deactivated that final circuit, it
-     triggered a sub detonator.
+<tr id="L403"><td><a href="#L403">403</a></td><td>ARCHER:  So, how long was it?</td></tr>
 
-  ARCHER
-     How can we get to it?
+<tr id="L404"><td><a href="#L404">404</a></td><td>REED:  I counted ten seconds.</td></tr>
 
-  REED
-     We can't. It's too deep inside. We'd have to
-     dismantle the entire mine. Captain? Those heroics
-     we spoke about. I think it may be time. You've
-     done all you can, sir. For what it's worth, you'd
-     make a fine Armoury Officer.
+<tr id="L405"><td><a href="#L405">405</a></td><td>ARCHER:  Ten? It was more like twenty.</td></tr>
 
-  ARCHER
-     Show me that sub-detonator.
+<tr id="L406"><td><a href="#L406">406</a></td><td>REED:  Respectfully, sir, it was ten.</td></tr>
 
-  REED
-     I'd prefer a burial at sea, if I'm not completely
-     vaporised.
+<tr id="L407"><td><a href="#L407">407</a></td><td>ARCHER:  I'm not going to argue with you, Malcolm. It was twenty. That's an order.</td></tr>
 
-  ARCHER
-     I thought you were afraid of the water. Your
-     scanner, Lieutenant.
+<tr id="L408"><td><a href="#L408">408</a></td><td>ANNOTATION: Tucker, T'Pol and Phlox enter.</td></tr>
 
-  REED
-     (handing it over) I told you, sir. There's nothing
-     we can do.
-
-  ARCHER
-     We'll dismantle this thing piece by piece if we
-     have to.
-
-  REED
-     That'll take days.
-
-  ARCHER
-     My schedule's open.
-
-  REED
-     And these Romulans? They don't seem like the
-     patient types. The longer we stay in this system,
-     the more likely they're going to attack. As much
-     as I appreciate all your efforts, you have to
-     detach the hull plating. It's the only option.
-
-  ARCHER
-     I'm not about to leave one of my crew behind.
-
-  REED
-     You're putting Enterprise at risk.
-
-  ARCHER
-     We're wasting time. Help me figure out a way to
-     get you off of here. That's an order.
-
-  ANNOTATION
-     Reed disconnects his air hose.
-
-  ARCHER
-     What the hell are you doing?
-
-  ANNOTATION
-     He lets the scanner float away as he goes to
-     reconnect it, then sees Reed has almost zero air
-     left now.
-
-  ARCHER
-     Great.
-
-  ANNOTATION
-     He connects his own air supply to Reed's.
-
-  ARCHER
-     If I were the kind of captain you think I should
-     be, I'd bust your ass back to crewman.
-
-  REED
-     Begging your pardon, sir, but if you were that
-     kind of captain we wouldn't be having this
-     conversation. You'd have cut me loose by now.
-
-  ARCHER
-     I'm not going to do that, Malcolm. When we
-     triggered that sub-detonator, why didn't the mine
-     explode right away?
-
-  ANNOTATION
-     He disconnects the replenishment hose.
-
-  ARCHER
-     How many seconds went by before I rearmed it?
-
-  REED
-     Sir?
-
-  ARCHER
-     How many seconds?
-
-  REED
-     I don't remember. Ten, maybe twelve.
-
-  ARCHER
-     It felt more like twenty.
-
-  REED
-     Ten, twenty, what's the difference?
-
-  ARCHER
-     If it had exploded, how big would the yield have
-     been?
-
-  REED
-     Judging by the damage the first mine caused, I'd
-     guess about a quarter of a kiloton. What are you
-     getting at, sir?
-
-
-LOCATION--Airlock
-
-  ARCHER
-     How close is your team to finishing?
-
-  TUCKER
-     They're down to the last few couplings. What's
-     going on out there?
-
-  ARCHER
-     We're going to detach the plating.
-
-  T'POL
-     I'm sure you did everything you could, Captain.
-
-  ARCHER
-     I'm going with him. Can a shuttle pod hatch
-     withstand a quarter-kiloton blast?
-
-  TUCKER
-     Depends how close it was.
-
-  ARCHER
-     Twenty metres, maybe twenty five.
-
-  TUCKER
-     They're reinforced with duratanium alloy. They can
-     take a hell of a beating. What have you got in
-     mind?
-
-  ARCHER
-     I need two shuttlepod hatches. Have them brought
-     up here on the double.
-
-  TUCKER
-     Sir?
-
-  ARCHER
-     On the double.
-
-  ANNOTATION
-     Tucker leaves.
-
-  T'POL
-     Captain, I assume there's no point in my
-     questioning your plan.
-
-
-LOCATION--Situation room
-
-  T'POL
-     Bridge to Captain Archer.
-
-
-LOCATION--Hull
-
-  ARCHER
-     Go ahead.
-
-  T'POL [OC]
-     We're ready.
-
-  ARCHER
-     See you soon.
-
-
-LOCATION--Situation room
-
-  TUCKER
-     Hang on, fellas.
-
-  ANNOTATION
-     The section of hull plating with Archer, Reed and
-     the mine on it is set free to float away.
-
-  SOMEONE
-     (Bridge]
-
-  TRAVIS
-     Six hundred metres.
-
-  ANNOTATION
-     Tucker is back in the situation room.
-
-  TUCKER
-     Another hundred ought to do it.
-
-  ANNOTATION
-     Two warbirds decloak.
-
-  TRAVIS
-     Sub-commander.
-
-  ANNOTATION
-     T'Pol comes forward to the Captain's chair.
-
-  T'POL
-     Hail them.
-
-  TRAVIS
-     No response.
-
-  ANNOTATION
-     He is now at Reed's station.
-
-  TUCKER
-     They're charging weapons.
-
-  T'POL
-     Polarise the hull plating.
-
-  TUCKER
-     I'll do what I can, but keep in mind we're missing
-     some of it.
-
-
-LOCATION--Hull
-
-  ANNOTATION
-     Archer starts cutting through the spine pinning
-     Reed's leg to the hull.
-
-  REED
-     It's rearming.
-
-  ARCHER
-     That's it, let's go.
-
-  ANNOTATION
-     The two men push off from the hull and mine,
-     turning the shuttlepod hatches towards the source
-     of the expected blast.
-
-  ARCHER
-     Now, Malcolm!
-
-  ANNOTATION
-     The mine explodes, and the blast impacts their
-     metal shields first, hurling the pair far away.
-
-
-LOCATION--Bridge
-
-  T'POL
-     Enterprise to Captain Archer. Captain, respond.
-
-  ANNOTATION
-     Silence.
-
-  TUCKER
-     Maybe their transmitters were knocked out in the
-     blast. Travis?
-
-  TRAVIS
-     I see them. Bearing two one three mark four.
-     Closing in.
-
-  T'POL
-     Open the doors to Launch bay two.
-
-  TUCKER
-     The Romulans are locking weapons.
-
-  T'POL
-     Bridge to Doctor Phlox.
-
-  PHLOX [OC]
-     Go ahead.
-
-  T'POL
-     Meet us outside Launch bay two.
-
-  TUCKER
-     They're targeting our engines.
-
-  TRAVIS
-     A hundred metres more. Fifty. I've got them.
-     Sealing Launch bay doors.
-
-  T'POL
-     Go to warp, Ensign.
-
-
-LOCATION--Launch bay two
-
-  ANNOTATION
-     Lying on the closed launch doors, helmets off.
-
-  ARCHER
-     Are you all right?
-
-  REED
-     All things considered. If I may say so, sir, your
-     style of command does have its advantages.
-
-  ARCHER
-     So, how long was it?
-
-  REED
-     I counted ten seconds.
-
-  ARCHER
-     Ten? It was more like twenty.
-
-  REED
-     Respectfully, sir, it was ten.
-
-  ARCHER
-     I'm not going to argue with you, Malcolm. It was
-     twenty. That's an order.
-
-  ANNOTATION
-     Tucker, T'Pol and Phlox enter.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

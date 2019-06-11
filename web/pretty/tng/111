@@ -1,1367 +1,687 @@
-Hide and Q
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Hide and Q</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>CRUSHER:  Include a burn unit with each kit. Upon arrival, identify the most critically injured and beam them up to cargo bay six.</td></tr>
 
-LOCATION--Corridor
+<tr id="L2"><td><a href="#L2">2</a></td><td>PICARD [OC]:  Doctor Crusher, this is the Captain.</td></tr>
 
-  CRUSHER
-     Include a burn unit with each kit. Upon arrival,
-     identify the most critically injured and beam them
-     up to cargo bay six.
+<tr id="L3"><td><a href="#L3">3</a></td><td>CRUSHER:  Doctor Crusher here.</td></tr>
 
-  PICARD [OC]
-     Doctor Crusher, this is the Captain.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L4"><td><a href="#L4">4</a></td><td>PICARD:  Additional information. The number of colonists at the site is five hundred and four. Are you prepared for that many, Doctor?</td></tr>
 
-  CRUSHER
-     Doctor Crusher here.
+<tr id="L5"><td><a href="#L5">5</a></td><td>CRUSHER [OC]:  We believe so, sir.</td></tr>
 
+<tr id="L6"><td><a href="#L6">6</a></td><td>LAFORGE:  Captain, we are now at warp nine point one, sir.</td></tr>
 
-LOCATION--Bridge
+<tr id="L7"><td><a href="#L7">7</a></td><td>DATA:  Which will bring us to the colony in three point two hours, sir.</td></tr>
 
-  PICARD
-     Additional information. The number of colonists at
-     the site is five hundred and four. Are you
-     prepared for that many, Doctor?
+<tr id="L8"><td><a href="#L8">8</a></td><td>RIKER:  Captain, I have a schematic of the explosion site. It suggests the cause as a methane-like gas seeping in from underground.</td></tr>
 
-  CRUSHER [OC]
-     We believe so, sir.
+<tr id="L9"><td><a href="#L9">9</a></td><td>LAFORGE:  Captain, I'm picking up a forcefield out there of some kind. It's almost</td></tr>
 
-  LAFORGE
-     Captain, we are now at warp nine point one, sir.
+<tr id="L10"><td><a href="#L10">10</a></td><td>ANNOTATION: The chain-link that envelopes the Enterprise is straight out of [1]Encounter At Farpoint.</td></tr>
 
-  DATA
-     Which will bring us to the colony in three point
-     two hours, sir.
+<tr id="L11"><td><a href="#L11">11</a></td><td>DATA:  The Q entity, sir. It is identical to the grid we encountered when</td></tr>
 
-  RIKER
-     Captain, I have a schematic of the explosion site.
-     It suggests the cause as a methane-like gas
-     seeping in from underground.
+<tr id="L12"><td><a href="#L12">12</a></td><td>WORF:  It reads solid, sir.</td></tr>
 
-  LAFORGE
-     Captain, I'm picking up a forcefield out there of
-     some kind. It's almost
+<tr id="L13"><td><a href="#L13">13</a></td><td>PICARD:  Emergency. Full stop.</td></tr>
 
-  ANNOTATION
-     The chain-link that envelopes the Enterprise is
-     straight out of [1]Encounter At Farpoint.
+<tr id="L14"><td><a href="#L14">14</a></td><td>LAFORGE:  Reversing power, sir.</td></tr>
 
-  DATA
-     The Q entity, sir. It is identical to the grid we
-     encountered when
+<tr id="L15"><td><a href="#L15">15</a></td><td>PICARD:  Not now, damn it, Q.</td></tr>
 
-  WORF
-     It reads solid, sir.
+<tr id="L16"><td><a href="#L16">16</a></td><td>TASHA:  Shields and deflectors up, sir.</td></tr>
 
-  PICARD
-     Emergency. Full stop.
+<tr id="L17"><td><a href="#L17">17</a></td><td>LAFORGE:  Now reading full stop, sir.</td></tr>
 
-  LAFORGE
-     Reversing power, sir.
+<tr id="L18"><td><a href="#L18">18</a></td><td>ANNOTATION: There's a flash, and something similar to Prince of Wales' feathers hovers</td></tr>
 
-  PICARD
-     Not now, damn it, Q.
+<tr id="L19"><td><a href="#L19">19</a></td><td>Q:  Humans, I thought by now you would have scampered back to your own little star system.</td></tr>
 
-  TASHA
-     Shields and deflectors up, sir.
+<tr id="L20"><td><a href="#L20">20</a></td><td>PICARD:  If this is Q I'm addressing, we are on a mission of rescue where a group of badly injured</td></tr>
 
-  LAFORGE
-     Now reading full stop, sir.
+<tr id="L21"><td><a href="#L21">21</a></td><td>Q:  We the Q have studied our recent contact with you, and are impressed. We have much to discuss, including perhaps the realisation of your most impossible dream.</td></tr>
 
-  ANNOTATION
-     There's a flash, and something similar to Prince
-     of Wales' feathers hovers
+<tr id="L22"><td><a href="#L22">22</a></td><td>PICARD:  However intriguing that may be, we are now in the midst of an urgent journey. Once that is completed, then, perhaps</td></tr>
 
-  Q
-     Humans, I thought by now you would have scampered
-     back to your own little star system.
+<tr id="L23"><td><a href="#L23">23</a></td><td>Q:  You will abandon that mission, Captain. My business with you takes precedence. If my magnificence blinds you, then perhaps something more familiar.</td></tr>
 
-  PICARD
-     If this is Q I'm addressing, we are on a mission
-     of rescue where a group of badly injured
+<tr id="L24"><td><a href="#L24">24</a></td><td>ANNOTATION: Flash, and the familiar human shape of John de Lancie, this time costumed as</td></tr>
 
-  Q
-     We the Q have studied our recent contact with you,
-     and are impressed. We have much to discuss,
-     including perhaps the realisation of your most
-     impossible dream.
+<tr id="L25"><td><a href="#L25">25</a></td><td>Q:  Starfleet Admiral Q, at your service.</td></tr>
 
-  PICARD
-     However intriguing that may be, we are now in the
-     midst of an urgent journey. Once that is
-     completed, then, perhaps
+<tr id="L26"><td><a href="#L26">26</a></td><td>SOMEONE: Captain's log, supplemental. Our rescue mission to the Sigma Three solar system has been halted by an immense grid and an untimely visit from Q</td></tr>
 
-  Q
-     You will abandon that mission, Captain. My
-     business with you takes precedence. If my
-     magnificence blinds you, then perhaps something
-     more familiar.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L27"><td><a href="#L27">27</a></td><td>PICARD:  You're no Starfleet Admiral, Q.</td></tr>
 
-  ANNOTATION
-     Flash, and the familiar human shape of John de
-     Lancie, this time costumed as
+<tr id="L28"><td><a href="#L28">28</a></td><td>Q:  Neither am I an Aldebaran serpent, Captain, but you accepted me as such.</td></tr>
 
-  Q
-     Starfleet Admiral Q, at your service.
+<tr id="L29"><td><a href="#L29">29</a></td><td>RIKER:  He's got us there, Captain.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. Our rescue mission to
-     the Sigma Three solar system has been halted by an
-     immense grid and an untimely visit from Q
+<tr id="L30"><td><a href="#L30">30</a></td><td>Q:  The redoubtable Commander Riker, whom I noticed before. You seem to find this all very amusing.</td></tr>
 
+<tr id="L31"><td><a href="#L31">31</a></td><td>RIKER:  I might, if we weren't on our way to help some suffering and dying humans who</td></tr>
 
-LOCATION--Bridge
+<tr id="L32"><td><a href="#L32">32</a></td><td>Q:  Your species is always suffering and dying.</td></tr>
 
-  PICARD
-     You're no Starfleet Admiral, Q.
+<tr id="L33"><td><a href="#L33">33</a></td><td>PICARD:  No, Lieutenant Worf. You'll make no move against him unless I order it.</td></tr>
 
-  Q
-     Neither am I an Aldebaran serpent, Captain, but
-     you accepted me as such.
+<tr id="L34"><td><a href="#L34">34</a></td><td>Q:  Pity. You might have learned an interesting lesson. Macro head with a micro brain.</td></tr>
 
-  RIKER
-     He's got us there, Captain.
+<tr id="L35"><td><a href="#L35">35</a></td><td>PICARD:  You said you had the realisation of impossible dreams to offer us. When this rescue is completed, I am prepared to listen carefully to whatever proposal you wish to make and subject to it being acceptable</td></tr>
 
-  Q
-     The redoubtable Commander Riker, whom I noticed
-     before. You seem to find this all very amusing.
+<tr id="L36"><td><a href="#L36">36</a></td><td>Q:  Subject to your foolish human values? Oh, come, Picard. Why do you distrust me so?</td></tr>
 
-  RIKER
-     I might, if we weren't on our way to help some
-     suffering and dying humans who
+<tr id="L37"><td><a href="#L37">37</a></td><td>PICARD:  Why? At our first meeting you seized my vessel. You condemned all humans as savages, and on that charge you tried us in a post-atomic twenty first century court of horrors, where you attacked my people. You again seized my vessel.</td></tr>
 
-  Q
-     Your species is always suffering and dying.
+<tr id="L38"><td><a href="#L38">38</a></td><td>Q:  And that angered you, did it? Seized my vessel, seized my vessel.</td></tr>
 
-  PICARD
-     No, Lieutenant Worf. You'll make no move against
-     him unless I order it.
+<tr id="L39"><td><a href="#L39">39</a></td><td>PICARD:  You interfered with our Farpoint mission. You threatened to convict us as ignorant savages, if, while dealing with a powerful and complex life forms, we made the slightest mistake, and when that didn't happen</td></tr>
 
-  Q
-     Pity. You might have learned an interesting
-     lesson. Macro head with a micro brain.
+<tr id="L40"><td><a href="#L40">40</a></td><td>Q:  The Q became interested in you. Does no one here understand your incredible good fortune? Seized my vessel. These are the complaints of a closed mind too accustomed to military privileges. But you, Riker, and I remember you well, what do you make of my offer?</td></tr>
 
-  PICARD
-     You said you had the realisation of impossible
-     dreams to offer us. When this rescue is completed,
-     I am prepared to listen carefully to whatever
-     proposal you wish to make and subject to it being
-     acceptable
+<tr id="L41"><td><a href="#L41">41</a></td><td>RIKER:  We don't have time for these games.</td></tr>
 
-  Q
-     Subject to your foolish human values? Oh, come,
-     Picard. Why do you distrust me so?
+<tr id="L42"><td><a href="#L42">42</a></td><td>Q:  Games? Did someone say games? And perchance for interest's sake, a deadly game? To the game.</td></tr>
 
-  PICARD
-     Why? At our first meeting you seized my vessel.
-     You condemned all humans as savages, and on that
-     charge you tried us in a post-atomic twenty first
-     century court of horrors, where you attacked my
-     people. You again seized my vessel.
+<tr id="L43"><td><a href="#L43">43</a></td><td>ANNOTATION: A flash, and Picard is alone on the Bridge</td></tr>
 
-  Q
-     And that angered you, did it? Seized my vessel,
-     seized my vessel.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L44"><td><a href="#L44">44</a></td><td>ANNOTATION: sand and rocks under a green sky with yellow horizon</td></tr>
 
-  PICARD
-     You interfered with our Farpoint mission. You
-     threatened to convict us as ignorant savages, if,
-     while dealing with a powerful and complex life
-     forms, we made the slightest mistake, and when
-     that didn't happen
+<tr id="L45"><td><a href="#L45">45</a></td><td>RIKER:  Where are we?</td></tr>
 
-  Q
-     The Q became interested in you. Does no one here
-     understand your incredible good fortune? Seized my
-     vessel. These are the complaints of a closed mind
-     too accustomed to military privileges. But you,
-     Riker, and I remember you well, what do you make
-     of my offer?
+<tr id="L46"><td><a href="#L46">46</a></td><td>DATA:  Obviously a class M world. Gravity and oxygen within our limits.</td></tr>
 
-  RIKER
-     We don't have time for these games.
+<tr id="L47"><td><a href="#L47">47</a></td><td>LAFORGE:  Twin moons. Where are we?</td></tr>
 
-  Q
-     Games? Did someone say games? And perchance for
-     interest's sake, a deadly game? To the game.
+<tr id="L48"><td><a href="#L48">48</a></td><td>DATA:  Considering the power demonstrated by Q the last time, anywhere. Assuming this place even exists.</td></tr>
 
-  ANNOTATION
-     A flash, and Picard is alone on the Bridge
+<tr id="L49"><td><a href="#L49">49</a></td><td>RIKER:  But this won't be boring. If Q is anything, he's imaginative. Apparently our Captain wasn't meant to be with us here.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L50"><td><a href="#L50">50</a></td><td>PICARD:  Security, this is the Captain. Security? Engineering, this is the Bridge.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L51"><td><a href="#L51">51</a></td><td>ANNOTATION: Control panels don't operate. Doors don't open</td></tr>
 
-  ANNOTATION
-     sand and rocks under a green sky with yellow
-     horizon
+<tr id="L52"><td><a href="#L52">52</a></td><td>PICARD:  Turbolift Control, do you read? This is the Captain.</td></tr>
 
-  RIKER
-     Where are we?
+<tr id="L53"><td><a href="#L53">53</a></td><td>ANNOTATION: But answer came there none</td></tr>
 
-  DATA
-     Obviously a class M world. Gravity and oxygen
-     within our limits.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L54"><td><a href="#L54">54</a></td><td>TASHA:  Sir! Over here.</td></tr>
 
-  LAFORGE
-     Twin moons. Where are we?
+<tr id="L55"><td><a href="#L55">55</a></td><td>ANNOTATION: It's Q, in a French uniform complete with tricorn hat and tricolor cockade</td></tr>
 
-  DATA
-     Considering the power demonstrated by Q the last
-     time, anywhere. Assuming this place even exists.
+<tr id="L56"><td><a href="#L56">56</a></td><td>Q:  Join me, Riker. A good game needs rules and planning. Wasn't it your own Hartley who said, nothing reveals humanity so well as the games it plays? Almost right. Actually, you reveal yourselves best in how you play.</td></tr>
 
-  RIKER
-     But this won't be boring. If Q is anything, he's
-     imaginative. Apparently our Captain wasn't meant
-     to be with us here.
+<tr id="L57"><td><a href="#L57">57</a></td><td>DATA:  Sir, what he has in mind might provide us with vital information.</td></tr>
 
+<tr id="L58"><td><a href="#L58">58</a></td><td>ANNOTATION: Riker joins Q at a table in front of a tent. He picks up a glass to drink</td></tr>
 
-LOCATION--Bridge
+<tr id="L59"><td><a href="#L59">59</a></td><td>RIKER:  Incredible. I was just thinking about an old-fashioned lemonade.</td></tr>
 
-  PICARD
-     Security, this is the Captain. Security?
-     Engineering, this is the Bridge.
+<tr id="L60"><td><a href="#L60">60</a></td><td>Q:  And so it became that. An excellent thirst quencher. It gets rather hot out on this plain.</td></tr>
 
-  ANNOTATION
-     Control panels don't operate. Doors don't open
+<tr id="L61"><td><a href="#L61">61</a></td><td>RIKER:  What about my people?</td></tr>
 
-  PICARD
-     Turbolift Control, do you read? This is the
-     Captain.
+<tr id="L62"><td><a href="#L62">62</a></td><td>Q:  Whatever they'd like, of course!</td></tr>
 
-  ANNOTATION
-     But answer came there none
+<tr id="L63"><td><a href="#L63">63</a></td><td>ANNOTATION: Glasses appear in everyone's hands. Worf ostentatiously pours his onto the ground</td></tr>
 
+<tr id="L64"><td><a href="#L64">64</a></td><td>Q:  Drink not with thine enemy. The rigid Klingon code. That explains something of why you defeated them.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L65"><td><a href="#L65">65</a></td><td>RIKER:  You're still fascinated with the human past? Perhaps you're not that original.</td></tr>
 
-  TASHA
-     Sir! Over here.
+<tr id="L66"><td><a href="#L66">66</a></td><td>Q:  Au contraire! It's the human future which intrigues us, and should concern you most. You see, of all species, yours cannot abide stagnation. Change is at the heart of what you are. But change into what? That's the question.</td></tr>
 
-  ANNOTATION
-     It's Q, in a French uniform complete with tricorn
-     hat and tricolor cockade
+<tr id="L67"><td><a href="#L67">67</a></td><td>DATA:  That is what humans call a truism.</td></tr>
 
-  Q
-     Join me, Riker. A good game needs rules and
-     planning. Wasn't it your own Hartley who said,
-     nothing reveals humanity so well as the games it
-     plays? Almost right. Actually, you reveal
-     yourselves best in how you play.
+<tr id="L68"><td><a href="#L68">68</a></td><td>Q:  You mean hardly original?</td></tr>
 
-  DATA
-     Sir, what he has in mind might provide us with
-     vital information.
+<tr id="L69"><td><a href="#L69">69</a></td><td>RIKER:  You're the one who said it. While we're at it, this isn't part of any human future.</td></tr>
 
-  ANNOTATION
-     Riker joins Q at a table in front of a tent. He
-     picks up a glass to drink
+<tr id="L70"><td><a href="#L70">70</a></td><td>Q:  True. I borrowed this from your stodgy Captain's mind. This is dressing for a game that we will play. Now games require rules and rewards and dangers and familiar settings. That sort of thing.</td></tr>
 
-  RIKER
-     Incredible. I was just thinking about an
-     old-fashioned lemonade.
+<tr id="L71"><td><a href="#L71">71</a></td><td>RIKER:  This isn't that familiar to me. Data?</td></tr>
 
-  Q
-     And so it became that. An excellent thirst
-     quencher. It gets rather hot out on this plain.
+<tr id="L72"><td><a href="#L72">72</a></td><td>DATA:  This is from Europe's Napoleonic era, sir. Late eighteenth, early nineteenth centuries. This is a campaign headquarters tent, his uniform is that of a French Army marshal.</td></tr>
 
-  RIKER
-     What about my people?
+<tr id="L73"><td><a href="#L73">73</a></td><td>RIKER:  And a marshal outranks even an Admiral</td></tr>
 
-  Q
-     Whatever they'd like, of course!
+<tr id="L74"><td><a href="#L74">74</a></td><td>Q:  Well, do you think I would go from a Starfleet Admiral to anything else?</td></tr>
 
-  ANNOTATION
-     Glasses appear in everyone's hands. Worf
-     ostentatiously pours his onto the ground
+<tr id="L75"><td><a href="#L75">75</a></td><td>RIKER:  Of course you wouldn't. But Napoleonic equipment on an alien planet. One so different it has twin moons?</td></tr>
 
-  Q
-     Drink not with thine enemy. The rigid Klingon
-     code. That explains something of why you defeated
-     them.
+<tr id="L76"><td><a href="#L76">76</a></td><td>Q:  Well, as you said, I'm nothing if not imaginative. And the game should reflect that. Shall it be a test of strength? Meaningless, since you have none. A test of intelligence, then? Equally as meaningless. But it needs risk, something to win and something to lose.</td></tr>
 
-  RIKER
-     You're still fascinated with the human past?
-     Perhaps you're not that original.
+<tr id="L77"><td><a href="#L77">77</a></td><td>RIKER:  If we must play a game, what would we win?</td></tr>
 
-  Q
-     Au contraire! It's the human future which
-     intrigues us, and should concern you most. You
-     see, of all species, yours cannot abide
-     stagnation. Change is at the heart of what you
-     are. But change into what? That's the question.
+<tr id="L78"><td><a href="#L78">78</a></td><td>Q:  The greatest possible future that you can imagine. Which, of course, requires something totally disastrous if you lose. Now the point of this game shall be, can any of you can stay alive?</td></tr>
 
-  DATA
-     That is what humans call a truism.
+<tr id="L79"><td><a href="#L79">79</a></td><td>WORF:  If your game is fair, we will.</td></tr>
 
-  Q
-     You mean hardly original?
+<tr id="L80"><td><a href="#L80">80</a></td><td>Q:  Oh, for shame, Worf. Fairness is such a human concept. Think imaginatively! This game shall in fact be completely unfair.</td></tr>
 
-  RIKER
-     You're the one who said it. While we're at it,
-     this isn't part of any human future.
+<tr id="L81"><td><a href="#L81">81</a></td><td>TASHA:  You've gone too far!</td></tr>
 
-  Q
-     True. I borrowed this from your stodgy Captain's
-     mind. This is dressing for a game that we will
-     play. Now games require rules and rewards and
-     dangers and familiar settings. That sort of thing.
+<tr id="L82"><td><a href="#L82">82</a></td><td>Q:  Game penalty!</td></tr>
 
-  RIKER
-     This isn't that familiar to me. Data?
+<tr id="L83"><td><a href="#L83">83</a></td><td>ANNOTATION: Tasha vanishes</td></tr>
 
-  DATA
-     This is from Europe's Napoleonic era, sir. Late
-     eighteenth, early nineteenth centuries. This is a
-     campaign headquarters tent, his uniform is that of
-     a French Army marshal.
+<tr id="L84"><td><a href="#L84">84</a></td><td>RIKER:  Where is she, Q? You can forget your game if</td></tr>
 
-  RIKER
-     And a marshal outranks even an Admiral
+<tr id="L85"><td><a href="#L85">85</a></td><td>Q:  To use a twentieth century term, she's in a penalty box. Where she will remain unharmed unless one of you merits a penalty. Unfortunately, there is only one penalty box. If any of you should be sent there, dear Tasha must give the box up to you.</td></tr>
 
-  Q
-     Well, do you think I would go from a Starfleet
-     Admiral to anything else?
+<tr id="L86"><td><a href="#L86">86</a></td><td>LAFORGE:  And where does she go?</td></tr>
 
-  RIKER
-     Of course you wouldn't. But Napoleonic equipment
-     on an alien planet. One so different it has twin
-     moons?
+<tr id="L87"><td><a href="#L87">87</a></td><td>Q:  Into nothingness. I entreat you to carefully obey the rules of the game. The only one who can destroy your Tasha now is you.</td></tr>
 
-  Q
-     Well, as you said, I'm nothing if not imaginative.
-     And the game should reflect that. Shall it be a
-     test of strength? Meaningless, since you have
-     none. A test of intelligence, then? Equally as
-     meaningless. But it needs risk, something to win
-     and something to lose.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L88"><td><a href="#L88">88</a></td><td>PICARD:  Captain's log</td></tr>
 
-  RIKER
-     If we must play a game, what would we win?
+<tr id="L89"><td><a href="#L89">89</a></td><td>COMPUTER:  Captain's log</td></tr>
 
-  Q
-     The greatest possible future that you can imagine.
-     Which, of course, requires something totally
-     disastrous if you lose. Now the point of this game
-     shall be, can any of you can stay alive?
+<tr id="L90"><td><a href="#L90">90</a></td><td>PICARD:  Damn it. I can't even make a log entry.</td></tr>
 
-  WORF
-     If your game is fair, we will.
+<tr id="L91"><td><a href="#L91">91</a></td><td>TASHA:  I wish I could help you, Captain.</td></tr>
 
-  Q
-     Oh, for shame, Worf. Fairness is such a human
-     concept. Think imaginatively! This game shall in
-     fact be completely unfair.
+<tr id="L92"><td><a href="#L92">92</a></td><td>PICARD:  Where is everyone else?</td></tr>
 
-  TASHA
-     You've gone too far!
+<tr id="L93"><td><a href="#L93">93</a></td><td>TASHA:  Down on some planet.</td></tr>
 
-  Q
-     Game penalty!
+<tr id="L94"><td><a href="#L94">94</a></td><td>PICARD:  Some planet? What are you doing here?</td></tr>
 
-  ANNOTATION
-     Tasha vanishes
+<tr id="L95"><td><a href="#L95">95</a></td><td>TASHA:  Well, I, er. It sounds strange, but I'm in a penalty box.</td></tr>
 
-  RIKER
-     Where is she, Q? You can forget your game if
+<tr id="L96"><td><a href="#L96">96</a></td><td>PICARD:  A penalty box?</td></tr>
 
-  Q
-     To use a twentieth century term, she's in a
-     penalty box. Where she will remain unharmed unless
-     one of you merits a penalty. Unfortunately, there
-     is only one penalty box. If any of you should be
-     sent there, dear Tasha must give the box up to
-     you.
+<tr id="L97"><td><a href="#L97">97</a></td><td>TASHA:  Q's penalty box. It sounds strange, but it definitely isn't. I know that one more penalty by anyone and I'm gone.</td></tr>
 
-  LAFORGE
-     And where does she go?
+<tr id="L98"><td><a href="#L98">98</a></td><td>PICARD:  Gone?</td></tr>
 
-  Q
-     Into nothingness. I entreat you to carefully obey
-     the rules of the game. The only one who can
-     destroy your Tasha now is you.
+<tr id="L99"><td><a href="#L99">99</a></td><td>TASHA:  Yes! I am gone! It is so frustrating to be controlled like this!</td></tr>
 
+<tr id="L100"><td><a href="#L100">100</a></td><td>PICARD:  Lieutenant. Tasha, it's all right.</td></tr>
 
-LOCATION--Bridge
+<tr id="L101"><td><a href="#L101">101</a></td><td>TASHA:  What the hell am I doing? Crying?</td></tr>
 
-  PICARD
-     Captain's log
+<tr id="L102"><td><a href="#L102">102</a></td><td>PICARD:  Don't worry. There's a new ship's standing order on the Bridge. When one is in the penalty box, tears are permitted.</td></tr>
 
-  COMPUTER
-     Captain's log
+<tr id="L103"><td><a href="#L103">103</a></td><td>TASHA:  Captain. Oh, if you weren't a captain.</td></tr>
 
-  PICARD
-     Damn it. I can't even make a log entry.
+<tr id="L104"><td><a href="#L104">104</a></td><td>Q:  Consorting with lower rank females, Captain? Especially ones in penalty boxes? Destructive to discipline, they say. But then again, you're what? You're only human? Penalty over.</td></tr>
 
-  TASHA
-     I wish I could help you, Captain.
+<tr id="L105"><td><a href="#L105">105</a></td><td>PICARD:  A marshal of France? Ridiculous!</td></tr>
 
-  PICARD
-     Where is everyone else?
+<tr id="L106"><td><a href="#L106">106</a></td><td>Q:  One takes what jobs he can get. For example, star log entry, stardate today. This is Q, speaking for Captain Jean-Luc Picard, who we consider too bound by Starfleet customs and traditions to be useful to us. The Enterprise is now helpless, stuck like an Earth insect in amber while its bridge crew plays out a game whose real intent is to test whether the First Officer is worthy of the greatest gift the Q can offer.</td></tr>
 
-  TASHA
-     Down on some planet.
+<tr id="L107"><td><a href="#L107">107</a></td><td>PICARD:  So you're taking on Riker this time. Excellent. He'll defeat you just as I did.</td></tr>
 
-  PICARD
-     Some planet? What are you doing here?
+<tr id="L108"><td><a href="#L108">108</a></td><td>Q:  Shall we wager on that, Captain? Your starship command against?</td></tr>
 
-  TASHA
-     Well, I, er. It sounds strange, but I'm in a
-     penalty box.
+<tr id="L109"><td><a href="#L109">109</a></td><td>PICARD:  Against your keeping out of humanity's path for ever. Done?</td></tr>
 
-  PICARD
-     A penalty box?
+<tr id="L110"><td><a href="#L110">110</a></td><td>Q:  Done! You've already lost, Picard. Riker will be offered something impossible to refuse.</td></tr>
 
-  TASHA
-     Q's penalty box. It sounds strange, but it
-     definitely isn't. I know that one more penalty by
-     anyone and I'm gone.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L111"><td><a href="#L111">111</a></td><td>RIKER:  Geordi, can you see Worf?</td></tr>
 
-  PICARD
-     Gone?
+<tr id="L112"><td><a href="#L112">112</a></td><td>LAFORGE:  I'd see the freckles on his nose if he had them, sir. He's at the third ridge.</td></tr>
 
-  TASHA
-     Yes! I am gone! It is so frustrating to be
-     controlled like this!
+<tr id="L113"><td><a href="#L113">113</a></td><td>DATA:  The third ridge?</td></tr>
 
-  PICARD
-     Lieutenant. Tasha, it's all right.
+<tr id="L114"><td><a href="#L114">114</a></td><td>LAFORGE:  Moving well too. Oh, oh. Good, he sees them.</td></tr>
 
-  TASHA
-     What the hell am I doing? Crying?
+<tr id="L115"><td><a href="#L115">115</a></td><td>ANNOTATION: Them being soldiers in an camp. And they grunt like pigs. Worf runs back</td></tr>
 
-  PICARD
-     Don't worry. There's a new ship's standing order
-     on the Bridge. When one is in the penalty box,
-     tears are permitted.
+<tr><td></td><td>LOCATION--Ready Room</td></tr>
+<tr id="L116"><td><a href="#L116">116</a></td><td>PICARD:  Listen to me, Q. You seem to have some need for humans.</td></tr>
 
-  TASHA
-     Captain. Oh, if you weren't a captain.
+<tr id="L117"><td><a href="#L117">117</a></td><td>Q:  Concern regarding them.</td></tr>
 
-  Q
-     Consorting with lower rank females, Captain?
-     Especially ones in penalty boxes? Destructive to
-     discipline, they say. But then again, you're what?
-     You're only human? Penalty over.
+<tr id="L118"><td><a href="#L118">118</a></td><td>PICARD:  Whatever it is, why do you demonstrate it through this confrontation? Why not a simple, direct explanation, a statement of what you seek? Why these games?</td></tr>
 
-  PICARD
-     A marshal of France? Ridiculous!
+<tr id="L119"><td><a href="#L119">119</a></td><td>Q:  Why these games? Why, the play's the thing. And I'm surprised you have to ask when your human Shakespeare explained it all so well.</td></tr>
 
-  Q
-     One takes what jobs he can get. For example, star
-     log entry, stardate today. This is Q, speaking for
-     Captain Jean-Luc Picard, who we consider too bound
-     by Starfleet customs and traditions to be useful
-     to us. The Enterprise is now helpless, stuck like
-     an Earth insect in amber while its bridge crew
-     plays out a game whose real intent is to test
-     whether the First Officer is worthy of the
-     greatest gift the Q can offer.
+<tr id="L120"><td><a href="#L120">120</a></td><td>PICARD:  So he did, but don't depend too much on any single viewpoint</td></tr>
 
-  PICARD
-     So you're taking on Riker this time. Excellent.
-     He'll defeat you just as I did.
+<tr id="L121"><td><a href="#L121">121</a></td><td>Q:  It's a pity you don't know the content of your own library. Hear this, Picard, and reflect. All the galaxy's a stage.</td></tr>
 
-  Q
-     Shall we wager on that, Captain? Your starship
-     command against?
+<tr id="L122"><td><a href="#L122">122</a></td><td>PICARD:  World, not galaxy. All the world's a stage.</td></tr>
 
-  PICARD
-     Against your keeping out of humanity's path for
-     ever. Done?
+<tr id="L123"><td><a href="#L123">123</a></td><td>Q:  Oh, you know that one? Well, if he were living now he would have said galaxy. How about this? Life is but a walking shadow, a poor player that struts and frets his hour upon the stage and then is heard no more. It is a tale told by an idiot, full of sound and fury, signifying nothing.</td></tr>
 
-  Q
-     Done! You've already lost, Picard. Riker will be
-     offered something impossible to refuse.
+<tr id="L124"><td><a href="#L124">124</a></td><td>PICARD:  I see. So how we respond to a game tells you more about us than our real life, this tale told by an idiot? Interesting, Q.</td></tr>
 
+<tr id="L125"><td><a href="#L125">125</a></td><td>Q:  Oh, thank you very much. I'm glad you enjoyed it. Perhaps maybe a little Hamlet?</td></tr>
 
-LOCATION--Planet surface
+<tr id="L126"><td><a href="#L126">126</a></td><td>PICARD:  Oh, no. I know Hamlet. And what he might said with irony, I say with conviction. What a piece of work is man. How noble in reason. How infinite in faculty. In form, in moving, how express and admirable. In action, how like an angel. In apprehension, how like a god.</td></tr>
 
-  RIKER
-     Geordi, can you see Worf?
+<tr id="L127"><td><a href="#L127">127</a></td><td>Q:  Surely you don't really see your species like that, do you?</td></tr>
 
-  LAFORGE
-     I'd see the freckles on his nose if he had them,
-     sir. He's at the third ridge.
+<tr id="L128"><td><a href="#L128">128</a></td><td>PICARD:  I see us one day becoming that, Q. Is it that what concerns you?</td></tr>
 
-  DATA
-     The third ridge?
+<tr><td></td><td>LOCATION--Planet</td></tr>
+<tr id="L129"><td><a href="#L129">129</a></td><td>LAFORGE:  Those soldiers have formed a skirmishing line, I think you'd call it, and they're headed this way.</td></tr>
 
-  LAFORGE
-     Moving well too. Oh, oh. Good, he sees them.
+<tr id="L130"><td><a href="#L130">130</a></td><td>RIKER:  Armed with ancient ball and powder muskets?</td></tr>
 
-  ANNOTATION
-     Them being soldiers in an camp. And they grunt
-     like pigs. Worf runs back
+<tr id="L131"><td><a href="#L131">131</a></td><td>LAFORGE:  That's what their weapons look like, sir.</td></tr>
 
+<tr id="L132"><td><a href="#L132">132</a></td><td>DATA:  Muskets are appropriate to the 1790 to 1800 French army uniform, sir. But it is hardly a weapon by our standards. A lead ball propelled by gunpowder. One hundred metres at best with any accuracy.</td></tr>
 
-LOCATION--Ready Room
+<tr id="L133"><td><a href="#L133">133</a></td><td>LAFORGE:  Yeah, but against phasers? Just one of our hand phasers could finish off an entire regiment.</td></tr>
 
-  PICARD
-     Listen to me, Q. You seem to have some need for
-     humans.
+<tr id="L134"><td><a href="#L134">134</a></td><td>RIKER:  Except for one thing. It hardly sounds like Q to give us an advantage like that. Unless.</td></tr>
 
-  Q
-     Concern regarding them.
+<tr id="L135"><td><a href="#L135">135</a></td><td>ANNOTATION: He does a test firing. A rock blows up most satisfactorily</td></tr>
 
-  PICARD
-     Whatever it is, why do you demonstrate it through
-     this confrontation? Why not a simple, direct
-     explanation, a statement of what you seek? Why
-     these games?
+<tr id="L136"><td><a href="#L136">136</a></td><td>WORF:  Drop your weapons!</td></tr>
 
-  Q
-     Why these games? Why, the play's the thing. And
-     I'm surprised you have to ask when your human
-     Shakespeare explained it all so well.
+<tr id="L137"><td><a href="#L137">137</a></td><td>RIKER:  I'm afraid that was me, Worf. I was checking to see if the phasers still operate.</td></tr>
 
-  PICARD
-     So he did, but don't depend too much on any single
-     viewpoint
+<tr id="L138"><td><a href="#L138">138</a></td><td>LAFORGE:  Incredible, Worf! You came out of nowhere.</td></tr>
 
-  Q
-     It's a pity you don't know the content of your own
-     library. Hear this, Picard, and reflect. All the
-     galaxy's a stage.
+<tr id="L139"><td><a href="#L139">139</a></td><td>WORF:  A warrior's reaction.</td></tr>
 
-  PICARD
-     World, not galaxy. All the world's a stage.
+<tr id="L140"><td><a href="#L140">140</a></td><td>RIKER:  Report. What did you find?</td></tr>
 
-  Q
-     Oh, you know that one? Well, if he were living now
-     he would have said galaxy. How about this? Life is
-     but a walking shadow, a poor player that struts
-     and frets his hour upon the stage and then is
-     heard no more. It is a tale told by an idiot, full
-     of sound and fury, signifying nothing.
+<tr id="L141"><td><a href="#L141">141</a></td><td>WORF:  Sir, what they're wearing may be old Earth uniforms, but what's inside of them isn't human at all. More like vicious animal things.</td></tr>
 
-  PICARD
-     I see. So how we respond to a game tells you more
-     about us than our real life, this tale told by an
-     idiot? Interesting, Q.
+<tr id="L142"><td><a href="#L142">142</a></td><td>ANNOTATION: And here they come</td></tr>
 
-  Q
-     Oh, thank you very much. I'm glad you enjoyed it.
-     Perhaps maybe a little Hamlet?
+<tr id="L143"><td><a href="#L143">143</a></td><td>LAFORGE:  Those soldiers are moving in fast, sir.</td></tr>
 
-  PICARD
-     Oh, no. I know Hamlet. And what he might said with
-     irony, I say with conviction. What a piece of work
-     is man. How noble in reason. How infinite in
-     faculty. In form, in moving, how express and
-     admirable. In action, how like an angel. In
-     apprehension, how like a god.
+<tr id="L144"><td><a href="#L144">144</a></td><td>RIKER:  Data, if you've got a theory about what's happening?</td></tr>
 
-  Q
-     Surely you don't really see your species like
-     that, do you?
+<tr id="L145"><td><a href="#L145">145</a></td><td>ANNOTATION: But it's not Data, it's Q made up to look like him</td></tr>
 
-  PICARD
-     I see us one day becoming that, Q. Is it that what
-     concerns you?
+<tr id="L146"><td><a href="#L146">146</a></td><td>Q (DATA):  Think fast, Commander Riker, and move fast.</td></tr>
 
+<tr id="L147"><td><a href="#L147">147</a></td><td>ANNOTATION: One of the soldiers fires. An energy bolt comes from the musket</td></tr>
 
-LOCATION--Planet
+<tr id="L148"><td><a href="#L148">148</a></td><td>RIKER:  Those aren't muskets.</td></tr>
 
-  LAFORGE
-     Those soldiers have formed a skirmishing line, I
-     think you'd call it, and they're headed this way.
+<tr id="L149"><td><a href="#L149">149</a></td><td>ANNOTATION: He vapourises two soldiers</td></tr>
 
-  RIKER
-     Armed with ancient ball and powder muskets?
+<tr id="L150"><td><a href="#L150">150</a></td><td>Q (DATA):  You have only one chance to save them now. Send them back to the ship.</td></tr>
 
-  LAFORGE
-     That's what their weapons look like, sir.
+<tr id="L151"><td><a href="#L151">151</a></td><td>RIKER:  You'll let me beam them?</td></tr>
 
-  DATA
-     Muskets are appropriate to the 1790 to 1800 French
-     army uniform, sir. But it is hardly a weapon by
-     our standards. A lead ball propelled by gunpowder.
-     One hundred metres at best with any accuracy.
+<tr id="L152"><td><a href="#L152">152</a></td><td>Q (DATA):  Send them the same way as I do. I've given you that power. Do you understand? I have given you the power of the Q. Use it.</td></tr>
 
-  LAFORGE
-     Yeah, but against phasers? Just one of our hand
-     phasers could finish off an entire regiment.
+<tr id="L153"><td><a href="#L153">153</a></td><td>ANNOTATION: Q vanishes</td></tr>
 
-  RIKER
-     Except for one thing. It hardly sounds like Q to
-     give us an advantage like that. Unless.
+<tr id="L154"><td><a href="#L154">154</a></td><td>Q [OC]:  Use your power.</td></tr>
 
-  ANNOTATION
-     He does a test firing. A rock blows up most
-     satisfactorily
+<tr id="L155"><td><a href="#L155">155</a></td><td>ANNOTATION: The real Data reappears</td></tr>
 
-  WORF
-     Drop your weapons!
+<tr id="L156"><td><a href="#L156">156</a></td><td>Q [OC]:  Use your power.</td></tr>
 
-  RIKER
-     I'm afraid that was me, Worf. I was checking to
-     see if the phasers still operate.
+<tr id="L157"><td><a href="#L157">157</a></td><td>ANNOTATION: Riker holds up his hand and beams Worf, Data and Geordi away</td></tr>
 
-  LAFORGE
-     Incredible, Worf! You came out of nowhere.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L158"><td><a href="#L158">158</a></td><td>ANNOTATION: The forcefield vanishes while Tasha is sitting alone on the Bridge. Everything comes back to life and Picard comes out of the Ready room</td></tr>
 
-  WORF
-     A warrior's reaction.
+<tr id="L159"><td><a href="#L159">159</a></td><td>PICARD:  Lieutenant, take the conn position. Engineering, this is the Bridge.</td></tr>
 
-  RIKER
-     Report. What did you find?
+<tr id="L160"><td><a href="#L160">160</a></td><td>CREWMAN [OC]:  Engineering here, sir.</td></tr>
 
-  WORF
-     Sir, what they're wearing may be old Earth
-     uniforms, but what's inside of them isn't human at
-     all. More like vicious animal things.
+<tr id="L161"><td><a href="#L161">161</a></td><td>PICARD:  Engineering, are all systems back online?</td></tr>
 
-  ANNOTATION
-     And here they come
+<tr id="L162"><td><a href="#L162">162</a></td><td>CREWMAN [OC]:  Back online, sir? They were never off.</td></tr>
 
-  LAFORGE
-     Those soldiers are moving in fast, sir.
+<tr id="L163"><td><a href="#L163">163</a></td><td>TASHA:  Captain, you'd better look at this. There's been no interruption in course or speed. Both have remained constant. It's as though we never stopped.</td></tr>
 
-  RIKER
-     Data, if you've got a theory about what's
-     happening?
+<tr id="L164"><td><a href="#L164">164</a></td><td>PICARD:  We never did, Lieutenant. Q suspended time.</td></tr>
 
-  ANNOTATION
-     But it's not Data, it's Q made up to look like him
+<tr id="L165"><td><a href="#L165">165</a></td><td>ANNOTATION: Worf, Data and Geordi appear</td></tr>
 
-  Q (DATA)
-     Think fast, Commander Riker, and move fast.
+<tr id="L166"><td><a href="#L166">166</a></td><td>TASHA:  Where's Commander Riker?</td></tr>
 
-  ANNOTATION
-     One of the soldiers fires. An energy bolt comes
-     from the musket
+<tr id="L167"><td><a href="#L167">167</a></td><td>WORF:  He was with us.</td></tr>
 
-  RIKER
-     Those aren't muskets.
+<tr id="L168"><td><a href="#L168">168</a></td><td>LAFORGE:  He must still be on the planet. We were under attack by these, these animal things.</td></tr>
 
-  ANNOTATION
-     He vapourises two soldiers
+<tr id="L169"><td><a href="#L169">169</a></td><td>PICARD:  Animal things?</td></tr>
 
-  Q (DATA)
-     You have only one chance to save them now. Send
-     them back to the ship.
+<tr id="L170"><td><a href="#L170">170</a></td><td>LAFORGE:  Well, maybe Data could explain better, sir.</td></tr>
 
-  RIKER
-     You'll let me beam them?
+<tr id="L171"><td><a href="#L171">171</a></td><td>DATA:  You may find it aesthetically displeasing, sir. I could just file a computer report on that.</td></tr>
 
-  Q (DATA)
-     Send them the same way as I do. I've given you
-     that power. Do you understand? I have given you
-     the power of the Q. Use it.
+<tr id="L172"><td><a href="#L172">172</a></td><td>PICARD:  Data!</td></tr>
 
-  ANNOTATION
-     Q vanishes
+<tr id="L173"><td><a href="#L173">173</a></td><td>TASHA:  Sir, the important thing right now is why is Commander Riker missing?</td></tr>
 
-  Q [OC]
-     Use your power.
+<tr id="L174"><td><a href="#L174">174</a></td><td>PICARD:  Understood, Lieutenant, but I suspect that Commander Riker is probably perfectly safe, at least in a physical sense. Q has an interest in him. In fact, Q's entire visit has something to do with our First Officer.</td></tr>
 
-  ANNOTATION
-     The real Data reappears
+<tr id="L175"><td><a href="#L175">175</a></td><td>DATA:  And the reason for that, sir?</td></tr>
 
-  Q [OC]
-     Use your power.
+<tr id="L176"><td><a href="#L176">176</a></td><td>PICARD:  I wish I knew. Q first became interested in him at Farpoint. I have no idea what it means. Meanwhile, we must proceed with our rescue mission.</td></tr>
 
-  ANNOTATION
-     Riker holds up his hand and beams Worf, Data and
-     Geordi away
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L177"><td><a href="#L177">177</a></td><td>ANNOTATION: Riker is sitting on a rock, laughing</td></tr>
 
+<tr id="L178"><td><a href="#L178">178</a></td><td>Q:  Something amuses you? Perhaps you'll share the joke with me?</td></tr>
 
-LOCATION--Bridge
+<tr id="L179"><td><a href="#L179">179</a></td><td>RIKER:  The joke is you.</td></tr>
 
-  ANNOTATION
-     The forcefield vanishes while Tasha is sitting
-     alone on the Bridge. Everything comes back to life
-     and Picard comes out of the Ready room
+<tr id="L180"><td><a href="#L180">180</a></td><td>Q:  Strange gratitude, from one who has been granted a gift beyond any human dream. How can you not appreciate being able to send your friends back to their ship, or sending the soldiers back to the nothingness from which they came? Certainly, you must understand that at this moment you can send yourself back to the ship or to Earth, or change your shape and become anything else you want to be.</td></tr>
 
-  PICARD
-     Lieutenant, take the conn position. Engineering,
-     this is the Bridge.
+<tr id="L181"><td><a href="#L181">181</a></td><td>RIKER:  What do you need, Q?</td></tr>
 
-  CREWMAN [OC]
-     Engineering here, sir.
+<tr id="L182"><td><a href="#L182">182</a></td><td>Q:  Need?</td></tr>
 
-  PICARD
-     Engineering, are all systems back online?
+<tr id="L183"><td><a href="#L183">183</a></td><td>RIKER:  You want something from us, desperately. What is it?</td></tr>
 
-  CREWMAN [OC]
-     Back online, sir? They were never off.
+<tr id="L184"><td><a href="#L184">184</a></td><td>Q:  Want something from you foolish, fragile, non-entities? Oh come, Riker. You're beginning to sound like your Captain.</td></tr>
 
-  TASHA
-     Captain, you'd better look at this. There's been
-     no interruption in course or speed. Both have
-     remained constant. It's as though we never
-     stopped.
+<tr id="L185"><td><a href="#L185">185</a></td><td>RIKER:  Now that's a compliment, Q. But that's not an answer.</td></tr>
 
-  PICARD
-     We never did, Lieutenant. Q suspended time.
+<tr id="L186"><td><a href="#L186">186</a></td><td>Q:  Riker, we have offered you a gift beyond all other gifts!</td></tr>
 
-  ANNOTATION
-     Worf, Data and Geordi appear
+<tr id="L187"><td><a href="#L187">187</a></td><td>RIKER:  Out of the goodness of your heart.</td></tr>
 
-  TASHA
-     Where's Commander Riker?
+<tr id="L188"><td><a href="#L188">188</a></td><td>Q:  After Farpoint, I returned to where we exist. The Q Continuum.</td></tr>
 
-  WORF
-     He was with us.
+<tr id="L189"><td><a href="#L189">189</a></td><td>RIKER:  Which means exactly what?</td></tr>
 
-  LAFORGE
-     He must still be on the planet. We were under
-     attack by these, these animal things.
+<tr id="L190"><td><a href="#L190">190</a></td><td>Q:  The limitless dimensions of the galaxy in which we exist.</td></tr>
 
-  PICARD
-     Animal things?
+<tr id="L191"><td><a href="#L191">191</a></td><td>RIKER:  I don't understand.</td></tr>
 
-  LAFORGE
-     Well, maybe Data could explain better, sir.
+<tr id="L192"><td><a href="#L192">192</a></td><td>Q:  Of course you don't, and you never will until you become one of us.</td></tr>
 
-  DATA
-     You may find it aesthetically displeasing, sir. I
-     could just file a computer report on that.
+<tr id="L193"><td><a href="#L193">193</a></td><td>RIKER:  Until? Would you mind going over that again?</td></tr>
 
-  PICARD
-     Data!
+<tr id="L194"><td><a href="#L194">194</a></td><td>Q:  Well if you'll stop interrupting me. This is hardly a time to be teaching you the true nature of the universe. However, at Farpoint we saw you as savages only. We discovered instead that you are unusual creatures in your own limited ways. Ways which in time will not be so limited.</td></tr>
 
-  TASHA
-     Sir, the important thing right now is why is
-     Commander Riker missing?
+<tr id="L195"><td><a href="#L195">195</a></td><td>RIKER:  We're growing. Something about us compels us to learn, explore.</td></tr>
 
-  PICARD
-     Understood, Lieutenant, but I suspect that
-     Commander Riker is probably perfectly safe, at
-     least in a physical sense. Q has an interest in
-     him. In fact, Q's entire visit has something to do
-     with our First Officer.
+<tr id="L196"><td><a href="#L196">196</a></td><td>Q:  Yes, the human compulsion. And unfortunately for us, it is a power which will grow stronger century after century, aeon after aeon.</td></tr>
 
-  DATA
-     And the reason for that, sir?
+<tr id="L197"><td><a href="#L197">197</a></td><td>RIKER:  Aeons. Have you any idea how far we'll advance?</td></tr>
 
-  PICARD
-     I wish I knew. Q first became interested in him at
-     Farpoint. I have no idea what it means. Meanwhile,
-     we must proceed with our rescue mission.
+<tr id="L198"><td><a href="#L198">198</a></td><td>Q:  Perhaps in a future that you cannot yet conceive, even beyond us. So you see, we must know more about this human condition. That's why we've selected you, Riker, to become part of the Q, so that you can bring to us this human need and hunger, that we may understand it.</td></tr>
 
+<tr id="L199"><td><a href="#L199">199</a></td><td>RIKER:  I suppose you mean that as a compliment, Q. Or maybe it's my limited mind. But to become a part of you? I don't even like you.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L200"><td><a href="#L200">200</a></td><td>Q:  You're going to miss me!</td></tr>
 
-  ANNOTATION
-     Riker is sitting on a rock, laughing
+<tr id="L201"><td><a href="#L201">201</a></td><td>ANNOTATION: Q vanishes and the Bridge crew appear</td></tr>
 
-  Q
-     Something amuses you? Perhaps you'll share the
-     joke with me?
+<tr id="L202"><td><a href="#L202">202</a></td><td>LAFORGE:  Come on, not again!</td></tr>
 
-  RIKER
-     The joke is you.
+<tr id="L203"><td><a href="#L203">203</a></td><td>WESLEY:  Commander Riker, what's going on? I was sitting in school and</td></tr>
 
-  Q
-     Strange gratitude, from one who has been granted a
-     gift beyond any human dream. How can you not
-     appreciate being able to send your friends back to
-     their ship, or sending the soldiers back to the
-     nothingness from which they came? Certainly, you
-     must understand that at this moment you can send
-     yourself back to the ship or to Earth, or change
-     your shape and become anything else you want to
-     be.
+<tr id="L204"><td><a href="#L204">204</a></td><td>TASHA:  Worf, my phaser's gone. Are you armed?</td></tr>
 
-  RIKER
-     What do you need, Q?
+<tr id="L205"><td><a href="#L205">205</a></td><td>WORF:  No.</td></tr>
 
-  Q
-     Need?
+<tr id="L206"><td><a href="#L206">206</a></td><td>ANNOTATION: The animal solders advance</td></tr>
 
-  RIKER
-     You want something from us, desperately. What is
-     it?
+<tr id="L207"><td><a href="#L207">207</a></td><td>PICARD:  Where is Q? If you have any answer to any of this?</td></tr>
 
-  Q
-     Want something from you foolish, fragile,
-     non-entities? Oh come, Riker. You're beginning to
-     sound like your Captain.
+<tr id="L208"><td><a href="#L208">208</a></td><td>ANNOTATION: Worf charges to meet their enemy. He knocks two down before being bayoneted in the stomach</td></tr>
 
-  RIKER
-     Now that's a compliment, Q. But that's not an
-     answer.
+<tr id="L209"><td><a href="#L209">209</a></td><td>WESLEY:  Worf!</td></tr>
 
-  Q
-     Riker, we have offered you a gift beyond all other
-     gifts!
+<tr id="L210"><td><a href="#L210">210</a></td><td>ANNOTATION: He dashes to Worf</td></tr>
 
-  RIKER
-     Out of the goodness of your heart.
+<tr id="L211"><td><a href="#L211">211</a></td><td>RIKER:  Look out!</td></tr>
 
-  Q
-     After Farpoint, I returned to where we exist. The
-     Q Continuum.
+<tr id="L212"><td><a href="#L212">212</a></td><td>PICARD:  Wesley, no!</td></tr>
 
-  RIKER
-     Which means exactly what?
+<tr id="L213"><td><a href="#L213">213</a></td><td>ANNOTATION: Wesley gets bayoneted from behind. I confess, I cheered</td></tr>
 
-  Q
-     The limitless dimensions of the galaxy in which we
-     exist.
+<tr id="L214"><td><a href="#L214">214</a></td><td>RIKER:  Wesley!</td></tr>
 
-  RIKER
-     I don't understand.
+<tr id="L215"><td><a href="#L215">215</a></td><td>PICARD:  Wesley!</td></tr>
 
-  Q
-     Of course you don't, and you never will until you
-     become one of us.
+<tr id="L216"><td><a href="#L216">216</a></td><td>RIKER:  No! Damn it! Damn it to hell!</td></tr>
 
-  RIKER
-     Until? Would you mind going over that again?
+<tr id="L217"><td><a href="#L217">217</a></td><td>ANNOTATION: Riker throws up a Q forcefield in front of the soldiers</td></tr>
 
-  Q
-     Well if you'll stop interrupting me. This is
-     hardly a time to be teaching you the true nature
-     of the universe. However, at Farpoint we saw you
-     as savages only. We discovered instead that you
-     are unusual creatures in your own limited ways.
-     Ways which in time will not be so limited.
+<tr id="L218"><td><a href="#L218">218</a></td><td>PICARD:  Riker. You! You did that!</td></tr>
 
-  RIKER
-     We're growing. Something about us compels us to
-     learn, explore.
+<tr id="L219"><td><a href="#L219">219</a></td><td>RIKER:  And that's not all!</td></tr>
 
-  Q
-     Yes, the human compulsion. And unfortunately for
-     us, it is a power which will grow stronger century
-     after century, aeon after aeon.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L220"><td><a href="#L220">220</a></td><td>ANNOTATION: They are all back on the Bridge, alive and well, including Wesley - sob</td></tr>
 
-  RIKER
-     Aeons. Have you any idea how far we'll advance?
+<tr id="L221"><td><a href="#L221">221</a></td><td>PICARD:  That grid, their wounds. Only the Q can do that.</td></tr>
 
-  Q
-     Perhaps in a future that you cannot yet conceive,
-     even beyond us. So you see, we must know more
-     about this human condition. That's why we've
-     selected you, Riker, to become part of the Q, so
-     that you can bring to us this human need and
-     hunger, that we may understand it.
+<tr id="L222"><td><a href="#L222">222</a></td><td>SOMEONE: Captain's log, stardate 41591.4. Twelve minutes out from Quadra Sigma Three where the survivors of an underground disaster desperately need our help. Aboard the Enterprise, First Officer William T. Riker needs help nearly as badly. But this is a subject far out of my experience. Out of any human's experience.</td></tr>
 
-  RIKER
-     I suppose you mean that as a compliment, Q. Or
-     maybe it's my limited mind. But to become a part
-     of you? I don't even like you.
+<tr><td></td><td>LOCATION--Ready Room</td></tr>
+<tr id="L223"><td><a href="#L223">223</a></td><td>PICARD:  Will. How the hell do I advise you? You know the implications as well as I.</td></tr>
 
-  Q
-     You're going to miss me!
+<tr id="L224"><td><a href="#L224">224</a></td><td>RIKER:  No one has ever offered to turn me into a god before.</td></tr>
 
-  ANNOTATION
-     Q vanishes and the Bridge crew appear
+<tr id="L225"><td><a href="#L225">225</a></td><td>PICARD:  What the Q has offered you has got to be close to immortality, Will. They're not lying about controlling space and time. We've seen it in what they can do.</td></tr>
 
-  LAFORGE
-     Come on, not again!
+<tr id="L226"><td><a href="#L226">226</a></td><td>RIKER:  You've also seen it in what I can do.</td></tr>
 
-  WESLEY
-     Commander Riker, what's going on? I was sitting in
-     school and
+<tr id="L227"><td><a href="#L227">227</a></td><td>PICARD:  If you are going to refuse his offer, you must not allow yourself to use this power again. It's too great a temptation for us at our present stage of development.</td></tr>
 
-  TASHA
-     Worf, my phaser's gone. Are you armed?
+<tr id="L228"><td><a href="#L228">228</a></td><td>RIKER:  Are you worried that I won't be able to say no to it?</td></tr>
 
-  WORF
-     No.
+<tr id="L229"><td><a href="#L229">229</a></td><td>PICARD:  You tell me. Are you strong enough to refuse to use that power.</td></tr>
 
-  ANNOTATION
-     The animal solders advance
+<tr id="L230"><td><a href="#L230">230</a></td><td>RIKER:  Certainly.</td></tr>
 
-  PICARD
-     Where is Q? If you have any answer to any of this?
+<tr id="L231"><td><a href="#L231">231</a></td><td>PICARD:  No matter how tempted? No matter how difficult Q makes it for you?</td></tr>
 
-  ANNOTATION
-     Worf charges to meet their enemy. He knocks two
-     down before being bayoneted in the stomach
+<tr id="L232"><td><a href="#L232">232</a></td><td>RIKER:  You have my word.</td></tr>
 
-  WESLEY
-     Worf!
+<tr id="L233"><td><a href="#L233">233</a></td><td>PICARD:  Good. I know what your word means.</td></tr>
 
-  ANNOTATION
-     He dashes to Worf
+<tr id="L234"><td><a href="#L234">234</a></td><td>DATA [OC]:  In orbit of Quadra Sigma Three, sir. Ready to beam down rescue team to underground emergency area.</td></tr>
 
-  RIKER
-     Look out!
+<tr><td></td><td>LOCATION--Disaster Area</td></tr>
+<tr id="L235"><td><a href="#L235">235</a></td><td>DATA:  This way sir.</td></tr>
 
-  PICARD
-     Wesley, no!
+<tr id="L236"><td><a href="#L236">236</a></td><td>ANNOTATION: Data forces open a jammed door and they enter a room with some water on the floor and people groaning. Crusher and her medics start tending to them</td></tr>
 
-  ANNOTATION
-     Wesley gets bayoneted from behind. I confess, I
-     cheered
+<tr id="L237"><td><a href="#L237">237</a></td><td>RIKER:  Are there any others?</td></tr>
 
-  RIKER
-     Wesley!
+<tr id="L238"><td><a href="#L238">238</a></td><td>WOMAN:  Gone. It's just us.</td></tr>
 
-  PICARD
-     Wesley!
+<tr id="L239"><td><a href="#L239">239</a></td><td>LAFORGE:  Commander. (by a rock fall) There's someone under here.</td></tr>
 
-  RIKER
-     No! Damn it! Damn it to hell!
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: Data tosses rocks as if they were made of polystyrene, which they are</td></tr>
 
-  ANNOTATION
-     Riker throws up a Q forcefield in front of the
-     soldiers
+<tr id="L241"><td><a href="#L241">241</a></td><td>LAFORGE:  You're getting close, Data.</td></tr>
 
-  PICARD
-     Riker. You! You did that!
+<tr id="L242"><td><a href="#L242">242</a></td><td>ANNOTATION: Data uncovers a little girl, and lifts her out. Check the number on the pipe on the wall</td></tr>
 
-  RIKER
-     And that's not all!
+<tr id="L243"><td><a href="#L243">243</a></td><td>CRUSHER:  It's too late. She's dead. If only we'd gotten here a little sooner.</td></tr>
 
+<tr id="L244"><td><a href="#L244">244</a></td><td>DATA:  Sir, if indeed you have the power of Q.</td></tr>
 
-LOCATION--Bridge
+<tr id="L245"><td><a href="#L245">245</a></td><td>CRUSHER:  I don't understand. Certainly you can't bring her back to life.</td></tr>
 
-  ANNOTATION
-     They are all back on the Bridge, alive and well,
-     including Wesley - sob
+<tr id="L246"><td><a href="#L246">246</a></td><td>RIKER:  I can't. I'm prevented from that by a promise.</td></tr>
 
-  PICARD
-     That grid, their wounds. Only the Q can do that.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L247"><td><a href="#L247">247</a></td><td>RIKER:  I should never have made that agreement with you. I could have saved that child.</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 41591.4. Twelve minutes
-     out from Quadra Sigma Three where the survivors of
-     an underground disaster desperately need our help.
-     Aboard the Enterprise, First Officer William T.
-     Riker needs help nearly as badly. But this is a
-     subject far out of my experience. Out of any
-     human's experience.
+<tr id="L248"><td><a href="#L248">248</a></td><td>PICARD:  You were right not to try. Once you became accustomed to that power, Number One.</td></tr>
 
+<tr id="L249"><td><a href="#L249">249</a></td><td>RIKER:  When I used it before, what happened? I saved most of our Bridge crew.</td></tr>
 
-LOCATION--Ready Room
+<tr id="L250"><td><a href="#L250">250</a></td><td>PICARD:  And when you grow to like it too much?</td></tr>
 
-  PICARD
-     Will. How the hell do I advise you? You know the
-     implications as well as I.
+<tr id="L251"><td><a href="#L251">251</a></td><td>RIKER:  As soon as it's convenient Captain, I want a meeting with you and your Bridge staff.</td></tr>
 
-  RIKER
-     No one has ever offered to turn me into a god
-     before.
+<tr id="L252"><td><a href="#L252">252</a></td><td>PICARD:  As soon as we are secure of this rescue operation, I'll discuss all of this new power</td></tr>
 
-  PICARD
-     What the Q has offered you has got to be close to
-     immortality, Will. They're not lying about
-     controlling space and time. We've seen it in what
-     they can do.
+<tr id="L253"><td><a href="#L253">253</a></td><td>ANNOTATION: But Riker has already gone to the turbolift</td></tr>
 
-  RIKER
-     You've also seen it in what I can do.
+<tr id="L254"><td><a href="#L254">254</a></td><td>ANNOTATION: Later, Riker returns</td></tr>
 
-  PICARD
-     If you are going to refuse his offer, you must not
-     allow yourself to use this power again. It's too
-     great a temptation for us at our present stage of
-     development.
+<tr id="L255"><td><a href="#L255">255</a></td><td>PICARD:  We can confer here on the Bridge, if no one has any objections.</td></tr>
 
-  RIKER
-     Are you worried that I won't be able to say no to
-     it?
+<tr id="L256"><td><a href="#L256">256</a></td><td>RIKER:  The Bridge will be fine, since I've called the entire staff.</td></tr>
 
-  PICARD
-     You tell me. Are you strong enough to refuse to
-     use that power.
+<tr id="L257"><td><a href="#L257">257</a></td><td>PICARD:  Correction, Number One. Knowing the decision you face, I have permitted you this gathering.</td></tr>
 
-  RIKER
-     Certainly.
+<tr id="L258"><td><a href="#L258">258</a></td><td>RIKER:  Of course, Jean-Luc.</td></tr>
 
-  PICARD
-     No matter how tempted? No matter how difficult Q
-     makes it for you?
+<tr id="L259"><td><a href="#L259">259</a></td><td>ANNOTATION: Crusher and Wesley enter</td></tr>
 
-  RIKER
-     You have my word.
+<tr id="L260"><td><a href="#L260">260</a></td><td>RIKER:  Wesley, this meeting is not for you.</td></tr>
 
-  PICARD
-     Good. I know what your word means.
+<tr id="L261"><td><a href="#L261">261</a></td><td>WESLEY:  Why not, sir? You helped make me a Bridge officer. Acting Ensign.</td></tr>
 
-  DATA [OC]
-     In orbit of Quadra Sigma Three, sir. Ready to beam
-     down rescue team to underground emergency area.
+<tr id="L262"><td><a href="#L262">262</a></td><td>RIKER:  All right, he stays. Because I've been given unusual powers, I am not suddenly a monster. Except for these abilities, and I don't yet know how far they go, I'm the same William T. Riker you've always known. Well? Everyone still looks uncomfortable.</td></tr>
 
+<tr id="L263"><td><a href="#L263">263</a></td><td>PICARD:  Perhaps they're all remembering that old saying. Power corrupts.</td></tr>
 
-LOCATION--Disaster Area
+<tr id="L264"><td><a href="#L264">264</a></td><td>RIKER:  And absolute power corrupts absolutely. Do you believe I haven't thought of that, Jean-Luc?</td></tr>
 
-  DATA
-     This way sir.
+<tr id="L265"><td><a href="#L265">265</a></td><td>PICARD:  And have you noticed how you and I are now on a first name basis? Number One, Will, something has happened already.</td></tr>
 
-  ANNOTATION
-     Data forces open a jammed door and they enter a
-     room with some water on the floor and people
-     groaning. Crusher and her medics start tending to
-     them
+<tr id="L266"><td><a href="#L266">266</a></td><td>RIKER:  In what way? Haven't you seen how much I regretted not saving that child? Using the Q power to save her may not have been wrong. No more than it was wrong to save the rest of you from those soldier things.</td></tr>
 
-  RIKER
-     Are there any others?
+<tr id="L267"><td><a href="#L267">267</a></td><td>PICARD:  Let's keep in mind that that particular danger was invented by Q.</td></tr>
 
-  WOMAN
-     Gone. It's just us.
+<tr id="L268"><td><a href="#L268">268</a></td><td>TASHA:  What we represent to the Q, Commander, are lowly animals, tormented into performing for their amusement.</td></tr>
 
-  LAFORGE
-     Commander. (by a rock fall) There's someone under
-     here.
+<tr id="L269"><td><a href="#L269">269</a></td><td>RIKER:  Actually, they think highly of us, Tasha. We have a quality of growth which they admire.</td></tr>
 
-  ANNOTATION
-     Data tosses rocks as if they were made of
-     polystyrene, which they are
+<tr id="L270"><td><a href="#L270">270</a></td><td>LAFORGE:  Or fear.</td></tr>
 
-  LAFORGE
-     You're getting close, Data.
+<tr id="L271"><td><a href="#L271">271</a></td><td>PICARD:  No, we've learned the Q do not admire us. The Q has muddled your mind.</td></tr>
 
-  ANNOTATION
-     Data uncovers a little girl, and lifts her out.
-     Check the number on the pipe on the wall
+<tr id="L272"><td><a href="#L272">272</a></td><td>RIKER:  Don't you understand his incredible gift to me?</td></tr>
 
-  CRUSHER
-     It's too late. She's dead. If only we'd gotten
-     here a little sooner.
+<tr id="L273"><td><a href="#L273">273</a></td><td>Q:  Are these truly your friends, brother?</td></tr>
 
-  DATA
-     Sir, if indeed you have the power of Q.
+<tr id="L274"><td><a href="#L274">274</a></td><td>ANNOTATION: Everyone turns to see Q in a monk's habit</td></tr>
 
-  CRUSHER
-     I don't understand. Certainly you can't bring her
-     back to life.
+<tr id="L275"><td><a href="#L275">275</a></td><td>Q:  Let us pray. For understanding and for compassion.</td></tr>
 
-  RIKER
-     I can't. I'm prevented from that by a promise.
+<tr id="L276"><td><a href="#L276">276</a></td><td>PICARD:  Let us do no such damned thing! What is this need of yours for costumes, Q? Have you no identity of your own?</td></tr>
 
+<tr id="L277"><td><a href="#L277">277</a></td><td>Q:  I come in search of the truth.</td></tr>
 
-LOCATION--Bridge
+<tr id="L278"><td><a href="#L278">278</a></td><td>PICARD:  You come in search of what humanity is!</td></tr>
 
-  RIKER
-     I should never have made that agreement with you.
-     I could have saved that child.
+<tr id="L279"><td><a href="#L279">279</a></td><td>Q:  I forgive your blasphemy.</td></tr>
 
-  PICARD
-     You were right not to try. Once you became
-     accustomed to that power, Number One.
+<tr id="L280"><td><a href="#L280">280</a></td><td>PICARD:  Don't you see, Riker? He's nothing but a flim-flam man! He's been that ever since we first met him at Farpoint.</td></tr>
 
-  RIKER
-     When I used it before, what happened? I saved most
-     of our Bridge crew.
+<tr id="L281"><td><a href="#L281">281</a></td><td>WORF:  Flim-flam?</td></tr>
 
-  PICARD
-     And when you grow to like it too much?
+<tr id="L282"><td><a href="#L282">282</a></td><td>Q:  You offer Riker jealousy. What I offer him is clearly beyond your comprehension. How can you claim friendship for Riker while obstructing his way to the greatest adventure ever offered a human?</td></tr>
 
-  RIKER
-     As soon as it's convenient Captain, I want a
-     meeting with you and your Bridge staff.
+<tr id="L283"><td><a href="#L283">283</a></td><td>PICARD:  Obstructing him? Then it's not yet certain. He's not yet committed.</td></tr>
 
-  PICARD
-     As soon as we are secure of this rescue operation,
-     I'll discuss all of this new power
+<tr id="L284"><td><a href="#L284">284</a></td><td>Q:  The truly evil part of this, Captain, is your jealousy. (to Riker) You love each one of your people. Demonstrate it. You have the power to leave each of them with a gift proving your affection.</td></tr>
 
-  ANNOTATION
-     But Riker has already gone to the turbolift
+<tr id="L285"><td><a href="#L285">285</a></td><td>RIKER:  There'd be no harm, would there, if I gave them something I know they'd like?</td></tr>
 
-  ANNOTATION
-     Later, Riker returns
+<tr id="L286"><td><a href="#L286">286</a></td><td>Q:  How touching. A plea to his former Captain. May I please give some happiness to my friends, sir? Please sir?</td></tr>
 
-  PICARD
-     We can confer here on the Bridge, if no one has
-     any objections.
+<tr id="L287"><td><a href="#L287">287</a></td><td>PICARD:  In fact I authorise and support your idea, Riker. Please, feel free to cooperate with him if you wish.</td></tr>
 
-  RIKER
-     The Bridge will be fine, since I've called the
-     entire staff.
+<tr id="L288"><td><a href="#L288">288</a></td><td>DATA:  Are you certain, sir?</td></tr>
 
-  PICARD
-     Correction, Number One. Knowing the decision you
-     face, I have permitted you this gathering.
+<tr id="L289"><td><a href="#L289">289</a></td><td>PICARD:  Quite certain, Data. By all means, demonstrate your gifts of affection.</td></tr>
 
-  RIKER
-     Of course, Jean-Luc.
+<tr id="L290"><td><a href="#L290">290</a></td><td>RIKER:  Don't be frightened. There is no way I could harm any of you. Shall I guess your dreams?</td></tr>
 
-  ANNOTATION
-     Crusher and Wesley enter
+<tr id="L291"><td><a href="#L291">291</a></td><td>CRUSHER:  Leave now, Wesley.</td></tr>
 
-  RIKER
-     Wesley, this meeting is not for you.
+<tr id="L292"><td><a href="#L292">292</a></td><td>RIKER:  No! Wesley, I may know best of all. Our friendship, our long talks</td></tr>
 
-  WESLEY
-     Why not, sir? You helped make me a Bridge officer.
-     Acting Ensign.
+<tr id="L293"><td><a href="#L293">293</a></td><td>CRUSHER:  No, please!</td></tr>
 
-  RIKER
-     All right, he stays. Because I've been given
-     unusual powers, I am not suddenly a monster.
-     Except for these abilities, and I don't yet know
-     how far they go, I'm the same William T. Riker
-     you've always known. Well? Everyone still looks
-     uncomfortable.
+<tr id="L294"><td><a href="#L294">294</a></td><td>RIKER:  Have your favourite wish, my young friend.</td></tr>
 
-  PICARD
-     Perhaps they're all remembering that old saying.
-     Power corrupts.
+<tr id="L295"><td><a href="#L295">295</a></td><td>ANNOTATION: Wesley is transformed from teenager to hunk</td></tr>
 
-  RIKER
-     And absolute power corrupts absolutely. Do you
-     believe I haven't thought of that, Jean-Luc?
+<tr id="L296"><td><a href="#L296">296</a></td><td>RIKER:  You're ten years older. A man.</td></tr>
 
-  PICARD
-     And have you noticed how you and I are now on a
-     first name basis? Number One, Will, something has
-     happened already.
+<tr id="L297"><td><a href="#L297">297</a></td><td>LAFORGE:  Hey, Wes. Not bad.</td></tr>
 
-  RIKER
-     In what way? Haven't you seen how much I regretted
-     not saving that child? Using the Q power to save
-     her may not have been wrong. No more than it was
-     wrong to save the rest of you from those soldier
-     things.
+<tr id="L298"><td><a href="#L298">298</a></td><td>RIKER:  Data.</td></tr>
 
-  PICARD
-     Let's keep in mind that that particular danger was
-     invented by Q.
+<tr id="L299"><td><a href="#L299">299</a></td><td>DATA:  No. No, sir.</td></tr>
 
-  TASHA
-     What we represent to the Q, Commander, are lowly
-     animals, tormented into performing for their
-     amusement.
+<tr id="L300"><td><a href="#L300">300</a></td><td>RIKER:  But it's what you've always wanted, Data, to become human.</td></tr>
 
-  RIKER
-     Actually, they think highly of us, Tasha. We have
-     a quality of growth which they admire.
+<tr id="L301"><td><a href="#L301">301</a></td><td>DATA:  Yes, sir, that is true. But I never wanted to compound one illusion with another. It might be real to Q, perhaps even you, sir. But it would not be so to me. Was it not one of the Captain's favourite authors who wrote, This above all, to thine own self be true? Sorry, Commander, I must decline.</td></tr>
 
-  LAFORGE
-     Or fear.
+<tr id="L302"><td><a href="#L302">302</a></td><td>RIKER:  Well, my friend, I know what you want.</td></tr>
 
-  PICARD
-     No, we've learned the Q do not admire us. The Q
-     has muddled your mind.
+<tr id="L303"><td><a href="#L303">303</a></td><td>ANNOTATION: He waves his hand in front of Geordi and takes off the visor</td></tr>
 
-  RIKER
-     Don't you understand his incredible gift to me?
+<tr id="L304"><td><a href="#L304">304</a></td><td>LAFORGE:  (to Tasha) You're as beautiful as I imagined, and more.</td></tr>
 
-  Q
-     Are these truly your friends, brother?
+<tr id="L305"><td><a href="#L305">305</a></td><td>RIKER:  Then we can throw away the visor?</td></tr>
 
-  ANNOTATION
-     Everyone turns to see Q in a monk's habit
+<tr id="L306"><td><a href="#L306">306</a></td><td>LAFORGE:  I don't think so, sir. The price is a little high for me, and I don't like who I would have to thank. Make me the way I was. Please!</td></tr>
 
-  Q
-     Let us pray. For understanding and for compassion.
+<tr id="L307"><td><a href="#L307">307</a></td><td>ANNOTATION: Riker does</td></tr>
 
-  PICARD
-     Let us do no such damned thing! What is this need
-     of yours for costumes, Q? Have you no identity of
-     your own?
+<tr id="L308"><td><a href="#L308">308</a></td><td>RIKER:  Proud warrior Worf, without a single tie to his own kind.</td></tr>
 
-  Q
-     I come in search of the truth.
+<tr id="L309"><td><a href="#L309">309</a></td><td>ANNOTATION: A Klingon woman is kneeling at his feet. She gets up, tries to swipe at Tasha, and gets knocked down by Worf</td></tr>
 
-  PICARD
-     You come in search of what humanity is!
+<tr id="L310"><td><a href="#L310">310</a></td><td>WORF:  No! She is from a world now alien to me!</td></tr>
 
-  Q
-     I forgive your blasphemy.
+<tr id="L311"><td><a href="#L311">311</a></td><td>LAFORGE:  Worf, is this your idea of sex?</td></tr>
 
-  PICARD
-     Don't you see, Riker? He's nothing but a flim-flam
-     man! He's been that ever since we first met him at
-     Farpoint.
+<tr id="L312"><td><a href="#L312">312</a></td><td>WORF:  This is sex. But I have no place for it in my life now.</td></tr>
 
-  WORF
-     Flim-flam?
+<tr id="L313"><td><a href="#L313">313</a></td><td>Q:  No place, micro-brain? What possesses you?</td></tr>
 
-  Q
-     You offer Riker jealousy. What I offer him is
-     clearly beyond your comprehension. How can you
-     claim friendship for Riker while obstructing his
-     way to the greatest adventure ever offered a
-     human?
+<tr id="L314"><td><a href="#L314">314</a></td><td>WESLEY:  Commander Riker, it's too soon for this.</td></tr>
 
-  PICARD
-     Obstructing him? Then it's not yet certain. He's
-     not yet committed.
+<tr id="L315"><td><a href="#L315">315</a></td><td>RIKER:  If this is because your mother objects?</td></tr>
 
-  Q
-     The truly evil part of this, Captain, is your
-     jealousy. (to Riker) You love each one of your
-     people. Demonstrate it. You have the power to
-     leave each of them with a gift proving your
-     affection.
+<tr id="L316"><td><a href="#L316">316</a></td><td>WESLEY:  No. I just want to get there on my own. Honest.</td></tr>
 
-  RIKER
-     There'd be no harm, would there, if I gave them
-     something I know they'd like?
+<tr id="L317"><td><a href="#L317">317</a></td><td>Q:  But it's easier, boy. Listen to Riker.</td></tr>
 
-  Q
-     How touching. A plea to his former Captain. May I
-     please give some happiness to my friends, sir?
-     Please sir?
+<tr id="L318"><td><a href="#L318">318</a></td><td>RIKER:  How did you know, sir? I feel like such an idiot.</td></tr>
 
-  PICARD
-     In fact I authorise and support your idea, Riker.
-     Please, feel free to cooperate with him if you
-     wish.
+<tr id="L319"><td><a href="#L319">319</a></td><td>PICARD:  Quite right. So you should. It's all over, Q. You have no further business here.</td></tr>
 
-  DATA
-     Are you certain, sir?
+<tr id="L320"><td><a href="#L320">320</a></td><td>Q:  Human, you have just destroyed yourself.</td></tr>
 
-  PICARD
-     Quite certain, Data. By all means, demonstrate
-     your gifts of affection.
+<tr id="L321"><td><a href="#L321">321</a></td><td>PICARD:  Pay off your wager.</td></tr>
 
-  RIKER
-     Don't be frightened. There is no way I could harm
-     any of you. Shall I guess your dreams?
+<tr id="L322"><td><a href="#L322">322</a></td><td>Q:  I recall no wager!</td></tr>
 
-  CRUSHER
-     Leave now, Wesley.
+<tr id="L323"><td><a href="#L323">323</a></td><td>PICARD:  I'm sure your fellow Q remember you agreed to never trouble our species again. Just as they're aware you failed to tempt a human to join you.</td></tr>
 
-  RIKER
-     No! Wesley, I may know best of all. Our
-     friendship, our long talks
+<tr id="L324"><td><a href="#L324">324</a></td><td>Q:  (to the ceiling) No, if I could just do one more thing.</td></tr>
 
-  CRUSHER
-     No, please!
+<tr id="L325"><td><a href="#L325">325</a></td><td>PICARD:  Q, I strongly suspect it's some explaining you have to do now.</td></tr>
 
-  RIKER
-     Have your favourite wish, my young friend.
+<tr id="L326"><td><a href="#L326">326</a></td><td>ANNOTATION: Q screams as he disappears. Wesley returns to gangly teenager, the Klingon woman vanishes and everyone is moved to new positions</td></tr>
 
-  ANNOTATION
-     Wesley is transformed from teenager to hunk
+<tr id="L327"><td><a href="#L327">327</a></td><td>PICARD:  Extraordinary!</td></tr>
 
-  RIKER
-     You're ten years older. A man.
+<tr id="L328"><td><a href="#L328">328</a></td><td>LAFORGE:  Captain, we are showing that same hole in time again. Our instruments say we've just now beamed back from our rescue mission.</td></tr>
 
-  LAFORGE
-     Hey, Wes. Not bad.
+<tr id="L329"><td><a href="#L329">329</a></td><td>DATA:  Sir, how is it that the Q can handle time and space so well, and us so badly?</td></tr>
 
-  RIKER
-     Data.
+<tr id="L330"><td><a href="#L330">330</a></td><td>PICARD:  Perhaps some day we will discover that space and time are simpler than the human equation. No coordinates laid in, Number One?</td></tr>
 
-  DATA
-     No. No, sir.
+<tr id="L331"><td><a href="#L331">331</a></td><td>RIKER:  Yes, sir. You have my coordinates, La Forge.</td></tr>
 
-  RIKER
-     But it's what you've always wanted, Data, to
-     become human.
+<tr id="L332"><td><a href="#L332">332</a></td><td>LAFORGE:  Aye, sir. On the board.</td></tr>
 
-  DATA
-     Yes, sir, that is true. But I never wanted to
-     compound one illusion with another. It might be
-     real to Q, perhaps even you, sir. But it would not
-     be so to me. Was it not one of the Captain's
-     favourite authors who wrote, This above all, to
-     thine own self be true? Sorry, Commander, I must
-     decline.
+<tr id="L333"><td><a href="#L333">333</a></td><td>PICARD:  Engage.</td></tr>
 
-  RIKER
-     Well, my friend, I know what you want.
-
-  ANNOTATION
-     He waves his hand in front of Geordi and takes off
-     the visor
-
-  LAFORGE
-     (to Tasha) You're as beautiful as I imagined, and
-     more.
-
-  RIKER
-     Then we can throw away the visor?
-
-  LAFORGE
-     I don't think so, sir. The price is a little high
-     for me, and I don't like who I would have to
-     thank. Make me the way I was. Please!
-
-  ANNOTATION
-     Riker does
-
-  RIKER
-     Proud warrior Worf, without a single tie to his
-     own kind.
-
-  ANNOTATION
-     A Klingon woman is kneeling at his feet. She gets
-     up, tries to swipe at Tasha, and gets knocked down
-     by Worf
-
-  WORF
-     No! She is from a world now alien to me!
-
-  LAFORGE
-     Worf, is this your idea of sex?
-
-  WORF
-     This is sex. But I have no place for it in my life
-     now.
-
-  Q
-     No place, micro-brain? What possesses you?
-
-  WESLEY
-     Commander Riker, it's too soon for this.
-
-  RIKER
-     If this is because your mother objects?
-
-  WESLEY
-     No. I just want to get there on my own. Honest.
-
-  Q
-     But it's easier, boy. Listen to Riker.
-
-  RIKER
-     How did you know, sir? I feel like such an idiot.
-
-  PICARD
-     Quite right. So you should. It's all over, Q. You
-     have no further business here.
-
-  Q
-     Human, you have just destroyed yourself.
-
-  PICARD
-     Pay off your wager.
-
-  Q
-     I recall no wager!
-
-  PICARD
-     I'm sure your fellow Q remember you agreed to
-     never trouble our species again. Just as they're
-     aware you failed to tempt a human to join you.
-
-  Q
-     (to the ceiling) No, if I could just do one more
-     thing.
-
-  PICARD
-     Q, I strongly suspect it's some explaining you
-     have to do now.
-
-  ANNOTATION
-     Q screams as he disappears. Wesley returns to
-     gangly teenager, the Klingon woman vanishes and
-     everyone is moved to new positions
-
-  PICARD
-     Extraordinary!
-
-  LAFORGE
-     Captain, we are showing that same hole in time
-     again. Our instruments say we've just now beamed
-     back from our rescue mission.
-
-  DATA
-     Sir, how is it that the Q can handle time and
-     space so well, and us so badly?
-
-  PICARD
-     Perhaps some day we will discover that space and
-     time are simpler than the human equation. No
-     coordinates laid in, Number One?
-
-  RIKER
-     Yes, sir. You have my coordinates, La Forge.
-
-  LAFORGE
-     Aye, sir. On the board.
-
-  PICARD
-     Engage.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

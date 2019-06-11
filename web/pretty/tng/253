@@ -1,1706 +1,879 @@
-Descent, part 2
-TEASER
-
-LOCATION--Borg hall
-
-  LORE
-     What do you think of my followers, Picard?
-     Impressive, aren't they?
-
-  PICARD
-     I'm not particularly impressed. All you've done is
-     teach them to enjoy killing.
-
-  DATA
-     You are wrong, Captain. My brother and I serve a
-     much higher purpose.
-
-  TROI
-     Data, I can sense feelings in you.
-
-  DATA
-     Yes. My brother has made that possible.
-
-  PICARD
-     He gave you the chip. The one Doctor Soong made
-     for you.
-
-  LORE
-     No, no, no, no, no. I still have the emotional
-     programme my father designed. I wouldn't want to
-     give it up. It's what has given me such a strong
-     sense of family, an intense desire to reunite with
-     my dear brother.
-
-  PICARD
-     How did he do it, Data? What made you decide to
-     come here?
-
-  LORE
-     I am talking to you, Picard. I will tell you all
-     you need to know.
-
-  PICARD
-     You're controlling him, and you've corrupted the
-     Borg.
-
-  LORE
-     You simply don't understand, do you? You have no
-     idea what has happened here. How I found my true
-     calling. How the Borg found something to believe
-     in.
-
-  PICARD
-     I would like to learn about that, but I want Data
-     to tell us.
-
-  LORE
-     I told you. I will tell you what you need to know.
-
-  PICARD
-     How about that, Data? He won't even let you talk.
-
-  DATA
-     Do not try to drive a wedge between us, Captain. I
-     am loyal to my brother.
-
-  LORE
-     You see, Picard? He's not your pawn anymore. I've
-     helped him to break free, just as I've helped
-     them. Look at them. Look at what I've helped them
-     become. They're no longer simply mindless
-     automatons. They're passionate. Alive.
+<table class="table table-striped">
+<tr><td></td><td>Descent, part 2</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Borg hall</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>LORE:  What do you think of my followers, Picard? Impressive, aren't they?</td></tr>
 
-  TROI
-     Are you saying that you caused them to become
-     individuals?
+<tr id="L2"><td><a href="#L2">2</a></td><td>PICARD:  I'm not particularly impressed. All you've done is teach them to enjoy killing.</td></tr>
 
-  LORE
-     No, you did that. You and your friends. All I did
-     was clean up the mess you made when that Borg you
-     befriended returned to his ship.
+<tr id="L3"><td><a href="#L3">3</a></td><td>DATA:  You are wrong, Captain. My brother and I serve a much higher purpose.</td></tr>
 
-  DATA
-     Hugh interfaced with the others and transferred
-     his sense of individuality to them. It nearly
-     destroyed them.
+<tr id="L4"><td><a href="#L4">4</a></td><td>TROI:  Data, I can sense feelings in you.</td></tr>
 
-  PICARD
-     Data, do you remember when Hugh was on the
-     Enterprise? Do you remember what you were like
-     then?
+<tr id="L5"><td><a href="#L5">5</a></td><td>DATA:  Yes. My brother has made that possible.</td></tr>
 
-  LORE
-     That doesn't matter.
+<tr id="L6"><td><a href="#L6">6</a></td><td>PICARD:  He gave you the chip. The one Doctor Soong made for you.</td></tr>
 
-  PICARD
-     It does to me. I want to know what has happened to
-     Data.
+<tr id="L7"><td><a href="#L7">7</a></td><td>LORE:  No, no, no, no, no. I still have the emotional programme my father designed. I wouldn't want to give it up. It's what has given me such a strong sense of family, an intense desire to reunite with my dear brother.</td></tr>
 
-  LORE
-     What's important is what I've done here. How I
-     found my calling. I know now why I was created. No
-     one can ever take that away from me. Without me,
-     they would have perished. When I stumbled on their
-     ship, they were lost, disoriented, they had no
-     idea how to function as individuals. They couldn't
-     even navigate their own vessel. They had lost
-     their sense of purpose. I gave them their purpose.
-     And they gave me mine.
+<tr id="L8"><td><a href="#L8">8</a></td><td>PICARD:  How did he do it, Data? What made you decide to come here?</td></tr>
 
-  DATA
-     The Borg aspire to the perfection my Brother and I
-     represent. Fully artificial life forms. We are
-     their future.
+<tr id="L9"><td><a href="#L9">9</a></td><td>LORE:  I am talking to you, Picard. I will tell you all you need to know.</td></tr>
 
-  LORE
-     The reign of biological life forms is coming to an
-     end. You, Picard, and those like you are obsolete.
-     Take them, brother.
+<tr id="L10"><td><a href="#L10">10</a></td><td>PICARD:  You're controlling him, and you've corrupted the Borg.</td></tr>
 
-  ANNOTATION
-     Lore takes the phasers away
+<tr id="L11"><td><a href="#L11">11</a></td><td>LORE:  You simply don't understand, do you? You have no idea what has happened here. How I found my true calling. How the Borg found something to believe in.</td></tr>
 
-  SOMEONE
-     Acting Captain's log, supplemental. The skeleton
-     crew left on board the Enterprise is unable to
-     help in the search for Commander Data. The
-     planet's unusual EM field is interfering with the
-     ship's sensors, severely limiting their
-     effectiveness.
+<tr id="L12"><td><a href="#L12">12</a></td><td>PICARD:  I would like to learn about that, but I want Data to tell us.</td></tr>
 
+<tr id="L13"><td><a href="#L13">13</a></td><td>LORE:  I told you. I will tell you what you need to know.</td></tr>
 
-LOCATION--Bridge
+<tr id="L14"><td><a href="#L14">14</a></td><td>PICARD:  How about that, Data? He won't even let you talk.</td></tr>
 
-  CRUSHER
-     Ensign, we need to modify the sensor array to
-     filter out these EM pulses. Can you do that?
+<tr id="L15"><td><a href="#L15">15</a></td><td>DATA:  Do not try to drive a wedge between us, Captain. I am loyal to my brother.</td></tr>
 
-  TAITT
-     (a young woman) Yes, sir. I think so.
+<tr id="L16"><td><a href="#L16">16</a></td><td>LORE:  You see, Picard? He's not your pawn anymore. I've helped him to break free, just as I've helped them. Look at them. Look at what I've helped them become. They're no longer simply mindless automatons. They're passionate. Alive.</td></tr>
 
-  CRUSHER
-     What's your name?
+<tr id="L17"><td><a href="#L17">17</a></td><td>TROI:  Are you saying that you caused them to become individuals?</td></tr>
 
-  TAITT
-     Taitt, sir.
+<tr id="L18"><td><a href="#L18">18</a></td><td>LORE:  No, you did that. You and your friends. All I did was clean up the mess you made when that Borg you befriended returned to his ship.</td></tr>
 
-  CRUSHER
-     I don't think I've seen you before.
+<tr id="L19"><td><a href="#L19">19</a></td><td>DATA:  Hugh interfaced with the others and transferred his sense of individuality to them. It nearly destroyed them.</td></tr>
 
-  TAITT
-     I was just posted here six weeks ago.
+<tr id="L20"><td><a href="#L20">20</a></td><td>PICARD:  Data, do you remember when Hugh was on the Enterprise? Do you remember what you were like then?</td></tr>
 
-  CRUSHER
-     Well, Taitt, I'll bet you never thought you'd be
-     serving as Tactical Officer after only six weeks.
+<tr id="L21"><td><a href="#L21">21</a></td><td>LORE:  That doesn't matter.</td></tr>
 
-  TAITT
-     No, sir, I sure didn't. I think I've filtered out
-     some of the sensor noise. I'll bring the
-     modifications online.
+<tr id="L22"><td><a href="#L22">22</a></td><td>PICARD:  It does to me. I want to know what has happened to Data.</td></tr>
 
-  CRUSHER
-     Good work.
+<tr id="L23"><td><a href="#L23">23</a></td><td>LORE:  What's important is what I've done here. How I found my calling. I know now why I was created. No one can ever take that away from me. Without me, they would have perished. When I stumbled on their ship, they were lost, disoriented, they had no idea how to function as individuals. They couldn't even navigate their own vessel. They had lost their sense of purpose. I gave them their purpose. And they gave me mine.</td></tr>
 
-  RIKER [OC]
-     Riker to Enterprise.
+<tr id="L24"><td><a href="#L24">24</a></td><td>DATA:  The Borg aspire to the perfection my Brother and I represent. Fully artificial life forms. We are their future.</td></tr>
 
-  CRUSHER
-     Go ahead, Will.
+<tr id="L25"><td><a href="#L25">25</a></td><td>LORE:  The reign of biological life forms is coming to an end. You, Picard, and those like you are obsolete. Take them, brother.</td></tr>
 
+<tr id="L26"><td><a href="#L26">26</a></td><td>ANNOTATION: Lore takes the phasers away</td></tr>
 
-LOCATION--Planet surface
+<tr id="L27"><td><a href="#L27">27</a></td><td>SOMEONE: Acting Captain's log, supplemental. The skeleton crew left on board the Enterprise is unable to help in the search for Commander Data. The planet's unusual EM field is interfering with the ship's sensors, severely limiting their effectiveness.</td></tr>
 
-  RIKER
-     I can't contact the Captain. It could just be
-     interference, but I'd like to be sure.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L28"><td><a href="#L28">28</a></td><td>CRUSHER:  Ensign, we need to modify the sensor array to filter out these EM pulses. Can you do that?</td></tr>
 
-  CRUSHER [OC]
-     Understood.
+<tr id="L29"><td><a href="#L29">29</a></td><td>TAITT:  (a young woman) Yes, sir. I think so.</td></tr>
 
+<tr id="L30"><td><a href="#L30">30</a></td><td>CRUSHER:  What's your name?</td></tr>
 
-LOCATION--Bridge
+<tr id="L31"><td><a href="#L31">31</a></td><td>TAITT:  Taitt, sir.</td></tr>
 
-  CRUSHER
-     Enterprise to Captain Picard. Crusher to Picard.
+<tr id="L32"><td><a href="#L32">32</a></td><td>CRUSHER:  I don't think I've seen you before.</td></tr>
 
-  TAITT
-     I'm not getting a comm. signal from anyone on the
-     Captain's team.
+<tr id="L33"><td><a href="#L33">33</a></td><td>TAITT:  I was just posted here six weeks ago.</td></tr>
 
-  CRUSHER
-     The last time they checked in they were
-     investigating a structure in section gamma two
-     five.
+<tr id="L34"><td><a href="#L34">34</a></td><td>CRUSHER:  Well, Taitt, I'll bet you never thought you'd be serving as Tactical Officer after only six weeks.</td></tr>
 
-  TAITT
-     Sir, I'm picking up a vessel closing in on our
-     location.
+<tr id="L35"><td><a href="#L35">35</a></td><td>TAITT:  No, sir, I sure didn't. I think I've filtered out some of the sensor noise. I'll bring the modifications online.</td></tr>
 
-  CRUSHER
-     Is it a Borg ship?
+<tr id="L36"><td><a href="#L36">36</a></td><td>CRUSHER:  Good work.</td></tr>
 
-  TAITT
-     It seems to match the configuration of a ship the
-     Enterprise encountered at Ohniaka Three.
+<tr id="L37"><td><a href="#L37">37</a></td><td>RIKER [OC]:  Riker to Enterprise.</td></tr>
 
-  CRUSHER
-     Red alert. How long before they're in weapons
-     range?
+<tr id="L38"><td><a href="#L38">38</a></td><td>CRUSHER:  Go ahead, Will.</td></tr>
 
-  TAITT
-     Er, about ninety seconds. No, make that seventy
-     seconds.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L39"><td><a href="#L39">39</a></td><td>RIKER:  I can't contact the Captain. It could just be interference, but I'd like to be sure.</td></tr>
 
-  CRUSHER
-     Crusher to Transporter room three.
+<tr id="L40"><td><a href="#L40">40</a></td><td>CRUSHER [OC]:  Understood.</td></tr>
 
-  SALAZAR [OC]
-     Salazar here, sir.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L41"><td><a href="#L41">41</a></td><td>CRUSHER:  Enterprise to Captain Picard. Crusher to Picard.</td></tr>
 
-  CRUSHER
-     Start transporting the away teams off of the
-     surface.
+<tr id="L42"><td><a href="#L42">42</a></td><td>TAITT:  I'm not getting a comm. signal from anyone on the Captain's team.</td></tr>
 
+<tr id="L43"><td><a href="#L43">43</a></td><td>CRUSHER:  The last time they checked in they were investigating a structure in section gamma two five.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L44"><td><a href="#L44">44</a></td><td>TAITT:  Sir, I'm picking up a vessel closing in on our location.</td></tr>
 
-  SALAZAR
-     Aye, sir.
+<tr id="L45"><td><a href="#L45">45</a></td><td>CRUSHER:  Is it a Borg ship?</td></tr>
 
-  CRUSHER [OC]
-     Use the transporters in the cargo bay
+<tr id="L46"><td><a href="#L46">46</a></td><td>TAITT:  It seems to match the configuration of a ship the Enterprise encountered at Ohniaka Three.</td></tr>
 
+<tr id="L47"><td><a href="#L47">47</a></td><td>CRUSHER:  Red alert. How long before they're in weapons range?</td></tr>
 
-LOCATION--Bridge
+<tr id="L48"><td><a href="#L48">48</a></td><td>TAITT:  Er, about ninety seconds. No, make that seventy seconds.</td></tr>
 
-  CRUSHER
-     If you have to. I want those teams up here as fast
-     as possible.
+<tr id="L49"><td><a href="#L49">49</a></td><td>CRUSHER:  Crusher to Transporter room three.</td></tr>
 
+<tr id="L50"><td><a href="#L50">50</a></td><td>SALAZAR [OC]:  Salazar here, sir.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L51"><td><a href="#L51">51</a></td><td>CRUSHER:  Start transporting the away teams off of the surface.</td></tr>
 
-  RIKER
-     Armstrong, you and the others prepare to beam up.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L52"><td><a href="#L52">52</a></td><td>SALAZAR:  Aye, sir.</td></tr>
 
-  ARMSTRONG
-     Aye, sir.
+<tr id="L53"><td><a href="#L53">53</a></td><td>CRUSHER [OC]:  Use the transporters in the cargo bay</td></tr>
 
-  RIKER
-     Beverly, Worf and I will stay here and look for
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L54"><td><a href="#L54">54</a></td><td>CRUSHER:  If you have to. I want those teams up here as fast as possible.</td></tr>
 
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L55"><td><a href="#L55">55</a></td><td>RIKER:  Armstrong, you and the others prepare to beam up.</td></tr>
 
-LOCATION--Bridge
+<tr id="L56"><td><a href="#L56">56</a></td><td>ARMSTRONG:  Aye, sir.</td></tr>
 
-  RIKER [OC]
-     The Captain's team.
+<tr id="L57"><td><a href="#L57">57</a></td><td>RIKER:  Beverly, Worf and I will stay here and look for</td></tr>
 
-  CRUSHER
-     I'm not going to leave you down there.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L58"><td><a href="#L58">58</a></td><td>RIKER [OC]:  The Captain's team.</td></tr>
 
+<tr id="L59"><td><a href="#L59">59</a></td><td>CRUSHER:  I'm not going to leave you down there.</td></tr>
 
-LOCATION--Planet surface
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L60"><td><a href="#L60">60</a></td><td>RIKER:  You pull as many people off the surface as you can and get back to the transwarp conduit. The Captain's orders were to get the Enterprise back to Federation space.</td></tr>
 
-  RIKER
-     You pull as many people off the surface as you can
-     and get back to the transwarp conduit. The
-     Captain's orders were to get the Enterprise back
-     to Federation space.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L61"><td><a href="#L61">61</a></td><td>CRUSHER:  Acknowledged.</td></tr>
 
+<tr id="L62"><td><a href="#L62">62</a></td><td>RIKER [OC]:  Riker out.</td></tr>
 
-LOCATION--Bridge
+<tr id="L63"><td><a href="#L63">63</a></td><td>CRUSHER:  Prepare to leave orbit.</td></tr>
 
-  CRUSHER
-     Acknowledged.
+<tr id="L64"><td><a href="#L64">64</a></td><td>TAITT:  Sir, the Borg ship is powering up its forward weapons array. They'll be in firing range in, in twenty seconds.</td></tr>
 
-  RIKER [OC]
-     Riker out.
+<tr id="L65"><td><a href="#L65">65</a></td><td>CRUSHER:  Salazar, how many people do we still have down there?</td></tr>
 
-  CRUSHER
-     Prepare to leave orbit.
+<tr id="L66"><td><a href="#L66">66</a></td><td>SALAZAR [OC]:  Seventy three, sir.</td></tr>
 
-  TAITT
-     Sir, the Borg ship is powering up its forward
-     weapons array. They'll be in firing range in, in
-     twenty seconds.
+<tr id="L67"><td><a href="#L67">67</a></td><td>CRUSHER:  Put the Borg ship onscreen.</td></tr>
 
-  CRUSHER
-     Salazar, how many people do we still have down
-     there?
+<tr id="L68"><td><a href="#L68">68</a></td><td>TAITT:  Should I raise shields, sir?</td></tr>
 
-  SALAZAR [OC]
-     Seventy three, sir.
+<tr id="L69"><td><a href="#L69">69</a></td><td>CRUSHER:  Not yet. I want to keep bringing people up until the last possible second.</td></tr>
 
-  CRUSHER
-     Put the Borg ship onscreen.
+<tr id="L70"><td><a href="#L70">70</a></td><td>TAITT:  Ten seconds.</td></tr>
 
-  TAITT
-     Should I raise shields, sir?
+<tr id="L71"><td><a href="#L71">71</a></td><td>CRUSHER:  Stand by to raise shields and break orbit on my mark.</td></tr>
 
-  CRUSHER
-     Not yet. I want to keep bringing people up until
-     the last possible second.
+<tr id="L72"><td><a href="#L72">72</a></td><td>TAITT:  Five seconds.</td></tr>
 
-  TAITT
-     Ten seconds.
+<tr id="L73"><td><a href="#L73">73</a></td><td>CRUSHER:  Mark.</td></tr>
 
-  CRUSHER
-     Stand by to raise shields and break orbit on my
-     mark.
+<tr id="L74"><td><a href="#L74">74</a></td><td>ANNOTATION: an energy bolt hits</td></tr>
 
-  TAITT
-     Five seconds.
+<tr id="L75"><td><a href="#L75">75</a></td><td>TAITT:  Shields down to seventy percent.</td></tr>
 
-  CRUSHER
-     Mark.
+<tr id="L76"><td><a href="#L76">76</a></td><td>CRUSHER:  Establish a frequency shift firing pattern and return fire.</td></tr>
 
-  ANNOTATION
-     an energy bolt hits
+<tr id="L77"><td><a href="#L77">77</a></td><td>TAITT:  Er, right.</td></tr>
 
-  TAITT
-     Shields down to seventy percent.
+<tr id="L78"><td><a href="#L78">78</a></td><td>ANNOTATION: two torpedoes are fired</td></tr>
 
-  CRUSHER
-     Establish a frequency shift firing pattern and
-     return fire.
+<tr id="L79"><td><a href="#L79">79</a></td><td>TAITT:  Direct hit, no damage.</td></tr>
 
-  TAITT
-     Er, right.
+<tr id="L80"><td><a href="#L80">80</a></td><td>CRUSHER:  Helm, set course for the conduit, maximum warp.</td></tr>
 
-  ANNOTATION
-     two torpedoes are fired
+<tr id="L81"><td><a href="#L81">81</a></td><td>HELM:  Aye, sir.</td></tr>
 
-  TAITT
-     Direct hit, no damage.
+<tr id="L82"><td><a href="#L82">82</a></td><td>TAITT:  Sir, the Borg aren't following us.</td></tr>
 
-  CRUSHER
-     Helm, set course for the conduit, maximum warp.
+<tr id="L83"><td><a href="#L83">83</a></td><td>CRUSHER:  Salazar</td></tr>
 
-  HELM
-     Aye, sir.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L84"><td><a href="#L84">84</a></td><td>CRUSHER [OC]:  How many people did we leave behind?</td></tr>
 
-  TAITT
-     Sir, the Borg aren't following us.
+<tr id="L85"><td><a href="#L85">85</a></td><td>SALAZAR:  Forty seven, sir.</td></tr>
 
-  CRUSHER
-     Salazar
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L86"><td><a href="#L86">86</a></td><td>CRUSHER:  Another minute and we would have had them.</td></tr>
 
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L87"><td><a href="#L87">87</a></td><td>RIKER:  Riker to any team leader.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L88"><td><a href="#L88">88</a></td><td>POWELL [OC]:  Lieutenant Powell here, sir.</td></tr>
 
-  CRUSHER [OC]
-     How many people did we leave behind?
+<tr id="L89"><td><a href="#L89">89</a></td><td>RIKER:  Round up everybody who was left behind. Take cover. Try to avoid any contact with the Borg.</td></tr>
 
-  SALAZAR
-     Forty seven, sir.
+<tr id="L90"><td><a href="#L90">90</a></td><td>POWELL [OC]:  Aye, sir.</td></tr>
 
+<tr id="L91"><td><a href="#L91">91</a></td><td>RIKER:  Riker out. Even if Beverly can get back to Federation space, it'll be a few days before Starfleet can get any ships here. Until then, we're on our own.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Holding cell</td></tr>
+<tr id="L92"><td><a href="#L92">92</a></td><td>PICARD:  Data, you must realise that something has happened to you. The Data I know would never have agreed to be a willing party to Lore's plan.</td></tr>
 
-  CRUSHER
-     Another minute and we would have had them.
+<tr id="L93"><td><a href="#L93">93</a></td><td>DATA:  (taking the comm. badges) I now realise that my life aboard the Enterprise was a waste. My quest to become human was misguided. An evolutionary step in the wrong direction.</td></tr>
 
+<tr id="L94"><td><a href="#L94">94</a></td><td>TROI:  Data, all I'm sensing from you is anger and hatred. Have you felt any other emotions?</td></tr>
 
-LOCATION--Planet surface
+<tr id="L95"><td><a href="#L95">95</a></td><td>DATA:  There are no other emotions.</td></tr>
 
-  RIKER
-     Riker to any team leader.
+<tr id="L96"><td><a href="#L96">96</a></td><td>LAFORGE:  Data, just because you haven't experienced certain emotions doesn't mean they don't exist. Lore is only feeding you the negative ones.</td></tr>
 
-  POWELL [OC]
-     Lieutenant Powell here, sir.
+<tr id="L97"><td><a href="#L97">97</a></td><td>DATA:  Counsellor Troi told me herself that feelings are not negative or positive. It is how we act on them that makes them good or bad.</td></tr>
 
-  RIKER
-     Round up everybody who was left behind. Take
-     cover. Try to avoid any contact with the Borg.
+<tr id="L98"><td><a href="#L98">98</a></td><td>PICARD:  Fine. But what about the things that Lore is proposing? What about the lives that have already been lost?</td></tr>
 
-  POWELL [OC]
-     Aye, sir.
+<tr id="L99"><td><a href="#L99">99</a></td><td>DATA:  You simply do not understand. In a quest such as ours, sacrifices have to be made. It is regrettable, but the greater good must be served. Give me your visor.</td></tr>
 
-  RIKER
-     Riker out. Even if Beverly can get back to
-     Federation space, it'll be a few days before
-     Starfleet can get any ships here. Until then,
-     we're on our own.
+<tr id="L100"><td><a href="#L100">100</a></td><td>LAFORGE:  Why?</td></tr>
 
+<tr id="L101"><td><a href="#L101">101</a></td><td>DATA:  Give it to me or I will take it by force.</td></tr>
 
-LOCATION--Holding cell
+<tr id="L102"><td><a href="#L102">102</a></td><td>ANNOTATION: Geordi takes it off</td></tr>
 
-  PICARD
-     Data, you must realise that something has happened
-     to you. The Data I know would never have agreed to
-     be a willing party to Lore's plan.
+<tr id="L103"><td><a href="#L103">103</a></td><td>DATA:  I am not your puppet anymore.</td></tr>
 
-  DATA
-     (taking the comm. badges) I now realise that my
-     life aboard the Enterprise was a waste. My quest
-     to become human was misguided. An evolutionary
-     step in the wrong direction.
+<tr id="L104"><td><a href="#L104">104</a></td><td>ANNOTATION: he turns on the forcefield and walks away</td></tr>
 
-  TROI
-     Data, all I'm sensing from you is anger and
-     hatred. Have you felt any other emotions?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L105"><td><a href="#L105">105</a></td><td>ANNOTATION: relief crew enter the Bridge</td></tr>
 
-  DATA
-     There are no other emotions.
+<tr id="L106"><td><a href="#L106">106</a></td><td>TAITT:  Sir, we've reached the coordinates of the conduit. The tachyon matrix is energised and ready to go. And Lieutenant Barnaby has returned from the surface. He'll be relieving me.</td></tr>
 
-  LAFORGE
-     Data, just because you haven't experienced certain
-     emotions doesn't mean they don't exist. Lore is
-     only feeding you the negative ones.
+<tr id="L107"><td><a href="#L107">107</a></td><td>CRUSHER:  Right. Stand by to trigger the conduit. Taitt. I want you to stay on the Bridge. I'll need a Science Officer at the aft station.</td></tr>
 
-  DATA
-     Counsellor Troi told me herself that feelings are
-     not negative or positive. It is how we act on them
-     that makes them good or bad.
+<tr id="L108"><td><a href="#L108">108</a></td><td>TAITT:  Yes, sir.</td></tr>
 
-  PICARD
-     Fine. But what about the things that Lore is
-     proposing? What about the lives that have already
-     been lost?
+<tr id="L109"><td><a href="#L109">109</a></td><td>CRUSHER:  Helm, set a course to return to the planet.</td></tr>
 
-  DATA
-     You simply do not understand. In a quest such as
-     ours, sacrifices have to be made. It is
-     regrettable, but the greater good must be served.
-     Give me your visor.
+<tr id="L110"><td><a href="#L110">110</a></td><td>HELM:  Aye, sir.</td></tr>
 
-  LAFORGE
-     Why?
+<tr id="L111"><td><a href="#L111">111</a></td><td>CRUSHER:  I'm not leaving those people stranded back there. An emergency buoy can transmit a copy of our log entries to Starfleet just as easily as we can. Ensign, prepare a buoy and launch it when ready.</td></tr>
 
-  DATA
-     Give it to me or I will take it by force.
+<tr id="L112"><td><a href="#L112">112</a></td><td>TAITT:  Aye, sir.</td></tr>
 
-  ANNOTATION
-     Geordi takes it off
+<tr id="L113"><td><a href="#L113">113</a></td><td>CRUSHER:  Lieutenant, open the conduit.</td></tr>
 
-  DATA
-     I am not your puppet anymore.
+<tr id="L114"><td><a href="#L114">114</a></td><td>TAITT:  Launching buoy now, sir.</td></tr>
 
-  ANNOTATION
-     he turns on the forcefield and walks away
+<tr id="L115"><td><a href="#L115">115</a></td><td>CRUSHER:  Lieutenant, scan for any Borg ships between here and the planet.</td></tr>
 
+<tr id="L116"><td><a href="#L116">116</a></td><td>BARNABY:  Sensors detect no vessels.</td></tr>
 
-LOCATION--Bridge
+<tr id="L117"><td><a href="#L117">117</a></td><td>TAITT:  We have to assume the ship that attacked us is still in orbit.</td></tr>
 
-  ANNOTATION
-     relief crew enter the Bridge
+<tr id="L118"><td><a href="#L118">118</a></td><td>CRUSHER:  How long will we have before they can detect us and intercept?</td></tr>
 
-  TAITT
-     Sir, we've reached the coordinates of the conduit.
-     The tachyon matrix is energised and ready to go.
-     And Lieutenant Barnaby has returned from the
-     surface. He'll be relieving me.
+<tr id="L119"><td><a href="#L119">119</a></td><td>TAITT:  If their sensors function as well as ours it could be as little as thirty seconds.</td></tr>
 
-  CRUSHER
-     Right. Stand by to trigger the conduit. Taitt. I
-     want you to stay on the Bridge. I'll need a
-     Science Officer at the aft station.
+<tr id="L120"><td><a href="#L120">120</a></td><td>CRUSHER:  Crusher to Salazar. How long will it take to get the rest of the crew off the surface?</td></tr>
 
-  TAITT
-     Yes, sir.
+<tr id="L121"><td><a href="#L121">121</a></td><td>SALAZAR [OC]:  One minute should do it.</td></tr>
 
-  CRUSHER
-     Helm, set a course to return to the planet.
+<tr id="L122"><td><a href="#L122">122</a></td><td>CRUSHER:  We don't have one minute. How much can you shave off that?</td></tr>
 
-  HELM
-     Aye, sir.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L123"><td><a href="#L123">123</a></td><td>SALAZAR:  If I can get a good lock on them quickly, I might be able to do it in forty five or fifty seconds.</td></tr>
 
-  CRUSHER
-     I'm not leaving those people stranded back there.
-     An emergency buoy can transmit a copy of our log
-     entries to Starfleet just as easily as we can.
-     Ensign, prepare a buoy and launch it when ready.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L124"><td><a href="#L124">124</a></td><td>CRUSHER:  We need to buy ourselves fifteen seconds. Lieutenant, is there any way we can use the planet as a barrier to keep the Borg from realising we're in orbit?</td></tr>
 
-  TAITT
-     Aye, sir.
+<tr id="L125"><td><a href="#L125">125</a></td><td>BARNABY:  We can enter orbit while they're on the far side of the planet. And if we delay dropping out of warp until the last possible instant, we could gain a few more seconds.</td></tr>
 
-  CRUSHER
-     Lieutenant, open the conduit.
+<tr id="L126"><td><a href="#L126">126</a></td><td>TAITT:  If your calculations are even slightly off, we'd hit the atmosphere.</td></tr>
 
-  TAITT
-     Launching buoy now, sir.
+<tr id="L127"><td><a href="#L127">127</a></td><td>BARNABY:  I'll have to be sure my calculations are accurate, Ensign.</td></tr>
 
-  CRUSHER
-     Lieutenant, scan for any Borg ships between here
-     and the planet.
+<tr id="L128"><td><a href="#L128">128</a></td><td>CRUSHER:  Let's do it. Helm, hard about.</td></tr>
 
-  BARNABY
-     Sensors detect no vessels.
+<tr id="L129"><td><a href="#L129">129</a></td><td>HELM:  Aye, sir.</td></tr>
 
-  TAITT
-     We have to assume the ship that attacked us is
-     still in orbit.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L130"><td><a href="#L130">130</a></td><td>WORF:  Still no sign of the structure.</td></tr>
 
-  CRUSHER
-     How long will we have before they can detect us
-     and intercept?
+<tr id="L131"><td><a href="#L131">131</a></td><td>RIKER:  With all this interference it could be a hundred metres away and we wouldn't know it. This could take hours.</td></tr>
 
-  TAITT
-     If their sensors function as well as ours it could
-     be as little as thirty seconds.
+<tr id="L132"><td><a href="#L132">132</a></td><td>WORF:  I am detecting a faint energy reading.</td></tr>
 
-  CRUSHER
-     Crusher to Salazar. How long will it take to get
-     the rest of the crew off the surface?
+<tr id="L133"><td><a href="#L133">133</a></td><td>RIKER:  Residual thermal traces. Somebody stood here.</td></tr>
 
-  SALAZAR [OC]
-     One minute should do it.
+<tr id="L134"><td><a href="#L134">134</a></td><td>WORF:  The decay rate indicates it could be human.</td></tr>
 
-  CRUSHER
-     We don't have one minute. How much can you shave
-     off that?
+<tr id="L135"><td><a href="#L135">135</a></td><td>RIKER:  They took this path.</td></tr>
 
+<tr><td></td><td>LOCATION--Borg hall</td></tr>
+<tr id="L136"><td><a href="#L136">136</a></td><td>LORE:  (to Borg) Now, thank you. There you are, brother.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L137"><td><a href="#L137">137</a></td><td>DATA:  Here is the visor. May I ask why you wanted it?</td></tr>
 
-  SALAZAR
-     If I can get a good lock on them quickly, I might
-     be able to do it in forty five or fifty seconds.
+<tr id="L138"><td><a href="#L138">138</a></td><td>LORE:  I thought it might look good on me. What do you think? Maybe we should work on your sense of humour, brother. Actually, I was thinking La Forge's implants might make him an ideal test subject for my experiment.</td></tr>
 
+<tr id="L139"><td><a href="#L139">139</a></td><td>DATA:  All the Borg you have experimented on so far have suffered extensive brain damage.</td></tr>
 
-LOCATION--Bridge
+<tr id="L140"><td><a href="#L140">140</a></td><td>LORE:  Using the humans to perfect the procedure will allow us to prevent any further Borg deaths.</td></tr>
 
-  CRUSHER
-     We need to buy ourselves fifteen seconds.
-     Lieutenant, is there any way we can use the planet
-     as a barrier to keep the Borg from realising we're
-     in orbit?
+<tr id="L141"><td><a href="#L141">141</a></td><td>DATA:  I understand.</td></tr>
 
-  BARNABY
-     We can enter orbit while they're on the far side
-     of the planet. And if we delay dropping out of
-     warp until the last possible instant, we could
-     gain a few more seconds.
+<tr id="L142"><td><a href="#L142">142</a></td><td>LORE:  Good. What is it?</td></tr>
 
-  TAITT
-     If your calculations are even slightly off, we'd
-     hit the atmosphere.
+<tr id="L143"><td><a href="#L143">143</a></td><td>CROSIS:  This Borg disconnected himself from the others. He would not let me hear his thoughts.</td></tr>
 
-  BARNABY
-     I'll have to be sure my calculations are accurate,
-     Ensign.
+<tr id="L144"><td><a href="#L144">144</a></td><td>LORE:  I've asked you to stay linked to Crosis at all times. You know that, don't you?</td></tr>
 
-  CRUSHER
-     Let's do it. Helm, hard about.
+<tr id="L145"><td><a href="#L145">145</a></td><td>GOVAL:  Yes.</td></tr>
 
-  HELM
-     Aye, sir.
+<tr id="L146"><td><a href="#L146">146</a></td><td>LORE:  I know this must be difficult for you. I know how uncertain you must feel. All of these sensations are new and they can be frightening. Isn't that right?</td></tr>
 
+<tr id="L147"><td><a href="#L147">147</a></td><td>GOVAL:  Yes. I have doubts.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L148"><td><a href="#L148">148</a></td><td>LORE:  Of course you do. It's only natural. No one is going to blame you for that. But in order to lose those doubts, to keep you from fear and confusion away, I need you to remain linked with the others so that their strength and their confidence can help you. I need you, Goval. I need you to help me build a future for the Borg. I can't do it without you. Will you help me?</td></tr>
 
-  WORF
-     Still no sign of the structure.
+<tr id="L149"><td><a href="#L149">149</a></td><td>GOVAL:  Yes. I will.</td></tr>
 
-  RIKER
-     With all this interference it could be a hundred
-     metres away and we wouldn't know it. This could
-     take hours.
+<tr><td></td><td>LOCATION--Holding cell</td></tr>
+<tr id="L150"><td><a href="#L150">150</a></td><td>LAFORGE:  Lore must have told Data to take my visor because he realised I could see a carrier wave that was radiating from him.</td></tr>
 
-  WORF
-     I am detecting a faint energy reading.
+<tr id="L151"><td><a href="#L151">151</a></td><td>PICARD:  A carrier wave? Is that how he's manipulating Data?</td></tr>
 
-  RIKER
-     Residual thermal traces. Somebody stood here.
+<tr id="L152"><td><a href="#L152">152</a></td><td>LAFORGE:  I think what's happening is that Lore is tapping into the chip he stole from Doctor Soong and somehow he's found a way to transmit part of that emotional programme to Data.</td></tr>
 
-  WORF
-     The decay rate indicates it could be human.
+<tr id="L153"><td><a href="#L153">153</a></td><td>TROI:  But the only emotions Data seems to feel are negative.</td></tr>
 
-  RIKER
-     They took this path.
+<tr id="L154"><td><a href="#L154">154</a></td><td>LAFORGE:  Yeah, I'm sure that's intentional. But in order for Data to be affected by those emotions, Lore would have had to disable his ethical programme first.</td></tr>
 
+<tr id="L155"><td><a href="#L155">155</a></td><td>PICARD:  Can we reactivate it?</td></tr>
 
-LOCATION--Borg hall
+<tr id="L156"><td><a href="#L156">156</a></td><td>LAFORGE:  If I can generate a phased kedion pulse at the right frequency, that would trigger Data's subsystems and reboot the programme.</td></tr>
 
-  LORE
-     (to Borg) Now, thank you. There you are, brother.
+<tr id="L157"><td><a href="#L157">157</a></td><td>PICARD:  And although Lore would still be feeding him negative emotions, at least Data might listen to us.</td></tr>
 
-  DATA
-     Here is the visor. May I ask why you wanted it?
+<tr id="L158"><td><a href="#L158">158</a></td><td>LAFORGE:  Right.</td></tr>
 
-  LORE
-     I thought it might look good on me. What do you
-     think? Maybe we should work on your sense of
-     humour, brother. Actually, I was thinking La
-     Forge's implants might make him an ideal test
-     subject for my experiment.
+<tr id="L159"><td><a href="#L159">159</a></td><td>TROI:  I think it's worth a try.</td></tr>
 
-  DATA
-     All the Borg you have experimented on so far have
-     suffered extensive brain damage.
+<tr id="L160"><td><a href="#L160">160</a></td><td>LAFORGE:  So, got any ideas on how we generate a kedion pulse?</td></tr>
 
-  LORE
-     Using the humans to perfect the procedure will
-     allow us to prevent any further Borg deaths.
+<tr id="L161"><td><a href="#L161">161</a></td><td>ANNOTATION: Data enters and hauls Geordi to his feet</td></tr>
 
-  DATA
-     I understand.
+<tr id="L162"><td><a href="#L162">162</a></td><td>PICARD:  Data, where are you taking him?</td></tr>
 
-  LORE
-     Good. What is it?
+<tr id="L163"><td><a href="#L163">163</a></td><td>DATA:  That is not your concern.</td></tr>
 
-  CROSIS
-     This Borg disconnected himself from the others. He
-     would not let me hear his thoughts.
+<tr id="L164"><td><a href="#L164">164</a></td><td>PICARD:  Data, wait. Let us talk to you.</td></tr>
 
-  LORE
-     I've asked you to stay linked to Crosis at all
-     times. You know that, don't you?
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L165"><td><a href="#L165">165</a></td><td>ANNOTATION: Worf and Riker hide from a Borg patrol, then come over a ridge.</td></tr>
 
-  GOVAL
-     Yes.
+<tr id="L166"><td><a href="#L166">166</a></td><td>WORF:  Commander.</td></tr>
 
-  LORE
-     I know this must be difficult for you. I know how
-     uncertain you must feel. All of these sensations
-     are new and they can be frightening. Isn't that
-     right?
+<tr id="L167"><td><a href="#L167">167</a></td><td>ANNOTATION: it's the building, and they're surrounded by Borg</td></tr>
 
-  GOVAL
-     Yes. I have doubts.
+<tr><td></td><td>LOCATION--Caverns</td></tr>
+<tr id="L168"><td><a href="#L168">168</a></td><td>RIKER:  Hugh?</td></tr>
 
-  LORE
-     Of course you do. It's only natural. No one is
-     going to blame you for that. But in order to lose
-     those doubts, to keep you from fear and confusion
-     away, I need you to remain linked with the others
-     so that their strength and their confidence can
-     help you. I need you, Goval. I need you to help me
-     build a future for the Borg. I can't do it without
-     you. Will you help me?
+<tr id="L169"><td><a href="#L169">169</a></td><td>HUGH:  Why are you here, Commander Riker? Hasn't the crew of the Enterprise caused enough damage already?</td></tr>
 
-  GOVAL
-     Yes. I will.
+<tr id="L170"><td><a href="#L170">170</a></td><td>ANNOTATION: a little later</td></tr>
 
+<tr id="L171"><td><a href="#L171">171</a></td><td>WORF:  So you blame us for what has happened to the Borg?</td></tr>
 
-LOCATION--Holding cell
+<tr id="L172"><td><a href="#L172">172</a></td><td>HUGH:  You gave me a sense of individuality, changed me, then sent me back to the Collective. You must have known that change would be passed on to others.</td></tr>
 
-  LAFORGE
-     Lore must have told Data to take my visor because
-     he realised I could see a carrier wave that was
-     radiating from him.
+<tr id="L173"><td><a href="#L173">173</a></td><td>RIKER:  We considered it. We knew it was a possibility.</td></tr>
 
-  PICARD
-     A carrier wave? Is that how he's manipulating
-     Data?
+<tr id="L174"><td><a href="#L174">174</a></td><td>HUGH:  Then you made it possible for Lore to dominate us.</td></tr>
 
-  LAFORGE
-     I think what's happening is that Lore is tapping
-     into the chip he stole from Doctor Soong and
-     somehow he's found a way to transmit part of that
-     emotional programme to Data.
+<tr id="L175"><td><a href="#L175">175</a></td><td>WORF:  I cannot accept that. Lore is only one. The Borg could have stopped him.</td></tr>
 
-  TROI
-     But the only emotions Data seems to feel are
-     negative.
+<tr id="L176"><td><a href="#L176">176</a></td><td>HUGH:  You don't know the condition we were in when he found us. Before my experience on the Enterprise, the Borg were a single-minded Collective. The voices in our heads were smooth and flowing. But after I returned, those voices began to change. They became uneven, discordant. For the first time, individual Borg had differing ideas about how to proceed. We couldn't function. Some Borg fought each other. Others simply shut themselves down. Many starved to death.</td></tr>
 
-  LAFORGE
-     Yeah, I'm sure that's intentional. But in order
-     for Data to be affected by those emotions, Lore
-     would have had to disable his ethical programme
-     first.
+<tr id="L177"><td><a href="#L177">177</a></td><td>RIKER:  And then Lore came along.</td></tr>
 
-  PICARD
-     Can we reactivate it?
+<tr id="L178"><td><a href="#L178">178</a></td><td>HUGH:  You probably can't imagine what it is like to be so lost and frightened that you will listen to any voice which promises change.</td></tr>
 
-  LAFORGE
-     If I can generate a phased kedion pulse at the
-     right frequency, that would trigger Data's
-     subsystems and reboot the programme.
+<tr id="L179"><td><a href="#L179">179</a></td><td>WORF:  Even if that voice insists on controlling you.</td></tr>
 
-  PICARD
-     And although Lore would still be feeding him
-     negative emotions, at least Data might listen to
-     us.
+<tr id="L180"><td><a href="#L180">180</a></td><td>HUGH:  That's what we wanted. Someone to show us the way out of confusion. Lore promised clarity and purpose. In the beginning, he seemed like a saviour. The promise of becoming a superior race, of becoming fully artificial was compelling. We gladly did everything he asked of us. But after a while, it became clear that Lore had no idea how to keep his promise. That's when he began talking about the need for us to make sacrifices. Before we realised it, this was the result.</td></tr>
 
-  LAFORGE
-     Right.
+<tr id="L181"><td><a href="#L181">181</a></td><td>RIKER:  What happened to them?</td></tr>
 
-  TROI
-     I think it's worth a try.
+<tr id="L182"><td><a href="#L182">182</a></td><td>HUGH:  Lore began to experiment, trying to re-make us in his image. This is the result of my encounter with the Enterprise, Commander. So you can see I don't particularly welcome your presence here.</td></tr>
 
-  LAFORGE
-     So, got any ideas on how we generate a kedion
-     pulse?
+<tr id="L183"><td><a href="#L183">183</a></td><td>RIKER:  I'm sorry you feel that way. We just came to get our people. We won't cause you any more trouble.</td></tr>
 
-  ANNOTATION
-     Data enters and hauls Geordi to his feet
+<tr id="L184"><td><a href="#L184">184</a></td><td>HUGH:  Tell me about my friend.</td></tr>
 
-  PICARD
-     Data, where are you taking him?
+<tr id="L185"><td><a href="#L185">185</a></td><td>RIKER:  Friend?</td></tr>
 
-  DATA
-     That is not your concern.
+<tr id="L186"><td><a href="#L186">186</a></td><td>HUGH:  The human called Geordi.</td></tr>
 
-  PICARD
-     Data, wait. Let us talk to you.
+<tr id="L187"><td><a href="#L187">187</a></td><td>RIKER:  I wish I could tell you about him. We think he may be held inside the compound.</td></tr>
 
+<tr id="L188"><td><a href="#L188">188</a></td><td>HUGH:  I cannot help you. I cannot risk our being discovered.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L189"><td><a href="#L189">189</a></td><td>RIKER:  Can you at least show us a way into the compound?</td></tr>
 
-  ANNOTATION
-     Worf and Riker hide from a Borg patrol, then come
-     over a ridge.
+<tr id="L190"><td><a href="#L190">190</a></td><td>HUGH:  These caverns lead to tunnels which run beneath the compound. Some of them connect with the environmental control ducts.</td></tr>
 
-  WORF
-     Commander.
+<tr id="L191"><td><a href="#L191">191</a></td><td>WORF:  Show us. If we can determine the geography of the compound, we can form a rescue plan.</td></tr>
 
-  ANNOTATION
-     it's the building, and they're surrounded by Borg
+<tr><td></td><td>LOCATION--Lore's lab</td></tr>
+<tr id="L192"><td><a href="#L192">192</a></td><td>ANNOTATION: Geordi is strapped down on a metal frame that's raising</td></tr>
 
+<tr id="L193"><td><a href="#L193">193</a></td><td>LAFORGE:  Data? Who's there?</td></tr>
 
-LOCATION--Caverns
+<tr id="L194"><td><a href="#L194">194</a></td><td>DATA:  (as Picard) Geordi?</td></tr>
 
-  RIKER
-     Hugh?
+<tr id="L195"><td><a href="#L195">195</a></td><td>LAFORGE:  Captain.</td></tr>
 
-  HUGH
-     Why are you here, Commander Riker? Hasn't the crew
-     of the Enterprise caused enough damage already?
+<tr id="L196"><td><a href="#L196">196</a></td><td>DATA:  Shh. We're getting out of here.</td></tr>
 
-  ANNOTATION
-     a little later
+<tr id="L197"><td><a href="#L197">197</a></td><td>LAFORGE:  Come on, hurry. Data was just here. I think he went to get something.</td></tr>
 
-  WORF
-     So you blame us for what has happened to the Borg?
+<tr id="L198"><td><a href="#L198">198</a></td><td>DATA:  (as himself) Too late. My brother suggested that I try to develop my sense of humour. What do you think?</td></tr>
 
-  HUGH
-     You gave me a sense of individuality, changed me,
-     then sent me back to the Collective. You must have
-     known that change would be passed on to others.
+<tr id="L199"><td><a href="#L199">199</a></td><td>LAFORGE:  I think it needs a little work.</td></tr>
 
-  RIKER
-     We considered it. We knew it was a possibility.
+<tr id="L200"><td><a href="#L200">200</a></td><td>ANNOTATION: Data aims an instrument at Geordi's visor inputs</td></tr>
 
-  HUGH
-     Then you made it possible for Lore to dominate us.
+<tr id="L201"><td><a href="#L201">201</a></td><td>LAFORGE:  What's happening?</td></tr>
 
-  WORF
-     I cannot accept that. Lore is only one. The Borg
-     could have stopped him.
+<tr id="L202"><td><a href="#L202">202</a></td><td>DATA:  I'm attemptin to neutralise your pain receptors.</td></tr>
 
-  HUGH
-     You don't know the condition we were in when he
-     found us. Before my experience on the Enterprise,
-     the Borg were a single-minded Collective. The
-     voices in our heads were smooth and flowing. But
-     after I returned, those voices began to change.
-     They became uneven, discordant. For the first
-     time, individual Borg had differing ideas about
-     how to proceed. We couldn't function. Some Borg
-     fought each other. Others simply shut themselves
-     down. Many starved to death.
+<tr id="L203"><td><a href="#L203">203</a></td><td>LAFORGE:  What are you going to do to me?</td></tr>
 
-  RIKER
-     And then Lore came along.
+<tr id="L204"><td><a href="#L204">204</a></td><td>ANNOTATION: Data is injecting something into Geordi's forehead</td></tr>
 
-  HUGH
-     You probably can't imagine what it is like to be
-     so lost and frightened that you will listen to any
-     voice which promises change.
+<tr id="L205"><td><a href="#L205">205</a></td><td>DATA:  I am implanting nano-cortical fibres in your cerebrum. They are designed to learn and mimic your neural firing patterns. Once they are in place, I will destroy the existing brain cells. We'll see if the artificial neural network is able to take over your cognitive functions.</td></tr>
 
-  WORF
-     Even if that voice insists on controlling you.
+<tr id="L206"><td><a href="#L206">206</a></td><td>LAFORGE:  Data, listen. Lore is controlling you. He's transmitting a carrier wave which is affecting your positronic matrix.</td></tr>
 
-  HUGH
-     That's what we wanted. Someone to show us the way
-     out of confusion. Lore promised clarity and
-     purpose. In the beginning, he seemed like a
-     saviour. The promise of becoming a superior race,
-     of becoming fully artificial was compelling. We
-     gladly did everything he asked of us. But after a
-     while, it became clear that Lore had no idea how
-     to keep his promise. That's when he began talking
-     about the need for us to make sacrifices. Before
-     we realised it, this was the result.
+<tr id="L207"><td><a href="#L207">207</a></td><td>DATA:  If the procedure is successful, your cognitive processing functions will be considerably improved.</td></tr>
 
-  RIKER
-     What happened to them?
+<tr id="L208"><td><a href="#L208">208</a></td><td>LAFORGE:  Don't you care that he's manipulating you?</td></tr>
 
-  HUGH
-     Lore began to experiment, trying to re-make us in
-     his image. This is the result of my encounter with
-     the Enterprise, Commander. So you can see I don't
-     particularly welcome your presence here.
+<tr id="L209"><td><a href="#L209">209</a></td><td>DATA:  However, there is a sixty percent chance you will not survive the procedure.</td></tr>
 
-  RIKER
-     I'm sorry you feel that way. We just came to get
-     our people. We won't cause you any more trouble.
+<tr id="L210"><td><a href="#L210">210</a></td><td>LAFORGE:  I don't care much for those odds.</td></tr>
 
-  HUGH
-     Tell me about my friend.
+<tr id="L211"><td><a href="#L211">211</a></td><td>ANNOTATION: more injections</td></tr>
 
-  RIKER
-     Friend?
+<tr id="L212"><td><a href="#L212">212</a></td><td>DATA:  They are cause for concern. However, I still have Counsellor Troi and Captain Picard. The odds are that at least one of the procedures will be successful.</td></tr>
 
-  HUGH
-     The human called Geordi.
+<tr><td></td><td>LOCATION--Holding cell</td></tr>
+<tr id="L213"><td><a href="#L213">213</a></td><td>TROI:  Help me!</td></tr>
 
-  RIKER
-     I wish I could tell you about him. We think he may
-     be held inside the compound.
+<tr id="L214"><td><a href="#L214">214</a></td><td>ANNOTATION: a Borg comes to see Picard lying on the floor</td></tr>
 
-  HUGH
-     I cannot help you. I cannot risk our being
-     discovered.
+<tr id="L215"><td><a href="#L215">215</a></td><td>TROI:  He tried to escape. The force field sent him into neural shock. If he dies, Lore will blame you.</td></tr>
 
-  RIKER
-     Can you at least show us a way into the compound?
+<tr id="L216"><td><a href="#L216">216</a></td><td>ANNOTATION: the innocent Borg takes down the force field and enters. He leans over Picard and gets one of his tubes pulled out, rendering him unconscious</td></tr>
 
-  HUGH
-     These caverns lead to tunnels which run beneath
-     the compound. Some of them connect with the
-     environmental control ducts.
+<tr id="L217"><td><a href="#L217">217</a></td><td>PICARD:  See if the corridor is empty.</td></tr>
 
-  WORF
-     Show us. If we can determine the geography of the
-     compound, we can form a rescue plan.
+<tr id="L218"><td><a href="#L218">218</a></td><td>ANNOTATION: but Data is bringing Geordi back</td></tr>
 
+<tr id="L219"><td><a href="#L219">219</a></td><td>DATA:  Drop it or I will break his neck.</td></tr>
 
-LOCATION--Lore's lab
+<tr id="L220"><td><a href="#L220">220</a></td><td>ANNOTATION: Troi drops the Borg hand weapon and helps guide Geordi into the cell</td></tr>
 
-  ANNOTATION
-     Geordi is strapped down on a metal frame that's
-     raising
+<tr id="L221"><td><a href="#L221">221</a></td><td>DATA:  Take him.</td></tr>
 
-  LAFORGE
-     Data? Who's there?
+<tr id="L222"><td><a href="#L222">222</a></td><td>ANNOTATION: Borg remove their fallen comrade</td></tr>
 
-  DATA
-     (as Picard) Geordi?
+<tr id="L223"><td><a href="#L223">223</a></td><td>PICARD:  What have you done to him?</td></tr>
 
-  LAFORGE
-     Captain.
+<tr id="L224"><td><a href="#L224">224</a></td><td>DATA:  I will be back for him later.</td></tr>
 
-  DATA
-     Shh. We're getting out of here.
+<tr id="L225"><td><a href="#L225">225</a></td><td>ANNOTATION: Data leaves</td></tr>
 
-  LAFORGE
-     Come on, hurry. Data was just here. I think he
-     went to get something.
+<tr id="L226"><td><a href="#L226">226</a></td><td>TROI:  Geordi, are you in pain?</td></tr>
 
-  DATA
-     (as himself) Too late. My brother suggested that I
-     try to develop my sense of humour. What do you
-     think?
+<tr id="L227"><td><a href="#L227">227</a></td><td>LAFORGE:  No. I'm just a little dizzy.</td></tr>
 
-  LAFORGE
-     I think it needs a little work.
+<tr id="L228"><td><a href="#L228">228</a></td><td>PICARD:  I was able to take part of a transceiver from the guard's interlink system. I think that it uses some kind of phased-pulse technology. Do you think it could be modified to generate a kedion pulse that would reboot Data's programme?</td></tr>
 
-  ANNOTATION
-     Data aims an instrument at Geordi's visor inputs
+<tr id="L229"><td><a href="#L229">229</a></td><td>LAFORGE:  Yeah, yeah, it's possible. See if you can locate the phase modulation circuitry.</td></tr>
 
-  LAFORGE
-     What's happening?
+<tr id="L230"><td><a href="#L230">230</a></td><td>TROI:  I'll watch the door.</td></tr>
 
-  DATA
-     I'm attemptin to neutralise your pain receptors.
+<tr id="L231"><td><a href="#L231">231</a></td><td>PICARD:  All right, I think I've found it.</td></tr>
 
-  LAFORGE
-     What are you going to do to me?
+<tr id="L232"><td><a href="#L232">232</a></td><td>LAFORGE:  Okay, good. Now, do you see anything that we might be able to use as a flux inhibitor?</td></tr>
 
-  ANNOTATION
-     Data is injecting something into Geordi's forehead
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L233"><td><a href="#L233">233</a></td><td>ANNOTATION: at an aft station</td></tr>
 
-  DATA
-     I am implanting nano-cortical fibres in your
-     cerebrum. They are designed to learn and mimic
-     your neural firing patterns. Once they are in
-     place, I will destroy the existing brain cells.
-     We'll see if the artificial neural network is able
-     to take over your cognitive functions.
+<tr id="L234"><td><a href="#L234">234</a></td><td>TAITT:  Sensors still can't locate the Borg ship. I'm trying to filter out the interference.</td></tr>
 
-  LAFORGE
-     Data, listen. Lore is controlling you. He's
-     transmitting a carrier wave which is affecting
-     your positronic matrix.
+<tr id="L235"><td><a href="#L235">235</a></td><td>BARNABY:  We'll be within transporter range in nineteen seconds.</td></tr>
 
-  DATA
-     If the procedure is successful, your cognitive
-     processing functions will be considerably
-     improved.
+<tr id="L236"><td><a href="#L236">236</a></td><td>TAITT:  I'm starting to get sensor resolution. There's the ship.</td></tr>
 
-  LAFORGE
-     Don't you care that he's manipulating you?
+<tr id="L237"><td><a href="#L237">237</a></td><td>CRUSHER:  We'll enter orbit here.</td></tr>
 
-  DATA
-     However, there is a sixty percent chance you will
-     not survive the procedure.
+<tr id="L238"><td><a href="#L238">238</a></td><td>BARNABY:  Helm, new course, heading zero five two mark seven.</td></tr>
 
-  LAFORGE
-     I don't care much for those odds.
+<tr id="L239"><td><a href="#L239">239</a></td><td>HELM:  Aye, sir.</td></tr>
 
-  ANNOTATION
-     more injections
+<tr id="L240"><td><a href="#L240">240</a></td><td>BARNABY:  Stand by to drop out of warp in eight seconds.</td></tr>
 
-  DATA
-     They are cause for concern. However, I still have
-     Counsellor Troi and Captain Picard. The odds are
-     that at least one of the procedures will be
-     successful.
+<tr id="L241"><td><a href="#L241">241</a></td><td>TAITT:  Once we're in orbit, we should have about forty five seconds before they intercept us.</td></tr>
 
+<tr id="L242"><td><a href="#L242">242</a></td><td>CRUSHER:  Let's hope it's enough time.</td></tr>
 
-LOCATION--Holding cell
+<tr id="L243"><td><a href="#L243">243</a></td><td>BARNABY:  Emergency deceleration in five seconds.</td></tr>
 
-  TROI
-     Help me!
+<tr id="L244"><td><a href="#L244">244</a></td><td>CRUSHER:  Hold on.</td></tr>
 
-  ANNOTATION
-     a Borg comes to see Picard lying on the floor
+<tr id="L245"><td><a href="#L245">245</a></td><td>ANNOTATION: whoomph</td></tr>
 
-  TROI
-     He tried to escape. The force field sent him into
-     neural shock. If he dies, Lore will blame you.
+<tr id="L246"><td><a href="#L246">246</a></td><td>CRUSHER:  Report.</td></tr>
 
-  ANNOTATION
-     the innocent Borg takes down the force field and
-     enters. He leans over Picard and gets one of his
-     tubes pulled out, rendering him unconscious
+<tr id="L247"><td><a href="#L247">247</a></td><td>TAITT:  We're in standard orbit, sir. The Borg ship is on the planet's far side, and is moving to intercept.</td></tr>
 
-  PICARD
-     See if the corridor is empty.
+<tr id="L248"><td><a href="#L248">248</a></td><td>CRUSHER:  Bridge to Transporter rooms. Begin evacuations.</td></tr>
 
-  ANNOTATION
-     but Data is bringing Geordi back
+<tr id="L249"><td><a href="#L249">249</a></td><td>BARNABY:  The Borg will be in weapons range in thirty two seconds. We still can't locate Captain Picard's team and there's no sign of Commander Riker or Lieutenant Worf.</td></tr>
 
-  DATA
-     Drop it or I will break his neck.
+<tr id="L250"><td><a href="#L250">250</a></td><td>CRUSHER:  Crusher to Salazar. Report.</td></tr>
 
-  ANNOTATION
-     Troi drops the Borg hand weapon and helps guide
-     Geordi into the cell
+<tr id="L251"><td><a href="#L251">251</a></td><td>SALAZAR [OC]:  We're pulling the last teams off right now.</td></tr>
 
-  DATA
-     Take him.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L252"><td><a href="#L252">252</a></td><td>SALAZAR:  But there are six people still unaccounted for.</td></tr>
 
-  ANNOTATION
-     Borg remove their fallen comrade
+<tr id="L253"><td><a href="#L253">253</a></td><td>CRUSHER [OC]:  Keep trying.</td></tr>
 
-  PICARD
-     What have you done to him?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L254"><td><a href="#L254">254</a></td><td>BARNABY:  The Borg ship is powering up its weapons array.</td></tr>
 
-  DATA
-     I will be back for him later.
+<tr id="L255"><td><a href="#L255">255</a></td><td>CRUSHER:  Come on, Chief. It's now or never.</td></tr>
 
-  ANNOTATION
-     Data leaves
+<tr id="L256"><td><a href="#L256">256</a></td><td>TAITT:  They're preparing to fire.</td></tr>
 
-  TROI
-     Geordi, are you in pain?
+<tr id="L257"><td><a href="#L257">257</a></td><td>CRUSHER:  Raise shields.</td></tr>
 
-  LAFORGE
-     No. I'm just a little dizzy.
+<tr id="L258"><td><a href="#L258">258</a></td><td>BARNABY:  The port nacelle's been hit.</td></tr>
 
-  PICARD
-     I was able to take part of a transceiver from the
-     guard's interlink system. I think that it uses
-     some kind of phased-pulse technology. Do you think
-     it could be modified to generate a kedion pulse
-     that would reboot Data's programme?
+<tr id="L259"><td><a href="#L259">259</a></td><td>CRUSHER:  Helm, get us out of here.</td></tr>
 
-  LAFORGE
-     Yeah, yeah, it's possible. See if you can locate
-     the phase modulation circuitry.
+<tr id="L260"><td><a href="#L260">260</a></td><td>HELM:  Aye, sir.</td></tr>
 
-  TROI
-     I'll watch the door.
+<tr id="L261"><td><a href="#L261">261</a></td><td>BARNABY:  We've lost warp engines.</td></tr>
 
-  PICARD
-     All right, I think I've found it.
+<tr id="L262"><td><a href="#L262">262</a></td><td>CRUSHER:  Evasive manoeuvres, full impulse.</td></tr>
 
-  LAFORGE
-     Okay, good. Now, do you see anything that we might
-     be able to use as a flux inhibitor?
+<tr id="L263"><td><a href="#L263">263</a></td><td>ANNOTATION: they sail past the massive Borg vessel</td></tr>
 
+<tr id="L264"><td><a href="#L264">264</a></td><td>TAITT:  Shields down to eighty percent.</td></tr>
 
-LOCATION--Bridge
+<tr id="L265"><td><a href="#L265">265</a></td><td>CRUSHER:  Fire phasers.</td></tr>
 
-  ANNOTATION
-     at an aft station
+<tr id="L266"><td><a href="#L266">266</a></td><td>BARNABY:  Direct hit. No damage to the Borg ship.</td></tr>
 
-  TAITT
-     Sensors still can't locate the Borg ship. I'm
-     trying to filter out the interference.
+<tr id="L267"><td><a href="#L267">267</a></td><td>TAITT:  Shields down to seventy three percent.</td></tr>
 
-  BARNABY
-     We'll be within transporter range in nineteen
-     seconds.
+<tr id="L268"><td><a href="#L268">268</a></td><td>CRUSHER:  What's the status of the warp engines?</td></tr>
 
-  TAITT
-     I'm starting to get sensor resolution. There's the
-     ship.
+<tr id="L269"><td><a href="#L269">269</a></td><td>BARNABY:  Still down. We can't outrun them.</td></tr>
 
-  CRUSHER
-     We'll enter orbit here.
+<tr id="L270"><td><a href="#L270">270</a></td><td>CRUSHER:  Helm, set a new course, heading three four four mark six. Full impulse.</td></tr>
 
-  BARNABY
-     Helm, new course, heading zero five two mark
-     seven.
+<tr id="L271"><td><a href="#L271">271</a></td><td>HELM:  Aye, sir.</td></tr>
 
-  HELM
-     Aye, sir.
+<tr id="L272"><td><a href="#L272">272</a></td><td>TAITT:  Sir, that heading takes us directly into the sun.</td></tr>
 
-  BARNABY
-     Stand by to drop out of warp in eight seconds.
+<tr id="L273"><td><a href="#L273">273</a></td><td>CRUSHER:  The databanks should contain information about a process called metaphasic shielding.</td></tr>
 
-  TAITT
-     Once we're in orbit, we should have about forty
-     five seconds before they intercept us.
+<tr id="L274"><td><a href="#L274">274</a></td><td>BARNABY:  I know about that research. Commander La Forge was developing a programme that would implement metaphasic properties.</td></tr>
 
-  CRUSHER
-     Let's hope it's enough time.
+<tr id="L275"><td><a href="#L275">275</a></td><td>CRUSHER:  Right. How far along was he?</td></tr>
 
-  BARNABY
-     Emergency deceleration in five seconds.
+<tr id="L276"><td><a href="#L276">276</a></td><td>BARNABY:  It's in the databanks but it's never been tested.</td></tr>
 
-  CRUSHER
-     Hold on.
+<tr id="L277"><td><a href="#L277">277</a></td><td>CRUSHER:  If we had metaphasic shielding, we could enter the sun's corona but the Borg ship wouldn't be able to follow. Can you bring the programme online?</td></tr>
 
-  ANNOTATION
-     whoomph
+<tr id="L278"><td><a href="#L278">278</a></td><td>BARNABY:  I can, but we have no way of knowing if the shields will hold.</td></tr>
 
-  CRUSHER
-     Report.
+<tr id="L279"><td><a href="#L279">279</a></td><td>TAITT:  Sir, hull temperature is rising. Now at twelve thousand degrees C. Radiation level nearing ten thousand rads.</td></tr>
 
-  TAITT
-     We're in standard orbit, sir. The Borg ship is on
-     the planet's far side, and is moving to intercept.
+<tr id="L280"><td><a href="#L280">280</a></td><td>ANNOTATION: weapons hit</td></tr>
 
-  CRUSHER
-     Bridge to Transporter rooms. Begin evacuations.
+<tr id="L281"><td><a href="#L281">281</a></td><td>CRUSHER:  Report.</td></tr>
 
-  BARNABY
-     The Borg will be in weapons range in thirty two
-     seconds. We still can't locate Captain Picard's
-     team and there's no sign of Commander Riker or
-     Lieutenant Worf.
+<tr id="L282"><td><a href="#L282">282</a></td><td>TAITT:  Shields at sixty two percent.</td></tr>
 
-  CRUSHER
-     Crusher to Salazar. Report.
+<tr id="L283"><td><a href="#L283">283</a></td><td>CRUSHER:  Lieutenant, activate the metaphasic programme. It's our best shot.</td></tr>
 
-  SALAZAR [OC]
-     We're pulling the last teams off right now.
+<tr id="L284"><td><a href="#L284">284</a></td><td>BARNABY:  Aye, sir.</td></tr>
 
+<tr id="L285"><td><a href="#L285">285</a></td><td>TAITT:  Hull temperature is critical. We can't withstand this heat much longer.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L286"><td><a href="#L286">286</a></td><td>BARNABY:  Programme is online. Engaging metaphasic shield now.</td></tr>
 
-  SALAZAR
-     But there are six people still unaccounted for.
+<tr id="L287"><td><a href="#L287">287</a></td><td>TAITT:  Hull temperature dropping. Down to seven thousand degrees.</td></tr>
 
-  CRUSHER [OC]
-     Keep trying.
+<tr id="L288"><td><a href="#L288">288</a></td><td>CRUSHER:  Maintain course.</td></tr>
 
+<tr id="L289"><td><a href="#L289">289</a></td><td>BARNABY:  The Borg ship has broken off pursuit.</td></tr>
 
-LOCATION--Bridge
+<tr id="L290"><td><a href="#L290">290</a></td><td>CRUSHER:  All stop.</td></tr>
 
-  BARNABY
-     The Borg ship is powering up its weapons array.
+<tr id="L291"><td><a href="#L291">291</a></td><td>TAITT:  Sir, the Borg ship is taking up position relative to ours. They're going to wait for us to come out.</td></tr>
 
-  CRUSHER
-     Come on, Chief. It's now or never.
+<tr id="L292"><td><a href="#L292">292</a></td><td>CRUSHER:  The question is, how long can we survive in here?</td></tr>
 
-  TAITT
-     They're preparing to fire.
+<tr><td></td><td>LOCATION--Holding cell</td></tr>
+<tr id="L293"><td><a href="#L293">293</a></td><td>PICARD:  Well, I've done everything that Geordi said. Now to activate it.</td></tr>
 
-  CRUSHER
-     Raise shields.
+<tr id="L294"><td><a href="#L294">294</a></td><td>TROI:  How are we going to know whether the pulse reboots Data's ethical programme?</td></tr>
 
-  BARNABY
-     The port nacelle's been hit.
+<tr id="L295"><td><a href="#L295">295</a></td><td>PICARD:  We'll only tell that when we see his behaviour.</td></tr>
 
-  CRUSHER
-     Helm, get us out of here.
+<tr id="L296"><td><a href="#L296">296</a></td><td>TROI:  Won't he realise something's happened to him?</td></tr>
 
-  HELM
-     Aye, sir.
+<tr id="L297"><td><a href="#L297">297</a></td><td>PICARD:  No, it's one programme among thousands. I just hope this force field has enough energy to trigger the pulse.</td></tr>
 
-  BARNABY
-     We've lost warp engines.
+<tr id="L298"><td><a href="#L298">298</a></td><td>ANNOTATION: he slides the tiny device forward, and the blue is sucked into it</td></tr>
 
-  CRUSHER
-     Evasive manoeuvres, full impulse.
+<tr><td></td><td>LOCATION--Lore's lab</td></tr>
+<tr id="L299"><td><a href="#L299">299</a></td><td>LAFORGE:  You know, Data, I've been thinking about some of the times we've had. Like that time we went sailing on Devala Lake. You remember that?</td></tr>
 
-  ANNOTATION
-     they sail past the massive Borg vessel
+<tr id="L300"><td><a href="#L300">300</a></td><td>DATA:  I have a complete memory record of that day.</td></tr>
 
-  TAITT
-     Shields down to eighty percent.
+<tr id="L301"><td><a href="#L301">301</a></td><td>LAFORGE:  You decided to go swimming, and when you jumped out of the boat you sank straight to the bottom.</td></tr>
 
-  CRUSHER
-     Fire phasers.
+<tr id="L302"><td><a href="#L302">302</a></td><td>DATA:  I did not have enough buoyancy to get back to the surface.</td></tr>
 
-  BARNABY
-     Direct hit. No damage to the Borg ship.
+<tr id="L303"><td><a href="#L303">303</a></td><td>LAFORGE:  You had to walk over a kilometre along the bottom to get back to shore.</td></tr>
 
-  TAITT
-     Shields down to seventy three percent.
+<tr id="L304"><td><a href="#L304">304</a></td><td>DATA:  One kilometre forty six metres.</td></tr>
 
-  CRUSHER
-     What's the status of the warp engines?
+<tr id="L305"><td><a href="#L305">305</a></td><td>LAFORGE:  It took almost two weeks to get the water out of your servos.</td></tr>
 
-  BARNABY
-     Still down. We can't outrun them.
+<tr id="L306"><td><a href="#L306">306</a></td><td>DATA:  I am ready to irradiate your existing brain cells.</td></tr>
 
-  CRUSHER
-     Helm, set a new course, heading three four four
-     mark six. Full impulse.
+<tr id="L307"><td><a href="#L307">307</a></td><td>LAFORGE:  Data, if you ever go back to the way you were, you might not be able to forgive yourself for what you're about to do.</td></tr>
 
-  HELM
-     Aye, sir.
+<tr id="L308"><td><a href="#L308">308</a></td><td>DATA:  I am getting some anomalous readings from your neural net. I will need to do further testing before I proceed. Someone will come and take you back to your cell.</td></tr>
 
-  TAITT
-     Sir, that heading takes us directly into the sun.
+<tr><td></td><td>LOCATION--Borg compound, outside</td></tr>
+<tr id="L309"><td><a href="#L309">309</a></td><td>LORE:  There you are, brother. Have you made any progress with La Forge?</td></tr>
 
-  CRUSHER
-     The databanks should contain information about a
-     process called metaphasic shielding.
+<tr id="L310"><td><a href="#L310">310</a></td><td>DATA:  It is too early to tell if the nano-cortical fibres performed their function.</td></tr>
 
-  BARNABY
-     I know about that research. Commander La Forge was
-     developing a programme that would implement
-     metaphasic properties.
+<tr id="L311"><td><a href="#L311">311</a></td><td>LORE:  I suspect none of the humans will survive the process but then, it's their own fault, isn't it? They should never have come here. What were they thinking?</td></tr>
 
-  CRUSHER
-     Right. How far along was he?
+<tr id="L312"><td><a href="#L312">312</a></td><td>DATA:  They came looking for me.</td></tr>
 
-  BARNABY
-     It's in the databanks but it's never been tested.
+<tr id="L313"><td><a href="#L313">313</a></td><td>LORE:  Humans are so sentimental.</td></tr>
 
-  CRUSHER
-     If we had metaphasic shielding, we could enter the
-     sun's corona but the Borg ship wouldn't be able to
-     follow. Can you bring the programme online?
+<tr id="L314"><td><a href="#L314">314</a></td><td>DATA:  I betrayed them. If they die, I am responsible.</td></tr>
 
-  BARNABY
-     I can, but we have no way of knowing if the
-     shields will hold.
+<tr id="L315"><td><a href="#L315">315</a></td><td>LORE:  Why are you talking like that? Is something wrong with your programming? Maybe I should check your systems.</td></tr>
 
-  TAITT
-     Sir, hull temperature is rising. Now at twelve
-     thousand degrees C. Radiation level nearing ten
-     thousand rads.
+<tr id="L316"><td><a href="#L316">316</a></td><td>DATA:  I do not want you to check my systems. I must resolve these issues myself.</td></tr>
 
-  ANNOTATION
-     weapons hit
+<tr id="L317"><td><a href="#L317">317</a></td><td>LORE:  I think I've made a mistake. I don't believe you can tolerate the amount of emotion I've given you. Perhaps I should cut back a little.</td></tr>
 
-  CRUSHER
-     Report.
+<tr id="L318"><td><a href="#L318">318</a></td><td>ANNOTATION: he pulls back a fingernail</td></tr>
 
-  TAITT
-     Shields at sixty two percent.
+<tr id="L319"><td><a href="#L319">319</a></td><td>LORE:  How's that?</td></tr>
 
-  CRUSHER
-     Lieutenant, activate the metaphasic programme.
-     It's our best shot.
+<tr id="L320"><td><a href="#L320">320</a></td><td>DATA:  I do not like it.</td></tr>
 
-  BARNABY
-     Aye, sir.
+<tr id="L321"><td><a href="#L321">321</a></td><td>LORE:  Then you prefer having more emotions?</td></tr>
 
-  TAITT
-     Hull temperature is critical. We can't withstand
-     this heat much longer.
+<tr id="L322"><td><a href="#L322">322</a></td><td>DATA:  Yes.</td></tr>
 
-  BARNABY
-     Programme is online. Engaging metaphasic shield
-     now.
+<tr id="L323"><td><a href="#L323">323</a></td><td>LORE:  They give you pleasure.</td></tr>
 
-  TAITT
-     Hull temperature dropping. Down to seven thousand
-     degrees.
+<tr id="L324"><td><a href="#L324">324</a></td><td>DATA:  Yes. Please, I want more.</td></tr>
 
-  CRUSHER
-     Maintain course.
+<tr id="L325"><td><a href="#L325">325</a></td><td>LORE:  All right, a little more. For now. Aren't you going to thank me?</td></tr>
 
-  BARNABY
-     The Borg ship has broken off pursuit.
+<tr id="L326"><td><a href="#L326">326</a></td><td>DATA:  Thank you.</td></tr>
 
-  CRUSHER
-     All stop.
+<tr id="L327"><td><a href="#L327">327</a></td><td>LORE:  Don't mention it. I just hope this helps to clarify things for you.</td></tr>
 
-  TAITT
-     Sir, the Borg ship is taking up position relative
-     to ours. They're going to wait for us to come out.
+<tr id="L328"><td><a href="#L328">328</a></td><td>ANNOTATION: Data leaves</td></tr>
 
-  CRUSHER
-     The question is, how long can we survive in here?
+<tr id="L329"><td><a href="#L329">329</a></td><td>LORE:  I am concerned about my brother, Crosis. I don't believe he really wants to be a part of our great future.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L330"><td><a href="#L330">330</a></td><td>BARNABY:  Sir, metaphasic shielding is losing integrity.</td></tr>
 
-LOCATION--Holding cell
+<tr id="L331"><td><a href="#L331">331</a></td><td>CRUSHER:  Can you stabilise it?</td></tr>
 
-  PICARD
-     Well, I've done everything that Geordi said. Now
-     to activate it.
+<tr id="L332"><td><a href="#L332">332</a></td><td>BARNABY:  No. We won't be able to stay in here longer than another three or four minutes.</td></tr>
 
-  TROI
-     How are we going to know whether the pulse reboots
-     Data's ethical programme?
+<tr id="L333"><td><a href="#L333">333</a></td><td>CRUSHER:  Do we have warp engines yet?</td></tr>
 
-  PICARD
-     We'll only tell that when we see his behaviour.
+<tr id="L334"><td><a href="#L334">334</a></td><td>BARNABY:  Last estimate was another half hour.</td></tr>
 
-  TROI
-     Won't he realise something's happened to him?
+<tr id="L335"><td><a href="#L335">335</a></td><td>TAITT:  Sir? I think I have an idea. I think it's possible we could induce a solar fusion eruption that would destroy the Borg ship.</td></tr>
 
-  PICARD
-     No, it's one programme among thousands. I just
-     hope this force field has enough energy to trigger
-     the pulse.
+<tr id="L336"><td><a href="#L336">336</a></td><td>BARNABY:  What?</td></tr>
 
-  ANNOTATION
-     he slides the tiny device forward, and the blue is
-     sucked into it
+<tr id="L337"><td><a href="#L337">337</a></td><td>TAITT:  We need to direct a highly energetic particle beam onto the sun's surface. That should produce a superfluid gas eruption. If we target the right spot, the eruption would envelop the Borg ship.</td></tr>
 
+<tr id="L338"><td><a href="#L338">338</a></td><td>CRUSHER:  How do you know this will work?</td></tr>
 
-LOCATION--Lore's lab
+<tr id="L339"><td><a href="#L339">339</a></td><td>TAITT:  I did my senior honours thesis on solar dynamics.</td></tr>
 
-  LAFORGE
-     You know, Data, I've been thinking about some of
-     the times we've had. Like that time we went
-     sailing on Devala Lake. You remember that?
+<tr id="L340"><td><a href="#L340">340</a></td><td>BARNABY:  Excuse me, sir, but this isn't the Academy. And a student thesis is a long way from a workable plan.</td></tr>
 
-  DATA
-     I have a complete memory record of that day.
+<tr id="L341"><td><a href="#L341">341</a></td><td>TAITT:  I've already configured the tractor emitters to create the particle beam and I've located the target point on the surface.</td></tr>
 
-  LAFORGE
-     You decided to go swimming, and when you jumped
-     out of the boat you sank straight to the bottom.
+<tr id="L342"><td><a href="#L342">342</a></td><td>BARNABY:  If her calculations are off, that eruption could encompass us.</td></tr>
 
-  DATA
-     I did not have enough buoyancy to get back to the
-     surface.
+<tr id="L343"><td><a href="#L343">343</a></td><td>TAITT:  Well I'll just have to make sure my calculations are accurate, Lieutenant.</td></tr>
 
-  LAFORGE
-     You had to walk over a kilometre along the bottom
-     to get back to shore.
+<tr id="L344"><td><a href="#L344">344</a></td><td>CRUSHER:  Let's do it.</td></tr>
 
-  DATA
-     One kilometre forty six metres.
+<tr id="L345"><td><a href="#L345">345</a></td><td>TAITT:  Yes, sir.</td></tr>
 
-  LAFORGE
-     It took almost two weeks to get the water out of
-     your servos.
+<tr id="L346"><td><a href="#L346">346</a></td><td>ANNOTATION: a beam lances out from the belly of the Enterprise</td></tr>
 
-  DATA
-     I am ready to irradiate your existing brain cells.
+<tr id="L347"><td><a href="#L347">347</a></td><td>TAITT:  The target area of the photosphere is destabilising. Pressure wave expansion is accelerating.</td></tr>
 
-  LAFORGE
-     Data, if you ever go back to the way you were, you
-     might not be able to forgive yourself for what
-     you're about to do.
+<tr id="L348"><td><a href="#L348">348</a></td><td>BARNABY:  Subsurface fusion has been initiated. An eruption is forming on the surface.</td></tr>
 
-  DATA
-     I am getting some anomalous readings from your
-     neural net. I will need to do further testing
-     before I proceed. Someone will come and take you
-     back to your cell.
+<tr id="L349"><td><a href="#L349">349</a></td><td>ANNOTATION: whoosh, kaBOOM</td></tr>
 
+<tr id="L350"><td><a href="#L350">350</a></td><td>BARNABY:  She did it! The Borg ship has been destroyed, sir.</td></tr>
 
-LOCATION--Borg compound, outside
+<tr id="L351"><td><a href="#L351">351</a></td><td>CRUSHER:  Helm, take us back to the planet. Full impulse.</td></tr>
 
-  LORE
-     There you are, brother. Have you made any progress
-     with La Forge?
+<tr id="L352"><td><a href="#L352">352</a></td><td>HELM:  Aye, sir.</td></tr>
 
-  DATA
-     It is too early to tell if the nano-cortical
-     fibres performed their function.
+<tr id="L353"><td><a href="#L353">353</a></td><td>CRUSHER:  Well done, Taitt.</td></tr>
 
-  LORE
-     I suspect none of the humans will survive the
-     process but then, it's their own fault, isn't it?
-     They should never have come here. What were they
-     thinking?
+<tr><td></td><td>LOCATION--Holding cell</td></tr>
+<tr id="L354"><td><a href="#L354">354</a></td><td>ANNOTATION: Data enters</td></tr>
 
-  DATA
-     They came looking for me.
+<tr id="L355"><td><a href="#L355">355</a></td><td>PICARD:  You're killing him. He won't survive another session.</td></tr>
 
-  LORE
-     Humans are so sentimental.
+<tr id="L356"><td><a href="#L356">356</a></td><td>DATA:  I did not come for him. I came for you.</td></tr>
 
-  DATA
-     I betrayed them. If they die, I am responsible.
+<tr><td></td><td>LOCATION--Borg hall</td></tr>
+<tr id="L357"><td><a href="#L357">357</a></td><td>PICARD:  Data, it's not too late. If you remove the fibres, then Geordi might yet recover.</td></tr>
 
-  LORE
-     Why are you talking like that? Is something wrong
-     with your programming? Maybe I should check your
-     systems.
+<tr id="L358"><td><a href="#L358">358</a></td><td>DATA:  That would not be possible.</td></tr>
 
-  DATA
-     I do not want you to check my systems. I must
-     resolve these issues myself.
+<tr id="L359"><td><a href="#L359">359</a></td><td>PICARD:  Why? Because Lore tells you so?</td></tr>
 
-  LORE
-     I think I've made a mistake. I don't believe you
-     can tolerate the amount of emotion I've given you.
-     Perhaps I should cut back a little.
+<tr id="L360"><td><a href="#L360">360</a></td><td>DATA:  It is for the greater good.</td></tr>
 
-  ANNOTATION
-     he pulls back a fingernail
+<tr id="L361"><td><a href="#L361">361</a></td><td>PICARD:  Good? Data, isn't good and bad, right and wrong, a function of your ethical programme?</td></tr>
 
-  LORE
-     How's that?
+<tr id="L362"><td><a href="#L362">362</a></td><td>DATA:  That is correct.</td></tr>
 
-  DATA
-     I do not like it.
+<tr id="L363"><td><a href="#L363">363</a></td><td>PICARD:  What does that programme tell you about what you're doing to Geordi? About what you and Lore are doing to the Borg? It tells you that these things are wrong, doesn't it, Data? So how can actions that are wrong lead to a greater good?</td></tr>
 
-  LORE
-     Then you prefer having more emotions?
+<tr id="L364"><td><a href="#L364">364</a></td><td>DATA:  You are attempting to confuse me.</td></tr>
 
-  DATA
-     Yes.
+<tr id="L365"><td><a href="#L365">365</a></td><td>PICARD:  No, you're not confused, Data. You're sensing the truth. Your ethical programme is fighting the negative emotions that Lore is sending you.</td></tr>
 
-  LORE
-     They give you pleasure.
+<tr id="L366"><td><a href="#L366">366</a></td><td>LORE:  Ah, Captain. Thank you so much for joining us. You are going to assist me in a most important ceremony.</td></tr>
 
-  DATA
-     Yes. Please, I want more.
+<tr><td></td><td>LOCATION--Cavern</td></tr>
+<tr id="L367"><td><a href="#L367">367</a></td><td>WORF:  We can use the environmental control ducts to get into the compound. They should lead us to the detention area.</td></tr>
 
-  LORE
-     All right, a little more. For now. Aren't you
-     going to thank me?
+<tr id="L368"><td><a href="#L368">368</a></td><td>RIKER:  We'll have to move fast. If we need to stun one of the guards, the Borg will know right away that he's been hurt.</td></tr>
 
-  DATA
-     Thank you.
+<tr id="L369"><td><a href="#L369">369</a></td><td>HUGH:  When they realise, your escape route may be compromised.</td></tr>
 
-  LORE
-     Don't mention it. I just hope this helps to
-     clarify things for you.
+<tr id="L370"><td><a href="#L370">370</a></td><td>RIKER:  I guess we'll have to take that chance.</td></tr>
 
-  ANNOTATION
-     Data leaves
+<tr id="L371"><td><a href="#L371">371</a></td><td>HUGH:  Good luck, Commander.</td></tr>
 
-  LORE
-     I am concerned about my brother, Crosis. I don't
-     believe he really wants to be a part of our great
-     future.
+<tr><td></td><td>LOCATION--Borg hall</td></tr>
+<tr id="L372"><td><a href="#L372">372</a></td><td>LORE:  It's time to put aside all doubts, brother. It's time to close the door on the past and commit yourself to the great work that lies ahead of us. I need to know I can count on you. As proof, I want you to kill Picard.</td></tr>
 
+<tr id="L373"><td><a href="#L373">373</a></td><td>ANNOTATION: Data raises the weapon</td></tr>
 
-LOCATION--Bridge
+<tr id="L374"><td><a href="#L374">374</a></td><td>DATA:  No. That would be wrong.</td></tr>
 
-  BARNABY
-     Sir, metaphasic shielding is losing integrity.
+<tr id="L375"><td><a href="#L375">375</a></td><td>LORE:  I didn't think you'd be able to do it. You've spent too many years among humans.</td></tr>
 
-  CRUSHER
-     Can you stabilise it?
+<tr id="L376"><td><a href="#L376">376</a></td><td>CROSIS:  Hold him.</td></tr>
 
-  BARNABY
-     No. We won't be able to stay in here longer than
-     another three or four minutes.
+<tr id="L377"><td><a href="#L377">377</a></td><td>ANNOTATION: we see Hugh amongst the crowd</td></tr>
 
-  CRUSHER
-     Do we have warp engines yet?
+<tr id="L378"><td><a href="#L378">378</a></td><td>LORE:  I've asked many sacrifices of you. Sacrifices I knew were necessary in order to build a better future. I want you to know that I ask no more of you than I am prepared to give myself. I am willing to make the greatest sacrifice of all. My own dear brother. Goodbye, Data.</td></tr>
 
-  BARNABY
-     Last estimate was another half hour.
+<tr id="L379"><td><a href="#L379">379</a></td><td>HUGH:  No!</td></tr>
 
-  TAITT
-     Sir? I think I have an idea. I think it's possible
-     we could induce a solar fusion eruption that would
-     destroy the Borg ship.
+<tr id="L380"><td><a href="#L380">380</a></td><td>ANNOTATION: Hugh rushes forward and stops Lore from firing. Crosis pushes him off then is shot by either Riker or Worf up in the gallery. Fights break out between Lore's Borg and Hugh's group. Lore makes a run for it and Data follows. Picard is totally ignored.</td></tr>
 
-  BARNABY
-     What?
+<tr><td></td><td>LOCATION--Lore's lab</td></tr>
+<tr id="L381"><td><a href="#L381">381</a></td><td>DATA:  (holding a weapon) Lore.</td></tr>
 
-  TAITT
-     We need to direct a highly energetic particle beam
-     onto the sun's surface. That should produce a
-     superfluid gas eruption. If we target the right
-     spot, the eruption would envelop the Borg ship.
+<tr id="L382"><td><a href="#L382">382</a></td><td>LORE:  You should be careful with that, brother. Somebody could get hurt.</td></tr>
 
-  CRUSHER
-     How do you know this will work?
+<tr id="L383"><td><a href="#L383">383</a></td><td>DATA:  What are you doing?</td></tr>
 
-  TAITT
-     I did my senior honours thesis on solar dynamics.
+<tr id="L384"><td><a href="#L384">384</a></td><td>LORE:  I've got a way out of here. I'm willing to forget about what happened back there and take you with me. We don't need anyone else. We're brothers. I'll give you the chip our father made. It contains much more than just emotions. It has memories. Memories our father wanted you to have.</td></tr>
 
-  BARNABY
-     Excuse me, sir, but this isn't the Academy. And a
-     student thesis is a long way from a workable plan.
+<tr id="L385"><td><a href="#L385">385</a></td><td>ANNOTATION: Lore zaps Data with emotion, making him gasp, but Data still managed to shoot Lore</td></tr>
 
-  TAITT
-     I've already configured the tractor emitters to
-     create the particle beam and I've located the
-     target point on the surface.
+<tr id="L386"><td><a href="#L386">386</a></td><td>DATA:  Lore, I must deactivate you now.</td></tr>
 
-  BARNABY
-     If her calculations are off, that eruption could
-     encompass us.
+<tr id="L387"><td><a href="#L387">387</a></td><td>LORE:  Without me, you will never feel emotion again.</td></tr>
 
-  TAITT
-     Well I'll just have to make sure my calculations
-     are accurate, Lieutenant.
+<tr id="L388"><td><a href="#L388">388</a></td><td>DATA:  I know, but you leave me no other choice.</td></tr>
 
-  CRUSHER
-     Let's do it.
+<tr id="L389"><td><a href="#L389">389</a></td><td>LORE:  I love you, brother.</td></tr>
 
-  TAITT
-     Yes, sir.
+<tr id="L390"><td><a href="#L390">390</a></td><td>DATA:  Goodbye, Lore.</td></tr>
 
-  ANNOTATION
-     a beam lances out from the belly of the Enterprise
+<tr><td></td><td>LOCATION--Borg hall</td></tr>
+<tr id="L391"><td><a href="#L391">391</a></td><td>PICARD:  What about Geordi and Troi?</td></tr>
 
-  TAITT
-     The target area of the photosphere is
-     destabilising. Pressure wave expansion is
-     accelerating.
+<tr id="L392"><td><a href="#L392">392</a></td><td>RIKER:  The Enterprise is in orbit. I had them beamed aboard.</td></tr>
 
-  BARNABY
-     Subsurface fusion has been initiated. An eruption
-     is forming on the surface.
+<tr id="L393"><td><a href="#L393">393</a></td><td>ANNOTATION: Data enters</td></tr>
 
-  ANNOTATION
-     whoosh, kaBOOM
+<tr id="L394"><td><a href="#L394">394</a></td><td>DATA:  Lore is no longer functioning, sir. He must be disassembled so that he is no longer a threat.</td></tr>
 
-  BARNABY
-     She did it! The Borg ship has been destroyed, sir.
+<tr id="L395"><td><a href="#L395">395</a></td><td>PICARD:  Welcome back, Data.</td></tr>
 
-  CRUSHER
-     Helm, take us back to the planet. Full impulse.
+<tr id="L396"><td><a href="#L396">396</a></td><td>DATA:  Thank you, sir.</td></tr>
 
-  HELM
-     Aye, sir.
+<tr id="L397"><td><a href="#L397">397</a></td><td>RIKER:  What made you change your mind, Hugh?</td></tr>
 
-  CRUSHER
-     Well done, Taitt.
+<tr id="L398"><td><a href="#L398">398</a></td><td>HUGH:  Perhaps my encounter with the Enterprise affected me more than I realised.</td></tr>
 
+<tr id="L399"><td><a href="#L399">399</a></td><td>PICARD:  What will you do now?</td></tr>
 
-LOCATION--Holding cell
+<tr id="L400"><td><a href="#L400">400</a></td><td>HUGH:  I don't know. We can't go back to the Borg Collective, and we no longer have a leader here.</td></tr>
 
-  ANNOTATION
-     Data enters
+<tr id="L401"><td><a href="#L401">401</a></td><td>PICARD:  I'm not sure that's true.</td></tr>
 
-  PICARD
-     You're killing him. He won't survive another
-     session.
+<tr id="L402"><td><a href="#L402">402</a></td><td>HUGH:  Perhaps in time, we will learn to function as individuals and work together as a group.</td></tr>
 
-  DATA
-     I did not come for him. I came for you.
+<tr id="L403"><td><a href="#L403">403</a></td><td>PICARD:  Good luck, Hugh.</td></tr>
 
+<tr id="L404"><td><a href="#L404">404</a></td><td>HUGH:  Goodbye.</td></tr>
 
-LOCATION--Borg hall
+<tr id="L405"><td><a href="#L405">405</a></td><td>SOMEONE: Captain's log, stardate 47025.4. We have returned to Federation Space and are en route to Starbase two nine five. Mister La Forge remains under Doctor Crusher's care.</td></tr>
 
-  PICARD
-     Data, it's not too late. If you remove the fibres,
-     then Geordi might yet recover.
+<tr><td></td><td>LOCATION--Data's quarters</td></tr>
+<tr id="L406"><td><a href="#L406">406</a></td><td>ANNOTATION: Data is holding a small circle with a triangle cut out of it in a pair of tweezers when the doorbell rings</td></tr>
 
-  DATA
-     That would not be possible.
+<tr id="L407"><td><a href="#L407">407</a></td><td>DATA:  Enter.</td></tr>
 
-  PICARD
-     Why? Because Lore tells you so?
+<tr id="L408"><td><a href="#L408">408</a></td><td>LAFORGE:  Hi, Data. I just wanted to let you know that Doctor Crusher says I'll be able to return to duty soon.</td></tr>
 
-  DATA
-     It is for the greater good.
+<tr id="L409"><td><a href="#L409">409</a></td><td>DATA:  I am relieved that the injuries I inflicted on you are not permanent.</td></tr>
 
-  PICARD
-     Good? Data, isn't good and bad, right and wrong, a
-     function of your ethical programme?
+<tr id="L410"><td><a href="#L410">410</a></td><td>LAFORGE:  What's that?</td></tr>
 
-  DATA
-     That is correct.
+<tr id="L411"><td><a href="#L411">411</a></td><td>DATA:  This is the chip my father created for me so that I could experience emotions. I had it removed from Lore's body before he was dismantled.</td></tr>
 
-  PICARD
-     What does that programme tell you about what
-     you're doing to Geordi? About what you and Lore
-     are doing to the Borg? It tells you that these
-     things are wrong, doesn't it, Data? So how can
-     actions that are wrong lead to a greater good?
+<tr id="L412"><td><a href="#L412">412</a></td><td>LAFORGE:  Does it work?</td></tr>
 
-  DATA
-     You are attempting to confuse me.
+<tr id="L413"><td><a href="#L413">413</a></td><td>DATA:  No. I am pleased to say it was damaged when I was forced to fire on Lore.</td></tr>
 
-  PICARD
-     No, you're not confused, Data. You're sensing the
-     truth. Your ethical programme is fighting the
-     negative emotions that Lore is sending you.
+<tr id="L414"><td><a href="#L414">414</a></td><td>ANNOTATION: he puts it in a box</td></tr>
 
-  LORE
-     Ah, Captain. Thank you so much for joining us. You
-     are going to assist me in a most important
-     ceremony.
+<tr id="L415"><td><a href="#L415">415</a></td><td>LAFORGE:  Pleased? Data, you've wanted emotions all your life.</td></tr>
 
+<tr id="L416"><td><a href="#L416">416</a></td><td>DATA:  Yes. But emotions were responsible for what I did to you. I would never risk letting that happen again. My friendship with you is too important to me.</td></tr>
 
-LOCATION--Cavern
+<tr id="L417"><td><a href="#L417">417</a></td><td>ANNOTATION: Data prepares to phaser the box, and Geordi picks it up instead</td></tr>
 
-  WORF
-     We can use the environmental control ducts to get
-     into the compound. They should lead us to the
-     detention area.
+<tr id="L418"><td><a href="#L418">418</a></td><td>LAFORGE:  Data, I wouldn't be very much of a friend if I let you give up on a life-long dream, would I? Maybe someday, when you're ready.</td></tr>
 
-  RIKER
-     We'll have to move fast. If we need to stun one of
-     the guards, the Borg will know right away that
-     he's been hurt.
-
-  HUGH
-     When they realise, your escape route may be
-     compromised.
-
-  RIKER
-     I guess we'll have to take that chance.
-
-  HUGH
-     Good luck, Commander.
-
-
-LOCATION--Borg hall
-
-  LORE
-     It's time to put aside all doubts, brother. It's
-     time to close the door on the past and commit
-     yourself to the great work that lies ahead of us.
-     I need to know I can count on you. As proof, I
-     want you to kill Picard.
-
-  ANNOTATION
-     Data raises the weapon
-
-  DATA
-     No. That would be wrong.
-
-  LORE
-     I didn't think you'd be able to do it. You've
-     spent too many years among humans.
-
-  CROSIS
-     Hold him.
-
-  ANNOTATION
-     we see Hugh amongst the crowd
-
-  LORE
-     I've asked many sacrifices of you. Sacrifices I
-     knew were necessary in order to build a better
-     future. I want you to know that I ask no more of
-     you than I am prepared to give myself. I am
-     willing to make the greatest sacrifice of all. My
-     own dear brother. Goodbye, Data.
-
-  HUGH
-     No!
-
-  ANNOTATION
-     Hugh rushes forward and stops Lore from firing.
-     Crosis pushes him off then is shot by either Riker
-     or Worf up in the gallery. Fights break out
-     between Lore's Borg and Hugh's group. Lore makes a
-     run for it and Data follows. Picard is totally
-     ignored.
-
-
-LOCATION--Lore's lab
-
-  DATA
-     (holding a weapon) Lore.
-
-  LORE
-     You should be careful with that, brother. Somebody
-     could get hurt.
-
-  DATA
-     What are you doing?
-
-  LORE
-     I've got a way out of here. I'm willing to forget
-     about what happened back there and take you with
-     me. We don't need anyone else. We're brothers.
-     I'll give you the chip our father made. It
-     contains much more than just emotions. It has
-     memories. Memories our father wanted you to have.
-
-  ANNOTATION
-     Lore zaps Data with emotion, making him gasp, but
-     Data still managed to shoot Lore
-
-  DATA
-     Lore, I must deactivate you now.
-
-  LORE
-     Without me, you will never feel emotion again.
-
-  DATA
-     I know, but you leave me no other choice.
-
-  LORE
-     I love you, brother.
-
-  DATA
-     Goodbye, Lore.
-
-
-LOCATION--Borg hall
-
-  PICARD
-     What about Geordi and Troi?
-
-  RIKER
-     The Enterprise is in orbit. I had them beamed
-     aboard.
-
-  ANNOTATION
-     Data enters
-
-  DATA
-     Lore is no longer functioning, sir. He must be
-     disassembled so that he is no longer a threat.
-
-  PICARD
-     Welcome back, Data.
-
-  DATA
-     Thank you, sir.
-
-  RIKER
-     What made you change your mind, Hugh?
-
-  HUGH
-     Perhaps my encounter with the Enterprise affected
-     me more than I realised.
-
-  PICARD
-     What will you do now?
-
-  HUGH
-     I don't know. We can't go back to the Borg
-     Collective, and we no longer have a leader here.
-
-  PICARD
-     I'm not sure that's true.
-
-  HUGH
-     Perhaps in time, we will learn to function as
-     individuals and work together as a group.
-
-  PICARD
-     Good luck, Hugh.
-
-  HUGH
-     Goodbye.
-
-  SOMEONE
-     Captain's log, stardate 47025.4. We have returned
-     to Federation Space and are en route to Starbase
-     two nine five. Mister La Forge remains under
-     Doctor Crusher's care.
-
-
-LOCATION--Data's quarters
-
-  ANNOTATION
-     Data is holding a small circle with a triangle cut
-     out of it in a pair of tweezers when the doorbell
-     rings
-
-  DATA
-     Enter.
-
-  LAFORGE
-     Hi, Data. I just wanted to let you know that
-     Doctor Crusher says I'll be able to return to duty
-     soon.
-
-  DATA
-     I am relieved that the injuries I inflicted on you
-     are not permanent.
-
-  LAFORGE
-     What's that?
-
-  DATA
-     This is the chip my father created for me so that
-     I could experience emotions. I had it removed from
-     Lore's body before he was dismantled.
-
-  LAFORGE
-     Does it work?
-
-  DATA
-     No. I am pleased to say it was damaged when I was
-     forced to fire on Lore.
-
-  ANNOTATION
-     he puts it in a box
-
-  LAFORGE
-     Pleased? Data, you've wanted emotions all your
-     life.
-
-  DATA
-     Yes. But emotions were responsible for what I did
-     to you. I would never risk letting that happen
-     again. My friendship with you is too important to
-     me.
-
-  ANNOTATION
-     Data prepares to phaser the box, and Geordi picks
-     it up instead
-
-  LAFORGE
-     Data, I wouldn't be very much of a friend if I let
-     you give up on a life-long dream, would I? Maybe
-     someday, when you're ready.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

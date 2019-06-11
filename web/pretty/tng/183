@@ -1,1393 +1,707 @@
-Final Mission
-TEASER
-
-LOCATION--Bridge
+<table class="table table-striped">
+<tr><td></td><td>Final Mission</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: Wesley hurries in, breathless</td></tr>
 
-  ANNOTATION
-     Wesley hurries in, breathless
-
-  WESLEY
-     Sir?
-
-  PICARD
-     Mister Crusher, I summoned you almost ten minutes
-     ago.
+<tr id="L2"><td><a href="#L2">2</a></td><td>WESLEY:  Sir?</td></tr>
 
-  WESLEY
-     Sir, I'm sorry. I was in the middle of a very
-     important experiment. I was using some very
-     volatile compounds. I couldn't just leave them
-     lying out
+<tr id="L3"><td><a href="#L3">3</a></td><td>PICARD:  Mister Crusher, I summoned you almost ten minutes ago.</td></tr>
 
-  PICARD
-     Excuses, Mister Crusher?
+<tr id="L4"><td><a href="#L4">4</a></td><td>WESLEY:  Sir, I'm sorry. I was in the middle of a very important experiment. I was using some very volatile compounds. I couldn't just leave them lying out</td></tr>
 
-  WESLEY
-     No, sir. I was just attempting to offer a
+<tr id="L5"><td><a href="#L5">5</a></td><td>PICARD:  Excuses, Mister Crusher?</td></tr>
 
-  PICARD
-     Because I can assure you that will not go down
-     well at Starfleet Academy.
+<tr id="L6"><td><a href="#L6">6</a></td><td>WESLEY:  No, sir. I was just attempting to offer a</td></tr>
 
-  WESLEY
-     Yes, sir, I'm aware of that. The Academy?
+<tr id="L7"><td><a href="#L7">7</a></td><td>PICARD:  Because I can assure you that will not go down well at Starfleet Academy.</td></tr>
 
-  PICARD
-     I just received a message from Admiral Nsomeka.
-     She expects you to report in two weeks. A position
-     has opened up in this year's class.
+<tr id="L8"><td><a href="#L8">8</a></td><td>WESLEY:  Yes, sir, I'm aware of that. The Academy?</td></tr>
 
-  WESLEY
-     Thank you.
+<tr id="L9"><td><a href="#L9">9</a></td><td>PICARD:  I just received a message from Admiral Nsomeka. She expects you to report in two weeks. A position has opened up in this year's class.</td></tr>
 
-  PICARD
-     Now, you'll have to work overtime in order to
-     catch up, but I have assured the Admiral that you
-     are capable of that. Please don't make a liar out
-     of me.
+<tr id="L10"><td><a href="#L10">10</a></td><td>WESLEY:  Thank you.</td></tr>
 
-  WESLEY
-     Oh, no, sir, I won't.
+<tr id="L11"><td><a href="#L11">11</a></td><td>PICARD:  Now, you'll have to work overtime in order to catch up, but I have assured the Admiral that you are capable of that. Please don't make a liar out of me.</td></tr>
 
-  PICARD
-     Well, for your final mission aboard the Enterprise
-     you will accompany me to Pentarus Five while I try
-     to sort out the problems with the miners.
-     Commander Riker has told me you've been studying
-     the effects of outpost judiciary decisions on
-     Federation Law. What better way to get first hand
-     experience?
+<tr id="L12"><td><a href="#L12">12</a></td><td>WESLEY:  Oh, no, sir, I won't.</td></tr>
 
-  WORF
-     Captain, I am picking up a general distress signal
-     from Gamelan Five.
+<tr id="L13"><td><a href="#L13">13</a></td><td>PICARD:  Well, for your final mission aboard the Enterprise you will accompany me to Pentarus Five while I try to sort out the problems with the miners. Commander Riker has told me you've been studying the effects of outpost judiciary decisions on Federation Law. What better way to get first hand experience?</td></tr>
 
-  PICARD
-     On screen.
+<tr id="L14"><td><a href="#L14">14</a></td><td>WORF:  Captain, I am picking up a general distress signal from Gamelan Five.</td></tr>
 
-  SONGI [on viewscreen]
-     Please. Does anyone read us?
+<tr id="L15"><td><a href="#L15">15</a></td><td>PICARD:  On screen.</td></tr>
 
-  PICARD
-     Open a channel. I am Captain Jean-Luc Picard of
-     the Federation Starship Enterprise.
+<tr id="L16"><td><a href="#L16">16</a></td><td>SONGI [on viewscreen]:  Please. Does anyone read us?</td></tr>
 
-  SONGI [on viewscreen]
-     Captain, I am Chairman Songi of Gamelan Four. An
-     unidentified spacecraft has entered orbit above
-     our planet. Radiation levels in our atmosphere
-     have increased by three thousand percent. We can
-     only assume we are under attack, but the ship will
-     not answer our hails. We are a peaceful planet. We
-     have no ability to defend ourselves. Please, can
-     you help us?
+<tr id="L17"><td><a href="#L17">17</a></td><td>PICARD:  Open a channel. I am Captain Jean-Luc Picard of the Federation Starship Enterprise.</td></tr>
 
-  PICARD
-     Mister Data, are we close enough for a scan?
+<tr id="L18"><td><a href="#L18">18</a></td><td>SONGI [on viewscreen]:  Captain, I am Chairman Songi of Gamelan Four. An unidentified spacecraft has entered orbit above our planet. Radiation levels in our atmosphere have increased by three thousand percent. We can only assume we are under attack, but the ship will not answer our hails. We are a peaceful planet. We have no ability to defend ourselves. Please, can you help us?</td></tr>
 
-  DATA
-     No, sir, we are out of range.
+<tr id="L19"><td><a href="#L19">19</a></td><td>PICARD:  Mister Data, are we close enough for a scan?</td></tr>
 
-  RIKER
-     Any other ships in that sector?
+<tr id="L20"><td><a href="#L20">20</a></td><td>DATA:  No, sir, we are out of range.</td></tr>
 
-  DATA
-     Negative, Commander.
+<tr id="L21"><td><a href="#L21">21</a></td><td>RIKER:  Any other ships in that sector?</td></tr>
 
-  PICARD
-     Chairman Songi, we will proceed immediately to
-     your planet.
+<tr id="L22"><td><a href="#L22">22</a></td><td>DATA:  Negative, Commander.</td></tr>
 
-  SONGI [on viewscreen]
-     Thank you, Captain.
+<tr id="L23"><td><a href="#L23">23</a></td><td>PICARD:  Chairman Songi, we will proceed immediately to your planet.</td></tr>
 
-  PICARD
-     Commander Riker, take the Enterprise and
-     investigate the problem. Ensign Crusher and I will
-     proceed to Pentarus Five. The miners have sent a
-     shuttle. We shall leave in ten minutes.
+<tr id="L24"><td><a href="#L24">24</a></td><td>SONGI [on viewscreen]:  Thank you, Captain.</td></tr>
 
-  WESLEY
-     Yes, sir.
+<tr id="L25"><td><a href="#L25">25</a></td><td>PICARD:  Commander Riker, take the Enterprise and investigate the problem. Ensign Crusher and I will proceed to Pentarus Five. The miners have sent a shuttle. We shall leave in ten minutes.</td></tr>
 
+<tr id="L26"><td><a href="#L26">26</a></td><td>WESLEY:  Yes, sir.</td></tr>
 
-LOCATION--Shuttlebay
+<tr><td></td><td>LOCATION--Shuttlebay</td></tr>
+<tr id="L27"><td><a href="#L27">27</a></td><td>LAFORGE:  You know, I've noticed here that your manoeuvring thrusters are rigged in a configuration I've never seen before.</td></tr>
 
-  LAFORGE
-     You know, I've noticed here that your manoeuvring
-     thrusters are rigged in a configuration I've never
-     seen before.
+<tr id="L28"><td><a href="#L28">28</a></td><td>DIRGO:  It's my own modification. It's more efficient. You can study it if you want to.</td></tr>
 
-  DIRGO
-     It's my own modification. It's more efficient. You
-     can study it if you want to.
+<tr id="L29"><td><a href="#L29">29</a></td><td>ANNOTATION: say Hi! to Nick Tate, aka Eagle pilot Carter from Space 1999</td></tr>
 
-  ANNOTATION
-     say Hi! to Nick Tate, aka Eagle pilot Carter from
-     Space 1999
+<tr id="L30"><td><a href="#L30">30</a></td><td>ANNOTATION: Picard and Wesley enter</td></tr>
 
-  ANNOTATION
-     Picard and Wesley enter
+<tr id="L31"><td><a href="#L31">31</a></td><td>LAFORGE:  Excuse me, Captain. I've run safety and operational inspections, Captain. Everything checks out all right, but I won't make any claims as to its comfort.</td></tr>
 
-  LAFORGE
-     Excuse me, Captain. I've run safety and
-     operational inspections, Captain. Everything
-     checks out all right, but I won't make any claims
-     as to its comfort.
+<tr id="L32"><td><a href="#L32">32</a></td><td>DIRGO:  Captain Picard. Captain Dirgo of the shuttlecraft Nenebek.</td></tr>
 
-  DIRGO
-     Captain Picard. Captain Dirgo of the shuttlecraft
-     Nenebek.
+<tr id="L33"><td><a href="#L33">33</a></td><td>PICARD:  Ah, Captain. It's good to meet you.</td></tr>
 
-  PICARD
-     Ah, Captain. It's good to meet you.
+<tr id="L34"><td><a href="#L34">34</a></td><td>WESLEY:  Captain? Of a mining shuttle?</td></tr>
 
-  WESLEY
-     Captain? Of a mining shuttle?
+<tr id="L35"><td><a href="#L35">35</a></td><td>DIRGO:  Yes, Ensign, Captain. My ship isn't pretty, she isn't big, but we've logged almost ten thousand hours together.</td></tr>
 
-  DIRGO
-     Yes, Ensign, Captain. My ship isn't pretty, she
-     isn't big, but we've logged almost ten thousand
-     hours together.
+<tr id="L36"><td><a href="#L36">36</a></td><td>PICARD:  Oh, yes. She seems a very sturdy craft.</td></tr>
 
-  PICARD
-     Oh, yes. She seems a very sturdy craft.
+<tr id="L37"><td><a href="#L37">37</a></td><td>DIRGO:  We should go. Captain, will you take Ops?</td></tr>
 
-  DIRGO
-     We should go. Captain, will you take Ops?
+<tr id="L38"><td><a href="#L38">38</a></td><td>PICARD:  I'll let Ensign Crusher perform that task. I have to study up on Regalian law.</td></tr>
 
-  PICARD
-     I'll let Ensign Crusher perform that task. I have
-     to study up on Regalian law.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L39"><td><a href="#L39">39</a></td><td>DATA:  Shuttlecraft has cleared the bay, sir.</td></tr>
 
+<tr id="L40"><td><a href="#L40">40</a></td><td>RIKER:  Ensign Allenby, set a course for the Gamelan system. Warp six.</td></tr>
 
-LOCATION--Bridge
+<tr id="L41"><td><a href="#L41">41</a></td><td>ALLENBY:  (a young blonde) Aye, aye, sir.</td></tr>
 
-  DATA
-     Shuttlecraft has cleared the bay, sir.
+<tr><td></td><td>LOCATION--Shuttlecraft</td></tr>
+<tr id="L42"><td><a href="#L42">42</a></td><td>DIRGO:  You've done this before?</td></tr>
 
-  RIKER
-     Ensign Allenby, set a course for the Gamelan
-     system. Warp six.
+<tr id="L43"><td><a href="#L43">43</a></td><td>WESLEY:  Yes.</td></tr>
 
-  ALLENBY
-     (a young blonde) Aye, aye, sir.
+<tr id="L44"><td><a href="#L44">44</a></td><td>DIRGO:  Your Captain back there. If he isn't tougher than he looks, those miners will tear him apart.</td></tr>
 
+<tr id="L45"><td><a href="#L45">45</a></td><td>WESLEY:  Don't worry about Captain Picard. He'll handle them.</td></tr>
 
-LOCATION--Shuttlecraft
+<tr id="L46"><td><a href="#L46">46</a></td><td>ANNOTATION: alarms come on and the lights go out</td></tr>
 
-  DIRGO
-     You've done this before?
+<tr id="L47"><td><a href="#L47">47</a></td><td>WESLEY:  I've lost navigation.</td></tr>
 
-  WESLEY
-     Yes.
+<tr id="L48"><td><a href="#L48">48</a></td><td>DIRGO:  The port thruster quad's gone. Guidance coupling's severed. I can't stabilise her.</td></tr>
 
-  DIRGO
-     Your Captain back there. If he isn't tougher than
-     he looks, those miners will tear him apart.
+<tr id="L49"><td><a href="#L49">49</a></td><td>ANNOTATION: they plunge towards a planetary system. Picard comes out of the rear compartment</td></tr>
 
-  WESLEY
-     Don't worry about Captain Picard. He'll handle
-     them.
+<tr id="L50"><td><a href="#L50">50</a></td><td>WESLEY:  The port thruster module blew.</td></tr>
 
-  ANNOTATION
-     alarms come on and the lights go out
+<tr id="L51"><td><a href="#L51">51</a></td><td>DIRGO:  Nenebek to Enterprise, emergency. Do you read? Pentarus station, come in. Communication's gone.</td></tr>
 
-  WESLEY
-     I've lost navigation.
+<tr id="L52"><td><a href="#L52">52</a></td><td>PICARD:  Is your navigational system functioning?</td></tr>
 
-  DIRGO
-     The port thruster quad's gone. Guidance coupling's
-     severed. I can't stabilise her.
+<tr id="L53"><td><a href="#L53">53</a></td><td>DIRGO:  Negative. Switching to manual. Fifty million kilometres to Pentarus Five. We may have to put down somewhere else.</td></tr>
 
-  ANNOTATION
-     they plunge towards a planetary system. Picard
-     comes out of the rear compartment
+<tr id="L54"><td><a href="#L54">54</a></td><td>PICARD:  Mister Crusher, scan for a class-M environment.</td></tr>
 
-  WESLEY
-     The port thruster module blew.
+<tr id="L55"><td><a href="#L55">55</a></td><td>WESLEY:  Aye, sir.</td></tr>
 
-  DIRGO
-     Nenebek to Enterprise, emergency. Do you read?
-     Pentarus station, come in. Communication's gone.
+<tr id="L56"><td><a href="#L56">56</a></td><td>DIRGO:  I'm going to have to throttle back on the main impulse engines.</td></tr>
 
-  PICARD
-     Is your navigational system functioning?
+<tr id="L57"><td><a href="#L57">57</a></td><td>WESLEY:  Sir, one of the moons around Pentarus Three registers as class M, barely. The mean temperature is fifty five degrees Celsius.</td></tr>
 
-  DIRGO
-     Negative. Switching to manual. Fifty million
-     kilometres to Pentarus Five. We may have to put
-     down somewhere else.
+<tr id="L58"><td><a href="#L58">58</a></td><td>PICARD:  Life forms indicated?</td></tr>
 
-  PICARD
-     Mister Crusher, scan for a class-M environment.
+<tr id="L59"><td><a href="#L59">59</a></td><td>WESLEY:  Negative, but scanning is limited. There's a very strong magnetic field around the surface.</td></tr>
 
-  WESLEY
-     Aye, sir.
+<tr id="L60"><td><a href="#L60">60</a></td><td>DIRGO:  We don't have a choice. Save the impulse engine for controlled entry.</td></tr>
 
-  DIRGO
-     I'm going to have to throttle back on the main
-     impulse engines.
+<tr id="L61"><td><a href="#L61">61</a></td><td>PICARD:  Mister Crusher, reconfigure working thrusters to manual input.</td></tr>
 
-  WESLEY
-     Sir, one of the moons around Pentarus Three
-     registers as class M, barely. The mean temperature
-     is fifty five degrees Celsius.
+<tr id="L62"><td><a href="#L62">62</a></td><td>WESLEY:  I'll try, sir but, this grid looks about a hundred years old.</td></tr>
 
-  PICARD
-     Life forms indicated?
+<tr id="L63"><td><a href="#L63">63</a></td><td>DIRGO:  We don't have the Federation's resources. Captain, take the helm. I'm rerouting the deuterium flow. Hull temperature seven hundred degrees.</td></tr>
 
-  WESLEY
-     Negative, but scanning is limited. There's a very
-     strong magnetic field around the surface.
+<tr id="L64"><td><a href="#L64">64</a></td><td>PICARD:  Beginning braking manoeuvre.</td></tr>
 
-  DIRGO
-     We don't have a choice. Save the impulse engine
-     for controlled entry.
+<tr id="L65"><td><a href="#L65">65</a></td><td>DIRGO:  We're below mach one. Bypass the thrusters now.</td></tr>
 
-  PICARD
-     Mister Crusher, reconfigure working thrusters to
-     manual input.
+<tr id="L66"><td><a href="#L66">66</a></td><td>PICARD:  Brace yourself for impact.</td></tr>
 
-  WESLEY
-     I'll try, sir but, this grid looks about a hundred
-     years old.
+<tr><td></td><td>LOCATION--Moon's surface</td></tr>
+<tr id="L67"><td><a href="#L67">67</a></td><td>ANNOTATION: a very bright sun is glaring down on a desert</td></tr>
 
-  DIRGO
-     We don't have the Federation's resources. Captain,
-     take the helm. I'm rerouting the deuterium flow.
-     Hull temperature seven hundred degrees.
+<tr id="L68"><td><a href="#L68">68</a></td><td>PICARD:  Dear God. Let's salvage what we can. The first thing we'll need is shelter from the sun. In this heat, the shuttle will act like an oven.</td></tr>
 
-  PICARD
-     Beginning braking manoeuvre.
+<tr id="L69"><td><a href="#L69">69</a></td><td>DIRGO:  All the systems are out. Can't get a communication channel. Location transponder's gone too.</td></tr>
 
-  DIRGO
-     We're below mach one. Bypass the thrusters now.
+<tr id="L70"><td><a href="#L70">70</a></td><td>PICARD:  We'll have to check the craft for something to protect our heads and eyes. And Captain, please recover your medical supplies, food and water rations</td></tr>
 
-  PICARD
-     Brace yourself for impact.
+<tr id="L71"><td><a href="#L71">71</a></td><td>DIRGO:  Well, the medical supplies are all right.</td></tr>
 
+<tr id="L72"><td><a href="#L72">72</a></td><td>PICARD:  Food and water?</td></tr>
 
-LOCATION--Moon's surface
+<tr id="L73"><td><a href="#L73">73</a></td><td>DIRGO:  The replicator, damaged beyond repair.</td></tr>
 
-  ANNOTATION
-     a very bright sun is glaring down on a desert
+<tr id="L74"><td><a href="#L74">74</a></td><td>PICARD:  Surely you have emergency supplies?</td></tr>
 
-  PICARD
-     Dear God. Let's salvage what we can. The first
-     thing we'll need is shelter from the sun. In this
-     heat, the shuttle will act like an oven.
+<tr id="L75"><td><a href="#L75">75</a></td><td>DIRGO:  This isn't a starship. I have to choose what I carry.</td></tr>
 
-  DIRGO
-     All the systems are out. Can't get a communication
-     channel. Location transponder's gone too.
+<tr id="L76"><td><a href="#L76">76</a></td><td>PICARD:  Are you telling me there's no water?</td></tr>
 
-  PICARD
-     We'll have to check the craft for something to
-     protect our heads and eyes. And Captain, please
-     recover your medical supplies, food and water
-     rations
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L77"><td><a href="#L77">77</a></td><td>ANNOTATION: Enterprise meets up with the polluter</td></tr>
 
-  DIRGO
-     Well, the medical supplies are all right.
+<tr id="L78"><td><a href="#L78">78</a></td><td>DATA:  Scanning. Vessel reads as an unmanned sublight freighter.</td></tr>
 
-  PICARD
-     Food and water?
+<tr id="L79"><td><a href="#L79">79</a></td><td>RIKER:  Origin?</td></tr>
 
-  DIRGO
-     The replicator, damaged beyond repair.
+<tr id="L80"><td><a href="#L80">80</a></td><td>DATA:  Indeterminate. Propulsion appears to employ a gaseous core fission reactor, but it is not functioning.</td></tr>
 
-  PICARD
-     Surely you have emergency supplies?
+<tr id="L81"><td><a href="#L81">81</a></td><td>LAFORGE:  The radiation levels from that ship are off the scale.</td></tr>
 
-  DIRGO
-     This isn't a starship. I have to choose what I
-     carry.
+<tr id="L82"><td><a href="#L82">82</a></td><td>RIKER:  Could that be leakage from their engines?</td></tr>
 
-  PICARD
-     Are you telling me there's no water?
+<tr id="L83"><td><a href="#L83">83</a></td><td>DATA:  No, sir. Engine reactor elements appear to have been inactive for approximately three hundred years. The vessel is carrying various unstable waste products.</td></tr>
 
+<tr id="L84"><td><a href="#L84">84</a></td><td>LAFORGE:  You mean, it's a garbage scow.</td></tr>
 
-LOCATION--Bridge
+<tr id="L85"><td><a href="#L85">85</a></td><td>DATA:  Precisely.</td></tr>
 
-  ANNOTATION
-     Enterprise meets up with the polluter
+<tr id="L86"><td><a href="#L86">86</a></td><td>RIKER:  Mister Worf, open a hailing frequency. Chairman Songi, this is Commander Riker on board the Enterprise.</td></tr>
 
-  DATA
-     Scanning. Vessel reads as an unmanned sublight
-     freighter.
+<tr id="L87"><td><a href="#L87">87</a></td><td>SONGI [on viewscreen]:  Yes, Commander.</td></tr>
 
-  RIKER
-     Origin?
+<tr id="L88"><td><a href="#L88">88</a></td><td>RIKER:  It appears you've inherited someone else's problem. An old waste vessel caught by your planet's gravitational pull.</td></tr>
 
-  DATA
-     Indeterminate. Propulsion appears to employ a
-     gaseous core fission reactor, but it is not
-     functioning.
+<tr id="L89"><td><a href="#L89">89</a></td><td>CRUSHER:  Have your people begun to suffer from radiation sickness?</td></tr>
 
-  LAFORGE
-     The radiation levels from that ship are off the
-     scale.
+<tr id="L90"><td><a href="#L90">90</a></td><td>SONGI [on viewscreen]:  Not yet, but some areas are already detecting dangerous levels.</td></tr>
 
-  RIKER
-     Could that be leakage from their engines?
+<tr id="L91"><td><a href="#L91">91</a></td><td>RIKER:  We'll do our best to get it out of here as quickly as possible.</td></tr>
 
-  DATA
-     No, sir. Engine reactor elements appear to have
-     been inactive for approximately three hundred
-     years. The vessel is carrying various unstable
-     waste products.
+<tr id="L92"><td><a href="#L92">92</a></td><td>SONGI [on viewscreen]:  Thank you, Commander.</td></tr>
 
-  LAFORGE
-     You mean, it's a garbage scow.
+<tr id="L93"><td><a href="#L93">93</a></td><td>RIKER:  We're going to push that barge into the Gamelan sun.</td></tr>
 
-  DATA
-     Precisely.
+<tr id="L94"><td><a href="#L94">94</a></td><td>DATA:  Sir, the Meltasion asteroid belt lies between here and the sun.</td></tr>
 
-  RIKER
-     Mister Worf, open a hailing frequency. Chairman
-     Songi, this is Commander Riker on board the
-     Enterprise.
+<tr id="L95"><td><a href="#L95">95</a></td><td>RIKER:  Then we'll have to take it ourselves. We'll use our deflectors clear a path through the asteroids.</td></tr>
 
-  SONGI [on viewscreen]
-     Yes, Commander.
+<tr id="L96"><td><a href="#L96">96</a></td><td>LAFORGE:  I don't like the idea of getting close enough to that barge to tow it. The radiation levels are so high we'd be risking the contamination of the entire crew.</td></tr>
 
-  RIKER
-     It appears you've inherited someone else's
-     problem. An old waste vessel caught by your
-     planet's gravitational pull.
+<tr id="L97"><td><a href="#L97">97</a></td><td>RIKER:  Do you have a better idea, Geordi?</td></tr>
 
-  CRUSHER
-     Have your people begun to suffer from radiation
-     sickness?
+<tr id="L98"><td><a href="#L98">98</a></td><td>LAFORGE:  We could send over a construction module to attach thrusters to it. Then we could direct it through the asteroid belt from a safe distance.</td></tr>
 
-  SONGI [on viewscreen]
-     Not yet, but some areas are already detecting
-     dangerous levels.
+<tr id="L99"><td><a href="#L99">99</a></td><td>WORF:  Commander, a message from the mining settlement on Pentarus Five. The shuttlecraft carrying Captain Picard has not yet arrived.</td></tr>
 
-  RIKER
-     We'll do our best to get it out of here as quickly
-     as possible.
+<tr id="L100"><td><a href="#L100">100</a></td><td>CRUSHER:  They left here at oh eight hundred hours.</td></tr>
 
-  SONGI [on viewscreen]
-     Thank you, Commander.
+<tr id="L101"><td><a href="#L101">101</a></td><td>WORF:  They have asked if we are beginning a search.</td></tr>
 
-  RIKER
-     We're going to push that barge into the Gamelan
-     sun.
+<tr id="L102"><td><a href="#L102">102</a></td><td>RIKER:  Tell them we have an emergency situation. We'll begin a search as soon as we've completed that.</td></tr>
 
-  DATA
-     Sir, the Meltasion asteroid belt lies between here
-     and the sun.
+<tr id="L103"><td><a href="#L103">103</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  RIKER
-     Then we'll have to take it ourselves. We'll use
-     our deflectors clear a path through the asteroids.
+<tr id="L104"><td><a href="#L104">104</a></td><td>RIKER:  Mister La Forge, prepare to launch the construction module. I'd like to get this over with as fast as possible.</td></tr>
 
-  LAFORGE
-     I don't like the idea of getting close enough to
-     that barge to tow it. The radiation levels are so
-     high we'd be risking the contamination of the
-     entire crew.
+<tr><td></td><td>LOCATION--Moon's surface</td></tr>
+<tr id="L105"><td><a href="#L105">105</a></td><td>ANNOTATION: They've fashioned headdresses for themselves, and Wesley is working in the shadow of the shuttle</td></tr>
 
-  RIKER
-     Do you have a better idea, Geordi?
+<tr id="L106"><td><a href="#L106">106</a></td><td>PICARD:  Any luck with the tricorder, Ensign?</td></tr>
 
-  LAFORGE
-     We could send over a construction module to attach
-     thrusters to it. Then we could direct it through
-     the asteroid belt from a safe distance.
+<tr id="L107"><td><a href="#L107">107</a></td><td>WESLEY:  I think so, sir. The scanning range may be a bit limited, but it's better than nothing.</td></tr>
 
-  WORF
-     Commander, a message from the mining settlement on
-     Pentarus Five. The shuttlecraft carrying Captain
-     Picard has not yet arrived.
+<tr id="L108"><td><a href="#L108">108</a></td><td>DIRGO:  These were on board, Captain. They're working.</td></tr>
 
-  CRUSHER
-     They left here at oh eight hundred hours.
+<tr id="L109"><td><a href="#L109">109</a></td><td>ANNOTATION: weapons, on makeshift belts</td></tr>
 
-  WORF
-     They have asked if we are beginning a search.
+<tr id="L110"><td><a href="#L110">110</a></td><td>PICARD:  Excellent. Our communicators may not be able to get a signal through this strong a magnetic field. I'm fashioning an arrow. If a search party finds the wreckage, they'll know we've headed for those mountains.</td></tr>
 
-  RIKER
-     Tell them we have an emergency situation. We'll
-     begin a search as soon as we've completed that.
+<tr id="L111"><td><a href="#L111">111</a></td><td>ANNOTATION: using brittle debris to make the pointer on the sand</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L112"><td><a href="#L112">112</a></td><td>DIRGO:  Are you crazy? They're too far away. We'll never make it.</td></tr>
 
-  RIKER
-     Mister La Forge, prepare to launch the
-     construction module. I'd like to get this over
-     with as fast as possible.
+<tr id="L113"><td><a href="#L113">113</a></td><td>PICARD:  We can't survive in this sun. Where there's mountains, there's shelter.</td></tr>
 
+<tr id="L114"><td><a href="#L114">114</a></td><td>DIRGO:  You've got no right to make the decisions. I'm the captain of this ship.</td></tr>
 
-LOCATION--Moon's surface
+<tr id="L115"><td><a href="#L115">115</a></td><td>WESLEY:  If you want to get out of this, I suggest you listen to Captain Picard. He's the one who's going to keep us alive.</td></tr>
 
-  ANNOTATION
-     They've fashioned headdresses for themselves, and
-     Wesley is working in the shadow of the shuttle
+<tr id="L116"><td><a href="#L116">116</a></td><td>PICARD:  Thank you, Ensign, that's enough. Captain Dirgo, you're an able pilot. I welcome your input. Do you feel that there is an alternative we're overlooking?</td></tr>
 
-  PICARD
-     Any luck with the tricorder, Ensign?
+<tr id="L117"><td><a href="#L117">117</a></td><td>DIRGO:  No.</td></tr>
 
-  WESLEY
-     I think so, sir. The scanning range may be a bit
-     limited, but it's better than nothing.
+<tr id="L118"><td><a href="#L118">118</a></td><td>PICARD:  Very well. I suggest a steady pace, not a brisk one. We need to ration our energy. Try breathing through your nose. That way it will help to prevent dehydration. I'll lead. Captain Dirgo, will you bring up the rear?</td></tr>
 
-  DIRGO
-     These were on board, Captain. They're working.
+<tr id="L119"><td><a href="#L119">119</a></td><td>ANNOTATION: Dirgo says farewell to his ship, picks up the medical bag and off they trudge</td></tr>
 
-  ANNOTATION
-     weapons, on makeshift belts
+<tr id="L120"><td><a href="#L120">120</a></td><td>ANNOTATION: Dirgo is the first one to stumble in the heat</td></tr>
 
-  PICARD
-     Excellent. Our communicators may not be able to
-     get a signal through this strong a magnetic field.
-     I'm fashioning an arrow. If a search party finds
-     the wreckage, they'll know we've headed for those
-     mountains.
+<tr id="L121"><td><a href="#L121">121</a></td><td>WESLEY:  And you were worried about how tough the Captain is?</td></tr>
 
-  ANNOTATION
-     using brittle debris to make the pointer on the
-     sand
+<tr id="L122"><td><a href="#L122">122</a></td><td>ANNOTATION: Wesley walks off, and Dirgo takes a swig from a concealed bottle</td></tr>
 
-  DIRGO
-     Are you crazy? They're too far away. We'll never
-     make it.
+<tr id="L123"><td><a href="#L123">123</a></td><td>ANNOTATION: the mountains are a lot closer now</td></tr>
 
-  PICARD
-     We can't survive in this sun. Where there's
-     mountains, there's shelter.
+<tr id="L124"><td><a href="#L124">124</a></td><td>DIRGO:  Did you find water?</td></tr>
 
-  DIRGO
-     You've got no right to make the decisions. I'm the
-     captain of this ship.
+<tr id="L125"><td><a href="#L125">125</a></td><td>WESLEY:  No, not yet.</td></tr>
 
-  WESLEY
-     If you want to get out of this, I suggest you
-     listen to Captain Picard. He's the one who's going
-     to keep us alive.
+<tr id="L126"><td><a href="#L126">126</a></td><td>DIRGO:  What are you doing with that?</td></tr>
 
-  PICARD
-     Thank you, Ensign, that's enough. Captain Dirgo,
-     you're an able pilot. I welcome your input. Do you
-     feel that there is an alternative we're
-     overlooking?
+<tr id="L127"><td><a href="#L127">127</a></td><td>PICARD:  Mister Crusher?</td></tr>
 
-  DIRGO
-     No.
+<tr id="L128"><td><a href="#L128">128</a></td><td>WESLEY:  I'm not sure, sir. It's an energy reading.</td></tr>
 
-  PICARD
-     Very well. I suggest a steady pace, not a brisk
-     one. We need to ration our energy. Try breathing
-     through your nose. That way it will help to
-     prevent dehydration. I'll lead. Captain Dirgo,
-     will you bring up the rear?
+<tr id="L129"><td><a href="#L129">129</a></td><td>PICARD:  Energy reading? What kind?</td></tr>
 
-  ANNOTATION
-     Dirgo says farewell to his ship, picks up the
-     medical bag and off they trudge
+<tr id="L130"><td><a href="#L130">130</a></td><td>WESLEY:  Low frequency EM. It's been getting stronger the closer we get to those mountains.</td></tr>
 
-  ANNOTATION
-     Dirgo is the first one to stumble in the heat
+<tr id="L131"><td><a href="#L131">131</a></td><td>DIRGO:  What are you saying? Is something over there, waiting for us?</td></tr>
 
-  WESLEY
-     And you were worried about how tough the Captain
-     is?
+<tr id="L132"><td><a href="#L132">132</a></td><td>WESLEY:  I'm not sure what it is. It just keeps registers as a repeating energy pattern.</td></tr>
 
-  ANNOTATION
-     Wesley walks off, and Dirgo takes a swig from a
-     concealed bottle
+<tr id="L133"><td><a href="#L133">133</a></td><td>PICARD:  Ensign, are you suggesting this energy is not naturally occurring?</td></tr>
 
-  ANNOTATION
-     the mountains are a lot closer now
+<tr id="L134"><td><a href="#L134">134</a></td><td>WESLEY:  The readings could be indicative of some electromagnetic properties in the rocks, but I don't think so.</td></tr>
 
-  DIRGO
-     Did you find water?
+<tr id="L135"><td><a href="#L135">135</a></td><td>PICARD:  A life form?</td></tr>
 
-  WESLEY
-     No, not yet.
+<tr id="L136"><td><a href="#L136">136</a></td><td>WESLEY:  It's possible. The pattern is fairly organised.</td></tr>
 
-  DIRGO
-     What are you doing with that?
+<tr id="L137"><td><a href="#L137">137</a></td><td>PICARD:  Well, we can't go back and we can't stay here. We've got to keep going for the mountains. No matter what is waiting there.</td></tr>
 
-  PICARD
-     Mister Crusher?
+<tr><td></td><td>LOCATION--Cave entrance</td></tr>
+<tr id="L138"><td><a href="#L138">138</a></td><td>ANNOTATION: the ceiling is high, there is a wonderfully even flight of steps down, and Picard is carrying the medical supplies</td></tr>
 
-  WESLEY
-     I'm not sure, sir. It's an energy reading.
+<tr id="L139"><td><a href="#L139">139</a></td><td>DIRGO:  There has to be water in here. Aren't caves formed by water?</td></tr>
 
-  PICARD
-     Energy reading? What kind?
+<tr id="L140"><td><a href="#L140">140</a></td><td>PICARD:  Not necessarily. This could be created by volcanic activity. Lava flows. These walls are dry, Mister Crusher, do you have any moisture reading?</td></tr>
 
-  WESLEY
-     Low frequency EM. It's been getting stronger the
-     closer we get to those mountains.
+<tr id="L141"><td><a href="#L141">141</a></td><td>WESLEY:  No, sir. But that EM reading? The pattern's changed. The frequency's peaking a lot higher.</td></tr>
 
-  DIRGO
-     What are you saying? Is something over there,
-     waiting for us?
+<tr id="L142"><td><a href="#L142">142</a></td><td>ANNOTATION: Dirgo accidentally drops his bottle while undoing his tunic</td></tr>
 
-  WESLEY
-     I'm not sure what it is. It just keeps registers
-     as a repeating energy pattern.
+<tr id="L143"><td><a href="#L143">143</a></td><td>WESLEY:  You have water!</td></tr>
 
-  PICARD
-     Ensign, are you suggesting this energy is not
-     naturally occurring?
+<tr id="L144"><td><a href="#L144">144</a></td><td>DIRGO:  I wouldn't hide water. That's called dresci. It's from my planet.</td></tr>
 
-  WESLEY
-     The readings could be indicative of some
-     electromagnetic properties in the rocks, but I
-     don't think so.
+<tr id="L145"><td><a href="#L145">145</a></td><td>PICARD:  It's alcohol.</td></tr>
 
-  PICARD
-     A life form?
+<tr id="L146"><td><a href="#L146">146</a></td><td>DIRGO:  It's medicinal. It's for emergencies. I was going to share it with you.</td></tr>
 
-  WESLEY
-     It's possible. The pattern is fairly organised.
+<tr id="L147"><td><a href="#L147">147</a></td><td>PICARD:  This wouldn't quench your thirst, it would make it worse.</td></tr>
 
-  PICARD
-     Well, we can't go back and we can't stay here.
-     We've got to keep going for the mountains. No
-     matter what is waiting there.
+<tr id="L148"><td><a href="#L148">148</a></td><td>DIRGO:  I'll take my chances.</td></tr>
 
+<tr id="L149"><td><a href="#L149">149</a></td><td>PICARD:  I'm not going to let you waste this. This is more valuable to us as a coolant or disinfectant.</td></tr>
 
-LOCATION--Cave entrance
+<tr id="L150"><td><a href="#L150">150</a></td><td>DIRGO:  It's mine.</td></tr>
 
-  ANNOTATION
-     the ceiling is high, there is a wonderfully even
-     flight of steps down, and Picard is carrying the
-     medical supplies
+<tr id="L151"><td><a href="#L151">151</a></td><td>PICARD:  Mister Crusher, stow that with the medical supplies. Keep your eye on it. All right, we're going to explore the cave. Mister Crusher, look for any signs of water, no matter how faint. Captain Dirgo, will you lead the way?</td></tr>
 
-  DIRGO
-     There has to be water in here. Aren't caves formed
-     by water?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L152"><td><a href="#L152">152</a></td><td>CRUSHER:  We're projecting that the bulk of the radiation will affect three small island groups. Fortunately, they're very sparsely populated. We'll begin replicating hyronalin now and be ready to transport it to them if it becomes necessary. Please coordinate with all the medical personnel on the planet.</td></tr>
 
-  PICARD
-     Not necessarily. This could be created by volcanic
-     activity. Lava flows. These walls are dry, Mister
-     Crusher, do you have any moisture reading?
+<tr id="L153"><td><a href="#L153">153</a></td><td>TROI:  Beverly? We've contacted the nearest Starbase for a search vessel. I'm afraid the closest one is almost a week away.</td></tr>
 
-  WESLEY
-     No, sir. But that EM reading? The pattern's
-     changed. The frequency's peaking a lot higher.
+<tr id="L154"><td><a href="#L154">154</a></td><td>CRUSHER:  I see. Thank you.</td></tr>
 
-  ANNOTATION
-     Dirgo accidentally drops his bottle while undoing
-     his tunic
+<tr id="L155"><td><a href="#L155">155</a></td><td>TROI:  But we have asked the mining settlement to send any vessels they might have. You know, there are many reasons why the shuttlecraft may have been delayed.</td></tr>
 
-  WESLEY
-     You have water!
+<tr id="L156"><td><a href="#L156">156</a></td><td>CRUSHER:  Deanna, thank you, but I'm all right. And for now, I have work to do.</td></tr>
 
-  DIRGO
-     I wouldn't hide water. That's called dresci. It's
-     from my planet.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L157"><td><a href="#L157">157</a></td><td>WORF:  Commander, the miners report that they have very few operable shuttlecraft. They want to know when we will be joining the search.</td></tr>
 
-  PICARD
-     It's alcohol.
+<tr id="L158"><td><a href="#L158">158</a></td><td>RIKER:  Tell them to stand by. If this works, we'll be on our way.</td></tr>
 
-  DIRGO
-     It's medicinal. It's for emergencies. I was going
-     to share it with you.
+<tr id="L159"><td><a href="#L159">159</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  PICARD
-     This wouldn't quench your thirst, it would make it
-     worse.
+<tr id="L160"><td><a href="#L160">160</a></td><td>LAFORGE:  Thrusters are attached and ready, Commander.</td></tr>
 
-  DIRGO
-     I'll take my chances.
+<tr id="L161"><td><a href="#L161">161</a></td><td>RIKER:  Initiate prefire sequence.</td></tr>
 
-  PICARD
-     I'm not going to let you waste this. This is more
-     valuable to us as a coolant or disinfectant.
+<tr id="L162"><td><a href="#L162">162</a></td><td>LAFORGE:  Prefire command transmitted. Thrusters to standby.</td></tr>
 
-  DIRGO
-     It's mine.
+<tr id="L163"><td><a href="#L163">163</a></td><td>RIKER:  Fire thrusters. Gradual acceleration to forty percent power.</td></tr>
 
-  PICARD
-     Mister Crusher, stow that with the medical
-     supplies. Keep your eye on it. All right, we're
-     going to explore the cave. Mister Crusher, look
-     for any signs of water, no matter how faint.
-     Captain Dirgo, will you lead the way?
+<tr id="L164"><td><a href="#L164">164</a></td><td>ANNOTATION: The scow begins to move, but one thruster flies off on its own</td></tr>
 
+<tr id="L165"><td><a href="#L165">165</a></td><td>LAFORGE:  We've lost one module. Correcting thrust vectors to compensate.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L166"><td><a href="#L166">166</a></td><td>DATA:  Structural integrity of the barge has been compromised. Disintegration is continuing.</td></tr>
 
-  CRUSHER
-     We're projecting that the bulk of the radiation
-     will affect three small island groups.
-     Fortunately, they're very sparsely populated.
-     We'll begin replicating hyronalin now and be ready
-     to transport it to them if it becomes necessary.
-     Please coordinate with all the medical personnel
-     on the planet.
+<tr id="L167"><td><a href="#L167">167</a></td><td>RIKER:  Shut down thrusters. Ensign, take us to one thousand metres ahead of the barge and hold.</td></tr>
 
-  TROI
-     Beverly? We've contacted the nearest Starbase for
-     a search vessel. I'm afraid the closest one is
-     almost a week away.
+<tr id="L168"><td><a href="#L168">168</a></td><td>DATA:  External radiation levels increasing, sir.</td></tr>
 
-  CRUSHER
-     I see. Thank you.
+<tr id="L169"><td><a href="#L169">169</a></td><td>ALLENBY:  Coming into position at one thousand metres.</td></tr>
 
-  TROI
-     But we have asked the mining settlement to send
-     any vessels they might have. You know, there are
-     many reasons why the shuttlecraft may have been
-     delayed.
+<tr id="L170"><td><a href="#L170">170</a></td><td>RIKER:  Worf, extend shields around the ship. Lock on the tractor beam.</td></tr>
 
-  CRUSHER
-     Deanna, thank you, but I'm all right. And for now,
-     I have work to do.
+<tr id="L171"><td><a href="#L171">171</a></td><td>WORF:  Aye, sir.</td></tr>
 
+<tr id="L172"><td><a href="#L172">172</a></td><td>COMPUTER:  Warning. Radiation levels at seventy millirads per minute and rising.</td></tr>
 
-LOCATION--Bridge
+<tr id="L173"><td><a href="#L173">173</a></td><td>RIKER:  Allenby, set a new course. We'll take it through the asteroid belt ourselves. One quarter impulse.</td></tr>
 
-  WORF
-     Commander, the miners report that they have very
-     few operable shuttlecraft. They want to know when
-     we will be joining the search.
+<tr id="L174"><td><a href="#L174">174</a></td><td>ALLENBY:  Aye, sir.</td></tr>
 
-  RIKER
-     Tell them to stand by. If this works, we'll be on
-     our way.
+<tr id="L175"><td><a href="#L175">175</a></td><td>RIKER:  Doctor Crusher to the Bridge.</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L176"><td><a href="#L176">176</a></td><td>CRUSHER [OC]:  On my way.</td></tr>
 
-  LAFORGE
-     Thrusters are attached and ready, Commander.
+<tr id="L177"><td><a href="#L177">177</a></td><td>RIKER:  Mister Data, I'll a projection of the radiation's impact on the crew. Mister Worf, contact the mining settlement. Tell them we won't be joining the search for awhile.</td></tr>
 
-  RIKER
-     Initiate prefire sequence.
+<tr><td></td><td>LOCATION--Cavern</td></tr>
+<tr id="L178"><td><a href="#L178">178</a></td><td>ANNOTATION: they emerge from tunnels into a lit cavern with a fountain in the middle</td></tr>
 
-  LAFORGE
-     Prefire command transmitted. Thrusters to standby.
+<tr id="L179"><td><a href="#L179">179</a></td><td>DIRGO:  I knew there had to be water.</td></tr>
 
-  RIKER
-     Fire thrusters. Gradual acceleration to forty
-     percent power.
+<tr id="L180"><td><a href="#L180">180</a></td><td>ANNOTATION: but he is stopped by a forcefield</td></tr>
 
-  ANNOTATION
-     The scow begins to move, but one thruster flies
-     off on its own
+<tr id="L181"><td><a href="#L181">181</a></td><td>PICARD:  Mister Crusher what was that?</td></tr>
 
-  LAFORGE
-     We've lost one module. Correcting thrust vectors
-     to compensate.
+<tr id="L182"><td><a href="#L182">182</a></td><td>WESLEY:  It seems to be some kind of tightly confined annular force field, sir.</td></tr>
 
-  DATA
-     Structural integrity of the barge has been
-     compromised. Disintegration is continuing.
+<tr id="L183"><td><a href="#L183">183</a></td><td>PICARD:  Put there to protect the water.</td></tr>
 
-  RIKER
-     Shut down thrusters. Ensign, take us to one
-     thousand metres ahead of the barge and hold.
+<tr id="L184"><td><a href="#L184">184</a></td><td>WESLEY:  Yes. There has to be a way to deactivate it, sir.</td></tr>
 
-  DATA
-     External radiation levels increasing, sir.
+<tr id="L185"><td><a href="#L185">185</a></td><td>DIRGO:  We can, with our phasers.</td></tr>
 
-  ALLENBY
-     Coming into position at one thousand metres.
+<tr id="L186"><td><a href="#L186">186</a></td><td>PICARD:  Mister Dirgo, I think it would be wiser</td></tr>
 
-  RIKER
-     Worf, extend shields around the ship. Lock on the
-     tractor beam.
+<tr id="L187"><td><a href="#L187">187</a></td><td>ANNOTATION: Dirgo fires at the forcefield</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L188"><td><a href="#L188">188</a></td><td>WESLEY:  Captain, the EM reading. The power level's really spiking now.</td></tr>
 
-  COMPUTER
-     Warning. Radiation levels at seventy millirads per
-     minute and rising.
+<tr id="L189"><td><a href="#L189">189</a></td><td>DIRGO:  I think it's working.</td></tr>
 
-  RIKER
-     Allenby, set a new course. We'll take it through
-     the asteroid belt ourselves. One quarter impulse.
+<tr id="L190"><td><a href="#L190">190</a></td><td>PICARD:  Dirgo!</td></tr>
 
-  ALLENBY
-     Aye, sir.
+<tr id="L191"><td><a href="#L191">191</a></td><td>ANNOTATION: some things rush into the cavern, rather like the seraphim from Raiders of the Lost Ark</td></tr>
 
-  RIKER
-     Doctor Crusher to the Bridge.
+<tr id="L192"><td><a href="#L192">192</a></td><td>PICARD:  Stop firing!</td></tr>
 
-  CRUSHER [OC]
-     On my way.
+<tr id="L193"><td><a href="#L193">193</a></td><td>ANNOTATION: one of the things takes the weapon from Dirgo. Rocks are coming loose</td></tr>
 
-  RIKER
-     Mister Data, I'll a projection of the radiation's
-     impact on the crew. Mister Worf, contact the
-     mining settlement. Tell them we won't be joining
-     the search for awhile.
+<tr id="L194"><td><a href="#L194">194</a></td><td>PICARD:  Wesley!</td></tr>
 
+<tr id="L195"><td><a href="#L195">195</a></td><td>ANNOTATION: Picard pushes Wesley aside then gets buried under falling rocks himself</td></tr>
 
-LOCATION--Cavern
+<tr><td></td><td>LOCATION--Cave</td></tr>
+<tr id="L196"><td><a href="#L196">196</a></td><td>ANNOTATION: later, after they've dug him out again and moved him to a small side cave</td></tr>
 
-  ANNOTATION
-     they emerge from tunnels into a lit cavern with a
-     fountain in the middle
+<tr id="L197"><td><a href="#L197">197</a></td><td>WESLEY:  Apply pressure to that wound. (scans Picard) This is the worst break.</td></tr>
 
-  DIRGO
-     I knew there had to be water.
+<tr id="L198"><td><a href="#L198">198</a></td><td>DIRGO:  What was that thing?</td></tr>
 
-  ANNOTATION
-     but he is stopped by a forcefield
+<tr id="L199"><td><a href="#L199">199</a></td><td>WESLEY:  Keep the pressure constant.</td></tr>
 
-  PICARD
-     Mister Crusher what was that?
+<tr id="L200"><td><a href="#L200">200</a></td><td>PICARD:  Ensign, how bad is it?</td></tr>
 
-  WESLEY
-     It seems to be some kind of tightly confined
-     annular force field, sir.
+<tr id="L201"><td><a href="#L201">201</a></td><td>WESLEY:  Your right leg is broken. You have a fracture in your left arm. And you took a blow to the head. But we're getting the bleeding under control.</td></tr>
 
-  PICARD
-     Put there to protect the water.
+<tr id="L202"><td><a href="#L202">202</a></td><td>PICARD:  Well done. I'm going to be fine. I just need to get my breath.</td></tr>
 
-  WESLEY
-     Yes. There has to be a way to deactivate it, sir.
+<tr id="L203"><td><a href="#L203">203</a></td><td>DIRGO:  Are you telling the truth?</td></tr>
 
-  DIRGO
-     We can, with our phasers.
+<tr id="L204"><td><a href="#L204">204</a></td><td>WESLEY:  What truth?</td></tr>
 
-  PICARD
-     Mister Dirgo, I think it would be wiser
+<tr id="L205"><td><a href="#L205">205</a></td><td>DIRGO:  He's bleeding inside. I've seen it before. He's never going to survive.</td></tr>
 
-  ANNOTATION
-     Dirgo fires at the forcefield
+<tr id="L206"><td><a href="#L206">206</a></td><td>WESLEY:  You don't know what you're talking about.</td></tr>
 
-  WESLEY
-     Captain, the EM reading. The power level's really
-     spiking now.
+<tr id="L207"><td><a href="#L207">207</a></td><td>ANNOTATION: pours alcohol on the cuts</td></tr>
 
-  DIRGO
-     I think it's working.
+<tr id="L208"><td><a href="#L208">208</a></td><td>DIRGO:  You're wasting your time. Will you save that dresci for us.</td></tr>
 
-  PICARD
-     Dirgo!
+<tr id="L209"><td><a href="#L209">209</a></td><td>PICARD:  Mister Dirgo, I would appreciate it if you didn't bury me before I'm gone.</td></tr>
 
-  ANNOTATION
-     some things rush into the cavern, rather like the
-     seraphim from Raiders of the Lost Ark
+<tr id="L210"><td><a href="#L210">210</a></td><td>ANNOTATION: Dirgo storms off</td></tr>
 
-  PICARD
-     Stop firing!
+<tr id="L211"><td><a href="#L211">211</a></td><td>PICARD:  The trouble is, he could be right.</td></tr>
 
-  ANNOTATION
-     one of the things takes the weapon from Dirgo.
-     Rocks are coming loose
+<tr id="L212"><td><a href="#L212">212</a></td><td>WESLEY:  No, he's not, sir. You're going to be fine.</td></tr>
 
-  PICARD
-     Wesley!
+<tr id="L213"><td><a href="#L213">213</a></td><td>PICARD:  Wesley, you are going to have to keep a rein on Dirgo. He's wilful and stubborn. That's dangerous.</td></tr>
 
-  ANNOTATION
-     Picard pushes Wesley aside then gets buried under
-     falling rocks himself
+<tr id="L214"><td><a href="#L214">214</a></td><td>WESLEY:  You'll handle him, sir.</td></tr>
 
+<tr id="L215"><td><a href="#L215">215</a></td><td>PICARD:  Wesley, listen to me. I have no feeling in my right leg. My vision is blurred. I'm going to get worse, not better. I'm not going to be able to help you. Now, you are going to have to stand up to Dirgo on your own.</td></tr>
 
-LOCATION--Cave
+<tr id="L216"><td><a href="#L216">216</a></td><td>WESLEY:  Yes, sir.</td></tr>
 
-  ANNOTATION
-     later, after they've dug him out again and moved
-     him to a small side cave
+<tr id="L217"><td><a href="#L217">217</a></td><td>PICARD:  Hey. Good man.</td></tr>
 
-  WESLEY
-     Apply pressure to that wound. (scans Picard) This
-     is the worst break.
+<tr id="L218"><td><a href="#L218">218</a></td><td>SOMEONE: First Officer's log, stardate 44307.6. Radiation levels on the Enterprise continue to rise. The ventilation system has started pumping hyronalin into our air supply to counteract the effects.</td></tr>
 
-  DIRGO
-     What was that thing?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L219"><td><a href="#L219">219</a></td><td>DATA:  At the rate the radiation levels are increasing, the hyronalin additive will only be effective for another thirty eight minutes.</td></tr>
 
-  WESLEY
-     Keep the pressure constant.
+<tr id="L220"><td><a href="#L220">220</a></td><td>CRUSHER:  Crusher to Medical unit one, evacuate and seal off all non-operational areas. Group the crew and their families in the interior corridors of decks nine and ten. Radiation exposure protocol.</td></tr>
 
-  PICARD
-     Ensign, how bad is it?
+<tr id="L221"><td><a href="#L221">221</a></td><td>OGAWA [OC]:  Acknowledged, Doctor.</td></tr>
 
-  WESLEY
-     Your right leg is broken. You have a fracture in
-     your left arm. And you took a blow to the head.
-     But we're getting the bleeding under control.
+<tr id="L222"><td><a href="#L222">222</a></td><td>RIKER:  Mister Data, at our current speed, how long will it take us to get through the asteroid belt?</td></tr>
 
-  PICARD
-     Well done. I'm going to be fine. I just need to
-     get my breath.
+<tr id="L223"><td><a href="#L223">223</a></td><td>DATA:  Fifty one minutes, fourteen seconds, sir.</td></tr>
 
-  DIRGO
-     Are you telling the truth?
+<tr id="L224"><td><a href="#L224">224</a></td><td>CRUSHER:  There's going to be a lot of casualties if we can't get there any faster.</td></tr>
 
-  WESLEY
-     What truth?
+<tr id="L225"><td><a href="#L225">225</a></td><td>RIKER:  Mister La Forge, how much more can we get out of that tractor beam?</td></tr>
 
-  DIRGO
-     He's bleeding inside. I've seen it before. He's
-     never going to survive.
+<tr id="L226"><td><a href="#L226">226</a></td><td>LAFORGE:  We're already at the maximum limits of our towing speed, Commander.</td></tr>
 
-  WESLEY
-     You don't know what you're talking about.
+<tr id="L227"><td><a href="#L227">227</a></td><td>RIKER:  Let's see if we can establish a new upper limit.</td></tr>
 
-  ANNOTATION
-     pours alcohol on the cuts
+<tr id="L228"><td><a href="#L228">228</a></td><td>LAFORGE:  Yes, sir. Data, monitor the shearing effect on the beam. Increasing to one half impulse.</td></tr>
 
-  DIRGO
-     You're wasting your time. Will you save that
-     dresci for us.
+<tr id="L229"><td><a href="#L229">229</a></td><td>DATA:  Tractor beam is holding. Shearing force, eighty metric tons per metre.</td></tr>
 
-  PICARD
-     Mister Dirgo, I would appreciate it if you didn't
-     bury me before I'm gone.
+<tr id="L230"><td><a href="#L230">230</a></td><td>LAFORGE:  Increasing to three quarters impulse.</td></tr>
 
-  ANNOTATION
-     Dirgo storms off
+<tr id="L231"><td><a href="#L231">231</a></td><td>DATA:  Shearing force ninety two metric tons. Ninety three. Tractor beam is destabilising. Se are going to lose the barge, Commander.</td></tr>
 
-  PICARD
-     The trouble is, he could be right.
+<tr id="L232"><td><a href="#L232">232</a></td><td>RIKER:  Reduce power.</td></tr>
 
-  WESLEY
-     No, he's not, sir. You're going to be fine.
+<tr id="L233"><td><a href="#L233">233</a></td><td>ALLENBY:  One half impulse.</td></tr>
 
-  PICARD
-     Wesley, you are going to have to keep a rein on
-     Dirgo. He's wilful and stubborn. That's dangerous.
+<tr id="L234"><td><a href="#L234">234</a></td><td>RIKER:  Geordi, you've got to stabilise that tractor beam.</td></tr>
 
-  WESLEY
-     You'll handle him, sir.
+<tr id="L235"><td><a href="#L235">235</a></td><td>LAFORGE:  I can't divert any more power to the shields. We're already hitting our maximum thermal limits. Only other choice is to bring some other fusion reactors online, but we're running at peak coolant pressure.</td></tr>
 
-  PICARD
-     Wesley, listen to me. I have no feeling in my
-     right leg. My vision is blurred. I'm going to get
-     worse, not better. I'm not going to be able to
-     help you. Now, you are going to have to stand up
-     to Dirgo on your own.
+<tr id="L236"><td><a href="#L236">236</a></td><td>RIKER:  Do it.</td></tr>
 
-  WESLEY
-     Yes, sir.
+<tr id="L237"><td><a href="#L237">237</a></td><td>COMPUTER:  Warning. Radiation levels at one hundred fifty millirads per minute and rising. Lethal exposure in thirty five minutes.</td></tr>
 
-  PICARD
-     Hey. Good man.
+<tr><td></td><td>LOCATION--Cavern</td></tr>
+<tr id="L238"><td><a href="#L238">238</a></td><td>ANNOTATION: Wesley finds Dirgo's weapon wrapped in fibreglass</td></tr>
 
-  SOMEONE
-     First Officer's log, stardate 44307.6. Radiation
-     levels on the Enterprise continue to rise. The
-     ventilation system has started pumping hyronalin
-     into our air supply to counteract the effects.
+<tr id="L239"><td><a href="#L239">239</a></td><td>WESLEY:  How did this happen?</td></tr>
 
+<tr id="L240"><td><a href="#L240">240</a></td><td>DIRGO:  That thing did it.</td></tr>
 
-LOCATION--Bridge
+<tr id="L241"><td><a href="#L241">241</a></td><td>WESLEY:  These are selenium fibres. Electrically deposited. The EM pattern is back down. It only peaks when we move towards the water. Whatever we saw must act like a sentry to try to guard the fountain. When we're not moving toward the water, the wave pattern stays low. Right between five and fifteen megahertz. Dirgo, move toward the fountain. Dirgo.</td></tr>
 
-  DATA
-     At the rate the radiation levels are increasing,
-     the hyronalin additive will only be effective for
-     another thirty eight minutes.
+<tr id="L242"><td><a href="#L242">242</a></td><td>ANNOTATION: he does</td></tr>
 
-  CRUSHER
-     Crusher to Medical unit one, evacuate and seal off
-     all non-operational areas. Group the crew and
-     their families in the interior corridors of decks
-     nine and ten. Radiation exposure protocol.
+<tr id="L243"><td><a href="#L243">243</a></td><td>WESLEY:  There. It just went to forty.</td></tr>
 
-  OGAWA [OC]
-     Acknowledged, Doctor.
+<tr id="L244"><td><a href="#L244">244</a></td><td>DIRGO:  What is this getting us? We've got to get to the water.</td></tr>
 
-  RIKER
-     Mister Data, at our current speed, how long will
-     it take us to get through the asteroid belt?
+<tr id="L245"><td><a href="#L245">245</a></td><td>WESLEY:  If I can figure out how to manipulate the frequency, maybe I can control it. The sentry first appeared when you used your phaser. That means it could respond to heat, or collinated energy.</td></tr>
 
-  DATA
-     Fifty one minutes, fourteen seconds, sir.
+<tr id="L246"><td><a href="#L246">246</a></td><td>DIRGO:  If you're right, we can use a phaser to lure it away.</td></tr>
 
-  CRUSHER
-     There's going to be a lot of casualties if we
-     can't get there any faster.
+<tr id="L247"><td><a href="#L247">247</a></td><td>WESLEY:  Hold on. We need to know what we're dealing with before we start doing anything.</td></tr>
 
-  RIKER
-     Mister La Forge, how much more can we get out of
-     that tractor beam?
+<tr id="L248"><td><a href="#L248">248</a></td><td>DIRGO:  Enough talking, it's time to do something. I'll start firing. When it comes, you fire and draw it away.</td></tr>
 
-  LAFORGE
-     We're already at the maximum limits of our towing
-     speed, Commander.
+<tr id="L249"><td><a href="#L249">249</a></td><td>WESLEY:  Dirgo, I can't.</td></tr>
 
-  RIKER
-     Let's see if we can establish a new upper limit.
+<tr id="L250"><td><a href="#L250">250</a></td><td>DIRGO:  Put your phaser on automatic. Leave it on that ledge and take cover.</td></tr>
 
-  LAFORGE
-     Yes, sir. Data, monitor the shearing effect on the
-     beam. Increasing to one half impulse.
+<tr id="L251"><td><a href="#L251">251</a></td><td>WESLEY:  And what makes you think it's going to go for my phaser and not for yours?</td></tr>
 
-  DATA
-     Tractor beam is holding. Shearing force, eighty
-     metric tons per metre.
+<tr id="L252"><td><a href="#L252">252</a></td><td>DIRGO:  Because I'll be firing on the lowest setting. You use maximum.</td></tr>
 
-  LAFORGE
-     Increasing to three quarters impulse.
+<tr id="L253"><td><a href="#L253">253</a></td><td>WESLEY:  There is no evidence that it responds differently to higher settings. We have to figure out our options before we just</td></tr>
 
-  DATA
-     Shearing force ninety two metric tons. Ninety
-     three. Tractor beam is destabilising. Se are going
-     to lose the barge, Commander.
+<tr id="L254"><td><a href="#L254">254</a></td><td>DIRGO:  While we are doing that, your Captain is dying. With those wounds, most men would already be dead. If he doesn't get water. When I start firing, you better do your part.</td></tr>
 
-  RIKER
-     Reduce power.
+<tr id="L255"><td><a href="#L255">255</a></td><td>ANNOTATION: So Dirgo goes up to a ledge and fires. The forcefield instantly appears. Then Wesley's phaser fires and a sentry immediately deals with it. Then it goes after Dirgo and envelopes him. There are screams, then silence. Wesley creeps out of his hiding place. Dirgo is wrapped in selenium fibres and is very dead</td></tr>
 
-  ALLENBY
-     One half impulse.
+<tr id="L256"><td><a href="#L256">256</a></td><td>SOMEONE: First Officer's log, supplemental. Mister La Forge has diverted power from auxiliary fusion generators in an attempt to stabilise the tractor beam. This is the only hope of increasing our towing speed so we can clear the asteroid belt before radiation levels become fatal.</td></tr>
 
-  RIKER
-     Geordi, you've got to stabilise that tractor beam.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L257"><td><a href="#L257">257</a></td><td>COMPUTER:  Warning. Radiation levels at three hundred millirads per minute and rising. Lethal exposure in one minute.</td></tr>
 
-  LAFORGE
-     I can't divert any more power to the shields.
-     We're already hitting our maximum thermal limits.
-     Only other choice is to bring some other fusion
-     reactors online, but we're running at peak coolant
-     pressure.
+<tr id="L258"><td><a href="#L258">258</a></td><td>LAFORGE:  Ready, Commander. I'll be rotating the output of the auxiliary reactors, but it should still give us the power we need.</td></tr>
 
-  RIKER
-     Do it.
+<tr id="L259"><td><a href="#L259">259</a></td><td>RIKER:  Proceed, Mister La Forge.</td></tr>
 
-  COMPUTER
-     Warning. Radiation levels at one hundred fifty
-     millirads per minute and rising. Lethal exposure
-     in thirty five minutes.
+<tr id="L260"><td><a href="#L260">260</a></td><td>LAFORGE:  Increasing to three quarters impulse.</td></tr>
 
+<tr id="L261"><td><a href="#L261">261</a></td><td>DATA:  Shearing force is at one hundred three metric tons. Tractor beam is stable.</td></tr>
 
-LOCATION--Cavern
+<tr id="L262"><td><a href="#L262">262</a></td><td>LAFORGE:  Full impulse.</td></tr>
 
-  ANNOTATION
-     Wesley finds Dirgo's weapon wrapped in fibreglass
+<tr id="L263"><td><a href="#L263">263</a></td><td>DATA:  Tractor beam is holding.</td></tr>
 
-  WESLEY
-     How did this happen?
+<tr id="L264"><td><a href="#L264">264</a></td><td>COMPUTER:  Warning. Lethal radiation exposure in thirty seconds.</td></tr>
 
-  DIRGO
-     That thing did it.
+<tr id="L265"><td><a href="#L265">265</a></td><td>WORF:  We are within visual range of the asteroid belt.</td></tr>
 
-  WESLEY
-     These are selenium fibres. Electrically deposited.
-     The EM pattern is back down. It only peaks when we
-     move towards the water. Whatever we saw must act
-     like a sentry to try to guard the fountain. When
-     we're not moving toward the water, the wave
-     pattern stays low. Right between five and fifteen
-     megahertz. Dirgo, move toward the fountain. Dirgo.
+<tr id="L266"><td><a href="#L266">266</a></td><td>RIKER:  On screen.</td></tr>
 
-  ANNOTATION
-     he does
+<tr id="L267"><td><a href="#L267">267</a></td><td>COMPUTER:  Warning. Lethal radiation exposure in fifteen seconds.</td></tr>
 
-  WESLEY
-     There. It just went to forty.
+<tr id="L268"><td><a href="#L268">268</a></td><td>RIKER:  Prepare to cut the barge loose.</td></tr>
 
-  DIRGO
-     What is this getting us? We've got to get to the
-     water.
+<tr id="L269"><td><a href="#L269">269</a></td><td>COMPUTER:  Warning. Lethal radiation exposure in ten seconds.</td></tr>
 
-  WESLEY
-     If I can figure out how to manipulate the
-     frequency, maybe I can control it. The sentry
-     first appeared when you used your phaser. That
-     means it could respond to heat, or collinated
-     energy.
+<tr id="L270"><td><a href="#L270">270</a></td><td>DATA:  We have cleared the asteroids, sir.</td></tr>
 
-  DIRGO
-     If you're right, we can use a phaser to lure it
-     away.
+<tr id="L271"><td><a href="#L271">271</a></td><td>RIKER:  Let it go.</td></tr>
 
-  WESLEY
-     Hold on. We need to know what we're dealing with
-     before we start doing anything.
+<tr><td></td><td>LOCATION--Cave</td></tr>
+<tr id="L272"><td><a href="#L272">272</a></td><td>PICARD:  Cold.</td></tr>
 
-  DIRGO
-     Enough talking, it's time to do something. I'll
-     start firing. When it comes, you fire and draw it
-     away.
+<tr id="L273"><td><a href="#L273">273</a></td><td>WESLEY:  When the sun went down, the temperature really dropped. This should help.</td></tr>
 
-  WESLEY
-     Dirgo, I can't.
+<tr id="L274"><td><a href="#L274">274</a></td><td>ANNOTATION: Wesley heats rocks with a phaser</td></tr>
 
-  DIRGO
-     Put your phaser on automatic. Leave it on that
-     ledge and take cover.
+<tr id="L275"><td><a href="#L275">275</a></td><td>PICARD:  Good. Thank you. I'm not much good to you, Wesley.</td></tr>
 
-  WESLEY
-     And what makes you think it's going to go for my
-     phaser and not for yours?
+<tr id="L276"><td><a href="#L276">276</a></td><td>WESLEY:  Sir, Dirgo is dead. I should've tried harder to stop him, but he. Captain! Captain Picard! Sir, stay with me.</td></tr>
 
-  DIRGO
-     Because I'll be firing on the lowest setting. You
-     use maximum.
+<tr id="L277"><td><a href="#L277">277</a></td><td>PICARD:  I'm trying.</td></tr>
 
-  WESLEY
-     There is no evidence that it responds differently
-     to higher settings. We have to figure out our
-     options before we just
+<tr id="L278"><td><a href="#L278">278</a></td><td>WESLEY:  Sir, do you remember when we took the shuttlecraft to Starbase five one five? I was dreading it. Six hours alone with you. But it didn't turn out the way that I thought. You opened up to me. I kind of got to know you.</td></tr>
 
-  DIRGO
-     While we are doing that, your Captain is dying.
-     With those wounds, most men would already be dead.
-     If he doesn't get water. When I start firing, you
-     better do your part.
+<tr id="L279"><td><a href="#L279">279</a></td><td>PICARD:  Wesley, it's my fault that you're here. I shouldn't have asked you.</td></tr>
 
-  ANNOTATION
-     So Dirgo goes up to a ledge and fires. The
-     forcefield instantly appears. Then Wesley's phaser
-     fires and a sentry immediately deals with it. Then
-     it goes after Dirgo and envelopes him. There are
-     screams, then silence. Wesley creeps out of his
-     hiding place. Dirgo is wrapped in selenium fibres
-     and is very dead
+<tr id="L280"><td><a href="#L280">280</a></td><td>WESLEY:  Sir, I'm honoured you wanted me along.</td></tr>
 
-  SOMEONE
-     First Officer's log, supplemental. Mister La Forge
-     has diverted power from auxiliary fusion
-     generators in an attempt to stabilise the tractor
-     beam. This is the only hope of increasing our
-     towing speed so we can clear the asteroid belt
-     before radiation levels become fatal.
+<tr id="L281"><td><a href="#L281">281</a></td><td>PICARD:  I was selfish. I thought I wouldn't see you again. I'm sorry.</td></tr>
 
+<tr id="L282"><td><a href="#L282">282</a></td><td>WESLEY:  Sir, in the past three years I've lived more than most people do in a lifetime. I think I'm very lucky. no matter what happens. How many people get to serve with Jean-Luc Picard? Sir, you don't know this. No one knows this, because I never told anyone. All of the things I've worked for, school, my science projects, getting into the Academy, I've done it all because I want you to be proud of me. If there is one thing that I've learned from you, it's that you don't quit. And I'm not going to quit now. I've seen you think yourself out of worse problems than this, and I'm going to think us out of this. You're not going to die. I'm not going to let you die. I'll get to the water and I'll keep you alive until they find us. I promise.</td></tr>
 
-LOCATION--Bridge
+<tr id="L283"><td><a href="#L283">283</a></td><td>SOMEONE: First Officer's log, supplemental. The Enterprise is returning to the last known location of the missing shuttlecraft.</td></tr>
 
-  COMPUTER
-     Warning. Radiation levels at three hundred
-     millirads per minute and rising. Lethal exposure
-     in one minute.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L284"><td><a href="#L284">284</a></td><td>RIKER:  Are you certain?</td></tr>
 
-  LAFORGE
-     Ready, Commander. I'll be rotating the output of
-     the auxiliary reactors, but it should still give
-     us the power we need.
+<tr id="L285"><td><a href="#L285">285</a></td><td>DATA:  It is definitely debris. The primary material is duranium, with smaller proportions of sonodanite and ermanium.</td></tr>
 
-  RIKER
-     Proceed, Mister La Forge.
+<tr id="L286"><td><a href="#L286">286</a></td><td>LAFORGE:  Most shuttlecraft hulls are made of duranium.</td></tr>
 
-  LAFORGE
-     Increasing to three quarters impulse.
+<tr id="L287"><td><a href="#L287">287</a></td><td>CRUSHER:  Then they're gone.</td></tr>
 
-  DATA
-     Shearing force is at one hundred three metric
-     tons. Tractor beam is stable.
+<tr id="L288"><td><a href="#L288">288</a></td><td>DATA:  Not necessarily, Doctor. There is far too little debris to account for an entire shuttlecraft.</td></tr>
 
-  LAFORGE
-     Full impulse.
+<tr id="L289"><td><a href="#L289">289</a></td><td>RIKER:  So what is it?</td></tr>
 
-  DATA
-     Tractor beam is holding.
+<tr id="L290"><td><a href="#L290">290</a></td><td>LAFORGE:  You know, Dirgo had his manoeuvring thrusters rigged a funny way. Claimed it was more efficient. If one of them blew it might have left debris like that.</td></tr>
 
-  COMPUTER
-     Warning. Lethal radiation exposure in thirty
-     seconds.
+<tr id="L291"><td><a href="#L291">291</a></td><td>RIKER:  If only one of his thrusters was out, he could still have set down somewhere.</td></tr>
 
-  WORF
-     We are within visual range of the asteroid belt.
+<tr id="L292"><td><a href="#L292">292</a></td><td>DATA:  The only Class M planets in the system are Pentarus two and five, both of which have been thoroughly searched by the miners.</td></tr>
 
-  RIKER
-     On screen.
+<tr id="L293"><td><a href="#L293">293</a></td><td>RIKER:  Then we'll search them again.</td></tr>
 
-  COMPUTER
-     Warning. Lethal radiation exposure in fifteen
-     seconds.
+<tr id="L294"><td><a href="#L294">294</a></td><td>DATA:  Sir, there are also four moons in the Pentarus system that could support life.</td></tr>
 
-  RIKER
-     Prepare to cut the barge loose.
+<tr id="L295"><td><a href="#L295">295</a></td><td>RIKER:  Have the miners searched them?</td></tr>
 
-  COMPUTER
-     Warning. Lethal radiation exposure in ten seconds.
+<tr id="L296"><td><a href="#L296">296</a></td><td>WORF:  Not yet, sir.</td></tr>
 
-  DATA
-     We have cleared the asteroids, sir.
+<tr id="L297"><td><a href="#L297">297</a></td><td>RIKER:  Which one is the closest one to the debris coordinates?</td></tr>
 
-  RIKER
-     Let it go.
+<tr id="L298"><td><a href="#L298">298</a></td><td>DATA:  Lambda Paz, one of the moons of Pentarus three.</td></tr>
 
+<tr id="L299"><td><a href="#L299">299</a></td><td>RIKER:  Set a course, Ensign.</td></tr>
 
-LOCATION--Cave
+<tr><td></td><td>LOCATION--Cave</td></tr>
+<tr id="L300"><td><a href="#L300">300</a></td><td>PICARD:  Aupres de ma blonde, il fait bon, fait bon, fait bon. Ensign, where are we?</td></tr>
 
-  PICARD
-     Cold.
+<tr id="L301"><td><a href="#L301">301</a></td><td>WESLEY:  We crashed, sir. We're in a cave.</td></tr>
 
-  WESLEY
-     When the sun went down, the temperature really
-     dropped. This should help.
+<tr id="L302"><td><a href="#L302">302</a></td><td>PICARD:  I need water.</td></tr>
 
-  ANNOTATION
-     Wesley heats rocks with a phaser
+<tr id="L303"><td><a href="#L303">303</a></td><td>WESLEY:  Sir, we don't have any water. Don't you remember? We tried to get to the fountain and Captain Dirgo</td></tr>
 
-  PICARD
-     Good. Thank you. I'm not much good to you, Wesley.
+<tr id="L304"><td><a href="#L304">304</a></td><td>PICARD:  Yes, I remember.</td></tr>
 
-  WESLEY
-     Sir, Dirgo is dead. I should've tried harder to
-     stop him, but he. Captain! Captain Picard! Sir,
-     stay with me.
+<tr id="L305"><td><a href="#L305">305</a></td><td>WESLEY:  I think I'm on to something. I've analysed the sentry's energy patterns.</td></tr>
 
-  PICARD
-     I'm trying.
+<tr id="L306"><td><a href="#L306">306</a></td><td>PICARD:  Wesley, I may not make it.</td></tr>
 
-  WESLEY
-     Sir, do you remember when we took the shuttlecraft
-     to Starbase five one five? I was dreading it. Six
-     hours alone with you. But it didn't turn out the
-     way that I thought. You opened up to me. I kind of
-     got to know you.
+<tr id="L307"><td><a href="#L307">307</a></td><td>WESLEY:  I've taken the transponder element from my communicator and I've used it to modify my tricorder.</td></tr>
 
-  PICARD
-     Wesley, it's my fault that you're here. I
-     shouldn't have asked you.
+<tr id="L308"><td><a href="#L308">308</a></td><td>PICARD:  No, listen.</td></tr>
 
-  WESLEY
-     Sir, I'm honoured you wanted me along.
+<tr id="L309"><td><a href="#L309">309</a></td><td>WESLEY:  I think I can use it to interrupt the sentry's electrical pattern. Stop it, maybe slow it down.</td></tr>
 
-  PICARD
-     I was selfish. I thought I wouldn't see you again.
-     I'm sorry.
+<tr id="L310"><td><a href="#L310">310</a></td><td>PICARD:  Listen to me.</td></tr>
 
-  WESLEY
-     Sir, in the past three years I've lived more than
-     most people do in a lifetime. I think I'm very
-     lucky. no matter what happens. How many people get
-     to serve with Jean-Luc Picard? Sir, you don't know
-     this. No one knows this, because I never told
-     anyone. All of the things I've worked for, school,
-     my science projects, getting into the Academy,
-     I've done it all because I want you to be proud of
-     me. If there is one thing that I've learned from
-     you, it's that you don't quit. And I'm not going
-     to quit now. I've seen you think yourself out of
-     worse problems than this, and I'm going to think
-     us out of this. You're not going to die. I'm not
-     going to let you die. I'll get to the water and
-     I'll keep you alive until they find us. I promise.
+<tr id="L311"><td><a href="#L311">311</a></td><td>WESLEY:  Yes, sir.</td></tr>
 
-  SOMEONE
-     First Officer's log, supplemental. The Enterprise
-     is returning to the last known location of the
-     missing shuttlecraft.
+<tr id="L312"><td><a href="#L312">312</a></td><td>PICARD:  There's so much I wanted to tell you. The Academy, there's someone, someone who meant a great deal to me. He's been there forever. Someone you must get to know. His name is Boothby. Now, you tell him that you and I were friends. Now, when I was there, he helped me. Listen to him.</td></tr>
 
+<tr id="L313"><td><a href="#L313">313</a></td><td>WESLEY:  What does he teach?</td></tr>
 
-LOCATION--Bridge
+<tr id="L314"><td><a href="#L314">314</a></td><td>PICARD:  He's the groundskeeper. One of the wisest men I ever knew. Oh, I envy you, Wesley Crusher. You're just at the beginning of the adventure. Go on. Get the water. Stay alive. They'll find you.</td></tr>
 
-  RIKER
-     Are you certain?
+<tr id="L315"><td><a href="#L315">315</a></td><td>WESLEY:  I'll be back soon.</td></tr>
 
-  DATA
-     It is definitely debris. The primary material is
-     duranium, with smaller proportions of sonodanite
-     and ermanium.
+<tr id="L316"><td><a href="#L316">316</a></td><td>PICARD:  Of course. Wesley. You remember I was always proud of you.</td></tr>
 
-  LAFORGE
-     Most shuttlecraft hulls are made of duranium.
+<tr><td></td><td>LOCATION--Cavern</td></tr>
+<tr id="L317"><td><a href="#L317">317</a></td><td>ANNOTATION: Wesley fires his phaser at the fountain, then uses his rigged tricorder to stop the sentry in its tracks. He frantically taps at the device until suddenly the sentry flies through him to the fountain, and the forcefield -which hadn't been there when he had his back to it - slowly evaporates. Wesley cautiously approaches the fountain</td></tr>
 
-  CRUSHER
-     Then they're gone.
+<tr id="L318"><td><a href="#L318">318</a></td><td>WESLEY:  It worked!</td></tr>
 
-  DATA
-     Not necessarily, Doctor. There is far too little
-     debris to account for an entire shuttlecraft.
+<tr id="L319"><td><a href="#L319">319</a></td><td>ANNOTATION: he collects water in the medical case</td></tr>
 
-  RIKER
-     So what is it?
+<tr><td></td><td>LOCATION--Cave</td></tr>
+<tr id="L320"><td><a href="#L320">320</a></td><td>WESLEY:  Captain? Captain Picard? Wake up.</td></tr>
 
-  LAFORGE
-     You know, Dirgo had his manoeuvring thrusters
-     rigged a funny way. Claimed it was more efficient.
-     If one of them blew it might have left debris like
-     that.
+<tr id="L321"><td><a href="#L321">321</a></td><td>ANNOTATION: he carefully dribbles water into Picard's mouth</td></tr>
 
-  RIKER
-     If only one of his thrusters was out, he could
-     still have set down somewhere.
+<tr id="L322"><td><a href="#L322">322</a></td><td>WESLEY:  Captain?</td></tr>
 
-  DATA
-     The only Class M planets in the system are
-     Pentarus two and five, both of which have been
-     thoroughly searched by the miners.
+<tr id="L323"><td><a href="#L323">323</a></td><td>ANNOTATION: later, Wesley is asleep</td></tr>
 
-  RIKER
-     Then we'll search them again.
+<tr id="L324"><td><a href="#L324">324</a></td><td>CRUSHER:  Wesley? Wesley. Wesley!</td></tr>
 
-  DATA
-     Sir, there are also four moons in the Pentarus
-     system that could support life.
+<tr id="L325"><td><a href="#L325">325</a></td><td>WESLEY:  Mom?</td></tr>
 
-  RIKER
-     Have the miners searched them?
+<tr id="L326"><td><a href="#L326">326</a></td><td>CRUSHER:  Yes.</td></tr>
 
-  WORF
-     Not yet, sir.
+<tr id="L327"><td><a href="#L327">327</a></td><td>WESLEY:  Oh, mom.</td></tr>
 
-  RIKER
-     Which one is the closest one to the debris
-     coordinates?
+<tr id="L328"><td><a href="#L328">328</a></td><td>ANNOTATION: Picard is carried off on a stretcher</td></tr>
 
-  DATA
-     Lambda Paz, one of the moons of Pentarus three.
+<tr id="L329"><td><a href="#L329">329</a></td><td>CRUSHER:  Wesley, thank God!</td></tr>
 
-  RIKER
-     Set a course, Ensign.
+<tr id="L330"><td><a href="#L330">330</a></td><td>WESLEY:  I am so happy to see you.</td></tr>
 
+<tr id="L331"><td><a href="#L331">331</a></td><td>CRUSHER:  You're okay. Come on.</td></tr>
 
-LOCATION--Cave
+<tr id="L332"><td><a href="#L332">332</a></td><td>WESLEY:  How did you find us?</td></tr>
 
-  PICARD
-     Aupres de ma blonde, il fait bon, fait bon, fait
-     bon. Ensign, where are we?
+<tr id="L333"><td><a href="#L333">333</a></td><td>CRUSHER:  We found the wreckage, and the arrow which indicated your direction. We'll take Wesley by stretcher as well.</td></tr>
 
-  WESLEY
-     We crashed, sir. We're in a cave.
+<tr id="L334"><td><a href="#L334">334</a></td><td>WESLEY:  No, I can walk.</td></tr>
 
-  PICARD
-     I need water.
+<tr id="L335"><td><a href="#L335">335</a></td><td>PICARD:  Doctor.</td></tr>
 
-  WESLEY
-     Sir, we don't have any water. Don't you remember?
-     We tried to get to the fountain and Captain Dirgo
+<tr id="L336"><td><a href="#L336">336</a></td><td>CRUSHER:  We're taking you back to the Enterprise. We've stabilised your vital signs. All right, let's go now.</td></tr>
 
-  PICARD
-     Yes, I remember.
+<tr id="L337"><td><a href="#L337">337</a></td><td>PICARD:  One moment. Mister Crusher?</td></tr>
 
-  WESLEY
-     I think I'm on to something. I've analysed the
-     sentry's energy patterns.
+<tr id="L338"><td><a href="#L338">338</a></td><td>WESLEY:  Yes, sir.</td></tr>
 
-  PICARD
-     Wesley, I may not make it.
+<tr id="L339"><td><a href="#L339">339</a></td><td>PICARD:  What are you doing in such a filthy uniform?</td></tr>
 
-  WESLEY
-     I've taken the transponder element from my
-     communicator and I've used it to modify my
-     tricorder.
+<tr id="L340"><td><a href="#L340">340</a></td><td>WESLEY:  You don't look so ship-shape yourself, sir.</td></tr>
 
-  PICARD
-     No, listen.
+<tr id="L341"><td><a href="#L341">341</a></td><td>PICARD:  Wesley, you will be missed.</td></tr>
 
-  WESLEY
-     I think I can use it to interrupt the sentry's
-     electrical pattern. Stop it, maybe slow it down.
-
-  PICARD
-     Listen to me.
-
-  WESLEY
-     Yes, sir.
-
-  PICARD
-     There's so much I wanted to tell you. The Academy,
-     there's someone, someone who meant a great deal to
-     me. He's been there forever. Someone you must get
-     to know. His name is Boothby. Now, you tell him
-     that you and I were friends. Now, when I was
-     there, he helped me. Listen to him.
-
-  WESLEY
-     What does he teach?
-
-  PICARD
-     He's the groundskeeper. One of the wisest men I
-     ever knew. Oh, I envy you, Wesley Crusher. You're
-     just at the beginning of the adventure. Go on. Get
-     the water. Stay alive. They'll find you.
-
-  WESLEY
-     I'll be back soon.
-
-  PICARD
-     Of course. Wesley. You remember I was always proud
-     of you.
-
-
-LOCATION--Cavern
-
-  ANNOTATION
-     Wesley fires his phaser at the fountain, then uses
-     his rigged tricorder to stop the sentry in its
-     tracks. He frantically taps at the device until
-     suddenly the sentry flies through him to the
-     fountain, and the forcefield -which hadn't been
-     there when he had his back to it - slowly
-     evaporates. Wesley cautiously approaches the
-     fountain
-
-  WESLEY
-     It worked!
-
-  ANNOTATION
-     he collects water in the medical case
-
-
-LOCATION--Cave
-
-  WESLEY
-     Captain? Captain Picard? Wake up.
-
-  ANNOTATION
-     he carefully dribbles water into Picard's mouth
-
-  WESLEY
-     Captain?
-
-  ANNOTATION
-     later, Wesley is asleep
-
-  CRUSHER
-     Wesley? Wesley. Wesley!
-
-  WESLEY
-     Mom?
-
-  CRUSHER
-     Yes.
-
-  WESLEY
-     Oh, mom.
-
-  ANNOTATION
-     Picard is carried off on a stretcher
-
-  CRUSHER
-     Wesley, thank God!
-
-  WESLEY
-     I am so happy to see you.
-
-  CRUSHER
-     You're okay. Come on.
-
-  WESLEY
-     How did you find us?
-
-  CRUSHER
-     We found the wreckage, and the arrow which
-     indicated your direction. We'll take Wesley by
-     stretcher as well.
-
-  WESLEY
-     No, I can walk.
-
-  PICARD
-     Doctor.
-
-  CRUSHER
-     We're taking you back to the Enterprise. We've
-     stabilised your vital signs. All right, let's go
-     now.
-
-  PICARD
-     One moment. Mister Crusher?
-
-  WESLEY
-     Yes, sir.
-
-  PICARD
-     What are you doing in such a filthy uniform?
-
-  WESLEY
-     You don't look so ship-shape yourself, sir.
-
-  PICARD
-     Wesley, you will be missed.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

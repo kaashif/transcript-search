@@ -1,1642 +1,865 @@
-The Catwalk
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Catwalk</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Launch bay</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>TUCKER:  There's a gorge on the southern continent five times deeper than the Grand Canyon.</td></tr>
 
-LOCATION--Launch bay
+<tr id="L2"><td><a href="#L2">2</a></td><td>ARCHER:  What have you got in mind?</td></tr>
 
-  TUCKER
-     There's a gorge on the southern continent five
-     times deeper than the Grand Canyon.
+<tr id="L3"><td><a href="#L3">3</a></td><td>TUCKER:  How about a little river rafting? T'Pol says it only gets dark four days a month because of the binary suns. We'll have plenty of daylight left after we're done working every night.</td></tr>
 
-  ARCHER
-     What have you got in mind?
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L4"><td><a href="#L4">4</a></td><td>ANNOTATION: Archer settles into the shuttlepod.</td></tr>
 
-  TUCKER
-     How about a little river rafting? T'Pol says it
-     only gets dark four days a month because of the
-     binary suns. We'll have plenty of daylight left
-     after we're done working every night.
+<tr id="L5"><td><a href="#L5">5</a></td><td>ARCHER:  It's going to take at least a week to complete the survey. Should be enough time to sneak in some R and R.</td></tr>
 
+<tr id="L6"><td><a href="#L6">6</a></td><td>T'POL [OC]:  Bridge to Captain Archer.</td></tr>
 
-LOCATION--Shuttlepod
+<tr id="L7"><td><a href="#L7">7</a></td><td>ARCHER:  Go ahead.</td></tr>
 
-  ANNOTATION
-     Archer settles into the shuttlepod.
+<tr id="L8"><td><a href="#L8">8</a></td><td>T'POL [OC]:  We've got an alien vessel approaching. They're hailing us.</td></tr>
 
-  ARCHER
-     It's going to take at least a week to complete the
-     survey. Should be enough time to sneak in some R
-     and R.
+<tr id="L9"><td><a href="#L9">9</a></td><td>ARCHER:  Put them through to Shuttlepod One.</td></tr>
 
-  T'POL [OC]
-     Bridge to Captain Archer.
+<tr id="L10"><td><a href="#L10">10</a></td><td>T'POL [OC]:  Yes, sir.</td></tr>
 
-  ARCHER
-     Go ahead.
+<tr id="L11"><td><a href="#L11">11</a></td><td>TUCKER:  New planet, new aliens. Banner day.</td></tr>
 
-  T'POL [OC]
-     We've got an alien vessel approaching. They're
-     hailing us.
+<tr id="L12"><td><a href="#L12">12</a></td><td>ANNOTATION: An image of three bald males comes up on the monitor.</td></tr>
 
-  ARCHER
-     Put them through to Shuttlepod One.
+<tr id="L13"><td><a href="#L13">13</a></td><td>TAGRIM [on monitor]:  We're very relieved to see you. I'm Rellus Tagrim. This is my crew.</td></tr>
 
-  T'POL [OC]
-     Yes, sir.
+<tr id="L14"><td><a href="#L14">14</a></td><td>ARCHER:  Captain Archer of the Starship Enterprise. Something we can do for you?</td></tr>
 
-  TUCKER
-     New planet, new aliens. Banner day.
+<tr id="L15"><td><a href="#L15">15</a></td><td>TAGRIM [on monitor]:  Considering the circumstances, we would like permission to come aboard as soon as possible.</td></tr>
 
-  ANNOTATION
-     An image of three bald males comes up on the
-     monitor.
+<tr id="L16"><td><a href="#L16">16</a></td><td>ARCHER:  What circumstances?</td></tr>
 
-  TAGRIM [on monitor]
-     We're very relieved to see you. I'm Rellus Tagrim.
-     This is my crew.
+<tr id="L17"><td><a href="#L17">17</a></td><td>TAGRIM [on monitor]:  The neutronic wavefront. It's almost here.</td></tr>
 
-  ARCHER
-     Captain Archer of the Starship Enterprise.
-     Something we can do for you?
+<tr id="L18"><td><a href="#L18">18</a></td><td>TUCKER:  Nothing on sensors.</td></tr>
 
-  TAGRIM [on monitor]
-     Considering the circumstances, we would like
-     permission to come aboard as soon as possible.
+<tr id="L19"><td><a href="#L19">19</a></td><td>TAGRIM [on monitor]:  You should detect the storm in a few minutes. It's travelling at high warp. Once we're aboard, I suggest you go to warp seven immediately.</td></tr>
 
-  ARCHER
-     What circumstances?
+<tr id="L20"><td><a href="#L20">20</a></td><td>ARCHER:  Our top speed is warp five.</td></tr>
 
-  TAGRIM [on monitor]
-     The neutronic wavefront. It's almost here.
+<tr><td></td><td>LOCATION--Situation room</td></tr>
+<tr id="L21"><td><a href="#L21">21</a></td><td>T'POL:  The wavefront spans more than half a dozen light years. A Vulcan starship encountered a class five over a century ago. The vessel was nearly destroyed.</td></tr>
 
-  TUCKER
-     Nothing on sensors.
+<tr id="L22"><td><a href="#L22">22</a></td><td>ARCHER:  How long until it hits?</td></tr>
 
-  TAGRIM [on monitor]
-     You should detect the storm in a few minutes. It's
-     travelling at high warp. Once we're aboard, I
-     suggest you go to warp seven immediately.
+<tr id="L23"><td><a href="#L23">23</a></td><td>T'POL:  Approximately four hours.</td></tr>
 
-  ARCHER
-     Our top speed is warp five.
+<tr id="L24"><td><a href="#L24">24</a></td><td>REED:  If we reinforce structural integrity we should be able to weather it without too much trouble.</td></tr>
 
+<tr id="L25"><td><a href="#L25">25</a></td><td>PHLOX:  Enterprise may survive. The crew is another matter. The storm is saturated with radiolytic isotopes. If the crew is exposed, they'll be dead within three minutes. Sickbay is the most heavily shielded section. It's possible that some of the crew could survive there.</td></tr>
 
-LOCATION--Situation room
+<tr id="L26"><td><a href="#L26">26</a></td><td>ARCHER:  We can't fit eighty three people into Sickbay, and I'm not about to draw lots.</td></tr>
 
-  T'POL
-     The wavefront spans more than half a dozen light
-     years. A Vulcan starship encountered a class five
-     over a century ago. The vessel was nearly
-     destroyed.
+<tr id="L27"><td><a href="#L27">27</a></td><td>ANNOTATION: Tucker studies a schematic on another monitor.</td></tr>
 
-  ARCHER
-     How long until it hits?
+<tr id="L28"><td><a href="#L28">28</a></td><td>TUCKER:  What about the Catwalk? You know, the maintenance shaft running the length of each nacelle.</td></tr>
 
-  T'POL
-     Approximately four hours.
+<tr id="L29"><td><a href="#L29">29</a></td><td>ARCHER:  They are heavily shielded. Some kind of osmium alloy, if I remember.</td></tr>
 
-  REED
-     If we reinforce structural integrity we should be
-     able to weather it without too much trouble.
+<tr id="L30"><td><a href="#L30">30</a></td><td>T'POL:  You're proposing we take refuge in a crawlspace?</td></tr>
 
-  PHLOX
-     Enterprise may survive. The crew is another
-     matter. The storm is saturated with radiolytic
-     isotopes. If the crew is exposed, they'll be dead
-     within three minutes. Sickbay is the most heavily
-     shielded section. It's possible that some of the
-     crew could survive there.
+<tr id="L31"><td><a href="#L31">31</a></td><td>TUCKER:  It'll be a tight squeeze, but there's no reason we can't fit eighty three people in there, and whatever supplies we need.</td></tr>
 
-  ARCHER
-     We can't fit eighty three people into Sickbay, and
-     I'm not about to draw lots.
+<tr id="L32"><td><a href="#L32">32</a></td><td>ARCHER:  Doctor?</td></tr>
 
-  ANNOTATION
-     Tucker studies a schematic on another monitor.
+<tr id="L33"><td><a href="#L33">33</a></td><td>PHLOX:  Do you know the absorption depth of this alloy?</td></tr>
 
-  TUCKER
-     What about the Catwalk? You know, the maintenance
-     shaft running the length of each nacelle.
+<tr id="L34"><td><a href="#L34">34</a></td><td>TUCKER:  At least twenty thousand particles per micron.</td></tr>
 
-  ARCHER
-     They are heavily shielded. Some kind of osmium
-     alloy, if I remember.
+<tr id="L35"><td><a href="#L35">35</a></td><td>PHLOX:  It should be adequate.</td></tr>
 
-  T'POL
-     You're proposing we take refuge in a crawlspace?
+<tr id="L36"><td><a href="#L36">36</a></td><td>TUCKER:  There's just one other problem. It gets kind of toasty in there when the warp coils are online. About three hundred degrees. We'd have to shut down the main reactor.</td></tr>
 
-  TUCKER
-     It'll be a tight squeeze, but there's no reason we
-     can't fit eighty three people in there, and
-     whatever supplies we need.
+<tr id="L37"><td><a href="#L37">37</a></td><td>ARCHER:  I don't see that we have any choice. We'll use the Catwalk, and set up a command station in one of the compartments.</td></tr>
 
-  ARCHER
-     Doctor?
+<tr id="L38"><td><a href="#L38">38</a></td><td>TUCKER:  Aye, Captain.</td></tr>
 
-  PHLOX
-     Do you know the absorption depth of this alloy?
+<tr id="L39"><td><a href="#L39">39</a></td><td>SOMEONE: ARCHER (to T'Pol) You'll be in charge of the evacuation. Take us out of orbit, Travis.</td></tr>
 
-  TUCKER
-     At least twenty thousand particles per micron.
+<tr><td></td><td>LOCATION--Catwalk</td></tr>
+<tr id="L40"><td><a href="#L40">40</a></td><td>ANNOTATION: Long and narrow with rails either side of a walkway just wide enough for two people to squeeze past each other.</td></tr>
 
-  PHLOX
-     It should be adequate.
+<tr id="L41"><td><a href="#L41">41</a></td><td>TRAVIS:  Maybe we should open a window.</td></tr>
 
-  TUCKER
-     There's just one other problem. It gets kind of
-     toasty in there when the warp coils are online.
-     About three hundred degrees. We'd have to shut
-     down the main reactor.
+<tr id="L42"><td><a href="#L42">42</a></td><td>TUCKER:  You think it's stuffy now, wait till we get eighty three people in here.</td></tr>
 
-  ARCHER
-     I don't see that we have any choice. We'll use the
-     Catwalk, and set up a command station in one of
-     the compartments.
+<tr id="L43"><td><a href="#L43">43</a></td><td>TRAVIS:  And don't forget Porthos, and all the Doctor's animals.</td></tr>
 
-  TUCKER
-     Aye, Captain.
+<tr id="L44"><td><a href="#L44">44</a></td><td>TUCKER:  You ever been through a storm as bad as this?</td></tr>
 
-  SOMEONE
-     ARCHER (to T'Pol) You'll be in charge of the
-     evacuation. Take us out of orbit, Travis.
+<tr id="L45"><td><a href="#L45">45</a></td><td>TRAVIS:  Ran into a Class three once. Had to take shelter in the ship's core. We were down there for six weeks.</td></tr>
 
+<tr id="L46"><td><a href="#L46">46</a></td><td>TUCKER:  Six weeks?</td></tr>
 
-LOCATION--Catwalk
+<tr id="L47"><td><a href="#L47">47</a></td><td>TRAVIS:  Any idea about a latrine?</td></tr>
 
-  ANNOTATION
-     Long and narrow with rails either side of a
-     walkway just wide enough for two people to squeeze
-     past each other.
+<tr id="L48"><td><a href="#L48">48</a></td><td>TUCKER:  Oh, I never thought about that. There are some storage lockers in the aft compartment. We ought to be able to convert a couple of them.</td></tr>
 
-  TRAVIS
-     Maybe we should open a window.
+<tr id="L49"><td><a href="#L49">49</a></td><td>ANNOTATION: They go through a hatchway into another section with control panels on the wall.</td></tr>
 
-  TUCKER
-     You think it's stuffy now, wait till we get eighty
-     three people in here.
+<tr id="L50"><td><a href="#L50">50</a></td><td>TUCKER:  This'll be our Bridge. We're going to have to jury-rig these panels, tap them into command functions.</td></tr>
 
-  TRAVIS
-     And don't forget Porthos, and all the Doctor's
-     animals.
+<tr id="L51"><td><a href="#L51">51</a></td><td>TRAVIS:  Not much room for a Captain's chair.</td></tr>
 
-  TUCKER
-     You ever been through a storm as bad as this?
+<tr id="L52"><td><a href="#L52">52</a></td><td>TUCKER:  That storm must've been pretty scary.</td></tr>
 
-  TRAVIS
-     Ran into a Class three once. Had to take shelter
-     in the ship's core. We were down there for six
-     weeks.
+<tr id="L53"><td><a href="#L53">53</a></td><td>TRAVIS:  We only got worried when the generators went down. We lost the grav-plating, life support. I'll never forget that look in my father's eyes. He knew we were in trouble.</td></tr>
 
-  TUCKER
-     Six weeks?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L54"><td><a href="#L54">54</a></td><td>ANNOTATION: Phlox and Archer escort the three aliens out of the Decon chamber.</td></tr>
 
-  TRAVIS
-     Any idea about a latrine?
+<tr id="L55"><td><a href="#L55">55</a></td><td>ARCHER:  Sorry to keep you in there so long. Please.</td></tr>
 
-  TUCKER
-     Oh, I never thought about that. There are some
-     storage lockers in the aft compartment. We ought
-     to be able to convert a couple of them.
+<tr id="L56"><td><a href="#L56">56</a></td><td>TAGRIM:  We understand.</td></tr>
 
-  ANNOTATION
-     They go through a hatchway into another section
-     with control panels on the wall.
+<tr id="L57"><td><a href="#L57">57</a></td><td>ARCHER:  My Science Officer tells me you're from the Takret system. That's a long way from here.</td></tr>
 
-  TUCKER
-     This'll be our Bridge. We're going to have to
-     jury-rig these panels, tap them into command
-     functions.
+<tr id="L58"><td><a href="#L58">58</a></td><td>TAGRIM:  Our work often takes us far from home.</td></tr>
 
-  TRAVIS
-     Not much room for a Captain's chair.
+<tr id="L59"><td><a href="#L59">59</a></td><td>RENTH:  We're stellar cartographers.</td></tr>
 
-  TUCKER
-     That storm must've been pretty scary.
+<tr id="L60"><td><a href="#L60">60</a></td><td>ARCHER:  Really? Once we get out of the storm maybe you can help us update our star charts.</td></tr>
 
-  TRAVIS
-     We only got worried when the generators went down.
-     We lost the grav-plating, life support. I'll never
-     forget that look in my father's eyes. He knew we
-     were in trouble.
+<tr id="L61"><td><a href="#L61">61</a></td><td>TAGRIM:  We'd be pleased.</td></tr>
 
+<tr id="L62"><td><a href="#L62">62</a></td><td>PHLOX:  This way.</td></tr>
 
-LOCATION--Corridor
+<tr id="L63"><td><a href="#L63">63</a></td><td>ANNOTATION: The ship is a frenzy of activity. The warp injectors are being locked down. Duffle bags are being passed up the ladders to the catwalk, spacesuits are being packed and moved.</td></tr>
 
-  ANNOTATION
-     Phlox and Archer escort the three aliens out of
-     the Decon chamber.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L64"><td><a href="#L64">64</a></td><td>T'POL:  You're behind schedule. Do you need help?</td></tr>
 
-  ARCHER
-     Sorry to keep you in there so long. Please.
+<tr id="L65"><td><a href="#L65">65</a></td><td>PHLOX:  I understand you've allotted fifteen cubic metres for medical supplies?</td></tr>
 
-  TAGRIM
-     We understand.
+<tr id="L66"><td><a href="#L66">66</a></td><td>T'POL:  That's correct.</td></tr>
 
-  ARCHER
-     My Science Officer tells me you're from the Takret
-     system. That's a long way from here.
+<tr id="L67"><td><a href="#L67">67</a></td><td>PHLOX:  That means there's only enough room for two-thirds of these cages.</td></tr>
 
-  TAGRIM
-     Our work often takes us far from home.
+<tr id="L68"><td><a href="#L68">68</a></td><td>T'POL:  Perhaps some of your creatures could share.</td></tr>
 
-  RENTH
-     We're stellar cartographers.
+<tr id="L69"><td><a href="#L69">69</a></td><td>PHLOX:  They'll eat each other. They're vital to my work and the health of this crew. I'm not accustomed to making emotional appeals. Please, don't ask me to choose between them.</td></tr>
 
-  ARCHER
-     Really? Once we get out of the storm maybe you can
-     help us update our star charts.
+<tr id="L70"><td><a href="#L70">70</a></td><td>T'POL:  All right. Twenty cubic metres.</td></tr>
 
-  TAGRIM
-     We'd be pleased.
+<tr id="L71"><td><a href="#L71">71</a></td><td>PHLOX:  My Edosian slugs thank you.</td></tr>
 
-  PHLOX
-     This way.
+<tr><td></td><td>LOCATION--Catwalk</td></tr>
+<tr id="L72"><td><a href="#L72">72</a></td><td>ANNOTATION: People are setting in either side of the walkway.</td></tr>
 
-  ANNOTATION
-     The ship is a frenzy of activity. The warp
-     injectors are being locked down. Duffle bags are
-     being passed up the ladders to the catwalk,
-     spacesuits are being packed and moved.
+<tr id="L73"><td><a href="#L73">73</a></td><td>TUCKER:  I'm afraid these aren't first class accommodations.</td></tr>
 
+<tr id="L74"><td><a href="#L74">74</a></td><td>TAGRIM:  They'll be fine, Commander. We're grateful for your hospitality.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L75"><td><a href="#L75">75</a></td><td>TUCKER:  We're going to have a lot of time to get to know each other. If you need anything, I'll be right over here.</td></tr>
 
-  T'POL
-     You're behind schedule. Do you need help?
+<tr id="L76"><td><a href="#L76">76</a></td><td>ANNOTATION: He leaves them.</td></tr>
 
-  PHLOX
-     I understand you've allotted fifteen cubic metres
-     for medical supplies?
+<tr id="L77"><td><a href="#L77">77</a></td><td>GURI:  I don't know the first thing about stellar cartography.</td></tr>
 
-  T'POL
-     That's correct.
+<tr id="L78"><td><a href="#L78">78</a></td><td>TAGRIM:  Guri.</td></tr>
 
-  PHLOX
-     That means there's only enough room for two-thirds
-     of these cages.
+<tr id="L79"><td><a href="#L79">79</a></td><td>GURI:  What if they begin to ask questions?</td></tr>
 
-  T'POL
-     Perhaps some of your creatures could share.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L80"><td><a href="#L80">80</a></td><td>ANNOTATION: Archer is doing some final packing when he pauses to watch the purple ribbon-like phenomenon approaching. Hmm, familiar.</td></tr>
 
-  PHLOX
-     They'll eat each other. They're vital to my work
-     and the health of this crew. I'm not accustomed to
-     making emotional appeals. Please, don't ask me to
-     choose between them.
+<tr id="L81"><td><a href="#L81">81</a></td><td>ARCHER:  Come in. (T'Pol enters) I didn't expect it to be beautiful. Too bad we don't have time to run some scans.</td></tr>
 
-  T'POL
-     All right. Twenty cubic metres.
+<tr id="L82"><td><a href="#L82">82</a></td><td>T'POL:  We'll be inside the phenomenon for nearly eight days. We can run all the scans we want. Lieutenant Reed has completed his modifications.</td></tr>
 
-  PHLOX
-     My Edosian slugs thank you.
+<tr id="L83"><td><a href="#L83">83</a></td><td>ARCHER:  I'm a little nervous about shutting down the power grid.</td></tr>
 
+<tr id="L84"><td><a href="#L84">84</a></td><td>T'POL:  A single neutronic surge could overload the grid and damage critical systems.</td></tr>
 
-LOCATION--Catwalk
+<tr id="L85"><td><a href="#L85">85</a></td><td>ARCHER:  I did a little research in the Vulcan database. That Class five storm a century ago involved the Starship T'Plana. Apparently, they couldn't outrun the wavefront. It was lost with all hands. I thought you said it was nearly destroyed.</td></tr>
 
-  ANNOTATION
-     People are setting in either side of the walkway.
+<tr id="L86"><td><a href="#L86">86</a></td><td>T'POL:  I must have remembered incorrectly.</td></tr>
 
-  TUCKER
-     I'm afraid these aren't first class
-     accommodations.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L87"><td><a href="#L87">87</a></td><td>ARCHER:  (at helm) Bridge to Commander Tucker.</td></tr>
 
-  TAGRIM
-     They'll be fine, Commander. We're grateful for
-     your hospitality.
+<tr id="L88"><td><a href="#L88">88</a></td><td>TUCKER [OC]:  Go ahead.</td></tr>
 
-  TUCKER
-     We're going to have a lot of time to get to know
-     each other. If you need anything, I'll be right
-     over here.
+<tr id="L89"><td><a href="#L89">89</a></td><td>ARCHER:  Ready for the handoff?</td></tr>
 
-  ANNOTATION
-     He leaves them.
+<tr><td></td><td>LOCATION--Catwalk command area</td></tr>
+<tr id="L90"><td><a href="#L90">90</a></td><td>TUCKER:  Give me a second.</td></tr>
 
-  GURI
-     I don't know the first thing about stellar
-     cartography.
+<tr id="L91"><td><a href="#L91">91</a></td><td>ANNOTATION: He and Travis press screens and finally a bunch of unconnected optic cables light up.</td></tr>
 
-  TAGRIM
-     Guri.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L92"><td><a href="#L92">92</a></td><td>TUCKER [OC]:  Standing by, Captain.</td></tr>
 
-  GURI
-     What if they begin to ask questions?
+<tr id="L93"><td><a href="#L93">93</a></td><td>ANNOTATION: Archer looks across to Reed and then T'Pol, who touch their boards.</td></tr>
 
+<tr><td></td><td>LOCATION--Catwalk command area</td></tr>
+<tr id="L94"><td><a href="#L94">94</a></td><td>ANNOTATION: As monitors bring up the familiar Bridge displays.</td></tr>
 
-LOCATION--Ready room
+<tr id="L95"><td><a href="#L95">95</a></td><td>TUCKER:  We're in the driver's seat.</td></tr>
 
-  ANNOTATION
-     Archer is doing some final packing when he pauses
-     to watch the purple ribbon-like phenomenon
-     approaching. Hmm, familiar.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L96"><td><a href="#L96">96</a></td><td>ARCHER:  See you in a few minutes. Archer out. Let's close up shop.</td></tr>
 
-  ARCHER
-     Come in. (T'Pol enters) I didn't expect it to be
-     beautiful. Too bad we don't have time to run some
-     scans.
+<tr id="L97"><td><a href="#L97">97</a></td><td>ANNOTATION: At the press of a button, main power goes down everywhere, to be replaced by low level emergency lighting.</td></tr>
 
-  T'POL
-     We'll be inside the phenomenon for nearly eight
-     days. We can run all the scans we want. Lieutenant
-     Reed has completed his modifications.
+<tr><td></td><td>LOCATION--Catwalk command area</td></tr>
+<tr id="L98"><td><a href="#L98">98</a></td><td>ARCHER:  Done a head count?</td></tr>
 
-  ARCHER
-     I'm a little nervous about shutting down the power
-     grid.
+<tr id="L99"><td><a href="#L99">99</a></td><td>TUCKER:  Entire crew's accounted for, including one quadruped. Would you like to try out the Captain's chair?</td></tr>
 
-  T'POL
-     A single neutronic surge could overload the grid
-     and damage critical systems.
+<tr id="L100"><td><a href="#L100">100</a></td><td>ANNOTATION: He pets Porthos then looks at a few barrels with netting on top.</td></tr>
 
-  ARCHER
-     I did a little research in the Vulcan database.
-     That Class five storm a century ago involved the
-     Starship T'Plana. Apparently, they couldn't outrun
-     the wavefront. It was lost with all hands. I
-     thought you said it was nearly destroyed.
+<tr id="L101"><td><a href="#L101">101</a></td><td>ARCHER:  Maybe later. Where's the comm.?</td></tr>
 
-  T'POL
-     I must have remembered incorrectly.
+<tr id="L102"><td><a href="#L102">102</a></td><td>ANNOTATION: Tucker gestures to a column.</td></tr>
 
+<tr id="L103"><td><a href="#L103">103</a></td><td>ARCHER:  All hands, this is the Captain. This catwalk is going to be our home for a while. A week, maybe more. You may not be comfortable, but you'll be alive. We have the best crew in the fleet and the sturdiest ship. I promise you, we'll get through this.</td></tr>
 
-LOCATION--Bridge
+<tr id="L104"><td><a href="#L104">104</a></td><td>ANNOTATION: He closes the comm.</td></tr>
 
-  ARCHER
-     (at helm) Bridge to Commander Tucker.
+<tr id="L105"><td><a href="#L105">105</a></td><td>ARCHER:  Time?</td></tr>
 
-  TUCKER [OC]
-     Go ahead.
+<tr id="L106"><td><a href="#L106">106</a></td><td>ANNOTATION: T'Pol's station is the other side of the column.</td></tr>
 
-  ARCHER
-     Ready for the handoff?
+<tr id="L107"><td><a href="#L107">107</a></td><td>T'POL:  One minute, five seconds.</td></tr>
 
+<tr id="L108"><td><a href="#L108">108</a></td><td>ARCHER:  Polarise the hull plating.</td></tr>
 
-LOCATION--Catwalk command area
+<tr id="L109"><td><a href="#L109">109</a></td><td>ANNOTATION: Enterprise turns to face the oncoming storm.</td></tr>
 
-  TUCKER
-     Give me a second.
+<tr id="L110"><td><a href="#L110">110</a></td><td>T'POL:  Thirty seconds.</td></tr>
 
-  ANNOTATION
-     He and Travis press screens and finally a bunch of
-     unconnected optic cables light up.
+<tr id="L111"><td><a href="#L111">111</a></td><td>ANNOTATION: The ship starts to shake.</td></tr>
 
+<tr id="L112"><td><a href="#L112">112</a></td><td>ARCHER:  Travis?</td></tr>
 
-LOCATION--Bridge
+<tr id="L113"><td><a href="#L113">113</a></td><td>TRAVIS:  Spatial turbulence.</td></tr>
 
-  TUCKER [OC]
-     Standing by, Captain.
+<tr id="L114"><td><a href="#L114">114</a></td><td>T'POL:  Twenty seconds. Fifteen. Ten.</td></tr>
 
-  ANNOTATION
-     Archer looks across to Reed and then T'Pol, who
-     touch their boards.
+<tr id="L115"><td><a href="#L115">115</a></td><td>ARCHER:  All hands, brace for impact.</td></tr>
 
+<tr id="L116"><td><a href="#L116">116</a></td><td>ANNOTATION: It gets very rough, and Porthos decides to hide.</td></tr>
 
-LOCATION--Catwalk command area
+<tr id="L117"><td><a href="#L117">117</a></td><td>TRAVIS:  Aft stabilisers aren't engaging.</td></tr>
 
-  ANNOTATION
-     As monitors bring up the familiar Bridge displays.
+<tr id="L118"><td><a href="#L118">118</a></td><td>TUCKER:  Try them again.</td></tr>
 
-  TUCKER
-     We're in the driver's seat.
+<tr id="L119"><td><a href="#L119">119</a></td><td>ANNOTATION: Things get smoother.</td></tr>
 
+<tr id="L120"><td><a href="#L120">120</a></td><td>TRAVIS:  Grav-shear's dropping.</td></tr>
 
-LOCATION--Bridge
+<tr id="L121"><td><a href="#L121">121</a></td><td>ANNOTATION: Porthos re-emerges.</td></tr>
 
-  ARCHER
-     See you in a few minutes. Archer out. Let's close
-     up shop.
+<tr id="L122"><td><a href="#L122">122</a></td><td>TRAVIS:  That should be the worst of it, sir, at least for now.</td></tr>
 
-  ANNOTATION
-     At the press of a button, main power goes down
-     everywhere, to be replaced by low level emergency
-     lighting.
+<tr><td></td><td>LOCATION--Catwalk</td></tr>
+<tr id="L123"><td><a href="#L123">123</a></td><td>ANNOTATION: Archer is walking through, during jolts, and picks up a small PADD.</td></tr>
 
+<tr id="L124"><td><a href="#L124">124</a></td><td>SOMEONE: ARCHER Yours? Looks like you're almost finished.</td></tr>
 
-LOCATION--Catwalk command area
+<tr id="L125"><td><a href="#L125">125</a></td><td>ANNOTATION: The crewwoman takes back her crossword puzzle.</td></tr>
 
-  ARCHER
-     Done a head count?
+<tr id="L126"><td><a href="#L126">126</a></td><td>CREWWOMAN:  You wouldn't know who was the first Vulcan ambassador to Earth. Six letters, ends with an R?</td></tr>
 
-  TUCKER
-     Entire crew's accounted for, including one
-     quadruped. Would you like to try out the Captain's
-     chair?
+<tr id="L127"><td><a href="#L127">127</a></td><td>ARCHER:  Solkar, I think.</td></tr>
 
-  ANNOTATION
-     He pets Porthos then looks at a few barrels with
-     netting on top.
+<tr id="L128"><td><a href="#L128">128</a></td><td>CREWWOMAN:  Thanks, Captain.</td></tr>
 
-  ARCHER
-     Maybe later. Where's the comm.?
+<tr id="L129"><td><a href="#L129">129</a></td><td>ARCHER:  Don't mention it.</td></tr>
 
-  ANNOTATION
-     Tucker gestures to a column.
+<tr id="L130"><td><a href="#L130">130</a></td><td>ANNOTATION: He moves over to Hoshi.</td></tr>
 
-  ARCHER
-     All hands, this is the Captain. This catwalk is
-     going to be our home for a while. A week, maybe
-     more. You may not be comfortable, but you'll be
-     alive. We have the best crew in the fleet and the
-     sturdiest ship. I promise you, we'll get through
-     this.
+<tr id="L131"><td><a href="#L131">131</a></td><td>ARCHER:  How're you holding up?</td></tr>
 
-  ANNOTATION
-     He closes the comm.
+<tr id="L132"><td><a href="#L132">132</a></td><td>ANNOTATION: Hoshi iscleaning her teeth with a light brush.</td></tr>
 
-  ARCHER
-     Time?
+<tr id="L133"><td><a href="#L133">133</a></td><td>HOSHI:  Pretty well, sir. A few days in this place should cure anyone of claustrophobia.</td></tr>
 
-  ANNOTATION
-     T'Pol's station is the other side of the column.
+<tr id="L134"><td><a href="#L134">134</a></td><td>ARCHER:  Your quarters will probably feel like a ballroom after this.</td></tr>
 
-  T'POL
-     One minute, five seconds.
+<tr id="L135"><td><a href="#L135">135</a></td><td>ANNOTATION: There's another shake</td></tr>
 
-  ARCHER
-     Polarise the hull plating.
+<tr id="L136"><td><a href="#L136">136</a></td><td>HOSHI:  You're the Captain. Can't you order the storm to calm down a little?</td></tr>
 
-  ANNOTATION
-     Enterprise turns to face the oncoming storm.
+<tr id="L137"><td><a href="#L137">137</a></td><td>ARCHER:  I'll see what I can do.</td></tr>
 
-  T'POL
-     Thirty seconds.
+<tr id="L138"><td><a href="#L138">138</a></td><td>ANNOTATION: He walks under the privacy curtain that will divide the women from the men - a blanket actually. The alien guests have also put blankets up around their area to screen it off. Subtitles give some of the incidental conversations.</td></tr>
 
-  ANNOTATION
-     The ship starts to shake.
+<tr id="L139"><td><a href="#L139">139</a></td><td>VOICE:  Someone has already asked for it, so why isn't he doing anything about it?</td></tr>
 
-  ARCHER
-     Travis?
+<tr id="L140"><td><a href="#L140">140</a></td><td>CREWMAN:  How should I know?</td></tr>
 
-  TRAVIS
-     Spatial turbulence.
+<tr id="L141"><td><a href="#L141">141</a></td><td>VOICE:  Another day in this place.</td></tr>
 
-  T'POL
-     Twenty seconds. Fifteen. Ten.
+<tr id="L142"><td><a href="#L142">142</a></td><td>VOICE:  We're running out of food.</td></tr>
 
-  ARCHER
-     All hands, brace for impact.
+<tr id="L143"><td><a href="#L143">143</a></td><td>ANNOTATION: There are at least two card games on the go.</td></tr>
 
-  ANNOTATION
-     It gets very rough, and Porthos decides to hide.
+<tr id="L144"><td><a href="#L144">144</a></td><td>ARCHER:  (referring to aliens) How're they doing?</td></tr>
 
-  TRAVIS
-     Aft stabilisers aren't engaging.
+<tr id="L145"><td><a href="#L145">145</a></td><td>TUCKER:  Your guess is as good as mine. One of them came out a few hours ago. Told us we were making too much noise. Now, I've been real friendly. Even asked them to join the game. Doesn't seem like they want anything to do with us.</td></tr>
 
-  TUCKER
-     Try them again.
+<tr id="L146"><td><a href="#L146">146</a></td><td>ARCHER:  Let's give them a little time to adjust.</td></tr>
 
-  ANNOTATION
-     Things get smoother.
+<tr id="L147"><td><a href="#L147">147</a></td><td>TUCKER:  You know, I bet by now we'd have set up camp on the rim of that canyon, had a fire going.</td></tr>
 
-  TRAVIS
-     Grav-shear's dropping.
+<tr id="L148"><td><a href="#L148">148</a></td><td>ARCHER:  There'll be other canyons.</td></tr>
 
-  ANNOTATION
-     Porthos re-emerges.
+<tr id="L149"><td><a href="#L149">149</a></td><td>ANNOTATION: In another part of the catwalk.</td></tr>
 
-  TRAVIS
-     That should be the worst of it, sir, at least for
-     now.
+<tr id="L150"><td><a href="#L150">150</a></td><td>PHLOX:  PalantiI, are you passing through or is there something I can help you with?</td></tr>
 
+<tr id="L151"><td><a href="#L151">151</a></td><td>REED:  Actually, there is something.</td></tr>
 
-LOCATION--Catwalk
+<tr id="L152"><td><a href="#L152">152</a></td><td>ANNOTATION: Reed climbs down into Phlox's area.</td></tr>
 
-  ANNOTATION
-     Archer is walking through, during jolts, and picks
-     up a small PADD.
+<tr id="L153"><td><a href="#L153">153</a></td><td>PHLOX:  Yes?</td></tr>
 
-  SOMEONE
-     ARCHER Yours? Looks like you're almost finished.
+<tr id="L154"><td><a href="#L154">154</a></td><td>REED:  I assume I can depend on doctor-patient confidentiality.</td></tr>
 
-  ANNOTATION
-     The crewwoman takes back her crossword puzzle.
+<tr id="L155"><td><a href="#L155">155</a></td><td>PHLOX:  This wouldn't have anything to do with gastrointestinal distress?</td></tr>
 
-  CREWWOMAN
-     You wouldn't know who was the first Vulcan
-     ambassador to Earth. Six letters, ends with an R?
+<tr id="L156"><td><a href="#L156">156</a></td><td>REED:  Is it that obvious?</td></tr>
 
-  ARCHER
-     Solkar, I think.
+<tr id="L157"><td><a href="#L157">157</a></td><td>PHLOX:  Not at all. There's a notation in your medical file. Something about an unfortunate incident during zero g training.</td></tr>
 
-  CREWWOMAN
-     Thanks, Captain.
+<tr id="L158"><td><a href="#L158">158</a></td><td>REED:  The EV simulator at Lunaport, or as Starfleet trainees call it, The Vomitorium.</td></tr>
 
-  ARCHER
-     Don't mention it.
+<tr id="L159"><td><a href="#L159">159</a></td><td>PHLOX:  Nothing to be embarrassed about. I've treated a number of crewmen this afternoon for motion sickness.</td></tr>
 
-  ANNOTATION
-     He moves over to Hoshi.
+<tr id="L160"><td><a href="#L160">160</a></td><td>ANNOTATION: Phlox gives him a hypospray.</td></tr>
 
-  ARCHER
-     How're you holding up?
+<tr id="L161"><td><a href="#L161">161</a></td><td>PHLOX:  That should last for about twelve hours.</td></tr>
 
-  ANNOTATION
-     Hoshi iscleaning her teeth with a light brush.
+<tr id="L162"><td><a href="#L162">162</a></td><td>REED:  Thank you, Doctor.</td></tr>
 
-  HOSHI
-     Pretty well, sir. A few days in this place should
-     cure anyone of claustrophobia.
+<tr id="L163"><td><a href="#L163">163</a></td><td>ARCHER:  Feeling all right, Malcolm?</td></tr>
 
-  ARCHER
-     Your quarters will probably feel like a ballroom
-     after this.
+<tr id="L164"><td><a href="#L164">164</a></td><td>REED:  Never better.</td></tr>
 
-  ANNOTATION
-     There's another shake
+<tr id="L165"><td><a href="#L165">165</a></td><td>ANNOTATION: Reed leaves.</td></tr>
 
-  HOSHI
-     You're the Captain. Can't you order the storm to
-     calm down a little?
+<tr id="L166"><td><a href="#L166">166</a></td><td>ARCHER:  Any problems with the crew?</td></tr>
 
-  ARCHER
-     I'll see what I can do.
+<tr id="L167"><td><a href="#L167">167</a></td><td>PHLOX:  Oh, a few bumps and bruises from the turbulence. Nothing too serious.</td></tr>
 
-  ANNOTATION
-     He walks under the privacy curtain that will
-     divide the women from the men - a blanket
-     actually. The alien guests have also put blankets
-     up around their area to screen it off. Subtitles
-     give some of the incidental conversations.
+<tr id="L168"><td><a href="#L168">168</a></td><td>ANNOTATION: Archer surveys the array of cages.</td></tr>
 
-  VOICE
-     Someone has already asked for it, so why isn't he
-     doing anything about it?
+<tr id="L169"><td><a href="#L169">169</a></td><td>ARCHER:  I could see about moving some of this to the aft section.</td></tr>
 
-  CREWMAN
-     How should I know?
+<tr id="L170"><td><a href="#L170">170</a></td><td>PHLOX:  Nonsense. I have plenty of room. I find the close quarters rather comforting. Reminds me of home.</td></tr>
 
-  VOICE
-     Another day in this place.
+<tr id="L171"><td><a href="#L171">171</a></td><td>ARCHER:  I didn't realise space was at a premium on Denobula.</td></tr>
 
-  VOICE
-     We're running out of food.
+<tr id="L172"><td><a href="#L172">172</a></td><td>PHLOX:  Twelve billion people sharing one continent.</td></tr>
 
-  ANNOTATION
-     There are at least two card games on the go.
+<tr id="L173"><td><a href="#L173">173</a></td><td>ARCHER:  Let me know if you change your mind.</td></tr>
 
-  ARCHER
-     (referring to aliens) How're they doing?
+<tr><td></td><td>LOCATION--Catwalk command area</td></tr>
+<tr id="L174"><td><a href="#L174">174</a></td><td>ARCHER:  Travis?</td></tr>
 
-  TUCKER
-     Your guess is as good as mine. One of them came
-     out a few hours ago. Told us we were making too
-     much noise. Now, I've been real friendly. Even
-     asked them to join the game. Doesn't seem like
-     they want anything to do with us.
+<tr id="L175"><td><a href="#L175">175</a></td><td>TRAVIS:  We've got a cluster of plasma eddies about eighty thousand kilometres ahead. I should be able to steer clear of them.</td></tr>
 
-  ARCHER
-     Let's give them a little time to adjust.
+<tr id="L176"><td><a href="#L176">176</a></td><td>ARCHER:  Wake me if there's a problem.</td></tr>
 
-  TUCKER
-     You know, I bet by now we'd have set up camp on
-     the rim of that canyon, had a fire going.
+<tr id="L177"><td><a href="#L177">177</a></td><td>TRAVIS:  Aye, Captain.</td></tr>
 
-  ARCHER
-     There'll be other canyons.
+<tr id="L178"><td><a href="#L178">178</a></td><td>ARCHER:  When we're past those eddies, try and get some rest yourself. Ensign Tanner can relieve you.</td></tr>
 
-  ANNOTATION
-     In another part of the catwalk.
+<tr id="L179"><td><a href="#L179">179</a></td><td>TRAVIS:  Thank you, sir. Good night.</td></tr>
 
-  PHLOX
-     PalantiI, are you passing through or is there
-     something I can help you with?
+<tr id="L180"><td><a href="#L180">180</a></td><td>ARCHER:  Good night.</td></tr>
 
-  REED
-     Actually, there is something.
+<tr id="L181"><td><a href="#L181">181</a></td><td>ANNOTATION: bed is a mattress to the rear of the area, with T'Pol curled up working on the other side of the room. Porthos joins his master for a good petting session then trots back to his basket</td></tr>
 
-  ANNOTATION
-     Reed climbs down into Phlox's area.
+<tr id="L182"><td><a href="#L182">182</a></td><td>ARCHER:  Go on. Go to sleep.</td></tr>
 
-  PHLOX
-     Yes?
+<tr id="L183"><td><a href="#L183">183</a></td><td>ANNOTATION: Archer turns on his PADD to watch a water polo match, complete with sound and his own reactions. He feels T'Pol's glare hitting him and looks up.</td></tr>
 
-  REED
-     I assume I can depend on doctor-patient
-     confidentiality.
+<tr id="L184"><td><a href="#L184">184</a></td><td>ARCHER:  Does this bother you?</td></tr>
 
-  PHLOX
-     This wouldn't have anything to do with
-     gastrointestinal distress?
+<tr id="L185"><td><a href="#L185">185</a></td><td>T'POL:  Only slightly.</td></tr>
 
-  REED
-     Is it that obvious?
+<tr id="L186"><td><a href="#L186">186</a></td><td>ANNOTATION: Archer turns off the PADD and settles down to sleep, but with the light on and T'Pol tapping at her PADD, it's not easy.</td></tr>
 
-  PHLOX
-     Not at all. There's a notation in your medical
-     file. Something about an unfortunate incident
-     during zero g training.
+<tr id="L187"><td><a href="#L187">187</a></td><td>T'POL:  Am I disturbing you?</td></tr>
 
-  REED
-     The EV simulator at Lunaport, or as Starfleet
-     trainees call it, The Vomitorium.
+<tr id="L188"><td><a href="#L188">188</a></td><td>ARCHER:  Only slightly.</td></tr>
 
-  PHLOX
-     Nothing to be embarrassed about. I've treated a
-     number of crewmen this afternoon for motion
-     sickness.
+<tr id="L189"><td><a href="#L189">189</a></td><td>ANNOTATION: She turns off her PADD and lies down.</td></tr>
 
-  ANNOTATION
-     Phlox gives him a hypospray.
+<tr id="L190"><td><a href="#L190">190</a></td><td>ARCHER:  You know, there's a bright side to all of this.</td></tr>
 
-  PHLOX
-     That should last for about twelve hours.
+<tr id="L191"><td><a href="#L191">191</a></td><td>T'POL:  Really.</td></tr>
 
-  REED
-     Thank you, Doctor.
+<tr id="L192"><td><a href="#L192">192</a></td><td>ARCHER:  It's bringing the crew closer together. If you forget about the storm outside, this is almost like going on a camping trip.</td></tr>
 
-  ARCHER
-     Feeling all right, Malcolm?
+<tr id="L193"><td><a href="#L193">193</a></td><td>T'POL:  Perhaps we can sing a few songs later.</td></tr>
 
-  REED
-     Never better.
+<tr id="L194"><td><a href="#L194">194</a></td><td>ARCHER:  Haven't you ever gone camping?</td></tr>
 
-  ANNOTATION
-     Reed leaves.
+<tr id="L195"><td><a href="#L195">195</a></td><td>T'POL:  In a manner of speaking. I once participated in the kahswan ritual. I was taken to the desert and left to survive for ten days.</td></tr>
 
-  ARCHER
-     Any problems with the crew?
+<tr id="L196"><td><a href="#L196">196</a></td><td>ARCHER:  Sounds fun. You haven't left the command area much today. You might want to wander around, get to know the crew.</td></tr>
 
-  PHLOX
-     Oh, a few bumps and bruises from the turbulence.
-     Nothing too serious.
+<tr id="L197"><td><a href="#L197">197</a></td><td>T'POL:  I'm familiar with every one of them.</td></tr>
 
-  ANNOTATION
-     Archer surveys the array of cages.
+<tr id="L198"><td><a href="#L198">198</a></td><td>ARCHER:  There's a lot more to these people than just their names. It'd be good for you to fraternise a little.</td></tr>
 
-  ARCHER
-     I could see about moving some of this to the aft
-     section.
+<tr id="L199"><td><a href="#L199">199</a></td><td>T'POL:  Is that an order?</td></tr>
 
-  PHLOX
-     Nonsense. I have plenty of room. I find the close
-     quarters rather comforting. Reminds me of home.
+<tr id="L200"><td><a href="#L200">200</a></td><td>ARCHER:  Does it have to be?</td></tr>
 
-  ARCHER
-     I didn't realise space was at a premium on
-     Denobula.
+<tr id="L201"><td><a href="#L201">201</a></td><td>T'POL:  I'm not skilled at fraternising.</td></tr>
 
-  PHLOX
-     Twelve billion people sharing one continent.
+<tr id="L202"><td><a href="#L202">202</a></td><td>ARCHER:  Here's a chance to learn.</td></tr>
 
-  ARCHER
-     Let me know if you change your mind.
+<tr id="L203"><td><a href="#L203">203</a></td><td>ANNOTATION: Tucker, Malcolm, Hoshi and Travis are playing poker.</td></tr>
 
+<tr id="L204"><td><a href="#L204">204</a></td><td>REED:  I'll see your strawberry shortcake, and I'll raise you one pineapple cobbler.</td></tr>
 
-LOCATION--Catwalk command area
+<tr id="L205"><td><a href="#L205">205</a></td><td>ANNOTATION: Hoshi puts down her bet.</td></tr>
 
-  ARCHER
-     Travis?
+<tr id="L206"><td><a href="#L206">206</a></td><td>TRAVIS:  Broccoli?</td></tr>
 
-  TRAVIS
-     We've got a cluster of plasma eddies about eighty
-     thousand kilometres ahead. I should be able to
-     steer clear of them.
+<tr id="L207"><td><a href="#L207">207</a></td><td>HOSHI:  I'm out of desserts.</td></tr>
 
-  ARCHER
-     Wake me if there's a problem.
+<tr id="L208"><td><a href="#L208">208</a></td><td>TRAVIS:  Call.</td></tr>
 
-  TRAVIS
-     Aye, Captain.
+<tr id="L209"><td><a href="#L209">209</a></td><td>REED:  Oh, what I wouldn't give for a shower right about now. When this hand's over maybe you could look into building one.</td></tr>
 
-  ARCHER
-     When we're past those eddies, try and get some
-     rest yourself. Ensign Tanner can relieve you.
+<tr id="L210"><td><a href="#L210">210</a></td><td>TUCKER:  Would you like a sauna while I'm at it?</td></tr>
 
-  TRAVIS
-     Thank you, sir. Good night.
+<tr id="L211"><td><a href="#L211">211</a></td><td>REED:  You knew we'd be stuck in here for over a week. You might've given it a little thought to making it tolerable.</td></tr>
 
-  ARCHER
-     Good night.
+<tr id="L212"><td><a href="#L212">212</a></td><td>TUCKER:  I only had four hours, Malcolm. You're lucky we've got a toilet.</td></tr>
 
-  ANNOTATION
-     bed is a mattress to the rear of the area, with
-     T'Pol curled up working on the other side of the
-     room. Porthos joins his master for a good petting
-     session then trots back to his basket
+<tr id="L213"><td><a href="#L213">213</a></td><td>REED:  Well, I obviously overestimated your people's abilities when it comes to indoor plumbing.</td></tr>
 
-  ARCHER
-     Go on. Go to sleep.
+<tr id="L214"><td><a href="#L214">214</a></td><td>TUCKER:  You want to take a shower? Build one yourself.</td></tr>
 
-  ANNOTATION
-     Archer turns on his PADD to watch a water polo
-     match, complete with sound and his own reactions.
-     He feels T'Pol's glare hitting him and looks up.
+<tr id="L215"><td><a href="#L215">215</a></td><td>ANNOTATION: A white suited figure comes by, handing out prepacked hot meals, but we don't get to see his face.</td></tr>
 
-  ARCHER
-     Does this bother you?
+<tr id="L216"><td><a href="#L216">216</a></td><td>TUCKER:  Thanks, Chef.</td></tr>
 
-  T'POL
-     Only slightly.
+<tr id="L217"><td><a href="#L217">217</a></td><td>HOSHI:  Thanks, Chef.</td></tr>
 
-  ANNOTATION
-     Archer turns off the PADD and settles down to
-     sleep, but with the light on and T'Pol tapping at
-     her PADD, it's not easy.
+<tr id="L218"><td><a href="#L218">218</a></td><td>REED:  Pot roast? Oh, come on. That's the third time in three days.</td></tr>
 
-  T'POL
-     Am I disturbing you?
+<tr id="L219"><td><a href="#L219">219</a></td><td>TRAVIS:  Anyone know what they're showing tonight?</td></tr>
 
-  ARCHER
-     Only slightly.
+<tr id="L220"><td><a href="#L220">220</a></td><td>TUCKER:  The Day the Earth Stood Still.</td></tr>
 
-  ANNOTATION
-     She turns off her PADD and lies down.
+<tr id="L221"><td><a href="#L221">221</a></td><td>REED:  We're having movie night in here?</td></tr>
 
-  ARCHER
-     You know, there's a bright side to all of this.
+<tr id="L222"><td><a href="#L222">222</a></td><td>TUCKER:  Captain's orders. I set up a monitor in Compartment Five. The screen's a little small, but</td></tr>
 
-  T'POL
-     Really.
+<tr id="L223"><td><a href="#L223">223</a></td><td>HOSHI:  Who's picking these movies? Shouldn't we all get a vote?</td></tr>
 
-  ARCHER
-     It's bringing the crew closer together. If you
-     forget about the storm outside, this is almost
-     like going on a camping trip.
+<tr id="L224"><td><a href="#L224">224</a></td><td>TRAVIS:  I think something's burning.</td></tr>
 
-  T'POL
-     Perhaps we can sing a few songs later.
+<tr id="L225"><td><a href="#L225">225</a></td><td>ANNOTATION: Smoke is coming from the alien's area. Trip dashes over and pulls open the blanket curtain to discover them cooking over a stove.</td></tr>
 
-  ARCHER
-     Haven't you ever gone camping?
+<tr id="L226"><td><a href="#L226">226</a></td><td>TUCKER:  Are you aware you're sitting on top of a plasma manifold? You got to turn that thing off!</td></tr>
 
-  T'POL
-     In a manner of speaking. I once participated in
-     the kahswan ritual. I was taken to the desert and
-     left to survive for ten days.
+<tr id="L227"><td><a href="#L227">227</a></td><td>TAGRIM:  I apologise, Commander. We should've spoken with you first.</td></tr>
 
-  ARCHER
-     Sounds fun. You haven't left the command area much
-     today. You might want to wander around, get to
-     know the crew.
+<tr id="L228"><td><a href="#L228">228</a></td><td>TUCKER:  That might've been a good idea.</td></tr>
 
-  T'POL
-     I'm familiar with every one of them.
+<tr id="L229"><td><a href="#L229">229</a></td><td>RENTH:  We've had trouble digesting your food.</td></tr>
 
-  ARCHER
-     There's a lot more to these people than just their
-     names. It'd be good for you to fraternise a
-     little.
+<tr id="L230"><td><a href="#L230">230</a></td><td>ARCHER [OC]:  Archer to Tucker.</td></tr>
 
-  T'POL
-     Is that an order?
+<tr id="L231"><td><a href="#L231">231</a></td><td>TUCKER:  Go ahead.</td></tr>
 
-  ARCHER
-     Does it have to be?
+<tr id="L232"><td><a href="#L232">232</a></td><td>ARCHER [OC]:  I need you in the command area right away.</td></tr>
 
-  T'POL
-     I'm not skilled at fraternising.
+<tr id="L233"><td><a href="#L233">233</a></td><td>TUCKER:  I'll be right there.</td></tr>
 
-  ARCHER
-     Here's a chance to learn.
+<tr id="L234"><td><a href="#L234">234</a></td><td>ANNOTATION: He picks up their pan loaded with - something.</td></tr>
 
-  ANNOTATION
-     Tucker, Malcolm, Hoshi and Travis are playing
-     poker.
+<tr id="L235"><td><a href="#L235">235</a></td><td>TUCKER:  I'll talk to Chef. Maybe he can heat that up for you.</td></tr>
 
-  REED
-     I'll see your strawberry shortcake, and I'll raise
-     you one pineapple cobbler.
+<tr id="L236"><td><a href="#L236">236</a></td><td>ANNOTATION: He hands it off to Reed.</td></tr>
 
-  ANNOTATION
-     Hoshi puts down her bet.
+<tr><td></td><td>LOCATION--Catwalk command area</td></tr>
+<tr id="L237"><td><a href="#L237">237</a></td><td>ARCHER:  We may have a problem in Engineering.</td></tr>
 
-  TRAVIS
-     Broccoli?
+<tr id="L238"><td><a href="#L238">238</a></td><td>T'POL:  The antimatter injectors have come online.</td></tr>
 
-  HOSHI
-     I'm out of desserts.
+<tr id="L239"><td><a href="#L239">239</a></td><td>TUCKER:  That can't be right. Probably just a glitch. Think you've got room for one more sleeping bag in here?</td></tr>
 
-  TRAVIS
-     Call.
+<tr id="L240"><td><a href="#L240">240</a></td><td>ARCHER:  Not happy with your bunk mates?</td></tr>
 
-  REED
-     Oh, what I wouldn't give for a shower right about
-     now. When this hand's over maybe you could look
-     into building one.
+<tr id="L241"><td><a href="#L241">241</a></td><td>TUCKER:  I caught them throwing a barbecue next to a plasma manifold. Now, I understand we're explorers. We're supposed to keep an open mind about different cultures, but these guys are driving me crazy. They only need to sleep once a week, so they've kept us up the last two nights with their strange rituals. Chanting, walking in circles. They've practically taken over the compartment.</td></tr>
 
-  TUCKER
-     Would you like a sauna while I'm at it?
+<tr id="L242"><td><a href="#L242">242</a></td><td>ARCHER:  Don't forget they're the ones who warned us about the storm. We owe them. Be patient.</td></tr>
 
-  REED
-     You knew we'd be stuck in here for over a week.
-     You might've given it a little thought to making
-     it tolerable.
+<tr id="L243"><td><a href="#L243">243</a></td><td>TUCKER:  I'm trying. Looks like the matter injectors and the antimatter injectors are online.</td></tr>
 
-  TUCKER
-     I only had four hours, Malcolm. You're lucky we've
-     got a toilet.
+<tr id="L244"><td><a href="#L244">244</a></td><td>ARCHER:  Two sensor glitches?</td></tr>
 
-  REED
-     Well, I obviously overestimated your people's
-     abilities when it comes to indoor plumbing.
+<tr id="L245"><td><a href="#L245">245</a></td><td>T'POL:  A power surge could've triggered both circuits.</td></tr>
 
-  TUCKER
-     You want to take a shower? Build one yourself.
+<tr id="L246"><td><a href="#L246">246</a></td><td>TUCKER:  Do you have any idea what the odds are of that happening?</td></tr>
 
-  ANNOTATION
-     A white suited figure comes by, handing out
-     prepacked hot meals, but we don't get to see his
-     face.
+<tr id="L247"><td><a href="#L247">247</a></td><td>ARCHER:  Can you shut them down?</td></tr>
 
-  TUCKER
-     Thanks, Chef.
+<tr id="L248"><td><a href="#L248">248</a></td><td>TUCKER:  Not from here. Someone's going to have to go to Engineering.</td></tr>
 
-  HOSHI
-     Thanks, Chef.
+<tr><td></td><td>LOCATION--Hatch into the rest of the ship</td></tr>
+<tr id="L249"><td><a href="#L249">249</a></td><td>ANNOTATION: Trip is in an EV suit.</td></tr>
 
-  REED
-     Pot roast? Oh, come on. That's the third time in
-     three days.
+<tr id="L250"><td><a href="#L250">250</a></td><td>PHLOX:  Remember, the suit will protect you for only twenty two minutes.</td></tr>
 
-  TRAVIS
-     Anyone know what they're showing tonight?
+<tr id="L251"><td><a href="#L251">251</a></td><td>ARCHER:  It'd be best not to take the scenic route.</td></tr>
 
-  TUCKER
-     The Day the Earth Stood Still.
+<tr id="L252"><td><a href="#L252">252</a></td><td>ANNOTATION: Tucker heads out into the darkened ship, and quickly gets to Engineering. Once there, he turns on a status monitor, them notices a piece of equipment on the floor. He checks the injectors and sees they have been tampered with. Then he hears someone else moving around and turns off his lights, along with the monitor screen he had activated. He hides and watches two figures moving around. The intruders go to the injectors and do something, so Trip sets off an alarm to distract them while he makes his escape. The aliens are not wearing space suits, by the way. Out in a corridor, three more aliens march past. They look as if they are in uniforms. Trip avoids them, then goes to a porthole and looks out. There is a ship docked alongside. He activates a monitor and calls up the Bridge security camera. There are aliens there too, who look like the visitors in the Catwalk.</td></tr>
 
-  REED
-     We're having movie night in here?
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L253"><td><a href="#L253">253</a></td><td>ANNOTATION: The person in charge is going through the crew manifest on Archer's monitor.</td></tr>
 
-  TUCKER
-     Captain's orders. I set up a monitor in
-     Compartment Five. The screen's a little small, but
+<tr id="L254"><td><a href="#L254">254</a></td><td>PALANTI:  We've searched every deck. There's no sign of the fugitives.</td></tr>
 
-  HOSHI
-     Who's picking these movies? Shouldn't we all get a
-     vote?
+<tr id="L255"><td><a href="#L255">255</a></td><td>CAPTAIN:  What about the crew?</td></tr>
 
-  TRAVIS
-     I think something's burning.
+<tr id="L256"><td><a href="#L256">256</a></td><td>PALANTI:  It appears they have deserted the ship.</td></tr>
 
-  ANNOTATION
-     Smoke is coming from the alien's area. Trip dashes
-     over and pulls open the blanket curtain to
-     discover them cooking over a stove.
+<tr id="L257"><td><a href="#L257">257</a></td><td>CAPTAIN:  These humans. They've travelled over a hundred light years from their homeworld.</td></tr>
 
-  TUCKER
-     Are you aware you're sitting on top of a plasma
-     manifold? You got to turn that thing off!
+<tr id="L258"><td><a href="#L258">258</a></td><td>ARCHER [OC]:  Captain's Starlog, February 9, 2152. The Vulcans have allowed the Mazarites to leave. Ambassador V'Lar says there's a</td></tr>
 
-  TAGRIM
-     I apologise, Commander. We should've spoken with
-     you first.
+<tr id="L259"><td><a href="#L259">259</a></td><td>CAPTAIN:  Archer and his crew must've taken refuge in a nearby system. They may intend to return. What's the status of the warp engines?</td></tr>
 
-  TUCKER
-     That might've been a good idea.
+<tr id="L260"><td><a href="#L260">260</a></td><td>PALANTI:  I'm having difficulty with the dilithium matrix.</td></tr>
 
-  RENTH
-     We've had trouble digesting your food.
+<tr id="L261"><td><a href="#L261">261</a></td><td>CAPTAIN:  Make it a priority.</td></tr>
 
-  ARCHER [OC]
-     Archer to Tucker.
+<tr id="L262"><td><a href="#L262">262</a></td><td>ANNOTATION: Palanti leaves, and he returns to the ships logs.</td></tr>
 
-  TUCKER
-     Go ahead.
+<tr id="L263"><td><a href="#L263">263</a></td><td>ARCHER [OC]:  2152. We've responded to a distress call from a vessel in the</td></tr>
 
-  ARCHER [OC]
-     I need you in the command area right away.
+<tr><td></td><td>LOCATION--Catwalk</td></tr>
+<tr id="L264"><td><a href="#L264">264</a></td><td>ANNOTATION: A crowd has gathered at the alien's area.</td></tr>
 
-  TUCKER
-     I'll be right there.
+<tr id="L265"><td><a href="#L265">265</a></td><td>PHLOX:  They're immune to radiolytic isotopes. The storm was never any threat to them.</td></tr>
 
-  ANNOTATION
-     He picks up their pan loaded with - something.
+<tr id="L266"><td><a href="#L266">266</a></td><td>TUCKER:  Funny, you didn't mention that.</td></tr>
 
-  TUCKER
-     I'll talk to Chef. Maybe he can heat that up for
-     you.
+<tr id="L267"><td><a href="#L267">267</a></td><td>TAGRIM:  We were in danger. Our ship is less durable than yours. We would've been destroyed by the storm.</td></tr>
 
-  ANNOTATION
-     He hands it off to Reed.
+<tr id="L268"><td><a href="#L268">268</a></td><td>ARCHER:  Who are they? What are they doing here?</td></tr>
 
+<tr id="L269"><td><a href="#L269">269</a></td><td>TAGRIM:  Captain, I assure you. We don't know these men.</td></tr>
 
-LOCATION--Catwalk command area
+<tr id="L270"><td><a href="#L270">270</a></td><td>ARCHER:  They just happened to find Enterprise in the middle of a class five neutronic storm? Where three members of their own species just happened to be taking refuge?</td></tr>
 
-  ARCHER
-     We may have a problem in Engineering.
+<tr id="L271"><td><a href="#L271">271</a></td><td>T'POL:  We're more than twenty light years from your homeworld. It's an unlikely coincidence.</td></tr>
 
-  T'POL
-     The antimatter injectors have come online.
+<tr id="L272"><td><a href="#L272">272</a></td><td>ARCHER:  I get the feeling they must be looking for you. Answer me!</td></tr>
 
-  TUCKER
-     That can't be right. Probably just a glitch. Think
-     you've got room for one more sleeping bag in here?
+<tr id="L273"><td><a href="#L273">273</a></td><td>GURI:  I told you we shouldn't have come here.</td></tr>
 
-  ARCHER
-     Not happy with your bunk mates?
+<tr id="L274"><td><a href="#L274">274</a></td><td>TAGRIM:  Guri.</td></tr>
 
-  TUCKER
-     I caught them throwing a barbecue next to a plasma
-     manifold. Now, I understand we're explorers. We're
-     supposed to keep an open mind about different
-     cultures, but these guys are driving me crazy.
-     They only need to sleep once a week, so they've
-     kept us up the last two nights with their strange
-     rituals. Chanting, walking in circles. They've
-     practically taken over the compartment.
+<tr id="L275"><td><a href="#L275">275</a></td><td>RENTH:  They're officers of the Takret Militia. They've been pursuing us for weeks. We thought we could evade them by hiding aboard your ship.</td></tr>
 
-  ARCHER
-     Don't forget they're the ones who warned us about
-     the storm. We owe them. Be patient.
+<tr id="L276"><td><a href="#L276">276</a></td><td>GURI:  They must've detected our vessel in your launch bay.</td></tr>
 
-  TUCKER
-     I'm trying. Looks like the matter injectors and
-     the antimatter injectors are online.
+<tr id="L277"><td><a href="#L277">277</a></td><td>ARCHER:  What do they want with you?</td></tr>
 
-  ARCHER
-     Two sensor glitches?
+<tr id="L278"><td><a href="#L278">278</a></td><td>RENTH:  We used to be members of the militia, in the lower ranks, but after a year we realised that the commanding officers were corrupt. They seize alien vessels without provocation. They murder the crews, take anything of value.</td></tr>
 
-  T'POL
-     A power surge could've triggered both circuits.
+<tr id="L279"><td><a href="#L279">279</a></td><td>GURI:  They're little more than criminals.</td></tr>
 
-  TUCKER
-     Do you have any idea what the odds are of that
-     happening?
+<tr id="L280"><td><a href="#L280">280</a></td><td>TAGRIM:  We tried to resign our commissions but they wouldn't allow it.</td></tr>
 
-  ARCHER
-     Can you shut them down?
+<tr id="L281"><td><a href="#L281">281</a></td><td>ARCHER:  You're deserters.</td></tr>
 
-  TUCKER
-     Not from here. Someone's going to have to go to
-     Engineering.
+<tr id="L282"><td><a href="#L282">282</a></td><td>TAGRIM:  We had no choice. We would've told you the truth, but we weren't sure that you would help us.</td></tr>
 
+<tr id="L283"><td><a href="#L283">283</a></td><td>RENTH:  If they find us, we'll be executed.</td></tr>
 
-LOCATION--Hatch into the rest of the ship
+<tr id="L284"><td><a href="#L284">284</a></td><td>TAGRIM:  Captain, I apologise for the difficult position that we've put you in, but I know these men. Even if they found us, I doubt they'd simply leave. They've captured vessels far less impressive than yours.</td></tr>
 
-  ANNOTATION
-     Trip is in an EV suit.
+<tr id="L285"><td><a href="#L285">285</a></td><td>REED:  They're trying to re-initialise the warp reactor, sir. It seems to me they've already decided to help themselves to Enterprise.</td></tr>
 
-  PHLOX
-     Remember, the suit will protect you for only
-     twenty two minutes.
+<tr id="L286"><td><a href="#L286">286</a></td><td>T'POL:  They obviously don't realise we're in the catwalk. If they learn we're here, it would undoubtedly endanger the crew.</td></tr>
 
-  ARCHER
-     It'd be best not to take the scenic route.
+<tr id="L287"><td><a href="#L287">287</a></td><td>TUCKER:  What're you suggesting? We just sit on our hands until they fire up the engines?</td></tr>
 
-  ANNOTATION
-     Tucker heads out into the darkened ship, and
-     quickly gets to Engineering. Once there, he turns
-     on a status monitor, them notices a piece of
-     equipment on the floor. He checks the injectors
-     and sees they have been tampered with. Then he
-     hears someone else moving around and turns off his
-     lights, along with the monitor screen he had
-     activated. He hides and watches two figures moving
-     around. The intruders go to the injectors and do
-     something, so Trip sets off an alarm to distract
-     them while he makes his escape. The aliens are not
-     wearing space suits, by the way. Out in a
-     corridor, three more aliens march past. They look
-     as if they are in uniforms. Trip avoids them, then
-     goes to a porthole and looks out. There is a ship
-     docked alongside. He activates a monitor and calls
-     up the Bridge security camera. There are aliens
-     there too, who look like the visitors in the
-     Catwalk.
+<tr id="L288"><td><a href="#L288">288</a></td><td>ARCHER:  You're assuming these three are telling the truth. They've already lied to us.</td></tr>
 
+<tr id="L289"><td><a href="#L289">289</a></td><td>TAGRIM:  We're not lying. These men are dangerous.</td></tr>
 
-LOCATION--Ready room
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L290"><td><a href="#L290">290</a></td><td>PALANTI:  Palanti to Captain.</td></tr>
 
-  ANNOTATION
-     The person in charge is going through the crew
-     manifest on Archer's monitor.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L291"><td><a href="#L291">291</a></td><td>CAPTAIN:  Yes.</td></tr>
 
-  PALANTI
-     We've searched every deck. There's no sign of the
-     fugitives.
+<tr id="L292"><td><a href="#L292">292</a></td><td>PALANTI [OC]:  The dilithium matrix is active.</td></tr>
 
-  CAPTAIN
-     What about the crew?
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L293"><td><a href="#L293">293</a></td><td>PALANTI:  We're ready to initialise the warp reactor.</td></tr>
 
-  PALANTI
-     It appears they have deserted the ship.
+<tr id="L294"><td><a href="#L294">294</a></td><td>CAPTAIN [OC]:  Stand by.</td></tr>
 
-  CAPTAIN
-     These humans. They've travelled over a hundred
-     light years from their homeworld.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L295"><td><a href="#L295">295</a></td><td>ANNOTATION: The Alien Captain is in Archer's chair.</td></tr>
 
-  ARCHER [OC]
-     Captain's Starlog, February 9, 2152. The Vulcans
-     have allowed the Mazarites to leave. Ambassador
-     V'Lar says there's a
+<tr id="L296"><td><a href="#L296">296</a></td><td>CAPTAIN:  Do we have helm control?</td></tr>
 
-  CAPTAIN
-     Archer and his crew must've taken refuge in a
-     nearby system. They may intend to return. What's
-     the status of the warp engines?
+<tr id="L297"><td><a href="#L297">297</a></td><td>CREWMAN:  The navigation relay's still not responding. I think they've been re-routed.</td></tr>
 
-  PALANTI
-     I'm having difficulty with the dilithium matrix.
+<tr id="L298"><td><a href="#L298">298</a></td><td>CAPTAIN:  How much longer?</td></tr>
 
-  CAPTAIN
-     Make it a priority.
+<tr id="L299"><td><a href="#L299">299</a></td><td>CREWMAN:  I'm not certain.</td></tr>
 
-  ANNOTATION
-     Palanti leaves, and he returns to the ships logs.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L300"><td><a href="#L300">300</a></td><td>CAPTAIN [OC]:  Bring the warp engines online and report to the Bridge.</td></tr>
 
-  ARCHER [OC]
-     2152. We've responded to a distress call from a
-     vessel in the
+<tr id="L301"><td><a href="#L301">301</a></td><td>PALANTI:  Acknowledged.</td></tr>
 
+<tr><td></td><td>LOCATION--Catwalk</td></tr>
+<tr id="L302"><td><a href="#L302">302</a></td><td>T'POL:  We may outnumber them, but we only have three EV suits.</td></tr>
 
-LOCATION--Catwalk
+<tr id="L303"><td><a href="#L303">303</a></td><td>REED:  I could take a security team and bring back more.</td></tr>
 
-  ANNOTATION
-     A crowd has gathered at the alien's area.
+<tr id="L304"><td><a href="#L304">304</a></td><td>TUCKER:  I doubt you'd get very far. The launch bay's crawling with them.</td></tr>
 
-  PHLOX
-     They're immune to radiolytic isotopes. The storm
-     was never any threat to them.
+<tr id="L305"><td><a href="#L305">305</a></td><td>ARCHER:  Even if we could get the suits, we only have twenty two minutes in the radiation. Hard to believe we could re-take the ship in that</td></tr>
 
-  TUCKER
-     Funny, you didn't mention that.
+<tr id="L306"><td><a href="#L306">306</a></td><td>ANNOTATION: the group stops and stares as they see the warp engines coming on line</td></tr>
 
-  TAGRIM
-     We were in danger. Our ship is less durable than
-     yours. We would've been destroyed by the storm.
+<tr id="L307"><td><a href="#L307">307</a></td><td>ARCHER:  How long do we have?</td></tr>
 
-  ARCHER
-     Who are they? What are they doing here?
+<tr id="L308"><td><a href="#L308">308</a></td><td>TUCKER:  It'll take a while for the warp coils to charge.</td></tr>
 
-  TAGRIM
-     Captain, I assure you. We don't know these men.
+<tr id="L309"><td><a href="#L309">309</a></td><td>ARCHER:  How long?</td></tr>
 
-  ARCHER
-     They just happened to find Enterprise in the
-     middle of a class five neutronic storm? Where
-     three members of their own species just happened
-     to be taking refuge?
+<tr id="L310"><td><a href="#L310">310</a></td><td>TUCKER:  Twenty minutes, tops.</td></tr>
 
-  T'POL
-     We're more than twenty light years from your
-     homeworld. It's an unlikely coincidence.
+<tr><td></td><td>LOCATION--Hatch into rest of ship</td></tr>
+<tr id="L311"><td><a href="#L311">311</a></td><td>ANNOTATION: Archer, Reed and T'Pol are in EV suits.</td></tr>
 
-  ARCHER
-     I get the feeling they must be looking for you.
-     Answer me!
+<tr id="L312"><td><a href="#L312">312</a></td><td>TUCKER:  Remember, junction forty two alpha.</td></tr>
 
-  GURI
-     I told you we shouldn't have come here.
+<tr id="L313"><td><a href="#L313">313</a></td><td>T'POL:  Understood.</td></tr>
 
-  TAGRIM
-     Guri.
+<tr id="L314"><td><a href="#L314">314</a></td><td>TUCKER:  Third panel, starboard side. And be careful. There's a lot of current running through those circuits. I really ought to be the one doing this, Captain. The Doc said I was only out there for thirteen minutes.</td></tr>
 
-  RENTH
-     They're officers of the Takret Militia. They've
-     been pursuing us for weeks. We thought we could
-     evade them by hiding aboard your ship.
+<tr id="L315"><td><a href="#L315">315</a></td><td>ARCHER:  Forget it, Trip. You've already been exposed.</td></tr>
 
-  GURI
-     They must've detected our vessel in your launch
-     bay.
+<tr id="L316"><td><a href="#L316">316</a></td><td>HOSHI:  I've isolated your comm. frequencies. They won't hear a thing.</td></tr>
 
-  ARCHER
-     What do they want with you?
+<tr id="L317"><td><a href="#L317">317</a></td><td>ARCHER:  Tell Travis to wait for my signal.</td></tr>
 
-  RENTH
-     We used to be members of the militia, in the lower
-     ranks, but after a year we realised that the
-     commanding officers were corrupt. They seize alien
-     vessels without provocation. They murder the
-     crews, take anything of value.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L318"><td><a href="#L318">318</a></td><td>CAPTAIN:  Any progress?</td></tr>
 
-  GURI
-     They're little more than criminals.
+<tr id="L319"><td><a href="#L319">319</a></td><td>CREWMAN:  Not yet. We could lose our ship by staying here. We should take what we can and leave.</td></tr>
 
-  TAGRIM
-     We tried to resign our commissions but they
-     wouldn't allow it.
+<tr id="L320"><td><a href="#L320">320</a></td><td>CAPTAIN:  Keep working. I want helm control.</td></tr>
 
-  ARCHER
-     You're deserters.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L321"><td><a href="#L321">321</a></td><td>ARCHER:  I'll see you back at the catwalk. Don't be late.</td></tr>
 
-  TAGRIM
-     We had no choice. We would've told you the truth,
-     but we weren't sure that you would help us.
+<tr id="L322"><td><a href="#L322">322</a></td><td>REED:  Aye, Captain.</td></tr>
 
-  RENTH
-     If they find us, we'll be executed.
+<tr id="L323"><td><a href="#L323">323</a></td><td>ANNOTATION: Archer heads off on his own to the Galley, and gets at a control panel there.</td></tr>
 
-  TAGRIM
-     Captain, I apologise for the difficult position
-     that we've put you in, but I know these men. Even
-     if they found us, I doubt they'd simply leave.
-     They've captured vessels far less impressive than
-     yours.
+<tr><td></td><td>LOCATION--Catwalk command area</td></tr>
+<tr id="L324"><td><a href="#L324">324</a></td><td>TUCKER:  T'Pol?</td></tr>
 
-  REED
-     They're trying to re-initialise the warp reactor,
-     sir. It seems to me they've already decided to
-     help themselves to Enterprise.
+<tr id="L325"><td><a href="#L325">325</a></td><td>T'POL [OC]:  We're in position.</td></tr>
 
-  T'POL
-     They obviously don't realise we're in the catwalk.
-     If they learn we're here, it would undoubtedly
-     endanger the crew.
+<tr id="L326"><td><a href="#L326">326</a></td><td>TUCKER:  All right. First, you're going to have to disrupt the antimatter stream.</td></tr>
 
-  TUCKER
-     What're you suggesting? We just sit on our hands
-     until they fire up the engines?
+<tr><td></td><td>LOCATION--Junction 42A</td></tr>
+<tr id="L327"><td><a href="#L327">327</a></td><td>ANNOTATION: An overhead panel is open.</td></tr>
 
-  ARCHER
-     You're assuming these three are telling the truth.
-     They've already lied to us.
+<tr id="L328"><td><a href="#L328">328</a></td><td>TUCKER [OC]:  Do you see the blue conduit to the left of the power transfer module?</td></tr>
 
-  TAGRIM
-     We're not lying. These men are dangerous.
+<tr id="L329"><td><a href="#L329">329</a></td><td>REED:  Go ahead.</td></tr>
 
+<tr><td></td><td>LOCATION--Catwalk command area</td></tr>
+<tr id="L330"><td><a href="#L330">330</a></td><td>TUCKER:  Start by locking down the flow regulators.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Junction 42A</td></tr>
+<tr id="L331"><td><a href="#L331">331</a></td><td>T'POL:  Stand by.</td></tr>
 
-  PALANTI
-     Palanti to Captain.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L332"><td><a href="#L332">332</a></td><td>PALANTI:  We're being hailed.</td></tr>
 
+<tr id="L333"><td><a href="#L333">333</a></td><td>CAPTAIN:  Another ship?</td></tr>
 
-LOCATION--Bridge
+<tr id="L334"><td><a href="#L334">334</a></td><td>PALANTI:  No. It's coming from within this vessel.</td></tr>
 
-  CAPTAIN
-     Yes.
+<tr id="L335"><td><a href="#L335">335</a></td><td>CAPTAIN:  Answer it.</td></tr>
 
-  PALANTI [OC]
-     The dilithium matrix is active.
+<tr id="L336"><td><a href="#L336">336</a></td><td>ARCHER [on viewscreen]:  (sounding as if he's dying) You're in my chair.</td></tr>
 
+<tr id="L337"><td><a href="#L337">337</a></td><td>CAPTAIN:  Captain Archer. I didn't realise you were still aboard. Where's the rest of your crew?</td></tr>
 
-LOCATION--Engineering
+<tr id="L338"><td><a href="#L338">338</a></td><td>ARCHER [on viewscreen]:  They're dead, killed by the storm.</td></tr>
 
-  PALANTI
-     We're ready to initialise the warp reactor.
+<tr id="L339"><td><a href="#L339">339</a></td><td>CAPTAIN:  I'm sorry.</td></tr>
 
-  CAPTAIN [OC]
-     Stand by.
+<tr id="L340"><td><a href="#L340">340</a></td><td>ARCHER [on viewscreen]:  Thanks for your condolences. Now, why don't you get the hell off my ship.</td></tr>
 
+<tr id="L341"><td><a href="#L341">341</a></td><td>CAPTAIN:  I'm afraid I can't do that. We detected a vessel in your launch bay that belongs to three fugitives.</td></tr>
 
-LOCATION--Bridge
+<tr id="L342"><td><a href="#L342">342</a></td><td>ARCHER [on viewscreen]:  I've been watching you, I know you're trying to take Enterprise. I'm not going to let you.</td></tr>
 
-  ANNOTATION
-     The Alien Captain is in Archer's chair.
+<tr id="L343"><td><a href="#L343">343</a></td><td>CAPTAIN:  You're in no position to do anything about it. I'm in command of this Bridge. Your vessel has been impounded under the authority of the Takret Militia. When we return, you'll be charged with criminal conspiracy.</td></tr>
 
-  CAPTAIN
-     Do we have helm control?
+<tr id="L344"><td><a href="#L344">344</a></td><td>ARCHER [on viewscreen]:  I don't recognise your authority. I answer to Starfleet Command, and I'm under orders to use any means necessary to keep my ship from falling into enemy hands.</td></tr>
 
-  CREWMAN
-     The navigation relay's still not responding. I
-     think they've been re-routed.
+<tr id="L345"><td><a href="#L345">345</a></td><td>CAPTAIN:  I have soldiers searching every deck. It's only a matter of time before they find you.</td></tr>
 
-  CAPTAIN
-     How much longer?
+<tr id="L346"><td><a href="#L346">346</a></td><td>ARCHER [on viewscreen]:  You're leaving me no choice. I'll destroy Enterprise.</td></tr>
 
-  CREWMAN
-     I'm not certain.
+<tr id="L347"><td><a href="#L347">347</a></td><td>CAPTAIN:  Earth's first warp five starship? Your father's engine? I've been reading about you, Captain, and I doubt very much if you'll do anything to damage this vessel.</td></tr>
 
+<tr id="L348"><td><a href="#L348">348</a></td><td>ARCHER [on viewscreen]:  You would be surprised. (ends transmission)</td></tr>
 
-LOCATION--Engineering
+<tr id="L349"><td><a href="#L349">349</a></td><td>CAPTAIN:  Can you trace his signal?</td></tr>
 
-  CAPTAIN [OC]
-     Bring the warp engines online and report to the
-     Bridge.
+<tr id="L350"><td><a href="#L350">350</a></td><td>PALANTI:  He's somewhere on the fifth deck.</td></tr>
 
-  PALANTI
-     Acknowledged.
+<tr id="L351"><td><a href="#L351">351</a></td><td>CAPTAIN:  You have men there. Alert them.</td></tr>
 
+<tr><td></td><td>LOCATION--Catwalk command area</td></tr>
+<tr id="L352"><td><a href="#L352">352</a></td><td>TUCKER:  Go ahead.</td></tr>
 
-LOCATION--Catwalk
+<tr id="L353"><td><a href="#L353">353</a></td><td>ARCHER [OC]:  (sounding very healthy) It's time to change course, Travis. Head straight for that plasma eddy.</td></tr>
 
-  T'POL
-     We may outnumber them, but we only have three EV
-     suits.
+<tr id="L354"><td><a href="#L354">354</a></td><td>TRAVIS:  It'll take a minute, sir.</td></tr>
 
-  REED
-     I could take a security team and bring back more.
+<tr id="L355"><td><a href="#L355">355</a></td><td>ARCHER [OC]:  Try and keep us in one piece. I'm on my way back. Archer out.</td></tr>
 
-  TUCKER
-     I doubt you'd get very far. The launch bay's
-     crawling with them.
+<tr id="L356"><td><a href="#L356">356</a></td><td>ANNOTATION: Archer goes back into the galley, and gets shot at. He takes cover and returns fire</td></tr>
 
-  ARCHER
-     Even if we could get the suits, we only have
-     twenty two minutes in the radiation. Hard to
-     believe we could re-take the ship in that
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L357"><td><a href="#L357">357</a></td><td>CREWMAN:  We've altered course.</td></tr>
 
-  ANNOTATION
-     the group stops and stares as they see the warp
-     engines coming on line
+<tr id="L358"><td><a href="#L358">358</a></td><td>CAPTAIN:  Where's he taking us?</td></tr>
 
-  ARCHER
-     How long do we have?
+<tr><td></td><td>LOCATION--Catwalk command area</td></tr>
+<tr id="L359"><td><a href="#L359">359</a></td><td>TUCKER:  What's the problem shutting down the reactor?</td></tr>
 
-  TUCKER
-     It'll take a while for the warp coils to charge.
+<tr><td></td><td>LOCATION--Junction 42A</td></tr>
+<tr id="L360"><td><a href="#L360">360</a></td><td>T'POL:  We're having trouble with the dilithium sequencers. It's taking longer than we expected.</td></tr>
 
-  ARCHER
-     How long?
+<tr id="L361"><td><a href="#L361">361</a></td><td>TUCKER [OC]:  I don't mean to rush you</td></tr>
 
-  TUCKER
-     Twenty minutes, tops.
+<tr><td></td><td>LOCATION--Catwalk command area</td></tr>
+<tr id="L362"><td><a href="#L362">362</a></td><td>TUCKER:  But it's getting pretty warm in here.</td></tr>
 
+<tr id="L363"><td><a href="#L363">363</a></td><td>ANNOTATION: Archer's shooting match continues, and he gets one of the two soldiers.</td></tr>
 
-LOCATION--Hatch into rest of ship
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L364"><td><a href="#L364">364</a></td><td>CREWMAN:  He's steering us toward a plasma eddy.</td></tr>
 
-  ANNOTATION
-     Archer, Reed and T'Pol are in EV suits.
+<tr id="L365"><td><a href="#L365">365</a></td><td>CAPTAIN:  How long?</td></tr>
 
-  TUCKER
-     Remember, junction forty two alpha.
+<tr id="L366"><td><a href="#L366">366</a></td><td>CREWMAN:  Less than eight minutes.</td></tr>
 
-  T'POL
-     Understood.
+<tr id="L367"><td><a href="#L367">367</a></td><td>CAPTAIN:  Get me helm control!</td></tr>
 
-  TUCKER
-     Third panel, starboard side. And be careful.
-     There's a lot of current running through those
-     circuits. I really ought to be the one doing this,
-     Captain. The Doc said I was only out there for
-     thirteen minutes.
+<tr id="L368"><td><a href="#L368">368</a></td><td>PALANTI:  It'll take me much longer than that. We should evacuate.</td></tr>
 
-  ARCHER
-     Forget it, Trip. You've already been exposed.
+<tr id="L369"><td><a href="#L369">369</a></td><td>CAPTAIN:  No!</td></tr>
 
-  HOSHI
-     I've isolated your comm. frequencies. They won't
-     hear a thing.
+<tr id="L370"><td><a href="#L370">370</a></td><td>PALANTI:  You heard what he said. He's willing to destroy his own ship.</td></tr>
 
-  ARCHER
-     Tell Travis to wait for my signal.
+<tr><td></td><td>LOCATION--Catwalk command area</td></tr>
+<tr id="L371"><td><a href="#L371">371</a></td><td>TUCKER:  The temperature just went up another six degrees. Sub-Commander, how's it coming?</td></tr>
 
+<tr id="L372"><td><a href="#L372">372</a></td><td>T'POL:  We're disabling</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Junction 42A</td></tr>
+<tr id="L373"><td><a href="#L373">373</a></td><td>T'POL:  The final sequencer.</td></tr>
 
-  CAPTAIN
-     Any progress?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L374"><td><a href="#L374">374</a></td><td>CREWMAN:  The warp reactor has shut down.</td></tr>
 
-  CREWMAN
-     Not yet. We could lose our ship by staying here.
-     We should take what we can and leave.
+<tr id="L375"><td><a href="#L375">375</a></td><td>PALANTI:  Spatial disturbance. We're four minutes from the eddy.</td></tr>
 
-  CAPTAIN
-     Keep working. I want helm control.
+<tr id="L376"><td><a href="#L376">376</a></td><td>ANNOTATION: Everybody is hanging on in the turbulence as loose objects fall from shelves.</td></tr>
 
+<tr id="L377"><td><a href="#L377">377</a></td><td>PALANTI:  Unless you've found a way to turn this ship around I strongly suggest we abort the mission.</td></tr>
 
-LOCATION--Corridor
+<tr id="L378"><td><a href="#L378">378</a></td><td>CREWMAN:  Three minutes.</td></tr>
 
-  ARCHER
-     I'll see you back at the catwalk. Don't be late.
+<tr id="L379"><td><a href="#L379">379</a></td><td>CAPTAIN:  Soldiers, report to the docking hatch immediately. I repeat, report to the docking hatch!</td></tr>
 
-  REED
-     Aye, Captain.
+<tr id="L380"><td><a href="#L380">380</a></td><td>ANNOTATION: In the galley, the two pick up their fallen colleague and make their exi.t</td></tr>
 
-  ANNOTATION
-     Archer heads off on his own to the Galley, and
-     gets at a control panel there.
+<tr><td></td><td>LOCATION--Catwalk command area</td></tr>
+<tr id="L381"><td><a href="#L381">381</a></td><td>T'POL:  Report.</td></tr>
 
+<tr id="L382"><td><a href="#L382">382</a></td><td>TRAVIS:  We're too close to the eddy. We've got to veer off.</td></tr>
 
-LOCATION--Catwalk command area
+<tr id="L383"><td><a href="#L383">383</a></td><td>T'POL:  Maintain your course.</td></tr>
 
-  TUCKER
-     T'Pol?
+<tr id="L384"><td><a href="#L384">384</a></td><td>ANNOTATION: The militia ship undocks and flies away.</td></tr>
 
-  T'POL [OC]
-     We're in position.
+<tr id="L385"><td><a href="#L385">385</a></td><td>TUCKER:  Another one like that'll split us in two.</td></tr>
 
-  TUCKER
-     All right. First, you're going to have to disrupt
-     the antimatter stream.
+<tr id="L386"><td><a href="#L386">386</a></td><td>T'POL:  They could still be on board.</td></tr>
 
+<tr id="L387"><td><a href="#L387">387</a></td><td>TRAVIS:  We've got no choice.</td></tr>
 
-LOCATION--Junction 42A
+<tr id="L388"><td><a href="#L388">388</a></td><td>T'POL:  Maintain your course. That's an order. (comm. beep) Go ahead.</td></tr>
 
-  ANNOTATION
-     An overhead panel is open.
+<tr id="L389"><td><a href="#L389">389</a></td><td>ARCHER [OC]:  Travis, I hope you're not still heading for that eddy. Our friends are gone.</td></tr>
 
-  TUCKER [OC]
-     Do you see the blue conduit to the left of the
-     power transfer module?
+<tr id="L390"><td><a href="#L390">390</a></td><td>T'POL:  Ensign.</td></tr>
 
-  REED
-     Go ahead.
+<tr id="L391"><td><a href="#L391">391</a></td><td>ANNOTATION: Enterprise veers off into calmer space.</td></tr>
 
+<tr id="L392"><td><a href="#L392">392</a></td><td>SOMEONE: Captain's Starlog, supplemental. We seem to have passed through the worst part of the storm, but it'll still be a while before we can leave the catwalk. The crew's in relatively good spirits, considering they haven't had a change of uniform in eight days.</td></tr>
 
-LOCATION--Catwalk command area
+<tr><td></td><td>LOCATION--Catwalk</td></tr>
+<tr id="L393"><td><a href="#L393">393</a></td><td>ANNOTATION: Movie night is a Western.</td></tr>
 
-  TUCKER
-     Start by locking down the flow regulators.
+<tr id="L394"><td><a href="#L394">394</a></td><td>TUCKER:  Did that guy shoot one of his own men?</td></tr>
 
+<tr id="L395"><td><a href="#L395">395</a></td><td>REED:  It's hard to tell them apart in those ridiculous hats.</td></tr>
 
-LOCATION--Junction 42A
+<tr id="L396"><td><a href="#L396">396</a></td><td>T'POL:  The dead man was secretly working for Sheriff Boggs.</td></tr>
 
-  T'POL
-     Stand by.
+<tr id="L397"><td><a href="#L397">397</a></td><td>TUCKER:  How do you know that?</td></tr>
 
+<tr id="L398"><td><a href="#L398">398</a></td><td>T'POL:  Isn't it obvious?</td></tr>
 
-LOCATION--Bridge
+<tr id="L399"><td><a href="#L399">399</a></td><td>ARCHER [OC]:  All hands, this is the Captain. Thanks to some fine piloting by Travis Mayweather, we're going to be moving out of the storm a little earlier than expected. We should be clear in a few minutes.</td></tr>
 
-  PALANTI
-     We're being hailed.
+<tr id="L400"><td><a href="#L400">400</a></td><td>ANNOTATION: A round of applause and the house lights come up.</td></tr>
 
-  CAPTAIN
-     Another ship?
+<tr id="L401"><td><a href="#L401">401</a></td><td>TUCKER:  Glad you could join us, Sub-Commander. We have movie night every Tuesday, if you're interested.</td></tr>
 
-  PALANTI
-     No. It's coming from within this vessel.
+<tr id="L402"><td><a href="#L402">402</a></td><td>ANNOTATION: The ship sails out into black, star-speckled space and the crew return to their own quarters again.</td></tr>
 
-  CAPTAIN
-     Answer it.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L403"><td><a href="#L403">403</a></td><td>TAGRIM:  I apologise for the trouble we've caused.</td></tr>
 
-  ARCHER [on viewscreen]
-     (sounding as if he's dying) You're in my chair.
+<tr id="L404"><td><a href="#L404">404</a></td><td>ARCHER:  Where're you headed next?</td></tr>
 
-  CAPTAIN
-     Captain Archer. I didn't realise you were still
-     aboard. Where's the rest of your crew?
+<tr id="L405"><td><a href="#L405">405</a></td><td>TAGRIM:  The Gyrannan System. We should be safe there.</td></tr>
 
-  ARCHER [on viewscreen]
-     They're dead, killed by the storm.
+<tr id="L406"><td><a href="#L406">406</a></td><td>ARCHER:  Good luck.</td></tr>
 
-  CAPTAIN
-     I'm sorry.
+<tr id="L407"><td><a href="#L407">407</a></td><td>T'POL:  That's everyone.</td></tr>
 
-  ARCHER [on viewscreen]
-     Thanks for your condolences. Now, why don't you
-     get the hell off my ship.
-
-  CAPTAIN
-     I'm afraid I can't do that. We detected a vessel
-     in your launch bay that belongs to three
-     fugitives.
-
-  ARCHER [on viewscreen]
-     I've been watching you, I know you're trying to
-     take Enterprise. I'm not going to let you.
-
-  CAPTAIN
-     You're in no position to do anything about it. I'm
-     in command of this Bridge. Your vessel has been
-     impounded under the authority of the Takret
-     Militia. When we return, you'll be charged with
-     criminal conspiracy.
-
-  ARCHER [on viewscreen]
-     I don't recognise your authority. I answer to
-     Starfleet Command, and I'm under orders to use any
-     means necessary to keep my ship from falling into
-     enemy hands.
-
-  CAPTAIN
-     I have soldiers searching every deck. It's only a
-     matter of time before they find you.
-
-  ARCHER [on viewscreen]
-     You're leaving me no choice. I'll destroy
-     Enterprise.
-
-  CAPTAIN
-     Earth's first warp five starship? Your father's
-     engine? I've been reading about you, Captain, and
-     I doubt very much if you'll do anything to damage
-     this vessel.
-
-  ARCHER [on viewscreen]
-     You would be surprised. (ends transmission)
-
-  CAPTAIN
-     Can you trace his signal?
-
-  PALANTI
-     He's somewhere on the fifth deck.
-
-  CAPTAIN
-     You have men there. Alert them.
-
-
-LOCATION--Catwalk command area
-
-  TUCKER
-     Go ahead.
-
-  ARCHER [OC]
-     (sounding very healthy) It's time to change
-     course, Travis. Head straight for that plasma
-     eddy.
-
-  TRAVIS
-     It'll take a minute, sir.
-
-  ARCHER [OC]
-     Try and keep us in one piece. I'm on my way back.
-     Archer out.
-
-  ANNOTATION
-     Archer goes back into the galley, and gets shot
-     at. He takes cover and returns fire
-
-
-LOCATION--Bridge
-
-  CREWMAN
-     We've altered course.
-
-  CAPTAIN
-     Where's he taking us?
-
-
-LOCATION--Catwalk command area
-
-  TUCKER
-     What's the problem shutting down the reactor?
-
-
-LOCATION--Junction 42A
-
-  T'POL
-     We're having trouble with the dilithium
-     sequencers. It's taking longer than we expected.
-
-  TUCKER [OC]
-     I don't mean to rush you
-
-
-LOCATION--Catwalk command area
-
-  TUCKER
-     But it's getting pretty warm in here.
-
-  ANNOTATION
-     Archer's shooting match continues, and he gets one
-     of the two soldiers.
-
-
-LOCATION--Bridge
-
-  CREWMAN
-     He's steering us toward a plasma eddy.
-
-  CAPTAIN
-     How long?
-
-  CREWMAN
-     Less than eight minutes.
-
-  CAPTAIN
-     Get me helm control!
-
-  PALANTI
-     It'll take me much longer than that. We should
-     evacuate.
-
-  CAPTAIN
-     No!
-
-  PALANTI
-     You heard what he said. He's willing to destroy
-     his own ship.
-
-
-LOCATION--Catwalk command area
-
-  TUCKER
-     The temperature just went up another six degrees.
-     Sub-Commander, how's it coming?
-
-  T'POL
-     We're disabling
-
-
-LOCATION--Junction 42A
-
-  T'POL
-     The final sequencer.
-
-
-LOCATION--Bridge
-
-  CREWMAN
-     The warp reactor has shut down.
-
-  PALANTI
-     Spatial disturbance. We're four minutes from the
-     eddy.
-
-  ANNOTATION
-     Everybody is hanging on in the turbulence as loose
-     objects fall from shelves.
-
-  PALANTI
-     Unless you've found a way to turn this ship around
-     I strongly suggest we abort the mission.
-
-  CREWMAN
-     Three minutes.
-
-  CAPTAIN
-     Soldiers, report to the docking hatch immediately.
-     I repeat, report to the docking hatch!
-
-  ANNOTATION
-     In the galley, the two pick up their fallen
-     colleague and make their exi.t
-
-
-LOCATION--Catwalk command area
-
-  T'POL
-     Report.
-
-  TRAVIS
-     We're too close to the eddy. We've got to veer
-     off.
-
-  T'POL
-     Maintain your course.
-
-  ANNOTATION
-     The militia ship undocks and flies away.
-
-  TUCKER
-     Another one like that'll split us in two.
-
-  T'POL
-     They could still be on board.
-
-  TRAVIS
-     We've got no choice.
-
-  T'POL
-     Maintain your course. That's an order. (comm.
-     beep) Go ahead.
-
-  ARCHER [OC]
-     Travis, I hope you're not still heading for that
-     eddy. Our friends are gone.
-
-  T'POL
-     Ensign.
-
-  ANNOTATION
-     Enterprise veers off into calmer space.
-
-  SOMEONE
-     Captain's Starlog, supplemental. We seem to have
-     passed through the worst part of the storm, but
-     it'll still be a while before we can leave the
-     catwalk. The crew's in relatively good spirits,
-     considering they haven't had a change of uniform
-     in eight days.
-
-
-LOCATION--Catwalk
-
-  ANNOTATION
-     Movie night is a Western.
-
-  TUCKER
-     Did that guy shoot one of his own men?
-
-  REED
-     It's hard to tell them apart in those ridiculous
-     hats.
-
-  T'POL
-     The dead man was secretly working for Sheriff
-     Boggs.
-
-  TUCKER
-     How do you know that?
-
-  T'POL
-     Isn't it obvious?
-
-  ARCHER [OC]
-     All hands, this is the Captain. Thanks to some
-     fine piloting by Travis Mayweather, we're going to
-     be moving out of the storm a little earlier than
-     expected. We should be clear in a few minutes.
-
-  ANNOTATION
-     A round of applause and the house lights come up.
-
-  TUCKER
-     Glad you could join us, Sub-Commander. We have
-     movie night every Tuesday, if you're interested.
-
-  ANNOTATION
-     The ship sails out into black, star-speckled space
-     and the crew return to their own quarters again.
-
-
-LOCATION--Corridor
-
-  TAGRIM
-     I apologise for the trouble we've caused.
-
-  ARCHER
-     Where're you headed next?
-
-  TAGRIM
-     The Gyrannan System. We should be safe there.
-
-  ARCHER
-     Good luck.
-
-  T'POL
-     That's everyone.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

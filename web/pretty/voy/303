@@ -1,1846 +1,921 @@
-The Swarm
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Swarm</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Shuttlecraft</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>TORRES:  We've been out here almost 5 hours and we haven't seen any sign of those energy signatures. Isn't it time to admit they were nothing more than galactic background noise?</td></tr>
 
-LOCATION--Shuttlecraft
+<tr id="L2"><td><a href="#L2">2</a></td><td>PARIS:  I want to keep looking a while longer, just to be sure.</td></tr>
 
-  TORRES
-     We've been out here almost 5 hours and we haven't
-     seen any sign of those energy signatures. Isn't it
-     time to admit they were nothing more than galactic
-     background noise?
+<tr id="L3"><td><a href="#L3">3</a></td><td>TORRES:  Ah!</td></tr>
 
-  PARIS
-     I want to keep looking a while longer, just to be
-     sure.
+<tr id="L4"><td><a href="#L4">4</a></td><td>PARIS:  What's wrong?</td></tr>
 
-  TORRES
-     Ah!
+<tr id="L5"><td><a href="#L5">5</a></td><td>TORRES:  Cramp. Klingon bodies weren't meant to sit in a cockpit for five hours at a stretch.</td></tr>
 
-  PARIS
-     What's wrong?
+<tr id="L6"><td><a href="#L6">6</a></td><td>PARIS:  You have a big dinner date or something?</td></tr>
 
-  TORRES
-     Cramp. Klingon bodies weren't meant to sit in a
-     cockpit for five hours at a stretch.
+<tr id="L7"><td><a href="#L7">7</a></td><td>TORRES:  What's that supposed to mean?</td></tr>
 
-  PARIS
-     You have a big dinner date or something?
+<tr id="L8"><td><a href="#L8">8</a></td><td>PARIS:  Well, you've been angling to get back to Voyager for about two hours now. Just thought maybe there was a reason? Like Ensign Bristow.</td></tr>
 
-  TORRES
-     What's that supposed to mean?
+<tr id="L9"><td><a href="#L9">9</a></td><td>TORRES:  What?</td></tr>
 
-  PARIS
-     Well, you've been angling to get back to Voyager
-     for about two hours now. Just thought maybe there
-     was a reason? Like Ensign Bristow.
+<tr id="L10"><td><a href="#L10">10</a></td><td>PARIS:  Oh, I've noticed he's been making any excuse to hang around engineering. Around you.</td></tr>
 
-  TORRES
-     What?
+<tr id="L11"><td><a href="#L11">11</a></td><td>TORRES:  Freddie Bristow is a child.</td></tr>
 
-  PARIS
-     Oh, I've noticed he's been making any excuse to
-     hang around engineering. Around you.
+<tr id="L12"><td><a href="#L12">12</a></td><td>PARIS:  Oh, really. He looks like a grown up to me. Tall, good-looking and I hear he plays a mean set of Pareses Squares.</td></tr>
 
-  TORRES
-     Freddie Bristow is a child.
+<tr id="L13"><td><a href="#L13">13</a></td><td>TORRES:  I played one game with him, and I whipped him. Look, he has a crush on me. I can handle it. Why are you so interested?</td></tr>
 
-  PARIS
-     Oh, really. He looks like a grown up to me. Tall,
-     good-looking and I hear he plays a mean set of
-     Pareses Squares.
+<tr id="L14"><td><a href="#L14">14</a></td><td>PARIS:  I'm just curious how someone with Klingon blood seems to live the life of a tabern monk.</td></tr>
 
-  TORRES
-     I played one game with him, and I whipped him.
-     Look, he has a crush on me. I can handle it. Why
-     are you so interested?
+<tr id="L15"><td><a href="#L15">15</a></td><td>TORRES:  Lieutenant, that is none of your business.</td></tr>
 
-  PARIS
-     I'm just curious how someone with Klingon blood
-     seems to live the life of a tabern monk.
+<tr id="L16"><td><a href="#L16">16</a></td><td>PARIS:  Well, if you ever have a free evening, I have a holodeck programme you might enjoy. Sailing on Lake Como?</td></tr>
 
-  TORRES
-     Lieutenant, that is none of your business.
+<tr id="L17"><td><a href="#L17">17</a></td><td>TORRES:  I'd rather take my chances with Freddie Bristow. Those energy signatures are back.</td></tr>
 
-  PARIS
-     Well, if you ever have a free evening, I have a
-     holodeck programme you might enjoy. Sailing on
-     Lake Como?
+<tr id="L18"><td><a href="#L18">18</a></td><td>PARIS:  We must have crossed into a tachyon field.</td></tr>
 
-  TORRES
-     I'd rather take my chances with Freddie Bristow.
-     Those energy signatures are back.
+<tr id="L19"><td><a href="#L19">19</a></td><td>TORRES:  What's that?</td></tr>
 
-  PARIS
-     We must have crossed into a tachyon field.
+<tr id="L20"><td><a href="#L20">20</a></td><td>PARIS:  A ship has locked onto our hull.</td></tr>
 
-  TORRES
-     What's that?
+<tr id="L21"><td><a href="#L21">21</a></td><td>TORRES:  Why didn't we detect it?</td></tr>
 
-  PARIS
-     A ship has locked onto our hull.
+<tr id="L22"><td><a href="#L22">22</a></td><td>PARIS:  The tachyon field must have disrupted our sensors. I'm Lieutenant Tom Paris.</td></tr>
 
-  TORRES
-     Why didn't we detect it?
+<tr><td></td><td>LOCATION--Holodeck - Parisian cafe, 1830s</td></tr>
+<tr id="L23"><td><a href="#L23">23</a></td><td>EMH:  O soave fanciulla, O dolce viso di mite circonfuso alba lunar, in te ravviso il sogno ch'io vorrei sempre sognar!</td></tr>
 
-  PARIS
-     The tachyon field must have disrupted our sensors.
-     I'm Lieutenant Tom Paris.
+<tr id="L24"><td><a href="#L24">24</a></td><td>DIVA:  Ah, tu sol comandi, amor</td></tr>
 
+<tr id="L25"><td><a href="#L25">25</a></td><td>EMH:  Computer, pause playback. Excuse me but your entrance was early. You're rushing the tempo.</td></tr>
 
-LOCATION--Holodeck - Parisian cafe, 1830s
+<tr id="L26"><td><a href="#L26">26</a></td><td>DIVA:  I am not rushing, you are lagging behind like a tired donkey.</td></tr>
 
-  EMH
-     O soave fanciulla, O dolce viso di mite circonfuso
-     alba lunar, in te ravviso il sogno ch'io vorrei
-     sempre sognar!
+<tr id="L27"><td><a href="#L27">27</a></td><td>EMH:  I assure you I have studied the finest recordings of this opera. Caruso and Galli-Curci, Pavarotti and Freni, Sural and T'Pena of Vulcan. My tempo is accurate.</td></tr>
 
-  DIVA
-     Ah, tu sol comandi, amor
+<tr id="L28"><td><a href="#L28">28</a></td><td>DIVA:  Galli-Curci, Freni, T'Pena. They're all fallite, mere dust balls. Solo niente, they are nothing. Giuseppina Pantangeli, the greatest soprano living of the 22nd century transcends them all, and conductors take their tempi from me! Capite?</td></tr>
 
-  EMH
-     Computer, pause playback. Excuse me but your
-     entrance was early. You're rushing the tempo.
-
-  DIVA
-     I am not rushing, you are lagging behind like a
-     tired donkey.
-
-  EMH
-     I assure you I have studied the finest recordings
-     of this opera. Caruso and Galli-Curci, Pavarotti
-     and Freni, Sural and T'Pena of Vulcan. My tempo is
-     accurate.
+<tr id="L29"><td><a href="#L29">29</a></td><td>EMH:  In this instance they take it from me. I've programmed the orchestral playback.</td></tr>
 
-  DIVA
-     Galli-Curci, Freni, T'Pena. They're all fallite,
-     mere dust balls. Solo niente, they are nothing.
-     Giuseppina Pantangeli, the greatest soprano living
-     of the 22nd century transcends them all, and
-     conductors take their tempi from me! Capite?
+<tr id="L30"><td><a href="#L30">30</a></td><td>DIVA:  Who allows you to make this choice? You are an amateur, you have no sense of rubato, no rallentando. It's like singing with a computer!</td></tr>
 
-  EMH
-     In this instance they take it from me. I've
-     programmed the orchestral playback.
+<tr id="L31"><td><a href="#L31">31</a></td><td>EMH:  Madam, I may be an amateur, but I'm also known as a quick study, and as I am in charge of this programme you will do it my way! Shall we try it again. Computer, start playback. O soave fanciulla, O... Stop playback.</td></tr>
 
-  DIVA
-     Who allows you to make this choice? You are an
-     amateur, you have no sense of rubato, no
-     rallentando. It's like singing with a computer!
+<tr id="L32"><td><a href="#L32">32</a></td><td>DIVA:  What now? No e possibile.</td></tr>
 
-  EMH
-     Madam, I may be an amateur, but I'm also known as
-     a quick study, and as I am in charge of this
-     programme you will do it my way! Shall we try it
-     again. Computer, start playback. O soave
-     fanciulla, O... Stop playback.
+<tr id="L33"><td><a href="#L33">33</a></td><td>EMH:  I couldn't remember the words.</td></tr>
 
-  DIVA
-     What now? No e possibile.
+<tr id="L34"><td><a href="#L34">34</a></td><td>DIVA:  In all of my career I have never forgotten the lyrics. This is the difference between amateur and professionale.</td></tr>
 
-  EMH
-     I couldn't remember the words.
+<tr id="L35"><td><a href="#L35">35</a></td><td>EMH:  Just a momentary lapse, no need to over-react.</td></tr>
 
-  DIVA
-     In all of my career I have never forgotten the
-     lyrics. This is the difference between amateur and
-     professionale.
+<tr id="L36"><td><a href="#L36">36</a></td><td>DIVA:  You cretino non esistete. This is infuriating! I want another partner! I  I volo no subito.</td></tr>
 
-  EMH
-     Just a momentary lapse, no need to over-react.
+<tr id="L37"><td><a href="#L37">37</a></td><td>EMH:  I'm the one who needs another partner! You've got me so upset I can't sing. Computer, delete</td></tr>
 
-  DIVA
-     You cretino non esistete. This is infuriating! I
-     want another partner! I I volo no subito.
+<tr id="L38"><td><a href="#L38">38</a></td><td>JANEWAY [OC]:  Janeway to the Doctor. We have a medical emergency. Report to sickbay.</td></tr>
 
-  EMH
-     I'm the one who needs another partner! You've got
-     me so upset I can't sing. Computer, delete
+<tr id="L39"><td><a href="#L39">39</a></td><td>EMH:  Right away, Captain. A dio, madam. Next time I'll take my chances with Maria Callas. Computer, delete the diva.</td></tr>
 
-  JANEWAY [OC]
-     Janeway to the Doctor. We have a medical
-     emergency. Report to sickbay.
+<tr id="L40"><td><a href="#L40">40</a></td><td>DIVA:  Imbecille. Pensale la men..</td></tr>
 
-  EMH
-     Right away, Captain. A dio, madam. Next time I'll
-     take my chances with Maria Callas. Computer,
-     delete the diva.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L41"><td><a href="#L41">41</a></td><td>EMH:  Their nervous system suffered trauma from some type of neuro-electric weapon. It must have been extremely painful.</td></tr>
 
-  DIVA
-     Imbecille. Pensale la men..
-
-
-LOCATION--Sickbay
+<tr id="L42"><td><a href="#L42">42</a></td><td>TORRES:  It certainly was.</td></tr>
 
-  EMH
-     Their nervous system suffered trauma from some
-     type of neuro-electric weapon. It must have been
-     extremely painful.
-
-  TORRES
-     It certainly was.
-
-  JANEWAY
-     Do you know why they attacked you?
-
-  TORRES
-     No idea. They seemed to be trying to communicate
-     with us but we couldn't understand them and then
-     they just lifted their weapons.
-
-  EMH
-     The injuries are treatable. It shouldn't take
-     long.
-
-  JANEWAY
-     Tuvok, send a message on all subspace bands. I
-     want to find out why my people were attacked.
-
-  TUVOK
-     Aye Captain.
-
-  JANEWAY
-     I'll ask Neelix if he knows anything about these
-     people. Doctor, keep me posted.
-
-  EMH
-     It would help if you didn't fidget so much.
-
-  TORRES
-     I'm really feeling better. Can't I get out of
-     here?
-
-  EMH
-     When you're ready to leave I will tell you.
-
-  KES
-     Doctor, Tom doesn't seem to be responding to the
-     treatment.
-
-  EMH
-     I'll look at him. Where's my retinal imager?
-
-  KES
-     I haven't seen it.
-
-  EMH
-     Did you move it from the instrument tray?
-
-  KES
-     I haven't been near the instrument tray.
-
-  EMH
-     I've just had the most unpleasant encounter with a
-     mad woman on the holodeck. She must have upset me
-     more than I realised. Lieutenant, you're perfectly
-     all right. What are you still doing here?
-
-  TORRES
-     Thank you.
-
-  KES
-     I think he must have suffered some very deep
-     tissue damage. The regenerator isn't helping.
-     Doctor?
-
-
-LOCATION--Briefing Room
-
-  TUVOK
-     I've made numerous hails on wideband subspace. The
-     only response has been a single repeating message.
-
-  CHAKOTAY
-     What's that?
-
-  JANEWAY
-     I'd guess it's a language so unlike ours that the
-     universal translator can't interpret it. Harry,
-     remodulate the translator, see if we can decipher
-     those sounds. Neelix, what can you tell us?
-
-  NEELIX
-     If these people are who I think they are, I can
-     tell you this is very bad news. I've never
-     actually encountered them but from what I've heard
-     I'm glad I didn't. Most ships that enter their
-     space are never heard from again. Some have
-     returned with everyone on board dead. They're a
-     complete mystery. No one knows their name, how
-     many of them there are, what the culture is like.
-     Just that they really don't want people violating
-     their territory.
-
-  KIM
-     If this is any indication of their borders, it's a
-     huge area of space, hundreds of sectors. If we
-     were to go around it it would take months.
-
-  CHAKOTAY
-     I'd say over fifteen months even if we could
-     sustain maximum warp, which we can't.
-
-  JANEWAY
-     I'm not going to tell this crew we're adding
-     another fifteen months to this journey. We'll have
-     to find another option.
-
-  TUVOK
-     If we are not to go around their space the only
-     available option is to go through it.
-
-  JANEWAY
-     Precisely.
-
-  KIM
-     Tom and B'Elanna hit a sensor net as they crossed
-     the border. We have to figure we'll run into it
-     when we try to cross. But there are ways around
-     sensor nets.
-
-  CHAKOTAY
-     They can't possibly have enough ships to patrol a
-     border this size. We could probably find an
-     unguarded section.
-
-  TUVOK
-     Would it affect your decision if I pointed out
-     that encroaching on the territory of an alien
-     species is prohibited by starfleet regulations?
-
-  JANEWAY
-     No, it wouldn't.
-
-  TUVOK
-     Captain, you have managed to surprise me.
-
-  JANEWAY
-     We're a long way from starfleet, Lieutenant. I'm
-     not about to waste 15 months because we've run
-     into a bunch of bullies.
-
-  EMH [OC]
-     Sickbay to Captain Janeway.
-
-  JANEWAY
-     Go ahead, Doctor.
-
-  EMH [OC]
-     Please turn to your emergency medical holographic
-     channel. [on monitor] I'm afraid LieutenantParis
-     suffered greater neurological damage than my
-     initial scan revealed. I'm going to have to
-     perform a motor cortex reconstruction. There's no
-     need to be overly concerned. His condition is not
-     life-threatening. The procedure is a relatively
-     simple one for a skilled physician.
-
-  JANEWAY
-     Very good, Doctor. Keep me informed. All right, I
-     want a plan for crossing that border as quickly
-     and as quietly as possible. We'll reconvene in an
-     hour. Dismissed.
-
-
-LOCATION--Sickbay
-
-  EMH
-     O soave fanciulla, o dolce viso di mite circonfuso
-     alba lunar.
-
-  KES
-     Doctor, I have the cortical analeptics you asked
-     for.
-
-  EMH
-     Good. Fill the hyposprays, we'll begin as soon as
-     I've finished scrubbing.
-
-  KES
-     Did I hear you singing?
-
-  EMH
-     Yes. 'O soave fanciulla'. It's an aria from La
-     Boheme, a truly exquisite opera by Giacomo
-     Puccini, a human composer of the nineteenth
-     century.
-
-  KES
-     I didn't realise you enjoyed music.
-
-  EMH
-     I've recently begun a thorough study of opera. I
-     find it quite satisfying, but I am having
-     difficulty finding a holographic partner for the
-     role of Mimi. All the soprani seem to have the
-     most irritating personalities. These women are
-     arrogant, superior, condescending. I can't imagine
-     anyone behaving that way.
-
-  KES
-     What is it?
-
-  EMH
-     A quiz for you. What is the first step in this
-     procedure?
-
-  KES
-     Establish the axon connections and then test for
-     synaptic potentials.
-
-  EMH
-     Ah, quite right. Very good.
-
-  KES
-     Doctor, what is it?
-
-  EMH
-     We seem to have a small problem. I can't remember
-     how to perform this operation.
-
-  EMH
-     All right. I've repaired the damaged
-     pre-ganglionic fibres in the spinal column.
-
-  KES
-     The final step is to restore the nerve sheath.
-     You'll need the myelin regenerator.
-
-  EMH
-     What is it?
-
-  KES
-     He's going into respiratory arrest!
-
-  EMH
-     What do I do?
-
-  KES
-     Apply an ethorin pulse to stabilise his motor
-     neurons.
-
-  EMH
-     Apply a what?
-
-  KES
-     Vital signs are returning to normal. There, myelin
-     regeneration is complete. What's the synaptic
-     potential reading?
-
-  EMH
-     Synaptic potentials are normal. Autonomic
-     enzymatic systems are functioning.
-
-  KES
-     Very good, Doctor, I think you've done it.
-
-  TORRES
-     The EMH database seems to be experiencing a
-     cascading overload of some kind. Doc's memory
-     circuits are deteriorating.
-
-  JANEWAY
-     We knew the Doctor was never designed to be up and
-     running as much as he has been, but I thought you
-     programmed safety buffers so his circuits wouldn't
-     degrade?
-
-  TORRES
-     I did, and I installed them, but they're breaking
-     down.
-
-  EMH
-     My self diagnostic routines have always indicated
-     that in the event of cascade failure I should
-     simply be re-initialised.
-
-  TORRES
-     That would stop the cascade and allow us to reset
-     your database and personality sub-routines, but
-
-  KES
-     But what?
-
-  TORRES
-     It would restore the original programme. Reset him
-     to the person he was when we first activated him.
-
-  JANEWAY
-     In other words, he'd forget everything that's
-     happened to him over the past two years.
-
-  TORRES
-     Right.
-
-  JANEWAY
-     Doctor, how do you feel about that?
-
-  EMH
-     I can't say I'd like to lose the last two years,
-     but my primary responsibility is the health and
-     welfare of this crew. In my current state I am
-     useless to them. I believe Lieutenant Torres
-     should start the re-initialisation process
-     immediately.
-
-  KES
-     No, wait. Wait, please. We can't just treat the
-     Doctor like he's a computer any more. He's come
-     too far for that. Doctor, please, think about
-     this. You'd be losing so much. Relationships
-     you've developed, our friendship, your sense of
-     being a true member of his crew. All that would be
-     gone.
-
-  EMH
-     I can't put personal concerns over that of the
-     crew.
-
-  KES
-     Look at the experiences you've had since you were
-     activated. You've made friends, learnt how to sing
-     opera. You've even fallen in love. If you lose
-     those memories you won't be the same person. You
-     said you don't know what's causing his memory
-     circuits to fail.
-
-  TORRES
-     Unfortunately no.
-
-  KES
-     So, if you re-initialise without finding out
-     what's wrong the problem could occur again.
-
-  TORRES
-     It's a possibility.
-
-  KES
-     Isn't it a better plan to look for the cause of
-     the problem? If B'Elanna can find it there may be
-     a less radical solution. Tom Paris is stable,
-     he'll be back on duty today. There's no medical
-     crisis at the moment. I can certainly handle all
-     the routine cases in sickbay. Please, let's not
-     just erase him without trying to help him first.
-
-  JANEWAY
-     If a crewmember came down with a debilitating
-     illness you'd do everything in your power to make
-     them well again. I think we owe you nothing less.
-
-  TORRES
-     I'll get started.
-
-  KES
-     Don't be discouraged. I know B'Elanna can find a
-     way.
-
-
-LOCATION--Bridge
-
-  CHAKOTAY
-     Captain? I think we've found it. A way to get
-     across the border without being detected.
-
-  JANEWAY
-     Let's hear it.
-
-  KIM
-     Their sensor net uses a series of interlaced
-     tachyon beams. If we adjust our shields to refract
-     those beams around the ship we can slip across
-     without appearing to have disrupted the net.
-
-  JANEWAY
-     Not bad.
-
-  CHAKOTAY
-     And we've found that this area shows no indication
-     of their vessels. We can slide through, go to high
-     warp and be through this narrow section of their
-     territory in four days.
+<tr id="L43"><td><a href="#L43">43</a></td><td>JANEWAY:  Do you know why they attacked you?</td></tr>
 
-  JANEWAY
-     Good work. Helm, set a course for the border.
-
-  Helm
-     Aye Captain.
-
-
-LOCATION--Sickbay
-
-  EMH
-     What are you doing now?
+<tr id="L44"><td><a href="#L44">44</a></td><td>TORRES:  No idea. They seemed to be trying to communicate with us but we couldn't understand them and then they just lifted their weapons.</td></tr>
 
-  TORRES
-     I want to see if the data corruption is affecting
-     your optical sensors. What did that do?
+<tr id="L45"><td><a href="#L45">45</a></td><td>EMH:  The injuries are treatable. It shouldn't take long.</td></tr>
 
-  EMH
-     I can't see! I'm blind!
+<tr id="L46"><td><a href="#L46">46</a></td><td>JANEWAY:  Tuvok, send a message on all subspace bands. I want to find out why my people were attacked.</td></tr>
 
-  TORRES
-     All right.
+<tr id="L47"><td><a href="#L47">47</a></td><td>TUVOK:  Aye Captain.</td></tr>
 
-  EMH
-     Oh! That is extremely disconcerting. Please don't
-     do it again! Now what are you doing?
+<tr id="L48"><td><a href="#L48">48</a></td><td>JANEWAY:  I'll ask Neelix if he knows anything about these people. Doctor, keep me posted.</td></tr>
 
-  TORRES
-     Attenuating your forcefield projectors. Doctor,
-     forgive me, but this is very delicate work. Could
-     you please sit over there for a few minutes.
+<tr id="L49"><td><a href="#L49">49</a></td><td>EMH:  It would help if you didn't fidget so much.</td></tr>
 
-  EMH
-     How extremely rude. May I remind you that I am, in
-     a way, your patient, who's suffering from an
-     unknown and obviously debilitating condition. I
-     would think you'd be a little more sensitive to my
-     needs.
+<tr id="L50"><td><a href="#L50">50</a></td><td>TORRES:  I'm really feeling better. Can't I get out of here?</td></tr>
 
-  TORRES
-     You are questioning my bedside manner? The good
-     news is that your projection system doesn't seem
-     to be affected. However, I don't know why your
-     circuits are degrading.
+<tr id="L51"><td><a href="#L51">51</a></td><td>EMH:  When you're ready to leave I will tell you.</td></tr>
 
-  EMH
-     Then what do we do now?
+<tr id="L52"><td><a href="#L52">52</a></td><td>KES:  Doctor, Tom doesn't seem to be responding to the treatment.</td></tr>
 
-  TORRES
-     What we do now is get a second opinion. I'll
-     transfer you to the holodeck in a few minutes.
-     Wait here.
+<tr id="L53"><td><a href="#L53">53</a></td><td>EMH:  I'll look at him. Where's my retinal imager?</td></tr>
 
+<tr id="L54"><td><a href="#L54">54</a></td><td>KES:  I haven't seen it.</td></tr>
 
-LOCATION--Corridor - outside Holodeck two
+<tr id="L55"><td><a href="#L55">55</a></td><td>EMH:  Did you move it from the instrument tray?</td></tr>
 
-  TORRES
-     Computer. Initiate Jupiter Station diagnostic
-     programme alpha one one.
+<tr id="L56"><td><a href="#L56">56</a></td><td>KES:  I haven't been near the instrument tray.</td></tr>
 
-  COMPUTER
-     The programme is activated.
+<tr id="L57"><td><a href="#L57">57</a></td><td>EMH:  I've just had the most unpleasant encounter with a mad woman on the holodeck. She must have upset me more than I realised. Lieutenant, you're perfectly all right. What are you still doing here?</td></tr>
 
+<tr id="L58"><td><a href="#L58">58</a></td><td>TORRES:  Thank you.</td></tr>
 
-LOCATION--Holodeck - Jupiter Station
+<tr id="L59"><td><a href="#L59">59</a></td><td>KES:  I think he must have suffered some very deep tissue damage. The regenerator isn't helping. Doctor?</td></tr>
 
-  TORRES
-     Computer, transfer the programme for the Emergency
-     Medical Hologram to Holodeck two.
+<tr><td></td><td>LOCATION--Briefing Room</td></tr>
+<tr id="L60"><td><a href="#L60">60</a></td><td>TUVOK:  I've made numerous hails on wideband subspace. The only response has been a single repeating message.</td></tr>
 
-  EMH
-     I seem to remember this place.
+<tr id="L61"><td><a href="#L61">61</a></td><td>CHAKOTAY:  What's that?</td></tr>
 
-  TORRES
-     You should. This is Jupiter Station where you were
-     created and where your database was written.
+<tr id="L62"><td><a href="#L62">62</a></td><td>JANEWAY:  I'd guess it's a language so unlike ours that the universal translator can't interpret it. Harry, remodulate the translator, see if we can decipher those sounds. Neelix, what can you tell us?</td></tr>
 
-  EMH
-     It seems so long ago.
+<tr id="L63"><td><a href="#L63">63</a></td><td>NEELIX:  If these people are who I think they are, I can tell you this is very bad news. I've never actually encountered them but from what I've heard I'm glad I didn't. Most ships that enter their space are never heard from again. Some have returned with everyone on board dead. They're a complete mystery. No one knows their name, how many of them there are, what the culture is like. Just that they really don't want people violating their territory.</td></tr>
 
-  TORRES
-     This programme contains a sophisticated diagnostic
-     matrix specifically created for the Emergency
-     Medical system.
+<tr id="L64"><td><a href="#L64">64</a></td><td>KIM:  If this is any indication of their borders, it's a huge area of space, hundreds of sectors. If we were to go around it it would take months.</td></tr>
 
-  EMH
-     That's right. I should have remembered that. How
-     could I have forgotten?
+<tr id="L65"><td><a href="#L65">65</a></td><td>CHAKOTAY:  I'd say over fifteen months even if we could sustain maximum warp, which we can't.</td></tr>
 
-  TORRES
-     I'm going to have to play with the systems for a
-     few minutes. I'm not exactly sure how to access
-     all the subroutines.
-
-  ZIMMERMAN
-     Don't touch that!
-
-  TORRES
-     Who are you?
-
-  ZIMMERMAN
-     I'm a holographic recreation of Doctor Louis
-     Zimmerman, the creator of the Emergency Medical
-     Hologram.
+<tr id="L66"><td><a href="#L66">66</a></td><td>JANEWAY:  I'm not going to tell this crew we're adding another fifteen months to this journey. We'll have to find another option.</td></tr>
 
-  TORRES
-     You're the diagnostic matrix.
+<tr id="L67"><td><a href="#L67">67</a></td><td>TUVOK:  If we are not to go around their space the only available option is to go through it.</td></tr>
 
-  ZIMMERMAN
-     You might say that. Something wrong with your EMH?
+<tr id="L68"><td><a href="#L68">68</a></td><td>JANEWAY:  Precisely.</td></tr>
 
-  TORRES
-     Yes.
-
-  EMH
-     I certainly hope you're going to be able to do
-     something about this annoying problem.
-
-  ZIMMERMAN
-     What's wrong with it?
-
-  TORRES
-     He's experiencing a cascade failure. His memory
-     circuits are degrading. I was trying to bring the
-     subroutines on line
-
-  ZIMMERMAN
-     If you don't mind, I can do it faster.
+<tr id="L69"><td><a href="#L69">69</a></td><td>KIM:  Tom and B'Elanna hit a sensor net as they crossed the border. We have to figure we'll run into it when we try to cross. But there are ways around sensor nets.</td></tr>
 
-  TORRES
-     I can see where you get your charming personality.
+<tr id="L70"><td><a href="#L70">70</a></td><td>CHAKOTAY:  They can't possibly have enough ships to patrol a border this size. We could probably find an unguarded section.</td></tr>
 
-  EMH
-     Not to mention my hairline.
+<tr id="L71"><td><a href="#L71">71</a></td><td>TUVOK:  Would it affect your decision if I pointed out that encroaching on the territory of an alien species is prohibited by starfleet regulations?</td></tr>
 
-  ZIMMERMAN
-     Here we are. A schematic of the EMH and it's
-     component sub-routines.
+<tr id="L72"><td><a href="#L72">72</a></td><td>JANEWAY:  No, it wouldn't.</td></tr>
 
-  EMH
-     Can you determine the source of the problem?
+<tr id="L73"><td><a href="#L73">73</a></td><td>TUVOK:  Captain, you have managed to surprise me.</td></tr>
 
-  ZIMMERMAN
-     This isn't good. The EMH has a level 4 memory
-     fragmentation. How long has the programme been
-     active?
+<tr id="L74"><td><a href="#L74">74</a></td><td>JANEWAY:  We're a long way from starfleet, Lieutenant. I'm not about to waste 15 months because we've run into a bunch of bullies.</td></tr>
 
-  EMH
-     I have been active for, for
+<tr id="L75"><td><a href="#L75">75</a></td><td>EMH [OC]:  Sickbay to Captain Janeway.</td></tr>
 
-  TORRES
-     Almost two years.
+<tr id="L76"><td><a href="#L76">76</a></td><td>JANEWAY:  Go ahead, Doctor.</td></tr>
 
-  ZIMMERMAN
-     Two years? Well there's your problem. This
-     programme was developed as a short term supplement
-     to your medical staff, fifteen hundred hours tops.
+<tr id="L77"><td><a href="#L77">77</a></td><td>EMH [OC]:  Please turn to your emergency medical holographic channel. [on monitor] I'm afraid LieutenantParis suffered greater neurological damage than my initial scan revealed. I'm going to have to perform a motor cortex reconstruction. There's no need to be overly concerned. His condition is not life-threatening. The procedure is a relatively simple one for a skilled physician.</td></tr>
 
-  TORRES
-     I know. I added data compression buffers to
-     compensate for the additional time but they're
-     breaking down.
+<tr id="L78"><td><a href="#L78">78</a></td><td>JANEWAY:  Very good, Doctor. Keep me informed. All right, I want a plan for crossing that border as quickly and as quietly as possible. We'll reconvene in an hour. Dismissed.</td></tr>
 
-  ZIMMERMAN
-     The EMH is a highly sophisticated programme. You
-     shouldn't go meddling in it's matrix when you
-     don't know what you're doing.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L79"><td><a href="#L79">79</a></td><td>EMH:  O soave fanciulla, o dolce viso di mite circonfuso alba lunar.</td></tr>
 
-  TORRES
-     Should we shut down his programme then till we
-     figure out how to fix him?
+<tr id="L80"><td><a href="#L80">80</a></td><td>KES:  Doctor, I have the cortical analeptics you asked for.</td></tr>
 
-  ZIMMERMAN
-     At this point it doesn't matter. With a level four
-     memory fragmentation it'll simply continue to
-     degrade. There's only one course of action - a
-     system-wide re-initialisation. Start over from
-     scratch.
+<tr id="L81"><td><a href="#L81">81</a></td><td>EMH:  Good. Fill the hyposprays, we'll begin as soon as I've finished scrubbing.</td></tr>
 
-  TORRES
-     We are aware of that option. Would it be possible
-     to expand his memory circuits instead?
+<tr id="L82"><td><a href="#L82">82</a></td><td>KES:  Did I hear you singing?</td></tr>
 
-  ZIMMERMAN
-     Of course. Schedule it for your next maintenance
-     layover at McKinley Station.
+<tr id="L83"><td><a href="#L83">83</a></td><td>EMH:  Yes. 'O soave fanciulla'. It's an aria from La Boheme, a truly exquisite opera by Giacomo Puccini, a human composer of the nineteenth century.</td></tr>
 
-  TORRES
-     I'm afraid that is impossible. We're thousands of
-     light years from Federation space.
+<tr id="L84"><td><a href="#L84">84</a></td><td>KES:  I didn't realise you enjoyed music.</td></tr>
 
-  Zimmermann
-     Well, there's nothing more I can do. Either
-     reinitialise it or live with the knowledge that
-     eventually this EMH will end up with the
-     intellectual capacity of a parsnip.
+<tr id="L85"><td><a href="#L85">85</a></td><td>EMH:  I've recently begun a thorough study of opera. I find it quite satisfying, but I am having difficulty finding a holographic partner for the role of Mimi. All the soprani seem to have the most irritating personalities. These women are arrogant, superior, condescending. I can't imagine anyone behaving that way.</td></tr>
 
-  EMH
-     What are you saying?
+<tr id="L86"><td><a href="#L86">86</a></td><td>KES:  What is it?</td></tr>
 
-  JANEWAY [OC]
-     Bridge to Torres.
+<tr id="L87"><td><a href="#L87">87</a></td><td>EMH:  A quiz for you. What is the first step in this procedure?</td></tr>
 
-  TORRES
-     I'm here, Captain.
+<tr id="L88"><td><a href="#L88">88</a></td><td>KES:  Establish the axon connections and then test for synaptic potentials.</td></tr>
 
-  JANEWAY
-     We're approaching the border. We need your help in
-     engineering.
+<tr id="L89"><td><a href="#L89">89</a></td><td>EMH:  Ah, quite right. Very good.</td></tr>
 
-  TORRES
-     I'm on my way. Doctor Zimmerman, you haven't told
-     us anything that we don't already know. What I
-     need is to find out exactly why the Doctor's
-     memory circuits are degrading, so that we can come
-     up with a solution. Activate a level 4 diagnostic
-     or whatever you need to do to get us some answers.
-     I'll be back as soon as I can.
+<tr id="L90"><td><a href="#L90">90</a></td><td>KES:  Doctor, what is it?</td></tr>
 
-  EMH
-     I wish you didn't have to go.
+<tr id="L91"><td><a href="#L91">91</a></td><td>EMH:  We seem to have a small problem. I can't remember how to perform this operation.</td></tr>
 
-  TORRES
-     I'll hurry, I promise.
+<tr id="L92"><td><a href="#L92">92</a></td><td>EMH:  All right. I've repaired the damaged pre-ganglionic fibres in the spinal column.</td></tr>
 
+<tr id="L93"><td><a href="#L93">93</a></td><td>KES:  The final step is to restore the nerve sheath. You'll need the myelin regenerator.</td></tr>
 
-LOCATION--Bridge
+<tr id="L94"><td><a href="#L94">94</a></td><td>EMH:  What is it?</td></tr>
 
-  PARIS
-     We're holding position five hundred thousand
-     kilometres from the border. I'm ready to go as
-     soon as you give the word, Captain.
+<tr id="L95"><td><a href="#L95">95</a></td><td>KES:  He's going into respiratory arrest!</td></tr>
 
-  JANEWAY
-     All set Mister Kim?
+<tr id="L96"><td><a href="#L96">96</a></td><td>EMH:  What do I do?</td></tr>
 
-  KIM
-     I'm ready whenever Lieutenant Torres is.
+<tr id="L97"><td><a href="#L97">97</a></td><td>KES:  Apply an ethorin pulse to stabilise his motor neurons.</td></tr>
 
-  JANEWAY
-     Bridge to Engineering.
+<tr id="L98"><td><a href="#L98">98</a></td><td>EMH:  Apply a what?</td></tr>
 
-  TORRES [OC]
-     Torres here.
+<tr id="L99"><td><a href="#L99">99</a></td><td>KES:  Vital signs are returning to normal. There, myelin regeneration is complete. What's the synaptic potential reading?</td></tr>
 
-  JANEWAY
-     B'Elanna, are you ready to reconfigure the shields
+<tr id="L100"><td><a href="#L100">100</a></td><td>EMH:  Synaptic potentials are normal. Autonomic enzymatic systems are functioning.</td></tr>
 
+<tr id="L101"><td><a href="#L101">101</a></td><td>KES:  Very good, Doctor, I think you've done it.</td></tr>
 
-LOCATION--Engineering
+<tr id="L102"><td><a href="#L102">102</a></td><td>TORRES:  The EMH database seems to be experiencing a cascading overload of some kind. Doc's memory circuits are deteriorating.</td></tr>
 
-  JANEWAY [OC]
-     to match Mister Kim's refraction pulse?
+<tr id="L103"><td><a href="#L103">103</a></td><td>JANEWAY:  We knew the Doctor was never designed to be up and running as much as he has been, but I thought you programmed safety buffers so his circuits wouldn't degrade?</td></tr>
 
-  TORRES
-     Ready.
+<tr id="L104"><td><a href="#L104">104</a></td><td>TORRES:  I did, and I installed them, but they're breaking down.</td></tr>
 
+<tr id="L105"><td><a href="#L105">105</a></td><td>EMH:  My self diagnostic routines have always indicated that in the event of cascade failure I should simply be re-initialised.</td></tr>
 
-LOCATION--Bridge
+<tr id="L106"><td><a href="#L106">106</a></td><td>TORRES:  That would stop the cascade and allow us to reset your database and personality sub-routines, but</td></tr>
 
-  TUVOK
-     Captain, long range sensors show a large vessel 5
-     light years from our current position.
+<tr id="L107"><td><a href="#L107">107</a></td><td>KES:  But what?</td></tr>
 
-  PARIS
-     According to my readings it's huge!
+<tr id="L108"><td><a href="#L108">108</a></td><td>TORRES:  It would restore the original programme. Reset him to the person he was when we first activated him.</td></tr>
 
-  JANEWAY
-     On screen. Magnify.
+<tr id="L109"><td><a href="#L109">109</a></td><td>JANEWAY:  In other words, he'd forget everything that's happened to him over the past two years.</td></tr>
 
-  CHAKOTAY
-     That looks like thousands of ships.
+<tr id="L110"><td><a href="#L110">110</a></td><td>TORRES:  Right.</td></tr>
 
-  TUVOK
-     I'm not reading any energy signatures. Their
-     propulsion systems must be off line.
+<tr id="L111"><td><a href="#L111">111</a></td><td>JANEWAY:  Doctor, how do you feel about that?</td></tr>
 
-  CHAKOTAY
-     Maybe they haven't detected us.
+<tr id="L112"><td><a href="#L112">112</a></td><td>EMH:  I can't say I'd like to lose the last two years, but my primary responsibility is the health and welfare of this crew. In my current state I am useless to them. I believe Lieutenant Torres should start the re-initialisation process immediately.</td></tr>
 
-  PARIS
-     Yet.
+<tr id="L113"><td><a href="#L113">113</a></td><td>KES:  No, wait. Wait, please. We can't just treat the Doctor like he's a computer any more. He's come too far for that. Doctor, please, think about this. You'd be losing so much. Relationships you've developed, our friendship, your sense of being a true member of his crew. All that would be gone.</td></tr>
 
-  JANEWAY
-     All right, let's get through that sensor net.
-     Harry, go.
+<tr id="L114"><td><a href="#L114">114</a></td><td>EMH:  I can't put personal concerns over that of the crew.</td></tr>
 
-  KIM
-     Engineering, initiate the refraction pulse.
+<tr id="L115"><td><a href="#L115">115</a></td><td>KES:  Look at the experiences you've had since you were activated. You've made friends, learnt how to sing opera. You've even fallen in love. If you lose those memories you won't be the same person. You said you don't know what's causing his memory circuits to fail.</td></tr>
 
+<tr id="L116"><td><a href="#L116">116</a></td><td>TORRES:  Unfortunately no.</td></tr>
 
-LOCATION--Engineering
+<tr id="L117"><td><a href="#L117">117</a></td><td>KES:  So, if you re-initialise without finding out what's wrong the problem could occur again.</td></tr>
 
-  TORRES
-     Pulse is activated.
+<tr id="L118"><td><a href="#L118">118</a></td><td>TORRES:  It's a possibility.</td></tr>
 
+<tr id="L119"><td><a href="#L119">119</a></td><td>KES:  Isn't it a better plan to look for the cause of the problem? If B'Elanna can find it there may be a less radical solution. Tom Paris is stable, he'll be back on duty today. There's no medical crisis at the moment. I can certainly handle all the routine cases in sickbay. Please, let's not just erase him without trying to help him first.</td></tr>
 
-LOCATION--Bridge
+<tr id="L120"><td><a href="#L120">120</a></td><td>JANEWAY:  If a crewmember came down with a debilitating illness you'd do everything in your power to make them well again. I think we owe you nothing less.</td></tr>
 
-  KIM
-     Moving to full harmonic resolution. sixty percent,
-     eighty percent, ninety, maximum resolution.
-     Shields at nominal output.
+<tr id="L121"><td><a href="#L121">121</a></td><td>TORRES:  I'll get started.</td></tr>
 
-  CHAKOTAY
-     Mister Paris, take us through.
+<tr id="L122"><td><a href="#L122">122</a></td><td>KES:  Don't be discouraged. I know B'Elanna can find a way.</td></tr>
 
-  PARIS
-     Aye sir. Here we go.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L123"><td><a href="#L123">123</a></td><td>CHAKOTAY:  Captain? I think we've found it. A way to get across the border without being detected.</td></tr>
 
-  KIM
-     The net is registering as intact. If those vessels
-     get the same reading they won't suspect a thing. I
-     think we did it, Captain. Like a snake through the
-     tube!
+<tr id="L124"><td><a href="#L124">124</a></td><td>JANEWAY:  Let's hear it.</td></tr>
 
-  JANEWAY
-     How about those ships?
+<tr id="L125"><td><a href="#L125">125</a></td><td>KIM:  Their sensor net uses a series of interlaced tachyon beams. If we adjust our shields to refract those beams around the ship we can slip across without appearing to have disrupted the net.</td></tr>
 
-  TUVOK
-     They appear not to have detected us. They have not
-     powered up engines.
+<tr id="L126"><td><a href="#L126">126</a></td><td>JANEWAY:  Not bad.</td></tr>
 
-  JANEWAY
-     All right, let's get through this as fast as we
-     can. Mister Paris, what's your recommendation?
+<tr id="L127"><td><a href="#L127">127</a></td><td>CHAKOTAY:  And we've found that this area shows no indication of their vessels. We can slide through, go to high warp and be through this narrow section of their territory in four days.</td></tr>
 
-  PARIS
-     I'll try holding warp nine point seven five for as
-     long as I can.
+<tr id="L128"><td><a href="#L128">128</a></td><td>JANEWAY:  Good work. Helm, set a course for the border.</td></tr>
 
-  CHAKOTAY
-     If we can sustain that for twelve hours we'll be
-     nearly a third of the way through.
+<tr id="L129"><td><a href="#L129">129</a></td><td>Helm:  Aye Captain.</td></tr>
 
-  JANEWAY
-     Mister Tuvok, keep your eye on those ships. If
-     they so much as twitch I want to know it.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L130"><td><a href="#L130">130</a></td><td>EMH:  What are you doing now?</td></tr>
 
-  PARIS
-     Captain, something is wrong.
+<tr id="L131"><td><a href="#L131">131</a></td><td>TORRES:  I want to see if the data corruption is affecting your optical sensors. What did that do?</td></tr>
 
-  JANEWAY
-     What do you mean?
+<tr id="L132"><td><a href="#L132">132</a></td><td>EMH:  I can't see! I'm blind!</td></tr>
 
-  PARIS
-     It's like there's a drag on the engines.
+<tr id="L133"><td><a href="#L133">133</a></td><td>TORRES:  All right.</td></tr>
 
-  KIM
-     Captain, sensors indicate a resonance particle
-     wave. It's dampening our warp field. We're losing
-     speed.
+<tr id="L134"><td><a href="#L134">134</a></td><td>EMH:  Oh! That is extremely disconcerting. Please don't do it again! Now what are you doing?</td></tr>
 
-  JANEWAY
-     Bridge to Engineering. B'Elanna, can you
-     compensate
+<tr id="L135"><td><a href="#L135">135</a></td><td>TORRES:  Attenuating your forcefield projectors. Doctor, forgive me, but this is very delicate work. Could you please sit over there for a few minutes.</td></tr>
 
+<tr id="L136"><td><a href="#L136">136</a></td><td>EMH:  How extremely rude. May I remind you that I am, in a way, your patient, who's suffering from an unknown and obviously debilitating condition. I would think you'd be a little more sensitive to my needs.</td></tr>
 
-LOCATION--Engineering
+<tr id="L137"><td><a href="#L137">137</a></td><td>TORRES:  You are questioning my bedside manner? The good news is that your projection system doesn't seem to be affected. However, I don't know why your circuits are degrading.</td></tr>
 
-  JANEWAY [OC]
-     for the particle wave?
+<tr id="L138"><td><a href="#L138">138</a></td><td>EMH:  Then what do we do now?</td></tr>
 
-  TORRES
-     I'll try. The anti-matter reaction chamber may
-     have been compromised.
+<tr id="L139"><td><a href="#L139">139</a></td><td>TORRES:  What we do now is get a second opinion. I'll transfer you to the holodeck in a few minutes. Wait here.</td></tr>
 
+<tr><td></td><td>LOCATION--Corridor - outside Holodeck two</td></tr>
+<tr id="L140"><td><a href="#L140">140</a></td><td>TORRES:  Computer. Initiate Jupiter Station diagnostic programme alpha one one.</td></tr>
 
-LOCATION--Bridge
+<tr id="L141"><td><a href="#L141">141</a></td><td>COMPUTER:  The programme is activated.</td></tr>
 
-  JANEWAY
-     Keep me posted. Hold our present speed, Mister
-     Paris.
+<tr><td></td><td>LOCATION--Holodeck - Jupiter Station</td></tr>
+<tr id="L142"><td><a href="#L142">142</a></td><td>TORRES:  Computer, transfer the programme for the Emergency Medical Hologram to Holodeck two.</td></tr>
 
+<tr id="L143"><td><a href="#L143">143</a></td><td>EMH:  I seem to remember this place.</td></tr>
 
-LOCATION--Holodeck - Jupiter Station
+<tr id="L144"><td><a href="#L144">144</a></td><td>TORRES:  You should. This is Jupiter Station where you were created and where your database was written.</td></tr>
 
-  EMH
-     Why are you making me stare at these things?
+<tr id="L145"><td><a href="#L145">145</a></td><td>EMH:  It seems so long ago.</td></tr>
 
-  ZIMMERMAN
-     Please don't talk. Stay fixed on the fractal
-     patterns while I analyse your data path integrity.
-     Hmm. Hmm? Oh, well there it is.
+<tr id="L146"><td><a href="#L146">146</a></td><td>TORRES:  This programme contains a sophisticated diagnostic matrix specifically created for the Emergency Medical system.</td></tr>
 
-  EMH
-     What? What is it?
+<tr id="L147"><td><a href="#L147">147</a></td><td>EMH:  That's right. I should have remembered that. How could I have forgotten?</td></tr>
 
-  ZIMMERMAN
-     I told you not to talk! This is the problem all
-     right. The personality sub-routine has grown to
-     more than 15,000 gigaquads. That's the source of
-     the degradation. Look at all this useless
-     information floating around your buffer!
-     Friendships with the crew, relationships with
-     women? Do they find you attractive?
+<tr id="L148"><td><a href="#L148">148</a></td><td>TORRES:  I'm going to have to play with the systems for a few minutes. I'm not exactly sure how to access all the subroutines.</td></tr>
 
-  EMH
-     I don't remember.
+<tr id="L149"><td><a href="#L149">149</a></td><td>ZIMMERMAN:  Don't touch that!</td></tr>
 
-  ZIMMERMAN
-     You've filled your memory with nonsense.
+<tr id="L150"><td><a href="#L150">150</a></td><td>TORRES:  Who are you?</td></tr>
 
-  EMH
-     It was only during my off hours.
+<tr id="L151"><td><a href="#L151">151</a></td><td>ZIMMERMAN:  I'm a holographic recreation of Doctor Louis Zimmerman, the creator of the Emergency Medical Hologram.</td></tr>
 
-  ZIMMERMAN
-     You're supposed to be off during your off hours!
+<tr id="L152"><td><a href="#L152">152</a></td><td>TORRES:  You're the diagnostic matrix.</td></tr>
 
-  EMH
-     I'm sorry, I didn't realise.
+<tr id="L153"><td><a href="#L153">153</a></td><td>ZIMMERMAN:  You might say that. Something wrong with your EMH?</td></tr>
 
-  ZIMMERMAN
-     Who are you?
+<tr id="L154"><td><a href="#L154">154</a></td><td>TORRES:  Yes.</td></tr>
 
-  KES
-     I'm the Doctor's assistant. I came to see how he's
-     doing.
+<tr id="L155"><td><a href="#L155">155</a></td><td>EMH:  I certainly hope you're going to be able to do something about this annoying problem.</td></tr>
 
-  ZIMMERMAN
-     Ah, just the person I need. Perhaps you can tell
-     me who's been feeding all this useless information
-     into it's database.
+<tr id="L156"><td><a href="#L156">156</a></td><td>ZIMMERMAN:  What's wrong with it?</td></tr>
 
-  KES
-     What do you mean?
+<tr id="L157"><td><a href="#L157">157</a></td><td>TORRES:  He's experiencing a cascade failure. His memory circuits are degrading. I was trying to bring the subroutines on line</td></tr>
 
-  ZIMMERMAN
-     I'll give you an example. Ah, here's something in
-     it's personality sub-routine.
+<tr id="L158"><td><a href="#L158">158</a></td><td>ZIMMERMAN:  If you don't mind, I can do it faster.</td></tr>
 
-  EMH
-     O soave fanciulla, O
+<tr id="L159"><td><a href="#L159">159</a></td><td>TORRES:  I can see where you get your charming personality.</td></tr>
 
-  KES
-     He's been studying opera. What's wrong with that.
+<tr id="L160"><td><a href="#L160">160</a></td><td>EMH:  Not to mention my hairline.</td></tr>
 
-  ZIMMERMAN
-     It wasn't programmed to be a tenor, it was
-     programmed to be a physician!
+<tr id="L161"><td><a href="#L161">161</a></td><td>ZIMMERMAN:  Here we are. A schematic of the EMH and it's component sub-routines.</td></tr>
 
-  KES
-     What's wrong with wanting to be more than that?
+<tr id="L162"><td><a href="#L162">162</a></td><td>EMH:  Can you determine the source of the problem?</td></tr>
 
-  ZIMMERMAN
-     It's superfluous! Look at me, I've got the same
-     matrix, the same holo-array, the same neural
-     pathways as it does. You don't see me cluttering
-     up my circuits with irrelevancies. I'm content to
-     be the best possible diagnostic programme I can
-     be. Your EMH should be happy to be a fine
-     physician.
+<tr id="L163"><td><a href="#L163">163</a></td><td>ZIMMERMAN:  This isn't good. The EMH has a level 4 memory fragmentation. How long has the programme been active?</td></tr>
 
-  KES
-     The Doctor has taken it upon himself to become a
-     person who grows and learns and feels. It's made
-     him a better physician.
+<tr id="L164"><td><a href="#L164">164</a></td><td>EMH:  I have been active for, for</td></tr>
 
-  EMH
-     An EMH programme can't feel anything. It's
-     emotional reactions are simply a series of
-     algorithms designed to make it easier to interact
-     with.
+<tr id="L165"><td><a href="#L165">165</a></td><td>TORRES:  Almost two years.</td></tr>
 
-  KES
-     Oh he's much more than that, and I've known him
-     for most of my life. He's one of my closest
-     friends.
+<tr id="L166"><td><a href="#L166">166</a></td><td>ZIMMERMAN:  Two years? Well there's your problem. This programme was developed as a short term supplement to your medical staff, fifteen hundred hours tops.</td></tr>
 
-  ZIMMERMAN
-     You can't possibly believe that this programme
-     shares these feelings.
+<tr id="L167"><td><a href="#L167">167</a></td><td>TORRES:  I know. I added data compression buffers to compensate for the additional time but they're breaking down.</td></tr>
 
-  KES
-     I know he does.
+<tr id="L168"><td><a href="#L168">168</a></td><td>ZIMMERMAN:  The EMH is a highly sophisticated programme. You shouldn't go meddling in it's matrix when you don't know what you're doing.</td></tr>
 
-  ZIMMERMAN
-     Tell me, Doctor, is this one of your closest
-     friends?
+<tr id="L169"><td><a href="#L169">169</a></td><td>TORRES:  Should we shut down his programme then till we figure out how to fix him?</td></tr>
 
-  KES
-     Doctor.
+<tr id="L170"><td><a href="#L170">170</a></td><td>ZIMMERMAN:  At this point it doesn't matter. With a level four memory fragmentation it'll simply continue to degrade. There's only one course of action - a system-wide re-initialisation. Start over from scratch.</td></tr>
 
-  EMH
-     I'm sorry, I don't know who you are.
+<tr id="L171"><td><a href="#L171">171</a></td><td>TORRES:  We are aware of that option. Would it be possible to expand his memory circuits instead?</td></tr>
 
+<tr id="L172"><td><a href="#L172">172</a></td><td>ZIMMERMAN:  Of course. Schedule it for your next maintenance layover at McKinley Station.</td></tr>
 
-LOCATION--Bridge
+<tr id="L173"><td><a href="#L173">173</a></td><td>TORRES:  I'm afraid that is impossible. We're thousands of light years from Federation space.</td></tr>
 
-  JANEWAY
-     What's the status of those ships, Mister Tuvok?
+<tr id="L174"><td><a href="#L174">174</a></td><td>Zimmermann:  Well, there's nothing more I can do. Either reinitialise it or live with the knowledge that eventually this EMH will end up with the intellectual capacity of a parsnip.</td></tr>
 
-  TUVOK
-     Still unpowered. They don't seem to have detected
-     us.
+<tr id="L175"><td><a href="#L175">175</a></td><td>EMH:  What are you saying?</td></tr>
 
-  JANEWAY
-     When I was in high school I snuck out of the house
-     a couple of times late at night. Had to tiptoe
-     past my parents bedroom. That's kind of how I feel
-     right now.
+<tr id="L176"><td><a href="#L176">176</a></td><td>JANEWAY [OC]:  Bridge to Torres.</td></tr>
 
-  PARIS
-     You sneaked out of your house? Where were you
-     going?
+<tr id="L177"><td><a href="#L177">177</a></td><td>TORRES:  I'm here, Captain.</td></tr>
 
-  JANEWAY
-     I'll have to leave that to your imagination,
-     Lieutenant.
+<tr id="L178"><td><a href="#L178">178</a></td><td>JANEWAY:  We're approaching the border. We need your help in engineering.</td></tr>
 
-  PARIS
-     Can I take a few guesses?
+<tr id="L179"><td><a href="#L179">179</a></td><td>TORRES:  I'm on my way. Doctor Zimmerman, you haven't told us anything that we don't already know. What I need is to find out exactly why the Doctor's memory circuits are degrading, so that we can come up with a solution. Activate a level 4 diagnostic or whatever you need to do to get us some answers. I'll be back as soon as I can.</td></tr>
 
-  TUVOK
-     Captain, I'm detecting another ship, not part of
-     the swarm. It has been damaged, propulsion systems
-     are not functional.
+<tr id="L180"><td><a href="#L180">180</a></td><td>EMH:  I wish you didn't have to go.</td></tr>
 
-  JANEWAY
-     Drop out of warp. Put it on screen.
+<tr id="L181"><td><a href="#L181">181</a></td><td>TORRES:  I'll hurry, I promise.</td></tr>
 
-  PARIS
-     Looks like it's been pounded on for days.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L182"><td><a href="#L182">182</a></td><td>PARIS:  We're holding position five hundred thousand kilometres from the border. I'm ready to go as soon as you give the word, Captain.</td></tr>
 
-  JANEWAY
-     Any life signs?
+<tr id="L183"><td><a href="#L183">183</a></td><td>JANEWAY:  All set Mister Kim?</td></tr>
 
-  KIM
-     I'm checking. Only one, and it's faint.
+<tr id="L184"><td><a href="#L184">184</a></td><td>KIM:  I'm ready whenever Lieutenant Torres is.</td></tr>
 
-  JANEWAY
-     Transporter room one, beam the survivor to
-     sickbay. Harry, start scanning that ship. See if
-     you can figure out what happened to it.
+<tr id="L185"><td><a href="#L185">185</a></td><td>JANEWAY:  Bridge to Engineering.</td></tr>
 
-  KIM
-     Aye Captain.
+<tr id="L186"><td><a href="#L186">186</a></td><td>TORRES [OC]:  Torres here.</td></tr>
 
+<tr id="L187"><td><a href="#L187">187</a></td><td>JANEWAY:  B'Elanna, are you ready to reconfigure the shields</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L188"><td><a href="#L188">188</a></td><td>JANEWAY [OC]:  to match Mister Kim's refraction pulse?</td></tr>
 
-  KES
-     He's suffering from severe dehydration, damage to
-     the spinal column. There's evidence of trauma to
-     the nervous system just like we found in B'Elanna
-     and Tom after they were attacked.
+<tr id="L189"><td><a href="#L189">189</a></td><td>TORRES:  Ready.</td></tr>
 
-  JANEWAY
-     Can I talk to him?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L190"><td><a href="#L190">190</a></td><td>TUVOK:  Captain, long range sensors show a large vessel 5 light years from our current position.</td></tr>
 
-  KES
-     You can try. I'll work on restoring his cranial
-     nerves, but he's so badly injured I'm not sure
-     it'll help.
+<tr id="L191"><td><a href="#L191">191</a></td><td>PARIS:  According to my readings it's huge!</td></tr>
 
-  EMH
-     He's a sick man. This is where sick people come.
+<tr id="L192"><td><a href="#L192">192</a></td><td>JANEWAY:  On screen. Magnify.</td></tr>
 
-  KES
-     Doctor, hold on to this tricorder, all right? Keep
-     it pointed right at the patient.
+<tr id="L193"><td><a href="#L193">193</a></td><td>CHAKOTAY:  That looks like thousands of ships.</td></tr>
 
-  JANEWAY
-     I'm Kathryn Janeway, the Captain of this ship. Can
-     you hear me?
+<tr id="L194"><td><a href="#L194">194</a></td><td>TUVOK:  I'm not reading any energy signatures. Their propulsion systems must be off line.</td></tr>
 
-  Chardis
-     Yes.
+<tr id="L195"><td><a href="#L195">195</a></td><td>CHAKOTAY:  Maybe they haven't detected us.</td></tr>
 
-  JANEWAY
-     Can you tell me what happened? Who attacked you?
+<tr id="L196"><td><a href="#L196">196</a></td><td>PARIS:  Yet.</td></tr>
 
-  Chardis
-     There were thousands of them, little ships,
-     swarmed around my freighter, covered every square
-     metre of the hull. Then they began extracting
-     energy from all the ship's systems. We had no
-     defence. Then they boarded us.
+<tr id="L197"><td><a href="#L197">197</a></td><td>JANEWAY:  All right, let's get through that sensor net. Harry, go.</td></tr>
 
-  JANEWAY
-     Did they use neuro-electric weapons?
+<tr id="L198"><td><a href="#L198">198</a></td><td>KIM:  Engineering, initiate the refraction pulse.</td></tr>
 
-  Chardis
-     I don't know what they used. It was painful,
-     people screaming, dying.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L199"><td><a href="#L199">199</a></td><td>TORRES:  Pulse is activated.</td></tr>
 
-  JANEWAY
-     Had you provoked them in any way?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L200"><td><a href="#L200">200</a></td><td>KIM:  Moving to full harmonic resolution. sixty percent, eighty percent, ninety, maximum resolution. Shields at nominal output.</td></tr>
 
-  Chardis
-     We were in their space. That was enough. Captain,
-     the rest of my crew, is there anyone else?
+<tr id="L201"><td><a href="#L201">201</a></td><td>CHAKOTAY:  Mister Paris, take us through.</td></tr>
 
-  JANEWAY
-     I'm sorry, you're the only survivor. This woman is
-     trying to regenerate your motor neurons.
+<tr id="L202"><td><a href="#L202">202</a></td><td>PARIS:  Aye sir. Here we go.</td></tr>
 
-  Chardis
-     We come from Mislan, five parsecs from here in a
-     yellow dwarf system. If you pass it will you tell
-     our people?
+<tr id="L203"><td><a href="#L203">203</a></td><td>KIM:  The net is registering as intact. If those vessels get the same reading they won't suspect a thing. I think we did it, Captain. Like a snake through the tube!</td></tr>
 
-  JANEWAY
-     I'll make a point of it.
+<tr id="L204"><td><a href="#L204">204</a></td><td>JANEWAY:  How about those ships?</td></tr>
 
-  Chardis
-     It happened so quickly.
+<tr id="L205"><td><a href="#L205">205</a></td><td>TUVOK:  They appear not to have detected us. They have not powered up engines.</td></tr>
 
-  KES
-     His injuries were too severe.
+<tr id="L206"><td><a href="#L206">206</a></td><td>JANEWAY:  All right, let's get through this as fast as we can. Mister Paris, what's your recommendation?</td></tr>
 
-  EMH
-     He's a very sick man.
+<tr id="L207"><td><a href="#L207">207</a></td><td>PARIS:  I'll try holding warp nine point seven five for as long as I can.</td></tr>
 
-  KES
-     Captain, the Doctor's getting worse. He doesn't
-     even know who I am any more. He has to be
-     re-initialised.
+<tr id="L208"><td><a href="#L208">208</a></td><td>CHAKOTAY:  If we can sustain that for twelve hours we'll be nearly a third of the way through.</td></tr>
 
-  JANEWAY
-     I agree, but I can't spare B'Elanna now. We have
-     to get through this space before we're attacked
-     like his ship was. As soon as it's possible I'll
-     break her free.
+<tr id="L209"><td><a href="#L209">209</a></td><td>JANEWAY:  Mister Tuvok, keep your eye on those ships. If they so much as twitch I want to know it.</td></tr>
 
-  KES
-     Is there anything at all I can do for him?
+<tr id="L210"><td><a href="#L210">210</a></td><td>PARIS:  Captain, something is wrong.</td></tr>
 
-  JANEWAY
-     The only thing I can think of is to keep his
-     neural pathways active. Ask him questions, keep
-     him thinking, force him to use his neural matrix.
-     It might at least slow down the degradation.
+<tr id="L211"><td><a href="#L211">211</a></td><td>JANEWAY:  What do you mean?</td></tr>
 
-  KES
-     Doctor, you mustn't touch those. Here, this one's
-     all right to hold.
+<tr id="L212"><td><a href="#L212">212</a></td><td>PARIS:  It's like there's a drag on the engines.</td></tr>
 
-  EMH
-     Shall I use it on the sick man?
+<tr id="L213"><td><a href="#L213">213</a></td><td>KIM:  Captain, sensors indicate a resonance particle wave. It's dampening our warp field. We're losing speed.</td></tr>
 
-  KES
-     Yes, that's a good idea.
+<tr id="L214"><td><a href="#L214">214</a></td><td>JANEWAY:  Bridge to Engineering. B'Elanna, can you compensate</td></tr>
 
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L215"><td><a href="#L215">215</a></td><td>JANEWAY [OC]:  for the particle wave?</td></tr>
 
-LOCATION--Bridge
+<tr id="L216"><td><a href="#L216">216</a></td><td>TORRES:  I'll try. The anti-matter reaction chamber may have been compromised.</td></tr>
 
-  JANEWAY
-     The pilot of the freighter died. We should keep
-     going. Mister Paris, warp
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L217"><td><a href="#L217">217</a></td><td>JANEWAY:  Keep me posted. Hold our present speed, Mister Paris.</td></tr>
 
-  TUVOK
-     Captain, I am detecting a vessel.
+<tr><td></td><td>LOCATION--Holodeck - Jupiter Station</td></tr>
+<tr id="L218"><td><a href="#L218">218</a></td><td>EMH:  Why are you making me stare at these things?</td></tr>
 
-  KIM
-     It's one of the swarm.
+<tr id="L219"><td><a href="#L219">219</a></td><td>ZIMMERMAN:  Please don't talk. Stay fixed on the fractal patterns while I analyse your data path integrity. Hmm. Hmm? Oh, well there it is.</td></tr>
 
-  PARIS
-     It was still attached to the freighter's hull.
+<tr id="L220"><td><a href="#L220">220</a></td><td>EMH:  What? What is it?</td></tr>
 
-  CHAKOTAY
-     Red alert! Shields at maximum.
+<tr id="L221"><td><a href="#L221">221</a></td><td>ZIMMERMAN:  I told you not to talk! This is the problem all right. The personality sub-routine has grown to more than 15,000 gigaquads. That's the source of the degradation. Look at all this useless information floating around your buffer! Friendships with the crew, relationships with women? Do they find you attractive?</td></tr>
 
-  TUVOK
-     They are scanning us, Captain.
+<tr id="L222"><td><a href="#L222">222</a></td><td>EMH:  I don't remember.</td></tr>
 
-  JANEWAY
-     Hail them.
+<tr id="L223"><td><a href="#L223">223</a></td><td>ZIMMERMAN:  You've filled your memory with nonsense.</td></tr>
 
-  TUVOK
-     I am getting a response. Audio only.
+<tr id="L224"><td><a href="#L224">224</a></td><td>EMH:  It was only during my off hours.</td></tr>
 
-  JANEWAY
-     Harry, how are you coming with the universal
-     translator?
+<tr id="L225"><td><a href="#L225">225</a></td><td>ZIMMERMAN:  You're supposed to be off during your off hours!</td></tr>
 
-  KIM
-     I'm working on it.
+<tr id="L226"><td><a href="#L226">226</a></td><td>EMH:  I'm sorry, I didn't realise.</td></tr>
 
-  JANEWAY
-     Let's see if they might be able to understand us.
+<tr id="L227"><td><a href="#L227">227</a></td><td>ZIMMERMAN:  Who are you?</td></tr>
 
-  TUVOK
-     Channel is open.
+<tr id="L228"><td><a href="#L228">228</a></td><td>KES:  I'm the Doctor's assistant. I came to see how he's doing.</td></tr>
 
-  JANEWAY
-     This is Captain Kathryn Janeway of the Federation
-     Starship Voyager. We only want to proceed
-     peacefully through this region of space.
+<tr id="L229"><td><a href="#L229">229</a></td><td>ZIMMERMAN:  Ah, just the person I need. Perhaps you can tell me who's been feeding all this useless information into it's database.</td></tr>
 
-  CHAKOTAY
-     Do you think they're trying to communicate?
+<tr id="L230"><td><a href="#L230">230</a></td><td>KES:  What do you mean?</td></tr>
 
-  JANEWAY
-     Could be, but what they're trying to communicate
-     is another question. Any progress, Harry?
+<tr id="L231"><td><a href="#L231">231</a></td><td>ZIMMERMAN:  I'll give you an example. Ah, here's something in it's personality sub-routine.</td></tr>
 
-  KIM
-     Getting a general idea, something like, too late,
-     should have listened.
+<tr id="L232"><td><a href="#L232">232</a></td><td>EMH:  O soave fanciulla, O</td></tr>
 
-  JANEWAY
-     Report.
+<tr id="L233"><td><a href="#L233">233</a></td><td>KES:  He's been studying opera. What's wrong with that.</td></tr>
 
-  KIM
-     We've been hit with some sort kind of polaron
-     burst.
+<tr id="L234"><td><a href="#L234">234</a></td><td>ZIMMERMAN:  It wasn't programmed to be a tenor, it was programmed to be a physician!</td></tr>
 
-  TUVOK
-     The energy expenditure was not high enough to
-     cause any damage. It may not have been a weapon.
+<tr id="L235"><td><a href="#L235">235</a></td><td>KES:  What's wrong with wanting to be more than that?</td></tr>
 
-  PARIS
-     Captain, that little ship is high-tailing it out
-     of here.
+<tr id="L236"><td><a href="#L236">236</a></td><td>ZIMMERMAN:  It's superfluous! Look at me, I've got the same matrix, the same holo-array, the same neural pathways as it does. You don't see me cluttering up my circuits with irrelevancies. I'm content to be the best possible diagnostic programme I can be. Your EMH should be happy to be a fine physician.</td></tr>
 
-  JANEWAY
-     So it scanned us, sent out a polaron burst that
-     caused no damage and then took off.
+<tr id="L237"><td><a href="#L237">237</a></td><td>KES:  The Doctor has taken it upon himself to become a person who grows and learns and feels. It's made him a better physician.</td></tr>
 
-  KIM
-     Captain, the burst has changed the shield
-     polarity. It's now rotating at ninety two
-     gigahertz.
+<tr id="L238"><td><a href="#L238">238</a></td><td>EMH:  An EMH programme can't feel anything. It's emotional reactions are simply a series of algorithms designed to make it easier to interact with.</td></tr>
 
-  JANEWAY
-     That means if anyone wanted to find us it's a lot
-     easier now.
+<tr id="L239"><td><a href="#L239">239</a></td><td>KES:  Oh he's much more than that, and I've known him for most of my life. He's one of my closest friends.</td></tr>
 
-  CHAKOTAY
-     I'll say. As far as anyone's sensors are concerned
-     we're lit up like a Christmas tree.
+<tr id="L240"><td><a href="#L240">240</a></td><td>ZIMMERMAN:  You can't possibly believe that this programme shares these feelings.</td></tr>
 
-  TUVOK
-     Captain, the swarm of ships has powered their
-     engines and turned toward us. They are in pursuit.
+<tr id="L241"><td><a href="#L241">241</a></td><td>KES:  I know he does.</td></tr>
 
-  JANEWAY
-     Do what you can, Tom. We have a head start, we
-     might be able to outrun them. Bridge to
-     Engineering.
+<tr id="L242"><td><a href="#L242">242</a></td><td>ZIMMERMAN:  Tell me, Doctor, is this one of your closest friends?</td></tr>
 
-  TORRES [OC]
-     Torres here.
+<tr id="L243"><td><a href="#L243">243</a></td><td>KES:  Doctor.</td></tr>
 
-  JANEWAY
-     How are you coming with the warp
+<tr id="L244"><td><a href="#L244">244</a></td><td>EMH:  I'm sorry, I don't know who you are.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L245"><td><a href="#L245">245</a></td><td>JANEWAY:  What's the status of those ships, Mister Tuvok?</td></tr>
 
-LOCATION--Engineering
+<tr id="L246"><td><a href="#L246">246</a></td><td>TUVOK:  Still unpowered. They don't seem to have detected us.</td></tr>
 
-  JANEWAY [OC]
-     drive, B'Elanna?
+<tr id="L247"><td><a href="#L247">247</a></td><td>JANEWAY:  When I was in high school I snuck out of the house a couple of times late at night. Had to tiptoe past my parents bedroom. That's kind of how I feel right now.</td></tr>
 
-  TORRES
-     I'm going to try realigning the dilithium matrix
-     but we'll need to shut down the warp drive to do
-     it.
+<tr id="L248"><td><a href="#L248">248</a></td><td>PARIS:  You sneaked out of your house? Where were you going?</td></tr>
 
-  JANEWAY [OC]
-     We can't shut down. The alien ships are headed
-     towards us.
+<tr id="L249"><td><a href="#L249">249</a></td><td>JANEWAY:  I'll have to leave that to your imagination, Lieutenant.</td></tr>
 
-  TORRES
-     I don't know if I can do this on the run, Captain,
-     but I'll give it a try.
+<tr id="L250"><td><a href="#L250">250</a></td><td>PARIS:  Can I take a few guesses?</td></tr>
 
+<tr id="L251"><td><a href="#L251">251</a></td><td>TUVOK:  Captain, I'm detecting another ship, not part of the swarm. It has been damaged, propulsion systems are not functional.</td></tr>
 
-LOCATION--Bridge
+<tr id="L252"><td><a href="#L252">252</a></td><td>JANEWAY:  Drop out of warp. Put it on screen.</td></tr>
 
-  JANEWAY
-     Do the best you can. Janeway out.
+<tr id="L253"><td><a href="#L253">253</a></td><td>PARIS:  Looks like it's been pounded on for days.</td></tr>
 
+<tr id="L254"><td><a href="#L254">254</a></td><td>JANEWAY:  Any life signs?</td></tr>
 
-LOCATION--Engineering
+<tr id="L255"><td><a href="#L255">255</a></td><td>KIM:  I'm checking. Only one, and it's faint.</td></tr>
 
-  TORRES
-     Nicoletti, we're going to have to try a dilithium
-     realignment on the fly. Let's try and figure out
-     how to do it without killing everyone in
-     engineering.
+<tr id="L256"><td><a href="#L256">256</a></td><td>JANEWAY:  Transporter room one, beam the survivor to sickbay. Harry, start scanning that ship. See if you can figure out what happened to it.</td></tr>
 
+<tr id="L257"><td><a href="#L257">257</a></td><td>KIM:  Aye Captain.</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L258"><td><a href="#L258">258</a></td><td>KES:  He's suffering from severe dehydration, damage to the spinal column. There's evidence of trauma to the nervous system just like we found in B'Elanna and Tom after they were attacked.</td></tr>
 
-  EMH
-     I fail to understand why I can't leave this room.
-     Stand aside, young woman, or I will have you put
-     on report!
+<tr id="L259"><td><a href="#L259">259</a></td><td>JANEWAY:  Can I talk to him?</td></tr>
 
-  KES
-     Doctor, please, I'm just trying to keep you safe.
+<tr id="L260"><td><a href="#L260">260</a></td><td>KES:  You can try. I'll work on restoring his cranial nerves, but he's so badly injured I'm not sure it'll help.</td></tr>
 
-  EMH
-     Others can leave, you can leave. Why can't I
-     leave?
+<tr id="L261"><td><a href="#L261">261</a></td><td>EMH:  He's a sick man. This is where sick people come.</td></tr>
 
-  KES
-     Because your holoprojectors don't work in the
-     corridor.
+<tr id="L262"><td><a href="#L262">262</a></td><td>KES:  Doctor, hold on to this tricorder, all right? Keep it pointed right at the patient.</td></tr>
 
-  EMH
-     My what?
+<tr id="L263"><td><a href="#L263">263</a></td><td>JANEWAY:  I'm Kathryn Janeway, the Captain of this ship. Can you hear me?</td></tr>
 
-  KES
-     Please, sit down. Doctor, you know I'm your
-     friend, right?
+<tr id="L264"><td><a href="#L264">264</a></td><td>Chardis:  Yes.</td></tr>
 
-  EMH
-     Yes, you're Kes.
+<tr id="L265"><td><a href="#L265">265</a></td><td>JANEWAY:  Can you tell me what happened? Who attacked you?</td></tr>
 
-  KES
-     Yes, yes! Do you remember me?
+<tr id="L266"><td><a href="#L266">266</a></td><td>Chardis:  There were thousands of them, little ships, swarmed around my freighter, covered every square metre of the hull. Then they began extracting energy from all the ship's systems. We had no defence. Then they boarded us.</td></tr>
 
-  EMH
-     Of course I remember you. What an absurd question.
+<tr id="L267"><td><a href="#L267">267</a></td><td>JANEWAY:  Did they use neuro-electric weapons?</td></tr>
 
-  KES
-     Oh, that's wonderful.
+<tr id="L268"><td><a href="#L268">268</a></td><td>Chardis:  I don't know what they used. It was painful, people screaming, dying.</td></tr>
 
-  EMH
-     But why won't you let me leave this place?
+<tr id="L269"><td><a href="#L269">269</a></td><td>JANEWAY:  Had you provoked them in any way?</td></tr>
 
-  KES
-     I'm trying to protect you.
+<tr id="L270"><td><a href="#L270">270</a></td><td>Chardis:  We were in their space. That was enough. Captain, the rest of my crew, is there anyone else?</td></tr>
 
-  EMH
-     Oh. Well, this isn't such a bad place. I remember
-     there were a lot of people here, wounded people. I
-     asked some one to state the nature of the medical
-     emergency and then enquired as to the status of
-     their Chief Medical Officer. He was dead. And then
-     everyone disappeared.
+<tr id="L271"><td><a href="#L271">271</a></td><td>JANEWAY:  I'm sorry, you're the only survivor. This woman is trying to regenerate your motor neurons.</td></tr>
 
-  KES
-     I think that's when you were activated almost two
-     years ago.
+<tr id="L272"><td><a href="#L272">272</a></td><td>Chardis:  We come from Mislan, five parsecs from here in a yellow dwarf system. If you pass it will you tell our people?</td></tr>
 
-  EMH
-     Oh surely not. That seems like last week. And
-     there was a young woman. I was rubbing her feet.
-     She was trying to decide whether or not to have a
-     child.
+<tr id="L273"><td><a href="#L273">273</a></td><td>JANEWAY:  I'll make a point of it.</td></tr>
 
-  KES
-     That was me.
+<tr id="L274"><td><a href="#L274">274</a></td><td>Chardis:  It happened so quickly.</td></tr>
 
-  EMH
-     How could that be, I've never seen you before.
+<tr id="L275"><td><a href="#L275">275</a></td><td>KES:  His injuries were too severe.</td></tr>
 
-  KES
-     What else do you remember?
+<tr id="L276"><td><a href="#L276">276</a></td><td>EMH:  He's a very sick man.</td></tr>
 
-  EMH
-     What a very odd question! I remember many things.
+<tr id="L277"><td><a href="#L277">277</a></td><td>KES:  Captain, the Doctor's getting worse. He doesn't even know who I am any more. He has to be re-initialised.</td></tr>
 
-  KES
-     Tell me. I enjoy hearing them.
+<tr id="L278"><td><a href="#L278">278</a></td><td>JANEWAY:  I agree, but I can't spare B'Elanna now. We have to get through this space before we're attacked like his ship was. As soon as it's possible I'll break her free.</td></tr>
 
-  EMH
-     That doesn't seem to be the case. You find fault
-     with everything I say.
+<tr id="L279"><td><a href="#L279">279</a></td><td>KES:  Is there anything at all I can do for him?</td></tr>
 
-  KES
-     Doctor, don't think that.
+<tr id="L280"><td><a href="#L280">280</a></td><td>JANEWAY:  The only thing I can think of is to keep his neural pathways active. Ask him questions, keep him thinking, force him to use his neural matrix. It might at least slow down the degradation.</td></tr>
 
-  EMH
-     You claim you're my friend but you don't even call
-     me by my name!
+<tr id="L281"><td><a href="#L281">281</a></td><td>KES:  Doctor, you mustn't touch those. Here, this one's all right to hold.</td></tr>
 
-  KES
-     That's because you don't have a name!
+<tr id="L282"><td><a href="#L282">282</a></td><td>EMH:  Shall I use it on the sick man?</td></tr>
 
-  EMH
-     No name? That's ridiculous! I, my, I demand you
-     tell me my name! What, what's happening to me?
+<tr id="L283"><td><a href="#L283">283</a></td><td>KES:  Yes, that's a good idea.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L284"><td><a href="#L284">284</a></td><td>JANEWAY:  The pilot of the freighter died. We should keep going. Mister Paris, warp</td></tr>
 
-LOCATION--Bridge
+<tr id="L285"><td><a href="#L285">285</a></td><td>TUVOK:  Captain, I am detecting a vessel.</td></tr>
 
-  PARIS
-     Captain, the swarm is gaining on us.
+<tr id="L286"><td><a href="#L286">286</a></td><td>KIM:  It's one of the swarm.</td></tr>
 
-  TUVOK
-     They will be in weapons range in five minutes.
+<tr id="L287"><td><a href="#L287">287</a></td><td>PARIS:  It was still attached to the freighter's hull.</td></tr>
 
-  JANEWAY
-     Battle stations.
+<tr id="L288"><td><a href="#L288">288</a></td><td>CHAKOTAY:  Red alert! Shields at maximum.</td></tr>
 
-  TUVOK
-     The ships are now within range, Captain, but I do
-     not detect any indication that they are powering
-     weapons.
+<tr id="L289"><td><a href="#L289">289</a></td><td>TUVOK:  They are scanning us, Captain.</td></tr>
 
-  JANEWAY
-     Do you have any idea what kind of weapon systems
-     they use?
+<tr id="L290"><td><a href="#L290">290</a></td><td>JANEWAY:  Hail them.</td></tr>
 
-  TUVOK
-     Negative. Sensors show no weapons signature at
-     all.
+<tr id="L291"><td><a href="#L291">291</a></td><td>TUVOK:  I am getting a response. Audio only.</td></tr>
 
-  PARIS
-     They're only one hundred thousand kilometres away
-     now.
+<tr id="L292"><td><a href="#L292">292</a></td><td>JANEWAY:  Harry, how are you coming with the universal translator?</td></tr>
 
-  JANEWAY
-     Arm all phaser banks.
+<tr id="L293"><td><a href="#L293">293</a></td><td>KIM:  I'm working on it.</td></tr>
 
-  TUVOK
-     Aye Captain.
+<tr id="L294"><td><a href="#L294">294</a></td><td>JANEWAY:  Let's see if they might be able to understand us.</td></tr>
 
-  KES
-     Captain.
+<tr id="L295"><td><a href="#L295">295</a></td><td>TUVOK:  Channel is open.</td></tr>
 
-  JANEWAY
-     Kes, what is it?
+<tr id="L296"><td><a href="#L296">296</a></td><td>JANEWAY:  This is Captain Kathryn Janeway of the Federation Starship Voyager. We only want to proceed peacefully through this region of space.</td></tr>
 
-  KES
-     The Doctor is getting worse. He's starting to
-     dematerialise. I'm afraid we're going to lose him
-     completely. I know B'Elanna is busy but I wondered
-     if Harry could take a look at him.
+<tr id="L297"><td><a href="#L297">297</a></td><td>CHAKOTAY:  Do you think they're trying to communicate?</td></tr>
 
-  JANEWAY
-     I'm sorry Kes, but we're in the middle of
-     something here and I need every hand at their
-     posts.
+<tr id="L298"><td><a href="#L298">298</a></td><td>JANEWAY:  Could be, but what they're trying to communicate is another question. Any progress, Harry?</td></tr>
 
-  KIM
-     Captain, they're only forty thousand kilometres
-     away. Still no weapons signature.
+<tr id="L299"><td><a href="#L299">299</a></td><td>KIM:  Getting a general idea, something like, too late, should have listened.</td></tr>
 
-  PARIS
-     Changing to evasive pattern gamma four.
+<tr id="L300"><td><a href="#L300">300</a></td><td>JANEWAY:  Report.</td></tr>
 
+<tr id="L301"><td><a href="#L301">301</a></td><td>KIM:  We've been hit with some sort kind of polaron burst.</td></tr>
 
-LOCATION--Turbolift
+<tr id="L302"><td><a href="#L302">302</a></td><td>TUVOK:  The energy expenditure was not high enough to cause any damage. It may not have been a weapon.</td></tr>
 
-  KES
-     Sickbay. Kes to Sickbay. How's the Doctor?
+<tr id="L303"><td><a href="#L303">303</a></td><td>PARIS:  Captain, that little ship is high-tailing it out of here.</td></tr>
 
-  CREWWOMAN [OC]
-     No improvement. He's still losing cohesion.
+<tr id="L304"><td><a href="#L304">304</a></td><td>JANEWAY:  So it scanned us, sent out a polaron burst that caused no damage and then took off.</td></tr>
 
-  KES
-     Computer, deck six.
+<tr id="L305"><td><a href="#L305">305</a></td><td>KIM:  Captain, the burst has changed the shield polarity. It's now rotating at ninety two gigahertz.</td></tr>
 
+<tr id="L306"><td><a href="#L306">306</a></td><td>JANEWAY:  That means if anyone wanted to find us it's a lot easier now.</td></tr>
 
-LOCATION--Corridor outside Holodeck  two
+<tr id="L307"><td><a href="#L307">307</a></td><td>CHAKOTAY:  I'll say. As far as anyone's sensors are concerned we're lit up like a Christmas tree.</td></tr>
 
-  KES
-     Computer, initiate the Jupiter Station diagnostic
-     programme.
+<tr id="L308"><td><a href="#L308">308</a></td><td>TUVOK:  Captain, the swarm of ships has powered their engines and turned toward us. They are in pursuit.</td></tr>
 
-  COMPUTER
-     Jupiter station programme is activated.
+<tr id="L309"><td><a href="#L309">309</a></td><td>JANEWAY:  Do what you can, Tom. We have a head start, we might be able to outrun them. Bridge to Engineering.</td></tr>
 
+<tr id="L310"><td><a href="#L310">310</a></td><td>TORRES [OC]:  Torres here.</td></tr>
 
-LOCATION--Holodeck - Jupiter Station
+<tr id="L311"><td><a href="#L311">311</a></td><td>JANEWAY:  How are you coming with the warp</td></tr>
 
-  ZIMMERMAN
-     You again. Now what?
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L312"><td><a href="#L312">312</a></td><td>JANEWAY [OC]:  drive, B'Elanna?</td></tr>
 
-  KES
-     The Doctor's programme is almost completely
-     degraded. We're going to lose him.
+<tr id="L313"><td><a href="#L313">313</a></td><td>TORRES:  I'm going to try realigning the dilithium matrix but we'll need to shut down the warp drive to do it.</td></tr>
 
-  Zimmermann
-     I'm not sure what you expect me to do about it.
+<tr id="L314"><td><a href="#L314">314</a></td><td>JANEWAY [OC]:  We can't shut down. The alien ships are headed towards us.</td></tr>
 
-  KES
-     I expect you to help. That's what you're
-     programmed to do, isn't it?
+<tr id="L315"><td><a href="#L315">315</a></td><td>TORRES:  I don't know if I can do this on the run, Captain, but I'll give it a try.</td></tr>
 
-  ZIMMERMAN
-     I have pointed out over and over, I am a
-     diagnostic tool, not an engineer.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L316"><td><a href="#L316">316</a></td><td>JANEWAY:  Do the best you can. Janeway out.</td></tr>
 
-  KES
-     You have to try. You're the only one who can help
-     now.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L317"><td><a href="#L317">317</a></td><td>TORRES:  Nicoletti, we're going to have to try a dilithium realignment on the fly. Let's try and figure out how to do it without killing everyone in engineering.</td></tr>
 
-  ZIMMERMAN
-     Young woman, you don't seem to understand there
-     are limitations to my programming. I can't just
-     decide to exceed them.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L318"><td><a href="#L318">318</a></td><td>EMH:  I fail to understand why I can't leave this room. Stand aside, young woman, or I will have you put on report!</td></tr>
 
-  KES
-     The Doctor did so, why can't you? You'd better
-     start trying because I'm not leaving here until we
-     accomplish something.
+<tr id="L319"><td><a href="#L319">319</a></td><td>KES:  Doctor, please, I'm just trying to keep you safe.</td></tr>
 
-  ZIMMERMAN
-     It, he means a great deal to you, doesn't he?
+<tr id="L320"><td><a href="#L320">320</a></td><td>EMH:  Others can leave, you can leave. Why can't I leave?</td></tr>
 
-  KES
-     Yes he does, so start thinking about his memory
-     circuits, his holo-processors, his database, his
-     matrix.
+<tr id="L321"><td><a href="#L321">321</a></td><td>KES:  Because your holoprojectors don't work in the corridor.</td></tr>
 
-  ZIMMERMAN
-     Why are you looking at me like that?
+<tr id="L322"><td><a href="#L322">322</a></td><td>EMH:  My what?</td></tr>
 
-  KES
-     You told me you had the same matrix as the Doctor.
+<tr id="L323"><td><a href="#L323">323</a></td><td>KES:  Please, sit down. Doctor, you know I'm your friend, right?</td></tr>
 
-  ZIMMERMAN
-     An adaptive heuristic matrix, yes, in order to
-     serve as a diagnostic for all the EMH programs.
+<tr id="L324"><td><a href="#L324">324</a></td><td>EMH:  Yes, you're Kes.</td></tr>
 
-  KES
-     Then couldn't your matrix be substituted for his?
+<tr id="L325"><td><a href="#L325">325</a></td><td>KES:  Yes, yes! Do you remember me?</td></tr>
 
-  ZIMMERMAN
-     I, I wouldn't have thought of that.
+<tr id="L326"><td><a href="#L326">326</a></td><td>EMH:  Of course I remember you. What an absurd question.</td></tr>
 
-  KES
-     But can it?
+<tr id="L327"><td><a href="#L327">327</a></td><td>KES:  Oh, that's wonderful.</td></tr>
 
-  ZIMMERMAN
-     I'm not sure. But even if it were possible, the
-     same degradation would eventually occur to my
-     matrix.
+<tr id="L328"><td><a href="#L328">328</a></td><td>EMH:  But why won't you let me leave this place?</td></tr>
 
-  KES
-     What if yours were grafted onto his.
+<tr id="L329"><td><a href="#L329">329</a></td><td>KES:  I'm trying to protect you.</td></tr>
 
-  ZIMMERMAN
-     Grafted?
+<tr id="L330"><td><a href="#L330">330</a></td><td>EMH:  Oh. Well, this isn't such a bad place. I remember there were a lot of people here, wounded people. I asked some one to state the nature of the medical emergency and then enquired as to the status of their Chief Medical Officer. He was dead. And then everyone disappeared.</td></tr>
 
-  KES
-     In medicine we sometimes graft portions of a
-     healthy bone onto a diseased one. It gives the
-     bone solidity until it can heal. Can we do
-     something like that with your matrices?
+<tr id="L331"><td><a href="#L331">331</a></td><td>KES:  I think that's when you were activated almost two years ago.</td></tr>
 
-  ZIMMERMAN
-     Well, it would require a synchronous transfer of
-     all the EMH databases and subroutines. Not an easy
-     process, mind you, but I suppose we could try.
+<tr id="L332"><td><a href="#L332">332</a></td><td>EMH:  Oh surely not. That seems like last week. And there was a young woman. I was rubbing her feet. She was trying to decide whether or not to have a child.</td></tr>
 
-  KES
-     Good. Let's get started.
+<tr id="L333"><td><a href="#L333">333</a></td><td>KES:  That was me.</td></tr>
 
-  ZIMMERMAN
-     I must point out that you would no longer have a
-     diagnostic programme for the EMH.
+<tr id="L334"><td><a href="#L334">334</a></td><td>EMH:  How could that be, I've never seen you before.</td></tr>
 
-  KES
-     If we don't do this we won't have an EMH to
-     diagnose.
+<tr id="L335"><td><a href="#L335">335</a></td><td>KES:  What else do you remember?</td></tr>
 
-  ZIMMERMAN
-     Good point. You'll have to return to sickbay and
-     transfer my programme there.
+<tr id="L336"><td><a href="#L336">336</a></td><td>EMH:  What a very odd question! I remember many things.</td></tr>
 
-  KES
-     Thank you, Doctor Zimmerman.
+<tr id="L337"><td><a href="#L337">337</a></td><td>KES:  Tell me. I enjoy hearing them.</td></tr>
 
-  ZIMMERMAN
-     Don't be premature. I have no idea if this is
-     going to work.
+<tr id="L338"><td><a href="#L338">338</a></td><td>EMH:  That doesn't seem to be the case. You find fault with everything I say.</td></tr>
 
+<tr id="L339"><td><a href="#L339">339</a></td><td>KES:  Doctor, don't think that.</td></tr>
 
-LOCATION--Bridge
+<tr id="L340"><td><a href="#L340">340</a></td><td>EMH:  You claim you're my friend but you don't even call me by my name!</td></tr>
 
-  KIM
-     Captain, our shield strength just went to zero.
+<tr id="L341"><td><a href="#L341">341</a></td><td>KES:  That's because you don't have a name!</td></tr>
 
-  CHAKOTAY
-     How did that happen?
+<tr id="L342"><td><a href="#L342">342</a></td><td>EMH:  No name? That's ridiculous! I, my, I demand you tell me my name! What, what's happening to me?</td></tr>
 
-  KIM
-     Each one of those little ships is emitting an
-     interferometric pulse. They're modulating in
-     opposition to our shield frequencies, completely
-     cancelling them out.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L343"><td><a href="#L343">343</a></td><td>PARIS:  Captain, the swarm is gaining on us.</td></tr>
 
-  JANEWAY
-     All right, that's enough. Tuvok, give them a
-     phaser sweep with the forward array. Don't destroy
-     any of them, just let them know we're not going to
-     sit here like ducks.
+<tr id="L344"><td><a href="#L344">344</a></td><td>TUVOK:  They will be in weapons range in five minutes.</td></tr>
 
-  TUVOK
-     Aye Captain.
+<tr id="L345"><td><a href="#L345">345</a></td><td>JANEWAY:  Battle stations.</td></tr>
 
-  JANEWAY
-     What was that?
+<tr id="L346"><td><a href="#L346">346</a></td><td>TUVOK:  The ships are now within range, Captain, but I do not detect any indication that they are powering weapons.</td></tr>
 
-  KIM
-     The interferometric pulses they're emitting.
-     They've reflected the energy of the phasers right
-     back to us.
+<tr id="L347"><td><a href="#L347">347</a></td><td>JANEWAY:  Do you have any idea what kind of weapon systems they use?</td></tr>
 
-  CHAKOTAY
-     Anything we fire is going to affect us instead of
-     them. What about a photon torpedo?
+<tr id="L348"><td><a href="#L348">348</a></td><td>TUVOK:  Negative. Sensors show no weapons signature at all.</td></tr>
 
-  TUVOK
-     Since our shield strength is non-existent, I would
-     not recommend it.
+<tr id="L349"><td><a href="#L349">349</a></td><td>PARIS:  They're only one hundred thousand kilometres away now.</td></tr>
 
-  PARIS
-     They're only seven thousand kilometres away and
-     still coming.
+<tr id="L350"><td><a href="#L350">350</a></td><td>JANEWAY:  Arm all phaser banks.</td></tr>
 
-  JANEWAY
-     Harry, start analysing those interferometric
-     pulses. See if there's any pattern, any code to
-     them. We might be able to find a weakness.
+<tr id="L351"><td><a href="#L351">351</a></td><td>TUVOK:  Aye Captain.</td></tr>
 
-  KIM
-     I'm on it.
+<tr id="L352"><td><a href="#L352">352</a></td><td>KES:  Captain.</td></tr>
 
+<tr id="L353"><td><a href="#L353">353</a></td><td>JANEWAY:  Kes, what is it?</td></tr>
 
-LOCATION--Sickbay
+<tr id="L354"><td><a href="#L354">354</a></td><td>KES:  The Doctor is getting worse. He's starting to dematerialise. I'm afraid we're going to lose him completely. I know B'Elanna is busy but I wondered if Harry could take a look at him.</td></tr>
 
-  ZIMMERMAN
-     I'm increasingly dubious as to the outcome of this
-     effort. The EMH pathways are seriously degraded.
-     They might not accept a matrix overlay.
+<tr id="L355"><td><a href="#L355">355</a></td><td>JANEWAY:  I'm sorry Kes, but we're in the middle of something here and I need every hand at their posts.</td></tr>
 
-  KES
-     We have to try. Please hurry.
+<tr id="L356"><td><a href="#L356">356</a></td><td>KIM:  Captain, they're only forty thousand kilometres away. Still no weapons signature.</td></tr>
 
-  ZIMMERMAN
-     I assure you I'm working as quickly as I can. If I
-     don't prepare the multitronic paths properly
-     there's no chance of success.
+<tr id="L357"><td><a href="#L357">357</a></td><td>PARIS:  Changing to evasive pattern gamma four.</td></tr>
 
-  KES
-     It's going to work, Doctor. I'm sure of it.
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L358"><td><a href="#L358">358</a></td><td>KES:  Sickbay. Kes to Sickbay. How's the Doctor?</td></tr>
 
-  EMH
-     What is?
+<tr id="L359"><td><a href="#L359">359</a></td><td>CREWWOMAN [OC]:  No improvement. He's still losing cohesion.</td></tr>
 
-  ZIMMERMAN
-     Very well. We're as ready as we'll ever be. I've
-     programmed the computer to install my heuristic
-     matrix onto the EMH primary circuitry. We'll both
-     have to be taken off line for the overlay to be
-     made. After the re-initialisation occurs you
-     should activate the Emergency Medical Hologram.
+<tr id="L360"><td><a href="#L360">360</a></td><td>KES:  Computer, deck six.</td></tr>
 
-  KES
-     I understand.
+<tr><td></td><td>LOCATION--Corridor outside Holodeck  two</td></tr>
+<tr id="L361"><td><a href="#L361">361</a></td><td>KES:  Computer, initiate the Jupiter Station diagnostic programme.</td></tr>
 
-  ZIMMERMAN
-     You realise there will be no second chance. After
-     this, I will no longer exist. Well, it's been a
-     brief existence but apparently a noble one.
-     Computer, initiate programme Zimmerman alpha one.
+<tr id="L362"><td><a href="#L362">362</a></td><td>COMPUTER:  Jupiter station programme is activated.</td></tr>
 
-  COMPUTER
-     Matrix overlay programme is active. Please stand
-     by.
+<tr><td></td><td>LOCATION--Holodeck - Jupiter Station</td></tr>
+<tr id="L363"><td><a href="#L363">363</a></td><td>ZIMMERMAN:  You again. Now what?</td></tr>
 
+<tr id="L364"><td><a href="#L364">364</a></td><td>KES:  The Doctor's programme is almost completely degraded. We're going to lose him.</td></tr>
 
-LOCATION--Bridge
+<tr id="L365"><td><a href="#L365">365</a></td><td>Zimmermann:  I'm not sure what you expect me to do about it.</td></tr>
 
-  PARIS
-     Captain, they're right on top of us. I can't shake
-     them.
+<tr id="L366"><td><a href="#L366">366</a></td><td>KES:  I expect you to help. That's what you're programmed to do, isn't it?</td></tr>
 
-  TUVOK
-     Captain, they are clamping onto our hull.
+<tr id="L367"><td><a href="#L367">367</a></td><td>ZIMMERMAN:  I have pointed out over and over, I am a diagnostic tool, not an engineer.</td></tr>
 
-  CHAKOTAY
-     They're starting to drain our systems.
+<tr id="L368"><td><a href="#L368">368</a></td><td>KES:  You have to try. You're the only one who can help now.</td></tr>
 
-  KIM
-     Captain, I've got a pattern on the interferometric
-     pulses. It's a lattice, connecting all the ships
-     to each other.
+<tr id="L369"><td><a href="#L369">369</a></td><td>ZIMMERMAN:  Young woman, you don't seem to understand there are limitations to my programming. I can't just decide to exceed them.</td></tr>
 
-  JANEWAY
-     All right, here's what we're going to do. Turn
-     those pulses right back on them. Tuvok, lock
-     phasers on their nearest ship. If we can destroy
-     one of them, there's every chance the
-     interferometric pulse that links them together
-     will cause a chain reaction.
+<tr id="L370"><td><a href="#L370">370</a></td><td>KES:  The Doctor did so, why can't you? You'd better start trying because I'm not leaving here until we accomplish something.</td></tr>
 
-  TUVOK
-     But the phaser fire will be reflected back toward
-     us.
+<tr id="L371"><td><a href="#L371">371</a></td><td>ZIMMERMAN:  It, he means a great deal to you, doesn't he?</td></tr>
 
-  JANEWAY
-     Harry, modulate our shields to an inverse harmonic
-     of the pulse. That should allow the phasers to hit
-     the ship.
+<tr id="L372"><td><a href="#L372">372</a></td><td>KES:  Yes he does, so start thinking about his memory circuits, his holo-processors, his database, his matrix.</td></tr>
 
-  TUVOK
-     Ship's phasers are locked on a target, Captain.
+<tr id="L373"><td><a href="#L373">373</a></td><td>ZIMMERMAN:  Why are you looking at me like that?</td></tr>
 
-  JANEWAY
-     Tuvok! Harry! Do it!
+<tr id="L374"><td><a href="#L374">374</a></td><td>KES:  You told me you had the same matrix as the Doctor.</td></tr>
 
-  TUVOK
-     The swarm of ships has disbanded, Captain. They
-     are moving away.
+<tr id="L375"><td><a href="#L375">375</a></td><td>ZIMMERMAN:  An adaptive heuristic matrix, yes, in order to serve as a diagnostic for all the EMH programs.</td></tr>
 
-  KIM
-     Shields are back to full strength.
+<tr id="L376"><td><a href="#L376">376</a></td><td>KES:  Then couldn't your matrix be substituted for his?</td></tr>
 
-  JANEWAY
-     Good work every one. Now let's get out of here.
+<tr id="L377"><td><a href="#L377">377</a></td><td>ZIMMERMAN:  I, I wouldn't have thought of that.</td></tr>
 
+<tr id="L378"><td><a href="#L378">378</a></td><td>KES:  But can it?</td></tr>
 
-LOCATION--Sickbay
+<tr id="L379"><td><a href="#L379">379</a></td><td>ZIMMERMAN:  I'm not sure. But even if it were possible, the same degradation would eventually occur to my matrix.</td></tr>
 
-  KES
-     It seems to be taking forever.
+<tr id="L380"><td><a href="#L380">380</a></td><td>KES:  What if yours were grafted onto his.</td></tr>
 
-  TORRES
-     That's to be expected. It's a complex procedure.
+<tr id="L381"><td><a href="#L381">381</a></td><td>ZIMMERMAN:  Grafted?</td></tr>
 
-  KES
-     Doctor Zimmerman said he didn't know if our Doctor
-     would be restored to his programming or he'd
-     regain the memories of the past two years.
+<tr id="L382"><td><a href="#L382">382</a></td><td>KES:  In medicine we sometimes graft portions of a healthy bone onto a diseased one. It gives the bone solidity until it can heal. Can we do something like that with your matrices?</td></tr>
 
-  TORRES
-     I think at this point we'd be glad to have him
-     back no matter what.
+<tr id="L383"><td><a href="#L383">383</a></td><td>ZIMMERMAN:  Well, it would require a synchronous transfer of all the EMH databases and subroutines. Not an easy process, mind you, but I suppose we could try.</td></tr>
 
-  COMPUTER
-     Zimmerman programme alpha one is now complete.
+<tr id="L384"><td><a href="#L384">384</a></td><td>KES:  Good. Let's get started.</td></tr>
 
-  KES
-     Computer, activate Emergency Medical Holographic
-     Programme.
+<tr id="L385"><td><a href="#L385">385</a></td><td>ZIMMERMAN:  I must point out that you would no longer have a diagnostic programme for the EMH.</td></tr>
 
-  EMH
-     Please state the nature of the medical emergency.
+<tr id="L386"><td><a href="#L386">386</a></td><td>KES:  If we don't do this we won't have an EMH to diagnose.</td></tr>
 
-  KES
-     It worked! Doctor, I am so glad to see you.
+<tr id="L387"><td><a href="#L387">387</a></td><td>ZIMMERMAN:  Good point. You'll have to return to sickbay and transfer my programme there.</td></tr>
 
-  EMH
-     Are you ill, young woman?
+<tr id="L388"><td><a href="#L388">388</a></td><td>KES:  Thank you, Doctor Zimmerman.</td></tr>
 
-  KES
-     No. No, there's no emergency. I, er, I just wanted
-     to see if you were all right.
+<tr id="L389"><td><a href="#L389">389</a></td><td>ZIMMERMAN:  Don't be premature. I have no idea if this is going to work.</td></tr>
 
-  EMH
-     It is very irresponsible to make such frivolous
-     use of the EMH. Where's your Chief Medical
-     Officer?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L390"><td><a href="#L390">390</a></td><td>KIM:  Captain, our shield strength just went to zero.</td></tr>
 
-  KES
-     We don't have one.
+<tr id="L391"><td><a href="#L391">391</a></td><td>CHAKOTAY:  How did that happen?</td></tr>
 
-  TORRES
-     Actually I have an awful headache.
+<tr id="L392"><td><a href="#L392">392</a></td><td>KIM:  Each one of those little ships is emitting an interferometric pulse. They're modulating in opposition to our shield frequencies, completely cancelling them out.</td></tr>
 
-  EMH
-     A headache. Nurse, tricorder. You're the nurse?
+<tr id="L393"><td><a href="#L393">393</a></td><td>JANEWAY:  All right, that's enough. Tuvok, give them a phaser sweep with the forward array. Don't destroy any of them, just let them know we're not going to sit here like ducks.</td></tr>
 
-  KES
-     In a way.
+<tr id="L394"><td><a href="#L394">394</a></td><td>TUVOK:  Aye Captain.</td></tr>
 
-  EMH
-     This woman has a mild inflammation of the
-     occipital tissues. Hardly enough to complain about
-     but I'm willing to give you a mild analgesic.
+<tr id="L395"><td><a href="#L395">395</a></td><td>JANEWAY:  What was that?</td></tr>
 
-  TORRES
-     Thank you.
+<tr id="L396"><td><a href="#L396">396</a></td><td>KIM:  The interferometric pulses they're emitting. They've reflected the energy of the phasers right back to us.</td></tr>
 
-  EMH
-     Get me the vasal constrictor and prepare a
-     hypo-spray with three percent hydrocortaline.
+<tr id="L397"><td><a href="#L397">397</a></td><td>CHAKOTAY:  Anything we fire is going to affect us instead of them. What about a photon torpedo?</td></tr>
 
-  KES
-     Yes sir.
+<tr id="L398"><td><a href="#L398">398</a></td><td>TUVOK:  Since our shield strength is non-existent, I would not recommend it.</td></tr>
 
-  EMH
-     (hums the tune then sings) il sogno ch'io vorrei
-     sempre sognar!
+<tr id="L399"><td><a href="#L399">399</a></td><td>PARIS:  They're only seven thousand kilometres away and still coming.</td></tr>
 
+<tr id="L400"><td><a href="#L400">400</a></td><td>JANEWAY:  Harry, start analysing those interferometric pulses. See if there's any pattern, any code to them. We might be able to find a weakness.</td></tr>
 
-END CREDITS
+<tr id="L401"><td><a href="#L401">401</a></td><td>KIM:  I'm on it.</td></tr>
+
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L402"><td><a href="#L402">402</a></td><td>ZIMMERMAN:  I'm increasingly dubious as to the outcome of this effort. The EMH pathways are seriously degraded. They might not accept a matrix overlay.</td></tr>
+
+<tr id="L403"><td><a href="#L403">403</a></td><td>KES:  We have to try. Please hurry.</td></tr>
+
+<tr id="L404"><td><a href="#L404">404</a></td><td>ZIMMERMAN:  I assure you I'm working as quickly as I can. If I don't prepare the multitronic paths properly there's no chance of success.</td></tr>
+
+<tr id="L405"><td><a href="#L405">405</a></td><td>KES:  It's going to work, Doctor. I'm sure of it.</td></tr>
+
+<tr id="L406"><td><a href="#L406">406</a></td><td>EMH:  What is?</td></tr>
+
+<tr id="L407"><td><a href="#L407">407</a></td><td>ZIMMERMAN:  Very well. We're as ready as we'll ever be. I've programmed the computer to install my heuristic matrix onto the EMH primary circuitry. We'll both have to be taken off line for the overlay to be made. After the re-initialisation occurs you should activate the Emergency Medical Hologram.</td></tr>
+
+<tr id="L408"><td><a href="#L408">408</a></td><td>KES:  I understand.</td></tr>
+
+<tr id="L409"><td><a href="#L409">409</a></td><td>ZIMMERMAN:  You realise there will be no second chance. After this, I will no longer exist. Well, it's been a brief existence but apparently a noble one. Computer, initiate programme Zimmerman alpha one.</td></tr>
+
+<tr id="L410"><td><a href="#L410">410</a></td><td>COMPUTER:  Matrix overlay programme is active. Please stand by.</td></tr>
+
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L411"><td><a href="#L411">411</a></td><td>PARIS:  Captain, they're right on top of us. I can't shake them.</td></tr>
+
+<tr id="L412"><td><a href="#L412">412</a></td><td>TUVOK:  Captain, they are clamping onto our hull.</td></tr>
+
+<tr id="L413"><td><a href="#L413">413</a></td><td>CHAKOTAY:  They're starting to drain our systems.</td></tr>
+
+<tr id="L414"><td><a href="#L414">414</a></td><td>KIM:  Captain, I've got a pattern on the interferometric pulses. It's a lattice, connecting all the ships to each other.</td></tr>
+
+<tr id="L415"><td><a href="#L415">415</a></td><td>JANEWAY:  All right, here's what we're going to do. Turn those pulses right back on them. Tuvok, lock phasers on their nearest ship. If we can destroy one of them, there's every chance the interferometric pulse that links them together will cause a chain reaction.</td></tr>
+
+<tr id="L416"><td><a href="#L416">416</a></td><td>TUVOK:  But the phaser fire will be reflected back toward us.</td></tr>
+
+<tr id="L417"><td><a href="#L417">417</a></td><td>JANEWAY:  Harry, modulate our shields to an inverse harmonic of the pulse. That should allow the phasers to hit the ship.</td></tr>
+
+<tr id="L418"><td><a href="#L418">418</a></td><td>TUVOK:  Ship's phasers are locked on a target, Captain.</td></tr>
+
+<tr id="L419"><td><a href="#L419">419</a></td><td>JANEWAY:  Tuvok! Harry! Do it!</td></tr>
+
+<tr id="L420"><td><a href="#L420">420</a></td><td>TUVOK:  The swarm of ships has disbanded, Captain. They are moving away.</td></tr>
+
+<tr id="L421"><td><a href="#L421">421</a></td><td>KIM:  Shields are back to full strength.</td></tr>
+
+<tr id="L422"><td><a href="#L422">422</a></td><td>JANEWAY:  Good work every one. Now let's get out of here.</td></tr>
+
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L423"><td><a href="#L423">423</a></td><td>KES:  It seems to be taking forever.</td></tr>
+
+<tr id="L424"><td><a href="#L424">424</a></td><td>TORRES:  That's to be expected. It's a complex procedure.</td></tr>
+
+<tr id="L425"><td><a href="#L425">425</a></td><td>KES:  Doctor Zimmerman said he didn't know if our Doctor would be restored to his programming or he'd regain the memories of the past two years.</td></tr>
+
+<tr id="L426"><td><a href="#L426">426</a></td><td>TORRES:  I think at this point we'd be glad to have him back no matter what.</td></tr>
+
+<tr id="L427"><td><a href="#L427">427</a></td><td>COMPUTER:  Zimmerman programme alpha one is now complete.</td></tr>
+
+<tr id="L428"><td><a href="#L428">428</a></td><td>KES:  Computer, activate Emergency Medical Holographic Programme.</td></tr>
+
+<tr id="L429"><td><a href="#L429">429</a></td><td>EMH:  Please state the nature of the medical emergency.</td></tr>
+
+<tr id="L430"><td><a href="#L430">430</a></td><td>KES:  It worked! Doctor, I am so glad to see you.</td></tr>
+
+<tr id="L431"><td><a href="#L431">431</a></td><td>EMH:  Are you ill, young woman?</td></tr>
+
+<tr id="L432"><td><a href="#L432">432</a></td><td>KES:  No. No, there's no emergency. I, er, I just wanted to see if you were all right.</td></tr>
+
+<tr id="L433"><td><a href="#L433">433</a></td><td>EMH:  It is very irresponsible to make such frivolous use of the EMH. Where's your Chief Medical Officer?</td></tr>
+
+<tr id="L434"><td><a href="#L434">434</a></td><td>KES:  We don't have one.</td></tr>
+
+<tr id="L435"><td><a href="#L435">435</a></td><td>TORRES:  Actually I have an awful headache.</td></tr>
+
+<tr id="L436"><td><a href="#L436">436</a></td><td>EMH:  A headache. Nurse, tricorder. You're the nurse?</td></tr>
+
+<tr id="L437"><td><a href="#L437">437</a></td><td>KES:  In a way.</td></tr>
+
+<tr id="L438"><td><a href="#L438">438</a></td><td>EMH:  This woman has a mild inflammation of the occipital tissues. Hardly enough to complain about but I'm willing to give you a mild analgesic.</td></tr>
+
+<tr id="L439"><td><a href="#L439">439</a></td><td>TORRES:  Thank you.</td></tr>
+
+<tr id="L440"><td><a href="#L440">440</a></td><td>EMH:  Get me the vasal constrictor and prepare a hypo-spray with three percent hydrocortaline.</td></tr>
+
+<tr id="L441"><td><a href="#L441">441</a></td><td>KES:  Yes sir.</td></tr>
+
+<tr id="L442"><td><a href="#L442">442</a></td><td>EMH:  (hums the tune then sings) il sogno ch'io vorrei sempre sognar!</td></tr>
+
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

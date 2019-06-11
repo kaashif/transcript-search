@@ -1,1823 +1,890 @@
-A Matter of Time
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>A Matter of Time</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>LAFORGE:  I'm afraid the numbers coming in are already indicating climatic changes, Commander.</td></tr>
 
-LOCATION--Engineering
+<tr id="L2"><td><a href="#L2">2</a></td><td>RIKER:  What kind of drop can we expect?</td></tr>
 
-  LAFORGE
-     I'm afraid the numbers coming in are already
-     indicating climatic changes, Commander.
+<tr id="L3"><td><a href="#L3">3</a></td><td>DATA:  If the Pentharan spheral forecasts are correct, ten to twelve degrees Celsius within the first ten days.</td></tr>
 
-  RIKER
-     What kind of drop can we expect?
+<tr id="L4"><td><a href="#L4">4</a></td><td>LAFORGE:  If it continues like that, their entire ecosystem will be shot to hell.</td></tr>
 
-  DATA
-     If the Pentharan spheral forecasts are correct,
-     ten to twelve degrees Celsius within the first ten
-     days.
+<tr id="L5"><td><a href="#L5">5</a></td><td>RIKER:  And I doubt they're prepared to cope with the kind of cold that's coming.</td></tr>
 
-  LAFORGE
-     If it continues like that, their entire ecosystem
-     will be shot to hell.
+<tr id="L6"><td><a href="#L6">6</a></td><td>PICARD [OC]:  Commander Riker.</td></tr>
 
-  RIKER
-     And I doubt they're prepared to cope with the kind
-     of cold that's coming.
+<tr id="L7"><td><a href="#L7">7</a></td><td>RIKER:  Yes, sir.</td></tr>
 
-  PICARD [OC]
-     Commander Riker.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L8"><td><a href="#L8">8</a></td><td>PICARD:  Would you join me on the bridge, please.</td></tr>
 
-  RIKER
-     Yes, sir.
+<tr id="L9"><td><a href="#L9">9</a></td><td>RIKER [OC]:  Right away, sir.</td></tr>
 
+<tr id="L10"><td><a href="#L10">10</a></td><td>PICARD:  Are you certain, Mister Worf?</td></tr>
 
-LOCATION--Bridge
+<tr id="L11"><td><a href="#L11">11</a></td><td>WORF:  There was a space-time distortion, sir, and there is something back there. We passed within three hundred kilometres of it.</td></tr>
 
-  PICARD
-     Would you join me on the bridge, please.
+<tr id="L12"><td><a href="#L12">12</a></td><td>PICARD:  It's too close to be a coincidence. Mister La Forge?</td></tr>
 
-  RIKER [OC]
-     Right away, sir.
+<tr id="L13"><td><a href="#L13">13</a></td><td>LAFORGE [OC]:  Yes, Captain?</td></tr>
 
-  PICARD
-     Are you certain, Mister Worf?
+<tr id="L14"><td><a href="#L14">14</a></td><td>PICARD:  Would a delay of one hour affect your plans?</td></tr>
 
-  WORF
-     There was a space-time distortion, sir, and there
-     is something back there. We passed within three
-     hundred kilometres of it.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L15"><td><a href="#L15">15</a></td><td>LAFORGE:  Not unless another asteroid decides to pay a call on Penthara, sir.</td></tr>
 
-  PICARD
-     It's too close to be a coincidence. Mister La
-     Forge?
+<tr id="L16"><td><a href="#L16">16</a></td><td>DATA:  The odds of that occurring, Captain, are extremely unlikely, given the time frame.</td></tr>
 
-  LAFORGE [OC]
-     Yes, Captain?
+<tr id="L17"><td><a href="#L17">17</a></td><td>PICARD [OC]:  Thank you, Mister Data.</td></tr>
 
-  PICARD
-     Would a delay of one hour affect your plans?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L18"><td><a href="#L18">18</a></td><td>PICARD:  Ensign, bring the ship about. Let's take a look at Mister Worf's distortion.</td></tr>
 
+<tr id="L19"><td><a href="#L19">19</a></td><td>ENSIGN:  Aye, sir.</td></tr>
 
-LOCATION--Engineering
+<tr id="L20"><td><a href="#L20">20</a></td><td>RIKER:  Mister Worf's what?</td></tr>
 
-  LAFORGE
-     Not unless another asteroid decides to pay a call
-     on Penthara, sir.
+<tr id="L21"><td><a href="#L21">21</a></td><td>PICARD:  The Lieutenant's sensors detected a temporal distortion almost in our current course. There's a small object back there that wasn't there a few moments ago.</td></tr>
 
-  DATA
-     The odds of that occurring, Captain, are extremely
-     unlikely, given the time frame.
+<tr id="L22"><td><a href="#L22">22</a></td><td>WORF:  The object is fifty kilometres ahead, sir.</td></tr>
 
-  PICARD [OC]
-     Thank you, Mister Data.
+<tr id="L23"><td><a href="#L23">23</a></td><td>PICARD:  Full stop, Ensign.</td></tr>
 
+<tr id="L24"><td><a href="#L24">24</a></td><td>ENSIGN:  Aye, sir.</td></tr>
 
-LOCATION--Bridge
+<tr id="L25"><td><a href="#L25">25</a></td><td>PICARD:  On screen.</td></tr>
 
-  PICARD
-     Ensign, bring the ship about. Let's take a look at
-     Mister Worf's distortion.
+<tr id="L26"><td><a href="#L26">26</a></td><td>RIKER:  Dimensions, Worf?</td></tr>
 
-  ENSIGN
-     Aye, sir.
+<tr id="L27"><td><a href="#L27">27</a></td><td>WORF:  Approximately five metres in length, sir.</td></tr>
 
-  RIKER
-     Mister Worf's what?
+<tr id="L28"><td><a href="#L28">28</a></td><td>PICARD:  Lifesigns?</td></tr>
 
-  PICARD
-     The Lieutenant's sensors detected a temporal
-     distortion almost in our current course. There's a
-     small object back there that wasn't there a few
-     moments ago.
+<tr id="L29"><td><a href="#L29">29</a></td><td>WORF:  No signs of any kind. Our sensors do not penetrate the hull.</td></tr>
 
-  WORF
-     The object is fifty kilometres ahead, sir.
+<tr id="L30"><td><a href="#L30">30</a></td><td>PICARD:  Try hailing it.</td></tr>
 
-  PICARD
-     Full stop, Ensign.
+<tr id="L31"><td><a href="#L31">31</a></td><td>WORF:  That's odd.</td></tr>
 
-  ENSIGN
-     Aye, sir.
+<tr id="L32"><td><a href="#L32">32</a></td><td>RIKER:  What's odd?</td></tr>
 
-  PICARD
-     On screen.
+<tr id="L33"><td><a href="#L33">33</a></td><td>WORF:  We've received a response, sir, but</td></tr>
 
-  RIKER
-     Dimensions, Worf?
+<tr id="L34"><td><a href="#L34">34</a></td><td>PICARD:  Yes, Mister Worf?</td></tr>
 
-  WORF
-     Approximately five metres in length, sir.
+<tr id="L35"><td><a href="#L35">35</a></td><td>WORF:  They want you to move over, sir.</td></tr>
 
-  PICARD
-     Lifesigns?
+<tr id="L36"><td><a href="#L36">36</a></td><td>PICARD:  Reply that the Enterprise isn't going anywhere, Lieutenant.</td></tr>
 
-  WORF
-     No signs of any kind. Our sensors do not penetrate
-     the hull.
+<tr id="L37"><td><a href="#L37">37</a></td><td>WORF:  Not the Enterprise, Captain. You.</td></tr>
 
-  PICARD
-     Try hailing it.
+<tr id="L38"><td><a href="#L38">38</a></td><td>PICARD:  What are you trying to tell me?</td></tr>
 
-  WORF
-     That's odd.
+<tr id="L39"><td><a href="#L39">39</a></td><td>ANNOTATION: and as Picard walks back towards Worf a figure appears where he was standing</td></tr>
 
-  RIKER
-     What's odd?
+<tr id="L40"><td><a href="#L40">40</a></td><td>RASMUSSEN:  Oops. Excuse me, Captain, but you were standing right where I needed to be.</td></tr>
 
-  WORF
-     We've received a response, sir, but
+<tr id="L41"><td><a href="#L41">41</a></td><td>PICARD:  Who are you?</td></tr>
 
-  PICARD
-     Yes, Mister Worf?
+<tr id="L42"><td><a href="#L42">42</a></td><td>RASMUSSEN:  Rasmussen's the name, sir. Professor Berlinghoff Rasmussen. Ah, this is wonderful. Actually, quite a bit larger than I thought.</td></tr>
 
-  WORF
-     They want you to move over, sir.
+<tr id="L43"><td><a href="#L43">43</a></td><td>PICARD:  Really?</td></tr>
 
-  PICARD
-     Reply that the Enterprise isn't going anywhere,
-     Lieutenant.
+<tr id="L44"><td><a href="#L44">44</a></td><td>RASMUSSEN:  Where I come from, every historian knows the bridge of old 1701D.</td></tr>
 
-  WORF
-     Not the Enterprise, Captain. You.
+<tr id="L45"><td><a href="#L45">45</a></td><td>PICARD:  Where exactly do you come from?</td></tr>
 
-  PICARD
-     What are you trying to tell me?
+<tr id="L46"><td><a href="#L46">46</a></td><td>RASMUSSEN:  Why, Earth. Late twenty sixth century Earth, to be exact. I've travelled back nearly three hundred years just to find you.</td></tr>
 
-  ANNOTATION
-     and as Picard walks back towards Worf a figure
-     appears where he was standing
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L47"><td><a href="#L47">47</a></td><td>ANNOTATION: the lanky man is peering at a book on a stand - Shakespeare I presume</td></tr>
 
-  RASMUSSEN
-     Oops. Excuse me, Captain, but you were standing
-     right where I needed to be.
+<tr id="L48"><td><a href="#L48">48</a></td><td>PICARD:  Exactly what kind of historian are you?</td></tr>
 
-  PICARD
-     Who are you?
+<tr id="L49"><td><a href="#L49">49</a></td><td>RASMUSSEN:  My focus is on the twenty second through the twenty fourth centuries. Early interstellar history. You know, it was always believed this was on your desk, not here. Fascinating. Don't move it on my account.</td></tr>
 
-  RASMUSSEN
-     Rasmussen's the name, sir. Professor Berlinghoff
-     Rasmussen. Ah, this is wonderful. Actually, quite
-     a bit larger than I thought.
+<tr id="L50"><td><a href="#L50">50</a></td><td>PICARD:  You can't expect me to believe that the layout of my ready room can possibly be of interest to future historians.</td></tr>
 
-  PICARD
-     Really?
+<tr id="L51"><td><a href="#L51">51</a></td><td>RASMUSSEN:  No less so than your legendary modesty, Captain. If I could describe to you what a thrill it is to be here. (points at painting) This is the original.</td></tr>
 
-  RASMUSSEN
-     Where I come from, every historian knows the
-     bridge of old 1701D.
+<tr id="L52"><td><a href="#L52">52</a></td><td>PICARD:  You flatter me Professor, but I can't help but wonder what could possibly have caused you to select me as the subject of your study. Even in this decade, there are far wiser and more experienced humans in and out of Starfleet.</td></tr>
 
-  PICARD
-     Where exactly do you come from?
+<tr id="L53"><td><a href="#L53">53</a></td><td>RASMUSSEN:  I'd love to tell you, Picard. I really would, but try and imagine what a young Caesar might have done differently had someone had given him a hint of what lay ahead, or if Lincoln had been coerced into changing his theatre plans. I truly wish I could be more specific on why you were selected, but I'm afraid the exchange of information will have to flow in one direction only. (paces out the room) Five, six, seven metres. Ha! I was right.</td></tr>
 
-  RASMUSSEN
-     Why, Earth. Late twenty sixth century Earth, to be
-     exact. I've travelled back nearly three hundred
-     years just to find you.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L54"><td><a href="#L54">54</a></td><td>WORF:  Why now?</td></tr>
 
+<tr id="L55"><td><a href="#L55">55</a></td><td>LAFORGE:  Right. If you've came back to study us, to study the captain, why would you pick today? Why not a year ago or a year from now?</td></tr>
 
-LOCATION--Ready room
-
-  ANNOTATION
-     the lanky man is peering at a book on a stand -
-     Shakespeare I presume
-
-  PICARD
-     Exactly what kind of historian are you?
+<tr id="L56"><td><a href="#L56">56</a></td><td>RASMUSSEN:  Oh, I picked the right day all right. Just wait, you'll see. Do you always sit there, on that side of the table?</td></tr>
 
-  RASMUSSEN
-     My focus is on the twenty second through the
-     twenty fourth centuries. Early interstellar
-     history. You know, it was always believed this was
-     on your desk, not here. Fascinating. Don't move it
-     on my account.
+<tr id="L57"><td><a href="#L57">57</a></td><td>WORF:  Usually. Why?</td></tr>
 
-  PICARD
-     You can't expect me to believe that the layout of
-     my ready room can possibly be of interest to
-     future historians.
+<tr id="L58"><td><a href="#L58">58</a></td><td>RASMUSSEN:  It's not important.</td></tr>
 
-  RASMUSSEN
-     No less so than your legendary modesty, Captain.
-     If I could describe to you what a thrill it is to
-     be here. (points at painting) This is the
-     original.
+<tr id="L59"><td><a href="#L59">59</a></td><td>RIKER:  Professor, at what point does time travel become a tool for historians?</td></tr>
 
-  PICARD
-     You flatter me Professor, but I can't help but
-     wonder what could possibly have caused you to
-     select me as the subject of your study. Even in
-     this decade, there are far wiser and more
-     experienced humans in and out of Starfleet.
+<tr id="L60"><td><a href="#L60">60</a></td><td>RASMUSSEN:  Now, now, Commander, you know better than that. I've studied a great deal about your century, including the fact that you're all quite aware of the dangers of anyone altering the past, and that's exactly what I'd be doing if I were to divulge information like that.</td></tr>
 
-  RASMUSSEN
-     I'd love to tell you, Picard. I really would, but
-     try and imagine what a young Caesar might have
-     done differently had someone had given him a hint
-     of what lay ahead, or if Lincoln had been coerced
-     into changing his theatre plans. I truly wish I
-     could be more specific on why you were selected,
-     but I'm afraid the exchange of information will
-     have to flow in one direction only. (paces out the
-     room) Five, six, seven metres. Ha! I was right.
+<tr id="L61"><td><a href="#L61">61</a></td><td>CRUSHER:  Telurian plague.</td></tr>
 
+<tr id="L62"><td><a href="#L62">62</a></td><td>RASMUSSEN:  I beg your pardon?</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L63"><td><a href="#L63">63</a></td><td>CRUSHER:  The telurian plague. Was it cured? I mean, did they find the cure by your century? Oh, it can't do any harm to ask that.</td></tr>
 
-  WORF
-     Why now?
+<tr id="L64"><td><a href="#L64">64</a></td><td>PICARD:  I realise that it's difficult, but we must keep to ourselves questions regarding the future. Go on, Professor.</td></tr>
 
-  LAFORGE
-     Right. If you've came back to study us, to study
-     the captain, why would you pick today? Why not a
-     year ago or a year from now?
+<tr id="L65"><td><a href="#L65">65</a></td><td>RASMUSSEN:  I'll be preparing questionnaires for each of you. Please complete them at your convenience. If you're concerned about a possible breach of security, I'm sure your Captain can make a determination. And thank you in advance for curbing your curiosity.</td></tr>
 
-  RASMUSSEN
-     Oh, I picked the right day all right. Just wait,
-     you'll see. Do you always sit there, on that side
-     of the table?
+<tr id="L66"><td><a href="#L66">66</a></td><td>LAFORGE:  If I hand my assignment in on time, can I get a glimpse into next week's poker game?</td></tr>
 
-  WORF
-     Usually. Why?
+<tr id="L67"><td><a href="#L67">67</a></td><td>PICARD:  Mister Data, would you escort the Professor to his quarters.</td></tr>
 
-  RASMUSSEN
-     It's not important.
+<tr id="L68"><td><a href="#L68">68</a></td><td>DATA:  This way, sir.</td></tr>
 
-  RIKER
-     Professor, at what point does time travel become a
-     tool for historians?
+<tr id="L69"><td><a href="#L69">69</a></td><td>ANNOTATION: Data and Rasmussen leave</td></tr>
 
-  RASMUSSEN
-     Now, now, Commander, you know better than that.
-     I've studied a great deal about your century,
-     including the fact that you're all quite aware of
-     the dangers of anyone altering the past, and
-     that's exactly what I'd be doing if I were to
-     divulge information like that.
+<tr id="L70"><td><a href="#L70">70</a></td><td>RIKER:  What did he mean, he picked the right day?</td></tr>
 
-  CRUSHER
-     Telurian plague.
+<tr id="L71"><td><a href="#L71">71</a></td><td>PICARD:  You know everything I do, Will.</td></tr>
 
-  RASMUSSEN
-     I beg your pardon?
+<tr id="L72"><td><a href="#L72">72</a></td><td>RIKER:  Deanna?</td></tr>
 
-  CRUSHER
-     The telurian plague. Was it cured? I mean, did
-     they find the cure by your century? Oh, it can't
-     do any harm to ask that.
+<tr id="L73"><td><a href="#L73">73</a></td><td>TROI:  It's hard to tell, but he is holding something back.</td></tr>
 
-  PICARD
-     I realise that it's difficult, but we must keep to
-     ourselves questions regarding the future. Go on,
-     Professor.
+<tr id="L74"><td><a href="#L74">74</a></td><td>CRUSHER:  Of course he is. All the things he could tell us. All the things he would like to tell us.</td></tr>
 
-  RASMUSSEN
-     I'll be preparing questionnaires for each of you.
-     Please complete them at your convenience. If
-     you're concerned about a possible breach of
-     security, I'm sure your Captain can make a
-     determination. And thank you in advance for
-     curbing your curiosity.
+<tr id="L75"><td><a href="#L75">75</a></td><td>TROI:  It might be that, I don't know.</td></tr>
 
-  LAFORGE
-     If I hand my assignment in on time, can I get a
-     glimpse into next week's poker game?
+<tr id="L76"><td><a href="#L76">76</a></td><td>RIKER:  What if he's an imposter? God knows we've seen enough of them.</td></tr>
 
-  PICARD
-     Mister Data, would you escort the Professor to his
-     quarters.
+<tr id="L77"><td><a href="#L77">77</a></td><td>PICARD:  He is human. The medical scans have proved that, right, Doctor?</td></tr>
 
-  DATA
-     This way, sir.
+<tr id="L78"><td><a href="#L78">78</a></td><td>CRUSHER:  He's human, all right.</td></tr>
 
-  ANNOTATION
-     Data and Rasmussen leave
+<tr id="L79"><td><a href="#L79">79</a></td><td>PICARD:  And there was a temporal distortion back there, correct Mister Worf?</td></tr>
 
-  RIKER
-     What did he mean, he picked the right day?
+<tr id="L80"><td><a href="#L80">80</a></td><td>WORF:  Yes, sir.</td></tr>
 
-  PICARD
-     You know everything I do, Will.
+<tr id="L81"><td><a href="#L81">81</a></td><td>PICARD:  And no one can deny that ship of his is unlike anything we've ever seen before.</td></tr>
 
-  RIKER
-     Deanna?
+<tr id="L82"><td><a href="#L82">82</a></td><td>LAFORGE:  The hull is made of some kind of plasticised tritanium mesh. We've nothing like it on record, at least not till now.</td></tr>
 
-  TROI
-     It's hard to tell, but he is holding something
-     back.
+<tr id="L83"><td><a href="#L83">83</a></td><td>PICARD:  Mister Worf, I do appreciate your caution. I share it. Bring his vessel into the shuttlebay. Place it under guard.</td></tr>
 
-  CRUSHER
-     Of course he is. All the things he could tell us.
-     All the things he would like to tell us.
+<tr id="L84"><td><a href="#L84">84</a></td><td>WORF:  Yes, sir.</td></tr>
 
-  TROI
-     It might be that, I don't know.
+<tr id="L85"><td><a href="#L85">85</a></td><td>PICARD:  I realise that this visit is going to be difficult for some of us, but I've examined his credentials, and everything seems to be in order, so I think we should extend to him every courtesy.</td></tr>
 
-  RIKER
-     What if he's an imposter? God knows we've seen
-     enough of them.
+<tr id="L86"><td><a href="#L86">86</a></td><td>WORF:  Including questionnaires?</td></tr>
 
-  PICARD
-     He is human. The medical scans have proved that,
-     right, Doctor?
+<tr id="L87"><td><a href="#L87">87</a></td><td>PICARD:  Including questionnaires, Mister Worf.</td></tr>
 
-  CRUSHER
-     He's human, all right.
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L88"><td><a href="#L88">88</a></td><td>ANNOTATION: Rasmussen is peering closely at Data</td></tr>
 
-  PICARD
-     And there was a temporal distortion back there,
-     correct Mister Worf?
+<tr id="L89"><td><a href="#L89">89</a></td><td>RASMUSSEN:  This is really a thrill, Data, like running across a Redstone missile or a Gutenberg bible. To think, the Model T of androids.</td></tr>
 
-  WORF
-     Yes, sir.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L90"><td><a href="#L90">90</a></td><td>DATA:  If you're referring to the first production model automobile of the twentieth century, perhaps the subsequent Model A might be a more apt analogy, since I am Doctor Noonian Soong's revised prototype.</td></tr>
 
-  PICARD
-     And no one can deny that ship of his is unlike
-     anything we've ever seen before.
+<tr id="L91"><td><a href="#L91">91</a></td><td>RASMUSSEN:  I stand corrected.</td></tr>
 
-  LAFORGE
-     The hull is made of some kind of plasticised
-     tritanium mesh. We've nothing like it on record,
-     at least not till now.
+<tr><td></td><td>LOCATION--Rasmussen's quarters</td></tr>
+<tr id="L92"><td><a href="#L92">92</a></td><td>DATA:  Is there a problem, Professor?</td></tr>
 
-  PICARD
-     Mister Worf, I do appreciate your caution. I share
-     it. Bring his vessel into the shuttlebay. Place it
-     under guard.
+<tr id="L93"><td><a href="#L93">93</a></td><td>RASMUSSEN:  I suppose it will have to do, for now. I'll get you a list of the things I'll be needing, okay?</td></tr>
 
-  WORF
-     Yes, sir.
+<tr id="L94"><td><a href="#L94">94</a></td><td>DATA:  Would I be correct, Professor, in assuming that you know whether or not I am still alive in the twenty sixth century?</td></tr>
 
-  PICARD
-     I realise that this visit is going to be difficult
-     for some of us, but I've examined his credentials,
-     and everything seems to be in order, so I think we
-     should extend to him every courtesy.
+<tr id="L95"><td><a href="#L95">95</a></td><td>ANNOTATION: Rasmussen washes his hands and then holds them out for a towel. Data obliges</td></tr>
 
-  WORF
-     Including questionnaires?
+<tr id="L96"><td><a href="#L96">96</a></td><td>DATA:  Since you seemed to know so much about Captain Picard and the ship, I assumed that you would.</td></tr>
 
-  PICARD
-     Including questionnaires, Mister Worf.
+<tr id="L97"><td><a href="#L97">97</a></td><td>RASMUSSEN:  It'd be best if you kept your assumptions to yourself, wouldn't it?</td></tr>
 
+<tr id="L98"><td><a href="#L98">98</a></td><td>DATA:  Yes, sir. Sorry, sir.</td></tr>
 
-LOCATION--Turbolift
+<tr id="L99"><td><a href="#L99">99</a></td><td>SOMEONE: Captain's log, stardate 45350.3. We have arrived at Penthara Four and can see for ourselves the atmospheric devastation caused by the asteroid impact.</td></tr>
 
-  ANNOTATION
-     Rasmussen is peering closely at Data
+<tr><td></td><td>LOCATION--Penthara science lab</td></tr>
+<tr id="L100"><td><a href="#L100">100</a></td><td>ANNOTATION: a lot of snow has fallen</td></tr>
 
-  RASMUSSEN
-     This is really a thrill, Data, like running across
-     a Redstone missile or a Gutenberg bible. To think,
-     the Model T of androids.
+<tr id="L101"><td><a href="#L101">101</a></td><td>PICARD:  We've located three underground pockets of carbon dioxide, here, here and here. Our drilling phasers can release enough of the gas to form an envelope which would temporarily hold in the heat of the sun.</td></tr>
 
+<tr id="L102"><td><a href="#L102">102</a></td><td>MOSELEY:  We've spend years, decades, trying to avoid anything that would lead to a greenhouse effect and now here we are about to create one on purpose.</td></tr>
 
-LOCATION--Corridor
+<tr id="L103"><td><a href="#L103">103</a></td><td>LAFORGE:  Less than twenty percent of your normal sunlight is getting through that dust, Doctor. If we can hold enough heat in with the CO2, that should give the planet time to mend itself.</td></tr>
 
-  DATA
-     If you're referring to the first production model
-     automobile of the twentieth century, perhaps the
-     subsequent Model A might be a more apt analogy,
-     since I am Doctor Noonian Soong's revised
-     prototype.
+<tr id="L104"><td><a href="#L104">104</a></td><td>WOMAN:  Excuse me, Doctor Moseley.</td></tr>
 
-  RASMUSSEN
-     I stand corrected.
+<tr id="L105"><td><a href="#L105">105</a></td><td>MOSELEY:  What now?</td></tr>
 
+<tr id="L106"><td><a href="#L106">106</a></td><td>WOMAN:  New Seattle's reporting a cloud depth of twelve kilometres. Two rivers, tropical rivers, are beginning to freeze.</td></tr>
 
-LOCATION--Rasmussen's quarters
+<tr id="L107"><td><a href="#L107">107</a></td><td>MOSELEY:  We'd better get started before there's nothing left to mend.</td></tr>
 
-  DATA
-     Is there a problem, Professor?
+<tr><td></td><td>LOCATION--Ten Forward</td></tr>
+<tr id="L108"><td><a href="#L108">108</a></td><td>ANNOTATION: Rasmussen walks in and goes to the bar</td></tr>
 
-  RASMUSSEN
-     I suppose it will have to do, for now. I'll get
-     you a list of the things I'll be needing, okay?
+<tr id="L109"><td><a href="#L109">109</a></td><td>RIKER:  Look who's here.</td></tr>
 
-  DATA
-     Would I be correct, Professor, in assuming that
-     you know whether or not I am still alive in the
-     twenty sixth century?
+<tr id="L110"><td><a href="#L110">110</a></td><td>WORF:  I hate questionnaires.</td></tr>
 
-  ANNOTATION
-     Rasmussen washes his hands and then holds them out
-     for a towel. Data obliges
+<tr id="L111"><td><a href="#L111">111</a></td><td>CRUSHER:  Professor, come and join us.</td></tr>
 
-  DATA
-     Since you seemed to know so much about Captain
-     Picard and the ship, I assumed that you would.
+<tr id="L112"><td><a href="#L112">112</a></td><td>RASMUSSEN:  I hope I'm not intruding.</td></tr>
 
-  RASMUSSEN
-     It'd be best if you kept your assumptions to
-     yourself, wouldn't it?
+<tr id="L113"><td><a href="#L113">113</a></td><td>CRUSHER:  Not at all. I'm sure you're the topic of conversation at every table in this room.</td></tr>
 
-  DATA
-     Yes, sir. Sorry, sir.
+<tr id="L114"><td><a href="#L114">114</a></td><td>RASMUSSEN:  As I promised, here are your assignments. I'm sure they'll be painless. Please try and complete them by tomorrow.</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 45350.3. We have arrived
-     at Penthara Four and can see for ourselves the
-     atmospheric devastation caused by the asteroid
-     impact.
+<tr id="L115"><td><a href="#L115">115</a></td><td>ANNOTATION: hands out transparent chips, taking time to hold Beverly's hand while he does it</td></tr>
 
+<tr id="L116"><td><a href="#L116">116</a></td><td>WORF:  Tomorrow?</td></tr>
 
-LOCATION--Penthara science lab
+<tr id="L117"><td><a href="#L117">117</a></td><td>RIKER:  No problem, Professor.</td></tr>
 
-  ANNOTATION
-     a lot of snow has fallen
+<tr id="L118"><td><a href="#L118">118</a></td><td>RASMUSSEN:  You're all very calm.</td></tr>
 
-  PICARD
-     We've located three underground pockets of carbon
-     dioxide, here, here and here. Our drilling phasers
-     can release enough of the gas to form an envelope
-     which would temporarily hold in the heat of the
-     sun.
+<tr id="L119"><td><a href="#L119">119</a></td><td>RIKER:  Is there some reason we shouldn't be?</td></tr>
 
-  MOSELEY
-     We've spend years, decades, trying to avoid
-     anything that would lead to a greenhouse effect
-     and now here we are about to create one on
-     purpose.
+<tr id="L120"><td><a href="#L120">120</a></td><td>RASMUSSEN:  History always records where people were, what they were doing, when important events took place. But it rarely remembers their activities say, a week before, or a day or even an hour.</td></tr>
 
-  LAFORGE
-     Less than twenty percent of your normal sunlight
-     is getting through that dust, Doctor. If we can
-     hold enough heat in with the CO2, that should give
-     the planet time to mend itself.
+<tr id="L121"><td><a href="#L121">121</a></td><td>WORF:  Are you suggesting that an important event is imminent?</td></tr>
 
-  WOMAN
-     Excuse me, Doctor Moseley.
+<tr id="L122"><td><a href="#L122">122</a></td><td>RASMUSSEN:  I didn't say that, did I? Please, just go on doing what you were doing and pretend I'm not here.</td></tr>
 
-  MOSELEY
-     What now?
+<tr id="L123"><td><a href="#L123">123</a></td><td>RIKER:  Why is there no record of other future historians travelling back to witness important events?</td></tr>
 
-  WOMAN
-     New Seattle's reporting a cloud depth of twelve
-     kilometres. Two rivers, tropical rivers, are
-     beginning to freeze.
+<tr id="L124"><td><a href="#L124">124</a></td><td>RASMUSSEN:  We're obviously very careful. As a matter of fact, a colleague and I recently paid a call on a twenty second century vessel.</td></tr>
 
-  MOSELEY
-     We'd better get started before there's nothing
-     left to mend.
+<tr id="L125"><td><a href="#L125">125</a></td><td>CRUSHER:  They hadn't perfected quarantine fields. You probably saw some surgical masks and gloves.</td></tr>
 
+<tr id="L126"><td><a href="#L126">126</a></td><td>RASMUSSEN:  Isn't it fascinating how everyone has different interests when it comes to history. Different perspectives on progress.</td></tr>
 
-LOCATION--Ten Forward
+<tr id="L127"><td><a href="#L127">127</a></td><td>ANNOTATION: Rasmussen opens a ring and looks inside</td></tr>
 
-  ANNOTATION
-     Rasmussen walks in and goes to the bar
+<tr id="L128"><td><a href="#L128">128</a></td><td>RIKER:  Would you mind telling me what that is?</td></tr>
 
-  RIKER
-     Look who's here.
+<tr id="L129"><td><a href="#L129">129</a></td><td>RASMUSSEN:  Just checking the time. No problem.</td></tr>
 
-  WORF
-     I hate questionnaires.
+<tr id="L130"><td><a href="#L130">130</a></td><td>RIKER:  Is something important supposed to be happening here?</td></tr>
 
-  CRUSHER
-     Professor, come and join us.
+<tr id="L131"><td><a href="#L131">131</a></td><td>RASMUSSEN:  No, it's nothing, nothing. What about you, Commander? What do you see as the most important example of progress in the last two hundred years?</td></tr>
 
-  RASMUSSEN
-     I hope I'm not intruding.
+<tr id="L132"><td><a href="#L132">132</a></td><td>RIKER:  I suppose the warp coil. Before there was warp drive, humans were confined to a single sector of the galaxy.</td></tr>
 
-  CRUSHER
-     Not at all. I'm sure you're the topic of
-     conversation at every table in this room.
+<tr id="L133"><td><a href="#L133">133</a></td><td>RASMUSSEN:  Spoken like the consummate explorer.</td></tr>
 
-  RASMUSSEN
-     As I promised, here are your assignments. I'm sure
-     they'll be painless. Please try and complete them
-     by tomorrow.
+<tr id="L134"><td><a href="#L134">134</a></td><td>RIKER:  What is going on? Are you expecting someone?</td></tr>
 
-  ANNOTATION
-     hands out transparent chips, taking time to hold
-     Beverly's hand while he does it
+<tr id="L135"><td><a href="#L135">135</a></td><td>WORF:  Phasers.</td></tr>
 
-  WORF
-     Tomorrow?
+<tr id="L136"><td><a href="#L136">136</a></td><td>RASMUSSEN:  I beg your pardon?</td></tr>
 
-  RIKER
-     No problem, Professor.
+<tr id="L137"><td><a href="#L137">137</a></td><td>WORF:  There were no phasers in the 22nd century.</td></tr>
 
-  RASMUSSEN
-     You're all very calm.
+<tr id="L138"><td><a href="#L138">138</a></td><td>RASMUSSEN:  Ah, you see, Doctor? Our Klingon friend is a perfect example of what I was trying to tell you. He views history through the eyes of a hunter, a warrior. His passion lies in the perfection of the tools of violence. How delightfully primitive.</td></tr>
 
-  RIKER
-     Is there some reason we shouldn't be?
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L139"><td><a href="#L139">139</a></td><td>LAFORGE:  (to a crewwoman) As soon as we input this atmospheric data from Moseley, the computer should tell us how many holes we'll have to punch.</td></tr>
 
-  RASMUSSEN
-     History always records where people were, what
-     they were doing, when important events took place.
-     But it rarely remembers their activities say, a
-     week before, or a day or even an hour.
+<tr id="L140"><td><a href="#L140">140</a></td><td>DATA:  What have you learned about the tectonic stability around the drilling sites?</td></tr>
 
-  WORF
-     Are you suggesting that an important event is
-     imminent?
+<tr id="L141"><td><a href="#L141">141</a></td><td>LAFORGE:  Couldn't be better. Our scans were all clear and Moseley says there hasn't been so much as a quiver down there in well over a century.</td></tr>
 
-  RASMUSSEN
-     I didn't say that, did I? Please, just go on doing
-     what you were doing and pretend I'm not here.
+<tr id="L142"><td><a href="#L142">142</a></td><td>RASMUSSEN:  Ah ha, just the two I'm looking for. I've brought you the forms I need you to complete. Shouldn't take any more than a couple of hours.</td></tr>
 
-  RIKER
-     Why is there no record of other future historians
-     travelling back to witness important events?
+<tr id="L143"><td><a href="#L143">143</a></td><td>LAFORGE:  We're kind of busy here, Professor. Tomorrow would probably be better. Data, we've got about twenty three thousand thermal simulations. You think you could check them through for anomalies?</td></tr>
 
-  RASMUSSEN
-     We're obviously very careful. As a matter of fact,
-     a colleague and I recently paid a call on a twenty
-     second century vessel.
+<tr id="L144"><td><a href="#L144">144</a></td><td>DATA:  Certainly.</td></tr>
 
-  CRUSHER
-     They hadn't perfected quarantine fields. You
-     probably saw some surgical masks and gloves.
+<tr id="L145"><td><a href="#L145">145</a></td><td>ANNOTATION: Data starts working at the console at fast-forward speed</td></tr>
 
-  RASMUSSEN
-     Isn't it fascinating how everyone has different
-     interests when it comes to history. Different
-     perspectives on progress.
+<tr id="L146"><td><a href="#L146">146</a></td><td>RASMUSSEN:  Is that as fast as he can go?</td></tr>
 
-  ANNOTATION
-     Rasmussen opens a ring and looks inside
+<tr id="L147"><td><a href="#L147">147</a></td><td>LAFORGE:  Not fast enough for you, Professor?</td></tr>
 
-  RIKER
-     Would you mind telling me what that is?
+<tr id="L148"><td><a href="#L148">148</a></td><td>RASMUSSEN:  There's little known about Data's efficiency. Almost nothing about his part in this mission. It's a topic of great conjecture.</td></tr>
 
-  RASMUSSEN
-     Just checking the time. No problem.
+<tr id="L149"><td><a href="#L149">149</a></td><td>DATA:  Two hundred nine anomalies all within acceptable parameters.</td></tr>
 
-  RIKER
-     Is something important supposed to be happening
-     here?
+<tr id="L150"><td><a href="#L150">150</a></td><td>LAFORGE:  Thanks, Data. You're here to witness this mission. That's it, isn't it?</td></tr>
 
-  RASMUSSEN
-     No, it's nothing, nothing. What about you,
-     Commander? What do you see as the most important
-     example of progress in the last two hundred years?
+<tr id="L151"><td><a href="#L151">151</a></td><td>RASMUSSEN:  It'd be best if you just thought of me as a fly on the wall, and went about your business.</td></tr>
 
-  RIKER
-     I suppose the warp coil. Before there was warp
-     drive, humans were confined to a single sector of
-     the galaxy.
+<tr id="L152"><td><a href="#L152">152</a></td><td>DATA:  I will have your answered questions as soon as possible, Professor.</td></tr>
 
-  RASMUSSEN
-     Spoken like the consummate explorer.
+<tr id="L153"><td><a href="#L153">153</a></td><td>RASMUSSEN:  Data at Penthara Four!</td></tr>
 
-  RIKER
-     What is going on? Are you expecting someone?
+<tr id="L154"><td><a href="#L154">154</a></td><td>LAFORGE:  If you'll excuse me.</td></tr>
 
-  WORF
-     Phasers.
+<tr id="L155"><td><a href="#L155">155</a></td><td>RASMUSSEN:  Your prosthesis. What do you call it again?</td></tr>
 
-  RASMUSSEN
-     I beg your pardon?
+<tr id="L156"><td><a href="#L156">156</a></td><td>LAFORGE:  A visor.</td></tr>
 
-  WORF
-     There were no phasers in the 22nd century.
+<tr id="L157"><td><a href="#L157">157</a></td><td>RASMUSSEN:  Visor. Right. A visor. You know, I have a picture of you wearing that in my office. How do you like it?</td></tr>
 
-  RASMUSSEN
-     Ah, you see, Doctor? Our Klingon friend is a
-     perfect example of what I was trying to tell you.
-     He views history through the eyes of a hunter, a
-     warrior. His passion lies in the perfection of the
-     tools of violence. How delightfully primitive.
+<tr id="L158"><td><a href="#L158">158</a></td><td>LAFORGE:  It allows me to see. I like it just fine.</td></tr>
 
+<tr id="L159"><td><a href="#L159">159</a></td><td>RASMUSSEN:  You know, Homer was blind and Milton. Bach, Monet, Wonder.</td></tr>
 
-LOCATION--Engineering
+<tr id="L160"><td><a href="#L160">160</a></td><td>LAFORGE:  A fly on the wall, huh?</td></tr>
 
-  LAFORGE
-     (to a crewwoman) As soon as we input this
-     atmospheric data from Moseley, the computer should
-     tell us how many holes we'll have to punch.
+<tr id="L161"><td><a href="#L161">161</a></td><td>RASMUSSEN:  A fly on the wall.</td></tr>
 
-  DATA
-     What have you learned about the tectonic stability
-     around the drilling sites?
+<tr id="L162"><td><a href="#L162">162</a></td><td>DATA:  The computer has configured the drilling pattern and specified depths.</td></tr>
 
-  LAFORGE
-     Couldn't be better. Our scans were all clear and
-     Moseley says there hasn't been so much as a quiver
-     down there in well over a century.
+<tr id="L163"><td><a href="#L163">163</a></td><td>LAFORGE:  Captain, we've got everything we need. I'm ready to transport down to the surface.</td></tr>
 
-  RASMUSSEN
-     Ah ha, just the two I'm looking for. I've brought
-     you the forms I need you to complete. Shouldn't
-     take any more than a couple of hours.
+<tr id="L164"><td><a href="#L164">164</a></td><td>PICARD [OC]:  I'll notify Doctor Moseley. Good luck, Geordi.</td></tr>
 
-  LAFORGE
-     We're kind of busy here, Professor. Tomorrow would
-     probably be better. Data, we've got about twenty
-     three thousand thermal simulations. You think you
-     could check them through for anomalies?
+<tr id="L165"><td><a href="#L165">165</a></td><td>LAFORGE:  Gentlemen.</td></tr>
 
-  DATA
-     Certainly.
+<tr id="L166"><td><a href="#L166">166</a></td><td>ANNOTATION: Geordi leaves and Rasmussen pockets a PADD</td></tr>
 
-  ANNOTATION
-     Data starts working at the console at fast-forward
-     speed
+<tr id="L167"><td><a href="#L167">167</a></td><td>RASMUSSEN:  Who said these moments were any less exciting when you know the outcome?</td></tr>
 
-  RASMUSSEN
-     Is that as fast as he can go?
+<tr id="L168"><td><a href="#L168">168</a></td><td>DATA:  I know of no one who said that, Professor.</td></tr>
 
-  LAFORGE
-     Not fast enough for you, Professor?
+<tr><td></td><td>LOCATION--Penthara Science lab</td></tr>
+<tr id="L169"><td><a href="#L169">169</a></td><td>LAFORGE:  The Enterprise will monitor the CO2 concentrations at six different altitudes. If all goes well, it shouldn't take more than twenty bore sites.</td></tr>
 
-  RASMUSSEN
-     There's little known about Data's efficiency.
-     Almost nothing about his part in this mission.
-     It's a topic of great conjecture.
+<tr id="L170"><td><a href="#L170">170</a></td><td>MOSELEY:  Let's hope all goes well.</td></tr>
 
-  DATA
-     Two hundred nine anomalies all within acceptable
-     parameters.
+<tr id="L171"><td><a href="#L171">171</a></td><td>LAFORGE:  La Forge to Commander Riker. How are you doing?</td></tr>
 
-  LAFORGE
-     Thanks, Data. You're here to witness this mission.
-     That's it, isn't it?
+<tr id="L172"><td><a href="#L172">172</a></td><td>RIKER:  We've gotten word from the monitoring stations. They're all online. We're ready when you are, Geordi.</td></tr>
 
-  RASMUSSEN
-     It'd be best if you just thought of me as a fly on
-     the wall, and went about your business.
+<tr id="L173"><td><a href="#L173">173</a></td><td>LAFORGE:  That's excellent. All we need now is an open channel to Data.</td></tr>
 
-  DATA
-     I will have your answered questions as soon as
-     possible, Professor.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L174"><td><a href="#L174">174</a></td><td>RIKER:  Open a channel, Mister Worf, and prepare to fire at target one.</td></tr>
 
-  RASMUSSEN
-     Data at Penthara Four!
+<tr id="L175"><td><a href="#L175">175</a></td><td>WORF:  The computer has locked in phaser depth calculations.</td></tr>
 
-  LAFORGE
-     If you'll excuse me.
+<tr id="L176"><td><a href="#L176">176</a></td><td>RIKER:  Mister Data?</td></tr>
 
-  RASMUSSEN
-     Your prosthesis. What do you call it again?
+<tr id="L177"><td><a href="#L177">177</a></td><td>DATA [OC]:  Ready, sir.</td></tr>
 
-  LAFORGE
-     A visor.
+<tr id="L178"><td><a href="#L178">178</a></td><td>RIKER:  Fire.</td></tr>
 
-  RASMUSSEN
-     Visor. Right. A visor. You know, I have a picture
-     of you wearing that in my office. How do you like
-     it?
+<tr id="L179"><td><a href="#L179">179</a></td><td>ANNOTATION: two shots hit the snow-covered ground</td></tr>
 
-  LAFORGE
-     It allows me to see. I like it just fine.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L180"><td><a href="#L180">180</a></td><td>DATA:  Target one is emitting two thousand cubic metres per second.</td></tr>
 
-  RASMUSSEN
-     You know, Homer was blind and Milton. Bach, Monet,
-     Wonder.
+<tr><td></td><td>LOCATION--Penthara Science lab</td></tr>
+<tr id="L181"><td><a href="#L181">181</a></td><td>DATA [OC]:  Target two, one thousand six hundred.</td></tr>
 
-  LAFORGE
-     A fly on the wall, huh?
+<tr id="L182"><td><a href="#L182">182</a></td><td>MOSELEY:  Surface wind patterns over the target are stable.</td></tr>
 
-  RASMUSSEN
-     A fly on the wall.
+<tr id="L183"><td><a href="#L183">183</a></td><td>LAFORGE:  You picking up anything at altitude, Data?</td></tr>
 
-  DATA
-     The computer has configured the drilling pattern
-     and specified depths.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L184"><td><a href="#L184">184</a></td><td>DATA [OC]:  CO2 concentrations remain unchanged at upper elevations.</td></tr>
 
-  LAFORGE
-     Captain, we've got everything we need. I'm ready
-     to transport down to the surface.
+<tr id="L185"><td><a href="#L185">185</a></td><td>ANNOTATION: three more phaser shots, then Rasmussen enters</td></tr>
 
-  PICARD [OC]
-     I'll notify Doctor Moseley. Good luck, Geordi.
+<tr id="L186"><td><a href="#L186">186</a></td><td>RASMUSSEN:  Have I missed much?</td></tr>
 
-  LAFORGE
-     Gentlemen.
+<tr id="L187"><td><a href="#L187">187</a></td><td>WORF:  Target fourteen complete, sir.</td></tr>
 
-  ANNOTATION
-     Geordi leaves and Rasmussen pockets a PADD
+<tr id="L188"><td><a href="#L188">188</a></td><td>RIKER:  Data?</td></tr>
 
-  RASMUSSEN
-     Who said these moments were any less exciting when
-     you know the outcome?
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L189"><td><a href="#L189">189</a></td><td>RIKER [OC]:  What have you got?</td></tr>
 
-  DATA
-     I know of no one who said that, Professor.
+<tr id="L190"><td><a href="#L190">190</a></td><td>DATA:  No change, sir.</td></tr>
 
+<tr><td></td><td>LOCATION--Pentara Science lab</td></tr>
+<tr id="L191"><td><a href="#L191">191</a></td><td>RIKER [OC]:  How are the surface winds, Geordi?</td></tr>
 
-LOCATION--Penthara Science lab
+<tr id="L192"><td><a href="#L192">192</a></td><td>LAFORGE [OC]:  Holding steady, sir.</td></tr>
 
-  LAFORGE
-     The Enterprise will monitor the CO2 concentrations
-     at six different altitudes. If all goes well, it
-     shouldn't take more than twenty bore sites.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L193"><td><a href="#L193">193</a></td><td>WORF:  The computer has stopped drilling.</td></tr>
 
-  MOSELEY
-     Let's hope all goes well.
+<tr id="L194"><td><a href="#L194">194</a></td><td>RIKER:  You should be getting something</td></tr>
 
-  LAFORGE
-     La Forge to Commander Riker. How are you doing?
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L195"><td><a href="#L195">195</a></td><td>RIKER [OC]:  Now, Data.</td></tr>
 
-  RIKER
-     We've gotten word from the monitoring stations.
-     They're all online. We're ready when you are,
-     Geordi.
+<tr id="L196"><td><a href="#L196">196</a></td><td>DATA:  Elevated CO2 levels at twenty kilometres, sir.</td></tr>
 
-  LAFORGE
-     That's excellent. All we need now is an open
-     channel to Data.
+<tr id="L197"><td><a href="#L197">197</a></td><td>LAFORGE [OC]:  Now you're</td></tr>
 
+<tr><td></td><td>LOCATION--Penthara Science lab</td></tr>
+<tr id="L198"><td><a href="#L198">198</a></td><td>LAFORGE:  Talking. We've got some new temperatures coming in.</td></tr>
 
-LOCATION--Bridge
+<tr id="L199"><td><a href="#L199">199</a></td><td>MOSELEY:  All thermal monitoring stations are reporting no further temperature drops.</td></tr>
 
-  RIKER
-     Open a channel, Mister Worf, and prepare to fire
-     at target one.
+<tr id="L200"><td><a href="#L200">200</a></td><td>LAFORGE:  Correction, Doctor. Two equatorial stations are showing slight increases.</td></tr>
 
-  WORF
-     The computer has locked in phaser depth
-     calculations.
+<tr id="L201"><td><a href="#L201">201</a></td><td>MOSELEY:  Thank you. Thank you all. You've given us what we need. Time.</td></tr>
 
-  RIKER
-     Mister Data?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L202"><td><a href="#L202">202</a></td><td>PICARD:  We're glad to be of help, Doctor. The Enterprise will remain in orbit and continue to monitor your progress. Picard out.</td></tr>
 
-  DATA [OC]
-     Ready, sir.
+<tr id="L203"><td><a href="#L203">203</a></td><td>RASMUSSEN:  You've given us what we need. Time.</td></tr>
 
-  RIKER
-     Fire.
+<tr id="L204"><td><a href="#L204">204</a></td><td>PICARD:  Ensign, return to synchronous orbit.</td></tr>
 
-  ANNOTATION
-     two shots hit the snow-covered ground
+<tr id="L205"><td><a href="#L205">205</a></td><td>ENSIGN:  Aye, sir.</td></tr>
 
+<tr id="L206"><td><a href="#L206">206</a></td><td>RASMUSSEN:  Very clever, Picard. And well done. We've always known how you did it, but to experience the moment, to witness the nuances, it's indescribable.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L207"><td><a href="#L207">207</a></td><td>ANNOTATION: Beverly is treating an injured knee</td></tr>
 
-  DATA
-     Target one is emitting two thousand cubic metres
-     per second.
+<tr id="L208"><td><a href="#L208">208</a></td><td>TROI:  He's after more than a history lesson. I can tell you that.</td></tr>
 
+<tr id="L209"><td><a href="#L209">209</a></td><td>CRUSHER:  What is it? What are you getting from him?</td></tr>
 
-LOCATION--Penthara Science lab
+<tr id="L210"><td><a href="#L210">210</a></td><td>TROI:  I don't know. It's like he's trying to confuse us, misdirect us somehow.</td></tr>
 
-  DATA [OC]
-     Target two, one thousand six hundred.
+<tr id="L211"><td><a href="#L211">211</a></td><td>ANNOTATION: Rasmussen enters</td></tr>
 
-  MOSELEY
-     Surface wind patterns over the target are stable.
+<tr id="L212"><td><a href="#L212">212</a></td><td>RASMUSSEN:  There you are. Well, that certainly was exciting, wasn't it?</td></tr>
 
-  LAFORGE
-     You picking up anything at altitude, Data?
+<tr id="L213"><td><a href="#L213">213</a></td><td>CRUSHER:  Professor, is everything alright? Are you well?</td></tr>
 
+<tr id="L214"><td><a href="#L214">214</a></td><td>RASMUSSEN:  Yes, couldn't be better, thank you. I just thought we might chat about your questionnaire. Buck up, crewman. You're a credit to that uniform.</td></tr>
 
-LOCATION--Bridge
+<tr id="L215"><td><a href="#L215">215</a></td><td>TROI:  I've got some things to take care of.</td></tr>
 
-  DATA [OC]
-     CO2 concentrations remain unchanged at upper
-     elevations.
+<tr id="L216"><td><a href="#L216">216</a></td><td>RASMUSSEN:  No, please, Counsellor. I would very much appreciate your remaining.</td></tr>
 
-  ANNOTATION
-     three more phaser shots, then Rasmussen enters
+<tr id="L217"><td><a href="#L217">217</a></td><td>RASMUSSEN:  Doctor, in response to my sixth question, you spoke of a neural stimulator. May I see one?</td></tr>
 
-  RASMUSSEN
-     Have I missed much?
+<tr id="L218"><td><a href="#L218">218</a></td><td>CRUSHER:  I don't see why not. Give me a minute.</td></tr>
 
-  WORF
-     Target fourteen complete, sir.
+<tr id="L219"><td><a href="#L219">219</a></td><td>ANNOTATION: Beverly leaves</td></tr>
 
-  RIKER
-     Data?
+<tr id="L220"><td><a href="#L220">220</a></td><td>RASMUSSEN:  You don't like me very much, do you?</td></tr>
 
+<tr id="L221"><td><a href="#L221">221</a></td><td>TROI:  I don't dislike you, Professor.</td></tr>
 
-LOCATION--Engineering
+<tr id="L222"><td><a href="#L222">222</a></td><td>RASMUSSEN:  (to a young boy) Keep your eyes wide, soldier. You'll be telling your grandchildren how you were there at Penthara Four. But you don't trust me. You should, you know.</td></tr>
 
-  RIKER [OC]
-     What have you got?
+<tr id="L223"><td><a href="#L223">223</a></td><td>TROI:  Should I?</td></tr>
 
-  DATA
-     No change, sir.
+<tr id="L224"><td><a href="#L224">224</a></td><td>RASMUSSEN:  Picard's empath won't trust you. That's what they all said.</td></tr>
 
+<tr id="L225"><td><a href="#L225">225</a></td><td>TROI:  Picard's empath?</td></tr>
 
-LOCATION--Pentara Science lab
+<tr id="L226"><td><a href="#L226">226</a></td><td>RASMUSSEN:  We're not that unalike, you and I. You possess a sense that is foreign to the others. My knowledge of the future is similar. You know, some of my best friends are empaths. They trust me.</td></tr>
 
-  RIKER [OC]
-     How are the surface winds, Geordi?
+<tr id="L227"><td><a href="#L227">227</a></td><td>TROI:  Why should you care whether I trust you or not?</td></tr>
 
-  LAFORGE [OC]
-     Holding steady, sir.
+<tr id="L228"><td><a href="#L228">228</a></td><td>RASMUSSEN:  We're birds of a feather. We're colleagues. We could learn a lot from each other.</td></tr>
 
+<tr id="L229"><td><a href="#L229">229</a></td><td>TROI:  You're right. I don't trust you.</td></tr>
 
-LOCATION--Bridge
+<tr id="L230"><td><a href="#L230">230</a></td><td>RASMUSSEN:  I knew you'd say that.</td></tr>
 
-  WORF
-     The computer has stopped drilling.
+<tr id="L231"><td><a href="#L231">231</a></td><td>TROI:  I'm sure you did.</td></tr>
 
-  RIKER
-     You should be getting something
+<tr id="L232"><td><a href="#L232">232</a></td><td>ANNOTATION: Beverly returns with the equipment</td></tr>
 
+<tr id="L233"><td><a href="#L233">233</a></td><td>CRUSHER:  Well, it's nice to see you two are finally getting along.</td></tr>
 
-LOCATION--Engineering
+<tr id="L234"><td><a href="#L234">234</a></td><td>TROI:  I really have to be going.</td></tr>
 
-  RIKER [OC]
-     Now, Data.
+<tr id="L235"><td><a href="#L235">235</a></td><td>ANNOTATION: Troi leaves and Beverly hands the wand device to Rasmussen</td></tr>
 
-  DATA
-     Elevated CO2 levels at twenty kilometres, sir.
+<tr id="L236"><td><a href="#L236">236</a></td><td>RASMUSSEN:  Thank you.</td></tr>
 
-  LAFORGE [OC]
-     Now you're
+<tr id="L237"><td><a href="#L237">237</a></td><td>CRUSHER:  (reading a PADD from a nurse) Why don't you try a berylite scan? I'd be interested to see where his micro-levels are.</td></tr>
 
+<tr id="L238"><td><a href="#L238">238</a></td><td>ANNOTATION: the nurse leaves them</td></tr>
 
-LOCATION--Penthara Science lab
+<tr id="L239"><td><a href="#L239">239</a></td><td>CRUSHER:  So, what else can I show you?</td></tr>
 
-  LAFORGE
-     Talking. We've got some new temperatures coming
-     in.
+<tr id="L240"><td><a href="#L240">240</a></td><td>RASMUSSEN:  You're a very curious woman. No, no, I don't mean curious like that. I mean you're curious about things. About berylite levels, about the future.</td></tr>
 
-  MOSELEY
-     All thermal monitoring stations are reporting no
-     further temperature drops.
+<tr id="L241"><td><a href="#L241">241</a></td><td>CRUSHER:  Well, curiosity is why all of us are out here, isn't it?</td></tr>
 
-  LAFORGE
-     Correction, Doctor. Two equatorial stations are
-     showing slight increases.
+<tr id="L242"><td><a href="#L242">242</a></td><td>RASMUSSEN:  I understand. But you're different, you're more vibrant. More</td></tr>
 
-  MOSELEY
-     Thank you. Thank you all. You've given us what we
-     need. Time.
+<tr id="L243"><td><a href="#L243">243</a></td><td>CRUSHER:  More vibrant. That's nice, I like that.</td></tr>
 
+<tr id="L244"><td><a href="#L244">244</a></td><td>RASMUSSEN:  You know, whenever I travel back, I meet very interesting people, men and women. But I've never anyone who gave me thoughts about not going home.</td></tr>
 
-LOCATION--Bridge
+<tr id="L245"><td><a href="#L245">245</a></td><td>CRUSHER:  You're not supposed to be influencing the past, remember? And I am beginning to feel a little influenced. Anyway, I could be your great, great, great, great, grandmother.</td></tr>
 
-  PICARD
-     We're glad to be of help, Doctor. The Enterprise
-     will remain in orbit and continue to monitor your
-     progress. Picard out.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L246"><td><a href="#L246">246</a></td><td>PICARD:  What kind of questions did he have for you, Number One?</td></tr>
 
-  RASMUSSEN
-     You've given us what we need. Time.
+<tr id="L247"><td><a href="#L247">247</a></td><td>RIKER:  All he wanted to know about was previous starships. What I thought was innovative about the last Enterprise, the one before that. He said he wanted to see if we had a grasp of the fundamentals.</td></tr>
 
-  PICARD
-     Ensign, return to synchronous orbit.
+<tr id="L248"><td><a href="#L248">248</a></td><td>DATA:  His queries to me primarily focused on Doctor Soong's</td></tr>
 
-  ENSIGN
-     Aye, sir.
+<tr id="L249"><td><a href="#L249">249</a></td><td>ANNOTATION: an alarm beeps</td></tr>
 
-  RASMUSSEN
-     Very clever, Picard. And well done. We've always
-     known how you did it, but to experience the
-     moment, to witness the nuances, it's
-     indescribable.
+<tr id="L250"><td><a href="#L250">250</a></td><td>WORF:  Captain, I am detecting a massive earthquake on the surface. Two earthquakes.</td></tr>
 
+<tr id="L251"><td><a href="#L251">251</a></td><td>PICARD:  Location?</td></tr>
 
-LOCATION--Sickbay
+<tr id="L252"><td><a href="#L252">252</a></td><td>DATA:  Both epicentres are beneath the two southernmost drill sites, Captain.</td></tr>
 
-  ANNOTATION
-     Beverly is treating an injured knee
+<tr id="L253"><td><a href="#L253">253</a></td><td>PICARD:  Is La Forge still down there?</td></tr>
 
-  TROI
-     He's after more than a history lesson. I can tell
-     you that.
+<tr id="L254"><td><a href="#L254">254</a></td><td>WORF:  Yes, sir.</td></tr>
 
-  CRUSHER
-     What is it? What are you getting from him?
+<tr id="L255"><td><a href="#L255">255</a></td><td>PICARD:  Find him.</td></tr>
 
-  TROI
-     I don't know. It's like he's trying to confuse us,
-     misdirect us somehow.
+<tr id="L256"><td><a href="#L256">256</a></td><td>RIKER:  We've also got some volcanic activity. Pretty severe.</td></tr>
 
-  ANNOTATION
-     Rasmussen enters
+<tr id="L257"><td><a href="#L257">257</a></td><td>PICARD:  Magnify.</td></tr>
 
-  RASMUSSEN
-     There you are. Well, that certainly was exciting,
-     wasn't it?
+<tr id="L258"><td><a href="#L258">258</a></td><td>LAFORGE [OC]:  La Forge here, Captain. Moseley and I are on our way back to his lab.</td></tr>
 
-  CRUSHER
-     Professor, is everything alright? Are you well?
+<tr id="L259"><td><a href="#L259">259</a></td><td>PICARD:  Are you all right?</td></tr>
 
-  RASMUSSEN
-     Yes, couldn't be better, thank you. I just thought
-     we might chat about your questionnaire. Buck up,
-     crewman. You're a credit to that uniform.
+<tr id="L260"><td><a href="#L260">260</a></td><td>LAFORGE [OC]:  We're okay, but those were pretty big, sir. If this was Earth, I'd say around an eight or an eight five on the Richter Scale. We're starting to see some volcanic plumes, Captain.</td></tr>
 
-  TROI
-     I've got some things to take care of.
+<tr id="L261"><td><a href="#L261">261</a></td><td>WORF:  Two more eruptions, sir.</td></tr>
 
-  RASMUSSEN
-     No, please, Counsellor. I would very much
-     appreciate your remaining.
+<tr id="L262"><td><a href="#L262">262</a></td><td>DATA:  It is likely that we overestimated the geologic stability around the CO2 pockets, Captain.</td></tr>
 
-  RASMUSSEN
-     Doctor, in response to my sixth question, you
-     spoke of a neural stimulator. May I see one?
+<tr id="L263"><td><a href="#L263">263</a></td><td>LAFORGE [OC]:  We're in the lab, sir.</td></tr>
 
-  CRUSHER
-     I don't see why not. Give me a minute.
+<tr id="L264"><td><a href="#L264">264</a></td><td>PICARD:  On screen.</td></tr>
 
-  ANNOTATION
-     Beverly leaves
+<tr id="L265"><td><a href="#L265">265</a></td><td>MOSELEY [on viewscreen]:  We're fairly well quake-proof down here, Picard. It's the volcanic dust I'm worried about.</td></tr>
 
-  RASMUSSEN
-     You don't like me very much, do you?
+<tr id="L266"><td><a href="#L266">266</a></td><td>PICARD:  What about the dust?</td></tr>
 
-  TROI
-     I don't dislike you, Professor.
+<tr id="L267"><td><a href="#L267">267</a></td><td>LAFORGE:  The ash the volcanoes are throwing into the atmosphere is going to compound the existing problem. In a matter of days, there'll be no sunlight getting through those clouds.</td></tr>
 
-  RASMUSSEN
-     (to a young boy) Keep your eyes wide, soldier.
-     You'll be telling your grandchildren how you were
-     there at Penthara Four. But you don't trust me.
-     You should, you know.
+<tr id="L268"><td><a href="#L268">268</a></td><td>MOSELEY [on viewscreen]:  No amount of CO2 will help us then.</td></tr>
 
-  TROI
-     Should I?
+<tr id="L269"><td><a href="#L269">269</a></td><td>RIKER:  Captain, take a look at this. (at science two) These are the coordinates of the eruptions, and these are the coordinates of the phaser drilling sites.</td></tr>
 
-  RASMUSSEN
-     Picard's empath won't trust you. That's what they
-     all said.
+<tr id="L270"><td><a href="#L270">270</a></td><td>PICARD:  The mantle is collapsing where the pressure was released.</td></tr>
 
-  TROI
-     Picard's empath?
+<tr id="L271"><td><a href="#L271">271</a></td><td>LAFORGE [on viewscreen]:  Captain, Doctor Moseley and I have a couple of ideas, but it's going to take some time to sort out.</td></tr>
 
-  RASMUSSEN
-     We're not that unalike, you and I. You possess a
-     sense that is foreign to the others. My knowledge
-     of the future is similar. You know, some of my
-     best friends are empaths. They trust me.
+<tr id="L272"><td><a href="#L272">272</a></td><td>PICARD:  Sort them out, Commander.</td></tr>
 
-  TROI
-     Why should you care whether I trust you or not?
+<tr id="L273"><td><a href="#L273">273</a></td><td>LAFORGE [on viewscreen]:  Aye, sir.</td></tr>
 
-  RASMUSSEN
-     We're birds of a feather. We're colleagues. We
-     could learn a lot from each other.
+<tr id="L274"><td><a href="#L274">274</a></td><td>RIKER:  We came here to help these people.</td></tr>
 
-  TROI
-     You're right. I don't trust you.
+<tr id="L275"><td><a href="#L275">275</a></td><td>PICARD:  And look what we've done.</td></tr>
 
-  RASMUSSEN
-     I knew you'd say that.
+<tr><td></td><td>LOCATION--Data's quarters</td></tr>
+<tr id="L276"><td><a href="#L276">276</a></td><td>ANNOTATION: Rasmussen walks into a cacophony of sound</td></tr>
 
-  TROI
-     I'm sure you did.
+<tr id="L277"><td><a href="#L277">277</a></td><td>RASMUSSEN:  What in God's name is that?</td></tr>
 
-  ANNOTATION
-     Beverly returns with the equipment
+<tr id="L278"><td><a href="#L278">278</a></td><td>DATA:  Music, Professor.</td></tr>
 
-  CRUSHER
-     Well, it's nice to see you two are finally getting
-     along.
+<tr id="L279"><td><a href="#L279">279</a></td><td>RASMUSSEN:  Music?</td></tr>
 
-  TROI
-     I really have to be going.
+<tr id="L280"><td><a href="#L280">280</a></td><td>DATA:  Yes, sir. Mozart's Jupiter symphony in C major, Bach's Brandenburg Concerto number three, Beethoven's Ninth Symphony, second movement, molto vivace and La Donna e Mobile from Verdi's Rigoletto.</td></tr>
 
-  ANNOTATION
-     Troi leaves and Beverly hands the wand device to
-     Rasmussen
+<tr id="L281"><td><a href="#L281">281</a></td><td>RASMUSSEN:  Do you think you could thin it out a bit?</td></tr>
 
-  RASMUSSEN
-     Thank you.
+<tr id="L282"><td><a href="#L282">282</a></td><td>DATA:  Computer, eliminate programme one. Computer, eliminate programme two. (glances at Rasmussen) Computer, eliminate programme three. Computer, half volume.</td></tr>
 
-  CRUSHER
-     (reading a PADD from a nurse) Why don't you try a
-     berylite scan? I'd be interested to see where his
-     micro-levels are.
+<tr id="L283"><td><a href="#L283">283</a></td><td>RASMUSSEN:  How the hell can you listen to four pieces of music at the same time?</td></tr>
 
-  ANNOTATION
-     the nurse leaves them
+<tr id="L284"><td><a href="#L284">284</a></td><td>DATA:  Actually, I am capable of distinguishing over one hundred and fifty simultaneous compositions, but in order to analyse the aesthetics, I try to keep it to ten or less.</td></tr>
 
-  CRUSHER
-     So, what else can I show you?
+<tr id="L285"><td><a href="#L285">285</a></td><td>RASMUSSEN:  Only four today?</td></tr>
 
-  RASMUSSEN
-     You're a very curious woman. No, no, I don't mean
-     curious like that. I mean you're curious about
-     things. About berylite levels, about the future.
+<tr id="L286"><td><a href="#L286">286</a></td><td>DATA:  I am assisting Commander La Forge with a very complex calculation. It demands a great deal of my concentration.</td></tr>
 
-  CRUSHER
-     Well, curiosity is why all of us are out here,
-     isn't it?
+<tr id="L287"><td><a href="#L287">287</a></td><td>RASMUSSEN:  Well, I came to thank you for answering my questions, though I probably should have asked you to limit yourself to fifty thousand words.</td></tr>
 
-  RASMUSSEN
-     I understand. But you're different, you're more
-     vibrant. More
+<tr id="L288"><td><a href="#L288">288</a></td><td>DATA:  You did ask me to be thorough.</td></tr>
 
-  CRUSHER
-     More vibrant. That's nice, I like that.
+<tr id="L289"><td><a href="#L289">289</a></td><td>RASMUSSEN:  I realise it's hard to believe, Data, but very few records of Doctor Soong's work survived to the twenty sixth century, so it would be invaluable to myself and other historians, if you could provide us with some schematics.</td></tr>
 
-  RASMUSSEN
-     You know, whenever I travel back, I meet very
-     interesting people, men and women. But I've never
-     anyone who gave me thoughts about not going home.
+<tr id="L290"><td><a href="#L290">290</a></td><td>DATA:  Certainly, as soon as my work here is completed.</td></tr>
 
-  CRUSHER
-     You're not supposed to be influencing the past,
-     remember? And I am beginning to feel a little
-     influenced. Anyway, I could be your great, great,
-     great, great, grandmother.
+<tr id="L291"><td><a href="#L291">291</a></td><td>RASMUSSEN:  As long as it's before oh nine hundred tomorrow. That's when I'll be heading back.</td></tr>
 
+<tr id="L292"><td><a href="#L292">292</a></td><td>WORF [OC]:  Bridge to Commander Data.</td></tr>
 
-LOCATION--Bridge
+<tr id="L293"><td><a href="#L293">293</a></td><td>DATA:  Yes, Worf.</td></tr>
 
-  PICARD
-     What kind of questions did he have for you, Number
-     One?
+<tr id="L294"><td><a href="#L294">294</a></td><td>WORF:  Commander La Forge is hailing you from the surface, sir.</td></tr>
 
-  RIKER
-     All he wanted to know about was previous
-     starships. What I thought was innovative about the
-     last Enterprise, the one before that. He said he
-     wanted to see if we had a grasp of the
-     fundamentals.
+<tr id="L295"><td><a href="#L295">295</a></td><td>DATA:  Patch him through, please.</td></tr>
 
-  DATA
-     His queries to me primarily focused on Doctor
-     Soong's
+<tr id="L296"><td><a href="#L296">296</a></td><td>LAFORGE [on monitor]:  Have you rerun the phase reversal figures, Data?</td></tr>
 
-  ANNOTATION
-     an alarm beeps
+<tr id="L297"><td><a href="#L297">297</a></td><td>DATA:  There were no errors, Geordi. The variance must be no more than point zero six terawatts.</td></tr>
 
-  WORF
-     Captain, I am detecting a massive earthquake on
-     the surface. Two earthquakes.
+<tr id="L298"><td><a href="#L298">298</a></td><td>LAFORGE [on monitor]:  Well, I don't see any other choice. We'll continue to run the numbers down here but I doubt we'll come up with anything different. You better inform the captain of the good news and the bad news. La Forge out.</td></tr>
 
-  PICARD
-     Location?
+<tr id="L299"><td><a href="#L299">299</a></td><td>ANNOTATION: Rasmussen pockets a tricorder</td></tr>
 
-  DATA
-     Both epicentres are beneath the two southernmost
-     drill sites, Captain.
+<tr id="L300"><td><a href="#L300">300</a></td><td>RASMUSSEN:  Which do you suppose he's going to want to hear first?</td></tr>
 
-  PICARD
-     Is La Forge still down there?
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L301"><td><a href="#L301">301</a></td><td>PICARD:  The good news.</td></tr>
 
-  WORF
-     Yes, sir.
+<tr id="L302"><td><a href="#L302">302</a></td><td>DATA:  The motion of the dust has created a great deal of electrostatic energy in the upper atmosphere. With a modified phaser blast, we could create a shock front that would encircle the planet and ionise the particles.</td></tr>
 
-  PICARD
-     Find him.
+<tr id="L303"><td><a href="#L303">303</a></td><td>PICARD:  That would be like striking a spark in a gas-filled room.</td></tr>
 
-  RIKER
-     We've also got some volcanic activity. Pretty
-     severe.
+<tr id="L304"><td><a href="#L304">304</a></td><td>DATA:  With one exception, sir. The particles would be converted into a high energy plasma which our shields could absorb and then re-direct harmlessly into space.</td></tr>
 
-  PICARD
-     Magnify.
+<tr id="L305"><td><a href="#L305">305</a></td><td>PICARD:  Turn the Enterprise into a lightning rod?</td></tr>
 
-  LAFORGE [OC]
-     La Forge here, Captain. Moseley and I are on our
-     way back to his lab.
+<tr id="L306"><td><a href="#L306">306</a></td><td>DATA:  Precisely, sir.</td></tr>
 
-  PICARD
-     Are you all right?
+<tr id="L307"><td><a href="#L307">307</a></td><td>PICARD:  And the bad news?</td></tr>
 
-  LAFORGE [OC]
-     We're okay, but those were pretty big, sir. If
-     this was Earth, I'd say around an eight or an
-     eight five on the Richter Scale. We're starting to
-     see some volcanic plumes, Captain.
+<tr id="L308"><td><a href="#L308">308</a></td><td>DATA:  If our phaser discharge is off by as little as point zero six terawatts, it would cause a cascading exothermal inversion.</td></tr>
 
-  WORF
-     Two more eruptions, sir.
+<tr id="L309"><td><a href="#L309">309</a></td><td>PICARD:  Meaning?</td></tr>
 
-  DATA
-     It is likely that we overestimated the geologic
-     stability around the CO2 pockets, Captain.
+<tr id="L310"><td><a href="#L310">310</a></td><td>DATA:  We would completely burn off the planet's atmosphere.</td></tr>
 
-  LAFORGE [OC]
-     We're in the lab, sir.
+<tr id="L311"><td><a href="#L311">311</a></td><td>SOMEONE: Captain's log, supplemental. While Doctor Moseley takes La Forge's plan to the leaders of the colony, I find myself weighing the potential consequences of a more philosophical issue.</td></tr>
 
-  PICARD
-     On screen.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L312"><td><a href="#L312">312</a></td><td>PICARD:  Come.</td></tr>
 
-  MOSELEY [on viewscreen]
-     We're fairly well quake-proof down here, Picard.
-     It's the volcanic dust I'm worried about.
+<tr id="L313"><td><a href="#L313">313</a></td><td>ANNOTATION: Rasmussen enters</td></tr>
 
-  PICARD
-     What about the dust?
+<tr id="L314"><td><a href="#L314">314</a></td><td>PICARD:  I imagine you know why I've asked you here.</td></tr>
 
-  LAFORGE
-     The ash the volcanoes are throwing into the
-     atmosphere is going to compound the existing
-     problem. In a matter of days, there'll be no
-     sunlight getting through those clouds.
+<tr id="L315"><td><a href="#L315">315</a></td><td>RASMUSSEN:  Yeah, I have a fairly good idea.</td></tr>
 
-  MOSELEY [on viewscreen]
-     No amount of CO2 will help us then.
+<tr id="L316"><td><a href="#L316">316</a></td><td>PICARD:  I'm faced with a dilemma. There is a planet beneath us which is slowly turning to ice, and unless we do something about it, I'm told that in a matter of weeks thousands, maybe tens of thousands, will die.</td></tr>
 
-  RIKER
-     Captain, take a look at this. (at science two)
-     These are the coordinates of the eruptions, and
-     these are the coordinates of the phaser drilling
-     sites.
+<tr id="L317"><td><a href="#L317">317</a></td><td>RASMUSSEN:  That'd be a shame.</td></tr>
 
-  PICARD
-     The mantle is collapsing where the pressure was
-     released.
+<tr id="L318"><td><a href="#L318">318</a></td><td>PICARD:  Yes, it would. It would be quite a shame.</td></tr>
 
-  LAFORGE [on viewscreen]
-     Captain, Doctor Moseley and I have a couple of
-     ideas, but it's going to take some time to sort
-     out.
+<tr id="L319"><td><a href="#L319">319</a></td><td>RASMUSSEN:  So, what's your dilemma?</td></tr>
 
-  PICARD
-     Sort them out, Commander.
+<tr id="L320"><td><a href="#L320">320</a></td><td>PICARD:  Commander La Forge has a possible solution. The margins of error are extremely critical, but if successful, there'll be no more threat.</td></tr>
 
-  LAFORGE [on viewscreen]
-     Aye, sir.
+<tr id="L321"><td><a href="#L321">321</a></td><td>RASMUSSEN:  And if it's not successful?</td></tr>
 
-  RIKER
-     We came here to help these people.
+<tr id="L322"><td><a href="#L322">322</a></td><td>PICARD:  Every living thing on the planet will perish.</td></tr>
 
-  PICARD
-     And look what we've done.
+<tr id="L323"><td><a href="#L323">323</a></td><td>RASMUSSEN:  So do nothing and thousands will die. Do something and millions could die. That's a tough choice.</td></tr>
 
+<tr id="L324"><td><a href="#L324">324</a></td><td>PICARD:  Not if you were to help me.</td></tr>
 
-LOCATION--Data's quarters
+<tr id="L325"><td><a href="#L325">325</a></td><td>RASMUSSEN:  You're not suggesting I tell you the outcome of your efforts?</td></tr>
 
-  ANNOTATION
-     Rasmussen walks into a cacophony of sound
+<tr id="L326"><td><a href="#L326">326</a></td><td>PICARD:  Oh no, I'm not. Everything that Starfleet stands for, everything that I have ever believed in, tells me I cannot ask you that. But at the same time, there are twenty million lives down there, and you know what happened to them. What will happen to them.</td></tr>
 
-  RASMUSSEN
-     What in God's name is that?
+<tr id="L327"><td><a href="#L327">327</a></td><td>RASMUSSEN:  So, it seems you have another dilemma. One that questions your convictions.</td></tr>
 
-  DATA
-     Music, Professor.
+<tr id="L328"><td><a href="#L328">328</a></td><td>PICARD:  Well, I've never been afraid of reevaluating my convictions, Professor, and now, I have twenty million reasons to do so.</td></tr>
 
-  RASMUSSEN
-     Music?
+<tr id="L329"><td><a href="#L329">329</a></td><td>RASMUSSEN:  And why did you ask to see me?</td></tr>
 
-  DATA
-     Yes, sir. Mozart's Jupiter symphony in C major,
-     Bach's Brandenburg Concerto number three,
-     Beethoven's Ninth Symphony, second movement, molto
-     vivace and La Donna e Mobile from Verdi's
-     Rigoletto.
+<tr id="L330"><td><a href="#L330">330</a></td><td>PICARD:  Because your presence gives me potential access to a kind of information that I've never had available to me before, and if I am to re-examine my beliefs, then I must take advantage of every possible asset. It would be irresponsible of me not to ask you here.</td></tr>
 
-  RASMUSSEN
-     Do you think you could thin it out a bit?
+<tr id="L331"><td><a href="#L331">331</a></td><td>RASMUSSEN:  However you come to terms with your beliefs, Captain, I must tell you that I'm quite comfortable with mine.</td></tr>
 
-  DATA
-     Computer, eliminate programme one. Computer,
-     eliminate programme two. (glances at Rasmussen)
-     Computer, eliminate programme three. Computer,
-     half volume.
+<tr id="L332"><td><a href="#L332">332</a></td><td>PICARD:  How can you be? How can you be comfortable watching people die?</td></tr>
 
-  RASMUSSEN
-     How the hell can you listen to four pieces of
-     music at the same time?
+<tr id="L333"><td><a href="#L333">333</a></td><td>RASMUSSEN:  Let me put it to you this way. If I were to tell you that none of those people died, you'd easily conclude that you tried your solution and it succeeded. So, you'd confidently try again. No harm in that. But what if I were to tell you they all died? What then? Obviously, you'd decide not to make the same mistake twice. Now, what if one of those people grew up</td></tr>
 
-  DATA
-     Actually, I am capable of distinguishing over one
-     hundred and fifty simultaneous compositions, but
-     in order to analyse the aesthetics, I try to keep
-     it to ten or less.
+<tr id="L334"><td><a href="#L334">334</a></td><td>PICARD:  Yes, Professor, I know. What if one of those lives I save down there is a child who grows up to be the next Adolf Hitler or Khan Singh? Every first year philosophy student have been asked that question ever since the earliest wormholes were discovered. But this is not a class in temporal logic. It's not theoretical, it's not hypothetical, it's real. Surely you see that?</td></tr>
 
-  RASMUSSEN
-     Only four today?
+<tr id="L335"><td><a href="#L335">335</a></td><td>RASMUSSEN:  I see it all too well. But you must see that if I were to influence you, everything in this sector, in this quadrant of the galaxy could change. History, my history, would unfold in a way other than it already has. Now what possible incentive could anyone offer me to allow that to happen?</td></tr>
 
-  DATA
-     I am assisting Commander La Forge with a very
-     complex calculation. It demands a great deal of my
-     concentration.
+<tr id="L336"><td><a href="#L336">336</a></td><td>PICARD:  I have two choices. Either way, one version of history or another will wend its way forward. The history you know or another one. Now who is to say which is better? What I do know is here, today, one way, millions of lives could be saved. Now isn't that incentive enough?</td></tr>
 
-  RASMUSSEN
-     Well, I came to thank you for answering my
-     questions, though I probably should have asked you
-     to limit yourself to fifty thousand words.
+<tr id="L337"><td><a href="#L337">337</a></td><td>RASMUSSEN:  Everyone dies, Captain. It's just a question of when. All of those people down there died years before I was born. All of you up here, as well. So you see, I can't get quite as worked up as you over the fate of some colonists who, for me, have been dead a very, very long time.</td></tr>
 
-  DATA
-     You did ask me to be thorough.
+<tr id="L338"><td><a href="#L338">338</a></td><td>PICARD:  Of course, you know of the Prime Directive, which tells us that we have no right to interfere with the natural evolution of alien worlds. Now I have sworn to uphold it, but nevertheless I have disregarded that directive on more than one occasion because I thought it was the right thing to do. Now, if you are holding on to some temporal equivalent of that directive, then isn't it possible that you have an occasion here to make an exception, to help me to choose, because it's the right thing to do?</td></tr>
 
-  RASMUSSEN
-     I realise it's hard to believe, Data, but very few
-     records of Doctor Soong's work survived to the
-     twenty sixth century, so it would be invaluable to
-     myself and other historians, if you could provide
-     us with some schematics.
+<tr id="L339"><td><a href="#L339">339</a></td><td>RASMUSSEN:  We're not just talking about a choice. It sounds to me like you're trying to manipulate the future.</td></tr>
 
-  DATA
-     Certainly, as soon as my work here is completed.
+<tr id="L340"><td><a href="#L340">340</a></td><td>PICARD:  Every choice we make allows us to manipulate the future. Do I ask Adrienne or Suzanne to the spring dance? Do I take my holiday on Corsica or on Risa? A person's life, their future, hinges on each of a thousand choices. Living is making choices. Now you ask me to believe that if I make a choice other than the one found in your history books, then your past will be irrevocably altered. Well, you know, Professor, perhaps I don't give a damn about your past, because your past is my future and as far as I'm concerned, it hasn't been written yet.</td></tr>
 
-  RASMUSSEN
-     As long as it's before oh nine hundred tomorrow.
-     That's when I'll be heading back.
+<tr id="L341"><td><a href="#L341">341</a></td><td>RIKER [OC]:  Captain, the electrostatic conditions are about as good as they're going to get. If we're going to try this, now's the time.</td></tr>
 
-  WORF [OC]
-     Bridge to Commander Data.
+<tr id="L342"><td><a href="#L342">342</a></td><td>RASMUSSEN:  Please don't ask me, Captain. I can't help you. I'm sorry.</td></tr>
 
-  DATA
-     Yes, Worf.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L343"><td><a href="#L343">343</a></td><td>PICARD:  How long will it take to programme the phasers, Number One?</td></tr>
 
-  WORF
-     Commander La Forge is hailing you from the
-     surface, sir.
+<tr id="L344"><td><a href="#L344">344</a></td><td>RIKER:  We've just got to tie in Geordi's atmospheric sensors.</td></tr>
 
-  DATA
-     Patch him through, please.
+<tr id="L345"><td><a href="#L345">345</a></td><td>RASMUSSEN:  So you've made your choice after all, and without my help.</td></tr>
 
-  LAFORGE [on monitor]
-     Have you rerun the phase reversal figures, Data?
+<tr id="L346"><td><a href="#L346">346</a></td><td>PICARD:  Oh, on the contrary, Professor, you were quite helpful.</td></tr>
 
-  DATA
-     There were no errors, Geordi. The variance must be
-     no more than point zero six terawatts.
+<tr id="L347"><td><a href="#L347">347</a></td><td>RASMUSSEN:  How's that?</td></tr>
 
-  LAFORGE [on monitor]
-     Well, I don't see any other choice. We'll continue
-     to run the numbers down here but I doubt we'll
-     come up with anything different. You better inform
-     the captain of the good news and the bad news. La
-     Forge out.
+<tr id="L348"><td><a href="#L348">348</a></td><td>PICARD:  By refusing to assist me, you left me with the same choice I had to began with. To try or not to try, to take a risk or to play it safe. Your arguments have reminded me how precious the right to choose is. And because I've never been one to play it safe, I choose to try. Mister Data, programme the firing sequence.</td></tr>
 
-  ANNOTATION
-     Rasmussen pockets a tricorder
+<tr id="L349"><td><a href="#L349">349</a></td><td>DATA:  Aye, sir.</td></tr>
 
-  RASMUSSEN
-     Which do you suppose he's going to want to hear
-     first?
+<tr id="L350"><td><a href="#L350">350</a></td><td>SOMEONE: Captain's log, stardate 45351.9. Doctor Moseley has met with the colony leaders, who all agree they are willing to take the risk.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L351"><td><a href="#L351">351</a></td><td>WORF:  Warp power has being rerouted to the main deflector dish, Commander.</td></tr>
 
-LOCATION--Ready room
+<tr id="L352"><td><a href="#L352">352</a></td><td>LAFORGE [on viewscreen]:  Keep those phasers on active surge control, Worf. We're only going to get one shot at this.</td></tr>
 
-  PICARD
-     The good news.
+<tr id="L353"><td><a href="#L353">353</a></td><td>RASMUSSEN:  Well, this is it!</td></tr>
 
-  DATA
-     The motion of the dust has created a great deal of
-     electrostatic energy in the upper atmosphere. With
-     a modified phaser blast, we could create a shock
-     front that would encircle the planet and ionise
-     the particles.
+<tr id="L354"><td><a href="#L354">354</a></td><td>RIKER:  You have the sequence locked in, Data?</td></tr>
 
-  PICARD
-     That would be like striking a spark in a
-     gas-filled room.
+<tr id="L355"><td><a href="#L355">355</a></td><td>DATA:  Yes, sir. After an eight point three second burst from the dish, we'll discharge all EPS taps through the phasers.</td></tr>
 
-  DATA
-     With one exception, sir. The particles would be
-     converted into a high energy plasma which our
-     shields could absorb and then re-direct harmlessly
-     into space.
+<tr id="L356"><td><a href="#L356">356</a></td><td>PICARD:  It's time for you return to the ship, Mister La Forge. Mister O'Brien, stand by to transport.</td></tr>
 
-  PICARD
-     Turn the Enterprise into a lightning rod?
+<tr id="L357"><td><a href="#L357">357</a></td><td>LAFORGE [on viewscreen]:  Excuse me, Captain, but I can be of a lot more help down here. We've going to have to compensate for density variations right up to the last second.</td></tr>
 
-  DATA
-     Precisely, sir.
+<tr id="L358"><td><a href="#L358">358</a></td><td>DATA:  Doctor Moseley's computers can accomplish the same task, sir. but Geordi would be better able to anticipate unexpected variances.</td></tr>
 
-  PICARD
-     And the bad news?
+<tr id="L359"><td><a href="#L359">359</a></td><td>PICARD:  Mister La Forge, you know better than anyone there's no guarantee this will work. If it fails</td></tr>
 
-  DATA
-     If our phaser discharge is off by as little as
-     point zero six terawatts, it would cause a
-     cascading exothermal inversion.
+<tr id="L360"><td><a href="#L360">360</a></td><td>LAFORGE [on viewscreen]:  There's no guarantee it's going to fail, Captain. I'd like your permission to remain here on the surface.</td></tr>
 
-  PICARD
-     Meaning?
+<tr id="L361"><td><a href="#L361">361</a></td><td>PICARD:  Permission granted.</td></tr>
 
-  DATA
-     We would completely burn off the planet's
-     atmosphere.
+<tr id="L362"><td><a href="#L362">362</a></td><td>RASMUSSEN:  La Forge remained below.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. While Doctor Moseley
-     takes La Forge's plan to the leaders of the
-     colony, I find myself weighing the potential
-     consequences of a more philosophical issue.
+<tr id="L363"><td><a href="#L363">363</a></td><td>PICARD:  Good luck, Commander.</td></tr>
 
+<tr id="L364"><td><a href="#L364">364</a></td><td>LAFORGE [on viewscreen]:  Thank you, Captain.</td></tr>
 
-LOCATION--Ready room
+<tr id="L365"><td><a href="#L365">365</a></td><td>ANNOTATION: transmission ends</td></tr>
 
-  PICARD
-     Come.
+<tr id="L366"><td><a href="#L366">366</a></td><td>DATA:  The deflector dish has been reconfigured, Captain.</td></tr>
 
-  ANNOTATION
-     Rasmussen enters
+<tr id="L367"><td><a href="#L367">367</a></td><td>RIKER:  Proceed, Mister Data.</td></tr>
 
-  PICARD
-     I imagine you know why I've asked you here.
+<tr id="L368"><td><a href="#L368">368</a></td><td>DATA:  Stand by for auto-phaser interlock. Activating deflector beam.</td></tr>
 
-  RASMUSSEN
-     Yeah, I have a fairly good idea.
+<tr id="L369"><td><a href="#L369">369</a></td><td>WORF:  EPS taps online. Phasers firing.</td></tr>
 
-  PICARD
-     I'm faced with a dilemma. There is a planet
-     beneath us which is slowly turning to ice, and
-     unless we do something about it, I'm told that in
-     a matter of weeks thousands, maybe tens of
-     thousands, will die.
+<tr id="L370"><td><a href="#L370">370</a></td><td>ANNOTATION: a wicked red glow quickly spreads through the atmosphere, and is then pushed back into a single point by azure blue. A stream of energy leaps out at the Enterprise and envelopes it</td></tr>
 
-  RASMUSSEN
-     That'd be a shame.
+<tr id="L371"><td><a href="#L371">371</a></td><td>DATA:  Activating shield invertors, now.</td></tr>
 
-  PICARD
-     Yes, it would. It would be quite a shame.
+<tr id="L372"><td><a href="#L372">372</a></td><td>ANNOTATION: Enterprise does a neat 180 and pours the energy off into space</td></tr>
 
-  RASMUSSEN
-     So, what's your dilemma?
+<tr id="L373"><td><a href="#L373">373</a></td><td>PICARD:  Mister La Forge?</td></tr>
 
-  PICARD
-     Commander La Forge has a possible solution. The
-     margins of error are extremely critical, but if
-     successful, there'll be no more threat.
+<tr id="L374"><td><a href="#L374">374</a></td><td>LAFORGE [on viewscreen]:  La Forge here. Still breathing, Captain.</td></tr>
 
-  RASMUSSEN
-     And if it's not successful?
+<tr id="L375"><td><a href="#L375">375</a></td><td>MOSELEY [on viewscreen]:  We've got particulate levels right where they're supposed to be and the sun is shining!</td></tr>
 
-  PICARD
-     Every living thing on the planet will perish.
+<tr id="L376"><td><a href="#L376">376</a></td><td>LAFORGE [on viewscreen]:  You see, Captain, I told you there was nothing to worry about.</td></tr>
 
-  RASMUSSEN
-     So do nothing and thousands will die. Do something
-     and millions could die. That's a tough choice.
+<tr id="L377"><td><a href="#L377">377</a></td><td>PICARD:  Report back to the ship when you're ready, Commander. Doctor, we'll stay in orbit and analyse the remaining volcanic disturbances, but the best advice would be to let them cool down on their own.</td></tr>
 
-  PICARD
-     Not if you were to help me.
+<tr id="L378"><td><a href="#L378">378</a></td><td>MOSELEY [on viewscreen]:  I'm getting in the habit of thanking you, Picard.</td></tr>
 
-  RASMUSSEN
-     You're not suggesting I tell you the outcome of
-     your efforts?
+<tr id="L379"><td><a href="#L379">379</a></td><td>ANNOTATION: transmission ends</td></tr>
 
-  PICARD
-     Oh no, I'm not. Everything that Starfleet stands
-     for, everything that I have ever believed in,
-     tells me I cannot ask you that. But at the same
-     time, there are twenty million lives down there,
-     and you know what happened to them. What will
-     happen to them.
+<tr id="L380"><td><a href="#L380">380</a></td><td>RASMUSSEN:  Well, I'd love to see more, but it's nearly time for me to go. I am tickled pink to have had the opportunity of witnessing this, Picard. And you did it all without any help. well, must run. Got some packing to do. You know, you're taller in person, Commander.</td></tr>
 
-  RASMUSSEN
-     So, it seems you have another dilemma. One that
-     questions your convictions.
+<tr id="L381"><td><a href="#L381">381</a></td><td>ANNOTATION: Rasmussen leaves, and Picard gives Worf the nod</td></tr>
 
-  PICARD
-     Well, I've never been afraid of reevaluating my
-     convictions, Professor, and now, I have twenty
-     million reasons to do so.
+<tr><td></td><td>LOCATION--Shuttlebay</td></tr>
+<tr id="L382"><td><a href="#L382">382</a></td><td>RASMUSSEN:  Well, would you look at this. Who would have expected a teary farewell?</td></tr>
 
-  RASMUSSEN
-     And why did you ask to see me?
+<tr id="L383"><td><a href="#L383">383</a></td><td>PICARD:  I'm afraid we're going to have to take a look in your vessel.</td></tr>
 
-  PICARD
-     Because your presence gives me potential access to
-     a kind of information that I've never had
-     available to me before, and if I am to re-examine
-     my beliefs, then I must take advantage of every
-     possible asset. It would be irresponsible of me
-     not to ask you here.
+<tr id="L384"><td><a href="#L384">384</a></td><td>RASMUSSEN:  Curious till the end, eh, Captain? You can't be serious, Picard. We've been through this more than once.</td></tr>
 
-  RASMUSSEN
-     However you come to terms with your beliefs,
-     Captain, I must tell you that I'm quite
-     comfortable with mine.
+<tr id="L385"><td><a href="#L385">385</a></td><td>PICARD:  A number of objects have been discovered missing in the last two days, and if they're in your possession, then we would like them returned.</td></tr>
 
-  PICARD
-     How can you be? How can you be comfortable
-     watching people die?
+<tr id="L386"><td><a href="#L386">386</a></td><td>RASMUSSEN:  I'm not here in search of relics. I'm sure they'll turn up.</td></tr>
 
-  RASMUSSEN
-     Let me put it to you this way. If I were to tell
-     you that none of those people died, you'd easily
-     conclude that you tried your solution and it
-     succeeded. So, you'd confidently try again. No
-     harm in that. But what if I were to tell you they
-     all died? What then? Obviously, you'd decide not
-     to make the same mistake twice. Now, what if one
-     of those people grew up
+<tr id="L387"><td><a href="#L387">387</a></td><td>WORF:  If you will not open the vessel, I will. With explosives, if necessary.</td></tr>
 
-  PICARD
-     Yes, Professor, I know. What if one of those lives
-     I save down there is a child who grows up to be
-     the next Adolf Hitler or Khan Singh? Every first
-     year philosophy student have been asked that
-     question ever since the earliest wormholes were
-     discovered. But this is not a class in temporal
-     logic. It's not theoretical, it's not
-     hypothetical, it's real. Surely you see that?
+<tr id="L388"><td><a href="#L388">388</a></td><td>RASMUSSEN:  I doubt you have the means.</td></tr>
 
-  RASMUSSEN
-     I see it all too well. But you must see that if I
-     were to influence you, everything in this sector,
-     in this quadrant of the galaxy could change.
-     History, my history, would unfold in a way other
-     than it already has. Now what possible incentive
-     could anyone offer me to allow that to happen?
+<tr id="L389"><td><a href="#L389">389</a></td><td>RIKER:  If we don't get in that thing, I guarantee you don't either.</td></tr>
 
-  PICARD
-     I have two choices. Either way, one version of
-     history or another will wend its way forward. The
-     history you know or another one. Now who is to say
-     which is better? What I do know is here, today,
-     one way, millions of lives could be saved. Now
-     isn't that incentive enough?
+<tr id="L390"><td><a href="#L390">390</a></td><td>RASMUSSEN:  Considering the sensitive nature of my equipment, I think you'll understand if I request that only Mister Data be allowed to see it.</td></tr>
 
-  RASMUSSEN
-     Everyone dies, Captain. It's just a question of
-     when. All of those people down there died years
-     before I was born. All of you up here, as well. So
-     you see, I can't get quite as worked up as you
-     over the fate of some colonists who, for me, have
-     been dead a very, very long time.
+<tr id="L391"><td><a href="#L391">391</a></td><td>RIKER:  Why Data?</td></tr>
 
-  PICARD
-     Of course, you know of the Prime Directive, which
-     tells us that we have no right to interfere with
-     the natural evolution of alien worlds. Now I have
-     sworn to uphold it, but nevertheless I have
-     disregarded that directive on more than one
-     occasion because I thought it was the right thing
-     to do. Now, if you are holding on to some temporal
-     equivalent of that directive, then isn't it
-     possible that you have an occasion here to make an
-     exception, to help me to choose, because it's the
-     right thing to do?
+<tr id="L392"><td><a href="#L392">392</a></td><td>PICARD:  Because if I order Data never to divulge what he sees in there, he won't, with the exception of anything that might belong to us.</td></tr>
 
-  RASMUSSEN
-     We're not just talking about a choice. It sounds
-     to me like you're trying to manipulate the future.
+<tr id="L393"><td><a href="#L393">393</a></td><td>DATA:  Understood, sir.</td></tr>
 
-  PICARD
-     Every choice we make allows us to manipulate the
-     future. Do I ask Adrienne or Suzanne to the spring
-     dance? Do I take my holiday on Corsica or on Risa?
-     A person's life, their future, hinges on each of a
-     thousand choices. Living is making choices. Now
-     you ask me to believe that if I make a choice
-     other than the one found in your history books,
-     then your past will be irrevocably altered. Well,
-     you know, Professor, perhaps I don't give a damn
-     about your past, because your past is my future
-     and as far as I'm concerned, it hasn't been
-     written yet.
+<tr id="L394"><td><a href="#L394">394</a></td><td>RASMUSSEN:  Back in a minute.</td></tr>
 
-  RIKER [OC]
-     Captain, the electrostatic conditions are about as
-     good as they're going to get. If we're going to
-     try this, now's the time.
+<tr id="L395"><td><a href="#L395">395</a></td><td>ANNOTATION: Rasmussen puts his hand on the ship, it scans him and a door appears. They enter and it closes again</td></tr>
 
-  RASMUSSEN
-     Please don't ask me, Captain. I can't help you.
-     I'm sorry.
+<tr><td></td><td>LOCATION--Time ship</td></tr>
+<tr id="L396"><td><a href="#L396">396</a></td><td>ANNOTATION: tricorder, the neural stimulator, a hypospray, one of Geordi's visors, a PADD, a Klingon knife</td></tr>
 
+<tr id="L397"><td><a href="#L397">397</a></td><td>DATA:  I do not believe any of these items belong to you, Professor.</td></tr>
 
-LOCATION--Bridge
+<tr id="L398"><td><a href="#L398">398</a></td><td>RASMUSSEN:  Nor does this. This phaser is set at the highest stun setting. If I'm correct, that is sufficient to immobilise even you.</td></tr>
 
-  PICARD
-     How long will it take to programme the phasers,
-     Number One?
+<tr id="L399"><td><a href="#L399">399</a></td><td>DATA:  Why have you stolen these objects? To put in a museum?</td></tr>
 
-  RIKER
-     We've just got to tie in Geordi's atmospheric
-     sensors.
+<tr id="L400"><td><a href="#L400">400</a></td><td>RASMUSSEN:  Far too valuable for that. You see, in the century I come from, they haven't even been invented yet.</td></tr>
 
-  RASMUSSEN
-     So you've made your choice after all, and without
-     my help.
+<tr id="L401"><td><a href="#L401">401</a></td><td>DATA:  But this vessel? And the temporal distortion that coincided with your arrival?</td></tr>
 
-  PICARD
-     Oh, on the contrary, Professor, you were quite
-     helpful.
+<tr id="L402"><td><a href="#L402">402</a></td><td>RASMUSSEN:  Oh, this is a time pod, and it is from the twenty sixth century. At least that's what the poor fellow said. You see, he decided to travel back to the twenty second century, that's my time, and he had the misfortune of meeting me. His clothes fit quite well, don't you think? Took me weeks to figure out how to work this thing.</td></tr>
 
-  RASMUSSEN
-     How's that?
+<tr id="L403"><td><a href="#L403">403</a></td><td>DATA:  Then you are not an historian.</td></tr>
 
-  PICARD
-     By refusing to assist me, you left me with the
-     same choice I had to began with. To try or not to
-     try, to take a risk or to play it safe. Your
-     arguments have reminded me how precious the right
-     to choose is. And because I've never been one to
-     play it safe, I choose to try. Mister Data,
-     programme the firing sequence.
+<tr id="L404"><td><a href="#L404">404</a></td><td>RASMUSSEN:  More of an inventor. Up till a few weeks ago, a dismally unsuccessful one.</td></tr>
 
-  DATA
-     Aye, sir.
+<tr id="L405"><td><a href="#L405">405</a></td><td>DATA:  What are your intentions, Professor?</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 45351.9. Doctor Moseley
-     has met with the colony leaders, who all agree
-     they are willing to take the risk.
+<tr id="L406"><td><a href="#L406">406</a></td><td>RASMUSSEN:  Well, thanks to your captain, it seems my intentions have changed slightly. I was quite content with the notion of returning with those trinkets. I'd invent about one a year. But now, look what fortune has graced me with. You will take a little longer to figure out than a tricorder, but it should be well worth the effort. If the auto timer is programmed the way I think it is, in about two minutes we should be on our way back to a place called New Jersey. I'm afraid you won't be awake for the ride.</td></tr>
 
+<tr id="L407"><td><a href="#L407">407</a></td><td>ANNOTATION: but the phaser doesn't fire</td></tr>
 
-LOCATION--Bridge
+<tr id="L408"><td><a href="#L408">408</a></td><td>DATA:  I assume your hand print will open the door whether you are conscious or not.</td></tr>
 
-  WORF
-     Warp power has being rerouted to the main
-     deflector dish, Commander.
+<tr><td></td><td>LOCATION--Shuttlebay</td></tr>
+<tr id="L409"><td><a href="#L409">409</a></td><td>RASMUSSEN:  That weapon was working yesterday.</td></tr>
 
-  LAFORGE [on viewscreen]
-     Keep those phasers on active surge control, Worf.
-     We're only going to get one shot at this.
+<tr id="L410"><td><a href="#L410">410</a></td><td>DATA:  You were correct to suspect him, sir. But he is not from the future, he is from the past.</td></tr>
 
-  RASMUSSEN
-     Well, this is it!
+<tr id="L411"><td><a href="#L411">411</a></td><td>PICARD:  Trying to make my history unfold in a way other than it already has, eh, Professor?</td></tr>
 
-  RIKER
-     You have the sequence locked in, Data?
+<tr id="L412"><td><a href="#L412">412</a></td><td>RASMUSSEN:  This was all a misunderstanding, Picard. Just let me back in there and we'll forget the whole thing.</td></tr>
 
-  DATA
-     Yes, sir. After an eight point three second burst
-     from the dish, we'll discharge all EPS taps
-     through the phasers.
+<tr id="L413"><td><a href="#L413">413</a></td><td>PICARD:  Now what possible incentive could anyone offer me to allow that?</td></tr>
 
-  PICARD
-     It's time for you return to the ship, Mister La
-     Forge. Mister O'Brien, stand by to transport.
+<tr id="L414"><td><a href="#L414">414</a></td><td>DATA:  I believe you will find all of the missing items in the vessel, sir.</td></tr>
 
-  LAFORGE [on viewscreen]
-     Excuse me, Captain, but I can be of a lot more
-     help down here. We've going to have to compensate
-     for density variations right up to the last
-     second.
+<tr id="L415"><td><a href="#L415">415</a></td><td>RASMUSSEN:  Doctor.</td></tr>
 
-  DATA
-     Doctor Moseley's computers can accomplish the same
-     task, sir. but Geordi would be better able to
-     anticipate unexpected variances.
+<tr id="L416"><td><a href="#L416">416</a></td><td>CRUSHER:  A very nice performance.</td></tr>
 
-  PICARD
-     Mister La Forge, you know better than anyone
-     there's no guarantee this will work. If it fails
+<tr id="L417"><td><a href="#L417">417</a></td><td>RASMUSSEN:  Not all of it. Some of it was real. Captain.</td></tr>
 
-  LAFORGE [on viewscreen]
-     There's no guarantee it's going to fail, Captain.
-     I'd like your permission to remain here on the
-     surface.
+<tr id="L418"><td><a href="#L418">418</a></td><td>DATA:  He claims to be a twenty second century inventor, Captain.</td></tr>
 
-  PICARD
-     Permission granted.
+<tr id="L419"><td><a href="#L419">419</a></td><td>PICARD:  A pity you weren't a bit more inventive. If fewer things had disappeared, we might never have suspected you. As it was, the only stumbling block was your ship. Our sensors couldn't penetrate it. But once the door was opened, the computer was able to detect and deactivate everything you'd stolen, including this.</td></tr>
 
-  RASMUSSEN
-     La Forge remained below.
+<tr id="L420"><td><a href="#L420">420</a></td><td>RASMUSSEN:  I'd love to hear more, Picard, but I really must get back in that pod.</td></tr>
 
-  PICARD
-     Good luck, Commander.
+<tr id="L421"><td><a href="#L421">421</a></td><td>RIKER:  Take him to a detention cell, Mister Worf, and notify Starfleet that we'll be dropping him off at Starbase two one four.</td></tr>
 
-  LAFORGE [on viewscreen]
-     Thank you, Captain.
+<tr id="L422"><td><a href="#L422">422</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  ANNOTATION
-     transmission ends
+<tr id="L423"><td><a href="#L423">423</a></td><td>RASMUSSEN:  You can't do this. I've got to get back. I don't belong here.</td></tr>
 
-  DATA
-     The deflector dish has been reconfigured, Captain.
+<tr id="L424"><td><a href="#L424">424</a></td><td>ANNOTATION: the time ship shuts its door and vanishes</td></tr>
 
-  RIKER
-     Proceed, Mister Data.
+<tr id="L425"><td><a href="#L425">425</a></td><td>RASMUSSEN:  No!</td></tr>
 
-  DATA
-     Stand by for auto-phaser interlock. Activating
-     deflector beam.
+<tr id="L426"><td><a href="#L426">426</a></td><td>PICARD:  I'm sure there are more than a few legitimate historians at Starfleet who will be quite eager to meet a human from your era. Oh, Professor. Welcome to the twenty fourth century.</td></tr>
 
-  WORF
-     EPS taps online. Phasers firing.
-
-  ANNOTATION
-     a wicked red glow quickly spreads through the
-     atmosphere, and is then pushed back into a single
-     point by azure blue. A stream of energy leaps out
-     at the Enterprise and envelopes it
-
-  DATA
-     Activating shield invertors, now.
-
-  ANNOTATION
-     Enterprise does a neat 180 and pours the energy
-     off into space
-
-  PICARD
-     Mister La Forge?
-
-  LAFORGE [on viewscreen]
-     La Forge here. Still breathing, Captain.
-
-  MOSELEY [on viewscreen]
-     We've got particulate levels right where they're
-     supposed to be and the sun is shining!
-
-  LAFORGE [on viewscreen]
-     You see, Captain, I told you there was nothing to
-     worry about.
-
-  PICARD
-     Report back to the ship when you're ready,
-     Commander. Doctor, we'll stay in orbit and analyse
-     the remaining volcanic disturbances, but the best
-     advice would be to let them cool down on their
-     own.
-
-  MOSELEY [on viewscreen]
-     I'm getting in the habit of thanking you, Picard.
-
-  ANNOTATION
-     transmission ends
-
-  RASMUSSEN
-     Well, I'd love to see more, but it's nearly time
-     for me to go. I am tickled pink to have had the
-     opportunity of witnessing this, Picard. And you
-     did it all without any help. well, must run. Got
-     some packing to do. You know, you're taller in
-     person, Commander.
-
-  ANNOTATION
-     Rasmussen leaves, and Picard gives Worf the nod
-
-
-LOCATION--Shuttlebay
-
-  RASMUSSEN
-     Well, would you look at this. Who would have
-     expected a teary farewell?
-
-  PICARD
-     I'm afraid we're going to have to take a look in
-     your vessel.
-
-  RASMUSSEN
-     Curious till the end, eh, Captain? You can't be
-     serious, Picard. We've been through this more than
-     once.
-
-  PICARD
-     A number of objects have been discovered missing
-     in the last two days, and if they're in your
-     possession, then we would like them returned.
-
-  RASMUSSEN
-     I'm not here in search of relics. I'm sure they'll
-     turn up.
-
-  WORF
-     If you will not open the vessel, I will. With
-     explosives, if necessary.
-
-  RASMUSSEN
-     I doubt you have the means.
-
-  RIKER
-     If we don't get in that thing, I guarantee you
-     don't either.
-
-  RASMUSSEN
-     Considering the sensitive nature of my equipment,
-     I think you'll understand if I request that only
-     Mister Data be allowed to see it.
-
-  RIKER
-     Why Data?
-
-  PICARD
-     Because if I order Data never to divulge what he
-     sees in there, he won't, with the exception of
-     anything that might belong to us.
-
-  DATA
-     Understood, sir.
-
-  RASMUSSEN
-     Back in a minute.
-
-  ANNOTATION
-     Rasmussen puts his hand on the ship, it scans him
-     and a door appears. They enter and it closes again
-
-
-LOCATION--Time ship
-
-  ANNOTATION
-     tricorder, the neural stimulator, a hypospray, one
-     of Geordi's visors, a PADD, a Klingon knife
-
-  DATA
-     I do not believe any of these items belong to you,
-     Professor.
-
-  RASMUSSEN
-     Nor does this. This phaser is set at the highest
-     stun setting. If I'm correct, that is sufficient
-     to immobilise even you.
-
-  DATA
-     Why have you stolen these objects? To put in a
-     museum?
-
-  RASMUSSEN
-     Far too valuable for that. You see, in the century
-     I come from, they haven't even been invented yet.
-
-  DATA
-     But this vessel? And the temporal distortion that
-     coincided with your arrival?
-
-  RASMUSSEN
-     Oh, this is a time pod, and it is from the twenty
-     sixth century. At least that's what the poor
-     fellow said. You see, he decided to travel back to
-     the twenty second century, that's my time, and he
-     had the misfortune of meeting me. His clothes fit
-     quite well, don't you think? Took me weeks to
-     figure out how to work this thing.
-
-  DATA
-     Then you are not an historian.
-
-  RASMUSSEN
-     More of an inventor. Up till a few weeks ago, a
-     dismally unsuccessful one.
-
-  DATA
-     What are your intentions, Professor?
-
-  RASMUSSEN
-     Well, thanks to your captain, it seems my
-     intentions have changed slightly. I was quite
-     content with the notion of returning with those
-     trinkets. I'd invent about one a year. But now,
-     look what fortune has graced me with. You will
-     take a little longer to figure out than a
-     tricorder, but it should be well worth the effort.
-     If the auto timer is programmed the way I think it
-     is, in about two minutes we should be on our way
-     back to a place called New Jersey. I'm afraid you
-     won't be awake for the ride.
-
-  ANNOTATION
-     but the phaser doesn't fire
-
-  DATA
-     I assume your hand print will open the door
-     whether you are conscious or not.
-
-
-LOCATION--Shuttlebay
-
-  RASMUSSEN
-     That weapon was working yesterday.
-
-  DATA
-     You were correct to suspect him, sir. But he is
-     not from the future, he is from the past.
-
-  PICARD
-     Trying to make my history unfold in a way other
-     than it already has, eh, Professor?
-
-  RASMUSSEN
-     This was all a misunderstanding, Picard. Just let
-     me back in there and we'll forget the whole thing.
-
-  PICARD
-     Now what possible incentive could anyone offer me
-     to allow that?
-
-  DATA
-     I believe you will find all of the missing items
-     in the vessel, sir.
-
-  RASMUSSEN
-     Doctor.
-
-  CRUSHER
-     A very nice performance.
-
-  RASMUSSEN
-     Not all of it. Some of it was real. Captain.
-
-  DATA
-     He claims to be a twenty second century inventor,
-     Captain.
-
-  PICARD
-     A pity you weren't a bit more inventive. If fewer
-     things had disappeared, we might never have
-     suspected you. As it was, the only stumbling block
-     was your ship. Our sensors couldn't penetrate it.
-     But once the door was opened, the computer was
-     able to detect and deactivate everything you'd
-     stolen, including this.
-
-  RASMUSSEN
-     I'd love to hear more, Picard, but I really must
-     get back in that pod.
-
-  RIKER
-     Take him to a detention cell, Mister Worf, and
-     notify Starfleet that we'll be dropping him off at
-     Starbase two one four.
-
-  WORF
-     Aye, sir.
-
-  RASMUSSEN
-     You can't do this. I've got to get back. I don't
-     belong here.
-
-  ANNOTATION
-     the time ship shuts its door and vanishes
-
-  RASMUSSEN
-     No!
-
-  PICARD
-     I'm sure there are more than a few legitimate
-     historians at Starfleet who will be quite eager to
-     meet a human from your era. Oh, Professor. Welcome
-     to the twenty fourth century.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

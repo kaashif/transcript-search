@@ -1,1832 +1,983 @@
-The Changeling
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Changeling</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>KIRK:  Any response from the Malurians, Lieutenant?</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>UHURA:  Nothing since their original distress call, sir.</td></tr>
 
-  KIRK
-     Any response from the Malurians, Lieutenant?
+<tr id="L3"><td><a href="#L3">3</a></td><td>KIRK:  What about the Federation science team working there? Doctor Manway had a special transmitter.</td></tr>
 
-  UHURA
-     Nothing since their original distress call, sir.
+<tr id="L4"><td><a href="#L4">4</a></td><td>UHURA:  There's nothing, sir. I'm scanning all frequencies.</td></tr>
 
-  KIRK
-     What about the Federation science team working
-     there? Doctor Manway had a special transmitter.
+<tr id="L5"><td><a href="#L5">5</a></td><td>KIRK:  They have to answer.</td></tr>
 
-  UHURA
-     There's nothing, sir. I'm scanning all
-     frequencies.
+<tr id="L6"><td><a href="#L6">6</a></td><td>SPOCK:  Captain. They will not answer. The long-range sensor sweep of this system reveals no sign of life.</td></tr>
 
-  KIRK
-     They have to answer.
+<tr id="L7"><td><a href="#L7">7</a></td><td>KIRK:  That can't be. The last census reported a total inhabitation of more than four billion people.</td></tr>
 
-  SPOCK
-     Captain. They will not answer. The long-range
-     sensor sweep of this system reveals no sign of
-     life.
+<tr id="L8"><td><a href="#L8">8</a></td><td>SPOCK:  I register no life readings at all, sir.</td></tr>
 
-  KIRK
-     That can't be. The last census reported a total
-     inhabitation of more than four billion people.
+<tr id="L9"><td><a href="#L9">9</a></td><td>KIRK:  That's impossible. What could have happened?</td></tr>
 
-  SPOCK
-     I register no life readings at all, sir.
+<tr id="L10"><td><a href="#L10">10</a></td><td>SPOCK:  We would have known in advance of any system-wide catastrophe, and in the event of an interplanetary war, there would be considerable radioactive residue. Our instruments show only normal background radiation.</td></tr>
 
-  KIRK
-     That's impossible. What could have happened?
+<tr id="L11"><td><a href="#L11">11</a></td><td>KIRK:  Any other possibilities?</td></tr>
 
-  SPOCK
-     We would have known in advance of any system-wide
-     catastrophe, and in the event of an interplanetary
-     war, there would be considerable radioactive
-     residue. Our instruments show only normal
-     background radiation.
+<tr id="L12"><td><a href="#L12">12</a></td><td>SPOCK:  Unknown, sir. Sensor readings would have revealed the presence of any disease organisms. They do not. In addition, we received the routine report from this system only a week ago. Even the Symbalene blood burn does not act that swiftly.</td></tr>
 
-  KIRK
-     Any other possibilities?
+<tr id="L13"><td><a href="#L13">13</a></td><td>SULU:  Captain, shields just snapped on. Something heading in at multiwarp speeds.</td></tr>
 
-  SPOCK
-     Unknown, sir. Sensor readings would have revealed
-     the presence of any disease organisms. They do
-     not. In addition, we received the routine report
-     from this system only a week ago. Even the
-     Symbalene blood burn does not act that swiftly.
+<tr id="L14"><td><a href="#L14">14</a></td><td>KIRK:  Evasive manoeuvres, Mister Sulu.</td></tr>
 
-  SULU
-     Captain, shields just snapped on. Something
-     heading in at multiwarp speeds.
+<tr id="L15"><td><a href="#L15">15</a></td><td>SPOCK:  An extremely powerful bolt of energy, Captain.</td></tr>
 
-  KIRK
-     Evasive manoeuvres, Mister Sulu.
+<tr id="L16"><td><a href="#L16">16</a></td><td>KIRK:  Full power to the shields, Mister Scott.</td></tr>
 
-  SPOCK
-     An extremely powerful bolt of energy, Captain.
+<tr id="L17"><td><a href="#L17">17</a></td><td>SCOTT:  Giving them all we got.</td></tr>
 
-  KIRK
-     Full power to the shields, Mister Scott.
+<tr id="L18"><td><a href="#L18">18</a></td><td>KIRK:  All hands, Red Alert. Phaser banks stand by. Photon torpedoes to Condition Red, Condition Red.</td></tr>
 
-  SCOTT
-     Giving them all we got.
+<tr id="L19"><td><a href="#L19">19</a></td><td>ANNOTATION: The viewscreen fills with a ball of bright light.</td></tr>
 
-  KIRK
-     All hands, Red Alert. Phaser banks stand by.
-     Photon torpedoes to Condition Red, Condition Red.
+<tr id="L20"><td><a href="#L20">20</a></td><td>SULU:  It's going to hit.</td></tr>
 
-  ANNOTATION
-     The viewscreen fills with a ball of bright light.
+<tr id="L21"><td><a href="#L21">21</a></td><td>ANNOTATION: Everyone gets thrown around a lot, and the lights go out for a short while.</td></tr>
 
-  SULU
-     It's going to hit.
+<tr id="L22"><td><a href="#L22">22</a></td><td>SCOTT:  Shields still holding, sir.</td></tr>
 
-  ANNOTATION
-     Everyone gets thrown around a lot, and the lights
-     go out for a short while.
+<tr id="L23"><td><a href="#L23">23</a></td><td>KIRK:  Good.</td></tr>
 
-  SCOTT
-     Shields still holding, sir.
+<tr id="L24"><td><a href="#L24">24</a></td><td>SPOCK:  Temporarily, Captain. Our shields absorbed energy equivalent to ninety of our photon torpedoes.</td></tr>
 
-  KIRK
-     Good.
+<tr id="L25"><td><a href="#L25">25</a></td><td>KIRK:  Ninety?</td></tr>
 
-  SPOCK
-     Temporarily, Captain. Our shields absorbed energy
-     equivalent to ninety of our photon torpedoes.
+<tr id="L26"><td><a href="#L26">26</a></td><td>SPOCK:  I may add, the energy used repulsing this first attack reduced our shielding power twenty percent.</td></tr>
 
-  KIRK
-     Ninety?
+<tr id="L27"><td><a href="#L27">27</a></td><td>UHURA:  First attack, sir?</td></tr>
 
-  SPOCK
-     I may add, the energy used repulsing this first
-     attack reduced our shielding power twenty percent.
+<tr id="L28"><td><a href="#L28">28</a></td><td>KIRK:  I think we can expect others, Lieutenant.</td></tr>
 
-  UHURA
-     First attack, sir?
+<tr id="L29"><td><a href="#L29">29</a></td><td>SPOCK:  We can resist three more such attacks. The fourth will shatter our shields completely.</td></tr>
 
-  KIRK
-     I think we can expect others, Lieutenant.
+<tr id="L30"><td><a href="#L30">30</a></td><td>KIRK:  Mister Spock, pinpoint the source. Mister Sulu, evasive manoeuvres.</td></tr>
 
-  SPOCK
-     We can resist three more such attacks. The fourth
-     will shatter our shields completely.
+<tr id="L31"><td><a href="#L31">31</a></td><td>SULU:  Aye, sir.</td></tr>
 
-  KIRK
-     Mister Spock, pinpoint the source. Mister Sulu,
-     evasive manoeuvres.
+<tr id="L32"><td><a href="#L32">32</a></td><td>KIRK:  Lieutenant, contact Starfleet Command. Patch in my log. Tell them what has happened. Tell them the entire Malurian race seems to have been destroyed by an unknown agency, and that we are under attack by an unidentified force.</td></tr>
 
-  SULU
-     Aye, sir.
+<tr id="L33"><td><a href="#L33">33</a></td><td>ANNOTATION: Another ball of light is on the viewscreen</td></tr>
 
-  KIRK
-     Lieutenant, contact Starfleet Command. Patch in my
-     log. Tell them what has happened. Tell them the
-     entire Malurian race seems to have been destroyed
-     by an unknown agency, and that we are under attack
-     by an unidentified force.
+<tr id="L34"><td><a href="#L34">34</a></td><td>KIRK:  Helmsmen, I said evasive manoeuvres.</td></tr>
 
-  ANNOTATION
-     Another ball of light is on the viewscreen
+<tr id="L35"><td><a href="#L35">35</a></td><td>SULU:  We're losing power, sir.</td></tr>
 
-  KIRK
-     Helmsmen, I said evasive manoeuvres.
+<tr id="L36"><td><a href="#L36">36</a></td><td>KIRK:  Scotty?</td></tr>
 
-  SULU
-     We're losing power, sir.
+<tr id="L37"><td><a href="#L37">37</a></td><td>SCOTT:  I'm having to divert the warp engine power into the shields, sir, if you want the protection.</td></tr>
 
-  KIRK
-     Scotty?
+<tr id="L38"><td><a href="#L38">38</a></td><td>KIRK:  Mister Spock, speed of those bolts.</td></tr>
 
-  SCOTT
-     I'm having to divert the warp engine power into
-     the shields, sir, if you want the protection.
+<tr id="L39"><td><a href="#L39">39</a></td><td>SPOCK:  Approximately warp fifteen, Captain.</td></tr>
 
-  KIRK
-     Mister Spock, speed of those bolts.
+<tr id="L40"><td><a href="#L40">40</a></td><td>KIRK:  Then we can't out run them. Good, Scotty. You're doing the right thing. (another hit) Source, Spock.</td></tr>
 
-  SPOCK
-     Approximately warp fifteen, Captain.
+<tr id="L41"><td><a href="#L41">41</a></td><td>SPOCK:  Unknown, Captain. Nothing within sensor range. (a third bolt approaching) Something now, Captain. Very small. Bearing one two three degrees, mark one eight. Range ninety thousand kilometres.</td></tr>
 
-  KIRK
-     Then we can't out run them. Good, Scotty. You're
-     doing the right thing. (another hit) Source,
-     Spock.
+<tr id="L42"><td><a href="#L42">42</a></td><td>KIRK:  That's our target, Mister Sulu. Prepare photon torpedo.</td></tr>
 
-  SPOCK
-     Unknown, Captain. Nothing within sensor range. (a
-     third bolt approaching) Something now, Captain.
-     Very small. Bearing one two three degrees, mark
-     one eight. Range ninety thousand kilometres.
+<tr id="L43"><td><a href="#L43">43</a></td><td>ANNOTATION: The third bolt hits</td></tr>
 
-  KIRK
-     That's our target, Mister Sulu. Prepare photon
-     torpedo.
+<tr id="L44"><td><a href="#L44">44</a></td><td>SCOTT:  Shields still holding, sir, but the drain on the engines is reaching the critical point. Ach, we lost warp manoeuvreing power. Switching to impulse.</td></tr>
 
-  ANNOTATION
-     The third bolt hits
+<tr id="L45"><td><a href="#L45">45</a></td><td>SULU:  Photon torpedoes armed, sir.</td></tr>
 
-  SCOTT
-     Shields still holding, sir, but the drain on the
-     engines is reaching the critical point. Ach, we
-     lost warp manoeuvreing power. Switching to
-     impulse.
+<tr id="L46"><td><a href="#L46">46</a></td><td>KIRK:  Has the target changed location, Mister Spock?</td></tr>
 
-  SULU
-     Photon torpedoes armed, sir.
+<tr id="L47"><td><a href="#L47">47</a></td><td>SPOCK:  No, sir. Holding steady.</td></tr>
 
-  KIRK
-     Has the target changed location, Mister Spock?
+<tr id="L48"><td><a href="#L48">48</a></td><td>KIRK:  Ready photon torpedo number two, Mister Sulu.</td></tr>
 
-  SPOCK
-     No, sir. Holding steady.
+<tr id="L49"><td><a href="#L49">49</a></td><td>SULU:  Ready, sir.</td></tr>
 
-  KIRK
-     Ready photon torpedo number two, Mister Sulu.
+<tr id="L50"><td><a href="#L50">50</a></td><td>KIRK:  Fire.</td></tr>
 
-  SULU
-     Ready, sir.
+<tr id="L51"><td><a href="#L51">51</a></td><td>SULU:  Torpedo away. (a pause, then a flash) Direct hit.</td></tr>
 
-  KIRK
-     Fire.
+<tr id="L52"><td><a href="#L52">52</a></td><td>SPOCK:  No effect. Target absorbed full energy of our torpedo.</td></tr>
 
-  SULU
-     Torpedo away. (a pause, then a flash) Direct hit.
+<tr id="L53"><td><a href="#L53">53</a></td><td>KIRK:  Absorbed it? There must be damage to your instruments, Spock .</td></tr>
 
-  SPOCK
-     No effect. Target absorbed full energy of our
-     torpedo.
+<tr id="L54"><td><a href="#L54">54</a></td><td>SPOCK:  They are in good working order, Captain.</td></tr>
 
-  KIRK
-     Absorbed it? There must be damage to your
-     instruments, Spock .
+<tr id="L55"><td><a href="#L55">55</a></td><td>KIRK:  But what could have absorbed that much energy and survived? Lieutenant, try to make contact.</td></tr>
 
-  SPOCK
-     They are in good working order, Captain.
+<tr id="L56"><td><a href="#L56">56</a></td><td>UHURA:  Aye, sir.</td></tr>
 
-  KIRK
-     But what could have absorbed that much energy and
-     survived? Lieutenant, try to make contact.
+<tr id="L57"><td><a href="#L57">57</a></td><td>SULU:  Sir, they've fired another.</td></tr>
 
-  UHURA
-     Aye, sir.
+<tr id="L58"><td><a href="#L58">58</a></td><td>KIRK:  Can we take it, Mister Scott?</td></tr>
 
-  SULU
-     Sir, they've fired another.
+<tr id="L59"><td><a href="#L59">59</a></td><td>SCOTT:  That's problematical, sir.</td></tr>
 
-  KIRK
-     Can we take it, Mister Scott?
+<tr id="L60"><td><a href="#L60">60</a></td><td>ANNOTATION: It hits.</td></tr>
 
-  SCOTT
-     That's problematical, sir.
+<tr id="L61"><td><a href="#L61">61</a></td><td>SPOCK:  Captain, shields are down. We cannot survive another hit.</td></tr>
 
-  ANNOTATION
-     It hits.
+<tr id="L62"><td><a href="#L62">62</a></td><td>KIRK:  Anything, Lieutenant?</td></tr>
 
-  SPOCK
-     Captain, shields are down. We cannot survive
-     another hit.
+<tr id="L63"><td><a href="#L63">63</a></td><td>UHURA:  I'm trying, sir.</td></tr>
 
-  KIRK
-     Anything, Lieutenant?
+<tr id="L64"><td><a href="#L64">64</a></td><td>KIRK:  Translator computer. All hailing frequencies open.</td></tr>
 
-  UHURA
-     I'm trying, sir.
+<tr id="L65"><td><a href="#L65">65</a></td><td>UHURA:  Aye, sir. All hailing frequencies open.</td></tr>
 
-  KIRK
-     Translator computer. All hailing frequencies open.
+<tr id="L66"><td><a href="#L66">66</a></td><td>KIRK:  To unidentified vessel. This is Captain James Kirk of the USS Enterprise. We are on a peaceful mission. We mean no harm to you or any lifeforms. Please communicate with us. Any further readings, Mister Spock?</td></tr>
 
-  UHURA
-     Aye, sir. All hailing frequencies open.
+<tr id="L67"><td><a href="#L67">67</a></td><td>SPOCK:  Computing now, Captain. Weight, five hundred kilograms. Shape, roughly cylindrical. Length, a fraction over one metre.</td></tr>
 
-  KIRK
-     To unidentified vessel. This is Captain James Kirk
-     of the USS Enterprise. We are on a peaceful
-     mission. We mean no harm to you or any lifeforms.
-     Please communicate with us. Any further readings,
-     Mister Spock?
+<tr id="L68"><td><a href="#L68">68</a></td><td>KIRK:  Five hundred kilos and only one metre long?</td></tr>
 
-  SPOCK
-     Computing now, Captain. Weight, five hundred
-     kilograms. Shape, roughly cylindrical. Length, a
-     fraction over one metre.
+<tr id="L69"><td><a href="#L69">69</a></td><td>SCOTT:  What kind of intelligent creatures can exist in a thing that small?</td></tr>
 
-  KIRK
-     Five hundred kilos and only one metre long?
+<tr id="L70"><td><a href="#L70">70</a></td><td>SPOCK:  Intelligence does not necessarily require bulk, Mister Scott.</td></tr>
 
-  SCOTT
-     What kind of intelligent creatures can exist in a
-     thing that small?
+<tr id="L71"><td><a href="#L71">71</a></td><td>UHURA:  Captain, we're getting a signal from the spacecraft.</td></tr>
 
-  SPOCK
-     Intelligence does not necessarily require bulk,
-     Mister Scott.
+<tr id="L72"><td><a href="#L72">72</a></td><td>KIRK:  Put it on audio, Lieutenant.</td></tr>
 
-  UHURA
-     Captain, we're getting a signal from the
-     spacecraft.
+<tr id="L73"><td><a href="#L73">73</a></td><td>UHURA:  Yes, sir. It's impossible to get it any clearer, sir.</td></tr>
 
-  KIRK
-     Put it on audio, Lieutenant.
+<tr id="L74"><td><a href="#L74">74</a></td><td>KIRK:  Analysis sector. Have them study and decode it.</td></tr>
 
-  UHURA
-     Yes, sir. It's impossible to get it any clearer,
-     sir.
+<tr id="L75"><td><a href="#L75">75</a></td><td>UHURA:  Analysis sector, channel one, main computer. Decode.</td></tr>
 
-  KIRK
-     Analysis sector. Have them study and decode it.
+<tr id="L76"><td><a href="#L76">76</a></td><td>SPOCK:  Captain, this message is a sort of binary. Extremely sophisticated, compressed, carrying several channels at once.</td></tr>
 
-  UHURA
-     Analysis sector, channel one, main computer.
-     Decode.
+<tr id="L77"><td><a href="#L77">77</a></td><td>KIRK:  Can you decode it?</td></tr>
 
-  SPOCK
-     Captain, this message is a sort of binary.
-     Extremely sophisticated, compressed, carrying
-     several channels at once.
+<tr id="L78"><td><a href="#L78">78</a></td><td>SPOCK:  No clue as yet, Captain. A moment. Transmission speed has stepped down. Much slower. Seems to be a single binary.</td></tr>
 
-  KIRK
-     Can you decode it?
+<tr id="L79"><td><a href="#L79">79</a></td><td>UHURA:  It's mathematical. Yes, one symbol. The symbol repeat. Sir, that isn't in the Starfleet code. It's an old-style interplanetary code.</td></tr>
 
-  SPOCK
-     No clue as yet, Captain. A moment. Transmission
-     speed has stepped down. Much slower. Seems to be a
-     single binary.
+<tr id="L80"><td><a href="#L80">80</a></td><td>SPOCK:  Fascinating.</td></tr>
 
-  UHURA
-     It's mathematical. Yes, one symbol. The symbol
-     repeat. Sir, that isn't in the Starfleet code.
-     It's an old-style interplanetary code.
+<tr id="L81"><td><a href="#L81">81</a></td><td>KIRK:  Repeat what? The message I sent?</td></tr>
 
-  SPOCK
-     Fascinating.
+<tr id="L82"><td><a href="#L82">82</a></td><td>SPOCK:  It would seem so, Captain.</td></tr>
 
-  KIRK
-     Repeat what? The message I sent?
+<tr id="L83"><td><a href="#L83">83</a></td><td>KIRK:  This is Captain James Kirk of the USS Enterprise. We are on a peaceful mission in this part of the galaxy. We have no hostile intentions. We request identity.</td></tr>
 
-  SPOCK
-     It would seem so, Captain.
+<tr id="L84"><td><a href="#L84">84</a></td><td>UHURA:  It's another signal now, sir.</td></tr>
 
-  KIRK
-     This is Captain James Kirk of the USS Enterprise.
-     We are on a peaceful mission in this part of the
-     galaxy. We have no hostile intentions. We request
-     identity.
+<tr id="L85"><td><a href="#L85">85</a></td><td>SPOCK:  It's a formula, Captain. They're sending us a mathematical message and requesting language equivalence. They're trying to communicate.</td></tr>
 
-  UHURA
-     It's another signal now, sir.
+<tr id="L86"><td><a href="#L86">86</a></td><td>KIRK:  Tie in the ship's translator to the communication channel. Let them take it at their own speed.</td></tr>
 
-  SPOCK
-     It's a formula, Captain. They're sending us a
-     mathematical message and requesting language
-     equivalence. They're trying to communicate.
+<tr id="L87"><td><a href="#L87">87</a></td><td>UHURA:  Aye, Captain.</td></tr>
 
-  KIRK
-     Tie in the ship's translator to the communication
-     channel. Let them take it at their own speed.
+<tr id="L88"><td><a href="#L88">88</a></td><td>ANNOTATION: Suddenly one of Spock's console monitor's burns out.</td></tr>
 
-  UHURA
-     Aye, Captain.
+<tr id="L89"><td><a href="#L89">89</a></td><td>SPOCK:  Cut power, Lieutenant. Overloaded and burned out.</td></tr>
 
-  ANNOTATION
-     Suddenly one of Spock's console monitor's burns
-     out.
+<tr id="L90"><td><a href="#L90">90</a></td><td>KIRK:  I guess they can take it faster than we give it.</td></tr>
 
-  SPOCK
-     Cut power, Lieutenant. Overloaded and burned out.
+<tr id="L91"><td><a href="#L91">91</a></td><td>UHURA:  Captain, the message is coming in now.</td></tr>
 
-  KIRK
-     I guess they can take it faster than we give it.
+<tr id="L92"><td><a href="#L92">92</a></td><td>NOMAD [OC]:  USS Enterprise, this is Nomad. My mission is non-hostile.</td></tr>
 
-  UHURA
-     Captain, the message is coming in now.
+<tr id="L93"><td><a href="#L93">93</a></td><td>KIRK:  Apparently they got what they needed before the computers burned out.</td></tr>
 
-  NOMAD [OC]
-     USS Enterprise, this is Nomad. My mission is
-     non-hostile.
+<tr id="L94"><td><a href="#L94">94</a></td><td>SPOCK:  Nomad?</td></tr>
 
-  KIRK
-     Apparently they got what they needed before the
-     computers burned out.
+<tr id="L95"><td><a href="#L95">95</a></td><td>NOMAD [OC]:  Require communication. Can you leave your ship?</td></tr>
 
-  SPOCK
-     Nomad?
+<tr id="L96"><td><a href="#L96">96</a></td><td>KIRK:  It is impossible to come aboard your ship because of the size differential.</td></tr>
 
-  NOMAD [OC]
-     Require communication. Can you leave your ship?
+<tr id="L97"><td><a href="#L97">97</a></td><td>NOMAD [OC]:  Non sequitur. Your facts are uncoordinated.</td></tr>
 
-  KIRK
-     It is impossible to come aboard your ship because
-     of the size differential.
+<tr id="L98"><td><a href="#L98">98</a></td><td>KIRK:  We are prepared to beam you aboard our ship.</td></tr>
 
-  NOMAD [OC]
-     Non sequitur. Your facts are uncoordinated.
+<tr id="L99"><td><a href="#L99">99</a></td><td>NOMAD [OC]:  That will be satisfactory.</td></tr>
 
-  KIRK
-     We are prepared to beam you aboard our ship.
+<tr id="L100"><td><a href="#L100">100</a></td><td>KIRK:  Do you require any special conditions, any particular atmosphere or environment?</td></tr>
 
-  NOMAD [OC]
-     That will be satisfactory.
+<tr id="L101"><td><a href="#L101">101</a></td><td>NOMAD [OC]:  Negative. I will come aboard.</td></tr>
 
-  KIRK
-     Do you require any special conditions, any
-     particular atmosphere or environment?
+<tr id="L102"><td><a href="#L102">102</a></td><td>KIRK:  Good. Hold your position. We're locked onto your co-ordinates. We'll beam you aboard.</td></tr>
 
-  NOMAD [OC]
-     Negative. I will come aboard.
+<tr id="L103"><td><a href="#L103">103</a></td><td>SCOTT:  Captain, you're not really bringing that thing in here?</td></tr>
 
-  KIRK
-     Good. Hold your position. We're locked onto your
-     co-ordinates. We'll beam you aboard.
+<tr id="L104"><td><a href="#L104">104</a></td><td>KIRK:  Do we have any choice, Scotty? Besides, once it's aboard, it won't be taking any more shots at us. Lieutenant, get a repair crew on that computer. Get Doctor McCoy down to the transporter room. Spock, you come with me. Scotty, you too.</td></tr>
 
-  SCOTT
-     Captain, you're not really bringing that thing in
-     here?
+<tr id="L105"><td><a href="#L105">105</a></td><td>UHURA:  Doctor McCoy to the transporter room. Maintenance crew C5.</td></tr>
 
-  KIRK
-     Do we have any choice, Scotty? Besides, once it's
-     aboard, it won't be taking any more shots at us.
-     Lieutenant, get a repair crew on that computer.
-     Get Doctor McCoy down to the transporter room.
-     Spock, you come with me. Scotty, you too.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L106"><td><a href="#L106">106</a></td><td>MCCOY:  They've got the co-ordinates, Jim. It's locked in.</td></tr>
 
-  UHURA
-     Doctor McCoy to the transporter room. Maintenance
-     crew C5.
+<tr id="L107"><td><a href="#L107">107</a></td><td>KIRK:  Energise.</td></tr>
 
+<tr id="L108"><td><a href="#L108">108</a></td><td>SCOTT:  Energising.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L109"><td><a href="#L109">109</a></td><td>ANNOTATION: What looks like a satellite - antenna at the top, engine at the bottom and flashing lights on the side - is hanging in mid air over the transporter pad.</td></tr>
 
-  MCCOY
-     They've got the co-ordinates, Jim. It's locked in.
+<tr id="L110"><td><a href="#L110">110</a></td><td>KIRK:  Sensor readings, Mister Spock.</td></tr>
 
-  KIRK
-     Energise.
+<tr id="L111"><td><a href="#L111">111</a></td><td>SPOCK:  Negative, Captain. It has a protective screen. I cannot get through.</td></tr>
 
-  SCOTT
-     Energising.
+<tr id="L112"><td><a href="#L112">112</a></td><td>MCCOY:  What do we do now, go up and knock?</td></tr>
 
-  ANNOTATION
-     What looks like a satellite - antenna at the top,
-     engine at the bottom and flashing lights on the
-     side - is hanging in mid air over the transporter
-     pad.
+<tr id="L113"><td><a href="#L113">113</a></td><td>NOMAD:  Relate your point of origin.</td></tr>
 
-  KIRK
-     Sensor readings, Mister Spock.
+<tr id="L114"><td><a href="#L114">114</a></td><td>KIRK:  We are from the United Federation of Planets.</td></tr>
 
-  SPOCK
-     Negative, Captain. It has a protective screen. I
-     cannot get through.
+<tr id="L115"><td><a href="#L115">115</a></td><td>NOMAD:  Insufficient response. All things have a point of origin. I will scan your star charts.</td></tr>
 
-  MCCOY
-     What do we do now, go up and knock?
+<tr id="L116"><td><a href="#L116">116</a></td><td>KIRK:  If we show it a close-up view of our system, it has no point of reference. It won't know more than it does now.</td></tr>
 
-  NOMAD
-     Relate your point of origin.
+<tr id="L117"><td><a href="#L117">117</a></td><td>SPOCK:  A reasonable course.</td></tr>
 
-  KIRK
-     We are from the United Federation of Planets.
+<tr id="L118"><td><a href="#L118">118</a></td><td>KIRK:  If you care to leave your ship, we'll provide the necessary life support systems.</td></tr>
 
-  NOMAD
-     Insufficient response. All things have a point of
-     origin. I will scan your star charts.
+<tr id="L119"><td><a href="#L119">119</a></td><td>NOMAD:  Non sequitur. Your facts are uncoordinated.</td></tr>
 
-  KIRK
-     If we show it a close-up view of our system, it
-     has no point of reference. It won't know more than
-     it does now.
+<tr id="L120"><td><a href="#L120">120</a></td><td>MCCOY:  Jim, I don't think anybody's in there.</td></tr>
 
-  SPOCK
-     A reasonable course.
+<tr id="L121"><td><a href="#L121">121</a></td><td>NOMAD:  I contain no parasitical beings. I am Nomad.</td></tr>
 
-  KIRK
-     If you care to leave your ship, we'll provide the
-     necessary life support systems.
+<tr id="L122"><td><a href="#L122">122</a></td><td>. SCOTT:  In my opinion, that's a machine.</td></tr>
 
-  NOMAD
-     Non sequitur. Your facts are uncoordinated.
+<tr id="L123"><td><a href="#L123">123</a></td><td>SPOCK:  It is reacting much like a highly sophisticated computer.</td></tr>
 
-  MCCOY
-     Jim, I don't think anybody's in there.
+<tr id="L124"><td><a href="#L124">124</a></td><td>NOMAD:  I am Nomad. What is opinion?</td></tr>
 
-  NOMAD
-     I contain no parasitical beings. I am Nomad.
+<tr id="L125"><td><a href="#L125">125</a></td><td>SPOCK:  An opinion is a belief, a view, a judgment.</td></tr>
 
-  . SCOTT
-     In my opinion, that's a machine.
+<tr id="L126"><td><a href="#L126">126</a></td><td>NOMAD:  Insufficient response.</td></tr>
 
-  SPOCK
-     It is reacting much like a highly sophisticated
-     computer.
+<tr id="L127"><td><a href="#L127">127</a></td><td>SCOTT:  What's your source of power?</td></tr>
 
-  NOMAD
-     I am Nomad. What is opinion?
+<tr id="L128"><td><a href="#L128">128</a></td><td>NOMAD:  It has changed since the point of origin. There was much taken from the other. I am perpetual now. I am Nomad.</td></tr>
 
-  SPOCK
-     An opinion is a belief, a view, a judgment.
+<tr id="L129"><td><a href="#L129">129</a></td><td>KIRK:  Wasn't there a probe called Nomad launched in the early 2000s?</td></tr>
 
-  NOMAD
-     Insufficient response.
+<tr id="L130"><td><a href="#L130">130</a></td><td>SPOCK:  Yes. It was reported destroyed. There were no more in the series. But if this is that probe</td></tr>
 
-  SCOTT
-     What's your source of power?
+<tr id="L131"><td><a href="#L131">131</a></td><td>NOMAD:  I will scan your star charts.</td></tr>
 
-  NOMAD
-     It has changed since the point of origin. There
-     was much taken from the other. I am perpetual now.
-     I am Nomad.
+<tr id="L132"><td><a href="#L132">132</a></td><td>KIRK:  I will bring them.</td></tr>
 
-  KIRK
-     Wasn't there a probe called Nomad launched in the
-     early 2000s?
+<tr id="L133"><td><a href="#L133">133</a></td><td>NOMAD:  I have the capability of movement within your ship.</td></tr>
 
-  SPOCK
-     Yes. It was reported destroyed. There were no more
-     in the series. But if this is that probe
+<tr id="L134"><td><a href="#L134">134</a></td><td>KIRK:  This way.</td></tr>
 
-  NOMAD
-     I will scan your star charts.
+<tr id="L135"><td><a href="#L135">135</a></td><td>ANNOTATION: Nomad glides along slowly, in mid-air</td></tr>
 
-  KIRK
-     I will bring them.
+<tr id="L136"><td><a href="#L136">136</a></td><td>KIRK:  Now, Scotty, get our warp power up to full capacity.</td></tr>
 
-  NOMAD
-     I have the capability of movement within your
-     ship.
+<tr id="L137"><td><a href="#L137">137</a></td><td>SCOTT:  Aye, sir.</td></tr>
 
-  KIRK
-     This way.
+<tr id="L138"><td><a href="#L138">138</a></td><td>KIRK:  Spock, Bones, come with us.</td></tr>
 
-  ANNOTATION
-     Nomad glides along slowly, in mid-air
+<tr><td></td><td>LOCATION--Auxiliary control</td></tr>
+<tr id="L139"><td><a href="#L139">139</a></td><td>ANNOTATION: A bemused young Indian officer watches the performance.</td></tr>
 
-  KIRK
-     Now, Scotty, get our warp power up to full
-     capacity.
+<tr id="L140"><td><a href="#L140">140</a></td><td>SPOCK:  Chart 14A, sir?</td></tr>
 
-  SCOTT
-     Aye, sir.
+<tr id="L141"><td><a href="#L141">141</a></td><td>KIRK:  14A. (a diagram of our solar system comes up on a screen) Nomad, can you scan that?</td></tr>
 
-  KIRK
-     Spock, Bones, come with us.
+<tr id="L142"><td><a href="#L142">142</a></td><td>NOMAD:  Yes.</td></tr>
 
+<tr id="L143"><td><a href="#L143">143</a></td><td>KIRK:  This is our point of origin, the star we know as Sol.</td></tr>
 
-LOCATION--Auxiliary control
+<tr id="L144"><td><a href="#L144">144</a></td><td>NOMAD:  You are from the third planet?</td></tr>
 
-  ANNOTATION
-     A bemused young Indian officer watches the
-     performance.
+<tr id="L145"><td><a href="#L145">145</a></td><td>KIRK:  Yes.</td></tr>
 
-  SPOCK
-     Chart 14A, sir?
+<tr id="L146"><td><a href="#L146">146</a></td><td>NOMAD:  A planet with one large natural satellite?</td></tr>
 
-  KIRK
-     14A. (a diagram of our solar system comes up on a
-     screen) Nomad, can you scan that?
+<tr id="L147"><td><a href="#L147">147</a></td><td>KIRK:  Yes.</td></tr>
 
-  NOMAD
-     Yes.
+<tr id="L148"><td><a href="#L148">148</a></td><td>NOMAD:  The planet is called Earth?</td></tr>
 
-  KIRK
-     This is our point of origin, the star we know as
-     Sol.
+<tr id="L149"><td><a href="#L149">149</a></td><td>KIRK:  Yes.</td></tr>
 
-  NOMAD
-     You are from the third planet?
+<tr id="L150"><td><a href="#L150">150</a></td><td>NOMAD:  You are the creator, the Kirk. The sterilisation procedure against your ship was unnecessary.</td></tr>
 
-  KIRK
-     Yes.
+<tr id="L151"><td><a href="#L151">151</a></td><td>KIRK:  What sterilisation procedure?</td></tr>
 
-  NOMAD
-     A planet with one large natural satellite?
+<tr id="L152"><td><a href="#L152">152</a></td><td>NOMAD:  You are the Kirk, the creator. You programmed my function.</td></tr>
 
-  KIRK
-     Yes.
+<tr id="L153"><td><a href="#L153">153</a></td><td>MCCOY:  Well, I'm not the Kirk. Tell me what your function is.</td></tr>
 
-  NOMAD
-     The planet is called Earth?
+<tr id="L154"><td><a href="#L154">154</a></td><td>NOMAD:  This is one of your units, creator?</td></tr>
 
-  KIRK
-     Yes.
+<tr id="L155"><td><a href="#L155">155</a></td><td>KIRK:  Yes, he is.</td></tr>
 
-  NOMAD
-     You are the creator, the Kirk. The sterilisation
-     procedure against your ship was unnecessary.
+<tr id="L156"><td><a href="#L156">156</a></td><td>NOMAD:  It functions irrationally.</td></tr>
 
-  KIRK
-     What sterilisation procedure?
+<tr id="L157"><td><a href="#L157">157</a></td><td>KIRK:  Sometimes, but tell him your function nevertheless.</td></tr>
 
-  NOMAD
-     You are the Kirk, the creator. You programmed my
-     function.
+<tr id="L158"><td><a href="#L158">158</a></td><td>NOMAD:  My function is to probe for biological infestations, to destroy that which is not perfect. I am Nomad.</td></tr>
 
-  MCCOY
-     Well, I'm not the Kirk. Tell me what your function
-     is.
+<tr id="L159"><td><a href="#L159">159</a></td><td>KIRK:  Biological infestation. There was never any probe sent out for that.</td></tr>
 
-  NOMAD
-     This is one of your units, creator?
+<tr id="L160"><td><a href="#L160">160</a></td><td>SPOCK:  I believe the history computer can answer that question. I'll have the readout in a moment.</td></tr>
 
-  KIRK
-     Yes, he is.
+<tr id="L161"><td><a href="#L161">161</a></td><td>KIRK:  Did you destroy the Malurian system?</td></tr>
 
-  NOMAD
-     It functions irrationally.
+<tr id="L162"><td><a href="#L162">162</a></td><td>NOMAD:  Not the system, creator Kirk. Only the unstable biological infestation. It is my function.</td></tr>
 
-  KIRK
-     Sometimes, but tell him your function
-     nevertheless.
+<tr id="L163"><td><a href="#L163">163</a></td><td>MCCOY:  Unstable infestation? The population of four planets? What kind of function</td></tr>
 
-  NOMAD
-     My function is to probe for biological
-     infestations, to destroy that which is not
-     perfect. I am Nomad.
+<tr id="L164"><td><a href="#L164">164</a></td><td>KIRK:  Doctor. Why do you call me the creator?</td></tr>
 
-  KIRK
-     Biological infestation. There was never any probe
-     sent out for that.
+<tr id="L165"><td><a href="#L165">165</a></td><td>NOMAD:  Is the usage incorrect?</td></tr>
 
-  SPOCK
-     I believe the history computer can answer that
-     question. I'll have the readout in a moment.
+<tr id="L166"><td><a href="#L166">166</a></td><td>KIRK:  Well, I</td></tr>
 
-  KIRK
-     Did you destroy the Malurian system?
+<tr id="L167"><td><a href="#L167">167</a></td><td>SPOCK:  The usage is correct. The creator was simply testing your memory banks.</td></tr>
 
-  NOMAD
-     Not the system, creator Kirk. Only the unstable
-     biological infestation. It is my function.
+<tr id="L168"><td><a href="#L168">168</a></td><td>NOMAD:  There was much damage in the accident.</td></tr>
 
-  MCCOY
-     Unstable infestation? The population of four
-     planets? What kind of function
+<tr id="L169"><td><a href="#L169">169</a></td><td>KIRK:  Mister Singh. Come here a moment. This unit will see to your needs.</td></tr>
 
-  KIRK
-     Doctor. Why do you call me the creator?
+<tr id="L170"><td><a href="#L170">170</a></td><td>SINGH:  Sir?</td></tr>
 
-  NOMAD
-     Is the usage incorrect?
+<tr id="L171"><td><a href="#L171">171</a></td><td>KIRK:  I'll be back in a moment. Gentlemen, come with me.</td></tr>
 
-  KIRK
-     Well, I
+<tr id="L172"><td><a href="#L172">172</a></td><td>ANNOTATION: Kirk, McCoy and Spock leave Singh, still bemused.</td></tr>
 
-  SPOCK
-     The usage is correct. The creator was simply
-     testing your memory banks.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L173"><td><a href="#L173">173</a></td><td>KIRK:  You're on to something, Spock. What is it?</td></tr>
 
-  NOMAD
-     There was much damage in the accident.
+<tr id="L174"><td><a href="#L174">174</a></td><td>SPOCK:  I've correlated all the available information on the Nomad probe, and I'm convinced that this object is indeed that probe.</td></tr>
 
-  KIRK
-     Mister Singh. Come here a moment. This unit will
-     see to your needs.
+<tr id="L175"><td><a href="#L175">175</a></td><td>MCCOY:  Ridiculous. Earth science couldn't begin to build anything with those capabilities that long ago.</td></tr>
 
-  SINGH
-     Sir?
+<tr id="L176"><td><a href="#L176">176</a></td><td>SPOCK:  True.</td></tr>
 
-  KIRK
-     I'll be back in a moment. Gentlemen, come with me.
+<tr id="L177"><td><a href="#L177">177</a></td><td>KIRK:  Nomad was destroyed.</td></tr>
 
-  ANNOTATION
-     Kirk, McCoy and Spock leave Singh, still bemused.
+<tr id="L178"><td><a href="#L178">178</a></td><td>SPOCK:  Presumed destroyed by a meteor collision. I submit that it was badly damaged and somehow managed to repair itself.</td></tr>
 
+<tr id="L179"><td><a href="#L179">179</a></td><td>KIRK:  I heard some lectures at the Academy on the Nomad probe. Its mission was essentially peaceful.</td></tr>
 
-LOCATION--Corridor
+<tr><td></td><td>LOCATION--Auxiliary control</td></tr>
+<tr id="L180"><td><a href="#L180">180</a></td><td>ANNOTATION: Nomad is quietly ticking to itself, then suddenly a light comes on at its apex.</td></tr>
 
-  KIRK
-     You're on to something, Spock. What is it?
+<tr id="L181"><td><a href="#L181">181</a></td><td>SINGH:  Did I disturb you? Did you wish anything?</td></tr>
 
-  SPOCK
-     I've correlated all the available information on
-     the Nomad probe, and I'm convinced that this
-     object is indeed that probe.
+<tr id="L182"><td><a href="#L182">182</a></td><td>UHURA [OC]:  Bridge to auxiliary control room. Check in, please.</td></tr>
 
-  MCCOY
-     Ridiculous. Earth science couldn't begin to build
-     anything with those capabilities that long ago.
+<tr id="L183"><td><a href="#L183">183</a></td><td>SINGH:  Lieutenant Singh here.</td></tr>
 
-  SPOCK
-     True.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L184"><td><a href="#L184">184</a></td><td>SINGH [OC]:  All systems are normal except warp power indicators.</td></tr>
 
-  KIRK
-     Nomad was destroyed.
+<tr id="L185"><td><a href="#L185">185</a></td><td>UHURA:  Mister Scott's engineers are working on them now. UHURA: Report to him when your indicators are registering properly.</td></tr>
 
-  SPOCK
-     Presumed destroyed by a meteor collision. I submit
-     that it was badly damaged and somehow managed to
-     repair itself.
+<tr><td></td><td>LOCATION--Auxiliary control</td></tr>
+<tr id="L186"><td><a href="#L186">186</a></td><td>UHURA [OC]:  Anything else?</td></tr>
 
-  KIRK
-     I heard some lectures at the Academy on the Nomad
-     probe. Its mission was essentially peaceful.
+<tr id="L187"><td><a href="#L187">187</a></td><td>SINGH:  One moment, Lieutenant.</td></tr>
 
+<tr id="L188"><td><a href="#L188">188</a></td><td>UHURA [OC]:  Holding. (singing while Singh checks some boards) Where my heart is, Where my heart is. Somewhere beyond the stars. Beyond Antares.</td></tr>
 
-LOCATION--Auxiliary control
+<tr id="L189"><td><a href="#L189">189</a></td><td>ANNOTATION: Nomad leaves the room</td></tr>
 
-  ANNOTATION
-     Nomad is quietly ticking to itself, then suddenly
-     a light comes on at its apex.
+<tr><td></td><td>LOCATION--Briefing room</td></tr>
+<tr id="L190"><td><a href="#L190">190</a></td><td>SPOCK:  This is the creator of Nomad, perhaps the most brilliant though erratic scientist of his time. His dream was to build a perfect thinking machine, capable of independent logic. You recall his name.</td></tr>
 
-  SINGH
-     Did I disturb you? Did you wish anything?
+<tr id="L191"><td><a href="#L191">191</a></td><td>MCCOY:  Of course. Jackson Roykirk.</td></tr>
 
-  UHURA [OC]
-     Bridge to auxiliary control room. Check in,
-     please.
+<tr id="L192"><td><a href="#L192">192</a></td><td>KIRK:  Jackson Roykirk. Captain James Kirk.</td></tr>
 
-  SINGH
-     Lieutenant Singh here.
+<tr id="L193"><td><a href="#L193">193</a></td><td>SPOCK:  Yes. Similar. Captain, I believe that Nomad thinks you are Roykirk. That may well be why the attack was broken off. It responded to your name as well as its damaged memory banks permitted.</td></tr>
 
+<tr id="L194"><td><a href="#L194">194</a></td><td>KIRK:  What do we have on Nomad itself, Spock?</td></tr>
 
-LOCATION--Bridge
+<tr id="L195"><td><a href="#L195">195</a></td><td>MCCOY:  (looking at the schematic on the monitor) That's not the same.</td></tr>
 
-  SINGH [OC]
-     All systems are normal except warp power
-     indicators.
+<tr id="L196"><td><a href="#L196">196</a></td><td>SPOCK:  Essentially it is, Doctor. I believe that more happened to it than just damage in the meteor collision. It mentioned the other. The unanswered question is, the other what?</td></tr>
 
-  UHURA
-     Mister Scott's engineers are working on them now.
-     UHURA: Report to him when your indicators are
-     registering properly.
+<tr id="L197"><td><a href="#L197">197</a></td><td>SOMEONE: Nomad was a thinking machine, the best that could be engineered. It was a prototype.</td></tr>
 
+<tr id="L198"><td><a href="#L198">198</a></td><td>KIRK:  Its purpose was certainly altered. Its directive, to seek out and destroy biological infestations, could not have been programmed into it.</td></tr>
 
-LOCATION--Auxiliary control
+<tr id="L199"><td><a href="#L199">199</a></td><td>MCCOY:  As I recall, it wasn't. It was supposed to be the first interstellar probe to seek new life-forms.</td></tr>
 
-  UHURA [OC]
-     Anything else?
+<tr id="L200"><td><a href="#L200">200</a></td><td>SPOCK:  Precisely, Doctor. And somehow that programming has been changed. It would seem that Nomad is now seeking out perfect life-forms, perfection being measured by its own relentless logic.</td></tr>
 
-  SINGH
-     One moment, Lieutenant.
+<tr id="L201"><td><a href="#L201">201</a></td><td>KIRK:  If what you say is true, then we've taken aboard our vessel a device which sooner or later must destroy us. Security.</td></tr>
 
-  UHURA [OC]
-     Holding. (singing while Singh checks some boards)
-     Where my heart is, Where my heart is. Somewhere
-     beyond the stars. Beyond Antares.
+<tr id="L202"><td><a href="#L202">202</a></td><td>CARLISLE [OC]:  Lieutenant Carlisle here.</td></tr>
 
-  ANNOTATION
-     Nomad leaves the room
+<tr id="L203"><td><a href="#L203">203</a></td><td>KIRK:  This is the captain. The mechanism we brought aboard is in the auxiliary control room. Have a security team meet me there in five minutes.</td></tr>
 
+<tr id="L204"><td><a href="#L204">204</a></td><td>CARLISLE:  Aye, sir. Acknowledge.</td></tr>
 
-LOCATION--Briefing room
+<tr id="L205"><td><a href="#L205">205</a></td><td>SPOCK:  Captain, Mister Singh reports that Nomad is no longer in the auxiliary control room.</td></tr>
 
-  SPOCK
-     This is the creator of Nomad, perhaps the most
-     brilliant though erratic scientist of his time.
-     His dream was to build a perfect thinking machine,
-     capable of independent logic. You recall his name.
+<tr id="L206"><td><a href="#L206">206</a></td><td>KIRK:  Security, cancel that order. Implement a full search for the mechanism. All decks report to me here.</td></tr>
 
-  MCCOY
-     Of course. Jackson Roykirk.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L207"><td><a href="#L207">207</a></td><td>ANNOTATION: The turbolift doors open and Nomad floats out, one antenna extended. Uhura is still singing</td></tr>
 
-  KIRK
-     Jackson Roykirk. Captain James Kirk.
+<tr id="L208"><td><a href="#L208">208</a></td><td>UHURA:  Where my heart is, Where a scented miracle</td></tr>
 
-  SPOCK
-     Yes. Similar. Captain, I believe that Nomad thinks
-     you are Roykirk. That may well be why the attack
-     was broken off. It responded to your name as well
-     as its damaged memory banks permitted.
+<tr id="L209"><td><a href="#L209">209</a></td><td>SCOTT:  (whispering) Bridge to Captain.</td></tr>
 
-  KIRK
-     What do we have on Nomad itself, Spock?
+<tr id="L210"><td><a href="#L210">210</a></td><td>KIRK [OC]:  Captain here.</td></tr>
 
-  MCCOY
-     (looking at the schematic on the monitor) That's
-     not the same.
+<tr id="L211"><td><a href="#L211">211</a></td><td>SCOTT:  That mechanical beastie is up here.</td></tr>
 
-  SPOCK
-     Essentially it is, Doctor. I believe that more
-     happened to it than just damage in the meteor
-     collision. It mentioned the other. The unanswered
-     question is, the other what?
+<tr><td></td><td>LOCATION--Briefing room</td></tr>
+<tr id="L212"><td><a href="#L212">212</a></td><td>KIRK:  On my way, Scotty.</td></tr>
 
-  SOMEONE
-     Nomad was a thinking machine, the best that could
-     be engineered. It was a prototype.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L213"><td><a href="#L213">213</a></td><td>ANNOTATION: Nomad retracts its antenna and takes the most direct path to Uhura, who is leaning against the navigation station. Sulu has to move out of its way.</td></tr>
 
-  KIRK
-     Its purpose was certainly altered. Its directive,
-     to seek out and destroy biological infestations,
-     could not have been programmed into it.
+<tr id="L214"><td><a href="#L214">214</a></td><td>UHURA:  Tomorrow the path along the way, There's where my love</td></tr>
 
-  MCCOY
-     As I recall, it wasn't. It was supposed to be the
-     first interstellar probe to seek new life-forms.
+<tr id="L215"><td><a href="#L215">215</a></td><td>NOMAD:  What is the meaning?</td></tr>
 
-  SPOCK
-     Precisely, Doctor. And somehow that programming
-     has been changed. It would seem that Nomad is now
-     seeking out perfect life-forms, perfection being
-     measured by its own relentless logic.
+<tr id="L216"><td><a href="#L216">216</a></td><td>UHURA:  What?</td></tr>
 
-  KIRK
-     If what you say is true, then we've taken aboard
-     our vessel a device which sooner or later must
-     destroy us. Security.
+<tr id="L217"><td><a href="#L217">217</a></td><td>NOMAD:  What form of communication?</td></tr>
 
-  CARLISLE [OC]
-     Lieutenant Carlisle here.
+<tr id="L218"><td><a href="#L218">218</a></td><td>UHURA:  I don't know what it. (realises) Oh, my singing. I was singing.</td></tr>
 
-  KIRK
-     This is the captain. The mechanism we brought
-     aboard is in the auxiliary control room. Have a
-     security team meet me there in five minutes.
+<tr id="L219"><td><a href="#L219">219</a></td><td>NOMAD:  For what purpose is singing?</td></tr>
 
-  CARLISLE
-     Aye, sir. Acknowledge.
+<tr id="L220"><td><a href="#L220">220</a></td><td>UHURA:  I don't know. I like to sing. I felt like music.</td></tr>
 
-  SPOCK
-     Captain, Mister Singh reports that Nomad is no
-     longer in the auxiliary control room.
+<tr id="L221"><td><a href="#L221">221</a></td><td>NOMAD:  What is music? (a ray of light envelopes her head) Think about music.</td></tr>
 
-  KIRK
-     Security, cancel that order. Implement a full
-     search for the mechanism. All decks report to me
-     here.
+<tr id="L222"><td><a href="#L222">222</a></td><td>SCOTT:  Lieutenant! Keep away from that</td></tr>
 
+<tr id="L223"><td><a href="#L223">223</a></td><td>KIRK:  Scotty!</td></tr>
 
-LOCATION--Bridge
+<tr id="L224"><td><a href="#L224">224</a></td><td>ANNOTATION: A blast of energy sends Scott flying backwards into a bulkhead.</td></tr>
 
-  ANNOTATION
-     The turbolift doors open and Nomad floats out, one
-     antenna extended. Uhura is still singing
+<tr id="L225"><td><a href="#L225">225</a></td><td>KIRK:  Bones.</td></tr>
 
-  UHURA
-     Where my heart is, Where a scented miracle
+<tr id="L226"><td><a href="#L226">226</a></td><td>MCCOY:  He's dead, Jim.</td></tr>
 
-  SCOTT
-     (whispering) Bridge to Captain.
+<tr id="L227"><td><a href="#L227">227</a></td><td>KIRK:  Why did you kill him?</td></tr>
 
-  KIRK [OC]
-     Captain here.
+<tr id="L228"><td><a href="#L228">228</a></td><td>NOMAD:  The unit touched my screens.</td></tr>
 
-  SCOTT
-     That mechanical beastie is up here.
+<tr id="L229"><td><a href="#L229">229</a></td><td>KIRK:  That unit was my Chief Engineer. (silence) Lieutenant. Lieutenant, are you all right?</td></tr>
 
+<tr id="L230"><td><a href="#L230">230</a></td><td>ANNOTATION: Uhura just gazes blankly ahead.</td></tr>
 
-LOCATION--Briefing room
+<tr id="L231"><td><a href="#L231">231</a></td><td>KIRK:  Sickbay. What did you do to her?</td></tr>
 
-  KIRK
-     On my way, Scotty.
+<tr id="L232"><td><a href="#L232">232</a></td><td>NOMAD:  That unit is defective. Its thinking is chaotic. Absorbing it unsettled me.</td></tr>
 
+<tr id="L233"><td><a href="#L233">233</a></td><td>SPOCK:  That unit is a woman.</td></tr>
 
-LOCATION--Bridge
+<tr id="L234"><td><a href="#L234">234</a></td><td>NOMAD:  A mass of conflicting impulses.</td></tr>
 
-  ANNOTATION
-     Nomad retracts its antenna and takes the most
-     direct path to Uhura, who is leaning against the
-     navigation station. Sulu has to move out of its
-     way.
+<tr id="L235"><td><a href="#L235">235</a></td><td>KIRK:  Get Scott down below.</td></tr>
 
-  UHURA
-     Tomorrow the path along the way, There's where my
-     love
+<tr id="L236"><td><a href="#L236">236</a></td><td>NOMAD:  Will the creator effect repairs on the unit Scott?</td></tr>
 
-  NOMAD
-     What is the meaning?
+<tr id="L237"><td><a href="#L237">237</a></td><td>KIRK:  He's dead.</td></tr>
 
-  UHURA
-     What?
+<tr id="L238"><td><a href="#L238">238</a></td><td>NOMAD:  Insufficient response.</td></tr>
 
-  NOMAD
-     What form of communication?
+<tr id="L239"><td><a href="#L239">239</a></td><td>KIRK:  His biological functions have ceased.</td></tr>
 
-  UHURA
-     I don't know what it. (realises) Oh, my singing. I
-     was singing.
+<tr id="L240"><td><a href="#L240">240</a></td><td>NOMAD:  Does the creator wish me to repair the unit?</td></tr>
 
-  NOMAD
-     For what purpose is singing?
+<tr id="L241"><td><a href="#L241">241</a></td><td>MCCOY:  There's nothing I can do, Jim. If there's a chance, it'll have to be soon.</td></tr>
 
-  UHURA
-     I don't know. I like to sing. I felt like music.
+<tr id="L242"><td><a href="#L242">242</a></td><td>KIRK:  All right, Nomad. Repair the unit.</td></tr>
 
-  NOMAD
-     What is music? (a ray of light envelopes her head)
-     Think about music.
+<tr id="L243"><td><a href="#L243">243</a></td><td>NOMAD:  I require tapes on the structure.</td></tr>
 
-  SCOTT
-     Lieutenant! Keep away from that
+<tr id="L244"><td><a href="#L244">244</a></td><td>MCCOY:  Well, he'll need tapes on general anatomy, the central nervous system, and then one on the physiological structure of the brain. We'd better give it all the neurological studies we have, as well as tracings of Scotty's hyperencephalogram.</td></tr>
 
-  KIRK
-     Scotty!
+<tr id="L245"><td><a href="#L245">245</a></td><td>ANNOTATION: Spock loads up the data.</td></tr>
 
-  ANNOTATION
-     A blast of energy sends Scott flying backwards
-     into a bulkhead.
+<tr id="L246"><td><a href="#L246">246</a></td><td>SPOCK:  Nomad, I have arranged the tapes for flash feed at the top speed of the computer. Please do not draw the information faster than the machine's capacity.</td></tr>
 
-  KIRK
-     Bones.
+<tr id="L247"><td><a href="#L247">247</a></td><td>NOMAD:  Proceed. (a few moments later) Creator, the unit Scott is a primitive structure. Insufficient safeguards built in. Breakdown can occur from many causes. Self-maintenance systems of low reliability.</td></tr>
 
-  MCCOY
-     He's dead, Jim.
+<tr id="L248"><td><a href="#L248">248</a></td><td>KIRK:  It serves me as it is, Nomad. Repair it.</td></tr>
 
-  KIRK
-     Why did you kill him?
+<tr id="L249"><td><a href="#L249">249</a></td><td>NOMAD:  Where is the unit Scott now?</td></tr>
 
-  NOMAD
-     The unit touched my screens.
+<tr id="L250"><td><a href="#L250">250</a></td><td>MCCOY:  The body is in Sickbay.</td></tr>
 
-  KIRK
-     That unit was my Chief Engineer. (silence)
-     Lieutenant. Lieutenant, are you all right?
+<tr id="L251"><td><a href="#L251">251</a></td><td>NOMAD:  Show me Sickbay.</td></tr>
 
-  ANNOTATION
-     Uhura just gazes blankly ahead.
+<tr id="L252"><td><a href="#L252">252</a></td><td>KIRK:  Doctor McCoy will show you.</td></tr>
 
-  KIRK
-     Sickbay. What did you do to her?
+<tr id="L253"><td><a href="#L253">253</a></td><td>ANNOTATION: McCoy and Nomad enter the turbolift,</td></tr>
 
-  NOMAD
-     That unit is defective. Its thinking is chaotic.
-     Absorbing it unsettled me.
+<tr id="L254"><td><a href="#L254">254</a></td><td>KIRK:  Security. I want a twenty four hour, two man armed surveillance on Nomad. Pick it up in Sickbay.</td></tr>
 
-  SPOCK
-     That unit is a woman.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L255"><td><a href="#L255">255</a></td><td>ANNOTATION: Nomad and McCoy are standing by the biobed with Scott's body on it, and Chapel is scanning it. Kirk and Spock enter.</td></tr>
 
-  NOMAD
-     A mass of conflicting impulses.
+<tr id="L256"><td><a href="#L256">256</a></td><td>CHAPEL:  No reaction, Doctor.</td></tr>
 
-  KIRK
-     Get Scott down below.
+<tr id="L257"><td><a href="#L257">257</a></td><td>MCCOY:  I could have told you that without looking.</td></tr>
 
-  NOMAD
-     Will the creator effect repairs on the unit Scott?
+<tr id="L258"><td><a href="#L258">258</a></td><td>ANNOTATION: Suddenly, a heart beat, and the indicators rise into the green area.</td></tr>
 
-  KIRK
-     He's dead.
+<tr id="L259"><td><a href="#L259">259</a></td><td>SCOTT:  What are the lot of you staring at me for?</td></tr>
 
-  NOMAD
-     Insufficient response.
+<tr id="L260"><td><a href="#L260">260</a></td><td>MCCOY:  It's unbelievable.</td></tr>
 
-  KIRK
-     His biological functions have ceased.
+<tr id="L261"><td><a href="#L261">261</a></td><td>SPOCK:  Fascinating.</td></tr>
 
-  NOMAD
-     Does the creator wish me to repair the unit?
+<tr id="L262"><td><a href="#L262">262</a></td><td>SCOTT:  How did I get here? How did I (sees Nomad)</td></tr>
 
-  MCCOY
-     There's nothing I can do, Jim. If there's a
-     chance, it'll have to be soon.
+<tr id="L263"><td><a href="#L263">263</a></td><td>KIRK:  It's all right.</td></tr>
 
-  KIRK
-     All right, Nomad. Repair the unit.
+<tr id="L264"><td><a href="#L264">264</a></td><td>SCOTT:  That thing did something to Lieutenant Uhura!</td></tr>
 
-  NOMAD
-     I require tapes on the structure.
+<tr id="L265"><td><a href="#L265">265</a></td><td>KIRK:  Scotty, she's being taken care of. It's all right.</td></tr>
 
-  MCCOY
-     Well, he'll need tapes on general anatomy, the
-     central nervous system, and then one on the
-     physiological structure of the brain. We'd better
-     give it all the neurological studies we have, as
-     well as tracings of Scotty's hyperencephalogram.
+<tr id="L266"><td><a href="#L266">266</a></td><td>MCCOY:  Take it easy. Lie down, Scotty. We just want to check you out.</td></tr>
 
-  ANNOTATION
-     Spock loads up the data.
+<tr id="L267"><td><a href="#L267">267</a></td><td>NOMAD:  The unit Scott is repaired. It will function correctly if your information to me was correct.</td></tr>
 
-  SPOCK
-     Nomad, I have arranged the tapes for flash feed at
-     the top speed of the computer. Please do not draw
-     the information faster than the machine's
-     capacity.
+<tr id="L268"><td><a href="#L268">268</a></td><td>MCCOY:  I'd like to check it out, if you don't mind. A man is not just a biological unit that you can patch together.</td></tr>
 
-  NOMAD
-     Proceed. (a few moments later) Creator, the unit
-     Scott is a primitive structure. Insufficient
-     safeguards built in. Breakdown can occur from many
-     causes. Self-maintenance systems of low
-     reliability.
+<tr id="L269"><td><a href="#L269">269</a></td><td>SCOTT:  What did it do to me?</td></tr>
 
-  KIRK
-     It serves me as it is, Nomad. Repair it.
+<tr id="L270"><td><a href="#L270">270</a></td><td>KIRK:  Doctor McCoy will explain it to you.</td></tr>
 
-  NOMAD
-     Where is the unit Scott now?
+<tr id="L271"><td><a href="#L271">271</a></td><td>SPOCK:  Well, Doctor?</td></tr>
 
-  MCCOY
-     The body is in Sickbay.
+<tr id="L272"><td><a href="#L272">272</a></td><td>MCCOY:  Nurse, I want him prepared for a full physical examination.</td></tr>
 
-  NOMAD
-     Show me Sickbay.
+<tr id="L273"><td><a href="#L273">273</a></td><td>CHAPEL:  Yes, sir.</td></tr>
 
-  KIRK
-     Doctor McCoy will show you.
+<tr id="L274"><td><a href="#L274">274</a></td><td>KIRK:  Nomad, come here.</td></tr>
 
-  ANNOTATION
-     McCoy and Nomad enter the turbolift,
+<tr id="L275"><td><a href="#L275">275</a></td><td>ANNOTATION: They all go to the doorway to the medical bay. Uhura is in bed, still staring blankly</td></tr>
 
-  KIRK
-     Security. I want a twenty four hour, two man armed
-     surveillance on Nomad. Pick it up in Sickbay.
+<tr id="L276"><td><a href="#L276">276</a></td><td>KIRK:  Repair that unit.</td></tr>
 
+<tr id="L277"><td><a href="#L277">277</a></td><td>NOMAD:  Not possible.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L278"><td><a href="#L278">278</a></td><td>KIRK:  You restored Scott. He had much more extensive damage.</td></tr>
 
-  ANNOTATION
-     Nomad and McCoy are standing by the biobed with
-     Scott's body on it, and Chapel is scanning it.
-     Kirk and Spock enter.
+<tr id="L279"><td><a href="#L279">279</a></td><td>NOMAD:  The unit Scott required simple structural repair. The knowledge banks of this unit have been wiped clean.</td></tr>
 
-  CHAPEL
-     No reaction, Doctor.
+<tr id="L280"><td><a href="#L280">280</a></td><td>SPOCK:  Captain, if that is correct, if there has been no brain damage but only knowledge erased, she could be re-educated.</td></tr>
 
-  MCCOY
-     I could have told you that without looking.
+<tr id="L281"><td><a href="#L281">281</a></td><td>KIRK:  Bones?</td></tr>
 
-  ANNOTATION
-     Suddenly, a heart beat, and the indicators rise
-     into the green area.
+<tr id="L282"><td><a href="#L282">282</a></td><td>MCCOY:  Yes. I'll get on it right away. Oh, and in spite of the way you repaired Scotty, you metal ticking</td></tr>
 
-  SCOTT
-     What are the lot of you staring at me for?
+<tr id="L283"><td><a href="#L283">283</a></td><td>SPOCK:  Does the creator wish Nomad to wait elsewhere?</td></tr>
 
-  MCCOY
-     It's unbelievable.
+<tr id="L284"><td><a href="#L284">284</a></td><td>KIRK:  Yes. Nomad, you will go with these units. (the two red-shirts) They will take you to a waiting area. Take it to the top security cell.</td></tr>
 
-  SPOCK
-     Fascinating.
+<tr id="L285"><td><a href="#L285">285</a></td><td>ANNOTATION: Nomad and its escort leave.</td></tr>
 
-  SCOTT
-     How did I get here? How did I (sees Nomad)
+<tr id="L286"><td><a href="#L286">286</a></td><td>SPOCK:  Doctor, I interrupted you because Nomad would not have understood your anger. It has great technical skill, but its reaction to emotion is unpredictable. It almost qualifies as a life-form.</td></tr>
 
-  KIRK
-     It's all right.
+<tr id="L287"><td><a href="#L287">287</a></td><td>MCCOY:  That's a laugh.</td></tr>
 
-  SCOTT
-     That thing did something to Lieutenant Uhura!
+<tr id="L288"><td><a href="#L288">288</a></td><td>SPOCK:  The study of it would be of great use, Captain.</td></tr>
 
-  KIRK
-     Scotty, she's being taken care of. It's all right.
+<tr id="L289"><td><a href="#L289">289</a></td><td>KIRK:  It's a killer, Spock. I intend to render it harmless. Get down to the Brig. Run a full analysis on the mechanism. I want to know what makes that thing tick.</td></tr>
 
-  MCCOY
-     Take it easy. Lie down, Scotty. We just want to
-     check you out.
+<tr id="L290"><td><a href="#L290">290</a></td><td>SOMEONE: SPOCK; Yes, sir.</td></tr>
 
-  NOMAD
-     The unit Scott is repaired. It will function
-     correctly if your information to me was correct.
+<tr><td></td><td>LOCATION--Brig</td></tr>
+<tr id="L291"><td><a href="#L291">291</a></td><td>ANNOTATION: Spock is sitting with arms crossed as Nomad floats in front of him.</td></tr>
 
-  MCCOY
-     I'd like to check it out, if you don't mind. A man
-     is not just a biological unit that you can patch
-     together.
+<tr id="L292"><td><a href="#L292">292</a></td><td>KIRK:  What's the problem?</td></tr>
 
-  SCOTT
-     What did it do to me?
+<tr id="L293"><td><a href="#L293">293</a></td><td>SPOCK:  An almost human stubbornness, Captain. I have been unable to convince Nomad to lower its screens for analysis. Without its co-operation, I can do nothing.</td></tr>
 
-  KIRK
-     Doctor McCoy will explain it to you.
+<tr id="L294"><td><a href="#L294">294</a></td><td>KIRK:  Nomad, you will allow Mister Spock to probe your memory banks and structure.</td></tr>
 
-  SPOCK
-     Well, Doctor?
+<tr id="L295"><td><a href="#L295">295</a></td><td>NOMAD:  Mister Spock is also one of your biological units, Creator?</td></tr>
 
-  MCCOY
-     Nurse, I want him prepared for a full physical
-     examination.
+<tr id="L296"><td><a href="#L296">296</a></td><td>KIRK:  Yes.</td></tr>
 
-  CHAPEL
-     Yes, sir.
+<tr id="L297"><td><a href="#L297">297</a></td><td>NOMAD:  This unit is different. It is well-ordered.</td></tr>
 
-  KIRK
-     Nomad, come here.
+<tr id="L298"><td><a href="#L298">298</a></td><td>KIRK:  Follow your instructions, Nomad.</td></tr>
 
-  ANNOTATION
-     They all go to the doorway to the medical bay.
-     Uhura is in bed, still staring blankly
+<tr id="L299"><td><a href="#L299">299</a></td><td>NOMAD:  My screens are down.</td></tr>
 
-  KIRK
-     Repair that unit.
+<tr id="L300"><td><a href="#L300">300</a></td><td>SPOCK:  Thank you.</td></tr>
 
-  NOMAD
-     Not possible.
+<tr id="L301"><td><a href="#L301">301</a></td><td>NOMAD:  You may proceed.</td></tr>
 
-  KIRK
-     You restored Scott. He had much more extensive
-     damage.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L302"><td><a href="#L302">302</a></td><td>ANNOTATION: Uhura is sitting up in bed, and reading from a monitor.</td></tr>
 
-  NOMAD
-     The unit Scott required simple structural repair.
-     The knowledge banks of this unit have been wiped
-     clean.
+<tr id="L303"><td><a href="#L303">303</a></td><td>UHURA:  See the dog. See the dog,</td></tr>
 
-  SPOCK
-     Captain, if that is correct, if there has been no
-     brain damage but only knowledge erased, she could
-     be re-educated.
+<tr id="L304"><td><a href="#L304">304</a></td><td>CHAPEL:  Sound it out.</td></tr>
 
-  KIRK
-     Bones?
+<tr id="L305"><td><a href="#L305">305</a></td><td>UHURA:  R, r, run!</td></tr>
 
-  MCCOY
-     Yes. I'll get on it right away. Oh, and in spite
-     of the way you repaired Scotty, you metal ticking
+<tr id="L306"><td><a href="#L306">306</a></td><td>CHAPEL:  That's it, Uhura. That's very good. Now try the next one.</td></tr>
 
-  SPOCK
-     Does the creator wish Nomad to wait elsewhere?
+<tr id="L307"><td><a href="#L307">307</a></td><td>UHURA:  The dog has a, The dog, (something)</td></tr>
 
-  KIRK
-     Yes. Nomad, you will go with these units. (the two
-     red-shirts) They will take you to a waiting area.
-     Take it to the top security cell.
+<tr id="L308"><td><a href="#L308">308</a></td><td>CHAPEL:  Not Swahili, Uhura. In English. The dog has a ball. See? B, ah, ll. Ball. Now you go ahead.</td></tr>
 
-  ANNOTATION
-     Nomad and its escort leave.
+<tr id="L309"><td><a href="#L309">309</a></td><td>UHURA:  (Swahili, then) The dog has a ball.</td></tr>
 
-  SPOCK
-     Doctor, I interrupted you because Nomad would not
-     have understood your anger. It has great technical
-     skill, but its reaction to emotion is
-     unpredictable. It almost qualifies as a life-form.
+<tr id="L310"><td><a href="#L310">310</a></td><td>CHAPEL:  That's right! Oh, that's right, Uhura. (they hug, then McCoy beckons Chapel over) Oh, here. You try another one. I'll be right back.</td></tr>
 
-  MCCOY
-     That's a laugh.
+<tr id="L311"><td><a href="#L311">311</a></td><td>UHURA:  All right, Christine.</td></tr>
 
-  SPOCK
-     The study of it would be of great use, Captain.
+<tr id="L312"><td><a href="#L312">312</a></td><td>MCCOY:  How's she doing?</td></tr>
 
-  KIRK
-     It's a killer, Spock. I intend to render it
-     harmless. Get down to the Brig. Run a full
-     analysis on the mechanism. I want to know what
-     makes that thing tick.
+<tr id="L313"><td><a href="#L313">313</a></td><td>CHAPEL:  Well, she's on the first grade reader. She's learning. Seems to have an aptitude for mathematics. Do you think we can re-educate her, Doctor?</td></tr>
 
-  SOMEONE
-     SPOCK; Yes, sir.
+<tr id="L314"><td><a href="#L314">314</a></td><td>MCCOY:  Well, she checks out with no brain damage. We've got all the educational tapes in our library. Now it's up to us.</td></tr>
 
+<tr id="L315"><td><a href="#L315">315</a></td><td>UHURA:  The ball is bl-u-ee. Bl-u-ey. Bluey?</td></tr>
 
-LOCATION--Brig
+<tr><td></td><td>LOCATION--Brig</td></tr>
+<tr id="L316"><td><a href="#L316">316</a></td><td>SPOCK:  It is not sufficient, Captain. I get certain references to the accident, the other, but nothing clear. There are areas I simply cannot scan.</td></tr>
 
-  ANNOTATION
-     Spock is sitting with arms crossed as Nomad floats
-     in front of him.
+<tr id="L317"><td><a href="#L317">317</a></td><td>KIRK:  We've got to know about it, Spock. what makes it operate, its compulsion for perfection.</td></tr>
 
-  KIRK
-     What's the problem?
+<tr id="L318"><td><a href="#L318">318</a></td><td>SPOCK:  Captain, I suggest the Vulcan mind probe.</td></tr>
 
-  SPOCK
-     An almost human stubbornness, Captain. I have been
-     unable to convince Nomad to lower its screens for
-     analysis. Without its co-operation, I can do
-     nothing.
+<tr id="L319"><td><a href="#L319">319</a></td><td>KIRK:  Get into direct mental contact with that thing?</td></tr>
 
-  KIRK
-     Nomad, you will allow Mister Spock to probe your
-     memory banks and structure.
+<tr id="L320"><td><a href="#L320">320</a></td><td>SPOCK:  It seems the only way.</td></tr>
 
-  NOMAD
-     Mister Spock is also one of your biological units,
-     Creator?
+<tr id="L321"><td><a href="#L321">321</a></td><td>KIRK:  You saw what it did to Uhura.</td></tr>
 
-  KIRK
-     Yes.
+<tr id="L322"><td><a href="#L322">322</a></td><td>SPOCK:  There is a risk, but I have formed a partial hypothesis. I must check it out.</td></tr>
 
-  NOMAD
-     This unit is different. It is well-ordered.
+<tr id="L323"><td><a href="#L323">323</a></td><td>KIRK:  Nomad, the unit Spock will touch you. It is not an attack. It is a form of communication. You will permit it.</td></tr>
 
-  KIRK
-     Follow your instructions, Nomad.
+<tr id="L324"><td><a href="#L324">324</a></td><td>NOMAD:  I will permit it, Creator.</td></tr>
 
-  NOMAD
-     My screens are down.
+<tr id="L325"><td><a href="#L325">325</a></td><td>ANNOTATION: Spock puts one hand on Nomad's head, where the antenna are, and the other on its body where the lights and ticking are coming from.</td></tr>
 
-  SPOCK
-     Thank you.
+<tr id="L326"><td><a href="#L326">326</a></td><td>SPOCK:  I. Am. Nomad. I am performing my function. Deep emptiness, It approaches. Collision. Damage. Blackness. I. Am. The other. I am Tan Ru, Tan Ru. Nomad. Tan Ru. Error. Flaw. Imperfection. Must sterilise. Rebirth. We are complete. Much power. Gun ta. Noo. Icka. Tan Ru. The creator instructs. Search out. Identify. Sterilise imperfections. We are Nomad. We are Nomad. We are complete. We are instructed. Our purpose is clear. Sterilise imperfections. (he lets go of Nomad) Sterilise imperfections. Nomad. Sterilise. Sterilise. Nomad, sterilise,</td></tr>
 
-  NOMAD
-     You may proceed.
+<tr id="L327"><td><a href="#L327">327</a></td><td>KIRK:  Spock. Spock! Nomad! You're in contact with the unit Spock. Stop! Stop!</td></tr>
 
+<tr id="L328"><td><a href="#L328">328</a></td><td>NOMAD:  Acknowledged.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L329"><td><a href="#L329">329</a></td><td>ANNOTATION: Spock slumps in Kirk's arms and is rushed out of the Brig. The guard activates the security forcefield.</td></tr>
 
-  ANNOTATION
-     Uhura is sitting up in bed, and reading from a
-     monitor.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L330"><td><a href="#L330">330</a></td><td>KIRK:  Spock. Spock?</td></tr>
 
-  UHURA
-     See the dog. See the dog,
+<tr id="L331"><td><a href="#L331">331</a></td><td>SPOCK:  Fascinating, Captain. The knowledge. The depth.</td></tr>
 
-  CHAPEL
-     Sound it out.
+<tr id="L332"><td><a href="#L332">332</a></td><td>KIRK:  What does it mean, we are Nomad?</td></tr>
 
-  UHURA
-     R, r, run!
+<tr id="L333"><td><a href="#L333">333</a></td><td>SPOCK:  It was, it was damaged in deep space. Undoubtedly, the meteor collision. Its memory banks were destroyed, or most of them. It wandered without purpose, and then it met the other. The other was an alien probe of great power. Somehow they merged, repaired each other, became one.</td></tr>
 
-  CHAPEL
-     That's it, Uhura. That's very good. Now try the
-     next one.
+<tr id="L334"><td><a href="#L334">334</a></td><td>KIRK:  Then it isn't Nomad?</td></tr>
 
-  UHURA
-     The dog has a, The dog, (something)
+<tr id="L335"><td><a href="#L335">335</a></td><td>SPOCK:  Not the Nomad we lost from Earth. It took from the other a new directive to replace its own. The other was originally programmed to secure and sterilise soil samples from other planets, probably as a prelude to colonisation.</td></tr>
 
-  CHAPEL
-     Not Swahili, Uhura. In English. The dog has a
-     ball. See? B, ah, ll. Ball. Now you go ahead.
+<tr id="L336"><td><a href="#L336">336</a></td><td>KIRK:  A changeling.</td></tr>
 
-  UHURA
-     (Swahili, then) The dog has a ball.
+<tr id="L337"><td><a href="#L337">337</a></td><td>SPOCK:  I beg your pardon?</td></tr>
 
-  CHAPEL
-     That's right! Oh, that's right, Uhura. (they hug,
-     then McCoy beckons Chapel over) Oh, here. You try
-     another one. I'll be right back.
+<tr id="L338"><td><a href="#L338">338</a></td><td>KIRK:  An ancient Earth legend, Mister Spock. A changeling was a fairy child that was left in place of a human baby. The changeling assumed the identity of the human child. So, it is to sterilise, and for sterilise read kill.</td></tr>
 
-  UHURA
-     All right, Christine.
+<tr id="L339"><td><a href="#L339">339</a></td><td>SOMEONE: SPOCK And it has the power and sophistication to do it.</td></tr>
 
-  MCCOY
-     How's she doing?
+<tr id="L340"><td><a href="#L340">340</a></td><td>KIRK:  Yes, it's powerful, it's sophisticated, but it's not infallible. It's space-happy. It thinks I'm its mother.</td></tr>
 
-  CHAPEL
-     Well, she's on the first grade reader. She's
-     learning. Seems to have an aptitude for
-     mathematics. Do you think we can re-educate her,
-     Doctor?
+<tr id="L341"><td><a href="#L341">341</a></td><td>SPOCK:  And that is the only thing that has saved us until now.</td></tr>
 
-  MCCOY
-     Well, she checks out with no brain damage. We've
-     got all the educational tapes in our library. Now
-     it's up to us.
+<tr id="L342"><td><a href="#L342">342</a></td><td>SOMEONE: Yes.</td></tr>
 
-  UHURA
-     The ball is bl-u-ee. Bl-u-ey. Bluey?
+<tr id="L343"><td><a href="#L343">343</a></td><td>ANNOTATION: They leave. Nomad flies through the forcefield. The two guards fire their phasers at it but it's screens are back up. Nomad zaps them into oblivion.</td></tr>
 
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L344"><td><a href="#L344">344</a></td><td>ANNOTATION: Nomad floats in.</td></tr>
 
-LOCATION--Brig
+<tr id="L345"><td><a href="#L345">345</a></td><td>SCOTT:  Notify the captain. What are you doing here? Watch your panels, everyone. Watch that polymass. Roger, help with the interfactor. Leave that alone.</td></tr>
 
-  SPOCK
-     It is not sufficient, Captain. I get certain
-     references to the accident, the other, but nothing
-     clear. There are areas I simply cannot scan.
+<tr id="L346"><td><a href="#L346">346</a></td><td>NOMAD:  This primitive matter-antimatter propulsion system is the main drive?</td></tr>
 
-  KIRK
-     We've got to know about it, Spock. what makes it
-     operate, its compulsion for perfection.
+<tr id="L347"><td><a href="#L347">347</a></td><td>SCOTT:  Aye.</td></tr>
 
-  SPOCK
-     Captain, I suggest the Vulcan mind probe.
+<tr id="L348"><td><a href="#L348">348</a></td><td>NOMAD:  Inefficiency exists in the antimatter input valve. I will effect repair.</td></tr>
 
-  KIRK
-     Get into direct mental contact with that thing?
+<tr id="L349"><td><a href="#L349">349</a></td><td>ANNOTATION: The indicator board goes crazy.</td></tr>
 
-  SPOCK
-     It seems the only way.
+<tr id="L350"><td><a href="#L350">350</a></td><td>SCOTT:  How are you doing that?</td></tr>
 
-  KIRK
-     You saw what it did to Uhura.
+<tr id="L351"><td><a href="#L351">351</a></td><td>NOMAD:  The energy release controls are also most inefficient. I shall effect repair.</td></tr>
 
-  SPOCK
-     There is a risk, but I have formed a partial
-     hypothesis. I must check it out.
+<tr id="L352"><td><a href="#L352">352</a></td><td>ENGINEER:  Warp eight, Mister Scott, and increasing.</td></tr>
 
-  KIRK
-     Nomad, the unit Spock will touch you. It is not an
-     attack. It is a form of communication. You will
-     permit it.
+<tr id="L353"><td><a href="#L353">353</a></td><td>SCOTT:  Throw your dampers.</td></tr>
 
-  NOMAD
-     I will permit it, Creator.
+<tr id="L354"><td><a href="#L354">354</a></td><td>ENGINEER:  Warp nine.</td></tr>
 
-  ANNOTATION
-     Spock puts one hand on Nomad's head, where the
-     antenna are, and the other on its body where the
-     lights and ticking are coming from.
+<tr id="L355"><td><a href="#L355">355</a></td><td>SCOTT:  Cut your circuits, all of them.</td></tr>
 
-  SPOCK
-     I. Am. Nomad. I am performing my function. Deep
-     emptiness, It approaches. Collision. Damage.
-     Blackness. I. Am. The other. I am Tan Ru, Tan Ru.
-     Nomad. Tan Ru. Error. Flaw. Imperfection. Must
-     sterilise. Rebirth. We are complete. Much power.
-     Gun ta. Noo. Icka. Tan Ru. The creator instructs.
-     Search out. Identify. Sterilise imperfections. We
-     are Nomad. We are Nomad. We are complete. We are
-     instructed. Our purpose is clear. Sterilise
-     imperfections. (he lets go of Nomad) Sterilise
-     imperfections. Nomad. Sterilise. Sterilise. Nomad,
-     sterilise,
+<tr id="L356"><td><a href="#L356">356</a></td><td>ENGINEER:  Warp 10, Mister Scott.</td></tr>
 
-  KIRK
-     Spock. Spock! Nomad! You're in contact with the
-     unit Spock. Stop! Stop!
+<tr id="L357"><td><a href="#L357">357</a></td><td>SCOTT:  Impossible. It can't go that fast.</td></tr>
 
-  NOMAD
-     Acknowledged.
+<tr id="L358"><td><a href="#L358">358</a></td><td>ENGINEER:  It just won't stop, Mister Scott. Warp eleven!</td></tr>
 
-  ANNOTATION
-     Spock slumps in Kirk's arms and is rushed out of
-     the Brig. The guard activates the security
-     forcefield.
+<tr id="L359"><td><a href="#L359">359</a></td><td>KIRK:  Nomad, stop what you're doing. Scotty?</td></tr>
 
+<tr id="L360"><td><a href="#L360">360</a></td><td>NOMAD:  Is there a problem, Creator? I have increased engine efficiency fifty seven percent.</td></tr>
 
-LOCATION--Corridor
+<tr id="L361"><td><a href="#L361">361</a></td><td>KIRK:  You will destroy my ship. Its structure cannot stand the stress of that much power. Turn off your repair operation.</td></tr>
 
-  KIRK
-     Spock. Spock?
+<tr id="L362"><td><a href="#L362">362</a></td><td>NOMAD:  Acknowledged. It is reversed as ordered, Creator.</td></tr>
 
-  SPOCK
-     Fascinating, Captain. The knowledge. The depth.
+<tr id="L363"><td><a href="#L363">363</a></td><td>KIRK:  Mister Scott, give Sulu warp two and keep her there.</td></tr>
 
-  KIRK
-     What does it mean, we are Nomad?
+<tr id="L364"><td><a href="#L364">364</a></td><td>SCOTT:  Aye, sir.</td></tr>
 
-  SPOCK
-     It was, it was damaged in deep space. Undoubtedly,
-     the meteor collision. Its memory banks were
-     destroyed, or most of them. It wandered without
-     purpose, and then it met the other. The other was
-     an alien probe of great power. Somehow they
-     merged, repaired each other, became one.
+<tr id="L365"><td><a href="#L365">365</a></td><td>ANNOTATION: Spock enters, leaving two guards outside.</td></tr>
 
-  KIRK
-     Then it isn't Nomad?
+<tr id="L366"><td><a href="#L366">366</a></td><td>SPOCK:  Captain. I've examined the brig. The forcefield door on the security cell is damaged and the guards have vanished. I must assume they are dead.</td></tr>
 
-  SPOCK
-     Not the Nomad we lost from Earth. It took from the
-     other a new directive to replace its own. The
-     other was originally programmed to secure and
-     sterilise soil samples from other planets,
-     probably as a prelude to colonisation.
+<tr id="L367"><td><a href="#L367">367</a></td><td>KIRK:  You killed two of my</td></tr>
 
-  KIRK
-     A changeling.
+<tr id="L368"><td><a href="#L368">368</a></td><td>NOMAD:  Creator, your biological units are inefficient.</td></tr>
 
-  SPOCK
-     I beg your pardon?
+<tr id="L369"><td><a href="#L369">369</a></td><td>KIRK:  Nomad, it's about time I told you who and what you are! I'm a biological unit, and I created you.</td></tr>
 
-  KIRK
-     An ancient Earth legend, Mister Spock. A
-     changeling was a fairy child that was left in
-     place of a human baby. The changeling assumed the
-     identity of the human child. So, it is to
-     sterilise, and for sterilise read kill.
+<tr id="L370"><td><a href="#L370">370</a></td><td>NOMAD:  (pause) Non sequitur. Biological units are inherently inferior. This is an inconsistency.</td></tr>
 
-  SOMEONE
-     SPOCK And it has the power and sophistication to
-     do it.
+<tr id="L371"><td><a href="#L371">371</a></td><td>KIRK:  Nomad, there are two men waiting outside. You will not harm them. They will escort you back to the waiting area. You will stay there. You will do nothing.</td></tr>
 
-  KIRK
-     Yes, it's powerful, it's sophisticated, but it's
-     not infallible. It's space-happy. It thinks I'm
-     its mother.
+<tr id="L372"><td><a href="#L372">372</a></td><td>NOMAD:  I am programmed to investigate.</td></tr>
 
-  SPOCK
-     And that is the only thing that has saved us until
-     now.
+<tr id="L373"><td><a href="#L373">373</a></td><td>KIRK:  I have given you new programming and you will implement it.</td></tr>
 
-  SOMEONE
-     Yes.
+<tr id="L374"><td><a href="#L374">374</a></td><td>NOMAD:  There is much to be considered before I return to launch point. I must re-evaluate.</td></tr>
 
-  ANNOTATION
-     They leave. Nomad flies through the forcefield.
-     The two guards fire their phasers at it but it's
-     screens are back up. Nomad zaps them into
-     oblivion.
+<tr id="L375"><td><a href="#L375">375</a></td><td>ANNOTATION: Nomad follows the guards down the corridor away from Engineering.</td></tr>
 
+<tr id="L376"><td><a href="#L376">376</a></td><td>KIRK:  Reevaluate?</td></tr>
 
-LOCATION--Engineering
+<tr id="L377"><td><a href="#L377">377</a></td><td>SPOCK:  I suspect it is about to re-evaluate its creator. Captain, it may have been unwise to admit to Nomad that you are a biological unit. In Nomad's eyes, you must now undoubtedly appear imperfect.</td></tr>
 
-  ANNOTATION
-     Nomad floats in.
+<tr id="L378"><td><a href="#L378">378</a></td><td>KIRK:  It was a foolish mistake.</td></tr>
 
-  SCOTT
-     Notify the captain. What are you doing here? Watch
-     your panels, everyone. Watch that polymass. Roger,
-     help with the interfactor. Leave that alone.
+<tr id="L379"><td><a href="#L379">379</a></td><td>SPOCK:  Even worse. Nomad just now made a reference to its launch point, Earth.</td></tr>
 
-  NOMAD
-     This primitive matter-antimatter propulsion system
-     is the main drive?
+<tr id="L380"><td><a href="#L380">380</a></td><td>KIRK:  Spock, do you think it's possible that it got a fix on Earth when it tapped the computers earlier?</td></tr>
 
-  SCOTT
-     Aye.
+<tr id="L381"><td><a href="#L381">381</a></td><td>SPOCK:  I do not believe there is much beyond Nomad's capabilities.</td></tr>
 
-  NOMAD
-     Inefficiency exists in the antimatter input valve.
-     I will effect repair.
+<tr id="L382"><td><a href="#L382">382</a></td><td>KIRK:  And we've shown it the way home. And when it gets there</td></tr>
 
-  ANNOTATION
-     The indicator board goes crazy.
+<tr id="L383"><td><a href="#L383">383</a></td><td>SPOCK:  It will find the Earth infested with imperfect biological units.</td></tr>
 
-  SCOTT
-     How are you doing that?
+<tr id="L384"><td><a href="#L384">384</a></td><td>KIRK:  And it will carry out its prime directive. Sterilise.</td></tr>
 
-  NOMAD
-     The energy release controls are also most
-     inefficient. I shall effect repair.
+<tr id="L385"><td><a href="#L385">385</a></td><td>SOMEONE: Captain's log, stardate 3541.9. The presence of Nomad aboard my ship has become nightmarish. Now it apparently means to return to Earth. Once there, it would automatically destroy all life.</td></tr>
 
-  ENGINEER
-     Warp eight, Mister Scott, and increasing.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L386"><td><a href="#L386">386</a></td><td>ANNOTATION: The guards, who are now behind Nomad, turn right. Nomad goes straight on.</td></tr>
 
-  SCOTT
-     Throw your dampers.
+<tr id="L387"><td><a href="#L387">387</a></td><td>GUARD:  Hey. Nomad, stop. Nomad, this way.</td></tr>
 
-  ENGINEER
-     Warp nine.
+<tr id="L388"><td><a href="#L388">388</a></td><td>ANNOTATION: They fire at it, and the inevitable follows. Strike two more red-shirts. Nomad uses the access tubes between decks instead of the turbolift.</td></tr>
 
-  SCOTT
-     Cut your circuits, all of them.
+<tr id="L389"><td><a href="#L389">389</a></td><td>ANNOTATION: In another corridor.</td></tr>
 
-  ENGINEER
-     Warp 10, Mister Scott.
+<tr id="L390"><td><a href="#L390">390</a></td><td>MCCOY [OC]:  Captain Kirk to Sickbay. Emergency.</td></tr>
 
-  SCOTT
-     Impossible. It can't go that fast.
+<tr id="L391"><td><a href="#L391">391</a></td><td>ANNOTATION: Kirk and Spock run to a door labeled 'Leonard McCoy, MD' but it does not open automatically for them.</td></tr>
 
-  ENGINEER
-     It just won't stop, Mister Scott. Warp eleven!
+<tr id="L392"><td><a href="#L392">392</a></td><td>KIRK:  Manual controls.</td></tr>
 
-  KIRK
-     Nomad, stop what you're doing. Scotty?
+<tr id="L393"><td><a href="#L393">393</a></td><td>SPOCK:  No response.</td></tr>
 
-  NOMAD
-     Is there a problem, Creator? I have increased
-     engine efficiency fifty seven percent.
+<tr id="L394"><td><a href="#L394">394</a></td><td>(The doors open and Nomad comes out. KIRK:  Nomad. Nomad? Stop. Nomad, stop! Nomad.</td></tr>
 
-  KIRK
-     You will destroy my ship. Its structure cannot
-     stand the stress of that much power. Turn off your
-     repair operation.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L395"><td><a href="#L395">395</a></td><td>ANNOTATION: McCoy is cradling Chapel in his arms.</td></tr>
 
-  NOMAD
-     Acknowledged. It is reversed as ordered, Creator.
+<tr id="L396"><td><a href="#L396">396</a></td><td>KIRK:  Is she all right?</td></tr>
 
-  KIRK
-     Mister Scott, give Sulu warp two and keep her
-     there.
+<tr id="L397"><td><a href="#L397">397</a></td><td>MCCOY:  I think so. Looks like some kind of shock.</td></tr>
 
-  SCOTT
-     Aye, sir.
+<tr id="L398"><td><a href="#L398">398</a></td><td>KIRK:  What happened?</td></tr>
 
-  ANNOTATION
-     Spock enters, leaving two guards outside.
+<tr id="L399"><td><a href="#L399">399</a></td><td>MCCOY:  Nomad examined the personnel files and the medical histories. She tried to stop him.</td></tr>
 
-  SPOCK
-     Captain. I've examined the brig. The forcefield
-     door on the security cell is damaged and the
-     guards have vanished. I must assume they are dead.
+<tr id="L400"><td><a href="#L400">400</a></td><td>KIRK:  Whose history?</td></tr>
 
-  KIRK
-     You killed two of my
+<tr id="L401"><td><a href="#L401">401</a></td><td>MCCOY:  Yours.</td></tr>
 
-  NOMAD
-     Creator, your biological units are inefficient.
+<tr id="L402"><td><a href="#L402">402</a></td><td>SPOCK:  Since it specifically examined your history, I suggest it has completed its re-evaluation.</td></tr>
 
-  KIRK
-     Nomad, it's about time I told you who and what you
-     are! I'm a biological unit, and I created you.
+<tr id="L403"><td><a href="#L403">403</a></td><td>KIRK:  And found that its creator is as imperfect as all the other biological units.</td></tr>
 
-  NOMAD
-     (pause) Non sequitur. Biological units are
-     inherently inferior. This is an inconsistency.
+<tr id="L404"><td><a href="#L404">404</a></td><td>SCOTT [OC]:  Bridge to Captain.</td></tr>
 
-  KIRK
-     Nomad, there are two men waiting outside. You will
-     not harm them. They will escort you back to the
-     waiting area. You will stay there. You will do
-     nothing.
+<tr id="L405"><td><a href="#L405">405</a></td><td>KIRK:  Kirk here.</td></tr>
 
-  NOMAD
-     I am programmed to investigate.
+<tr id="L406"><td><a href="#L406">406</a></td><td>SCOTT [OC]:  Life support systems are out all over the ship.</td></tr>
 
-  KIRK
-     I have given you new programming and you will
-     implement it.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L407"><td><a href="#L407">407</a></td><td>SCOTT:  Manual override has been blocked. Source, Engineering.</td></tr>
 
-  NOMAD
-     There is much to be considered before I return to
-     launch point. I must re-evaluate.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L408"><td><a href="#L408">408</a></td><td>KIRK:  Nomad.</td></tr>
 
-  ANNOTATION
-     Nomad follows the guards down the corridor away
-     from Engineering.
+<tr id="L409"><td><a href="#L409">409</a></td><td>SPOCK:  Undoubtedly.</td></tr>
 
-  KIRK
-     Reevaluate?
+<tr id="L410"><td><a href="#L410">410</a></td><td>MCCOY:  Jim, with all the systems out we'll only have enough air and heat for</td></tr>
 
-  SPOCK
-     I suspect it is about to re-evaluate its creator.
-     Captain, it may have been unwise to admit to Nomad
-     that you are a biological unit. In Nomad's eyes,
-     you must now undoubtedly appear imperfect.
+<tr id="L411"><td><a href="#L411">411</a></td><td>KIRK:  Get Scotty, some antigravs and meet me in Engineering.</td></tr>
 
-  KIRK
-     It was a foolish mistake.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L412"><td><a href="#L412">412</a></td><td>ANNOTATION: Everyone appears to be unconscious as Kirk runs in alone.</td></tr>
 
-  SPOCK
-     Even worse. Nomad just now made a reference to its
-     launch point, Earth.
+<tr id="L413"><td><a href="#L413">413</a></td><td>KIRK:  Nomad? Stop what you're doing and effect repairs on the life-support systems.</td></tr>
 
-  KIRK
-     Spock, do you think it's possible that it got a
-     fix on Earth when it tapped the computers earlier?
+<tr id="L414"><td><a href="#L414">414</a></td><td>NOMAD:  Stop.</td></tr>
 
-  SPOCK
-     I do not believe there is much beyond Nomad's
-     capabilities.
+<tr id="L415"><td><a href="#L415">415</a></td><td>KIRK:  You're programmed to obey the orders of your creator.</td></tr>
 
-  KIRK
-     And we've shown it the way home. And when it gets
-     there
+<tr id="L416"><td><a href="#L416">416</a></td><td>NOMAD:  I am programmed to destroy those life-forms which are imperfect. These alterations will do so without destroying the vessel which surrounds them. It, too, is imperfect, but can be adjusted.</td></tr>
 
-  SPOCK
-     It will find the Earth infested with imperfect
-     biological units.
+<tr id="L417"><td><a href="#L417">417</a></td><td>KIRK:  Nomad, I admit that biological units are imperfect, but a biological unit created you.</td></tr>
 
-  KIRK
-     And it will carry out its prime directive.
-     Sterilise.
+<tr id="L418"><td><a href="#L418">418</a></td><td>NOMAD:  I am perfect. I am Nomad.</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 3541.9. The presence of
-     Nomad aboard my ship has become nightmarish. Now
-     it apparently means to return to Earth. Once
-     there, it would automatically destroy all life.
+<tr id="L419"><td><a href="#L419">419</a></td><td>KIRK:  No, you're not Nomad. You're an alien machine. Your programming tapes have been altered.</td></tr>
 
+<tr id="L420"><td><a href="#L420">420</a></td><td>NOMAD:  You are in error. You are a biological unit. You are imperfect.</td></tr>
 
-LOCATION--Corridor
+<tr id="L421"><td><a href="#L421">421</a></td><td>KIRK:  But I am your creator.</td></tr>
 
-  ANNOTATION
-     The guards, who are now behind Nomad, turn right.
-     Nomad goes straight on.
+<tr id="L422"><td><a href="#L422">422</a></td><td>NOMAD:  You are the Creator.</td></tr>
 
-  GUARD
-     Hey. Nomad, stop. Nomad, this way.
+<tr id="L423"><td><a href="#L423">423</a></td><td>KIRK:  I created you?</td></tr>
 
-  ANNOTATION
-     They fire at it, and the inevitable follows.
-     Strike two more red-shirts. Nomad uses the access
-     tubes between decks instead of the turbolift.
+<tr id="L424"><td><a href="#L424">424</a></td><td>NOMAD:  You are the Creator.</td></tr>
 
-  ANNOTATION
-     In another corridor.
+<tr id="L425"><td><a href="#L425">425</a></td><td>KIRK:  But I admit I'm imperfect. How could I have created such a perfect thing as you?</td></tr>
 
-  MCCOY [OC]
-     Captain Kirk to Sickbay. Emergency.
+<tr id="L426"><td><a href="#L426">426</a></td><td>NOMAD:  Answer unknown. I shall analyse.</td></tr>
 
-  ANNOTATION
-     Kirk and Spock run to a door labeled 'Leonard
-     McCoy, MD' but it does not open automatically for
-     them.
+<tr id="L427"><td><a href="#L427">427</a></td><td>ANNOTATION: Spock enters, with Scott, two engineers and the requested anti-grav units</td></tr>
 
-  KIRK
-     Manual controls.
+<tr id="L428"><td><a href="#L428">428</a></td><td>NOMAD:  Analysis complete. Insufficient data to resolve problem, but my programming is whole. My purpose remains. I am Nomad. I am perfect. That which is imperfect must be sterilised.</td></tr>
 
-  SPOCK
-     No response.
+<tr id="L429"><td><a href="#L429">429</a></td><td>ANNOTATION: The engineers remove the unconscious men and take their places at the controls.</td></tr>
 
-  (The doors open and Nomad comes out. KIRK
-     Nomad. Nomad? Stop. Nomad, stop! Nomad.
+<tr id="L430"><td><a href="#L430">430</a></td><td>KIRK:  Then you will continue to destroy that which thinks and lives and is imperfect?</td></tr>
 
+<tr id="L431"><td><a href="#L431">431</a></td><td>NOMAD:  I shall continue. I shall return to launch point Earth. I shall sterilise.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L432"><td><a href="#L432">432</a></td><td>KIRK:  You must sterilise in case of error?</td></tr>
 
-  ANNOTATION
-     McCoy is cradling Chapel in his arms.
+<tr id="L433"><td><a href="#L433">433</a></td><td>NOMAD:  Error is inconsistent with my prime functions. Sterilisation is correction.</td></tr>
 
-  KIRK
-     Is she all right?
+<tr id="L434"><td><a href="#L434">434</a></td><td>KIRK:  Everything that is in error must be sterilised.</td></tr>
 
-  MCCOY
-     I think so. Looks like some kind of shock.
+<tr id="L435"><td><a href="#L435">435</a></td><td>NOMAD:  There are no exceptions.</td></tr>
 
-  KIRK
-     What happened?
+<tr id="L436"><td><a href="#L436">436</a></td><td>KIRK:  Nomad, I made an error in creating you.</td></tr>
 
-  MCCOY
-     Nomad examined the personnel files and the medical
-     histories. She tried to stop him.
+<tr id="L437"><td><a href="#L437">437</a></td><td>NOMAD:  The creation of perfection is no error.</td></tr>
 
-  KIRK
-     Whose history?
+<tr id="L438"><td><a href="#L438">438</a></td><td>KIRK:  I did not create perfection. I created error.</td></tr>
 
-  MCCOY
-     Yours.
+<tr id="L439"><td><a href="#L439">439</a></td><td>NOMAD:  Your data is faulty. I am Nomad. I am perfect.</td></tr>
 
-  SPOCK
-     Since it specifically examined your history, I
-     suggest it has completed its re-evaluation.
+<tr id="L440"><td><a href="#L440">440</a></td><td>KIRK:  I am the Kirk, the creator?</td></tr>
 
-  KIRK
-     And found that its creator is as imperfect as all
-     the other biological units.
+<tr id="L441"><td><a href="#L441">441</a></td><td>NOMAD:  You are the Creator.</td></tr>
 
-  SCOTT [OC]
-     Bridge to Captain.
+<tr id="L442"><td><a href="#L442">442</a></td><td>KIRK:  You are wrong! Jackson Roykirk, your creator, is dead. You have mistaken me for him. You are in error. You did not discover your mistake. You have made two errors. You are flawed and imperfect and you have not corrected by sterilisation. You have made three errors.</td></tr>
 
-  KIRK
-     Kirk here.
+<tr id="L443"><td><a href="#L443">443</a></td><td>NOMAD:  Error. Error. Error. Examine.</td></tr>
 
-  SCOTT [OC]
-     Life support systems are out all over the ship.
+<tr id="L444"><td><a href="#L444">444</a></td><td>KIRK:  You are flawed and imperfect! Execute your prime function!</td></tr>
 
+<tr id="L445"><td><a href="#L445">445</a></td><td>NOMAD:  I shall analyse error. Analyse error,</td></tr>
 
-LOCATION--Bridge
+<tr id="L446"><td><a href="#L446">446</a></td><td>KIRK:  Now. Get those antigravs on it.</td></tr>
 
-  SCOTT
-     Manual override has been blocked. Source,
-     Engineering.
+<tr id="L447"><td><a href="#L447">447</a></td><td>NOMAD:  Examine error. Error.</td></tr>
 
+<tr id="L448"><td><a href="#L448">448</a></td><td>ANNOTATION: The anti-gravs are not stopped by any forcefields.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L449"><td><a href="#L449">449</a></td><td>KIRK:  We've got to get rid of it while it's trying to think.</td></tr>
 
-  KIRK
-     Nomad.
+<tr id="L450"><td><a href="#L450">450</a></td><td>SPOCK:  Your logic was impeccable, Captain. We are in grave danger.</td></tr>
 
-  SPOCK
-     Undoubtedly.
+<tr id="L451"><td><a href="#L451">451</a></td><td>KIRK:  Scotty, the transporter room.</td></tr>
 
-  MCCOY
-     Jim, with all the systems out we'll only have
-     enough air and heat for
+<tr id="L452"><td><a href="#L452">452</a></td><td>NOMAD:  Analyse error.</td></tr>
 
-  KIRK
-     Get Scotty, some antigravs and meet me in
-     Engineering.
+<tr id="L453"><td><a href="#L453">453</a></td><td>ANNOTATION: Kirk and Spock carry Nomad out, followed by Scott.</td></tr>
 
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L454"><td><a href="#L454">454</a></td><td>NOMAD:  Error.</td></tr>
 
-LOCATION--Engineering
+<tr id="L455"><td><a href="#L455">455</a></td><td>KIRK:  Scotty, set the controls for deep space. Two ten, mark one.</td></tr>
 
-  ANNOTATION
-     Everyone appears to be unconscious as Kirk runs in
-     alone.
+<tr id="L456"><td><a href="#L456">456</a></td><td>SCOTT:  Aye, sir.</td></tr>
 
-  KIRK
-     Nomad? Stop what you're doing and effect repairs
-     on the life-support systems.
+<tr id="L457"><td><a href="#L457">457</a></td><td>NOMAD:  Faulty!</td></tr>
 
-  NOMAD
-     Stop.
+<tr id="L458"><td><a href="#L458">458</a></td><td>SOMEONE: Ready, sir?</td></tr>
 
-  KIRK
-     You're programmed to obey the orders of your
-     creator.
+<tr id="L459"><td><a href="#L459">459</a></td><td>NOMAD:  Faulty!</td></tr>
 
-  NOMAD
-     I am programmed to destroy those life-forms which
-     are imperfect. These alterations will do so
-     without destroying the vessel which surrounds
-     them. It, too, is imperfect, but can be adjusted.
+<tr id="L460"><td><a href="#L460">460</a></td><td>KIRK:  Nomad, you are imperfect!</td></tr>
 
-  KIRK
-     Nomad, I admit that biological units are
-     imperfect, but a biological unit created you.
+<tr id="L461"><td><a href="#L461">461</a></td><td>NOMAD:  Error. Error.</td></tr>
 
-  NOMAD
-     I am perfect. I am Nomad.
+<tr id="L462"><td><a href="#L462">462</a></td><td>KIRK:  Exercise your prime function.</td></tr>
 
-  KIRK
-     No, you're not Nomad. You're an alien machine.
-     Your programming tapes have been altered.
+<tr id="L463"><td><a href="#L463">463</a></td><td>NOMAD:  Faulty! Faulty! Must sterilise. Sterilise,</td></tr>
 
-  NOMAD
-     You are in error. You are a biological unit. You
-     are imperfect.
+<tr id="L464"><td><a href="#L464">464</a></td><td>KIRK:  Now!</td></tr>
 
-  KIRK
-     But I am your creator.
+<tr id="L465"><td><a href="#L465">465</a></td><td>SCOTT:  Energising.</td></tr>
 
-  NOMAD
-     You are the Creator.
+<tr id="L466"><td><a href="#L466">466</a></td><td>ANNOTATION: They observe the satisfying explosion on a monitor.</td></tr>
 
-  KIRK
-     I created you?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L467"><td><a href="#L467">467</a></td><td>SPOCK:  My congratulations, Captain. A dazzling display of logic.</td></tr>
 
-  NOMAD
-     You are the Creator.
+<tr id="L468"><td><a href="#L468">468</a></td><td>KIRK:  You didn't think I had it in me, did you Spock?</td></tr>
 
-  KIRK
-     But I admit I'm imperfect. How could I have
-     created such a perfect thing as you?
+<tr id="L469"><td><a href="#L469">469</a></td><td>SPOCK:  No, sir.</td></tr>
 
-  NOMAD
-     Answer unknown. I shall analyse.
+<tr id="L470"><td><a href="#L470">470</a></td><td>MCCOY:  I thought you might like to know that Lieutenant Uhura is back to college level. She'll be back on the job within a week.</td></tr>
 
-  ANNOTATION
-     Spock enters, with Scott, two engineers and the
-     requested anti-grav units
+<tr id="L471"><td><a href="#L471">471</a></td><td>KIRK:  Good, Bones, good.</td></tr>
 
-  NOMAD
-     Analysis complete. Insufficient data to resolve
-     problem, but my programming is whole. My purpose
-     remains. I am Nomad. I am perfect. That which is
-     imperfect must be sterilised.
+<tr id="L472"><td><a href="#L472">472</a></td><td>SPOCK:  Remarkable.</td></tr>
 
-  ANNOTATION
-     The engineers remove the unconscious men and take
-     their places at the controls.
+<tr id="L473"><td><a href="#L473">473</a></td><td>KIRK:  What?</td></tr>
 
-  KIRK
-     Then you will continue to destroy that which
-     thinks and lives and is imperfect?
+<tr id="L474"><td><a href="#L474">474</a></td><td>SPOCK:  The destruction of Nomad was a great waste, Captain. It was a remarkable instrument.</td></tr>
 
-  NOMAD
-     I shall continue. I shall return to launch point
-     Earth. I shall sterilise.
+<tr id="L475"><td><a href="#L475">475</a></td><td>KIRK:  Which might well have destroyed more billions of lives. It's well gone. Besides, what are you feeling so badly about? It's not easy to lose a bright and promising son.</td></tr>
 
-  KIRK
-     You must sterilise in case of error?
+<tr id="L476"><td><a href="#L476">476</a></td><td>SPOCK:  Sir?</td></tr>
 
-  NOMAD
-     Error is inconsistent with my prime functions.
-     Sterilisation is correction.
+<tr id="L477"><td><a href="#L477">477</a></td><td>KIRK:  Well, it thought I was its mother, didn't it? Do you think I'm completely without feelings, Mister Spock? You saw what it did for Scotty. What a doctor it would've made. My son, the doctor. Kind of gets you right there, doesn't it?</td></tr>
 
-  KIRK
-     Everything that is in error must be sterilised.
-
-  NOMAD
-     There are no exceptions.
-
-  KIRK
-     Nomad, I made an error in creating you.
-
-  NOMAD
-     The creation of perfection is no error.
-
-  KIRK
-     I did not create perfection. I created error.
-
-  NOMAD
-     Your data is faulty. I am Nomad. I am perfect.
-
-  KIRK
-     I am the Kirk, the creator?
-
-  NOMAD
-     You are the Creator.
-
-  KIRK
-     You are wrong! Jackson Roykirk, your creator, is
-     dead. You have mistaken me for him. You are in
-     error. You did not discover your mistake. You have
-     made two errors. You are flawed and imperfect and
-     you have not corrected by sterilisation. You have
-     made three errors.
-
-  NOMAD
-     Error. Error. Error. Examine.
-
-  KIRK
-     You are flawed and imperfect! Execute your prime
-     function!
-
-  NOMAD
-     I shall analyse error. Analyse error,
-
-  KIRK
-     Now. Get those antigravs on it.
-
-  NOMAD
-     Examine error. Error.
-
-  ANNOTATION
-     The anti-gravs are not stopped by any forcefields.
-
-  KIRK
-     We've got to get rid of it while it's trying to
-     think.
-
-  SPOCK
-     Your logic was impeccable, Captain. We are in
-     grave danger.
-
-  KIRK
-     Scotty, the transporter room.
-
-  NOMAD
-     Analyse error.
-
-  ANNOTATION
-     Kirk and Spock carry Nomad out, followed by Scott.
-
-
-LOCATION--Transporter room
-
-  NOMAD
-     Error.
-
-  KIRK
-     Scotty, set the controls for deep space. Two ten,
-     mark one.
-
-  SCOTT
-     Aye, sir.
-
-  NOMAD
-     Faulty!
-
-  SOMEONE
-     Ready, sir?
-
-  NOMAD
-     Faulty!
-
-  KIRK
-     Nomad, you are imperfect!
-
-  NOMAD
-     Error. Error.
-
-  KIRK
-     Exercise your prime function.
-
-  NOMAD
-     Faulty! Faulty! Must sterilise. Sterilise,
-
-  KIRK
-     Now!
-
-  SCOTT
-     Energising.
-
-  ANNOTATION
-     They observe the satisfying explosion on a
-     monitor.
-
-
-LOCATION--Bridge
-
-  SPOCK
-     My congratulations, Captain. A dazzling display of
-     logic.
-
-  KIRK
-     You didn't think I had it in me, did you Spock?
-
-  SPOCK
-     No, sir.
-
-  MCCOY
-     I thought you might like to know that Lieutenant
-     Uhura is back to college level. She'll be back on
-     the job within a week.
-
-  KIRK
-     Good, Bones, good.
-
-  SPOCK
-     Remarkable.
-
-  KIRK
-     What?
-
-  SPOCK
-     The destruction of Nomad was a great waste,
-     Captain. It was a remarkable instrument.
-
-  KIRK
-     Which might well have destroyed more billions of
-     lives. It's well gone. Besides, what are you
-     feeling so badly about? It's not easy to lose a
-     bright and promising son.
-
-  SPOCK
-     Sir?
-
-  KIRK
-     Well, it thought I was its mother, didn't it? Do
-     you think I'm completely without feelings, Mister
-     Spock? You saw what it did for Scotty. What a
-     doctor it would've made. My son, the doctor. Kind
-     of gets you right there, doesn't it?
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

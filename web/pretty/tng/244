@@ -1,1619 +1,820 @@
-Starship Mine
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Starship Mine</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>CREWWOMAN [OC]:  Attention personnel on decks fourteen and fifteen. Your transporter room assignment has been changed. Report to transporter room three.</td></tr>
 
-LOCATION--Corridor
+<tr id="L2"><td><a href="#L2">2</a></td><td>TROI:  Captain. We're still behind schedule on decks seven and eight. Shall I tell Arkaria Base there'll be a delay?</td></tr>
 
-  CREWWOMAN [OC]
-     Attention personnel on decks fourteen and fifteen.
-     Your transporter room assignment has been changed.
-     Report to transporter room three.
-
-  TROI
-     Captain. We're still behind schedule on decks
-     seven and eight. Shall I tell Arkaria Base
-     there'll be a delay?
+<tr id="L3"><td><a href="#L3">3</a></td><td>PICARD:  No. Open up the transporters in Cargo bay two and divert everyone from deck seven to there. That should put it back on track.</td></tr>
 
-  PICARD
-     No. Open up the transporters in Cargo bay two and
-     divert everyone from deck seven to there. That
-     should put it back on track.
+<tr id="L4"><td><a href="#L4">4</a></td><td>TROI:  Right.</td></tr>
 
-  TROI
-     Right.
+<tr id="L5"><td><a href="#L5">5</a></td><td>CREWMAN [OC]:  All beta shift Engineering personnel are requested to report to main Engineering prior to disembarking.</td></tr>
 
-  CREWMAN [OC]
-     All beta shift Engineering personnel are requested
-     to report to main Engineering prior to
-     disembarking.
+<tr id="L6"><td><a href="#L6">6</a></td><td>CRUSHER:  Captain. Arkaria Base does not have the medical storage units I have requested. I have seven living tissue samples that won't survive the baryon sweep anymore than you or I would. I've tried to reason with them, but</td></tr>
 
-  CRUSHER
-     Captain. Arkaria Base does not have the medical
-     storage units I have requested. I have seven
-     living tissue samples that won't survive the
-     baryon sweep anymore than you or I would. I've
-     tried to reason with them, but
+<tr id="L7"><td><a href="#L7">7</a></td><td>PICARD:  All right, all right. Have Commander LaForge transport a stasis unit from the astrophysics lab. You should be able to convert it to store tissue samples.</td></tr>
 
-  PICARD
-     All right, all right. Have Commander LaForge
-     transport a stasis unit from the astrophysics lab.
-     You should be able to convert it to store tissue
-     samples.
+<tr id="L8"><td><a href="#L8">8</a></td><td>CRUSHER:  Thank you, Captain.</td></tr>
 
-  CRUSHER
-     Thank you, Captain.
+<tr id="L9"><td><a href="#L9">9</a></td><td>CREWWOMAN [OC]:  All science personnel. Please check in with your section chief for station-side duty assignments.</td></tr>
 
-  CREWWOMAN [OC]
-     All science personnel. Please check in with your
-     section chief for station-side duty assignments.
+<tr id="L10"><td><a href="#L10">10</a></td><td>RIKER:  Captain. (comes out of turbolift) I was just heading for deck seven. I've put the auto-shutdown sequence on hold until we get back on schedule.</td></tr>
 
-  RIKER
-     Captain. (comes out of turbolift) I was just
-     heading for deck seven. I've put the auto-shutdown
-     sequence on hold until we get back on schedule.
+<tr id="L11"><td><a href="#L11">11</a></td><td>PICARD:  Oh, I think we can resume the sequence. Counsellor Troi is taking care of the situation on deck seven.</td></tr>
 
-  PICARD
-     Oh, I think we can resume the sequence. Counsellor
-     Troi is taking care of the situation on deck
-     seven.
+<tr id="L12"><td><a href="#L12">12</a></td><td>RIKER:  Aye, sir.</td></tr>
 
-  RIKER
-     Aye, sir.
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L13"><td><a href="#L13">13</a></td><td>DATA:  Captain.</td></tr>
 
+<tr id="L14"><td><a href="#L14">14</a></td><td>PICARD:  Bridge.</td></tr>
 
-LOCATION--Turbolift
+<tr id="L15"><td><a href="#L15">15</a></td><td>DATA:  It has been quite a day, has it not?</td></tr>
 
-  DATA
-     Captain.
+<tr id="L16"><td><a href="#L16">16</a></td><td>PICARD:  Yes, it has.</td></tr>
 
-  PICARD
-     Bridge.
+<tr id="L17"><td><a href="#L17">17</a></td><td>DATA:  However, a change of routine is often invigorating and can be a welcome diversion after a long assignment.</td></tr>
 
-  DATA
-     It has been quite a day, has it not?
+<tr id="L18"><td><a href="#L18">18</a></td><td>PICARD:  Exactly.</td></tr>
 
-  PICARD
-     Yes, it has.
+<tr id="L19"><td><a href="#L19">19</a></td><td>DATA:  I understand that Arkaria has some very interesting weather patterns.</td></tr>
 
-  DATA
-     However, a change of routine is often invigorating
-     and can be a welcome diversion after a long
-     assignment.
+<tr id="L20"><td><a href="#L20">20</a></td><td>PICARD:  Mister Data, are you all right?</td></tr>
 
-  PICARD
-     Exactly.
+<tr id="L21"><td><a href="#L21">21</a></td><td>DATA:  Yes, sir. I am attempting to fill a silent moment with non-relevant conversation.</td></tr>
 
-  DATA
-     I understand that Arkaria has some very
-     interesting weather patterns.
+<tr id="L22"><td><a href="#L22">22</a></td><td>PICARD:  Small talk.</td></tr>
 
-  PICARD
-     Mister Data, are you all right?
+<tr id="L23"><td><a href="#L23">23</a></td><td>DATA:  Yes, sir. I have found that humans often use small talk during awkward moments. Therefore, I have written a new subroutine for that purpose. How did I do?</td></tr>
 
-  DATA
-     Yes, sir. I am attempting to fill a silent moment
-     with non-relevant conversation.
+<tr id="L24"><td><a href="#L24">24</a></td><td>PICARD:  Perhaps it was a little too non-relevant. But if you really are interested in small talk, then you should keep your eye on Commander Hutchinson at the reception this afternoon. He's a master.</td></tr>
 
-  PICARD
-     Small talk.
+<tr id="L25"><td><a href="#L25">25</a></td><td>DATA:  Thank you, sir. I will.</td></tr>
 
-  DATA
-     Yes, sir. I have found that humans often use small
-     talk during awkward moments. Therefore, I have
-     written a new subroutine for that purpose. How did
-     I do?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L26"><td><a href="#L26">26</a></td><td>LAFORGE:  Captain.</td></tr>
 
-  PICARD
-     Perhaps it was a little too non-relevant. But if
-     you really are interested in small talk, then you
-     should keep your eye on Commander Hutchinson at
-     the reception this afternoon. He's a master.
+<tr id="L27"><td><a href="#L27">27</a></td><td>WORF:  Captain.</td></tr>
 
-  DATA
-     Thank you, sir. I will.
+<tr id="L28"><td><a href="#L28">28</a></td><td>ANNOTATION: they speak over each other</td></tr>
 
+<tr id="L29"><td><a href="#L29">29</a></td><td>WORF:  After you, sir.</td></tr>
 
-LOCATION--Bridge
+<tr id="L30"><td><a href="#L30">30</a></td><td>LAFORGE:  No, after you.</td></tr>
 
-  LAFORGE
-     Captain.
+<tr id="L31"><td><a href="#L31">31</a></td><td>WORF:  No sir. I believe you spoke first.</td></tr>
 
-  WORF
-     Captain.
+<tr id="L32"><td><a href="#L32">32</a></td><td>PICARD:  Gentlemen, gentlemen, we're running out of time. Mister Worf?</td></tr>
 
-  ANNOTATION
-     they speak over each other
+<tr id="L33"><td><a href="#L33">33</a></td><td>WORF:  The computer needs your authorisation to disable command functions during the baryon sweep.</td></tr>
 
-  WORF
-     After you, sir.
+<tr id="L34"><td><a href="#L34">34</a></td><td>PICARD:  Are we ready, Commander La Forge?</td></tr>
 
-  LAFORGE
-     No, after you.
+<tr id="L35"><td><a href="#L35">35</a></td><td>LAFORGE:  Almost. I've requested two additional field diverters. One for the computer core and one for the Bridge. They haven't been installed yet.</td></tr>
 
-  WORF
-     No sir. I believe you spoke first.
+<tr id="L36"><td><a href="#L36">36</a></td><td>PICARD:  Additional units?</td></tr>
 
-  PICARD
-     Gentlemen, gentlemen, we're running out of time.
-     Mister Worf?
+<tr id="L37"><td><a href="#L37">37</a></td><td>LAFORGE:  Yes, sir. We've logged in five years more warp hours than most ships do in ten, so our baryon particle levels are high. I'm a little concerned that when the Remmler Array starts to sweep the ship it'll have to use a stronger beam than normal in order to get rid of all the radiation.</td></tr>
 
-  WORF
-     The computer needs your authorisation to disable
-     command functions during the baryon sweep.
+<tr id="L38"><td><a href="#L38">38</a></td><td>PICARD:  And that might overload the field diverters protecting our key systems. How long until the new ones are in place?</td></tr>
 
-  PICARD
-     Are we ready, Commander La Forge?
+<tr id="L39"><td><a href="#L39">39</a></td><td>LAFORGE:  I'd say about twenty minutes.</td></tr>
 
-  LAFORGE
-     Almost. I've requested two additional field
-     diverters. One for the computer core and one for
-     the Bridge. They haven't been installed yet.
+<tr id="L40"><td><a href="#L40">40</a></td><td>PICARD:  Very well. Computer, disable all command functions in thirty minutes. Authorisation, Picard gamma six zero seven three.</td></tr>
 
-  PICARD
-     Additional units?
+<tr id="L41"><td><a href="#L41">41</a></td><td>COMPUTER:  Authorisation acknowledged.</td></tr>
 
-  LAFORGE
-     Yes, sir. We've logged in five years more warp
-     hours than most ships do in ten, so our baryon
-     particle levels are high. I'm a little concerned
-     that when the Remmler Array starts to sweep the
-     ship it'll have to use a stronger beam than normal
-     in order to get rid of all the radiation.
+<tr id="L42"><td><a href="#L42">42</a></td><td>WORF:  Captain, incoming message. It's the station administrator, Mister Orton.</td></tr>
 
-  PICARD
-     And that might overload the field diverters
-     protecting our key systems. How long until the new
-     ones are in place?
+<tr id="L43"><td><a href="#L43">43</a></td><td>PICARD:  In my Ready room, Mister Worf.</td></tr>
 
-  LAFORGE
-     I'd say about twenty minutes.
+<tr id="L44"><td><a href="#L44">44</a></td><td>WORF:  Captain. Request permission to be excused from Commander Hutchinson's reception.</td></tr>
 
-  PICARD
-     Very well. Computer, disable all command functions
-     in thirty minutes. Authorisation, Picard gamma six
-     zero seven three.
+<tr id="L45"><td><a href="#L45">45</a></td><td>PICARD:  Permission granted. I wish I could excuse myself as well.</td></tr>
 
-  COMPUTER
-     Authorisation acknowledged.
+<tr id="L46"><td><a href="#L46">46</a></td><td>LAFORGE:  Captain, permission to be</td></tr>
 
-  WORF
-     Captain, incoming message. It's the station
-     administrator, Mister Orton.
+<tr id="L47"><td><a href="#L47">47</a></td><td>PICARD:  Mister La Forge, I cannot excuse my entire senior staff. Mister Worf beat you to it.</td></tr>
 
-  PICARD
-     In my Ready room, Mister Worf.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L48"><td><a href="#L48">48</a></td><td>PICARD:  Go ahead, Mister Orton.</td></tr>
 
-  WORF
-     Captain. Request permission to be excused from
-     Commander Hutchinson's reception.
+<tr id="L49"><td><a href="#L49">49</a></td><td>ORTON [on monitor]:  (not a human) Captain, if you're on schedule, I'd like to confirm that we'll begin the baryon sweep at fifteen hundred hours, approximately one hour from now.</td></tr>
 
-  PICARD
-     Permission granted. I wish I could excuse myself
-     as well.
+<tr id="L50"><td><a href="#L50">50</a></td><td>PICARD:  Confirmed.</td></tr>
 
-  LAFORGE
-     Captain, permission to be
+<tr id="L51"><td><a href="#L51">51</a></td><td>ORTON [on monitor]:  Commander Hutchinson also wanted me to make sure that you'll be able to attend his reception this afternoon.</td></tr>
 
-  PICARD
-     Mister La Forge, I cannot excuse my entire senior
-     staff. Mister Worf beat you to it.
+<tr id="L52"><td><a href="#L52">52</a></td><td>PICARD:  Tell him I'm looking forward to it.</td></tr>
 
+<tr id="L53"><td><a href="#L53">53</a></td><td>ORTON [on monitor]:  He'll be delighted to hear that. Arkaria Base out.</td></tr>
 
-LOCATION--Ready room
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L54"><td><a href="#L54">54</a></td><td>ANNOTATION: Picard picks up a sort of attach case and walks onto the now deserted Bridge. He takes a long lingering look around then gets into the turbolift as workers enter from the other side</td></tr>
 
-  PICARD
-     Go ahead, Mister Orton.
+<tr id="L55"><td><a href="#L55">55</a></td><td>KELSEY:  (human woman) Tell Arkaria base that we're almost finished here.</td></tr>
 
-  ORTON [on monitor]
-     (not a human) Captain, if you're on schedule, I'd
-     like to confirm that we'll begin the baryon sweep
-     at fifteen hundred hours, approximately one hour
-     from now.
+<tr id="L56"><td><a href="#L56">56</a></td><td>NEIL:  (human man) We're going to need two more conduits.</td></tr>
 
-  PICARD
-     Confirmed.
+<tr id="L57"><td><a href="#L57">57</a></td><td>KIROS:  (alien woman) I need to run a diagnostic on the diverter.</td></tr>
 
-  ORTON [on monitor]
-     Commander Hutchinson also wanted me to make sure
-     that you'll be able to attend his reception this
-     afternoon.
+<tr id="L58"><td><a href="#L58">58</a></td><td>DEVOR:  (dark human man) Get the diverter aligned so that we can begin the isolation procedure.</td></tr>
 
-  PICARD
-     Tell him I'm looking forward to it.
+<tr id="L59"><td><a href="#L59">59</a></td><td>NEIL:  Where's the ODN interface?</td></tr>
 
-  ORTON [on monitor]
-     He'll be delighted to hear that. Arkaria Base out.
+<tr><td></td><td>LOCATION--Arkaria base</td></tr>
+<tr id="L60"><td><a href="#L60">60</a></td><td>ANNOTATION: the reception includes a buffet table and waiters serving drinks. Data is prowling, observing a shorter, balding man in action</td></tr>
 
+<tr id="L61"><td><a href="#L61">61</a></td><td>HUTCH:  Beverly. Lovely as ever. How do you manage it?</td></tr>
 
-LOCATION--Bridge
+<tr id="L62"><td><a href="#L62">62</a></td><td>CRUSHER:  It's good to see you again.</td></tr>
 
-  ANNOTATION
-     Picard picks up a sort of attach case and walks
-     onto the now deserted Bridge. He takes a long
-     lingering look around then gets into the turbolift
-     as workers enter from the other side
+<tr id="L63"><td><a href="#L63">63</a></td><td>HUTCH:  It's been far too long. What is it, four years? Now I want to hear everything that happened after you left Starfleet Medical. And I have so much to tell you. Oh, that must be Commander Riker. Excuse me.</td></tr>
 
-  KELSEY
-     (human woman) Tell Arkaria base that we're almost
-     finished here.
+<tr id="L64"><td><a href="#L64">64</a></td><td>CRUSHER:  Of course.</td></tr>
 
-  NEIL
-     (human man) We're going to need two more conduits.
+<tr id="L65"><td><a href="#L65">65</a></td><td>ANNOTATION: the person talking to Riker escapes</td></tr>
 
-  KIROS
-     (alien woman) I need to run a diagnostic on the
-     diverter.
+<tr id="L66"><td><a href="#L66">66</a></td><td>MAN:  Pardon me.</td></tr>
 
-  DEVOR
-     (dark human man) Get the diverter aligned so that
-     we can begin the isolation procedure.
+<tr id="L67"><td><a href="#L67">67</a></td><td>HUTCH:  You must be Will Riker.</td></tr>
 
-  NEIL
-     Where's the ODN interface?
+<tr id="L68"><td><a href="#L68">68</a></td><td>RIKER:  I must be.</td></tr>
 
+<tr id="L69"><td><a href="#L69">69</a></td><td>HUTCH:  Calvin Hutchinson. Call me Hutch. Calvin, awful name, I've never forgiven my parents. As soon as I saw you, I knew you had to be the Enterprise's First Officer.</td></tr>
 
-LOCATION--Arkaria base
+<tr id="L70"><td><a href="#L70">70</a></td><td>RIKER:  Oh?</td></tr>
 
-  ANNOTATION
-     the reception includes a buffet table and waiters
-     serving drinks. Data is prowling, observing a
-     shorter, balding man in action
+<tr id="L71"><td><a href="#L71">71</a></td><td>HUTCH:  Of course. Your reputation proceeds you. Flashing blue eyes, square jaw. Quite the ladies man I hear. Now don't be modest, Will. May I call you Will?</td></tr>
 
-  HUTCH
-     Beverly. Lovely as ever. How do you manage it?
+<tr id="L72"><td><a href="#L72">72</a></td><td>ANNOTATION: Data is imitating Hutch by now</td></tr>
 
-  CRUSHER
-     It's good to see you again.
+<tr id="L73"><td><a href="#L73">73</a></td><td>RIKER:  Sure.</td></tr>
 
-  HUTCH
-     It's been far too long. What is it, four years?
-     Now I want to hear everything that happened after
-     you left Starfleet Medical. And I have so much to
-     tell you. Oh, that must be Commander Riker. Excuse
-     me.
+<tr id="L74"><td><a href="#L74">74</a></td><td>HUTCH:  I also hear that you're a musician. I certainly hope you'll play something for us. It's not often we get to entertain the command crew of the flagship. Oh, and speaking of command. Hello, Captain Picard.</td></tr>
 
-  CRUSHER
-     Of course.
+<tr id="L75"><td><a href="#L75">75</a></td><td>PICARD:  Commander.</td></tr>
 
-  ANNOTATION
-     the person talking to Riker escapes
+<tr id="L76"><td><a href="#L76">76</a></td><td>HUTCH:  I was just telling your First Officer what a real pleasure it is to have all of you here. So, how are you anyway?</td></tr>
 
-  MAN
-     Pardon me.
+<tr id="L77"><td><a href="#L77">77</a></td><td>PICARD:  Very well, thank you.</td></tr>
 
-  HUTCH
-     You must be Will Riker.
+<tr id="L78"><td><a href="#L78">78</a></td><td>ANNOTATION: our focus moves from Hutch to Data</td></tr>
 
-  RIKER
-     I must be.
+<tr id="L79"><td><a href="#L79">79</a></td><td>DATA:  It is very good to see you both again. Beverly. May I call you Beverly? Beverly, have you noticed that the mean temperature here on Arkaria is slightly higher normal for human comfort levels? I have found that humans prefer a body temperature of twenty one degrees Celsius in order to operate most efficiently. However, there are several cultures who actually prefer that their body temperature is identical to the temperature of the room in which they are standing. The Sheliak, for example.</td></tr>
 
-  HUTCH
-     Calvin Hutchinson. Call me Hutch. Calvin, awful
-     name, I've never forgiven my parents. As soon as I
-     saw you, I knew you had to be the Enterprise's
-     First Officer.
+<tr id="L80"><td><a href="#L80">80</a></td><td>HUTCH:  I'm telling you, you have never seen anything like this. There were thousands of these creatures. The whole northern sky turned dark. I</td></tr>
 
-  RIKER
-     Oh?
+<tr id="L81"><td><a href="#L81">81</a></td><td>PICARD:  Oh, er, Geordi, Deanna. I don't think you've met our host. This is Lieutenant Commander Geordi La Forge, Counsellor Deanna Troi. This is Commander Hutchinson.</td></tr>
 
-  HUTCH
-     Of course. Your reputation proceeds you. Flashing
-     blue eyes, square jaw. Quite the ladies man I
-     hear. Now don't be modest, Will. May I call you
-     Will?
+<tr id="L82"><td><a href="#L82">82</a></td><td>HUTCH:  Oh, please, call me Hutch.</td></tr>
 
-  ANNOTATION
-     Data is imitating Hutch by now
+<tr id="L83"><td><a href="#L83">83</a></td><td>TROI:  Hello.</td></tr>
 
-  RIKER
-     Sure.
+<tr id="L84"><td><a href="#L84">84</a></td><td>HUTCH:  I was just telling your captain about some of the fascinating sights here on Arkaria. Either of you interested in ornithology?</td></tr>
 
-  HUTCH
-     I also hear that you're a musician. I certainly
-     hope you'll play something for us. It's not often
-     we get to entertain the command crew of the
-     flagship. Oh, and speaking of command. Hello,
-     Captain Picard.
+<tr id="L85"><td><a href="#L85">85</a></td><td>TROI:  Er, well.</td></tr>
 
-  PICARD
-     Commander.
+<tr id="L86"><td><a href="#L86">86</a></td><td>HUTCH:  The mating habits of the Arkarian horn fowl are quite interesting. If the weather were better, we could take horses to the southern promontory and visit the nesting grounds.</td></tr>
 
-  HUTCH
-     I was just telling your First Officer what a real
-     pleasure it is to have all of you here. So, how
-     are you anyway?
+<tr id="L87"><td><a href="#L87">87</a></td><td>PICARD:  Horses?</td></tr>
 
-  PICARD
-     Very well, thank you.
+<tr id="L88"><td><a href="#L88">88</a></td><td>HUTCH:  Yes. We have a network of trails through the plains. Unfortunately, it's not very pleasant right now. Cold, muddy. Not a soul for kilometres.</td></tr>
 
-  ANNOTATION
-     our focus moves from Hutch to Data
+<tr id="L89"><td><a href="#L89">89</a></td><td>PICARD:  Sounds perfect. Mister La Forge, how long before the baryon sweep begins on the Enterprise?</td></tr>
 
-  DATA
-     It is very good to see you both again. Beverly.
-     May I call you Beverly? Beverly, have you noticed
-     that the mean temperature here on Arkaria is
-     slightly higher normal for human comfort levels? I
-     have found that humans prefer a body temperature
-     of twenty one degrees Celsius in order to operate
-     most efficiently. However, there are several
-     cultures who actually prefer that their body
-     temperature is identical to the temperature of the
-     room in which they are standing. The Sheliak, for
-     example.
+<tr id="L90"><td><a href="#L90">90</a></td><td>LAFORGE:  About twenty five minutes, sir.</td></tr>
 
-  HUTCH
-     I'm telling you, you have never seen anything like
-     this. There were thousands of these creatures. The
-     whole northern sky turned dark. I
+<tr id="L91"><td><a href="#L91">91</a></td><td>PICARD:  Then I have enough time to back to the ship and get my saddle.</td></tr>
 
-  PICARD
-     Oh, er, Geordi, Deanna. I don't think you've met
-     our host. This is Lieutenant Commander Geordi La
-     Forge, Counsellor Deanna Troi. This is Commander
-     Hutchinson.
+<tr id="L92"><td><a href="#L92">92</a></td><td>TROI:  Your saddle?</td></tr>
 
-  HUTCH
-     Oh, please, call me Hutch.
+<tr id="L93"><td><a href="#L93">93</a></td><td>PICARD:  Yes. A saddle is a very personal thing. It has to be broken in, used, cared for.</td></tr>
 
-  TROI
-     Hello.
+<tr id="L94"><td><a href="#L94">94</a></td><td>LAFORGE:  You keep a saddle on board the Enterprise?</td></tr>
 
-  HUTCH
-     I was just telling your captain about some of the
-     fascinating sights here on Arkaria. Either of you
-     interested in ornithology?
+<tr id="L95"><td><a href="#L95">95</a></td><td>PICARD:  Oh yes, yes. I never know when I'll have the opportunity to ride.</td></tr>
 
-  TROI
-     Er, well.
+<tr id="L96"><td><a href="#L96">96</a></td><td>TROI:  I see.</td></tr>
 
-  HUTCH
-     The mating habits of the Arkarian horn fowl are
-     quite interesting. If the weather were better, we
-     could take horses to the southern promontory and
-     visit the nesting grounds.
+<tr id="L97"><td><a href="#L97">97</a></td><td>PICARD:  It's perfectly normal. Most serious riders do have their own saddles.</td></tr>
 
-  PICARD
-     Horses?
+<tr id="L98"><td><a href="#L98">98</a></td><td>TROI:  Of course.</td></tr>
 
-  HUTCH
-     Yes. We have a network of trails through the
-     plains. Unfortunately, it's not very pleasant
-     right now. Cold, muddy. Not a soul for kilometres.
+<tr id="L99"><td><a href="#L99">99</a></td><td>HUTCH:  Absolutely.</td></tr>
 
-  PICARD
-     Sounds perfect. Mister La Forge, how long before
-     the baryon sweep begins on the Enterprise?
+<tr id="L100"><td><a href="#L100">100</a></td><td>PICARD:  Well, if you'll excuse me.</td></tr>
 
-  LAFORGE
-     About twenty five minutes, sir.
+<tr id="L101"><td><a href="#L101">101</a></td><td>ANNOTATION: Picard leaves, quickly</td></tr>
 
-  PICARD
-     Then I have enough time to back to the ship and
-     get my saddle.
+<tr id="L102"><td><a href="#L102">102</a></td><td>HUTCH:  Amazing man. You know, he reminds me of another officer I knew years ago. A Captain Edwell. Now he was fascinating. Born on Gaspar Seven, but you wouldn't know it from the way he looked.</td></tr>
 
-  TROI
-     Your saddle?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L103"><td><a href="#L103">103</a></td><td>ANNOTATION: Picard is in riding gear and carrying his saddle</td></tr>
 
-  PICARD
-     Yes. A saddle is a very personal thing. It has to
-     be broken in, used, cared for.
+<tr id="L104"><td><a href="#L104">104</a></td><td>COMPUTER:  Auto-shutdown sequence in progress. Defensive systems offline. Baryon sweep begins in eight minutes.</td></tr>
 
-  LAFORGE
-     You keep a saddle on board the Enterprise?
+<tr id="L105"><td><a href="#L105">105</a></td><td>ANNOTATION: Picard spots an open panel with the fibre-optic cable cut and dangling</td></tr>
 
-  PICARD
-     Oh yes, yes. I never know when I'll have the
-     opportunity to ride.
+<tr id="L106"><td><a href="#L106">106</a></td><td>DEVOR:  What are you doing?</td></tr>
 
-  TROI
-     I see.
+<tr id="L107"><td><a href="#L107">107</a></td><td>ANNOTATION: everyone, say hi! to Tim Russ, not yet a Vulcan</td></tr>
 
-  PICARD
-     It's perfectly normal. Most serious riders do have
-     their own saddles.
+<tr id="L108"><td><a href="#L108">108</a></td><td>PICARD:  Someone left this ODN junction box open. I thought your crew was supposed to be off the ship once the field diverters were in place.</td></tr>
 
-  TROI
-     Of course.
+<tr id="L109"><td><a href="#L109">109</a></td><td>DEVOR:  The diverters have to be synchronised. I was laser bonding a backup link.</td></tr>
 
-  HUTCH
-     Absolutely.
+<tr id="L110"><td><a href="#L110">110</a></td><td>PICARD:  I see. Well, I'd better let you finish up so you can get off the ship.</td></tr>
 
-  PICARD
-     Well, if you'll excuse me.
+<tr id="L111"><td><a href="#L111">111</a></td><td>DEVOR:  Excuse me a minute.</td></tr>
 
-  ANNOTATION
-     Picard leaves, quickly
+<tr id="L112"><td><a href="#L112">112</a></td><td>ANNOTATION: Devor makes to attack Picard with the laser, so he throws the saddle at him. They wrestle then Picard neck-pinches him unconscious</td></tr>
 
-  HUTCH
-     Amazing man. You know, he reminds me of another
-     officer I knew years ago. A Captain Edwell. Now he
-     was fascinating. Born on Gaspar Seven, but you
-     wouldn't know it from the way he looked.
+<tr id="L113"><td><a href="#L113">113</a></td><td>COMPUTER:  Auto-shutdown sequence in progress. Primary power offline in one minute.</td></tr>
 
+<tr id="L114"><td><a href="#L114">114</a></td><td>ANNOTATION: Picard runs</td></tr>
 
-LOCATION--Corridor
+<tr id="L115"><td><a href="#L115">115</a></td><td>ANNOTATION: in another corridor there are voices off. Picard hides</td></tr>
 
-  ANNOTATION
-     Picard is in riding gear and carrying his saddle
+<tr id="L116"><td><a href="#L116">116</a></td><td>KELSEY:  Get Pomet started on it right away.</td></tr>
 
-  COMPUTER
-     Auto-shutdown sequence in progress. Defensive
-     systems offline. Baryon sweep begins in eight
-     minutes.
+<tr id="L117"><td><a href="#L117">117</a></td><td>COMPUTER:  Primary power offline in thirty seconds.</td></tr>
 
-  ANNOTATION
-     Picard spots an open panel with the fibre-optic
-     cable cut and dangling
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L118"><td><a href="#L118">118</a></td><td>COMPUTER:  Final warning. Primary power offline in ten seconds.</td></tr>
 
-  DEVOR
-     What are you doing?
+<tr id="L119"><td><a href="#L119">119</a></td><td>ANNOTATION: Picard sets the transporter controls, the baryon sweep powers up, and everything powers down just as he gets onto the transporter pad</td></tr>
 
-  ANNOTATION
-     everyone, say hi! to Tim Russ, not yet a Vulcan
+<tr><td></td><td>LOCATION--Arkaria base</td></tr>
+<tr id="L120"><td><a href="#L120">120</a></td><td>DATA:  Hmm. Yes. I find it fascinating that your family chose to drop the prefix Pel from your surname. It was my understanding that Pel Orton is a more noble appellation on Arkaria than simply Orton.</td></tr>
 
-  PICARD
-     Someone left this ODN junction box open. I thought
-     your crew was supposed to be off the ship once the
-     field diverters were in place.
+<tr id="L121"><td><a href="#L121">121</a></td><td>ORTON:  Yes.</td></tr>
 
-  DEVOR
-     The diverters have to be synchronised. I was laser
-     bonding a backup link.
+<tr id="L122"><td><a href="#L122">122</a></td><td>DATA:  Perhaps the recent Arkarian trend toward a more egalitarian society is partly responsible, eh?</td></tr>
 
-  PICARD
-     I see. Well, I'd better let you finish up so you
-     can get off the ship.
+<tr id="L123"><td><a href="#L123">123</a></td><td>ORTON:  Perhaps.</td></tr>
 
-  DEVOR
-     Excuse me a minute.
+<tr id="L124"><td><a href="#L124">124</a></td><td>HUTCH:  The crew of the Magellan actually put on a talent show here. Captain Conklin did a poetry reading, if you can imagine that.</td></tr>
 
-  ANNOTATION
-     Devor makes to attack Picard with the laser, so he
-     throws the saddle at him. They wrestle then Picard
-     neck-pinches him unconscious
+<tr id="L125"><td><a href="#L125">125</a></td><td>RIKER:  I'm trying to.</td></tr>
 
-  COMPUTER
-     Auto-shutdown sequence in progress. Primary power
-     offline in one minute.
+<tr id="L126"><td><a href="#L126">126</a></td><td>HUTCH:  Did I ever tell you how I came to be stationed here? It's a fascinating story. I was serving on Admiral Mitchell's staff on Starbase ninety seven. Awful place, by the way.</td></tr>
 
-  ANNOTATION
-     Picard runs
+<tr id="L127"><td><a href="#L127">127</a></td><td>RIKER:  Have you met our Commander Data?</td></tr>
 
-  ANNOTATION
-     in another corridor there are voices off. Picard
-     hides
+<tr id="L128"><td><a href="#L128">128</a></td><td>DATA:  As a matter of fact, I find it oddly amusing.</td></tr>
 
-  KELSEY
-     Get Pomet started on it right away.
+<tr id="L129"><td><a href="#L129">129</a></td><td>HUTCH:  No, I don't think so.</td></tr>
 
-  COMPUTER
-     Primary power offline in thirty seconds.
+<tr id="L130"><td><a href="#L130">130</a></td><td>RIKER:  I'll introduce you.</td></tr>
 
+<tr id="L131"><td><a href="#L131">131</a></td><td>DATA:  There are several cultures in this sector with extremely similar etymological histories. For example</td></tr>
 
-LOCATION--Transporter room
+<tr id="L132"><td><a href="#L132">132</a></td><td>RIKER:  Mister Data, I don't know if you've had a chance to meet our host, Commander Hutchinson. Call him Hutch. Lieutenant Commander Data, our second officer.</td></tr>
 
-  COMPUTER
-     Final warning. Primary power offline in ten
-     seconds.
+<tr id="L133"><td><a href="#L133">133</a></td><td>HUTCH:  A pleasure.</td></tr>
 
-  ANNOTATION
-     Picard sets the transporter controls, the baryon
-     sweep powers up, and everything powers down just
-     as he gets onto the transporter pad
+<tr id="L134"><td><a href="#L134">134</a></td><td>DATA:  The pleasure is mine, Hutch. I have been meaning to compliment you on your choice of colours here.</td></tr>
 
+<tr id="L135"><td><a href="#L135">135</a></td><td>HUTCH:  Oh, you really think so? It wasn't easy making a final decision, let me tell you.</td></tr>
 
-LOCATION--Arkaria base
+<tr id="L136"><td><a href="#L136">136</a></td><td>DATA:  I can well imagine. The light in this room would make colour selection exceptionally problematic.</td></tr>
 
-  DATA
-     Hmm. Yes. I find it fascinating that your family
-     chose to drop the prefix Pel from your surname. It
-     was my understanding that Pel Orton is a more
-     noble appellation on Arkaria than simply Orton.
+<tr id="L137"><td><a href="#L137">137</a></td><td>HUTCH:  Precisely.</td></tr>
 
-  ORTON
-     Yes.
+<tr id="L138"><td><a href="#L138">138</a></td><td>ORTON:  Thank you.</td></tr>
 
-  DATA
-     Perhaps the recent Arkarian trend toward a more
-     egalitarian society is partly responsible, eh?
+<tr id="L139"><td><a href="#L139">139</a></td><td>RIKER:  You're welcome. I'm not sure which one to feel sorry for.</td></tr>
 
-  ORTON
-     Perhaps.
+<tr id="L140"><td><a href="#L140">140</a></td><td>WAITER:  Mister Orton?</td></tr>
 
-  HUTCH
-     The crew of the Magellan actually put on a talent
-     show here. Captain Conklin did a poetry reading,
-     if you can imagine that.
+<tr id="L141"><td><a href="#L141">141</a></td><td>ORTON:  You'll excuse me, Commander.</td></tr>
 
-  RIKER
-     I'm trying to.
+<tr id="L142"><td><a href="#L142">142</a></td><td>RIKER:  Geordi, what happened to the Captain?</td></tr>
 
-  HUTCH
-     Did I ever tell you how I came to be stationed
-     here? It's a fascinating story. I was serving on
-     Admiral Mitchell's staff on Starbase ninety seven.
-     Awful place, by the way.
+<tr id="L143"><td><a href="#L143">143</a></td><td>LAFORGE:  Oh, he went back to the ship to get his saddle.</td></tr>
 
-  RIKER
-     Have you met our Commander Data?
+<tr id="L144"><td><a href="#L144">144</a></td><td>RIKER:  His saddle?</td></tr>
 
-  DATA
-     As a matter of fact, I find it oddly amusing.
+<tr id="L145"><td><a href="#L145">145</a></td><td>LAFORGE:  Any serious rider would have his own saddle.</td></tr>
 
-  HUTCH
-     No, I don't think so.
+<tr id="L146"><td><a href="#L146">146</a></td><td>RIKER:  Oh.</td></tr>
 
-  RIKER
-     I'll introduce you.
+<tr id="L147"><td><a href="#L147">147</a></td><td>LAFORGE:  Probably he went right to the stables. I bet he's ten kilometres from here already.</td></tr>
 
-  DATA
-     There are several cultures in this sector with
-     extremely similar etymological histories. For
-     example
+<tr id="L148"><td><a href="#L148">148</a></td><td>RIKER:  Lucky him. Thank you.</td></tr>
 
-  RIKER
-     Mister Data, I don't know if you've had a chance
-     to meet our host, Commander Hutchinson. Call him
-     Hutch. Lieutenant Commander Data, our second
-     officer.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L149"><td><a href="#L149">149</a></td><td>ANNOTATION: Picard drags the unconscious Devor into the room and starts rifling through drawers.</td></tr>
 
-  HUTCH
-     A pleasure.
+<tr id="L150"><td><a href="#L150">150</a></td><td>KELSEY [OC]:  Kelsey to Devor. Devor, this is Kelsey. Reply. Devor, do you read me? Kelsey to Kiros.</td></tr>
 
-  DATA
-     The pleasure is mine, Hutch. I have been meaning
-     to compliment you on your choice of colours here.
+<tr id="L151"><td><a href="#L151">151</a></td><td>KIROS [OC]:  This is Kiros.</td></tr>
 
-  HUTCH
-     Oh, you really think so? It wasn't easy making a
-     final decision, let me tell you.
+<tr id="L152"><td><a href="#L152">152</a></td><td>KELSEY [OC]:  Devor isn't responding. There must be too much interference from the baryon sweep. Go find him and see if he finished by passing the regulator on deck seven, then meet us in main Engineering.</td></tr>
 
-  DATA
-     I can well imagine. The light in this room would
-     make colour selection exceptionally problematic.
+<tr id="L153"><td><a href="#L153">153</a></td><td>KIROS [OC]:  Understood.</td></tr>
 
-  HUTCH
-     Precisely.
+<tr id="L154"><td><a href="#L154">154</a></td><td>ANNOTATION: Picard wakes Devor</td></tr>
 
-  ORTON
-     Thank you.
+<tr id="L155"><td><a href="#L155">155</a></td><td>PICARD:  Hey. Hey. Who are you? What are you doing on my ship?</td></tr>
 
-  RIKER
-     You're welcome. I'm not sure which one to feel
-     sorry for.
+<tr id="L156"><td><a href="#L156">156</a></td><td>DEVOR:  The baryon sweep uses a high-frequency plasma field. Your phaser won't work.</td></tr>
 
-  WAITER
-     Mister Orton?
+<tr id="L157"><td><a href="#L157">157</a></td><td>PICARD:  You're probably right. But I'd like to bet this will. A laser welder can be deadly. What's going on in main Engineering? I suggest that you cooperate.</td></tr>
 
-  ORTON
-     You'll excuse me, Commander.
+<tr id="L158"><td><a href="#L158">158</a></td><td>DEVOR:  You're Starfleet. You won't kill me.</td></tr>
 
-  RIKER
-     Geordi, what happened to the Captain?
+<tr id="L159"><td><a href="#L159">159</a></td><td>PICARD:  You sure?</td></tr>
 
-  LAFORGE
-     Oh, he went back to the ship to get his saddle.
+<tr id="L160"><td><a href="#L160">160</a></td><td>ANNOTATION: Picard hypos him instead</td></tr>
 
-  RIKER
-     His saddle?
+<tr id="L161"><td><a href="#L161">161</a></td><td>PICARD:  Seems you're right.</td></tr>
 
-  LAFORGE
-     Any serious rider would have his own saddle.
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L162"><td><a href="#L162">162</a></td><td>ANNOTATION: Picard is caught trying to climb up. It's Patricia Tallman in alien makeup as Kiros</td></tr>
 
-  RIKER
-     Oh.
+<tr><td></td><td>LOCATION--Arkaria base</td></tr>
+<tr id="L163"><td><a href="#L163">163</a></td><td>DATA:  Yes, but Tyrellian laser art is very similar in both form and composition.</td></tr>
 
-  LAFORGE
-     Probably he went right to the stables. I bet he's
-     ten kilometres from here already.
+<tr id="L164"><td><a href="#L164">164</a></td><td>HUTCH:  Of course. You know, funny you should mention that. I used to be stationed on Tyrellia.</td></tr>
 
-  RIKER
-     Lucky him. Thank you.
+<tr id="L165"><td><a href="#L165">165</a></td><td>DATA:  Really? Did you know that there are currently five Tyrellians serving aboard the Enterprise.</td></tr>
 
+<tr id="L166"><td><a href="#L166">166</a></td><td>HUTCH:  That's fascinating. Not too many people know this, but Tyrellia is one of only three known inhabited worlds without a magnetic pole.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L167"><td><a href="#L167">167</a></td><td>DATA:  I was aware of that. But are you aware that Tyrellia is one of seven known planets with no atmosphere whatsoever.</td></tr>
 
-  ANNOTATION
-     Picard drags the unconscious Devor into the room
-     and starts rifling through drawers.
+<tr id="L168"><td><a href="#L168">168</a></td><td>HUTCH:  Really?</td></tr>
 
-  KELSEY [OC]
-     Kelsey to Devor. Devor, this is Kelsey. Reply.
-     Devor, do you read me? Kelsey to Kiros.
+<tr id="L169"><td><a href="#L169">169</a></td><td>TROI:  They're still at it.</td></tr>
 
-  KIROS [OC]
-     This is Kiros.
+<tr id="L170"><td><a href="#L170">170</a></td><td>RIKER:  Non-stop. I have to admit it has a certain strange fascination. How long can two people talk about nothing?</td></tr>
 
-  KELSEY [OC]
-     Devor isn't responding. There must be too much
-     interference from the baryon sweep. Go find him
-     and see if he finished by passing the regulator on
-     deck seven, then meet us in main Engineering.
+<tr id="L171"><td><a href="#L171">171</a></td><td>ANNOTATION: Geordi is helping himself to the buffet when his visor picks up something.</td></tr>
 
-  KIROS [OC]
-     Understood.
+<tr id="L172"><td><a href="#L172">172</a></td><td>WAITER:  Is something wrong?</td></tr>
 
-  ANNOTATION
-     Picard wakes Devor
+<tr id="L173"><td><a href="#L173">173</a></td><td>LAFORGE:  I don't know. I was just getting some very strange energy readings from your table here.</td></tr>
 
-  PICARD
-     Hey. Hey. Who are you? What are you doing on my
-     ship?
+<tr id="L174"><td><a href="#L174">174</a></td><td>WAITER:  I'm sure it's nothing serious. Perhaps the heating element under the table is malfunctioning.</td></tr>
 
-  DEVOR
-     The baryon sweep uses a high-frequency plasma
-     field. Your phaser won't work.
+<tr id="L175"><td><a href="#L175">175</a></td><td>LAFORGE:  Maybe I should take a look at it for you.</td></tr>
 
-  PICARD
-     You're probably right. But I'd like to bet this
-     will. A laser welder can be deadly. What's going
-     on in main Engineering? I suggest that you
-     cooperate.
+<tr id="L176"><td><a href="#L176">176</a></td><td>ORTON:  I'm sure we can handle this, whatever it is, Commander. There's no need to concern yourself.</td></tr>
 
-  DEVOR
-     You're Starfleet. You won't kill me.
+<tr id="L177"><td><a href="#L177">177</a></td><td>LAFORGE:  Well, maybe I should look at the heating element. I mean, in case it</td></tr>
 
-  PICARD
-     You sure?
+<tr id="L178"><td><a href="#L178">178</a></td><td>ORTON:  It's all right. Please, don't worry.</td></tr>
 
-  ANNOTATION
-     Picard hypos him instead
+<tr id="L179"><td><a href="#L179">179</a></td><td>RIKER:  What was all that about?</td></tr>
 
-  PICARD
-     Seems you're right.
+<tr id="L180"><td><a href="#L180">180</a></td><td>ORTON:  I assure you it's all right. We'll look into it. You don't have to concern yourself.</td></tr>
 
+<tr id="L181"><td><a href="#L181">181</a></td><td>WAITER:  Orton, now!</td></tr>
 
-LOCATION--Turbolift
+<tr id="L182"><td><a href="#L182">182</a></td><td>ANNOTATION: Orton knocks Geordi over. The waiter gets a rifle from under the table and fires it at Geordi, hitting him square in the chest. Orton gets a gun for himself.</td></tr>
 
-  ANNOTATION
-     Picard is caught trying to climb up. It's Patricia
-     Tallman in alien makeup as Kiros
+<tr id="L183"><td><a href="#L183">183</a></td><td>HUTCH:  What is going on?</td></tr>
 
+<tr id="L184"><td><a href="#L184">184</a></td><td>ANNOTATION: Orton shoots him</td></tr>
 
-LOCATION--Arkaria base
+<tr id="L185"><td><a href="#L185">185</a></td><td>ORTON:  Stay right where you are.</td></tr>
 
-  DATA
-     Yes, but Tyrellian laser art is very similar in
-     both form and composition.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L186"><td><a href="#L186">186</a></td><td>SATLER:  (a human male) Reduce the plasma pressure to zero point six percent nominal.</td></tr>
 
-  HUTCH
-     Of course. You know, funny you should mention
-     that. I used to be stationed on Tyrellia.
+<tr id="L187"><td><a href="#L187">187</a></td><td>POMET:  (an alien male) Zero point six.</td></tr>
 
-  DATA
-     Really? Did you know that there are currently five
-     Tyrellians serving aboard the Enterprise.
+<tr id="L188"><td><a href="#L188">188</a></td><td>SATLER:  How does the conduit look?</td></tr>
 
-  HUTCH
-     That's fascinating. Not too many people know this,
-     but Tyrellia is one of only three known inhabited
-     worlds without a magnetic pole.
+<tr id="L189"><td><a href="#L189">189</a></td><td>POMET:  It's clear.</td></tr>
 
-  DATA
-     I was aware of that. But are you aware that
-     Tyrellia is one of seven known planets with no
-     atmosphere whatsoever.
+<tr id="L190"><td><a href="#L190">190</a></td><td>SATLER:  All right. The main plasma flow has been shunted to the aft conduit. We're ready here.</td></tr>
 
-  HUTCH
-     Really?
+<tr id="L191"><td><a href="#L191">191</a></td><td>NEIL:  Okay. That should do it. I think.</td></tr>
 
-  TROI
-     They're still at it.
+<tr id="L192"><td><a href="#L192">192</a></td><td>KELSEY:  (did I mention she's a redhead?) Be sure, Neil.</td></tr>
 
-  RIKER
-     Non-stop. I have to admit it has a certain strange
-     fascination. How long can two people talk about
-     nothing?
+<tr id="L193"><td><a href="#L193">193</a></td><td>NEIL:  Yes. Yes, that does it. All right. Transfer five hundred milligrams from the reserve system to the engine core.</td></tr>
 
-  ANNOTATION
-     Geordi is helping himself to the buffet when his
-     visor picks up something.
+<tr id="L194"><td><a href="#L194">194</a></td><td>ANNOTATION: Satler does it</td></tr>
 
-  WAITER
-     Is something wrong?
+<tr id="L195"><td><a href="#L195">195</a></td><td>NEIL:  Perfect.</td></tr>
 
-  LAFORGE
-     I don't know. I was just getting some very strange
-     energy readings from your table here.
+<tr id="L196"><td><a href="#L196">196</a></td><td>KELSEY:  Adequate. Disable the containment overrides and get the interlocks off the magnetic seal. Pomet, prepare the transport assembly. Keep watching the power flow. It might</td></tr>
 
-  WAITER
-     I'm sure it's nothing serious. Perhaps the heating
-     element under the table is malfunctioning.
+<tr id="L197"><td><a href="#L197">197</a></td><td>ANNOTATION: Picard is brought in.</td></tr>
 
-  LAFORGE
-     Maybe I should take a look at it for you.
+<tr id="L198"><td><a href="#L198">198</a></td><td>KELSEY:  Keep working. Where did he come from?</td></tr>
 
-  ORTON
-     I'm sure we can handle this, whatever it is,
-     Commander. There's no need to concern yourself.
+<tr id="L199"><td><a href="#L199">199</a></td><td>KIROS:  I found him on deck seven.</td></tr>
 
-  LAFORGE
-     Well, maybe I should look at the heating element.
-     I mean, in case it
+<tr id="L200"><td><a href="#L200">200</a></td><td>KELSEY:  Who are you?</td></tr>
 
-  ORTON
-     It's all right. Please, don't worry.
+<tr id="L201"><td><a href="#L201">201</a></td><td>PICARD:  My name is Mot. I'm the barber.</td></tr>
 
-  RIKER
-     What was all that about?
+<tr id="L202"><td><a href="#L202">202</a></td><td>KELSEY:  The barber? What the hell are you doing here? Everyone was supposed to be evacuated to the surface.</td></tr>
 
-  ORTON
-     I assure you it's all right. We'll look into it.
-     You don't have to concern yourself.
+<tr id="L203"><td><a href="#L203">203</a></td><td>PICARD:  Yes, I know. But I wanted to go riding, but I didn't have my saddle, so I went back to get it and</td></tr>
 
-  WAITER
-     Orton, now!
+<tr id="L204"><td><a href="#L204">204</a></td><td>KELSEY:  Your saddle?</td></tr>
 
-  ANNOTATION
-     Orton knocks Geordi over. The waiter gets a rifle
-     from under the table and fires it at Geordi,
-     hitting him square in the chest. Orton gets a gun
-     for himself.
+<tr id="L205"><td><a href="#L205">205</a></td><td>PICARD:  Yes, that's right. It's on deck seven. I left it in the corridor. And then the power went out and I got lost</td></tr>
 
-  HUTCH
-     What is going on?
+<tr id="L206"><td><a href="#L206">206</a></td><td>KELSEY:  All right, all right, shut up. Shut up! Any sign of Devor?</td></tr>
 
-  ANNOTATION
-     Orton shoots him
+<tr id="L207"><td><a href="#L207">207</a></td><td>KIROS:  No.</td></tr>
 
-  ORTON
-     Stay right where you are.
+<tr id="L208"><td><a href="#L208">208</a></td><td>KELSEY:  Satler. Get down here and keep an eye on our barber. All right, go see if you can find Devor. Make sure nothing's wrong.</td></tr>
 
+<tr id="L209"><td><a href="#L209">209</a></td><td>ANNOTATION: Kiros leaves</td></tr>
 
-LOCATION--Engineering
+<tr id="L210"><td><a href="#L210">210</a></td><td>SATLER:  Sit down.</td></tr>
 
-  SATLER
-     (a human male) Reduce the plasma pressure to zero
-     point six percent nominal.
+<tr id="L211"><td><a href="#L211">211</a></td><td>PICARD:  All right. Just don't point that thing at me.</td></tr>
 
-  POMET
-     (an alien male) Zero point six.
+<tr id="L212"><td><a href="#L212">212</a></td><td>SATLER:  Just do what I tell you, and you won't have to worry.</td></tr>
 
-  SATLER
-     How does the conduit look?
+<tr id="L213"><td><a href="#L213">213</a></td><td>KELSEY:  How long until you're ready?</td></tr>
 
-  POMET
-     It's clear.
+<tr id="L214"><td><a href="#L214">214</a></td><td>POMET:  Forty, maybe fifty minutes.</td></tr>
 
-  SATLER
-     All right. The main plasma flow has been shunted
-     to the aft conduit. We're ready here.
+<tr id="L215"><td><a href="#L215">215</a></td><td>KELSEY:  The baryon sweep hits this compartment in thirty minutes.</td></tr>
 
-  NEIL
-     Okay. That should do it. I think.
+<tr id="L216"><td><a href="#L216">216</a></td><td>POMET:  The field diverter will protect us.</td></tr>
 
-  KELSEY
-     (did I mention she's a redhead?) Be sure, Neil.
+<tr id="L217"><td><a href="#L217">217</a></td><td>KELSEY:  It's not us I'm worried about, it's that storage unit. I want the trilithium resin in there and secured before the sweep gets here. I don't want to take any chances.</td></tr>
 
-  NEIL
-     Yes. Yes, that does it. All right. Transfer five
-     hundred milligrams from the reserve system to the
-     engine core.
+<tr id="L218"><td><a href="#L218">218</a></td><td>POMET:  Understood.</td></tr>
 
-  ANNOTATION
-     Satler does it
+<tr><td></td><td>LOCATION--Arkaria base</td></tr>
+<tr id="L219"><td><a href="#L219">219</a></td><td>ANNOTATION: Hutch is covered in a purple curtain</td></tr>
 
-  NEIL
-     Perfect.
+<tr id="L220"><td><a href="#L220">220</a></td><td>TROI:  They haven't tried to communicate with the outside.</td></tr>
 
-  KELSEY
-     Adequate. Disable the containment overrides and
-     get the interlocks off the magnetic seal. Pomet,
-     prepare the transport assembly. Keep watching the
-     power flow. It might
+<tr id="L221"><td><a href="#L221">221</a></td><td>RIKER:  No demands, no political statements, no theft. They must want something.</td></tr>
 
-  ANNOTATION
-     Picard is brought in.
+<tr id="L222"><td><a href="#L222">222</a></td><td>TROI:  Orton is not as calm as he looks. He's very agitated and nervous, as if something's gone wrong.</td></tr>
 
-  KELSEY
-     Keep working. Where did he come from?
+<tr id="L223"><td><a href="#L223">223</a></td><td>DATA:  It is possible that Geordi upset their timetable when he saw the hidden weapons.</td></tr>
 
-  KIROS
-     I found him on deck seven.
+<tr id="L224"><td><a href="#L224">224</a></td><td>RIKER:  Orton may be improvising. Maybe he didn't plan to take us hostage so early and now he doesn't know what to do.</td></tr>
 
-  KELSEY
-     Who are you?
+<tr id="L225"><td><a href="#L225">225</a></td><td>DATA:  If they do not have a plan for this contingency, we may have the initiative.</td></tr>
 
-  PICARD
-     My name is Mot. I'm the barber.
+<tr id="L226"><td><a href="#L226">226</a></td><td>RIKER:  Maybe, but we need to figure out how to use it. How is he?</td></tr>
 
-  KELSEY
-     The barber? What the hell are you doing here?
-     Everyone was supposed to be evacuated to the
-     surface.
+<tr id="L227"><td><a href="#L227">227</a></td><td>CRUSHER:  There's no permanent damage. I've adjusted the optical transducer in his visor to block some of the pain receptors in his brain. It's only partially effective. I need to get him to a medical facility.</td></tr>
 
-  PICARD
-     Yes, I know. But I wanted to go riding, but I
-     didn't have my saddle, so I went back to get it
-     and
+<tr id="L228"><td><a href="#L228">228</a></td><td>RIKER:  I doubt if they'll agree to that. But maybe if we tell them Geordi's dying, they would give us access to a medical kit. We might be able to use some of the tools to make a weapon.</td></tr>
 
-  KELSEY
-     Your saddle?
+<tr id="L229"><td><a href="#L229">229</a></td><td>DATA:  Perhaps we can use the visor as a weapon. If the optical transducer were modified, we might be able to generate a hypersonic pulse.</td></tr>
 
-  PICARD
-     Yes, that's right. It's on deck seven. I left it
-     in the corridor. And then the power went out and I
-     got lost
+<tr id="L230"><td><a href="#L230">230</a></td><td>CRUSHER:  A hypersonic pulse would overload the audio receptors of everyone in the room. It would cause immediate unconsciousness.</td></tr>
 
-  KELSEY
-     All right, all right, shut up. Shut up! Any sign
-     of Devor?
+<tr id="L231"><td><a href="#L231">231</a></td><td>RIKER:  Can you make the adjustments on the visor by yourself? It'll look suspicious if you're both working on it.</td></tr>
 
-  KIROS
-     No.
+<tr id="L232"><td><a href="#L232">232</a></td><td>CRUSHER:  I'll try. I might need Geordi to help me through some of it.</td></tr>
 
-  KELSEY
-     Satler. Get down here and keep an eye on our
-     barber. All right, go see if you can find Devor.
-     Make sure nothing's wrong.
+<tr id="L233"><td><a href="#L233">233</a></td><td>RIKER:  All right. Be as casual as you can. Let us know when you're ready.</td></tr>
 
-  ANNOTATION
-     Kiros leaves
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L234"><td><a href="#L234">234</a></td><td>POMET:  Ready.</td></tr>
 
-  SATLER
-     Sit down.
+<tr id="L235"><td><a href="#L235">235</a></td><td>KELSEY:  Begin draining the trilithium at one hundred milligrams per minute.</td></tr>
 
-  PICARD
-     All right. Just don't point that thing at me.
+<tr id="L236"><td><a href="#L236">236</a></td><td>ANNOTATION: Picard gets the laser out of his belt and plugs it into a power socket behind his back. An alarm goes off as a vent blows.</td></tr>
 
-  SATLER
-     Just do what I tell you, and you won't have to
-     worry.
+<tr id="L237"><td><a href="#L237">237</a></td><td>KELSEY:  Neil, what's going on? Neil, get over here. Put that down.</td></tr>
 
-  KELSEY
-     How long until you're ready?
+<tr id="L238"><td><a href="#L238">238</a></td><td>ANNOTATION: Picard knocks over Satler</td></tr>
 
-  POMET
-     Forty, maybe fifty minutes.
+<tr id="L239"><td><a href="#L239">239</a></td><td>NEIL:  Don't worry, I've got it. I'll be right there.</td></tr>
 
-  KELSEY
-     The baryon sweep hits this compartment in thirty
-     minutes.
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: Picard does something to the inducer then dashes out of Engineering as the blast door comes down. He climbs the ladder of a Jefferies tube. Satler chases him. Picard opens a bulkhead to see the baryon sweep heading towards them. A few minutes later, Satler comes to the same bulkhead, now shut. Picard's jacket is on the deckplate. He lifts it to see an open panel, then the sweep comes through the bulkhead.</td></tr>
 
-  POMET
-     The field diverter will protect us.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L241"><td><a href="#L241">241</a></td><td>ANNOTATION: Satler's death scream reaches Picard as he walks along</td></tr>
 
-  KELSEY
-     It's not us I'm worried about, it's that storage
-     unit. I want the trilithium resin in there and
-     secured before the sweep gets here. I don't want
-     to take any chances.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L242"><td><a href="#L242">242</a></td><td>NEIL:  The primary inducer is completely fused. There's no way to fix it. Without the diverter, we don't have any protection from the baryon sweep.</td></tr>
 
-  POMET
-     Understood.
+<tr id="L243"><td><a href="#L243">243</a></td><td>KELSEY:  I know that. How long before the baryon sweep gets here?</td></tr>
 
+<tr id="L244"><td><a href="#L244">244</a></td><td>NEIL:  About twelve minutes. We should go to Ten Forward. That's the last place on the ship that'll be swept by the baryon field.</td></tr>
 
-LOCATION--Arkaria base
+<tr id="L245"><td><a href="#L245">245</a></td><td>KELSEY:  All right, we're leaving. But we're taking the trilithium with us.</td></tr>
 
-  ANNOTATION
-     Hutch is covered in a purple curtain
+<tr id="L246"><td><a href="#L246">246</a></td><td>NEIL:  What? Do you know how volatile trilithium is? We can't just start hauling it through the ship.</td></tr>
 
-  TROI
-     They haven't tried to communicate with the
-     outside.
+<tr id="L247"><td><a href="#L247">247</a></td><td>ANNOTATION: Kelsey gives him a Look</td></tr>
 
-  RIKER
-     No demands, no political statements, no theft.
-     They must want something.
+<tr id="L248"><td><a href="#L248">248</a></td><td>NEIL:  I'll, I'll try to make some modifications.</td></tr>
 
-  TROI
-     Orton is not as calm as he looks. He's very
-     agitated and nervous, as if something's gone
-     wrong.
+<tr id="L249"><td><a href="#L249">249</a></td><td>POMET:  Satler's dead. He ran into the baryon sweep.</td></tr>
 
-  DATA
-     It is possible that Geordi upset their timetable
-     when he saw the hidden weapons.
+<tr id="L250"><td><a href="#L250">250</a></td><td>KELSEY:  What about Mot?</td></tr>
 
-  RIKER
-     Orton may be improvising. Maybe he didn't plan to
-     take us hostage so early and now he doesn't know
-     what to do.
+<tr id="L251"><td><a href="#L251">251</a></td><td>POMET:  I don't know. But I don't think he's a barber. I found this in the Jefferies Tube.</td></tr>
 
-  DATA
-     If they do not have a plan for this contingency,
-     we may have the initiative.
+<tr id="L252"><td><a href="#L252">252</a></td><td>ANNOTATION: He hands over Picard's comm. badge</td></tr>
 
-  RIKER
-     Maybe, but we need to figure out how to use it.
-     How is he?
+<tr><td></td><td>LOCATION--Worf's quarters</td></tr>
+<tr id="L253"><td><a href="#L253">253</a></td><td>ANNOTATION: Picard uses his magnetic door opener to get in and check out the weapons display. A conversation comes over Devor's intercom</td></tr>
 
-  CRUSHER
-     There's no permanent damage. I've adjusted the
-     optical transducer in his visor to block some of
-     the pain receptors in his brain. It's only
-     partially effective. I need to get him to a
-     medical facility.
+<tr id="L254"><td><a href="#L254">254</a></td><td>KELSEY [OC]:  Kelsey to Kiros.</td></tr>
 
-  RIKER
-     I doubt if they'll agree to that. But maybe if we
-     tell them Geordi's dying, they would give us
-     access to a medical kit. We might be able to use
-     some of the tools to make a weapon.
+<tr id="L255"><td><a href="#L255">255</a></td><td>KIROS [OC]:  This is Kiros.</td></tr>
 
-  DATA
-     Perhaps we can use the visor as a weapon. If the
-     optical transducer were modified, we might be able
-     to generate a hypersonic pulse.
+<tr id="L256"><td><a href="#L256">256</a></td><td>KELSEY [OC]:  We have a problem. There's a Starfleet officer still on board. He's killed Satler and he may have killed Devor. He also destroyed the diverter in Engineering so we have to leave here before the baryon sweep enters this section.</td></tr>
 
-  CRUSHER
-     A hypersonic pulse would overload the audio
-     receptors of everyone in the room. It would cause
-     immediate unconsciousness.
+<tr id="L257"><td><a href="#L257">257</a></td><td>KIROS [OC]:  What about the trilithium resin?</td></tr>
 
-  RIKER
-     Can you make the adjustments on the visor by
-     yourself? It'll look suspicious if you're both
-     working on it.
+<tr id="L258"><td><a href="#L258">258</a></td><td>KELSEY [OC]:  We're taking it with us to Ten Forward. There should be enough time before</td></tr>
 
-  CRUSHER
-     I'll try. I might need Geordi to help me through
-     some of it.
+<tr id="L259"><td><a href="#L259">259</a></td><td>PICARD:  Kelsey. Don't be a fool.</td></tr>
 
-  RIKER
-     All right. Be as casual as you can. Let us know
-     when you're ready.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L260"><td><a href="#L260">260</a></td><td>PICARD [OC]:  You know better than to try and move trilithium resin.</td></tr>
 
+<tr id="L261"><td><a href="#L261">261</a></td><td>KELSEY:  Mister Mot. Or should I call you Lieutenant? Lieutenant Commander perhaps?</td></tr>
 
-LOCATION--Engineering
+<tr id="L262"><td><a href="#L262">262</a></td><td>PICARD [OC]:  You may call me whatever you wish.</td></tr>
 
-  POMET
-     Ready.
+<tr><td></td><td>LOCATION--Worf's quarters</td></tr>
+<tr id="L263"><td><a href="#L263">263</a></td><td>PICARD:  Moving trilithium resin requires very specific equipment. You can't simply improvise something.</td></tr>
 
-  KELSEY
-     Begin draining the trilithium at one hundred
-     milligrams per minute.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L264"><td><a href="#L264">264</a></td><td>KELSEY:  I wouldn't need to improvise if you hadn't damaged our field diverter. But if you're so concerned about the trilithium</td></tr>
 
-  ANNOTATION
-     Picard gets the laser out of his belt and plugs it
-     into a power socket behind his back. An alarm goes
-     off as a vent blows.
+<tr><td></td><td>LOCATION--Worf's quarters</td></tr>
+<tr id="L265"><td><a href="#L265">265</a></td><td>KELSEY [OC]:  I suggest you stop interfering with us</td></tr>
 
-  KELSEY
-     Neil, what's going on? Neil, get over here. Put
-     that down.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L266"><td><a href="#L266">266</a></td><td>KELSEY:  Before you set off an explosion that would destroy the Enterprise and you.</td></tr>
 
-  ANNOTATION
-     Picard knocks over Satler
+<tr><td></td><td>LOCATION--Worf's quarters</td></tr>
+<tr id="L267"><td><a href="#L267">267</a></td><td>PICARD:  I would rather destroy the ship than allow that material to fall into the hands of terrorists.</td></tr>
 
-  NEIL
-     Don't worry, I've got it. I'll be right there.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L268"><td><a href="#L268">268</a></td><td>KELSEY:  What makes you think I'm a terrorist?</td></tr>
 
-  ANNOTATION
-     Picard does something to the inducer then dashes
-     out of Engineering as the blast door comes down.
-     He climbs the ladder of a Jefferies tube. Satler
-     chases him. Picard opens a bulkhead to see the
-     baryon sweep heading towards them. A few minutes
-     later, Satler comes to the same bulkhead, now
-     shut. Picard's jacket is on the deckplate. He
-     lifts it to see an open panel, then the sweep
-     comes through the bulkhead.
+<tr><td></td><td>LOCATION--Worf's quarters</td></tr>
+<tr id="L269"><td><a href="#L269">269</a></td><td>PICARD:  Trilithium resin is a highly toxic waste product produced by our engines.</td></tr>
 
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L270"><td><a href="#L270">270</a></td><td>PICARD [OC]:  It's only possible use could be as a weapon.</td></tr>
 
-LOCATION--Corridor
+<tr id="L271"><td><a href="#L271">271</a></td><td>KELSEY:  You might be right, Mister Mot, but we've been planning this for a long time, and I doubt that you'll really be able to stop us.</td></tr>
 
-  ANNOTATION
-     Satler's death scream reaches Picard as he walks
-     along
+<tr id="L272"><td><a href="#L272">272</a></td><td>ANNOTATION: mouths 'find him' to Pomet</td></tr>
 
+<tr id="L273"><td><a href="#L273">273</a></td><td>KELSEY:  Or even slow us down.</td></tr>
 
-LOCATION--Engineering
+<tr id="L274"><td><a href="#L274">274</a></td><td>ANNOTATION: Picard sets out with Worf's crossbow</td></tr>
 
-  NEIL
-     The primary inducer is completely fused. There's
-     no way to fix it. Without the diverter, we don't
-     have any protection from the baryon sweep.
+<tr id="L275"><td><a href="#L275">275</a></td><td>NEIL:  There. Three hundred milligrams of trilithium. I'm using a dynamic stabiliser to act as a control rod. There. That should keep the resin stable enough for transport.</td></tr>
 
-  KELSEY
-     I know that. How long before the baryon sweep gets
-     here?
+<tr id="L276"><td><a href="#L276">276</a></td><td>KELSEY:  Come on! Don't be so tense, Neil. If something goes wrong, you won't have time to worry about it. Let's go.</td></tr>
 
-  NEIL
-     About twelve minutes. We should go to Ten Forward.
-     That's the last place on the ship that'll be swept
-     by the baryon field.
+<tr id="L277"><td><a href="#L277">277</a></td><td>ANNOTATION: in Sickbay, Picard dips the tip of the crossbow bolt into a liquid</td></tr>
 
-  KELSEY
-     All right, we're leaving. But we're taking the
-     trilithium with us.
+<tr><td></td><td>LOCATION--Jefferies tube</td></tr>
+<tr id="L278"><td><a href="#L278">278</a></td><td>KELSEY:  Three more decks, then we take corridor fifteen B all the way to Ten Forward.</td></tr>
 
-  NEIL
-     What? Do you know how volatile trilithium is? We
-     can't just start hauling it through the ship.
+<tr id="L279"><td><a href="#L279">279</a></td><td>ANNOTATION: She stops climbing. The next set of ladders is missing.</td></tr>
 
-  ANNOTATION
-     Kelsey gives him a Look
+<tr id="L280"><td><a href="#L280">280</a></td><td>NEIL:  What's wrong?</td></tr>
 
-  NEIL
-     I'll, I'll try to make some modifications.
+<tr id="L281"><td><a href="#L281">281</a></td><td>KELSEY:  We have to find another way up. The rungs are cut.</td></tr>
 
-  POMET
-     Satler's dead. He ran into the baryon sweep.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L282"><td><a href="#L282">282</a></td><td>ANNOTATION: Picard is mixing up ingredients</td></tr>
 
-  KELSEY
-     What about Mot?
+<tr id="L283"><td><a href="#L283">283</a></td><td>KELSEY [OC]:  That wasn't very clever, Mister Mot.</td></tr>
 
-  POMET
-     I don't know. But I don't think he's a barber. I
-     found this in the Jefferies Tube.
+<tr><td></td><td>LOCATION--Jefferies tube</td></tr>
+<tr id="L284"><td><a href="#L284">284</a></td><td>KELSEY:  If you knew where we were, you should have attacked us. Now we'll just take another route. One you might not be able</td></tr>
 
-  ANNOTATION
-     He hands over Picard's comm. badge
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L285"><td><a href="#L285">285</a></td><td>KELSEY [OC]:  To predict.</td></tr>
 
+<tr id="L286"><td><a href="#L286">286</a></td><td>PICARD:  There are only so many ways to Ten Forward. Ten Forward is the logical place to be if you want to stay ahead of the baryon sweep.</td></tr>
 
-LOCATION--Worf's quarters
+<tr><td></td><td>LOCATION--Jefferies tube</td></tr>
+<tr id="L287"><td><a href="#L287">287</a></td><td>KELSEY:  That sweep is just as big a threat to you as it is to us. In fact, if I were you, Mister Mot</td></tr>
 
-  ANNOTATION
-     Picard uses his magnetic door opener to get in and
-     check out the weapons display. A conversation
-     comes over Devor's intercom
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L288"><td><a href="#L288">288</a></td><td>KELSEY [OC]:  I'd be trying to find a way off this ship.</td></tr>
 
-  KELSEY [OC]
-     Kelsey to Kiros.
+<tr id="L289"><td><a href="#L289">289</a></td><td>ANNOTATION: Picard's test concoction flares nicely</td></tr>
 
-  KIROS [OC]
-     This is Kiros.
+<tr id="L290"><td><a href="#L290">290</a></td><td>PICARD:  I plan on leaving the same way you do. On your ship.</td></tr>
 
-  KELSEY [OC]
-     We have a problem. There's a Starfleet officer
-     still on board. He's killed Satler and he may have
-     killed Devor. He also destroyed the diverter in
-     Engineering so we have to leave here before the
-     baryon sweep enters this section.
+<tr><td></td><td>LOCATION--Jefferies tube</td></tr>
+<tr id="L291"><td><a href="#L291">291</a></td><td>KELSEY:  What ship?</td></tr>
 
-  KIROS [OC]
-     What about the trilithium resin?
+<tr id="L292"><td><a href="#L292">292</a></td><td>PICARD [OC]:  Come on, Kelsey.</td></tr>
 
-  KELSEY [OC]
-     We're taking it with us to Ten Forward. There
-     should be enough time before
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L293"><td><a href="#L293">293</a></td><td>PICARD:  If you've been planning this so long, you must have a way of getting off the Enterprise and leaving this system. I think you have a ship coming for you. I plan to be on it.</td></tr>
 
-  PICARD
-     Kelsey. Don't be a fool.
+<tr><td></td><td>LOCATION--Jefferies tube</td></tr>
+<tr id="L294"><td><a href="#L294">294</a></td><td>KELSEY:  It's a small ship, Mot. I don't think there's going to be room for both of us.</td></tr>
 
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L295"><td><a href="#L295">295</a></td><td>PICARD:  I'm sorry to hear that. I'll send your regrets.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Arkaria base</td></tr>
+<tr id="L296"><td><a href="#L296">296</a></td><td>RIKER:  How is he, Doctor?</td></tr>
 
-  PICARD [OC]
-     You know better than to try and move trilithium
-     resin.
+<tr id="L297"><td><a href="#L297">297</a></td><td>CRUSHER:  He's in a lot of pain, but I think he should be fine. He needs some water. Is that all right?</td></tr>
 
-  KELSEY
-     Mister Mot. Or should I call you Lieutenant?
-     Lieutenant Commander perhaps?
+<tr id="L298"><td><a href="#L298">298</a></td><td>ANNOTATION: She goes slowly to the water fountain, where Troi can hear but not Orton or the waiter</td></tr>
 
-  PICARD [OC]
-     You may call me whatever you wish.
+<tr id="L299"><td><a href="#L299">299</a></td><td>CRUSHER:  (sotto) We're almost ready. When we set the visor to emit the hypersonic pulse, there'll be a short burst of light. We need a distraction.</td></tr>
 
+<tr id="L300"><td><a href="#L300">300</a></td><td>ANNOTATION: Troi crosses to Riker</td></tr>
 
-LOCATION--Worf's quarters
+<tr id="L301"><td><a href="#L301">301</a></td><td>TROI:  (sotto) They need a distraction.</td></tr>
 
-  PICARD
-     Moving trilithium resin requires very specific
-     equipment. You can't simply improvise something.
+<tr id="L302"><td><a href="#L302">302</a></td><td>RIKER:  How long?</td></tr>
 
+<tr id="L303"><td><a href="#L303">303</a></td><td>TROI:  Just a few seconds.</td></tr>
 
-LOCATION--Engineering
+<tr id="L304"><td><a href="#L304">304</a></td><td>RIKER:  I think I can distract Orton for a few seconds.</td></tr>
 
-  KELSEY
-     I wouldn't need to improvise if you hadn't damaged
-     our field diverter. But if you're so concerned
-     about the trilithium
+<tr id="L305"><td><a href="#L305">305</a></td><td>TROI:  I don't think Orton's in a talking mood, Will.</td></tr>
 
+<tr id="L306"><td><a href="#L306">306</a></td><td>RIKER:  You just have to know how to talk to him. Orton, I think we need to discuss the situation.</td></tr>
 
-LOCATION--Worf's quarters
+<tr id="L307"><td><a href="#L307">307</a></td><td>ORTON:  There is nothing to discuss. Sit down.</td></tr>
 
-  KELSEY [OC]
-     I suggest you stop interfering with us
+<tr id="L308"><td><a href="#L308">308</a></td><td>RIKER:  There's a lot to discuss. Can't we be reasonable?</td></tr>
 
+<tr id="L309"><td><a href="#L309">309</a></td><td>ORTON:  I am not interested in hearing your hostage negotiation tactics, Commander.</td></tr>
 
-LOCATION--Engineering
+<tr id="L310"><td><a href="#L310">310</a></td><td>RIKER:  It can't hurt you to listen, can it?</td></tr>
 
-  KELSEY
-     Before you set off an explosion that would destroy
-     the Enterprise and you.
+<tr id="L311"><td><a href="#L311">311</a></td><td>ORTON:  All right.</td></tr>
 
+<tr id="L312"><td><a href="#L312">312</a></td><td>RIKER:  Thank you. Now, the first thing I think we need to discuss is this.</td></tr>
 
-LOCATION--Worf's quarters
+<tr id="L313"><td><a href="#L313">313</a></td><td>ANNOTATION: He knocks Orton down and gets thumped by the waiter in return. The visor is set</td></tr>
 
-  PICARD
-     I would rather destroy the ship than allow that
-     material to fall into the hands of terrorists.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L314"><td><a href="#L314">314</a></td><td>ANNOTATION: The sweep is halfway through the saucer section</td></tr>
 
+<tr id="L315"><td><a href="#L315">315</a></td><td>ANNOTATION: Picard shoots Pomet in the leg, and he passes out. Picard is just getting his weapon when </td></tr>
 
-LOCATION--Engineering
+<tr id="L316"><td><a href="#L316">316</a></td><td>KIROS:  Hold it. Put your weapon down. Kelsey, this is Kiros. I'm on deck ten.</td></tr>
 
-  KELSEY
-     What makes you think I'm a terrorist?
+<tr><td></td><td>LOCATION--Jefferies tube</td></tr>
+<tr id="L317"><td><a href="#L317">317</a></td><td>KIROS [OC]:  I have Mott.</td></tr>
 
+<tr id="L318"><td><a href="#L318">318</a></td><td>KELSEY:  Is he alive?</td></tr>
 
-LOCATION--Worf's quarters
+<tr id="L319"><td><a href="#L319">319</a></td><td>KIROS [OC]:  Yes.</td></tr>
 
-  PICARD
-     Trilithium resin is a highly toxic waste product
-     produced by our engines.
+<tr id="L320"><td><a href="#L320">320</a></td><td>KELSEY:  Good. Meet us at intersection forty one.</td></tr>
 
+<tr id="L321"><td><a href="#L321">321</a></td><td>KIROS [OC]:  Understood.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L322"><td><a href="#L322">322</a></td><td>KIROS:  This way. Move.</td></tr>
 
-  PICARD [OC]
-     It's only possible use could be as a weapon.
+<tr><td></td><td>LOCATION--Jefferies tube</td></tr>
+<tr id="L323"><td><a href="#L323">323</a></td><td>KELSEY:  Give me the trilithium.</td></tr>
 
-  KELSEY
-     You might be right, Mister Mot, but we've been
-     planning this for a long time, and I doubt that
-     you'll really be able to stop us.
+<tr id="L324"><td><a href="#L324">324</a></td><td>NEIL:  How much farther do we have to go?</td></tr>
 
-  ANNOTATION
-     mouths 'find him' to Pomet
+<tr id="L325"><td><a href="#L325">325</a></td><td>KELSEY:  Not far. With all the modifications you've made to this unit, are we going to have any troubles removing the trilithium?</td></tr>
 
-  KELSEY
-     Or even slow us down.
+<tr id="L326"><td><a href="#L326">326</a></td><td>NEIL:  No. Just remove the control rod, drain the unit. There shouldn't be any problem.</td></tr>
 
-  ANNOTATION
-     Picard sets out with Worf's crossbow
+<tr id="L327"><td><a href="#L327">327</a></td><td>KELSEY:  That's all I wanted to know.</td></tr>
 
-  NEIL
-     There. Three hundred milligrams of trilithium. I'm
-     using a dynamic stabiliser to act as a control
-     rod. There. That should keep the resin stable
-     enough for transport.
+<tr id="L328"><td><a href="#L328">328</a></td><td>ANNOTATION: we can assume she kills Neil</td></tr>
 
-  KELSEY
-     Come on! Don't be so tense, Neil. If something
-     goes wrong, you won't have time to worry about it.
-     Let's go.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L329"><td><a href="#L329">329</a></td><td>KELSEY:  Well, not as clever as you thought. Where's Pomet?</td></tr>
 
-  ANNOTATION
-     in Sickbay, Picard dips the tip of the crossbow
-     bolt into a liquid
+<tr id="L330"><td><a href="#L330">330</a></td><td>KIROS:  He shot him with some kind of an arrow.</td></tr>
 
+<tr id="L331"><td><a href="#L331">331</a></td><td>PICARD:  He's not dead.</td></tr>
 
-LOCATION--Jefferies tube
+<tr id="L332"><td><a href="#L332">332</a></td><td>KELSEY:  Well, he will be soon. The sweep's nearly here. We don't have time to go back for him.</td></tr>
 
-  KELSEY
-     Three more decks, then we take corridor fifteen B
-     all the way to Ten Forward.
+<tr id="L333"><td><a href="#L333">333</a></td><td>KIROS:  What about Neil?</td></tr>
 
-  ANNOTATION
-     She stops climbing. The next set of ladders is
-     missing.
+<tr id="L334"><td><a href="#L334">334</a></td><td>KELSEY:  The sweep got him. Let's go.</td></tr>
 
-  NEIL
-     What's wrong?
+<tr><td></td><td>LOCATION--Arkaria base</td></tr>
+<tr id="L335"><td><a href="#L335">335</a></td><td>TROI:  I thought you were just going to talk to him.</td></tr>
 
-  KELSEY
-     We have to find another way up. The rungs are cut.
+<tr id="L336"><td><a href="#L336">336</a></td><td>RIKER:  I did. He just didn't like what I had to say.</td></tr>
 
+<tr id="L337"><td><a href="#L337">337</a></td><td>ANNOTATION: an alarm sounds, and Orton goes to a computer terminal in a recess</td></tr>
 
-LOCATION--Sickbay
+<tr id="L338"><td><a href="#L338">338</a></td><td>DATA:  That was a perimeter warning from the Remmler Array. A small ship is approaching. I believe Mister Orton has dropped his defence shields.</td></tr>
 
-  ANNOTATION
-     Picard is mixing up ingredients
+<tr id="L339"><td><a href="#L339">339</a></td><td>RIKER:  This must be the sign they were waiting for. Mister Data, you will be the only one unaffected by the hypersonic burst. As soon as every else is unconscious, I need you to get to the computer panel and stop that ship somehow.</td></tr>
 
-  KELSEY [OC]
-     That wasn't very clever, Mister Mot.
+<tr id="L340"><td><a href="#L340">340</a></td><td>DATA:  I will try, sir.</td></tr>
 
+<tr id="L341"><td><a href="#L341">341</a></td><td>CRUSHER:  Now.</td></tr>
 
-LOCATION--Jefferies tube
+<tr id="L342"><td><a href="#L342">342</a></td><td>ANNOTATION: an ear-splitting noise fills the room, and all the people drop. Data takes the weapons and starts work on the computer</td></tr>
 
-  KELSEY
-     If you knew where we were, you should have
-     attacked us. Now we'll just take another route.
-     One you might not be able
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L343"><td><a href="#L343">343</a></td><td>PICARD:  Kelsey, perhaps we can work out a deal.</td></tr>
 
+<tr id="L344"><td><a href="#L344">344</a></td><td>KELSEY:  You're the only one who needs a deal, Mot.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L345"><td><a href="#L345">345</a></td><td>PICARD:  My name isn't Mot. It's Jean-Luc Picard.</td></tr>
 
-  KELSEY [OC]
-     To predict.
+<tr id="L346"><td><a href="#L346">346</a></td><td>KELSEY:  Captain Picard. This is all beginning to make sense.</td></tr>
 
-  PICARD
-     There are only so many ways to Ten Forward. Ten
-     Forward is the logical place to be if you want to
-     stay ahead of the baryon sweep.
+<tr id="L347"><td><a href="#L347">347</a></td><td>PICARD:  Leave the trilithium here and take me with you. You can use me as a hostage instead of threatening</td></tr>
 
+<tr id="L348"><td><a href="#L348">348</a></td><td>KELSEY:  I'm not a terrorist Captain, nor do I have a political agenda, although I know some people who do have agendas. And they are very interested in this little container.</td></tr>
 
-LOCATION--Jefferies tube
+<tr id="L349"><td><a href="#L349">349</a></td><td>PICARD:  Profit. This is all about profit.</td></tr>
 
-  KELSEY
-     That sweep is just as big a threat to you as it is
-     to us. In fact, if I were you, Mister Mot
+<tr id="L350"><td><a href="#L350">350</a></td><td>KELSEY:  I prefer to think of it as commerce. Open the door. Now go through, slowly.</td></tr>
 
+<tr><td></td><td>LOCATION--Ten Forward</td></tr>
+<tr id="L351"><td><a href="#L351">351</a></td><td>ANNOTATION: Picard, Kiros, then Kelsey enter. A blue stripe on the floor flares, blinding the two women. Kelsey drops the container. She and Picard fight, then the sweep enters the room. They continue to wrestle until Kelsey finally gets her hands on a weapon again</td></tr>
 
-LOCATION--Sickbay
+<tr id="L352"><td><a href="#L352">352</a></td><td>KELSEY:  I guess, I'll be the one to send your regrets.</td></tr>
 
-  KELSEY [OC]
-     I'd be trying to find a way off this ship.
+<tr id="L353"><td><a href="#L353">353</a></td><td>ANNOTATION: Kelsey and the container are beamed out. Picard uses the terrorist communicator.</td></tr>
 
-  ANNOTATION
-     Picard's test concoction flares nicely
+<tr id="L354"><td><a href="#L354">354</a></td><td>PICARD:  Picard to Arkaria base. Deactivate the baryon sweep. Arkaria Base, this is Captain Picard on board the Enterprise. Deactivate the baryon sweep!</td></tr>
 
-  PICARD
-     I plan on leaving the same way you do. On your
-     ship.
+<tr id="L355"><td><a href="#L355">355</a></td><td>ANNOTATION: Picard takes final refuge in Ten-Forward's windows</td></tr>
 
+<tr id="L356"><td><a href="#L356">356</a></td><td>PICARD:  Arkaria Base, this is Captain Picard. Deactivate the baryon sweep immediately!</td></tr>
 
-LOCATION--Jefferies tube
+<tr id="L357"><td><a href="#L357">357</a></td><td>ANNOTATION: and the sweep stops</td></tr>
 
-  KELSEY
-     What ship?
+<tr id="L358"><td><a href="#L358">358</a></td><td>DATA [OC]:  Data to Captain Picard. Do you read me, sir?</td></tr>
 
-  PICARD [OC]
-     Come on, Kelsey.
+<tr id="L359"><td><a href="#L359">359</a></td><td>PICARD:  Picard here.</td></tr>
 
+<tr><td></td><td>LOCATION--Arkaria base</td></tr>
+<tr id="L360"><td><a href="#L360">360</a></td><td>ANNOTATION: Riker has Orton and the waiter under guard</td></tr>
 
-LOCATION--Sickbay
+<tr id="L361"><td><a href="#L361">361</a></td><td>DATA:  Are you all right, Captain?</td></tr>
 
-  PICARD
-     If you've been planning this so long, you must
-     have a way of getting off the Enterprise and
-     leaving this system. I think you have a ship
-     coming for you. I plan to be on it.
+<tr><td></td><td>LOCATION--Ten Forward</td></tr>
+<tr id="L362"><td><a href="#L362">362</a></td><td>PICARD:  Yes, Mister Data.</td></tr>
 
+<tr id="L363"><td><a href="#L363">363</a></td><td>DATA:  Sir, an unidentified</td></tr>
 
-LOCATION--Jefferies tube
+<tr><td></td><td>LOCATION--Arkaria base</td></tr>
+<tr id="L364"><td><a href="#L364">364</a></td><td>DATA:  Scout ship has just beamed someone off the Enterprise.</td></tr>
 
-  KELSEY
-     It's a small ship, Mot. I don't think there's
-     going to be room for both of us.
+<tr><td></td><td>LOCATION--Ten Forward</td></tr>
+<tr id="L365"><td><a href="#L365">365</a></td><td>DATA [OC]:  Do you know anything about it?</td></tr>
 
+<tr id="L366"><td><a href="#L366">366</a></td><td>PICARD:  I know they won't get very far.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L367"><td><a href="#L367">367</a></td><td>ANNOTATION: Picard has the control rod in his hand. The little ship goes ka-BOOM! </td></tr>
 
-  PICARD
-     I'm sorry to hear that. I'll send your regrets.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L368"><td><a href="#L368">368</a></td><td>CRUSHER:  Hold still. You have got a nasty little cut here.</td></tr>
 
+<tr id="L369"><td><a href="#L369">369</a></td><td>PICARD:  Any luck?</td></tr>
 
-LOCATION--Arkaria base
+<tr id="L370"><td><a href="#L370">370</a></td><td>TROI:  I'm sorry, Captain. I don't know what could have happened to it.</td></tr>
 
-  RIKER
-     How is he, Doctor?
+<tr id="L371"><td><a href="#L371">371</a></td><td>CRUSHER:  Hold still. I can't heal this cleanly if you don't stop fidgeting.</td></tr>
 
-  CRUSHER
-     He's in a lot of pain, but I think he should be
-     fine. He needs some water. Is that all right?
+<tr id="L372"><td><a href="#L372">372</a></td><td>RIKER:  I've had three security teams search deck seven. They couldn't find anything.</td></tr>
 
-  ANNOTATION
-     She goes slowly to the water fountain, where Troi
-     can hear but not Orton or the waiter
+<tr id="L373"><td><a href="#L373">373</a></td><td>CRUSHER:  There.</td></tr>
 
-  CRUSHER
-     (sotto) We're almost ready. When we set the visor
-     to emit the hypersonic pulse, there'll be a short
-     burst of light. We need a distraction.
+<tr id="L374"><td><a href="#L374">374</a></td><td>ANNOTATION: Worf enters with a proper English saddle and fleece</td></tr>
 
-  ANNOTATION
-     Troi crosses to Riker
+<tr id="L375"><td><a href="#L375">375</a></td><td>WORF:  I found it. Someone put it in a maintenance locker.</td></tr>
 
-  TROI
-     (sotto) They need a distraction.
+<tr id="L376"><td><a href="#L376">376</a></td><td>PICARD:  Thank you.</td></tr>
 
-  RIKER
-     How long?
+<tr id="L377"><td><a href="#L377">377</a></td><td>WORF:  Captain, you keep a saddle on board?</td></tr>
 
-  TROI
-     Just a few seconds.
+<tr id="L378"><td><a href="#L378">378</a></td><td>RIKER:  Mister Worf, I'm surprised at you.</td></tr>
 
-  RIKER
-     I think I can distract Orton for a few seconds.
+<tr id="L379"><td><a href="#L379">379</a></td><td>CRUSHER:  Anyone who is an experienced rider naturally has his own saddle.</td></tr>
 
-  TROI
-     I don't think Orton's in a talking mood, Will.
+<tr id="L380"><td><a href="#L380">380</a></td><td>TROI:  It's perfectly normal.</td></tr>
 
-  RIKER
-     You just have to know how to talk to him. Orton, I
-     think we need to discuss the situation.
+<tr id="L381"><td><a href="#L381">381</a></td><td>PICARD:  Actually, it came in handy. I only wish I'd had the opportunity to use it on a horse.</td></tr>
 
-  ORTON
-     There is nothing to discuss. Sit down.
+<tr id="L382"><td><a href="#L382">382</a></td><td>WORF:  Of course.</td></tr>
 
-  RIKER
-     There's a lot to discuss. Can't we be reasonable?
-
-  ORTON
-     I am not interested in hearing your hostage
-     negotiation tactics, Commander.
-
-  RIKER
-     It can't hurt you to listen, can it?
-
-  ORTON
-     All right.
-
-  RIKER
-     Thank you. Now, the first thing I think we need to
-     discuss is this.
-
-  ANNOTATION
-     He knocks Orton down and gets thumped by the
-     waiter in return. The visor is set
-
-
-LOCATION--Corridor
-
-  ANNOTATION
-     The sweep is halfway through the saucer section
-
-  ANNOTATION
-     Picard shoots Pomet in the leg, and he passes out.
-     Picard is just getting his weapon when
-
-  KIROS
-     Hold it. Put your weapon down. Kelsey, this is
-     Kiros. I'm on deck ten.
-
-
-LOCATION--Jefferies tube
-
-  KIROS [OC]
-     I have Mott.
-
-  KELSEY
-     Is he alive?
-
-  KIROS [OC]
-     Yes.
-
-  KELSEY
-     Good. Meet us at intersection forty one.
-
-  KIROS [OC]
-     Understood.
-
-
-LOCATION--Corridor
-
-  KIROS
-     This way. Move.
-
-
-LOCATION--Jefferies tube
-
-  KELSEY
-     Give me the trilithium.
-
-  NEIL
-     How much farther do we have to go?
-
-  KELSEY
-     Not far. With all the modifications you've made to
-     this unit, are we going to have any troubles
-     removing the trilithium?
-
-  NEIL
-     No. Just remove the control rod, drain the unit.
-     There shouldn't be any problem.
-
-  KELSEY
-     That's all I wanted to know.
-
-  ANNOTATION
-     we can assume she kills Neil
-
-
-LOCATION--Corridor
-
-  KELSEY
-     Well, not as clever as you thought. Where's Pomet?
-
-  KIROS
-     He shot him with some kind of an arrow.
-
-  PICARD
-     He's not dead.
-
-  KELSEY
-     Well, he will be soon. The sweep's nearly here. We
-     don't have time to go back for him.
-
-  KIROS
-     What about Neil?
-
-  KELSEY
-     The sweep got him. Let's go.
-
-
-LOCATION--Arkaria base
-
-  TROI
-     I thought you were just going to talk to him.
-
-  RIKER
-     I did. He just didn't like what I had to say.
-
-  ANNOTATION
-     an alarm sounds, and Orton goes to a computer
-     terminal in a recess
-
-  DATA
-     That was a perimeter warning from the Remmler
-     Array. A small ship is approaching. I believe
-     Mister Orton has dropped his defence shields.
-
-  RIKER
-     This must be the sign they were waiting for.
-     Mister Data, you will be the only one unaffected
-     by the hypersonic burst. As soon as every else is
-     unconscious, I need you to get to the computer
-     panel and stop that ship somehow.
-
-  DATA
-     I will try, sir.
-
-  CRUSHER
-     Now.
-
-  ANNOTATION
-     an ear-splitting noise fills the room, and all the
-     people drop. Data takes the weapons and starts
-     work on the computer
-
-
-LOCATION--Corridor
-
-  PICARD
-     Kelsey, perhaps we can work out a deal.
-
-  KELSEY
-     You're the only one who needs a deal, Mot.
-
-  PICARD
-     My name isn't Mot. It's Jean-Luc Picard.
-
-  KELSEY
-     Captain Picard. This is all beginning to make
-     sense.
-
-  PICARD
-     Leave the trilithium here and take me with you.
-     You can use me as a hostage instead of threatening
-
-  KELSEY
-     I'm not a terrorist Captain, nor do I have a
-     political agenda, although I know some people who
-     do have agendas. And they are very interested in
-     this little container.
-
-  PICARD
-     Profit. This is all about profit.
-
-  KELSEY
-     I prefer to think of it as commerce. Open the
-     door. Now go through, slowly.
-
-
-LOCATION--Ten Forward
-
-  ANNOTATION
-     Picard, Kiros, then Kelsey enter. A blue stripe on
-     the floor flares, blinding the two women. Kelsey
-     drops the container. She and Picard fight, then
-     the sweep enters the room. They continue to
-     wrestle until Kelsey finally gets her hands on a
-     weapon again
-
-  KELSEY
-     I guess, I'll be the one to send your regrets.
-
-  ANNOTATION
-     Kelsey and the container are beamed out. Picard
-     uses the terrorist communicator.
-
-  PICARD
-     Picard to Arkaria base. Deactivate the baryon
-     sweep. Arkaria Base, this is Captain Picard on
-     board the Enterprise. Deactivate the baryon sweep!
-
-  ANNOTATION
-     Picard takes final refuge in Ten-Forward's windows
-
-  PICARD
-     Arkaria Base, this is Captain Picard. Deactivate
-     the baryon sweep immediately!
-
-  ANNOTATION
-     and the sweep stops
-
-  DATA [OC]
-     Data to Captain Picard. Do you read me, sir?
-
-  PICARD
-     Picard here.
-
-
-LOCATION--Arkaria base
-
-  ANNOTATION
-     Riker has Orton and the waiter under guard
-
-  DATA
-     Are you all right, Captain?
-
-
-LOCATION--Ten Forward
-
-  PICARD
-     Yes, Mister Data.
-
-  DATA
-     Sir, an unidentified
-
-
-LOCATION--Arkaria base
-
-  DATA
-     Scout ship has just beamed someone off the
-     Enterprise.
-
-
-LOCATION--Ten Forward
-
-  DATA [OC]
-     Do you know anything about it?
-
-  PICARD
-     I know they won't get very far.
-
-  ANNOTATION
-     Picard has the control rod in his hand. The little
-     ship goes ka-BOOM!
-
-
-LOCATION--Sickbay
-
-  CRUSHER
-     Hold still. You have got a nasty little cut here.
-
-  PICARD
-     Any luck?
-
-  TROI
-     I'm sorry, Captain. I don't know what could have
-     happened to it.
-
-  CRUSHER
-     Hold still. I can't heal this cleanly if you don't
-     stop fidgeting.
-
-  RIKER
-     I've had three security teams search deck seven.
-     They couldn't find anything.
-
-  CRUSHER
-     There.
-
-  ANNOTATION
-     Worf enters with a proper English saddle and
-     fleece
-
-  WORF
-     I found it. Someone put it in a maintenance
-     locker.
-
-  PICARD
-     Thank you.
-
-  WORF
-     Captain, you keep a saddle on board?
-
-  RIKER
-     Mister Worf, I'm surprised at you.
-
-  CRUSHER
-     Anyone who is an experienced rider naturally has
-     his own saddle.
-
-  TROI
-     It's perfectly normal.
-
-  PICARD
-     Actually, it came in handy. I only wish I'd had
-     the opportunity to use it on a horse.
-
-  WORF
-     Of course.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

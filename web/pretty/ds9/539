@@ -1,1755 +1,964 @@
-Honour Among Thieves
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Honour Among Thieves</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Tavern</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: On an average industrial planet, in an average slightly seedy bar, is the usual mix of aliens. A scruffy, casually dressed O'Brien is leaning on the bar listening to the conversation over at a table. The Bolian bartender is being discreetly deaf.</td></tr>
 
-LOCATION--Tavern
+<tr id="L2"><td><a href="#L2">2</a></td><td>FLITH:  (non-human) Raimus isn't going to be happy about this.</td></tr>
 
-  ANNOTATION
-     On an average industrial planet, in an average
-     slightly seedy bar, is the usual mix of aliens. A
-     scruffy, casually dressed O'Brien is leaning on
-     the bar listening to the conversation over at a
-     table. The Bolian bartender is being discreetly
-     deaf.
+<tr id="L3"><td><a href="#L3">3</a></td><td>KROLE:  (very non-human) What are you going to do?</td></tr>
 
-  FLITH
-     (non-human) Raimus isn't going to be happy about
-     this.
+<tr id="L4"><td><a href="#L4">4</a></td><td>BILBY:  (looks human) I don't know. And don't you mean what are we going to do?</td></tr>
 
-  KROLE
-     (very non-human) What are you going to do?
+<tr id="L5"><td><a href="#L5">5</a></td><td>ANNOTATION: Everyone say Hi! to [1]Nick Tate, my favourite Eagle pilot.</td></tr>
 
-  BILBY
-     (looks human) I don't know. And don't you mean
-     what are we going to do?
+<tr id="L6"><td><a href="#L6">6</a></td><td>KROLE:  Raimus told you to get the merchandise.</td></tr>
 
-  ANNOTATION
-     Everyone say Hi! to [1]Nick Tate, my favourite
-     Eagle pilot.
+<tr id="L7"><td><a href="#L7">7</a></td><td>BILBY:  I'll figure something out.</td></tr>
 
-  KROLE
-     Raimus told you to get the merchandise.
+<tr id="L8"><td><a href="#L8">8</a></td><td>FLITH:  You'd better.</td></tr>
 
-  BILBY
-     I'll figure something out.
+<tr id="L9"><td><a href="#L9">9</a></td><td>BILBY:  I said I'll figure it out. I'm hungry.</td></tr>
 
-  FLITH
-     You'd better.
+<tr id="L10"><td><a href="#L10">10</a></td><td>FLITH:  Let's have Krellan food.</td></tr>
 
-  BILBY
-     I said I'll figure it out. I'm hungry.
+<tr id="L11"><td><a href="#L11">11</a></td><td>BILBY:  No. Last time that gave me heartburn.</td></tr>
 
-  FLITH
-     Let's have Krellan food.
+<tr id="L12"><td><a href="#L12">12</a></td><td>FLITH:  That's because you eat too fast.</td></tr>
 
-  BILBY
-     No. Last time that gave me heartburn.
+<tr id="L13"><td><a href="#L13">13</a></td><td>BILBY:  I eat when I'm hungry. And when I'm hungry, I eat fast.</td></tr>
 
-  FLITH
-     That's because you eat too fast.
+<tr id="L14"><td><a href="#L14">14</a></td><td>FLITH:  If you're not careful that appetite of yours is going to kill you someday.</td></tr>
 
-  BILBY
-     I eat when I'm hungry. And when I'm hungry, I eat
-     fast.
+<tr id="L15"><td><a href="#L15">15</a></td><td>BILBY:  Don't get your hopes up.</td></tr>
 
-  FLITH
-     If you're not careful that appetite of yours is
-     going to kill you someday.
+<tr id="L16"><td><a href="#L16">16</a></td><td>ANNOTATION: A Yridian approaches the bar's comm. booth.</td></tr>
 
-  BILBY
-     Don't get your hopes up.
+<tr id="L17"><td><a href="#L17">17</a></td><td>BILBY:  Hey, we're using that comm. booth. Go. Order some nozala sandwiches.</td></tr>
 
-  ANNOTATION
-     A Yridian approaches the bar's comm. booth.
+<tr id="L18"><td><a href="#L18">18</a></td><td>ANNOTATION: Krole has a dataport fitted, and uses it to hack the system.</td></tr>
 
-  BILBY
-     Hey, we're using that comm. booth. Go. Order some
-     nozala sandwiches.
+<tr id="L19"><td><a href="#L19">19</a></td><td>COMPUTER:  Computer accessed.</td></tr>
 
-  ANNOTATION
-     Krole has a dataport fitted, and uses it to hack
-     the system.
+<tr id="L20"><td><a href="#L20">20</a></td><td>BILBY:  Get them to deliver some extra vilm sauce.</td></tr>
 
-  COMPUTER
-     Computer accessed.
+<tr id="L21"><td><a href="#L21">21</a></td><td>KROLE:  Who should I bill this time?</td></tr>
 
-  BILBY
-     Get them to deliver some extra vilm sauce.
+<tr id="L22"><td><a href="#L22">22</a></td><td>BILBY:  I don't care who pays for it, just so as long as it isn't us.</td></tr>
 
-  KROLE
-     Who should I bill this time?
+<tr id="L23"><td><a href="#L23">23</a></td><td>FLITH:  How about the police?</td></tr>
 
-  BILBY
-     I don't care who pays for it, just so as long as
-     it isn't us.
+<tr id="L24"><td><a href="#L24">24</a></td><td>KROLE:  No, we billed them for last night's dinner.</td></tr>
 
-  FLITH
-     How about the police?
+<tr id="L25"><td><a href="#L25">25</a></td><td>FLITH:  Municipal Sanitation. Do you have their account code?</td></tr>
 
-  KROLE
-     No, we billed them for last night's dinner.
+<tr id="L26"><td><a href="#L26">26</a></td><td>KROLE:  I will, in a minute.</td></tr>
 
-  FLITH
-     Municipal Sanitation. Do you have their account
-     code?
+<tr id="L27"><td><a href="#L27">27</a></td><td>ANNOTATION: O'Brien secretly points something at the comm. booth, and electricity leaps to Krole's dataport.</td></tr>
 
-  KROLE
-     I will, in a minute.
+<tr id="L28"><td><a href="#L28">28</a></td><td>BILBY:  Krole!</td></tr>
 
-  ANNOTATION
-     O'Brien secretly points something at the comm.
-     booth, and electricity leaps to Krole's dataport.
+<tr id="L29"><td><a href="#L29">29</a></td><td>O'BRIEN:  Don't! Don't touch him. He's being spiked.</td></tr>
 
-  BILBY
-     Krole!
+<tr id="L30"><td><a href="#L30">30</a></td><td>ANNOTATION: O'Brien reaches under the energy waves and disconnects the call.</td></tr>
 
-  O'BRIEN
-     Don't! Don't touch him. He's being spiked.
+<tr id="L31"><td><a href="#L31">31</a></td><td>BILBY:  You all right? They spiked him. They spiked him over a free lunch. What's this city coming to?</td></tr>
 
-  ANNOTATION
-     O'Brien reaches under the energy waves and
-     disconnects the call.
+<tr id="L32"><td><a href="#L32">32</a></td><td>KROLE:  Look at this. Fused.</td></tr>
 
-  BILBY
-     You all right? They spiked him. They spiked him
-     over a free lunch. What's this city coming to?
+<tr id="L33"><td><a href="#L33">33</a></td><td>ANNOTATION: The dataport attachment.</td></tr>
 
-  KROLE
-     Look at this. Fused.
+<tr id="L34"><td><a href="#L34">34</a></td><td>O'BRIEN:  Too bad. That's an expensive piece of hardware.</td></tr>
 
-  ANNOTATION
-     The dataport attachment.
+<tr id="L35"><td><a href="#L35">35</a></td><td>FLITH:  What are we going to do?</td></tr>
 
-  O'BRIEN
-     Too bad. That's an expensive piece of hardware.
+<tr id="L36"><td><a href="#L36">36</a></td><td>BILBY:  Don't you mean what is Krole going to do?</td></tr>
 
-  FLITH
-     What are we going to do?
+<tr id="L37"><td><a href="#L37">37</a></td><td>KROLE:  I can't go to Raimus and ask him to pay for a replacement.</td></tr>
 
-  BILBY
-     Don't you mean what is Krole going to do?
+<tr id="L38"><td><a href="#L38">38</a></td><td>O'BRIEN:  Well, it might not be as bad as it seems.</td></tr>
 
-  KROLE
-     I can't go to Raimus and ask him to pay for a
-     replacement.
+<tr id="L39"><td><a href="#L39">39</a></td><td>BILBY:  Are you saying you can fix it?</td></tr>
 
-  O'BRIEN
-     Well, it might not be as bad as it seems.
+<tr id="L40"><td><a href="#L40">40</a></td><td>O'BRIEN:  It depends.</td></tr>
 
-  BILBY
-     Are you saying you can fix it?
+<tr id="L41"><td><a href="#L41">41</a></td><td>BILBY:  On what?</td></tr>
 
-  O'BRIEN
-     It depends.
+<tr id="L42"><td><a href="#L42">42</a></td><td>O'BRIEN:  How much you're willing to pay.</td></tr>
 
-  BILBY
-     On what?
+<tr id="L43"><td><a href="#L43">43</a></td><td>BILBY:  Do you know who I am?</td></tr>
 
-  O'BRIEN
-     How much you're willing to pay.
+<tr id="L44"><td><a href="#L44">44</a></td><td>O'BRIEN:  No.</td></tr>
 
-  BILBY
-     Do you know who I am?
+<tr id="L45"><td><a href="#L45">45</a></td><td>BILBY:  Well if you did, you wouldn't ask that.</td></tr>
 
-  O'BRIEN
-     No.
+<tr id="L46"><td><a href="#L46">46</a></td><td>O'BRIEN:  All right. Who are you?</td></tr>
 
-  BILBY
-     Well if you did, you wouldn't ask that.
+<tr id="L47"><td><a href="#L47">47</a></td><td>BILBY:  Listen, Mister?</td></tr>
 
-  O'BRIEN
-     All right. Who are you?
+<tr id="L48"><td><a href="#L48">48</a></td><td>O'BRIEN:  Connelly.</td></tr>
 
-  BILBY
-     Listen, Mister?
+<tr id="L49"><td><a href="#L49">49</a></td><td>BILBY:  I've seen you around here these last few weeks. You're always in here, tinkering around with one piece of junk or another, which tells me that things are not going too well for you. Now, here's my advice to you. Give them to me. You take these. You bring them back tomorrow morning fixed and polished.</td></tr>
 
-  O'BRIEN
-     Connelly.
+<tr id="L50"><td><a href="#L50">50</a></td><td>O'BRIEN:  Tomorrow morning it is.</td></tr>
 
-  BILBY
-     I've seen you around here these last few weeks.
-     You're always in here, tinkering around with one
-     piece of junk or another, which tells me that
-     things are not going too well for you. Now, here's
-     my advice to you. Give them to me. You take these.
-     You bring them back tomorrow morning fixed and
-     polished.
+<tr><td></td><td>LOCATION--Alley</td></tr>
+<tr id="L51"><td><a href="#L51">51</a></td><td>ANNOTATION: A clandestine night time meeting.</td></tr>
 
-  O'BRIEN
-     Tomorrow morning it is.
+<tr id="L52"><td><a href="#L52">52</a></td><td>O'BRIEN:  Bilby asked me to fix these for him.</td></tr>
 
+<tr id="L53"><td><a href="#L53">53</a></td><td>CHADWICK:  I'm impressed. I don't think anyone's managed to make contact with the Orion Syndicate so quickly. How'd you do it?</td></tr>
 
-LOCATION--Alley
+<tr id="L54"><td><a href="#L54">54</a></td><td>O'BRIEN:  I spiked one of his men while he was interfacing.</td></tr>
 
-  ANNOTATION
-     A clandestine night time meeting.
+<tr id="L55"><td><a href="#L55">55</a></td><td>CHADWICK:  That was a risky thing to do.</td></tr>
 
-  O'BRIEN
-     Bilby asked me to fix these for him.
+<tr id="L56"><td><a href="#L56">56</a></td><td>O'BRIEN:  Well, maybe. But I had to get noticed. I want to get this mission over with and go home.</td></tr>
 
-  CHADWICK
-     I'm impressed. I don't think anyone's managed to
-     make contact with the Orion Syndicate so quickly.
-     How'd you do it?
+<tr id="L57"><td><a href="#L57">57</a></td><td>CHADWICK:  I realise you didn't exactly volunteer for this. Believe me, I wish we hadn't been forced to turn to someone outside Starfleet Intelligence for help.</td></tr>
 
-  O'BRIEN
-     I spiked one of his men while he was interfacing.
+<tr id="L58"><td><a href="#L58">58</a></td><td>O'BRIEN:  Me, too.</td></tr>
 
-  CHADWICK
-     That was a risky thing to do.
+<tr id="L59"><td><a href="#L59">59</a></td><td>CHADWICK:  The Syndicate killed another one of our undercover operatives last week.</td></tr>
 
-  O'BRIEN
-     Well, maybe. But I had to get noticed. I want to
-     get this mission over with and go home.
+<tr id="L60"><td><a href="#L60">60</a></td><td>O'BRIEN:  That makes five in the last year.</td></tr>
 
-  CHADWICK
-     I realise you didn't exactly volunteer for this.
-     Believe me, I wish we hadn't been forced to turn
-     to someone outside Starfleet Intelligence for
-     help.
+<tr id="L61"><td><a href="#L61">61</a></td><td>CHADWICK:  We need you to find out who their informant in Starfleet is. Once you give me the name, I'll put you on the next transport home.</td></tr>
 
-  O'BRIEN
-     Me, too.
+<tr id="L62"><td><a href="#L62">62</a></td><td>ANNOTATION: Sound of breaking glass.</td></tr>
 
-  CHADWICK
-     The Syndicate killed another one of our undercover
-     operatives last week.
+<tr id="L63"><td><a href="#L63">63</a></td><td>O'BRIEN:  So, what do you want me to do now?</td></tr>
 
-  O'BRIEN
-     That makes five in the last year.
+<tr id="L64"><td><a href="#L64">64</a></td><td>CHADWICK:  Bilby's going to check into your background. Whatever he finds will confirm that you're a fix-it man down on your luck. Stick to that cover. The Syndicate is always looking for people with your skills. If Bilby offers you more work, take it. Get as close to him as possible.</td></tr>
 
-  CHADWICK
-     We need you to find out who their informant in
-     Starfleet is. Once you give me the name, I'll put
-     you on the next transport home.
+<tr id="L65"><td><a href="#L65">65</a></td><td>O'BRIEN:  Right.</td></tr>
 
-  ANNOTATION
-     Sound of breaking glass.
+<tr id="L66"><td><a href="#L66">66</a></td><td>CHADWICK:  O'Brien. Don't take any more unnecessary risks. These are dangerous men. If they find out who you are, they'll kill you.</td></tr>
 
-  O'BRIEN
-     So, what do you want me to do now?
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L67"><td><a href="#L67">67</a></td><td>ANNOTATION: Odo and Quark enter through different doors.</td></tr>
 
-  CHADWICK
-     Bilby's going to check into your background.
-     Whatever he finds will confirm that you're a
-     fix-it man down on your luck. Stick to that cover.
-     The Syndicate is always looking for people with
-     your skills. If Bilby offers you more work, take
-     it. Get as close to him as possible.
+<tr id="L68"><td><a href="#L68">68</a></td><td>QUARK:  Major, I'm sorry</td></tr>
 
-  O'BRIEN
-     Right.
+<tr id="L69"><td><a href="#L69">69</a></td><td>ODO:  Excuse me, Major</td></tr>
 
-  CHADWICK
-     O'Brien. Don't take any more unnecessary risks.
-     These are dangerous men. If they find out who you
-     are, they'll kill you.
+<tr id="L70"><td><a href="#L70">70</a></td><td>ODO + Odo:  Go ahead.</td></tr>
 
+<tr id="L71"><td><a href="#L71">71</a></td><td>QUARK:  There's something wrong with</td></tr>
 
-LOCATION--Ops
+<tr id="L72"><td><a href="#L72">72</a></td><td>ODO:  I need a</td></tr>
 
-  ANNOTATION
-     Odo and Quark enter through different doors.
+<tr id="L73"><td><a href="#L73">73</a></td><td>KIRA:  All right. You first, then you.</td></tr>
 
-  QUARK
-     Major, I'm sorry
+<tr id="L74"><td><a href="#L74">74</a></td><td>ODO:  I need an engineering crew to run a diagnostic on the internal security sensors. There's been an unusual number of false alarms lately.</td></tr>
 
-  ODO
-     Excuse me, Major
+<tr id="L75"><td><a href="#L75">75</a></td><td>KIRA:  I'll have someone take a look as soon as possible. Now, Quark.</td></tr>
 
-  ODO + Odo
-     Go ahead.
+<tr id="L76"><td><a href="#L76">76</a></td><td>QUARK:  There's something wrong with the fire suppression system in the bar. Every time I serve a flaming cocktail, the system engages and snuffs it out.</td></tr>
 
-  QUARK
-     There's something wrong with
+<tr id="L77"><td><a href="#L77">77</a></td><td>KIRA:  I'll put it on the list.</td></tr>
 
-  ODO
-     I need a
+<tr id="L78"><td><a href="#L78">78</a></td><td>QUARK:  Please do. You have no idea what people are willing to pay for a glass of burning alcohol.</td></tr>
 
-  KIRA
-     All right. You first, then you.
+<tr id="L79"><td><a href="#L79">79</a></td><td>BASHIR:  Excuse me. Major?</td></tr>
 
-  ODO
-     I need an engineering crew to run a diagnostic on
-     the internal security sensors. There's been an
-     unusual number of false alarms lately.
+<tr id="L80"><td><a href="#L80">80</a></td><td>KIRA:  Oh, let me guess. There's a malfunction in the Infirmary.</td></tr>
 
-  KIRA
-     I'll have someone take a look as soon as possible.
-     Now, Quark.
+<tr id="L81"><td><a href="#L81">81</a></td><td>BASHIR:  How did you know?</td></tr>
 
-  QUARK
-     There's something wrong with the fire suppression
-     system in the bar. Every time I serve a flaming
-     cocktail, the system engages and snuffs it out.
+<tr id="L82"><td><a href="#L82">82</a></td><td>ANNOTATION: The turbolift stops just below the floor level</td></tr>
 
-  KIRA
-     I'll put it on the list.
+<tr id="L83"><td><a href="#L83">83</a></td><td>WORF:  Major, there is something wrong with the turbolift.</td></tr>
 
-  QUARK
-     Please do. You have no idea what people are
-     willing to pay for a glass of burning alcohol.
+<tr id="L84"><td><a href="#L84">84</a></td><td>KIRA:  I can see that.</td></tr>
 
-  BASHIR
-     Excuse me. Major?
+<tr id="L85"><td><a href="#L85">85</a></td><td>DAX:  We seem to be having a lot of system glitches.</td></tr>
 
-  KIRA
-     Oh, let me guess. There's a malfunction in the
-     Infirmary.
+<tr id="L86"><td><a href="#L86">86</a></td><td>KIRA:  It happens every time Chief O'Brien goes away.</td></tr>
 
-  BASHIR
-     How did you know?
+<tr id="L87"><td><a href="#L87">87</a></td><td>WORF:  I do not understand why his staff cannot keep the station running in his absence.</td></tr>
 
-  ANNOTATION
-     The turbolift stops just below the floor level
+<tr id="L88"><td><a href="#L88">88</a></td><td>QUARK:  He must have left my idiot brother in charge.</td></tr>
 
-  WORF
-     Major, there is something wrong with the
-     turbolift.
+<tr id="L89"><td><a href="#L89">89</a></td><td>KIRA:  The engineering crew are doing the best they can.</td></tr>
 
-  KIRA
-     I can see that.
+<tr id="L90"><td><a href="#L90">90</a></td><td>DAX:  The problem is no one knows how the Chief keeps all this Federation and Cardassian technology working together.</td></tr>
 
-  DAX
-     We seem to be having a lot of system glitches.
+<tr id="L91"><td><a href="#L91">91</a></td><td>QUARK:  We've got to do something. This can't go on.</td></tr>
 
-  KIRA
-     It happens every time Chief O'Brien goes away.
+<tr><td></td><td>LOCATION--Captain's office</td></tr>
+<tr id="L92"><td><a href="#L92">92</a></td><td>SISKO:  Sorry, I can't discuss the Chief's whereabouts.</td></tr>
 
-  WORF
-     I do not understand why his staff cannot keep the
-     station running in his absence.
+<tr id="L93"><td><a href="#L93">93</a></td><td>BASHIR:  I understand that, sir, but it's getting ridiculous, isn't it? How much longer are we supposed to put up with these malfunctions?</td></tr>
 
-  QUARK
-     He must have left my idiot brother in charge.
+<tr id="L94"><td><a href="#L94">94</a></td><td>SISKO:  You know, I wouldn't surprise me if Major Kira or Commander Worf came in here demanding answers. But you? It's not your style.</td></tr>
 
-  KIRA
-     The engineering crew are doing the best they can.
+<tr id="L95"><td><a href="#L95">95</a></td><td>BASHIR:  Apparently it is. Here I am.</td></tr>
 
-  DAX
-     The problem is no one knows how the Chief keeps
-     all this Federation and Cardassian technology
-     working together.
+<tr id="L96"><td><a href="#L96">96</a></td><td>SISKO:  I'm not buying it, Doctor. You didn't come in here to complain. You came in here because you are worried about your friend and you want me to set your mind at ease. I wish I could. But if it helps, I will tell you this. The Chief can take care of himself about as well as anyone I know.</td></tr>
 
-  QUARK
-     We've got to do something. This can't go on.
+<tr id="L97"><td><a href="#L97">97</a></td><td>BASHIR:  You're right about that, sir. You're right about that.</td></tr>
 
+<tr><td></td><td>LOCATION--Tavern</td></tr>
+<tr id="L98"><td><a href="#L98">98</a></td><td>ANNOTATION: Bilby, Krole and Flith are playing cards when O'Brien enters.</td></tr>
 
-LOCATION--Captain's office
+<tr id="L99"><td><a href="#L99">99</a></td><td>BILBY:  Did you fix it?</td></tr>
 
-  SISKO
-     Sorry, I can't discuss the Chief's whereabouts.
+<tr id="L100"><td><a href="#L100">100</a></td><td>KROLE:  Any feedback?</td></tr>
 
-  BASHIR
-     I understand that, sir, but it's getting
-     ridiculous, isn't it? How much longer are we
-     supposed to put up with these malfunctions?
+<tr id="L101"><td><a href="#L101">101</a></td><td>BILBY:  Feedback gives him a headache.</td></tr>
 
-  SISKO
-     You know, I wouldn't surprise me if Major Kira or
-     Commander Worf came in here demanding answers. But
-     you? It's not your style.
+<tr id="L102"><td><a href="#L102">102</a></td><td>O'BRIEN:  No, there's no feedback.</td></tr>
 
-  BASHIR
-     Apparently it is. Here I am.
+<tr id="L103"><td><a href="#L103">103</a></td><td>KROLE:  Well, we'll see, won't we?</td></tr>
 
-  SISKO
-     I'm not buying it, Doctor. You didn't come in here
-     to complain. You came in here because you are
-     worried about your friend and you want me to set
-     your mind at ease. I wish I could. But if it
-     helps, I will tell you this. The Chief can take
-     care of himself about as well as anyone I know.
+<tr id="L104"><td><a href="#L104">104</a></td><td>ANNOTATION: Krole plugs himself in.</td></tr>
 
-  BASHIR
-     You're right about that, sir. You're right about
-     that.
+<tr id="L105"><td><a href="#L105">105</a></td><td>O'BRIEN:  I told you.</td></tr>
 
+<tr id="L106"><td><a href="#L106">106</a></td><td>BILBY:  Very impressive. You know, if I was a suspicious man I might ask myself how a tinkerer living in one room on Jinami Street managed to fix such a complicated piece of hardware so quickly.</td></tr>
 
-LOCATION--Tavern
+<tr id="L107"><td><a href="#L107">107</a></td><td>FLITH:  Good question.</td></tr>
 
-  ANNOTATION
-     Bilby, Krole and Flith are playing cards when
-     O'Brien enters.
+<tr id="L108"><td><a href="#L108">108</a></td><td>O'BRIEN:  How do you know where I live?</td></tr>
 
-  BILBY
-     Did you fix it?
+<tr id="L109"><td><a href="#L109">109</a></td><td>BILBY:  I know a lot about you. Maybe more than you want me to. Come with me.</td></tr>
 
-  KROLE
-     Any feedback?
+<tr id="L110"><td><a href="#L110">110</a></td><td>O'BRIEN:  Where are we going?</td></tr>
 
-  BILBY
-     Feedback gives him a headache.
+<tr id="L111"><td><a href="#L111">111</a></td><td>BILBY:  For a walk.</td></tr>
 
-  O'BRIEN
-     No, there's no feedback.
+<tr><td></td><td>LOCATION--Bilby's apartment</td></tr>
+<tr id="L112"><td><a href="#L112">112</a></td><td>BILBY:  Have a seat. Not there.</td></tr>
 
-  KROLE
-     Well, we'll see, won't we?
+<tr id="L113"><td><a href="#L113">113</a></td><td>ANNOTATION: A cat leaps onto the chair. There's a picture of a woman and children on a table.</td></tr>
 
-  ANNOTATION
-     Krole plugs himself in.
+<tr id="L114"><td><a href="#L114">114</a></td><td>BILBY:  Chester doesn't like people sitting in his chair. Don't touch anything.</td></tr>
 
-  O'BRIEN
-     I told you.
+<tr id="L115"><td><a href="#L115">115</a></td><td>ANNOTATION: Bilby opens a safe and fetches a Klingon disruptor rifle.</td></tr>
 
-  BILBY
-     Very impressive. You know, if I was a suspicious
-     man I might ask myself how a tinkerer living in
-     one room on Jinami Street managed to fix such a
-     complicated piece of hardware so quickly.
+<tr id="L116"><td><a href="#L116">116</a></td><td>BILBY:  Something wrong?</td></tr>
 
-  FLITH
-     Good question.
+<tr id="L117"><td><a href="#L117">117</a></td><td>O'BRIEN:  You tell me.</td></tr>
 
-  O'BRIEN
-     How do you know where I live?
+<tr id="L118"><td><a href="#L118">118</a></td><td>BILBY:  Did you think I brought you here to kill you? Why would I kill somebody that can fix things for me? I guess a man that's been knocked around as much as you have is always expecting the worst, huh?</td></tr>
 
-  BILBY
-     I know a lot about you. Maybe more than you want
-     me to. Come with me.
+<tr id="L119"><td><a href="#L119">119</a></td><td>O'BRIEN:  Well, I've pretty much had to get used to the idea that I've got bad luck.</td></tr>
 
-  O'BRIEN
-     Where are we going?
+<tr id="L120"><td><a href="#L120">120</a></td><td>BILBY:  Yeah, that was a tough break on Dayos Four. Two years for dealing in stolen goods?</td></tr>
 
-  BILBY
-     For a walk.
+<tr id="L121"><td><a href="#L121">121</a></td><td>O'BRIEN:  I didn't know they were stolen. I guess I should've asked the guy I bought it from, huh?</td></tr>
 
+<tr id="L122"><td><a href="#L122">122</a></td><td>BILBY:  Who's to say he'd have told you the truth. Take this, for example. My employer asked me to get three Klingon disruptors for him. Did the man I bought them from tell me they didn't work? No, he did not. Have a look.</td></tr>
 
-LOCATION--Bilby's apartment
+<tr id="L123"><td><a href="#L123">123</a></td><td>O'BRIEN:  The induction coil is burned out.</td></tr>
 
-  BILBY
-     Have a seat. Not there.
+<tr id="L124"><td><a href="#L124">124</a></td><td>BILBY:  Can you fix it?</td></tr>
 
-  ANNOTATION
-     A cat leaps onto the chair. There's a picture of a
-     woman and children on a table.
+<tr id="L125"><td><a href="#L125">125</a></td><td>O'BRIEN:  Sure.</td></tr>
 
-  BILBY
-     Chester doesn't like people sitting in his chair.
-     Don't touch anything.
+<tr id="L126"><td><a href="#L126">126</a></td><td>BILBY:  I'm glad to hear it. It's going to make my employer very happy.</td></tr>
 
-  ANNOTATION
-     Bilby opens a safe and fetches a Klingon disruptor
-     rifle.
+<tr id="L127"><td><a href="#L127">127</a></td><td>O'BRIEN:  What does he want with Klingon disruptors?</td></tr>
 
-  BILBY
-     Something wrong?
+<tr id="L128"><td><a href="#L128">128</a></td><td>BILBY:  I didn't ask him. When Raimus tells you to do something, you just do it. You hungry?</td></tr>
 
-  O'BRIEN
-     You tell me.
+<tr id="L129"><td><a href="#L129">129</a></td><td>O'BRIEN:  A little.</td></tr>
 
-  BILBY
-     Did you think I brought you here to kill you? Why
-     would I kill somebody that can fix things for me?
-     I guess a man that's been knocked around as much
-     as you have is always expecting the worst, huh?
+<tr id="L130"><td><a href="#L130">130</a></td><td>BILBY:  Have some cake. My wife sent it.</td></tr>
 
-  O'BRIEN
-     Well, I've pretty much had to get used to the idea
-     that I've got bad luck.
+<tr id="L131"><td><a href="#L131">131</a></td><td>O'BRIEN:  No, thanks.</td></tr>
 
-  BILBY
-     Yeah, that was a tough break on Dayos Four. Two
-     years for dealing in stolen goods?
+<tr id="L132"><td><a href="#L132">132</a></td><td>BILBY:  Go ahead.</td></tr>
 
-  O'BRIEN
-     I didn't know they were stolen. I guess I
-     should've asked the guy I bought it from, huh?
+<tr id="L133"><td><a href="#L133">133</a></td><td>ANNOTATION: O'Brien takes a piece. It crunches when he bites into it.</td></tr>
 
-  BILBY
-     Who's to say he'd have told you the truth. Take
-     this, for example. My employer asked me to get
-     three Klingon disruptors for him. Did the man I
-     bought them from tell me they didn't work? No, he
-     did not. Have a look.
+<tr id="L134"><td><a href="#L134">134</a></td><td>O'BRIEN:  (lying) It's good.</td></tr>
 
-  O'BRIEN
-     The induction coil is burned out.
+<tr id="L135"><td><a href="#L135">135</a></td><td>BILBY:  Yeah, she makes it herself. This is her. These are my children.</td></tr>
 
-  BILBY
-     Can you fix it?
+<tr id="L136"><td><a href="#L136">136</a></td><td>O'BRIEN:  Oh, great. Where are they?</td></tr>
 
-  O'BRIEN
-     Sure.
+<tr id="L137"><td><a href="#L137">137</a></td><td>BILBY:  They're in New Sydney. I'd love to have them here on Farius, but considering the business I'm in, it's not a good idea. You got a family?</td></tr>
 
-  BILBY
-     I'm glad to hear it. It's going to make my
-     employer very happy.
+<tr id="L138"><td><a href="#L138">138</a></td><td>O'BRIEN:  No.</td></tr>
 
-  O'BRIEN
-     What does he want with Klingon disruptors?
+<tr id="L139"><td><a href="#L139">139</a></td><td>BILBY:  You should. It's the most important thing. I send them everything. I pay my fare to Raimus, the rest goes straight to my wife.</td></tr>
 
-  BILBY
-     I didn't ask him. When Raimus tells you to do
-     something, you just do it. You hungry?
+<tr id="L140"><td><a href="#L140">140</a></td><td>O'BRIEN:  Your fare?</td></tr>
 
-  O'BRIEN
-     A little.
+<tr id="L141"><td><a href="#L141">141</a></td><td>BILBY:  Yeah, to Raimus, every month. That's the way it works. He's above me in the organisation. You do know what organisation I'm referring to, don't you.</td></tr>
 
-  BILBY
-     Have some cake. My wife sent it.
+<tr id="L142"><td><a href="#L142">142</a></td><td>O'BRIEN:  I think so.</td></tr>
 
-  O'BRIEN
-     No, thanks.
+<tr id="L143"><td><a href="#L143">143</a></td><td>BILBY:  Good. Krole and Flith, the gentlemen you met earlier, they're below me.</td></tr>
 
-  BILBY
-     Go ahead.
+<tr id="L144"><td><a href="#L144">144</a></td><td>O'BRIEN:  Lucky them.</td></tr>
 
-  ANNOTATION
-     O'Brien takes a piece. It crunches when he bites
-     into it.
+<tr id="L145"><td><a href="#L145">145</a></td><td>BILBY:  If you fix these disruptors for me, you could be lucky, too.</td></tr>
 
-  O'BRIEN
-     (lying) It's good.
+<tr id="L146"><td><a href="#L146">146</a></td><td>O'BRIEN:  That's good to know.</td></tr>
 
-  BILBY
-     Yeah, she makes it herself. This is her. These are
-     my children.
+<tr id="L147"><td><a href="#L147">147</a></td><td>BILBY:  Don't misunderstand. I'm not promising anything. I just need to be sure I can trust you first. Have some more cake.</td></tr>
 
-  O'BRIEN
-     Oh, great. Where are they?
+<tr id="L148"><td><a href="#L148">148</a></td><td>O'BRIEN:  No, thanks.</td></tr>
 
-  BILBY
-     They're in New Sydney. I'd love to have them here
-     on Farius, but considering the business I'm in,
-     it's not a good idea. You got a family?
+<tr id="L149"><td><a href="#L149">149</a></td><td>BILBY:  I thought you said you were hungry.</td></tr>
 
-  O'BRIEN
-     No.
+<tr id="L150"><td><a href="#L150">150</a></td><td>O'BRIEN:  I'm all right.</td></tr>
 
-  BILBY
-     You should. It's the most important thing. I send
-     them everything. I pay my fare to Raimus, the rest
-     goes straight to my wife.
+<tr id="L151"><td><a href="#L151">151</a></td><td>BILBY:  What's the matter? Don't you like my wife's cake?</td></tr>
 
-  O'BRIEN
-     Your fare?
+<tr id="L152"><td><a href="#L152">152</a></td><td>O'BRIEN:  I didn't say that.</td></tr>
 
-  BILBY
-     Yeah, to Raimus, every month. That's the way it
-     works. He's above me in the organisation. You do
-     know what organisation I'm referring to, don't
-     you.
+<tr id="L153"><td><a href="#L153">153</a></td><td>BILBY:  So answer me. Do you like my wife's cake?</td></tr>
 
-  O'BRIEN
-     I think so.
+<tr id="L154"><td><a href="#L154">154</a></td><td>O'BRIEN:  To tell you the truth, it's a little dry.</td></tr>
 
-  BILBY
-     Good. Krole and Flith, the gentlemen you met
-     earlier, they're below me.
+<tr id="L155"><td><a href="#L155">155</a></td><td>BILBY:  You're right. It is. Had you wondering which way to jump, didn't I? You know, Krole and Flith, they always act as if it's the best thing they ever tasted. Hey, what do you make of that, Chester? I've found me an honest man. Must be my lucky day.</td></tr>
 
-  O'BRIEN
-     Lucky them.
+<tr><td></td><td>LOCATION--Alley</td></tr>
+<tr id="L156"><td><a href="#L156">156</a></td><td>CHADWICK:  The induction coils you asked for, courtesy of the Klingon Ambassador to Farius.</td></tr>
 
-  BILBY
-     If you fix these disruptors for me, you could be
-     lucky, too.
+<tr id="L157"><td><a href="#L157">157</a></td><td>O'BRIEN:  There's a Klingon Ambassador here? Gowron mustn't like him too much.</td></tr>
 
-  O'BRIEN
-     That's good to know.
+<tr id="L158"><td><a href="#L158">158</a></td><td>CHADWICK:  Do you have any idea why Raimus wants these disruptors?</td></tr>
 
-  BILBY
-     Don't misunderstand. I'm not promising anything. I
-     just need to be sure I can trust you first. Have
-     some more cake.
+<tr id="L159"><td><a href="#L159">159</a></td><td>O'BRIEN:  No. Bilby doesn't even know. Listen, is there any way I could talk to my wife and let her know I'm all right?</td></tr>
 
-  O'BRIEN
-     No, thanks.
+<tr id="L160"><td><a href="#L160">160</a></td><td>CHADWICK:  We can't risk it. I'm sorry.</td></tr>
 
-  BILBY
-     I thought you said you were hungry.
+<tr id="L161"><td><a href="#L161">161</a></td><td>O'BRIEN:  I'd better be going.</td></tr>
 
-  O'BRIEN
-     I'm all right.
+<tr><td></td><td>LOCATION--Tavern</td></tr>
+<tr id="L162"><td><a href="#L162">162</a></td><td>ANNOTATION: The disrupters are delivered outside opening hours.</td></tr>
 
-  BILBY
-     What's the matter? Don't you like my wife's cake?
+<tr id="L163"><td><a href="#L163">163</a></td><td>KROLE:  Flith, go stand over there.</td></tr>
 
-  O'BRIEN
-     I didn't say that.
+<tr id="L164"><td><a href="#L164">164</a></td><td>FLITH:  Why?</td></tr>
 
-  BILBY
-     So answer me. Do you like my wife's cake?
+<tr id="L165"><td><a href="#L165">165</a></td><td>KROLE:  I want to see if he really fixed this.</td></tr>
 
-  O'BRIEN
-     To tell you the truth, it's a little dry.
+<tr id="L166"><td><a href="#L166">166</a></td><td>FLITH:  Very funny.</td></tr>
 
-  BILBY
-     You're right. It is. Had you wondering which way
-     to jump, didn't I? You know, Krole and Flith, they
-     always act as if it's the best thing they ever
-     tasted. Hey, what do you make of that, Chester?
-     I've found me an honest man. Must be my lucky day.
+<tr id="L167"><td><a href="#L167">167</a></td><td>BILBY:  Contact Raimus. Tell him we have the disruptors. Good job.</td></tr>
 
+<tr id="L168"><td><a href="#L168">168</a></td><td>FLITH:  I'm curious about something. How did you get a hold of replacement parts? Klingon technology isn't easy to come by.</td></tr>
 
-LOCATION--Alley
+<tr id="L169"><td><a href="#L169">169</a></td><td>O'BRIEN:  Ah, you know, you have to know who to go to.</td></tr>
 
-  CHADWICK
-     The induction coils you asked for, courtesy of the
-     Klingon Ambassador to Farius.
+<tr id="L170"><td><a href="#L170">170</a></td><td>FLITH:  Why don't you enlighten us in case we need to procure something else?</td></tr>
 
-  O'BRIEN
-     There's a Klingon Ambassador here? Gowron mustn't
-     like him too much.
+<tr id="L171"><td><a href="#L171">171</a></td><td>O'BRIEN:  I've got a better idea. Why don't you stay out of my business?</td></tr>
 
-  CHADWICK
-     Do you have any idea why Raimus wants these
-     disruptors?
+<tr id="L172"><td><a href="#L172">172</a></td><td>BILBY:  Tell us where you got the parts. We can always use a good contact.</td></tr>
 
-  O'BRIEN
-     No. Bilby doesn't even know. Listen, is there any
-     way I could talk to my wife and let her know I'm
-     all right?
+<tr id="L173"><td><a href="#L173">173</a></td><td>O'BRIEN:  I can't.</td></tr>
 
-  CHADWICK
-     We can't risk it. I'm sorry.
+<tr id="L174"><td><a href="#L174">174</a></td><td>BILBY:  Why not?</td></tr>
 
-  O'BRIEN
-     I'd better be going.
+<tr id="L175"><td><a href="#L175">175</a></td><td>O'BRIEN:  Well, my supplier would rather remain anonymous.</td></tr>
 
+<tr id="L176"><td><a href="#L176">176</a></td><td>BILBY:  I don't care about your supplier. I'm asking the question.</td></tr>
 
-LOCATION--Tavern
+<tr id="L177"><td><a href="#L177">177</a></td><td>O'BRIEN:  I told him I wouldn't.</td></tr>
 
-  ANNOTATION
-     The disrupters are delivered outside opening
-     hours.
+<tr id="L178"><td><a href="#L178">178</a></td><td>BILBY:  Where did you get the parts!</td></tr>
 
-  KROLE
-     Flith, go stand over there.
+<tr id="L179"><td><a href="#L179">179</a></td><td>O'BRIEN:  I stole them.</td></tr>
 
-  FLITH
-     Why?
+<tr id="L180"><td><a href="#L180">180</a></td><td>BILBY:  You stole them?</td></tr>
 
-  KROLE
-     I want to see if he really fixed this.
+<tr id="L181"><td><a href="#L181">181</a></td><td>O'BRIEN:  Yeah. From a warehouse down on Degora Street.</td></tr>
 
-  FLITH
-     Very funny.
+<tr id="L182"><td><a href="#L182">182</a></td><td>BILBY:  Why didn't you just say so?</td></tr>
 
-  BILBY
-     Contact Raimus. Tell him we have the disruptors.
-     Good job.
+<tr id="L183"><td><a href="#L183">183</a></td><td>O'BRIEN:  I thought it was better if you didn't know, you know, in case the police caught up with me.</td></tr>
 
-  FLITH
-     I'm curious about something. How did you get a
-     hold of replacement parts? Klingon technology
-     isn't easy to come by.
+<tr id="L184"><td><a href="#L184">184</a></td><td>BILBY:  You lied to me because you didn't want me to be implicated?</td></tr>
 
-  O'BRIEN
-     Ah, you know, you have to know who to go to.
+<tr id="L185"><td><a href="#L185">185</a></td><td>O'BRIEN:  Yeah. I'm sorry.</td></tr>
 
-  FLITH
-     Why don't you enlighten us in case we need to
-     procure something else?
+<tr id="L186"><td><a href="#L186">186</a></td><td>BILBY:  Did you hear that? He's willing to protect me if he gets caught. Try hard as I may, I can't imagine either of you willing to do that. Hey, you know something? I think it's time we did something about the way you look.</td></tr>
 
-  O'BRIEN
-     I've got a better idea. Why don't you stay out of
-     my business?
+<tr id="L187"><td><a href="#L187">187</a></td><td>ANNOTATION: Time passes and O'Brien shaved and in a new green suit. The silent bartender is watching it all.</td></tr>
 
-  BILBY
-     Tell us where you got the parts. We can always use
-     a good contact.
+<tr id="L188"><td><a href="#L188">188</a></td><td>BILBY:  Now that's more like it. I think you look great, Connolly. What do you think, Krole?</td></tr>
 
-  O'BRIEN
-     I can't.
+<tr id="L189"><td><a href="#L189">189</a></td><td>KROLE:  He looks fine.</td></tr>
 
-  BILBY
-     Why not?
+<tr id="L190"><td><a href="#L190">190</a></td><td>BILBY:  What are you talking about? I took him to the same tailor that I use.</td></tr>
 
-  O'BRIEN
-     Well, my supplier would rather remain anonymous.
+<tr id="L191"><td><a href="#L191">191</a></td><td>KROLE:  You look fine, too.</td></tr>
 
-  BILBY
-     I don't care about your supplier. I'm asking the
-     question.
+<tr id="L192"><td><a href="#L192">192</a></td><td>O'BRIEN:  Nice handkerchief.</td></tr>
 
-  O'BRIEN
-     I told him I wouldn't.
+<tr id="L193"><td><a href="#L193">193</a></td><td>ANNOTATION: An alien enters.</td></tr>
 
-  BILBY
-     Where did you get the parts!
+<tr id="L194"><td><a href="#L194">194</a></td><td>YINT:  I understand you've been looking for me.</td></tr>
 
-  O'BRIEN
-     I stole them.
+<tr id="L195"><td><a href="#L195">195</a></td><td>BILBY:  That's right.</td></tr>
 
-  BILBY
-     You stole them?
+<tr id="L196"><td><a href="#L196">196</a></td><td>YINT:  I take it you're in the market for something.</td></tr>
 
-  O'BRIEN
-     Yeah. From a warehouse down on Degora Street.
+<tr id="L197"><td><a href="#L197">197</a></td><td>BILBY:  Well if I was, I wouldn't buy anything from a man that sold me three useless disruptors.</td></tr>
 
-  BILBY
-     Why didn't you just say so?
+<tr id="L198"><td><a href="#L198">198</a></td><td>YINT:  You know me better than that.</td></tr>
 
-  O'BRIEN
-     I thought it was better if you didn't know, you
-     know, in case the police caught up with me.
+<tr id="L199"><td><a href="#L199">199</a></td><td>BILBY:  I thought I did.</td></tr>
 
-  BILBY
-     You lied to me because you didn't want me to be
-     implicated?
+<tr id="L200"><td><a href="#L200">200</a></td><td>YINT:  Those disruptors were working fine when I gave them to you. What happened after that, I don't know. Perhaps you dropped them?</td></tr>
 
-  O'BRIEN
-     Yeah. I'm sorry.
+<tr id="L201"><td><a href="#L201">201</a></td><td>ANNOTATION: Flith hands Bilby a disrupter.</td></tr>
 
-  BILBY
-     Did you hear that? He's willing to protect me if
-     he gets caught. Try hard as I may, I can't imagine
-     either of you willing to do that. Hey, you know
-     something? I think it's time we did something
-     about the way you look.
+<tr id="L202"><td><a href="#L202">202</a></td><td>BILBY:  I want my money back.</td></tr>
 
-  ANNOTATION
-     Time passes and O'Brien shaved and in a new green
-     suit. The silent bartender is watching it all.
+<tr id="L203"><td><a href="#L203">203</a></td><td>YINT:  You know I can't do that. You took delivery.</td></tr>
 
-  BILBY
-     Now that's more like it. I think you look great,
-     Connolly. What do you think, Krole?
+<tr id="L204"><td><a href="#L204">204</a></td><td>BILBY:  Let me get something straight. You're telling me there was nothing wrong with this when you sold it to me?</td></tr>
 
-  KROLE
-     He looks fine.
+<tr id="L205"><td><a href="#L205">205</a></td><td>YINT:  That's correct.</td></tr>
 
-  BILBY
-     What are you talking about? I took him to the same
-     tailor that I use.
+<tr id="L206"><td><a href="#L206">206</a></td><td>BILBY:  Well, maybe I just don't know how to work it.</td></tr>
 
-  KROLE
-     You look fine, too.
+<tr id="L207"><td><a href="#L207">207</a></td><td>YINT:  That must be it.</td></tr>
 
-  O'BRIEN
-     Nice handkerchief.
+<tr id="L208"><td><a href="#L208">208</a></td><td>ANNOTATION: Bilby shoots Yint in the leg.</td></tr>
 
-  ANNOTATION
-     An alien enters.
+<tr id="L209"><td><a href="#L209">209</a></td><td>BILBY:  What do you know? I figured it out.</td></tr>
 
-  YINT
-     I understand you've been looking for me.
+<tr id="L210"><td><a href="#L210">210</a></td><td>ANNOTATION: Bilby increases the power level.</td></tr>
 
-  BILBY
-     That's right.
+<tr id="L211"><td><a href="#L211">211</a></td><td>O'BRIEN:  Bilby!</td></tr>
 
-  YINT
-     I take it you're in the market for something.
+<tr id="L212"><td><a href="#L212">212</a></td><td>BILBY:  Do you know what would've happened if I'd given Raimus three useless disruptors? He'd have killed me.</td></tr>
 
-  BILBY
-     Well if I was, I wouldn't buy anything from a man
-     that sold me three useless disruptors.
+<tr id="L213"><td><a href="#L213">213</a></td><td>YINT:  If you want your money back, you can have it.</td></tr>
 
-  YINT
-     You know me better than that.
+<tr id="L214"><td><a href="#L214">214</a></td><td>BILBY:  Why would I want my money back? It works fine now.</td></tr>
 
-  BILBY
-     I thought I did.
+<tr id="L215"><td><a href="#L215">215</a></td><td>ANNOTATION: Bilby kills Yint.</td></tr>
 
-  YINT
-     Those disruptors were working fine when I gave
-     them to you. What happened after that, I don't
-     know. Perhaps you dropped them?
+<tr><td></td><td>LOCATION--Bilby's apartment</td></tr>
+<tr id="L216"><td><a href="#L216">216</a></td><td>ANNOTATION: Thunder and lightning outside, but the cat doesn't flinch.</td></tr>
 
-  ANNOTATION
-     Flith hands Bilby a disrupter.
+<tr id="L217"><td><a href="#L217">217</a></td><td>BILBY:  No one takes me for a fool. I'll do whatever it takes to protect what I have. This life, it isn't for everyone. Sometimes I wish I could just get away from it all. But what would I do with myself? I'm too old to start over. Besides, who am I to complain? The organisation's given me opportunities I never thought I'd have. Once you're part of it, once you're accepted, there's no limit to what you can do if you're smart about it.</td></tr>
 
-  BILBY
-     I want my money back.
+<tr id="L218"><td><a href="#L218">218</a></td><td>O'BRIEN:  Smart and careful.</td></tr>
 
-  YINT
-     You know I can't do that. You took delivery.
+<tr id="L219"><td><a href="#L219">219</a></td><td>BILBY:  Glad you're paying attention. I mean, we've got people everywhere. Even on Earth. Hell, we've even got a man in Starfleet.</td></tr>
 
-  BILBY
-     Let me get something straight. You're telling me
-     there was nothing wrong with this when you sold it
-     to me?
+<tr id="L220"><td><a href="#L220">220</a></td><td>O'BRIEN:  Come on. Starfleet?</td></tr>
 
-  YINT
-     That's correct.
+<tr id="L221"><td><a href="#L221">221</a></td><td>BILBY:  That's correct. Hey, would you do me a favour? Would you remind me to pick up a present for my daughter tomorrow? She's got a birthday coming up.</td></tr>
 
-  BILBY
-     Well, maybe I just don't know how to work it.
+<tr id="L222"><td><a href="#L222">222</a></td><td>O'BRIEN:  Sure thing.</td></tr>
 
-  YINT
-     That must be it.
+<tr id="L223"><td><a href="#L223">223</a></td><td>BILBY:  I want to be there. Sure hope I can make it.</td></tr>
 
-  ANNOTATION
-     Bilby shoots Yint in the leg.
+<tr id="L224"><td><a href="#L224">224</a></td><td>O'BRIEN:  How did you get to someone in Starfleet?</td></tr>
 
-  BILBY
-     What do you know? I figured it out.
+<tr id="L225"><td><a href="#L225">225</a></td><td>BILBY:  It wasn't me, it was Raimus. Hey, do you want to come to New Sydney with me? Meet my family?</td></tr>
 
-  ANNOTATION
-     Bilby increases the power level.
+<tr id="L226"><td><a href="#L226">226</a></td><td>O'BRIEN:  If you go, yeah. How did he do it?</td></tr>
 
-  O'BRIEN
-     Bilby!
+<tr id="L227"><td><a href="#L227">227</a></td><td>BILBY:  What's with all the questions?</td></tr>
 
-  BILBY
-     Do you know what would've happened if I'd given
-     Raimus three useless disruptors? He'd have killed
-     me.
+<tr id="L228"><td><a href="#L228">228</a></td><td>O'BRIEN:  Nothing. I just find it hard to believe that someone in Starfleet could be bought. Makes me wonder if he's a double-agent.</td></tr>
 
-  YINT
-     If you want your money back, you can have it.
+<tr id="L229"><td><a href="#L229">229</a></td><td>BILBY:  A double-agent? Then why would he have given us the names of all their undercover operatives? Don't worry, he's the real thing. Raimus met him when he was vacationing on Risa last year. Mister Starfleet was in charge of the weather control system. Raimus offered him a very substantial amount of money to make it stop raining.</td></tr>
 
-  BILBY
-     Why would I want my money back? It works fine now.
+<tr id="L230"><td><a href="#L230">230</a></td><td>O'BRIEN:  Well, everyone has their price, I guess.</td></tr>
 
-  ANNOTATION
-     Bilby kills Yint.
+<tr id="L231"><td><a href="#L231">231</a></td><td>ANNOTATION: Comm. unit beeps. A text message comes up.</td></tr>
 
+<tr id="L232"><td><a href="#L232">232</a></td><td>BILBY:  It's Krole. Raimus wants to see me.</td></tr>
 
-LOCATION--Bilby's apartment
+<tr id="L233"><td><a href="#L233">233</a></td><td>O'BRIEN:  What, in the middle of the night?</td></tr>
 
-  ANNOTATION
-     Thunder and lightning outside, but the cat doesn't
-     flinch.
+<tr><td></td><td>LOCATION--Tavern</td></tr>
+<tr id="L234"><td><a href="#L234">234</a></td><td>ANNOTATION: The barman busies himself as three people beam in. Two the same race, one very alien, and all in smart black suits.</td></tr>
 
-  BILBY
-     No one takes me for a fool. I'll do whatever it
-     takes to protect what I have. This life, it isn't
-     for everyone. Sometimes I wish I could just get
-     away from it all. But what would I do with myself?
-     I'm too old to start over. Besides, who am I to
-     complain? The organisation's given me
-     opportunities I never thought I'd have. Once
-     you're part of it, once you're accepted, there's
-     no limit to what you can do if you're smart about
-     it.
+<tr id="L235"><td><a href="#L235">235</a></td><td>RAIMUS:  Bilby.</td></tr>
 
-  O'BRIEN
-     Smart and careful.
+<tr id="L236"><td><a href="#L236">236</a></td><td>BILBY:  Raimus.</td></tr>
 
-  BILBY
-     Glad you're paying attention. I mean, we've got
-     people everywhere. Even on Earth. Hell, we've even
-     got a man in Starfleet.
+<tr id="L237"><td><a href="#L237">237</a></td><td>RAIMUS:  I've brought someone here to meet you.</td></tr>
 
-  O'BRIEN
-     Come on. Starfleet?
+<tr id="L238"><td><a href="#L238">238</a></td><td>ANNOTATION: He steps to one side to reveal a hidden fourth person.</td></tr>
 
-  BILBY
-     That's correct. Hey, would you do me a favour?
-     Would you remind me to pick up a present for my
-     daughter tomorrow? She's got a birthday coming up.
+<tr id="L239"><td><a href="#L239">239</a></td><td>VORTA:  I hope I didn't get you gentlemen out of bed.</td></tr>
 
-  O'BRIEN
-     Sure thing.
+<tr id="L240"><td><a href="#L240">240</a></td><td>RAIMUS:  Bilby, who is this?</td></tr>
 
-  BILBY
-     I want to be there. Sure hope I can make it.
+<tr id="L241"><td><a href="#L241">241</a></td><td>BILBY:  He's someone I know.</td></tr>
 
-  O'BRIEN
-     How did you get to someone in Starfleet?
+<tr id="L242"><td><a href="#L242">242</a></td><td>RAIMUS:  I've never seen him before. How well do you know him?</td></tr>
 
-  BILBY
-     It wasn't me, it was Raimus. Hey, do you want to
-     come to New Sydney with me? Meet my family?
+<tr id="L243"><td><a href="#L243">243</a></td><td>BILBY:  I know him.</td></tr>
 
-  O'BRIEN
-     If you go, yeah. How did he do it?
+<tr id="L244"><td><a href="#L244">244</a></td><td>RAIMUS:  Then it's settled.</td></tr>
 
-  BILBY
-     What's with all the questions?
+<tr id="L245"><td><a href="#L245">245</a></td><td>VORTA:  Is that the extent of your security precautions?</td></tr>
 
-  O'BRIEN
-     Nothing. I just find it hard to believe that
-     someone in Starfleet could be bought. Makes me
-     wonder if he's a double-agent.
+<tr id="L246"><td><a href="#L246">246</a></td><td>RAIMUS:  Bilby witnessed for him. That's all that's necessary.</td></tr>
 
-  BILBY
-     A double-agent? Then why would he have given us
-     the names of all their undercover operatives?
-     Don't worry, he's the real thing. Raimus met him
-     when he was vacationing on Risa last year. Mister
-     Starfleet was in charge of the weather control
-     system. Raimus offered him a very substantial
-     amount of money to make it stop raining.
+<tr id="L247"><td><a href="#L247">247</a></td><td>VORTA:  If you say so. So, this is Bilby. He seems capable enough.</td></tr>
 
-  O'BRIEN
-     Well, everyone has their price, I guess.
+<tr id="L248"><td><a href="#L248">248</a></td><td>RAIMUS:  I told you.</td></tr>
 
-  ANNOTATION
-     Comm. unit beeps. A text message comes up.
+<tr id="L249"><td><a href="#L249">249</a></td><td>VORTA:  I wanted to see for myself. You procured the disruptors for us.</td></tr>
 
-  BILBY
-     It's Krole. Raimus wants to see me.
+<tr id="L250"><td><a href="#L250">250</a></td><td>BILBY:  That's right.</td></tr>
 
-  O'BRIEN
-     What, in the middle of the night?
+<tr id="L251"><td><a href="#L251">251</a></td><td>VORTA:  We're going to ask you to do something else. Something very important.</td></tr>
 
+<tr id="L252"><td><a href="#L252">252</a></td><td>BILBY:  You can count on me.</td></tr>
 
-LOCATION--Tavern
+<tr id="L253"><td><a href="#L253">253</a></td><td>VORTA:  I hope so. We'll contact you when it's time.</td></tr>
 
-  ANNOTATION
-     The barman busies himself as three people beam in.
-     Two the same race, one very alien, and all in
-     smart black suits.
+<tr id="L254"><td><a href="#L254">254</a></td><td>RAIMUS:  Don't let me down.</td></tr>
 
-  RAIMUS
-     Bilby.
+<tr id="L255"><td><a href="#L255">255</a></td><td>BILBY:  I won't.</td></tr>
 
-  BILBY
-     Raimus.
+<tr id="L256"><td><a href="#L256">256</a></td><td>VORTA:  Raimus.</td></tr>
 
-  RAIMUS
-     I've brought someone here to meet you.
+<tr id="L257"><td><a href="#L257">257</a></td><td>RAIMUS:  My love to your family.</td></tr>
 
-  ANNOTATION
-     He steps to one side to reveal a hidden fourth
-     person.
+<tr id="L258"><td><a href="#L258">258</a></td><td>ANNOTATION: And the visitors beam out.</td></tr>
 
-  VORTA
-     I hope I didn't get you gentlemen out of bed.
+<tr id="L259"><td><a href="#L259">259</a></td><td>BILBY:  Do you know what I just did for you?</td></tr>
 
-  RAIMUS
-     Bilby, who is this?
+<tr id="L260"><td><a href="#L260">260</a></td><td>O'BRIEN:  I think so.</td></tr>
 
-  BILBY
-     He's someone I know.
+<tr id="L261"><td><a href="#L261">261</a></td><td>BILBY:  I witnessed for you. If anything happens, I'm accountable.</td></tr>
 
-  RAIMUS
-     I've never seen him before. How well do you know
-     him?
+<tr id="L262"><td><a href="#L262">262</a></td><td>O'BRIEN:  I understand.</td></tr>
 
-  BILBY
-     I know him.
+<tr id="L263"><td><a href="#L263">263</a></td><td>BILBY:  Good.</td></tr>
 
-  RAIMUS
-     Then it's settled.
+<tr><td></td><td>LOCATION--Alley</td></tr>
+<tr id="L264"><td><a href="#L264">264</a></td><td>CHADWICK:  Nice suit.</td></tr>
 
-  VORTA
-     Is that the extent of your security precautions?
+<tr id="L265"><td><a href="#L265">265</a></td><td>O'BRIEN:  Bilby got it for me.</td></tr>
 
-  RAIMUS
-     Bilby witnessed for him. That's all that's
-     necessary.
+<tr id="L266"><td><a href="#L266">266</a></td><td>CHADWICK:  That was generous.</td></tr>
 
-  VORTA
-     If you say so. So, this is Bilby. He seems capable
-     enough.
+<tr id="L267"><td><a href="#L267">267</a></td><td>O'BRIEN:  He's like that. I found out who the informer is. Bilby told me he was in charge of the weather control system on Risa about a year ago.</td></tr>
 
-  RAIMUS
-     I told you.
+<tr id="L268"><td><a href="#L268">268</a></td><td>CHADWICK:  It should be easy enough to figure out who that was.</td></tr>
 
-  VORTA
-     I wanted to see for myself. You procured the
-     disruptors for us.
+<tr id="L269"><td><a href="#L269">269</a></td><td>O'BRIEN:  Yeah.</td></tr>
 
-  BILBY
-     That's right.
+<tr id="L270"><td><a href="#L270">270</a></td><td>CHADWICK:  Something wrong?</td></tr>
 
-  VORTA
-     We're going to ask you to do something else.
-     Something very important.
+<tr id="L271"><td><a href="#L271">271</a></td><td>O'BRIEN:  Raimus brought someone to meet with Bilby. A Vorta.</td></tr>
 
-  BILBY
-     You can count on me.
+<tr id="L272"><td><a href="#L272">272</a></td><td>CHADWICK:  You're telling me that the Orion Syndicate is working for the Dominion?</td></tr>
 
-  VORTA
-     I hope so. We'll contact you when it's time.
+<tr id="L273"><td><a href="#L273">273</a></td><td>O'BRIEN:  Opens up a lot of possibilities, doesn't it?</td></tr>
 
-  RAIMUS
-     Don't let me down.
+<tr id="L274"><td><a href="#L274">274</a></td><td>CHADWICK:  None of them very pleasant.</td></tr>
 
-  BILBY
-     I won't.
+<tr id="L275"><td><a href="#L275">275</a></td><td>O'BRIEN:  So do I get to go home now?</td></tr>
 
-  VORTA
-     Raimus.
+<tr id="L276"><td><a href="#L276">276</a></td><td>ANNOTATION: Chadwick walks away quickly.</td></tr>
 
-  RAIMUS
-     My love to your family.
+<tr id="L277"><td><a href="#L277">277</a></td><td>CHADWICK:  Not until you find out what's going on.</td></tr>
 
-  ANNOTATION
-     And the visitors beam out.
+<tr id="L278"><td><a href="#L278">278</a></td><td>O'BRIEN:  I was afraid you were going to say that.</td></tr>
 
-  BILBY
-     Do you know what I just did for you?
+<tr><td></td><td>LOCATION--Tavern</td></tr>
+<tr id="L279"><td><a href="#L279">279</a></td><td>ANNOTATION: Krole is plugged into the comm. unit. The Bolian barman is wiping tables.</td></tr>
 
-  O'BRIEN
-     I think so.
+<tr id="L280"><td><a href="#L280">280</a></td><td>KROLE:  All right. I've accessed the bank's data files.</td></tr>
 
-  BILBY
-     I witnessed for you. If anything happens, I'm
-     accountable.
+<tr id="L281"><td><a href="#L281">281</a></td><td>O'BRIEN:  I'm reading a three tier security protocol.</td></tr>
 
-  O'BRIEN
-     I understand.
+<tr id="L282"><td><a href="#L282">282</a></td><td>KROLE:  I see it.</td></tr>
 
-  BILBY
-     Good.
+<tr id="L283"><td><a href="#L283">283</a></td><td>O'BRIEN:  It looks like an isolation matrix is protecting the data. You'll have to bypass the encryption lockouts.</td></tr>
 
+<tr id="L284"><td><a href="#L284">284</a></td><td>KROLE:  You make it sound so easy.</td></tr>
 
-LOCATION--Alley
+<tr id="L285"><td><a href="#L285">285</a></td><td>O'BRIEN:  Watch out for recursive dataloops. You don't want to get diverted into a backflow.</td></tr>
 
-  CHADWICK
-     Nice suit.
+<tr id="L286"><td><a href="#L286">286</a></td><td>KROLE:  I'm past the lockouts.</td></tr>
 
-  O'BRIEN
-     Bilby got it for me.
+<tr id="L287"><td><a href="#L287">287</a></td><td>O'BRIEN:  Sweep the matrix. Give me an access point.</td></tr>
 
-  CHADWICK
-     That was generous.
+<tr id="L288"><td><a href="#L288">288</a></td><td>KROLE:  Stand by. Go.</td></tr>
 
-  O'BRIEN
-     He's like that. I found out who the informer is.
-     Bilby told me he was in charge of the weather
-     control system on Risa about a year ago.
+<tr id="L289"><td><a href="#L289">289</a></td><td>O'BRIEN:  Initiating data transfer.</td></tr>
 
-  CHADWICK
-     It should be easy enough to figure out who that
-     was.
+<tr id="L290"><td><a href="#L290">290</a></td><td>KROLE:  Faster.</td></tr>
 
-  O'BRIEN
-     Yeah.
+<tr id="L291"><td><a href="#L291">291</a></td><td>O'BRIEN:  I'm trying.</td></tr>
 
-  CHADWICK
-     Something wrong?
+<tr id="L292"><td><a href="#L292">292</a></td><td>KROLE:  I can't hold the matrix open much longer.</td></tr>
 
-  O'BRIEN
-     Raimus brought someone to meet with Bilby. A
-     Vorta.
+<tr id="L293"><td><a href="#L293">293</a></td><td>FLITH:  Hurry!</td></tr>
 
-  CHADWICK
-     You're telling me that the Orion Syndicate is
-     working for the Dominion?
+<tr id="L294"><td><a href="#L294">294</a></td><td>O'BRIEN:  Got it. Get us out, Krole. Faster. They're tracing you.</td></tr>
 
-  O'BRIEN
-     Opens up a lot of possibilities, doesn't it?
+<tr id="L295"><td><a href="#L295">295</a></td><td>KROLE:  The lockouts are closing.</td></tr>
 
-  CHADWICK
-     None of them very pleasant.
+<tr id="L296"><td><a href="#L296">296</a></td><td>O'BRIEN:  Move.</td></tr>
 
-  O'BRIEN
-     So do I get to go home now?
+<tr id="L297"><td><a href="#L297">297</a></td><td>BILBY:  Come on!</td></tr>
 
-  ANNOTATION
-     Chadwick walks away quickly.
+<tr id="L298"><td><a href="#L298">298</a></td><td>ANNOTATION: Krole disconnects himself.</td></tr>
 
-  CHADWICK
-     Not until you find out what's going on.
+<tr id="L299"><td><a href="#L299">299</a></td><td>KROLE:  I'm out.</td></tr>
 
-  O'BRIEN
-     I was afraid you were going to say that.
+<tr id="L300"><td><a href="#L300">300</a></td><td>O'BRIEN:  We did it.</td></tr>
 
+<tr id="L301"><td><a href="#L301">301</a></td><td>FLITH:  Gentlemen, we just robbed the Bank of Bolias.</td></tr>
 
-LOCATION--Tavern
+<tr id="L302"><td><a href="#L302">302</a></td><td>BILBY:  I was thinking about opening an account there.</td></tr>
 
-  ANNOTATION
-     Krole is plugged into the comm. unit. The Bolian
-     barman is wiping tables.
+<tr id="L303"><td><a href="#L303">303</a></td><td>O'BRIEN:  Maybe you should go with a different bank.</td></tr>
 
-  KROLE
-     All right. I've accessed the bank's data files.
+<tr id="L304"><td><a href="#L304">304</a></td><td>BILBY:  One with better security.</td></tr>
 
-  O'BRIEN
-     I'm reading a three tier security protocol.
+<tr><td></td><td>LOCATION--Bilby's apartment</td></tr>
+<tr id="L305"><td><a href="#L305">305</a></td><td>ANNOTATION: There's a young working woman sitting on the bed.</td></tr>
 
-  KROLE
-     I see it.
+<tr id="L306"><td><a href="#L306">306</a></td><td>BILBY:  What do you think?</td></tr>
 
-  O'BRIEN
-     It looks like an isolation matrix is protecting
-     the data. You'll have to bypass the encryption
-     lockouts.
+<tr id="L307"><td><a href="#L307">307</a></td><td>O'BRIEN:  Very nice, but, er</td></tr>
 
-  KROLE
-     You make it sound so easy.
+<tr id="L308"><td><a href="#L308">308</a></td><td>BILBY:  But what?</td></tr>
 
-  O'BRIEN
-     Watch out for recursive dataloops. You don't want
-     to get diverted into a backflow.
+<tr id="L309"><td><a href="#L309">309</a></td><td>O'BRIEN:  I don't want to, you know</td></tr>
 
-  KROLE
-     I'm past the lockouts.
+<tr id="L310"><td><a href="#L310">310</a></td><td>BILBY:  What do you mean, you don't want to? I brought her here for you.</td></tr>
 
-  O'BRIEN
-     Sweep the matrix. Give me an access point.
+<tr id="L311"><td><a href="#L311">311</a></td><td>O'BRIEN:  I appreciate that, but, but</td></tr>
 
-  KROLE
-     Stand by. Go.
+<tr id="L312"><td><a href="#L312">312</a></td><td>BILBY:  But what? Don't tell me you don't like girls?</td></tr>
 
-  O'BRIEN
-     Initiating data transfer.
+<tr id="L313"><td><a href="#L313">313</a></td><td>O'BRIEN:  I have a girlfriend.</td></tr>
 
-  KROLE
-     Faster.
+<tr id="L314"><td><a href="#L314">314</a></td><td>BILBY:  Since when?</td></tr>
 
-  O'BRIEN
-     I'm trying.
+<tr id="L315"><td><a href="#L315">315</a></td><td>O'BRIEN:  A few days. A week. I don't know.</td></tr>
 
-  KROLE
-     I can't hold the matrix open much longer.
+<tr id="L316"><td><a href="#L316">316</a></td><td>BILBY:  That's great. Why didn't you say anything?</td></tr>
 
-  FLITH
-     Hurry!
+<tr id="L317"><td><a href="#L317">317</a></td><td>O'BRIEN:  I don't know. It didn't come up.</td></tr>
 
-  O'BRIEN
-     Got it. Get us out, Krole. Faster. They're tracing
-     you.
+<tr id="L318"><td><a href="#L318">318</a></td><td>BILBY:  Listen, I understand. But that's no reason to hurt this girl's feelings.</td></tr>
 
-  KROLE
-     The lockouts are closing.
+<tr id="L319"><td><a href="#L319">319</a></td><td>O'BRIEN:  Er, we've got some business to discuss so why don't you go on ahead home and I'll call you in a couple of days. Okay?</td></tr>
 
-  O'BRIEN
-     Move.
+<tr id="L320"><td><a href="#L320">320</a></td><td>ANNOTATION: O'Brien pays her.</td></tr>
 
-  BILBY
-     Come on!
+<tr id="L321"><td><a href="#L321">321</a></td><td>O'BRIEN:  Thanks for coming over. It was really nice to meet you.</td></tr>
 
-  ANNOTATION
-     Krole disconnects himself.
+<tr id="L322"><td><a href="#L322">322</a></td><td>ANNOTATION: He sees her out of the apartment.</td></tr>
 
-  KROLE
-     I'm out.
+<tr id="L323"><td><a href="#L323">323</a></td><td>BILBY:  So who is she? This new girl?</td></tr>
 
-  O'BRIEN
-     We did it.
+<tr id="L324"><td><a href="#L324">324</a></td><td>O'BRIEN:  Her name's Kimiko.</td></tr>
 
-  FLITH
-     Gentlemen, we just robbed the Bank of Bolias.
+<tr id="L325"><td><a href="#L325">325</a></td><td>BILBY:  Where'd you meet her?</td></tr>
 
-  BILBY
-     I was thinking about opening an account there.
+<tr id="L326"><td><a href="#L326">326</a></td><td>O'BRIEN:  She works in a flower shop. Arranging flowers.</td></tr>
 
-  O'BRIEN
-     Maybe you should go with a different bank.
+<tr id="L327"><td><a href="#L327">327</a></td><td>BILBY:  Well, bring her by sometime. I'd like to meet her.</td></tr>
 
-  BILBY
-     One with better security.
+<tr id="L328"><td><a href="#L328">328</a></td><td>O'BRIEN:  Yeah, I will.</td></tr>
 
+<tr id="L329"><td><a href="#L329">329</a></td><td>BILBY:  A man your age, you should settle down and have a family. It's the most important thing.</td></tr>
 
-LOCATION--Bilby's apartment
+<tr id="L330"><td><a href="#L330">330</a></td><td>O'BRIEN:  I don't know if it's that serious yet.</td></tr>
 
-  ANNOTATION
-     There's a young working woman sitting on the bed.
+<tr id="L331"><td><a href="#L331">331</a></td><td>BILBY:  You let me talk to her for three minutes, I'll let you know if she's the marrying kind. I can read people right away. What's in their hearts. You, for instance. I saw through you the first time I laid eyes on you.</td></tr>
 
-  BILBY
-     What do you think?
+<tr id="L332"><td><a href="#L332">332</a></td><td>O'BRIEN:  Oh, yeah?</td></tr>
 
-  O'BRIEN
-     Very nice, but, er
+<tr id="L333"><td><a href="#L333">333</a></td><td>BILBY:  I don't think I've ever seen anyone so alone in my entire life. I said to myself, that man, he doesn't have a friend in the quadrant. Flith and Krole, they thought you were a snake.</td></tr>
 
-  BILBY
-     But what?
+<tr id="L334"><td><a href="#L334">334</a></td><td>O'BRIEN:  Really?</td></tr>
 
-  O'BRIEN
-     I don't want to, you know
+<tr id="L335"><td><a href="#L335">335</a></td><td>BILBY:  But I knew better. When you came back the next day with that dataport repaired, that's when I knew we're going to do great things together. I'm about to take a step up in the organisation. Raimus is giving me an opportunity and I'm going to make the best of it. Everything's changing. I can feel it. It all started when you came along. You changed my luck.</td></tr>
 
-  BILBY
-     What do you mean, you don't want to? I brought her
-     here for you.
+<tr id="L336"><td><a href="#L336">336</a></td><td>O'BRIEN:  I thought you changed mine.</td></tr>
 
-  O'BRIEN
-     I appreciate that, but, but
+<tr id="L337"><td><a href="#L337">337</a></td><td>BILBY:  I'm going to take care of you. I don't forget my friends, because friends, they're like family. Nothing's more important. Nothing.</td></tr>
 
-  BILBY
-     But what? Don't tell me you don't like girls?
+<tr><td></td><td>LOCATION--Alley</td></tr>
+<tr id="L338"><td><a href="#L338">338</a></td><td>CHADWICK:  You're late. I was beginning to worry.</td></tr>
 
-  O'BRIEN
-     I have a girlfriend.
+<tr id="L339"><td><a href="#L339">339</a></td><td>O'BRIEN:  Sorry.</td></tr>
 
-  BILBY
-     Since when?
+<tr id="L340"><td><a href="#L340">340</a></td><td>CHADWICK:  That's all right. I imagine the Dominion is keeping you busy.</td></tr>
 
-  O'BRIEN
-     A few days. A week. I don't know.
+<tr id="L341"><td><a href="#L341">341</a></td><td>O'BRIEN:  Nah, nothing's happened with that yet. I was just doing something with Bilby.</td></tr>
 
-  BILBY
-     That's great. Why didn't you say anything?
+<tr id="L342"><td><a href="#L342">342</a></td><td>CHADWICK:  Anything worth reporting?</td></tr>
 
-  O'BRIEN
-     I don't know. It didn't come up.
+<tr id="L343"><td><a href="#L343">343</a></td><td>O'BRIEN:  We went to the races. We came out ahead.</td></tr>
 
-  BILBY
-     Listen, I understand. But that's no reason to hurt
-     this girl's feelings.
+<tr id="L344"><td><a href="#L344">344</a></td><td>CHADWICK:  Oh, I'm glad to hear that you're enjoying your assignment.</td></tr>
 
-  O'BRIEN
-     Er, we've got some business to discuss so why
-     don't you go on ahead home and I'll call you in a
-     couple of days. Okay?
+<tr id="L345"><td><a href="#L345">345</a></td><td>O'BRIEN:  Well, you told me to get close to him. He wanted to go, so I went with him.</td></tr>
 
-  ANNOTATION
-     O'Brien pays her.
+<tr id="L346"><td><a href="#L346">346</a></td><td>CHADWICK:  No need to explain. I've been under cover.</td></tr>
 
-  O'BRIEN
-     Thanks for coming over. It was really nice to meet
-     you.
+<tr id="L347"><td><a href="#L347">347</a></td><td>O'BRIEN:  Bilby's witnessed for me.</td></tr>
 
-  ANNOTATION
-     He sees her out of the apartment.
+<tr id="L348"><td><a href="#L348">348</a></td><td>CHADWICK:  Sounds like you've really got your hooks in him.</td></tr>
 
-  BILBY
-     So who is she? This new girl?
+<tr id="L349"><td><a href="#L349">349</a></td><td>O'BRIEN:  What's going to happen to him when you pull me out?</td></tr>
 
-  O'BRIEN
-     Her name's Kimiko.
+<tr id="L350"><td><a href="#L350">350</a></td><td>CHADWICK:  That's nothing that you need to think about.</td></tr>
 
-  BILBY
-     Where'd you meet her?
+<tr id="L351"><td><a href="#L351">351</a></td><td>O'BRIEN:  They're going to kill him, aren't they.</td></tr>
 
-  O'BRIEN
-     She works in a flower shop. Arranging flowers.
+<tr id="L352"><td><a href="#L352">352</a></td><td>CHADWICK:  Listen. Bilby chose this life. Whatever happens to him is his fault, not yours. Besides, if he's lucky we'll get to him before they do. He'll be safe in a Federation prison. Just help us build a good case against him.</td></tr>
 
-  BILBY
-     Well, bring her by sometime. I'd like to meet her.
+<tr id="L353"><td><a href="#L353">353</a></td><td>O'BRIEN:  All right.</td></tr>
 
-  O'BRIEN
-     Yeah, I will.
+<tr><td></td><td>LOCATION--Tavern</td></tr>
+<tr id="L354"><td><a href="#L354">354</a></td><td>ANNOTATION: Our gang of four enter, laughing.</td></tr>
 
-  BILBY
-     A man your age, you should settle down and have a
-     family. It's the most important thing.
+<tr id="L355"><td><a href="#L355">355</a></td><td>BILBY:  Good morning, Graife.</td></tr>
 
-  O'BRIEN
-     I don't know if it's that serious yet.
+<tr id="L356"><td><a href="#L356">356</a></td><td>ANNOTATION: Graife the bartender glances over to Raimus and the Vorta.</td></tr>
 
-  BILBY
-     You let me talk to her for three minutes, I'll let
-     you know if she's the marrying kind. I can read
-     people right away. What's in their hearts. You,
-     for instance. I saw through you the first time I
-     laid eyes on you.
+<tr id="L357"><td><a href="#L357">357</a></td><td>BILBY:  Raimus. I didn't know you were coming.</td></tr>
 
-  O'BRIEN
-     Oh, yeah?
+<tr id="L358"><td><a href="#L358">358</a></td><td>RAIMUS:  I can see that.</td></tr>
 
-  BILBY
-     I don't think I've ever seen anyone so alone in my
-     entire life. I said to myself, that man, he
-     doesn't have a friend in the quadrant. Flith and
-     Krole, they thought you were a snake.
+<tr id="L359"><td><a href="#L359">359</a></td><td>BILBY:  Well, let me get you something. Graife, make us a strong pot of</td></tr>
 
-  O'BRIEN
-     Really?
+<tr id="L360"><td><a href="#L360">360</a></td><td>RAIMUS:  Bilby, not right now. This isn't a social visit.</td></tr>
 
-  BILBY
-     But I knew better. When you came back the next day
-     with that dataport repaired, that's when I knew
-     we're going to do great things together. I'm about
-     to take a step up in the organisation. Raimus is
-     giving me an opportunity and I'm going to make the
-     best of it. Everything's changing. I can feel it.
-     It all started when you came along. You changed my
-     luck.
+<tr id="L361"><td><a href="#L361">361</a></td><td>VORTA:  Which one is it? Wait. Don't tell me. Let me see if I can guess. They say you can tell a traitor by looking in his eyes. Do you think that's true, Bilby?</td></tr>
 
-  O'BRIEN
-     I thought you changed mine.
+<tr id="L362"><td><a href="#L362">362</a></td><td>BILBY:  I wouldn't know. Raimus, what's this all about?</td></tr>
 
-  BILBY
-     I'm going to take care of you. I don't forget my
-     friends, because friends, they're like family.
-     Nothing's more important. Nothing.
+<tr id="L363"><td><a href="#L363">363</a></td><td>RAIMUS:  What does it look like?</td></tr>
 
+<tr id="L364"><td><a href="#L364">364</a></td><td>VORTA:  If you ask me, none of them look particularly trustworthy.</td></tr>
 
-LOCATION--Alley
+<tr id="L365"><td><a href="#L365">365</a></td><td>BILBY:  Raimus.</td></tr>
 
-  CHADWICK
-     You're late. I was beginning to worry.
+<tr id="L366"><td><a href="#L366">366</a></td><td>RAIMUS:  Not now.</td></tr>
 
-  O'BRIEN
-     Sorry.
+<tr id="L367"><td><a href="#L367">367</a></td><td>BILBY:  But.</td></tr>
 
-  CHADWICK
-     That's all right. I imagine the Dominion is
-     keeping you busy.
+<tr id="L368"><td><a href="#L368">368</a></td><td>RAIMUS:  I said not now.</td></tr>
 
-  O'BRIEN
-     Nah, nothing's happened with that yet. I was just
-     doing something with Bilby.
+<tr id="L369"><td><a href="#L369">369</a></td><td>VORTA:  Him. (pointing at O'Brien.)</td></tr>
 
-  CHADWICK
-     Anything worth reporting?
+<tr id="L370"><td><a href="#L370">370</a></td><td>FLITH:  I've been saying so all along.</td></tr>
 
-  O'BRIEN
-     We went to the races. We came out ahead.
+<tr id="L371"><td><a href="#L371">371</a></td><td>BILBY:  Raimus, this is crazy. He doesn't know what he's talking about.</td></tr>
 
-  CHADWICK
-     Oh, I'm glad to hear that you're enjoying your
-     assignment.
+<tr id="L372"><td><a href="#L372">372</a></td><td>ANNOTATION: The bartender shoots Flith in the back.</td></tr>
 
-  O'BRIEN
-     Well, you told me to get close to him. He wanted
-     to go, so I went with him.
+<tr id="L373"><td><a href="#L373">373</a></td><td>VORTA:  He was going to be my second guess.</td></tr>
 
-  CHADWICK
-     No need to explain. I've been under cover.
+<tr id="L374"><td><a href="#L374">374</a></td><td>O'BRIEN:  What did he do?</td></tr>
 
-  O'BRIEN
-     Bilby's witnessed for me.
+<tr id="L375"><td><a href="#L375">375</a></td><td>RAIMUS:  Let's just say he conducted some business on the side and neglected to pay his fare.</td></tr>
 
-  CHADWICK
-     Sounds like you've really got your hooks in him.
+<tr id="L376"><td><a href="#L376">376</a></td><td>O'BRIEN:  I see.</td></tr>
 
-  O'BRIEN
-     What's going to happen to him when you pull me
-     out?
+<tr id="L377"><td><a href="#L377">377</a></td><td>RAIMUS:  It's a good thing you never witnessed for him or you'd be lying there too, Bilby.</td></tr>
 
-  CHADWICK
-     That's nothing that you need to think about.
+<tr id="L378"><td><a href="#L378">378</a></td><td>BILBY:  Yeah.</td></tr>
 
-  O'BRIEN
-     They're going to kill him, aren't they.
+<tr id="L379"><td><a href="#L379">379</a></td><td>ANNOTATION: Graife removes the corpse.</td></tr>
 
-  CHADWICK
-     Listen. Bilby chose this life. Whatever happens to
-     him is his fault, not yours. Besides, if he's
-     lucky we'll get to him before they do. He'll be
-     safe in a Federation prison. Just help us build a
-     good case against him.
+<tr id="L380"><td><a href="#L380">380</a></td><td>VORTA:  Well, now that that's out of the way, shall we discuss the matter at hand?</td></tr>
 
-  O'BRIEN
-     All right.
+<tr id="L381"><td><a href="#L381">381</a></td><td>RAIMUS:  We mentioned we might ask you to do something for us.</td></tr>
 
+<tr id="L382"><td><a href="#L382">382</a></td><td>BILBY:  Yeah, whatever you need.</td></tr>
 
-LOCATION--Tavern
+<tr id="L383"><td><a href="#L383">383</a></td><td>VORTA:  So accommodating. He reminds me of a Jem'Hadar.</td></tr>
 
-  ANNOTATION
-     Our gang of four enter, laughing.
+<tr id="L384"><td><a href="#L384">384</a></td><td>RAIMUS:  We want you to assassinate the Klingon Ambassador to Farius.</td></tr>
 
-  BILBY
-     Good morning, Graife.
+<tr id="L385"><td><a href="#L385">385</a></td><td>BILBY:  All right.</td></tr>
 
-  ANNOTATION
-     Graife the bartender glances over to Raimus and
-     the Vorta.
+<tr id="L386"><td><a href="#L386">386</a></td><td>VORTA:  And you'll use the disruptors you procured earlier.</td></tr>
 
-  BILBY
-     Raimus. I didn't know you were coming.
+<tr id="L387"><td><a href="#L387">387</a></td><td>O'BRIEN:  You want it to look like he was killed by a rival House?</td></tr>
 
-  RAIMUS
-     I can see that.
+<tr id="L388"><td><a href="#L388">388</a></td><td>BILBY:  Connelly!</td></tr>
 
-  BILBY
-     Well, let me get you something. Graife, make us a
-     strong pot of
+<tr id="L389"><td><a href="#L389">389</a></td><td>VORTA:  It's all right. Very astute. Do you know much about political affairs?</td></tr>
 
-  RAIMUS
-     Bilby, not right now. This isn't a social visit.
+<tr id="L390"><td><a href="#L390">390</a></td><td>O'BRIEN:  Not really.</td></tr>
 
-  VORTA
-     Which one is it? Wait. Don't tell me. Let me see
-     if I can guess. They say you can tell a traitor by
-     looking in his eyes. Do you think that's true,
-     Bilby?
+<tr id="L391"><td><a href="#L391">391</a></td><td>VORTA:  Well then, allow me to enlighten you. The Ambassador has been advocating that the Klingons break off their alliance with the Federation and concentrate on defending the Empire against the Dominion. Chancellor Gowron, on the other hand, is adamantly committed to the alliance.</td></tr>
 
-  BILBY
-     I wouldn't know. Raimus, what's this all about?
+<tr id="L392"><td><a href="#L392">392</a></td><td>O'BRIEN:  You're going to make it look like Gowron ordered the assassination.</td></tr>
 
-  RAIMUS
-     What does it look like?
+<tr id="L393"><td><a href="#L393">393</a></td><td>VORTA:  Exactly. The Ambassador will be seen as a martyr and his cause will gain strength. If all goes well, the Klingons will retreat into their own territory and then all we'll have to deal with is the Federation.</td></tr>
 
-  VORTA
-     If you ask me, none of them look particularly
-     trustworthy.
+<tr id="L394"><td><a href="#L394">394</a></td><td>O'BRIEN:  Makes sense.</td></tr>
 
-  BILBY
-     Raimus.
+<tr id="L395"><td><a href="#L395">395</a></td><td>VORTA:  I'm glad you think so. Needless to say, it is very important that the Dominion's part in this remain secret.</td></tr>
 
-  RAIMUS
-     Not now.
+<tr id="L396"><td><a href="#L396">396</a></td><td>RAIMUS:  If something goes wrong and you're captured, you never met our friend here.</td></tr>
 
-  BILBY
-     But.
+<tr id="L397"><td><a href="#L397">397</a></td><td>BILBY:  I understand.</td></tr>
 
-  RAIMUS
-     I said not now.
+<tr id="L398"><td><a href="#L398">398</a></td><td>RAIMUS:  I knew I could count on you.</td></tr>
 
-  VORTA
-     Him. (pointing at O'Brien.)
+<tr id="L399"><td><a href="#L399">399</a></td><td>VORTA:  I never realised how much the Dominion and the Orion Syndicate have in common. It seems that in both organisations, loyalty is everything.</td></tr>
 
-  FLITH
-     I've been saying so all along.
+<tr><td></td><td>LOCATION--Alley</td></tr>
+<tr id="L400"><td><a href="#L400">400</a></td><td>CHADWICK:  How are they planning to get past the Embassy's security?</td></tr>
 
-  BILBY
-     Raimus, this is crazy. He doesn't know what he's
-     talking about.
+<tr id="L401"><td><a href="#L401">401</a></td><td>O'BRIEN:  Bilby asked me the same thing. I figured out a way to interrupt the power grid for a few seconds. Bilby and his men will be able to beam in before the backup generator kicks in.</td></tr>
 
-  ANNOTATION
-     The bartender shoots Flith in the back.
+<tr id="L402"><td><a href="#L402">402</a></td><td>CHADWICK:  When is this supposed to happen?</td></tr>
 
-  VORTA
-     He was going to be my second guess.
+<tr id="L403"><td><a href="#L403">403</a></td><td>O'BRIEN:  Tonight.</td></tr>
 
-  O'BRIEN
-     What did he do?
+<tr id="L404"><td><a href="#L404">404</a></td><td>CHADWICK:  I'll contact the Klingons so they can be ready for them.</td></tr>
 
-  RAIMUS
-     Let's just say he conducted some business on the
-     side and neglected to pay his fare.
+<tr id="L405"><td><a href="#L405">405</a></td><td>O'BRIEN:  What are you talking about? If the Klingons get their hands on Bilby and his men, they'll kill them.</td></tr>
 
-  O'BRIEN
-     I see.
+<tr id="L406"><td><a href="#L406">406</a></td><td>CHADWICK:  That's not really our business, is it?</td></tr>
 
-  RAIMUS
-     It's a good thing you never witnessed for him or
-     you'd be lying there too, Bilby.
+<tr id="L407"><td><a href="#L407">407</a></td><td>O'BRIEN:  You're setting them up to be murdered?</td></tr>
 
-  BILBY
-     Yeah.
+<tr id="L408"><td><a href="#L408">408</a></td><td>CHADWICK:  You have things backwards. Bilby and his friends are the ones that murder people. Not us.</td></tr>
 
-  ANNOTATION
-     Graife removes the corpse.
+<tr id="L409"><td><a href="#L409">409</a></td><td>O'BRIEN:  Oh yeah, we just get Klingons to do it for us.</td></tr>
 
-  VORTA
-     Well, now that that's out of the way, shall we
-     discuss the matter at hand?
+<tr id="L410"><td><a href="#L410">410</a></td><td>CHADWICK:  All I'm doing is following procedures and warning our allies about a possible assassination attempt. What happens after that is not my concern. But believe me, if the Klingons go after Raimus and the Orion Syndicate, I won't shed any tears.</td></tr>
 
-  RAIMUS
-     We mentioned we might ask you to do something for
-     us.
+<tr id="L411"><td><a href="#L411">411</a></td><td>O'BRIEN:  I'm sure you won't.</td></tr>
 
-  BILBY
-     Yeah, whatever you need.
+<tr id="L412"><td><a href="#L412">412</a></td><td>CHADWICK:  Miles, listen to me. You've lost perspective. You're starting to sympathise with these people. It's good that we're pulling you out.</td></tr>
 
-  VORTA
-     So accommodating. He reminds me of a Jem'Hadar.
+<tr id="L413"><td><a href="#L413">413</a></td><td>O'BRIEN:  Pulling me out?</td></tr>
 
-  RAIMUS
-     We want you to assassinate the Klingon Ambassador
-     to Farius.
+<tr id="L414"><td><a href="#L414">414</a></td><td>CHADWICK:  We're putting you on the next transport home. Your assignment's over.</td></tr>
 
-  BILBY
-     All right.
+<tr id="L415"><td><a href="#L415">415</a></td><td>O'BRIEN:  You told me we were going to make a case against Bilby. You told me he was going to prison!</td></tr>
 
-  VORTA
-     And you'll use the disruptors you procured
-     earlier.
+<tr id="L416"><td><a href="#L416">416</a></td><td>CHADWICK:  I'm sorry. I didn't want to mislead you, but you were starting to waver. I needed to keep you on track. Come on. Let's get you home.</td></tr>
 
-  O'BRIEN
-     You want it to look like he was killed by a rival
-     House?
+<tr id="L417"><td><a href="#L417">417</a></td><td>O'BRIEN:  Chadwick.</td></tr>
 
-  BILBY
-     Connelly!
+<tr id="L418"><td><a href="#L418">418</a></td><td>ANNOTATION: O'Brien knocks him out.</td></tr>
 
-  VORTA
-     It's all right. Very astute. Do you know much
-     about political affairs?
+<tr><td></td><td>LOCATION--Bilby's apartment</td></tr>
+<tr id="L419"><td><a href="#L419">419</a></td><td>ANNOTATION: Mealtime for the cat.</td></tr>
 
-  O'BRIEN
-     Not really.
+<tr id="L420"><td><a href="#L420">420</a></td><td>BILBY:  Here you go, Chester.</td></tr>
 
-  VORTA
-     Well then, allow me to enlighten you. The
-     Ambassador has been advocating that the Klingons
-     break off their alliance with the Federation and
-     concentrate on defending the Empire against the
-     Dominion. Chancellor Gowron, on the other hand, is
-     adamantly committed to the alliance.
+<tr id="L421"><td><a href="#L421">421</a></td><td>ANNOTATION: Doorbell.</td></tr>
 
-  O'BRIEN
-     You're going to make it look like Gowron ordered
-     the assassination.
+<tr id="L422"><td><a href="#L422">422</a></td><td>BILBY:  Who could that be?</td></tr>
 
-  VORTA
-     Exactly. The Ambassador will be seen as a martyr
-     and his cause will gain strength. If all goes
-     well, the Klingons will retreat into their own
-     territory and then all we'll have to deal with is
-     the Federation.
+<tr id="L423"><td><a href="#L423">423</a></td><td>ANNOTATION: Guess who.</td></tr>
 
-  O'BRIEN
-     Makes sense.
+<tr id="L424"><td><a href="#L424">424</a></td><td>BILBY:  Did you come to see me off?</td></tr>
 
-  VORTA
-     I'm glad you think so. Needless to say, it is very
-     important that the Dominion's part in this remain
-     secret.
+<tr id="L425"><td><a href="#L425">425</a></td><td>O'BRIEN:  We need to talk.</td></tr>
 
-  RAIMUS
-     If something goes wrong and you're captured, you
-     never met our friend here.
+<tr id="L426"><td><a href="#L426">426</a></td><td>BILBY:  Have to wait. I was just leaving.</td></tr>
 
-  BILBY
-     I understand.
+<tr id="L427"><td><a href="#L427">427</a></td><td>O'BRIEN:  You can't go.</td></tr>
 
-  RAIMUS
-     I knew I could count on you.
+<tr id="L428"><td><a href="#L428">428</a></td><td>BILBY:  What are you talking about?</td></tr>
 
-  VORTA
-     I never realised how much the Dominion and the
-     Orion Syndicate have in common. It seems that in
-     both organisations, loyalty is everything.
+<tr id="L429"><td><a href="#L429">429</a></td><td>O'BRIEN:  Look, just trust me. You can't go.</td></tr>
 
+<tr id="L430"><td><a href="#L430">430</a></td><td>BILBY:  Why not?</td></tr>
 
-LOCATION--Alley
+<tr id="L431"><td><a href="#L431">431</a></td><td>O'BRIEN:  It's a trap. Listen to me. The Klingons know what you're planning to do.</td></tr>
 
-  CHADWICK
-     How are they planning to get past the Embassy's
-     security?
+<tr id="L432"><td><a href="#L432">432</a></td><td>BILBY:  That's impossible.</td></tr>
 
-  O'BRIEN
-     Bilby asked me the same thing. I figured out a way
-     to interrupt the power grid for a few seconds.
-     Bilby and his men will be able to beam in before
-     the backup generator kicks in.
+<tr id="L433"><td><a href="#L433">433</a></td><td>O'BRIEN:  Someone traced my signal when I accessed the power grid.</td></tr>
 
-  CHADWICK
-     When is this supposed to happen?
+<tr id="L434"><td><a href="#L434">434</a></td><td>BILBY:  I saw you access the grid. You cut off the trace.</td></tr>
 
-  O'BRIEN
-     Tonight.
+<tr id="L435"><td><a href="#L435">435</a></td><td>O'BRIEN:  No, they just made me think I had.</td></tr>
 
-  CHADWICK
-     I'll contact the Klingons so they can be ready for
-     them.
+<tr id="L436"><td><a href="#L436">436</a></td><td>BILBY:  You're panicking. Try not to worry so much.</td></tr>
 
-  O'BRIEN
-     What are you talking about? If the Klingons get
-     their hands on Bilby and his men, they'll kill
-     them.
+<tr id="L437"><td><a href="#L437">437</a></td><td>O'BRIEN:  You're the one who should be worried. Do you have any idea what the Klingons will do to you when they catch you?</td></tr>
 
-  CHADWICK
-     That's not really our business, is it?
+<tr id="L438"><td><a href="#L438">438</a></td><td>BILBY:  They're not going to catch me.</td></tr>
 
-  O'BRIEN
-     You're setting them up to be murdered?
+<tr id="L439"><td><a href="#L439">439</a></td><td>O'BRIEN:  Yes, they will! Starfleet Intelligence will warn them you're coming.</td></tr>
 
-  CHADWICK
-     You have things backwards. Bilby and his friends
-     are the ones that murder people. Not us.
+<tr id="L440"><td><a href="#L440">440</a></td><td>BILBY:  How do you know that? I suppose you work for them.</td></tr>
 
-  O'BRIEN
-     Oh yeah, we just get Klingons to do it for us.
+<tr id="L441"><td><a href="#L441">441</a></td><td>O'BRIEN:  What if I said I did.</td></tr>
 
-  CHADWICK
-     All I'm doing is following procedures and warning
-     our allies about a possible assassination attempt.
-     What happens after that is not my concern. But
-     believe me, if the Klingons go after Raimus and
-     the Orion Syndicate, I won't shed any tears.
+<tr id="L442"><td><a href="#L442">442</a></td><td>BILBY:  Very good. You had me. I mean, just for a minute there I actually thought you were working for Starfleet.</td></tr>
 
-  O'BRIEN
-     I'm sure you won't.
+<tr id="L443"><td><a href="#L443">443</a></td><td>O'BRIEN:  I am.</td></tr>
 
-  CHADWICK
-     Miles, listen to me. You've lost perspective.
-     You're starting to sympathise with these people.
-     It's good that we're pulling you out.
+<tr id="L444"><td><a href="#L444">444</a></td><td>BILBY:  Come on, That's enough. You had me. I admit it.</td></tr>
 
-  O'BRIEN
-     Pulling me out?
+<tr id="L445"><td><a href="#L445">445</a></td><td>O'BRIEN:  I am working for Starfleet.</td></tr>
 
-  CHADWICK
-     We're putting you on the next transport home. Your
-     assignment's over.
+<tr id="L446"><td><a href="#L446">446</a></td><td>BILBY:  That's enough! I don't want to hear it. Do you understand me? I don't want to hear it. Why'd you have to come here? Why'd you have to tell me that?</td></tr>
 
-  O'BRIEN
-     You told me we were going to make a case against
-     Bilby. You told me he was going to prison!
+<tr id="L447"><td><a href="#L447">447</a></td><td>O'BRIEN:  I couldn't just let you go. The Klingons will kill you.</td></tr>
 
-  CHADWICK
-     I'm sorry. I didn't want to mislead you, but you
-     were starting to waver. I needed to keep you on
-     track. Come on. Let's get you home.
+<tr id="L448"><td><a href="#L448">448</a></td><td>BILBY:  I'm dead already. Can't you see that? I witnessed for you. Do you have any idea what that means?</td></tr>
 
-  O'BRIEN
-     Chadwick.
+<tr id="L449"><td><a href="#L449">449</a></td><td>O'BRIEN:  What if I can get you off Farius, find you a place to hide?</td></tr>
 
-  ANNOTATION
-     O'Brien knocks him out.
+<tr id="L450"><td><a href="#L450">450</a></td><td>BILBY:  There's no hiding from the Syndicate. You know that.</td></tr>
 
+<tr id="L451"><td><a href="#L451">451</a></td><td>O'BRIEN:  Well then, turn yourself in. You'll be safe in prison.</td></tr>
 
-LOCATION--Bilby's apartment
+<tr id="L452"><td><a href="#L452">452</a></td><td>BILBY:  No! They'd go after my family. They'd make an example of me. Raimus may leave them alone if he thinks that I died not knowing about you.</td></tr>
 
-  ANNOTATION
-     Mealtime for the cat.
+<tr id="L453"><td><a href="#L453">453</a></td><td>O'BRIEN:  But you can't just let them kill you.</td></tr>
 
-  BILBY
-     Here you go, Chester.
+<tr id="L454"><td><a href="#L454">454</a></td><td>BILBY:  What choice do I have? How did I let this happen? I should have known. You were too good to be true. I wanted so much to believe that my luck had changed, I didn't see it. I didn't see it.</td></tr>
 
-  ANNOTATION
-     Doorbell.
+<tr id="L455"><td><a href="#L455">455</a></td><td>O'BRIEN:  I never meant for this to happen. I wasn't after you. I was just trying to find out how the Syndicate compromised Starfleet.</td></tr>
 
-  BILBY
-     Who could that be?
+<tr id="L456"><td><a href="#L456">456</a></td><td>BILBY:  I wasn't even your target. I suppose I'm not important enough. I've always known something like this might happen. The smart thing would be to kill you, but I guess I've already proved I'm not too smart.</td></tr>
 
-  ANNOTATION
-     Guess who.
+<tr id="L457"><td><a href="#L457">457</a></td><td>O'BRIEN:  I'm sorry, Bilby.</td></tr>
 
-  BILBY
-     Did you come to see me off?
+<tr id="L458"><td><a href="#L458">458</a></td><td>BILBY:  You'll never know how little comfort that is. If it's not too much trouble, will you make sure Chester is looked after? Be good. Mind I ask you something? Back home, wherever that is, do you have a family?</td></tr>
 
-  O'BRIEN
-     We need to talk.
+<tr id="L459"><td><a href="#L459">459</a></td><td>O'BRIEN:  Yeah.</td></tr>
 
-  BILBY
-     Have to wait. I was just leaving.
+<tr id="L460"><td><a href="#L460">460</a></td><td>BILBY:  Good. It's the most important thing.</td></tr>
 
-  O'BRIEN
-     You can't go.
+<tr id="L461"><td><a href="#L461">461</a></td><td>ANNOTATION: Bilby goes to meet his fate.</td></tr>
 
-  BILBY
-     What are you talking about?
+<tr id="L462"><td><a href="#L462">462</a></td><td>SOMEONE: O'Brien's quarters]</td></tr>
 
-  O'BRIEN
-     Look, just trust me. You can't go.
+<tr id="L463"><td><a href="#L463">463</a></td><td>O'BRIEN:  I'll never forget the look on his face when he found out who I really was.</td></tr>
 
-  BILBY
-     Why not?
+<tr id="L464"><td><a href="#L464">464</a></td><td>BASHIR:  Well, you took an enormous risk by telling him. He could have killed you.</td></tr>
 
-  O'BRIEN
-     It's a trap. Listen to me. The Klingons know what
-     you're planning to do.
+<tr id="L465"><td><a href="#L465">465</a></td><td>O'BRIEN:  I knew he wouldn't.</td></tr>
 
-  BILBY
-     That's impossible.
+<tr id="L466"><td><a href="#L466">466</a></td><td>BASHIR:  Well, all I can say is that you're lucky Chadwick decided not to put everything in his report.</td></tr>
 
-  O'BRIEN
-     Someone traced my signal when I accessed the power
-     grid.
+<tr id="L467"><td><a href="#L467">467</a></td><td>O'BRIEN:  Julian, don't you understand what I'm trying to tell you. Bilby trusted me. He put his life in my hands and I killed him just as surely as if I'd pulled the trigger myself.</td></tr>
 
-  BILBY
-     I saw you access the grid. You cut off the trace.
+<tr id="L468"><td><a href="#L468">468</a></td><td>BASHIR:  That's not fair and you know it. You did what you had to do. Your duty.</td></tr>
 
-  O'BRIEN
-     No, they just made me think I had.
+<tr id="L469"><td><a href="#L469">469</a></td><td>O'BRIEN:  Is that what I'm supposed to tell myself?</td></tr>
 
-  BILBY
-     You're panicking. Try not to worry so much.
+<tr id="L470"><td><a href="#L470">470</a></td><td>BASHIR:  It is the truth. Look, I'm sorry that I don't have all the answers. All I know for sure is that I'm glad you're back.</td></tr>
 
-  O'BRIEN
-     You're the one who should be worried. Do you have
-     any idea what the Klingons will do to you when
-     they catch you?
+<tr id="L471"><td><a href="#L471">471</a></td><td>ANNOTATION: Bashir leaves. Chester goes over to O'Brien and jumps onto his lap.</td></tr>
 
-  BILBY
-     They're not going to catch me.
-
-  O'BRIEN
-     Yes, they will! Starfleet Intelligence will warn
-     them you're coming.
-
-  BILBY
-     How do you know that? I suppose you work for them.
-
-  O'BRIEN
-     What if I said I did.
-
-  BILBY
-     Very good. You had me. I mean, just for a minute
-     there I actually thought you were working for
-     Starfleet.
-
-  O'BRIEN
-     I am.
-
-  BILBY
-     Come on, That's enough. You had me. I admit it.
-
-  O'BRIEN
-     I am working for Starfleet.
-
-  BILBY
-     That's enough! I don't want to hear it. Do you
-     understand me? I don't want to hear it. Why'd you
-     have to come here? Why'd you have to tell me that?
-
-  O'BRIEN
-     I couldn't just let you go. The Klingons will kill
-     you.
-
-  BILBY
-     I'm dead already. Can't you see that? I witnessed
-     for you. Do you have any idea what that means?
-
-  O'BRIEN
-     What if I can get you off Farius, find you a place
-     to hide?
-
-  BILBY
-     There's no hiding from the Syndicate. You know
-     that.
-
-  O'BRIEN
-     Well then, turn yourself in. You'll be safe in
-     prison.
-
-  BILBY
-     No! They'd go after my family. They'd make an
-     example of me. Raimus may leave them alone if he
-     thinks that I died not knowing about you.
-
-  O'BRIEN
-     But you can't just let them kill you.
-
-  BILBY
-     What choice do I have? How did I let this happen?
-     I should have known. You were too good to be true.
-     I wanted so much to believe that my luck had
-     changed, I didn't see it. I didn't see it.
-
-  O'BRIEN
-     I never meant for this to happen. I wasn't after
-     you. I was just trying to find out how the
-     Syndicate compromised Starfleet.
-
-  BILBY
-     I wasn't even your target. I suppose I'm not
-     important enough. I've always known something like
-     this might happen. The smart thing would be to
-     kill you, but I guess I've already proved I'm not
-     too smart.
-
-  O'BRIEN
-     I'm sorry, Bilby.
-
-  BILBY
-     You'll never know how little comfort that is. If
-     it's not too much trouble, will you make sure
-     Chester is looked after? Be good. Mind I ask you
-     something? Back home, wherever that is, do you
-     have a family?
-
-  O'BRIEN
-     Yeah.
-
-  BILBY
-     Good. It's the most important thing.
-
-  ANNOTATION
-     Bilby goes to meet his fate.
-
-  SOMEONE
-     O'Brien's quarters]
-
-  O'BRIEN
-     I'll never forget the look on his face when he
-     found out who I really was.
-
-  BASHIR
-     Well, you took an enormous risk by telling him. He
-     could have killed you.
-
-  O'BRIEN
-     I knew he wouldn't.
-
-  BASHIR
-     Well, all I can say is that you're lucky Chadwick
-     decided not to put everything in his report.
-
-  O'BRIEN
-     Julian, don't you understand what I'm trying to
-     tell you. Bilby trusted me. He put his life in my
-     hands and I killed him just as surely as if I'd
-     pulled the trigger myself.
-
-  BASHIR
-     That's not fair and you know it. You did what you
-     had to do. Your duty.
-
-  O'BRIEN
-     Is that what I'm supposed to tell myself?
-
-  BASHIR
-     It is the truth. Look, I'm sorry that I don't have
-     all the answers. All I know for sure is that I'm
-     glad you're back.
-
-  ANNOTATION
-     Bashir leaves. Chester goes over to O'Brien and
-     jumps onto his lap.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

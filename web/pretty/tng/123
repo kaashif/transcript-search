@@ -1,1937 +1,1039 @@
-Symbiosis
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Symbiosis</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>PICARD:  Intense magnetic fields have a disruptive effect on electrical systems. Therefore we can expect communications interruptions, as well as potential temporary loss of other systems. As a precaution, we are now going to Yellow Alert. Stay sharp, everyone.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L2"><td><a href="#L2">2</a></td><td>COMPUTER:  Attention all decks. Yellow Alert.</td></tr>
 
-  PICARD
-     Intense magnetic fields have a disruptive effect
-     on electrical systems. Therefore we can expect
-     communications interruptions, as well as potential
-     temporary loss of other systems. As a precaution,
-     we are now going to Yellow Alert. Stay sharp,
-     everyone.
+<tr id="L3"><td><a href="#L3">3</a></td><td>DATA [OC]:  Engineering, this is Lieutenant Commander Data. Bring all systems online and direct full power to the shields.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L4"><td><a href="#L4">4</a></td><td>DATA:  All sections secure, sir.</td></tr>
 
-LOCATION--Engineering
+<tr id="L5"><td><a href="#L5">5</a></td><td>PICARD:  Lieutenant La Forge?</td></tr>
 
-  COMPUTER
-     Attention all decks. Yellow Alert.
+<tr id="L6"><td><a href="#L6">6</a></td><td>LAFORGE:  Course is set, Captain.</td></tr>
 
-  DATA [OC]
-     Engineering, this is Lieutenant Commander Data.
-     Bring all systems online and direct full power to
-     the shields.
+<tr id="L7"><td><a href="#L7">7</a></td><td>PICARD:  Half impulse.</td></tr>
 
+<tr id="L8"><td><a href="#L8">8</a></td><td>LAFORGE:  Aye, sir, one half impulse.</td></tr>
 
-LOCATION--Bridge
+<tr id="L9"><td><a href="#L9">9</a></td><td>PICARD:  On main viewer. Mask out the photosphere. Magnify. Quadrant one seven, magnification factor twelve.</td></tr>
 
-  DATA
-     All sections secure, sir.
+<tr id="L10"><td><a href="#L10">10</a></td><td>RIKER:  I've never seen anything like this before. The violence of these eruptions is awesome.</td></tr>
 
-  PICARD
-     Lieutenant La Forge?
+<tr id="L11"><td><a href="#L11">11</a></td><td>DATA:  Captain, I'm reading an unusual number of sunspots and eruptive prominences, sir. The magnetic field is extremely irregular.</td></tr>
 
-  LAFORGE
-     Course is set, Captain.
+<tr id="L12"><td><a href="#L12">12</a></td><td>WESLEY:  Captain, deflectors are being hit by a huge burst of X-rays.</td></tr>
 
-  PICARD
-     Half impulse.
+<tr id="L13"><td><a href="#L13">13</a></td><td>ANNOTATION: The science station lights up with blue static and he steps away</td></tr>
 
-  LAFORGE
-     Aye, sir, one half impulse.
+<tr id="L14"><td><a href="#L14">14</a></td><td>WESLEY:  Wow! Look. Captain, my console seems to be overloading.</td></tr>
 
-  PICARD
-     On main viewer. Mask out the photosphere. Magnify.
-     Quadrant one seven, magnification factor twelve.
+<tr id="L15"><td><a href="#L15">15</a></td><td>WORF:  The X-ray burst is disrupting systems, Captain. I'm adjusting deflectors to compensate.</td></tr>
 
-  RIKER
-     I've never seen anything like this before. The
-     violence of these eruptions is awesome.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L16"><td><a href="#L16">16</a></td><td>WORF [OC]:  Engineering, increase power to forward shields.</td></tr>
 
-  DATA
-     Captain, I'm reading an unusual number of sunspots
-     and eruptive prominences, sir. The magnetic field
-     is extremely irregular.
+<tr id="L17"><td><a href="#L17">17</a></td><td>CREWWOMAN:  Forward deflectors online, sir.</td></tr>
 
-  WESLEY
-     Captain, deflectors are being hit by a huge burst
-     of X-rays.
+<tr id="L18"><td><a href="#L18">18</a></td><td>ANNOTATION: Her console lights up blue as well</td></tr>
 
-  ANNOTATION
-     The science station lights up with blue static and
-     he steps away
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L19"><td><a href="#L19">19</a></td><td>PICARD:  Status report.</td></tr>
 
-  WESLEY
-     Wow! Look. Captain, my console seems to be
-     overloading.
+<tr id="L20"><td><a href="#L20">20</a></td><td>WORF:  All systems operational, sir.</td></tr>
 
-  WORF
-     The X-ray burst is disrupting systems, Captain.
-     I'm adjusting deflectors to compensate.
+<tr id="L21"><td><a href="#L21">21</a></td><td>TROI:  Captain, the level of tension on the ship is mounting.</td></tr>
 
+<tr id="L22"><td><a href="#L22">22</a></td><td>PICARD:  Understandable. Mister Data?</td></tr>
 
-LOCATION--Engineering
+<tr id="L23"><td><a href="#L23">23</a></td><td>DATA:  If we are to investigate, sir, we must get closer.</td></tr>
 
-  WORF [OC]
-     Engineering, increase power to forward shields.
+<tr id="L24"><td><a href="#L24">24</a></td><td>PICARD:  Mister La Forge, move us in closer. This is the Captain. We will be pushing the shields to the limit, but we are getting a splendid view of this phenomenon.</td></tr>
 
-  CREWWOMAN
-     Forward deflectors online, sir.
+<tr id="L25"><td><a href="#L25">25</a></td><td>WORF:  Captain, I have intercepted what appears to be a distress signal.</td></tr>
 
-  ANNOTATION
-     Her console lights up blue as well
+<tr id="L26"><td><a href="#L26">26</a></td><td>PICARD:  Let me hear it.</td></tr>
 
+<tr id="L27"><td><a href="#L27">27</a></td><td>T'JON [OC]:  This is T'Jon. I am on the Ornaran freighter (garbled). We have a serious problem here. Can't seem to fix it. We need help.</td></tr>
 
-LOCATION--Bridge
+<tr id="L28"><td><a href="#L28">28</a></td><td>DATA:  The transmission is coming from a freighter in orbit around the fourth planet in the system. However, the receiving station is on the third planet.</td></tr>
 
-  PICARD
-     Status report.
+<tr id="L29"><td><a href="#L29">29</a></td><td>PICARD:  Open hailing frequencies.</td></tr>
 
-  WORF
-     All systems operational, sir.
+<tr id="L30"><td><a href="#L30">30</a></td><td>TASHA:  Hailing frequencies open.</td></tr>
 
-  TROI
-     Captain, the level of tension on the ship is
-     mounting.
+<tr id="L31"><td><a href="#L31">31</a></td><td>PICARD:  Unidentified freighter, this is the USS Enterprise. May we be of assistance?</td></tr>
 
-  PICARD
-     Understandable. Mister Data?
+<tr id="L32"><td><a href="#L32">32</a></td><td>T'JON [on viewscreen]:  (a very poor image) Whoever you are, yes! I'm having trouble navigating. We can't maintain a steady course. Please help us if you can.</td></tr>
 
-  DATA
-     If we are to investigate, sir, we must get closer.
+<tr id="L33"><td><a href="#L33">33</a></td><td>PICARD:  Can't you enhance the frequency?</td></tr>
 
-  PICARD
-     Mister La Forge, move us in closer. This is the
-     Captain. We will be pushing the shields to the
-     limit, but we are getting a splendid view of this
-     phenomenon.
+<tr id="L34"><td><a href="#L34">34</a></td><td>TASHA:  Too much interference.</td></tr>
 
-  WORF
-     Captain, I have intercepted what appears to be a
-     distress signal.
+<tr id="L35"><td><a href="#L35">35</a></td><td>PICARD:  Set course to intersect with the freighter. Warp two.</td></tr>
 
-  PICARD
-     Let me hear it.
+<tr id="L36"><td><a href="#L36">36</a></td><td>LAFORGE:  Aye, sir.</td></tr>
 
-  T'JON [OC]
-     This is T'Jon. I am on the Ornaran freighter
-     (garbled). We have a serious problem here. Can't
-     seem to fix it. We need help.
+<tr id="L37"><td><a href="#L37">37</a></td><td>PICARD:  Maintain Yellow Alert.</td></tr>
 
-  DATA
-     The transmission is coming from a freighter in
-     orbit around the fourth planet in the system.
-     However, the receiving station is on the third
-     planet.
+<tr id="L38"><td><a href="#L38">38</a></td><td>T'JON [on viewscreen]:  I can't control the helm any longer. I'm losing orbit. We're heading into the atmosphere. Please, do something. We're going to burn up. We haven't much time.</td></tr>
 
-  PICARD
-     Open hailing frequencies.
+<tr id="L39"><td><a href="#L39">39</a></td><td>WORF:  It is a freighter, very old.</td></tr>
 
-  TASHA
-     Hailing frequencies open.
+<tr id="L40"><td><a href="#L40">40</a></td><td>DATA:  Captain, our sensors are being severely affected by the sun flares.</td></tr>
 
-  PICARD
-     Unidentified freighter, this is the USS
-     Enterprise. May we be of assistance?
+<tr id="L41"><td><a href="#L41">41</a></td><td>PICARD:  Helm, take us in as close as possible to the freighter's orbit.</td></tr>
 
-  T'JON [on viewscreen]
-     (a very poor image) Whoever you are, yes! I'm
-     having trouble navigating. We can't maintain a
-     steady course. Please help us if you can.
+<tr id="L42"><td><a href="#L42">42</a></td><td>LAFORGE:  Moving in, sir.</td></tr>
 
-  PICARD
-     Can't you enhance the frequency?
+<tr id="L43"><td><a href="#L43">43</a></td><td>DATA:  There are six life forms aboard the freighter, sir.</td></tr>
 
-  TASHA
-     Too much interference.
+<tr id="L44"><td><a href="#L44">44</a></td><td>WORF:  Captain, the freighter's orbit is decaying.</td></tr>
 
-  PICARD
-     Set course to intersect with the freighter. Warp
-     two.
+<tr id="L45"><td><a href="#L45">45</a></td><td>PICARD:  How long before it loses integrity?</td></tr>
 
-  LAFORGE
-     Aye, sir.
+<tr id="L46"><td><a href="#L46">46</a></td><td>WORF:  A matter of minutes.</td></tr>
 
-  PICARD
-     Maintain Yellow Alert.
+<tr id="L47"><td><a href="#L47">47</a></td><td>PICARD:  Unidentified freighter, this is the USS Enterprise.</td></tr>
 
-  T'JON [on viewscreen]
-     I can't control the helm any longer. I'm losing
-     orbit. We're heading into the atmosphere. Please,
-     do something. We're going to burn up. We haven't
-     much time.
+<tr id="L48"><td><a href="#L48">48</a></td><td>T'JON [OC]:  Enterprise, this is the Ornaran freighter Sanction.</td></tr>
 
-  WORF
-     It is a freighter, very old.
+<tr id="L49"><td><a href="#L49">49</a></td><td>PICARD:  Put this on the main viewer.</td></tr>
 
-  DATA
-     Captain, our sensors are being severely affected
-     by the sun flares.
+<tr id="L50"><td><a href="#L50">50</a></td><td>TASHA:  The visual transmission is still breaking up.</td></tr>
 
-  PICARD
-     Helm, take us in as close as possible to the
-     freighter's orbit.
+<tr id="L51"><td><a href="#L51">51</a></td><td>PICARD:  Freighter Sanction, this is the Enterprise. What is your situation?</td></tr>
 
-  LAFORGE
-     Moving in, sir.
+<tr id="L52"><td><a href="#L52">52</a></td><td>VOICES [on viewscreen]:  Not so good. Helm isn't working right. What is the problem?</td></tr>
 
-  DATA
-     There are six life forms aboard the freighter,
-     sir.
+<tr id="L53"><td><a href="#L53">53</a></td><td>PICARD:  This is the Enterprise. With all this interference it is difficult to copy your transmission. If you all talk at once it is almost impossible. Now, please say again. What is your situation?</td></tr>
 
-  WORF
-     Captain, the freighter's orbit is decaying.
+<tr id="L54"><td><a href="#L54">54</a></td><td>T'JON [on viewscreen]:  I am T'Jon, Captain of the Sanction.</td></tr>
 
-  PICARD
-     How long before it loses integrity?
+<tr id="L55"><td><a href="#L55">55</a></td><td>PICARD:  At last. How can we help?</td></tr>
 
-  WORF
-     A matter of minutes.
+<tr id="L56"><td><a href="#L56">56</a></td><td>T'JON [on viewscreen]:  We have lost, I don't know, something. I am no longer able to maintain this orbit, nor am I able to use the main thrusters. It's all, you know, dead, I guess. It's all shut down?</td></tr>
 
-  PICARD
-     Unidentified freighter, this is the USS
-     Enterprise.
+<tr id="L57"><td><a href="#L57">57</a></td><td>PICARD:  Well, that is a little vague. What is the computer analysis?</td></tr>
 
-  T'JON [OC]
-     Enterprise, this is the Ornaran freighter
-     Sanction.
+<tr id="L58"><td><a href="#L58">58</a></td><td>T'JON [on viewscreen]:  Well, the computer's not working very well.</td></tr>
 
-  PICARD
-     Put this on the main viewer.
+<tr id="L59"><td><a href="#L59">59</a></td><td>PICARD:  Data, can you tap into their computer and clarify the situation?</td></tr>
 
-  TASHA
-     The visual transmission is still breaking up.
+<tr id="L60"><td><a href="#L60">60</a></td><td>DATA:  I will attempt it, sir.</td></tr>
 
-  PICARD
-     Freighter Sanction, this is the Enterprise. What
-     is your situation?
+<tr id="L61"><td><a href="#L61">61</a></td><td>TASHA:  Captain, the tractor beam is available, if you want it.</td></tr>
 
-  VOICES [on viewscreen]
-     Not so good. Helm isn't working right. What is the
-     problem?
+<tr id="L62"><td><a href="#L62">62</a></td><td>RIKER:  At least we can pull them out of orbit before they enter the atmosphere.</td></tr>
 
-  PICARD
-     This is the Enterprise. With all this interference
-     it is difficult to copy your transmission. If you
-     all talk at once it is almost impossible. Now,
-     please say again. What is your situation?
+<tr id="L63"><td><a href="#L63">63</a></td><td>PICARD:  Freighter, we're going to lock on the tractor beam and pull you out of orbit.</td></tr>
 
-  T'JON [on viewscreen]
-     I am T'Jon, Captain of the Sanction.
+<tr id="L64"><td><a href="#L64">64</a></td><td>T'JON [on viewscreen]:  Hey, that's, that's great.</td></tr>
 
-  PICARD
-     At last. How can we help?
+<tr id="L65"><td><a href="#L65">65</a></td><td>WORF:  Captain, the freighter's orbit continues to deteriorate.</td></tr>
 
-  T'JON [on viewscreen]
-     We have lost, I don't know, something. I am no
-     longer able to maintain this orbit, nor am I able
-     to use the main thrusters. It's all, you know,
-     dead, I guess. It's all shut down?
+<tr id="L66"><td><a href="#L66">66</a></td><td>TASHA:  The solar flares are interfering with the tractor beam, Captain. I can't lock on.</td></tr>
 
-  PICARD
-     Well, that is a little vague. What is the computer
-     analysis?
+<tr id="L67"><td><a href="#L67">67</a></td><td>PICARD:  Captain T'Jon, we are unable to attach our tractor beam because of the intense solar activity.</td></tr>
 
-  T'JON [on viewscreen]
-     Well, the computer's not working very well.
+<tr id="L68"><td><a href="#L68">68</a></td><td>T'JON [on viewscreen]:  I understand. Thanks for trying.</td></tr>
 
-  PICARD
-     Data, can you tap into their computer and clarify
-     the situation?
+<tr id="L69"><td><a href="#L69">69</a></td><td>DATA:  Sir, I have determined what is malfunctioning on the freighter.</td></tr>
 
-  DATA
-     I will attempt it, sir.
+<tr id="L70"><td><a href="#L70">70</a></td><td>PICARD:  Captain, we have analysed your problem.</td></tr>
 
-  TASHA
-     Captain, the tractor beam is available, if you
-     want it.
+<tr id="L71"><td><a href="#L71">71</a></td><td>T'JON [on viewscreen]:  Great.</td></tr>
 
-  RIKER
-     At least we can pull them out of orbit before they
-     enter the atmosphere.
+<tr id="L72"><td><a href="#L72">72</a></td><td>PICARD:  Data.</td></tr>
 
-  PICARD
-     Freighter, we're going to lock on the tractor beam
-     and pull you out of orbit.
+<tr id="L73"><td><a href="#L73">73</a></td><td>DATA:  Your ship's design uses an electromagnetic coil to constrict the exhaust flow. That coil is misaligned.</td></tr>
 
-  T'JON [on viewscreen]
-     Hey, that's, that's great.
+<tr id="L74"><td><a href="#L74">74</a></td><td>T'JON [on viewscreen]:  Really?</td></tr>
 
-  WORF
-     Captain, the freighter's orbit continues to
-     deteriorate.
+<tr id="L75"><td><a href="#L75">75</a></td><td>PICARD:  Do you have the necessary tools to realign the coil?</td></tr>
 
-  TASHA
-     The solar flares are interfering with the tractor
-     beam, Captain. I can't lock on.
+<tr id="L76"><td><a href="#L76">76</a></td><td>T'JON [on viewscreen]:  I don't think so.</td></tr>
 
-  PICARD
-     Captain T'Jon, we are unable to attach our tractor
-     beam because of the intense solar activity.
+<tr id="L77"><td><a href="#L77">77</a></td><td>LAFORGE:  I believe, Captain, we can provide them with a temporary substitute. Our ship's stores contain a coil of the proper type.</td></tr>
 
-  T'JON [on viewscreen]
-     I understand. Thanks for trying.
+<tr id="L78"><td><a href="#L78">78</a></td><td>RIKER:  Can we beam one over?</td></tr>
 
-  DATA
-     Sir, I have determined what is malfunctioning on
-     the freighter.
+<tr id="L79"><td><a href="#L79">79</a></td><td>TASHA:  Yes.</td></tr>
 
-  PICARD
-     Captain, we have analysed your problem.
+<tr id="L80"><td><a href="#L80">80</a></td><td>PICARD:  Captain, we're beaming over a replacement coil.</td></tr>
 
-  T'JON [on viewscreen]
-     Great.
+<tr id="L81"><td><a href="#L81">81</a></td><td>T'JON [on viewscreen]:  That's great. And that'll fix us up?</td></tr>
 
-  PICARD
-     Data.
+<tr id="L82"><td><a href="#L82">82</a></td><td>PICARD:  Yes, once it's installed.</td></tr>
 
-  DATA
-     Your ship's design uses an electromagnetic coil to
-     constrict the exhaust flow. That coil is
-     misaligned.
+<tr id="L83"><td><a href="#L83">83</a></td><td>T'JON [on viewscreen]:  Right. And how do we do that?</td></tr>
 
-  T'JON [on viewscreen]
-     Really?
+<tr id="L84"><td><a href="#L84">84</a></td><td>PICARD:  What is the matter with these people? How can he be Captain of that vessel and not understand its simplest function?</td></tr>
 
-  PICARD
-     Do you have the necessary tools to realign the
-     coil?
+<tr id="L85"><td><a href="#L85">85</a></td><td>PICARD:  Captain, how long have you been in command of this freighter?</td></tr>
 
-  T'JON [on viewscreen]
-     I don't think so.
+<tr id="L86"><td><a href="#L86">86</a></td><td>T'JON [on viewscreen]:  Seven years. This is my twenty-sixth voyage to Brekka.</td></tr>
 
-  LAFORGE
-     I believe, Captain, we can provide them with a
-     temporary substitute. Our ship's stores contain a
-     coil of the proper type.
+<tr id="L87"><td><a href="#L87">87</a></td><td>PICARD:  And you don't know how to align a control coil?</td></tr>
 
-  RIKER
-     Can we beam one over?
+<tr id="L88"><td><a href="#L88">88</a></td><td>T'JON [on viewscreen]:  It's never come up.</td></tr>
 
-  TASHA
-     Yes.
+<tr id="L89"><td><a href="#L89">89</a></td><td>RIKER:  Can anyone else over there do it?</td></tr>
 
-  PICARD
-     Captain, we're beaming over a replacement coil.
+<tr id="L90"><td><a href="#L90">90</a></td><td>T'JON [on viewscreen]:  Hold on. I'll ask. Sorry. Nobody here knows anything about it.</td></tr>
 
-  T'JON [on viewscreen]
-     That's great. And that'll fix us up?
+<tr id="L91"><td><a href="#L91">91</a></td><td>RIKER:  I'd better get over with a team.</td></tr>
 
-  PICARD
-     Yes, once it's installed.
+<tr id="L92"><td><a href="#L92">92</a></td><td>TASHA:  Captain, I strongly recommend against anyone from this ship beaming over. The solar interference is too great.</td></tr>
 
-  T'JON [on viewscreen]
-     Right. And how do we do that?
+<tr id="L93"><td><a href="#L93">93</a></td><td>WORF:  The freighter has entered the planet's atmosphere. Disintegration is imminent.</td></tr>
 
-  PICARD
-     What is the matter with these people? How can he
-     be Captain of that vessel and not understand its
-     simplest function?
+<tr id="L94"><td><a href="#L94">94</a></td><td>RIKER:  We're running out of options.</td></tr>
 
-  PICARD
-     Captain, how long have you been in command of this
-     freighter?
+<tr id="L95"><td><a href="#L95">95</a></td><td>PICARD:  Let's get them off there. T'Jon, stand by to beam over.</td></tr>
 
-  T'JON [on viewscreen]
-     Seven years. This is my twenty-sixth voyage to
-     Brekka.
+<tr id="L96"><td><a href="#L96">96</a></td><td>T'JON [on viewscreen]:  If you think that's best.</td></tr>
 
-  PICARD
-     And you don't know how to align a control coil?
+<tr id="L97"><td><a href="#L97">97</a></td><td>PICARD:  Unless you have any other options, yes, I think that's best.</td></tr>
 
-  T'JON [on viewscreen]
-     It's never come up.
+<tr id="L98"><td><a href="#L98">98</a></td><td>T'JON [on viewscreen]:  Whatever you say.</td></tr>
 
-  RIKER
-     Can anyone else over there do it?
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L99"><td><a href="#L99">99</a></td><td>ANNOTATION: Blue is playing on the transporter controls</td></tr>
 
-  T'JON [on viewscreen]
-     Hold on. I'll ask. Sorry. Nobody here knows
-     anything about it.
+<tr id="L100"><td><a href="#L100">100</a></td><td>TASHA:  I can't maintain a positive lock.</td></tr>
 
-  RIKER
-     I'd better get over with a team.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L101"><td><a href="#L101">101</a></td><td>WESLEY:  Unusual E-M burst, sir. Readings off scale.</td></tr>
 
-  TASHA
-     Captain, I strongly recommend against anyone from
-     this ship beaming over. The solar interference is
-     too great.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L102"><td><a href="#L102">102</a></td><td>RIKER:  Freighter Sanction, this is the Enterprise. We're having difficulty getting a fix.</td></tr>
 
-  WORF
-     The freighter has entered the planet's atmosphere.
-     Disintegration is imminent.
+<tr id="L103"><td><a href="#L103">103</a></td><td>TASHA:  Have them go to their own transporter room. It will be tricky, but perhaps I can link the two transporters in series and get them over with the increased power.</td></tr>
 
-  RIKER
-     We're running out of options.
+<tr id="L104"><td><a href="#L104">104</a></td><td>RIKER:  It's worth a try. Captain T'Jon go to your transporter room. Contact me from there.</td></tr>
 
-  PICARD
-     Let's get them off there. T'Jon, stand by to beam
-     over.
+<tr id="L105"><td><a href="#L105">105</a></td><td>T'JON [OC]:  Right, Enterprise. It's right next door. But if you can't get us with your transporter, what makes you think ours will do the job?</td></tr>
 
-  T'JON [on viewscreen]
-     If you think that's best.
+<tr id="L106"><td><a href="#L106">106</a></td><td>TASHA:  I'm going to interconnect them.</td></tr>
 
-  PICARD
-     Unless you have any other options, yes, I think
-     that's best.
+<tr id="L107"><td><a href="#L107">107</a></td><td>T'JON [OC]:  I didn't know you could do that.</td></tr>
 
-  T'JON [on viewscreen]
-     Whatever you say.
+<tr id="L108"><td><a href="#L108">108</a></td><td>TASHA:  Hurry! We're running out of time.</td></tr>
 
+<tr id="L109"><td><a href="#L109">109</a></td><td>T'JON [OC]:  We're on our way.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L110"><td><a href="#L110">110</a></td><td>TASHA:  I don't think they're going to make it.</td></tr>
 
-  ANNOTATION
-     Blue is playing on the transporter controls
+<tr id="L111"><td><a href="#L111">111</a></td><td>RIKER:  Captain T'Jon doesn't sound like he cares one way or the other.</td></tr>
 
-  TASHA
-     I can't maintain a positive lock.
+<tr id="L112"><td><a href="#L112">112</a></td><td>TASHA:  Worf, how much time do we have?</td></tr>
 
+<tr id="L113"><td><a href="#L113">113</a></td><td>WORF [OC]:  One minute, twenty eight seconds.</td></tr>
 
-LOCATION--Bridge
+<tr id="L114"><td><a href="#L114">114</a></td><td>TASHA:  Captain T'Jon, are you there?</td></tr>
 
-  WESLEY
-     Unusual E-M burst, sir. Readings off scale.
+<tr id="L115"><td><a href="#L115">115</a></td><td>T'JON [OC]:  We're in the transporter room.</td></tr>
 
+<tr id="L116"><td><a href="#L116">116</a></td><td>TASHA:  Great. Activate your transporter. Set coordinates nine seven zero three mark two six eight.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L117"><td><a href="#L117">117</a></td><td>T'JON [OC]:  Did you say two eight six or eight eight six.</td></tr>
 
-  RIKER
-     Freighter Sanction, this is the Enterprise. We're
-     having difficulty getting a fix.
+<tr id="L118"><td><a href="#L118">118</a></td><td>TASHA:  Mark two six eight!</td></tr>
 
-  TASHA
-     Have them go to their own transporter room. It
-     will be tricky, but perhaps I can link the two
-     transporters in series and get them over with the
-     increased power.
+<tr id="L119"><td><a href="#L119">119</a></td><td>T'JON [OC]:  Got it.</td></tr>
 
-  RIKER
-     It's worth a try. Captain T'Jon go to your
-     transporter room. Contact me from there.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L120"><td><a href="#L120">120</a></td><td>WORF:  Sir, the hull temperature of the freighter is passing three thousand degrees.</td></tr>
 
-  T'JON [OC]
-     Right, Enterprise. It's right next door. But if
-     you can't get us with your transporter, what makes
-     you think ours will do the job?
+<tr id="L121"><td><a href="#L121">121</a></td><td>PICARD:  What's the hold up, Number One?</td></tr>
 
-  TASHA
-     I'm going to interconnect them.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L122"><td><a href="#L122">122</a></td><td>RIKER:  We're establishing the link right now.</td></tr>
 
-  T'JON [OC]
-     I didn't know you could do that.
+<tr id="L123"><td><a href="#L123">123</a></td><td>T'JON [OC]:  We're ready.</td></tr>
 
-  TASHA
-     Hurry! We're running out of time.
+<tr id="L124"><td><a href="#L124">124</a></td><td>TASHA:  Then all six of you, get on the transporter platform. On my signal, energise. I've got their initial transporter signal. Interlock complete. Energise on my mark. Four, three, two, one, energise.</td></tr>
 
-  T'JON [OC]
-     We're on our way.
+<tr id="L125"><td><a href="#L125">125</a></td><td>ANNOTATION: A big barrel arrives, no people</td></tr>
 
-  TASHA
-     I don't think they're going to make it.
+<tr id="L126"><td><a href="#L126">126</a></td><td>PICARD [OC]:  Number One, did you get them off?</td></tr>
 
-  RIKER
-     Captain T'Jon doesn't sound like he cares one way
-     or the other.
+<tr id="L127"><td><a href="#L127">127</a></td><td>RIKER:  No, sir. They stayed in the freighter</td></tr>
 
-  TASHA
-     Worf, how much time do we have?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L128"><td><a href="#L128">128</a></td><td>RIKER:  But they beamed over their cargo.</td></tr>
 
-  WORF [OC]
-     One minute, twenty eight seconds.
+<tr id="L129"><td><a href="#L129">129</a></td><td>PICARD:  Cargo? Are those people crazy? What could possibly be so important?</td></tr>
 
-  TASHA
-     Captain T'Jon, are you there?
+<tr id="L130"><td><a href="#L130">130</a></td><td>WORF:  Sir, the freighter is disintegrating.</td></tr>
 
-  T'JON [OC]
-     We're in the transporter room.
+<tr id="L131"><td><a href="#L131">131</a></td><td>PICARD:  Their lives are in danger and they're beaming over cargo? Number One, I don't understand these people.</td></tr>
 
-  TASHA
-     Great. Activate your transporter. Set coordinates
-     nine seven zero three mark two six eight.
+<tr id="L132"><td><a href="#L132">132</a></td><td>LAFORGE:  Captain, the freighter's hull temperature is approaching critical.</td></tr>
 
-  T'JON [OC]
-     Did you say two eight six or eight eight six.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L133"><td><a href="#L133">133</a></td><td>RIKER:  Unbelievable.</td></tr>
 
-  TASHA
-     Mark two six eight!
+<tr id="L134"><td><a href="#L134">134</a></td><td>PICARD [OC]:  We're losing the freighter. Got to beam those people over now.</td></tr>
 
-  T'JON [OC]
-     Got it.
+<tr id="L135"><td><a href="#L135">135</a></td><td>RIKER:  Clear the cargo. Beam it to a hold.</td></tr>
 
+<tr id="L136"><td><a href="#L136">136</a></td><td>TASHA:  Aye, sir.</td></tr>
 
-LOCATION--Bridge
+<tr id="L137"><td><a href="#L137">137</a></td><td>RIKER:  Freighter Sanction, this is the Enterprise, Get to your transporter pad and. No, forget about that. Lock on to any life form you can find and get them over now.</td></tr>
 
-  WORF
-     Sir, the hull temperature of the freighter is
-     passing three thousand degrees.
+<tr id="L138"><td><a href="#L138">138</a></td><td>TASHA:  Trying, sir.</td></tr>
 
-  PICARD
-     What's the hold up, Number One?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L139"><td><a href="#L139">139</a></td><td>LAFORGE:  The freighter is going down.</td></tr>
 
+<tr id="L140"><td><a href="#L140">140</a></td><td>PICARD:  Transporter Room. You're out of time.</td></tr>
 
-LOCATION--Transporter room
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L141"><td><a href="#L141">141</a></td><td>TASHA:  Reading six life forms, but I can't get a solid lock.</td></tr>
 
-  RIKER
-     We're establishing the link right now.
+<tr id="L142"><td><a href="#L142">142</a></td><td>RIKER:  We have no choice. Energise. I thought you said there were six. Where are the other two?</td></tr>
 
-  T'JON [OC]
-     We're ready.
+<tr id="L143"><td><a href="#L143">143</a></td><td>TASHA:  The lock didn't hold.</td></tr>
 
-  TASHA
-     Then all six of you, get on the transporter
-     platform. On my signal, energise. I've got their
-     initial transporter signal. Interlock complete.
-     Energise on my mark. Four, three, two, one,
-     energise.
+<tr id="L144"><td><a href="#L144">144</a></td><td>RIKER:  Re-establish.</td></tr>
 
-  ANNOTATION
-     A big barrel arrives, no people
+<tr id="L145"><td><a href="#L145">145</a></td><td>TASHA:  It's too late.</td></tr>
 
-  PICARD [OC]
-     Number One, did you get them off?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L146"><td><a href="#L146">146</a></td><td>ANNOTATION: The freighter goes bang</td></tr>
 
-  RIKER
-     No, sir. They stayed in the freighter
+<tr id="L147"><td><a href="#L147">147</a></td><td>PICARD:  Number One?</td></tr>
 
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L148"><td><a href="#L148">148</a></td><td>ANNOTATION: Two scruffy men, one smart man and a smart woman arrive</td></tr>
 
-LOCATION--Bridge
+<tr id="L149"><td><a href="#L149">149</a></td><td>RIKER:  Two are lost, sir. But we saved four. I'm Commander William Riker of the USS Enterprise. I'm sorry we were unable to rescue the other two. We did everything we could. If you had come instead of sending your cargo, you all would have made it.</td></tr>
 
-  RIKER
-     But they beamed over their cargo.
+<tr id="L150"><td><a href="#L150">150</a></td><td>T'JON:  The cargo. Where is it?</td></tr>
 
-  PICARD
-     Cargo? Are those people crazy? What could possibly
-     be so important?
+<tr id="L151"><td><a href="#L151">151</a></td><td>ROMAS:  You did save it, didn't you?</td></tr>
 
-  WORF
-     Sir, the freighter is disintegrating.
+<tr id="L152"><td><a href="#L152">152</a></td><td>ANNOTATION: The two men are scruffy, with five o'clock shadow</td></tr>
 
-  PICARD
-     Their lives are in danger and they're beaming over
-     cargo? Number One, I don't understand these
-     people.
+<tr id="L153"><td><a href="#L153">153</a></td><td>RIKER:  Yes, we did. It's in one of our cargo holds. You act like it's more important than your comrades.</td></tr>
 
-  LAFORGE
-     Captain, the freighter's hull temperature is
-     approaching critical.
+<tr id="L154"><td><a href="#L154">154</a></td><td>T'JON:  The cargo. May we see it?</td></tr>
 
+<tr id="L155"><td><a href="#L155">155</a></td><td>RIKER:  Follow me.</td></tr>
 
-LOCATION--Transporter room
+<tr><td></td><td>LOCATION--Cargo bay</td></tr>
+<tr id="L156"><td><a href="#L156">156</a></td><td>T'JON:  Thank you. Thank you. We thought we had lost it.</td></tr>
 
-  RIKER
-     Unbelievable.
+<tr id="L157"><td><a href="#L157">157</a></td><td>SOBI:  (the smart man) Careful with your choice of words, T'Jon. It's ours, not yours.</td></tr>
 
-  PICARD [OC]
-     We're losing the freighter. Got to beam those
-     people over now.
+<tr id="L158"><td><a href="#L158">158</a></td><td>T'JON:  We paid a fair price for it!</td></tr>
 
-  RIKER
-     Clear the cargo. Beam it to a hold.
+<tr id="L159"><td><a href="#L159">159</a></td><td>LANGOR:  (the woman) You offered a fair price. We have not received it.</td></tr>
 
-  TASHA
-     Aye, sir.
+<tr id="L160"><td><a href="#L160">160</a></td><td>ROMAS:  You accepted our goods in trade!</td></tr>
 
-  RIKER
-     Freighter Sanction, this is the Enterprise, Get to
-     your transporter pad and. No, forget about that.
-     Lock on to any life form you can find and get them
-     over now.
+<tr id="L161"><td><a href="#L161">161</a></td><td>SOBI:  Then where are they? Tell me.</td></tr>
 
-  TASHA
-     Trying, sir.
+<tr id="L162"><td><a href="#L162">162</a></td><td>T'JON:  That's not our problem.</td></tr>
 
+<tr id="L163"><td><a href="#L163">163</a></td><td>LANGOR:  No more than the barrel is your property. It's as simple as this. The goods were never delivered. They were destroyed with your ship.</td></tr>
 
-LOCATION--Bridge
+<tr id="L164"><td><a href="#L164">164</a></td><td>SOBI:  Hence the deal was incomplete. Hence possession of the felicium remains ours.</td></tr>
 
-  LAFORGE
-     The freighter is going down.
+<tr id="L165"><td><a href="#L165">165</a></td><td>ROMAS:  We need it.</td></tr>
 
-  PICARD
-     Transporter Room. You're out of time.
+<tr id="L166"><td><a href="#L166">166</a></td><td>SOBI:  Commander, I request you transport my associate and myself down to Brekka, with our merchandise.</td></tr>
 
+<tr id="L167"><td><a href="#L167">167</a></td><td>T'JON:  Yes, get them out of here. But the barrel stays.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L168"><td><a href="#L168">168</a></td><td>LANGOR:  There's no reasoning with you.</td></tr>
 
-  TASHA
-     Reading six life forms, but I can't get a solid
-     lock.
+<tr id="L169"><td><a href="#L169">169</a></td><td>SOBI:  Langor, you expect too much from them. You always have, and you've always been disappointed. You didn't pay for it, therefore it's not yours.</td></tr>
 
-  RIKER
-     We have no choice. Energise. I thought you said
-     there were six. Where are the other two?
+<tr id="L170"><td><a href="#L170">170</a></td><td>T'JON:  Damn you, Sobi.</td></tr>
 
-  TASHA
-     The lock didn't hold.
+<tr id="L171"><td><a href="#L171">171</a></td><td>ANNOTATION: T'Jon puts his hand on Sobi's chest and electricity sparks. Sobi returns the attack. Langor immobilises Romas when he tries to interfere</td></tr>
 
-  RIKER
-     Re-establish.
+<tr id="L172"><td><a href="#L172">172</a></td><td>TASHA:  Stop this. Now!</td></tr>
 
-  TASHA
-     It's too late.
+<tr id="L173"><td><a href="#L173">173</a></td><td>RIKER:  Security to cargo bay eleven.</td></tr>
 
+<tr id="L174"><td><a href="#L174">174</a></td><td>ANNOTATION: Tasha's phaser separates Sobi and T'Jon</td></tr>
 
-LOCATION--Bridge
+<tr id="L175"><td><a href="#L175">175</a></td><td>TASHA:  Behave yourselves, gentlemen.</td></tr>
 
-  ANNOTATION
-     The freighter goes bang
+<tr id="L176"><td><a href="#L176">176</a></td><td>ANNOTATION: Security arrive</td></tr>
 
-  PICARD
-     Number One?
+<tr id="L177"><td><a href="#L177">177</a></td><td>TASHA:  Escort our visitors to the observation lounge.</td></tr>
 
+<tr id="L178"><td><a href="#L178">178</a></td><td>ANNOTATION: They leave</td></tr>
 
-LOCATION--Transporter room
+<tr id="L179"><td><a href="#L179">179</a></td><td>TASHA:  A natural electrical charge?</td></tr>
 
-  ANNOTATION
-     Two scruffy men, one smart man and a smart woman
-     arrive
+<tr id="L180"><td><a href="#L180">180</a></td><td>RIKER:  Formidable.</td></tr>
 
-  RIKER
-     Two are lost, sir. But we saved four. I'm
-     Commander William Riker of the USS Enterprise. I'm
-     sorry we were unable to rescue the other two. We
-     did everything we could. If you had come instead
-     of sending your cargo, you all would have made it.
+<tr id="L181"><td><a href="#L181">181</a></td><td>TASHA:  Yes, and a difficult weapon to confiscate.</td></tr>
 
-  T'JON
-     The cargo. Where is it?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L182"><td><a href="#L182">182</a></td><td>RIKER:  I have never seen humanoids with that power.</td></tr>
 
-  ROMAS
-     You did save it, didn't you?
+<tr id="L183"><td><a href="#L183">183</a></td><td>TASHA:  Neither have I. I wonder how it evolved?</td></tr>
 
-  ANNOTATION
-     The two men are scruffy, with five o'clock shadow
+<tr id="L184"><td><a href="#L184">184</a></td><td>RIKER:  I wonder if the strong magnetic field of their sun might have something to do with it.</td></tr>
 
-  RIKER
-     Yes, we did. It's in one of our cargo holds. You
-     act like it's more important than your comrades.
+<tr id="L185"><td><a href="#L185">185</a></td><td>TASHA:  Could be. I wonder how much power our guests can produce?</td></tr>
 
-  T'JON
-     The cargo. May we see it?
+<tr id="L186"><td><a href="#L186">186</a></td><td>RIKER:  Or if they need to recharge?</td></tr>
 
-  RIKER
-     Follow me.
+<tr id="L187"><td><a href="#L187">187</a></td><td>TASHA:  That's an interesting ability. The question is, how do I defend against it?</td></tr>
 
+<tr id="L188"><td><a href="#L188">188</a></td><td>RIKER:  You think our visitors pose a threat?</td></tr>
 
-LOCATION--Cargo bay
+<tr id="L189"><td><a href="#L189">189</a></td><td>TASHA:  I don't know. But if they do, I'd better be ready for it.</td></tr>
 
-  T'JON
-     Thank you. Thank you. We thought we had lost it.
+<tr id="L190"><td><a href="#L190">190</a></td><td>RIKER:  Precisely, Lieutenant.</td></tr>
 
-  SOBI
-     (the smart man) Careful with your choice of words,
-     T'Jon. It's ours, not yours.
+<tr><td></td><td>LOCATION--Observation Lounge</td></tr>
+<tr id="L191"><td><a href="#L191">191</a></td><td>T'JON:  We have to resolve this soon. There isn't much time.</td></tr>
 
-  T'JON
-     We paid a fair price for it!
+<tr id="L192"><td><a href="#L192">192</a></td><td>SOBI:  What can you offer?</td></tr>
 
-  LANGOR
-     (the woman) You offered a fair price. We have not
-     received it.
+<tr id="L193"><td><a href="#L193">193</a></td><td>T'JON:  Everything we had went down with the Sanction.</td></tr>
 
-  ROMAS
-     You accepted our goods in trade!
+<tr id="L194"><td><a href="#L194">194</a></td><td>SOBI:  Then it's going to be difficult to accommodate you.</td></tr>
 
-  SOBI
-     Then where are they? Tell me.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L195"><td><a href="#L195">195</a></td><td>LAFORGE:  Solar flares are increasing in magnitude, Captain. Shields are shaky, but they're holding.</td></tr>
 
-  T'JON
-     That's not our problem.
+<tr id="L196"><td><a href="#L196">196</a></td><td>PICARD:  Maintain.</td></tr>
 
-  LANGOR
-     No more than the barrel is your property. It's as
-     simple as this. The goods were never delivered.
-     They were destroyed with your ship.
+<tr id="L197"><td><a href="#L197">197</a></td><td>ANNOTATION: Riker and Tasha enter</td></tr>
 
-  SOBI
-     Hence the deal was incomplete. Hence possession of
-     the felicium remains ours.
+<tr id="L198"><td><a href="#L198">198</a></td><td>PICARD:  How are our rather quarrelsome guests?</td></tr>
 
-  ROMAS
-     We need it.
+<tr id="L199"><td><a href="#L199">199</a></td><td>TASHA:  They're waiting for you in the observation lounge, sir.</td></tr>
 
-  SOBI
-     Commander, I request you transport my associate
-     and myself down to Brekka, with our merchandise.
+<tr id="L200"><td><a href="#L200">200</a></td><td>PICARD:  Data, what information can you give us about the inhabitants of this system?</td></tr>
 
-  T'JON
-     Yes, get them out of here. But the barrel stays.
+<tr id="L201"><td><a href="#L201">201</a></td><td>DATA:  Not very much, sir. The only recorded contact with the Delos system was over two hundred years ago. A scout ship reported two inhabited planets, one of which was on the verge of acquiring space travel.</td></tr>
 
-  LANGOR
-     There's no reasoning with you.
+<tr id="L202"><td><a href="#L202">202</a></td><td>LAFORGE:  Odd that in two centuries neither civilisation advanced much further.</td></tr>
 
-  SOBI
-     Langor, you expect too much from them. You always
-     have, and you've always been disappointed. You
-     didn't pay for it, therefore it's not yours.
+<tr id="L203"><td><a href="#L203">203</a></td><td>TROI:  Sir, I find it strange that none of our visitors feels much remorse about the two freighter passengers who perished. Yet that barrel of cargo is a source of great anxiety to them.</td></tr>
 
-  T'JON
-     Damn you, Sobi.
+<tr id="L204"><td><a href="#L204">204</a></td><td>PICARD:  Yes. Let's pay a call, get some answers. Number One, Mister Data. Mister La Forge, you have the Bridge.</td></tr>
 
-  ANNOTATION
-     T'Jon puts his hand on Sobi's chest and
-     electricity sparks. Sobi returns the attack.
-     Langor immobilises Romas when he tries to
-     interfere
+<tr id="L205"><td><a href="#L205">205</a></td><td>LAFORGE:  Aye, sir.</td></tr>
 
-  TASHA
-     Stop this. Now!
+<tr><td></td><td>LOCATION--Observation Lounge</td></tr>
+<tr id="L206"><td><a href="#L206">206</a></td><td>RIKER:  Captain, may I present Sobi and Langor from the planet Brekka, and T'Jon and Romas from Ornara.</td></tr>
 
-  RIKER
-     Security to cargo bay eleven.
+<tr id="L207"><td><a href="#L207">207</a></td><td>PICARD:  I am sorry we couldn't save your ship.</td></tr>
 
-  ANNOTATION
-     Tasha's phaser separates Sobi and T'Jon
+<tr id="L208"><td><a href="#L208">208</a></td><td>T'JON:  Tell me, you could have repaired it.</td></tr>
 
-  TASHA
-     Behave yourselves, gentlemen.
+<tr id="L209"><td><a href="#L209">209</a></td><td>PICARD:  Oh, yes.</td></tr>
 
-  ANNOTATION
-     Security arrive
+<tr id="L210"><td><a href="#L210">210</a></td><td>T'JON:  We have only two left. Neither works properly. They are critical to our survival. Will you fix them?</td></tr>
 
-  TASHA
-     Escort our visitors to the observation lounge.
+<tr id="L211"><td><a href="#L211">211</a></td><td>PICARD:  Mister Data?</td></tr>
 
-  ANNOTATION
-     They leave
+<tr id="L212"><td><a href="#L212">212</a></td><td>DATA:  Our computer has downloaded the specifications for the magnetic coils the freighters depend on. Assuming the malfunction is similar, suitable replacements can be fabricated.</td></tr>
 
-  TASHA
-     A natural electrical charge?
+<tr id="L213"><td><a href="#L213">213</a></td><td>PICARD:  Instruct Engineering to proceed.</td></tr>
 
-  RIKER
-     Formidable.
+<tr id="L214"><td><a href="#L214">214</a></td><td>DATA:  Aye, sir.</td></tr>
 
-  TASHA
-     Yes, and a difficult weapon to confiscate.
+<tr id="L215"><td><a href="#L215">215</a></td><td>T'JON:  Now, as for our cargo.</td></tr>
 
+<tr id="L216"><td><a href="#L216">216</a></td><td>SOBI:  Our cargo, Captain.</td></tr>
 
-LOCATION--Corridor
+<tr id="L217"><td><a href="#L217">217</a></td><td>ROMAS:  Wrong, Sobi.</td></tr>
 
-  RIKER
-     I have never seen humanoids with that power.
+<tr id="L218"><td><a href="#L218">218</a></td><td>PICARD:  My First Officer has said that ownership of this cargo is in dispute, but this question must be settled by whatever legal mechanism exists between your societies.</td></tr>
 
-  TASHA
-     Neither have I. I wonder how it evolved?
+<tr id="L219"><td><a href="#L219">219</a></td><td>T'JON:  Captain, you don't understand. This is a matter of life and death.</td></tr>
 
-  RIKER
-     I wonder if the strong magnetic field of their sun
-     might have something to do with it.
+<tr id="L220"><td><a href="#L220">220</a></td><td>PICARD:  Why is that? What is this cargo?</td></tr>
 
-  TASHA
-     Could be. I wonder how much power our guests can
-     produce?
+<tr id="L221"><td><a href="#L221">221</a></td><td>T'JON:  Medicine.</td></tr>
 
-  RIKER
-     Or if they need to recharge?
+<tr id="L222"><td><a href="#L222">222</a></td><td>PICARD:  Indeed?</td></tr>
 
-  TASHA
-     That's an interesting ability. The question is,
-     how do I defend against it?
+<tr id="L223"><td><a href="#L223">223</a></td><td>ROMAS:  Our planet is in desperate need, Captain. We have people suffering from a lethal plague.</td></tr>
 
-  RIKER
-     You think our visitors pose a threat?
+<tr id="L224"><td><a href="#L224">224</a></td><td>T'JON:  The cargo you have impounded is the only hope of life for our people.</td></tr>
 
-  TASHA
-     I don't know. But if they do, I'd better be ready
-     for it.
+<tr id="L225"><td><a href="#L225">225</a></td><td>PICARD:  Is that so?</td></tr>
 
-  RIKER
-     Precisely, Lieutenant.
+<tr id="L226"><td><a href="#L226">226</a></td><td>SOBI:  Yes.</td></tr>
 
+<tr id="L227"><td><a href="#L227">227</a></td><td>LANGOR:  You must think us heartless brutes, Captain, but look at our side of it. The plant which yields the medicine felicium grows only in remote areas of Brekka.</td></tr>
 
-LOCATION--Observation Lounge
+<tr id="L228"><td><a href="#L228">228</a></td><td>SOBI:  It must be painstakingly cultivated, harvested, purified. A complex and expensive process.</td></tr>
 
-  T'JON
-     We have to resolve this soon. There isn't much
-     time.
+<tr id="L229"><td><a href="#L229">229</a></td><td>LANGOR:  That single shipment of felicium represents an enormous investment. We can't just give it away.</td></tr>
 
-  SOBI
-     What can you offer?
+<tr id="L230"><td><a href="#L230">230</a></td><td>T'JON:  We paid for it. We are asking only for what is ours.</td></tr>
 
-  T'JON
-     Everything we had went down with the Sanction.
+<tr id="L231"><td><a href="#L231">231</a></td><td>LANGOR:  That is your viewpoint. Ours, of course, differs.</td></tr>
 
-  SOBI
-     Then it's going to be difficult to accommodate
-     you.
+<tr id="L232"><td><a href="#L232">232</a></td><td>ROMAS:  You are going to hold to that position?</td></tr>
 
+<tr id="L233"><td><a href="#L233">233</a></td><td>SOBI:  I am constrained to abide by the terms of our agreement.</td></tr>
 
-LOCATION--Bridge
+<tr id="L234"><td><a href="#L234">234</a></td><td>ROMAS:  Then you condemn us to death!</td></tr>
 
-  LAFORGE
-     Solar flares are increasing in magnitude, Captain.
-     Shields are shaky, but they're holding.
+<tr id="L235"><td><a href="#L235">235</a></td><td>T'JON:  Romas.</td></tr>
 
-  PICARD
-     Maintain.
+<tr id="L236"><td><a href="#L236">236</a></td><td>ROMAS:  You disgust me! If you could see the suffering the plague has caused. Well, you are going to, when you see what it does to us.</td></tr>
 
-  ANNOTATION
-     Riker and Tasha enter
+<tr id="L237"><td><a href="#L237">237</a></td><td>PICARD:  Romas, are you and T'Jon carrying this plague?</td></tr>
 
-  PICARD
-     How are our rather quarrelsome guests?
+<tr id="L238"><td><a href="#L238">238</a></td><td>ROMAS:  Yes. Every Ornaran does.</td></tr>
 
-  TASHA
-     They're waiting for you in the observation lounge,
-     sir.
+<tr id="L239"><td><a href="#L239">239</a></td><td>PICARD:  Then you may have brought it aboard this ship. Was there a medical scan when they transported?</td></tr>
 
-  PICARD
-     Data, what information can you give us about the
-     inhabitants of this system?
+<tr id="L240"><td><a href="#L240">240</a></td><td>RIKER:  Unverified. The solar flares could have caused a malfunction in the biofilter.</td></tr>
 
-  DATA
-     Not very much, sir. The only recorded contact with
-     the Delos system was over two hundred years ago. A
-     scout ship reported two inhabited planets, one of
-     which was on the verge of acquiring space travel.
+<tr id="L241"><td><a href="#L241">241</a></td><td>PICARD:  Med Alert. Medical emergency. Doctor Crusher to the observation lounge at once.</td></tr>
 
-  LAFORGE
-     Odd that in two centuries neither civilisation
-     advanced much further.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L242"><td><a href="#L242">242</a></td><td>ANNOTATION: Romas is suffering on a bed</td></tr>
 
-  TROI
-     Sir, I find it strange that none of our visitors
-     feels much remorse about the two freighter
-     passengers who perished. Yet that barrel of cargo
-     is a source of great anxiety to them.
+<tr id="L243"><td><a href="#L243">243</a></td><td>SOBI:  You find us well, I trust?</td></tr>
 
-  PICARD
-     Yes. Let's pay a call, get some answers. Number
-     One, Mister Data. Mister La Forge, you have the
-     Bridge.
+<tr id="L244"><td><a href="#L244">244</a></td><td>CRUSHER:  As far as I can tell. Your physiology is somewhat different than I've ever encountered, but I detect no dangerous virus or bacteria.</td></tr>
 
-  LAFORGE
-     Aye, sir.
+<tr id="L245"><td><a href="#L245">245</a></td><td>LANGOR:  I assure you we're in perfect health.</td></tr>
 
+<tr id="L246"><td><a href="#L246">246</a></td><td>T'JON:  But we are not. We need our medicine.</td></tr>
 
-LOCATION--Observation Lounge
+<tr id="L247"><td><a href="#L247">247</a></td><td>SOBI:  Our medicine.</td></tr>
 
-  RIKER
-     Captain, may I present Sobi and Langor from the
-     planet Brekka, and T'Jon and Romas from Ornara.
+<tr id="L248"><td><a href="#L248">248</a></td><td>T'JON:  We paid for it. It's ours now.</td></tr>
 
-  PICARD
-     I am sorry we couldn't save your ship.
+<tr id="L249"><td><a href="#L249">249</a></td><td>CRUSHER:  Enough!</td></tr>
 
-  T'JON
-     Tell me, you could have repaired it.
+<tr id="L250"><td><a href="#L250">250</a></td><td>SOBI:  Of course. You are right, Doctor. Could we leave now?</td></tr>
 
-  PICARD
-     Oh, yes.
+<tr id="L251"><td><a href="#L251">251</a></td><td>CRUSHER:  I see no reason why not. Escort them to their quarters.</td></tr>
 
-  T'JON
-     We have only two left. Neither works properly.
-     They are critical to our survival. Will you fix
-     them?
+<tr id="L252"><td><a href="#L252">252</a></td><td>ANNOTATION: Picard enters</td></tr>
 
-  PICARD
-     Mister Data?
+<tr id="L253"><td><a href="#L253">253</a></td><td>PICARD:  Doctor.</td></tr>
 
-  DATA
-     Our computer has downloaded the specifications for
-     the magnetic coils the freighters depend on.
-     Assuming the malfunction is similar, suitable
-     replacements can be fabricated.
+<tr id="L254"><td><a href="#L254">254</a></td><td>LANGOR:  Captain, could I speak with you please? In private.</td></tr>
 
-  PICARD
-     Instruct Engineering to proceed.
+<tr id="L255"><td><a href="#L255">255</a></td><td>CRUSHER:  Not right now. Captain.</td></tr>
 
-  DATA
-     Aye, sir.
+<tr><td></td><td>LOCATION--Doctor's office</td></tr>
+<tr id="L256"><td><a href="#L256">256</a></td><td>PICARD:  What have you learned?</td></tr>
 
-  T'JON
-     Now, as for our cargo.
+<tr id="L257"><td><a href="#L257">257</a></td><td>CRUSHER:  The Brekkians show no sign of infection. The Ornarans show all the symptoms of a disease but I can't find a cause.</td></tr>
 
-  SOBI
-     Our cargo, Captain.
+<tr id="L258"><td><a href="#L258">258</a></td><td>PICARD:  Perhaps it was filtered out by the transporter when they were beamed aboard?</td></tr>
 
-  ROMAS
-     Wrong, Sobi.
+<tr id="L259"><td><a href="#L259">259</a></td><td>CRUSHER:  There's no record of it. Then again, the solar flare activity might have caused a malfunction in the biofilters or their monitors.</td></tr>
 
-  PICARD
-     My First Officer has said that ownership of this
-     cargo is in dispute, but this question must be
-     settled by whatever legal mechanism exists between
-     your societies.
+<tr id="L260"><td><a href="#L260">260</a></td><td>PICARD:  Are they going to die?</td></tr>
 
-  T'JON
-     Captain, you don't understand. This is a matter of
-     life and death.
+<tr id="L261"><td><a href="#L261">261</a></td><td>CRUSHER:  I need to check further, but my instinct says no.</td></tr>
 
-  PICARD
-     Why is that? What is this cargo?
+<tr id="L262"><td><a href="#L262">262</a></td><td>PICARD:  Do you think we are in danger from this plague?</td></tr>
 
-  T'JON
-     Medicine.
+<tr id="L263"><td><a href="#L263">263</a></td><td>CRUSHER:  Again, I need more time.</td></tr>
 
-  PICARD
-     Indeed?
+<tr id="L264"><td><a href="#L264">264</a></td><td>PICARD:  There are some missing pieces to this puzzle.</td></tr>
 
-  ROMAS
-     Our planet is in desperate need, Captain. We have
-     people suffering from a lethal plague.
+<tr id="L265"><td><a href="#L265">265</a></td><td>CRUSHER:  What's missing is a little compassion.</td></tr>
 
-  T'JON
-     The cargo you have impounded is the only hope of
-     life for our people.
+<tr id="L266"><td><a href="#L266">266</a></td><td>PICARD:  Are we losing our professional detachment, Doctor?</td></tr>
 
-  PICARD
-     Is that so?
+<tr id="L267"><td><a href="#L267">267</a></td><td>CRUSHER:  Perhaps. But Captain, I must tell you, I'm developing a very active dislike for these Brekkians.</td></tr>
 
-  SOBI
-     Yes.
+<tr id="L268"><td><a href="#L268">268</a></td><td>PICARD:  Understandable.</td></tr>
 
-  LANGOR
-     You must think us heartless brutes, Captain, but
-     look at our side of it. The plant which yields the
-     medicine felicium grows only in remote areas of
-     Brekka.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L269"><td><a href="#L269">269</a></td><td>T'JON:  Captain, you must give us back our cargo.</td></tr>
 
-  SOBI
-     It must be painstakingly cultivated, harvested,
-     purified. A complex and expensive process.
+<tr id="L270"><td><a href="#L270">270</a></td><td>PICARD:  I can't do that.</td></tr>
 
-  LANGOR
-     That single shipment of felicium represents an
-     enormous investment. We can't just give it away.
+<tr id="L271"><td><a href="#L271">271</a></td><td>T'JON:  Why? It belongs to us.</td></tr>
 
-  T'JON
-     We paid for it. We are asking only for what is
-     ours.
+<tr id="L272"><td><a href="#L272">272</a></td><td>PICARD:  The Brekkians claim it belongs to them.</td></tr>
 
-  LANGOR
-     That is your viewpoint. Ours, of course, differs.
+<tr id="L273"><td><a href="#L273">273</a></td><td>ROMAS:  They lie.</td></tr>
 
-  ROMAS
-     You are going to hold to that position?
+<tr id="L274"><td><a href="#L274">274</a></td><td>PICARD:  That may be so, but it's not my decision.</td></tr>
 
-  SOBI
-     I am constrained to abide by the terms of our
-     agreement.
+<tr id="L275"><td><a href="#L275">275</a></td><td>ROMAS:  We need some now. Now! I don't care if it's your decision. Get us some.</td></tr>
 
-  ROMAS
-     Then you condemn us to death!
+<tr id="L276"><td><a href="#L276">276</a></td><td>T'JON:  Captain, what is happening to us, is happening to thousands more on Ornara. Please understand the magnitude of the problem.</td></tr>
 
-  T'JON
-     Romas.
+<tr id="L277"><td><a href="#L277">277</a></td><td>ROMAS:  Your people don't need it. The Brekkians don't need it. Our people do.</td></tr>
 
-  ROMAS
-     You disgust me! If you could see the suffering the
-     plague has caused. Well, you are going to, when
-     you see what it does to us.
+<tr id="L278"><td><a href="#L278">278</a></td><td>T'JON:  If you don't give it to us, you will be a party to murder, not only of us, but of an entire civilisation. I'm sorry, I do not mean to insult you. I'm feeling very shaky.</td></tr>
 
-  PICARD
-     Romas, are you and T'Jon carrying this plague?
+<tr id="L279"><td><a href="#L279">279</a></td><td>ROMAS:  We cannot hold out much longer.</td></tr>
 
-  ROMAS
-     Yes. Every Ornaran does.
+<tr id="L280"><td><a href="#L280">280</a></td><td>CRUSHER:  They believe it will help them. That in itself might control their symptoms.</td></tr>
 
-  PICARD
-     Then you may have brought it aboard this ship. Was
-     there a medical scan when they transported?
+<tr id="L281"><td><a href="#L281">281</a></td><td>PICARD:  I'll talk with the Brekkians.</td></tr>
 
-  RIKER
-     Unverified. The solar flares could have caused a
-     malfunction in the biofilter.
+<tr id="L282"><td><a href="#L282">282</a></td><td>T'JON:  Thank you, Captain. We appreciate anything you can do.</td></tr>
 
-  PICARD
-     Med Alert. Medical emergency. Doctor Crusher to
-     the observation lounge at once.
+<tr><td></td><td>LOCATION--Guest quarters</td></tr>
+<tr id="L283"><td><a href="#L283">283</a></td><td>ANNOTATION: Langor and Sobi are relaxing and enjoying a drink when the doorbell chimes. Picard enters</td></tr>
 
+<tr id="L284"><td><a href="#L284">284</a></td><td>SOBI:  May I say, Captain, how impressed we are with your ship and all its facilities.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L285"><td><a href="#L285">285</a></td><td>PICARD:  Thank you.</td></tr>
 
-  ANNOTATION
-     Romas is suffering on a bed
+<tr id="L286"><td><a href="#L286">286</a></td><td>LANGOR:  And its crew. Everyone is so efficient and professional.</td></tr>
 
-  SOBI
-     You find us well, I trust?
+<tr id="L287"><td><a href="#L287">287</a></td><td>PICARD:  I am glad you are comfortable. I've come to seek your agreement to an Ornaran request.</td></tr>
 
-  CRUSHER
-     As far as I can tell. Your physiology is somewhat
-     different than I've ever encountered, but I detect
-     no dangerous virus or bacteria.
+<tr id="L288"><td><a href="#L288">288</a></td><td>SOBI:  We cannot agree</td></tr>
 
-  LANGOR
-     I assure you we're in perfect health.
+<tr id="L289"><td><a href="#L289">289</a></td><td>LANGOR:  Wait. Let the Captain speak. We want to be reasonable.</td></tr>
 
-  T'JON
-     But we are not. We need our medicine.
+<tr id="L290"><td><a href="#L290">290</a></td><td>PICARD:  The two Ornarans are really quite ill and insisting that they need felicium.</td></tr>
 
-  SOBI
-     Our medicine.
+<tr id="L291"><td><a href="#L291">291</a></td><td>SOBI:  That is not surprising.</td></tr>
 
-  T'JON
-     We paid for it. It's ours now.
+<tr id="L292"><td><a href="#L292">292</a></td><td>PICARD:  Would you object to giving them enough for their own immediate needs?</td></tr>
 
-  CRUSHER
-     Enough!
+<tr id="L293"><td><a href="#L293">293</a></td><td>SOBI:  Captain, we Brekkians are in business. We are not in the habit of giving away what has not been paid for.</td></tr>
 
-  SOBI
-     Of course. You are right, Doctor. Could we leave
-     now?
+<tr id="L294"><td><a href="#L294">294</a></td><td>PICARD:  You would see them die rather than share the medicine?</td></tr>
 
-  CRUSHER
-     I see no reason why not. Escort them to their
-     quarters.
+<tr id="L295"><td><a href="#L295">295</a></td><td>LANGOR:  We want to be fair, Captain. We agree to permitting them two dosages for immediate use.</td></tr>
 
-  ANNOTATION
-     Picard enters
+<tr id="L296"><td><a href="#L296">296</a></td><td>SOBI:  No charge.</td></tr>
 
-  PICARD
-     Doctor.
+<tr id="L297"><td><a href="#L297">297</a></td><td>PICARD:  I'll let my Medical Officer handle it.</td></tr>
 
-  LANGOR
-     Captain, could I speak with you please? In
-     private.
+<tr id="L298"><td><a href="#L298">298</a></td><td>LANGOR:  Captain, I trust you won't mind if we're present while you open the cargo.</td></tr>
 
-  CRUSHER
-     Not right now. Captain.
+<tr><td></td><td>LOCATION--Cargo bay</td></tr>
+<tr id="L299"><td><a href="#L299">299</a></td><td>ANNOTATION: The barrel is opened and a device lifted from the top of the powder</td></tr>
 
+<tr id="L300"><td><a href="#L300">300</a></td><td>CRUSHER:  What does that device do?</td></tr>
 
-LOCATION--Doctor's office
+<tr id="L301"><td><a href="#L301">301</a></td><td>SOBI:  This measures the individual portions.</td></tr>
 
-  PICARD
-     What have you learned?
+<tr id="L302"><td><a href="#L302">302</a></td><td>ANNOTATION: He takes a few grains and puts them into the device</td></tr>
 
-  CRUSHER
-     The Brekkians show no sign of infection. The
-     Ornarans show all the symptoms of a disease but I
-     can't find a cause.
+<tr id="L303"><td><a href="#L303">303</a></td><td>CRUSHER:  What's the dosage?</td></tr>
 
-  PICARD
-     Perhaps it was filtered out by the transporter
-     when they were beamed aboard?
+<tr id="L304"><td><a href="#L304">304</a></td><td>LANGOR:  Point zero one millilitres.</td></tr>
 
-  CRUSHER
-     There's no record of it. Then again, the solar
-     flare activity might have caused a malfunction in
-     the biofilters or their monitors.
+<tr id="L305"><td><a href="#L305">305</a></td><td>CRUSHER:  Very potent substance.</td></tr>
 
-  PICARD
-     Are they going to die?
+<tr id="L306"><td><a href="#L306">306</a></td><td>SOBI:  We've improved our distillation process over the years.</td></tr>
 
-  CRUSHER
-     I need to check further, but my instinct says no.
+<tr id="L307"><td><a href="#L307">307</a></td><td>LANGOR:  In my grandfather's day, the same amount of felicium would have filled five rooms this size.</td></tr>
 
-  PICARD
-     Do you think we are in danger from this plague?
+<tr id="L308"><td><a href="#L308">308</a></td><td>SOBI:  But now with our improved processes, this one barrel contains over four billion doses.</td></tr>
 
-  CRUSHER
-     Again, I need more time.
+<tr id="L309"><td><a href="#L309">309</a></td><td>DATA:  I would estimate four billion, three hundred seventy five million</td></tr>
 
-  PICARD
-     There are some missing pieces to this puzzle.
+<tr id="L310"><td><a href="#L310">310</a></td><td>PICARD:  Thank you, Mister Data.</td></tr>
 
-  CRUSHER
-     What's missing is a little compassion.
+<tr id="L311"><td><a href="#L311">311</a></td><td>CRUSHER:  How long is the dosage effective?</td></tr>
 
-  PICARD
-     Are we losing our professional detachment, Doctor?
+<tr id="L312"><td><a href="#L312">312</a></td><td>LANGOR:  It varies with the individual.</td></tr>
 
-  CRUSHER
-     Perhaps. But Captain, I must tell you, I'm
-     developing a very active dislike for these
-     Brekkians.
+<tr id="L313"><td><a href="#L313">313</a></td><td>SOBI:  But never more than seventy two hours.</td></tr>
 
-  PICARD
-     Understandable.
+<tr id="L314"><td><a href="#L314">314</a></td><td>CRUSHER:  And then the symptoms return.</td></tr>
 
+<tr id="L315"><td><a href="#L315">315</a></td><td>LANGOR:  Yes. Unfortunately, there is no cure for the plague.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L316"><td><a href="#L316">316</a></td><td>SOBI:  But felicium inhibits the sickness with total efficiency.</td></tr>
 
-  T'JON
-     Captain, you must give us back our cargo.
+<tr id="L317"><td><a href="#L317">317</a></td><td>LANGOR:  Allowing the Ornarans to lead normal lives.</td></tr>
 
-  PICARD
-     I can't do that.
+<tr id="L318"><td><a href="#L318">318</a></td><td>CRUSHER:  An unusual disease. Virulent, extremely persistent, yet I can't isolate it.</td></tr>
 
-  T'JON
-     Why? It belongs to us.
+<tr id="L319"><td><a href="#L319">319</a></td><td>LANGOR:  The plague has baffled doctors on both planets for two hundred years.</td></tr>
 
-  PICARD
-     The Brekkians claim it belongs to them.
+<tr id="L320"><td><a href="#L320">320</a></td><td>SOBI:  We've therefore concentrated on treatment, finding new ways to improve the potency and purity of felicium.</td></tr>
 
-  ROMAS
-     They lie.
+<tr id="L321"><td><a href="#L321">321</a></td><td>DATA:  No doubt you have applied your technology from other industries to the refinement of this product.</td></tr>
 
-  PICARD
-     That may be so, but it's not my decision.
+<tr id="L322"><td><a href="#L322">322</a></td><td>SOBI:  We have no other industry.</td></tr>
 
-  ROMAS
-     We need some now. Now! I don't care if it's your
-     decision. Get us some.
+<tr id="L323"><td><a href="#L323">323</a></td><td>PICARD:  None at all?</td></tr>
 
-  T'JON
-     Captain, what is happening to us, is happening to
-     thousands more on Ornara. Please understand the
-     magnitude of the problem.
+<tr id="L324"><td><a href="#L324">324</a></td><td>LANGOR:  We don't need any. The Ornarans provide us everything we need in exchange for this.</td></tr>
 
-  ROMAS
-     Your people don't need it. The Brekkians don't
-     need it. Our people do.
+<tr id="L325"><td><a href="#L325">325</a></td><td>DATA:  Fascinating. Your society is dedicated exclusively to the production of a single product.</td></tr>
 
-  T'JON
-     If you don't give it to us, you will be a party to
-     murder, not only of us, but of an entire
-     civilisation. I'm sorry, I do not mean to insult
-     you. I'm feeling very shaky.
+<tr id="L326"><td><a href="#L326">326</a></td><td>PICARD:  A product for which you have no use, but which the Ornarans can't live without.</td></tr>
 
-  ROMAS
-     We cannot hold out much longer.
+<tr id="L327"><td><a href="#L327">327</a></td><td>LANGOR:  One of the little ironies of life, Captain.</td></tr>
 
-  CRUSHER
-     They believe it will help them. That in itself
-     might control their symptoms.
+<tr id="L328"><td><a href="#L328">328</a></td><td>SOBI:  But one we'd be fools not to take advantage of. It's mutually beneficial.</td></tr>
 
-  PICARD
-     I'll talk with the Brekkians.
+<tr id="L329"><td><a href="#L329">329</a></td><td>LANGOR:  The Ornarans provide us with the necessities of life, and we provide them with the necessities of living. It is a fair exchange.</td></tr>
 
-  T'JON
-     Thank you, Captain. We appreciate anything you can
-     do.
+<tr id="L330"><td><a href="#L330">330</a></td><td>PICARD:  Interesting relationship.</td></tr>
 
+<tr id="L331"><td><a href="#L331">331</a></td><td>CRUSHER:  Excuse me. I'll take that to Sickbay.</td></tr>
 
-LOCATION--Guest quarters
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L332"><td><a href="#L332">332</a></td><td>ANNOTATION: T'Jon and Romas pounce on the device</td></tr>
 
-  ANNOTATION
-     Langor and Sobi are relaxing and enjoying a drink
-     when the doorbell chimes. Picard enters
+<tr id="L333"><td><a href="#L333">333</a></td><td>CRUSHER:  Can I help?</td></tr>
 
-  SOBI
-     May I say, Captain, how impressed we are with your
-     ship and all its facilities.
+<tr id="L334"><td><a href="#L334">334</a></td><td>T'JON:  No.</td></tr>
 
-  PICARD
-     Thank you.
+<tr id="L335"><td><a href="#L335">335</a></td><td>ANNOTATION: T'Jon puts a hypo onto the device and sets it going</td></tr>
 
-  LANGOR
-     And its crew. Everyone is so efficient and
-     professional.
+<tr id="L336"><td><a href="#L336">336</a></td><td>ROMAS:  Hurry up!</td></tr>
 
-  PICARD
-     I am glad you are comfortable. I've come to seek
-     your agreement to an Ornaran request.
+<tr id="L337"><td><a href="#L337">337</a></td><td>ANNOTATION: T'Jon injects Romas, then himself. Their shakes vanish and they become very, very calm and relaxed. Totally blissed out, in fact, man</td></tr>
 
-  SOBI
-     We cannot agree
+<tr id="L338"><td><a href="#L338">338</a></td><td>CRUSHER:  You're feeling better?</td></tr>
 
-  LANGOR
-     Wait. Let the Captain speak. We want to be
-     reasonable.
+<tr id="L339"><td><a href="#L339">339</a></td><td>T'JON:  Yes, thank you. I'm fine now.</td></tr>
 
-  PICARD
-     The two Ornarans are really quite ill and
-     insisting that they need felicium.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L340"><td><a href="#L340">340</a></td><td>PICARD:  Come.</td></tr>
 
-  SOBI
-     That is not surprising.
+<tr id="L341"><td><a href="#L341">341</a></td><td>ANNOTATION: Beverly enters, face like thunder</td></tr>
 
-  PICARD
-     Would you object to giving them enough for their
-     own immediate needs?
+<tr id="L342"><td><a href="#L342">342</a></td><td>PICARD:  Doctor.</td></tr>
 
-  SOBI
-     Captain, we Brekkians are in business. We are not
-     in the habit of giving away what has not been paid
-     for.
+<tr id="L343"><td><a href="#L343">343</a></td><td>CRUSHER:  I may not know felicium's full effect on Ornarian physiology, but I know how to interpret physical reactions.</td></tr>
 
-  PICARD
-     You would see them die rather than share the
-     medicine?
+<tr id="L344"><td><a href="#L344">344</a></td><td>PICARD:  Are the Ornarans recovering?</td></tr>
 
-  LANGOR
-     We want to be fair, Captain. We agree to
-     permitting them two dosages for immediate use.
+<tr id="L345"><td><a href="#L345">345</a></td><td>CRUSHER:  T'Jon and Romas are feeling fine. In fact, too fine. Felicium's a narcotic.</td></tr>
 
-  SOBI
-     No charge.
+<tr id="L346"><td><a href="#L346">346</a></td><td>PICARD:  Then T'Jon, and Romas, indeed everyone on their world?</td></tr>
 
-  PICARD
-     I'll let my Medical Officer handle it.
+<tr id="L347"><td><a href="#L347">347</a></td><td>CRUSHER:  Is a drug addict.</td></tr>
 
-  LANGOR
-     Captain, I trust you won't mind if we're present
-     while you open the cargo.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L348"><td><a href="#L348">348</a></td><td>RIKER:  I think you'll find it's a fascinating tale that we've come across here, Captain.</td></tr>
 
+<tr id="L349"><td><a href="#L349">349</a></td><td>PICARD:  You've piqued my interest, Number One. Please continue.</td></tr>
 
-LOCATION--Cargo bay
+<tr id="L350"><td><a href="#L350">350</a></td><td>RIKER:  Data, what have we got?</td></tr>
 
-  ANNOTATION
-     The barrel is opened and a device lifted from the
-     top of the powder
+<tr id="L351"><td><a href="#L351">351</a></td><td>DATA:  Beginning several thousand years ago, the two worlds took different paths. Ornara became technologically sophisticated, Brekka did not. Then two hundred years ago, Ornara was stricken by a devastating plague.</td></tr>
 
-  CRUSHER
-     What does that device do?
+<tr id="L352"><td><a href="#L352">352</a></td><td>RIKER:  Their advanced technology could provide no solution.</td></tr>
 
-  SOBI
-     This measures the individual portions.
+<tr id="L353"><td><a href="#L353">353</a></td><td>DATA:  Somehow, and there is limited information on this point, the cure was found in a plant indigenous to only Brekka, and which resisted all attempts at cultivation on Ornara.</td></tr>
 
-  ANNOTATION
-     He takes a few grains and puts them into the
-     device
+<tr id="L354"><td><a href="#L354">354</a></td><td>RIKER:  In any case, a trading situation developed which still exists.</td></tr>
 
-  CRUSHER
-     What's the dosage?
+<tr id="L355"><td><a href="#L355">355</a></td><td>CRUSHER:  A nice arrangement for the Brekkians.</td></tr>
 
-  LANGOR
-     Point zero one millilitres.
+<tr id="L356"><td><a href="#L356">356</a></td><td>RIKER:  And for the Ornarans. Without the medicine, they would all die.</td></tr>
 
-  CRUSHER
-     Very potent substance.
+<tr id="L357"><td><a href="#L357">357</a></td><td>CRUSHER:  No they wouldn't. Despite what the Ornarans have been saying, it's not a medicine. It was a medicine, but it cured the plague two hundred years ago. The plague is irrelevant now. It doesn't exist.</td></tr>
 
-  SOBI
-     We've improved our distillation process over the
-     years.
+<tr id="L358"><td><a href="#L358">358</a></td><td>RIKER:  Then why are they so desperate for the felicium?</td></tr>
 
-  LANGOR
-     In my grandfather's day, the same amount of
-     felicium would have filled five rooms this size.
+<tr id="L359"><td><a href="#L359">359</a></td><td>CRUSHER:  It's an addiction. The physical and psychological need is very real.</td></tr>
 
-  SOBI
-     But now with our improved processes, this one
-     barrel contains over four billion doses.
+<tr id="L360"><td><a href="#L360">360</a></td><td>PICARD:  Thank you.</td></tr>
 
-  DATA
-     I would estimate four billion, three hundred
-     seventy five million
+<tr id="L361"><td><a href="#L361">361</a></td><td>CRUSHER:  What are you going to do?</td></tr>
 
-  PICARD
-     Thank you, Mister Data.
+<tr id="L362"><td><a href="#L362">362</a></td><td>PICARD:  Based on what we know so far, there's nothing I can do.</td></tr>
 
-  CRUSHER
-     How long is the dosage effective?
+<tr id="L363"><td><a href="#L363">363</a></td><td>CRUSHER:  You don't think drug addiction and exploitation is sufficient cause to do something?</td></tr>
 
-  LANGOR
-     It varies with the individual.
+<tr id="L364"><td><a href="#L364">364</a></td><td>PICARD:  This situation has existed for a very long time. These two societies are intertwined in a symbiotic relationship.</td></tr>
 
-  SOBI
-     But never more than seventy two hours.
+<tr id="L365"><td><a href="#L365">365</a></td><td>CRUSHER:  With one society profiting at the expense of the other.</td></tr>
 
-  CRUSHER
-     And then the symptoms return.
+<tr id="L366"><td><a href="#L366">366</a></td><td>PICARD:  That's how you see it.</td></tr>
 
-  LANGOR
-     Yes. Unfortunately, there is no cure for the
-     plague.
+<tr id="L367"><td><a href="#L367">367</a></td><td>CRUSHER:  I can synthesise a non-addictive substitute which will ease their withdrawal symptoms.</td></tr>
 
-  SOBI
-     But felicium inhibits the sickness with total
-     efficiency.
+<tr id="L368"><td><a href="#L368">368</a></td><td>PICARD:  No, I can't do that either.</td></tr>
 
-  LANGOR
-     Allowing the Ornarans to lead normal lives.
+<tr id="L369"><td><a href="#L369">369</a></td><td>CRUSHER:  You can't let them have the felicium.</td></tr>
 
-  CRUSHER
-     An unusual disease. Virulent, extremely
-     persistent, yet I can't isolate it.
+<tr id="L370"><td><a href="#L370">370</a></td><td>PICARD:  Why? Because it offends against our sensibilities? It is not our mission to impose Federation or Earth values on any others in the galaxy.</td></tr>
 
-  LANGOR
-     The plague has baffled doctors on both planets for
-     two hundred years.
+<tr id="L371"><td><a href="#L371">371</a></td><td>CRUSHER:  Well in this case, Captain, I disagree, one hundred percent.</td></tr>
 
-  SOBI
-     We've therefore concentrated on treatment, finding
-     new ways to improve the potency and purity of
-     felicium.
+<tr id="L372"><td><a href="#L372">372</a></td><td>TASHA:  Captain, I'm receiving a call from Ornara. The signal is ragged, but I think I can put it on the viewscreen.</td></tr>
 
-  DATA
-     No doubt you have applied your technology from
-     other industries to the refinement of this
-     product.
+<tr id="L373"><td><a href="#L373">373</a></td><td>PICARD:  Do it.</td></tr>
 
-  SOBI
-     We have no other industry.
+<tr id="L374"><td><a href="#L374">374</a></td><td>MARGAN [on viewscreen]:  I'm Margan. Are my people on board your ship?</td></tr>
 
-  PICARD
-     None at all?
+<tr id="L375"><td><a href="#L375">375</a></td><td>PICARD:  Some of them, yes.</td></tr>
 
-  LANGOR
-     We don't need any. The Ornarans provide us
-     everything we need in exchange for this.
+<tr id="L376"><td><a href="#L376">376</a></td><td>MARGAN [on viewscreen]:  May I speak to them?</td></tr>
 
-  DATA
-     Fascinating. Your society is dedicated exclusively
-     to the production of a single product.
+<tr id="L377"><td><a href="#L377">377</a></td><td>PICARD:  Yes. Lieutenant Yar, have the Ornarans brought in. No, wait, I don't want them to have access to the Bridge. We will contact you in a few minutes. (end transmission) I will continue this in the guest quarters. Commander, Doctor.</td></tr>
 
-  PICARD
-     A product for which you have no use, but which the
-     Ornarans can't live without.
+<tr id="L378"><td><a href="#L378">378</a></td><td>ANNOTATION: Picard, Riker and Crusher leave</td></tr>
 
-  LANGOR
-     One of the little ironies of life, Captain.
+<tr id="L379"><td><a href="#L379">379</a></td><td>WESLEY:  Data, I can understand how this could happen to the Ornarans. What I can't understand is why anyone would voluntarily become dependent on a chemical.</td></tr>
 
-  SOBI
-     But one we'd be fools not to take advantage of.
-     It's mutually beneficial.
+<tr id="L380"><td><a href="#L380">380</a></td><td>DATA:  Voluntary addiction to drugs is a recurrent theme in many cultures.</td></tr>
 
-  LANGOR
-     The Ornarans provide us with the necessities of
-     life, and we provide them with the necessities of
-     living. It is a fair exchange.
+<tr id="L381"><td><a href="#L381">381</a></td><td>TASHA:  Wesley, no one wants to become dependent. That happens later.</td></tr>
 
-  PICARD
-     Interesting relationship.
+<tr id="L382"><td><a href="#L382">382</a></td><td>WESLEY:  But it does happen. So why do people start?</td></tr>
 
-  CRUSHER
-     Excuse me. I'll take that to Sickbay.
+<tr id="L383"><td><a href="#L383">383</a></td><td>TASHA:  On my home planet, there was so much poverty and violence, that for some the only escape was through drugs.</td></tr>
 
+<tr id="L384"><td><a href="#L384">384</a></td><td>WESLEY:  How can a chemical substance can provide an escape.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L385"><td><a href="#L385">385</a></td><td>TASHA:  It doesn't, but it makes you think it does. You have to understand, drugs can make you feel good. They make you feel on top of the world. You're happy, sure of yourself, in control.</td></tr>
 
-  ANNOTATION
-     T'Jon and Romas pounce on the device
+<tr id="L386"><td><a href="#L386">386</a></td><td>WESLEY:  But it's artificial.</td></tr>
 
-  CRUSHER
-     Can I help?
+<tr id="L387"><td><a href="#L387">387</a></td><td>TASHA:  It doesn't feel artificial until the drug wears off. Then you pay the price. Before you know it, you're taking the drug not to feel good, but to keep from feeling bad.</td></tr>
 
-  T'JON
-     No.
+<tr id="L388"><td><a href="#L388">388</a></td><td>WESLEY:  And that's the trap?</td></tr>
 
-  ANNOTATION
-     T'Jon puts a hypo onto the device and sets it
-     going
+<tr id="L389"><td><a href="#L389">389</a></td><td>TASHA:  All you care about is getting your next dosage. Nothing else matters.</td></tr>
 
-  ROMAS
-     Hurry up!
+<tr id="L390"><td><a href="#L390">390</a></td><td>WESLEY:  I guess I just don't understand.</td></tr>
 
-  ANNOTATION
-     T'Jon injects Romas, then himself. Their shakes
-     vanish and they become very, very calm and
-     relaxed. Totally blissed out, in fact, man
+<tr id="L391"><td><a href="#L391">391</a></td><td>TASHA:  Wesley, I hope you never do.</td></tr>
 
-  CRUSHER
-     You're feeling better?
+<tr id="L392"><td><a href="#L392">392</a></td><td>PICARD [OC]:  Lieutenant Yar, we're ready in the guest quarters.</td></tr>
 
-  T'JON
-     Yes, thank you. I'm fine now.
+<tr><td></td><td>LOCATION--Ornaran Guest quarters</td></tr>
+<tr id="L393"><td><a href="#L393">393</a></td><td>MARGAN [on monitor]:  T'Jon. Have you got it?</td></tr>
 
+<tr id="L394"><td><a href="#L394">394</a></td><td>T'JON:  Well, it's here, but</td></tr>
 
-LOCATION--Ready room
+<tr id="L395"><td><a href="#L395">395</a></td><td>MARGAN [on monitor]:  You've got to get it to us. T'Jon, please. We're dying down here. You don't know. It's worse than it's ever been before.</td></tr>
 
-  PICARD
-     Come.
+<tr id="L396"><td><a href="#L396">396</a></td><td>T'JON:  I'm doing everything I can. You see, what happened was</td></tr>
 
-  ANNOTATION
-     Beverly enters, face like thunder
+<tr id="L397"><td><a href="#L397">397</a></td><td>MARGAN [on monitor]:  Stop! I can't listen any more! T'Jon, there are so many people here. So much suffering. We need the medicine. You've got to get it to us. I can't go on. Help, T'Jon. Please.</td></tr>
 
-  PICARD
-     Doctor.
+<tr id="L398"><td><a href="#L398">398</a></td><td>PICARD:  I'm sorry.</td></tr>
 
-  CRUSHER
-     I may not know felicium's full effect on Ornarian
-     physiology, but I know how to interpret physical
-     reactions.
+<tr id="L399"><td><a href="#L399">399</a></td><td>ANNOTATION: T'Jon uses his electric power on Riker</td></tr>
 
-  PICARD
-     Are the Ornarans recovering?
+<tr id="L400"><td><a href="#L400">400</a></td><td>T'JON:  You will take us to our planet and leave us there with our medicine or this person dies. Don't you see I have no choice? We were sent to bring the felicium back. The suffering on my planet is too great. People are dying. It doesn't matter whether we're entitled to it or not. We must have it.</td></tr>
 
-  CRUSHER
-     T'Jon and Romas are feeling fine. In fact, too
-     fine. Felicium's a narcotic.
+<tr id="L401"><td><a href="#L401">401</a></td><td>PICARD:  Let him go.</td></tr>
 
-  PICARD
-     Then T'Jon, and Romas, indeed everyone on their
-     world?
+<tr id="L402"><td><a href="#L402">402</a></td><td>T'JON:  You will take us there now, or give us a shuttle. But we must have the medicine. If you refuse, this person will die.</td></tr>
 
-  CRUSHER
-     Is a drug addict.
+<tr id="L403"><td><a href="#L403">403</a></td><td>PICARD:  I will not be coerced.</td></tr>
 
+<tr id="L404"><td><a href="#L404">404</a></td><td>T'JON:  I will do it. I will kill him.</td></tr>
 
-LOCATION--Bridge
+<tr id="L405"><td><a href="#L405">405</a></td><td>PICARD:  No. No, you won't. You're not a killer.</td></tr>
 
-  RIKER
-     I think you'll find it's a fascinating tale that
-     we've come across here, Captain.
+<tr id="L406"><td><a href="#L406">406</a></td><td>ANNOTATION: T'Jon lets Riker go</td></tr>
 
-  PICARD
-     You've piqued my interest, Number One. Please
-     continue.
+<tr id="L407"><td><a href="#L407">407</a></td><td>T'JON:  Help us, please. Help us.</td></tr>
 
-  RIKER
-     Data, what have we got?
+<tr id="L408"><td><a href="#L408">408</a></td><td>PICARD:  I'm not sure that I can.</td></tr>
 
-  DATA
-     Beginning several thousand years ago, the two
-     worlds took different paths. Ornara became
-     technologically sophisticated, Brekka did not.
-     Then two hundred years ago, Ornara was stricken by
-     a devastating plague.
+<tr id="L409"><td><a href="#L409">409</a></td><td>RIKER:  My insides are still shaking, but I'm all right.</td></tr>
 
-  RIKER
-     Their advanced technology could provide no
-     solution.
+<tr id="L410"><td><a href="#L410">410</a></td><td>ANNOTATION: The door opens</td></tr>
 
-  DATA
-     Somehow, and there is limited information on this
-     point, the cure was found in a plant indigenous to
-     only Brekka, and which resisted all attempts at
-     cultivation on Ornara.
+<tr id="L411"><td><a href="#L411">411</a></td><td>LANGOR:  Captain Picard, could I see you a moment?</td></tr>
 
-  RIKER
-     In any case, a trading situation developed which
-     still exists.
+<tr id="L412"><td><a href="#L412">412</a></td><td>RIKER:  I'll stay here.</td></tr>
 
-  CRUSHER
-     A nice arrangement for the Brekkians.
+<tr id="L413"><td><a href="#L413">413</a></td><td>PICARD:  Come with me, Doctor. This could be interesting.</td></tr>
 
-  RIKER
-     And for the Ornarans. Without the medicine, they
-     would all die.
+<tr><td></td><td>LOCATION--Brekkian Guest quarters</td></tr>
+<tr id="L414"><td><a href="#L414">414</a></td><td>LANGOR:  We have thought about this a great deal.</td></tr>
 
-  CRUSHER
-     No they wouldn't. Despite what the Ornarans have
-     been saying, it's not a medicine. It was a
-     medicine, but it cured the plague two hundred
-     years ago. The plague is irrelevant now. It
-     doesn't exist.
+<tr id="L415"><td><a href="#L415">415</a></td><td>SOBI:  We both of us feel deeply about what is happening on Ornara.</td></tr>
 
-  RIKER
-     Then why are they so desperate for the felicium?
+<tr id="L416"><td><a href="#L416">416</a></td><td>LANGOR:  Although it is going to cause hardship to us and to our people, we have decided to give the felicium to them.</td></tr>
 
-  CRUSHER
-     It's an addiction. The physical and psychological
-     need is very real.
+<tr id="L417"><td><a href="#L417">417</a></td><td>SOBI:  They can pay whenever they are able.</td></tr>
 
-  PICARD
-     Thank you.
+<tr id="L418"><td><a href="#L418">418</a></td><td>LANGOR:  We don't want to be the ones responsible for their suffering.</td></tr>
 
-  CRUSHER
-     What are you going to do?
+<tr id="L419"><td><a href="#L419">419</a></td><td>PICARD:  There goes the other shoe. They know.</td></tr>
 
-  PICARD
-     Based on what we know so far, there's nothing I
-     can do.
+<tr id="L420"><td><a href="#L420">420</a></td><td>CRUSHER:  What do they know?</td></tr>
 
-  CRUSHER
-     You don't think drug addiction and exploitation is
-     sufficient cause to do something?
+<tr id="L421"><td><a href="#L421">421</a></td><td>PICARD:  They know that the Ornarans no longer have the plague. They know that felicium is no longer a medicine. So, of course, they are willing to give this shipment because they don't want to take the chance that the Ornarans will lose their addiction. They don't want to lose their only customers.</td></tr>
 
-  PICARD
-     This situation has existed for a very long time.
-     These two societies are intertwined in a symbiotic
-     relationship.
+<tr id="L422"><td><a href="#L422">422</a></td><td>CRUSHER:  How would they have known all that, unless the plague had once infected their world as well.</td></tr>
 
-  CRUSHER
-     With one society profiting at the expense of the
-     other.
+<tr id="L423"><td><a href="#L423">423</a></td><td>PICARD:  They were infected. They used the felicium to cure themselves, but somehow their ancestors realised that it was a narcotic.</td></tr>
 
-  PICARD
-     That's how you see it.
+<tr id="L424"><td><a href="#L424">424</a></td><td>CRUSHER:  They broke the cycle of addiction and never told the Ornarans. They let them continue to believe that without the felicium they would die.</td></tr>
 
-  CRUSHER
-     I can synthesise a non-addictive substitute which
-     will ease their withdrawal symptoms.
+<tr id="L425"><td><a href="#L425">425</a></td><td>PICARD:  I think it's worse than that. My guess is this refining process of which you are so proud</td></tr>
 
-  PICARD
-     No, I can't do that either.
+<tr id="L426"><td><a href="#L426">426</a></td><td>CRUSHER:  is only to increase the potency of the felicium and tighten your grip!</td></tr>
 
-  CRUSHER
-     You can't let them have the felicium.
+<tr id="L427"><td><a href="#L427">427</a></td><td>SOBI:  What are you going to do?</td></tr>
 
-  PICARD
-     Why? Because it offends against our sensibilities?
-     It is not our mission to impose Federation or
-     Earth values on any others in the galaxy.
+<tr id="L428"><td><a href="#L428">428</a></td><td>LANGOR:  Are you going to tell them?</td></tr>
 
-  CRUSHER
-     Well in this case, Captain, I disagree, one
-     hundred percent.
+<tr id="L429"><td><a href="#L429">429</a></td><td>PICARD:  No. I'm bound by the rules of the United Federation of Planets, which order me not to interfere with other worlds, other cultures. If I were to tell them any of this, I would violate that Prime Directive.</td></tr>
 
-  TASHA
-     Captain, I'm receiving a call from Ornara. The
-     signal is ragged, but I think I can put it on the
-     viewscreen.
+<tr id="L430"><td><a href="#L430">430</a></td><td>SOBI:  But you are talking to us about it.</td></tr>
 
-  PICARD
-     Do it.
+<tr id="L431"><td><a href="#L431">431</a></td><td>PICARD:  This is information you already know. And so nothing has changed.</td></tr>
 
-  MARGAN [on viewscreen]
-     I'm Margan. Are my people on board your ship?
+<tr id="L432"><td><a href="#L432">432</a></td><td>LANGOR:  If you can't interfere, then you are going to allow the Ornarans to have the felicium?</td></tr>
 
-  PICARD
-     Some of them, yes.
+<tr id="L433"><td><a href="#L433">433</a></td><td>PICARD:  Yes, I am.</td></tr>
 
-  MARGAN [on viewscreen]
-     May I speak to them?
+<tr id="L434"><td><a href="#L434">434</a></td><td>CRUSHER:  No! Don't do it. Jean-Luc, this is not a symbiotic relationship. This is exploitation, pure and simple! The Brekkians have caused all of this suffering and hardship only to make their pitiful lives easier! And all of it based on a lie. No, deny them this shipment. It is the least we can do.</td></tr>
 
-  PICARD
-     Yes. Lieutenant Yar, have the Ornarans brought in.
-     No, wait, I don't want them to have access to the
-     Bridge. We will contact you in a few minutes. (end
-     transmission) I will continue this in the guest
-     quarters. Commander, Doctor.
+<tr id="L435"><td><a href="#L435">435</a></td><td>PICARD:  From the moment they agreed to give them the felicium, my hands were tied.</td></tr>
 
-  ANNOTATION
-     Picard, Riker and Crusher leave
+<tr id="L436"><td><a href="#L436">436</a></td><td>LANGOR:  You are absolutely right, Captain. It's not your business.</td></tr>
 
-  WESLEY
-     Data, I can understand how this could happen to
-     the Ornarans. What I can't understand is why
-     anyone would voluntarily become dependent on a
-     chemical.
+<tr><td></td><td>LOCATION--Cargo bay</td></tr>
+<tr id="L437"><td><a href="#L437">437</a></td><td>T'JON:  Are these the spare parts for our freighters?</td></tr>
 
-  DATA
-     Voluntary addiction to drugs is a recurrent theme
-     in many cultures.
+<tr id="L438"><td><a href="#L438">438</a></td><td>ROMAS:  They look complicated.</td></tr>
 
-  TASHA
-     Wesley, no one wants to become dependent. That
-     happens later.
+<tr id="L439"><td><a href="#L439">439</a></td><td>T'JON:  Are they already?</td></tr>
 
-  WESLEY
-     But it does happen. So why do people start?
+<tr id="L440"><td><a href="#L440">440</a></td><td>TASHA:  Aligned?</td></tr>
 
-  TASHA
-     On my home planet, there was so much poverty and
-     violence, that for some the only escape was
-     through drugs.
+<tr id="L441"><td><a href="#L441">441</a></td><td>T'JON:  Right.</td></tr>
 
-  WESLEY
-     How can a chemical substance can provide an
-     escape.
+<tr id="L442"><td><a href="#L442">442</a></td><td>TASHA:  You'd have to ask the Captain.</td></tr>
 
-  TASHA
-     It doesn't, but it makes you think it does. You
-     have to understand, drugs can make you feel good.
-     They make you feel on top of the world. You're
-     happy, sure of yourself, in control.
+<tr id="L443"><td><a href="#L443">443</a></td><td>ANNOTATION: Picard, Crusher, Sobi and Langor enter</td></tr>
 
-  WESLEY
-     But it's artificial.
+<tr id="L444"><td><a href="#L444">444</a></td><td>LAFORGE [OC]:  Captain Picard, we've arrived at Ornara and assumed standard orbit.</td></tr>
 
-  TASHA
-     It doesn't feel artificial until the drug wears
-     off. Then you pay the price. Before you know it,
-     you're taking the drug not to feel good, but to
-     keep from feeling bad.
+<tr id="L445"><td><a href="#L445">445</a></td><td>PICARD:  Acknowledged. Thank you.</td></tr>
 
-  WESLEY
-     And that's the trap?
+<tr id="L446"><td><a href="#L446">446</a></td><td>T'JON:  Captain, please. My planet is suffering.</td></tr>
 
-  TASHA
-     All you care about is getting your next dosage.
-     Nothing else matters.
+<tr id="L447"><td><a href="#L447">447</a></td><td>ROMAS:  We beg you to give us our medicine.</td></tr>
 
-  WESLEY
-     I guess I just don't understand.
+<tr id="L448"><td><a href="#L448">448</a></td><td>PICARD:  The matter is already decided. You're beaming down to your world with the felicium.</td></tr>
 
-  TASHA
-     Wesley, I hope you never do.
+<tr id="L449"><td><a href="#L449">449</a></td><td>T'JON:  Great.</td></tr>
 
-  PICARD [OC]
-     Lieutenant Yar, we're ready in the guest quarters.
+<tr id="L450"><td><a href="#L450">450</a></td><td>ROMAS:  I knew it. I knew you'd help us.</td></tr>
 
+<tr id="L451"><td><a href="#L451">451</a></td><td>T'JON:  We thank you.</td></tr>
 
-LOCATION--Ornaran Guest quarters
+<tr id="L452"><td><a href="#L452">452</a></td><td>PICARD:  Don't thank me. Sobi and Langor, they decided to let you have it.</td></tr>
 
-  MARGAN [on monitor]
-     T'Jon. Have you got it?
+<tr id="L453"><td><a href="#L453">453</a></td><td>SOBI:  We'll discuss the payment terms later.</td></tr>
 
-  T'JON
-     Well, it's here, but
+<tr id="L454"><td><a href="#L454">454</a></td><td>LANGOR:  In the mean time, there's no need to deprive you of your needed medicine.</td></tr>
 
-  MARGAN [on monitor]
-     You've got to get it to us. T'Jon, please. We're
-     dying down here. You don't know. It's worse than
-     it's ever been before.
+<tr id="L455"><td><a href="#L455">455</a></td><td>T'JON:  That's terrific.</td></tr>
 
-  T'JON
-     I'm doing everything I can. You see, what happened
-     was
+<tr id="L456"><td><a href="#L456">456</a></td><td>ROMAS:  I'm sure we can come to a fair deal for payment.</td></tr>
 
-  MARGAN [on monitor]
-     Stop! I can't listen any more! T'Jon, there are so
-     many people here. So much suffering. We need the
-     medicine. You've got to get it to us. I can't go
-     on. Help, T'Jon. Please.
+<tr id="L457"><td><a href="#L457">457</a></td><td>SOBI:  May we beam down with you and discuss it?</td></tr>
 
-  PICARD
-     I'm sorry.
+<tr id="L458"><td><a href="#L458">458</a></td><td>T'JON:  Of course.</td></tr>
 
-  ANNOTATION
-     T'Jon uses his electric power on Riker
+<tr id="L459"><td><a href="#L459">459</a></td><td>ROMAS:  You are quite welcome on Ornara.</td></tr>
 
-  T'JON
-     You will take us to our planet and leave us there
-     with our medicine or this person dies. Don't you
-     see I have no choice? We were sent to bring the
-     felicium back. The suffering on my planet is too
-     great. People are dying. It doesn't matter whether
-     we're entitled to it or not. We must have it.
+<tr id="L460"><td><a href="#L460">460</a></td><td>LANGOR:  We appreciate your hospitality.</td></tr>
 
-  PICARD
-     Let him go.
+<tr id="L461"><td><a href="#L461">461</a></td><td>T'JON:  And Captain, we appreciate your gift of the coils.</td></tr>
 
-  T'JON
-     You will take us there now, or give us a shuttle.
-     But we must have the medicine. If you refuse, this
-     person will die.
+<tr id="L462"><td><a href="#L462">462</a></td><td>ROMAS:  Once our freighters are fixed, everything'll be back to normal.</td></tr>
 
-  PICARD
-     I will not be coerced.
+<tr id="L463"><td><a href="#L463">463</a></td><td>PICARD:  No.</td></tr>
 
-  T'JON
-     I will do it. I will kill him.
+<tr id="L464"><td><a href="#L464">464</a></td><td>T'JON:  No?</td></tr>
 
-  PICARD
-     No. No, you won't. You're not a killer.
+<tr id="L465"><td><a href="#L465">465</a></td><td>PICARD:  The coils stay here.</td></tr>
 
-  ANNOTATION
-     T'Jon lets Riker go
+<tr id="L466"><td><a href="#L466">466</a></td><td>ROMAS:  What about our freighters?</td></tr>
 
-  T'JON
-     Help us, please. Help us.
+<tr id="L467"><td><a href="#L467">467</a></td><td>PICARD:  You want to repair them, you'll have to learn to do it yourselves.</td></tr>
 
-  PICARD
-     I'm not sure that I can.
+<tr id="L468"><td><a href="#L468">468</a></td><td>T'JON:  We can't.</td></tr>
 
-  RIKER
-     My insides are still shaking, but I'm all right.
+<tr id="L469"><td><a href="#L469">469</a></td><td>ROMAS:  If you don't help us, our ships will soon be inoperable.</td></tr>
 
-  ANNOTATION
-     The door opens
+<tr id="L470"><td><a href="#L470">470</a></td><td>PICARD:  Quite possibly.</td></tr>
 
-  LANGOR
-     Captain Picard, could I see you a moment?
+<tr id="L471"><td><a href="#L471">471</a></td><td>SOBI:  If you withhold those coils, you'll be disrupting the stability of both our planets.</td></tr>
 
-  RIKER
-     I'll stay here.
+<tr id="L472"><td><a href="#L472">472</a></td><td>LANGOR:  And interfering with a trade arrangement that has lasted for generations! What of your Prime Directive?</td></tr>
 
-  PICARD
-     Come with me, Doctor. This could be interesting.
+<tr id="L473"><td><a href="#L473">473</a></td><td>PICARD:  In this situation, Prime Directive prohibits me from helping you.</td></tr>
 
+<tr id="L474"><td><a href="#L474">474</a></td><td>SOBI:  That's absurd!</td></tr>
 
-LOCATION--Brekkian Guest quarters
+<tr id="L475"><td><a href="#L475">475</a></td><td>PICARD:  You did not think so when it worked in your favour.</td></tr>
 
-  LANGOR
-     We have thought about this a great deal.
+<tr id="L476"><td><a href="#L476">476</a></td><td>ROMAS:  Do you want our world to suffer?</td></tr>
 
-  SOBI
-     We both of us feel deeply about what is happening
-     on Ornara.
+<tr id="L477"><td><a href="#L477">477</a></td><td>PICARD:  Oh no, I don't want that.</td></tr>
 
-  LANGOR
-     Although it is going to cause hardship to us and
-     to our people, we have decided to give the
-     felicium to them.
+<tr id="L478"><td><a href="#L478">478</a></td><td>T'JON:  Without the freighters, there will be no more shipments of felicium. We will die.</td></tr>
 
-  SOBI
-     They can pay whenever they are able.
+<tr id="L479"><td><a href="#L479">479</a></td><td>CRUSHER:  You must trust yourselves. There are other options.</td></tr>
 
-  LANGOR
-     We don't want to be the ones responsible for their
-     suffering.
+<tr id="L480"><td><a href="#L480">480</a></td><td>PICARD:  Ensign, prepare to beam our guests and their cargo down to Ornara.</td></tr>
 
-  PICARD
-     There goes the other shoe. They know.
+<tr id="L481"><td><a href="#L481">481</a></td><td>T'JON:  Captain, I hope you realise what you've done to us.</td></tr>
 
-  CRUSHER
-     What do they know?
+<tr id="L482"><td><a href="#L482">482</a></td><td>PICARD:  Of that you can be sure. Good luck.</td></tr>
 
-  PICARD
-     They know that the Ornarans no longer have the
-     plague. They know that felicium is no longer a
-     medicine. So, of course, they are willing to give
-     this shipment because they don't want to take the
-     chance that the Ornarans will lose their
-     addiction. They don't want to lose their only
-     customers.
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L483"><td><a href="#L483">483</a></td><td>PICARD:  Main Bridge.</td></tr>
 
-  CRUSHER
-     How would they have known all that, unless the
-     plague had once infected their world as well.
+<tr id="L484"><td><a href="#L484">484</a></td><td>CRUSHER:  When the Felicium runs out, the people of Ornara will suffer horrible withdrawal pains.</td></tr>
 
-  PICARD
-     They were infected. They used the felicium to cure
-     themselves, but somehow their ancestors realised
-     that it was a narcotic.
+<tr id="L485"><td><a href="#L485">485</a></td><td>PICARD:  No doubt, but they will pass.</td></tr>
 
-  CRUSHER
-     They broke the cycle of addiction and never told
-     the Ornarans. They let them continue to believe
-     that without the felicium they would die.
+<tr id="L486"><td><a href="#L486">486</a></td><td>CRUSHER:  That seems so cruel. We could have made their burden easier.</td></tr>
 
-  PICARD
-     I think it's worse than that. My guess is this
-     refining process of which you are so proud
+<tr id="L487"><td><a href="#L487">487</a></td><td>PICARD:  Could we have? Perhaps in the short term. But to what end? Hold. Beverly, the Prime Directive is not just a set of rules. It is a philosophy, and a very correct one. History has proved again and again that whenever mankind interferes with a less developed civilisation, no matter how well intentioned that interference may be, the results are invariably disastrous.</td></tr>
 
-  CRUSHER
-     is only to increase the potency of the felicium
-     and tighten your grip!
+<tr id="L488"><td><a href="#L488">488</a></td><td>CRUSHER:  It's hard to be philosophical when faced with suffering.</td></tr>
 
-  SOBI
-     What are you going to do?
+<tr id="L489"><td><a href="#L489">489</a></td><td>PICARD:  Believe me, Beverly, there was only one decision.</td></tr>
 
-  LANGOR
-     Are you going to tell them?
+<tr id="L490"><td><a href="#L490">490</a></td><td>CRUSHER:  I just hope it was the right one.</td></tr>
 
-  PICARD
-     No. I'm bound by the rules of the United
-     Federation of Planets, which order me not to
-     interfere with other worlds, other cultures. If I
-     were to tell them any of this, I would violate
-     that Prime Directive.
+<tr id="L491"><td><a href="#L491">491</a></td><td>PICARD:  And we may never know. Resume.</td></tr>
 
-  SOBI
-     But you are talking to us about it.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L492"><td><a href="#L492">492</a></td><td>PICARD:  Mister La Forge, take us out of orbit.</td></tr>
 
-  PICARD
-     This is information you already know. And so
-     nothing has changed.
+<tr id="L493"><td><a href="#L493">493</a></td><td>LAFORGE:  Destination, sir?</td></tr>
 
-  LANGOR
-     If you can't interfere, then you are going to
-     allow the Ornarans to have the felicium?
+<tr id="L494"><td><a href="#L494">494</a></td><td>PICARD:  I don't care. Let's just get some distance between us and this system.</td></tr>
 
-  PICARD
-     Yes, I am.
+<tr id="L495"><td><a href="#L495">495</a></td><td>LAFORGE:  Aye, sir. Course nine seven zero mark three one eight. Speed, warp three.</td></tr>
 
-  CRUSHER
-     No! Don't do it. Jean-Luc, this is not a symbiotic
-     relationship. This is exploitation, pure and
-     simple! The Brekkians have caused all of this
-     suffering and hardship only to make their pitiful
-     lives easier! And all of it based on a lie. No,
-     deny them this shipment. It is the least we can
-     do.
+<tr id="L496"><td><a href="#L496">496</a></td><td>RIKER:  Where will that take us, Mister La Forge?</td></tr>
 
-  PICARD
-     From the moment they agreed to give them the
-     felicium, my hands were tied.
+<tr id="L497"><td><a href="#L497">497</a></td><td>LAFORGE:  The Opraline system.</td></tr>
 
-  LANGOR
-     You are absolutely right, Captain. It's not your
-     business.
+<tr id="L498"><td><a href="#L498">498</a></td><td>RIKER:  An interesting choice. Why?</td></tr>
 
+<tr id="L499"><td><a href="#L499">499</a></td><td>LAFORGE:  Curiosity. We've never been there.</td></tr>
 
-LOCATION--Cargo bay
+<tr id="L500"><td><a href="#L500">500</a></td><td>PICARD:  Engage.</td></tr>
 
-  T'JON
-     Are these the spare parts for our freighters?
-
-  ROMAS
-     They look complicated.
-
-  T'JON
-     Are they already?
-
-  TASHA
-     Aligned?
-
-  T'JON
-     Right.
-
-  TASHA
-     You'd have to ask the Captain.
-
-  ANNOTATION
-     Picard, Crusher, Sobi and Langor enter
-
-  LAFORGE [OC]
-     Captain Picard, we've arrived at Ornara and
-     assumed standard orbit.
-
-  PICARD
-     Acknowledged. Thank you.
-
-  T'JON
-     Captain, please. My planet is suffering.
-
-  ROMAS
-     We beg you to give us our medicine.
-
-  PICARD
-     The matter is already decided. You're beaming down
-     to your world with the felicium.
-
-  T'JON
-     Great.
-
-  ROMAS
-     I knew it. I knew you'd help us.
-
-  T'JON
-     We thank you.
-
-  PICARD
-     Don't thank me. Sobi and Langor, they decided to
-     let you have it.
-
-  SOBI
-     We'll discuss the payment terms later.
-
-  LANGOR
-     In the mean time, there's no need to deprive you
-     of your needed medicine.
-
-  T'JON
-     That's terrific.
-
-  ROMAS
-     I'm sure we can come to a fair deal for payment.
-
-  SOBI
-     May we beam down with you and discuss it?
-
-  T'JON
-     Of course.
-
-  ROMAS
-     You are quite welcome on Ornara.
-
-  LANGOR
-     We appreciate your hospitality.
-
-  T'JON
-     And Captain, we appreciate your gift of the coils.
-
-  ROMAS
-     Once our freighters are fixed, everything'll be
-     back to normal.
-
-  PICARD
-     No.
-
-  T'JON
-     No?
-
-  PICARD
-     The coils stay here.
-
-  ROMAS
-     What about our freighters?
-
-  PICARD
-     You want to repair them, you'll have to learn to
-     do it yourselves.
-
-  T'JON
-     We can't.
-
-  ROMAS
-     If you don't help us, our ships will soon be
-     inoperable.
-
-  PICARD
-     Quite possibly.
-
-  SOBI
-     If you withhold those coils, you'll be disrupting
-     the stability of both our planets.
-
-  LANGOR
-     And interfering with a trade arrangement that has
-     lasted for generations! What of your Prime
-     Directive?
-
-  PICARD
-     In this situation, Prime Directive prohibits me
-     from helping you.
-
-  SOBI
-     That's absurd!
-
-  PICARD
-     You did not think so when it worked in your
-     favour.
-
-  ROMAS
-     Do you want our world to suffer?
-
-  PICARD
-     Oh no, I don't want that.
-
-  T'JON
-     Without the freighters, there will be no more
-     shipments of felicium. We will die.
-
-  CRUSHER
-     You must trust yourselves. There are other
-     options.
-
-  PICARD
-     Ensign, prepare to beam our guests and their cargo
-     down to Ornara.
-
-  T'JON
-     Captain, I hope you realise what you've done to
-     us.
-
-  PICARD
-     Of that you can be sure. Good luck.
-
-
-LOCATION--Turbolift
-
-  PICARD
-     Main Bridge.
-
-  CRUSHER
-     When the Felicium runs out, the people of Ornara
-     will suffer horrible withdrawal pains.
-
-  PICARD
-     No doubt, but they will pass.
-
-  CRUSHER
-     That seems so cruel. We could have made their
-     burden easier.
-
-  PICARD
-     Could we have? Perhaps in the short term. But to
-     what end? Hold. Beverly, the Prime Directive is
-     not just a set of rules. It is a philosophy, and a
-     very correct one. History has proved again and
-     again that whenever mankind interferes with a less
-     developed civilisation, no matter how well
-     intentioned that interference may be, the results
-     are invariably disastrous.
-
-  CRUSHER
-     It's hard to be philosophical when faced with
-     suffering.
-
-  PICARD
-     Believe me, Beverly, there was only one decision.
-
-  CRUSHER
-     I just hope it was the right one.
-
-  PICARD
-     And we may never know. Resume.
-
-
-LOCATION--Bridge
-
-  PICARD
-     Mister La Forge, take us out of orbit.
-
-  LAFORGE
-     Destination, sir?
-
-  PICARD
-     I don't care. Let's just get some distance between
-     us and this system.
-
-  LAFORGE
-     Aye, sir. Course nine seven zero mark three one
-     eight. Speed, warp three.
-
-  RIKER
-     Where will that take us, Mister La Forge?
-
-  LAFORGE
-     The Opraline system.
-
-  RIKER
-     An interesting choice. Why?
-
-  LAFORGE
-     Curiosity. We've never been there.
-
-  PICARD
-     Engage.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

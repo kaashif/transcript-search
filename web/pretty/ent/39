@@ -1,1072 +1,523 @@
-Dawn
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Dawn</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>HOSHI:  Enterprise to Shuttlepod One. Commander Tucker, do you read me?</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>TRAVIS:  Malcolm?</td></tr>
 
-  HOSHI
-     Enterprise to Shuttlepod One. Commander Tucker, do
-     you read me?
+<tr id="L3"><td><a href="#L3">3</a></td><td>REED:  I detected weapons fire and then both ships just disappeared.</td></tr>
 
-  TRAVIS
-     Malcolm?
+<tr id="L4"><td><a href="#L4">4</a></td><td>ARCHER:  Last known position?</td></tr>
 
-  REED
-     I detected weapons fire and then both ships just
-     disappeared.
+<tr id="L5"><td><a href="#L5">5</a></td><td>REED:  Approximately fifty thousand kilometres, bearing zero zero three mark two seven, I think. I can't be more specific. It's the damned interference.</td></tr>
 
-  ARCHER
-     Last known position?
+<tr id="L6"><td><a href="#L6">6</a></td><td>T'POL:  Many of these moons have atmospheres that contain selenium isotopes. That's most likely what's affecting our sensors.</td></tr>
 
-  REED
-     Approximately fifty thousand kilometres, bearing
-     zero zero three mark two seven, I think. I can't
-     be more specific. It's the damned interference.
+<tr id="L7"><td><a href="#L7">7</a></td><td>ARCHER:  Trip's a good pilot. If he was near one of those moons he most likely set down on it. How many are there?</td></tr>
 
-  T'POL
-     Many of these moons have atmospheres that contain
-     selenium isotopes. That's most likely what's
-     affecting our sensors.
+<tr id="L8"><td><a href="#L8">8</a></td><td>T'POL:  Sixty two.</td></tr>
 
-  ARCHER
-     Trip's a good pilot. If he was near one of those
-     moons he most likely set down on it. How many are
-     there?
+<tr id="L9"><td><a href="#L9">9</a></td><td>ARCHER:  Then we'd better start looking. Travis.</td></tr>
 
-  T'POL
-     Sixty two.
+<tr id="L10"><td><a href="#L10">10</a></td><td>TRAVIS:  Yes, sir.</td></tr>
 
-  ARCHER
-     Then we'd better start looking. Travis.
+<tr id="L11"><td><a href="#L11">11</a></td><td>ARCHER:  We'll scan every moon, even if we have to do it with binoculars. Keep hailing him.</td></tr>
 
-  TRAVIS
-     Yes, sir.
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L12"><td><a href="#L12">12</a></td><td>ANNOTATION: Tucker opens the hatch and comes out into a night scene with insects chirping. There's rock and a dead tree. He goes back inside to tend to his scratches and record events to date.</td></tr>
 
-  ARCHER
-     We'll scan every moon, even if we have to do it
-     with binoculars. Keep hailing him.
+<tr id="L13"><td><a href="#L13">13</a></td><td>TUCKER:  Chief Engineer's Log, supplemental. For the record, I was attacked by a small craft. I don't know what I did to provoke him. Something in this moon's atmosphere neutralised my engines. I was forced to make an emergency landing. Looks like I took some damage on impact. Main power's still offline. I don't think I'll be flying out of here. First things first. I'll try and get the transceiver working, contact the Enterprise.</td></tr>
 
+<tr><td></td><td>LOCATION--Moon</td></tr>
+<tr id="L14"><td><a href="#L14">14</a></td><td>ANNOTATION: Working outside next to a campfire, but his fingers are still very cold and they slip,</td></tr>
 
-LOCATION--Shuttlepod
+<tr id="L15"><td><a href="#L15">15</a></td><td>TUCKER:  Damn it.</td></tr>
 
-  ANNOTATION
-     Tucker opens the hatch and comes out into a night
-     scene with insects chirping. There's rock and a
-     dead tree. He goes back inside to tend to his
-     scratches and record events to date.
+<tr id="L16"><td><a href="#L16">16</a></td><td>ANNOTATION: He blows on them to try and get some feeling back. There's a noise in the shrubs and he leaves the transceiver to go and investigate, carrying a torch and a large metal bar-like tool. Suddenly there's weapon fire and he falls to the ground. A big alien is shouting something and shooting at him. Tucker dives into the shuttlepod for cover and closes the hatch. He looks out towards the campfire to see -</td></tr>
 
-  TUCKER
-     Chief Engineer's Log, supplemental. For the
-     record, I was attacked by a small craft. I don't
-     know what I did to provoke him. Something in this
-     moon's atmosphere neutralised my engines. I was
-     forced to make an emergency landing. Looks like I
-     took some damage on impact. Main power's still
-     offline. I don't think I'll be flying out of here.
-     First things first. I'll try and get the
-     transceiver working, contact the Enterprise.
+<tr id="L17"><td><a href="#L17">17</a></td><td>TUCKER:  Son of a bitch stole my transceiver.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L18"><td><a href="#L18">18</a></td><td>ANNOTATION: Another ship has arrived at the gas giant.</td></tr>
 
-LOCATION--Moon
+<tr id="L19"><td><a href="#L19">19</a></td><td>ARCHER:  Who are they?</td></tr>
 
-  ANNOTATION
-     Working outside next to a campfire, but his
-     fingers are still very cold and they slip,
+<tr id="L20"><td><a href="#L20">20</a></td><td>T'POL:  An Arkonian military vessel.</td></tr>
 
-  TUCKER
-     Damn it.
+<tr id="L21"><td><a href="#L21">21</a></td><td>ARCHER:  You've dealt with them?</td></tr>
 
-  ANNOTATION
-     He blows on them to try and get some feeling back.
-     There's a noise in the shrubs and he leaves the
-     transceiver to go and investigate, carrying a
-     torch and a large metal bar-like tool. Suddenly
-     there's weapon fire and he falls to the ground. A
-     big alien is shouting something and shooting at
-     him. Tucker dives into the shuttlepod for cover
-     and closes the hatch. He looks out towards the
-     campfire to see -
+<tr id="L22"><td><a href="#L22">22</a></td><td>T'POL:  No, but I'm aware of their reputation. If we're in their territory, we should proceed with extreme caution.</td></tr>
 
-  TUCKER
-     Son of a bitch stole my transceiver.
-
+<tr id="L23"><td><a href="#L23">23</a></td><td>HOSHI:  They're hailing us.</td></tr>
 
-LOCATION--Bridge
+<tr id="L24"><td><a href="#L24">24</a></td><td>ANNOTATION: A grey skinned alien with aggressive bony ridges radiating out across the face from the bridge of his nose.</td></tr>
 
-  ANNOTATION
-     Another ship has arrived at the gas giant.
+<tr id="L25"><td><a href="#L25">25</a></td><td>ZSHAAR [on viewscreen]:  You are on an unauthorised course. Leave immediately.</td></tr>
 
-  ARCHER
-     Who are they?
+<tr id="L26"><td><a href="#L26">26</a></td><td>ARCHER:  And you are?</td></tr>
 
-  T'POL
-     An Arkonian military vessel.
-
-  ARCHER
-     You've dealt with them?
-
-  T'POL
-     No, but I'm aware of their reputation. If we're in
-     their territory, we should proceed with extreme
-     caution.
-
-  HOSHI
-     They're hailing us.
-
-  ANNOTATION
-     A grey skinned alien with aggressive bony ridges
-     radiating out across the face from the bridge of
-     his nose.
-
-  ZSHAAR [on viewscreen]
-     You are on an unauthorised course. Leave
-     immediately.
-
-  ARCHER
-     And you are?
-
-  ZSHAAR [on viewscreen]
-     Captain Khata'n Zshaar. I have orders to destroy
-     any vessel that violates our territory.
-
-  ARCHER
-     I'm Captain Jonathan Archer of the Starship
-     Enterprise. We weren't aware that this system was
-     claimed by anyone.
-
-  ZSHAAR [on viewscreen]
-     Why is there a Vulcan on your bridge?
-
-  ARCHER
-     Sub-Commander T-Pol is my Science Officer.
-
-  ZSHAAR [on viewscreen]
-     Turn your ship around.
-
-  ARCHER
-     A member of my crew is missing. We believe he
-     exchanged weapons fire with a small vessel. Was it
-     one of yours?
-
-  ZSHAAR [on viewscreen]
-     We sent a patrol ship to intercept your shuttle.
-     We have also lost contact.
-
-  ARCHER
-     Then maybe we can look for them together. Once
-     we've recovered our crewman we'll be more than
-     happy to leave.
-
-  ZSHAAR [on viewscreen]
-     If your shuttle did encounter my patrol ship, your
-     crewman is already dead.
-
-  ARCHER
-     Either way, we're not going anywhere until we know
-     what happened. Now it seems to me we have a
-     similar problem. Two missing people and sixty two
-     moons. It'll go a lot faster if we use both our
-     ships to co-ordinate the search. The sooner we get
-     started, the sooner we'll be out of your
-     territory.
-
-
-LOCATION--Shuttlepod
-
-  ANNOTATION
-     Tucker has gone out scouting for the thief. He
-     locates another crashed pod and campfire, but
-     makes a noise as his foot slips on some gravel.
-     The alien hasn't heard him, so Tucker makes his
-     way back to his own pod to try and continue
-     repairs.
-
-  TUCKER
-     It's him. I recognise his shuttlecraft. He seems
-     about as bad off as I am. Whatever knocked out my
-     engines probably did the same to his. If I'd
-     brought a Universal Translator along, I'd be able
-     to explain to this guy that I'm just trying to get
-     out of here like he is. One piece of good news.
-     It's starting to warm up a little. Dawn is coming.
-
-
-LOCATION--Alien campfire
-
-  ANNOTATION
-     The alien pilot is struggling with the stolen
-     transceiver, and scratching his head.
-
-  TUCKER [OC]
-     I'm coming out now. Please don't fire. I want to
-     talk. I'm unarmed.
-
-  ANNOTATION
-     The alien heads off in the direction of the voice,
-     and Tucker sneaks in from the opposite side to get
-     his transceiver and do something to it.
+<tr id="L27"><td><a href="#L27">27</a></td><td>ZSHAAR [on viewscreen]:  Captain Khata'n Zshaar. I have orders to destroy any vessel that violates our territory.</td></tr>
 
-  TUCKER [OC]
-     We need to talk. You have something that belongs
-     to me. I want it back. If you understand anything
-     that I'm saying to you, I want you to listen very,
-     very closely. Mary had a little lamb. Its fleece
-     was white as snow.
+<tr id="L28"><td><a href="#L28">28</a></td><td>ARCHER:  I'm Captain Jonathan Archer of the Starship Enterprise. We weren't aware that this system was claimed by anyone.</td></tr>
 
-  ANNOTATION
-     The alien discovers a PADD and speaker in a tree.
+<tr id="L29"><td><a href="#L29">29</a></td><td>ZSHAAR [on viewscreen]:  Why is there a Vulcan on your bridge?</td></tr>
 
-  TUCKER [OC]
-     And everywhere that Mary went, the lamb was sure
-     to go.
+<tr id="L30"><td><a href="#L30">30</a></td><td>ARCHER:  Sub-Commander T-Pol is my Science Officer.</td></tr>
 
-  ANNOTATION
-     The alien dashes back to his camp, tripping an
-     alarm on the way so Tucker has time to hide. He
-     leaves the transceiver behind. The alien comes
-     looking for him, Tucker knocks the gun out of his
-     hand. They wrestle briefly until Tucker manages to
-     snatch it up.
+<tr id="L31"><td><a href="#L31">31</a></td><td>ZSHAAR [on viewscreen]:  Turn your ship around.</td></tr>
 
-  TUCKER
-     Now, maybe we can introduce ourselves.
+<tr id="L32"><td><a href="#L32">32</a></td><td>ARCHER:  A member of my crew is missing. We believe he exchanged weapons fire with a small vessel. Was it one of yours?</td></tr>
 
-  ZHO'KAAN
-     (something)
+<tr id="L33"><td><a href="#L33">33</a></td><td>ZSHAAR [on viewscreen]:  We sent a patrol ship to intercept your shuttle. We have also lost contact.</td></tr>
 
-  TUCKER
-     Nice to meet you, too. Now, I don't want to hurt
-     you. I just want my transceiver back.
+<tr id="L34"><td><a href="#L34">34</a></td><td>ARCHER:  Then maybe we can look for them together. Once we've recovered our crewman we'll be more than happy to leave.</td></tr>
 
-  ANNOTATION
-     The alien says something, then manages to knock
-     Tucker's feet out from under him, grab the gun and
-     shoot him. Later, the alien is trying to work on
-     the transceiver to no avail. He goes over to
-     Tucker and kicks him awake.
+<tr id="L35"><td><a href="#L35">35</a></td><td>ZSHAAR [on viewscreen]:  If your shuttle did encounter my patrol ship, your crewman is already dead.</td></tr>
 
-  TUCKER
-     I'm no good until I've had my coffee.
+<tr id="L36"><td><a href="#L36">36</a></td><td>ARCHER:  Either way, we're not going anywhere until we know what happened. Now it seems to me we have a similar problem. Two missing people and sixty two moons. It'll go a lot faster if we use both our ships to co-ordinate the search. The sooner we get started, the sooner we'll be out of your territory.</td></tr>
 
-  ANNOTATION
-     The alien hauls him to his feet and gestures
-     towards the equipment, saying something.
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L37"><td><a href="#L37">37</a></td><td>ANNOTATION: Tucker has gone out scouting for the thief. He locates another crashed pod and campfire, but makes a noise as his foot slips on some gravel. The alien hasn't heard him, so Tucker makes his way back to his own pod to try and continue repairs.</td></tr>
 
-  TUCKER
-     You wouldn't have a Universal Translator on you?
+<tr id="L38"><td><a href="#L38">38</a></td><td>TUCKER:  It's him. I recognise his shuttlecraft. He seems about as bad off as I am. Whatever knocked out my engines probably did the same to his. If I'd brought a Universal Translator along, I'd be able to explain to this guy that I'm just trying to get out of here like he is. One piece of good news. It's starting to warm up a little. Dawn is coming.</td></tr>
 
-  ZHO'KAAN
-     (shouts)
+<tr><td></td><td>LOCATION--Alien campfire</td></tr>
+<tr id="L39"><td><a href="#L39">39</a></td><td>ANNOTATION: The alien pilot is struggling with the stolen transceiver, and scratching his head.</td></tr>
 
-  TUCKER
-     I don't understand a word you're saying!
+<tr id="L40"><td><a href="#L40">40</a></td><td>TUCKER [OC]:  I'm coming out now. Please don't fire. I want to talk. I'm unarmed.</td></tr>
 
-  ANNOTATION
-     Zho'Kaan lets go of him and mutters towards the
-     transceiver.
+<tr id="L41"><td><a href="#L41">41</a></td><td>ANNOTATION: The alien heads off in the direction of the voice, and Tucker sneaks in from the opposite side to get his transceiver and do something to it.</td></tr>
 
-  TUCKER
-     I can't make it work. It's broken. You know,
-     broken. I was trying to make repairs when you
-     stole it.
+<tr id="L42"><td><a href="#L42">42</a></td><td>TUCKER [OC]:  We need to talk. You have something that belongs to me. I want it back. If you understand anything that I'm saying to you, I want you to listen very, very closely. Mary had a little lamb. Its fleece was white as snow.</td></tr>
 
-  ANNOTATION
-     Zho'Kaan implyes that Tucker should mend it then.
+<tr id="L43"><td><a href="#L43">43</a></td><td>ANNOTATION: The alien discovers a PADD and speaker in a tree.</td></tr>
 
-  TUCKER
-     What?
+<tr id="L44"><td><a href="#L44">44</a></td><td>TUCKER [OC]:  And everywhere that Mary went, the lamb was sure to go.</td></tr>
 
-  ZHO'KAAN
-     Kushka roatta.
+<tr id="L45"><td><a href="#L45">45</a></td><td>ANNOTATION: The alien dashes back to his camp, tripping an alarm on the way so Tucker has time to hide. He leaves the transceiver behind. The alien comes looking for him, Tucker knocks the gun out of his hand. They wrestle briefly until Tucker manages to snatch it up.</td></tr>
 
-  TUCKER
-     You want me to fix your transceiver.
+<tr id="L46"><td><a href="#L46">46</a></td><td>TUCKER:  Now, maybe we can introduce ourselves.</td></tr>
 
-  ANNOTATION
-     The alien jerks his head.
+<tr id="L47"><td><a href="#L47">47</a></td><td>ZHO'KAAN:  (something)</td></tr>
 
-  TUCKER
-     Is that a yes or a no?
+<tr id="L48"><td><a href="#L48">48</a></td><td>TUCKER:  Nice to meet you, too. Now, I don't want to hurt you. I just want my transceiver back.</td></tr>
 
-  ZHO'KAAN
-     Kushka.
+<tr id="L49"><td><a href="#L49">49</a></td><td>ANNOTATION: The alien says something, then manages to knock Tucker's feet out from under him, grab the gun and shoot him. Later, the alien is trying to work on the transceiver to no avail. He goes over to Tucker and kicks him awake.</td></tr>
 
-  TUCKER
-     Kushka to you, too.
+<tr id="L50"><td><a href="#L50">50</a></td><td>TUCKER:  I'm no good until I've had my coffee.</td></tr>
 
-  ANNOTATION
-     Zho'Kaan pulls a gun on him,
+<tr id="L51"><td><a href="#L51">51</a></td><td>ANNOTATION: The alien hauls him to his feet and gestures towards the equipment, saying something.</td></tr>
 
-  TUCKER
-     You kill me and I can't fix anything. You're going
-     to have to untie me. I need my hands.
+<tr id="L52"><td><a href="#L52">52</a></td><td>TUCKER:  You wouldn't have a Universal Translator on you?</td></tr>
 
-  ZHO'KAAN
-     (softly, threateningly)
+<tr id="L53"><td><a href="#L53">53</a></td><td>ZHO'KAAN:  (shouts)</td></tr>
 
-  TUCKER
-     I try anything, I'm a dead man. I get the message.
+<tr id="L54"><td><a href="#L54">54</a></td><td>TUCKER:  I don't understand a word you're saying!</td></tr>
 
-  ANNOTATION
-     The alien unties his wrists.
+<tr id="L55"><td><a href="#L55">55</a></td><td>ANNOTATION: Zho'Kaan lets go of him and mutters towards the transceiver.</td></tr>
 
+<tr id="L56"><td><a href="#L56">56</a></td><td>TUCKER:  I can't make it work. It's broken. You know, broken. I was trying to make repairs when you stole it.</td></tr>
 
-LOCATION--Ready room
+<tr id="L57"><td><a href="#L57">57</a></td><td>ANNOTATION: Zho'Kaan implyes that Tucker should mend it then.</td></tr>
 
-  ARCHER
-     Any progress?
+<tr id="L58"><td><a href="#L58">58</a></td><td>TUCKER:  What?</td></tr>
 
-  T'POL
-     We've searched five of the moons. No sign of
-     Commander Tucker or the Arkonian ship.
+<tr id="L59"><td><a href="#L59">59</a></td><td>ZHO'KAAN:  Kushka roatta.</td></tr>
 
-  ARCHER
-     And the Arkonians?
+<tr id="L60"><td><a href="#L60">60</a></td><td>TUCKER:  You want me to fix your transceiver.</td></tr>
 
-  T'POL
-     It appears they've made no progress either.
-     They're continuing to search the moons they agreed
-     to.
+<tr id="L61"><td><a href="#L61">61</a></td><td>ANNOTATION: The alien jerks his head.</td></tr>
 
-  ARCHER
-     This is their territory. They could have called
-     for more ships to help search.
+<tr id="L62"><td><a href="#L62">62</a></td><td>TUCKER:  Is that a yes or a no?</td></tr>
 
-  T'POL
-     I'm afraid they don't trust us. Primarily because
-     I'm a Vulcan.
+<tr id="L63"><td><a href="#L63">63</a></td><td>ZHO'KAAN:  Kushka.</td></tr>
 
-  ARCHER
-     What's the bad blood?
+<tr id="L64"><td><a href="#L64">64</a></td><td>TUCKER:  Kushka to you, too.</td></tr>
 
-  T'POL
-     We made First Contact nearly a hundred years ago,
-     not long after the Arkonians developed warp drive.
-     But from the beginning, our relations were
-     difficult. Your people accepted Vulcan guidance,
-     opened diplomatic and cultural exchanges. The
-     Arkonians were suspicious and deceitful.
-     Eventually, the High Command withdrew its
-     contingent.
+<tr id="L65"><td><a href="#L65">65</a></td><td>ANNOTATION: Zho'Kaan pulls a gun on him,</td></tr>
 
-  ARCHER
-     Well, maybe we'll have better luck with them.
+<tr id="L66"><td><a href="#L66">66</a></td><td>TUCKER:  You kill me and I can't fix anything. You're going to have to untie me. I need my hands.</td></tr>
 
-  T'POL
-     It doesn't appear promising.
+<tr id="L67"><td><a href="#L67">67</a></td><td>ZHO'KAAN:  (softly, threateningly)</td></tr>
 
-  ARCHER
-     They agreed to work with us.
+<tr id="L68"><td><a href="#L68">68</a></td><td>TUCKER:  I try anything, I'm a dead man. I get the message.</td></tr>
 
-  T'POL
-     For now. I'd advise you to remain cautious.
-     Arkonians are unpredictable. They're prone to
-     hostility.
+<tr id="L69"><td><a href="#L69">69</a></td><td>ANNOTATION: The alien unties his wrists.</td></tr>
 
-  T'POL
-     I'll keep that in mind. Let me know when we reach
-     the next moon.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L70"><td><a href="#L70">70</a></td><td>ARCHER:  Any progress?</td></tr>
 
+<tr id="L71"><td><a href="#L71">71</a></td><td>T'POL:  We've searched five of the moons. No sign of Commander Tucker or the Arkonian ship.</td></tr>
 
-LOCATION--Alien's campfire
+<tr id="L72"><td><a href="#L72">72</a></td><td>ARCHER:  And the Arkonians?</td></tr>
 
-  ANNOTATION
-     There's enough light coming over the horizon for
-     Tucker to turn off his torch. The alien is
-     watching as he tries to connect a piece of
-     equipment to an aerial, and gets an electric
-     shock.
+<tr id="L73"><td><a href="#L73">73</a></td><td>T'POL:  It appears they've made no progress either. They're continuing to search the moons they agreed to.</td></tr>
 
-  TUCKER
-     Damn it.
+<tr id="L74"><td><a href="#L74">74</a></td><td>ARCHER:  This is their territory. They could have called for more ships to help search.</td></tr>
 
-  ZHO'KAAN
-     Damn.
+<tr id="L75"><td><a href="#L75">75</a></td><td>T'POL:  I'm afraid they don't trust us. Primarily because I'm a Vulcan.</td></tr>
 
-  TUCKER
-     Well, looks like we've made some headway in our
-     First Contact between humans and whatever you are.
-     Unfortunately, your first word is something you
-     wouldn't want to use in polite company.
+<tr id="L76"><td><a href="#L76">76</a></td><td>ARCHER:  What's the bad blood?</td></tr>
 
-  ANNOTATION
-     Zho'Kaan says something then gestures towards
-     Tucker.
+<tr id="L77"><td><a href="#L77">77</a></td><td>T'POL:  We made First Contact nearly a hundred years ago, not long after the Arkonians developed warp drive. But from the beginning, our relations were difficult. Your people accepted Vulcan guidance, opened diplomatic and cultural exchanges. The Arkonians were suspicious and deceitful. Eventually, the High Command withdrew its contingent.</td></tr>
 
-  ZHO'KAAN
-     Damn it.
+<tr id="L78"><td><a href="#L78">78</a></td><td>ARCHER:  Well, maybe we'll have better luck with them.</td></tr>
 
-  TUCKER
-     No. I'm Trip. (slaps his chest) Trip.
+<tr id="L79"><td><a href="#L79">79</a></td><td>T'POL:  It doesn't appear promising.</td></tr>
 
-  ZHO'KAAN
-     Trip. (touches his chest) Zho'Kaan.
+<tr id="L80"><td><a href="#L80">80</a></td><td>ARCHER:  They agreed to work with us.</td></tr>
 
-  TUCKER
-     Zho'Kaan. Great. Now that we've been properly
-     introduced, how about some water, Zho'Kaan? It's
-     getting kind of hot. Thirsty. You know. Drink.
-     Water.
+<tr id="L81"><td><a href="#L81">81</a></td><td>T'POL:  For now. I'd advise you to remain cautious. Arkonians are unpredictable. They're prone to hostility.</td></tr>
 
-  ANNOTATION
-     Tucker makes the universal drinking gesture.
-     Zho'Kaan throws him a flask.
+<tr id="L82"><td><a href="#L82">82</a></td><td>T'POL:  I'll keep that in mind. Let me know when we reach the next moon.</td></tr>
 
-  ZHO'KAAN
-     Trip.
+<tr><td></td><td>LOCATION--Alien's campfire</td></tr>
+<tr id="L83"><td><a href="#L83">83</a></td><td>ANNOTATION: There's enough light coming over the horizon for Tucker to turn off his torch. The alien is watching as he tries to connect a piece of equipment to an aerial, and gets an electric shock.</td></tr>
 
-  TUCKER
-     Thanks.
+<tr id="L84"><td><a href="#L84">84</a></td><td>TUCKER:  Damn it.</td></tr>
 
-  ANNOTATION
-     Tucker takes a sip then spits it out and throws
-     the flask away.
+<tr id="L85"><td><a href="#L85">85</a></td><td>ZHO'KAAN:  Damn.</td></tr>
 
-  TUCKER
-     What the hell is that?
+<tr id="L86"><td><a href="#L86">86</a></td><td>TUCKER:  Well, looks like we've made some headway in our First Contact between humans and whatever you are. Unfortunately, your first word is something you wouldn't want to use in polite company.</td></tr>
 
-  ANNOTATION
-     Zho'Kaan says something as he scrabbles for the
-     spilling liquid and takes a drink himself.
+<tr id="L87"><td><a href="#L87">87</a></td><td>ANNOTATION: Zho'Kaan says something then gestures towards Tucker.</td></tr>
 
-  TUCKER
-     Sorry. I have water in my shuttle. Water.
-     Something I can drink.
+<tr id="L88"><td><a href="#L88">88</a></td><td>ZHO'KAAN:  Damn it.</td></tr>
 
-  ANNOTATION
-     Later, Trip is down to his singlet and struggling
-     with the alien tech. He pulls at a wire and falls,
-     cutting himself.
+<tr id="L89"><td><a href="#L89">89</a></td><td>TUCKER:  No. I'm Trip. (slaps his chest) Trip.</td></tr>
 
-  TUCKER
-     There's a medkit in my shuttlepod.
+<tr id="L90"><td><a href="#L90">90</a></td><td>ZHO'KAAN:  Trip. (touches his chest) Zho'Kaan.</td></tr>
 
-  ANNOTATION
-     Zho'Kaan sprays saliva onto the cut.
+<tr id="L91"><td><a href="#L91">91</a></td><td>TUCKER:  Zho'Kaan. Great. Now that we've been properly introduced, how about some water, Zho'Kaan? It's getting kind of hot. Thirsty. You know. Drink. Water.</td></tr>
 
-  TUCKER
-     What the hell are you doing? Are you crazy?
+<tr id="L92"><td><a href="#L92">92</a></td><td>ANNOTATION: Tucker makes the universal drinking gesture. Zho'Kaan throws him a flask.</td></tr>
 
-  ANNOTATION
-     The cut heals quickly and perfectly.
+<tr id="L93"><td><a href="#L93">93</a></td><td>ZHO'KAAN:  Trip.</td></tr>
 
-  TUCKER
-     That was quite a trick.
+<tr id="L94"><td><a href="#L94">94</a></td><td>TUCKER:  Thanks.</td></tr>
 
-  ZHO'KAAN
-     Drat. Drat komacha.
+<tr id="L95"><td><a href="#L95">95</a></td><td>ANNOTATION: Tucker takes a sip then spits it out and throws the flask away.</td></tr>
 
-  ANNOTATION
-     He gestures Trip to get back to work.
+<tr id="L96"><td><a href="#L96">96</a></td><td>TUCKER:  What the hell is that?</td></tr>
 
-  TUCKER
-     All right, all right. I can't fix this thing. It's
-     a lost cause. Maybe if you vomit on it, it'll fix
-     itself. Come over here. I want you to see this.
-     Here. Come here. It's like talking to Porthos. See
-     this? I tried bypassing the induction coil, but it
-     didn't work. See? In here.
+<tr id="L97"><td><a href="#L97">97</a></td><td>ANNOTATION: Zho'Kaan says something as he scrabbles for the spilling liquid and takes a drink himself.</td></tr>
 
-  ANNOTATION
-     As Zho'Kaan leans over, Trip pulls out a tube and
-     something sprays into the alien's face, sending
-     him reeling in pain. Tucker gets the weapon.
+<tr id="L98"><td><a href="#L98">98</a></td><td>TUCKER:  Sorry. I have water in my shuttle. Water. Something I can drink.</td></tr>
 
-  TUCKER
-     I can't fix this. I need to get back to my ship.
-     My ship. Now, pick 'em up. Pick them up!
+<tr id="L99"><td><a href="#L99">99</a></td><td>ANNOTATION: Later, Trip is down to his singlet and struggling with the alien tech. He pulls at a wire and falls, cutting himself.</td></tr>
 
-  ANNOTATION
-     Zho'Kaan snarls.
+<tr id="L100"><td><a href="#L100">100</a></td><td>TUCKER:  There's a medkit in my shuttlepod.</td></tr>
 
-  TUCKER
-     Same to you. Now, let's get going.
+<tr id="L101"><td><a href="#L101">101</a></td><td>ANNOTATION: Zho'Kaan sprays saliva onto the cut.</td></tr>
 
+<tr id="L102"><td><a href="#L102">102</a></td><td>TUCKER:  What the hell are you doing? Are you crazy?</td></tr>
 
-LOCATION--Bridge
+<tr id="L103"><td><a href="#L103">103</a></td><td>ANNOTATION: The cut heals quickly and perfectly.</td></tr>
 
-  ARCHER
-     What have you got?
+<tr id="L104"><td><a href="#L104">104</a></td><td>TUCKER:  That was quite a trick.</td></tr>
 
-  T'POL
-     See for yourself.
+<tr id="L105"><td><a href="#L105">105</a></td><td>ZHO'KAAN:  Drat. Drat komacha.</td></tr>
 
-  ANNOTATION
-     A diagram of the moons orbiting the gas giant,
-     with colours.
+<tr id="L106"><td><a href="#L106">106</a></td><td>ANNOTATION: He gestures Trip to get back to work.</td></tr>
 
-  ARCHER
-     I'll need a little help here.
+<tr id="L107"><td><a href="#L107">107</a></td><td>TUCKER:  All right, all right. I can't fix this thing. It's a lost cause. Maybe if you vomit on it, it'll fix itself. Come over here. I want you to see this. Here. Come here. It's like talking to Porthos. See this? I tried bypassing the induction coil, but it didn't work. See? In here.</td></tr>
 
-  T'POL
-     It's a thermo-kinetic analysis of e moons. Each of
-     them undergoes extreme temperature variations
-     during their orbits.
+<tr id="L108"><td><a href="#L108">108</a></td><td>ANNOTATION: As Zho'Kaan leans over, Trip pulls out a tube and something sprays into the alien's face, sending him reeling in pain. Tucker gets the weapon.</td></tr>
 
-  ARCHER
-     Go on.
+<tr id="L109"><td><a href="#L109">109</a></td><td>TUCKER:  I can't fix this. I need to get back to my ship. My ship. Now, pick 'em up. Pick them up!</td></tr>
 
-  T'POL
-     At night, it can drop to five or even ten degrees
-     below zero.
+<tr id="L110"><td><a href="#L110">110</a></td><td>ANNOTATION: Zho'Kaan snarls.</td></tr>
 
-  ARCHER
-     Doesn't sound so bad.
+<tr id="L111"><td><a href="#L111">111</a></td><td>TUCKER:  Same to you. Now, let's get going.</td></tr>
 
-  T'POL
-     During the day, the temperature can rise to as
-     high as one hundred and seventy degrees.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L112"><td><a href="#L112">112</a></td><td>ARCHER:  What have you got?</td></tr>
 
-  ARCHER
-     We'd better hope that Trip landed on the night
-     side.
+<tr id="L113"><td><a href="#L113">113</a></td><td>T'POL:  See for yourself.</td></tr>
 
-  T'POL
-     And that we find him before the sun rises.
+<tr id="L114"><td><a href="#L114">114</a></td><td>ANNOTATION: A diagram of the moons orbiting the gas giant, with colours.</td></tr>
 
+<tr id="L115"><td><a href="#L115">115</a></td><td>ARCHER:  I'll need a little help here.</td></tr>
 
-LOCATION--Trip's campfire
+<tr id="L116"><td><a href="#L116">116</a></td><td>T'POL:  It's a thermo-kinetic analysis of e moons. Each of them undergoes extreme temperature variations during their orbits.</td></tr>
 
-  ANNOTATION
-     Tucker is tying Zho'Kaan hand and foot.
+<tr id="L117"><td><a href="#L117">117</a></td><td>ARCHER:  Go on.</td></tr>
 
-  TUCKER
-     Don't give me that look. You started this.
+<tr id="L118"><td><a href="#L118">118</a></td><td>T'POL:  At night, it can drop to five or even ten degrees below zero.</td></tr>
 
-  ANNOTATION
-     He takes a long drink of water then rummages in
-     the ration packs.
+<tr id="L119"><td><a href="#L119">119</a></td><td>ARCHER:  Doesn't sound so bad.</td></tr>
 
-  TUCKER
-     You want some food? Food.
+<tr id="L120"><td><a href="#L120">120</a></td><td>T'POL:  During the day, the temperature can rise to as high as one hundred and seventy degrees.</td></tr>
 
-  ANNOTATION
-     Zho'Kaan takes a bite then spits it out.
+<tr id="L121"><td><a href="#L121">121</a></td><td>ARCHER:  We'd better hope that Trip landed on the night side.</td></tr>
 
-  ZHO'KAAN
-     Nohkto.
+<tr id="L122"><td><a href="#L122">122</a></td><td>T'POL:  And that we find him before the sun rises.</td></tr>
 
-  TUCKER
-     Nohkto. I couldn't agree more.
+<tr><td></td><td>LOCATION--Trip's campfire</td></tr>
+<tr id="L123"><td><a href="#L123">123</a></td><td>ANNOTATION: Tucker is tying Zho'Kaan hand and foot.</td></tr>
 
-  ZHO'KAAN
-     (something)
+<tr id="L124"><td><a href="#L124">124</a></td><td>TUCKER:  Don't give me that look. You started this.</td></tr>
 
-  TUCKER
-     You want food from your ship? V'dhoze, that means
-     food?
+<tr id="L125"><td><a href="#L125">125</a></td><td>ANNOTATION: He takes a long drink of water then rummages in the ration packs.</td></tr>
 
-  ZHO'KAAN
-     V'dhoze.
+<tr id="L126"><td><a href="#L126">126</a></td><td>TUCKER:  You want some food? Food.</td></tr>
 
-  TUCKER
-     V'dhoze, ship.
+<tr id="L127"><td><a href="#L127">127</a></td><td>ANNOTATION: Zho'Kaan takes a bite then spits it out.</td></tr>
 
-  ZHO'KAAN
-     Ship.
+<tr id="L128"><td><a href="#L128">128</a></td><td>ZHO'KAAN:  Nohkto.</td></tr>
 
-  TUCKER
-     Yeah. Sorry, but breakfast is going to have to
-     wait. I've figured out a way to get us out of
-     here. I got a pretty good look at your comm.
-     configuration back there. I think I can
-     cannibalise the power supply from your transceiver
-     and use it to get mine working. Maybe get a
-     message off.
+<tr id="L129"><td><a href="#L129">129</a></td><td>TUCKER:  Nohkto. I couldn't agree more.</td></tr>
 
-  ANNOTATION
-     A little later, the sun is slowly rising higher in
-     the sky.
+<tr id="L130"><td><a href="#L130">130</a></td><td>ZHO'KAAN:  (something)</td></tr>
 
-  TUCKER
-     Got it. Almost there. I think this is going to
-     work.
+<tr id="L131"><td><a href="#L131">131</a></td><td>TUCKER:  You want food from your ship? V'dhoze, that means food?</td></tr>
 
-  ZHO'KAAN
-     Nohkto.
+<tr id="L132"><td><a href="#L132">132</a></td><td>ZHO'KAAN:  V'dhoze.</td></tr>
 
-  TUCKER
-     No, not nohkto. Good.
+<tr id="L133"><td><a href="#L133">133</a></td><td>TUCKER:  V'dhoze, ship.</td></tr>
 
-  ZHO'KAAN
-     Good.
+<tr id="L134"><td><a href="#L134">134</a></td><td>ZHO'KAAN:  Ship.</td></tr>
 
-  TUCKER
-     That's right. We're getting out of here. Once we
-     get back to Enterprise and we can finally
-     understand each other, the first words out of your
-     mouth had better be thank you.
+<tr id="L135"><td><a href="#L135">135</a></td><td>TUCKER:  Yeah. Sorry, but breakfast is going to have to wait. I've figured out a way to get us out of here. I got a pretty good look at your comm. configuration back there. I think I can cannibalise the power supply from your transceiver and use it to get mine working. Maybe get a message off.</td></tr>
 
-  ANNOTATION
-     He gets an electrical short from the transceiver,
-     and Zho'Kaan hisses with merriment.
+<tr id="L136"><td><a href="#L136">136</a></td><td>ANNOTATION: A little later, the sun is slowly rising higher in the sky.</td></tr>
 
-  TUCKER
-     You think that's funny?
+<tr id="L137"><td><a href="#L137">137</a></td><td>TUCKER:  Got it. Almost there. I think this is going to work.</td></tr>
 
-  ANNOTATION
-     He puts some commands into a PADD attached to the
-     device, and it comes to life.
+<tr id="L138"><td><a href="#L138">138</a></td><td>ZHO'KAAN:  Nohkto.</td></tr>
 
-  TUCKER
-     You going to laugh now? Tucker to Enterprise.
-     Enterprise, do you read me? Come on, Hoshi. Tucker
-     to Enterprise. This terrain, it's all volcanic.
-     Igneous rock is heavy in diamagnetic minerals.
-     It's interfering with the transmission. I think I
-     know what we need to do. The transceiver, the
-     tsunsana. It's bad down here. Nohkto. But if we
-     take it to higher ground we could avoid some of
-     the interference. I'm going to need help. You and
-     me, together.
+<tr id="L139"><td><a href="#L139">139</a></td><td>TUCKER:  No, not nohkto. Good.</td></tr>
 
-  ANNOTATION
-     Tucker takes the gun and throws it away.
+<tr id="L140"><td><a href="#L140">140</a></td><td>ZHO'KAAN:  Good.</td></tr>
 
-  TUCKER
-     See? I'm not going to hurt you, and you are not
-     going to hurt me. We'll work together.
+<tr id="L141"><td><a href="#L141">141</a></td><td>TUCKER:  That's right. We're getting out of here. Once we get back to Enterprise and we can finally understand each other, the first words out of your mouth had better be thank you.</td></tr>
 
-  ANNOTATION
-     Zho'Kaan jerks his head and holds out his bound
-     wrists. Tucker unties his feet.
+<tr id="L142"><td><a href="#L142">142</a></td><td>ANNOTATION: He gets an electrical short from the transceiver, and Zho'Kaan hisses with merriment.</td></tr>
 
-  TUCKER
-     Before we start, we'll get some food from your
-     ship. Your v'dhoze.
+<tr id="L143"><td><a href="#L143">143</a></td><td>TUCKER:  You think that's funny?</td></tr>
 
-  ANNOTATION
-     As soon as his hands are free, Zho'Kaan attacks
-     Tucker. They wrestle, Zho'Kaan goes after the gun
-     but Tucker gets it away from him.
+<tr id="L144"><td><a href="#L144">144</a></td><td>ANNOTATION: He puts some commands into a PADD attached to the device, and it comes to life.</td></tr>
 
-  TUCKER
-     Easy.
+<tr id="L145"><td><a href="#L145">145</a></td><td>TUCKER:  You going to laugh now? Tucker to Enterprise. Enterprise, do you read me? Come on, Hoshi. Tucker to Enterprise. This terrain, it's all volcanic. Igneous rock is heavy in diamagnetic minerals. It's interfering with the transmission. I think I know what we need to do. The transceiver, the tsunsana. It's bad down here. Nohkto. But if we take it to higher ground we could avoid some of the interference. I'm going to need help. You and me, together.</td></tr>
 
-  ANNOTATION
-     Zho'Kaan sprays that saliva stuff into his face.
-     They trade punches, Zho'Kaan gets a strangle hold
-     on Tucker but gets smashed in the face by a rock
-     for his efforts. Finally they give up, exhausted
-     by heat and effort.
+<tr id="L146"><td><a href="#L146">146</a></td><td>ANNOTATION: Tucker takes the gun and throws it away.</td></tr>
 
-  TUCKER
-     Is that the best you can do?
+<tr id="L147"><td><a href="#L147">147</a></td><td>TUCKER:  See? I'm not going to hurt you, and you are not going to hurt me. We'll work together.</td></tr>
 
-  ANNOTATION
-     Trip retrieves the gun and throws it away again.
+<tr id="L148"><td><a href="#L148">148</a></td><td>ANNOTATION: Zho'Kaan jerks his head and holds out his bound wrists. Tucker unties his feet.</td></tr>
 
-  TUCKER
-     We can fight some more if you want, or we can try
-     to get the hell out of here. What's it going to
-     be?
+<tr id="L149"><td><a href="#L149">149</a></td><td>TUCKER:  Before we start, we'll get some food from your ship. Your v'dhoze.</td></tr>
 
-  ANNOTATION
-     The pair of them carry the equipment up a rocky,
-     sunlit cliff.
+<tr id="L150"><td><a href="#L150">150</a></td><td>ANNOTATION: As soon as his hands are free, Zho'Kaan attacks Tucker. They wrestle, Zho'Kaan goes after the gun but Tucker gets it away from him.</td></tr>
 
-  TUCKER
-     Come on.
+<tr id="L151"><td><a href="#L151">151</a></td><td>TUCKER:  Easy.</td></tr>
 
+<tr id="L152"><td><a href="#L152">152</a></td><td>ANNOTATION: Zho'Kaan sprays that saliva stuff into his face. They trade punches, Zho'Kaan gets a strangle hold on Tucker but gets smashed in the face by a rock for his efforts. Finally they give up, exhausted by heat and effort.</td></tr>
 
-LOCATION--Bridge
+<tr id="L153"><td><a href="#L153">153</a></td><td>TUCKER:  Is that the best you can do?</td></tr>
 
-  HOSHI
-     Captain, I'm picking up a transmission.
+<tr id="L154"><td><a href="#L154">154</a></td><td>ANNOTATION: Trip retrieves the gun and throws it away again.</td></tr>
 
-  ARCHER
-     Trip?
+<tr id="L155"><td><a href="#L155">155</a></td><td>TUCKER:  We can fight some more if you want, or we can try to get the hell out of here. What's it going to be?</td></tr>
 
-  HOSHI
-     I can't tell yet. I'm trying to get a lock.
+<tr id="L156"><td><a href="#L156">156</a></td><td>ANNOTATION: The pair of them carry the equipment up a rocky, sunlit cliff.</td></tr>
 
+<tr id="L157"><td><a href="#L157">157</a></td><td>TUCKER:  Come on.</td></tr>
 
-LOCATION--Deleted scene
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L158"><td><a href="#L158">158</a></td><td>HOSHI:  Captain, I'm picking up a transmission.</td></tr>
 
-  TUCKER [OC]
-     Respond. Mayday. Enterprise. Anybody. Please
-     respond.
+<tr id="L159"><td><a href="#L159">159</a></td><td>ARCHER:  Trip?</td></tr>
 
+<tr id="L160"><td><a href="#L160">160</a></td><td>HOSHI:  I can't tell yet. I'm trying to get a lock.</td></tr>
 
-LOCATION--Ready room
+<tr><td></td><td>LOCATION--Deleted scene</td></tr>
+<tr id="L161"><td><a href="#L161">161</a></td><td>TUCKER [OC]:  Respond. Mayday. Enterprise. Anybody. Please respond.</td></tr>
 
-  ZSHAAR
-     We never received a call.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L162"><td><a href="#L162">162</a></td><td>ZSHAAR:  We never received a call.</td></tr>
 
-  ARCHER
-     It was transmitted on a Starfleet frequency.
+<tr id="L163"><td><a href="#L163">163</a></td><td>ARCHER:  It was transmitted on a Starfleet frequency.</td></tr>
 
-  ZSHAAR
-     You told me these moons are dangerous. So why
-     haven't you rescued your pilot?
+<tr id="L164"><td><a href="#L164">164</a></td><td>ZSHAAR:  You told me these moons are dangerous. So why haven't you rescued your pilot?</td></tr>
 
-  ARCHER
-     That's why I asked you here. The message was in a
-     Starfleet frequency, but we think the carrier wave
-     was generated by your technology. We weren't able
-     to respond. If we can't isolate the wave we won't
-     be able to rescue either of them. My science
-     officer believes she can recalibrate your scanners
-     to isolate our frequencies. Then you can pinpoint
-     their location.
+<tr id="L165"><td><a href="#L165">165</a></td><td>ARCHER:  That's why I asked you here. The message was in a Starfleet frequency, but we think the carrier wave was generated by your technology. We weren't able to respond. If we can't isolate the wave we won't be able to rescue either of them. My science officer believes she can recalibrate your scanners to isolate our frequencies. Then you can pinpoint their location.</td></tr>
 
-  ZSHAAR
-     If I allowed a Vulcan access to an Arkonian ship,
-     I'd be executed.
+<tr id="L166"><td><a href="#L166">166</a></td><td>ZSHAAR:  If I allowed a Vulcan access to an Arkonian ship, I'd be executed.</td></tr>
 
-  ARCHER
-     Then send your science officer over here. T'Pol
-     can show him what to do. It seems my engineer and
-     your pilot have found a way to work together.
+<tr id="L167"><td><a href="#L167">167</a></td><td>ARCHER:  Then send your science officer over here. T'Pol can show him what to do. It seems my engineer and your pilot have found a way to work together.</td></tr>
 
+<tr><td></td><td>LOCATION--Cliff face</td></tr>
+<tr id="L168"><td><a href="#L168">168</a></td><td>ANNOTATION: Zho'Kaan looks in a bad way and Trip is stripped to the waist.</td></tr>
 
-LOCATION--Cliff face
+<tr id="L169"><td><a href="#L169">169</a></td><td>TUCKER:  Chief Engineer's log, supplemental. It's been two hours since we started signaling the Enterprise. No response yet. The sun's not even up yet and it's already hotter than hell. My sparring partner doesn't look too good. I can't be sure, but I don't think his species can sweat. For the record, I have learned one thing about him. His name's Zho'Kaan. Anything you want to say to the folks back home?</td></tr>
 
-  ANNOTATION
-     Zho'Kaan looks in a bad way and Trip is stripped
-     to the waist.
+<tr id="L170"><td><a href="#L170">170</a></td><td>ZHO'KAAN:  Nohkto.</td></tr>
 
-  TUCKER
-     Chief Engineer's log, supplemental. It's been two
-     hours since we started signaling the Enterprise.
-     No response yet. The sun's not even up yet and
-     it's already hotter than hell. My sparring partner
-     doesn't look too good. I can't be sure, but I
-     don't think his species can sweat. For the record,
-     I have learned one thing about him. His name's
-     Zho'Kaan. Anything you want to say to the folks
-     back home?
+<tr id="L171"><td><a href="#L171">171</a></td><td>TUCKER:  That means bad. You'd be proud of me, Hoshi. I've picked up about a dozen words in his language. A couple of them are real tongue-twisters.</td></tr>
 
-  ZHO'KAAN
-     Nohkto.
+<tr id="L172"><td><a href="#L172">172</a></td><td>ANNOTATION: He unscrews the top from Zho'Kaan's flask so he can drink.</td></tr>
 
-  TUCKER
-     That means bad. You'd be proud of me, Hoshi. I've
-     picked up about a dozen words in his language. A
-     couple of them are real tongue-twisters.
+<tr id="L173"><td><a href="#L173">173</a></td><td>ZHO'KAAN:  (something)</td></tr>
 
-  ANNOTATION
-     He unscrews the top from Zho'Kaan's flask so he
-     can drink.
+<tr id="L174"><td><a href="#L174">174</a></td><td>ANNOTATION: The sun has risen over the mountains straight in front of them. Zho'Kaan tries to crawl into what little shade there is. Later -</td></tr>
 
-  ZHO'KAAN
-     (something)
+<tr id="L175"><td><a href="#L175">175</a></td><td>TUCKER:  Hey. Zho'Kaan. (he lifts his head slightly) I though I lost you there.</td></tr>
 
-  ANNOTATION
-     The sun has risen over the mountains straight in
-     front of them. Zho'Kaan tries to crawl into what
-     little shade there is. Later -
+<tr id="L176"><td><a href="#L176">176</a></td><td>ZHO'KAAN:  Tsunsana. Enterprise krnat?</td></tr>
 
-  TUCKER
-     Hey. Zho'Kaan. (he lifts his head slightly) I
-     though I lost you there.
+<tr id="L177"><td><a href="#L177">177</a></td><td>TUCKER:  No. No Enterprise.</td></tr>
 
-  ZHO'KAAN
-     Tsunsana. Enterprise krnat?
+<tr id="L178"><td><a href="#L178">178</a></td><td>ZHO'KAAN:  Damn it.</td></tr>
 
-  TUCKER
-     No. No Enterprise.
+<tr id="L179"><td><a href="#L179">179</a></td><td>ANNOTATION: He has the last of his drink.</td></tr>
 
-  ZHO'KAAN
-     Damn it.
+<tr id="L180"><td><a href="#L180">180</a></td><td>TUCKER:  Don't worry. I'll get Phlox to cook up a new batch for you once we're aboard Enterprise. He's great with that kind of thing. Stay with me, Zho'Kaan. Gan tak. Don't die on me now, understand? All right.</td></tr>
 
-  ANNOTATION
-     He has the last of his drink.
+<tr id="L181"><td><a href="#L181">181</a></td><td>HOSHI [OC]:  Enterprise.</td></tr>
 
-  TUCKER
-     Don't worry. I'll get Phlox to cook up a new batch
-     for you once we're aboard Enterprise. He's great
-     with that kind of thing. Stay with me, Zho'Kaan.
-     Gan tak. Don't die on me now, understand? All
-     right.
+<tr id="L182"><td><a href="#L182">182</a></td><td>TUCKER:  See? I told you. Hoshi, is that you?</td></tr>
 
-  HOSHI [OC]
-     Enterprise.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L183"><td><a href="#L183">183</a></td><td>TUCKER [OC]:  Do you read me?</td></tr>
 
-  TUCKER
-     See? I told you. Hoshi, is that you?
+<tr id="L184"><td><a href="#L184">184</a></td><td>ARCHER:  We read you, Trip.</td></tr>
 
+<tr id="L185"><td><a href="#L185">185</a></td><td>TUCKER [OC]:  You're just in time, Captain. It's starting to get a little hot down here.</td></tr>
 
-LOCATION--Bridge
+<tr id="L186"><td><a href="#L186">186</a></td><td>ARCHER:  We're getting a lock on your position now.</td></tr>
 
-  TUCKER [OC]
-     Do you read me?
+<tr id="L187"><td><a href="#L187">187</a></td><td>TUCKER [OC]:  Don't send a shuttlepod.</td></tr>
 
-  ARCHER
-     We read you, Trip.
+<tr><td></td><td>LOCATION--Moon</td></tr>
+<tr id="L188"><td><a href="#L188">188</a></td><td>TUCKER:  There's something in this atmosphere that'll affect the engines.</td></tr>
 
-  TUCKER [OC]
-     You're just in time, Captain. It's starting to get
-     a little hot down here.
+<tr id="L189"><td><a href="#L189">189</a></td><td>ARCHER [OC]:  it's selenium isotopes, but we don't think it will interfere with the transporter.</td></tr>
 
-  ARCHER
-     We're getting a lock on your position now.
+<tr id="L190"><td><a href="#L190">190</a></td><td>TUCKER:  I'm not alone, Captain.</td></tr>
 
-  TUCKER [OC]
-     Don't send a shuttlepod.
+<tr id="L191"><td><a href="#L191">191</a></td><td>ARCHER [OC]:  We know. The Arkonians helped us find you. How are you and their pilot getting along?</td></tr>
 
+<tr id="L192"><td><a href="#L192">192</a></td><td>TUCKER:  Uh, just like old friends. I'm a little worried, though. He's gotten very dehydrated.</td></tr>
 
-LOCATION--Moon
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L193"><td><a href="#L193">193</a></td><td>ARCHER:  Stand by, Trip. (to Reed) Prepare the transporter.</td></tr>
 
-  TUCKER
-     There's something in this atmosphere that'll
-     affect the engines.
+<tr id="L194"><td><a href="#L194">194</a></td><td>PHLOX:  I wouldn't do that, Captain.</td></tr>
 
-  ARCHER [OC]
-     it's selenium isotopes, but we don't think it will
-     interfere with the transporter.
+<tr id="L195"><td><a href="#L195">195</a></td><td>ARCHER:  What's the problem?</td></tr>
 
-  TUCKER
-     I'm not alone, Captain.
+<tr id="L196"><td><a href="#L196">196</a></td><td>PHLOX:  I've been analysing the Arkonians' physiology. Their endocrine system is extremely sensitive to temperature fluctuations. If that pilot is suffering from dehydration, it's no doubt causing an acute cellular breakdown.</td></tr>
 
-  ARCHER [OC]
-     We know. The Arkonians helped us find you. How are
-     you and their pilot getting along?
+<tr id="L197"><td><a href="#L197">197</a></td><td>ARCHER:  Meaning?</td></tr>
 
-  TUCKER
-     Uh, just like old friends. I'm a little worried,
-     though. He's gotten very dehydrated.
+<tr id="L198"><td><a href="#L198">198</a></td><td>PHLOX:  Transporting him will most likely be fatal.</td></tr>
 
+<tr><td></td><td>LOCATION--Cliff face</td></tr>
+<tr id="L199"><td><a href="#L199">199</a></td><td>ARCHER [OC]:  Archer to Commander Tucker.</td></tr>
 
-LOCATION--Bridge
+<tr id="L200"><td><a href="#L200">200</a></td><td>TUCKER:  I'm still here, Captain.</td></tr>
 
-  ARCHER
-     Stand by, Trip. (to Reed) Prepare the transporter.
+<tr id="L201"><td><a href="#L201">201</a></td><td>ARCHER [OC]:  Trip, we can bring you aboard but we can't transport the Arkonian. Doctor Phlox says it will kill him. We'll try to find a way to get him back to his ship.</td></tr>
 
-  PHLOX
-     I wouldn't do that, Captain.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L202"><td><a href="#L202">202</a></td><td>ARCHER:  But in the meantime, I'm getting you out of there.</td></tr>
 
-  ARCHER
-     What's the problem?
+<tr id="L203"><td><a href="#L203">203</a></td><td>TUCKER [OC]:  No way, Captain. I'm not leaving him here.</td></tr>
 
-  PHLOX
-     I've been analysing the Arkonians' physiology.
-     Their endocrine system is extremely sensitive to
-     temperature fluctuations. If that pilot is
-     suffering from dehydration, it's no doubt causing
-     an acute cellular breakdown.
+<tr id="L204"><td><a href="#L204">204</a></td><td>T'POL:  The surface temperature is rising quickly, Commander. I estimate it will reach one hundred thirty degrees within the next hour.</td></tr>
 
-  ARCHER
-     Meaning?
+<tr id="L205"><td><a href="#L205">205</a></td><td>ARCHER:  Let's get you home.</td></tr>
 
-  PHLOX
-     Transporting him will most likely be fatal.
+<tr><td></td><td>LOCATION--Cliff face</td></tr>
+<tr id="L206"><td><a href="#L206">206</a></td><td>ARCHER [OC]:  Then we'll worry about your friend.</td></tr>
 
+<tr id="L207"><td><a href="#L207">207</a></td><td>TUCKER:  I'm sorry, sir, but I can't do that.</td></tr>
 
-LOCATION--Cliff face
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L208"><td><a href="#L208">208</a></td><td>TUCKER [OC]:  Maybe there's another way.</td></tr>
 
-  ARCHER [OC]
-     Archer to Commander Tucker.
+<tr><td></td><td>LOCATION--Cliff face</td></tr>
+<tr id="L209"><td><a href="#L209">209</a></td><td>TUCKER:  We know our pods can't make it, but I got a good look at the circuitry inside the Arkonian shuttle. One of theirs could be modified.</td></tr>
 
-  TUCKER
-     I'm still here, Captain.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L210"><td><a href="#L210">210</a></td><td>ARCHER:  How?</td></tr>
 
-  ARCHER [OC]
-     Trip, we can bring you aboard but we can't
-     transport the Arkonian. Doctor Phlox says it will
-     kill him. We'll try to find a way to get him back
-     to his ship.
+<tr id="L211"><td><a href="#L211">211</a></td><td>TUCKER [OC]:  If they take a look at their intake manifolds</td></tr>
 
+<tr><td></td><td>LOCATION--Cliff face</td></tr>
+<tr id="L212"><td><a href="#L212">212</a></td><td>TUCKER:  I think they could realign them to filter out the isotopes.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L213"><td><a href="#L213">213</a></td><td>ARCHER:  We'll talk to them, but I won't let you stay down there much longer.</td></tr>
 
-  ARCHER
-     But in the meantime, I'm getting you out of there.
+<tr><td></td><td>LOCATION--Cliff face</td></tr>
+<tr id="L214"><td><a href="#L214">214</a></td><td>TUCKER:  Understood.</td></tr>
 
-  TUCKER [OC]
-     No way, Captain. I'm not leaving him here.
+<tr id="L215"><td><a href="#L215">215</a></td><td>ARCHER [OC]:  Archer out.</td></tr>
 
-  T'POL
-     The surface temperature is rising quickly,
-     Commander. I estimate it will reach one hundred
-     thirty degrees within the next hour.
+<tr id="L216"><td><a href="#L216">216</a></td><td>ANNOTATION: A little later, and sweat is visibly pouring off Tucker. Why isn't it evaporating?</td></tr>
 
-  ARCHER
-     Let's get you home.
+<tr id="L217"><td><a href="#L217">217</a></td><td>TUCKER:  Tucker to Enterprise. Enterprise, respond. Some of these relays have fused. Must be the heat. Hey. Gan tak.</td></tr>
 
+<tr id="L218"><td><a href="#L218">218</a></td><td>ANNOTATION: He pours some water on Zho'Kaan to wake him, then takes a drink.</td></tr>
 
-LOCATION--Cliff face
+<tr id="L219"><td><a href="#L219">219</a></td><td>TUCKER:  I don't suppose the Captain'll trust me to go out on my own for a while. I wouldn't be surprised if he knocked me down to steward. Your orange juice, sir. Jam or marmalade, sir? But I tell you I wouldn't trade my time on Enterprise. Not for anything. I've seen things I could never imagine back home. I saw the Great Plume of Agosoria and I saw the ringed moons of Matalas Prime. And I stood on an asteroid crater twice as high as Everest, and went diving in the ice caves of Etheenia. Rode in a Suliban cell ship. Spent the night, I spent the night with a princess. Oh, and I even got pregnant once. Now there's a story. I'm sure you have stories, too. That's why we chose this life, right? See things we've never seen before. Hell of a ride, though. Hell of a ride.</td></tr>
 
-  ARCHER [OC]
-     Then we'll worry about your friend.
+<tr id="L220"><td><a href="#L220">220</a></td><td>ANNOTATION: Then he sees something in the glare.</td></tr>
 
-  TUCKER
-     I'm sorry, sir, but I can't do that.
+<tr id="L221"><td><a href="#L221">221</a></td><td>TUCKER:  Zho'Kaan. V'dhoze.</td></tr>
 
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L222"><td><a href="#L222">222</a></td><td>ARCHER:  Come in.</td></tr>
 
-LOCATION--Bridge
+<tr id="L223"><td><a href="#L223">223</a></td><td>ANNOTATION: T'Pol and Zshaar enter.</td></tr>
 
-  TUCKER [OC]
-     Maybe there's another way.
+<tr id="L224"><td><a href="#L224">224</a></td><td>ARCHER:  I just got a report from my doctor. Your pilot's responding well. He'll be ready to go home in a few hours.</td></tr>
 
+<tr id="L225"><td><a href="#L225">225</a></td><td>ZSHAAR:  And your crewman?</td></tr>
 
-LOCATION--Cliff face
+<tr id="L226"><td><a href="#L226">226</a></td><td>ARCHER:  He's tired and a bit sunburned, but he's doing fine.</td></tr>
 
-  TUCKER
-     We know our pods can't make it, but I got a good
-     look at the circuitry inside the Arkonian shuttle.
-     One of theirs could be modified.
+<tr id="L227"><td><a href="#L227">227</a></td><td>ZSHAAR:  If I discover that my pilot fired on your shuttle without provocation, he'll be disciplined.</td></tr>
 
+<tr id="L228"><td><a href="#L228">228</a></td><td>ARCHER:  It was a misunderstanding. I hope we can avoid them in the future.</td></tr>
 
-LOCATION--Bridge
+<tr id="L229"><td><a href="#L229">229</a></td><td>ZSHAAR:  I expect you to leave this system immediately, as agreed.</td></tr>
 
-  ARCHER
-     How?
+<tr id="L230"><td><a href="#L230">230</a></td><td>ANNOTATION: Zshaar leaves.</td></tr>
 
-  TUCKER [OC]
-     If they take a look at their intake manifolds
+<tr id="L231"><td><a href="#L231">231</a></td><td>ARCHER:  I guess we won't be adding the Arkonians to our list of friends.</td></tr>
 
+<tr id="L232"><td><a href="#L232">232</a></td><td>T'POL:  The encounter was less volatile than I expected. You managed to establish better relations in a single day than the Vulcans have in a century.</td></tr>
 
-LOCATION--Cliff face
+<tr id="L233"><td><a href="#L233">233</a></td><td>ARCHER:  Let's hope it stays that way.</td></tr>
 
-  TUCKER
-     I think they could realign them to filter out the
-     isotopes.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L234"><td><a href="#L234">234</a></td><td>TUCKER:  How's he doing?</td></tr>
 
+<tr id="L235"><td><a href="#L235">235</a></td><td>PHLOX:  Why don't you ask him yourself? The Universal Translator is online.</td></tr>
 
-LOCATION--Bridge
+<tr id="L236"><td><a href="#L236">236</a></td><td>TUCKER:  They told me another ten minutes of sunshine, and we'd have been cooked.</td></tr>
 
-  ARCHER
-     We'll talk to them, but I won't let you stay down
-     there much longer.
+<tr id="L237"><td><a href="#L237">237</a></td><td>ZHO'KAAN:  Tarattaash.</td></tr>
 
+<tr id="L238"><td><a href="#L238">238</a></td><td>TUCKER:  I thought you said the UT was working.</td></tr>
 
-LOCATION--Cliff face
+<tr id="L239"><td><a href="#L239">239</a></td><td>ZHO'KAAN:  I believe you promised me some Tarattaash.</td></tr>
 
-  TUCKER
-     Understood.
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: Zho'Kaan makes the universal drinking gesture.</td></tr>
 
-  ARCHER [OC]
-     Archer out.
+<tr id="L241"><td><a href="#L241">241</a></td><td>TUCKER:  You mean the brown stuff you were drinking? Won't take a minute. Anything else while I'm at it? Our chef is making something called chicken Marsala tonight.</td></tr>
 
-  ANNOTATION
-     A little later, and sweat is visibly pouring off
-     Tucker. Why isn't it evaporating?
+<tr id="L242"><td><a href="#L242">242</a></td><td>ZHO'KAAN:  Tarat</td></tr>
 
-  TUCKER
-     Tucker to Enterprise. Enterprise, respond. Some of
-     these relays have fused. Must be the heat. Hey.
-     Gan tak.
+<tr id="L243"><td><a href="#L243">243</a></td><td>TUCKER:  Tarattaash. Got you.</td></tr>
 
-  ANNOTATION
-     He pours some water on Zho'Kaan to wake him, then
-     takes a drink.
+<tr id="L244"><td><a href="#L244">244</a></td><td>ZHO'KAAN:  Trip. When I fired at your vessel. I'm grateful I didn't destroy it.</td></tr>
 
-  TUCKER
-     I don't suppose the Captain'll trust me to go out
-     on my own for a while. I wouldn't be surprised if
-     he knocked me down to steward. Your orange juice,
-     sir. Jam or marmalade, sir? But I tell you I
-     wouldn't trade my time on Enterprise. Not for
-     anything. I've seen things I could never imagine
-     back home. I saw the Great Plume of Agosoria and I
-     saw the ringed moons of Matalas Prime. And I stood
-     on an asteroid crater twice as high as Everest,
-     and went diving in the ice caves of Etheenia. Rode
-     in a Suliban cell ship. Spent the night, I spent
-     the night with a princess. Oh, and I even got
-     pregnant once. Now there's a story. I'm sure you
-     have stories, too. That's why we chose this life,
-     right? See things we've never seen before. Hell of
-     a ride, though. Hell of a ride.
+<tr id="L245"><td><a href="#L245">245</a></td><td>TUCKER:  That makes two of us.</td></tr>
 
-  ANNOTATION
-     Then he sees something in the glare.
-
-  TUCKER
-     Zho'Kaan. V'dhoze.
-
-
-LOCATION--Ready room
-
-  ARCHER
-     Come in.
-
-  ANNOTATION
-     T'Pol and Zshaar enter.
-
-  ARCHER
-     I just got a report from my doctor. Your pilot's
-     responding well. He'll be ready to go home in a
-     few hours.
-
-  ZSHAAR
-     And your crewman?
-
-  ARCHER
-     He's tired and a bit sunburned, but he's doing
-     fine.
-
-  ZSHAAR
-     If I discover that my pilot fired on your shuttle
-     without provocation, he'll be disciplined.
-
-  ARCHER
-     It was a misunderstanding. I hope we can avoid
-     them in the future.
-
-  ZSHAAR
-     I expect you to leave this system immediately, as
-     agreed.
-
-  ANNOTATION
-     Zshaar leaves.
-
-  ARCHER
-     I guess we won't be adding the Arkonians to our
-     list of friends.
-
-  T'POL
-     The encounter was less volatile than I expected.
-     You managed to establish better relations in a
-     single day than the Vulcans have in a century.
-
-  ARCHER
-     Let's hope it stays that way.
-
-
-LOCATION--Sickbay
-
-  TUCKER
-     How's he doing?
-
-  PHLOX
-     Why don't you ask him yourself? The Universal
-     Translator is online.
-
-  TUCKER
-     They told me another ten minutes of sunshine, and
-     we'd have been cooked.
-
-  ZHO'KAAN
-     Tarattaash.
-
-  TUCKER
-     I thought you said the UT was working.
-
-  ZHO'KAAN
-     I believe you promised me some Tarattaash.
-
-  ANNOTATION
-     Zho'Kaan makes the universal drinking gesture.
-
-  TUCKER
-     You mean the brown stuff you were drinking? Won't
-     take a minute. Anything else while I'm at it? Our
-     chef is making something called chicken Marsala
-     tonight.
-
-  ZHO'KAAN
-     Tarat
-
-  TUCKER
-     Tarattaash. Got you.
-
-  ZHO'KAAN
-     Trip. When I fired at your vessel. I'm grateful I
-     didn't destroy it.
-
-  TUCKER
-     That makes two of us.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

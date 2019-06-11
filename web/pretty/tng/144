@@ -1,1639 +1,865 @@
-Up The Long Ladder
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Up The Long Ladder</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: Worf is restless, and growling to himself</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>PICARD:  Number One, will you join me in the Ready room?</td></tr>
 
-  ANNOTATION
-     Worf is restless, and growling to himself
+<tr id="L3"><td><a href="#L3">3</a></td><td>RIKER:  Yes, sir.</td></tr>
 
-  PICARD
-     Number One, will you join me in the Ready room?
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L4"><td><a href="#L4">4</a></td><td>PICARD:  I've just come from a meeting with Admiral Moore. He wanted to discuss this.</td></tr>
 
-  RIKER
-     Yes, sir.
+<tr id="L5"><td><a href="#L5">5</a></td><td>ANNOTATION: He plays a regular sound pattern</td></tr>
 
+<tr id="L6"><td><a href="#L6">6</a></td><td>PICARD:  Recognise it?</td></tr>
 
-LOCATION--Ready room
+<tr id="L7"><td><a href="#L7">7</a></td><td>RIKER:  Sounds like it might be an SOS.</td></tr>
 
-  PICARD
-     I've just come from a meeting with Admiral Moore.
-     He wanted to discuss this.
+<tr id="L8"><td><a href="#L8">8</a></td><td>PICARD:  Good guess. You're quicker than Starbase research. It took them hours to determine this was a distress beacon.</td></tr>
 
-  ANNOTATION
-     He plays a regular sound pattern
+<tr id="L9"><td><a href="#L9">9</a></td><td>RIKER:  When was it detected?</td></tr>
 
-  PICARD
-     Recognise it?
+<tr id="L10"><td><a href="#L10">10</a></td><td>PICARD:  Last month. Just kicked in without any warning.</td></tr>
 
-  RIKER
-     Sounds like it might be an SOS.
+<tr id="L11"><td><a href="#L11">11</a></td><td>RIKER:  Who used the beacon?</td></tr>
 
-  PICARD
-     Good guess. You're quicker than Starbase research.
-     It took them hours to determine this was a
-     distress beacon.
+<tr id="L12"><td><a href="#L12">12</a></td><td>PICARD:  It's Terran.</td></tr>
 
-  RIKER
-     When was it detected?
+<tr id="L13"><td><a href="#L13">13</a></td><td>RIKER:  Captain, I'm familiar with most Earth codes, and</td></tr>
 
-  PICARD
-     Last month. Just kicked in without any warning.
+<tr id="L14"><td><a href="#L14">14</a></td><td>PICARD:  Interesting. Yes, that code hasn't been used in centuries.</td></tr>
 
-  RIKER
-     Who used the beacon?
+<tr id="L15"><td><a href="#L15">15</a></td><td>RIKER:  What was its origin point?</td></tr>
 
-  PICARD
-     It's Terran.
+<tr id="L16"><td><a href="#L16">16</a></td><td>PICARD:  Ficus sector.</td></tr>
 
-  RIKER
-     Captain, I'm familiar with most Earth codes, and
+<tr id="L17"><td><a href="#L17">17</a></td><td>RIKER:  Captain, I don't think there's any record of an Earth colony in that area.</td></tr>
 
-  PICARD
-     Interesting. Yes, that code hasn't been used in
-     centuries.
+<tr id="L18"><td><a href="#L18">18</a></td><td>PICARD:  Now we know there's someone out there and they're asking for help.</td></tr>
 
-  RIKER
-     What was its origin point?
+<tr id="L19"><td><a href="#L19">19</a></td><td>RIKER:  But who?</td></tr>
 
-  PICARD
-     Ficus sector.
+<tr id="L20"><td><a href="#L20">20</a></td><td>PICARD:  Let's try and find out. Computer, download all information regarding signal beacon from Starbase mainframe.</td></tr>
 
-  RIKER
-     Captain, I don't think there's any record of an
-     Earth colony in that area.
+<tr id="L21"><td><a href="#L21">21</a></td><td>COMPUTER:  Distress beacon used by the European Hegemony.</td></tr>
 
-  PICARD
-     Now we know there's someone out there and they're
-     asking for help.
+<tr id="L22"><td><a href="#L22">22</a></td><td>RIKER:  The European Hegemony?</td></tr>
 
-  RIKER
-     But who?
+<tr id="L23"><td><a href="#L23">23</a></td><td>PICARD:  A loose alliance formed in the early part of the twenty second century. It was the first stirrings of world government. You should read more history, Number One. Computer, locate exact dates in which this signal beacon was in general use.</td></tr>
 
-  PICARD
-     Let's try and find out. Computer, download all
-     information regarding signal beacon from Starbase
-     mainframe.
+<tr id="L24"><td><a href="#L24">24</a></td><td>COMPUTER:  Old Earth calendar, 2123 until 2190.</td></tr>
 
-  COMPUTER
-     Distress beacon used by the European Hegemony.
+<tr id="L25"><td><a href="#L25">25</a></td><td>RIKER:  No extraterrestrial source ever used this code?</td></tr>
 
-  RIKER
-     The European Hegemony?
+<tr id="L26"><td><a href="#L26">26</a></td><td>COMPUTER:  Negative.</td></tr>
 
-  PICARD
-     A loose alliance formed in the early part of the
-     twenty second century. It was the first stirrings
-     of world government. You should read more history,
-     Number One. Computer, locate exact dates in which
-     this signal beacon was in general use.
+<tr id="L27"><td><a href="#L27">27</a></td><td>PICARD:  Locate all Earth deep space launches from 2123 until 2190, with a destination in or near the Ficus sector.</td></tr>
 
-  COMPUTER
-     Old Earth calendar, 2123 until 2190.
+<tr id="L28"><td><a href="#L28">28</a></td><td>COMPUTER:  Working.</td></tr>
 
-  RIKER
-     No extraterrestrial source ever used this code?
+<tr id="L29"><td><a href="#L29">29</a></td><td>ANNOTATION: The usual list of staff names appear as commanders of various vessels, including Melinda Snodgrass and Gene Roddenberry</td></tr>
 
-  COMPUTER
-     Negative.
+<tr id="L30"><td><a href="#L30">30</a></td><td>RIKER:  Nothing for Ficus.</td></tr>
 
-  PICARD
-     Locate all Earth deep space launches from 2123
-     until 2190, with a destination in or near the
-     Ficus sector.
+<tr id="L31"><td><a href="#L31">31</a></td><td>PICARD:  Damn it, who's out there?</td></tr>
 
-  COMPUTER
-     Working.
+<tr id="L32"><td><a href="#L32">32</a></td><td>RIKER:  Lost sheep.</td></tr>
 
-  ANNOTATION
-     The usual list of staff names appear as commanders
-     of various vessels, including Melinda Snodgrass
-     and Gene Roddenberry
+<tr id="L33"><td><a href="#L33">33</a></td><td>PICARD:  Let's go see if we can find them.</td></tr>
 
-  RIKER
-     Nothing for Ficus.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L34"><td><a href="#L34">34</a></td><td>ANNOTATION: Crew are gathered around a figure on the floor</td></tr>
 
-  PICARD
-     Damn it, who's out there?
+<tr id="L35"><td><a href="#L35">35</a></td><td>DATA:  Medical emergency. Doctor Pulaski to the Bridge.</td></tr>
 
-  RIKER
-     Lost sheep.
+<tr id="L36"><td><a href="#L36">36</a></td><td>ANNOTATION: Worf is out cold</td></tr>
 
-  PICARD
-     Let's go see if we can find them.
+<tr id="L37"><td><a href="#L37">37</a></td><td>PICARD:  What happened?</td></tr>
 
+<tr id="L38"><td><a href="#L38">38</a></td><td>DATA:  He just collapsed, sir.</td></tr>
 
-LOCATION--Bridge
+<tr id="L39"><td><a href="#L39">39</a></td><td>SOMEONE: Captain's log, stardate 42823.2. We're departing from Starbase Seven Three to investigate the source of the mysterious distress signal. Meanwhile, my Security Officer remains in Sickbay, where Doctor Pulaski is searching for the cause of his collapse.</td></tr>
 
-  ANNOTATION
-     Crew are gathered around a figure on the floor
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L40"><td><a href="#L40">40</a></td><td>WORF:  I am fine.</td></tr>
 
-  DATA
-     Medical emergency. Doctor Pulaski to the Bridge.
+<tr id="L41"><td><a href="#L41">41</a></td><td>PULASKI:  You're not fine. You fainted.</td></tr>
 
-  ANNOTATION
-     Worf is out cold
+<tr id="L42"><td><a href="#L42">42</a></td><td>WORF:  I did not faint. Klingons do not faint.</td></tr>
 
-  PICARD
-     What happened?
+<tr id="L43"><td><a href="#L43">43</a></td><td>PULASKI:  Excuse me, I'll rephrase. This Klingon suffered a dramatic drop in blood pressure, his blood glucose level dropped, there was deficient blood flow resulting from circulatory failure. In other words, he curled up his toes and laid unconscious on the floor.</td></tr>
 
-  DATA
-     He just collapsed, sir.
+<tr id="L44"><td><a href="#L44">44</a></td><td>WORF:  Doctor, there is no need to insult me.</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 42823.2. We're departing
-     from Starbase Seven Three to investigate the
-     source of the mysterious distress signal.
-     Meanwhile, my Security Officer remains in Sickbay,
-     where Doctor Pulaski is searching for the cause of
-     his collapse.
+<tr id="L45"><td><a href="#L45">45</a></td><td>PULASKI:  Worf, I am worried. Now, something is wrong. Klingons don't faint. Forgive me. I just can't think of another word that applies. You're sick.</td></tr>
 
+<tr id="L46"><td><a href="#L46">46</a></td><td>WORF:  Klingons do not give in to illness.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L47"><td><a href="#L47">47</a></td><td>PULASKI:  Just stay right where you are. I have to check something with the computer. Lieutenant, you have rop'ngor.</td></tr>
 
-  WORF
-     I am fine.
+<tr id="L48"><td><a href="#L48">48</a></td><td>WORF:  But that is a childhood ailment!</td></tr>
 
-  PULASKI
-     You're not fine. You fainted.
+<tr id="L49"><td><a href="#L49">49</a></td><td>PULASKI:  Yes.</td></tr>
 
-  WORF
-     I did not faint. Klingons do not faint.
+<tr id="L50"><td><a href="#L50">50</a></td><td>WORF:  How shall I live down the humiliation?</td></tr>
 
-  PULASKI
-     Excuse me, I'll rephrase. This Klingon suffered a
-     dramatic drop in blood pressure, his blood glucose
-     level dropped, there was deficient blood flow
-     resulting from circulatory failure. In other
-     words, he curled up his toes and laid unconscious
-     on the floor.
+<tr id="L51"><td><a href="#L51">51</a></td><td>PULASKI:  Worf, you can't help.</td></tr>
 
-  WORF
-     Doctor, there is no need to insult me.
+<tr id="L52"><td><a href="#L52">52</a></td><td>WORF:  Still, for a warrior to find himself in such a situation.</td></tr>
 
-  PULASKI
-     Worf, I am worried. Now, something is wrong.
-     Klingons don't faint. Forgive me. I just can't
-     think of another word that applies. You're sick.
+<tr id="L53"><td><a href="#L53">53</a></td><td>PULASKI:  So you've got the Klingon version of the measles.</td></tr>
 
-  WORF
-     Klingons do not give in to illness.
+<tr id="L54"><td><a href="#L54">54</a></td><td>WORF:  How would Commander Riker feel if he had the measles.</td></tr>
 
-  PULASKI
-     Just stay right where you are. I have to check
-     something with the computer. Lieutenant, you have
-     rop'ngor.
+<tr id="L55"><td><a href="#L55">55</a></td><td>PULASKI:  Pretty silly.</td></tr>
 
-  WORF
-     But that is a childhood ailment!
+<tr id="L56"><td><a href="#L56">56</a></td><td>PICARD [OC]:  Doctor Pulaski, how is Lieutenant Worf?</td></tr>
 
-  PULASKI
-     Yes.
+<tr id="L57"><td><a href="#L57">57</a></td><td>PULASKI:  He's in no danger. Worf was just observing a Klingon ritual involving fasting, and he didn't take into account that you have to decrease your physical activity as you decrease your caloric intake. Pulaski out.</td></tr>
 
-  WORF
-     How shall I live down the humiliation?
+<tr id="L58"><td><a href="#L58">58</a></td><td>WORF:  Thank you. I am in your debt.</td></tr>
 
-  PULASKI
-     Worf, you can't help.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L59"><td><a href="#L59">59</a></td><td>PICARD:  Come.</td></tr>
 
-  WORF
-     Still, for a warrior to find himself in such a
-     situation.
+<tr id="L60"><td><a href="#L60">60</a></td><td>ANNOTATION: Data enters</td></tr>
 
-  PULASKI
-     So you've got the Klingon version of the measles.
+<tr id="L61"><td><a href="#L61">61</a></td><td>DATA:  Captain, I have been considering the problem of the missing ship. Although there is no record of a launch to the Ficus sector, which would not be unusual considering the chaos of the early twenty second century, someone had to load that ship.</td></tr>
 
-  WORF
-     How would Commander Riker feel if he had the
-     measles.
+<tr id="L62"><td><a href="#L62">62</a></td><td>PICARD:  The manifest.</td></tr>
 
-  PULASKI
-     Pretty silly.
+<tr id="L63"><td><a href="#L63">63</a></td><td>DATA:  Yes, sir.</td></tr>
 
-  PICARD [OC]
-     Doctor Pulaski, how is Lieutenant Worf?
+<tr id="L64"><td><a href="#L64">64</a></td><td>PICARD:  There it is. SS Mariposa, loaded 27th November, 2123. Destination Ficus sector. Captain Walter Granger, commanding.</td></tr>
 
-  PULASKI
-     He's in no danger. Worf was just observing a
-     Klingon ritual involving fasting, and he didn't
-     take into account that you have to decrease your
-     physical activity as you decrease your caloric
-     intake. Pulaski out.
+<tr id="L65"><td><a href="#L65">65</a></td><td>DATA:  Mariposa. The Spanish word for butterfly.</td></tr>
 
-  WORF
-     Thank you. I am in your debt.
+<tr id="L66"><td><a href="#L66">66</a></td><td>PICARD:  Thank you, Data.</td></tr>
 
+<tr id="L67"><td><a href="#L67">67</a></td><td>DATA:  I thought it might be significant, sir.</td></tr>
 
-LOCATION--Ready room
+<tr id="L68"><td><a href="#L68">68</a></td><td>PICARD:  It doesn't appear to be, Data.</td></tr>
 
-  PICARD
-     Come.
+<tr id="L69"><td><a href="#L69">69</a></td><td>DATA:  No, sir.</td></tr>
 
-  ANNOTATION
-     Data enters
+<tr id="L70"><td><a href="#L70">70</a></td><td>PICARD:  You learn a lot about people from their luggage. Two hundred and twenty five Yoshimitsu computers, five monitor beacon satellites, seven hundred cellular commlinks, fifty spinning wheels.</td></tr>
 
-  DATA
-     Captain, I have been considering the problem of
-     the missing ship. Although there is no record of a
-     launch to the Ficus sector, which would not be
-     unusual considering the chaos of the early twenty
-     second century, someone had to load that ship.
+<tr id="L71"><td><a href="#L71">71</a></td><td>DATA:  (over Picard) Spinning wheels? Accessing. A device for spinning yarn or thread that consists of a large foot or hand driven wheel and one spindle.</td></tr>
 
-  PICARD
-     The manifest.
+<tr id="L72"><td><a href="#L72">72</a></td><td>PICARD:  Cattle, chickens, pigs. Not DNA, the actual livestock. Incredible. Why would anyone carry such an insane mix of cargo?</td></tr>
 
-  DATA
-     Yes, sir.
+<tr id="L73"><td><a href="#L73">73</a></td><td>DATA:  Spindle, a thin rounded tapering rod</td></tr>
 
-  PICARD
-     There it is. SS Mariposa, loaded 27th November,
-     2123. Destination Ficus sector. Captain Walter
-     Granger, commanding.
+<tr id="L74"><td><a href="#L74">74</a></td><td>PICARD:  Data!</td></tr>
 
-  DATA
-     Mariposa. The Spanish word for butterfly.
+<tr id="L75"><td><a href="#L75">75</a></td><td>DATA:  Perhaps they were planning for the worst, sir.</td></tr>
 
-  PICARD
-     Thank you, Data.
+<tr id="L76"><td><a href="#L76">76</a></td><td>PICARD:  Theorise, Data. Give me some background.</td></tr>
 
-  DATA
-     I thought it might be significant, sir.
+<tr id="L77"><td><a href="#L77">77</a></td><td>DATA:  In the early twenty-second century, Earth was recovering from World War Three. A major philosopher of the period was Liam Dieghan, founder of the Neo-Transcendentalists, who advocated a return to a simpler life in which one lived in harmony with nature, and learned under her gentle tutelage</td></tr>
 
-  PICARD
-     It doesn't appear to be, Data.
+<tr id="L78"><td><a href="#L78">78</a></td><td>PICARD:  Thank you, Data. But if this was a ship full of utopians, why carry all this technological baggage?</td></tr>
 
-  DATA
-     No, sir.
+<tr id="L79"><td><a href="#L79">79</a></td><td>DATA:  I have insufficient information from which to form a cogent theory, sir.</td></tr>
 
-  PICARD
-     You learn a lot about people from their luggage.
-     Two hundred and twenty five Yoshimitsu computers,
-     five monitor beacon satellites, seven hundred
-     cellular commlinks, fifty spinning wheels.
+<tr><td></td><td>LOCATION--Pulaski's office</td></tr>
+<tr id="L80"><td><a href="#L80">80</a></td><td>ANNOTATION: Worf is carrying a tray</td></tr>
 
-  DATA
-     (over Picard) Spinning wheels? Accessing. A device
-     for spinning yarn or thread that consists of a
-     large foot or hand driven wheel and one spindle.
+<tr id="L81"><td><a href="#L81">81</a></td><td>WORF:  Doctor. I wished to thank you for protecting my</td></tr>
 
-  PICARD
-     Cattle, chickens, pigs. Not DNA, the actual
-     livestock. Incredible. Why would anyone carry such
-     an insane mix of cargo?
+<tr id="L82"><td><a href="#L82">82</a></td><td>PULASKI:  Your secret is safe with me. Worf, I'm honoured. No one has ever performed the Klingon tea ceremony for me.</td></tr>
 
-  DATA
-     Spindle, a thin rounded tapering rod
+<tr id="L83"><td><a href="#L83">83</a></td><td>ANNOTATION: She places some stones and a flower in the cups</td></tr>
 
-  PICARD
-     Data!
+<tr id="L84"><td><a href="#L84">84</a></td><td>PULASKI:  There, that should do it.</td></tr>
 
-  DATA
-     Perhaps they were planning for the worst, sir.
+<tr id="L85"><td><a href="#L85">85</a></td><td>WORF:  You know the ceremony?</td></tr>
 
-  PICARD
-     Theorise, Data. Give me some background.
+<tr id="L86"><td><a href="#L86">86</a></td><td>PULASKI:  I understand the externals, not the mysteries. I'm not a Klingon.</td></tr>
 
-  DATA
-     In the early twenty-second century, Earth was
-     recovering from World War Three. A major
-     philosopher of the period was Liam Dieghan,
-     founder of the Neo-Transcendentalists, who
-     advocated a return to a simpler life in which one
-     lived in harmony with nature, and learned under
-     her gentle tutelage
+<tr id="L87"><td><a href="#L87">87</a></td><td>WORF:  You must not drink the tea. It is deadly to humans.</td></tr>
 
-  PICARD
-     Thank you, Data. But if this was a ship full of
-     utopians, why carry all this technological
-     baggage?
+<tr id="L88"><td><a href="#L88">88</a></td><td>PULASKI:  And none too good for Klingons.</td></tr>
 
-  DATA
-     I have insufficient information from which to form
-     a cogent theory, sir.
+<tr id="L89"><td><a href="#L89">89</a></td><td>WORF:  It is a test of bravery, of one's ability to look at the face of mortality. It is also a reminder that death is an experience best shared, like the tea.</td></tr>
 
+<tr id="L90"><td><a href="#L90">90</a></td><td>PULASKI:  Worf, you're a romantic.</td></tr>
 
-LOCATION--Pulaski's office
+<tr id="L91"><td><a href="#L91">91</a></td><td>WORF:  It is among the Klingons that love poetry achieves its fullest flower.</td></tr>
 
-  ANNOTATION
-     Worf is carrying a tray
+<tr id="L92"><td><a href="#L92">92</a></td><td>PULASKI:  Hold that thought.</td></tr>
 
-  WORF
-     Doctor. I wished to thank you for protecting my
+<tr id="L93"><td><a href="#L93">93</a></td><td>ANNOTATION: She dashes into Sickbay, returns with a hypo and injects herself</td></tr>
 
-  PULASKI
-     Your secret is safe with me. Worf, I'm honoured.
-     No one has ever performed the Klingon tea ceremony
-     for me.
+<tr id="L94"><td><a href="#L94">94</a></td><td>PULASKI:  Antidote. If we're going to share, let's share. (they drink) Now, quote me a little of that poetry.</td></tr>
 
-  ANNOTATION
-     She places some stones and a flower in the cups
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L95"><td><a href="#L95">95</a></td><td>PICARD:  Initiate sensor sweeps.</td></tr>
 
-  PULASKI
-     There, that should do it.
+<tr id="L96"><td><a href="#L96">96</a></td><td>DATA:  Aye, sir. The system's sun has entered a period of severe flare activity.</td></tr>
 
-  WORF
-     You know the ceremony?
+<tr id="L97"><td><a href="#L97">97</a></td><td>RIKER:  Now we know what triggered the SOS.</td></tr>
 
-  PULASKI
-     I understand the externals, not the mysteries. I'm
-     not a Klingon.
+<tr id="L98"><td><a href="#L98">98</a></td><td>DATA:  Class M readings from the fifth planet in the system.</td></tr>
 
-  WORF
-     You must not drink the tea. It is deadly to
-     humans.
+<tr id="L99"><td><a href="#L99">99</a></td><td>PICARD:  Take us in.</td></tr>
 
-  PULASKI
-     And none too good for Klingons.
+<tr id="L100"><td><a href="#L100">100</a></td><td>WORF:  Shields at maximum.</td></tr>
 
-  WORF
-     It is a test of bravery, of one's ability to look
-     at the face of mortality. It is also a reminder
-     that death is an experience best shared, like the
-     tea.
+<tr id="L101"><td><a href="#L101">101</a></td><td>DATA:  Sensors indicate human life form readings thirty metres below the planet's surface.</td></tr>
 
-  PULASKI
-     Worf, you're a romantic.
+<tr id="L102"><td><a href="#L102">102</a></td><td>WORF:  Hailing on all frequencies. No response so far, but the flares may be interfering with communications.</td></tr>
 
-  WORF
-     It is among the Klingons that love poetry achieves
-     its fullest flower.
+<tr id="L103"><td><a href="#L103">103</a></td><td>DATA:  There is no evidence of an advanced communication network.</td></tr>
 
-  PULASKI
-     Hold that thought.
+<tr id="L104"><td><a href="#L104">104</a></td><td>PICARD:  They brought a lot of technology. Where is it?</td></tr>
 
-  ANNOTATION
-     She dashes into Sickbay, returns with a hypo and
-     injects herself
+<tr id="L105"><td><a href="#L105">105</a></td><td>WORF:  There is no artificial power source on the planet.</td></tr>
 
-  PULASKI
-     Antidote. If we're going to share, let's share.
-     (they drink) Now, quote me a little of that
-     poetry.
+<tr id="L106"><td><a href="#L106">106</a></td><td>DATA:  The stellar flares are increasing in magnitude and frequency. Computer projections indicate they will brush the planet in three point six hours.</td></tr>
 
+<tr id="L107"><td><a href="#L107">107</a></td><td>WORF:  Evacuation will be difficult. We can lower our shields for transport only between the flares.</td></tr>
 
-LOCATION--Bridge
+<tr id="L108"><td><a href="#L108">108</a></td><td>TROI:  Captain, these people have been isolated for three hundred years. They could be very unsophisticated. The shock of suddenly being transported onto a spaceship could frighten them, to say the least.</td></tr>
 
-  PICARD
-     Initiate sensor sweeps.
+<tr id="L109"><td><a href="#L109">109</a></td><td>PICARD:  Your point is well taken, Counsellor. Number One, you're going to have to go down there.</td></tr>
 
-  DATA
-     Aye, sir. The system's sun has entered a period of
-     severe flare activity.
+<tr id="L110"><td><a href="#L110">110</a></td><td>RIKER:  On my way.</td></tr>
 
-  RIKER
-     Now we know what triggered the SOS.
+<tr id="L111"><td><a href="#L111">111</a></td><td>SOMEONE: Captain's log, stardate 42827.3. Commander Riker has reached the caverns, where he is making preparations to begin the evacuation.</td></tr>
 
-  DATA
-     Class M readings from the fifth planet in the
-     system.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L112"><td><a href="#L112">112</a></td><td>PICARD:  What's the situation, Number One?</td></tr>
 
-  PICARD
-     Take us in.
+<tr id="L113"><td><a href="#L113">113</a></td><td>RIKER [OC]:  There are roughly two hundred people down here.</td></tr>
 
-  WORF
-     Shields at maximum.
+<tr id="L114"><td><a href="#L114">114</a></td><td>PICARD:  Their condition?</td></tr>
 
-  DATA
-     Sensors indicate human life form readings thirty
-     metres below the planet's surface.
+<tr id="L115"><td><a href="#L115">115</a></td><td>RIKER [OC]:  Surprisingly good.</td></tr>
 
-  WORF
-     Hailing on all frequencies. No response so far,
-     but the flares may be interfering with
-     communications.
+<tr id="L116"><td><a href="#L116">116</a></td><td>PICARD:  Are they willing to leave?</td></tr>
 
-  DATA
-     There is no evidence of an advanced communication
-     network.
+<tr id="L117"><td><a href="#L117">117</a></td><td>RIKER [OC]:  Yes, but</td></tr>
 
-  PICARD
-     They brought a lot of technology. Where is it?
+<tr id="L118"><td><a href="#L118">118</a></td><td>PICARD:  Well, get them up here.</td></tr>
 
-  WORF
-     There is no artificial power source on the planet.
+<tr id="L119"><td><a href="#L119">119</a></td><td>RIKER [OC]:  I'm having a little debate with the colony's leader. It seems</td></tr>
 
-  DATA
-     The stellar flares are increasing in magnitude and
-     frequency. Computer projections indicate they will
-     brush the planet in three point six hours.
+<tr id="L120"><td><a href="#L120">120</a></td><td>PICARD:  There's no time, Number One. Initiate the transport.</td></tr>
 
-  WORF
-     Evacuation will be difficult. We can lower our
-     shields for transport only between the flares.
+<tr id="L121"><td><a href="#L121">121</a></td><td>RIKER [OC]:  But, sir</td></tr>
 
-  TROI
-     Captain, these people have been isolated for three
-     hundred years. They could be very unsophisticated.
-     The shock of suddenly being transported onto a
-     spaceship could frighten them, to say the least.
+<tr id="L122"><td><a href="#L122">122</a></td><td>PICARD:  Whatever the problem, we'll handle it up here.</td></tr>
 
-  PICARD
-     Your point is well taken, Counsellor. Number One,
-     you're going to have to go down there.
+<tr id="L123"><td><a href="#L123">123</a></td><td>RIKER [OC]:  Aye, aye, sir, we're on our way. All of us. Riker out.</td></tr>
 
-  RIKER
-     On my way.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L124"><td><a href="#L124">124</a></td><td>RIKER [OC]:  First load ready, Mister O'Brien.</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 42827.3. Commander Riker
-     has reached the caverns, where he is making
-     preparations to begin the evacuation.
+<tr id="L125"><td><a href="#L125">125</a></td><td>O'BRIEN:  Energising.</td></tr>
 
+<tr id="L126"><td><a href="#L126">126</a></td><td>ANNOTATION: And onto the pad come - six adult, one child, a sheep, goat, chicken, barrels, hay.... and cod-Irish background music for the big clue as to the upcoming accents</td></tr>
 
-LOCATION--Bridge
+<tr id="L127"><td><a href="#L127">127</a></td><td>O'BRIEN:  Captain, you'd better get somebody down here. Right away.</td></tr>
 
-  PICARD
-     What's the situation, Number One?
+<tr id="L128"><td><a href="#L128">128</a></td><td>ANNOTATION: The second transport group includes a porker, ducks in a crate and so on</td></tr>
 
-  RIKER [OC]
-     There are roughly two hundred people down here.
+<tr id="L129"><td><a href="#L129">129</a></td><td>DANILO:  Take the pig out there, will you? Very good.</td></tr>
 
-  PICARD
-     Their condition?
+<tr id="L130"><td><a href="#L130">130</a></td><td>RIKER:  O'Brien, I think that third wave should be in position.</td></tr>
 
-  RIKER [OC]
-     Surprisingly good.
+<tr id="L131"><td><a href="#L131">131</a></td><td>DANILO:  Shoo, damn you, shoo.</td></tr>
 
-  PICARD
-     Are they willing to leave?
+<tr id="L132"><td><a href="#L132">132</a></td><td>O'BRIEN:  Aye, sir.</td></tr>
 
-  RIKER [OC]
-     Yes, but
+<tr id="L133"><td><a href="#L133">133</a></td><td>DANILO:  O'Brien, is it? (shakes hands) I should have known t'would be a good Irishman that was running this ship.</td></tr>
 
-  PICARD
-     Well, get them up here.
+<tr id="L134"><td><a href="#L134">134</a></td><td>ANNOTATION: Picard and Worf enter as Danilo offers a hip flask</td></tr>
 
-  RIKER [OC]
-     I'm having a little debate with the colony's
-     leader. It seems
+<tr id="L135"><td><a href="#L135">135</a></td><td>PICARD:  What the devil is going on here, Number One?</td></tr>
 
-  PICARD
-     There's no time, Number One. Initiate the
-     transport.
+<tr id="L136"><td><a href="#L136">136</a></td><td>DANILO:  Ah, Captain Picard is it. The man who makes decisions for me and mine without so much as a by your leave.</td></tr>
 
-  RIKER [OC]
-     But, sir
+<tr id="L137"><td><a href="#L137">137</a></td><td>PICARD:  This is my Security Chief, Lieutenant Worf.</td></tr>
 
-  PICARD
-     Whatever the problem, we'll handle it up here.
+<tr id="L138"><td><a href="#L138">138</a></td><td>DANILO:  (swallows and removed hat) I don't suppose security is much of a problem for you. Danilo Odell, sir, at your service.</td></tr>
 
-  RIKER [OC]
-     Aye, aye, sir, we're on our way. All of us. Riker
-     out.
+<tr id="L139"><td><a href="#L139">139</a></td><td>PICARD:  What are these animals doing here, Number One.</td></tr>
 
+<tr id="L140"><td><a href="#L140">140</a></td><td>RIKER:  I'm sorry, sir. It was either this or arguing till hell froze over.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L141"><td><a href="#L141">141</a></td><td>DANILO:  Captain Picard, sir, we can't leave our animals here to die. Besides, how could we build our future without our animals?</td></tr>
 
-  RIKER [OC]
-     First load ready, Mister O'Brien.
+<tr id="L142"><td><a href="#L142">142</a></td><td>PICARD:  All right. Chief O'Brien, transport this group directly to cargo hold seven, and beam the remaining refugees from the planet directly to that hold.</td></tr>
 
-  O'BRIEN
-     Energising.
+<tr id="L143"><td><a href="#L143">143</a></td><td>O'BRIEN:  Yes, sir.</td></tr>
 
-  ANNOTATION
-     And onto the pad come - six adult, one child, a
-     sheep, goat, chicken, barrels, hay.... and
-     cod-Irish background music for the big clue as to
-     the upcoming accents
+<tr id="L144"><td><a href="#L144">144</a></td><td>DANILO:  Right, lads. Everybody back onto the infernal machine.</td></tr>
 
-  O'BRIEN
-     Captain, you'd better get somebody down here.
-     Right away.
+<tr id="L145"><td><a href="#L145">145</a></td><td>RIKER:  Everybody up here.</td></tr>
 
-  ANNOTATION
-     The second transport group includes a porker,
-     ducks in a crate and so on
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L146"><td><a href="#L146">146</a></td><td>DANILO:  Captain! Captain, t'was very good of you, sir, to rescue us from our troubles.</td></tr>
 
-  DANILO
-     Take the pig out there, will you? Very good.
+<tr id="L147"><td><a href="#L147">147</a></td><td>PICARD:  My pleasure.</td></tr>
 
-  RIKER
-     O'Brien, I think that third wave should be in
-     position.
+<tr id="L148"><td><a href="#L148">148</a></td><td>DANILO:  Sir, you must be worth quite a bit to own a fine ship like this.</td></tr>
 
-  DANILO
-     Shoo, damn you, shoo.
+<tr id="L149"><td><a href="#L149">149</a></td><td>PICARD:  I don't own the Enterprise, I command her.</td></tr>
 
-  O'BRIEN
-     Aye, sir.
+<tr id="L150"><td><a href="#L150">150</a></td><td>DANILO:  Whatever. Sir, would you happen to be married?</td></tr>
 
-  DANILO
-     O'Brien, is it? (shakes hands) I should have known
-     t'would be a good Irishman that was running this
-     ship.
+<tr id="L151"><td><a href="#L151">151</a></td><td>PICARD:  No. Why?</td></tr>
 
-  ANNOTATION
-     Picard and Worf enter as Danilo offers a hip flask
+<tr id="L152"><td><a href="#L152">152</a></td><td>DANILO:  No? Well, you see, sir, I have a daughter.</td></tr>
 
-  PICARD
-     What the devil is going on here, Number One?
+<tr id="L153"><td><a href="#L153">153</a></td><td>PICARD:  Felicitations.</td></tr>
 
-  DANILO
-     Ah, Captain Picard is it. The man who makes
-     decisions for me and mine without so much as a by
-     your leave.
+<tr id="L154"><td><a href="#L154">154</a></td><td>DANILO:  Would you be interested, sir?</td></tr>
 
-  PICARD
-     This is my Security Chief, Lieutenant Worf.
+<tr id="L155"><td><a href="#L155">155</a></td><td>PICARD:  No.</td></tr>
 
-  DANILO
-     (swallows and removed hat) I don't suppose
-     security is much of a problem for you. Danilo
-     Odell, sir, at your service.
+<tr id="L156"><td><a href="#L156">156</a></td><td>DANILO:  You're quite sure?</td></tr>
 
-  PICARD
-     What are these animals doing here, Number One.
+<tr id="L157"><td><a href="#L157">157</a></td><td>PICARD:  Quite sure.</td></tr>
 
-  RIKER
-     I'm sorry, sir. It was either this or arguing till
-     hell froze over.
+<tr id="L158"><td><a href="#L158">158</a></td><td>DANILO:  He's quite sure.</td></tr>
 
-  DANILO
-     Captain Picard, sir, we can't leave our animals
-     here to die. Besides, how could we build our
-     future without our animals?
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L159"><td><a href="#L159">159</a></td><td>PICARD:  What's the total?</td></tr>
 
-  PICARD
-     All right. Chief O'Brien, transport this group
-     directly to cargo hold seven, and beam the
-     remaining refugees from the planet directly to
-     that hold.
+<tr id="L160"><td><a href="#L160">160</a></td><td>WORF:  Two hundred and twenty three.</td></tr>
 
-  O'BRIEN
-     Yes, sir.
+<tr id="L161"><td><a href="#L161">161</a></td><td>PULASKI:  Count on two more in the next few days.</td></tr>
 
-  DANILO
-     Right, lads. Everybody back onto the infernal
-     machine.
+<tr id="L162"><td><a href="#L162">162</a></td><td>PICARD:  Set course for the nearest starbase.</td></tr>
 
-  RIKER
-     Everybody up here.
+<tr id="L163"><td><a href="#L163">163</a></td><td>PULASKI:  You know, they were anachronistic in 2123. It will be interesting to see how they cope.</td></tr>
 
+<tr id="L164"><td><a href="#L164">164</a></td><td>RIKER:  They'll learn and adapt. If Danilo Odell's any indication, they'll be running this place inside of a week.</td></tr>
 
-LOCATION--Corridor
+<tr id="L165"><td><a href="#L165">165</a></td><td>ANNOTATION: and alarm sounds</td></tr>
 
-  DANILO
-     Captain! Captain, t'was very good of you, sir, to
-     rescue us from our troubles.
+<tr id="L166"><td><a href="#L166">166</a></td><td>WORF:  Lieutenant Worf, here. Report.</td></tr>
 
-  PICARD
-     My pleasure.
+<tr id="L167"><td><a href="#L167">167</a></td><td>CREWMAN [OC]:  Fire in cargo hold seven.</td></tr>
 
-  DANILO
-     Sir, you must be worth quite a bit to own a fine
-     ship like this.
+<tr id="L168"><td><a href="#L168">168</a></td><td>RIKER:  The Bringloidi.</td></tr>
 
-  PICARD
-     I don't own the Enterprise, I command her.
+<tr id="L169"><td><a href="#L169">169</a></td><td>PICARD:  What have they done to my ship now?</td></tr>
 
-  DANILO
-     Whatever. Sir, would you happen to be married?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L170"><td><a href="#L170">170</a></td><td>WORF:  Keep the area clear.</td></tr>
 
-  PICARD
-     No. Why?
+<tr id="L171"><td><a href="#L171">171</a></td><td>PICARD:  Report.</td></tr>
 
-  DANILO
-     No? Well, you see, sir, I have a daughter.
+<tr id="L172"><td><a href="#L172">172</a></td><td>WORF:  Fire has been contained. No damage.</td></tr>
 
-  PICARD
-     Felicitations.
+<tr id="L173"><td><a href="#L173">173</a></td><td>PICARD:  Unseal the doors.</td></tr>
 
-  DANILO
-     Would you be interested, sir?
+<tr id="L174"><td><a href="#L174">174</a></td><td>DANILO:  My God, Picard, the place is a bloody death trap! Lightning bolts falling from the ceiling!</td></tr>
 
-  PICARD
-     No.
+<tr><td></td><td>LOCATION--Cargo hold</td></tr>
+<tr id="L175"><td><a href="#L175">175</a></td><td>DANILO:  What the hell was that thing?</td></tr>
 
-  DANILO
-     You're quite sure?
+<tr id="L176"><td><a href="#L176">176</a></td><td>WORF:  Automated fire system. A force field contains the flame until the remaining oxygen within the field has been consumed.</td></tr>
 
-  PICARD
-     Quite sure.
+<tr id="L177"><td><a href="#L177">177</a></td><td>DANILO:  What if I had been under that thing?</td></tr>
 
-  DANILO
-     He's quite sure.
+<tr id="L178"><td><a href="#L178">178</a></td><td>WORF:  You would have been standing in the fire.</td></tr>
 
+<tr id="L179"><td><a href="#L179">179</a></td><td>DANILO:  Well, leaving that aside for the moment, I mean, what would have happened to me?</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L180"><td><a href="#L180">180</a></td><td>WORF:  You would have suffocated and died.</td></tr>
 
-  PICARD
-     What's the total?
+<tr id="L181"><td><a href="#L181">181</a></td><td>DANILO:  Sweet mercy.</td></tr>
 
-  WORF
-     Two hundred and twenty three.
+<tr id="L182"><td><a href="#L182">182</a></td><td>BRENNA:  Oh, there you are. Your hospitality leaves a hell of a lot to be desired! You don't offer us a bite or a sup, and when we build a fire to cook a little something, the place goes mad!</td></tr>
 
-  PULASKI
-     Count on two more in the next few days.
+<tr id="L183"><td><a href="#L183">183</a></td><td>PICARD:  My apologies. I was unaware that you had not been instructed in the use of the food dispensers.</td></tr>
 
-  PICARD
-     Set course for the nearest starbase.
+<tr id="L184"><td><a href="#L184">184</a></td><td>BRENNA:  And what are you staring at? Have you never seen a woman before?</td></tr>
 
-  PULASKI
-     You know, they were anachronistic in 2123. It will
-     be interesting to see how they cope.
+<tr id="L185"><td><a href="#L185">185</a></td><td>RIKER:  I thought I had.</td></tr>
 
-  RIKER
-     They'll learn and adapt. If Danilo Odell's any
-     indication, they'll be running this place inside
-     of a week.
+<tr id="L186"><td><a href="#L186">186</a></td><td>DANILO:  Commander, may I present my daughter, Brenna Odell.</td></tr>
 
-  ANNOTATION
-     and alarm sounds
+<tr id="L187"><td><a href="#L187">187</a></td><td>RIKER:  Pleased to meet you, ma'am.</td></tr>
 
-  WORF
-     Lieutenant Worf, here. Report.
+<tr id="L188"><td><a href="#L188">188</a></td><td>BRENNA:  You may have all the time in the world, but I've dozens of frightened and hungry children and women to look after.</td></tr>
 
-  CREWMAN [OC]
-     Fire in cargo hold seven.
+<tr id="L189"><td><a href="#L189">189</a></td><td>RIKER:  And what about the men?</td></tr>
 
-  RIKER
-     The Bringloidi.
+<tr id="L190"><td><a href="#L190">190</a></td><td>BRENNA:  Well, I'm sure they'll find their comfort as they always do, in the bottom of a mug of home brew!</td></tr>
 
-  PICARD
-     What have they done to my ship now?
+<tr id="L191"><td><a href="#L191">191</a></td><td>DANILO:  Pay no heed, Commander. She's a fine girl. She's not usually so sharp tongued.</td></tr>
 
+<tr id="L192"><td><a href="#L192">192</a></td><td>BRENNA:  Dado!</td></tr>
 
-LOCATION--Corridor
+<tr id="L193"><td><a href="#L193">193</a></td><td>ANNOTATION: Danilo scuttles away across the room</td></tr>
 
-  WORF
-     Keep the area clear.
+<tr id="L194"><td><a href="#L194">194</a></td><td>RIKER:  Sir? (Picard is laughing) That's the last thing I expected.</td></tr>
 
-  PICARD
-     Report.
+<tr id="L195"><td><a href="#L195">195</a></td><td>PICARD:  Sometimes, Number One, you just have to bow to the absurd.</td></tr>
 
-  WORF
-     Fire has been contained. No damage.
+<tr id="L196"><td><a href="#L196">196</a></td><td>DANILO:  Captain, Captain, sir. How did the ship sense the fire?</td></tr>
 
-  PICARD
-     Unseal the doors.
+<tr id="L197"><td><a href="#L197">197</a></td><td>PICARD:  The ship's computer</td></tr>
 
-  DANILO
-     My God, Picard, the place is a bloody death trap!
-     Lightning bolts falling from the ceiling!
+<tr id="L198"><td><a href="#L198">198</a></td><td>DANILO:  Computer?</td></tr>
 
+<tr id="L199"><td><a href="#L199">199</a></td><td>PICARD:  The ship's computers sense a localised increase</td></tr>
 
-LOCATION--Cargo hold
+<tr id="L200"><td><a href="#L200">200</a></td><td>BRENNA:  Men! Always talking when there's work to be done. And shouldn't you be flying this ship, or whatever it is you do?</td></tr>
 
-  DANILO
-     What the hell was that thing?
+<tr id="L201"><td><a href="#L201">201</a></td><td>RIKER:  Sir, I think I'll stay and give her some help.</td></tr>
 
-  WORF
-     Automated fire system. A force field contains the
-     flame until the remaining oxygen within the field
-     has been consumed.
+<tr id="L202"><td><a href="#L202">202</a></td><td>ANNOTATION: Picard and Worf leave. Riker goes to where Brenna is using hay to clean up what animals leave lying around naturally</td></tr>
 
-  DANILO
-     What if I had been under that thing?
+<tr id="L203"><td><a href="#L203">203</a></td><td>RIKER:  That isn't necessary. The ship will clean itself.</td></tr>
 
-  WORF
-     You would have been standing in the fire.
+<tr id="L204"><td><a href="#L204">204</a></td><td>BRENNA:  Well, good for the bloody ship. (long pause as she appraises him) Tell me, Commander Riker, where does a girl go to wash her feet on this ship?</td></tr>
 
-  DANILO
-     Well, leaving that aside for the moment, I mean,
-     what would have happened to me?
+<tr id="L205"><td><a href="#L205">205</a></td><td>RIKER:  As the First Officer, I feel it's my responsibility to show you all the amenities.</td></tr>
 
-  WORF
-     You would have suffocated and died.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L206"><td><a href="#L206">206</a></td><td>WORF:  She is very like a Klingon woman.</td></tr>
 
-  DANILO
-     Sweet mercy.
+<tr id="L207"><td><a href="#L207">207</a></td><td>DANILO:  Ah, Captain, there's just one other thing. It slipped my mind in all the hustle and bustle.</td></tr>
 
-  BRENNA
-     Oh, there you are. Your hospitality leaves a hell
-     of a lot to be desired! You don't offer us a bite
-     or a sup, and when we build a fire to cook a
-     little something, the place goes mad!
+<tr id="L208"><td><a href="#L208">208</a></td><td>PICARD:  The point, Mister Odell.</td></tr>
 
-  PICARD
-     My apologies. I was unaware that you had not been
-     instructed in the use of the food dispensers.
+<tr id="L209"><td><a href="#L209">209</a></td><td>DANILO:  Well, in all your travels, have you heard anything from the other colony?</td></tr>
 
-  BRENNA
-     And what are you staring at? Have you never seen a
-     woman before?
+<tr id="L210"><td><a href="#L210">210</a></td><td>PICARD:  The other colony?</td></tr>
 
-  RIKER
-     I thought I had.
+<tr id="L211"><td><a href="#L211">211</a></td><td>SOMEONE: Captain's log, supplemental. A review of stellar charts has revealed a Class M planet only half a light year from the Bringloid system. I am proceeding on the premise that it was the destination of the colony which possessed the more sophisticated equipment.</td></tr>
 
-  DANILO
-     Commander, may I present my daughter, Brenna
-     Odell.
+<tr><td></td><td>LOCATION--Riker's quarters</td></tr>
+<tr id="L212"><td><a href="#L212">212</a></td><td>BRENNA:  William Riker, you're a mess.</td></tr>
 
-  RIKER
-     Pleased to meet you, ma'am.
+<tr id="L213"><td><a href="#L213">213</a></td><td>ANNOTATION: She starts picking things up</td></tr>
 
-  BRENNA
-     You may have all the time in the world, but I've
-     dozens of frightened and hungry children and women
-     to look after.
+<tr id="L214"><td><a href="#L214">214</a></td><td>RIKER:  You don't have to do that.</td></tr>
 
-  RIKER
-     And what about the men?
+<tr id="L215"><td><a href="#L215">215</a></td><td>BRENNA:  And if I don't, who will?</td></tr>
 
-  BRENNA
-     Well, I'm sure they'll find their comfort as they
-     always do, in the bottom of a mug of home brew!
+<tr id="L216"><td><a href="#L216">216</a></td><td>RIKER:  I can see why your father wants to marry you off.</td></tr>
 
-  DANILO
-     Pay no heed, Commander. She's a fine girl. She's
-     not usually so sharp tongued.
+<tr id="L217"><td><a href="#L217">217</a></td><td>BRENNA:  Oh, and why is that?</td></tr>
 
-  BRENNA
-     Dado!
+<tr id="L218"><td><a href="#L218">218</a></td><td>RIKER:  So he can have a pipe and mug of beer in peace.</td></tr>
 
-  ANNOTATION
-     Danilo scuttles away across the room
+<tr id="L219"><td><a href="#L219">219</a></td><td>BRENNA:  You've shown me so many wonders on your great ship, but there's still one thing you haven't shown me.</td></tr>
 
-  RIKER
-     Sir? (Picard is laughing) That's the last thing I
-     expected.
+<tr id="L220"><td><a href="#L220">220</a></td><td>RIKER:  What's that?</td></tr>
 
-  PICARD
-     Sometimes, Number One, you just have to bow to the
-     absurd.
+<tr id="L221"><td><a href="#L221">221</a></td><td>BRENNA:  I'm still waiting to wash my feet.</td></tr>
 
-  DANILO
-     Captain, Captain, sir. How did the ship sense the
-     fire?
+<tr id="L222"><td><a href="#L222">222</a></td><td>RIKER:  Right behind that door.</td></tr>
 
-  PICARD
-     The ship's computer
+<tr id="L223"><td><a href="#L223">223</a></td><td>BRENNA:  William, is something wrong?</td></tr>
 
-  DANILO
-     Computer?
+<tr id="L224"><td><a href="#L224">224</a></td><td>RIKER:  What do you mean?</td></tr>
 
-  PICARD
-     The ship's computers sense a localised increase
+<tr id="L225"><td><a href="#L225">225</a></td><td>BRENNA:  Do you not like girls?</td></tr>
 
-  BRENNA
-     Men! Always talking when there's work to be done.
-     And shouldn't you be flying this ship, or whatever
-     it is you do?
+<tr id="L226"><td><a href="#L226">226</a></td><td>RIKER:  Of course I do. Oh, is there a technique to this foot washing?</td></tr>
 
-  RIKER
-     Sir, I think I'll stay and give her some help.
+<tr id="L227"><td><a href="#L227">227</a></td><td>BRENNA:  You generally start at the top and work your way down.</td></tr>
 
-  ANNOTATION
-     Picard and Worf leave. Riker goes to where Brenna
-     is using hay to clean up what animals leave lying
-     around naturally
+<tr id="L228"><td><a href="#L228">228</a></td><td>RIKER:  I think I can handle that.</td></tr>
 
-  RIKER
-     That isn't necessary. The ship will clean itself.
+<tr id="L229"><td><a href="#L229">229</a></td><td>ANNOTATION: He lets down her hair and kisses her</td></tr>
 
-  BRENNA
-     Well, good for the bloody ship. (long pause as she
-     appraises him) Tell me, Commander Riker, where
-     does a girl go to wash her feet on this ship?
+<tr id="L230"><td><a href="#L230">230</a></td><td>BRENNA:  I was hoping you might.</td></tr>
 
-  RIKER
-     As the First Officer, I feel it's my
-     responsibility to show you all the amenities.
+<tr><td></td><td>LOCATION--Cargo hold</td></tr>
+<tr id="L231"><td><a href="#L231">231</a></td><td>WORF:  You sent for me?</td></tr>
 
+<tr id="L232"><td><a href="#L232">232</a></td><td>DANILO:  Ah, yes, yes. Now, we're brewing poteen, but we need to find a way to heat it without this bloody ship firing bloody lightning bolts at us.</td></tr>
 
-LOCATION--Corridor
+<tr id="L233"><td><a href="#L233">233</a></td><td>WORF:  You can obtain spirituous liquours from the food dispensers.</td></tr>
 
-  WORF
-     She is very like a Klingon woman.
+<tr id="L234"><td><a href="#L234">234</a></td><td>DANILO:  Oh, no, no, no. It's not that synthehol bilge that O'Brien offered me, is it?</td></tr>
 
-  DANILO
-     Ah, Captain, there's just one other thing. It
-     slipped my mind in all the hustle and bustle.
+<tr id="L235"><td><a href="#L235">235</a></td><td>WORF:  No, if you wish, it can be real alcohol.</td></tr>
 
-  PICARD
-     The point, Mister Odell.
+<tr id="L236"><td><a href="#L236">236</a></td><td>DANILO:  Good.</td></tr>
 
-  DANILO
-     Well, in all your travels, have you heard anything
-     from the other colony?
+<tr id="L237"><td><a href="#L237">237</a></td><td>WORF:  With all of the deleterious effects intact.</td></tr>
 
-  PICARD
-     The other colony?
+<tr id="L238"><td><a href="#L238">238</a></td><td>DANILO:  As it should be. You see, lad, every moment of pleasure in life has to be purchased by an equal moment of pain. Whiskey.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. A review of stellar
-     charts has revealed a Class M planet only half a
-     light year from the Bringloid system. I am
-     proceeding on the premise that it was the
-     destination of the colony which possessed the more
-     sophisticated equipment.
+<tr id="L239"><td><a href="#L239">239</a></td><td>ANNOTATION: a glass appears, and Danilo samples it</td></tr>
 
+<tr id="L240"><td><a href="#L240">240</a></td><td>DANILO:  Terrible. It's got no bite.</td></tr>
 
-LOCATION--Riker's quarters
+<tr id="L241"><td><a href="#L241">241</a></td><td>WORF:  Chech'tluth.</td></tr>
 
-  BRENNA
-     William Riker, you're a mess.
+<tr id="L242"><td><a href="#L242">242</a></td><td>ANNOTATION: A Klingon mug, with steam coming off it. The top Danilo's head does a somersault</td></tr>
 
-  ANNOTATION
-     She starts picking things up
+<tr id="L243"><td><a href="#L243">243</a></td><td>DANILO:  Now that's what I call a wee drop of the creature.</td></tr>
 
-  RIKER
-     You don't have to do that.
+<tr id="L244"><td><a href="#L244">244</a></td><td>BRENNA:  Father!</td></tr>
 
-  BRENNA
-     And if I don't, who will?
+<tr id="L245"><td><a href="#L245">245</a></td><td>DANILO:  Remember what I said about the moment of pain? Well, tis about to begin. Hello, my darling.</td></tr>
 
-  RIKER
-     I can see why your father wants to marry you off.
+<tr id="L246"><td><a href="#L246">246</a></td><td>BRENNA:  Oh, my darling, is it? I might have known! Are you drunk yet, or can you talk with Doctor Pulaski about the children?</td></tr>
 
-  BRENNA
-     Oh, and why is that?
+<tr id="L247"><td><a href="#L247">247</a></td><td>DANILO:  What about them?</td></tr>
 
-  RIKER
-     So he can have a pipe and mug of beer in peace.
+<tr id="L248"><td><a href="#L248">248</a></td><td>BRENNA:  She wants to send them to school with the ship's children.</td></tr>
 
-  BRENNA
-     You've shown me so many wonders on your great
-     ship, but there's still one thing you haven't
-     shown me.
+<tr id="L249"><td><a href="#L249">249</a></td><td>DANILO:  What do you think?</td></tr>
 
-  RIKER
-     What's that?
+<tr id="L250"><td><a href="#L250">250</a></td><td>BRENNA:  I think it's a good idea. So go handle it! (to the other men) I'm sure there's something you can be doing with your time. (to Worf) And as for you.</td></tr>
 
-  BRENNA
-     I'm still waiting to wash my feet.
+<tr id="L251"><td><a href="#L251">251</a></td><td>WORF:  What?</td></tr>
 
-  RIKER
-     Right behind that door.
+<tr id="L252"><td><a href="#L252">252</a></td><td>BRENNA:  Why did you have to tell them that this magic wall can give them more than meat and potatoes? Now we'll never get a lick of work out of them.</td></tr>
 
-  BRENNA
-     William, is something wrong?
+<tr id="L253"><td><a href="#L253">253</a></td><td>WORF:  Madam, have you considered a career in security?</td></tr>
 
-  RIKER
-     What do you mean?
+<tr id="L254"><td><a href="#L254">254</a></td><td>BRENNA:  If it's anything like babysitting, I'm an authority.</td></tr>
 
-  BRENNA
-     Do you not like girls?
+<tr id="L255"><td><a href="#L255">255</a></td><td>ANNOTATION: The women laugh</td></tr>
 
-  RIKER
-     Of course I do. Oh, is there a technique to this
-     foot washing?
+<tr id="L256"><td><a href="#L256">256</a></td><td>SOMEONE: Captain's log, supplemental. We are approaching the class M planet where we hope to find the other colonists.</td></tr>
 
-  BRENNA
-     You generally start at the top and work your way
-     down.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L257"><td><a href="#L257">257</a></td><td>WORF:  Signal from the planet, Captain.</td></tr>
 
-  RIKER
-     I think I can handle that.
+<tr id="L258"><td><a href="#L258">258</a></td><td>PICARD:  On screen. This is Jean-Luc Picard of the USS Enterprise, representing the United Federation of Planets.</td></tr>
 
-  ANNOTATION
-     He lets down her hair and kisses her
+<tr id="L259"><td><a href="#L259">259</a></td><td>GRANGER [on viewscreen]:  This is wonderful. Welcome, Captain. I'm Wilson Granger, Prime Minister of Mariposa.</td></tr>
 
-  BRENNA
-     I was hoping you might.
+<tr id="L260"><td><a href="#L260">260</a></td><td>DATA:  No doubt a descendant of Captain Walter Granger.</td></tr>
 
+<tr id="L261"><td><a href="#L261">261</a></td><td>GRANGER [on viewscreen]:  Not quite a descendant. We feared Earth had suffered some catastrophe when no one came back to check on us.</td></tr>
 
-LOCATION--Cargo hold
+<tr id="L262"><td><a href="#L262">262</a></td><td>PICARD:  I'm afraid the truth is, you got lost in the bureaucracy. But despite the lateness of our arrival, we're here now and we're eager to renew ties.</td></tr>
 
-  WORF
-     You sent for me?
+<tr id="L263"><td><a href="#L263">263</a></td><td>GRANGER [on viewscreen]:  Splendid. Please, come down, and allow us to extend our hospitality to you and your crew.</td></tr>
 
-  DANILO
-     Ah, yes, yes. Now, we're brewing poteen, but we
-     need to find a way to heat it without this bloody
-     ship firing bloody lightning bolts at us.
+<tr id="L264"><td><a href="#L264">264</a></td><td>PICARD:  Thank you. Form an away team, Number One.</td></tr>
 
-  WORF
-     You can obtain spirituous liquours from the food
-     dispensers.
+<tr id="L265"><td><a href="#L265">265</a></td><td>TROI:  I would urge caution.</td></tr>
 
-  DANILO
-     Oh, no, no, no. It's not that synthehol bilge that
-     O'Brien offered me, is it?
+<tr id="L266"><td><a href="#L266">266</a></td><td>RIKER:  Caution? What's wrong?</td></tr>
 
-  WORF
-     No, if you wish, it can be real alcohol.
+<tr id="L267"><td><a href="#L267">267</a></td><td>TROI:  He's hiding something.</td></tr>
 
-  DANILO
-     Good.
+<tr id="L268"><td><a href="#L268">268</a></td><td>RIKER:  We'll check it out. Mister Worf. Doctor Pulaski, join us in Transporter room three for an away detail.</td></tr>
 
-  WORF
-     With all of the deleterious effects intact.
+<tr><td></td><td>LOCATION--Reception</td></tr>
+<tr id="L269"><td><a href="#L269">269</a></td><td>ANNOTATION: a very modern looking building, and clothing style</td></tr>
 
-  DANILO
-     As it should be. You see, lad, every moment of
-     pleasure in life has to be purchased by an equal
-     moment of pain. Whiskey.
+<tr id="L270"><td><a href="#L270">270</a></td><td>GRANGER 2:  Welcome to Mariposa. I'm Victor Granger, Minister of Health.</td></tr>
 
-  ANNOTATION
-     a glass appears, and Danilo samples it
+<tr id="L271"><td><a href="#L271">271</a></td><td>RIKER:  Commander William Riker, Doctor Pulaski, Lieutenant Worf.</td></tr>
 
-  DANILO
-     Terrible. It's got no bite.
+<tr id="L272"><td><a href="#L272">272</a></td><td>GRANGER 2:  A pleasure. I'll escort you to the Prime Minister. This way please.</td></tr>
 
-  WORF
-     Chech'tluth.
+<tr id="L273"><td><a href="#L273">273</a></td><td>RIKER:  Twin brothers?</td></tr>
 
-  ANNOTATION
-     A Klingon mug, with steam coming off it. The top
-     Danilo's head does a somersault
+<tr id="L274"><td><a href="#L274">274</a></td><td>GRANGER 2:  Your arrival really is serendipitous.</td></tr>
 
-  DANILO
-     Now that's what I call a wee drop of the creature.
+<tr id="L275"><td><a href="#L275">275</a></td><td>PULASKI:  Oh, how so?</td></tr>
 
-  BRENNA
-     Father!
+<tr id="L276"><td><a href="#L276">276</a></td><td>GRANGER 2:  Well, perhaps I'll let the Prime Minister to explain that.</td></tr>
 
-  DANILO
-     Remember what I said about the moment of pain?
-     Well, tis about to begin. Hello, my darling.
+<tr id="L277"><td><a href="#L277">277</a></td><td>ANNOTATION: Three identical women are standing by a desk</td></tr>
 
-  BRENNA
-     Oh, my darling, is it? I might have known! Are you
-     drunk yet, or can you talk with Doctor Pulaski
-     about the children?
+<tr id="L278"><td><a href="#L278">278</a></td><td>RIKER:  Triplets? Worf, there is something damn odd down here.</td></tr>
 
-  DANILO
-     What about them?
+<tr id="L279"><td><a href="#L279">279</a></td><td>ANNOTATION: a fourth woman walks by</td></tr>
 
-  BRENNA
-     She wants to send them to school with the ship's
-     children.
+<tr id="L280"><td><a href="#L280">280</a></td><td>WORF:  Quadruplets.</td></tr>
 
-  DANILO
-     What do you think?
+<tr><td></td><td>LOCATION--Hallway</td></tr>
+<tr id="L281"><td><a href="#L281">281</a></td><td>GRANGER 2:  Doctor, is your title scientific or medical?</td></tr>
 
-  BRENNA
-     I think it's a good idea. So go handle it! (to the
-     other men) I'm sure there's something you can be
-     doing with your time. (to Worf) And as for you.
+<tr id="L282"><td><a href="#L282">282</a></td><td>PULASKI:  Medical.</td></tr>
 
-  WORF
-     What?
+<tr id="L283"><td><a href="#L283">283</a></td><td>GRANGER 2:  Ah, excellent.</td></tr>
 
-  BRENNA
-     Why did you have to tell them that this magic wall
-     can give them more than meat and potatoes? Now
-     we'll never get a lick of work out of them.
+<tr id="L284"><td><a href="#L284">284</a></td><td>PULASKI:  Is there some medical problem we should know about?</td></tr>
 
-  WORF
-     Madam, have you considered a career in security?
+<tr id="L285"><td><a href="#L285">285</a></td><td>GRANGER 2:  I think it best if the, er</td></tr>
 
-  BRENNA
-     If it's anything like babysitting, I'm an
-     authority.
+<tr id="L286"><td><a href="#L286">286</a></td><td>PULASKI:  Prime minister explains that. Somehow I thought you might.</td></tr>
 
-  ANNOTATION
-     The women laugh
+<tr id="L287"><td><a href="#L287">287</a></td><td>GRANGER 2:  Yes. Excuse me. Gentlemen? Please, follow me.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. We are approaching
-     the class M planet where we hope to find the other
-     colonists.
+<tr id="L288"><td><a href="#L288">288</a></td><td>ANNOTATION: Pulaski runs a secret scan on another man as Worf and Riker catch up with them</td></tr>
 
+<tr id="L289"><td><a href="#L289">289</a></td><td>GRANGER 2:  This way please. Doctor.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Granger's office</td></tr>
+<tr id="L290"><td><a href="#L290">290</a></td><td>GRANGER:  Welcome to Mariposa.</td></tr>
 
-  WORF
-     Signal from the planet, Captain.
+<tr id="L291"><td><a href="#L291">291</a></td><td>PULASKI:  Doctor Katherine Pulaski.</td></tr>
 
-  PICARD
-     On screen. This is Jean-Luc Picard of the USS
-     Enterprise, representing the United Federation of
-     Planets.
+<tr id="L292"><td><a href="#L292">292</a></td><td>GRANGER:  This is my Chief of Staff, Elizabeth Vallis.</td></tr>
 
-  GRANGER [on viewscreen]
-     This is wonderful. Welcome, Captain. I'm Wilson
-     Granger, Prime Minister of Mariposa.
+<tr id="L293"><td><a href="#L293">293</a></td><td>PULASKI:  Tell me, is your entire population made up of clones, Prime Minister?</td></tr>
 
-  DATA
-     No doubt a descendant of Captain Walter Granger.
+<tr id="L294"><td><a href="#L294">294</a></td><td>WORF:  Clones?</td></tr>
 
-  GRANGER [on viewscreen]
-     Not quite a descendant. We feared Earth had
-     suffered some catastrophe when no one came back to
-     check on us.
+<tr id="L295"><td><a href="#L295">295</a></td><td>RIKER:  Clones?</td></tr>
 
-  PICARD
-     I'm afraid the truth is, you got lost in the
-     bureaucracy. But despite the lateness of our
-     arrival, we're here now and we're eager to renew
-     ties.
+<tr id="L296"><td><a href="#L296">296</a></td><td>GRANGER:  Clones.</td></tr>
 
-  GRANGER [on viewscreen]
-     Splendid. Please, come down, and allow us to
-     extend our hospitality to you and your crew.
+<tr id="L297"><td><a href="#L297">297</a></td><td>SOMEONE: Captain's log, supplemental. Prime Minister Granger has requested an urgent meeting to discuss the future of the Mariposan colony. I've invited him to the Enterprise.</td></tr>
 
-  PICARD
-     Thank you. Form an away team, Number One.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L298"><td><a href="#L298">298</a></td><td>GRANGER:  Captain, we need your help. Three hundred years ago during our landing on Mariposa, the skin of our ship was breached. Only five of the colonists survived. The progenitors weren't willing to just give up and die, and they were scientists</td></tr>
 
-  TROI
-     I would urge caution.
+<tr id="L299"><td><a href="#L299">299</a></td><td>PICARD:  So, they used that expertise and turned to cloning.</td></tr>
 
-  RIKER
-     Caution? What's wrong?
+<tr id="L300"><td><a href="#L300">300</a></td><td>GRANGER:  Yes. We had no other option. Two women and three men represented an insufficient gene pool from which to build a society.</td></tr>
 
-  TROI
-     He's hiding something.
+<tr id="L301"><td><a href="#L301">301</a></td><td>PULASKI:  How did you suppress the natural sexual drive? Drugs? Punitive laws?</td></tr>
 
-  RIKER
-     We'll check it out. Mister Worf. Doctor Pulaski,
-     join us in Transporter room three for an away
-     detail.
+<tr id="L302"><td><a href="#L302">302</a></td><td>GRANGER:  In the beginning, a little bit of each. Now, after three hundred years, the entire concept of sexual reproduction is a little repugnant to us.</td></tr>
 
+<tr id="L303"><td><a href="#L303">303</a></td><td>PULASKI:  How did you overcome the problem of replicative fading?</td></tr>
 
-LOCATION--Reception
+<tr id="L304"><td><a href="#L304">304</a></td><td>GRANGER:  We haven't.</td></tr>
 
-  ANNOTATION
-     a very modern looking building, and clothing style
+<tr id="L305"><td><a href="#L305">305</a></td><td>PULASKI:  You have got a problem.</td></tr>
 
-  GRANGER 2
-     Welcome to Mariposa. I'm Victor Granger, Minister
-     of Health.
+<tr id="L306"><td><a href="#L306">306</a></td><td>RIKER:  Wait. I don't understand replicative fading.</td></tr>
 
-  RIKER
-     Commander William Riker, Doctor Pulaski,
-     Lieutenant Worf.
+<tr id="L307"><td><a href="#L307">307</a></td><td>PULASKI:  Each time you clone, you're making a copy of a copy. Subtle errors creep into the chromosomes, and eventually you end up with a non-viable clone.</td></tr>
 
-  GRANGER 2
-     A pleasure. I'll escort you to the Prime Minister.
-     This way please.
+<tr id="L308"><td><a href="#L308">308</a></td><td>PICARD:  How can we help you?</td></tr>
 
-  RIKER
-     Twin brothers?
+<tr id="L309"><td><a href="#L309">309</a></td><td>GRANGER:  We need an infusion of fresh DNA. I was hoping that you would be willing to share some tissue samples.</td></tr>
 
-  GRANGER 2
-     Your arrival really is serendipitous.
+<tr id="L310"><td><a href="#L310">310</a></td><td>RIKER:  You want to clone us?</td></tr>
 
-  PULASKI
-     Oh, how so?
+<tr id="L311"><td><a href="#L311">311</a></td><td>GRANGER:  Yes.</td></tr>
 
-  GRANGER 2
-     Well, perhaps I'll let the Prime Minister to
-     explain that.
+<tr id="L312"><td><a href="#L312">312</a></td><td>RIKER:  No way, not me.</td></tr>
 
-  ANNOTATION
-     Three identical women are standing by a desk
+<tr id="L313"><td><a href="#L313">313</a></td><td>GRANGER:  How can you possibly be harmed?</td></tr>
 
-  RIKER
-     Triplets? Worf, there is something damn odd down
-     here.
+<tr id="L314"><td><a href="#L314">314</a></td><td>RIKER:  It's not a question of harm. One William Riker is unique, perhaps even special. But a hundred of him, a thousand of him diminishes me in ways I can't even imagine.</td></tr>
 
-  ANNOTATION
-     a fourth woman walks by
+<tr id="L315"><td><a href="#L315">315</a></td><td>GRANGER:  You would be preserving yourself.</td></tr>
 
-  WORF
-     Quadruplets.
+<tr id="L316"><td><a href="#L316">316</a></td><td>RIKER:  Human beings have other ways of doing that. We have children.</td></tr>
 
+<tr id="L317"><td><a href="#L317">317</a></td><td>PICARD:  I think you will find that attitude prevalent among all the Enterprise people.</td></tr>
 
-LOCATION--Hallway
+<tr id="L318"><td><a href="#L318">318</a></td><td>GRANGER:  I see. Well, if you are not willing to share your DNA, will you at least send some people to repair our malfunctioning equipment?</td></tr>
 
-  GRANGER 2
-     Doctor, is your title scientific or medical?
+<tr id="L319"><td><a href="#L319">319</a></td><td>PICARD:  Yes, of course. Number One, put a technical team together. Let's get these repairs underway.</td></tr>
 
-  PULASKI
-     Medical.
+<tr id="L320"><td><a href="#L320">320</a></td><td>RIKER:  Yes, sir. Lieutenant La Forge. Prepare a technical support away team. Meet me in transporter room three.</td></tr>
 
-  GRANGER 2
-     Ah, excellent.
+<tr id="L321"><td><a href="#L321">321</a></td><td>ANNOTATION: Riker leaves</td></tr>
 
-  PULASKI
-     Is there some medical problem we should know
-     about?
+<tr id="L322"><td><a href="#L322">322</a></td><td>PULASKI:  Captain, with your permission, I would like to return to the planet. It could be my last opportunity to study replicative fading. With your permission, of course, Mister Prime Minister.</td></tr>
 
-  GRANGER 2
-     I think it best if the, er
+<tr id="L323"><td><a href="#L323">323</a></td><td>GRANGER:  You'd be most welcome. Perhaps you will find a solution that we have overlooked.</td></tr>
 
-  PULASKI
-     Prime minister explains that. Somehow I thought
-     you might.
+<tr id="L324"><td><a href="#L324">324</a></td><td>PULASKI:  Well, I appreciate the compliment, but I don't think that's very likely. And repairing that equipment will certainly not solve your problems.</td></tr>
 
-  GRANGER 2
-     Yes. Excuse me. Gentlemen? Please, follow me.
+<tr id="L325"><td><a href="#L325">325</a></td><td>GRANGER:  What other solution do we have? Doctor, remember, there are only five of us.</td></tr>
 
-  ANNOTATION
-     Pulaski runs a secret scan on another man as Worf
-     and Riker catch up with them
+<tr id="L326"><td><a href="#L326">326</a></td><td>SOMEONE: Captain's log, supplemental. Commander Riker and Doctor Pulaski have returned to Mariposa with a team of Enterprise technicians.</td></tr>
 
-  GRANGER 2
-     This way please. Doctor.
+<tr><td></td><td>LOCATION--Granger's office</td></tr>
+<tr id="L327"><td><a href="#L327">327</a></td><td>RIKER:  The repairs are almost complete. I wish there was something more we could do.</td></tr>
 
+<tr id="L328"><td><a href="#L328">328</a></td><td>GRANGER:  Are you sure you won't reconsider?</td></tr>
 
-LOCATION--Granger's office
+<tr id="L329"><td><a href="#L329">329</a></td><td>PULASKI:  About the cloning?</td></tr>
 
-  GRANGER
-     Welcome to Mariposa.
+<tr id="L330"><td><a href="#L330">330</a></td><td>GRANGER:  Yes.</td></tr>
 
-  PULASKI
-     Doctor Katherine Pulaski.
+<tr id="L331"><td><a href="#L331">331</a></td><td>RIKER:  Out of the question.</td></tr>
 
-  GRANGER
-     This is my Chief of Staff, Elizabeth Vallis.
+<tr id="L332"><td><a href="#L332">332</a></td><td>ANNOTATION: so an aide stuns Kate and Riker, and they are dragged off through another door. Then Geordi enters</td></tr>
 
-  PULASKI
-     Tell me, is your entire population made up of
-     clones, Prime Minister?
+<tr id="L333"><td><a href="#L333">333</a></td><td>LAFORGE:  Excuse me, sir, I was looking for Commander Riker.</td></tr>
 
-  WORF
-     Clones?
+<tr id="L334"><td><a href="#L334">334</a></td><td>GRANGER:  I'm afraid I haven't seen him.</td></tr>
 
-  RIKER
-     Clones?
+<tr id="L335"><td><a href="#L335">335</a></td><td>LAFORGE:  Doctor Pulaski?</td></tr>
 
-  GRANGER
-     Clones.
+<tr id="L336"><td><a href="#L336">336</a></td><td>GRANGER:  Sorry, I can't help you.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. Prime Minister
-     Granger has requested an urgent meeting to discuss
-     the future of the Mariposan colony. I've invited
-     him to the Enterprise.
+<tr id="L337"><td><a href="#L337">337</a></td><td>LAFORGE:  Well, I guess I'll just have to hunt for them. Sorry to disturb you.</td></tr>
 
+<tr><td></td><td>LOCATION--Laboratory</td></tr>
+<tr id="L338"><td><a href="#L338">338</a></td><td>ANNOTATION: Eyes wide open, but oblivious to what is happening, Pulaski and Riker are having needles pushed into their abdomens</td></tr>
 
-LOCATION--Observation lounge
+<tr><td></td><td>LOCATION--Pulaski's office</td></tr>
+<tr id="L339"><td><a href="#L339">339</a></td><td>LAFORGE:  Hey. So what happened to you two down on Mariposa? Is everything all right?</td></tr>
 
-  GRANGER
-     Captain, we need your help. Three hundred years
-     ago during our landing on Mariposa, the skin of
-     our ship was breached. Only five of the colonists
-     survived. The progenitors weren't willing to just
-     give up and die, and they were scientists
+<tr id="L340"><td><a href="#L340">340</a></td><td>RIKER:  Is there any reason why it shouldn't be?</td></tr>
 
-  PICARD
-     So, they used that expertise and turned to
-     cloning.
+<tr id="L341"><td><a href="#L341">341</a></td><td>LAFORGE:  Yeah. Every time I asked where you were, some clone lied to me.</td></tr>
 
-  GRANGER
-     Yes. We had no other option. Two women and three
-     men represented an insufficient gene pool from
-     which to build a society.
+<tr id="L342"><td><a href="#L342">342</a></td><td>RIKER:  Lied to you?</td></tr>
 
-  PULASKI
-     How did you suppress the natural sexual drive?
-     Drugs? Punitive laws?
+<tr id="L343"><td><a href="#L343">343</a></td><td>LAFORGE:  Commander, with this I can see better than your average person. Now when someone lies there are certain physical manifestations. Variations in blush response, pupil dilation, pulse, breath rate. Doesn't always work with aliens, but humans? Got'em nailed.</td></tr>
 
-  GRANGER
-     In the beginning, a little bit of each. Now, after
-     three hundred years, the entire concept of sexual
-     reproduction is a little repugnant to us.
+<tr id="L344"><td><a href="#L344">344</a></td><td>PULASKI:  The clones lied about our whereabouts? I don't remember anything happening. I was working in their medical facility and got a call to report to Granger's office. I ran into Will on the way</td></tr>
 
-  PULASKI
-     How did you overcome the problem of replicative
-     fading?
+<tr id="L345"><td><a href="#L345">345</a></td><td>LAFORGE:  Now wait a minute. Granger said he hadn't seen either one of you. Did you make it to his office?</td></tr>
 
-  GRANGER
-     We haven't.
+<tr id="L346"><td><a href="#L346">346</a></td><td>RIKER:  I think, I don't remember.</td></tr>
 
-  PULASKI
-     You have got a problem.
+<tr id="L347"><td><a href="#L347">347</a></td><td>ANNOTATION: Pulaski runs a medical tricorder over them all</td></tr>
 
-  RIKER
-     Wait. I don't understand replicative fading.
+<tr id="L348"><td><a href="#L348">348</a></td><td>LAFORGE:  So what's the prognosis, Doc?</td></tr>
 
-  PULASKI
-     Each time you clone, you're making a copy of a
-     copy. Subtle errors creep into the chromosomes,
-     and eventually you end up with a non-viable clone.
+<tr id="L349"><td><a href="#L349">349</a></td><td>PULASKI:  Geordi, you'll be pleased to know that you're not missing any epithelial cells.</td></tr>
 
-  PICARD
-     How can we help you?
+<tr id="L350"><td><a href="#L350">350</a></td><td>LAFORGE:  Great.</td></tr>
 
-  GRANGER
-     We need an infusion of fresh DNA. I was hoping
-     that you would be willing to share some tissue
-     samples.
+<tr id="L351"><td><a href="#L351">351</a></td><td>PULASKI:  Will and I, however, are.</td></tr>
 
-  RIKER
-     You want to clone us?
+<tr id="L352"><td><a href="#L352">352</a></td><td>RIKER:  Meaning?</td></tr>
 
-  GRANGER
-     Yes.
+<tr id="L353"><td><a href="#L353">353</a></td><td>PULASKI:  Although you can clone from any cell in the body, the cells lining the stomach are the best choice because they're relatively undifferentiated.</td></tr>
 
-  RIKER
-     No way, not me.
+<tr id="L354"><td><a href="#L354">354</a></td><td>LAFORGE:  Where are you going?</td></tr>
 
-  GRANGER
-     How can you possibly be harmed?
+<tr id="L355"><td><a href="#L355">355</a></td><td>RIKER:  To their cloning lab.</td></tr>
 
-  RIKER
-     It's not a question of harm. One William Riker is
-     unique, perhaps even special. But a hundred of
-     him, a thousand of him diminishes me in ways I
-     can't even imagine.
+<tr><td></td><td>LOCATION--Laboratory</td></tr>
+<tr id="L356"><td><a href="#L356">356</a></td><td>ANNOTATION: Riker, La Forge and Pulaski beam straight in, and find adult-sized replicas of themselves in cloning tubes. With Kate's consent, Riker phasers them out of existence</td></tr>
 
-  GRANGER
-     You would be preserving yourself.
+<tr id="L357"><td><a href="#L357">357</a></td><td>GRANGER:  Stop! Murderers!</td></tr>
 
-  RIKER
-     Human beings have other ways of doing that. We
-     have children.
+<tr id="L358"><td><a href="#L358">358</a></td><td>RIKER:  Like hell! You're a damn thief!</td></tr>
 
-  PICARD
-     I think you will find that attitude prevalent
-     among all the Enterprise people.
+<tr id="L359"><td><a href="#L359">359</a></td><td>PULASKI:  Gentlemen, please.</td></tr>
 
-  GRANGER
-     I see. Well, if you are not willing to share your
-     DNA, will you at least send some people to repair
-     our malfunctioning equipment?
+<tr id="L360"><td><a href="#L360">360</a></td><td>GRANGER:  What else could we do? We asked for your help and you refused us. We're desperate. Desperate!</td></tr>
 
-  PICARD
-     Yes, of course. Number One, put a technical team
-     together. Let's get these repairs underway.
+<tr id="L361"><td><a href="#L361">361</a></td><td>RIKER:  And that gave you the right to assault us, to rob us.</td></tr>
 
-  RIKER
-     Yes, sir. Lieutenant La Forge. Prepare a technical
-     support away team. Meet me in transporter room
-     three.
+<tr id="L362"><td><a href="#L362">362</a></td><td>GRANGER:  We have the right to survive!</td></tr>
 
-  ANNOTATION
-     Riker leaves
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L363"><td><a href="#L363">363</a></td><td>PICARD:  Doctor, how desperate is the colony's situation?</td></tr>
 
-  PULASKI
-     Captain, with your permission, I would like to
-     return to the planet. It could be my last
-     opportunity to study replicative fading. With your
-     permission, of course, Mister Prime Minister.
+<tr id="L364"><td><a href="#L364">364</a></td><td>PULASKI:  They've got two or three generations, then the fading will be terminal. They're among the walking dead now. They just haven't been buried.</td></tr>
 
-  GRANGER
-     You'd be most welcome. Perhaps you will find a
-     solution that we have overlooked.
+<tr id="L365"><td><a href="#L365">365</a></td><td>RIKER:  I want the cloning equipment inspected. Who knows how many tissue samples were stolen. We certainly have a right to exercise control over our own bodies.</td></tr>
 
-  PULASKI
-     Well, I appreciate the compliment, but I don't
-     think that's very likely. And repairing that
-     equipment will certainly not solve your problems.
+<tr id="L366"><td><a href="#L366">366</a></td><td>PULASKI:  You'll get no argument from me.</td></tr>
 
-  GRANGER
-     What other solution do we have? Doctor, remember,
-     there are only five of us.
+<tr id="L367"><td><a href="#L367">367</a></td><td>TROI:  I know the Mariposan culture seems alien, even frightening, but really, we do have much in common. They're human beings fighting for survival. Would we do any less?</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. Commander Riker and
-     Doctor Pulaski have returned to Mariposa with a
-     team of Enterprise technicians.
+<tr id="L368"><td><a href="#L368">368</a></td><td>PICARD:  Are you saying we should give them the DNA samples they require?</td></tr>
 
+<tr id="L369"><td><a href="#L369">369</a></td><td>PULASKI:  That's just postponing the inevitable. If they get an infusion of fresh DNA, in fifteen generations they'll just go back to the same problems. Cloning isn't the answer. What they need is breeding stock.</td></tr>
 
-LOCATION--Granger's office
+<tr id="L370"><td><a href="#L370">370</a></td><td>PICARD:  The Bringloidi.</td></tr>
 
-  RIKER
-     The repairs are almost complete. I wish there was
-     something more we could do.
+<tr id="L371"><td><a href="#L371">371</a></td><td>TROI:  Yes. They have the energy and drive, and the clones possess the emotional maturity and the technological knowledge.</td></tr>
 
-  GRANGER
-     Are you sure you won't reconsider?
+<tr id="L372"><td><a href="#L372">372</a></td><td>PICARD:  They started out together. It seems only fitting they should end up together.</td></tr>
 
-  PULASKI
-     About the cloning?
+<tr id="L373"><td><a href="#L373">373</a></td><td>PULASKI:  It's a match made in heaven.</td></tr>
 
-  GRANGER
-     Yes.
+<tr id="L374"><td><a href="#L374">374</a></td><td>RIKER:  Unfortunately it will have to be a shotgun wedding.</td></tr>
 
-  RIKER
-     Out of the question.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L375"><td><a href="#L375">375</a></td><td>GRANGER:  I'm sorry, Captain, it's out of the question. You're trying to dump your problems on us. We have problems of our own.</td></tr>
 
-  ANNOTATION
-     so an aide stuns Kate and Riker, and they are
-     dragged off through another door. Then Geordi
-     enters
+<tr id="L376"><td><a href="#L376">376</a></td><td>PICARD:  Don't you understand? The Bringloidi can help you.</td></tr>
 
-  LAFORGE
-     Excuse me, sir, I was looking for Commander Riker.
+<tr id="L377"><td><a href="#L377">377</a></td><td>GRANGER:  Look at him. How could we ever integrate that into our society?</td></tr>
 
-  GRANGER
-     I'm afraid I haven't seen him.
+<tr id="L378"><td><a href="#L378">378</a></td><td>DANILO:  You're no prize yourself.</td></tr>
 
-  LAFORGE
-     Doctor Pulaski?
+<tr id="L379"><td><a href="#L379">379</a></td><td>GRANGER:  Primitive, hostile, disruptive. It would require enormous effort to even educate them.</td></tr>
 
-  GRANGER
-     Sorry, I can't help you.
+<tr id="L380"><td><a href="#L380">380</a></td><td>DANILO:  Oh, forget it, Captain Picard. I'm not going to come in here with my hat in my hand begging charity from this blatherskite.</td></tr>
 
-  LAFORGE
-     Well, I guess I'll just have to hunt for them.
-     Sorry to disturb you.
+<tr id="L381"><td><a href="#L381">381</a></td><td>PICARD:  Now stop! I will not allow posturing and bigotry to destroy this meeting. Now please, sit down. Now, Commander Riker has asked that your laboratories be inspected for stolen tissue samples, and I understand his concern. We may have to transport all your equipment here, to the Enterprise.</td></tr>
 
+<tr id="L382"><td><a href="#L382">382</a></td><td>GRANGER:  I see. When reason fails, you'll resort to blackmail.</td></tr>
 
-LOCATION--Laboratory
+<tr id="L383"><td><a href="#L383">383</a></td><td>PICARD:  Fine. Destroy yourselves.</td></tr>
 
-  ANNOTATION
-     Eyes wide open, but oblivious to what is
-     happening, Pulaski and Riker are having needles
-     pushed into their abdomens
+<tr id="L384"><td><a href="#L384">384</a></td><td>PULASKI:  It's not so bad, Captain. In fifty years we'll have a new class M planet, complete with cities, and ready for colonisation.</td></tr>
 
+<tr id="L385"><td><a href="#L385">385</a></td><td>PICARD:  You see, the end is closer than you like to think.</td></tr>
 
-LOCATION--Pulaski's office
+<tr id="L386"><td><a href="#L386">386</a></td><td>GRANGER:  I don't know. There are so many difficulties.</td></tr>
 
-  LAFORGE
-     Hey. So what happened to you two down on Mariposa?
-     Is everything all right?
+<tr id="L387"><td><a href="#L387">387</a></td><td>DANILO:  Look, man. We are decent, hard working people. We're willing to learn.</td></tr>
 
-  RIKER
-     Is there any reason why it shouldn't be?
+<tr id="L388"><td><a href="#L388">388</a></td><td>GRANGER:  They're so different.</td></tr>
 
-  LAFORGE
-     Yeah. Every time I asked where you were, some
-     clone lied to me.
+<tr id="L389"><td><a href="#L389">389</a></td><td>PICARD:  It is the differences that have made us strong.</td></tr>
 
-  RIKER
-     Lied to you?
+<tr id="L390"><td><a href="#L390">390</a></td><td>GRANGER:  For three hundred years, we have denied the carnal side of our nature. How can we learn to put that aside?</td></tr>
 
-  LAFORGE
-     Commander, with this I can see better than your
-     average person. Now when someone lies there are
-     certain physical manifestations. Variations in
-     blush response, pupil dilation, pulse, breath
-     rate. Doesn't always work with aliens, but humans?
-     Got'em nailed.
+<tr id="L391"><td><a href="#L391">391</a></td><td>DANILO:  Well, you put a young couple together and you let nature take its course.</td></tr>
 
-  PULASKI
-     The clones lied about our whereabouts? I don't
-     remember anything happening. I was working in
-     their medical facility and got a call to report to
-     Granger's office. I ran into Will on the way
+<tr id="L392"><td><a href="#L392">392</a></td><td>PULASKI:  Now if this is going to work, you're going to have to alter your society, too. Monogamous marriage will not be possible for several generations.</td></tr>
 
-  LAFORGE
-     Now wait a minute. Granger said he hadn't seen
-     either one of you. Did you make it to his office?
+<tr id="L393"><td><a href="#L393">393</a></td><td>DANILO:  I don't quite understand.</td></tr>
 
-  RIKER
-     I think, I don't remember.
+<tr id="L394"><td><a href="#L394">394</a></td><td>PULASKI:  Thirty couples are enough to create a viable genetic base. But the broader the base the healthier and the safer the society. So it will be best if each woman, Bringloidi and Mariposan, had at least three children by three different men.</td></tr>
 
-  ANNOTATION
-     Pulaski runs a medical tricorder over them all
+<tr id="L395"><td><a href="#L395">395</a></td><td>DANILO:  I think I could handle that, yes.</td></tr>
 
-  LAFORGE
-     So what's the prognosis, Doc?
+<tr id="L396"><td><a href="#L396">396</a></td><td>GRANGER:  Oh, God, it's so</td></tr>
 
-  PULASKI
-     Geordi, you'll be pleased to know that you're not
-     missing any epithelial cells.
+<tr id="L397"><td><a href="#L397">397</a></td><td>PICARD:  Frightening?</td></tr>
 
-  LAFORGE
-     Great.
+<tr id="L398"><td><a href="#L398">398</a></td><td>GRANGER:  Repugnant.</td></tr>
 
-  PULASKI
-     Will and I, however, are.
+<tr id="L399"><td><a href="#L399">399</a></td><td>DANILO:  So, it's a done deal? And here's my hand on it. (complete with spit) Right, now, let's go and stake out my three women. Send in the clones.</td></tr>
 
-  RIKER
-     Meaning?
+<tr id="L400"><td><a href="#L400">400</a></td><td>PICARD:  I must be out of my mind.</td></tr>
 
-  PULASKI
-     Although you can clone from any cell in the body,
-     the cells lining the stomach are the best choice
-     because they're relatively undifferentiated.
+<tr id="L401"><td><a href="#L401">401</a></td><td>PULASKI:  Starfleet will probably agree with you.</td></tr>
 
-  LAFORGE
-     Where are you going?
+<tr><td></td><td>LOCATION--Cargo hold</td></tr>
+<tr id="L402"><td><a href="#L402">402</a></td><td>DANILO:  Excuse me, sir. Captain. Thank you. Brenna. Brenna, a word.</td></tr>
 
-  RIKER
-     To their cloning lab.
+<tr id="L403"><td><a href="#L403">403</a></td><td>ANNOTATION: He takes her behind some cargo modules to explain the agreement. Meanwhile Granger gazes in awe at a very pregnant woman</td></tr>
 
+<tr id="L404"><td><a href="#L404">404</a></td><td>BRENNA:  Isn't that just like a man! You make these grandiose decisions, but you never stop to consider the poor women.</td></tr>
 
-LOCATION--Laboratory
+<tr id="L405"><td><a href="#L405">405</a></td><td>PICARD:  Miss Odell, I</td></tr>
 
-  ANNOTATION
-     Riker, La Forge and Pulaski beam straight in, and
-     find adult-sized replicas of themselves in cloning
-     tubes. With Kate's consent, Riker phasers them out
-     of existence
+<tr id="L406"><td><a href="#L406">406</a></td><td>BRENNA:  You men draw a mug, and solve all the problems of the world while the beer goes down, but, when it comes to the practical matters, it always falls to the women to make your grand dreams come true.</td></tr>
 
-  GRANGER
-     Stop! Murderers!
+<tr id="L407"><td><a href="#L407">407</a></td><td>PICARD:  Miss Odell, you were the one who wanted a new home.</td></tr>
 
-  RIKER
-     Like hell! You're a damn thief!
+<tr id="L408"><td><a href="#L408">408</a></td><td>BRENNA:  But I don't know if I want to be Eve.</td></tr>
 
-  PULASKI
-     Gentlemen, please.
+<tr id="L409"><td><a href="#L409">409</a></td><td>PICARD:  It's your choice. If you wish, you can stay on the Enterprise. We will drop you at a starbase, then you can go where you wish.</td></tr>
 
-  GRANGER
-     What else could we do? We asked for your help and
-     you refused us. We're desperate. Desperate!
+<tr id="L410"><td><a href="#L410">410</a></td><td>BRENNA:  Leave my da?</td></tr>
 
-  RIKER
-     And that gave you the right to assault us, to rob
-     us.
+<tr id="L411"><td><a href="#L411">411</a></td><td>PICARD:  If this is going to work, these people will need your strength, your guidance.</td></tr>
 
-  GRANGER
-     We have the right to survive!
+<tr id="L412"><td><a href="#L412">412</a></td><td>BRENNA:  Oh, damn. What does he do again?</td></tr>
 
+<tr id="L413"><td><a href="#L413">413</a></td><td>PICARD:  Prime Minister.</td></tr>
 
-LOCATION--Ready room
+<tr id="L414"><td><a href="#L414">414</a></td><td>BRENNA:  Sounds important.</td></tr>
 
-  PICARD
-     Doctor, how desperate is the colony's situation?
+<tr id="L415"><td><a href="#L415">415</a></td><td>PICARD:  Oh, it is.</td></tr>
 
-  PULASKI
-     They've got two or three generations, then the
-     fading will be terminal. They're among the walking
-     dead now. They just haven't been buried.
+<tr id="L416"><td><a href="#L416">416</a></td><td>BRENNA:  Sounds like he might have more than two coins to rub together. Three husbands?</td></tr>
 
-  RIKER
-     I want the cloning equipment inspected. Who knows
-     how many tissue samples were stolen. We certainly
-     have a right to exercise control over our own
-     bodies.
-
-  PULASKI
-     You'll get no argument from me.
-
-  TROI
-     I know the Mariposan culture seems alien, even
-     frightening, but really, we do have much in
-     common. They're human beings fighting for
-     survival. Would we do any less?
-
-  PICARD
-     Are you saying we should give them the DNA samples
-     they require?
-
-  PULASKI
-     That's just postponing the inevitable. If they get
-     an infusion of fresh DNA, in fifteen generations
-     they'll just go back to the same problems. Cloning
-     isn't the answer. What they need is breeding
-     stock.
-
-  PICARD
-     The Bringloidi.
-
-  TROI
-     Yes. They have the energy and drive, and the
-     clones possess the emotional maturity and the
-     technological knowledge.
-
-  PICARD
-     They started out together. It seems only fitting
-     they should end up together.
-
-  PULASKI
-     It's a match made in heaven.
-
-  RIKER
-     Unfortunately it will have to be a shotgun
-     wedding.
-
-
-LOCATION--Observation lounge
-
-  GRANGER
-     I'm sorry, Captain, it's out of the question.
-     You're trying to dump your problems on us. We have
-     problems of our own.
-
-  PICARD
-     Don't you understand? The Bringloidi can help you.
-
-  GRANGER
-     Look at him. How could we ever integrate that into
-     our society?
-
-  DANILO
-     You're no prize yourself.
-
-  GRANGER
-     Primitive, hostile, disruptive. It would require
-     enormous effort to even educate them.
-
-  DANILO
-     Oh, forget it, Captain Picard. I'm not going to
-     come in here with my hat in my hand begging
-     charity from this blatherskite.
-
-  PICARD
-     Now stop! I will not allow posturing and bigotry
-     to destroy this meeting. Now please, sit down.
-     Now, Commander Riker has asked that your
-     laboratories be inspected for stolen tissue
-     samples, and I understand his concern. We may have
-     to transport all your equipment here, to the
-     Enterprise.
-
-  GRANGER
-     I see. When reason fails, you'll resort to
-     blackmail.
-
-  PICARD
-     Fine. Destroy yourselves.
-
-  PULASKI
-     It's not so bad, Captain. In fifty years we'll
-     have a new class M planet, complete with cities,
-     and ready for colonisation.
-
-  PICARD
-     You see, the end is closer than you like to think.
-
-  GRANGER
-     I don't know. There are so many difficulties.
-
-  DANILO
-     Look, man. We are decent, hard working people.
-     We're willing to learn.
-
-  GRANGER
-     They're so different.
-
-  PICARD
-     It is the differences that have made us strong.
-
-  GRANGER
-     For three hundred years, we have denied the carnal
-     side of our nature. How can we learn to put that
-     aside?
-
-  DANILO
-     Well, you put a young couple together and you let
-     nature take its course.
-
-  PULASKI
-     Now if this is going to work, you're going to have
-     to alter your society, too. Monogamous marriage
-     will not be possible for several generations.
-
-  DANILO
-     I don't quite understand.
-
-  PULASKI
-     Thirty couples are enough to create a viable
-     genetic base. But the broader the base the
-     healthier and the safer the society. So it will be
-     best if each woman, Bringloidi and Mariposan, had
-     at least three children by three different men.
-
-  DANILO
-     I think I could handle that, yes.
-
-  GRANGER
-     Oh, God, it's so
-
-  PICARD
-     Frightening?
-
-  GRANGER
-     Repugnant.
-
-  DANILO
-     So, it's a done deal? And here's my hand on it.
-     (complete with spit) Right, now, let's go and
-     stake out my three women. Send in the clones.
-
-  PICARD
-     I must be out of my mind.
-
-  PULASKI
-     Starfleet will probably agree with you.
-
-
-LOCATION--Cargo hold
-
-  DANILO
-     Excuse me, sir. Captain. Thank you. Brenna.
-     Brenna, a word.
-
-  ANNOTATION
-     He takes her behind some cargo modules to explain
-     the agreement. Meanwhile Granger gazes in awe at a
-     very pregnant woman
-
-  BRENNA
-     Isn't that just like a man! You make these
-     grandiose decisions, but you never stop to
-     consider the poor women.
-
-  PICARD
-     Miss Odell, I
-
-  BRENNA
-     You men draw a mug, and solve all the problems of
-     the world while the beer goes down, but, when it
-     comes to the practical matters, it always falls to
-     the women to make your grand dreams come true.
-
-  PICARD
-     Miss Odell, you were the one who wanted a new
-     home.
-
-  BRENNA
-     But I don't know if I want to be Eve.
-
-  PICARD
-     It's your choice. If you wish, you can stay on the
-     Enterprise. We will drop you at a starbase, then
-     you can go where you wish.
-
-  BRENNA
-     Leave my da?
-
-  PICARD
-     If this is going to work, these people will need
-     your strength, your guidance.
-
-  BRENNA
-     Oh, damn. What does he do again?
-
-  PICARD
-     Prime Minister.
-
-  BRENNA
-     Sounds important.
-
-  PICARD
-     Oh, it is.
-
-  BRENNA
-     Sounds like he might have more than two coins to
-     rub together. Three husbands?
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

@@ -1,1746 +1,940 @@
-The Child
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Child</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>COMPUTER:  Repulse shuttle has cleared docking bay three.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>RIKER:  (sporting a very Naval beard) Open hailing frequencies.</td></tr>
 
-  COMPUTER
-     Repulse shuttle has cleared docking bay three.
+<tr id="L3"><td><a href="#L3">3</a></td><td>WORF:  Hailing frequencies opened.</td></tr>
 
-  RIKER
-     (sporting a very Naval beard) Open hailing
-     frequencies.
+<tr id="L4"><td><a href="#L4">4</a></td><td>RIKER:  Repulse, this is the Enterprise. We are getting underway.</td></tr>
 
-  WORF
-     Hailing frequencies opened.
+<tr id="L5"><td><a href="#L5">5</a></td><td>REPULSE [OC]:  Acknowledged, Enterprise. Transfer complete. Good luck on your mission.</td></tr>
 
-  RIKER
-     Repulse, this is the Enterprise. We are getting
-     underway.
+<tr id="L6"><td><a href="#L6">6</a></td><td>RIKER:  And to you.</td></tr>
 
-  REPULSE [OC]
-     Acknowledged, Enterprise. Transfer complete. Good
-     luck on your mission.
+<tr id="L7"><td><a href="#L7">7</a></td><td>REPULSE [OC]:  Give my regards to your Captain. Repulse out.</td></tr>
 
-  RIKER
-     And to you.
+<tr id="L8"><td><a href="#L8">8</a></td><td>WESLEY:  (in new uniform) Shuttlebay is secure, sir.</td></tr>
 
-  REPULSE [OC]
-     Give my regards to your Captain. Repulse out.
+<tr id="L9"><td><a href="#L9">9</a></td><td>RIKER:  Thank you, Mister Crusher. Make all preparations to get underway.</td></tr>
 
-  WESLEY
-     (in new uniform) Shuttlebay is secure, sir.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L10"><td><a href="#L10">10</a></td><td>ANNOTATION: Picard is looking at a transparent hexagonal container</td></tr>
 
-  RIKER
-     Thank you, Mister Crusher. Make all preparations
-     to get underway.
+<tr id="L11"><td><a href="#L11">11</a></td><td>LAFORGE:  We're constructing the enclosure on cargo deck five.</td></tr>
 
+<tr id="L12"><td><a href="#L12">12</a></td><td>ANNOTATION: doorbell</td></tr>
 
-LOCATION--Ready room
+<tr id="L13"><td><a href="#L13">13</a></td><td>PICARD:  Come.</td></tr>
 
-  ANNOTATION
-     Picard is looking at a transparent hexagonal
-     container
+<tr id="L14"><td><a href="#L14">14</a></td><td>RIKER:  The transfer's been complete. Doctor Pulaski is being shown to her quarters. We're ready to get underway.</td></tr>
 
-  LAFORGE
-     We're constructing the enclosure on cargo deck
-     five.
+<tr id="L15"><td><a href="#L15">15</a></td><td>PICARD:  (back to his Yorkshire roots) Grand. Take a look at the containment module our Chief Engineer has designed.</td></tr>
 
-  ANNOTATION
-     doorbell
+<tr id="L16"><td><a href="#L16">16</a></td><td>RIKER:  Chief Engineer. It still has a nice ring to it.</td></tr>
 
-  PICARD
-     Come.
+<tr id="L17"><td><a href="#L17">17</a></td><td>LAFORGE:  Each of these units will have total environmental control. Gravity, temperature, atmosphere, light, all in a protective stasis field.</td></tr>
 
-  RIKER
-     The transfer's been complete. Doctor Pulaski is
-     being shown to her quarters. We're ready to get
-     underway.
+<tr id="L18"><td><a href="#L18">18</a></td><td>RIKER:  And these get put into the large containment unit.</td></tr>
 
-  PICARD
-     (back to his Yorkshire roots) Grand. Take a look
-     at the containment module our Chief Engineer has
-     designed.
+<tr id="L19"><td><a href="#L19">19</a></td><td>LAFORGE:  Right. See, these modules will keep the specimens alive, but it's this large containment area that's going to keep us alive. Now, I have to go and replicate this five hundred and twelve times, which means I'll have to divert power from the warp engines to the replicator for a while.</td></tr>
 
-  RIKER
-     Chief Engineer. It still has a nice ring to it.
+<tr id="L20"><td><a href="#L20">20</a></td><td>PICARD:  How long will we be on impulse power?</td></tr>
 
-  LAFORGE
-     Each of these units will have total environmental
-     control. Gravity, temperature, atmosphere, light,
-     all in a protective stasis field.
+<tr id="L21"><td><a href="#L21">21</a></td><td>LAFORGE:  A couple of hours. Can't be helped.</td></tr>
 
-  RIKER
-     And these get put into the large containment unit.
+<tr id="L22"><td><a href="#L22">22</a></td><td>RIKER:  When we leave 'audet Nine, I'm going to need all the power you can slam into those warp engines.</td></tr>
 
-  LAFORGE
-     Right. See, these modules will keep the specimens
-     alive, but it's this large containment area that's
-     going to keep us alive. Now, I have to go and
-     replicate this five hundred and twelve times,
-     which means I'll have to divert power from the
-     warp engines to the replicator for a while.
+<tr id="L23"><td><a href="#L23">23</a></td><td>LAFORGE:  You'll have it.</td></tr>
 
-  PICARD
-     How long will we be on impulse power?
+<tr id="L24"><td><a href="#L24">24</a></td><td>PICARD:  I'll relieve you at zero three zero zero.</td></tr>
 
-  LAFORGE
-     A couple of hours. Can't be helped.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L25"><td><a href="#L25">25</a></td><td>RIKER:  Take us out of orbit, Mister Crusher. Set course for 'audet Nine.</td></tr>
 
-  RIKER
-     When we leave 'audet Nine, I'm going to need all
-     the power you can slam into those warp engines.
+<tr id="L26"><td><a href="#L26">26</a></td><td>WESLEY:  Aye, sir. Course for 'audet Nine has been input.</td></tr>
 
-  LAFORGE
-     You'll have it.
+<tr id="L27"><td><a href="#L27">27</a></td><td>RIKER:  Maximum impulse velocity.</td></tr>
 
-  PICARD
-     I'll relieve you at zero three zero zero.
+<tr id="L28"><td><a href="#L28">28</a></td><td>WESLEY:  Aye, sir.</td></tr>
 
+<tr id="L29"><td><a href="#L29">29</a></td><td>RIKER:  Engage.</td></tr>
 
-LOCATION--Bridge
+<tr id="L30"><td><a href="#L30">30</a></td><td>ANNOTATION: as they head off, a light follows them and enters the hull</td></tr>
 
-  RIKER
-     Take us out of orbit, Mister Crusher. Set course
-     for 'audet Nine.
+<tr id="L31"><td><a href="#L31">31</a></td><td>DATA:  Engineering, this is Science One. I have just observed what appeared to be a random energy transference.</td></tr>
 
-  WESLEY
-     Aye, sir. Course for 'audet Nine has been input.
+<tr><td></td><td>LOCATION--La Forge's office</td></tr>
+<tr id="L32"><td><a href="#L32">32</a></td><td>LAFORGE:  Where?</td></tr>
 
-  RIKER
-     Maximum impulse velocity.
+<tr id="L33"><td><a href="#L33">33</a></td><td>DATA [OC]:  Aft. Outboard of the port nacelle.</td></tr>
 
-  WESLEY
-     Aye, sir.
+<tr id="L34"><td><a href="#L34">34</a></td><td>LAFORGE:  Hold on, I'll check.</td></tr>
 
-  RIKER
-     Engage.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L35"><td><a href="#L35">35</a></td><td>LAFORGE:  No, I show nothing here, Data.</td></tr>
 
-  ANNOTATION
-     as they head off, a light follows them and enters
-     the hull
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L36"><td><a href="#L36">36</a></td><td>RIKER:  Problem, Commander?</td></tr>
 
-  DATA
-     Engineering, this is Science One. I have just
-     observed what appeared to be a random energy
-     transference.
+<tr id="L37"><td><a href="#L37">37</a></td><td>DATA:  Possibility, sir. An unexplained power fluctuation.</td></tr>
 
+<tr id="L38"><td><a href="#L38">38</a></td><td>RIKER:  Let me know if it reoccurs.</td></tr>
 
-LOCATION--La Forge's office
+<tr id="L39"><td><a href="#L39">39</a></td><td>DATA:  Aye, sir.</td></tr>
 
-  LAFORGE
-     Where?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L40"><td><a href="#L40">40</a></td><td>ANNOTATION: The light pops up through the floor, hides from them follow a couple of crew, and goes up into crew quarters. It seems to examine one man asleep, then passes through a bulkhead, goes underneath the sheets and into Deanna Troi, who wakes up panting</td></tr>
 
-  DATA [OC]
-     Aft. Outboard of the port nacelle.
+<tr id="L41"><td><a href="#L41">41</a></td><td>SOMEONE: Captain's log, Stardate 42073.1. There has been an outbreak of an unclassified plasma plague in the Rachelis system. We are on an emergency run to collect specimens of the deadly plague and transport them to Science Station Tango Sierra, where hopefully an antidote can be produced.</td></tr>
 
-  LAFORGE
-     Hold on, I'll check.
+<tr><td></td><td>LOCATION--Cargo deck five</td></tr>
+<tr id="L42"><td><a href="#L42">42</a></td><td>LAFORGE:  How's it going?</td></tr>
 
+<tr id="L43"><td><a href="#L43">43</a></td><td>CREWMAN:  Finished. Just waiting to insert the modules.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L44"><td><a href="#L44">44</a></td><td>PICARD:  Number One.</td></tr>
 
-  LAFORGE
-     No, I show nothing here, Data.
+<tr id="L45"><td><a href="#L45">45</a></td><td>RIKER:  Lieutenant La Forge says we will be able to engage the warp drive within the hour.</td></tr>
 
+<tr id="L46"><td><a href="#L46">46</a></td><td>PICARD:  Grand. Mister Data, when we have a complete list of all the specimens we will be carrying, I want you and Doctor er,</td></tr>
 
-LOCATION--Bridge
+<tr id="L47"><td><a href="#L47">47</a></td><td>DATA:  Pulaski, sir.</td></tr>
 
-  RIKER
-     Problem, Commander?
+<tr id="L48"><td><a href="#L48">48</a></td><td>PICARD:  Doctor Pulaski. I want you to go through them.</td></tr>
 
-  DATA
-     Possibility, sir. An unexplained power
-     fluctuation.
+<tr id="L49"><td><a href="#L49">49</a></td><td>DATA:  Aye, sir.</td></tr>
 
-  RIKER
-     Let me know if it reoccurs.
+<tr id="L50"><td><a href="#L50">50</a></td><td>PICARD:  By the way, where is our new doctor? Has she reported in?</td></tr>
 
-  DATA
-     Aye, sir.
+<tr id="L51"><td><a href="#L51">51</a></td><td>RIKER:  Not yet.</td></tr>
 
+<tr id="L52"><td><a href="#L52">52</a></td><td>PICARD:  Sickbay, this is the captain.</td></tr>
 
-LOCATION--Corridor
+<tr id="L53"><td><a href="#L53">53</a></td><td>SICKBAY:  Sickbay, aye.</td></tr>
 
-  ANNOTATION
-     The light pops up through the floor, hides from
-     them follow a couple of crew, and goes up into
-     crew quarters. It seems to examine one man asleep,
-     then passes through a bulkhead, goes underneath
-     the sheets and into Deanna Troi, who wakes up
-     panting
+<tr id="L54"><td><a href="#L54">54</a></td><td>PICARD:  Is Doctor Pulaski there?</td></tr>
 
-  SOMEONE
-     Captain's log, Stardate 42073.1. There has been an
-     outbreak of an unclassified plasma plague in the
-     Rachelis system. We are on an emergency run to
-     collect specimens of the deadly plague and
-     transport them to Science Station Tango Sierra,
-     where hopefully an antidote can be produced.
+<tr id="L55"><td><a href="#L55">55</a></td><td>SICKBAY [OC]:  Er, no, sir. The Doctor is in Ten forward.</td></tr>
 
+<tr id="L56"><td><a href="#L56">56</a></td><td>PICARD:  Thank you.</td></tr>
 
-LOCATION--Cargo deck five
+<tr id="L57"><td><a href="#L57">57</a></td><td>SICKBAY [OC]:  Aye, sir.</td></tr>
 
-  LAFORGE
-     How's it going?
+<tr id="L58"><td><a href="#L58">58</a></td><td>PICARD:  A few hours on board and already she's found Ten forward.</td></tr>
 
-  CREWMAN
-     Finished. Just waiting to insert the modules.
+<tr id="L59"><td><a href="#L59">59</a></td><td>RIKER:  I'll go get her.</td></tr>
 
+<tr id="L60"><td><a href="#L60">60</a></td><td>PICARD:  No. I'll go.</td></tr>
 
-LOCATION--Bridge
+<tr id="L61"><td><a href="#L61">61</a></td><td>WORF:  (nice new heavy baldric) Not the best way to meet your new Captain.</td></tr>
 
-  PICARD
-     Number One.
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L62"><td><a href="#L62">62</a></td><td>ANNOTATION: Wesley has come out of the lift and gone straight back in with Picard</td></tr>
 
-  RIKER
-     Lieutenant La Forge says we will be able to engage
-     the warp drive within the hour.
+<tr id="L63"><td><a href="#L63">63</a></td><td>PICARD:  Deck ten, forward station one.</td></tr>
 
-  PICARD
-     Grand. Mister Data, when we have a complete list
-     of all the specimens we will be carrying, I want
-     you and Doctor er,
+<tr id="L64"><td><a href="#L64">64</a></td><td>WESLEY:  Hello, Captain.</td></tr>
 
-  DATA
-     Pulaski, sir.
+<tr id="L65"><td><a href="#L65">65</a></td><td>PICARD:  Ensign. I'm sorry this mission will delay your reunion with your mother.</td></tr>
 
-  PICARD
-     Doctor Pulaski. I want you to go through them.
+<tr id="L66"><td><a href="#L66">66</a></td><td>WESLEY:  That's all right. That will give me the time to finish some projects I have to do. It's going to be hard leaving the Enterprise.</td></tr>
 
-  DATA
-     Aye, sir.
+<tr id="L67"><td><a href="#L67">67</a></td><td>PICARD:  Mixed feelings for all of us. It's always difficult leaving any ship, just as it was for your mother</td></tr>
 
-  PICARD
-     By the way, where is our new doctor? Has she
-     reported in?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L68"><td><a href="#L68">68</a></td><td>PICARD:  When she left to become head of Starfleet Medical. But going from one assignment to another is part of the life which you are choosing.</td></tr>
 
-  RIKER
-     Not yet.
+<tr id="L69"><td><a href="#L69">69</a></td><td>WESLEY:  I know, but this isn't any ship.</td></tr>
 
-  PICARD
-     Sickbay, this is the captain.
+<tr id="L70"><td><a href="#L70">70</a></td><td>PICARD:  How true.</td></tr>
 
-  SICKBAY
-     Sickbay, aye.
+<tr><td></td><td>LOCATION--Ten forward</td></tr>
+<tr id="L71"><td><a href="#L71">71</a></td><td>ANNOTATION: A social area, with a long bar. A woman in a big flat hat comes to greet Picard</td></tr>
 
-  PICARD
-     Is Doctor Pulaski there?
+<tr id="L72"><td><a href="#L72">72</a></td><td>PICARD:  Guinan.</td></tr>
 
-  SICKBAY [OC]
-     Er, no, sir. The Doctor is in Ten forward.
+<tr id="L73"><td><a href="#L73">73</a></td><td>GUINAN:  Captain.</td></tr>
 
-  PICARD
-     Thank you.
+<tr id="L74"><td><a href="#L74">74</a></td><td>PICARD:  Where is Doctor Pulaski? (Guinan points) Thank you.</td></tr>
 
-  SICKBAY [OC]
-     Aye, sir.
+<tr id="L75"><td><a href="#L75">75</a></td><td>ANNOTATION: Picard goes over to a table by a window occupied by Troi and another woman. Everyone say Hi! to [1]Ann Mulhall, or [2]Miranda Jones if you prefer</td></tr>
 
-  PICARD
-     A few hours on board and already she's found Ten
-     forward.
+<tr id="L76"><td><a href="#L76">76</a></td><td>PICARD:  Doctor Katherine Pulaski?</td></tr>
 
-  RIKER
-     I'll go get her.
+<tr id="L77"><td><a href="#L77">77</a></td><td>PULASKI:  Ah you must be Captain Picard.</td></tr>
 
-  PICARD
-     No. I'll go.
+<tr id="L78"><td><a href="#L78">78</a></td><td>PICARD:  Doctor, protocol may have been lax on your last assignment, but here on the Enterprise.</td></tr>
 
-  WORF
-     (nice new heavy baldric) Not the best way to meet
-     your new Captain.
+<tr id="L79"><td><a href="#L79">79</a></td><td>PULASKI:  Sit down, Captain. You'd better listen to this.</td></tr>
 
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L80"><td><a href="#L80">80</a></td><td>PICARD:  Lieutenant La Forge, status report.</td></tr>
 
-LOCATION--Turbolift
+<tr id="L81"><td><a href="#L81">81</a></td><td>LAFORGE [OC]:  The containment area is completed, Captain, and the last of the modules are being inserted.</td></tr>
 
-  ANNOTATION
-     Wesley has come out of the lift and gone straight
-     back in with Picard
+<tr id="L82"><td><a href="#L82">82</a></td><td>PICARD:  Take us to warp six as soon as possible.</td></tr>
 
-  PICARD
-     Deck ten, forward station one.
+<tr id="L83"><td><a href="#L83">83</a></td><td>LAFORGE [OC]:  Acknowledged.</td></tr>
 
-  WESLEY
-     Hello, Captain.
+<tr id="L84"><td><a href="#L84">84</a></td><td>PICARD:  This is Doctor Katherine Pulaski. We will handle the formal introduction later. Counsellor Deanna Troi is pregnant. She is going to have a baby.</td></tr>
 
-  PICARD
-     Ensign. I'm sorry this mission will delay your
-     reunion with your mother.
+<tr id="L85"><td><a href="#L85">85</a></td><td>RIKER:  Baby? This is a surprise.</td></tr>
 
-  WESLEY
-     That's all right. That will give me the time to
-     finish some projects I have to do. It's going to
-     be hard leaving the Enterprise.
+<tr id="L86"><td><a href="#L86">86</a></td><td>ANNOTATION: Deanna is sitting alone at the end, somewhat embarrassed</td></tr>
 
-  PICARD
-     Mixed feelings for all of us. It's always
-     difficult leaving any ship, just as it was for
-     your mother
+<tr id="L87"><td><a href="#L87">87</a></td><td>TROI:  More so for me.</td></tr>
 
+<tr id="L88"><td><a href="#L88">88</a></td><td>PULASKI:  This pregnancy is unlike anything I have ever encountered. Since she came to me a few hours ago, I have done two complete examinations of Counsellor Troi. (goes to wall screen) This is from the first examination. The foetus is about halfway through the first trimester, about six weeks old. Now, understand we believe conception took place eleven hours ago.</td></tr>
 
-LOCATION--Corridor
+<tr id="L89"><td><a href="#L89">89</a></td><td>RIKER:  What?</td></tr>
 
-  PICARD
-     When she left to become head of Starfleet Medical.
-     But going from one assignment to another is part
-     of the life which you are choosing.
+<tr id="L90"><td><a href="#L90">90</a></td><td>PULASKI:  It gets better. This is the second exam one hour later. Now, it's consistent, except for the fact that it appears the foetus is several weeks older. At this growth rate, Counsellor Troi will have her baby in about thirty six hours. The normal gestation rate for a Betazoid is ten months.</td></tr>
 
-  WESLEY
-     I know, but this isn't any ship.
+<tr id="L91"><td><a href="#L91">91</a></td><td>RIKER:  I don't mean to be indelicate, but who's the father?</td></tr>
 
-  PICARD
-     How true.
+<tr id="L92"><td><a href="#L92">92</a></td><td>TROI:  Last night, while I slept, something which I can only describe as a presence, entered my body.</td></tr>
 
+<tr id="L93"><td><a href="#L93">93</a></td><td>PICARD:  A life form of unknown origin and intent is breeding right now inside Counsellor Troi. Our purpose here is to determine what is to be done about this very unusual situation. Discussion.</td></tr>
 
-LOCATION--Ten forward
+<tr id="L94"><td><a href="#L94">94</a></td><td>RIKER:  No, wait. Let me get this straight. Deanna was impregnated by by what? Doctor, what do the tests show? Is it a humanoid? An alien?</td></tr>
 
-  ANNOTATION
-     A social area, with a long bar. A woman in a big
-     flat hat comes to greet Picard
+<tr id="L95"><td><a href="#L95">95</a></td><td>PULASKI:  It's a male human, or in this case half-human half-Betazoid.</td></tr>
 
-  PICARD
-     Guinan.
+<tr id="L96"><td><a href="#L96">96</a></td><td>RIKER:  Exactly the same as Deanna.</td></tr>
 
-  GUINAN
-     Captain.
+<tr id="L97"><td><a href="#L97">97</a></td><td>PULASKI:  In every way. In fact, there is nothing to indicate that there are any genetic patterns other than hers.</td></tr>
 
-  PICARD
-     Where is Doctor Pulaski? (Guinan points) Thank
-     you.
+<tr id="L98"><td><a href="#L98">98</a></td><td>RIKER:  I don't think this is a random occurrence. I think there's a purpose here. A reason. What, I don't know.</td></tr>
 
-  ANNOTATION
-     Picard goes over to a table by a window occupied
-     by Troi and another woman. Everyone say Hi! to
-     [1]Ann Mulhall, or [2]Miranda Jones if you prefer
+<tr id="L99"><td><a href="#L99">99</a></td><td>WORF:  Captain, obviously the pregnancy must be terminated for the safety of the ship and crew.</td></tr>
 
-  PICARD
-     Doctor Katherine Pulaski?
+<tr id="L100"><td><a href="#L100">100</a></td><td>RIKER:  Worf, you can't assume the intent was belligerent.</td></tr>
 
-  PULASKI
-     Ah you must be Captain Picard.
+<tr id="L101"><td><a href="#L101">101</a></td><td>WORF:  That is the safest assumption.</td></tr>
 
-  PICARD
-     Doctor, protocol may have been lax on your last
-     assignment, but here on the Enterprise.
+<tr id="L102"><td><a href="#L102">102</a></td><td>DATA:  Captain, this is a life form. Not to allow it to develop naturally would deny us the opportunity to study it.</td></tr>
 
-  PULASKI
-     Sit down, Captain. You'd better listen to this.
+<tr id="L103"><td><a href="#L103">103</a></td><td>WORF:  If the foetus is aborted, laboratory analysis is still possible.</td></tr>
 
+<tr id="L104"><td><a href="#L104">104</a></td><td>RIKER:  Doctor, is there any health risk to Counsellor Troi if the foetus is aborted?</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L105"><td><a href="#L105">105</a></td><td>TROI:  Captain, do whatever you feel is necessary to protect the ship and the crew, but know this. I'm going to have this baby.</td></tr>
 
-  PICARD
-     Lieutenant La Forge, status report.
+<tr id="L106"><td><a href="#L106">106</a></td><td>PICARD:  Then it seems that the discussion is over.</td></tr>
 
-  LAFORGE [OC]
-     The containment area is completed, Captain, and
-     the last of the modules are being inserted.
+<tr id="L107"><td><a href="#L107">107</a></td><td>SOMEONE: Captain's log, supplemental. We have finally arrived at 'audet Nine, where we will pick up the specimens of plasma plague for transport to Rachelis. It is only because so many lives are at stake that I am willing to put this ship and crew at such great risk. Meanwhile, Counsellor Troi's pregnancy continues to progress at an astonishing rate.</td></tr>
 
-  PICARD
-     Take us to warp six as soon as possible.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L108"><td><a href="#L108">108</a></td><td>ANNOTATION: Troi enters, very out of uniform and with a noticeable bump</td></tr>
 
-  LAFORGE [OC]
-     Acknowledged.
+<tr id="L109"><td><a href="#L109">109</a></td><td>PICARD:  How are you feeling?</td></tr>
 
-  PICARD
-     This is Doctor Katherine Pulaski. We will handle
-     the formal introduction later. Counsellor Deanna
-     Troi is pregnant. She is going to have a baby.
+<tr id="L110"><td><a href="#L110">110</a></td><td>TROI:  I should be feeling uncomfortable with all the changes in my body but, I don't. I feel fine. Better than fine. Wonderful.</td></tr>
 
-  RIKER
-     Baby? This is a surprise.
+<tr id="L111"><td><a href="#L111">111</a></td><td>RIKER:  Standard orbit.</td></tr>
 
-  ANNOTATION
-     Deanna is sitting alone at the end, somewhat
-     embarrassed
+<tr id="L112"><td><a href="#L112">112</a></td><td>WESLEY:  Standard orbit, sir.</td></tr>
 
-  TROI
-     More so for me.
+<tr id="L113"><td><a href="#L113">113</a></td><td>PICARD:  Open hailing frequencies.</td></tr>
 
-  PULASKI
-     This pregnancy is unlike anything I have ever
-     encountered. Since she came to me a few hours ago,
-     I have done two complete examinations of
-     Counsellor Troi. (goes to wall screen) This is
-     from the first examination. The foetus is about
-     halfway through the first trimester, about six
-     weeks old. Now, understand we believe conception
-     took place eleven hours ago.
+<tr id="L114"><td><a href="#L114">114</a></td><td>WORF:  Hailing frequencies open.</td></tr>
 
-  RIKER
-     What?
+<tr id="L115"><td><a href="#L115">115</a></td><td>PICARD:  'Audet Nine, this is Captain Jean-Luc Picard of the USS Enterprise.</td></tr>
 
-  PULASKI
-     It gets better. This is the second exam one hour
-     later. Now, it's consistent, except for the fact
-     that it appears the foetus is several weeks older.
-     At this growth rate, Counsellor Troi will have her
-     baby in about thirty six hours. The normal
-     gestation rate for a Betazoid is ten months.
+<tr id="L116"><td><a href="#L116">116</a></td><td>DEALT [on viewscreen]:  Ah, the Enterprise, here at last. Well, good. Let's get going.</td></tr>
 
-  RIKER
-     I don't mean to be indelicate, but who's the
-     father?
+<tr id="L117"><td><a href="#L117">117</a></td><td>PICARD:  Excuse me, to whom am I speaking?</td></tr>
 
-  TROI
-     Last night, while I slept, something which I can
-     only describe as a presence, entered my body.
+<tr id="L118"><td><a href="#L118">118</a></td><td>DEALT [on viewscreen]:  To whom are you speaking? Oh I'm Lieutenant Commander Hester Dealt, Medical Trustee, Federation Medical Collection Station.</td></tr>
 
-  PICARD
-     A life form of unknown origin and intent is
-     breeding right now inside Counsellor Troi. Our
-     purpose here is to determine what is to be done
-     about this very unusual situation. Discussion.
+<tr id="L119"><td><a href="#L119">119</a></td><td>PICARD:  Are the specimens ready for transfer?</td></tr>
 
-  RIKER
-     No, wait. Let me get this straight. Deanna was
-     impregnated by by what? Doctor, what do the tests
-     show? Is it a humanoid? An alien?
+<tr id="L120"><td><a href="#L120">120</a></td><td>DEALT [on viewscreen]:  Yes, but with your permission I would like to inspect the containment area before we proceed. Now it's not that I doubt the ability of your crew, but we cannot afford a mistake.</td></tr>
 
-  PULASKI
-     It's a male human, or in this case half-human
-     half-Betazoid.
+<tr id="L121"><td><a href="#L121">121</a></td><td>PICARD:  I appreciate your caution. In the like vein, I want a complete, detailed manifest of everything you intend to bring on board my ship.</td></tr>
 
-  RIKER
-     Exactly the same as Deanna.
+<tr id="L122"><td><a href="#L122">122</a></td><td>DEALT [on viewscreen]:  Very good. I will allow access you to my computer banks, okay?</td></tr>
 
-  PULASKI
-     In every way. In fact, there is nothing to
-     indicate that there are any genetic patterns other
-     than hers.
+<tr id="L123"><td><a href="#L123">123</a></td><td>ANNOTATION: transmission ends</td></tr>
 
-  RIKER
-     I don't think this is a random occurrence. I think
-     there's a purpose here. A reason. What, I don't
-     know.
+<tr id="L124"><td><a href="#L124">124</a></td><td>PICARD:  Mister Data, download the inventory and cross-reference it with the medical computer. Number One, arrange to have Hester Dealt transported up.</td></tr>
 
-  WORF
-     Captain, obviously the pregnancy must be
-     terminated for the safety of the ship and crew.
+<tr id="L125"><td><a href="#L125">125</a></td><td>SOMEONE: Captain's log, supplemental. Although it's been fourteen hours since we arrived at 'audet Nine. Hester Dealt has still not completed inspection of the containment unit. A transfer will not be permitted until he's assured of zero growth during our voyage. Meanwhile, the desperate pleas from the Rachelis System continue.</td></tr>
 
-  RIKER
-     Worf, you can't assume the intent was belligerent.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L126"><td><a href="#L126">126</a></td><td>DATA:  Captain, the final manifest has been received.</td></tr>
 
-  WORF
-     That is the safest assumption.
+<tr id="L127"><td><a href="#L127">127</a></td><td>PICARD:  At last. Review it with Doctor Pulaski. I want you both to be completely familiar with it.</td></tr>
 
-  DATA
-     Captain, this is a life form. Not to allow it to
-     develop naturally would deny us the opportunity to
-     study it.
+<tr id="L128"><td><a href="#L128">128</a></td><td>DATA:  Aye, sir.</td></tr>
 
-  WORF
-     If the foetus is aborted, laboratory analysis is
-     still possible.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L129"><td><a href="#L129">129</a></td><td>TROI:  Data, will you help me get to Sickbay.</td></tr>
 
-  RIKER
-     Doctor, is there any health risk to Counsellor
-     Troi if the foetus is aborted?
+<tr><td></td><td>LOCATION--Pulaski's office</td></tr>
+<tr id="L130"><td><a href="#L130">130</a></td><td>TROI:  It's time.</td></tr>
 
-  TROI
-     Captain, do whatever you feel is necessary to
-     protect the ship and the crew, but know this. I'm
-     going to have this baby.
+<tr id="L131"><td><a href="#L131">131</a></td><td>PULASKI:  Oh, you bet it is. Let's get you to Maternity.</td></tr>
 
-  PICARD
-     Then it seems that the discussion is over.
+<tr id="L132"><td><a href="#L132">132</a></td><td>DATA:  Worf, assemble your security team in Sickbay.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. We have finally
-     arrived at 'audet Nine, where we will pick up the
-     specimens of plasma plague for transport to
-     Rachelis. It is only because so many lives are at
-     stake that I am willing to put this ship and crew
-     at such great risk. Meanwhile, Counsellor Troi's
-     pregnancy continues to progress at an astonishing
-     rate.
+<tr id="L133"><td><a href="#L133">133</a></td><td>PULASKI:  Is that necessary?</td></tr>
 
+<tr id="L134"><td><a href="#L134">134</a></td><td>DATA:  Yes, Doctor. Captain's orders.</td></tr>
 
-LOCATION--Bridge
+<tr id="L135"><td><a href="#L135">135</a></td><td>PULASKI:  Well, it's strange to need armed guards in a delivery room. This way.</td></tr>
 
-  ANNOTATION
-     Troi enters, very out of uniform and with a
-     noticeable bump
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L136"><td><a href="#L136">136</a></td><td>PULASKI:  How frequent are your contractions?</td></tr>
 
-  PICARD
-     How are you feeling?
+<tr id="L137"><td><a href="#L137">137</a></td><td>TROI:  Very close together.</td></tr>
 
-  TROI
-     I should be feeling uncomfortable with all the
-     changes in my body but, I don't. I feel fine.
-     Better than fine. Wonderful.
+<tr id="L138"><td><a href="#L138">138</a></td><td>PULASKI:  In my other deliveries, except for a couple, the father was always present.</td></tr>
 
-  RIKER
-     Standard orbit.
+<tr id="L139"><td><a href="#L139">139</a></td><td>TROI:  Difficult under the circumstances.</td></tr>
 
-  WESLEY
-     Standard orbit, sir.
+<tr id="L140"><td><a href="#L140">140</a></td><td>DATA:  Perhaps I could serve in that capacity.</td></tr>
 
-  PICARD
-     Open hailing frequencies.
+<tr id="L141"><td><a href="#L141">141</a></td><td>PULASKI:  Counsellor Troi is going to need the comfort of a human touch, not the cold hand of technology.</td></tr>
 
-  WORF
-     Hailing frequencies open.
+<tr id="L142"><td><a href="#L142">142</a></td><td>TROI:  Doctor, I think Commander Data will do very nicely.</td></tr>
 
-  PICARD
-     'Audet Nine, this is Captain Jean-Luc Picard of
-     the USS Enterprise.
+<tr id="L143"><td><a href="#L143">143</a></td><td>PULASKI:  Your choice.</td></tr>
 
-  DEALT [on viewscreen]
-     Ah, the Enterprise, here at last. Well, good.
-     Let's get going.
+<tr id="L144"><td><a href="#L144">144</a></td><td>ANNOTATION: A little later, Deanna is in the birthing chair, almost upright</td></tr>
 
-  PICARD
-     Excuse me, to whom am I speaking?
+<tr id="L145"><td><a href="#L145">145</a></td><td>TROI:  You don't have to do anything, Data. Just be with me.</td></tr>
 
-  DEALT [on viewscreen]
-     To whom are you speaking? Oh I'm Lieutenant
-     Commander Hester Dealt, Medical Trustee,
-     Federation Medical Collection Station.
+<tr id="L146"><td><a href="#L146">146</a></td><td>PULASKI:  There is nothing to be nervous about.</td></tr>
 
-  PICARD
-     Are the specimens ready for transfer?
+<tr id="L147"><td><a href="#L147">147</a></td><td>DATA:  Nervous? I find this very interesting. Although I understand, in technical terms, how life is formed, there is still a part of the process which eludes me. The child inside you, are you able to access his thought process? Does he have thoughts? You are aware of him. Is he aware of you? And when does that awareness begin?</td></tr>
 
-  DEALT [on viewscreen]
-     Yes, but with your permission I would like to
-     inspect the containment area before we proceed.
-     Now it's not that I doubt the ability of your
-     crew, but we cannot afford a mistake.
+<tr id="L148"><td><a href="#L148">148</a></td><td>TROI:  It's happening.</td></tr>
 
-  PICARD
-     I appreciate your caution. In the like vein, I
-     want a complete, detailed manifest of everything
-     you intend to bring on board my ship.
+<tr id="L149"><td><a href="#L149">149</a></td><td>DATA:  How does it feel?</td></tr>
 
-  DEALT [on viewscreen]
-     Very good. I will allow access you to my computer
-     banks, okay?
+<tr id="L150"><td><a href="#L150">150</a></td><td>TROI:  Data!</td></tr>
 
-  ANNOTATION
-     transmission ends
+<tr id="L151"><td><a href="#L151">151</a></td><td>DATA:  Yes?</td></tr>
 
-  PICARD
-     Mister Data, download the inventory and
-     cross-reference it with the medical computer.
-     Number One, arrange to have Hester Dealt
-     transported up.
+<tr id="L152"><td><a href="#L152">152</a></td><td>TROI:  Now!</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. Although it's been
-     fourteen hours since we arrived at 'audet Nine.
-     Hester Dealt has still not completed inspection of
-     the containment unit. A transfer will not be
-     permitted until he's assured of zero growth during
-     our voyage. Meanwhile, the desperate pleas from
-     the Rachelis System continue.
+<tr id="L153"><td><a href="#L153">153</a></td><td>DATA:  Now? Now! Doctor! Doctor! Doctor!</td></tr>
 
+<tr id="L154"><td><a href="#L154">154</a></td><td>PULASKI:  This is an impatient baby. He's eager to make his appearance. Do you want something for the pain? It will in no way diminish the experience.</td></tr>
 
-LOCATION--Bridge
+<tr id="L155"><td><a href="#L155">155</a></td><td>TROI:  I have felt no pain.</td></tr>
 
-  DATA
-     Captain, the final manifest has been received.
+<tr id="L156"><td><a href="#L156">156</a></td><td>PULASKI:  None?</td></tr>
 
-  PICARD
-     At last. Review it with Doctor Pulaski. I want you
-     both to be completely familiar with it.
+<tr id="L157"><td><a href="#L157">157</a></td><td>TROI:  No, none at all.</td></tr>
 
-  DATA
-     Aye, sir.
+<tr id="L158"><td><a href="#L158">158</a></td><td>ANNOTATION: Worf and two guards enter</td></tr>
 
+<tr id="L159"><td><a href="#L159">159</a></td><td>PULASKI:  Have your Security men stand back. I understand the importance of having you here, but keep out from underfoot. Foetal position?</td></tr>
 
-LOCATION--Corridor
+<tr id="L160"><td><a href="#L160">160</a></td><td>NURSE:  Normal.</td></tr>
 
-  TROI
-     Data, will you help me get to Sickbay.
+<tr id="L161"><td><a href="#L161">161</a></td><td>PULASKI:  Foetal pulse?</td></tr>
 
+<tr id="L162"><td><a href="#L162">162</a></td><td>NURSE:  One thirty seven.</td></tr>
 
-LOCATION--Pulaski's office
+<tr id="L163"><td><a href="#L163">163</a></td><td>PULASKI:  The baby is showing healthy respiratory movements.</td></tr>
 
-  TROI
-     It's time.
+<tr id="L164"><td><a href="#L164">164</a></td><td>ANNOTATION: Riker sneaks in to watch</td></tr>
 
-  PULASKI
-     Oh, you bet it is. Let's get you to Maternity.
+<tr id="L165"><td><a href="#L165">165</a></td><td>PULASKI:  (kneeling in front of Troi) The action of the heart rate is good. The baby's doing wonderfully, Troi. Breathe slowly. You're doing great. Stay calm. That's it. There it is. I've got him. You can relax.</td></tr>
 
-  DATA
-     Worf, assemble your security team in Sickbay.
+<tr id="L166"><td><a href="#L166">166</a></td><td>ANNOTATION: Baby crying</td></tr>
 
-  PULASKI
-     Is that necessary?
+<tr id="L167"><td><a href="#L167">167</a></td><td>PULASKI:  (cleaning him off) There, there. That's a good boy. It's okay. Oh, my, he's beautiful. (hands him to Troi) Are easy births the norm for Betazoids?</td></tr>
 
-  DATA
-     Yes, Doctor. Captain's orders.
+<tr id="L168"><td><a href="#L168">168</a></td><td>TROI:  Not according to my mother.</td></tr>
 
-  PULASKI
-     Well, it's strange to need armed guards in a
-     delivery room. This way.
+<tr id="L169"><td><a href="#L169">169</a></td><td>PULASKI:  (to Worf) You can come in the rest of the way now. There's no threat, Lieutenant. You and your men can relax. It's just a baby.</td></tr>
 
+<tr id="L170"><td><a href="#L170">170</a></td><td>ANNOTATION: Worf looks and leaves</td></tr>
 
-LOCATION--Sickbay
+<tr id="L171"><td><a href="#L171">171</a></td><td>DATA:  Thank you for allowing me to participate. It was remarkable.</td></tr>
 
-  PULASKI
-     How frequent are your contractions?
+<tr id="L172"><td><a href="#L172">172</a></td><td>PULASKI:  Do you have a name?</td></tr>
 
-  TROI
-     Very close together.
+<tr id="L173"><td><a href="#L173">173</a></td><td>TROI:  Ian Andrew, after my father.</td></tr>
 
-  PULASKI
-     In my other deliveries, except for a couple, the
-     father was always present.
+<tr id="L174"><td><a href="#L174">174</a></td><td>ANNOTATION: Riker comes forward</td></tr>
 
-  TROI
-     Difficult under the circumstances.
+<tr id="L175"><td><a href="#L175">175</a></td><td>TROI:  Were you hear all along?</td></tr>
 
-  DATA
-     Perhaps I could serve in that capacity.
+<tr id="L176"><td><a href="#L176">176</a></td><td>RIKER:  Yes. He's beautiful, Deanna. Just like his mother.</td></tr>
 
-  PULASKI
-     Counsellor Troi is going to need the comfort of a
-     human touch, not the cold hand of technology.
+<tr id="L177"><td><a href="#L177">177</a></td><td>PULASKI:  How do you feel?</td></tr>
 
-  TROI
-     Doctor, I think Commander Data will do very
-     nicely.
+<tr id="L178"><td><a href="#L178">178</a></td><td>TROI:  Fine. Wonderful. Thank you, Doctor, for everything.</td></tr>
 
-  PULASKI
-     Your choice.
+<tr id="L179"><td><a href="#L179">179</a></td><td>PULASKI:  Amazing.</td></tr>
 
-  ANNOTATION
-     A little later, Deanna is in the birthing chair,
-     almost upright
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L180"><td><a href="#L180">180</a></td><td>PULASKI:  Captain.</td></tr>
 
-  TROI
-     You don't have to do anything, Data. Just be with
-     me.
+<tr id="L181"><td><a href="#L181">181</a></td><td>PICARD:  Doctor. Welcome to the Bridge. Please, sit down. How is Counsellor Troi? Did she have a good night?</td></tr>
 
-  PULASKI
-     There is nothing to be nervous about.
+<tr id="L182"><td><a href="#L182">182</a></td><td>PULASKI:  I've delivered dozens of babies, but none like this. There was no pain, no trauma.</td></tr>
 
-  DATA
-     Nervous? I find this very interesting. Although I
-     understand, in technical terms, how life is
-     formed, there is still a part of the process which
-     eludes me. The child inside you, are you able to
-     access his thought process? Does he have thoughts?
-     You are aware of him. Is he aware of you? And when
-     does that awareness begin?
+<tr id="L183"><td><a href="#L183">183</a></td><td>RIKER:  It's true.</td></tr>
 
-  TROI
-     It's happening.
+<tr id="L184"><td><a href="#L184">184</a></td><td>PULASKI:  It was effortless for both of them.</td></tr>
 
-  DATA
-     How does it feel?
+<tr id="L185"><td><a href="#L185">185</a></td><td>PICARD:  I'm not sure of your point.</td></tr>
 
-  TROI
-     Data!
+<tr id="L186"><td><a href="#L186">186</a></td><td>PULASKI:  She had her baby yesterday. If I were to examine her now, I would not be able to tell she had a baby, or had ever had a baby. It was as if the incident never happened.</td></tr>
 
-  DATA
-     Yes?
+<tr id="L187"><td><a href="#L187">187</a></td><td>PICARD:  Data, how long before we begin the transfer?</td></tr>
 
-  TROI
-     Now!
+<tr id="L188"><td><a href="#L188">188</a></td><td>DATA:  Two hours nineteen minutes, sir.</td></tr>
 
-  DATA
-     Now? Now! Doctor! Doctor! Doctor!
+<tr id="L189"><td><a href="#L189">189</a></td><td>PICARD:  Number One, you have the Bridge.</td></tr>
 
-  PULASKI
-     This is an impatient baby. He's eager to make his
-     appearance. Do you want something for the pain? It
-     will in no way diminish the experience.
+<tr id="L190"><td><a href="#L190">190</a></td><td>RIKER:  Aye, sir.</td></tr>
 
-  TROI
-     I have felt no pain.
+<tr id="L191"><td><a href="#L191">191</a></td><td>PICARD:  You will accompany me, Doctor? Please? I think it's time I paid my respects.</td></tr>
 
-  PULASKI
-     None?
+<tr><td></td><td>LOCATION--Troi's quarters</td></tr>
+<tr id="L192"><td><a href="#L192">192</a></td><td>TROI:  Come in.</td></tr>
 
-  TROI
-     No, none at all.
+<tr id="L193"><td><a href="#L193">193</a></td><td>PICARD:  Deanna, I wanted to see how you were and have a look at your baby! My goodness. How old is he?</td></tr>
 
-  ANNOTATION
-     Worf and two guards enter
+<tr id="L194"><td><a href="#L194">194</a></td><td>ANNOTATION: The boy is walking, and about waist height to Troi</td></tr>
 
-  PULASKI
-     Have your Security men stand back. I understand
-     the importance of having you here, but keep out
-     from underfoot. Foetal position?
+<tr id="L195"><td><a href="#L195">195</a></td><td>PULASKI:  In actuality, a day.</td></tr>
 
-  NURSE
-     Normal.
+<tr id="L196"><td><a href="#L196">196</a></td><td>PICARD:  Yes, but</td></tr>
 
-  PULASKI
-     Foetal pulse?
+<tr id="L197"><td><a href="#L197">197</a></td><td>PULASKI:  In appearance, almost four earth years old.</td></tr>
 
-  NURSE
-     One thirty seven.
+<tr id="L198"><td><a href="#L198">198</a></td><td>TROI:  Ian, say hello to Captain Picard.</td></tr>
 
-  PULASKI
-     The baby is showing healthy respiratory movements.
+<tr id="L199"><td><a href="#L199">199</a></td><td>PICARD:  You mean he can talk?</td></tr>
 
-  ANNOTATION
-     Riker sneaks in to watch
+<tr id="L200"><td><a href="#L200">200</a></td><td>IAN:  Hello.</td></tr>
 
-  PULASKI
-     (kneeling in front of Troi) The action of the
-     heart rate is good. The baby's doing wonderfully,
-     Troi. Breathe slowly. You're doing great. Stay
-     calm. That's it. There it is. I've got him. You
-     can relax.
+<tr id="L201"><td><a href="#L201">201</a></td><td>ANNOTATION: Pulaski shudders</td></tr>
 
-  ANNOTATION
-     Baby crying
+<tr id="L202"><td><a href="#L202">202</a></td><td>PICARD:  Hello, Ian.</td></tr>
 
-  PULASKI
-     (cleaning him off) There, there. That's a good
-     boy. It's okay. Oh, my, he's beautiful. (hands him
-     to Troi) Are easy births the norm for Betazoids?
+<tr id="L203"><td><a href="#L203">203</a></td><td>IAN:  Please don't worry. Everything is okay.</td></tr>
 
-  TROI
-     Not according to my mother.
+<tr id="L204"><td><a href="#L204">204</a></td><td>SOMEONE: Captain's log, supplemental. We are faced with two major problems. Troi's child and the deadly cargo we are about to take on. In the hours since his birth, Troi's baby has continued his rapid growth and now appears, physically and mentally, to be a child of eight. Still there is no indication as to who he is, or why he is here.</td></tr>
 
-  PULASKI
-     (to Worf) You can come in the rest of the way now.
-     There's no threat, Lieutenant. You and your men
-     can relax. It's just a baby.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L205"><td><a href="#L205">205</a></td><td>RIKER:  Sickbay, this is the Bridge. We are ready to begin loading.</td></tr>
 
-  ANNOTATION
-     Worf looks and leaves
+<tr id="L206"><td><a href="#L206">206</a></td><td>PULASKI [OC]:  We need a little more time. It's taking longer than we anticipated to categorise these specimens.</td></tr>
 
-  DATA
-     Thank you for allowing me to participate. It was
-     remarkable.
+<tr><td></td><td>LOCATION--Pulaski's office</td></tr>
+<tr id="L207"><td><a href="#L207">207</a></td><td>PULASKI:  Da(h)ta, look at this.</td></tr>
 
-  PULASKI
-     Do you have a name?
+<tr id="L208"><td><a href="#L208">208</a></td><td>DATA:  Data.</td></tr>
 
-  TROI
-     Ian Andrew, after my father.
+<tr id="L209"><td><a href="#L209">209</a></td><td>PULASKI:  What?</td></tr>
 
-  ANNOTATION
-     Riker comes forward
+<tr id="L210"><td><a href="#L210">210</a></td><td>DATA:  My name. It is pronounced Data.</td></tr>
 
-  TROI
-     Were you hear all along?
+<tr id="L211"><td><a href="#L211">211</a></td><td>PULASKI:  Oh?</td></tr>
 
-  RIKER
-     Yes. He's beautiful, Deanna. Just like his mother.
+<tr id="L212"><td><a href="#L212">212</a></td><td>DATA:  You called me Da(h)ta.</td></tr>
 
-  PULASKI
-     How do you feel?
+<tr id="L213"><td><a href="#L213">213</a></td><td>PULASKI:  What's the difference?</td></tr>
 
-  TROI
-     Fine. Wonderful. Thank you, Doctor, for
-     everything.
+<tr id="L214"><td><a href="#L214">214</a></td><td>DATA:  One is my name. The other is not.</td></tr>
 
-  PULASKI
-     Amazing.
+<tr id="L215"><td><a href="#L215">215</a></td><td>PULASKI:  Is this possible? With all of your neural nets, algorithms, and heuristics, is there some combination makes up a circuit for bruised feelings? Possible? (returns to the monitor) I am unfamiliar with this symbol.</td></tr>
 
+<tr id="L216"><td><a href="#L216">216</a></td><td>DATA:  It indicates a genetically engineered biological life form.</td></tr>
 
-LOCATION--Bridge
+<tr id="L217"><td><a href="#L217">217</a></td><td>PULASKI:  About twenty percent of the specimens fall into that category. Some eager beaver at play.</td></tr>
 
-  PULASKI
-     Captain.
+<tr id="L218"><td><a href="#L218">218</a></td><td>DATA:  Query. Eager beaver?</td></tr>
 
-  PICARD
-     Doctor. Welcome to the Bridge. Please, sit down.
-     How is Counsellor Troi? Did she have a good night?
+<tr id="L219"><td><a href="#L219">219</a></td><td>PULASKI:  Well in this case, eager beaver refers to some overachieving genetic engineer, who, probably because of lack of anything better to do, has forced this strain of virus to mutate, just so we can see how bad, bad can get. Captain Picard.</td></tr>
 
-  PULASKI
-     I've delivered dozens of babies, but none like
-     this. There was no pain, no trauma.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L220"><td><a href="#L220">220</a></td><td>PICARD:  Picard.</td></tr>
 
-  RIKER
-     It's true.
+<tr id="L221"><td><a href="#L221">221</a></td><td>PULASKI [OC]:  I just wanted you to know what risks we're about to take.</td></tr>
 
-  PULASKI
-     It was effortless for both of them.
+<tr id="L222"><td><a href="#L222">222</a></td><td>PICARD:  Go on.</td></tr>
 
-  PICARD
-     I'm not sure of your point.
+<tr><td></td><td>LOCATION--Pulaski's office</td></tr>
+<tr id="L223"><td><a href="#L223">223</a></td><td>PULASKI:  If the most innocuous specimen on the manifest list gets loose,</td></tr>
 
-  PULASKI
-     She had her baby yesterday. If I were to examine
-     her now, I would not be able to tell she had a
-     baby, or had ever had a baby. It was as if the
-     incident never happened.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L224"><td><a href="#L224">224</a></td><td>PULASKI [OC]:  It will destroy all life on the Enterprise in a matter of hours.</td></tr>
 
-  PICARD
-     Data, how long before we begin the transfer?
+<tr id="L225"><td><a href="#L225">225</a></td><td>PICARD:  I understand, Doctor. Do you have a recommendation?</td></tr>
 
-  DATA
-     Two hours nineteen minutes, sir.
+<tr><td></td><td>LOCATION--Pulaski's office</td></tr>
+<tr id="L226"><td><a href="#L226">226</a></td><td>PULASKI:  Considering how desperately this is needed, no, I don't. I just wanted you to know what we were carrying.</td></tr>
 
-  PICARD
-     Number One, you have the Bridge.
+<tr id="L227"><td><a href="#L227">227</a></td><td>PICARD [OC]:  Thank you.</td></tr>
 
-  RIKER
-     Aye, sir.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L228"><td><a href="#L228">228</a></td><td>PICARD:  Commander Data, if you have completed your review, you are needed in transporter room three.</td></tr>
 
-  PICARD
-     You will accompany me, Doctor? Please? I think
-     it's time I paid my respects.
+<tr><td></td><td>LOCATION--Pulaski's office</td></tr>
+<tr id="L229"><td><a href="#L229">229</a></td><td>DATA:  Aye, sir. Excuse me, Doctor.</td></tr>
 
+<tr id="L230"><td><a href="#L230">230</a></td><td>PULASKI:  That's all right. Da(h)ta. Data. Whatever.</td></tr>
 
-LOCATION--Troi's quarters
+<tr><td></td><td>LOCATION--Children's play area</td></tr>
+<tr id="L231"><td><a href="#L231">231</a></td><td>ANNOTATION: some children are cuddling puppies</td></tr>
 
-  TROI
-     Come in.
+<tr id="L232"><td><a href="#L232">232</a></td><td>TROI:  Ian? Ian!</td></tr>
 
-  PICARD
-     Deanna, I wanted to see how you were and have a
-     look at your baby! My goodness. How old is he?
+<tr id="L233"><td><a href="#L233">233</a></td><td>MISS GLADSTONE:  He's a very tactile child. He wants to touch and feel everything.</td></tr>
 
-  ANNOTATION
-     The boy is walking, and about waist height to Troi
+<tr id="L234"><td><a href="#L234">234</a></td><td>TROI:  It's time to go, sweetheart.</td></tr>
 
-  PULASKI
-     In actuality, a day.
+<tr id="L235"><td><a href="#L235">235</a></td><td>MISS GLADSTONE:  Unbelievable. I think he's actually grown since you dropped him off.</td></tr>
 
-  PICARD
-     Yes, but
+<tr id="L236"><td><a href="#L236">236</a></td><td>IAN:  (getting on for Troi's shoulder height) I like it here, Mommy.</td></tr>
 
-  PULASKI
-     In appearance, almost four earth years old.
+<tr id="L237"><td><a href="#L237">237</a></td><td>TROI:  I thought you would. Say thank you to Miss Gladstone for having you, and let's go get something to eat.</td></tr>
 
-  TROI
-     Ian, say hello to Captain Picard.
+<tr id="L238"><td><a href="#L238">238</a></td><td>IAN:  Thank you.</td></tr>
 
-  PICARD
-     You mean he can talk?
+<tr id="L239"><td><a href="#L239">239</a></td><td>BOY:  Bye.</td></tr>
 
-  IAN
-     Hello.
+<tr id="L240"><td><a href="#L240">240</a></td><td>TROI:  Thank you.</td></tr>
 
-  ANNOTATION
-     Pulaski shudders
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L241"><td><a href="#L241">241</a></td><td>COMPUTER:  Bio-transfer authorisation complete.</td></tr>
 
-  PICARD
-     Hello, Ian.
+<tr id="L242"><td><a href="#L242">242</a></td><td>O'BRIEN:  Cargo deck five, we will commence transportation</td></tr>
 
-  IAN
-     Please don't worry. Everything is okay.
+<tr><td></td><td>LOCATION--Cargo deck five</td></tr>
+<tr id="L243"><td><a href="#L243">243</a></td><td>O'BRIEN [OC]:  On your command.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. We are faced with two
-     major problems. Troi's child and the deadly cargo
-     we are about to take on. In the hours since his
-     birth, Troi's baby has continued his rapid growth
-     and now appears, physically and mentally, to be a
-     child of eight. Still there is no indication as to
-     who he is, or why he is here.
+<tr id="L244"><td><a href="#L244">244</a></td><td>LAFORGE:  Transporter three, we are ready to receive.</td></tr>
 
+<tr id="L245"><td><a href="#L245">245</a></td><td>ANNOTATION: Hexagons start to appear on the display and in the container</td></tr>
 
-LOCATION--Bridge
+<tr id="L246"><td><a href="#L246">246</a></td><td>LAFORGE:  Data, the first batch is in place, and we're ready for the next.</td></tr>
 
-  RIKER
-     Sickbay, this is the Bridge. We are ready to begin
-     loading.
+<tr id="L247"><td><a href="#L247">247</a></td><td>RIKER:  You'll inform me when loading is complete and the cargo secure.</td></tr>
 
-  PULASKI [OC]
-     We need a little more time. It's taking longer
-     than we anticipated to categorise these specimens.
+<tr id="L248"><td><a href="#L248">248</a></td><td>LAFORGE:  Aye, sir.</td></tr>
 
+<tr><td></td><td>LOCATION--Troi's quarters</td></tr>
+<tr id="L249"><td><a href="#L249">249</a></td><td>TROI:  Come in.</td></tr>
 
-LOCATION--Pulaski's office
+<tr id="L250"><td><a href="#L250">250</a></td><td>PULASKI:  I wanted to stop by and see how Ian was doing.</td></tr>
 
-  PULASKI
-     Da(h)ta, look at this.
+<tr id="L251"><td><a href="#L251">251</a></td><td>TROI:  We're doing fine. I was just about to get him his supper.</td></tr>
 
-  DATA
-     Data.
+<tr id="L252"><td><a href="#L252">252</a></td><td>IAN:  Do you want your supper now, too?</td></tr>
 
-  PULASKI
-     What?
+<tr id="L253"><td><a href="#L253">253</a></td><td>PICARD:  No, Ian, but thank you for the invitation.</td></tr>
 
-  DATA
-     My name. It is pronounced Data.
+<tr id="L254"><td><a href="#L254">254</a></td><td>IAN:  You're welcome. Have you ever played with puppies?</td></tr>
 
-  PULASKI
-     Oh?
+<tr id="L255"><td><a href="#L255">255</a></td><td>TROI:  They had a litter today in the nursery.</td></tr>
 
-  DATA
-     You called me Da(h)ta.
+<tr id="L256"><td><a href="#L256">256</a></td><td>PICARD:  No, Ian, I don't think I've played with puppies.</td></tr>
 
-  PULASKI
-     What's the difference?
+<tr id="L257"><td><a href="#L257">257</a></td><td>IAN:  You should come to the nursery while the puppies are still there.</td></tr>
 
-  DATA
-     One is my name. The other is not.
+<tr id="L258"><td><a href="#L258">258</a></td><td>PICARD:  Perhaps later.</td></tr>
 
-  PULASKI
-     Is this possible? With all of your neural nets,
-     algorithms, and heuristics, is there some
-     combination makes up a circuit for bruised
-     feelings? Possible? (returns to the monitor) I am
-     unfamiliar with this symbol.
+<tr id="L259"><td><a href="#L259">259</a></td><td>ANNOTATION: Ian puts his finger in his hot soup</td></tr>
 
-  DATA
-     It indicates a genetically engineered biological
-     life form.
+<tr id="L260"><td><a href="#L260">260</a></td><td>IAN:  Ow! Mom.</td></tr>
 
-  PULASKI
-     About twenty percent of the specimens fall into
-     that category. Some eager beaver at play.
+<tr id="L261"><td><a href="#L261">261</a></td><td>PULASKI:  Let me see that. (treats the scald) That's not so bad.</td></tr>
 
-  DATA
-     Query. Eager beaver?
+<tr id="L262"><td><a href="#L262">262</a></td><td>IAN:  My face is wet.</td></tr>
 
-  PULASKI
-     Well in this case, eager beaver refers to some
-     overachieving genetic engineer, who, probably
-     because of lack of anything better to do, has
-     forced this strain of virus to mutate, just so we
-     can see how bad, bad can get. Captain Picard.
+<tr id="L263"><td><a href="#L263">263</a></td><td>TROI:  Is that better, sweetheart? Everything's going to be fine.</td></tr>
 
+<tr id="L264"><td><a href="#L264">264</a></td><td>PULASKI:  He allowed himself to be burned.</td></tr>
 
-LOCATION--Bridge
+<tr id="L265"><td><a href="#L265">265</a></td><td>PICARD:  For the experience.</td></tr>
 
-  PICARD
-     Picard.
+<tr id="L266"><td><a href="#L266">266</a></td><td>PULASKI:  Who is he? Why is he here? What does he want?</td></tr>
 
-  PULASKI [OC]
-     I just wanted you to know what risks we're about
-     to take.
+<tr id="L267"><td><a href="#L267">267</a></td><td>PICARD:  Ian, could you tell us why you are here?</td></tr>
 
-  PICARD
-     Go on.
+<tr id="L268"><td><a href="#L268">268</a></td><td>IAN:  Because Mommy said it was time to eat.</td></tr>
 
+<tr id="L269"><td><a href="#L269">269</a></td><td>PICARD:  No, I mean, why you are here on this ship?</td></tr>
 
-LOCATION--Pulaski's office
+<tr id="L270"><td><a href="#L270">270</a></td><td>IAN:  I live here.</td></tr>
 
-  PULASKI
-     If the most innocuous specimen on the manifest
-     list gets loose,
+<tr id="L271"><td><a href="#L271">271</a></td><td>TROI:  Ian, I think the Captain wants to know if you are ready to tell us why you came here.</td></tr>
 
+<tr id="L272"><td><a href="#L272">272</a></td><td>IAN:  No, not yet.</td></tr>
 
-LOCATION--Bridge
+<tr id="L273"><td><a href="#L273">273</a></td><td>TROI:  The answer is within him. When his cognitive powers have sufficiently developed, he will be able to articulate it.</td></tr>
 
-  PULASKI [OC]
-     It will destroy all life on the Enterprise in a
-     matter of hours.
+<tr id="L274"><td><a href="#L274">274</a></td><td>PICARD:  I hope he will tell us soon.</td></tr>
 
-  PICARD
-     I understand, Doctor. Do you have a
-     recommendation?
+<tr id="L275"><td><a href="#L275">275</a></td><td>IAN:  Bye.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L276"><td><a href="#L276">276</a></td><td>RIKER:  Cargo has been loaded and is secure.</td></tr>
 
-LOCATION--Pulaski's office
+<tr id="L277"><td><a href="#L277">277</a></td><td>PICARD:  Then take us out of orbit, Number One. Set a course for Rachelis, warp six.</td></tr>
 
-  PULASKI
-     Considering how desperately this is needed, no, I
-     don't. I just wanted you to know what we were
-     carrying.
+<tr><td></td><td>LOCATION--Ten forward</td></tr>
+<tr id="L278"><td><a href="#L278">278</a></td><td>ANNOTATION: Wesley is staring out of a window</td></tr>
 
-  PICARD [OC]
-     Thank you.
+<tr id="L279"><td><a href="#L279">279</a></td><td>GUINAN:  Can I get you something?</td></tr>
 
+<tr id="L280"><td><a href="#L280">280</a></td><td>WESLEY:  No, nothing. I just like to stand here.</td></tr>
 
-LOCATION--Bridge
+<tr id="L281"><td><a href="#L281">281</a></td><td>GUINAN:  I don't blame you. It's beautiful.</td></tr>
 
-  PICARD
-     Commander Data, if you have completed your review,
-     you are needed in transporter room three.
+<tr id="L282"><td><a href="#L282">282</a></td><td>WESLEY:  Yes.</td></tr>
 
+<tr id="L283"><td><a href="#L283">283</a></td><td>GUINAN:  How about some nice Mareuvian Tea?</td></tr>
 
-LOCATION--Pulaski's office
+<tr id="L284"><td><a href="#L284">284</a></td><td>WESLEY:  No, nothing. Thank you.</td></tr>
 
-  DATA
-     Aye, sir. Excuse me, Doctor.
+<tr id="L285"><td><a href="#L285">285</a></td><td>GUINAN:  You'll be leaving soon.</td></tr>
 
-  PULASKI
-     That's all right. Da(h)ta. Data. Whatever.
+<tr id="L286"><td><a href="#L286">286</a></td><td>WESLEY:  Yes.</td></tr>
 
+<tr id="L287"><td><a href="#L287">287</a></td><td>GUINAN:  What do you see when you look out there?</td></tr>
 
-LOCATION--Children's play area
+<tr id="L288"><td><a href="#L288">288</a></td><td>WESLEY:  The Lorenze cluster, and there Arneb and there Epsilon Indi.</td></tr>
 
-  ANNOTATION
-     some children are cuddling puppies
+<tr id="L289"><td><a href="#L289">289</a></td><td>GUINAN:  That's not what I mean. I mean, when you look there, don't you see your future?</td></tr>
 
-  TROI
-     Ian? Ian!
+<tr id="L290"><td><a href="#L290">290</a></td><td>WESLEY:  It'll still be there.</td></tr>
 
-  MISS GLADSTONE
-     He's a very tactile child. He wants to touch and
-     feel everything.
+<tr id="L291"><td><a href="#L291">291</a></td><td>GUINAN:  How about a cup of nectar direct from Prometheus?</td></tr>
 
-  TROI
-     It's time to go, sweetheart.
+<tr id="L292"><td><a href="#L292">292</a></td><td>WESLEY:  No, nothing. That's the third time you've asked me.</td></tr>
 
-  MISS GLADSTONE
-     Unbelievable. I think he's actually grown since
-     you dropped him off.
+<tr id="L293"><td><a href="#L293">293</a></td><td>GUINAN:  It's what I'm expected to do. Don't you always do what's expected?</td></tr>
 
-  IAN
-     (getting on for Troi's shoulder height) I like it
-     here, Mommy.
+<tr id="L294"><td><a href="#L294">294</a></td><td>WESLEY:  I try.</td></tr>
 
-  TROI
-     I thought you would. Say thank you to Miss
-     Gladstone for having you, and let's go get
-     something to eat.
+<tr id="L295"><td><a href="#L295">295</a></td><td>GUINAN:  Even if it's not what you really want?</td></tr>
 
-  IAN
-     Thank you.
+<tr id="L296"><td><a href="#L296">296</a></td><td>WESLEY:  Sometimes. Sometimes it's more important to consider others before yourself.</td></tr>
 
-  BOY
-     Bye.
+<tr id="L297"><td><a href="#L297">297</a></td><td>GUINAN:  Yes. But sometimes the game is to know when to consider yourself before others. Give yourself permission to be selfish.</td></tr>
 
-  TROI
-     Thank you.
+<tr><td></td><td>LOCATION--Cargo deck five</td></tr>
+<tr id="L298"><td><a href="#L298">298</a></td><td>DEALT:  Something's wrong.</td></tr>
 
+<tr id="L299"><td><a href="#L299">299</a></td><td>LAFORGE:  What is it?</td></tr>
 
-LOCATION--Transporter room
+<tr id="L300"><td><a href="#L300">300</a></td><td>DEALT:  Growth.</td></tr>
 
-  COMPUTER
-     Bio-transfer authorisation complete.
+<tr id="L301"><td><a href="#L301">301</a></td><td>LAFORGE:  Where?</td></tr>
 
-  O'BRIEN
-     Cargo deck five, we will commence transportation
+<tr id="L302"><td><a href="#L302">302</a></td><td>DEALT:  L seven three.</td></tr>
 
+<tr id="L303"><td><a href="#L303">303</a></td><td>LAFORGE:  Bridge, this is cargo deck five.</td></tr>
 
-LOCATION--Cargo deck five
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L304"><td><a href="#L304">304</a></td><td>PICARD:  Yes, La Forge?</td></tr>
 
-  O'BRIEN [OC]
-     On your command.
+<tr id="L305"><td><a href="#L305">305</a></td><td>LAFORGE [OC]:  Captain, we have a malfunction in the containment area.</td></tr>
 
-  LAFORGE
-     Transporter three, we are ready to receive.
+<tr id="L306"><td><a href="#L306">306</a></td><td>PICARD:  How serious?</td></tr>
 
-  ANNOTATION
-     Hexagons start to appear on the display and in the
-     container
+<tr><td></td><td>LOCATION--Cargo deck five</td></tr>
+<tr id="L307"><td><a href="#L307">307</a></td><td>DEALT:  Very.</td></tr>
 
-  LAFORGE
-     Data, the first batch is in place, and we're ready
-     for the next.
+<tr id="L308"><td><a href="#L308">308</a></td><td>SOMEONE: Captain's log, supplemental. For reasons as yet unknown, one of the deadly specimens of plasma plague has begun to grow.</td></tr>
 
-  RIKER
-     You'll inform me when loading is complete and the
-     cargo secure.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L309"><td><a href="#L309">309</a></td><td>PICARD:  Report, Mister La Forge.</td></tr>
 
-  LAFORGE
-     Aye, sir.
+<tr><td></td><td>LOCATION--Cargo deck five</td></tr>
+<tr id="L310"><td><a href="#L310">310</a></td><td>LAFORGE:  Captain, we've checked everything. There's no reason for this to be happening. I can't even isolate the cause of the problem.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L311"><td><a href="#L311">311</a></td><td>RIKER:  Come on Data, we'd better get down there.</td></tr>
 
-LOCATION--Troi's quarters
+<tr id="L312"><td><a href="#L312">312</a></td><td>PICARD:  Doctor Pulaski.</td></tr>
 
-  TROI
-     Come in.
+<tr id="L313"><td><a href="#L313">313</a></td><td>PULASKI [OC]:  Yes, Captain?</td></tr>
 
-  PULASKI
-     I wanted to stop by and see how Ian was doing.
+<tr id="L314"><td><a href="#L314">314</a></td><td>PICARD:  We're having a little difficulty on cargo deck five. Your presence is requested.</td></tr>
 
-  TROI
-     We're doing fine. I was just about to get him his
-     supper.
+<tr id="L315"><td><a href="#L315">315</a></td><td>PULASKI [OC]:  I'm on my way.</td></tr>
 
-  IAN
-     Do you want your supper now, too?
+<tr><td></td><td>LOCATION--Ten forward</td></tr>
+<tr id="L316"><td><a href="#L316">316</a></td><td>ANNOTATION: at the bar</td></tr>
 
-  PICARD
-     No, Ian, but thank you for the invitation.
+<tr id="L317"><td><a href="#L317">317</a></td><td>WESLEY:  You never talk about yourself.</td></tr>
 
-  IAN
-     You're welcome. Have you ever played with puppies?
+<tr id="L318"><td><a href="#L318">318</a></td><td>GUINAN:  Sure I do. All the time.</td></tr>
 
-  TROI
-     They had a litter today in the nursery.
+<tr id="L319"><td><a href="#L319">319</a></td><td>WESLEY:  People say you're very old.</td></tr>
 
-  PICARD
-     No, Ian, I don't think I've played with puppies.
+<tr id="L320"><td><a href="#L320">320</a></td><td>GUINAN:  Oh?</td></tr>
 
-  IAN
-     You should come to the nursery while the puppies
-     are still there.
+<tr id="L321"><td><a href="#L321">321</a></td><td>WESLEY:  And that you knew Captain Picard when he was on the Stargazer.</td></tr>
 
-  PICARD
-     Perhaps later.
+<tr id="L322"><td><a href="#L322">322</a></td><td>GUINAN:  No, I never knew the Captain till I came onboard.</td></tr>
 
-  ANNOTATION
-     Ian puts his finger in his hot soup
+<tr id="L323"><td><a href="#L323">323</a></td><td>WESLEY:  Everyone's very curious about you.</td></tr>
 
-  IAN
-     Ow! Mom.
+<tr id="L324"><td><a href="#L324">324</a></td><td>GUINAN:  Yes, I'll bet they are.</td></tr>
 
-  PULASKI
-     Let me see that. (treats the scald) That's not so
-     bad.
+<tr id="L325"><td><a href="#L325">325</a></td><td>WESLEY:  They want to know where you're from.</td></tr>
 
-  IAN
-     My face is wet.
+<tr id="L326"><td><a href="#L326">326</a></td><td>GUINAN:  Where do they say?</td></tr>
 
-  TROI
-     Is that better, sweetheart? Everything's going to
-     be fine.
+<tr id="L327"><td><a href="#L327">327</a></td><td>WESLEY:  I heard that you're from Nova Kron and that</td></tr>
 
-  PULASKI
-     He allowed himself to be burned.
+<tr id="L328"><td><a href="#L328">328</a></td><td>PICARD [OC]:  Mister Crusher, report to the Bridge.</td></tr>
 
-  PICARD
-     For the experience.
+<tr id="L329"><td><a href="#L329">329</a></td><td>WESLEY:  Aye, sir. Got to go. Thanks.</td></tr>
 
-  PULASKI
-     Who is he? Why is he here? What does he want?
+<tr id="L330"><td><a href="#L330">330</a></td><td>GUINAN:  For a dish of Delovian souffl?</td></tr>
 
-  PICARD
-     Ian, could you tell us why you are here?
+<tr id="L331"><td><a href="#L331">331</a></td><td>WESLEY:  No, not for the souffl. I meant, for the rest.</td></tr>
 
-  IAN
-     Because Mommy said it was time to eat.
+<tr id="L332"><td><a href="#L332">332</a></td><td>GUINAN:  That's why I'm here.</td></tr>
 
-  PICARD
-     No, I mean, why you are here on this ship?
+<tr id="L333"><td><a href="#L333">333</a></td><td>WESLEY:  Thanks. Bye.</td></tr>
 
-  IAN
-     I live here.
+<tr><td></td><td>LOCATION--Cargo deck five</td></tr>
+<tr id="L334"><td><a href="#L334">334</a></td><td>RIKER:  Why this module and not the others?</td></tr>
 
-  TROI
-     Ian, I think the Captain wants to know if you are
-     ready to tell us why you came here.
+<tr id="L335"><td><a href="#L335">335</a></td><td>DATA:  Computer, run diagnostic on module L seven three.</td></tr>
 
-  IAN
-     No, not yet.
+<tr id="L336"><td><a href="#L336">336</a></td><td>COMPUTER:  (male) All circuits functional.</td></tr>
 
-  TROI
-     The answer is within him. When his cognitive
-     powers have sufficiently developed, he will be
-     able to articulate it.
+<tr id="L337"><td><a href="#L337">337</a></td><td>LAFORGE:  Environment's as programmed. Temperature ninety seven degrees Kelvin. Radiation flux zero. Stasis field nominal. Everything exactly as it should be, right down the line.</td></tr>
 
-  PICARD
-     I hope he will tell us soon.
+<tr id="L338"><td><a href="#L338">338</a></td><td>DATA:  Perhaps it is a sensor malfunction. Computer, inquiry. Is growth actually occurring in module L seven three?</td></tr>
 
-  IAN
-     Bye.
+<tr id="L339"><td><a href="#L339">339</a></td><td>COMPUTER:  Confirmed.</td></tr>
 
+<tr id="L340"><td><a href="#L340">340</a></td><td>ANNOTATION: Pulaski enters</td></tr>
 
-LOCATION--Bridge
+<tr id="L341"><td><a href="#L341">341</a></td><td>RIKER:  Doctor, one of the specimens is growing.</td></tr>
 
-  RIKER
-     Cargo has been loaded and is secure.
+<tr id="L342"><td><a href="#L342">342</a></td><td>PULASKI:  Destroy it now.</td></tr>
 
-  PICARD
-     Then take us out of orbit, Number One. Set a
-     course for Rachelis, warp six.
+<tr id="L343"><td><a href="#L343">343</a></td><td>DEALT:  I can't.</td></tr>
 
+<tr id="L344"><td><a href="#L344">344</a></td><td>RIKER:  Data, prepare to jettison the module.</td></tr>
 
-LOCATION--Ten forward
+<tr id="L345"><td><a href="#L345">345</a></td><td>DEALT:  We can't do that either. It will go into a spore and remain until it comes in contact with a planet or another ship. The results would be disastrous.</td></tr>
 
-  ANNOTATION
-     Wesley is staring out of a window
+<tr id="L346"><td><a href="#L346">346</a></td><td>RIKER:  Commander, your attitude tells me that however bad I think it is, it's actually worse.</td></tr>
 
-  GUINAN
-     Can I get you something?
+<tr id="L347"><td><a href="#L347">347</a></td><td>DEALT:  This is not going to hold it.</td></tr>
 
-  WESLEY
-     No, nothing. I just like to stand here.
+<tr id="L348"><td><a href="#L348">348</a></td><td>RIKER:  Go on.</td></tr>
 
-  GUINAN
-     I don't blame you. It's beautiful.
+<tr id="L349"><td><a href="#L349">349</a></td><td>DEALT:  The rate of growth is increasing so rapidly, within thirty minutes it's going to push out of it's module. Within two hours, it'll break out of the containment area.</td></tr>
 
-  WESLEY
-     Yes.
+<tr id="L350"><td><a href="#L350">350</a></td><td>LAFORGE:  No, no, no. It can't break through this.</td></tr>
 
-  GUINAN
-     How about some nice Mareuvian Tea?
+<tr id="L351"><td><a href="#L351">351</a></td><td>DEALT:  Yes, it will.</td></tr>
 
-  WESLEY
-     No, nothing. Thank you.
+<tr id="L352"><td><a href="#L352">352</a></td><td>RIKER:  Captain, we may not be able to get control of this situation. I recommend we arrange transfer of all non-essential personnel to the saucer section.</td></tr>
 
-  GUINAN
-     You'll be leaving soon.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L353"><td><a href="#L353">353</a></td><td>RIKER [OC]:  If we lose containment, we should be prepared to separate.</td></tr>
 
-  WESLEY
-     Yes.
+<tr id="L354"><td><a href="#L354">354</a></td><td>PICARD:  Make it so.</td></tr>
 
-  GUINAN
-     What do you see when you look out there?
+<tr><td></td><td>LOCATION--Cargo deck five</td></tr>
+<tr id="L355"><td><a href="#L355">355</a></td><td>PULASKI:  Why this one specimen and none of the others? Something is stimulating it. Do you have its etiology? Do you know how it was developed?</td></tr>
 
-  WESLEY
-     The Lorenze cluster, and there Arneb and there
-     Epsilon Indi.
+<tr id="L356"><td><a href="#L356">356</a></td><td>DEALT:  Yes, it's right over here.</td></tr>
 
-  GUINAN
-     That's not what I mean. I mean, when you look
-     there, don't you see your future?
+<tr id="L357"><td><a href="#L357">357</a></td><td>PULASKI:  It's a mutated strain developed by Doctor Susan Nuress during an outbreak of plasma plague seventy years ago in the Oby System. It was number nine in a series of fifty eight tests. This particular one bombarded by low levels of Eichner radiation. Could exposure to Eichner radiation stimulate growth?</td></tr>
 
-  WESLEY
-     It'll still be there.
+<tr id="L358"><td><a href="#L358">358</a></td><td>DEALT:  It could, but I. I've got something.</td></tr>
 
-  GUINAN
-     How about a cup of nectar direct from Prometheus?
+<tr id="L359"><td><a href="#L359">359</a></td><td>RIKER:  Why didn't you detect this before?</td></tr>
 
-  WESLEY
-     No, nothing. That's the third time you've asked
-     me.
+<tr id="L360"><td><a href="#L360">360</a></td><td>DEALT:  I don't know. It wasn't here before.</td></tr>
 
-  GUINAN
-     It's what I'm expected to do. Don't you always do
-     what's expected?
+<tr id="L361"><td><a href="#L361">361</a></td><td>PULASKI:  Well, it is now. What emits that type of radiation?</td></tr>
 
-  WESLEY
-     I try.
+<tr id="L362"><td><a href="#L362">362</a></td><td>DATA:  A subspace phase inverter.</td></tr>
 
-  GUINAN
-     Even if it's not what you really want?
+<tr id="L363"><td><a href="#L363">363</a></td><td>LAFORGE:  We don't have one.</td></tr>
 
-  WESLEY
-     Sometimes. Sometimes it's more important to
-     consider others before yourself.
+<tr id="L364"><td><a href="#L364">364</a></td><td>DATA:  Certain cyanoacrylates.</td></tr>
 
-  GUINAN
-     Yes. But sometimes the game is to know when to
-     consider yourself before others. Give yourself
-     permission to be selfish.
+<tr id="L365"><td><a href="#L365">365</a></td><td>PULASKI:  Also not on this ship. What else? Because it's here and we better find it.</td></tr>
 
+<tr><td></td><td>LOCATION--Troi's quarters</td></tr>
+<tr id="L366"><td><a href="#L366">366</a></td><td>ANNOTATION: It's Ian's bed time</td></tr>
 
-LOCATION--Cargo deck five
+<tr id="L367"><td><a href="#L367">367</a></td><td>IAN:  I can feel that some of the people are very worried.</td></tr>
 
-  DEALT
-     Something's wrong.
+<tr id="L368"><td><a href="#L368">368</a></td><td>TROI:  Yes. I feel it too, but don't you worry.</td></tr>
 
-  LAFORGE
-     What is it?
+<tr id="L369"><td><a href="#L369">369</a></td><td>IAN:  It's me, Mommy. I'm the reason.</td></tr>
 
-  DEALT
-     Growth.
+<tr id="L370"><td><a href="#L370">370</a></td><td>TROI:  What?</td></tr>
 
-  LAFORGE
-     Where?
+<tr id="L371"><td><a href="#L371">371</a></td><td>IAN:  It's me.</td></tr>
 
-  DEALT
-     L seven three.
+<tr id="L372"><td><a href="#L372">372</a></td><td>TROI:  You?</td></tr>
 
-  LAFORGE
-     Bridge, this is cargo deck five.
+<tr id="L373"><td><a href="#L373">373</a></td><td>IAN:  Yes. I have to leave you now, or it'll be very bad for everyone.</td></tr>
 
+<tr id="L374"><td><a href="#L374">374</a></td><td>TROI:  What are you saying?</td></tr>
 
-LOCATION--Bridge
+<tr id="L375"><td><a href="#L375">375</a></td><td>IAN:  I have to leave now.</td></tr>
 
-  PICARD
-     Yes, La Forge?
+<tr id="L376"><td><a href="#L376">376</a></td><td>TROI:  Leave? You are going to die. No, you can't! Sickbay, this is Counsellor Troi, I need the Doctor in my quarters now! Ian! Ian, no. Ian.</td></tr>
 
-  LAFORGE [OC]
-     Captain, we have a malfunction in the containment
-     area.
+<tr id="L377"><td><a href="#L377">377</a></td><td>ANNOTATION: Pulaski arrives with Data and Riker</td></tr>
 
-  PICARD
-     How serious?
+<tr id="L378"><td><a href="#L378">378</a></td><td>TROI:  It's Ian. Hurry.</td></tr>
 
+<tr id="L379"><td><a href="#L379">379</a></td><td>PULASKI:  What happened? Did he eat anything? Did he fall?</td></tr>
 
-LOCATION--Cargo deck five
+<tr id="L380"><td><a href="#L380">380</a></td><td>TROI:  No.</td></tr>
 
-  DEALT
-     Very.
+<tr id="L381"><td><a href="#L381">381</a></td><td>DATA:  Commander, the child is the source of the unusual radiation.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. For reasons as yet
-     unknown, one of the deadly specimens of plasma
-     plague has begun to grow.
+<tr id="L382"><td><a href="#L382">382</a></td><td>TROI:  Ian said he's the reason the ship is in danger.</td></tr>
 
+<tr id="L383"><td><a href="#L383">383</a></td><td>DATA:  That analysis is correct.</td></tr>
 
-LOCATION--Bridge
+<tr id="L384"><td><a href="#L384">384</a></td><td>PULASKI:  I'm losing life signs.</td></tr>
 
-  PICARD
-     Report, Mister La Forge.
+<tr id="L385"><td><a href="#L385">385</a></td><td>TROI:  You must save him.</td></tr>
 
+<tr id="L386"><td><a href="#L386">386</a></td><td>PULASKI:  I'm sorry.</td></tr>
 
-LOCATION--Cargo deck five
+<tr id="L387"><td><a href="#L387">387</a></td><td>ANNOTATION: As Troi weeps by the bed, Ian turns into a ball of light which she can hold in her hands. She calms and smiles, then it flies out into space</td></tr>
 
-  LAFORGE
-     Captain, we've checked everything. There's no
-     reason for this to be happening. I can't even
-     isolate the cause of the problem.
+<tr id="L388"><td><a href="#L388">388</a></td><td>LAFORGE [OC]:  Commander Riker, the containment field has stabilised.</td></tr>
 
+<tr id="L389"><td><a href="#L389">389</a></td><td>RIKER:  Thank you, Lieutenant.</td></tr>
 
-LOCATION--Bridge
+<tr id="L390"><td><a href="#L390">390</a></td><td>TROI:  Then Ian was right. He was the cause.</td></tr>
 
-  RIKER
-     Come on Data, we'd better get down there.
+<tr id="L391"><td><a href="#L391">391</a></td><td>RIKER:  Apparently so.</td></tr>
 
-  PICARD
-     Doctor Pulaski.
+<tr id="L392"><td><a href="#L392">392</a></td><td>TROI:  He is a life force entity. When we passed each other in space, he was curious about us, so he decided the best way to learn was to go through the process. To be born, to live as one of us and in that way to understand us. He never meant any harm.</td></tr>
 
-  PULASKI [OC]
-     Yes, Captain?
+<tr id="L393"><td><a href="#L393">393</a></td><td>RIKER:  There was a moment when you smiled.</td></tr>
 
-  PICARD
-     We're having a little difficulty on cargo deck
-     five. Your presence is requested.
+<tr id="L394"><td><a href="#L394">394</a></td><td>TROI:  He said, thank you. I told him we will miss him. And I will.</td></tr>
 
-  PULASKI [OC]
-     I'm on my way.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L395"><td><a href="#L395">395</a></td><td>ANNOTATION: approaching a space station</td></tr>
 
+<tr id="L396"><td><a href="#L396">396</a></td><td>PICARD:  Standard station orbit, Mister Crusher.</td></tr>
 
-LOCATION--Ten forward
+<tr id="L397"><td><a href="#L397">397</a></td><td>WESLEY:  Aye, sir, standard orbit.</td></tr>
 
-  ANNOTATION
-     at the bar
+<tr id="L398"><td><a href="#L398">398</a></td><td>PICARD:  Transporter room three, this is the Captain. We have arrived.</td></tr>
 
-  WESLEY
-     You never talk about yourself.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L399"><td><a href="#L399">399</a></td><td>PICARD [OC]:  Let's make this transfer with all deliberate speed.</td></tr>
 
-  GUINAN
-     Sure I do. All the time.
+<tr id="L400"><td><a href="#L400">400</a></td><td>DATA:  Aye, sir.</td></tr>
 
-  WESLEY
-     People say you're very old.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L401"><td><a href="#L401">401</a></td><td>RIKER:  I'll be glad to be relieved of this cargo.</td></tr>
 
-  GUINAN
-     Oh?
+<tr id="L402"><td><a href="#L402">402</a></td><td>PICARD:  You have the Bridge, Number One.</td></tr>
 
-  WESLEY
-     And that you knew Captain Picard when he was on
-     the Stargazer.
+<tr id="L403"><td><a href="#L403">403</a></td><td>WESLEY:  Captain. Could I see you when you have a moment?</td></tr>
 
-  GUINAN
-     No, I never knew the Captain till I came onboard.
+<tr id="L404"><td><a href="#L404">404</a></td><td>PICARD:  In my Ready room, when your duties permit.</td></tr>
 
-  WESLEY
-     Everyone's very curious about you.
+<tr id="L405"><td><a href="#L405">405</a></td><td>WESLEY:  Thank you, sir.</td></tr>
 
-  GUINAN
-     Yes, I'll bet they are.
+<tr><td></td><td>LOCATION--Cargo deck five</td></tr>
+<tr id="L406"><td><a href="#L406">406</a></td><td>LAFORGE:  How long is it going to take to develop a vaccine?</td></tr>
 
-  WESLEY
-     They want to know where you're from.
+<tr id="L407"><td><a href="#L407">407</a></td><td>DEALT:  We may never develop one.</td></tr>
 
-  GUINAN
-     Where do they say?
+<tr id="L408"><td><a href="#L408">408</a></td><td>LAFORGE:  All of this might have been in vain?</td></tr>
 
-  WESLEY
-     I heard that you're from Nova Kron and that
+<tr id="L409"><td><a href="#L409">409</a></td><td>DEALT:  Let's hope not.</td></tr>
 
-  PICARD [OC]
-     Mister Crusher, report to the Bridge.
+<tr id="L410"><td><a href="#L410">410</a></td><td>DATA [OC]:  Stand by to energise.</td></tr>
 
-  WESLEY
-     Aye, sir. Got to go. Thanks.
+<tr id="L411"><td><a href="#L411">411</a></td><td>LAFORGE:  Good luck.</td></tr>
 
-  GUINAN
-     For a dish of Delovian souffl?
+<tr id="L412"><td><a href="#L412">412</a></td><td>ANNOTATION: Dealt is beamed away</td></tr>
 
-  WESLEY
-     No, not for the souffl. I meant, for the rest.
+<tr id="L413"><td><a href="#L413">413</a></td><td>LAFORGE:  Data, you can lock on to the first group and begin transporting on my mark.</td></tr>
 
-  GUINAN
-     That's why I'm here.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L414"><td><a href="#L414">414</a></td><td>PICARD:  Come.</td></tr>
 
-  WESLEY
-     Thanks. Bye.
+<tr id="L415"><td><a href="#L415">415</a></td><td>ANNOTATION: Wesley enters</td></tr>
 
+<tr id="L416"><td><a href="#L416">416</a></td><td>WESLEY:  Captain Picard, I've thought about this a lot. I want to remain on the Enterprise.</td></tr>
 
-LOCATION--Cargo deck five
+<tr id="L417"><td><a href="#L417">417</a></td><td>PICARD:  Have you discussed this with your mother?</td></tr>
 
-  RIKER
-     Why this module and not the others?
+<tr id="L418"><td><a href="#L418">418</a></td><td>WESLEY:  No, sir. Before I do that, I'd like your permission to stay.</td></tr>
 
-  DATA
-     Computer, run diagnostic on module L seven three.
+<tr id="L419"><td><a href="#L419">419</a></td><td>PICARD:  Wesley, it's a little more complicated than that.</td></tr>
 
-  COMPUTER
-     (male) All circuits functional.
+<tr id="L420"><td><a href="#L420">420</a></td><td>WESLEY:  Captain, this is where I want to be. This is where I feel I belong.</td></tr>
 
-  LAFORGE
-     Environment's as programmed. Temperature ninety
-     seven degrees Kelvin. Radiation flux zero. Stasis
-     field nominal. Everything exactly as it should be,
-     right down the line.
+<tr id="L421"><td><a href="#L421">421</a></td><td>RIKER [OC]:  Captain, transfer complete. We are ready to leave orbit.</td></tr>
 
-  DATA
-     Perhaps it is a sensor malfunction. Computer,
-     inquiry. Is growth actually occurring in module L
-     seven three?
+<tr id="L422"><td><a href="#L422">422</a></td><td>PICARD:  Make it so, Number One. Return to your position.</td></tr>
 
-  COMPUTER
-     Confirmed.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L423"><td><a href="#L423">423</a></td><td>RIKER:  All stations secure.</td></tr>
 
-  ANNOTATION
-     Pulaski enters
+<tr id="L424"><td><a href="#L424">424</a></td><td>PICARD:  Take us out of orbit, Mister Crusher. Lay in a course for the Morgana Quadrant.</td></tr>
 
-  RIKER
-     Doctor, one of the specimens is growing.
+<tr id="L425"><td><a href="#L425">425</a></td><td>WESLEY:  Yes, sir.</td></tr>
 
-  PULASKI
-     Destroy it now.
+<tr id="L426"><td><a href="#L426">426</a></td><td>PICARD:  Ensign Crusher has requested to remain on the Enterprise.</td></tr>
 
-  DEALT
-     I can't.
+<tr id="L427"><td><a href="#L427">427</a></td><td>RIKER:  I'm not surprised. How did you respond?</td></tr>
 
-  RIKER
-     Data, prepare to jettison the module.
+<tr id="L428"><td><a href="#L428">428</a></td><td>PICARD:  I haven't as yet, Number One. I didn't think it was my responsibility alone. His remaining will create difficulties for us all.</td></tr>
 
-  DEALT
-     We can't do that either. It will go into a spore
-     and remain until it comes in contact with a planet
-     or another ship. The results would be disastrous.
+<tr id="L429"><td><a href="#L429">429</a></td><td>RIKER:  Yes, indeed. With his mother gone, who will see to his studies?</td></tr>
 
-  RIKER
-     Commander, your attitude tells me that however bad
-     I think it is, it's actually worse.
+<tr id="L430"><td><a href="#L430">430</a></td><td>PICARD:  Exactly. Of course, that duty will fall to Commander Data.</td></tr>
 
-  DEALT
-     This is not going to hold it.
+<tr id="L431"><td><a href="#L431">431</a></td><td>RIKER:  And who will tuck him in at night?</td></tr>
 
-  RIKER
-     Go on.
+<tr id="L432"><td><a href="#L432">432</a></td><td>WESLEY:  Come on, Commander.</td></tr>
 
-  DEALT
-     The rate of growth is increasing so rapidly,
-     within thirty minutes it's going to push out of
-     it's module. Within two hours, it'll break out of
-     the containment area.
+<tr id="L433"><td><a href="#L433">433</a></td><td>WORF:  I will accept that responsibility.</td></tr>
 
-  LAFORGE
-     No, no, no. It can't break through this.
+<tr id="L434"><td><a href="#L434">434</a></td><td>TROI:  Well, we know he'll get his sleep.</td></tr>
 
-  DEALT
-     Yes, it will.
+<tr id="L435"><td><a href="#L435">435</a></td><td>PICARD:  That takes care of the practical, but there's more to growing up than that. It's my belief, Number One, that you're best qualified to supervise that. Are you willing to serve?</td></tr>
 
-  RIKER
-     Captain, we may not be able to get control of this
-     situation. I recommend we arrange transfer of all
-     non-essential personnel to the saucer section.
+<tr id="L436"><td><a href="#L436">436</a></td><td>RIKER:  Difficult decision. Yes, I can do that.</td></tr>
 
+<tr id="L437"><td><a href="#L437">437</a></td><td>PICARD:  Well, Mister Crusher, communicate with your mother at Starfleet Medical headquarters. Give her my regards, and tell her you have my permission to remain on the Enterprise, but I will abide by her wishes.</td></tr>
 
-LOCATION--Bridge
+<tr id="L438"><td><a href="#L438">438</a></td><td>WESLEY:  Yes, sir. Thank you, sir. I know she'll agree.</td></tr>
 
-  RIKER [OC]
-     If we lose containment, we should be prepared to
-     separate.
+<tr id="L439"><td><a href="#L439">439</a></td><td>ANNOTATION: argh!</td></tr>
 
-  PICARD
-     Make it so.
+<tr id="L440"><td><a href="#L440">440</a></td><td>PICARD:  Now, if you have course and speed laid in.</td></tr>
 
+<tr id="L441"><td><a href="#L441">441</a></td><td>WESLEY:  Yes sir, they are.</td></tr>
 
-LOCATION--Cargo deck five
+<tr id="L442"><td><a href="#L442">442</a></td><td>PICARD:  Then, Mister Crusher, engage.</td></tr>
 
-  PULASKI
-     Why this one specimen and none of the others?
-     Something is stimulating it. Do you have its
-     etiology? Do you know how it was developed?
-
-  DEALT
-     Yes, it's right over here.
-
-  PULASKI
-     It's a mutated strain developed by Doctor Susan
-     Nuress during an outbreak of plasma plague seventy
-     years ago in the Oby System. It was number nine in
-     a series of fifty eight tests. This particular one
-     bombarded by low levels of Eichner radiation.
-     Could exposure to Eichner radiation stimulate
-     growth?
-
-  DEALT
-     It could, but I. I've got something.
-
-  RIKER
-     Why didn't you detect this before?
-
-  DEALT
-     I don't know. It wasn't here before.
-
-  PULASKI
-     Well, it is now. What emits that type of
-     radiation?
-
-  DATA
-     A subspace phase inverter.
-
-  LAFORGE
-     We don't have one.
-
-  DATA
-     Certain cyanoacrylates.
-
-  PULASKI
-     Also not on this ship. What else? Because it's
-     here and we better find it.
-
-
-LOCATION--Troi's quarters
-
-  ANNOTATION
-     It's Ian's bed time
-
-  IAN
-     I can feel that some of the people are very
-     worried.
-
-  TROI
-     Yes. I feel it too, but don't you worry.
-
-  IAN
-     It's me, Mommy. I'm the reason.
-
-  TROI
-     What?
-
-  IAN
-     It's me.
-
-  TROI
-     You?
-
-  IAN
-     Yes. I have to leave you now, or it'll be very bad
-     for everyone.
-
-  TROI
-     What are you saying?
-
-  IAN
-     I have to leave now.
-
-  TROI
-     Leave? You are going to die. No, you can't!
-     Sickbay, this is Counsellor Troi, I need the
-     Doctor in my quarters now! Ian! Ian, no. Ian.
-
-  ANNOTATION
-     Pulaski arrives with Data and Riker
-
-  TROI
-     It's Ian. Hurry.
-
-  PULASKI
-     What happened? Did he eat anything? Did he fall?
-
-  TROI
-     No.
-
-  DATA
-     Commander, the child is the source of the unusual
-     radiation.
-
-  TROI
-     Ian said he's the reason the ship is in danger.
-
-  DATA
-     That analysis is correct.
-
-  PULASKI
-     I'm losing life signs.
-
-  TROI
-     You must save him.
-
-  PULASKI
-     I'm sorry.
-
-  ANNOTATION
-     As Troi weeps by the bed, Ian turns into a ball of
-     light which she can hold in her hands. She calms
-     and smiles, then it flies out into space
-
-  LAFORGE [OC]
-     Commander Riker, the containment field has
-     stabilised.
-
-  RIKER
-     Thank you, Lieutenant.
-
-  TROI
-     Then Ian was right. He was the cause.
-
-  RIKER
-     Apparently so.
-
-  TROI
-     He is a life force entity. When we passed each
-     other in space, he was curious about us, so he
-     decided the best way to learn was to go through
-     the process. To be born, to live as one of us and
-     in that way to understand us. He never meant any
-     harm.
-
-  RIKER
-     There was a moment when you smiled.
-
-  TROI
-     He said, thank you. I told him we will miss him.
-     And I will.
-
-
-LOCATION--Bridge
-
-  ANNOTATION
-     approaching a space station
-
-  PICARD
-     Standard station orbit, Mister Crusher.
-
-  WESLEY
-     Aye, sir, standard orbit.
-
-  PICARD
-     Transporter room three, this is the Captain. We
-     have arrived.
-
-
-LOCATION--Transporter room
-
-  PICARD [OC]
-     Let's make this transfer with all deliberate
-     speed.
-
-  DATA
-     Aye, sir.
-
-
-LOCATION--Bridge
-
-  RIKER
-     I'll be glad to be relieved of this cargo.
-
-  PICARD
-     You have the Bridge, Number One.
-
-  WESLEY
-     Captain. Could I see you when you have a moment?
-
-  PICARD
-     In my Ready room, when your duties permit.
-
-  WESLEY
-     Thank you, sir.
-
-
-LOCATION--Cargo deck five
-
-  LAFORGE
-     How long is it going to take to develop a vaccine?
-
-  DEALT
-     We may never develop one.
-
-  LAFORGE
-     All of this might have been in vain?
-
-  DEALT
-     Let's hope not.
-
-  DATA [OC]
-     Stand by to energise.
-
-  LAFORGE
-     Good luck.
-
-  ANNOTATION
-     Dealt is beamed away
-
-  LAFORGE
-     Data, you can lock on to the first group and begin
-     transporting on my mark.
-
-
-LOCATION--Ready room
-
-  PICARD
-     Come.
-
-  ANNOTATION
-     Wesley enters
-
-  WESLEY
-     Captain Picard, I've thought about this a lot. I
-     want to remain on the Enterprise.
-
-  PICARD
-     Have you discussed this with your mother?
-
-  WESLEY
-     No, sir. Before I do that, I'd like your
-     permission to stay.
-
-  PICARD
-     Wesley, it's a little more complicated than that.
-
-  WESLEY
-     Captain, this is where I want to be. This is where
-     I feel I belong.
-
-  RIKER [OC]
-     Captain, transfer complete. We are ready to leave
-     orbit.
-
-  PICARD
-     Make it so, Number One. Return to your position.
-
-
-LOCATION--Bridge
-
-  RIKER
-     All stations secure.
-
-  PICARD
-     Take us out of orbit, Mister Crusher. Lay in a
-     course for the Morgana Quadrant.
-
-  WESLEY
-     Yes, sir.
-
-  PICARD
-     Ensign Crusher has requested to remain on the
-     Enterprise.
-
-  RIKER
-     I'm not surprised. How did you respond?
-
-  PICARD
-     I haven't as yet, Number One. I didn't think it
-     was my responsibility alone. His remaining will
-     create difficulties for us all.
-
-  RIKER
-     Yes, indeed. With his mother gone, who will see to
-     his studies?
-
-  PICARD
-     Exactly. Of course, that duty will fall to
-     Commander Data.
-
-  RIKER
-     And who will tuck him in at night?
-
-  WESLEY
-     Come on, Commander.
-
-  WORF
-     I will accept that responsibility.
-
-  TROI
-     Well, we know he'll get his sleep.
-
-  PICARD
-     That takes care of the practical, but there's more
-     to growing up than that. It's my belief, Number
-     One, that you're best qualified to supervise that.
-     Are you willing to serve?
-
-  RIKER
-     Difficult decision. Yes, I can do that.
-
-  PICARD
-     Well, Mister Crusher, communicate with your mother
-     at Starfleet Medical headquarters. Give her my
-     regards, and tell her you have my permission to
-     remain on the Enterprise, but I will abide by her
-     wishes.
-
-  WESLEY
-     Yes, sir. Thank you, sir. I know she'll agree.
-
-  ANNOTATION
-     argh!
-
-  PICARD
-     Now, if you have course and speed laid in.
-
-  WESLEY
-     Yes sir, they are.
-
-  PICARD
-     Then, Mister Crusher, engage.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

@@ -1,1587 +1,755 @@
-Gambit part 1
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Gambit part 1</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Cantina</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: straight out of Star Wars episode 4, and everyone is in casual clothes</td></tr>
 
-LOCATION--Cantina
+<tr id="L2"><td><a href="#L2">2</a></td><td>BARTENDER:  (very hairy) So, tell me, why is it so important that you find this man?</td></tr>
 
-  ANNOTATION
-     straight out of Star Wars episode 4, and everyone
-     is in casual clothes
+<tr id="L3"><td><a href="#L3">3</a></td><td>TROI:  We had business dealings. He owes me money.</td></tr>
 
-  BARTENDER
-     (very hairy) So, tell me, why is it so important
-     that you find this man?
+<tr id="L4"><td><a href="#L4">4</a></td><td>BARTENDER:  If we had business dealings, I can tell you that I wouldn't disappear.</td></tr>
 
-  TROI
-     We had business dealings. He owes me money.
+<tr id="L5"><td><a href="#L5">5</a></td><td>TROI:  Maybe we can discuss that possibility. But first, I have to find him, collect the money I'm owed.</td></tr>
 
-  BARTENDER
-     If we had business dealings, I can tell you that I
-     wouldn't disappear.
+<tr id="L6"><td><a href="#L6">6</a></td><td>BARTENDER:  I'll be closing in a few hours. Perhaps we can discuss this more privately.</td></tr>
 
-  TROI
-     Maybe we can discuss that possibility. But first,
-     I have to find him, collect the money I'm owed.
+<tr id="L7"><td><a href="#L7">7</a></td><td>TROI:  If I don't find him, I'm going to have to move on. Are you sure you haven't seen him?</td></tr>
 
-  BARTENDER
-     I'll be closing in a few hours. Perhaps we can
-     discuss this more privately.
+<tr id="L8"><td><a href="#L8">8</a></td><td>BARTENDER:  Human, about two metres tall, smooth-headed. No. I don't remember anyone like that.</td></tr>
 
-  TROI
-     If I don't find him, I'm going to have to move on.
-     Are you sure you haven't seen him?
+<tr id="L9"><td><a href="#L9">9</a></td><td>TROI:  You're lying.</td></tr>
 
-  BARTENDER
-     Human, about two metres tall, smooth-headed. No. I
-     don't remember anyone like that.
+<tr id="L10"><td><a href="#L10">10</a></td><td>BARTENDER:  And you're a Betazoid. I thought so. Listen, people who come in here, they count on a certain amount of anonymity. And if I were to start answering questions about them, even to a very beautiful woman, well, I wouldn't be in business very long. And being a businesswoman, I'm sure you understand.</td></tr>
 
-  TROI
-     You're lying.
+<tr id="L11"><td><a href="#L11">11</a></td><td>ANNOTATION: and he goes off to serve another customer while at the other end of the bar</td></tr>
 
-  BARTENDER
-     And you're a Betazoid. I thought so. Listen,
-     people who come in here, they count on a certain
-     amount of anonymity. And if I were to start
-     answering questions about them, even to a very
-     beautiful woman, well, I wouldn't be in business
-     very long. And being a businesswoman, I'm sure you
-     understand.
+<tr id="L12"><td><a href="#L12">12</a></td><td>RIKER:  Great story. I'll remember it next time I'm in a knife fight.</td></tr>
 
-  ANNOTATION
-     and he goes off to serve another customer while at
-     the other end of the bar
+<tr id="L13"><td><a href="#L13">13</a></td><td>ANNOTATION: walks over to Worf</td></tr>
 
-  RIKER
-     Great story. I'll remember it next time I'm in a
-     knife fight.
+<tr id="L14"><td><a href="#L14">14</a></td><td>RIKER:  Any luck?</td></tr>
 
-  ANNOTATION
-     walks over to Worf
+<tr id="L15"><td><a href="#L15">15</a></td><td>WORF:  I think the one over there knows something.</td></tr>
 
-  RIKER
-     Any luck?
+<tr id="L16"><td><a href="#L16">16</a></td><td>WORF:  He would not admit to having seen the Captain, but he said that anyone who visited the ruins of Nafir would probably come here eventually. I suspect he knows more.</td></tr>
 
-  WORF
-     I think the one over there knows something.
+<tr id="L17"><td><a href="#L17">17</a></td><td>RIKER:  Let's go.</td></tr>
 
-  WORF
-     He would not admit to having seen the Captain, but
-     he said that anyone who visited the ruins of Nafir
-     would probably come here eventually. I suspect he
-     knows more.
+<tr id="L18"><td><a href="#L18">18</a></td><td>WORF:  Commander, I told</td></tr>
 
-  RIKER
-     Let's go.
+<tr id="L19"><td><a href="#L19">19</a></td><td>RIKER:  My friend tells me you know about the man we're looking for.</td></tr>
 
-  WORF
-     Commander, I told
+<tr id="L20"><td><a href="#L20">20</a></td><td>YRANAC:  The only reason I'm talking to you is that I have a sister, too.</td></tr>
 
-  RIKER
-     My friend tells me you know about the man we're
-     looking for.
+<tr id="L21"><td><a href="#L21">21</a></td><td>WORF:  I explained to him that we are looking for a man who impregnated your sister.</td></tr>
 
-  YRANAC
-     The only reason I'm talking to you is that I have
-     a sister, too.
+<tr id="L22"><td><a href="#L22">22</a></td><td>RIKER:  So you can imagine how much this means to me.</td></tr>
 
-  WORF
-     I explained to him that we are looking for a man
-     who impregnated your sister.
+<tr id="L23"><td><a href="#L23">23</a></td><td>YRANAC:  Family honour is important. If someone had defiled my sister I would do anything, pay anything, to find the one responsible.</td></tr>
 
-  RIKER
-     So you can imagine how much this means to me.
+<tr id="L24"><td><a href="#L24">24</a></td><td>RIKER:  And how much might anything be?</td></tr>
 
-  YRANAC
-     Family honour is important. If someone had defiled
-     my sister I would do anything, pay anything, to
-     find the one responsible.
+<tr id="L25"><td><a href="#L25">25</a></td><td>YRANAC:  As much as five bars of gold-pressed latinum.</td></tr>
 
-  RIKER
-     And how much might anything be?
+<tr id="L26"><td><a href="#L26">26</a></td><td>BARTENDER:  I think you've had a little too much to drink. You'd better leave. On your way, Yranac.</td></tr>
 
-  YRANAC
-     As much as five bars of gold-pressed latinum.
+<tr id="L27"><td><a href="#L27">27</a></td><td>ANNOTATION: the bartender gets a phaser jabbed into his cheekbone</td></tr>
 
-  BARTENDER
-     I think you've had a little too much to drink.
-     You'd better leave. On your way, Yranac.
+<tr id="L28"><td><a href="#L28">28</a></td><td>CRUSHER:  I'm sorry, but I think he wants to stay. Sit down.</td></tr>
 
-  ANNOTATION
-     the bartender gets a phaser jabbed into his
-     cheekbone
+<tr id="L29"><td><a href="#L29">29</a></td><td>RIKER:  This is my sister. She's angry. She's got a vicious temper. I wouldn't cross her.</td></tr>
 
-  CRUSHER
-     I'm sorry, but I think he wants to stay. Sit down.
+<tr id="L30"><td><a href="#L30">30</a></td><td>BARTENDER:  You say one word and you're a dead man.</td></tr>
 
-  RIKER
-     This is my sister. She's angry. She's got a
-     vicious temper. I wouldn't cross her.
+<tr id="L31"><td><a href="#L31">31</a></td><td>YRANAC:  Perhaps there's an element of risk here that I did not fully appreciate.</td></tr>
 
-  BARTENDER
-     You say one word and you're a dead man.
+<tr id="L32"><td><a href="#L32">32</a></td><td>WORF:  And how much more latinum will it take to offset this risk?</td></tr>
 
-  YRANAC
-     Perhaps there's an element of risk here that I did
-     not fully appreciate.
+<tr id="L33"><td><a href="#L33">33</a></td><td>YRANAC:  This isn't about latinum. As a man with a sister, a sister with a temper, I can sympathise with you, but, how did you come here? Do you have a ship in orbit?</td></tr>
 
-  WORF
-     And how much more latinum will it take to offset
-     this risk?
+<tr id="L34"><td><a href="#L34">34</a></td><td>RIKER:  Yes.</td></tr>
 
-  YRANAC
-     This isn't about latinum. As a man with a sister,
-     a sister with a temper, I can sympathise with you,
-     but, how did you come here? Do you have a ship in
-     orbit?
+<tr id="L35"><td><a href="#L35">35</a></td><td>YRANAC:  Then take me with you. You can drop me anywhere.</td></tr>
 
-  RIKER
-     Yes.
+<tr id="L36"><td><a href="#L36">36</a></td><td>RIKER:  Agreed. Now talk.</td></tr>
 
-  YRANAC
-     Then take me with you. You can drop me anywhere.
+<tr id="L37"><td><a href="#L37">37</a></td><td>YRANAC:  The man you're looking for was here several weeks ago. There was a group of aliens sitting at this table. He was asking them questions.</td></tr>
 
-  RIKER
-     Agreed. Now talk.
+<tr id="L38"><td><a href="#L38">38</a></td><td>WORF:  Who were these aliens?</td></tr>
 
-  YRANAC
-     The man you're looking for was here several weeks
-     ago. There was a group of aliens sitting at this
-     table. He was asking them questions.
+<tr id="L39"><td><a href="#L39">39</a></td><td>YRANAC:  I don't know, but they looked dangerous. They attacked him. He managed to incapacitate three of them before he was knocked down. He was thrown against that wall and fell there.</td></tr>
 
-  WORF
-     Who were these aliens?
+<tr id="L40"><td><a href="#L40">40</a></td><td>ANNOTATION: Crusher scans it with her tricorder</td></tr>
 
-  YRANAC
-     I don't know, but they looked dangerous. They
-     attacked him. He managed to incapacitate three of
-     them before he was knocked down. He was thrown
-     against that wall and fell there.
+<tr id="L41"><td><a href="#L41">41</a></td><td>CRUSHER:  I'm picking up some Starfleet fibre traces and human cellular debris.</td></tr>
 
-  ANNOTATION
-     Crusher scans it with her tricorder
+<tr id="L42"><td><a href="#L42">42</a></td><td>RIKER:  Can you establish a DNA reading?</td></tr>
 
-  CRUSHER
-     I'm picking up some Starfleet fibre traces and
-     human cellular debris.
+<tr id="L43"><td><a href="#L43">43</a></td><td>CRUSHER:  There's something strange here. The cell structures are badly distorted. It's as if they've been exposed to some kind of high-energy field.</td></tr>
 
-  RIKER
-     Can you establish a DNA reading?
+<tr id="L44"><td><a href="#L44">44</a></td><td>WORF:  A weapon discharge?</td></tr>
 
-  CRUSHER
-     There's something strange here. The cell
-     structures are badly distorted. It's as if they've
-     been exposed to some kind of high-energy field.
+<tr id="L45"><td><a href="#L45">45</a></td><td>CRUSHER:  It could be. I'm picking up some faint traces of microcrystalline damage in the floor material, but I'm not familiar with the pattern I'm getting.</td></tr>
 
-  WORF
-     A weapon discharge?
+<tr id="L46"><td><a href="#L46">46</a></td><td>YRANAC:  Who are you people?</td></tr>
 
-  CRUSHER
-     It could be. I'm picking up some faint traces of
-     microcrystalline damage in the floor material, but
-     I'm not familiar with the pattern I'm getting.
+<tr id="L47"><td><a href="#L47">47</a></td><td>RIKER:  You didn't say anything about a weapon.</td></tr>
 
-  YRANAC
-     Who are you people?
+<tr id="L48"><td><a href="#L48">48</a></td><td>YRANAC:  I hadn't finished yet. You'll like this. The man got what was coming to him. When they knocked him down, one of them took out a weapon and fired. He was vaporised.</td></tr>
 
-  RIKER
-     You didn't say anything about a weapon.
+<tr id="L49"><td><a href="#L49">49</a></td><td>TROI:  He's telling the truth.</td></tr>
 
-  YRANAC
-     I hadn't finished yet. You'll like this. The man
-     got what was coming to him. When they knocked him
-     down, one of them took out a weapon and fired. He
-     was vaporised.
+<tr id="L50"><td><a href="#L50">50</a></td><td>SOMEONE: Acting Captain's log, stardate 47135.2. Doctor Crusher has positively identified Captain Picard's DNA. There's no doubt now that he's dead.</td></tr>
 
-  TROI
-     He's telling the truth.
+<tr><td></td><td>LOCATION--Riker's quarters</td></tr>
+<tr id="L51"><td><a href="#L51">51</a></td><td>RIKER:  Come.</td></tr>
 
-  SOMEONE
-     Acting Captain's log, stardate 47135.2. Doctor
-     Crusher has positively identified Captain Picard's
-     DNA. There's no doubt now that he's dead.
+<tr id="L52"><td><a href="#L52">52</a></td><td>TROI:  How are you doing?</td></tr>
 
+<tr id="L53"><td><a href="#L53">53</a></td><td>RIKER:  I'm all right.</td></tr>
 
-LOCATION--Riker's quarters
+<tr id="L54"><td><a href="#L54">54</a></td><td>TROI:  The crew's pretty shaken up. I'm arranging a memorial. I think you should be the one to deliver the eulogy.</td></tr>
 
-  RIKER
-     Come.
+<tr id="L55"><td><a href="#L55">55</a></td><td>RIKER:  I think you'd be better at something like that. Or Beverly. She knew him the longest.</td></tr>
 
-  TROI
-     How are you doing?
+<tr id="L56"><td><a href="#L56">56</a></td><td>TROI:  I know it's not going to be easy, but I think it's important that we face up to what's happened. You're in command now. The crew's looking to you for guidance.</td></tr>
 
-  RIKER
-     I'm all right.
+<tr id="L57"><td><a href="#L57">57</a></td><td>RIKER:  You don't understand. I can't give the eulogy because I won't be at the service.</td></tr>
 
-  TROI
-     The crew's pretty shaken up. I'm arranging a
-     memorial. I think you should be the one to deliver
-     the eulogy.
+<tr id="L58"><td><a href="#L58">58</a></td><td>TROI:  A memorial service helps to give everyone a sense of completion. Helps them begin the healing process.</td></tr>
 
-  RIKER
-     I think you'd be better at something like that. Or
-     Beverly. She knew him the longest.
+<tr id="L59"><td><a href="#L59">59</a></td><td>RIKER:  That's exactly the point. I don't want to heal.</td></tr>
 
-  TROI
-     I know it's not going to be easy, but I think it's
-     important that we face up to what's happened.
-     You're in command now. The crew's looking to you
-     for guidance.
+<tr id="L60"><td><a href="#L60">60</a></td><td>TROI:  Will.</td></tr>
 
-  RIKER
-     You don't understand. I can't give the eulogy
-     because I won't be at the service.
+<tr id="L61"><td><a href="#L61">61</a></td><td>RIKER:  I've an open wound, right here. It hurts like hell. I don't want it to get better, and I don't want to pretend that everything's all right.</td></tr>
 
-  TROI
-     A memorial service helps to give everyone a sense
-     of completion. Helps them begin the healing
-     process.
+<tr id="L62"><td><a href="#L62">62</a></td><td>TROI:  I know you're angry.</td></tr>
 
-  RIKER
-     That's exactly the point. I don't want to heal.
+<tr id="L63"><td><a href="#L63">63</a></td><td>RIKER:  You're damn right! And I intend to stay angry until I find whoever's responsible for the Captain's death.</td></tr>
 
-  TROI
-     Will.
+<tr id="L64"><td><a href="#L64">64</a></td><td>TROI:  That's pretty selfish of you. Do you think you're the only one in pain? Do you think you have the monopoly on loss? Well, let me tell you something. We're all hurting, and we're all angry. And whether you like it or not, you have a responsibility to this crew, and you can't just indulge your personal desire for revenge.</td></tr>
 
-  RIKER
-     I've an open wound, right here. It hurts like
-     hell. I don't want it to get better, and I don't
-     want to pretend that everything's all right.
+<tr id="L65"><td><a href="#L65">65</a></td><td>RIKER:  That is enough, Counsellor. Deanna. I'm sorry. This is not about revenge. This is about justice. The Captain died in a bar fight for nothing. Somebody has to answer for that. Then I can mourn.</td></tr>
 
-  TROI
-     I know you're angry.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L66"><td><a href="#L66">66</a></td><td>WORF:  Commander, I am receiving a transmission from Admiral Chekote at Starbase two twenty seven.</td></tr>
 
-  RIKER
-     You're damn right! And I intend to stay angry
-     until I find whoever's responsible for the
-     Captain's death.
+<tr id="L67"><td><a href="#L67">67</a></td><td>RIKER:  I'll take it in the Ready room.</td></tr>
 
-  TROI
-     That's pretty selfish of you. Do you think you're
-     the only one in pain? Do you think you have the
-     monopoly on loss? Well, let me tell you something.
-     We're all hurting, and we're all angry. And
-     whether you like it or not, you have a
-     responsibility to this crew, and you can't just
-     indulge your personal desire for revenge.
+<tr id="L68"><td><a href="#L68">68</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  RIKER
-     That is enough, Counsellor. Deanna. I'm sorry.
-     This is not about revenge. This is about justice.
-     The Captain died in a bar fight for nothing.
-     Somebody has to answer for that. Then I can mourn.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L69"><td><a href="#L69">69</a></td><td>RIKER:  Sir.</td></tr>
 
+<tr id="L70"><td><a href="#L70">70</a></td><td>CHEKOTE [on monitor]:  (not obviously a Native American) I read your report, Commander. My condolences to you and your crew. Captain Picard's death is a loss to the entire Federation. I see that you've asked to postpone your mission to the Argus sector. For what reason?</td></tr>
 
-LOCATION--Bridge
+<tr id="L71"><td><a href="#L71">71</a></td><td>RIKER:  I have a request, sir. I would like to conduct an investigation into Captain Picard's death.</td></tr>
 
-  WORF
-     Commander, I am receiving a transmission from
-     Admiral Chekote at Starbase two twenty seven.
+<tr id="L72"><td><a href="#L72">72</a></td><td>CHEKOTE [on monitor]:  The Dessican authorities have jurisdiction in this case, Commander.</td></tr>
 
-  RIKER
-     I'll take it in the Ready room.
+<tr id="L73"><td><a href="#L73">73</a></td><td>RIKER:  I know that, sir. Frankly, I don't have much confidence in the authorities on Dessica Two. There's every reason to believe that they're corrupt.</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L74"><td><a href="#L74">74</a></td><td>CHEKOTE [on monitor]:  I suspect you're right. The question remains, are you the one to pursue this?</td></tr>
 
+<tr id="L75"><td><a href="#L75">75</a></td><td>RIKER:  The Captain's death hit me pretty hard, and I may not be completely objective, but there is no one who is more determined. I won't rest until I find out who's responsible.</td></tr>
 
-LOCATION--Ready room
+<tr id="L76"><td><a href="#L76">76</a></td><td>CHEKOTE [on monitor]:  All right, Commander. I'm officially placing the Enterprise on detached duty. Your mission is at your discretion. Good luck.</td></tr>
 
-  RIKER
-     Sir.
+<tr id="L77"><td><a href="#L77">77</a></td><td>RIKER:  Thank you, sir.</td></tr>
 
-  CHEKOTE [on monitor]
-     (not obviously a Native American) I read your
-     report, Commander. My condolences to you and your
-     crew. Captain Picard's death is a loss to the
-     entire Federation. I see that you've asked to
-     postpone your mission to the Argus sector. For
-     what reason?
-
-  RIKER
-     I have a request, sir. I would like to conduct an
-     investigation into Captain Picard's death.
+<tr><td></td><td>LOCATION--Yranac's quarters</td></tr>
+<tr id="L78"><td><a href="#L78">78</a></td><td>ANNOTATION: the Yridian is eating from a large array of dishes when Riker enters</td></tr>
 
-  CHEKOTE [on monitor]
-     The Dessican authorities have jurisdiction in this
-     case, Commander.
+<tr id="L79"><td><a href="#L79">79</a></td><td>YRANAC:  Ah, Commander Riker. I've been meaning to speak to you. I was wondering if you could move me to better quarters. I don't care much for the decor here.</td></tr>
 
-  RIKER
-     I know that, sir. Frankly, I don't have much
-     confidence in the authorities on Dessica Two.
-     There's every reason to believe that they're
-     corrupt.
+<tr id="L80"><td><a href="#L80">80</a></td><td>RIKER:  These are the best quarters we have. I was hoping now that you've had a chance to relax you might have remembered some of the details about the aliens you saw. Something you may have forgotten.</td></tr>
 
-  CHEKOTE [on monitor]
-     I suspect you're right. The question remains, are
-     you the one to pursue this?
+<tr id="L81"><td><a href="#L81">81</a></td><td>YRANAC:  Sorry, my memory isn't what it used to be.</td></tr>
 
-  RIKER
-     The Captain's death hit me pretty hard, and I may
-     not be completely objective, but there is no one
-     who is more determined. I won't rest until I find
-     out who's responsible.
+<tr id="L82"><td><a href="#L82">82</a></td><td>RIKER:  They murdered a man in cold blood in full view of everyone in the bar and you can't remember anything about them?</td></tr>
 
-  CHEKOTE [on monitor]
-     All right, Commander. I'm officially placing the
-     Enterprise on detached duty. Your mission is at
-     your discretion. Good luck.
+<tr id="L83"><td><a href="#L83">83</a></td><td>YRANAC:  Now that you mention it, I do remember one thing. They said they'd kill anyone who talked about what happened.</td></tr>
 
-  RIKER
-     Thank you, sir.
+<tr id="L84"><td><a href="#L84">84</a></td><td>RIKER:  Do you know where they went? (Yranac smiles) So you know who they are and you know where I can find them.</td></tr>
 
+<tr id="L85"><td><a href="#L85">85</a></td><td>YRANAC:  Perhaps I do.</td></tr>
 
-LOCATION--Yranac's quarters
+<tr id="L86"><td><a href="#L86">86</a></td><td>RIKER:  What do you want?</td></tr>
 
-  ANNOTATION
-     the Yridian is eating from a large array of dishes
-     when Riker enters
+<tr id="L87"><td><a href="#L87">87</a></td><td>YRANAC:  Not a great deal, Commander. Just a shuttlecraft. I believe I'd like to travel for a while, see more of the galaxy. You understand.</td></tr>
 
-  YRANAC
-     Ah, Commander Riker. I've been meaning to speak to
-     you. I was wondering if you could move me to
-     better quarters. I don't care much for the decor
-     here.
+<tr id="L88"><td><a href="#L88">88</a></td><td>RIKER:  A shuttlecraft? Well, here's my offer. Instead of the ship, I'll give you some time.</td></tr>
 
-  RIKER
-     These are the best quarters we have. I was hoping
-     now that you've had a chance to relax you might
-     have remembered some of the details about the
-     aliens you saw. Something you may have forgotten.
+<tr id="L89"><td><a href="#L89">89</a></td><td>YRANAC:  Time?</td></tr>
 
-  YRANAC
-     Sorry, my memory isn't what it used to be.
+<tr id="L90"><td><a href="#L90">90</a></td><td>RIKER:  If you're lucky, you'll only spend the next five years in prison instead of the next twenty. (picks him up by the lapels) You've got twelve outstanding arrest warrants for fraud and petty theft in the Klingon Empire. Tell me what you know, and I'll pull some strings. Maybe they'll reduce your sentence after you've been extradited.</td></tr>
 
-  RIKER
-     They murdered a man in cold blood in full view of
-     everyone in the bar and you can't remember
-     anything about them?
+<tr id="L91"><td><a href="#L91">91</a></td><td>YRANAC:  If I tell you what I know, you must promise not to give me to the Klingons.</td></tr>
 
-  YRANAC
-     Now that you mention it, I do remember one thing.
-     They said they'd kill anyone who talked about what
-     happened.
+<tr id="L92"><td><a href="#L92">92</a></td><td>RIKER:  I'll think about it.</td></tr>
 
-  RIKER
-     Do you know where they went? (Yranac smiles) So
-     you know who they are and you know where I can
-     find them.
+<tr id="L93"><td><a href="#L93">93</a></td><td>YRANAC:  Perhaps you could send me to a Federation rehabilitation colony instead.</td></tr>
 
-  YRANAC
-     Perhaps I do.
+<tr id="L94"><td><a href="#L94">94</a></td><td>RIKER:  Talk.</td></tr>
 
-  RIKER
-     What do you want?
+<tr id="L95"><td><a href="#L95">95</a></td><td>YRANAC:  The aliens were some kind of mercenary group. They've been operating in this sector for the last six months.</td></tr>
 
-  YRANAC
-     Not a great deal, Commander. Just a shuttlecraft.
-     I believe I'd like to travel for a while, see more
-     of the galaxy. You understand.
+<tr id="L96"><td><a href="#L96">96</a></td><td>RIKER:  Where do we find them?</td></tr>
 
-  RIKER
-     A shuttlecraft? Well, here's my offer. Instead of
-     the ship, I'll give you some time.
+<tr id="L97"><td><a href="#L97">97</a></td><td>YRANAC:  I heard one of them mention the Barradas system. I think they were headed there.</td></tr>
 
-  YRANAC
-     Time?
+<tr id="L98"><td><a href="#L98">98</a></td><td>RIKER:  You think?</td></tr>
 
-  RIKER
-     If you're lucky, you'll only spend the next five
-     years in prison instead of the next twenty. (picks
-     him up by the lapels) You've got twelve
-     outstanding arrest warrants for fraud and petty
-     theft in the Klingon Empire. Tell me what you
-     know, and I'll pull some strings. Maybe they'll
-     reduce your sentence after you've been extradited.
+<tr id="L99"><td><a href="#L99">99</a></td><td>YRANAC:  That's all I know.</td></tr>
 
-  YRANAC
-     If I tell you what I know, you must promise not to
-     give me to the Klingons.
+<tr id="L100"><td><a href="#L100">100</a></td><td>RIKER:  Riker to Data.</td></tr>
 
-  RIKER
-     I'll think about it.
+<tr id="L101"><td><a href="#L101">101</a></td><td>DATA [OC]:  Data here.</td></tr>
 
-  YRANAC
-     Perhaps you could send me to a Federation
-     rehabilitation colony instead.
+<tr id="L102"><td><a href="#L102">102</a></td><td>RIKER:  Take us out of orbit. Set course for the Barradas system, warp six.</td></tr>
 
-  RIKER
-     Talk.
+<tr id="L103"><td><a href="#L103">103</a></td><td>DATA [OC]:  Aye, sir.</td></tr>
 
-  YRANAC
-     The aliens were some kind of mercenary group.
-     They've been operating in this sector for the last
-     six months.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L104"><td><a href="#L104">104</a></td><td>DATA:  Barradas Three is the only class M planet in this system, and it is listed as unpopulated. However, sensors have detected intermittent energy signals emanating from its surface.</td></tr>
 
-  RIKER
-     Where do we find them?
+<tr id="L105"><td><a href="#L105">105</a></td><td>RIKER:  What's the source?</td></tr>
 
-  YRANAC
-     I heard one of them mention the Barradas system. I
-     think they were headed there.
+<tr id="L106"><td><a href="#L106">106</a></td><td>LAFORGE:  The signals are difficult to localise, but they could be emissions from some kind of power converter.</td></tr>
 
-  RIKER
-     You think?
+<tr id="L107"><td><a href="#L107">107</a></td><td>WORF:  Which could indicate a base or a ship.</td></tr>
 
-  YRANAC
-     That's all I know.
+<tr id="L108"><td><a href="#L108">108</a></td><td>RIKER:  What else do we know about Barradas Three?</td></tr>
 
-  RIKER
-     Riker to Data.
+<tr id="L109"><td><a href="#L109">109</a></td><td>DATA:  The planet was used as an outpost for the Debrune approximately two thousand years ago. The Federation's Archaeological survey has catalogued numerous ruins on the surface.</td></tr>
 
-  DATA [OC]
-     Data here.
+<tr id="L110"><td><a href="#L110">110</a></td><td>RIKER:  Mister Worf, I'd like a security detail to accompany the away team to the surface. I'll lead the team. Geordi, you're with me. Mister Data, you have the Bridge.</td></tr>
 
-  RIKER
-     Take us out of orbit. Set course for the Barradas
-     system, warp six.
+<tr id="L111"><td><a href="#L111">111</a></td><td>DATA:  Aye, sir. Commander, as Acting First Officer, I must question your decision to accompany the away team. If Captain Picard were here</td></tr>
 
-  DATA [OC]
-     Aye, sir.
+<tr id="L112"><td><a href="#L112">112</a></td><td>RIKER:  He's not.</td></tr>
 
+<tr id="L113"><td><a href="#L113">113</a></td><td>DATA:  I realise that, sir. But if he were, and he wanted to lead an away team, you would tell him that the Captain's place is</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L114"><td><a href="#L114">114</a></td><td>RIKER:  On the Bridge. Not this time.</td></tr>
 
-  DATA
-     Barradas Three is the only class M planet in this
-     system, and it is listed as unpopulated. However,
-     sensors have detected intermittent energy signals
-     emanating from its surface.
+<tr><td></td><td>LOCATION--Ruins</td></tr>
+<tr id="L115"><td><a href="#L115">115</a></td><td>RIKER:  Ensign, you take that area.</td></tr>
 
-  RIKER
-     What's the source?
+<tr id="L116"><td><a href="#L116">116</a></td><td>ENSIGN:  Yes, sir.</td></tr>
 
-  LAFORGE
-     The signals are difficult to localise, but they
-     could be emissions from some kind of power
-     converter.
+<tr id="L117"><td><a href="#L117">117</a></td><td>RIKER:  Geordi?</td></tr>
 
-  WORF
-     Which could indicate a base or a ship.
+<tr id="L118"><td><a href="#L118">118</a></td><td>LAFORGE:  It's tough to get accurate sensor readings. There's an awful lot of interference in the area.</td></tr>
 
-  RIKER
-     What else do we know about Barradas Three?
+<tr id="L119"><td><a href="#L119">119</a></td><td>RIKER:  From what?</td></tr>
 
-  DATA
-     The planet was used as an outpost for the Debrune
-     approximately two thousand years ago. The
-     Federation's Archaeological survey has catalogued
-     numerous ruins on the surface.
+<tr id="L120"><td><a href="#L120">120</a></td><td>LAFORGE:  I'm not sure. It's very unlocalised. It could be atmospheric.</td></tr>
 
-  RIKER
-     Mister Worf, I'd like a security detail to
-     accompany the away team to the surface. I'll lead
-     the team. Geordi, you're with me. Mister Data, you
-     have the Bridge.
+<tr id="L121"><td><a href="#L121">121</a></td><td>RIKER:  What do you make of these?</td></tr>
 
-  DATA
-     Aye, sir. Commander, as Acting First Officer, I
-     must question your decision to accompany the away
-     team. If Captain Picard were here
+<tr id="L122"><td><a href="#L122">122</a></td><td>ANNOTATION: charred pits in the ground</td></tr>
 
-  RIKER
-     He's not.
+<tr id="L123"><td><a href="#L123">123</a></td><td>LAFORGE:  Well, these ruins around here are pretty ancient but I'd say that this indentation was made fairly recently. Could be the site of some battlefield.</td></tr>
 
-  DATA
-     I realise that, sir. But if he were, and he wanted
-     to lead an away team, you would tell him that the
-     Captain's place is
+<tr id="L124"><td><a href="#L124">124</a></td><td>RIKER:  It doesn't look like any blast point I've ever seen. The shape is too perfect.</td></tr>
 
-  RIKER
-     On the Bridge. Not this time.
+<tr id="L125"><td><a href="#L125">125</a></td><td>LAFORGE:  Sir, there's microcrystalline damage all throughout this area. The same kind of pattern that Doctor Crusher picked up in the floor of that bar on Dessica Two.</td></tr>
 
+<tr id="L126"><td><a href="#L126">126</a></td><td>WORF:  Commander! I found something.</td></tr>
 
-LOCATION--Ruins
+<tr id="L127"><td><a href="#L127">127</a></td><td>ANNOTATION: a pottery urn and other things in the sand</td></tr>
 
-  RIKER
-     Ensign, you take that area.
+<tr id="L128"><td><a href="#L128">128</a></td><td>RIKER:  Looks as if someone could have just dropped them.</td></tr>
 
-  ENSIGN
-     Yes, sir.
+<tr id="L129"><td><a href="#L129">129</a></td><td>ANNOTATION: the spare security guard gets shot, everyone takes cover from the incessant energy weapons</td></tr>
 
-  RIKER
-     Geordi?
+<tr id="L130"><td><a href="#L130">130</a></td><td>LAFORGE:  La Forge to Enterprise. We are under attack down here.</td></tr>
 
-  LAFORGE
-     It's tough to get accurate sensor readings.
-     There's an awful lot of interference in the area.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L131"><td><a href="#L131">131</a></td><td>LAFORGE [OC]:  I repeat, we are under attack.</td></tr>
 
-  RIKER
-     From what?
+<tr id="L132"><td><a href="#L132">132</a></td><td>GIUSTI:  (a young woman) Commander, we've lost contact with the away team.</td></tr>
 
-  LAFORGE
-     I'm not sure. It's very unlocalised. It could be
-     atmospheric.
+<tr id="L133"><td><a href="#L133">133</a></td><td>DATA:  Is there a malfunction?</td></tr>
 
-  RIKER
-     What do you make of these?
+<tr id="L134"><td><a href="#L134">134</a></td><td>GIUSTI:  No, sir. The comm. system is being jammed.</td></tr>
 
-  ANNOTATION
-     charred pits in the ground
+<tr id="L135"><td><a href="#L135">135</a></td><td>DATA:  What is the source?</td></tr>
 
-  LAFORGE
-     Well, these ruins around here are pretty ancient
-     but I'd say that this indentation was made fairly
-     recently. Could be the site of some battlefield.
+<tr id="L136"><td><a href="#L136">136</a></td><td>GIUSTI:  Somewhere on the surface.</td></tr>
 
-  RIKER
-     It doesn't look like any blast point I've ever
-     seen. The shape is too perfect.
+<tr id="L137"><td><a href="#L137">137</a></td><td>DATA:  Bridge to Transporter room two. Can you get a lock on the away team?</td></tr>
 
-  LAFORGE
-     Sir, there's microcrystalline damage all
-     throughout this area. The same kind of pattern
-     that Doctor Crusher picked up in the floor of that
-     bar on Dessica Two.
+<tr id="L138"><td><a href="#L138">138</a></td><td>CHIEF [OC]:  Negative, sir. There's too much interference.</td></tr>
 
-  WORF
-     Commander! I found something.
+<tr><td></td><td>LOCATION--Ruins</td></tr>
+<tr id="L139"><td><a href="#L139">139</a></td><td>ANNOTATION: what looks like a Romulan woman runs forward and grabs the artefacts</td></tr>
 
-  ANNOTATION
-     a pottery urn and other things in the sand
+<tr id="L140"><td><a href="#L140">140</a></td><td>RIKER:  (to security woman) I'm going to head for those trees over there. If I can get there, we might be able to set up a crossfire.</td></tr>
 
-  RIKER
-     Looks as if someone could have just dropped them.
+<tr id="L141"><td><a href="#L141">141</a></td><td>ANNOTATION: Riker makes it to some rocks and gets knocked out by a blast. The mercenaries get him and beam away</td></tr>
 
-  ANNOTATION
-     the spare security guard gets shot, everyone takes
-     cover from the incessant energy weapons
+<tr id="L142"><td><a href="#L142">142</a></td><td>DATA [OC]:  Data to away team. Please respond.</td></tr>
 
-  LAFORGE
-     La Forge to Enterprise. We are under attack down
-     here.
+<tr id="L143"><td><a href="#L143">143</a></td><td>LAFORGE:  Data, we've been attacked.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L144"><td><a href="#L144">144</a></td><td>LAFORGE [OC]:  We've got one casualty and Commander Riker has been taken captive.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Ruins</td></tr>
+<tr id="L145"><td><a href="#L145">145</a></td><td>WORF:  Sir, the mercenaries have beamed away. They must have a base or a ship nearby. Can the sensors locate anything?</td></tr>
 
-  LAFORGE [OC]
-     I repeat, we are under attack.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L146"><td><a href="#L146">146</a></td><td>GIUSTI:  Commander, we're picking up a vessel leaving orbit.</td></tr>
 
-  GIUSTI
-     (a young woman) Commander, we've lost contact with
-     the away team.
+<tr id="L147"><td><a href="#L147">147</a></td><td>DATA:  Why was it not detected earlier?</td></tr>
 
-  DATA
-     Is there a malfunction?
+<tr id="L148"><td><a href="#L148">148</a></td><td>GIUSTI:  They could have been using the planet as a shield. Sir, they are powering up their weapon systems.</td></tr>
 
-  GIUSTI
-     No, sir. The comm. system is being jammed.
+<tr id="L149"><td><a href="#L149">149</a></td><td>DATA:  Raise shields. Red alert.</td></tr>
 
-  DATA
-     What is the source?
+<tr id="L150"><td><a href="#L150">150</a></td><td>ANNOTATION: the little ship strafes the Enterprise as it passes</td></tr>
 
-  GIUSTI
-     Somewhere on the surface.
+<tr id="L151"><td><a href="#L151">151</a></td><td>DATA:  Damage report.</td></tr>
 
-  DATA
-     Bridge to Transporter room two. Can you get a lock
-     on the away team?
+<tr id="L152"><td><a href="#L152">152</a></td><td>GIUSTI:  Minor hit on the port deflector. No damage. They're running, sir. Their speed is warp eight point seven and holding. I think they're at their maximum.</td></tr>
 
-  CHIEF [OC]
-     Negative, sir. There's too much interference.
+<tr id="L153"><td><a href="#L153">153</a></td><td>DATA:  Take us to warp nine and pursue. Lock phasers on target.</td></tr>
 
+<tr id="L154"><td><a href="#L154">154</a></td><td>GIUSTI:  Sir, we should be within phaser range in twenty three seconds. Switching to long-range scanners. Commander, the sensor image of that ship is extremely weak. It's fading. The ship doesn't register on the long-range sensors. I'm sorry, sir. We've lost them.</td></tr>
 
-LOCATION--Ruins
+<tr id="L155"><td><a href="#L155">155</a></td><td>DATA:  Increase the sensor field bandwidth. Patch in the lateral sensor arrays.</td></tr>
 
-  ANNOTATION
-     what looks like a Romulan woman runs forward and
-     grabs the artefacts
+<tr id="L156"><td><a href="#L156">156</a></td><td>GIUSTI:  It's no good, the signal's gone. It just disappeared.</td></tr>
 
-  RIKER
-     (to security woman) I'm going to head for those
-     trees over there. If I can get there, we might be
-     able to set up a crossfire.
+<tr id="L157"><td><a href="#L157">157</a></td><td>DATA:  Plot a course and take us back to Barradas Three. Notify the away team to prepare for transport.</td></tr>
 
-  ANNOTATION
-     Riker makes it to some rocks and gets knocked out
-     by a blast. The mercenaries get him and beam away
+<tr id="L158"><td><a href="#L158">158</a></td><td>GIUSTI:  Aye, sir.</td></tr>
 
-  DATA [OC]
-     Data to away team. Please respond.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L159"><td><a href="#L159">159</a></td><td>DATA:  Starfleet Intelligence confirms that a ship matching this configuration has been linked to raids on several other planets in this sector. For the short time it was within our visual range, we were able to take sensor readings of the mercenary vessel. It appears to be encased in an energy absorbing material. Although we can see the ship, this energy sheath renders it virtually undetectable to our long range sensors.</td></tr>
 
-  LAFORGE
-     Data, we've been attacked.
+<tr id="L160"><td><a href="#L160">160</a></td><td>TROI:  There must be some way we can track it.</td></tr>
 
+<tr id="L161"><td><a href="#L161">161</a></td><td>LAFORGE:  Data, I know this is a long shot, but if I remodulate the long range sensor array, I might be able to make it sensitive enough to detect the ship.</td></tr>
 
-LOCATION--Bridge
+<tr id="L162"><td><a href="#L162">162</a></td><td>DATA:  Without a full compositional analysis of the energy sheath, the chances of finding the correct remodulation sequence are remote.</td></tr>
 
-  LAFORGE [OC]
-     We've got one casualty and Commander Riker has
-     been taken captive.
+<tr id="L163"><td><a href="#L163">163</a></td><td>WORF:  Sir, they have taken Commander Riker. We must do something. We cannot just sit here.</td></tr>
 
+<tr id="L164"><td><a href="#L164">164</a></td><td>DATA:  On the contrary, Lieutenant. That is precisely what we must do. Since there are no viable alternatives, we will return to the surface and attempt to determine what these mercenaries are doing on this planet. An investigation might reveal some indication of their purpose. Please notify me when you have assembled your search teams. Dismissed.</td></tr>
 
-LOCATION--Ruins
+<tr id="L165"><td><a href="#L165">165</a></td><td>ANNOTATION: Data sits back and steeples his fingers</td></tr>
 
-  WORF
-     Sir, the mercenaries have beamed away. They must
-     have a base or a ship nearby. Can the sensors
-     locate anything?
+<tr><td></td><td>LOCATION--Mercenary Bridge</td></tr>
+<tr id="L166"><td><a href="#L166">166</a></td><td>BARAN:  (vaguely leonine) What's the problem?</td></tr>
 
+<tr id="L167"><td><a href="#L167">167</a></td><td>NARIK:  (more spiky, Harper-esque) I warned you not to push the engines so hard. Two of the power shunts are on the verge of collapse. We'll be lucky if we can maintain warp six.</td></tr>
 
-LOCATION--Bridge
+<tr id="L168"><td><a href="#L168">168</a></td><td>BARAN:  How long will it take to repair?</td></tr>
 
-  GIUSTI
-     Commander, we're picking up a vessel leaving
-     orbit.
+<tr id="L169"><td><a href="#L169">169</a></td><td>NARIK:  I can try to realign the warp core. It'll take at least eleven hours, but I'll have to shut the engines down completely.</td></tr>
 
-  DATA
-     Why was it not detected earlier?
+<tr id="L170"><td><a href="#L170">170</a></td><td>BARAN:  We're not stopping. We can't afford to be sitting helpless in space. I want warp eight available in five hours, and I don't want to hear your excuses.</td></tr>
 
-  GIUSTI
-     They could have been using the planet as a shield.
-     Sir, they are powering up their weapon systems.
+<tr id="L171"><td><a href="#L171">171</a></td><td>ANNOTATION: Narik goes to his console</td></tr>
 
-  DATA
-     Raise shields. Red alert.
+<tr id="L172"><td><a href="#L172">172</a></td><td>BARAN:  What were you doing on Barradas Three?</td></tr>
 
-  ANNOTATION
-     the little ship strafes the Enterprise as it
-     passes
+<tr id="L173"><td><a href="#L173">173</a></td><td>RIKER:  William T. Riker, Commander, SC two three one dash four two seven.</td></tr>
 
-  DATA
-     Damage report.
+<tr id="L174"><td><a href="#L174">174</a></td><td>BARAN:  Oh really? Well, I am Arctus Baran and I don't have a number. Now what were you doing on Barradas Three, Commander?</td></tr>
 
-  GIUSTI
-     Minor hit on the port deflector. No damage.
-     They're running, sir. Their speed is warp eight
-     point seven and holding. I think they're at their
-     maximum.
+<tr id="L175"><td><a href="#L175">175</a></td><td>RIKER:  We were studying the ruins. It was a scientific expedition.</td></tr>
 
-  DATA
-     Take us to warp nine and pursue. Lock phasers on
-     target.
+<tr id="L176"><td><a href="#L176">176</a></td><td>BARAN:  Don't patronise me. Those ruins have been studied for centuries. There's nothing new to learn from them.</td></tr>
 
-  GIUSTI
-     Sir, we should be within phaser range in twenty
-     three seconds. Switching to long-range scanners.
-     Commander, the sensor image of that ship is
-     extremely weak. It's fading. The ship doesn't
-     register on the long-range sensors. I'm sorry,
-     sir. We've lost them.
+<tr id="L177"><td><a href="#L177">177</a></td><td>RIKER:  Then what were you doing there?</td></tr>
 
-  DATA
-     Increase the sensor field bandwidth. Patch in the
-     lateral sensor arrays.
+<tr id="L178"><td><a href="#L178">178</a></td><td>ANNOTATION: Baran presses a device on his belt, and a gizmo on Riker's neck sends him to his knees in pain</td></tr>
 
-  GIUSTI
-     It's no good, the signal's gone. It just
-     disappeared.
+<tr id="L179"><td><a href="#L179">179</a></td><td>BARAN:  Don't bother, Commander, you can't remove it. It's a neural servo connected directly to your nervous system. It lets me control precisely how much pain you feel. This setting is usually sufficient. However, if necessary, it can go much higher. These devices were the idea of my predecessor. It's a convenient way of enforcing discipline.</td></tr>
 
-  DATA
-     Plot a course and take us back to Barradas Three.
-     Notify the away team to prepare for transport.
+<tr id="L180"><td><a href="#L180">180</a></td><td>RIKER:  What happened to him?</td></tr>
 
-  GIUSTI
-     Aye, sir.
+<tr id="L181"><td><a href="#L181">181</a></td><td>BARAN:  He failed to enforce it with me.</td></tr>
 
+<tr id="L182"><td><a href="#L182">182</a></td><td>VEKOR:  (red-head female alien) This is a waste of time, Baran. Get rid of him now.</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L183"><td><a href="#L183">183</a></td><td>BARAN:  You should be more patient, Vekor. It might be rewarding. We will wait. Let the memory of his pain argue with him for a while. It might change his attitude.</td></tr>
 
-  DATA
-     Starfleet Intelligence confirms that a ship
-     matching this configuration has been linked to
-     raids on several other planets in this sector. For
-     the short time it was within our visual range, we
-     were able to take sensor readings of the mercenary
-     vessel. It appears to be encased in an energy
-     absorbing material. Although we can see the ship,
-     this energy sheath renders it virtually
-     undetectable to our long range sensors.
+<tr id="L184"><td><a href="#L184">184</a></td><td>ANNOTATION: the Romulan woman takes Riker out of the way</td></tr>
 
-  TROI
-     There must be some way we can track it.
+<tr id="L185"><td><a href="#L185">185</a></td><td>NARIK:  Vekor is right. We should get rid of him. It's dangerous to have someone from Starfleet on board.</td></tr>
 
-  LAFORGE
-     Data, I know this is a long shot, but if I
-     remodulate the long range sensor array, I might be
-     able to make it sensitive enough to detect the
-     ship.
+<tr id="L186"><td><a href="#L186">186</a></td><td>BARAN:  Dangerous? It might be profitable. A Starfleet Commander is a valuable hostage.</td></tr>
 
-  DATA
-     Without a full compositional analysis of the
-     energy sheath, the chances of finding the correct
-     remodulation sequence are remote.
+<tr id="L187"><td><a href="#L187">187</a></td><td>VEKOR:  Starfleet won't negotiate with us, but they'll pursue us as long as we have him.</td></tr>
 
-  WORF
-     Sir, they have taken Commander Riker. We must do
-     something. We cannot just sit here.
+<tr id="L188"><td><a href="#L188">188</a></td><td>ANNOTATION: she gets a zap of pain</td></tr>
 
-  DATA
-     On the contrary, Lieutenant. That is precisely
-     what we must do. Since there are no viable
-     alternatives, we will return to the surface and
-     attempt to determine what these mercenaries are
-     doing on this planet. An investigation might
-     reveal some indication of their purpose. Please
-     notify me when you have assembled your search
-     teams. Dismissed.
+<tr id="L189"><td><a href="#L189">189</a></td><td>BARAN:  This discussion is over. Get back to your post, Vekor.</td></tr>
 
-  ANNOTATION
-     Data sits back and steeples his fingers
+<tr id="L190"><td><a href="#L190">190</a></td><td>ANNOTATION: a smooth-headed human turns to face the camera</td></tr>
 
+<tr id="L191"><td><a href="#L191">191</a></td><td>PICARD:  They're right, Baran, and you know it. I say kill him. Now.</td></tr>
 
-LOCATION--Mercenary Bridge
+<tr id="L192"><td><a href="#L192">192</a></td><td>ANNOTATION: Riker looks round, aghast</td></tr>
 
-  BARAN
-     (vaguely leonine) What's the problem?
+<tr id="L193"><td><a href="#L193">193</a></td><td>PICARD:  If he has nothing to give us, we should kill him now and be done with it. Everyone seems to recognise that fact except you.</td></tr>
 
-  NARIK
-     (more spiky, Harper-esque) I warned you not to
-     push the engines so hard. Two of the power shunts
-     are on the verge of collapse. We'll be lucky if we
-     can maintain warp six.
+<tr id="L194"><td><a href="#L194">194</a></td><td>BARAN:  I don't need a consensus to run this ship, Galen.</td></tr>
 
-  BARAN
-     How long will it take to repair?
+<tr id="L195"><td><a href="#L195">195</a></td><td>ANNOTATION: the lights go down</td></tr>
 
-  NARIK
-     I can try to realign the warp core. It'll take at
-     least eleven hours, but I'll have to shut the
-     engines down completely.
+<tr id="L196"><td><a href="#L196">196</a></td><td>BARAN:  What's going on?</td></tr>
 
-  BARAN
-     We're not stopping. We can't afford to be sitting
-     helpless in space. I want warp eight available in
-     five hours, and I don't want to hear your excuses.
+<tr id="L197"><td><a href="#L197">197</a></td><td>NARIK:  I'm bypassing the aft plasma couplings. The power loss should only last for a few seconds.</td></tr>
 
-  ANNOTATION
-     Narik goes to his console
+<tr id="L198"><td><a href="#L198">198</a></td><td>BARAN:  You should learn not to limit your options. Riker could be very useful to us in the future.</td></tr>
 
-  BARAN
-     What were you doing on Barradas Three?
+<tr id="L199"><td><a href="#L199">199</a></td><td>PICARD:  He may not be as useful as you think, if this is the same Riker that I've heard about.</td></tr>
 
-  RIKER
-     William T. Riker, Commander, SC two three one dash
-     four two seven.
+<tr id="L200"><td><a href="#L200">200</a></td><td>RIKER:  And what Riker might that be?</td></tr>
 
-  BARAN
-     Oh really? Well, I am Arctus Baran and I don't
-     have a number. Now what were you doing on Barradas
-     Three, Commander?
+<tr id="L201"><td><a href="#L201">201</a></td><td>PICARD:  Commander of the Enterprise formerly assigned to the USS Hood.</td></tr>
 
-  RIKER
-     We were studying the ruins. It was a scientific
-     expedition.
+<tr id="L202"><td><a href="#L202">202</a></td><td>RIKER:  That's right.</td></tr>
 
-  BARAN
-     Don't patronise me. Those ruins have been studied
-     for centuries. There's nothing new to learn from
-     them.
+<tr id="L203"><td><a href="#L203">203</a></td><td>PICARD:  Then you must be the William T. Riker with a history of insubordination. He was even once relieved of duty, during the Cardassian incident at Minos Korva.</td></tr>
 
-  RIKER
-     Then what were you doing there?
+<tr id="L204"><td><a href="#L204">204</a></td><td>BARAN:  How do you know all this?</td></tr>
 
-  ANNOTATION
-     Baran presses a device on his belt, and a gizmo on
-     Riker's neck sends him to his knees in pain
+<tr id="L205"><td><a href="#L205">205</a></td><td>PICARD:  Look, I've been smuggling artefacts from Federation sites for years. You can't help developing a familiarity with certain Starfleet personnel. If we hadn't have captured him, he'd probably have ended up before a court martial.</td></tr>
 
-  BARAN
-     Don't bother, Commander, you can't remove it. It's
-     a neural servo connected directly to your nervous
-     system. It lets me control precisely how much pain
-     you feel. This setting is usually sufficient.
-     However, if necessary, it can go much higher.
-     These devices were the idea of my predecessor.
-     It's a convenient way of enforcing discipline.
+<tr id="L206"><td><a href="#L206">206</a></td><td>RIKER:  I've gotten out of them before.</td></tr>
 
-  RIKER
-     What happened to him?
+<tr id="L207"><td><a href="#L207">207</a></td><td>PICARD:  Look, he's no use to us. Finish him now. Let me do it for you.</td></tr>
 
-  BARAN
-     He failed to enforce it with me.
+<tr id="L208"><td><a href="#L208">208</a></td><td>ANNOTATION: the ship jerks and rushes into warp</td></tr>
 
-  VEKOR
-     (red-head female alien) This is a waste of time,
-     Baran. Get rid of him now.
+<tr id="L209"><td><a href="#L209">209</a></td><td>TALLERA:  (to another female) Watch him.</td></tr>
 
-  BARAN
-     You should be more patient, Vekor. It might be
-     rewarding. We will wait. Let the memory of his
-     pain argue with him for a while. It might change
-     his attitude.
+<tr id="L210"><td><a href="#L210">210</a></td><td>VEKOR:  We're accelerating.</td></tr>
 
-  ANNOTATION
-     the Romulan woman takes Riker out of the way
+<tr id="L211"><td><a href="#L211">211</a></td><td>BARAN:  What have you done?</td></tr>
 
-  NARIK
-     Vekor is right. We should get rid of him. It's
-     dangerous to have someone from Starfleet on board.
+<tr id="L212"><td><a href="#L212">212</a></td><td>NARIK:  It has nothing to do with my repairs. I think there's a malfunction in the engine's intermix chamber.</td></tr>
 
-  BARAN
-     Dangerous? It might be profitable. A Starfleet
-     Commander is a valuable hostage.
+<tr id="L213"><td><a href="#L213">213</a></td><td>TALLERA:  Plasma pressure is rising.</td></tr>
 
-  VEKOR
-     Starfleet won't negotiate with us, but they'll
-     pursue us as long as we have him.
+<tr id="L214"><td><a href="#L214">214</a></td><td>BARAN:  Where's the malfunction?</td></tr>
 
-  ANNOTATION
-     she gets a zap of pain
+<tr id="L215"><td><a href="#L215">215</a></td><td>NARIK:  It could be one of any thirty subsystems. It'll take time to locate.</td></tr>
 
-  BARAN
-     This discussion is over. Get back to your post,
-     Vekor.
+<tr id="L216"><td><a href="#L216">216</a></td><td>TALLERA:  I don't think you're going to have the chance. Plasma pressure has reached critical levels.</td></tr>
 
-  ANNOTATION
-     a smooth-headed human turns to face the camera
+<tr id="L217"><td><a href="#L217">217</a></td><td>BARAN:  Seal off the intermix chamber.</td></tr>
 
-  PICARD
-     They're right, Baran, and you know it. I say kill
-     him. Now.
+<tr id="L218"><td><a href="#L218">218</a></td><td>VEKOR:  I can't. The override sequence won't engage.</td></tr>
 
-  ANNOTATION
-     Riker looks round, aghast
+<tr id="L219"><td><a href="#L219">219</a></td><td>PICARD:  The antimatter flow regulator is locked open.</td></tr>
 
-  PICARD
-     If he has nothing to give us, we should kill him
-     now and be done with it. Everyone seems to
-     recognise that fact except you.
+<tr id="L220"><td><a href="#L220">220</a></td><td>TALLERA:  Logic subsystems still not responding.</td></tr>
 
-  BARAN
-     I don't need a consensus to run this ship, Galen.
+<tr id="L221"><td><a href="#L221">221</a></td><td>BARAN:  (pushing Picard aside) Get out of the way.</td></tr>
 
-  ANNOTATION
-     the lights go down
+<tr id="L222"><td><a href="#L222">222</a></td><td>TALLERA:  Plasma pressure has exceeded maximum levels. Eight percent above critical and rising.</td></tr>
 
-  BARAN
-     What's going on?
+<tr id="L223"><td><a href="#L223">223</a></td><td>NARIK:  We have to jettison the core.</td></tr>
 
-  NARIK
-     I'm bypassing the aft plasma couplings. The power
-     loss should only last for a few seconds.
+<tr id="L224"><td><a href="#L224">224</a></td><td>BARAN:  No, we'll be stranded here.</td></tr>
 
-  BARAN
-     You should learn not to limit your options. Riker
-     could be very useful to us in the future.
+<tr id="L225"><td><a href="#L225">225</a></td><td>PICARD:  The flow regulator is frozen.</td></tr>
 
-  PICARD
-     He may not be as useful as you think, if this is
-     the same Riker that I've heard about.
+<tr id="L226"><td><a href="#L226">226</a></td><td>RIKER:  Let me do it. I've had a lot of experience with this sort of system failures. I might be able to do something.</td></tr>
 
-  RIKER
-     And what Riker might that be?
+<tr id="L227"><td><a href="#L227">227</a></td><td>TALLERA:  Plasma pressure is eleven percent above critical. The containment fields are beginning to degrade.</td></tr>
 
-  PICARD
-     Commander of the Enterprise formerly assigned to
-     the USS Hood.
+<tr id="L228"><td><a href="#L228">228</a></td><td>BARAN:  Go!</td></tr>
 
-  RIKER
-     That's right.
+<tr id="L229"><td><a href="#L229">229</a></td><td>NARIK:  Flow regulator is not responding to manual override. Containment fields won't hold much longer.</td></tr>
 
-  PICARD
-     Then you must be the William T. Riker with a
-     history of insubordination. He was even once
-     relieved of duty, during the Cardassian incident
-     at Minos Korva.
+<tr id="L230"><td><a href="#L230">230</a></td><td>RIKER:  Looks like you've got a control logic lockout in your regulator subsystem. I'm going to attempt to run an active bypass through the plasma flow convertor. You, (Narik) start running phase-lock feedback through that regulator. I want about a six second delay.</td></tr>
 
-  BARAN
-     How do you know all this?
+<tr id="L231"><td><a href="#L231">231</a></td><td>NARIK:  What are you saying? I don't take orders from you.</td></tr>
 
-  PICARD
-     Look, I've been smuggling artefacts from
-     Federation sites for years. You can't help
-     developing a familiarity with certain Starfleet
-     personnel. If we hadn't have captured him, he'd
-     probably have ended up before a court martial.
+<tr id="L232"><td><a href="#L232">232</a></td><td>BARAN:  You do as he says.</td></tr>
 
-  RIKER
-     I've gotten out of them before.
+<tr id="L233"><td><a href="#L233">233</a></td><td>TALLERA:  Plasma pressure is fourteen percent above critical.</td></tr>
 
-  PICARD
-     Look, he's no use to us. Finish him now. Let me do
-     it for you.
+<tr id="L234"><td><a href="#L234">234</a></td><td>BARAN:  If you fail</td></tr>
 
-  ANNOTATION
-     the ship jerks and rushes into warp
+<tr id="L235"><td><a href="#L235">235</a></td><td>RIKER:  We'll all be dead anyway. Just need a few more seconds.</td></tr>
 
-  TALLERA
-     (to another female) Watch him.
+<tr id="L236"><td><a href="#L236">236</a></td><td>TALLERA:  Plasma pressure is dropping. We're back into safe levels.</td></tr>
 
-  VEKOR
-     We're accelerating.
+<tr id="L237"><td><a href="#L237">237</a></td><td>RIKER:  If you want to make sure that doesn't happen again, you'd better re-initiate your regulator sub-compressors. A full diagnostic of your intermix chamber wouldn't hurt either.</td></tr>
 
-  BARAN
-     What have you done?
+<tr id="L238"><td><a href="#L238">238</a></td><td>BARAN:  Do it. Put him in quarters for now.</td></tr>
 
-  NARIK
-     It has nothing to do with my repairs. I think
-     there's a malfunction in the engine's intermix
-     chamber.
+<tr id="L239"><td><a href="#L239">239</a></td><td>RIKER:  (to Picard) You still wish you'd killed me?</td></tr>
 
-  TALLERA
-     Plasma pressure is rising.
+<tr><td></td><td>LOCATION--Ruins</td></tr>
+<tr id="L240"><td><a href="#L240">240</a></td><td>WORF:  The search teams have reported in. They found several archaeological sites. Each one has been looted.</td></tr>
 
-  BARAN
-     Where's the malfunction?
+<tr id="L241"><td><a href="#L241">241</a></td><td>LAFORGE:  It's possible that the microcrystalline damage I found in these indentations was the result of some kind of high energy transporter beam but I still don't understand. There's nothing here that's particularly valuable. Why would anyone want to steal any of these things?</td></tr>
 
-  NARIK
-     It could be one of any thirty subsystems. It'll
-     take time to locate.
+<tr id="L242"><td><a href="#L242">242</a></td><td>DATA:  Perhaps these artefacts have a special value to the Romulans.</td></tr>
 
-  TALLERA
-     I don't think you're going to have the chance.
-     Plasma pressure has reached critical levels.
+<tr id="L243"><td><a href="#L243">243</a></td><td>WORF:  The Romulans?</td></tr>
 
-  BARAN
-     Seal off the intermix chamber.
+<tr id="L244"><td><a href="#L244">244</a></td><td>DATA:  These structures were built by the Debrune. That race is an ancient offshoot of the Romulans. The ruins on the planet where Captain Picard was killed were also Romulan in origin.</td></tr>
 
-  VEKOR
-     I can't. The override sequence won't engage.
+<tr id="L245"><td><a href="#L245">245</a></td><td>WORF:  The leader of the group that attacked us was Romulan. Perhaps they are controlling the mercenaries.</td></tr>
 
-  PICARD
-     The antimatter flow regulator is locked open.
+<tr id="L246"><td><a href="#L246">246</a></td><td>DATA:  The question remains, why are they stealing these artefacts?</td></tr>
 
-  TALLERA
-     Logic subsystems still not responding.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L247"><td><a href="#L247">247</a></td><td>DATA:  There are several archaeological sites in this sector containing ruins which are Romulan in origin. These are the locations that were attacked by the mercenary vessel.</td></tr>
 
-  BARAN
-     (pushing Picard aside) Get out of the way.
+<tr id="L248"><td><a href="#L248">248</a></td><td>LAFORGE:  Looks like they did a pretty thorough job.</td></tr>
 
-  TALLERA
-     Plasma pressure has exceeded maximum levels. Eight
-     percent above critical and rising.
+<tr id="L249"><td><a href="#L249">249</a></td><td>DATA:  The only sites not been attacked were on Calder Two, Yadalla Prime, and Draken Four.</td></tr>
 
-  NARIK
-     We have to jettison the core.
+<tr id="L250"><td><a href="#L250">250</a></td><td>LAFORGE:  Yadalla and Draken are at the far edge of the sector, but Calder Two? That's less than a day from here at maximum warp.</td></tr>
 
-  BARAN
-     No, we'll be stranded here.
+<tr id="L251"><td><a href="#L251">251</a></td><td>DATA:  That would be their next likely target.</td></tr>
 
-  PICARD
-     The flow regulator is frozen.
+<tr id="L252"><td><a href="#L252">252</a></td><td>LAFORGE:  According to this, there's a Federation outpost at Calder Two.</td></tr>
 
-  RIKER
-     Let me do it. I've had a lot of experience with
-     this sort of system failures. I might be able to
-     do something.
+<tr id="L253"><td><a href="#L253">253</a></td><td>DATA:  But it is only a small science station. It has limited defensive capabilities. I do not believe it could withstand an attack from the mercenary ship. Mister Worf. Send a message to the Federation outpost on Calder Two. Advise them that if a ship matching the mercenary vessel approaches, they should attempt to delay it until our arrival. Ensign, take us out of orbit. Set course for the Calder system. Warp nine.</td></tr>
 
-  TALLERA
-     Plasma pressure is eleven percent above critical.
-     The containment fields are beginning to degrade.
+<tr id="L254"><td><a href="#L254">254</a></td><td>ENSIGN:  (male) Aye, sir.</td></tr>
 
-  BARAN
-     Go!
+<tr><td></td><td>LOCATION--Riker's room</td></tr>
+<tr id="L255"><td><a href="#L255">255</a></td><td>PICARD:  We don't have much time. It's good to see you, Will. I didn't expect to meet you here.</td></tr>
 
-  NARIK
-     Flow regulator is not responding to manual
-     override. Containment fields won't hold much
-     longer.
+<tr id="L256"><td><a href="#L256">256</a></td><td>RIKER:  I was looking to find the people who killed you on the surface. A witness said they saw you vaporised.</td></tr>
 
-  RIKER
-     Looks like you've got a control logic lockout in
-     your regulator subsystem. I'm going to attempt to
-     run an active bypass through the plasma flow
-     convertor. You, (Narik) start running phase-lock
-     feedback through that regulator. I want about a
-     six second delay.
+<tr id="L257"><td><a href="#L257">257</a></td><td>PICARD:  These mercenaries use weapons that can activate their transporter. It gives them the opportunity to beam things quickly, just by firing at them. That's what they did to me.</td></tr>
 
-  NARIK
-     What are you saying? I don't take orders from you.
+<tr id="L258"><td><a href="#L258">258</a></td><td>RIKER:  I don't understand any of this. Who are these people? What are you doing involved with them?</td></tr>
 
-  BARAN
-     You do as he says.
+<tr id="L259"><td><a href="#L259">259</a></td><td>PICARD:  The site that I wanted to study had been raided. A lot of the artefacts had been stolen. The site had been practically destroyed. I wanted to find out who was responsible. I tracked them to that bar on Dessica Two. I must have asked too many questions. They captured me. They wanted to find out how much I knew about their operation.</td></tr>
 
-  TALLERA
-     Plasma pressure is fourteen percent above
-     critical.
+<tr id="L260"><td><a href="#L260">260</a></td><td>RIKER:  And then you became part of their crew?</td></tr>
 
-  BARAN
-     If you fail
+<tr id="L261"><td><a href="#L261">261</a></td><td>PICARD:  I convinced them I was a smuggler, and that my name was Galen. I offered to help them appraise the artefacts that they had stolen. Will, these aren't common thieves. They are stealing Romulan artefacts from archaeological sites throughout this sector. Baran has me analysing each one if them for a particular particle signature. Will, they are looking for a specific artefact.</td></tr>
 
-  RIKER
-     We'll all be dead anyway. Just need a few more
-     seconds.
+<tr id="L262"><td><a href="#L262">262</a></td><td>RIKER:  Why?</td></tr>
 
-  TALLERA
-     Plasma pressure is dropping. We're back into safe
-     levels.
+<tr id="L263"><td><a href="#L263">263</a></td><td>PICARD:  That's what we have to find out. Baran is the key. I think that he knows more about what we're really looking for than anyone else on this ship. I want you to get close to him. Try and get his confidence.</td></tr>
 
-  RIKER
-     If you want to make sure that doesn't happen
-     again, you'd better re-initiate your regulator
-     sub-compressors. A full diagnostic of your
-     intermix chamber wouldn't hurt either.
+<tr id="L264"><td><a href="#L264">264</a></td><td>RIKER:  That's why you set up the engine failure, because you knew that I'd be able to fix it.</td></tr>
 
-  BARAN
-     Do it. Put him in quarters for now.
+<tr id="L265"><td><a href="#L265">265</a></td><td>PICARD:  He also believes that you're a less than perfect Starfleet officer. Will, I want you to play into that role. Baran and I, well, he doesn't care very much for me, but he has to tolerate me because he needs my help with these artefacts. But if you and I become enemies, then there's a better chance of you and he becoming friends.</td></tr>
 
-  RIKER
-     (to Picard) You still wish you'd killed me?
+<tr id="L266"><td><a href="#L266">266</a></td><td>RIKER:  All right. I'll do what I can.</td></tr>
 
+<tr id="L267"><td><a href="#L267">267</a></td><td>ANNOTATION: Baran enters, Picard hits Riker</td></tr>
 
-LOCATION--Ruins
+<tr id="L268"><td><a href="#L268">268</a></td><td>BARAN:  What are you doing here?</td></tr>
 
-  WORF
-     The search teams have reported in. They found
-     several archaeological sites. Each one has been
-     looted.
+<tr id="L269"><td><a href="#L269">269</a></td><td>PICARD:  Getting some answers, because you can't get him to talk.</td></tr>
 
-  LAFORGE
-     It's possible that the microcrystalline damage I
-     found in these indentations was the result of some
-     kind of high energy transporter beam but I still
-     don't understand. There's nothing here that's
-     particularly valuable. Why would anyone want to
-     steal any of these things?
+<tr id="L270"><td><a href="#L270">270</a></td><td>ANNOTATION: Baran punishes Picard</td></tr>
 
-  DATA
-     Perhaps these artefacts have a special value to
-     the Romulans.
+<tr id="L271"><td><a href="#L271">271</a></td><td>BARAN:  No one conducts an interrogation on this ship without my permission. Is that understood?</td></tr>
 
-  WORF
-     The Romulans?
+<tr id="L272"><td><a href="#L272">272</a></td><td>ANNOTATION: Picard walks to the door, keeping eye contact with Baran all the time, and kicks Riker for good measure</td></tr>
 
-  DATA
-     These structures were built by the Debrune. That
-     race is an ancient offshoot of the Romulans. The
-     ruins on the planet where Captain Picard was
-     killed were also Romulan in origin.
+<tr><td></td><td>LOCATION--Mercenary Bridge</td></tr>
+<tr id="L273"><td><a href="#L273">273</a></td><td>BARAN:  Our next objective should prove an interesting challenge. We're headed for the Sakethan burial mounds on Calder Two.</td></tr>
 
-  WORF
-     The leader of the group that attacked us was
-     Romulan. Perhaps they are controlling the
-     mercenaries.
+<tr id="L274"><td><a href="#L274">274</a></td><td>PICARD:  What? Calder Two isn't just another archaeological site, you know. It's a Federation outpost there.</td></tr>
 
-  DATA
-     The question remains, why are they stealing these
-     artefacts?
+<tr id="L275"><td><a href="#L275">275</a></td><td>BARAN:  I don't see that as a problem.</td></tr>
 
+<tr id="L276"><td><a href="#L276">276</a></td><td>PICARD:  It's defended by Starfleet. You don't think they're just going to stand by while we walk in there and take whatever we want.</td></tr>
 
-LOCATION--Bridge
+<tr id="L277"><td><a href="#L277">277</a></td><td>BARAN:  I'm familiar with the tactical situation.</td></tr>
 
-  DATA
-     There are several archaeological sites in this
-     sector containing ruins which are Romulan in
-     origin. These are the locations that were attacked
-     by the mercenary vessel.
+<tr id="L278"><td><a href="#L278">278</a></td><td>VEKOR:  What are their defences?</td></tr>
 
-  LAFORGE
-     Looks like they did a pretty thorough job.
+<tr id="L279"><td><a href="#L279">279</a></td><td>BARAN:  Nothing to worry about. They have a type four deflector shield protecting the outpost and the ruins.</td></tr>
 
-  DATA
-     The only sites not been attacked were on Calder
-     Two, Yadalla Prime, and Draken Four.
+<tr id="L280"><td><a href="#L280">280</a></td><td>PICARD:  They also have a minimum of two phaser banks and possibly photon torpedoes. Is that enough to worry about?</td></tr>
 
-  LAFORGE
-     Yadalla and Draken are at the far edge of the
-     sector, but Calder Two? That's less than a day
-     from here at maximum warp.
+<tr id="L281"><td><a href="#L281">281</a></td><td>TALLERA:  How do you know so much about this outpost?</td></tr>
 
-  DATA
-     That would be their next likely target.
+<tr id="L282"><td><a href="#L282">282</a></td><td>PICARD:  Because I tried to smuggle a Sakethan glyph stone out of there nearly two years ago. I barely got away in one piece.</td></tr>
 
-  LAFORGE
-     According to this, there's a Federation outpost at
-     Calder Two.
+<tr id="L283"><td><a href="#L283">283</a></td><td>BARAN:  Our weapons are more than a match for their defences. I anticipate that we'll be able to destroy the outpost within fifteen minutes. Then we'll send in Tallera and the landing party to secure the relics.</td></tr>
 
-  DATA
-     But it is only a small science station. It has
-     limited defensive capabilities. I do not believe
-     it could withstand an attack from the mercenary
-     ship. Mister Worf. Send a message to the
-     Federation outpost on Calder Two. Advise them that
-     if a ship matching the mercenary vessel
-     approaches, they should attempt to delay it until
-     our arrival. Ensign, take us out of orbit. Set
-     course for the Calder system. Warp nine.
+<tr id="L284"><td><a href="#L284">284</a></td><td>PICARD:  Why don't we use Riker? He's a Starfleet Commander. He could talk us past the outpost security without raising their suspicions. Then when their shields go down, we can beam the artefacts up here without ever leaving the ship.</td></tr>
 
-  ENSIGN
-     (male) Aye, sir.
+<tr id="L285"><td><a href="#L285">285</a></td><td>VEKOR:  Why would Riker help us? Just because he's out of favour with Starfleet doesn't mean that he's ready to betray them.</td></tr>
 
+<tr id="L286"><td><a href="#L286">286</a></td><td>PICARD:  If he doesn't help us, we'll have to destroy the outpost and kill everyone on it. He's still a Starfleet officer. He won't want to take innocent lives if he can possibly prevent it.</td></tr>
 
-LOCATION--Riker's room
+<tr id="L287"><td><a href="#L287">287</a></td><td>TALLERA:  The last time we engaged Starfleet, we lost a man. We can't afford any more casualties. If we can avoid a battle, I think we should.</td></tr>
 
-  PICARD
-     We don't have much time. It's good to see you,
-     Will. I didn't expect to meet you here.
+<tr id="L288"><td><a href="#L288">288</a></td><td>BARAN:  All right, we'll try it. We'll be at Calder Two within five hours. You all know your duties. I want this ship prepared for battle, in case your plan doesn't work.</td></tr>
 
-  RIKER
-     I was looking to find the people who killed you on
-     the surface. A witness said they saw you
-     vaporised.
+<tr><td></td><td>LOCATION--Mercenary cargo hold</td></tr>
+<tr id="L289"><td><a href="#L289">289</a></td><td>ANNOTATION: Picard is scanning artefacts already in storage</td></tr>
 
-  PICARD
-     These mercenaries use weapons that can activate
-     their transporter. It gives them the opportunity
-     to beam things quickly, just by firing at them.
-     That's what they did to me.
+<tr id="L290"><td><a href="#L290">290</a></td><td>PICARD:  Computer, reset diagnostic for new sample, lot number four seven eight B. Access spectral analysis and begin scan, mode three.</td></tr>
 
-  RIKER
-     I don't understand any of this. Who are these
-     people? What are you doing involved with them?
+<tr id="L291"><td><a href="#L291">291</a></td><td>COMPUTER:  Scan complete. Terikon particle decay profile does not fall within specified reference range. Probability of match zero point zero four percent.</td></tr>
 
-  PICARD
-     The site that I wanted to study had been raided. A
-     lot of the artefacts had been stolen. The site had
-     been practically destroyed. I wanted to find out
-     who was responsible. I tracked them to that bar on
-     Dessica Two. I must have asked too many questions.
-     They captured me. They wanted to find out how much
-     I knew about their operation.
+<tr id="L292"><td><a href="#L292">292</a></td><td>PICARD:  Computer, reset diagnostic for new sample, lot number three six nine B.</td></tr>
 
-  RIKER
-     And then you became part of their crew?
+<tr id="L293"><td><a href="#L293">293</a></td><td>ANNOTATION: Tallera enters</td></tr>
 
-  PICARD
-     I convinced them I was a smuggler, and that my
-     name was Galen. I offered to help them appraise
-     the artefacts that they had stolen. Will, these
-     aren't common thieves. They are stealing Romulan
-     artefacts from archaeological sites throughout
-     this sector. Baran has me analysing each one if
-     them for a particular particle signature. Will,
-     they are looking for a specific artefact.
+<tr id="L294"><td><a href="#L294">294</a></td><td>PICARD:  Access spectral analysis, mode two, begin scan.</td></tr>
 
-  RIKER
-     Why?
+<tr id="L295"><td><a href="#L295">295</a></td><td>TALLERA:  Baran wants to see the analysis of the last lot. He thinks you're moving a little slowly.</td></tr>
 
-  PICARD
-     That's what we have to find out. Baran is the key.
-     I think that he knows more about what we're really
-     looking for than anyone else on this ship. I want
-     you to get close to him. Try and get his
-     confidence.
+<tr id="L296"><td><a href="#L296">296</a></td><td>PICARD:  You can tell Baran if he wants the analysis done faster, he can do it himself. If he wants it done correctly, he can wait.</td></tr>
 
-  RIKER
-     That's why you set up the engine failure, because
-     you knew that I'd be able to fix it.
+<tr id="L297"><td><a href="#L297">297</a></td><td>TALLERA:  Do you enjoy living dangerously, Galen? Baran can kill you in an instant if he activates his control device.</td></tr>
 
-  PICARD
-     He also believes that you're a less than perfect
-     Starfleet officer. Will, I want you to play into
-     that role. Baran and I, well, he doesn't care very
-     much for me, but he has to tolerate me because he
-     needs my help with these artefacts. But if you and
-     I become enemies, then there's a better chance of
-     you and he becoming friends.
+<tr id="L298"><td><a href="#L298">298</a></td><td>PICARD:  I doubt that he'll do that. I've increased the accuracy of the identification process by a factor of ten. I'm the best person to analyse these artefacts. Baran knows that.</td></tr>
 
-  RIKER
-     All right. I'll do what I can.
+<tr id="L299"><td><a href="#L299">299</a></td><td>TALLERA:  He may need you now, but I know Baran, and I can tell you he's not going to back down forever. You accomplish nothing by provoking him.</td></tr>
 
-  ANNOTATION
-     Baran enters, Picard hits Riker
+<tr id="L300"><td><a href="#L300">300</a></td><td>PICARD:  I don't like operating in the dark. If I knew what the point of this mission were, why I was analysing these relics.</td></tr>
 
-  BARAN
-     What are you doing here?
+<tr id="L301"><td><a href="#L301">301</a></td><td>TALLERA:  If Baran felt it were wise to let the crew know that, I'm sure he would have.</td></tr>
 
-  PICARD
-     Getting some answers, because you can't get him to
-     talk.
+<tr id="L302"><td><a href="#L302">302</a></td><td>PICARD:  Do you know what all this is about?</td></tr>
 
-  ANNOTATION
-     Baran punishes Picard
+<tr id="L303"><td><a href="#L303">303</a></td><td>TALLERA:  What Baran knows, I know.</td></tr>
 
-  BARAN
-     No one conducts an interrogation on this ship
-     without my permission. Is that understood?
+<tr id="L304"><td><a href="#L304">304</a></td><td>PICARD:  Then what's going on here. Why are we risking our lives taking these artefacts? Who wants them?</td></tr>
 
-  ANNOTATION
-     Picard walks to the door, keeping eye contact with
-     Baran all the time, and kicks Riker for good
-     measure
+<tr id="L305"><td><a href="#L305">305</a></td><td>TALLERA:  I see no reason to tell you anything, but you can rest assured I don't necessarily share everything I know with Baran, either. This conversation, for example, will stay between us.</td></tr>
 
+<tr id="L306"><td><a href="#L306">306</a></td><td>PICARD:  You can tell Baran every word that I've said. He knows that I don't think much of him as a leader.</td></tr>
 
-LOCATION--Mercenary Bridge
+<tr id="L307"><td><a href="#L307">307</a></td><td>TALLERA:  He's been in charge of this crew for a long time.</td></tr>
 
-  BARAN
-     Our next objective should prove an interesting
-     challenge. We're headed for the Sakethan burial
-     mounds on Calder Two.
+<tr id="L308"><td><a href="#L308">308</a></td><td>PICARD:  Baran wouldn't last five minutes as captain if he didn't have that control device. The crew follow him because they have no choice. Baran's power is based on fear and intimidation.</td></tr>
 
-  PICARD
-     What? Calder Two isn't just another archaeological
-     site, you know. It's a Federation outpost there.
+<tr id="L309"><td><a href="#L309">309</a></td><td>TALLERA:  That almost sounds like a prelude to mutiny.</td></tr>
 
-  BARAN
-     I don't see that as a problem.
+<tr id="L310"><td><a href="#L310">310</a></td><td>PICARD:  If someone were to challenge him, the rest of the crew would follow.</td></tr>
 
-  PICARD
-     It's defended by Starfleet. You don't think
-     they're just going to stand by while we walk in
-     there and take whatever we want.
+<tr id="L311"><td><a href="#L311">311</a></td><td>TALLERA:  I was right. You do like living dangerously. I like you, Galen. I can tolerate a lot from someone like you, but only to a point. I intend to complete this mission successfully and get what's been promised me. If it looks as though you're getting in the way of that, I'll deal with you myself.</td></tr>
 
-  BARAN
-     I'm familiar with the tactical situation.
+<tr><td></td><td>LOCATION--Mercenary Bridge</td></tr>
+<tr id="L312"><td><a href="#L312">312</a></td><td>SANDERS [on monitor]:  Commander, no one is allowed on the surface without prior authorisation from the Federation Science Council.</td></tr>
 
-  VEKOR
-     What are their defences?
+<tr id="L313"><td><a href="#L313">313</a></td><td>RIKER:  I'm aware of that, Lieutenant, but your outpost is in imminent danger of attack. I would like to station security personnel on the surface for your protection. Now, I'm ordering you to drop your shields.</td></tr>
 
-  BARAN
-     Nothing to worry about. They have a type four
-     deflector shield protecting the outpost and the
-     ruins.
+<tr id="L314"><td><a href="#L314">314</a></td><td>SANDERS:  I'm sorry, sir, but the regulations are very specific. I can't do it. If you'd like, you can remain in orbit until we contact the Science Council, but we're experiencing some communication difficulties right now, so that</td></tr>
 
-  PICARD
-     They also have a minimum of two phaser banks and
-     possibly photon torpedoes. Is that enough to worry
-     about?
+<tr id="L315"><td><a href="#L315">315</a></td><td>ANNOTATION: Baran cuts transmission</td></tr>
 
-  TALLERA
-     How do you know so much about this outpost?
+<tr id="L316"><td><a href="#L316">316</a></td><td>BARAN:  This isn't working. They're delaying on purpose. Someone has warned them. Charge main disruptor array. Destroy the outpost.</td></tr>
 
-  PICARD
-     Because I tried to smuggle a Sakethan glyph stone
-     out of there nearly two years ago. I barely got
-     away in one piece.
+<tr id="L317"><td><a href="#L317">317</a></td><td>ANNOTATION: Picard leaps across and knocks Vekor from her console</td></tr>
 
-  BARAN
-     Our weapons are more than a match for their
-     defences. I anticipate that we'll be able to
-     destroy the outpost within fifteen minutes. Then
-     we'll send in Tallera and the landing party to
-     secure the relics.
+<tr id="L318"><td><a href="#L318">318</a></td><td>PICARD:  No, there's no time for that! Starfleet will be here any minute.</td></tr>
 
-  PICARD
-     Why don't we use Riker? He's a Starfleet
-     Commander. He could talk us past the outpost
-     security without raising their suspicions. Then
-     when their shields go down, we can beam the
-     artefacts up here without ever leaving the ship.
+<tr id="L319"><td><a href="#L319">319</a></td><td>BARAN:  What are you doing?</td></tr>
 
-  VEKOR
-     Why would Riker help us? Just because he's out of
-     favour with Starfleet doesn't mean that he's ready
-     to betray them.
+<tr id="L320"><td><a href="#L320">320</a></td><td>PICARD:  I'm configuring the disruptors to fire a phase resonant pulse. If I can hit their shield generator with precisely the right frequency, I should be able to take it out with one shot. Firing. Their shields are down.</td></tr>
 
-  PICARD
-     If he doesn't help us, we'll have to destroy the
-     outpost and kill everyone on it. He's still a
-     Starfleet officer. He won't want to take innocent
-     lives if he can possibly prevent it.
+<tr id="L321"><td><a href="#L321">321</a></td><td>BARAN:  The artefacts should be located in several small structures arranged in staggered formations.</td></tr>
 
-  TALLERA
-     The last time we engaged Starfleet, we lost a man.
-     We can't afford any more casualties. If we can
-     avoid a battle, I think we should.
+<tr id="L322"><td><a href="#L322">322</a></td><td>TALLERA:  I'm scanning. I think I've found them.</td></tr>
 
-  BARAN
-     All right, we'll try it. We'll be at Calder Two
-     within five hours. You all know your duties. I
-     want this ship prepared for battle, in case your
-     plan doesn't work.
+<tr id="L323"><td><a href="#L323">323</a></td><td>BARAN:  Lock coordinates and start bringing them up.</td></tr>
 
+<tr id="L324"><td><a href="#L324">324</a></td><td>ANNOTATION: some pieces of broken pottery arrive on the pad</td></tr>
 
-LOCATION--Mercenary cargo hold
+<tr id="L325"><td><a href="#L325">325</a></td><td>BARAN:  There should be at least two more pieces down there.</td></tr>
 
-  ANNOTATION
-     Picard is scanning artefacts already in storage
+<tr id="L326"><td><a href="#L326">326</a></td><td>TALLERA:  I've lost transporter lock.</td></tr>
 
-  PICARD
-     Computer, reset diagnostic for new sample, lot
-     number four seven eight B. Access spectral
-     analysis and begin scan, mode three.
+<tr id="L327"><td><a href="#L327">327</a></td><td>PICARD:  They managed to get their shields back up.</td></tr>
 
-  COMPUTER
-     Scan complete. Terikon particle decay profile does
-     not fall within specified reference range.
-     Probability of match zero point zero four percent.
+<tr id="L328"><td><a href="#L328">328</a></td><td>BARAN:  I need those artefacts. Lock all disruptors on target. This time I want that outpost destroyed.</td></tr>
 
-  PICARD
-     Computer, reset diagnostic for new sample, lot
-     number three six nine B.
+<tr id="L329"><td><a href="#L329">329</a></td><td>ANNOTATION: they are hit by weapons fire</td></tr>
 
-  ANNOTATION
-     Tallera enters
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L330"><td><a href="#L330">330</a></td><td>WORF:  Direct hit on their aft deflectors. They are undamaged.</td></tr>
 
-  PICARD
-     Access spectral analysis, mode two, begin scan.
+<tr id="L331"><td><a href="#L331">331</a></td><td>DATA:  Ensign, scan for Starfleet combadge signals. Is Commander Riker aboard that ship?</td></tr>
 
-  TALLERA
-     Baran wants to see the analysis of the last lot.
-     He thinks you're moving a little slowly.
+<tr id="L332"><td><a href="#L332">332</a></td><td>GIUSTI:  I can't tell, sir. Sensors are unable to penetrate their hull.</td></tr>
 
-  PICARD
-     You can tell Baran if he wants the analysis done
-     faster, he can do it himself. If he wants it done
-     correctly, he can wait.
+<tr id="L333"><td><a href="#L333">333</a></td><td>DATA:  Open a channel.</td></tr>
 
-  TALLERA
-     Do you enjoy living dangerously, Galen? Baran can
-     kill you in an instant if he activates his control
-     device.
+<tr id="L334"><td><a href="#L334">334</a></td><td>WORF:  Open.</td></tr>
 
-  PICARD
-     I doubt that he'll do that. I've increased the
-     accuracy of the identification process by a factor
-     of ten. I'm the best person to analyse these
-     artefacts. Baran knows that.
+<tr id="L335"><td><a href="#L335">335</a></td><td>DATA:  This is the Federation Starship Enterprise. You are ordered to stand down.</td></tr>
 
-  TALLERA
-     He may need you now, but I know Baran, and I can
-     tell you he's not going to back down forever. You
-     accomplish nothing by provoking him.
+<tr><td></td><td>LOCATION--Mercenary Bridge</td></tr>
+<tr id="L336"><td><a href="#L336">336</a></td><td>DATA [OC]:  Drop your shields and prepare to be boarded.</td></tr>
 
-  PICARD
-     I don't like operating in the dark. If I knew what
-     the point of this mission were, why I was
-     analysing these relics.
+<tr id="L337"><td><a href="#L337">337</a></td><td>BARAN:  You sent them a message. You told them where to find us.</td></tr>
 
-  TALLERA
-     If Baran felt it were wise to let the crew know
-     that, I'm sure he would have.
+<tr id="L338"><td><a href="#L338">338</a></td><td>RIKER:  That's ridiculous. When did I have a chance?</td></tr>
 
-  PICARD
-     Do you know what all this is about?
+<tr id="L339"><td><a href="#L339">339</a></td><td>BARAN:  This is set to kill. Order your ship to disengage. Activate visual.</td></tr>
 
-  TALLERA
-     What Baran knows, I know.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L340"><td><a href="#L340">340</a></td><td>DATA:  Commander. Are you all right?</td></tr>
 
-  PICARD
-     Then what's going on here. Why are we risking our
-     lives taking these artefacts? Who wants them?
+<tr><td></td><td>LOCATION--Mercenary Bridge</td></tr>
+<tr id="L341"><td><a href="#L341">341</a></td><td>BARAN:  Tell him!</td></tr>
 
-  TALLERA
-     I see no reason to tell you anything, but you can
-     rest assured I don't necessarily share everything
-     I know with Baran, either. This conversation, for
-     example, will stay between us.
+<tr id="L342"><td><a href="#L342">342</a></td><td>RIKER:  Mister Data, withdraw the Enterprise. That's an order.</td></tr>
 
-  PICARD
-     You can tell Baran every word that I've said. He
-     knows that I don't think much of him as a leader.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L343"><td><a href="#L343">343</a></td><td>DATA:  That is impossible, sir. The ship you are on has violated a Federation outpost. It is my duty to stop it.</td></tr>
 
-  TALLERA
-     He's been in charge of this crew for a long time.
+<tr id="L344"><td><a href="#L344">344</a></td><td>RIKER [on viewscreen]:  I'm your commanding officer. I'm giving you a direct order. Understood?</td></tr>
 
-  PICARD
-     Baran wouldn't last five minutes as captain if he
-     didn't have that control device. The crew follow
-     him because they have no choice. Baran's power is
-     based on fear and intimidation.
+<tr id="L345"><td><a href="#L345">345</a></td><td>DATA:  Commander, if you could explain</td></tr>
 
-  TALLERA
-     That almost sounds like a prelude to mutiny.
+<tr><td></td><td>LOCATION--Mercenary Bridge</td></tr>
+<tr id="L346"><td><a href="#L346">346</a></td><td>RIKER:  I've never explained my orders before. I'm not about to start now.</td></tr>
 
-  PICARD
-     If someone were to challenge him, the rest of the
-     crew would follow.
+<tr id="L347"><td><a href="#L347">347</a></td><td>ANNOTATION: ends transmission</td></tr>
 
-  TALLERA
-     I was right. You do like living dangerously. I
-     like you, Galen. I can tolerate a lot from someone
-     like you, but only to a point. I intend to
-     complete this mission successfully and get what's
-     been promised me. If it looks as though you're
-     getting in the way of that, I'll deal with you
-     myself.
+<tr id="L348"><td><a href="#L348">348</a></td><td>RIKER:  I won't let him blow this ship into space. If I can set up a low level comm. link between the two ships, I can use my personal command codes. I can deactivate the shields.</td></tr>
 
+<tr id="L349"><td><a href="#L349">349</a></td><td>BARAN:  Do it.</td></tr>
 
-LOCATION--Mercenary Bridge
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L350"><td><a href="#L350">350</a></td><td>WORF:  Commander, we are receiving some kind of signal from the mercenary ship. These are Commander Riker's access codes. He is attempting to shut down our shields.</td></tr>
 
-  SANDERS [on monitor]
-     Commander, no one is allowed on the surface
-     without prior authorisation from the Federation
-     Science Council.
+<tr id="L351"><td><a href="#L351">351</a></td><td>TROI:  That doesn't make any sense. He knows those codes would have been changed as soon as he was captured.</td></tr>
 
-  RIKER
-     I'm aware of that, Lieutenant, but your outpost is
-     in imminent danger of attack. I would like to
-     station security personnel on the surface for your
-     protection. Now, I'm ordering you to drop your
-     shields.
+<tr id="L352"><td><a href="#L352">352</a></td><td>DATA:  That is correct, Counsellor. He does know. Mister Worf, prepare to drop the shields.</td></tr>
 
-  SANDERS
-     I'm sorry, sir, but the regulations are very
-     specific. I can't do it. If you'd like, you can
-     remain in orbit until we contact the Science
-     Council, but we're experiencing some communication
-     difficulties right now, so that
+<tr id="L353"><td><a href="#L353">353</a></td><td>WORF:  Sir, we would be totally defenceless.</td></tr>
 
-  ANNOTATION
-     Baran cuts transmission
+<tr id="L354"><td><a href="#L354">354</a></td><td>DATA:  I am aware of that.</td></tr>
 
-  BARAN
-     This isn't working. They're delaying on purpose.
-     Someone has warned them. Charge main disruptor
-     array. Destroy the outpost.
+<tr id="L355"><td><a href="#L355">355</a></td><td>WORF:  Sir, as soon as they see</td></tr>
 
-  ANNOTATION
-     Picard leaps across and knocks Vekor from her
-     console
+<tr id="L356"><td><a href="#L356">356</a></td><td>DATA:  Mister Worf, that is an order.</td></tr>
 
-  PICARD
-     No, there's no time for that! Starfleet will be
-     here any minute.
+<tr id="L357"><td><a href="#L357">357</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  BARAN
-     What are you doing?
+<tr><td></td><td>LOCATION--Mercenary Bridge</td></tr>
+<tr id="L358"><td><a href="#L358">358</a></td><td>RIKER:  It worked. The shields are dropping.</td></tr>
 
-  PICARD
-     I'm configuring the disruptors to fire a phase
-     resonant pulse. If I can hit their shield
-     generator with precisely the right frequency, I
-     should be able to take it out with one shot.
-     Firing. Their shields are down.
+<tr id="L359"><td><a href="#L359">359</a></td><td>BARAN:  Fire.</td></tr>
 
-  BARAN
-     The artefacts should be located in several small
-     structures arranged in staggered formations.
+<tr id="L360"><td><a href="#L360">360</a></td><td>ANNOTATION: Picard presses a red button and two red beams repeatedly strike the Enterprise's starboard nacelle</td></tr>
 
-  TALLERA
-     I'm scanning. I think I've found them.
+<tr id="L361"><td><a href="#L361">361</a></td><td>SOMEONE: To Be Continued...</td></tr>
 
-  BARAN
-     Lock coordinates and start bringing them up.
-
-  ANNOTATION
-     some pieces of broken pottery arrive on the pad
-
-  BARAN
-     There should be at least two more pieces down
-     there.
-
-  TALLERA
-     I've lost transporter lock.
-
-  PICARD
-     They managed to get their shields back up.
-
-  BARAN
-     I need those artefacts. Lock all disruptors on
-     target. This time I want that outpost destroyed.
-
-  ANNOTATION
-     they are hit by weapons fire
-
-
-LOCATION--Bridge
-
-  WORF
-     Direct hit on their aft deflectors. They are
-     undamaged.
-
-  DATA
-     Ensign, scan for Starfleet combadge signals. Is
-     Commander Riker aboard that ship?
-
-  GIUSTI
-     I can't tell, sir. Sensors are unable to penetrate
-     their hull.
-
-  DATA
-     Open a channel.
-
-  WORF
-     Open.
-
-  DATA
-     This is the Federation Starship Enterprise. You
-     are ordered to stand down.
-
-
-LOCATION--Mercenary Bridge
-
-  DATA [OC]
-     Drop your shields and prepare to be boarded.
-
-  BARAN
-     You sent them a message. You told them where to
-     find us.
-
-  RIKER
-     That's ridiculous. When did I have a chance?
-
-  BARAN
-     This is set to kill. Order your ship to disengage.
-     Activate visual.
-
-
-LOCATION--Bridge
-
-  DATA
-     Commander. Are you all right?
-
-
-LOCATION--Mercenary Bridge
-
-  BARAN
-     Tell him!
-
-  RIKER
-     Mister Data, withdraw the Enterprise. That's an
-     order.
-
-
-LOCATION--Bridge
-
-  DATA
-     That is impossible, sir. The ship you are on has
-     violated a Federation outpost. It is my duty to
-     stop it.
-
-  RIKER [on viewscreen]
-     I'm your commanding officer. I'm giving you a
-     direct order. Understood?
-
-  DATA
-     Commander, if you could explain
-
-
-LOCATION--Mercenary Bridge
-
-  RIKER
-     I've never explained my orders before. I'm not
-     about to start now.
-
-  ANNOTATION
-     ends transmission
-
-  RIKER
-     I won't let him blow this ship into space. If I
-     can set up a low level comm. link between the two
-     ships, I can use my personal command codes. I can
-     deactivate the shields.
-
-  BARAN
-     Do it.
-
-
-LOCATION--Bridge
-
-  WORF
-     Commander, we are receiving some kind of signal
-     from the mercenary ship. These are Commander
-     Riker's access codes. He is attempting to shut
-     down our shields.
-
-  TROI
-     That doesn't make any sense. He knows those codes
-     would have been changed as soon as he was
-     captured.
-
-  DATA
-     That is correct, Counsellor. He does know. Mister
-     Worf, prepare to drop the shields.
-
-  WORF
-     Sir, we would be totally defenceless.
-
-  DATA
-     I am aware of that.
-
-  WORF
-     Sir, as soon as they see
-
-  DATA
-     Mister Worf, that is an order.
-
-  WORF
-     Aye, sir.
-
-
-LOCATION--Mercenary Bridge
-
-  RIKER
-     It worked. The shields are dropping.
-
-  BARAN
-     Fire.
-
-  ANNOTATION
-     Picard presses a red button and two red beams
-     repeatedly strike the Enterprise's starboard
-     nacelle
-
-  SOMEONE
-     To Be Continued...
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

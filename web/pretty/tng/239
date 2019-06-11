@@ -1,1468 +1,708 @@
-Aquiel
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Aquiel</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Relay Station ops</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: an away team arrives to investigate</td></tr>
 
-LOCATION--Relay Station ops
+<tr id="L2"><td><a href="#L2">2</a></td><td>CRUSHER:  What's that noise?</td></tr>
 
-  ANNOTATION
-     an away team arrives to investigate
+<tr id="L3"><td><a href="#L3">3</a></td><td>LAFORGE:  They must've left an audio monitoring system on. We're hearing a few thousand subspace messages. I'll try and shut it off. Got it.</td></tr>
 
-  CRUSHER
-     What's that noise?
+<tr id="L4"><td><a href="#L4">4</a></td><td>ANNOTATION: peace descends, revealing a banging sound</td></tr>
 
-  LAFORGE
-     They must've left an audio monitoring system on.
-     We're hearing a few thousand subspace messages.
-     I'll try and shut it off. Got it.
+<tr id="L5"><td><a href="#L5">5</a></td><td>RIKER:  Geordi, what's that?</td></tr>
 
-  ANNOTATION
-     peace descends, revealing a banging sound
+<tr id="L6"><td><a href="#L6">6</a></td><td>LAFORGE:  I don't know. Sounds like a loose panel or something. I think it's coming from this service duct over here.</td></tr>
 
-  RIKER
-     Geordi, what's that?
+<tr id="L7"><td><a href="#L7">7</a></td><td>ANNOTATION: he pulls a piece of equipment away from the wall to reveal</td></tr>
 
-  LAFORGE
-     I don't know. Sounds like a loose panel or
-     something. I think it's coming from this service
-     duct over here.
+<tr id="L8"><td><a href="#L8">8</a></td><td>RIKER:  Here's your loose panel.</td></tr>
 
-  ANNOTATION
-     he pulls a piece of equipment away from the wall
-     to reveal
+<tr id="L9"><td><a href="#L9">9</a></td><td>ANNOTATION: the sound is of a wagging tail hitting the metal. woof!</td></tr>
 
-  RIKER
-     Here's your loose panel.
+<tr id="L10"><td><a href="#L10">10</a></td><td>LAFORGE:  Hey, pooch. hey, pooch, come on out of there. Come on. Come on. Hey, pooch, what are you doing in there?</td></tr>
 
-  ANNOTATION
-     the sound is of a wagging tail hitting the metal.
-     woof!
+<tr id="L11"><td><a href="#L11">11</a></td><td>WORF:  Commander, the shuttlecraft is gone. There is no one on board.</td></tr>
 
-  LAFORGE
-     Hey, pooch. hey, pooch, come on out of there. Come
-     on. Come on. Hey, pooch, what are you doing in
-     there?
+<tr id="L12"><td><a href="#L12">12</a></td><td>CRUSHER:  Commander?</td></tr>
 
-  WORF
-     Commander, the shuttlecraft is gone. There is no
-     one on board.
+<tr id="L13"><td><a href="#L13">13</a></td><td>RIKER:  What is it?</td></tr>
 
-  CRUSHER
-     Commander?
+<tr id="L14"><td><a href="#L14">14</a></td><td>CRUSHER:  Cellular residue. I believe these are the remains of one of our lieutenants.</td></tr>
 
-  RIKER
-     What is it?
+<tr id="L15"><td><a href="#L15">15</a></td><td>ANNOTATION: Worf is cutting the deck plate out with his phaser</td></tr>
 
-  CRUSHER
-     Cellular residue. I believe these are the remains
-     of one of our lieutenants.
+<tr id="L16"><td><a href="#L16">16</a></td><td>CRUSHER:  All of the blood traces I found match those of Lieutenant Aquiel Uhnari. I'll assume those are her remains but I'll need to take the deck plate back to Sickbay just to be sure.</td></tr>
 
-  ANNOTATION
-     Worf is cutting the deck plate out with his phaser
+<tr id="L17"><td><a href="#L17">17</a></td><td>RIKER:  It would take a powerful weapon to do that.</td></tr>
 
-  CRUSHER
-     All of the blood traces I found match those of
-     Lieutenant Aquiel Uhnari. I'll assume those are
-     her remains but I'll need to take the deck plate
-     back to Sickbay just to be sure.
+<tr id="L18"><td><a href="#L18">18</a></td><td>CRUSHER:  I'll have a better idea once I've analysed the deck plate.</td></tr>
 
-  RIKER
-     It would take a powerful weapon to do that.
+<tr id="L19"><td><a href="#L19">19</a></td><td>RIKER:  If that is Uhnari, where's Rocha?</td></tr>
 
-  CRUSHER
-     I'll have a better idea once I've analysed the
-     deck plate.
+<tr id="L20"><td><a href="#L20">20</a></td><td>CRUSHER:  The station's shuttle's gone. Maybe he took it.</td></tr>
 
-  RIKER
-     If that is Uhnari, where's Rocha?
+<tr id="L21"><td><a href="#L21">21</a></td><td>RIKER:  Before Uhnari died or after?</td></tr>
 
-  CRUSHER
-     The station's shuttle's gone. Maybe he took it.
+<tr id="L22"><td><a href="#L22">22</a></td><td>WORF:  We're ready, Commander.</td></tr>
 
-  RIKER
-     Before Uhnari died or after?
+<tr id="L23"><td><a href="#L23">23</a></td><td>RIKER:  Did you have any luck downloading the station logs?</td></tr>
 
-  WORF
-     We're ready, Commander.
+<tr id="L24"><td><a href="#L24">24</a></td><td>LAFORGE:  Not yet. I can't get past these security lock-outs, and I think I know why. All encrypted subspace messages are sent through this channel. Take a look at this signal notation.</td></tr>
 
-  RIKER
-     Did you have any luck downloading the station
-     logs?
+<tr id="L25"><td><a href="#L25">25</a></td><td>RIKER:  It's out of sequence.</td></tr>
 
-  LAFORGE
-     Not yet. I can't get past these security
-     lock-outs, and I think I know why. All encrypted
-     subspace messages are sent through this channel.
-     Take a look at this signal notation.
+<tr id="L26"><td><a href="#L26">26</a></td><td>LAFORGE:  Looks like somebody tried to by pass the access protocols and break into the coded messages. It caused the security lockouts to freeze right up.</td></tr>
 
-  RIKER
-     It's out of sequence.
+<tr id="L27"><td><a href="#L27">27</a></td><td>RIKER:  Are there any messages missing?</td></tr>
 
-  LAFORGE
-     Looks like somebody tried to by pass the access
-     protocols and break into the coded messages. It
-     caused the security lockouts to freeze right up.
-
-  RIKER
-     Are there any messages missing?
-
-  LAFORGE
-     I won't know until I get into the files.
+<tr id="L28"><td><a href="#L28">28</a></td><td>LAFORGE:  I won't know until I get into the files.</td></tr>
 
-  RIKER
-     Looks like you've made a friend.
+<tr id="L29"><td><a href="#L29">29</a></td><td>RIKER:  Looks like you've made a friend.</td></tr>
 
-  LAFORGE
-     Yeah.
-
-  RIKER
-     We're going to back to the ship. Let me know as
-     soon as you have something.
-
-  LAFORGE
-     I'm going to try accessing the logs from another
-     console.
-
-  ANNOTATION
-     he and the dog go into an adjoining room where a
-     monitor is displaying static
-
-
-LOCATION--Aquiel's quarters
-
-  ANNOTATION
-     the monitor screen is all static
-
-  LAFORGE
-     What's going on here? Well, we can start with
-     repolarising the interface.
+<tr id="L30"><td><a href="#L30">30</a></td><td>LAFORGE:  Yeah.</td></tr>
 
-  ANNOTATION
-     woof! The dog is on a bed. There is a display
-     stand with a few items on it
+<tr id="L31"><td><a href="#L31">31</a></td><td>RIKER:  We're going to back to the ship. Let me know as soon as you have something.</td></tr>
 
-  LAFORGE
-     What is it, pup? What's the matter? Something over
-     here? (a curved gold thing with blue stones) This
-     doesn't look like it belongs to you. Ah, This what
-     you want, huh? (a bone-shaped chew) There you go.
-     Computer, run station logs in sequence.
+<tr id="L32"><td><a href="#L32">32</a></td><td>LAFORGE:  I'm going to try accessing the logs from another console.</td></tr>
 
-  AQUIEL [OC]
-     Station log, stardate 46458.3. Today we configured
-     the relay controller grid. It was the last primary
-     system we had to overhaul. We are scheduled to
-     recalibrate and align the antennae systems in the
-     next three days.
-
-  LAFORGE
-     Computer, access visual output.
-
-  AQUIEL [OC]
-     Sent in my third request for a message delay
-     buffer. Until it arrives, Lieutenant Rocha and I
-     have rigged a memory module to compensate. It
-     better work, or about a half million subspace
-     messages are going to end up drifting through
-     space. Computer, open Uhnari correspondence file.
+<tr id="L33"><td><a href="#L33">33</a></td><td>ANNOTATION: he and the dog go into an adjoining room where a monitor is displaying static</td></tr>
 
-  LAFORGE
-     Computer, access correspondence files, Lieutenant
-     Aquiel Uhnari.
+<tr><td></td><td>LOCATION--Aquiel's quarters</td></tr>
+<tr id="L34"><td><a href="#L34">34</a></td><td>ANNOTATION: the monitor screen is all static</td></tr>
 
-  AQUIEL [OC]
-     Hello, Shiana. Sorry I haven't talked to you in a
-     while but I've been dealing with the new
-     Lieutenant, Rocha. So far he's been rude, arrogant
-     and condescending, and he's only been here two
-     days. This might be a long year.
-
-  LAFORGE
-     Come on, Lieutenant. Stick with me.
-
-  AQUIEL [OC]
-     I had the dream again. Mother's calling out my
-     name. She's somewhere in the house. I get to the
-     top of the hill all right, but then the house is
-     slanted. I'm still walking uphill. I can't find
-     her. Doors everywhere and they all look the same.
-
-
-LOCATION--Sickbay
-
-  CRUSHER
-     The cellular residue is completely fused with to
-     metal of the deck plate. We're trying to
-     micro-vaporise the metal in order to get a clear
-     DNA sample.
-
-  PICARD
-     Do you have any idea what killed her?
-
-  CRUSHER
-     Well this is just a guess, but from the molecular
-     deposition on the plating I'd say it was a
-     high-level phaser blast.
-
-  RIKER
-     Could it have been a Klingon disruptor?
-
-  CRUSHER
-     Possibly.
-
-  RIKER
-     Geordi's found evidence that the encrypted
-     messages have been tampered with, and we are close
-     to Klingon space.
-
-  PICARD
-     There hasn't been a Klingon raid against the
-     Federation for more than seven years. We can't
-     risk a diplomatic incident until we have more
-     evidence.
-
-  CRUSHER
-     And there's still the question of what happened to
-     Lieutenant Rocha.
-
-  PICARD
-     Get Rocha's personnel file from Starfleet Command,
-     and ask Starbase two twelve to help us find that
-     shuttle.
-
-  RIKER
-     Aye, sir.
-
-  PICARD
-     Keep me apprised, Doctor.
-
-
-LOCATION--Aquiel's quarters
-
-  ANNOTATION
-     the monitor screen is still stubbornly displaying
-     static
-
-  LAFORGE
-     All right, let's try this again. Come on, this
-     should be working. The phase inducters are
-     aligned. Come on, Lieutenant, I know you're in
-     here somewhere. Computer me run a subsystem
-     diagnostic, with a frequency range of ten to one
-     hundred megahertz.
-
-  COMPUTER
-     Diagnostic cycle will be complete in twenty
-     seconds.
-
-  LAFORGE
-     Iced coffee?
-
-  ANNOTATION
-     the replicator produces his drink and the dog
-     barks
-
-  LAFORGE
-     What is it, girl?
-
-  ANNOTATION
-     he's finally got an image - of a young
-     dark-skinned alien woman
-
-  AQUIEL [on monitor]
-     Hello, Shiana. By the time you get this the
-     Batarael will be over. This is the first time I
-     haven't been there. I've been wondering, who's
-     singing the Horath in my place. (sings) Jomiael
-     hahnalia ma marou nitalia. Rumael tavariel fatra
-     di va Jomiael. (next letter) I had that dream
-     again. The one where Mother is screaming. I climb
-     the hill to our house but I can't get to her.
-     Shiana, this time I ran away. I was so scared I
-     ran back down the hill. I think I know why I've
-     been having the dreams about danger. It's because
-     of what's been happening with that Klingon. He's
-     getting more aggressive all the time. Not just the
-     usual threat.
-
-  ANNOTATION
-     Geordi rewinds the message
-
-  AQUIEL [on monitor]
-     It's because of what's been happening with that
-     Klingon. He's getting more aggressive all the
-     time. Not just the usual threat. Morag actually
-     locked his disruptors to the station this time. I
-     don't think there'll be any trouble. It just
-     brings up those feelings of panic, of wanting to
-     run, wanting to get away from danger. Shiana, I
-     couldn't say this to anyone but you, but the
-     panic? It's the same thing I used to feel whenever
-     Father got angry, when I knew he was going to
-     punish me. Only now, I'm out here in space, and
-     there's no place to run.
-
-
-LOCATION--Ready room
-
-  LAFORGE
-     There are three references to a Commander Morag, a
-     Klingon officer who patrols this section of the
-     border. Apparently he would pass the station every
-     few days and harass them.
-
-  PICARD
-     Perhaps this Morag was the one who was interested
-     in obtaining the encrypted messages.
-
-  LAFORGE
-     Could be. She didn't say. But I do have several
-     more days of logs left to watch. I'm hoping to
-     learn more.
-
-  PICARD
-     Very well. In the meantime, I'll speak with the
-     Klingon Governor about Commander Morag.
-
-
-LOCATION--Bridge
-
-  TORAK [on viewscreen]
-     Are you saying we attacked your outpost?
-
-  PICARD
-     I'm merely saying that I'm following up on
-     evidence that my officers discovered on board.
-
-  TORAK [on viewscreen]
-     Evidence. So you are making an accusation. The
-     Klingon Empire will not stand for these kinds of
-     lies.
-
-  PICARD
-     Governor Torak, I apologise. I can see that you
-     honestly didn't know what happened aboard the
-     station. I will just have to take this matter up
-     with Gowron. I'm really sorry that we bothered
-     you.
-
-  TORAK [on viewscreen]
-     Gowron won't bother with such a minor incident.
-
-  PICARD
-     Well, ordinarily he wouldn't, but of course I was
-     his Arbiter of Succession. I'm sure that he will
-     be happy to come here and investigate this matter.
-     You needn't worry about it any longer.
-
-  TORAK [on viewscreen]
-     Gowron will come here?
-
-  PICARD
-     Oh, yes. So once again, thank you for your help.
-     Oh, I will be sure to mention your name to Gowron
-     when I speak to him.
-
-  TORAK [on viewscreen]
-     I will investigate this further, Picard. You need
-     not bother Gowron with this matter.
-
-  PICARD
-     That's very kind. Qapla'!
-
-  TORAK [on viewscreen]
-     Qapla'!
-
-
-LOCATION--La Forge's quarters
-
-  LAFORGE
-     Computer access the personal logs of Aquiel
-     Uhnari.
-
-  COMPUTER
-     Logs accessed.
-
-  LAFORGE
-     Begin playback.
-
-  AQUIEL [on monitor]
-     Shiana, you always said I'd look great with a wig,
-     so here it is. What do you think?
-
-  LAFORGE
-     Definitely not you.
+<tr id="L35"><td><a href="#L35">35</a></td><td>LAFORGE:  What's going on here? Well, we can start with repolarising the interface.</td></tr>
 
-  AQUIEL [on monitor]
-     (taking the huge construction off) Okay, maybe I'm
-     getting a little crazy. You would too, if you were
-     stuck on a relay station in the middle of nowhere
-     with no one for company except an egomaniac like
-     Keith Rocha. I took a big risk today. I
-     countermanded an order he gave. I agreed to handle
-     the comm. traffic for Relay Station one nine four
-     while they shut down for maintenance. Rocha said
-     we couldn't handle the additional signal load, but
-     I think he's wrong. When he finds out he'll be
-     furious. It's days like this I wish I was home.
-     You know what I miss most? Muskan seed punch. Real
-     Muskan seed punch. You can get it from the
-     replicator, but it's not the same. I'd give
-     anything for some of the punch Mother used to make
-     with chunks of the seeds still in it. (noises off)
-     Keith, is that you? Keith? (recording ends)
-
-
-LOCATION--Relay Station ops
-
-  WORF
-     Commander, there are DNA traces here. Klingon.
-
-  RIKER
-     So Klingons did board the station?
-
-  WORF
-     Yes, but I only found DNA from one Klingon so far.
-     I will continue to scan.
-
-
-LOCATION--Aquiel's quarters
-
-  ANNOTATION
-     Geordi is looking at Aquiel's novel
-
-  LAFORGE
-     How could she read this stuff?
-
-  RIKER
-     How's it going?
-
-  LAFORGE
-     I've managed to access all of Lieutenant Uhnari's
-     logs. I'm still looking for Lieutenant Rocha's.
-     Whatever happened to the encrypted messages had a
-     cascade effect on the whole storage system. I
-     can't find his files anywhere. I'm running a level
-     three diagnostic now.
-
-  RIKER
-     Maybe Rocha didn't make the official logs. Uhnari
-     could have been responsible for them.
-
-  LAFORGE
-     I don't think so. Aquiel was the junior officer
-     here.
-
-  RIKER
-     Aquiel?
-
-  LAFORGE
-     Lieutenant Uhnari. I've been up all night watching
-     her personal logs. I guess I'm starting to feel
-     like I know her.
-
-  RIKER
-     What was she like?
-
-  LAFORGE
-     Well she was Hahliian. She had one sister named
-     Shiana, she drank muskan seed punch. She had a
-     quirky sense of humour. She liked to sing. She had
-     questionable taste in literature.
-
-  PICARD [OC]
-     Enterprise to Commander Riker.
-
-  RIKER
-     Riker here.
-
-  PICARD
-     The Klingon ship Qu'Vat has arrived with Governor
-     Torak. Please report to the Observation lounge.
-
-  RIKER
-     We're on our way.
-
-
-LOCATION--Observation lounge
-
-  WORF
-     Governor Torak, sir.
-
-  PICARD
-     Governor. Welcome aboard.
-
-  TORAK
-     Do not bore me with your human pleasantries. I
-     told you we did not kill the woman. Now I will
-     prove it to you. ghoS!
-
-  ANNOTATION
-     a Klingon escorts a woman into the room
-
-  TORAK
-     This is Lieutenant Aquiel Uhnari.
-
-  ANNOTATION
-     soon after
-
-  AQUIEL
-     We were running a level two diagnostic of the
-     message buffer, Nothing special. Rocha had been on
-     edge all morning, but he'd been irritable ever
-     since he got there, so I didn't think anything of
-     it. We were halfway through the procedure when
-     suddenly he attacked me. He grabbed me, threw me
-     against a bulkhead. I yelled at him to stop but he
-     wouldn't listen. He took me by the throat. I broke
-     free and tried to get to the weapons locker. I'm
-     not sure what happened next but somehow I got
-     aboard the shuttle and left.
-
-  TORAK
-     We found her on our side of the border heading
-     toward Sector two five two zero. She is lucky my
-     patrol ship did not destroy her vessel on sight.
-
-  PICARD
-     Lieutenant, why didn't you contact Starfleet? Let
-     them know what happened on board the station?
-
-  AQUIEL
-     I don't know, sir. Maybe I passed out. I'm not
-     even sure how long I was in the shuttle before the
-     Klingons picked me up.
+<tr id="L36"><td><a href="#L36">36</a></td><td>ANNOTATION: woof! The dog is on a bed. There is a display stand with a few items on it</td></tr>
 
-  LAFORGE
-     Forty six hours. You've been gone forty six hours.
+<tr id="L37"><td><a href="#L37">37</a></td><td>LAFORGE:  What is it, pup? What's the matter? Something over here? (a curved gold thing with blue stones) This doesn't look like it belongs to you. Ah, This what you want, huh? (a bone-shaped chew) There you go. Computer, run station logs in sequence.</td></tr>
 
-  CRUSHER
-     We presumed you were dead. Your blood stains were
-     found at the murder scene.
+<tr id="L38"><td><a href="#L38">38</a></td><td>AQUIEL [OC]:  Station log, stardate 46458.3. Today we configured the relay controller grid. It was the last primary system we had to overhaul. We are scheduled to recalibrate and align the antennae systems in the next three days.</td></tr>
 
-  AQUIEL
-     I must have cut my head when he pushed me against
-     the bulkhead.
+<tr id="L39"><td><a href="#L39">39</a></td><td>LAFORGE:  Computer, access visual output.</td></tr>
 
-  WORF
-     Then the remains we found must be those of
-     Lieutenant Rocha.
+<tr id="L40"><td><a href="#L40">40</a></td><td>AQUIEL [OC]:  Sent in my third request for a message delay buffer. Until it arrives, Lieutenant Rocha and I have rigged a memory module to compensate. It better work, or about a half million subspace messages are going to end up drifting through space. Computer, open Uhnari correspondence file.</td></tr>
 
-  CRUSHER
-     I can't confirm that. Until we're able to separate
-     the cellular residue from the deck plate, I won't
-     be able to do a clear DNA scan.
+<tr id="L41"><td><a href="#L41">41</a></td><td>LAFORGE:  Computer, access correspondence files, Lieutenant Aquiel Uhnari.</td></tr>
 
-  RIKER
-     You said you were trying to get to the weapons
-     locker. Is there a possibility that you did?
+<tr id="L42"><td><a href="#L42">42</a></td><td>AQUIEL [OC]:  Hello, Shiana. Sorry I haven't talked to you in a while but I've been dealing with the new Lieutenant, Rocha. So far he's been rude, arrogant and condescending, and he's only been here two days. This might be a long year.</td></tr>
 
-  AQUIEL
-     No, I didn't.
+<tr id="L43"><td><a href="#L43">43</a></td><td>LAFORGE:  Come on, Lieutenant. Stick with me.</td></tr>
 
-  RIKER
-     You're sure?
+<tr id="L44"><td><a href="#L44">44</a></td><td>AQUIEL [OC]:  I had the dream again. Mother's calling out my name. She's somewhere in the house. I get to the top of the hill all right, but then the house is slanted. I'm still walking uphill. I can't find her. Doors everywhere and they all look the same.</td></tr>
 
-  AQUIEL
-     I don't remember exactly what happened to me after
-     I was attacked. I'm sorry. It's as if all my
-     memories were drained out of me.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L45"><td><a href="#L45">45</a></td><td>CRUSHER:  The cellular residue is completely fused with to metal of the deck plate. We're trying to micro-vaporise the metal in order to get a clear DNA sample.</td></tr>
 
-  LAFORGE
-     Your logs said that a Commander Morag had been
-     harassing you. Did you let him or any other
-     Klingon aboard the station?
+<tr id="L46"><td><a href="#L46">46</a></td><td>PICARD:  Do you have any idea what killed her?</td></tr>
 
-  AQUIEL
-     Absolutely not.
+<tr id="L47"><td><a href="#L47">47</a></td><td>CRUSHER:  Well this is just a guess, but from the molecular deposition on the plating I'd say it was a high-level phaser blast.</td></tr>
 
-  WORF
-     If that is true, then Morag or some other Klingon
-     must have boarded the station after she left. We
-     found traces of Klingon DNA on the station.
+<tr id="L48"><td><a href="#L48">48</a></td><td>RIKER:  Could it have been a Klingon disruptor?</td></tr>
 
-  TORAK
-     You still try to blame us.
+<tr id="L49"><td><a href="#L49">49</a></td><td>CRUSHER:  Possibly.</td></tr>
 
-  WORF
-     Have the courage to admit your mistakes. Or are
-     you a lo'Be Vos?
+<tr id="L50"><td><a href="#L50">50</a></td><td>RIKER:  Geordi's found evidence that the encrypted messages have been tampered with, and we are close to Klingon space.</td></tr>
 
-  TORAK
-     At least I do not wear the uniform of the P'tak!
+<tr id="L51"><td><a href="#L51">51</a></td><td>PICARD:  There hasn't been a Klingon raid against the Federation for more than seven years. We can't risk a diplomatic incident until we have more evidence.</td></tr>
 
-  PICARD
-     Governor, we are merely exploring all the
-     possibilities. Lieutenant Uhnari's logs reported
-     that Commander Morag had been harassing the
-     station.
+<tr id="L52"><td><a href="#L52">52</a></td><td>CRUSHER:  And there's still the question of what happened to Lieutenant Rocha.</td></tr>
 
-  TORAK
-     He was doing his job.
+<tr id="L53"><td><a href="#L53">53</a></td><td>PICARD:  Get Rocha's personnel file from Starfleet Command, and ask Starbase two twelve to help us find that shuttle.</td></tr>
 
-  PICARD
-     If he was only doing his job, then I'm sure you
-     won't mind if we spoke with him.
+<tr id="L54"><td><a href="#L54">54</a></td><td>RIKER:  Aye, sir.</td></tr>
 
-  TORAK
-     Very well. In the interests of diplomacy, I will
-     allow you to speak to Morag. But my patience has
-     limits.
+<tr id="L55"><td><a href="#L55">55</a></td><td>PICARD:  Keep me apprised, Doctor.</td></tr>
 
-  ANNOTATION
-     Torak and his aide storm out
+<tr><td></td><td>LOCATION--Aquiel's quarters</td></tr>
+<tr id="L56"><td><a href="#L56">56</a></td><td>ANNOTATION: the monitor screen is still stubbornly displaying static</td></tr>
 
-  LAFORGE
-     Lieutenant, I know a friend of yours who's very
-     eager to see you.
+<tr id="L57"><td><a href="#L57">57</a></td><td>LAFORGE:  All right, let's try this again. Come on, this should be working. The phase inducters are aligned. Come on, Lieutenant, I know you're in here somewhere. Computer me run a subsystem diagnostic, with a frequency range of ten to one hundred megahertz.</td></tr>
 
-  AQUIEL
-     Who?
+<tr id="L58"><td><a href="#L58">58</a></td><td>COMPUTER:  Diagnostic cycle will be complete in twenty seconds.</td></tr>
 
-  LAFORGE
-     Come with me.
+<tr id="L59"><td><a href="#L59">59</a></td><td>LAFORGE:  Iced coffee?</td></tr>
 
+<tr id="L60"><td><a href="#L60">60</a></td><td>ANNOTATION: the replicator produces his drink and the dog barks</td></tr>
 
-LOCATION--La Forge's quarters
+<tr id="L61"><td><a href="#L61">61</a></td><td>LAFORGE:  What is it, girl?</td></tr>
 
-  AQUIEL
-     Maura! Come here, girl. Come on, Maura.
+<tr id="L62"><td><a href="#L62">62</a></td><td>ANNOTATION: he's finally got an image - of a young dark-skinned alien woman</td></tr>
 
-  LAFORGE
-     Maura. That's the name.
+<tr id="L63"><td><a href="#L63">63</a></td><td>AQUIEL [on monitor]:  Hello, Shiana. By the time you get this the Batarael will be over. This is the first time I haven't been there. I've been wondering, who's singing the Horath in my place. (sings) Jomiael hahnalia ma marou nitalia. Rumael tavariel fatra di va Jomiael. (next letter) I had that dream again. The one where Mother is screaming. I climb the hill to our house but I can't get to her. Shiana, this time I ran away. I was so scared I ran back down the hill. I think I know why I've been having the dreams about danger. It's because of what's been happening with that Klingon. He's getting more aggressive all the time. Not just the usual threat.</td></tr>
 
-  AQUIEL
-     Yes, it's from Cold Moon Over Blackwater. Have you
-     read it?
+<tr id="L64"><td><a href="#L64">64</a></td><td>ANNOTATION: Geordi rewinds the message</td></tr>
 
-  LAFORGE
-     I'm not much for gothic fiction.
+<tr id="L65"><td><a href="#L65">65</a></td><td>AQUIEL [on monitor]:  It's because of what's been happening with that Klingon. He's getting more aggressive all the time. Not just the usual threat. Morag actually locked his disruptors to the station this time. I don't think there'll be any trouble. It just brings up those feelings of panic, of wanting to run, wanting to get away from danger. Shiana, I couldn't say this to anyone but you, but the panic? It's the same thing I used to feel whenever Father got angry, when I knew he was going to punish me. Only now, I'm out here in space, and there's no place to run.</td></tr>
 
-  AQUIEL
-     Not many people are nowadays. Oh, your shoe.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L66"><td><a href="#L66">66</a></td><td>LAFORGE:  There are three references to a Commander Morag, a Klingon officer who patrols this section of the border. Apparently he would pass the station every few days and harass them.</td></tr>
 
-  LAFORGE
-     Yeah, Maura got a little restless.
+<tr id="L67"><td><a href="#L67">67</a></td><td>PICARD:  Perhaps this Morag was the one who was interested in obtaining the encrypted messages.</td></tr>
 
-  AQUIEL
-     Maura, shame on you. That's not like you. What a
-     naughty dog.
+<tr id="L68"><td><a href="#L68">68</a></td><td>LAFORGE:  Could be. She didn't say. But I do have several more days of logs left to watch. I'm hoping to learn more.</td></tr>
 
-  LAFORGE
-     It's all right, don't worry about it. At least
-     she's chewing them up in pairs. I'll arrange
-     quarters for you. I'm sure you want some time
-     alone.
+<tr id="L69"><td><a href="#L69">69</a></td><td>PICARD:  Very well. In the meantime, I'll speak with the Klingon Governor about Commander Morag.</td></tr>
 
-  AQUIEL
-     Actually I've been stuck on that station for over
-     nine months. I wouldn't mind going someplace with
-     some activity.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L70"><td><a href="#L70">70</a></td><td>TORAK [on viewscreen]:  Are you saying we attacked your outpost?</td></tr>
 
-  LAFORGE
-     I know just the place.
+<tr id="L71"><td><a href="#L71">71</a></td><td>PICARD:  I'm merely saying that I'm following up on evidence that my officers discovered on board.</td></tr>
 
+<tr id="L72"><td><a href="#L72">72</a></td><td>TORAK [on viewscreen]:  Evidence. So you are making an accusation. The Klingon Empire will not stand for these kinds of lies.</td></tr>
 
-LOCATION--Ten Forward
+<tr id="L73"><td><a href="#L73">73</a></td><td>PICARD:  Governor Torak, I apologise. I can see that you honestly didn't know what happened aboard the station. I will just have to take this matter up with Gowron. I'm really sorry that we bothered you.</td></tr>
 
-  BARMAN
-     Here you are, sir.
+<tr id="L74"><td><a href="#L74">74</a></td><td>TORAK [on viewscreen]:  Gowron won't bother with such a minor incident.</td></tr>
 
-  ANNOTATION
-     Geordi takes two glasses to a table
+<tr id="L75"><td><a href="#L75">75</a></td><td>PICARD:  Well, ordinarily he wouldn't, but of course I was his Arbiter of Succession. I'm sure that he will be happy to come here and investigate this matter. You needn't worry about it any longer.</td></tr>
 
-  AQUIEL
-     Thank you.
+<tr id="L76"><td><a href="#L76">76</a></td><td>TORAK [on viewscreen]:  Gowron will come here?</td></tr>
 
-  LAFORGE
-     You're welcome.
+<tr id="L77"><td><a href="#L77">77</a></td><td>PICARD:  Oh, yes. So once again, thank you for your help. Oh, I will be sure to mention your name to Gowron when I speak to him.</td></tr>
 
-  AQUIEL
-     Mmmm. Have you ever tried Muskan seed punch?
+<tr id="L78"><td><a href="#L78">78</a></td><td>TORAK [on viewscreen]:  I will investigate this further, Picard. You need not bother Gowron with this matter.</td></tr>
 
-  LAFORGE
-     Yeah. It nearly made me sick.
+<tr id="L79"><td><a href="#L79">79</a></td><td>PICARD:  That's very kind. Qapla'!</td></tr>
 
-  AQUIEL
-     You have to be raised on it. It's very nutritious.
-     The taste grows on you.
+<tr id="L80"><td><a href="#L80">80</a></td><td>TORAK [on viewscreen]:  Qapla'!</td></tr>
 
-  LAFORGE
-     Batar al nalia.
+<tr><td></td><td>LOCATION--La Forge's quarters</td></tr>
+<tr id="L81"><td><a href="#L81">81</a></td><td>LAFORGE:  Computer access the personal logs of Aquiel Uhnari.</td></tr>
 
-  AQUIEL
-     You speak Hahliian.
+<tr id="L82"><td><a href="#L82">82</a></td><td>COMPUTER:  Logs accessed.</td></tr>
 
-  LAFORGE
-     We travelled around quite a bit when I was growing
-     up. I picked up a couple of languages along the
-     way.
+<tr id="L83"><td><a href="#L83">83</a></td><td>LAFORGE:  Begin playback.</td></tr>
 
-  AQUIEL
-     We never travelled. My family lived in the same
-     house for five generations.
+<tr id="L84"><td><a href="#L84">84</a></td><td>AQUIEL [on monitor]:  Shiana, you always said I'd look great with a wig, so here it is. What do you think?</td></tr>
 
-  LAFORGE
-     The one on the hill.
+<tr id="L85"><td><a href="#L85">85</a></td><td>LAFORGE:  Definitely not you.</td></tr>
 
-  AQUIEL
-     How do you know about that?
+<tr id="L86"><td><a href="#L86">86</a></td><td>AQUIEL [on monitor]:  (taking the huge construction off) Okay, maybe I'm getting a little crazy. You would too, if you were stuck on a relay station in the middle of nowhere with no one for company except an egomaniac like Keith Rocha. I took a big risk today. I countermanded an order he gave. I agreed to handle the comm. traffic for Relay Station one nine four while they shut down for maintenance. Rocha said we couldn't handle the additional signal load, but I think he's wrong. When he finds out he'll be furious. It's days like this I wish I was home. You know what I miss most? Muskan seed punch. Real Muskan seed punch. You can get it from the replicator, but it's not the same. I'd give anything for some of the punch Mother used to make with chunks of the seeds still in it. (noises off) Keith, is that you? Keith? (recording ends)</td></tr>
 
-  LAFORGE
-     Well, to be honest, when we thought you were dead
-     I needed to review your logs and personal
-     correspondence for any possible clues about what
-     happened.
+<tr><td></td><td>LOCATION--Relay Station ops</td></tr>
+<tr id="L87"><td><a href="#L87">87</a></td><td>WORF:  Commander, there are DNA traces here. Klingon.</td></tr>
 
-  AQUIEL
-     All of it?
+<tr id="L88"><td><a href="#L88">88</a></td><td>RIKER:  So Klingons did board the station?</td></tr>
 
-  LAFORGE
-     Most of it, yeah. You need to understand that we
-     thought you'd been murdered. We needed
-     information.
+<tr id="L89"><td><a href="#L89">89</a></td><td>WORF:  Yes, but I only found DNA from one Klingon so far. I will continue to scan.</td></tr>
 
-  AQUIEL
-     I'm sorry. It's just that I tell my sister things
-     I wouldn't tell anyone else. I guess I was feeling
-     a little exposed.
+<tr><td></td><td>LOCATION--Aquiel's quarters</td></tr>
+<tr id="L90"><td><a href="#L90">90</a></td><td>ANNOTATION: Geordi is looking at Aquiel's novel</td></tr>
 
-  LAFORGE
-     I'd feel the same way.
+<tr id="L91"><td><a href="#L91">91</a></td><td>LAFORGE:  How could she read this stuff?</td></tr>
 
-  AQUIEL
-     Especially if I had seen you in that wig.
+<tr id="L92"><td><a href="#L92">92</a></td><td>RIKER:  How's it going?</td></tr>
 
-  LAFORGE
-     It really wasn't you.
+<tr id="L93"><td><a href="#L93">93</a></td><td>LAFORGE:  I've managed to access all of Lieutenant Uhnari's logs. I'm still looking for Lieutenant Rocha's. Whatever happened to the encrypted messages had a cascade effect on the whole storage system. I can't find his files anywhere. I'm running a level three diagnostic now.</td></tr>
 
-  AQUIEL
-     I'm curious. Now that you've met me, am I what you
-     expected?
+<tr id="L94"><td><a href="#L94">94</a></td><td>RIKER:  Maybe Rocha didn't make the official logs. Uhnari could have been responsible for them.</td></tr>
 
-  LAFORGE
-     Actually, I'm not sure. The woman I saw in those
-     logs is very complicated. I think there's more to
-     you than meets the eye, Lieutenant.
+<tr id="L95"><td><a href="#L95">95</a></td><td>LAFORGE:  I don't think so. Aquiel was the junior officer here.</td></tr>
 
-  AQUIEL
-     In what way?
+<tr id="L96"><td><a href="#L96">96</a></td><td>RIKER:  Aquiel?</td></tr>
 
-  LAFORGE
-     Well, your relationship with Lieutenant Rocha, for
-     example. He was only there for five days and yet
-     there was evidence of plenty of friction. You
-     seemed to delight in doing things that you knew
-     would upset him. Why take on extra comm. traffic
-     when you knew it was going to make him angry?
+<tr id="L97"><td><a href="#L97">97</a></td><td>LAFORGE:  Lieutenant Uhnari. I've been up all night watching her personal logs. I guess I'm starting to feel like I know her.</td></tr>
 
-  AQUIEL
-     Is that a personal question or part of a murder
-     investigation?
+<tr id="L98"><td><a href="#L98">98</a></td><td>RIKER:  What was she like?</td></tr>
 
-  LAFORGE
-     I don't know. Maybe both.
+<tr id="L99"><td><a href="#L99">99</a></td><td>LAFORGE:  Well she was Hahliian. She had one sister named Shiana, she drank muskan seed punch. She had a quirky sense of humour. She liked to sing. She had questionable taste in literature.</td></tr>
 
-  AQUIEL
-     Keith Rocha was obnoxious from the minute he
-     reported to duty. He treated me as though I was
-     beneath contempt. I felt like I had to battle him
-     to hold my own. But I didn't want to see him dead.
+<tr id="L100"><td><a href="#L100">100</a></td><td>PICARD [OC]:  Enterprise to Commander Riker.</td></tr>
 
-  LAFORGE
-     Why do you think he attacked you?
+<tr id="L101"><td><a href="#L101">101</a></td><td>RIKER:  Riker here.</td></tr>
 
-  AQUIEL
-     I don't know.
+<tr id="L102"><td><a href="#L102">102</a></td><td>PICARD:  The Klingon ship Qu'Vat has arrived with Governor Torak. Please report to the Observation lounge.</td></tr>
 
+<tr id="L103"><td><a href="#L103">103</a></td><td>RIKER:  We're on our way.</td></tr>
 
-LOCATION--Ready room
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L104"><td><a href="#L104">104</a></td><td>WORF:  Governor Torak, sir.</td></tr>
 
-  RIKER
-     Rocha's file is spotless. Two decorations for
-     valour, three outstanding evaluations from his
-     previous commanders. Doesn't sound like the same
-     man that Lieutenant Uhnari described.
+<tr id="L105"><td><a href="#L105">105</a></td><td>PICARD:  Governor. Welcome aboard.</td></tr>
 
-  PICARD
-     What did you found out about Uhnari?
+<tr id="L106"><td><a href="#L106">106</a></td><td>TORAK:  Do not bore me with your human pleasantries. I told you we did not kill the woman. Now I will prove it to you. ghoS!</td></tr>
 
-  RIKER
-     I checked into her record, too. Her last posting
-     was on Deriben Five. I spoke to her commanding
-     officer there. He said she was argumentative,
-     quick to take offence. He also told me he
-     transferred her to that relay station because she
-     was hampering their efforts. To be honest, I'm
-     having trouble believing her story, sir.
+<tr id="L107"><td><a href="#L107">107</a></td><td>ANNOTATION: a Klingon escorts a woman into the room</td></tr>
 
-  PICARD
-     Why?
+<tr id="L108"><td><a href="#L108">108</a></td><td>TORAK:  This is Lieutenant Aquiel Uhnari.</td></tr>
 
-  RIKER
-     I sent Worf to check the weapons locker on the
-     relay station. There's a phaser missing.
+<tr id="L109"><td><a href="#L109">109</a></td><td>ANNOTATION: soon after</td></tr>
 
-  PICARD
-     You think that she lied?
+<tr id="L110"><td><a href="#L110">110</a></td><td>AQUIEL:  We were running a level two diagnostic of the message buffer, Nothing special. Rocha had been on edge all morning, but he'd been irritable ever since he got there, so I didn't think anything of it. We were halfway through the procedure when suddenly he attacked me. He grabbed me, threw me against a bulkhead. I yelled at him to stop but he wouldn't listen. He took me by the throat. I broke free and tried to get to the weapons locker. I'm not sure what happened next but somehow I got aboard the shuttle and left.</td></tr>
 
-  RIKER
-     Lied, conveniently forgot, I'm not sure. I think
-     it's something we have to consider.
+<tr id="L111"><td><a href="#L111">111</a></td><td>TORAK:  We found her on our side of the border heading toward Sector two five two zero. She is lucky my patrol ship did not destroy her vessel on sight.</td></tr>
 
-  PICARD
-     As of now, we don't have sufficient evidence one
-     way or the other. I want you to examine her
-     shuttle. You might find something there which will
-     shed some light on her story.
+<tr id="L112"><td><a href="#L112">112</a></td><td>PICARD:  Lieutenant, why didn't you contact Starfleet? Let them know what happened on board the station?</td></tr>
 
-  RIKER
-     Aye, sir.
+<tr id="L113"><td><a href="#L113">113</a></td><td>AQUIEL:  I don't know, sir. Maybe I passed out. I'm not even sure how long I was in the shuttle before the Klingons picked me up.</td></tr>
 
+<tr id="L114"><td><a href="#L114">114</a></td><td>LAFORGE:  Forty six hours. You've been gone forty six hours.</td></tr>
 
-LOCATION--Corridor
+<tr id="L115"><td><a href="#L115">115</a></td><td>CRUSHER:  We presumed you were dead. Your blood stains were found at the murder scene.</td></tr>
 
-  AQUIEL
-     How much longer do you think the investigation
-     will take?
+<tr id="L116"><td><a href="#L116">116</a></td><td>AQUIEL:  I must have cut my head when he pushed me against the bulkhead.</td></tr>
 
-  LAFORGE
-     Three, maybe four days. It's tough to tell.
+<tr id="L117"><td><a href="#L117">117</a></td><td>WORF:  Then the remains we found must be those of Lieutenant Rocha.</td></tr>
 
-  AQUIEL
-     I know I'm a suspect in the murder, but let me ask
-     you something. You've watched my logs. You know me
-     better than anyone here. Do I seem like the kind
-     of person who could murder someone?
+<tr id="L118"><td><a href="#L118">118</a></td><td>CRUSHER:  I can't confirm that. Until we're able to separate the cellular residue from the deck plate, I won't be able to do a clear DNA scan.</td></tr>
 
-  LAFORGE
-     No, you don't.
+<tr id="L119"><td><a href="#L119">119</a></td><td>RIKER:  You said you were trying to get to the weapons locker. Is there a possibility that you did?</td></tr>
 
-  AQUIEL
-     I don't think I realised how much I needed to hear
-     that.
+<tr id="L120"><td><a href="#L120">120</a></td><td>AQUIEL:  No, I didn't.</td></tr>
 
-  LAFORGE
-     Look, Aquiel, it's been a rough couple of days. I
-     think you need some sleep.
+<tr id="L121"><td><a href="#L121">121</a></td><td>RIKER:  You're sure?</td></tr>
 
-  AQUIEL
-     You called me complicated. You're right. I don't
-     make friends easily. Oumriel.
+<tr id="L122"><td><a href="#L122">122</a></td><td>AQUIEL:  I don't remember exactly what happened to me after I was attacked. I'm sorry. It's as if all my memories were drained out of me.</td></tr>
 
-  ANNOTATION
-     she strokes his face and goes into her quarters
+<tr id="L123"><td><a href="#L123">123</a></td><td>LAFORGE:  Your logs said that a Commander Morag had been harassing you. Did you let him or any other Klingon aboard the station?</td></tr>
 
-  LAFORGE
-     Oumriel.
+<tr id="L124"><td><a href="#L124">124</a></td><td>AQUIEL:  Absolutely not.</td></tr>
 
+<tr id="L125"><td><a href="#L125">125</a></td><td>WORF:  If that is true, then Morag or some other Klingon must have boarded the station after she left. We found traces of Klingon DNA on the station.</td></tr>
 
-LOCATION--Aquiel's shuttlecraft
+<tr id="L126"><td><a href="#L126">126</a></td><td>TORAK:  You still try to blame us.</td></tr>
 
-  ANNOTATION
-     Worf finds a phaser
+<tr id="L127"><td><a href="#L127">127</a></td><td>WORF:  Have the courage to admit your mistakes. Or are you a lo'Be Vos?</td></tr>
 
-  WORF
-     Commander. It is set to kill.
+<tr id="L128"><td><a href="#L128">128</a></td><td>TORAK:  At least I do not wear the uniform of the P'tak!</td></tr>
 
+<tr id="L129"><td><a href="#L129">129</a></td><td>PICARD:  Governor, we are merely exploring all the possibilities. Lieutenant Uhnari's logs reported that Commander Morag had been harassing the station.</td></tr>
 
-LOCATION--Guest quarters
+<tr id="L130"><td><a href="#L130">130</a></td><td>TORAK:  He was doing his job.</td></tr>
 
-  RIKER
-     We found this type two phaser in your
-     shuttlecraft. It was taken from the weapons locker
-     on the station.
+<tr id="L131"><td><a href="#L131">131</a></td><td>PICARD:  If he was only doing his job, then I'm sure you won't mind if we spoke with him.</td></tr>
 
-  AQUIEL
-     I told you I don't remember what happened. Maybe I
-     did make to the weapons locker.
+<tr id="L132"><td><a href="#L132">132</a></td><td>TORAK:  Very well. In the interests of diplomacy, I will allow you to speak to Morag. But my patience has limits.</td></tr>
 
-  RIKER
-     It was set to level ten. Standard procedure
-     requires that all phasers are set on level one
-     when they're in storage.
+<tr id="L133"><td><a href="#L133">133</a></td><td>ANNOTATION: Torak and his aide storm out</td></tr>
 
-  WORF
-     That means that someone deliberately changed the
-     setting. And then there is the matter of your
-     conflict with Lieutenant Rocha.
+<tr id="L134"><td><a href="#L134">134</a></td><td>LAFORGE:  Lieutenant, I know a friend of yours who's very eager to see you.</td></tr>
 
-  AQUIEL
-     Rocha and I had our disagreements but that does
-     not mean I would kill him.
+<tr id="L135"><td><a href="#L135">135</a></td><td>AQUIEL:  Who?</td></tr>
 
-  RIKER
-     Have you been able to remember anything that
-     happened after he attacked you?
+<tr id="L136"><td><a href="#L136">136</a></td><td>LAFORGE:  Come with me.</td></tr>
 
-  AQUIEL
-     No. Nothing. I suppose maybe in self-defence I
+<tr><td></td><td>LOCATION--La Forge's quarters</td></tr>
+<tr id="L137"><td><a href="#L137">137</a></td><td>AQUIEL:  Maura! Come here, girl. Come on, Maura.</td></tr>
 
-  RIKER
-     Doctor Crusher tells me that in order to inflict
-     the kind of molecular damage found in Rocha's
-     remains, it would take a sustained phaser
-     discharge of at least thirty to forty seconds.
-     That doesn't sound like self-defence to me.
+<tr id="L138"><td><a href="#L138">138</a></td><td>LAFORGE:  Maura. That's the name.</td></tr>
 
-  LAFORGE
-     Now wait a minute. We haven't even established
-     this phaser is the murder weapon yet. And even at
-     level ten I don't see how it could have done the
-     damage the medical evidence says it did. A phase
-     disruptor like a Klingon weapon, maybe.
+<tr id="L139"><td><a href="#L139">139</a></td><td>AQUIEL:  Yes, it's from Cold Moon Over Blackwater. Have you read it?</td></tr>
 
-  RIKER
-     Look, we're not here to make accusations. We're
-     trying to find out what happened. Commander Morag
-     is due here in two hours. Let's see what he has to
-     say.
+<tr id="L140"><td><a href="#L140">140</a></td><td>LAFORGE:  I'm not much for gothic fiction.</td></tr>
 
-  LAFORGE
-     Fine. In the meantime I'd like to go back to the
-     station and see if I can access Rocha's personal
-     logs again.
+<tr id="L141"><td><a href="#L141">141</a></td><td>AQUIEL:  Not many people are nowadays. Oh, your shoe.</td></tr>
 
-  RIKER
-     Good idea.
+<tr id="L142"><td><a href="#L142">142</a></td><td>LAFORGE:  Yeah, Maura got a little restless.</td></tr>
 
+<tr id="L143"><td><a href="#L143">143</a></td><td>AQUIEL:  Maura, shame on you. That's not like you. What a naughty dog.</td></tr>
 
-LOCATION--Corridor
+<tr id="L144"><td><a href="#L144">144</a></td><td>LAFORGE:  It's all right, don't worry about it. At least she's chewing them up in pairs. I'll arrange quarters for you. I'm sure you want some time alone.</td></tr>
 
-  RIKER
-     Geordi, wait a second. Thank you, Mister Worf.
+<tr id="L145"><td><a href="#L145">145</a></td><td>AQUIEL:  Actually I've been stuck on that station for over nine months. I wouldn't mind going someplace with some activity.</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L146"><td><a href="#L146">146</a></td><td>LAFORGE:  I know just the place.</td></tr>
 
-  RIKER
-     This is off the record. I'm saying this as a
-     friend, not your superior officer. I think it
-     would be best if you weren't so personally
-     involved with Aquiel right now. There's a lot
-     about her we don't know.
+<tr><td></td><td>LOCATION--Ten Forward</td></tr>
+<tr id="L147"><td><a href="#L147">147</a></td><td>BARMAN:  Here you are, sir.</td></tr>
 
-  LAFORGE
-     And there's a lot about her that I do know, and if
-     she's innocent I want to help her prove it.
+<tr id="L148"><td><a href="#L148">148</a></td><td>ANNOTATION: Geordi takes two glasses to a table</td></tr>
 
-  RIKER
-     I think you've let your personal feelings cloud
-     your judgement.
+<tr id="L149"><td><a href="#L149">149</a></td><td>AQUIEL:  Thank you.</td></tr>
 
-  LAFORGE
-     I'm not the one making judgements.
+<tr id="L150"><td><a href="#L150">150</a></td><td>LAFORGE:  You're welcome.</td></tr>
 
+<tr id="L151"><td><a href="#L151">151</a></td><td>AQUIEL:  Mmmm. Have you ever tried Muskan seed punch?</td></tr>
 
-LOCATION--Relay Station ops
+<tr id="L152"><td><a href="#L152">152</a></td><td>LAFORGE:  Yeah. It nearly made me sick.</td></tr>
 
-  LAFORGE
-     Got it. Computer, display the personal records of
-     Lieutenant Rocha from stardates 46455 to 46460.
+<tr id="L153"><td><a href="#L153">153</a></td><td>AQUIEL:  You have to be raised on it. It's very nutritious. The taste grows on you.</td></tr>
 
-  ANNOTATION
-     the logs for station 047 scroll through the
-     monitor
+<tr id="L154"><td><a href="#L154">154</a></td><td>LAFORGE:  Batar al nalia.</td></tr>
 
-  LAFORGE
-     Computer, what happened to the log entries for
-     stardate 46459?
+<tr id="L155"><td><a href="#L155">155</a></td><td>AQUIEL:  You speak Hahliian.</td></tr>
 
-  COMPUTER
-     The logs have been deleted.
+<tr id="L156"><td><a href="#L156">156</a></td><td>LAFORGE:  We travelled around quite a bit when I was growing up. I picked up a couple of languages along the way.</td></tr>
 
-  LAFORGE
-     Who deleted them?
+<tr id="L157"><td><a href="#L157">157</a></td><td>AQUIEL:  We never travelled. My family lived in the same house for five generations.</td></tr>
 
-  COMPUTER
-     Unknown.
+<tr id="L158"><td><a href="#L158">158</a></td><td>LAFORGE:  The one on the hill.</td></tr>
 
-  SOMEONE
-     Captain's log, supplemental. The Qu'Vat has
-     arrived with Commander Morag. We are preparing to
-     question him regarding his involvement in the
-     murder of Lieutenant Rocha.
+<tr id="L159"><td><a href="#L159">159</a></td><td>AQUIEL:  How do you know about that?</td></tr>
 
+<tr id="L160"><td><a href="#L160">160</a></td><td>LAFORGE:  Well, to be honest, when we thought you were dead I needed to review your logs and personal correspondence for any possible clues about what happened.</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L161"><td><a href="#L161">161</a></td><td>AQUIEL:  All of it?</td></tr>
 
-  MORAG
-     I killed no one!
+<tr id="L162"><td><a href="#L162">162</a></td><td>LAFORGE:  Most of it, yeah. You need to understand that we thought you'd been murdered. We needed information.</td></tr>
 
-  RIKER
-     We found your DNA on the bulkheads and the
-     console. We know you were there.
+<tr id="L163"><td><a href="#L163">163</a></td><td>AQUIEL:  I'm sorry. It's just that I tell my sister things I wouldn't tell anyone else. I guess I was feeling a little exposed.</td></tr>
 
-  TORAK
-     Answer their questions.
+<tr id="L164"><td><a href="#L164">164</a></td><td>LAFORGE:  I'd feel the same way.</td></tr>
 
-  MORAG
-     Yes. Yes, I was there. My patrol route takes me
-     near the station every six days. Three days ago, I
-     hailed them. There was no response. I was
-     concerned.
+<tr id="L165"><td><a href="#L165">165</a></td><td>AQUIEL:  Especially if I had seen you in that wig.</td></tr>
 
-  TROI
-     Concerned?
+<tr id="L166"><td><a href="#L166">166</a></td><td>LAFORGE:  It really wasn't you.</td></tr>
 
-  MORAG
-     Yes. I went aboard to see what had happened. There
-     was no one was there, so I left.
+<tr id="L167"><td><a href="#L167">167</a></td><td>AQUIEL:  I'm curious. Now that you've met me, am I what you expected?</td></tr>
 
-  RIKER
-     Is that all?
+<tr id="L168"><td><a href="#L168">168</a></td><td>LAFORGE:  Actually, I'm not sure. The woman I saw in those logs is very complicated. I think there's more to you than meets the eye, Lieutenant.</td></tr>
 
-  MORAG
-     That's all.
+<tr id="L169"><td><a href="#L169">169</a></td><td>AQUIEL:  In what way?</td></tr>
 
-  DATA
-     Commander Morag, we have discovered that the
-     encrypted message bank on the station has been
-     tampered with. Our analysis indicates that twenty
-     seven priority Starfleet messages are missing.
+<tr id="L170"><td><a href="#L170">170</a></td><td>LAFORGE:  Well, your relationship with Lieutenant Rocha, for example. He was only there for five days and yet there was evidence of plenty of friction. You seemed to delight in doing things that you knew would upset him. Why take on extra comm. traffic when you knew it was going to make him angry?</td></tr>
 
-  MORAG
-     What of it?
+<tr id="L171"><td><a href="#L171">171</a></td><td>AQUIEL:  Is that a personal question or part of a murder investigation?</td></tr>
 
-  DATA
-     Your DNA was also found on the message control
-     module.
+<tr id="L172"><td><a href="#L172">172</a></td><td>LAFORGE:  I don't know. Maybe both.</td></tr>
 
-  MORAG
-     This is outrageous! We will not tolerate these
-     ridiculous accusations!
+<tr id="L173"><td><a href="#L173">173</a></td><td>AQUIEL:  Keith Rocha was obnoxious from the minute he reported to duty. He treated me as though I was beneath contempt. I felt like I had to battle him to hold my own. But I didn't want to see him dead.</td></tr>
 
-  TORAK
-     This is a diplomatic matter, Morag! Do not make me
-     search your ship.
+<tr id="L174"><td><a href="#L174">174</a></td><td>LAFORGE:  Why do you think he attacked you?</td></tr>
 
-  MORAG
-     Yes, I did take the messages.
+<tr id="L175"><td><a href="#L175">175</a></td><td>AQUIEL:  I don't know.</td></tr>
 
-  PICARD
-     Did you kill Lieutenant Rocha?
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L176"><td><a href="#L176">176</a></td><td>RIKER:  Rocha's file is spotless. Two decorations for valour, three outstanding evaluations from his previous commanders. Doesn't sound like the same man that Lieutenant Uhnari described.</td></tr>
 
-  MORAG
-     No. I killed no one. There was no one there. I
-     took the codes, but I killed no one.
+<tr id="L177"><td><a href="#L177">177</a></td><td>PICARD:  What did you found out about Uhnari?</td></tr>
 
-  PICARD
-     Governor, we would like Commander Morag to remain
-     on board the Enterprise until this investigation
-     is complete.
+<tr id="L178"><td><a href="#L178">178</a></td><td>RIKER:  I checked into her record, too. Her last posting was on Deriben Five. I spoke to her commanding officer there. He said she was argumentative, quick to take offence. He also told me he transferred her to that relay station because she was hampering their efforts. To be honest, I'm having trouble believing her story, sir.</td></tr>
 
-  TORAK
-     Take him.
+<tr id="L179"><td><a href="#L179">179</a></td><td>PICARD:  Why?</td></tr>
 
-  WORF
-     This way.
+<tr id="L180"><td><a href="#L180">180</a></td><td>RIKER:  I sent Worf to check the weapons locker on the relay station. There's a phaser missing.</td></tr>
 
+<tr id="L181"><td><a href="#L181">181</a></td><td>PICARD:  You think that she lied?</td></tr>
 
-LOCATION--Relay Station ops
+<tr id="L182"><td><a href="#L182">182</a></td><td>RIKER:  Lied, conveniently forgot, I'm not sure. I think it's something we have to consider.</td></tr>
 
-  LAFORGE
-     Last night, after I dropped you off at your
-     quarters you established a subspace link with this
-     console. You deleted some of Rocha's personal
-     files, didn't you?
+<tr id="L183"><td><a href="#L183">183</a></td><td>PICARD:  As of now, we don't have sufficient evidence one way or the other. I want you to examine her shuttle. You might find something there which will shed some light on her story.</td></tr>
 
-  AQUIEL
-     Yes, I did.
+<tr id="L184"><td><a href="#L184">184</a></td><td>RIKER:  Aye, sir.</td></tr>
 
-  LAFORGE
-     Why?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L185"><td><a href="#L185">185</a></td><td>AQUIEL:  How much longer do you think the investigation will take?</td></tr>
 
-  AQUIEL
-     I found a letter Rocha was planning to send to
-     Starfleet Command about me. The letter said I had
-     become belligerent and insubordinate. He was going
-     to ask for a formal hearing. Geordi, I know how
-     this looks.
+<tr id="L186"><td><a href="#L186">186</a></td><td>LAFORGE:  Three, maybe four days. It's tough to tell.</td></tr>
 
-  LAFORGE
-     Yeah, it looks bad. I find out that you've erased
-     a letter that contained a possible motivation for
-     murder?
+<tr id="L187"><td><a href="#L187">187</a></td><td>AQUIEL:  I know I'm a suspect in the murder, but let me ask you something. You've watched my logs. You know me better than anyone here. Do I seem like the kind of person who could murder someone?</td></tr>
 
-  AQUIEL
-     I didn't kill him.
+<tr id="L188"><td><a href="#L188">188</a></td><td>LAFORGE:  No, you don't.</td></tr>
 
-  LAFORGE
-     Then explain this.
+<tr id="L189"><td><a href="#L189">189</a></td><td>AQUIEL:  I don't think I realised how much I needed to hear that.</td></tr>
 
-  AQUIEL
-     I was afraid if they found the letter they'd blame
-     me for the murder. I'm not a model officer. I
-     realise that. Sometimes I act on impulse instead
-     of thinking things through.
+<tr id="L190"><td><a href="#L190">190</a></td><td>LAFORGE:  Look, Aquiel, it's been a rough couple of days. I think you need some sleep.</td></tr>
 
-  LAFORGE
-     Aquiel, this really complicates things.
+<tr id="L191"><td><a href="#L191">191</a></td><td>AQUIEL:  You called me complicated. You're right. I don't make friends easily. Oumriel.</td></tr>
 
+<tr id="L192"><td><a href="#L192">192</a></td><td>ANNOTATION: she strokes his face and goes into her quarters</td></tr>
 
-LOCATION--Aquiel's quarters
+<tr id="L193"><td><a href="#L193">193</a></td><td>LAFORGE:  Oumriel.</td></tr>
 
-  ANNOTATION
-     she grabs a case and starts packing
+<tr><td></td><td>LOCATION--Aquiel's shuttlecraft</td></tr>
+<tr id="L194"><td><a href="#L194">194</a></td><td>ANNOTATION: Worf finds a phaser</td></tr>
 
-  LAFORGE
-     What are you doing?
+<tr id="L195"><td><a href="#L195">195</a></td><td>WORF:  Commander. It is set to kill.</td></tr>
 
-  AQUIEL
-     Getting out of here.
+<tr><td></td><td>LOCATION--Guest quarters</td></tr>
+<tr id="L196"><td><a href="#L196">196</a></td><td>RIKER:  We found this type two phaser in your shuttlecraft. It was taken from the weapons locker on the station.</td></tr>
 
-  LAFORGE
-     Aquiel, running away isn't going to prove your
-     innocence. Facing the situation will.
+<tr id="L197"><td><a href="#L197">197</a></td><td>AQUIEL:  I told you I don't remember what happened. Maybe I did make to the weapons locker.</td></tr>
 
-  AQUIEL
-     I'm scared, Geordi.
+<tr id="L198"><td><a href="#L198">198</a></td><td>RIKER:  It was set to level ten. Standard procedure requires that all phasers are set on level one when they're in storage.</td></tr>
 
-  LAFORGE
-     Look, we'll get through this. I promise you, okay?
+<tr id="L199"><td><a href="#L199">199</a></td><td>WORF:  That means that someone deliberately changed the setting. And then there is the matter of your conflict with Lieutenant Rocha.</td></tr>
 
-  AQUIEL
-     Then you believe me?
+<tr id="L200"><td><a href="#L200">200</a></td><td>AQUIEL:  Rocha and I had our disagreements but that does not mean I would kill him.</td></tr>
 
-  LAFORGE
-     Yes, I do.
+<tr id="L201"><td><a href="#L201">201</a></td><td>RIKER:  Have you been able to remember anything that happened after he attacked you?</td></tr>
 
-  ANNOTATION
-     Geordi kisses and hugs her
+<tr id="L202"><td><a href="#L202">202</a></td><td>AQUIEL:  No. Nothing. I suppose maybe in self-defence I</td></tr>
 
-  SOMEONE
-     Medical Officer's log, supplemental. I've isolated
-     the cellular residue from the deck plate, but the
-     DNA has destabilised. I'm attempting to reform it.
+<tr id="L203"><td><a href="#L203">203</a></td><td>RIKER:  Doctor Crusher tells me that in order to inflict the kind of molecular damage found in Rocha's remains, it would take a sustained phaser discharge of at least thirty to forty seconds. That doesn't sound like self-defence to me.</td></tr>
 
+<tr id="L204"><td><a href="#L204">204</a></td><td>LAFORGE:  Now wait a minute. We haven't even established this phaser is the murder weapon yet. And even at level ten I don't see how it could have done the damage the medical evidence says it did. A phase disruptor like a Klingon weapon, maybe.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L205"><td><a href="#L205">205</a></td><td>RIKER:  Look, we're not here to make accusations. We're trying to find out what happened. Commander Morag is due here in two hours. Let's see what he has to say.</td></tr>
 
-  CRUSHER
-     All right. Initiate the resonance frequency burst.
+<tr id="L206"><td><a href="#L206">206</a></td><td>LAFORGE:  Fine. In the meantime I'd like to go back to the station and see if I can access Rocha's personal logs again.</td></tr>
 
-  ANNOTATION
-     Beverly runs a device over some orange gloop in a
-     bowl
+<tr id="L207"><td><a href="#L207">207</a></td><td>RIKER:  Good idea.</td></tr>
 
-  CRUSHER
-     I'm starting to get a stable DNA scan. This is
-     odd. The nucleotide sequences are starting to
-     fluctuate. The DNA is becoming mobile. Let's try
-     another frequency burst, but increase the
-     resonance level by twenty percent.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L208"><td><a href="#L208">208</a></td><td>RIKER:  Geordi, wait a second. Thank you, Mister Worf.</td></tr>
 
-  ANNOTATION
-     the orange gloop reaches out and touches Beverly's
-     hand, then turns into a copy of that hand
+<tr id="L209"><td><a href="#L209">209</a></td><td>WORF:  Aye, sir.</td></tr>
 
+<tr id="L210"><td><a href="#L210">210</a></td><td>RIKER:  This is off the record. I'm saying this as a friend, not your superior officer. I think it would be best if you weren't so personally involved with Aquiel right now. There's a lot about her we don't know.</td></tr>
 
-LOCATION--Aquiel's quarters
+<tr id="L211"><td><a href="#L211">211</a></td><td>LAFORGE:  And there's a lot about her that I do know, and if she's innocent I want to help her prove it.</td></tr>
 
-  AQUIEL
-     I haven't been this close to someone in a long
-     time. I don't want to let go of it.
+<tr id="L212"><td><a href="#L212">212</a></td><td>RIKER:  I think you've let your personal feelings cloud your judgement.</td></tr>
 
-  LAFORGE
-     Neither do I, but I've got six hundred logs to go
-     through.
+<tr id="L213"><td><a href="#L213">213</a></td><td>LAFORGE:  I'm not the one making judgements.</td></tr>
 
-  AQUIEL
-     All right, but first there's something I want to
-     share with you. A way that we can become more
-     intimate. My people are partially telepathic. We
-     use something called the Canar to help focus our
-     thoughts. We also use the Canar for a stronger
-     emotional link during love.
+<tr><td></td><td>LOCATION--Relay Station ops</td></tr>
+<tr id="L214"><td><a href="#L214">214</a></td><td>LAFORGE:  Got it. Computer, display the personal records of Lieutenant Rocha from stardates 46455 to 46460.</td></tr>
 
-  ANNOTATION
-     Aquiel picks up a crystal from her display stand
+<tr id="L215"><td><a href="#L215">215</a></td><td>ANNOTATION: the logs for station 047 scroll through the monitor</td></tr>
 
-  LAFORGE
-     I was wondering what that was for. Do both of us
-     have to be telepathic for it to work?
+<tr id="L216"><td><a href="#L216">216</a></td><td>LAFORGE:  Computer, what happened to the log entries for stardate 46459?</td></tr>
 
-  AQUIEL
-     Let's find out.
+<tr id="L217"><td><a href="#L217">217</a></td><td>COMPUTER:  The logs have been deleted.</td></tr>
 
-  ANNOTATION
-     they kneel either side of the bed, with the Canar
-     in the middle. Aquiel reaches for Geordi's visor.
-     He takes her hands and guides them
+<tr id="L218"><td><a href="#L218">218</a></td><td>LAFORGE:  Who deleted them?</td></tr>
 
-  LAFORGE
-     Like this.
+<tr id="L219"><td><a href="#L219">219</a></td><td>COMPUTER:  Unknown.</td></tr>
 
-  ANNOTATION
-     she puts their hands on the Canar
+<tr id="L220"><td><a href="#L220">220</a></td><td>SOMEONE: Captain's log, supplemental. The Qu'Vat has arrived with Commander Morag. We are preparing to question him regarding his involvement in the murder of Lieutenant Rocha.</td></tr>
 
-  AQUIEL
-     Think of me.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L221"><td><a href="#L221">221</a></td><td>MORAG:  I killed no one!</td></tr>
 
+<tr id="L222"><td><a href="#L222">222</a></td><td>RIKER:  We found your DNA on the bulkheads and the console. We know you were there.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L223"><td><a href="#L223">223</a></td><td>TORAK:  Answer their questions.</td></tr>
 
-  CRUSHER
-     It's an exact reproduction of my hand, right down
-     to the DNA structure.
+<tr id="L224"><td><a href="#L224">224</a></td><td>MORAG:  Yes. Yes, I was there. My patrol route takes me near the station every six days. Three days ago, I hailed them. There was no response. I was concerned.</td></tr>
 
-  PICARD
-     Doctor, you said that this was formed from the
-     organic matter found in the deck plates.
+<tr id="L225"><td><a href="#L225">225</a></td><td>TROI:  Concerned?</td></tr>
 
-  CRUSHER
-     When I infused the matter with a resonance
-     frequency burst, it activated its DNA. Then it
-     touched my hand and it began to mimic my cellular
-     structure.
+<tr id="L226"><td><a href="#L226">226</a></td><td>MORAG:  Yes. I went aboard to see what had happened. There was no one was there, so I left.</td></tr>
 
-  PICARD
-     Doctor, what exactly is this?
+<tr id="L227"><td><a href="#L227">227</a></td><td>RIKER:  Is that all?</td></tr>
 
-  CRUSHER
-     This is going to sound very farfetched, but have
-     you ever heard of a coalescent organism?
+<tr id="L228"><td><a href="#L228">228</a></td><td>MORAG:  That's all.</td></tr>
 
-  PICARD
-     No.
+<tr id="L229"><td><a href="#L229">229</a></td><td>DATA:  Commander Morag, we have discovered that the encrypted message bank on the station has been tampered with. Our analysis indicates that twenty seven priority Starfleet messages are missing.</td></tr>
 
-  CRUSHER
-     They're rare microscopic lifeforms which need to
-     absorb other organisms in order to survive. Now,
-     that in itself isn't so unusual, but coalescents
-     become the organisms they've absorbed, right down
-     to the cellular level.
+<tr id="L230"><td><a href="#L230">230</a></td><td>MORAG:  What of it?</td></tr>
 
-  WORF
-     Do you think this is what happened with your hand?
+<tr id="L231"><td><a href="#L231">231</a></td><td>DATA:  Your DNA was also found on the message control module.</td></tr>
 
-  CRUSHER
-     There've been reports that these organisms can
-     exist on a larger scale. Certainly, what happened
-     to my hand seems to support that theory.
+<tr id="L232"><td><a href="#L232">232</a></td><td>MORAG:  This is outrageous! We will not tolerate these ridiculous accusations!</td></tr>
 
-  RIKER
-     So you think that Rocha was killed by one of these
-     organisms?
+<tr id="L233"><td><a href="#L233">233</a></td><td>TORAK:  This is a diplomatic matter, Morag! Do not make me search your ship.</td></tr>
 
-  CRUSHER
-     It's possible that something happened to him
-     before he reported for duty on the relay station.
+<tr id="L234"><td><a href="#L234">234</a></td><td>MORAG:  Yes, I did take the messages.</td></tr>
 
-  WORF
-     I do not understand.
+<tr id="L235"><td><a href="#L235">235</a></td><td>PICARD:  Did you kill Lieutenant Rocha?</td></tr>
 
-  CRUSHER
-     I've checked the records. Before he was posted to
-     the relay station, Rocha served on an outpost in
-     the Triona System. That is a remote sector. Maybe
-     he was absorbed by a coalescent during that
-     mission.
+<tr id="L236"><td><a href="#L236">236</a></td><td>MORAG:  No. I killed no one. There was no one there. I took the codes, but I killed no one.</td></tr>
 
-  RIKER
-     So what boarded the station could have been an
-     organism that looked and acted like Lieutenant
-     Rocha?
+<tr id="L237"><td><a href="#L237">237</a></td><td>PICARD:  Governor, we would like Commander Morag to remain on board the Enterprise until this investigation is complete.</td></tr>
 
-  WORF
-     How often do they have to change bodies?
+<tr id="L238"><td><a href="#L238">238</a></td><td>TORAK:  Take him.</td></tr>
 
-  CRUSHER
-     The microscopic organisms have a cycle of no more
-     than five to ten seconds. We can only assume a
-     larger, more complex coalescent would have a cycle
-     of days, even weeks.
+<tr id="L239"><td><a href="#L239">239</a></td><td>WORF:  This way.</td></tr>
 
-  PICARD
-     Doctor, if what you're saying is true, then Rocha
-     attacked Lieutenant Uhnari to find a new body.
+<tr><td></td><td>LOCATION--Relay Station ops</td></tr>
+<tr id="L240"><td><a href="#L240">240</a></td><td>LAFORGE:  Last night, after I dropped you off at your quarters you established a subspace link with this console. You deleted some of Rocha's personal files, didn't you?</td></tr>
 
-  CRUSHER
-     Right.
+<tr id="L241"><td><a href="#L241">241</a></td><td>AQUIEL:  Yes, I did.</td></tr>
 
-  RIKER
-     That means Uhnari is a coalescent.
+<tr id="L242"><td><a href="#L242">242</a></td><td>LAFORGE:  Why?</td></tr>
 
-  WORF
-     There was one other person on the station. Morag.
-     It is possible he was the one who was absorbed.
+<tr id="L243"><td><a href="#L243">243</a></td><td>AQUIEL:  I found a letter Rocha was planning to send to Starfleet Command about me. The letter said I had become belligerent and insubordinate. He was going to ask for a formal hearing. Geordi, I know how this looks.</td></tr>
 
-  PICARD
-     Computer, locate Commander Morag and Lieutenant
-     Uhnari.
+<tr id="L244"><td><a href="#L244">244</a></td><td>LAFORGE:  Yeah, it looks bad. I find out that you've erased a letter that contained a possible motivation for murder?</td></tr>
 
-  COMPUTER
-     Commander Morag is in his quarters. Lieutenant
-     Uhnari is not aboard the Enterprise.
+<tr id="L245"><td><a href="#L245">245</a></td><td>AQUIEL:  I didn't kill him.</td></tr>
 
-  WORF
-     Where did she go?
+<tr id="L246"><td><a href="#L246">246</a></td><td>LAFORGE:  Then explain this.</td></tr>
 
-  COMPUTER
-     Lieutenant Uhnari transported to Relay Station
-     forty seven at eighteen thirty hours.
+<tr id="L247"><td><a href="#L247">247</a></td><td>AQUIEL:  I was afraid if they found the letter they'd blame me for the murder. I'm not a model officer. I realise that. Sometimes I act on impulse instead of thinking things through.</td></tr>
 
-  RIKER
-     You get Morag. I'm going to the station.
+<tr id="L248"><td><a href="#L248">248</a></td><td>LAFORGE:  Aquiel, this really complicates things.</td></tr>
 
-  WORF
-     Aye, sir.
+<tr><td></td><td>LOCATION--Aquiel's quarters</td></tr>
+<tr id="L249"><td><a href="#L249">249</a></td><td>ANNOTATION: she grabs a case and starts packing</td></tr>
 
+<tr id="L250"><td><a href="#L250">250</a></td><td>LAFORGE:  What are you doing?</td></tr>
 
-LOCATION--Aquiel's quarters
+<tr id="L251"><td><a href="#L251">251</a></td><td>AQUIEL:  Getting out of here.</td></tr>
 
-  ANNOTATION
-     the Canar is glowing, changing colour, and La
-     Forge is grinning
+<tr id="L252"><td><a href="#L252">252</a></td><td>LAFORGE:  Aquiel, running away isn't going to prove your innocence. Facing the situation will.</td></tr>
 
-  AQUIEL
-     Geordi?
+<tr id="L253"><td><a href="#L253">253</a></td><td>AQUIEL:  I'm scared, Geordi.</td></tr>
 
-  LAFORGE
-     I can see you. Oh. And I can feel you.
+<tr id="L254"><td><a href="#L254">254</a></td><td>LAFORGE:  Look, we'll get through this. I promise you, okay?</td></tr>
 
+<tr id="L255"><td><a href="#L255">255</a></td><td>AQUIEL:  Then you believe me?</td></tr>
 
-LOCATION--Morag's quarters
+<tr id="L256"><td><a href="#L256">256</a></td><td>LAFORGE:  Yes, I do.</td></tr>
 
-  ANNOTATION
-     Worf enters, phaser drawn
+<tr id="L257"><td><a href="#L257">257</a></td><td>ANNOTATION: Geordi kisses and hugs her</td></tr>
 
-  WORF
-     Do not move.
+<tr id="L258"><td><a href="#L258">258</a></td><td>SOMEONE: Medical Officer's log, supplemental. I've isolated the cellular residue from the deck plate, but the DNA has destabilised. I'm attempting to reform it.</td></tr>
 
-  MORAG
-     What is this?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L259"><td><a href="#L259">259</a></td><td>CRUSHER:  All right. Initiate the resonance frequency burst.</td></tr>
 
-  WORF
-     You will come with me.
+<tr id="L260"><td><a href="#L260">260</a></td><td>ANNOTATION: Beverly runs a device over some orange gloop in a bowl</td></tr>
 
+<tr id="L261"><td><a href="#L261">261</a></td><td>CRUSHER:  I'm starting to get a stable DNA scan. This is odd. The nucleotide sequences are starting to fluctuate. The DNA is becoming mobile. Let's try another frequency burst, but increase the resonance level by twenty percent.</td></tr>
 
-LOCATION--Aquiel's quarters
+<tr id="L262"><td><a href="#L262">262</a></td><td>ANNOTATION: the orange gloop reaches out and touches Beverly's hand, then turns into a copy of that hand</td></tr>
 
-  AQUIEL
-     You've never been as close to someone as you're
-     about to be. Think of me.
+<tr><td></td><td>LOCATION--Aquiel's quarters</td></tr>
+<tr id="L263"><td><a href="#L263">263</a></td><td>AQUIEL:  I haven't been this close to someone in a long time. I don't want to let go of it.</td></tr>
 
-  ANNOTATION
-     the door opens. Geordi grabs for his visor as
-     Riker gestures with his phaser
+<tr id="L264"><td><a href="#L264">264</a></td><td>LAFORGE:  Neither do I, but I've got six hundred logs to go through.</td></tr>
 
-  RIKER
-     Step away from him, Lieutenant.
+<tr id="L265"><td><a href="#L265">265</a></td><td>AQUIEL:  All right, but first there's something I want to share with you. A way that we can become more intimate. My people are partially telepathic. We use something called the Canar to help focus our thoughts. We also use the Canar for a stronger emotional link during love.</td></tr>
 
-  LAFORGE
-     What are you doing, Commander?
+<tr id="L266"><td><a href="#L266">266</a></td><td>ANNOTATION: Aquiel picks up a crystal from her display stand</td></tr>
 
-  RIKER
-     That may not be Lieutenant Uhnari.
+<tr id="L267"><td><a href="#L267">267</a></td><td>LAFORGE:  I was wondering what that was for. Do both of us have to be telepathic for it to work?</td></tr>
 
-  LAFORGE
-     What?
+<tr id="L268"><td><a href="#L268">268</a></td><td>AQUIEL:  Let's find out.</td></tr>
 
-  AQUIEL
-     What are you saying?
+<tr id="L269"><td><a href="#L269">269</a></td><td>ANNOTATION: they kneel either side of the bed, with the Canar in the middle. Aquiel reaches for Geordi's visor. He takes her hands and guides them</td></tr>
 
-  RIKER
-     Step away now.
+<tr id="L270"><td><a href="#L270">270</a></td><td>LAFORGE:  Like this.</td></tr>
 
-  SOMEONE
-     Medical Officer's Log, supplemental. Commander
-     Morag and Lieutenant Uhnari are being kept under
-     close observation. So far, no sign of coalescent
-     behaviour has surfaced.
+<tr id="L271"><td><a href="#L271">271</a></td><td>ANNOTATION: she puts their hands on the Canar</td></tr>
 
+<tr id="L272"><td><a href="#L272">272</a></td><td>AQUIEL:  Think of me.</td></tr>
 
-LOCATION--La Forge's quarters
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L273"><td><a href="#L273">273</a></td><td>CRUSHER:  It's an exact reproduction of my hand, right down to the DNA structure.</td></tr>
 
-  RIKER
-     Aquiel and Morag will be transferred to a secure
-     medical facility at Starbase twelve. Maybe we'll
-     know more by the time we get there.
+<tr id="L274"><td><a href="#L274">274</a></td><td>PICARD:  Doctor, you said that this was formed from the organic matter found in the deck plates.</td></tr>
 
-  LAFORGE
-     Yeah, right.
+<tr id="L275"><td><a href="#L275">275</a></td><td>CRUSHER:  When I infused the matter with a resonance frequency burst, it activated its DNA. Then it touched my hand and it began to mimic my cellular structure.</td></tr>
 
-  RIKER
-     It could be Morag. We don't know for sure.
+<tr id="L276"><td><a href="#L276">276</a></td><td>PICARD:  Doctor, what exactly is this?</td></tr>
 
-  LAFORGE
-     Sure.
+<tr id="L277"><td><a href="#L277">277</a></td><td>CRUSHER:  This is going to sound very farfetched, but have you ever heard of a coalescent organism?</td></tr>
 
-  RIKER
-     Get some rest. You've had a rough couple of days.
+<tr id="L278"><td><a href="#L278">278</a></td><td>PICARD:  No.</td></tr>
 
-  LAFORGE
-     Thanks.
+<tr id="L279"><td><a href="#L279">279</a></td><td>CRUSHER:  They're rare microscopic lifeforms which need to absorb other organisms in order to survive. Now, that in itself isn't so unusual, but coalescents become the organisms they've absorbed, right down to the cellular level.</td></tr>
 
-  ANNOTATION
-     Riker leaves
+<tr id="L280"><td><a href="#L280">280</a></td><td>WORF:  Do you think this is what happened with your hand?</td></tr>
 
-  LAFORGE
-     Computer, display the Engineering duty roster for
-     the next three days.
+<tr id="L281"><td><a href="#L281">281</a></td><td>CRUSHER:  There've been reports that these organisms can exist on a larger scale. Certainly, what happened to my hand seems to support that theory.</td></tr>
 
-  ANNOTATION
-     Maura sits and watches then starts worrying at his
-     trousers
+<tr id="L282"><td><a href="#L282">282</a></td><td>RIKER:  So you think that Rocha was killed by one of these organisms?</td></tr>
 
-  LAFORGE
-     Maura, come on, not now. Maura, I said not now.
-     Come on, give me a break here. Go lay down!
+<tr id="L283"><td><a href="#L283">283</a></td><td>CRUSHER:  It's possible that something happened to him before he reported for duty on the relay station.</td></tr>
 
-  ANNOTATION
-     the dog does, then there's a strange sound
+<tr id="L284"><td><a href="#L284">284</a></td><td>WORF:  I do not understand.</td></tr>
 
-  LAFORGE
-     Maura?
+<tr id="L285"><td><a href="#L285">285</a></td><td>CRUSHER:  I've checked the records. Before he was posted to the relay station, Rocha served on an outpost in the Triona System. That is a remote sector. Maybe he was absorbed by a coalescent during that mission.</td></tr>
 
-  ANNOTATION
-     the dog is turning into orange gloop. Geordi
-     scrambles across the room and gets a phaser from a
-     drawer. He fires, then ups the power and fires
-     again. Eventually the gloop is destroyed
+<tr id="L286"><td><a href="#L286">286</a></td><td>RIKER:  So what boarded the station could have been an organism that looked and acted like Lieutenant Rocha?</td></tr>
 
+<tr id="L287"><td><a href="#L287">287</a></td><td>WORF:  How often do they have to change bodies?</td></tr>
 
-LOCATION--Ten Forward
+<tr id="L288"><td><a href="#L288">288</a></td><td>CRUSHER:  The microscopic organisms have a cycle of no more than five to ten seconds. We can only assume a larger, more complex coalescent would have a cycle of days, even weeks.</td></tr>
 
-  LAFORGE
-     Maybe the reason you don't remember anything that
-     happened after Rocha attacked you is that the
-     coalescing process had begun. (drinks arrive)
-     Thank you. Remember when you said you felt like
-     the memories had been drained right out of you?
-     That's probably exactly what was going on.
+<tr id="L289"><td><a href="#L289">289</a></td><td>PICARD:  Doctor, if what you're saying is true, then Rocha attacked Lieutenant Uhnari to find a new body.</td></tr>
 
-  AQUIEL
-     Then maybe I did take the phaser.
+<tr id="L290"><td><a href="#L290">290</a></td><td>CRUSHER:  Right.</td></tr>
 
-  LAFORGE
-     Whatever happened, at least you got away before
-     the process took hold.
+<tr id="L291"><td><a href="#L291">291</a></td><td>RIKER:  That means Uhnari is a coalescent.</td></tr>
 
-  AQUIEL
-     So he turned on Maura.
+<tr id="L292"><td><a href="#L292">292</a></td><td>WORF:  There was one other person on the station. Morag. It is possible he was the one who was absorbed.</td></tr>
 
-  LAFORGE
-     Right. Well, what now?
+<tr id="L293"><td><a href="#L293">293</a></td><td>PICARD:  Computer, locate Commander Morag and Lieutenant Uhnari.</td></tr>
 
-  AQUIEL
-     I guess I'll be going to Starbase two twelve for
-     re assignment.
+<tr id="L294"><td><a href="#L294">294</a></td><td>COMPUTER:  Commander Morag is in his quarters. Lieutenant Uhnari is not aboard the Enterprise.</td></tr>
 
-  LAFORGE
-     You know, I had a talk with Chief Pendleton in
-     Communications. There's an opening for a level two
-     specialist.
+<tr id="L295"><td><a href="#L295">295</a></td><td>WORF:  Where did she go?</td></tr>
 
-  AQUIEL
-     Really? I'm sure the waiting list so long I'd be
-     grey before I got here.
+<tr id="L296"><td><a href="#L296">296</a></td><td>COMPUTER:  Lieutenant Uhnari transported to Relay Station forty seven at eighteen thirty hours.</td></tr>
 
-  LAFORGE
-     I could put in a good word.
+<tr id="L297"><td><a href="#L297">297</a></td><td>RIKER:  You get Morag. I'm going to the station.</td></tr>
 
-  AQUIEL
-     It's an appealing offer, but I think I'd rather
-     get here on my own merits. Don't be surprised if
-     you see my name on that list.
+<tr id="L298"><td><a href="#L298">298</a></td><td>WORF:  Aye, sir.</td></tr>
 
+<tr><td></td><td>LOCATION--Aquiel's quarters</td></tr>
+<tr id="L299"><td><a href="#L299">299</a></td><td>ANNOTATION: the Canar is glowing, changing colour, and La Forge is grinning</td></tr>
 
-END CREDITS
+<tr id="L300"><td><a href="#L300">300</a></td><td>AQUIEL:  Geordi?</td></tr>
+
+<tr id="L301"><td><a href="#L301">301</a></td><td>LAFORGE:  I can see you. Oh. And I can feel you.</td></tr>
+
+<tr><td></td><td>LOCATION--Morag's quarters</td></tr>
+<tr id="L302"><td><a href="#L302">302</a></td><td>ANNOTATION: Worf enters, phaser drawn</td></tr>
+
+<tr id="L303"><td><a href="#L303">303</a></td><td>WORF:  Do not move.</td></tr>
+
+<tr id="L304"><td><a href="#L304">304</a></td><td>MORAG:  What is this?</td></tr>
+
+<tr id="L305"><td><a href="#L305">305</a></td><td>WORF:  You will come with me.</td></tr>
+
+<tr><td></td><td>LOCATION--Aquiel's quarters</td></tr>
+<tr id="L306"><td><a href="#L306">306</a></td><td>AQUIEL:  You've never been as close to someone as you're about to be. Think of me.</td></tr>
+
+<tr id="L307"><td><a href="#L307">307</a></td><td>ANNOTATION: the door opens. Geordi grabs for his visor as Riker gestures with his phaser</td></tr>
+
+<tr id="L308"><td><a href="#L308">308</a></td><td>RIKER:  Step away from him, Lieutenant.</td></tr>
+
+<tr id="L309"><td><a href="#L309">309</a></td><td>LAFORGE:  What are you doing, Commander?</td></tr>
+
+<tr id="L310"><td><a href="#L310">310</a></td><td>RIKER:  That may not be Lieutenant Uhnari.</td></tr>
+
+<tr id="L311"><td><a href="#L311">311</a></td><td>LAFORGE:  What?</td></tr>
+
+<tr id="L312"><td><a href="#L312">312</a></td><td>AQUIEL:  What are you saying?</td></tr>
+
+<tr id="L313"><td><a href="#L313">313</a></td><td>RIKER:  Step away now.</td></tr>
+
+<tr id="L314"><td><a href="#L314">314</a></td><td>SOMEONE: Medical Officer's Log, supplemental. Commander Morag and Lieutenant Uhnari are being kept under close observation. So far, no sign of coalescent behaviour has surfaced.</td></tr>
+
+<tr><td></td><td>LOCATION--La Forge's quarters</td></tr>
+<tr id="L315"><td><a href="#L315">315</a></td><td>RIKER:  Aquiel and Morag will be transferred to a secure medical facility at Starbase twelve. Maybe we'll know more by the time we get there.</td></tr>
+
+<tr id="L316"><td><a href="#L316">316</a></td><td>LAFORGE:  Yeah, right.</td></tr>
+
+<tr id="L317"><td><a href="#L317">317</a></td><td>RIKER:  It could be Morag. We don't know for sure.</td></tr>
+
+<tr id="L318"><td><a href="#L318">318</a></td><td>LAFORGE:  Sure.</td></tr>
+
+<tr id="L319"><td><a href="#L319">319</a></td><td>RIKER:  Get some rest. You've had a rough couple of days.</td></tr>
+
+<tr id="L320"><td><a href="#L320">320</a></td><td>LAFORGE:  Thanks.</td></tr>
+
+<tr id="L321"><td><a href="#L321">321</a></td><td>ANNOTATION: Riker leaves</td></tr>
+
+<tr id="L322"><td><a href="#L322">322</a></td><td>LAFORGE:  Computer, display the Engineering duty roster for the next three days.</td></tr>
+
+<tr id="L323"><td><a href="#L323">323</a></td><td>ANNOTATION: Maura sits and watches then starts worrying at his trousers</td></tr>
+
+<tr id="L324"><td><a href="#L324">324</a></td><td>LAFORGE:  Maura, come on, not now. Maura, I said not now. Come on, give me a break here. Go lay down!</td></tr>
+
+<tr id="L325"><td><a href="#L325">325</a></td><td>ANNOTATION: the dog does, then there's a strange sound</td></tr>
+
+<tr id="L326"><td><a href="#L326">326</a></td><td>LAFORGE:  Maura?</td></tr>
+
+<tr id="L327"><td><a href="#L327">327</a></td><td>ANNOTATION: the dog is turning into orange gloop. Geordi scrambles across the room and gets a phaser from a drawer. He fires, then ups the power and fires again. Eventually the gloop is destroyed</td></tr>
+
+<tr><td></td><td>LOCATION--Ten Forward</td></tr>
+<tr id="L328"><td><a href="#L328">328</a></td><td>LAFORGE:  Maybe the reason you don't remember anything that happened after Rocha attacked you is that the coalescing process had begun. (drinks arrive) Thank you. Remember when you said you felt like the memories had been drained right out of you? That's probably exactly what was going on.</td></tr>
+
+<tr id="L329"><td><a href="#L329">329</a></td><td>AQUIEL:  Then maybe I did take the phaser.</td></tr>
+
+<tr id="L330"><td><a href="#L330">330</a></td><td>LAFORGE:  Whatever happened, at least you got away before the process took hold.</td></tr>
+
+<tr id="L331"><td><a href="#L331">331</a></td><td>AQUIEL:  So he turned on Maura.</td></tr>
+
+<tr id="L332"><td><a href="#L332">332</a></td><td>LAFORGE:  Right. Well, what now?</td></tr>
+
+<tr id="L333"><td><a href="#L333">333</a></td><td>AQUIEL:  I guess I'll be going to Starbase two twelve for re assignment.</td></tr>
+
+<tr id="L334"><td><a href="#L334">334</a></td><td>LAFORGE:  You know, I had a talk with Chief Pendleton in Communications. There's an opening for a level two specialist.</td></tr>
+
+<tr id="L335"><td><a href="#L335">335</a></td><td>AQUIEL:  Really? I'm sure the waiting list so long I'd be grey before I got here.</td></tr>
+
+<tr id="L336"><td><a href="#L336">336</a></td><td>LAFORGE:  I could put in a good word.</td></tr>
+
+<tr id="L337"><td><a href="#L337">337</a></td><td>AQUIEL:  It's an appealing offer, but I think I'd rather get here on my own merits. Don't be surprised if you see my name on that list.</td></tr>
+
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

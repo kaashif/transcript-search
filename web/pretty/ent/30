@@ -1,1529 +1,768 @@
-A Night In Sickbay
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>A Night In Sickbay</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Engineering - 9:09 pm</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>TUCKER:  We're playing with fire, Captain. It's just a matter of time before this injector gives up the ghost.</td></tr>
 
-LOCATION--Engineering - 9:09 pm
+<tr id="L2"><td><a href="#L2">2</a></td><td>ARCHER:  You've got four more. The ship can run on four.</td></tr>
 
-  TUCKER
-     We're playing with fire, Captain. It's just a
-     matter of time before this injector gives up the
-     ghost.
-
-  ARCHER
-     You've got four more. The ship can run on four.
+<tr id="L3"><td><a href="#L3">3</a></td><td>TUCKER:  Yeah, but it can't run on three. You know what happens at warp speed when you've only got three plasma injectors online.</td></tr>
 
-  TUCKER
-     Yeah, but it can't run on three. You know what
-     happens at warp speed when you've only got three
-     plasma injectors online.
+<tr id="L4"><td><a href="#L4">4</a></td><td>ARCHER:  What are the odds of us losing another one before we find a replacement?</td></tr>
 
-  ARCHER
-     What are the odds of us losing another one before
-     we find a replacement?
+<tr id="L5"><td><a href="#L5">5</a></td><td>TUCKER:  I'm not comfortable with four, Captain. We need five. What the hell happened down there, anyway?</td></tr>
 
-  TUCKER
-     I'm not comfortable with four, Captain. We need
-     five. What the hell happened down there, anyway?
+<tr id="L6"><td><a href="#L6">6</a></td><td>ARCHER:  T'Pol thinks we insulted them again.</td></tr>
 
-  ARCHER
-     T'Pol thinks we insulted them again.
+<tr id="L7"><td><a href="#L7">7</a></td><td>TUCKER:  How? You didn't eat cabbage before you left.</td></tr>
 
-  TUCKER
-     How? You didn't eat cabbage before you left.
+<tr id="L8"><td><a href="#L8">8</a></td><td>ARCHER:  I was a perfect gentleman. We're going to have to go somewhere else to find you your injector, Trip. These people are impossible.</td></tr>
 
-  ARCHER
-     I was a perfect gentleman. We're going to have to
-     go somewhere else to find you your injector, Trip.
-     These people are impossible.
+<tr id="L9"><td><a href="#L9">9</a></td><td>TUCKER:  Their components are metallurgically sound, dependable. We could look for six months and not find anything half as compatible. You're a trained diplomat. Take the high road. There's got to be some way you can kiss and make up.</td></tr>
 
-  TUCKER
-     Their components are metallurgically sound,
-     dependable. We could look for six months and not
-     find anything half as compatible. You're a trained
-     diplomat. Take the high road. There's got to be
-     some way you can kiss and make up.
+<tr id="L10"><td><a href="#L10">10</a></td><td>ARCHER:  I'll have T'Pol see if she can find out what we did, but I'm not promising anything.</td></tr>
 
-  ARCHER
-     I'll have T'Pol see if she can find out what we
-     did, but I'm not promising anything.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L11"><td><a href="#L11">11</a></td><td>ARCHER:  I went to decon. I thought you were there with Porthos. Is every</td></tr>
 
+<tr id="L12"><td><a href="#L12">12</a></td><td>ANNOTATION: He sees Porthos looking unhappy in an isolation box with rubber gloves to prevent direct contact.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L13"><td><a href="#L13">13</a></td><td>PHLOX:  It's all right to pet him. You'll have to use the isolation gloves.</td></tr>
 
-  ARCHER
-     I went to decon. I thought you were there with
-     Porthos. Is every
+<tr id="L14"><td><a href="#L14">14</a></td><td>ARCHER:  Did you run your tests?</td></tr>
 
-  ANNOTATION
-     He sees Porthos looking unhappy in an isolation
-     box with rubber gloves to prevent direct contact.
+<tr id="L15"><td><a href="#L15">15</a></td><td>PHLOX:  His auto-immune system is collapsing. I've isolated the pathogen, broken down its protein sequence. I can't explain it, Captain. It shouldn't be affecting him like this, but it is.</td></tr>
 
-  PHLOX
-     It's all right to pet him. You'll have to use the
-     isolation gloves.
+<tr id="L16"><td><a href="#L16">16</a></td><td>ARCHER:  So what are you doing?</td></tr>
 
-  ARCHER
-     Did you run your tests?
+<tr id="L17"><td><a href="#L17">17</a></td><td>PHLOX:  Running more tests. I'm sure I'll come up with something.</td></tr>
 
-  PHLOX
-     His auto-immune system is collapsing. I've
-     isolated the pathogen, broken down its protein
-     sequence. I can't explain it, Captain. It
-     shouldn't be affecting him like this, but it is.
+<tr id="L18"><td><a href="#L18">18</a></td><td>ARCHER:  How sure? Could this be life-threatening?</td></tr>
 
-  ARCHER
-     So what are you doing?
+<tr id="L19"><td><a href="#L19">19</a></td><td>PHLOX:  It's too early to tell.</td></tr>
 
-  PHLOX
-     Running more tests. I'm sure I'll come up with
-     something.
+<tr id="L20"><td><a href="#L20">20</a></td><td>ARCHER:  Didn't we send his genome to the Kreetassans along with ours?</td></tr>
 
-  ARCHER
-     How sure? Could this be life-threatening?
+<tr id="L21"><td><a href="#L21">21</a></td><td>PHLOX:  I transmitted them myself before you left Enterprise.</td></tr>
 
-  PHLOX
-     It's too early to tell.
+<tr id="L22"><td><a href="#L22">22</a></td><td>ARCHER:  So shouldn't they have noticed there's a pathogen in their atmosphere that his immune system can't handle?</td></tr>
 
-  ARCHER
-     Didn't we send his genome to the Kreetassans along
-     with ours?
+<tr id="L23"><td><a href="#L23">23</a></td><td>PHLOX:  They should have, assuming they took the time to check.</td></tr>
 
-  PHLOX
-     I transmitted them myself before you left
-     Enterprise.
+<tr id="L24"><td><a href="#L24">24</a></td><td>ARCHER:  I'm told I've offended these people twice. Once for eating in front of them, the second time, I don't even know what for. But if their carelessness has hurt Porthos or, God forbid, ends up killing him, they're going to find out what being offended is all about.</td></tr>
 
-  ARCHER
-     So shouldn't they have noticed there's a pathogen
-     in their atmosphere that his immune system can't
-     handle?
+<tr id="L25"><td><a href="#L25">25</a></td><td>PHLOX:  Porthos has no intention of giving up, and neither do I.</td></tr>
 
-  PHLOX
-     They should have, assuming they took the time to
-     check.
+<tr id="L26"><td><a href="#L26">26</a></td><td>ARCHER:  You hear that, boy?</td></tr>
 
-  ARCHER
-     I'm told I've offended these people twice. Once
-     for eating in front of them, the second time, I
-     don't even know what for. But if their
-     carelessness has hurt Porthos or, God forbid, ends
-     up killing him, they're going to find out what
-     being offended is all about.
+<tr id="L27"><td><a href="#L27">27</a></td><td>ANNOTATION: He uses a glove to rub Porthos' chest.</td></tr>
 
-  PHLOX
-     Porthos has no intention of giving up, and neither
-     do I.
+<tr id="L28"><td><a href="#L28">28</a></td><td>ARCHER:  We're all pulling for you.</td></tr>
 
-  ARCHER
-     You hear that, boy?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L29"><td><a href="#L29">29</a></td><td>ARCHER:  Did you reach them?</td></tr>
 
-  ANNOTATION
-     He uses a glove to rub Porthos' chest.
+<tr id="L30"><td><a href="#L30">30</a></td><td>T'POL:  Yes.</td></tr>
 
-  ARCHER
-     We're all pulling for you.
+<tr id="L31"><td><a href="#L31">31</a></td><td>ARCHER:  And?</td></tr>
 
+<tr id="L32"><td><a href="#L32">32</a></td><td>T'POL:  I think we should discuss this in your ready room.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L33"><td><a href="#L33">33</a></td><td>ARCHER:  Well?</td></tr>
 
-  ARCHER
-     Did you reach them?
+<tr id="L34"><td><a href="#L34">34</a></td><td>T'POL:  Do you recall the stand of trees outside the Hall of Diplomacy?</td></tr>
 
-  T'POL
-     Yes.
+<tr id="L35"><td><a href="#L35">35</a></td><td>ARCHER:  What are you talking about?</td></tr>
 
-  ARCHER
-     And?
+<tr id="L36"><td><a href="#L36">36</a></td><td>T'POL:  They're Alvera trees, over three hundred years old.</td></tr>
 
-  T'POL
-     I think we should discuss this in your ready room.
+<tr id="L37"><td><a href="#L37">37</a></td><td>ARCHER:  That's fascinating. Did you apologise for whatever we did wrong? Are we going to get our plasma injector?</td></tr>
 
+<tr id="L38"><td><a href="#L38">38</a></td><td>T'POL:  The Kreetassans consider the Alvera trees cultural treasures. Apparently, Porthos urinated on one of them.</td></tr>
 
-LOCATION--Ready room
+<tr id="L39"><td><a href="#L39">39</a></td><td>ARCHER:  And that's what they're insulted about?</td></tr>
 
-  ARCHER
-     Well?
+<tr id="L40"><td><a href="#L40">40</a></td><td>T'POL:  It is understandable.</td></tr>
 
-  T'POL
-     Do you recall the stand of trees outside the Hall
-     of Diplomacy?
+<tr id="L41"><td><a href="#L41">41</a></td><td>ARCHER:  Well, maybe if they'd bothered to read the genetic profile we sent they'd have told us to leave the dog on the ship, and then he wouldn't have had an opportunity to pee on one of their precious trees.</td></tr>
 
-  ARCHER
-     What are you talking about?
+<tr id="L42"><td><a href="#L42">42</a></td><td>T'POL:  I conveyed your sincerest apologies to the Chancellery. They're discussing possible acts of contrition.</td></tr>
 
-  T'POL
-     They're Alvera trees, over three hundred years
-     old.
+<tr id="L43"><td><a href="#L43">43</a></td><td>ARCHER:  Where the hell do you get off conveying my sincerest apologies? They're the ones who should be sorry.</td></tr>
 
-  ARCHER
-     That's fascinating. Did you apologise for whatever
-     we did wrong? Are we going to get our plasma
-     injector?
+<tr id="L44"><td><a href="#L44">44</a></td><td>T'POL:  I don't need to remind you that Commander Tucker is relying on us.</td></tr>
 
-  T'POL
-     The Kreetassans consider the Alvera trees cultural
-     treasures. Apparently, Porthos urinated on one of
-     them.
+<tr id="L45"><td><a href="#L45">45</a></td><td>ARCHER:  There are some things more important than plasma injectors.</td></tr>
 
-  ARCHER
-     And that's what they're insulted about?
+<tr id="L46"><td><a href="#L46">46</a></td><td>T'POL:  Are you referring to your pride?</td></tr>
 
-  T'POL
-     It is understandable.
+<tr id="L47"><td><a href="#L47">47</a></td><td>ARCHER:  I'll tell you one thing, Sub-Commander. If anything happens to Porthos, I'll be the one watering their Alvera trees.</td></tr>
 
-  ARCHER
-     Well, maybe if they'd bothered to read the genetic
-     profile we sent they'd have told us to leave the
-     dog on the ship, and then he wouldn't have had an
-     opportunity to pee on one of their precious trees.
+<tr id="L48"><td><a href="#L48">48</a></td><td>ANNOTATION: Archer leaves. In his quarters at 10:32 pm he's bouncing a water polo ball against the wall a la 'Cooler King' while a game is playing on his monitor. Then he looks at Porthos's cushion, picks up a blanket and leaves.</td></tr>
 
-  T'POL
-     I conveyed your sincerest apologies to the
-     Chancellery. They're discussing possible acts of
-     contrition.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L49"><td><a href="#L49">49</a></td><td>ANNOTATION: Phlox watches Archer walk in with the blanket and pillow.</td></tr>
 
-  ARCHER
-     Where the hell do you get off conveying my
-     sincerest apologies? They're the ones who should
-     be sorry.
+<tr id="L50"><td><a href="#L50">50</a></td><td>PHLOX:  If you were a married man I'd be wondering if your wife had thrown you out.</td></tr>
 
-  T'POL
-     I don't need to remind you that Commander Tucker
-     is relying on us.
+<tr id="L51"><td><a href="#L51">51</a></td><td>ARCHER:  I just thought it might cheer Porthos up if I slept here tonight. That is, if it's all right with you.</td></tr>
 
-  ARCHER
-     There are some things more important than plasma
-     injectors.
+<tr id="L52"><td><a href="#L52">52</a></td><td>PHLOX:  I don't think your dog is in any condition to know whether you're here or not.</td></tr>
 
-  T'POL
-     Are you referring to your pride?
+<tr id="L53"><td><a href="#L53">53</a></td><td>ARCHER:  Well then, maybe it'll cheer me up.</td></tr>
 
-  ARCHER
-     I'll tell you one thing, Sub-Commander. If
-     anything happens to Porthos, I'll be the one
-     watering their Alvera trees.
+<tr id="L54"><td><a href="#L54">54</a></td><td>PHLOX:  Be my guest. Take your pick. (gestures to biobeds)</td></tr>
 
-  ANNOTATION
-     Archer leaves. In his quarters at 10:32 pm he's
-     bouncing a water polo ball against the wall a la
-     'Cooler King' while a game is playing on his
-     monitor. Then he looks at Porthos's cushion, picks
-     up a blanket and leaves.
+<tr id="L55"><td><a href="#L55">55</a></td><td>ARCHER:  How's Porthos doing?</td></tr>
 
+<tr id="L56"><td><a href="#L56">56</a></td><td>PHLOX:  My sub-mammalian database contains no pertinent files on bugles, but there's sufficient information on similar chordata.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L57"><td><a href="#L57">57</a></td><td>ARCHER:  Beagles.</td></tr>
 
-  ANNOTATION
-     Phlox watches Archer walk in with the blanket and
-     pillow.
+<tr id="L58"><td><a href="#L58">58</a></td><td>PHLOX:  Yes.</td></tr>
 
-  PHLOX
-     If you were a married man I'd be wondering if your
-     wife had thrown you out.
+<tr id="L59"><td><a href="#L59">59</a></td><td>ANNOTATION: Archer makes up his temporary bed.</td></tr>
 
-  ARCHER
-     I just thought it might cheer Porthos up if I
-     slept here tonight. That is, if it's all right
-     with you.
+<tr id="L60"><td><a href="#L60">60</a></td><td>ARCHER:  Let me ask you a question, Doc, just out of curiosity. Are there any dogs on your homeworld?</td></tr>
 
-  PHLOX
-     I don't think your dog is in any condition to know
-     whether you're here or not.
+<tr id="L61"><td><a href="#L61">61</a></td><td>PHLOX:  The Denobulan Lemur is highly sought-after. It's not exactly a dog, but you could say it's doglike. It has a tail, fur. Most have one head.</td></tr>
 
-  ARCHER
-     Well then, maybe it'll cheer me up.
+<tr id="L62"><td><a href="#L62">62</a></td><td>ARCHER:  Did your medical training include any</td></tr>
 
-  PHLOX
-     Be my guest. Take your pick. (gestures to biobeds)
+<tr id="L63"><td><a href="#L63">63</a></td><td>PHLOX:  Captain, please. You needn't be concerned. I hold six degrees in Interspecies Veterinary Medicine.</td></tr>
 
-  ARCHER
-     How's Porthos doing?
+<tr id="L64"><td><a href="#L64">64</a></td><td>ARCHER:  I thought you were just, you know, a people doctor.</td></tr>
 
-  PHLOX
-     My sub-mammalian database contains no pertinent
-     files on bugles, but there's sufficient
-     information on similar chordata.
+<tr id="L65"><td><a href="#L65">65</a></td><td>PHLOX:  As a matter of fact I've also earned degrees in dentistry, hematology, botanical pharmacology.</td></tr>
 
-  ARCHER
-     Beagles.
+<tr id="L66"><td><a href="#L66">66</a></td><td>ARCHER:  I'm impressed. So, how's he doing?</td></tr>
 
-  PHLOX
-     Yes.
+<tr id="L67"><td><a href="#L67">67</a></td><td>PHLOX:  I believe I've eliminated the pathogen. The question is whether the treatment I've devised will stabilise his auto-immune system before</td></tr>
 
-  ANNOTATION
-     Archer makes up his temporary bed.
+<tr id="L68"><td><a href="#L68">68</a></td><td>ARCHER:  Before what?</td></tr>
 
-  ARCHER
-     Let me ask you a question, Doc, just out of
-     curiosity. Are there any dogs on your homeworld?
+<tr id="L69"><td><a href="#L69">69</a></td><td>PHLOX:  In a few hours, I'll have a more detailed prognosis.</td></tr>
 
-  PHLOX
-     The Denobulan Lemur is highly sought-after. It's
-     not exactly a dog, but you could say it's doglike.
-     It has a tail, fur. Most have one head.
+<tr id="L70"><td><a href="#L70">70</a></td><td>ARCHER:  Before what, Doctor?</td></tr>
 
-  ARCHER
-     Did your medical training include any
+<tr id="L71"><td><a href="#L71">71</a></td><td>PHLOX:  There are many harmless strains of bacteria that can become lethal when the immune system is compromised, but it is too early to be thinking about that. Now, we should both try to get a few hours of rest. If there are any changes in his vital signs the alarms are quite loud. Good night.</td></tr>
 
-  PHLOX
-     Captain, please. You needn't be concerned. I hold
-     six degrees in Interspecies Veterinary Medicine.
+<tr id="L72"><td><a href="#L72">72</a></td><td>ANNOTATION: Archer speaks to a patently fake beagle.</td></tr>
 
-  ARCHER
-     I thought you were just, you know, a people
-     doctor.
+<tr id="L73"><td><a href="#L73">73</a></td><td>ARCHER:   I would have brought you some cheese, but Doctor Phlox wouldn't have let me give you any.</td></tr>
 
-  PHLOX
-     As a matter of fact I've also earned degrees in
-     dentistry, hematology, botanical pharmacology.
+<tr id="L74"><td><a href="#L74">74</a></td><td>ANNOTATION: Archer goes to bed, draws a curtain around it, lies down and dims the lights. A metallic grinding sound gets him up again.</td></tr>
 
-  ARCHER
-     I'm impressed. So, how's he doing?
+<tr id="L75"><td><a href="#L75">75</a></td><td>ARCHER:  Doctor, are you all right?</td></tr>
 
-  PHLOX
-     I believe I've eliminated the pathogen. The
-     question is whether the treatment I've devised
-     will stabilise his auto-immune system before
+<tr id="L76"><td><a href="#L76">76</a></td><td>PHLOX:  I'm sorry, Captain. Did I wake you? Just trimming my toenails. They grow quite rapidly. Have to keep them groomed at least once a week.</td></tr>
 
-  ARCHER
-     Before what?
+<tr id="L77"><td><a href="#L77">77</a></td><td>ARCHER:  Just wanted to be sure you're okay.</td></tr>
 
-  PHLOX
-     In a few hours, I'll have a more detailed
-     prognosis.
+<tr id="L78"><td><a href="#L78">78</a></td><td>PHLOX:  Thanks for your concern. Good night.</td></tr>
 
-  ARCHER
-     Before what, Doctor?
+<tr id="L79"><td><a href="#L79">79</a></td><td>ANNOTATION: He carries on slicing about an inch of brown nail off his toes. Archer returns to his bed and Phlox feeds his nail trimmings to something in a cage. Then we're treated to the sight of Phlox scraping an extremely long tongue. Later, Archer wakes from sleep to the sound of animals chirping. He gets up to see Phlox doing a feeding round.</td></tr>
 
-  PHLOX
-     There are many harmless strains of bacteria that
-     can become lethal when the immune system is
-     compromised, but it is too early to be thinking
-     about that. Now, we should both try to get a few
-     hours of rest. If there are any changes in his
-     vital signs the alarms are quite loud. Good night.
+<tr id="L80"><td><a href="#L80">80</a></td><td>PHLOX:  I'm sorry, Captain. Did I wake you again?</td></tr>
 
-  ANNOTATION
-     Archer speaks to a patently fake beagle.
+<tr id="L81"><td><a href="#L81">81</a></td><td>ARCHER:  What the hell's going on?</td></tr>
 
-  ARCHER
-     I would have brought you some cheese, but Doctor
-     Phlox wouldn't have let me give you any.
+<tr id="L82"><td><a href="#L82">82</a></td><td>PHLOX:  Feeding time.</td></tr>
 
-  ANNOTATION
-     Archer goes to bed, draws a curtain around it,
-     lies down and dims the lights. A metallic grinding
-     sound gets him up again.
+<tr id="L83"><td><a href="#L83">83</a></td><td>ANNOTATION: He sprinkles something into a tank of water and a mass of bubbles arises.</td></tr>
 
-  ARCHER
-     Doctor, are you all right?
+<tr id="L84"><td><a href="#L84">84</a></td><td>PHLOX:  Don't be greedy.</td></tr>
 
-  PHLOX
-     I'm sorry, Captain. Did I wake you? Just trimming
-     my toenails. They grow quite rapidly. Have to keep
-     them groomed at least once a week.
+<tr id="L85"><td><a href="#L85">85</a></td><td>ARCHER:  How long was I asleep?</td></tr>
 
-  ARCHER
-     Just wanted to be sure you're okay.
+<tr id="L86"><td><a href="#L86">86</a></td><td>PHLOX:  Nearly an hour.</td></tr>
 
-  PHLOX
-     Thanks for your concern. Good night.
+<tr id="L87"><td><a href="#L87">87</a></td><td>ARCHER:  Does this go on every night?</td></tr>
 
-  ANNOTATION
-     He carries on slicing about an inch of brown nail
-     off his toes. Archer returns to his bed and Phlox
-     feeds his nail trimmings to something in a cage.
-     Then we're treated to the sight of Phlox scraping
-     an extremely long tongue. Later, Archer wakes from
-     sleep to the sound of animals chirping. He gets up
-     to see Phlox doing a feeding round.
+<tr id="L88"><td><a href="#L88">88</a></td><td>PHLOX:  Only when I'm here. They're very demanding when they know I'm in Sickbay.</td></tr>
 
-  PHLOX
-     I'm sorry, Captain. Did I wake you again?
+<tr id="L89"><td><a href="#L89">89</a></td><td>ARCHER:  Great. Porthos?</td></tr>
 
-  ARCHER
-     What the hell's going on?
+<tr id="L90"><td><a href="#L90">90</a></td><td>PHLOX:  I'll still need at least a couple of hours.</td></tr>
 
-  PHLOX
-     Feeding time.
+<tr id="L91"><td><a href="#L91">91</a></td><td>ARCHER:  Is he comfortable?</td></tr>
 
-  ANNOTATION
-     He sprinkles something into a tank of water and a
-     mass of bubbles arises.
+<tr id="L92"><td><a href="#L92">92</a></td><td>PHLOX:  He's fast asleep.</td></tr>
 
-  PHLOX
-     Don't be greedy.
+<tr id="L93"><td><a href="#L93">93</a></td><td>ARCHER:  I'm glad to see someone is. I'll check back in a couple of hours.</td></tr>
 
-  ARCHER
-     How long was I asleep?
+<tr id="L94"><td><a href="#L94">94</a></td><td>ANNOTATION: Archer leaves.</td></tr>
 
-  PHLOX
-     Nearly an hour.
+<tr><td></td><td>LOCATION--Gymnasium - 12:09 am</td></tr>
+<tr id="L95"><td><a href="#L95">95</a></td><td>ANNOTATION: T'Pol is running on a treadmill, no sweat, no heavy breathing.</td></tr>
 
-  ARCHER
-     Does this go on every night?
+<tr id="L96"><td><a href="#L96">96</a></td><td>T'POL:  How's your dog?</td></tr>
 
-  PHLOX
-     Only when I'm here. They're very demanding when
-     they know I'm in Sickbay.
+<tr id="L97"><td><a href="#L97">97</a></td><td>ANNOTATION: Archer starts on another treadmill.</td></tr>
 
-  ARCHER
-     Great. Porthos?
+<tr id="L98"><td><a href="#L98">98</a></td><td>ARCHER:  Nice of you to ask. We'll know in a couple of hours.</td></tr>
 
-  PHLOX
-     I'll still need at least a couple of hours.
+<tr id="L99"><td><a href="#L99">99</a></td><td>ANNOTATION: She speeds up her machine, he does the same.</td></tr>
 
-  ARCHER
-     Is he comfortable?
+<tr id="L100"><td><a href="#L100">100</a></td><td>ARCHER:  Have you heard from your friends on the surface?</td></tr>
 
-  PHLOX
-     He's fast asleep.
+<tr id="L101"><td><a href="#L101">101</a></td><td>T'POL:  Not yet.</td></tr>
 
-  ARCHER
-     I'm glad to see someone is. I'll check back in a
-     couple of hours.
+<tr id="L102"><td><a href="#L102">102</a></td><td>ARCHER:  I guess they haven't finished compiling their list of punishments.</td></tr>
 
-  ANNOTATION
-     Archer leaves.
+<tr id="L103"><td><a href="#L103">103</a></td><td>T'POL:  They're not interested in punishing you. They only want an appropriate apology.</td></tr>
 
+<tr id="L104"><td><a href="#L104">104</a></td><td>ARCHER:  I'm sorry.</td></tr>
 
-LOCATION--Gymnasium - 12:09 am
+<tr id="L105"><td><a href="#L105">105</a></td><td>T'POL:  For what?</td></tr>
 
-  ANNOTATION
-     T'Pol is running on a treadmill, no sweat, no
-     heavy breathing.
+<tr id="L106"><td><a href="#L106">106</a></td><td>ARCHER:  Just practicing.</td></tr>
 
-  T'POL
-     How's your dog?
+<tr id="L107"><td><a href="#L107">107</a></td><td>ANNOTATION: T'Pol speeds up her machine again, so he does the same.</td></tr>
 
-  ANNOTATION
-     Archer starts on another treadmill.
+<tr id="L108"><td><a href="#L108">108</a></td><td>T'POL:  You shouldn't have brought your dog on a diplomatic mission, especially considering we had previously offended the Kreetassans.</td></tr>
 
-  ARCHER
-     Nice of you to ask. We'll know in a couple of
-     hours.
+<tr id="L109"><td><a href="#L109">109</a></td><td>ARCHER:  They knew we were bringing him. We even sent his genetic specs.</td></tr>
 
-  ANNOTATION
-     She speeds up her machine, he does the same.
+<tr id="L110"><td><a href="#L110">110</a></td><td>ANNOTATION: He is getting breathless.</td></tr>
 
-  ARCHER
-     Have you heard from your friends on the surface?
+<tr id="L111"><td><a href="#L111">111</a></td><td>ARCHER:  They could have asked us to leave him behind. They didn't. Porthos has the right to a little fresh air.</td></tr>
 
-  T'POL
-     Not yet.
+<tr id="L112"><td><a href="#L112">112</a></td><td>T'POL:  You're once again ignoring the consequences of your actions.</td></tr>
 
-  ARCHER
-     I guess they haven't finished compiling their list
-     of punishments.
+<tr id="L113"><td><a href="#L113">113</a></td><td>ARCHER:  What's that supposed to mean?</td></tr>
 
-  T'POL
-     They're not interested in punishing you. They only
-     want an appropriate apology.
+<tr id="L114"><td><a href="#L114">114</a></td><td>T'POL:  You obviously place more importance on the quality of the air your pet breathes than on the quality of the plasma that drives your ship.</td></tr>
 
-  ARCHER
-     I'm sorry.
+<tr id="L115"><td><a href="#L115">115</a></td><td>ANNOTATION: She speeds up her machine again.</td></tr>
 
-  T'POL
-     For what?
+<tr id="L116"><td><a href="#L116">116</a></td><td>ARCHER:  What the hell does one have to do with the other? Isn't it logical I could care about my ship and my dog?</td></tr>
 
-  ARCHER
-     Just practicing.
+<tr id="L117"><td><a href="#L117">117</a></td><td>ANNOTATION: He speeds up his treadmill.</td></tr>
 
-  ANNOTATION
-     T'Pol speeds up her machine again, so he does the
-     same.
+<tr id="L118"><td><a href="#L118">118</a></td><td>T'POL:  I'm not questioning your pluralities. I'm questioning your priorities.</td></tr>
 
-  T'POL
-     You shouldn't have brought your dog on a
-     diplomatic mission, especially considering we had
-     previously offended the Kreetassans.
+<tr id="L119"><td><a href="#L119">119</a></td><td>ARCHER:  (sweating and panting) I really thought you were beginning to understand something about human feelings.</td></tr>
 
-  ARCHER
-     They knew we were bringing him. We even sent his
-     genetic specs.
+<tr id="L120"><td><a href="#L120">120</a></td><td>T'POL:  Not when it pertains to primitive quadrupeds who haven't developed the ability to speak or to use a toilet.</td></tr>
 
-  ANNOTATION
-     He is getting breathless.
+<tr id="L121"><td><a href="#L121">121</a></td><td>ANNOTATION: She stops her treadmill and gets off.</td></tr>
 
-  ARCHER
-     They could have asked us to leave him behind. They
-     didn't. Porthos has the right to a little fresh
-     air.
+<tr id="L122"><td><a href="#L122">122</a></td><td>ARCHER:  What's the matter?</td></tr>
 
-  T'POL
-     You're once again ignoring the consequences of
-     your actions.
+<tr id="L123"><td><a href="#L123">123</a></td><td>T'POL:  I obviously can't keep up with you. (comm. beeps) T'Pol.</td></tr>
 
-  ARCHER
-     What's that supposed to mean?
+<tr id="L124"><td><a href="#L124">124</a></td><td>ANNOTATION: Archer stops his machine and mops his brow.</td></tr>
 
-  T'POL
-     You obviously place more importance on the quality
-     of the air your pet breathes than on the quality
-     of the plasma that drives your ship.
+<tr id="L125"><td><a href="#L125">125</a></td><td>HOSHI [OC]:  We've just received a transmission from the Kreetassans.</td></tr>
 
-  ANNOTATION
-     She speeds up her machine again.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L126"><td><a href="#L126">126</a></td><td>HOSHI:  It's their reconciliation demands. The Captain's not going to believe this.</td></tr>
 
-  ARCHER
-     What the hell does one have to do with the other?
-     Isn't it logical I could care about my ship and my
-     dog?
+<tr id="L127"><td><a href="#L127">127</a></td><td>ARCHER [OC]:  You'd be surprised, Hoshi.</td></tr>
 
-  ANNOTATION
-     He speeds up his treadmill.
+<tr id="L128"><td><a href="#L128">128</a></td><td>HOSHI:  Captain, I didn't.</td></tr>
 
-  T'POL
-     I'm not questioning your pluralities. I'm
-     questioning your priorities.
+<tr id="L129"><td><a href="#L129">129</a></td><td>ARCHER [OC]:  It's all right, Ensign.</td></tr>
 
-  ARCHER
-     (sweating and panting) I really thought you were
-     beginning to understand something about human
-     feelings.
+<tr><td></td><td>LOCATION--Gymnasium</td></tr>
+<tr id="L130"><td><a href="#L130">130</a></td><td>ARCHER:  We're on our way.</td></tr>
 
-  T'POL
-     Not when it pertains to primitive quadrupeds who
-     haven't developed the ability to speak or to use a
-     toilet.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L131"><td><a href="#L131">131</a></td><td>ANNOTATION: Hoshi hands over a PADD as he gets out of the turbolift. T'Pol is still cool and collected.</td></tr>
 
-  ANNOTATION
-     She stops her treadmill and gets off.
+<tr id="L132"><td><a href="#L132">132</a></td><td>ARCHER:  Well, this isn't so bad. I was sure there'd be something in here about standing on one foot with my eyes shut, reciting The Night Before Christmas. I'm going back to Sickbay to see if I can get an hour's sleep before the Doctor's results come through. Let me know if this fits with your definition of an appropriate apology.</td></tr>
 
-  ARCHER
-     What's the matter?
+<tr id="L133"><td><a href="#L133">133</a></td><td>ANNOTATION: he leaves.</td></tr>
 
-  T'POL
-     I obviously can't keep up with you. (comm. beeps)
-     T'Pol.
+<tr id="L134"><td><a href="#L134">134</a></td><td>HOSHI:  Do we have a chainsaw on board?</td></tr>
 
-  ANNOTATION
-     Archer stops his machine and mops his brow.
+<tr><td></td><td>LOCATION--Sickbay - 1:32 am</td></tr>
+<tr id="L135"><td><a href="#L135">135</a></td><td>ANNOTATION: An alarm goes off.</td></tr>
 
-  HOSHI [OC]
-     We've just received a transmission from the
-     Kreetassans.
+<tr id="L136"><td><a href="#L136">136</a></td><td>ARCHER:  What's happening?</td></tr>
 
+<tr id="L137"><td><a href="#L137">137</a></td><td>PHLOX:  He's gone into anaphylactic shock. His body's rejecting the treatment I selected.</td></tr>
 
-LOCATION--Bridge
+<tr id="L138"><td><a href="#L138">138</a></td><td>ARCHER:  You said we'd know in a few hours if this would work.</td></tr>
 
-  HOSHI
-     It's their reconciliation demands. The Captain's
-     not going to believe this.
+<tr id="L139"><td><a href="#L139">139</a></td><td>PHLOX:  Exactly. It's not working.</td></tr>
 
-  ARCHER [OC]
-     You'd be surprised, Hoshi.
+<tr id="L140"><td><a href="#L140">140</a></td><td>ARCHER:  Is he going to die?</td></tr>
 
-  HOSHI
-     Captain, I didn't.
+<tr id="L141"><td><a href="#L141">141</a></td><td>ANNOTATION: Phlox hands Archer a hypospray.</td></tr>
 
-  ARCHER [OC]
-     It's all right, Ensign.
+<tr id="L142"><td><a href="#L142">142</a></td><td>PHLOX:  Fill this with five cc's of tetrasol. It's the blue fluid, second on the right. Five cc's.</td></tr>
 
+<tr id="L143"><td><a href="#L143">143</a></td><td>ARCHER:  Five cc's.</td></tr>
 
-LOCATION--Gymnasium
+<tr id="L144"><td><a href="#L144">144</a></td><td>ANNOTATION: Phlox gives the injection then checks the readouts.</td></tr>
 
-  ARCHER
-     We're on our way.
+<tr id="L145"><td><a href="#L145">145</a></td><td>PHLOX:  I don't think so.</td></tr>
 
+<tr id="L146"><td><a href="#L146">146</a></td><td>ARCHER:  What?</td></tr>
 
-LOCATION--Bridge
+<tr id="L147"><td><a href="#L147">147</a></td><td>PHLOX:  You asked me if he was going to die.</td></tr>
 
-  ANNOTATION
-     Hoshi hands over a PADD as he gets out of the
-     turbolift. T'Pol is still cool and collected.
+<tr id="L148"><td><a href="#L148">148</a></td><td>ARCHER:  Are you trying a different treatment? Let me guess. We'll know in.</td></tr>
 
-  ARCHER
-     Well, this isn't so bad. I was sure there'd be
-     something in here about standing on one foot with
-     my eyes shut, reciting The Night Before Christmas.
-     I'm going back to Sickbay to see if I can get an
-     hour's sleep before the Doctor's results come
-     through. Let me know if this fits with your
-     definition of an appropriate apology.
+<tr id="L149"><td><a href="#L149">149</a></td><td>PHLOX:  A couple of hours, yes. How are things progressing with the Kreetassans?</td></tr>
 
-  ANNOTATION
-     he leaves.
+<tr id="L150"><td><a href="#L150">150</a></td><td>ARCHER:  They've got a perfectly good plasma injector sitting on a shelf somewhere. But will they share it with us? Not until I make a fool of myself by going through some series of ritual apologies. The fact that Porthos is on death's doorstep doesn't seem to bother any of them. They're the ones who should be apologising, not me. T'Pol thinks I care more about my dog than my ship. Isn't that delightful.</td></tr>
 
-  HOSHI
-     Do we have a chainsaw on board?
+<tr id="L151"><td><a href="#L151">151</a></td><td>PHLOX:  Why does T'Pol's opinion concern you?</td></tr>
 
+<tr id="L152"><td><a href="#L152">152</a></td><td>ARCHER:  She's my Science Officer, my second-in-command. She should know more than anyone aboard how dedicated I am to this mission. To every member of my crew.</td></tr>
 
-LOCATION--Sickbay - 1:32 am
+<tr id="L153"><td><a href="#L153">153</a></td><td>PHLOX:  You didn't answer my question.</td></tr>
 
-  ANNOTATION
-     An alarm goes off.
+<tr id="L154"><td><a href="#L154">154</a></td><td>ARCHER:  Porthos has one paw in Beagle heaven because these jerks didn't bother to look at his genetic profile. Am I supposed to ignore that?</td></tr>
 
-  ARCHER
-     What's happening?
+<tr id="L155"><td><a href="#L155">155</a></td><td>PHLOX:  I would think you'd be more interested in Commander Tucker's opinion. You've known him for many years, if I'm not mistaken.</td></tr>
 
-  PHLOX
-     He's gone into anaphylactic shock. His body's
-     rejecting the treatment I selected.
+<tr id="L156"><td><a href="#L156">156</a></td><td>ARCHER:  It would be nice to have all five plasma injectors working but it's not essential. We can do fine with four, and the fifth one just started to act up. We might get another ten light years out of it.</td></tr>
 
-  ARCHER
-     You said we'd know in a few hours if this would
-     work.
+<tr id="L157"><td><a href="#L157">157</a></td><td>PHLOX:  Have you considered that your anger may encompass more than just Porthos and the Kreetassans?</td></tr>
 
-  PHLOX
-     Exactly. It's not working.
+<tr id="L158"><td><a href="#L158">158</a></td><td>ARCHER:  What?</td></tr>
 
-  ARCHER
-     Is he going to die?
+<tr id="L159"><td><a href="#L159">159</a></td><td>PHLOX:  How long has it been since you were intimate with a woman?</td></tr>
 
-  ANNOTATION
-     Phlox hands Archer a hypospray.
+<tr id="L160"><td><a href="#L160">160</a></td><td>ARCHER:  What!</td></tr>
 
-  PHLOX
-     Fill this with five cc's of tetrasol. It's the
-     blue fluid, second on the right. Five cc's.
+<tr id="L161"><td><a href="#L161">161</a></td><td>PHLOX:  How long has it been.</td></tr>
 
-  ARCHER
-     Five cc's.
+<tr id="L162"><td><a href="#L162">162</a></td><td>ARCHER:  I heard you! I suppose you're going to tell me you have a degree in psychiatry, too.</td></tr>
 
-  ANNOTATION
-     Phlox gives the injection then checks the
-     readouts.
+<tr id="L163"><td><a href="#L163">163</a></td><td>PHLOX:  Absolutely.</td></tr>
 
-  PHLOX
-     I don't think so.
+<tr id="L164"><td><a href="#L164">164</a></td><td>ARCHER:  No way. Not a chance. Porthos is the only patient you're treating right now. You got that? Let me know if there's any change.</td></tr>
 
-  ARCHER
-     What?
+<tr id="L165"><td><a href="#L165">165</a></td><td>ANNOTATION: He goes back to the biobed, draws curtain and tries to sleep.</td></tr>
 
-  PHLOX
-     You asked me if he was going to die.
+<tr><td></td><td>LOCATION--Deleted scene- Sickbay</td></tr>
+<tr id="L166"><td><a href="#L166">166</a></td><td>ARCHER:  Archer to Commander Tucker. Captain Archer</td></tr>
 
-  ARCHER
-     Are you trying a different treatment? Let me
-     guess. We'll know in.
+<tr><td></td><td>LOCATION--Tucker's quarters</td></tr>
+<tr id="L167"><td><a href="#L167">167</a></td><td>ARCHER [OC]:  to Commander Tucker.</td></tr>
 
-  PHLOX
-     A couple of hours, yes. How are things progressing
-     with the Kreetassans?
+<tr id="L168"><td><a href="#L168">168</a></td><td>TUCKER:  (crawls out of bed) Something wrong, Captain?</td></tr>
 
-  ARCHER
-     They've got a perfectly good plasma injector
-     sitting on a shelf somewhere. But will they share
-     it with us? Not until I make a fool of myself by
-     going through some series of ritual apologies. The
-     fact that Porthos is on death's doorstep doesn't
-     seem to bother any of them. They're the ones who
-     should be apologising, not me. T'Pol thinks I care
-     more about my dog than my ship. Isn't that
-     delightful.
+<tr id="L169"><td><a href="#L169">169</a></td><td>ARCHER [OC]:  Sorry to wake you, Trip, but I need to see you in Sickbay.</td></tr>
 
-  PHLOX
-     Why does T'Pol's opinion concern you?
+<tr id="L170"><td><a href="#L170">170</a></td><td>TUCKER:  Give me a minute.</td></tr>
 
-  ARCHER
-     She's my Science Officer, my second-in-command.
-     She should know more than anyone aboard how
-     dedicated I am to this mission. To every member of
-     my crew.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L171"><td><a href="#L171">171</a></td><td>TUCKER:  Captain wants to see me.</td></tr>
 
-  PHLOX
-     You didn't answer my question.
+<tr id="L172"><td><a href="#L172">172</a></td><td>PHLOX:  He's in there.</td></tr>
 
-  ARCHER
-     Porthos has one paw in Beagle heaven because these
-     jerks didn't bother to look at his genetic
-     profile. Am I supposed to ignore that?
+<tr id="L173"><td><a href="#L173">173</a></td><td>TUCKER:  Sir?</td></tr>
 
-  PHLOX
-     I would think you'd be more interested in
-     Commander Tucker's opinion. You've known him for
-     many years, if I'm not mistaken.
+<tr id="L174"><td><a href="#L174">174</a></td><td>ARCHER:  Come on in.</td></tr>
 
-  ARCHER
-     It would be nice to have all five plasma injectors
-     working but it's not essential. We can do fine
-     with four, and the fifth one just started to act
-     up. We might get another ten light years out of
-     it.
+<tr id="L175"><td><a href="#L175">175</a></td><td>ANNOTATION: Tucker comes through the curtain.</td></tr>
 
-  PHLOX
-     Have you considered that your anger may encompass
-     more than just Porthos and the Kreetassans?
+<tr id="L176"><td><a href="#L176">176</a></td><td>TUCKER:  What happened, sir? You look terrible.</td></tr>
 
-  ARCHER
-     What?
+<tr id="L177"><td><a href="#L177">177</a></td><td>ARCHER:  I'm fine. It's Porthos who's not doing so well.</td></tr>
 
-  PHLOX
-     How long has it been since you were intimate with
-     a woman?
+<tr id="L178"><td><a href="#L178">178</a></td><td>TUCKER:  I'm sorry to hear it, sir. Is there something I could do?</td></tr>
 
-  ARCHER
-     What!
+<tr id="L179"><td><a href="#L179">179</a></td><td>ARCHER:  How long has it been since you've been intimate with a woman?</td></tr>
 
-  PHLOX
-     How long has it been.
+<tr id="L180"><td><a href="#L180">180</a></td><td>TUCKER:  Excuse me?</td></tr>
 
-  ARCHER
-     I heard you! I suppose you're going to tell me you
-     have a degree in psychiatry, too.
+<tr id="L181"><td><a href="#L181">181</a></td><td>ARCHER:  Forget it. I'm sorry I woke you up, Trip. I just need some more information on that faulty injector. If we take it offline, try to repair it, what kind of stress will that put on the other four?</td></tr>
 
-  PHLOX
-     Absolutely.
+<tr id="L182"><td><a href="#L182">182</a></td><td>TUCKER:  It's a matter of time. The longer we have to rely on four injectors, the greater the stress. Problem is, I have no idea how long it would take to repair the one that's malfunctioning.</td></tr>
 
-  ARCHER
-     No way. Not a chance. Porthos is the only patient
-     you're treating right now. You got that? Let me
-     know if there's any change.
+<tr id="L183"><td><a href="#L183">183</a></td><td>ARCHER:  And if the stress gets too high?</td></tr>
 
-  ANNOTATION
-     He goes back to the biobed, draws curtain and
-     tries to sleep.
+<tr id="L184"><td><a href="#L184">184</a></td><td>TUCKER:  Probably be down to three.</td></tr>
 
+<tr id="L185"><td><a href="#L185">185</a></td><td>ARCHER:  And?</td></tr>
 
-LOCATION--Deleted scene- Sickbay
+<tr id="L186"><td><a href="#L186">186</a></td><td>TUCKER:  Well, with three injectors, we'd be lucky to reach warp speed.</td></tr>
 
-  ARCHER
-     Archer to Commander Tucker. Captain Archer
+<tr id="L187"><td><a href="#L187">187</a></td><td>ARCHER:  Go get some sleep.</td></tr>
 
+<tr id="L188"><td><a href="#L188">188</a></td><td>TUCKER:  I had a grade school teacher who was certain I stole a pencil off her desk. I think it was a pencil. She wasn't going to let me go on the field trip to Pensacola unless I apologised. My mother told me I should tell her I was sorry, but I said I didn't steal the damn pencil. You know what she told me? It's okay to apologise when you shouldn't have to, just as long as you don't mean it.</td></tr>
 
-LOCATION--Tucker's quarters
+<tr id="L189"><td><a href="#L189">189</a></td><td>ANNOTATION: He leaves Archer to try and sleep again</td></tr>
 
-  ARCHER [OC]
-     to Commander Tucker.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L190"><td><a href="#L190">190</a></td><td>KREETASSAN [on viewscreen]:  Why haven't you adjusted your time to our capital city?</td></tr>
 
-  TUCKER
-     (crawls out of bed) Something wrong, Captain?
+<tr id="L191"><td><a href="#L191">191</a></td><td>HOSHI:  I apologise. We weren't aware that it was required.</td></tr>
 
-  ARCHER [OC]
-     Sorry to wake you, Trip, but I need to see you in
-     Sickbay.
+<tr id="L192"><td><a href="#L192">192</a></td><td>KREETASSAN [on viewscreen]:  It isn't a requirement. It is simply a courtesy. Something your species doesn't seem to understand.</td></tr>
 
-  TUCKER
-     Give me a minute.
+<tr id="L193"><td><a href="#L193">193</a></td><td>HOSHI:  I'll explain it to the Captain immediately.</td></tr>
 
+<tr id="L194"><td><a href="#L194">194</a></td><td>KREETASSAN [on viewscreen]:  You might also explain to your Captain that it's been nearly three hours since he received our transmission. If he has the slightest hope of acquiring any technology from us, he'd be wise to pay us the courtesy of responding.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L195"><td><a href="#L195">195</a></td><td>HOSHI:  I understand. I'll</td></tr>
 
-  TUCKER
-     Captain wants to see me.
+<tr id="L196"><td><a href="#L196">196</a></td><td>ANNOTATION: The viewscreen reverts to the planet image.</td></tr>
 
-  PHLOX
-     He's in there.
+<tr id="L197"><td><a href="#L197">197</a></td><td>HOSHI:  I'll let him know.</td></tr>
 
-  TUCKER
-     Sir?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L198"><td><a href="#L198">198</a></td><td>ANNOTATION: Archer is woken by Phlox talking in an alien language, footsteps running around and chirps. He opens the curtain to discover the doctor is chasing a bat with a butterfly net.</td></tr>
 
-  ARCHER
-     Come on in.
+<tr id="L199"><td><a href="#L199">199</a></td><td>PHLOX:  Keep your head down! No matter what I do to secure her cage she always finds a way to get out.</td></tr>
 
-  ANNOTATION
-     Tucker comes through the curtain.
+<tr id="L200"><td><a href="#L200">200</a></td><td>ANNOTATION: So Archer joins in the hunt, holding the net while the bat is lured to a pile of food, and Phlox has an origami bird on a stick which he uses to try and scare it. However, the bat simply attacks the bird and flies off again.</td></tr>
 
-  TUCKER
-     What happened, sir? You look terrible.
+<tr id="L201"><td><a href="#L201">201</a></td><td>ARCHER:  I thought you said your bat was supposed to be terrified of that thing.</td></tr>
 
-  ARCHER
-     I'm fine. It's Porthos who's not doing so well.
+<tr id="L202"><td><a href="#L202">202</a></td><td>PHLOX:  It should have been. Pyrithian Moon Hawks eat these bats. I know I got the silhouette right, and I mastered the call years ago.</td></tr>
 
-  TUCKER
-     I'm sorry to hear it, sir. Is there something I
-     could do?
+<tr id="L203"><td><a href="#L203">203</a></td><td>ARCHER:  That stuff isn't poisonous, is it?</td></tr>
 
-  ARCHER
-     How long has it been since you've been intimate
-     with a woman?
+<tr id="L204"><td><a href="#L204">204</a></td><td>ANNOTATION: Some liquid got spilt onto Phlox in the melee. Phlox tastes it to be sure,</td></tr>
 
-  TUCKER
-     Excuse me?
+<tr id="L205"><td><a href="#L205">205</a></td><td>PHLOX:  No, I'll be fine.</td></tr>
 
-  ARCHER
-     Forget it. I'm sorry I woke you up, Trip. I just
-     need some more information on that faulty
-     injector. If we take it offline, try to repair it,
-     what kind of stress will that put on the other
-     four?
+<tr id="L206"><td><a href="#L206">206</a></td><td>ARCHER:  What now?</td></tr>
 
-  TUCKER
-     It's a matter of time. The longer we have to rely
-     on four injectors, the greater the stress. Problem
-     is, I have no idea how long it would take to
-     repair the one that's malfunctioning.
+<tr id="L207"><td><a href="#L207">207</a></td><td>PHLOX:  We need to find her before we can catch her. She'll stay up high. Have you thought any more about why T'Pol's opinion is so important to you?</td></tr>
 
-  ARCHER
-     And if the stress gets too high?
+<tr id="L208"><td><a href="#L208">208</a></td><td>ARCHER:  It's two thirty in the morning and I'm hunting an escaped bat. That's all I'm thinking about right now, Doctor. That and Porthos.</td></tr>
 
-  TUCKER
-     Probably be down to three.
+<tr id="L209"><td><a href="#L209">209</a></td><td>PHLOX:  Sexual tension, Captain. There's no doubt in my mind.</td></tr>
 
-  ARCHER
-     And?
+<tr id="L210"><td><a href="#L210">210</a></td><td>ARCHER:  By the air duct. Do you see it?</td></tr>
 
-  TUCKER
-     Well, with three injectors, we'd be lucky to reach
-     warp speed.
+<tr id="L211"><td><a href="#L211">211</a></td><td>PHLOX:  That's just the filter bracket. For the past few months I've noticed increasing friction between you and the Sub-Commander. You must understand that I'm trained to observe these things.</td></tr>
 
-  ARCHER
-     Go get some sleep.
+<tr id="L212"><td><a href="#L212">212</a></td><td>ARCHER:  With all do respect to your training, you're wrong. T'Pol and I have been getting along just fine, so let it alone.</td></tr>
 
-  TUCKER
-     I had a grade school teacher who was certain I
-     stole a pencil off her desk. I think it was a
-     pencil. She wasn't going to let me go on the field
-     trip to Pensacola unless I apologised. My mother
-     told me I should tell her I was sorry, but I said
-     I didn't steal the damn pencil. You know what she
-     told me? It's okay to apologise when you shouldn't
-     have to, just as long as you don't mean it.
+<tr id="L213"><td><a href="#L213">213</a></td><td>PHLOX:  When one person believes their sexual attraction toward another is inappropriate they often exhibit unexpected behaviour. Such as inordinate anger toward comparisons made between their ship and their beagle.</td></tr>
 
-  ANNOTATION
-     He leaves Archer to try and sleep again
+<tr id="L214"><td><a href="#L214">214</a></td><td>ARCHER:  Listen, Doc, there's no sexual attraction.</td></tr>
 
+<tr id="L215"><td><a href="#L215">215</a></td><td>ANNOTATION: The bat takes to the air again.</td></tr>
 
-LOCATION--Bridge
+<tr id="L216"><td><a href="#L216">216</a></td><td>PHLOX:  She's coming back down! Watch out!</td></tr>
 
-  KREETASSAN [on viewscreen]
-     Why haven't you adjusted your time to our capital
-     city?
+<tr id="L217"><td><a href="#L217">217</a></td><td>ANNOTATION: Hoshi enters and gently plucks the bat out of the air.</td></tr>
 
-  HOSHI
-     I apologise. We weren't aware that it was
-     required.
+<tr id="L218"><td><a href="#L218">218</a></td><td>ARCHER:  Don't let her in the corridor!</td></tr>
 
-  KREETASSAN [on viewscreen]
-     It isn't a requirement. It is simply a courtesy.
-     Something your species doesn't seem to understand.
+<tr id="L219"><td><a href="#L219">219</a></td><td>HOSHI:  Hey, are you all right? What are they trying to do to you?</td></tr>
 
-  HOSHI
-     I'll explain it to the Captain immediately.
+<tr id="L220"><td><a href="#L220">220</a></td><td>ANNOTATION: Phlox takes the bat and puts her back in her container.</td></tr>
 
-  KREETASSAN [on viewscreen]
-     You might also explain to your Captain that it's
-     been nearly three hours since he received our
-     transmission. If he has the slightest hope of
-     acquiring any technology from us, he'd be wise to
-     pay us the courtesy of responding.
+<tr id="L221"><td><a href="#L221">221</a></td><td>HOSHI:  The Kreetassans called, sir.</td></tr>
 
-  HOSHI
-     I understand. I'll
+<tr id="L222"><td><a href="#L222">222</a></td><td>ARCHER:  What for?</td></tr>
 
-  ANNOTATION
-     The viewscreen reverts to the planet image.
+<tr id="L223"><td><a href="#L223">223</a></td><td>HOSHI:  They're anxious to get your response to their last transmission.</td></tr>
 
-  HOSHI
-     I'll let him know.
+<tr id="L224"><td><a href="#L224">224</a></td><td>ARCHER:  It's the middle of the night.</td></tr>
 
+<tr id="L225"><td><a href="#L225">225</a></td><td>HOSHI:  They also suggested that we should synchronise our time to their capital city.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L226"><td><a href="#L226">226</a></td><td>ARCHER:  Did they?</td></tr>
 
-  ANNOTATION
-     Archer is woken by Phlox talking in an alien
-     language, footsteps running around and chirps. He
-     opens the curtain to discover the doctor is
-     chasing a bat with a butterfly net.
+<tr id="L227"><td><a href="#L227">227</a></td><td>HOSHI:  It's not a requirement, sir, just a courtesy.</td></tr>
 
-  PHLOX
-     Keep your head down! No matter what I do to secure
-     her cage she always finds a way to get out.
+<tr id="L228"><td><a href="#L228">228</a></td><td>ARCHER:  Thank you, Ensign.</td></tr>
 
-  ANNOTATION
-     So Archer joins in the hunt, holding the net while
-     the bat is lured to a pile of food, and Phlox has
-     an origami bird on a stick which he uses to try
-     and scare it. However, the bat simply attacks the
-     bird and flies off again.
+<tr id="L229"><td><a href="#L229">229</a></td><td>HOSHI:  How's Porthos?</td></tr>
 
-  ARCHER
-     I thought you said your bat was supposed to be
-     terrified of that thing.
+<tr id="L230"><td><a href="#L230">230</a></td><td>ARCHER:  I'll let you know in a couple of hours.</td></tr>
 
-  PHLOX
-     It should have been. Pyrithian Moon Hawks eat
-     these bats. I know I got the silhouette right, and
-     I mastered the call years ago.
+<tr id="L231"><td><a href="#L231">231</a></td><td>ANNOTATION: Hoshi leaves.</td></tr>
 
-  ARCHER
-     That stuff isn't poisonous, is it?
+<tr id="L232"><td><a href="#L232">232</a></td><td>ARCHER:  Everything okay?</td></tr>
 
-  ANNOTATION
-     Some liquid got spilt onto Phlox in the melee.
-     Phlox tastes it to be sure,
+<tr id="L233"><td><a href="#L233">233</a></td><td>PHLOX:  Nothing new. I'll stay with him.</td></tr>
 
-  PHLOX
-     No, I'll be fine.
+<tr id="L234"><td><a href="#L234">234</a></td><td>ARCHER:  Thanks.</td></tr>
 
-  ARCHER
-     What now?
+<tr id="L235"><td><a href="#L235">235</a></td><td>PHLOX:  Unless you'd like to continue our discussion regarding Sub-Commander T'Pol.</td></tr>
 
-  PHLOX
-     We need to find her before we can catch her.
-     She'll stay up high. Have you thought any more
-     about why T'Pol's opinion is so important to you?
+<tr><td></td><td>LOCATION--Pet Graveyard, pouring with rain</td></tr>
+<tr id="L236"><td><a href="#L236">236</a></td><td>ANNOTATION: The senior staff are in dark suits under umbrellas.</td></tr>
 
-  ARCHER
-     It's two thirty in the morning and I'm hunting an
-     escaped bat. That's all I'm thinking about right
-     now, Doctor. That and Porthos.
+<tr id="L237"><td><a href="#L237">237</a></td><td>PHLOX:  (in clerical collar) We are gathered here today to bid a final farewell to a faithful and kind colleague. A friend who would never hesitate to offer his paw in exchange for a simple smile or a slice of cheese. Like his namesake, this quadruped believed we should stand together. 'All for one and one for all'.</td></tr>
 
-  PHLOX
-     Sexual tension, Captain. There's no doubt in my
-     mind.
+<tr id="L238"><td><a href="#L238">238</a></td><td>ANNOTATION: T'Pol moves close to Archer and gazes into his eyes, then holds his hand.</td></tr>
 
-  ARCHER
-     By the air duct. Do you see it?
+<tr id="L239"><td><a href="#L239">239</a></td><td>PHLOX:  When one person believes their sexual attraction toward another is inappropriate they often exhibit unexpected behaviour.</td></tr>
 
-  PHLOX
-     That's just the filter bracket. For the past few
-     months I've noticed increasing friction between
-     you and the Sub-Commander. You must understand
-     that I'm trained to observe these things.
+<tr><td></td><td>LOCATION--Decon</td></tr>
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: Situation as in the first scene.</td></tr>
 
-  ARCHER
-     With all do respect to your training, you're
-     wrong. T'Pol and I have been getting along just
-     fine, so let it alone.
+<tr id="L241"><td><a href="#L241">241</a></td><td>HOSHI:  Go ahead.</td></tr>
 
-  PHLOX
-     When one person believes their sexual attraction
-     toward another is inappropriate they often exhibit
-     unexpected behaviour. Such as inordinate anger
-     toward comparisons made between their ship and
-     their beagle.
+<tr id="L242"><td><a href="#L242">242</a></td><td>PHLOX [OC]:  Hoshi, you and the dog are clear to go, but I'm afraid I'll need to keep the other two for a while.</td></tr>
 
-  ARCHER
-     Listen, Doc, there's no sexual attraction.
+<tr id="L243"><td><a href="#L243">243</a></td><td>ARCHER:  What's the problem?</td></tr>
 
-  ANNOTATION
-     The bat takes to the air again.
+<tr id="L244"><td><a href="#L244">244</a></td><td>PHLOX [OC]:  You both picked up a pathogen on the surface. We'll have to try another decon agent.</td></tr>
 
-  PHLOX
-     She's coming back down! Watch out!
+<tr id="L245"><td><a href="#L245">245</a></td><td>ANNOTATION: He picks up Porthos and leaves.</td></tr>
 
-  ANNOTATION
-     Hoshi enters and gently plucks the bat out of the
-     air.
+<tr id="L246"><td><a href="#L246">246</a></td><td>HOSHI:  Feel better.</td></tr>
 
-  ARCHER
-     Don't let her in the corridor!
+<tr id="L247"><td><a href="#L247">247</a></td><td>ANNOTATION: T'Pol isn't wearing a top when they face each other to massage decon gel into each others shoulders.</td></tr>
 
-  HOSHI
-     Hey, are you all right? What are they trying to do
-     to you?
+<tr id="L248"><td><a href="#L248">248</a></td><td>PHLOX [OC]:  Tell me, Captain, have you thought any more about why T'Pol's opinion is so important to you? How long has it been since you were intimate with a woman?</td></tr>
 
-  ANNOTATION
-     Phlox takes the bat and puts her back in her
-     container.
+<tr id="L249"><td><a href="#L249">249</a></td><td>ANNOTATION: They kiss.</td></tr>
 
-  HOSHI
-     The Kreetassans called, sir.
+<tr><td></td><td>LOCATION--Sickbay - 2:49 am</td></tr>
+<tr id="L250"><td><a href="#L250">250</a></td><td>ARCHER:  I dreamt Porthos died.</td></tr>
 
-  ARCHER
-     What for?
+<tr id="L251"><td><a href="#L251">251</a></td><td>PHLOX:  Let's hope your dream wasn't prophetic.</td></tr>
 
-  HOSHI
-     They're anxious to get your response to their last
-     transmission.
+<tr id="L252"><td><a href="#L252">252</a></td><td>ARCHER:  Any indication on how your second treatment's doing?</td></tr>
 
-  ARCHER
-     It's the middle of the night.
+<tr id="L253"><td><a href="#L253">253</a></td><td>PHLOX:  It doesn't appear to be doing very well.</td></tr>
 
-  HOSHI
-     They also suggested that we should synchronise our
-     time to their capital city.
+<tr id="L254"><td><a href="#L254">254</a></td><td>ARCHER:  An old girlfriend's mother had this Beagle I was crazy about. Even after her daughter and I broke up, we stayed in touch. When the dog got pregnant, I was the first one she called. Four males in the litter. The four musketeers. I've had Porthos since he was six weeks old. I grew up with dogs. Can't remember not having one. You have any pets when you were a kid?</td></tr>
 
-  ARCHER
-     Did they?
+<tr id="L255"><td><a href="#L255">255</a></td><td>PHLOX:  My people don't keep pets.</td></tr>
 
-  HOSHI
-     It's not a requirement, sir, just a courtesy.
+<tr id="L256"><td><a href="#L256">256</a></td><td>ARCHER:  I thought you said something about the Denobulan Lemur being highly sought after.</td></tr>
 
-  ARCHER
-     Thank you, Ensign.
+<tr id="L257"><td><a href="#L257">257</a></td><td>PHLOX:  Oh, very much so. Their kidneys are considered a great delicacy.</td></tr>
 
-  HOSHI
-     How's Porthos?
+<tr id="L258"><td><a href="#L258">258</a></td><td>ANNOTATION: T'Pol enters with a tray and two covered plates.</td></tr>
 
-  ARCHER
-     I'll let you know in a couple of hours.
+<tr id="L259"><td><a href="#L259">259</a></td><td>T'POL:  I thought you might be hungry.</td></tr>
 
-  ANNOTATION
-     Hoshi leaves.
+<tr id="L260"><td><a href="#L260">260</a></td><td>PHLOX:  How very kind.</td></tr>
 
-  ARCHER
-     Everything okay?
+<tr id="L261"><td><a href="#L261">261</a></td><td>ARCHER:  Was there something on their list about apologising on a full stomach?</td></tr>
 
-  PHLOX
-     Nothing new. I'll stay with him.
+<tr id="L262"><td><a href="#L262">262</a></td><td>T'POL:  You read the Kreetassan's document?</td></tr>
 
-  ARCHER
-     Thanks.
+<tr id="L263"><td><a href="#L263">263</a></td><td>ARCHER:  Sorry. Sorry, I'm a little on edge. I haven't slept very much but I'm doing the breast I, the best I can.</td></tr>
 
-  PHLOX
-     Unless you'd like to continue our discussion
-     regarding Sub-Commander T'Pol.
+<tr id="L264"><td><a href="#L264">264</a></td><td>T'POL:  I understand. Ensign Sato and I have broken down the reconciliation demands into specific categories, if you're interested in reviewing them.</td></tr>
 
+<tr id="L265"><td><a href="#L265">265</a></td><td>ARCHER:  My only concern right now is Porthos.</td></tr>
 
-LOCATION--Pet Graveyard, pouring with rain
+<tr id="L266"><td><a href="#L266">266</a></td><td>T'POL:  I'm sorry to have interrupted.</td></tr>
 
-  ANNOTATION
-     The senior staff are in dark suits under
-     umbrellas.
+<tr id="L267"><td><a href="#L267">267</a></td><td>ARCHER:  No. No, it, it's okay. When you get back to the Bridge, why don't you send me your lips. Lisp. List.</td></tr>
 
-  PHLOX
-     (in clerical collar) We are gathered here today to
-     bid a final farewell to a faithful and kind
-     colleague. A friend who would never hesitate to
-     offer his paw in exchange for a simple smile or a
-     slice of cheese. Like his namesake, this quadruped
-     believed we should stand together. 'All for one
-     and one for all'.
+<tr id="L268"><td><a href="#L268">268</a></td><td>ANNOTATION: T'Pol gives him a long look and then leaves</td></tr>
 
-  ANNOTATION
-     T'Pol moves close to Archer and gazes into his
-     eyes, then holds his hand.
+<tr id="L269"><td><a href="#L269">269</a></td><td>PHLOX:  Two Pillarian slips within thirty seconds. Interesting.</td></tr>
 
-  PHLOX
-     When one person believes their sexual attraction
-     toward another is inappropriate they often exhibit
-     unexpected behaviour.
+<tr id="L270"><td><a href="#L270">270</a></td><td>ANNOTATION: the alarm goes off on Porthos's monitor</td></tr>
 
+<tr id="L271"><td><a href="#L271">271</a></td><td>ARCHER:  What are you doing?</td></tr>
 
-LOCATION--Decon
+<tr id="L272"><td><a href="#L272">272</a></td><td>PHLOX:  My treatment was effective, at least partially. His immune system is stabilising but his pituitary gland was severely damaged. It's all but disintegrated. Bring me the small grey cage on the second shelf. The one with the blue top.</td></tr>
 
-  ANNOTATION
-     Situation as in the first scene.
+<tr id="L273"><td><a href="#L273">273</a></td><td>ARCHER:  What's in here?</td></tr>
 
-  HOSHI
-     Go ahead.
+<tr id="L274"><td><a href="#L274">274</a></td><td>ANNOTATION: Phlox is wheeling in a large transparent tank.</td></tr>
 
-  PHLOX [OC]
-     Hoshi, you and the dog are clear to go, but I'm
-     afraid I'll need to keep the other two for a
-     while.
+<tr id="L275"><td><a href="#L275">275</a></td><td>PHLOX:  A Calrissian Chameleon. Fill this for me.</td></tr>
 
-  ARCHER
-     What's the problem?
+<tr id="L276"><td><a href="#L276">276</a></td><td>ANNOTATION: He hands a shower head to Archer.</td></tr>
 
-  PHLOX [OC]
-     You both picked up a pathogen on the surface.
-     We'll have to try another decon agent.
+<tr id="L277"><td><a href="#L277">277</a></td><td>PHLOX:  I'll need to alter its DNA to avoid rejection but its pituitary gland should be compatible with your dog's.</td></tr>
 
-  ANNOTATION
-     He picks up Porthos and leaves.
+<tr id="L278"><td><a href="#L278">278</a></td><td>ARCHER:  You're going to perform a transplant from a lizard?</td></tr>
 
-  HOSHI
-     Feel better.
+<tr id="L279"><td><a href="#L279">279</a></td><td>PHLOX:  Unless you have a better suggestion. It's a shame, actually. The chameleon secretes a rare toxin that's very useful in treating respiratory infections. She's the last one I have.</td></tr>
 
-  ANNOTATION
-     T'Pol isn't wearing a top when they face each
-     other to massage decon gel into each others
-     shoulders.
+<tr id="L280"><td><a href="#L280">280</a></td><td>ARCHER:  What's the tank for?</td></tr>
 
-  PHLOX [OC]
-     Tell me, Captain, have you thought any more about
-     why T'Pol's opinion is so important to you? How
-     long has it been since you were intimate with a
-     woman?
+<tr id="L281"><td><a href="#L281">281</a></td><td>PHLOX:  I'll need to super-hydrate the canine in order to minimize the shock to his pulmonary system.</td></tr>
 
-  ANNOTATION
-     They kiss.
+<tr id="L282"><td><a href="#L282">282</a></td><td>ARCHER:  You're going to drown my dog?</td></tr>
 
+<tr id="L283"><td><a href="#L283">283</a></td><td>PHLOX:  Only for an hour, Captain. There should be no problem resuscitating him once the surgery's complete.</td></tr>
 
-LOCATION--Sickbay - 2:49 am
+<tr id="L284"><td><a href="#L284">284</a></td><td>ARCHER:  How many times have you done this before?</td></tr>
 
-  ARCHER
-     I dreamt Porthos died.
+<tr id="L285"><td><a href="#L285">285</a></td><td>PHLOX:  Never.</td></tr>
 
-  PHLOX
-     Let's hope your dream wasn't prophetic.
+<tr id="L286"><td><a href="#L286">286</a></td><td>ARCHER:  Has anyone done this before?</td></tr>
 
-  ARCHER
-     Any indication on how your second treatment's
-     doing?
+<tr id="L287"><td><a href="#L287">287</a></td><td>PHLOX:  Not to my knowledge.</td></tr>
 
-  PHLOX
-     It doesn't appear to be doing very well.
+<tr id="L288"><td><a href="#L288">288</a></td><td>ARCHER:  You know, this isn't some guinea pig you're working on here. This is Porthos, my Beagle, my pal. From what you're telling me the closest thing your people have to pets are furry little things that go well with onions.</td></tr>
 
-  ARCHER
-     An old girlfriend's mother had this Beagle I was
-     crazy about. Even after her daughter and I broke
-     up, we stayed in touch. When the dog got pregnant,
-     I was the first one she called. Four males in the
-     litter. The four musketeers. I've had Porthos
-     since he was six weeks old. I grew up with dogs.
-     Can't remember not having one. You have any pets
-     when you were a kid?
+<tr id="L289"><td><a href="#L289">289</a></td><td>PHLOX:  Perhaps you're right, Captain. Perhaps I'm insensitive to the bond between you and your subservient quadruped. I'll leave the procedure up to you. But whatever your decision, make it quickly.</td></tr>
 
-  PHLOX
-     My people don't keep pets.
+<tr id="L290"><td><a href="#L290">290</a></td><td>ANNOTATION: 3:44 am, they are both wearing operating gowns. The chameleon is on a platter and Porthos is in the tank.</td></tr>
 
-  ARCHER
-     I thought you said something about the Denobulan
-     Lemur being highly sought after.
+<tr id="L291"><td><a href="#L291">291</a></td><td>ARCHER:  Just for the sake of argument let's say that some of my anger toward T'Pol had a component of sexual tension to it. I'm not saying it does but just for the sake of argument. (Phlox is transplanting the pituitary into Porthos's brain.)</td></tr>
 
-  PHLOX
-     Oh, very much so. Their kidneys are considered a
-     great delicacy.
+<tr id="L292"><td><a href="#L292">292</a></td><td>PHLOX:  Yes?</td></tr>
 
-  ANNOTATION
-     T'Pol enters with a tray and two covered plates.
+<tr id="L293"><td><a href="#L293">293</a></td><td>ARCHER:  What do you mean, yes? You're the psychiatrist. What am I supposed to do about it? Am I supposed I to ignore it? Am I supposed to say something to her?</td></tr>
 
-  T'POL
-     I thought you might be hungry.
+<tr id="L294"><td><a href="#L294">294</a></td><td>PHLOX:  Neither.</td></tr>
 
-  PHLOX
-     How very kind.
+<tr id="L295"><td><a href="#L295">295</a></td><td>ARCHER:  Neither?</td></tr>
 
-  ARCHER
-     Was there something on their list about
-     apologising on a full stomach?
+<tr id="L296"><td><a href="#L296">296</a></td><td>PHLOX:  If you were ignoring it, you obviously wouldn't be seeking my opinion especially under these circumstances. As for discussing it with the Sub-Commander that's entirely up to you, but I can't imagine an outcome that would do anything but make matters worse. Pass me the auto-suture, please. The yellow one.</td></tr>
 
-  T'POL
-     You read the Kreetassan's document?
+<tr id="L297"><td><a href="#L297">297</a></td><td>ARCHER:  When will we know if the transplant's working?</td></tr>
 
-  ARCHER
-     Sorry. Sorry, I'm a little on edge. I haven't
-     slept very much but I'm doing the breast I, the
-     best I can.
+<tr id="L298"><td><a href="#L298">298</a></td><td>PHLOX:  One step at a time. First we need to resuscitate him.</td></tr>
 
-  T'POL
-     I understand. Ensign Sato and I have broken down
-     the reconciliation demands into specific
-     categories, if you're interested in reviewing
-     them.
+<tr id="L299"><td><a href="#L299">299</a></td><td>ARCHER:  So I can't ignore it, and I can't talk about it. What do you suggest I do?</td></tr>
 
-  ARCHER
-     My only concern right now is Porthos.
+<tr id="L300"><td><a href="#L300">300</a></td><td>PHLOX:  Be aware of it, Captain. Simply be aware of it. You'd be surprised what a difference that'll make. Lower the fluidic temperature twelve degrees.</td></tr>
 
-  T'POL
-     I'm sorry to have interrupted.
+<tr id="L301"><td><a href="#L301">301</a></td><td>ARCHER:  If Porthos pulls through, will he need a special diet or treatments having a chameleon's pituitary gland?</td></tr>
 
-  ARCHER
-     No. No, it, it's okay. When you get back to the
-     Bridge, why don't you send me your lips. Lisp.
-     List.
+<tr id="L302"><td><a href="#L302">302</a></td><td>PHLOX:  You may have trouble finding him. He'll have the ability to blend into his background when frightened.</td></tr>
 
-  ANNOTATION
-     T'Pol gives him a long look and then leaves
+<tr id="L303"><td><a href="#L303">303</a></td><td>ARCHER:  You're kidding.</td></tr>
 
-  PHLOX
-     Two Pillarian slips within thirty seconds.
-     Interesting.
+<tr id="L304"><td><a href="#L304">304</a></td><td>PHLOX:  Yes, I am.</td></tr>
 
-  ANNOTATION
-     the alarm goes off on Porthos's monitor
+<tr id="L305"><td><a href="#L305">305</a></td><td>ARCHER:  Does your expertise on sexual tension come from professional training or firsthand experience?</td></tr>
 
-  ARCHER
-     What are you doing?
+<tr id="L306"><td><a href="#L306">306</a></td><td>PHLOX:  I do have three wives.</td></tr>
 
-  PHLOX
-     My treatment was effective, at least partially.
-     His immune system is stabilising but his pituitary
-     gland was severely damaged. It's all but
-     disintegrated. Bring me the small grey cage on the
-     second shelf. The one with the blue top.
+<tr id="L307"><td><a href="#L307">307</a></td><td>ARCHER:  And they each have</td></tr>
 
-  ARCHER
-     What's in here?
+<tr id="L308"><td><a href="#L308">308</a></td><td>PHLOX:  Two husbands, besides myself.</td></tr>
 
-  ANNOTATION
-     Phlox is wheeling in a large transparent tank.
+<tr id="L309"><td><a href="#L309">309</a></td><td>ARCHER:  Sounds very complicated.</td></tr>
 
-  PHLOX
-     A Calrissian Chameleon. Fill this for me.
+<tr id="L310"><td><a href="#L310">310</a></td><td>PHLOX:  Very. Why else be polygamous?</td></tr>
 
-  ANNOTATION
-     He hands a shower head to Archer.
+<tr id="L311"><td><a href="#L311">311</a></td><td>ARCHER:  So, these three wives.</td></tr>
 
-  PHLOX
-     I'll need to alter its DNA to avoid rejection but
-     its pituitary gland should be compatible with your
-     dog's.
+<tr id="L312"><td><a href="#L312">312</a></td><td>PHLOX:  Each have three husbands. A total of seven hundred and twenty relationships, forty two of which have romantic possibilities.</td></tr>
 
-  ARCHER
-     You're going to perform a transplant from a
-     lizard?
+<tr id="L313"><td><a href="#L313">313</a></td><td>ARCHER:  You told me you had five children. How many are there in this whole extended family?</td></tr>
 
-  PHLOX
-     Unless you have a better suggestion. It's a shame,
-     actually. The chameleon secretes a rare toxin
-     that's very useful in treating respiratory
-     infections. She's the last one I have.
+<tr id="L314"><td><a href="#L314">314</a></td><td>PHLOX:  Thirty one, at last count.</td></tr>
 
-  ARCHER
-     What's the tank for?
+<tr id="L315"><td><a href="#L315">315</a></td><td>ARCHER:  You must miss them. You've been away for over two years.</td></tr>
 
-  PHLOX
-     I'll need to super-hydrate the canine in order to
-     minimize the shock to his pulmonary system.
+<tr id="L316"><td><a href="#L316">316</a></td><td>PHLOX:  I'm ready for the synaptic inductor, the small blue one. My children all left the nest years ago, Captain.</td></tr>
 
-  ARCHER
-     You're going to drown my dog?
+<tr id="L317"><td><a href="#L317">317</a></td><td>ARCHER:  I would have never guessed. You don't look that old.</td></tr>
 
-  PHLOX
-     Only for an hour, Captain. There should be no
-     problem resuscitating him once the surgery's
-     complete.
+<tr id="L318"><td><a href="#L318">318</a></td><td>PHLOX:  I'll take that as a compliment. My two daughters, I'm proud to say, followed in my footsteps. One's a surgeon, the other's a biochemist.</td></tr>
 
-  ARCHER
-     How many times have you done this before?
+<tr id="L319"><td><a href="#L319">319</a></td><td>ARCHER:  How about the other three?</td></tr>
 
-  PHLOX
-     Never.
+<tr id="L320"><td><a href="#L320">320</a></td><td>PHLOX:  My eldest son's an artist. A potter, actually. He lives in the same town as his mother. Creates beautiful things.</td></tr>
 
-  ARCHER
-     Has anyone done this before?
+<tr id="L321"><td><a href="#L321">321</a></td><td>ARCHER:  And the other two?</td></tr>
 
-  PHLOX
-     Not to my knowledge.
+<tr id="L322"><td><a href="#L322">322</a></td><td>PHLOX:  My two younger sons and I never saw eye-to-eye. I'm afraid we haven't spoken in quite some time.</td></tr>
 
-  ARCHER
-     You know, this isn't some guinea pig you're
-     working on here. This is Porthos, my Beagle, my
-     pal. From what you're telling me the closest thing
-     your people have to pets are furry little things
-     that go well with onions.
+<tr id="L323"><td><a href="#L323">323</a></td><td>ARCHER:  I'm sorry. I shouldn't have.</td></tr>
 
-  PHLOX
-     Perhaps you're right, Captain. Perhaps I'm
-     insensitive to the bond between you and your
-     subservient quadruped. I'll leave the procedure up
-     to you. But whatever your decision, make it
-     quickly.
+<tr id="L324"><td><a href="#L324">324</a></td><td>PHLOX:  Perfectly all right. You asked me if I missed them. The answer is yes, every one of them. The children, the wives, even the other husbands. But we Denobulans live a long time, Captain, and right now there is nowhere I'd rather be than serving with the Interspecies Medical Exchange aboard this wonderful vessel of yours.</td></tr>
 
-  ANNOTATION
-     3:44 am, they are both wearing operating gowns.
-     The chameleon is on a platter and Porthos is in
-     the tank.
+<tr id="L325"><td><a href="#L325">325</a></td><td>ARCHER:  Listen, Doc, however this turns out I want to apologise for accusing you of being insensitive before.</td></tr>
 
-  ARCHER
-     Just for the sake of argument let's say that some
-     of my anger toward T'Pol had a component of sexual
-     tension to it. I'm not saying it does but just for
-     the sake of argument. (Phlox is transplanting the
-     pituitary into Porthos's brain.)
+<tr id="L326"><td><a href="#L326">326</a></td><td>PHLOX:  As I recall, you accused my entire species of being insensitive. Then I apologise to you and all your fellow Denobulans.</td></tr>
 
-  PHLOX
-     Yes?
+<tr id="L327"><td><a href="#L327">327</a></td><td>PHLOX:  Well, I can't speak for the others, but, on behalf of myself, I accept. And to think T'Pol told me you were incapable of apologising.</td></tr>
 
-  ARCHER
-     What do you mean, yes? You're the psychiatrist.
-     What am I supposed to do about it? Am I supposed I
-     to ignore it? Am I supposed to say something to
-     her?
+<tr><td></td><td>LOCATION--Deleted scene - Bridge - 4:26 am</td></tr>
+<tr id="L328"><td><a href="#L328">328</a></td><td>ARCHER:  I didn't think your shift began until oh nine hundred.</td></tr>
 
-  PHLOX
-     Neither.
+<tr id="L329"><td><a href="#L329">329</a></td><td>T'POL:  I took the liberty of temporarily synchronising our clocks to the Kreetassan's capital city.</td></tr>
 
-  ARCHER
-     Neither?
+<tr id="L330"><td><a href="#L330">330</a></td><td>ARCHER:  Just a courtesy? (to Hoshi) Ensign, will you join me?</td></tr>
 
-  PHLOX
-     If you were ignoring it, you obviously wouldn't be
-     seeking my opinion especially under these
-     circumstances. As for discussing it with the
-     Sub-Commander that's entirely up to you, but I
-     can't imagine an outcome that would do anything
-     but make matters worse. Pass me the auto-suture,
-     please. The yellow one.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L331"><td><a href="#L331">331</a></td><td>ARCHER:  Have a seat. You've read the list?</td></tr>
 
-  ARCHER
-     When will we know if the transplant's working?
+<tr id="L332"><td><a href="#L332">332</a></td><td>HOSHI:  Yes, sir. Sub-commander T'Pol and I broke it down and</td></tr>
 
-  PHLOX
-     One step at a time. First we need to resuscitate
-     him.
+<tr id="L333"><td><a href="#L333">333</a></td><td>ARCHER:  She told me. The last part, just before the end, that little expression that gets repeated. Do you know what I'm talking about?</td></tr>
 
-  ARCHER
-     So I can't ignore it, and I can't talk about it.
-     What do you suggest I do?
+<tr id="L334"><td><a href="#L334">334</a></td><td>HOSHI:  It's a couplet from one of their oldest political documents.</td></tr>
 
-  PHLOX
-     Be aware of it, Captain. Simply be aware of it.
-     You'd be surprised what a difference that'll make.
-     Lower the fluidic temperature twelve degrees.
+<tr id="L335"><td><a href="#L335">335</a></td><td>ARCHER:  Their pronunciation guide doesn't make any sense. I'm going to need some help.</td></tr>
 
-  ARCHER
-     If Porthos pulls through, will he need a special
-     diet or treatments having a chameleon's pituitary
-     gland?
+<tr><td></td><td>LOCATION--Kreetassan Capital City</td></tr>
+<tr id="L336"><td><a href="#L336">336</a></td><td>ANNOTATION: Archer is stripped to the waist with braids in his hair and alien symbols either side of his spine. He is taking a chain saw to a tree trunk while speaking alien. Then he picks up the slice of trunk and holds it out while declaiming something before placing it carefully on the ground with others. The Kreetassans don't look happy, so he checks his PADD and repeats the lines and gestures again, getting it exactly right this time. Now they sort of smile and nod.</td></tr>
 
-  PHLOX
-     You may have trouble finding him. He'll have the
-     ability to blend into his background when
-     frightened.
+<tr><td></td><td>LOCATION--Ready room - 9:15 am</td></tr>
+<tr id="L337"><td><a href="#L337">337</a></td><td>ANNOTATION: Archer is eating breakfast</td></tr>
 
-  ARCHER
-     You're kidding.
+<tr id="L338"><td><a href="#L338">338</a></td><td>ARCHER:  Come in. Sub-Commander.</td></tr>
 
-  PHLOX
-     Yes, I am.
+<tr id="L339"><td><a href="#L339">339</a></td><td>T'POL:  Mister Tucker reports that the new plasma injector is operating well within Starfleet parameters.</td></tr>
 
-  ARCHER
-     Does your expertise on sexual tension come from
-     professional training or firsthand experience?
+<tr id="L340"><td><a href="#L340">340</a></td><td>ARCHER:  Did he tell you they gave us two spares out of the kindness of their hearts?</td></tr>
 
-  PHLOX
-     I do have three wives.
+<tr id="L341"><td><a href="#L341">341</a></td><td>T'POL:  Evidently the finesse you exhibited outside the Hall of Diplomacy was appreciated.</td></tr>
 
-  ARCHER
-     And they each have
+<tr id="L342"><td><a href="#L342">342</a></td><td>ARCHER:  Since I've been getting so much practice giving apologies I thought I might give you one.</td></tr>
 
-  PHLOX
-     Two husbands, besides myself.
+<tr id="L343"><td><a href="#L343">343</a></td><td>T'POL:  That's not necessary.</td></tr>
 
-  ARCHER
-     Sounds very complicated.
+<tr id="L344"><td><a href="#L344">344</a></td><td>ARCHER:  Yeah, it is. I've been under a lot of stress lately, haven't gotten much sleep. My dog</td></tr>
 
-  PHLOX
-     Very. Why else be polygamous?
+<tr id="L345"><td><a href="#L345">345</a></td><td>T'POL:  There's no need to apologise.</td></tr>
 
-  ARCHER
-     So, these three wives.
+<tr id="L346"><td><a href="#L346">346</a></td><td>ARCHER:  Whatever friction there's been between us, I'd like to try to minimise it.</td></tr>
 
-  PHLOX
-     Each have three husbands. A total of seven hundred
-     and twenty relationships, forty two of which have
-     romantic possibilities.
+<tr id="L347"><td><a href="#L347">347</a></td><td>T'POL:  Friction is to be expected whenever people work in close quarters for extended periods of time.</td></tr>
 
-  ARCHER
-     You told me you had five children. How many are
-     there in this whole extended family?
+<tr id="L348"><td><a href="#L348">348</a></td><td>ARCHER:  I guess that's always been true. Especially when the people are of the opposite sex.</td></tr>
 
-  PHLOX
-     Thirty one, at last count.
+<tr id="L349"><td><a href="#L349">349</a></td><td>T'POL:  Then it's good that you're my superior officer. That we're not in a position to allow ourselves to become attracted to one another, hypothetically. If we were, the friction that you speak of could be much more problematic.</td></tr>
 
-  ARCHER
-     You must miss them. You've been away for over two
-     years.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L350"><td><a href="#L350">350</a></td><td>PHLOX:  No apologies, Captain.</td></tr>
 
-  PHLOX
-     I'm ready for the synaptic inductor, the small
-     blue one. My children all left the nest years ago,
-     Captain.
+<tr id="L351"><td><a href="#L351">351</a></td><td>ARCHER:  I promise.</td></tr>
 
-  ARCHER
-     I would have never guessed. You don't look that
-     old.
+<tr id="L352"><td><a href="#L352">352</a></td><td>PHLOX:  I hear things went very well on the surface.</td></tr>
 
-  PHLOX
-     I'll take that as a compliment. My two daughters,
-     I'm proud to say, followed in my footsteps. One's
-     a surgeon, the other's a biochemist.
+<tr id="L353"><td><a href="#L353">353</a></td><td>ARCHER:  I doubt I would have even gone down, there if it hadn't been for you, Doc. I owe you one.</td></tr>
 
-  ARCHER
-     How about the other three?
+<tr id="L354"><td><a href="#L354">354</a></td><td>PHLOX:  You'll be pleased to know that while you were gone, things went very well up here, too.</td></tr>
 
-  PHLOX
-     My eldest son's an artist. A potter, actually. He
-     lives in the same town as his mother. Creates
-     beautiful things.
+<tr id="L355"><td><a href="#L355">355</a></td><td>ARCHER:  The transplant?</td></tr>
 
-  ARCHER
-     And the other two?
+<tr id="L356"><td><a href="#L356">356</a></td><td>PHLOX:  Not the slightest sign of rejection.</td></tr>
 
-  PHLOX
-     My two younger sons and I never saw eye-to-eye.
-     I'm afraid we haven't spoken in quite some time.
+<tr id="L357"><td><a href="#L357">357</a></td><td>ARCHER:  Can I see him?</td></tr>
 
-  ARCHER
-     I'm sorry. I shouldn't have.
+<tr id="L358"><td><a href="#L358">358</a></td><td>PHLOX:  By all means.</td></tr>
 
-  PHLOX
-     Perfectly all right. You asked me if I missed
-     them. The answer is yes, every one of them. The
-     children, the wives, even the other husbands. But
-     we Denobulans live a long time, Captain, and right
-     now there is nowhere I'd rather be than serving
-     with the Interspecies Medical Exchange aboard this
-     wonderful vessel of yours.
+<tr id="L359"><td><a href="#L359">359</a></td><td>ARCHER:  Hey.</td></tr>
 
-  ARCHER
-     Listen, Doc, however this turns out I want to
-     apologise for accusing you of being insensitive
-     before.
+<tr id="L360"><td><a href="#L360">360</a></td><td>ANNOTATION: Porthos is now lying on his side.</td></tr>
 
-  PHLOX
-     As I recall, you accused my entire species of
-     being insensitive. Then I apologise to you and all
-     your fellow Denobulans.
+<tr id="L361"><td><a href="#L361">361</a></td><td>ARCHER:  It's been one hell of a night, hasn't it? How soon can he leave?</td></tr>
 
-  PHLOX
-     Well, I can't speak for the others, but, on behalf
-     of myself, I accept. And to think T'Pol told me
-     you were incapable of apologising.
+<tr id="L362"><td><a href="#L362">362</a></td><td>PHLOX:  Now's as good a time as any.</td></tr>
 
+<tr id="L363"><td><a href="#L363">363</a></td><td>ARCHER:  But he's</td></tr>
 
-LOCATION--Deleted scene - Bridge - 4:26 am
+<tr id="L364"><td><a href="#L364">364</a></td><td>PHLOX:  Unconscious? Nonsense. He's just asleep.</td></tr>
 
-  ARCHER
-     I didn't think your shift began until oh nine
-     hundred.
+<tr id="L365"><td><a href="#L365">365</a></td><td>ANNOTATION: Phlox taps the side of the box, and Porthos sits up.</td></tr>
 
-  T'POL
-     I took the liberty of temporarily synchronising
-     our clocks to the Kreetassan's capital city.
+<tr id="L366"><td><a href="#L366">366</a></td><td>PHLOX:  Porthos.</td></tr>
 
-  ARCHER
-     Just a courtesy? (to Hoshi) Ensign, will you join
-     me?
+<tr id="L367"><td><a href="#L367">367</a></td><td>ANNOTATION: Archer opens up the box and catches Porthos as he jumps out.</td></tr>
 
+<tr id="L368"><td><a href="#L368">368</a></td><td>ARCHER:  Come on, boy. Yeah. We're going home. Sickbay's all yours.</td></tr>
 
-LOCATION--Ready room
+<tr id="L369"><td><a href="#L369">369</a></td><td>ANNOTATION: Phlox gives a very scary CGI Denobulan grin.</td></tr>
 
-  ARCHER
-     Have a seat. You've read the list?
+<tr id="L370"><td><a href="#L370">370</a></td><td>PHLOX:  You're welcome back anytime, Captain.</td></tr>
 
-  HOSHI
-     Yes, sir. Sub-commander T'Pol and I broke it down
-     and
-
-  ARCHER
-     She told me. The last part, just before the end,
-     that little expression that gets repeated. Do you
-     know what I'm talking about?
-
-  HOSHI
-     It's a couplet from one of their oldest political
-     documents.
-
-  ARCHER
-     Their pronunciation guide doesn't make any sense.
-     I'm going to need some help.
-
-
-LOCATION--Kreetassan Capital City
-
-  ANNOTATION
-     Archer is stripped to the waist with braids in his
-     hair and alien symbols either side of his spine.
-     He is taking a chain saw to a tree trunk while
-     speaking alien. Then he picks up the slice of
-     trunk and holds it out while declaiming something
-     before placing it carefully on the ground with
-     others. The Kreetassans don't look happy, so he
-     checks his PADD and repeats the lines and gestures
-     again, getting it exactly right this time. Now
-     they sort of smile and nod.
-
-
-LOCATION--Ready room - 9:15 am
-
-  ANNOTATION
-     Archer is eating breakfast
-
-  ARCHER
-     Come in. Sub-Commander.
-
-  T'POL
-     Mister Tucker reports that the new plasma injector
-     is operating well within Starfleet parameters.
-
-  ARCHER
-     Did he tell you they gave us two spares out of the
-     kindness of their hearts?
-
-  T'POL
-     Evidently the finesse you exhibited outside the
-     Hall of Diplomacy was appreciated.
-
-  ARCHER
-     Since I've been getting so much practice giving
-     apologies I thought I might give you one.
-
-  T'POL
-     That's not necessary.
-
-  ARCHER
-     Yeah, it is. I've been under a lot of stress
-     lately, haven't gotten much sleep. My dog
-
-  T'POL
-     There's no need to apologise.
-
-  ARCHER
-     Whatever friction there's been between us, I'd
-     like to try to minimise it.
-
-  T'POL
-     Friction is to be expected whenever people work in
-     close quarters for extended periods of time.
-
-  ARCHER
-     I guess that's always been true. Especially when
-     the people are of the opposite sex.
-
-  T'POL
-     Then it's good that you're my superior officer.
-     That we're not in a position to allow ourselves to
-     become attracted to one another, hypothetically.
-     If we were, the friction that you speak of could
-     be much more problematic.
-
-
-LOCATION--Sickbay
-
-  PHLOX
-     No apologies, Captain.
-
-  ARCHER
-     I promise.
-
-  PHLOX
-     I hear things went very well on the surface.
-
-  ARCHER
-     I doubt I would have even gone down, there if it
-     hadn't been for you, Doc. I owe you one.
-
-  PHLOX
-     You'll be pleased to know that while you were
-     gone, things went very well up here, too.
-
-  ARCHER
-     The transplant?
-
-  PHLOX
-     Not the slightest sign of rejection.
-
-  ARCHER
-     Can I see him?
-
-  PHLOX
-     By all means.
-
-  ARCHER
-     Hey.
-
-  ANNOTATION
-     Porthos is now lying on his side.
-
-  ARCHER
-     It's been one hell of a night, hasn't it? How soon
-     can he leave?
-
-  PHLOX
-     Now's as good a time as any.
-
-  ARCHER
-     But he's
-
-  PHLOX
-     Unconscious? Nonsense. He's just asleep.
-
-  ANNOTATION
-     Phlox taps the side of the box, and Porthos sits
-     up.
-
-  PHLOX
-     Porthos.
-
-  ANNOTATION
-     Archer opens up the box and catches Porthos as he
-     jumps out.
-
-  ARCHER
-     Come on, boy. Yeah. We're going home. Sickbay's
-     all yours.
-
-  ANNOTATION
-     Phlox gives a very scary CGI Denobulan grin.
-
-  PHLOX
-     You're welcome back anytime, Captain.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

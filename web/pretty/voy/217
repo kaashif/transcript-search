@@ -1,2171 +1,1077 @@
-Deadlock
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Deadlock</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: Neelix refills Samantha Wildman's mug.</td></tr>
 
-LOCATION--Mess hall
+<tr id="L2"><td><a href="#L2">2</a></td><td>NEELIX:  Good afternoon, Ensign. How are we doing today?</td></tr>
 
-  ANNOTATION
-     Neelix refills Samantha Wildman's mug.
+<tr id="L3"><td><a href="#L3">3</a></td><td>WILDMAN:  Oh, we're doing just fine, thank you.</td></tr>
 
-  NEELIX
-     Good afternoon, Ensign. How are we doing today?
+<tr id="L4"><td><a href="#L4">4</a></td><td>NEELIX:  Good, good. By the way, I was wondering if you'd take a look at the thermal array in the kitchen. It overloaded this morning and vaporised an entire pot roast.</td></tr>
 
-  WILDMAN
-     Oh, we're doing just fine, thank you.
+<tr id="L5"><td><a href="#L5">5</a></td><td>WILDMAN:  I'd be happy to.</td></tr>
 
-  NEELIX
-     Good, good. By the way, I was wondering if you'd
-     take a look at the thermal array in the kitchen.
-     It overloaded this morning and vaporised an entire
-     pot roast.
+<tr id="L6"><td><a href="#L6">6</a></td><td>NEELIX:  Wonderful. I informed Ensign Kim about the problem hours ago, and he still hasn't come down to fix it.</td></tr>
 
-  WILDMAN
-     I'd be happy to.
+<tr><td></td><td>LOCATION--Kitchen</td></tr>
+<tr id="L7"><td><a href="#L7">7</a></td><td>WILDMAN:  He's been working on a problem with the structural integrity grid. I'm sure he hasn't forgotten about you.</td></tr>
 
-  NEELIX
-     Wonderful. I informed Ensign Kim about the problem
-     hours ago, and he still hasn't come down to fix
-     it.
+<tr id="L8"><td><a href="#L8">8</a></td><td>NEELIX:  If this thing doesn't get fixed soon, we'll all be eating cold leftovers for dinner and who do you think the crew will blame?</td></tr>
 
+<tr id="L9"><td><a href="#L9">9</a></td><td>WILDMAN:  Looks like you need a new set of anodyne relays. I'll go down to Engineering and get some for you out of storage.</td></tr>
 
-LOCATION--Kitchen
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L10"><td><a href="#L10">10</a></td><td>NEELIX:  Thanks. Oh, and while you're here, would you mind taking a look at the replicator? It's been having trouble making anything with large amounts of cellulose.</td></tr>
 
-  WILDMAN
-     He's been working on a problem with the structural
-     integrity grid. I'm sure he hasn't forgotten about
-     you.
+<tr id="L11"><td><a href="#L11">11</a></td><td>WILDMAN:  Of course.</td></tr>
 
-  NEELIX
-     If this thing doesn't get fixed soon, we'll all be
-     eating cold leftovers for dinner and who do you
-     think the crew will blame?
+<tr id="L12"><td><a href="#L12">12</a></td><td>NEELIX:  Cabbages, psyllium, green beans, celery and all. It all comes out looking a touch too yellow.</td></tr>
 
-  WILDMAN
-     Looks like you need a new set of anodyne relays.
-     I'll go down to Engineering and get some for you
-     out of storage.
+<tr id="L13"><td><a href="#L13">13</a></td><td>WILDMAN:  I thought you didn't use replicated vegetables when you're cooking. Always fresh, organic, from the airponic bay.</td></tr>
 
+<tr id="L14"><td><a href="#L14">14</a></td><td>NEELIX:  Well, the yields have been a little low lately. Normally, I would never dream of using synthesised veggies.</td></tr>
 
-LOCATION--Mess hall
+<tr id="L15"><td><a href="#L15">15</a></td><td>WILDMAN:  It looks like a malfunction in the power grid. Shouldn't be too difficult.</td></tr>
 
-  NEELIX
-     Thanks. Oh, and while you're here, would you mind
-     taking a look at the replicator? It's been having
-     trouble making anything with large amounts of
-     cellulose.
+<tr id="L16"><td><a href="#L16">16</a></td><td>ANNOTATION: Wildman gasps and sits down.</td></tr>
 
-  WILDMAN
-     Of course.
+<tr id="L17"><td><a href="#L17">17</a></td><td>NEELIX:  What's wrong?</td></tr>
 
-  NEELIX
-     Cabbages, psyllium, green beans, celery and all.
-     It all comes out looking a touch too yellow.
+<tr id="L18"><td><a href="#L18">18</a></td><td>WILDMAN:  I think I'm having a contraction. Oh, yeah! It's a contraction, all right.</td></tr>
 
-  WILDMAN
-     I thought you didn't use replicated vegetables
-     when you're cooking. Always fresh, organic, from
-     the airponic bay.
+<tr id="L19"><td><a href="#L19">19</a></td><td>NEELIX:  That's wonderful. Labour can't be far behind. Let's, let's get you to Sickbay. Try to breathe now. Deep, deep regular breaths. Not so fast now. We're having a baby.</td></tr>
 
-  NEELIX
-     Well, the yields have been a little low lately.
-     Normally, I would never dream of using synthesised
-     veggies.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L20"><td><a href="#L20">20</a></td><td>EMH:  Push!</td></tr>
 
-  WILDMAN
-     It looks like a malfunction in the power grid.
-     Shouldn't be too difficult.
+<tr id="L21"><td><a href="#L21">21</a></td><td>KES:  Don't forget to breathe, Samantha. Deep regular breaths. That's it.</td></tr>
 
-  ANNOTATION
-     Wildman gasps and sits down.
+<tr id="L22"><td><a href="#L22">22</a></td><td>EMH:  Cervical dilation is at ten point two centimetres. Prostaglandin levels are normal. Push, Ensign.</td></tr>
 
-  NEELIX
-     What's wrong?
+<tr id="L23"><td><a href="#L23">23</a></td><td>WILDMAN:  You push, damn it! I'm sick of pushing!</td></tr>
 
-  WILDMAN
-     I think I'm having a contraction. Oh, yeah! It's a
-     contraction, all right.
+<tr id="L24"><td><a href="#L24">24</a></td><td>EMH:  I know you're fatigued. Try to focus on your breathing. Remember the exercises we did. When you feel a contraction, bear down.</td></tr>
 
-  NEELIX
-     That's wonderful. Labour can't be far behind.
-     Let's, let's get you to Sickbay. Try to breathe
-     now. Deep, deep regular breaths. Not so fast now.
-     We're having a baby.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L25"><td><a href="#L25">25</a></td><td>ANNOTATION: Janeway is pacing.</td></tr>
 
+<tr id="L26"><td><a href="#L26">26</a></td><td>PARIS:  This is ridiculous. It's been seven hours. How long does it take to deliver a baby?</td></tr>
 
-LOCATION--Sickbay
+<tr id="L27"><td><a href="#L27">27</a></td><td>JANEWAY:  As long as it takes, Mister Paris.</td></tr>
 
-  EMH
-     Push!
+<tr id="L28"><td><a href="#L28">28</a></td><td>TUVOK:  Indeed. During the birth of our third child, my wife was in labour for ninety six hours.</td></tr>
 
-  KES
-     Don't forget to breathe, Samantha. Deep regular
-     breaths. That's it.
+<tr id="L29"><td><a href="#L29">29</a></td><td>KIM:  Four days?</td></tr>
 
-  EMH
-     Cervical dilation is at ten point two centimetres.
-     Prostaglandin levels are normal. Push, Ensign.
+<tr id="L30"><td><a href="#L30">30</a></td><td>TUVOK:  I have learned that pregnancy and patience go hand in hand.</td></tr>
 
-  WILDMAN
-     You push, damn it! I'm sick of pushing!
+<tr id="L31"><td><a href="#L31">31</a></td><td>CHAKOTAY:  You know, I didn't expect to be this nervous. It's not even my child.</td></tr>
 
-  EMH
-     I know you're fatigued. Try to focus on your
-     breathing. Remember the exercises we did. When you
-     feel a contraction, bear down.
+<tr id="L32"><td><a href="#L32">32</a></td><td>JANEWAY:  In a way, this child belongs to all of us. It is the first baby born on Voyager. I'm just not sure whether I should be welcoming it on board, or apologising.</td></tr>
 
+<tr id="L33"><td><a href="#L33">33</a></td><td>CHAKOTAY:  Captain?</td></tr>
 
-LOCATION--Bridge
+<tr id="L34"><td><a href="#L34">34</a></td><td>JANEWAY:  Voyager isn't exactly anyone's idea of a nursery, and the Delta Quadrant isn't much of a playground.</td></tr>
 
-  ANNOTATION
-     Janeway is pacing.
+<tr id="L35"><td><a href="#L35">35</a></td><td>CHAKOTAY:  My father had a saying, Captain. Home is wherever you happen to be.</td></tr>
 
-  PARIS
-     This is ridiculous. It's been seven hours. How
-     long does it take to deliver a baby?
+<tr id="L36"><td><a href="#L36">36</a></td><td>TUVOK:  Captain, long-range sensors are picking up heavy subspace communications ahead. They're Vidiian.</td></tr>
 
-  JANEWAY
-     As long as it takes, Mister Paris.
+<tr id="L37"><td><a href="#L37">37</a></td><td>JANEWAY:  All stop. A ship?</td></tr>
 
-  TUVOK
-     Indeed. During the birth of our third child, my
-     wife was in labour for ninety six hours.
+<tr id="L38"><td><a href="#L38">38</a></td><td>TUVOK:  At least twenty ships within sensor range. I am also detecting a G type star system with two inhabited planets. Life signs, Vidiian.</td></tr>
 
-  KIM
-     Four days?
+<tr id="L39"><td><a href="#L39">39</a></td><td>CHAKOTAY:  Sounds like we're headed right into their territory.</td></tr>
 
-  TUVOK
-     I have learned that pregnancy and patience go hand
-     in hand.
+<tr id="L40"><td><a href="#L40">40</a></td><td>JANEWAY:  And I'm in no mood to donate any organs today. Options, Mister Paris?</td></tr>
 
-  CHAKOTAY
-     You know, I didn't expect to be this nervous. It's
-     not even my child.
+<tr id="L41"><td><a href="#L41">41</a></td><td>PARIS:  There's a large plasma drift bearing four zero mark seven. It extends almost half the length of this sector. Interference from the plasma should block us from their sensors.</td></tr>
 
-  JANEWAY
-     In a way, this child belongs to all of us. It is
-     the first baby born on Voyager. I'm just not sure
-     whether I should be welcoming it on board, or
-     apologising.
+<tr id="L42"><td><a href="#L42">42</a></td><td>JANEWAY:  Good thinking. Lay in a course at full impulse. Mister Tuvok, deflectors at maximum.</td></tr>
 
-  CHAKOTAY
-     Captain?
+<tr id="L43"><td><a href="#L43">43</a></td><td>ANNOTATION: Voyager heads into the big green swirly thing.</td></tr>
 
-  JANEWAY
-     Voyager isn't exactly anyone's idea of a nursery,
-     and the Delta Quadrant isn't much of a playground.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L44"><td><a href="#L44">44</a></td><td>WILDMAN:  Oh! Oh, what was that?</td></tr>
 
-  CHAKOTAY
-     My father had a saying, Captain. Home is wherever
-     you happen to be.
+<tr id="L45"><td><a href="#L45">45</a></td><td>EMH:  What's wrong?</td></tr>
 
-  TUVOK
-     Captain, long-range sensors are picking up heavy
-     subspace communications ahead. They're Vidiian.
+<tr id="L46"><td><a href="#L46">46</a></td><td>WILDMAN:  A pain in my abdomen. It's different. Sharp. Oh, God!</td></tr>
 
-  JANEWAY
-     All stop. A ship?
+<tr id="L47"><td><a href="#L47">47</a></td><td>EMH:  The baby has shifted position, and its exo-cranial ridges have lodged in the uterine wall. This is a rare complication, but it's been known to happen in human Ktarian pregnancies.</td></tr>
 
-  TUVOK
-     At least twenty ships within sensor range. I am
-     also detecting a G type star system with two
-     inhabited planets. Life signs, Vidiian.
+<tr id="L48"><td><a href="#L48">48</a></td><td>KES:  Can we reposition the baby?</td></tr>
 
-  CHAKOTAY
-     Sounds like we're headed right into their
-     territory.
+<tr id="L49"><td><a href="#L49">49</a></td><td>EMH:  No. Its spinal column is too fragile. I don't want to risk nerve damage. If we don't deliver the baby now, its ridges could perforate the uterus and cause internal bleeding. Kes, prepare for a foetal transport.</td></tr>
 
-  JANEWAY
-     And I'm in no mood to donate any organs today.
-     Options, Mister Paris?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L50"><td><a href="#L50">50</a></td><td>PARIS:  We're clearing the Vidiian system, Captain.</td></tr>
 
-  PARIS
-     There's a large plasma drift bearing four zero
-     mark seven. It extends almost half the length of
-     this sector. Interference from the plasma should
-     block us from their sensors.
+<tr id="L51"><td><a href="#L51">51</a></td><td>JANEWAY:  Take us out of the plasma drift and resume our previous course.</td></tr>
 
-  JANEWAY
-     Good thinking. Lay in a course at full impulse.
-     Mister Tuvok, deflectors at maximum.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L52"><td><a href="#L52">52</a></td><td>EMH:  I've locked onto the baby's coordinates. We're ready to begin. Initiating umbilical separation. Energising.</td></tr>
 
-  ANNOTATION
-     Voyager heads into the big green swirly thing.
+<tr id="L53"><td><a href="#L53">53</a></td><td>ANNOTATION: A screaming infant materialises in the bio-crib. It has three wicked spiked horns on its forehead.</td></tr>
 
+<tr id="L54"><td><a href="#L54">54</a></td><td>EMH:  Congratulations, Ensign. It's a girl.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L55"><td><a href="#L55">55</a></td><td>WILDMAN:  Is she all right?</td></tr>
 
-  WILDMAN
-     Oh! Oh, what was that?
+<tr id="L56"><td><a href="#L56">56</a></td><td>EMH:  The transport caused a slight hemocythemic imbalance, but we'll stabilise her cell membranes with osmotic pressure therapy.</td></tr>
 
-  EMH
-     What's wrong?
+<tr id="L57"><td><a href="#L57">57</a></td><td>ANNOTATION: Big shudder.</td></tr>
 
-  WILDMAN
-     A pain in my abdomen. It's different. Sharp. Oh,
-     God!
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L58"><td><a href="#L58">58</a></td><td>JANEWAY:  What was that?</td></tr>
 
-  EMH
-     The baby has shifted position, and its exo-cranial
-     ridges have lodged in the uterine wall. This is a
-     rare complication, but it's been known to happen
-     in human Ktarian pregnancies.
+<tr id="L59"><td><a href="#L59">59</a></td><td>KIM:  We hit some kind of subspace turbulence as we were coming out of the plasma drift. I can't tell if</td></tr>
 
-  KES
-     Can we reposition the baby?
+<tr id="L60"><td><a href="#L60">60</a></td><td>ANNOTATION: The power goes down.</td></tr>
 
-  EMH
-     No. Its spinal column is too fragile. I don't want
-     to risk nerve damage. If we don't deliver the baby
-     now, its ridges could perforate the uterus and
-     cause internal bleeding. Kes, prepare for a foetal
-     transport.
+<tr id="L61"><td><a href="#L61">61</a></td><td>PARIS:  What the hell? Captain, the warp engines just stalled.</td></tr>
 
+<tr id="L62"><td><a href="#L62">62</a></td><td>JANEWAY:  Go to impulse.</td></tr>
 
-LOCATION--Bridge
+<tr id="L63"><td><a href="#L63">63</a></td><td>PARIS:  Impulse engines aren't responding. Manoeuvring thrusters are out too.</td></tr>
 
-  PARIS
-     We're clearing the Vidiian system, Captain.
+<tr id="L64"><td><a href="#L64">64</a></td><td>KIM:  We're losing main power. Switching to backup power.</td></tr>
 
-  JANEWAY
-     Take us out of the plasma drift and resume our
-     previous course.
+<tr id="L65"><td><a href="#L65">65</a></td><td>JANEWAY:  Red alert. Bridge to Engineering.</td></tr>
 
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L66"><td><a href="#L66">66</a></td><td>JANEWAY [OC]:  Report.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L67"><td><a href="#L67">67</a></td><td>TORRES:  Our antimatter supply is being drained, Captain. I don't know why. The containment fields are in place. It's like we sprung a leak, but I can't find the crack.</td></tr>
 
-  EMH
-     I've locked onto the baby's coordinates. We're
-     ready to begin. Initiating umbilical separation.
-     Energising.
+<tr id="L68"><td><a href="#L68">68</a></td><td>JANEWAY [OC]:  B'Elanna</td></tr>
 
-  ANNOTATION
-     A screaming infant materialises in the bio-crib.
-     It has three wicked spiked horns on its forehead.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L69"><td><a href="#L69">69</a></td><td>JANEWAY:  Try infusing the warp core with repeated proton bursts. That should be enough to keep it going.</td></tr>
 
-  EMH
-     Congratulations, Ensign. It's a girl.
+<tr id="L70"><td><a href="#L70">70</a></td><td>TORRES [OC]:  I think</td></tr>
 
-  WILDMAN
-     Is she all right?
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L71"><td><a href="#L71">71</a></td><td>TORRES:  I can generate enough protons in the sensor array for a burst every thirty seconds.</td></tr>
 
-  EMH
-     The transport caused a slight hemocythemic
-     imbalance, but we'll stabilise her cell membranes
-     with osmotic pressure therapy.
+<tr id="L72"><td><a href="#L72">72</a></td><td>JANEWAY [OC]:  Do it.</td></tr>
 
-  ANNOTATION
-     Big shudder.
+<tr id="L73"><td><a href="#L73">73</a></td><td>TORRES:  Hogan! These proton bursts are going to cause a lot of stress on the hull. Reinforce structural integrity to, now what?</td></tr>
 
+<tr id="L74"><td><a href="#L74">74</a></td><td>ANNOTATION: Whoosh, bang! A console explodes.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L75"><td><a href="#L75">75</a></td><td>CHAKOTAY:  What was that?</td></tr>
 
-  JANEWAY
-     What was that?
+<tr id="L76"><td><a href="#L76">76</a></td><td>TUVOK:  It appeared to be a proton burst.</td></tr>
 
-  KIM
-     We hit some kind of subspace turbulence as we were
-     coming out of the plasma drift. I can't tell if
+<tr id="L77"><td><a href="#L77">77</a></td><td>JANEWAY:  Already? Bridge to Torres. Report. Engineering, respond.</td></tr>
 
-  ANNOTATION
-     The power goes down.
+<tr id="L78"><td><a href="#L78">78</a></td><td>KIM:  Captain, three EPS conduits just ruptured in Engineering. They took heavy casualties.</td></tr>
 
-  PARIS
-     What the hell? Captain, the warp engines just
-     stalled.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L79"><td><a href="#L79">79</a></td><td>ANNOTATION: Bang!</td></tr>
 
-  JANEWAY
-     Go to impulse.
+<tr id="L80"><td><a href="#L80">80</a></td><td>EMH:  The incubator is losing power. Activate the auxiliary respirator.</td></tr>
 
-  PARIS
-     Impulse engines aren't responding. Manoeuvring
-     thrusters are out too.
+<tr id="L81"><td><a href="#L81">81</a></td><td>ANNOTATION: The doors open.</td></tr>
 
-  KIM
-     We're losing main power. Switching to backup
-     power.
+<tr id="L82"><td><a href="#L82">82</a></td><td>CREWMAN:  We've got wounded here.</td></tr>
 
-  JANEWAY
-     Red alert. Bridge to Engineering.
+<tr id="L83"><td><a href="#L83">83</a></td><td>ANNOTATION: Shortly after, the biobeds are fully occupied, and patients are lying on the floor.</td></tr>
 
+<tr id="L84"><td><a href="#L84">84</a></td><td>EMH:  Second degree plasma burns on the face and neck. Treat him with a dermaline gel.</td></tr>
 
-LOCATION--Engineering
+<tr id="L85"><td><a href="#L85">85</a></td><td>CREWMAN:  Yes, sir.</td></tr>
 
-  JANEWAY [OC]
-     Report.
+<tr id="L86"><td><a href="#L86">86</a></td><td>EMH:  Fractured clavicle, thoracic contusions, nothing serious. She can wait. Fused vertebrae. Prep him for surgery. Status?</td></tr>
 
-  TORRES
-     Our antimatter supply is being drained, Captain. I
-     don't know why. The containment fields are in
-     place. It's like we sprung a leak, but I can't
-     find the crack.
+<tr id="L87"><td><a href="#L87">87</a></td><td>KES:  It doesn't look good, Doctor. The baby's cell membranes won't stabilise.</td></tr>
 
-  JANEWAY [OC]
-     B'Elanna
+<tr id="L88"><td><a href="#L88">88</a></td><td>EMH:  Increase the osmotic</td></tr>
 
+<tr id="L89"><td><a href="#L89">89</a></td><td>ANNOTATION: Another proton burst.</td></tr>
 
-LOCATION--Bridge
+<tr id="L90"><td><a href="#L90">90</a></td><td>EMH:  That's not helping. Increase the osmotic pressure ratio by ten percent.</td></tr>
 
-  JANEWAY
-     Try infusing the warp core with repeated proton
-     bursts. That should be enough to keep it going.
+<tr id="L91"><td><a href="#L91">91</a></td><td>KIM [OC]:  Bridge to Sickbay, there's been a major coolant leak in the Mess hall. You've got more wounded on the way.</td></tr>
 
-  TORRES [OC]
-     I think
+<tr id="L92"><td><a href="#L92">92</a></td><td>EMH:  Acknowledged.</td></tr>
 
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L93"><td><a href="#L93">93</a></td><td>TORRES:  Torres to Bridge! We're definitely being, we're definitely being hit by proton bursts. But I don't know where they're coming from. I never even started the procedure.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L94"><td><a href="#L94">94</a></td><td>KIM:  She's right. The main sensor array is offline. Not a single burst was fired.</td></tr>
 
-  TORRES
-     I can generate enough protons in the sensor array
-     for a burst every thirty seconds.
+<tr id="L95"><td><a href="#L95">95</a></td><td>JANEWAY:  And yet the bursts appear to be originating from within the ship. It's like they're coming out of thin air.</td></tr>
 
-  JANEWAY [OC]
-     Do it.
+<tr id="L96"><td><a href="#L96">96</a></td><td>TUVOK:  Captain, these bursts are weakening the structural integrity of the hull. We cannot take any more.</td></tr>
 
-  TORRES
-     Hogan! These proton bursts are going to cause a
-     lot of stress on the hull. Reinforce structural
-     integrity to, now what?
+<tr id="L97"><td><a href="#L97">97</a></td><td>JANEWAY:  Can we increase power to structural reinforcement?</td></tr>
 
-  ANNOTATION
-     Whoosh, bang! A console explodes.
+<tr id="L98"><td><a href="#L98">98</a></td><td>KIM:  Our antimatter supply is too low. There's just not enough power to go</td></tr>
 
+<tr id="L99"><td><a href="#L99">99</a></td><td>ANNOTATION: Whumph, bang!</td></tr>
 
-LOCATION--Bridge
+<tr id="L100"><td><a href="#L100">100</a></td><td>TUVOK:  Hull breach on deck fifteen, section twenty nine alpha. Emergency force fields are offline.</td></tr>
 
-  CHAKOTAY
-     What was that?
+<tr id="L101"><td><a href="#L101">101</a></td><td>KIM:  Captain, I've been working on a way to enhance our portable forcefield generators. It might be enough to seal that breach.</td></tr>
 
-  TUVOK
-     It appeared to be a proton burst.
+<tr id="L102"><td><a href="#L102">102</a></td><td>JANEWAY:  Go.</td></tr>
 
-  JANEWAY
-     Already? Bridge to Torres. Report. Engineering,
-     respond.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L103"><td><a href="#L103">103</a></td><td>NEELIX:  Don't you worry. We have the best doctor in the quadrant.</td></tr>
 
-  KIM
-     Captain, three EPS conduits just ruptured in
-     Engineering. They took heavy casualties.
+<tr id="L104"><td><a href="#L104">104</a></td><td>KES:  Doctor, her cell membranes are losing cohesion.</td></tr>
 
+<tr id="L105"><td><a href="#L105">105</a></td><td>EMH:  Try remodulating the osmotic pressure.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L106"><td><a href="#L106">106</a></td><td>KES:  No effect.</td></tr>
 
-  ANNOTATION
-     Bang!
+<tr id="L107"><td><a href="#L107">107</a></td><td>EMH:  Hang on. I'll be right there.</td></tr>
 
-  EMH
-     The incubator is losing power. Activate the
-     auxiliary respirator.
+<tr id="L108"><td><a href="#L108">108</a></td><td>ANNOTATION: Another proton burst hits. The EMH flickers and drops his dermal regenerator.</td></tr>
 
-  ANNOTATION
-     The doors open.
+<tr id="L109"><td><a href="#L109">109</a></td><td>EMH:  Oh, no.</td></tr>
 
-  CREWMAN
-     We've got wounded here.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L110"><td><a href="#L110">110</a></td><td>KIM:  Jefferies tube twelve runs right over the breach. If we can get close enough, we should be able to set up a portable containment field.</td></tr>
 
-  ANNOTATION
-     Shortly after, the biobeds are fully occupied, and
-     patients are lying on the floor.
+<tr id="L111"><td><a href="#L111">111</a></td><td>HOGAN:  The breach has weakened the integrity of that tube by twenty two percent.</td></tr>
 
-  EMH
-     Second degree plasma burns on the face and neck.
-     Treat him with a dermaline gel.
+<tr id="L112"><td><a href="#L112">112</a></td><td>TORRES:  That's why we need to reinforce the field. We'll use the power conduits on this deck.</td></tr>
 
-  CREWMAN
-     Yes, sir.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L113"><td><a href="#L113">113</a></td><td>TUVOK:  I've analysed the bursts on all spectral frequencies. There's still no indication of where they're coming from.</td></tr>
 
-  EMH
-     Fractured clavicle, thoracic contusions, nothing
-     serious. She can wait. Fused vertebrae. Prep him
-     for surgery. Status?
+<tr id="L114"><td><a href="#L114">114</a></td><td>JANEWAY:  At this point, I don't give a damn where they're coming from. I just want to stop them. Chakotay, do we have enough auxiliary power to magnetise the hull? It might cushion the impact of the bursts.</td></tr>
 
-  KES
-     It doesn't look good, Doctor. The baby's cell
-     membranes won't stabilise.
+<tr id="L115"><td><a href="#L115">115</a></td><td>CHAKOTAY:  We have just barely enough.</td></tr>
 
-  EMH
-     Increase the osmotic
+<tr id="L116"><td><a href="#L116">116</a></td><td>JANEWAY:  Give it a try.</td></tr>
 
-  ANNOTATION
-     Another proton burst.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L117"><td><a href="#L117">117</a></td><td>EMH:  I've stabilised my imaging array but it could go out at any time.</td></tr>
 
-  EMH
-     That's not helping. Increase the osmotic pressure
-     ratio by ten percent.
+<tr id="L118"><td><a href="#L118">118</a></td><td>WILDMAN:  Doctor?</td></tr>
 
-  KIM [OC]
-     Bridge to Sickbay, there's been a major coolant
-     leak in the Mess hall. You've got more wounded on
-     the way.
+<tr id="L119"><td><a href="#L119">119</a></td><td>EMH:  Prepare for emergency resuscitation.</td></tr>
 
-  EMH
-     Acknowledged.
+<tr id="L120"><td><a href="#L120">120</a></td><td>WILDMAN:  My baby, she, she's going to die, isn't she?</td></tr>
 
+<tr id="L121"><td><a href="#L121">121</a></td><td>EMH:  Not if I can help it.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Jefferies tube</td></tr>
+<tr id="L122"><td><a href="#L122">122</a></td><td>KIM:  Here it is. The breach is directly below us.</td></tr>
 
-  TORRES
-     Torres to Bridge! We're definitely being, we're
-     definitely being hit by proton bursts. But I don't
-     know where they're coming from. I never even
-     started the procedure.
+<tr id="L123"><td><a href="#L123">123</a></td><td>ANNOTATION: Kim opens the bulkhead and goes down the ladder.</td></tr>
 
+<tr id="L124"><td><a href="#L124">124</a></td><td>TORRES:  Make it fast, Harry. Torres to Hogan. What's your status?</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L125"><td><a href="#L125">125</a></td><td>HOGAN:  Almost got it, Lieutenant. I'm rerouting all power in this section to your</td></tr>
 
-  KIM
-     She's right. The main sensor array is offline. Not
-     a single burst was fired.
+<tr id="L126"><td><a href="#L126">126</a></td><td>ANNOTATION: Whumph, bang! Hogan is thrown backwards.</td></tr>
 
-  JANEWAY
-     And yet the bursts appear to be originating from
-     within the ship. It's like they're coming out of
-     thin air.
+<tr><td></td><td>LOCATION--Jefferies tube</td></tr>
+<tr id="L127"><td><a href="#L127">127</a></td><td>TORRES:  Torres to Hogan. Hogan</td></tr>
 
-  TUVOK
-     Captain, these bursts are weakening the structural
-     integrity of the hull. We cannot take any more.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L128"><td><a href="#L128">128</a></td><td>TORRES [OC]:  Are you there?</td></tr>
 
-  JANEWAY
-     Can we increase power to structural reinforcement?
+<tr id="L129"><td><a href="#L129">129</a></td><td>HOGAN:  I'm hurt.</td></tr>
 
-  KIM
-     Our antimatter supply is too low. There's just not
-     enough power to go
+<tr><td></td><td>LOCATION--Jefferies tube</td></tr>
+<tr id="L130"><td><a href="#L130">130</a></td><td>TORRES:  Hurry, we have to help him.</td></tr>
 
-  ANNOTATION
-     Whumph, bang!
+<tr id="L131"><td><a href="#L131">131</a></td><td>KIM:  Just give me a minute.</td></tr>
 
-  TUVOK
-     Hull breach on deck fifteen, section twenty nine
-     alpha. Emergency force fields are offline.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L132"><td><a href="#L132">132</a></td><td>EMH:  Again.</td></tr>
 
-  KIM
-     Captain, I've been working on a way to enhance our
-     portable forcefield generators. It might be enough
-     to seal that breach.
+<tr id="L133"><td><a href="#L133">133</a></td><td>KES:  Nothing.</td></tr>
 
-  JANEWAY
-     Go.
+<tr id="L134"><td><a href="#L134">134</a></td><td>ANNOTATION: The baby is dead.</td></tr>
 
+<tr id="L135"><td><a href="#L135">135</a></td><td>EMH:  I'm sorry, Ensign.</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L136"><td><a href="#L136">136</a></td><td>HOGAN:  Hogan to Sickbay. I need medical assistance. Deck fifteen, section twenty nine.</td></tr>
 
-  NEELIX
-     Don't you worry. We have the best doctor in the
-     quadrant.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L137"><td><a href="#L137">137</a></td><td>KES:  I'll go.</td></tr>
 
-  KES
-     Doctor, her cell membranes are losing cohesion.
+<tr><td></td><td>LOCATION--Jefferies tube</td></tr>
+<tr id="L138"><td><a href="#L138">138</a></td><td>TORRES:  The breach is widening. Let's get out of here. Damn it, Harry! Let's go!</td></tr>
 
-  EMH
-     Try remodulating the osmotic pressure.
+<tr id="L139"><td><a href="#L139">139</a></td><td>KIM:  Hold on. My minute isn't up yet.</td></tr>
 
-  KES
-     No effect.
+<tr id="L140"><td><a href="#L140">140</a></td><td>ANNOTATION: The breach opens and Harry grabs a ladder rung to stop himself being sucked out. Torres climbs down.</td></tr>
 
-  EMH
-     Hang on. I'll be right there.
+<tr id="L141"><td><a href="#L141">141</a></td><td>TORRES:  Harry, grab my hand!</td></tr>
 
-  ANNOTATION
-     Another proton burst hits. The EMH flickers and
-     drops his dermal regenerator.
+<tr id="L142"><td><a href="#L142">142</a></td><td>ANNOTATION: But the pull of the vacuum of space is too strong.</td></tr>
 
-  EMH
-     Oh, no.
+<tr id="L143"><td><a href="#L143">143</a></td><td>TORRES:  Harry!</td></tr>
 
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L144"><td><a href="#L144">144</a></td><td>KES:  Lieutenant Hogan?</td></tr>
 
-LOCATION--Corridor
+<tr id="L145"><td><a href="#L145">145</a></td><td>TORRES:  Kes, over here.</td></tr>
 
-  KIM
-     Jefferies tube twelve runs right over the breach.
-     If we can get close enough, we should be able to
-     set up a portable containment field.
+<tr id="L146"><td><a href="#L146">146</a></td><td>ANNOTATION: Kes runs towards them, and vanishes.</td></tr>
 
-  HOGAN
-     The breach has weakened the integrity of that tube
-     by twenty two percent.
+<tr id="L147"><td><a href="#L147">147</a></td><td>TORRES:  Torres to Bridge. Ensign Kim is dead.</td></tr>
 
-  TORRES
-     That's why we need to reinforce the field. We'll
-     use the power conduits on this deck.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L148"><td><a href="#L148">148</a></td><td>TORRES [OC]:  Kes just disappeared.</td></tr>
 
+<tr id="L149"><td><a href="#L149">149</a></td><td>JANEWAY:  Disappeared?</td></tr>
 
-LOCATION--Bridge
+<tr id="L150"><td><a href="#L150">150</a></td><td>TORRES [OC]:  I can't explain it.</td></tr>
 
-  TUVOK
-     I've analysed the bursts on all spectral
-     frequencies. There's still no indication of where
-     they're coming from.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L151"><td><a href="#L151">151</a></td><td>TORRES:  She just vanished. There seems to be some kind of spatial rift.</td></tr>
 
-  JANEWAY
-     At this point, I don't give a damn where they're
-     coming from. I just want to stop them. Chakotay,
-     do we have enough auxiliary power to magnetise the
-     hull? It might cushion the impact of the bursts.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L152"><td><a href="#L152">152</a></td><td>TORRES [OC]:  Right where she disappeared.</td></tr>
 
-  CHAKOTAY
-     We have just barely enough.
+<tr id="L153"><td><a href="#L153">153</a></td><td>JANEWAY:  Can you determine where it leads?</td></tr>
 
-  JANEWAY
-     Give it a try.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L154"><td><a href="#L154">154</a></td><td>TORRES:  Stand by, Bridge. I just threw a piece of conduit into the rift. Just as it vanished, I detected another</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L155"><td><a href="#L155">155</a></td><td>TORRES [OC]:  Oxygen nitrogen atmosphere.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L156"><td><a href="#L156">156</a></td><td>JANEWAY:  Another atmosphere?</td></tr>
 
-  EMH
-     I've stabilised my imaging array but it could go
-     out at any time.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L157"><td><a href="#L157">157</a></td><td>TORRES:  Whatever's on the other side of that rift, there's air. Maybe Kes is still alive.</td></tr>
 
-  WILDMAN
-     Doctor?
+<tr id="L158"><td><a href="#L158">158</a></td><td>ANNOTATION: Bang!</td></tr>
 
-  EMH
-     Prepare for emergency resuscitation.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L159"><td><a href="#L159">159</a></td><td>JANEWAY:  Get out of there, Torres. The hull breach is widening. I'm going to evacuate the</td></tr>
 
-  WILDMAN
-     My baby, she, she's going to die, isn't she?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L160"><td><a href="#L160">160</a></td><td>JANEWAY [OC]:  Entire deck.</td></tr>
 
-  EMH
-     Not if I can help it.
+<tr id="L161"><td><a href="#L161">161</a></td><td>TORRES:  You don't have to tell me twice.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L162"><td><a href="#L162">162</a></td><td>TUVOK:  Main computer core is failing. Switching to back up processors.</td></tr>
 
-LOCATION--Jefferies tube
+<tr id="L163"><td><a href="#L163">163</a></td><td>ANNOTATION: Bang!</td></tr>
 
-  KIM
-     Here it is. The breach is directly below us.
+<tr id="L164"><td><a href="#L164">164</a></td><td>JANEWAY:  Chakotay, are you ready to magnetise the hull?</td></tr>
 
-  ANNOTATION
-     Kim opens the bulkhead and goes down the ladder.
+<tr id="L165"><td><a href="#L165">165</a></td><td>CHAKOTAY:  Stand by. I'm having trouble with the alignment module.</td></tr>
 
-  TORRES
-     Make it fast, Harry. Torres to Hogan. What's your
-     status?
+<tr id="L166"><td><a href="#L166">166</a></td><td>JANEWAY:  Try remodulating the field emitters.</td></tr>
 
+<tr id="L167"><td><a href="#L167">167</a></td><td>ANNOTATION: Bang! Janeway is knocked down.</td></tr>
 
-LOCATION--Corridor
+<tr id="L168"><td><a href="#L168">168</a></td><td>JANEWAY:  Chakotay!</td></tr>
 
-  HOGAN
-     Almost got it, Lieutenant. I'm rerouting all power
-     in this section to your
+<tr id="L169"><td><a href="#L169">169</a></td><td>CHAKOTAY:  I've got alignment. Magnetising the hull.</td></tr>
 
-  ANNOTATION
-     Whumph, bang! Hogan is thrown backwards.
+<tr id="L170"><td><a href="#L170">170</a></td><td>ANNOTATION: Shudder.</td></tr>
 
+<tr id="L171"><td><a href="#L171">171</a></td><td>CHAKOTAY:  I think it worked.</td></tr>
 
-LOCATION--Jefferies tube
+<tr id="L172"><td><a href="#L172">172</a></td><td>JANEWAY:  Let's hope so. I want a full damage report from all decks.</td></tr>
 
-  TORRES
-     Torres to Hogan. Hogan
+<tr id="L173"><td><a href="#L173">173</a></td><td>PARIS:  Are you all right, Captain?</td></tr>
 
+<tr id="L174"><td><a href="#L174">174</a></td><td>JANEWAY:  It's just a scratch.</td></tr>
 
-LOCATION--Corridor
+<tr id="L175"><td><a href="#L175">175</a></td><td>PARIS:  It's more than a scratch. Maybe you should go to</td></tr>
 
-  TORRES [OC]
-     Are you there?
+<tr id="L176"><td><a href="#L176">176</a></td><td>JANEWAY:  I'm fine, Lieutenant.</td></tr>
 
-  HOGAN
-     I'm hurt.
+<tr id="L177"><td><a href="#L177">177</a></td><td>TUVOK:  Damage reports are coming in. The hull breach on deck fifteen has widened to include deck fourteen, section twelve. And there are six hundred thirty two micro-fractures along the hull's infrastructure. All primary systems are offline. We are running on emergency power only. The antimatter supply has dropped to eighteen percent and is continuing to fall. Warp coils in both nacelles have fused and are inoperative. The environmental control systems are failing. Fifteen crew members have been seriously wounded with plasma burns, twenty seven experienced other injuries. The Doctor is setting up triage facilities in Sickbay and Holodeck two. I must also regretfully report that Ensign Wildman's baby did not survive.</td></tr>
 
+<tr id="L178"><td><a href="#L178">178</a></td><td>JANEWAY:  I want an engineering team to seal those micro-fractures before they become breaches.</td></tr>
 
-LOCATION--Jefferies tube
+<tr id="L179"><td><a href="#L179">179</a></td><td>TUVOK:  Aye, Captain.</td></tr>
 
-  TORRES
-     Hurry, we have to help him.
+<tr id="L180"><td><a href="#L180">180</a></td><td>JANEWAY:  Mister Paris, grab a medical tricorder and go assist the Doctor.</td></tr>
 
-  KIM
-     Just give me a minute.
+<tr id="L181"><td><a href="#L181">181</a></td><td>PARIS:  Right.</td></tr>
 
+<tr id="L182"><td><a href="#L182">182</a></td><td>JANEWAY:  Commander, you have the Bridge. I'm going to go talk to Ensign Wildman. Maybe I can help.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L183"><td><a href="#L183">183</a></td><td>ANNOTATION: Bang!</td></tr>
 
-  EMH
-     Again.
+<tr id="L184"><td><a href="#L184">184</a></td><td>CHAKOTAY:  The magnetic field is collapsing. The hull is depolarising!</td></tr>
 
-  KES
-     Nothing.
+<tr id="L185"><td><a href="#L185">185</a></td><td>ANNOTATION: Bang!</td></tr>
 
-  ANNOTATION
-     The baby is dead.
+<tr id="L186"><td><a href="#L186">186</a></td><td>TUVOK:  The fire suppression system is out.</td></tr>
 
-  EMH
-     I'm sorry, Ensign.
+<tr id="L187"><td><a href="#L187">187</a></td><td>COMPUTER:  Warning. Hull breach on deck one. Emergency forcefields inoperative.</td></tr>
 
+<tr id="L188"><td><a href="#L188">188</a></td><td>CHAKOTAY:  Everybody out! Go, go, go! Hurry, Captain!</td></tr>
 
-LOCATION--Corridor
+<tr id="L189"><td><a href="#L189">189</a></td><td>JANEWAY:  I'm trying to reroute emergency power to the field emitters!</td></tr>
 
-  HOGAN
-     Hogan to Sickbay. I need medical assistance. Deck
-     fifteen, section twenty nine.
+<tr id="L190"><td><a href="#L190">190</a></td><td>CHAKOTAY:  Captain!</td></tr>
 
+<tr id="L191"><td><a href="#L191">191</a></td><td>JANEWAY:  I can seal this breach!</td></tr>
 
-LOCATION--Sickbay
+<tr id="L192"><td><a href="#L192">192</a></td><td>ANNOTATION: Flames appear. She retreats. But before she gets to the turbolift, she sees an image of an undamaged Bridge, and looks into her own eyes.</td></tr>
 
-  KES
-     I'll go.
+<tr id="L193"><td><a href="#L193">193</a></td><td>CHAKOTAY:  Captain, let's go!</td></tr>
 
+<tr id="L194"><td><a href="#L194">194</a></td><td>ANNOTATION: Note to readers: damaged Voyager and crew remain as normal, while the undamaged Voyager and crew will be suffixed 2.</td></tr>
 
-LOCATION--Jefferies tube
+<tr><td></td><td>LOCATION--Voyager 2 - Bridge</td></tr>
+<tr id="L195"><td><a href="#L195">195</a></td><td>ANNOTATION: Quiet, normal, undamaged.</td></tr>
 
-  TORRES
-     The breach is widening. Let's get out of here.
-     Damn it, Harry! Let's go!
+<tr id="L196"><td><a href="#L196">196</a></td><td>CHAKOTAY 2:  Captain?</td></tr>
 
-  KIM
-     Hold on. My minute isn't up yet.
+<tr id="L197"><td><a href="#L197">197</a></td><td>JANEWAY 2:  Ensign Kim, scan the Bridge. I just saw myself cross the Bridge and enter that turbolift. It was very faint, almost like a ghost image. And I looked like hell.</td></tr>
 
-  ANNOTATION
-     The breach opens and Harry grabs a ladder rung to
-     stop himself being sucked out. Torres climbs down.
+<tr id="L198"><td><a href="#L198">198</a></td><td>KIM 2:  Captain, there was a minor spatial fluctuation on the Bridge. But it was only there for a millisecond.</td></tr>
 
-  TORRES
-     Harry, grab my hand!
+<tr id="L199"><td><a href="#L199">199</a></td><td>JANEWAY 2:  Bridge to Engineering. B'Elanna, how long until we can use the main sensor array?</td></tr>
 
-  ANNOTATION
-     But the pull of the vacuum of space is too strong.
+<tr id="L200"><td><a href="#L200">200</a></td><td>TORRES 2 [OC]:  Another three hours.</td></tr>
 
-  TORRES
-     Harry!
+<tr><td></td><td>LOCATION--Voyager 2 - Engineering</td></tr>
+<tr id="L201"><td><a href="#L201">201</a></td><td>TORRES 2:  We're only about halfway through the proton burst procedure.</td></tr>
 
+<tr><td></td><td>LOCATION--Voyager 2 - Bridge</td></tr>
+<tr id="L202"><td><a href="#L202">202</a></td><td>JANEWAY 2:  See if you can speed up the process. We need the sensors as soon</td></tr>
 
-LOCATION--Corridor
+<tr><td></td><td>LOCATION--Voyager 2 - Engineering</td></tr>
+<tr id="L203"><td><a href="#L203">203</a></td><td>JANEWAY 2 [OC]:  as possible.</td></tr>
 
-  KES
-     Lieutenant Hogan?
+<tr id="L204"><td><a href="#L204">204</a></td><td>TORRES 2:  Understood.</td></tr>
 
-  TORRES
-     Kes, over here.
+<tr><td></td><td>LOCATION--Voyager 2 - Bridge</td></tr>
+<tr id="L205"><td><a href="#L205">205</a></td><td>JANEWAY 2:  Mister Kim, modify a tricorder to scan for spatial anomalies. Go over every centimetre of this Bridge. Examine the sensor logs from our trip through the plasma drift. Look for anything unusual. I'll be in Sickbay.</td></tr>
 
-  ANNOTATION
-     Kes runs towards them, and vanishes.
+<tr id="L206"><td><a href="#L206">206</a></td><td>CHAKOTAY 2:  Aye, Captain.</td></tr>
 
-  TORRES
-     Torres to Bridge. Ensign Kim is dead.
+<tr><td></td><td>LOCATION--Voyager 2 - Sickbay</td></tr>
+<tr id="L207"><td><a href="#L207">207</a></td><td>EMH 2:  Good news, Ensign. Our baby is perfectly healthy. There's no sign of any interspecies abnormalities.</td></tr>
 
+<tr id="L208"><td><a href="#L208">208</a></td><td>WILDMAN 2:  Our baby?</td></tr>
 
-LOCATION--Bridge
+<tr id="L209"><td><a href="#L209">209</a></td><td>EMH 2:  A figure of speech. I am, in part, responsible for bringing her into the world. You may hold her now.</td></tr>
 
-  TORRES [OC]
-     Kes just disappeared.
+<tr id="L210"><td><a href="#L210">210</a></td><td>WILDMAN 2:  Hello there.</td></tr>
 
-  JANEWAY
-     Disappeared?
+<tr id="L211"><td><a href="#L211">211</a></td><td>ANNOTATION: Janeway 2 enters.</td></tr>
 
-  TORRES [OC]
-     I can't explain it.
+<tr id="L212"><td><a href="#L212">212</a></td><td>JANEWAY 2:  Congratulations, Samantha. She's adorable. Have you thought of a name?</td></tr>
 
+<tr id="L213"><td><a href="#L213">213</a></td><td>WILDMAN 2:  Not yet. I really thought it would be a boy.</td></tr>
 
-LOCATION--Corridor
+<tr id="L214"><td><a href="#L214">214</a></td><td>JANEWAY 2:  Let me know as soon as you decide. I've been making a blanket for her. All that's missing is an initial. Get some rest. How's our other patient doing?</td></tr>
 
-  TORRES
-     She just vanished. There seems to be some kind of
-     spatial rift.
+<tr id="L215"><td><a href="#L215">215</a></td><td>EMH 2:  She's still unconscious.</td></tr>
 
+<tr id="L216"><td><a href="#L216">216</a></td><td>KES 2:  I ran a microcellular scan. We're almost identical in every way.</td></tr>
 
-LOCATION--Bridge
+<tr id="L217"><td><a href="#L217">217</a></td><td>JANEWAY 2:  Almost?</td></tr>
 
-  TORRES [OC]
-     Right where she disappeared.
+<tr id="L218"><td><a href="#L218">218</a></td><td>EMH 2:  There's a slight phase shift in her DNA. Do you have any theory about where she came from?</td></tr>
 
-  JANEWAY
-     Can you determine where it leads?
+<tr id="L219"><td><a href="#L219">219</a></td><td>JANEWAY 2:  Not yet. But I intend to find out. Can you wake her?</td></tr>
 
+<tr id="L220"><td><a href="#L220">220</a></td><td>EMH 2:  I believe so.</td></tr>
 
-LOCATION--Corridor
+<tr id="L221"><td><a href="#L221">221</a></td><td>JANEWAY 2:  Good, because I think she's going to have an interesting story to tell.</td></tr>
 
-  TORRES
-     Stand by, Bridge. I just threw a piece of conduit
-     into the rift. Just as it vanished, I detected
-     another
+<tr id="L222"><td><a href="#L222">222</a></td><td>ANNOTATION: Shortly afterwards, our Kes is awake.</td></tr>
 
+<tr id="L223"><td><a href="#L223">223</a></td><td>KES:  I was running through the corridor with my medkit. Deck fifteen. And then suddenly I felt dizzy, and my vision started to blur. After that, I don't remember anything, until you woke me up just now.</td></tr>
 
-LOCATION--Bridge
+<tr id="L224"><td><a href="#L224">224</a></td><td>KES 2:  You were found unconscious down on deck fifteen, holding a medkit.</td></tr>
 
-  TORRES [OC]
-     Oxygen nitrogen atmosphere.
+<tr id="L225"><td><a href="#L225">225</a></td><td>JANEWAY 2:  We also found this lying next to you. It's a piece of damaged conduit. Our analysis shows it's from Voyager, deck fifteen, section twenty nine alpha, bulkhead zero five two. But there's no damage to deck fifteen or anywhere else on this ship.</td></tr>
 
-  JANEWAY
-     Another atmosphere?
+<tr id="L226"><td><a href="#L226">226</a></td><td>KES:  There was massive damage to deck fifteen.</td></tr>
 
+<tr id="L227"><td><a href="#L227">227</a></td><td>JANEWAY 2:  The evidence would seem to suggest that you've come from a different ship, a different Voyager. We did find a spatial rift on deck fifteen. It's possible that it somehow connects us to this other Voyager.</td></tr>
 
-LOCATION--Corridor
+<tr id="L228"><td><a href="#L228">228</a></td><td>EMH 2:  If you're right, where is the other ship? A parallel universe, another dimension, another point in time?</td></tr>
 
-  TORRES
-     Whatever's on the other side of that rift, there's
-     air. Maybe Kes is still alive.
+<tr id="L229"><td><a href="#L229">229</a></td><td>JANEWAY 2:  I'm not sure. Almost everything about the Voyager Kes described is identical to ours. We've had similar experiences, similar personal histories. We both entered a plasma cloud to avoid the Vidiians. Both of our engines stalled as we left the cloud, which caused both of our antimatter supplies to drain. And then we both decided to keep our engines running by emitting proton bursts. But after that, our experiences diverged. We started emitting the proton bursts. They didn't.</td></tr>
 
-  ANNOTATION
-     Bang!
+<tr id="L230"><td><a href="#L230">230</a></td><td>KES 1:  Our ship was being damaged by proton bursts. We couldn't figure out where they were coming from.</td></tr>
 
+<tr id="L231"><td><a href="#L231">231</a></td><td>JANEWAY 2:  That's more than a coincidence. Janeway to Engineering. B'Elanna, I want you to stop the proton bursts immediately.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Voyager 2 - Engineering</td></tr>
+<tr id="L232"><td><a href="#L232">232</a></td><td>TORRES 2:  But if we stop now, the power levels will drop</td></tr>
 
-  JANEWAY
-     Get out of there, Torres. The hull breach is
-     widening. I'm going to evacuate the
+<tr id="L233"><td><a href="#L233">233</a></td><td>JANEWAY 2 [OC]:  I'll explain later, Lieutenant.</td></tr>
 
+<tr id="L234"><td><a href="#L234">234</a></td><td>TORRES 2:  Understood.</td></tr>
 
-LOCATION--Corridor
+<tr><td></td><td>LOCATION--Voyager 2 - Sickbay</td></tr>
+<tr id="L235"><td><a href="#L235">235</a></td><td>JANEWAY 2:  I don't know how, but there's another Voyager out there, and I intend to find it.</td></tr>
 
-  JANEWAY [OC]
-     Entire deck.
+<tr><td></td><td>LOCATION--Voyager 2 - Bridge</td></tr>
+<tr id="L236"><td><a href="#L236">236</a></td><td>ANNOTATION: Science station scan analysis 4077.</td></tr>
 
-  TORRES
-     You don't have to tell me twice.
+<tr id="L237"><td><a href="#L237">237</a></td><td>CHAKOTAY 2:  We analysed the sensor logs from our trip through the plasma cloud. We couldn't find anything unusual until we ran a quantum level analysis. Remember that subspace turbulence we hit just before we left the cloud?</td></tr>
 
+<tr id="L238"><td><a href="#L238">238</a></td><td>JANEWAY 2:  Yes.</td></tr>
 
-LOCATION--Bridge
+<tr id="L239"><td><a href="#L239">239</a></td><td>CHAKOTAY 2:  Well, watch what happens.</td></tr>
 
-  TUVOK
-     Main computer core is failing. Switching to back
-     up processors.
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: Voyager's outline blurs.</td></tr>
 
-  ANNOTATION
-     Bang!
+<tr id="L241"><td><a href="#L241">241</a></td><td>KIM 2:  At first, we thought it was a sensor aberration, but they were in perfect calibration at the time.</td></tr>
 
-  JANEWAY
-     Chakotay, are you ready to magnetise the hull?
+<tr id="L242"><td><a href="#L242">242</a></td><td>TORRES 2:  So I ran a multispectral analysis on the subspace turbulence. It was more than just turbulence. It was some kind of divergence field. And the moment we passed through it, all of our sensor readings doubled. Mass, energy output, bio-signatures, everything. Every particle of matter on this ship seems to have been duplicated in that instant.</td></tr>
 
-  CHAKOTAY
-     Stand by. I'm having trouble with the alignment
-     module.
+<tr id="L243"><td><a href="#L243">243</a></td><td>JANEWAY 2:  So where is the other ship?</td></tr>
 
-  JANEWAY
-     Try remodulating the field emitters.
+<tr id="L244"><td><a href="#L244">244</a></td><td>KIM 2:  As strange as it sounds, Captain, according to these readings, another Voyager's right here, right now, occupying the same point in space time we are.</td></tr>
 
-  ANNOTATION
-     Bang! Janeway is knocked down.
+<tr id="L245"><td><a href="#L245">245</a></td><td>JANEWAY 2:  Quantum theorists at Kent State University ran an experiment in which a single particle of matter was duplicated using a divergence of subspace fields, a spatial scission.</td></tr>
 
-  JANEWAY
-     Chakotay!
+<tr id="L246"><td><a href="#L246">246</a></td><td>CHAKOTAY 2:  If the same forces were at work inside the plasma cloud, they may have duplicated every particle of matter on Voyager.</td></tr>
 
-  CHAKOTAY
-     I've got alignment. Magnetising the hull.
+<tr id="L247"><td><a href="#L247">247</a></td><td>JANEWAY 2:  Matter. But not antimatter.</td></tr>
 
-  ANNOTATION
-     Shudder.
+<tr id="L248"><td><a href="#L248">248</a></td><td>KIM 2:  Captain?</td></tr>
 
-  CHAKOTAY
-     I think it worked.
+<tr id="L249"><td><a href="#L249">249</a></td><td>JANEWAY 2:  In that Kent State experiment, they were able to duplicate normal matter, but when they tried to duplicate antimatter particles, the experiment failed.</td></tr>
 
-  JANEWAY
-     Let's hope so. I want a full damage report from
-     all decks.
+<tr id="L250"><td><a href="#L250">250</a></td><td>TORRES 2:  So the antimatter on the ships wasn't duplicated. Both engines have been trying to draw power from a single source of antimatter.</td></tr>
 
-  PARIS
-     Are you all right, Captain?
+<tr id="L251"><td><a href="#L251">251</a></td><td>JANEWAY 2:  Like Siamese twins linked at the chest, with only one heart.</td></tr>
 
-  JANEWAY
-     It's just a scratch.
+<tr id="L252"><td><a href="#L252">252</a></td><td>CHAKOTAY 2:  So what do we do?</td></tr>
 
-  PARIS
-     It's more than a scratch. Maybe you should go to
+<tr id="L253"><td><a href="#L253">253</a></td><td>JANEWAY 2:  I don't know. But whatever it is, we're going to have to coordinate it with the other ship. Start working on a way to communicate with them.</td></tr>
 
-  JANEWAY
-     I'm fine, Lieutenant.
+<tr id="L254"><td><a href="#L254">254</a></td><td>TORRES 2:  Right.</td></tr>
 
-  TUVOK
-     Damage reports are coming in. The hull breach on
-     deck fifteen has widened to include deck fourteen,
-     section twelve. And there are six hundred thirty
-     two micro-fractures along the hull's
-     infrastructure. All primary systems are offline.
-     We are running on emergency power only. The
-     antimatter supply has dropped to eighteen percent
-     and is continuing to fall. Warp coils in both
-     nacelles have fused and are inoperative. The
-     environmental control systems are failing. Fifteen
-     crew members have been seriously wounded with
-     plasma burns, twenty seven experienced other
-     injuries. The Doctor is setting up triage
-     facilities in Sickbay and Holodeck two. I must
-     also regretfully report that Ensign Wildman's baby
-     did not survive.
+<tr id="L255"><td><a href="#L255">255</a></td><td>JANEWAY 2:  The only link we know of is on deck fifteen, the spatial rift. We're going to need a way to send Kes back through safely.</td></tr>
 
-  JANEWAY
-     I want an engineering team to seal those
-     micro-fractures before they become breaches.
+<tr id="L256"><td><a href="#L256">256</a></td><td>KIM 2:  We could rig a portable phase discriminator. It might protect her from the spatial transition.</td></tr>
 
-  TUVOK
-     Aye, Captain.
+<tr id="L257"><td><a href="#L257">257</a></td><td>JANEWAY 2:  Get on it.</td></tr>
 
-  JANEWAY
-     Mister Paris, grab a medical tricorder and go
-     assist the Doctor.
+<tr><td></td><td>LOCATION--Voyager 2 - Sickbay</td></tr>
+<tr id="L258"><td><a href="#L258">258</a></td><td>WILDMAN 2:  When can I start breast feeding?</td></tr>
 
-  PARIS
-     Right.
+<tr id="L259"><td><a href="#L259">259</a></td><td>EMH 2:  Right away. However, I should forewarn you that her incisors will erupt within three to four weeks. Since your skin lacks the scales of a Ktarian, we'll have to discuss alternatives.</td></tr>
 
-  JANEWAY
-     Commander, you have the Bridge. I'm going to go
-     talk to Ensign Wildman. Maybe I can help.
+<tr id="L260"><td><a href="#L260">260</a></td><td>WILDMAN 2:  When can I take her home?</td></tr>
 
-  ANNOTATION
-     Bang!
+<tr id="L261"><td><a href="#L261">261</a></td><td>EMH 2:  In twenty four hours. I want observe the infant to make sure there's no more damage to her cell membranes.</td></tr>
 
-  CHAKOTAY
-     The magnetic field is collapsing. The hull is
-     depolarising!
+<tr id="L262"><td><a href="#L262">262</a></td><td>KES 2:  You're welcome to stay the night so you may be with her.</td></tr>
 
-  ANNOTATION
-     Bang!
+<tr id="L263"><td><a href="#L263">263</a></td><td>WILDMAN 2:  I'd like that. Hey.</td></tr>
 
-  TUVOK
-     The fire suppression system is out.
+<tr id="L264"><td><a href="#L264">264</a></td><td>ANNOTATION: The baby's mewling upsets our Kes.</td></tr>
 
-  COMPUTER
-     Warning. Hull breach on deck one. Emergency
-     forcefields inoperative.
+<tr id="L265"><td><a href="#L265">265</a></td><td>EMH [OC]:  Congratulations, Ensign. It's a girl. I've stabilised my imaging array, but it could go out at any rate.</td></tr>
 
-  CHAKOTAY
-     Everybody out! Go, go, go! Hurry, Captain!
+<tr id="L266"><td><a href="#L266">266</a></td><td>KES [OC]:  Doctor, her cell membranes are losing cohesion.</td></tr>
 
-  JANEWAY
-     I'm trying to reroute emergency power to the field
-     emitters!
+<tr id="L267"><td><a href="#L267">267</a></td><td>EMH [OC]:  Try remodulating the osmotic pressure.</td></tr>
 
-  CHAKOTAY
-     Captain!
+<tr id="L268"><td><a href="#L268">268</a></td><td>KES [OC]:  No effect.</td></tr>
 
-  JANEWAY
-     I can seal this breach!
+<tr id="L269"><td><a href="#L269">269</a></td><td>EMH [OC]:  Again.</td></tr>
 
-  ANNOTATION
-     Flames appear. She retreats. But before she gets
-     to the turbolift, she sees an image of an
-     undamaged Bridge, and looks into her own eyes.
+<tr id="L270"><td><a href="#L270">270</a></td><td>KES [OC]:  Nothing.</td></tr>
 
-  CHAKOTAY
-     Captain, let's go!
+<tr id="L271"><td><a href="#L271">271</a></td><td>WILDMAN [OC]:  My baby. She's going to die, isn't she?</td></tr>
 
-  ANNOTATION
-     Note to readers: damaged Voyager and crew remain
-     as normal, while the undamaged Voyager and crew
-     will be suffixed 2.
+<tr id="L272"><td><a href="#L272">272</a></td><td>EMH [OC]:  I'm sorry, Ensign.</td></tr>
 
+<tr id="L273"><td><a href="#L273">273</a></td><td>WILDMAN [OC]:  She's going to die, isn't she?</td></tr>
 
-LOCATION--Voyager 2 - Bridge
+<tr id="L274"><td><a href="#L274">274</a></td><td>EMH 2:  Kes. Kes? Are you all right?</td></tr>
 
-  ANNOTATION
-     Quiet, normal, undamaged.
+<tr id="L275"><td><a href="#L275">275</a></td><td>KES:  Yes. It's just. The baby's crying, it was like a bad memory.</td></tr>
 
-  CHAKOTAY 2
-     Captain?
+<tr id="L276"><td><a href="#L276">276</a></td><td>EMH 2:  What do you mean?</td></tr>
 
-  JANEWAY 2
-     Ensign Kim, scan the Bridge. I just saw myself
-     cross the Bridge and enter that turbolift. It was
-     very faint, almost like a ghost image. And I
-     looked like hell.
+<tr id="L277"><td><a href="#L277">277</a></td><td>KES:  On my Voyager, during the delivery, there were complications. We performed a foetal transport.</td></tr>
 
-  KIM 2
-     Captain, there was a minor spatial fluctuation on
-     the Bridge. But it was only there for a
-     millisecond.
+<tr id="L278"><td><a href="#L278">278</a></td><td>EMH 2:  The same thing happened here. The transport was successful.</td></tr>
 
-  JANEWAY 2
-     Bridge to Engineering. B'Elanna, how long until we
-     can use the main sensor array?
+<tr id="L279"><td><a href="#L279">279</a></td><td>KES:  On my ship, the medical systems were heavily damaged. The osmotic pressure therapy didn't work. The baby died.</td></tr>
 
-  TORRES 2 [OC]
-     Another three hours.
+<tr id="L280"><td><a href="#L280">280</a></td><td>EMH 2:  I'm sorry to hear that. But try to understand, it wasn't your fault. The situation was out of your control.</td></tr>
 
+<tr id="L281"><td><a href="#L281">281</a></td><td>KES:  Doctor, I've got to get back to my ship. They need my help.</td></tr>
 
-LOCATION--Voyager 2 - Engineering
+<tr id="L282"><td><a href="#L282">282</a></td><td>EMH 2:  The Captain's working on it, Kes. In the meantime, try to get some rest. Besides, I'm sure your Voyager is also equipped with a proficient Emergency Medical Hologram.</td></tr>
 
-  TORRES 2
-     We're only about halfway through the proton burst
-     procedure.
+<tr><td></td><td>LOCATION--Voyager 2 - Engineering</td></tr>
+<tr id="L283"><td><a href="#L283">283</a></td><td>TORRES 2:  It's a little harder to establish a comm. link than I thought, Captain. The molecular signature of the second Voyager is slightly out of phase with our own. I can't get visual, audio, nothing.</td></tr>
 
+<tr id="L284"><td><a href="#L284">284</a></td><td>JANEWAY 2:  Have you tried remodulating the comm. frequency carrier?</td></tr>
 
-LOCATION--Voyager 2 - Bridge
+<tr id="L285"><td><a href="#L285">285</a></td><td>TORRES 2:  Five times on forty seven different frequencies.</td></tr>
 
-  JANEWAY 2
-     See if you can speed up the process. We need the
-     sensors as soon
+<tr id="L286"><td><a href="#L286">286</a></td><td>JANEWAY 2:  There has to be a way. If they were recalibrating their carrier wave at the same time so we could match phase variance, would that allow us to connect?</td></tr>
 
+<tr id="L287"><td><a href="#L287">287</a></td><td>TORRES 2:  I think so, but in order to get them to do that, we'd have to communicate with them first. It's the chicken and the egg.</td></tr>
 
-LOCATION--Voyager 2 - Engineering
+<tr id="L288"><td><a href="#L288">288</a></td><td>JANEWAY 2:  Maybe we need something a little more primitive. Is there a signal we could emit on all subspace bands just to get their attention?</td></tr>
 
-  JANEWAY 2 [OC]
-     as possible.
+<tr id="L289"><td><a href="#L289">289</a></td><td>TORRES 2:  A rotating band pulse might do it, but it wouldn't be much more than a shrill whistle.</td></tr>
 
-  TORRES 2
-     Understood.
+<tr id="L290"><td><a href="#L290">290</a></td><td>JANEWAY 2:  That might be enough. Give it a try.</td></tr>
 
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L291"><td><a href="#L291">291</a></td><td>TORRES:  All right, Captain. All of the ship's command functions have been rerouted to main Engineering.</td></tr>
 
-LOCATION--Voyager 2 - Bridge
+<tr id="L292"><td><a href="#L292">292</a></td><td>JANEWAY:  Welcome to the new Bridge. Now, let's see about</td></tr>
 
-  JANEWAY 2
-     Mister Kim, modify a tricorder to scan for spatial
-     anomalies. Go over every centimetre of this
-     Bridge. Examine the sensor logs from our trip
-     through the plasma drift. Look for anything
-     unusual. I'll be in Sickbay.
+<tr id="L293"><td><a href="#L293">293</a></td><td>ANNOTATION: A shrill tone pierces the air.</td></tr>
 
-  CHAKOTAY 2
-     Aye, Captain.
+<tr id="L294"><td><a href="#L294">294</a></td><td>JANEWAY:  What's that?</td></tr>
 
+<tr id="L295"><td><a href="#L295">295</a></td><td>TORRES:  I don't know. It's some kind of com. emission coming through all subspace bands.</td></tr>
 
-LOCATION--Voyager 2 - Sickbay
+<tr id="L296"><td><a href="#L296">296</a></td><td>JANEWAY:  Coming from where?</td></tr>
 
-  EMH 2
-     Good news, Ensign. Our baby is perfectly healthy.
-     There's no sign of any interspecies abnormalities.
+<tr id="L297"><td><a href="#L297">297</a></td><td>TORRES:  Good question. I can't tell, but it's got a Federation signature.</td></tr>
 
-  WILDMAN 2
-     Our baby?
+<tr id="L298"><td><a href="#L298">298</a></td><td>JANEWAY:  Try recalibrating our frequency carrier to match it.</td></tr>
 
-  EMH 2
-     A figure of speech. I am, in part, responsible for
-     bringing her into the world. You may hold her now.
+<tr><td></td><td>LOCATION--Voyager 2 - Engineering</td></tr>
+<tr id="L299"><td><a href="#L299">299</a></td><td>TORRES 2:  That's it! They recalibrated and locked onto our phase variant.</td></tr>
 
-  WILDMAN 2
-     Hello there.
+<tr id="L300"><td><a href="#L300">300</a></td><td>JANEWAY 2:  What kind of communication can we establish?</td></tr>
 
-  ANNOTATION
-     Janeway 2 enters.
+<tr id="L301"><td><a href="#L301">301</a></td><td>TORRES 2:  Not much at this point. We can use the emergency encryption code for a short message. Not more than five seconds.</td></tr>
 
-  JANEWAY 2
-     Congratulations, Samantha. She's adorable. Have
-     you thought of a name?
+<tr id="L302"><td><a href="#L302">302</a></td><td>JANEWAY 2:  That should be enough.</td></tr>
 
-  WILDMAN 2
-     Not yet. I really thought it would be a boy.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L303"><td><a href="#L303">303</a></td><td>JANEWAY:  That's the emergency code. Run it through an alphanumeric sequencer.</td></tr>
 
-  JANEWAY 2
-     Let me know as soon as you decide. I've been
-     making a blanket for her. All that's missing is an
-     initial. Get some rest. How's our other patient
-     doing?
+<tr id="L304"><td><a href="#L304">304</a></td><td>TORRES:  I think someone's telling us to lock onto a frequency of twelve gigahertz.</td></tr>
 
-  EMH 2
-     She's still unconscious.
+<tr id="L305"><td><a href="#L305">305</a></td><td>JANEWAY:  Do it.</td></tr>
 
-  KES 2
-     I ran a microcellular scan. We're almost identical
-     in every way.
+<tr id="L306"><td><a href="#L306">306</a></td><td>ANNOTATION: A monitor on a wall console lights up with static.</td></tr>
 
-  JANEWAY 2
-     Almost?
+<tr id="L307"><td><a href="#L307">307</a></td><td>TORRES:  I'll try to clear it up.</td></tr>
 
-  EMH 2
-     There's a slight phase shift in her DNA. Do you
-     have any theory about where she came from?
+<tr id="L308"><td><a href="#L308">308</a></td><td>JANEWAY 2 [on monitor]:  Captain, this isn't an illusion. What you're seeing is real, but it's going to take some explaining.</td></tr>
 
-  JANEWAY 2
-     Not yet. But I intend to find out. Can you wake
-     her?
+<tr id="L309"><td><a href="#L309">309</a></td><td>ANNOTATION: Later.</td></tr>
 
-  EMH 2
-     I believe so.
+<tr id="L310"><td><a href="#L310">310</a></td><td>CHAKOTAY:  There are two Voyagers and two crews?</td></tr>
 
-  JANEWAY 2
-     Good, because I think she's going to have an
-     interesting story to tell.
+<tr id="L311"><td><a href="#L311">311</a></td><td>JANEWAY:  That's what I was told.</td></tr>
 
-  ANNOTATION
-     Shortly afterwards, our Kes is awake.
+<tr id="L312"><td><a href="#L312">312</a></td><td>TUVOK:  Could this possibly be some kind of subterfuge, Captain? An alien deception?</td></tr>
 
-  KES
-     I was running through the corridor with my medkit.
-     Deck fifteen. And then suddenly I felt dizzy, and
-     my vision started to blur. After that, I don't
-     remember anything, until you woke me up just now.
+<tr id="L313"><td><a href="#L313">313</a></td><td>JANEWAY:  That woman, whoever she is, had very specific knowledge of what happened here. The damage from the proton bursts, Wildman's baby, Kes disappearing. She even knew that when I was twelve years old, I walked home in a thunderstorm over seven kilometres because I lost a tennis match.</td></tr>
 
-  KES 2
-     You were found unconscious down on deck fifteen,
-     holding a medkit.
+<tr id="L314"><td><a href="#L314">314</a></td><td>TORRES:  And her explanation of how the ship were duplicated, certainly plausible.</td></tr>
 
-  JANEWAY 2
-     We also found this lying next to you. It's a piece
-     of damaged conduit. Our analysis shows it's from
-     Voyager, deck fifteen, section twenty nine alpha,
-     bulkhead zero five two. But there's no damage to
-     deck fifteen or anywhere else on this ship.
+<tr id="L315"><td><a href="#L315">315</a></td><td>PARIS:  If it is true, what do we do about it?</td></tr>
 
-  KES
-     There was massive damage to deck fifteen.
+<tr id="L316"><td><a href="#L316">316</a></td><td>JANEWAY:  My counterpart has suggested we try to merge the two ships. Recreate the subspace divergence field we passed through and then depolarise it.</td></tr>
 
-  JANEWAY 2
-     The evidence would seem to suggest that you've
-     come from a different ship, a different Voyager.
-     We did find a spatial rift on deck fifteen. It's
-     possible that it somehow connects us to this other
-     Voyager.
+<tr id="L317"><td><a href="#L317">317</a></td><td>TORRES:  Both ships would have to send out a massive resonance pulse from their deflector dishes at exactly the same time.</td></tr>
 
-  EMH 2
-     If you're right, where is the other ship? A
-     parallel universe, another dimension, another
-     point in time?
+<tr id="L318"><td><a href="#L318">318</a></td><td>CHAKOTAY:  They may be able to do that, but we barely have enough power for life support. How can we get enough to send an energy pulse of that size?</td></tr>
 
-  JANEWAY 2
-     I'm not sure. Almost everything about the Voyager
-     Kes described is identical to ours. We've had
-     similar experiences, similar personal histories.
-     We both entered a plasma cloud to avoid the
-     Vidiians. Both of our engines stalled as we left
-     the cloud, which caused both of our antimatter
-     supplies to drain. And then we both decided to
-     keep our engines running by emitting proton
-     bursts. But after that, our experiences diverged.
-     We started emitting the proton bursts. They
-     didn't.
+<tr id="L319"><td><a href="#L319">319</a></td><td>JANEWAY:  We could evacuate all the crew to this deck, and cut off life support everywhere else. Then we could divert all power to the deflector dish. B'Elanna, re-establish the comm. link with the other ship.</td></tr>
 
-  KES 1
-     Our ship was being damaged by proton bursts. We
-     couldn't figure out where they were coming from.
+<tr id="L320"><td><a href="#L320">320</a></td><td>JANEWAY 2 [on monitor]:  This is Janeway. What have you decided?</td></tr>
 
-  JANEWAY 2
-     That's more than a coincidence. Janeway to
-     Engineering. B'Elanna, I want you to stop the
-     proton bursts immediately.
+<tr id="L321"><td><a href="#L321">321</a></td><td>JANEWAY:  Captain, we think we can channel enough energy to our deflector dish to try the merging process.</td></tr>
 
+<tr id="L322"><td><a href="#L322">322</a></td><td>JANEWAY 2 [on monitor]:  Good. When can we start?</td></tr>
 
-LOCATION--Voyager 2 - Engineering
+<tr id="L323"><td><a href="#L323">323</a></td><td>JANEWAY:  We'll need at least fifteen minutes to make our preparations.</td></tr>
 
-  TORRES 2
-     But if we stop now, the power levels will drop
+<tr id="L324"><td><a href="#L324">324</a></td><td>JANEWAY 2 [on monitor]:  We'll be ready.</td></tr>
 
-  JANEWAY 2 [OC]
-     I'll explain later, Lieutenant.
+<tr id="L325"><td><a href="#L325">325</a></td><td>JANEWAY:  And Captain, we'll only have enough power to try this once.</td></tr>
 
-  TORRES 2
-     Understood.
+<tr id="L326"><td><a href="#L326">326</a></td><td>JANEWAY 2 [on monitor]:  I understand.</td></tr>
 
+<tr id="L327"><td><a href="#L327">327</a></td><td>JANEWAY:  Chakotay, Tuvok, begin the evacuation process.</td></tr>
 
-LOCATION--Voyager 2 - Sickbay
+<tr id="L328"><td><a href="#L328">328</a></td><td>CHAKOTAY:  Aye, Captain.</td></tr>
 
-  JANEWAY 2
-     I don't know how, but there's another Voyager out
-     there, and I intend to find it.
+<tr id="L329"><td><a href="#L329">329</a></td><td>PARIS:  I'll let the Doctor know he'll have to rely on his back up power supply.</td></tr>
 
+<tr id="L330"><td><a href="#L330">330</a></td><td>TORRES:  We're ready, Captain.</td></tr>
 
-LOCATION--Voyager 2 - Bridge
+<tr id="L331"><td><a href="#L331">331</a></td><td>JANEWAY 2 [on monitor]:  We're standing by, Captain. I think you should take the lead in this operation since you may have to make allowances for your ship's weakened power systems.</td></tr>
 
-  ANNOTATION
-     Science station scan analysis 4077.
+<tr id="L332"><td><a href="#L332">332</a></td><td>JANEWAY:  Acknowledged. Lieutenant Torres and, Lieutenant Torres, charge the deflector dishes.</td></tr>
 
-  CHAKOTAY 2
-     We analysed the sensor logs from our trip through
-     the plasma cloud. We couldn't find anything
-     unusual until we ran a quantum level analysis.
-     Remember that subspace turbulence we hit just
-     before we left the cloud?
+<tr id="L333"><td><a href="#L333">333</a></td><td>TORRES:  Deflector dish charging.</td></tr>
 
-  JANEWAY 2
-     Yes.
+<tr><td></td><td>LOCATION--Voyager 2 - Engineering</td></tr>
+<tr id="L334"><td><a href="#L334">334</a></td><td>TORRES 2:  Capacitance levels are rising. Sixty percent, eighty five percent, ninety eight percent. We're ready to create the subspace divergence field.</td></tr>
 
-  CHAKOTAY 2
-     Well, watch what happens.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L335"><td><a href="#L335">335</a></td><td>TORRES:  Initiating. Power flow nominal, Captain.</td></tr>
 
-  ANNOTATION
-     Voyager's outline blurs.
+<tr id="L336"><td><a href="#L336">336</a></td><td>JANEWAY:  Synchronise computer event timing. Ready to release depolarisation pulse on my mark. Now.</td></tr>
 
-  KIM 2
-     At first, we thought it was a sensor aberration,
-     but they were in perfect calibration at the time.
+<tr id="L337"><td><a href="#L337">337</a></td><td>TORRES:  The pulses have been emitted, Captain. The fields are starting to depolarise.</td></tr>
 
-  TORRES 2
-     So I ran a multispectral analysis on the subspace
-     turbulence. It was more than just turbulence. It
-     was some kind of divergence field. And the moment
-     we passed through it, all of our sensor readings
-     doubled. Mass, energy output, bio-signatures,
-     everything. Every particle of matter on this ship
-     seems to have been duplicated in that instant.
+<tr><td></td><td>LOCATION--Voyager 2 - Engineering</td></tr>
+<tr id="L338"><td><a href="#L338">338</a></td><td>ANNOTATION: Both ships are shaking.</td></tr>
 
-  JANEWAY 2
-     So where is the other ship?
+<tr id="L339"><td><a href="#L339">339</a></td><td>TORRES 2:  But we aren't merging. In fact, we're going further out of phase!</td></tr>
 
-  KIM 2
-     As strange as it sounds, Captain, according to
-     these readings, another Voyager's right here,
-     right now, occupying the same point in space time
-     we are.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L340"><td><a href="#L340">340</a></td><td>JANEWAY:  Increase power to the deflector dish.</td></tr>
 
-  JANEWAY 2
-     Quantum theorists at Kent State University ran an
-     experiment in which a single particle of matter
-     was duplicated using a divergence of subspace
-     fields, a spatial scission.
+<tr id="L341"><td><a href="#L341">341</a></td><td>TORRES:  I can't! Too much plasma back flow. If we keep this up, we're going to lose our antimatter connection. We'll both be destroyed!</td></tr>
 
-  CHAKOTAY 2
-     If the same forces were at work inside the plasma
-     cloud, they may have duplicated every particle of
-     matter on Voyager.
+<tr id="L342"><td><a href="#L342">342</a></td><td>JANEWAY:  Abort!</td></tr>
 
-  JANEWAY 2
-     Matter. But not antimatter.
+<tr><td></td><td>LOCATION--Voyager 2 - Engineering</td></tr>
+<tr id="L343"><td><a href="#L343">343</a></td><td>TORRES 2:  Aborting resonance pulse.</td></tr>
 
-  KIM 2
-     Captain?
+<tr id="L344"><td><a href="#L344">344</a></td><td>JANEWAY 2:  What went wrong?</td></tr>
 
-  JANEWAY 2
-     In that Kent State experiment, they were able to
-     duplicate normal matter, but when they tried to
-     duplicate antimatter particles, the experiment
-     failed.
+<tr id="L345"><td><a href="#L345">345</a></td><td>TORRES 2:  I'm not sure. I think the plasma flow became to turbulent. The divergence fields were so chaotic, we couldn't complete the merging. We've lost the comm. link as well. Captain, the antimatter leak? It's becoming a haemorrhage. If we don't start the proton bursts, we'll be completely drained in thirty minutes.</td></tr>
 
-  TORRES 2
-     So the antimatter on the ships wasn't duplicated.
-     Both engines have been trying to draw power from a
-     single source of antimatter.
+<tr id="L346"><td><a href="#L346">346</a></td><td>JANEWAY 2:  The lives of both crews are at stake here. I can't make unilateral decisions that might affect that other ship. Janeway to Kim. Is the spatial rift</td></tr>
 
-  JANEWAY 2
-     Like Siamese twins linked at the chest, with only
-     one heart.
+<tr><td></td><td>LOCATION--Voyager 2 - Bridge</td></tr>
+<tr id="L347"><td><a href="#L347">347</a></td><td>JANEWAY 2 [OC]:  Still stable?</td></tr>
 
-  CHAKOTAY 2
-     So what do we do?
+<tr id="L348"><td><a href="#L348">348</a></td><td>KIM 2:  I think so, Captain. And I've rigged a phase discriminator. Kes should be able to go back safely.</td></tr>
 
-  JANEWAY 2
-     I don't know. But whatever it is, we're going to
-     have to coordinate it with the other ship. Start
-     working on a way to communicate with them.
+<tr><td></td><td>LOCATION--Voyager 2 - Engineering</td></tr>
+<tr id="L349"><td><a href="#L349">349</a></td><td>JANEWAY 2:  Rig another one, Ensign. I'm going with her.</td></tr>
 
-  TORRES 2
-     Right.
+<tr><td></td><td>LOCATION--Voyager 2 - Turbolift</td></tr>
+<tr id="L350"><td><a href="#L350">350</a></td><td>ANNOTATION: Kim puts a band on Janeway's arm.</td></tr>
 
-  JANEWAY 2
-     The only link we know of is on deck fifteen, the
-     spatial rift. We're going to need a way to send
-     Kes back through safely.
+<tr id="L351"><td><a href="#L351">351</a></td><td>KIM 2:  This should protect you from the spatial transition.</td></tr>
 
-  KIM 2
-     We could rig a portable phase discriminator. It
-     might protect her from the spatial transition.
+<tr><td></td><td>LOCATION--Voyager 2 - Corridor</td></tr>
+<tr id="L352"><td><a href="#L352">352</a></td><td>JANEWAY 2:  Keep trying to re-establish a comm. link between the ships.</td></tr>
 
-  JANEWAY 2
-     Get on it.
+<tr id="L353"><td><a href="#L353">353</a></td><td>TORRES 2:  I will, but remember, we have fewer than thirty minutes of antimatter left. Whatever you do over there, do it fast.</td></tr>
 
+<tr id="L354"><td><a href="#L354">354</a></td><td>JANEWAY 2:  Understood. Are you ready?</td></tr>
 
-LOCATION--Voyager 2 - Sickbay
+<tr id="L355"><td><a href="#L355">355</a></td><td>KES:  Yes.</td></tr>
 
-  WILDMAN 2
-     When can I start breast feeding?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L356"><td><a href="#L356">356</a></td><td>ANNOTATION: Deck fifteen.</td></tr>
 
-  EMH 2
-     Right away. However, I should forewarn you that
-     her incisors will erupt within three to four
-     weeks. Since your skin lacks the scales of a
-     Ktarian, we'll have to discuss alternatives.
+<tr id="L357"><td><a href="#L357">357</a></td><td>KES 1:  It's gotten worse here.</td></tr>
 
-  WILDMAN 2
-     When can I take her home?
+<tr id="L358"><td><a href="#L358">358</a></td><td>JANEWAY 2:  Command and Control is in main Engineering. Let's go.</td></tr>
 
-  EMH 2
-     In twenty four hours. I want observe the infant to
-     make sure there's no more damage to her cell
-     membranes.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L359"><td><a href="#L359">359</a></td><td>TORRES:  I don't know how else to stop the antimatter drain, except with proton bursts.</td></tr>
 
-  KES 2
-     You're welcome to stay the night so you may be
-     with her.
+<tr id="L360"><td><a href="#L360">360</a></td><td>JANEWAY:  We can't do that. We'd damage the other ship just like this one. Think, people. We need options.</td></tr>
 
-  WILDMAN 2
-     I'd like that. Hey.
+<tr id="L361"><td><a href="#L361">361</a></td><td>ANNOTATION: Janeway 2 and Kes enter.</td></tr>
 
-  ANNOTATION
-     The baby's mewling upsets our Kes.
+<tr id="L362"><td><a href="#L362">362</a></td><td>JANEWAY 2:  I agree, Captain. And I think we need to talk.</td></tr>
 
-  EMH [OC]
-     Congratulations, Ensign. It's a girl. I've
-     stabilised my imaging array, but it could go out
-     at any rate.
+<tr id="L363"><td><a href="#L363">363</a></td><td>ANNOTATION: They go to the upper level.</td></tr>
 
-  KES [OC]
-     Doctor, her cell membranes are losing cohesion.
+<tr id="L364"><td><a href="#L364">364</a></td><td>JANEWAY 2:  By my estimates, our antimatter supply will run out in less than half an hour.</td></tr>
 
-  EMH [OC]
-     Try remodulating the osmotic pressure.
+<tr id="L365"><td><a href="#L365">365</a></td><td>JANEWAY:  The attempt to merge our ships is throwing us further out of phase. The quantum cohesion on both Voyagers is breaking down.</td></tr>
 
-  KES [OC]
-     No effect.
+<tr id="L366"><td><a href="#L366">366</a></td><td>JANEWAY 2:  Just like original Kent State experiment. The duplicate atoms couldn't occupy the same point in space time for very long before</td></tr>
 
-  EMH [OC]
-     Again.
+<tr id="L367"><td><a href="#L367">367</a></td><td>JANEWAY:  Mutual annihilation.</td></tr>
 
-  KES [OC]
-     Nothing.
+<tr id="L368"><td><a href="#L368">368</a></td><td>JANEWAY 2:  What are our options?</td></tr>
 
-  WILDMAN [OC]
-     My baby. She's going to die, isn't she?
+<tr id="L369"><td><a href="#L369">369</a></td><td>JANEWAY:  Let's try a different tact. Instead of trying to merge the two ships, let's try to separate them. Maybe we could divide the antimatter between us.</td></tr>
 
-  EMH [OC]
-     I'm sorry, Ensign.
+<tr id="L370"><td><a href="#L370">370</a></td><td>JANEWAY 2:  I'm afraid not. We've been studying that theory. B'Elanna tells me that any attempt to disrupt the antimatter supply will destroy us all. What about evacuating your crew to my ship? It might get a little crowded, but we could manage.</td></tr>
 
-  WILDMAN [OC]
-     She's going to die, isn't she?
+<tr id="L371"><td><a href="#L371">371</a></td><td>JANEWAY:  We've been studying that theory. And my B'Elanna tells me that sending any more than five to ten people through the rift would radically alter the atomic balance of the two Voyagers. We'd both be destroyed. Captain, I think you should return to your ship and run a metallurgical analysis. Find out the precise phase modulation of your hull. I'll do the same here. Maybe we can find a way to realign the phase displacement.</td></tr>
 
-  EMH 2
-     Kes. Kes? Are you all right?
+<tr id="L372"><td><a href="#L372">372</a></td><td>JANEWAY 2:  You're going to self-destruct your ship.</td></tr>
 
-  KES
-     Yes. It's just. The baby's crying, it was like a
-     bad memory.
+<tr id="L373"><td><a href="#L373">373</a></td><td>JANEWAY:  What makes you say that?</td></tr>
 
-  EMH 2
-     What do you mean?
+<tr id="L374"><td><a href="#L374">374</a></td><td>JANEWAY 2:  Because that's what I would do if your Voyager were intact, and my Voyager were crippled, my crew wounded or dead. I'd sacrifice my ship so that yours could survive.</td></tr>
 
-  KES
-     On my Voyager, during the delivery, there were
-     complications. We performed a foetal transport.
+<tr id="L375"><td><a href="#L375">375</a></td><td>JANEWAY:  Then I'm glad we agree. Go back to your ship.</td></tr>
 
-  EMH 2
-     The same thing happened here. The transport was
-     successful.
+<tr id="L376"><td><a href="#L376">376</a></td><td>JANEWAY 2:  I didn't say I agree, I said I understand. I'm not willing to let you make that sacrifice yet. We haven't explored all the options.</td></tr>
 
-  KES
-     On my ship, the medical systems were heavily
-     damaged. The osmotic pressure therapy didn't work.
-     The baby died.
+<tr id="L377"><td><a href="#L377">377</a></td><td>JANEWAY:  Yes, we have and we both know it. This is my ship and my decision.</td></tr>
 
-  EMH 2
-     I'm sorry to hear that. But try to understand, it
-     wasn't your fault. The situation was out of your
-     control.
+<tr id="L378"><td><a href="#L378">378</a></td><td>JANEWAY 2:  Captain, I'm not going to let you</td></tr>
 
-  KES
-     Doctor, I've got to get back to my ship. They need
-     my help.
+<tr id="L379"><td><a href="#L379">379</a></td><td>JANEWAY:  I've made my decision! Please don't make me call security and have you escorted off my ship, because you know I'll do it.</td></tr>
 
-  EMH 2
-     The Captain's working on it, Kes. In the meantime,
-     try to get some rest. Besides, I'm sure your
-     Voyager is also equipped with a proficient
-     Emergency Medical Hologram.
+<tr id="L380"><td><a href="#L380">380</a></td><td>JANEWAY 2:  All right. I'll go back. But give me fifteen minutes to come up with another solution. After that, it's your decision.</td></tr>
 
+<tr id="L381"><td><a href="#L381">381</a></td><td>JANEWAY:  Fifteen minutes. Good luck.</td></tr>
 
-LOCATION--Voyager 2 - Engineering
+<tr id="L382"><td><a href="#L382">382</a></td><td>JANEWAY 2:  To both of us.</td></tr>
 
-  TORRES 2
-     It's a little harder to establish a comm. link
-     than I thought, Captain. The molecular signature
-     of the second Voyager is slightly out of phase
-     with our own. I can't get visual, audio, nothing.
+<tr><td></td><td>LOCATION--Voyager 2 - Bridge</td></tr>
+<tr id="L383"><td><a href="#L383">383</a></td><td>KIM 2:  Okay, I've managed to re-establish a comm. link with the other Voyager.</td></tr>
 
-  JANEWAY 2
-     Have you tried remodulating the comm. frequency
-     carrier?
+<tr id="L384"><td><a href="#L384">384</a></td><td>JANEWAY 2:  Hail them.</td></tr>
 
-  TORRES 2
-     Five times on forty seven different frequencies.
+<tr id="L385"><td><a href="#L385">385</a></td><td>JANEWAY 2:  Captain, I've got an idea. Actually, it was yours. It might be possible to realign the phase displacement between us.</td></tr>
 
-  JANEWAY 2
-     There has to be a way. If they were recalibrating
-     their carrier wave at the same time so we could
-     match phase variance, would that allow us to
-     connect?
+<tr id="L386"><td><a href="#L386">386</a></td><td>JANEWAY [on viewscreen]:  We don't have time to try it. May plan is the only one that's going to work. It's time that we both accept that.</td></tr>
 
-  TORRES 2
-     I think so, but in order to get them to do that,
-     we'd have to communicate with them first. It's the
-     chicken and the egg.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L387"><td><a href="#L387">387</a></td><td>PARIS:  We've got a perimeter alert. A vessel is approaching, bearing zero zero five mark three one eight. They've just dropped out of warp.</td></tr>
 
-  JANEWAY 2
-     Maybe we need something a little more primitive.
-     Is there a signal we could emit on all subspace
-     bands just to get their attention?
+<tr id="L388"><td><a href="#L388">388</a></td><td>CHAKOTAY:  Can you identify them?</td></tr>
 
-  TORRES 2
-     A rotating band pulse might do it, but it wouldn't
-     be much more than a shrill whistle.
+<tr id="L389"><td><a href="#L389">389</a></td><td>PARIS:  They're Vidiian, sir.</td></tr>
 
-  JANEWAY 2
-     That might be enough. Give it a try.
+<tr><td></td><td>LOCATION--Voyager 2 - Bridge</td></tr>
+<tr id="L390"><td><a href="#L390">390</a></td><td>ANNOTATION: Kim nods.</td></tr>
 
+<tr id="L391"><td><a href="#L391">391</a></td><td>JANEWAY 2:  Red alert.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L392"><td><a href="#L392">392</a></td><td>JANEWAY:  Shields.</td></tr>
 
-  TORRES
-     All right, Captain. All of the ship's command
-     functions have been rerouted to main Engineering.
+<tr id="L393"><td><a href="#L393">393</a></td><td>CHAKOTAY:  Still off-line.</td></tr>
 
-  JANEWAY
-     Welcome to the new Bridge. Now, let's see about
+<tr><td></td><td>LOCATION--Voyager 2 - Bridge</td></tr>
+<tr id="L394"><td><a href="#L394">394</a></td><td>JANEWAY [on viewscreen]:  Captain, we're picking up a Vidiian ship heading this way. Can you see them too?</td></tr>
 
-  ANNOTATION
-     A shrill tone pierces the air.
+<tr id="L395"><td><a href="#L395">395</a></td><td>JANEWAY 2:  Yes.</td></tr>
 
-  JANEWAY
-     What's that?
+<tr id="L396"><td><a href="#L396">396</a></td><td>JANEWAY [on viewscreen]:  Do you have any weapons?</td></tr>
 
-  TORRES
-     I don't know. It's some kind of com. emission
-     coming through all subspace bands.
+<tr id="L397"><td><a href="#L397">397</a></td><td>JANEWAY 2:  Stand by. Tuvok?</td></tr>
 
-  JANEWAY
-     Coming from where?
+<tr id="L398"><td><a href="#L398">398</a></td><td>TUVOK 2:  Negative, Captain. We had to reroute power to compensate for the antimatter loss. It would take several hours to bring weapons back online.</td></tr>
 
-  TORRES
-     Good question. I can't tell, but it's got a
-     Federation signature.
+<tr><td></td><td>LOCATION--Vidiian ship</td></tr>
+<tr id="L399"><td><a href="#L399">399</a></td><td>COMMANDER:  What is it?</td></tr>
 
-  JANEWAY
-     Try recalibrating our frequency carrier to match
-     it.
+<tr id="L400"><td><a href="#L400">400</a></td><td>VIDIIAN:  Their ship seems to be trapped in some sort of spatial flux.</td></tr>
 
+<tr id="L401"><td><a href="#L401">401</a></td><td>COMMANDER:  Have they detected us?</td></tr>
 
-LOCATION--Voyager 2 - Engineering
+<tr id="L402"><td><a href="#L402">402</a></td><td>VIDIIAN:  Yes. But they can't raise their shields. And it appears that whatever is happening to them has disrupted their weapon systems.</td></tr>
 
-  TORRES 2
-     That's it! They recalibrated and locked onto our
-     phase variant.
+<tr id="L403"><td><a href="#L403">403</a></td><td>COMMANDER:  Load a hypothermic charge. Fire.</td></tr>
 
-  JANEWAY 2
-     What kind of communication can we establish?
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L404"><td><a href="#L404">404</a></td><td>TUVOK:  Captain, they have fired an energy weapon.</td></tr>
 
-  TORRES 2
-     Not much at this point. We can use the emergency
-     encryption code for a short message. Not more than
-     five seconds.
+<tr><td></td><td>LOCATION--Voyager 2 - Bridge</td></tr>
+<tr id="L405"><td><a href="#L405">405</a></td><td>TUVOK 2:  All hands, brace for impact. Damage control teams, stand by.</td></tr>
 
-  JANEWAY 2
-     That should be enough.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L406"><td><a href="#L406">406</a></td><td>JANEWAY:  What happened? They couldn't have missed.</td></tr>
 
+<tr id="L407"><td><a href="#L407">407</a></td><td>CHAKOTAY:  Maybe they hit the other Voyager.</td></tr>
 
-LOCATION--Engineering
+<tr id="L408"><td><a href="#L408">408</a></td><td>JANEWAY:  Hail them.</td></tr>
 
-  JANEWAY
-     That's the emergency code. Run it through an
-     alphanumeric sequencer.
+<tr id="L409"><td><a href="#L409">409</a></td><td>TORRES:  I've lost the comm. link again.</td></tr>
 
-  TORRES
-     I think someone's telling us to lock onto a
-     frequency of twelve gigahertz.
+<tr id="L410"><td><a href="#L410">410</a></td><td>JANEWAY:  Try to get it back.</td></tr>
 
-  JANEWAY
-     Do it.
+<tr><td></td><td>LOCATION--Vidiian Ship</td></tr>
+<tr id="L411"><td><a href="#L411">411</a></td><td>VIDIIAN:  We have destroyed their weapons array.</td></tr>
 
-  ANNOTATION
-     A monitor on a wall console lights up with static.
+<tr id="L412"><td><a href="#L412">412</a></td><td>COMMANDER:  Manoeuvre us to within grappling range.</td></tr>
 
-  TORRES
-     I'll try to clear it up.
+<tr><td></td><td>LOCATION--Voyager 2 - Bridge</td></tr>
+<tr id="L413"><td><a href="#L413">413</a></td><td>ANNOTATION: Thunk! The Vidiian ship grabs Voyager.</td></tr>
 
-  JANEWAY 2 [on monitor]
-     Captain, this isn't an illusion. What you're
-     seeing is real, but it's going to take some
-     explaining.
+<tr id="L414"><td><a href="#L414">414</a></td><td>TUVOK 2:  They are cutting an access route through the hull on deck five.</td></tr>
 
-  ANNOTATION
-     Later.
+<tr><td></td><td>LOCATION--Voyager 2 - Corridor</td></tr>
+<tr id="L415"><td><a href="#L415">415</a></td><td>ANNOTATION: Tuvok and a security guard are shot down.</td></tr>
 
-  CHAKOTAY
-     There are two Voyagers and two crews?
+<tr id="L416"><td><a href="#L416">416</a></td><td>VIDIIAN:  Vulcan. Male. The phaser blast damaged the right kidney, but the other organs are healthy.</td></tr>
 
-  JANEWAY
-     That's what I was told.
+<tr id="L417"><td><a href="#L417">417</a></td><td>SURGEON:  Begin with them.</td></tr>
 
-  TUVOK
-     Could this possibly be some kind of subterfuge,
-     Captain? An alien deception?
+<tr id="L418"><td><a href="#L418">418</a></td><td>ANNOTATION: The next organ donor is Paris.</td></tr>
 
-  JANEWAY
-     That woman, whoever she is, had very specific
-     knowledge of what happened here. The damage from
-     the proton bursts, Wildman's baby, Kes
-     disappearing. She even knew that when I was twelve
-     years old, I walked home in a thunderstorm over
-     seven kilometres because I lost a tennis match.
+<tr><td></td><td>LOCATION--Voyager 2 - Sickbay</td></tr>
+<tr id="L419"><td><a href="#L419">419</a></td><td>EMH 2:  I've erected an emergency force field around Sickbay. That should hold them off for a while.</td></tr>
 
-  TORRES
-     And her explanation of how the ship were
-     duplicated, certainly plausible.
+<tr id="L420"><td><a href="#L420">420</a></td><td>WILDMAN 2:  I won't let them take my baby.</td></tr>
 
-  PARIS
-     If it is true, what do we do about it?
+<tr id="L421"><td><a href="#L421">421</a></td><td>EMH 2:  It's going to be all right, Ensign. Give her to me and I'll hide her inside an access port. If they do break in, it's unlikely they'll look for anyone there. Trust me, Ensign. I won't let anyone touch our baby.</td></tr>
 
-  JANEWAY
-     My counterpart has suggested we try to merge the
-     two ships. Recreate the subspace divergence field
-     we passed through and then depolarise it.
+<tr id="L422"><td><a href="#L422">422</a></td><td>WILDMAN 2:  Mama will see you soon.</td></tr>
 
-  TORRES
-     Both ships would have to send out a massive
-     resonance pulse from their deflector dishes at
-     exactly the same time.
+<tr id="L423"><td><a href="#L423">423</a></td><td>EMH 2:  Lieutenant, give me a hand. Move this. We're going to have to cut away the internal circuitry to make room</td></tr>
 
-  CHAKOTAY
-     They may be able to do that, but we barely have
-     enough power for life support. How can we get
-     enough to send an energy pulse of that size?
+<tr id="L424"><td><a href="#L424">424</a></td><td>KES 2:  Vidiians. They're using some kind of disrupter to break down the forcefield. The forcefield's down.</td></tr>
 
-  JANEWAY
-     We could evacuate all the crew to this deck, and
-     cut off life support everywhere else. Then we
-     could divert all power to the deflector dish.
-     B'Elanna, re-establish the comm. link with the
-     other ship.
+<tr><td></td><td>LOCATION--Voyager 2 - Bridge</td></tr>
+<tr id="L425"><td><a href="#L425">425</a></td><td>JANEWAY 2:  Commander?</td></tr>
 
-  JANEWAY 2 [on monitor]
-     This is Janeway. What have you decided?
+<tr id="L426"><td><a href="#L426">426</a></td><td>CHAKOTAY 2:  They've got everything below deck five, and I don't know how much longer we can keep them away from the Bridge.</td></tr>
 
-  JANEWAY
-     Captain, we think we can channel enough energy to
-     our deflector dish to try the merging process.
+<tr id="L427"><td><a href="#L427">427</a></td><td>JANEWAY 2:  Mister Kim, how many Vidiians are there on the ship?</td></tr>
 
-  JANEWAY 2 [on monitor]
-     Good. When can we start?
+<tr id="L428"><td><a href="#L428">428</a></td><td>KIM 2:  Three hundred and forty seven, and more are boarding.</td></tr>
 
-  JANEWAY
-     We'll need at least fifteen minutes to make our
-     preparations.
+<tr id="L429"><td><a href="#L429">429</a></td><td>CHAKOTAY 2:  We're outnumbered two to one.</td></tr>
 
-  JANEWAY 2 [on monitor]
-     We'll be ready.
+<tr id="L430"><td><a href="#L430">430</a></td><td>KIM 2:  I've got an incoming subspace signal. It's from the other Voyager. They must've re-established the comm. link.</td></tr>
 
-  JANEWAY
-     And Captain, we'll only have enough power to try
-     this once.
+<tr id="L431"><td><a href="#L431">431</a></td><td>JANEWAY 2:  On screen.</td></tr>
 
-  JANEWAY 2 [on monitor]
-     I understand.
+<tr id="L432"><td><a href="#L432">432</a></td><td>JANEWAY [on viewscreen]:  Captain, this comm. link might not last much longer. What's happening over there?</td></tr>
 
-  JANEWAY
-     Chakotay, Tuvok, begin the evacuation process.
+<tr id="L433"><td><a href="#L433">433</a></td><td>JANEWAY 2:  We've been boarded. The Vidiians are on the verge of taking over our ship. Are they on yours?</td></tr>
 
-  CHAKOTAY
-     Aye, Captain.
+<tr id="L434"><td><a href="#L434">434</a></td><td>JANEWAY [on viewscreen]:  No. We don't think they can detect our ship. Captain, we can have a security detachment cross the spatial rift and board your ship within five minutes.</td></tr>
 
-  PARIS
-     I'll let the Doctor know he'll have to rely on his
-     back up power supply.
+<tr id="L435"><td><a href="#L435">435</a></td><td>JANEWAY 2:  No. If we do that, the Vidiians might become aware of your Voyager. That would put both ships at risk.</td></tr>
 
-  TORRES
-     We're ready, Captain.
+<tr id="L436"><td><a href="#L436">436</a></td><td>JANEWAY [on viewscreen]:  We can't just stand by and let you all be killed.</td></tr>
 
-  JANEWAY 2 [on monitor]
-     We're standing by, Captain. I think you should
-     take the lead in this operation since you may have
-     to make allowances for your ship's weakened power
-     systems.
+<tr id="L437"><td><a href="#L437">437</a></td><td>JANEWAY 2:  I'm not about to let that happen. I'll destroy this ship.</td></tr>
 
-  JANEWAY
-     Acknowledged. Lieutenant Torres and, Lieutenant
-     Torres, charge the deflector dishes.
+<tr id="L438"><td><a href="#L438">438</a></td><td>JANEWAY [on viewscreen]:  I don't suppose there's any way I can change your mind. I know how stubborn you can be.</td></tr>
 
-  TORRES
-     Deflector dish charging.
+<tr id="L439"><td><a href="#L439">439</a></td><td>JANEWAY 2:  True. But there is something else I can do for you. I'm going to send Harry Kim through the rift with Ensign Wildman's baby. Somehow, it seems only fair.</td></tr>
 
+<tr id="L440"><td><a href="#L440">440</a></td><td>JANEWAY [on viewscreen]:  We'll be waiting for them.</td></tr>
 
-LOCATION--Voyager 2 - Engineering
+<tr id="L441"><td><a href="#L441">441</a></td><td>JANEWAY 2:  Just make me a promise, Kathryn. Get your crew home.</td></tr>
 
-  TORRES 2
-     Capacitance levels are rising. Sixty percent,
-     eighty five percent, ninety eight percent. We're
-     ready to create the subspace divergence field.
+<tr id="L442"><td><a href="#L442">442</a></td><td>JANEWAY [on viewscreen]:  I will. I will.</td></tr>
 
+<tr id="L443"><td><a href="#L443">443</a></td><td>JANEWAY 2:  Harry, you've got five minutes. Get the baby.</td></tr>
 
-LOCATION--Engineering
+<tr id="L444"><td><a href="#L444">444</a></td><td>KIM 2:  But Captain.</td></tr>
 
-  TORRES
-     Initiating. Power flow nominal, Captain.
+<tr id="L445"><td><a href="#L445">445</a></td><td>JANEWAY 2:  Move it, Ensign! That's an order! Computer, initiate the self-destruct sequence. Authorisation Janeway pi one one zero. Set at five minutes and mute voice warnings. Enable.</td></tr>
 
-  JANEWAY
-     Synchronise computer event timing. Ready to
-     release depolarisation pulse on my mark. Now.
+<tr id="L446"><td><a href="#L446">446</a></td><td>COMPUTER:  Warning. Self-destruct sequence has been initiated. Warp core overload in four minutes, fifty five seconds. There will be no further audio warnings.</td></tr>
 
-  TORRES
-     The pulses have been emitted, Captain. The fields
-     are starting to depolarise.
+<tr><td></td><td>LOCATION--Voyager 2 - Sickbay</td></tr>
+<tr id="L447"><td><a href="#L447">447</a></td><td>VIDIIAN:  Ocampa. Female. The organs are healthy. She has an extremely high rate of tissue regeneration.</td></tr>
 
+<tr id="L448"><td><a href="#L448">448</a></td><td>SURGEON:  Extract her pelvic ridge. We'll analyse the bone marrow for Phage resistance.</td></tr>
 
-LOCATION--Voyager 2 - Engineering
+<tr id="L449"><td><a href="#L449">449</a></td><td>VIDIIAN:  The others are human. My scans indicate their pancreatic tissues are well suited for transplant.</td></tr>
 
-  ANNOTATION
-     Both ships are shaking.
+<tr id="L450"><td><a href="#L450">450</a></td><td>SURGEON:  Begin the extraction procedure.</td></tr>
 
-  TORRES 2
-     But we aren't merging. In fact, we're going
-     further out of phase!
+<tr id="L451"><td><a href="#L451">451</a></td><td>ANNOTATION: The EMH tries to stop the baby from crying.</td></tr>
 
+<tr id="L452"><td><a href="#L452">452</a></td><td>VIDIIAN:  This one. A female human. She's recently given birth.</td></tr>
 
-LOCATION--Engineering
+<tr id="L453"><td><a href="#L453">453</a></td><td>SURGEON:  Are you certain?</td></tr>
 
-  JANEWAY
-     Increase power to the deflector dish.
+<tr id="L454"><td><a href="#L454">454</a></td><td>VIDIIAN:  Yes. Her haemo-uterine levels are far above normal.</td></tr>
 
-  TORRES
-     I can't! Too much plasma back flow. If we keep
-     this up, we're going to lose our antimatter
-     connection. We'll both be destroyed!
+<tr id="L455"><td><a href="#L455">455</a></td><td>SURGEON:  Where's the infant? Set your bio-probe to maximum. Find it.</td></tr>
 
-  JANEWAY
-     Abort!
+<tr id="L456"><td><a href="#L456">456</a></td><td>ANNOTATION: Kim dodges some Vidiians and bursts into Sickbay, firing. He takes out the two Vidiians then sees that the incubator is empty.</td></tr>
 
+<tr id="L457"><td><a href="#L457">457</a></td><td>KIM 2:  No!</td></tr>
 
-LOCATION--Voyager 2 - Engineering
+<tr id="L458"><td><a href="#L458">458</a></td><td>EMH 2:  Ensign Kim, is that you?</td></tr>
 
-  TORRES 2
-     Aborting resonance pulse.
+<tr id="L459"><td><a href="#L459">459</a></td><td>KIM 2:  Doc, am I glad to see you.</td></tr>
 
-  JANEWAY 2
-     What went wrong?
+<tr id="L460"><td><a href="#L460">460</a></td><td>EMH 2:  Have we retaken the ship?</td></tr>
 
-  TORRES 2
-     I'm not sure. I think the plasma flow became to
-     turbulent. The divergence fields were so chaotic,
-     we couldn't complete the merging. We've lost the
-     comm. link as well. Captain, the antimatter leak?
-     It's becoming a haemorrhage. If we don't start the
-     proton bursts, we'll be completely drained in
-     thirty minutes.
+<tr id="L461"><td><a href="#L461">461</a></td><td>KIM 2:  No. Actually, the Captain's put the ship on self-destruct. She ordered me to take the baby and go to the other Voyager.</td></tr>
 
-  JANEWAY 2
-     The lives of both crews are at stake here. I can't
-     make unilateral decisions that might affect that
-     other ship. Janeway to Kim. Is the spatial rift
+<tr id="L462"><td><a href="#L462">462</a></td><td>EMH 2:  Well, I, I guess you'd better hurry then.</td></tr>
 
+<tr id="L463"><td><a href="#L463">463</a></td><td>KIM 2:  Goodbye, Doc.</td></tr>
 
-LOCATION--Voyager 2 - Bridge
+<tr id="L464"><td><a href="#L464">464</a></td><td>EMH 2:  Ensign. Tell my counterpart that I've corrected all signs of hemocythemia. He'll know what that means.</td></tr>
 
-  JANEWAY 2 [OC]
-     Still stable?
+<tr id="L465"><td><a href="#L465">465</a></td><td>KIM 2:  Will do.</td></tr>
 
-  KIM 2
-     I think so, Captain. And I've rigged a phase
-     discriminator. Kes should be able to go back
-     safely.
+<tr><td></td><td>LOCATION--Voyager 2 - Bridge</td></tr>
+<tr id="L466"><td><a href="#L466">466</a></td><td>ANNOTATION: Vidiians enter.</td></tr>
 
+<tr id="L467"><td><a href="#L467">467</a></td><td>JANEWAY 2:  Hello. I'm Captain Kathryn Janeway. Welcome to the Bridge.</td></tr>
 
-LOCATION--Voyager 2 - Engineering
+<tr id="L468"><td><a href="#L468">468</a></td><td>VIDIIAN:  Commander!</td></tr>
 
-  JANEWAY 2
-     Rig another one, Ensign. I'm going with her.
+<tr id="L469"><td><a href="#L469">469</a></td><td>SOMEONE: (He has spotted the monitor reading - DESTRUCT SEQUENCE ENGAGED Time Remaining 2, 1</td></tr>
 
+<tr id="L470"><td><a href="#L470">470</a></td><td>SOMEONE: KaBOOM! goes Voyager 2. KaBOOM goes the Vidiian ship, and battered Voyager is left alone)</td></tr>
 
-LOCATION--Voyager 2 - Turbolift
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L471"><td><a href="#L471">471</a></td><td>ANNOTATION: Kim and the baby cross the rift.</td></tr>
 
-  ANNOTATION
-     Kim puts a band on Janeway's arm.
+<tr id="L472"><td><a href="#L472">472</a></td><td>TORRES:  Ah, it's about time.</td></tr>
 
-  KIM 2
-     This should protect you from the spatial
-     transition.
+<tr id="L473"><td><a href="#L473">473</a></td><td>TUVOK:  Tuvok to Janeway. Ensign Kim has made it through the rift, with the infant.</td></tr>
 
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L474"><td><a href="#L474">474</a></td><td>JANEWAY:  Acknowledged.</td></tr>
 
-LOCATION--Voyager 2 - Corridor
+<tr id="L475"><td><a href="#L475">475</a></td><td>CHAKOTAY:  Captain, the Vidiian ship has been destroyed. So has the other Voyager.</td></tr>
 
-  JANEWAY 2
-     Keep trying to re-establish a comm. link between
-     the ships.
+<tr id="L476"><td><a href="#L476">476</a></td><td>SOMEONE: Captain's log, stardate 49548.7. There are no signs of any pursuing Vidiian vessels, and we have resumed a course toward home.</td></tr>
 
-  TORRES 2
-     I will, but remember, we have fewer than thirty
-     minutes of antimatter left. Whatever you do over
-     there, do it fast.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L477"><td><a href="#L477">477</a></td><td>TUVOK:  Repair efforts are underway. Lieutenant Torres estimates we'll be able to return to the Bridge within three days.</td></tr>
 
-  JANEWAY 2
-     Understood. Are you ready?
+<tr id="L478"><td><a href="#L478">478</a></td><td>JANEWAY:  Good. I'm not sure how much longer B'Elanna can tolerate my standing over her shoulder in Engineering. Tuvok, is there something on your mind?</td></tr>
 
-  KES
-     Yes.
+<tr id="L479"><td><a href="#L479">479</a></td><td>TUVOK:  I am curious, Captain. Before the Vidiians attacked, when you were in disagreement with the other Captain about</td></tr>
 
+<tr id="L480"><td><a href="#L480">480</a></td><td>JANEWAY:  Would I have given the order to self-destruct our ship? I've gone over that moment a thousand times in my mind. The truth is, yes, I would have given the order. But I will admit, there was a part of me that could see her point of view.</td></tr>
 
-LOCATION--Corridor
+<tr id="L481"><td><a href="#L481">481</a></td><td>TUVOK:  One could say that you were both the doubter and the doubted. I do not envy the paradox of logic you were faced with in that situation.</td></tr>
 
-  ANNOTATION
-     Deck fifteen.
+<tr id="L482"><td><a href="#L482">482</a></td><td>JANEWAY:  Neither did I. And neither did she.</td></tr>
 
-  KES 1
-     It's gotten worse here.
+<tr id="L483"><td><a href="#L483">483</a></td><td>ANNOTATION: Tuvok leaves.</td></tr>
 
-  JANEWAY 2
-     Command and Control is in main Engineering. Let's
-     go.
+<tr id="L484"><td><a href="#L484">484</a></td><td>WILDMAN:  Thank you. Thank you so much.</td></tr>
 
+<tr id="L485"><td><a href="#L485">485</a></td><td>KIM:  You're welcome. But you should also thank the Doctor. It was his counterpart who saved her from the Vidiians.</td></tr>
 
-LOCATION--Engineering
+<tr id="L486"><td><a href="#L486">486</a></td><td>EMH:  I'm not surprised. I am programmed to be heroic when the need arises. By the way, Ensign, this other Doctor, did he have a name?</td></tr>
 
-  TORRES
-     I don't know how else to stop the antimatter
-     drain, except with proton bursts.
+<tr id="L487"><td><a href="#L487">487</a></td><td>KIM:  I really didn't have time to ask.</td></tr>
 
-  JANEWAY
-     We can't do that. We'd damage the other ship just
-     like this one. Think, people. We need options.
+<tr id="L488"><td><a href="#L488">488</a></td><td>JANEWAY:  Am I allowed to go back to my temporary Bridge now, Doctor?</td></tr>
 
-  ANNOTATION
-     Janeway 2 and Kes enter.
+<tr id="L489"><td><a href="#L489">489</a></td><td>EMH:  By all means.</td></tr>
 
-  JANEWAY 2
-     I agree, Captain. And I think we need to talk.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L490"><td><a href="#L490">490</a></td><td>JANEWAY:  It's good to have you back, Ensign.</td></tr>
 
-  ANNOTATION
-     They go to the upper level.
+<tr id="L491"><td><a href="#L491">491</a></td><td>KIM:  Thank you, I think.</td></tr>
 
-  JANEWAY 2
-     By my estimates, our antimatter supply will run
-     out in less than half an hour.
+<tr id="L492"><td><a href="#L492">492</a></td><td>JANEWAY:  Something wrong?</td></tr>
 
-  JANEWAY
-     The attempt to merge our ships is throwing us
-     further out of phase. The quantum cohesion on both
-     Voyagers is breaking down.
+<tr id="L493"><td><a href="#L493">493</a></td><td>KIM:  I'm not sure. I mean, this isn't really my ship, and you're not really my captain, and yet you are, and there's no difference. But I know there's a difference. Or is there? It's all a little weird.</td></tr>
 
-  JANEWAY 2
-     Just like original Kent State experiment. The
-     duplicate atoms couldn't occupy the same point in
-     space time for very long before
+<tr id="L494"><td><a href="#L494">494</a></td><td>JANEWAY:  Mister Kim, we're Starfleet officers. Weird is part of the job.</td></tr>
 
-  JANEWAY
-     Mutual annihilation.
-
-  JANEWAY 2
-     What are our options?
-
-  JANEWAY
-     Let's try a different tact. Instead of trying to
-     merge the two ships, let's try to separate them.
-     Maybe we could divide the antimatter between us.
-
-  JANEWAY 2
-     I'm afraid not. We've been studying that theory.
-     B'Elanna tells me that any attempt to disrupt the
-     antimatter supply will destroy us all. What about
-     evacuating your crew to my ship? It might get a
-     little crowded, but we could manage.
-
-  JANEWAY
-     We've been studying that theory. And my B'Elanna
-     tells me that sending any more than five to ten
-     people through the rift would radically alter the
-     atomic balance of the two Voyagers. We'd both be
-     destroyed. Captain, I think you should return to
-     your ship and run a metallurgical analysis. Find
-     out the precise phase modulation of your hull.
-     I'll do the same here. Maybe we can find a way to
-     realign the phase displacement.
-
-  JANEWAY 2
-     You're going to self-destruct your ship.
-
-  JANEWAY
-     What makes you say that?
-
-  JANEWAY 2
-     Because that's what I would do if your Voyager
-     were intact, and my Voyager were crippled, my crew
-     wounded or dead. I'd sacrifice my ship so that
-     yours could survive.
-
-  JANEWAY
-     Then I'm glad we agree. Go back to your ship.
-
-  JANEWAY 2
-     I didn't say I agree, I said I understand. I'm not
-     willing to let you make that sacrifice yet. We
-     haven't explored all the options.
-
-  JANEWAY
-     Yes, we have and we both know it. This is my ship
-     and my decision.
-
-  JANEWAY 2
-     Captain, I'm not going to let you
-
-  JANEWAY
-     I've made my decision! Please don't make me call
-     security and have you escorted off my ship,
-     because you know I'll do it.
-
-  JANEWAY 2
-     All right. I'll go back. But give me fifteen
-     minutes to come up with another solution. After
-     that, it's your decision.
-
-  JANEWAY
-     Fifteen minutes. Good luck.
-
-  JANEWAY 2
-     To both of us.
-
-
-LOCATION--Voyager 2 - Bridge
-
-  KIM 2
-     Okay, I've managed to re-establish a comm. link
-     with the other Voyager.
-
-  JANEWAY 2
-     Hail them.
-
-  JANEWAY 2
-     Captain, I've got an idea. Actually, it was yours.
-     It might be possible to realign the phase
-     displacement between us.
-
-  JANEWAY [on viewscreen]
-     We don't have time to try it. May plan is the only
-     one that's going to work. It's time that we both
-     accept that.
-
-
-LOCATION--Engineering
-
-  PARIS
-     We've got a perimeter alert. A vessel is
-     approaching, bearing zero zero five mark three one
-     eight. They've just dropped out of warp.
-
-  CHAKOTAY
-     Can you identify them?
-
-  PARIS
-     They're Vidiian, sir.
-
-
-LOCATION--Voyager 2 - Bridge
-
-  ANNOTATION
-     Kim nods.
-
-  JANEWAY 2
-     Red alert.
-
-
-LOCATION--Engineering
-
-  JANEWAY
-     Shields.
-
-  CHAKOTAY
-     Still off-line.
-
-
-LOCATION--Voyager 2 - Bridge
-
-  JANEWAY [on viewscreen]
-     Captain, we're picking up a Vidiian ship heading
-     this way. Can you see them too?
-
-  JANEWAY 2
-     Yes.
-
-  JANEWAY [on viewscreen]
-     Do you have any weapons?
-
-  JANEWAY 2
-     Stand by. Tuvok?
-
-  TUVOK 2
-     Negative, Captain. We had to reroute power to
-     compensate for the antimatter loss. It would take
-     several hours to bring weapons back online.
-
-
-LOCATION--Vidiian ship
-
-  COMMANDER
-     What is it?
-
-  VIDIIAN
-     Their ship seems to be trapped in some sort of
-     spatial flux.
-
-  COMMANDER
-     Have they detected us?
-
-  VIDIIAN
-     Yes. But they can't raise their shields. And it
-     appears that whatever is happening to them has
-     disrupted their weapon systems.
-
-  COMMANDER
-     Load a hypothermic charge. Fire.
-
-
-LOCATION--Engineering
-
-  TUVOK
-     Captain, they have fired an energy weapon.
-
-
-LOCATION--Voyager 2 - Bridge
-
-  TUVOK 2
-     All hands, brace for impact. Damage control teams,
-     stand by.
-
-
-LOCATION--Engineering
-
-  JANEWAY
-     What happened? They couldn't have missed.
-
-  CHAKOTAY
-     Maybe they hit the other Voyager.
-
-  JANEWAY
-     Hail them.
-
-  TORRES
-     I've lost the comm. link again.
-
-  JANEWAY
-     Try to get it back.
-
-
-LOCATION--Vidiian Ship
-
-  VIDIIAN
-     We have destroyed their weapons array.
-
-  COMMANDER
-     Manoeuvre us to within grappling range.
-
-
-LOCATION--Voyager 2 - Bridge
-
-  ANNOTATION
-     Thunk! The Vidiian ship grabs Voyager.
-
-  TUVOK 2
-     They are cutting an access route through the hull
-     on deck five.
-
-
-LOCATION--Voyager 2 - Corridor
-
-  ANNOTATION
-     Tuvok and a security guard are shot down.
-
-  VIDIIAN
-     Vulcan. Male. The phaser blast damaged the right
-     kidney, but the other organs are healthy.
-
-  SURGEON
-     Begin with them.
-
-  ANNOTATION
-     The next organ donor is Paris.
-
-
-LOCATION--Voyager 2 - Sickbay
-
-  EMH 2
-     I've erected an emergency force field around
-     Sickbay. That should hold them off for a while.
-
-  WILDMAN 2
-     I won't let them take my baby.
-
-  EMH 2
-     It's going to be all right, Ensign. Give her to me
-     and I'll hide her inside an access port. If they
-     do break in, it's unlikely they'll look for anyone
-     there. Trust me, Ensign. I won't let anyone touch
-     our baby.
-
-  WILDMAN 2
-     Mama will see you soon.
-
-  EMH 2
-     Lieutenant, give me a hand. Move this. We're going
-     to have to cut away the internal circuitry to make
-     room
-
-  KES 2
-     Vidiians. They're using some kind of disrupter to
-     break down the forcefield. The forcefield's down.
-
-
-LOCATION--Voyager 2 - Bridge
-
-  JANEWAY 2
-     Commander?
-
-  CHAKOTAY 2
-     They've got everything below deck five, and I
-     don't know how much longer we can keep them away
-     from the Bridge.
-
-  JANEWAY 2
-     Mister Kim, how many Vidiians are there on the
-     ship?
-
-  KIM 2
-     Three hundred and forty seven, and more are
-     boarding.
-
-  CHAKOTAY 2
-     We're outnumbered two to one.
-
-  KIM 2
-     I've got an incoming subspace signal. It's from
-     the other Voyager. They must've re-established the
-     comm. link.
-
-  JANEWAY 2
-     On screen.
-
-  JANEWAY [on viewscreen]
-     Captain, this comm. link might not last much
-     longer. What's happening over there?
-
-  JANEWAY 2
-     We've been boarded. The Vidiians are on the verge
-     of taking over our ship. Are they on yours?
-
-  JANEWAY [on viewscreen]
-     No. We don't think they can detect our ship.
-     Captain, we can have a security detachment cross
-     the spatial rift and board your ship within five
-     minutes.
-
-  JANEWAY 2
-     No. If we do that, the Vidiians might become aware
-     of your Voyager. That would put both ships at
-     risk.
-
-  JANEWAY [on viewscreen]
-     We can't just stand by and let you all be killed.
-
-  JANEWAY 2
-     I'm not about to let that happen. I'll destroy
-     this ship.
-
-  JANEWAY [on viewscreen]
-     I don't suppose there's any way I can change your
-     mind. I know how stubborn you can be.
-
-  JANEWAY 2
-     True. But there is something else I can do for
-     you. I'm going to send Harry Kim through the rift
-     with Ensign Wildman's baby. Somehow, it seems only
-     fair.
-
-  JANEWAY [on viewscreen]
-     We'll be waiting for them.
-
-  JANEWAY 2
-     Just make me a promise, Kathryn. Get your crew
-     home.
-
-  JANEWAY [on viewscreen]
-     I will. I will.
-
-  JANEWAY 2
-     Harry, you've got five minutes. Get the baby.
-
-  KIM 2
-     But Captain.
-
-  JANEWAY 2
-     Move it, Ensign! That's an order! Computer,
-     initiate the self-destruct sequence. Authorisation
-     Janeway pi one one zero. Set at five minutes and
-     mute voice warnings. Enable.
-
-  COMPUTER
-     Warning. Self-destruct sequence has been
-     initiated. Warp core overload in four minutes,
-     fifty five seconds. There will be no further audio
-     warnings.
-
-
-LOCATION--Voyager 2 - Sickbay
-
-  VIDIIAN
-     Ocampa. Female. The organs are healthy. She has an
-     extremely high rate of tissue regeneration.
-
-  SURGEON
-     Extract her pelvic ridge. We'll analyse the bone
-     marrow for Phage resistance.
-
-  VIDIIAN
-     The others are human. My scans indicate their
-     pancreatic tissues are well suited for transplant.
-
-  SURGEON
-     Begin the extraction procedure.
-
-  ANNOTATION
-     The EMH tries to stop the baby from crying.
-
-  VIDIIAN
-     This one. A female human. She's recently given
-     birth.
-
-  SURGEON
-     Are you certain?
-
-  VIDIIAN
-     Yes. Her haemo-uterine levels are far above
-     normal.
-
-  SURGEON
-     Where's the infant? Set your bio-probe to maximum.
-     Find it.
-
-  ANNOTATION
-     Kim dodges some Vidiians and bursts into Sickbay,
-     firing. He takes out the two Vidiians then sees
-     that the incubator is empty.
-
-  KIM 2
-     No!
-
-  EMH 2
-     Ensign Kim, is that you?
-
-  KIM 2
-     Doc, am I glad to see you.
-
-  EMH 2
-     Have we retaken the ship?
-
-  KIM 2
-     No. Actually, the Captain's put the ship on
-     self-destruct. She ordered me to take the baby and
-     go to the other Voyager.
-
-  EMH 2
-     Well, I, I guess you'd better hurry then.
-
-  KIM 2
-     Goodbye, Doc.
-
-  EMH 2
-     Ensign. Tell my counterpart that I've corrected
-     all signs of hemocythemia. He'll know what that
-     means.
-
-  KIM 2
-     Will do.
-
-
-LOCATION--Voyager 2 - Bridge
-
-  ANNOTATION
-     Vidiians enter.
-
-  JANEWAY 2
-     Hello. I'm Captain Kathryn Janeway. Welcome to the
-     Bridge.
-
-  VIDIIAN
-     Commander!
-
-  SOMEONE
-     (He has spotted the monitor reading - DESTRUCT
-     SEQUENCE ENGAGED Time Remaining 2, 1
-
-  SOMEONE
-     KaBOOM! goes Voyager 2. KaBOOM goes the Vidiian
-     ship, and battered Voyager is left alone)
-
-
-LOCATION--Corridor
-
-  ANNOTATION
-     Kim and the baby cross the rift.
-
-  TORRES
-     Ah, it's about time.
-
-  TUVOK
-     Tuvok to Janeway. Ensign Kim has made it through
-     the rift, with the infant.
-
-
-LOCATION--Engineering
-
-  JANEWAY
-     Acknowledged.
-
-  CHAKOTAY
-     Captain, the Vidiian ship has been destroyed. So
-     has the other Voyager.
-
-  SOMEONE
-     Captain's log, stardate 49548.7. There are no
-     signs of any pursuing Vidiian vessels, and we have
-     resumed a course toward home.
-
-
-LOCATION--Sickbay
-
-  TUVOK
-     Repair efforts are underway. Lieutenant Torres
-     estimates we'll be able to return to the Bridge
-     within three days.
-
-  JANEWAY
-     Good. I'm not sure how much longer B'Elanna can
-     tolerate my standing over her shoulder in
-     Engineering. Tuvok, is there something on your
-     mind?
-
-  TUVOK
-     I am curious, Captain. Before the Vidiians
-     attacked, when you were in disagreement with the
-     other Captain about
-
-  JANEWAY
-     Would I have given the order to self-destruct our
-     ship? I've gone over that moment a thousand times
-     in my mind. The truth is, yes, I would have given
-     the order. But I will admit, there was a part of
-     me that could see her point of view.
-
-  TUVOK
-     One could say that you were both the doubter and
-     the doubted. I do not envy the paradox of logic
-     you were faced with in that situation.
-
-  JANEWAY
-     Neither did I. And neither did she.
-
-  ANNOTATION
-     Tuvok leaves.
-
-  WILDMAN
-     Thank you. Thank you so much.
-
-  KIM
-     You're welcome. But you should also thank the
-     Doctor. It was his counterpart who saved her from
-     the Vidiians.
-
-  EMH
-     I'm not surprised. I am programmed to be heroic
-     when the need arises. By the way, Ensign, this
-     other Doctor, did he have a name?
-
-  KIM
-     I really didn't have time to ask.
-
-  JANEWAY
-     Am I allowed to go back to my temporary Bridge
-     now, Doctor?
-
-  EMH
-     By all means.
-
-
-LOCATION--Corridor
-
-  JANEWAY
-     It's good to have you back, Ensign.
-
-  KIM
-     Thank you, I think.
-
-  JANEWAY
-     Something wrong?
-
-  KIM
-     I'm not sure. I mean, this isn't really my ship,
-     and you're not really my captain, and yet you are,
-     and there's no difference. But I know there's a
-     difference. Or is there? It's all a little weird.
-
-  JANEWAY
-     Mister Kim, we're Starfleet officers. Weird is
-     part of the job.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

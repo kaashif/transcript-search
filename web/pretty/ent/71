@@ -1,1419 +1,763 @@
-Damage
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Damage</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>REED:  Another breach on C deck, E deck's depressurising. We can't take much more of this.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>ANNOTATION: the shaking and jolting stops, it goes very quiet</td></tr>
 
-  REED
-     Another breach on C deck, E deck's depressurising.
-     We can't take much more of this.
+<tr id="L3"><td><a href="#L3">3</a></td><td>REED:  They've ceased firing. They're moving off, back into the system.</td></tr>
 
-  ANNOTATION
-     the shaking and jolting stops, it goes very quiet
+<tr id="L4"><td><a href="#L4">4</a></td><td>ANNOTATION: T'Pol checks Reed's station readings.</td></tr>
 
-  REED
-     They've ceased firing. They're moving off, back
-     into the system.
+<tr id="L5"><td><a href="#L5">5</a></td><td>T'POL:  Ensign, get us out of here.</td></tr>
 
-  ANNOTATION
-     T'Pol checks Reed's station readings.
+<tr id="L6"><td><a href="#L6">6</a></td><td>TRAVIS:  Thrusters are down. I don't think we're going anywhere.</td></tr>
 
-  T'POL
-     Ensign, get us out of here.
+<tr><td></td><td>LOCATION--Degra's ship</td></tr>
+<tr id="L7"><td><a href="#L7">7</a></td><td>REPTILIAN:  You had no right to recall my ships.</td></tr>
 
-  TRAVIS
-     Thrusters are down. I don't think we're going
-     anywhere.
+<tr id="L8"><td><a href="#L8">8</a></td><td>DEGRA:  And you had no authorisation to launch an attack.</td></tr>
 
+<tr id="L9"><td><a href="#L9">9</a></td><td>REPTILIAN:  The humans should have been destroyed the moment they were detected.</td></tr>
 
-LOCATION--Degra's ship
+<tr id="L10"><td><a href="#L10">10</a></td><td>HUMANOID:  The Council doesn't agree.</td></tr>
 
-  REPTILIAN
-     You had no right to recall my ships.
+<tr id="L11"><td><a href="#L11">11</a></td><td>REPTILIAN:  You're permitting an enemy vessel to remain in orbit near a military installation!</td></tr>
 
-  DEGRA
-     And you had no authorisation to launch an attack.
+<tr id="L12"><td><a href="#L12">12</a></td><td>DEGRA:  Their ship is critically damaged. They no longer pose a threat.</td></tr>
 
-  REPTILIAN
-     The humans should have been destroyed the moment
-     they were detected.
+<tr id="L13"><td><a href="#L13">13</a></td><td>REPTILIAN:  Thanks to an attack that you opposed. At the very least, we should board their vessel and take them prisoner.</td></tr>
 
-  HUMANOID
-     The Council doesn't agree.
+<tr id="L14"><td><a href="#L14">14</a></td><td>ARBOREAL:  It is being considered.</td></tr>
 
-  REPTILIAN
-     You're permitting an enemy vessel to remain in
-     orbit near a military installation!
+<tr id="L15"><td><a href="#L15">15</a></td><td>HUMANOID:  On the subject of prisoners, the Council wants Archer for further interrogation.</td></tr>
 
-  DEGRA
-     Their ship is critically damaged. They no longer
-     pose a threat.
+<tr id="L16"><td><a href="#L16">16</a></td><td>REPTILIAN:  We're not finished with him.</td></tr>
 
-  REPTILIAN
-     Thanks to an attack that you opposed. At the very
-     least, we should board their vessel and take them
-     prisoner.
+<tr id="L17"><td><a href="#L17">17</a></td><td>DEGRA:  You've questioned him long enough.</td></tr>
 
-  ARBOREAL
-     It is being considered.
+<tr id="L18"><td><a href="#L18">18</a></td><td>REPTILIAN:  He hasn't provided us with the necessary information.</td></tr>
 
-  HUMANOID
-     On the subject of prisoners, the Council wants
-     Archer for further interrogation.
+<tr id="L19"><td><a href="#L19">19</a></td><td>HUMANOID:  Perhaps the Council will have more success. You're ordered to release him immediately.</td></tr>
 
-  REPTILIAN
-     We're not finished with him.
+<tr id="L20"><td><a href="#L20">20</a></td><td>REPTILIAN:  Very well.</td></tr>
 
-  DEGRA
-     You've questioned him long enough.
+<tr id="L21"><td><a href="#L21">21</a></td><td>DEGRA:  We've arranged for his transport.</td></tr>
 
-  REPTILIAN
-     He hasn't provided us with the necessary
-     information.
+<tr id="L22"><td><a href="#L22">22</a></td><td>REPTILIAN:  We can deliver him.</td></tr>
 
-  HUMANOID
-     Perhaps the Council will have more success. You're
-     ordered to release him immediately.
+<tr id="L23"><td><a href="#L23">23</a></td><td>DEGRA:  He's already been severely beaten under your care.</td></tr>
 
-  REPTILIAN
-     Very well.
+<tr id="L24"><td><a href="#L24">24</a></td><td>REPTILIAN:  He is the commander of an enemy vessel.</td></tr>
 
-  DEGRA
-     We've arranged for his transport.
+<tr id="L25"><td><a href="#L25">25</a></td><td>HUMANOID:  We need Archer in good condition.</td></tr>
 
-  REPTILIAN
-     We can deliver him.
+<tr id="L26"><td><a href="#L26">26</a></td><td>DEGRA:  If he can't answer questions, we can't interrogate him.</td></tr>
 
-  DEGRA
-     He's already been severely beaten under your care.
+<tr id="L27"><td><a href="#L27">27</a></td><td>REPTILIAN:  He will not be harmed any further. You have my assurances.</td></tr>
 
-  REPTILIAN
-     He is the commander of an enemy vessel.
+<tr id="L28"><td><a href="#L28">28</a></td><td>DEGRA:  That isn't good enough.</td></tr>
 
-  HUMANOID
-     We need Archer in good condition.
+<tr id="L29"><td><a href="#L29">29</a></td><td>REPTILIAN:  Meaning?</td></tr>
 
-  DEGRA
-     If he can't answer questions, we can't interrogate
-     him.
+<tr id="L30"><td><a href="#L30">30</a></td><td>DEGRA:  It wouldn't be the first of your assurances that fell short.</td></tr>
 
-  REPTILIAN
-     He will not be harmed any further. You have my
-     assurances.
+<tr id="L31"><td><a href="#L31">31</a></td><td>ARBOREAL:  The Council has agreed that the aquatics will transport the prisoner. They've sent a ship. Get him ready.</td></tr>
 
-  DEGRA
-     That isn't good enough.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L32"><td><a href="#L32">32</a></td><td>REED:  The comm. system's still down. We don't have a complete casualty list yet. So far the news isn't good. Five people are confirmed dead, a dozen wounded. Most of the hull breaches have been contained with emergency bulkheads.</td></tr>
 
-  REPTILIAN
-     Meaning?
+<tr id="L33"><td><a href="#L33">33</a></td><td>T'POL:  What about Cargo Bay two?</td></tr>
 
-  DEGRA
-     It wouldn't be the first of your assurances that
-     fell short.
+<tr id="L34"><td><a href="#L34">34</a></td><td>REED:  I don't know. There's no way to get to it. A large portion of E deck is still decompressed.</td></tr>
 
-  ARBOREAL
-     The Council has agreed that the aquatics will
-     transport the prisoner. They've sent a ship. Get
-     him ready.
+<tr id="L35"><td><a href="#L35">35</a></td><td>T'POL:  Weapons?</td></tr>
 
+<tr id="L36"><td><a href="#L36">36</a></td><td>REED:  The aft torpedo launcher's working, but that's about it. I really don't know what's holding us together, but let's hope it doesn't give out.</td></tr>
 
-LOCATION--Corridor
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L37"><td><a href="#L37">37</a></td><td>T'POL:  Commander.</td></tr>
 
-  REED
-     The comm. system's still down. We don't have a
-     complete casualty list yet. So far the news isn't
-     good. Five people are confirmed dead, a dozen
-     wounded. Most of the hull breaches have been
-     contained with emergency bulkheads.
+<tr id="L38"><td><a href="#L38">38</a></td><td>TUCKER:  The primary warp coil's fried. It has to be rebuilt from scratch.</td></tr>
 
-  T'POL
-     What about Cargo Bay two?
+<tr id="L39"><td><a href="#L39">39</a></td><td>T'POL:  How long?</td></tr>
 
-  REED
-     I don't know. There's no way to get to it. A large
-     portion of E deck is still decompressed.
+<tr id="L40"><td><a href="#L40">40</a></td><td>TUCKER:  A couple of weeks, if we had the parts. We don't. As it stands now, warp drive's out of the question.</td></tr>
 
-  T'POL
-     Weapons?
+<tr id="L41"><td><a href="#L41">41</a></td><td>T'POL:  Impulse?</td></tr>
 
-  REED
-     The aft torpedo launcher's working, but that's
-     about it. I really don't know what's holding us
-     together, but let's hope it doesn't give out.
+<tr id="L42"><td><a href="#L42">42</a></td><td>TUCKER:  I'll have to inspect the hull around the exhaust manifolds, see the damage first-hand.</td></tr>
 
+<tr id="L43"><td><a href="#L43">43</a></td><td>T'POL:  Make it a priority.</td></tr>
 
-LOCATION--Engineering
+<tr id="L44"><td><a href="#L44">44</a></td><td>TUCKER:  We've had a lot of injuries down here. It could speed things up if you assign me some extra help.</td></tr>
 
-  T'POL
-     Commander.
+<tr id="L45"><td><a href="#L45">45</a></td><td>ANNOTATION: Another bang makes a nervous T'Pol jump out of her skin.</td></tr>
 
-  TUCKER
-     The primary warp coil's fried. It has to be
-     rebuilt from scratch.
+<tr id="L46"><td><a href="#L46">46</a></td><td>TUCKER:  Engineering isn't the safest place to be right now.</td></tr>
 
-  T'POL
-     How long?
+<tr id="L47"><td><a href="#L47">47</a></td><td>REED:  Indeed. We've already lost one Captain today.</td></tr>
 
-  TUCKER
-     A couple of weeks, if we had the parts. We don't.
-     As it stands now, warp drive's out of the
-     question.
+<tr><td></td><td>LOCATION--Aquatic's ship</td></tr>
+<tr id="L48"><td><a href="#L48">48</a></td><td>ANNOTATION: Archer awakes, unbound, lying on the floor of a small bare room with a porthole. One wall gives him a view into the water-filled main ship. He attracts the attention of an Aquatic.</td></tr>
 
-  T'POL
-     Impulse?
+<tr id="L49"><td><a href="#L49">49</a></td><td>ARCHER:  Where are you taking me?</td></tr>
 
-  TUCKER
-     I'll have to inspect the hull around the exhaust
-     manifolds, see the damage first-hand.
+<tr id="L50"><td><a href="#L50">50</a></td><td>ANNOTATION: The Aquatic presses a button, and Archer passes out again.</td></tr>
 
-  T'POL
-     Make it a priority.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L51"><td><a href="#L51">51</a></td><td>REED:  Emergency power's back online. We'll have phase cannons in about an hour.</td></tr>
 
-  TUCKER
-     We've had a lot of injuries down here. It could
-     speed things up if you assign me some extra help.
+<tr id="L52"><td><a href="#L52">52</a></td><td>T'POL:  I'd like you to begin repairs on E deck.</td></tr>
 
-  ANNOTATION
-     Another bang makes a nervous T'Pol jump out of her
-     skin.
+<tr id="L53"><td><a href="#L53">53</a></td><td>REED:  I'll have to pull people from other areas.</td></tr>
 
-  TUCKER
-     Engineering isn't the safest place to be right
-     now.
+<tr id="L54"><td><a href="#L54">54</a></td><td>T'POL:  There are engineering components in Cargo Bay two. They're crucial to Commander Tucker's repairs.</td></tr>
 
-  REED
-     Indeed. We've already lost one Captain today.
+<tr id="L55"><td><a href="#L55">55</a></td><td>REED:  Aye.</td></tr>
 
+<tr id="L56"><td><a href="#L56">56</a></td><td>TRAVIS:  There's a vessel approaching.</td></tr>
 
-LOCATION--Aquatic's ship
+<tr id="L57"><td><a href="#L57">57</a></td><td>REED:  It's Xindi.</td></tr>
 
-  ANNOTATION
-     Archer awakes, unbound, lying on the floor of a
-     small bare room with a porthole. One wall gives
-     him a view into the water-filled main ship. He
-     attracts the attention of an Aquatic.
+<tr id="L58"><td><a href="#L58">58</a></td><td>T'POL:  Aft torpedoes.</td></tr>
 
-  ARCHER
-     Where are you taking me?
+<tr id="L59"><td><a href="#L59">59</a></td><td>REED:  Targeting.</td></tr>
 
-  ANNOTATION
-     The Aquatic presses a button, and Archer passes
-     out again.
+<tr id="L60"><td><a href="#L60">60</a></td><td>T'POL:  The viewscreen?</td></tr>
 
+<tr id="L61"><td><a href="#L61">61</a></td><td>TRAVIS:  Still offline.</td></tr>
 
-LOCATION--Bridge
+<tr id="L62"><td><a href="#L62">62</a></td><td>REED:  It appears to be a one-man vessel. No armaments.</td></tr>
 
-  REED
-     Emergency power's back online. We'll have phase
-     cannons in about an hour.
+<tr id="L63"><td><a href="#L63">63</a></td><td>T'POL:  Biosigns?</td></tr>
 
-  T'POL
-     I'd like you to begin repairs on E deck.
+<tr id="L64"><td><a href="#L64">64</a></td><td>REED:  One.</td></tr>
 
-  REED
-     I'll have to pull people from other areas.
+<tr id="L65"><td><a href="#L65">65</a></td><td>T'POL:  Bring it in.</td></tr>
 
-  T'POL
-     There are engineering components in Cargo Bay two.
-     They're crucial to Commander Tucker's repairs.
+<tr><td></td><td>LOCATION--Launch bay</td></tr>
+<tr id="L66"><td><a href="#L66">66</a></td><td>ANNOTATION: Two armed MACOs, Reed and T'Pol go to see what is in the little vessel. Reed scans for a hatch control.</td></tr>
 
-  REED
-     Aye.
+<tr id="L67"><td><a href="#L67">67</a></td><td>REED:  Here.</td></tr>
 
-  TRAVIS
-     There's a vessel approaching.
+<tr id="L68"><td><a href="#L68">68</a></td><td>ANNOTATION: It opens it to reveal - Archer.</td></tr>
 
-  REED
-     It's Xindi.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L69"><td><a href="#L69">69</a></td><td>PHLOX:  No internal injuries. Numerous contusions consistent with blunt trauma.</td></tr>
 
-  T'POL
-     Aft torpedoes.
+<tr id="L70"><td><a href="#L70">70</a></td><td>ARCHER:  How many have we lost?</td></tr>
 
-  REED
-     Targeting.
+<tr id="L71"><td><a href="#L71">71</a></td><td>PHLOX:  Fourteen. Three are unaccounted for.</td></tr>
 
-  T'POL
-     The viewscreen?
+<tr id="L72"><td><a href="#L72">72</a></td><td>ARCHER:  Don't waste time on me.</td></tr>
 
-  TRAVIS
-     Still offline.
+<tr id="L73"><td><a href="#L73">73</a></td><td>PHLOX:  It's good to see you again, Captain. (goes to tend to others on biobeds)</td></tr>
 
-  REED
-     It appears to be a one-man vessel. No armaments.
+<tr id="L74"><td><a href="#L74">74</a></td><td>T'POL:  Damage report. (hands over a PADD) We'll have impulse power in six hours.</td></tr>
 
-  T'POL
-     Biosigns?
+<tr id="L75"><td><a href="#L75">75</a></td><td>ANNOTATION: Archer stares at two bodies on the floor, covered by blankets.</td></tr>
 
-  REED
-     One.
+<tr id="L76"><td><a href="#L76">76</a></td><td>T'POL:  Aft torpedo launchers and one forward phase cannon are online.</td></tr>
 
-  T'POL
-     Bring it in.
+<tr id="L77"><td><a href="#L77">77</a></td><td>ARCHER:  Have Hoshi and Travis start analysing that pod.</td></tr>
 
+<tr id="L78"><td><a href="#L78">78</a></td><td>T'POL:  Its configuration suggests it's aquatic.</td></tr>
 
-LOCATION--Launch bay
+<tr id="L79"><td><a href="#L79">79</a></td><td>ARCHER:  I was aboard one of their ships. That's the last thing I remember.</td></tr>
 
-  ANNOTATION
-     Two armed MACOs, Reed and T'Pol go to see what is
-     in the little vessel. Reed scans for a hatch
-     control.
+<tr id="L80"><td><a href="#L80">80</a></td><td>T'POL:  Do you have any idea why they released you?</td></tr>
 
-  REED
-     Here.
+<tr id="L81"><td><a href="#L81">81</a></td><td>ARCHER:  I think I may have gotten through to one of them. Degra.</td></tr>
 
-  ANNOTATION
-     It opens it to reveal - Archer.
+<tr id="L82"><td><a href="#L82">82</a></td><td>ANNOTATION: T'Pol hands him a towel. Her hand is shaking so he holds it.</td></tr>
 
+<tr id="L83"><td><a href="#L83">83</a></td><td>ARCHER:  Thanks. Are you all right?</td></tr>
 
-LOCATION--Sickbay
+<tr id="L84"><td><a href="#L84">84</a></td><td>T'POL:  I'm fine. I should help Lieutenant Reed with his repairs.</td></tr>
 
-  PHLOX
-     No internal injuries. Numerous contusions
-     consistent with blunt trauma.
+<tr id="L85"><td><a href="#L85">85</a></td><td>ANNOTATION: Her journey through the corridors however, has a sound and vision distorted, horror film quality to it. She gets to her quarters and bathes her face.</td></tr>
 
-  ARCHER
-     How many have we lost?
+<tr><td></td><td>LOCATION--Situation room</td></tr>
+<tr id="L86"><td><a href="#L86">86</a></td><td>REED:  They went to a lot of trouble to let you go. Do you really think they'll attack us again?</td></tr>
 
-  PHLOX
-     Fourteen. Three are unaccounted for.
+<tr id="L87"><td><a href="#L87">87</a></td><td>ARCHER:  They're not exactly unified. The reptilians came after us on their own. They might decide to finish what they started.</td></tr>
 
-  ARCHER
-     Don't waste time on me.
+<tr id="L88"><td><a href="#L88">88</a></td><td>REED:  We've run out of moons to hide behind, but there is a cometary dust cloud not too far off.</td></tr>
 
-  PHLOX
-     It's good to see you again, Captain. (goes to tend
-     to others on biobeds)
+<tr id="L89"><td><a href="#L89">89</a></td><td>ARCHER:  T'Pol?</td></tr>
 
-  T'POL
-     Damage report. (hands over a PADD) We'll have
-     impulse power in six hours.
+<tr id="L90"><td><a href="#L90">90</a></td><td>T'POL:  The diamagnetic field should shield us from long range scans.</td></tr>
 
-  ANNOTATION
-     Archer stares at two bodies on the floor, covered
-     by blankets.
+<tr id="L91"><td><a href="#L91">91</a></td><td>ARCHER:  How far away is it?</td></tr>
 
-  T'POL
-     Aft torpedo launchers and one forward phase cannon
-     are online.
+<tr id="L92"><td><a href="#L92">92</a></td><td>CREWMAN [OC]:  Engineering to the Bridge. We just picked up a surge in the EPS grid on A deck.</td></tr>
 
-  ARCHER
-     Have Hoshi and Travis start analysing that pod.
+<tr id="L93"><td><a href="#L93">93</a></td><td>ANNOTATION: Bang! Everyone ducks and rubble lands on the central display console.</td></tr>
 
-  T'POL
-     Its configuration suggests it's aquatic.
+<tr id="L94"><td><a href="#L94">94</a></td><td>ARCHER:  Thanks for the warning. How far?</td></tr>
 
-  ARCHER
-     I was aboard one of their ships. That's the last
-     thing I remember.
+<tr id="L95"><td><a href="#L95">95</a></td><td>REED:  At present speed, about three days.</td></tr>
 
-  T'POL
-     Do you have any idea why they released you?
+<tr id="L96"><td><a href="#L96">96</a></td><td>ARCHER:  Set a course.</td></tr>
 
-  ARCHER
-     I think I may have gotten through to one of them.
-     Degra.
+<tr id="L97"><td><a href="#L97">97</a></td><td>TRAVIS:  Aye sir.</td></tr>
 
-  ANNOTATION
-     T'Pol hands him a towel. Her hand is shaking so he
-     holds it.
+<tr id="L98"><td><a href="#L98">98</a></td><td>TUCKER:  Instead of hiding, shouldn't we be looking for the weapon?</td></tr>
 
-  ARCHER
-     Thanks. Are you all right?
+<tr id="L99"><td><a href="#L99">99</a></td><td>T'POL:  Our sensors are still offline.</td></tr>
 
-  T'POL
-     I'm fine. I should help Lieutenant Reed with his
-     repairs.
+<tr id="L100"><td><a href="#L100">100</a></td><td>ARCHER:  Let's focus on getting ourselves operational. We can't mount a search with a ship coming down on our heads.</td></tr>
 
-  ANNOTATION
-     Her journey through the corridors however, has a
-     sound and vision distorted, horror film quality to
-     it. She gets to her quarters and bathes her face.
+<tr><td></td><td>LOCATION--Launch bay</td></tr>
+<tr id="L101"><td><a href="#L101">101</a></td><td>HOSHI:  I thought Insectoid was tough.</td></tr>
 
+<tr id="L102"><td><a href="#L102">102</a></td><td>TRAVIS:  Almost sounds like music.</td></tr>
 
-LOCATION--Situation room
+<tr id="L103"><td><a href="#L103">103</a></td><td>HOSHI:  My mother always wanted me to take piano lessons. I should have listened to her.</td></tr>
 
-  REED
-     They went to a lot of trouble to let you go. Do
-     you really think they'll attack us again?
+<tr id="L104"><td><a href="#L104">104</a></td><td>TRAVIS:  It's never too late. You can start when we get home. We're getting home.</td></tr>
 
-  ARCHER
-     They're not exactly unified. The reptilians came
-     after us on their own. They might decide to finish
-     what they started.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L105"><td><a href="#L105">105</a></td><td>TUCKER:  What makes you think we can trust this guy?</td></tr>
 
-  REED
-     We've run out of moons to hide behind, but there
-     is a cometary dust cloud not too far off.
+<tr id="L106"><td><a href="#L106">106</a></td><td>ARCHER:  Who?</td></tr>
 
-  ARCHER
-     T'Pol?
+<tr id="L107"><td><a href="#L107">107</a></td><td>TUCKER:  Degra. He seems like the last person who'd come around to our side. I mean, he designed the weapon.</td></tr>
 
-  T'POL
-     The diamagnetic field should shield us from long
-     range scans.
+<tr id="L108"><td><a href="#L108">108</a></td><td>ARCHER:  He may not be on our side, but I get the feeling he's starting to question his.</td></tr>
 
-  ARCHER
-     How far away is it?
+<tr id="L109"><td><a href="#L109">109</a></td><td>TUCKER:  Well, let's hope you're right. I think we're ready to fire this up. (Bang!) Maybe not.</td></tr>
 
-  CREWMAN [OC]
-     Engineering to the Bridge. We just picked up a
-     surge in the EPS grid on A deck.
+<tr id="L110"><td><a href="#L110">110</a></td><td>T'POL [OC]:  Bridge to Captain Archer.</td></tr>
 
-  ANNOTATION
-     Bang! Everyone ducks and rubble lands on the
-     central display console.
+<tr id="L111"><td><a href="#L111">111</a></td><td>ARCHER:  Go ahead.</td></tr>
 
-  ARCHER
-     Thanks for the warning. How far?
+<tr id="L112"><td><a href="#L112">112</a></td><td>T'POL [OC]:  There's an unidentified vessel approaching. They're asking for our assistance.</td></tr>
 
-  REED
-     At present speed, about three days.
+<tr id="L113"><td><a href="#L113">113</a></td><td>ARCHER:  Any details?</td></tr>
 
-  ARCHER
-     Set a course.
+<tr id="L114"><td><a href="#L114">114</a></td><td>T'POL [OC]:  Just that they've taken heavy damage.</td></tr>
 
-  TRAVIS
-     Aye sir.
+<tr id="L115"><td><a href="#L115">115</a></td><td>TUCKER:  Join the club.</td></tr>
 
-  TUCKER
-     Instead of hiding, shouldn't we be looking for the
-     weapon?
+<tr id="L116"><td><a href="#L116">116</a></td><td>ARCHER:  How long till they get here?</td></tr>
 
-  T'POL
-     Our sensors are still offline.
+<tr id="L117"><td><a href="#L117">117</a></td><td>T'POL [OC]:  Twelve minutes.</td></tr>
 
-  ARCHER
-     Let's focus on getting ourselves operational. We
-     can't mount a search with a ship coming down on
-     our heads.
+<tr id="L118"><td><a href="#L118">118</a></td><td>ARCHER:  Set a rendezvous course. Maybe we can help each other.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L119"><td><a href="#L119">119</a></td><td>REED:  They have minimal weapons, all powered down.</td></tr>
 
-LOCATION--Launch bay
+<tr id="L120"><td><a href="#L120">120</a></td><td>T'POL:  I'm detecting numerous spatial anomalies in the area.</td></tr>
 
-  HOSHI
-     I thought Insectoid was tough.
+<tr id="L121"><td><a href="#L121">121</a></td><td>ARCHER:  Can you get us through them?</td></tr>
 
-  TRAVIS
-     Almost sounds like music.
+<tr id="L122"><td><a href="#L122">122</a></td><td>T'POL:  I believe so.</td></tr>
 
-  HOSHI
-     My mother always wanted me to take piano lessons.
-     I should have listened to her.
+<tr id="L123"><td><a href="#L123">123</a></td><td>ARCHER:  Hail them. This is Captain Archer. We're responding to your distress call.</td></tr>
 
-  TRAVIS
-     It's never too late. You can start when we get
-     home. We're getting home.
+<tr id="L124"><td><a href="#L124">124</a></td><td>ILLYRIAN [OC]:  Thank you for coming, but be aware. This region contains dangerous spatial distortions.</td></tr>
 
+<tr id="L125"><td><a href="#L125">125</a></td><td>ARCHER:  We've run into them before.</td></tr>
 
-LOCATION--Engineering
+<tr id="L126"><td><a href="#L126">126</a></td><td>ILLYRIAN [OC]:  They've damaged our engines and life support. We would appreciate whatever assistance you can give us.</td></tr>
 
-  TUCKER
-     What makes you think we can trust this guy?
+<tr id="L127"><td><a href="#L127">127</a></td><td>ARCHER:  We'll see what we can do.</td></tr>
 
-  ARCHER
-     Who?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L128"><td><a href="#L128">128</a></td><td>ANNOTATION: The Illyrian ship is almost as big as Enterprise, and docked alongside.</td></tr>
 
-  TUCKER
-     Degra. He seems like the last person who'd come
-     around to our side. I mean, he designed the
-     weapon.
+<tr id="L129"><td><a href="#L129">129</a></td><td>ARCHER:  What brings you to this system?</td></tr>
 
-  ARCHER
-     He may not be on our side, but I get the feeling
-     he's starting to question his.
+<tr id="L130"><td><a href="#L130">130</a></td><td>ILLYRIAN:  (humanoid) Curiosity. We're studying the red giant. It's the first one we've had the opportunity to explore. We weren't prepared for these spatial anomalies as you call them. Seems you weren't either.</td></tr>
 
-  TUCKER
-     Well, let's hope you're right. I think we're ready
-     to fire this up. (Bang!) Maybe not.
+<tr id="L131"><td><a href="#L131">131</a></td><td>ARCHER:  Actually, this is all the result of combat.</td></tr>
 
-  T'POL [OC]
-     Bridge to Captain Archer.
+<tr id="L132"><td><a href="#L132">132</a></td><td>ILLYRIAN:  Combat?</td></tr>
 
-  ARCHER
-     Go ahead.
+<tr id="L133"><td><a href="#L133">133</a></td><td>ARCHER:  Have you heard of a species called the Xindi?</td></tr>
 
-  T'POL [OC]
-     There's an unidentified vessel approaching.
-     They're asking for our assistance.
+<tr id="L134"><td><a href="#L134">134</a></td><td>ILLYRIAN:  No. We're new to this region of space.</td></tr>
 
-  ARCHER
-     Any details?
+<tr id="L135"><td><a href="#L135">135</a></td><td>ARCHER:  Let's talk about your ship. We know a way to insulate against the anomalies. There's a substance called trellium-D.</td></tr>
 
-  T'POL [OC]
-     Just that they've taken heavy damage.
+<tr id="L136"><td><a href="#L136">136</a></td><td>ILLYRIAN:  I've heard of it. It's extremely rare.</td></tr>
 
-  TUCKER
-     Join the club.
+<tr id="L137"><td><a href="#L137">137</a></td><td>ARCHER:  I have sixty kilos sitting in my cargo bay.</td></tr>
 
-  ARCHER
-     How long till they get here?
+<tr id="L138"><td><a href="#L138">138</a></td><td>ILLYRIAN:  Perhaps we can work out some sort of trade.</td></tr>
 
-  T'POL [OC]
-     Twelve minutes.
+<tr id="L139"><td><a href="#L139">139</a></td><td>ARCHER:  That's what I had in mind.</td></tr>
 
-  ARCHER
-     Set a rendezvous course. Maybe we can help each
-     other.
+<tr id="L140"><td><a href="#L140">140</a></td><td>ILLYRIAN:  Given the condition of my vessel, I don't know what we can offer you.</td></tr>
 
+<tr id="L141"><td><a href="#L141">141</a></td><td>ARCHER:  Our warp engine is badly damaged.</td></tr>
 
-LOCATION--Bridge
+<tr id="L142"><td><a href="#L142">142</a></td><td>ILLYRIAN:  We could probably spare a few plasma injectors, maybe some antimatter.</td></tr>
 
-  REED
-     They have minimal weapons, all powered down.
+<tr id="L143"><td><a href="#L143">143</a></td><td>ARCHER:  I was thinking more along the lines of a warp coil.</td></tr>
 
-  T'POL
-     I'm detecting numerous spatial anomalies in the
-     area.
+<tr id="L144"><td><a href="#L144">144</a></td><td>ILLYRIAN:  I'm afraid that's one thing we can't spare.</td></tr>
 
-  ARCHER
-     Can you get us through them?
+<tr id="L145"><td><a href="#L145">145</a></td><td>ARCHER:  Maybe we can make it worth your while. We have certain technology that you'd probably find useful.</td></tr>
 
-  T'POL
-     I believe so.
+<tr id="L146"><td><a href="#L146">146</a></td><td>ILLYRIAN:  Without a warp coil, the journey back to our system would take three years. We're not equipped for a voyage of that length.</td></tr>
 
-  ARCHER
-     Hail them. This is Captain Archer. We're
-     responding to your distress call.
+<tr id="L147"><td><a href="#L147">147</a></td><td>ARCHER:  The Xindi have already wiped out seven million of my people. Now they're building a weapon to destroy our entire world. I have to stop them. Without warp drive, I won't succeed.</td></tr>
 
-  ILLYRIAN [OC]
-     Thank you for coming, but be aware. This region
-     contains dangerous spatial distortions.
+<tr id="L148"><td><a href="#L148">148</a></td><td>ILLYRIAN:  I sympathise, Captain. I will help you in any other way, but I won't jeopardize the lives of my crew. I'm sorry.</td></tr>
 
-  ARCHER
-     We've run into them before.
+<tr id="L149"><td><a href="#L149">149</a></td><td>ANNOTATION: The Illyrian ship flies off.</td></tr>
 
-  ILLYRIAN [OC]
-     They've damaged our engines and life support. We
-     would appreciate whatever assistance you can give
-     us.
+<tr id="L150"><td><a href="#L150">150</a></td><td>ANNOTATION: T'Pol dreams that she and Tucker are kissing passionately in the shower, when she turns into a Zombie Vulcan from 'Impulse' and attacks him. She wakes up distressed, gets an environment suit and heads off through the vacuum of E deck to a very wrecked Cargo Bay two. She falls trying to get to the lower level and her air supply disconnects. Panicking, she manages to reconnect it and then goes to the trellium-D storage box. She removes some rocks from a canister near the bottom. In the lab, she turns the rock into liquid and injects herself with it.</td></tr>
 
-  ARCHER
-     We'll see what we can do.
+<tr><td></td><td>LOCATION--Shuttle bay</td></tr>
+<tr id="L151"><td><a href="#L151">151</a></td><td>TRAVIS:  The escape pod can manoeuvre underwater. Aside from that, nothing out of the ordinary.</td></tr>
 
+<tr id="L152"><td><a href="#L152">152</a></td><td>HOSHI:  I've gone through the databanks. Just your standard navigational operational files, but I did find one document. An engineer asking his supervisors for additional parts. Here's a translation.</td></tr>
 
-LOCATION--Corridor
+<tr id="L153"><td><a href="#L153">153</a></td><td>ARCHER:  The names of these supervisors. Piral, Jaina, Trenia.</td></tr>
 
-  ANNOTATION
-     The Illyrian ship is almost as big as Enterprise,
-     and docked alongside.
+<tr id="L154"><td><a href="#L154">154</a></td><td>HOSHI:  The names of Degra's children.</td></tr>
 
-  ARCHER
-     What brings you to this system?
+<tr><td></td><td>LOCATION--Command centre</td></tr>
+<tr id="L155"><td><a href="#L155">155</a></td><td>T'POL:  I discovered a set of coordinates embedded in the document.</td></tr>
 
-  ILLYRIAN
-     (humanoid) Curiosity. We're studying the red
-     giant. It's the first one we've had the
-     opportunity to explore. We weren't prepared for
-     these spatial anomalies as you call them. Seems
-     you weren't either.
+<tr id="L156"><td><a href="#L156">156</a></td><td>ARCHER:  It's not a star system.</td></tr>
 
-  ARCHER
-     Actually, this is all the result of combat.
+<tr id="L157"><td><a href="#L157">157</a></td><td>T'POL:  There was another embedded number. A stardate, three days from now.</td></tr>
 
-  ILLYRIAN
-     Combat?
+<tr id="L158"><td><a href="#L158">158</a></td><td>ARCHER:  How far away are the coordinates?</td></tr>
 
-  ARCHER
-     Have you heard of a species called the Xindi?
+<tr id="L159"><td><a href="#L159">159</a></td><td>T'POL:  Four light years. We'll need at least warp three to make it in time. It's unlikely that Degra will wait beyond three days.</td></tr>
 
-  ILLYRIAN
-     No. We're new to this region of space.
+<tr><td></td><td>LOCATION--Archer's quarters</td></tr>
+<tr id="L160"><td><a href="#L160">160</a></td><td>PHLOX:  (putting Porthos down) He's all yours. He was the perfect house guest, as usual. You'll be happy to know that I discharged Ensign Ansara this morning, and Corporal O'Malley will be returning to duty this afternoon. Captain?</td></tr>
 
-  ARCHER
-     Let's talk about your ship. We know a way to
-     insulate against the anomalies. There's a
-     substance called trellium-D.
+<tr id="L161"><td><a href="#L161">161</a></td><td>ARCHER:  It's hard to imagine that we'll ever get this ship back to the way it was.</td></tr>
 
-  ILLYRIAN
-     I've heard of it. It's extremely rare.
+<tr id="L162"><td><a href="#L162">162</a></td><td>PHLOX:  It's a simple matter of repairs. Well, perhaps not that simple. Somehow, I don't think it's the damage to Enterprise that's troubling you.</td></tr>
 
-  ARCHER
-     I have sixty kilos sitting in my cargo bay.
+<tr id="L163"><td><a href="#L163">163</a></td><td>ARCHER:  How long have you been a doctor?</td></tr>
 
-  ILLYRIAN
-     Perhaps we can work out some sort of trade.
+<tr id="L164"><td><a href="#L164">164</a></td><td>PHLOX:  Nearly forty years.</td></tr>
 
-  ARCHER
-     That's what I had in mind.
+<tr id="L165"><td><a href="#L165">165</a></td><td>ARCHER:  And in all that time, did you ever do anything you thought was unethical?</td></tr>
 
-  ILLYRIAN
-     Given the condition of my vessel, I don't know
-     what we can offer you.
+<tr id="L166"><td><a href="#L166">166</a></td><td>PHLOX:  Twice. Why?</td></tr>
 
-  ARCHER
-     Our warp engine is badly damaged.
+<tr id="L167"><td><a href="#L167">167</a></td><td>ARCHER:  I'm about to step over a line, a line I thought I would never cross. And given the nature of our mission, it probably won't be the last.</td></tr>
 
-  ILLYRIAN
-     We could probably spare a few plasma injectors,
-     maybe some antimatter.
+<tr id="L168"><td><a href="#L168">168</a></td><td>PHLOX:  Probably not. May I ask what you're planning to do?</td></tr>
 
-  ARCHER
-     I was thinking more along the lines of a warp
-     coil.
+<tr id="L169"><td><a href="#L169">169</a></td><td>ARCHER:  There could be more casualties.</td></tr>
 
-  ILLYRIAN
-     I'm afraid that's one thing we can't spare.
+<tr id="L170"><td><a href="#L170">170</a></td><td>PHLOX:  I'll be ready.</td></tr>
 
-  ARCHER
-     Maybe we can make it worth your while. We have
-     certain technology that you'd probably find
-     useful.
+<tr><td></td><td>LOCATION--Armoury</td></tr>
+<tr id="L171"><td><a href="#L171">171</a></td><td>ARCHER:  Put together an armed boarding party.</td></tr>
 
-  ILLYRIAN
-     Without a warp coil, the journey back to our
-     system would take three years. We're not equipped
-     for a voyage of that length.
+<tr id="L172"><td><a href="#L172">172</a></td><td>REED:  Who are we boarding, sir?</td></tr>
 
-  ARCHER
-     The Xindi have already wiped out seven million of
-     my people. Now they're building a weapon to
-     destroy our entire world. I have to stop them.
-     Without warp drive, I won't succeed.
+<tr id="L173"><td><a href="#L173">173</a></td><td>ARCHER:  The alien ship we docked with.</td></tr>
 
-  ILLYRIAN
-     I sympathise, Captain. I will help you in any
-     other way, but I won't jeopardize the lives of my
-     crew. I'm sorry.
+<tr id="L174"><td><a href="#L174">174</a></td><td>REED:  I don't understand.</td></tr>
 
-  ANNOTATION
-     The Illyrian ship flies off.
+<tr id="L175"><td><a href="#L175">175</a></td><td>ARCHER:  We need their warp coil. They won't give it to us, so we're going to have to take it.</td></tr>
 
-  ANNOTATION
-     T'Pol dreams that she and Tucker are kissing
-     passionately in the shower, when she turns into a
-     Zombie Vulcan from 'Impulse' and attacks him. She
-     wakes up distressed, gets an environment suit and
-     heads off through the vacuum of E deck to a very
-     wrecked Cargo Bay two. She falls trying to get to
-     the lower level and her air supply disconnects.
-     Panicking, she manages to reconnect it and then
-     goes to the trellium-D storage box. She removes
-     some rocks from a canister near the bottom. In the
-     lab, she turns the rock into liquid and injects
-     herself with it.
+<tr id="L176"><td><a href="#L176">176</a></td><td>REED:  Captain.</td></tr>
 
+<tr id="L177"><td><a href="#L177">177</a></td><td>ARCHER:  Get your men together!</td></tr>
 
-LOCATION--Shuttle bay
+<tr><td></td><td>LOCATION--Xindi Council Chamber</td></tr>
+<tr id="L178"><td><a href="#L178">178</a></td><td>ANNOTATION: A pale, bald humanoid female keeps flickering in and out.</td></tr>
 
-  TRAVIS
-     The escape pod can manoeuvre underwater. Aside
-     from that, nothing out of the ordinary.
+<tr id="L179"><td><a href="#L179">179</a></td><td>BUILDER:  Where are the other members of the Council?</td></tr>
 
-  HOSHI
-     I've gone through the databanks. Just your
-     standard navigational operational files, but I did
-     find one document. An engineer asking his
-     supervisors for additional parts. Here's a
-     translation.
+<tr id="L180"><td><a href="#L180">180</a></td><td>HUMANOID:  We didn't want them here.</td></tr>
 
-  ARCHER
-     The names of these supervisors. Piral, Jaina,
-     Trenia.
+<tr id="L181"><td><a href="#L181">181</a></td><td>BUILDER:  Why?</td></tr>
 
-  HOSHI
-     The names of Degra's children.
+<tr id="L182"><td><a href="#L182">182</a></td><td>ARBOREAL:  We've learned something about the reptilians that concerns us.</td></tr>
 
+<tr id="L183"><td><a href="#L183">183</a></td><td>BUILDER:  There's distrust amongst you.</td></tr>
 
-LOCATION--Command centre
+<tr id="L184"><td><a href="#L184">184</a></td><td>ARBOREAL:  You can help alleviate it.</td></tr>
 
-  T'POL
-     I discovered a set of coordinates embedded in the
-     document.
+<tr id="L185"><td><a href="#L185">185</a></td><td>BUILDER:  Continue.</td></tr>
 
-  ARCHER
-     It's not a star system.
+<tr id="L186"><td><a href="#L186">186</a></td><td>DEGRA:  We were told the reptilians attempted to build a bioweapon.</td></tr>
 
-  T'POL
-     There was another embedded number. A stardate,
-     three days from now.
+<tr id="L187"><td><a href="#L187">187</a></td><td>BUILDER:  Who told you this?</td></tr>
 
-  ARCHER
-     How far away are the coordinates?
+<tr id="L188"><td><a href="#L188">188</a></td><td>HUMANOID:  We've also learned that they were building this bioweapon in the past, on Earth.</td></tr>
 
-  T'POL
-     Four light years. We'll need at least warp three
-     to make it in time. It's unlikely that Degra will
-     wait beyond three days.
+<tr id="L189"><td><a href="#L189">189</a></td><td>DEGRA:  As far as we're aware, reptilians don't possess the technology for time travel.</td></tr>
 
+<tr id="L190"><td><a href="#L190">190</a></td><td>BUILDER:  You want to know if they had my help.</td></tr>
 
-LOCATION--Archer's quarters
+<tr id="L191"><td><a href="#L191">191</a></td><td>DEGRA:  Did they?</td></tr>
 
-  PHLOX
-     (putting Porthos down) He's all yours. He was the
-     perfect house guest, as usual. You'll be happy to
-     know that I discharged Ensign Ansara this morning,
-     and Corporal O'Malley will be returning to duty
-     this afternoon. Captain?
+<tr id="L192"><td><a href="#L192">192</a></td><td>BUILDER:  Yes. After you prohibited them from constructing the bioweapon, the reptilians and the insectoids were prepared to withdraw from the Council. I assisted them so the Council would remain unified.</td></tr>
 
-  ARCHER
-     It's hard to imagine that we'll ever get this ship
-     back to the way it was.
+<tr id="L193"><td><a href="#L193">193</a></td><td>DEGRA:  You helped them to circumvent our authority.</td></tr>
 
-  PHLOX
-     It's a simple matter of repairs. Well, perhaps not
-     that simple. Somehow, I don't think it's the
-     damage to Enterprise that's troubling you.
+<tr id="L194"><td><a href="#L194">194</a></td><td>BUILDER:  I protected your authority by keeping the Council intact.</td></tr>
 
-  ARCHER
-     How long have you been a doctor?
+<tr id="L195"><td><a href="#L195">195</a></td><td>DEGRA:  What happened to the bioweapon?</td></tr>
 
-  PHLOX
-     Nearly forty years.
+<tr id="L196"><td><a href="#L196">196</a></td><td>BUILDER:  It was never completed, and the three reptilians were never found.</td></tr>
 
-  ARCHER
-     And in all that time, did you ever do anything you
-     thought was unethical?
+<tr id="L197"><td><a href="#L197">197</a></td><td>ARBOREAL:  You can't locate them.</td></tr>
 
-  PHLOX
-     Twice. Why?
+<tr id="L198"><td><a href="#L198">198</a></td><td>BUILDER:  There are limits to what we can do in your realm.</td></tr>
 
-  ARCHER
-     I'm about to step over a line, a line I thought I
-     would never cross. And given the nature of our
-     mission, it probably won't be the last.
+<tr id="L199"><td><a href="#L199">199</a></td><td>DEGRA:  It seems you can do more than we thought. Is it true your species built the Spheres?</td></tr>
 
-  PHLOX
-     Probably not. May I ask what you're planning to
-     do?
+<tr id="L200"><td><a href="#L200">200</a></td><td>BUILDER:  What makes you think you can subject me to this interrogation? If it weren't for my assistance, your species would be facing destruction.</td></tr>
 
-  ARCHER
-     There could be more casualties.
+<tr id="L201"><td><a href="#L201">201</a></td><td>ARBOREAL:  We're grateful for the help that you've given us.</td></tr>
 
-  PHLOX
-     I'll be ready.
+<tr id="L202"><td><a href="#L202">202</a></td><td>BUILDER:  Then prove it. Focus on the task at hand. The weapon is nearly complete. If you permit yourselves to become distracted, you'll fail to destroy your real enemy. The enemy of all Xindi. Don't summon me again unless every member of the Council is present. I won't help fuel your internal bickering.</td></tr>
 
+<tr id="L203"><td><a href="#L203">203</a></td><td>ANNOTATION: She vanishes.</td></tr>
 
-LOCATION--Armoury
+<tr id="L204"><td><a href="#L204">204</a></td><td>HUMANOID:  You don't believe her.</td></tr>
 
-  ARCHER
-     Put together an armed boarding party.
+<tr id="L205"><td><a href="#L205">205</a></td><td>DEGRA:  Do you?</td></tr>
 
-  REED
-     Who are we boarding, sir?
+<tr id="L206"><td><a href="#L206">206</a></td><td>HUMANOID:  Why should we take Archer's word over hers?</td></tr>
 
-  ARCHER
-     The alien ship we docked with.
+<tr id="L207"><td><a href="#L207">207</a></td><td>DEGRA:  Because Archer offered something she hasn't. Proof.</td></tr>
 
-  REED
-     I don't understand.
+<tr><td></td><td>LOCATION--Situation room</td></tr>
+<tr id="L208"><td><a href="#L208">208</a></td><td>REED:  Under normal circumstances they'd be no match for us, but we've sustained a lot more damage than they have. This could be risky.</td></tr>
 
-  ARCHER
-     We need their warp coil. They won't give it to us,
-     so we're going to have to take it.
+<tr id="L209"><td><a href="#L209">209</a></td><td>TUCKER:  One lucky shot to our starboard nacelle</td></tr>
 
-  REED
-     Captain.
+<tr id="L210"><td><a href="#L210">210</a></td><td>ARCHER:  Let's make sure they don't get any lucky shots.</td></tr>
 
-  ARCHER
-     Get your men together!
+<tr id="L211"><td><a href="#L211">211</a></td><td>TRAVIS:  Why don't we just transport their warp coil to Enterprise?</td></tr>
 
+<tr id="L212"><td><a href="#L212">212</a></td><td>TUCKER:  It's tied into their injector system. If we use the transporter, we'd destroy their engines. I've got to get in there, decouple it by hand.</td></tr>
 
-LOCATION--Xindi Council Chamber
+<tr id="L213"><td><a href="#L213">213</a></td><td>REED:  How long?</td></tr>
 
-  ANNOTATION
-     A pale, bald humanoid female keeps flickering in
-     and out.
+<tr id="L214"><td><a href="#L214">214</a></td><td>TUCKER:  Ten minutes, give or take. Can't tell for sure until I see it.</td></tr>
 
-  BUILDER
-     Where are the other members of the Council?
+<tr id="L215"><td><a href="#L215">215</a></td><td>REED:  If they fight back, ten minutes could be a very long time.</td></tr>
 
-  HUMANOID
-     We didn't want them here.
+<tr id="L216"><td><a href="#L216">216</a></td><td>T'POL:  Perhaps we should reconsider negotiation.</td></tr>
 
-  BUILDER
-     Why?
+<tr id="L217"><td><a href="#L217">217</a></td><td>ARCHER:  We can't risk tipping them off. We have to take them by surprise. That'll reduce the losses on both sides. We'll disable their ship as quickly as we can, beam over, extract the warp coil and get out, hopefully without any casualties. Set a course.</td></tr>
 
-  ARBOREAL
-     We've learned something about the reptilians that
-     concerns us.
+<tr id="L218"><td><a href="#L218">218</a></td><td>T'POL:  Can I have a word with you?</td></tr>
 
-  BUILDER
-     There's distrust amongst you.
+<tr id="L219"><td><a href="#L219">219</a></td><td>ARCHER:  Not right now.</td></tr>
 
-  ARBOREAL
-     You can help alleviate it.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L220"><td><a href="#L220">220</a></td><td>ANNOTATION: Archer has to push open the door manually.</td></tr>
 
-  BUILDER
-     Continue.
+<tr id="L221"><td><a href="#L221">221</a></td><td>ARCHER:  If I had another option, I'd take it.</td></tr>
 
-  DEGRA
-     We were told the reptilians attempted to build a
-     bioweapon.
+<tr id="L222"><td><a href="#L222">222</a></td><td>T'POL:  We are no different than the marauders who attacked us when we entered the Expanse.</td></tr>
 
-  BUILDER
-     Who told you this?
+<tr id="L223"><td><a href="#L223">223</a></td><td>ARCHER:  We're a lot different.</td></tr>
 
-  HUMANOID
-     We've also learned that they were building this
-     bioweapon in the past, on Earth.
+<tr id="L224"><td><a href="#L224">224</a></td><td>T'POL:  By stealing their warp coil we could be condemning them to death.</td></tr>
 
-  DEGRA
-     As far as we're aware, reptilians don't possess
-     the technology for time travel.
+<tr id="L225"><td><a href="#L225">225</a></td><td>ARCHER:  We're going to leave them a supply of trellium, along with some extra food. I'm not saying it'll be easy for them, but they'll stand a decent chance of making it home.</td></tr>
 
-  BUILDER
-     You want to know if they had my help.
+<tr id="L226"><td><a href="#L226">226</a></td><td>T'POL:  You're forgetting that we're in a dangerous region of space. Our assault could cripple their ability to defend themselves.</td></tr>
 
-  DEGRA
-     Did they?
+<tr id="L227"><td><a href="#L227">227</a></td><td>ARCHER:  Not if we do it right.</td></tr>
 
-  BUILDER
-     Yes. After you prohibited them from constructing
-     the bioweapon, the reptilians and the insectoids
-     were prepared to withdraw from the Council. I
-     assisted them so the Council would remain unified.
+<tr id="L228"><td><a href="#L228">228</a></td><td>T'POL:  And what if something goes wrong?</td></tr>
 
-  DEGRA
-     You helped them to circumvent our authority.
+<tr id="L229"><td><a href="#L229">229</a></td><td>ARCHER:  We can debate this all day. I've made my decision.</td></tr>
 
-  BUILDER
-     I protected your authority by keeping the Council
-     intact.
+<tr id="L230"><td><a href="#L230">230</a></td><td>T'POL:  We can't save humanity without holding on to what makes us human. Those were your words to me.</td></tr>
 
-  DEGRA
-     What happened to the bioweapon?
+<tr id="L231"><td><a href="#L231">231</a></td><td>ARCHER:  I'm no happier doing this than you are, but we're not going to make a habit of it.</td></tr>
 
-  BUILDER
-     It was never completed, and the three reptilians
-     were never found.
+<tr id="L232"><td><a href="#L232">232</a></td><td>T'POL:  Once you rationalise the first mis-step, it's easy to fall into a pattern of behaviour.</td></tr>
 
-  ARBOREAL
-     You can't locate them.
+<tr id="L233"><td><a href="#L233">233</a></td><td>ARCHER:  I'm not rationalising anything. I know full well what I'm doing.</td></tr>
 
-  BUILDER
-     There are limits to what we can do in your realm.
+<tr id="L234"><td><a href="#L234">234</a></td><td>T'POL:  I can't justify this course of action.</td></tr>
 
-  DEGRA
-     It seems you can do more than we thought. Is it
-     true your species built the Spheres?
+<tr id="L235"><td><a href="#L235">235</a></td><td>ARCHER:  We don't have a choice.</td></tr>
 
-  BUILDER
-     What makes you think you can subject me to this
-     interrogation? If it weren't for my assistance,
-     your species would be facing destruction.
+<tr id="L236"><td><a href="#L236">236</a></td><td>T'POL:  I won't let you do it!</td></tr>
 
-  ARBOREAL
-     We're grateful for the help that you've given us.
+<tr id="L237"><td><a href="#L237">237</a></td><td>ANNOTATION: She smashesher PADD against the edge of his deck.</td></tr>
 
-  BUILDER
-     Then prove it. Focus on the task at hand. The
-     weapon is nearly complete. If you permit
-     yourselves to become distracted, you'll fail to
-     destroy your real enemy. The enemy of all Xindi.
-     Don't summon me again unless every member of the
-     Council is present. I won't help fuel your
-     internal bickering.
+<tr id="L238"><td><a href="#L238">238</a></td><td>ARCHER:  We've had our share of disagreements, but you've never taken it out on my desk before.</td></tr>
 
-  ANNOTATION
-     She vanishes.
+<tr id="L239"><td><a href="#L239">239</a></td><td>T'POL:  I apologise.</td></tr>
 
-  HUMANOID
-     You don't believe her.
+<tr id="L240"><td><a href="#L240">240</a></td><td>ARCHER:  What's happening to you?</td></tr>
 
-  DEGRA
-     Do you?
+<tr id="L241"><td><a href="#L241">241</a></td><td>T'POL:  It's been a difficult few days. I haven't had the time to meditate.</td></tr>
 
-  HUMANOID
-     Why should we take Archer's word over hers?
+<tr id="L242"><td><a href="#L242">242</a></td><td>ARCHER:  Maybe you should find the time.</td></tr>
 
-  DEGRA
-     Because Archer offered something she hasn't.
-     Proof.
+<tr id="L243"><td><a href="#L243">243</a></td><td>T'POL:  I didn't mean what I said.</td></tr>
 
+<tr id="L244"><td><a href="#L244">244</a></td><td>ARCHER:  I'm glad to hear it. I'll be leading the boarding party. There's no margin for error. If we don't do this right, people are going to die. We need you on the Bridge.</td></tr>
 
-LOCATION--Situation room
+<tr id="L245"><td><a href="#L245">245</a></td><td>T'POL:  Understood.</td></tr>
 
-  REED
-     Under normal circumstances they'd be no match for
-     us, but we've sustained a lot more damage than
-     they have. This could be risky.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L246"><td><a href="#L246">246</a></td><td>T'POL:  Doctor.</td></tr>
 
-  TUCKER
-     One lucky shot to our starboard nacelle
+<tr id="L247"><td><a href="#L247">247</a></td><td>PHLOX:  Yes, this will just take a moment.</td></tr>
 
-  ARCHER
-     Let's make sure they don't get any lucky shots.
+<tr id="L248"><td><a href="#L248">248</a></td><td>ANNOTATION: T'Pol grabs his arm.</td></tr>
 
-  TRAVIS
-     Why don't we just transport their warp coil to
-     Enterprise?
+<tr id="L249"><td><a href="#L249">249</a></td><td>PHLOX:  What is it?</td></tr>
 
-  TUCKER
-     It's tied into their injector system. If we use
-     the transporter, we'd destroy their engines. I've
-     got to get in there, decouple it by hand.
+<tr id="L250"><td><a href="#L250">250</a></td><td>ANNOTATION: After examining her.</td></tr>
 
-  REED
-     How long?
+<tr id="L251"><td><a href="#L251">251</a></td><td>PHLOX:  There's a good deal of residual trellium in your bloodstream. How long have you been doing this?</td></tr>
 
-  TUCKER
-     Ten minutes, give or take. Can't tell for sure
-     until I see it.
+<tr id="L252"><td><a href="#L252">252</a></td><td>T'POL:  Three months.</td></tr>
 
-  REED
-     If they fight back, ten minutes could be a very
-     long time.
+<tr id="L253"><td><a href="#L253">253</a></td><td>PHLOX:  I need to know precisely what has been happening.</td></tr>
 
-  T'POL
-     Perhaps we should reconsider negotiation.
+<tr id="L254"><td><a href="#L254">254</a></td><td>T'POL:  When I was exposed to trellium aboard the Seleya, it affected me in a way that I wasn't prepared for.</td></tr>
 
-  ARCHER
-     We can't risk tipping them off. We have to take
-     them by surprise. That'll reduce the losses on
-     both sides. We'll disable their ship as quickly as
-     we can, beam over, extract the warp coil and get
-     out, hopefully without any casualties. Set a
-     course.
+<tr id="L255"><td><a href="#L255">255</a></td><td>PHLOX:  As I recall, you were homicidal and paranoid.</td></tr>
 
-  T'POL
-     Can I have a word with you?
+<tr id="L256"><td><a href="#L256">256</a></td><td>T'POL:  The initial effects were overwhelming, but as they began to wear off I discovered I was able to access certain emotions. I wanted more. I began to experiment by ingesting small amounts of trellium. I devised a way to inject it into my bloodstream.</td></tr>
 
-  ARCHER
-     Not right now.
+<tr id="L257"><td><a href="#L257">257</a></td><td>PHLOX:  You must have known it was dangerous. Trellium exposure is deadly to Vulcans. It eats away at the neural pathways.</td></tr>
 
+<tr id="L258"><td><a href="#L258">258</a></td><td>T'POL:  I thought, in small amounts, it would be safe. At first, I was able to control the new emotions. My interactions with the crew improved.</td></tr>
 
-LOCATION--Ready room
+<tr id="L259"><td><a href="#L259">259</a></td><td>PHLOX:  Commander Tucker, for example. When did you realise you were becoming addicted?</td></tr>
 
-  ANNOTATION
-     Archer has to push open the door manually.
+<tr id="L260"><td><a href="#L260">260</a></td><td>T'POL:  Two days ago. The damage to E deck made it impossible to access the cargo bay. I began experiencing agitation, anxiety, withdrawal symptoms.</td></tr>
 
-  ARCHER
-     If I had another option, I'd take it.
+<tr id="L261"><td><a href="#L261">261</a></td><td>PHLOX:  You're not experiencing them now.</td></tr>
 
-  T'POL
-     We are no different than the marauders who
-     attacked us when we entered the Expanse.
+<tr id="L262"><td><a href="#L262">262</a></td><td>T'POL:  I was able to retrieve the trellium. I was almost killed in the process.</td></tr>
 
-  ARCHER
-     We're a lot different.
+<tr id="L263"><td><a href="#L263">263</a></td><td>PHLOX:  This will help stabilise your synaptic pathways, but the withdrawal symptoms will return in a few days. It's going to take time. It won't be easy.</td></tr>
 
-  T'POL
-     By stealing their warp coil we could be condemning
-     them to death.
+<tr id="L264"><td><a href="#L264">264</a></td><td>T'POL:  I understand.</td></tr>
 
-  ARCHER
-     We're going to leave them a supply of trellium,
-     along with some extra food. I'm not saying it'll
-     be easy for them, but they'll stand a decent
-     chance of making it home.
+<tr id="L265"><td><a href="#L265">265</a></td><td>ARCHER [OC]:  Archer to T'Pol.</td></tr>
 
-  T'POL
-     You're forgetting that we're in a dangerous region
-     of space. Our assault could cripple their ability
-     to defend themselves.
+<tr id="L266"><td><a href="#L266">266</a></td><td>T'POL:  Go ahead.</td></tr>
 
-  ARCHER
-     Not if we do it right.
+<tr id="L267"><td><a href="#L267">267</a></td><td>ARCHER [OC]:  We're approaching the vessel. Report to the Bridge.</td></tr>
 
-  T'POL
-     And what if something goes wrong?
+<tr id="L268"><td><a href="#L268">268</a></td><td>T'POL:  I'm on my way.</td></tr>
 
-  ARCHER
-     We can debate this all day. I've made my decision.
+<tr id="L269"><td><a href="#L269">269</a></td><td>PHLOX:  You should remain here for observation.</td></tr>
 
-  T'POL
-     We can't save humanity without holding on to what
-     makes us human. Those were your words to me.
+<tr id="L270"><td><a href="#L270">270</a></td><td>T'POL:  The Captain needs me. I have to go.</td></tr>
 
-  ARCHER
-     I'm no happier doing this than you are, but we're
-     not going to make a habit of it.
+<tr id="L271"><td><a href="#L271">271</a></td><td>PHLOX:  I expect you to report back here at the first sign of trouble.</td></tr>
 
-  T'POL
-     Once you rationalise the first mis-step, it's easy
-     to fall into a pattern of behaviour.
+<tr id="L272"><td><a href="#L272">272</a></td><td>T'POL:  Are you going to discuss this with the Captain?</td></tr>
 
-  ARCHER
-     I'm not rationalising anything. I know full well
-     what I'm doing.
+<tr id="L273"><td><a href="#L273">273</a></td><td>PHLOX:  This is between you and your doctor.</td></tr>
 
-  T'POL
-     I can't justify this course of action.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L274"><td><a href="#L274">274</a></td><td>T'POL:  Good luck.</td></tr>
 
-  ARCHER
-     We don't have a choice.
+<tr id="L275"><td><a href="#L275">275</a></td><td>ARCHER:  You have the Bridge.</td></tr>
 
-  T'POL
-     I won't let you do it!
+<tr id="L276"><td><a href="#L276">276</a></td><td>T'POL:  Stand by weapons.</td></tr>
 
-  ANNOTATION
-     She smashesher PADD against the edge of his deck.
+<tr><td></td><td>LOCATION--Illyrian Engineering</td></tr>
+<tr id="L277"><td><a href="#L277">277</a></td><td>ILLYRIAN:  Run another test. If it doesn't hold, we'll have to bypass the entire assembly. (comm. beeps) What is it?</td></tr>
 
-  ARCHER
-     We've had our share of disagreements, but you've
-     never taken it out on my desk before.
+<tr id="L278"><td><a href="#L278">278</a></td><td>CREW [OC]:  Sir, there's a vessel approaching. It's the Earth ship.</td></tr>
 
-  T'POL
-     I apologise.
+<tr id="L279"><td><a href="#L279">279</a></td><td>ILLYRIAN:  Have you contacted them?</td></tr>
 
-  ARCHER
-     What's happening to you?
+<tr id="L280"><td><a href="#L280">280</a></td><td>CREW [OC]:  They're not responding.</td></tr>
 
-  T'POL
-     It's been a difficult few days. I haven't had the
-     time to meditate.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L281"><td><a href="#L281">281</a></td><td>HOSHI:  They're still hailing us.</td></tr>
 
-  ARCHER
-     Maybe you should find the time.
+<tr id="L282"><td><a href="#L282">282</a></td><td>TRAVIS:  Two hundred kilometres.</td></tr>
 
-  T'POL
-     I didn't mean what I said.
+<tr id="L283"><td><a href="#L283">283</a></td><td>T'POL:  Target their propulsion systems.</td></tr>
 
-  ARCHER
-     I'm glad to hear it. I'll be leading the boarding
-     party. There's no margin for error. If we don't do
-     this right, people are going to die. We need you
-     on the Bridge.
+<tr id="L284"><td><a href="#L284">284</a></td><td>REED:  Aye.</td></tr>
 
-  T'POL
-     Understood.
+<tr id="L285"><td><a href="#L285">285</a></td><td>T'POL:  Fire.</td></tr>
 
+<tr id="L286"><td><a href="#L286">286</a></td><td>REED:  (after three phase cannon shots) Their warp drive's offline. They're charging weapons.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L287"><td><a href="#L287">287</a></td><td>T'POL:  Bridge to transporter.</td></tr>
 
-  T'POL
-     Doctor.
+<tr id="L288"><td><a href="#L288">288</a></td><td>REED:  They're firing.</td></tr>
 
-  PHLOX
-     Yes, this will just take a moment.
+<tr id="L289"><td><a href="#L289">289</a></td><td>T'POL:  Energise.</td></tr>
 
-  ANNOTATION
-     T'Pol grabs his arm.
+<tr><td></td><td>LOCATION--Illyrian Engineering</td></tr>
+<tr id="L290"><td><a href="#L290">290</a></td><td>ANNOTATION: The boarding party appear and there's a gun fight between the MACOs and the Illyrians whilst the two ships tussle it out as well.</td></tr>
 
-  PHLOX
-     What is it?
+<tr id="L291"><td><a href="#L291">291</a></td><td>TUCKER:  That's the access port.</td></tr>
 
-  ANNOTATION
-     After examining her.
+<tr id="L292"><td><a href="#L292">292</a></td><td>ARCHER:  Stun grenade. (bang) Go!</td></tr>
 
-  PHLOX
-     There's a good deal of residual trellium in your
-     bloodstream. How long have you been doing this?
+<tr id="L293"><td><a href="#L293">293</a></td><td>ANNOTATION: Tucker and a MACO head up an access tube.</td></tr>
 
-  T'POL
-     Three months.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L294"><td><a href="#L294">294</a></td><td>REED:  Their weapons are at fifty percent.</td></tr>
 
-  PHLOX
-     I need to know precisely what has been happening.
+<tr id="L295"><td><a href="#L295">295</a></td><td>HOSHI:  We have another hull breach, on E deck.</td></tr>
 
-  T'POL
-     When I was exposed to trellium aboard the Seleya,
-     it affected me in a way that I wasn't prepared
-     for.
+<tr id="L296"><td><a href="#L296">296</a></td><td>TRAVIS:  Our port thrusters are offline.</td></tr>
 
-  PHLOX
-     As I recall, you were homicidal and paranoid.
+<tr id="L297"><td><a href="#L297">297</a></td><td>REED:  We have to take out their weapons!</td></tr>
 
-  T'POL
-     The initial effects were overwhelming, but as they
-     began to wear off I discovered I was able to
-     access certain emotions. I wanted more. I began to
-     experiment by ingesting small amounts of trellium.
-     I devised a way to inject it into my bloodstream.
+<tr id="L298"><td><a href="#L298">298</a></td><td>T'POL:  We can't leave them defenceless.</td></tr>
 
-  PHLOX
-     You must have known it was dangerous. Trellium
-     exposure is deadly to Vulcans. It eats away at the
-     neural pathways.
+<tr id="L299"><td><a href="#L299">299</a></td><td>REED:  If we want to get through this in one piece, we may have no choice.</td></tr>
 
-  T'POL
-     I thought, in small amounts, it would be safe. At
-     first, I was able to control the new emotions. My
-     interactions with the crew improved.
+<tr id="L300"><td><a href="#L300">300</a></td><td>T'POL:  The Captain's orders.</td></tr>
 
-  PHLOX
-     Commander Tucker, for example. When did you
-     realise you were becoming addicted?
+<tr><td></td><td>LOCATION--Illyrian warp assembly</td></tr>
+<tr id="L301"><td><a href="#L301">301</a></td><td>MACO:  Clear.</td></tr>
 
-  T'POL
-     Two days ago. The damage to E deck made it
-     impossible to access the cargo bay. I began
-     experiencing agitation, anxiety, withdrawal
-     symptoms.
+<tr id="L302"><td><a href="#L302">302</a></td><td>ANNOTATION: Tucker is knocked down by a forcefield surrounding the warp coil.</td></tr>
 
-  PHLOX
-     You're not experiencing them now.
+<tr><td></td><td>LOCATION--Illyrian Engineering</td></tr>
+<tr id="L303"><td><a href="#L303">303</a></td><td>ARCHER:  Cover. (communicator beeps) Archer.</td></tr>
 
-  T'POL
-     I was able to retrieve the trellium. I was almost
-     killed in the process.
+<tr id="L304"><td><a href="#L304">304</a></td><td>TUCKER [OC]:  Captain.</td></tr>
 
-  PHLOX
-     This will help stabilise your synaptic pathways,
-     but the withdrawal symptoms will return in a few
-     days. It's going to take time. It won't be easy.
+<tr><td></td><td>LOCATION--Illyrian warp assembly</td></tr>
+<tr id="L305"><td><a href="#L305">305</a></td><td>TUCKER:  We've hit a little snag.</td></tr>
 
-  T'POL
-     I understand.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L306"><td><a href="#L306">306</a></td><td>REED:  They're targeting our starboard nacelle.</td></tr>
 
-  ARCHER [OC]
-     Archer to T'Pol.
+<tr id="L307"><td><a href="#L307">307</a></td><td>T'POL:  Evasive manoeuvres. T'Pol to the Captain.</td></tr>
 
-  T'POL
-     Go ahead.
+<tr><td></td><td>LOCATION--Illyrian Engineering</td></tr>
+<tr id="L308"><td><a href="#L308">308</a></td><td>ARCHER:  Go ahead.</td></tr>
 
-  ARCHER [OC]
-     We're approaching the vessel. Report to the
-     Bridge.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L309"><td><a href="#L309">309</a></td><td>T'POL:  We're taking heavy damage.</td></tr>
 
-  T'POL
-     I'm on my way.
+<tr id="L310"><td><a href="#L310">310</a></td><td>ARCHER [OC]:  There's a forcefield around the warp coil.</td></tr>
 
-  PHLOX
-     You should remain here for observation.
+<tr><td></td><td>LOCATION--Illyrian Engineering</td></tr>
+<tr id="L311"><td><a href="#L311">311</a></td><td>ARCHER:  Trip's trying to disable it.</td></tr>
 
-  T'POL
-     The Captain needs me. I have to go.
+<tr><td></td><td>LOCATION--Illyrian warp assembly</td></tr>
+<tr id="L312"><td><a href="#L312">312</a></td><td>TUCKER:  Try it now.</td></tr>
 
-  PHLOX
-     I expect you to report back here at the first sign
-     of trouble.
+<tr id="L313"><td><a href="#L313">313</a></td><td>ANNOTATION: his MACO bodyguard still encounters the forcefield</td></tr>
 
-  T'POL
-     Are you going to discuss this with the Captain?
+<tr><td></td><td>LOCATION--Illyrian Engineering</td></tr>
+<tr id="L314"><td><a href="#L314">314</a></td><td>ANNOTATION: meanwhile the fighting goes on</td></tr>
 
-  PHLOX
-     This is between you and your doctor.
+<tr id="L315"><td><a href="#L315">315</a></td><td>ARCHER:  Archer to Enterprise.</td></tr>
 
+<tr id="L316"><td><a href="#L316">316</a></td><td>T'POL [OC]:  Go ahead.</td></tr>
 
-LOCATION--Bridge
+<tr id="L317"><td><a href="#L317">317</a></td><td>ARCHER:  Parson's been hit. Lock onto her comm. signal and</td></tr>
 
-  T'POL
-     Good luck.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L318"><td><a href="#L318">318</a></td><td>ARCHER [OC]:  beam her out of here.</td></tr>
 
-  ARCHER
-     You have the Bridge.
+<tr id="L319"><td><a href="#L319">319</a></td><td>T'POL:  Lieutenant.</td></tr>
 
-  T'POL
-     Stand by weapons.
+<tr id="L320"><td><a href="#L320">320</a></td><td>REED:  We're venting atmosphere on C deck. T'Pol!</td></tr>
 
+<tr id="L321"><td><a href="#L321">321</a></td><td>T'POL:  Adjust phase cannons to a narrow confinement beam. Target this power juncture.</td></tr>
 
-LOCATION--Illyrian Engineering
+<tr id="L322"><td><a href="#L322">322</a></td><td>REED:  Got it.</td></tr>
 
-  ILLYRIAN
-     Run another test. If it doesn't hold, we'll have
-     to bypass the entire assembly. (comm. beeps) What
-     is it?
+<tr id="L323"><td><a href="#L323">323</a></td><td>T'POL:  Fire!</td></tr>
 
-  CREW [OC]
-     Sir, there's a vessel approaching. It's the Earth
-     ship.
+<tr><td></td><td>LOCATION--Illyrian warp assembly</td></tr>
+<tr id="L324"><td><a href="#L324">324</a></td><td>ANNOTATION: The ship is plunged into darkness, and the forcefield goes out.</td></tr>
 
-  ILLYRIAN
-     Have you contacted them?
+<tr id="L325"><td><a href="#L325">325</a></td><td>TUCKER:  Right there.</td></tr>
 
-  CREW [OC]
-     They're not responding.
+<tr id="L326"><td><a href="#L326">326</a></td><td>ANNOTATION: By the light of the torch on the MACO's rifle Tucker disconnects the warp coil, and they beam back to Enterprise with it.</td></tr>
 
+<tr><td></td><td>LOCATION--Illyrian Engineering</td></tr>
+<tr id="L327"><td><a href="#L327">327</a></td><td>ARCHER:  (answering communicator) Archer.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L328"><td><a href="#L328">328</a></td><td>T'POL:  Commander Tucker's aboard. We have it.</td></tr>
 
-  HOSHI
-     They're still hailing us.
+<tr><td></td><td>LOCATION--Illyrian Engineering</td></tr>
+<tr id="L329"><td><a href="#L329">329</a></td><td>ARCHER:  Stand by to beam us out. Fall back.</td></tr>
 
-  TRAVIS
-     Two hundred kilometres.
+<tr id="L330"><td><a href="#L330">330</a></td><td>ANNOTATION: they retreat straight to a man with a gun</td></tr>
 
-  T'POL
-     Target their propulsion systems.
+<tr id="L331"><td><a href="#L331">331</a></td><td>ILLYRIAN:  What you can't have, you take by force?</td></tr>
 
-  REED
-     Aye.
+<tr id="L332"><td><a href="#L332">332</a></td><td>ARCHER:  We've beamed three containers of trellium into your cargo hold as compensation. There's also food and supplies.</td></tr>
 
-  T'POL
-     Fire.
+<tr id="L333"><td><a href="#L333">333</a></td><td>ILLYRIAN:  You're stranding us three years from home. Why are you doing this?</td></tr>
 
-  REED
-     (after three phase cannon shots) Their warp
-     drive's offline. They're charging weapons.
+<tr id="L334"><td><a href="#L334">334</a></td><td>ARCHER:  Because I have no choice. Energise.</td></tr>
 
-  T'POL
-     Bridge to transporter.
+<tr id="L335"><td><a href="#L335">335</a></td><td>ANNOTATION: Enterprise flies off, leaving the Illyrians drifting in space.</td></tr>
 
-  REED
-     They're firing.
+<tr><td></td><td>LOCATION--T'Pol's quarters</td></tr>
+<tr id="L336"><td><a href="#L336">336</a></td><td>T'POL:  I'm not sure why I asked you to come see me.</td></tr>
 
-  T'POL
-     Energise.
+<tr id="L337"><td><a href="#L337">337</a></td><td>PHLOX:  Perhaps you just needed some company.</td></tr>
 
+<tr id="L338"><td><a href="#L338">338</a></td><td>T'POL:  Perhaps.</td></tr>
 
-LOCATION--Illyrian Engineering
+<tr id="L339"><td><a href="#L339">339</a></td><td>PHLOX:  How do you feel?</td></tr>
 
-  ANNOTATION
-     The boarding party appear and there's a gun fight
-     between the MACOs and the Illyrians whilst the two
-     ships tussle it out as well.
+<tr id="L340"><td><a href="#L340">340</a></td><td>T'POL:  I thought that without the trellium I would no longer have difficulty suppressing my emotions, but that's not true.</td></tr>
 
-  TUCKER
-     That's the access port.
+<tr id="L341"><td><a href="#L341">341</a></td><td>PHLOX:  It's not surprising that there are residual effects. They're probably temporary.</td></tr>
 
-  ARCHER
-     Stun grenade. (bang) Go!
+<tr id="L342"><td><a href="#L342">342</a></td><td>T'POL:  And if they're not?</td></tr>
 
-  ANNOTATION
-     Tucker and a MACO head up an access tube.
+<tr id="L343"><td><a href="#L343">343</a></td><td>PHLOX:  Then you'll learn to cope with them.</td></tr>
 
+<tr id="L344"><td><a href="#L344">344</a></td><td>T'POL:  I'm not certain I'll be able to. I'm</td></tr>
 
-LOCATION--Bridge
+<tr id="L345"><td><a href="#L345">345</a></td><td>PHLOX:  Afraid?</td></tr>
 
-  REED
-     Their weapons are at fifty percent.
+<tr id="L346"><td><a href="#L346">346</a></td><td>T'POL:  Vulcans don't experience fear.</td></tr>
 
-  HOSHI
-     We have another hull breach, on E deck.
+<tr id="L347"><td><a href="#L347">347</a></td><td>PHLOX:  You sought these emotions. Don't expect them to vanish overnight. Patience.</td></tr>
 
-  TRAVIS
-     Our port thrusters are offline.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L348"><td><a href="#L348">348</a></td><td>TUCKER:  A few tweaks and it fit right in.</td></tr>
 
-  REED
-     We have to take out their weapons!
+<tr id="L349"><td><a href="#L349">349</a></td><td>ARCHER:  What's our top speed.</td></tr>
 
-  T'POL
-     We can't leave them defenceless.
+<tr id="L350"><td><a href="#L350">350</a></td><td>TUCKER:  Three point two. That should get us to the rendezvous point with time to spare.</td></tr>
 
-  REED
-     If we want to get through this in one piece, we
-     may have no choice.
+<tr id="L351"><td><a href="#L351">351</a></td><td>ANNOTATION: Archer descends from the warp controls with a wince, and a massive guilt cloud hanging over him.</td></tr>
 
-  T'POL
-     The Captain's orders.
+<tr id="L352"><td><a href="#L352">352</a></td><td>TUCKER:  You did the right thing.</td></tr>
 
+<tr id="L353"><td><a href="#L353">353</a></td><td>ARCHER:  It seems the longer we're out here, the more I have to keep saying that to myself.</td></tr>
 
-LOCATION--Illyrian warp assembly
+<tr id="L354"><td><a href="#L354">354</a></td><td>TUCKER:  Those people'll be okay. They'll get home.</td></tr>
 
-  MACO
-     Clear.
+<tr id="L355"><td><a href="#L355">355</a></td><td>ARCHER:  Captain to the Bridge.</td></tr>
 
-  ANNOTATION
-     Tucker is knocked down by a forcefield surrounding
-     the warp coil.
+<tr id="L356"><td><a href="#L356">356</a></td><td>REED [OC]:  Go ahead.</td></tr>
 
+<tr id="L357"><td><a href="#L357">357</a></td><td>ARCHER:  Prepare to go to maximum warp.</td></tr>
 
-LOCATION--Illyrian Engineering
+<tr id="L358"><td><a href="#L358">358</a></td><td>REED [OC]:  Aye sir.</td></tr>
 
-  ARCHER
-     Cover. (communicator beeps) Archer.
-
-  TUCKER [OC]
-     Captain.
-
-
-LOCATION--Illyrian warp assembly
-
-  TUCKER
-     We've hit a little snag.
-
-
-LOCATION--Bridge
-
-  REED
-     They're targeting our starboard nacelle.
-
-  T'POL
-     Evasive manoeuvres. T'Pol to the Captain.
-
-
-LOCATION--Illyrian Engineering
-
-  ARCHER
-     Go ahead.
-
-
-LOCATION--Bridge
-
-  T'POL
-     We're taking heavy damage.
-
-  ARCHER [OC]
-     There's a forcefield around the warp coil.
-
-
-LOCATION--Illyrian Engineering
-
-  ARCHER
-     Trip's trying to disable it.
-
-
-LOCATION--Illyrian warp assembly
-
-  TUCKER
-     Try it now.
-
-  ANNOTATION
-     his MACO bodyguard still encounters the forcefield
-
-
-LOCATION--Illyrian Engineering
-
-  ANNOTATION
-     meanwhile the fighting goes on
-
-  ARCHER
-     Archer to Enterprise.
-
-  T'POL [OC]
-     Go ahead.
-
-  ARCHER
-     Parson's been hit. Lock onto her comm. signal and
-
-
-LOCATION--Bridge
-
-  ARCHER [OC]
-     beam her out of here.
-
-  T'POL
-     Lieutenant.
-
-  REED
-     We're venting atmosphere on C deck. T'Pol!
-
-  T'POL
-     Adjust phase cannons to a narrow confinement beam.
-     Target this power juncture.
-
-  REED
-     Got it.
-
-  T'POL
-     Fire!
-
-
-LOCATION--Illyrian warp assembly
-
-  ANNOTATION
-     The ship is plunged into darkness, and the
-     forcefield goes out.
-
-  TUCKER
-     Right there.
-
-  ANNOTATION
-     By the light of the torch on the MACO's rifle
-     Tucker disconnects the warp coil, and they beam
-     back to Enterprise with it.
-
-
-LOCATION--Illyrian Engineering
-
-  ARCHER
-     (answering communicator) Archer.
-
-
-LOCATION--Bridge
-
-  T'POL
-     Commander Tucker's aboard. We have it.
-
-
-LOCATION--Illyrian Engineering
-
-  ARCHER
-     Stand by to beam us out. Fall back.
-
-  ANNOTATION
-     they retreat straight to a man with a gun
-
-  ILLYRIAN
-     What you can't have, you take by force?
-
-  ARCHER
-     We've beamed three containers of trellium into
-     your cargo hold as compensation. There's also food
-     and supplies.
-
-  ILLYRIAN
-     You're stranding us three years from home. Why are
-     you doing this?
-
-  ARCHER
-     Because I have no choice. Energise.
-
-  ANNOTATION
-     Enterprise flies off, leaving the Illyrians
-     drifting in space.
-
-
-LOCATION--T'Pol's quarters
-
-  T'POL
-     I'm not sure why I asked you to come see me.
-
-  PHLOX
-     Perhaps you just needed some company.
-
-  T'POL
-     Perhaps.
-
-  PHLOX
-     How do you feel?
-
-  T'POL
-     I thought that without the trellium I would no
-     longer have difficulty suppressing my emotions,
-     but that's not true.
-
-  PHLOX
-     It's not surprising that there are residual
-     effects. They're probably temporary.
-
-  T'POL
-     And if they're not?
-
-  PHLOX
-     Then you'll learn to cope with them.
-
-  T'POL
-     I'm not certain I'll be able to. I'm
-
-  PHLOX
-     Afraid?
-
-  T'POL
-     Vulcans don't experience fear.
-
-  PHLOX
-     You sought these emotions. Don't expect them to
-     vanish overnight. Patience.
-
-
-LOCATION--Engineering
-
-  TUCKER
-     A few tweaks and it fit right in.
-
-  ARCHER
-     What's our top speed.
-
-  TUCKER
-     Three point two. That should get us to the
-     rendezvous point with time to spare.
-
-  ANNOTATION
-     Archer descends from the warp controls with a
-     wince, and a massive guilt cloud hanging over him.
-
-  TUCKER
-     You did the right thing.
-
-  ARCHER
-     It seems the longer we're out here, the more I
-     have to keep saying that to myself.
-
-  TUCKER
-     Those people'll be okay. They'll get home.
-
-  ARCHER
-     Captain to the Bridge.
-
-  REED [OC]
-     Go ahead.
-
-  ARCHER
-     Prepare to go to maximum warp.
-
-  REED [OC]
-     Aye sir.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

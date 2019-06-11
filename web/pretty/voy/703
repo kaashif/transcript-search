@@ -1,2141 +1,1176 @@
-Critical Care
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Critical Care</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Level Red</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: A storm rages above a huge city. A small craft flies to a massive floating structure. A lot of patients are being wheeled around on gurneys in a crowded area.</td></tr>
 
-LOCATION--Level Red
+<tr id="L2"><td><a href="#L2">2</a></td><td>ALLOCATOR:  Trauma team four to Level Red. Trauma team four to Level Red. Code Four nursing unit, report to Level Red</td></tr>
 
-  ANNOTATION
-     A storm rages above a huge city. A small craft
-     flies to a massive floating structure. A lot of
-     patients are being wheeled around on gurneys in a
-     crowded area.
+<tr id="L3"><td><a href="#L3">3</a></td><td>ORDERLY:  No, he does have a sensor. It's not working.</td></tr>
 
-  ALLOCATOR
-     Trauma team four to Level Red. Trauma team four to
-     Level Red. Code Four nursing unit, report to Level
-     Red
+<tr id="L4"><td><a href="#L4">4</a></td><td>ANNOTATION: A wall sensor stops the visitor.</td></tr>
 
-  ORDERLY
-     No, he does have a sensor. It's not working.
+<tr id="L5"><td><a href="#L5">5</a></td><td>ALLOCATOR:  Negative for dysplasia, viremia, necrobiosis. Please extend your arms. Species, Dralian. Identity, Gar. TC fifteen. You may proceed.</td></tr>
 
-  ANNOTATION
-     A wall sensor stops the visitor.
+<tr id="L6"><td><a href="#L6">6</a></td><td>ANNOTATION: The mammalian biped walks up to a chubby faced humanoid.</td></tr>
 
-  ALLOCATOR
-     Negative for dysplasia, viremia, necrobiosis.
-     Please extend your arms. Species, Dralian.
-     Identity, Gar. TC fifteen. You may proceed.
+<tr id="L7"><td><a href="#L7">7</a></td><td>GAR:  Chellick. Lucky I caught you.</td></tr>
 
-  ANNOTATION
-     The mammalian biped walks up to a chubby faced
-     humanoid.
+<tr id="L8"><td><a href="#L8">8</a></td><td>CHELLICK:  Mister Gar. I wish I had time to talk.</td></tr>
 
-  GAR
-     Chellick. Lucky I caught you.
+<tr id="L9"><td><a href="#L9">9</a></td><td>GAR:  Well, all you have to do is listen. I have a new supply of cytogenics.</td></tr>
 
-  CHELLICK
-     Mister Gar. I wish I had time to talk.
+<tr id="L10"><td><a href="#L10">10</a></td><td>CHELLICK:  Your last supply was useless. Expired lots, diluted samples.</td></tr>
 
-  GAR
-     Well, all you have to do is listen. I have a new
-     supply of cytogenics.
+<tr id="L11"><td><a href="#L11">11</a></td><td>GAR:  Oh, I have something special this time.</td></tr>
 
-  CHELLICK
-     Your last supply was useless. Expired lots,
-     diluted samples.
+<tr id="L12"><td><a href="#L12">12</a></td><td>CHELLICK:  The latest in substandard technology, no doubt.</td></tr>
 
-  GAR
-     Oh, I have something special this time.
+<tr id="L13"><td><a href="#L13">13</a></td><td>GAR:  Oh, this item is far from substandard. And as a gesture of goodwill, I'm offering it to you first.</td></tr>
 
-  CHELLICK
-     The latest in substandard technology, no doubt.
+<tr id="L14"><td><a href="#L14">14</a></td><td>CHELLICK:  We don't need another neural monitor.</td></tr>
 
-  GAR
-     Oh, this item is far from substandard. And as a
-     gesture of goodwill, I'm offering it to you first.
+<tr id="L15"><td><a href="#L15">15</a></td><td>GAR:  This is much more sophisticated than that.</td></tr>
 
-  CHELLICK
-     We don't need another neural monitor.
+<tr id="L16"><td><a href="#L16">16</a></td><td>CHELLICK:  I'm sure it has some ingenious use but I'm not interested.</td></tr>
 
-  GAR
-     This is much more sophisticated than that.
+<tr id="L17"><td><a href="#L17">17</a></td><td>ANNOTATION: Gar activates the mobile emitter.</td></tr>
 
-  CHELLICK
-     I'm sure it has some ingenious use but I'm not
-     interested.
+<tr id="L18"><td><a href="#L18">18</a></td><td>EMH:  Please state the nature of the medical emergency? Where have you taken me?</td></tr>
 
-  ANNOTATION
-     Gar activates the mobile emitter.
+<tr id="L19"><td><a href="#L19">19</a></td><td>GAR:  It's a holographic construct programmed with over five million medical protocols.</td></tr>
 
-  EMH
-     Please state the nature of the medical emergency?
-     Where have you taken me?
+<tr id="L20"><td><a href="#L20">20</a></td><td>EMH:  I demand to be returned to Voyager at once.</td></tr>
 
-  GAR
-     It's a holographic construct programmed with over
-     five million medical protocols.
+<tr id="L21"><td><a href="#L21">21</a></td><td>CHELLICK:  What's Voyager?</td></tr>
 
-  EMH
-     I demand to be returned to Voyager at once.
+<tr id="L22"><td><a href="#L22">22</a></td><td>EMH:  The Federation Starship to which I'm assigned. This man is a kidnapper.</td></tr>
 
-  CHELLICK
-     What's Voyager?
+<tr id="L23"><td><a href="#L23">23</a></td><td>GAR:  I would never offer you stolen property. I traded warp-grade dilithium for this programme.</td></tr>
 
-  EMH
-     The Federation Starship to which I'm assigned.
-     This man is a kidnapper.
+<tr id="L24"><td><a href="#L24">24</a></td><td>CHELLICK:  What's your price?</td></tr>
 
-  GAR
-     I would never offer you stolen property. I traded
-     warp-grade dilithium for this programme.
+<tr id="L25"><td><a href="#L25">25</a></td><td>EMH:  This negotiation is pointless. I'm not about to perform medical services for a pair of common thieves.</td></tr>
 
-  CHELLICK
-     What's your price?
+<tr id="L26"><td><a href="#L26">26</a></td><td>CHELLICK:  It doesn't seem to be in working order.</td></tr>
 
-  EMH
-     This negotiation is pointless. I'm not about to
-     perform medical services for a pair of common
-     thieves.
+<tr id="L27"><td><a href="#L27">27</a></td><td>ALLOCATOR:  Trauma victims are now arriving at Emergency Intake Seven.</td></tr>
 
-  CHELLICK
-     It doesn't seem to be in working order.
+<tr id="L28"><td><a href="#L28">28</a></td><td>CHELLICK:  What caused their injuries?</td></tr>
 
-  ALLOCATOR
-     Trauma victims are now arriving at Emergency
-     Intake Seven.
+<tr id="L29"><td><a href="#L29">29</a></td><td>ALLOCATOR:  A generator explosion at the Gammadan mining facility.</td></tr>
 
-  CHELLICK
-     What caused their injuries?
+<tr id="L30"><td><a href="#L30">30</a></td><td>GAR:  You'd better start cooperating, or I will dismantle your programme and sell it off one subroutine at a time.</td></tr>
 
-  ALLOCATOR
-     A generator explosion at the Gammadan mining
-     facility.
+<tr id="L31"><td><a href="#L31">31</a></td><td>EMH:  When Captain Janeway discovers what you've done</td></tr>
 
-  GAR
-     You'd better start cooperating, or I will
-     dismantle your programme and sell it off one
-     subroutine at a time.
+<tr id="L32"><td><a href="#L32">32</a></td><td>ORDERLY:  Come on, let's go. Clear a path. Here we go. Tuck him in there.</td></tr>
 
-  EMH
-     When Captain Janeway discovers what you've done
+<tr id="L33"><td><a href="#L33">33</a></td><td>ORDERLY 2:  We haven't got any coagulants.</td></tr>
 
-  ORDERLY
-     Come on, let's go. Clear a path. Here we go. Tuck
-     him in there.
+<tr id="L34"><td><a href="#L34">34</a></td><td>VOJE:  Somebody check the reserves.</td></tr>
 
-  ORDERLY 2
-     We haven't got any coagulants.
+<tr id="L35"><td><a href="#L35">35</a></td><td>ORDERLY:  There are no reserves.</td></tr>
 
-  VOJE
-     Somebody check the reserves.
+<tr id="L36"><td><a href="#L36">36</a></td><td>VOJE:  This one's got grade four pulmonary burns.</td></tr>
 
-  ORDERLY
-     There are no reserves.
+<tr id="L37"><td><a href="#L37">37</a></td><td>ALLOCATOR:  Patient's TC is four. Transfer to level green.</td></tr>
 
-  VOJE
-     This one's got grade four pulmonary burns.
+<tr id="L38"><td><a href="#L38">38</a></td><td>VOJE:  Green isn't equipped for this.</td></tr>
 
-  ALLOCATOR
-     Patient's TC is four. Transfer to level green.
+<tr id="L39"><td><a href="#L39">39</a></td><td>CHELLICK:  His TC's only four. Take him to Green.</td></tr>
 
-  VOJE
-     Green isn't equipped for this.
+<tr id="L40"><td><a href="#L40">40</a></td><td>EMH:  Don't touch that. This patient's bleeding seriously. He needs an immediate infusion.</td></tr>
 
-  CHELLICK
-     His TC's only four. Take him to Green.
+<tr id="L41"><td><a href="#L41">41</a></td><td>VOJE:  What are you doing? Get away from him.</td></tr>
 
-  EMH
-     Don't touch that. This patient's bleeding
-     seriously. He needs an immediate infusion.
+<tr id="L42"><td><a href="#L42">42</a></td><td>EMH:  With technology this primitive you may as well be using leeches.</td></tr>
 
-  VOJE
-     What are you doing? Get away from him.
+<tr id="L43"><td><a href="#L43">43</a></td><td>VOJE:  Who is this man?</td></tr>
 
-  EMH
-     With technology this primitive you may as well be
-     using leeches.
+<tr id="L44"><td><a href="#L44">44</a></td><td>CHELLICK:  A Doctor, of sorts. I thought you were withholding your services.</td></tr>
 
-  VOJE
-     Who is this man?
+<tr id="L45"><td><a href="#L45">45</a></td><td>EMH:  Fortunately for these patients, I am programmed with the Hippocratic Oath. It requires me to treat anyone who's ill. This patient needs twenty milligrams anesthizine. Get me a hypospray.</td></tr>
 
-  CHELLICK
-     A Doctor, of sorts. I thought you were withholding
-     your services.
+<tr id="L46"><td><a href="#L46">46</a></td><td>ORDERLY:  A what?</td></tr>
 
-  EMH
-     Fortunately for these patients, I am programmed
-     with the Hippocratic Oath. It requires me to treat
-     anyone who's ill. This patient needs twenty
-     milligrams anesthizine. Get me a hypospray.
+<tr id="L47"><td><a href="#L47">47</a></td><td>EMH:  I'm sorry, this may hurt a little.</td></tr>
 
-  ORDERLY
-     A what?
+<tr id="L48"><td><a href="#L48">48</a></td><td>ANNOTATION: The EMH uses a hypodermic needle. Gar looks smug.</td></tr>
 
-  EMH
-     I'm sorry, this may hurt a little.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L49"><td><a href="#L49">49</a></td><td>ANNOTATION: After a game of ice hockey.</td></tr>
 
-  ANNOTATION
-     The EMH uses a hypodermic needle. Gar looks smug.
+<tr id="L50"><td><a href="#L50">50</a></td><td>KIM:  Did you have to programme that Nausicaan guard to high stick so much?</td></tr>
 
+<tr id="L51"><td><a href="#L51">51</a></td><td>PARIS:  Well, you play hockey, you got to expect a few lumps.</td></tr>
 
-LOCATION--Corridor
+<tr id="L52"><td><a href="#L52">52</a></td><td>KIM:  What are we going to tell the Doctor? You know how he feels about our juvenile holoprogrammes.</td></tr>
 
-  ANNOTATION
-     After a game of ice hockey.
+<tr id="L53"><td><a href="#L53">53</a></td><td>PARIS:  Relax. I'll come up with something.</td></tr>
 
-  KIM
-     Did you have to programme that Nausicaan guard to
-     high stick so much?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L54"><td><a href="#L54">54</a></td><td>KIM:  Hey, Doc.</td></tr>
 
-  PARIS
-     Well, you play hockey, you got to expect a few
-     lumps.
+<tr id="L55"><td><a href="#L55">55</a></td><td>EMH:  Please state the nature of the medical emergency.</td></tr>
 
-  KIM
-     What are we going to tell the Doctor? You know how
-     he feels about our juvenile holoprogrammes.
+<tr id="L56"><td><a href="#L56">56</a></td><td>KIM:  I know what you're thinking, but there's a simple explanation. Tell him, Tom.</td></tr>
 
-  PARIS
-     Relax. I'll come up with something.
+<tr id="L57"><td><a href="#L57">57</a></td><td>PARIS:  Right. Well, er, see, Doc, we were running these invasion scenarios, when this species of proto-humanoid.</td></tr>
 
+<tr id="L58"><td><a href="#L58">58</a></td><td>EMH:  Please state the nature of the medical emergency.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L59"><td><a href="#L59">59</a></td><td>PARIS:  Are you okay, Doc?</td></tr>
 
-  KIM
-     Hey, Doc.
+<tr id="L60"><td><a href="#L60">60</a></td><td>EMH:  Please take an analgesic and return in twenty four hours.</td></tr>
 
-  EMH
-     Please state the nature of the medical emergency.
+<tr><td></td><td>LOCATION--Briefing room</td></tr>
+<tr id="L61"><td><a href="#L61">61</a></td><td>ANNOTATION: Torres hands the mobile emitter to Janeway.</td></tr>
 
-  KIM
-     I know what you're thinking, but there's a simple
-     explanation. Tell him, Tom.
+<tr id="L62"><td><a href="#L62">62</a></td><td>TORRES:  It's a replicated fake.</td></tr>
 
-  PARIS
-     Right. Well, er, see, Doc, we were running these
-     invasion scenarios, when this species of
-     proto-humanoid.
+<tr id="L63"><td><a href="#L63">63</a></td><td>PARIS:  The programme running in Sickbay is from one of Doc's old training files.</td></tr>
 
-  EMH
-     Please state the nature of the medical emergency.
+<tr id="L64"><td><a href="#L64">64</a></td><td>JANEWAY:  I want someone to tell me how this snake oil salesman managed to evade every security protocol on the ship.</td></tr>
 
-  PARIS
-     Are you okay, Doc?
+<tr id="L65"><td><a href="#L65">65</a></td><td>TUVOK:  I take full responsibility.</td></tr>
 
-  EMH
-     Please take an analgesic and return in twenty four
-     hours.
+<tr id="L66"><td><a href="#L66">66</a></td><td>JANEWAY:  I'm not interested in fault. I just want to know how it happened.</td></tr>
 
+<tr id="L67"><td><a href="#L67">67</a></td><td>NEELIX:  Ah, Gar spend the night in Sickbay. He claimed to have gotten food poisoning at dinner.</td></tr>
 
-LOCATION--Briefing room
+<tr id="L68"><td><a href="#L68">68</a></td><td>CHAKOTAY:  He had plenty of time to learn about the mobile emitter from the Doctor.</td></tr>
 
-  ANNOTATION
-     Torres hands the mobile emitter to Janeway.
+<tr id="L69"><td><a href="#L69">69</a></td><td>JANEWAY:  Who I'm sure was more than willing to extol its virtues.</td></tr>
 
-  TORRES
-     It's a replicated fake.
+<tr id="L70"><td><a href="#L70">70</a></td><td>TORRES:  Medical logs show the training file was activated just before Gar left Voyager.</td></tr>
 
-  PARIS
-     The programme running in Sickbay is from one of
-     Doc's old training files.
+<tr id="L71"><td><a href="#L71">71</a></td><td>JANEWAY:  Scan for his ion trail. And lets review safeguards for accessing low-security files, shall we, Mister Tuvok?</td></tr>
 
-  JANEWAY
-     I want someone to tell me how this snake oil
-     salesman managed to evade every security protocol
-     on the ship.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L72"><td><a href="#L72">72</a></td><td>NEELIX:  Captain, don't blame Tuvok for what happened. It was my fault.</td></tr>
 
-  TUVOK
-     I take full responsibility.
+<tr id="L73"><td><a href="#L73">73</a></td><td>JANEWAY:  How so?</td></tr>
 
-  JANEWAY
-     I'm not interested in fault. I just want to know
-     how it happened.
+<tr id="L74"><td><a href="#L74">74</a></td><td>NEELIX:  Gar kept complaining how bland his dinner was so I added a few exotic spices.</td></tr>
 
-  NEELIX
-     Ah, Gar spend the night in Sickbay. He claimed to
-     have gotten food poisoning at dinner.
+<tr id="L75"><td><a href="#L75">75</a></td><td>JANEWAY:  I'm not sure I see your point.</td></tr>
 
-  CHAKOTAY
-     He had plenty of time to learn about the mobile
-     emitter from the Doctor.
+<tr id="L76"><td><a href="#L76">76</a></td><td>NEELIX:  I was trying so hard to create something he liked that I didn't take his alien physiology into account. Everyone's assuming he faked his illness but I might have really made him sick.</td></tr>
 
-  JANEWAY
-     Who I'm sure was more than willing to extol its
-     virtues.
+<tr id="L77"><td><a href="#L77">77</a></td><td>JANEWAY:  It's not as if your cooking turned him into a thief.</td></tr>
 
-  TORRES
-     Medical logs show the training file was activated
-     just before Gar left Voyager.
+<tr id="L78"><td><a href="#L78">78</a></td><td>NEELIX:  No. But if he hadn't gone to Sickbay, he may never have come up with a plan to kidnap the Doctor, much less have the opportunity to do it.</td></tr>
 
-  JANEWAY
-     Scan for his ion trail. And lets review safeguards
-     for accessing low-security files, shall we, Mister
-     Tuvok?
+<tr id="L79"><td><a href="#L79">79</a></td><td>JANEWAY:  In my experience, Neelix, men like Gar have no trouble finding opportunities to take advantage of other people.</td></tr>
 
+<tr id="L80"><td><a href="#L80">80</a></td><td>NEELIX:  I just hope there's something I can do to help find the Doctor.</td></tr>
 
-LOCATION--Corridor
+<tr id="L81"><td><a href="#L81">81</a></td><td>JANEWAY:  When and if that opportunity arises, I'm sure you'll make the most of it.</td></tr>
 
-  NEELIX
-     Captain, don't blame Tuvok for what happened. It
-     was my fault.
+<tr><td></td><td>LOCATION--Level Red</td></tr>
+<tr id="L82"><td><a href="#L82">82</a></td><td>VOJE:  That was the most impressive cortical bypass I've ever seen.</td></tr>
 
-  JANEWAY
-     How so?
+<tr id="L83"><td><a href="#L83">83</a></td><td>EMH:  It's just a question of possessing the basic skills.</td></tr>
 
-  NEELIX
-     Gar kept complaining how bland his dinner was so I
-     added a few exotic spices.
+<tr id="L84"><td><a href="#L84">84</a></td><td>VOJE:  If I had basic skills like yours, they'd move me up to Level Blue. Take this patient to Yellow.</td></tr>
 
-  JANEWAY
-     I'm not sure I see your point.
+<tr id="L85"><td><a href="#L85">85</a></td><td>EMH:  You seem a little low on resources here. If I could contact my medical staff, I might be able get you some additional supplies.</td></tr>
 
-  NEELIX
-     I was trying so hard to create something he liked
-     that I didn't take his alien physiology into
-     account. Everyone's assuming he faked his illness
-     but I might have really made him sick.
+<tr id="L86"><td><a href="#L86">86</a></td><td>VOJE:  Communication is usually restricted but the Allocator might give you clearance.</td></tr>
 
-  JANEWAY
-     It's not as if your cooking turned him into a
-     thief.
+<tr id="L87"><td><a href="#L87">87</a></td><td>EMH:  Good. Where can I find him?</td></tr>
 
-  NEELIX
-     No. But if he hadn't gone to Sickbay, he may never
-     have come up with a plan to kidnap the Doctor,
-     much less have the opportunity to do it.
+<tr id="L88"><td><a href="#L88">88</a></td><td>VOJE:  The Allocator isn't a him. It's our main computer.</td></tr>
 
-  JANEWAY
-     In my experience, Neelix, men like Gar have no
-     trouble finding opportunities to take advantage of
-     other people.
+<tr id="L89"><td><a href="#L89">89</a></td><td>EMH:  Well, perhaps it could establish a communications link with Voyager's main computer.</td></tr>
 
-  NEELIX
-     I just hope there's something I can do to help
-     find the Doctor.
+<tr id="L90"><td><a href="#L90">90</a></td><td>VOJE:  You'll have to submit a formal request to Chellick and support it with form eight three W in triplicate. Even then.</td></tr>
 
-  JANEWAY
-     When and if that opportunity arises, I'm sure
-     you'll make the most of it.
+<tr id="L91"><td><a href="#L91">91</a></td><td>ANNOTATION: A man is coughing a lot.</td></tr>
 
+<tr id="L92"><td><a href="#L92">92</a></td><td>EMH:  Why hasn't this patient been treated yet?</td></tr>
 
-LOCATION--Level Red
+<tr id="L93"><td><a href="#L93">93</a></td><td>TEBBIS:  He's waiting for proton imaging. There are a lot of other people ahead of him.</td></tr>
 
-  VOJE
-     That was the most impressive cortical bypass I've
-     ever seen.
+<tr id="L94"><td><a href="#L94">94</a></td><td>EMH:  It's nice to see someone knows what's going on. What's your name?</td></tr>
 
-  EMH
-     It's just a question of possessing the basic
-     skills.
+<tr id="L95"><td><a href="#L95">95</a></td><td>TEBBIS:  Tebbis.</td></tr>
 
-  VOJE
-     If I had basic skills like yours, they'd move me
-     up to Level Blue. Take this patient to Yellow.
+<tr id="L96"><td><a href="#L96">96</a></td><td>EMH:  Well, Tebbis, this doesn't look too serious.</td></tr>
 
-  EMH
-     You seem a little low on resources here. If I
-     could contact my medical staff, I might be able
-     get you some additional supplies.
+<tr id="L97"><td><a href="#L97">97</a></td><td>TEBBIS:  It's just a little osteal extravasation.</td></tr>
 
-  VOJE
-     Communication is usually restricted but the
-     Allocator might give you clearance.
+<tr id="L98"><td><a href="#L98">98</a></td><td>EMH:  Excellent diagnosis.</td></tr>
 
-  EMH
-     Good. Where can I find him?
+<tr id="L99"><td><a href="#L99">99</a></td><td>TEBBIS:  I hope to be a doctor someday.</td></tr>
 
-  VOJE
-     The Allocator isn't a him. It's our main computer.
+<tr id="L100"><td><a href="#L100">100</a></td><td>EMH:  Really? Well, I hope your working conditions are better than these.</td></tr>
 
-  EMH
-     Well, perhaps it could establish a communications
-     link with Voyager's main computer.
+<tr id="L101"><td><a href="#L101">101</a></td><td>TEBBIS:  It wouldn't be so bad if they'd let us listen to music.</td></tr>
 
-  VOJE
-     You'll have to submit a formal request to Chellick
-     and support it with form eight three W in
-     triplicate. Even then.
+<tr id="L102"><td><a href="#L102">102</a></td><td>EMH:  It would certainly improve my mood.</td></tr>
 
-  ANNOTATION
-     A man is coughing a lot.
+<tr id="L103"><td><a href="#L103">103</a></td><td>TEBBIS:  It's not just that. Music has great healing power.</td></tr>
 
-  EMH
-     Why hasn't this patient been treated yet?
+<tr id="L104"><td><a href="#L104">104</a></td><td>EMH:  I couldn't agree with you more.</td></tr>
 
-  TEBBIS
-     He's waiting for proton imaging. There are a lot
-     of other people ahead of him.
+<tr id="L105"><td><a href="#L105">105</a></td><td>ANNOTATION: They return to the coughing man.</td></tr>
 
-  EMH
-     It's nice to see someone knows what's going on.
-     What's your name?
+<tr id="L106"><td><a href="#L106">106</a></td><td>VOJE:  Exhale slowly.</td></tr>
 
-  TEBBIS
-     Tebbis.
+<tr id="L107"><td><a href="#L107">107</a></td><td>EMH:  Can't you give him a neural blocker?</td></tr>
 
-  EMH
-     Well, Tebbis, this doesn't look too serious.
+<tr id="L108"><td><a href="#L108">108</a></td><td>VOJE:  He's already had his allocation.</td></tr>
 
-  TEBBIS
-     It's just a little osteal extravasation.
+<tr id="L109"><td><a href="#L109">109</a></td><td>EMH:  The leg injury isn't all I'm picking up. He's got some kind of systemic disease.</td></tr>
 
-  EMH
-     Excellent diagnosis.
+<tr id="L110"><td><a href="#L110">110</a></td><td>VOJE:  It's a chromo-viral infection. We have twelve cases down here. He's in the final stage.</td></tr>
 
-  TEBBIS
-     I hope to be a doctor someday.
+<tr id="L111"><td><a href="#L111">111</a></td><td>EMH:  Is there an established treatment?</td></tr>
 
-  EMH
-     Really? Well, I hope your working conditions are
-     better than these.
+<tr id="L112"><td><a href="#L112">112</a></td><td>VOJE:  Cytoglobin injections.</td></tr>
 
-  TEBBIS
-     It wouldn't be so bad if they'd let us listen to
-     music.
+<tr id="L113"><td><a href="#L113">113</a></td><td>EMH:  These scans don't show any cytoglobin in his bloodstream.</td></tr>
 
-  EMH
-     It would certainly improve my mood.
+<tr id="L114"><td><a href="#L114">114</a></td><td>VOJE:  He hasn't been given any.</td></tr>
 
-  TEBBIS
-     It's not just that. Music has great healing power.
+<tr id="L115"><td><a href="#L115">115</a></td><td>EMH:  Why not?</td></tr>
 
-  EMH
-     I couldn't agree with you more.
+<tr id="L116"><td><a href="#L116">116</a></td><td>VOJE:  He doesn't have a high enough TC.</td></tr>
 
-  ANNOTATION
-     They return to the coughing man.
+<tr id="L117"><td><a href="#L117">117</a></td><td>EMH:  TC? What's that?</td></tr>
 
-  VOJE
-     Exhale slowly.
+<tr id="L118"><td><a href="#L118">118</a></td><td>CHELLICK:  Ah, there you are. I'm happy to report that I've acquired your programme from Gar. Please come with me.</td></tr>
 
-  EMH
-     Can't you give him a neural blocker?
+<tr id="L119"><td><a href="#L119">119</a></td><td>EMH:  I will not. May I remind you I'm being illegally detained, or hasn't the rule of law reached this society yet?</td></tr>
 
-  VOJE
-     He's already had his allocation.
+<tr id="L120"><td><a href="#L120">120</a></td><td>CHELLICK:  We follow the Allocator's rules. And it's determined that your services are required on Level Blue.</td></tr>
 
-  EMH
-     The leg injury isn't all I'm picking up. He's got
-     some kind of systemic disease.
+<tr id="L121"><td><a href="#L121">121</a></td><td>VOJE:  Please, Doctor. The Allocator knows which patients need help the most.</td></tr>
 
-  VOJE
-     It's a chromo-viral infection. We have twelve
-     cases down here. He's in the final stage.
+<tr><td></td><td>LOCATION--Hospital Turbolift</td></tr>
+<tr id="L122"><td><a href="#L122">122</a></td><td>ANNOTATION: The colour coded diagram on the back of the turbolift shows that Level Blue is the smallest and topmost level. Green is next, then Yellow. Red is the biggest and White is at the bottom.</td></tr>
 
-  EMH
-     Is there an established treatment?
+<tr id="L123"><td><a href="#L123">123</a></td><td>EMH:  Level Blue is your critical care area, I presume.</td></tr>
 
-  VOJE
-     Cytoglobin injections.
+<tr id="L124"><td><a href="#L124">124</a></td><td>CHELLICK:  Level Blue is the area where it's most critical that we provide excellent care.</td></tr>
 
-  EMH
-     These scans don't show any cytoglobin in his
-     bloodstream.
+<tr><td></td><td>LOCATION--Level Blue</td></tr>
+<tr id="L125"><td><a href="#L125">125</a></td><td>ANNOTATION: Plenty of space, quiet, carpets.</td></tr>
 
-  VOJE
-     He hasn't been given any.
+<tr id="L126"><td><a href="#L126">126</a></td><td>CHELLICK:  These patients will be your chief responsibility from now on. Do whatever you can to make them well.</td></tr>
 
-  EMH
-     Why not?
+<tr id="L127"><td><a href="#L127">127</a></td><td>EMH:  Why are these patients getting preferential treatment?</td></tr>
 
-  VOJE
-     He doesn't have a high enough TC.
+<tr id="L128"><td><a href="#L128">128</a></td><td>CHELLICK:  They have a higher TC than the others.</td></tr>
 
-  EMH
-     TC? What's that?
+<tr id="L129"><td><a href="#L129">129</a></td><td>EMH:  Indulge me. What's TC?</td></tr>
 
-  CHELLICK
-     Ah, there you are. I'm happy to report that I've
-     acquired your programme from Gar. Please come with
-     me.
+<tr id="L130"><td><a href="#L130">130</a></td><td>CHELLICK:  Treatment Coefficient. The Allocator assigns one to every patient. It determines the level of care they receive.</td></tr>
 
-  EMH
-     I will not. May I remind you I'm being illegally
-     detained, or hasn't the rule of law reached this
-     society yet?
+<tr id="L131"><td><a href="#L131">131</a></td><td>EMH:  How is this coefficient derived?</td></tr>
 
-  CHELLICK
-     We follow the Allocator's rules. And it's
-     determined that your services are required on
-     Level Blue.
+<tr id="L132"><td><a href="#L132">132</a></td><td>CHELLICK:  Through a complex formula that involves profession, skills, accomplishments.</td></tr>
 
-  VOJE
-     Please, Doctor. The Allocator knows which patients
-     need help the most.
+<tr id="L133"><td><a href="#L133">133</a></td><td>EMH:  How is any of that relevant to medical treatment?</td></tr>
 
+<tr id="L134"><td><a href="#L134">134</a></td><td>CHELLICK:  An agricultural engineer is obviously more important than a waste processor.</td></tr>
 
-LOCATION--Hospital Turbolift
+<tr id="L135"><td><a href="#L135">135</a></td><td>EMH:  Important to whom?</td></tr>
 
-  ANNOTATION
-     The colour coded diagram on the back of the
-     turbolift shows that Level Blue is the smallest
-     and topmost level. Green is next, then Yellow. Red
-     is the biggest and White is at the bottom.
+<tr id="L136"><td><a href="#L136">136</a></td><td>CHELLICK:  Society. When your resources are limited, you have to prioritise.</td></tr>
 
-  EMH
-     Level Blue is your critical care area, I presume.
+<tr id="L137"><td><a href="#L137">137</a></td><td>EMH:  So you base treatment on whether patients have particular abilities?</td></tr>
 
-  CHELLICK
-     Level Blue is the area where it's most critical
-     that we provide excellent care.
+<tr id="L138"><td><a href="#L138">138</a></td><td>CHELLICK:  It's much more complicated than that. The Allocator assesses the entire individual.</td></tr>
 
+<tr id="L139"><td><a href="#L139">139</a></td><td>EMH:  And reduces his life to a number.</td></tr>
 
-LOCATION--Level Blue
+<tr id="L140"><td><a href="#L140">140</a></td><td>CHELLICK:  It may seem impersonal, but it's what the Dinaali have contracted us to do.</td></tr>
 
-  ANNOTATION
-     Plenty of space, quiet, carpets.
+<tr id="L141"><td><a href="#L141">141</a></td><td>DYSEK:  Chellick's people are known throughout the sector for their administrative skills. Before they came here, we were a dying race. Eco-disasters, famine.</td></tr>
 
-  CHELLICK
-     These patients will be your chief responsibility
-     from now on. Do whatever you can to make them
-     well.
+<tr id="L142"><td><a href="#L142">142</a></td><td>CHELLICK:  Doctor Dysek, Chief of Medicine. The medical hologram I told you about.</td></tr>
 
-  EMH
-     Why are these patients getting preferential
-     treatment?
+<tr id="L143"><td><a href="#L143">143</a></td><td>EMH:  Are you in charge of what passes for care on Level Red? Because those people are suffering.</td></tr>
 
-  CHELLICK
-     They have a higher TC than the others.
+<tr id="L144"><td><a href="#L144">144</a></td><td>DYSEK:  Intriguing technology. Can we use him to treat patients yet?</td></tr>
 
-  EMH
-     Indulge me. What's TC?
+<tr id="L145"><td><a href="#L145">145</a></td><td>CHELLICK:  That's what he's here for.</td></tr>
 
-  CHELLICK
-     Treatment Coefficient. The Allocator assigns one
-     to every patient. It determines the level of care
-     they receive.
+<tr id="L146"><td><a href="#L146">146</a></td><td>EMH:  In some societies, it's considered rude to refer to someone in the third person while he's standing in front of you.</td></tr>
 
-  EMH
-     How is this coefficient derived?
+<tr id="L147"><td><a href="#L147">147</a></td><td>CHELLICK:  I'm sure you'll make good use of him.</td></tr>
 
-  CHELLICK
-     Through a complex formula that involves
-     profession, skills, accomplishments.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L148"><td><a href="#L148">148</a></td><td>TUVOK:  The warp trail ends here. Gar should be directly ahead.</td></tr>
 
-  EMH
-     How is any of that relevant to medical treatment?
+<tr id="L149"><td><a href="#L149">149</a></td><td>JANEWAY:  All stop. Red alert. On screen.</td></tr>
 
-  CHELLICK
-     An agricultural engineer is obviously more
-     important than a waste processor.
+<tr id="L150"><td><a href="#L150">150</a></td><td>ANNOTATION: It is only a beacon.</td></tr>
 
-  EMH
-     Important to whom?
+<tr id="L151"><td><a href="#L151">151</a></td><td>TUVOK:  It's emitting a false warp signature.</td></tr>
 
-  CHELLICK
-     Society. When your resources are limited, you have
-     to prioritise.
+<tr id="L152"><td><a href="#L152">152</a></td><td>JANEWAY:  Looks we've underestimated Mister Gar again.</td></tr>
 
-  EMH
-     So you base treatment on whether patients have
-     particular abilities?
+<tr id="L153"><td><a href="#L153">153</a></td><td>PARIS:  Now what?</td></tr>
 
-  CHELLICK
-     It's much more complicated than that. The
-     Allocator assesses the entire individual.
+<tr id="L154"><td><a href="#L154">154</a></td><td>TUVOK:  There may be another way to find him.</td></tr>
 
-  EMH
-     And reduces his life to a number.
+<tr id="L155"><td><a href="#L155">155</a></td><td>CHAKOTAY:  What do you have in mind?</td></tr>
 
-  CHELLICK
-     It may seem impersonal, but it's what the Dinaali
-     have contracted us to do.
+<tr id="L156"><td><a href="#L156">156</a></td><td>TUVOK:  He traded us high-grade iridium, which has a very brief half-life. His ship is slow. Logic suggests he acquired the substance within a radius of three light years.</td></tr>
 
-  DYSEK
-     Chellick's people are known throughout the sector
-     for their administrative skills. Before they came
-     here, we were a dying race. Eco-disasters, famine.
+<tr id="L157"><td><a href="#L157">157</a></td><td>JANEWAY:  Cross-reference our sensor logs and long range scans.</td></tr>
 
-  CHELLICK
-     Doctor Dysek, Chief of Medicine. The medical
-     hologram I told you about.
+<tr id="L158"><td><a href="#L158">158</a></td><td>KIM:  Two planets, no atmosphere or technology, a T class nebula. Here's something. An asteroid with approximately two hundred humanoid lifesigns. Subterranean structures.</td></tr>
 
-  EMH
-     Are you in charge of what passes for care on Level
-     Red? Because those people are suffering.
+<tr id="L159"><td><a href="#L159">159</a></td><td>CHAKOTAY:  Sounds like a mining operation.</td></tr>
 
-  DYSEK
-     Intriguing technology. Can we use him to treat
-     patients yet?
+<tr id="L160"><td><a href="#L160">160</a></td><td>TUVOK:  If that's where Mister Gar acquired the iridium, they may be able to help us find him.</td></tr>
 
-  CHELLICK
-     That's what he's here for.
+<tr id="L161"><td><a href="#L161">161</a></td><td>JANEWAY:  Tom, how fast can you get us there?</td></tr>
 
-  EMH
-     In some societies, it's considered rude to refer
-     to someone in the third person while he's standing
-     in front of you.
+<tr id="L162"><td><a href="#L162">162</a></td><td>PARIS:  Less than two hours.</td></tr>
 
-  CHELLICK
-     I'm sure you'll make good use of him.
+<tr id="L163"><td><a href="#L163">163</a></td><td>JANEWAY:  Do it.</td></tr>
 
+<tr id="L164"><td><a href="#L164">164</a></td><td>ANNOTATION: They arrive at the asteroid.</td></tr>
 
-LOCATION--Bridge
+<tr id="L165"><td><a href="#L165">165</a></td><td>TUVOK:  We're being hailed.</td></tr>
 
-  TUVOK
-     The warp trail ends here. Gar should be directly
-     ahead.
+<tr id="L166"><td><a href="#L166">166</a></td><td>JANEWAY:  Open a channel.</td></tr>
 
-  JANEWAY
-     All stop. Red alert. On screen.
+<tr id="L167"><td><a href="#L167">167</a></td><td>MINER [on viewscreen]:  I want my iridium back now.</td></tr>
 
-  ANNOTATION
-     It is only a beacon.
+<tr id="L168"><td><a href="#L168">168</a></td><td>JANEWAY:  I beg your pardon?</td></tr>
 
-  TUVOK
-     It's emitting a false warp signature.
+<tr id="L169"><td><a href="#L169">169</a></td><td>MINER [on viewscreen]:  I've scanned your ship. I know you've got it on board.</td></tr>
 
-  JANEWAY
-     Looks we've underestimated Mister Gar again.
+<tr id="L170"><td><a href="#L170">170</a></td><td>JANEWAY:  Yes. We obtained it from a man called Gar. A merchant</td></tr>
 
-  PARIS
-     Now what?
+<tr id="L171"><td><a href="#L171">171</a></td><td>MINER [on viewscreen]:  You mean thief.</td></tr>
 
-  TUVOK
-     There may be another way to find him.
+<tr id="L172"><td><a href="#L172">172</a></td><td>CHAKOTAY:  So you have had the pleasure of meeting him.</td></tr>
 
-  CHAKOTAY
-     What do you have in mind?
+<tr id="L173"><td><a href="#L173">173</a></td><td>MINER [on viewscreen]:  He was here two days ago. He sold us three thousand induction units. He was gone a day before we realised he'd also stolen twenty kilos of ore.</td></tr>
 
-  TUVOK
-     He traded us high-grade iridium, which has a very
-     brief half-life. His ship is slow. Logic suggests
-     he acquired the substance within a radius of three
-     light years.
+<tr id="L174"><td><a href="#L174">174</a></td><td>JANEWAY:  We had a similar experience. Maybe we can help each other.</td></tr>
 
-  JANEWAY
-     Cross-reference our sensor logs and long range
-     scans.
+<tr id="L175"><td><a href="#L175">175</a></td><td>MINER [on viewscreen]:  How?</td></tr>
 
-  KIM
-     Two planets, no atmosphere or technology, a T
-     class nebula. Here's something. An asteroid with
-     approximately two hundred humanoid lifesigns.
-     Subterranean structures.
+<tr id="L176"><td><a href="#L176">176</a></td><td>JANEWAY:  Do you have any idea where we might find him?</td></tr>
 
-  CHAKOTAY
-     Sounds like a mining operation.
+<tr id="L177"><td><a href="#L177">177</a></td><td>MINER [on viewscreen]:  Will you return my iridium?</td></tr>
 
-  TUVOK
-     If that's where Mister Gar acquired the iridium,
-     they may be able to help us find him.
+<tr id="L178"><td><a href="#L178">178</a></td><td>JANEWAY:  By all means, but Gar only traded us half of what he stole from you. However, we might be able to get the rest of it back.</td></tr>
 
-  JANEWAY
-     Tom, how fast can you get us there?
+<tr id="L179"><td><a href="#L179">179</a></td><td>MINER [on viewscreen]:  All I can tell you is that the induction units came from a planetoid called Velos.</td></tr>
 
-  PARIS
-     Less than two hours.
+<tr><td></td><td>LOCATION--Level Blue</td></tr>
+<tr id="L180"><td><a href="#L180">180</a></td><td>DYSEK:  (to another man.) You may go.</td></tr>
 
-  JANEWAY
-     Do it.
+<tr id="L181"><td><a href="#L181">181</a></td><td>EMH:  Your surgical technique is impressive.</td></tr>
 
-  ANNOTATION
-     They arrive at the asteroid.
+<tr id="L182"><td><a href="#L182">182</a></td><td>DYSEK:  Well. you've obviously had experience with cellular repair.</td></tr>
 
-  TUVOK
-     We're being hailed.
+<tr id="L183"><td><a href="#L183">183</a></td><td>EMH:  As a matter of fact, I've done extensive research on the subject. I'd be happy to share it with you, but we'll have to contact Voyager to get it.</td></tr>
 
-  JANEWAY
-     Open a channel.
+<tr id="L184"><td><a href="#L184">184</a></td><td>DYSEK:  You'll have to discuss that with Chellick. He authorises all communications. It's time for this patient's next injection.</td></tr>
 
-  MINER [on viewscreen]
-     I want my iridium back now.
+<tr id="L185"><td><a href="#L185">185</a></td><td>NURSE:  Requesting one cytoglobin injection for patient B three, priority blue seven gamma.</td></tr>
 
-  JANEWAY
-     I beg your pardon?
+<tr id="L186"><td><a href="#L186">186</a></td><td>ALLOCATOR:  One cytoglobin injection authorised.</td></tr>
 
-  MINER [on viewscreen]
-     I've scanned your ship. I know you've got it on
-     board.
+<tr id="L187"><td><a href="#L187">187</a></td><td>EMH:  Does this patient have a chromo-viral infection?</td></tr>
 
-  JANEWAY
-     Yes. We obtained it from a man called Gar. A
-     merchant
+<tr id="L188"><td><a href="#L188">188</a></td><td>ANNOTATION: The nurse injects the woman on the bed.</td></tr>
 
-  MINER [on viewscreen]
-     You mean thief.
+<tr id="L189"><td><a href="#L189">189</a></td><td>DYSEK:  No. Why?</td></tr>
 
-  CHAKOTAY
-     So you have had the pleasure of meeting him.
+<tr id="L190"><td><a href="#L190">190</a></td><td>EMH:  I was told cytoglobin is the standard treatment for that disease.</td></tr>
 
-  MINER [on viewscreen]
-     He was here two days ago. He sold us three
-     thousand induction units. He was gone a day before
-     we realised he'd also stolen twenty kilos of ore.
+<tr id="L191"><td><a href="#L191">191</a></td><td>DYSEK:  Cytoglobin also prevents arterial aging.</td></tr>
 
-  JANEWAY
-     We had a similar experience. Maybe we can help
-     each other.
+<tr id="L192"><td><a href="#L192">192</a></td><td>NURSE:  Will that be all?</td></tr>
 
-  MINER [on viewscreen]
-     How?
+<tr id="L193"><td><a href="#L193">193</a></td><td>DYSEK:  You may go.</td></tr>
 
-  JANEWAY
-     Do you have any idea where we might find him?
+<tr id="L194"><td><a href="#L194">194</a></td><td>EMH:  This patient's arteries appear to be healthy.</td></tr>
 
-  MINER [on viewscreen]
-     Will you return my iridium?
+<tr id="L195"><td><a href="#L195">195</a></td><td>DYSEK:  At the moment. But daily injections increase life expectancy up to forty percent. We prescribe them for all Level Blue patients.</td></tr>
 
-  JANEWAY
-     By all means, but Gar only traded us half of what
-     he stole from you. However, we might be able to
-     get the rest of it back.
+<tr id="L196"><td><a href="#L196">196</a></td><td>EMH:  I just saw a boy on Level Red who's dying. This medicine could save his life.</td></tr>
 
-  MINER [on viewscreen]
-     All I can tell you is that the induction units
-     came from a planetoid called Velos.
+<tr id="L197"><td><a href="#L197">197</a></td><td>DYSEK:  This woman is a chief engineer of an irrigation facility which provides water to half the subcontinent.</td></tr>
 
+<tr id="L198"><td><a href="#L198">198</a></td><td>EMH:  So her life is more valuable?</td></tr>
 
-LOCATION--Level Blue
+<tr id="L199"><td><a href="#L199">199</a></td><td>DYSEK:  Keeping her healthy contributes to our survival. Can you say the same for the boy on Level Red?</td></tr>
 
-  DYSEK
-     (to another man.) You may go.
+<tr id="L200"><td><a href="#L200">200</a></td><td>EMH:  Who knows what he'll accomplish if he has the chance.</td></tr>
 
-  EMH
-     Your surgical technique is impressive.
+<tr id="L201"><td><a href="#L201">201</a></td><td>DYSEK:  If he becomes more valuable to society, his TC will rise, and then he'll receive better treatment.</td></tr>
 
-  DYSEK
-     Well. you've obviously had experience with
-     cellular repair.
+<tr id="L202"><td><a href="#L202">202</a></td><td>EMH:  He may not be around long enough.</td></tr>
 
-  EMH
-     As a matter of fact, I've done extensive research
-     on the subject. I'd be happy to share it with you,
-     but we'll have to contact Voyager to get it.
+<tr id="L203"><td><a href="#L203">203</a></td><td>DYSEK:  I'm sorry he's sick, but our society is much better off since we began following the Allocator's protocols.</td></tr>
 
-  DYSEK
-     You'll have to discuss that with Chellick. He
-     authorises all communications. It's time for this
-     patient's next injection.
+<tr id="L204"><td><a href="#L204">204</a></td><td>EMH:  Some of you are.</td></tr>
 
-  NURSE
-     Requesting one cytoglobin injection for patient B
-     three, priority blue seven gamma.
+<tr><td></td><td>LOCATION--Level Red</td></tr>
+<tr id="L205"><td><a href="#L205">205</a></td><td>VOJE:  I never expected to see you again.</td></tr>
 
-  ALLOCATOR
-     One cytoglobin injection authorised.
+<tr id="L206"><td><a href="#L206">206</a></td><td>EMH:  Why do you say that?</td></tr>
 
-  EMH
-     Does this patient have a chromo-viral infection?
+<tr id="L207"><td><a href="#L207">207</a></td><td>VOJE:  Level Blue is much more prestigious.</td></tr>
 
-  ANNOTATION
-     The nurse injects the woman on the bed.
+<tr id="L208"><td><a href="#L208">208</a></td><td>EMH:  Prestige is the least of my concerns. How is he?</td></tr>
 
-  DYSEK
-     No. Why?
+<tr id="L209"><td><a href="#L209">209</a></td><td>VOJE:  Not well.</td></tr>
 
-  EMH
-     I was told cytoglobin is the standard treatment
-     for that disease.
+<tr id="L210"><td><a href="#L210">210</a></td><td>ANNOTATION: The EMH scans the boy.</td></tr>
 
-  DYSEK
-     Cytoglobin also prevents arterial aging.
+<tr id="L211"><td><a href="#L211">211</a></td><td>EMH:  His condition's deteriorated so rapidly.</td></tr>
 
-  NURSE
-     Will that be all?
+<tr id="L212"><td><a href="#L212">212</a></td><td>VOJE:  His coenzyme allotment's been reduced.</td></tr>
 
-  DYSEK
-     You may go.
+<tr id="L213"><td><a href="#L213">213</a></td><td>EMH:  Are we here to help these people, or kill them?</td></tr>
 
-  EMH
-     This patient's arteries appear to be healthy.
+<tr id="L214"><td><a href="#L214">214</a></td><td>VOJE:  His TC is just too low.</td></tr>
 
-  DYSEK
-     At the moment. But daily injections increase life
-     expectancy up to forty percent. We prescribe them
-     for all Level Blue patients.
+<tr id="L215"><td><a href="#L215">215</a></td><td>EMH:  Maybe we can raise it.</td></tr>
 
-  EMH
-     I just saw a boy on Level Red who's dying. This
-     medicine could save his life.
+<tr id="L216"><td><a href="#L216">216</a></td><td>VOJE:  That's not possible.</td></tr>
 
-  DYSEK
-     This woman is a chief engineer of an irrigation
-     facility which provides water to half the
-     subcontinent.
+<tr id="L217"><td><a href="#L217">217</a></td><td>EMH:  If it's purely a function of statistics, we can simply input more data.</td></tr>
 
-  EMH
-     So her life is more valuable?
+<tr id="L218"><td><a href="#L218">218</a></td><td>VOJE:  We're not authorised to do that.</td></tr>
 
-  DYSEK
-     Keeping her healthy contributes to our survival.
-     Can you say the same for the boy on Level Red?
+<tr id="L219"><td><a href="#L219">219</a></td><td>EMH:  Voje, when you look at your patient lying there, you have to ask yourself what can I do? What must I do? We can amend his database to include additional skills.</td></tr>
 
-  EMH
-     Who knows what he'll accomplish if he has the
-     chance.
+<tr id="L220"><td><a href="#L220">220</a></td><td>VOJE:  Such as?</td></tr>
 
-  DYSEK
-     If he becomes more valuable to society, his TC
-     will rise, and then he'll receive better
-     treatment.
+<tr id="L221"><td><a href="#L221">221</a></td><td>EMH:  His extensive knowledge of neutronics.</td></tr>
 
-  EMH
-     He may not be around long enough.
+<tr id="L222"><td><a href="#L222">222</a></td><td>VOJE:  He doesn't know anything about neutronics.</td></tr>
 
-  DYSEK
-     I'm sorry he's sick, but our society is much
-     better off since we began following the
-     Allocator's protocols.
+<tr id="L223"><td><a href="#L223">223</a></td><td>EMH:  We can say he does. What's the harm in trying?</td></tr>
 
-  EMH
-     Some of you are.
+<tr id="L224"><td><a href="#L224">224</a></td><td>VOJE:  Amend patient R twelve's TC to include an expertise in neutronics.</td></tr>
 
+<tr id="L225"><td><a href="#L225">225</a></td><td>ALLOCATOR:  Unable to verify. Amendment denied.</td></tr>
 
-LOCATION--Level Red
+<tr id="L226"><td><a href="#L226">226</a></td><td>VOJE:  You see?</td></tr>
 
-  VOJE
-     I never expected to see you again.
+<tr id="L227"><td><a href="#L227">227</a></td><td>TEBBIS:  Hello.</td></tr>
 
-  EMH
-     Why do you say that?
+<tr id="L228"><td><a href="#L228">228</a></td><td>EMH:  Lie still.</td></tr>
 
-  VOJE
-     Level Blue is much more prestigious.
+<tr id="L229"><td><a href="#L229">229</a></td><td>TEBBIS:  What are you doing?</td></tr>
 
-  EMH
-     Prestige is the least of my concerns. How is he?
+<tr id="L230"><td><a href="#L230">230</a></td><td>EMH:  Trying to get you the proper medication.</td></tr>
 
-  VOJE
-     Not well.
+<tr id="L231"><td><a href="#L231">231</a></td><td>TEBBIS:  You're wasting time you could be spending with other patients.</td></tr>
 
-  ANNOTATION
-     The EMH scans the boy.
+<tr id="L232"><td><a href="#L232">232</a></td><td>EMH:  You have as much right to treatment as anyone.</td></tr>
 
-  EMH
-     His condition's deteriorated so rapidly.
+<tr id="L233"><td><a href="#L233">233</a></td><td>TEBBIS:  It's not your fault.</td></tr>
 
-  VOJE
-     His coenzyme allotment's been reduced.
+<tr id="L234"><td><a href="#L234">234</a></td><td>VOJE:  There's nothing you can do.</td></tr>
 
-  EMH
-     Are we here to help these people, or kill them?
+<tr><td></td><td>LOCATION--Level Blue</td></tr>
+<tr id="L235"><td><a href="#L235">235</a></td><td>EMH:  Nurse?</td></tr>
 
-  VOJE
-     His TC is just too low.
+<tr id="L236"><td><a href="#L236">236</a></td><td>NURSE:  Yes, Doctor?</td></tr>
 
-  EMH
-     Maybe we can raise it.
+<tr id="L237"><td><a href="#L237">237</a></td><td>EMH:  Why hasn't this patient received her additional cytoglobin injection?</td></tr>
 
-  VOJE
-     That's not possible.
+<tr id="L238"><td><a href="#L238">238</a></td><td>NURSE:  Additional?</td></tr>
 
-  EMH
-     If it's purely a function of statistics, we can
-     simply input more data.
+<tr id="L239"><td><a href="#L239">239</a></td><td>EMH:  If you'd examined her chart, you'd see that I've increased her dosage.</td></tr>
 
-  VOJE
-     We're not authorised to do that.
+<tr id="L240"><td><a href="#L240">240</a></td><td>NURSE:  Doctor Dysek didn't say anything.</td></tr>
 
-  EMH
-     Voje, when you look at your patient lying there,
-     you have to ask yourself what can I do? What must
-     I do? We can amend his database to include
-     additional skills.
+<tr id="L241"><td><a href="#L241">241</a></td><td>EMH:  Doctor Dysek is at home with his family. Would you like me to contact him so you can explain why you're not doing your job?</td></tr>
 
-  VOJE
-     Such as?
+<tr id="L242"><td><a href="#L242">242</a></td><td>NURSE:  No, Doctor. Requesting one cytoglobin injection for Patient B three, priority blue seven gamma.</td></tr>
 
-  EMH
-     His extensive knowledge of neutronics.
+<tr id="L243"><td><a href="#L243">243</a></td><td>ALLOCATOR:  One cytoglobin injection authorised.</td></tr>
 
-  VOJE
-     He doesn't know anything about neutronics.
+<tr id="L244"><td><a href="#L244">244</a></td><td>EMH:  I'll do it myself.</td></tr>
 
-  EMH
-     We can say he does. What's the harm in trying?
+<tr id="L245"><td><a href="#L245">245</a></td><td>NURSE:  Can I assist you?</td></tr>
 
-  VOJE
-     Amend patient R twelve's TC to include an
-     expertise in neutronics.
+<tr id="L246"><td><a href="#L246">246</a></td><td>EMH:  You may go.</td></tr>
 
-  ALLOCATOR
-     Unable to verify. Amendment denied.
+<tr id="L247"><td><a href="#L247">247</a></td><td>ANNOTATION: When she has gone he pockets the hypo and goes down to Level Red, where he uses it on Tebbis instead.</td></tr>
 
-  VOJE
-     You see?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L248"><td><a href="#L248">248</a></td><td>ANNOTATION: An alien with a very high forehead.</td></tr>
 
-  TEBBIS
-     Hello.
+<tr id="L249"><td><a href="#L249">249</a></td><td>KIPP [on viewscreen]:  He convinced me to let him take the induction units on consignment. That was more than ten days ago. I haven't heard from him since.</td></tr>
 
-  EMH
-     Lie still.
+<tr id="L250"><td><a href="#L250">250</a></td><td>TUVOK:  You appear to be an experienced merchant, Mister Kipp. Why would you trust someone like Gar?</td></tr>
 
-  TEBBIS
-     What are you doing?
+<tr id="L251"><td><a href="#L251">251</a></td><td>KIPP [on viewscreen]:  He came highly recommended.</td></tr>
 
-  EMH
-     Trying to get you the proper medication.
+<tr id="L252"><td><a href="#L252">252</a></td><td>TUVOK:  By whom?</td></tr>
 
-  TEBBIS
-     You're wasting time you could be spending with
-     other patients.
+<tr id="L253"><td><a href="#L253">253</a></td><td>KIPP [on viewscreen]:  A buyer I know. He said he's been trading with Gar for years.</td></tr>
 
-  EMH
-     You have as much right to treatment as anyone.
+<tr id="L254"><td><a href="#L254">254</a></td><td>JANEWAY:  Do you know where we can find this buyer?</td></tr>
 
-  TEBBIS
-     It's not your fault.
+<tr id="L255"><td><a href="#L255">255</a></td><td>HUSBAND [on viewscreen]:  Yes, Captain. I am the fool who said that Gar could be trusted.</td></tr>
 
-  VOJE
-     There's nothing you can do.
+<tr id="L256"><td><a href="#L256">256</a></td><td>JANEWAY:  Sounds like you've changed your mind.</td></tr>
 
+<tr id="L257"><td><a href="#L257">257</a></td><td>HUSBAND [on viewscreen]:  I should have known it was a mistake but, well, you see, I have never been able to say no to my wife.</td></tr>
 
-LOCATION--Level Blue
+<tr id="L258"><td><a href="#L258">258</a></td><td>TUVOK:  What does she have to do with it?</td></tr>
 
-  EMH
-     Nurse?
+<tr id="L259"><td><a href="#L259">259</a></td><td>HUSBAND [on viewscreen]:  Well, she's the one who asked me to recommend Gar.</td></tr>
 
-  NURSE
-     Yes, Doctor?
+<tr id="L260"><td><a href="#L260">260</a></td><td>TUVOK:  Then she must know him well.</td></tr>
 
-  EMH
-     Why hasn't this patient received her additional
-     cytoglobin injection?
+<tr id="L261"><td><a href="#L261">261</a></td><td>HUSBAND [on viewscreen]:  They're, er, friends.</td></tr>
 
-  NURSE
-     Additional?
+<tr id="L262"><td><a href="#L262">262</a></td><td>TUVOK:  May we speak with her?</td></tr>
 
-  EMH
-     If you'd examined her chart, you'd see that I've
-     increased her dosage.
+<tr id="L263"><td><a href="#L263">263</a></td><td>HUSBAND [on viewscreen]:  She's, er. Well, she's not here.</td></tr>
 
-  NURSE
-     Doctor Dysek didn't say anything.
+<tr id="L264"><td><a href="#L264">264</a></td><td>JANEWAY:  Do you know where we might find her?</td></tr>
 
-  EMH
-     Doctor Dysek is at home with his family. Would you
-     like me to contact him so you can explain why
-     you're not doing your job?
+<tr id="L265"><td><a href="#L265">265</a></td><td>HUSBAND [on viewscreen]:  She left me.</td></tr>
 
-  NURSE
-     No, Doctor. Requesting one cytoglobin injection
-     for Patient B three, priority blue seven gamma.
+<tr id="L266"><td><a href="#L266">266</a></td><td>ADULTERESS [on viewscreen]:  You're a woman. You saw my husband with your own eyes. Overweight, depressed. You would have left him too, especially if you had met someone as exciting as Gar.</td></tr>
 
-  ALLOCATOR
-     One cytoglobin injection authorised.
+<tr id="L267"><td><a href="#L267">267</a></td><td>JANEWAY:  Yes, he's very exciting.</td></tr>
 
-  EMH
-     I'll do it myself.
+<tr id="L268"><td><a href="#L268">268</a></td><td>ADULTERESS [on viewscreen]:  That's why you're looking for him, isn't it? You want him for yourself.</td></tr>
 
-  NURSE
-     Can I assist you?
+<tr id="L269"><td><a href="#L269">269</a></td><td>JANEWAY:  I assure you, I have no romantic interest in him whatsoever.</td></tr>
 
-  EMH
-     You may go.
+<tr id="L270"><td><a href="#L270">270</a></td><td>ADULTERESS [on viewscreen]:  Why? Not good enough for you?</td></tr>
 
-  ANNOTATION
-     When she has gone he pockets the hypo and goes
-     down to Level Red, where he uses it on Tebbis
-     instead.
+<tr id="L271"><td><a href="#L271">271</a></td><td>JANEWAY:  No, it's not that, it's just that</td></tr>
 
+<tr id="L272"><td><a href="#L272">272</a></td><td>ANNOTATION: Janeway takes Tuvok's hand.</td></tr>
 
-LOCATION--Bridge
+<tr id="L273"><td><a href="#L273">273</a></td><td>JANEWAY:  I already have a man.</td></tr>
 
-  ANNOTATION
-     An alien with a very high forehead.
+<tr id="L274"><td><a href="#L274">274</a></td><td>TUVOK:  We have a business opportunity for Mister Gar. One that will expire if we don't find him soon.</td></tr>
 
-  KIPP [on viewscreen]
-     He convinced me to let him take the induction
-     units on consignment. That was more than ten days
-     ago. I haven't heard from him since.
+<tr id="L275"><td><a href="#L275">275</a></td><td>ADULTERESS [on viewscreen]:  He's on his way to the gambling tournament on Selek Four. When you see him, tell him to hurry home.</td></tr>
 
-  TUVOK
-     You appear to be an experienced merchant, Mister
-     Kipp. Why would you trust someone like Gar?
+<tr><td></td><td>LOCATION--Level Red</td></tr>
+<tr id="L276"><td><a href="#L276">276</a></td><td>EMH:  How are you feeling?</td></tr>
 
-  KIPP [on viewscreen]
-     He came highly recommended.
+<tr id="L277"><td><a href="#L277">277</a></td><td>TEBBIS:  Better.</td></tr>
 
-  TUVOK
-     By whom?
+<tr id="L278"><td><a href="#L278">278</a></td><td>EMH:  That's what happens when you get the proper treatment.</td></tr>
 
-  KIPP [on viewscreen]
-     A buyer I know. He said he's been trading with Gar
-     for years.
+<tr id="L279"><td><a href="#L279">279</a></td><td>TEBBIS:  But I'm not authorised to receive cytoglobin.</td></tr>
 
-  JANEWAY
-     Do you know where we can find this buyer?
+<tr id="L280"><td><a href="#L280">280</a></td><td>EMH:  You are now. You'll need several more injections, but you can expect a complete recovery.</td></tr>
 
-  HUSBAND [on viewscreen]
-     Yes, Captain. I am the fool who said that Gar
-     could be trusted.
+<tr id="L281"><td><a href="#L281">281</a></td><td>TEBBIS:  Whatever you did, they'll find out. They'll punish you.</td></tr>
 
-  JANEWAY
-     Sounds like you've changed your mind.
+<tr id="L282"><td><a href="#L282">282</a></td><td>EMH:  You're assuming I've done something illicit.</td></tr>
 
-  HUSBAND [on viewscreen]
-     I should have known it was a mistake but, well,
-     you see, I have never been able to say no to my
-     wife.
+<tr id="L283"><td><a href="#L283">283</a></td><td>TEBBIS:  Didn't you?</td></tr>
 
-  TUVOK
-     What does she have to do with it?
+<tr id="L284"><td><a href="#L284">284</a></td><td>EMH:  Of course not. I simply had a talk with Chellick, explained to him what a bright young man you are, and he had the Allocator recalculate your TC.</td></tr>
 
-  HUSBAND [on viewscreen]
-     Well, she's the one who asked me to recommend Gar.
+<tr id="L285"><td><a href="#L285">285</a></td><td>TEBBIS:  I've never met a doctor like you.</td></tr>
 
-  TUVOK
-     Then she must know him well.
+<tr id="L286"><td><a href="#L286">286</a></td><td>EMH:  Well, it's not hard to stand out when the general level of competence is so low.</td></tr>
 
-  HUSBAND [on viewscreen]
-     They're, er, friends.
+<tr id="L287"><td><a href="#L287">287</a></td><td>TEBBIS:  There are patients on this level who deserve a higher TC than I do. Could you talk to Chellick about them?</td></tr>
 
-  TUVOK
-     May we speak with her?
+<tr id="L288"><td><a href="#L288">288</a></td><td>ANNOTATION: The EMH goes to find Voje. He is carrying a case.</td></tr>
 
-  HUSBAND [on viewscreen]
-     She's, er. Well, she's not here.
+<tr id="L289"><td><a href="#L289">289</a></td><td>VOJE:  Thank you.</td></tr>
 
-  JANEWAY
-     Do you know where we might find her?
+<tr id="L290"><td><a href="#L290">290</a></td><td>EMH:  Ah, Voje. You're not busy, are you?</td></tr>
 
-  HUSBAND [on viewscreen]
-     She left me.
+<tr id="L291"><td><a href="#L291">291</a></td><td>VOJE:  Well, actually, I was just</td></tr>
 
-  ADULTERESS [on viewscreen]
-     You're a woman. You saw my husband with your own
-     eyes. Overweight, depressed. You would have left
-     him too, especially if you had met someone as
-     exciting as Gar.
+<tr id="L292"><td><a href="#L292">292</a></td><td>EMH:  I want you to help me dispense these injections.</td></tr>
 
-  JANEWAY
-     Yes, he's very exciting.
+<tr id="L293"><td><a href="#L293">293</a></td><td>VOJE:  Where did you get the cytoglobin?</td></tr>
 
-  ADULTERESS [on viewscreen]
-     That's why you're looking for him, isn't it? You
-     want him for yourself.
+<tr id="L294"><td><a href="#L294">294</a></td><td>EMH:  Level Blue, where else.</td></tr>
 
-  JANEWAY
-     I assure you, I have no romantic interest in him
-     whatsoever.
+<tr id="L295"><td><a href="#L295">295</a></td><td>VOJE:  You stole it?</td></tr>
 
-  ADULTERESS [on viewscreen]
-     Why? Not good enough for you?
+<tr id="L296"><td><a href="#L296">296</a></td><td>EMH:  I prefer to think of it as reallocation. We're going to treat every chromo-virus patient on this level.</td></tr>
 
-  JANEWAY
-     No, it's not that, it's just that
+<tr id="L297"><td><a href="#L297">297</a></td><td>VOJE:  Do you have any idea what kind of trouble we could get into?</td></tr>
 
-  ANNOTATION
-     Janeway takes Tuvok's hand.
+<tr id="L298"><td><a href="#L298">298</a></td><td>EMH:  We? Then you will help me.</td></tr>
 
-  JANEWAY
-     I already have a man.
+<tr id="L299"><td><a href="#L299">299</a></td><td>VOJE:  No, absolutely not. Modifying data files was bad enough.</td></tr>
 
-  TUVOK
-     We have a business opportunity for Mister Gar. One
-     that will expire if we don't find him soon.
+<tr id="L300"><td><a href="#L300">300</a></td><td>EMH:  Well, I certainly wouldn't want you to do anything to compromise your ethics.</td></tr>
 
-  ADULTERESS [on viewscreen]
-     He's on his way to the gambling tournament on
-     Selek Four. When you see him, tell him to hurry
-     home.
+<tr id="L301"><td><a href="#L301">301</a></td><td>TEBBIS:  I'll help you.</td></tr>
 
+<tr id="L302"><td><a href="#L302">302</a></td><td>VOJE:  You should be in bed.</td></tr>
 
-LOCATION--Level Red
+<tr id="L303"><td><a href="#L303">303</a></td><td>EMH:  Actually, now that he's improving a little, activity will do him good. You can go back to doing whatever you were doing.</td></tr>
 
-  EMH
-     How are you feeling?
+<tr id="L304"><td><a href="#L304">304</a></td><td>ANNOTATION: Tebbis and the EMH find an unconscious man.</td></tr>
 
-  TEBBIS
-     Better.
+<tr id="L305"><td><a href="#L305">305</a></td><td>EMH:  The best place to inject him is here, in the lateral artery.</td></tr>
 
-  EMH
-     That's what happens when you get the proper
-     treatment.
+<tr id="L306"><td><a href="#L306">306</a></td><td>ANNOTATION: Tebbis does it.</td></tr>
 
-  TEBBIS
-     But I'm not authorised to receive cytoglobin.
+<tr id="L307"><td><a href="#L307">307</a></td><td>EMH:  Excellent work. It's nice to see someone in this hospital has a future as a healer.</td></tr>
 
-  EMH
-     You are now. You'll need several more injections,
-     but you can expect a complete recovery.
+<tr id="L308"><td><a href="#L308">308</a></td><td>VOJE:  If we each take a third of the patients, maybe we can finish before someone catches us.</td></tr>
 
-  TEBBIS
-     Whatever you did, they'll find out. They'll punish
-     you.
+<tr><td></td><td>LOCATION--Level Blue</td></tr>
+<tr id="L309"><td><a href="#L309">309</a></td><td>DYSEK:  Who do you think you are, prescribing unnecessary medications for my patients?</td></tr>
 
-  EMH
-     You're assuming I've done something illicit.
+<tr id="L310"><td><a href="#L310">310</a></td><td>EMH:  It wasn't unnecessary.</td></tr>
 
-  TEBBIS
-     Didn't you?
+<tr id="L311"><td><a href="#L311">311</a></td><td>DYSEK:  If you believe that, you're incompetent. Or perhaps malfunctioning.</td></tr>
 
-  EMH
-     Of course not. I simply had a talk with Chellick,
-     explained to him what a bright young man you are,
-     and he had the Allocator recalculate your TC.
+<tr id="L312"><td><a href="#L312">312</a></td><td>EMH:  I was simply trying to increase our allocation of resources.</td></tr>
 
-  TEBBIS
-     I've never met a doctor like you.
+<tr id="L313"><td><a href="#L313">313</a></td><td>DYSEK:  What are you talking about?</td></tr>
 
-  EMH
-     Well, it's not hard to stand out when the general
-     level of competence is so low.
+<tr id="L314"><td><a href="#L314">314</a></td><td>EMH:  I did some checking. Last month, Level Blue's total medication requests were down by six percent.</td></tr>
 
-  TEBBIS
-     There are patients on this level who deserve a
-     higher TC than I do. Could you talk to Chellick
-     about them?
+<tr id="L315"><td><a href="#L315">315</a></td><td>DYSEK:  Because our cure rate was higher.</td></tr>
 
-  ANNOTATION
-     The EMH goes to find Voje. He is carrying a case.
+<tr id="L316"><td><a href="#L316">316</a></td><td>EMH:  Exactly. Because you performed so efficiently last month, the Allocator will determine you're able to do with less next month. If we don't order more medication now, we may not get it when we need it. Think about it, Doctor. If you don't have the proper resources, your cure rate could go down. If that happens, the Allocator may assign you to a lower level.</td></tr>
 
-  VOJE
-     Thank you.
+<tr id="L317"><td><a href="#L317">317</a></td><td>ANNOTATION: Chellick comes out of his office.</td></tr>
 
-  EMH
-     Ah, Voje. You're not busy, are you?
+<tr id="L318"><td><a href="#L318">318</a></td><td>CHELLICK:  Are we having a problem with our newest piece of technology?</td></tr>
 
-  VOJE
-     Well, actually, I was just
+<tr id="L319"><td><a href="#L319">319</a></td><td>DYSEK:  Actually, he seems to be learning the system quite well.</td></tr>
 
-  EMH
-     I want you to help me dispense these injections.
+<tr><td></td><td>LOCATION--Level Red</td></tr>
+<tr id="L320"><td><a href="#L320">320</a></td><td>VOJE:  Three of the patients we injected are practically virus free.</td></tr>
 
-  VOJE
-     Where did you get the cytoglobin?
+<tr id="L321"><td><a href="#L321">321</a></td><td>EMH:  What did you expect?</td></tr>
 
-  EMH
-     Level Blue, where else.
+<tr id="L322"><td><a href="#L322">322</a></td><td>VOJE:  Maybe we could reallocate other medications. Treat more patients.</td></tr>
 
-  VOJE
-     You stole it?
+<tr id="L323"><td><a href="#L323">323</a></td><td>EMH:  Now you're thinking like a doctor. And to support your efforts, I've arranged for resources from Level Blue to be diverted here on a regular basis.</td></tr>
 
-  EMH
-     I prefer to think of it as reallocation. We're
-     going to treat every chromo-virus patient on this
-     level.
+<tr id="L324"><td><a href="#L324">324</a></td><td>VOJE:  How did you manage that?</td></tr>
 
-  VOJE
-     Do you have any idea what kind of trouble we could
-     get into?
+<tr id="L325"><td><a href="#L325">325</a></td><td>EMH:  Let's just say Doctor Dysek and I have developed a professional rapport. Sometimes I even surprise myself.</td></tr>
 
-  EMH
-     We? Then you will help me.
+<tr id="L326"><td><a href="#L326">326</a></td><td>VOJE:  We may actually make these people better.</td></tr>
 
-  VOJE
-     No, absolutely not. Modifying data files was bad
-     enough.
+<tr id="L327"><td><a href="#L327">327</a></td><td>EMH:  That feeling you get from healing someone. Infectious, isn't it?</td></tr>
 
-  EMH
-     Well, I certainly wouldn't want you to do anything
-     to compromise your ethics.
+<tr id="L328"><td><a href="#L328">328</a></td><td>ANNOTATION: They go to Tebbis' bed.</td></tr>
 
-  TEBBIS
-     I'll help you.
+<tr id="L329"><td><a href="#L329">329</a></td><td>VOJE:  Where did you get that?</td></tr>
 
-  VOJE
-     You should be in bed.
+<tr id="L330"><td><a href="#L330">330</a></td><td>TEBBIS:  One of the technicians was going to recycle it because it wasn't working, but I think I fixed it.</td></tr>
 
-  EMH
-     Actually, now that he's improving a little,
-     activity will do him good. You can go back to
-     doing whatever you were doing.
+<tr id="L331"><td><a href="#L331">331</a></td><td>ANNOTATION: It is a hand-held medical scanner.</td></tr>
 
-  ANNOTATION
-     Tebbis and the EMH find an unconscious man.
+<tr id="L332"><td><a href="#L332">332</a></td><td>EMH:  It seems to be in good condition, and so do you. You'll be well enough to leave soon.</td></tr>
 
-  EMH
-     The best place to inject him is here, in the
-     lateral artery.
+<tr id="L333"><td><a href="#L333">333</a></td><td>TEBBIS:  Couldn't you say I'm still sick?</td></tr>
 
-  ANNOTATION
-     Tebbis does it.
+<tr id="L334"><td><a href="#L334">334</a></td><td>EMH:  Don't you want to go home?</td></tr>
 
-  EMH
-     Excellent work. It's nice to see someone in this
-     hospital has a future as a healer.
+<tr id="L335"><td><a href="#L335">335</a></td><td>TEBBIS:  If I do, they'll send me to work in the refinery with my father.</td></tr>
 
-  VOJE
-     If we each take a third of the patients, maybe we
-     can finish before someone catches us.
+<tr id="L336"><td><a href="#L336">336</a></td><td>EMH:  What about school? Your medical training?</td></tr>
 
+<tr id="L337"><td><a href="#L337">337</a></td><td>TEBBIS:  I would never be authorised for that.</td></tr>
 
-LOCATION--Level Blue
+<tr id="L338"><td><a href="#L338">338</a></td><td>VOJE:  He's right.</td></tr>
 
-  DYSEK
-     Who do you think you are, prescribing unnecessary
-     medications for my patients?
+<tr id="L339"><td><a href="#L339">339</a></td><td>TEBBIS:  If I stay here, you can teach me, and I can help you treat your patients.</td></tr>
 
-  EMH
-     It wasn't unnecessary.
+<tr id="L340"><td><a href="#L340">340</a></td><td>EMH:  I'm not planning on being here that long, myself.</td></tr>
 
-  DYSEK
-     If you believe that, you're incompetent. Or
-     perhaps malfunctioning.
+<tr id="L341"><td><a href="#L341">341</a></td><td>TEBBIS:  Then I can help Doctor Voje.</td></tr>
 
-  EMH
-     I was simply trying to increase our allocation of
-     resources.
+<tr id="L342"><td><a href="#L342">342</a></td><td>EMH:  We'll see what we can do.</td></tr>
 
-  DYSEK
-     What are you talking about?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L343"><td><a href="#L343">343</a></td><td>TUVOK:  I have picked up Gar's ship, directly ahead.</td></tr>
 
-  EMH
-     I did some checking. Last month, Level Blue's
-     total medication requests were down by six
-     percent.
+<tr id="L344"><td><a href="#L344">344</a></td><td>PARIS:  Again?</td></tr>
 
-  DYSEK
-     Because our cure rate was higher.
+<tr id="L345"><td><a href="#L345">345</a></td><td>TUVOK:  I'm reading his biosigns.</td></tr>
 
-  EMH
-     Exactly. Because you performed so efficiently last
-     month, the Allocator will determine you're able to
-     do with less next month. If we don't order more
-     medication now, we may not get it when we need it.
-     Think about it, Doctor. If you don't have the
-     proper resources, your cure rate could go down. If
-     that happens, the Allocator may assign you to a
-     lower level.
+<tr id="L346"><td><a href="#L346">346</a></td><td>CHAKOTAY:  Any sign of the Doctor or his emitter?</td></tr>
 
-  ANNOTATION
-     Chellick comes out of his office.
+<tr id="L347"><td><a href="#L347">347</a></td><td>TUVOK:  Not yet.</td></tr>
 
-  CHELLICK
-     Are we having a problem with our newest piece of
-     technology?
+<tr id="L348"><td><a href="#L348">348</a></td><td>KIM:  Should I hail Gar?</td></tr>
 
-  DYSEK
-     Actually, he seems to be learning the system quite
-     well.
+<tr id="L349"><td><a href="#L349">349</a></td><td>JANEWAY:  If we let him know we're here, he may try to slip away.</td></tr>
 
+<tr id="L350"><td><a href="#L350">350</a></td><td>CHAKOTAY:  We could drop out of warp at close range and grab him before he knows what's happening.</td></tr>
 
-LOCATION--Level Red
+<tr id="L351"><td><a href="#L351">351</a></td><td>JANEWAY:  I like it. Tom, Tuvok.</td></tr>
 
-  VOJE
-     Three of the patients we injected are practically
-     virus free.
+<tr id="L352"><td><a href="#L352">352</a></td><td>ANNOTATION: Voyager appears overhead and puts a tractor beam on the small ship.</td></tr>
 
-  EMH
-     What did you expect?
+<tr id="L353"><td><a href="#L353">353</a></td><td>KIM:  He's hailing.</td></tr>
 
-  VOJE
-     Maybe we could reallocate other medications. Treat
-     more patients.
+<tr id="L354"><td><a href="#L354">354</a></td><td>JANEWAY:  I guess we put him in the mood to talk. On screen.</td></tr>
 
-  EMH
-     Now you're thinking like a doctor. And to support
-     your efforts, I've arranged for resources from
-     Level Blue to be diverted here on a regular basis.
+<tr id="L355"><td><a href="#L355">355</a></td><td>GAR [on viewscreen]:  I thought we were friends, Captain. Why am I being treated this way? I think I deserve better.</td></tr>
 
-  VOJE
-     How did you manage that?
+<tr id="L356"><td><a href="#L356">356</a></td><td>JANEWAY:  Where's our doctor?</td></tr>
 
-  EMH
-     Let's just say Doctor Dysek and I have developed a
-     professional rapport. Sometimes I even surprise
-     myself.
+<tr id="L357"><td><a href="#L357">357</a></td><td>GAR [on viewscreen]:  I have no idea. I certainly hope nothing's happened to him.</td></tr>
 
-  VOJE
-     We may actually make these people better.
+<tr id="L358"><td><a href="#L358">358</a></td><td>TUVOK:  Scans are complete. Neither the mobile emitter nor the Doctor's programme are aboard Gar's ship.</td></tr>
 
-  EMH
-     That feeling you get from healing someone.
-     Infectious, isn't it?
+<tr id="L359"><td><a href="#L359">359</a></td><td>GAR [on viewscreen]:  Well, of course they're not.</td></tr>
 
-  ANNOTATION
-     They go to Tebbis' bed.
+<tr id="L360"><td><a href="#L360">360</a></td><td>CHAKOTAY:  He's trying to destabilise the tractor beam with a feedback pulse.</td></tr>
 
-  VOJE
-     Where did you get that?
+<tr id="L361"><td><a href="#L361">361</a></td><td>KIM:  Compensating.</td></tr>
 
-  TEBBIS
-     One of the technicians was going to recycle it
-     because it wasn't working, but I think I fixed it.
+<tr id="L362"><td><a href="#L362">362</a></td><td>JANEWAY:  Don't bother, Harry. Just beam him to the brig.</td></tr>
 
-  ANNOTATION
-     It is a hand-held medical scanner.
+<tr><td></td><td>LOCATION--Level Red</td></tr>
+<tr id="L363"><td><a href="#L363">363</a></td><td>EMH:  Tebbis, wake up. Time to make our rounds.</td></tr>
 
-  EMH
-     It seems to be in good condition, and so do you.
-     You'll be well enough to leave soon.
+<tr id="L364"><td><a href="#L364">364</a></td><td>ANNOTATION: But there is an elderly woman in Tebbis' bed.</td></tr>
 
-  TEBBIS
-     Couldn't you say I'm still sick?
+<tr id="L365"><td><a href="#L365">365</a></td><td>EMH:  Locate Patient R twelve.</td></tr>
 
-  EMH
-     Don't you want to go home?
+<tr id="L366"><td><a href="#L366">366</a></td><td>ALLOCATOR:  Patient R twelve has been transferred to Level White.</td></tr>
 
-  TEBBIS
-     If I do, they'll send me to work in the refinery
-     with my father.
+<tr id="L367"><td><a href="#L367">367</a></td><td>EMH:  Tebbis has been moved.</td></tr>
 
-  EMH
-     What about school? Your medical training?
+<tr id="L368"><td><a href="#L368">368</a></td><td>VOJE:  I know.</td></tr>
 
-  TEBBIS
-     I would never be authorised for that.
+<tr id="L369"><td><a href="#L369">369</a></td><td>EMH:  What's Level White? Some kind of patient recovery area?</td></tr>
 
-  VOJE
-     He's right.
+<tr id="L370"><td><a href="#L370">370</a></td><td>VOJE:  It's the morgue.</td></tr>
 
-  TEBBIS
-     If I stay here, you can teach me, and I can help
-     you treat your patients.
+<tr><td></td><td>LOCATION--Chellick's office</td></tr>
+<tr id="L371"><td><a href="#L371">371</a></td><td>EMH:  I demand an explanation for the death of that boy.</td></tr>
 
-  EMH
-     I'm not planning on being here that long, myself.
+<tr id="L372"><td><a href="#L372">372</a></td><td>CHELLICK:  I'm responsible for thousands of patients. You'll have to be more specific.</td></tr>
 
-  TEBBIS
-     Then I can help Doctor Voje.
+<tr id="L373"><td><a href="#L373">373</a></td><td>EMH:  His name was Tebbis, Patient R twelve.</td></tr>
 
-  EMH
-     We'll see what we can do.
+<tr id="L374"><td><a href="#L374">374</a></td><td>CHELLICK:  Acute chromo-viral disease.</td></tr>
 
+<tr id="L375"><td><a href="#L375">375</a></td><td>EMH:  He was recovering.</td></tr>
 
-LOCATION--Bridge
+<tr id="L376"><td><a href="#L376">376</a></td><td>CHELLICK:  Apparently, he developed complications.</td></tr>
 
-  TUVOK
-     I have picked up Gar's ship, directly ahead.
+<tr id="L377"><td><a href="#L377">377</a></td><td>EMH:  What kind of complications?</td></tr>
 
-  PARIS
-     Again?
+<tr id="L378"><td><a href="#L378">378</a></td><td>CHELLICK:  A secondary infection. It spread rapidly.</td></tr>
 
-  TUVOK
-     I'm reading his biosigns.
+<tr id="L379"><td><a href="#L379">379</a></td><td>EMH:  How was it treated?</td></tr>
 
-  CHAKOTAY
-     Any sign of the Doctor or his emitter?
+<tr id="L380"><td><a href="#L380">380</a></td><td>CHELLICK:  It wasn't. The patient had exceeded his medication allotment. It seems someone had given him unauthorised injections. Did you think I wouldn't find out?</td></tr>
 
-  TUVOK
-     Not yet.
+<tr id="L381"><td><a href="#L381">381</a></td><td>EMH:  Don't you have any ethical standards?</td></tr>
 
-  KIM
-     Should I hail Gar?
+<tr id="L382"><td><a href="#L382">382</a></td><td>CHELLICK:  You are hardly in a position to speak to me of ethics. Lying, stealing. Any other crimes you wish to confess?</td></tr>
 
-  JANEWAY
-     If we let him know we're here, he may try to slip
-     away.
+<tr id="L383"><td><a href="#L383">383</a></td><td>EMH:  I was trying to save lives.</td></tr>
 
-  CHAKOTAY
-     We could drop out of warp at close range and grab
-     him before he knows what's happening.
+<tr id="L384"><td><a href="#L384">384</a></td><td>CHELLICK:  And I am trying to save a society. Do you really think Patient R twelve is going to help me do that?</td></tr>
 
-  JANEWAY
-     I like it. Tom, Tuvok.
+<tr id="L385"><td><a href="#L385">385</a></td><td>EMH:  His name was Tebbis.</td></tr>
 
-  ANNOTATION
-     Voyager appears overhead and puts a tractor beam
-     on the small ship.
+<tr id="L386"><td><a href="#L386">386</a></td><td>CHELLICK:  He wasn't contributing. He was a drain on resources.</td></tr>
 
-  KIM
-     He's hailing.
+<tr id="L387"><td><a href="#L387">387</a></td><td>EMH:  You're not just rationing health care here. You're getting rid of the sick and the weak.</td></tr>
 
-  JANEWAY
-     I guess we put him in the mood to talk. On screen.
+<tr id="L388"><td><a href="#L388">388</a></td><td>CHELLICK:  If the boy had been fit, he would have survived.</td></tr>
 
-  GAR [on viewscreen]
-     I thought we were friends, Captain. Why am I being
-     treated this way? I think I deserve better.
+<tr id="L389"><td><a href="#L389">389</a></td><td>EMH:  Why don't you just put a phaser to their heads?</td></tr>
 
-  JANEWAY
-     Where's our doctor?
+<tr id="L390"><td><a href="#L390">390</a></td><td>CHELLICK:  We're healers, not killers.</td></tr>
 
-  GAR [on viewscreen]
-     I have no idea. I certainly hope nothing's
-     happened to him.
+<tr id="L391"><td><a href="#L391">391</a></td><td>EMH:  I'm going to expose you.</td></tr>
 
-  TUVOK
-     Scans are complete. Neither the mobile emitter nor
-     the Doctor's programme are aboard Gar's ship.
+<tr id="L392"><td><a href="#L392">392</a></td><td>CHELLICK:  To whom, the people who employ me? They brought me here to make the hard choices they don't want to make. From now on, I'm restricting you to Level Blue. You've done enough damage on Red.</td></tr>
 
-  GAR [on viewscreen]
-     Well, of course they're not.
+<tr id="L393"><td><a href="#L393">393</a></td><td>EMH:  You mean those patients that I treated? Yes, that was inconsiderate of me.</td></tr>
 
-  CHAKOTAY
-     He's trying to destabilise the tractor beam with a
-     feedback pulse.
+<tr id="L394"><td><a href="#L394">394</a></td><td>CHELLICK:  It was. You managed to exceed their annual medication allotment in a matter of days. They're being sent home.</td></tr>
 
-  KIM
-     Compensating.
+<tr id="L395"><td><a href="#L395">395</a></td><td>EMH:  They'll die.</td></tr>
 
-  JANEWAY
-     Don't bother, Harry. Just beam him to the brig.
+<tr id="L396"><td><a href="#L396">396</a></td><td>CHELLICK:  You should have considered the consequences of your actions.</td></tr>
 
+<tr id="L397"><td><a href="#L397">397</a></td><td>EMH:  Please, don't make them suffer for my mistakes. It won't happen again.</td></tr>
 
-LOCATION--Level Red
+<tr id="L398"><td><a href="#L398">398</a></td><td>CHELLICK:  I'm making certain of that. From now on, your time will be strictly regulated.</td></tr>
 
-  EMH
-     Tebbis, wake up. Time to make our rounds.
+<tr id="L399"><td><a href="#L399">399</a></td><td>EMH:  Meaning what?</td></tr>
 
-  ANNOTATION
-     But there is an elderly woman in Tebbis' bed.
+<tr id="L400"><td><a href="#L400">400</a></td><td>CHELLICK:  I've interfaced your holomatrix with the Allocator. Starting now, it will determine where you go, when you go and what you do when you get there.</td></tr>
 
-  EMH
-     Locate Patient R twelve.
+<tr id="L401"><td><a href="#L401">401</a></td><td>ALLOCATOR:  The medical hologram will now commence treatment on Level Blue.</td></tr>
 
-  ALLOCATOR
-     Patient R twelve has been transferred to Level
-     White.
+<tr><td></td><td>LOCATION--Level Blue</td></tr>
+<tr id="L402"><td><a href="#L402">402</a></td><td>ANNOTATION: The EMH appears next to a bed.</td></tr>
 
-  EMH
-     Tebbis has been moved.
+<tr id="L403"><td><a href="#L403">403</a></td><td>ALLOCATOR:  You have six minutes to treat Patient B three.</td></tr>
 
-  VOJE
-     I know.
+<tr><td></td><td>LOCATION--Brig</td></tr>
+<tr id="L404"><td><a href="#L404">404</a></td><td>GAR:  I don't know where he is.</td></tr>
 
-  EMH
-     What's Level White? Some kind of patient recovery
-     area?
+<tr id="L405"><td><a href="#L405">405</a></td><td>TUVOK:  Not now, perhaps, but you know where you took him.</td></tr>
 
-  VOJE
-     It's the morgue.
+<tr id="L406"><td><a href="#L406">406</a></td><td>GAR:  The last time I saw him he was in your Sickbay.</td></tr>
 
+<tr id="L407"><td><a href="#L407">407</a></td><td>TUVOK:  If you refuse to cooperate, your knowledge of his location can be extracted.</td></tr>
 
-LOCATION--Chellick's office
+<tr id="L408"><td><a href="#L408">408</a></td><td>GAR:  How?</td></tr>
 
-  EMH
-     I demand an explanation for the death of that boy.
+<tr id="L409"><td><a href="#L409">409</a></td><td>TUVOK:  A mind meld.</td></tr>
 
-  CHELLICK
-     I'm responsible for thousands of patients. You'll
-     have to be more specific.
+<tr id="L410"><td><a href="#L410">410</a></td><td>GAR:  What's that?</td></tr>
 
-  EMH
-     His name was Tebbis, Patient R twelve.
+<tr id="L411"><td><a href="#L411">411</a></td><td>TUVOK:  An invasive and disturbing procedure.</td></tr>
 
-  CHELLICK
-     Acute chromo-viral disease.
+<tr id="L412"><td><a href="#L412">412</a></td><td>NEELIX:  Dinnertime!</td></tr>
 
-  EMH
-     He was recovering.
+<tr id="L413"><td><a href="#L413">413</a></td><td>TUVOK:  Mister Neelix, I am in the middle of an interrogation.</td></tr>
 
-  CHELLICK
-     Apparently, he developed complications.
+<tr id="L414"><td><a href="#L414">414</a></td><td>NEELIX:  Commander, you know better than anyone that Starfleet has strict guidelines about allowing prisoners to eat.</td></tr>
 
-  EMH
-     What kind of complications?
+<tr id="L415"><td><a href="#L415">415</a></td><td>TUVOK:  Very well. I'll wait.</td></tr>
 
-  CHELLICK
-     A secondary infection. It spread rapidly.
+<tr id="L416"><td><a href="#L416">416</a></td><td>ANNOTATION: Neelix enters the cell.</td></tr>
 
-  EMH
-     How was it treated?
+<tr id="L417"><td><a href="#L417">417</a></td><td>NEELIX:  There we are. I'm glad to see you enjoying a meal. When you got sick last time I thought my food was to blame, until I realised it was just a ruse for you to get close to the Doctor. I used Talaxian Wormroot as the base. I'm glad you like it. Some people react badly.</td></tr>
 
-  CHELLICK
-     It wasn't. The patient had exceeded his medication
-     allotment. It seems someone had given him
-     unauthorised injections. Did you think I wouldn't
-     find out?
+<tr id="L418"><td><a href="#L418">418</a></td><td>ANNOTATION: Gar feels unwell.</td></tr>
 
-  EMH
-     Don't you have any ethical standards?
+<tr id="L419"><td><a href="#L419">419</a></td><td>GAR:  React how?</td></tr>
 
-  CHELLICK
-     You are hardly in a position to speak to me of
-     ethics. Lying, stealing. Any other crimes you wish
-     to confess?
+<tr id="L420"><td><a href="#L420">420</a></td><td>NEELIX:  Oh, dear, I hope you're not getting sick. If it's the wormroot, it's going to get a lot worse.</td></tr>
 
-  EMH
-     I was trying to save lives.
+<tr id="L421"><td><a href="#L421">421</a></td><td>GAR:  What have you done to me?</td></tr>
 
-  CHELLICK
-     And I am trying to save a society. Do you really
-     think Patient R twelve is going to help me do
-     that?
+<tr id="L422"><td><a href="#L422">422</a></td><td>NEELIX:  The usual symptoms are abdominal spasms, which increase in severity for thirty hours. Forty at the most.</td></tr>
 
-  EMH
-     His name was Tebbis.
+<tr id="L423"><td><a href="#L423">423</a></td><td>TUVOK:  Tuvok to Sickbay.</td></tr>
 
-  CHELLICK
-     He wasn't contributing. He was a drain on
-     resources.
+<tr id="L424"><td><a href="#L424">424</a></td><td>NEELIX:  Don't worry Mister Tuvok, it's not fatal. It's horribly unpleasant, but there's an antidote.</td></tr>
 
-  EMH
-     You're not just rationing health care here. You're
-     getting rid of the sick and the weak.
+<tr id="L425"><td><a href="#L425">425</a></td><td>GAR:  Then give it to me.</td></tr>
 
-  CHELLICK
-     If the boy had been fit, he would have survived.
+<tr id="L426"><td><a href="#L426">426</a></td><td>NEELIX:  Unfortunately, our doctor is the only one authorised to administer it. Maybe if you remembered where he was?</td></tr>
 
-  EMH
-     Why don't you just put a phaser to their heads?
+<tr id="L427"><td><a href="#L427">427</a></td><td>ANNOTATION: Tuvok takes Neelix aside.</td></tr>
 
-  CHELLICK
-     We're healers, not killers.
+<tr id="L428"><td><a href="#L428">428</a></td><td>TUVOK:  Mister Neelix, have you deliberately poisoned this man?</td></tr>
 
-  EMH
-     I'm going to expose you.
+<tr id="L429"><td><a href="#L429">429</a></td><td>NEELIX:  Relax. He's just having gas pains.</td></tr>
 
-  CHELLICK
-     To whom, the people who employ me? They brought me
-     here to make the hard choices they don't want to
-     make. From now on, I'm restricting you to Level
-     Blue. You've done enough damage on Red.
+<tr id="L430"><td><a href="#L430">430</a></td><td>TUVOK:  Your actions are not only against regulations</td></tr>
 
-  EMH
-     You mean those patients that I treated? Yes, that
-     was inconsiderate of me.
+<tr id="L431"><td><a href="#L431">431</a></td><td>NEELIX:  Didn't I hear someone threaten a mind meld?</td></tr>
 
-  CHELLICK
-     It was. You managed to exceed their annual
-     medication allotment in a matter of days. They're
-     being sent home.
+<tr id="L432"><td><a href="#L432">432</a></td><td>TUVOK:  I was merely trying to encourage the suspect to be more forthcoming.</td></tr>
 
-  EMH
-     They'll die.
+<tr id="L433"><td><a href="#L433">433</a></td><td>NEELIX:  I think he's getting all the encouragement he needs.</td></tr>
 
-  CHELLICK
-     You should have considered the consequences of
-     your actions.
+<tr><td></td><td>LOCATION--Level Red</td></tr>
+<tr id="L434"><td><a href="#L434">434</a></td><td>ORDERLY:  Excuse me, Doctor.</td></tr>
 
-  EMH
-     Please, don't make them suffer for my mistakes. It
-     won't happen again.
+<tr id="L435"><td><a href="#L435">435</a></td><td>VOJE:  What is it?</td></tr>
 
-  CHELLICK
-     I'm making certain of that. From now on, your time
-     will be strictly regulated.
+<tr id="L436"><td><a href="#L436">436</a></td><td>ORDERLY:  I need to prepare this patient for discharge.</td></tr>
 
-  EMH
-     Meaning what?
+<tr id="L437"><td><a href="#L437">437</a></td><td>VOJE:  I'm not finished with him yet.</td></tr>
 
-  CHELLICK
-     I've interfaced your holomatrix with the
-     Allocator. Starting now, it will determine where
-     you go, when you go and what you do when you get
-     there.
+<tr id="L438"><td><a href="#L438">438</a></td><td>MED TECH:  But Chellick's orders are to</td></tr>
 
-  ALLOCATOR
-     The medical hologram will now commence treatment
-     on Level Blue.
+<tr id="L439"><td><a href="#L439">439</a></td><td>VOJE:  Are to discharge the patient at the end of the shift. The shift isn't over, is it?</td></tr>
 
+<tr id="L440"><td><a href="#L440">440</a></td><td>MED TECH:  No, sir, but I need time in order to</td></tr>
 
-LOCATION--Level Blue
+<tr id="L441"><td><a href="#L441">441</a></td><td>VOJE:  I'll tell you when he's ready.</td></tr>
 
-  ANNOTATION
-     The EMH appears next to a bed.
+<tr id="L442"><td><a href="#L442">442</a></td><td>ALLOCATOR:  Doctor Voje, report to Level Blue to assist Doctor Dysek in surgery.</td></tr>
 
-  ALLOCATOR
-     You have six minutes to treat Patient B three.
+<tr><td></td><td>LOCATION--Level Blue</td></tr>
+<tr id="L443"><td><a href="#L443">443</a></td><td>ANNOTATION: The EMH is scanning a patient when Voje comes out of the lift.</td></tr>
 
+<tr id="L444"><td><a href="#L444">444</a></td><td>EMH:  Voje.</td></tr>
 
-LOCATION--Brig
+<tr id="L445"><td><a href="#L445">445</a></td><td>VOJE:  I didn't realise that any of this even existed.</td></tr>
 
-  GAR
-     I don't know where he is.
+<tr id="L446"><td><a href="#L446">446</a></td><td>EMH:  I need to talk to you.</td></tr>
 
-  TUVOK
-     Not now, perhaps, but you know where you took him.
+<tr id="L447"><td><a href="#L447">447</a></td><td>VOJE:  I don't have time. I just got a message from the Allocator that Dysek needs me.</td></tr>
 
-  GAR
-     The last time I saw him he was in your Sickbay.
+<tr id="L448"><td><a href="#L448">448</a></td><td>EMH:  I'm the one who sent for you. I used his access codes.</td></tr>
 
-  TUVOK
-     If you refuse to cooperate, your knowledge of his
-     location can be extracted.
+<tr id="L449"><td><a href="#L449">449</a></td><td>VOJE:  Oh.</td></tr>
 
-  GAR
-     How?
+<tr id="L450"><td><a href="#L450">450</a></td><td>EMH:  I need you to smuggle my mobile emitter off Level Blue.</td></tr>
 
-  TUVOK
-     A mind meld.
+<tr id="L451"><td><a href="#L451">451</a></td><td>ALLOCATOR:  Time has expired for treatment of Patient B one. Proceed to Patient B three. The medical hologram has one minute to treat Patient B three.</td></tr>
 
-  GAR
-     What's that?
+<tr id="L452"><td><a href="#L452">452</a></td><td>ANNOTATION: The EMH appears next to that patient, and walks back to Voje.</td></tr>
 
-  TUVOK
-     An invasive and disturbing procedure.
+<tr id="L453"><td><a href="#L453">453</a></td><td>EMH:  You have to help me.</td></tr>
 
-  NEELIX
-     Dinnertime!
+<tr id="L454"><td><a href="#L454">454</a></td><td>VOJE:  Twelve patients on Level Red are being sent home because of you.</td></tr>
 
-  TUVOK
-     Mister Neelix, I am in the middle of an
-     interrogation.
+<tr id="L455"><td><a href="#L455">455</a></td><td>EMH:  That's why we have to hurry. We may still be able to save them.</td></tr>
 
-  NEELIX
-     Commander, you know better than anyone that
-     Starfleet has strict guidelines about allowing
-     prisoners to eat.
+<tr id="L456"><td><a href="#L456">456</a></td><td>VOJE:  You've already endangered my patients and now you're asking me to risk my career? Why should I help you?</td></tr>
 
-  TUVOK
-     Very well. I'll wait.
+<tr id="L457"><td><a href="#L457">457</a></td><td>EMH:  Because I have a plan to heal those patients. That's what doctors do. We heal. So choose. What kind of doctor are you going to be?</td></tr>
 
-  ANNOTATION
-     Neelix enters the cell.
+<tr id="L458"><td><a href="#L458">458</a></td><td>ALLOCATOR:  The medical hologram has thirty seconds to deactivation.</td></tr>
 
-  NEELIX
-     There we are. I'm glad to see you enjoying a meal.
-     When you got sick last time I thought my food was
-     to blame, until I realised it was just a ruse for
-     you to get close to the Doctor. I used Talaxian
-     Wormroot as the base. I'm glad you like it. Some
-     people react badly.
+<tr id="L459"><td><a href="#L459">459</a></td><td>EMH:  Do you hear that?</td></tr>
 
-  ANNOTATION
-     Gar feels unwell.
+<tr id="L460"><td><a href="#L460">460</a></td><td>VOJE:  How can I get you off this level?</td></tr>
 
-  GAR
-     React how?
+<tr id="L461"><td><a href="#L461">461</a></td><td>EMH:  Deactivate my mobile emitter and put it in inside this selenide medkit. It'll shield the signature.</td></tr>
 
-  NEELIX
-     Oh, dear, I hope you're not getting sick. If it's
-     the wormroot, it's going to get a lot worse.
+<tr id="L462"><td><a href="#L462">462</a></td><td>VOJE:  And then what?</td></tr>
 
-  GAR
-     What have you done to me?
+<tr id="L463"><td><a href="#L463">463</a></td><td>EMH:  Take it to Level Red and reactivate me.</td></tr>
 
-  NEELIX
-     The usual symptoms are abdominal spasms, which
-     increase in severity for thirty hours. Forty at
-     the most.
+<tr id="L464"><td><a href="#L464">464</a></td><td>VOJE:  What are you going to do once you get to Level Red?</td></tr>
 
-  TUVOK
-     Tuvok to Sickbay.
+<tr id="L465"><td><a href="#L465">465</a></td><td>ALLOCATOR:  The medical hologram has ten seconds to deactivation.</td></tr>
 
-  NEELIX
-     Don't worry Mister Tuvok, it's not fatal. It's
-     horribly unpleasant, but there's an antidote.
+<tr id="L466"><td><a href="#L466">466</a></td><td>EMH:  There's no time to explain. You'll have to trust me.</td></tr>
 
-  GAR
-     Then give it to me.
+<tr id="L467"><td><a href="#L467">467</a></td><td>ANNOTATION: Voje does as he is asked.</td></tr>
 
-  NEELIX
-     Unfortunately, our doctor is the only one
-     authorised to administer it. Maybe if you
-     remembered where he was?
+<tr><td></td><td>LOCATION--Level Red</td></tr>
+<tr id="L468"><td><a href="#L468">468</a></td><td>CHELLICK:  I suspect young Doctor Voje helped you escape.</td></tr>
 
-  ANNOTATION
-     Tuvok takes Neelix aside.
+<tr id="L469"><td><a href="#L469">469</a></td><td>EMH:  He had nothing to do with it.</td></tr>
 
-  TUVOK
-     Mister Neelix, have you deliberately poisoned this
-     man?
+<tr id="L470"><td><a href="#L470">470</a></td><td>CHELLICK:  No matter. You're becoming far too troublesome. I'm going to have to deactivate your programme.</td></tr>
 
-  NEELIX
-     Relax. He's just having gas pains.
+<tr id="L471"><td><a href="#L471">471</a></td><td>ANNOTATION: Chellick reaches for the mobile emitter. The EMH grabs his arm, pulls him down across the console and injects him.</td></tr>
 
-  TUVOK
-     Your actions are not only against regulations
+<tr id="L472"><td><a href="#L472">472</a></td><td>EMH:  Voje!</td></tr>
 
-  NEELIX
-     Didn't I hear someone threaten a mind meld?
+<tr id="L473"><td><a href="#L473">473</a></td><td>VOJE:  What's wrong with him? What are you doing?</td></tr>
 
-  TUVOK
-     I was merely trying to encourage the suspect to be
-     more forthcoming.
+<tr id="L474"><td><a href="#L474">474</a></td><td>EMH:  A little experiment in empathy.</td></tr>
 
-  NEELIX
-     I think he's getting all the encouragement he
-     needs.
+<tr id="L475"><td><a href="#L475">475</a></td><td>VOJE:  You told me you were just developing new treatment protocols.</td></tr>
 
+<tr id="L476"><td><a href="#L476">476</a></td><td>EMH:  A single protocol, actually.</td></tr>
 
-LOCATION--Level Red
+<tr id="L477"><td><a href="#L477">477</a></td><td>ANNOTATION: They put Chellick into bed.</td></tr>
 
-  ORDERLY
-     Excuse me, Doctor.
+<tr id="L478"><td><a href="#L478">478</a></td><td>CHELLICK:  You're only making things worse for yourself.</td></tr>
 
-  VOJE
-     What is it?
+<tr id="L479"><td><a href="#L479">479</a></td><td>EMH:  As a matter of fact, I'm making things worse for you. I'm going to make you a patient in your own hospital.</td></tr>
 
-  ORDERLY
-     I need to prepare this patient for discharge.
+<tr id="L480"><td><a href="#L480">480</a></td><td>CHELLICK:  What was in that injector?</td></tr>
 
-  VOJE
-     I'm not finished with him yet.
+<tr id="L481"><td><a href="#L481">481</a></td><td>EMH:  A neural blocker combined with the same virus that afflicted Tebbis.</td></tr>
 
-  MED TECH
-     But Chellick's orders are to
+<tr id="L482"><td><a href="#L482">482</a></td><td>VOJE:  I trusted you.</td></tr>
 
-  VOJE
-     Are to discharge the patient at the end of the
-     shift. The shift isn't over, is it?
+<tr id="L483"><td><a href="#L483">483</a></td><td>EMH:  And Tebbis trusted me. You remember Tebbis, don't you? Patient R twelve? Maybe this will jog your memory. (The EMH pushes Chellick's bed to the wall scanner.)</td></tr>
 
-  MED TECH
-     No, sir, but I need time in order to
+<tr id="L484"><td><a href="#L484">484</a></td><td>VOJE:  What are you doing?</td></tr>
 
-  VOJE
-     I'll tell you when he's ready.
+<tr id="L485"><td><a href="#L485">485</a></td><td>ALLOCATOR:  Patient R twelve. Species, Dinaal. Identity, Tebbis.</td></tr>
 
-  ALLOCATOR
-     Doctor Voje, report to Level Blue to assist Doctor
-     Dysek in surgery.
+<tr id="L486"><td><a href="#L486">486</a></td><td>CHELLICK:  This is ridiculous. I'm not Tebbis!</td></tr>
 
+<tr id="L487"><td><a href="#L487">487</a></td><td>EMH:  But the Allocator thinks you are.</td></tr>
 
-LOCATION--Level Blue
+<tr id="L488"><td><a href="#L488">488</a></td><td>VOJE:  How did you</td></tr>
 
-  ANNOTATION
-     The EMH is scanning a patient when Voje comes out
-     of the lift.
+<tr id="L489"><td><a href="#L489">489</a></td><td>EMH:  Simple, the Allocator identifies patients by reading blood factors. I altered Chellick's by injecting him with antigens from Tebbis. Now, why don't we see if we can get your condition treated? Requesting one cytoglobin injection for Patient R twelve.</td></tr>
 
-  EMH
-     Voje.
+<tr id="L490"><td><a href="#L490">490</a></td><td>ALLOCATOR:  Treatment denied.</td></tr>
 
-  VOJE
-     I didn't realise that any of this even existed.
+<tr id="L491"><td><a href="#L491">491</a></td><td>CHELLICK:  I order you to medicate me now.</td></tr>
 
-  EMH
-     I need to talk to you.
+<tr id="L492"><td><a href="#L492">492</a></td><td>EMH:  Ordinarily, I would. But if the Allocator says no.</td></tr>
 
-  VOJE
-     I don't have time. I just got a message from the
-     Allocator that Dysek needs me.
+<tr id="L493"><td><a href="#L493">493</a></td><td>CHELLICK:  Is this some sort of revenge?</td></tr>
 
-  EMH
-     I'm the one who sent for you. I used his access
-     codes.
+<tr id="L494"><td><a href="#L494">494</a></td><td>EMH:  Not revenge. Leverage. I want enough cytoglobin to cure every infected patient on this level.</td></tr>
 
-  VOJE
-     Oh.
+<tr id="L495"><td><a href="#L495">495</a></td><td>CHELLICK:  We don't have an adequate supply.</td></tr>
 
-  EMH
-     I need you to smuggle my mobile emitter off Level
-     Blue.
+<tr id="L496"><td><a href="#L496">496</a></td><td>EMH:  There's plenty on Level Blue.</td></tr>
 
-  ALLOCATOR
-     Time has expired for treatment of Patient B one.
-     Proceed to Patient B three. The medical hologram
-     has one minute to treat Patient B three.
+<tr id="L497"><td><a href="#L497">497</a></td><td>CHELLICK:  Where it's being used to prevent arterial aging.</td></tr>
 
-  ANNOTATION
-     The EMH appears next to that patient, and walks
-     back to Voje.
+<tr id="L498"><td><a href="#L498">498</a></td><td>EMH:  Those patients will survive without it, but a dozen people on this level won't. I will not let them die.</td></tr>
 
-  EMH
-     You have to help me.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L499"><td><a href="#L499">499</a></td><td>PARIS:  Entering orbit.</td></tr>
 
-  VOJE
-     Twelve patients on Level Red are being sent home
-     because of you.
+<tr id="L500"><td><a href="#L500">500</a></td><td>JANEWAY:  Scan for the Doctor's signature.</td></tr>
 
-  EMH
-     That's why we have to hurry. We may still be able
-     to save them.
+<tr><td></td><td>LOCATION--Level Red</td></tr>
+<tr id="L501"><td><a href="#L501">501</a></td><td>ANNOTATION: Voje scans Chellick.</td></tr>
 
-  VOJE
-     You've already endangered my patients and now
-     you're asking me to risk my career? Why should I
-     help you?
+<tr id="L502"><td><a href="#L502">502</a></td><td>VOJE:  He's dying.</td></tr>
 
-  EMH
-     Because I have a plan to heal those patients.
-     That's what doctors do. We heal. So choose. What
-     kind of doctor are you going to be?
+<tr id="L503"><td><a href="#L503">503</a></td><td>EMH:  As soon as we get the cytoglobin we'll be able to treat all the Level Red patients, including him.</td></tr>
 
-  ALLOCATOR
-     The medical hologram has thirty seconds to
-     deactivation.
+<tr id="L504"><td><a href="#L504">504</a></td><td>VOJE:  You said it yourself. Doctors heal. We don't make patients sick.</td></tr>
 
-  EMH
-     Do you hear that?
+<tr id="L505"><td><a href="#L505">505</a></td><td>EMH:  I don't know any other way to help these people.</td></tr>
 
-  VOJE
-     How can I get you off this level?
+<tr id="L506"><td><a href="#L506">506</a></td><td>CHELLICK:  Doctor Voje, I need the medicine now.</td></tr>
 
-  EMH
-     Deactivate my mobile emitter and put it in inside
-     this selenide medkit. It'll shield the signature.
+<tr id="L507"><td><a href="#L507">507</a></td><td>VOJE:  Sir, I only have a Level Red clearance. You know I'm not authorised.</td></tr>
 
-  VOJE
-     And then what?
+<tr id="L508"><td><a href="#L508">508</a></td><td>CHELLICK:  Then find someone who is.</td></tr>
 
-  EMH
-     Take it to Level Red and reactivate me.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L509"><td><a href="#L509">509</a></td><td>TORRES:  I've got him. He's aboard a vessel above the northern continent.</td></tr>
 
-  VOJE
-     What are you going to do once you get to Level
-     Red?
+<tr id="L510"><td><a href="#L510">510</a></td><td>JANEWAY:  Can you get a lock?</td></tr>
 
-  ALLOCATOR
-     The medical hologram has ten seconds to
-     deactivation.
+<tr id="L511"><td><a href="#L511">511</a></td><td>TORRES:  It's not going to be easy. His programme seems to be interfaced with the main computer.</td></tr>
 
-  EMH
-     There's no time to explain. You'll have to trust
-     me.
+<tr id="L512"><td><a href="#L512">512</a></td><td>JANEWAY:  Hail the ship.</td></tr>
 
-  ANNOTATION
-     Voje does as he is asked.
+<tr id="L513"><td><a href="#L513">513</a></td><td>KIM:  They're responding, audio only.</td></tr>
 
+<tr id="L514"><td><a href="#L514">514</a></td><td>ALLOCATOR [OC]:  This is Hospital Ship Four Two, Allocation Module Alpha.</td></tr>
 
-LOCATION--Level Red
+<tr id="L515"><td><a href="#L515">515</a></td><td>JANEWAY:  This is Captain Janeway of the Starship Voyager. I would like to speak with someone regarding a member of my crew who is aboard your vessel.</td></tr>
 
-  CHELLICK
-     I suspect young Doctor Voje helped you escape.
+<tr id="L516"><td><a href="#L516">516</a></td><td>ALLOCATOR [OC]:  Administrator Chellick is currently unavailable.</td></tr>
 
-  EMH
-     He had nothing to do with it.
+<tr id="L517"><td><a href="#L517">517</a></td><td>JANEWAY:  Then may I speak with someone else?</td></tr>
 
-  CHELLICK
-     No matter. You're becoming far too troublesome.
-     I'm going to have to deactivate your programme.
+<tr id="L518"><td><a href="#L518">518</a></td><td>ALLOCATOR [OC]:  Only Administrator Chellick is authorised to communicate with alien species.</td></tr>
 
-  ANNOTATION
-     Chellick reaches for the mobile emitter. The EMH
-     grabs his arm, pulls him down across the console
-     and injects him.
+<tr><td></td><td>LOCATION--Level Red</td></tr>
+<tr id="L519"><td><a href="#L519">519</a></td><td>DYSEK:  Are we having a problem here?</td></tr>
 
-  EMH
-     Voje!
+<tr id="L520"><td><a href="#L520">520</a></td><td>CHELLICK:  Dysek. Finally.</td></tr>
 
-  VOJE
-     What's wrong with him? What are you doing?
+<tr id="L521"><td><a href="#L521">521</a></td><td>VOJE:  I'm sorry. I had to tell him.</td></tr>
 
-  EMH
-     A little experiment in empathy.
+<tr id="L522"><td><a href="#L522">522</a></td><td>CHELLICK:  What are you waiting for? Give me the cytoglobin.</td></tr>
 
-  VOJE
-     You told me you were just developing new treatment
-     protocols.
+<tr id="L523"><td><a href="#L523">523</a></td><td>DYSEK:  I don't think I can.</td></tr>
 
-  EMH
-     A single protocol, actually.
+<tr id="L524"><td><a href="#L524">524</a></td><td>CHELLICK:  What are you saying?</td></tr>
 
-  ANNOTATION
-     They put Chellick into bed.
+<tr id="L525"><td><a href="#L525">525</a></td><td>DYSEK:  Cytoglobin isn't authorised for Level Red patients.</td></tr>
 
-  CHELLICK
-     You're only making things worse for yourself.
+<tr id="L526"><td><a href="#L526">526</a></td><td>CHELLICK:  Dysek!</td></tr>
 
-  EMH
-     As a matter of fact, I'm making things worse for
-     you. I'm going to make you a patient in your own
-     hospital.
+<tr id="L527"><td><a href="#L527">527</a></td><td>DYSEK:  I don't want to break the rules.</td></tr>
 
-  CHELLICK
-     What was in that injector?
+<tr id="L528"><td><a href="#L528">528</a></td><td>CHELLICK:  I made the rules!</td></tr>
 
-  EMH
-     A neural blocker combined with the same virus that
-     afflicted Tebbis.
+<tr id="L529"><td><a href="#L529">529</a></td><td>DYSEK:  Then you should be pleased I hold them in such high regard.</td></tr>
 
-  VOJE
-     I trusted you.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L530"><td><a href="#L530">530</a></td><td>TORRES:  I'm sorry, Captain. I can't transport him without damaging his matrix.</td></tr>
 
-  EMH
-     And Tebbis trusted me. You remember Tebbis, don't
-     you? Patient R twelve? Maybe this will jog your
-     memory. (The EMH pushes Chellick's bed to the wall
-     scanner.)
+<tr id="L531"><td><a href="#L531">531</a></td><td>JANEWAY:  Then you'll have to go down there and get him.</td></tr>
 
-  VOJE
-     What are you doing?
+<tr id="L532"><td><a href="#L532">532</a></td><td>TORRES:  Aye, Captain.</td></tr>
 
-  ALLOCATOR
-     Patient R twelve. Species, Dinaal. Identity,
-     Tebbis.
+<tr id="L533"><td><a href="#L533">533</a></td><td>JANEWAY:  Chakotay.</td></tr>
 
-  CHELLICK
-     This is ridiculous. I'm not Tebbis!
+<tr id="L534"><td><a href="#L534">534</a></td><td>ANNOTATION: He goes with Torres.</td></tr>
 
-  EMH
-     But the Allocator thinks you are.
+<tr><td></td><td>LOCATION--Level Red</td></tr>
+<tr id="L535"><td><a href="#L535">535</a></td><td>CHELLICK:  Don't tell me you're allied with this defective hologram.</td></tr>
 
-  VOJE
-     How did you
+<tr id="L536"><td><a href="#L536">536</a></td><td>DYSEK:  No, but he has given me insight into some of the intricacies of our system. For example, did you know if I don't request enough resources for Level Blue this month, I won't get what I need next month?</td></tr>
 
-  EMH
-     Simple, the Allocator identifies patients by
-     reading blood factors. I altered Chellick's by
-     injecting him with antigens from Tebbis. Now, why
-     don't we see if we can get your condition treated?
-     Requesting one cytoglobin injection for Patient R
-     twelve.
+<tr id="L537"><td><a href="#L537">537</a></td><td>CHELLICK:  What are you talking about?</td></tr>
 
-  ALLOCATOR
-     Treatment denied.
+<tr id="L538"><td><a href="#L538">538</a></td><td>EMH:  You know, Doctor, one way to increase your allocation of resources on Level Blue would be to increase the number of patients. I know at least a dozen people who should be treated for arterial aging. Saving their lives would be just a side effect.</td></tr>
 
-  CHELLICK
-     I order you to medicate me now.
+<tr id="L539"><td><a href="#L539">539</a></td><td>DYSEK:  Hmm. Perhaps we should have them transferred to Level Blue.</td></tr>
 
-  EMH
-     Ordinarily, I would. But if the Allocator says no.
+<tr id="L540"><td><a href="#L540">540</a></td><td>EMH:  If you're looking for a second opinion, I concur.</td></tr>
 
-  CHELLICK
-     Is this some sort of revenge?
+<tr id="L541"><td><a href="#L541">541</a></td><td>DYSEK:  Well, Chellick, what do you think?</td></tr>
 
-  EMH
-     Not revenge. Leverage. I want enough cytoglobin to
-     cure every infected patient on this level.
+<tr id="L542"><td><a href="#L542">542</a></td><td>CHELLICK:  It's absurd.</td></tr>
 
-  CHELLICK
-     We don't have an adequate supply.
+<tr id="L543"><td><a href="#L543">543</a></td><td>DYSEK:  We'd have to transfer you to Level Blue as well. You'd get your cytoglobin.</td></tr>
 
-  EMH
-     There's plenty on Level Blue.
+<tr id="L544"><td><a href="#L544">544</a></td><td>ANNOTATION: Two people beam in.</td></tr>
 
-  CHELLICK
-     Where it's being used to prevent arterial aging.
+<tr id="L545"><td><a href="#L545">545</a></td><td>CHAKOTAY:  Doctor.</td></tr>
 
-  EMH
-     Those patients will survive without it, but a
-     dozen people on this level won't. I will not let
-     them die.
+<tr id="L546"><td><a href="#L546">546</a></td><td>EMH:  It's nice to see some friendly faces.</td></tr>
 
+<tr id="L547"><td><a href="#L547">547</a></td><td>CHAKOTAY:  We're going to get you out of here.</td></tr>
 
-LOCATION--Bridge
+<tr id="L548"><td><a href="#L548">548</a></td><td>TORRES:  Who do we talk to about accessing the main computer?</td></tr>
 
-  PARIS
-     Entering orbit.
+<tr id="L549"><td><a href="#L549">549</a></td><td>EMH:  I'll be with you in a moment. I'm with a patient. Do we have an agreement?</td></tr>
 
-  JANEWAY
-     Scan for the Doctor's signature.
+<tr id="L550"><td><a href="#L550">550</a></td><td>CHELLICK:  Yes.</td></tr>
 
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L551"><td><a href="#L551">551</a></td><td>EMH:  You've managed to stay well while I was away. I'm giving you a clean bill of health.</td></tr>
 
-LOCATION--Level Red
+<tr id="L552"><td><a href="#L552">552</a></td><td>SEVEN:  You were only away four days.</td></tr>
 
-  ANNOTATION
-     Voje scans Chellick.
+<tr id="L553"><td><a href="#L553">553</a></td><td>EMH:  A lot can happen in four days. Injuries, infections, malfunctions.</td></tr>
 
-  VOJE
-     He's dying.
+<tr id="L554"><td><a href="#L554">554</a></td><td>SEVEN:  As you said, I'm fine. Thank you.</td></tr>
 
-  EMH
-     As soon as we get the cytoglobin we'll be able to
-     treat all the Level Red patients, including him.
+<tr id="L555"><td><a href="#L555">555</a></td><td>EMH:  I was wondering if you'd mind doing me a favour? I'd like you to give me a check-up.</td></tr>
 
-  VOJE
-     You said it yourself. Doctors heal. We don't make
-     patients sick.
+<tr id="L556"><td><a href="#L556">556</a></td><td>SEVEN:  Have you been experiencing problems?</td></tr>
 
-  EMH
-     I don't know any other way to help these people.
+<tr id="L557"><td><a href="#L557">557</a></td><td>EMH:  No. But as you said, I've been off the ship for a while, interfaced with an alien computer.</td></tr>
 
-  CHELLICK
-     Doctor Voje, I need the medicine now.
+<tr id="L558"><td><a href="#L558">558</a></td><td>SEVEN:  Your programme appears to be operating within normal parameters.</td></tr>
 
-  VOJE
-     Sir, I only have a Level Red clearance. You know
-     I'm not authorised.
+<tr id="L559"><td><a href="#L559">559</a></td><td>EMH:  Really? What about over the past several days?</td></tr>
 
-  CHELLICK
-     Then find someone who is.
+<tr id="L560"><td><a href="#L560">560</a></td><td>SEVEN:  There's no indication of diminished capacity.</td></tr>
 
+<tr id="L561"><td><a href="#L561">561</a></td><td>EMH:  No problems with my ethical subroutines?</td></tr>
 
-LOCATION--Bridge
+<tr id="L562"><td><a href="#L562">562</a></td><td>SEVEN:  None.</td></tr>
 
-  TORRES
-     I've got him. He's aboard a vessel above the
-     northern continent.
+<tr id="L563"><td><a href="#L563">563</a></td><td>EMH:  I see.</td></tr>
 
-  JANEWAY
-     Can you get a lock?
+<tr id="L564"><td><a href="#L564">564</a></td><td>SEVEN:  You seem disappointed.</td></tr>
 
-  TORRES
-     It's not going to be easy. His programme seems to
-     be interfaced with the main computer.
+<tr id="L565"><td><a href="#L565">565</a></td><td>EMH:  While I was aboard that ship, I poisoned a man.</td></tr>
 
-  JANEWAY
-     Hail the ship.
+<tr id="L566"><td><a href="#L566">566</a></td><td>SEVEN:  Deliberately?</td></tr>
 
-  KIM
-     They're responding, audio only.
+<tr id="L567"><td><a href="#L567">567</a></td><td>EMH:  Yes. I was trying to force him to let me treat patients who were dying.</td></tr>
 
-  ALLOCATOR [OC]
-     This is Hospital Ship Four Two, Allocation Module
-     Alpha.
+<tr id="L568"><td><a href="#L568">568</a></td><td>SEVEN:  You were prepared to sacrifice an individual to benefit a collective.</td></tr>
 
-  JANEWAY
-     This is Captain Janeway of the Starship Voyager. I
-     would like to speak with someone regarding a
-     member of my crew who is aboard your vessel.
+<tr id="L569"><td><a href="#L569">569</a></td><td>EMH:  No offence, Seven, but I don't exactly aspire to Borg ideals.</td></tr>
 
-  ALLOCATOR [OC]
-     Administrator Chellick is currently unavailable.
+<tr id="L570"><td><a href="#L570">570</a></td><td>SEVEN:  You were hoping your behaviour was the result of a malfunction. I'm sorry Doctor, but I must give you a clean bill of health.</td></tr>
 
-  JANEWAY
-     Then may I speak with someone else?
-
-  ALLOCATOR [OC]
-     Only Administrator Chellick is authorised to
-     communicate with alien species.
-
-
-LOCATION--Level Red
-
-  DYSEK
-     Are we having a problem here?
-
-  CHELLICK
-     Dysek. Finally.
-
-  VOJE
-     I'm sorry. I had to tell him.
-
-  CHELLICK
-     What are you waiting for? Give me the cytoglobin.
-
-  DYSEK
-     I don't think I can.
-
-  CHELLICK
-     What are you saying?
-
-  DYSEK
-     Cytoglobin isn't authorised for Level Red
-     patients.
-
-  CHELLICK
-     Dysek!
-
-  DYSEK
-     I don't want to break the rules.
-
-  CHELLICK
-     I made the rules!
-
-  DYSEK
-     Then you should be pleased I hold them in such
-     high regard.
-
-
-LOCATION--Bridge
-
-  TORRES
-     I'm sorry, Captain. I can't transport him without
-     damaging his matrix.
-
-  JANEWAY
-     Then you'll have to go down there and get him.
-
-  TORRES
-     Aye, Captain.
-
-  JANEWAY
-     Chakotay.
-
-  ANNOTATION
-     He goes with Torres.
-
-
-LOCATION--Level Red
-
-  CHELLICK
-     Don't tell me you're allied with this defective
-     hologram.
-
-  DYSEK
-     No, but he has given me insight into some of the
-     intricacies of our system. For example, did you
-     know if I don't request enough resources for Level
-     Blue this month, I won't get what I need next
-     month?
-
-  CHELLICK
-     What are you talking about?
-
-  EMH
-     You know, Doctor, one way to increase your
-     allocation of resources on Level Blue would be to
-     increase the number of patients. I know at least a
-     dozen people who should be treated for arterial
-     aging. Saving their lives would be just a side
-     effect.
-
-  DYSEK
-     Hmm. Perhaps we should have them transferred to
-     Level Blue.
-
-  EMH
-     If you're looking for a second opinion, I concur.
-
-  DYSEK
-     Well, Chellick, what do you think?
-
-  CHELLICK
-     It's absurd.
-
-  DYSEK
-     We'd have to transfer you to Level Blue as well.
-     You'd get your cytoglobin.
-
-  ANNOTATION
-     Two people beam in.
-
-  CHAKOTAY
-     Doctor.
-
-  EMH
-     It's nice to see some friendly faces.
-
-  CHAKOTAY
-     We're going to get you out of here.
-
-  TORRES
-     Who do we talk to about accessing the main
-     computer?
-
-  EMH
-     I'll be with you in a moment. I'm with a patient.
-     Do we have an agreement?
-
-  CHELLICK
-     Yes.
-
-
-LOCATION--Sickbay
-
-  EMH
-     You've managed to stay well while I was away. I'm
-     giving you a clean bill of health.
-
-  SEVEN
-     You were only away four days.
-
-  EMH
-     A lot can happen in four days. Injuries,
-     infections, malfunctions.
-
-  SEVEN
-     As you said, I'm fine. Thank you.
-
-  EMH
-     I was wondering if you'd mind doing me a favour?
-     I'd like you to give me a check-up.
-
-  SEVEN
-     Have you been experiencing problems?
-
-  EMH
-     No. But as you said, I've been off the ship for a
-     while, interfaced with an alien computer.
-
-  SEVEN
-     Your programme appears to be operating within
-     normal parameters.
-
-  EMH
-     Really? What about over the past several days?
-
-  SEVEN
-     There's no indication of diminished capacity.
-
-  EMH
-     No problems with my ethical subroutines?
-
-  SEVEN
-     None.
-
-  EMH
-     I see.
-
-  SEVEN
-     You seem disappointed.
-
-  EMH
-     While I was aboard that ship, I poisoned a man.
-
-  SEVEN
-     Deliberately?
-
-  EMH
-     Yes. I was trying to force him to let me treat
-     patients who were dying.
-
-  SEVEN
-     You were prepared to sacrifice an individual to
-     benefit a collective.
-
-  EMH
-     No offence, Seven, but I don't exactly aspire to
-     Borg ideals.
-
-  SEVEN
-     You were hoping your behaviour was the result of a
-     malfunction. I'm sorry Doctor, but I must give you
-     a clean bill of health.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

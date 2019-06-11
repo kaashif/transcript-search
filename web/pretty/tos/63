@@ -1,1465 +1,755 @@
-The Empath
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Empath</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Research station</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>SPOCK:  Dust. Apparently these instruments have not been recently used.</td></tr>
 
-LOCATION--Research station
+<tr id="L2"><td><a href="#L2">2</a></td><td>KIRK:  Record tape. Maybe it'll tell us something about the personnel that lived here.</td></tr>
 
-  SPOCK
-     Dust. Apparently these instruments have not been
-     recently used.
+<tr id="L3"><td><a href="#L3">3</a></td><td>SCOTT [OC]:  Enterprise to Captain Kirk. Come in, please.</td></tr>
 
-  KIRK
-     Record tape. Maybe it'll tell us something about
-     the personnel that lived here.
+<tr id="L4"><td><a href="#L4">4</a></td><td>KIRK:  Kirk here. What is it, Enterprise?</td></tr>
 
-  SCOTT [OC]
-     Enterprise to Captain Kirk. Come in, please.
+<tr id="L5"><td><a href="#L5">5</a></td><td>SCOTT [OC]:  Scott here, sir.</td></tr>
 
-  KIRK
-     Kirk here. What is it, Enterprise?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L6"><td><a href="#L6">6</a></td><td>SCOTT:  Our instruments have picked up a gigantic solar flare</td></tr>
 
-  SCOTT [OC]
-     Scott here, sir.
+<tr><td></td><td>LOCATION--Research station</td></tr>
+<tr id="L7"><td><a href="#L7">7</a></td><td>SCOTT [OC]:  With very high levels of cosmic rays accompanying it.</td></tr>
 
+<tr id="L8"><td><a href="#L8">8</a></td><td>KIRK:  How bad?</td></tr>
 
-LOCATION--Bridge
+<tr id="L9"><td><a href="#L9">9</a></td><td>SCOTT [OC]:  An enormous one.</td></tr>
 
-  SCOTT
-     Our instruments have picked up a gigantic solar
-     flare
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L10"><td><a href="#L10">10</a></td><td>SCOTT:  Our sensors indicate the cosmic ray concentration measures three point five one on the Ritter scale. That'll play the very devil with the crew, as well as the ship.</td></tr>
 
+<tr><td></td><td>LOCATION--Research station</td></tr>
+<tr id="L11"><td><a href="#L11">11</a></td><td>SPOCK:  At that rate, it will take exactly seventy four point one solar hours for the storm to pass.</td></tr>
 
-LOCATION--Research station
+<tr id="L12"><td><a href="#L12">12</a></td><td>KIRK:  Get that ship out of here. Stay at minimum distance for absolute safety.</td></tr>
 
-  SCOTT [OC]
-     With very high levels of cosmic rays accompanying
-     it.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L13"><td><a href="#L13">13</a></td><td>SCOTT:  Aye, aye, sir. We'll beam you up in</td></tr>
 
-  KIRK
-     How bad?
+<tr id="L14"><td><a href="#L14">14</a></td><td>KIRK [OC]:  Negative. We're staying here. The atmosphere will protect us.</td></tr>
 
-  SCOTT [OC]
-     An enormous one.
+<tr><td></td><td>LOCATION--Research station</td></tr>
+<tr id="L15"><td><a href="#L15">15</a></td><td>KIRK:  Get that ship out of here, Mister Scott.</td></tr>
 
+<tr id="L16"><td><a href="#L16">16</a></td><td>SCOTT [OC]:  Very well, sir. Scott out.</td></tr>
 
-LOCATION--Bridge
+<tr id="L17"><td><a href="#L17">17</a></td><td>KIRK:  Mister Spock, what about that tape?</td></tr>
 
-  SCOTT
-     Our sensors indicate the cosmic ray concentration
-     measures three point five one on the Ritter scale.
-     That'll play the very devil with the crew, as well
-     as the ship.
+<tr id="L18"><td><a href="#L18">18</a></td><td>SPOCK:  Remember, Captain, what we see on this tape happened approximately three months ago.</td></tr>
 
+<tr id="L19"><td><a href="#L19">19</a></td><td>LINKE [on monitor]:  I don't think I can stand another week in this godforsaken place.</td></tr>
 
-LOCATION--Research station
+<tr id="L20"><td><a href="#L20">20</a></td><td>OZABA [on monitor]:  In his hand are the deep places of the earth. Psalm ninety five, verse four. Looks like he was listening.</td></tr>
 
-  SPOCK
-     At that rate, it will take exactly seventy four
-     point one solar hours for the storm to pass.
+<tr id="L21"><td><a href="#L21">21</a></td><td>ANNOTATION: A piercing noise makes them cover their ears, then Ozaba vanishes.</td></tr>
 
-  KIRK
-     Get that ship out of here. Stay at minimum
-     distance for absolute safety.
+<tr id="L22"><td><a href="#L22">22</a></td><td>LINKE [on monitor]:  Who's out there?</td></tr>
 
+<tr id="L23"><td><a href="#L23">23</a></td><td>ANNOTATION: He vanishes too.</td></tr>
 
-LOCATION--Bridge
+<tr id="L24"><td><a href="#L24">24</a></td><td>MCCOY:  What happened to them?</td></tr>
 
-  SCOTT
-     Aye, aye, sir. We'll beam you up in
+<tr id="L25"><td><a href="#L25">25</a></td><td>ANNOTATION: The same noise comes again.</td></tr>
 
-  KIRK [OC]
-     Negative. We're staying here. The atmosphere will
-     protect us.
+<tr id="L26"><td><a href="#L26">26</a></td><td>KIRK:  Where's does that sound coming from? Spock, can you pinpoint it?</td></tr>
 
+<tr id="L27"><td><a href="#L27">27</a></td><td>SPOCK:  Negative, Captain. It doesn't register.</td></tr>
 
-LOCATION--Research station
+<tr id="L28"><td><a href="#L28">28</a></td><td>ANNOTATION: Spock disappears, then McCoy.</td></tr>
 
-  KIRK
-     Get that ship out of here, Mister Scott.
+<tr id="L29"><td><a href="#L29">29</a></td><td>KIRK:  Bones! Spock!</td></tr>
 
-  SCOTT [OC]
-     Very well, sir. Scott out.
+<tr id="L30"><td><a href="#L30">30</a></td><td>ANNOTATION: He tries to leave, but falls back into the floor. Then he vanishes too leaving just a body print in the dust.</td></tr>
 
-  KIRK
-     Mister Spock, what about that tape?
+<tr><td></td><td>LOCATION--Huge room</td></tr>
+<tr id="L31"><td><a href="#L31">31</a></td><td>ANNOTATION: The three awaken lying on the floor of a big, bare room. Blue floor, red walls.</td></tr>
 
-  SPOCK
-     Remember, Captain, what we see on this tape
-     happened approximately three months ago.
+<tr id="L32"><td><a href="#L32">32</a></td><td>KIRK:  Spock. Bones. Where are we?</td></tr>
 
-  LINKE [on monitor]
-     I don't think I can stand another week in this
-     godforsaken place.
+<tr id="L33"><td><a href="#L33">33</a></td><td>SPOCK:  Exactly one two one point three two metres beneath the planet surface, Captain.</td></tr>
 
-  OZABA [on monitor]
-     In his hand are the deep places of the earth.
-     Psalm ninety five, verse four. Looks like he was
-     listening.
+<tr id="L34"><td><a href="#L34">34</a></td><td>KIRK:  How did we get here?</td></tr>
 
-  ANNOTATION
-     A piercing noise makes them cover their ears, then
-     Ozaba vanishes.
+<tr id="L35"><td><a href="#L35">35</a></td><td>SPOCK:  Residual energy readings indicate we were beamed here by a matter-energy scrambler, similar to our own transporter mechanism.</td></tr>
 
-  LINKE [on monitor]
-     Who's out there?
+<tr id="L36"><td><a href="#L36">36</a></td><td>MCCOY:  That's a nasty cut, Jim. Does it hurt?</td></tr>
 
-  ANNOTATION
-     He vanishes too.
+<tr id="L37"><td><a href="#L37">37</a></td><td>KIRK:  No.</td></tr>
 
-  MCCOY
-     What happened to them?
+<tr id="L38"><td><a href="#L38">38</a></td><td>SPOCK:  Captain, picking up a life-form reading bearing four two mark seven.</td></tr>
 
-  ANNOTATION
-     The same noise comes again.
+<tr id="L39"><td><a href="#L39">39</a></td><td>KIRK:  One of the missing scientists?</td></tr>
 
-  KIRK
-     Where's does that sound coming from? Spock, can
-     you pinpoint it?
+<tr id="L40"><td><a href="#L40">40</a></td><td>SPOCK:  Negative. Although humanoid, it is definitely not Homo Sapiens.</td></tr>
 
-  SPOCK
-     Negative, Captain. It doesn't register.
+<tr id="L41"><td><a href="#L41">41</a></td><td>KIRK:  Identification?</td></tr>
 
-  ANNOTATION
-     Spock disappears, then McCoy.
+<tr id="L42"><td><a href="#L42">42</a></td><td>SPOCK:  Impossible. I can make no exact identification other than it being humanoid.</td></tr>
 
-  KIRK
-     Bones! Spock!
+<tr id="L43"><td><a href="#L43">43</a></td><td>KIRK:  Let's find out. Phasers on stun.</td></tr>
 
-  ANNOTATION
-     He tries to leave, but falls back into the floor.
-     Then he vanishes too leaving just a body print in
-     the dust.
+<tr id="L44"><td><a href="#L44">44</a></td><td>ANNOTATION: They start walking.</td></tr>
 
+<tr id="L45"><td><a href="#L45">45</a></td><td>SPOCK:  Approaching the life-form, Captain.</td></tr>
 
-LOCATION--Huge room
+<tr id="L46"><td><a href="#L46">46</a></td><td>KIRK:  What is it?</td></tr>
 
-  ANNOTATION
-     The three awaken lying on the floor of a big, bare
-     room. Blue floor, red walls.
+<tr id="L47"><td><a href="#L47">47</a></td><td>SPOCK:  Still undistinguishable.</td></tr>
 
-  KIRK
-     Spock. Bones. Where are we?
+<tr id="L48"><td><a href="#L48">48</a></td><td>ANNOTATION: A light reveals a young woman lying on what might be a bed, which is itself on a stepped platform. McCoy moves towards her.</td></tr>
 
-  SPOCK
-     Exactly one two one point three two metres beneath
-     the planet surface, Captain.
+<tr id="L49"><td><a href="#L49">49</a></td><td>KIRK:  Be careful.</td></tr>
 
-  KIRK
-     How did we get here?
+<tr id="L50"><td><a href="#L50">50</a></td><td>MCCOY:  She seems harmless enough.</td></tr>
 
-  SPOCK
-     Residual energy readings indicate we were beamed
-     here by a matter-energy scrambler, similar to our
-     own transporter mechanism.
+<tr id="L51"><td><a href="#L51">51</a></td><td>SPOCK:  The sand-bats of Manark Four appear to be inanimate rock crystals, Doctor, until they attack.</td></tr>
 
-  MCCOY
-     That's a nasty cut, Jim. Does it hurt?
+<tr id="L52"><td><a href="#L52">52</a></td><td>ANNOTATION: She wakes, using big gestures, and mimes her fear of Kirk's phaser.</td></tr>
 
-  KIRK
-     No.
+<tr id="L53"><td><a href="#L53">53</a></td><td>KIRK:  We're not going to hurt you. Is this your home? Do you live here? What about it, Spock? Analysis.</td></tr>
 
-  SPOCK
-     Captain, picking up a life-form reading bearing
-     four two mark seven.
+<tr id="L54"><td><a href="#L54">54</a></td><td>SPOCK:  From what we know of the specific gravity and other environmental factors of this planet, a life-form such as hers could not evolve here.</td></tr>
 
-  KIRK
-     One of the missing scientists?
+<tr id="L55"><td><a href="#L55">55</a></td><td>ANNOTATION: They put their phasers away.</td></tr>
 
-  SPOCK
-     Negative. Although humanoid, it is definitely not
-     Homo Sapiens.
+<tr id="L56"><td><a href="#L56">56</a></td><td>KIRK:  Are you responsible for bringing us here? Don't be afraid. Bones, what's wrong with her?</td></tr>
 
-  KIRK
-     Identification?
+<tr id="L57"><td><a href="#L57">57</a></td><td>MCCOY:  She's a mute, Jim. No vocal cords, not even vestigals. And I don't think it's a pathological condition.</td></tr>
 
-  SPOCK
-     Impossible. I can make no exact identification
-     other than it being humanoid.
+<tr id="L58"><td><a href="#L58">58</a></td><td>KIRK:  Explain.</td></tr>
 
-  KIRK
-     Let's find out. Phasers on stun.
+<tr id="L59"><td><a href="#L59">59</a></td><td>MCCOY:  She appears to be perfectly healthy. As for the other, her lack of vocal cords could be physiologically normal for her species, whatever that is.</td></tr>
 
-  ANNOTATION
-     They start walking.
+<tr id="L60"><td><a href="#L60">60</a></td><td>KIRK:  A race of mutes, like the civilisation on Gamma Vertis Four.</td></tr>
 
-  SPOCK
-     Approaching the life-form, Captain.
+<tr id="L61"><td><a href="#L61">61</a></td><td>MCCOY:  That's my observation, for whatever it's worth.</td></tr>
 
-  KIRK
-     What is it?
+<tr id="L62"><td><a href="#L62">62</a></td><td>KIRK:  Without speech, how's she going to be able to understand us? Unless she's a telepath.</td></tr>
 
-  SPOCK
-     Still undistinguishable.
+<tr id="L63"><td><a href="#L63">63</a></td><td>SPOCK:  An unlikely possibility, Captain, since over ninety eight percent of the known telepathic species send thoughts as well as receive them. She's made no attempt to contact our minds.</td></tr>
 
-  ANNOTATION
-     A light reveals a young woman lying on what might
-     be a bed, which is itself on a stepped platform.
-     McCoy moves towards her.
+<tr id="L64"><td><a href="#L64">64</a></td><td>MCCOY:  We can't keep referring to her as she, as if she weren't here.</td></tr>
 
-  KIRK
-     Be careful.
+<tr id="L65"><td><a href="#L65">65</a></td><td>KIRK:  Do you have any ideas?</td></tr>
 
-  MCCOY
-     She seems harmless enough.
+<tr id="L66"><td><a href="#L66">66</a></td><td>MCCOY:  Well, I don't know about you, but I'm going to call her Gem.</td></tr>
 
-  SPOCK
-     The sand-bats of Manark Four appear to be
-     inanimate rock crystals, Doctor, until they
-     attack.
+<tr id="L67"><td><a href="#L67">67</a></td><td>SPOCK:  Gem, Doctor?</td></tr>
 
-  ANNOTATION
-     She wakes, using big gestures, and mimes her fear
-     of Kirk's phaser.
+<tr id="L68"><td><a href="#L68">68</a></td><td>MCCOY:  Well, that's better than 'Hey, you.'</td></tr>
 
-  KIRK
-     We're not going to hurt you. Is this your home? Do
-     you live here? What about it, Spock? Analysis.
+<tr id="L69"><td><a href="#L69">69</a></td><td>KIRK:  I want to know why we're here. I want to know what's going on. And she knows.</td></tr>
 
-  SPOCK
-     From what we know of the specific gravity and
-     other environmental factors of this planet, a
-     life-form such as hers could not evolve here.
+<tr id="L70"><td><a href="#L70">70</a></td><td>ANNOTATION: Two big-headed aliens in silver robes appear. First cousins to the Talos people, by the looks of them.</td></tr>
 
-  ANNOTATION
-     They put their phasers away.
+<tr id="L71"><td><a href="#L71">71</a></td><td>KIRK:  I'm Captain</td></tr>
 
-  KIRK
-     Are you responsible for bringing us here? Don't be
-     afraid. Bones, what's wrong with her?
+<tr id="L72"><td><a href="#L72">72</a></td><td>THANN:  We are aware of your identity, Captain.</td></tr>
 
-  MCCOY
-     She's a mute, Jim. No vocal cords, not even
-     vestigals. And I don't think it's a pathological
-     condition.
+<tr id="L73"><td><a href="#L73">73</a></td><td>KIRK:  Who are you? Why did you bring us here?</td></tr>
 
-  KIRK
-     Explain.
+<tr id="L74"><td><a href="#L74">74</a></td><td>LAL:  We are Vians. Do not interfere.</td></tr>
 
-  MCCOY
-     She appears to be perfectly healthy. As for the
-     other, her lack of vocal cords could be
-     physiologically normal for her species, whatever
-     that is.
+<tr id="L75"><td><a href="#L75">75</a></td><td>KIRK:  What do you intend to do with us?</td></tr>
 
-  KIRK
-     A race of mutes, like the civilisation on Gamma
-     Vertis Four.
+<tr id="L76"><td><a href="#L76">76</a></td><td>THANN:  Delay us no longer.</td></tr>
 
-  MCCOY
-     That's my observation, for whatever it's worth.
+<tr id="L77"><td><a href="#L77">77</a></td><td>KIRK:  We come (moves forward and gets pushed back by a weapon) Since you already know who we are, you must also know that we come in peace. Our prime directive specifically prohibits us from any interference.)</td></tr>
 
-  KIRK
-     Without speech, how's she going to be able to
-     understand us? Unless she's a telepath.
+<tr id="L78"><td><a href="#L78">78</a></td><td>ANNOTATION: The Vians fire their weapons several times, and the landing party is caught in some sort of enery field. The Vians go to Gem</td></tr>
 
-  SPOCK
-     An unlikely possibility, Captain, since over
-     ninety eight percent of the known telepathic
-     species send thoughts as well as receive them.
-     She's made no attempt to contact our minds.
+<tr id="L79"><td><a href="#L79">79</a></td><td>KIRK:  I can't seem to stand up.</td></tr>
 
-  MCCOY
-     We can't keep referring to her as she, as if she
-     weren't here.
+<tr id="L80"><td><a href="#L80">80</a></td><td>MCCOY:  Don't fight the force field. There's something about it that upsets the body metabolism.</td></tr>
 
-  KIRK
-     Do you have any ideas?
+<tr id="L81"><td><a href="#L81">81</a></td><td>LAL:  Not quite, Doctor. The field draws its energy from your bodies. The more you resist, the stronger the force field becomes. Sufficient.</td></tr>
 
-  MCCOY
-     Well, I don't know about you, but I'm going to
-     call her Gem.
+<tr id="L82"><td><a href="#L82">82</a></td><td>ANNOTATION: The Vians vanish, then the forcefield.</td></tr>
 
-  SPOCK
-     Gem, Doctor?
+<tr id="L83"><td><a href="#L83">83</a></td><td>KIRK:  Mister Spock there must be an exit other than the one we just saw.</td></tr>
 
-  MCCOY
-     Well, that's better than 'Hey, you.'
+<tr id="L84"><td><a href="#L84">84</a></td><td>SPOCK:  Correct, Captain.</td></tr>
 
-  KIRK
-     I want to know why we're here. I want to know
-     what's going on. And she knows.
+<tr id="L85"><td><a href="#L85">85</a></td><td>ANNOTATION: Spock goes off, scanning with his tricorder.</td></tr>
 
-  ANNOTATION
-     Two big-headed aliens in silver robes appear.
-     First cousins to the Talos people, by the looks of
-     them.
+<tr id="L86"><td><a href="#L86">86</a></td><td>MCCOY:  Do you feel all right, Jim?</td></tr>
 
-  KIRK
-     I'm Captain
+<tr id="L87"><td><a href="#L87">87</a></td><td>KIRK:  Don't worry about me. They may have hurt her.</td></tr>
 
-  THANN
-     We are aware of your identity, Captain.
+<tr id="L88"><td><a href="#L88">88</a></td><td>ANNOTATION: Kirk takes her hands, she takes a deep breath and turns away.</td></tr>
 
-  KIRK
-     Who are you? Why did you bring us here?
+<tr id="L89"><td><a href="#L89">89</a></td><td>KIRK:  Did they hurt you?</td></tr>
 
-  LAL
-     We are Vians. Do not interfere.
+<tr id="L90"><td><a href="#L90">90</a></td><td>ANNOTATION: Then Gem turns back and touches the cut on Kirk's head. It disappears from him and appears on her forehead instead, then vanishes.</td></tr>
 
-  KIRK
-     What do you intend to do with us?
+<tr id="L91"><td><a href="#L91">91</a></td><td>KIRK:  The pain is gone. She touched my head, and the pain is gone.</td></tr>
 
-  THANN
-     Delay us no longer.
+<tr id="L92"><td><a href="#L92">92</a></td><td>MCCOY:  The wound is completely healed. It fits, Jim. She must be an empath. Her nervous system is so sensitive, highly responsive that she can actually feel our emotional and physical reactions. They become part of her.</td></tr>
 
-  KIRK
-     We come (moves forward and gets pushed back by a
-     weapon) Since you already know who we are, you
-     must also know that we come in peace. Our prime
-     directive specifically prohibits us from any
-     interference.)
+<tr id="L93"><td><a href="#L93">93</a></td><td>ANNOTATION: Spock returns.</td></tr>
 
-  ANNOTATION
-     The Vians fire their weapons several times, and
-     the landing party is caught in some sort of enery
-     field. The Vians go to Gem
+<tr id="L94"><td><a href="#L94">94</a></td><td>KIRK:  Thank you.</td></tr>
 
-  KIRK
-     I can't seem to stand up.
+<tr id="L95"><td><a href="#L95">95</a></td><td>SPOCK:  Captain, in that direction, my tricorder is now picking up a substantial collection of objects.</td></tr>
 
-  MCCOY
-     Don't fight the force field. There's something
-     about it that upsets the body metabolism.
+<tr id="L96"><td><a href="#L96">96</a></td><td>KIRK:  Details.</td></tr>
 
-  LAL
-     Not quite, Doctor. The field draws its energy from
-     your bodies. The more you resist, the stronger the
-     force field becomes. Sufficient.
+<tr id="L97"><td><a href="#L97">97</a></td><td>SPOCK:  Electronically sophisticated devices. I fail to understand why my tricorder previously gave no indication of them being out there.</td></tr>
 
-  ANNOTATION
-     The Vians vanish, then the forcefield.
+<tr id="L98"><td><a href="#L98">98</a></td><td>KIRK:  Well they're there now. Let's go check them out. (to Gem) Staying here alone could be dangerous. Come with us.</td></tr>
 
-  KIRK
-     Mister Spock there must be an exit other than the
-     one we just saw.
+<tr id="L99"><td><a href="#L99">99</a></td><td>ANNOTATION: The group comes to a collection of computer-like items, girder structures holding up nothing, glass tubes. Herein called 'the laboratory'</td></tr>
 
-  SPOCK
-     Correct, Captain.
+<tr id="L100"><td><a href="#L100">100</a></td><td>SPOCK:  Fascinating.</td></tr>
 
-  ANNOTATION
-     Spock goes off, scanning with his tricorder.
+<tr id="L101"><td><a href="#L101">101</a></td><td>MCCOY:  Look at this stuff.</td></tr>
 
-  MCCOY
-     Do you feel all right, Jim?
+<tr id="L102"><td><a href="#L102">102</a></td><td>KIRK:  Bones Spock, come here.</td></tr>
 
-  KIRK
-     Don't worry about me. They may have hurt her.
+<tr id="L103"><td><a href="#L103">103</a></td><td>ANNOTATION: He has found the scientists, preserved in perspex tubes, in the same positions that they vanished from the research lab.</td></tr>
 
-  ANNOTATION
-     Kirk takes her hands, she takes a deep breath and
-     turns away.
+<tr id="L104"><td><a href="#L104">104</a></td><td>MCCOY:  Jim, Spock.</td></tr>
 
-  KIRK
-     Did they hurt you?
+<tr id="L105"><td><a href="#L105">105</a></td><td>ANNOTATION: There are three empty tubes, with the away teams names on them..</td></tr>
 
-  ANNOTATION
-     Then Gem turns back and touches the cut on Kirk's
-     head. It disappears from him and appears on her
-     forehead instead, then vanishes.
+<tr id="L106"><td><a href="#L106">106</a></td><td>LAL:  We are on schedule. Some further simple tests are necessary.</td></tr>
 
-  KIRK
-     The pain is gone. She touched my head, and the
-     pain is gone.
+<tr id="L107"><td><a href="#L107">107</a></td><td>MCCOY:  We've seen the results of some of your tests.</td></tr>
 
-  MCCOY
-     The wound is completely healed. It fits, Jim. She
-     must be an empath. Her nervous system is so
-     sensitive, highly responsive that she can actually
-     feel our emotional and physical reactions. They
-     become part of her.
+<tr id="L108"><td><a href="#L108">108</a></td><td>KIRK:  I found our missing men. Dead. Another one of your experiments?</td></tr>
 
-  ANNOTATION
-     Spock returns.
+<tr id="L109"><td><a href="#L109">109</a></td><td>LAL:  You're wrong. Their own imperfections killed them. They were not fit subjects. Come. Time is short.</td></tr>
 
-  KIRK
-     Thank you.
+<tr id="L110"><td><a href="#L110">110</a></td><td>KIRK:  Yes. Your time is running out. This sun is about to nova. When it does, it'll destroy you, this planet, and this insane torture chamber.</td></tr>
 
-  SPOCK
-     Captain, in that direction, my tricorder is now
-     picking up a substantial collection of objects.
+<tr id="L111"><td><a href="#L111">111</a></td><td>ANNOTATION: Spock neck-pinches the alien.</td></tr>
 
-  KIRK
-     Details.
+<tr id="L112"><td><a href="#L112">112</a></td><td>KIRK:  Let's get out of here.</td></tr>
 
-  SPOCK
-     Electronically sophisticated devices. I fail to
-     understand why my tricorder previously gave no
-     indication of them being out there.
+<tr id="L113"><td><a href="#L113">113</a></td><td>SPOCK:  Readings indicate the passage to the surface lies in this direction.</td></tr>
 
-  KIRK
-     Well they're there now. Let's go check them out.
-     (to Gem) Staying here alone could be dangerous.
-     Come with us.
+<tr id="L114"><td><a href="#L114">114</a></td><td>ANNOTATION: As they head off, Lal wakes up and watches them go. He is joined by the other alien.</td></tr>
 
-  ANNOTATION
-     The group comes to a collection of computer-like
-     items, girder structures holding up nothing, glass
-     tubes. Herein called 'the laboratory'
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L115"><td><a href="#L115">115</a></td><td>ANNOTATION: A strong wind is blowing as they emerge from a cave.</td></tr>
 
-  SPOCK
-     Fascinating.
+<tr id="L116"><td><a href="#L116">116</a></td><td>KIRK:  Kirk to Enterprise. Kirk to Enterprise, come in. Out of range. Readings, Mister Spock?</td></tr>
 
-  MCCOY
-     Look at this stuff.
+<tr id="L117"><td><a href="#L117">117</a></td><td>SPOCK:  Research station six kilometres in that direction, Captain.</td></tr>
 
-  KIRK
-     Bones Spock, come here.
+<tr id="L118"><td><a href="#L118">118</a></td><td>KIRK:  Let's get there as fast as we can. If the Enterprise has a search party, it'll be there.</td></tr>
 
-  ANNOTATION
-     He has found the scientists, preserved in perspex
-     tubes, in the same positions that they vanished
-     from the research lab.
+<tr id="L119"><td><a href="#L119">119</a></td><td>ANNOTATION: The group run on. Gem isn't very good at running, and McCoy falls over a stone once.</td></tr>
 
-  MCCOY
-     Jim, Spock.
+<tr id="L120"><td><a href="#L120">120</a></td><td>KIRK:  Spock! Much further?</td></tr>
 
-  ANNOTATION
-     There are three empty tubes, with the away teams
-     names on them..
+<tr id="L121"><td><a href="#L121">121</a></td><td>SPOCK:  Just ahead.</td></tr>
 
-  LAL
-     We are on schedule. Some further simple tests are
-     necessary.
+<tr id="L122"><td><a href="#L122">122</a></td><td>MCCOY:  Hey, Jim, look. Scotty and a search party.</td></tr>
 
-  MCCOY
-     We've seen the results of some of your tests.
+<tr id="L123"><td><a href="#L123">123</a></td><td>KIRK:  Scotty!</td></tr>
 
-  KIRK
-     I found our missing men. Dead. Another one of your
-     experiments?
+<tr id="L124"><td><a href="#L124">124</a></td><td>MCCOY:  Scotty!</td></tr>
 
-  LAL
-     You're wrong. Their own imperfections killed them.
-     They were not fit subjects. Come. Time is short.
+<tr id="L125"><td><a href="#L125">125</a></td><td>KIRK:  Stay there! Come on!</td></tr>
 
-  KIRK
-     Yes. Your time is running out. This sun is about
-     to nova. When it does, it'll destroy you, this
-     planet, and this insane torture chamber.
+<tr id="L126"><td><a href="#L126">126</a></td><td>MCCOY:  We're coming!</td></tr>
 
-  ANNOTATION
-     Spock neck-pinches the alien.
+<tr id="L127"><td><a href="#L127">127</a></td><td>ANNOTATION: When Gem stumbles again, Kirk sees the aliens watching their progress. He sends her on ahead of him.</td></tr>
 
-  KIRK
-     Let's get out of here.
+<tr id="L128"><td><a href="#L128">128</a></td><td>KIRK:  Keep going.</td></tr>
 
-  SPOCK
-     Readings indicate the passage to the surface lies
-     in this direction.
+<tr id="L129"><td><a href="#L129">129</a></td><td>LAL:  Their will to survive is great.</td></tr>
 
-  ANNOTATION
-     As they head off, Lal wakes up and watches them
-     go. He is joined by the other alien.
+<tr id="L130"><td><a href="#L130">130</a></td><td>THANN:  They love life greatly to struggle so.</td></tr>
 
+<tr id="L131"><td><a href="#L131">131</a></td><td>LAL:  The prime ingredient.</td></tr>
 
-LOCATION--Planet surface
+<tr><td></td><td>LOCATION--Outside Research station</td></tr>
+<tr id="L132"><td><a href="#L132">132</a></td><td>ANNOTATION: Scott and the rescue team vanish.</td></tr>
 
-  ANNOTATION
-     A strong wind is blowing as they emerge from a
-     cave.
+<tr id="L133"><td><a href="#L133">133</a></td><td>MCCOY:  Where'd they go?</td></tr>
 
-  KIRK
-     Kirk to Enterprise. Kirk to Enterprise, come in.
-     Out of range. Readings, Mister Spock?
+<tr id="L134"><td><a href="#L134">134</a></td><td>SPOCK:  I believe they were never actually present, Doctor. It was a mirage.</td></tr>
 
-  SPOCK
-     Research station six kilometres in that direction,
-     Captain.
+<tr id="L135"><td><a href="#L135">135</a></td><td>ANNOTATION: Gem gestures to them to go back with her.</td></tr>
 
-  KIRK
-     Let's get there as fast as we can. If the
-     Enterprise has a search party, it'll be there.
+<tr id="L136"><td><a href="#L136">136</a></td><td>MCCOY:  Where's Kirk?</td></tr>
 
-  ANNOTATION
-     The group run on. Gem isn't very good at running,
-     and McCoy falls over a stone once.
+<tr><td></td><td>LOCATION--Planet surface</td></tr>
+<tr id="L137"><td><a href="#L137">137</a></td><td>ANNOTATION: They find Kirk on the ground.</td></tr>
 
-  KIRK
-     Spock! Much further?
+<tr id="L138"><td><a href="#L138">138</a></td><td>MCCOY:  Jim.</td></tr>
 
-  SPOCK
-     Just ahead.
+<tr id="L139"><td><a href="#L139">139</a></td><td>KIRK:  What are you doing here? Where's Scotty?</td></tr>
 
-  MCCOY
-     Hey, Jim, look. Scotty and a search party.
+<tr id="L140"><td><a href="#L140">140</a></td><td>SPOCK:  Captain, it was a mirage.</td></tr>
 
-  KIRK
-     Scotty!
+<tr id="L141"><td><a href="#L141">141</a></td><td>THANN:  Captain Kirk! We have decided that one specimen will be sufficient. You will come with us.</td></tr>
 
-  MCCOY
-     Scotty!
+<tr id="L142"><td><a href="#L142">142</a></td><td>KIRK:  What about the others?</td></tr>
 
-  KIRK
-     Stay there! Come on!
+<tr id="L143"><td><a href="#L143">143</a></td><td>LAL:  We've no interest in them. They may go.</td></tr>
 
-  MCCOY
-     We're coming!
+<tr id="L144"><td><a href="#L144">144</a></td><td>KIRK:  Very well.</td></tr>
 
-  ANNOTATION
-     When Gem stumbles again, Kirk sees the aliens
-     watching their progress. He sends her on ahead of
-     him.
+<tr id="L145"><td><a href="#L145">145</a></td><td>MCCOY:  You can't go back there. You'll end up like the other two.</td></tr>
 
-  KIRK
-     Keep going.
+<tr id="L146"><td><a href="#L146">146</a></td><td>SPOCK:  Captain, I request permission to be allowed</td></tr>
 
-  LAL
-     Their will to survive is great.
+<tr id="L147"><td><a href="#L147">147</a></td><td>KIRK:  Denied.</td></tr>
 
-  THANN
-     They love life greatly to struggle so.
+<tr id="L148"><td><a href="#L148">148</a></td><td>MCCOY:  But, Captain</td></tr>
 
-  LAL
-     The prime ingredient.
+<tr id="L149"><td><a href="#L149">149</a></td><td>KIRK:  You have your orders.</td></tr>
 
+<tr id="L150"><td><a href="#L150">150</a></td><td>ANNOTATION: McCoy, Spock and Gem vanish.</td></tr>
 
-LOCATION--Outside Research station
+<tr id="L151"><td><a href="#L151">151</a></td><td>KIRK:  What happened to my men?</td></tr>
 
-  ANNOTATION
-     Scott and the rescue team vanish.
+<tr id="L152"><td><a href="#L152">152</a></td><td>LAL:  They are safe.</td></tr>
 
-  MCCOY
-     Where'd they go?
+<tr id="L153"><td><a href="#L153">153</a></td><td>KIRK:  One specimen, you said. One specimen! What happened to my men?</td></tr>
 
-  SPOCK
-     I believe they were never actually present,
-     Doctor. It was a mirage.
+<tr id="L154"><td><a href="#L154">154</a></td><td>THANN:  Indeed, the prime ingredient.</td></tr>
 
-  ANNOTATION
-     Gem gestures to them to go back with her.
+<tr id="L155"><td><a href="#L155">155</a></td><td>KIRK:  Where are they? Tell me! You said you'd let them go!</td></tr>
 
-  MCCOY
-     Where's Kirk?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L156"><td><a href="#L156">156</a></td><td>SCOTT:  Mister Sulu, will you give us an estimate of how much longer we'll have until those solar flares will subside?</td></tr>
 
+<tr id="L157"><td><a href="#L157">157</a></td><td>SULU:  Aye, sir. Readings now indicate two point seven two one on the Ritter scale. At the present rate of decrease, we'll have to wait at least seventeen hours more before we can even attempt to enter orbit.</td></tr>
 
-LOCATION--Planet surface
+<tr id="L158"><td><a href="#L158">158</a></td><td>SCOTT:  Aye. Well, as long as we're stuck out here, we might as well relax until the storm passes.</td></tr>
 
-  ANNOTATION
-     They find Kirk on the ground.
+<tr id="L159"><td><a href="#L159">159</a></td><td>SULU:  The storm's already lasted four hours longer than we've anticipated. Do you suppose our landing party could be in any danger?</td></tr>
 
-  MCCOY
-     Jim.
+<tr id="L160"><td><a href="#L160">160</a></td><td>SCOTT:  That's not likely. The planet's atmosphere will give them ample protection. And if I know Captain Kirk, he'll be more worried about us than we are about him.</td></tr>
 
-  KIRK
-     What are you doing here? Where's Scotty?
+<tr><td></td><td>LOCATION--Laboratory</td></tr>
+<tr id="L161"><td><a href="#L161">161</a></td><td>ANNOTATION: Kirk is currently stripped and dangling from a couple of chains, crucifixion-style. He is suffering, and Gem is watching.</td></tr>
 
-  SPOCK
-     Captain, it was a mirage.
+<tr id="L162"><td><a href="#L162">162</a></td><td>KIRK:  What is it you want to know?</td></tr>
 
-  THANN
-     Captain Kirk! We have decided that one specimen
-     will be sufficient. You will come with us.
+<tr id="L163"><td><a href="#L163">163</a></td><td>LAL:  We seek no information as you mean. Your civilisation is yet too immature to have knowledge valuable to us.</td></tr>
 
-  KIRK
-     What about the others?
+<tr id="L164"><td><a href="#L164">164</a></td><td>KIRK:  You don't need any knowledge from us, yet you're willing to kill for it. Is that what happened to Linke and Ozaba?</td></tr>
 
-  LAL
-     We've no interest in them. They may go.
+<tr id="L165"><td><a href="#L165">165</a></td><td>THANN:  We did not kill them. Their own fears killed them.</td></tr>
 
-  KIRK
-     Very well.
+<tr id="L166"><td><a href="#L166">166</a></td><td>KIRK:  Well, what did you expect from them? And what do you want from me?</td></tr>
 
-  MCCOY
-     You can't go back there. You'll end up like the
-     other two.
+<tr id="L167"><td><a href="#L167">167</a></td><td>LAL:  We've already observed the intensity of your passions and gauged your capacity to love others. Now we want you to reveal to us your courage and strength of will.</td></tr>
 
-  SPOCK
-     Captain, I request permission to be allowed
+<tr id="L168"><td><a href="#L168">168</a></td><td>KIRK:  Why? What is it you hope to prove? If my death is to have any meaning, at least tell me what I'm dying for.</td></tr>
 
-  KIRK
-     Denied.
+<tr id="L169"><td><a href="#L169">169</a></td><td>THANN:  If you live, you will have your answer.</td></tr>
 
-  MCCOY
-     But, Captain
+<tr><td></td><td>LOCATION--Bed area</td></tr>
+<tr id="L170"><td><a href="#L170">170</a></td><td>MCCOY:  Come on, Spock, the passageway was there before. It's got to be there.</td></tr>
 
-  KIRK
-     You have your orders.
+<tr id="L171"><td><a href="#L171">171</a></td><td>SPOCK:  Doctor, I'm unable to lock in on the previous readings. I can find no exit out of here.</td></tr>
 
-  ANNOTATION
-     McCoy, Spock and Gem vanish.
+<tr id="L172"><td><a href="#L172">172</a></td><td>ANNOTATION: A flash, Gem and a clothed but unconscious Kirk appear, along with the forcefield to restrain McCoy and Spock.</td></tr>
 
-  KIRK
-     What happened to my men?
+<tr id="L173"><td><a href="#L173">173</a></td><td>MCCOY:  Captain! (Kirk wakes) Jim, what is it? What have they done to you?</td></tr>
 
-  LAL
-     They are safe.
+<tr id="L174"><td><a href="#L174">174</a></td><td>ANNOTATION: Gem starts to try to heal Kirk, but recoils at the pain.</td></tr>
 
-  KIRK
-     One specimen, you said. One specimen! What
-     happened to my men?
+<tr id="L175"><td><a href="#L175">175</a></td><td>MCCOY:  Help him. Don't be afraid to help him.</td></tr>
 
-  THANN
-     Indeed, the prime ingredient.
+<tr id="L176"><td><a href="#L176">176</a></td><td>ANNOTATION: She does, taking the pain from his shoulders and the wounds from his wrists. Gem collapses. The forcefield is gone.</td></tr>
 
-  KIRK
-     Where are they? Tell me! You said you'd let them
-     go!
+<tr id="L177"><td><a href="#L177">177</a></td><td>MCCOY:  Jim. You lie still. I'll check her out right away.</td></tr>
 
+<tr id="L178"><td><a href="#L178">178</a></td><td>KIRK:  Will she live?</td></tr>
 
-LOCATION--Bridge
+<tr id="L179"><td><a href="#L179">179</a></td><td>MCCOY:  She seems fine now.</td></tr>
 
-  SCOTT
-     Mister Sulu, will you give us an estimate of how
-     much longer we'll have until those solar flares
-     will subside?
+<tr id="L180"><td><a href="#L180">180</a></td><td>KIRK:  Can you explain what happened?</td></tr>
 
-  SULU
-     Aye, sir. Readings now indicate two point seven
-     two one on the Ritter scale. At the present rate
-     of decrease, we'll have to wait at least seventeen
-     hours more before we can even attempt to enter
-     orbit.
+<tr id="L181"><td><a href="#L181">181</a></td><td>MCCOY:  Complete empathy. She must be a totally functional empath. Her nervous system actually connected to yours to counteract the worst of your symptoms and with her strength, she virtually sustained your body's physiological reactions.</td></tr>
 
-  SCOTT
-     Aye. Well, as long as we're stuck out here, we
-     might as well relax until the storm passes.
+<tr id="L182"><td><a href="#L182">182</a></td><td>KIRK:  She weakened. I could feel it. Is her life in danger?</td></tr>
 
-  SULU
-     The storm's already lasted four hours longer than
-     we've anticipated. Do you suppose our landing
-     party could be in any danger?
+<tr id="L183"><td><a href="#L183">183</a></td><td>MCCOY:  It's impossible to say yet, but supplying your body with life support did drain her.</td></tr>
 
-  SCOTT
-     That's not likely. The planet's atmosphere will
-     give them ample protection. And if I know Captain
-     Kirk, he'll be more worried about us than we are
-     about him.
+<tr id="L184"><td><a href="#L184">184</a></td><td>SPOCK:  Her withdrawal seemed to suggest the fear of death, Doctor. Only your urging her on caused her to continue.</td></tr>
 
+<tr id="L185"><td><a href="#L185">185</a></td><td>MCCOY:  That's true. Fear would naturally be her first reaction. Perhaps she doesn't know our captain well enough yet to offer up her life for him.</td></tr>
 
-LOCATION--Laboratory
+<tr id="L186"><td><a href="#L186">186</a></td><td>KIRK:  Could the strain really have killed her?</td></tr>
 
-  ANNOTATION
-     Kirk is currently stripped and dangling from a
-     couple of chains, crucifixion-style. He is
-     suffering, and Gem is watching.
+<tr id="L187"><td><a href="#L187">187</a></td><td>MCCOY:  Oh yes. However, I'd assume that her instinct for self-preservation would take over to prevent it. How do you feel?</td></tr>
 
-  KIRK
-     What is it you want to know?
+<tr id="L188"><td><a href="#L188">188</a></td><td>KIRK:  I'm tired.</td></tr>
 
-  LAL
-     We seek no information as you mean. Your
-     civilisation is yet too immature to have knowledge
-     valuable to us.
+<tr id="L189"><td><a href="#L189">189</a></td><td>SPOCK:  Can you recall what happened, Captain?</td></tr>
 
-  KIRK
-     You don't need any knowledge from us, yet you're
-     willing to kill for it. Is that what happened to
-     Linke and Ozaba?
+<tr id="L190"><td><a href="#L190">190</a></td><td>KIRK:  I remember the laboratory, and they wanted to know something. But I, I can't remember.</td></tr>
 
-  THANN
-     We did not kill them. Their own fears killed them.
+<tr id="L191"><td><a href="#L191">191</a></td><td>MCCOY:  Take it easy.</td></tr>
 
-  KIRK
-     Well, what did you expect from them? And what do
-     you want from me?
+<tr id="L192"><td><a href="#L192">192</a></td><td>KIRK:  What's the matter with me?</td></tr>
 
-  LAL
-     We've already observed the intensity of your
-     passions and gauged your capacity to love others.
-     Now we want you to reveal to us your courage and
-     strength of will.
+<tr id="L193"><td><a href="#L193">193</a></td><td>MCCOY:  You have all the symptoms of the bends. Nitrogen bubbles in your blood caused the pain. Now how would one get the bends down here?</td></tr>
 
-  KIRK
-     Why? What is it you hope to prove? If my death is
-     to have any meaning, at least tell me what I'm
-     dying for.
+<tr id="L194"><td><a href="#L194">194</a></td><td>KIRK:  You'll have to ask the Vians. Will I live?</td></tr>
 
-  THANN
-     If you live, you will have your answer.
+<tr id="L195"><td><a href="#L195">195</a></td><td>MCCOY:  Well, you could use some time in a decompression chamber. But otherwise, I'd say your recovery is about miraculous. I wish I could take the credit for it, but she did the work.</td></tr>
 
+<tr id="L196"><td><a href="#L196">196</a></td><td>SPOCK:  Captain, I noted that a light preceded you at the moment you were returned here from the Vian's laboratory.</td></tr>
 
-LOCATION--Bed area
+<tr id="L197"><td><a href="#L197">197</a></td><td>MCCOY:  Spock, why do you have to get so analytical at a time like</td></tr>
 
-  MCCOY
-     Come on, Spock, the passageway was there before.
-     It's got to be there.
+<tr id="L198"><td><a href="#L198">198</a></td><td>KIRK:  No, he's right. Continue.</td></tr>
 
-  SPOCK
-     Doctor, I'm unable to lock in on the previous
-     readings. I can find no exit out of here.
+<tr id="L199"><td><a href="#L199">199</a></td><td>SPOCK:  I conclude such a light is an energy transfer point linking this device to the power source.</td></tr>
 
-  ANNOTATION
-     A flash, Gem and a clothed but unconscious Kirk
-     appear, along with the forcefield to restrain
-     McCoy and Spock.
+<tr id="L200"><td><a href="#L200">200</a></td><td>ANNOTATION: Spock refers to the hand device they took off Lal.</td></tr>
 
-  MCCOY
-     Captain! (Kirk wakes) Jim, what is it? What have
-     they done to you?
+<tr id="L201"><td><a href="#L201">201</a></td><td>KIRK:  Can you tap into it?</td></tr>
 
-  ANNOTATION
-     Gem starts to try to heal Kirk, but recoils at the
-     pain.
+<tr id="L202"><td><a href="#L202">202</a></td><td>SPOCK:  If I can determine the frequency at which this device operates, I might be able to cause it to function for us.</td></tr>
 
-  MCCOY
-     Help him. Don't be afraid to help him.
+<tr id="L203"><td><a href="#L203">203</a></td><td>KIRK:  And get us out of here the same way we were brought in.</td></tr>
 
-  ANNOTATION
-     She does, taking the pain from his shoulders and
-     the wounds from his wrists. Gem collapses. The
-     forcefield is gone.
+<tr id="L204"><td><a href="#L204">204</a></td><td>SPOCK:  I would say so.</td></tr>
 
-  MCCOY
-     Jim. You lie still. I'll check her out right away.
+<tr id="L205"><td><a href="#L205">205</a></td><td>KIRK:  Then I would say proceed.</td></tr>
 
-  KIRK
-     Will she live?
+<tr id="L206"><td><a href="#L206">206</a></td><td>LAL:  You are called Captain. You are responsible for the lives of your crew. Is this correct?</td></tr>
 
-  MCCOY
-     She seems fine now.
+<tr id="L207"><td><a href="#L207">207</a></td><td>KIRK:  It is.</td></tr>
 
-  KIRK
-     Can you explain what happened?
+<tr id="L208"><td><a href="#L208">208</a></td><td>THANN:  We find it necessary to have the co-operation of one of your men in our efforts.</td></tr>
 
-  MCCOY
-     Complete empathy. She must be a totally functional
-     empath. Her nervous system actually connected to
-     yours to counteract the worst of your symptoms and
-     with her strength, she virtually sustained your
-     body's physiological reactions.
+<tr id="L209"><td><a href="#L209">209</a></td><td>KIRK:  We will not co-operate.</td></tr>
 
-  KIRK
-     She weakened. I could feel it. Is her life in
-     danger?
+<tr id="L210"><td><a href="#L210">210</a></td><td>LAL:  When we resume our interrogations, you will decide which of your men we shall use. It is essential. There is an eighty seven percent chance that the doctor will die. And while Commander Spock's life is not in danger, the possibility is ninety three percent that he will suffer brain damage, resulting in permanent insanity.</td></tr>
 
-  MCCOY
-     It's impossible to say yet, but supplying your
-     body with life support did drain her.
+<tr id="L211"><td><a href="#L211">211</a></td><td>ANNOTATION: Later</td></tr>
 
-  SPOCK
-     Her withdrawal seemed to suggest the fear of
-     death, Doctor. Only your urging her on caused her
-     to continue.
+<tr id="L212"><td><a href="#L212">212</a></td><td>KIRK:  How's it coming, Spock?</td></tr>
 
-  MCCOY
-     That's true. Fear would naturally be her first
-     reaction. Perhaps she doesn't know our captain
-     well enough yet to offer up her life for him.
+<tr id="L213"><td><a href="#L213">213</a></td><td>SPOCK:  I do not know, Captain. I'm beginning to understand its operating principles, but that is all.</td></tr>
 
-  KIRK
-     Could the strain really have killed her?
+<tr id="L214"><td><a href="#L214">214</a></td><td>MCCOY:  Spock, It won't be long before the Vians come back. You better find out how that thing works and soon.</td></tr>
 
-  MCCOY
-     Oh yes. However, I'd assume that her instinct for
-     self-preservation would take over to prevent it.
-     How do you feel?
+<tr id="L215"><td><a href="#L215">215</a></td><td>KIRK:  Take it easy, Bones.</td></tr>
 
-  KIRK
-     I'm tired.
+<tr id="L216"><td><a href="#L216">216</a></td><td>MCCOY:  Men weren't intended to live this far underground. It's just not natural.</td></tr>
 
-  SPOCK
-     Can you recall what happened, Captain?
+<tr id="L217"><td><a href="#L217">217</a></td><td>KIRK:  And space travel is?</td></tr>
 
-  KIRK
-     I remember the laboratory, and they wanted to know
-     something. But I, I can't remember.
+<tr id="L218"><td><a href="#L218">218</a></td><td>SPOCK:  Some men spend the majority of their lives in mines beneath the surface.</td></tr>
 
-  MCCOY
-     Take it easy.
+<tr id="L219"><td><a href="#L219">219</a></td><td>MCCOY:  I'm a doctor, not a coal miner.</td></tr>
 
-  KIRK
-     What's the matter with me?
+<tr id="L220"><td><a href="#L220">220</a></td><td>SPOCK:  I've recorded my principles and theories on the tricorder, Doctor. Should the Vians return, there is sufficient data for you and the captain to complete the adjustments.</td></tr>
 
-  MCCOY
-     You have all the symptoms of the bends. Nitrogen
-     bubbles in your blood caused the pain. Now how
-     would one get the bends down here?
+<tr id="L221"><td><a href="#L221">221</a></td><td>MCCOY:  I'm not a mechanic. I couldn't get that thing to work no matter how many notes you left.</td></tr>
 
-  KIRK
-     You'll have to ask the Vians. Will I live?
+<tr id="L222"><td><a href="#L222">222</a></td><td>SPOCK:  Possibly not, but you and the captain together will be able to do so.</td></tr>
 
-  MCCOY
-     Well, you could use some time in a decompression
-     chamber. But otherwise, I'd say your recovery is
-     about miraculous. I wish I could take the credit
-     for it, but she did the work.
+<tr id="L223"><td><a href="#L223">223</a></td><td>MCCOY:  In any case, Spock, you're the logical one to leave with the captain.</td></tr>
 
-  SPOCK
-     Captain, I noted that a light preceded you at the
-     moment you were returned here from the Vian's
-     laboratory.
+<tr id="L224"><td><a href="#L224">224</a></td><td>KIRK:  The decision's mine. If there are any decisions to be made, I'll make them. If and when it becomes necessary.</td></tr>
 
-  MCCOY
-     Spock, why do you have to get so analytical at a
-     time like
+<tr id="L225"><td><a href="#L225">225</a></td><td>ANNOTATION: Kirk appears to be in discomfort. McCoy prepares a hypo, and injects him.</td></tr>
 
-  KIRK
-     No, he's right. Continue.
+<tr id="L226"><td><a href="#L226">226</a></td><td>KIRK:  I don't need any</td></tr>
 
-  SPOCK
-     I conclude such a light is an energy transfer
-     point linking this device to the power source.
+<tr id="L227"><td><a href="#L227">227</a></td><td>MCCOY:  I'm still Chief Medical Officer of the Enterprise. I'll tell you what you need and when you need it. Would you rather have the bends? That's it. Just lie down and relax.</td></tr>
 
-  ANNOTATION
-     Spock refers to the hand device they took off Lal.
+<tr id="L228"><td><a href="#L228">228</a></td><td>SPOCK:  How long will he be asleep, Doctor?</td></tr>
 
-  KIRK
-     Can you tap into it?
+<tr id="L229"><td><a href="#L229">229</a></td><td>MCCOY:  Between the emotional strain and that attack of bends, he's in pretty bad shape.</td></tr>
 
-  SPOCK
-     If I can determine the frequency at which this
-     device operates, I might be able to cause it to
-     function for us.
+<tr id="L230"><td><a href="#L230">230</a></td><td>SPOCK:  I'm not criticizing your action, Doctor. On the contrary, I'm quite grateful for it. The captain will be spared the strain of making so difficult a decision. You have simplified the situation considerably.</td></tr>
 
-  KIRK
-     And get us out of here the same way we were
-     brought in.
+<tr id="L231"><td><a href="#L231">231</a></td><td>MCCOY:  How?</td></tr>
 
-  SPOCK
-     I would say so.
+<tr id="L232"><td><a href="#L232">232</a></td><td>SPOCK:  While the captain is asleep, I am in command. When the Vians return, I shall go with them.</td></tr>
 
-  KIRK
-     Then I would say proceed.
+<tr id="L233"><td><a href="#L233">233</a></td><td>MCCOY:  You mean, if I hadn't given him that shot</td></tr>
 
-  LAL
-     You are called Captain. You are responsible for
-     the lives of your crew. Is this correct?
+<tr id="L234"><td><a href="#L234">234</a></td><td>SPOCK:  Precisely. The choice would have been the captain's. Now it is mine.</td></tr>
 
-  KIRK
-     It is.
+<tr id="L235"><td><a href="#L235">235</a></td><td>ANNOTATION: McCoy turns away. Spock sits to carry on working. Gem puts her hand on Spock's shoulder, and smiles. McCoy comes up behind him and gives him an injection.</td></tr>
 
-  THANN
-     We find it necessary to have the co-operation of
-     one of your men in our efforts.
+<tr id="L236"><td><a href="#L236">236</a></td><td>SPOCK:  Your action is highly unethical. My decision stands.</td></tr>
 
-  KIRK
-     We will not co-operate.
+<tr id="L237"><td><a href="#L237">237</a></td><td>ANNOTATION: Spock falls asleep next to Kirk.</td></tr>
 
-  LAL
-     When we resume our interrogations, you will decide
-     which of your men we shall use. It is essential.
-     There is an eighty seven percent chance that the
-     doctor will die. And while Commander Spock's life
-     is not in danger, the possibility is ninety three
-     percent that he will suffer brain damage,
-     resulting in permanent insanity.
+<tr id="L238"><td><a href="#L238">238</a></td><td>MCCOY:  Not this time, Spock.</td></tr>
 
-  ANNOTATION
-     Later
+<tr id="L239"><td><a href="#L239">239</a></td><td>ANNOTATION: The Vians return.</td></tr>
 
-  KIRK
-     How's it coming, Spock?
+<tr id="L240"><td><a href="#L240">240</a></td><td>MCCOY:  The choice has been made. (to Gem) You stay here with my friends. They'll take care of you. Do you understand?</td></tr>
 
-  SPOCK
-     I do not know, Captain. I'm beginning to
-     understand its operating principles, but that is
-     all.
+<tr id="L241"><td><a href="#L241">241</a></td><td>THANN:  Come, then.</td></tr>
 
-  MCCOY
-     Spock, It won't be long before the Vians come
-     back. You better find out how that thing works and
-     soon.
+<tr id="L242"><td><a href="#L242">242</a></td><td>ANNOTATION: McCoy puts down his bag and tricorder, then the three vanish.</td></tr>
 
-  KIRK
-     Take it easy, Bones.
+<tr><td></td><td>LOCATION--Laboratory</td></tr>
+<tr id="L243"><td><a href="#L243">243</a></td><td>ANNOTATION: Now it is McCoy who is being crucified from the chains.</td></tr>
 
-  MCCOY
-     Men weren't intended to live this far underground.
-     It's just not natural.
+<tr id="L244"><td><a href="#L244">244</a></td><td>LAL:  Doctor, please understand that if there was any other way to accomplish our purpose</td></tr>
 
-  KIRK
-     And space travel is?
+<tr id="L245"><td><a href="#L245">245</a></td><td>MCCOY:  Get on with it.</td></tr>
 
-  SPOCK
-     Some men spend the majority of their lives in
-     mines beneath the surface.
+<tr id="L246"><td><a href="#L246">246</a></td><td>ANNOTATION: So they do.</td></tr>
 
-  MCCOY
-     I'm a doctor, not a coal miner.
+<tr><td></td><td>LOCATION--Bed area</td></tr>
+<tr id="L247"><td><a href="#L247">247</a></td><td>KIRK:  Why did you let him do it?</td></tr>
 
-  SPOCK
-     I've recorded my principles and theories on the
-     tricorder, Doctor. Should the Vians return, there
-     is sufficient data for you and the captain to
-     complete the adjustments.
+<tr id="L248"><td><a href="#L248">248</a></td><td>SPOCK:  I was convinced in the same way you were, Captain. By the good doctor's hypo.</td></tr>
 
-  MCCOY
-     I'm not a mechanic. I couldn't get that thing to
-     work no matter how many notes you left.
+<tr id="L249"><td><a href="#L249">249</a></td><td>KIRK:  Anything?</td></tr>
 
-  SPOCK
-     Possibly not, but you and the captain together
-     will be able to do so.
+<tr id="L250"><td><a href="#L250">250</a></td><td>SPOCK:  Hmm. A most unusual device. It is a control unit, but not a control mechanism. In fact, it is not a mechanical device.</td></tr>
 
-  MCCOY
-     In any case, Spock, you're the logical one to
-     leave with the captain.
+<tr id="L251"><td><a href="#L251">251</a></td><td>KIRK:  What exactly is it?</td></tr>
 
-  KIRK
-     The decision's mine. If there are any decisions to
-     be made, I'll make them. If and when it becomes
-     necessary.
+<tr id="L252"><td><a href="#L252">252</a></td><td>SPOCK:  This control is attuned to one electrical pattern of energy, the pattern produced by the mental impulses of the person who possesses it. It is activated solely by mental commands.</td></tr>
 
-  ANNOTATION
-     Kirk appears to be in discomfort. McCoy prepares a
-     hypo, and injects him.
+<tr id="L253"><td><a href="#L253">253</a></td><td>KIRK:  Can you adapt it, re-attune it to fit our brain pattern?</td></tr>
 
-  KIRK
-     I don't need any
+<tr id="L254"><td><a href="#L254">254</a></td><td>SPOCK:  I shall attempt to do so. However, it is not possible to adjust the control to fit more than one pattern at a time. I am, of course, most familiar with my own pattern. Therefore, with your permission, I</td></tr>
 
-  MCCOY
-     I'm still Chief Medical Officer of the Enterprise.
-     I'll tell you what you need and when you need it.
-     Would you rather have the bends? That's it. Just
-     lie down and relax.
+<tr id="L255"><td><a href="#L255">255</a></td><td>KIRK:  Do whatever you have to to make it work, Spock. What disturbs me is why the Vians let us keep it.</td></tr>
 
-  SPOCK
-     How long will he be asleep, Doctor?
+<tr id="L256"><td><a href="#L256">256</a></td><td>SPOCK:  Fascinating. They must have known we were capable of comprehending this control and making use of it.</td></tr>
 
-  MCCOY
-     Between the emotional strain and that attack of
-     bends, he's in pretty bad shape.
+<tr id="L257"><td><a href="#L257">257</a></td><td>KIRK:  And that we would use it to escape.</td></tr>
 
-  SPOCK
-     I'm not criticizing your action, Doctor. On the
-     contrary, I'm quite grateful for it. The captain
-     will be spared the strain of making so difficult a
-     decision. You have simplified the situation
-     considerably.
+<tr id="L258"><td><a href="#L258">258</a></td><td>SPOCK:  The only logical assumption is that they wish to let us go.</td></tr>
 
-  MCCOY
-     How?
+<tr id="L259"><td><a href="#L259">259</a></td><td>KIRK:  And they keep McCoy.</td></tr>
 
-  SPOCK
-     While the captain is asleep, I am in command. When
-     the Vians return, I shall go with them.
+<tr id="L260"><td><a href="#L260">260</a></td><td>SPOCK:  That is evidently their intention, Captain.</td></tr>
 
-  MCCOY
-     You mean, if I hadn't given him that shot
+<tr id="L261"><td><a href="#L261">261</a></td><td>KIRK:  (to Gem) Somehow, you're the crux, the focal point of all this. Even before we got here, she was a prisoner. They didn't hurt her, they didn't even threaten her.</td></tr>
 
-  SPOCK
-     Precisely. The choice would have been the
-     captain's. Now it is mine.
+<tr id="L262"><td><a href="#L262">262</a></td><td>SPOCK:  Indeed, the facts would indicate that she's essential to their purpose.</td></tr>
 
-  ANNOTATION
-     McCoy turns away. Spock sits to carry on working.
-     Gem puts her hand on Spock's shoulder, and smiles.
-     McCoy comes up behind him and gives him an
-     injection.
+<tr id="L263"><td><a href="#L263">263</a></td><td>KIRK:  Yes, there is a purpose, but what is it? Has all the pain and terror happened, or been made to happen for you?</td></tr>
 
-  SPOCK
-     Your action is highly unethical. My decision
-     stands.
+<tr id="L264"><td><a href="#L264">264</a></td><td>SPOCK:  Completed, Captain. The adjustments are delicate. They may not survive more than even one use. However, there should be sufficient energy to transfer us to the Enterprise.</td></tr>
 
-  ANNOTATION
-     Spock falls asleep next to Kirk.
+<tr id="L265"><td><a href="#L265">265</a></td><td>KIRK:  Will it take us to McCoy?</td></tr>
 
-  MCCOY
-     Not this time, Spock.
+<tr id="L266"><td><a href="#L266">266</a></td><td>SPOCK:  If you so desire.</td></tr>
 
-  ANNOTATION
-     The Vians return.
+<tr id="L267"><td><a href="#L267">267</a></td><td>KIRK:  The best defence is a strong offense, and I intend to start offending right now. Aim for the lab.</td></tr>
 
-  MCCOY
-     The choice has been made. (to Gem) You stay here
-     with my friends. They'll take care of you. Do you
-     understand?
+<tr><td></td><td>LOCATION--Laboratory</td></tr>
+<tr id="L268"><td><a href="#L268">268</a></td><td>ANNOTATION: Spock, Kirk and Gem arrive at to find McCoy alone, still suspended from the chains. Gem is horrified.</td></tr>
 
-  THANN
-     Come, then.
+<tr id="L269"><td><a href="#L269">269</a></td><td>KIRK:  Bones. Spock. Get him down. His wrists. (they lie him on a couch) His pulse is almost gone. How is he?</td></tr>
 
-  ANNOTATION
-     McCoy puts down his bag and tricorder, then the
-     three vanish.
+<tr id="L270"><td><a href="#L270">270</a></td><td>SPOCK:  Severe heart damage. Signs of congestion in both lungs. Evidence of massive circulatory collapse.</td></tr>
 
+<tr id="L271"><td><a href="#L271">271</a></td><td>MCCOY:  I</td></tr>
 
-LOCATION--Laboratory
+<tr id="L272"><td><a href="#L272">272</a></td><td>KIRK:  Don't talk. Don't speak. Take it easy until we get you back to the ship. What is it? What's the matter?</td></tr>
 
-  ANNOTATION
-     Now it is McCoy who is being crucified from the
-     chains.
+<tr id="L273"><td><a href="#L273">273</a></td><td>SPOCK:  He's dying, Jim. We can make him comfortable, but that is all.</td></tr>
 
-  LAL
-     Doctor, please understand that if there was any
-     other way to accomplish our purpose
+<tr id="L274"><td><a href="#L274">274</a></td><td>KIRK:  You don't know. You're not a doctor.</td></tr>
 
-  MCCOY
-     Get on with it.
+<tr id="L275"><td><a href="#L275">275</a></td><td>SPOCK:  Internal injuries. Bleeding in the chest and abdomen. Haemorrhage of the spleen and liver. Seventy percent kidney failure.</td></tr>
 
-  ANNOTATION
-     So they do.
+<tr id="L276"><td><a href="#L276">276</a></td><td>MCCOY:  He's right, Jim. Being a doctor has its drawbacks. I always wondered why I (coughs, so they turn him on his side) Thanks.</td></tr>
 
+<tr id="L277"><td><a href="#L277">277</a></td><td>KIRK:  How long?</td></tr>
 
-LOCATION--Bed area
+<tr id="L278"><td><a href="#L278">278</a></td><td>SPOCK:  It could happen anytime.</td></tr>
 
-  KIRK
-     Why did you let him do it?
+<tr id="L279"><td><a href="#L279">279</a></td><td>MCCOY:  The correct medical phrase, ay, Spock? You've got a a good bedside manner, Spock.</td></tr>
 
-  SPOCK
-     I was convinced in the same way you were, Captain.
-     By the good doctor's hypo.
+<tr id="L280"><td><a href="#L280">280</a></td><td>KIRK:  Can't we do something?</td></tr>
 
-  KIRK
-     Anything?
+<tr id="L281"><td><a href="#L281">281</a></td><td>SPOCK:  I'm afraid not.</td></tr>
 
-  SPOCK
-     Hmm. A most unusual device. It is a control unit,
-     but not a control mechanism. In fact, it is not a
-     mechanical device.
+<tr id="L282"><td><a href="#L282">282</a></td><td>KIRK:  Gem might be able to help him, the way she helped me, but could his nearness to death also kill her?</td></tr>
 
-  KIRK
-     What exactly is it?
+<tr id="L283"><td><a href="#L283">283</a></td><td>SPOCK:  Uncertain, Captain. Dr. McCoy's analysis of her reaction assumes that her instinct for self-preservation would prevent it. However, we cannot be positive.</td></tr>
 
-  SPOCK
-     This control is attuned to one electrical pattern
-     of energy, the pattern produced by the mental
-     impulses of the person who possesses it. It is
-     activated solely by mental commands.
+<tr id="L284"><td><a href="#L284">284</a></td><td>KIRK:  If she could just strengthen him and keep him from sinking further into death, we might be able to save him.</td></tr>
 
-  KIRK
-     Can you adapt it, re-attune it to fit our brain
-     pattern?
+<tr id="L285"><td><a href="#L285">285</a></td><td>ANNOTATION: A forcefield stops them from getting to where Gem is crouching in fear</td></tr>
 
-  SPOCK
-     I shall attempt to do so. However, it is not
-     possible to adjust the control to fit more than
-     one pattern at a time. I am, of course, most
-     familiar with my own pattern. Therefore, with your
-     permission, I
+<tr id="L286"><td><a href="#L286">286</a></td><td>LAL:  No interference will be permitted.</td></tr>
 
-  KIRK
-     Do whatever you have to to make it work, Spock.
-     What disturbs me is why the Vians let us keep it.
+<tr id="L287"><td><a href="#L287">287</a></td><td>KIRK:  She can save his life. Let us help her to go to him.</td></tr>
 
-  SPOCK
-     Fascinating. They must have known we were capable
-     of comprehending this control and making use of
-     it.
+<tr id="L288"><td><a href="#L288">288</a></td><td>LAL:  She must not be urged or forced to take action.</td></tr>
 
-  KIRK
-     And that we would use it to escape.
+<tr id="L289"><td><a href="#L289">289</a></td><td>THANN:  All must proceed without interference.</td></tr>
 
-  SPOCK
-     The only logical assumption is that they wish to
-     let us go.
+<tr id="L290"><td><a href="#L290">290</a></td><td>LAL:  The purpose that brought us together</td></tr>
 
-  KIRK
-     And they keep McCoy.
+<tr id="L291"><td><a href="#L291">291</a></td><td>KIRK:  What purpose can all this serve, except the fulfilment of some need of yours?</td></tr>
 
-  SPOCK
-     That is evidently their intention, Captain.
+<tr id="L292"><td><a href="#L292">292</a></td><td>LAL:  We have but one need left in life, and that is to see the completion of the final moment of our test.</td></tr>
 
-  KIRK
-     (to Gem) Somehow, you're the crux, the focal point
-     of all this. Even before we got here, she was a
-     prisoner. They didn't hurt her, they didn't even
-     threaten her.
+<tr id="L293"><td><a href="#L293">293</a></td><td>THANN:  Be patient.</td></tr>
 
-  SPOCK
-     Indeed, the facts would indicate that she's
-     essential to their purpose.
+<tr id="L294"><td><a href="#L294">294</a></td><td>KIRK:  Patient? Our friend is dying.</td></tr>
 
-  KIRK
-     Yes, there is a purpose, but what is it? Has all
-     the pain and terror happened, or been made to
-     happen for you?
+<tr id="L295"><td><a href="#L295">295</a></td><td>THANN:  Perhaps.</td></tr>
 
-  SPOCK
-     Completed, Captain. The adjustments are delicate.
-     They may not survive more than even one use.
-     However, there should be sufficient energy to
-     transfer us to the Enterprise.
+<tr id="L296"><td><a href="#L296">296</a></td><td>SPOCK:  What purpose can be served by the death of our friend, except to bring you pleasure? Surely beings as advanced as yourselves know that your star system will soon be extinct. Your sun will nova.</td></tr>
 
-  KIRK
-     Will it take us to McCoy?
+<tr id="L297"><td><a href="#L297">297</a></td><td>THANN:  We know.</td></tr>
 
-  SPOCK
-     If you so desire.
+<tr id="L298"><td><a href="#L298">298</a></td><td>SPOCK:  Then you also know that the millions of inhabitants on its planets are doomed.</td></tr>
 
-  KIRK
-     The best defence is a strong offense, and I intend
-     to start offending right now. Aim for the lab.
+<tr id="L299"><td><a href="#L299">299</a></td><td>LAL:  That is why we are here.</td></tr>
 
+<tr id="L300"><td><a href="#L300">300</a></td><td>KIRK:  This arena of death that you have devised for your pleasure. Will it prevent this catastrophe?</td></tr>
 
-LOCATION--Laboratory
+<tr id="L301"><td><a href="#L301">301</a></td><td>LAL:  No, it will not, but it may save Gem's planet. Of all the planets of Minara, we have the power to transport the inhabitants of only one to safety.</td></tr>
 
-  ANNOTATION
-     Spock, Kirk and Gem arrive at to find McCoy alone,
-     still suspended from the chains. Gem is horrified.
+<tr id="L302"><td><a href="#L302">302</a></td><td>THANN:  If Gem's planet is the one that will be saved, we must make certain beyond any doubt whatsoever they are worthy of survival.</td></tr>
 
-  KIRK
-     Bones. Spock. Get him down. His wrists. (they lie
-     him on a couch) His pulse is almost gone. How is
-     he?
+<tr id="L303"><td><a href="#L303">303</a></td><td>KIRK:  How will the death of our friend serve this purpose?</td></tr>
 
-  SPOCK
-     Severe heart damage. Signs of congestion in both
-     lungs. Evidence of massive circulatory collapse.
+<tr id="L304"><td><a href="#L304">304</a></td><td>LAL:  His death will not serve it, but her willingness to give her life for him will. You were her teachers.</td></tr>
 
-  MCCOY
-     I
+<tr id="L305"><td><a href="#L305">305</a></td><td>KIRK:  We were? What could she learn from us?</td></tr>
 
-  KIRK
-     Don't talk. Don't speak. Take it easy until we get
-     you back to the ship. What is it? What's the
-     matter?
+<tr id="L306"><td><a href="#L306">306</a></td><td>LAL:  Your will to survive. Your love of life. Your passion to know. They are recorded in her being.</td></tr>
 
-  SPOCK
-     He's dying, Jim. We can make him comfortable, but
-     that is all.
+<tr id="L307"><td><a href="#L307">307</a></td><td>THANN:  Her planet will be fortunate.</td></tr>
 
-  KIRK
-     You don't know. You're not a doctor.
+<tr id="L308"><td><a href="#L308">308</a></td><td>LAL:  Each of you is willing to give his life for the others. We must now find out whether that instinct has been transmitted to Gem.</td></tr>
 
-  SPOCK
-     Internal injuries. Bleeding in the chest and
-     abdomen. Haemorrhage of the spleen and liver.
-     Seventy percent kidney failure.
+<tr id="L309"><td><a href="#L309">309</a></td><td>ANNOTATION: A small earthquake shakes the room.</td></tr>
 
-  MCCOY
-     He's right, Jim. Being a doctor has its drawbacks.
-     I always wondered why I (coughs, so they turn him
-     on his side) Thanks.
+<tr id="L310"><td><a href="#L310">310</a></td><td>THANN:  Time grows short.</td></tr>
 
-  KIRK
-     How long?
+<tr id="L311"><td><a href="#L311">311</a></td><td>SPOCK:  You were correct, Captain. Everything that has occurred here has been caused to happen by them. This has all been a great laboratory, and we have been the subjects of the test.</td></tr>
 
-  SPOCK
-     It could happen anytime.
+<tr id="L312"><td><a href="#L312">312</a></td><td>THANN:  No. We only created the circumstances. That was necessary.</td></tr>
 
-  MCCOY
-     The correct medical phrase, ay, Spock? You've got
-     a a good bedside manner, Spock.
+<tr id="L313"><td><a href="#L313">313</a></td><td>LAL:  Your actions were spontaneous. Everything that is truest and best in all species of beings has been revealed by you. Those are the qualities that make a civilisation worthy to survive.</td></tr>
 
-  KIRK
-     Can't we do something?
+<tr id="L314"><td><a href="#L314">314</a></td><td>ANNOTATION: Gem goes and sits by McCoy.</td></tr>
 
-  SPOCK
-     I'm afraid not.
+<tr id="L315"><td><a href="#L315">315</a></td><td>THANN:  Behold. That is most significant. An instinct new to the essence of her being is generating.</td></tr>
 
-  KIRK
-     Gem might be able to help him, the way she helped
-     me, but could his nearness to death also kill her?
+<tr id="L316"><td><a href="#L316">316</a></td><td>LAL:  Compassion for another is becoming part of her functioning life system.</td></tr>
 
-  SPOCK
-     Uncertain, Captain. Dr. McCoy's analysis of her
-     reaction assumes that her instinct for
-     self-preservation would prevent it. However, we
-     cannot be positive.
+<tr id="L317"><td><a href="#L317">317</a></td><td>ANNOTATION: Gem moves her hands over McCoy, not quite touching him. His bruises and cuts heal, transferring to her before disappearing. She slumps, crying silently. Then she tries for the internal injuries, but falls away in agony.</td></tr>
 
-  KIRK
-     If she could just strengthen him and keep him from
-     sinking further into death, we might be able to
-     save him.
+<tr id="L318"><td><a href="#L318">318</a></td><td>THANN:  She is afraid.</td></tr>
 
-  ANNOTATION
-     A forcefield stops them from getting to where Gem
-     is crouching in fear
+<tr id="L319"><td><a href="#L319">319</a></td><td>LAL:  She's saving herself. She does not yet have the instinct to save her people.</td></tr>
 
-  LAL
-     No interference will be permitted.
+<tr id="L320"><td><a href="#L320">320</a></td><td>THANN:  We have failed?</td></tr>
 
-  KIRK
-     She can save his life. Let us help her to go to
-     him.
+<tr id="L321"><td><a href="#L321">321</a></td><td>LAL:  No. No, not yet.</td></tr>
 
-  LAL
-     She must not be urged or forced to take action.
+<tr id="L322"><td><a href="#L322">322</a></td><td>SPOCK:  Captain, Dr. McCoy's life is not solely dependent on Gem. The Vians too must be capable of saving his life.</td></tr>
 
-  THANN
-     All must proceed without interference.
+<tr id="L323"><td><a href="#L323">323</a></td><td>THANN:  True.</td></tr>
 
-  LAL
-     The purpose that brought us together
+<tr id="L324"><td><a href="#L324">324</a></td><td>KIRK:  Then you cannot let him die.</td></tr>
 
-  KIRK
-     What purpose can all this serve, except the
-     fulfilment of some need of yours?
+<tr id="L325"><td><a href="#L325">325</a></td><td>LAL:  His death is not important. We must wait to see whether her instinct for self-sacrifice has become stronger than her instinct for self-preservation.</td></tr>
 
-  LAL
-     We have but one need left in life, and that is to
-     see the completion of the final moment of our
-     test.
+<tr id="L326"><td><a href="#L326">326</a></td><td>ANNOTATION: McCoy starts to wake. Gem returns to him.</td></tr>
 
-  THANN
-     Be patient.
+<tr id="L327"><td><a href="#L327">327</a></td><td>MCCOY:  Don't touch me. Stay away. Jim. Spock. Are you here?</td></tr>
 
-  KIRK
-     Patient? Our friend is dying.
+<tr id="L328"><td><a href="#L328">328</a></td><td>KIRK:  Yes, Bones.</td></tr>
 
-  THANN
-     Perhaps.
+<tr id="L329"><td><a href="#L329">329</a></td><td>MCCOY:  Don't let her touch me. She'll die. Jim, I can't destroy life, even if it's to save my own. I can't. You know that. I can't let you do it.</td></tr>
 
-  SPOCK
-     What purpose can be served by the death of our
-     friend, except to bring you pleasure? Surely
-     beings as advanced as yourselves know that your
-     star system will soon be extinct. Your sun will
-     nova.
+<tr id="L330"><td><a href="#L330">330</a></td><td>ANNOTATION: McCoy pushes Gem away.</td></tr>
 
-  THANN
-     We know.
+<tr id="L331"><td><a href="#L331">331</a></td><td>SPOCK:  Captain?</td></tr>
 
-  SPOCK
-     Then you also know that the millions of
-     inhabitants on its planets are doomed.
+<tr id="L332"><td><a href="#L332">332</a></td><td>KIRK:  What is it?</td></tr>
 
-  LAL
-     That is why we are here.
+<tr id="L333"><td><a href="#L333">333</a></td><td>SPOCK:  The intensity of emotion is draining us and building up the force field.</td></tr>
 
-  KIRK
-     This arena of death that you have devised for your
-     pleasure. Will it prevent this catastrophe?
+<tr id="L334"><td><a href="#L334">334</a></td><td>KIRK:  Yes, I know.</td></tr>
 
-  LAL
-     No, it will not, but it may save Gem's planet. Of
-     all the planets of Minara, we have the power to
-     transport the inhabitants of only one to safety.
+<tr id="L335"><td><a href="#L335">335</a></td><td>SPOCK:  It draws its energy from us, Captain. In spite of what we see, all emotion must be suppressed. That might weaken the field.</td></tr>
 
-  THANN
-     If Gem's planet is the one that will be saved, we
-     must make certain beyond any doubt whatsoever they
-     are worthy of survival.
+<tr id="L336"><td><a href="#L336">336</a></td><td>KIRK:  I'll try.</td></tr>
 
-  KIRK
-     How will the death of our friend serve this
-     purpose?
+<tr id="L337"><td><a href="#L337">337</a></td><td>ANNOTATION: Spock leaves the forcefield, but Kirk remains trapped.</td></tr>
 
-  LAL
-     His death will not serve it, but her willingness
-     to give her life for him will. You were her
-     teachers.
+<tr id="L338"><td><a href="#L338">338</a></td><td>KIRK:  Yes.</td></tr>
 
-  KIRK
-     We were? What could she learn from us?
+<tr id="L339"><td><a href="#L339">339</a></td><td>(Spock takes the device from Thann, and Kirk is free too.) KIRK:  Spock.</td></tr>
 
-  LAL
-     Your will to survive. Your love of life. Your
-     passion to know. They are recorded in her being.
+<tr id="L340"><td><a href="#L340">340</a></td><td>LAL:  You cannot use our powers to change what is happening.</td></tr>
 
-  THANN
-     Her planet will be fortunate.
+<tr id="L341"><td><a href="#L341">341</a></td><td>KIRK:  You must save the life of our friend.</td></tr>
 
-  LAL
-     Each of you is willing to give his life for the
-     others. We must now find out whether that instinct
-     has been transmitted to Gem.
+<tr id="L342"><td><a href="#L342">342</a></td><td>LAL:  No. We will not. Her instinct must be developed to the fullest. The test must be complete.</td></tr>
 
-  ANNOTATION
-     A small earthquake shakes the room.
+<tr id="L343"><td><a href="#L343">343</a></td><td>SPOCK:  It is complete. Gem has earned the right of survival for her planet. She offered her life.</td></tr>
 
-  THANN
-     Time grows short.
+<tr id="L344"><td><a href="#L344">344</a></td><td>LAL:  To offer is not proof enough.</td></tr>
 
-  SPOCK
-     You were correct, Captain. Everything that has
-     occurred here has been caused to happen by them.
-     This has all been a great laboratory, and we have
-     been the subjects of the test.
+<tr id="L345"><td><a href="#L345">345</a></td><td>KIRK:  If death is all you understand, here are four lives for you.</td></tr>
 
-  THANN
-     No. We only created the circumstances. That was
-     necessary.
+<tr id="L346"><td><a href="#L346">346</a></td><td>ANNOTATION: Kirk returns the two devices.</td></tr>
 
-  LAL
-     Your actions were spontaneous. Everything that is
-     truest and best in all species of beings has been
-     revealed by you. Those are the qualities that make
-     a civilisation worthy to survive.
+<tr id="L347"><td><a href="#L347">347</a></td><td>KIRK:  We will not leave our friend. You've lost the capacity to feel the emotions you brought Gem here to experience. You don't understand what it is to live. Love and compassion are dead in you. You're nothing but intellect.</td></tr>
 
-  ANNOTATION
-     Gem goes and sits by McCoy.
+<tr id="L348"><td><a href="#L348">348</a></td><td>ANNOTATION: Lal goes over to McCoy and heals him, then picks up the unconscious Gem.</td></tr>
 
-  THANN
-     Behold. That is most significant. An instinct new
-     to the essence of her being is generating.
+<tr id="L349"><td><a href="#L349">349</a></td><td>LAL:  Farewell.</td></tr>
 
-  LAL
-     Compassion for another is becoming part of her
-     functioning life system.
+<tr id="L350"><td><a href="#L350">350</a></td><td>ANNOTATION: They recede into the darkness.</td></tr>
 
-  ANNOTATION
-     Gem moves her hands over McCoy, not quite touching
-     him. His bruises and cuts heal, transferring to
-     her before disappearing. She slumps, crying
-     silently. Then she tries for the internal
-     injuries, but falls away in agony.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L351"><td><a href="#L351">351</a></td><td>KIRK:  Strange.</td></tr>
 
-  THANN
-     She is afraid.
+<tr id="L352"><td><a href="#L352">352</a></td><td>SPOCK:  What is puzzling you, Captain?</td></tr>
 
-  LAL
-     She's saving herself. She does not yet have the
-     instinct to save her people.
+<tr id="L353"><td><a href="#L353">353</a></td><td>KIRK:  I'm not puzzled, Mister Spock. I am awed.</td></tr>
 
-  THANN
-     We have failed?
+<tr id="L354"><td><a href="#L354">354</a></td><td>MCCOY:  I'm with you, Captain. She awed me.</td></tr>
 
-  LAL
-     No. No, not yet.
+<tr id="L355"><td><a href="#L355">355</a></td><td>KIRK:  No, no. I wasn't thinking of Gem. I was thinking of that fantastic element of chance that out in limitless space we should come together with Gem.</td></tr>
 
-  SPOCK
-     Captain, Dr. McCoy's life is not solely dependent
-     on Gem. The Vians too must be capable of saving
-     his life.
+<tr id="L356"><td><a href="#L356">356</a></td><td>SPOCK:  Captain, the element of chance can virtually be eliminated by a civilisation as advanced as the Vians.</td></tr>
 
-  THANN
-     True.
+<tr id="L357"><td><a href="#L357">357</a></td><td>SCOTT:  Not to dispute your computer, Mister Spock, but from little what you've told me, I would say she was a pearl of great price.</td></tr>
 
-  KIRK
-     Then you cannot let him die.
+<tr id="L358"><td><a href="#L358">358</a></td><td>KIRK:  What, Scott?</td></tr>
 
-  LAL
-     His death is not important. We must wait to see
-     whether her instinct for self-sacrifice has become
-     stronger than her instinct for self-preservation.
+<tr id="L359"><td><a href="#L359">359</a></td><td>SCOTT:  Do you not know the story of the merchant? The merchant, who when he found one pearl of great price, went and sold all that he had and bought it.</td></tr>
 
-  ANNOTATION
-     McCoy starts to wake. Gem returns to him.
+<tr id="L360"><td><a href="#L360">360</a></td><td>KIRK:  Yes, she was all that. And whether the Vians bought her or found her makes little difference. She was of great value.</td></tr>
 
-  MCCOY
-     Don't touch me. Stay away. Jim. Spock. Are you
-     here?
+<tr id="L361"><td><a href="#L361">361</a></td><td>MCCOY:  Well, personally, I find it fascinating that with all their scientific knowledge and advances, that it was good old-fashioned human emotion that they valued the most.</td></tr>
 
-  KIRK
-     Yes, Bones.
+<tr id="L362"><td><a href="#L362">362</a></td><td>SCOTT:  Perhaps the Vulcans should hear about this.</td></tr>
 
-  MCCOY
-     Don't let her touch me. She'll die. Jim, I can't
-     destroy life, even if it's to save my own. I
-     can't. You know that. I can't let you do it.
+<tr id="L363"><td><a href="#L363">363</a></td><td>KIRK:  Mister Spock, can you be prevailed upon to bring them the news?</td></tr>
 
-  ANNOTATION
-     McCoy pushes Gem away.
+<tr id="L364"><td><a href="#L364">364</a></td><td>SPOCK:  Possibly, Captain. I shall certainly give the thought all the consideration it is due.</td></tr>
 
-  SPOCK
-     Captain?
+<tr id="L365"><td><a href="#L365">365</a></td><td>KIRK:  Mister Sulu, ahead warp factor two.</td></tr>
 
-  KIRK
-     What is it?
+<tr id="L366"><td><a href="#L366">366</a></td><td>SULU:  Aye, aye, sir. Warp factor two.</td></tr>
 
-  SPOCK
-     The intensity of emotion is draining us and
-     building up the force field.
-
-  KIRK
-     Yes, I know.
-
-  SPOCK
-     It draws its energy from us, Captain. In spite of
-     what we see, all emotion must be suppressed. That
-     might weaken the field.
-
-  KIRK
-     I'll try.
-
-  ANNOTATION
-     Spock leaves the forcefield, but Kirk remains
-     trapped.
-
-  KIRK
-     Yes.
-
-  (Spock takes the device from Thann, and Kirk is free too.) KIRK
-     Spock.
-
-  LAL
-     You cannot use our powers to change what is
-     happening.
-
-  KIRK
-     You must save the life of our friend.
-
-  LAL
-     No. We will not. Her instinct must be developed to
-     the fullest. The test must be complete.
-
-  SPOCK
-     It is complete. Gem has earned the right of
-     survival for her planet. She offered her life.
-
-  LAL
-     To offer is not proof enough.
-
-  KIRK
-     If death is all you understand, here are four
-     lives for you.
-
-  ANNOTATION
-     Kirk returns the two devices.
-
-  KIRK
-     We will not leave our friend. You've lost the
-     capacity to feel the emotions you brought Gem here
-     to experience. You don't understand what it is to
-     live. Love and compassion are dead in you. You're
-     nothing but intellect.
-
-  ANNOTATION
-     Lal goes over to McCoy and heals him, then picks
-     up the unconscious Gem.
-
-  LAL
-     Farewell.
-
-  ANNOTATION
-     They recede into the darkness.
-
-
-LOCATION--Bridge
-
-  KIRK
-     Strange.
-
-  SPOCK
-     What is puzzling you, Captain?
-
-  KIRK
-     I'm not puzzled, Mister Spock. I am awed.
-
-  MCCOY
-     I'm with you, Captain. She awed me.
-
-  KIRK
-     No, no. I wasn't thinking of Gem. I was thinking
-     of that fantastic element of chance that out in
-     limitless space we should come together with Gem.
-
-  SPOCK
-     Captain, the element of chance can virtually be
-     eliminated by a civilisation as advanced as the
-     Vians.
-
-  SCOTT
-     Not to dispute your computer, Mister Spock, but
-     from little what you've told me, I would say she
-     was a pearl of great price.
-
-  KIRK
-     What, Scott?
-
-  SCOTT
-     Do you not know the story of the merchant? The
-     merchant, who when he found one pearl of great
-     price, went and sold all that he had and bought
-     it.
-
-  KIRK
-     Yes, she was all that. And whether the Vians
-     bought her or found her makes little difference.
-     She was of great value.
-
-  MCCOY
-     Well, personally, I find it fascinating that with
-     all their scientific knowledge and advances, that
-     it was good old-fashioned human emotion that they
-     valued the most.
-
-  SCOTT
-     Perhaps the Vulcans should hear about this.
-
-  KIRK
-     Mister Spock, can you be prevailed upon to bring
-     them the news?
-
-  SPOCK
-     Possibly, Captain. I shall certainly give the
-     thought all the consideration it is due.
-
-  KIRK
-     Mister Sulu, ahead warp factor two.
-
-  SULU
-     Aye, aye, sir. Warp factor two.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

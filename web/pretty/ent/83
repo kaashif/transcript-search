@@ -1,1439 +1,761 @@
-The Forge
-TEASER
-
-LOCATION--United Earth Embassy
-
-  SOVAL
-     Admiral, the High Command will tell you its
-     decision at the proper time.
-
-  FORREST
-     After all we've been through, I'd rather hear the
-     good news from you.
-
-  SOVAL
-     The High Command hasn't included me in their
-     discussions.
-
-  FORREST
-     They're not telling their own Ambassador to Earth
-     what they're planning? Welcome to the club.
-
-  SOVAL
-     Admiral, I know you find our reluctance to share
-     technology and discoveries restrictive.
-
-  FORREST
-     I can think of a few stronger words than that.
-
-  SOVAL
-     We don't know what to do about humans. Of all the
-     species we've made contact with, yours is the only
-     one we can't define. You have the arrogance of
-     Andorians, the stubborn pride of Tellarites. One
-     moment, you're as driven by your emotions as
-     Klingons, and the next, you confound us by
-     suddenly embracing logic.
-
-  FORREST 
-     I'm sure those qualities are found in every
-     species.
-
-  ANNOTATION
-     They pass through the retina scanner at the
-     Embassy security check.
+<table class="table table-striped">
+<tr><td></td><td>The Forge</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--United Earth Embassy</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>SOVAL:  Admiral, the High Command will tell you its decision at the proper time.</td></tr>
 
-  SOVAL
-     Not in such confusing abundance.
+<tr id="L2"><td><a href="#L2">2</a></td><td>FORREST:  After all we've been through, I'd rather hear the good news from you.</td></tr>
 
-  FORREST
-     Ambassador. Are Vulcans afraid of humans? Why?
-
-  SOVAL
-     Because there is one species you remind us of.
-
-  FORREST
-     Vulcans.
+<tr id="L3"><td><a href="#L3">3</a></td><td>SOVAL:  The High Command hasn't included me in their discussions.</td></tr>
 
-  SOVAL
-     We had our wars, Admiral, just as humans did. Our
-     planet was devastated, our civilisation nearly
-     destroyed. Logic saved us. But it took almost
-     fifteen hundred years for us to rebuild our world
-     and travel to the stars. You humans did the same
-     in less than a century. There are those on the
-     High Command who wonder what humans would achieve
-     in the century to come, and they don't like the
-     answer.
+<tr id="L4"><td><a href="#L4">4</a></td><td>FORREST:  They're not telling their own Ambassador to Earth what they're planning? Welcome to the club.</td></tr>
 
-  FORREST
-     We're not the Klingons. We only want to be your
-     partners. To do what the nations of Earth have
-     learned to do. To work together in common cause.
+<tr id="L5"><td><a href="#L5">5</a></td><td>SOVAL:  Admiral, I know you find our reluctance to share technology and discoveries restrictive.</td></tr>
 
-  SOVAL
-     Unfortunately, the future of relations between our
-     worlds is not mine to control.
+<tr id="L6"><td><a href="#L6">6</a></td><td>FORREST:  I can think of a few stronger words than that.</td></tr>
 
-  ANNOTATION
-     There's a dull thud sound. Max looks back then
-     suddenly grabs Soval and pushes him to the floor
-     as the dust from an explosion billows towards them
-     and the building starts to fall apart. Then there
-     is a second explosion, and the top of the Embassy
-     is blown off.
+<tr id="L7"><td><a href="#L7">7</a></td><td>SOVAL:  We don't know what to do about humans. Of all the species we've made contact with, yours is the only one we can't define. You have the arrogance of Andorians, the stubborn pride of Tellarites. One moment, you're as driven by your emotions as Klingons, and the next, you confound us by suddenly embracing logic.</td></tr>
 
+<tr id="L8"><td><a href="#L8">8</a></td><td>FORREST : I'm sure those qualities are found in every species.</td></tr>
 
-LOCATION--Launch bay two
+<tr id="L9"><td><a href="#L9">9</a></td><td>ANNOTATION: They pass through the retina scanner at the Embassy security check.</td></tr>
 
-  ANNOTATION
-     I'm just guessing from the numbers 3 and 4 on the
-     floor and the hinges on the sections which imply
-     that they open downwards. Wherever on Enterprise
-     it is, right now it's a basketball court for the
-     senior staff.
+<tr id="L10"><td><a href="#L10">10</a></td><td>SOVAL:  Not in such confusing abundance.</td></tr>
 
-  REED
-     Captain!
+<tr id="L11"><td><a href="#L11">11</a></td><td>FORREST:  Ambassador. Are Vulcans afraid of humans? Why?</td></tr>
 
-  HOSHI
-     Here!
+<tr id="L12"><td><a href="#L12">12</a></td><td>SOVAL:  Because there is one species you remind us of.</td></tr>
 
-  ANNOTATION
-     She catches the ball but her shot is deflected to
-     a stationary Phlox, who easily puts it through the
-     hoop.
+<tr id="L13"><td><a href="#L13">13</a></td><td>FORREST:  Vulcans.</td></tr>
 
-  TUCKER
-     That's another game. Twenty one to two.
+<tr id="L14"><td><a href="#L14">14</a></td><td>SOVAL:  We had our wars, Admiral, just as humans did. Our planet was devastated, our civilisation nearly destroyed. Logic saved us. But it took almost fifteen hundred years for us to rebuild our world and travel to the stars. You humans did the same in less than a century. There are those on the High Command who wonder what humans would achieve in the century to come, and they don't like the answer.</td></tr>
 
-  HOSHI
-     Time to switch sides again, Doctor.
+<tr id="L15"><td><a href="#L15">15</a></td><td>FORREST:  We're not the Klingons. We only want to be your partners. To do what the nations of Earth have learned to do. To work together in common cause.</td></tr>
 
-  PHLOX
-     Certainly. This is a most enjoyable sport.
-     Reminiscent of Octran fertility contests.
+<tr id="L16"><td><a href="#L16">16</a></td><td>SOVAL:  Unfortunately, the future of relations between our worlds is not mine to control.</td></tr>
 
-  ANNOTATION
-     T'Pol enters.
+<tr id="L17"><td><a href="#L17">17</a></td><td>ANNOTATION: There's a dull thud sound. Max looks back then suddenly grabs Soval and pushes him to the floor as the dust from an explosion billows towards them and the building starts to fall apart. Then there is a second explosion, and the top of the Embassy is blown off.</td></tr>
 
-  T'POL
-     Captain, I've just spoken with Starfleet Command.
+<tr><td></td><td>LOCATION--Launch bay two</td></tr>
+<tr id="L18"><td><a href="#L18">18</a></td><td>ANNOTATION: I'm just guessing from the numbers 3 and 4 on the floor and the hinges on the sections which imply that they open downwards. Wherever on Enterprise it is, right now it's a basketball court for the senior staff.</td></tr>
 
-  PHLOX
-     Except we're fully clothed, which is probably for
-     the best.
+<tr id="L19"><td><a href="#L19">19</a></td><td>REED:  Captain!</td></tr>
 
-  SOMEONE
-     Captain's starlog, supplemental. Enterprise has
-     arrived at Vulcan as ordered. Three days after the
-     bombing of Earth's embassy, the death toll stands
-     at forty three, and I have lost my friend, Admiral
-     Forrest. Vulcan authorities still have no lead on
-     who's responsible.
+<tr id="L20"><td><a href="#L20">20</a></td><td>HOSHI:  Here!</td></tr>
 
+<tr id="L21"><td><a href="#L21">21</a></td><td>ANNOTATION: She catches the ball but her shot is deflected to a stationary Phlox, who easily puts it through the hoop.</td></tr>
 
-LOCATION--Corridor
+<tr id="L22"><td><a href="#L22">22</a></td><td>TUCKER:  That's another game. Twenty one to two.</td></tr>
 
-  ARCHER
-     I'm sorry to keep you from your family, but I'm
-     going to need you on the investigation full-time.
+<tr id="L23"><td><a href="#L23">23</a></td><td>HOSHI:  Time to switch sides again, Doctor.</td></tr>
 
-  T'POL
-     That's where I prefer to be.
+<tr id="L24"><td><a href="#L24">24</a></td><td>PHLOX:  Certainly. This is a most enjoyable sport. Reminiscent of Octran fertility contests.</td></tr>
 
-  ARCHER
-     Your mother and husband will understand?
+<tr id="L25"><td><a href="#L25">25</a></td><td>ANNOTATION: T'Pol enters.</td></tr>
 
-  ANNOTATION
-     They arrive at the airlock and Archer works the
-     console.
+<tr id="L26"><td><a href="#L26">26</a></td><td>T'POL:  Captain, I've just spoken with Starfleet Command.</td></tr>
 
-  T'POL
-     My mother hasn't responded to my communiqus. It's
-     not unusual for her to become lost in her work. As
-     for my husband, our arrangement remains unchanged.
+<tr id="L27"><td><a href="#L27">27</a></td><td>PHLOX:  Except we're fully clothed, which is probably for the best.</td></tr>
 
-  V'LAS
-     Captain Jonathan Archer, I regret we meet under
-     such tragic circumstances.
+<tr id="L28"><td><a href="#L28">28</a></td><td>SOMEONE: Captain's starlog, supplemental. Enterprise has arrived at Vulcan as ordered. Three days after the bombing of Earth's embassy, the death toll stands at forty three, and I have lost my friend, Admiral Forrest. Vulcan authorities still have no lead on who's responsible.</td></tr>
 
-  T'POL
-     I'd like to introduce Administrator V'Las.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L29"><td><a href="#L29">29</a></td><td>ARCHER:  I'm sorry to keep you from your family, but I'm going to need you on the investigation full-time.</td></tr>
 
-  ARCHER
-     Administrator. I wasn't told to expect the head of
-     the High Command.
+<tr id="L30"><td><a href="#L30">30</a></td><td>T'POL:  That's where I prefer to be.</td></tr>
 
-  SOVAL
-     Captain Archer, all of Vulcan grieves with you
-     today.
+<tr id="L31"><td><a href="#L31">31</a></td><td>ARCHER:  Your mother and husband will understand?</td></tr>
 
-  ARCHER
-     Twelve Vulcans died in the blast, Ambassador.
+<tr id="L32"><td><a href="#L32">32</a></td><td>ANNOTATION: They arrive at the airlock and Archer works the console.</td></tr>
 
-  V'LAS
-     To that end, this is Stel, Chief Investigator of
-     our Security Directorate.
+<tr id="L33"><td><a href="#L33">33</a></td><td>T'POL:  My mother hasn't responded to my communiqus. It's not unusual for her to become lost in her work. As for my husband, our arrangement remains unchanged.</td></tr>
 
-  STEL
-     (a young man) Captain, we now have suspects.
+<tr id="L34"><td><a href="#L34">34</a></td><td>V'LAS:  Captain Jonathan Archer, I regret we meet under such tragic circumstances.</td></tr>
 
+<tr id="L35"><td><a href="#L35">35</a></td><td>T'POL:  I'd like to introduce Administrator V'Las.</td></tr>
 
-LOCATION--Conference room
+<tr id="L36"><td><a href="#L36">36</a></td><td>ARCHER:  Administrator. I wasn't told to expect the head of the High Command.</td></tr>
 
-  ARCHER
-     Andorians? Why would they attack our embassy?
+<tr id="L37"><td><a href="#L37">37</a></td><td>SOVAL:  Captain Archer, all of Vulcan grieves with you today.</td></tr>
 
-  STEL
-     To create conflict between Earth and Vulcan.
+<tr id="L38"><td><a href="#L38">38</a></td><td>ARCHER:  Twelve Vulcans died in the blast, Ambassador.</td></tr>
 
-  SOVAL
-     They do consider us allies who stand against them.
+<tr id="L39"><td><a href="#L39">39</a></td><td>V'LAS:  To that end, this is Stel, Chief Investigator of our Security Directorate.</td></tr>
 
-  ARCHER
-     So far, we've done our best to remain neutral, and
-     the Andorians know that. They have nothing to gain
-     by attacking us.
+<tr id="L40"><td><a href="#L40">40</a></td><td>STEL:  (a young man) Captain, we now have suspects.</td></tr>
 
-  T'POL
-     You have other suspects?
+<tr><td></td><td>LOCATION--Conference room</td></tr>
+<tr id="L41"><td><a href="#L41">41</a></td><td>ARCHER:  Andorians? Why would they attack our embassy?</td></tr>
 
-  STEL
-     Syrrannites.
+<tr id="L42"><td><a href="#L42">42</a></td><td>STEL:  To create conflict between Earth and Vulcan.</td></tr>
 
-  ARCHER
-     I've never heard of that species.
+<tr id="L43"><td><a href="#L43">43</a></td><td>SOVAL:  They do consider us allies who stand against them.</td></tr>
 
-  T'POL
-     Actually, they're a small group of Vulcans. They
-     follow a corrupted form of Surak's teachings.
+<tr id="L44"><td><a href="#L44">44</a></td><td>ARCHER:  So far, we've done our best to remain neutral, and the Andorians know that. They have nothing to gain by attacking us.</td></tr>
 
-  ARCHER
-     Surak I've heard of. He's the father of Vulcan
-     logic.
+<tr id="L45"><td><a href="#L45">45</a></td><td>T'POL:  You have other suspects?</td></tr>
 
-  V'LAS
-     Even after eighteen hundred years, we consider him
-     the most important Vulcan who ever lived.
+<tr id="L46"><td><a href="#L46">46</a></td><td>STEL:  Syrrannites.</td></tr>
 
-  ARCHER
-     So why would these Syrrannites want to attack our
-     embassy? It's hardly an act of logic.
+<tr id="L47"><td><a href="#L47">47</a></td><td>ARCHER:  I've never heard of that species.</td></tr>
 
-  SOVAL
-     They've been vocal about their opposition to
-     government, but always peaceful.
+<tr id="L48"><td><a href="#L48">48</a></td><td>T'POL:  Actually, they're a small group of Vulcans. They follow a corrupted form of Surak's teachings.</td></tr>
 
-  STEL
-     Over the past year their leader, a dissident named
-     Syrran, has become a dangerous zealot.
+<tr id="L49"><td><a href="#L49">49</a></td><td>ARCHER:  Surak I've heard of. He's the father of Vulcan logic.</td></tr>
 
-  V'LAS
-     Captain, I trust you to keep this matter
-     confidential. We don't share it lightly. But
-     recently, on our world, there have been instances
-     of violence against non-Vulcans. Though we have no
-     conclusive proof, there are signs that Syrrannites
-     might be responsible.
+<tr id="L50"><td><a href="#L50">50</a></td><td>V'LAS:  Even after eighteen hundred years, we consider him the most important Vulcan who ever lived.</td></tr>
 
-  ARCHER
-     Is there any evidence connecting Syrrannites to
-     the bombing?
+<tr id="L51"><td><a href="#L51">51</a></td><td>ARCHER:  So why would these Syrrannites want to attack our embassy? It's hardly an act of logic.</td></tr>
 
-  SOVAL
-     Your embassy is officially considered to be on
-     Earth soil. We've preserved the site for you to
-     investigate.
+<tr id="L52"><td><a href="#L52">52</a></td><td>SOVAL:  They've been vocal about their opposition to government, but always peaceful.</td></tr>
 
-  V'LAS
-     If evidence is there, the Chief Investigator and I
-     feel confident you'll find it.
+<tr id="L53"><td><a href="#L53">53</a></td><td>STEL:  Over the past year their leader, a dissident named Syrran, has become a dangerous zealot.</td></tr>
 
-  ARCHER
-     I intend to.
+<tr id="L54"><td><a href="#L54">54</a></td><td>V'LAS:  Captain, I trust you to keep this matter confidential. We don't share it lightly. But recently, on our world, there have been instances of violence against non-Vulcans. Though we have no conclusive proof, there are signs that Syrrannites might be responsible.</td></tr>
 
+<tr id="L55"><td><a href="#L55">55</a></td><td>ARCHER:  Is there any evidence connecting Syrrannites to the bombing?</td></tr>
 
-LOCATION--United Earth Embassy
+<tr id="L56"><td><a href="#L56">56</a></td><td>SOVAL:  Your embassy is officially considered to be on Earth soil. We've preserved the site for you to investigate.</td></tr>
 
-  TRAVIS
-     Lieutenant, here's the junction room.
+<tr id="L57"><td><a href="#L57">57</a></td><td>V'LAS:  If evidence is there, the Chief Investigator and I feel confident you'll find it.</td></tr>
 
-  ANNOTATION
-     They pick their way carefully through the twisted
-     wreckage, using torches and scanners.
+<tr id="L58"><td><a href="#L58">58</a></td><td>ARCHER:  I intend to.</td></tr>
 
-  TRAVIS
-     Schematics say the secondary security bank's right
-     in there.
+<tr><td></td><td>LOCATION--United Earth Embassy</td></tr>
+<tr id="L59"><td><a href="#L59">59</a></td><td>TRAVIS:  Lieutenant, here's the junction room.</td></tr>
 
-  REED
-     Still in one piece.
+<tr id="L60"><td><a href="#L60">60</a></td><td>ANNOTATION: They pick their way carefully through the twisted wreckage, using torches and scanners.</td></tr>
 
-  TRAVIS
-     There's a weak power signature under this mess.
+<tr id="L61"><td><a href="#L61">61</a></td><td>TRAVIS:  Schematics say the secondary security bank's right in there.</td></tr>
 
-  REED
-     It's probably an emergency light running on
-     batteries. Well, there's something here. Some kind
-     of surveillance recorder.
+<tr id="L62"><td><a href="#L62">62</a></td><td>REED:  Still in one piece.</td></tr>
 
-  ANNOTATION
-     Travis lifts a piece of debris to reveal a device.
+<tr id="L63"><td><a href="#L63">63</a></td><td>TRAVIS:  There's a weak power signature under this mess.</td></tr>
 
-  TRAVIS
-     Lieutenant.
+<tr id="L64"><td><a href="#L64">64</a></td><td>REED:  It's probably an emergency light running on batteries. Well, there's something here. Some kind of surveillance recorder.</td></tr>
 
-  REED
-     The timer might be broken, but that bomb's armed.
-     Don't move. The slightest vibration might set it
-     off. Reed to Enterprise. I need an emergency
-     transporter lock. Two to beam up on my mark.
+<tr id="L65"><td><a href="#L65">65</a></td><td>ANNOTATION: Travis lifts a piece of debris to reveal a device.</td></tr>
 
-  HOSHI [OC]
-     Acknowledged.
+<tr id="L66"><td><a href="#L66">66</a></td><td>TRAVIS:  Lieutenant.</td></tr>
 
-  TRAVIS
-     Why not beam the bomb out of here?
+<tr id="L67"><td><a href="#L67">67</a></td><td>REED:  The timer might be broken, but that bomb's armed. Don't move. The slightest vibration might set it off. Reed to Enterprise. I need an emergency transporter lock. Two to beam up on my mark.</td></tr>
 
-  REED
-     If there's a gravity switch, it'll detonate in the
-     matter stream.
+<tr id="L68"><td><a href="#L68">68</a></td><td>HOSHI [OC]:  Acknowledged.</td></tr>
 
-  HOSHI [OC]
-     Enterprise to Reed. The transporter's locked. Do
-     you need assistance?
+<tr id="L69"><td><a href="#L69">69</a></td><td>TRAVIS:  Why not beam the bomb out of here?</td></tr>
 
-  REED
-     Negative, Enterprise. Stand by.
+<tr id="L70"><td><a href="#L70">70</a></td><td>REED:  If there's a gravity switch, it'll detonate in the matter stream.</td></tr>
 
-  ANNOTATION
-     He puts the open communicator on his shoulder,
-     like a phone.
+<tr id="L71"><td><a href="#L71">71</a></td><td>HOSHI [OC]:  Enterprise to Reed. The transporter's locked. Do you need assistance?</td></tr>
 
-  REED
-     I'm going to attempt to scan it.
+<tr id="L72"><td><a href="#L72">72</a></td><td>REED:  Negative, Enterprise. Stand by.</td></tr>
 
-  TRAVIS
-     Attempt?
+<tr id="L73"><td><a href="#L73">73</a></td><td>ANNOTATION: He puts the open communicator on his shoulder, like a phone.</td></tr>
 
-  REED
-     Yeah. If I had designed that bomb, I'd rig it to
-     go off the instant a sensor beam made contact.
-     Look on the bright side. If it detonates, we'll
-     never know. Steady. There's Vulcan DNA on these
-     controls. So much for blaming Andorians. Boosting
-     scan resolution.
+<tr id="L74"><td><a href="#L74">74</a></td><td>REED:  I'm going to attempt to scan it.</td></tr>
 
-  ANNOTATION
-     The lights on the device start flashing.
+<tr id="L75"><td><a href="#L75">75</a></td><td>TRAVIS:  Attempt?</td></tr>
 
-  TRAVIS
-     That can't be good.
+<tr id="L76"><td><a href="#L76">76</a></td><td>REED:  Yeah. If I had designed that bomb, I'd rig it to go off the instant a sensor beam made contact. Look on the bright side. If it detonates, we'll never know. Steady. There's Vulcan DNA on these controls. So much for blaming Andorians. Boosting scan resolution.</td></tr>
 
-  REED
-     Oh, damn. Enterprise, mark. Enterprise!
+<tr id="L77"><td><a href="#L77">77</a></td><td>ANNOTATION: The lights on the device start flashing.</td></tr>
 
-  ANNOTATION
-     And they're beamed away in the nick of time.
+<tr id="L78"><td><a href="#L78">78</a></td><td>TRAVIS:  That can't be good.</td></tr>
 
+<tr id="L79"><td><a href="#L79">79</a></td><td>REED:  Oh, damn. Enterprise, mark. Enterprise!</td></tr>
 
-LOCATION--Sickbay
+<tr id="L80"><td><a href="#L80">80</a></td><td>ANNOTATION: And they're beamed away in the nick of time.</td></tr>
 
-  ANNOTATION
-     Archer, T'Pol and Stel enter.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L81"><td><a href="#L81">81</a></td><td>ANNOTATION: Archer, T'Pol and Stel enter.</td></tr>
 
-  PHLOX
-     According to the Vulcan Genome Registry, the DNA
-     on the bomb's controls was left by this woman.
-     T'Pau.
+<tr id="L82"><td><a href="#L82">82</a></td><td>PHLOX:  According to the Vulcan Genome Registry, the DNA on the bomb's controls was left by this woman. T'Pau.</td></tr>
 
-  ANNOTATION
-     The image of a young woman is on his overhead
-     monitor.
+<tr id="L83"><td><a href="#L83">83</a></td><td>ANNOTATION: The image of a young woman is on his overhead monitor.</td></tr>
 
-  ARCHER
-     Since you had her DNA on record, does that mean
-     she's been arrested before?
+<tr id="L84"><td><a href="#L84">84</a></td><td>ARCHER:  Since you had her DNA on record, does that mean she's been arrested before?</td></tr>
 
-  T'POL
-     The Registry records DNA from all Vulcans at
-     birth.
+<tr id="L85"><td><a href="#L85">85</a></td><td>T'POL:  The Registry records DNA from all Vulcans at birth.</td></tr>
 
-  ARCHER
-     Do you know anything about her?
+<tr id="L86"><td><a href="#L86">86</a></td><td>ARCHER:  Do you know anything about her?</td></tr>
 
-  STEL
-     T'Pau is a well-known Syrrannite.
+<tr id="L87"><td><a href="#L87">87</a></td><td>STEL:  T'Pau is a well-known Syrrannite.</td></tr>
 
-  ARCHER
-     All right. We've got a solid start. Now we need to
-     find her.
+<tr id="L88"><td><a href="#L88">88</a></td><td>ARCHER:  All right. We've got a solid start. Now we need to find her.</td></tr>
 
-  STEL
-     Captain, T'Pau is Vulcan. The Security Directorate
-     will take charge of the investigation.
+<tr id="L89"><td><a href="#L89">89</a></td><td>STEL:  Captain, T'Pau is Vulcan. The Security Directorate will take charge of the investigation.</td></tr>
 
-  ARCHER
-     Of course. Vulcan sovereignty. Lieutenant Reed and
-     Commander T'Pol will work with you.
+<tr id="L90"><td><a href="#L90">90</a></td><td>ARCHER:  Of course. Vulcan sovereignty. Lieutenant Reed and Commander T'Pol will work with you.</td></tr>
 
-  STEL
-     Their assistance isn't required.
+<tr id="L91"><td><a href="#L91">91</a></td><td>STEL:  Their assistance isn't required.</td></tr>
 
-  ARCHER
-     Chief Investigator. Forty three people died in the
-     bombing. Twelve Vulcans and thirty one humans. We
-     want her as much as you do.
+<tr id="L92"><td><a href="#L92">92</a></td><td>ARCHER:  Chief Investigator. Forty three people died in the bombing. Twelve Vulcans and thirty one humans. We want her as much as you do.</td></tr>
 
-  STEL
-     This is now a Vulcan security operation. We'll
-     inform Ambassador Soval of any developments that
-     concern you.
+<tr id="L93"><td><a href="#L93">93</a></td><td>STEL:  This is now a Vulcan security operation. We'll inform Ambassador Soval of any developments that concern you.</td></tr>
 
+<tr><td></td><td>LOCATION--Cargo Bay</td></tr>
+<tr id="L94"><td><a href="#L94">94</a></td><td>ANNOTATION: The place has been turned into a temporary morgue, with flag draped coffins laid out in rows of seven. Archer walks to the third one in on the second row from the door and places his hands on it. The bay doors open and close again.</td></tr>
 
-LOCATION--Cargo Bay
+<tr id="L95"><td><a href="#L95">95</a></td><td>SOVAL:  His death is a loss to both our worlds.</td></tr>
 
-  ANNOTATION
-     The place has been turned into a temporary morgue,
-     with flag draped coffins laid out in rows of
-     seven. Archer walks to the third one in on the
-     second row from the door and places his hands on
-     it. The bay doors open and close again.
+<tr id="L96"><td><a href="#L96">96</a></td><td>ARCHER:  If you're lost, Ambassador, I can direct you to your shuttle.</td></tr>
 
-  SOVAL
-     His death is a loss to both our worlds.
+<tr id="L97"><td><a href="#L97">97</a></td><td>SOVAL:  He saved my life in the explosion. He could have saved himself.</td></tr>
 
-  ARCHER
-     If you're lost, Ambassador, I can direct you to
-     your shuttle.
+<tr id="L98"><td><a href="#L98">98</a></td><td>ARCHER:  He always put the mission first.</td></tr>
 
-  SOVAL
-     He saved my life in the explosion. He could have
-     saved himself.
+<tr id="L99"><td><a href="#L99">99</a></td><td>SOVAL:  The last time we spoke, he was anticipating the prospect of joint missions. Humans and Vulcans working together.</td></tr>
 
-  ARCHER
-     He always put the mission first.
+<tr id="L100"><td><a href="#L100">100</a></td><td>ARCHER:  We have to make that possible, despite the High Command.</td></tr>
 
-  SOVAL
-     The last time we spoke, he was anticipating the
-     prospect of joint missions. Humans and Vulcans
-     working together.
+<tr id="L101"><td><a href="#L101">101</a></td><td>SOVAL:  It makes no sense to think the Syrrannites are responsible for this outrage.</td></tr>
 
-  ARCHER
-     We have to make that possible, despite the High
-     Command.
+<tr id="L102"><td><a href="#L102">102</a></td><td>ARCHER:  We have DNA evidence.</td></tr>
 
-  SOVAL
-     It makes no sense to think the Syrrannites are
-     responsible for this outrage.
+<tr id="L103"><td><a href="#L103">103</a></td><td>SOVAL:  Recheck everything, Captain, question everything, and don't let them keep you on Enterprise. The answers you need are on Vulcan, and however far you have to take this investigation, you have my support.</td></tr>
 
-  ARCHER
-     We have DNA evidence.
+<tr><td></td><td>LOCATION--T'Pol's quarters</td></tr>
+<tr id="L104"><td><a href="#L104">104</a></td><td>T'POL:  Enter.</td></tr>
 
-  SOVAL
-     Recheck everything, Captain, question everything,
-     and don't let them keep you on Enterprise. The
-     answers you need are on Vulcan, and however far
-     you have to take this investigation, you have my
-     support.
+<tr id="L105"><td><a href="#L105">105</a></td><td>KOSS:  It is agreeable to see you.</td></tr>
 
+<tr id="L106"><td><a href="#L106">106</a></td><td>ANNOTATION: They touch fingers.</td></tr>
 
-LOCATION--T'Pol's quarters
+<tr id="L107"><td><a href="#L107">107</a></td><td>T'POL:  What is the purpose of your visit?</td></tr>
 
-  T'POL
-     Enter.
+<tr id="L108"><td><a href="#L108">108</a></td><td>KOSS:  Does a husband need a purpose to visit his wife?</td></tr>
 
-  KOSS
-     It is agreeable to see you.
+<tr id="L109"><td><a href="#L109">109</a></td><td>T'POL:  Your message was cryptic.</td></tr>
 
-  ANNOTATION
-     They touch fingers.
+<tr id="L110"><td><a href="#L110">110</a></td><td>KOSS:  By necessity. The Syrrannite threat has brought new security measures into effect. Private communications are no longer private.</td></tr>
 
-  T'POL
-     What is the purpose of your visit?
+<tr id="L111"><td><a href="#L111">111</a></td><td>T'POL:  You have something to tell me that the authorities shouldn't hear?</td></tr>
 
-  KOSS
-     Does a husband need a purpose to visit his wife?
+<tr id="L112"><td><a href="#L112">112</a></td><td>KOSS:  Something to give you. Your mother asked me to deliver it personally. She told me that it's been in your family for generations, and now it's your turn to care for it.</td></tr>
 
-  T'POL
-     Your message was cryptic.
+<tr id="L113"><td><a href="#L113">113</a></td><td>ANNOTATION: He hands over a box containing an IDIC - a circle intersected by a triangle, with a stone at the centre.</td></tr>
 
-  KOSS
-     By necessity. The Syrrannite threat has brought
-     new security measures into effect. Private
-     communications are no longer private.
+<tr id="L114"><td><a href="#L114">114</a></td><td>T'POL:  Why didn't she give this to me herself?</td></tr>
 
-  T'POL
-     You have something to tell me that the authorities
-     shouldn't hear?
+<tr id="L115"><td><a href="#L115">115</a></td><td>KOSS:  The new security conditions. They've forced your mother into hiding to avoid arrest.</td></tr>
 
-  KOSS
-     Something to give you. Your mother asked me to
-     deliver it personally. She told me that it's been
-     in your family for generations, and now it's your
-     turn to care for it.
+<tr id="L116"><td><a href="#L116">116</a></td><td>T'POL:  My mother?</td></tr>
 
-  ANNOTATION
-     He hands over a box containing an IDIC - a circle
-     intersected by a triangle, with a stone at the
-     centre.
+<tr id="L117"><td><a href="#L117">117</a></td><td>KOSS:  She's a Syrrannite.</td></tr>
 
-  T'POL
-     Why didn't she give this to me herself?
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L118"><td><a href="#L118">118</a></td><td>ARCHER:  A Syrrannite? And she never told you?</td></tr>
 
-  KOSS
-     The new security conditions. They've forced your
-     mother into hiding to avoid arrest.
+<tr id="L119"><td><a href="#L119">119</a></td><td>T'POL:  What's important is that she's disappeared like the others facing unjustified arrest.</td></tr>
 
-  T'POL
-     My mother?
+<tr id="L120"><td><a href="#L120">120</a></td><td>ARCHER:  Like T'Pau.</td></tr>
 
-  KOSS
-     She's a Syrrannite.
+<tr id="L121"><td><a href="#L121">121</a></td><td>T'POL:  No, there's a difference. My mother wants me to find her.</td></tr>
 
+<tr id="L122"><td><a href="#L122">122</a></td><td>ANNOTATION: She shows him the medallion.</td></tr>
 
-LOCATION--Ready room
+<tr id="L123"><td><a href="#L123">123</a></td><td>T'POL:  It's called an IDIC.</td></tr>
 
-  ARCHER
-     A Syrrannite? And she never told you?
+<tr id="L124"><td><a href="#L124">124</a></td><td>ARCHER:  Looks old.</td></tr>
 
-  T'POL
-     What's important is that she's disappeared like
-     the others facing unjustified arrest.
+<tr id="L125"><td><a href="#L125">125</a></td><td>T'POL:  It's been modified.</td></tr>
 
-  ARCHER
-     Like T'Pau.
+<tr id="L126"><td><a href="#L126">126</a></td><td>ANNOTATION: She presses something and the central stone projects a holographic map.</td></tr>
 
-  T'POL
-     No, there's a difference. My mother wants me to
-     find her.
+<tr id="L127"><td><a href="#L127">127</a></td><td>T'POL:  This is a desert called the Forge. The route's the one Surak supposedly followed.</td></tr>
 
-  ANNOTATION
-     She shows him the medallion.
+<tr id="L128"><td><a href="#L128">128</a></td><td>ARCHER:  Eighteen hundred years ago?</td></tr>
 
-  T'POL
-     It's called an IDIC.
+<tr id="L129"><td><a href="#L129">129</a></td><td>T'POL:  Syrrannites follow the same path today, seeking enlightenment.</td></tr>
 
-  ARCHER
-     Looks old.
+<tr id="L130"><td><a href="#L130">130</a></td><td>ARCHER:  And you think your mother is somewhere along that path?</td></tr>
 
-  T'POL
-     It's been modified.
+<tr id="L131"><td><a href="#L131">131</a></td><td>T'POL:  She told Koss this was a family heirloom, but I've never seen it before.</td></tr>
 
-  ANNOTATION
-     She presses something and the central stone
-     projects a holographic map.
+<tr id="L132"><td><a href="#L132">132</a></td><td>ARCHER:  She didn't want Koss to know about the map. With any luck, we can use this to find your mother, and T'Pau.</td></tr>
 
-  T'POL
-     This is a desert called the Forge. The route's the
-     one Surak supposedly followed.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L133"><td><a href="#L133">133</a></td><td>TUCKER:  Captain, have you seen the reports on this place? It's a hellhole.</td></tr>
 
-  ARCHER
-     Eighteen hundred years ago?
+<tr id="L134"><td><a href="#L134">134</a></td><td>ARCHER:  (in casual clothes) It's a Vulcan desert. I expect it'll be hot.</td></tr>
 
-  T'POL
-     Syrrannites follow the same path today, seeking
-     enlightenment.
+<tr id="L135"><td><a href="#L135">135</a></td><td>TUCKER:  It's got electrical sandstorms. Geomagnetic instabilities so bad, technology won't work. So, no communicators, no scanners, no phase-pistols. We can't even beam you into it. You're going to have to walk in.</td></tr>
 
-  ARCHER
-     And you think your mother is somewhere along that
-     path?
+<tr id="L136"><td><a href="#L136">136</a></td><td>ARCHER:  I'll be careful. You've got Enterprise. You and Malcolm keep the investigation going up here, and whatever the Vulcans tell you, believe the opposite.</td></tr>
 
-  T'POL
-     She told Koss this was a family heirloom, but I've
-     never seen it before.
+<tr id="L137"><td><a href="#L137">137</a></td><td>ANNOTATION: They arrive at the transporter alcove.</td></tr>
 
-  ARCHER
-     She didn't want Koss to know about the map. With
-     any luck, we can use this to find your mother, and
-     T'Pau.
+<tr id="L138"><td><a href="#L138">138</a></td><td>ARCHER:  Present company excepted. Ambassador.</td></tr>
 
+<tr id="L139"><td><a href="#L139">139</a></td><td>SOVAL:  Captain, Commander. This shows the gaps in our satellite surveillance, when beam-ins can't be detected.</td></tr>
 
-LOCATION--Corridor
+<tr id="L140"><td><a href="#L140">140</a></td><td>ANNOTATION: He hands over a data module.</td></tr>
 
-  TUCKER
-     Captain, have you seen the reports on this place?
-     It's a hellhole.
+<tr id="L141"><td><a href="#L141">141</a></td><td>TUCKER:  I'm thinking we're not exactly cleared to have this.</td></tr>
 
-  ARCHER
-     (in casual clothes) It's a Vulcan desert. I expect
-     it'll be hot.
+<tr id="L142"><td><a href="#L142">142</a></td><td>SOVAL:  Have what, Commander? All I see is a Starfleet data module.</td></tr>
 
-  TUCKER
-     It's got electrical sandstorms. Geomagnetic
-     instabilities so bad, technology won't work. So,
-     no communicators, no scanners, no phase-pistols.
-     We can't even beam you into it. You're going to
-     have to walk in.
+<tr id="L143"><td><a href="#L143">143</a></td><td>TUCKER:  Right. Captain, what if something goes wrong down there?</td></tr>
 
-  ARCHER
-     I'll be careful. You've got Enterprise. You and
-     Malcolm keep the investigation going up here, and
-     whatever the Vulcans tell you, believe the
-     opposite.
+<tr id="L144"><td><a href="#L144">144</a></td><td>ARCHER:  It already has. Energise.</td></tr>
 
-  ANNOTATION
-     They arrive at the transporter alcove.
+<tr id="L145"><td><a href="#L145">145</a></td><td>ANNOTATION: T'Pol and Archer beam down to Vulcan.</td></tr>
 
-  ARCHER
-     Present company excepted. Ambassador.
+<tr><td></td><td>LOCATION--Vulcan</td></tr>
+<tr id="L146"><td><a href="#L146">146</a></td><td>ANNOTATION: The sand glares white and the rocks are pink beneath the orange sky.</td></tr>
 
-  SOVAL
-     Captain, Commander. This shows the gaps in our
-     satellite surveillance, when beam-ins can't be
-     detected.
+<tr id="L147"><td><a href="#L147">147</a></td><td>T'POL:  This site is called Gateway, where Surak supposedly began his journey into the Forge.</td></tr>
 
-  ANNOTATION
-     He hands over a data module.
+<tr id="L148"><td><a href="#L148">148</a></td><td>ARCHER:  You keep saying supposedly. You don't believe Surak did the things they said he did?</td></tr>
 
-  TUCKER
-     I'm thinking we're not exactly cleared to have
-     this.
+<tr id="L149"><td><a href="#L149">149</a></td><td>T'POL:  He brought logic to Vulcan, in an age we call the Time of Awakening, but his writings from that period no longer exist.</td></tr>
 
-  SOVAL
-     Have what, Commander? All I see is a Starfleet
-     data module.
+<tr id="L150"><td><a href="#L150">150</a></td><td>ARCHER:  There must be some record of it.</td></tr>
 
-  TUCKER
-     Right. Captain, what if something goes wrong down
-     there?
+<tr id="L151"><td><a href="#L151">151</a></td><td>T'POL:  Over the centuries, his followers made copies of his teachings.</td></tr>
 
-  ARCHER
-     It already has. Energise.
+<tr id="L152"><td><a href="#L152">152</a></td><td>ARCHER:  Let me guess. With the originals lost, whatever's left is open to interpretation.</td></tr>
 
-  ANNOTATION
-     T'Pol and Archer beam down to Vulcan.
+<tr id="L153"><td><a href="#L153">153</a></td><td>T'POL:  You find this amusing?</td></tr>
 
+<tr id="L154"><td><a href="#L154">154</a></td><td>ARCHER:  I find it familiar. We should get moving.</td></tr>
 
-LOCATION--Vulcan
+<tr><td></td><td>LOCATION--The Forge - night</td></tr>
+<tr id="L155"><td><a href="#L155">155</a></td><td>ANNOTATION: Archer gazes at lights in the sky.</td></tr>
 
-  ANNOTATION
-     The sand glares white and the rocks are pink
-     beneath the orange sky.
+<tr id="L156"><td><a href="#L156">156</a></td><td>ARCHER:  I thought technology didn't work here.</td></tr>
 
-  T'POL
-     This site is called Gateway, where Surak
-     supposedly began his journey into the Forge.
+<tr id="L157"><td><a href="#L157">157</a></td><td>T'POL:  The dampening field only extends a few hundred metres above the ground. Patrol craft can fly over it, but their sensors can't see us.</td></tr>
 
-  ARCHER
-     You keep saying supposedly. You don't believe
-     Surak did the things they said he did?
+<tr id="L158"><td><a href="#L158">158</a></td><td>ARCHER:  No wonder the Syrrannites like it here.</td></tr>
 
-  T'POL
-     He brought logic to Vulcan, in an age we call the
-     Time of Awakening, but his writings from that
-     period no longer exist.
+<tr id="L159"><td><a href="#L159">159</a></td><td>T'POL:  We're being stalked.</td></tr>
 
-  ARCHER
-     There must be some record of it.
+<tr id="L160"><td><a href="#L160">160</a></td><td>ANNOTATION: An animal cry rings out in the dark.</td></tr>
 
-  T'POL
-     Over the centuries, his followers made copies of
-     his teachings.
+<tr id="L161"><td><a href="#L161">161</a></td><td>ARCHER:  What the hell was that?</td></tr>
 
-  ARCHER
-     Let me guess. With the originals lost, whatever's
-     left is open to interpretation.
+<tr id="L162"><td><a href="#L162">162</a></td><td>T'POL:  Sehlat. Run.</td></tr>
 
-  T'POL
-     You find this amusing?
+<tr id="L163"><td><a href="#L163">163</a></td><td>ANNOTATION: A furry four-legged thing with enormous incisors is chasing them.</td></tr>
 
-  ARCHER
-     I find it familiar. We should get moving.
+<tr id="L164"><td><a href="#L164">164</a></td><td>T'POL:  Higher ground. Higher. They won't climb.</td></tr>
 
+<tr id="L165"><td><a href="#L165">165</a></td><td>ANNOTATION: The pair scramble up a rock face, and the sehlat paces below.</td></tr>
 
-LOCATION--The Forge - night
+<tr id="L166"><td><a href="#L166">166</a></td><td>ARCHER:  How long before it starts to lose interest in us?</td></tr>
 
-  ANNOTATION
-     Archer gazes at lights in the sky.
+<tr id="L167"><td><a href="#L167">167</a></td><td>T'POL:  Days, at least. They're very persistent creatures. When I was a child, I had one as a pet.</td></tr>
 
-  ARCHER
-     I thought technology didn't work here.
+<tr id="L168"><td><a href="#L168">168</a></td><td>ARCHER:  You had one of those?</td></tr>
 
-  T'POL
-     The dampening field only extends a few hundred
-     metres above the ground. Patrol craft can fly over
-     it, but their sensors can't see us.
+<tr id="L169"><td><a href="#L169">169</a></td><td>T'POL:  Domesticated. They were smaller, slightly.</td></tr>
 
-  ARCHER
-     No wonder the Syrrannites like it here.
+<tr id="L170"><td><a href="#L170">170</a></td><td>ARCHER:  How slightly?</td></tr>
 
-  T'POL
-     We're being stalked.
+<tr id="L171"><td><a href="#L171">171</a></td><td>T'POL:  You have Porthos.</td></tr>
 
-  ANNOTATION
-     An animal cry rings out in the dark.
+<tr id="L172"><td><a href="#L172">172</a></td><td>ARCHER:  Porthos doesn't try and eat me when I'm late with his dinner.</td></tr>
 
-  ARCHER
-     What the hell was that?
+<tr id="L173"><td><a href="#L173">173</a></td><td>T'POL:  Vulcan children are never late with their sehlat's dinner.</td></tr>
 
-  T'POL
-     Sehlat. Run.
+<tr id="L174"><td><a href="#L174">174</a></td><td>ARCHER:  I can believe that.</td></tr>
 
-  ANNOTATION
-     A furry four-legged thing with enormous incisors
-     is chasing them.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L175"><td><a href="#L175">175</a></td><td>PHLOX:  The Captain asked me to re-examine the DNA from the bomb to see if anyone else might have handled it.</td></tr>
 
-  T'POL
-     Higher ground. Higher. They won't climb.
+<tr id="L176"><td><a href="#L176">176</a></td><td>TUCKER:  You say you found an anomaly.</td></tr>
 
-  ANNOTATION
-     The pair scramble up a rock face, and the sehlat
-     paces below.
+<tr id="L177"><td><a href="#L177">177</a></td><td>PHLOX:  In these chromosomal fragments. Here, and here.</td></tr>
 
-  ARCHER
-     How long before it starts to lose interest in us?
+<tr id="L178"><td><a href="#L178">178</a></td><td>REED:  What kind of anomaly?</td></tr>
 
-  T'POL
-     Days, at least. They're very persistent creatures.
-     When I was a child, I had one as a pet.
+<tr id="L179"><td><a href="#L179">179</a></td><td>PHLOX:  These are telomeres. A genetic clock, if you will. Each time a cell divides, they grow shorter.</td></tr>
 
-  ARCHER
-     You had one of those?
+<tr id="L180"><td><a href="#L180">180</a></td><td>TUCKER:  Sure. That's how you tell how old someone is from a cell sample.</td></tr>
 
-  T'POL
-     Domesticated. They were smaller, slightly.
+<tr id="L181"><td><a href="#L181">181</a></td><td>PHLOX:  Though T'Pau's current age is thirty two standard years, her DNA recovered from the bomb has an age of only a few months.</td></tr>
 
-  ARCHER
-     How slightly?
+<tr id="L182"><td><a href="#L182">182</a></td><td>TUCKER:  They used the DNA they sampled when she was registered as a baby.</td></tr>
 
-  T'POL
-     You have Porthos.
+<tr id="L183"><td><a href="#L183">183</a></td><td>PHLOX:  Precisely. The evidence implicating T'Pau is false.</td></tr>
 
-  ARCHER
-     Porthos doesn't try and eat me when I'm late with
-     his dinner.
+<tr id="L184"><td><a href="#L184">184</a></td><td>TUCKER:  Captain Archer's gone after the wrong person.</td></tr>
 
-  T'POL
-     Vulcan children are never late with their sehlat's
-     dinner.
+<tr id="L185"><td><a href="#L185">185</a></td><td>REED:  And there's no way to get word to him.</td></tr>
 
-  ARCHER
-     I can believe that.
+<tr id="L186"><td><a href="#L186">186</a></td><td>TUCKER:  Doc, take a look at this.</td></tr>
 
+<tr id="L187"><td><a href="#L187">187</a></td><td>ANNOTATION: They cross to another monitor.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L188"><td><a href="#L188">188</a></td><td>TUCKER:  It's the recording Malcolm recovered from the embassy.</td></tr>
 
-  PHLOX
-     The Captain asked me to re-examine the DNA from
-     the bomb to see if anyone else might have handled
-     it.
+<tr id="L189"><td><a href="#L189">189</a></td><td>REED:  According to the security log, this is when T'Pau's biometric signature was recorded.</td></tr>
 
-  TUCKER
-     You say you found an anomaly.
+<tr id="L190"><td><a href="#L190">190</a></td><td>PHLOX:  Undoubtedly another fabrication.</td></tr>
 
-  PHLOX
-     In these chromosomal fragments. Here, and here.
+<tr id="L191"><td><a href="#L191">191</a></td><td>TUCKER:  But look, the guard recognised whoever it was. And that guard is your patient.</td></tr>
 
-  REED
-     What kind of anomaly?
+<tr id="L192"><td><a href="#L192">192</a></td><td>PHLOX:  Corporal Askwith?</td></tr>
 
-  PHLOX
-     These are telomeres. A genetic clock, if you will.
-     Each time a cell divides, they grow shorter.
+<tr id="L193"><td><a href="#L193">193</a></td><td>TUCKER:  He could be our only chance to identify who really planted the bomb.</td></tr>
 
-  TUCKER
-     Sure. That's how you tell how old someone is from
-     a cell sample.
+<tr id="L194"><td><a href="#L194">194</a></td><td>PHLOX:  He's in a coma. His cranial injuries are substantial. I don't expect him to recover.</td></tr>
 
-  PHLOX
-     Though T'Pau's current age is thirty two standard
-     years, her DNA recovered from the bomb has an age
-     of only a few months.
+<tr id="L195"><td><a href="#L195">195</a></td><td>REED:  There must be a stimulant you can inject him with, something to bring him around just for a few minutes.</td></tr>
 
-  TUCKER
-     They used the DNA they sampled when she was
-     registered as a baby.
+<tr id="L196"><td><a href="#L196">196</a></td><td>PHLOX:  There's only so much damage a human body can withstand.</td></tr>
 
-  PHLOX
-     Precisely. The evidence implicating T'Pau is
-     false.
+<tr id="L197"><td><a href="#L197">197</a></td><td>TUCKER:  I don't care about his body, Doc. We need what's in his mind.</td></tr>
 
-  TUCKER
-     Captain Archer's gone after the wrong person.
+<tr><td></td><td>LOCATION--The Forge - night</td></tr>
+<tr id="L198"><td><a href="#L198">198</a></td><td>ANNOTATION: The sehlat's cries keep Archer awake.</td></tr>
 
-  REED
-     And there's no way to get word to him.
+<tr id="L199"><td><a href="#L199">199</a></td><td>ARCHER:  Sounds like that Klingon opera Hoshi made us listen to.</td></tr>
 
-  TUCKER
-     Doc, take a look at this.
+<tr id="L200"><td><a href="#L200">200</a></td><td>ANNOTATION: There's another sound, and the sehlat leaves. A voice calls up to them.</td></tr>
 
-  ANNOTATION
-     They cross to another monitor.
+<tr id="L201"><td><a href="#L201">201</a></td><td>AREV:  The path is safe again.</td></tr>
 
-  TUCKER
-     It's the recording Malcolm recovered from the
-     embassy.
+<tr id="L202"><td><a href="#L202">202</a></td><td>ARCHER:  That's quite a trick.</td></tr>
 
-  REED
-     According to the security log, this is when
-     T'Pau's biometric signature was recorded.
+<tr id="L203"><td><a href="#L203">203</a></td><td>AREV:  You're a human.</td></tr>
 
-  PHLOX
-     Undoubtedly another fabrication.
+<tr id="L204"><td><a href="#L204">204</a></td><td>ARCHER:  Jonathan Archer.</td></tr>
 
-  TUCKER
-     But look, the guard recognised whoever it was. And
-     that guard is your patient.
+<tr id="L205"><td><a href="#L205">205</a></td><td>AREV:  Travelling with a Vulcan.</td></tr>
 
-  PHLOX
-     Corporal Askwith?
+<tr id="L206"><td><a href="#L206">206</a></td><td>T'POL:  T'Pol.</td></tr>
 
-  TUCKER
-     He could be our only chance to identify who really
-     planted the bomb.
+<tr id="L207"><td><a href="#L207">207</a></td><td>AREV:  Curious.</td></tr>
 
-  PHLOX
-     He's in a coma. His cranial injuries are
-     substantial. I don't expect him to recover.
+<tr id="L208"><td><a href="#L208">208</a></td><td>ANNOTATION: The pair climb down to him.</td></tr>
 
-  REED
-     There must be a stimulant you can inject him with,
-     something to bring him around just for a few
-     minutes.
+<tr id="L209"><td><a href="#L209">209</a></td><td>ARCHER:  May we ask your name?</td></tr>
 
-  PHLOX
-     There's only so much damage a human body can
-     withstand.
+<tr id="L210"><td><a href="#L210">210</a></td><td>AREV:  Arev.</td></tr>
 
-  TUCKER
-     I don't care about his body, Doc. We need what's
-     in his mind.
+<tr id="L211"><td><a href="#L211">211</a></td><td>T'POL:  That means desert wind.</td></tr>
 
+<tr id="L212"><td><a href="#L212">212</a></td><td>AREV:  Does it? Why are you here?</td></tr>
 
-LOCATION--The Forge - night
+<tr id="L213"><td><a href="#L213">213</a></td><td>ARCHER:  We could ask you the same thing.</td></tr>
 
-  ANNOTATION
-     The sehlat's cries keep Archer awake.
+<tr id="L214"><td><a href="#L214">214</a></td><td>AREV:  I follow the path of Surak in meditation and study. And you?</td></tr>
 
-  ARCHER
-     Sounds like that Klingon opera Hoshi made us
-     listen to.
+<tr id="L215"><td><a href="#L215">215</a></td><td>ARCHER:  I'm on a pilgrimage to study Surak and logic. T'Pol is my teacher.</td></tr>
 
-  ANNOTATION
-     There's another sound, and the sehlat leaves. A
-     voice calls up to them.
+<tr id="L216"><td><a href="#L216">216</a></td><td>AREV:  (to T'Pol) I welcome you to walk with me. (to Archer) But this is no place for your kind. Turn back.</td></tr>
 
-  AREV
-     The path is safe again.
+<tr id="L217"><td><a href="#L217">217</a></td><td>ARCHER:  If it's all the same, I'll walk with you, too.</td></tr>
 
-  ARCHER
-     That's quite a trick.
+<tr id="L218"><td><a href="#L218">218</a></td><td>AREV:  This desert's called The Forge for a reason. It will test you and destroy you.</td></tr>
 
-  AREV
-     You're a human.
+<tr><td></td><td>LOCATION--The Forge - daylight</td></tr>
+<tr id="L219"><td><a href="#L219">219</a></td><td>ANNOTATION: The three are walking on a rocky ridge above an expanse of pink sand.</td></tr>
 
-  ARCHER
-     Jonathan Archer.
+<tr id="L220"><td><a href="#L220">220</a></td><td>AREV:  The Plain of Blood. Some say Surak crossed this expanse when the hot blood of battle still flowed green. But with logic, he cooled it.</td></tr>
 
-  AREV
-     Travelling with a Vulcan.
+<tr id="L221"><td><a href="#L221">221</a></td><td>T'POL:  Captain, the reflected heat is too hot for you.</td></tr>
 
-  T'POL
-     T'Pol.
+<tr id="L222"><td><a href="#L222">222</a></td><td>ARCHER:  I'll stick to the sand-covered parts wherever I can.</td></tr>
 
-  AREV
-     Curious.
+<tr id="L223"><td><a href="#L223">223</a></td><td>ANNOTATION: He offers his water bottle.</td></tr>
 
-  ANNOTATION
-     The pair climb down to him.
+<tr id="L224"><td><a href="#L224">224</a></td><td>T'POL:  I won't need water for several more days.</td></tr>
 
-  ARCHER
-     May we ask your name?
+<tr id="L225"><td><a href="#L225">225</a></td><td>ARCHER:  You'd better protect your eyes from the glare.</td></tr>
 
-  AREV
-     Arev.
+<tr id="L226"><td><a href="#L226">226</a></td><td>T'POL:  My inner eyelids will protect my vision. My species evolved on this planet.</td></tr>
 
-  T'POL
-     That means desert wind.
+<tr id="L227"><td><a href="#L227">227</a></td><td>ANNOTATION: The group walks on, and Archer is suffering.</td></tr>
 
-  AREV
-     Does it? Why are you here?
+<tr id="L228"><td><a href="#L228">228</a></td><td>AREV:  How long have you tried to understand Vulcan logic?</td></tr>
 
-  ARCHER
-     We could ask you the same thing.
+<tr id="L229"><td><a href="#L229">229</a></td><td>ARCHER:  Ever since I met T'Pol.</td></tr>
 
-  AREV
-     I follow the path of Surak in meditation and
-     study. And you?
+<tr id="L230"><td><a href="#L230">230</a></td><td>AREV:  Very well, student of Surak. Who said, Logic is the cement of our civilisation with which we ascend from chaos using reason as our guide?</td></tr>
 
-  ARCHER
-     I'm on a pilgrimage to study Surak and logic.
-     T'Pol is my teacher.
+<tr id="L231"><td><a href="#L231">231</a></td><td>ARCHER:  I'm new at this. You tell me.</td></tr>
 
-  AREV
-     (to T'Pol) I welcome you to walk with me. (to
-     Archer) But this is no place for your kind. Turn
-     back.
+<tr id="L232"><td><a href="#L232">232</a></td><td>AREV:  Something more basic then. What's Kiri-kin-tha's First Law of Metaphysics?</td></tr>
 
-  ARCHER
-     If it's all the same, I'll walk with you, too.
+<tr id="L233"><td><a href="#L233">233</a></td><td>ARCHER:  I'm familiar with Newton's First Law of Motion. I imagine they're pretty much the same.</td></tr>
 
-  AREV
-     This desert's called The Forge for a reason. It
-     will test you and destroy you.
+<tr id="L234"><td><a href="#L234">234</a></td><td>AREV:  You haven't been truthful about your presence here.</td></tr>
 
+<tr id="L235"><td><a href="#L235">235</a></td><td>ARCHER:  Have you?</td></tr>
 
-LOCATION--The Forge - daylight
+<tr id="L236"><td><a href="#L236">236</a></td><td>AREV:  Vulcans do not lie.</td></tr>
 
-  ANNOTATION
-     The three are walking on a rocky ridge above an
-     expanse of pink sand.
+<tr id="L237"><td><a href="#L237">237</a></td><td>ARCHER:  I've dealt with the High Command. Vulcans can lie and cheat with the best of them.</td></tr>
 
-  AREV
-     The Plain of Blood. Some say Surak crossed this
-     expanse when the hot blood of battle still flowed
-     green. But with logic, he cooled it.
+<tr id="L238"><td><a href="#L238">238</a></td><td>AREV:  The High Command does not follow Surak's true path. No wonder you humans are their allies.</td></tr>
 
-  T'POL
-     Captain, the reflected heat is too hot for you.
+<tr id="L239"><td><a href="#L239">239</a></td><td>ANNOTATION: Arev walks on ahead</td></tr>
 
-  ARCHER
-     I'll stick to the sand-covered parts wherever I
-     can.
+<tr id="L240"><td><a href="#L240">240</a></td><td>T'POL:  From the questions he asked you, I believe he is a Syrrannite. And it's obvious that he doesn't trust us enough to take us to the others.</td></tr>
 
-  ANNOTATION
-     He offers his water bottle.
+<tr id="L241"><td><a href="#L241">241</a></td><td>ARCHER:  That only leaves one option. We have to tell him what he wants to know, the truth.</td></tr>
 
-  T'POL
-     I won't need water for several more days.
+<tr id="L242"><td><a href="#L242">242</a></td><td>T'POL:  It may be too late for that. Sand-fire!</td></tr>
 
-  ARCHER
-     You'd better protect your eyes from the glare.
+<tr id="L243"><td><a href="#L243">243</a></td><td>ANNOTATION: A dust storm is coming down the valley like a tidal wave. They run.</td></tr>
 
-  T'POL
-     My inner eyelids will protect my vision. My
-     species evolved on this planet.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L244"><td><a href="#L244">244</a></td><td>TUCKER:  This man's our only witness.</td></tr>
 
-  ANNOTATION
-     The group walks on, and Archer is suffering.
+<tr id="L245"><td><a href="#L245">245</a></td><td>SOVAL:  He's comatose, brain-damaged, and he's human. A mind-meld is dangerous under the best of conditions, but under these</td></tr>
 
-  AREV
-     How long have you tried to understand Vulcan
-     logic?
+<tr id="L246"><td><a href="#L246">246</a></td><td>TUCKER:  Look, I know Phlox says there aren't a lot of Vulcans who can do this sort of thing, but you've got to know someone who could at least try.</td></tr>
 
-  ARCHER
-     Ever since I met T'Pol.
+<tr id="L247"><td><a href="#L247">247</a></td><td>SOVAL:  Those who do have the ability won't risk their careers by publicly attempting what you suggest.</td></tr>
 
-  AREV
-     Very well, student of Surak. Who said, Logic is
-     the cement of our civilisation with which we
-     ascend from chaos using reason as our guide?
+<tr id="L248"><td><a href="#L248">248</a></td><td>PHLOX:  Most Vulcans see melding as deviant behaviour.</td></tr>
 
-  ARCHER
-     I'm new at this. You tell me.
+<tr id="L249"><td><a href="#L249">249</a></td><td>TUCKER:  What's that got to do with it?</td></tr>
 
-  AREV
-     Something more basic then. What's Kiri-kin-tha's
-     First Law of Metaphysics?
+<tr id="L250"><td><a href="#L250">250</a></td><td>SOVAL:  Evidence will solve this crime, not mind-melds.</td></tr>
 
-  ARCHER
-     I'm familiar with Newton's First Law of Motion. I
-     imagine they're pretty much the same.
+<tr id="L251"><td><a href="#L251">251</a></td><td>TUCKER:  What evidence? The DNA on the bomb was planted.</td></tr>
 
-  AREV
-     You haven't been truthful about your presence
-     here.
+<tr id="L252"><td><a href="#L252">252</a></td><td>SOVAL:  You can prove that?</td></tr>
 
-  ARCHER
-     Have you?
+<tr id="L253"><td><a href="#L253">253</a></td><td>PHLOX:  I can.</td></tr>
 
-  AREV
-     Vulcans do not lie.
+<tr id="L254"><td><a href="#L254">254</a></td><td>TUCKER:  Ambassador, I don't know what kind of pull it takes to mess with DNA records on Vulcan, but I think we're looking at a deliberate attempt to hide the truth.</td></tr>
 
-  ARCHER
-     I've dealt with the High Command. Vulcans can lie
-     and cheat with the best of them.
+<tr id="L255"><td><a href="#L255">255</a></td><td>SOVAL:  You're suggesting a conspiracy.</td></tr>
 
-  AREV
-     The High Command does not follow Surak's true
-     path. No wonder you humans are their allies.
+<tr id="L256"><td><a href="#L256">256</a></td><td>PHLOX:  One that cost forty three innocent lives.</td></tr>
 
-  ANNOTATION
-     Arev walks on ahead
+<tr id="L257"><td><a href="#L257">257</a></td><td>TUCKER:  Aren't they worth a little risk?</td></tr>
 
-  T'POL
-     From the questions he asked you, I believe he is a
-     Syrrannite. And it's obvious that he doesn't trust
-     us enough to take us to the others.
+<tr id="L258"><td><a href="#L258">258</a></td><td>SOVAL:  (sighs) The needs of the many. I can perform the meld.</td></tr>
 
-  ARCHER
-     That only leaves one option. We have to tell him
-     what he wants to know, the truth.
+<tr><td></td><td>LOCATION--The Forge - daylight</td></tr>
+<tr id="L259"><td><a href="#L259">259</a></td><td>ANNOTATION: The sand-fire is catching the runners, and electricity is sparking out from it. Archer stumbles.</td></tr>
 
-  T'POL
-     It may be too late for that. Sand-fire!
+<tr id="L260"><td><a href="#L260">260</a></td><td>T'POL:  Captain.</td></tr>
 
-  ANNOTATION
-     A dust storm is coming down the valley like a
-     tidal wave. They run.
+<tr id="L261"><td><a href="#L261">261</a></td><td>ANNOTATION: He gets up again. Arev has found a cave.</td></tr>
 
+<tr id="L262"><td><a href="#L262">262</a></td><td>AREV:  Over here!</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Cave</td></tr>
+<tr id="L263"><td><a href="#L263">263</a></td><td>AREV:  Help me with this. The sand-fire can still reach us.</td></tr>
 
-  TUCKER
-     This man's our only witness.
+<tr id="L264"><td><a href="#L264">264</a></td><td>ANNOTATION: They block the entrance with a stones. Arev sees T'Pol's medallion.</td></tr>
 
-  SOVAL
-     He's comatose, brain-damaged, and he's human. A
-     mind-meld is dangerous under the best of
-     conditions, but under these
+<tr id="L265"><td><a href="#L265">265</a></td><td>AREV:  I know this. How did you get this medallion?</td></tr>
 
-  TUCKER
-     Look, I know Phlox says there aren't a lot of
-     Vulcans who can do this sort of thing, but you've
-     got to know someone who could at least try.
+<tr id="L266"><td><a href="#L266">266</a></td><td>T'POL:  From my mother.</td></tr>
 
-  SOVAL
-     Those who do have the ability won't risk their
-     careers by publicly attempting what you suggest.
+<tr id="L267"><td><a href="#L267">267</a></td><td>AREV:  T'Les.</td></tr>
 
-  PHLOX
-     Most Vulcans see melding as deviant behaviour.
+<tr id="L268"><td><a href="#L268">268</a></td><td>T'POL:  You're a Syrrannite.</td></tr>
 
-  TUCKER
-     What's that got to do with it?
+<tr id="L269"><td><a href="#L269">269</a></td><td>AREV:  The daughter of T'Les serves on a human starship.</td></tr>
 
-  SOVAL
-     Evidence will solve this crime, not mind-melds.
+<tr id="L270"><td><a href="#L270">270</a></td><td>T'POL:  When did you talk with her? Is she safe?</td></tr>
 
-  TUCKER
-     What evidence? The DNA on the bomb was planted.
+<tr id="L271"><td><a href="#L271">271</a></td><td>AREV:  You're the human responsible for the destruction of the monastery at P'Jem.</td></tr>
 
-  SOVAL
-     You can prove that?
+<tr id="L272"><td><a href="#L272">272</a></td><td>ARCHER:  Is that going to be a problem?</td></tr>
 
-  PHLOX
-     I can.
+<tr id="L273"><td><a href="#L273">273</a></td><td>AREV:  The High Command defiled P'Jem when they used it to spy on Andoria. You exposed their hypocrisy.</td></tr>
 
-  TUCKER
-     Ambassador, I don't know what kind of pull it
-     takes to mess with DNA records on Vulcan, but I
-     think we're looking at a deliberate attempt to
-     hide the truth.
+<tr id="L274"><td><a href="#L274">274</a></td><td>ARCHER:  You seem to know a lot about us. I'm guessing that means you know why we're here.</td></tr>
 
-  SOVAL
-     You're suggesting a conspiracy.
+<tr id="L275"><td><a href="#L275">275</a></td><td>AREV:  Your mother is safe with the others, at the T'Kareth sanctuary. It's not far. I'll guide you both there when the storm has passed.</td></tr>
 
-  PHLOX
-     One that cost forty three innocent lives.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L276"><td><a href="#L276">276</a></td><td>SOVAL:  I don't know if this has ever been attempted with a human before.</td></tr>
 
-  TUCKER
-     Aren't they worth a little risk?
+<tr id="L277"><td><a href="#L277">277</a></td><td>ANNOTATION: He puts his fingers on Askwith's face, then glares at Tucker to stop looking over his shoulder.</td></tr>
 
-  SOVAL
-     (sighs) The needs of the many. I can perform the
-     meld.
+<tr id="L278"><td><a href="#L278">278</a></td><td>SOVAL:  My mind to your mind. Our minds are one. Our thoughts are joined. Yes.</td></tr>
 
+<tr id="L279"><td><a href="#L279">279</a></td><td>ANNOTATION: Flashes of the Embassy check point.</td></tr>
 
-LOCATION--The Forge - daylight
+<tr id="L280"><td><a href="#L280">280</a></td><td>SOVAL:  I see what you see. The embassy. I'm at my station. At your station. So many new people arriving for the summit. I don't recognise them all, but some I know. A package. That's all right. I don't need to see it. Go right through. Who are you? Who?</td></tr>
 
-  ANNOTATION
-     The sand-fire is catching the runners, and
-     electricity is sparking out from it. Archer
-     stumbles.
+<tr id="L281"><td><a href="#L281">281</a></td><td>ANNOTATION: Suddenly he disconnects from Askwith.</td></tr>
 
-  T'POL
-     Captain.
+<tr id="L282"><td><a href="#L282">282</a></td><td>TUCKER:  Ambassador. What'd you see?</td></tr>
 
-  ANNOTATION
-     He gets up again. Arev has found a cave.
+<tr><td></td><td>LOCATION--Cave</td></tr>
+<tr id="L283"><td><a href="#L283">283</a></td><td>ANNOTATION: The group share a meal.</td></tr>
 
-  AREV
-     Over here!
+<tr id="L284"><td><a href="#L284">284</a></td><td>ARCHER:  How long do these sand-fire storms usually last?</td></tr>
 
+<tr id="L285"><td><a href="#L285">285</a></td><td>AREV:  A day. Perhaps two. I've never seen one this strong. But we're safe here, and we're in no hurry.</td></tr>
 
-LOCATION--Cave
+<tr id="L286"><td><a href="#L286">286</a></td><td>ARCHER:  Maybe we should be.</td></tr>
 
-  AREV
-     Help me with this. The sand-fire can still reach
-     us.
+<tr id="L287"><td><a href="#L287">287</a></td><td>T'POL:  The High Command believes the Syrrannites are responsible for bombing the Earth embassy.</td></tr>
 
-  ANNOTATION
-     They block the entrance with a stones. Arev sees
-     T'Pol's medallion.
+<tr id="L288"><td><a href="#L288">288</a></td><td>AREV:  That's not our way.</td></tr>
 
-  AREV
-     I know this. How did you get this medallion?
+<tr id="L289"><td><a href="#L289">289</a></td><td>ARCHER:  They seem to think that it is. That you and your leader believe in a corrupted version of Surak's teachings.</td></tr>
 
-  T'POL
-     From my mother.
+<tr id="L290"><td><a href="#L290">290</a></td><td>AREV:  Did your mother tell you the story?</td></tr>
 
-  AREV
-     T'Les.
+<tr id="L291"><td><a href="#L291">291</a></td><td>T'POL:  Of the IDIC?</td></tr>
 
-  T'POL
-     You're a Syrrannite.
+<tr id="L292"><td><a href="#L292">292</a></td><td>AREV:  Infinite Diversity in Infinite Combination. Words that are a mere shadow of its true meaning. (she hands it over) Surak tells us that the story of the IDIC has no end. But it begins here, at Mount Seleya.</td></tr>
 
-  AREV
-     The daughter of T'Les serves on a human starship.
+<tr id="L293"><td><a href="#L293">293</a></td><td>T'POL:  Surak died on Mount Seleya.</td></tr>
 
-  T'POL
-     When did you talk with her? Is she safe?
+<tr id="L294"><td><a href="#L294">294</a></td><td>AREV:  His body, yes, but his katra was spirited away before the last battle against those who marched beneath the Raptor's wings. Those who wanted to return to the savage ways.</td></tr>
 
-  AREV
-     You're the human responsible for the destruction
-     of the monastery at P'Jem.
+<tr id="L295"><td><a href="#L295">295</a></td><td>ARCHER:  What's a katra?</td></tr>
 
-  ARCHER
-     Is that going to be a problem?
+<tr id="L296"><td><a href="#L296">296</a></td><td>T'POL:  Syrrannites claim it's the essence of a Vulcan mind. That it can be transferred from the body before death, then stored in some manner.</td></tr>
 
-  AREV
-     The High Command defiled P'Jem when they used it
-     to spy on Andoria. You exposed their hypocrisy.
+<tr id="L297"><td><a href="#L297">297</a></td><td>AREV:  Some say Surak's katra was found, and now is carried by a Syrrannite so all those who meld with him may touch Surak's mind.</td></tr>
 
-  ARCHER
-     You seem to know a lot about us. I'm guessing that
-     means you know why we're here.
+<tr id="L298"><td><a href="#L298">298</a></td><td>ARCHER:  Syrrannite's conduct mind-melding?</td></tr>
 
-  AREV
-     Your mother is safe with the others, at the
-     T'Kareth sanctuary. It's not far. I'll guide you
-     both there when the storm has passed.
+<tr id="L299"><td><a href="#L299">299</a></td><td>AREV:  Surak tells us it is the heritage of every Vulcan. Even those who don't believe in the practise.</td></tr>
 
+<tr><td></td><td>LOCATION--Conference room</td></tr>
+<tr id="L300"><td><a href="#L300">300</a></td><td>STEL:  A witness?</td></tr>
 
-LOCATION--Sickbay
+<tr id="L301"><td><a href="#L301">301</a></td><td>TUCKER:  The guard recognised the person who brought in the bomb we found in the rubble.</td></tr>
 
-  SOVAL
-     I don't know if this has ever been attempted with
-     a human before.
+<tr id="L302"><td><a href="#L302">302</a></td><td>STEL:  The Syrrannite woman, T'Pau.</td></tr>
 
-  ANNOTATION
-     He puts his fingers on Askwith's face, then glares
-     at Tucker to stop looking over his shoulder.
+<tr id="L303"><td><a href="#L303">303</a></td><td>SOVAL:  No. It was you.</td></tr>
 
-  SOVAL
-     My mind to your mind. Our minds are one. Our
-     thoughts are joined. Yes.
+<tr id="L304"><td><a href="#L304">304</a></td><td>STEL:  I would like to interrogate this witness myself.</td></tr>
 
-  ANNOTATION
-     Flashes of the Embassy check point.
+<tr id="L305"><td><a href="#L305">305</a></td><td>TUCKER:  You're not getting anywhere near him.</td></tr>
 
-  SOVAL
-     I see what you see. The embassy. I'm at my
-     station. At your station. So many new people
-     arriving for the summit. I don't recognise them
-     all, but some I know. A package. That's all right.
-     I don't need to see it. Go right through. Who are
-     you? Who?
+<tr id="L306"><td><a href="#L306">306</a></td><td>V'LAS:  Perhaps I could speak with the guard.</td></tr>
 
-  ANNOTATION
-     Suddenly he disconnects from Askwith.
+<tr id="L307"><td><a href="#L307">307</a></td><td>PHLOX:  I'm afraid he's in no condition to be questioned. He's in a coma.</td></tr>
 
-  TUCKER
-     Ambassador. What'd you see?
+<tr id="L308"><td><a href="#L308">308</a></td><td>V'LAS:  Yet he provided an eyewitness account.</td></tr>
 
+<tr id="L309"><td><a href="#L309">309</a></td><td>TUCKER:  We accessed his memories through a mind-meld.</td></tr>
 
-LOCATION--Cave
+<tr id="L310"><td><a href="#L310">310</a></td><td>STEL:  Telepathic evidence is inadmissible.</td></tr>
 
-  ANNOTATION
-     The group share a meal.
+<tr id="L311"><td><a href="#L311">311</a></td><td>V'LAS:  It's not evidence at all! You allowed this distasteful act to take place?</td></tr>
 
-  ARCHER
-     How long do these sand-fire storms usually last?
+<tr id="L312"><td><a href="#L312">312</a></td><td>SOVAL:  I performed it.</td></tr>
 
-  AREV
-     A day. Perhaps two. I've never seen one this
-     strong. But we're safe here, and we're in no
-     hurry.
+<tr id="L313"><td><a href="#L313">313</a></td><td>V'LAS:  Soval. You've shamed Vulcan and yourself. The law leaves me no recourse. You'll be summoned to appear before the High Command to account for your actions. Commander. Doctor.</td></tr>
 
-  ARCHER
-     Maybe we should be.
+<tr><td></td><td>LOCATION--Cave</td></tr>
+<tr id="L314"><td><a href="#L314">314</a></td><td>AREV:  At one time, the High Command was only responsible for the exploration of space. But that's changed.</td></tr>
 
-  T'POL
-     The High Command believes the Syrrannites are
-     responsible for bombing the Earth embassy.
+<tr id="L315"><td><a href="#L315">315</a></td><td>ARCHER:  I've been told Vulcans have never been explorers.</td></tr>
 
-  AREV
-     That's not our way.
+<tr id="L316"><td><a href="#L316">316</a></td><td>AREV:  I think you've been told many things about us that aren't true.</td></tr>
 
-  ARCHER
-     They seem to think that it is. That you and your
-     leader believe in a corrupted version of Surak's
-     teachings.
+<tr id="L317"><td><a href="#L317">317</a></td><td>ANNOTATION: The sand-fire blows a hole in the entrance.</td></tr>
 
-  AREV
-     Did your mother tell you the story?
+<tr id="L318"><td><a href="#L318">318</a></td><td>AREV:  Reseal the entrance!</td></tr>
 
-  T'POL
-     Of the IDIC?
+<tr id="L319"><td><a href="#L319">319</a></td><td>ANNOTATION: As they gather the stones, T'Pol is hit by lightning.</td></tr>
 
-  AREV
-     Infinite Diversity in Infinite Combination. Words
-     that are a mere shadow of its true meaning. (she
-     hands it over) Surak tells us that the story of
-     the IDIC has no end. But it begins here, at Mount
-     Seleya.
+<tr id="L320"><td><a href="#L320">320</a></td><td>ARCHER:  T'Pol!</td></tr>
 
-  T'POL
-     Surak died on Mount Seleya.
+<tr id="L321"><td><a href="#L321">321</a></td><td>ANNOTATION: He tends to her.</td></tr>
 
-  AREV
-     His body, yes, but his katra was spirited away
-     before the last battle against those who marched
-     beneath the Raptor's wings. Those who wanted to
-     return to the savage ways.
+<tr id="L322"><td><a href="#L322">322</a></td><td>ARCHER:  Easy, easy, easy.</td></tr>
 
-  ARCHER
-     What's a katra?
+<tr id="L323"><td><a href="#L323">323</a></td><td>AREV:  (at the entrance) Listen. The storm is gaining strength.</td></tr>
 
-  T'POL
-     Syrrannites claim it's the essence of a Vulcan
-     mind. That it can be transferred from the body
-     before death, then stored in some manner.
+<tr id="L324"><td><a href="#L324">324</a></td><td>ANNOTATION: Then he is flung back by another lightning strike. Archer goes to him.</td></tr>
 
-  AREV
-     Some say Surak's katra was found, and now is
-     carried by a Syrrannite so all those who meld with
-     him may touch Surak's mind.
+<tr id="L325"><td><a href="#L325">325</a></td><td>ARCHER:  Arev.</td></tr>
 
-  ARCHER
-     Syrrannite's conduct mind-melding?
+<tr id="L326"><td><a href="#L326">326</a></td><td>AREV:  You must carry it to Sanctuary.</td></tr>
 
-  AREV
-     Surak tells us it is the heritage of every Vulcan.
-     Even those who don't believe in the practise.
+<tr id="L327"><td><a href="#L327">327</a></td><td>ARCHER:  Carry what?</td></tr>
 
+<tr id="L328"><td><a href="#L328">328</a></td><td>ANNOTATION: Arev puts his hand on Archer's face.</td></tr>
 
-LOCATION--Conference room
+<tr id="L329"><td><a href="#L329">329</a></td><td>AREV:  Tuluk to Vokau.</td></tr>
 
-  STEL
-     A witness?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L330"><td><a href="#L330">330</a></td><td>TUCKER:  You can't go back.</td></tr>
 
-  TUCKER
-     The guard recognised the person who brought in the
-     bomb we found in the rubble.
+<tr id="L331"><td><a href="#L331">331</a></td><td>SOVAL:  I'm not a fool, Commander. V'Las was involved with the attack on your embassy. He's responsible for blaming it on the Syrrannites.</td></tr>
 
-  STEL
-     The Syrrannite woman, T'Pau.
+<tr id="L332"><td><a href="#L332">332</a></td><td>TUCKER:  Then why turn yourself over to him?</td></tr>
 
-  SOVAL
-     No. It was you.
+<tr id="L333"><td><a href="#L333">333</a></td><td>SOVAL:  It's the only chance I'll have to reach the rest of the High Command.</td></tr>
 
-  STEL
-     I would like to interrogate this witness myself.
+<tr id="L334"><td><a href="#L334">334</a></td><td>TUCKER:  What if they're all in on it? (silence) If you really want humans and Vulcans to work together someday, you might start thinking about trusting us.</td></tr>
 
-  TUCKER
-     You're not getting anywhere near him.
+<tr id="L335"><td><a href="#L335">335</a></td><td>SOMEONE: SOVAL Peace and long life, Commander.</td></tr>
 
-  V'LAS
-     Perhaps I could speak with the guard.
+<tr id="L336"><td><a href="#L336">336</a></td><td>ANNOTATION: The airlock closes between them.</td></tr>
 
-  PHLOX
-     I'm afraid he's in no condition to be questioned.
-     He's in a coma.
+<tr id="L337"><td><a href="#L337">337</a></td><td>TUCKER:  Right.</td></tr>
 
-  V'LAS
-     Yet he provided an eyewitness account.
+<tr><td></td><td>LOCATION--Cave</td></tr>
+<tr id="L338"><td><a href="#L338">338</a></td><td>ANNOTATION: Archer awakes to see T'Pol wiping his brow.</td></tr>
 
-  TUCKER
-     We accessed his memories through a mind-meld.
+<tr id="L339"><td><a href="#L339">339</a></td><td>ARCHER:  Arev. (sees his body)</td></tr>
 
-  STEL
-     Telepathic evidence is inadmissible.
+<tr id="L340"><td><a href="#L340">340</a></td><td>T'POL:  Are you injured?</td></tr>
 
-  V'LAS
-     It's not evidence at all! You allowed this
-     distasteful act to take place?
+<tr id="L341"><td><a href="#L341">341</a></td><td>ARCHER:  I'm fine. He said something in Vulcan. Vokau.</td></tr>
 
-  SOVAL
-     I performed it.
+<tr id="L342"><td><a href="#L342">342</a></td><td>T'POL:  Remember. Remember what?</td></tr>
 
-  V'LAS
-     Soval. You've shamed Vulcan and yourself. The law
-     leaves me no recourse. You'll be summoned to
-     appear before the High Command to account for your
-     actions. Commander. Doctor.
+<tr id="L343"><td><a href="#L343">343</a></td><td>ARCHER:  I think he punched me. The storm's over?</td></tr>
 
+<tr id="L344"><td><a href="#L344">344</a></td><td>T'POL:  The patrol craft are flying again. They sound like they're closing in on this location.</td></tr>
 
-LOCATION--Cave
+<tr id="L345"><td><a href="#L345">345</a></td><td>ARCHER:  He said we weren't far from the T'Kareth Sanctuary. We should keep moving.</td></tr>
 
-  AREV
-     At one time, the High Command was only responsible
-     for the exploration of space. But that's changed.
+<tr id="L346"><td><a href="#L346">346</a></td><td>T'POL:  After we bury him.</td></tr>
 
-  ARCHER
-     I've been told Vulcans have never been explorers.
+<tr><td></td><td>LOCATION--The Forge - night</td></tr>
+<tr id="L347"><td><a href="#L347">347</a></td><td>ANNOTATION: They are walking along a ridge, when two vapour trails pass overhead.</td></tr>
 
-  AREV
-     I think you've been told many things about us that
-     aren't true.
+<tr id="L348"><td><a href="#L348">348</a></td><td>ARCHER:  They're following a grid search pattern. No sensors, but they can still make visual contact. We have to find cover before the sun comes up. That way.</td></tr>
 
-  ANNOTATION
-     The sand-fire blows a hole in the entrance.
+<tr id="L349"><td><a href="#L349">349</a></td><td>T'POL:  There's nothing there.</td></tr>
 
-  AREV
-     Reseal the entrance!
+<tr id="L350"><td><a href="#L350">350</a></td><td>ARCHER:  That's where the Syrrannites are.</td></tr>
 
-  ANNOTATION
-     As they gather the stones, T'Pol is hit by
-     lightning.
+<tr id="L351"><td><a href="#L351">351</a></td><td>T'POL:  How do you know?</td></tr>
 
-  ARCHER
-     T'Pol!
+<tr id="L352"><td><a href="#L352">352</a></td><td>ANNOTATION: They head down a gully.</td></tr>
 
-  ANNOTATION
-     He tends to her.
+<tr id="L353"><td><a href="#L353">353</a></td><td>ARCHER:  (refusing water) I'm good for a few more days.</td></tr>
 
-  ARCHER
-     Easy, easy, easy.
+<tr id="L354"><td><a href="#L354">354</a></td><td>T'POL:  Captain, you're not Vulcan.</td></tr>
 
-  AREV
-     (at the entrance) Listen. The storm is gaining
-     strength.
+<tr id="L355"><td><a href="#L355">355</a></td><td>ARCHER:  Right.</td></tr>
 
-  ANNOTATION
-     Then he is flung back by another lightning strike.
-     Archer goes to him.
+<tr id="L356"><td><a href="#L356">356</a></td><td>ANNOTATION: He drinks.</td></tr>
 
-  ARCHER
-     Arev.
+<tr id="L357"><td><a href="#L357">357</a></td><td>T'POL:  It's almost dawn. We need to find someplace to hide.</td></tr>
 
-  AREV
-     You must carry it to Sanctuary.
+<tr id="L358"><td><a href="#L358">358</a></td><td>ARCHER:  No. Over here.</td></tr>
 
-  ARCHER
-     Carry what?
+<tr id="L359"><td><a href="#L359">359</a></td><td>ANNOTATION: A rock face.</td></tr>
 
-  ANNOTATION
-     Arev puts his hand on Archer's face.
+<tr id="L360"><td><a href="#L360">360</a></td><td>T'POL:  That won't help us.</td></tr>
 
-  AREV
-     Tuluk to Vokau.
+<tr id="L361"><td><a href="#L361">361</a></td><td>ANNOTATION: He walks through the rock face, and T'Pol follows.</td></tr>
 
+<tr><td></td><td>LOCATION--T'Kareth Sanctuary</td></tr>
+<tr id="L362"><td><a href="#L362">362</a></td><td>ARCHER:  Don't resist.</td></tr>
 
-LOCATION--Corridor
+<tr id="L363"><td><a href="#L363">363</a></td><td>T'POL:  What do you mean?</td></tr>
 
-  TUCKER
-     You can't go back.
+<tr id="L364"><td><a href="#L364">364</a></td><td>ANNOTATION: They are pounced on by an armed group.</td></tr>
 
-  SOVAL
-     I'm not a fool, Commander. V'Las was involved with
-     the attack on your embassy. He's responsible for
-     blaming it on the Syrrannites.
+<tr id="L365"><td><a href="#L365">365</a></td><td>SOMEONE: To Be Continued...</td></tr>
 
-  TUCKER
-     Then why turn yourself over to him?
-
-  SOVAL
-     It's the only chance I'll have to reach the rest
-     of the High Command.
-
-  TUCKER
-     What if they're all in on it? (silence) If you
-     really want humans and Vulcans to work together
-     someday, you might start thinking about trusting
-     us.
-
-  SOMEONE
-     SOVAL Peace and long life, Commander.
-
-  ANNOTATION
-     The airlock closes between them.
-
-  TUCKER
-     Right.
-
-
-LOCATION--Cave
-
-  ANNOTATION
-     Archer awakes to see T'Pol wiping his brow.
-
-  ARCHER
-     Arev. (sees his body)
-
-  T'POL
-     Are you injured?
-
-  ARCHER
-     I'm fine. He said something in Vulcan. Vokau.
-
-  T'POL
-     Remember. Remember what?
-
-  ARCHER
-     I think he punched me. The storm's over?
-
-  T'POL
-     The patrol craft are flying again. They sound like
-     they're closing in on this location.
-
-  ARCHER
-     He said we weren't far from the T'Kareth
-     Sanctuary. We should keep moving.
-
-  T'POL
-     After we bury him.
-
-
-LOCATION--The Forge - night
-
-  ANNOTATION
-     They are walking along a ridge, when two vapour
-     trails pass overhead.
-
-  ARCHER
-     They're following a grid search pattern. No
-     sensors, but they can still make visual contact.
-     We have to find cover before the sun comes up.
-     That way.
-
-  T'POL
-     There's nothing there.
-
-  ARCHER
-     That's where the Syrrannites are.
-
-  T'POL
-     How do you know?
-
-  ANNOTATION
-     They head down a gully.
-
-  ARCHER
-     (refusing water) I'm good for a few more days.
-
-  T'POL
-     Captain, you're not Vulcan.
-
-  ARCHER
-     Right.
-
-  ANNOTATION
-     He drinks.
-
-  T'POL
-     It's almost dawn. We need to find someplace to
-     hide.
-
-  ARCHER
-     No. Over here.
-
-  ANNOTATION
-     A rock face.
-
-  T'POL
-     That won't help us.
-
-  ANNOTATION
-     He walks through the rock face, and T'Pol follows.
-
-
-LOCATION--T'Kareth Sanctuary
-
-  ARCHER
-     Don't resist.
-
-  T'POL
-     What do you mean?
-
-  ANNOTATION
-     They are pounced on by an armed group.
-
-  SOMEONE
-     To Be Continued...
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

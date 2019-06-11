@@ -1,1542 +1,801 @@
-First Flight
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>First Flight</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ARCHER:  This is good timing, Admiral. We just picked up some very interesting sensor readings.</td></tr>
 
-LOCATION--Ready room
+<tr id="L2"><td><a href="#L2">2</a></td><td>FORREST [on monitor]:  I'm afraid I've got some bad news, Jon. It's AG. He was back on Mount McKinley. There was an accident. He was killed. I'm sorry.</td></tr>
 
-  ARCHER
-     This is good timing, Admiral. We just picked up
-     some very interesting sensor readings.
+<tr><td></td><td>LOCATION--Launch bay</td></tr>
+<tr id="L3"><td><a href="#L3">3</a></td><td>TUCKER:  You've got six spatial charges. I rigged them myself.</td></tr>
 
-  FORREST [on monitor]
-     I'm afraid I've got some bad news, Jon. It's AG.
-     He was back on Mount McKinley. There was an
-     accident. He was killed. I'm sorry.
+<tr id="L4"><td><a href="#L4">4</a></td><td>ARCHER:  What are their ranges?</td></tr>
 
+<tr id="L5"><td><a href="#L5">5</a></td><td>TUCKER:  If there's any dark matter within five hundred kilometres, you'll know it.</td></tr>
 
-LOCATION--Launch bay
+<tr id="L6"><td><a href="#L6">6</a></td><td>ARCHER:  Thanks.</td></tr>
 
-  TUCKER
-     You've got six spatial charges. I rigged them
-     myself.
+<tr id="L7"><td><a href="#L7">7</a></td><td>TUCKER:  You sure you don't want some company?</td></tr>
 
-  ARCHER
-     What are their ranges?
+<tr id="L8"><td><a href="#L8">8</a></td><td>ARCHER:  If this nebula exists, we don't know what effect it could have on the shuttlepod.</td></tr>
 
-  TUCKER
-     If there's any dark matter within five hundred
-     kilometres, you'll know it.
+<tr id="L9"><td><a href="#L9">9</a></td><td>TUCKER:  All the more reason to bring your engineer along.</td></tr>
 
-  ARCHER
-     Thanks.
+<tr id="L10"><td><a href="#L10">10</a></td><td>ARCHER:  Not this time, Trip.</td></tr>
 
-  TUCKER
-     You sure you don't want some company?
+<tr id="L11"><td><a href="#L11">11</a></td><td>TUCKER:  I still can't believe it.</td></tr>
 
-  ARCHER
-     If this nebula exists, we don't know what effect
-     it could have on the shuttlepod.
+<tr id="L12"><td><a href="#L12">12</a></td><td>ARCHER:  All the close calls he had flying warp trials, and he gets killed climbing Mount McKinley.</td></tr>
 
-  TUCKER
-     All the more reason to bring your engineer along.
+<tr id="L13"><td><a href="#L13">13</a></td><td>ANNOTATION: Archer gets into Pod One, and Tucker closes the door.</td></tr>
 
-  ARCHER
-     Not this time, Trip.
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L14"><td><a href="#L14">14</a></td><td>ANNOTATION: Archer starts pre-flight checks, and T'Pol enters the pod with a case.</td></tr>
 
-  TUCKER
-     I still can't believe it.
+<tr id="L15"><td><a href="#L15">15</a></td><td>T'POL:  I've brought some sensor enhancements.</td></tr>
 
-  ARCHER
-     All the close calls he had flying warp trials, and
-     he gets killed climbing Mount McKinley.
+<tr id="L16"><td><a href="#L16">16</a></td><td>ARCHER:  Thanks.</td></tr>
 
-  ANNOTATION
-     Archer gets into Pod One, and Tucker closes the
-     door.
+<tr id="L17"><td><a href="#L17">17</a></td><td>T'POL:  We'll find them useful in mapping the nebula, if it's there.</td></tr>
 
+<tr id="L18"><td><a href="#L18">18</a></td><td>ARCHER:  We?</td></tr>
 
-LOCATION--Shuttlepod
+<tr id="L19"><td><a href="#L19">19</a></td><td>T'POL:  This is a scientific mission. It's only logical to bring your Science Officer.</td></tr>
 
-  ANNOTATION
-     Archer starts pre-flight checks, and T'Pol enters
-     the pod with a case.
+<tr id="L20"><td><a href="#L20">20</a></td><td>ARCHER:  I'd prefer to handle this myself.</td></tr>
 
-  T'POL
-     I've brought some sensor enhancements.
+<tr id="L21"><td><a href="#L21">21</a></td><td>T'POL:  Commander Tucker obviously didn't remind you that Starfleet regulations prohibit the Captain from leaving the ship unaccompanied.</td></tr>
 
-  ARCHER
-     Thanks.
+<tr id="L22"><td><a href="#L22">22</a></td><td>ANNOTATION: The shuttlepod launches.</td></tr>
 
-  T'POL
-     We'll find them useful in mapping the nebula, if
-     it's there.
+<tr id="L23"><td><a href="#L23">23</a></td><td>T'POL:  We should reach the edge of the phenomenon in two hours, forty six minutes. I can pass the time by meditating, but if you'd prefer to talk?</td></tr>
 
-  ARCHER
-     We?
+<tr id="L24"><td><a href="#L24">24</a></td><td>ARCHER:  Go ahead and meditate.</td></tr>
 
-  T'POL
-     This is a scientific mission. It's only logical to
-     bring your Science Officer.
+<tr id="L25"><td><a href="#L25">25</a></td><td>T'POL:  Would you like to join me? You seem quite unsettled since your call from Admiral Forrest.</td></tr>
 
-  ARCHER
-     I'd prefer to handle this myself.
+<tr id="L26"><td><a href="#L26">26</a></td><td>ARCHER:  I'm fine.</td></tr>
 
-  T'POL
-     Commander Tucker obviously didn't remind you that
-     Starfleet regulations prohibit the Captain from
-     leaving the ship unaccompanied.
+<tr id="L27"><td><a href="#L27">27</a></td><td>T'POL:  Commander Tucker was reluctant to discuss it as well, though he did mention an old colleague had died.</td></tr>
 
-  ANNOTATION
-     The shuttlepod launches.
+<tr id="L28"><td><a href="#L28">28</a></td><td>ARCHER:  A Starfleet Captain. A. G. Robinson. I wouldn't be out here if it weren't for him.</td></tr>
 
-  T'POL
-     We should reach the edge of the phenomenon in two
-     hours, forty six minutes. I can pass the time by
-     meditating, but if you'd prefer to talk?
+<tr id="L29"><td><a href="#L29">29</a></td><td>T'POL:  I'm somewhat familiar with Starfleet history. I've never heard of a Captain Robinson.</td></tr>
 
-  ARCHER
-     Go ahead and meditate.
+<tr id="L30"><td><a href="#L30">30</a></td><td>ARCHER:  I'm sure there's a paragraph about him in the Vulcan data base. We were in the NX test programme, trying to break the warp two barrier. There was just a few of us. Gardner, Duvall, AG and me. We all wanted the first flight</td></tr>
 
-  T'POL
-     Would you like to join me? You seem quite
-     unsettled since your call from Admiral Forrest.
+<tr><td></td><td>LOCATION--Memory - Starfleet Command, Forrest's office</td></tr>
+<tr id="L31"><td><a href="#L31">31</a></td><td>ARCHER [OC}:  And I was cocky enough to think I'd be the one to get it.</td></tr>
 
-  ARCHER
-     I'm fine.
+<tr id="L32"><td><a href="#L32">32</a></td><td>FORREST:  Come in.</td></tr>
 
-  T'POL
-     Commander Tucker was reluctant to discuss it as
-     well, though he did mention an old colleague had
-     died.
+<tr id="L33"><td><a href="#L33">33</a></td><td>ARCHER:  (our of uniform) Sorry I'm late, Commodore. I came straight from the test bay.</td></tr>
 
-  ARCHER
-     A Starfleet Captain. A. G. Robinson. I wouldn't be
-     out here if it weren't for him.
+<tr id="L34"><td><a href="#L34">34</a></td><td>FORREST:  At ease, Commander. I heard your got the warp reactor up to ninety percent today.</td></tr>
 
-  T'POL
-     I'm somewhat familiar with Starfleet history. I've
-     never heard of a Captain Robinson.
+<tr id="L35"><td><a href="#L35">35</a></td><td>ARCHER:  Ninety two. Sir, you didn't call me here to ask about an engine test. We all know the assignment's about to be handed out. I'm guessing this is either really good news or</td></tr>
 
-  ARCHER
-     I'm sure there's a paragraph about him in the
-     Vulcan data base. We were in the NX test
-     programme, trying to break the warp two barrier.
-     There was just a few of us. Gardner, Duvall, AG
-     and me. We all wanted the first flight
+<tr id="L36"><td><a href="#L36">36</a></td><td>FORREST:  I'm going with Commander Robinson.</td></tr>
 
+<tr id="L37"><td><a href="#L37">37</a></td><td>ARCHER:  AG's a fine pilot.</td></tr>
 
-LOCATION--Memory - Starfleet Command, Forrest's office
+<tr id="L38"><td><a href="#L38">38</a></td><td>FORREST:  It wasn't an easy decision. You'll be backup.</td></tr>
 
-  ARCHER [OC}
-     And I was cocky enough to think I'd be the one to
-     get it.
+<tr id="L39"><td><a href="#L39">39</a></td><td>ARCHER:  Sounds good. You know I spent more time in the simulator than anyone. If I can do anything to help AG prepare for</td></tr>
 
-  FORREST
-     Come in.
+<tr id="L40"><td><a href="#L40">40</a></td><td>FORREST:  Jon. It's your father's engine. I know how important this was to you.</td></tr>
 
-  ARCHER
-     (our of uniform) Sorry I'm late, Commodore. I came
-     straight from the test bay.
+<tr id="L41"><td><a href="#L41">41</a></td><td>ARCHER:  The most important thing to me is that we succeed. Is there anything else?</td></tr>
 
-  FORREST
-     At ease, Commander. I heard your got the warp
-     reactor up to ninety percent today.
+<tr id="L42"><td><a href="#L42">42</a></td><td>FORREST:  No, Commander. Dismissed.</td></tr>
 
-  ARCHER
-     Ninety two. Sir, you didn't call me here to ask
-     about an engine test. We all know the assignment's
-     about to be handed out. I'm guessing this is
-     either really good news or
+<tr><td></td><td>LOCATION--602 Club</td></tr>
+<tr id="L43"><td><a href="#L43">43</a></td><td>ANNOTATION: Archer is sitting alone at table when the waitress brings a plate and takes his empties.</td></tr>
 
-  FORREST
-     I'm going with Commander Robinson.
+<tr id="L44"><td><a href="#L44">44</a></td><td>ARCHER:  Thanks, Ruby.</td></tr>
 
-  ARCHER
-     AG's a fine pilot.
+<tr id="L45"><td><a href="#L45">45</a></td><td>RUBY:  You all right?</td></tr>
 
-  FORREST
-     It wasn't an easy decision. You'll be backup.
+<tr id="L46"><td><a href="#L46">46</a></td><td>ARCHER:  Sure, why?</td></tr>
 
-  ARCHER
-     Sounds good. You know I spent more time in the
-     simulator than anyone. If I can do anything to
-     help AG prepare for
+<tr id="L47"><td><a href="#L47">47</a></td><td>RUBY:  The last time you had this much to drink was the day Caroline moved to New Berlin. My guess is Forrest gave out the assignment today.</td></tr>
 
-  FORREST
-     Jon. It's your father's engine. I know how
-     important this was to you.
+<tr id="L48"><td><a href="#L48">48</a></td><td>ARCHER:  Sherlock Holmes has nothing on you.</td></tr>
 
-  ARCHER
-     The most important thing to me is that we succeed.
-     Is there anything else?
+<tr id="L49"><td><a href="#L49">49</a></td><td>RUBY:  They'll need a pilot for the next flight.</td></tr>
 
-  FORREST
-     No, Commander. Dismissed.
+<tr id="L50"><td><a href="#L50">50</a></td><td>ARCHER:  Do you remember what Buzz Aldrin said when he stepped on the moon?</td></tr>
 
+<tr id="L51"><td><a href="#L51">51</a></td><td>RUBY:  No.</td></tr>
 
-LOCATION--602 Club
+<tr id="L52"><td><a href="#L52">52</a></td><td>ARCHER:  Nobody does, because Armstrong went first.</td></tr>
 
-  ANNOTATION
-     Archer is sitting alone at table when the waitress
-     brings a plate and takes his empties.
+<tr id="L53"><td><a href="#L53">53</a></td><td>ANNOTATION: He goes over to a group at the bar.</td></tr>
 
-  ARCHER
-     Thanks, Ruby.
+<tr id="L54"><td><a href="#L54">54</a></td><td>ARCHER:  Congratulations.</td></tr>
 
-  RUBY
-     You all right?
+<tr id="L55"><td><a href="#L55">55</a></td><td>ANNOTATION: They shakes hands.</td></tr>
 
-  ARCHER
-     Sure, why?
+<tr id="L56"><td><a href="#L56">56</a></td><td>ROBINSON:  You mean that?</td></tr>
 
-  RUBY
-     The last time you had this much to drink was the
-     day Caroline moved to New Berlin. My guess is
-     Forrest gave out the assignment today.
+<tr id="L57"><td><a href="#L57">57</a></td><td>ARCHER:  Of course not. I'm waiting for Forrest to realise what a horrible mistake he made. Until then, let me buy you a drink.</td></tr>
 
-  ARCHER
-     Sherlock Holmes has nothing on you.
+<tr id="L58"><td><a href="#L58">58</a></td><td>ROBINSON:  No, I'll buy you one. Consolation prize. Two more, Leo.</td></tr>
 
-  RUBY
-     They'll need a pilot for the next flight.
+<tr id="L59"><td><a href="#L59">59</a></td><td>LEO:  Here you go.</td></tr>
 
-  ARCHER
-     Do you remember what Buzz Aldrin said when he
-     stepped on the moon?
+<tr id="L60"><td><a href="#L60">60</a></td><td>ARCHER:  To Commander A. G. Robinson. We all worked hard to get this flight, but in the end the best pilot won. Just ask him. AG.</td></tr>
 
-  RUBY
-     No.
+<tr id="L61"><td><a href="#L61">61</a></td><td>ALL:  AG.</td></tr>
 
-  ARCHER
-     Nobody does, because Armstrong went first.
+<tr id="L62"><td><a href="#L62">62</a></td><td>ARCHER:  Take it easy Commander, you're due in the simulator at oh seven hundred. First flight's in two weeks.</td></tr>
 
-  ANNOTATION
-     He goes over to a group at the bar.
+<tr id="L63"><td><a href="#L63">63</a></td><td>ROBINSON:  You know why you didn't get this assignment?</td></tr>
 
-  ARCHER
-     Congratulations.
+<tr id="L64"><td><a href="#L64">64</a></td><td>ARCHER:  I bet you're going to tell me.</td></tr>
 
-  ANNOTATION
-     They shakes hands.
+<tr id="L65"><td><a href="#L65">65</a></td><td>ROBINSON:  You tried too hard. You did everything by the book. You burned the midnight oil in that simulator, eighteen, twenty hour days. You shut everything and everyone out of your life just so you could be the first.</td></tr>
 
-  ROBINSON
-     You mean that?
+<tr id="L66"><td><a href="#L66">66</a></td><td>ARCHER:  And?</td></tr>
 
-  ARCHER
-     Of course not. I'm waiting for Forrest to realise
-     what a horrible mistake he made. Until then, let
-     me buy you a drink.
+<tr id="L67"><td><a href="#L67">67</a></td><td>ROBINSON:  You still don't understand. Starfleet doesn't just want a great pilot. They want a great captain.</td></tr>
 
-  ROBINSON
-     No, I'll buy you one. Consolation prize. Two more,
-     Leo.
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L68"><td><a href="#L68">68</a></td><td>T'POL:  You said Captain Robinson was a close friend.</td></tr>
 
-  LEO
-     Here you go.
+<tr id="L69"><td><a href="#L69">69</a></td><td>ARCHER:  That's right.</td></tr>
 
-  ARCHER
-     To Commander A. G. Robinson. We all worked hard to
-     get this flight, but in the end the best pilot
-     won. Just ask him. AG.
+<tr id="L70"><td><a href="#L70">70</a></td><td>T'POL:  From what you've told me, your relationship seemed adversarial.</td></tr>
 
-  ALL
-     AG.
+<tr id="L71"><td><a href="#L71">71</a></td><td>ARCHER:  Only one of us was going to get to fly that ship. Nothing wrong with a little healthy competition.</td></tr>
 
-  ARCHER
-     Take it easy Commander, you're due in the
-     simulator at oh seven hundred. First flight's in
-     two weeks.
+<tr id="L72"><td><a href="#L72">72</a></td><td>T'POL:  He did have a point. It does take more than piloting ability to command a starship.</td></tr>
 
-  ROBINSON
-     You know why you didn't get this assignment?
+<tr id="L73"><td><a href="#L73">73</a></td><td>ARCHER:  I agree.</td></tr>
 
-  ARCHER
-     I bet you're going to tell me.
+<tr id="L74"><td><a href="#L74">74</a></td><td>T'POL:  Fortunately, you seem to have developed the necessary skills.</td></tr>
 
-  ROBINSON
-     You tried too hard. You did everything by the
-     book. You burned the midnight oil in that
-     simulator, eighteen, twenty hour days. You shut
-     everything and everyone out of your life just so
-     you could be the first.
+<tr id="L75"><td><a href="#L75">75</a></td><td>ARCHER:  Was that a compliment?</td></tr>
 
-  ARCHER
-     And?
+<tr id="L76"><td><a href="#L76">76</a></td><td>T'POL:  An observation. I assume Captain Robinson's flight was successful?</td></tr>
 
-  ROBINSON
-     You still don't understand. Starfleet doesn't just
-     want a great pilot. They want a great captain.
+<tr id="L77"><td><a href="#L77">77</a></td><td>ARCHER:  Not exactly. He was lucky to come out of it in one piece.</td></tr>
 
+<tr><td></td><td>LOCATION--Memory - NX Control room</td></tr>
+<tr id="L78"><td><a href="#L78">78</a></td><td>ANNOTATION: There is an audience of Vulcans, and Commodore Forrest.</td></tr>
 
-LOCATION--Shuttlepod
+<tr id="L79"><td><a href="#L79">79</a></td><td>ROBINSON [OC]:  NX control. I thought we built a warp ship so we could go to warp.</td></tr>
 
-  T'POL
-     You said Captain Robinson was a close friend.
+<tr id="L80"><td><a href="#L80">80</a></td><td>ARCHER:  Maintain your orbit. We're trying to run down a problem with the stabilisation protocols.</td></tr>
 
-  ARCHER
-     That's right.
+<tr id="L81"><td><a href="#L81">81</a></td><td>ROBINSON [OC]:  I saw Italy go by again. If this is going to take much longer, maybe you can send up some food.</td></tr>
 
-  T'POL
-     From what you've told me, your relationship seemed
-     adversarial.
+<tr id="L82"><td><a href="#L82">82</a></td><td>ARCHER:  What can I get you?</td></tr>
 
-  ARCHER
-     Only one of us was going to get to fly that ship.
-     Nothing wrong with a little healthy competition.
+<tr><td></td><td>LOCATION--NX Alpha</td></tr>
+<tr id="L83"><td><a href="#L83">83</a></td><td>ROBINSON:  How about some of those deep fried mushrooms from the 602?</td></tr>
 
-  T'POL
-     He did have a point. It does take more than
-     piloting ability to command a starship.
+<tr><td></td><td>LOCATION--NX Control room</td></tr>
+<tr id="L84"><td><a href="#L84">84</a></td><td>ARCHER:  I'll send Ruby up to take your order.</td></tr>
 
-  ARCHER
-     I agree.
+<tr id="L85"><td><a href="#L85">85</a></td><td>FLIGHT:  We are clear on the stabilisation protocols. Restart countdown at thirty seconds.</td></tr>
 
-  T'POL
-     Fortunately, you seem to have developed the
-     necessary skills.
+<tr id="L86"><td><a href="#L86">86</a></td><td>ARCHER:  Good news AG. I just got word from the powers that be that you're good to go.</td></tr>
 
-  ARCHER
-     Was that a compliment?
+<tr><td></td><td>LOCATION--NX Alpha</td></tr>
+<tr id="L87"><td><a href="#L87">87</a></td><td>ROBINSON:  Acknowledged. WSP is nominal. APU's are good.</td></tr>
 
-  T'POL
-     An observation. I assume Captain Robinson's flight
-     was successful?
+<tr><td></td><td>LOCATION--NX Control room</td></tr>
+<tr id="L88"><td><a href="#L88">88</a></td><td>ARCHER:  Warp field initialisation in twenty seconds.</td></tr>
 
-  ARCHER
-     Not exactly. He was lucky to come out of it in one
-     piece.
+<tr><td></td><td>LOCATION--NX Alpha</td></tr>
+<tr id="L89"><td><a href="#L89">89</a></td><td>ROBINSON:  I'm breaking orbit. At least the thrusters work. I did get a little variance on the RCS.</td></tr>
 
+<tr><td></td><td>LOCATION--NX Control room</td></tr>
+<tr id="L90"><td><a href="#L90">90</a></td><td>ANNOTATION: Archer checks the large wall display of NX-A.</td></tr>
 
-LOCATION--Memory - NX Control room
+<tr id="L91"><td><a href="#L91">91</a></td><td>ARCHER:  We noticed that here. Do you want to bring her back to the garage?</td></tr>
 
-  ANNOTATION
-     There is an audience of Vulcans, and Commodore
-     Forrest.
+<tr><td></td><td>LOCATION--NX Alpha</td></tr>
+<tr id="L92"><td><a href="#L92">92</a></td><td>ROBINSON:  Not on your life.</td></tr>
 
-  ROBINSON [OC]
-     NX control. I thought we built a warp ship so we
-     could go to warp.
+<tr><td></td><td>LOCATION--NX Control room</td></tr>
+<tr id="L93"><td><a href="#L93">93</a></td><td>FLIGHT:  We've got an stable warp field.</td></tr>
 
-  ARCHER
-     Maintain your orbit. We're trying to run down a
-     problem with the stabilisation protocols.
+<tr id="L94"><td><a href="#L94">94</a></td><td>ARCHER:  NX control to NX Alpha. You have my permission to go to warp.</td></tr>
 
-  ROBINSON [OC]
-     I saw Italy go by again. If this is going to take
-     much longer, maybe you can send up some food.
+<tr><td></td><td>LOCATION--NX Alpha</td></tr>
+<tr id="L95"><td><a href="#L95">95</a></td><td>ROBINSON:  See you in a few light years.</td></tr>
 
-  ARCHER
-     What can I get you?
+<tr><td></td><td>LOCATION--NX Control room</td></tr>
+<tr id="L96"><td><a href="#L96">96</a></td><td>ARCHER:  Warp one. One point five. That little bump you just felt was warp two. Congratulations. Now let's see if you can get it up to two point one.</td></tr>
 
+<tr><td></td><td>LOCATION--NX Alpha</td></tr>
+<tr id="L97"><td><a href="#L97">97</a></td><td>ROBINSON:  She's getting a little shaky.</td></tr>
 
-LOCATION--NX Alpha
+<tr><td></td><td>LOCATION--NX Control room</td></tr>
+<tr id="L98"><td><a href="#L98">98</a></td><td>ROBINSON [OC]:  Are you sure you've got that stabilisation problem ironed out?</td></tr>
 
-  ROBINSON
-     How about some of those deep fried mushrooms from
-     the 602?
+<tr id="L99"><td><a href="#L99">99</a></td><td>FLIGHT:  Field integrity's down to twenty percent.</td></tr>
 
+<tr id="L100"><td><a href="#L100">100</a></td><td>VULCAN:  The warp field won't hold.</td></tr>
 
-LOCATION--NX Control room
+<tr id="L101"><td><a href="#L101">101</a></td><td>ARCHER:  AG, we're getting some pretty unusual telemetry down here. We need you to go sublight until we get this sorted out.</td></tr>
 
-  ARCHER
-     I'll send Ruby up to take your order.
+<tr id="L102"><td><a href="#L102">102</a></td><td>ANNOTATION: An alarm sounds.</td></tr>
 
-  FLIGHT
-     We are clear on the stabilisation protocols.
-     Restart countdown at thirty seconds.
+<tr><td></td><td>LOCATION--NX Alpha</td></tr>
+<tr id="L103"><td><a href="#L103">103</a></td><td>ARCHER [OC]:  Did you hear me?</td></tr>
 
-  ARCHER
-     Good news AG. I just got word from the powers that
-     be that you're good to go.
+<tr id="L104"><td><a href="#L104">104</a></td><td>ROBINSON:  I'm at two point one. I think I can get more out of her.</td></tr>
 
+<tr id="L105"><td><a href="#L105">105</a></td><td>ARCHER [OC]:  Negative. Abort!</td></tr>
 
-LOCATION--NX Alpha
+<tr><td></td><td>LOCATION--NX Control room</td></tr>
+<tr id="L106"><td><a href="#L106">106</a></td><td>ARCHER:  Warp two point one five.</td></tr>
 
-  ROBINSON
-     Acknowledged. WSP is nominal. APU's are good.
+<tr id="L107"><td><a href="#L107">107</a></td><td>FORREST:  This is Forrest. Drop to impulse, that's an order!</td></tr>
 
+<tr id="L108"><td><a href="#L108">108</a></td><td>ARCHER:  Two point two.</td></tr>
 
-LOCATION--NX Control room
+<tr><td></td><td>LOCATION--NX Alpha</td></tr>
+<tr id="L109"><td><a href="#L109">109</a></td><td>ROBINSON:  The field's collapsing!</td></tr>
 
-  ARCHER
-     Warp field initialisation in twenty seconds.
+<tr id="L110"><td><a href="#L110">110</a></td><td>ARCHER [OC]:  AG, you've got to get out of there.</td></tr>
 
+<tr id="L111"><td><a href="#L111">111</a></td><td>ANNOTATION: NX Alpha drops out of warp near Jupiter and explodes.</td></tr>
 
-LOCATION--NX Alpha
+<tr><td></td><td>LOCATION--NX Control room</td></tr>
+<tr id="L112"><td><a href="#L112">112</a></td><td>FLIGHT:  We've lost telemetry.</td></tr>
 
-  ROBINSON
-     I'm breaking orbit. At least the thrusters work. I
-     did get a little variance on the RCS.
+<tr id="L113"><td><a href="#L113">113</a></td><td>ARCHER:  NX Control to NX Alpha, come in. AG, can you hear me?</td></tr>
 
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L114"><td><a href="#L114">114</a></td><td>T'POL:  Particle density is increasing.</td></tr>
 
-LOCATION--NX Control room
+<tr id="L115"><td><a href="#L115">115</a></td><td>ARCHER:  We should be entering the nebula.</td></tr>
 
-  ANNOTATION
-     Archer checks the large wall display of NX-A.
+<tr id="L116"><td><a href="#L116">116</a></td><td>T'POL:  The readings could be misleading.</td></tr>
 
-  ARCHER
-     We noticed that here. Do you want to bring her
-     back to the garage?
+<tr id="L117"><td><a href="#L117">117</a></td><td>ARCHER:  As Doctor Phlox would say, optimism.</td></tr>
 
+<tr id="L118"><td><a href="#L118">118</a></td><td>T'POL:  Optimism doesn't alter the law of physics.</td></tr>
 
-LOCATION--NX Alpha
+<tr id="L119"><td><a href="#L119">119</a></td><td>ARCHER:  Time to put Trip's charges to the test. Three seconds.</td></tr>
 
-  ROBINSON
-     Not on your life.
+<tr id="L120"><td><a href="#L120">120</a></td><td>ANNOTATION: Two charges explode, making purple patterns.</td></tr>
 
+<tr id="L121"><td><a href="#L121">121</a></td><td>ARCHER:  Anything?</td></tr>
 
-LOCATION--NX Control room
+<tr id="L122"><td><a href="#L122">122</a></td><td>ANNOTATION: She checks the sensor display in her case, and shakes her head.</td></tr>
 
-  FLIGHT
-     We've got an stable warp field.
+<tr id="L123"><td><a href="#L123">123</a></td><td>ARCHER:  We need to move deeper into the nebula, if it exists.</td></tr>
 
-  ARCHER
-     NX control to NX Alpha. You have my permission to
-     go to warp.
+<tr id="L124"><td><a href="#L124">124</a></td><td>T'POL:  What happened?</td></tr>
 
+<tr id="L125"><td><a href="#L125">125</a></td><td>ARCHER:  The field emissions on the charges could have been too low, or maybe we're just on a wild goose chase.</td></tr>
 
-LOCATION--NX Alpha
+<tr id="L126"><td><a href="#L126">126</a></td><td>T'POL:  I was referring to Captain Robinson. His test flight.</td></tr>
 
-  ROBINSON
-     See you in a few light years.
+<tr id="L127"><td><a href="#L127">127</a></td><td>ARCHER:  He made the record books for being the first person to deploy an escape pod at warp, but he lost one of two NX prototypes. Nearly derailed the entire programme.</td></tr>
 
+<tr><td></td><td>LOCATION--Memory - NX Hanger</td></tr>
+<tr id="L128"><td><a href="#L128">128</a></td><td>ARCHER:  Are you all right?</td></tr>
 
-LOCATION--NX Control room
+<tr id="L129"><td><a href="#L129">129</a></td><td>ROBINSON:  A little shaky. Trust me, you don't want to pass through the warp barrier in one of those. Should make a nice addition to the Starfleet Museum.</td></tr>
 
-  ARCHER
-     Warp one. One point five. That little bump you
-     just felt was warp two. Congratulations. Now let's
-     see if you can get it up to two point one.
+<tr id="L130"><td><a href="#L130">130</a></td><td>FORREST:  What went wrong?</td></tr>
 
+<tr id="L131"><td><a href="#L131">131</a></td><td>ROBINSON:  I'm not sure, sir. The closer I got to two point two, the more trouble I had keeping the field stable.</td></tr>
 
-LOCATION--NX Alpha
+<tr id="L132"><td><a href="#L132">132</a></td><td>ARCHER:  You where ordered to abort.</td></tr>
 
-  ROBINSON
-     She's getting a little shaky.
+<tr id="L133"><td><a href="#L133">133</a></td><td>ROBINSON:  The abort call was premature. We had some instability on the previous tests, but it always settled down.</td></tr>
 
+<tr id="L134"><td><a href="#L134">134</a></td><td>VULCAN:  Your engine design is obviously unsound.</td></tr>
 
-LOCATION--NX Control room
+<tr id="L135"><td><a href="#L135">135</a></td><td>ANNOTATION: Tucker comes down some steps.</td></tr>
 
-  ROBINSON [OC]
-     Are you sure you've got that stabilisation problem
-     ironed out?
+<tr id="L136"><td><a href="#L136">136</a></td><td>TUCKER:  There's nothing wrong with that engine.</td></tr>
 
-  FLIGHT
-     Field integrity's down to twenty percent.
+<tr id="L137"><td><a href="#L137">137</a></td><td>FORREST:  You have something to add, Lieutenant?</td></tr>
 
-  VULCAN
-     The warp field won't hold.
+<tr id="L138"><td><a href="#L138">138</a></td><td>TUCKER:  Tucker, sir. I'm on Captain Jefferies' Engineering team. We've never pumped this much antimatter through the injectors before. It's going to take us a little time to get the intermix right.</td></tr>
 
-  ARCHER
-     AG, we're getting some pretty unusual telemetry
-     down here. We need you to go sublight until we get
-     this sorted out.
+<tr id="L139"><td><a href="#L139">139</a></td><td>VULCAN:  That's precisely the point. Your programme is moving too quickly.</td></tr>
 
-  ANNOTATION
-     An alarm sounds.
+<tr id="L140"><td><a href="#L140">140</a></td><td>TUCKER:  Just because it took you a hundred years to crack warp two doesn't mean it'll take us that long.</td></tr>
 
+<tr id="L141"><td><a href="#L141">141</a></td><td>FORREST:  Lieutenant!</td></tr>
 
-LOCATION--NX Alpha
+<tr id="L142"><td><a href="#L142">142</a></td><td>TUCKER:  Sorry, sir.</td></tr>
 
-  ARCHER [OC]
-     Did you hear me?
+<tr id="L143"><td><a href="#L143">143</a></td><td>ARCHER:  He's right. This is a new engine. It's bound to have a few bugs to work out.</td></tr>
 
-  ROBINSON
-     I'm at two point one. I think I can get more out
-     of her.
+<tr id="L144"><td><a href="#L144">144</a></td><td>VULCAN:  Those bugs just scattered your ship across five thousand kilometres of space, and nearly killed your pilot.</td></tr>
 
-  ARCHER [OC]
-     Negative. Abort!
+<tr id="L145"><td><a href="#L145">145</a></td><td>ROBINSON:  We're not going to get anywhere without taking some risks.</td></tr>
 
+<tr id="L146"><td><a href="#L146">146</a></td><td>FORREST:  I know where you stand on this, Commander.</td></tr>
 
-LOCATION--NX Control room
+<tr id="L147"><td><a href="#L147">147</a></td><td>ARCHER:  We've got a lot of data to analyse before we know what happened. We should be grateful we only lost the ship.</td></tr>
 
-  ARCHER
-     Warp two point one five.
+<tr><td></td><td>LOCATION--602 club</td></tr>
+<tr id="L148"><td><a href="#L148">148</a></td><td>TUCKER:  Cyrus.</td></tr>
 
-  FORREST
-     This is Forrest. Drop to impulse, that's an order!
+<tr id="L149"><td><a href="#L149">149</a></td><td>ANNOTATION: Ruby delivers beers to their table.</td></tr>
 
-  ARCHER
-     Two point two.
+<tr id="L150"><td><a href="#L150">150</a></td><td>RUBY:  Cyrus.</td></tr>
 
+<tr id="L151"><td><a href="#L151">151</a></td><td>ARCHER:  Who's Cyrus?</td></tr>
 
-LOCATION--NX Alpha
+<tr id="L152"><td><a href="#L152">152</a></td><td>TUCKER:  It was my great grandfather's name.</td></tr>
 
-  ROBINSON
-     The field's collapsing!
+<tr id="L153"><td><a href="#L153">153</a></td><td>RUBY:  Keep trying, Tucker.</td></tr>
 
-  ARCHER [OC]
-     AG, you've got to get out of there.
+<tr id="L154"><td><a href="#L154">154</a></td><td>TUCKER:  Chester. How about Rosalie if it's a girl? Come on, give me a hint.</td></tr>
 
-  ANNOTATION
-     NX Alpha drops out of warp near Jupiter and
-     explodes.
+<tr id="L155"><td><a href="#L155">155</a></td><td>ANNOTATION: Ruby leaves them.</td></tr>
 
+<tr id="L156"><td><a href="#L156">156</a></td><td>TUCKER:  She's had names for her kids picked out since she was ten. Says she'll marry the first man to guess them.</td></tr>
 
-LOCATION--NX Control room
+<tr id="L157"><td><a href="#L157">157</a></td><td>ARCHER:  What's your name, Lieutenant?</td></tr>
 
-  FLIGHT
-     We've lost telemetry.
+<tr id="L158"><td><a href="#L158">158</a></td><td>TUCKER:  Charles Tucker, sir, but everyone calls me Trip.</td></tr>
 
-  ARCHER
-     NX Control to NX Alpha, come in. AG, can you hear
-     me?
+<tr id="L159"><td><a href="#L159">159</a></td><td>ARCHER:  Trip?</td></tr>
 
+<tr id="L160"><td><a href="#L160">160</a></td><td>TUCKER:  My dad's Charles Tucker, and so was his dad. That makes me the third, so triple. Trip.</td></tr>
 
-LOCATION--Shuttlepod
+<tr id="L161"><td><a href="#L161">161</a></td><td>ARCHER:  Thanks with your help today with our Vulcan friends, Trip. My father would have appreciated it.</td></tr>
 
-  T'POL
-     Particle density is increasing.
+<tr id="L162"><td><a href="#L162">162</a></td><td>TUCKER:  I don't get it. It's like they want us to fail.</td></tr>
 
-  ARCHER
-     We should be entering the nebula.
+<tr id="L163"><td><a href="#L163">163</a></td><td>FORREST:  I gave up trying to figure out the Vulcans a long time ago.</td></tr>
 
-  T'POL
-     The readings could be misleading.
+<tr id="L164"><td><a href="#L164">164</a></td><td>ANNOTATION: The pair stand.</td></tr>
 
-  ARCHER
-     As Doctor Phlox would say, optimism.
+<tr id="L165"><td><a href="#L165">165</a></td><td>ARCHER:  Commodore.</td></tr>
 
-  T'POL
-     Optimism doesn't alter the law of physics.
+<tr id="L166"><td><a href="#L166">166</a></td><td>FORREST:  At ease. May I?</td></tr>
 
-  ARCHER
-     Time to put Trip's charges to the test. Three
-     seconds.
+<tr id="L167"><td><a href="#L167">167</a></td><td>ARCHER:  Of course. (all sit)</td></tr>
 
-  ANNOTATION
-     Two charges explode, making purple patterns.
+<tr id="L168"><td><a href="#L168">168</a></td><td>TUCKER:  Can I buy you a drink, sir?</td></tr>
 
-  ARCHER
-     Anything?
+<tr id="L169"><td><a href="#L169">169</a></td><td>FORREST:  It's the least you can do after that outburst today.</td></tr>
 
-  ANNOTATION
-     She checks the sensor display in her case, and
-     shakes her head.
+<tr id="L170"><td><a href="#L170">170</a></td><td>TUCKER:  I'm sorry, sir, I didn't mean to</td></tr>
 
-  ARCHER
-     We need to move deeper into the nebula, if it
-     exists.
+<tr id="L171"><td><a href="#L171">171</a></td><td>FORREST:  I'll have a beer, Mister Tucker.</td></tr>
 
-  T'POL
-     What happened?
+<tr id="L172"><td><a href="#L172">172</a></td><td>ANNOTATION: He unzips his jacket and loosens his tie.</td></tr>
 
-  ARCHER
-     The field emissions on the charges could have been
-     too low, or maybe we're just on a wild goose
-     chase.
+<tr id="L173"><td><a href="#L173">173</a></td><td>FORREST:  It's been a while since I've been in here. I see it hasn't changed much.</td></tr>
 
-  T'POL
-     I was referring to Captain Robinson. His test
-     flight.
+<tr id="L174"><td><a href="#L174">174</a></td><td>ARCHER:  Is there something on your mind, Sir?</td></tr>
 
-  ARCHER
-     He made the record books for being the first
-     person to deploy an escape pod at warp, but he
-     lost one of two NX prototypes. Nearly derailed the
-     entire programme.
+<tr id="L175"><td><a href="#L175">175</a></td><td>FORREST:  I came here to tell you at the urging of the Vulcan Advisory Council, that Starfleet Command has decided to put the NX programme on hold.</td></tr>
 
+<tr id="L176"><td><a href="#L176">176</a></td><td>ARCHER:  For how long?</td></tr>
 
-LOCATION--Memory - NX Hanger
+<tr id="L177"><td><a href="#L177">177</a></td><td>FORREST:  Indefinitely.</td></tr>
 
-  ARCHER
-     Are you all right?
+<tr id="L178"><td><a href="#L178">178</a></td><td>RUBY:  Gentlemen?</td></tr>
 
-  ROBINSON
-     A little shaky. Trust me, you don't want to pass
-     through the warp barrier in one of those. Should
-     make a nice addition to the Starfleet Museum.
+<tr id="L179"><td><a href="#L179">179</a></td><td>TUCKER:  One beer.</td></tr>
 
-  FORREST
-     What went wrong?
+<tr id="L180"><td><a href="#L180">180</a></td><td>ARCHER:  What do you mean, indefinitely?</td></tr>
 
-  ROBINSON
-     I'm not sure, sir. The closer I got to two point
-     two, the more trouble I had keeping the field
-     stable.
+<tr id="L181"><td><a href="#L181">181</a></td><td>FORREST:  They want to go back to the drawing board, Jon. Develop a new engine from scratch.</td></tr>
 
-  ARCHER
-     You where ordered to abort.
+<tr id="L182"><td><a href="#L182">182</a></td><td>ARCHER:  We have an engine that works now. If we start over, it'll be decades before we get into deep space.</td></tr>
 
-  ROBINSON
-     The abort call was premature. We had some
-     instability on the previous tests, but it always
-     settled down.
+<tr id="L183"><td><a href="#L183">183</a></td><td>FORREST:  Starfleet's made its decision.</td></tr>
 
-  VULCAN
-     Your engine design is obviously unsound.
+<tr id="L184"><td><a href="#L184">184</a></td><td>TUCKER:  Permission to speak freely, sir? It's your father's engine. His life's work. You can't let them do this.</td></tr>
 
-  ANNOTATION
-     Tucker comes down some steps.
+<tr id="L185"><td><a href="#L185">185</a></td><td>ANNOTATION: Later, Forrest has left and it's raining outside, but the pair are still drinking. Robinson comes in and hanging up his traditional leather flight jacket.</td></tr>
 
-  TUCKER
-     There's nothing wrong with that engine.
+<tr id="L186"><td><a href="#L186">186</a></td><td>ROBINSON:  Bourbon, straight up.</td></tr>
 
-  FORREST
-     You have something to add, Lieutenant?
+<tr id="L187"><td><a href="#L187">187</a></td><td>ARCHER:  I suppose you heard.</td></tr>
 
-  TUCKER
-     Tucker, sir. I'm on Captain Jefferies' Engineering
-     team. We've never pumped this much antimatter
-     through the injectors before. It's going to take
-     us a little time to get the intermix right.
+<tr id="L188"><td><a href="#L188">188</a></td><td>ROBINSON:  This is really going to throw a wrench in my career plans.</td></tr>
 
-  VULCAN
-     That's precisely the point. Your programme is
-     moving too quickly.
+<tr id="L189"><td><a href="#L189">189</a></td><td>ANNOTATION: Ruby delivers glass.</td></tr>
 
-  TUCKER
-     Just because it took you a hundred years to crack
-     warp two doesn't mean it'll take us that long.
+<tr id="L190"><td><a href="#L190">190</a></td><td>ROBINSON:  Thanks.</td></tr>
 
-  FORREST
-     Lieutenant!
+<tr id="L191"><td><a href="#L191">191</a></td><td>RUBY:  Last call. Anything else?</td></tr>
 
-  TUCKER
-     Sorry, sir.
+<tr id="L192"><td><a href="#L192">192</a></td><td>ROBINSON:  I'll have another.</td></tr>
 
-  ARCHER
-     He's right. This is a new engine. It's bound to
-     have a few bugs to work out.
+<tr id="L193"><td><a href="#L193">193</a></td><td>ARCHER:  Where have you been all day?</td></tr>
 
-  VULCAN
-     Those bugs just scattered your ship across five
-     thousand kilometres of space, and nearly killed
-     your pilot.
+<tr id="L194"><td><a href="#L194">194</a></td><td>ROBINSON:  Debriefing. After the flight surgeons were done with me I got hauled in front of the Starfleet senior staff and the Vulcans.</td></tr>
 
-  ROBINSON
-     We're not going to get anywhere without taking
-     some risks.
+<tr id="L195"><td><a href="#L195">195</a></td><td>TUCKER:  What'd you tell them?</td></tr>
 
-  FORREST
-     I know where you stand on this, Commander.
+<tr id="L196"><td><a href="#L196">196</a></td><td>ROBINSON:  What do you think? The subspace field destabilised at warp two point two. Primary flight controls failed, resulting in the loss of the vehicle.</td></tr>
 
-  ARCHER
-     We've got a lot of data to analyse before we know
-     what happened. We should be grateful we only lost
-     the ship.
+<tr id="L197"><td><a href="#L197">197</a></td><td>TUCKER:  Aren't you forgetting something?</td></tr>
 
+<tr id="L198"><td><a href="#L198">198</a></td><td>ROBINSON:  What?</td></tr>
 
-LOCATION--602 club
+<tr id="L199"><td><a href="#L199">199</a></td><td>TUCKER:  The possibility of pilot error.</td></tr>
 
-  TUCKER
-     Cyrus.
+<tr id="L200"><td><a href="#L200">200</a></td><td>ROBINSON:  I'm not interested in your opinion, Lieutenant.</td></tr>
 
-  ANNOTATION
-     Ruby delivers beers to their table.
+<tr id="L201"><td><a href="#L201">201</a></td><td>ARCHER:  You should be. The Vulcans have been leaning on Starfleet for years to rein in this programme. You walked in there today, ruled out pilot error, and told them just what they wanted to hear. Our engine doesn't work.</td></tr>
 
-  RUBY
-     Cyrus.
+<tr id="L202"><td><a href="#L202">202</a></td><td>ROBINSON:  Sorry to be the bearer of bad news, Archer, but it doesn't work.</td></tr>
 
-  ARCHER
-     Who's Cyrus?
+<tr id="L203"><td><a href="#L203">203</a></td><td>TUCKER:  The engine's sound. We just need more time to balance the intermix.</td></tr>
 
-  TUCKER
-     It was my great grandfather's name.
+<tr id="L204"><td><a href="#L204">204</a></td><td>ROBINSON:  We need more than time.</td></tr>
 
-  RUBY
-     Keep trying, Tucker.
+<tr id="L205"><td><a href="#L205">205</a></td><td>ARCHER:  I agree. We need a pilot who listens to orders. If you aborted, we'd still have a ship and probably another chance.</td></tr>
 
-  TUCKER
-     Chester. How about Rosalie if it's a girl? Come
-     on, give me a hint.
+<tr id="L206"><td><a href="#L206">206</a></td><td>ROBINSON:  Another chance to what, get killed?</td></tr>
 
-  ANNOTATION
-     Ruby leaves them.
+<tr id="L207"><td><a href="#L207">207</a></td><td>ARCHER:  At the first sign of trouble, you should've throttled down.</td></tr>
 
-  TUCKER
-     She's had names for her kids picked out since she
-     was ten. Says she'll marry the first man to guess
-     them.
+<tr id="L208"><td><a href="#L208">208</a></td><td>ROBINSON:  It wouldn't have made a damn bit of difference.</td></tr>
 
-  ARCHER
-     What's your name, Lieutenant?
+<tr id="L209"><td><a href="#L209">209</a></td><td>ARCHER:  I guess we'll never find out.</td></tr>
 
-  TUCKER
-     Charles Tucker, sir, but everyone calls me Trip.
+<tr id="L210"><td><a href="#L210">210</a></td><td>ROBINSON:  You weren't in that cockpit.</td></tr>
 
-  ARCHER
-     Trip?
+<tr id="L211"><td><a href="#L211">211</a></td><td>ARCHER:  There's nothing wrong with that ship!</td></tr>
 
-  TUCKER
-     My dad's Charles Tucker, and so was his dad. That
-     makes me the third, so triple. Trip.
+<tr id="L212"><td><a href="#L212">212</a></td><td>ROBINSON:  There's plenty wrong. You just refuse to see it.</td></tr>
 
-  ARCHER
-     Thanks with your help today with our Vulcan
-     friends, Trip. My father would have appreciated
-     it.
+<tr id="L213"><td><a href="#L213">213</a></td><td>ARCHER:  What the hell's that supposed to mean?</td></tr>
 
-  TUCKER
-     I don't get it. It's like they want us to fail.
+<tr id="L214"><td><a href="#L214">214</a></td><td>ROBINSON:  Every time there's a problem with this project, you blame it on pilot error or gravitational anomalies, or some technical malfunction. Well, you're going to have to face the truth this time, because there's nothing left to point an finger at. Your father designed a lousy engine.</td></tr>
 
-  FORREST
-     I gave up trying to figure out the Vulcans a long
-     time ago.
+<tr id="L215"><td><a href="#L215">215</a></td><td>ANNOTATION: This starts a fist fight.</td></tr>
 
-  ANNOTATION
-     The pair stand.
+<tr id="L216"><td><a href="#L216">216</a></td><td>RUBY:  That's enough! (to Tucker) Do something!</td></tr>
 
-  ARCHER
-     Commodore.
+<tr id="L217"><td><a href="#L217">217</a></td><td>TUCKER:  Come on, come on, break it up.</td></tr>
 
-  FORREST
-     At ease. May I?
+<tr id="L218"><td><a href="#L218">218</a></td><td>ANNOTATION: Tucker restrains Archer while two other guys get Robinson.</td></tr>
 
-  ARCHER
-     Of course. (all sit)
+<tr id="L219"><td><a href="#L219">219</a></td><td>TUCKER:  Break it up!</td></tr>
 
-  TUCKER
-     Can I buy you a drink, sir?
+<tr id="L220"><td><a href="#L220">220</a></td><td>RUBY:  Do you think this is going to get either of you any closer to warp five?</td></tr>
 
-  FORREST
-     It's the least you can do after that outburst
-     today.
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L221"><td><a href="#L221">221</a></td><td>T'POL:  The fight was interrupted?</td></tr>
 
-  TUCKER
-     I'm sorry, sir, I didn't mean to
+<tr id="L222"><td><a href="#L222">222</a></td><td>ARCHER:  Not before I got two bruised ribs and a cracked molar.</td></tr>
 
-  FORREST
-     I'll have a beer, Mister Tucker.
+<tr id="L223"><td><a href="#L223">223</a></td><td>T'POL:  I suppose we'll never know. Who would have won.</td></tr>
 
-  ANNOTATION
-     He unzips his jacket and loosens his tie.
+<tr id="L224"><td><a href="#L224">224</a></td><td>ANNOTATION: An alarm sounds.</td></tr>
 
-  FORREST
-     It's been a while since I've been in here. I see
-     it hasn't changed much.
+<tr id="L225"><td><a href="#L225">225</a></td><td>T'POL:  Main power is fluctuating.</td></tr>
 
-  ARCHER
-     Is there something on your mind, Sir?
+<tr id="L226"><td><a href="#L226">226</a></td><td>ARCHER:  It's all right. Auxiliary's kicking in.</td></tr>
 
-  FORREST
-     I came here to tell you at the urging of the
-     Vulcan Advisory Council, that Starfleet Command
-     has decided to put the NX programme on hold.
+<tr id="L227"><td><a href="#L227">227</a></td><td>T'POL:  There was a surge in the EPS grid.</td></tr>
 
-  ARCHER
-     For how long?
+<tr id="L228"><td><a href="#L228">228</a></td><td>ARCHER:  We must be getting close. Trip said the dark matter might affect the shuttle's systems. He'll be happy to hear he was right.</td></tr>
 
-  FORREST
-     Indefinitely.
+<tr id="L229"><td><a href="#L229">229</a></td><td>T'POL:  It was probably nothing more than a simple malfunction.</td></tr>
 
-  RUBY
-     Gentlemen?
+<tr id="L230"><td><a href="#L230">230</a></td><td>ARCHER:  I don't think so. Our pre-launch checks were all fine. Something else caused that surge.</td></tr>
 
-  TUCKER
-     One beer.
+<tr id="L231"><td><a href="#L231">231</a></td><td>T'POL:  I'm not detecting any dark matter.</td></tr>
 
-  ARCHER
-     What do you mean, indefinitely?
+<tr id="L232"><td><a href="#L232">232</a></td><td>ARCHER:  Have a little faith, T'Pol.</td></tr>
 
-  FORREST
-     They want to go back to the drawing board, Jon.
-     Develop a new engine from scratch.
+<tr id="L233"><td><a href="#L233">233</a></td><td>T'POL:  Even if you're right, it may be dangerous to proceed. Another surge could disable life support.</td></tr>
 
-  ARCHER
-     We have an engine that works now. If we start
-     over, it'll be decades before we get into deep
-     space.
+<tr id="L234"><td><a href="#L234">234</a></td><td>ARCHER:  One thing I learned from AG. You're never going to get anywhere without taking risks.</td></tr>
 
-  FORREST
-     Starfleet's made its decision.
+<tr id="L235"><td><a href="#L235">235</a></td><td>T'POL:  You obviously admired this man.</td></tr>
 
-  TUCKER
-     Permission to speak freely, sir? It's your
-     father's engine. His life's work. You can't let
-     them do this.
+<tr id="L236"><td><a href="#L236">236</a></td><td>ARCHER:  Quite a bit.</td></tr>
 
-  ANNOTATION
-     Later, Forrest has left and it's raining outside,
-     but the pair are still drinking. Robinson comes in
-     and hanging up his traditional leather flight
-     jacket.
+<tr id="L237"><td><a href="#L237">237</a></td><td>T'POL:  And yet he cracked your molar.</td></tr>
 
-  ROBINSON
-     Bourbon, straight up.
+<tr id="L238"><td><a href="#L238">238</a></td><td>ARCHER:  Humans can have funny ways of forming friendships.</td></tr>
 
-  ARCHER
-     I suppose you heard.
+<tr id="L239"><td><a href="#L239">239</a></td><td>T'POL:  To say the least.</td></tr>
 
-  ROBINSON
-     This is really going to throw a wrench in my
-     career plans.
+<tr id="L240"><td><a href="#L240">240</a></td><td>ARCHER:  He would have loved it out here. Too bad he never got the chance. God knows he earned it.</td></tr>
 
-  ANNOTATION
-     Ruby delivers glass.
+<tr id="L241"><td><a href="#L241">241</a></td><td>T'POL:  I thought you said he was responsible for nearly ending the programme.</td></tr>
 
-  ROBINSON
-     Thanks.
+<tr id="L242"><td><a href="#L242">242</a></td><td>ARCHER:  He was also responsible for getting it back on course, with a little help from me and Trip.</td></tr>
 
-  RUBY
-     Last call. Anything else?
+<tr><td></td><td>LOCATION--Memory - NX Locker room</td></tr>
+<tr id="L243"><td><a href="#L243">243</a></td><td>ANNOTATION: AG is clearing out his locker.</td></tr>
 
-  ROBINSON
-     I'll have another.
+<tr id="L244"><td><a href="#L244">244</a></td><td>ARCHER:  I see you're not losing any time.</td></tr>
 
-  ARCHER
-     Where have you been all day?
+<tr id="L245"><td><a href="#L245">245</a></td><td>ROBINSON:  We're done flying. No use hanging around. Here you go. (pushes a trunk at Archer)</td></tr>
 
-  ROBINSON
-     Debriefing. After the flight surgeons were done
-     with me I got hauled in front of the Starfleet
-     senior staff and the Vulcans.
+<tr id="L246"><td><a href="#L246">246</a></td><td>ARCHER:  I'm not clearing out just yet.</td></tr>
 
-  TUCKER
-     What'd you tell them?
+<tr id="L247"><td><a href="#L247">247</a></td><td>ROBINSON:  Suit yourself.</td></tr>
 
-  ROBINSON
-     What do you think? The subspace field destabilised
-     at warp two point two. Primary flight controls
-     failed, resulting in the loss of the vehicle.
+<tr id="L248"><td><a href="#L248">248</a></td><td>ARCHER:  I've been thinking about what you were saying last night about my father's engine.</td></tr>
 
-  TUCKER
-     Aren't you forgetting something?
+<tr id="L249"><td><a href="#L249">249</a></td><td>ROBINSON:  Look, I was out of line.</td></tr>
 
-  ROBINSON
-     What?
+<tr id="L250"><td><a href="#L250">250</a></td><td>ARCHER:  You were right. I wanted to see this thing fly so badly, it kept me from being objective.</td></tr>
 
-  TUCKER
-     The possibility of pilot error.
+<tr id="L251"><td><a href="#L251">251</a></td><td>ROBINSON:  That's good of you to admit, but it doesn't really matter now.</td></tr>
 
-  ROBINSON
-     I'm not interested in your opinion, Lieutenant.
+<tr id="L252"><td><a href="#L252">252</a></td><td>ARCHER:  It may. I got my hands on the telemetry from your flight. It looks like Tucker was right about the intermix, but I think we can compensate for it.</td></tr>
 
-  ARCHER
-     You should be. The Vulcans have been leaning on
-     Starfleet for years to rein in this programme. You
-     walked in there today, ruled out pilot error, and
-     told them just what they wanted to hear. Our
-     engine doesn't work.
+<tr id="L253"><td><a href="#L253">253</a></td><td>ROBINSON:  You heard Forrest. The programme is on hold indefinitely.</td></tr>
 
-  ROBINSON
-     Sorry to be the bearer of bad news, Archer, but it
-     doesn't work.
+<tr id="L254"><td><a href="#L254">254</a></td><td>ARCHER:  We can take this to Starfleet, make a case to get off the ground again.</td></tr>
 
-  TUCKER
-     The engine's sound. We just need more time to
-     balance the intermix.
+<tr id="L255"><td><a href="#L255">255</a></td><td>ROBINSON:  What about the Vulcans? They'll look at your data and say we need to run computer simulations for another ten years to prove that you're right.</td></tr>
 
-  ROBINSON
-     We need more than time.
+<tr id="L256"><td><a href="#L256">256</a></td><td>ARCHER:  Commodore Forrest will back us up.</td></tr>
 
-  ARCHER
-     I agree. We need a pilot who listens to orders. If
-     you aborted, we'd still have a ship and probably
-     another chance.
+<tr id="L257"><td><a href="#L257">257</a></td><td>ROBINSON:  Forrest answers to Starfleet Command. It's out of his hands.</td></tr>
 
-  ROBINSON
-     Another chance to what, get killed?
+<tr id="L258"><td><a href="#L258">258</a></td><td>ARCHER:  Even if his two senior pilots insist that this ship can fly? If the three of us go in there together, we might be able to change their minds. You just went faster than any human being ever has and now your going to walk away? Let them put the ship in mothballs when we're so close to breaking warp three? You're always talking about taking risks. What have we got to lose?</td></tr>
 
-  ARCHER
-     At the first sign of trouble, you should've
-     throttled down.
+<tr id="L259"><td><a href="#L259">259</a></td><td>ROBINSON:  If you want to convince the Vulcans, you'll have to do a lot better than showing them a bunch of antimatter calculations.</td></tr>
 
-  ROBINSON
-     It wouldn't have made a damn bit of difference.
+<tr id="L260"><td><a href="#L260">260</a></td><td>ARCHER:  I'm open to suggestions.</td></tr>
 
-  ARCHER
-     I guess we'll never find out.
+<tr id="L261"><td><a href="#L261">261</a></td><td>ROBINSON:  We only lost one ship. Still have one left.</td></tr>
 
-  ROBINSON
-     You weren't in that cockpit.
+<tr id="L262"><td><a href="#L262">262</a></td><td>ARCHER:  They'll never give us clearance.</td></tr>
 
-  ARCHER
-     There's nothing wrong with that ship!
+<tr id="L263"><td><a href="#L263">263</a></td><td>ROBINSON:  Can you think of a better way to prove it'll fly? You want to talk about taking risks? You're a great pilot, maybe as good as me, but you're never going to get out into deep space by playing it safe. When the first warp five starship is built, it's Captain won't be able to call home every time he needs to make a decision. He won't be able to turn to the Vulcans, unless he decides to take one with him.</td></tr>
 
-  ROBINSON
-     There's plenty wrong. You just refuse to see it.
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L264"><td><a href="#L264">264</a></td><td>ARCHER:  We should be twenty thousand kilometres inside the nebula. Let's load up two more charges.</td></tr>
 
-  ARCHER
-     What the hell's that supposed to mean?
+<tr id="L265"><td><a href="#L265">265</a></td><td>T'POL:  The history of your early warp flights is well-documented, but I've never read anything about two Starfleet pilots stealing the warp three prototype.</td></tr>
 
-  ROBINSON
-     Every time there's a problem with this project,
-     you blame it on pilot error or gravitational
-     anomalies, or some technical malfunction. Well,
-     you're going to have to face the truth this time,
-     because there's nothing left to point an finger
-     at. Your father designed a lousy engine.
+<tr id="L266"><td><a href="#L266">266</a></td><td>ARCHER:  It wasn't the kind of thing Starfleet Command wanted to advertise. Don't you believe me?</td></tr>
 
-  ANNOTATION
-     This starts a fist fight.
+<tr id="L267"><td><a href="#L267">267</a></td><td>T'POL:  I have no doubt it happened, though I find it difficult to believe you had to be convinced to participate.</td></tr>
 
-  RUBY
-     That's enough! (to Tucker) Do something!
+<tr id="L268"><td><a href="#L268">268</a></td><td>ARCHER:  Well, you didn't know me then. I was a little more by-the-book.</td></tr>
 
-  TUCKER
-     Come on, come on, break it up.
+<tr id="L269"><td><a href="#L269">269</a></td><td>T'POL:  The particle density has nearly doubled. Shall we try again? (two more bangs still only make a little purple glow) Perhaps we should head back.</td></tr>
 
-  ANNOTATION
-     Tucker restrains Archer while two other guys get
-     Robinson.
+<tr id="L270"><td><a href="#L270">270</a></td><td>ARCHER:  We still have two more charges. Let's keep looking.</td></tr>
 
-  TUCKER
-     Break it up!
+<tr id="L271"><td><a href="#L271">271</a></td><td>T'POL:  Was your test flight successful?</td></tr>
 
-  RUBY
-     Do you think this is going to get either of you
-     any closer to warp five?
+<tr id="L272"><td><a href="#L272">272</a></td><td>ARCHER:  Promise you won't put this into the Vulcan database?</td></tr>
 
+<tr><td></td><td>LOCATION--Memory - NX Hangar, night</td></tr>
+<tr id="L273"><td><a href="#L273">273</a></td><td>ARCHER [OC]:  We decided on a night launch.</td></tr>
 
-LOCATION--Shuttlepod
+<tr id="L274"><td><a href="#L274">274</a></td><td>TUCKER:  I've routed the intermix controls to the engineering station. If it becomes unstable, you'll be able to adjust it manually.</td></tr>
 
-  T'POL
-     The fight was interrupted?
+<tr id="L275"><td><a href="#L275">275</a></td><td>ARCHER:  Thanks.</td></tr>
 
-  ARCHER
-     Not before I got two bruised ribs and a cracked
-     molar.
+<tr id="L276"><td><a href="#L276">276</a></td><td>TUCKER:  If I came along, I could monitor the antimatter flow.</td></tr>
 
-  T'POL
-     I suppose we'll never know. Who would have won.
+<tr id="L277"><td><a href="#L277">277</a></td><td>ARCHER:  I'll keep an eye on it.</td></tr>
 
-  ANNOTATION
-     An alarm sounds.
+<tr id="L278"><td><a href="#L278">278</a></td><td>TUCKER:  You're going to have your hands full.</td></tr>
 
-  T'POL
-     Main power is fluctuating.
+<tr id="L279"><td><a href="#L279">279</a></td><td>ARCHER:  We need you down here. Don't worry, you'll get out there someday. If I had my own ship I'd sign you up in a second.</td></tr>
 
-  ARCHER
-     It's all right. Auxiliary's kicking in.
+<tr id="L280"><td><a href="#L280">280</a></td><td>TUCKER:  I'm going to hold you to it.</td></tr>
 
-  T'POL
-     There was a surge in the EPS grid.
+<tr id="L281"><td><a href="#L281">281</a></td><td>ANNOTATION: They shake on it.</td></tr>
 
-  ARCHER
-     We must be getting close. Trip said the dark
-     matter might affect the shuttle's systems. He'll
-     be happy to hear he was right.
+<tr id="L282"><td><a href="#L282">282</a></td><td>ARCHER:  Thanks, Trip.</td></tr>
 
-  T'POL
-     It was probably nothing more than a simple
-     malfunction.
+<tr><td></td><td>LOCATION--NX Beta</td></tr>
+<tr id="L283"><td><a href="#L283">283</a></td><td>ARCHER:  No response from the auxiliary APU's.</td></tr>
 
-  ARCHER
-     I don't think so. Our pre-launch checks were all
-     fine. Something else caused that surge.
+<tr id="L284"><td><a href="#L284">284</a></td><td>ROBINSON:  That's because they haven't been installed yet.</td></tr>
 
-  T'POL
-     I'm not detecting any dark matter.
+<tr id="L285"><td><a href="#L285">285</a></td><td>ARCHER:  How's it coming, Trip?</td></tr>
 
-  ARCHER
-     Have a little faith, T'Pol.
+<tr id="L286"><td><a href="#L286">286</a></td><td>TUCKER [OC]:  I've disabled</td></tr>
 
-  T'POL
-     Even if you're right, it may be dangerous to
-     proceed. Another surge could disable life support.
+<tr><td></td><td>LOCATION--NX Hangar</td></tr>
+<tr id="L287"><td><a href="#L287">287</a></td><td>TUCKER:  The tracking sensors but I'll need a minute to divert the telemetry.</td></tr>
 
-  ARCHER
-     One thing I learned from AG. You're never going to
-     get anywhere without taking risks.
+<tr id="L288"><td><a href="#L288">288</a></td><td>ARCHER [OC]:  How long?</td></tr>
 
-  T'POL
-     You obviously admired this man.
+<tr id="L289"><td><a href="#L289">289</a></td><td>TUCKER:  Don't wait for me. I'll be ready by the time you break orbit.</td></tr>
 
-  ARCHER
-     Quite a bit.
+<tr><td></td><td>LOCATION--NX Beta</td></tr>
+<tr id="L290"><td><a href="#L290">290</a></td><td>ARCHER:  Acknowledged.</td></tr>
 
-  T'POL
-     And yet he cracked your molar.
+<tr id="L291"><td><a href="#L291">291</a></td><td>ANNOTATION: The hangar doors rumble open.</td></tr>
 
-  ARCHER
-     Humans can have funny ways of forming friendships.
+<tr id="L292"><td><a href="#L292">292</a></td><td>ROBINSON:  Not to late to call this off, head over to the 602 for a beer.</td></tr>
 
-  T'POL
-     To say the least.
+<tr id="L293"><td><a href="#L293">293</a></td><td>ARCHER:  Not on your life.</td></tr>
 
-  ARCHER
-     He would have loved it out here. Too bad he never
-     got the chance. God knows he earned it.
+<tr id="L294"><td><a href="#L294">294</a></td><td>ANNOTATION: The ship goes past Tucker and his monitor as it leaves hangar and then hurtles up the launch ramp.</td></tr>
 
-  T'POL
-     I thought you said he was responsible for nearly
-     ending the programme.
+<tr id="L295"><td><a href="#L295">295</a></td><td>ARCHER:  Anyone noticed we're gone yet?</td></tr>
 
-  ARCHER
-     He was also responsible for getting it back on
-     course, with a little help from me and Trip.
+<tr id="L296"><td><a href="#L296">296</a></td><td>TUCKER [OC]:  No, as far as they know the doors are closed and the lights are out.</td></tr>
 
+<tr><td></td><td>LOCATION--NX Hangar</td></tr>
+<tr id="L297"><td><a href="#L297">297</a></td><td>TUCKER:  But New Berlin should be picking you up in about six minutes.</td></tr>
 
-LOCATION--Memory - NX Locker room
+<tr><td></td><td>LOCATION--NX Beta</td></tr>
+<tr id="L298"><td><a href="#L298">298</a></td><td>ROBINSON:  By the time they figure out what's going on, we'll be half way to Jupiter.</td></tr>
 
-  ANNOTATION
-     AG is clearing out his locker.
+<tr><td></td><td>LOCATION--Forrest's office</td></tr>
+<tr id="L299"><td><a href="#L299">299</a></td><td>FORREST:  Come in. You're working late.</td></tr>
 
-  ARCHER
-     I see you're not losing any time.
+<tr id="L300"><td><a href="#L300">300</a></td><td>FLIGHT:  We just got a call. New Berlin's detected the NX Beta.</td></tr>
 
-  ROBINSON
-     We're done flying. No use hanging around. Here you
-     go. (pushes a trunk at Archer)
+<tr id="L301"><td><a href="#L301">301</a></td><td>FORREST:  What?</td></tr>
 
-  ARCHER
-     I'm not clearing out just yet.
+<tr id="L302"><td><a href="#L302">302</a></td><td>FLIGHT:  Internal sensors show it's still in the hangar.</td></tr>
 
-  ROBINSON
-     Suit yourself.
+<tr id="L303"><td><a href="#L303">303</a></td><td>FORREST:  Has anyone bothered to look?</td></tr>
 
-  ARCHER
-     I've been thinking about what you were saying last
-     night about my father's engine.
+<tr><td></td><td>LOCATION--NX Beta</td></tr>
+<tr id="L304"><td><a href="#L304">304</a></td><td>ARCHER:  Warp field is stable.</td></tr>
 
-  ROBINSON
-     Look, I was out of line.
+<tr id="L305"><td><a href="#L305">305</a></td><td>ANNOTATION: Robinson releases his seat harness.</td></tr>
 
-  ARCHER
-     You were right. I wanted to see this thing fly so
-     badly, it kept me from being objective.
+<tr id="L306"><td><a href="#L306">306</a></td><td>ARCHER:  Something wrong?</td></tr>
 
-  ROBINSON
-     That's good of you to admit, but it doesn't really
-     matter now.
+<tr id="L307"><td><a href="#L307">307</a></td><td>ROBINSON:  Why don't you take it?</td></tr>
 
-  ARCHER
-     It may. I got my hands on the telemetry from your
-     flight. It looks like Tucker was right about the
-     intermix, but I think we can compensate for it.
+<tr id="L308"><td><a href="#L308">308</a></td><td>ARCHER:  What?</td></tr>
 
-  ROBINSON
-     You heard Forrest. The programme is on hold
-     indefinitely.
+<tr id="L309"><td><a href="#L309">309</a></td><td>ROBINSON:  I had the last flight. You're due up.</td></tr>
 
-  ARCHER
-     We can take this to Starfleet, make a case to get
-     off the ground again.
+<tr id="L310"><td><a href="#L310">310</a></td><td>ANNOTATION: They swap seats.</td></tr>
 
-  ROBINSON
-     What about the Vulcans? They'll look at your data
-     and say we need to run computer simulations for
-     another ten years to prove that you're right.
+<tr id="L311"><td><a href="#L311">311</a></td><td>ROBINSON:  Besides, you could use the practice. I hope you and Tucker were right about that intermix.</td></tr>
 
-  ARCHER
-     Commodore Forrest will back us up.
+<tr id="L312"><td><a href="#L312">312</a></td><td>ARCHER:  We're about to find out.</td></tr>
 
-  ROBINSON
-     Forrest answers to Starfleet Command. It's out of
-     his hands.
+<tr id="L313"><td><a href="#L313">313</a></td><td>FORREST [OC]:  This is Forrest.</td></tr>
 
-  ARCHER
-     Even if his two senior pilots insist that this
-     ship can fly? If the three of us go in there
-     together, we might be able to change their minds.
-     You just went faster than any human being ever has
-     and now your going to walk away? Let them put the
-     ship in mothballs when we're so close to breaking
-     warp three? You're always talking about taking
-     risks. What have we got to lose?
+<tr><td></td><td>LOCATION--NX Control room</td></tr>
+<tr id="L314"><td><a href="#L314">314</a></td><td>FORREST:  What the hell is going on?</td></tr>
 
-  ROBINSON
-     If you want to convince the Vulcans, you'll have
-     to do a lot better than showing them a bunch of
-     antimatter calculations.
+<tr id="L315"><td><a href="#L315">315</a></td><td>ARCHER [OC]:  Just running an engine test, sir.</td></tr>
 
-  ARCHER
-     I'm open to suggestions.
+<tr id="L316"><td><a href="#L316">316</a></td><td>FORREST:  Archer? Turn around right now, and I'll do what I can</td></tr>
 
-  ROBINSON
-     We only lost one ship. Still have one left.
+<tr><td></td><td>LOCATION--NX Beta</td></tr>
+<tr id="L317"><td><a href="#L317">317</a></td><td>FORREST:  To keep you out of prison. If you</td></tr>
 
-  ARCHER
-     They'll never give us clearance.
+<tr id="L318"><td><a href="#L318">318</a></td><td>ANNOTATION: Robinson cuts him off</td></tr>
 
-  ROBINSON
-     Can you think of a better way to prove it'll fly?
-     You want to talk about taking risks? You're a
-     great pilot, maybe as good as me, but you're never
-     going to get out into deep space by playing it
-     safe. When the first warp five starship is built,
-     it's Captain won't be able to call home every time
-     he needs to make a decision. He won't be able to
-     turn to the Vulcans, unless he decides to take one
-     with him.
+<tr><td></td><td>LOCATION--NX Control room</td></tr>
+<tr id="L319"><td><a href="#L319">319</a></td><td>FORREST:  Archer!</td></tr>
 
+<tr id="L320"><td><a href="#L320">320</a></td><td>ANNOTATION: The two Vulcans enter.</td></tr>
 
-LOCATION--Shuttlepod
+<tr id="L321"><td><a href="#L321">321</a></td><td>FORREST:  Perfect.</td></tr>
 
-  ARCHER
-     We should be twenty thousand kilometres inside the
-     nebula. Let's load up two more charges.
+<tr><td></td><td>LOCATION--NX Beta</td></tr>
+<tr id="L322"><td><a href="#L322">322</a></td><td>ROBINSON:  That's warp two.</td></tr>
 
-  T'POL
-     The history of your early warp flights is
-     well-documented, but I've never read anything
-     about two Starfleet pilots stealing the warp three
-     prototype.
+<tr><td></td><td>LOCATION--NX Hangar</td></tr>
+<tr id="L323"><td><a href="#L323">323</a></td><td>TUCKER:  Here we go again. I'm reading fluctuations in the intermix.</td></tr>
 
-  ARCHER
-     It wasn't the kind of thing Starfleet Command
-     wanted to advertise. Don't you believe me?
+<tr id="L324"><td><a href="#L324">324</a></td><td>ARCHER [OC]:  We see it.</td></tr>
 
-  T'POL
-     I have no doubt it happened, though I find it
-     difficult to believe you had to be convinced to
-     participate.
+<tr id="L325"><td><a href="#L325">325</a></td><td>ANNOTATION: AG makes manual adjustments in the NX-B, but it just gets worse.</td></tr>
 
-  ARCHER
-     Well, you didn't know me then. I was a little more
-     by-the-book.
+<tr id="L326"><td><a href="#L326">326</a></td><td>TUCKER:  Your warp field's destabilising.</td></tr>
 
-  T'POL
-     The particle density has nearly doubled. Shall we
-     try again? (two more bangs still only make a
-     little purple glow) Perhaps we should head back.
+<tr><td></td><td>LOCATION--NX Beta</td></tr>
+<tr id="L327"><td><a href="#L327">327</a></td><td>ANNOTATION: Archer is fighting the controls.</td></tr>
 
-  ARCHER
-     We still have two more charges. Let's keep
-     looking.
+<tr id="L328"><td><a href="#L328">328</a></td><td>ARCHER:  Warp two point one five. (to AG) You'd better get that intermix locked down because I'm not backing off till I break your record. Got it?</td></tr>
 
-  T'POL
-     Was your test flight successful?
+<tr id="L329"><td><a href="#L329">329</a></td><td>ROBINSON:  Almost.</td></tr>
 
-  ARCHER
-     Promise you won't put this into the Vulcan
-     database?
+<tr><td></td><td>LOCATION--NX Hangar</td></tr>
+<tr id="L330"><td><a href="#L330">330</a></td><td>SECURITY:  Come with us, Lieutenant.</td></tr>
 
+<tr id="L331"><td><a href="#L331">331</a></td><td>TUCKER:  NX Beta, do you read?</td></tr>
 
-LOCATION--Memory - NX Hangar, night
+<tr><td></td><td>LOCATION--NX Control room</td></tr>
+<tr id="L332"><td><a href="#L332">332</a></td><td>ARCHER [OC]:  NX Beta to Commodore Forrest. You might want to check your sensors. You'll see that we're holding steady at two point five. (Tucker is delighted)</td></tr>
 
-  ARCHER [OC]
-     We decided on a night launch.
+<tr id="L333"><td><a href="#L333">333</a></td><td>FORREST:  Congratulations. Now get the hell back here.</td></tr>
 
-  TUCKER
-     I've routed the intermix controls to the
-     engineering station. If it becomes unstable,
-     you'll be able to adjust it manually.
+<tr><td></td><td>LOCATION--Forrest's office</td></tr>
+<tr id="L334"><td><a href="#L334">334</a></td><td>FORREST:  Not only was it in violation of a direct order, it was utterly reckless, irresponsible and maybe even criminal.</td></tr>
 
-  ARCHER
-     Thanks.
+<tr id="L335"><td><a href="#L335">335</a></td><td>ROBINSON:  Sir.</td></tr>
 
-  TUCKER
-     If I came along, I could monitor the antimatter
-     flow.
+<tr id="L336"><td><a href="#L336">336</a></td><td>FORREST:  I'm not done, Commander! You are both suspended from duty pending an inquiry, and by the time Starfleet Command gets through with you, you're going to wish that you had never come back. You're supposed to represent the best that Starfleet has to offer. Keeping this programme on track is hard enough without our own officers undermining it. What did you think that this stunt of yours would accomplish? That just because you didn't get yourselves killed that we'd ignore that data we've collected, the testing we've done, the recommendations of the Vulcan Advisory Council?</td></tr>
 
-  ARCHER
-     I'll keep an eye on it.
+<tr id="L337"><td><a href="#L337">337</a></td><td>ROBINSON:  If we follow all their recommendations, we'll never make it into deep space.</td></tr>
 
-  TUCKER
-     You're going to have your hands full.
+<tr id="L338"><td><a href="#L338">338</a></td><td>VULCAN:  No one is suggesting that your warp programme be dismantled, only that Starfleet proceed with more restraint.</td></tr>
 
-  ARCHER
-     We need you down here. Don't worry, you'll get out
-     there someday. If I had my own ship I'd sign you
-     up in a second.
+<tr id="L339"><td><a href="#L339">339</a></td><td>ROBINSON:  Get Lieutenant Tucker in here. Ask any engineer on the project. They'll tell you this ship can fly. Archer and I just proved it. We're ready to go. Now.</td></tr>
 
-  TUCKER
-     I'm going to hold you to it.
+<tr id="L340"><td><a href="#L340">340</a></td><td>VULCAN:  That's not you decision to make.</td></tr>
 
-  ANNOTATION
-     They shake on it.
+<tr id="L341"><td><a href="#L341">341</a></td><td>ARCHER:  With all due respect, its not your's either. You're right, sir. We were reckless. We knew there'd be consequences. We knew we'd probably be thrown out of Starfleet.</td></tr>
 
-  ARCHER
-     Thanks, Trip.
+<tr id="L342"><td><a href="#L342">342</a></td><td>FORREST:  You may have been right.</td></tr>
 
+<tr id="L343"><td><a href="#L343">343</a></td><td>ARCHER:  AG and I may never fly again, but its a small sacrifice to make if it keeps this project going. We didn't build this engine to make test runs around Jupiter. We built it to explore. If my father were alive today, he'd be standing here asking, what the hell are we waiting for?</td></tr>
 
-LOCATION--NX Beta
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L344"><td><a href="#L344">344</a></td><td>T'POL:  You obviously weren't dismissed from Starfleet. They must have found your argument convincing.</td></tr>
 
-  ARCHER
-     No response from the auxiliary APU's.
+<tr id="L345"><td><a href="#L345">345</a></td><td>ARCHER:  Convincing enough. We managed to avoid a court martial, but they grounded us for three months.</td></tr>
 
-  ROBINSON
-     That's because they haven't been installed yet.
+<tr id="L346"><td><a href="#L346">346</a></td><td>T'POL:  Still, the NX programme continued.</td></tr>
 
-  ARCHER
-     How's it coming, Trip?
+<tr id="L347"><td><a href="#L347">347</a></td><td>ARCHER:  Eventually. The Vulcans had us run every simulation they could think of for over a year before they finally admitted the engine would probably work. Eight months after that, Duvall broke warp three in the NX Delta. Five years later we laid the keel for Enterprise. You know the rest.</td></tr>
 
-  TUCKER [OC]
-     I've disabled
+<tr id="L348"><td><a href="#L348">348</a></td><td>T'POL:  The particle density has increased again.</td></tr>
 
+<tr id="L349"><td><a href="#L349">349</a></td><td>ARCHER:  I'd hate to see those last two charges go to waste. (they fire, and detonate) Anything on sensors?</td></tr>
 
-LOCATION--NX Hangar
+<tr id="L350"><td><a href="#L350">350</a></td><td>T'POL:  It appears so. (the area gradually lights up with ribbons of pinky purple) Fascinating. This data will certainly cause a debate at the Science Directorate.</td></tr>
 
-  TUCKER
-     The tracking sensors but I'll need a minute to
-     divert the telemetry.
+<tr id="L351"><td><a href="#L351">351</a></td><td>ARCHER:  T'Pol, come up and look at this a minute.</td></tr>
 
-  ARCHER [OC]
-     How long?
+<tr id="L352"><td><a href="#L352">352</a></td><td>T'POL:  I have to monitor the quantum field.</td></tr>
 
-  TUCKER
-     Don't wait for me. I'll be ready by the time you
-     break orbit.
+<tr id="L353"><td><a href="#L353">353</a></td><td>ARCHER:  Let the sensors do it. That's why AG and I worked so hard to get out here.</td></tr>
 
+<tr id="L354"><td><a href="#L354">354</a></td><td>T'POL:  Captain Robinson clearly wanted to command Enterprise as much as you did.</td></tr>
 
-LOCATION--NX Beta
+<tr id="L355"><td><a href="#L355">355</a></td><td>ARCHER:  He wasn't alone, but by the end AG and I were the only two candidates left. They made the final selection six months before we launched. Maybe I just got lucky.</td></tr>
 
-  ARCHER
-     Acknowledged.
+<tr><td></td><td>LOCATION--Memory - 602 Club</td></tr>
+<tr id="L356"><td><a href="#L356">356</a></td><td>ARCHER:  Thanks.</td></tr>
 
-  ANNOTATION
-     The hangar doors rumble open.
+<tr id="L357"><td><a href="#L357">357</a></td><td>RUBY:  Congratulations, Captain.</td></tr>
 
-  ROBINSON
-     Not to late to call this off, head over to the 602
-     for a beer.
+<tr id="L358"><td><a href="#L358">358</a></td><td>ROBINSON:  To Jonathan Archer, first skipper of the Starship Enterprise, (he takes a drink) and one lucky s.o.b.</td></tr>
 
-  ARCHER
-     Not on your life.
+<tr id="L359"><td><a href="#L359">359</a></td><td>ARCHER:  Luck had nothing to do with it.</td></tr>
 
-  ANNOTATION
-     The ship goes past Tucker and his monitor as it
-     leaves hangar and then hurtles up the launch ramp.
+<tr id="L360"><td><a href="#L360">360</a></td><td>ROBINSON:  It couldn't have been talent. I'm just waiting for Forrest to realise what a horrible mistake he made. Still, they could have done a lot worst. Anyway, I'd rather wait for the NX02. Let you make all the mistakes so I'll have an easier time of it.</td></tr>
 
-  ARCHER
-     Anyone noticed we're gone yet?
+<tr id="L361"><td><a href="#L361">361</a></td><td>ARCHER:  To the first skipper of the NX02.</td></tr>
 
-  TUCKER [OC]
-     No, as far as they know the doors are closed and
-     the lights are out.
+<tr id="L362"><td><a href="#L362">362</a></td><td>ROBINSON:  Got to go. I'm catching a shuttle to Alice Springs at oh six hundred. More survival training. Night, Ruby. Good luck, Jon. Hey, I'll see you out there.</td></tr>
 
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L363"><td><a href="#L363">363</a></td><td>T'POL:  Captain. We should start back if we're going to make our rendezvous.</td></tr>
 
-LOCATION--NX Hangar
+<tr id="L364"><td><a href="#L364">364</a></td><td>ARCHER:  Right.</td></tr>
 
-  TUCKER
-     But New Berlin should be picking you up in about
-     six minutes.
+<tr><td></td><td>LOCATION--Launch Bay</td></tr>
+<tr id="L365"><td><a href="#L365">365</a></td><td>TUCKER:  Welcome back. How'd it go?</td></tr>
 
+<tr id="L366"><td><a href="#L366">366</a></td><td>T'POL:  Your charges were effective.</td></tr>
 
-LOCATION--NX Beta
+<tr id="L367"><td><a href="#L367">367</a></td><td>TUCKER:  Was it a good show?</td></tr>
 
-  ROBINSON
-     By the time they figure out what's going on, we'll
-     be half way to Jupiter.
+<tr id="L368"><td><a href="#L368">368</a></td><td>ARCHER:  You should've been there.</td></tr>
 
+<tr id="L369"><td><a href="#L369">369</a></td><td>TUCKER:  I'll remember to ask you next time.</td></tr>
 
-LOCATION--Forrest's office
+<tr id="L370"><td><a href="#L370">370</a></td><td>ANNOTATION: Tucker leaves.</td></tr>
 
-  FORREST
-     Come in. You're working late.
+<tr id="L371"><td><a href="#L371">371</a></td><td>T'POL:  I believe there's a human custom that says when you discover something of merit, you earn the right to name it.</td></tr>
 
-  FLIGHT
-     We just got a call. New Berlin's detected the NX
-     Beta.
+<tr id="L372"><td><a href="#L372">372</a></td><td>ARCHER:  What would you suggest? The T'Pol - Archer nebula?</td></tr>
 
-  FORREST
-     What?
+<tr id="L373"><td><a href="#L373">373</a></td><td>T'POL:  I was thinking the Robinson nebula would be more appropriate.</td></tr>
 
-  FLIGHT
-     Internal sensors show it's still in the hangar.
-
-  FORREST
-     Has anyone bothered to look?
-
-
-LOCATION--NX Beta
-
-  ARCHER
-     Warp field is stable.
-
-  ANNOTATION
-     Robinson releases his seat harness.
-
-  ARCHER
-     Something wrong?
-
-  ROBINSON
-     Why don't you take it?
-
-  ARCHER
-     What?
-
-  ROBINSON
-     I had the last flight. You're due up.
-
-  ANNOTATION
-     They swap seats.
-
-  ROBINSON
-     Besides, you could use the practice. I hope you
-     and Tucker were right about that intermix.
-
-  ARCHER
-     We're about to find out.
-
-  FORREST [OC]
-     This is Forrest.
-
-
-LOCATION--NX Control room
-
-  FORREST
-     What the hell is going on?
-
-  ARCHER [OC]
-     Just running an engine test, sir.
-
-  FORREST
-     Archer? Turn around right now, and I'll do what I
-     can
-
-
-LOCATION--NX Beta
-
-  FORREST
-     To keep you out of prison. If you
-
-  ANNOTATION
-     Robinson cuts him off
-
-
-LOCATION--NX Control room
-
-  FORREST
-     Archer!
-
-  ANNOTATION
-     The two Vulcans enter.
-
-  FORREST
-     Perfect.
-
-
-LOCATION--NX Beta
-
-  ROBINSON
-     That's warp two.
-
-
-LOCATION--NX Hangar
-
-  TUCKER
-     Here we go again. I'm reading fluctuations in the
-     intermix.
-
-  ARCHER [OC]
-     We see it.
-
-  ANNOTATION
-     AG makes manual adjustments in the NX-B, but it
-     just gets worse.
-
-  TUCKER
-     Your warp field's destabilising.
-
-
-LOCATION--NX Beta
-
-  ANNOTATION
-     Archer is fighting the controls.
-
-  ARCHER
-     Warp two point one five. (to AG) You'd better get
-     that intermix locked down because I'm not backing
-     off till I break your record. Got it?
-
-  ROBINSON
-     Almost.
-
-
-LOCATION--NX Hangar
-
-  SECURITY
-     Come with us, Lieutenant.
-
-  TUCKER
-     NX Beta, do you read?
-
-
-LOCATION--NX Control room
-
-  ARCHER [OC]
-     NX Beta to Commodore Forrest. You might want to
-     check your sensors. You'll see that we're holding
-     steady at two point five. (Tucker is delighted)
-
-  FORREST
-     Congratulations. Now get the hell back here.
-
-
-LOCATION--Forrest's office
-
-  FORREST
-     Not only was it in violation of a direct order, it
-     was utterly reckless, irresponsible and maybe even
-     criminal.
-
-  ROBINSON
-     Sir.
-
-  FORREST
-     I'm not done, Commander! You are both suspended
-     from duty pending an inquiry, and by the time
-     Starfleet Command gets through with you, you're
-     going to wish that you had never come back. You're
-     supposed to represent the best that Starfleet has
-     to offer. Keeping this programme on track is hard
-     enough without our own officers undermining it.
-     What did you think that this stunt of yours would
-     accomplish? That just because you didn't get
-     yourselves killed that we'd ignore that data we've
-     collected, the testing we've done, the
-     recommendations of the Vulcan Advisory Council?
-
-  ROBINSON
-     If we follow all their recommendations, we'll
-     never make it into deep space.
-
-  VULCAN
-     No one is suggesting that your warp programme be
-     dismantled, only that Starfleet proceed with more
-     restraint.
-
-  ROBINSON
-     Get Lieutenant Tucker in here. Ask any engineer on
-     the project. They'll tell you this ship can fly.
-     Archer and I just proved it. We're ready to go.
-     Now.
-
-  VULCAN
-     That's not you decision to make.
-
-  ARCHER
-     With all due respect, its not your's either.
-     You're right, sir. We were reckless. We knew
-     there'd be consequences. We knew we'd probably be
-     thrown out of Starfleet.
-
-  FORREST
-     You may have been right.
-
-  ARCHER
-     AG and I may never fly again, but its a small
-     sacrifice to make if it keeps this project going.
-     We didn't build this engine to make test runs
-     around Jupiter. We built it to explore. If my
-     father were alive today, he'd be standing here
-     asking, what the hell are we waiting for?
-
-
-LOCATION--Shuttlepod
-
-  T'POL
-     You obviously weren't dismissed from Starfleet.
-     They must have found your argument convincing.
-
-  ARCHER
-     Convincing enough. We managed to avoid a court
-     martial, but they grounded us for three months.
-
-  T'POL
-     Still, the NX programme continued.
-
-  ARCHER
-     Eventually. The Vulcans had us run every
-     simulation they could think of for over a year
-     before they finally admitted the engine would
-     probably work. Eight months after that, Duvall
-     broke warp three in the NX Delta. Five years later
-     we laid the keel for Enterprise. You know the
-     rest.
-
-  T'POL
-     The particle density has increased again.
-
-  ARCHER
-     I'd hate to see those last two charges go to
-     waste. (they fire, and detonate) Anything on
-     sensors?
-
-  T'POL
-     It appears so. (the area gradually lights up with
-     ribbons of pinky purple) Fascinating. This data
-     will certainly cause a debate at the Science
-     Directorate.
-
-  ARCHER
-     T'Pol, come up and look at this a minute.
-
-  T'POL
-     I have to monitor the quantum field.
-
-  ARCHER
-     Let the sensors do it. That's why AG and I worked
-     so hard to get out here.
-
-  T'POL
-     Captain Robinson clearly wanted to command
-     Enterprise as much as you did.
-
-  ARCHER
-     He wasn't alone, but by the end AG and I were the
-     only two candidates left. They made the final
-     selection six months before we launched. Maybe I
-     just got lucky.
-
-
-LOCATION--Memory - 602 Club
-
-  ARCHER
-     Thanks.
-
-  RUBY
-     Congratulations, Captain.
-
-  ROBINSON
-     To Jonathan Archer, first skipper of the Starship
-     Enterprise, (he takes a drink) and one lucky
-     s.o.b.
-
-  ARCHER
-     Luck had nothing to do with it.
-
-  ROBINSON
-     It couldn't have been talent. I'm just waiting for
-     Forrest to realise what a horrible mistake he
-     made. Still, they could have done a lot worst.
-     Anyway, I'd rather wait for the NX02. Let you make
-     all the mistakes so I'll have an easier time of
-     it.
-
-  ARCHER
-     To the first skipper of the NX02.
-
-  ROBINSON
-     Got to go. I'm catching a shuttle to Alice Springs
-     at oh six hundred. More survival training. Night,
-     Ruby. Good luck, Jon. Hey, I'll see you out there.
-
-
-LOCATION--Shuttlepod
-
-  T'POL
-     Captain. We should start back if we're going to
-     make our rendezvous.
-
-  ARCHER
-     Right.
-
-
-LOCATION--Launch Bay
-
-  TUCKER
-     Welcome back. How'd it go?
-
-  T'POL
-     Your charges were effective.
-
-  TUCKER
-     Was it a good show?
-
-  ARCHER
-     You should've been there.
-
-  TUCKER
-     I'll remember to ask you next time.
-
-  ANNOTATION
-     Tucker leaves.
-
-  T'POL
-     I believe there's a human custom that says when
-     you discover something of merit, you earn the
-     right to name it.
-
-  ARCHER
-     What would you suggest? The T'Pol - Archer nebula?
-
-  T'POL
-     I was thinking the Robinson nebula would be more
-     appropriate.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

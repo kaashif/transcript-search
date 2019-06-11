@@ -1,1515 +1,831 @@
-The Emissary
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Emissary</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Data's quarters</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: The Enterprise's floating poker game is in full session</td></tr>
 
-LOCATION--Data's quarters
+<tr id="L2"><td><a href="#L2">2</a></td><td>RIKER:  Looking good. I'll go five.</td></tr>
 
-  ANNOTATION
-     The Enterprise's floating poker game is in full
-     session
+<tr id="L3"><td><a href="#L3">3</a></td><td>PULASKI:  Five here.</td></tr>
 
-  RIKER
-     Looking good. I'll go five.
+<tr id="L4"><td><a href="#L4">4</a></td><td>LAFORGE:  And five more.</td></tr>
 
-  PULASKI
-     Five here.
+<tr id="L5"><td><a href="#L5">5</a></td><td>DATA:  I believe the wiser course of action here is to bend.</td></tr>
 
-  LAFORGE
-     And five more.
+<tr id="L6"><td><a href="#L6">6</a></td><td>LAFORGE:  You mean fold, Data.</td></tr>
 
-  DATA
-     I believe the wiser course of action here is to
-     bend.
+<tr id="L7"><td><a href="#L7">7</a></td><td>DATA:  That is correct. Fold. To bend. To make compact or to capitulate.</td></tr>
 
-  LAFORGE
-     You mean fold, Data.
+<tr id="L8"><td><a href="#L8">8</a></td><td>WORF:  I raise fifty.</td></tr>
 
-  DATA
-     That is correct. Fold. To bend. To make compact or
-     to capitulate.
+<tr id="L9"><td><a href="#L9">9</a></td><td>DATA:  I do not believe Lieutenant Worf understands all the nuances of this betting procedure.</td></tr>
 
-  WORF
-     I raise fifty.
+<tr id="L10"><td><a href="#L10">10</a></td><td>RIKER:  I wouldn't be so quick to judge, Data. His pile's a lot bigger than yours.</td></tr>
 
-  DATA
-     I do not believe Lieutenant Worf understands all
-     the nuances of this betting procedure.
+<tr id="L11"><td><a href="#L11">11</a></td><td>PULASKI:  Than any of ours.</td></tr>
 
-  RIKER
-     I wouldn't be so quick to judge, Data. His pile's
-     a lot bigger than yours.
+<tr id="L12"><td><a href="#L12">12</a></td><td>DATA:  The cards have been favouring the Lieutenant, but that is the result of random chance, therefore, a temporary condition.</td></tr>
 
-  PULASKI
-     Than any of ours.
+<tr id="L13"><td><a href="#L13">13</a></td><td>LAFORGE:  You hope.</td></tr>
 
-  DATA
-     The cards have been favouring the Lieutenant, but
-     that is the result of random chance, therefore, a
-     temporary condition.
+<tr id="L14"><td><a href="#L14">14</a></td><td>WORF:  Talk or play. Not both.</td></tr>
 
-  LAFORGE
-     You hope.
+<tr id="L15"><td><a href="#L15">15</a></td><td>RIKER:  Fifty, right?</td></tr>
 
-  WORF
-     Talk or play. Not both.
+<tr id="L16"><td><a href="#L16">16</a></td><td>PULASKI:  Fifty is the bet. What's the matter? Feet getting cold?</td></tr>
 
-  RIKER
-     Fifty, right?
+<tr id="L17"><td><a href="#L17">17</a></td><td>RIKER:  My cards are getting cold. Here you go.</td></tr>
 
-  PULASKI
-     Fifty is the bet. What's the matter? Feet getting
-     cold?
+<tr id="L18"><td><a href="#L18">18</a></td><td>PULASKI:  I'm glad you stayed in. I need the chips.</td></tr>
 
-  RIKER
-     My cards are getting cold. Here you go.
+<tr id="L19"><td><a href="#L19">19</a></td><td>LAFORGE:  Talk, talk, talk</td></tr>
 
-  PULASKI
-     I'm glad you stayed in. I need the chips.
+<tr id="L20"><td><a href="#L20">20</a></td><td>PULASKI:  Okay, here's the action. Fifty, and another fifty.</td></tr>
 
-  LAFORGE
-     Talk, talk, talk
+<tr id="L21"><td><a href="#L21">21</a></td><td>LAFORGE:  Ouch. Fold, fold, fold</td></tr>
 
-  PULASKI
-     Okay, here's the action. Fifty, and another fifty.
+<tr id="L22"><td><a href="#L22">22</a></td><td>WORF:  Your fifty, and fifty more.</td></tr>
 
-  LAFORGE
-     Ouch. Fold, fold, fold
+<tr id="L23"><td><a href="#L23">23</a></td><td>RIKER:  Love to play, but not with these cards.</td></tr>
 
-  WORF
-     Your fifty, and fifty more.
+<tr id="L24"><td><a href="#L24">24</a></td><td>PULASKI:  Looks like it's just us, handsome. I'll see you.</td></tr>
 
-  RIKER
-     Love to play, but not with these cards.
+<tr id="L25"><td><a href="#L25">25</a></td><td>ANNOTATION: Worf puts down three aces and two queens</td></tr>
 
-  PULASKI
-     Looks like it's just us, handsome. I'll see you.
+<tr id="L26"><td><a href="#L26">26</a></td><td>PULASKI:  Beats my straight.</td></tr>
 
-  ANNOTATION
-     Worf puts down three aces and two queens
+<tr id="L27"><td><a href="#L27">27</a></td><td>RIKER:  The Iceman wins again.</td></tr>
 
-  PULASKI
-     Beats my straight.
+<tr id="L28"><td><a href="#L28">28</a></td><td>PULASKI:  You took my last chip. You could at least smile, Worf.</td></tr>
 
-  RIKER
-     The Iceman wins again.
+<tr id="L29"><td><a href="#L29">29</a></td><td>LAFORGE:  Smiling would break his concentration.</td></tr>
 
-  PULASKI
-     You took my last chip. You could at least smile,
-     Worf.
+<tr id="L30"><td><a href="#L30">30</a></td><td>WORF:  Your deal.</td></tr>
 
-  LAFORGE
-     Smiling would break his concentration.
+<tr id="L31"><td><a href="#L31">31</a></td><td>DATA:  (shuffles) Geordi.</td></tr>
 
-  WORF
-     Your deal.
+<tr id="L32"><td><a href="#L32">32</a></td><td>ANNOTATION: Geordi cuts the pack</td></tr>
 
-  DATA
-     (shuffles) Geordi.
+<tr id="L33"><td><a href="#L33">33</a></td><td>DATA:  The game is seven card stud. After the queen, one-eyed jacks and low card in the hole are wild.</td></tr>
 
-  ANNOTATION
-     Geordi cuts the pack
+<tr id="L34"><td><a href="#L34">34</a></td><td>LAFORGE:  Wait a minute, let me write this down.</td></tr>
 
-  DATA
-     The game is seven card stud. After the queen,
-     one-eyed jacks and low card in the hole are wild.
+<tr id="L35"><td><a href="#L35">35</a></td><td>ANNOTATION: (Everyone gets two hole cards and one face up</td></tr>
 
-  LAFORGE
-     Wait a minute, let me write this down.
+<tr id="L36"><td><a href="#L36">36</a></td><td>WORF:  I open with fifty.</td></tr>
 
-  ANNOTATION
-     (Everyone gets two hole cards and one face up
+<tr id="L37"><td><a href="#L37">37</a></td><td>CREWMAN [OC]:  Bridge to Commander Riker. We're receiving a class eleven emergency signal from Starfleet Command.</td></tr>
 
-  WORF
-     I open with fifty.
+<tr id="L38"><td><a href="#L38">38</a></td><td>RIKER:  On my way.</td></tr>
 
-  CREWMAN [OC]
-     Bridge to Commander Riker. We're receiving a class
-     eleven emergency signal from Starfleet Command.
+<tr id="L39"><td><a href="#L39">39</a></td><td>LAFORGE:  Fifty? You were bluffing.</td></tr>
 
-  RIKER
-     On my way.
+<tr id="L40"><td><a href="#L40">40</a></td><td>WORF:  Klingons never bluff.</td></tr>
 
-  LAFORGE
-     Fifty? You were bluffing.
+<tr id="L41"><td><a href="#L41">41</a></td><td>LAFORGE:  Yeah, right.</td></tr>
 
-  WORF
-     Klingons never bluff.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L42"><td><a href="#L42">42</a></td><td>PICARD:  Mister Data?</td></tr>
 
-  LAFORGE
-     Yeah, right.
+<tr id="L43"><td><a href="#L43">43</a></td><td>DATA:  Emergency signal reads as follows. Enterprise to divert to coordinates four-two-three by one one two by five one immediately. Further orders forthcoming.</td></tr>
 
+<tr id="L44"><td><a href="#L44">44</a></td><td>RIKER:  That's it? What's the emergency?</td></tr>
 
-LOCATION--Bridge
+<tr id="L45"><td><a href="#L45">45</a></td><td>DATA:  The message does not elaborate.</td></tr>
 
-  PICARD
-     Mister Data?
+<tr id="L46"><td><a href="#L46">46</a></td><td>RIKER:  You'd think they'd at least give us a hint.</td></tr>
 
-  DATA
-     Emergency signal reads as follows. Enterprise to
-     divert to coordinates four-two-three by one one
-     two by five one immediately. Further orders
-     forthcoming.
+<tr id="L47"><td><a href="#L47">47</a></td><td>CLANCEY:  Course laid in, Captain.</td></tr>
 
-  RIKER
-     That's it? What's the emergency?
+<tr id="L48"><td><a href="#L48">48</a></td><td>PICARD:  Warp eight. Whenever Starfleet gets enigmatic, I know we're about to face a challenge. Engage.</td></tr>
 
-  DATA
-     The message does not elaborate.
+<tr id="L49"><td><a href="#L49">49</a></td><td>DATA:  Our destination is a point near the Boradis system.</td></tr>
 
-  RIKER
-     You'd think they'd at least give us a hint.
+<tr id="L50"><td><a href="#L50">50</a></td><td>PICARD:  That area was colonized fairly recently, as I recall.</td></tr>
 
-  CLANCEY
-     Course laid in, Captain.
+<tr id="L51"><td><a href="#L51">51</a></td><td>DATA:  The first Federation outpost was established thirty four years ago on Boradis Three.</td></tr>
 
-  PICARD
-     Warp eight. Whenever Starfleet gets enigmatic, I
-     know we're about to face a challenge. Engage.
+<tr id="L52"><td><a href="#L52">52</a></td><td>RIKER:  Since then, the Federation has colonised several planets in that sector.</td></tr>
 
-  DATA
-     Our destination is a point near the Boradis
-     system.
+<tr id="L53"><td><a href="#L53">53</a></td><td>DATA:  Yet we are not headed for a specific colony. The coordinates given are outside the Boradis system.</td></tr>
 
-  PICARD
-     That area was colonized fairly recently, as I
-     recall.
+<tr id="L54"><td><a href="#L54">54</a></td><td>PICARD:  Any problems reported in that area?</td></tr>
 
-  DATA
-     The first Federation outpost was established
-     thirty four years ago on Boradis Three.
+<tr id="L55"><td><a href="#L55">55</a></td><td>DATA:  None, sir.</td></tr>
 
-  RIKER
-     Since then, the Federation has colonised several
-     planets in that sector.
+<tr id="L56"><td><a href="#L56">56</a></td><td>PICARD:  What the devil is going on?</td></tr>
 
-  DATA
-     Yet we are not headed for a specific colony. The
-     coordinates given are outside the Boradis system.
+<tr id="L57"><td><a href="#L57">57</a></td><td>WORF:  Captain, Starfleet Command is hailing us.</td></tr>
 
-  PICARD
-     Any problems reported in that area?
+<tr id="L58"><td><a href="#L58">58</a></td><td>PICARD:  About time. On screen.</td></tr>
 
-  DATA
-     None, sir.
+<tr id="L59"><td><a href="#L59">59</a></td><td>ANNOTATION: a woman in Starfleet uniform is sitting behind a desk</td></tr>
 
-  PICARD
-     What the devil is going on?
+<tr id="L60"><td><a href="#L60">60</a></td><td>GROMEK [on viewscreen]:  Greetings, Captain Picard.</td></tr>
 
-  WORF
-     Captain, Starfleet Command is hailing us.
+<tr id="L61"><td><a href="#L61">61</a></td><td>PICARD:  My compliments, Admiral Gromek.</td></tr>
 
-  PICARD
-     About time. On screen.
+<tr id="L62"><td><a href="#L62">62</a></td><td>GROMEK [on viewscreen]:  Captain, you will soon be joined by a Federation special emissary from Starbase One Five Three. We Are now transmitting the specifics.</td></tr>
 
-  ANNOTATION
-     a woman in Starfleet uniform is sitting behind a
-     desk
+<tr id="L63"><td><a href="#L63">63</a></td><td>DATA:  We are receiving, sir.</td></tr>
 
-  GROMEK [on viewscreen]
-     Greetings, Captain Picard.
+<tr id="L64"><td><a href="#L64">64</a></td><td>GROMEK [on viewscreen]:  The rendezvous will be a bit tricky, so it is imperative you reach the intercept point on schedule.</td></tr>
 
-  PICARD
-     My compliments, Admiral Gromek.
+<tr id="L65"><td><a href="#L65">65</a></td><td>PICARD:  Understood. And the mission?</td></tr>
 
-  GROMEK [on viewscreen]
-     Captain, you will soon be joined by a Federation
-     special emissary from Starbase One Five Three. We
-     Are now transmitting the specifics.
+<tr id="L66"><td><a href="#L66">66</a></td><td>GROMEK [on viewscreen]:  The envoy will fill you in. You are to cooperate fully.</td></tr>
 
-  DATA
-     We are receiving, sir.
+<tr id="L67"><td><a href="#L67">67</a></td><td>PICARD:  Admiral, can you give me any details?</td></tr>
 
-  GROMEK [on viewscreen]
-     The rendezvous will be a bit tricky, so it is
-     imperative you reach the intercept point on
-     schedule.
+<tr id="L68"><td><a href="#L68">68</a></td><td>GROMEK [on viewscreen]:  Negative.</td></tr>
 
-  PICARD
-     Understood. And the mission?
+<tr id="L69"><td><a href="#L69">69</a></td><td>PICARD:  Admiral, it's a little difficult to prepare for a mission I know nothing about.</td></tr>
 
-  GROMEK [on viewscreen]
-     The envoy will fill you in. You are to cooperate
-     fully.
+<tr id="L70"><td><a href="#L70">70</a></td><td>GROMEK [on viewscreen]:  I sympathise, Jean-Luc, but Starfleet Command considers this a top security matter. Once the envoy has briefed you, I think you will understand our caution. Gromek out.</td></tr>
 
-  PICARD
-     Admiral, can you give me any details?
+<tr id="L71"><td><a href="#L71">71</a></td><td>RIKER:  Data, what ship is carrying the envoy?</td></tr>
 
-  GROMEK [on viewscreen]
-     Negative.
+<tr id="L72"><td><a href="#L72">72</a></td><td>DATA:  Apparently there were no starships available on Starbase One Five Three. The envoy is aboard a class eight probe.</td></tr>
 
-  PICARD
-     Admiral, it's a little difficult to prepare for a
-     mission I know nothing about.
+<tr id="L73"><td><a href="#L73">73</a></td><td>RIKER:  A class eight probe is just over two metres long.</td></tr>
 
-  GROMEK [on viewscreen]
-     I sympathise, Jean-Luc, but Starfleet Command
-     considers this a top security matter. Once the
-     envoy has briefed you, I think you will understand
-     our caution. Gromek out.
+<tr id="L74"><td><a href="#L74">74</a></td><td>PICARD:  Yes, that's true, Number One. But if the transmitters and the sensors were removed and life-support installed, there would be just enough room for one person.</td></tr>
 
-  RIKER
-     Data, what ship is carrying the envoy?
+<tr id="L75"><td><a href="#L75">75</a></td><td>RIKER:  And it is designed to travel at warp nine.</td></tr>
 
-  DATA
-     Apparently there were no starships available on
-     Starbase One Five Three. The envoy is aboard a
-     class eight probe.
+<tr id="L76"><td><a href="#L76">76</a></td><td>DATA:  By sending the probe to meet us rather than diverting the Enterprise, they are saving us six point one hours.</td></tr>
 
-  RIKER
-     A class eight probe is just over two metres long.
+<tr id="L77"><td><a href="#L77">77</a></td><td>PICARD:  Obviously Starfleet feels that time is of the essence.</td></tr>
 
-  PICARD
-     Yes, that's true, Number One. But if the
-     transmitters and the sensors were removed and
-     life-support installed, there would be just enough
-     room for one person.
+<tr id="L78"><td><a href="#L78">78</a></td><td>RIKER:  But still, to seal someone inside a class eight Probe and launch it off. It's a hell of a way to transport a Federation dignitary.</td></tr>
 
-  RIKER
-     And it is designed to travel at warp nine.
+<tr id="L79"><td><a href="#L79">79</a></td><td>CLANCEY:  (an elegant brunette with cut glass vowels) Coming to three one mark one one three. i</td></tr>
 
-  DATA
-     By sending the probe to meet us rather than
-     diverting the Enterprise, they are saving us six
-     point one hours.
+<tr id="L80"><td><a href="#L80">80</a></td><td>DATA:  We are on a course precisely parallel to the probe, sir.</td></tr>
 
-  PICARD
-     Obviously Starfleet feels that time is of the
-     essence.
+<tr id="L81"><td><a href="#L81">81</a></td><td>PICARD:  Increase speed to warp eight point nine.</td></tr>
 
-  RIKER
-     But still, to seal someone inside a class eight
-     Probe and launch it off. It's a hell of a way to
-     transport a Federation dignitary.
+<tr id="L82"><td><a href="#L82">82</a></td><td>CLANCEY:  Eight point nine, aye.</td></tr>
 
-  CLANCEY
-     (an elegant brunette with cut glass vowels) Coming
-     to three one mark one one three. i
+<tr id="L83"><td><a href="#L83">83</a></td><td>PICARD:  Full sensors aft.</td></tr>
 
-  DATA
-     We are on a course precisely parallel to the
-     probe, sir.
+<tr id="L84"><td><a href="#L84">84</a></td><td>WORF:  Scanning.</td></tr>
 
-  PICARD
-     Increase speed to warp eight point nine.
+<tr id="L85"><td><a href="#L85">85</a></td><td>RIKER:  Data, if we project our course beyond the rendezvous coordinates, what lies ahead?</td></tr>
 
-  CLANCEY
-     Eight point nine, aye.
+<tr id="L86"><td><a href="#L86">86</a></td><td>DATA:  As far as I can determine, sir, very little. There are four colonies in the Boradis system, as well as nine other outposts scattered throughout the sector.</td></tr>
 
-  PICARD
-     Full sensors aft.
+<tr id="L87"><td><a href="#L87">87</a></td><td>WORF:  I have it, sir. Bearing zero five mark two three one. Velocity, warp nine.</td></tr>
 
-  WORF
-     Scanning.
+<tr id="L88"><td><a href="#L88">88</a></td><td>CLANCEY:  I see it.</td></tr>
 
-  RIKER
-     Data, if we project our course beyond the
-     rendezvous coordinates, what lies ahead?
+<tr id="L89"><td><a href="#L89">89</a></td><td>PICARD:  Adjust speed to intercept.</td></tr>
 
-  DATA
-     As far as I can determine, sir, very little. There
-     are four colonies in the Boradis system, as well
-     as nine other outposts scattered throughout the
-     sector.
+<tr id="L90"><td><a href="#L90">90</a></td><td>WORF:  Probe is coming up to starboard. Range, eighty two hundred. Tractor beam ready.</td></tr>
 
-  WORF
-     I have it, sir. Bearing zero five mark two three
-     one. Velocity, warp nine.
+<tr id="L91"><td><a href="#L91">91</a></td><td>PICARD:  Mister La Forge?</td></tr>
 
-  CLANCEY
-     I see it.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L92"><td><a href="#L92">92</a></td><td>LAFORGE:  Transporter ready, Captain.</td></tr>
 
-  PICARD
-     Adjust speed to intercept.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L93"><td><a href="#L93">93</a></td><td>WORF:  Range now seventy five hundred.</td></tr>
 
-  WORF
-     Probe is coming up to starboard. Range, eighty two
-     hundred. Tractor beam ready.
+<tr id="L94"><td><a href="#L94">94</a></td><td>PICARD:  Steady as she goes</td></tr>
 
-  PICARD
-     Mister La Forge?
+<tr id="L95"><td><a href="#L95">95</a></td><td>WORF:  Probe is standing abeam.</td></tr>
 
+<tr id="L96"><td><a href="#L96">96</a></td><td>PICARD:  Engage tractor.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L97"><td><a href="#L97">97</a></td><td>O'BRIEN [OC]:  Transporter beam locked, Captain.</td></tr>
 
-  LAFORGE
-     Transporter ready, Captain.
+<tr id="L98"><td><a href="#L98">98</a></td><td>PICARD:  Energise.</td></tr>
 
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L99"><td><a href="#L99">99</a></td><td>ANNOTATION: Pulaski enters</td></tr>
 
-LOCATION--Bridge
+<tr id="L100"><td><a href="#L100">100</a></td><td>O'BRIEN:  Probe aboard, Captain.</td></tr>
 
-  WORF
-     Range now seventy five hundred.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L101"><td><a href="#L101">101</a></td><td>PICARD:  Acknowledged. Number One?</td></tr>
 
-  PICARD
-     Steady as she goes
+<tr id="L102"><td><a href="#L102">102</a></td><td>RIKER:  I'll welcome our visitor.</td></tr>
 
-  WORF
-     Probe is standing abeam.
+<tr id="L103"><td><a href="#L103">103</a></td><td>PICARD:  Resume original course and speed.</td></tr>
 
-  PICARD
-     Engage tractor.
+<tr id="L104"><td><a href="#L104">104</a></td><td>CLANCEY:  Aye, sir.</td></tr>
 
-  O'BRIEN [OC]
-     Transporter beam locked, Captain.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L105"><td><a href="#L105">105</a></td><td>ANNOTATION: O'Brien starts pushing buttons on the probe. Riker enters</td></tr>
 
-  PICARD
-     Energise.
+<tr id="L106"><td><a href="#L106">106</a></td><td>LAFORGE:  All yours, Commander.</td></tr>
 
+<tr id="L107"><td><a href="#L107">107</a></td><td>ANNOTATION: La Forge leaves. The probe case unlocks, and Riker helps O'Brien lift off the top. The inside is filled with a person. Pulaski scans and shakes her head</td></tr>
 
-LOCATION--Transporter room
+<tr id="L108"><td><a href="#L108">108</a></td><td>RIKER:  Something wrong, Doctor?</td></tr>
 
-  ANNOTATION
-     Pulaski enters
+<tr id="L109"><td><a href="#L109">109</a></td><td>PULASKI:  I'm not sure. The readings are quite interesting.</td></tr>
 
-  O'BRIEN
-     Probe aboard, Captain.
+<tr id="L110"><td><a href="#L110">110</a></td><td>ANNOTATION: The figure removes the lift support mask and reveals herself to be a Klingon woman</td></tr>
 
+<tr id="L111"><td><a href="#L111">111</a></td><td>K'EHLEYR:  I greet you. I am K'Ehleyr.</td></tr>
 
-LOCATION--Bridge
+<tr id="L112"><td><a href="#L112">112</a></td><td>RIKER:  nuqneH. qaleghneS.</td></tr>
 
-  PICARD
-     Acknowledged. Number One?
+<tr id="L113"><td><a href="#L113">113</a></td><td>K'EHLEYR:  You speak Klingon.</td></tr>
 
-  RIKER
-     I'll welcome our visitor.
+<tr id="L114"><td><a href="#L114">114</a></td><td>RIKER:  A little. I am Commander William Riker. This is Chief Medical Officer Katherine Pulaski. I hope your voyage wasn't too unpleasant.</td></tr>
 
-  PICARD
-     Resume original course and speed.
+<tr id="L115"><td><a href="#L115">115</a></td><td>K'EHLEYR:  Klingons are not supposed to mind hardship. Nonetheless, I am delighted to be out of that damned coffin.</td></tr>
 
-  CLANCEY
-     Aye, sir.
+<tr id="L116"><td><a href="#L116">116</a></td><td>RIKER:  I don't blame you. It's not the most luxurious accommodation Starfleet has to offer.</td></tr>
 
+<tr id="L117"><td><a href="#L117">117</a></td><td>K'EHLEYR:  Whoever said that getting there was half the fun never rode in a class eight probe.</td></tr>
 
-LOCATION--Transporter room
+<tr id="L118"><td><a href="#L118">118</a></td><td>PULASKI:  How are you feeling? Your vital signs are rather atypical for a Klingon.</td></tr>
 
-  ANNOTATION
-     O'Brien starts pushing buttons on the probe. Riker
-     enters
+<tr id="L119"><td><a href="#L119">119</a></td><td>K'EHLEYR:  No doubt because I am only half Klingon.</td></tr>
 
-  LAFORGE
-     All yours, Commander.
+<tr id="L120"><td><a href="#L120">120</a></td><td>PULASKI:  Oh?</td></tr>
 
-  ANNOTATION
-     La Forge leaves. The probe case unlocks, and Riker
-     helps O'Brien lift off the top. The inside is
-     filled with a person. Pulaski scans and shakes her
-     head
+<tr id="L121"><td><a href="#L121">121</a></td><td>K'EHLEYR:  Yes. My father was Klingon. My mother was human.</td></tr>
 
-  RIKER
-     Something wrong, Doctor?
+<tr id="L122"><td><a href="#L122">122</a></td><td>ANNOTATION: And the lovely Susie Plaxton previously played a Vulcan on TNG</td></tr>
 
-  PULASKI
-     I'm not sure. The readings are quite interesting.
+<tr><td></td><td>LOCATION--Observation Lounge</td></tr>
+<tr id="L123"><td><a href="#L123">123</a></td><td>RIKER:  Captain, allow me to present Special Federation Emissary K'Ehleyr.</td></tr>
 
-  ANNOTATION
-     The figure removes the lift support mask and
-     reveals herself to be a Klingon woman
+<tr id="L124"><td><a href="#L124">124</a></td><td>PICARD:  Welcome aboard. I'm Jean-Luc Picard. This is Counsellor Troi, Lieutenant Commander Data, and this is Lieutenant</td></tr>
 
-  K'EHLEYR
-     I greet you. I am K'Ehleyr.
+<tr id="L125"><td><a href="#L125">125</a></td><td>K'EHLEYR:  Worf. So this is where you've been hiding. I told you we'd meet again. Aren't you going to greet me?</td></tr>
 
-  RIKER
-     nuqneH. qaleghneS.
+<tr id="L126"><td><a href="#L126">126</a></td><td>WORF:  I have nothing to say to you.</td></tr>
 
-  K'EHLEYR
-     You speak Klingon.
+<tr id="L127"><td><a href="#L127">127</a></td><td>K'EHLEYR:  Haven't changed a bit. Well, I missed you, too. Two days ago, Starbase Three Three Six received an automated transmission from a Klingon ship, the T'Ong. That ship was sent out over seventy five years ago.</td></tr>
 
-  RIKER
-     A little. I am Commander William Riker. This is
-     Chief Medical Officer Katherine Pulaski. I hope
-     your voyage wasn't too unpleasant.
+<tr id="L128"><td><a href="#L128">128</a></td><td>RIKER:  When the Federation and the Klingon Empire were still at war.</td></tr>
 
-  K'EHLEYR
-     Klingons are not supposed to mind hardship.
-     Nonetheless, I am delighted to be out of that
-     damned coffin.
+<tr id="L129"><td><a href="#L129">129</a></td><td>K'EHLEYR:  The message was directed to the Klingon High Command. It said only that the ship was returning home and was about to reach its awakening point.</td></tr>
 
-  RIKER
-     I don't blame you. It's not the most luxurious
-     accommodation Starfleet has to offer.
+<tr id="L130"><td><a href="#L130">130</a></td><td>PICARD:  Which suggests that the crew had been in cryogenic sleep for that long journey.</td></tr>
 
-  K'EHLEYR
-     Whoever said that getting there was half the fun
-     never rode in a class eight probe.
+<tr id="L131"><td><a href="#L131">131</a></td><td>K'EHLEYR:  Exactly.</td></tr>
 
-  PULASKI
-     How are you feeling? Your vital signs are rather
-     atypical for a Klingon.
+<tr id="L132"><td><a href="#L132">132</a></td><td>RIKER:  And when this crew is revived?</td></tr>
 
-  K'EHLEYR
-     No doubt because I am only half Klingon.
+<tr id="L133"><td><a href="#L133">133</a></td><td>K'EHLEYR:  We'll have a ship full of Klingons who think the war is still going on.</td></tr>
 
-  PULASKI
-     Oh?
+<tr id="L134"><td><a href="#L134">134</a></td><td>PICARD:  So our task is to find the ship, and tell the Klingons they're no longer at war.</td></tr>
 
-  K'EHLEYR
-     Yes. My father was Klingon. My mother was human.
+<tr id="L135"><td><a href="#L135">135</a></td><td>RIKER:  Why us? Wouldn't a Klingon ship be a better choice?</td></tr>
 
-  ANNOTATION
-     And the lovely Susie Plaxton previously played a
-     Vulcan on TNG
+<tr id="L136"><td><a href="#L136">136</a></td><td>K'EHLEYR:  A Klingon ship, the P'rang, is on its way, but it's two days behind us. That may be too late.</td></tr>
 
+<tr id="L137"><td><a href="#L137">137</a></td><td>TROI:  Why too late?</td></tr>
 
-LOCATION--Observation Lounge
+<tr id="L138"><td><a href="#L138">138</a></td><td>RIKER:  When the T'Ong crew awakens it will be within striking range of several Federation outposts.</td></tr>
 
-  RIKER
-     Captain, allow me to present Special Federation
-     Emissary K'Ehleyr.
+<tr id="L139"><td><a href="#L139">139</a></td><td>DATA:  There are thirteen colonies with minimal defences in that sector.</td></tr>
 
-  PICARD
-     Welcome aboard. I'm Jean-Luc Picard. This is
-     Counsellor Troi, Lieutenant Commander Data, and
-     this is Lieutenant
+<tr id="L140"><td><a href="#L140">140</a></td><td>K'EHLEYR:  Nice, ripe targets for a Klingon warship.</td></tr>
 
-  K'EHLEYR
-     Worf. So this is where you've been hiding. I told
-     you we'd meet again. Aren't you going to greet me?
+<tr id="L141"><td><a href="#L141">141</a></td><td>TROI:  And you believe you can convince these Klingons that the humans are now their allies?</td></tr>
 
-  WORF
-     I have nothing to say to you.
+<tr id="L142"><td><a href="#L142">142</a></td><td>K'EHLEYR:  No, not a chance. If you ask me, talking will be a waste of time. Klingons of that era were raised to despise humans. We'll try diplomacy. But I promise you it won't work. And then you'll have to destroy them.</td></tr>
 
-  K'EHLEYR
-     Haven't changed a bit. Well, I missed you, too.
-     Two days ago, Starbase Three Three Six received an
-     automated transmission from a Klingon ship, the
-     T'Ong. That ship was sent out over seventy five
-     years ago.
+<tr id="L143"><td><a href="#L143">143</a></td><td>PICARD:  No.</td></tr>
 
-  RIKER
-     When the Federation and the Klingon Empire were
-     still at war.
+<tr id="L144"><td><a href="#L144">144</a></td><td>K'EHLEYR:  No. Captain, these Klingons are killers. You'll have no choice.</td></tr>
 
-  K'EHLEYR
-     The message was directed to the Klingon High
-     Command. It said only that the ship was returning
-     home and was about to reach its awakening point.
+<tr id="L145"><td><a href="#L145">145</a></td><td>PICARD:  We shall find another choice. I want options and I want them before we encounter the Klingon ship. Lieutenant, I'm assigning you to help the Emissary. Dismissed.</td></tr>
 
-  PICARD
-     Which suggests that the crew had been in cryogenic
-     sleep for that long journey.
+<tr id="L146"><td><a href="#L146">146</a></td><td>TROI:  I will escort you to the guest quarters.</td></tr>
 
-  K'EHLEYR
-     Exactly.
+<tr id="L147"><td><a href="#L147">147</a></td><td>K'EHLEYR:  Captain.</td></tr>
 
-  RIKER
-     And when this crew is revived?
+<tr id="L148"><td><a href="#L148">148</a></td><td>ANNOTATION: All leave except Picard and Worf</td></tr>
 
-  K'EHLEYR
-     We'll have a ship full of Klingons who think the
-     war is still going on.
+<tr id="L149"><td><a href="#L149">149</a></td><td>PICARD:  Lieutenant?</td></tr>
 
-  PICARD
-     So our task is to find the ship, and tell the
-     Klingons they're no longer at war.
+<tr id="L150"><td><a href="#L150">150</a></td><td>WORF:  Sir. I suggest Commander Riker or Data would better serve Special Emissary K'Ehleyr.</td></tr>
 
-  RIKER
-     Why us? Wouldn't a Klingon ship be a better
-     choice?
+<tr id="L151"><td><a href="#L151">151</a></td><td>PICARD:  Are there any personal reasons you don't want the assignment?</td></tr>
 
-  K'EHLEYR
-     A Klingon ship, the P'rang, is on its way, but
-     it's two days behind us. That may be too late.
+<tr id="L152"><td><a href="#L152">152</a></td><td>WORF:  Yes.</td></tr>
 
-  TROI
-     Why too late?
+<tr id="L153"><td><a href="#L153">153</a></td><td>PICARD:  Any professional reasons?</td></tr>
 
-  RIKER
-     When the T'Ong crew awakens it will be within
-     striking range of several Federation outposts.
+<tr id="L154"><td><a href="#L154">154</a></td><td>WORF:  No. (Picard's left eyebrow raises slightly) I withdraw my request, Captain.</td></tr>
 
-  DATA
-     There are thirteen colonies with minimal defences
-     in that sector.
+<tr id="L155"><td><a href="#L155">155</a></td><td>PICARD:  Good.</td></tr>
 
-  K'EHLEYR
-     Nice, ripe targets for a Klingon warship.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L156"><td><a href="#L156">156</a></td><td>TROI:  I didn't know it was possible for a human and a Klingon to produce a child.</td></tr>
 
-  TROI
-     And you believe you can convince these Klingons
-     that the humans are now their allies?
+<tr id="L157"><td><a href="#L157">157</a></td><td>K'EHLEYR:  Actually, the DNA is compatible, with a fair amount of help. Rather like my parents.</td></tr>
 
-  K'EHLEYR
-     No, not a chance. If you ask me, talking will be a
-     waste of time. Klingons of that era were raised to
-     despise humans. We'll try diplomacy. But I promise
-     you it won't work. And then you'll have to destroy
-     them.
+<tr id="L158"><td><a href="#L158">158</a></td><td>TROI:  I know exactly what you mean. My father was human and my mother is a Betazoid.</td></tr>
 
-  PICARD
-     No.
+<tr id="L159"><td><a href="#L159">159</a></td><td>K'EHLEYR:  Really? It was the other way around for me. My mother was human. You must've grown up like I did, trapped between cultures.</td></tr>
 
-  K'EHLEYR
-     No. Captain, these Klingons are killers. You'll
-     have no choice.
+<tr id="L160"><td><a href="#L160">160</a></td><td>TROI:  I never felt trapped. I tried to experience the richness and diversity of the two worlds.</td></tr>
 
-  PICARD
-     We shall find another choice. I want options and I
-     want them before we encounter the Klingon ship.
-     Lieutenant, I'm assigning you to help the
-     Emissary. Dismissed.
+<tr id="L161"><td><a href="#L161">161</a></td><td>K'EHLEYR:  Perhaps you got the best of each.</td></tr>
 
-  TROI
-     I will escort you to the guest quarters.
+<tr><td></td><td>LOCATION--K'Ehleyr's quarters</td></tr>
+<tr id="L162"><td><a href="#L162">162</a></td><td>K'EHLEYR:  Myself, I think I got the worst of each.</td></tr>
 
-  K'EHLEYR
-     Captain.
+<tr id="L163"><td><a href="#L163">163</a></td><td>TROI:  Oh, I doubt that.</td></tr>
 
-  ANNOTATION
-     All leave except Picard and Worf
+<tr id="L164"><td><a href="#L164">164</a></td><td>K'EHLEYR:  Oh, yes. Having my mother's sense of humour is bad enough. It's gotten me into plenty of trouble.</td></tr>
 
-  PICARD
-     Lieutenant?
+<tr id="L165"><td><a href="#L165">165</a></td><td>TROI:  And your Klingon side?</td></tr>
 
-  WORF
-     Sir. I suggest Commander Riker or Data would
-     better serve Special Emissary K'Ehleyr.
+<tr id="L166"><td><a href="#L166">166</a></td><td>K'EHLEYR:  That, I keep under tight control. It's like a terrible temper. It's not something I want people to see.</td></tr>
 
-  PICARD
-     Are there any personal reasons you don't want the
-     assignment?
+<tr id="L167"><td><a href="#L167">167</a></td><td>TROI:  Everyone has tempers.</td></tr>
 
-  WORF
-     Yes.
+<tr id="L168"><td><a href="#L168">168</a></td><td>K'EHLEYR:  Not like mine. Sometimes I feel there's a monster inside of me, fighting to get out.</td></tr>
 
-  PICARD
-     Any professional reasons?
+<tr id="L169"><td><a href="#L169">169</a></td><td>TROI:  And it frightens you.</td></tr>
 
-  WORF
-     No. (Picard's left eyebrow raises slightly) I
-     withdraw my request, Captain.
+<tr id="L170"><td><a href="#L170">170</a></td><td>K'EHLEYR:  Of course it does. My Klingon side can be terrifying, even to me.</td></tr>
 
-  PICARD
-     Good.
+<tr id="L171"><td><a href="#L171">171</a></td><td>TROI:  It gives you strength. It's a part of you.</td></tr>
 
+<tr id="L172"><td><a href="#L172">172</a></td><td>K'EHLEYR:  That doesn't mean I have to like it.</td></tr>
 
-LOCATION--Corridor
+<tr><td></td><td>LOCATION--Tactical room</td></tr>
+<tr id="L173"><td><a href="#L173">173</a></td><td>ANNOTATION: (K'Ehleyr has changed into a red leather catsuit</td></tr>
 
-  TROI
-     I didn't know it was possible for a human and a
-     Klingon to produce a child.
+<tr id="L174"><td><a href="#L174">174</a></td><td>WORF:  You are late.</td></tr>
 
-  K'EHLEYR
-     Actually, the DNA is compatible, with a fair
-     amount of help. Rather like my parents.
+<tr id="L175"><td><a href="#L175">175</a></td><td>K'EHLEYR:  Sorry. Had to make myself beautiful.</td></tr>
 
-  TROI
-     I know exactly what you mean. My father was human
-     and my mother is a Betazoid.
+<tr id="L176"><td><a href="#L176">176</a></td><td>WORF:  I fail to understand why.</td></tr>
 
-  K'EHLEYR
-     Really? It was the other way around for me. My
-     mother was human. You must've grown up like I did,
-     trapped between cultures.
+<tr id="L177"><td><a href="#L177">177</a></td><td>K'EHLEYR:  Worf, we're alone now. You don't have to act like a Klingon glacier. I don't bite. Well, that's wrong, I do bite.</td></tr>
 
-  TROI
-     I never felt trapped. I tried to experience the
-     richness and diversity of the two worlds.
+<tr id="L178"><td><a href="#L178">178</a></td><td>WORF:  Shall we proceed with our assigned duties?</td></tr>
 
-  K'EHLEYR
-     Perhaps you got the best of each.
+<tr id="L179"><td><a href="#L179">179</a></td><td>K'EHLEYR:  You weren't this aloof six years ago. Or don't you remember?</td></tr>
 
+<tr id="L180"><td><a href="#L180">180</a></td><td>WORF:  There is nothing wrong with my memory.</td></tr>
 
-LOCATION--K'Ehleyr's quarters
+<tr id="L181"><td><a href="#L181">181</a></td><td>K'EHLEYR:  Well there's something wrong with the rest of you. You're not even looking at me.</td></tr>
 
-  K'EHLEYR
-     Myself, I think I got the worst of each.
+<tr id="L182"><td><a href="#L182">182</a></td><td>WORF:  I am familiar with your appearance.</td></tr>
 
-  TROI
-     Oh, I doubt that.
+<tr id="L183"><td><a href="#L183">183</a></td><td>K'EHLEYR:  And it gives you no pleasure to see me again. It isn't as if we tried it and it didn't work, you know. You never gave it a chance.</td></tr>
 
-  K'EHLEYR
-     Oh, yes. Having my mother's sense of humour is bad
-     enough. It's gotten me into plenty of trouble.
+<tr id="L184"><td><a href="#L184">184</a></td><td>WORF:  I never?</td></tr>
 
-  TROI
-     And your Klingon side?
+<tr id="L185"><td><a href="#L185">185</a></td><td>K'EHLEYR:  I mean, as I see it, we have some unfinished business, you and I.</td></tr>
 
-  K'EHLEYR
-     That, I keep under tight control. It's like a
-     terrible temper. It's not something I want people
-     to see.
+<tr id="L186"><td><a href="#L186">186</a></td><td>WORF:  Not as far as I'm concerned. According to the library computer, the captain of the T'Ong is K'Temoc. But there is nothing regarding the ship's mission.</td></tr>
 
-  TROI
-     Everyone has tempers.
+<tr id="L187"><td><a href="#L187">187</a></td><td>K'EHLEYR:  Probably some secret military objective.</td></tr>
 
-  K'EHLEYR
-     Not like mine. Sometimes I feel there's a monster
-     inside of me, fighting to get out.
+<tr id="L188"><td><a href="#L188">188</a></td><td>WORF:  Perhaps, but we have no evidence of that.</td></tr>
 
-  TROI
-     And it frightens you.
+<tr id="L189"><td><a href="#L189">189</a></td><td>K'EHLEYR:  Why else would there be no record of the mission?</td></tr>
 
-  K'EHLEYR
-     Of course it does. My Klingon side can be
-     terrifying, even to me.
+<tr id="L190"><td><a href="#L190">190</a></td><td>WORF:  The records may simply have been lost.</td></tr>
 
-  TROI
-     It gives you strength. It's a part of you.
+<tr id="L191"><td><a href="#L191">191</a></td><td>K'EHLEYR:  What does it matter? Our concern is the present, the possible threat.</td></tr>
 
-  K'EHLEYR
-     That doesn't mean I have to like it.
+<tr id="L192"><td><a href="#L192">192</a></td><td>WORF:  And to contend with that threat, we need information.</td></tr>
 
+<tr id="L193"><td><a href="#L193">193</a></td><td>K'EHLEYR:  We have all the information we need.</td></tr>
 
-LOCATION--Tactical room
+<tr id="L194"><td><a href="#L194">194</a></td><td>WORF:  That is foolish. Knowing their mission might help us understand them.</td></tr>
 
-  ANNOTATION
-     (K'Ehleyr has changed into a red leather catsuit
+<tr id="L195"><td><a href="#L195">195</a></td><td>K'EHLEYR:  There is nothing to understand. These are Klingons. They'll attack. In their minds, we're the enemy, and there's no way we're going to talk them out of that!</td></tr>
 
-  WORF
-     You are late.
+<tr id="L196"><td><a href="#L196">196</a></td><td>WORF:  And I do not appreciate being interrupted.</td></tr>
 
-  K'EHLEYR
-     Sorry. Had to make myself beautiful.
+<tr id="L197"><td><a href="#L197">197</a></td><td>K'EHLEYR:  And I do not appreciate wasting my time.</td></tr>
 
-  WORF
-     I fail to understand why.
+<tr id="L198"><td><a href="#L198">198</a></td><td>WORF:  We were instructed to come up with options.</td></tr>
 
-  K'EHLEYR
-     Worf, we're alone now. You don't have to act like
-     a Klingon glacier. I don't bite. Well, that's
-     wrong, I do bite.
+<tr id="L199"><td><a href="#L199">199</a></td><td>K'EHLEYR:  There aren't any. The assignment's hopeless.</td></tr>
 
-  WORF
-     Shall we proceed with our assigned duties?
+<tr id="L200"><td><a href="#L200">200</a></td><td>WORF:  There are always options.</td></tr>
 
-  K'EHLEYR
-     You weren't this aloof six years ago. Or don't you
-     remember?
+<tr id="L201"><td><a href="#L201">201</a></td><td>K'EHLEYR:  Oh, are there? Tell me, whatever happened to that wonderful Klingon fatalism of yours?</td></tr>
 
-  WORF
-     There is nothing wrong with my memory.
+<tr id="L202"><td><a href="#L202">202</a></td><td>WORF:  My experiences aboard this ship have taught me that most problems have more than one solution.</td></tr>
 
-  K'EHLEYR
-     Well there's something wrong with the rest of you.
-     You're not even looking at me.
+<tr id="L203"><td><a href="#L203">203</a></td><td>K'EHLEYR:  Starfleet hasn't improved you one bit. You're as stubborn as ever.</td></tr>
 
-  WORF
-     I am familiar with your appearance.
+<tr id="L204"><td><a href="#L204">204</a></td><td>WORF:  Are you going to carry out your duties, or aren't you?</td></tr>
 
-  K'EHLEYR
-     And it gives you no pleasure to see me again. It
-     isn't as if we tried it and it didn't work, you
-     know. You never gave it a chance.
+<tr id="L205"><td><a href="#L205">205</a></td><td>K'EHLEYR:  All right, I will. Upon due consideration of the problem and careful examination of all possible options, my original recommendation stands. Meeting adjourned.</td></tr>
 
-  WORF
-     I never?
+<tr><td></td><td>LOCATION--K'Ehleyr's quarters</td></tr>
+<tr id="L206"><td><a href="#L206">206</a></td><td>ANNOTATION: She takes out her pent up rage on the poor defenceless glass table. Then the doorbell rings</td></tr>
 
-  K'EHLEYR
-     I mean, as I see it, we have some unfinished
-     business, you and I.
+<tr id="L207"><td><a href="#L207">207</a></td><td>K'EHLEYR:  Come.</td></tr>
 
-  WORF
-     Not as far as I'm concerned. According to the
-     library computer, the captain of the T'Ong is
-     K'Temoc. But there is nothing regarding the ship's
-     mission.
+<tr id="L208"><td><a href="#L208">208</a></td><td>ANNOTATION: Troi enters, carefully</td></tr>
 
-  K'EHLEYR
-     Probably some secret military objective.
+<tr id="L209"><td><a href="#L209">209</a></td><td>TROI:  You're upset.</td></tr>
 
-  WORF
-     Perhaps, but we have no evidence of that.
+<tr id="L210"><td><a href="#L210">210</a></td><td>K'EHLEYR:  Your finely-honed Betazoid sense tells you that?</td></tr>
 
-  K'EHLEYR
-     Why else would there be no record of the mission?
+<tr id="L211"><td><a href="#L211">211</a></td><td>TROI:  Well, that and the table.</td></tr>
 
-  WORF
-     The records may simply have been lost.
+<tr id="L212"><td><a href="#L212">212</a></td><td>K'EHLEYR:  I warned you about my Klingon half.</td></tr>
 
-  K'EHLEYR
-     What does it matter? Our concern is the present,
-     the possible threat.
+<tr id="L213"><td><a href="#L213">213</a></td><td>TROI:  May I make a suggestion?</td></tr>
 
-  WORF
-     And to contend with that threat, we need
-     information.
+<tr id="L214"><td><a href="#L214">214</a></td><td>K'EHLEYR:  I thank you, Counsellor. But I don't want any counseling.</td></tr>
 
-  K'EHLEYR
-     We have all the information we need.
+<tr id="L215"><td><a href="#L215">215</a></td><td>TROI:  Actually, I was going to suggest something else.</td></tr>
 
-  WORF
-     That is foolish. Knowing their mission might help
-     us understand them.
+<tr id="L216"><td><a href="#L216">216</a></td><td>K'EHLEYR:  Oh?</td></tr>
 
-  K'EHLEYR
-     There is nothing to understand. These are
-     Klingons. They'll attack. In their minds, we're
-     the enemy, and there's no way we're going to talk
-     them out of that!
+<tr id="L217"><td><a href="#L217">217</a></td><td>TROI:  I find the exercise programs on the holodeck rigorous enough to put my mind off most frustrations.</td></tr>
 
-  WORF
-     And I do not appreciate being interrupted.
+<tr id="L218"><td><a href="#L218">218</a></td><td>K'EHLEYR:  And it'll keep me from wrecking the ship.</td></tr>
 
-  K'EHLEYR
-     And I do not appreciate wasting my time.
+<tr id="L219"><td><a href="#L219">219</a></td><td>TROI:  That, too</td></tr>
 
-  WORF
-     We were instructed to come up with options.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L220"><td><a href="#L220">220</a></td><td>ANNOTATION: So, in a purple striped catsuit, she prowls down to the holodeck</td></tr>
 
-  K'EHLEYR
-     There aren't any. The assignment's hopeless.
+<tr id="L221"><td><a href="#L221">221</a></td><td>COMPUTER:  Enter programme.</td></tr>
 
-  WORF
-     There are always options.
+<tr id="L222"><td><a href="#L222">222</a></td><td>K'EHLEYR:  Show me the exercise menu. Hold. Calisthenics programme of Lieutenant Worf.</td></tr>
 
-  K'EHLEYR
-     Oh, are there? Tell me, whatever happened to that
-     wonderful Klingon fatalism of yours?
+<tr id="L223"><td><a href="#L223">223</a></td><td>COMPUTER:  Programme complete. You may enter when ready.</td></tr>
 
-  WORF
-     My experiences aboard this ship have taught me
-     that most problems have more than one solution.
+<tr><td></td><td>LOCATION--Battlefield</td></tr>
+<tr id="L224"><td><a href="#L224">224</a></td><td>ANNOTATION: She enters, picks up the armoured glove and gets on with it</td></tr>
 
-  K'EHLEYR
-     Starfleet hasn't improved you one bit. You're as
-     stubborn as ever.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L225"><td><a href="#L225">225</a></td><td>PICARD:  Status, Mister Data?</td></tr>
 
-  WORF
-     Are you going to carry out your duties, or aren't
-     you?
+<tr id="L226"><td><a href="#L226">226</a></td><td>DATA:  Based on the last assumed position of the Klingon vessel, its apparent trajectory, and our estimates of their cruising speed, we should be in scanner range in fifteen hours, eight minutes.</td></tr>
 
-  K'EHLEYR
-     All right, I will. Upon due consideration of the
-     problem and careful examination of all possible
-     options, my original recommendation stands.
-     Meeting adjourned.
+<tr id="L227"><td><a href="#L227">227</a></td><td>ANNOTATION: Worf has stormed in</td></tr>
 
+<tr id="L228"><td><a href="#L228">228</a></td><td>PICARD:  Lieutenant?</td></tr>
 
-LOCATION--K'Ehleyr's quarters
+<tr id="L229"><td><a href="#L229">229</a></td><td>WORF:  Special Emissary K'Ehleyr has declared a short recess, sir. I wish to run a full diagnostic test on all tactical back-up equipment.</td></tr>
 
-  ANNOTATION
-     She takes out her pent up rage on the poor
-     defenceless glass table. Then the doorbell rings
+<tr id="L230"><td><a href="#L230">230</a></td><td>RIKER:  We just ran a full test of those systems.</td></tr>
 
-  K'EHLEYR
-     Come.
+<tr id="L231"><td><a href="#L231">231</a></td><td>WORF:  I feel it necessary to check them again.</td></tr>
 
-  ANNOTATION
-     Troi enters, carefully
+<tr id="L232"><td><a href="#L232">232</a></td><td>PICARD:  Lieutenant, I commend your diligence. However, I'm concerned that you're working yourself too hard.</td></tr>
 
-  TROI
-     You're upset.
+<tr id="L233"><td><a href="#L233">233</a></td><td>WORF:  Sir, considering the unknown elements we are about to face</td></tr>
 
-  K'EHLEYR
-     Your finely-honed Betazoid sense tells you that?
+<tr id="L234"><td><a href="#L234">234</a></td><td>PICARD:  Lieutenant, I order you to relax.</td></tr>
 
-  TROI
-     Well, that and the table.
+<tr id="L235"><td><a href="#L235">235</a></td><td>WORF:  I am relaxed. Yes, sir.</td></tr>
 
-  K'EHLEYR
-     I warned you about my Klingon half.
+<tr id="L236"><td><a href="#L236">236</a></td><td>ANNOTATION: Worf leaves</td></tr>
 
-  TROI
-     May I make a suggestion?
+<tr id="L237"><td><a href="#L237">237</a></td><td>PICARD:  I've never before seen the Lieutenant so unsettled.</td></tr>
 
-  K'EHLEYR
-     I thank you, Counsellor. But I don't want any
-     counseling.
+<tr id="L238"><td><a href="#L238">238</a></td><td>RIKER:  The Iceman's finally melting.</td></tr>
 
-  TROI
-     Actually, I was going to suggest something else.
+<tr id="L239"><td><a href="#L239">239</a></td><td>ANNOTATION: Worf goes to the holodeck, where he sees his programme is running</td></tr>
 
-  K'EHLEYR
-     Oh?
+<tr><td></td><td>LOCATION--Battleground</td></tr>
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: Worf watches as K'Ehleyr takes out three alien attackers. Her blood is up when he approaches, but she takes control of herself again</td></tr>
 
-  TROI
-     I find the exercise programs on the holodeck
-     rigorous enough to put my mind off most
-     frustrations.
+<tr id="L241"><td><a href="#L241">241</a></td><td>K'EHLEYR:  It's not much of a programme.</td></tr>
 
-  K'EHLEYR
-     And it'll keep me from wrecking the ship.
+<tr id="L242"><td><a href="#L242">242</a></td><td>WORF:  Computer, level two.</td></tr>
 
-  TROI
-     That, too
+<tr id="L243"><td><a href="#L243">243</a></td><td>ANNOTATION: The dead aliens come back to life, and he hands her a sword. They dispatch their attackers then she swings at him. Then they gaze at each other, Worf takes her hand, and her scent. She does the same with him, whilst he holds her so tightly her nails draw blood from her palm. We are left to guess what happened next</td></tr>
 
+<tr id="L244"><td><a href="#L244">244</a></td><td>K'EHLEYR:  Some calisthenics programs are better than others.</td></tr>
 
-LOCATION--Corridor
+<tr id="L245"><td><a href="#L245">245</a></td><td>WORF:  You still can make jokes.</td></tr>
 
-  ANNOTATION
-     So, in a purple striped catsuit, she prowls down
-     to the holodeck
+<tr id="L246"><td><a href="#L246">246</a></td><td>K'EHLEYR:  You don't like people with a sense of humour?</td></tr>
 
-  COMPUTER
-     Enter programme.
+<tr id="L247"><td><a href="#L247">247</a></td><td>WORF:  I did not say that.</td></tr>
 
-  K'EHLEYR
-     Show me the exercise menu. Hold. Calisthenics
-     programme of Lieutenant Worf.
+<tr id="L248"><td><a href="#L248">248</a></td><td>K'EHLEYR:  Worf, you're the perfect Klingon. The ultimate minimalist. Talk to me.</td></tr>
 
-  COMPUTER
-     Programme complete. You may enter when ready.
+<tr id="L249"><td><a href="#L249">249</a></td><td>WORF:  I've noted that some people use humour as a shield. They talk much, yet say little.</td></tr>
 
+<tr id="L250"><td><a href="#L250">250</a></td><td>K'EHLEYR:  Whereas others take a simpler approach. Say nothing.</td></tr>
 
-LOCATION--Battlefield
+<tr id="L251"><td><a href="#L251">251</a></td><td>WORF:  When one does not have the words</td></tr>
 
-  ANNOTATION
-     She enters, picks up the armoured glove and gets
-     on with it
+<tr id="L252"><td><a href="#L252">252</a></td><td>K'EHLEYR:  Or is loath to speak them. Why didn't we do this six years ago?</td></tr>
 
+<tr id="L253"><td><a href="#L253">253</a></td><td>WORF:  We were not ready.</td></tr>
 
-LOCATION--Bridge
+<tr id="L254"><td><a href="#L254">254</a></td><td>K'EHLEYR:  I was.</td></tr>
 
-  PICARD
-     Status, Mister Data?
+<tr id="L255"><td><a href="#L255">255</a></td><td>WORF:  No, we were both too young, too unaware. We lacked commitment.</td></tr>
 
-  DATA
-     Based on the last assumed position of the Klingon
-     vessel, its apparent trajectory, and our estimates
-     of their cruising speed, we should be in scanner
-     range in fifteen hours, eight minutes.
+<tr id="L256"><td><a href="#L256">256</a></td><td>K'EHLEYR:  Perhaps we lacked courage as well.</td></tr>
 
-  ANNOTATION
-     Worf has stormed in
+<tr id="L257"><td><a href="#L257">257</a></td><td>WORF:  No longer. tlhIngan jIH.</td></tr>
 
-  PICARD
-     Lieutenant?
+<tr id="L258"><td><a href="#L258">258</a></td><td>K'EHLEYR:  Wait. You can't mean</td></tr>
 
-  WORF
-     Special Emissary K'Ehleyr has declared a short
-     recess, sir. I wish to run a full diagnostic test
-     on all tactical back-up equipment.
+<tr id="L259"><td><a href="#L259">259</a></td><td>WORF:  We are mated.</td></tr>
 
-  RIKER
-     We just ran a full test of those systems.
+<tr id="L260"><td><a href="#L260">260</a></td><td>K'EHLEYR:  Yes, I know. I was there. But</td></tr>
 
-  WORF
-     I feel it necessary to check them again.
+<tr id="L261"><td><a href="#L261">261</a></td><td>WORF:  And now we must solemnise our union with the oath.</td></tr>
 
-  PICARD
-     Lieutenant, I commend your diligence. However, I'm
-     concerned that you're working yourself too hard.
+<tr id="L262"><td><a href="#L262">262</a></td><td>K'EHLEYR:  I'm not going to become your wife!</td></tr>
 
-  WORF
-     Sir, considering the unknown elements we are about
-     to face
+<tr id="L263"><td><a href="#L263">263</a></td><td>WORF:  You already are.</td></tr>
 
-  PICARD
-     Lieutenant, I order you to relax.
+<tr id="L264"><td><a href="#L264">264</a></td><td>K'EHLEYR:  Don't give me that Klingon nonsense.</td></tr>
 
-  WORF
-     I am relaxed. Yes, sir.
+<tr id="L265"><td><a href="#L265">265</a></td><td>WORF:  You would dishonour our sacred traditions?</td></tr>
 
-  ANNOTATION
-     Worf leaves
+<tr id="L266"><td><a href="#L266">266</a></td><td>K'EHLEYR:  They're not sacred. They're absurd! Marrying you is out of the question for a million reasons.</td></tr>
 
-  PICARD
-     I've never before seen the Lieutenant so
-     unsettled.
+<tr id="L267"><td><a href="#L267">267</a></td><td>WORF:  None of which stopped you earlier.</td></tr>
 
-  RIKER
-     The Iceman's finally melting.
+<tr id="L268"><td><a href="#L268">268</a></td><td>K'EHLEYR:  Worf, it was what it was. Glorious and wonderful and all that, but it doesn't mean anything.</td></tr>
 
-  ANNOTATION
-     Worf goes to the holodeck, where he sees his
-     programme is running
+<tr id="L269"><td><a href="#L269">269</a></td><td>WORF:  That is a human attitude.</td></tr>
 
+<tr id="L270"><td><a href="#L270">270</a></td><td>K'EHLEYR:  I am human!</td></tr>
 
-LOCATION--Battleground
+<tr id="L271"><td><a href="#L271">271</a></td><td>WORF:  You are also Klingon!</td></tr>
 
-  ANNOTATION
-     Worf watches as K'Ehleyr takes out three alien
-     attackers. Her blood is up when he approaches, but
-     she takes control of herself again
+<tr id="L272"><td><a href="#L272">272</a></td><td>K'EHLEYR:  So that means we should bond for life?</td></tr>
 
-  K'EHLEYR
-     It's not much of a programme.
+<tr id="L273"><td><a href="#L273">273</a></td><td>WORF:  It is our way!</td></tr>
 
-  WORF
-     Computer, level two.
+<tr id="L274"><td><a href="#L274">274</a></td><td>K'EHLEYR:  Yours, not mine!</td></tr>
 
-  ANNOTATION
-     The dead aliens come back to life, and he hands
-     her a sword. They dispatch their attackers then
-     she swings at him. Then they gaze at each other,
-     Worf takes her hand, and her scent. She does the
-     same with him, whilst he holds her so tightly her
-     nails draw blood from her palm. We are left to
-     guess what happened next
+<tr id="L275"><td><a href="#L275">275</a></td><td>WORF:  tlhIngan jIH!</td></tr>
 
-  K'EHLEYR
-     Some calisthenics programs are better than others.
+<tr id="L276"><td><a href="#L276">276</a></td><td>K'EHLEYR:  I will not take the oath!</td></tr>
 
-  WORF
-     You still can make jokes.
+<tr id="L277"><td><a href="#L277">277</a></td><td>WORF:  Then this night had no meaning. And that, I will not believe.</td></tr>
 
-  K'EHLEYR
-     You don't like people with a sense of humour?
+<tr id="L278"><td><a href="#L278">278</a></td><td>K'EHLEYR:  Believe what you will.</td></tr>
 
-  WORF
-     I did not say that.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L279"><td><a href="#L279">279</a></td><td>CLANCEY:  Approaching the coordinates.</td></tr>
 
-  K'EHLEYR
-     Worf, you're the perfect Klingon. The ultimate
-     minimalist. Talk to me.
+<tr id="L280"><td><a href="#L280">280</a></td><td>PICARD:  Slow to impulse.</td></tr>
 
-  WORF
-     I've noted that some people use humour as a
-     shield. They talk much, yet say little.
+<tr id="L281"><td><a href="#L281">281</a></td><td>TACTICAL:  Short and long-range sensor scans negative, Captain.</td></tr>
 
-  K'EHLEYR
-     Whereas others take a simpler approach. Say
-     nothing.
+<tr id="L282"><td><a href="#L282">282</a></td><td>PICARD:  Lay in a standard search pattern.</td></tr>
 
-  WORF
-     When one does not have the words
+<tr id="L283"><td><a href="#L283">283</a></td><td>CLANCEY:  Search pattern laid in.</td></tr>
 
-  K'EHLEYR
-     Or is loath to speak them. Why didn't we do this
-     six years ago?
+<tr id="L284"><td><a href="#L284">284</a></td><td>PICARD:  Full impulse. Engage.</td></tr>
 
-  WORF
-     We were not ready.
+<tr id="L285"><td><a href="#L285">285</a></td><td>RIKER:  I hope we find them before they come out of their nap.</td></tr>
 
-  K'EHLEYR
-     I was.
+<tr id="L286"><td><a href="#L286">286</a></td><td>PICARD:  Agreed. There's not an outpost in this area could defend itself against a Klingon warship.</td></tr>
 
-  WORF
-     No, we were both too young, too unaware. We lacked
-     commitment.
+<tr><td></td><td>LOCATION--Tactical room</td></tr>
+<tr id="L287"><td><a href="#L287">287</a></td><td>ANNOTATION: Worf enters, with Data</td></tr>
 
-  K'EHLEYR
-     Perhaps we lacked courage as well.
+<tr id="L288"><td><a href="#L288">288</a></td><td>K'EHLEYR:  I've been working on our assignment, trying a few computer simulations.</td></tr>
 
-  WORF
-     No longer. tlhIngan jIH.
+<tr id="L289"><td><a href="#L289">289</a></td><td>WORF:  Your devotion to duty is commendable, if belated.</td></tr>
 
-  K'EHLEYR
-     Wait. You can't mean
+<tr id="L290"><td><a href="#L290">290</a></td><td>K'EHLEYR:  Unwilling to be alone with me?</td></tr>
 
-  WORF
-     We are mated.
+<tr id="L291"><td><a href="#L291">291</a></td><td>WORF:  I asked Lieutenant Commander Data to help us analyse the alternatives.</td></tr>
 
-  K'EHLEYR
-     Yes, I know. I was there. But
+<tr id="L292"><td><a href="#L292">292</a></td><td>K'EHLEYR:  An android chaperon.</td></tr>
 
-  WORF
-     And now we must solemnise our union with the oath.
+<tr id="L293"><td><a href="#L293">293</a></td><td>DATA:  Android, of course, is correct, but I fail to see how chaperon is applicable in this situation.</td></tr>
 
-  K'EHLEYR
-     I'm not going to become your wife!
+<tr id="L294"><td><a href="#L294">294</a></td><td>K'EHLEYR:  Never mind. I guess I can't blame you. Tell me one thing. You would have gone through with the oath, wouldn't you? Regardless of the consequences to our careers, to our lives?</td></tr>
 
-  WORF
-     You already are.
+<tr id="L295"><td><a href="#L295">295</a></td><td>WORF:  Honour demanded no less.</td></tr>
 
-  K'EHLEYR
-     Don't give me that Klingon nonsense.
+<tr id="L296"><td><a href="#L296">296</a></td><td>K'EHLEYR:  What do you want? Is honour all you care about? Don't you feel anything else? No comment, huh? Poor android. Whose behaviour do you find more perplexing? Human or Klingon?</td></tr>
 
-  WORF
-     You would dishonour our sacred traditions?
+<tr id="L297"><td><a href="#L297">297</a></td><td>DATA:  At the moment, I would find it difficult to choose.</td></tr>
 
-  K'EHLEYR
-     They're not sacred. They're absurd! Marrying you
-     is out of the question for a million reasons.
+<tr id="L298"><td><a href="#L298">298</a></td><td>K'EHLEYR:  So would I. Okay. When we locate the T'Ong, there are two possibilities. First</td></tr>
 
-  WORF
-     None of which stopped you earlier.
+<tr><td></td><td>LOCATION--Observation Lounge</td></tr>
+<tr id="L299"><td><a href="#L299">299</a></td><td>K'EHLEYR:  We find the ship before it reaches the awakening point. In that case, we simply keep the crew asleep.</td></tr>
 
-  K'EHLEYR
-     Worf, it was what it was. Glorious and wonderful
-     and all that, but it doesn't mean anything.
+<tr id="L300"><td><a href="#L300">300</a></td><td>PICARD:  Is that feasible?</td></tr>
 
-  WORF
-     That is a human attitude.
+<tr id="L301"><td><a href="#L301">301</a></td><td>LAFORGE:  We can beam an away team onto the T'Ong and override the cryogenic controls, sure.</td></tr>
 
-  K'EHLEYR
-     I am human!
+<tr id="L302"><td><a href="#L302">302</a></td><td>K'EHLEYR:  Then we await the arrival of the Klingon ship P'rang.</td></tr>
 
-  WORF
-     You are also Klingon!
+<tr id="L303"><td><a href="#L303">303</a></td><td>TROI:  So that when the T'Ong's crew awakens, they're surrounded by their fellow Klingons.</td></tr>
 
-  K'EHLEYR
-     So that means we should bond for life?
+<tr id="L304"><td><a href="#L304">304</a></td><td>RIKER:  That would be ideal.</td></tr>
 
-  WORF
-     It is our way!
+<tr id="L305"><td><a href="#L305">305</a></td><td>K'EHLEYR:  But there's the second possibility. That the crew of the T'Ong has already revived.</td></tr>
 
-  K'EHLEYR
-     Yours, not mine!
+<tr id="L306"><td><a href="#L306">306</a></td><td>LAFORGE:  They realise they're in Federation territory and attack the nearest outpost.</td></tr>
 
-  WORF
-     tlhIngan jIH!
+<tr id="L307"><td><a href="#L307">307</a></td><td>TROI:  They could have been on a scientific voyage.</td></tr>
 
-  K'EHLEYR
-     I will not take the oath!
+<tr id="L308"><td><a href="#L308">308</a></td><td>K'EHLEYR:  Klingons of that ear doing research for its own sake?</td></tr>
 
-  WORF
-     Then this night had no meaning. And that, I will
-     not believe.
+<tr id="L309"><td><a href="#L309">309</a></td><td>RIKER:  The point is, they may be reasonable.</td></tr>
 
-  K'EHLEYR
-     Believe what you will.
+<tr id="L310"><td><a href="#L310">310</a></td><td>K'EHLEYR:  The point is that this is beside the point. These are Klingons, at war with us. Whatever their mission was, once they see a Federation target, they'll attack.</td></tr>
 
+<tr id="L311"><td><a href="#L311">311</a></td><td>PICARD:  Could the T'Ong be disabled rather than destroyed?</td></tr>
 
-LOCATION--Bridge
+<tr id="L312"><td><a href="#L312">312</a></td><td>LAFORGE:  We could probably knock out their warp drive engines without damaging the rest of their ship.</td></tr>
 
-  CLANCEY
-     Approaching the coordinates.
+<tr id="L313"><td><a href="#L313">313</a></td><td>K'EHLEYR:  That would gain you nothing. Disable the ship, and K'Temoc will destroy it himself.</td></tr>
 
-  PICARD
-     Slow to impulse.
+<tr id="L314"><td><a href="#L314">314</a></td><td>WORF:  Klingons do not surrender.</td></tr>
 
-  TACTICAL
-     Short and long-range sensor scans negative,
-     Captain.
+<tr id="L315"><td><a href="#L315">315</a></td><td>K'EHLEYR:  If we don't reach the T'Ong before its crew wakes up, you have no alternatives.</td></tr>
 
-  PICARD
-     Lay in a standard search pattern.
+<tr id="L316"><td><a href="#L316">316</a></td><td>PICARD:  I can't not accept that. There must be some way that we can make the Klingons listen. If we can only convince them</td></tr>
 
-  CLANCEY
-     Search pattern laid in.
+<tr id="L317"><td><a href="#L317">317</a></td><td>DATA [OC]:  Captain, we are detecting a ship,</td></tr>
 
-  PICARD
-     Full impulse. Engage.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L318"><td><a href="#L318">318</a></td><td>DATA:  Bearing three one-six mark four two</td></tr>
 
-  RIKER
-     I hope we find them before they come out of their
-     nap.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L319"><td><a href="#L319">319</a></td><td>DATA [OC]:  Extreme sensor range.</td></tr>
 
-  PICARD
-     Agreed. There's not an outpost in this area could
-     defend itself against a Klingon warship.
+<tr id="L320"><td><a href="#L320">320</a></td><td>PICARD:  Lay in intercept course. Go to yellow alert.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L321"><td><a href="#L321">321</a></td><td>WORF:  Shields are up.</td></tr>
 
-LOCATION--Tactical room
+<tr id="L322"><td><a href="#L322">322</a></td><td>K'EHLEYR:  Better lock in phasers. This may be the only chance you get.</td></tr>
 
-  ANNOTATION
-     Worf enters, with Data
+<tr id="L323"><td><a href="#L323">323</a></td><td>CLANCEY:  Intercept course laid in.</td></tr>
 
-  K'EHLEYR
-     I've been working on our assignment, trying a few
-     computer simulations.
+<tr id="L324"><td><a href="#L324">324</a></td><td>PICARD:  Hold this position. Let's see if they've spotted us. Magnification, one hundred. Mister Data?</td></tr>
 
-  WORF
-     Your devotion to duty is commendable, if belated.
+<tr id="L325"><td><a href="#L325">325</a></td><td>DATA:  Sensors show life forms aboard, but I am unable to ascertain whether they are awake or dormant. However, the vessel's propulsion systems are inactive, so I would hypothesize that the crew is asleep.</td></tr>
 
-  K'EHLEYR
-     Unwilling to be alone with me?
+<tr id="L326"><td><a href="#L326">326</a></td><td>ANNOTATION: So they get shot at</td></tr>
 
-  WORF
-     I asked Lieutenant Commander Data to help us
-     analyse the alternatives.
+<tr id="L327"><td><a href="#L327">327</a></td><td>DATA:  However, I could be in error.</td></tr>
 
-  K'EHLEYR
-     An android chaperon.
+<tr id="L328"><td><a href="#L328">328</a></td><td>WORF:  Shields holding.</td></tr>
 
-  DATA
-     Android, of course, is correct, but I fail to see
-     how chaperon is applicable in this situation.
+<tr id="L329"><td><a href="#L329">329</a></td><td>RIKER:  They've cloaked themselves.</td></tr>
 
-  K'EHLEYR
-     Never mind. I guess I can't blame you. Tell me one
-     thing. You would have gone through with the oath,
-     wouldn't you? Regardless of the consequences to
-     our careers, to our lives?
+<tr id="L330"><td><a href="#L330">330</a></td><td>K'EHLEYR:  Well, Captain you've had your chance.</td></tr>
 
-  WORF
-     Honour demanded no less.
+<tr id="L331"><td><a href="#L331">331</a></td><td>ANNOTATION: a few minutes later, La Forge enters</td></tr>
 
-  K'EHLEYR
-     What do you want? Is honour all you care about?
-     Don't you feel anything else? No comment, huh?
-     Poor android. Whose behaviour do you find more
-     perplexing? Human or Klingon?
+<tr id="L332"><td><a href="#L332">332</a></td><td>LAFORGE:  Transferring Engineering to the Bridge.</td></tr>
 
-  DATA
-     At the moment, I would find it difficult to
-     choose.
+<tr id="L333"><td><a href="#L333">333</a></td><td>PICARD:  Can you find them?</td></tr>
 
-  K'EHLEYR
-     So would I. Okay. When we locate the T'Ong, there
-     are two possibilities. First
+<tr id="L334"><td><a href="#L334">334</a></td><td>LAFORGE:  I think so. Those old shields weren't particularly efficient at blocking gamma ray output. If I can tune the sensors to a particular band of. There. Got them. Transferring coordinates to helm.</td></tr>
 
+<tr id="L335"><td><a href="#L335">335</a></td><td>PICARD:  Intercept. Warp two.</td></tr>
 
-LOCATION--Observation Lounge
+<tr id="L336"><td><a href="#L336">336</a></td><td>CLANCEY:  Warp two, sir.</td></tr>
 
-  K'EHLEYR
-     We find the ship before it reaches the awakening
-     point. In that case, we simply keep the crew
-     asleep.
+<tr id="L337"><td><a href="#L337">337</a></td><td>K'EHLEYR:  Captain let them die like Klingons, in battle. They deserve that much.</td></tr>
 
-  PICARD
-     Is that feasible?
+<tr id="L338"><td><a href="#L338">338</a></td><td>WORF:  Captain. I have another option.</td></tr>
 
-  LAFORGE
-     We can beam an away team onto the T'Ong and
-     override the cryogenic controls, sure.
+<tr id="L339"><td><a href="#L339">339</a></td><td>SOMEONE: Captain's log, stardate 42901.3. Despite their cloaking shields, we have located the Klingon vessel, T'Ong. In an effort to avoid further confrontation, we're about to implement the option presented by Lieutenant Worf.</td></tr>
 
-  K'EHLEYR
-     Then we await the arrival of the Klingon ship
-     P'rang.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L340"><td><a href="#L340">340</a></td><td>DATA:  The T'Ong has changed course to three two mark eight one. Increasing to warp three.</td></tr>
 
-  TROI
-     So that when the T'Ong's crew awakens, they're
-     surrounded by their fellow Klingons.
+<tr id="L341"><td><a href="#L341">341</a></td><td>RIKER:  Standard evasive manoeuvre.</td></tr>
 
-  RIKER
-     That would be ideal.
+<tr id="L342"><td><a href="#L342">342</a></td><td>PICARD:  Helm, stay with them.</td></tr>
 
-  K'EHLEYR
-     But there's the second possibility. That the crew
-     of the T'Ong has already revived.
+<tr id="L343"><td><a href="#L343">343</a></td><td>CLANCEY:  Yes, sir.</td></tr>
 
-  LAFORGE
-     They realise they're in Federation territory and
-     attack the nearest outpost.
+<tr id="L344"><td><a href="#L344">344</a></td><td>DATA:  The T'Ong is now on a heading of four two mark one one three. They are accelerating to warp five.</td></tr>
 
-  TROI
-     They could have been on a scientific voyage.
+<tr id="L345"><td><a href="#L345">345</a></td><td>RIKER:  They're going to make a break for it.</td></tr>
 
-  K'EHLEYR
-     Klingons of that ear doing research for its own
-     sake?
+<tr id="L346"><td><a href="#L346">346</a></td><td>PICARD:  Overtake, warp eight.</td></tr>
 
-  RIKER
-     The point is, they may be reasonable.
+<tr id="L347"><td><a href="#L347">347</a></td><td>CLANCEY:  Aye.</td></tr>
 
-  K'EHLEYR
-     The point is that this is beside the point. These
-     are Klingons, at war with us. Whatever their
-     mission was, once they see a Federation target,
-     they'll attack.
+<tr id="L348"><td><a href="#L348">348</a></td><td>PICARD:  Now, put us right in their path and come to a full stop. Full power to shields.</td></tr>
 
-  PICARD
-     Could the T'Ong be disabled rather than destroyed?
+<tr id="L349"><td><a href="#L349">349</a></td><td>TACTICAL:  Full power, sir.</td></tr>
 
-  LAFORGE
-     We could probably knock out their warp drive
-     engines without damaging the rest of their ship.
+<tr id="L350"><td><a href="#L350">350</a></td><td>PICARD:  Well, we've thrown down the gauntlet. Let's see if they pick it up.</td></tr>
 
-  K'EHLEYR
-     That would gain you nothing. Disable the ship, and
-     K'Temoc will destroy it himself.
+<tr id="L351"><td><a href="#L351">351</a></td><td>DATA:  They are slowing to impulse, sir.</td></tr>
 
-  WORF
-     Klingons do not surrender.
+<tr id="L352"><td><a href="#L352">352</a></td><td>ANNOTATION: The ship appears and fires</td></tr>
 
-  K'EHLEYR
-     If we don't reach the T'Ong before its crew wakes
-     up, you have no alternatives.
+<tr id="L353"><td><a href="#L353">353</a></td><td>TACTICAL:  Phaser hit on forward shields. Firming up now. No damage.</td></tr>
 
-  PICARD
-     I can't not accept that. There must be some way
-     that we can make the Klingons listen. If we can
-     only convince them
+<tr id="L354"><td><a href="#L354">354</a></td><td>RIKER:  I guess we've piqued their interest now.</td></tr>
 
-  DATA [OC]
-     Captain, we are detecting a ship,
+<tr id="L355"><td><a href="#L355">355</a></td><td>PICARD:  Agreed. Let's give them the chance to look their enemy in the face. Ready, Lieutenant?</td></tr>
 
+<tr id="L356"><td><a href="#L356">356</a></td><td>WORF:  Open hailing frequencies.</td></tr>
 
-LOCATION--Bridge
+<tr id="L357"><td><a href="#L357">357</a></td><td>TACTICAL:  Open, sir.</td></tr>
 
-  DATA
-     Bearing three one-six mark four two
+<tr id="L358"><td><a href="#L358">358</a></td><td>K'TEMOC [on viewscreen]:  What? What is this?</td></tr>
 
+<tr id="L359"><td><a href="#L359">359</a></td><td>ANNOTATION: Worf and K'Ehleyr are in Klingon uniforms, sitting where Picard and Riker should be</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L360"><td><a href="#L360">360</a></td><td>WORF:  Captain K'Temoc, have you lost your mind? Halt your vessel and drop your shields.</td></tr>
 
-  DATA [OC]
-     Extreme sensor range.
+<tr id="L361"><td><a href="#L361">361</a></td><td>K'TEMOC [on viewscreen]:  What treachery is this? By whose authority?</td></tr>
 
-  PICARD
-     Lay in intercept course. Go to yellow alert.
+<tr id="L362"><td><a href="#L362">362</a></td><td>WORF:  I am Worf, commanding the Enterprise. And it is you who have committed an act of treason by firing upon this ship.</td></tr>
 
+<tr id="L363"><td><a href="#L363">363</a></td><td>K'TEMOC [on viewscreen]:  I have standing orders to fire on all Federation ships!</td></tr>
 
-LOCATION--Bridge
+<tr id="L364"><td><a href="#L364">364</a></td><td>WORF:  You fool! Did it not occur to you that the war would be over by now?</td></tr>
 
-  WORF
-     Shields are up.
+<tr id="L365"><td><a href="#L365">365</a></td><td>K'TEMOC [on viewscreen]:  I have no proof of that.</td></tr>
 
-  K'EHLEYR
-     Better lock in phasers. This may be the only
-     chance you get.
+<tr id="L366"><td><a href="#L366">366</a></td><td>WORF:  Trust your eyes. Or is your brain still stuck in its long slumber?</td></tr>
 
-  CLANCEY
-     Intercept course laid in.
+<tr id="L367"><td><a href="#L367">367</a></td><td>K'TEMOC [on viewscreen]:  How do I know this is not a Federation trick? How can I be sure?</td></tr>
 
-  PICARD
-     Hold this position. Let's see if they've spotted
-     us. Magnification, one hundred. Mister Data?
+<tr id="L368"><td><a href="#L368">368</a></td><td>WORF:  Captain, as you are new to this century, I have tried to be patient. But I will tolerate no further insubordination. Drop your shields. Immediately.</td></tr>
 
-  DATA
-     Sensors show life forms aboard, but I am unable to
-     ascertain whether they are awake or dormant.
-     However, the vessel's propulsion systems are
-     inactive, so I would hypothesize that the crew is
-     asleep.
+<tr id="L369"><td><a href="#L369">369</a></td><td>K'TEMOC [on viewscreen]:  And if I refuse?</td></tr>
 
-  ANNOTATION
-     So they get shot at
+<tr id="L370"><td><a href="#L370">370</a></td><td>WORF:  Then die in ignorance. I can waste no more time on you. Phasers to full power.</td></tr>
 
-  DATA
-     However, I could be in error.
+<tr id="L371"><td><a href="#L371">371</a></td><td>TACTICAL:  Aye, sir. Phasers ready. Target locked.</td></tr>
 
-  WORF
-     Shields holding.
+<tr id="L372"><td><a href="#L372">372</a></td><td>K'TEMOC [on viewscreen]:  You dare not destroy us. We are on a crucial mission by order of the Klingon High Command.</td></tr>
 
-  RIKER
-     They've cloaked themselves.
+<tr id="L373"><td><a href="#L373">373</a></td><td>WORF:  Has the T'Ong dropped its shields?</td></tr>
 
-  K'EHLEYR
-     Well, Captain you've had your chance.
+<tr id="L374"><td><a href="#L374">374</a></td><td>TACTICAL:  No, sir.</td></tr>
 
-  ANNOTATION
-     a few minutes later, La Forge enters
+<tr id="L375"><td><a href="#L375">375</a></td><td>WORF:  Very well. Fire all phasers.</td></tr>
 
-  LAFORGE
-     Transferring Engineering to the Bridge.
+<tr id="L376"><td><a href="#L376">376</a></td><td>K'TEMOC [on viewscreen]:  Wait! Lower the shields. I yield command of the T'Ong to you, Captain Worf. Long live the Klingon Empire.</td></tr>
 
-  PICARD
-     Can you find them?
+<tr id="L377"><td><a href="#L377">377</a></td><td>WORF:  A wise decision, Captain. Commander K'Ehleyr will board your ship and take command. The Klingon cruiser P'rang will soon arrive and escort you home. And, Captain</td></tr>
 
-  LAFORGE
-     I think so. Those old shields weren't particularly
-     efficient at blocking gamma ray output. If I can
-     tune the sensors to a particular band of. There.
-     Got them. Transferring coordinates to helm.
+<tr id="L378"><td><a href="#L378">378</a></td><td>K'TEMOC [on viewscreen]:  Yes?</td></tr>
 
-  PICARD
-     Intercept. Warp two.
+<tr id="L379"><td><a href="#L379">379</a></td><td>WORF:  Welcome to the twenty fourth century.</td></tr>
 
-  CLANCEY
-     Warp two, sir.
+<tr id="L380"><td><a href="#L380">380</a></td><td>ANNOTATION: Transmission ends. Picard and Riker come out of the Ready room</td></tr>
 
-  K'EHLEYR
-     Captain let them die like Klingons, in battle.
-     They deserve that much.
+<tr id="L381"><td><a href="#L381">381</a></td><td>WORF:  I return command of the ship to you, Captain.</td></tr>
 
-  WORF
-     Captain. I have another option.
+<tr id="L382"><td><a href="#L382">382</a></td><td>PICARD:  Thank you, Lieutenant. Congratulations. A very fine first command. Well done.</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 42901.3. Despite their
-     cloaking shields, we have located the Klingon
-     vessel, T'Ong. In an effort to avoid further
-     confrontation, we're about to implement the option
-     presented by Lieutenant Worf.
+<tr id="L383"><td><a href="#L383">383</a></td><td>RIKER:  How did you like command?</td></tr>
 
+<tr id="L384"><td><a href="#L384">384</a></td><td>WORF:  Comfortable chair.</td></tr>
 
-LOCATION--Bridge
+<tr id="L385"><td><a href="#L385">385</a></td><td>K'EHLEYR:  And you wore it well.</td></tr>
 
-  DATA
-     The T'Ong has changed course to three two mark
-     eight one. Increasing to warp three.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L386"><td><a href="#L386">386</a></td><td>WORF:  One to beam aboard the T'Ong.</td></tr>
 
-  RIKER
-     Standard evasive manoeuvre.
+<tr id="L387"><td><a href="#L387">387</a></td><td>O'BRIEN:  All set.</td></tr>
 
-  PICARD
-     Helm, stay with them.
+<tr id="L388"><td><a href="#L388">388</a></td><td>WORF:  I relieve you.</td></tr>
 
-  CLANCEY
-     Yes, sir.
+<tr id="L389"><td><a href="#L389">389</a></td><td>O'BRIEN:  Yes, Lieutenant.</td></tr>
 
-  DATA
-     The T'Ong is now on a heading of four two mark one
-     one three. They are accelerating to warp five.
+<tr id="L390"><td><a href="#L390">390</a></td><td>ANNOTATION: O'Brien leaves</td></tr>
 
-  RIKER
-     They're going to make a break for it.
+<tr id="L391"><td><a href="#L391">391</a></td><td>WORF:  The Klingon vessel P'rang will rendezvous with you in three days.</td></tr>
 
-  PICARD
-     Overtake, warp eight.
+<tr id="L392"><td><a href="#L392">392</a></td><td>K'EHLEYR:  In the meantime, I'll begin the assimilation of these Klingons to our era.</td></tr>
 
-  CLANCEY
-     Aye.
+<tr id="L393"><td><a href="#L393">393</a></td><td>WORF:  Is there anything else you require?</td></tr>
 
-  PICARD
-     Now, put us right in their path and come to a full
-     stop. Full power to shields.
+<tr id="L394"><td><a href="#L394">394</a></td><td>K'EHLEYR:  No. Nothing else. Damn you, Worf. You'd let me go without saying another word, wouldn't you?</td></tr>
 
-  TACTICAL
-     Full power, sir.
+<tr id="L395"><td><a href="#L395">395</a></td><td>WORF:  What needs to be said?</td></tr>
 
-  PICARD
-     Well, we've thrown down the gauntlet. Let's see if
-     they pick it up.
+<tr id="L396"><td><a href="#L396">396</a></td><td>K'EHLEYR:  Nothing. Everything. We're about to go our separate ways again.</td></tr>
 
-  DATA
-     They are slowing to impulse, sir.
+<tr id="L397"><td><a href="#L397">397</a></td><td>WORF:  And that disturbs you?</td></tr>
 
-  ANNOTATION
-     The ship appears and fires
+<tr id="L398"><td><a href="#L398">398</a></td><td>K'EHLEYR:  I hid the truth from you. Last night did have meaning. I was tempted to take the oath with you, but it scared me. I've never had such strong feelings toward anyone.</td></tr>
 
-  TACTICAL
-     Phaser hit on forward shields. Firming up now. No
-     damage.
+<tr id="L399"><td><a href="#L399">399</a></td><td>WORF:  Nor have I.</td></tr>
 
-  RIKER
-     I guess we've piqued their interest now.
+<tr id="L400"><td><a href="#L400">400</a></td><td>K'EHLEYR:  Then it was more than just a point of honour. Maybe someday, when our paths cross again, I won't be as easy to get rid of.</td></tr>
 
-  PICARD
-     Agreed. Let's give them the chance to look their
-     enemy in the face. Ready, Lieutenant?
+<tr id="L401"><td><a href="#L401">401</a></td><td>WORF:  K'Ehleyr. I will not be complete without you.</td></tr>
 
-  WORF
-     Open hailing frequencies.
-
-  TACTICAL
-     Open, sir.
-
-  K'TEMOC [on viewscreen]
-     What? What is this?
-
-  ANNOTATION
-     Worf and K'Ehleyr are in Klingon uniforms, sitting
-     where Picard and Riker should be
-
-  WORF
-     Captain K'Temoc, have you lost your mind? Halt
-     your vessel and drop your shields.
-
-  K'TEMOC [on viewscreen]
-     What treachery is this? By whose authority?
-
-  WORF
-     I am Worf, commanding the Enterprise. And it is
-     you who have committed an act of treason by firing
-     upon this ship.
-
-  K'TEMOC [on viewscreen]
-     I have standing orders to fire on all Federation
-     ships!
-
-  WORF
-     You fool! Did it not occur to you that the war
-     would be over by now?
-
-  K'TEMOC [on viewscreen]
-     I have no proof of that.
-
-  WORF
-     Trust your eyes. Or is your brain still stuck in
-     its long slumber?
-
-  K'TEMOC [on viewscreen]
-     How do I know this is not a Federation trick? How
-     can I be sure?
-
-  WORF
-     Captain, as you are new to this century, I have
-     tried to be patient. But I will tolerate no
-     further insubordination. Drop your shields.
-     Immediately.
-
-  K'TEMOC [on viewscreen]
-     And if I refuse?
-
-  WORF
-     Then die in ignorance. I can waste no more time on
-     you. Phasers to full power.
-
-  TACTICAL
-     Aye, sir. Phasers ready. Target locked.
-
-  K'TEMOC [on viewscreen]
-     You dare not destroy us. We are on a crucial
-     mission by order of the Klingon High Command.
-
-  WORF
-     Has the T'Ong dropped its shields?
-
-  TACTICAL
-     No, sir.
-
-  WORF
-     Very well. Fire all phasers.
-
-  K'TEMOC [on viewscreen]
-     Wait! Lower the shields. I yield command of the
-     T'Ong to you, Captain Worf. Long live the Klingon
-     Empire.
-
-  WORF
-     A wise decision, Captain. Commander K'Ehleyr will
-     board your ship and take command. The Klingon
-     cruiser P'rang will soon arrive and escort you
-     home. And, Captain
-
-  K'TEMOC [on viewscreen]
-     Yes?
-
-  WORF
-     Welcome to the twenty fourth century.
-
-  ANNOTATION
-     Transmission ends. Picard and Riker come out of
-     the Ready room
-
-  WORF
-     I return command of the ship to you, Captain.
-
-  PICARD
-     Thank you, Lieutenant. Congratulations. A very
-     fine first command. Well done.
-
-  RIKER
-     How did you like command?
-
-  WORF
-     Comfortable chair.
-
-  K'EHLEYR
-     And you wore it well.
-
-
-LOCATION--Transporter room
-
-  WORF
-     One to beam aboard the T'Ong.
-
-  O'BRIEN
-     All set.
-
-  WORF
-     I relieve you.
-
-  O'BRIEN
-     Yes, Lieutenant.
-
-  ANNOTATION
-     O'Brien leaves
-
-  WORF
-     The Klingon vessel P'rang will rendezvous with you
-     in three days.
-
-  K'EHLEYR
-     In the meantime, I'll begin the assimilation of
-     these Klingons to our era.
-
-  WORF
-     Is there anything else you require?
-
-  K'EHLEYR
-     No. Nothing else. Damn you, Worf. You'd let me go
-     without saying another word, wouldn't you?
-
-  WORF
-     What needs to be said?
-
-  K'EHLEYR
-     Nothing. Everything. We're about to go our
-     separate ways again.
-
-  WORF
-     And that disturbs you?
-
-  K'EHLEYR
-     I hid the truth from you. Last night did have
-     meaning. I was tempted to take the oath with you,
-     but it scared me. I've never had such strong
-     feelings toward anyone.
-
-  WORF
-     Nor have I.
-
-  K'EHLEYR
-     Then it was more than just a point of honour.
-     Maybe someday, when our paths cross again, I won't
-     be as easy to get rid of.
-
-  WORF
-     K'Ehleyr. I will not be complete without you.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

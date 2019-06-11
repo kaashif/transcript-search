@@ -1,1888 +1,1013 @@
-Crossroads
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Crossroads</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--GATE ROOM</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: The Gate activates. Guards surround it with their weapons drawn. The iris is closed.</td></tr>
 
-LOCATION--GATE ROOM
+<tr id="L2"><td><a href="#L2">2</a></td><td>TECHNICIAN: (on intercom) Offworld activation, repeat, we have an offworld activation.</td></tr>
 
-  ANNOTATION
-     The Gate activates. Guards surround it with their
-     weapons drawn. The iris is closed.
+<tr><td></td><td>LOCATION--CONTROL ROOM</td></tr>
+<tr id="L3"><td><a href="#L3">3</a></td><td>ANNOTATION: Hammond and O'Neill enter the room.</td></tr>
 
-  TECHNICIAN
-     (on intercom) Offworld activation, repeat, we have
-     an offworld activation.
+<tr id="L4"><td><a href="#L4">4</a></td><td>TECHNICIAN: We're receiving Bra'tac's IDC, sir.</td></tr>
 
+<tr id="L5"><td><a href="#L5">5</a></td><td>O'NEILL: Bra'tac?</td></tr>
 
-LOCATION--CONTROL ROOM
+<tr id="L6"><td><a href="#L6">6</a></td><td>HAMMOND: Open the iris, have Teal'c come to the Gate room.</td></tr>
 
-  ANNOTATION
-     Hammond and O'Neill enter the room.
+<tr><td></td><td>LOCATION--GATE ROOM</td></tr>
+<tr id="L7"><td><a href="#L7">7</a></td><td>ANNOTATION: O'Neill walks in. A lone cloaked figure exits the wormhole. The guards aim their weapons. The figure removes the cloak and reveals herself as a beautiful woman. She spreads her arms in a gesture of peace.</td></tr>
 
-  TECHNICIAN
-     We're receiving Bra'tac's IDC, sir.
+<tr id="L8"><td><a href="#L8">8</a></td><td>SHAUN'AUC: I mean you no harm.</td></tr>
 
-  O'NEILL
-     Bra'tac?
+<tr id="L9"><td><a href="#L9">9</a></td><td>ANNOTATION: The Gate disengages.</td></tr>
 
-  HAMMOND
-     Open the iris, have Teal'c come to the Gate room.
+<tr id="L10"><td><a href="#L10">10</a></td><td>O'NEILL: Bra'tac...you've done something with your hair!</td></tr>
 
+<tr id="L11"><td><a href="#L11">11</a></td><td>HAMMOND: (in control room) Identify yourself!</td></tr>
 
-LOCATION--GATE ROOM
+<tr id="L12"><td><a href="#L12">12</a></td><td>SHAUN'AUC: I am Shaun'auc of the Red Hills. Master Bra'tac opened the Chappa'ai but was unable to accompany me.</td></tr>
 
-  ANNOTATION
-     O'Neill walks in. A lone cloaked figure exits the
-     wormhole. The guards aim their weapons. The figure
-     removes the cloak and reveals herself as a
-     beautiful woman. She spreads her arms in a gesture
-     of peace.
+<tr id="L13"><td><a href="#L13">13</a></td><td>O'NEILL: Why is that?</td></tr>
 
-  SHAUN'AUC
-     I mean you no harm.
+<tr id="L14"><td><a href="#L14">14</a></td><td>SHAUN'AUC: There is much unrest on Chulak. He took great risk in sending me here.</td></tr>
 
-  ANNOTATION
-     The Gate disengages.
+<tr id="L15"><td><a href="#L15">15</a></td><td>ANNOTATION: Teal'c enters the Gate room.</td></tr>
 
-  O'NEILL
-     Bra'tac...you've done something with your hair!
+<tr id="L16"><td><a href="#L16">16</a></td><td>TEAL'C: (surprised) Shaun'auc!</td></tr>
 
-  HAMMOND
-     (in control room) Identify yourself!
+<tr id="L17"><td><a href="#L17">17</a></td><td>O'NEILL: (to Teal'c) Friend of yours?</td></tr>
 
-  SHAUN'AUC
-     I am Shaun'auc of the Red Hills. Master Bra'tac
-     opened the Chappa'ai but was unable to accompany
-     me.
+<tr id="L18"><td><a href="#L18">18</a></td><td>TEAL'C: Indeed.</td></tr>
 
-  O'NEILL
-     Why is that?
+<tr id="L19"><td><a href="#L19">19</a></td><td>ANNOTATION: O'Neill signals for the guards to lower their weapons. Shaun'auc walks down the ramp to Teal'c and they stand staring at each other, holding hands.</td></tr>
 
-  SHAUN'AUC
-     There is much unrest on Chulak. He took great risk
-     in sending me here.
+<tr id="L20"><td><a href="#L20">20</a></td><td>SHAUN'AUC: Tal matte, Teal'c.</td></tr>
 
-  ANNOTATION
-     Teal'c enters the Gate room.
+<tr id="L21"><td><a href="#L21">21</a></td><td>TEAL'C: Kell matte!</td></tr>
 
-  TEAL'C
-     (surprised) Shaun'auc!
+<tr id="L22"><td><a href="#L22">22</a></td><td>ANNOTATION: O'Neill clears his throat to gain Teal'c's attention.</td></tr>
 
-  O'NEILL
-     (to Teal'c) Friend of yours?
+<tr id="L23"><td><a href="#L23">23</a></td><td>O'NEILL: Teal'c...how about a little introduction of some sort.</td></tr>
 
-  TEAL'C
-     Indeed.
+<tr id="L24"><td><a href="#L24">24</a></td><td>SHAUN'AUC: There is no need.</td></tr>
 
-  ANNOTATION
-     O'Neill signals for the guards to lower their
-     weapons. Shaun'auc walks down the ramp to Teal'c
-     and they stand staring at each other, holding
-     hands.
+<tr id="L25"><td><a href="#L25">25</a></td><td>ANNOTATION: She turns to face O'Neill.</td></tr>
 
-  SHAUN'AUC
-     Tal matte, Teal'c.
+<tr id="L26"><td><a href="#L26">26</a></td><td>SHAUN'AUC: Bra'tac has told me much of the Tau'ri. You are O'Neill...Teal'c's apprentice.</td></tr>
 
-  TEAL'C
-     Kell matte!
+<tr id="L27"><td><a href="#L27">27</a></td><td>O'NEILL: Yes... (realizes what she said) ...apprentice?</td></tr>
 
-  ANNOTATION
-     O'Neill clears his throat to gain Teal'c's
-     attention.
+<tr id="L28"><td><a href="#L28">28</a></td><td>ANNOTATION: Teal'c smiles at O'Neill.</td></tr>
 
-  O'NEILL
-     Teal'c...how about a little introduction of some
-     sort.
+<tr id="L29"><td><a href="#L29">29</a></td><td>SHAUN'AUC: Also a warrior of great skill and cunning.</td></tr>
 
-  SHAUN'AUC
-     There is no need.
+<tr id="L30"><td><a href="#L30">30</a></td><td>O'NEILL: Apprentice?</td></tr>
 
-  ANNOTATION
-     She turns to face O'Neill.
+<tr id="L31"><td><a href="#L31">31</a></td><td>ANNOTATION: Hammond enters.</td></tr>
 
-  SHAUN'AUC
-     Bra'tac has told me much of the Tau'ri. You are
-     O'Neill...Teal'c's apprentice.
+<tr id="L32"><td><a href="#L32">32</a></td><td>SHAUN'AUC: Hammond of Texas, a great and strong leader among humans.</td></tr>
 
-  O'NEILL
-     Yes... (realizes what she said) ...apprentice?
+<tr id="L33"><td><a href="#L33">33</a></td><td>HAMMOND: What can we do for you?</td></tr>
 
-  ANNOTATION
-     Teal'c smiles at O'Neill.
+<tr id="L34"><td><a href="#L34">34</a></td><td>SHAUN'AUC: You must take me to the Tok'ra immediately.</td></tr>
 
-  SHAUN'AUC
-     Also a warrior of great skill and cunning.
+<tr id="L35"><td><a href="#L35">35</a></td><td>ANNOTATION: O'Neill raises his eyebrows in surprise.</td></tr>
 
-  O'NEILL
-     Apprentice?
+<tr id="L36"><td><a href="#L36">36</a></td><td>SHAUN'AUC: I have information that could destroy the Goa'uld.</td></tr>
 
-  ANNOTATION
-     Hammond enters.
+<tr id="L37"><td><a href="#L37">37</a></td><td>ANNOTATION: They all stare at her.</td></tr>
 
-  SHAUN'AUC
-     Hammond of Texas, a great and strong leader among
-     humans.
+<tr id="L38"><td><a href="#L38">38</a></td><td>END OF TEASER: </td></tr>
 
-  HAMMOND
-     What can we do for you?
+<tr><td></td><td>LOCATION--CHEYENNE MOUNTAIN--DAY</td></tr>
+<tr><td></td><td>LOCATION--BRIEFING ROOM</td></tr>
+<tr id="L39"><td><a href="#L39">39</a></td><td>ANNOTATION: SG-1, Hammond, Fraiser and Shaun'auc are sitting around the table.</td></tr>
 
-  SHAUN'AUC
-     You must take me to the Tok'ra immediately.
+<tr id="L40"><td><a href="#L40">40</a></td><td>SHAUN'AUC: I have found a way to communicate with my symbiote.</td></tr>
 
-  ANNOTATION
-     O'Neill raises his eyebrows in surprise.
+<tr id="L41"><td><a href="#L41">41</a></td><td>O'NEILL: (to Teal'c) Is that possible?</td></tr>
 
-  SHAUN'AUC
-     I have information that could destroy the Goa'uld.
+<tr id="L42"><td><a href="#L42">42</a></td><td>TEAL'C: It is not.</td></tr>
 
-  ANNOTATION
-     They all stare at her.
+<tr id="L43"><td><a href="#L43">43</a></td><td>SHAUN'AUC: That is what we were trained to believe, Teal'c. The Goa'uld have no wish for the Jaffa to influence their young.</td></tr>
 
-  END OF TEASER
+<tr id="L44"><td><a href="#L44">44</a></td><td>DANIEL: That makes sense.</td></tr>
 
+<tr id="L45"><td><a href="#L45">45</a></td><td>TEAL'C: How then was this communion achieved?</td></tr>
 
+<tr id="L46"><td><a href="#L46">46</a></td><td>SHAUN'AUC: With in a deep state of Kel-no-reem.</td></tr>
 
-LOCATION--CHEYENNE MOUNTAIN--DAY
+<tr id="L47"><td><a href="#L47">47</a></td><td>CARTER: Well, we know that the symbiote is completely isolated from the Jaffa who carries it. How can there be communication?</td></tr>
 
+<tr id="L48"><td><a href="#L48">48</a></td><td>FRAISER: Medically speaking the symbiote acts almost like an internal organ. There's an exchange of hormones and electrical impulses, but it's on a completely unconscious level.</td></tr>
 
-LOCATION--BRIEFING ROOM
+<tr id="L49"><td><a href="#L49">49</a></td><td>HAMMOND: It's a function of their immune system.</td></tr>
 
-  ANNOTATION
-     SG-1, Hammond, Fraiser and Shaun'auc are sitting
-     around the table.
+<tr id="L50"><td><a href="#L50">50</a></td><td>ANNOTATION: O'Neill looks at Hammond, surprised at his knowledge.</td></tr>
 
-  SHAUN'AUC
-     I have found a way to communicate with my
-     symbiote.
+<tr id="L51"><td><a href="#L51">51</a></td><td>SHAUN'AUC: It has taken many years, but I have raised that primal communication to the conscious level.</td></tr>
 
-  O'NEILL
-     (to Teal'c) Is that possible?
+<tr id="L52"><td><a href="#L52">52</a></td><td>DANIEL: Oh, ok, assuming that you...err...what do you talk about?</td></tr>
 
-  TEAL'C
-     It is not.
+<tr id="L53"><td><a href="#L53">53</a></td><td>SHAUN'AUC: I have convinced it that the Goa'uld are evil. That its own desires for power and domination are wrong. It is willing to join the Tok'ra and reveal all Goa'uld secrets to them.</td></tr>
 
-  SHAUN'AUC
-     That is what we were trained to believe, Teal'c.
-     The Goa'uld have no wish for the Jaffa to
-     influence their young.
+<tr id="L54"><td><a href="#L54">54</a></td><td>ANNOTATION: She looks at Hammond</td></tr>
 
-  DANIEL
-     That makes sense.
+<tr id="L55"><td><a href="#L55">55</a></td><td>O'NEILL: I know I'm just the apprentice at this table, but...</td></tr>
 
-  TEAL'C
-     How then was this communion achieved?
+<tr id="L56"><td><a href="#L56">56</a></td><td>TEAL'C: Why then not instruct this symbiote to deliver these secrets directly?</td></tr>
 
-  SHAUN'AUC
-     With in a deep state of Kel-no-reem.
+<tr id="L57"><td><a href="#L57">57</a></td><td>O'NEILL: Exactly.</td></tr>
 
-  CARTER
-     Well, we know that the symbiote is completely
-     isolated from the Jaffa who carries it. How can
-     there be communication?
+<tr id="L58"><td><a href="#L58">58</a></td><td>SHAUN'AUC: We do not communicate in words. It is more feelings, images, memories. It will only be fully capable of communicating the knowledge it was born with once it takes a host.</td></tr>
 
-  FRAISER
-     Medically speaking the symbiote acts almost like
-     an internal organ. There's an exchange of hormones
-     and electrical impulses, but it's on a completely
-     unconscious level.
+<tr id="L59"><td><a href="#L59">59</a></td><td>CARTER: And since you convinced it that the Goa'uld are evil it will only take a willing host?</td></tr>
 
-  HAMMOND
-     It's a function of their immune system.
+<tr id="L60"><td><a href="#L60">60</a></td><td>SHAUN'AUC: (in pain) It is most urgent!</td></tr>
 
-  ANNOTATION
-     O'Neill looks at Hammond, surprised at his
-     knowledge.
+<tr id="L61"><td><a href="#L61">61</a></td><td>TEAL'C: Your symbiote is ready to take a host even now!</td></tr>
 
-  SHAUN'AUC
-     It has taken many years, but I have raised that
-     primal communication to the conscious level.
+<tr id="L62"><td><a href="#L62">62</a></td><td>SHAUN'AUC: It has already passed its time. You have my word that it will harm no one. I have convinced it to wait!</td></tr>
 
-  DANIEL
-     Oh, ok, assuming that you...err...what do you talk
-     about?
+<tr id="L63"><td><a href="#L63">63</a></td><td>ANNOTATION: O'Neill raises his eyebrows in disbelief.</td></tr>
 
-  SHAUN'AUC
-     I have convinced it that the Goa'uld are evil.
-     That its own desires for power and domination are
-     wrong. It is willing to join the Tok'ra and reveal
-     all Goa'uld secrets to them.
+<tr id="L64"><td><a href="#L64">64</a></td><td>FRAISER: Once a Goa'uld larva leaves the body the Jaffa's immune system stops functioning. You're putting yourself at great risk.</td></tr>
 
-  ANNOTATION
-     She looks at Hammond
+<tr id="L65"><td><a href="#L65">65</a></td><td>SHAUN'AUC: I believe that risk is worth taking. If you would take me to the Tok'ra immediately?</td></tr>
 
-  O'NEILL
-     I know I'm just the apprentice at this table,
-     but...
+<tr id="L66"><td><a href="#L66">66</a></td><td>HAMMOND: We can't do that. I'm sorry.</td></tr>
 
-  TEAL'C
-     Why then not instruct this symbiote to deliver
-     these secrets directly?
+<tr id="L67"><td><a href="#L67">67</a></td><td>ANNOTATION: She looks around at everybody</td></tr>
 
-  O'NEILL
-     Exactly.
+<tr id="L68"><td><a href="#L68">68</a></td><td>SHAUN'AUC: You do not believe I speak the truth.</td></tr>
 
-  SHAUN'AUC
-     We do not communicate in words. It is more
-     feelings, images, memories. It will only be fully
-     capable of communicating the knowledge it was born
-     with once it takes a host.
+<tr id="L69"><td><a href="#L69">69</a></td><td>DANIEL: No, it's not that we don't believe you...</td></tr>
 
-  CARTER
-     And since you convinced it that the Goa'uld are
-     evil it will only take a willing host?
+<tr id="L70"><td><a href="#L70">70</a></td><td>TEAL'C: (interrupting) We do not. What you say cannot be proven.</td></tr>
 
-  SHAUN'AUC
-     (in pain) It is most urgent!
+<tr id="L71"><td><a href="#L71">71</a></td><td>O'NEILL: I think what Teal'c's trying to say is that...</td></tr>
 
-  TEAL'C
-     Your symbiote is ready to take a host even now!
+<tr id="L72"><td><a href="#L72">72</a></td><td>TEAL'C: I have said precisely what I intended, O'Neill!</td></tr>
 
-  SHAUN'AUC
-     It has already passed its time. You have my word
-     that it will harm no one. I have convinced it to
-     wait!
+<tr id="L73"><td><a href="#L73">73</a></td><td>ANNOTATION: They stare at each other.</td></tr>
 
-  ANNOTATION
-     O'Neill raises his eyebrows in disbelief.
+<tr id="L74"><td><a href="#L74">74</a></td><td>O'NEILL: Ok, then I guess what I'm trying to say is that we'd like to believe you, we really would...</td></tr>
 
-  FRAISER
-     Once a Goa'uld larva leaves the body the Jaffa's
-     immune system stops functioning. You're putting
-     yourself at great risk.
+<tr id="L75"><td><a href="#L75">75</a></td><td>SHAUN'AUC: You have my word... (looks around) ...but that is not enough! (She stands to leave) Then the secrets of the Goa'uld will die with me!</td></tr>
 
-  SHAUN'AUC
-     I believe that risk is worth taking. If you would
-     take me to the Tok'ra immediately?
+<tr id="L76"><td><a href="#L76">76</a></td><td>HAMMOND: Shaun'auc, please understand?</td></tr>
 
-  HAMMOND
-     We can't do that. I'm sorry.
+<tr id="L77"><td><a href="#L77">77</a></td><td>ANNOTATION: The symbiote stirs in her pouch.</td></tr>
 
-  ANNOTATION
-     She looks around at everybody
+<tr id="L78"><td><a href="#L78">78</a></td><td>SHAUN'AUC: (in pain) I do understand, General Hammond, Bra'tac was wrong about the wisdom of the Tau'ri!</td></tr>
 
-  SHAUN'AUC
-     You do not believe I speak the truth.
+<tr id="L79"><td><a href="#L79">79</a></td><td>ANNOTATION: She collapses to the floor in agony. Everyone stands, alarmed.</td></tr>
 
-  DANIEL
-     No, it's not that we don't believe you...
+<tr id="L80"><td><a href="#L80">80</a></td><td>TEAL'C: Shaun'auc! Shaun'auc!</td></tr>
 
-  TEAL'C
-     (interrupting) We do not. What you say cannot be
-     proven.
+<tr id="L81"><td><a href="#L81">81</a></td><td>ANNOTATION: The symbiote suddenly half emerges from her pouch. Everyone is shocked. O'Neill looks disgusted at the symbiote.</td></tr>
 
-  O'NEILL
-     I think what Teal'c's trying to say is that...
+<tr id="L82"><td><a href="#L82">82</a></td><td>HAMMOND: (to guard) Airman!</td></tr>
 
-  TEAL'C
-     I have said precisely what I intended, O'Neill!
+<tr id="L83"><td><a href="#L83">83</a></td><td>ANNOTATION: The guard aims his gun at the symbiote.</td></tr>
 
-  ANNOTATION
-     They stare at each other.
+<tr id="L84"><td><a href="#L84">84</a></td><td>TEAL'C: Do not!</td></tr>
 
-  O'NEILL
-     Ok, then I guess what I'm trying to say is that
-     we'd like to believe you, we really would...
+<tr id="L85"><td><a href="#L85">85</a></td><td>SHAUN'AUC: (To her symbiote) Taluk, mak kal'ma. Shal tai...shal tai...shal tai. {The symbiote recedes into her pouch. Shaun'auc passes out.]</td></tr>
 
-  SHAUN'AUC
-     You have my word... (looks around) ...but that is
-     not enough! (She stands to leave) Then the secrets
-     of the Goa'uld will die with me!
+<tr id="L86"><td><a href="#L86">86</a></td><td>TEAL'C: Dr Fraiser, you may now approach.</td></tr>
 
-  HAMMOND
-     Shaun'auc, please understand?
+<tr id="L87"><td><a href="#L87">87</a></td><td>ANNOTATION: Fraiser runs over to help Shaun'auc.</td></tr>
 
-  ANNOTATION
-     The symbiote stirs in her pouch.
+<tr id="L88"><td><a href="#L88">88</a></td><td>FRAISER: We need to get her to the infirmary.</td></tr>
 
-  SHAUN'AUC
-     (in pain) I do understand, General Hammond,
-     Bra'tac was wrong about the wisdom of the Tau'ri!
+<tr><td></td><td>LOCATION--SGC INFIRMARY</td></tr>
+<tr id="L89"><td><a href="#L89">89</a></td><td>ANNOTATION: Fraiser is monitoring Shaun'auc who is asleep in an infirmary bed. Teal'c is sitting on the bed watching her. O'Neill and Hammond are also present. Fraiser walks over to Hammond and O'Neill.</td></tr>
 
-  ANNOTATION
-     She collapses to the floor in agony. Everyone
-     stands, alarmed.
+<tr id="L90"><td><a href="#L90">90</a></td><td>FRAISER: She wasn't exaggerating. The symbiote is fully adult.</td></tr>
 
-  TEAL'C
-     Shaun'auc! Shaun'auc!
+<tr id="L91"><td><a href="#L91">91</a></td><td>O'NEILL: Yeah, saw that!</td></tr>
 
-  ANNOTATION
-     The symbiote suddenly half emerges from her pouch.
-     Everyone is shocked. O'Neill looks disgusted at
-     the symbiote.
+<tr id="L92"><td><a href="#L92">92</a></td><td>HAMMOND: So her immune system is breaking down?</td></tr>
 
-  HAMMOND
-     (to guard) Airman!
+<tr id="L93"><td><a href="#L93">93</a></td><td>FRAISER: Yes, I'm not sure how long the symbiote will remain before it has no choice but to seek out a new host. That is its primal instinctual behavior. I may have to recommend quarantine, sir.</td></tr>
 
-  ANNOTATION
-     The guard aims his gun at the symbiote.
+<tr id="L94"><td><a href="#L94">94</a></td><td>HAMMOND: (to O'Neill) Well, if you think so?</td></tr>
 
-  TEAL'C
-     Do not!
+<tr id="L95"><td><a href="#L95">95</a></td><td>ANNOTATION: O'Neill looks shocked to have been asked.</td></tr>
 
-  SHAUN'AUC
-     (To her symbiote) Taluk, mak kal'ma. Shal
-     tai...shal tai...shal tai. {The symbiote recedes
-     into her pouch. Shaun'auc passes out.]
+<tr id="L96"><td><a href="#L96">96</a></td><td>O'NEILL: Absolutely...sir!</td></tr>
 
-  TEAL'C
-     Dr Fraiser, you may now approach.
+<tr id="L97"><td><a href="#L97">97</a></td><td>SHAUN'AUC: No.</td></tr>
 
-  ANNOTATION
-     Fraiser runs over to help Shaun'auc.
+<tr id="L98"><td><a href="#L98">98</a></td><td>ANNOTATION: Fraiser walks over to the bed.</td></tr>
 
-  FRAISER
-     We need to get her to the infirmary.
+<tr id="L99"><td><a href="#L99">99</a></td><td>FRAISER: I gave you a sedative. You should be asleep.</td></tr>
 
+<tr id="L100"><td><a href="#L100">100</a></td><td>SHAUN'AUC: Kal'ma has neutralized the sedative.</td></tr>
 
-LOCATION--SGC INFIRMARY
+<tr id="L101"><td><a href="#L101">101</a></td><td>FRAISER: Kal'ma?</td></tr>
 
-  ANNOTATION
-     Fraiser is monitoring Shaun'auc who is asleep in
-     an infirmary bed. Teal'c is sitting on the bed
-     watching her. O'Neill and Hammond are also
-     present. Fraiser walks over to Hammond and
-     O'Neill.
+<tr id="L102"><td><a href="#L102">102</a></td><td>TEAL'C: (angrily) It means child. (To Shaun'auc) The demon you carry within you is no child!</td></tr>
 
-  FRAISER
-     She wasn't exaggerating. The symbiote is fully
-     adult.
+<tr id="L103"><td><a href="#L103">103</a></td><td>SHAUN'AUC: Do I not carry it in me as I would my own? Have I not taught it right from wrong as any mother would? You have closed your mind, Teal'c. I expected more!</td></tr>
 
-  O'NEILL
-     Yeah, saw that!
+<tr id="L104"><td><a href="#L104">104</a></td><td>ANNOTATION: Hammond and O'Neill exchange glances at this outburst.</td></tr>
 
-  HAMMOND
-     So her immune system is breaking down?
+<tr id="L105"><td><a href="#L105">105</a></td><td>TEAL'C: May we speak privately?</td></tr>
 
-  FRAISER
-     Yes, I'm not sure how long the symbiote will
-     remain before it has no choice but to seek out a
-     new host. That is its primal instinctual behavior.
-     I may have to recommend quarantine, sir.
+<tr id="L106"><td><a href="#L106">106</a></td><td>SHAUN'AUC: My symbiote has assured me that this will not happen again.</td></tr>
 
-  HAMMOND
-     (to O'Neill) Well, if you think so?
+<tr id="L107"><td><a href="#L107">107</a></td><td>O'NEILL: (sarcastically) Oh well, if the snake says so then who are we!</td></tr>
 
-  ANNOTATION
-     O'Neill looks shocked to have been asked.
+<tr id="L108"><td><a href="#L108">108</a></td><td>ANNOTATION: Fraiser, Hammond and O'Neill exit. Shaun'auc grimaces in pain.</td></tr>
 
-  O'NEILL
-     Absolutely...sir!
+<tr id="L109"><td><a href="#L109">109</a></td><td>SHAUN'AUC: The others I can understand, but you have known me since before I went to the temple! How can you doubt me? This is my life's work!</td></tr>
 
-  SHAUN'AUC
-     No.
+<tr id="L110"><td><a href="#L110">110</a></td><td>TEAL'C: A life lived in worship of the Goa'uld!</td></tr>
 
-  ANNOTATION
-     Fraiser walks over to the bed.
+<tr id="L111"><td><a href="#L111">111</a></td><td>SHAUN'AUC: No, I believe now as you do that they are false gods.</td></tr>
 
-  FRAISER
-     I gave you a sedative. You should be asleep.
+<tr id="L112"><td><a href="#L112">112</a></td><td>TEAL'C: Words from one who became a priestess in the temple.</td></tr>
 
-  SHAUN'AUC
-     Kal'ma has neutralized the sedative.
+<tr id="L113"><td><a href="#L113">113</a></td><td>SHAUN'AUC: (emotionally) One day as I meditated in the temple with the others I heard the thoughts of my symbiote! Dreams that were not my own! I reached out to them with my mind and I heard it answer. Not in words but in grotesque images and pain. I realized then that the being that I carried was no god! A powerful mind yes, but not that of a god. I dedicated my life that day to showing it the way of peace. It understands now that the Goa'uld are an abomination. Can you not see what it is that I offer?</td></tr>
 
-  FRAISER
-     Kal'ma?
+<tr id="L114"><td><a href="#L114">114</a></td><td>TEAL'C: Bra'tac is wise, but I do not know why he would have sent you here like this!</td></tr>
 
-  TEAL'C
-     (angrily) It means child. (To Shaun'auc) The demon
-     you carry within you is no child!
+<tr id="L115"><td><a href="#L115">115</a></td><td>SHAUN'AUC: He believes, Teal'c. How can I make you believe too?</td></tr>
 
-  SHAUN'AUC
-     Do I not carry it in me as I would my own? Have I
-     not taught it right from wrong as any mother
-     would? You have closed your mind, Teal'c. I
-     expected more!
+<tr id="L116"><td><a href="#L116">116</a></td><td>TEAL'C: There is a way.</td></tr>
 
-  ANNOTATION
-     Hammond and O'Neill exchange glances at this
-     outburst.
+<tr><td></td><td>LOCATION--DANIEL'S OFFICE</td></tr>
+<tr id="L117"><td><a href="#L117">117</a></td><td>ANNOTATION: Daniel and Carter are reviewing information on the Goa'uld as O'Neill knocks and walks in.</td></tr>
 
-  TEAL'C
-     May we speak privately?
+<tr id="L118"><td><a href="#L118">118</a></td><td>CARTER: How is she?</td></tr>
 
-  SHAUN'AUC
-     My symbiote has assured me that this will not
-     happen again.
+<tr id="L119"><td><a href="#L119">119</a></td><td>O'NEILL: Err...Fraiser says she has maybe a couple of days tops. Find anything?</td></tr>
 
-  O'NEILL
-     (sarcastically) Oh well, if the snake says so then
-     who are we!
+<tr id="L120"><td><a href="#L120">120</a></td><td>DANIEL: No, but Teal'c knows more on the subject than I ever will.</td></tr>
 
-  ANNOTATION
-     Fraiser, Hammond and O'Neill exit. Shaun'auc
-     grimaces in pain.
+<tr id="L121"><td><a href="#L121">121</a></td><td>CARTER: He sure doesn't believe her.</td></tr>
 
-  SHAUN'AUC
-     The others I can understand, but you have known me
-     since before I went to the temple! How can you
-     doubt me? This is my life's work!
+<tr id="L122"><td><a href="#L122">122</a></td><td>O'NEILL: (leaning down on the desk) Well, there may be a little more than meets the eye here. I'm thinkin' they got history!</td></tr>
 
-  TEAL'C
-     A life lived in worship of the Goa'uld!
+<tr id="L123"><td><a href="#L123">123</a></td><td>CARTER: History?</td></tr>
 
-  SHAUN'AUC
-     No, I believe now as you do that they are false
-     gods.
+<tr id="L124"><td><a href="#L124">124</a></td><td>O'NEILL: Oh yeah!</td></tr>
 
-  TEAL'C
-     Words from one who became a priestess in the
-     temple.
+<tr id="L125"><td><a href="#L125">125</a></td><td>DANIEL: She's a temple priestess.</td></tr>
 
-  SHAUN'AUC
-     (emotionally) One day as I meditated in the temple
-     with the others I heard the thoughts of my
-     symbiote! Dreams that were not my own! I reached
-     out to them with my mind and I heard it answer.
-     Not in words but in grotesque images and pain. I
-     realized then that the being that I carried was no
-     god! A powerful mind yes, but not that of a god. I
-     dedicated my life that day to showing it the way
-     of peace. It understands now that the Goa'uld are
-     an abomination. Can you not see what it is that I
-     offer?
+<tr id="L126"><td><a href="#L126">126</a></td><td>O'NEILL: So?</td></tr>
 
-  TEAL'C
-     Bra'tac is wise, but I do not know why he would
-     have sent you here like this!
+<tr id="L127"><td><a href="#L127">127</a></td><td>DANIEL: So they don't do a lot of dating.</td></tr>
 
-  SHAUN'AUC
-     He believes, Teal'c. How can I make you believe
-     too?
+<tr id="L128"><td><a href="#L128">128</a></td><td>O'NEILL: Maybe not, but there was some serious sparkage when she arrived!</td></tr>
 
-  TEAL'C
-     There is a way.
+<tr id="L129"><td><a href="#L129">129</a></td><td>CARTER: Ok, the question is, what if she's telling the truth?</td></tr>
 
+<tr id="L130"><td><a href="#L130">130</a></td><td>O'NEILL: So what, she can't tell the Tok'ra any more than they already know can she?</td></tr>
 
-LOCATION--DANIEL'S OFFICE
+<tr id="L131"><td><a href="#L131">131</a></td><td>CARTER: Actually, sir, she can, the Tok'ra...</td></tr>
 
-  ANNOTATION
-     Daniel and Carter are reviewing information on the
-     Goa'uld as O'Neill knocks and walks in.
+<tr id="L132"><td><a href="#L132">132</a></td><td>O'NEILL: (interrupting) ...Consider themselves different than the Goa'uld, I know. But let's call a snake a snake, shall we?</td></tr>
 
-  CARTER
-     How is she?
+<tr id="L133"><td><a href="#L133">133</a></td><td>CARTER: Physiologically they're both parasitical and pass on their knowledge through genetic memory, yes, but the majority of the Tok'ra left the Goa'uld gene pool over two thousand years ago.</td></tr>
 
-  O'NEILL
-     Err...Fraiser says she has maybe a couple of days
-     tops. Find anything?
+<tr id="L134"><td><a href="#L134">134</a></td><td>DANIEL: Yeah, they probably learnt a thing or two in that time.</td></tr>
 
-  DANIEL
-     No, but Teal'c knows more on the subject than I
-     ever will.
+<tr id="L135"><td><a href="#L135">135</a></td><td>CARTER: Which makes Shaun'auc's symbiote very valuable, sir. To us and the Tok'ra.</td></tr>
 
-  CARTER
-     He sure doesn't believe her.
+<tr id="L136"><td><a href="#L136">136</a></td><td>O'NEILL: If Teal'c doesn't buy it then I don't buy it and there's no way of proving it, so what are you going to do?</td></tr>
 
-  O'NEILL
-     (leaning down on the desk) Well, there may be a
-     little more than meets the eye here. I'm thinkin'
-     they got history!
+<tr id="L137"><td><a href="#L137">137</a></td><td>ANNOTATION: Teal'c enters the room.</td></tr>
 
-  CARTER
-     History?
+<tr id="L138"><td><a href="#L138">138</a></td><td>TEAL'C: O'Neill?</td></tr>
 
-  O'NEILL
-     Oh yeah!
+<tr id="L139"><td><a href="#L139">139</a></td><td>ANNOTATION: O'Neill turns round and sees him.</td></tr>
 
-  DANIEL
-     She's a temple priestess.
+<tr id="L140"><td><a href="#L140">140</a></td><td>O'NEILL: Master Teal'c.</td></tr>
 
-  O'NEILL
-     So?
+<tr id="L141"><td><a href="#L141">141</a></td><td>TEAL'C: I am in need of your assistance.</td></tr>
 
-  DANIEL
-     So they don't do a lot of dating.
+<tr id="L142"><td><a href="#L142">142</a></td><td>O'NEILL: I'm here to serve!</td></tr>
 
-  O'NEILL
-     Maybe not, but there was some serious sparkage
-     when she arrived!
+<tr id="L143"><td><a href="#L143">143</a></td><td>TEAL'C: Daniel Jackson, Major Carter I am in need of your assistance also.</td></tr>
 
-  CARTER
-     Ok, the question is, what if she's telling the
-     truth?
+<tr id="L144"><td><a href="#L144">144</a></td><td>ANNOTATION: They look puzzled and follow him from the office.</td></tr>
 
-  O'NEILL
-     So what, she can't tell the Tok'ra any more than
-     they already know can she?
+<tr><td></td><td>LOCATION-- CHEYENNE MOUNTAIN--EVENING</td></tr>
+<tr><td></td><td>LOCATION--TEAL'C'S QUARTERS IN THE SGC</td></tr>
+<tr id="L145"><td><a href="#L145">145</a></td><td>ANNOTATION: The room is full of lit candles. Teal'c is sitting ready to meditate and the rest of SG-1 watch over him.</td></tr>
 
-  CARTER
-     Actually, sir, she can, the Tok'ra...
+<tr id="L146"><td><a href="#L146">146</a></td><td>TEAL'C: In the deepest levels of Kel-no-reem the heart beats in extremely long intervals. It is even possible to meditate so deeply that one may stop the heart altogether. The practice is forbidden.</td></tr>
 
-  O'NEILL
-     (interrupting) ...Consider themselves different
-     than the Goa'uld, I know. But let's call a snake a
-     snake, shall we?
+<tr id="L147"><td><a href="#L147">147</a></td><td>CARTER: Wouldn't your symbiote try to start it up again?</td></tr>
 
-  CARTER
-     Physiologically they're both parasitical and pass
-     on their knowledge through genetic memory, yes,
-     but the majority of the Tok'ra left the Goa'uld
-     gene pool over two thousand years ago.
+<tr id="L148"><td><a href="#L148">148</a></td><td>TEAL'C: That is correct. According to Shaun'auc it is only at this time that a communion between Jaffa and symbiote is possible.</td></tr>
 
-  DANIEL
-     Yeah, they probably learnt a thing or two in that
-     time.
+<tr id="L149"><td><a href="#L149">149</a></td><td>CARTER: Like a near death experience?</td></tr>
 
-  CARTER
-     Which makes Shaun'auc's symbiote very valuable,
-     sir. To us and the Tok'ra.
+<tr id="L150"><td><a href="#L150">150</a></td><td>TEAL'C: That is correct.</td></tr>
 
-  O'NEILL
-     If Teal'c doesn't buy it then I don't buy it and
-     there's no way of proving it, so what are you
-     going to do?
+<tr id="L151"><td><a href="#L151">151</a></td><td>O'NEILL: Is it dangerous?</td></tr>
 
-  ANNOTATION
-     Teal'c enters the room.
+<tr id="L152"><td><a href="#L152">152</a></td><td>DANIEL: Jack, he's stopping his heart.</td></tr>
 
-  TEAL'C
-     O'Neill?
+<tr id="L153"><td><a href="#L153">153</a></td><td>ANNOTATION: O'Neill looks annoyed at Daniel.</td></tr>
 
-  ANNOTATION
-     O'Neill turns round and sees him.
+<tr id="L154"><td><a href="#L154">154</a></td><td>O'NEILL: I mean for us!</td></tr>
 
-  O'NEILL
-     Master Teal'c.
+<tr id="L155"><td><a href="#L155">155</a></td><td>ANNOTATION: Daniel looks embarrassed.</td></tr>
 
-  TEAL'C
-     I am in need of your assistance.
+<tr id="L156"><td><a href="#L156">156</a></td><td>TEAL'C: I am unsure of what will occur if and when communion with my symbiote is achieved. It may be necessary to restrain me.</td></tr>
 
-  O'NEILL
-     I'm here to serve!
+<tr id="L157"><td><a href="#L157">157</a></td><td>O'NEILL: Well...knock yourself out!</td></tr>
 
-  TEAL'C
-     Daniel Jackson, Major Carter I am in need of your
-     assistance also.
+<tr id="L158"><td><a href="#L158">158</a></td><td>ANNOTATION: Teal'c meditates as SG-1 watch anxiously.</td></tr>
 
-  ANNOTATION
-     They look puzzled and follow him from the office.
+<tr id="L159"><td><a href="#L159">159</a></td><td>ANNOTATION: He sees a vision of a Jaffa being dragged by other Jaffa, and a woman.</td></tr>
 
+<tr id="L160"><td><a href="#L160">160</a></td><td>TEAL'C: (opening his eyes) I believe I saw a vision of my father!</td></tr>
 
-LOCATION-- CHEYENNE MOUNTAIN--EVENING
+<tr id="L161"><td><a href="#L161">161</a></td><td>DANIEL: It's working?</td></tr>
 
+<tr id="L162"><td><a href="#L162">162</a></td><td>TEAL'C: I will begin again.</td></tr>
 
-LOCATION--TEAL'C'S QUARTERS IN THE SGC
+<tr id="L163"><td><a href="#L163">163</a></td><td>ANNOTATION: He meditates and sees his father and the woman. Cronus appears and Teal'c's father is brought before him. He crushes Teal'c's father's symbiote by thrusting his hands into his pouch, and kills his father. As his father dies in the vision, Teal'c collapses in his quarters. Carter rushes to the phone in the room as Daniel and O'Neill move to help him.</td></tr>
 
-  ANNOTATION
-     The room is full of lit candles. Teal'c is sitting
-     ready to meditate and the rest of SG-1 watch over
-     him.
+<tr id="L164"><td><a href="#L164">164</a></td><td>CARTER: Medical emergency, Teal'c's quarters!</td></tr>
 
-  TEAL'C
-     In the deepest levels of Kel-no-reem the heart
-     beats in extremely long intervals. It is even
-     possible to meditate so deeply that one may stop
-     the heart altogether. The practice is forbidden.
+<tr id="L165"><td><a href="#L165">165</a></td><td>ANNOTATION: Teal'c opens his eyes.</td></tr>
 
-  CARTER
-     Wouldn't your symbiote try to start it up again?
+<tr id="L166"><td><a href="#L166">166</a></td><td>TEAL'C: That will not be necessary, Major Carter.</td></tr>
 
-  TEAL'C
-     That is correct. According to Shaun'auc it is only
-     at this time that a communion between Jaffa and
-     symbiote is possible.
+<tr id="L167"><td><a href="#L167">167</a></td><td>CARTER: (on telephone) Belay that last order and stand by.</td></tr>
 
-  CARTER
-     Like a near death experience?
+<tr id="L168"><td><a href="#L168">168</a></td><td>ANNOTATION: She puts the phone down.</td></tr>
 
-  TEAL'C
-     That is correct.
+<tr id="L169"><td><a href="#L169">169</a></td><td>O'NEILL: (To Daniel) Get him up.</td></tr>
 
-  O'NEILL
-     Is it dangerous?
+<tr id="L170"><td><a href="#L170">170</a></td><td>ANNOTATION: They help Teal'c to sit up.</td></tr>
 
-  DANIEL
-     Jack, he's stopping his heart.
+<tr id="L171"><td><a href="#L171">171</a></td><td>O'NEILL: What happened?</td></tr>
 
-  ANNOTATION
-     O'Neill looks annoyed at Daniel.
+<tr id="L172"><td><a href="#L172">172</a></td><td>TEAL'C: I have received a vision from my symbiote. It was a memory it chose to share. Its hatred for me is great.</td></tr>
 
-  O'NEILL
-     I mean for us!
+<tr id="L173"><td><a href="#L173">173</a></td><td>CARTER: Then it is possible. Shaun'auc is telling the truth.</td></tr>
 
-  ANNOTATION
-     Daniel looks embarrassed.
+<tr id="L174"><td><a href="#L174">174</a></td><td>TEAL'C: Yes...yes!</td></tr>
 
-  TEAL'C
-     I am unsure of what will occur if and when
-     communion with my symbiote is achieved. It may be
-     necessary to restrain me.
+<tr><td></td><td>LOCATION--BRIEFING ROOM</td></tr>
+<tr id="L175"><td><a href="#L175">175</a></td><td>ANNOTATION: Anise is waiting to meet with SG-1 and Hammond. She walks to the briefing table and sits down.</td></tr>
 
-  O'NEILL
-     Well...knock yourself out!
+<tr id="L176"><td><a href="#L176">176</a></td><td>ANISE: The great queen Egeria. She broke from the Goa'uld over 2000 years ago. Her offspring became the Tok'ra.</td></tr>
 
-  ANNOTATION
-     Teal'c meditates as SG-1 watch anxiously.
+<tr id="L177"><td><a href="#L177">177</a></td><td>DANIEL: Egeria, Roman goddess of fountains.</td></tr>
 
-  ANNOTATION
-     He sees a vision of a Jaffa being dragged by other
-     Jaffa, and a woman.
+<tr id="L178"><td><a href="#L178">178</a></td><td>O'NEILL: Fountains?</td></tr>
 
-  TEAL'C
-     (opening his eyes) I believe I saw a vision of my
-     father!
+<tr id="L179"><td><a href="#L179">179</a></td><td>DANIEL: Also childbirth.</td></tr>
 
-  DANIEL
-     It's working?
+<tr id="L180"><td><a href="#L180">180</a></td><td>O'NEILL: How do those two go together?</td></tr>
 
-  TEAL'C
-     I will begin again.
+<tr id="L181"><td><a href="#L181">181</a></td><td>DANIEL: It doesn't matter. She was also adviser to Numa Pompilius, a legendary ruler.</td></tr>
 
-  ANNOTATION
-     He meditates and sees his father and the woman.
-     Cronus appears and Teal'c's father is brought
-     before him. He crushes Teal'c's father's symbiote
-     by thrusting his hands into his pouch, and kills
-     his father. As his father dies in the vision,
-     Teal'c collapses in his quarters. Carter rushes to
-     the phone in the room as Daniel and O'Neill move
-     to help him.
+<tr id="L182"><td><a href="#L182">182</a></td><td>ANISE: Correct, Dr Jackson. Egeria came to the Tau'ri to stop the Goa'uld from taking humans through the Stargate as slaves. Ra found her and killed her, but not before she had spawned our movement.</td></tr>
 
-  CARTER
-     Medical emergency, Teal'c's quarters!
+<tr id="L183"><td><a href="#L183">183</a></td><td>CARTER: Literally?</td></tr>
 
-  ANNOTATION
-     Teal'c opens his eyes.
+<tr id="L184"><td><a href="#L184">184</a></td><td>ANISE: Yes.</td></tr>
 
-  TEAL'C
-     That will not be necessary, Major Carter.
+<tr id="L185"><td><a href="#L185">185</a></td><td>O'NEILL: Thanks for the image.</td></tr>
 
-  CARTER
-     (on telephone) Belay that last order and stand by.
+<tr id="L186"><td><a href="#L186">186</a></td><td>HAMMOND: Then the original number of Tok'ra is all you have?</td></tr>
 
-  ANNOTATION
-     She puts the phone down.
+<tr id="L187"><td><a href="#L187">187</a></td><td>ANISE: Very few Goa'uld came over to our side, but none in the past few hundred years. Our numbers have diminished as symbiotes unable to find new hosts died or fell in battle. That is why Shaun'auc's offer is so provocative. Until the symbiote is blended with a host we cannot be sure of the outcome. But if what she claims is correct we could one day increase our numbers.</td></tr>
 
-  O'NEILL
-     (To Daniel) Get him up.
+<tr id="L188"><td><a href="#L188">188</a></td><td>HAMMOND: So you've decided to accept her offer?</td></tr>
 
-  ANNOTATION
-     They help Teal'c to sit up.
+<tr id="L189"><td><a href="#L189">189</a></td><td>ANISE: I will make the proposal to the Council with my recommendation.</td></tr>
 
-  O'NEILL
-     What happened?
+<tr id="L190"><td><a href="#L190">190</a></td><td>O'NEILL: How long will that take?</td></tr>
 
-  TEAL'C
-     I have received a vision from my symbiote. It was
-     a memory it chose to share. Its hatred for me is
-     great.
+<tr id="L191"><td><a href="#L191">191</a></td><td>ANISE: It will not be an easy decision. There are great risks involved.</td></tr>
 
-  CARTER
-     Then it is possible. Shaun'auc is telling the
-     truth.
+<tr id="L192"><td><a href="#L192">192</a></td><td>CARTER: She doesn't have a lot of time.</td></tr>
 
-  TEAL'C
-     Yes...yes!
+<tr id="L193"><td><a href="#L193">193</a></td><td>TEAL'C: Shaun'auc's symbiote is fully mature. It must take a host within the day, two at most.</td></tr>
 
+<tr id="L194"><td><a href="#L194">194</a></td><td>ANISE: Then I will leave immediately.</td></tr>
 
-LOCATION--BRIEFING ROOM
+<tr id="L195"><td><a href="#L195">195</a></td><td>ANNOTATION: She stands, as do the others.</td></tr>
 
-  ANNOTATION
-     Anise is waiting to meet with SG-1 and Hammond.
-     She walks to the briefing table and sits down.
+<tr id="L196"><td><a href="#L196">196</a></td><td>TEAL'C: (To Anise) I would make a personal request.</td></tr>
 
-  ANISE
-     The great queen Egeria. She broke from the Goa'uld
-     over 2000 years ago. Her offspring became the
-     Tok'ra.
+<tr id="L197"><td><a href="#L197">197</a></td><td>FREYA: What is it, Teal'c?</td></tr>
 
-  DANIEL
-     Egeria, Roman goddess of fountains.
+<tr id="L198"><td><a href="#L198">198</a></td><td>TEAL'C: Shaun'auc came to this world expecting not to survive.</td></tr>
 
-  O'NEILL
-     Fountains?
+<tr id="L199"><td><a href="#L199">199</a></td><td>FREYA: She needs a symbiote to replace that which she now carries.</td></tr>
 
-  DANIEL
-     Also childbirth.
+<tr id="L200"><td><a href="#L200">200</a></td><td>TEAL'C: By the time you return it may be too late.</td></tr>
 
-  O'NEILL
-     How do those two go together?
+<tr id="L201"><td><a href="#L201">201</a></td><td>FREYA: There are no Jaffa within the Tok'ra ranks.</td></tr>
 
-  DANIEL
-     It doesn't matter. She was also adviser to Numa
-     Pompilius, a legendary ruler.
+<tr id="L202"><td><a href="#L202">202</a></td><td>TEAL'C: (emotionally) I do not wish for her to die.</td></tr>
 
-  ANISE
-     Correct, Dr Jackson. Egeria came to the Tau'ri to
-     stop the Goa'uld from taking humans through the
-     Stargate as slaves. Ra found her and killed her,
-     but not before she had spawned our movement.
+<tr id="L203"><td><a href="#L203">203</a></td><td>FREYA: I cannot promise, Teal'c, but we will try.</td></tr>
 
-  CARTER
-     Literally?
+<tr id="L204"><td><a href="#L204">204</a></td><td>ANNOTATION: Teal'c bows and Anise leaves.</td></tr>
 
-  ANISE
-     Yes.
+<tr><td></td><td>LOCATION--VIP QUARTERS</td></tr>
+<tr id="L205"><td><a href="#L205">205</a></td><td>ANNOTATION: Teal'c enters the room. There are many candles lit and Shaun'auc is sitting meditating on the floor.</td></tr>
 
-  O'NEILL
-     Thanks for the image.
+<tr id="L206"><td><a href="#L206">206</a></td><td>TEAL'C: (smiling) The Tok'ra council is considering your offer.</td></tr>
 
-  HAMMOND
-     Then the original number of Tok'ra is all you
-     have?
+<tr id="L207"><td><a href="#L207">207</a></td><td>SHAUN'AUC: My symbiote is eager to meet them. I hope they can reach their decision within the time.</td></tr>
 
-  ANISE
-     Very few Goa'uld came over to our side, but none
-     in the past few hundred years. Our numbers have
-     diminished as symbiotes unable to find new hosts
-     died or fell in battle. That is why Shaun'auc's
-     offer is so provocative. Until the symbiote is
-     blended with a host we cannot be sure of the
-     outcome. But if what she claims is correct we
-     could one day increase our numbers.
+<tr id="L208"><td><a href="#L208">208</a></td><td>ANNOTATION: She clutches her stomach in pain. Teal'c reaches down and helps her to her feet.</td></tr>
 
-  HAMMOND
-     So you've decided to accept her offer?
+<tr id="L209"><td><a href="#L209">209</a></td><td>TEAL'C: Your pain grows worse!</td></tr>
 
-  ANISE
-     I will make the proposal to the Council with my
-     recommendation.
+<tr id="L210"><td><a href="#L210">210</a></td><td>SHAUN'AUC: Yes.</td></tr>
 
-  O'NEILL
-     How long will that take?
+<tr id="L211"><td><a href="#L211">211</a></td><td>TEAL'C: For what reason did you wait so long?</td></tr>
 
-  ANISE
-     It will not be an easy decision. There are great
-     risks involved.
+<tr id="L212"><td><a href="#L212">212</a></td><td>SHAUN'AUC: I was afraid you would not believe. Since word came to the temple that you betrayed Apophis I have thought of you every day.</td></tr>
 
-  CARTER
-     She doesn't have a lot of time.
+<tr id="L213"><td><a href="#L213">213</a></td><td>TEAL'C: As a Shol'va?</td></tr>
 
-  TEAL'C
-     Shaun'auc's symbiote is fully mature. It must take
-     a host within the day, two at most.
+<tr id="L214"><td><a href="#L214">214</a></td><td>SHAUN'AUC: No, Teal'c. Because of you my doubts became certainties. When we were children you were always the strongest, the bravest. That you would one day be First Prime was never doubted. But you did what no Jaffa before you had ever done. You challenged the gods themselves and won. (she strokes his face) Among many on Chulak you are as revered as the gods once were and yet you walk away.</td></tr>
 
-  ANISE
-     Then I will leave immediately.
+<tr id="L215"><td><a href="#L215">215</a></td><td>TEAL'C: My place is here.</td></tr>
 
-  ANNOTATION
-     She stands, as do the others.
+<tr id="L216"><td><a href="#L216">216</a></td><td>SHAUN'AUC: Is it? Bra'tac cannot be expected to bear the burden alone. It was you who first began walking this path. Do not abandon those who have followed you this far!</td></tr>
 
-  TEAL'C
-     (To Anise) I would make a personal request.
+<tr id="L217"><td><a href="#L217">217</a></td><td>ANNOTATION: She turns away from him. He grabs her and spins her around.</td></tr>
 
-  FREYA
-     What is it, Teal'c?
+<tr id="L218"><td><a href="#L218">218</a></td><td>TEAL'C: (angrily) I have abandoned no one.</td></tr>
 
-  TEAL'C
-     Shaun'auc came to this world expecting not to
-     survive.
+<tr id="L219"><td><a href="#L219">219</a></td><td>ANNOTATION: He releases her and she walks away again then turns to him.</td></tr>
 
-  FREYA
-     She needs a symbiote to replace that which she now
-     carries.
+<tr id="L220"><td><a href="#L220">220</a></td><td>SHAUN'AUC: When I die and you are the only one capable of teaching others what I have learned, what will you do then?</td></tr>
 
-  TEAL'C
-     By the time you return it may be too late.
+<tr id="L221"><td><a href="#L221">221</a></td><td>TEAL'C: Do not concern yourself with me.</td></tr>
 
-  FREYA
-     There are no Jaffa within the Tok'ra ranks.
+<tr id="L222"><td><a href="#L222">222</a></td><td>SHAUN'AUC: I have all but given my life for a cause that you inspired!</td></tr>
 
-  TEAL'C
-     (emotionally) I do not wish for her to die.
+<tr id="L223"><td><a href="#L223">223</a></td><td>TEAL'C: Tal shak kree!</td></tr>
 
-  FREYA
-     I cannot promise, Teal'c, but we will try.
+<tr id="L224"><td><a href="#L224">224</a></td><td>ANNOTATION: She looks shocked at him.</td></tr>
 
-  ANNOTATION
-     Teal'c bows and Anise leaves.
+<tr id="L225"><td><a href="#L225">225</a></td><td>TEAL'C: I will advise you when there is news.</td></tr>
 
+<tr id="L226"><td><a href="#L226">226</a></td><td>ANNOTATION: He turns to leave the room.</td></tr>
 
-LOCATION--VIP QUARTERS
+<tr id="L227"><td><a href="#L227">227</a></td><td>SHAUN'AUC: When you touched the mind of your symbiote, what did it show you?</td></tr>
 
-  ANNOTATION
-     Teal'c enters the room. There are many candles lit
-     and Shaun'auc is sitting meditating on the floor.
+<tr id="L228"><td><a href="#L228">228</a></td><td>ANNOTATION: Teal'c stops.</td></tr>
 
-  TEAL'C
-     (smiling) The Tok'ra council is considering your
-     offer.
+<tr id="L229"><td><a href="#L229">229</a></td><td>TEAL'C: The murder of my father. It was a most painful death.</td></tr>
 
-  SHAUN'AUC
-     My symbiote is eager to meet them. I hope they can
-     reach their decision within the time.
+<tr id="L230"><td><a href="#L230">230</a></td><td>SHAUN'AUC: At the hands of Cronus?</td></tr>
 
-  ANNOTATION
-     She clutches her stomach in pain. Teal'c reaches
-     down and helps her to her feet.
+<tr id="L231"><td><a href="#L231">231</a></td><td>TEAL'C: Yes.</td></tr>
 
-  TEAL'C
-     Your pain grows worse!
+<tr id="L232"><td><a href="#L232">232</a></td><td>SHAUN'AUC: It wanted you to know fear.</td></tr>
 
-  SHAUN'AUC
-     Yes.
+<tr id="L233"><td><a href="#L233">233</a></td><td>TEAL'C: Yes.</td></tr>
 
-  TEAL'C
-     For what reason did you wait so long?
+<tr id="L234"><td><a href="#L234">234</a></td><td>SHAUN'AUC: You are stronger than that. Why does it appear to have succeeded?</td></tr>
 
-  SHAUN'AUC
-     I was afraid you would not believe. Since word
-     came to the temple that you betrayed Apophis I
-     have thought of you every day.
+<tr id="L235"><td><a href="#L235">235</a></td><td>ANNOTATION: She walks up to him. He is facing away from her.</td></tr>
 
-  TEAL'C
-     As a Shol'va?
+<tr id="L236"><td><a href="#L236">236</a></td><td>SHAUN'AUC: My first communion was the same. It took many days before I tried again. But one day the images it chose to share with me began to change. They became sorrowful, as though my kal'ma were awakening to its own shape. In time the images became beautiful, even caring. If that is all...</td></tr>
 
-  SHAUN'AUC
-     No, Teal'c. Because of you my doubts became
-     certainties. When we were children you were always
-     the strongest, the bravest. That you would one day
-     be First Prime was never doubted. But you did what
-     no Jaffa before you had ever done. You challenged
-     the gods themselves and won. (she strokes his
-     face) Among many on Chulak you are as revered as
-     the gods once were and yet you walk away.
+<tr id="L237"><td><a href="#L237">237</a></td><td>TEAL'C: (turning to face her) There is more.</td></tr>
 
-  TEAL'C
-     My place is here.
+<tr id="L238"><td><a href="#L238">238</a></td><td>TEAL'C: (emotionally) I hate losing you a second time!</td></tr>
 
-  SHAUN'AUC
-     Is it? Bra'tac cannot be expected to bear the
-     burden alone. It was you who first began walking
-     this path. Do not abandon those who have followed
-     you this far!
+<tr id="L239"><td><a href="#L239">239</a></td><td>SHAUN'AUC: No, never more.</td></tr>
 
-  ANNOTATION
-     She turns away from him. He grabs her and spins
-     her around.
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: They kiss passionately</td></tr>
 
-  TEAL'C
-     (angrily) I have abandoned no one.
+<tr><td></td><td>LOCATION-- CHEYENNE MOUNTAIN--MORNING</td></tr>
+<tr><td></td><td>LOCATION--SGC CORRIDOR OUTSIDE VIP QUARTERS</td></tr>
+<tr id="L241"><td><a href="#L241">241</a></td><td>ANNOTATION: Teal'c is leaving Shaun'auc's room as Daniel is walking down the corridor.</td></tr>
 
-  ANNOTATION
-     He releases her and she walks away again then
-     turns to him.
+<tr id="L242"><td><a href="#L242">242</a></td><td>DANIEL: Teal'c!</td></tr>
 
-  SHAUN'AUC
-     When I die and you are the only one capable of
-     teaching others what I have learned, what will you
-     do then?
+<tr id="L243"><td><a href="#L243">243</a></td><td>TEAL'C: (smiling) Kell shah Daniel Jackson!</td></tr>
 
-  TEAL'C
-     Do not concern yourself with me.
+<tr id="L244"><td><a href="#L244">244</a></td><td>DANIEL: Morning, how's err Shaun'auc?</td></tr>
 
-  SHAUN'AUC
-     I have all but given my life for a cause that you
-     inspired!
+<tr id="L245"><td><a href="#L245">245</a></td><td>TEAL'C: The pain of carrying a symbiote past its time is extreme. Shaun'auc bears it well.</td></tr>
 
-  TEAL'C
-     Tal shak kree!
+<tr id="L246"><td><a href="#L246">246</a></td><td>DANIEL: I can imagine. Listen, I'm just heading off for breakfast...</td></tr>
 
-  ANNOTATION
-     She looks shocked at him.
+<tr id="L247"><td><a href="#L247">247</a></td><td>TEAL'C: I am not.</td></tr>
 
-  TEAL'C
-     I will advise you when there is news.
+<tr id="L248"><td><a href="#L248">248</a></td><td>ANNOTATION: Teal'c moves to go in a different direction to Daniel.</td></tr>
 
-  ANNOTATION
-     He turns to leave the room.
+<tr id="L249"><td><a href="#L249">249</a></td><td>DANIEL: Err...could you stop walking?</td></tr>
 
-  SHAUN'AUC
-     When you touched the mind of your symbiote, what
-     did it show you?
+<tr id="L250"><td><a href="#L250">250</a></td><td>ANNOTATION: Teal'c stops and turns to face Daniel.</td></tr>
 
-  ANNOTATION
-     Teal'c stops.
+<tr id="L251"><td><a href="#L251">251</a></td><td>DANIEL: (quietly) Is everything all right?</td></tr>
 
-  TEAL'C
-     The murder of my father. It was a most painful
-     death.
+<tr id="L252"><td><a href="#L252">252</a></td><td>TEAL'C: Yes.</td></tr>
 
-  SHAUN'AUC
-     At the hands of Cronus?
+<tr id="L253"><td><a href="#L253">253</a></td><td>DANIEL: You see, I've just noticed that you've been, you know, preoccupied lately, obviously, and err I'm kinda going out on a limb here asking but it's just that if you want to talk that I was here to talk...</td></tr>
 
-  TEAL'C
-     Yes.
+<tr id="L254"><td><a href="#L254">254</a></td><td>TEAL'C: Daniel Jackson!</td></tr>
 
-  SHAUN'AUC
-     It wanted you to know fear.
+<tr id="L255"><td><a href="#L255">255</a></td><td>ANNOTATION: He grabs Daniel by the shoulder and Daniel looks at him surprised.</td></tr>
 
-  TEAL'C
-     Yes.
+<tr id="L256"><td><a href="#L256">256</a></td><td>TEAL'C: If all Jaffa can be taught to commune with their symbiotes then the days of the Goa'uld are truly numbered!</td></tr>
 
-  SHAUN'AUC
-     You are stronger than that. Why does it appear to
-     have succeeded?
+<tr id="L257"><td><a href="#L257">257</a></td><td>DANIEL: And Shaun'auc can teach them?</td></tr>
 
-  ANNOTATION
-     She walks up to him. He is facing away from her.
+<tr id="L258"><td><a href="#L258">258</a></td><td>TEAL'C: If Shaun'auc survives I intend to be at her side. If she does not I will not allow her sacrifice to be in vain!</td></tr>
 
-  SHAUN'AUC
-     My first communion was the same. It took many days
-     before I tried again. But one day the images it
-     chose to share with me began to change. They
-     became sorrowful, as though my kal'ma were
-     awakening to its own shape. In time the images
-     became beautiful, even caring. If that is all...
+<tr id="L259"><td><a href="#L259">259</a></td><td>ANNOTATION: Before Daniel can reply Carter comes running up to them.</td></tr>
 
-  TEAL'C
-     (turning to face her) There is more.
+<tr id="L260"><td><a href="#L260">260</a></td><td>CARTER: Teal'c, we just got word from the Tok'ra. They've accepted Shaun'auc's offer.</td></tr>
 
-  TEAL'C
-     (emotionally) I hate losing you a second time!
+<tr id="L261"><td><a href="#L261">261</a></td><td>TEAL'C: When may we depart?</td></tr>
 
-  SHAUN'AUC
-     No, never more.
+<tr id="L262"><td><a href="#L262">262</a></td><td>CARTER: Now, Colonel O'Neill's waiting for us in the gear up room.</td></tr>
 
-  ANNOTATION
-     They kiss passionately
+<tr id="L263"><td><a href="#L263">263</a></td><td>ANNOTATION: They walk away. Daniel looks worried as he follows.</td></tr>
 
+<tr><td></td><td>LOCATION-- VORASH</td></tr>
+<tr id="L264"><td><a href="#L264">264</a></td><td>ANNOTATION: SG-1 and Shaun'auc are met by some Tok'ra representatives.</td></tr>
 
-LOCATION-- CHEYENNE MOUNTAIN--MORNING
+<tr><td></td><td>LOCATION--TOK'RA TUNNELS</td></tr>
+<tr id="L265"><td><a href="#L265">265</a></td><td>ANNOTATION: SG-1 and Shaun'auc enter via the ring system. Anise and two other Tok'ra are waiting.</td></tr>
 
+<tr id="L266"><td><a href="#L266">266</a></td><td>ANISE: Shaun'auc of the Red Hills, welcome to Vorash.</td></tr>
 
-LOCATION--SGC CORRIDOR OUTSIDE VIP QUARTERS
+<tr id="L267"><td><a href="#L267">267</a></td><td>SHAUN'AUC: It is a great honor to meet the Tok'ra.</td></tr>
 
-  ANNOTATION
-     Teal'c is leaving Shaun'auc's room as Daniel is
-     walking down the corridor.
+<tr id="L268"><td><a href="#L268">268</a></td><td>O'NEILL: They're all right if you like the type.</td></tr>
 
-  DANIEL
-     Teal'c!
+<tr id="L269"><td><a href="#L269">269</a></td><td>ANISE: It is an equal pleasure to see you, Colonel O'Neill.</td></tr>
 
-  TEAL'C
-     (smiling) Kell shah Daniel Jackson!
+<tr id="L270"><td><a href="#L270">270</a></td><td>ANNOTATION: She walks over to SG-1 and shakes Carter's hand.</td></tr>
 
-  DANIEL
-     Morning, how's err Shaun'auc?
+<tr id="L271"><td><a href="#L271">271</a></td><td>ANISE: (to Carter) Your father asked that I shake your hand and give Colonel O'Neill a big kiss from him.</td></tr>
 
-  TEAL'C
-     The pain of carrying a symbiote past its time is
-     extreme. Shaun'auc bears it well.
+<tr id="L272"><td><a href="#L272">272</a></td><td>ANNOTATION: They all look surprised.</td></tr>
 
-  DANIEL
-     I can imagine. Listen, I'm just heading off for
-     breakfast...
+<tr id="L273"><td><a href="#L273">273</a></td><td>CARTER: Err, that might have been the other way around.</td></tr>
 
-  TEAL'C
-     I am not.
+<tr id="L274"><td><a href="#L274">274</a></td><td>O'NEILL: Maybe. Is Freya in there?</td></tr>
 
-  ANNOTATION
-     Teal'c moves to go in a different direction to
-     Daniel.
+<tr id="L275"><td><a href="#L275">275</a></td><td>ANNOTATION: Anise blinks and the host takes control.</td></tr>
 
-  DANIEL
-     Err...could you stop walking?
+<tr id="L276"><td><a href="#L276">276</a></td><td>FREYA: Of course, Colonel.</td></tr>
 
-  ANNOTATION
-     Teal'c stops and turns to face Daniel.
+<tr id="L277"><td><a href="#L277">277</a></td><td>SHAUN'AUC: Then it is true; host and symbiote share the body equally.</td></tr>
 
-  DANIEL
-     (quietly) Is everything all right?
+<tr id="L278"><td><a href="#L278">278</a></td><td>FREYA: And we are both pleased to tell you good news. As you requested, Teal'c, one of our operatives has retrieved a newly spawned symbiote to replace that which Shaun'auc offers.</td></tr>
 
-  TEAL'C
-     Yes.
+<tr id="L279"><td><a href="#L279">279</a></td><td>SHAUN'AUC: (to Teal'c) You have done this for me?</td></tr>
 
-  DANIEL
-     You see, I've just noticed that you've been, you
-     know, preoccupied lately, obviously, and err I'm
-     kinda going out on a limb here asking but it's
-     just that if you want to talk that I was here to
-     talk...
+<tr id="L280"><td><a href="#L280">280</a></td><td>FREYA: Not only for you. If you truly have turned your symbiote to the Tok'ra cause then your life is more valuable than any of ours!</td></tr>
 
-  TEAL'C
-     Daniel Jackson!
+<tr id="L281"><td><a href="#L281">281</a></td><td>ANNOTATION: Shaun'auc closes her eyes and whispers to her symbiote.</td></tr>
 
-  ANNOTATION
-     He grabs Daniel by the shoulder and Daniel looks
-     at him surprised.
+<tr id="L282"><td><a href="#L282">282</a></td><td>SHAUN'AUC: Kal'ma, it will not be long now.</td></tr>
 
-  TEAL'C
-     If all Jaffa can be taught to commune with their
-     symbiotes then the days of the Goa'uld are truly
-     numbered!
+<tr id="L283"><td><a href="#L283">283</a></td><td>TEAL'C: She has carried her symbiote far past its time.</td></tr>
 
-  DANIEL
-     And Shaun'auc can teach them?
+<tr id="L284"><td><a href="#L284">284</a></td><td>FREYA: Then come, this way.</td></tr>
 
-  TEAL'C
-     If Shaun'auc survives I intend to be at her side.
-     If she does not I will not allow her sacrifice to
-     be in vain!
+<tr id="L285"><td><a href="#L285">285</a></td><td>ANNOTATION: They all follow Anise down a corridor.</td></tr>
 
-  ANNOTATION
-     Before Daniel can reply Carter comes running up to
-     them.
+<tr id="L286"><td><a href="#L286">286</a></td><td>FREYA: We were able to find a host both willing and eager.</td></tr>
 
-  CARTER
-     Teal'c, we just got word from the Tok'ra. They've
-     accepted Shaun'auc's offer.
+<tr id="L287"><td><a href="#L287">287</a></td><td>O'NEILL: (quietly) Eager too, huh?</td></tr>
 
-  TEAL'C
-     When may we depart?
+<tr id="L288"><td><a href="#L288">288</a></td><td>ANNOTATION: They enter a chamber where several people are waiting. Anise indicates a man.</td></tr>
 
-  CARTER
-     Now, Colonel O'Neill's waiting for us in the gear
-     up room.
+<tr id="L289"><td><a href="#L289">289</a></td><td>ANISE: This is the volunteer host, Hebron of Paraval.</td></tr>
 
-  ANNOTATION
-     They walk away. Daniel looks worried as he
-     follows.
+<tr id="L290"><td><a href="#L290">290</a></td><td>O'NEILL: (to Hebron) Jack O'Neill, Earth. Err...forgive my bluntness here, but do you have any idea what you are getting into?</td></tr>
 
+<tr id="L291"><td><a href="#L291">291</a></td><td>ANISE: We have told him everything.</td></tr>
 
-LOCATION-- VORASH
+<tr id="L292"><td><a href="#L292">292</a></td><td>O'NEILL: Yeah, well I've noticed the Tok'ra have a tendency to leave out minor details along the way sometimes. (To Hebron) You do know this thing's going to be in your head, right? You only get your body part time?</td></tr>
 
-  ANNOTATION
-     SG-1 and Shaun'auc are met by some Tok'ra
-     representatives.
+<tr id="L293"><td><a href="#L293">293</a></td><td>HEBRON: My own people were enslaved by the Goa'uld a generation ago, I understand what benefit may come of this.</td></tr>
 
+<tr id="L294"><td><a href="#L294">294</a></td><td>O'NEILL: (unconvinced) All right.</td></tr>
 
-LOCATION--TOK'RA TUNNELS
+<tr id="L295"><td><a href="#L295">295</a></td><td>TEAL'C: This is Shaun'auc.</td></tr>
 
-  ANNOTATION
-     SG-1 and Shaun'auc enter via the ring system.
-     Anise and two other Tok'ra are waiting.
+<tr id="L296"><td><a href="#L296">296</a></td><td>ANNOTATION: Shaun'auc and Hebron look at each other.</td></tr>
 
-  ANISE
-     Shaun'auc of the Red Hills, welcome to Vorash.
+<tr id="L297"><td><a href="#L297">297</a></td><td>HEBRON: What can you tell me of the one with whom I will spend the rest of my days?</td></tr>
 
-  SHAUN'AUC
-     It is a great honor to meet the Tok'ra.
+<tr id="L298"><td><a href="#L298">298</a></td><td>SHAUN'AUC: That he wishes to forswear his birthright and desires to stop the Goa'uld from causing any more harm.</td></tr>
 
-  O'NEILL
-     They're all right if you like the type.
+<tr id="L299"><td><a href="#L299">299</a></td><td>HEBRON: Then we will have that in common.</td></tr>
 
-  ANISE
-     It is an equal pleasure to see you, Colonel
-     O'Neill.
+<tr id="L300"><td><a href="#L300">300</a></td><td>SHAUN'AUC: You will share with him much, much more than I.</td></tr>
 
-  ANNOTATION
-     She walks over to SG-1 and shakes Carter's hand.
+<tr id="L301"><td><a href="#L301">301</a></td><td>ANNOTATION: She cries out in pain and collapses to the floor, supported by Teal'c.</td></tr>
 
-  ANISE
-     (to Carter) Your father asked that I shake your
-     hand and give Colonel O'Neill a big kiss from him.
+<tr id="L302"><td><a href="#L302">302</a></td><td>SHAUN'AUC: I have waited too long!</td></tr>
 
-  ANNOTATION
-     They all look surprised.
+<tr id="L303"><td><a href="#L303">303</a></td><td>TEAL'C: It must be done now!</td></tr>
 
-  CARTER
-     Err, that might have been the other way around.
+<tr id="L304"><td><a href="#L304">304</a></td><td>ANISE: We are not yet ready for the transference.</td></tr>
 
-  O'NEILL
-     Maybe. Is Freya in there?
+<tr id="L305"><td><a href="#L305">305</a></td><td>SHAUN'AUC: It can wait no longer!</td></tr>
 
-  ANNOTATION
-     Anise blinks and the host takes control.
+<tr id="L306"><td><a href="#L306">306</a></td><td>ANNOTATION: Sounds of the symbiote emerging are heard. Carter, O'Neill and Daniel grimace at the sight.</td></tr>
 
-  FREYA
-     Of course, Colonel.
+<tr id="L307"><td><a href="#L307">307</a></td><td>SHAUN'AUC: Teal'c, it cannot wait!</td></tr>
 
-  SHAUN'AUC
-     Then it is true; host and symbiote share the body
-     equally.
+<tr id="L308"><td><a href="#L308">308</a></td><td>ANNOTATION: Hebron tears open his shirt.</td></tr>
 
-  FREYA
-     And we are both pleased to tell you good news. As
-     you requested, Teal'c, one of our operatives has
-     retrieved a newly spawned symbiote to replace that
-     which Shaun'auc offers.
+<tr id="L309"><td><a href="#L309">309</a></td><td>HEBRON: I am ready. (he falls to his knees) Take me!</td></tr>
 
-  SHAUN'AUC
-     (to Teal'c) You have done this for me?
+<tr id="L310"><td><a href="#L310">310</a></td><td>ANNOTATION: The symbiote emerges and O'Neill draws his gun. The symbiote lunges for Hebron's neck and enters it. Hebron grasps at his neck and gasps. He falls backwards. Shaun'auc passes out as Anise goes to Hebron. SG-1 stand back with a look of disgust at the process. Hebron's eyes open and glow.</td></tr>
 
-  FREYA
-     Not only for you. If you truly have turned your
-     symbiote to the Tok'ra cause then your life is
-     more valuable than any of ours!
+<tr id="L311"><td><a href="#L311">311</a></td><td>ANISE: Colonel O'Neill, lower your weapon. The transference is complete.</td></tr>
 
-  ANNOTATION
-     Shaun'auc closes her eyes and whispers to her
-     symbiote.
+<tr id="L312"><td><a href="#L312">312</a></td><td>O'NEILL: Transference, is that what you call that!</td></tr>
 
-  SHAUN'AUC
-     Kal'ma, it will not be long now.
+<tr id="L313"><td><a href="#L313">313</a></td><td>TEAL'C: (to Shaun'auc) Shaun'auc?</td></tr>
 
-  TEAL'C
-     She has carried her symbiote far past its time.
+<tr id="L314"><td><a href="#L314">314</a></td><td>ANNOTATION: Anise helps Hebron to stand. He has a wound on his neck where the symbiote entered.</td></tr>
 
-  FREYA
-     Then come, this way.
+<tr id="L315"><td><a href="#L315">315</a></td><td>TANITH: There was no more time, Shaun'auc's life was in grave danger. I had to act. (to Anise) Have you a prim'ta ready for implantation?</td></tr>
 
-  ANNOTATION
-     They all follow Anise down a corridor.
+<tr id="L316"><td><a href="#L316">316</a></td><td>ANISE: Yes.</td></tr>
 
-  FREYA
-     We were able to find a host both willing and
-     eager.
+<tr id="L317"><td><a href="#L317">317</a></td><td>TANITH: Do it now, she is near death.</td></tr>
 
-  O'NEILL
-     (quietly) Eager too, huh?
+<tr id="L318"><td><a href="#L318">318</a></td><td>ANNOTATION: Anise nods at a guard, who leaves.</td></tr>
 
-  ANNOTATION
-     They enter a chamber where several people are
-     waiting. Anise indicates a man.
+<tr id="L319"><td><a href="#L319">319</a></td><td>TANITH: I am Tanith, it is my honor to pledge my allegiance to the Tok'ra.</td></tr>
 
-  ANISE
-     This is the volunteer host, Hebron of Paraval.
+<tr id="L320"><td><a href="#L320">320</a></td><td>ANNOTATION: Teal'c looks down at the unconscious Shaun'auc.</td></tr>
 
-  O'NEILL
-     (to Hebron) Jack O'Neill, Earth. Err...forgive my
-     bluntness here, but do you have any idea what you
-     are getting into?
+<tr><td></td><td>LOCATION--TOK'RA UNDERGROUND MEETING ROOM</td></tr>
+<tr id="L321"><td><a href="#L321">321</a></td><td>ANNOTATION: Carter and O'Neill are sitting at a table waiting for news. Daniel is standing leaning against Carter's chair. Footsteps are heard approaching and they all look up.</td></tr>
 
-  ANISE
-     We have told him everything.
+<tr id="L322"><td><a href="#L322">322</a></td><td>DANIEL: How is she?</td></tr>
 
-  O'NEILL
-     Yeah, well I've noticed the Tok'ra have a tendency
-     to leave out minor details along the way
-     sometimes. (To Hebron) You do know this thing's
-     going to be in your head, right? You only get your
-     body part time?
+<tr id="L323"><td><a href="#L323">323</a></td><td>ANNOTATION: Anise enters.</td></tr>
 
-  HEBRON
-     My own people were enslaved by the Goa'uld a
-     generation ago, I understand what benefit may come
-     of this.
+<tr id="L324"><td><a href="#L324">324</a></td><td>ANISE: Shaun'auc is still very weak. The symbiote we were able to retrieve was quite young.</td></tr>
 
-  O'NEILL
-     (unconvinced) All right.
+<tr id="L325"><td><a href="#L325">325</a></td><td>CARTER: But she's going to be ok?</td></tr>
 
-  TEAL'C
-     This is Shaun'auc.
+<tr id="L326"><td><a href="#L326">326</a></td><td>ANISE: We believe so.</td></tr>
 
-  ANNOTATION
-     Shaun'auc and Hebron look at each other.
+<tr id="L327"><td><a href="#L327">327</a></td><td>ANNOTATION: Tanith enters behind Anise. O'Neill eyes him suspiciously.</td></tr>
 
-  HEBRON
-     What can you tell me of the one with whom I will
-     spend the rest of my days?
+<tr id="L328"><td><a href="#L328">328</a></td><td>O'NEILL: Hello, Hebron.</td></tr>
 
-  SHAUN'AUC
-     That he wishes to forswear his birthright and
-     desires to stop the Goa'uld from causing any more
-     harm.
+<tr id="L329"><td><a href="#L329">329</a></td><td>TANITH: He is here, Colonel O'Neill.</td></tr>
 
-  HEBRON
-     Then we will have that in common.
+<tr id="L330"><td><a href="#L330">330</a></td><td>DANIEL: Actually, we'd like to hear that from him.</td></tr>
 
-  SHAUN'AUC
-     You will share with him much, much more than I.
+<tr id="L331"><td><a href="#L331">331</a></td><td>TANITH: Of course.</td></tr>
 
-  ANNOTATION
-     She cries out in pain and collapses to the floor,
-     supported by Teal'c.
+<tr id="L332"><td><a href="#L332">332</a></td><td>ANNOTATION: He lowers his head and the host takes control.</td></tr>
 
-  SHAUN'AUC
-     I have waited too long!
+<tr id="L333"><td><a href="#L333">333</a></td><td>HEBRON: It is true, it is a strange feeling but I am very much here.</td></tr>
 
-  TEAL'C
-     It must be done now!
+<tr id="L334"><td><a href="#L334">334</a></td><td>O'NEILL: How do we know that?</td></tr>
 
-  ANISE
-     We are not yet ready for the transference.
+<tr id="L335"><td><a href="#L335">335</a></td><td>HEBRON: Tanith wants you to know that we will submit to any test you may wish to perform to assure you that I am speaking freely as host. Rest assured Tanith is pure of heart. Shaun'auc was indeed a great teacher.</td></tr>
 
-  SHAUN'AUC
-     It can wait no longer!
+<tr id="L336"><td><a href="#L336">336</a></td><td>O'NEILL: Good, then maybe Tanith wouldn't mind sharing some of that fine Goa'uld knowledge.</td></tr>
 
-  ANNOTATION
-     Sounds of the symbiote emerging are heard. Carter,
-     O'Neill and Daniel grimace at the sight.
+<tr id="L337"><td><a href="#L337">337</a></td><td>ANNOTATION: Tanith takes over from Hebron.</td></tr>
 
-  SHAUN'AUC
-     Teal'c, it cannot wait!
+<tr id="L338"><td><a href="#L338">338</a></td><td>TANITH: (smiling) Of course.</td></tr>
 
-  ANNOTATION
-     Hebron tears open his shirt.
+<tr id="L339"><td><a href="#L339">339</a></td><td>ANISE: When the time is appropriate.</td></tr>
 
-  HEBRON
-     I am ready. (he falls to his knees) Take me!
+<tr id="L340"><td><a href="#L340">340</a></td><td>O'NEILL: I think now is appropriate.</td></tr>
 
-  ANNOTATION
-     The symbiote emerges and O'Neill draws his gun.
-     The symbiote lunges for Hebron's neck and enters
-     it. Hebron grasps at his neck and gasps. He falls
-     backwards. Shaun'auc passes out as Anise goes to
-     Hebron. SG-1 stand back with a look of disgust at
-     the process. Hebron's eyes open and glow.
+<tr id="L341"><td><a href="#L341">341</a></td><td>ANISE: I disagree.</td></tr>
 
-  ANISE
-     Colonel O'Neill, lower your weapon. The
-     transference is complete.
+<tr id="L342"><td><a href="#L342">342</a></td><td>O'NEILL: Oh, here we go, here we go!</td></tr>
 
-  O'NEILL
-     Transference, is that what you call that!
+<tr id="L343"><td><a href="#L343">343</a></td><td>ANISE: Tanith has asked to join the Tok'ra, not the SGC.</td></tr>
 
-  TEAL'C
-     (to Shaun'auc) Shaun'auc?
+<tr id="L344"><td><a href="#L344">344</a></td><td>O'NEILL: (angrily) Are you kidding me!</td></tr>
 
-  ANNOTATION
-     Anise helps Hebron to stand. He has a wound on his
-     neck where the symbiote entered.
+<tr id="L345"><td><a href="#L345">345</a></td><td>ANISE: We will gladly share what knowledge we feel is useful to the furthering of our alliance with Earth.</td></tr>
 
-  TANITH
-     There was no more time, Shaun'auc's life was in
-     grave danger. I had to act. (to Anise) Have you a
-     prim'ta ready for implantation?
+<tr id="L346"><td><a href="#L346">346</a></td><td>CARTER: Does my father go along with this?</td></tr>
 
-  ANISE
-     Yes.
+<tr id="L347"><td><a href="#L347">347</a></td><td>ANISE: I am sure he will.</td></tr>
 
-  TANITH
-     Do it now, she is near death.
+<tr id="L348"><td><a href="#L348">348</a></td><td>O'NEILL: How do I hang up with Anise and talk to Freya?</td></tr>
 
-  ANNOTATION
-     Anise nods at a guard, who leaves.
+<tr id="L349"><td><a href="#L349">349</a></td><td>ANISE: Why?</td></tr>
 
-  TANITH
-     I am Tanith, it is my honor to pledge my
-     allegiance to the Tok'ra.
+<tr id="L350"><td><a href="#L350">350</a></td><td>O'NEILL: I like Freya!</td></tr>
 
-  ANNOTATION
-     Teal'c looks down at the unconscious Shaun'auc.
+<tr id="L351"><td><a href="#L351">351</a></td><td>ANISE: She and I are in complete agreement.</td></tr>
 
+<tr id="L352"><td><a href="#L352">352</a></td><td>O'NEILL: How do I know that?</td></tr>
 
-LOCATION--TOK'RA UNDERGROUND MEETING ROOM
+<tr id="L353"><td><a href="#L353">353</a></td><td>ANISE: I have told you.</td></tr>
 
-  ANNOTATION
-     Carter and O'Neill are sitting at a table waiting
-     for news. Daniel is standing leaning against
-     Carter's chair. Footsteps are heard approaching
-     and they all look up.
+<tr id="L354"><td><a href="#L354">354</a></td><td>O'NEILL: And I'm supposed to trust you...You know this whole talking to two people in one body thing really sucks!</td></tr>
 
-  DANIEL
-     How is she?
+<tr id="L355"><td><a href="#L355">355</a></td><td>ANNOTATION: Teal'c and Shaun'auc enter the chamber. Tanith looks at Shaun'auc.</td></tr>
 
-  ANNOTATION
-     Anise enters.
+<tr id="L356"><td><a href="#L356">356</a></td><td>TANITH: Shaun'auc!</td></tr>
 
-  ANISE
-     Shaun'auc is still very weak. The symbiote we were
-     able to retrieve was quite young.
+<tr id="L357"><td><a href="#L357">357</a></td><td>ANNOTATION: She looks at him and smiles.</td></tr>
 
-  CARTER
-     But she's going to be ok?
+<tr id="L358"><td><a href="#L358">358</a></td><td>TANITH: It is good to finally see the face of she that taught me so much!</td></tr>
 
-  ANISE
-     We believe so.
+<tr id="L359"><td><a href="#L359">359</a></td><td>SHAUN'AUC: Oh, to speak with you in words, it is something I never dreamed of.</td></tr>
 
-  ANNOTATION
-     Tanith enters behind Anise. O'Neill eyes him
-     suspiciously.
+<tr id="L360"><td><a href="#L360">360</a></td><td>TANITH: There will be time for words. You must stay a while, we have so much to talk about.</td></tr>
 
-  O'NEILL
-     Hello, Hebron.
+<tr id="L361"><td><a href="#L361">361</a></td><td>SHAUN'AUC: I know.</td></tr>
 
-  TANITH
-     He is here, Colonel O'Neill.
+<tr id="L362"><td><a href="#L362">362</a></td><td>ANNOTATION: Tanith looks at Teal'c.</td></tr>
 
-  DANIEL
-     Actually, we'd like to hear that from him.
+<tr id="L363"><td><a href="#L363">363</a></td><td>TANITH: Teal'c, I sense that she is still extremely weak.</td></tr>
 
-  TANITH
-     Of course.
+<tr id="L364"><td><a href="#L364">364</a></td><td>TEAL'C: Her new symbiote is extremely young for the task of healing her.</td></tr>
 
-  ANNOTATION
-     He lowers his head and the host takes control.
+<tr id="L365"><td><a href="#L365">365</a></td><td>ANNOTATION: Tanith looks at SG-1.</td></tr>
 
-  HEBRON
-     It is true, it is a strange feeling but I am very
-     much here.
+<tr id="L366"><td><a href="#L366">366</a></td><td>TANITH: I hope that your indecision did not put her at more risk than necessary.</td></tr>
 
-  O'NEILL
-     How do we know that?
+<tr id="L367"><td><a href="#L367">367</a></td><td>ANNOTATION: Tanith smiles at Shaun'auc and then leaves the room. O'Neill puts his hat on.</td></tr>
 
-  HEBRON
-     Tanith wants you to know that we will submit to
-     any test you may wish to perform to assure you
-     that I am speaking freely as host. Rest assured
-     Tanith is pure of heart. Shaun'auc was indeed a
-     great teacher.
+<tr id="L368"><td><a href="#L368">368</a></td><td>O'NEILL: (annoyed) I guess we'll just mosey on back to Earth. Tell General Hammond how the Tok'ra boned us again.</td></tr>
 
-  O'NEILL
-     Good, then maybe Tanith wouldn't mind sharing some
-     of that fine Goa'uld knowledge.
+<tr id="L369"><td><a href="#L369">369</a></td><td>ANNOTATION: He leaves followed by Carter and Daniel.</td></tr>
 
-  ANNOTATION
-     Tanith takes over from Hebron.
+<tr id="L370"><td><a href="#L370">370</a></td><td>ANISE: Colonel!</td></tr>
 
-  TANITH
-     (smiling) Of course.
+<tr id="L371"><td><a href="#L371">371</a></td><td>ANNOTATION: She follows him, as do Teal'c and Shaun'auc.</td></tr>
 
-  ANISE
-     When the time is appropriate.
+<tr><td></td><td>LOCATION--TOK'RA TUNNEL</td></tr>
+<tr id="L372"><td><a href="#L372">372</a></td><td>ANNOTATION: O'Neill is leading SG-1 out of the tunnels, followed by Anise.</td></tr>
 
-  O'NEILL
-     I think now is appropriate.
+<tr id="L373"><td><a href="#L373">373</a></td><td>ANISE: Please take no offense.</td></tr>
 
-  ANISE
-     I disagree.
+<tr id="L374"><td><a href="#L374">374</a></td><td>O'NEILL: Hey, we're getting used to it.</td></tr>
 
-  O'NEILL
-     Oh, here we go, here we go!
+<tr id="L375"><td><a href="#L375">375</a></td><td>ANNOTATION: They reach the transportation rings site. O'Neill, Carter and Daniel stand ready to be transported.</td></tr>
 
-  ANISE
-     Tanith has asked to join the Tok'ra, not the SGC.
+<tr id="L376"><td><a href="#L376">376</a></td><td>O'NEILL: Teal'c, you can come back and visit Shaun'auc after we've debriefed. (to Anise sarcastically) That is if it's all right with our good friends and allies.</td></tr>
 
-  O'NEILL
-     (angrily) Are you kidding me!
+<tr id="L377"><td><a href="#L377">377</a></td><td>ANISE: He is welcome, of course.</td></tr>
 
-  ANISE
-     We will gladly share what knowledge we feel is
-     useful to the furthering of our alliance with
-     Earth.
+<tr id="L378"><td><a href="#L378">378</a></td><td>O'NEILL: Swell... (to SG-1) Let's go.</td></tr>
 
-  CARTER
-     Does my father go along with this?
+<tr id="L379"><td><a href="#L379">379</a></td><td>ANNOTATION: Teal'c looks at Shaun'auc</td></tr>
 
-  ANISE
-     I am sure he will.
+<tr id="L380"><td><a href="#L380">380</a></td><td>TEAL'C: O'Neill, I would like a moment.</td></tr>
 
-  O'NEILL
-     How do I hang up with Anise and talk to Freya?
+<tr id="L381"><td><a href="#L381">381</a></td><td>O'NEILL: We'll wait at the Gate.</td></tr>
 
-  ANISE
-     Why?
+<tr id="L382"><td><a href="#L382">382</a></td><td>ANNOTATION: Carter, Daniel and O'Neill leave via the transportation rings.</td></tr>
 
-  O'NEILL
-     I like Freya!
+<tr id="L383"><td><a href="#L383">383</a></td><td>TEAL'C: I must inform the Tau'ri of my intention to leave their service.</td></tr>
 
-  ANISE
-     She and I are in complete agreement.
+<tr id="L384"><td><a href="#L384">384</a></td><td>SHAUN'AUC: I will await your return.</td></tr>
 
-  O'NEILL
-     How do I know that?
+<tr id="L385"><td><a href="#L385">385</a></td><td>TEAL'C: We will return to Chulak and tell every Jaffa in every village of your return.</td></tr>
 
-  ANISE
-     I have told you.
+<tr id="L386"><td><a href="#L386">386</a></td><td>SHAUN'AUC: Together!</td></tr>
 
-  O'NEILL
-     And I'm supposed to trust you...You know this
-     whole talking to two people in one body thing
-     really sucks!
+<tr id="L387"><td><a href="#L387">387</a></td><td>TEAL'C: Tal matte, Shaun'auc.</td></tr>
 
-  ANNOTATION
-     Teal'c and Shaun'auc enter the chamber. Tanith
-     looks at Shaun'auc.
+<tr id="L388"><td><a href="#L388">388</a></td><td>SHAUN'AUC: Tal matte, my love!</td></tr>
 
-  TANITH
-     Shaun'auc!
+<tr id="L389"><td><a href="#L389">389</a></td><td>ANNOTATION: Teal'c leaves via the transportation rings.</td></tr>
 
-  ANNOTATION
-     She looks at him and smiles.
+<tr><td></td><td>LOCATION--TANITH'S QUARTERS IN TOK'RA BASE</td></tr>
+<tr id="L390"><td><a href="#L390">390</a></td><td>ANNOTATION: Tanith is looking at himself in a mirror. He turns around as Shaun'auc enters the room.</td></tr>
 
-  TANITH
-     It is good to finally see the face of she that
-     taught me so much!
+<tr id="L391"><td><a href="#L391">391</a></td><td>SHAUN'AUC: Have I disturbed you?</td></tr>
 
-  SHAUN'AUC
-     Oh, to speak with you in words, it is something I
-     never dreamed of.
+<tr id="L392"><td><a href="#L392">392</a></td><td>TANITH: The hour is late. You should be resting.</td></tr>
 
-  TANITH
-     There will be time for words. You must stay a
-     while, we have so much to talk about.
+<tr id="L393"><td><a href="#L393">393</a></td><td>SHAUN'AUC: I could not wait to speak with you.</td></tr>
 
-  SHAUN'AUC
-     I know.
+<tr id="L394"><td><a href="#L394">394</a></td><td>TANITH: Yes. (He walks over to her) We must speak of your audacity.</td></tr>
 
-  ANNOTATION
-     Tanith looks at Teal'c.
+<tr id="L395"><td><a href="#L395">395</a></td><td>ANNOTATION: Shaun'auc looks puzzled.</td></tr>
 
-  TANITH
-     Teal'c, I sense that she is still extremely weak.
+<tr id="L396"><td><a href="#L396">396</a></td><td>SHAUN'AUC: I do not understand.</td></tr>
 
-  TEAL'C
-     Her new symbiote is extremely young for the task
-     of healing her.
+<tr id="L397"><td><a href="#L397">397</a></td><td>TANITH: How dare a priestess touch the mind of one who would be her god!</td></tr>
 
-  ANNOTATION
-     Tanith looks at SG-1.
+<tr id="L398"><td><a href="#L398">398</a></td><td>SHAUN'AUC: You despise the Goa'uld!</td></tr>
 
-  TANITH
-     I hope that your indecision did not put her at
-     more risk than necessary.
+<tr id="L399"><td><a href="#L399">399</a></td><td>TANITH: (evilly) I am the Goa'uld!</td></tr>
 
-  ANNOTATION
-     Tanith smiles at Shaun'auc and then leaves the
-     room. O'Neill puts his hat on.
+<tr id="L400"><td><a href="#L400">400</a></td><td>SHAUN'AUC: (shocked) But I showed you the...</td></tr>
 
-  O'NEILL
-     (annoyed) I guess we'll just mosey on back to
-     Earth. Tell General Hammond how the Tok'ra boned
-     us again.
+<tr id="L401"><td><a href="#L401">401</a></td><td>ANNOTATION: Tanith clamps his hand over her mouth and grabs her.</td></tr>
 
-  ANNOTATION
-     He leaves followed by Carter and Daniel.
+<tr id="L402"><td><a href="#L402">402</a></td><td>TANITH: You showed me the means to destroy the Tok'ra...</td></tr>
 
-  ANISE
-     Colonel!
+<tr id="L403"><td><a href="#L403">403</a></td><td>ANNOTATION: She struggles in his arms.</td></tr>
 
-  ANNOTATION
-     She follows him, as do Teal'c and Shaun'auc.
+<tr id="L404"><td><a href="#L404">404</a></td><td>TANITH: Now accept your reward.</td></tr>
 
+<tr id="L405"><td><a href="#L405">405</a></td><td>ANNOTATION: Tanith's eyes glow and he smiles.</td></tr>
 
-LOCATION--TOK'RA TUNNEL
+<tr><td></td><td>LOCATION-- CHEYENNE MOUNTAIN--NIGHT</td></tr>
+<tr><td></td><td>LOCATION--SGC BRIEFING ROOM</td></tr>
+<tr id="L406"><td><a href="#L406">406</a></td><td>ANNOTATION: Carter, Daniel and Hammond are sitting round the table. O'Neill is standing near to his seat. Teal'c is standing at the end of the table.</td></tr>
 
-  ANNOTATION
-     O'Neill is leading SG-1 out of the tunnels,
-     followed by Anise.
+<tr id="L407"><td><a href="#L407">407</a></td><td>TEAL'C: It is with much sadness that I must take my leave of the SGC.</td></tr>
 
-  ANISE
-     Please take no offense.
+<tr id="L408"><td><a href="#L408">408</a></td><td>ANNOTATION: SG-1 and Hammond look shocked.</td></tr>
 
-  O'NEILL
-     Hey, we're getting used to it.
+<tr id="L409"><td><a href="#L409">409</a></td><td>HAMMOND: Are you certain?</td></tr>
 
-  ANNOTATION
-     They reach the transportation rings site. O'Neill,
-     Carter and Daniel stand ready to be transported.
+<tr id="L410"><td><a href="#L410">410</a></td><td>O'NEILL: He means leave of absence, sir!</td></tr>
 
-  O'NEILL
-     Teal'c, you can come back and visit Shaun'auc
-     after we've debriefed. (to Anise sarcastically)
-     That is if it's all right with our good friends
-     and allies.
+<tr id="L411"><td><a href="#L411">411</a></td><td>TEAL'C: I have said what I mean, O'Neill. I intend to live the remainder of my life on Chulak.</td></tr>
 
-  ANISE
-     He is welcome, of course.
+<tr id="L412"><td><a href="#L412">412</a></td><td>O'NEILL: What on Earth for?</td></tr>
 
-  O'NEILL
-     Swell... (to SG-1) Let's go.
+<tr id="L413"><td><a href="#L413">413</a></td><td>TEAL'C: Do you not recognize the greatness of Shaun'auc's achievement?</td></tr>
 
-  ANNOTATION
-     Teal'c looks at Shaun'auc
+<tr id="L414"><td><a href="#L414">414</a></td><td>DANIEL: I think the point is that if the whole idea was to get the secrets of the Goa'uld into the hands of the Tok'ra...</td></tr>
 
-  TEAL'C
-     O'Neill, I would like a moment.
+<tr id="L415"><td><a href="#L415">415</a></td><td>O'NEILL: And us, by the way.</td></tr>
 
-  O'NEILL
-     We'll wait at the Gate.
+<tr id="L416"><td><a href="#L416">416</a></td><td>DANIEL: ...Then it's done. Mission accomplished!</td></tr>
 
-  ANNOTATION
-     Carter, Daniel and O'Neill leave via the
-     transportation rings.
+<tr id="L417"><td><a href="#L417">417</a></td><td>CARTER: Yeah Teal'c, even if you could train a large enough number of Jaffa to communicate with their symbiotes, the Tok'ra have a hard enough time finding hosts.</td></tr>
 
-  TEAL'C
-     I must inform the Tau'ri of my intention to leave
-     their service.
+<tr id="L418"><td><a href="#L418">418</a></td><td>O'NEILL: But the point is you belong here!</td></tr>
 
-  SHAUN'AUC
-     I will await your return.
+<tr id="L419"><td><a href="#L419">419</a></td><td>TEAL'C: I belong where I am needed most, O'Neill, and that is on Chulak at Shaun'auc's side.</td></tr>
 
-  TEAL'C
-     We will return to Chulak and tell every Jaffa in
-     every village of your return.
+<tr id="L420"><td><a href="#L420">420</a></td><td>ANNOTATION: The sounds of the Gate activating are heard and sirens sound.</td></tr>
 
-  SHAUN'AUC
-     Together!
+<tr id="L421"><td><a href="#L421">421</a></td><td>TECHNICIAN: (on intercom) Offworld activation!</td></tr>
 
-  TEAL'C
-     Tal matte, Shaun'auc.
+<tr id="L422"><td><a href="#L422">422</a></td><td>ANNOTATION: They all leave the briefing room.</td></tr>
 
-  SHAUN'AUC
-     Tal matte, my love!
+<tr><td></td><td>LOCATION--GATE ROOM</td></tr>
+<tr id="L423"><td><a href="#L423">423</a></td><td>ANNOTATION: Armed guards stand ready by the Gate. The iris is closed.</td></tr>
 
-  ANNOTATION
-     Teal'c leaves via the transportation rings.
+<tr><td></td><td>LOCATION--CONROL ROOM</td></tr>
+<tr id="L424"><td><a href="#L424">424</a></td><td>ANNOTATION: SG-1 and Hammond enter.</td></tr>
 
+<tr id="L425"><td><a href="#L425">425</a></td><td>TECHNICIAN: Incoming traveler, sir, it's the Tok'ra.</td></tr>
 
-LOCATION--TANITH'S QUARTERS IN TOK'RA BASE
+<tr id="L426"><td><a href="#L426">426</a></td><td>O'NEILL: Here to share squat with us no doubt.</td></tr>
 
-  ANNOTATION
-     Tanith is looking at himself in a mirror. He turns
-     around as Shaun'auc enters the room.
+<tr id="L427"><td><a href="#L427">427</a></td><td>HAMMOND: Open the iris.</td></tr>
 
-  SHAUN'AUC
-     Have I disturbed you?
+<tr id="L428"><td><a href="#L428">428</a></td><td>ANNOTATION: The iris opens and Anise steps through. She looks at Teal'c sadly and then two further Tok'ra step through the Gate carrying a stretcher with a body on it. Teal'c runs to the gateroom followed by the rest of SG-1.</td></tr>
 
-  TANITH
-     The hour is late. You should be resting.
+<tr id="L429"><td><a href="#L429">429</a></td><td>ANISE: Teal'c, it is with great sorrow that I return.</td></tr>
 
-  SHAUN'AUC
-     I could not wait to speak with you.
+<tr id="L430"><td><a href="#L430">430</a></td><td>ANNOTATION: Teal'c looks at the stretcher.</td></tr>
 
-  TANITH
-     Yes. (He walks over to her) We must speak of your
-     audacity.
+<tr id="L431"><td><a href="#L431">431</a></td><td>TEAL'C: Shaun'auc!</td></tr>
 
-  ANNOTATION
-     Shaun'auc looks puzzled.
+<tr id="L432"><td><a href="#L432">432</a></td><td>ANISE: We found the body just outside her chamber.</td></tr>
 
-  SHAUN'AUC
-     I do not understand.
+<tr id="L433"><td><a href="#L433">433</a></td><td>ANNOTATION: Daniel, O'Neill and Carter look shocked.</td></tr>
 
-  TANITH
-     How dare a priestess touch the mind of one who
-     would be her god!
+<tr id="L434"><td><a href="#L434">434</a></td><td>ANISE: The symbiote she carried was also dead. If we had found a more mature larva...</td></tr>
 
-  SHAUN'AUC
-     You despise the Goa'uld!
+<tr id="L435"><td><a href="#L435">435</a></td><td>TEAL'C: She appeared well!</td></tr>
 
-  TANITH
-     (evilly) I am the Goa'uld!
+<tr id="L436"><td><a href="#L436">436</a></td><td>ANISE: Shaun'auc's death is simply the unfortunate result of waiting too long.</td></tr>
 
-  SHAUN'AUC
-     (shocked) But I showed you the...
+<tr id="L437"><td><a href="#L437">437</a></td><td>ANNOTATION: Teal'c pulls down the sheet which covers Shaun'auc's face.</td></tr>
 
-  ANNOTATION
-     Tanith clamps his hand over her mouth and grabs
-     her.
+<tr id="L438"><td><a href="#L438">438</a></td><td>TEAL'C: (emotionally) Shaun'auc, Tal mek. Creon te shree. Tal mek.</td></tr>
 
-  TANITH
-     You showed me the means to destroy the Tok'ra...
+<tr id="L439"><td><a href="#L439">439</a></td><td>DANIEL: (translating) Our love does not end in death.</td></tr>
 
-  ANNOTATION
-     She struggles in his arms.
+<tr id="L440"><td><a href="#L440">440</a></td><td>ANNOTATION: Teal'c leans and kisses Shaun'auc.</td></tr>
 
-  TANITH
-     Now accept your reward.
+<tr id="L441"><td><a href="#L441">441</a></td><td>ANISE: (to O'Neill) I wanted Teal'c to have the body for whatever spiritual ritual he may wish to perform.</td></tr>
 
-  ANNOTATION
-     Tanith's eyes glow and he smiles.
+<tr id="L442"><td><a href="#L442">442</a></td><td>ANNOTATION: Teal'c looks close to tears.</td></tr>
 
+<tr><td></td><td>LOCATION--TEAL'C'S QUARTERS</td></tr>
+<tr id="L443"><td><a href="#L443">443</a></td><td>ANNOTATION: Teal'c is meditating, surrounded by lit candles. He sees another vision from his symbiote of his father's murder by Cronus. As Cronus crushes his father's symbiote, Teal'c screams in pain. O'Neill is walking down the corridor by Teal'c's quarters. He hears the scream and rushes to knock on Teal'c's door.</td></tr>
 
-LOCATION-- CHEYENNE MOUNTAIN--NIGHT
+<tr id="L444"><td><a href="#L444">444</a></td><td>O'NEILL: Teal'c?</td></tr>
 
+<tr id="L445"><td><a href="#L445">445</a></td><td>ANNOTATION: Inside his room Teal'c, suddenly opens his eyes.</td></tr>
 
-LOCATION--SGC BRIEFING ROOM
+<tr id="L446"><td><a href="#L446">446</a></td><td>O'NEILL: (knocking on the door) Teal'c!</td></tr>
 
-  ANNOTATION
-     Carter, Daniel and Hammond are sitting round the
-     table. O'Neill is standing near to his seat.
-     Teal'c is standing at the end of the table.
+<tr id="L447"><td><a href="#L447">447</a></td><td>ANNOTATION: Teal'c opens his door.</td></tr>
 
-  TEAL'C
-     It is with much sadness that I must take my leave
-     of the SGC.
+<tr id="L448"><td><a href="#L448">448</a></td><td>O'NEILL: What's up?</td></tr>
 
-  ANNOTATION
-     SG-1 and Hammond look shocked.
+<tr id="L449"><td><a href="#L449">449</a></td><td>TEAL'C: Shaun'auc was murdered!</td></tr>
 
-  HAMMOND
-     Are you certain?
+<tr><td></td><td>LOCATION--WORMHOLE TRAVEL</td></tr>
+<tr><td></td><td>LOCATION-- VORASH STARGATE</td></tr>
+<tr><td></td><td>LOCATION--TOK'RA MEETING ROOM</td></tr>
+<tr id="L450"><td><a href="#L450">450</a></td><td>ANNOTATION: O'Neill and Teal'c enter, accompanied by some Tok'ra guards. Anise and two other Tok'ra are sitting round the table. They stand.</td></tr>
 
-  O'NEILL
-     He means leave of absence, sir!
+<tr id="L451"><td><a href="#L451">451</a></td><td>ANISE: We have not yet obtained information of any value from Tanith. Your return is premature.</td></tr>
 
-  TEAL'C
-     I have said what I mean, O'Neill. I intend to live
-     the remainder of my life on Chulak.
+<tr id="L452"><td><a href="#L452">452</a></td><td>O'NEILL: You folks should invest in some doors.</td></tr>
 
-  O'NEILL
-     What on Earth for?
+<tr id="L453"><td><a href="#L453">453</a></td><td>ANISE: We have no secrets from each other.</td></tr>
 
-  TEAL'C
-     Do you not recognize the greatness of Shaun'auc's
-     achievement?
+<tr id="L454"><td><a href="#L454">454</a></td><td>O'NEILL: I beg to differ with you!</td></tr>
 
-  DANIEL
-     I think the point is that if the whole idea was to
-     get the secrets of the Goa'uld into the hands of
-     the Tok'ra...
+<tr id="L455"><td><a href="#L455">455</a></td><td>TEAL'C: I have reason to believe the Goa'uld Shaun'auc carried was not truly convinced to become a Tok'ra. I believe the Goa'uld used this opportunity to become a spy among you.</td></tr>
 
-  O'NEILL
-     And us, by the way.
+<tr id="L456"><td><a href="#L456">456</a></td><td>ANISE: What evidence have you for this?</td></tr>
 
-  DANIEL
-     ...Then it's done. Mission accomplished!
+<tr id="L457"><td><a href="#L457">457</a></td><td>TEAL'C: The murder of Shaun'auc! The system lord Cronus murdered my father by crushing his symbiote in such a way it allowed the symbiote's blood to mix directly with that of my father. The method is slow and immensely painful.</td></tr>
 
-  CARTER
-     Yeah Teal'c, even if you could train a large
-     enough number of Jaffa to communicate with their
-     symbiotes, the Tok'ra have a hard enough time
-     finding hosts.
+<tr id="L458"><td><a href="#L458">458</a></td><td>ANISE: How do you know this?</td></tr>
 
-  O'NEILL
-     But the point is you belong here!
+<tr id="L459"><td><a href="#L459">459</a></td><td>TEAL'C: In communion with my own symbiote. It is a vision my symbiote chose to share.</td></tr>
 
-  TEAL'C
-     I belong where I am needed most, O'Neill, and that
-     is on Chulak at Shaun'auc's side.
+<tr id="L460"><td><a href="#L460">460</a></td><td>ANISE: Why?</td></tr>
 
-  ANNOTATION
-     The sounds of the Gate activating are heard and
-     sirens sound.
+<tr id="L461"><td><a href="#L461">461</a></td><td>TEAL'C: To demonstrate Goa'uld hatred and superiority.</td></tr>
 
-  TECHNICIAN
-     (on intercom) Offworld activation!
+<tr id="L462"><td><a href="#L462">462</a></td><td>ANISE: Still, if that is your proof...</td></tr>
 
-  ANNOTATION
-     They all leave the briefing room.
+<tr id="L463"><td><a href="#L463">463</a></td><td>TEAL'C: We found Goa'uld blood in Shaun'auc's bloodstream and trace amounts on her hands. Confirming my vision!</td></tr>
 
+<tr id="L464"><td><a href="#L464">464</a></td><td>ANISE: And so you have come to exact revenge?</td></tr>
 
-LOCATION--GATE ROOM
+<tr id="L465"><td><a href="#L465">465</a></td><td>TEAL'C: (angrily) I have!</td></tr>
 
-  ANNOTATION
-     Armed guards stand ready by the Gate. The iris is
-     closed.
+<tr id="L466"><td><a href="#L466">466</a></td><td>ANISE: I'm sorry, we cannot allow you.</td></tr>
 
+<tr id="L467"><td><a href="#L467">467</a></td><td>ANNOTATION: They look at each other. Teal'c is furious. He lunges at the Tok'ra next to him, knocks him over and runs from the room to seek out Tanith.</td></tr>
 
-LOCATION--CONROL ROOM
+<tr id="L468"><td><a href="#L468">468</a></td><td>ANISE: Stop him!</td></tr>
 
-  ANNOTATION
-     SG-1 and Hammond enter.
+<tr><td></td><td>LOCATION--TOK'RA CORRIDOR</td></tr>
+<tr id="L469"><td><a href="#L469">469</a></td><td>ANNOTATION: Teal'c knocks down Tok'ra guards as he runs down the corridor frantically. He is finally stopped by five Tok'ra and yells at them in Goa'uld. O'Neill runs after him with his gun ready. He kneels down by the distraught Teal'c.</td></tr>
 
-  TECHNICIAN
-     Incoming traveler, sir, it's the Tok'ra.
+<tr id="L470"><td><a href="#L470">470</a></td><td>O'NEILL: Teal'c, we'll get the Goa'uld out of the host.</td></tr>
 
-  O'NEILL
-     Here to share squat with us no doubt.
+<tr id="L471"><td><a href="#L471">471</a></td><td>ANNOTATION: Anise approaches.</td></tr>
 
-  HAMMOND
-     Open the iris.
+<tr id="L472"><td><a href="#L472">472</a></td><td>ANISE: No! He will be infinitely more valuable to us if we do not.</td></tr>
 
-  ANNOTATION
-     The iris opens and Anise steps through. She looks
-     at Teal'c sadly and then two further Tok'ra step
-     through the Gate carrying a stretcher with a body
-     on it. Teal'c runs to the gateroom followed by the
-     rest of SG-1.
+<tr id="L473"><td><a href="#L473">473</a></td><td>ANNOTATION: Teal'c and O'Neill look at her suspiciously.</td></tr>
 
-  ANISE
-     Teal'c, it is with great sorrow that I return.
+<tr id="L474"><td><a href="#L474">474</a></td><td>O'NEILL: You knew!</td></tr>
 
-  ANNOTATION
-     Teal'c looks at the stretcher.
+<tr id="L475"><td><a href="#L475">475</a></td><td>ANNOTATION: Anise blinks and the host takes control.</td></tr>
 
-  TEAL'C
-     Shaun'auc!
+<tr id="L476"><td><a href="#L476">476</a></td><td>FREYA: We suspected, but only after her death. Teal'c, we truly had hoped Shaun'auc had succeeded, but if we allow Tanith to believe he has deceived us we will be able to use that against the Goa'uld.</td></tr>
 
-  ANISE
-     We found the body just outside her chamber.
+<tr id="L477"><td><a href="#L477">477</a></td><td>TEAL'C: (still being restrained) Disinformation.</td></tr>
 
-  ANNOTATION
-     Daniel, O'Neill and Carter look shocked.
+<tr id="L478"><td><a href="#L478">478</a></td><td>FREYA: Yes, if we control what he sees and hears the Goa'uld will never know our true intentions. We will be able to use that advantage for months. When Tanith no longer serves a useful purpose we will extract what Goa'uld secrets we can in other ways.</td></tr>
 
-  ANISE
-     The symbiote she carried was also dead. If we had
-     found a more mature larva...
+<tr id="L479"><td><a href="#L479">479</a></td><td>ANNOTATION: O'Neill walks up to her.</td></tr>
 
-  TEAL'C
-     She appeared well!
+<tr id="L480"><td><a href="#L480">480</a></td><td>O'NEILL: What about the host?</td></tr>
 
-  ANISE
-     Shaun'auc's death is simply the unfortunate result
-     of waiting too long.
+<tr id="L481"><td><a href="#L481">481</a></td><td>ANNOTATION: Anise takes control from Freya.</td></tr>
 
-  ANNOTATION
-     Teal'c pulls down the sheet which covers
-     Shaun'auc's face.
+<tr id="L482"><td><a href="#L482">482</a></td><td>ANISE: He knew well the risks. When we have learned all we can we plan to remove the Goa'uld. We are fighting a war for our very existence. I make no apologies for the means.</td></tr>
 
-  TEAL'C
-     (emotionally) Shaun'auc, Tal mek. Creon te shree.
-     Tal mek.
+<tr id="L483"><td><a href="#L483">483</a></td><td>ANNOTATION: Teal'c and O'Neill stare at her.</td></tr>
 
-  DANIEL
-     (translating) Our love does not end in death.
+<tr id="L484"><td><a href="#L484">484</a></td><td>ANISE: (to Tok'ra guards) Release him.</td></tr>
 
-  ANNOTATION
-     Teal'c leans and kisses Shaun'auc.
+<tr id="L485"><td><a href="#L485">485</a></td><td>ANNOTATION: The guards let Teal'c go and he stands, clearly very angry.</td></tr>
 
-  ANISE
-     (to O'Neill) I wanted Teal'c to have the body for
-     whatever spiritual ritual he may wish to perform.
+<tr><td></td><td>LOCATION--TANITH'S CHAMBERS</td></tr>
+<tr id="L486"><td><a href="#L486">486</a></td><td>ANNOTATION: Teal'c enters with O'Neill and Anise following. Teal'c walks up to Tanith with a grim look on his face. He stares at Tanith.</td></tr>
 
-  ANNOTATION
-     Teal'c looks close to tears.
+<tr id="L487"><td><a href="#L487">487</a></td><td>TANITH: (slowly) Hello, Teal'c. You must feel the pain of Shaun'auc's death as deeply as I do. It is a terrible loss to both of us and has been difficult...Why have you come to see me?</td></tr>
 
+<tr id="L488"><td><a href="#L488">488</a></td><td>TEAL'C: To look upon you and know that Shaun'auc's sacrifice will not be in vain.</td></tr>
 
-LOCATION--TEAL'C'S QUARTERS
+<tr id="L489"><td><a href="#L489">489</a></td><td>TANITH: You have my promise. I hope one day we will meet again, Teal'c, and together remember she who meant so much to both of us.</td></tr>
 
-  ANNOTATION
-     Teal'c is meditating, surrounded by lit candles.
-     He sees another vision from his symbiote of his
-     father's murder by Cronus. As Cronus crushes his
-     father's symbiote, Teal'c screams in pain. O'Neill
-     is walking down the corridor by Teal'c's quarters.
-     He hears the scream and rushes to knock on
-     Teal'c's door.
+<tr id="L490"><td><a href="#L490">490</a></td><td>TEAL'C: We will meet again. (He bows his head) You have my promise.</td></tr>
 
-  O'NEILL
-     Teal'c?
-
-  ANNOTATION
-     Inside his room Teal'c, suddenly opens his eyes.
-
-  O'NEILL
-     (knocking on the door) Teal'c!
-
-  ANNOTATION
-     Teal'c opens his door.
-
-  O'NEILL
-     What's up?
-
-  TEAL'C
-     Shaun'auc was murdered!
-
-
-LOCATION--WORMHOLE TRAVEL
-
-
-LOCATION-- VORASH STARGATE
-
-
-LOCATION--TOK'RA MEETING ROOM
-
-  ANNOTATION
-     O'Neill and Teal'c enter, accompanied by some
-     Tok'ra guards. Anise and two other Tok'ra are
-     sitting round the table. They stand.
-
-  ANISE
-     We have not yet obtained information of any value
-     from Tanith. Your return is premature.
-
-  O'NEILL
-     You folks should invest in some doors.
-
-  ANISE
-     We have no secrets from each other.
-
-  O'NEILL
-     I beg to differ with you!
-
-  TEAL'C
-     I have reason to believe the Goa'uld Shaun'auc
-     carried was not truly convinced to become a
-     Tok'ra. I believe the Goa'uld used this
-     opportunity to become a spy among you.
-
-  ANISE
-     What evidence have you for this?
-
-  TEAL'C
-     The murder of Shaun'auc! The system lord Cronus
-     murdered my father by crushing his symbiote in
-     such a way it allowed the symbiote's blood to mix
-     directly with that of my father. The method is
-     slow and immensely painful.
-
-  ANISE
-     How do you know this?
-
-  TEAL'C
-     In communion with my own symbiote. It is a vision
-     my symbiote chose to share.
-
-  ANISE
-     Why?
-
-  TEAL'C
-     To demonstrate Goa'uld hatred and superiority.
-
-  ANISE
-     Still, if that is your proof...
-
-  TEAL'C
-     We found Goa'uld blood in Shaun'auc's bloodstream
-     and trace amounts on her hands. Confirming my
-     vision!
-
-  ANISE
-     And so you have come to exact revenge?
-
-  TEAL'C
-     (angrily) I have!
-
-  ANISE
-     I'm sorry, we cannot allow you.
-
-  ANNOTATION
-     They look at each other. Teal'c is furious. He
-     lunges at the Tok'ra next to him, knocks him over
-     and runs from the room to seek out Tanith.
-
-  ANISE
-     Stop him!
-
-
-LOCATION--TOK'RA CORRIDOR
-
-  ANNOTATION
-     Teal'c knocks down Tok'ra guards as he runs down
-     the corridor frantically. He is finally stopped by
-     five Tok'ra and yells at them in Goa'uld. O'Neill
-     runs after him with his gun ready. He kneels down
-     by the distraught Teal'c.
-
-  O'NEILL
-     Teal'c, we'll get the Goa'uld out of the host.
-
-  ANNOTATION
-     Anise approaches.
-
-  ANISE
-     No! He will be infinitely more valuable to us if
-     we do not.
-
-  ANNOTATION
-     Teal'c and O'Neill look at her suspiciously.
-
-  O'NEILL
-     You knew!
-
-  ANNOTATION
-     Anise blinks and the host takes control.
-
-  FREYA
-     We suspected, but only after her death. Teal'c, we
-     truly had hoped Shaun'auc had succeeded, but if we
-     allow Tanith to believe he has deceived us we will
-     be able to use that against the Goa'uld.
-
-  TEAL'C
-     (still being restrained) Disinformation.
-
-  FREYA
-     Yes, if we control what he sees and hears the
-     Goa'uld will never know our true intentions. We
-     will be able to use that advantage for months.
-     When Tanith no longer serves a useful purpose we
-     will extract what Goa'uld secrets we can in other
-     ways.
-
-  ANNOTATION
-     O'Neill walks up to her.
-
-  O'NEILL
-     What about the host?
-
-  ANNOTATION
-     Anise takes control from Freya.
-
-  ANISE
-     He knew well the risks. When we have learned all
-     we can we plan to remove the Goa'uld. We are
-     fighting a war for our very existence. I make no
-     apologies for the means.
-
-  ANNOTATION
-     Teal'c and O'Neill stare at her.
-
-  ANISE
-     (to Tok'ra guards) Release him.
-
-  ANNOTATION
-     The guards let Teal'c go and he stands, clearly
-     very angry.
-
-
-LOCATION--TANITH'S CHAMBERS
-
-  ANNOTATION
-     Teal'c enters with O'Neill and Anise following.
-     Teal'c walks up to Tanith with a grim look on his
-     face. He stares at Tanith.
-
-  TANITH
-     (slowly) Hello, Teal'c. You must feel the pain of
-     Shaun'auc's death as deeply as I do. It is a
-     terrible loss to both of us and has been
-     difficult...Why have you come to see me?
-
-  TEAL'C
-     To look upon you and know that Shaun'auc's
-     sacrifice will not be in vain.
-
-  TANITH
-     You have my promise. I hope one day we will meet
-     again, Teal'c, and together remember she who meant
-     so much to both of us.
-
-  TEAL'C
-     We will meet again. (He bows his head) You have my
-     promise.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

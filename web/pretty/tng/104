@@ -1,1561 +1,790 @@
-Code Of Honour
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Code Of Honour</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>LAFORGE:  Standard orbit, sir.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>RIKER:  Lieutenant Yar is calling from Cargo Bay One, sir. Standing by to beam Ligonian welcoming party aboard.</td></tr>
 
-  LAFORGE
-     Standard orbit, sir.
+<tr id="L3"><td><a href="#L3">3</a></td><td>PICARD:  On our way. You have the helm, Mister Data.</td></tr>
 
-  RIKER
-     Lieutenant Yar is calling from Cargo Bay One, sir.
-     Standing by to beam Ligonian welcoming party
-     aboard.
+<tr><td></td><td>LOCATION--Turbolift</td></tr>
+<tr id="L4"><td><a href="#L4">4</a></td><td>PICARD:  Cargo One. This should be an interesting experience.</td></tr>
 
-  PICARD
-     On our way. You have the helm, Mister Data.
+<tr id="L5"><td><a href="#L5">5</a></td><td>RIKER:  Agreed. Not only are they closely humanoid, but their history has remarkable similarities to ours.</td></tr>
 
+<tr id="L6"><td><a href="#L6">6</a></td><td>TROI:  A highly structured society. and they're exceedingly proud.</td></tr>
 
-LOCATION--Turbolift
+<tr><td></td><td>LOCATION--Cargo Bay One</td></tr>
+<tr id="L7"><td><a href="#L7">7</a></td><td>TASHA:  They've insisted on using their own transporter device, sir.</td></tr>
 
-  PICARD
-     Cargo One. This should be an interesting
-     experience.
+<tr id="L8"><td><a href="#L8">8</a></td><td>PICARD:  It's their way, Lieutenant. Do they have our coordinates?</td></tr>
 
-  RIKER
-     Agreed. Not only are they closely humanoid, but
-     their history has remarkable similarities to ours.
+<tr id="L9"><td><a href="#L9">9</a></td><td>TASHA:  They have, sir, precisely, and they're standing by for your signal.</td></tr>
 
-  TROI
-     A highly structured society. and they're
-     exceedingly proud.
+<tr id="L10"><td><a href="#L10">10</a></td><td>PICARD:  This is Captain Picard aboard the Starfleet vessel Enterprise. Please do us the honour of visiting our vessel.</td></tr>
 
+<tr id="L11"><td><a href="#L11">11</a></td><td>ANNOTATION: Five people beam aboard. One rolls out a red carpet, then stands aside as an imposing man beams in</td></tr>
 
-LOCATION--Cargo Bay One
+<tr id="L12"><td><a href="#L12">12</a></td><td>LUTAN:  I am Lutan.</td></tr>
 
-  TASHA
-     They've insisted on using their own transporter
-     device, sir.
+<tr id="L13"><td><a href="#L13">13</a></td><td>PICARD:  Captain Jean-Luc Picard. Welcome aboard. These are my officers. My second in command, Commander William Riker. Ship's Counsellor, Deanna Troi. And my Security Officer, Lieutenant Natasha Yar.</td></tr>
 
-  PICARD
-     It's their way, Lieutenant. Do they have our
-     coordinates?
+<tr id="L14"><td><a href="#L14">14</a></td><td>LUTAN:  A woman? Your Chief of Security?</td></tr>
 
-  TASHA
-     They have, sir, precisely, and they're standing by
-     for your signal.
+<tr id="L15"><td><a href="#L15">15</a></td><td>PICARD:  Yes, Lutan, that is her expertise.</td></tr>
 
-  PICARD
-     This is Captain Picard aboard the Starfleet vessel
-     Enterprise. Please do us the honour of visiting
-     our vessel.
+<tr id="L16"><td><a href="#L16">16</a></td><td>LUTAN:  I am honoured to meet your officers. This is my Secondary, Hagon. A sample of the vaccine.</td></tr>
 
-  ANNOTATION
-     Five people beam aboard. One rolls out a red
-     carpet, then stands aside as an imposing man beams
-     in
+<tr id="L17"><td><a href="#L17">17</a></td><td>ANNOTATION: Tasha steps forward to intercept Hagon and his box before he gets to Picard</td></tr>
 
-  LUTAN
-     I am Lutan.
+<tr id="L18"><td><a href="#L18">18</a></td><td>TASHA:  My duty, Lutan. I'm sorry, but I'm required to</td></tr>
 
-  PICARD
-     Captain Jean-Luc Picard. Welcome aboard. These are
-     my officers. My second in command, Commander
-     William Riker. Ship's Counsellor, Deanna Troi. And
-     my Security Officer, Lieutenant Natasha Yar.
+<tr id="L19"><td><a href="#L19">19</a></td><td>HAGON:  Out of my way, woman.</td></tr>
 
-  LUTAN
-     A woman? Your Chief of Security?
+<tr id="L20"><td><a href="#L20">20</a></td><td>ANNOTATION: Tasha does a neat manoeuvre which takes the box and leaves Hagon face down on the floor</td></tr>
 
-  PICARD
-     Yes, Lutan, that is her expertise.
+<tr id="L21"><td><a href="#L21">21</a></td><td>LUTAN:  How interesting. May we prove as surprising to you.</td></tr>
 
-  LUTAN
-     I am honoured to meet your officers. This is my
-     Secondary, Hagon. A sample of the vaccine.
+<tr id="L22"><td><a href="#L22">22</a></td><td>TROI:  If I may suggest, sir, no apology. In their view, it would weaken us.</td></tr>
 
-  ANNOTATION
-     Tasha steps forward to intercept Hagon and his box
-     before he gets to Picard
+<tr id="L23"><td><a href="#L23">23</a></td><td>TASHA:  Nothing concealed, Captain. Would you care to accept it?</td></tr>
 
-  TASHA
-     My duty, Lutan. I'm sorry, but I'm required to
+<tr id="L24"><td><a href="#L24">24</a></td><td>LUTAN:  Unless you care to examine it further.</td></tr>
 
-  HAGON
-     Out of my way, woman.
+<tr id="L25"><td><a href="#L25">25</a></td><td>PICARD:  Absolutely not. This vaccine sample is a gift of life and we are honoured at receiving it. Would you do us the additional honour of now letting us entertain you? LUTAN: Yes, yes. Please prepare it. We shall join you shortly.</td></tr>
 
-  ANNOTATION
-     Tasha does a neat manoeuvre which takes the box
-     and leaves Hagon face down on the floor
+<tr id="L26"><td><a href="#L26">26</a></td><td>ANNOTATION: Picard, Riker, Troi and Yar turn and leave</td></tr>
 
-  LUTAN
-     How interesting. May we prove as surprising to
-     you.
+<tr id="L27"><td><a href="#L27">27</a></td><td>HAGON:  I ask forgiveness.</td></tr>
 
-  TROI
-     If I may suggest, sir, no apology. In their view,
-     it would weaken us.
+<tr id="L28"><td><a href="#L28">28</a></td><td>LUTAN:  They are strange alien beings. You bear no fault.</td></tr>
 
-  TASHA
-     Nothing concealed, Captain. Would you care to
-     accept it?
+<tr id="L29"><td><a href="#L29">29</a></td><td>HAGON:  But the female?</td></tr>
 
-  LUTAN
-     Unless you care to examine it further.
+<tr id="L30"><td><a href="#L30">30</a></td><td>LUTAN:  May be exactly what I have needed.</td></tr>
 
-  PICARD
-     Absolutely not. This vaccine sample is a gift of
-     life and we are honoured at receiving it. Would
-     you do us the additional honour of now letting us
-     entertain you? LUTAN: Yes, yes. Please prepare it.
-     We shall join you shortly.
+<tr><td></td><td>LOCATION--Observation Lounge</td></tr>
+<tr id="L31"><td><a href="#L31">31</a></td><td>ANNOTATION: Data brings in a statuette of a horse</td></tr>
 
-  ANNOTATION
-     Picard, Riker, Troi and Yar turn and leave
+<tr id="L32"><td><a href="#L32">32</a></td><td>PICARD:  Lutan, we are aware of many of your planet's achievements, and its unique similarity to an ancient Earth culture we all admire. On behalf of the Federation, therefore, I would like to present this token of our gratitude and friendship. From China's Sung Dynasty, Fourteenth Century.</td></tr>
 
-  HAGON
-     I ask forgiveness.
+<tr id="L33"><td><a href="#L33">33</a></td><td>DATA:  Thirteenth Century, sir.</td></tr>
 
-  LUTAN
-     They are strange alien beings. You bear no fault.
+<tr id="L34"><td><a href="#L34">34</a></td><td>PICARD:  Ah, yes, indeed.</td></tr>
 
-  HAGON
-     But the female?
+<tr id="L35"><td><a href="#L35">35</a></td><td>LUTAN:  A most thoughtful gift. We are pleased. We of Ligon have been apprehensive about strangers. We are not technologically advanced as you, yet we possess something you do not. A vaccine which has been found to be an effective antidote to your dreaded Anchilles fever. If you respect our customs and if we see that respect, we will be friends. And we will make the antidote available to all who need it.</td></tr>
 
-  LUTAN
-     May be exactly what I have needed.
+<tr id="L36"><td><a href="#L36">36</a></td><td>PICARD:  If you require respect from us, I am sure that you will see it.</td></tr>
 
+<tr id="L37"><td><a href="#L37">37</a></td><td>LUTAN:  Surrounded by such friendship, I feel no need for my guards. I will return shortly. Prepare to transport me then.</td></tr>
 
-LOCATION--Observation Lounge
+<tr id="L38"><td><a href="#L38">38</a></td><td>ANNOTATION: The four guards leave</td></tr>
 
-  ANNOTATION
-     Data brings in a statuette of a horse
+<tr id="L39"><td><a href="#L39">39</a></td><td>PICARD:  If there is something else, any further courtesy?</td></tr>
 
-  PICARD
-     Lutan, we are aware of many of your planet's
-     achievements, and its unique similarity to an
-     ancient Earth culture we all admire. On behalf of
-     the Federation, therefore, I would like to present
-     this token of our gratitude and friendship. From
-     China's Sung Dynasty, Fourteenth Century.
+<tr id="L40"><td><a href="#L40">40</a></td><td>LUTAN:  Would it possible to see one of your wondrous holodecks? We have heard how they are used to train your officers.</td></tr>
 
-  DATA
-     Thirteenth Century, sir.
+<tr id="L41"><td><a href="#L41">41</a></td><td>PICARD:  And used for many other things too. Commander Riker, perhaps you and Counsellor Troi will demonstrate.</td></tr>
 
-  PICARD
-     Ah, yes, indeed.
+<tr id="L42"><td><a href="#L42">42</a></td><td>LUTAN:  Would it be possible for Lieutenant Yar to do so, Captain? Some demonstration of defence training?</td></tr>
 
-  LUTAN
-     A most thoughtful gift. We are pleased. We of
-     Ligon have been apprehensive about strangers. We
-     are not technologically advanced as you, yet we
-     possess something you do not. A vaccine which has
-     been found to be an effective antidote to your
-     dreaded Anchilles fever. If you respect our
-     customs and if we see that respect, we will be
-     friends. And we will make the antidote available
-     to all who need it.
+<tr id="L43"><td><a href="#L43">43</a></td><td>RIKER:  We've noticed you're intrigued with her having security responsibilities. But these things are not at all unusual with us.</td></tr>
 
-  PICARD
-     If you require respect from us, I am sure that you
-     will see it.
+<tr id="L44"><td><a href="#L44">44</a></td><td>HAGON:  With us, it is the duty of women only to own the land, and the duty of men to protect and rule it.</td></tr>
 
-  LUTAN
-     Surrounded by such friendship, I feel no need for
-     my guards. I will return shortly. Prepare to
-     transport me then.
+<tr id="L45"><td><a href="#L45">45</a></td><td>TROI:  Much the same has happened in human history too.</td></tr>
 
-  ANNOTATION
-     The four guards leave
+<tr id="L46"><td><a href="#L46">46</a></td><td>TASHA:  I'd like to do it, sir. As a sign of respect, perhaps.</td></tr>
 
-  PICARD
-     If there is something else, any further courtesy?
+<tr id="L47"><td><a href="#L47">47</a></td><td>PICARD:  Very well.</td></tr>
 
-  LUTAN
-     Would it possible to see one of your wondrous
-     holodecks? We have heard how they are used to
-     train your officers.
+<tr id="L48"><td><a href="#L48">48</a></td><td>TASHA:  This way, please.</td></tr>
 
-  PICARD
-     And used for many other things too. Commander
-     Riker, perhaps you and Counsellor Troi will
-     demonstrate.
+<tr><td></td><td>LOCATION--Holodeck</td></tr>
+<tr id="L49"><td><a href="#L49">49</a></td><td>ANNOTATION: Tasha enters a command on a control, and puts on the robe it creates</td></tr>
 
-  LUTAN
-     Would it be possible for Lieutenant Yar to do so,
-     Captain? Some demonstration of defence training?
+<tr id="L50"><td><a href="#L50">50</a></td><td>TASHA:  Aikido one. (a mat and a white clothed figure appear) It won't move until my actions activate it.</td></tr>
 
-  RIKER
-     We've noticed you're intrigued with her having
-     security responsibilities. But these things are
-     not at all unusual with us.
+<tr id="L51"><td><a href="#L51">51</a></td><td>LUTAN:  You can create people? Without a soul?</td></tr>
 
-  HAGON
-     With us, it is the duty of women only to own the
-     land, and the duty of men to protect and rule it.
+<tr id="L52"><td><a href="#L52">52</a></td><td>TASHA:  It's not a real person, Lutan. It has no life. Everything it does is controlled by computer. Who am I? Do you hear me?</td></tr>
 
-  TROI
-     Much the same has happened in human history too.
+<tr id="L53"><td><a href="#L53">53</a></td><td>ANNOTATION: It only moves when she feints an attack</td></tr>
 
-  TASHA
-     I'd like to do it, sir. As a sign of respect,
-     perhaps.
+<tr id="L54"><td><a href="#L54">54</a></td><td>TASHA:  But it will feel real when it hits you.</td></tr>
 
-  PICARD
-     Very well.
+<tr id="L55"><td><a href="#L55">55</a></td><td>ANNOTATION: She demonstrates a couple of throws</td></tr>
 
-  TASHA
-     This way, please.
+<tr id="L56"><td><a href="#L56">56</a></td><td>HAGON:  A force like that cannot possibly come from an image, Lutan.</td></tr>
 
+<tr id="L57"><td><a href="#L57">57</a></td><td>LUTAN:  Then you will show me, Hagon.</td></tr>
 
-LOCATION--Holodeck
+<tr id="L58"><td><a href="#L58">58</a></td><td>ANNOTATION: Hagon gets thrown</td></tr>
 
-  ANNOTATION
-     Tasha enters a command on a control, and puts on
-     the robe it creates
+<tr id="L59"><td><a href="#L59">59</a></td><td>LUTAN:  Thank you, Lieutenant. How very enlightening.</td></tr>
 
-  TASHA
-     Aikido one. (a mat and a white clothed figure
-     appear) It won't move until my actions activate
-     it.
+<tr id="L60"><td><a href="#L60">60</a></td><td>TASHA:  Aikido, vanish. I could create two, even three, but really one is enough. As you fight with it, it learns, and before long it knows exactly how to defeat you.</td></tr>
 
-  LUTAN
-     You can create people? Without a soul?
+<tr id="L61"><td><a href="#L61">61</a></td><td>LUTAN:  Even the extraordinary Lieutenant Yar?</td></tr>
 
-  TASHA
-     It's not a real person, Lutan. It has no life.
-     Everything it does is controlled by computer. Who
-     am I? Do you hear me?
+<tr id="L62"><td><a href="#L62">62</a></td><td>TASHA:  It forces us to keep improving.</td></tr>
 
-  ANNOTATION
-     It only moves when she feints an attack
+<tr id="L63"><td><a href="#L63">63</a></td><td>LUTAN:  Your skill impresses me. I like you.</td></tr>
 
-  TASHA
-     But it will feel real when it hits you.
+<tr><td></td><td>LOCATION--Cargo Bay One</td></tr>
+<tr id="L64"><td><a href="#L64">64</a></td><td>LUTAN:  Farewell, my new friends of the noble Enterprise.</td></tr>
 
-  ANNOTATION
-     She demonstrates a couple of throws
+<tr id="L65"><td><a href="#L65">65</a></td><td>PICARD:  Understanding has made friends of many different people. We've had a good beginning, Lutan.</td></tr>
 
-  HAGON
-     A force like that cannot possibly come from an
-     image, Lutan.
+<tr id="L66"><td><a href="#L66">66</a></td><td>LUTAN:  May I also extend a personal farewell to Lieutenant Yar? In your Federation terms.</td></tr>
 
-  LUTAN
-     Then you will show me, Hagon.
+<tr id="L67"><td><a href="#L67">67</a></td><td>ANNOTATION: He shakes her hand then pulls her close so she, Lutan and Hagon are beamed out together</td></tr>
 
-  ANNOTATION
-     Hagon gets thrown
+<tr id="L68"><td><a href="#L68">68</a></td><td>PICARD:  Picard to Bridge. Red alert.</td></tr>
 
-  LUTAN
-     Thank you, Lieutenant. How very enlightening.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L69"><td><a href="#L69">69</a></td><td>RIKER:  (at Tasha's station) Shields up, photon torpedoes activated, sir.</td></tr>
 
-  TASHA
-     Aikido, vanish. I could create two, even three,
-     but really one is enough. As you fight with it, it
-     learns, and before long it knows exactly how to
-     defeat you.
+<tr id="L70"><td><a href="#L70">70</a></td><td>PICARD:  What comm. contact have we had with them?</td></tr>
 
-  LUTAN
-     Even the extraordinary Lieutenant Yar?
+<tr id="L71"><td><a href="#L71">71</a></td><td>DATA:  With their orbital control station, sir.</td></tr>
 
-  TASHA
-     It forces us to keep improving.
+<tr id="L72"><td><a href="#L72">72</a></td><td>PICARD:  Make contact there and on all hailing frequencies. This is the Enterprise to Lutan and the Ligonian government. You have committed an unfriendly act. We insist that you reply immediately.</td></tr>
 
-  LUTAN
-     Your skill impresses me. I like you.
+<tr id="L73"><td><a href="#L73">73</a></td><td>RIKER:  Photon torpedoes ready, sir.</td></tr>
 
+<tr id="L74"><td><a href="#L74">74</a></td><td>PICARD:  Set them for a display blast a thousand metres short of the planet's surface.</td></tr>
 
-LOCATION--Cargo Bay One
+<tr id="L75"><td><a href="#L75">75</a></td><td>RIKER:  Set.</td></tr>
 
-  LUTAN
-     Farewell, my new friends of the noble Enterprise.
+<tr id="L76"><td><a href="#L76">76</a></td><td>PICARD:  Fire.</td></tr>
 
-  PICARD
-     Understanding has made friends of many different
-     people. We've had a good beginning, Lutan.
+<tr id="L77"><td><a href="#L77">77</a></td><td>RIKER:  Do we know the source of their transporter beam?</td></tr>
 
-  LUTAN
-     May I also extend a personal farewell to
-     Lieutenant Yar? In your Federation terms.
+<tr id="L78"><td><a href="#L78">78</a></td><td>LAFORGE:  Our own transporter people have tried to trace it, sir, but to no effect.</td></tr>
 
-  ANNOTATION
-     He shakes her hand then pulls her close so she,
-     Lutan and Hagon are beamed out together
+<tr id="L79"><td><a href="#L79">79</a></td><td>DATA:  It reads similar to early Starfleet efforts but uses the Heglenian shift to convert matter and energy in different. (turns) Which is actually not important at this time.</td></tr>
 
-  PICARD
-     Picard to Bridge. Red alert.
+<tr id="L80"><td><a href="#L80">80</a></td><td>PICARD:  This is Captain Picard of the Enterprise with a message to Lutan, whom I have so far acknowledged as a friend. But you have now committed what our laws regard as an attack upon us. Since you have visited our vessel, you most certainly know the power of it. We insist that you reply to this message. Opinion, Counsellor. Will they injure Lieutenant Yar?</td></tr>
 
+<tr id="L81"><td><a href="#L81">81</a></td><td>TROI:  I believe not, sir. They seem mainly curious. In the case of Lutan, however, I did feel other needs.</td></tr>
 
-LOCATION--Bridge
+<tr id="L82"><td><a href="#L82">82</a></td><td>RIKER:  What kind of needs?</td></tr>
 
-  RIKER
-     (at Tasha's station) Shields up, photon torpedoes
-     activated, sir.
+<tr id="L83"><td><a href="#L83">83</a></td><td>TROI:  Some sexual attraction from all the males. Lieutenant Yar is physically very attractive. But with Lutan I felt something else. Something more like avarice or ambition.</td></tr>
 
-  PICARD
-     What comm. contact have we had with them?
+<tr id="L84"><td><a href="#L84">84</a></td><td>PICARD:  Other comments?</td></tr>
 
-  DATA
-     With their orbital control station, sir.
+<tr id="L85"><td><a href="#L85">85</a></td><td>DATA:  If I may, sir. One of the things about them in the briefing studies was their respect for patience.</td></tr>
 
-  PICARD
-     Make contact there and on all hailing frequencies.
-     This is the Enterprise to Lutan and the Ligonian
-     government. You have committed an unfriendly act.
-     We insist that you reply immediately.
+<tr id="L86"><td><a href="#L86">86</a></td><td>RIKER:  Strongly emphasized. And you can see it in the precise, ritualistic way they do things. I'm worried about Lieutenant Yar too, sir, but maybe we should sit and wait them out.</td></tr>
 
-  RIKER
-     Photon torpedoes ready, sir.
+<tr id="L87"><td><a href="#L87">87</a></td><td>SOMEONE: Stardate 41235.32. I am concerned. Over a full day of waiting with no response from Lutan. We are now testing whether they are aware of our sensors probing them. So far, we believe we have pinpointed Lutan's government compound.</td></tr>
 
-  PICARD
-     Set them for a display blast a thousand metres
-     short of the planet's surface.
+<tr><td></td><td>LOCATION--Ready Room</td></tr>
+<tr id="L88"><td><a href="#L88">88</a></td><td>CRUSHER:  The vaccine, sir.</td></tr>
 
-  RIKER
-     Set.
+<tr id="L89"><td><a href="#L89">89</a></td><td>PICARD:  Yes, Doctor?</td></tr>
 
-  PICARD
-     Fire.
+<tr id="L90"><td><a href="#L90">90</a></td><td>CRUSHER:  The vaccine. I'm a physician, I've seen death, but not on the scale this could mean.</td></tr>
 
-  RIKER
-     Do we know the source of their transporter beam?
+<tr id="L91"><td><a href="#L91">91</a></td><td>PICARD:  You were testing if you can replicate the vaccine.</td></tr>
 
-  LAFORGE
-     Our own transporter people have tried to trace it,
-     sir, but to no effect.
+<tr id="L92"><td><a href="#L92">92</a></td><td>CRUSHER:  And we can't. The sample works fine when used as an injection, but it becomes unstable when we try to replicate it. You must get the vaccine from the planet, Captain. As much as you can. Immediately.</td></tr>
 
-  DATA
-     It reads similar to early Starfleet efforts but
-     uses the Heglenian shift to convert matter and
-     energy in different. (turns) Which is actually not
-     important at this time.
+<tr id="L93"><td><a href="#L93">93</a></td><td>PICARD:  I'm aware of that, Doctor.</td></tr>
 
-  PICARD
-     This is Captain Picard of the Enterprise with a
-     message to Lutan, whom I have so far acknowledged
-     as a friend. But you have now committed what our
-     laws regard as an attack upon us. Since you have
-     visited our vessel, you most certainly know the
-     power of it. We insist that you reply to this
-     message. Opinion, Counsellor. Will they injure
-     Lieutenant Yar?
+<tr id="L94"><td><a href="#L94">94</a></td><td>CRUSHER:  You've never had to watch a patient die from this disease.</td></tr>
 
-  TROI
-     I believe not, sir. They seem mainly curious. In
-     the case of Lutan, however, I did feel other
-     needs.
+<tr id="L95"><td><a href="#L95">95</a></td><td>PICARD:  That's true. But I have seen my share of death.</td></tr>
 
-  RIKER
-     What kind of needs?
+<tr id="L96"><td><a href="#L96">96</a></td><td>CRUSHER:  Damn. Where are the calluses we doctors are supposed to grow over our feelings?</td></tr>
 
-  TROI
-     Some sexual attraction from all the males.
-     Lieutenant Yar is physically very attractive. But
-     with Lutan I felt something else. Something more
-     like avarice or ambition.
+<tr id="L97"><td><a href="#L97">97</a></td><td>PICARD:  Perhaps the good ones never get them.</td></tr>
 
-  PICARD
-     Other comments?
+<tr id="L98"><td><a href="#L98">98</a></td><td>CRUSHER:  May I speak about my son, Wesley?</td></tr>
 
-  DATA
-     If I may, sir. One of the things about them in the
-     briefing studies was their respect for patience.
+<tr id="L99"><td><a href="#L99">99</a></td><td>PICARD:  What? Oh, yes. Alright.</td></tr>
 
-  RIKER
-     Strongly emphasized. And you can see it in the
-     precise, ritualistic way they do things. I'm
-     worried about Lieutenant Yar too, sir, but maybe
-     we should sit and wait them out.
+<tr id="L100"><td><a href="#L100">100</a></td><td>CRUSHER:  He seems quite interested in starship operations. And speaking as a mother, of course, he seems quite knowledgeable.</td></tr>
 
-  SOMEONE
-     Stardate 41235.32. I am concerned. Over a full day
-     of waiting with no response from Lutan. We are now
-     testing whether they are aware of our sensors
-     probing them. So far, we believe we have
-     pinpointed Lutan's government compound.
+<tr id="L101"><td><a href="#L101">101</a></td><td>PICARD:  Well, yes, speaking as a mother.</td></tr>
 
+<tr id="L102"><td><a href="#L102">102</a></td><td>CRUSHER:  He's on the turbolift. You'll remember you ordered him to stay off of the Bridge.</td></tr>
 
-LOCATION--Ready Room
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L103"><td><a href="#L103">103</a></td><td>PICARD:  Wesley?</td></tr>
 
-  CRUSHER
-     The vaccine, sir.
+<tr id="L104"><td><a href="#L104">104</a></td><td>WESLEY:  I haven't stepped one foot on your Bridge, Captain.</td></tr>
 
-  PICARD
-     Yes, Doctor?
+<tr id="L105"><td><a href="#L105">105</a></td><td>RIKER:  It's all right, sir, I'll see that he leaves immediately.</td></tr>
 
-  CRUSHER
-     The vaccine. I'm a physician, I've seen death, but
-     not on the scale this could mean.
+<tr id="L106"><td><a href="#L106">106</a></td><td>PICARD:  No.</td></tr>
 
-  PICARD
-     You were testing if you can replicate the vaccine.
+<tr id="L107"><td><a href="#L107">107</a></td><td>RIKER:  No?</td></tr>
 
-  CRUSHER
-     And we can't. The sample works fine when used as
-     an injection, but it becomes unstable when we try
-     to replicate it. You must get the vaccine from the
-     planet, Captain. As much as you can. Immediately.
+<tr id="L108"><td><a href="#L108">108</a></td><td>PICARD:  Why don't you sit at Ops next to Lieutenant La Forge.</td></tr>
 
-  PICARD
-     I'm aware of that, Doctor.
+<tr id="L109"><td><a href="#L109">109</a></td><td>WESLEY:  Sir?</td></tr>
 
-  CRUSHER
-     You've never had to watch a patient die from this
-     disease.
+<tr id="L110"><td><a href="#L110">110</a></td><td>LAFORGE:  Sir?</td></tr>
 
-  PICARD
-     That's true. But I have seen my share of death.
+<tr id="L111"><td><a href="#L111">111</a></td><td>PICARD:  Is the whole ship deaf?! Sit down over there, young man. Temporarily.</td></tr>
 
-  CRUSHER
-     Damn. Where are the calluses we doctors are
-     supposed to grow over our feelings?
+<tr id="L112"><td><a href="#L112">112</a></td><td>TROI:  Captain, we have more information from the briefing studies on Ligon.</td></tr>
 
-  PICARD
-     Perhaps the good ones never get them.
+<tr id="L113"><td><a href="#L113">113</a></td><td>PICARD:  Excuse me. Doctor Crusher, some of this may interest you. Lets hear the analysis.</td></tr>
 
-  CRUSHER
-     May I speak about my son, Wesley?
+<tr id="L114"><td><a href="#L114">114</a></td><td>DATA:  It is a highly structured society in which people live by strict codes of honour. For example, what Lutan did is similar to what certain American Indians once did called counting coup. That's from an obscure language called French. Counting coup</td></tr>
 
-  PICARD
-     What? Oh, yes. Alright.
+<tr id="L115"><td><a href="#L115">115</a></td><td>PICARD:  Mister Data, the French language for centuries on Earth represented civilisation.</td></tr>
 
-  CRUSHER
-     He seems quite interested in starship operations.
-     And speaking as a mother, of course, he seems
-     quite knowledgeable.
+<tr id="L116"><td><a href="#L116">116</a></td><td>DATA:  Indeed? But surely, sir</td></tr>
 
-  PICARD
-     Well, yes, speaking as a mother.
+<tr id="L117"><td><a href="#L117">117</a></td><td>RIKER:  I suggest you drop it, Mister Data.</td></tr>
 
-  CRUSHER
-     He's on the turbolift. You'll remember you ordered
-     him to stay off of the Bridge.
+<tr id="L118"><td><a href="#L118">118</a></td><td>DATA:  Yes, sir. Counting coup could be as simple as touching an enemy with a stick in battle, or taking something from him and escaping. It was considered extremely heroic.</td></tr>
 
+<tr id="L119"><td><a href="#L119">119</a></td><td>RIKER:  And under these circumstances Lutan considers himself heroic, risking literally everything in the face of our superior power.</td></tr>
 
-LOCATION--Bridge
+<tr id="L120"><td><a href="#L120">120</a></td><td>TROI:  And it fits Lutan's personality profile as well. He has an abnormally high need for achievement. Self image to him is a function of what he thinks he's achieved. Those who set their standards too high can kill to meet them.</td></tr>
 
-  PICARD
-     Wesley?
+<tr id="L121"><td><a href="#L121">121</a></td><td>CRUSHER:  Why Tasha?</td></tr>
 
-  WESLEY
-     I haven't stepped one foot on your Bridge,
-     Captain.
+<tr id="L122"><td><a href="#L122">122</a></td><td>TROI:  As a Starfleet Security Officer, she may have represented his riskiest prize.</td></tr>
 
-  RIKER
-     It's all right, sir, I'll see that he leaves
-     immediately.
+<tr id="L123"><td><a href="#L123">123</a></td><td>DATA:  Transmission from the planet surface, sir, Main viewer on.</td></tr>
 
-  PICARD
-     No.
+<tr id="L124"><td><a href="#L124">124</a></td><td>PICARD:  Well, Lutan, what do you want?</td></tr>
 
-  RIKER
-     No?
+<tr id="L125"><td><a href="#L125">125</a></td><td>LUTAN [on viewscreen]:  You will display your image, please.</td></tr>
 
-  PICARD
-     Why don't you sit at Ops next to Lieutenant La
-     Forge.
+<tr id="L126"><td><a href="#L126">126</a></td><td>PICARD:  What is required is an image of Lieutenant Yar, well and</td></tr>
 
-  WESLEY
-     Sir?
+<tr id="L127"><td><a href="#L127">127</a></td><td>LUTAN [on viewscreen]:  Are you making demands, Captain?</td></tr>
 
-  LAFORGE
-     Sir?
+<tr id="L128"><td><a href="#L128">128</a></td><td>TROI:  Sir. According to the Ligon Code of Honour, Lutan has done what he set out to do, achieve recognition for being daring and bold.</td></tr>
 
-  PICARD
-     Is the whole ship deaf?! Sit down over there,
-     young man. Temporarily.
+<tr id="L129"><td><a href="#L129">129</a></td><td>RIKER:  We've studied this in some depth now, sir. The proper thing for you to do now is to ask to get Tasha back.</td></tr>
 
-  TROI
-     Captain, we have more information from the
-     briefing studies on Ligon.
+<tr id="L130"><td><a href="#L130">130</a></td><td>PICARD:  Ask for her?</td></tr>
 
-  PICARD
-     Excuse me. Doctor Crusher, some of this may
-     interest you. Lets hear the analysis.
+<tr id="L131"><td><a href="#L131">131</a></td><td>DATA:  Politely, Captain.</td></tr>
 
-  DATA
-     It is a highly structured society in which people
-     live by strict codes of honour. For example, what
-     Lutan did is similar to what certain American
-     Indians once did called counting coup. That's from
-     an obscure language called French. Counting coup
+<tr id="L132"><td><a href="#L132">132</a></td><td>PICARD:  And now, Lutan, you have boldly taken Lieutenant Yar from us, and we ask that you now please return her.</td></tr>
 
-  PICARD
-     Mister Data, the French language for centuries on
-     Earth represented civilisation.
+<tr id="L133"><td><a href="#L133">133</a></td><td>LUTAN [on viewscreen]:  Then come visit us, Captain, and we will return her to you.</td></tr>
 
-  DATA
-     Indeed? But surely, sir
+<tr id="L134"><td><a href="#L134">134</a></td><td>ANNOTATION: a little later</td></tr>
 
-  RIKER
-     I suggest you drop it, Mister Data.
+<tr id="L135"><td><a href="#L135">135</a></td><td>TROI:  Commander.</td></tr>
 
-  DATA
-     Yes, sir. Counting coup could be as simple as
-     touching an enemy with a stick in battle, or
-     taking something from him and escaping. It was
-     considered extremely heroic.
+<tr id="L136"><td><a href="#L136">136</a></td><td>RIKER:  Commander? That's quite formal.</td></tr>
 
-  RIKER
-     And under these circumstances Lutan considers
-     himself heroic, risking literally everything in
-     the face of our superior power.
+<tr id="L137"><td><a href="#L137">137</a></td><td>TROI:  So is this request, sir. We believe it would be preferable if the Captain led this away party.</td></tr>
 
-  TROI
-     And it fits Lutan's personality profile as well.
-     He has an abnormally high need for achievement.
-     Self image to him is a function of what he thinks
-     he's achieved. Those who set their standards too
-     high can kill to meet them.
+<tr id="L138"><td><a href="#L138">138</a></td><td>DATA:  Agreed, sir. Their customs concerning guests make it much preferable.</td></tr>
 
-  CRUSHER
-     Why Tasha?
+<tr id="L139"><td><a href="#L139">139</a></td><td>RIKER:  And I'm very much against that idea. Lutan is clearly a liar, and devious. Counsellor Troi has admitted she believes he's capable of killing. It is my duty to keep the Captain from danger, sir.</td></tr>
 
-  TROI
-     As a Starfleet Security Officer, she may have
-     represented his riskiest prize.
+<tr id="L140"><td><a href="#L140">140</a></td><td>DATA:  Except that Ligonian custom makes it clear that a visiting leader becomes an honoured guest. Not us, not second in command, him.</td></tr>
 
-  DATA
-     Transmission from the planet surface, sir, Main
-     viewer on.
+<tr id="L141"><td><a href="#L141">141</a></td><td>TROI:  And the custom requires that Lutan should die rather than violate that.</td></tr>
 
-  PICARD
-     Well, Lutan, what do you want?
+<tr id="L142"><td><a href="#L142">142</a></td><td>RIKER:  Yes, it seems reasonable put that way. But I warn you, if you get hurt, I'll put you on report, Captain.</td></tr>
 
-  LUTAN [on viewscreen]
-     You will display your image, please.
+<tr><td></td><td>LOCATION--Centreplace</td></tr>
+<tr id="L143"><td><a href="#L143">143</a></td><td>ANNOTATION: Picard and Troi beam into a colonnaded area with a water feature</td></tr>
 
-  PICARD
-     What is required is an image of Lieutenant Yar,
-     well and
+<tr id="L144"><td><a href="#L144">144</a></td><td>LUTAN:  Welcome to my Centreplace, Captain Picard. Consider yourselves my honoured guests.</td></tr>
 
-  LUTAN [on viewscreen]
-     Are you making demands, Captain?
+<tr id="L145"><td><a href="#L145">145</a></td><td>YAREENA:  Every hospitality will be accorded you.</td></tr>
 
-  TROI
-     Sir. According to the Ligon Code of Honour, Lutan
-     has done what he set out to do, achieve
-     recognition for being daring and bold.
+<tr id="L146"><td><a href="#L146">146</a></td><td>LUTAN:  This is my First One, Yareena.</td></tr>
 
-  RIKER
-     We've studied this in some depth now, sir. The
-     proper thing for you to do now is to ask to get
-     Tasha back.
+<tr id="L147"><td><a href="#L147">147</a></td><td>PICARD:  Lutan is a fortunate man. You've met Counsellor Troi.</td></tr>
 
-  PICARD
-     Ask for her?
+<tr id="L148"><td><a href="#L148">148</a></td><td>LUTAN:  Yes. As on your vessel, you have only to name whatever courtesy we can provide.</td></tr>
 
-  DATA
-     Politely, Captain.
+<tr id="L149"><td><a href="#L149">149</a></td><td>PICARD:  Then, sir, the courtesy of seeing Lieutenant Yar.</td></tr>
 
-  PICARD
-     And now, Lutan, you have boldly taken Lieutenant
-     Yar from us, and we ask that you now please return
-     her.
+<tr id="L150"><td><a href="#L150">150</a></td><td>LUTAN:  Lieutenant Yar will be returned to you tonight at a banquet I have arranged in your honour.</td></tr>
 
-  LUTAN [on viewscreen]
-     Then come visit us, Captain, and we will return
-     her to you.
+<tr id="L151"><td><a href="#L151">151</a></td><td>PICARD:  I'd like to see her now.</td></tr>
 
-  ANNOTATION
-     a little later
+<tr id="L152"><td><a href="#L152">152</a></td><td>LUTAN:  Bring Lieutenant Yar. I find it odd, Captain, that a man of your experience has such difficulty in understanding ordinary politeness.</td></tr>
 
-  TROI
-     Commander.
+<tr id="L153"><td><a href="#L153">153</a></td><td>PICARD:  Such as the politeness of saying please before abducting someone?</td></tr>
 
-  RIKER
-     Commander? That's quite formal.
+<tr id="L154"><td><a href="#L154">154</a></td><td>LUTAN:  The expression please is used only when requesting the person back.</td></tr>
 
-  TROI
-     So is this request, sir. We believe it would be
-     preferable if the Captain led this away party.
+<tr id="L155"><td><a href="#L155">155</a></td><td>PICARD:  Yours is a different world.</td></tr>
 
-  DATA
-     Agreed, sir. Their customs concerning guests make
-     it much preferable.
+<tr id="L156"><td><a href="#L156">156</a></td><td>LUTAN:  With clear and simple ways deeply rooted in our culture. If you are willing to ask for Lieutenant Yar's return tonight in front of all, honour will be satisfied.</td></tr>
 
-  RIKER
-     And I'm very much against that idea. Lutan is
-     clearly a liar, and devious. Counsellor Troi has
-     admitted she believes he's capable of killing. It
-     is my duty to keep the Captain from danger, sir.
+<tr id="L157"><td><a href="#L157">157</a></td><td>TROI:  One can see the importance of honour here.</td></tr>
 
-  DATA
-     Except that Ligonian custom makes it clear that a
-     visiting leader becomes an honoured guest. Not us,
-     not second in command, him.
+<tr id="L158"><td><a href="#L158">158</a></td><td>LUTAN:  Honour is everything.</td></tr>
 
-  TROI
-     And the custom requires that Lutan should die
-     rather than violate that.
+<tr id="L159"><td><a href="#L159">159</a></td><td>ANNOTATION: Tasha is brought in by two guards. She is not happy</td></tr>
 
-  RIKER
-     Yes, it seems reasonable put that way. But I warn
-     you, if you get hurt, I'll put you on report,
-     Captain.
+<tr id="L160"><td><a href="#L160">160</a></td><td>PICARD:  Have you been treated well, Lieutenant?</td></tr>
 
+<tr id="L161"><td><a href="#L161">161</a></td><td>TASHA:  Fine, Captain but they're showing some signs of wear.</td></tr>
 
-LOCATION--Centreplace
+<tr id="L162"><td><a href="#L162">162</a></td><td>YAREENA:  There isn't any need to be concerned, Captain. She's being well cared for.</td></tr>
 
-  ANNOTATION
-     Picard and Troi beam into a colonnaded area with a
-     water feature
+<tr id="L163"><td><a href="#L163">163</a></td><td>PICARD:  My ship's company and I are certain of your gentle wisdom in that.</td></tr>
 
-  LUTAN
-     Welcome to my Centreplace, Captain Picard.
-     Consider yourselves my honoured guests.
+<tr id="L164"><td><a href="#L164">164</a></td><td>LUTAN:  For a moment I thought I heard a threat implied. But that would be foolishness.</td></tr>
 
-  YAREENA
-     Every hospitality will be accorded you.
+<tr id="L165"><td><a href="#L165">165</a></td><td>PICARD:  Something to be carefully avoided. I agree.</td></tr>
 
-  LUTAN
-     This is my First One, Yareena.
+<tr id="L166"><td><a href="#L166">166</a></td><td>LUTAN:  The festivities for her return to you are in preparation. Shall we retire till then?</td></tr>
 
-  PICARD
-     Lutan is a fortunate man. You've met Counsellor
-     Troi.
+<tr id="L167"><td><a href="#L167">167</a></td><td>PICARD:  Until tonight, Lutan.</td></tr>
 
-  LUTAN
-     Yes. As on your vessel, you have only to name
-     whatever courtesy we can provide.
+<tr id="L168"><td><a href="#L168">168</a></td><td>ANNOTATION: A juggler is entertaining them when Tasha enters with her guard. She is seated at Lutan's left, with Yareena at his right</td></tr>
 
-  PICARD
-     Then, sir, the courtesy of seeing Lieutenant Yar.
+<tr id="L169"><td><a href="#L169">169</a></td><td>PICARD:  Lutan, you have granted us hospitality and the safety of your Centreplace]. The gifts you give us are rare and precious. We thank you. And now, according with the customs of your ancestors, whom we honour and respect, I am here in peace to ask for the return of Lieutenant Yar.</td></tr>
 
-  LUTAN
-     Lieutenant Yar will be returned to you tonight at
-     a banquet I have arranged in your honour.
+<tr id="L170"><td><a href="#L170">170</a></td><td>LUTAN:  Well spoken. There are those among my equals in this gathering who were wary of my approaching the Federation. I am proud to have taken this first step towards a treaty, and proud that we have something of great value to offer you, a priceless life-giving vaccine. The abduction I have done according to our custom, for all to see. Your conduct in this matter has been beyond exemplary, Captain Picard, but now that the moment has come, I find I cannot part with her.</td></tr>
 
-  PICARD
-     I'd like to see her now.
+<tr id="L171"><td><a href="#L171">171</a></td><td>ANNOTATION: General consternation!</td></tr>
 
-  LUTAN
-     Bring Lieutenant Yar. I find it odd, Captain, that
-     a man of your experience has such difficulty in
-     understanding ordinary politeness.
+<tr id="L172"><td><a href="#L172">172</a></td><td>PICARD:  You speak of a code of honour, but what you are saying now, according to our customs, is called an act of war.</td></tr>
 
-  PICARD
-     Such as the politeness of saying please before
-     abducting someone?
+<tr id="L173"><td><a href="#L173">173</a></td><td>LUTAN:  This is not an act of war, but of love. I want Lieutenant Yar to become my First One.</td></tr>
 
-  LUTAN
-     The expression please is used only when requesting
-     the person back.
+<tr id="L174"><td><a href="#L174">174</a></td><td>YAREENA:  I challenge your right of supercedence!</td></tr>
 
-  PICARD
-     Yours is a different world.
+<tr id="L175"><td><a href="#L175">175</a></td><td>HAGON:  No woman has challenged supercedence for over two hundred years!</td></tr>
 
-  LUTAN
-     With clear and simple ways deeply rooted in our
-     culture. If you are willing to ask for Lieutenant
-     Yar's return tonight in front of all, honour will
-     be satisfied.
+<tr id="L176"><td><a href="#L176">176</a></td><td>YAREENA:  The right is mine and I will have it! Natasha Yar, I challenge you. A struggle to the death.</td></tr>
 
-  TROI
-     One can see the importance of honour here.
+<tr id="L177"><td><a href="#L177">177</a></td><td>PICARD:  No! The challenge is unequivocally refused!</td></tr>
 
-  LUTAN
-     Honour is everything.
+<tr id="L178"><td><a href="#L178">178</a></td><td>LUTAN:  Then you shall have no treaty, no vaccine, and no Lieutenant Yar!</td></tr>
 
-  ANNOTATION
-     Tasha is brought in by two guards. She is not
-     happy
+<tr id="L179"><td><a href="#L179">179</a></td><td>SOMEONE: Ship's log, First Officer Riker reporting. We have been informed of the challenge to Lieutenant Yar, and are maintaining combat readiness round the clock. We are probing Lutan's compound deeply with our sensors now, still unnoticed.</td></tr>
 
-  PICARD
-     Have you been treated well, Lieutenant?
+<tr><td></td><td>LOCATION--Tasha's room</td></tr>
+<tr id="L180"><td><a href="#L180">180</a></td><td>TASHA:  Captain. Deanna.</td></tr>
 
-  TASHA
-     Fine, Captain but they're showing some signs of
-     wear.
+<tr id="L181"><td><a href="#L181">181</a></td><td>PICARD:  Did you have any idea, Lieutenant, that Lutan was suddenly going to announce that he wanted you for his First One?</td></tr>
 
-  YAREENA
-     There isn't any need to be concerned, Captain.
-     She's being well cared for.
+<tr id="L182"><td><a href="#L182">182</a></td><td>TASHA:  No, sir.</td></tr>
 
-  PICARD
-     My ship's company and I are certain of your gentle
-     wisdom in that.
+<tr id="L183"><td><a href="#L183">183</a></td><td>PICARD:  Tell me what you know about this?</td></tr>
 
-  LUTAN
-     For a moment I thought I heard a threat implied.
-     But that would be foolishness.
+<tr id="L184"><td><a href="#L184">184</a></td><td>TASHA:  Nothing, sir.</td></tr>
 
-  PICARD
-     Something to be carefully avoided. I agree.
+<tr id="L185"><td><a href="#L185">185</a></td><td>TROI:  But it was a thrill. Lutan is such, such a basic male image and having him say he wants you</td></tr>
 
-  LUTAN
-     The festivities for her return to you are in
-     preparation. Shall we retire till then?
+<tr id="L186"><td><a href="#L186">186</a></td><td>TASHA:  Yes, of course it made me feel good when he. Troi, I'm your friend and you tricked me.</td></tr>
 
-  PICARD
-     Until tonight, Lutan.
+<tr id="L187"><td><a href="#L187">187</a></td><td>TROI:  Only so you'd think about it, completely and clearly.</td></tr>
 
-  ANNOTATION
-     A juggler is entertaining them when Tasha enters
-     with her guard. She is seated at Lutan's left,
-     with Yareena at his right
+<tr id="L188"><td><a href="#L188">188</a></td><td>PICARD:  We're all being manipulated, Lieutenant, myself most of all.</td></tr>
 
-  PICARD
-     Lutan, you have granted us hospitality and the
-     safety of your Centreplace]. The gifts you give us
-     are rare and precious. We thank you. And now,
-     according with the customs of your ancestors, whom
-     we honour and respect, I am here in peace to ask
-     for the return of Lieutenant Yar.
+<tr id="L189"><td><a href="#L189">189</a></td><td>TROI:  How simple all this would be without the Prime Directive.</td></tr>
 
-  LUTAN
-     Well spoken. There are those among my equals in
-     this gathering who were wary of my approaching the
-     Federation. I am proud to have taken this first
-     step towards a treaty, and proud that we have
-     something of great value to offer you, a priceless
-     life-giving vaccine. The abduction I have done
-     according to our custom, for all to see. Your
-     conduct in this matter has been beyond exemplary,
-     Captain Picard, but now that the moment has come,
-     I find I cannot part with her.
+<tr id="L190"><td><a href="#L190">190</a></td><td>PICARD:  That thought had passed through my mind, Counsellor.</td></tr>
 
-  ANNOTATION
-     General consternation!
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L191"><td><a href="#L191">191</a></td><td>RIKER:  What is this message from Starbase Fourteen?</td></tr>
 
-  PICARD
-     You speak of a code of honour, but what you are
-     saying now, according to our customs, is called an
-     act of war.
+<tr id="L192"><td><a href="#L192">192</a></td><td>CRUSHER:  It's showing the infection rates, percentage illness increases. The plague on Styris Four has flared up out of control.</td></tr>
 
-  LUTAN
-     This is not an act of war, but of love. I want
-     Lieutenant Yar to become my First One.
+<tr id="L193"><td><a href="#L193">193</a></td><td>LAFORGE:  They're estimating deaths in the millions, sir.</td></tr>
 
-  YAREENA
-     I challenge your right of supercedence!
+<tr id="L194"><td><a href="#L194">194</a></td><td>RIKER:  Captain Picard, come in.</td></tr>
 
-  HAGON
-     No woman has challenged supercedence for over two
-     hundred years!
+<tr><td></td><td>LOCATION--Tasha's room</td></tr>
+<tr id="L195"><td><a href="#L195">195</a></td><td>TASHA:  I know I can win. Not that I'd take her life, of course, but I'd be glad to embarrass her. The idea of accusing me of taking</td></tr>
 
-  YAREENA
-     The right is mine and I will have it! Natasha Yar,
-     I challenge you. A struggle to the death.
+<tr id="L196"><td><a href="#L196">196</a></td><td>ANNOTATION: Picard enters</td></tr>
 
-  PICARD
-     No! The challenge is unequivocally refused!
+<tr id="L197"><td><a href="#L197">197</a></td><td>TROI:  The plague?</td></tr>
 
-  LUTAN
-     Then you shall have no treaty, no vaccine, and no
-     Lieutenant Yar!
+<tr id="L198"><td><a href="#L198">198</a></td><td>PICARD:  If anything, even worse than we'd heard.</td></tr>
 
-  SOMEONE
-     Ship's log, First Officer Riker reporting. We have
-     been informed of the challenge to Lieutenant Yar,
-     and are maintaining combat readiness round the
-     clock. We are probing Lutan's compound deeply with
-     our sensors now, still unnoticed.
+<tr id="L199"><td><a href="#L199">199</a></td><td>TASHA:  Which means they desperately need the vaccine, sir. And I know I can win this challenge.</td></tr>
 
+<tr id="L200"><td><a href="#L200">200</a></td><td>PICARD:  You have nothing to prove anything here, Lieutenant.</td></tr>
 
-LOCATION--Tasha's room
+<tr id="L201"><td><a href="#L201">201</a></td><td>TROI:  But the vaccine is important in this case, sir.</td></tr>
 
-  TASHA
-     Captain. Deanna.
+<tr id="L202"><td><a href="#L202">202</a></td><td>PICARD:  Counsellor, you're the last person I'd expect to argue in favour of accepting the challenge.</td></tr>
 
-  PICARD
-     Did you have any idea, Lieutenant, that Lutan was
-     suddenly going to announce that he wanted you for
-     his First One?
+<tr id="L203"><td><a href="#L203">203</a></td><td>TROI:  Betazoid blood is also practical, Captain. The odds are very good she'd defeat Lutan's wife easily and you would win all the bargaining points you need.</td></tr>
 
-  TASHA
-     No, sir.
+<tr id="L204"><td><a href="#L204">204</a></td><td>PICARD:  The odds are.</td></tr>
 
-  PICARD
-     Tell me what you know about this?
+<tr id="L205"><td><a href="#L205">205</a></td><td>TROI:  You have pointed out yourself we are all at risk every day of every mission.</td></tr>
 
-  TASHA
-     Nothing, sir.
+<tr id="L206"><td><a href="#L206">206</a></td><td>PICARD:  I want some explanations from Lutan.</td></tr>
 
-  TROI
-     But it was a thrill. Lutan is such, such a basic
-     male image and having him say he wants you
+<tr><td></td><td>LOCATION--Centreplace</td></tr>
+<tr id="L207"><td><a href="#L207">207</a></td><td>HAGON:  Lutan, why are you so obsessed with this Lieutenant Yar? Surely Yareena is more desirable? Certainly she can offer you much more. She owns many things, many lands.</td></tr>
 
-  TASHA
-     Yes, of course it made me feel good when he. Troi,
-     I'm your friend and you tricked me.
+<tr id="L208"><td><a href="#L208">208</a></td><td>ANNOTATION: Picard enters, and Lutan stops Hagan talking</td></tr>
 
-  TROI
-     Only so you'd think about it, completely and
-     clearly.
+<tr id="L209"><td><a href="#L209">209</a></td><td>PICARD:  It's a great pity you began by abducting my Security Officer, Lutan, because I should tell you I do admire the hospitality you offer here.</td></tr>
 
-  PICARD
-     We're all being manipulated, Lieutenant, myself
-     most of all.
+<tr id="L210"><td><a href="#L210">210</a></td><td>LUTAN:  I am in the grip of forces you do not understand.</td></tr>
 
-  TROI
-     How simple all this would be without the Prime
-     Directive.
+<tr id="L211"><td><a href="#L211">211</a></td><td>PICARD:  Some of it I do understand. She is a rather lovely female.</td></tr>
 
-  PICARD
-     That thought had passed through my mind,
-     Counsellor.
+<tr id="L212"><td><a href="#L212">212</a></td><td>LUTAN:  You surprise me, Captain. What do you know of needs and feelings?</td></tr>
 
+<tr id="L213"><td><a href="#L213">213</a></td><td>PICARD:  Nothing. Well, almost nothing in my position of ship's Captain.</td></tr>
 
-LOCATION--Bridge
+<tr id="L214"><td><a href="#L214">214</a></td><td>HAGON:  I see.</td></tr>
 
-  RIKER
-     What is this message from Starbase Fourteen?
+<tr id="L215"><td><a href="#L215">215</a></td><td>PICARD:  But it puzzles me. If you feel that way for Tasha, why have you challenged her to a fight to the death?</td></tr>
 
-  CRUSHER
-     It's showing the infection rates, percentage
-     illness increases. The plague on Styris Four has
-     flared up out of control.
+<tr id="L216"><td><a href="#L216">216</a></td><td>LUTAN:  Not I, Yareena. I am merely a spectator.</td></tr>
 
-  LAFORGE
-     They're estimating deaths in the millions, sir.
+<tr id="L217"><td><a href="#L217">217</a></td><td>PICARD:  Ah, but you are also a man of great importance and wealth.</td></tr>
 
-  RIKER
-     Captain Picard, come in.
+<tr id="L218"><td><a href="#L218">218</a></td><td>HAGON:  Great importance, perhaps, but he does (silenced by Lutan)</td></tr>
 
+<tr id="L219"><td><a href="#L219">219</a></td><td>PICARD:  Ah, I see. You, too, understand the proper value of women.</td></tr>
 
-LOCATION--Tasha's room
+<tr id="L220"><td><a href="#L220">220</a></td><td>LUTAN:  We understand they are highly pleasant things, but after all, unimportant. Except for the land they own.</td></tr>
 
-  TASHA
-     I know I can win. Not that I'd take her life, of
-     course, but I'd be glad to embarrass her. The idea
-     of accusing me of taking
+<tr id="L221"><td><a href="#L221">221</a></td><td>PICARD:  You are a truly clever person, Lutan. You stand to lose nothing, either way the challenge goes.</td></tr>
 
-  ANNOTATION
-     Picard enters
+<tr id="L222"><td><a href="#L222">222</a></td><td>LUTAN:  A code of honour protects one, Captain, like a magic cloak.</td></tr>
 
-  TROI
-     The plague?
+<tr id="L223"><td><a href="#L223">223</a></td><td>PICARD:  I will order Lieutenant Yar to fight. And may your cloak bring you all you deserve.</td></tr>
 
-  PICARD
-     If anything, even worse than we'd heard.
+<tr><td></td><td>LOCATION--Geordi's Quarters</td></tr>
+<tr id="L224"><td><a href="#L224">224</a></td><td>ANNOTATION: Geordi has his Visor off, and is using an electric shaver</td></tr>
 
-  TASHA
-     Which means they desperately need the vaccine,
-     sir. And I know I can win this challenge.
+<tr id="L225"><td><a href="#L225">225</a></td><td>LAFORGE:  Come in.</td></tr>
 
-  PICARD
-     You have nothing to prove anything here,
-     Lieutenant.
+<tr id="L226"><td><a href="#L226">226</a></td><td>DATA:  Why that razor, my friend? Why not the one I adjusted to perfect efficiency?</td></tr>
 
-  TROI
-     But the vaccine is important in this case, sir.
+<tr id="L227"><td><a href="#L227">227</a></td><td>LAFORGE:  Shaving is a human art form, Data. Technological perfection can shave too close.</td></tr>
 
-  PICARD
-     Counsellor, you're the last person I'd expect to
-     argue in favour of accepting the challenge.
+<tr id="L228"><td><a href="#L228">228</a></td><td>DATA:  Puzzling. How can anything be too efficient?</td></tr>
 
-  TROI
-     Betazoid blood is also practical, Captain. The
-     odds are very good she'd defeat Lutan's wife
-     easily and you would win all the bargaining points
-     you need.
+<tr id="L229"><td><a href="#L229">229</a></td><td>LAFORGE:  Thousands of things are too efficient, Data, at least for humans.</td></tr>
 
-  PICARD
-     The odds are.
+<tr id="L230"><td><a href="#L230">230</a></td><td>DATA:  We always come back to the human equation.</td></tr>
 
-  TROI
-     You have pointed out yourself we are all at risk
-     every day of every mission.
+<tr id="L231"><td><a href="#L231">231</a></td><td>LAFORGE:  Exactly. Have you continued to work on it?</td></tr>
 
-  PICARD
-     I want some explanations from Lutan.
+<tr id="L232"><td><a href="#L232">232</a></td><td>DATA:  Constantly, my friend. Particularly the humour. A man goes to a store to buy some kidneys.</td></tr>
 
+<tr id="L233"><td><a href="#L233">233</a></td><td>LAFORGE:  Oh, no. (Geordi tries to escape)</td></tr>
 
-LOCATION--Centreplace
+<tr id="L234"><td><a href="#L234">234</a></td><td>DATA:  He says to the shopkeeper, I'd like a pound of kiddillies, please. The shopkeeper says to him, You mean kidneys, don't you? The man says, I said kiddillies, diddle I?</td></tr>
 
-  HAGON
-     Lutan, why are you so obsessed with this
-     Lieutenant Yar? Surely Yareena is more desirable?
-     Certainly she can offer you much more. She owns
-     many things, many lands.
+<tr id="L235"><td><a href="#L235">235</a></td><td>LAFORGE:  It's too old. And you didn't tell it very well.</td></tr>
 
-  ANNOTATION
-     Picard enters, and Lutan stops Hagan talking
+<tr id="L236"><td><a href="#L236">236</a></td><td>DATA:  How do you know when something is funny?</td></tr>
 
-  PICARD
-     It's a great pity you began by abducting my
-     Security Officer, Lutan, because I should tell you
-     I do admire the hospitality you offer here.
+<tr id="L237"><td><a href="#L237">237</a></td><td>LAFORGE:  It's not explainable. You just do.</td></tr>
 
-  LUTAN
-     I am in the grip of forces you do not understand.
+<tr id="L238"><td><a href="#L238">238</a></td><td>DATA:  Perhaps it is you, Geordi. Includling the kiddillies, I've learned six hundred sixty two jokes, and you have not</td></tr>
 
-  PICARD
-     Some of it I do understand. She is a rather lovely
-     female.
+<tr id="L239"><td><a href="#L239">239</a></td><td>LAFORGE:  Includling the kiddillies! Now, see, that's funny.</td></tr>
 
-  LUTAN
-     You surprise me, Captain. What do you know of
-     needs and feelings?
+<tr id="L240"><td><a href="#L240">240</a></td><td>DATA:  It was not meant as a joke. The tongue slipped.</td></tr>
 
-  PICARD
-     Nothing. Well, almost nothing in my position of
-     ship's Captain.
+<tr id="L241"><td><a href="#L241">241</a></td><td>LAFORGE:  Oh, boy.</td></tr>
 
-  HAGON
-     I see.
+<tr id="L242"><td><a href="#L242">242</a></td><td>RIKER [OC]:  Riker to Commander Data, Lieutenant La Forge. Report to the Transporter Room for away party duty.</td></tr>
 
-  PICARD
-     But it puzzles me. If you feel that way for Tasha,
-     why have you challenged her to a fight to the
-     death?
+<tr><td></td><td>LOCATION--Centreplace</td></tr>
+<tr id="L243"><td><a href="#L243">243</a></td><td>RIKER [OC]:  First officer to Captain. Ready with the away personnel.</td></tr>
 
-  LUTAN
-     Not I, Yareena. I am merely a spectator.
+<tr id="L244"><td><a href="#L244">244</a></td><td>PICARD:  Lock in on this location.</td></tr>
 
-  PICARD
-     Ah, but you are also a man of great importance and
-     wealth.
+<tr id="L245"><td><a href="#L245">245</a></td><td>CHIEF [OC]:  Transporter locked in, sir.</td></tr>
 
-  HAGON
-     Great importance, perhaps, but he does (silenced
-     by Lutan)
+<tr id="L246"><td><a href="#L246">246</a></td><td>PICARD:  Energise.</td></tr>
 
-  PICARD
-     Ah, I see. You, too, understand the proper value
-     of women.
+<tr id="L247"><td><a href="#L247">247</a></td><td>ANNOTATION: Geordi and Data arrive, behind the water feature, in front of a wall decorated with weapons</td></tr>
 
-  LUTAN
-     We understand they are highly pleasant things, but
-     after all, unimportant. Except for the land they
-     own.
+<tr id="L248"><td><a href="#L248">248</a></td><td>PICARD:  You've both seen the message about the plague?</td></tr>
 
-  PICARD
-     You are a truly clever person, Lutan. You stand to
-     lose nothing, either way the challenge goes.
+<tr id="L249"><td><a href="#L249">249</a></td><td>LAFORGE:  And how badly the vaccine is needed. Yes, sir.</td></tr>
 
-  LUTAN
-     A code of honour protects one, Captain, like a
-     magic cloak.
+<tr id="L250"><td><a href="#L250">250</a></td><td>PICARD:  We need to know as much as possible about Ligonian armaments. Data, especially important is an analysis of their combat capabilities. Geordi, concentrate on their cutting edges, wherever applicable, durability, composition, weaknesses of material.</td></tr>
 
-  PICARD
-     I will order Lieutenant Yar to fight. And may your
-     cloak bring you all you deserve.
+<tr id="L251"><td><a href="#L251">251</a></td><td>LAFORGE:  Aye, sir.</td></tr>
 
+<tr id="L252"><td><a href="#L252">252</a></td><td>DATA:  From any particular point of view, sir?</td></tr>
 
-LOCATION--Geordi's Quarters
+<tr id="L253"><td><a href="#L253">253</a></td><td>PICARD:  From the perspective of Lieutenant Yar using them in combat with Lutan's wife.</td></tr>
 
-  ANNOTATION
-     Geordi has his Visor off, and is using an electric
-     shaver
+<tr id="L254"><td><a href="#L254">254</a></td><td>DATA:  Most interesting. Could this be human joke number six hundred sixty three?</td></tr>
 
-  LAFORGE
-     Come in.
+<tr id="L255"><td><a href="#L255">255</a></td><td>LAFORGE:  Negative, Data. That's a Captain's order.</td></tr>
 
-  DATA
-     Why that razor, my friend? Why not the one I
-     adjusted to perfect efficiency?
+<tr id="L256"><td><a href="#L256">256</a></td><td>DATA:  Which makes it important to know which of these weapons are to be used.</td></tr>
 
-  LAFORGE
-     Shaving is a human art form, Data. Technological
-     perfection can shave too close.
+<tr id="L257"><td><a href="#L257">257</a></td><td>PICARD:  And that won't be known until combat begins. You're right, Data. It does sound like a joke. With the power of the Enterprise, we could overwhelm this place easily, just take what we want.</td></tr>
 
-  DATA
-     Puzzling. How can anything be too efficient?
+<tr id="L258"><td><a href="#L258">258</a></td><td>DATA:  I may not understand human humour, sir, but I am a Starfleet Academy graduate.</td></tr>
 
-  LAFORGE
-     Thousands of things are too efficient, Data, at
-     least for humans.
+<tr id="L259"><td><a href="#L259">259</a></td><td>PICARD:  Which means, of course</td></tr>
 
-  DATA
-     We always come back to the human equation.
+<tr id="L260"><td><a href="#L260">260</a></td><td>DATA:  understanding the Prime Directive, sir.</td></tr>
 
-  LAFORGE
-     Exactly. Have you continued to work on it?
+<tr id="L261"><td><a href="#L261">261</a></td><td>PICARD:  That is, ironically, what this is about. By our standards, the customs here, their code of honour, is the same kind of pompous, strutting charades that endangered our own species a few centuries ago. We evolved out of it because no one else imposed their own. I'm sorry, this is becoming a speech.</td></tr>
 
-  DATA
-     Constantly, my friend. Particularly the humour. A
-     man goes to a store to buy some kidneys.
+<tr id="L262"><td><a href="#L262">262</a></td><td>TROI:  You're the Captain, sir. You're entitled.</td></tr>
 
-  LAFORGE
-     Oh, no. (Geordi tries to escape)
+<tr id="L263"><td><a href="#L263">263</a></td><td>PICARD:  Not entitled to ramble on about something everyone knows. Carry on.</td></tr>
 
-  DATA
-     He says to the shopkeeper, I'd like a pound of
-     kiddillies, please. The shopkeeper says to him,
-     You mean kidneys, don't you? The man says, I said
-     kiddillies, diddle I?
+<tr id="L264"><td><a href="#L264">264</a></td><td>SOMEONE: Ship's log, Commander William Riker reporting. Continuing our appraisal of Ligonian technology. The Captain has made it clear he wants Lieutenant Yar beamed immediately to safety if her life should become endangered, and I fervently hope the rules of that contest make it possible.</td></tr>
 
-  LAFORGE
-     It's too old. And you didn't tell it very well.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L265"><td><a href="#L265">265</a></td><td>RIKER:  Riker to Transporter Chief. Do we have our people on sensors yet?</td></tr>
 
-  DATA
-     How do you know when something is funny?
+<tr id="L266"><td><a href="#L266">266</a></td><td>CHIEF [OC]:  Their general area, sir. Visual on screen now. As you see, we're still doing some fine tuning.</td></tr>
 
-  LAFORGE
-     It's not explainable. You just do.
+<tr><td></td><td>LOCATION--Tasha's room</td></tr>
+<tr id="L267"><td><a href="#L267">267</a></td><td>YAREENA:  I've agreed to this meeting, but I see no point to it. You've accepted the challenge and there is nothing further to say.</td></tr>
 
-  DATA
-     Perhaps it is you, Geordi. Includling the
-     kiddillies, I've learned six hundred sixty two
-     jokes, and you have not
+<tr id="L268"><td><a href="#L268">268</a></td><td>TASHA:  I think you should know that there is no physical training anywhere that matches Starfleet, especially its security people.</td></tr>
 
-  LAFORGE
-     Includling the kiddillies! Now, see, that's funny.
+<tr id="L269"><td><a href="#L269">269</a></td><td>YAREENA:  And you should know that even though these contests are rare, we have a tradition of making ourselves capable of them.</td></tr>
 
-  DATA
-     It was not meant as a joke. The tongue slipped.
+<tr id="L270"><td><a href="#L270">270</a></td><td>TASHA:  Yareena, my acceptance had nothing to do with Lutan.</td></tr>
 
-  LAFORGE
-     Oh, boy.
+<tr id="L271"><td><a href="#L271">271</a></td><td>YAREENA:  It has everything to do with Lutan. Lutan wants you to be his First One.</td></tr>
 
-  RIKER [OC]
-     Riker to Commander Data, Lieutenant La Forge.
-     Report to the Transporter Room for away party
-     duty.
+<tr id="L272"><td><a href="#L272">272</a></td><td>TASHA:  Impossible, Yareena. I am a career Starfleet officer.</td></tr>
 
+<tr id="L273"><td><a href="#L273">273</a></td><td>YAREENA:  How could you not love him? Every woman loves him.</td></tr>
 
-LOCATION--Centreplace
+<tr id="L274"><td><a href="#L274">274</a></td><td>TASHA:  I fight for the vaccine, That's the truth.</td></tr>
 
-  RIKER [OC]
-     First officer to Captain. Ready with the away
-     personnel.
+<tr id="L275"><td><a href="#L275">275</a></td><td>YAREENA:  The truth is I will kill you if I can. And believe me, I can. There is nothing else to say.</td></tr>
 
-  PICARD
-     Lock in on this location.
+<tr id="L276"><td><a href="#L276">276</a></td><td>TASHA:  In my world, it's a greater honour to refuse</td></tr>
 
-  CHIEF [OC]
-     Transporter locked in, sir.
+<tr id="L277"><td><a href="#L277">277</a></td><td>YAREENA:  You are on our world!</td></tr>
 
-  PICARD
-     Energise.
+<tr><td></td><td>LOCATION--Picard's room</td></tr>
+<tr id="L278"><td><a href="#L278">278</a></td><td>TROI:  Captain, I'm your Counsellor. You brought me with you to Ligon to be of help.</td></tr>
 
-  ANNOTATION
-     Geordi and Data arrive, behind the water feature,
-     in front of a wall decorated with weapons
+<tr id="L279"><td><a href="#L279">279</a></td><td>PICARD:  Then help me, please. What is a way out of this?</td></tr>
 
-  PICARD
-     You've both seen the message about the plague?
+<tr id="L280"><td><a href="#L280">280</a></td><td>TROI:  With the vaccine? None.</td></tr>
 
-  LAFORGE
-     And how badly the vaccine is needed. Yes, sir.
+<tr id="L281"><td><a href="#L281">281</a></td><td>ANNOTATION: Geordi and Data enter</td></tr>
 
-  PICARD
-     We need to know as much as possible about Ligonian
-     armaments. Data, especially important is an
-     analysis of their combat capabilities. Geordi,
-     concentrate on their cutting edges, wherever
-     applicable, durability, composition, weaknesses of
-     material.
+<tr id="L282"><td><a href="#L282">282</a></td><td>LAFORGE:  The weapons in that room, Captain, are surprisingly flexible, durable, and deadly.</td></tr>
 
-  LAFORGE
-     Aye, sir.
+<tr id="L283"><td><a href="#L283">283</a></td><td>DATA:  And light, as if they were made for women to use.</td></tr>
 
-  DATA
-     From any particular point of view, sir?
+<tr id="L284"><td><a href="#L284">284</a></td><td>LAFORGE:  Some of them still have traces of blood and poison.</td></tr>
 
-  PICARD
-     From the perspective of Lieutenant Yar using them
-     in combat with Lutan's wife.
+<tr id="L285"><td><a href="#L285">285</a></td><td>PICARD:  Poison?</td></tr>
 
-  DATA
-     Most interesting. Could this be human joke number
-     six hundred sixty three?
+<tr id="L286"><td><a href="#L286">286</a></td><td>LAFORGE:  Alkaloid base. Lethal.</td></tr>
 
-  LAFORGE
-     Negative, Data. That's a Captain's order.
+<tr id="L287"><td><a href="#L287">287</a></td><td>PICARD:  What about those lengths of metal in the yard outside?</td></tr>
 
-  DATA
-     Which makes it important to know which of these
-     weapons are to be used.
+<tr id="L288"><td><a href="#L288">288</a></td><td>DATA:  Uncertain, sir. However, joined together they would make a rectangle or square enclosing one hundred twenty one square metres. If put end to end vertically, they would make a pole forty four metres high, or two of twenty two.</td></tr>
 
-  PICARD
-     And that won't be known until combat begins.
-     You're right, Data. It does sound like a joke.
-     With the power of the Enterprise, we could
-     overwhelm this place easily, just take what we
-     want.
+<tr id="L289"><td><a href="#L289">289</a></td><td>PICARD:  Thank you, Data.</td></tr>
 
-  DATA
-     I may not understand human humour, sir, but I am a
-     Starfleet Academy graduate.
+<tr id="L290"><td><a href="#L290">290</a></td><td>DATA:  You're welcome, sir.</td></tr>
 
-  PICARD
-     Which means, of course
+<tr id="L291"><td><a href="#L291">291</a></td><td>ANNOTATION: Tasha enters</td></tr>
 
-  DATA
-     understanding the Prime Directive, sir.
+<tr id="L292"><td><a href="#L292">292</a></td><td>TASHA:  She won't budge. She loves him, without reservation. And she thinks I love him too.</td></tr>
 
-  PICARD
-     That is, ironically, what this is about. By our
-     standards, the customs here, their code of honour,
-     is the same kind of pompous, strutting charades
-     that endangered our own species a few centuries
-     ago. We evolved out of it because no one else
-     imposed their own. I'm sorry, this is becoming a
-     speech.
+<tr id="L293"><td><a href="#L293">293</a></td><td>DATA:  Most interesting. Do you?</td></tr>
 
-  TROI
-     You're the Captain, sir. You're entitled.
+<tr id="L294"><td><a href="#L294">294</a></td><td>TASHA:  Of course I don't, Data. As Troi pointed out to me, I'm attracted to him but that is entirely different.</td></tr>
 
-  PICARD
-     Not entitled to ramble on about something everyone
-     knows. Carry on.
+<tr id="L295"><td><a href="#L295">295</a></td><td>RIKER [OC]:  Riker to Captain.</td></tr>
 
-  SOMEONE
-     Ship's log, Commander William Riker reporting.
-     Continuing our appraisal of Ligonian technology.
-     The Captain has made it clear he wants Lieutenant
-     Yar beamed immediately to safety if her life
-     should become endangered, and I fervently hope the
-     rules of that contest make it possible.
+<tr id="L296"><td><a href="#L296">296</a></td><td>PICARD:  Go ahead, Riker. We're alone.</td></tr>
 
+<tr id="L297"><td><a href="#L297">297</a></td><td>RIKER [OC]:  We're fine tuned enough to see your hosts gathering in the open area outside, sir. Three of them are heading for your location.</td></tr>
 
-LOCATION--Bridge
+<tr id="L298"><td><a href="#L298">298</a></td><td>PICARD:  Thank you, Number One. Lieutenant, do you still feel that you want to go through with this challenge? Do you judge your condition good?</td></tr>
 
-  RIKER
-     Riker to Transporter Chief. Do we have our people
-     on sensors yet?
+<tr id="L299"><td><a href="#L299">299</a></td><td>TASHA:  I judge it excellent, sir.</td></tr>
 
-  CHIEF [OC]
-     Their general area, sir. Visual on screen now. As
-     you see, we're still doing some fine tuning.
+<tr id="L300"><td><a href="#L300">300</a></td><td>ANNOTATION: Hagon enters, followed by two guards carrying boxes</td></tr>
 
+<tr id="L301"><td><a href="#L301">301</a></td><td>HAGON:  Your weapons, Lieutenant Yar. You may choose your size.</td></tr>
 
-LOCATION--Tasha's room
+<tr id="L302"><td><a href="#L302">302</a></td><td>ANNOTATION: She opens a box containing a glove with metal spikes and a curved blade</td></tr>
 
-  YAREENA
-     I've agreed to this meeting, but I see no point to
-     it. You've accepted the challenge and there is
-     nothing further to say.
+<tr id="L303"><td><a href="#L303">303</a></td><td>LAFORGE:  Tasha, don't touch the spines. They're poisoned. If you're not careful, you could kill yourself.</td></tr>
 
-  TASHA
-     I think you should know that there is no physical
-     training anywhere that matches Starfleet,
-     especially its security people.
+<tr id="L304"><td><a href="#L304">304</a></td><td>TASHA:  These I understand.</td></tr>
 
-  YAREENA
-     And you should know that even though these
-     contests are rare, we have a tradition of making
-     ourselves capable of them.
+<tr id="L305"><td><a href="#L305">305</a></td><td>ANNOTATION: Through the window they see Yareena practising on a multi-level surface, with the metal poles in it. Four lights soar to the sky</td></tr>
 
-  TASHA
-     Yareena, my acceptance had nothing to do with
-     Lutan.
+<tr id="L306"><td><a href="#L306">306</a></td><td>SOMEONE: First Officer's log, supplemental. Captain Picard, faced with a critical need for a vaccine produced on this planet, has permitted Lieutenant Natasha Yar to engage in a fight to the death. I have yet to understand his reasoning or his plan.</td></tr>
 
-  YAREENA
-     It has everything to do with Lutan. Lutan wants
-     you to be his First One.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L307"><td><a href="#L307">307</a></td><td>ANNOTATION: Wesley enters, shyly</td></tr>
 
-  TASHA
-     Impossible, Yareena. I am a career Starfleet
-     officer.
+<tr id="L308"><td><a href="#L308">308</a></td><td>RIKER:  Care to lend a hand? Sit at Ops.</td></tr>
 
-  YAREENA
-     How could you not love him? Every woman loves him.
+<tr><td></td><td>LOCATION--Transporter Room</td></tr>
+<tr id="L309"><td><a href="#L309">309</a></td><td>ANNOTATION: Data beams aboard</td></tr>
 
-  TASHA
-     I fight for the vaccine, That's the truth.
+<tr id="L310"><td><a href="#L310">310</a></td><td>DATA:  Was I seen leaving?</td></tr>
 
-  YAREENA
-     The truth is I will kill you if I can. And believe
-     me, I can. There is nothing else to say.
+<tr id="L311"><td><a href="#L311">311</a></td><td>CHIEF:  They've got eyes only for the programme.</td></tr>
 
-  TASHA
-     In my world, it's a greater honour to refuse
+<tr id="L312"><td><a href="#L312">312</a></td><td>ANNOTATION: Riker and Crusher enter</td></tr>
 
-  YAREENA
-     You are on our world!
+<tr id="L313"><td><a href="#L313">313</a></td><td>DATA:  Captain Picard wanted no risk of our communications being overheard. You are to proceed now as he indicated.</td></tr>
 
+<tr id="L314"><td><a href="#L314">314</a></td><td>CRUSHER:  Captain's orders too.</td></tr>
 
-LOCATION--Picard's room
+<tr id="L315"><td><a href="#L315">315</a></td><td>RIKER:  Does the Captain understand what you and Geordi reported about those weapons? They're razor sharp, split-second lethal.</td></tr>
 
-  TROI
-     Captain, I'm your Counsellor. You brought me with
-     you to Ligon to be of help.
+<tr id="L316"><td><a href="#L316">316</a></td><td>DATA:  I'm here to brief you on what he plans.</td></tr>
 
-  PICARD
-     Then help me, please. What is a way out of this?
+<tr><td></td><td>LOCATION--Centreplace</td></tr>
+<tr id="L317"><td><a href="#L317">317</a></td><td>ANNOTATION: The Starfleet group enter, Tasha is wearing the weapon glove</td></tr>
 
-  TROI
-     With the vaccine? None.
+<tr id="L318"><td><a href="#L318">318</a></td><td>TASHA:  Any last minute instructions, sir?</td></tr>
 
-  ANNOTATION
-     Geordi and Data enter
+<tr id="L319"><td><a href="#L319">319</a></td><td>PICARD:  Stay alive. We'll hope to do the rest.</td></tr>
 
-  LAFORGE
-     The weapons in that room, Captain, are
-     surprisingly flexible, durable, and deadly.
+<tr id="L320"><td><a href="#L320">320</a></td><td>ANNOTATION: Yareena enters</td></tr>
 
-  DATA
-     And light, as if they were made for women to use.
+<tr id="L321"><td><a href="#L321">321</a></td><td>HAGON:  I speak for Lutan. The rules are known. Let combat continue until there is a victor. It will not be interrupted.</td></tr>
 
-  LAFORGE
-     Some of them still have traces of blood and
-     poison.
+<tr id="L322"><td><a href="#L322">322</a></td><td>ANNOTATION: Yareena goes on the offensive straight away. Tasha pushes her weapon away and it hits one of the vertical laser beams. It flies off Yareena's hand into the lap of a spectator</td></tr>
 
-  PICARD
-     Poison?
+<tr id="L323"><td><a href="#L323">323</a></td><td>LUTAN:  Combatants, hold your positions. Return the weapon.</td></tr>
 
-  LAFORGE
-     Alkaloid base. Lethal.
+<tr id="L324"><td><a href="#L324">324</a></td><td>ANNOTATION: The spectator dies of his wound and is dragged away. Yareena is given the glove back and she returns to the business of trying to kill Tasha. Tasha manages to make Yareena loose her balance</td></tr>
 
-  PICARD
-     What about those lengths of metal in the yard
-     outside?
+<tr id="L325"><td><a href="#L325">325</a></td><td>HAGON:  Careful, Yareena.</td></tr>
 
-  DATA
-     Uncertain, sir. However, joined together they
-     would make a rectangle or square enclosing one
-     hundred twenty one square metres. If put end to
-     end vertically, they would make a pole forty four
-     metres high, or two of twenty two.
+<tr id="L326"><td><a href="#L326">326</a></td><td>ANNOTATION: Finally the two women get into very close combat, and Tasha lands a blow on Yareena's back. Then she lies across the body and the two are beamed away</td></tr>
 
-  PICARD
-     Thank you, Data.
+<tr><td></td><td>LOCATION--Transporter Room</td></tr>
+<tr id="L327"><td><a href="#L327">327</a></td><td>RIKER:  Move!</td></tr>
 
-  DATA
-     You're welcome, sir.
+<tr id="L328"><td><a href="#L328">328</a></td><td>TASHA:  We're too late. She's growing cold.</td></tr>
 
-  ANNOTATION
-     Tasha enters
+<tr id="L329"><td><a href="#L329">329</a></td><td>CRUSHER:  Sorry, that clashes with my instructions.</td></tr>
 
-  TASHA
-     She won't budge. She loves him, without
-     reservation. And she thinks I love him too.
+<tr id="L330"><td><a href="#L330">330</a></td><td>ANNOTATION: She injects Yareena</td></tr>
 
-  DATA
-     Most interesting. Do you?
+<tr id="L331"><td><a href="#L331">331</a></td><td>TASHA:  Oh no. No.</td></tr>
 
-  TASHA
-     Of course I don't, Data. As Troi pointed out to
-     me, I'm attracted to him but that is entirely
-     different.
+<tr><td></td><td>LOCATION--Centreplace</td></tr>
+<tr id="L332"><td><a href="#L332">332</a></td><td>PICARD:  Exactly what do you find unfair, Lutan? They fought to the death. You saw the final blow. You know the effects of your poison.</td></tr>
 
-  RIKER [OC]
-     Riker to Captain.
+<tr id="L333"><td><a href="#L333">333</a></td><td>LUTAN:  But what of your Lieutenant Yar? She is to become my First One now.</td></tr>
 
-  PICARD
-     Go ahead, Riker. We're alone.
+<tr id="L334"><td><a href="#L334">334</a></td><td>PICARD:  I certainly won't stop her, if she cares to claim that honour.</td></tr>
 
-  RIKER [OC]
-     We're fine tuned enough to see your hosts
-     gathering in the open area outside, sir. Three of
-     them are heading for your location.
+<tr id="L335"><td><a href="#L335">335</a></td><td>HAGON:  Remember, you now have all Yareena's lands and wealth now.</td></tr>
 
-  PICARD
-     Thank you, Number One. Lieutenant, do you still
-     feel that you want to go through with this
-     challenge? Do you judge your condition good?
+<tr id="L336"><td><a href="#L336">336</a></td><td>LUTAN:  At least all has not been lost.</td></tr>
 
-  TASHA
-     I judge it excellent, sir.
+<tr id="L337"><td><a href="#L337">337</a></td><td>RIKER [OC]:  Riker to Captain.</td></tr>
 
-  ANNOTATION
-     Hagon enters, followed by two guards carrying
-     boxes
+<tr id="L338"><td><a href="#L338">338</a></td><td>PICARD:  Picard here.</td></tr>
 
-  HAGON
-     Your weapons, Lieutenant Yar. You may choose your
-     size.
+<tr id="L339"><td><a href="#L339">339</a></td><td>RIKER [OC]:  Since you've fulfilled your agreement, Captain, can we now beam the vaccine aboard?</td></tr>
 
-  ANNOTATION
-     She opens a box containing a glove with metal
-     spikes and a curved blade
+<tr id="L340"><td><a href="#L340">340</a></td><td>LUTAN:  Ah, yes, of course.</td></tr>
 
-  LAFORGE
-     Tasha, don't touch the spines. They're poisoned.
-     If you're not careful, you could kill yourself.
+<tr id="L341"><td><a href="#L341">341</a></td><td>PICARD:  No problem, Number One. Send down a medical team.</td></tr>
 
-  TASHA
-     These I understand.
+<tr id="L342"><td><a href="#L342">342</a></td><td>RIKER [OC]:  And to complete our business here, we are locked onto you.</td></tr>
 
-  ANNOTATION
-     Through the window they see Yareena practising on
-     a multi-level surface, with the metal poles in it.
-     Four lights soar to the sky
+<tr id="L343"><td><a href="#L343">343</a></td><td>PICARD:  Five to beam up. Energise.</td></tr>
 
-  SOMEONE
-     First Officer's log, supplemental. Captain Picard,
-     faced with a critical need for a vaccine produced
-     on this planet, has permitted Lieutenant Natasha
-     Yar to engage in a fight to the death. I have yet
-     to understand his reasoning or his plan.
+<tr id="L344"><td><a href="#L344">344</a></td><td>SOMEONE: First Officer's log, Stardate 41235.6. I am returning the conn to Captain Picard as we begin loading the vaccine supply aboard. Shortly, we hope to signal mission complete.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L345"><td><a href="#L345">345</a></td><td>ANNOTATION: Picard, Troi, Lutan and Hagon enter</td></tr>
 
-LOCATION--Bridge
+<tr id="L346"><td><a href="#L346">346</a></td><td>RIKER:  Welcome back, Captain. You're wanted in the lounge.</td></tr>
 
-  ANNOTATION
-     Wesley enters, shyly
+<tr id="L347"><td><a href="#L347">347</a></td><td>PICARD:  This way, gentlemen.</td></tr>
 
-  RIKER
-     Care to lend a hand? Sit at Ops.
+<tr><td></td><td>LOCATION--Observation Lounge</td></tr>
+<tr id="L348"><td><a href="#L348">348</a></td><td>ANNOTATION: Tasha and Beverly are there with Yareena</td></tr>
 
+<tr id="L349"><td><a href="#L349">349</a></td><td>LUTAN:  She is not dead! There was no death combat. You violated our agreement. There will be no treaty, no vaccine!</td></tr>
 
-LOCATION--Transporter Room
+<tr id="L350"><td><a href="#L350">350</a></td><td>PICARD:  The challenge was carried out. She died, Lutan.</td></tr>
 
-  ANNOTATION
-     Data beams aboard
+<tr id="L351"><td><a href="#L351">351</a></td><td>LUTAN:  There was no challenge! She lives!</td></tr>
 
-  DATA
-     Was I seen leaving?
+<tr id="L352"><td><a href="#L352">352</a></td><td>CRUSHER:  I am a physician and saw her die. If you doubt this poison, why don't you test it on yourself?</td></tr>
 
-  CHIEF
-     They've got eyes only for the programme.
+<tr id="L353"><td><a href="#L353">353</a></td><td>PICARD:  Lutan, we can provide you with records of her death and how Doctor Crusher brought her back.</td></tr>
 
-  ANNOTATION
-     Riker and Crusher enter
+<tr id="L354"><td><a href="#L354">354</a></td><td>YAREENA:  And at the instant of death, Lutan, a mating agreement dissolves.</td></tr>
 
-  DATA
-     Captain Picard wanted no risk of our
-     communications being overheard. You are to proceed
-     now as he indicated.
+<tr id="L355"><td><a href="#L355">355</a></td><td>LUTAN:  But this is witchcraft, Yareena. To discard a mate in this manner</td></tr>
 
-  CRUSHER
-     Captain's orders too.
+<tr id="L356"><td><a href="#L356">356</a></td><td>YAREENA:  Is less painful than the one you selected for me.</td></tr>
 
-  RIKER
-     Does the Captain understand what you and Geordi
-     reported about those weapons? They're razor sharp,
-     split-second lethal.
+<tr id="L357"><td><a href="#L357">357</a></td><td>ANNOTATION: She takes the necklace off him</td></tr>
 
-  DATA
-     I'm here to brief you on what he plans.
+<tr id="L358"><td><a href="#L358">358</a></td><td>LUTAN:  Yareena, no.</td></tr>
 
+<tr id="L359"><td><a href="#L359">359</a></td><td>YAREENA:  Even as I battled, Hagon, I heard you calling out for me.</td></tr>
 
-LOCATION--Centreplace
+<tr id="L360"><td><a href="#L360">360</a></td><td>HAGON:  Yareena, be my First One.</td></tr>
 
-  ANNOTATION
-     The Starfleet group enter, Tasha is wearing the
-     weapon glove
+<tr id="L361"><td><a href="#L361">361</a></td><td>YAREENA:  All my land and all my goods, all I have is yours to rule.</td></tr>
 
-  TASHA
-     Any last minute instructions, sir?
+<tr id="L362"><td><a href="#L362">362</a></td><td>ANNOTATION: She puts the necklace on Hagon</td></tr>
 
-  PICARD
-     Stay alive. We'll hope to do the rest.
+<tr id="L363"><td><a href="#L363">363</a></td><td>TASHA:  How so sad for you. You've lost everything.</td></tr>
 
-  ANNOTATION
-     Yareena enters
+<tr id="L364"><td><a href="#L364">364</a></td><td>LUTAN:  I have my honour.</td></tr>
 
-  HAGON
-     I speak for Lutan. The rules are known. Let combat
-     continue until there is a victor. It will not be
-     interrupted.
+<tr id="L365"><td><a href="#L365">365</a></td><td>TASHA:  It's such a waste.</td></tr>
 
-  ANNOTATION
-     Yareena goes on the offensive straight away. Tasha
-     pushes her weapon away and it hits one of the
-     vertical laser beams. It flies off Yareena's hand
-     into the lap of a spectator
+<tr id="L366"><td><a href="#L366">366</a></td><td>YAREENA:  Do you want him?</td></tr>
 
-  LUTAN
-     Combatants, hold your positions. Return the
-     weapon.
+<tr id="L367"><td><a href="#L367">367</a></td><td>TASHA:  No. There would be complications.</td></tr>
 
-  ANNOTATION
-     The spectator dies of his wound and is dragged
-     away. Yareena is given the glove back and she
-     returns to the business of trying to kill Tasha.
-     Tasha manages to make Yareena loose her balance
+<tr id="L368"><td><a href="#L368">368</a></td><td>YAREENA:  Then I will have you as my Number Two. Take your place accordingly.</td></tr>
 
-  HAGON
-     Careful, Yareena.
+<tr id="L369"><td><a href="#L369">369</a></td><td>HAGON:  Well, as you see, Captain, you may excel in technology, but not in civilised behaviour.</td></tr>
 
-  ANNOTATION
-     Finally the two women get into very close combat,
-     and Tasha lands a blow on Yareena's back. Then she
-     lies across the body and the two are beamed away
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L370"><td><a href="#L370">370</a></td><td>ANNOTATION: Wesley is still at Ops. Data is standing by Tasha when Picard enters and notices</td></tr>
 
+<tr id="L371"><td><a href="#L371">371</a></td><td>PICARD:  What? Wesley.</td></tr>
 
-LOCATION--Transporter Room
+<tr id="L372"><td><a href="#L372">372</a></td><td>RIKER:  Young Wesley, he'd been manning that station for me. I forgot.</td></tr>
 
-  RIKER
-     Move!
+<tr id="L373"><td><a href="#L373">373</a></td><td>PICARD:  Well, thanks again for manning one of our bridge stations, Wesley. We'll see that you have another chance.</td></tr>
 
-  TASHA
-     We're too late. She's growing cold.
+<tr id="L374"><td><a href="#L374">374</a></td><td>WESLEY:  Yes sir.</td></tr>
 
-  CRUSHER
-     Sorry, that clashes with my instructions.
+<tr id="L375"><td><a href="#L375">375</a></td><td>ANNOTATION: Wesley leaves and Data takes his rightful station</td></tr>
 
-  ANNOTATION
-     She injects Yareena
+<tr id="L376"><td><a href="#L376">376</a></td><td>PICARD:  So what's the delay, Number One? Why aren't we warping out of here?</td></tr>
 
-  TASHA
-     Oh no. No.
+<tr id="L377"><td><a href="#L377">377</a></td><td>RIKER:  Set course for Styris Four, warp three.</td></tr>
 
+<tr id="L378"><td><a href="#L378">378</a></td><td>LAFORGE:  Course laid in for Styris Four, sir.</td></tr>
 
-LOCATION--Centreplace
+<tr id="L379"><td><a href="#L379">379</a></td><td>RIKER:  Engage.</td></tr>
 
-  PICARD
-     Exactly what do you find unfair, Lutan? They
-     fought to the death. You saw the final blow. You
-     know the effects of your poison.
-
-  LUTAN
-     But what of your Lieutenant Yar? She is to become
-     my First One now.
-
-  PICARD
-     I certainly won't stop her, if she cares to claim
-     that honour.
-
-  HAGON
-     Remember, you now have all Yareena's lands and
-     wealth now.
-
-  LUTAN
-     At least all has not been lost.
-
-  RIKER [OC]
-     Riker to Captain.
-
-  PICARD
-     Picard here.
-
-  RIKER [OC]
-     Since you've fulfilled your agreement, Captain,
-     can we now beam the vaccine aboard?
-
-  LUTAN
-     Ah, yes, of course.
-
-  PICARD
-     No problem, Number One. Send down a medical team.
-
-  RIKER [OC]
-     And to complete our business here, we are locked
-     onto you.
-
-  PICARD
-     Five to beam up. Energise.
-
-  SOMEONE
-     First Officer's log, Stardate 41235.6. I am
-     returning the conn to Captain Picard as we begin
-     loading the vaccine supply aboard. Shortly, we
-     hope to signal mission complete.
-
-
-LOCATION--Bridge
-
-  ANNOTATION
-     Picard, Troi, Lutan and Hagon enter
-
-  RIKER
-     Welcome back, Captain. You're wanted in the
-     lounge.
-
-  PICARD
-     This way, gentlemen.
-
-
-LOCATION--Observation Lounge
-
-  ANNOTATION
-     Tasha and Beverly are there with Yareena
-
-  LUTAN
-     She is not dead! There was no death combat. You
-     violated our agreement. There will be no treaty,
-     no vaccine!
-
-  PICARD
-     The challenge was carried out. She died, Lutan.
-
-  LUTAN
-     There was no challenge! She lives!
-
-  CRUSHER
-     I am a physician and saw her die. If you doubt
-     this poison, why don't you test it on yourself?
-
-  PICARD
-     Lutan, we can provide you with records of her
-     death and how Doctor Crusher brought her back.
-
-  YAREENA
-     And at the instant of death, Lutan, a mating
-     agreement dissolves.
-
-  LUTAN
-     But this is witchcraft, Yareena. To discard a mate
-     in this manner
-
-  YAREENA
-     Is less painful than the one you selected for me.
-
-  ANNOTATION
-     She takes the necklace off him
-
-  LUTAN
-     Yareena, no.
-
-  YAREENA
-     Even as I battled, Hagon, I heard you calling out
-     for me.
-
-  HAGON
-     Yareena, be my First One.
-
-  YAREENA
-     All my land and all my goods, all I have is yours
-     to rule.
-
-  ANNOTATION
-     She puts the necklace on Hagon
-
-  TASHA
-     How so sad for you. You've lost everything.
-
-  LUTAN
-     I have my honour.
-
-  TASHA
-     It's such a waste.
-
-  YAREENA
-     Do you want him?
-
-  TASHA
-     No. There would be complications.
-
-  YAREENA
-     Then I will have you as my Number Two. Take your
-     place accordingly.
-
-  HAGON
-     Well, as you see, Captain, you may excel in
-     technology, but not in civilised behaviour.
-
-
-LOCATION--Bridge
-
-  ANNOTATION
-     Wesley is still at Ops. Data is standing by Tasha
-     when Picard enters and notices
-
-  PICARD
-     What? Wesley.
-
-  RIKER
-     Young Wesley, he'd been manning that station for
-     me. I forgot.
-
-  PICARD
-     Well, thanks again for manning one of our bridge
-     stations, Wesley. We'll see that you have another
-     chance.
-
-  WESLEY
-     Yes sir.
-
-  ANNOTATION
-     Wesley leaves and Data takes his rightful station
-
-  PICARD
-     So what's the delay, Number One? Why aren't we
-     warping out of here?
-
-  RIKER
-     Set course for Styris Four, warp three.
-
-  LAFORGE
-     Course laid in for Styris Four, sir.
-
-  RIKER
-     Engage.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

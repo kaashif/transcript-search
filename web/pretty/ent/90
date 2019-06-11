@@ -1,1688 +1,932 @@
-The Aenar
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Aenar</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Control area</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>VRAX:  This mission was supposed to cause dissension in the region. It's had the opposite effect.</td></tr>
 
-LOCATION--Control area
+<tr id="L2"><td><a href="#L2">2</a></td><td>VALDORE:  Senator, you have a right</td></tr>
 
-  VRAX
-     This mission was supposed to cause dissension in
-     the region. It's had the opposite effect.
+<tr id="L3"><td><a href="#L3">3</a></td><td>VRAX:  The Andorians and Tellarites have formed an alliance. They're working together for the first time in history.</td></tr>
 
-  VALDORE
-     Senator, you have a right
+<tr id="L4"><td><a href="#L4">4</a></td><td>VALDORE:  It won't last.</td></tr>
 
-  VRAX
-     The Andorians and Tellarites have formed an
-     alliance. They're working together for the first
-     time in history.
+<tr id="L5"><td><a href="#L5">5</a></td><td>VRAX:  The group of senators doesn't share your optimism. They're presenting a motion to cancel this mission.</td></tr>
 
-  VALDORE
-     It won't last.
+<tr id="L6"><td><a href="#L6">6</a></td><td>VALDORE:  That would be a mistake.</td></tr>
 
-  VRAX
-     The group of senators doesn't share your optimism.
-     They're presenting a motion to cancel this
-     mission.
+<tr id="L7"><td><a href="#L7">7</a></td><td>VRAX:  The mistake was mine when I supported this endeavour. Do you realise how you've weakened my position?</td></tr>
 
-  VALDORE
-     That would be a mistake.
+<tr id="L8"><td><a href="#L8">8</a></td><td>VALDORE:  When this is over, you'll be First Consul.</td></tr>
 
-  VRAX
-     The mistake was mine when I supported this
-     endeavour. Do you realise how you've weakened my
-     position?
+<tr id="L9"><td><a href="#L9">9</a></td><td>VRAX:  After a failure of this magnitude, I could be dead.</td></tr>
 
-  VALDORE
-     When this is over, you'll be First Consul.
+<tr id="L10"><td><a href="#L10">10</a></td><td>VALDORE:  This isn't a failure. It's a setback. We have to deal with the humans. They are the ones that brought the Andorians and Tellarites together. The second Drone ship is armed and ready for battle. With two ships, I can deliver a devastating blow. We will hunt down Enterprise and destroy it.</td></tr>
 
-  VRAX
-     After a failure of this magnitude, I could be
-     dead.
+<tr id="L11"><td><a href="#L11">11</a></td><td>SOMEONE: Captain's Starlog, supplemental. A transport ship is returning the Tellarite Ambassador to his homeworld, but Shran has offered to stay and help us track down the marauder.</td></tr>
 
-  VALDORE
-     This isn't a failure. It's a setback. We have to
-     deal with the humans. They are the ones that
-     brought the Andorians and Tellarites together. The
-     second Drone ship is armed and ready for battle.
-     With two ships, I can deliver a devastating blow.
-     We will hunt down Enterprise and destroy it.
+<tr><td></td><td>LOCATION--Conference room</td></tr>
+<tr id="L12"><td><a href="#L12">12</a></td><td>T'POL:  The Drone is being operated by telepresence. It's a process which allows a vessel to be controlled from a remote location.</td></tr>
 
-  SOMEONE
-     Captain's Starlog, supplemental. A transport ship
-     is returning the Tellarite Ambassador to his
-     homeworld, but Shran has offered to stay and help
-     us track down the marauder.
+<tr id="L13"><td><a href="#L13">13</a></td><td>SHRAN:  We experimented with that years ago. Nothing came of it.</td></tr>
 
+<tr id="L14"><td><a href="#L14">14</a></td><td>T'POL:  A pilot can operate the Drone from a great distance, over many light years.</td></tr>
 
-LOCATION--Conference room
+<tr id="L15"><td><a href="#L15">15</a></td><td>REED:  So, there really was no one on that ship.</td></tr>
 
-  T'POL
-     The Drone is being operated by telepresence. It's
-     a process which allows a vessel to be controlled
-     from a remote location.
+<tr id="L16"><td><a href="#L16">16</a></td><td>TUCKER:  And the people running it are back on their homeworld, safe and sound.</td></tr>
 
-  SHRAN
-     We experimented with that years ago. Nothing came
-     of it.
+<tr id="L17"><td><a href="#L17">17</a></td><td>T'POL:  Essentially.</td></tr>
 
-  T'POL
-     A pilot can operate the Drone from a great
-     distance, over many light years.
+<tr id="L18"><td><a href="#L18">18</a></td><td>TUCKER:  Doesn't seem fair.</td></tr>
 
-  REED
-     So, there really was no one on that ship.
+<tr id="L19"><td><a href="#L19">19</a></td><td>ARCHER:  Is there any way to interrupt this telepresence?</td></tr>
 
-  TUCKER
-     And the people running it are back on their
-     homeworld, safe and sound.
+<tr id="L20"><td><a href="#L20">20</a></td><td>T'POL:  I'm still reviewing the data Commander Tucker brought back, but I believe we can construct our own telepresence unit.</td></tr>
 
-  T'POL
-     Essentially.
+<tr id="L21"><td><a href="#L21">21</a></td><td>TUCKER:  And use it to hijack their ship?</td></tr>
 
-  TUCKER
-     Doesn't seem fair.
+<tr id="L22"><td><a href="#L22">22</a></td><td>T'POL:  Doubtful. The most we can hope for is to interfere with their navigation.</td></tr>
 
-  ARCHER
-     Is there any way to interrupt this telepresence?
+<tr id="L23"><td><a href="#L23">23</a></td><td>ARCHER:  Get started.</td></tr>
 
-  T'POL
-     I'm still reviewing the data Commander Tucker
-     brought back, but I believe we can construct our
-     own telepresence unit.
+<tr id="L24"><td><a href="#L24">24</a></td><td>T'POL:  There is one problem. The data from the marauder also contained a brain wave pattern. I believe it belongs to the pilot.</td></tr>
 
-  TUCKER
-     And use it to hijack their ship?
+<tr id="L25"><td><a href="#L25">25</a></td><td>PHLOX:  I've analyzed it. The individual is highly telepathic.</td></tr>
 
-  T'POL
-     Doubtful. The most we can hope for is to interfere
-     with their navigation.
+<tr id="L26"><td><a href="#L26">26</a></td><td>T'POL:  Apparently, telepathy is necessary to operate the device.</td></tr>
 
-  ARCHER
-     Get started.
+<tr id="L27"><td><a href="#L27">27</a></td><td>ARCHER:  Vulcans have telepathic powers.</td></tr>
 
-  T'POL
-     There is one problem. The data from the marauder
-     also contained a brain wave pattern. I believe it
-     belongs to the pilot.
+<tr id="L28"><td><a href="#L28">28</a></td><td>PHLOX:  Not to this extent.</td></tr>
 
-  PHLOX
-     I've analyzed it. The individual is highly
-     telepathic.
+<tr id="L29"><td><a href="#L29">29</a></td><td>ARCHER:  Can you identify the species?</td></tr>
 
-  T'POL
-     Apparently, telepathy is necessary to operate the
-     device.
+<tr id="L30"><td><a href="#L30">30</a></td><td>PHLOX:  There's no exact match in my database. However, the nearest genome is Andorian.</td></tr>
 
-  ARCHER
-     Vulcans have telepathic powers.
+<tr><td></td><td>LOCATION--Control area</td></tr>
+<tr id="L31"><td><a href="#L31">31</a></td><td>NIJIL:  The humans did considerable damage to the Bridge. We'll have to replace the entire receiver array.</td></tr>
 
-  PHLOX
-     Not to this extent.
+<tr id="L32"><td><a href="#L32">32</a></td><td>VALDORE:  Assign every spare man to the repair crew.</td></tr>
 
-  ARCHER
-     Can you identify the species?
+<tr id="L33"><td><a href="#L33">33</a></td><td>NIJIL:  The ship isn't what concerns me. It's the pilot.</td></tr>
 
-  PHLOX
-     There's no exact match in my database. However,
-     the nearest genome is Andorian.
+<tr id="L34"><td><a href="#L34">34</a></td><td>VALDORE:  What about him?</td></tr>
 
+<tr id="L35"><td><a href="#L35">35</a></td><td>NIJIL:  Operating the vessel is extremely taxing.</td></tr>
 
-LOCATION--Control area
+<tr id="L36"><td><a href="#L36">36</a></td><td>VALDORE:  He'll have at least three days to rest.</td></tr>
 
-  NIJIL
-     The humans did considerable damage to the Bridge.
-     We'll have to replace the entire receiver array.
+<tr id="L37"><td><a href="#L37">37</a></td><td>NIJIL:  That won't be enough. He's suffering from severe mental fatigue. Piloting one ship would be difficult enough, but two</td></tr>
 
-  VALDORE
-     Assign every spare man to the repair crew.
+<tr id="L38"><td><a href="#L38">38</a></td><td>VALDORE:  Then you'll have to increase the stimulants.</td></tr>
 
-  NIJIL
-     The ship isn't what concerns me. It's the pilot.
+<tr id="L39"><td><a href="#L39">39</a></td><td>NIJIL:  The dosage is already at a dangerous level. He could be permanently damaged. He could die.</td></tr>
 
-  VALDORE
-     What about him?
+<tr id="L40"><td><a href="#L40">40</a></td><td>VALDORE:  If I didn't know you better, I would say you're more concerned with this creature's well-being than you are with this mission.</td></tr>
 
-  NIJIL
-     Operating the vessel is extremely taxing.
+<tr id="L41"><td><a href="#L41">41</a></td><td>NIJIL:  Without the pilot, there would be no mission.</td></tr>
 
-  VALDORE
-     He'll have at least three days to rest.
+<tr id="L42"><td><a href="#L42">42</a></td><td>VALDORE:  Just keep him alive long enough to destroy the Earth ship. After that, his health is of little consequence.</td></tr>
 
-  NIJIL
-     That won't be enough. He's suffering from severe
-     mental fatigue. Piloting one ship would be
-     difficult enough, but two
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L43"><td><a href="#L43">43</a></td><td>ARCHER:  Come in.</td></tr>
 
-  VALDORE
-     Then you'll have to increase the stimulants.
+<tr id="L44"><td><a href="#L44">44</a></td><td>SHRAN:  I just received a transmission. Our scientists identified the brain wave pattern.</td></tr>
 
-  NIJIL
-     The dosage is already at a dangerous level. He
-     could be permanently damaged. He could die.
+<tr id="L45"><td><a href="#L45">45</a></td><td>ARCHER:  And?</td></tr>
 
-  VALDORE
-     If I didn't know you better, I would say you're
-     more concerned with this creature's well-being
-     than you are with this mission.
+<tr id="L46"><td><a href="#L46">46</a></td><td>SHRAN:  It's from my world, but it's not from any Andorian you'd know. It's Aenar. They're a kind of subspecies. Blind ice-dwellers. For most of our history, they were considered a myth, stories we told our children, but fifty years ago, they were discovered living in the Northern Wastes. They're extremely secretive. I can count on one hand the number of Andorians who've seen one face-to-face.</td></tr>
 
-  NIJIL
-     Without the pilot, there would be no mission.
+<tr id="L47"><td><a href="#L47">47</a></td><td>ARCHER:  Could they have built a ship like the marauder?</td></tr>
 
-  VALDORE
-     Just keep him alive long enough to destroy the
-     Earth ship. After that, his health is of little
-     consequence.
+<tr id="L48"><td><a href="#L48">48</a></td><td>SHRAN:  I seriously doubt they have the capacity. There are only a few thousand of them left, and even if they could, they're pacifists. They don't believe in violence.</td></tr>
 
+<tr id="L49"><td><a href="#L49">49</a></td><td>ARCHER:  One of them does.</td></tr>
 
-LOCATION--Ready room
+<tr id="L50"><td><a href="#L50">50</a></td><td>SHRAN:  It seems that way.</td></tr>
 
-  ARCHER
-     Come in.
+<tr id="L51"><td><a href="#L51">51</a></td><td>ARCHER:  We need to find out who's controlling that ship.</td></tr>
 
-  SHRAN
-     I just received a transmission. Our scientists
-     identified the brain wave pattern.
+<tr id="L52"><td><a href="#L52">52</a></td><td>SHRAN:  Agreed.</td></tr>
 
-  ARCHER
-     And?
+<tr id="L53"><td><a href="#L53">53</a></td><td>ARCHER:  (into comm.) Travis.</td></tr>
 
-  SHRAN
-     It's from my world, but it's not from any Andorian
-     you'd know. It's Aenar. They're a kind of
-     subspecies. Blind ice-dwellers. For most of our
-     history, they were considered a myth, stories we
-     told our children, but fifty years ago, they were
-     discovered living in the Northern Wastes. They're
-     extremely secretive. I can count on one hand the
-     number of Andorians who've seen one face-to-face.
+<tr id="L54"><td><a href="#L54">54</a></td><td>TRAVIS [OC]:  Yes, sir?</td></tr>
 
-  ARCHER
-     Could they have built a ship like the marauder?
+<tr id="L55"><td><a href="#L55">55</a></td><td>ARCHER:  Set a course for Andoria, maximum warp.</td></tr>
 
-  SHRAN
-     I seriously doubt they have the capacity. There
-     are only a few thousand of them left, and even if
-     they could, they're pacifists. They don't believe
-     in violence.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L56"><td><a href="#L56">56</a></td><td>ANNOTATION: The place is almost filled with strange equipment and thick rubber tubing.</td></tr>
 
-  ARCHER
-     One of them does.
+<tr id="L57"><td><a href="#L57">57</a></td><td>T'POL:  You should rest.</td></tr>
 
-  SHRAN
-     It seems that way.
+<tr id="L58"><td><a href="#L58">58</a></td><td>TUCKER:  I just need a second.</td></tr>
 
-  ARCHER
-     We need to find out who's controlling that ship.
+<tr id="L59"><td><a href="#L59">59</a></td><td>T'POL:  Phlox thinks it's too soon for you to return to duty.</td></tr>
 
-  SHRAN
-     Agreed.
+<tr id="L60"><td><a href="#L60">60</a></td><td>TUCKER:  Phlox? You were talking to him about me?</td></tr>
 
-  ARCHER
-     (into comm.) Travis.
+<tr id="L61"><td><a href="#L61">61</a></td><td>T'POL:  It came up in conversation.</td></tr>
 
-  TRAVIS [OC]
-     Yes, sir?
+<tr id="L62"><td><a href="#L62">62</a></td><td>TUCKER:  Right. Well, I don't have the option of taking a break. The Captain needs this done fast.</td></tr>
 
-  ARCHER
-     Set a course for Andoria, maximum warp.
+<tr id="L63"><td><a href="#L63">63</a></td><td>ANNOTATION: T'Pol is working on modifying a biobed.</td></tr>
 
+<tr id="L64"><td><a href="#L64">64</a></td><td>T'POL:  I can manage.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L65"><td><a href="#L65">65</a></td><td>TUCKER:  You might be the best there is at crunching numbers, but when it comes to actually sticking things together, you're a little out of your league. These work better when you strip off the duranite caps. Don't ask me why, they just do.</td></tr>
 
-  ANNOTATION
-     The place is almost filled with strange equipment
-     and thick rubber tubing.
+<tr id="L66"><td><a href="#L66">66</a></td><td>T'POL:  I'll make a note of that.</td></tr>
 
-  T'POL
-     You should rest.
+<tr id="L67"><td><a href="#L67">67</a></td><td>TUCKER:  You know, when I was on that ship with Malcolm I was convinced I was going to die. You ever been there?</td></tr>
 
-  TUCKER
-     I just need a second.
+<tr id="L68"><td><a href="#L68">68</a></td><td>T'POL:  Since Enterprise was launched, we've all been near death on more than one occasion.</td></tr>
 
-  T'POL
-     Phlox thinks it's too soon for you to return to
-     duty.
+<tr id="L69"><td><a href="#L69">69</a></td><td>TUCKER:  I'm not talking close scrapes. I mean when you're in a bad situation, and you know this is it, there's no way out, and you have time to think about it.</td></tr>
 
-  TUCKER
-     Phlox? You were talking to him about me?
+<tr id="L70"><td><a href="#L70">70</a></td><td>T'POL:  In the Expanse, when we were attempting to destroy Sphere forty one, I didn't believe we'd survive.</td></tr>
 
-  T'POL
-     It came up in conversation.
+<tr id="L71"><td><a href="#L71">71</a></td><td>TUCKER:  What went through your mind?</td></tr>
 
-  TUCKER
-     Right. Well, I don't have the option of taking a
-     break. The Captain needs this done fast.
+<tr id="L72"><td><a href="#L72">72</a></td><td>T'POL:  Whether or not to transfer auxiliary power to the deflector array. Why do you ask?</td></tr>
 
-  ANNOTATION
-     T'Pol is working on modifying a biobed.
+<tr id="L73"><td><a href="#L73">73</a></td><td>TUCKER:  Just curious.</td></tr>
 
-  T'POL
-     I can manage.
+<tr id="L74"><td><a href="#L74">74</a></td><td>SOMEONE: {Corridor/Transporter alcove]</td></tr>
 
-  TUCKER
-     You might be the best there is at crunching
-     numbers, but when it comes to actually sticking
-     things together, you're a little out of your
-     league. These work better when you strip off the
-     duranite caps. Don't ask me why, they just do.
+<tr id="L75"><td><a href="#L75">75</a></td><td>ANNOTATION: Enterprise has arrived at a blue planet with a ring system and at least two fair-sized moons.</td></tr>
 
-  T'POL
-     I'll make a note of that.
+<tr id="L76"><td><a href="#L76">76</a></td><td>REED:  The Aenar compound is surrounded by a dampening field. Once you're inside, you won't be able to contact the ship. I'd feel much better about this if you'd take a couple of MACOs with you.</td></tr>
 
-  TUCKER
-     You know, when I was on that ship with Malcolm I
-     was convinced I was going to die. You ever been
-     there?
+<tr id="L77"><td><a href="#L77">77</a></td><td>SHRAN:  We go in there with a show of force, we won't get a thing out of them.</td></tr>
 
-  T'POL
-     Since Enterprise was launched, we've all been near
-     death on more than one occasion.
+<tr id="L78"><td><a href="#L78">78</a></td><td>ARCHER:  We're going alone.</td></tr>
 
-  TUCKER
-     I'm not talking close scrapes. I mean when you're
-     in a bad situation, and you know this is it,
-     there's no way out, and you have time to think
-     about it.
+<tr id="L79"><td><a href="#L79">79</a></td><td>REED:  Captain, we don't know anything about these people.</td></tr>
 
-  T'POL
-     In the Expanse, when we were attempting to destroy
-     Sphere forty one, I didn't believe we'd survive.
+<tr id="L80"><td><a href="#L80">80</a></td><td>ARCHER:  That's why we're here. Energise.</td></tr>
 
-  TUCKER
-     What went through your mind?
+<tr><td></td><td>LOCATION--Andoria</td></tr>
+<tr id="L81"><td><a href="#L81">81</a></td><td>ANNOTATION: Which is not the ringed planet, as that is in the sky. Shran and Archer materialise in a place of deep snow which has been cut into walls and doorways.</td></tr>
 
-  T'POL
-     Whether or not to transfer auxiliary power to the
-     deflector array. Why do you ask?
+<tr id="L82"><td><a href="#L82">82</a></td><td>SHRAN:  Taste that air. Really gets the blood running.</td></tr>
 
-  TUCKER
-     Just curious.
+<tr id="L83"><td><a href="#L83">83</a></td><td>ANNOTATION: Archer puts up the hood on his parka then looking at Shran's scanner.</td></tr>
 
-  SOMEONE
-     {Corridor/Transporter alcove]
+<tr id="L84"><td><a href="#L84">84</a></td><td>ARCHER:  Twenty eight below?</td></tr>
 
-  ANNOTATION
-     Enterprise has arrived at a blue planet with a
-     ring system and at least two fair-sized moons.
+<tr id="L85"><td><a href="#L85">85</a></td><td>SHRAN:  Lucky for you, it's the middle of summer.</td></tr>
 
-  REED
-     The Aenar compound is surrounded by a dampening
-     field. Once you're inside, you won't be able to
-     contact the ship. I'd feel much better about this
-     if you'd take a couple of MACOs with you.
+<tr id="L86"><td><a href="#L86">86</a></td><td>ARCHER:  Yeah.</td></tr>
 
-  SHRAN
-     We go in there with a show of force, we won't get
-     a thing out of them.
+<tr id="L87"><td><a href="#L87">87</a></td><td>SHRAN:  The entrance is twenty metres ahead. The Vulcans say the desert teaches men the meaning of endurance. But it's the ice that forges real strength.</td></tr>
 
-  ARCHER
-     We're going alone.
+<tr id="L88"><td><a href="#L88">88</a></td><td>ARCHER:  It's hard to believe anything can survive here.</td></tr>
 
-  REED
-     Captain, we don't know anything about these
-     people.
+<tr id="L89"><td><a href="#L89">89</a></td><td>SHRAN:  It isn't easy. Andorian cities are built underground to take advantage of geothermal energy. I didn't see the sun till I was fifteen.</td></tr>
 
-  ARCHER
-     That's why we're here. Energise.
+<tr id="L90"><td><a href="#L90">90</a></td><td>ANNOTATION: They wend their way through ice walls, and Shran wobbles then falls to his knees.</td></tr>
 
+<tr id="L91"><td><a href="#L91">91</a></td><td>ARCHER:  Careful, Shran. You don't have your balance back yet.</td></tr>
 
-LOCATION--Andoria
+<tr id="L92"><td><a href="#L92">92</a></td><td>SHRAN:  Hands off, pinkskin. These tunnels branch out for thousands of kilometres. Not a good place to get lost.</td></tr>
 
-  ANNOTATION
-     Which is not the ringed planet, as that is in the
-     sky. Shran and Archer materialise in a place of
-     deep snow which has been cut into walls and
-     doorways.
+<tr><td></td><td>LOCATION--Control area</td></tr>
+<tr id="L93"><td><a href="#L93">93</a></td><td>NIJIL:  We'll be ready to launch in twelve hours.</td></tr>
 
-  SHRAN
-     Taste that air. Really gets the blood running.
+<tr id="L94"><td><a href="#L94">94</a></td><td>VALDORE:  And the pilot?</td></tr>
 
-  ANNOTATION
-     Archer puts up the hood on his parka then looking
-     at Shran's scanner.
+<tr id="L95"><td><a href="#L95">95</a></td><td>NIJIL:  He's resting.</td></tr>
 
-  ARCHER
-     Twenty eight below?
+<tr id="L96"><td><a href="#L96">96</a></td><td>VALDORE:  Will he be ready?</td></tr>
 
-  SHRAN
-     Lucky for you, it's the middle of summer.
+<tr id="L97"><td><a href="#L97">97</a></td><td>NIJIL:  I'll make sure that he is.</td></tr>
 
-  ARCHER
-     Yeah.
+<tr id="L98"><td><a href="#L98">98</a></td><td>VALDORE:  Spoken like a soldier.</td></tr>
 
-  SHRAN
-     The entrance is twenty metres ahead. The Vulcans
-     say the desert teaches men the meaning of
-     endurance. But it's the ice that forges real
-     strength.
+<tr id="L99"><td><a href="#L99">99</a></td><td>NIJIL:  I'm a scientist.</td></tr>
 
-  ARCHER
-     It's hard to believe anything can survive here.
+<tr id="L100"><td><a href="#L100">100</a></td><td>VALDORE:  We're all soldiers, Nijil, from the moment we're born. When we forget that we invite disaster. You know I was once a senator?</td></tr>
 
-  SHRAN
-     It isn't easy. Andorian cities are built
-     underground to take advantage of geothermal
-     energy. I didn't see the sun till I was fifteen.
+<tr id="L101"><td><a href="#L101">101</a></td><td>NIJIL:  No.</td></tr>
 
-  ANNOTATION
-     They wend their way through ice walls, and Shran
-     wobbles then falls to his knees.
+<tr id="L102"><td><a href="#L102">102</a></td><td>VALDORE:  Many years ago. Vrax and I were colleagues. I even considered him a friend.</td></tr>
 
-  ARCHER
-     Careful, Shran. You don't have your balance back
-     yet.
+<tr id="L103"><td><a href="#L103">103</a></td><td>NIJIL:  What happened?</td></tr>
 
-  SHRAN
-     Hands off, pinkskin. These tunnels branch out for
-     thousands of kilometres. Not a good place to get
-     lost.
+<tr id="L104"><td><a href="#L104">104</a></td><td>VALDORE:  I made the mistake of challenging the precept of unlimited expansion. I asked the question. Is conquest truly the best course for our people? And I was expelled.</td></tr>
 
+<tr id="L105"><td><a href="#L105">105</a></td><td>NIJIL:  I'm sorry.</td></tr>
 
-LOCATION--Control area
+<tr id="L106"><td><a href="#L106">106</a></td><td>VALDORE:  I'm not trying to evoke your pity. I want you to learn from my experience. When I was led away from the Senate chamber, I vowed never to repeat my error and never to forget my purpose.</td></tr>
 
-  NIJIL
-     We'll be ready to launch in twelve hours.
+<tr id="L107"><td><a href="#L107">107</a></td><td>NIJIL:  I understand.</td></tr>
 
-  VALDORE
-     And the pilot?
+<tr id="L108"><td><a href="#L108">108</a></td><td>VALDORE:  Continue with your preparations.</td></tr>
 
-  NIJIL
-     He's resting.
+<tr><td></td><td>LOCATION--Ice tunnels</td></tr>
+<tr id="L109"><td><a href="#L109">109</a></td><td>SOMEONE: {Shran spots a lot of bright holes in an arch over their path.)</td></tr>
 
-  VALDORE
-     Will he be ready?
+<tr id="L110"><td><a href="#L110">110</a></td><td>SHRAN:  Ice-bores. Worms. They live in the ice. Generate heat through a chemical reaction. Big swarm came through here a day or two ago.</td></tr>
 
-  NIJIL
-     I'll make sure that he is.
+<tr id="L111"><td><a href="#L111">111</a></td><td>ARCHER:  I'm sure Phlox would love to get his hands on one.</td></tr>
 
-  VALDORE
-     Spoken like a soldier.
+<tr id="L112"><td><a href="#L112">112</a></td><td>SHRAN:  Best to avoid them. When I was a boy, I stumbled into a large den, wound up with third-degree burns over half my body.</td></tr>
 
-  NIJIL
-     I'm a scientist.
+<tr id="L113"><td><a href="#L113">113</a></td><td>ANNOTATION: He sways as they stand at the top of a cliff.</td></tr>
 
-  VALDORE
-     We're all soldiers, Nijil, from the moment we're
-     born. When we forget that we invite disaster. You
-     know I was once a senator?
+<tr id="L114"><td><a href="#L114">114</a></td><td>ARCHER:  Shran, listen to me. We should find another way.</td></tr>
 
-  NIJIL
-     No.
+<tr id="L115"><td><a href="#L115">115</a></td><td>SHRAN:  Afraid of heights, Captain?</td></tr>
 
-  VALDORE
-     Many years ago. Vrax and I were colleagues. I even
-     considered him a friend.
+<tr id="L116"><td><a href="#L116">116</a></td><td>ANNOTATION: He heads down a series of steps cut conveniently in the ice, then suddenly falls the rest of the way, and lands screaming in pain with a bright blue icicle stuck through his right leg. Archer dashes down to him.</td></tr>
 
-  NIJIL
-     What happened?
+<tr id="L117"><td><a href="#L117">117</a></td><td>ARCHER:  Shran!</td></tr>
 
-  VALDORE
-     I made the mistake of challenging the precept of
-     unlimited expansion. I asked the question. Is
-     conquest truly the best course for our people? And
-     I was expelled.
+<tr id="L118"><td><a href="#L118">118</a></td><td>SHRAN:  The ice gave out beneath me.</td></tr>
 
-  NIJIL
-     I'm sorry.
+<tr id="L119"><td><a href="#L119">119</a></td><td>ANNOTATION: He lifts his own leg off the icicle.</td></tr>
 
-  VALDORE
-     I'm not trying to evoke your pity. I want you to
-     learn from my experience. When I was led away from
-     the Senate chamber, I vowed never to repeat my
-     error and never to forget my purpose.
+<tr id="L120"><td><a href="#L120">120</a></td><td>ARCHER:  You're losing a lot of blood. Hold still.</td></tr>
 
-  NIJIL
-     I understand.
+<tr id="L121"><td><a href="#L121">121</a></td><td>ANNOTATION: We see someone is watching as Archer tends Shran's wound.</td></tr>
 
-  VALDORE
-     Continue with your preparations.
+<tr id="L122"><td><a href="#L122">122</a></td><td>ARCHER:  Hold still. Bleeding's stopped, but if you move it could start again.</td></tr>
 
+<tr id="L123"><td><a href="#L123">123</a></td><td>SHRAN:  We can't stay here. We'll freeze to death.</td></tr>
 
-LOCATION--Ice tunnels
+<tr id="L124"><td><a href="#L124">124</a></td><td>ARCHER:  Archer to Enterprise. Archer to Enterprise.</td></tr>
 
-  SOMEONE
-     {Shran spots a lot of bright holes in an arch over
-     their path.)
+<tr id="L125"><td><a href="#L125">125</a></td><td>SHRAN:  We're well inside the dampening field.</td></tr>
 
-  SHRAN
-     Ice-bores. Worms. They live in the ice. Generate
-     heat through a chemical reaction. Big swarm came
-     through here a day or two ago.
+<tr id="L126"><td><a href="#L126">126</a></td><td>ARCHER:  It doesn't hurt to try. How far are we from the Aenar? (Shran spots the watcher.)</td></tr>
 
-  ARCHER
-     I'm sure Phlox would love to get his hands on one.
+<tr id="L127"><td><a href="#L127">127</a></td><td>SHRAN:  I think we just got a lot closer.</td></tr>
 
-  SHRAN
-     Best to avoid them. When I was a boy, I stumbled
-     into a large den, wound up with third-degree burns
-     over half my body.
+<tr id="L128"><td><a href="#L128">128</a></td><td>ANNOTATION: Several more of the pale-skinned, pale-dressed people appear.</td></tr>
 
-  ANNOTATION
-     He sways as they stand at the top of a cliff.
+<tr id="L129"><td><a href="#L129">129</a></td><td>ARCHER:  Hello. We need your help. My friend's been hurt.</td></tr>
 
-  ARCHER
-     Shran, listen to me. We should find another way.
+<tr id="L130"><td><a href="#L130">130</a></td><td>LISSAN:  (a woman) We'll assist you.</td></tr>
 
-  SHRAN
-     Afraid of heights, Captain?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L131"><td><a href="#L131">131</a></td><td>PHLOX:  There's not as much data on the neural interface as I'd like.</td></tr>
 
-  ANNOTATION
-     He heads down a series of steps cut conveniently
-     in the ice, then suddenly falls the rest of the
-     way, and lands screaming in pain with a bright
-     blue icicle stuck through his right leg. Archer
-     dashes down to him.
+<tr id="L132"><td><a href="#L132">132</a></td><td>T'POL:  It's all we have.</td></tr>
 
-  ARCHER
-     Shran!
+<tr id="L133"><td><a href="#L133">133</a></td><td>PHLOX:  I can connect someone to the unit, but it'll be dangerous.</td></tr>
 
-  SHRAN
-     The ice gave out beneath me.
+<tr id="L134"><td><a href="#L134">134</a></td><td>TUCKER:  How dangerous?</td></tr>
 
-  ANNOTATION
-     He lifts his own leg off the icicle.
+<tr id="L135"><td><a href="#L135">135</a></td><td>PHLOX:  If the interface malfunctions, there could be severe neurolytic shock, possibly resulting in brain damage.</td></tr>
 
-  ARCHER
-     You're losing a lot of blood. Hold still.
+<tr id="L136"><td><a href="#L136">136</a></td><td>TUCKER:  There's got to be some way we can make it safer.</td></tr>
 
-  ANNOTATION
-     We see someone is watching as Archer tends Shran's
-     wound.
+<tr id="L137"><td><a href="#L137">137</a></td><td>PHLOX:  Diagnostics will only tell us so much, I'm afraid.</td></tr>
 
-  ARCHER
-     Hold still. Bleeding's stopped, but if you move it
-     could start again.
+<tr id="L138"><td><a href="#L138">138</a></td><td>T'POL:  When can we test it?</td></tr>
 
-  SHRAN
-     We can't stay here. We'll freeze to death.
+<tr id="L139"><td><a href="#L139">139</a></td><td>PHLOX:  A day.</td></tr>
 
-  ARCHER
-     Archer to Enterprise. Archer to Enterprise.
+<tr id="L140"><td><a href="#L140">140</a></td><td>TUCKER:  I want to be the first one to try it out.</td></tr>
 
-  SHRAN
-     We're well inside the dampening field.
+<tr id="L141"><td><a href="#L141">141</a></td><td>T'POL:  You're not telepathic. It wouldn't be a true measure of the unit's effectiveness.</td></tr>
 
-  ARCHER
-     It doesn't hurt to try. How far are we from the
-     Aenar? (Shran spots the watcher.)
+<tr id="L142"><td><a href="#L142">142</a></td><td>TUCKER:  Well, at least we'll find out if it causes brain damage.</td></tr>
 
-  SHRAN
-     I think we just got a lot closer.
+<tr id="L143"><td><a href="#L143">143</a></td><td>T'POL:  I'll test the unit.</td></tr>
 
-  ANNOTATION
-     Several more of the pale-skinned, pale-dressed
-     people appear.
+<tr id="L144"><td><a href="#L144">144</a></td><td>TUCKER:  You're the ranking officer. Too risky.</td></tr>
 
-  ARCHER
-     Hello. We need your help. My friend's been hurt.
+<tr id="L145"><td><a href="#L145">145</a></td><td>T'POL:  Considering what's at stake, the risk is acceptable.</td></tr>
 
-  LISSAN
-     (a woman) We'll assist you.
+<tr id="L146"><td><a href="#L146">146</a></td><td>TUCKER:  We could at least wait until the Captain gets back.</td></tr>
 
+<tr id="L147"><td><a href="#L147">147</a></td><td>T'POL:  Our goal should be to have the unit ready by the time he returns. That means conducting a full series of tests. The discussion's closed. We have a lot of work to do.</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Aenar city</td></tr>
+<tr id="L148"><td><a href="#L148">148</a></td><td>ANNOTATION: Under the ice is a beautiful city of elegant curved buildings rising up in a massive cavern. In a room with ice furniture, Shran is being tended on a bed covered with fur when the woman walks in.</td></tr>
 
-  PHLOX
-     There's not as much data on the neural interface
-     as I'd like.
+<tr id="L149"><td><a href="#L149">149</a></td><td>LISSAN:  Your wound is healing well. You'll be able to walk on your own in a few hours.</td></tr>
 
-  T'POL
-     It's all we have.
+<tr id="L150"><td><a href="#L150">150</a></td><td>SHRAN:  My thanks.</td></tr>
 
-  PHLOX
-     I can connect someone to the unit, but it'll be
-     dangerous.
+<tr id="L151"><td><a href="#L151">151</a></td><td>ANNOTATION: The Aenar doctor leaves.</td></tr>
 
-  TUCKER
-     How dangerous?
+<tr id="L152"><td><a href="#L152">152</a></td><td>LISSAN:  You're Captain Archer.</td></tr>
 
-  PHLOX
-     If the interface malfunctions, there could be
-     severe neurolytic shock, possibly resulting in
-     brain damage.
+<tr id="L153"><td><a href="#L153">153</a></td><td>ARCHER:  You can read minds.</td></tr>
 
-  TUCKER
-     There's got to be some way we can make it safer.
+<tr id="L154"><td><a href="#L154">154</a></td><td>LISSAN:  We have a strict law here, Captain. No one may enter another's thoughts without permission. I know your name because the Andorian Chancellor contacted us.</td></tr>
 
-  PHLOX
-     Diagnostics will only tell us so much, I'm afraid.
+<tr id="L155"><td><a href="#L155">155</a></td><td>ARCHER:  I need to speak with someone in authority.</td></tr>
 
-  T'POL
-     When can we test it?
+<tr id="L156"><td><a href="#L156">156</a></td><td>LISSAN:  We assign our leaders as the need arises. For this occasion, I have been chosen as Speaker.</td></tr>
 
-  PHLOX
-     A day.
+<tr id="L157"><td><a href="#L157">157</a></td><td>ARCHER:  I take it you know why we're here.</td></tr>
 
-  TUCKER
-     I want to be the first one to try it out.
+<tr id="L158"><td><a href="#L158">158</a></td><td>LISSAN:  I know what the Andorians have told us. Someone's been attacking your ships, and you believe we're involved.</td></tr>
 
-  T'POL
-     You're not telepathic. It wouldn't be a true
-     measure of the unit's effectiveness.
+<tr id="L159"><td><a href="#L159">159</a></td><td>ARCHER:  It's a bit more complicated than that.</td></tr>
 
-  TUCKER
-     Well, at least we'll find out if it causes brain
-     damage.
+<tr id="L160"><td><a href="#L160">160</a></td><td>LISSAN:  It will save time and foster our trust, if I can have your thoughts.</td></tr>
 
-  T'POL
-     I'll test the unit.
+<tr id="L161"><td><a href="#L161">161</a></td><td>ANNOTATION: Shran shakes his head.</td></tr>
 
-  TUCKER
-     You're the ranking officer. Too risky.
+<tr id="L162"><td><a href="#L162">162</a></td><td>ARCHER:  Go ahead.</td></tr>
 
-  T'POL
-     Considering what's at stake, the risk is
-     acceptable.
+<tr id="L163"><td><a href="#L163">163</a></td><td>LISSAN:  You have an interesting mind, Captain. Many facets.</td></tr>
 
-  TUCKER
-     We could at least wait until the Captain gets
-     back.
+<tr id="L164"><td><a href="#L164">164</a></td><td>ARCHER:  Thank you.</td></tr>
 
-  T'POL
-     Our goal should be to have the unit ready by the
-     time he returns. That means conducting a full
-     series of tests. The discussion's closed. We have
-     a lot of work to do.
+<tr id="L165"><td><a href="#L165">165</a></td><td>LISSAN:  Some of those facets are in conflict.</td></tr>
 
+<tr id="L166"><td><a href="#L166">166</a></td><td>SHRAN:  That explains a lot.</td></tr>
 
-LOCATION--Aenar city
+<tr id="L167"><td><a href="#L167">167</a></td><td>ARCHER:  Shran.</td></tr>
 
-  ANNOTATION
-     Under the ice is a beautiful city of elegant
-     curved buildings rising up in a massive cavern. In
-     a room with ice furniture, Shran is being tended
-     on a bed covered with fur when the woman walks in.
+<tr id="L168"><td><a href="#L168">168</a></td><td>LISSAN:  The evidence you've gathered appears irrefutable. It seems there was an Aenar controlling that ship.</td></tr>
 
-  LISSAN
-     Your wound is healing well. You'll be able to walk
-     on your own in a few hours.
+<tr id="L169"><td><a href="#L169">169</a></td><td>ARCHER:  But you're sceptical.</td></tr>
 
-  SHRAN
-     My thanks.
+<tr id="L170"><td><a href="#L170">170</a></td><td>LISSAN:  We're a nonviolent people. That a member of our race could cause so much death, it's extremely disturbing.</td></tr>
 
-  ANNOTATION
-     The Aenar doctor leaves.
+<tr id="L171"><td><a href="#L171">171</a></td><td>ARCHER:  Do you have any idea who it could be?</td></tr>
 
-  LISSAN
-     You're Captain Archer.
+<tr id="L172"><td><a href="#L172">172</a></td><td>LISSAN:  There's one possibility.</td></tr>
 
-  ARCHER
-     You can read minds.
+<tr id="L173"><td><a href="#L173">173</a></td><td>SHRAN:  Who?</td></tr>
 
-  LISSAN
-     We have a strict law here, Captain. No one may
-     enter another's thoughts without permission. I
-     know your name because the Andorian Chancellor
-     contacted us.
+<tr id="L174"><td><a href="#L174">174</a></td><td>LISSAN:  A year ago, one of our citizens disappeared while collecting ice-bores. We assumed he'd been killed in an accident, but we never found his body.</td></tr>
 
-  ARCHER
-     I need to speak with someone in authority.
+<tr id="L175"><td><a href="#L175">175</a></td><td>SHRAN:  Now you know why.</td></tr>
 
-  LISSAN
-     We assign our leaders as the need arises. For this
-     occasion, I have been chosen as Speaker.
+<tr id="L176"><td><a href="#L176">176</a></td><td>LISSAN:  Gareb would not be doing this voluntarily.</td></tr>
 
-  ARCHER
-     I take it you know why we're here.
+<tr id="L177"><td><a href="#L177">177</a></td><td>ARCHER:  You think he was abducted?</td></tr>
 
-  LISSAN
-     I know what the Andorians have told us. Someone's
-     been attacking your ships, and you believe we're
-     involved.
+<tr id="L178"><td><a href="#L178">178</a></td><td>LISSAN:  It's the best explanation.</td></tr>
 
-  ARCHER
-     It's a bit more complicated than that.
+<tr id="L179"><td><a href="#L179">179</a></td><td>SHRAN:  It doesn't matter why he's doing it. He has to be stopped.</td></tr>
 
-  LISSAN
-     It will save time and foster our trust, if I can
-     have your thoughts.
+<tr id="L180"><td><a href="#L180">180</a></td><td>LISSAN:  This device that you're building aboard your ship.</td></tr>
 
-  ANNOTATION
-     Shran shakes his head.
+<tr id="L181"><td><a href="#L181">181</a></td><td>ARCHER:  We're hoping it will disrupt the signal that's controlling the marauder.</td></tr>
 
-  ARCHER
-     Go ahead.
+<tr id="L182"><td><a href="#L182">182</a></td><td>LISSAN:  You will need one of us to operate it.</td></tr>
 
-  LISSAN
-     You have an interesting mind, Captain. Many
-     facets.
+<tr id="L183"><td><a href="#L183">183</a></td><td>SHRAN:  You owe us that much, at least.</td></tr>
 
-  ARCHER
-     Thank you.
+<tr id="L184"><td><a href="#L184">184</a></td><td>LISSAN:  I'll consult with the others.</td></tr>
 
-  LISSAN
-     Some of those facets are in conflict.
+<tr><td></td><td>LOCATION--Mess hall</td></tr>
+<tr id="L185"><td><a href="#L185">185</a></td><td>TUCKER:  Coffee, strong.</td></tr>
 
-  SHRAN
-     That explains a lot.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L186"><td><a href="#L186">186</a></td><td>ANNOTATION: Walking back with his mug.</td></tr>
 
-  ARCHER
-     Shran.
+<tr id="L187"><td><a href="#L187">187</a></td><td>T'POL:  Commander.</td></tr>
 
-  LISSAN
-     The evidence you've gathered appears irrefutable.
-     It seems there was an Aenar controlling that ship.
+<tr id="L188"><td><a href="#L188">188</a></td><td>TUCKER:  Hey.</td></tr>
 
-  ARCHER
-     But you're sceptical.
+<tr id="L189"><td><a href="#L189">189</a></td><td>ANNOTATION: He keeps walking.</td></tr>
 
-  LISSAN
-     We're a nonviolent people. That a member of our
-     race could cause so much death, it's extremely
-     disturbing.
+<tr id="L190"><td><a href="#L190">190</a></td><td>T'POL:  Trip. I appreciate your concern for my safety.</td></tr>
 
-  ARCHER
-     Do you have any idea who it could be?
+<tr id="L191"><td><a href="#L191">191</a></td><td>TUCKER:  I just don't want Enterprise to lose a good officer.</td></tr>
 
-  LISSAN
-     There's one possibility.
+<tr id="L192"><td><a href="#L192">192</a></td><td>T'POL:  I think you're letting your feelings impact your work.</td></tr>
 
-  SHRAN
-     Who?
+<tr id="L193"><td><a href="#L193">193</a></td><td>TUCKER:  My work's as good as it's ever been. As far as my feelings go, they're purely professional.</td></tr>
 
-  LISSAN
-     A year ago, one of our citizens disappeared while
-     collecting ice-bores. We assumed he'd been killed
-     in an accident, but we never found his body.
+<tr><td></td><td>LOCATION--Aenar city</td></tr>
+<tr id="L194"><td><a href="#L194">194</a></td><td>SHRAN:  I've never been able to sleep with someone standing at the foot of my bed.</td></tr>
 
-  SHRAN
-     Now you know why.
+<tr id="L195"><td><a href="#L195">195</a></td><td>JHAMEL:  (a younger girl) I didn't mean to disturb you.</td></tr>
 
-  LISSAN
-     Gareb would not be doing this voluntarily.
+<tr id="L196"><td><a href="#L196">196</a></td><td>SHRAN:  Actually, I was awake. What is it?</td></tr>
 
-  ARCHER
-     You think he was abducted?
+<tr id="L197"><td><a href="#L197">197</a></td><td>JHAMEL:  I've never met a blueskin.</td></tr>
 
-  LISSAN
-     It's the best explanation.
+<tr id="L198"><td><a href="#L198">198</a></td><td>SHRAN:  You're blind. How can you tell my skin is blue?</td></tr>
 
-  SHRAN
-     It doesn't matter why he's doing it. He has to be
-     stopped.
+<tr id="L199"><td><a href="#L199">199</a></td><td>JHAMEL:  Don't ask me to explain. I was never very good at science.</td></tr>
 
-  LISSAN
-     This device that you're building aboard your ship.
+<tr id="L200"><td><a href="#L200">200</a></td><td>SOMEONE: SHRAN; Neither was I.</td></tr>
 
-  ARCHER
-     We're hoping it will disrupt the signal that's
-     controlling the marauder.
+<tr id="L201"><td><a href="#L201">201</a></td><td>JHAMEL:  Is it true that where you come from, the temperature rises above freezing for weeks at a time?</td></tr>
 
-  LISSAN
-     You will need one of us to operate it.
+<tr id="L202"><td><a href="#L202">202</a></td><td>SHRAN:  Every few years, there's a heat wave. I've been on worlds where the temperature is only slightly below the boiling point of water.</td></tr>
 
-  SHRAN
-     You owe us that much, at least.
+<tr id="L203"><td><a href="#L203">203</a></td><td>JHAMEL:  I can't imagine such a place.</td></tr>
 
-  LISSAN
-     I'll consult with the others.
+<tr id="L204"><td><a href="#L204">204</a></td><td>SHRAN:  I'm trying to forget it. I lost ten percent of my body weight in two days.</td></tr>
 
+<tr id="L205"><td><a href="#L205">205</a></td><td>JHAMEL:  I came here to apologise.</td></tr>
 
-LOCATION--Mess hall
+<tr id="L206"><td><a href="#L206">206</a></td><td>SHRAN:  For what?</td></tr>
 
-  TUCKER
-     Coffee, strong.
+<tr id="L207"><td><a href="#L207">207</a></td><td>JHAMEL:  When I saw you for the first time, I sensed some of your thoughts. I didn't intend to.</td></tr>
 
+<tr id="L208"><td><a href="#L208">208</a></td><td>SHRAN:  It's never been all that hard to figure out what I'm thinking.</td></tr>
 
-LOCATION--Corridor
+<tr id="L209"><td><a href="#L209">209</a></td><td>JHAMEL:  I know what it's like to lose someone. Gareb, the one who's missing, he's my brother.</td></tr>
 
-  ANNOTATION
-     Walking back with his mug.
+<tr id="L210"><td><a href="#L210">210</a></td><td>SHRAN:  I'm sorry.</td></tr>
 
-  T'POL
-     Commander.
+<tr id="L211"><td><a href="#L211">211</a></td><td>JHAMEL:  He would never hurt anyone, not intentionally.</td></tr>
 
-  TUCKER
-     Hey.
+<tr id="L212"><td><a href="#L212">212</a></td><td>SHRAN:  So we've been told.</td></tr>
 
-  ANNOTATION
-     He keeps walking.
+<tr id="L213"><td><a href="#L213">213</a></td><td>JHAMEL:  Do you think he's in pain?</td></tr>
 
-  T'POL
-     Trip. I appreciate your concern for my safety.
+<tr id="L214"><td><a href="#L214">214</a></td><td>SHRAN:  There's no way of knowing.</td></tr>
 
-  TUCKER
-     I just don't want Enterprise to lose a good
-     officer.
+<tr id="L215"><td><a href="#L215">215</a></td><td>JHAMEL:  I have nightmares. Gareb's bound, locked in a strange cage. He's calling for me. He wants me to rescue him.</td></tr>
 
-  T'POL
-     I think you're letting your feelings impact your
-     work.
+<tr><td></td><td>LOCATION--Control area</td></tr>
+<tr id="L216"><td><a href="#L216">216</a></td><td>ANNOTATION: Gareb is lead back in and put into the pilot's chair.</td></tr>
 
-  TUCKER
-     My work's as good as it's ever been. As far as my
-     feelings go, they're purely professional.
+<tr id="L217"><td><a href="#L217">217</a></td><td>NIJIL:  Forgive me.</td></tr>
 
+<tr id="L218"><td><a href="#L218">218</a></td><td>ANNOTATION: Nijil gives Gareb an injection.</td></tr>
 
-LOCATION--Aenar city
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L219"><td><a href="#L219">219</a></td><td>ANNOTATION: T'Pol is in Enterprise's equivalent of Gareb's chair, also with a helmet over her head, when Phlox switches it on.</td></tr>
 
-  SHRAN
-     I've never been able to sleep with someone
-     standing at the foot of my bed.
+<tr id="L220"><td><a href="#L220">220</a></td><td>PHLOX:  How do you feel?</td></tr>
 
-  JHAMEL
-     (a younger girl) I didn't mean to disturb you.
+<tr id="L221"><td><a href="#L221">221</a></td><td>T'POL:  I just need a moment.</td></tr>
 
-  SHRAN
-     Actually, I was awake. What is it?
+<tr id="L222"><td><a href="#L222">222</a></td><td>TUCKER:  Whenever you're ready. Indicator's moving. Doc?</td></tr>
 
-  JHAMEL
-     I've never met a blueskin.
+<tr id="L223"><td><a href="#L223">223</a></td><td>PHLOX:  So far, so good.</td></tr>
 
-  SHRAN
-     You're blind. How can you tell my skin is blue?
+<tr id="L224"><td><a href="#L224">224</a></td><td>TUCKER:  I'll be damned. It's working.</td></tr>
 
-  JHAMEL
-     Don't ask me to explain. I was never very good at
-     science.
+<tr id="L225"><td><a href="#L225">225</a></td><td>ANNOTATION: T'Pol tenses and whimpers.</td></tr>
 
-  SOMEONE
-     SHRAN; Neither was I.
+<tr id="L226"><td><a href="#L226">226</a></td><td>TUCKER:  She okay?</td></tr>
 
-  JHAMEL
-     Is it true that where you come from, the
-     temperature rises above freezing for weeks at a
-     time?
+<tr id="L227"><td><a href="#L227">227</a></td><td>PHLOX:  Her synaptic response is erratic.</td></tr>
 
-  SHRAN
-     Every few years, there's a heat wave. I've been on
-     worlds where the temperature is only slightly
-     below the boiling point of water.
+<tr id="L228"><td><a href="#L228">228</a></td><td>T'POL:  I'll be fine.</td></tr>
 
-  JHAMEL
-     I can't imagine such a place.
+<tr id="L229"><td><a href="#L229">229</a></td><td>PHLOX:  It's getting worse, Commander.</td></tr>
 
-  SHRAN
-     I'm trying to forget it. I lost ten percent of my
-     body weight in two days.
+<tr id="L230"><td><a href="#L230">230</a></td><td>TUCKER:  That's enough. Shut it down!</td></tr>
 
-  JHAMEL
-     I came here to apologise.
+<tr id="L231"><td><a href="#L231">231</a></td><td>ANNOTATION: He takes the helmet off her.</td></tr>
 
-  SHRAN
-     For what?
+<tr id="L232"><td><a href="#L232">232</a></td><td>PHLOX:  You're all right.</td></tr>
 
-  JHAMEL
-     When I saw you for the first time, I sensed some
-     of your thoughts. I didn't intend to.
+<tr id="L233"><td><a href="#L233">233</a></td><td>TUCKER:  It worked.</td></tr>
 
-  SHRAN
-     It's never been all that hard to figure out what
-     I'm thinking.
+<tr id="L234"><td><a href="#L234">234</a></td><td>T'POL:  I'll rest for a few minutes, and then we'll try again.</td></tr>
 
-  JHAMEL
-     I know what it's like to lose someone. Gareb, the
-     one who's missing, he's my brother.
+<tr><td></td><td>LOCATION--Aenar city</td></tr>
+<tr id="L235"><td><a href="#L235">235</a></td><td>ARCHER:  You said Gareb was abducted. If that's true, don't you want to help him?</td></tr>
 
-  SHRAN
-     I'm sorry.
+<tr id="L236"><td><a href="#L236">236</a></td><td>LISSAN:  Not with violence.</td></tr>
 
-  JHAMEL
-     He would never hurt anyone, not intentionally.
+<tr id="L237"><td><a href="#L237">237</a></td><td>ARCHER:  We're trying to stop violence.</td></tr>
 
-  SHRAN
-     So we've been told.
+<tr id="L238"><td><a href="#L238">238</a></td><td>LISSAN:  I won't deny that your intentions are honourable, but our decision stands.</td></tr>
 
-  JHAMEL
-     Do you think he's in pain?
+<tr id="L239"><td><a href="#L239">239</a></td><td>SHRAN:  Forget it, Captain. They've never even helped defend their own world. We're wasting our time.</td></tr>
 
-  SHRAN
-     There's no way of knowing.
+<tr><td></td><td>LOCATION--Control area</td></tr>
+<tr id="L240"><td><a href="#L240">240</a></td><td>NIJIL:  Systems ready.</td></tr>
 
-  JHAMEL
-     I have nightmares. Gareb's bound, locked in a
-     strange cage. He's calling for me. He wants me to
-     rescue him.
+<tr id="L241"><td><a href="#L241">241</a></td><td>VALDORE:  Launch the Drones.</td></tr>
 
+<tr id="L242"><td><a href="#L242">242</a></td><td>ANNOTATION: Two ships dash off to warp.</td></tr>
 
-LOCATION--Control area
+<tr><td></td><td>LOCATION--Andoria, ice tunnels</td></tr>
+<tr id="L243"><td><a href="#L243">243</a></td><td>JHAMEL:  You need to rest.</td></tr>
 
-  ANNOTATION
-     Gareb is lead back in and put into the pilot's
-     chair.
+<tr id="L244"><td><a href="#L244">244</a></td><td>SHRAN:  I've had enough rest.</td></tr>
 
-  NIJIL
-     Forgive me.
+<tr id="L245"><td><a href="#L245">245</a></td><td>ARCHER:  We should clear the dampening field soon.</td></tr>
 
-  ANNOTATION
-     Nijil gives Gareb an injection.
+<tr id="L246"><td><a href="#L246">246</a></td><td>JHAMEL:  Wait</td></tr>
 
+<tr id="L247"><td><a href="#L247">247</a></td><td>SHRAN:  What is it?</td></tr>
 
-LOCATION--Sickbay
+<tr id="L248"><td><a href="#L248">248</a></td><td>JHAMEL:  A swarm.</td></tr>
 
-  ANNOTATION
-     T'Pol is in Enterprise's equivalent of Gareb's
-     chair, also with a helmet over her head, when
-     Phlox switches it on.
+<tr id="L249"><td><a href="#L249">249</a></td><td>SHRAN:  I don't see anything.</td></tr>
 
-  PHLOX
-     How do you feel?
+<tr id="L250"><td><a href="#L250">250</a></td><td>ANNOTATION: Then worms drop out of the ceiling in front of them and burrow into the floor.</td></tr>
 
-  T'POL
-     I just need a moment.
+<tr id="L251"><td><a href="#L251">251</a></td><td>JHAMEL:  It'll take a few minutes for them to pass. Gareb and I loved chasing ice-bores. Once, we followed a swarm for two hours, caught hundreds of them. We were almost at the surface. My family was very worried. They're going to be worried about me now.</td></tr>
 
-  TUCKER
-     Whenever you're ready. Indicator's moving. Doc?
+<tr id="L252"><td><a href="#L252">252</a></td><td>SHRAN:  Are you sure you want to do this?</td></tr>
 
-  PHLOX
-     So far, so good.
+<tr id="L253"><td><a href="#L253">253</a></td><td>JHAMEL:  I won't abandon my brother. What's it like, your ship?</td></tr>
 
-  TUCKER
-     I'll be damned. It's working.
+<tr id="L254"><td><a href="#L254">254</a></td><td>ARCHER:  Warm.</td></tr>
 
-  ANNOTATION
-     T'Pol tenses and whimpers.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L255"><td><a href="#L255">255</a></td><td>ANNOTATION: Tucker whispers to Phlox, supposedly out of earshot of T'Pol.</td></tr>
 
-  TUCKER
-     She okay?
+<tr id="L256"><td><a href="#L256">256</a></td><td>TUCKER:  She wants to try again. You think it's smart?</td></tr>
 
-  PHLOX
-     Her synaptic response is erratic.
+<tr id="L257"><td><a href="#L257">257</a></td><td>PHLOX:  You know the risks. So does Commander T'Pol. Commander, she's doing her job.</td></tr>
 
-  T'POL
-     I'll be fine.
+<tr id="L258"><td><a href="#L258">258</a></td><td>TUCKER:  She's going to hurt herself.</td></tr>
 
-  PHLOX
-     It's getting worse, Commander.
+<tr id="L259"><td><a href="#L259">259</a></td><td>PHLOX:  Take my advice. Don't interfere.</td></tr>
 
-  TUCKER
-     That's enough. Shut it down!
+<tr id="L260"><td><a href="#L260">260</a></td><td>TUCKER:  I can't believe I'm getting this from you now. Has everyone on this ship gone crazy?</td></tr>
 
-  ANNOTATION
-     He takes the helmet off her.
+<tr id="L261"><td><a href="#L261">261</a></td><td>PHLOX:  Not everyone.</td></tr>
 
-  PHLOX
-     You're all right.
+<tr id="L262"><td><a href="#L262">262</a></td><td>TUCKER:  Oh, I'm crazy?</td></tr>
 
-  TUCKER
-     It worked.
+<tr id="L263"><td><a href="#L263">263</a></td><td>PHLOX:  It's not your fault. As far as I know, there are no species in the galaxy that have mastered the art of mixing romance and vocation.</td></tr>
 
-  T'POL
-     I'll rest for a few minutes, and then we'll try
-     again.
+<tr id="L264"><td><a href="#L264">264</a></td><td>TUCKER:  You're the last one that should be giving me a lecture. Vulcan neuro-pressure was your idea.</td></tr>
 
+<tr id="L265"><td><a href="#L265">265</a></td><td>PHLOX:  You were having trouble sleeping.</td></tr>
 
-LOCATION--Aenar city
+<tr id="L266"><td><a href="#L266">266</a></td><td>TUCKER:  What the hell am I going to do?</td></tr>
 
-  ARCHER
-     You said Gareb was abducted. If that's true, don't
-     you want to help him?
+<tr id="L267"><td><a href="#L267">267</a></td><td>PHLOX:  This is the one ailment that is universally untreatable. You'll have to suffer through it.</td></tr>
 
-  LISSAN
-     Not with violence.
+<tr><td></td><td>LOCATION--Andoria, ice tunnels</td></tr>
+<tr id="L268"><td><a href="#L268">268</a></td><td>ANNOTATION: There's a familiar lot of holes in the ceiling and floor.</td></tr>
 
-  ARCHER
-     We're trying to stop violence.
+<tr id="L269"><td><a href="#L269">269</a></td><td>ARCHER:  We've been here before.</td></tr>
 
-  LISSAN
-     I won't deny that your intentions are honourable,
-     but our decision stands.
+<tr id="L270"><td><a href="#L270">270</a></td><td>JHAMEL:  He's right, we're going in circles. They're trying to stop us.</td></tr>
 
-  SHRAN
-     Forget it, Captain. They've never even helped
-     defend their own world. We're wasting our time.
+<tr id="L271"><td><a href="#L271">271</a></td><td>ARCHER:  How?</td></tr>
 
+<tr id="L272"><td><a href="#L272">272</a></td><td>JHAMEL:  They're not letting us see the path to the surface.</td></tr>
 
-LOCATION--Control area
+<tr id="L273"><td><a href="#L273">273</a></td><td>SOMEONE: SHRAN; How could that be possible?</td></tr>
 
-  NIJIL
-     Systems ready.
+<tr id="L274"><td><a href="#L274">274</a></td><td>ANNOTATION: An image of Lissan flickers on the path in front of them.</td></tr>
 
-  VALDORE
-     Launch the Drones.
+<tr id="L275"><td><a href="#L275">275</a></td><td>LISSAN:  It's time to come back.</td></tr>
 
-  ANNOTATION
-     Two ships dash off to warp.
+<tr id="L276"><td><a href="#L276">276</a></td><td>JHAMEL:  I can't.</td></tr>
 
+<tr id="L277"><td><a href="#L277">277</a></td><td>SOMEONE: LISSAN; They're fighting a war. Do you want to be a part of that?</td></tr>
 
-LOCATION--Andoria, ice tunnels
+<tr id="L278"><td><a href="#L278">278</a></td><td>JHAMEL:  I don't want to fight anyone. I want to help my brother.</td></tr>
 
-  JHAMEL
-     You need to rest.
+<tr id="L279"><td><a href="#L279">279</a></td><td>SOMEONE: LISSAN; Help him by standing up for what we believe in.</td></tr>
 
-  SHRAN
-     I've had enough rest.
+<tr id="L280"><td><a href="#L280">280</a></td><td>ARCHER:  She's doing what she thinks is right.</td></tr>
 
-  ARCHER
-     We should clear the dampening field soon.
+<tr id="L281"><td><a href="#L281">281</a></td><td>LISSAN:  She's betraying her people.</td></tr>
 
-  JHAMEL
-     Wait
+<tr id="L282"><td><a href="#L282">282</a></td><td>ARCHER:  That's not true. Shouldn't she be allowed to follow her own conscience?</td></tr>
 
-  SHRAN
-     What is it?
+<tr id="L283"><td><a href="#L283">283</a></td><td>SOMEONE: LISSAN; She's not following her conscience.</td></tr>
 
-  JHAMEL
-     A swarm.
+<tr id="L284"><td><a href="#L284">284</a></td><td>ARCHER:  How do you know? Have you read her mind? I thought that was against your custom.</td></tr>
 
-  SHRAN
-     I don't see anything.
+<tr id="L285"><td><a href="#L285">285</a></td><td>LISSAN:  Jhamel.</td></tr>
 
-  ANNOTATION
-     Then worms drop out of the ceiling in front of
-     them and burrow into the floor.
+<tr id="L286"><td><a href="#L286">286</a></td><td>JHAMEL:  Take my thoughts.</td></tr>
 
-  JHAMEL
-     It'll take a few minutes for them to pass. Gareb
-     and I loved chasing ice-bores. Once, we followed a
-     swarm for two hours, caught hundreds of them. We
-     were almost at the surface. My family was very
-     worried. They're going to be worried about me now.
+<tr id="L287"><td><a href="#L287">287</a></td><td>SOMEONE: LISSAN; You're certain this is what you want?</td></tr>
 
-  SHRAN
-     Are you sure you want to do this?
+<tr id="L288"><td><a href="#L288">288</a></td><td>JHAMEL:  Yes.</td></tr>
 
-  JHAMEL
-     I won't abandon my brother. What's it like, your
-     ship?
+<tr id="L289"><td><a href="#L289">289</a></td><td>LISSAN:  Very well.</td></tr>
 
-  ARCHER
-     Warm.
+<tr id="L290"><td><a href="#L290">290</a></td><td>ANNOTATION: Her image vanishes and they see that they are at the surface, with the ringed planet hanging in the sky.</td></tr>
 
+<tr id="L291"><td><a href="#L291">291</a></td><td>SOMEONE: Captain's Starlog, supplemental. We've returned to Enterprise, where we received word that the cargo ship Ticonderoga is missing.</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L292"><td><a href="#L292">292</a></td><td>ARCHER:  Anything on long range sensors?</td></tr>
 
-  ANNOTATION
-     Tucker whispers to Phlox, supposedly out of
-     earshot of T'Pol.
+<tr id="L293"><td><a href="#L293">293</a></td><td>T'POL:  Not yet.</td></tr>
 
-  TUCKER
-     She wants to try again. You think it's smart?
+<tr id="L294"><td><a href="#L294">294</a></td><td>ARCHER:  What's our ETA?</td></tr>
 
-  PHLOX
-     You know the risks. So does Commander T'Pol.
-     Commander, she's doing her job.
+<tr id="L295"><td><a href="#L295">295</a></td><td>T'POL:  We'll be at their last known co-ordinates in six hours.</td></tr>
 
-  TUCKER
-     She's going to hurt herself.
+<tr id="L296"><td><a href="#L296">296</a></td><td>ARCHER:  Tell Malcolm to finish his upgrades to the targeting scanners. If we run into that marauder again, I want to make sure every shot counts.</td></tr>
 
-  PHLOX
-     Take my advice. Don't interfere.
+<tr id="L297"><td><a href="#L297">297</a></td><td>T'POL:  Understood.</td></tr>
 
-  TUCKER
-     I can't believe I'm getting this from you now. Has
-     everyone on this ship gone crazy?
+<tr id="L298"><td><a href="#L298">298</a></td><td>ANNOTATION: She leaves him and he walks straight into -</td></tr>
 
-  PHLOX
-     Not everyone.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L299"><td><a href="#L299">299</a></td><td>ARCHER:  Report?</td></tr>
 
-  TUCKER
-     Oh, I'm crazy?
+<tr id="L300"><td><a href="#L300">300</a></td><td>TUCKER:  She's good to go.</td></tr>
 
-  PHLOX
-     It's not your fault. As far as I know, there are
-     no species in the galaxy that have mastered the
-     art of mixing romance and vocation.
+<tr id="L301"><td><a href="#L301">301</a></td><td>ANNOTATION: Jhamel is seated on the modified biobed.</td></tr>
 
-  TUCKER
-     You're the last one that should be giving me a
-     lecture. Vulcan neuro-pressure was your idea.
+<tr id="L302"><td><a href="#L302">302</a></td><td>ARCHER:  Whenever you're ready.</td></tr>
 
-  PHLOX
-     You were having trouble sleeping.
+<tr id="L303"><td><a href="#L303">303</a></td><td>JHAMEL:  I'm ready, Captain.</td></tr>
 
-  TUCKER
-     What the hell am I going to do?
+<tr id="L304"><td><a href="#L304">304</a></td><td>ANNOTATION: The helmet is lowered over her head. Tucker reads the monitor.</td></tr>
 
-  PHLOX
-     This is the one ailment that is universally
-     untreatable. You'll have to suffer through it.
+<tr id="L305"><td><a href="#L305">305</a></td><td>TUCKER:  A lot of movement. Fifty percent spike.</td></tr>
 
+<tr id="L306"><td><a href="#L306">306</a></td><td>SOMEONE: ARCHER; Are you feeling all right?</td></tr>
 
-LOCATION--Andoria, ice tunnels
+<tr id="L307"><td><a href="#L307">307</a></td><td>SHRAN:  We can stop anytime you like.</td></tr>
 
-  ANNOTATION
-     There's a familiar lot of holes in the ceiling and
-     floor.
+<tr id="L308"><td><a href="#L308">308</a></td><td>JHAMEL:  It's strangely enjoyable.</td></tr>
 
-  ARCHER
-     We've been here before.
+<tr id="L309"><td><a href="#L309">309</a></td><td>TUCKER:  She's maxed it out.</td></tr>
 
-  JHAMEL
-     He's right, we're going in circles. They're trying
-     to stop us.
+<tr id="L310"><td><a href="#L310">310</a></td><td>JHAMEL:  Is that good?</td></tr>
 
-  ARCHER
-     How?
+<tr id="L311"><td><a href="#L311">311</a></td><td>ARCHER:  Very good.</td></tr>
 
-  JHAMEL
-     They're not letting us see the path to the
-     surface.
+<tr id="L312"><td><a href="#L312">312</a></td><td>JHAMEL:  Is there another test we can try?</td></tr>
 
-  SOMEONE
-     SHRAN; How could that be possible?
+<tr id="L313"><td><a href="#L313">313</a></td><td>TUCKER:  We could simulate a course correction.</td></tr>
 
-  ANNOTATION
-     An image of Lissan flickers on the path in front
-     of them.
+<tr id="L314"><td><a href="#L314">314</a></td><td>ANNOTATION: The biobed sways from side to side, then she gasps.</td></tr>
 
-  LISSAN
-     It's time to come back.
+<tr id="L315"><td><a href="#L315">315</a></td><td>PHLOX:  Synaptic trouble.</td></tr>
 
-  JHAMEL
-     I can't.
+<tr id="L316"><td><a href="#L316">316</a></td><td>SHRAN:  Shut it down!</td></tr>
 
-  SOMEONE
-     LISSAN; They're fighting a war. Do you want to be
-     a part of that?
+<tr id="L317"><td><a href="#L317">317</a></td><td>ANNOTATION: They get the helmet off her and Phlox gives her an injection.</td></tr>
 
-  JHAMEL
-     I don't want to fight anyone. I want to help my
-     brother.
+<tr id="L318"><td><a href="#L318">318</a></td><td>SOMEONE: Captain's Starlog, supplemental. We've arrived at the last known co-ordinates of the Ticonderoga.</td></tr>
 
-  SOMEONE
-     LISSAN; Help him by standing up for what we
-     believe in.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L319"><td><a href="#L319">319</a></td><td>T'POL:  I'm picking up debris. Hull fragments. Nacelle casings. Several bodies, human.</td></tr>
 
-  ARCHER
-     She's doing what she thinks is right.
+<tr id="L320"><td><a href="#L320">320</a></td><td>ARCHER:  Keep scanning. Try to find the marauder's warp signature.</td></tr>
 
-  LISSAN
-     She's betraying her people.
+<tr id="L321"><td><a href="#L321">321</a></td><td>T'POL:  Is there any word from Sickbay?</td></tr>
 
-  ARCHER
-     That's not true. Shouldn't she be allowed to
-     follow her own conscience?
+<tr id="L322"><td><a href="#L322">322</a></td><td>ARCHER:  She's going to be okay, but Phlox says it's too dangerous to try again. Looks like we went all the way to Andoria for nothing.</td></tr>
 
-  SOMEONE
-     LISSAN; She's not following her conscience.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L323"><td><a href="#L323">323</a></td><td>JHAMEL:  What happened?</td></tr>
 
-  ARCHER
-     How do you know? Have you read her mind? I thought
-     that was against your custom.
+<tr id="L324"><td><a href="#L324">324</a></td><td>SHRAN:  You had a convulsion. You're all right now.</td></tr>
 
-  LISSAN
-     Jhamel.
+<tr id="L325"><td><a href="#L325">325</a></td><td>JHAMEL:  I was dreaming about Gareb. I failed, didn't I?</td></tr>
 
-  JHAMEL
-     Take my thoughts.
+<tr id="L326"><td><a href="#L326">326</a></td><td>SHRAN:  Ridiculous. That kind of bravery is never a failure. I'm a commander in the Imperial Guard. I'd be afraid to go anywhere near that thing.</td></tr>
 
-  SOMEONE
-     LISSAN; You're certain this is what you want?
+<tr id="L327"><td><a href="#L327">327</a></td><td>JHAMEL:  Talas was a fortunate woman.</td></tr>
 
-  JHAMEL
-     Yes.
+<tr id="L328"><td><a href="#L328">328</a></td><td>SHRAN:  I was the fortunate one.</td></tr>
 
-  LISSAN
-     Very well.
+<tr id="L329"><td><a href="#L329">329</a></td><td>JHAMEL:  My brother is going to die, isn't he?</td></tr>
 
-  ANNOTATION
-     Her image vanishes and they see that they are at
-     the surface, with the ringed planet hanging in the
-     sky.
+<tr id="L330"><td><a href="#L330">330</a></td><td>SHRAN:  I won't hear that from you.</td></tr>
 
-  SOMEONE
-     Captain's Starlog, supplemental. We've returned to
-     Enterprise, where we received word that the cargo
-     ship Ticonderoga is missing.
+<tr id="L331"><td><a href="#L331">331</a></td><td>JHAMEL:  It's hard to be strong.</td></tr>
 
+<tr id="L332"><td><a href="#L332">332</a></td><td>SHRAN:  You make it look easy. Keep being strong. For me.</td></tr>
 
-LOCATION--Corridor
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L333"><td><a href="#L333">333</a></td><td>T'POL:  A ship's dropping out of warp. It appears to be a Tellarite freighter.</td></tr>
 
-  ARCHER
-     Anything on long range sensors?
+<tr id="L334"><td><a href="#L334">334</a></td><td>ARCHER:  Tactical Alert. Hail them. Target their engines.</td></tr>
 
-  T'POL
-     Not yet.
+<tr id="L335"><td><a href="#L335">335</a></td><td>T'POL:  If it is a freighter.</td></tr>
 
-  ARCHER
-     What's our ETA?
+<tr id="L336"><td><a href="#L336">336</a></td><td>ARCHER:  Anything?</td></tr>
 
-  T'POL
-     We'll be at their last known co-ordinates in six
-     hours.
+<tr id="L337"><td><a href="#L337">337</a></td><td>ANNOTATION: Hoshi shakes her head.</td></tr>
 
-  ARCHER
-     Tell Malcolm to finish his upgrades to the
-     targeting scanners. If we run into that marauder
-     again, I want to make sure every shot counts.
+<tr id="L338"><td><a href="#L338">338</a></td><td>TRAVIS:  One hundred kilometres.</td></tr>
 
-  T'POL
-     Understood.
+<tr id="L339"><td><a href="#L339">339</a></td><td>ARCHER:  Fire.</td></tr>
 
-  ANNOTATION
-     She leaves him and he walks straight into -
+<tr id="L340"><td><a href="#L340">340</a></td><td>ANNOTATION: The freighter loses its holographic skin and reverts to its proper appearance - a Drone, which attacks.</td></tr>
 
+<tr id="L341"><td><a href="#L341">341</a></td><td>SOMEONE: ARCHER; Aim for their weapons.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L342"><td><a href="#L342">342</a></td><td>SOMEONE: REED; They're too damned fast. I can't get a target lock.</td></tr>
 
-  ARCHER
-     Report?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L343"><td><a href="#L343">343</a></td><td>JHAMEL:  What's happening?</td></tr>
 
-  TUCKER
-     She's good to go.
+<tr id="L344"><td><a href="#L344">344</a></td><td>SHRAN:  We're under attack. I'm going to the Bridge.</td></tr>
 
-  ANNOTATION
-     Jhamel is seated on the modified biobed.
+<tr id="L345"><td><a href="#L345">345</a></td><td>JHAMEL:  Wait. I can feel him.</td></tr>
 
-  ARCHER
-     Whenever you're ready.
+<tr id="L346"><td><a href="#L346">346</a></td><td>ANNOTATION: She gets up.</td></tr>
 
-  JHAMEL
-     I'm ready, Captain.
+<tr id="L347"><td><a href="#L347">347</a></td><td>SOMEONE: PHLOX; Where do you think you're going?</td></tr>
 
-  ANNOTATION
-     The helmet is lowered over her head. Tucker reads
-     the monitor.
+<tr id="L348"><td><a href="#L348">348</a></td><td>JHAMEL:  Connect me to the device, I need to try again.</td></tr>
 
-  TUCKER
-     A lot of movement. Fifty percent spike.
+<tr id="L349"><td><a href="#L349">349</a></td><td>SOMEONE: PHLOX; I can't allow it. You barely survived the last attempt.</td></tr>
 
-  SOMEONE
-     ARCHER; Are you feeling all right?
+<tr id="L350"><td><a href="#L350">350</a></td><td>JHAMEL:  I can reach him. I can make him stop.</td></tr>
 
-  SHRAN
-     We can stop anytime you like.
+<tr id="L351"><td><a href="#L351">351</a></td><td>SHRAN:  Let her try.</td></tr>
 
-  JHAMEL
-     It's strangely enjoyable.
+<tr><td></td><td>LOCATION--Control area</td></tr>
+<tr id="L352"><td><a href="#L352">352</a></td><td>NIJIL:  Enterprise is taking heavy damage.</td></tr>
 
-  TUCKER
-     She's maxed it out.
+<tr id="L353"><td><a href="#L353">353</a></td><td>VALDORE:  Target with the second Drone. Attack vector one seven seven.</td></tr>
 
-  JHAMEL
-     Is that good?
+<tr id="L354"><td><a href="#L354">354</a></td><td>NIJIL:  It may not be necessary.</td></tr>
 
-  ARCHER
-     Very good.
+<tr id="L355"><td><a href="#L355">355</a></td><td>VALDORE:  Follow my orders.</td></tr>
 
-  JHAMEL
-     Is there another test we can try?
+<tr id="L356"><td><a href="#L356">356</a></td><td>NIJIL:  Yes, Admiral.</td></tr>
 
-  TUCKER
-     We could simulate a course correction.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L357"><td><a href="#L357">357</a></td><td>REED:  Another ship's approaching, bearing oh one six mark twelve. An Andorian battle cruiser.</td></tr>
 
-  ANNOTATION
-     The biobed sways from side to side, then she
-     gasps.
+<tr id="L358"><td><a href="#L358">358</a></td><td>ARCHER:  T'Pol?</td></tr>
 
-  PHLOX
-     Synaptic trouble.
+<tr id="L359"><td><a href="#L359">359</a></td><td>T'POL:  It's power signature is not Andorian.</td></tr>
 
-  SHRAN
-     Shut it down!
+<tr id="L360"><td><a href="#L360">360</a></td><td>ARCHER:  Target them!</td></tr>
 
-  ANNOTATION
-     They get the helmet off her and Phlox gives her an
-     injection.
+<tr id="L361"><td><a href="#L361">361</a></td><td>T'POL:  Captain, I'm picking up an energy reading from Sickbay. It's the telepresence unit.</td></tr>
 
-  SOMEONE
-     Captain's Starlog, supplemental. We've arrived at
-     the last known co-ordinates of the Ticonderoga.
+<tr id="L362"><td><a href="#L362">362</a></td><td>ARCHER:  Archer to Sickbay. What's going on?</td></tr>
 
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L363"><td><a href="#L363">363</a></td><td>SOMEONE: PHLOX; Jhamel's going to make another attempt.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L364"><td><a href="#L364">364</a></td><td>ARCHER:  Is she up to it?</td></tr>
 
-  T'POL
-     I'm picking up debris. Hull fragments. Nacelle
-     casings. Several bodies, human.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L365"><td><a href="#L365">365</a></td><td>PHLOX:  She's quite insistent.</td></tr>
 
-  ARCHER
-     Keep scanning. Try to find the marauder's warp
-     signature.
+<tr id="L366"><td><a href="#L366">366</a></td><td>ANNOTATION: The second Drone reveals its true appearance.</td></tr>
 
-  T'POL
-     Is there any word from Sickbay?
+<tr id="L367"><td><a href="#L367">367</a></td><td>PHLOX:  Cortical fluctuation. It could trigger a seizure.</td></tr>
 
-  ARCHER
-     She's going to be okay, but Phlox says it's too
-     dangerous to try again. Looks like we went all the
-     way to Andoria for nothing.
+<tr id="L368"><td><a href="#L368">368</a></td><td>SHRAN:  Jhamel.</td></tr>
 
+<tr id="L369"><td><a href="#L369">369</a></td><td>JHAMEL:  I can do it.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L370"><td><a href="#L370">370</a></td><td>PHLOX:  Disconnect her. Now!</td></tr>
 
-  JHAMEL
-     What happened?
+<tr id="L371"><td><a href="#L371">371</a></td><td>JHAMEL:  No!</td></tr>
 
-  SHRAN
-     You had a convulsion. You're all right now.
+<tr id="L372"><td><a href="#L372">372</a></td><td>SHRAN:  She can do this.</td></tr>
 
-  JHAMEL
-     I was dreaming about Gareb. I failed, didn't I?
+<tr><td></td><td>LOCATION--Control area</td></tr>
+<tr id="L373"><td><a href="#L373">373</a></td><td>NIJIL:  They've lost warp power.</td></tr>
 
-  SHRAN
-     Ridiculous. That kind of bravery is never a
-     failure. I'm a commander in the Imperial Guard.
-     I'd be afraid to go anywhere near that thing.
+<tr id="L374"><td><a href="#L374">374</a></td><td>VALDORE:  Continue targeting their engines.</td></tr>
 
-  JHAMEL
-     Talas was a fortunate woman.
+<tr id="L375"><td><a href="#L375">375</a></td><td>NIJIL:  Someone's tapping into the telemetric array.</td></tr>
 
-  SHRAN
-     I was the fortunate one.
+<tr><td></td><td>LOCATION--Telepathic conversation</td></tr>
+<tr id="L376"><td><a href="#L376">376</a></td><td>GAREB:  Jhamel?</td></tr>
 
-  JHAMEL
-     My brother is going to die, isn't he?
+<tr id="L377"><td><a href="#L377">377</a></td><td>JHAMEL:  It's me.</td></tr>
 
-  SHRAN
-     I won't hear that from you.
+<tr id="L378"><td><a href="#L378">378</a></td><td>GAREB:  It's not possible. How?</td></tr>
 
-  JHAMEL
-     It's hard to be strong.
+<tr id="L379"><td><a href="#L379">379</a></td><td>JHAMEL:  You have to stop what you're doing.</td></tr>
 
-  SHRAN
-     You make it look easy. Keep being strong. For me.
+<tr id="L380"><td><a href="#L380">380</a></td><td>GAREB:  Where are you?</td></tr>
 
+<tr id="L381"><td><a href="#L381">381</a></td><td>JHAMEL:  I'm on the ship you're attacking.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Control area</td></tr>
+<tr id="L382"><td><a href="#L382">382</a></td><td>VALDORE:  Both Drones are coming to a stop. We're defenceless.</td></tr>
 
-  T'POL
-     A ship's dropping out of warp. It appears to be a
-     Tellarite freighter.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L383"><td><a href="#L383">383</a></td><td>REED:  They've stopped firing.</td></tr>
 
-  ARCHER
-     Tactical Alert. Hail them. Target their engines.
+<tr><td></td><td>LOCATION--Telepathic conversation</td></tr>
+<tr id="L384"><td><a href="#L384">384</a></td><td>GAREB:  I thought you were dead. They said I was the last surviving Aenar.</td></tr>
 
-  T'POL
-     If it is a freighter.
+<tr id="L385"><td><a href="#L385">385</a></td><td>JHAMEL:  They lied to you.</td></tr>
 
-  ARCHER
-     Anything?
+<tr id="L386"><td><a href="#L386">386</a></td><td>GAREB:  I've killed so many people.</td></tr>
 
-  ANNOTATION
-     Hoshi shakes her head.
+<tr id="L387"><td><a href="#L387">387</a></td><td>JHAMEL:  It wasn't you. It was them, they forced you. You can stop it. You know what you have to do.</td></tr>
 
-  TRAVIS
-     One hundred kilometres.
+<tr><td></td><td>LOCATION--Control area</td></tr>
+<tr id="L388"><td><a href="#L388">388</a></td><td>NIJIL:  The first Drone is targeting the second.</td></tr>
 
-  ARCHER
-     Fire.
+<tr id="L389"><td><a href="#L389">389</a></td><td>VALDORE:  Take all weapons offline.</td></tr>
 
-  ANNOTATION
-     The freighter loses its holographic skin and
-     reverts to its proper appearance - a Drone, which
-     attacks.
+<tr id="L390"><td><a href="#L390">390</a></td><td>NIJIL:  I've lost access.</td></tr>
 
-  SOMEONE
-     ARCHER; Aim for their weapons.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L391"><td><a href="#L391">391</a></td><td>REED:  They're attacking each other.</td></tr>
 
-  SOMEONE
-     REED; They're too damned fast. I can't get a
-     target lock.
+<tr id="L392"><td><a href="#L392">392</a></td><td>ARCHER:  Let's give them a hand. Photonic torpedoes, full spread.</td></tr>
 
+<tr id="L393"><td><a href="#L393">393</a></td><td>REED:  Aye, sir.</td></tr>
 
-LOCATION--Sickbay
+<tr><td></td><td>LOCATION--Control area</td></tr>
+<tr id="L394"><td><a href="#L394">394</a></td><td>VALDORE:  (grabbing Gareb) Stop this! Now.</td></tr>
 
-  JHAMEL
-     What's happening?
+<tr id="L395"><td><a href="#L395">395</a></td><td>NIJIL:  No!</td></tr>
 
-  SHRAN
-     We're under attack. I'm going to the Bridge.
+<tr id="L396"><td><a href="#L396">396</a></td><td>VALDORE:  Resume your attack on the Earth ship.</td></tr>
 
-  JHAMEL
-     Wait. I can feel him.
+<tr><td></td><td>LOCATION--Telepathic conversation</td></tr>
+<tr id="L397"><td><a href="#L397">397</a></td><td>GAREB:  Remember me, Jhamel.</td></tr>
 
-  ANNOTATION
-     She gets up.
+<tr id="L398"><td><a href="#L398">398</a></td><td>JHAMEL:  Gareb!</td></tr>
 
-  SOMEONE
-     PHLOX; Where do you think you're going?
+<tr id="L399"><td><a href="#L399">399</a></td><td>ANNOTATION: As one Drone blows the other to pieces, Valdore kills Gareb. Shran and Phlox get Jhamel out of the telepresence device and Reed blows up the other Drone. Shran comforts Jhamel.</td></tr>
 
-  JHAMEL
-     Connect me to the device, I need to try again.
+<tr><td></td><td>LOCATION--Transporter alcove</td></tr>
+<tr id="L400"><td><a href="#L400">400</a></td><td>ARCHER:  I want to thank you again.</td></tr>
 
-  SOMEONE
-     PHLOX; I can't allow it. You barely survived the
-     last attempt.
+<tr id="L401"><td><a href="#L401">401</a></td><td>JHAMEL:  I owe you a thanks. If I hadn't come with you, my brother would have died alone. Goodbye, Captain.</td></tr>
 
-  JHAMEL
-     I can reach him. I can make him stop.
+<tr id="L402"><td><a href="#L402">402</a></td><td>ARCHER:  Goodbye.</td></tr>
 
-  SHRAN
-     Let her try.
+<tr id="L403"><td><a href="#L403">403</a></td><td>SHRAN:  I regret much of what happened between us recently.</td></tr>
 
+<tr id="L404"><td><a href="#L404">404</a></td><td>ARCHER:  Same here.</td></tr>
 
-LOCATION--Control area
+<tr id="L405"><td><a href="#L405">405</a></td><td>SHRAN:  When you lose your ship, you aren't usually rewarded with another one. I may not see you for a while.</td></tr>
 
-  NIJIL
-     Enterprise is taking heavy damage.
+<tr id="L406"><td><a href="#L406">406</a></td><td>T'POL:  If there's anything we can do or say on your behalf.</td></tr>
 
-  VALDORE
-     Target with the second Drone. Attack vector one
-     seven seven.
+<tr id="L407"><td><a href="#L407">407</a></td><td>SHRAN:  I appreciate the offer. Let's just see what the future brings. Try to stay out of trouble, pinkskin.</td></tr>
 
-  NIJIL
-     It may not be necessary.
+<tr><td></td><td>LOCATION--Deleted Scene - Control area</td></tr>
+<tr id="L408"><td><a href="#L408">408</a></td><td>SOMEONE: Valdore is sitting in the Drone helm seat when Vrax and two Reman enter.)</td></tr>
 
-  VALDORE
-     Follow my orders.
+<tr id="L409"><td><a href="#L409">409</a></td><td>VALDORE:  Senator, I assume I'm under arrest.</td></tr>
 
-  NIJIL
-     Yes, Admiral.
+<tr id="L410"><td><a href="#L410">410</a></td><td>VRAX:  We're both under arrest.</td></tr>
 
+<tr id="L411"><td><a href="#L411">411</a></td><td>VALDORE:  So it seems I'll be serving with you again. Nijil, goodbye.</td></tr>
 
-LOCATION--Bridge
+<tr id="L412"><td><a href="#L412">412</a></td><td>NIJIL:  The failure is mine, not yours.</td></tr>
 
-  REED
-     Another ship's approaching, bearing oh one six
-     mark twelve. An Andorian battle cruiser.
+<tr id="L413"><td><a href="#L413">413</a></td><td>VALDORE:  Spoken like a soldier.</td></tr>
 
-  ARCHER
-     T'Pol?
+<tr id="L414"><td><a href="#L414">414</a></td><td>ANNOTATION: Vrax and Valdore are taken away.</td></tr>
 
-  T'POL
-     It's power signature is not Andorian.
+<tr id="L415"><td><a href="#L415">415</a></td><td>SOMEONE: Captain's Starlog, supplemental. There's been no sign of any other marauder ships. We're returning Shran and Jhamel to Andoria.</td></tr>
 
-  ARCHER
-     Target them!
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L416"><td><a href="#L416">416</a></td><td>ARCHER:  Come in.</td></tr>
 
-  T'POL
-     Captain, I'm picking up an energy reading from
-     Sickbay. It's the telepresence unit.
+<tr id="L417"><td><a href="#L417">417</a></td><td>ANNOTATION: Tucker enters.</td></tr>
 
-  ARCHER
-     Archer to Sickbay. What's going on?
+<tr id="L418"><td><a href="#L418">418</a></td><td>ARCHER:  I've been looking over your report. I think you're being a little hard on yourself.</td></tr>
 
+<tr id="L419"><td><a href="#L419">419</a></td><td>TUCKER:  There's no getting around it. I missed a ten degree variance in the telepresence emitter.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L420"><td><a href="#L420">420</a></td><td>ARCHER:  I spoke with Phlox. He doesn't think it had anything to do with Jhamel's seizure.</td></tr>
 
-  SOMEONE
-     PHLOX; Jhamel's going to make another attempt.
+<tr id="L421"><td><a href="#L421">421</a></td><td>TUCKER:  But he can't be sure. Either way, I should have caught it.</td></tr>
 
+<tr id="L422"><td><a href="#L422">422</a></td><td>ARCHER:  We were all under a lot of pressure.</td></tr>
 
-LOCATION--Bridge
+<tr id="L423"><td><a href="#L423">423</a></td><td>TUCKER:  My mind wasn't on the job.</td></tr>
 
-  ARCHER
-     Is she up to it?
+<tr id="L424"><td><a href="#L424">424</a></td><td>ARCHER:  If that were true, we probably wouldn't be standing here now.</td></tr>
 
+<tr id="L425"><td><a href="#L425">425</a></td><td>TUCKER:  Captain, I want a transfer.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L426"><td><a href="#L426">426</a></td><td>ARCHER:  Where?</td></tr>
 
-  PHLOX
-     She's quite insistent.
+<tr id="L427"><td><a href="#L427">427</a></td><td>TUCKER:  Columbia. They need experienced people.</td></tr>
 
-  ANNOTATION
-     The second Drone reveals its true appearance.
+<tr id="L428"><td><a href="#L428">428</a></td><td>ARCHER:  You turned them down twice before. Why now?</td></tr>
 
-  PHLOX
-     Cortical fluctuation. It could trigger a seizure.
+<tr id="L429"><td><a href="#L429">429</a></td><td>TUCKER:  I think I can do some good over there.</td></tr>
 
-  SHRAN
-     Jhamel.
+<tr id="L430"><td><a href="#L430">430</a></td><td>ARCHER:  I need you here, Trip.</td></tr>
 
-  JHAMEL
-     I can do it.
+<tr id="L431"><td><a href="#L431">431</a></td><td>TUCKER:  They need me more.</td></tr>
 
-  PHLOX
-     Disconnect her. Now!
+<tr id="L432"><td><a href="#L432">432</a></td><td>ARCHER:  What's this really about?</td></tr>
 
-  JHAMEL
-     No!
+<tr id="L433"><td><a href="#L433">433</a></td><td>TUCKER:  I told you.</td></tr>
 
-  SHRAN
-     She can do this.
+<tr id="L434"><td><a href="#L434">434</a></td><td>ARCHER:  I haven't heard one thing that explains this.</td></tr>
 
+<tr id="L435"><td><a href="#L435">435</a></td><td>TUCKER:  I've said everything I want to.</td></tr>
 
-LOCATION--Control area
+<tr id="L436"><td><a href="#L436">436</a></td><td>ARCHER:  That's it? I'm supposed to accept that? And if I refuse your transfer?</td></tr>
 
-  NIJIL
-     They've lost warp power.
+<tr id="L437"><td><a href="#L437">437</a></td><td>TUCKER:  Captain, as a friend, I'm asking you let me do this.</td></tr>
 
-  VALDORE
-     Continue targeting their engines.
+<tr id="L438"><td><a href="#L438">438</a></td><td>ARCHER:  It's your career, Trip. But as a friend, I'm asking you to stay.</td></tr>
 
-  NIJIL
-     Someone's tapping into the telemetric array.
+<tr id="L439"><td><a href="#L439">439</a></td><td>TUCKER:  I can't.</td></tr>
 
+<tr id="L440"><td><a href="#L440">440</a></td><td>ARCHER:  All right.</td></tr>
 
-LOCATION--Telepathic conversation
+<tr id="L441"><td><a href="#L441">441</a></td><td>TUCKER:  Thank you.</td></tr>
 
-  GAREB
-     Jhamel?
+<tr id="L442"><td><a href="#L442">442</a></td><td>ARCHER:  Dismissed.</td></tr>
 
-  JHAMEL
-     It's me.
-
-  GAREB
-     It's not possible. How?
-
-  JHAMEL
-     You have to stop what you're doing.
-
-  GAREB
-     Where are you?
-
-  JHAMEL
-     I'm on the ship you're attacking.
-
-
-LOCATION--Control area
-
-  VALDORE
-     Both Drones are coming to a stop. We're
-     defenceless.
-
-
-LOCATION--Bridge
-
-  REED
-     They've stopped firing.
-
-
-LOCATION--Telepathic conversation
-
-  GAREB
-     I thought you were dead. They said I was the last
-     surviving Aenar.
-
-  JHAMEL
-     They lied to you.
-
-  GAREB
-     I've killed so many people.
-
-  JHAMEL
-     It wasn't you. It was them, they forced you. You
-     can stop it. You know what you have to do.
-
-
-LOCATION--Control area
-
-  NIJIL
-     The first Drone is targeting the second.
-
-  VALDORE
-     Take all weapons offline.
-
-  NIJIL
-     I've lost access.
-
-
-LOCATION--Bridge
-
-  REED
-     They're attacking each other.
-
-  ARCHER
-     Let's give them a hand. Photonic torpedoes, full
-     spread.
-
-  REED
-     Aye, sir.
-
-
-LOCATION--Control area
-
-  VALDORE
-     (grabbing Gareb) Stop this! Now.
-
-  NIJIL
-     No!
-
-  VALDORE
-     Resume your attack on the Earth ship.
-
-
-LOCATION--Telepathic conversation
-
-  GAREB
-     Remember me, Jhamel.
-
-  JHAMEL
-     Gareb!
-
-  ANNOTATION
-     As one Drone blows the other to pieces, Valdore
-     kills Gareb. Shran and Phlox get Jhamel out of the
-     telepresence device and Reed blows up the other
-     Drone. Shran comforts Jhamel.
-
-
-LOCATION--Transporter alcove
-
-  ARCHER
-     I want to thank you again.
-
-  JHAMEL
-     I owe you a thanks. If I hadn't come with you, my
-     brother would have died alone. Goodbye, Captain.
-
-  ARCHER
-     Goodbye.
-
-  SHRAN
-     I regret much of what happened between us
-     recently.
-
-  ARCHER
-     Same here.
-
-  SHRAN
-     When you lose your ship, you aren't usually
-     rewarded with another one. I may not see you for a
-     while.
-
-  T'POL
-     If there's anything we can do or say on your
-     behalf.
-
-  SHRAN
-     I appreciate the offer. Let's just see what the
-     future brings. Try to stay out of trouble,
-     pinkskin.
-
-
-LOCATION--Deleted Scene - Control area
-
-  SOMEONE
-     Valdore is sitting in the Drone helm seat when
-     Vrax and two Reman enter.)
-
-  VALDORE
-     Senator, I assume I'm under arrest.
-
-  VRAX
-     We're both under arrest.
-
-  VALDORE
-     So it seems I'll be serving with you again. Nijil,
-     goodbye.
-
-  NIJIL
-     The failure is mine, not yours.
-
-  VALDORE
-     Spoken like a soldier.
-
-  ANNOTATION
-     Vrax and Valdore are taken away.
-
-  SOMEONE
-     Captain's Starlog, supplemental. There's been no
-     sign of any other marauder ships. We're returning
-     Shran and Jhamel to Andoria.
-
-
-LOCATION--Ready room
-
-  ARCHER
-     Come in.
-
-  ANNOTATION
-     Tucker enters.
-
-  ARCHER
-     I've been looking over your report. I think you're
-     being a little hard on yourself.
-
-  TUCKER
-     There's no getting around it. I missed a ten
-     degree variance in the telepresence emitter.
-
-  ARCHER
-     I spoke with Phlox. He doesn't think it had
-     anything to do with Jhamel's seizure.
-
-  TUCKER
-     But he can't be sure. Either way, I should have
-     caught it.
-
-  ARCHER
-     We were all under a lot of pressure.
-
-  TUCKER
-     My mind wasn't on the job.
-
-  ARCHER
-     If that were true, we probably wouldn't be
-     standing here now.
-
-  TUCKER
-     Captain, I want a transfer.
-
-  ARCHER
-     Where?
-
-  TUCKER
-     Columbia. They need experienced people.
-
-  ARCHER
-     You turned them down twice before. Why now?
-
-  TUCKER
-     I think I can do some good over there.
-
-  ARCHER
-     I need you here, Trip.
-
-  TUCKER
-     They need me more.
-
-  ARCHER
-     What's this really about?
-
-  TUCKER
-     I told you.
-
-  ARCHER
-     I haven't heard one thing that explains this.
-
-  TUCKER
-     I've said everything I want to.
-
-  ARCHER
-     That's it? I'm supposed to accept that? And if I
-     refuse your transfer?
-
-  TUCKER
-     Captain, as a friend, I'm asking you let me do
-     this.
-
-  ARCHER
-     It's your career, Trip. But as a friend, I'm
-     asking you to stay.
-
-  TUCKER
-     I can't.
-
-  ARCHER
-     All right.
-
-  TUCKER
-     Thank you.
-
-  ARCHER
-     Dismissed.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

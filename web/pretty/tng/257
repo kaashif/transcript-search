@@ -1,1514 +1,717 @@
-Gambit part 2
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Gambit part 2</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: the weapons fire definitely hits the starboard nacelle</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>WORF:  Direct hit to the port nacelle. Only minimal damage. Hit to the starboard nacelle. Still, no appreciable damage.</td></tr>
 
-  ANNOTATION
-     the weapons fire definitely hits the starboard
-     nacelle
+<tr id="L3"><td><a href="#L3">3</a></td><td>TROI:  Will must've done something to their weapons.</td></tr>
 
-  WORF
-     Direct hit to the port nacelle. Only minimal
-     damage. Hit to the starboard nacelle. Still, no
-     appreciable damage.
+<tr id="L4"><td><a href="#L4">4</a></td><td>DATA:  I believe you are right, Counsellor. It is now up to us to play along. Release inertial dampers and cut power to decks thirty one through thirty seven.</td></tr>
 
-  TROI
-     Will must've done something to their weapons.
+<tr id="L5"><td><a href="#L5">5</a></td><td>GIUSTI:  Aye, sir.</td></tr>
 
-  DATA
-     I believe you are right, Counsellor. It is now up
-     to us to play along. Release inertial dampers and
-     cut power to decks thirty one through thirty
-     seven.
+<tr id="L6"><td><a href="#L6">6</a></td><td>DATA:  Set phasers to twenty five percent. Return fire.</td></tr>
 
-  GIUSTI
-     Aye, sir.
+<tr id="L7"><td><a href="#L7">7</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  DATA
-     Set phasers to twenty five percent. Return fire.
+<tr><td></td><td>LOCATION--Mercenary Bridge</td></tr>
+<tr id="L8"><td><a href="#L8">8</a></td><td>BARAN:  Continue firing!</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L9"><td><a href="#L9">9</a></td><td>PICARD:  I've lost three plasma relays on the disruptors. Auxiliary power is, is not available.</td></tr>
 
+<tr id="L10"><td><a href="#L10">10</a></td><td>BARAN:  Transfer weapons control to my station. There's a way to bypass the relays and feed power</td></tr>
 
-LOCATION--Mercenary Bridge
+<tr id="L11"><td><a href="#L11">11</a></td><td>ANNOTATION: another hit</td></tr>
 
-  BARAN
-     Continue firing!
+<tr id="L12"><td><a href="#L12">12</a></td><td>NARIK:  The antimatter containment units are starting to buckle!</td></tr>
 
-  PICARD
-     I've lost three plasma relays on the disruptors.
-     Auxiliary power is, is not available.
+<tr id="L13"><td><a href="#L13">13</a></td><td>TALLERA:  The Enterprise has been badly damaged but they still have superior firepower. If we remain here, we will be destroyed. The logical course of action is to withdraw.</td></tr>
 
-  BARAN
-     Transfer weapons control to my station. There's a
-     way to bypass the relays and feed power
+<tr id="L14"><td><a href="#L14">14</a></td><td>BARAN:  We've done enough damage. Narik, set course one eight zero, mark two one five. Warp six. Initiate.</td></tr>
 
-  ANNOTATION
-     another hit
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L15"><td><a href="#L15">15</a></td><td>GIUSTI:  They're preparing to activate their warp drive, Commander.</td></tr>
 
-  NARIK
-     The antimatter containment units are starting to
-     buckle!
+<tr id="L16"><td><a href="#L16">16</a></td><td>WORF:  Sir, we cannot be able to track them with our sensors if they go to warp. I can still disable them</td></tr>
 
-  TALLERA
-     The Enterprise has been badly damaged but they
-     still have superior firepower. If we remain here,
-     we will be destroyed. The logical course of action
-     is to withdraw.
+<tr id="L17"><td><a href="#L17">17</a></td><td>DATA:  I am aware of the tactical situation, Lieutenant. Let them go.</td></tr>
 
-  BARAN
-     We've done enough damage. Narik, set course one
-     eight zero, mark two one five. Warp six. Initiate.
+<tr id="L18"><td><a href="#L18">18</a></td><td>ANNOTATION: after the opening credits, at the science station</td></tr>
 
+<tr id="L19"><td><a href="#L19">19</a></td><td>TROI:  I've gone over every word, every inflection, every facial response, and I still can't find any kind of code or hidden message.</td></tr>
 
-LOCATION--Bridge
+<tr id="L20"><td><a href="#L20">20</a></td><td>DATA:  I agree the existence of such a message is remote, but I believe we should check.</td></tr>
 
-  GIUSTI
-     They're preparing to activate their warp drive,
-     Commander.
+<tr id="L21"><td><a href="#L21">21</a></td><td>TROI:  I'll keep trying.</td></tr>
 
-  WORF
-     Sir, we cannot be able to track them with our
-     sensors if they go to warp. I can still disable
-     them
+<tr id="L22"><td><a href="#L22">22</a></td><td>WORF:  Two starships have been sent to intercept the mercenaries at Yadalla Prime and Draken Four, in case they attempt to attack those planets.</td></tr>
 
-  DATA
-     I am aware of the tactical situation, Lieutenant.
-     Let them go.
+<tr id="L23"><td><a href="#L23">23</a></td><td>DATA:  Inform Starfleet Command that we will hold this position until further notice.</td></tr>
 
-  ANNOTATION
-     after the opening credits, at the science station
+<tr id="L24"><td><a href="#L24">24</a></td><td>WORF:  So, we are just going to remain here?</td></tr>
 
-  TROI
-     I've gone over every word, every inflection, every
-     facial response, and I still can't find any kind
-     of code or hidden message.
+<tr id="L25"><td><a href="#L25">25</a></td><td>DATA:  Yes, but we will continue to pursue all avenues of investigation.</td></tr>
 
-  DATA
-     I agree the existence of such a message is remote,
-     but I believe we should check.
+<tr id="L26"><td><a href="#L26">26</a></td><td>WORF:  If we had not let them to escape, this would not be necessary.</td></tr>
 
-  TROI
-     I'll keep trying.
+<tr id="L27"><td><a href="#L27">27</a></td><td>DATA:  That is correct. But I believe Commander Riker wanted us to let them escape.</td></tr>
 
-  WORF
-     Two starships have been sent to intercept the
-     mercenaries at Yadalla Prime and Draken Four, in
-     case they attempt to attack those planets.
+<tr id="L28"><td><a href="#L28">28</a></td><td>LAFORGE:  Commander, I think I've got something. I've been studying the comm. link Commander Riker used to transmit his command codes. I didn't see anything at first, but then I ran the transmission through a subharmonic analysis. I found this. It was sent by the same carrier wave as the command codes.</td></tr>
 
-  DATA
-     Inform Starfleet Command that we will hold this
-     position until further notice.
+<tr id="L29"><td><a href="#L29">29</a></td><td>TROI:  It might be the message we've been looking for.</td></tr>
 
-  WORF
-     So, we are just going to remain here?
+<tr id="L30"><td><a href="#L30">30</a></td><td>DATA:  Possibly. I will attempt to resequence the signal. Begin running a search for a decryption key.</td></tr>
 
-  DATA
-     Yes, but we will continue to pursue all avenues of
-     investigation.
+<tr><td></td><td>LOCATION--Mercenary Bridge</td></tr>
+<tr id="L31"><td><a href="#L31">31</a></td><td>ANNOTATION: at another planet</td></tr>
 
-  WORF
-     If we had not let them to escape, this would not
-     be necessary.
+<tr id="L32"><td><a href="#L32">32</a></td><td>NARIK:  I'm taking the engines offline.</td></tr>
 
-  DATA
-     That is correct. But I believe Commander Riker
-     wanted us to let them escape.
+<tr id="L33"><td><a href="#L33">33</a></td><td>BARAN:  How long will it take to repair our battle damage?</td></tr>
 
-  LAFORGE
-     Commander, I think I've got something. I've been
-     studying the comm. link Commander Riker used to
-     transmit his command codes. I didn't see anything
-     at first, but then I ran the transmission through
-     a subharmonic analysis. I found this. It was sent
-     by the same carrier wave as the command codes.
+<tr id="L34"><td><a href="#L34">34</a></td><td>NARIK:  It will take at least five hours to replace the antimatter containment unit.</td></tr>
 
-  TROI
-     It might be the message we've been looking for.
+<tr id="L35"><td><a href="#L35">35</a></td><td>BARAN:  You have three hours, Narik. One minute beyond that and you'll answer for it with your life. I suppose I should thank you. None of us would be alive if it weren't for you.</td></tr>
 
-  DATA
-     Possibly. I will attempt to resequence the signal.
-     Begin running a search for a decryption key.
+<tr id="L36"><td><a href="#L36">36</a></td><td>RIKER:  You're welcome.</td></tr>
 
+<tr id="L37"><td><a href="#L37">37</a></td><td>PICARD:  What's wrong, Commander? You having second thoughts about betraying your comrades? Because that's what you've done, betrayed them. Betrayed them in order to save yourself. You used to be just a second rate officer, now you're a traitor and a coward. How does that feel?</td></tr>
 
-LOCATION--Mercenary Bridge
+<tr id="L38"><td><a href="#L38">38</a></td><td>ANNOTATION: Riker punches Picard</td></tr>
 
-  ANNOTATION
-     at another planet
+<tr id="L39"><td><a href="#L39">39</a></td><td>RIKER:  I don't know. How did that feel?</td></tr>
 
-  NARIK
-     I'm taking the engines offline.
+<tr id="L40"><td><a href="#L40">40</a></td><td>BARAN:  That's enough. Galen, go down to the cargo hold and check out those artefacts. Move.</td></tr>
 
-  BARAN
-     How long will it take to repair our battle damage?
+<tr><td></td><td>LOCATION--Mercenary Cargo hold</td></tr>
+<tr id="L41"><td><a href="#L41">41</a></td><td>ANNOTATION: Tallera enters</td></tr>
 
-  NARIK
-     It will take at least five hours to replace the
-     antimatter containment unit.
+<tr id="L42"><td><a href="#L42">42</a></td><td>PICARD:  You can tell Baran that I'm working as fast as I can. What?</td></tr>
 
-  BARAN
-     You have three hours, Narik. One minute beyond
-     that and you'll answer for it with your life. I
-     suppose I should thank you. None of us would be
-     alive if it weren't for you.
+<tr id="L43"><td><a href="#L43">43</a></td><td>TALLERA:  I'm trying to decide if you're incredibly stupid or incredibly smart. Why didn't you continue to fire on the Enterprise when their shields dropped?</td></tr>
 
-  RIKER
-     You're welcome.
+<tr id="L44"><td><a href="#L44">44</a></td><td>PICARD:  You were there. The disruptors lost power. Computer, reset for diagnostic of new sample. Begin scan.</td></tr>
 
-  PICARD
-     What's wrong, Commander? You having second
-     thoughts about betraying your comrades? Because
-     that's what you've done, betrayed them. Betrayed
-     them in order to save yourself. You used to be
-     just a second rate officer, now you're a traitor
-     and a coward. How does that feel?
+<tr id="L45"><td><a href="#L45">45</a></td><td>TALLERA:  I've watched you handle the weapon systems before. You know exactly how to bypass a problem like that. And why do you continue to argue with Riker? It should be obvious that by alienating Riker you also alienate Baran, and yet you continue to do so. Why?</td></tr>
 
-  ANNOTATION
-     Riker punches Picard
+<tr id="L46"><td><a href="#L46">46</a></td><td>COMPUTER:  Scan complete. Terikon profile negative.</td></tr>
 
-  RIKER
-     I don't know. How did that feel?
+<tr id="L47"><td><a href="#L47">47</a></td><td>PICARD:  Computer, reset diagnostic for new sample and begin scan. Look this isn't a Romulan labour camp. I don't have to answer your questions. And I don't give a damn what you think.</td></tr>
 
-  BARAN
-     That's enough. Galen, go down to the cargo hold
-     and check out those artefacts. Move.
+<tr id="L48"><td><a href="#L48">48</a></td><td>COMPUTER:  Scan complete. Terikon profile positive. Ninety eight percent probability of match.</td></tr>
 
+<tr id="L49"><td><a href="#L49">49</a></td><td>PICARD:  Well, whatever it is we're looking for, it seems we've found it.</td></tr>
 
-LOCATION--Mercenary Cargo hold
+<tr id="L50"><td><a href="#L50">50</a></td><td>TALLERA:  Tallera to Captain.</td></tr>
 
-  ANNOTATION
-     Tallera enters
+<tr id="L51"><td><a href="#L51">51</a></td><td>BARAN [OC]:  Yes, what is it?</td></tr>
 
-  PICARD
-     You can tell Baran that I'm working as fast as I
-     can. What?
+<tr id="L52"><td><a href="#L52">52</a></td><td>TALLERA:  I'm in the cargo hold. Galen's made a positive Terikon match on</td></tr>
 
-  TALLERA
-     I'm trying to decide if you're incredibly stupid
-     or incredibly smart. Why didn't you continue to
-     fire on the Enterprise when their shields dropped?
+<tr><td></td><td>LOCATION--Baran's quarters</td></tr>
+<tr id="L53"><td><a href="#L53">53</a></td><td>TALLERA [OC]:  One of the artefacts.</td></tr>
 
-  PICARD
-     You were there. The disruptors lost power.
-     Computer, reset for diagnostic of new sample.
-     Begin scan.
+<tr id="L54"><td><a href="#L54">54</a></td><td>BARAN:  Good. Bring it to me immediately. Don't let anyone get near it.</td></tr>
 
-  TALLERA
-     I've watched you handle the weapon systems before.
-     You know exactly how to bypass a problem like
-     that. And why do you continue to argue with Riker?
-     It should be obvious that by alienating Riker you
-     also alienate Baran, and yet you continue to do
-     so. Why?
+<tr id="L55"><td><a href="#L55">55</a></td><td>TALLERA [OC]:  Understood. Tallera out.</td></tr>
 
-  COMPUTER
-     Scan complete. Terikon profile negative.
+<tr id="L56"><td><a href="#L56">56</a></td><td>RIKER:  That sounds like good news.</td></tr>
 
-  PICARD
-     Computer, reset diagnostic for new sample and
-     begin scan. Look this isn't a Romulan labour camp.
-     I don't have to answer your questions. And I don't
-     give a damn what you think.
+<tr id="L57"><td><a href="#L57">57</a></td><td>BARAN:  Very. It means we've completed half of what promises to be a very profitable mission. And even better than that, I'm almost ready to get rid of your friend Galen.</td></tr>
 
-  COMPUTER
-     Scan complete. Terikon profile positive. Ninety
-     eight percent probability of match.
+<tr id="L58"><td><a href="#L58">58</a></td><td>RIKER:  Really?</td></tr>
 
-  PICARD
-     Well, whatever it is we're looking for, it seems
-     we've found it.
+<tr id="L59"><td><a href="#L59">59</a></td><td>BARAN:  There's one more artefact to find. Once Galen confirms that it's genuine, his usefulness on this ship will come to a very sudden end.</td></tr>
 
-  TALLERA
-     Tallera to Captain.
+<tr id="L60"><td><a href="#L60">60</a></td><td>RIKER:  I can't say I'm sorry to hear that.</td></tr>
 
-  BARAN [OC]
-     Yes, what is it?
+<tr id="L61"><td><a href="#L61">61</a></td><td>BARAN:  Galen might be a loud mouthed fool, but sometimes he's quite perceptive. His observations about you, for instance.</td></tr>
 
-  TALLERA
-     I'm in the cargo hold. Galen's made a positive
-     Terikon match on
+<tr id="L62"><td><a href="#L62">62</a></td><td>RIKER:  Oh?</td></tr>
 
+<tr id="L63"><td><a href="#L63">63</a></td><td>BARAN:  After what you did on Calder Two, I doubt if you have much of a future in Starfleet.</td></tr>
 
-LOCATION--Baran's quarters
+<tr id="L64"><td><a href="#L64">64</a></td><td>RIKER:  Yes, I must say I've come to the same conclusion.</td></tr>
 
-  TALLERA [OC]
-     One of the artefacts.
+<tr id="L65"><td><a href="#L65">65</a></td><td>BARAN:  Well, assuming that you were not my prisoner, what would you do now?</td></tr>
 
-  BARAN
-     Good. Bring it to me immediately. Don't let anyone
-     get near it.
+<tr id="L66"><td><a href="#L66">66</a></td><td>RIKER:  I guess I'd start looking for a new career. There must be a place where someone with fifteen years of Starfleet technical knowledge would be useful. You wouldn't happen to know a place like that?</td></tr>
 
-  TALLERA [OC]
-     Understood. Tallera out.
+<tr id="L67"><td><a href="#L67">67</a></td><td>BARAN:  Well, possibly. However, there's one thing that I have learned on this ship, and that's to be cautious and never to blindly embrace what might appear to be good fortune. And right now, you're a rather large stroke of good luck.</td></tr>
 
-  RIKER
-     That sounds like good news.
+<tr id="L68"><td><a href="#L68">68</a></td><td>RIKER:  I haven't exactly sworn my undying allegiance to you either, Baran. For instance, I'd like to know a little bit more about the job.</td></tr>
 
-  BARAN
-     Very. It means we've completed half of what
-     promises to be a very profitable mission. And even
-     better than that, I'm almost ready to get rid of
-     your friend Galen.
+<tr id="L69"><td><a href="#L69">69</a></td><td>BARAN:  Such as?</td></tr>
 
-  RIKER
-     Really?
+<tr id="L70"><td><a href="#L70">70</a></td><td>RIKER:  Such as what you meant by a very profitable mission.</td></tr>
 
-  BARAN
-     There's one more artefact to find. Once Galen
-     confirms that it's genuine, his usefulness on this
-     ship will come to a very sudden end.
+<tr id="L71"><td><a href="#L71">71</a></td><td>BARAN:  Well, it's enough to know right now that your share will ensure a very wealthy and long life far from the Federation.</td></tr>
 
-  RIKER
-     I can't say I'm sorry to hear that.
+<tr id="L72"><td><a href="#L72">72</a></td><td>RIKER:  Sounds promising.</td></tr>
 
-  BARAN
-     Galen might be a loud mouthed fool, but sometimes
-     he's quite perceptive. His observations about you,
-     for instance.
+<tr id="L73"><td><a href="#L73">73</a></td><td>BARAN:  It is, only you're going to have to earn it. And you can start by putting aside your dislike for Galen and becoming his friend.</td></tr>
 
-  RIKER
-     Oh?
+<tr id="L74"><td><a href="#L74">74</a></td><td>RIKER:  Why?</td></tr>
 
-  BARAN
-     After what you did on Calder Two, I doubt if you
-     have much of a future in Starfleet.
+<tr id="L75"><td><a href="#L75">75</a></td><td>BARAN:  Galen has allies on this ship. They could cause trouble if I decide to kill him. I want you to find out from him who they are.</td></tr>
 
-  RIKER
-     Yes, I must say I've come to the same conclusion.
+<tr id="L76"><td><a href="#L76">76</a></td><td>RIKER:  Okay.</td></tr>
 
-  BARAN
-     Well, assuming that you were not my prisoner, what
-     would you do now?
+<tr id="L77"><td><a href="#L77">77</a></td><td>BARAN:  One more thing, Riker. When the time comes, I want you to kill Galen.</td></tr>
 
-  RIKER
-     I guess I'd start looking for a new career. There
-     must be a place where someone with fifteen years
-     of Starfleet technical knowledge would be useful.
-     You wouldn't happen to know a place like that?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L78"><td><a href="#L78">78</a></td><td>ANNOTATION: science station</td></tr>
 
-  BARAN
-     Well, possibly. However, there's one thing that I
-     have learned on this ship, and that's to be
-     cautious and never to blindly embrace what might
-     appear to be good fortune. And right now, you're a
-     rather large stroke of good luck.
+<tr id="L79"><td><a href="#L79">79</a></td><td>DATA:  I have completed my analysis of the signal from the mercenary ship. I believe these groupings represent bearings and coordinates taken from their navigational system.</td></tr>
 
-  RIKER
-     I haven't exactly sworn my undying allegiance to
-     you either, Baran. For instance, I'd like to know
-     a little bit more about the job.
+<tr id="L80"><td><a href="#L80">80</a></td><td>LAFORGE:  So you think this is their flight plan?</td></tr>
 
-  BARAN
-     Such as?
+<tr id="L81"><td><a href="#L81">81</a></td><td>DATA:  Yes. If I am correct, the mercenary ship is heading toward these coordinates in the Hyralan Sector.</td></tr>
 
-  RIKER
-     Such as what you meant by a very profitable
-     mission.
+<tr id="L82"><td><a href="#L82">82</a></td><td>WORF:  Their maximum speed is warp eight point seven. It will take them at least fourteen hours to reach that position.</td></tr>
 
-  BARAN
-     Well, it's enough to know right now that your
-     share will ensure a very wealthy and long life far
-     from the Federation.
+<tr id="L83"><td><a href="#L83">83</a></td><td>LAFORGE:  We could be there in five.</td></tr>
 
-  RIKER
-     Sounds promising.
+<tr id="L84"><td><a href="#L84">84</a></td><td>DATA:  Make it so.</td></tr>
 
-  BARAN
-     It is, only you're going to have to earn it. And
-     you can start by putting aside your dislike for
-     Galen and becoming his friend.
+<tr id="L85"><td><a href="#L85">85</a></td><td>WORF:  Finally. Set course for the Hyralan Sector and engage at warp nine.</td></tr>
 
-  RIKER
-     Why?
+<tr id="L86"><td><a href="#L86">86</a></td><td>ENSIGN:  Aye, sir.</td></tr>
 
-  BARAN
-     Galen has allies on this ship. They could cause
-     trouble if I decide to kill him. I want you to
-     find out from him who they are.
+<tr id="L87"><td><a href="#L87">87</a></td><td>DATA:  Lieutenant, may I see you in the ready room?</td></tr>
 
-  RIKER
-     Okay.
+<tr id="L88"><td><a href="#L88">88</a></td><td>WORF:  Of course.</td></tr>
 
-  BARAN
-     One more thing, Riker. When the time comes, I want
-     you to kill Galen.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L89"><td><a href="#L89">89</a></td><td>DATA:  Lieutenant, I am dissatisfied with your performance as First Officer.</td></tr>
 
+<tr id="L90"><td><a href="#L90">90</a></td><td>WORF:  May I ask in what way?</td></tr>
 
-LOCATION--Bridge
+<tr id="L91"><td><a href="#L91">91</a></td><td>DATA:  You continually question my orders in front of the crew. I do not believe this is appropriate behaviour.</td></tr>
 
-  ANNOTATION
-     science station
+<tr id="L92"><td><a href="#L92">92</a></td><td>WORF:  With all due respect, sir, I have always felt free to voice my opinions even when they differ from those of Captain Picard or Commander Riker.</td></tr>
 
-  DATA
-     I have completed my analysis of the signal from
-     the mercenary ship. I believe these groupings
-     represent bearings and coordinates taken from
-     their navigational system.
+<tr id="L93"><td><a href="#L93">93</a></td><td>DATA:  That is true. But in those situations, you were acting as Head of Security, not as First Officer. The primary role of the second in command is to carry out the decisions of the Captain in this case, me.</td></tr>
 
-  LAFORGE
-     So you think this is their flight plan?
+<tr id="L94"><td><a href="#L94">94</a></td><td>WORF:  But is it not my duty to offer you alternatives?</td></tr>
 
-  DATA
-     Yes. If I am correct, the mercenary ship is
-     heading toward these coordinates in the Hyralan
-     Sector.
+<tr id="L95"><td><a href="#L95">95</a></td><td>DATA:  Yes. But once I have made a decision, it is your job to carry it out regardless of how you may personally feel. Any further objections should be given to me in private, not in front of the crew. I do not recall Commander Riker ever publicly showing irritation with his Captain as you did a moment ago.</td></tr>
 
-  WORF
-     Their maximum speed is warp eight point seven. It
-     will take them at least fourteen hours to reach
-     that position.
+<tr id="L96"><td><a href="#L96">96</a></td><td>WORF:  No, sir.</td></tr>
 
-  LAFORGE
-     We could be there in five.
+<tr id="L97"><td><a href="#L97">97</a></td><td>DATA:  If you do not feel capable of carrying out this role, I will assign it to Commander La Forge and return you to Tactical. I would not enter it into your record as a reprimand, simply as a transfer.</td></tr>
 
-  DATA
-     Make it so.
+<tr id="L98"><td><a href="#L98">98</a></td><td>WORF:  I would prefer to remain at my current post.</td></tr>
 
-  WORF
-     Finally. Set course for the Hyralan Sector and
-     engage at warp nine.
+<tr id="L99"><td><a href="#L99">99</a></td><td>DATA:  Then I expect you to conform to the guidelines I have laid out.</td></tr>
 
-  ENSIGN
-     Aye, sir.
+<tr id="L100"><td><a href="#L100">100</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  DATA
-     Lieutenant, may I see you in the ready room?
+<tr id="L101"><td><a href="#L101">101</a></td><td>DATA:  Dismissed. Mister Worf, I am sorry if I have ended our friendship.</td></tr>
 
-  WORF
-     Of course.
+<tr id="L102"><td><a href="#L102">102</a></td><td>WORF:  Sir, it is I who has jeopardised our friendship, not you. If you will overlook this incident, I would like to continue to consider you my friend.</td></tr>
 
+<tr id="L103"><td><a href="#L103">103</a></td><td>DATA:  I would like that as well.</td></tr>
 
-LOCATION--Ready room
+<tr id="L104"><td><a href="#L104">104</a></td><td>WORF:  Thank you, sir.</td></tr>
 
-  DATA
-     Lieutenant, I am dissatisfied with your
-     performance as First Officer.
+<tr><td></td><td>LOCATION--Picard's room</td></tr>
+<tr id="L105"><td><a href="#L105">105</a></td><td>ANNOTATION: Picard pulls a weapon as the door opens</td></tr>
 
-  WORF
-     May I ask in what way?
+<tr id="L106"><td><a href="#L106">106</a></td><td>RIKER:  Good to see you, too.</td></tr>
 
-  DATA
-     You continually question my orders in front of the
-     crew. I do not believe this is appropriate
-     behaviour.
+<tr id="L107"><td><a href="#L107">107</a></td><td>PICARD:  I've had some unpleasant surprises. Will, this isn't a good idea. Baran might grow suspicious.</td></tr>
 
-  WORF
-     With all due respect, sir, I have always felt free
-     to voice my opinions even when they differ from
-     those of Captain Picard or Commander Riker.
+<tr id="L108"><td><a href="#L108">108</a></td><td>RIKER:  As a matter of fact, it was Baran who sent me here. He told me to pretend to be friendly with you and help you organise a mutiny, so he can determine who your supporters in the crew and then eliminate them.</td></tr>
 
-  DATA
-     That is true. But in those situations, you were
-     acting as Head of Security, not as First Officer.
-     The primary role of the second in command is to
-     carry out the decisions of the Captain in this
-     case, me.
+<tr id="L109"><td><a href="#L109">109</a></td><td>PICARD:  What a tangled web we weave. I have difficulty remembering whose side I'm on. So, what have you been able to find out?</td></tr>
 
-  WORF
-     But is it not my duty to offer you alternatives?
+<tr id="L110"><td><a href="#L110">110</a></td><td>RIKER:  When we reach the Hyralan Sector, we're supposed to rendezvous with a Klingon transport ship. I'm not sure, but I think they may be delivering another of the Romulan artefacts to us.</td></tr>
 
-  DATA
-     Yes. But once I have made a decision, it is your
-     job to carry it out regardless of how you may
-     personally feel. Any further objections should be
-     given to me in private, not in front of the crew.
-     I do not recall Commander Riker ever publicly
-     showing irritation with his Captain as you did a
-     moment ago.
+<tr id="L111"><td><a href="#L111">111</a></td><td>PICARD:  A second artefact? Oh, by the way, that first artefacts is not Romulan. It's Vulcan.</td></tr>
 
-  WORF
-     No, sir.
+<tr id="L112"><td><a href="#L112">112</a></td><td>RIKER:  Vulcan?</td></tr>
 
-  DATA
-     If you do not feel capable of carrying out this
-     role, I will assign it to Commander La Forge and
-     return you to Tactical. I would not enter it into
-     your record as a reprimand, simply as a transfer.
+<tr id="L113"><td><a href="#L113">113</a></td><td>PICARD:  I have been looking over the glyphs and pictograms from the Calder Two artefact. And although I don't have enough data to translate all the inscriptions, the alphabet and symbology is much more consistent with early Vulcan than Romulan.</td></tr>
 
-  WORF
-     I would prefer to remain at my current post.
+<tr id="L114"><td><a href="#L114">114</a></td><td>RIKER:  Do these artefacts have some religious or cultural significance, something that would make them valuable enough to kill for?</td></tr>
 
-  DATA
-     Then I expect you to conform to the guidelines I
-     have laid out.
+<tr id="L115"><td><a href="#L115">115</a></td><td>PICARD:  I don't know. If I could just get access to the Enterprise computer just for a few moments. So, what will Baran do once he's obtained the second artefact?</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L116"><td><a href="#L116">116</a></td><td>RIKER:  You're supposed to verify its authenticity, and then I'm supposed to kill you, and I take your place.</td></tr>
 
-  DATA
-     Dismissed. Mister Worf, I am sorry if I have ended
-     our friendship.
+<tr id="L117"><td><a href="#L117">117</a></td><td>PICARD:  Will, you always seem to be after my job. Well, as soon as Baran feels that I've outlived my usefulness, he can kill me simply by using the neural servo. So, I think we had better start planning a mutiny.</td></tr>
 
-  WORF
-     Sir, it is I who has jeopardised our friendship,
-     not you. If you will overlook this incident, I
-     would like to continue to consider you my friend.
+<tr><td></td><td>LOCATION--Mercenary Cargo hold</td></tr>
+<tr id="L118"><td><a href="#L118">118</a></td><td>ANNOTATION: Narik is working at a small wall panel</td></tr>
 
-  DATA
-     I would like that as well.
+<tr id="L119"><td><a href="#L119">119</a></td><td>PICARD:  We need a new captain and I've come to one inescapable conclusion</td></tr>
 
-  WORF
-     Thank you, sir.
+<tr id="L120"><td><a href="#L120">120</a></td><td>NARIK:  I agree. But I don't think that's you.</td></tr>
 
+<tr id="L121"><td><a href="#L121">121</a></td><td>PICARD:  Oh?</td></tr>
 
-LOCATION--Picard's room
+<tr id="L122"><td><a href="#L122">122</a></td><td>NARIK:  I don't trust you, Galen. I don't think the rest of the crew does either. They're not going to follow you.</td></tr>
 
-  ANNOTATION
-     Picard pulls a weapon as the door opens
+<tr id="L123"><td><a href="#L123">123</a></td><td>PICARD:  Then who will they follow? You?</td></tr>
 
-  RIKER
-     Good to see you, too.
+<tr id="L124"><td><a href="#L124">124</a></td><td>NARIK:  No, but they will follow Tallera and so will I.</td></tr>
 
-  PICARD
-     I've had some unpleasant surprises. Will, this
-     isn't a good idea. Baran might grow suspicious.
+<tr id="L125"><td><a href="#L125">125</a></td><td>ANNOTATION: Narik leaves and Tallera enters</td></tr>
 
-  RIKER
-     As a matter of fact, it was Baran who sent me
-     here. He told me to pretend to be friendly with
-     you and help you organise a mutiny, so he can
-     determine who your supporters in the crew and then
-     eliminate them.
+<tr id="L126"><td><a href="#L126">126</a></td><td>TALLERA:  Who are you?</td></tr>
 
-  PICARD
-     What a tangled web we weave. I have difficulty
-     remembering whose side I'm on. So, what have you
-     been able to find out?
+<tr id="L127"><td><a href="#L127">127</a></td><td>PICARD:  What?</td></tr>
 
-  RIKER
-     When we reach the Hyralan Sector, we're supposed
-     to rendezvous with a Klingon transport ship. I'm
-     not sure, but I think they may be delivering
-     another of the Romulan artefacts to us.
+<tr id="L128"><td><a href="#L128">128</a></td><td>TALLERA:  You're no smuggler and I don't think your name's Galen. You will tell me who you really are and what you are doing on this ship or I will kill you right here.</td></tr>
 
-  PICARD
-     A second artefact? Oh, by the way, that first
-     artefacts is not Romulan. It's Vulcan.
+<tr id="L129"><td><a href="#L129">129</a></td><td>PICARD:  What are you talking about?</td></tr>
 
-  RIKER
-     Vulcan?
+<tr id="L130"><td><a href="#L130">130</a></td><td>TALLERA:  I will not play games with you. I found the message you sent to the Enterprise. When Riker was using his command codes to drop their shields, you sent them a transmission on the same carrier wave. You're a Starfleet officer. Do not deny it. It is the only logical conclusion. My name is actually T'Paal, and I am a member of the V'Shar.</td></tr>
 
-  PICARD
-     I have been looking over the glyphs and pictograms
-     from the Calder Two artefact. And although I don't
-     have enough data to translate all the
-     inscriptions, the alphabet and symbology is much
-     more consistent with early Vulcan than Romulan.
+<tr id="L131"><td><a href="#L131">131</a></td><td>PICARD:  Vulcan Security?</td></tr>
 
-  RIKER
-     Do these artefacts have some religious or cultural
-     significance, something that would make them
-     valuable enough to kill for?
+<tr id="L132"><td><a href="#L132">132</a></td><td>TALLERA:  That is correct. I infiltrated this ship a year ago posing as a Romulan mercenary. I'm here to investigate a possible threat to Vulcan.</td></tr>
 
-  PICARD
-     I don't know. If I could just get access to the
-     Enterprise computer just for a few moments. So,
-     what will Baran do once he's obtained the second
-     artefact?
+<tr id="L133"><td><a href="#L133">133</a></td><td>PICARD:  What sort of threat?</td></tr>
 
-  RIKER
-     You're supposed to verify its authenticity, and
-     then I'm supposed to kill you, and I take your
-     place.
+<tr id="L134"><td><a href="#L134">134</a></td><td>TALLERA:  First things first, Galen. Who are you?</td></tr>
 
-  PICARD
-     Will, you always seem to be after my job. Well, as
-     soon as Baran feels that I've outlived my
-     usefulness, he can kill me simply by using the
-     neural servo. So, I think we had better start
-     planning a mutiny.
+<tr id="L135"><td><a href="#L135">135</a></td><td>PICARD:  I'm Captain Jean-Luc Picard of the Enterprise.</td></tr>
 
+<tr id="L136"><td><a href="#L136">136</a></td><td>TALLERA:  Very well. To answer your question, for several years now, there has been a small but growing movement of extreme isolationists on Vulcan. A group that believes contact with alien races has polluted our culture and is destroying Vulcan purity. This group advocates the total isolation of Vulcan from the rest of the galaxy and the eradication of all alien influences from our planet.</td></tr>
 
-LOCATION--Mercenary Cargo hold
+<tr id="L137"><td><a href="#L137">137</a></td><td>PICARD:  That sounds like an illogical philosophy.</td></tr>
 
-  ANNOTATION
-     Narik is working at a small wall panel
+<tr id="L138"><td><a href="#L138">138</a></td><td>TALLERA:  Agreed. But extremists often have a logic all their own.</td></tr>
 
-  PICARD
-     We need a new captain and I've come to one
-     inescapable conclusion
+<tr id="L139"><td><a href="#L139">139</a></td><td>PICARD:  Tell me, Tallera, what are these artefacts we've been collecting? I know that they are Vulcan in origin.</td></tr>
 
-  NARIK
-     I agree. But I don't think that's you.
+<tr id="L140"><td><a href="#L140">140</a></td><td>TALLERA:  I am sure you are familiar with the ancient history of my people, before we found logic, before we found peace.</td></tr>
 
-  PICARD
-     Oh?
+<tr id="L141"><td><a href="#L141">141</a></td><td>PICARD:  You were much as my people once were. Savage, warlike.</td></tr>
 
-  NARIK
-     I don't trust you, Galen. I don't think the rest
-     of the crew does either. They're not going to
-     follow you.
+<tr id="L142"><td><a href="#L142">142</a></td><td>TALLERA:  There was even a time when we used our telepathic abilities as a weapon. A time when we learned to kill with a thought.</td></tr>
 
-  PICARD
-     Then who will they follow? You?
+<tr id="L143"><td><a href="#L143">143</a></td><td>PICARD:  The Stone of Gol!</td></tr>
 
-  NARIK
-     No, but they will follow Tallera and so will I.
+<tr id="L144"><td><a href="#L144">144</a></td><td>TALLERA:  You know of it?</td></tr>
 
-  ANNOTATION
-     Narik leaves and Tallera enters
+<tr id="L145"><td><a href="#L145">145</a></td><td>PICARD:  I know the story from Vulcan mythology.</td></tr>
 
-  TALLERA
-     Who are you?
+<tr id="L146"><td><a href="#L146">146</a></td><td>TALLERA:  The Stone of Gol is real, but there is nothing supernatural or magical about it. It is a psionic resonator, a device which focuses and amplifies telepathic energy. It is one of the most devastating weapons ever conceived.</td></tr>
 
-  PICARD
-     What?
+<tr id="L147"><td><a href="#L147">147</a></td><td>PICARD:  But according to the legend, the Stone was destroyed by the gods when the Vulcan people found the way to peace.</td></tr>
 
-  TALLERA
-     You're no smuggler and I don't think your name's
-     Galen. You will tell me who you really are and
-     what you are doing on this ship or I will kill you
-     right here.
-
-  PICARD
-     What are you talking about?
-
-  TALLERA
-     I will not play games with you. I found the
-     message you sent to the Enterprise. When Riker was
-     using his command codes to drop their shields, you
-     sent them a transmission on the same carrier wave.
-     You're a Starfleet officer. Do not deny it. It is
-     the only logical conclusion. My name is actually
-     T'Paal, and I am a member of the V'Shar.
-
-  PICARD
-     Vulcan Security?
-
-  TALLERA
-     That is correct. I infiltrated this ship a year
-     ago posing as a Romulan mercenary. I'm here to
-     investigate a possible threat to Vulcan.
-
-  PICARD
-     What sort of threat?
-
-  TALLERA
-     First things first, Galen. Who are you?
+<tr id="L148"><td><a href="#L148">148</a></td><td>TALLERA:  The resonator was believed to have been destroyed during the Time of the Awakening. Only one piece is known to have survived and it was placed in a Vulcan museum under heavy guard. A year ago, that piece was stolen from the museum. Soon after, mercenary ships began raiding archaeological sites across the quadrant. We believe a member of the isolationist movement is attempting to reassemble the resonator.</td></tr>
 
-  PICARD
-     I'm Captain Jean-Luc Picard of the Enterprise.
-
-  TALLERA
-     Very well. To answer your question, for several
-     years now, there has been a small but growing
-     movement of extreme isolationists on Vulcan. A
-     group that believes contact with alien races has
-     polluted our culture and is destroying Vulcan
-     purity. This group advocates the total isolation
-     of Vulcan from the rest of the galaxy and the
-     eradication of all alien influences from our
-     planet.
+<tr id="L149"><td><a href="#L149">149</a></td><td>PICARD:  A telepathic weapon.</td></tr>
 
-  PICARD
-     That sounds like an illogical philosophy.
+<tr id="L150"><td><a href="#L150">150</a></td><td>TALLERA:  My orders are to find that assassin and stop him.</td></tr>
 
-  TALLERA
-     Agreed. But extremists often have a logic all
-     their own.
+<tr id="L151"><td><a href="#L151">151</a></td><td>PICARD:  It would seem that Baran has to deliver these artefacts to the assassin in order to get paid. Therefore, you and I should continue our masquerade.</td></tr>
 
-  PICARD
-     Tell me, Tallera, what are these artefacts we've
-     been collecting? I know that they are Vulcan in
-     origin.
+<tr id="L152"><td><a href="#L152">152</a></td><td>TALLERA:  Agreed. But Captain, I cannot allow the resonator to be assembled. If necessary, I will destroy this ship, its crew, all of us to prevent that from happening.</td></tr>
 
-  TALLERA
-     I am sure you are familiar with the ancient
-     history of my people, before we found logic,
-     before we found peace.
+<tr id="L153"><td><a href="#L153">153</a></td><td>SOMEONE: Acting Captain's log, stardate 47160.1. The Enterprise is entering the Hyralan Sector, which I believe to be the next destination of the mercenary ship.</td></tr>
 
-  PICARD
-     You were much as my people once were. Savage,
-     warlike.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L154"><td><a href="#L154">154</a></td><td>GIUSTI:  I'm picking up a small vessel bearing one two seven mark three three five.</td></tr>
 
-  TALLERA
-     There was even a time when we used our telepathic
-     abilities as a weapon. A time when we learned to
-     kill with a thought.
+<tr id="L155"><td><a href="#L155">155</a></td><td>DATA:  Is it the mercenary ship?</td></tr>
 
-  PICARD
-     The Stone of Gol!
+<tr id="L156"><td><a href="#L156">156</a></td><td>GIUSTI:  No, sir. It's a Klingon ship.</td></tr>
 
-  TALLERA
-     You know of it?
+<tr id="L157"><td><a href="#L157">157</a></td><td>WORF:  A Toron class shuttlecraft. One person.</td></tr>
 
-  PICARD
-     I know the story from Vulcan mythology.
+<tr id="L158"><td><a href="#L158">158</a></td><td>DATA:  Open a channel. This is Lieutenant Commander Data of the Federation Starship Enterprise.</td></tr>
 
-  TALLERA
-     The Stone of Gol is real, but there is nothing
-     supernatural or magical about it. It is a psionic
-     resonator, a device which focuses and amplifies
-     telepathic energy. It is one of the most
-     devastating weapons ever conceived.
+<tr id="L159"><td><a href="#L159">159</a></td><td>KORAL [on viewscreen]:  Koral.</td></tr>
 
-  PICARD
-     But according to the legend, the Stone was
-     destroyed by the gods when the Vulcan people found
-     the way to peace.
+<tr id="L160"><td><a href="#L160">160</a></td><td>DATA:  I take it that is your name? May I inquire as to your destination?</td></tr>
 
-  TALLERA
-     The resonator was believed to have been destroyed
-     during the Time of the Awakening. Only one piece
-     is known to have survived and it was placed in a
-     Vulcan museum under heavy guard. A year ago, that
-     piece was stolen from the museum. Soon after,
-     mercenary ships began raiding archaeological sites
-     across the quadrant. We believe a member of the
-     isolationist movement is attempting to reassemble
-     the resonator.
+<tr id="L161"><td><a href="#L161">161</a></td><td>KORAL [on viewscreen]:  No.</td></tr>
 
-  PICARD
-     A telepathic weapon.
+<tr id="L162"><td><a href="#L162">162</a></td><td>DATA:  May I ask the purpose of your journey?</td></tr>
 
-  TALLERA
-     My orders are to find that assassin and stop him.
+<tr id="L163"><td><a href="#L163">163</a></td><td>KORAL [on viewscreen]:  No.</td></tr>
 
-  PICARD
-     It would seem that Baran has to deliver these
-     artefacts to the assassin in order to get paid.
-     Therefore, you and I should continue our
-     masquerade.
+<tr id="L164"><td><a href="#L164">164</a></td><td>DATA:  Perhaps I have not made our intentions clear. We are investigating</td></tr>
 
-  TALLERA
-     Agreed. But Captain, I cannot allow the resonator
-     to be assembled. If necessary, I will destroy this
-     ship, its crew, all of us to prevent that from
-     happening.
+<tr id="L165"><td><a href="#L165">165</a></td><td>ANNOTATION: transmission ends</td></tr>
 
-  SOMEONE
-     Acting Captain's log, stardate 47160.1. The
-     Enterprise is entering the Hyralan Sector, which I
-     believe to be the next destination of the
-     mercenary ship.
+<tr id="L166"><td><a href="#L166">166</a></td><td>DATA:  He seems most uncooperative.</td></tr>
 
+<tr id="L167"><td><a href="#L167">167</a></td><td>TROI:  He may have been curt, but he was also very worried and even a little scared.</td></tr>
 
-LOCATION--Bridge
+<tr id="L168"><td><a href="#L168">168</a></td><td>WORF:  Sir, may I recommend that we bring the shuttle aboard with our tractor beam, search it, and interrogate Koral.</td></tr>
 
-  GIUSTI
-     I'm picking up a small vessel bearing one two
-     seven mark three three five.
+<tr id="L169"><td><a href="#L169">169</a></td><td>DATA:  According to the terms of the Klingon-Federation Treaty, Koral has every right to free transit through Federation space. We cannot board or search his vessel without cause.</td></tr>
 
-  DATA
-     Is it the mercenary ship?
+<tr id="L170"><td><a href="#L170">170</a></td><td>WORF:  Yes, sir. However, the Treaty does give us the right to conduct health and safety inspections of any ship in our space.</td></tr>
 
-  GIUSTI
-     No, sir. It's a Klingon ship.
+<tr id="L171"><td><a href="#L171">171</a></td><td>TROI:  Health and safety inspections?</td></tr>
 
-  WORF
-     A Toron class shuttlecraft. One person.
+<tr id="L172"><td><a href="#L172">172</a></td><td>DATA:  I am not sure that using this clause as an excuse to conduct a search would be consistent with the spirit of the Treaty.</td></tr>
 
-  DATA
-     Open a channel. This is Lieutenant Commander Data
-     of the Federation Starship Enterprise.
+<tr id="L173"><td><a href="#L173">173</a></td><td>WORF:  Yes, sir.</td></tr>
 
-  KORAL [on viewscreen]
-     Koral.
+<tr id="L174"><td><a href="#L174">174</a></td><td>DATA:  However, if Koral wishes to contest our actions he can file a protest with the Judge Advocate General's office. Bring the shuttle aboard. Then you and Doctor Crusher can begin the inspection.</td></tr>
 
-  DATA
-     I take it that is your name? May I inquire as to
-     your destination?
+<tr id="L175"><td><a href="#L175">175</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  KORAL [on viewscreen]
-     No.
+<tr><td></td><td>LOCATION--Shuttlebay</td></tr>
+<tr id="L176"><td><a href="#L176">176</a></td><td>ANNOTATION: Koral is the tallest Klingon in the galaxy, standing head and shoulders above the shuttlecraft hatch, let alone Worf</td></tr>
 
-  DATA
-     May I ask the purpose of your journey?
+<tr id="L177"><td><a href="#L177">177</a></td><td>CRUSHER:  Hello. I'm Doctor Crusher, and this is Lieutenant Worf. We're here to conduct a health and safety inspection of your ship.</td></tr>
 
-  KORAL [on viewscreen]
-     No.
+<tr id="L178"><td><a href="#L178">178</a></td><td>KORAL:  Health and safety inspection?</td></tr>
 
-  DATA
-     Perhaps I have not made our intentions clear. We
-     are investigating
+<tr id="L179"><td><a href="#L179">179</a></td><td>CRUSHER:  That's right. You know, radiation leaks, biochemical contamination, other health hazards. Excuse me.</td></tr>
 
-  ANNOTATION
-     transmission ends
+<tr id="L180"><td><a href="#L180">180</a></td><td>ANNOTATION: Crusher goes inside the shuttlecraft</td></tr>
 
-  DATA
-     He seems most uncooperative.
+<tr id="L181"><td><a href="#L181">181</a></td><td>CRUSHER:  Well, no radiation so far. I'm sure you're glad to hear that. Right.</td></tr>
 
-  TROI
-     He may have been curt, but he was also very
-     worried and even a little scared.
+<tr><td></td><td>LOCATION--Mercenary Bridge</td></tr>
+<tr id="L182"><td><a href="#L182">182</a></td><td>VEKOR:  There's an incoming message. It's from the Klingon shuttle. It was sent approximately fifteen minutes ago. He's at the rendezvous coordinates but he's been detained by the Enterprise. That's all there is. He's stopped transmitting.</td></tr>
 
-  WORF
-     Sir, may I recommend that we bring the shuttle
-     aboard with our tractor beam, search it, and
-     interrogate Koral.
+<tr id="L183"><td><a href="#L183">183</a></td><td>BARAN:  The Enterprise.</td></tr>
 
-  DATA
-     According to the terms of the Klingon-Federation
-     Treaty, Koral has every right to free transit
-     through Federation space. We cannot board or
-     search his vessel without cause.
+<tr id="L184"><td><a href="#L184">184</a></td><td>PICARD:  How could they have found out about the rendezvous, Commander?</td></tr>
 
-  WORF
-     Yes, sir. However, the Treaty does give us the
-     right to conduct health and safety inspections of
-     any ship in our space.
+<tr id="L185"><td><a href="#L185">185</a></td><td>BARAN:  Quiet! All that matters now is that the Enterprise has the second artefact in their possession. We don't have a choice. We'll have to board the Enterprise and take the artefact.</td></tr>
 
-  TROI
-     Health and safety inspections?
+<tr id="L186"><td><a href="#L186">186</a></td><td>PICARD:  Do you have any idea how many security officers there are on board a ship like that?</td></tr>
 
-  DATA
-     I am not sure that using this clause as an excuse
-     to conduct a search would be consistent with the
-     spirit of the Treaty.
+<tr id="L187"><td><a href="#L187">187</a></td><td>BARAN:  No, I don't. But he does.</td></tr>
 
-  WORF
-     Yes, sir.
+<tr id="L188"><td><a href="#L188">188</a></td><td>RIKER:  I could get us on the Enterprise. I can find the artefact.</td></tr>
 
-  DATA
-     However, if Koral wishes to contest our actions he
-     can file a protest with the Judge Advocate
-     General's office. Bring the shuttle aboard. Then
-     you and Doctor Crusher can begin the inspection.
+<tr id="L189"><td><a href="#L189">189</a></td><td>PICARD:  Oh, yes, very convenient. We beam you back aboard your old ship and we have to take a risk that you won't change your mind and betray us.</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L190"><td><a href="#L190">190</a></td><td>RIKER:  I have saved your life twice already, Galen. I would think you'd begin to show some gratitude by now.</td></tr>
 
+<tr id="L191"><td><a href="#L191">191</a></td><td>BARAN:  Galen, if you're so worried about Riker, then you can go on the raiding party and watch him.</td></tr>
 
-LOCATION--Shuttlebay
+<tr id="L192"><td><a href="#L192">192</a></td><td>PICARD:  Agreed.</td></tr>
 
-  ANNOTATION
-     Koral is the tallest Klingon in the galaxy,
-     standing head and shoulders above the shuttlecraft
-     hatch, let alone Worf
+<tr id="L193"><td><a href="#L193">193</a></td><td>BARAN:  Draw weapons and equipment for a raiding party of five.</td></tr>
 
-  CRUSHER
-     Hello. I'm Doctor Crusher, and this is Lieutenant
-     Worf. We're here to conduct a health and safety
-     inspection of your ship.
+<tr id="L194"><td><a href="#L194">194</a></td><td>ANNOTATION: Picard leaves</td></tr>
 
-  KORAL
-     Health and safety inspection?
+<tr id="L195"><td><a href="#L195">195</a></td><td>BARAN:  If you're thinking of betraying us to your friends on the Enterprise, you might remember that I still have the ability to kill you at the first sign of trouble.</td></tr>
 
-  CRUSHER
-     That's right. You know, radiation leaks,
-     biochemical contamination, other health hazards.
-     Excuse me.
+<tr id="L196"><td><a href="#L196">196</a></td><td>RIKER:  I haven't forgotten.</td></tr>
 
-  ANNOTATION
-     Crusher goes inside the shuttlecraft
+<tr id="L197"><td><a href="#L197">197</a></td><td>BARAN:  I have an additional task for you, one that will prove your loyalty. This raid is an opportunity to get rid of Galen. Once you've found that artefact, kill him.</td></tr>
 
-  CRUSHER
-     Well, no radiation so far. I'm sure you're glad to
-     hear that. Right.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L198"><td><a href="#L198">198</a></td><td>TROI:  I'm sure the health and safety inspection won't last much longer. And in the meantime, I'm really glad that we have this opportunity to get to know you. May I ask what business you're in?</td></tr>
 
+<tr id="L199"><td><a href="#L199">199</a></td><td>ANNOTATION: silent stare</td></tr>
 
-LOCATION--Mercenary Bridge
+<tr id="L200"><td><a href="#L200">200</a></td><td>DATA:  Lieutenant Worf has programmed our replicators to make a very good approximation of Klingon bloodwine. I believe you will find it to your liking.</td></tr>
 
-  VEKOR
-     There's an incoming message. It's from the Klingon
-     shuttle. It was sent approximately fifteen minutes
-     ago. He's at the rendezvous coordinates but he's
-     been detained by the Enterprise. That's all there
-     is. He's stopped transmitting.
+<tr id="L201"><td><a href="#L201">201</a></td><td>ANNOTATION: Koral pours it onto the carpet</td></tr>
 
-  BARAN
-     The Enterprise.
+<tr><td></td><td>LOCATION--Shuttlebay</td></tr>
+<tr id="L202"><td><a href="#L202">202</a></td><td>CRUSHER:  Well, that's my third scan and I still haven't find anything out of the ordinary.</td></tr>
 
-  PICARD
-     How could they have found out about the
-     rendezvous, Commander?
+<tr id="L203"><td><a href="#L203">203</a></td><td>WORF:  He must be hiding something. We should download his computer memory and analyse it.</td></tr>
 
-  BARAN
-     Quiet! All that matters now is that the Enterprise
-     has the second artefact in their possession. We
-     don't have a choice. We'll have to board the
-     Enterprise and take the artefact.
+<tr id="L204"><td><a href="#L204">204</a></td><td>CRUSHER:  I'd have a hard time defending that as part of a safety inspection.</td></tr>
 
-  PICARD
-     Do you have any idea how many security officers
-     there are on board a ship like that?
+<tr id="L205"><td><a href="#L205">205</a></td><td>WORF:  We could claim that the computer was generating abnormal radiation signatures.</td></tr>
 
-  BARAN
-     No, I don't. But he does.
+<tr id="L206"><td><a href="#L206">206</a></td><td>CRUSHER:  Worf, we're on pretty shaky ground as it is. We can't just</td></tr>
 
-  RIKER
-     I could get us on the Enterprise. I can find the
-     artefact.
+<tr id="L207"><td><a href="#L207">207</a></td><td>ANNOTATION: the raiding party beams in. Riker stuns an incoming crewman</td></tr>
 
-  PICARD
-     Oh, yes, very convenient. We beam you back aboard
-     your old ship and we have to take a risk that you
-     won't change your mind and betray us.
+<tr id="L208"><td><a href="#L208">208</a></td><td>PICARD:  Don't!</td></tr>
 
-  RIKER
-     I have saved your life twice already, Galen. I
-     would think you'd begin to show some gratitude by
-     now.
+<tr id="L209"><td><a href="#L209">209</a></td><td>RIKER:  Watch that door.</td></tr>
 
-  BARAN
-     Galen, if you're so worried about Riker, then you
-     can go on the raiding party and watch him.
+<tr id="L210"><td><a href="#L210">210</a></td><td>WORF:  What is going on?</td></tr>
 
-  PICARD
-     Agreed.
+<tr id="L211"><td><a href="#L211">211</a></td><td>NARIK:  Shut your mouth, Klingon.</td></tr>
 
-  BARAN
-     Draw weapons and equipment for a raiding party of
-     five.
+<tr id="L212"><td><a href="#L212">212</a></td><td>RIKER:  I guess you're surprised to see me, Doctor.</td></tr>
 
-  ANNOTATION
-     Picard leaves
+<tr id="L213"><td><a href="#L213">213</a></td><td>CRUSHER:  You could say that.</td></tr>
 
-  BARAN
-     If you're thinking of betraying us to your friends
-     on the Enterprise, you might remember that I still
-     have the ability to kill you at the first sign of
-     trouble.
+<tr id="L214"><td><a href="#L214">214</a></td><td>RIKER:  I've had a change of profession.</td></tr>
 
-  RIKER
-     I haven't forgotten.
+<tr id="L215"><td><a href="#L215">215</a></td><td>PICARD:  It's not in here. Hey, you, where's the artefact?</td></tr>
 
-  BARAN
-     I have an additional task for you, one that will
-     prove your loyalty. This raid is an opportunity to
-     get rid of Galen. Once you've found that artefact,
-     kill him.
+<tr id="L216"><td><a href="#L216">216</a></td><td>WORF:  I do not know what you're talking about.</td></tr>
 
+<tr id="L217"><td><a href="#L217">217</a></td><td>RIKER:  Use your brain. They wouldn't be searching the shuttle if they had the artefact. Koral must have it. Where is that Klingon pilot?</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L218"><td><a href="#L218">218</a></td><td>CRUSHER:  In the Observation lounge with Data and Troi.</td></tr>
 
-  TROI
-     I'm sure the health and safety inspection won't
-     last much longer. And in the meantime, I'm really
-     glad that we have this opportunity to get to know
-     you. May I ask what business you're in?
+<tr id="L219"><td><a href="#L219">219</a></td><td>NARIK:  How far?</td></tr>
 
-  ANNOTATION
-     silent stare
+<tr id="L220"><td><a href="#L220">220</a></td><td>RIKER:  Twelve decks away.</td></tr>
 
-  DATA
-     Lieutenant Worf has programmed our replicators to
-     make a very good approximation of Klingon
-     bloodwine. I believe you will find it to your
-     liking.
+<tr id="L221"><td><a href="#L221">221</a></td><td>WORF:  Security will not allow you to get that far.</td></tr>
 
-  ANNOTATION
-     Koral pours it onto the carpet
+<tr id="L222"><td><a href="#L222">222</a></td><td>RIKER:  They won't get the chance. We'll use the transporter in that shuttle. We'll beam directly to the Observation lounge. Sorry about this.</td></tr>
 
+<tr id="L223"><td><a href="#L223">223</a></td><td>ANNOTATION: Riker shoots Worf and Crusher</td></tr>
 
-LOCATION--Shuttlebay
+<tr id="L224"><td><a href="#L224">224</a></td><td>RIKER:  Let's go.</td></tr>
 
-  CRUSHER
-     Well, that's my third scan and I still haven't
-     find anything out of the ordinary.
+<tr><td></td><td>LOCATION--Observation lounge</td></tr>
+<tr id="L225"><td><a href="#L225">225</a></td><td>DATA:  If you could tell us something about the nature of your mission.</td></tr>
 
-  WORF
-     He must be hiding something. We should download
-     his computer memory and analyse it.
+<tr id="L226"><td><a href="#L226">226</a></td><td>ANNOTATION: the raiding party beam in</td></tr>
 
-  CRUSHER
-     I'd have a hard time defending that as part of a
-     safety inspection.
+<tr id="L227"><td><a href="#L227">227</a></td><td>KORAL:  What is this?</td></tr>
 
-  WORF
-     We could claim that the computer was generating
-     abnormal radiation signatures.
+<tr id="L228"><td><a href="#L228">228</a></td><td>RIKER:  Quiet! (Picard scans Koral) Does he have it?</td></tr>
 
-  CRUSHER
-     Worf, we're on pretty shaky ground as it is. We
-     can't just
+<tr id="L229"><td><a href="#L229">229</a></td><td>ANNOTATION: Picard takes a small item from Koral's jacket</td></tr>
 
-  ANNOTATION
-     the raiding party beams in. Riker stuns an
-     incoming crewman
+<tr id="L230"><td><a href="#L230">230</a></td><td>PICARD:  This is it.</td></tr>
 
-  PICARD
-     Don't!
+<tr id="L231"><td><a href="#L231">231</a></td><td>NARIK:  Are you sure, Galen?</td></tr>
 
-  RIKER
-     Watch that door.
+<tr id="L232"><td><a href="#L232">232</a></td><td>PICARD:  Yes, I can recognise the inscription pattern from the first artefact.</td></tr>
 
-  WORF
-     What is going on?
+<tr id="L233"><td><a href="#L233">233</a></td><td>DATA:  Commander Riker, by taking this action you risk charges of assault, theft, piracy, and treason.</td></tr>
 
-  NARIK
-     Shut your mouth, Klingon.
+<tr id="L234"><td><a href="#L234">234</a></td><td>RIKER:  Really? Then I guess adding one more charge wouldn't hurt.</td></tr>
 
-  RIKER
-     I guess you're surprised to see me, Doctor.
+<tr id="L235"><td><a href="#L235">235</a></td><td>ANNOTATION: Riker shoots at Picard and misses. Picard doesn't miss</td></tr>
 
-  CRUSHER
-     You could say that.
+<tr id="L236"><td><a href="#L236">236</a></td><td>PICARD:  Is he dead?</td></tr>
 
-  RIKER
-     I've had a change of profession.
+<tr id="L237"><td><a href="#L237">237</a></td><td>TROI:  Yes.</td></tr>
 
-  PICARD
-     It's not in here. Hey, you, where's the artefact?
+<tr id="L238"><td><a href="#L238">238</a></td><td>PICARD:  Good. Activate the transporter.</td></tr>
 
-  WORF
-     I do not know what you're talking about.
+<tr id="L239"><td><a href="#L239">239</a></td><td>ANNOTATION: the raiding party beam out</td></tr>
 
-  RIKER
-     Use your brain. They wouldn't be searching the
-     shuttle if they had the artefact. Koral must have
-     it. Where is that Klingon pilot?
+<tr id="L240"><td><a href="#L240">240</a></td><td>DATA:  Security alert. Medical emergency team to the Observation lounge. Data to Bridge. Raise shields and begin sensor sweeps for the mercenary ship.</td></tr>
 
-  CRUSHER
-     In the Observation lounge with Data and Troi.
+<tr id="L241"><td><a href="#L241">241</a></td><td>GIUSTI [OC]:  Aye, sir.</td></tr>
 
-  NARIK
-     How far?
+<tr id="L242"><td><a href="#L242">242</a></td><td>TROI:  He's all right. He's only stunned.</td></tr>
 
-  RIKER
-     Twelve decks away.
+<tr id="L243"><td><a href="#L243">243</a></td><td>DATA:  I must admit, I am experiencing a similar sensation.</td></tr>
 
-  WORF
-     Security will not allow you to get that far.
+<tr id="L244"><td><a href="#L244">244</a></td><td>RIKER:  This is going to take a little time to explain.</td></tr>
 
-  RIKER
-     They won't get the chance. We'll use the
-     transporter in that shuttle. We'll beam directly
-     to the Observation lounge. Sorry about this.
+<tr><td></td><td>LOCATION--Mercenary Bridge</td></tr>
+<tr id="L245"><td><a href="#L245">245</a></td><td>BARAN:  Set course three one zero mark two one five, warp six.</td></tr>
 
-  ANNOTATION
-     Riker shoots Worf and Crusher
+<tr id="L246"><td><a href="#L246">246</a></td><td>ANNOTATION: the four raiders walk in</td></tr>
 
-  RIKER
-     Let's go.
+<tr id="L247"><td><a href="#L247">247</a></td><td>BARAN:  Where is it?</td></tr>
 
+<tr id="L248"><td><a href="#L248">248</a></td><td>ANNOTATION: Picard throws the stone to Baran</td></tr>
 
-LOCATION--Observation lounge
+<tr id="L249"><td><a href="#L249">249</a></td><td>PICARD:  I have something else for you, Baran.</td></tr>
 
-  DATA
-     If you could tell us something about the nature of
-     your mission.
+<tr id="L250"><td><a href="#L250">250</a></td><td>ANNOTATION: Picard punches Baran</td></tr>
 
-  ANNOTATION
-     the raiding party beam in
+<tr id="L251"><td><a href="#L251">251</a></td><td>PICARD:  Tell him what happened, Narik.</td></tr>
 
-  KORAL
-     What is this?
+<tr id="L252"><td><a href="#L252">252</a></td><td>NARIK:  Riker turned on us. He tried to kill Galen before we beamed back.</td></tr>
 
-  RIKER
-     Quiet! (Picard scans Koral) Does he have it?
+<tr id="L253"><td><a href="#L253">253</a></td><td>PICARD:  He might have killed all of us. And I believe he was acting under direct orders, Baran. You betrayed us. This has gone far enough. I think it is time that we had a new commander. Someone who will lead us to those profits that we've been promised.</td></tr>
 
-  ANNOTATION
-     Picard takes a small item from Koral's jacket
+<tr id="L254"><td><a href="#L254">254</a></td><td>BARAN:  Oh, really? And who would that be, Galen? You? He's plotted this all along, opposed me at every turn, endangered all of us by refusing to follow his orders.</td></tr>
 
-  PICARD
-     This is it.
+<tr id="L255"><td><a href="#L255">255</a></td><td>PICARD:  Follow your orders? The orders of a small man trying to fill a role too big for him. I say it's time for a change. Who's with me?</td></tr>
 
-  NARIK
-     Are you sure, Galen?
+<tr id="L256"><td><a href="#L256">256</a></td><td>ANNOTATION: everyone, by the looks of it</td></tr>
 
-  PICARD
-     Yes, I can recognise the inscription pattern from
-     the first artefact.
+<tr id="L257"><td><a href="#L257">257</a></td><td>PICARD:  It's over, Baran.</td></tr>
 
-  DATA
-     Commander Riker, by taking this action you risk
-     charges of assault, theft, piracy, and treason.
+<tr id="L258"><td><a href="#L258">258</a></td><td>BARAN:  Not quite. As long as I have this, I'm still Captain of this ship.</td></tr>
 
-  RIKER
-     Really? Then I guess adding one more charge
-     wouldn't hurt.
+<tr id="L259"><td><a href="#L259">259</a></td><td>PICARD:  You can't kill all of us. You need us to run the ship more than we need you to command it.</td></tr>
 
-  ANNOTATION
-     Riker shoots at Picard and misses. Picard doesn't
-     miss
+<tr id="L260"><td><a href="#L260">260</a></td><td>BARAN:  I don't have to kill you all. Just you, Galen.</td></tr>
 
-  PICARD
-     Is he dead?
+<tr id="L261"><td><a href="#L261">261</a></td><td>ANNOTATION: Baran presses the button, then collapses in agony and dies</td></tr>
 
-  TROI
-     Yes.
+<tr id="L262"><td><a href="#L262">262</a></td><td>TALLERA:  What happened?</td></tr>
 
-  PICARD
-     Good. Activate the transporter.
+<tr id="L263"><td><a href="#L263">263</a></td><td>PICARD:  I switched the transponder codes. Given his feelings about me, it seemed a sensible thing to do.</td></tr>
 
-  ANNOTATION
-     the raiding party beam out
+<tr id="L264"><td><a href="#L264">264</a></td><td>TALLERA:  Baran was nothing. We have a mission to complete and the crew needs a leader.</td></tr>
 
-  DATA
-     Security alert. Medical emergency team to the
-     Observation lounge. Data to Bridge. Raise shields
-     and begin sensor sweeps for the mercenary ship.
+<tr id="L265"><td><a href="#L265">265</a></td><td>ANNOTATION: Picard shoots the control device</td></tr>
 
-  GIUSTI [OC]
-     Aye, sir.
+<tr id="L266"><td><a href="#L266">266</a></td><td>PICARD:  There'll be no more punishment on this ship. Now, do your duties and I'll see to it that we complete our mission and get our payment.</td></tr>
 
-  TROI
-     He's all right. He's only stunned.
+<tr id="L267"><td><a href="#L267">267</a></td><td>TALLERA:  Remove that.</td></tr>
 
-  DATA
-     I must admit, I am experiencing a similar
-     sensation.
+<tr id="L268"><td><a href="#L268">268</a></td><td>VEKOR:  Orders?</td></tr>
 
-  RIKER
-     This is going to take a little time to explain.
+<tr id="L269"><td><a href="#L269">269</a></td><td>PICARD:  Maintain our present course and speed for now. I'm going to find out when and where we're supposed to deliver our cargo.</td></tr>
 
+<tr id="L270"><td><a href="#L270">270</a></td><td>VEKOR:  Aye, Captain.</td></tr>
 
-LOCATION--Mercenary Bridge
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L271"><td><a href="#L271">271</a></td><td>WORF [OC]:  Worf to Commander Riker. Minister Satok of Vulcan Security is standing by on a secure channel.</td></tr>
 
-  BARAN
-     Set course three one zero mark two one five, warp
-     six.
+<tr id="L272"><td><a href="#L272">272</a></td><td>RIKER:  Put it through in here.</td></tr>
 
-  ANNOTATION
-     the four raiders walk in
+<tr id="L273"><td><a href="#L273">273</a></td><td>SATOK [on monitor]:  Greetings, Commander. How may I be of service?</td></tr>
 
-  BARAN
-     Where is it?
+<tr id="L274"><td><a href="#L274">274</a></td><td>RIKER:  Minister, I thought I should let you know that the mercenary ship which has been raiding planets in the Taugan sector is probably on its way to Vulcan right now.</td></tr>
 
-  ANNOTATION
-     Picard throws the stone to Baran
+<tr id="L275"><td><a href="#L275">275</a></td><td>SATOK [on monitor]:  I do not understand.</td></tr>
 
-  PICARD
-     I have something else for you, Baran.
+<tr id="L276"><td><a href="#L276">276</a></td><td>RIKER:  I'm sorry. It's been a difficult couple of days. I know that one of your operatives has been on a mercenary ship investigating the possible re-assembly of a psionic resonator. I didn't want someone to make a mistake and start firing at them when they approach your planet.</td></tr>
 
-  ANNOTATION
-     Picard punches Baran
+<tr id="L277"><td><a href="#L277">277</a></td><td>SATOK:  Commander, I believe there is a problem. We have no operative aboard a mercenary ship.</td></tr>
 
-  PICARD
-     Tell him what happened, Narik.
+<tr><td></td><td>LOCATION--Baran's quarters</td></tr>
+<tr id="L278"><td><a href="#L278">278</a></td><td>PICARD:  According to Baran's logs, we are to deliver the two pieces to the T'Karath Sanctuary on Vulcan.</td></tr>
 
-  NARIK
-     Riker turned on us. He tried to kill Galen before
-     we beamed back.
+<tr id="L279"><td><a href="#L279">279</a></td><td>TALLERA:  I know that place. It was an underground stronghold for one of the factions during the last civil war. It's been abandoned for centuries.</td></tr>
 
-  PICARD
-     He might have killed all of us. And I believe he
-     was acting under direct orders, Baran. You
-     betrayed us. This has gone far enough. I think it
-     is time that we had a new commander. Someone who
-     will lead us to those profits that we've been
-     promised.
+<tr id="L280"><td><a href="#L280">280</a></td><td>PICARD:  Galen to Bridge. Alter course for Vulcan.</td></tr>
 
-  BARAN
-     Oh, really? And who would that be, Galen? You?
-     He's plotted this all along, opposed me at every
-     turn, endangered all of us by refusing to follow
-     his orders.
+<tr id="L281"><td><a href="#L281">281</a></td><td>VEKOR [OC]:  Understood.</td></tr>
 
-  PICARD
-     Follow your orders? The orders of a small man
-     trying to fill a role too big for him. I say it's
-     time for a change. Who's with me?
+<tr id="L282"><td><a href="#L282">282</a></td><td>PICARD:  Oh, I wonder if you can possibly help me with something. I have been able to translate most of the writing on these two pieces For the most part, they're warnings of death and destruction to anyone who opposes the resonator, but I am not able to determine what appears on the anterior side. For example, this symbol represents the Vulcan god of war and this is the god of death, but if you look really carefully, you can see a third symbol missing. Now that obviously should belong to the final piece. Now what's odd about this is that the gods of death and war would typically always stand alone on an artefact. They would never be combined with a third glyph.</td></tr>
 
-  ANNOTATION
-     everyone, by the looks of it
+<tr id="L283"><td><a href="#L283">283</a></td><td>TALLERA:  Fascinating. But I am not an archaeological expert.</td></tr>
 
-  PICARD
-     It's over, Baran.
+<tr id="L284"><td><a href="#L284">284</a></td><td>PICARD:  I'm really anxious to see the final artefact, because it might provide a valuable insight into Vulcan mythology.</td></tr>
 
-  BARAN
-     Not quite. As long as I have this, I'm still
-     Captain of this ship.
+<tr id="L285"><td><a href="#L285">285</a></td><td>TALLERA:  When we arrive at Vulcan, I will take these pieces to a secure holding area before going on to the Sanctuary. I prefer to go alone. It will arouse less suspicion on the part of the isolationists.</td></tr>
 
-  PICARD
-     You can't kill all of us. You need us to run the
-     ship more than we need you to command it.
+<tr id="L286"><td><a href="#L286">286</a></td><td>PICARD:  Well there should be no problem about our entering orbit. I asked Commander Riker to contact the Vulcan authorities from the Enterprise and let them know that we were approaching.</td></tr>
 
-  BARAN
-     I don't have to kill you all. Just you, Galen.
+<tr id="L287"><td><a href="#L287">287</a></td><td>TALLERA:  Why did you do that?</td></tr>
 
-  ANNOTATION
-     Baran presses the button, then collapses in agony
-     and dies
+<tr id="L288"><td><a href="#L288">288</a></td><td>PICARD:  Well, I didn't want to risk a misunderstanding. Someone might have mistaken this for an actual raid.</td></tr>
 
-  TALLERA
-     What happened?
+<tr id="L289"><td><a href="#L289">289</a></td><td>TALLERA:  It was a wise precaution.</td></tr>
 
-  PICARD
-     I switched the transponder codes. Given his
-     feelings about me, it seemed a sensible thing to
-     do.
+<tr id="L290"><td><a href="#L290">290</a></td><td>PICARD:  Perhaps I should contact the Enterprise, have them meet us at Vulcan just in case these isolationists try to escape.</td></tr>
 
-  TALLERA
-     Baran was nothing. We have a mission to complete
-     and the crew needs a leader.
+<tr id="L291"><td><a href="#L291">291</a></td><td>TALLERA:  Your offer is appreciated but our security forces are more than adequate.</td></tr>
 
-  ANNOTATION
-     Picard shoots the control device
+<tr id="L292"><td><a href="#L292">292</a></td><td>PICARD:  I see. Do you think it's wise for you to go there alone? After all, they were expecting Baran to show up. Don't you think if I were to accompany you, it might seem more plausible.</td></tr>
 
-  PICARD
-     There'll be no more punishment on this ship. Now,
-     do your duties and I'll see to it that we complete
-     our mission and get our payment.
+<tr id="L293"><td><a href="#L293">293</a></td><td>TALLERA:  Captain, I do understand your human emotional need to be there at the final moment, but this is a Vulcan matter.</td></tr>
 
-  TALLERA
-     Remove that.
+<tr id="L294"><td><a href="#L294">294</a></td><td>PICARD:  Of course.</td></tr>
 
-  VEKOR
-     Orders?
+<tr id="L295"><td><a href="#L295">295</a></td><td>TALLERA:  Thank you.</td></tr>
 
-  PICARD
-     Maintain our present course and speed for now. I'm
-     going to find out when and where we're supposed to
-     deliver our cargo.
+<tr><td></td><td>LOCATION--Mercenary Bridge</td></tr>
+<tr id="L296"><td><a href="#L296">296</a></td><td>VEKOR:  We have entered orbit of Vulcan.</td></tr>
 
-  VEKOR
-     Aye, Captain.
+<tr id="L297"><td><a href="#L297">297</a></td><td>PICARD:  Tallera, I've decided on a change of plan. Take one of the artefacts with you. Leave the other here. As soon as we have our payment in full, we'll complete the delivery.</td></tr>
 
+<tr id="L298"><td><a href="#L298">298</a></td><td>TALLERA:  That was not the agreement.</td></tr>
 
-LOCATION--Ready room
+<tr id="L299"><td><a href="#L299">299</a></td><td>PICARD:  I realise that. But it's safer for all concerned to leave one behind.</td></tr>
 
-  WORF [OC]
-     Worf to Commander Riker. Minister Satok of Vulcan
-     Security is standing by on a secure channel.
+<tr id="L300"><td><a href="#L300">300</a></td><td>TALLERA:  They will not pay us until they get both pieces.</td></tr>
 
-  RIKER
-     Put it through in here.
+<tr id="L301"><td><a href="#L301">301</a></td><td>PICARD:  They've been waiting a long time for this. They're not going to take any risks. Now, take one of the artefacts and beam down.</td></tr>
 
-  SATOK [on monitor]
-     Greetings, Commander. How may I be of service?
+<tr id="L302"><td><a href="#L302">302</a></td><td>TALLERA:  That is all I was waiting for. Go to the navigational computer and check file one three seven slash omega. You'll find a message secretly transmitted to the Enterprise, containing our entire flight plan.</td></tr>
 
-  RIKER
-     Minister, I thought I should let you know that the
-     mercenary ship which has been raiding planets in
-     the Taugan sector is probably on its way to Vulcan
-     right now.
+<tr id="L303"><td><a href="#L303">303</a></td><td>VEKOR:  She's right.</td></tr>
 
-  SATOK [on monitor]
-     I do not understand.
+<tr id="L304"><td><a href="#L304">304</a></td><td>TALLERA:  The message was sent by Galen. He's a Starfleet officer.</td></tr>
 
-  RIKER
-     I'm sorry. It's been a difficult couple of days. I
-     know that one of your operatives has been on a
-     mercenary ship investigating the possible
-     re-assembly of a psionic resonator. I didn't want
-     someone to make a mistake and start firing at them
-     when they approach your planet.
+<tr id="L305"><td><a href="#L305">305</a></td><td>PICARD:  Tallera is right. But what she's not telling you is that those artefacts she's holding are part of an incredibly powerful weapon. There's no reward waiting for you down on the surface. As soon as she's got those artefacts, she'll leave you behind to be captured by Starfleet.</td></tr>
 
-  SATOK
-     Commander, I believe there is a problem. We have
-     no operative aboard a mercenary ship.
+<tr id="L306"><td><a href="#L306">306</a></td><td>VEKOR:  I don't care what it is you want, Tallera. I don't care if that's a weapon for your personal use or if you're really just making a delivery as planned. All I care about is my money. So I propose a compromise. Narik and I will go with you to the surface to guarantee that we receive our payment.</td></tr>
 
+<tr id="L307"><td><a href="#L307">307</a></td><td>NARIK:  After that, you can go anywhere you want.</td></tr>
 
-LOCATION--Baran's quarters
+<tr id="L308"><td><a href="#L308">308</a></td><td>TALLERA:  Agreed. Bring him as well. We'll use him as a hostage if Starfleet arrives. If not, we'll kill him on the surface.</td></tr>
 
-  PICARD
-     According to Baran's logs, we are to deliver the
-     two pieces to the T'Karath Sanctuary on Vulcan.
+<tr><td></td><td>LOCATION--T'Kareth sanctuary</td></tr>
+<tr id="L309"><td><a href="#L309">309</a></td><td>ANNOTATION: a stone chamber with carved walls</td></tr>
 
-  TALLERA
-     I know that place. It was an underground
-     stronghold for one of the factions during the last
-     civil war. It's been abandoned for centuries.
+<tr id="L310"><td><a href="#L310">310</a></td><td>TALLERA:  There. Your reward, as promised.</td></tr>
 
-  PICARD
-     Galen to Bridge. Alter course for Vulcan.
+<tr id="L311"><td><a href="#L311">311</a></td><td>NARIK:  Is it all there?</td></tr>
 
-  VEKOR [OC]
-     Understood.
+<tr id="L312"><td><a href="#L312">312</a></td><td>VEKOR:  No, this is less than half of what we were promised. Where's the rest of it?</td></tr>
 
-  PICARD
-     Oh, I wonder if you can possibly help me with
-     something. I have been able to translate most of
-     the writing on these two pieces For the most part,
-     they're warnings of death and destruction to
-     anyone who opposes the resonator, but I am not
-     able to determine what appears on the anterior
-     side. For example, this symbol represents the
-     Vulcan god of war and this is the god of death,
-     but if you look really carefully, you can see a
-     third symbol missing. Now that obviously should
-     belong to the final piece. Now what's odd about
-     this is that the gods of death and war would
-     typically always stand alone on an artefact. They
-     would never be combined with a third glyph.
+<tr id="L313"><td><a href="#L313">313</a></td><td>ANNOTATION: Tallera has assembled the resonator</td></tr>
 
-  TALLERA
-     Fascinating. But I am not an archaeological
-     expert.
+<tr id="L314"><td><a href="#L314">314</a></td><td>TALLERA:  That is all I could manage. I suggest you take it and leave.</td></tr>
 
-  PICARD
-     I'm really anxious to see the final artefact,
-     because it might provide a valuable insight into
-     Vulcan mythology.
+<tr id="L315"><td><a href="#L315">315</a></td><td>NARIK:  I did not come this far to be cheated. I want it all, now.</td></tr>
 
-  TALLERA
-     When we arrive at Vulcan, I will take these pieces
-     to a secure holding area before going on to the
-     Sanctuary. I prefer to go alone. It will arouse
-     less suspicion on the part of the isolationists.
+<tr id="L316"><td><a href="#L316">316</a></td><td>TALLERA:  Very well. You will get what you deserve.</td></tr>
 
-  PICARD
-     Well there should be no problem about our entering
-     orbit. I asked Commander Riker to contact the
-     Vulcan authorities from the Enterprise and let
-     them know that we were approaching.
+<tr id="L317"><td><a href="#L317">317</a></td><td>ANNOTATION: a strange field wraps Narik then throws him across the chamber. Tallera then sends a second one to do the same to Vekor</td></tr>
 
-  TALLERA
-     Why did you do that?
+<tr id="L318"><td><a href="#L318">318</a></td><td>TALLERA:  Go ahead, Captain. Pick up the phaser. See what good it will do.</td></tr>
 
-  PICARD
-     Well, I didn't want to risk a misunderstanding.
-     Someone might have mistaken this for an actual
-     raid.
+<tr id="L319"><td><a href="#L319">319</a></td><td>PICARD:  You'll never get away with this. Starfleet will never stand and watch you tear apart one of the founding worlds of the Federation.</td></tr>
 
-  TALLERA
-     It was a wise precaution.
+<tr id="L320"><td><a href="#L320">320</a></td><td>TALLERA:  How little you understand what you're facing, Captain. You're used to fighting enemies like yourself. People on ships with defence shields, energy weapons, warp drives. But this is unlike anything you've ever faced. This is the power of the mind. Pick up the phaser, Captain.</td></tr>
 
-  PICARD
-     Perhaps I should contact the Enterprise, have them
-     meet us at Vulcan just in case these isolationists
-     try to escape.
+<tr id="L321"><td><a href="#L321">321</a></td><td>ANNOTATION: Riker, Worf and two security guards beam in</td></tr>
 
-  TALLERA
-     Your offer is appreciated but our security forces
-     are more than adequate.
+<tr id="L322"><td><a href="#L322">322</a></td><td>PICARD:  Listen to me, all of you! Drop your weapons! Do it! Don't make any aggressive movements. The resonator amplifies violent feelings and emotions. And that's why you wanted me to pick up the phaser. That's how you were able to kill Narik and Vekor. But I can see the symbol on that third artefact, and it is the Vulcan symbol for peace standing between the symbols for war and death. It's a warning that the power of the resonator can be overcome by peace.</td></tr>
 
-  PICARD
-     I see. Do you think it's wise for you to go there
-     alone? After all, they were expecting Baran to
-     show up. Don't you think if I were to accompany
-     you, it might seem more plausible.
+<tr id="L323"><td><a href="#L323">323</a></td><td>TALLERA:  You are about to see how wrong you are.</td></tr>
 
-  TALLERA
-     Captain, I do understand your human emotional need
-     to be there at the final moment, but this is a
-     Vulcan matter.
+<tr id="L324"><td><a href="#L324">324</a></td><td>PICARD:  Empty your minds of violent thoughts.</td></tr>
 
-  PICARD
-     Of course.
+<tr id="L325"><td><a href="#L325">325</a></td><td>ANNOTATION: the field passes through Riker without hurting him</td></tr>
 
-  TALLERA
-     Thank you.
+<tr id="L326"><td><a href="#L326">326</a></td><td>TALLERA:  No!</td></tr>
 
+<tr id="L327"><td><a href="#L327">327</a></td><td>PICARD:  Think, Tallera. Two thousand years ago your people were being consumed by war. But when peace came to Vulcan, the resonator became useless. That's why it was dismantled.</td></tr>
 
-LOCATION--Mercenary Bridge
+<tr id="L328"><td><a href="#L328">328</a></td><td>ANNOTATION: Tallera tries it again on Worf and fails. She sinks to her knees</td></tr>
 
-  VEKOR
-     We have entered orbit of Vulcan.
+<tr id="L329"><td><a href="#L329">329</a></td><td>PICARD:  You were right, Tallera. The resonator cannot be stopped by phasers and shields, but it can be defeated by peace.</td></tr>
 
-  PICARD
-     Tallera, I've decided on a change of plan. Take
-     one of the artefacts with you. Leave the other
-     here. As soon as we have our payment in full,
-     we'll complete the delivery.
+<tr id="L330"><td><a href="#L330">330</a></td><td>ANNOTATION: she tries again, but it's a very small field that passes through Picard before he takes the device from her hands</td></tr>
 
-  TALLERA
-     That was not the agreement.
+<tr id="L331"><td><a href="#L331">331</a></td><td>SOMEONE: Captain's log, stardate 47169.2. Security Minister Satok has taken Tallera into custody and begun a search for the rest of the isolationists.</td></tr>
 
-  PICARD
-     I realise that. But it's safer for all concerned
-     to leave one behind.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L332"><td><a href="#L332">332</a></td><td>RIKER:  Once we realised that you were no longer on the mercenary ship, we scanned the surface for your neural implant. We tracked the signal into the caverns.</td></tr>
 
-  TALLERA
-     They will not pay us until they get both pieces.
+<tr id="L333"><td><a href="#L333">333</a></td><td>DATA:  What will become of the resonator, sir?</td></tr>
 
-  PICARD
-     They've been waiting a long time for this. They're
-     not going to take any risks. Now, take one of the
-     artefacts and beam down.
+<tr id="L334"><td><a href="#L334">334</a></td><td>PICARD:  Satok has assured me that all three pieces will be destroyed.</td></tr>
 
-  TALLERA
-     That is all I was waiting for. Go to the
-     navigational computer and check file one three
-     seven slash omega. You'll find a message secretly
-     transmitted to the Enterprise, containing our
-     entire flight plan.
+<tr id="L335"><td><a href="#L335">335</a></td><td>DATA:  It is unfortunate it cannot be studied. The resonator is a key artefact from a remarkable period of history.</td></tr>
 
-  VEKOR
-     She's right.
+<tr id="L336"><td><a href="#L336">336</a></td><td>PICARD:  Normally, I would be the first one to agree, but perhaps some things best left in the past.</td></tr>
 
-  TALLERA
-     The message was sent by Galen. He's a Starfleet
-     officer.
+<tr id="L337"><td><a href="#L337">337</a></td><td>RIKER:  What's going to happen to the mercenaries?</td></tr>
 
-  PICARD
-     Tallera is right. But what she's not telling you
-     is that those artefacts she's holding are part of
-     an incredibly powerful weapon. There's no reward
-     waiting for you down on the surface. As soon as
-     she's got those artefacts, she'll leave you behind
-     to be captured by Starfleet.
+<tr id="L338"><td><a href="#L338">338</a></td><td>PICARD:  Oh, they will be detained by the Vulcan authorities for the moment. But they're also facing charges from the Klingons, the Cardassians, (yawns) the Ferengi, and at least seven other worlds. I don't think we'll be hearing from them for a while. Number One, will you set course for Starbase two twenty seven. I'll join you on the Bridge shortly.</td></tr>
 
-  VEKOR
-     I don't care what it is you want, Tallera. I don't
-     care if that's a weapon for your personal use or
-     if you're really just making a delivery as
-     planned. All I care about is my money. So I
-     propose a compromise. Narik and I will go with you
-     to the surface to guarantee that we receive our
-     payment.
+<tr id="L339"><td><a href="#L339">339</a></td><td>RIKER:  Wait a minute. You've been declared dead. You can't give orders around here.</td></tr>
 
-  NARIK
-     After that, you can go anywhere you want.
+<tr id="L340"><td><a href="#L340">340</a></td><td>DATA:  If we are to adhere to the exact letter of Starfleet regulations, then technically, sir, you have been declared a renegade. In fact, I believe you are facing twelve counts of court martial offences. You cannot give orders either, sir.</td></tr>
 
-  TALLERA
-     Agreed. Bring him as well. We'll use him as a
-     hostage if Starfleet arrives. If not, we'll kill
-     him on the surface.
+<tr id="L341"><td><a href="#L341">341</a></td><td>PICARD:  That's quite right. And as I'm supposed to be dead, I'll go and get some sleep. And, Mister Data, I suggest that you escort Commander Riker to the brig.</td></tr>
 
+<tr id="L342"><td><a href="#L342">342</a></td><td>DATA:  Aye, sir.</td></tr>
 
-LOCATION--T'Kareth sanctuary
+<tr id="L343"><td><a href="#L343">343</a></td><td>ANNOTATION: Picard enters his quarters</td></tr>
 
-  ANNOTATION
-     a stone chamber with carved walls
+<tr id="L344"><td><a href="#L344">344</a></td><td>DATA:  (taking Riker's arm) This way, sir.</td></tr>
 
-  TALLERA
-     There. Your reward, as promised.
+<tr id="L345"><td><a href="#L345">345</a></td><td>RIKER:  Data, he was joking. You know that, right? Data?</td></tr>
 
-  NARIK
-     Is it all there?
-
-  VEKOR
-     No, this is less than half of what we were
-     promised. Where's the rest of it?
-
-  ANNOTATION
-     Tallera has assembled the resonator
-
-  TALLERA
-     That is all I could manage. I suggest you take it
-     and leave.
-
-  NARIK
-     I did not come this far to be cheated. I want it
-     all, now.
-
-  TALLERA
-     Very well. You will get what you deserve.
-
-  ANNOTATION
-     a strange field wraps Narik then throws him across
-     the chamber. Tallera then sends a second one to do
-     the same to Vekor
-
-  TALLERA
-     Go ahead, Captain. Pick up the phaser. See what
-     good it will do.
-
-  PICARD
-     You'll never get away with this. Starfleet will
-     never stand and watch you tear apart one of the
-     founding worlds of the Federation.
-
-  TALLERA
-     How little you understand what you're facing,
-     Captain. You're used to fighting enemies like
-     yourself. People on ships with defence shields,
-     energy weapons, warp drives. But this is unlike
-     anything you've ever faced. This is the power of
-     the mind. Pick up the phaser, Captain.
-
-  ANNOTATION
-     Riker, Worf and two security guards beam in
-
-  PICARD
-     Listen to me, all of you! Drop your weapons! Do
-     it! Don't make any aggressive movements. The
-     resonator amplifies violent feelings and emotions.
-     And that's why you wanted me to pick up the
-     phaser. That's how you were able to kill Narik and
-     Vekor. But I can see the symbol on that third
-     artefact, and it is the Vulcan symbol for peace
-     standing between the symbols for war and death.
-     It's a warning that the power of the resonator can
-     be overcome by peace.
-
-  TALLERA
-     You are about to see how wrong you are.
-
-  PICARD
-     Empty your minds of violent thoughts.
-
-  ANNOTATION
-     the field passes through Riker without hurting him
-
-  TALLERA
-     No!
-
-  PICARD
-     Think, Tallera. Two thousand years ago your people
-     were being consumed by war. But when peace came to
-     Vulcan, the resonator became useless. That's why
-     it was dismantled.
-
-  ANNOTATION
-     Tallera tries it again on Worf and fails. She
-     sinks to her knees
-
-  PICARD
-     You were right, Tallera. The resonator cannot be
-     stopped by phasers and shields, but it can be
-     defeated by peace.
-
-  ANNOTATION
-     she tries again, but it's a very small field that
-     passes through Picard before he takes the device
-     from her hands
-
-  SOMEONE
-     Captain's log, stardate 47169.2. Security Minister
-     Satok has taken Tallera into custody and begun a
-     search for the rest of the isolationists.
-
-
-LOCATION--Corridor
-
-  RIKER
-     Once we realised that you were no longer on the
-     mercenary ship, we scanned the surface for your
-     neural implant. We tracked the signal into the
-     caverns.
-
-  DATA
-     What will become of the resonator, sir?
-
-  PICARD
-     Satok has assured me that all three pieces will be
-     destroyed.
-
-  DATA
-     It is unfortunate it cannot be studied. The
-     resonator is a key artefact from a remarkable
-     period of history.
-
-  PICARD
-     Normally, I would be the first one to agree, but
-     perhaps some things best left in the past.
-
-  RIKER
-     What's going to happen to the mercenaries?
-
-  PICARD
-     Oh, they will be detained by the Vulcan
-     authorities for the moment. But they're also
-     facing charges from the Klingons, the Cardassians,
-     (yawns) the Ferengi, and at least seven other
-     worlds. I don't think we'll be hearing from them
-     for a while. Number One, will you set course for
-     Starbase two twenty seven. I'll join you on the
-     Bridge shortly.
-
-  RIKER
-     Wait a minute. You've been declared dead. You
-     can't give orders around here.
-
-  DATA
-     If we are to adhere to the exact letter of
-     Starfleet regulations, then technically, sir, you
-     have been declared a renegade. In fact, I believe
-     you are facing twelve counts of court martial
-     offences. You cannot give orders either, sir.
-
-  PICARD
-     That's quite right. And as I'm supposed to be
-     dead, I'll go and get some sleep. And, Mister
-     Data, I suggest that you escort Commander Riker to
-     the brig.
-
-  DATA
-     Aye, sir.
-
-  ANNOTATION
-     Picard enters his quarters
-
-  DATA
-     (taking Riker's arm) This way, sir.
-
-  RIKER
-     Data, he was joking. You know that, right? Data?
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

@@ -1,1869 +1,988 @@
-Demons
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Demons</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>PAXTON:  How serious?</td></tr>
 
-LOCATION--Corridor
+<tr id="L2"><td><a href="#L2">2</a></td><td>DOCTOR:  If the swelling gets worse, it could inhibit her breathing.</td></tr>
 
-  PAXTON
-     How serious?
+<tr id="L3"><td><a href="#L3">3</a></td><td>PAXTON:  I told you to notify me if there was any trouble. Now, you say this has been going on for days?</td></tr>
 
-  DOCTOR
-     If the swelling gets worse, it could inhibit her
-     breathing.
+<tr id="L4"><td><a href="#L4">4</a></td><td>DOCTOR:  The monitoring equipment didn't detect the symptoms until this morning.</td></tr>
 
-  PAXTON
-     I told you to notify me if there was any trouble.
-     Now, you say this has been going on for days?
+<tr><td></td><td>LOCATION--Medical unit</td></tr>
+<tr id="L5"><td><a href="#L5">5</a></td><td>DOCTOR:  It isn't calibrated for this type of patient.</td></tr>
 
-  DOCTOR
-     The monitoring equipment didn't detect the
-     symptoms until this morning.
+<tr id="L6"><td><a href="#L6">6</a></td><td>ANNOTATION: He checks the readout on the incubator's monitor/</td></tr>
 
+<tr id="L7"><td><a href="#L7">7</a></td><td>PAXTON:  Well?</td></tr>
 
-LOCATION--Medical unit
+<tr id="L8"><td><a href="#L8">8</a></td><td>DOCTOR:  Fever's diminished. She's fighting it off.</td></tr>
 
-  DOCTOR
-     It isn't calibrated for this type of patient.
+<tr id="L9"><td><a href="#L9">9</a></td><td>PAXTON:  That's good news, for both of you.</td></tr>
 
-  ANNOTATION
-     He checks the readout on the incubator's monitor/
+<tr id="L10"><td><a href="#L10">10</a></td><td>DOCTOR:  Intravascular pressure has stabilised. Blood oxygenation is good.</td></tr>
 
-  PAXTON
-     Well?
+<tr id="L11"><td><a href="#L11">11</a></td><td>PAXTON:  She looks so innocent. It's almost possible to forget what she represents.</td></tr>
 
-  DOCTOR
-     Fever's diminished. She's fighting it off.
+<tr id="L12"><td><a href="#L12">12</a></td><td>DOCTOR:  We don't want to disturb her.</td></tr>
 
-  PAXTON
-     That's good news, for both of you.
+<tr id="L13"><td><a href="#L13">13</a></td><td>PAXTON:  No.</td></tr>
 
-  DOCTOR
-     Intravascular pressure has stabilised. Blood
-     oxygenation is good.
+<tr id="L14"><td><a href="#L14">14</a></td><td>ANNOTATION: They leave, and we get a good look at a little blue-eyed baby with pointed ears.</td></tr>
 
-  PAXTON
-     She looks so innocent. It's almost possible to
-     forget what she represents.
+<tr id="L15"><td><a href="#L15">15</a></td><td>SOMEONE: Captain's Starlog, January 19, 2155. Enterprise has been called home for what could prove to be a pivotal moment in human history.</td></tr>
 
-  DOCTOR
-     We don't want to disturb her.
+<tr><td></td><td>LOCATION--Starfleet Command</td></tr>
+<tr id="L16"><td><a href="#L16">16</a></td><td>ANNOTATION: In San Francisco, Starfleet is acting as a conference centre where representatives from several worlds are seated around a large horse-shoe shaped table, listening to a speech by a human. It is being taped by the press, and there are also spectators, including the Enterprise crew standing on a staircase.</td></tr>
 
-  PAXTON
-     No.
+<tr id="L17"><td><a href="#L17">17</a></td><td>SAMUELS:  Having endured a catastrophic World War, Earth's governments came to this city for the purpose of creating a just and lasting peace among nations. Today, we have assembled here again, representatives of numerous worlds, to forge an unprecedented alliance. With this Coalition of Planets, we seek to strengthen our bonds of friendship, render permanent the peace that now exists among us for the ongoing exploration of our galaxy. Let us dedicate ourselves to these worthy goals so that future generations can look back upon this moment with pride and eternal gratitude. Thank you.</td></tr>
 
-  ANNOTATION
-     They leave, and we get a good look at a little
-     blue-eyed baby with pointed ears.
+<tr id="L18"><td><a href="#L18">18</a></td><td>ANNOTATION: Applause, although Tucker is less than enthusiastic.</td></tr>
 
-  SOMEONE
-     Captain's Starlog, January 19, 2155. Enterprise
-     has been called home for what could prove to be a
-     pivotal moment in human history.
+<tr id="L19"><td><a href="#L19">19</a></td><td>ARCHER:  People are watching.</td></tr>
 
+<tr id="L20"><td><a href="#L20">20</a></td><td>TUCKER:  Nobody knows that better than him.</td></tr>
 
-LOCATION--Starfleet Command
+<tr id="L21"><td><a href="#L21">21</a></td><td>ARCHER:  Clap louder. That's an order.</td></tr>
 
-  ANNOTATION
-     In San Francisco, Starfleet is acting as a
-     conference centre where representatives from
-     several worlds are seated around a large
-     horse-shoe shaped table, listening to a speech by
-     a human. It is being taped by the press, and there
-     are also spectators, including the Enterprise crew
-     standing on a staircase.
+<tr id="L22"><td><a href="#L22">22</a></td><td>PHLOX:  I thought it was a fine speech.</td></tr>
 
-  SAMUELS
-     Having endured a catastrophic World War, Earth's
-     governments came to this city for the purpose of
-     creating a just and lasting peace among nations.
-     Today, we have assembled here again,
-     representatives of numerous worlds, to forge an
-     unprecedented alliance. With this Coalition of
-     Planets, we seek to strengthen our bonds of
-     friendship, render permanent the peace that now
-     exists among us for the ongoing exploration of our
-     galaxy. Let us dedicate ourselves to these worthy
-     goals so that future generations can look back
-     upon this moment with pride and eternal gratitude.
-     Thank you.
+<tr id="L23"><td><a href="#L23">23</a></td><td>TRAVIS:  Just missing a few names.</td></tr>
 
-  ANNOTATION
-     Applause, although Tucker is less than
-     enthusiastic.
+<tr id="L24"><td><a href="#L24">24</a></td><td>REED:  You'd think this was all his idea.</td></tr>
 
-  ARCHER
-     People are watching.
+<tr id="L25"><td><a href="#L25">25</a></td><td>HOSHI:  It's not about who gets credit.</td></tr>
 
-  TUCKER
-     Nobody knows that better than him.
+<tr id="L26"><td><a href="#L26">26</a></td><td>TUCKER:  He could've at least mentioned Enterprise. Who does he think got the Andorians and Tellarites talking?</td></tr>
 
-  ARCHER
-     Clap louder. That's an order.
+<tr id="L27"><td><a href="#L27">27</a></td><td>T'POL:  I'm sure history will reflect our contribution.</td></tr>
 
-  PHLOX
-     I thought it was a fine speech.
+<tr id="L28"><td><a href="#L28">28</a></td><td>TUCKER:  Not if he's writing it.</td></tr>
 
-  TRAVIS
-     Just missing a few names.
+<tr id="L29"><td><a href="#L29">29</a></td><td>ARCHER:  That's enough.</td></tr>
 
-  REED
-     You'd think this was all his idea.
+<tr id="L30"><td><a href="#L30">30</a></td><td>ANNOTATION: Archer leads his people down to meet Nathan Samuels.</td></tr>
 
-  HOSHI
-     It's not about who gets credit.
+<tr id="L31"><td><a href="#L31">31</a></td><td>SAMUELS:  I hope I didn't embarrass myself too much.</td></tr>
 
-  TUCKER
-     He could've at least mentioned Enterprise. Who
-     does he think got the Andorians and Tellarites
-     talking?
+<tr id="L32"><td><a href="#L32">32</a></td><td>ARCHER:  Far from it, Minister.</td></tr>
 
-  T'POL
-     I'm sure history will reflect our contribution.
+<tr id="L33"><td><a href="#L33">33</a></td><td>SAMUELS:  Call me Nathan. I want to thank you again for attending. Having Enterprise here seems to put everyone at ease. People feel comfortable in the presence of heroes.</td></tr>
 
-  TUCKER
-     Not if he's writing it.
+<tr id="L34"><td><a href="#L34">34</a></td><td>ARCHER:  Whatever we can do to help.</td></tr>
 
-  ARCHER
-     That's enough.
+<tr id="L35"><td><a href="#L35">35</a></td><td>SAMUELS:  Well, it certainly helps that the delegates can understand each other. These universal translators work perfectly, thanks to you.</td></tr>
 
-  ANNOTATION
-     Archer leads his people down to meet Nathan
-     Samuels.
+<tr id="L36"><td><a href="#L36">36</a></td><td>HOSHI:  I just updated them with a few things we picked up on the mission.</td></tr>
 
-  SAMUELS
-     I hope I didn't embarrass myself too much.
+<tr id="L37"><td><a href="#L37">37</a></td><td>SAMUELS:  Whatever you did, they're extremely precise. Though, when I'm listening to the Tellarite ambassador, I wish they were just a little less precise.</td></tr>
 
-  ARCHER
-     Far from it, Minister.
+<tr id="L38"><td><a href="#L38">38</a></td><td>T'POL:  You've set a formidable goal. The drafting of a charter in six weeks?</td></tr>
 
-  SAMUELS
-     Call me Nathan. I want to thank you again for
-     attending. Having Enterprise here seems to put
-     everyone at ease. People feel comfortable in the
-     presence of heroes.
+<tr id="L39"><td><a href="#L39">39</a></td><td>SAMUELS:  I've always believed that formidable goals produce formidable results.</td></tr>
 
-  ARCHER
-     Whatever we can do to help.
+<tr id="L40"><td><a href="#L40">40</a></td><td>ANNOTATION: Meanwhile, a lady member of the press meets up with Travis.</td></tr>
 
-  SAMUELS
-     Well, it certainly helps that the delegates can
-     understand each other. These universal translators
-     work perfectly, thanks to you.
+<tr id="L41"><td><a href="#L41">41</a></td><td>GANNET:  I decided to stop waiting.</td></tr>
 
-  HOSHI
-     I just updated them with a few things we picked up
-     on the mission.
+<tr id="L42"><td><a href="#L42">42</a></td><td>TRAVIS:  For what?</td></tr>
 
-  SAMUELS
-     Whatever you did, they're extremely precise.
-     Though, when I'm listening to the Tellarite
-     ambassador, I wish they were just a little less
-     precise.
+<tr id="L43"><td><a href="#L43">43</a></td><td>GANNET:  You to come over and say hello.</td></tr>
 
-  T'POL
-     You've set a formidable goal. The drafting of a
-     charter in six weeks?
+<tr id="L44"><td><a href="#L44">44</a></td><td>TRAVIS:  You were busy working.</td></tr>
 
-  SAMUELS
-     I've always believed that formidable goals produce
-     formidable results.
+<tr id="L45"><td><a href="#L45">45</a></td><td>GANNET:  We never had a problem mixing work and pleasure. Smile. I never could get you to smile for the camera.</td></tr>
 
-  ANNOTATION
-     Meanwhile, a lady member of the press meets up
-     with Travis.
+<tr id="L46"><td><a href="#L46">46</a></td><td>TRAVIS:  How have you been, Gannet?</td></tr>
 
-  GANNET
-     I decided to stop waiting.
+<tr id="L47"><td><a href="#L47">47</a></td><td>GANNET:  Busy. There haven't been many slow news days since the Xindi attack. I hear you're going to be in the neighborhood awhile.</td></tr>
 
-  TRAVIS
-     For what?
+<tr id="L48"><td><a href="#L48">48</a></td><td>TRAVIS:  At least until the conference is over.</td></tr>
 
-  GANNET
-     You to come over and say hello.
+<tr id="L49"><td><a href="#L49">49</a></td><td>GANNET:  We should get together. If we wait another four years, we're going to have too much catching up to do.</td></tr>
 
-  TRAVIS
-     You were busy working.
+<tr id="L50"><td><a href="#L50">50</a></td><td>TRAVIS:  Can't argue with that.</td></tr>
 
-  GANNET
-     We never had a problem mixing work and pleasure.
-     Smile. I never could get you to smile for the
-     camera.
+<tr id="L51"><td><a href="#L51">51</a></td><td>GANNET:  I'll pretend that was an enthusiastic yes. Back to work.</td></tr>
 
-  TRAVIS
-     How have you been, Gannet?
+<tr id="L52"><td><a href="#L52">52</a></td><td>ANNOTATION: They split up and we watch a pale woman in a coat come into the conference without a security badge.</td></tr>
 
-  GANNET
-     Busy. There haven't been many slow news days since
-     the Xindi attack. I hear you're going to be in the
-     neighborhood awhile.
+<tr id="L53"><td><a href="#L53">53</a></td><td>T'POL:  Commander Tucker does have a point. Enterprise laid the foundation for this event. Perhaps it should be you they're photographing.</td></tr>
 
-  TRAVIS
-     At least until the conference is over.
+<tr id="L54"><td><a href="#L54">54</a></td><td>ARCHER:  Samuels likes the spotlight, and he's welcome to it.</td></tr>
 
-  GANNET
-     We should get together. If we wait another four
-     years, we're going to have too much catching up to
-     do.
+<tr id="L55"><td><a href="#L55">55</a></td><td>KHOURI:  They're going to kill her.</td></tr>
 
-  TRAVIS
-     Can't argue with that.
+<tr id="L56"><td><a href="#L56">56</a></td><td>T'POL:  Excuse me?</td></tr>
 
-  GANNET
-     I'll pretend that was an enthusiastic yes. Back to
-     work.
+<tr id="L57"><td><a href="#L57">57</a></td><td>KHOURI:  Don't let them.</td></tr>
 
-  ANNOTATION
-     They split up and we watch a pale woman in a coat
-     come into the conference without a security badge.
+<tr id="L58"><td><a href="#L58">58</a></td><td>ANNOTATION: She puts a vial into T'Pol's hand and then collapses.</td></tr>
 
-  T'POL
-     Commander Tucker does have a point. Enterprise
-     laid the foundation for this event. Perhaps it
-     should be you they're photographing.
+<tr id="L59"><td><a href="#L59">59</a></td><td>KHOURI:  I'm sorry.</td></tr>
 
-  ARCHER
-     Samuels likes the spotlight, and he's welcome to
-     it.
+<tr id="L60"><td><a href="#L60">60</a></td><td>ANNOTATION: Phlox opens her coat to reveal a nasty stomach wound.</td></tr>
 
-  KHOURI
-     They're going to kill her.
+<tr id="L61"><td><a href="#L61">61</a></td><td>REED:  It's a phase-pistol wound.</td></tr>
 
-  T'POL
-     Excuse me?
+<tr id="L62"><td><a href="#L62">62</a></td><td>PHLOX:  She's going into shock. Get me a med kit!</td></tr>
 
-  KHOURI
-     Don't let them.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L63"><td><a href="#L63">63</a></td><td>PHLOX:  I just received word from Starfleet Medical. The wound was too severe. She didn't survive.</td></tr>
 
-  ANNOTATION
-     She puts a vial into T'Pol's hand and then
-     collapses.
+<tr id="L64"><td><a href="#L64">64</a></td><td>REED:  Do they think it could have been self-inflicted?</td></tr>
 
-  KHOURI
-     I'm sorry.
+<tr id="L65"><td><a href="#L65">65</a></td><td>PHLOX:  They didn't say. Do we know who she was?</td></tr>
 
-  ANNOTATION
-     Phlox opens her coat to reveal a nasty stomach
-     wound.
+<tr id="L66"><td><a href="#L66">66</a></td><td>T'POL:  Her name was Susan Khouri. She was a medical technician. She'd been having some emotional trouble. Took a leave from work over a year ago.</td></tr>
 
-  REED
-     It's a phase-pistol wound.
+<tr id="L67"><td><a href="#L67">67</a></td><td>TUCKER:  Any idea who the hair belonged to?</td></tr>
 
-  PHLOX
-     She's going into shock. Get me a med kit!
+<tr id="L68"><td><a href="#L68">68</a></td><td>PHLOX:  I have a very good idea.</td></tr>
 
+<tr id="L69"><td><a href="#L69">69</a></td><td>ANNOTATION: He goes to the main monitor.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L70"><td><a href="#L70">70</a></td><td>PHLOX:  It was from a child no more than six months old. I used every DNA identification protocol I'm aware of. I even used a Klingon procedure.</td></tr>
 
-  PHLOX
-     I just received word from Starfleet Medical. The
-     wound was too severe. She didn't survive.
+<tr id="L71"><td><a href="#L71">71</a></td><td>ARCHER:  Go ahead.</td></tr>
 
-  REED
-     Do they think it could have been self-inflicted?
+<tr id="L72"><td><a href="#L72">72</a></td><td>PHLOX:  It contains Vulcan and human DNA. I had the computer search for any matches in the Starfleet databank. When I got the results, I ran the search three more times just to be certain.</td></tr>
 
-  PHLOX
-     They didn't say. Do we know who she was?
+<tr id="L73"><td><a href="#L73">73</a></td><td>ARCHER:  And?</td></tr>
 
-  T'POL
-     Her name was Susan Khouri. She was a medical
-     technician. She'd been having some emotional
-     trouble. Took a leave from work over a year ago.
+<tr id="L74"><td><a href="#L74">74</a></td><td>PHLOX:  According to every analysis, this child is the offspring of Commander Tucker and Commander T'Pol.</td></tr>
 
-  TUCKER
-     Any idea who the hair belonged to?
+<tr><td></td><td>LOCATION--T'Pol's quarters</td></tr>
+<tr id="L75"><td><a href="#L75">75</a></td><td>ANNOTATION: T'Pol is trying to meditate when the doorbell chimes.</td></tr>
 
-  PHLOX
-     I have a very good idea.
+<tr id="L76"><td><a href="#L76">76</a></td><td>T'POL:  Come in.</td></tr>
 
-  ANNOTATION
-     He goes to the main monitor.
+<tr id="L77"><td><a href="#L77">77</a></td><td>TUCKER:  We got to talk about this.</td></tr>
 
-  PHLOX
-     It was from a child no more than six months old. I
-     used every DNA identification protocol I'm aware
-     of. I even used a Klingon procedure.
+<tr id="L78"><td><a href="#L78">78</a></td><td>T'POL:  It's difficult to talk about something that doesn't make sense.</td></tr>
 
-  ARCHER
-     Go ahead.
+<tr id="L79"><td><a href="#L79">79</a></td><td>TUCKER:  Phlox said DNA doesn't lie.</td></tr>
 
-  PHLOX
-     It contains Vulcan and human DNA. I had the
-     computer search for any matches in the Starfleet
-     databank. When I got the results, I ran the search
-     three more times just to be certain.
+<tr id="L80"><td><a href="#L80">80</a></td><td>T'POL:  Neither do I. I've never been pregnant, Trip.</td></tr>
 
-  ARCHER
-     And?
+<tr id="L81"><td><a href="#L81">81</a></td><td>TUCKER:  Then how do you explain all this?</td></tr>
 
-  PHLOX
-     According to every analysis, this child is the
-     offspring of Commander Tucker and Commander T'Pol.
+<tr id="L82"><td><a href="#L82">82</a></td><td>T'POL:  I can't. Do you believe me?</td></tr>
 
+<tr id="L83"><td><a href="#L83">83</a></td><td>TUCKER:  Yeah. Phlox must be wrong, that's all there is to it. If you've never been pregnant, then you can't have a baby.</td></tr>
 
-LOCATION--T'Pol's quarters
+<tr id="L84"><td><a href="#L84">84</a></td><td>T'POL:  Trip, the moment Phlox said that the child was ours, I knew it was true.</td></tr>
 
-  ANNOTATION
-     T'Pol is trying to meditate when the doorbell
-     chimes.
+<tr id="L85"><td><a href="#L85">85</a></td><td>TUCKER:  But you said you'd never been</td></tr>
 
-  T'POL
-     Come in.
+<tr id="L86"><td><a href="#L86">86</a></td><td>T'POL:  I haven't.</td></tr>
 
-  TUCKER
-     We got to talk about this.
+<tr id="L87"><td><a href="#L87">87</a></td><td>TUCKER:  Then what are you saying?</td></tr>
 
-  T'POL
-     It's difficult to talk about something that
-     doesn't make sense.
+<tr id="L88"><td><a href="#L88">88</a></td><td>T'POL:  I can't explain how it exists, but I know it does. There's a child out there, and it's ours.</td></tr>
 
-  TUCKER
-     Phlox said DNA doesn't lie.
+<tr id="L89"><td><a href="#L89">89</a></td><td>TUCKER:  How do you know that?</td></tr>
 
-  T'POL
-     Neither do I. I've never been pregnant, Trip.
+<tr id="L90"><td><a href="#L90">90</a></td><td>T'POL:  I'm Vulcan.</td></tr>
 
-  TUCKER
-     Then how do you explain all this?
+<tr><td></td><td>LOCATION--Conference room</td></tr>
+<tr id="L91"><td><a href="#L91">91</a></td><td>ANNOTATION: It's too big to be the Captain's mess, and there are flags in the corner now.</td></tr>
 
-  T'POL
-     I can't. Do you believe me?
+<tr id="L92"><td><a href="#L92">92</a></td><td>SAMUELS:  Fortunately, the news hasn't spread to the general public, and I'd like to keep it that way.</td></tr>
 
-  TUCKER
-     Yeah. Phlox must be wrong, that's all there is to
-     it. If you've never been pregnant, then you can't
-     have a baby.
+<tr id="L93"><td><a href="#L93">93</a></td><td>ARCHER:  If we made an announcement, someone might come forward with information.</td></tr>
 
-  T'POL
-     Trip, the moment Phlox said that the child was
-     ours, I knew it was true.
+<tr id="L94"><td><a href="#L94">94</a></td><td>SAMUELS:  An announcement of this nature could derail the conference.</td></tr>
 
-  TUCKER
-     But you said you'd never been
+<tr id="L95"><td><a href="#L95">95</a></td><td>ARCHER:  How?</td></tr>
 
-  T'POL
-     I haven't.
+<tr id="L96"><td><a href="#L96">96</a></td><td>SAMUELS:  You haven't spent much time on Earth lately. After the Xindi attack, there was a dangerous increase in xenophobia.</td></tr>
 
-  TUCKER
-     Then what are you saying?
+<tr id="L97"><td><a href="#L97">97</a></td><td>ARCHER:  We got a taste of it.</td></tr>
 
-  T'POL
-     I can't explain how it exists, but I know it does.
-     There's a child out there, and it's ours.
+<tr id="L98"><td><a href="#L98">98</a></td><td>SAMUELS:  It died down somewhat, but not completely. There are still people out there who want us to stay in our little corner of the galaxy. The news of a Vulcan-human hybrid could inflame them, give them something to rally against.</td></tr>
 
-  TUCKER
-     How do you know that?
+<tr id="L99"><td><a href="#L99">99</a></td><td>ARCHER:  I can't believe we're talking about more than a small minority.</td></tr>
 
-  T'POL
-     I'm Vulcan.
+<tr id="L100"><td><a href="#L100">100</a></td><td>SAMUELS:  As I said, you've been away for a while.</td></tr>
 
+<tr id="L101"><td><a href="#L101">101</a></td><td>ARCHER:  Maybe I just have a little more faith in humanity than you do.</td></tr>
 
-LOCATION--Conference room
+<tr id="L102"><td><a href="#L102">102</a></td><td>SAMUELS:  Can't afford to operate on faith. There's more at stake here than a simple trade agreement. You fought the Xindi. You know better than anyone how Earth's survival depends on alliances with other species. We don't have the Vulcans watching our backs anymore.</td></tr>
 
-  ANNOTATION
-     It's too big to be the Captain's mess, and there
-     are flags in the corner now.
+<tr id="L103"><td><a href="#L103">103</a></td><td>ARCHER:  This isn't about finding someone else to watch our backs.</td></tr>
 
-  SAMUELS
-     Fortunately, the news hasn't spread to the general
-     public, and I'd like to keep it that way.
+<tr id="L104"><td><a href="#L104">104</a></td><td>SAMUELS:  All I'm saying is that there's strength in numbers.</td></tr>
 
-  ARCHER
-     If we made an announcement, someone might come
-     forward with information.
+<tr id="L105"><td><a href="#L105">105</a></td><td>ARCHER:  All right. I was hoping you'd have some word on the investigation. My Engineer and Science Officer are eager to get some answers.</td></tr>
 
-  SAMUELS
-     An announcement of this nature could derail the
-     conference.
+<tr id="L106"><td><a href="#L106">106</a></td><td>SAMUELS:  I'm sure they are, but I've heard nothing new.</td></tr>
 
-  ARCHER
-     How?
+<tr id="L107"><td><a href="#L107">107</a></td><td>ARCHER:  There's got to be something we can do.</td></tr>
 
-  SAMUELS
-     You haven't spent much time on Earth lately. After
-     the Xindi attack, there was a dangerous increase
-     in xenophobia.
+<tr id="L108"><td><a href="#L108">108</a></td><td>SAMUELS:  Starfleet investigators are more than capable of handling this. I suggest we let them do their job. I'll notify you the moment I hear something. I appreciate your co-operation.</td></tr>
 
-  ARCHER
-     We got a taste of it.
+<tr id="L109"><td><a href="#L109">109</a></td><td>ANNOTATION: Samuels leaves, and Archer goes to the comm. panel.</td></tr>
 
-  SAMUELS
-     It died down somewhat, but not completely. There
-     are still people out there who want us to stay in
-     our little corner of the galaxy. The news of a
-     Vulcan-human hybrid could inflame them, give them
-     something to rally against.
+<tr id="L110"><td><a href="#L110">110</a></td><td>REED [OC]:  Reed.</td></tr>
 
-  ARCHER
-     I can't believe we're talking about more than a
-     small minority.
+<tr id="L111"><td><a href="#L111">111</a></td><td>ARCHER:  It's Captain Archer. I want you to talk to an old friend.</td></tr>
 
-  SAMUELS
-     As I said, you've been away for a while.
+<tr><td></td><td>LOCATION--Dockside, night</td></tr>
+<tr id="L112"><td><a href="#L112">112</a></td><td>ANNOTATION: A seagull cries, then a voice comes from the mist.</td></tr>
 
-  ARCHER
-     Maybe I just have a little more faith in humanity
-     than you do.
+<tr id="L113"><td><a href="#L113">113</a></td><td>HARRIS:  The last time we spoke, you asked me to never contact you again.</td></tr>
 
-  SAMUELS
-     Can't afford to operate on faith. There's more at
-     stake here than a simple trade agreement. You
-     fought the Xindi. You know better than anyone how
-     Earth's survival depends on alliances with other
-     species. We don't have the Vulcans watching our
-     backs anymore.
+<tr id="L114"><td><a href="#L114">114</a></td><td>REED:  I contacted you. Susan Khouri</td></tr>
 
-  ARCHER
-     This isn't about finding someone else to watch our
-     backs.
+<tr id="L115"><td><a href="#L115">115</a></td><td>HARRIS:  First, we need an understanding.</td></tr>
 
-  SAMUELS
-     All I'm saying is that there's strength in
-     numbers.
+<tr id="L116"><td><a href="#L116">116</a></td><td>REED:  About what?</td></tr>
 
-  ARCHER
-     All right. I was hoping you'd have some word on
-     the investigation. My Engineer and Science Officer
-     are eager to get some answers.
+<tr id="L117"><td><a href="#L117">117</a></td><td>HARRIS:  That by speaking to me, you're back in the game. Simple as that.</td></tr>
 
-  SAMUELS
-     I'm sure they are, but I've heard nothing new.
+<tr id="L118"><td><a href="#L118">118</a></td><td>REED:  Who was she?</td></tr>
 
-  ARCHER
-     There's got to be something we can do.
+<tr id="L119"><td><a href="#L119">119</a></td><td>HARRIS:  She was more than just an emotionally troubled nurse. She was a member of an underground isolationist movement, Terra Prime.</td></tr>
 
-  SAMUELS
-     Starfleet investigators are more than capable of
-     handling this. I suggest we let them do their job.
-     I'll notify you the moment I hear something. I
-     appreciate your co-operation.
+<tr id="L120"><td><a href="#L120">120</a></td><td>REED:  I've heard of them. They want to stop all contact with alien species.</td></tr>
 
-  ANNOTATION
-     Samuels leaves, and Archer goes to the comm.
-     panel.
+<tr id="L121"><td><a href="#L121">121</a></td><td>HARRIS:  They believe it's corrupting our way of life.</td></tr>
 
-  REED [OC]
-     Reed.
+<tr id="L122"><td><a href="#L122">122</a></td><td>REED:  I remember they made a lot of noise back when Enterprise was launched.</td></tr>
 
-  ARCHER
-     It's Captain Archer. I want you to talk to an old
-     friend.
+<tr id="L123"><td><a href="#L123">123</a></td><td>HARRIS:  They had a resurgence following the Xindi attack. We think Khouri was trying to leave the movement.</td></tr>
 
+<tr id="L124"><td><a href="#L124">124</a></td><td>REED:  That's why they killed her?</td></tr>
 
-LOCATION--Dockside, night
+<tr id="L125"><td><a href="#L125">125</a></td><td>HARRIS:  Her defection may have had something to do with the child.</td></tr>
 
-  ANNOTATION
-     A seagull cries, then a voice comes from the mist.
+<tr id="L126"><td><a href="#L126">126</a></td><td>REED:  I was getting to that.</td></tr>
 
-  HARRIS
-     The last time we spoke, you asked me to never
-     contact you again.
+<tr id="L127"><td><a href="#L127">127</a></td><td>HARRIS:  The child belongs to two of your crewmen. You tell me.</td></tr>
 
-  REED
-     I contacted you. Susan Khouri
+<tr id="L128"><td><a href="#L128">128</a></td><td>REED:  They claim they don't know anything about it.</td></tr>
 
-  HARRIS
-     First, we need an understanding.
+<tr id="L129"><td><a href="#L129">129</a></td><td>HARRIS:  That doesn't seem likely, does it?</td></tr>
 
-  REED
-     About what?
+<tr id="L130"><td><a href="#L130">130</a></td><td>REED:  I believe them.</td></tr>
 
-  HARRIS
-     That by speaking to me, you're back in the game.
-     Simple as that.
+<tr id="L131"><td><a href="#L131">131</a></td><td>HARRIS:  I admire your loyalty. We think Terra Prime is involved, and that they're planning something.</td></tr>
 
-  REED
-     Who was she?
+<tr id="L132"><td><a href="#L132">132</a></td><td>REED:  You just don't know what?</td></tr>
 
-  HARRIS
-     She was more than just an emotionally troubled
-     nurse. She was a member of an underground
-     isolationist movement, Terra Prime.
+<tr id="L133"><td><a href="#L133">133</a></td><td>HARRIS:  We suspect it has something to do with the child. Find it, and we'll have the answers.</td></tr>
 
-  REED
-     I've heard of them. They want to stop all contact
-     with alien species.
+<tr><td></td><td>LOCATION--Paxton's office</td></tr>
+<tr id="L134"><td><a href="#L134">134</a></td><td>ANNOTATION: The establishing monochrome shot suggests we're on Moonbase Alpha.</td></tr>
 
-  HARRIS
-     They believe it's corrupting our way of life.
+<tr id="L135"><td><a href="#L135">135</a></td><td>PAXTON:  You recruited her.</td></tr>
 
-  REED
-     I remember they made a lot of noise back when
-     Enterprise was launched.
+<tr id="L136"><td><a href="#L136">136</a></td><td>DOCTOR:  I needed her expertise. I thought she was reliable.</td></tr>
 
-  HARRIS
-     They had a resurgence following the Xindi attack.
-     We think Khouri was trying to leave the movement.
+<tr id="L137"><td><a href="#L137">137</a></td><td>PAXTON:  Obviously, you were mistaken.</td></tr>
 
-  REED
-     That's why they killed her?
+<tr id="L138"><td><a href="#L138">138</a></td><td>DOCTOR:  If she'd told them anything truly damaging, I think we'd know it by now.</td></tr>
 
-  HARRIS
-     Her defection may have had something to do with
-     the child.
+<tr id="L139"><td><a href="#L139">139</a></td><td>PAXTON:  We can't be sure what she told them. Anyway, I'm more concerned with why she turned away from us.</td></tr>
 
-  REED
-     I was getting to that.
+<tr id="L140"><td><a href="#L140">140</a></td><td>DOCTOR:  I think that she might have become attached to the patient. She spent a great deal of time caring for her.</td></tr>
 
-  HARRIS
-     The child belongs to two of your crewmen. You tell
-     me.
+<tr id="L141"><td><a href="#L141">141</a></td><td>PAXTON:  And what about you?</td></tr>
 
-  REED
-     They claim they don't know anything about it.
+<tr id="L142"><td><a href="#L142">142</a></td><td>DOCTOR:  Me?</td></tr>
 
-  HARRIS
-     That doesn't seem likely, does it?
+<tr id="L143"><td><a href="#L143">143</a></td><td>PAXTON:  Yes. You've spent as much time with that child as she did.</td></tr>
 
-  REED
-     I believe them.
+<tr id="L144"><td><a href="#L144">144</a></td><td>DOCTOR:  I feel no differently about it than anyone else that I've treated.</td></tr>
 
-  HARRIS
-     I admire your loyalty. We think Terra Prime is
-     involved, and that they're planning something.
+<tr id="L145"><td><a href="#L145">145</a></td><td>PAXTON:  This isn't anyone else. This is an abomination. And when the time comes, it will be treated as such.</td></tr>
 
-  REED
-     You just don't know what?
+<tr id="L146"><td><a href="#L146">146</a></td><td>DOCTOR:  I understand.</td></tr>
 
-  HARRIS
-     We suspect it has something to do with the child.
-     Find it, and we'll have the answers.
+<tr id="L147"><td><a href="#L147">147</a></td><td>ANNOTATION: Paxton looks out of the window towards Earth.</td></tr>
 
+<tr id="L148"><td><a href="#L148">148</a></td><td>PAXTON:  Well, I'm going to miss this place. The simplicity. There's no middle ground here and I can see the Earth. Send in Greaves on your way out.</td></tr>
 
-LOCATION--Paxton's office
+<tr id="L149"><td><a href="#L149">149</a></td><td>DOCTOR:  Yes, sir.</td></tr>
 
-  ANNOTATION
-     The establishing monochrome shot suggests we're on
-     Moonbase Alpha.
+<tr id="L150"><td><a href="#L150">150</a></td><td>ANNOTATION: The doctor leaves, and nods to a big, big man who enters.</td></tr>
 
-  PAXTON
-     You recruited her.
+<tr id="L151"><td><a href="#L151">151</a></td><td>GREAVES:  I gave the men your message. We'll be ready at a moment's notice.</td></tr>
 
-  DOCTOR
-     I needed her expertise. I thought she was
-     reliable.
+<tr id="L152"><td><a href="#L152">152</a></td><td>PAXTON:  Tell them I appreciate their hard work.</td></tr>
 
-  PAXTON
-     Obviously, you were mistaken.
+<tr id="L153"><td><a href="#L153">153</a></td><td>GREAVES:  They already know.</td></tr>
 
-  DOCTOR
-     If she'd told them anything truly damaging, I
-     think we'd know it by now.
+<tr id="L154"><td><a href="#L154">154</a></td><td>PAXTON:  There's one other thing. A loose end that needs tying up. Put together a group, have them meet me at the third junction in, say, one hour.</td></tr>
 
-  PAXTON
-     We can't be sure what she told them. Anyway, I'm
-     more concerned with why she turned away from us.
+<tr id="L155"><td><a href="#L155">155</a></td><td>GREAVES:  Done.</td></tr>
 
-  DOCTOR
-     I think that she might have become attached to the
-     patient. She spent a great deal of time caring for
-     her.
+<tr><td></td><td>LOCATION--Starfleet Command</td></tr>
+<tr id="L156"><td><a href="#L156">156</a></td><td>SAMUELS:  The Tellarites are pushing for an embargo against the Orions. They claim they've been attacking their freighters.</td></tr>
 
-  PAXTON
-     And what about you?
+<tr id="L157"><td><a href="#L157">157</a></td><td>CORIDAN:  We have traded with the Orions for centuries. We would've known of these attacks. This is Tellarite slander.</td></tr>
 
-  DOCTOR
-     Me?
+<tr id="L158"><td><a href="#L158">158</a></td><td>SAMUELS:  You have to appreciate their point of view.</td></tr>
 
-  PAXTON
-     Yes. You've spent as much time with that child as
-     she did.
+<tr id="L159"><td><a href="#L159">159</a></td><td>CORIDAN:  The Tellarites only want to deprive us of valuable commerce. Coridan will never agree to any trade sanctions.</td></tr>
 
-  DOCTOR
-     I feel no differently about it than anyone else
-     that I've treated.
+<tr id="L160"><td><a href="#L160">160</a></td><td>SAMUELS:  Ambassador, Captain Archer.</td></tr>
 
-  PAXTON
-     This isn't anyone else. This is an abomination.
-     And when the time comes, it will be treated as
-     such.
+<tr id="L161"><td><a href="#L161">161</a></td><td>ARCHER:  Ambassador.</td></tr>
 
-  DOCTOR
-     I understand.
+<tr id="L162"><td><a href="#L162">162</a></td><td>CORIDAN:  I need to contact my government about the today's developments. Excuse me.</td></tr>
 
-  ANNOTATION
-     Paxton looks out of the window towards Earth.
+<tr id="L163"><td><a href="#L163">163</a></td><td>ANNOTATION: He leaves them.</td></tr>
 
-  PAXTON
-     Well, I'm going to miss this place. The
-     simplicity. There's no middle ground here and I
-     can see the Earth. Send in Greaves on your way
-     out.
+<tr id="L164"><td><a href="#L164">164</a></td><td>SAMUELS:  How can I help you?</td></tr>
 
-  DOCTOR
-     Yes, sir.
+<tr id="L165"><td><a href="#L165">165</a></td><td>ARCHER:  I want everything Starfleet has on the investigation.</td></tr>
 
-  ANNOTATION
-     The doctor leaves, and nods to a big, big man who
-     enters.
+<tr id="L166"><td><a href="#L166">166</a></td><td>SAMUELS:  Why come to me?</td></tr>
 
-  GREAVES
-     I gave the men your message. We'll be ready at a
-     moment's notice.
+<tr id="L167"><td><a href="#L167">167</a></td><td>ARCHER:  Because the Chief Investigator turned me down. You can change his mind.</td></tr>
 
-  PAXTON
-     Tell them I appreciate their hard work.
+<tr id="L168"><td><a href="#L168">168</a></td><td>SAMUELS:  I can't do that. I'm sorry.</td></tr>
 
-  GREAVES
-     They already know.
+<tr id="L169"><td><a href="#L169">169</a></td><td>ARCHER:  Susan Khouri was a member of Terra Prime.</td></tr>
 
-  PAXTON
-     There's one other thing. A loose end that needs
-     tying up. Put together a group, have them meet me
-     at the third junction in, say, one hour.
+<tr id="L170"><td><a href="#L170">170</a></td><td>SAMUELS:  If that's true, it's extremely troubling.</td></tr>
 
-  GREAVES
-     Done.
+<tr id="L171"><td><a href="#L171">171</a></td><td>ARCHER:  Not as troubling as something else we learned. You were once a member.</td></tr>
 
+<tr id="L172"><td><a href="#L172">172</a></td><td>SAMUELS:  It seems you're doing fairly well investigating on your own.</td></tr>
 
-LOCATION--Starfleet Command
+<tr id="L173"><td><a href="#L173">173</a></td><td>ARCHER:  That's why you wanted this kept quiet.</td></tr>
 
-  SAMUELS
-     The Tellarites are pushing for an embargo against
-     the Orions. They claim they've been attacking
-     their freighters.
+<tr id="L174"><td><a href="#L174">174</a></td><td>SAMUELS:  I've already explained why there was a need for secrecy. I was very young when I joined Terra Prime.</td></tr>
 
-  CORIDAN
-     We have traded with the Orions for centuries. We
-     would've known of these attacks. This is Tellarite
-     slander.
+<tr id="L175"><td><a href="#L175">175</a></td><td>ARCHER:  You were eighteen.</td></tr>
 
-  SAMUELS
-     You have to appreciate their point of view.
+<tr id="L176"><td><a href="#L176">176</a></td><td>SAMUELS:  Didn't you make any questionable choices when you were that age, Captain? It was a stupid mistake. I was a fool. My father had died in a freighter accident and I blamed the pilot, who happened to be Denobulan. We all have our demons. I've exorcised mine.</td></tr>
 
-  CORIDAN
-     The Tellarites only want to deprive us of valuable
-     commerce. Coridan will never agree to any trade
-     sanctions.
+<tr id="L177"><td><a href="#L177">177</a></td><td>ARCHER:  I don't care what you did when you were young, Minister. I need your help.</td></tr>
 
-  SAMUELS
-     Ambassador, Captain Archer.
+<tr id="L178"><td><a href="#L178">178</a></td><td>SAMUELS:  I underestimated you. I suppose I'm not the first person to make that mistake. You'll have your case file within the hour.</td></tr>
 
-  ARCHER
-     Ambassador.
+<tr id="L179"><td><a href="#L179">179</a></td><td>ARCHER:  Thank you.</td></tr>
 
-  CORIDAN
-     I need to contact my government about the today's
-     developments. Excuse me.
+<tr><td></td><td>LOCATION--Travis' quarters</td></tr>
+<tr id="L180"><td><a href="#L180">180</a></td><td>ANNOTATION: He's in casual clothes, working at his computer when the doorbell chimes.</td></tr>
 
-  ANNOTATION
-     He leaves them.
+<tr id="L181"><td><a href="#L181">181</a></td><td>GANNET:  (camera apparently on) I can't decide if I like you better in uniform or not.</td></tr>
 
-  SAMUELS
-     How can I help you?
+<tr id="L182"><td><a href="#L182">182</a></td><td>TRAVIS:  What are you doing here?</td></tr>
 
-  ARCHER
-     I want everything Starfleet has on the
-     investigation.
+<tr id="L183"><td><a href="#L183">183</a></td><td>GANNET:  I've been assigned to do a story on Enterprise. They can build a ship that goes faster than light, but they can't give you a decent-sized room.</td></tr>
 
-  SAMUELS
-     Why come to me?
+<tr id="L184"><td><a href="#L184">184</a></td><td>TRAVIS:  A story?</td></tr>
 
-  ARCHER
-     Because the Chief Investigator turned me down. You
-     can change his mind.
+<tr id="L185"><td><a href="#L185">185</a></td><td>GANNET:  It's told from the perspective of the crew. It'll cover the missions, the perils, life in space. So, shall we start with a tour?</td></tr>
 
-  SAMUELS
-     I can't do that. I'm sorry.
+<tr id="L186"><td><a href="#L186">186</a></td><td>TRAVIS:  I've got some work to do.</td></tr>
 
-  ARCHER
-     Susan Khouri was a member of Terra Prime.
+<tr id="L187"><td><a href="#L187">187</a></td><td>GANNET:  You're not on duty.</td></tr>
 
-  SAMUELS
-     If that's true, it's extremely troubling.
+<tr id="L188"><td><a href="#L188">188</a></td><td>TRAVIS:  Gannet. (She switches off the camera.)</td></tr>
 
-  ARCHER
-     Not as troubling as something else we learned. You
-     were once a member.
+<tr id="L189"><td><a href="#L189">189</a></td><td>GANNET:  Okay, so, maybe I wasn't assigned the story. Maybe I suggested the idea to my editor.</td></tr>
 
-  SAMUELS
-     It seems you're doing fairly well investigating on
-     your own.
+<tr id="L190"><td><a href="#L190">190</a></td><td>TRAVIS:  He know how you feel about space exploration? That it's the last vestige of colonial impulse?</td></tr>
 
-  ARCHER
-     That's why you wanted this kept quiet.
+<tr id="L191"><td><a href="#L191">191</a></td><td>GANNET:  I only said that to keep you from signing onto this mission.</td></tr>
 
-  SAMUELS
-     I've already explained why there was a need for
-     secrecy. I was very young when I joined Terra
-     Prime.
+<tr id="L192"><td><a href="#L192">192</a></td><td>TRAVIS:  Find another story to do.</td></tr>
 
-  ARCHER
-     You were eighteen.
+<tr id="L193"><td><a href="#L193">193</a></td><td>GANNET:  It's too late. It's due a week from today.</td></tr>
 
-  SAMUELS
-     Didn't you make any questionable choices when you
-     were that age, Captain? It was a stupid mistake. I
-     was a fool. My father had died in a freighter
-     accident and I blamed the pilot, who happened to
-     be Denobulan. We all have our demons. I've
-     exorcised mine.
+<tr id="L194"><td><a href="#L194">194</a></td><td>TRAVIS:  Then you're going to have to find another source for your information.</td></tr>
 
-  ARCHER
-     I don't care what you did when you were young,
-     Minister. I need your help.
+<tr id="L195"><td><a href="#L195">195</a></td><td>GANNET:  Why are you avoiding me?</td></tr>
 
-  SAMUELS
-     I underestimated you. I suppose I'm not the first
-     person to make that mistake. You'll have your case
-     file within the hour.
+<tr id="L196"><td><a href="#L196">196</a></td><td>TRAVIS:  Can you give me one reason why I shouldn't avoid you?</td></tr>
 
-  ARCHER
-     Thank you.
+<tr id="L197"><td><a href="#L197">197</a></td><td>GANNET:  We both called it off. It was a mutual decision.</td></tr>
 
+<tr id="L198"><td><a href="#L198">198</a></td><td>TRAVIS:  And it looks like you've changed your mind.</td></tr>
 
-LOCATION--Travis' quarters
+<tr id="L199"><td><a href="#L199">199</a></td><td>GANNET:  I haven't decided yet.</td></tr>
 
-  ANNOTATION
-     He's in casual clothes, working at his computer
-     when the doorbell chimes.
+<tr id="L200"><td><a href="#L200">200</a></td><td>TRAVIS:  That's the first honest thing you've said.</td></tr>
 
-  GANNET
-     (camera apparently on) I can't decide if I like
-     you better in uniform or not.
+<tr id="L201"><td><a href="#L201">201</a></td><td>GANNET:  So, reward me by giving me that tour.</td></tr>
 
-  TRAVIS
-     What are you doing here?
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L202"><td><a href="#L202">202</a></td><td>TUCKER:  Got a minute?</td></tr>
 
-  GANNET
-     I've been assigned to do a story on Enterprise.
-     They can build a ship that goes faster than light,
-     but they can't give you a decent-sized room.
+<tr id="L203"><td><a href="#L203">203</a></td><td>PHLOX:  Certainly.</td></tr>
 
-  TRAVIS
-     A story?
+<tr id="L204"><td><a href="#L204">204</a></td><td>TUCKER:  This baby, can you tell if it's a boy or a girl?</td></tr>
 
-  GANNET
-     It's told from the perspective of the crew. It'll
-     cover the missions, the perils, life in space. So,
-     shall we start with a tour?
+<tr id="L205"><td><a href="#L205">205</a></td><td>PHLOX:  It's a girl.</td></tr>
 
-  TRAVIS
-     I've got some work to do.
+<tr id="L206"><td><a href="#L206">206</a></td><td>TUCKER:  A girl. Is it okay? I mean, it's part human and part Vulcan.</td></tr>
 
-  GANNET
-     You're not on duty.
+<tr id="L207"><td><a href="#L207">207</a></td><td>PHLOX:  Vulcan and human physiology are not all that dissimilar. From the evidence I have, there's no reason to believe she's anything but perfectly healthy.</td></tr>
 
-  TRAVIS
-     Gannet. (She switches off the camera.)
+<tr id="L208"><td><a href="#L208">208</a></td><td>TUCKER:  That's good to hear.</td></tr>
 
-  GANNET
-     Okay, so, maybe I wasn't assigned the story. Maybe
-     I suggested the idea to my editor.
+<tr id="L209"><td><a href="#L209">209</a></td><td>PHLOX:  You'll also be interested to know she has your eyes, and T'Pol's ears.</td></tr>
 
-  TRAVIS
-     He know how you feel about space exploration? That
-     it's the last vestige of colonial impulse?
+<tr id="L210"><td><a href="#L210">210</a></td><td>TUCKER:  I still can't believe it.</td></tr>
 
-  GANNET
-     I only said that to keep you from signing onto
-     this mission.
+<tr id="L211"><td><a href="#L211">211</a></td><td>PHLOX:  I'm in something of a quandary about it myself. Especially since T'Pol's never been pregnant.</td></tr>
 
-  TRAVIS
-     Find another story to do.
+<tr id="L212"><td><a href="#L212">212</a></td><td>TUCKER:  She could have gotten pregnant and not told me about it.</td></tr>
 
-  GANNET
-     It's too late. It's due a week from today.
+<tr id="L213"><td><a href="#L213">213</a></td><td>PHLOX:  And she had the embryo removed, also without your knowledge? I believe you know the answer to that theory, Commander.</td></tr>
 
-  TRAVIS
-     Then you're going to have to find another source
-     for your information.
+<tr id="L214"><td><a href="#L214">214</a></td><td>TUCKER:  Yeah, I guess I do.</td></tr>
 
-  GANNET
-     Why are you avoiding me?
+<tr id="L215"><td><a href="#L215">215</a></td><td>PHLOX:  We'll get to the bottom of this soon enough. Until then, I suggest you keep any such theories to yourself.</td></tr>
 
-  TRAVIS
-     Can you give me one reason why I shouldn't avoid
-     you?
+<tr id="L216"><td><a href="#L216">216</a></td><td>TUCKER:  That's good advice. You know, my father always wanted a granddaughter. He bugged my sister about it constantly.</td></tr>
 
-  GANNET
-     We both called it off. It was a mutual decision.
+<tr id="L217"><td><a href="#L217">217</a></td><td>PHLOX:  It seems he got his wish.</td></tr>
 
-  TRAVIS
-     And it looks like you've changed your mind.
+<tr id="L218"><td><a href="#L218">218</a></td><td>TUCKER:  Yeah.</td></tr>
 
-  GANNET
-     I haven't decided yet.
+<tr><td></td><td>LOCATION--Paxton's office</td></tr>
+<tr id="L219"><td><a href="#L219">219</a></td><td>ANNOTATION: He's watching a recording on a screen. The speaker is talking to an audience and being applauded.</td></tr>
 
-  TRAVIS
-     That's the first honest thing you've said.
+<tr id="L220"><td><a href="#L220">220</a></td><td>GREEN [on screen]:  In the shadow of this incalculable devastation, we find ourselves facing a colossal challenge. There's an entire world to rebuild. Not only our cities and homes, but mankind itself! Now is not the time not the time for timidity and second guessing. We cannot afford to doubt ourselves.</td></tr>
 
-  GANNET
-     So, reward me by giving me that tour.
+<tr id="L221"><td><a href="#L221">221</a></td><td>ANNOTATION: Greaves enters.</td></tr>
 
+<tr id="L222"><td><a href="#L222">222</a></td><td>PAXTON:  The Third World War had just ended and the cease-fire was barely three years old.</td></tr>
 
-LOCATION--Sickbay
+<tr id="L223"><td><a href="#L223">223</a></td><td>GREEN [on screen]:  Unless we act decisively, we will pass on the scars of mutation and decay to future generations.</td></tr>
 
-  TUCKER
-     Got a minute?
+<tr id="L224"><td><a href="#L224">224</a></td><td>GREAVES:  Colonel Green.</td></tr>
 
-  PHLOX
-     Certainly.
+<tr id="L225"><td><a href="#L225">225</a></td><td>PAXTON:  Colonel Green. One of many men history has misunderstood.</td></tr>
 
-  TUCKER
-     This baby, can you tell if it's a boy or a girl?
+<tr id="L226"><td><a href="#L226">226</a></td><td>GREEN [on screen]:  For the sake of our children, and our children's children, we must reject the impure and cast it out!</td></tr>
 
-  PHLOX
-     It's a girl.
+<tr id="L227"><td><a href="#L227">227</a></td><td>PAXTON:  (switching off the screen) Before my father died and left me in this facility, I was studying to be a historian. Until I had a very verbal confrontation with a certain professor who claimed that Green was nothing more than a genocidal madman.</td></tr>
 
-  TUCKER
-     A girl. Is it okay? I mean, it's part human and
-     part Vulcan.
+<tr id="L228"><td><a href="#L228">228</a></td><td>GREAVES:  Sounds like we had the same professor.</td></tr>
 
-  PHLOX
-     Vulcan and human physiology are not all that
-     dissimilar. From the evidence I have, there's no
-     reason to believe she's anything but perfectly
-     healthy.
+<tr id="L229"><td><a href="#L229">229</a></td><td>PAXTON:  Green euthanised hundreds of thousands who were afflicted with radiation damage. Their millions of descendants would've endured horrible disease, yet history, history never says anything about that suffering that Greene prevented.</td></tr>
 
-  TUCKER
-     That's good to hear.
+<tr id="L230"><td><a href="#L230">230</a></td><td>GREAVES:  Guess it all depends on who writes the history.</td></tr>
 
-  PHLOX
-     You'll also be interested to know she has your
-     eyes, and T'Pol's ears.
+<tr id="L231"><td><a href="#L231">231</a></td><td>PAXTON:  Makes me wonder if I'll be remembered with any more accuracy.</td></tr>
 
-  TUCKER
-     I still can't believe it.
+<tr id="L232"><td><a href="#L232">232</a></td><td>GREAVES:  I don't think you're going to be misunderstood.</td></tr>
 
-  PHLOX
-     I'm in something of a quandary about it myself.
-     Especially since T'Pol's never been pregnant.
+<tr id="L233"><td><a href="#L233">233</a></td><td>PAXTON:  Really? Sometimes, I'm not certain I understand myself.</td></tr>
 
-  TUCKER
-     She could have gotten pregnant and not told me
-     about it.
+<tr id="L234"><td><a href="#L234">234</a></td><td>GREAVES:  We did what we had to do, not what we wanted to do.</td></tr>
 
-  PHLOX
-     And she had the embryo removed, also without your
-     knowledge? I believe you know the answer to that
-     theory, Commander.
+<tr id="L235"><td><a href="#L235">235</a></td><td>PAXTON:  I'm sure Greene told himself the same thing.</td></tr>
 
-  TUCKER
-     Yeah, I guess I do.
+<tr id="L236"><td><a href="#L236">236</a></td><td>GREAVES:  He was right, and so are we.</td></tr>
 
-  PHLOX
-     We'll get to the bottom of this soon enough. Until
-     then, I suggest you keep any such theories to
-     yourself.
+<tr id="L237"><td><a href="#L237">237</a></td><td>PAXTON:  Daniel, you are a wise man.</td></tr>
 
-  TUCKER
-     That's good advice. You know, my father always
-     wanted a granddaughter. He bugged my sister about
-     it constantly.
+<tr id="L238"><td><a href="#L238">238</a></td><td>GREAVES:  Medical report on the patient. Her symptoms are gone. She's one hundred percent.</td></tr>
 
-  PHLOX
-     It seems he got his wish.
+<tr id="L239"><td><a href="#L239">239</a></td><td>PAXTON:  That's wonderful. Wonderful. Thank you.</td></tr>
 
-  TUCKER
-     Yeah.
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: After Greaves leaves, Paxton goes to his desk, gets out a hypospray and injects himself.</td></tr>
 
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L241"><td><a href="#L241">241</a></td><td>ANNOTATION: Gannet is getting her tour and interview.</td></tr>
 
-LOCATION--Paxton's office
+<tr id="L242"><td><a href="#L242">242</a></td><td>TRAVIS:  That was some serious flying, trying to keep the warp fields aligned. Columbia was fifty metres above us. One wrong move and we would've lost Commander Tucker.</td></tr>
 
-  ANNOTATION
-     He's watching a recording on a screen. The speaker
-     is talking to an audience and being applauded.
+<tr id="L243"><td><a href="#L243">243</a></td><td>GANNET:  How did you keep your cool?</td></tr>
 
-  GREEN [on screen]
-     In the shadow of this incalculable devastation, we
-     find ourselves facing a colossal challenge.
-     There's an entire world to rebuild. Not only our
-     cities and homes, but mankind itself! Now is not
-     the time not the time for timidity and second
-     guessing. We cannot afford to doubt ourselves.
+<tr id="L244"><td><a href="#L244">244</a></td><td>TRAVIS:  When I was studying to be a pilot, I memorised something Chuck Yeager said. I never let myself be afraid. I just focus on the dials and concentrate on flying.</td></tr>
 
-  ANNOTATION
-     Greaves enters.
+<tr id="L245"><td><a href="#L245">245</a></td><td>GANNET:  That simple, huh?</td></tr>
 
-  PAXTON
-     The Third World War had just ended and the
-     cease-fire was barely three years old.
+<tr id="L246"><td><a href="#L246">246</a></td><td>TRAVIS:  Most of the time, simple works best.</td></tr>
 
-  GREEN [on screen]
-     Unless we act decisively, we will pass on the
-     scars of mutation and decay to future generations.
+<tr><td></td><td>LOCATION--Launch bay</td></tr>
+<tr id="L247"><td><a href="#L247">247</a></td><td>TRAVIS:  These are the shuttlepods.</td></tr>
 
-  GREAVES
-     Colonel Green.
+<tr id="L248"><td><a href="#L248">248</a></td><td>GANNET:  Which one did you use to penetrate the Sphere in the Expanse?</td></tr>
 
-  PAXTON
-     Colonel Green. One of many men history has
-     misunderstood.
+<tr id="L249"><td><a href="#L249">249</a></td><td>TRAVIS:  Shuttlepod One. Do you want to see inside?</td></tr>
 
-  GREEN [on screen]
-     For the sake of our children, and our children's
-     children, we must reject the impure and cast it
-     out!
+<tr id="L250"><td><a href="#L250">250</a></td><td>GANNET:  If it's okay.</td></tr>
 
-  PAXTON
-     (switching off the screen) Before my father died
-     and left me in this facility, I was studying to be
-     a historian. Until I had a very verbal
-     confrontation with a certain professor who claimed
-     that Green was nothing more than a genocidal
-     madman.
+<tr id="L251"><td><a href="#L251">251</a></td><td>ANNOTATION: Travis opens the hatch for her.</td></tr>
 
-  GREAVES
-     Sounds like we had the same professor.
+<tr><td></td><td>LOCATION--Shuttlepod</td></tr>
+<tr id="L252"><td><a href="#L252">252</a></td><td>GANNET:  Beautiful little ship.</td></tr>
 
-  PAXTON
-     Green euthanised hundreds of thousands who were
-     afflicted with radiation damage. Their millions of
-     descendants would've endured horrible disease, yet
-     history, history never says anything about that
-     suffering that Greene prevented.
+<tr id="L253"><td><a href="#L253">253</a></td><td>TRAVIS:  I always thought so. Unfortunately, we use the shuttlepods less and less.</td></tr>
 
-  GREAVES
-     Guess it all depends on who writes the history.
+<tr id="L254"><td><a href="#L254">254</a></td><td>GANNET:  Why?</td></tr>
 
-  PAXTON
-     Makes me wonder if I'll be remembered with any
-     more accuracy.
+<tr id="L255"><td><a href="#L255">255</a></td><td>TRAVIS:  We're getting more comfortable with the transporter.</td></tr>
 
-  GREAVES
-     I don't think you're going to be misunderstood.
+<tr id="L256"><td><a href="#L256">256</a></td><td>GANNET:  Makes sense. Gets you there in a few seconds.</td></tr>
 
-  PAXTON
-     Really? Sometimes, I'm not certain I understand
-     myself.
+<tr id="L257"><td><a href="#L257">257</a></td><td>TRAVIS:  Yeah, but there's no skill involved.</td></tr>
 
-  GREAVES
-     We did what we had to do, not what we wanted to
-     do.
+<tr id="L258"><td><a href="#L258">258</a></td><td>GANNET:  Nothing to fly.</td></tr>
 
-  PAXTON
-     I'm sure Greene told himself the same thing.
+<tr id="L259"><td><a href="#L259">259</a></td><td>TRAVIS:  I've always had a tendency to get attached to machines. It's crazy, but every time we use the transporter, I feel we're kind of turning our backs on these guys.</td></tr>
 
-  GREAVES
-     He was right, and so are we.
+<tr id="L260"><td><a href="#L260">260</a></td><td>GANNET:  You can't make a choice without leaving something behind.</td></tr>
 
-  PAXTON
-     Daniel, you are a wise man.
+<tr id="L261"><td><a href="#L261">261</a></td><td>TRAVIS:  When I saw you at that conference, I started thinking about things, decisions I've made.</td></tr>
 
-  GREAVES
-     Medical report on the patient. Her symptoms are
-     gone. She's one hundred percent.
+<tr id="L262"><td><a href="#L262">262</a></td><td>GANNET:  Is it my imagination, or are you actually opening up to me?</td></tr>
 
-  PAXTON
-     That's wonderful. Wonderful. Thank you.
+<tr id="L263"><td><a href="#L263">263</a></td><td>ANNOTATION: She takes off the camera.</td></tr>
 
-  ANNOTATION
-     After Greaves leaves, Paxton goes to his desk,
-     gets out a hypospray and injects himself.
+<tr id="L264"><td><a href="#L264">264</a></td><td>TRAVIS:  Don't do that.</td></tr>
 
+<tr id="L265"><td><a href="#L265">265</a></td><td>GANNET:  What?</td></tr>
 
-LOCATION--Corridor
+<tr id="L266"><td><a href="#L266">266</a></td><td>TRAVIS:  Whenever things get a little serious, you always turn it into a joke.</td></tr>
 
-  ANNOTATION
-     Gannet is getting her tour and interview.
+<tr id="L267"><td><a href="#L267">267</a></td><td>GANNET:  It's a bad habit. I have a lot of those.</td></tr>
 
-  TRAVIS
-     That was some serious flying, trying to keep the
-     warp fields aligned. Columbia was fifty metres
-     above us. One wrong move and we would've lost
-     Commander Tucker.
+<tr id="L268"><td><a href="#L268">268</a></td><td>ANNOTATION: She kisses him.</td></tr>
 
-  GANNET
-     How did you keep your cool?
+<tr id="L269"><td><a href="#L269">269</a></td><td>GANNET:  Here's another one. When I'm attracted to someone, I can't hide it for long.</td></tr>
 
-  TRAVIS
-     When I was studying to be a pilot, I memorised
-     something Chuck Yeager said. I never let myself be
-     afraid. I just focus on the dials and concentrate
-     on flying.
+<tr id="L270"><td><a href="#L270">270</a></td><td>TRAVIS:  You and your bad habits.</td></tr>
 
-  GANNET
-     That simple, huh?
+<tr id="L271"><td><a href="#L271">271</a></td><td>ANNOTATION: They get into a serious clinch.</td></tr>
 
-  TRAVIS
-     Most of the time, simple works best.
+<tr><td></td><td>LOCATION--Conference room</td></tr>
+<tr id="L272"><td><a href="#L272">272</a></td><td>REED:  The autopsy data confirms what we already knew: Susan Khouri was killed by phase-pistol fire.</td></tr>
 
+<tr id="L273"><td><a href="#L273">273</a></td><td>T'POL:  The case file contains very little else in the way of evidence. Some biographical data on Khouri. Most of it's out of date.</td></tr>
 
-LOCATION--Launch bay
+<tr id="L274"><td><a href="#L274">274</a></td><td>REED:  They don't even know where she'd been living for the past year. It's like she dropped off the face of the Earth.</td></tr>
 
-  TRAVIS
-     These are the shuttlepods.
+<tr id="L275"><td><a href="#L275">275</a></td><td>PHLOX:  That may be exactly what happened.</td></tr>
 
-  GANNET
-     Which one did you use to penetrate the Sphere in
-     the Expanse?
+<tr id="L276"><td><a href="#L276">276</a></td><td>REED:  You know something?</td></tr>
 
-  TRAVIS
-     Shuttlepod One. Do you want to see inside?
+<tr id="L277"><td><a href="#L277">277</a></td><td>PHLOX:  Her blood had elevated levels of growth hormone. I ran some more tests and found traces of myofibrilin.</td></tr>
 
-  GANNET
-     If it's okay.
+<tr id="L278"><td><a href="#L278">278</a></td><td>REED:  That's what they prescribe for extended zero-G missions. It's hardly used anymore outside of military exercises. Not since the invention of artificial gravity.</td></tr>
 
-  ANNOTATION
-     Travis opens the hatch for her.
+<tr id="L279"><td><a href="#L279">279</a></td><td>PHLOX:  It is still given to workers in remote places where artificial gravity isn't practical.</td></tr>
 
+<tr id="L280"><td><a href="#L280">280</a></td><td>ARCHER:  Like mining colonies.</td></tr>
 
-LOCATION--Shuttlepod
+<tr id="L281"><td><a href="#L281">281</a></td><td>T'POL:  The nearest one is Orpheus, on the moon.</td></tr>
 
-  GANNET
-     Beautiful little ship.
+<tr id="L282"><td><a href="#L282">282</a></td><td>REED:  I have heard that the moon is a hotbed of Terra Prime activity. You know, I think Travis has a friend who worked on Orpheus. He might be able to get a couple of us inside. We could pay a little visit, undercover.</td></tr>
 
-  TRAVIS
-     I always thought so. Unfortunately, we use the
-     shuttlepods less and less.
+<tr id="L283"><td><a href="#L283">283</a></td><td>TUCKER:  I want to be a part of that visit.</td></tr>
 
-  GANNET
-     Why?
+<tr id="L284"><td><a href="#L284">284</a></td><td>T'POL:  I'd like to volunteer as well.</td></tr>
 
-  TRAVIS
-     We're getting more comfortable with the
-     transporter.
+<tr id="L285"><td><a href="#L285">285</a></td><td>ARCHER:  Tell Travis to see what he can do.</td></tr>
 
-  GANNET
-     Makes sense. Gets you there in a few seconds.
+<tr id="L286"><td><a href="#L286">286</a></td><td>REED:  Yes, sir.</td></tr>
 
-  TRAVIS
-     Yeah, but there's no skill involved.
+<tr id="L287"><td><a href="#L287">287</a></td><td>ANNOTATION: At the Orpheus Mining Facility he workers have air in the mine, but they're lifting and moving rocks by hand for some strange reason. Then they discover the battered body of the doctor.</td></tr>
 
-  GANNET
-     Nothing to fly.
+<tr id="L288"><td><a href="#L288">288</a></td><td>SOMEONE: Captain's Starlog, supplemental. With help from Travis's contact, Trip and T'Pol have been processed into the Orpheus Mining Facility.</td></tr>
 
-  TRAVIS
-     I've always had a tendency to get attached to
-     machines. It's crazy, but every time we use the
-     transporter, I feel we're kind of turning our
-     backs on these guys.
+<tr><td></td><td>LOCATION--Orpheus Mining Facility</td></tr>
+<tr id="L289"><td><a href="#L289">289</a></td><td>ANNOTATION: We see a rock face being cut by an industrial laser.</td></tr>
 
-  GANNET
-     You can't make a choice without leaving something
-     behind.
+<tr id="L290"><td><a href="#L290">290</a></td><td>TUCKER:  This is the second time we've been through here. We've seen all this before.</td></tr>
 
-  TRAVIS
-     When I saw you at that conference, I started
-     thinking about things, decisions I've made.
+<tr id="L291"><td><a href="#L291">291</a></td><td>T'POL:  We still have twenty minutes before we have to report to the foreman.</td></tr>
 
-  GANNET
-     Is it my imagination, or are you actually opening
-     up to me?
+<tr id="L292"><td><a href="#L292">292</a></td><td>TUCKER:  Maybe you downloaded an outdated map.</td></tr>
 
-  ANNOTATION
-     She takes off the camera.
+<tr id="L293"><td><a href="#L293">293</a></td><td>T'POL:  The map is correct.</td></tr>
 
-  TRAVIS
-     Don't do that.
+<tr id="L294"><td><a href="#L294">294</a></td><td>TUCKER:  Maybe you're reading it wrong.</td></tr>
 
-  GANNET
-     What?
+<tr id="L295"><td><a href="#L295">295</a></td><td>T'POL:  We could ask for directions.</td></tr>
 
-  TRAVIS
-     Whenever things get a little serious, you always
-     turn it into a joke.
+<tr id="L296"><td><a href="#L296">296</a></td><td>TUCKER:  Give me that.</td></tr>
 
-  GANNET
-     It's a bad habit. I have a lot of those.
+<tr id="L297"><td><a href="#L297">297</a></td><td>ANNOTATION: He takes the PADD off her.</td></tr>
 
-  ANNOTATION
-     She kisses him.
+<tr id="L298"><td><a href="#L298">298</a></td><td>TUCKER:  I think I know what the problem is.</td></tr>
 
-  GANNET
-     Here's another one. When I'm attracted to someone,
-     I can't hide it for long.
+<tr id="L299"><td><a href="#L299">299</a></td><td>T'POL:  What?</td></tr>
 
-  TRAVIS
-     You and your bad habits.
+<tr id="L300"><td><a href="#L300">300</a></td><td>TUCKER:  We're lost. Let's try that direction.</td></tr>
 
-  ANNOTATION
-     They get into a serious clinch.
+<tr id="L301"><td><a href="#L301">301</a></td><td>T'POL:  Any particular reason?</td></tr>
 
+<tr id="L302"><td><a href="#L302">302</a></td><td>TUCKER:  It's the only tunnel I don't recognise.</td></tr>
 
-LOCATION--Conference room
+<tr id="L303"><td><a href="#L303">303</a></td><td>ANNOTATION: They have left a busy work area behind.</td></tr>
 
-  REED
-     The autopsy data confirms what we already knew:
-     Susan Khouri was killed by phase-pistol fire.
+<tr id="L304"><td><a href="#L304">304</a></td><td>T'POL:  Trip.</td></tr>
 
-  T'POL
-     The case file contains very little else in the way
-     of evidence. Some biographical data on Khouri.
-     Most of it's out of date.
+<tr id="L305"><td><a href="#L305">305</a></td><td>TUCKER:  I think we're getting there.</td></tr>
 
-  REED
-     They don't even know where she'd been living for
-     the past year. It's like she dropped off the face
-     of the Earth.
+<tr id="L306"><td><a href="#L306">306</a></td><td>T'POL:  I know you're not convinced I've told you the truth, about the child.</td></tr>
 
-  PHLOX
-     That may be exactly what happened.
+<tr id="L307"><td><a href="#L307">307</a></td><td>TUCKER:  What do you mean?</td></tr>
 
-  REED
-     You know something?
+<tr id="L308"><td><a href="#L308">308</a></td><td>T'POL:  You think I might have gotten pregnant without your knowledge.</td></tr>
 
-  PHLOX
-     Her blood had elevated levels of growth hormone. I
-     ran some more tests and found traces of
-     myofibrilin.
+<tr id="L309"><td><a href="#L309">309</a></td><td>TUCKER:  I never said that.</td></tr>
 
-  REED
-     That's what they prescribe for extended zero-G
-     missions. It's hardly used anymore outside of
-     military exercises. Not since the invention of
-     artificial gravity.
+<tr id="L310"><td><a href="#L310">310</a></td><td>T'POL:  I know.</td></tr>
 
-  PHLOX
-     It is still given to workers in remote places
-     where artificial gravity isn't practical.
+<tr id="L311"><td><a href="#L311">311</a></td><td>TUCKER:  You been talking to Phlox.</td></tr>
 
-  ARCHER
-     Like mining colonies.
+<tr id="L312"><td><a href="#L312">312</a></td><td>T'POL:  No. Have you?</td></tr>
 
-  T'POL
-     The nearest one is Orpheus, on the moon.
+<tr id="L313"><td><a href="#L313">313</a></td><td>TUCKER:  Look, it's because you're Vulcan, isn't it, that you know all this.</td></tr>
 
-  REED
-     I have heard that the moon is a hotbed of Terra
-     Prime activity. You know, I think Travis has a
-     friend who worked on Orpheus. He might be able to
-     get a couple of us inside. We could pay a little
-     visit, undercover.
+<tr id="L314"><td><a href="#L314">314</a></td><td>T'POL:  I believe so.</td></tr>
 
-  TUCKER
-     I want to be a part of that visit.
+<tr id="L315"><td><a href="#L315">315</a></td><td>TUCKER:  I am sick and tired of this bond we've got.</td></tr>
 
-  T'POL
-     I'd like to volunteer as well.
+<tr id="L316"><td><a href="#L316">316</a></td><td>T'POL:  I don't particularly enjoy it, either.</td></tr>
 
-  ARCHER
-     Tell Travis to see what he can do.
+<tr id="L317"><td><a href="#L317">317</a></td><td>TUCKER:  Listen, for the last time and for the record, I do believe you. And if you get anymore feelings. What?</td></tr>
 
-  REED
-     Yes, sir.
+<tr id="L318"><td><a href="#L318">318</a></td><td>ANNOTATION: He follows her gaze to a door labeled Quadrant 3.</td></tr>
 
-  ANNOTATION
-     At the Orpheus Mining Facility he workers have air
-     in the mine, but they're lifting and moving rocks
-     by hand for some strange reason. Then they
-     discover the battered body of the doctor.
+<tr id="L319"><td><a href="#L319">319</a></td><td>TUCKER:  There it is. Come on, let's go.</td></tr>
 
-  SOMEONE
-     Captain's Starlog, supplemental. With help from
-     Travis's contact, Trip and T'Pol have been
-     processed into the Orpheus Mining Facility.
+<tr><td></td><td>LOCATION--Travis' quarters</td></tr>
+<tr id="L320"><td><a href="#L320">320</a></td><td>ANNOTATION: It's dark, because there are clothes scattered everywhere, and the couple are in bed. She's still wearing her push-up bra, though.</td></tr>
 
+<tr id="L321"><td><a href="#L321">321</a></td><td>TRAVIS:  I'm glad we finally left the shuttlepod.</td></tr>
 
-LOCATION--Orpheus Mining Facility
+<tr id="L322"><td><a href="#L322">322</a></td><td>GANNET:  I thought you liked shuttlepods.</td></tr>
 
-  ANNOTATION
-     We see a rock face being cut by an industrial
-     laser.
+<tr id="L323"><td><a href="#L323">323</a></td><td>TRAVIS:  I like flying them.</td></tr>
 
-  TUCKER
-     This is the second time we've been through here.
-     We've seen all this before.
+<tr id="L324"><td><a href="#L324">324</a></td><td>GANNET:  Sure felt like we were flying. I have a rule. If I'm in bed with someone, they have to be in bed with me.</td></tr>
 
-  T'POL
-     We still have twenty minutes before we have to
-     report to the foreman.
+<tr id="L325"><td><a href="#L325">325</a></td><td>TRAVIS:  What was that?</td></tr>
 
-  TUCKER
-     Maybe you downloaded an outdated map.
+<tr id="L326"><td><a href="#L326">326</a></td><td>GANNET:  You are not here.</td></tr>
 
-  T'POL
-     The map is correct.
+<tr id="L327"><td><a href="#L327">327</a></td><td>TRAVIS:  I'm just worried about some friends of mine.</td></tr>
 
-  TUCKER
-     Maybe you're reading it wrong.
+<tr id="L328"><td><a href="#L328">328</a></td><td>GANNET:  Want to talk about it?</td></tr>
 
-  T'POL
-     We could ask for directions.
+<tr id="L329"><td><a href="#L329">329</a></td><td>TRAVIS:  I'm under orders not to talk about it.</td></tr>
 
-  TUCKER
-     Give me that.
+<tr id="L330"><td><a href="#L330">330</a></td><td>GANNET:  That's the last thing you should tell a reporter.</td></tr>
 
-  ANNOTATION
-     He takes the PADD off her.
+<tr id="L331"><td><a href="#L331">331</a></td><td>TRAVIS:  Let's change the subject. How come you haven't settled down?</td></tr>
 
-  TUCKER
-     I think I know what the problem is.
+<tr id="L332"><td><a href="#L332">332</a></td><td>GANNET:  I'm never going to settle down. It doesn't mean I'm not going to get serious with someone, if the right circumstance comes along.</td></tr>
 
-  T'POL
-     What?
+<tr id="L333"><td><a href="#L333">333</a></td><td>TRAVIS:  And what constitutes the right circumstance?</td></tr>
 
-  TUCKER
-     We're lost. Let's try that direction.
+<tr id="L334"><td><a href="#L334">334</a></td><td>GANNET:  I'll know it when it happens. What did you mean earlier about reconsidering some decisions you've made?</td></tr>
 
-  T'POL
-     Any particular reason?
+<tr id="L335"><td><a href="#L335">335</a></td><td>TRAVIS:  I've spent my whole life in space, going from one place to the next. Seeing you, I was wondering, maybe the next challenge, at least for me, is to stay in one place for a while.</td></tr>
 
-  TUCKER
-     It's the only tunnel I don't recognise.
+<tr id="L336"><td><a href="#L336">336</a></td><td>ANNOTATION: They kiss. Again.</td></tr>
 
-  ANNOTATION
-     They have left a busy work area behind.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L337"><td><a href="#L337">337</a></td><td>REED:  Hoshi.</td></tr>
 
-  T'POL
-     Trip.
+<tr id="L338"><td><a href="#L338">338</a></td><td>HOSHI:  Hmm?</td></tr>
 
-  TUCKER
-     I think we're getting there.
+<tr id="L339"><td><a href="#L339">339</a></td><td>ANNOTATION: She's working on a translator device.</td></tr>
 
-  T'POL
-     I know you're not convinced I've told you the
-     truth, about the child.
+<tr id="L340"><td><a href="#L340">340</a></td><td>HOSHI:  No word yet from Trip or T'Pol.</td></tr>
 
-  TUCKER
-     What do you mean?
+<tr id="L341"><td><a href="#L341">341</a></td><td>REED:  Is there anything I can help with?</td></tr>
 
-  T'POL
-     You think I might have gotten pregnant without
-     your knowledge.
+<tr id="L342"><td><a href="#L342">342</a></td><td>HOSHI:  Six of the universal translators started confusing Rigelian with Andorian. There's a glitch somewhere, but I can't find it.</td></tr>
 
-  TUCKER
-     I never said that.
+<tr id="L343"><td><a href="#L343">343</a></td><td>REED:  Carry on.</td></tr>
 
-  T'POL
-     I know.
+<tr><td></td><td>LOCATION--Orpheus Mining Facility</td></tr>
+<tr id="L344"><td><a href="#L344">344</a></td><td>ANNOTATION: Tucker is wandering around with his map.</td></tr>
 
-  TUCKER
-     You been talking to Phlox.
+<tr id="L345"><td><a href="#L345">345</a></td><td>JOSIAH:  Fresh off the boat? One of the S-K models. They only give them to grubbers.</td></tr>
 
-  T'POL
-     No. Have you?
+<tr id="L346"><td><a href="#L346">346</a></td><td>TUCKER:  I guess you found me out.</td></tr>
 
-  TUCKER
-     Look, it's because you're Vulcan, isn't it, that
-     you know all this.
+<tr id="L347"><td><a href="#L347">347</a></td><td>JOSIAH:  Josiah.</td></tr>
 
-  T'POL
-     I believe so.
+<tr id="L348"><td><a href="#L348">348</a></td><td>TUCKER:  Turner.</td></tr>
 
-  TUCKER
-     I am sick and tired of this bond we've got.
+<tr id="L349"><td><a href="#L349">349</a></td><td>JOSIAH:  What brings you to this dump site?</td></tr>
 
-  T'POL
-     I don't particularly enjoy it, either.
+<tr id="L350"><td><a href="#L350">350</a></td><td>TUCKER:  Change of scenery.</td></tr>
 
-  TUCKER
-     Listen, for the last time and for the record, I do
-     believe you. And if you get anymore feelings.
-     What?
+<tr id="L351"><td><a href="#L351">351</a></td><td>JOSIAH:  Yeah, that's what I was after, too. Only it wasn't the landscape I got sick of. At least there aren't as many of them up here. Seems like everywhere you go, humans are getting to be an endangered species.</td></tr>
 
-  ANNOTATION
-     He follows her gaze to a door labeled Quadrant 3.
+<tr id="L352"><td><a href="#L352">352</a></td><td>TUCKER:  Know what you mean.</td></tr>
 
-  TUCKER
-     There it is. Come on, let's go.
+<tr id="L353"><td><a href="#L353">353</a></td><td>JOSIAH:  Bad enough you can't walk down the street without some freak show scaring the hell out of your kids. Now the government's making treaties with them.</td></tr>
 
+<tr id="L354"><td><a href="#L354">354</a></td><td>TUCKER:  Sometimes I wonder where it's all going to end.</td></tr>
 
-LOCATION--Travis' quarters
+<tr id="L355"><td><a href="#L355">355</a></td><td>JOSIAH:  It's going to end with human beings becoming second-class citizens on their own world.</td></tr>
 
-  ANNOTATION
-     It's dark, because there are clothes scattered
-     everywhere, and the couple are in bed. She's still
-     wearing her push-up bra, though.
+<tr id="L356"><td><a href="#L356">356</a></td><td>TUCKER:  Someone's got to make a stand.</td></tr>
 
-  TRAVIS
-     I'm glad we finally left the shuttlepod.
+<tr id="L357"><td><a href="#L357">357</a></td><td>JOSIAH:  Yeah, that's how I feel, too. Some of us are meeting tonight at twenty two hundred. Level seven, junction four. I think you'll like what we have to say.</td></tr>
 
-  GANNET
-     I thought you liked shuttlepods.
+<tr id="L358"><td><a href="#L358">358</a></td><td>TUCKER:  I'll try and make it.</td></tr>
 
-  TRAVIS
-     I like flying them.
+<tr id="L359"><td><a href="#L359">359</a></td><td>JOSIAH:  I'll look for you.</td></tr>
 
-  GANNET
-     Sure felt like we were flying. I have a rule. If
-     I'm in bed with someone, they have to be in bed
-     with me.
+<tr id="L360"><td><a href="#L360">360</a></td><td>ANNOTATION: He leaves and T'Pol turns up.</td></tr>
 
-  TRAVIS
-     What was that?
+<tr id="L361"><td><a href="#L361">361</a></td><td>T'POL:  I've learned something.</td></tr>
 
-  GANNET
-     You are not here.
+<tr id="L362"><td><a href="#L362">362</a></td><td>ANNOTATION: Trip shushes her.</td></tr>
 
-  TRAVIS
-     I'm just worried about some friends of mine.
+<tr id="L363"><td><a href="#L363">363</a></td><td>TUCKER:  One of the locals isn't very fond of Vulcans. You were saying?</td></tr>
 
-  GANNET
-     Want to talk about it?
+<tr id="L364"><td><a href="#L364">364</a></td><td>T'POL:  A doctor from one of the medical facilities was found dead yesterday. They think it was a cave-in.</td></tr>
 
-  TRAVIS
-     I'm under orders not to talk about it.
+<tr id="L365"><td><a href="#L365">365</a></td><td>TUCKER:  You're not buying it.</td></tr>
 
-  GANNET
-     That's the last thing you should tell a reporter.
+<tr id="L366"><td><a href="#L366">366</a></td><td>T'POL:  He worked at the same clinic as Susan Khouri.</td></tr>
 
-  TRAVIS
-     Let's change the subject. How come you haven't
-     settled down?
+<tr id="L367"><td><a href="#L367">367</a></td><td>TUCKER:  I think we each know what we're doing tonight.</td></tr>
 
-  GANNET
-     I'm never going to settle down. It doesn't mean
-     I'm not going to get serious with someone, if the
-     right circumstance comes along.
+<tr><td></td><td>LOCATION--Level 7, Junction 4</td></tr>
+<tr id="L368"><td><a href="#L368">368</a></td><td>JOSIAH:  Seven million people wiped out by aliens. Did the Xindi even apologise?</td></tr>
 
-  TRAVIS
-     And what constitutes the right circumstance?
+<tr id="L369"><td><a href="#L369">369</a></td><td>ALL:  No!</td></tr>
 
-  GANNET
-     I'll know it when it happens. What did you mean
-     earlier about reconsidering some decisions you've
-     made?
+<tr id="L370"><td><a href="#L370">370</a></td><td>JOSIAH:  Did our government ever demand an apology?</td></tr>
 
-  TRAVIS
-     I've spent my whole life in space, going from one
-     place to the next. Seeing you, I was wondering,
-     maybe the next challenge, at least for me, is to
-     stay in one place for a while.
+<tr id="L371"><td><a href="#L371">371</a></td><td>ALL:  No!</td></tr>
 
-  ANNOTATION
-     They kiss. Again.
+<tr id="L372"><td><a href="#L372">372</a></td><td>JOSIAH:  And where are the reparations for the families of those seven million? And now those same leaders want to form a Coalition with Tellarites, Andorians, Rigelians, Coridanites and Vulcans! Vulcans, who not too long ago, massacred forty five humans working at the Earth embassy! Nathan Samuels claims that future generations will look back on this era with pride. But if things keep going the way they're going, there won't be any future generations. At least not human. I love humanity too much to sit by and let that happen.</td></tr>
 
+<tr id="L373"><td><a href="#L373">373</a></td><td>ANNOTATION: Meanwhile, T'Pol is scanning the area where the doctor's body was found when she gets shot.</td></tr>
 
-LOCATION--Bridge
+<tr id="L374"><td><a href="#L374">374</a></td><td>JOSIAH:  It's estimated that there are at least five thousand unregistered aliens on Earth. Now, another study puts that figure at ten thousand. This insanity is the direct result of our government's policy and the enforcers of that policy, Starfleet! We need to send a message to the people in power. And there's someone here tonight who is going to help us do just that. Commander Tucker, of the Starship Enterprise!</td></tr>
 
-  REED
-     Hoshi.
+<tr id="L375"><td><a href="#L375">375</a></td><td>ANNOTATION: Everyone turns to stare at him.</td></tr>
 
-  HOSHI
-     Hmm?
+<tr><td></td><td>LOCATION--Travis' quarters</td></tr>
+<tr id="L376"><td><a href="#L376">376</a></td><td>TRAVIS:  All that stuff I said about leaving the ship.</td></tr>
 
-  ANNOTATION
-     She's working on a translator device.
+<tr id="L377"><td><a href="#L377">377</a></td><td>GANNET:  Of course, it's off the record. While you're on duty, you mind if I stay here and work a bit?</td></tr>
 
-  HOSHI
-     No word yet from Trip or T'Pol.
+<tr id="L378"><td><a href="#L378">378</a></td><td>ANNOTATION: The doorbell chimes. Travis opens the door to Archer and Reed, with two MACOs in attendance.</td></tr>
 
-  REED
-     Is there anything I can help with?
+<tr id="L379"><td><a href="#L379">379</a></td><td>ARCHER:  I need to speak to Gannet.</td></tr>
 
-  HOSHI
-     Six of the universal translators started confusing
-     Rigelian with Andorian. There's a glitch
-     somewhere, but I can't find it.
+<tr id="L380"><td><a href="#L380">380</a></td><td>GANNET:  Something wrong?</td></tr>
 
-  REED
-     Carry on.
+<tr id="L381"><td><a href="#L381">381</a></td><td>ARCHER:  Come with us.</td></tr>
 
+<tr id="L382"><td><a href="#L382">382</a></td><td>GANNET:  Where?</td></tr>
 
-LOCATION--Orpheus Mining Facility
+<tr id="L383"><td><a href="#L383">383</a></td><td>TRAVIS:  What's going on?</td></tr>
 
-  ANNOTATION
-     Tucker is wandering around with his map.
+<tr id="L384"><td><a href="#L384">384</a></td><td>GANNET:  She's not here to do a story on Enterprise, Travis.</td></tr>
 
-  JOSIAH
-     Fresh off the boat? One of the S-K models. They
-     only give them to grubbers.
+<tr id="L385"><td><a href="#L385">385</a></td><td>REED:  She's a spy for Terra Prime.</td></tr>
 
-  TUCKER
-     I guess you found me out.
+<tr><td></td><td>LOCATION--Orpheus Mining Facility</td></tr>
+<tr id="L386"><td><a href="#L386">386</a></td><td>ANNOTATION: Josiah pushes Tucker into a room. Greaves is already there with T'Pol.</td></tr>
 
-  JOSIAH
-     Josiah.
+<tr id="L387"><td><a href="#L387">387</a></td><td>TUCKER:  Are you all right?</td></tr>
 
-  TUCKER
-     Turner.
+<tr id="L388"><td><a href="#L388">388</a></td><td>T'POL:  I think so.</td></tr>
 
-  JOSIAH
-     What brings you to this dump site?
+<tr id="L389"><td><a href="#L389">389</a></td><td>TUCKER:  What did you do to her?</td></tr>
 
-  TUCKER
-     Change of scenery.
+<tr id="L390"><td><a href="#L390">390</a></td><td>JOSIAH:  Hey, hey.</td></tr>
 
-  JOSIAH
-     Yeah, that's what I was after, too. Only it wasn't
-     the landscape I got sick of. At least there aren't
-     as many of them up here. Seems like everywhere you
-     go, humans are getting to be an endangered
-     species.
+<tr id="L391"><td><a href="#L391">391</a></td><td>GREAVES:  Not nearly enough.</td></tr>
 
-  TUCKER
-     Know what you mean.
+<tr id="L392"><td><a href="#L392">392</a></td><td>ANNOTATION: The door opens.</td></tr>
 
-  JOSIAH
-     Bad enough you can't walk down the street without
-     some freak show scaring the hell out of your kids.
-     Now the government's making treaties with them.
+<tr id="L393"><td><a href="#L393">393</a></td><td>PAXTON:  It's not worth it, Romeo. Juliet's in good hands. The two star-crossed lovers. I can't help but wonder whether your little drama will end happier than that famous double suicide in a medieval tomb.</td></tr>
 
-  TUCKER
-     Sometimes I wonder where it's all going to end.
+<tr id="L394"><td><a href="#L394">394</a></td><td>TUCKER:  Who the hell are you?</td></tr>
 
-  JOSIAH
-     It's going to end with human beings becoming
-     second-class citizens on their own world.
+<tr id="L395"><td><a href="#L395">395</a></td><td>PAXTON:  John Frederick Paxton. I run this facility.</td></tr>
 
-  TUCKER
-     Someone's got to make a stand.
+<tr id="L396"><td><a href="#L396">396</a></td><td>TUCKER:  Not for long.</td></tr>
 
-  JOSIAH
-     Yeah, that's how I feel, too. Some of us are
-     meeting tonight at twenty two hundred. Level
-     seven, junction four. I think you'll like what we
-     have to say.
+<tr id="L397"><td><a href="#L397">397</a></td><td>PAXTON:  You're right there, Commander. My mining business is about to take a turn for the worse. Daniel, get started.</td></tr>
 
-  TUCKER
-     I'll try and make it.
+<tr id="L398"><td><a href="#L398">398</a></td><td>TUCKER:  You're behind this.</td></tr>
 
-  JOSIAH
-     I'll look for you.
+<tr id="L399"><td><a href="#L399">399</a></td><td>PAXTON:  Behind this? No. I lead this, and proudly too. Before you ask, your child is safe and sound, finally sleeping through the night. I forgot how much trouble a newborn can be.</td></tr>
 
-  ANNOTATION
-     He leaves and T'Pol turns up.
+<tr id="L400"><td><a href="#L400">400</a></td><td>TUCKER:  I want to see her.</td></tr>
 
-  T'POL
-     I've learned something.
+<tr id="L401"><td><a href="#L401">401</a></td><td>PAXTON:  No. And no is a word that Starfleet better get used to hearing from now on. Because up until today, it's always been yes, hasn't it? Yes, yes, go right ahead. roam the stars. Yes, inform potentially hostile species of the whereabouts of Earth. Yes, entrust the entire future of our world to non-human creatures who don't even feel like we do. Yes, promote the total degradation of mankind by encouraging alien-human relations. Well, yes is a word that ends here and now. I'm returning Earth to its rightful owners. I am giving Earth back to humanity, back to human beings. It is my life's work. It is what I was born to do, and there is no one, not an alien, not a human, that will stop me from achieving it.</td></tr>
 
-  ANNOTATION
-     Trip shushes her.
+<tr><td></td><td>LOCATION--Another room</td></tr>
+<tr id="L402"><td><a href="#L402">402</a></td><td>PAXTON:  My father designed this facility. He knew that mining was an unpredictable business. Mines tap out, veins dry up.</td></tr>
 
-  TUCKER
-     One of the locals isn't very fond of Vulcans. You
-     were saying?
+<tr id="L403"><td><a href="#L403">403</a></td><td>JOSIAH:  Everyone's aboard, sir.</td></tr>
 
-  T'POL
-     A doctor from one of the medical facilities was
-     found dead yesterday. They think it was a cave-in.
+<tr id="L404"><td><a href="#L404">404</a></td><td>PAXTON:  Go to launch mode, Daniel. You're an engineer. I think you'll appreciate this. Take a good long look.</td></tr>
 
-  TUCKER
-     You're not buying it.
+<tr id="L405"><td><a href="#L405">405</a></td><td>ANNOTATION: The main superstructure of the mining facility starts to change configuration. It detaches itself from the moon's surface and engines start up.</td></tr>
 
-  T'POL
-     He worked at the same clinic as Susan Khouri.
+<tr id="L406"><td><a href="#L406">406</a></td><td>TUCKER:  Where are we going?</td></tr>
 
-  TUCKER
-     I think we each know what we're doing tonight.
+<tr id="L407"><td><a href="#L407">407</a></td><td>PAXTON:  For you, this'll be like a walk across the street. Lock it up.</td></tr>
 
+<tr id="L408"><td><a href="#L408">408</a></td><td>ANNOTATION: Steel shutters close across the windows.</td></tr>
 
-LOCATION--Level 7, Junction 4
+<tr id="L409"><td><a href="#L409">409</a></td><td>PAXTON:  You better hang onto something. She gets a little rusty out of the gate.</td></tr>
 
-  JOSIAH
-     Seven million people wiped out by aliens. Did the
-     Xindi even apologise?
+<tr id="L410"><td><a href="#L410">410</a></td><td>ANNOTATION: Orpheus takes off.</td></tr>
 
-  ALL
-     No!
+<tr><td></td><td>LOCATION--Conference room</td></tr>
+<tr id="L411"><td><a href="#L411">411</a></td><td>ARCHER:  You reconfigured your universal translator to record messages from all the other translators. You were spying on the delegates.</td></tr>
 
-  JOSIAH
-     Did our government ever demand an apology?
+<tr id="L412"><td><a href="#L412">412</a></td><td>HOSHI:  You accidentally triggered an ID protocol in the network. I tracked it back to the source.</td></tr>
 
-  ALL
-     No!
+<tr id="L413"><td><a href="#L413">413</a></td><td>GANNET:  I don't know what you're talking about.</td></tr>
 
-  JOSIAH
-     And where are the reparations for the families of
-     those seven million? And now those same leaders
-     want to form a Coalition with Tellarites,
-     Andorians, Rigelians, Coridanites and Vulcans!
-     Vulcans, who not too long ago, massacred forty
-     five humans working at the Earth embassy! Nathan
-     Samuels claims that future generations will look
-     back on this era with pride. But if things keep
-     going the way they're going, there won't be any
-     future generations. At least not human. I love
-     humanity too much to sit by and let that happen.
+<tr id="L414"><td><a href="#L414">414</a></td><td>REED:  You sure know what everyone else was talking about.</td></tr>
 
-  ANNOTATION
-     Meanwhile, T'Pol is scanning the area where the
-     doctor's body was found when she gets shot.
+<tr id="L415"><td><a href="#L415">415</a></td><td>TRAVIS:  Maybe she was after a story. It doesn't mean she worked for Terra Prime.</td></tr>
 
-  JOSIAH
-     It's estimated that there are at least five
-     thousand unregistered aliens on Earth. Now,
-     another study puts that figure at ten thousand.
-     This insanity is the direct result of our
-     government's policy and the enforcers of that
-     policy, Starfleet! We need to send a message to
-     the people in power. And there's someone here
-     tonight who is going to help us do just that.
-     Commander Tucker, of the Starship Enterprise!
+<tr id="L416"><td><a href="#L416">416</a></td><td>ARCHER:  We did a background check. In the last month, you made three trips to the lunar colony.</td></tr>
 
-  ANNOTATION
-     Everyone turns to stare at him.
+<tr id="L417"><td><a href="#L417">417</a></td><td>GANNET:  Is that a crime?</td></tr>
 
+<tr id="L418"><td><a href="#L418">418</a></td><td>ARCHER:  Depends on what you're doing there.</td></tr>
 
-LOCATION--Travis' quarters
+<tr id="L419"><td><a href="#L419">419</a></td><td>GANNET:  I was on assignment.</td></tr>
 
-  TRAVIS
-     All that stuff I said about leaving the ship.
+<tr id="L420"><td><a href="#L420">420</a></td><td>REED:  For?</td></tr>
 
-  GANNET
-     Of course, it's off the record. While you're on
-     duty, you mind if I stay here and work a bit?
+<tr id="L421"><td><a href="#L421">421</a></td><td>GANNET:  My news agency.</td></tr>
 
-  ANNOTATION
-     The doorbell chimes. Travis opens the door to
-     Archer and Reed, with two MACOs in attendance.
+<tr id="L422"><td><a href="#L422">422</a></td><td>REED:  Your editor claims he never sent you.</td></tr>
 
-  ARCHER
-     I need to speak to Gannet.
+<tr id="L423"><td><a href="#L423">423</a></td><td>GANNET:  Look, if I'm under arrest, then</td></tr>
 
-  GANNET
-     Something wrong?
+<tr id="L424"><td><a href="#L424">424</a></td><td>ARCHER:  Two of my crewmen are at Orpheus Mining Complex. We've lost contact with them.</td></tr>
 
-  ARCHER
-     Come with us.
+<tr id="L425"><td><a href="#L425">425</a></td><td>GANNET:  I don't know anything about your crewmen.</td></tr>
 
-  GANNET
-     Where?
+<tr id="L426"><td><a href="#L426">426</a></td><td>ARCHER:  Are they in danger?</td></tr>
 
-  TRAVIS
-     What's going on?
+<tr id="L427"><td><a href="#L427">427</a></td><td>GANNET:  I want to speak with counsel. Now.</td></tr>
 
-  GANNET
-     She's not here to do a story on Enterprise,
-     Travis.
+<tr id="L428"><td><a href="#L428">428</a></td><td>ARCHER:  Take her to the Brig. Get her whoever she wants.</td></tr>
 
-  REED
-     She's a spy for Terra Prime.
+<tr id="L429"><td><a href="#L429">429</a></td><td>ANNOTATION: Reed takes Gannet away.</td></tr>
 
+<tr id="L430"><td><a href="#L430">430</a></td><td>CREWWOMAN [OC]:  Bridge to Captain Archer.</td></tr>
 
-LOCATION--Orpheus Mining Facility
+<tr id="L431"><td><a href="#L431">431</a></td><td>ARCHER:  I'm sorry, Travis. Archer.</td></tr>
 
-  ANNOTATION
-     Josiah pushes Tucker into a room. Greaves is
-     already there with T'Pol.
+<tr id="L432"><td><a href="#L432">432</a></td><td>CREWWOMAN:  A large vessel is taking off from the mining facility.</td></tr>
 
-  TUCKER
-     Are you all right?
+<tr id="L433"><td><a href="#L433">433</a></td><td>ARCHER:  Can you identify it?</td></tr>
 
-  T'POL
-     I think so.
+<tr id="L434"><td><a href="#L434">434</a></td><td>CREWWOMAN:  Sir, sensors indicate it is the mining facility.</td></tr>
 
-  TUCKER
-     What did you do to her?
+<tr><td></td><td>LOCATION--Orpheus Bridge</td></tr>
+<tr id="L435"><td><a href="#L435">435</a></td><td>JOSIAH:  We're being hailed. It's Starfleet Command.</td></tr>
 
-  JOSIAH
-     Hey, hey.
+<tr id="L436"><td><a href="#L436">436</a></td><td>PAXTON:  Ignore them. Reactor status?</td></tr>
 
-  GREAVES
-     Not nearly enough.
+<tr id="L437"><td><a href="#L437">437</a></td><td>GREAVES:  Ready.</td></tr>
 
-  ANNOTATION
-     The door opens.
+<tr id="L438"><td><a href="#L438">438</a></td><td>TUCKER:  You're going to warp?</td></tr>
 
-  PAXTON
-     It's not worth it, Romeo. Juliet's in good hands.
-     The two star-crossed lovers. I can't help but
-     wonder whether your little drama will end happier
-     than that famous double suicide in a medieval
-     tomb.
+<tr id="L439"><td><a href="#L439">439</a></td><td>PAXTON:  A five second burst.</td></tr>
 
-  TUCKER
-     Who the hell are you?
+<tr id="L440"><td><a href="#L440">440</a></td><td>T'POL:  Inside the system?</td></tr>
 
-  PAXTON
-     John Frederick Paxton. I run this facility.
+<tr id="L441"><td><a href="#L441">441</a></td><td>TUCKER:  We'll be lucky if we don't fly apart.</td></tr>
 
-  TUCKER
-     Not for long.
+<tr id="L442"><td><a href="#L442">442</a></td><td>PAXTON:  I plan on luck. Go.</td></tr>
 
-  PAXTON
-     You're right there, Commander. My mining business
-     is about to take a turn for the worse. Daniel, get
-     started.
+<tr id="L443"><td><a href="#L443">443</a></td><td>GREAVES:  Ten seconds.</td></tr>
 
-  TUCKER
-     You're behind this.
+<tr id="L444"><td><a href="#L444">444</a></td><td>ANNOTATION: Everything starts shaking - a lot.</td></tr>
 
-  PAXTON
-     Behind this? No. I lead this, and proudly too.
-     Before you ask, your child is safe and sound,
-     finally sleeping through the night. I forgot how
-     much trouble a newborn can be.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L445"><td><a href="#L445">445</a></td><td>ARCHER:  Hail them. Pursuit course, Travis.</td></tr>
 
-  TUCKER
-     I want to see her.
+<tr id="L446"><td><a href="#L446">446</a></td><td>TRAVIS:  Aye.</td></tr>
 
-  PAXTON
-     No. And no is a word that Starfleet better get
-     used to hearing from now on. Because up until
-     today, it's always been yes, hasn't it? Yes, yes,
-     go right ahead. roam the stars. Yes, inform
-     potentially hostile species of the whereabouts of
-     Earth. Yes, entrust the entire future of our world
-     to non-human creatures who don't even feel like we
-     do. Yes, promote the total degradation of mankind
-     by encouraging alien-human relations. Well, yes is
-     a word that ends here and now. I'm returning Earth
-     to its rightful owners. I am giving Earth back to
-     humanity, back to human beings. It is my life's
-     work. It is what I was born to do, and there is no
-     one, not an alien, not a human, that will stop me
-     from achieving it.
+<tr id="L447"><td><a href="#L447">447</a></td><td>HOSHI:  No response, sir.</td></tr>
 
+<tr id="L448"><td><a href="#L448">448</a></td><td>ARCHER:  Tell Starfleet Command we're going after them.</td></tr>
 
-LOCATION--Another room
+<tr><td></td><td>LOCATION--Orpheus Bridge</td></tr>
+<tr id="L449"><td><a href="#L449">449</a></td><td>GREAVES:  We're in Mars orbit. All systems functioning.</td></tr>
 
-  PAXTON
-     My father designed this facility. He knew that
-     mining was an unpredictable business. Mines tap
-     out, veins dry up.
+<tr id="L450"><td><a href="#L450">450</a></td><td>PAXTON:  That was a magnificent piece of flying, Daniel.</td></tr>
 
-  JOSIAH
-     Everyone's aboard, sir.
+<tr id="L451"><td><a href="#L451">451</a></td><td>GREAVES:  That's yet to come.</td></tr>
 
-  PAXTON
-     Go to launch mode, Daniel. You're an engineer. I
-     think you'll appreciate this. Take a good long
-     look.
+<tr id="L452"><td><a href="#L452">452</a></td><td>PAXTON:  Impress me again.</td></tr>
 
-  ANNOTATION
-     The main superstructure of the mining facility
-     starts to change configuration. It detaches itself
-     from the moon's surface and engines start up.
+<tr id="L453"><td><a href="#L453">453</a></td><td>GREAVES:  Taking us down.</td></tr>
 
-  TUCKER
-     Where are we going?
+<tr id="L454"><td><a href="#L454">454</a></td><td>ANNOTATION: The metal doughnut descends through the red atmosphere.</td></tr>
 
-  PAXTON
-     For you, this'll be like a walk across the street.
-     Lock it up.
+<tr id="L455"><td><a href="#L455">455</a></td><td>PAXTON:  Let's see it.</td></tr>
 
-  ANNOTATION
-     Steel shutters close across the windows.
+<tr id="L456"><td><a href="#L456">456</a></td><td>ANNOTATION: They're coming in to land near a massive ray-gun device.</td></tr>
 
-  PAXTON
-     You better hang onto something. She gets a little
-     rusty out of the gate.
+<tr id="L457"><td><a href="#L457">457</a></td><td>GREAVES:  Slowing our descent.</td></tr>
 
-  ANNOTATION
-     Orpheus takes off.
+<tr id="L458"><td><a href="#L458">458</a></td><td>ANNOTATION: Big metal feet thump onto the surface.</td></tr>
 
+<tr id="L459"><td><a href="#L459">459</a></td><td>PAXTON:  Tie us in.</td></tr>
 
-LOCATION--Conference room
+<tr id="L460"><td><a href="#L460">460</a></td><td>ANNOTATION: A clamp fastens onto a pipe.</td></tr>
 
-  ARCHER
-     You reconfigured your universal translator to
-     record messages from all the other translators.
-     You were spying on the delegates.
+<tr id="L461"><td><a href="#L461">461</a></td><td>GREAVES:  It's ours.</td></tr>
 
-  HOSHI
-     You accidentally triggered an ID protocol in the
-     network. I tracked it back to the source.
+<tr id="L462"><td><a href="#L462">462</a></td><td>PAXTON:  Let's take in the view.</td></tr>
 
-  GANNET
-     I don't know what you're talking about.
+<tr id="L463"><td><a href="#L463">463</a></td><td>ANNOTATION: The shutters open.</td></tr>
 
-  REED
-     You sure know what everyone else was talking
-     about.
+<tr id="L464"><td><a href="#L464">464</a></td><td>PAXTON:  This is where it all begins. Josiah.</td></tr>
 
-  TRAVIS
-     Maybe she was after a story. It doesn't mean she
-     worked for Terra Prime.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L465"><td><a href="#L465">465</a></td><td>REED:  They're on the surface.</td></tr>
 
-  ARCHER
-     We did a background check. In the last month, you
-     made three trips to the lunar colony.
+<tr id="L466"><td><a href="#L466">466</a></td><td>ARCHER:  Where?</td></tr>
 
-  GANNET
-     Is that a crime?
+<tr id="L467"><td><a href="#L467">467</a></td><td>REED:  They've landed near the verteron array. It's used to redirect comets.</td></tr>
 
-  ARCHER
-     Depends on what you're doing there.
+<tr id="L468"><td><a href="#L468">468</a></td><td>HOSHI:  They're sending a subspace message on all frequencies.</td></tr>
 
-  GANNET
-     I was on assignment.
+<tr id="L469"><td><a href="#L469">469</a></td><td>PAXTON [on viewscreen]:  My name is John Frederick Paxton. I've just taken over the verteron array on Mars. I can now fire on any ship or facility in the system.</td></tr>
 
-  REED
-     For?
+<tr id="L470"><td><a href="#L470">470</a></td><td>ANNOTATION: The big ray gun turns and fires a beam.</td></tr>
 
-  GANNET
-     My news agency.
+<tr id="L471"><td><a href="#L471">471</a></td><td>REED:  He's targeted Earth's moon.</td></tr>
 
-  REED
-     Your editor claims he never sent you.
+<tr id="L472"><td><a href="#L472">472</a></td><td>ANNOTATION: A new lunar crater is born.</td></tr>
 
-  GANNET
-     Look, if I'm under arrest, then
+<tr id="L473"><td><a href="#L473">473</a></td><td>PAXTON [on viewscreen]:  I have no intention of using this weapon again, provided that every single non-human in our system leaves immediately. A new era is at hand, an era that will expose the concept of interspecies unity as an absolute and vicious lie. An era that will witness the advent of a human-centred consciousness</td></tr>
 
-  ARCHER
-     Two of my crewmen are at Orpheus Mining Complex.
-     We've lost contact with them.
+<tr><td></td><td>LOCATION--Orpheus Bridge</td></tr>
+<tr id="L474"><td><a href="#L474">474</a></td><td>PAXTON:  that will place our world before all others. As of this moment, mankind casts off the shackles of alien interference and now determines its own fate.</td></tr>
 
-  GANNET
-     I don't know anything about your crewmen.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L475"><td><a href="#L475">475</a></td><td>PAXTON [on viewscreen]:  Terra Prime forever.</td></tr>
 
-  ARCHER
-     Are they in danger?
+<tr id="L476"><td><a href="#L476">476</a></td><td>SOMEONE: To Be Continued...</td></tr>
 
-  GANNET
-     I want to speak with counsel. Now.
-
-  ARCHER
-     Take her to the Brig. Get her whoever she wants.
-
-  ANNOTATION
-     Reed takes Gannet away.
-
-  CREWWOMAN [OC]
-     Bridge to Captain Archer.
-
-  ARCHER
-     I'm sorry, Travis. Archer.
-
-  CREWWOMAN
-     A large vessel is taking off from the mining
-     facility.
-
-  ARCHER
-     Can you identify it?
-
-  CREWWOMAN
-     Sir, sensors indicate it is the mining facility.
-
-
-LOCATION--Orpheus Bridge
-
-  JOSIAH
-     We're being hailed. It's Starfleet Command.
-
-  PAXTON
-     Ignore them. Reactor status?
-
-  GREAVES
-     Ready.
-
-  TUCKER
-     You're going to warp?
-
-  PAXTON
-     A five second burst.
-
-  T'POL
-     Inside the system?
-
-  TUCKER
-     We'll be lucky if we don't fly apart.
-
-  PAXTON
-     I plan on luck. Go.
-
-  GREAVES
-     Ten seconds.
-
-  ANNOTATION
-     Everything starts shaking - a lot.
-
-
-LOCATION--Bridge
-
-  ARCHER
-     Hail them. Pursuit course, Travis.
-
-  TRAVIS
-     Aye.
-
-  HOSHI
-     No response, sir.
-
-  ARCHER
-     Tell Starfleet Command we're going after them.
-
-
-LOCATION--Orpheus Bridge
-
-  GREAVES
-     We're in Mars orbit. All systems functioning.
-
-  PAXTON
-     That was a magnificent piece of flying, Daniel.
-
-  GREAVES
-     That's yet to come.
-
-  PAXTON
-     Impress me again.
-
-  GREAVES
-     Taking us down.
-
-  ANNOTATION
-     The metal doughnut descends through the red
-     atmosphere.
-
-  PAXTON
-     Let's see it.
-
-  ANNOTATION
-     They're coming in to land near a massive ray-gun
-     device.
-
-  GREAVES
-     Slowing our descent.
-
-  ANNOTATION
-     Big metal feet thump onto the surface.
-
-  PAXTON
-     Tie us in.
-
-  ANNOTATION
-     A clamp fastens onto a pipe.
-
-  GREAVES
-     It's ours.
-
-  PAXTON
-     Let's take in the view.
-
-  ANNOTATION
-     The shutters open.
-
-  PAXTON
-     This is where it all begins. Josiah.
-
-
-LOCATION--Bridge
-
-  REED
-     They're on the surface.
-
-  ARCHER
-     Where?
-
-  REED
-     They've landed near the verteron array. It's used
-     to redirect comets.
-
-  HOSHI
-     They're sending a subspace message on all
-     frequencies.
-
-  PAXTON [on viewscreen]
-     My name is John Frederick Paxton. I've just taken
-     over the verteron array on Mars. I can now fire on
-     any ship or facility in the system.
-
-  ANNOTATION
-     The big ray gun turns and fires a beam.
-
-  REED
-     He's targeted Earth's moon.
-
-  ANNOTATION
-     A new lunar crater is born.
-
-  PAXTON [on viewscreen]
-     I have no intention of using this weapon again,
-     provided that every single non-human in our system
-     leaves immediately. A new era is at hand, an era
-     that will expose the concept of interspecies unity
-     as an absolute and vicious lie. An era that will
-     witness the advent of a human-centred
-     consciousness
-
-
-LOCATION--Orpheus Bridge
-
-  PAXTON
-     that will place our world before all others. As of
-     this moment, mankind casts off the shackles of
-     alien interference and now determines its own
-     fate.
-
-
-LOCATION--Bridge
-
-  PAXTON [on viewscreen]
-     Terra Prime forever.
-
-  SOMEONE
-     To Be Continued...
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

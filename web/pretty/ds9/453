@@ -1,1818 +1,915 @@
-Civil Defense
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Civil Defense</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Ore Processing unit</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>ANNOTATION: Two storeys high, with a big chute running down the middle of the room</td></tr>
 
-LOCATION--Ore Processing unit
+<tr id="L2"><td><a href="#L2">2</a></td><td>O'BRIEN:  How's it going, Jake?</td></tr>
 
-  ANNOTATION
-     Two storeys high, with a big chute running down
-     the middle of the room
+<tr id="L3"><td><a href="#L3">3</a></td><td>JAKE:  Fine. I've deleted half the Cardassian files from the computer. I can't believe how many subroutines it took just to run this ore processor.</td></tr>
 
-  O'BRIEN
-     How's it going, Jake?
+<tr id="L4"><td><a href="#L4">4</a></td><td>O'BRIEN:  Well, it used to be a pretty large operation. When the Cardassians were in charge, I understand they processed twenty thousand tons a day.</td></tr>
 
-  JAKE
-     Fine. I've deleted half the Cardassian files from
-     the computer. I can't believe how many subroutines
-     it took just to run this ore processor.
+<tr id="L5"><td><a href="#L5">5</a></td><td>JAKE:  That's a lot of ore.</td></tr>
 
-  O'BRIEN
-     Well, it used to be a pretty large operation. When
-     the Cardassians were in charge, I understand they
-     processed twenty thousand tons a day.
+<tr id="L6"><td><a href="#L6">6</a></td><td>O'BRIEN:  It must've been hell in here. I heard stories that the temperature reached fifty five degrees Celsius.</td></tr>
 
-  JAKE
-     That's a lot of ore.
+<tr id="L7"><td><a href="#L7">7</a></td><td>JAKE:  How could the Bajoran workers survive that?</td></tr>
 
-  O'BRIEN
-     It must've been hell in here. I heard stories that
-     the temperature reached fifty five degrees
-     Celsius.
+<tr id="L8"><td><a href="#L8">8</a></td><td>O'BRIEN:  A lot of them didn't. When you've deleted all those files, I'll show you how to download the new operating system.</td></tr>
 
-  JAKE
-     How could the Bajoran workers survive that?
+<tr id="L9"><td><a href="#L9">9</a></td><td>JAKE:  You really think we can convert this place into a deuterium refinery?</td></tr>
 
-  O'BRIEN
-     A lot of them didn't. When you've deleted all
-     those files, I'll show you how to download the new
-     operating system.
+<tr id="L10"><td><a href="#L10">10</a></td><td>O'BRIEN:  Absolutely. It'll take us three, maybe four weeks at the most.</td></tr>
 
-  JAKE
-     You really think we can convert this place into a
-     deuterium refinery?
+<tr id="L11"><td><a href="#L11">11</a></td><td>SISKO:  I hope you're planning on eating during the next three to four weeks.</td></tr>
 
-  O'BRIEN
-     Absolutely. It'll take us three, maybe four weeks
-     at the most.
+<tr id="L12"><td><a href="#L12">12</a></td><td>O'BRIEN:  Commander. I guess I lost track of the time.</td></tr>
 
-  SISKO
-     I hope you're planning on eating during the next
-     three to four weeks.
+<tr id="L13"><td><a href="#L13">13</a></td><td>JAKE:  We're almost finished, Dad. Chief, I'm having a problem deleting one of these files.</td></tr>
 
-  O'BRIEN
-     Commander. I guess I lost track of the time.
+<tr id="L14"><td><a href="#L14">14</a></td><td>O'BRIEN:  Have you tried reformatting the data cluster?</td></tr>
 
-  JAKE
-     We're almost finished, Dad. Chief, I'm having a
-     problem deleting one of these files.
+<tr id="L15"><td><a href="#L15">15</a></td><td>JAKE:  Yeah, but the file's still here</td></tr>
 
-  O'BRIEN
-     Have you tried reformatting the data cluster?
+<tr id="L16"><td><a href="#L16">16</a></td><td>O'BRIEN:  Let me see. That's odd.</td></tr>
 
-  JAKE
-     Yeah, but the file's still here
+<tr id="L17"><td><a href="#L17">17</a></td><td>SISKO:  What's that, Chief?</td></tr>
 
-  O'BRIEN
-     Let me see. That's odd.
+<tr id="L18"><td><a href="#L18">18</a></td><td>O'BRIEN:  Well, the file has no name. No indication what it is. I'd better set it aside for now. I can transfer it to the central database in Ops and analyse it in the morning.</td></tr>
 
-  SISKO
-     What's that, Chief?
+<tr id="L19"><td><a href="#L19">19</a></td><td>ANNOTATION: Warning flashes up on the monitor.</td></tr>
 
-  O'BRIEN
-     Well, the file has no name. No indication what it
-     is. I'd better set it aside for now. I can
-     transfer it to the central database in Ops and
-     analyse it in the morning.
+<tr id="L20"><td><a href="#L20">20</a></td><td>O'BRIEN:  Wait a minute.</td></tr>
 
-  ANNOTATION
-     Warning flashes up on the monitor.
+<tr id="L21"><td><a href="#L21">21</a></td><td>COMPUTER:  Unauthorised computer entry detected in Ore Processing unit five. Enter access code.</td></tr>
 
-  O'BRIEN
-     Wait a minute.
+<tr id="L22"><td><a href="#L22">22</a></td><td>ANNOTATION: O'Brien does.</td></tr>
 
-  COMPUTER
-     Unauthorised computer entry detected in Ore
-     Processing unit five. Enter access code.
+<tr id="L23"><td><a href="#L23">23</a></td><td>COMPUTER:  Incorrect code. You have five seconds to enter correct access code.</td></tr>
 
-  ANNOTATION
-     O'Brien does.
+<tr id="L24"><td><a href="#L24">24</a></td><td>JAKE:  Or what?</td></tr>
 
-  COMPUTER
-     Incorrect code. You have five seconds to enter
-     correct access code.
+<tr id="L25"><td><a href="#L25">25</a></td><td>O'BRIEN:  I don't know. I'd better stop it.</td></tr>
 
-  JAKE
-     Or what?
+<tr id="L26"><td><a href="#L26">26</a></td><td>ANNOTATION: An alarm sounds and the doors are sealed.</td></tr>
 
-  O'BRIEN
-     I don't know. I'd better stop it.
+<tr id="L27"><td><a href="#L27">27</a></td><td>COMPUTER:  Warning.</td></tr>
 
-  ANNOTATION
-     An alarm sounds and the doors are sealed.
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L28"><td><a href="#L28">28</a></td><td>COMPUTER:  Worker revolt in progress in Ore Processing unit five. Security countermeasures initiated.</td></tr>
 
-  COMPUTER
-     Warning.
+<tr id="L29"><td><a href="#L29">29</a></td><td>KIRA:  What the hell?</td></tr>
 
+<tr><td></td><td>LOCATION--Ore Processing unit</td></tr>
+<tr id="L30"><td><a href="#L30">30</a></td><td>DUKAT [on monitor]:  Bajoran workers, your attention please. Your attempt to seize control of this facility is going to fail. You are valuable workers and we wish you no harm. However if you do not return control of this unit to your Cardassian supervisors, we will be forced to take action. You have eight minutes to make your decision.</td></tr>
 
-LOCATION--Ops
+<tr id="L31"><td><a href="#L31">31</a></td><td>ANNOTATION: During the opening titles, O'Brien has been working on one of the doors.</td></tr>
 
-  COMPUTER
-     Worker revolt in progress in Ore Processing unit
-     five. Security countermeasures initiated.
+<tr id="L32"><td><a href="#L32">32</a></td><td>O'BRIEN:  The computer's engaged the magnetic seal. I can't override it.</td></tr>
 
-  KIRA
-     What the hell?
+<tr id="L33"><td><a href="#L33">33</a></td><td>KIRA [OC]:  Ops to Sisko.</td></tr>
 
+<tr id="L34"><td><a href="#L34">34</a></td><td>SISKO:  Go ahead.</td></tr>
 
-LOCATION--Ore Processing unit
+<tr id="L35"><td><a href="#L35">35</a></td><td>KIRA [OC]:  Commander, what is going on down there?</td></tr>
 
-  DUKAT [on monitor]
-     Bajoran workers, your attention please. Your
-     attempt to seize control of this facility is going
-     to fail. You are valuable workers and we wish you
-     no harm. However if you do not return control of
-     this unit to your Cardassian supervisors, we will
-     be forced to take action. You have eight minutes
-     to make your decision.
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L36"><td><a href="#L36">36</a></td><td>KIRA:  We just got a recorded message from Gul Dukat regarding some worker revolt in the ore processing facility.</td></tr>
 
-  ANNOTATION
-     During the opening titles, O'Brien has been
-     working on one of the doors.
+<tr id="L37"><td><a href="#L37">37</a></td><td>SISKO [OC]:  We saw the same message.</td></tr>
 
-  O'BRIEN
-     The computer's engaged the magnetic seal. I can't
-     override it.
+<tr><td></td><td>LOCATION--Ore Processing unit</td></tr>
+<tr id="L38"><td><a href="#L38">38</a></td><td>SISKO:  It seems we've tripped some kind of automated security programme the Cardassians left. We're locked in.</td></tr>
 
-  KIRA [OC]
-     Ops to Sisko.
+<tr id="L39"><td><a href="#L39">39</a></td><td>KIRA [OC]:  We'll beam you out of there.</td></tr>
 
-  SISKO
-     Go ahead.
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L40"><td><a href="#L40">40</a></td><td>COMPUTER:  Enter access code.</td></tr>
 
-  KIRA [OC]
-     Commander, what is going on down there?
+<tr id="L41"><td><a href="#L41">41</a></td><td>DAX:  What?</td></tr>
 
+<tr id="L42"><td><a href="#L42">42</a></td><td>BASHIR:  If this security programme thinks there's been some kind of worker revolt, then it must think this station is still under Cardassian rule, so it's probably waiting for us to enter an emergency code.</td></tr>
 
-LOCATION--Ops
+<tr id="L43"><td><a href="#L43">43</a></td><td>KIRA:  One that the Cardassians never bothered to give us when they left.</td></tr>
 
-  KIRA
-     We just got a recorded message from Gul Dukat
-     regarding some worker revolt in the ore processing
-     facility.
+<tr id="L44"><td><a href="#L44">44</a></td><td>ODO [OC]:  Odo to Ops.</td></tr>
 
-  SISKO [OC]
-     We saw the same message.
+<tr id="L45"><td><a href="#L45">45</a></td><td>KIRA:  Kira here.</td></tr>
 
+<tr><td></td><td>LOCATION--Security office</td></tr>
+<tr id="L46"><td><a href="#L46">46</a></td><td>ODO:  My Cardassian access codes are still valid. I'm attempting to override the security programme but it's going to take some time. I'm not sure my clearance level is high enough.</td></tr>
 
-LOCATION--Ore Processing unit
+<tr id="L47"><td><a href="#L47">47</a></td><td>KIRA [OC]:  Well, keep at it. We'll try to do the same thing from up here.</td></tr>
 
-  SISKO
-     It seems we've tripped some kind of automated
-     security programme the Cardassians left. We're
-     locked in.
+<tr id="L48"><td><a href="#L48">48</a></td><td>ODO:  Acknowledged.</td></tr>
 
-  KIRA [OC]
-     We'll beam you out of there.
+<tr id="L49"><td><a href="#L49">49</a></td><td>ANNOTATION: Quark enters</td></tr>
 
+<tr id="L50"><td><a href="#L50">50</a></td><td>QUARK:  Odo, do you mind telling me what this is all about? That message from Dukat is making my customers nervous, and when they're nervous they're not</td></tr>
 
-LOCATION--Ops
+<tr id="L51"><td><a href="#L51">51</a></td><td>ODO:  Not now, Quark. I'm busy.</td></tr>
 
-  COMPUTER
-     Enter access code.
+<tr id="L52"><td><a href="#L52">52</a></td><td>QUARK:  Well, is there anything I can do to help?</td></tr>
 
-  DAX
-     What?
+<tr id="L53"><td><a href="#L53">53</a></td><td>ODO:  Not unless you have a level nine Cardassian security clearance.</td></tr>
 
-  BASHIR
-     If this security programme thinks there's been
-     some kind of worker revolt, then it must think
-     this station is still under Cardassian rule, so
-     it's probably waiting for us to enter an emergency
-     code.
+<tr id="L54"><td><a href="#L54">54</a></td><td>QUARK:  Let's see. I think I have everything from levels one through seven.</td></tr>
 
-  KIRA
-     One that the Cardassians never bothered to give us
-     when they left.
+<tr id="L55"><td><a href="#L55">55</a></td><td>ODO:  I only have levels one through six.</td></tr>
 
-  ODO [OC]
-     Odo to Ops.
+<tr id="L56"><td><a href="#L56">56</a></td><td>QUARK:  Well, if you'd like a level seven, I'm sure we could make some kind of arrangement.</td></tr>
 
-  KIRA
-     Kira here.
+<tr id="L57"><td><a href="#L57">57</a></td><td>ODO:  Leave me alone, Quark.</td></tr>
 
+<tr id="L58"><td><a href="#L58">58</a></td><td>QUARK:  Oh, no. There's something very wrong going on and this is the safest place on the whole station. I think I'll stay right here.</td></tr>
 
-LOCATION--Security office
+<tr><td></td><td>LOCATION--Ore Processing unit</td></tr>
+<tr id="L59"><td><a href="#L59">59</a></td><td>ANNOTATION: Sisko is trying an access door to the chute on the upper level.</td></tr>
 
-  ODO
-     My Cardassian access codes are still valid. I'm
-     attempting to override the security programme but
-     it's going to take some time. I'm not sure my
-     clearance level is high enough.
+<tr id="L60"><td><a href="#L60">60</a></td><td>O'BRIEN:  Any luck?</td></tr>
 
-  KIRA [OC]
-     Well, keep at it. We'll try to do the same thing
-     from up here.
+<tr id="L61"><td><a href="#L61">61</a></td><td>SISKO:  Nothing. It's probably magnetically sealed like the door. We'd need a phaser to blast it open.</td></tr>
 
-  ODO
-     Acknowledged.
+<tr id="L62"><td><a href="#L62">62</a></td><td>O'BRIEN:  Well, there's no way I can disable the programme from here.</td></tr>
 
-  ANNOTATION
-     Quark enters
+<tr id="L63"><td><a href="#L63">63</a></td><td>DUKAT [on monitor]:  Bajoran workers, your time is running out. But it's not too late. You can still surrender and save your lives.</td></tr>
 
-  QUARK
-     Odo, do you mind telling me what this is all
-     about? That message from Dukat is making my
-     customers nervous, and when they're nervous
-     they're not
+<tr id="L64"><td><a href="#L64">64</a></td><td>SISKO:  Computer. This is the leader of the Bajoran workers. We surrender.</td></tr>
 
-  ODO
-     Not now, Quark. I'm busy.
+<tr id="L65"><td><a href="#L65">65</a></td><td>DUKAT [on monitor]:  I'm glad to see you've come to your senses. Stay where you are. When Cardassian security arrives, they will place you into custody but you will not be harmed. You have my word.</td></tr>
 
-  QUARK
-     Well, is there anything I can do to help?
+<tr id="L66"><td><a href="#L66">66</a></td><td>O'BRIEN:  Whatever that's worth.</td></tr>
 
-  ODO
-     Not unless you have a level nine Cardassian
-     security clearance.
+<tr id="L67"><td><a href="#L67">67</a></td><td>JAKE:  Now what?</td></tr>
 
-  QUARK
-     Let's see. I think I have everything from levels
-     one through seven.
+<tr id="L68"><td><a href="#L68">68</a></td><td>SISKO:  Well, it sounds like the programme is going to wait for Cardassian security to enter the all-clear protocol. That'll give us a few minutes, anyway. What's in here?</td></tr>
 
-  ODO
-     I only have levels one through six.
+<tr id="L69"><td><a href="#L69">69</a></td><td>ANNOTATION: He thumps on the chute</td></tr>
 
-  QUARK
-     Well, if you'd like a level seven, I'm sure we
-     could make some kind of arrangement.
+<tr id="L70"><td><a href="#L70">70</a></td><td>O'BRIEN:  Nothing at the moment. Processed uridium used to flow down that pipe to a secondary refining facility on level thirty three and be purified.</td></tr>
 
-  ODO
-     Leave me alone, Quark.
+<tr id="L71"><td><a href="#L71">71</a></td><td>ANNOTATION: Jake pulls a panel off the bottom of the chute.</td></tr>
 
-  QUARK
-     Oh, no. There's something very wrong going on and
-     this is the safest place on the whole station. I
-     think I'll stay right here.
+<tr id="L72"><td><a href="#L72">72</a></td><td>JAKE:  It's not locked.</td></tr>
 
+<tr id="L73"><td><a href="#L73">73</a></td><td>SISKO:  Since that pipe was filled with molten uridium, there wasn't any need for security measures.</td></tr>
 
-LOCATION--Ore Processing unit
+<tr id="L74"><td><a href="#L74">74</a></td><td>O'BRIEN:  It's too narrow for anyone to escape through.</td></tr>
 
-  ANNOTATION
-     Sisko is trying an access door to the chute on the
-     upper level.
+<tr id="L75"><td><a href="#L75">75</a></td><td>JAKE:  I can get in there.</td></tr>
 
-  O'BRIEN
-     Any luck?
+<tr id="L76"><td><a href="#L76">76</a></td><td>SISKO:  Chief, if he can crawl up this pipe into the machine, cab he can get to the ore chute and open that hatch from inside?</td></tr>
 
-  SISKO
-     Nothing. It's probably magnetically sealed like
-     the door. We'd need a phaser to blast it open.
+<tr id="L77"><td><a href="#L77">77</a></td><td>DUKAT [on monitor]:  Bajoran workers, you have not surrendered to Cardassian security. If you do not do so in the next three minutes, I will be forced to release neurocine gas into the ore processing facility.</td></tr>
 
-  O'BRIEN
-     Well, there's no way I can disable the programme
-     from here.
+<tr id="L78"><td><a href="#L78">78</a></td><td>JAKE:  I can do it.</td></tr>
 
-  DUKAT [on monitor]
-     Bajoran workers, your time is running out. But
-     it's not too late. You can still surrender and
-     save your lives.
+<tr id="L79"><td><a href="#L79">79</a></td><td>ANNOTATION: Jake gets into the bottom of the chute.</td></tr>
 
-  SISKO
-     Computer. This is the leader of the Bajoran
-     workers. We surrender.
+<tr id="L80"><td><a href="#L80">80</a></td><td>DUKAT [on monitor]:  Bajoran workers, you have two minutes left to give yourselves up to your Cardassian overseers and save your lives.</td></tr>
 
-  DUKAT [on monitor]
-     I'm glad to see you've come to your senses. Stay
-     where you are. When Cardassian security arrives,
-     they will place you into custody but you will not
-     be harmed. You have my word.
+<tr id="L81"><td><a href="#L81">81</a></td><td>SISKO:  Can you hear me, Jake?</td></tr>
 
-  O'BRIEN
-     Whatever that's worth.
+<tr id="L82"><td><a href="#L82">82</a></td><td>JAKE [OC]:  Loud and clear, but I can't see a thing.</td></tr>
 
-  JAKE
-     Now what?
+<tr id="L83"><td><a href="#L83">83</a></td><td>O'BRIEN:  There should be a large circular opening to your right.</td></tr>
 
-  SISKO
-     Well, it sounds like the programme is going to
-     wait for Cardassian security to enter the
-     all-clear protocol. That'll give us a few minutes,
-     anyway. What's in here?
+<tr id="L84"><td><a href="#L84">84</a></td><td>JAKE [OC]:  Okay, let me see if I can find it.</td></tr>
 
-  ANNOTATION
-     He thumps on the chute
+<tr id="L85"><td><a href="#L85">85</a></td><td>DUKAT [on monitor]:  Even if you were to escape this station</td></tr>
 
-  O'BRIEN
-     Nothing at the moment. Processed uridium used to
-     flow down that pipe to a secondary refining
-     facility on level thirty three and be purified.
+<tr id="L86"><td><a href="#L86">86</a></td><td>ANNOTATION: Bang</td></tr>
 
-  ANNOTATION
-     Jake pulls a panel off the bottom of the chute.
+<tr id="L87"><td><a href="#L87">87</a></td><td>JAKE [OC]:  Ow!</td></tr>
 
-  JAKE
-     It's not locked.
+<tr id="L88"><td><a href="#L88">88</a></td><td>SISKO:  Jake-o, are you all right?</td></tr>
 
-  SISKO
-     Since that pipe was filled with molten uridium,
-     there wasn't any need for security measures.
+<tr id="L89"><td><a href="#L89">89</a></td><td>JAKE [OC]:  Yeah, I just banged my head on something.</td></tr>
 
-  O'BRIEN
-     It's too narrow for anyone to escape through.
+<tr id="L90"><td><a href="#L90">90</a></td><td>DUKAT [on monitor]:  Back to Bajor? I can tell you</td></tr>
 
-  JAKE
-     I can get in there.
+<tr id="L91"><td><a href="#L91">91</a></td><td>JAKE [OC]:  Wait a second, there's a junction here. It feels like it goes off in two directions. Which way do I go?</td></tr>
 
-  SISKO
-     Chief, if he can crawl up this pipe into the
-     machine, cab he can get to the ore chute and open
-     that hatch from inside?
+<tr id="L92"><td><a href="#L92">92</a></td><td>DUKAT [on monitor]:  The guls in charge.</td></tr>
 
-  DUKAT [on monitor]
-     Bajoran workers, you have not surrendered to
-     Cardassian security. If you do not do so in the
-     next three minutes, I will be forced to release
-     neurocine gas into the ore processing facility.
+<tr id="L93"><td><a href="#L93">93</a></td><td>SISKO:  Follow this sound, Jake.</td></tr>
 
-  JAKE
-     I can do it.
+<tr id="L94"><td><a href="#L94">94</a></td><td>ANNOTATION: Sisko taps the pipe with a metal bar</td></tr>
 
-  ANNOTATION
-     Jake gets into the bottom of the chute.
+<tr id="L95"><td><a href="#L95">95</a></td><td>JAKE [OC]:  Do it again, Dad. Got it. I'm in the chute.</td></tr>
 
-  DUKAT [on monitor]
-     Bajoran workers, you have two minutes left to give
-     yourselves up to your Cardassian overseers and
-     save your lives.
+<tr id="L96"><td><a href="#L96">96</a></td><td>ANNOTATION: The Dukat recording drones on under the dialogue</td></tr>
 
-  SISKO
-     Can you hear me, Jake?
+<tr id="L97"><td><a href="#L97">97</a></td><td>O'BRIEN:  There should be a small access port in one of the walls.</td></tr>
 
-  JAKE [OC]
-     Loud and clear, but I can't see a thing.
+<tr id="L98"><td><a href="#L98">98</a></td><td>JAKE [OC]:  Found it.</td></tr>
 
-  O'BRIEN
-     There should be a large circular opening to your
-     right.
+<tr id="L99"><td><a href="#L99">99</a></td><td>O'BRIEN:  Open the port and feel around inside for a handle. It should be shaped like a stirrup.</td></tr>
 
-  JAKE [OC]
-     Okay, let me see if I can find it.
+<tr id="L100"><td><a href="#L100">100</a></td><td>SISKO:  You know, I never knew how much this man's voice annoyed me.</td></tr>
 
-  DUKAT [on monitor]
-     Even if you were to escape this station
+<tr id="L101"><td><a href="#L101">101</a></td><td>JAKE [OC]:  I can reach, but I can't get hold of it.</td></tr>
 
-  ANNOTATION
-     Bang
+<tr id="L102"><td><a href="#L102">102</a></td><td>O'BRIEN:  You have to pull the handle down, Jake. It's the release for the hatch.</td></tr>
 
-  JAKE [OC]
-     Ow!
+<tr id="L103"><td><a href="#L103">103</a></td><td>JAKE [OC]:  I'm trying, I can't</td></tr>
 
-  SISKO
-     Jake-o, are you all right?
+<tr id="L104"><td><a href="#L104">104</a></td><td>SISKO:  Don't tense up, relax. Now just take a deep breath and try again.</td></tr>
 
-  JAKE [OC]
-     Yeah, I just banged my head on something.
+<tr id="L105"><td><a href="#L105">105</a></td><td>DUKAT [on monitor]:  I'm sorry, but your time has run out. I was hoping you would be reasonable. Rest assured that your deaths will serve as an example to prevent similar incidents in the future.</td></tr>
 
-  DUKAT [on monitor]
-     Back to Bajor? I can tell you
+<tr id="L106"><td><a href="#L106">106</a></td><td>ANNOTATION: The gas starts to come in.</td></tr>
 
-  JAKE [OC]
-     Wait a second, there's a junction here. It feels
-     like it goes off in two directions. Which way do I
-     go?
+<tr id="L107"><td><a href="#L107">107</a></td><td>JAKE [OC]:  I got it.</td></tr>
 
-  DUKAT [on monitor]
-     The guls in charge.
+<tr id="L108"><td><a href="#L108">108</a></td><td>ANNOTATION: Jake opens the door on the upper level and the two men up scramble then into the chute</td></tr>
 
-  SISKO
-     Follow this sound, Jake.
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L109"><td><a href="#L109">109</a></td><td>KIRA:  Dax.</td></tr>
 
-  ANNOTATION
-     Sisko taps the pipe with a metal bar
+<tr id="L110"><td><a href="#L110">110</a></td><td>ANNOTATION: Dax is working in the pit</td></tr>
 
-  JAKE [OC]
-     Do it again, Dad. Got it. I'm in the chute.
+<tr id="L111"><td><a href="#L111">111</a></td><td>DAX:  Maybe if we bypass the primary command pathway and cross-connect the backup with the ODN.</td></tr>
 
-  ANNOTATION
-     The Dukat recording drones on under the dialogue
+<tr id="L112"><td><a href="#L112">112</a></td><td>COMPUTER:  Warning. Workers have escaped from Ore Processing unit five. Initiating stationwide counterinsurgency programme.</td></tr>
 
-  O'BRIEN
-     There should be a small access port in one of the
-     walls.
+<tr id="L113"><td><a href="#L113">113</a></td><td>ANNOTATION: Red alert and all the doors slam shut.</td></tr>
 
-  JAKE [OC]
-     Found it.
+<tr id="L114"><td><a href="#L114">114</a></td><td>BASHIR:  Now what?</td></tr>
 
-  O'BRIEN
-     Open the port and feel around inside for a handle.
-     It should be shaped like a stirrup.
+<tr id="L115"><td><a href="#L115">115</a></td><td>DUKAT [on monitor]:  Attention, Bajoran workers. I will not allow this rebellion to succeed. If you do not surrender immediately, I will be forced to kill every Bajoran on this station.</td></tr>
 
-  SISKO
-     You know, I never knew how much this man's voice
-     annoyed me.
+<tr><td></td><td>LOCATION--Ore loading bay</td></tr>
+<tr id="L116"><td><a href="#L116">116</a></td><td>ANNOTATION: Jake leads the way up a chute to a room.</td></tr>
 
-  JAKE [OC]
-     I can reach, but I can't get hold of it.
+<tr id="L117"><td><a href="#L117">117</a></td><td>JAKE:  Wait a second, I found something.</td></tr>
 
-  O'BRIEN
-     You have to pull the handle down, Jake. It's the
-     release for the hatch.
+<tr id="L118"><td><a href="#L118">118</a></td><td>SISKO [OC]:  What is it?</td></tr>
 
-  JAKE [OC]
-     I'm trying, I can't
+<tr id="L119"><td><a href="#L119">119</a></td><td>JAKE:  I don't know. Some kind of room. It sure is dirty. Doesn't smell too good either.</td></tr>
 
-  SISKO
-     Don't tense up, relax. Now just take a deep breath
-     and try again.
+<tr id="L120"><td><a href="#L120">120</a></td><td>SISKO:  Looks like some kind of loading bay.</td></tr>
 
-  DUKAT [on monitor]
-     I'm sorry, but your time has run out. I was hoping
-     you would be reasonable. Rest assured that your
-     deaths will serve as an example to prevent similar
-     incidents in the future.
+<tr id="L121"><td><a href="#L121">121</a></td><td>O'BRIEN:  You're right. This is where the uridium ore was separated from the rock. Then it would be dumped down that chute to the processing facility.</td></tr>
 
-  ANNOTATION
-     The gas starts to come in.
+<tr id="L122"><td><a href="#L122">122</a></td><td>ANNOTATION: Sisko tries the door.</td></tr>
 
-  JAKE [OC]
-     I got it.
+<tr id="L123"><td><a href="#L123">123</a></td><td>SISKO:  Locked. Chief, is there another way out of here?</td></tr>
 
-  ANNOTATION
-     Jake opens the door on the upper level and the two
-     men up scramble then into the chute
+<tr id="L124"><td><a href="#L124">124</a></td><td>O'BRIEN:  Just back down that chute. You know where that leads to.</td></tr>
 
+<tr id="L125"><td><a href="#L125">125</a></td><td>SISKO:  Sisko to Ops. Sisko to Security. Try yours.</td></tr>
 
-LOCATION--Ops
+<tr id="L126"><td><a href="#L126">126</a></td><td>O'BRIEN:  O'Brien to Ops.</td></tr>
 
-  KIRA
-     Dax.
+<tr id="L127"><td><a href="#L127">127</a></td><td>JAKE:  Jake Sisko to anyone who can hear me.</td></tr>
 
-  ANNOTATION
-     Dax is working in the pit
+<tr id="L128"><td><a href="#L128">128</a></td><td>O'BRIEN:  Something must be interfering with the signal.</td></tr>
 
-  DAX
-     Maybe if we bypass the primary command pathway and
-     cross-connect the backup with the ODN.
+<tr id="L129"><td><a href="#L129">129</a></td><td>JAKE:  What do we do now?</td></tr>
 
-  COMPUTER
-     Warning. Workers have escaped from Ore Processing
-     unit five. Initiating stationwide
-     counterinsurgency programme.
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L130"><td><a href="#L130">130</a></td><td>DAX:  It's no good. We're completely cut off from the rest of the station.</td></tr>
 
-  ANNOTATION
-     Red alert and all the doors slam shut.
+<tr id="L131"><td><a href="#L131">131</a></td><td>BASHIR:  There must be some kind of general dampening field in place. It must be disrupting communications.</td></tr>
 
-  BASHIR
-     Now what?
+<tr id="L132"><td><a href="#L132">132</a></td><td>KIRA:  All right. It's time for a less subtle approach.</td></tr>
 
-  DUKAT [on monitor]
-     Attention, Bajoran workers. I will not allow this
-     rebellion to succeed. If you do not surrender
-     immediately, I will be forced to kill every
-     Bajoran on this station.
+<tr id="L133"><td><a href="#L133">133</a></td><td>ANNOTATION: She adjusts her phaser and aims it at the door control Bashir is working on.</td></tr>
 
+<tr id="L134"><td><a href="#L134">134</a></td><td>KIRA:  Doctor.</td></tr>
 
-LOCATION--Ore loading bay
+<tr id="L135"><td><a href="#L135">135</a></td><td>ANNOTATION: The manual lever is freed and the door opens, but there's a forcefield beyond.</td></tr>
 
-  ANNOTATION
-     Jake leads the way up a chute to a room.
+<tr id="L136"><td><a href="#L136">136</a></td><td>BASHIR:  The Cardassians don't miss a trick, do they?</td></tr>
 
-  JAKE
-     Wait a second, I found something.
+<tr id="L137"><td><a href="#L137">137</a></td><td>DAX:  The ironic thing is that field is probably there to protect Ops from the hoards of rebelling Bajorans.</td></tr>
 
-  SISKO [OC]
-     What is it?
+<tr id="L138"><td><a href="#L138">138</a></td><td>KIRA:  Well we've got to find a way of disabling the security programme or a lot of people are going to be killed.</td></tr>
 
-  JAKE
-     I don't know. Some kind of room. It sure is dirty.
-     Doesn't smell too good either.
+<tr id="L139"><td><a href="#L139">139</a></td><td>DAX:  If we can regain control of the main computer, we may be able to wipe the security programme from its memory. Now, if I can reroute the APT relay through the secondary buffer, I might get an independent terminal working.</td></tr>
 
-  SISKO
-     Looks like some kind of loading bay.
+<tr id="L140"><td><a href="#L140">140</a></td><td>BASHIR:  You know, I've been here nearly three years and I was just finally starting to think of this place as home.</td></tr>
 
-  O'BRIEN
-     You're right. This is where the uridium ore was
-     separated from the rock. Then it would be dumped
-     down that chute to the processing facility.
+<tr id="L141"><td><a href="#L141">141</a></td><td>KIRA:  Your home was built by Cardassians, Doctor. Don't ever forget that.</td></tr>
 
-  ANNOTATION
-     Sisko tries the door.
+<tr id="L142"><td><a href="#L142">142</a></td><td>BASHIR:  No, there's not much chance of that, is there.</td></tr>
 
-  SISKO
-     Locked. Chief, is there another way out of here?
+<tr><td></td><td>LOCATION--Security office</td></tr>
+<tr id="L143"><td><a href="#L143">143</a></td><td>QUARK:  What do you mean, we're trapped?</td></tr>
 
-  O'BRIEN
-     Just back down that chute. You know where that
-     leads to.
+<tr id="L144"><td><a href="#L144">144</a></td><td>ODO:  I mean we're trapped. I wouldn't be surprised if the entire station is locked down.</td></tr>
 
-  SISKO
-     Sisko to Ops. Sisko to Security. Try yours.
+<tr id="L145"><td><a href="#L145">145</a></td><td>ANNOTATION: Another of those doorway forcefields, this time on the inside of the office.</td></tr>
 
-  O'BRIEN
-     O'Brien to Ops.
+<tr id="L146"><td><a href="#L146">146</a></td><td>QUARK:  But you're a shape-shifter. Excuse me, a changeling. So change into something and get us out of here.</td></tr>
 
-  JAKE
-     Jake Sisko to anyone who can hear me.
+<tr id="L147"><td><a href="#L147">147</a></td><td>ODO:  This forcefield isn't just protecting the door, it goes through the bulkheads, the ceiling, the deck. There's nowhere for me to go.</td></tr>
 
-  O'BRIEN
-     Something must be interfering with the signal.
+<tr id="L148"><td><a href="#L148">148</a></td><td>QUARK:  You're telling me I'm stuck here with you?</td></tr>
 
-  JAKE
-     What do we do now?
+<tr id="L149"><td><a href="#L149">149</a></td><td>ODO:  No, I'm stuck here with you. Believe me, a far worse fate. And stay away from my computer.</td></tr>
 
+<tr><td></td><td>LOCATION--Ore loading bay</td></tr>
+<tr id="L150"><td><a href="#L150">150</a></td><td>ANNOTATION: They're using an ore cart as a battering ram.</td></tr>
 
-LOCATION--Ops
+<tr id="L151"><td><a href="#L151">151</a></td><td>SISKO:  Again. Okay, hold on.</td></tr>
 
-  DAX
-     It's no good. We're completely cut off from the
-     rest of the station.
+<tr id="L152"><td><a href="#L152">152</a></td><td>JAKE:  Anything?</td></tr>
 
-  BASHIR
-     There must be some kind of general dampening field
-     in place. It must be disrupting communications.
+<tr id="L153"><td><a href="#L153">153</a></td><td>O'BRIEN:  Not even a dent.</td></tr>
 
-  KIRA
-     All right. It's time for a less subtle approach.
+<tr id="L154"><td><a href="#L154">154</a></td><td>SISKO:  There has to be something else we can do. What about all this ore? As I understand it, uridium's very unstable.</td></tr>
 
-  ANNOTATION
-     She adjusts her phaser and aims it at the door
-     control Bashir is working on.
+<tr id="L155"><td><a href="#L155">155</a></td><td>O'BRIEN:  That's true, but in it's raw form you'd need a strong electrical charge to detonate it.</td></tr>
 
-  KIRA
-     Doctor.
+<tr id="L156"><td><a href="#L156">156</a></td><td>SISKO:  Can we use that?</td></tr>
 
-  ANNOTATION
-     The manual lever is freed and the door opens, but
-     there's a forcefield beyond.
+<tr id="L157"><td><a href="#L157">157</a></td><td>ANNOTATION: A lighting panel.</td></tr>
 
-  BASHIR
-     The Cardassians don't miss a trick, do they?
+<tr id="L158"><td><a href="#L158">158</a></td><td>O'BRIEN:  If I had some tools, I might be able to get in there and yank out some electrical cable.</td></tr>
 
-  DAX
-     The ironic thing is that field is probably there
-     to protect Ops from the hoards of rebelling
-     Bajorans.
+<tr id="L159"><td><a href="#L159">159</a></td><td>ANNOTATION: Sisko pulls the handle off the cart.</td></tr>
 
-  KIRA
-     Well we've got to find a way of disabling the
-     security programme or a lot of people are going to
-     be killed.
+<tr id="L160"><td><a href="#L160">160</a></td><td>SISKO:  Tools.</td></tr>
 
-  DAX
-     If we can regain control of the main computer, we
-     may be able to wipe the security programme from
-     its memory. Now, if I can reroute the APT relay
-     through the secondary buffer, I might get an
-     independent terminal working.
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L161"><td><a href="#L161">161</a></td><td>KIRA:  How's it coming?</td></tr>
 
-  BASHIR
-     You know, I've been here nearly three years and I
-     was just finally starting to think of this place
-     as home.
+<tr id="L162"><td><a href="#L162">162</a></td><td>DAX:  Almost done.</td></tr>
 
-  KIRA
-     Your home was built by Cardassians, Doctor. Don't
-     ever forget that.
+<tr id="L163"><td><a href="#L163">163</a></td><td>ANNOTATION: Bang flash! from the pit.</td></tr>
 
-  BASHIR
-     No, there's not much chance of that, is there.
+<tr id="L164"><td><a href="#L164">164</a></td><td>BASHIR:  Jadzia!</td></tr>
 
+<tr id="L165"><td><a href="#L165">165</a></td><td>ANNOTATION: Dax's hands are burned</td></tr>
 
-LOCATION--Security office
+<tr id="L166"><td><a href="#L166">166</a></td><td>BASHIR:  Get me a medkit. Easy, Jadzia. I have to take a look.</td></tr>
 
-  QUARK
-     What do you mean, we're trapped?
+<tr id="L167"><td><a href="#L167">167</a></td><td>DAX:  I was reaching toward the ODN conduit and a small forcefield went off and it caught my hands.</td></tr>
 
-  ODO
-     I mean we're trapped. I wouldn't be surprised if
-     the entire station is locked down.
+<tr id="L168"><td><a href="#L168">168</a></td><td>ANNOTATION: Kira hands down the kit.</td></tr>
 
-  ANNOTATION
-     Another of those doorway forcefields, this time on
-     the inside of the office.
+<tr id="L169"><td><a href="#L169">169</a></td><td>BASHIR:  They're second degree burns but I don't think there's any neural damage. This should relieve the pain.</td></tr>
 
-  QUARK
-     But you're a shape-shifter. Excuse me, a
-     changeling. So change into something and get us
-     out of here.
+<tr id="L170"><td><a href="#L170">170</a></td><td>COMPUTER:  Warning, security in the Operations Centre has been compromised. Initiating counterinsurgency programme level two.</td></tr>
 
-  ODO
-     This forcefield isn't just protecting the door, it
-     goes through the bulkheads, the ceiling, the deck.
-     There's nowhere for me to go.
+<tr id="L171"><td><a href="#L171">171</a></td><td>DUKAT [on monitor]:  Attention, Bajoran workers. Your failure to surrender is forcing me to take stronger measures. In five minutes, we will begin pumping neurocine gas into the habitat ring. Think of your families as you consider your course of action. All Cardassian personnel should evacuate the area immediately.</td></tr>
 
-  QUARK
-     You're telling me I'm stuck here with you?
+<tr id="L172"><td><a href="#L172">172</a></td><td>KIRA:  Habitat ring. There have to be hundreds of people trapped in their quarters out there.</td></tr>
 
-  ODO
-     No, I'm stuck here with you. Believe me, a far
-     worse fate. And stay away from my computer.
+<tr id="L173"><td><a href="#L173">173</a></td><td>GARAK:  I believe that's the point, Major. Computer, access code Garak one three five nine.</td></tr>
 
+<tr id="L174"><td><a href="#L174">174</a></td><td>ANNOTATION: The door forcefield drops, Garak steps through the door, then forcefield returns.</td></tr>
 
-LOCATION--Ore loading bay
+<tr id="L175"><td><a href="#L175">175</a></td><td>GARAK:  Ironic isn't it? The only place in the galaxy that still recognises my access code is a Bajoran space station.</td></tr>
 
-  ANNOTATION
-     They're using an ore cart as a battering ram.
+<tr id="L176"><td><a href="#L176">176</a></td><td>KIRA:  If you can get past the forcefields, you've got to get out to the habitat ring and start evacuating those people before</td></tr>
 
-  SISKO
-     Again. Okay, hold on.
+<tr id="L177"><td><a href="#L177">177</a></td><td>GARAK:  I'd like nothing better than to help my loyal customers, but it's not that simple. My access code enables me to move about the station, but unfortunately, as you've just seen, the forcefields reappear the moment I pass through a doorway.</td></tr>
 
-  JAKE
-     Anything?
+<tr id="L178"><td><a href="#L178">178</a></td><td>BASHIR:  Have you tried using your code to shut down the security programme?</td></tr>
 
-  O'BRIEN
-     Not even a dent.
+<tr id="L179"><td><a href="#L179">179</a></td><td>GARAK:  Several times, but for some reason I can't begin to fathom, Gul Dukat chose not to trust me with his top level security codes during the occupation.</td></tr>
 
-  SISKO
-     There has to be something else we can do. What
-     about all this ore? As I understand it, uridium's
-     very unstable.
+<tr id="L180"><td><a href="#L180">180</a></td><td>BASHIR:  Garak, do you know a way we can stop this neurocine gas?</td></tr>
 
-  O'BRIEN
-     That's true, but in it's raw form you'd need a
-     strong electrical charge to detonate it.
+<tr id="L181"><td><a href="#L181">181</a></td><td>GARAK:  The only way to do that is to destroy the life support system.</td></tr>
 
-  SISKO
-     Can we use that?
+<tr id="L182"><td><a href="#L182">182</a></td><td>KIRA:  What are you trying to do, Garak? Get us all killed?</td></tr>
 
-  ANNOTATION
-     A lighting panel.
+<tr id="L183"><td><a href="#L183">183</a></td><td>BASHIR:  No, wait a minute. He's right. The neurocine gas is released through the life support system. Destroy it and we save everyone in the habitat ring.</td></tr>
 
-  O'BRIEN
-     If I had some tools, I might be able to get in
-     there and yank out some electrical cable.
+<tr id="L184"><td><a href="#L184">184</a></td><td>DAX:  For twelve hours. And then everyone on the station will suffocate when we run out of oxygen.</td></tr>
 
-  ANNOTATION
-     Sisko pulls the handle off the cart.
+<tr id="L185"><td><a href="#L185">185</a></td><td>BASHIR:  Well, that gives us twelve hours to regain control of this station.</td></tr>
 
-  SISKO
-     Tools.
+<tr id="L186"><td><a href="#L186">186</a></td><td>GARAK:  Believe me, Major, it's the only way to save those people. I believe life support is controlled from over there.</td></tr>
 
+<tr id="L187"><td><a href="#L187">187</a></td><td>KIRA:  Get down.</td></tr>
 
-LOCATION--Ops
+<tr id="L188"><td><a href="#L188">188</a></td><td>ANNOTATION: The Bajoran workers run before she phasers life support and the lights flicker.</td></tr>
 
-  KIRA
-     How's it coming?
+<tr id="L189"><td><a href="#L189">189</a></td><td>COMPUTER:  Warning. Counterinsurgency programme level two has been interrupted. Initiating counterinsurgency programme level three.</td></tr>
 
-  DAX
-     Almost done.
+<tr id="L190"><td><a href="#L190">190</a></td><td>DUKAT [on monitor]:  My fellow Cardassians I regret to inform you that Bajoran workers have gained control of this station.</td></tr>
 
-  ANNOTATION
-     Bang flash! from the pit.
+<tr><td></td><td>LOCATION--Ore loading bay</td></tr>
+<tr id="L191"><td><a href="#L191">191</a></td><td>DUKAT [on monitor]:  In all likelihood, I am dead or otherwise incapacitated</td></tr>
 
-  BASHIR
-     Jadzia!
+<tr><td></td><td>LOCATION--Security office</td></tr>
+<tr id="L192"><td><a href="#L192">192</a></td><td>DUKAT [on monitor]:  But rest assured, this station will not be allowed to remain in Bajoran hands. However, it is my duty to inform you</td></tr>
 
-  ANNOTATION
-     Dax's hands are burned
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L193"><td><a href="#L193">193</a></td><td>DUKAT [on monitor]:  That if you do not regain control within two hours, the station will be destroyed.</td></tr>
 
-  BASHIR
-     Get me a medkit. Easy, Jadzia. I have to take a
-     look.
+<tr id="L194"><td><a href="#L194">194</a></td><td>COMPUTER:  Self-destruct sequence initiated.</td></tr>
 
-  DAX
-     I was reaching toward the ODN conduit and a small
-     forcefield went off and it caught my hands.
+<tr><td></td><td>LOCATION--Security office</td></tr>
+<tr id="L195"><td><a href="#L195">195</a></td><td>ANNOTATION: Quark is firing at the forcefield.</td></tr>
 
-  ANNOTATION
-     Kira hands down the kit.
+<tr id="L196"><td><a href="#L196">196</a></td><td>QUARK:  Come on. Come on!</td></tr>
 
-  BASHIR
-     They're second degree burns but I don't think
-     there's any neural damage. This should relieve the
-     pain.
+<tr id="L197"><td><a href="#L197">197</a></td><td>ODO:  Give me that before you hurt yourself. I checked the entire security complex. There's no way out.</td></tr>
 
-  COMPUTER
-     Warning, security in the Operations Centre has
-     been compromised. Initiating counterinsurgency
-     programme level two.
+<tr id="L198"><td><a href="#L198">198</a></td><td>QUARK:  I should've listened to my father. He always warned me this was going to happen.</td></tr>
 
-  DUKAT [on monitor]
-     Attention, Bajoran workers. Your failure to
-     surrender is forcing me to take stronger measures.
-     In five minutes, we will begin pumping neurocine
-     gas into the habitat ring. Think of your families
-     as you consider your course of action. All
-     Cardassian personnel should evacuate the area
-     immediately.
+<tr id="L199"><td><a href="#L199">199</a></td><td>ODO:  What? That you'd spend your final hours in jail? I could've told you that.</td></tr>
 
-  KIRA
-     Habitat ring. There have to be hundreds of people
-     trapped in their quarters out there.
+<tr id="L200"><td><a href="#L200">200</a></td><td>QUARK:  No. He warned me never to leave home. He said there were plenty of business opportunities right outside my door. But no, I had to follow the seventy fifth Rule of Acquisition. Home is where the heart is but the stars are made of latinum. A lifetime of scheming and plotting, wheeling and dealing, and what has it got me? One measly little bar. My uncle Frin owns thirty and my cousin Gaila</td></tr>
 
-  GARAK
-     I believe that's the point, Major. Computer,
-     access code Garak one three five nine.
+<tr id="L201"><td><a href="#L201">201</a></td><td>ODO:  I know. He owns a moon.</td></tr>
 
-  ANNOTATION
-     The door forcefield drops, Garak steps through the
-     door, then forcefield returns.
+<tr id="L202"><td><a href="#L202">202</a></td><td>QUARK:  I told you that?</td></tr>
 
-  GARAK
-     Ironic isn't it? The only place in the galaxy that
-     still recognises my access code is a Bajoran space
-     station.
+<tr id="L203"><td><a href="#L203">203</a></td><td>ODO:  Many times.</td></tr>
 
-  KIRA
-     If you can get past the forcefields, you've got to
-     get out to the habitat ring and start evacuating
-     those people before
+<tr id="L204"><td><a href="#L204">204</a></td><td>QUARK:  It's a small moon, but it's enough to live on.</td></tr>
 
-  GARAK
-     I'd like nothing better than to help my loyal
-     customers, but it's not that simple. My access
-     code enables me to move about the station, but
-     unfortunately, as you've just seen, the
-     forcefields reappear the moment I pass through a
-     doorway.
+<tr id="L205"><td><a href="#L205">205</a></td><td>ODO:  Oh, come on, Quark, you've done all right for yourself.</td></tr>
 
-  BASHIR
-     Have you tried using your code to shut down the
-     security programme?
+<tr id="L206"><td><a href="#L206">206</a></td><td>QUARK:  Oh, what do you know?</td></tr>
 
-  GARAK
-     Several times, but for some reason I can't begin
-     to fathom, Gul Dukat chose not to trust me with
-     his top level security codes during the
-     occupation.
+<tr id="L207"><td><a href="#L207">207</a></td><td>ODO:  Quark, I've met a lot of Ferengis in my time and the truth is, although some of them may have been more wealthy, I've never met one more devious.</td></tr>
 
-  BASHIR
-     Garak, do you know a way we can stop this
-     neurocine gas?
+<tr id="L208"><td><a href="#L208">208</a></td><td>QUARK:  Really?</td></tr>
 
-  GARAK
-     The only way to do that is to destroy the life
-     support system.
+<tr id="L209"><td><a href="#L209">209</a></td><td>ODO:  Would I lie?</td></tr>
 
-  KIRA
-     What are you trying to do, Garak? Get us all
-     killed?
+<tr id="L210"><td><a href="#L210">210</a></td><td>QUARK:  I guess not. Thank you, Odo. That means a lot to me. Now, can I have the phaser back?</td></tr>
 
-  BASHIR
-     No, wait a minute. He's right. The neurocine gas
-     is released through the life support system.
-     Destroy it and we save everyone in the habitat
-     ring.
+<tr id="L211"><td><a href="#L211">211</a></td><td>ODO:  No.</td></tr>
 
-  DAX
-     For twelve hours. And then everyone on the station
-     will suffocate when we run out of oxygen.
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L212"><td><a href="#L212">212</a></td><td>ANNOTATION: Garak has got a station working.</td></tr>
 
-  BASHIR
-     Well, that gives us twelve hours to regain control
-     of this station.
+<tr id="L213"><td><a href="#L213">213</a></td><td>BASHIR:  How do your hands feel?</td></tr>
 
-  GARAK
-     Believe me, Major, it's the only way to save those
-     people. I believe life support is controlled from
-     over there.
+<tr id="L214"><td><a href="#L214">214</a></td><td>DAX:  A little better</td></tr>
 
-  KIRA
-     Get down.
+<tr id="L215"><td><a href="#L215">215</a></td><td>BASHIR:  Good. I wish I could have done more, but I won't be able to repair the damaged tissue until we can get you to the Infirmary.</td></tr>
 
-  ANNOTATION
-     The Bajoran workers run before she phasers life
-     support and the lights flicker.
+<tr id="L216"><td><a href="#L216">216</a></td><td>KIRA:  Any luck?</td></tr>
 
-  COMPUTER
-     Warning. Counterinsurgency programme level two has
-     been interrupted. Initiating counterinsurgency
-     programme level three.
+<tr id="L217"><td><a href="#L217">217</a></td><td>GARAK:  Plenty, Major. Unfortunately, all of it bad. My personal code can activate any terminal on the station. However, that's the extent of my access. All I can do is just look around. I can tell you exactly what's going on, but I can't do anything about it. As far as I can see, the only person who can disable the security programme is Gul Dukat.</td></tr>
 
-  DUKAT [on monitor]
-     My fellow Cardassians I regret to inform you that
-     Bajoran workers have gained control of this
-     station.
+<tr id="L218"><td><a href="#L218">218</a></td><td>DAX:  Maybe there's a way to fool the computer into thinking that you are Gul Dukat. You could try rewriting your code to match his.</td></tr>
 
+<tr id="L219"><td><a href="#L219">219</a></td><td>GARAK:  Even if I could, it wouldn't do any good. If I were to input his code, the computer would scan my DNA pattern to determine if I really were Dukat.</td></tr>
 
-LOCATION--Ore loading bay
+<tr id="L220"><td><a href="#L220">220</a></td><td>DAX:  But what if we disabled the sensors in Ops so that the computer couldn't scan you?</td></tr>
 
-  DUKAT [on monitor]
-     In all likelihood, I am dead or otherwise
-     incapacitated
+<tr id="L221"><td><a href="#L221">221</a></td><td>GARAK:  What a creative idea. It certainly is worth a try.</td></tr>
 
+<tr id="L222"><td><a href="#L222">222</a></td><td>BASHIR:  The question is, can we disconnect the sensors without getting anyone else hurt.</td></tr>
 
-LOCATION--Security office
+<tr id="L223"><td><a href="#L223">223</a></td><td>KIRA:  We're just going to have to take that chance.</td></tr>
 
-  DUKAT [on monitor]
-     But rest assured, this station will not be allowed
-     to remain in Bajoran hands. However, it is my duty
-     to inform you
+<tr id="L224"><td><a href="#L224">224</a></td><td>DAX:  We could switch the sensor input from the primary scanners to the backup scanners. The computer shouldn't see that as a threat, but it'll blind the system for a few seconds while we make the changeover.</td></tr>
 
+<tr id="L225"><td><a href="#L225">225</a></td><td>GARAK:  If it works, a few seconds are all I'll need.</td></tr>
 
-LOCATION--Ops
+<tr id="L226"><td><a href="#L226">226</a></td><td>DAX:  Major, I'm going to need a hand.</td></tr>
 
-  DUKAT [on monitor]
-     That if you do not regain control within two
-     hours, the station will be destroyed.
+<tr id="L227"><td><a href="#L227">227</a></td><td>GARAK:  Tell me, Doctor, what is it exactly about this situation that's making you smile?</td></tr>
 
-  COMPUTER
-     Self-destruct sequence initiated.
+<tr id="L228"><td><a href="#L228">228</a></td><td>BASHIR:  You, Garak. Just wondering how many other tailors can rewrite Cardassian security protocols?</td></tr>
 
+<tr id="L229"><td><a href="#L229">229</a></td><td>GARAK:  I wouldn't even venture a guess. Which reminds me, those pants you wanted altered are ready to be picked up. Oh, this is a problem.</td></tr>
 
-LOCATION--Security office
+<tr id="L230"><td><a href="#L230">230</a></td><td>BASHIR:  What's wrong?</td></tr>
 
-  ANNOTATION
-     Quark is firing at the forcefield.
+<tr id="L231"><td><a href="#L231">231</a></td><td>GARAK:  I always suspected that Dukat was a little paranoid. He's left a rather large number of interrogative subroutines imbedded in his access code.</td></tr>
 
-  QUARK
-     Come on. Come on!
+<tr id="L232"><td><a href="#L232">232</a></td><td>BASHIR:  Meaning what?</td></tr>
 
-  ODO
-     Give me that before you hurt yourself. I checked
-     the entire security complex. There's no way out.
+<tr id="L233"><td><a href="#L233">233</a></td><td>GARAK:  Meaning the computer is constantly challenging to prove I am who I say I am. Lieutenant, how much long before you can disable those sensors?</td></tr>
 
-  QUARK
-     I should've listened to my father. He always
-     warned me this was going to happen.
+<tr id="L234"><td><a href="#L234">234</a></td><td>DAX:  At least another ten minutes.</td></tr>
 
-  ODO
-     What? That you'd spend your final hours in jail? I
-     could've told you that.
+<tr id="L235"><td><a href="#L235">235</a></td><td>GARAK:  I'm not sure we have that much time. In fact, I'm sure we don't.</td></tr>
 
-  QUARK
-     No. He warned me never to leave home. He said
-     there were plenty of business opportunities right
-     outside my door. But no, I had to follow the
-     seventy fifth Rule of Acquisition. Home is where
-     the heart is but the stars are made of latinum. A
-     lifetime of scheming and plotting, wheeling and
-     dealing, and what has it got me? One measly little
-     bar. My uncle Frin owns thirty and my cousin Gaila
+<tr id="L236"><td><a href="#L236">236</a></td><td>COMPUTER:  Warning. Unauthorised use of command code. Initiating counterinsurgency programme level four.</td></tr>
 
-  ODO
-     I know. He owns a moon.
+<tr id="L237"><td><a href="#L237">237</a></td><td>ANNOTATION: The replicator builds a weapon and starts firing energy beams. A red-shouldered extra is vapourised.</td></tr>
 
-  QUARK
-     I told you that?
+<tr><td></td><td>LOCATION--Ore loading bay</td></tr>
+<tr id="L238"><td><a href="#L238">238</a></td><td>SISKO:  On three. One, two, three.</td></tr>
 
-  ODO
-     Many times.
+<tr id="L239"><td><a href="#L239">239</a></td><td>ANNOTATION: The prise open the panel.</td></tr>
 
-  QUARK
-     It's a small moon, but it's enough to live on.
+<tr id="L240"><td><a href="#L240">240</a></td><td>JAKE:  You did it.</td></tr>
 
-  ODO
-     Oh, come on, Quark, you've done all right for
-     yourself.
+<tr id="L241"><td><a href="#L241">241</a></td><td>O'BRIEN:  Okay we have the power cable. Now we need to pack the uridium around the door.</td></tr>
 
-  QUARK
-     Oh, what do you know?
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L242"><td><a href="#L242">242</a></td><td>ANNOTATION: People are hiding under desks and behind pillars as the beams keep shooting out.</td></tr>
 
-  ODO
-     Quark, I've met a lot of Ferengis in my time and
-     the truth is, although some of them may have been
-     more wealthy, I've never met one more devious.
+<tr id="L243"><td><a href="#L243">243</a></td><td>KIRA:  My phaser's on the Ops table. Can anyone get to it?</td></tr>
 
-  QUARK
-     Really?
+<tr id="L244"><td><a href="#L244">244</a></td><td>BASHIR:  The answer, Major, is no.</td></tr>
 
-  ODO
-     Would I lie?
+<tr id="L245"><td><a href="#L245">245</a></td><td>KIRA:  Well, we can't stay here and do nothing.</td></tr>
 
-  QUARK
-     I guess not. Thank you, Odo. That means a lot to
-     me. Now, can I have the phaser back?
+<tr id="L246"><td><a href="#L246">246</a></td><td>GARAK:  I respectfully disagree, Major. Nothing is about all we can do.</td></tr>
 
-  ODO
-     No.
+<tr id="L247"><td><a href="#L247">247</a></td><td>ANNOTATION: A figure beams in, and the weapon avoids hitting it.</td></tr>
 
+<tr id="L248"><td><a href="#L248">248</a></td><td>DUKAT:  Let me guess. Someone tried to duplicate my access code.</td></tr>
 
-LOCATION--Ops
+<tr id="L249"><td><a href="#L249">249</a></td><td>KIRA:  Dukat, what the hell are you doing here?</td></tr>
 
-  ANNOTATION
-     Garak has got a station working.
+<tr id="L250"><td><a href="#L250">250</a></td><td>DUKAT:  A short time ago, I had a very strange experience. There I was, patrolling the Demilitarised zone, when I received a distress signal from me. Or at least a recording of me. It seems the Bajoran workers were rioting on Terok Nor. I must admit, it piqued my curiosity. I see the auto-destruct programme has begun. Well, well, well. You are in trouble. Where's Commander Sisko? I trust he wasn't vaporised while asking for one of those raktajinos he's so fond of.</td></tr>
 
-  BASHIR
-     How do your hands feel?
+<tr id="L251"><td><a href="#L251">251</a></td><td>DAX:  No. Last we heard, he was trapped in the ore processing unit.</td></tr>
 
-  DAX
-     A little better
+<tr id="L252"><td><a href="#L252">252</a></td><td>DUKAT:  Hmm. I wish him well.</td></tr>
 
-  BASHIR
-     Good. I wish I could have done more, but I won't
-     be able to repair the damaged tissue until we can
-     get you to the Infirmary.
+<tr id="L253"><td><a href="#L253">253</a></td><td>BASHIR:  Well, can you help us or not?</td></tr>
 
-  KIRA
-     Any luck?
+<tr id="L254"><td><a href="#L254">254</a></td><td>DUKAT:  Oh, most certainly. All I have to do is enter my command code and shut the programme.</td></tr>
 
-  GARAK
-     Plenty, Major. Unfortunately, all of it bad. My
-     personal code can activate any terminal on the
-     station. However, that's the extent of my access.
-     All I can do is just look around. I can tell you
-     exactly what's going on, but I can't do anything
-     about it. As far as I can see, the only person who
-     can disable the security programme is Gul Dukat.
+<tr id="L255"><td><a href="#L255">255</a></td><td>KIRA:  Then do it!</td></tr>
 
-  DAX
-     Maybe there's a way to fool the computer into
-     thinking that you are Gul Dukat. You could try
-     rewriting your code to match his.
+<tr id="L256"><td><a href="#L256">256</a></td><td>DUKAT:  All in good time, Major Kira. All in good time. But first, there are a few things we should discuss. Red leaf tea, please.</td></tr>
 
-  GARAK
-     Even if I could, it wouldn't do any good. If I
-     were to input his code, the computer would scan my
-     DNA pattern to determine if I really were Dukat.
+<tr id="L257"><td><a href="#L257">257</a></td><td>ANNOTATION: The weapon turns into a mug, and Bashir puts his head above a console.</td></tr>
 
-  DAX
-     But what if we disabled the sensors in Ops so that
-     the computer couldn't scan you?
+<tr id="L258"><td><a href="#L258">258</a></td><td>DUKAT:  Doctor.</td></tr>
 
-  GARAK
-     What a creative idea. It certainly is worth a try.
+<tr id="L259"><td><a href="#L259">259</a></td><td>ANNOTATION: The weapon returns, and fires at Bashir.</td></tr>
 
-  BASHIR
-     The question is, can we disconnect the sensors
-     without getting anyone else hurt.
+<tr id="L260"><td><a href="#L260">260</a></td><td>KIRA:  What do you want, Dukat?</td></tr>
 
-  KIRA
-     We're just going to have to take that chance.
+<tr id="L261"><td><a href="#L261">261</a></td><td>DUKAT:  You'll find I don't react well to that tone of voice, Major. Garak, grovelling in a corner. That alone makes my trip worthwhile.</td></tr>
 
-  DAX
-     We could switch the sensor input from the primary
-     scanners to the backup scanners. The computer
-     shouldn't see that as a threat, but it'll blind
-     the system for a few seconds while we make the
-     changeover.
+<tr id="L262"><td><a href="#L262">262</a></td><td>ANNOTATION: Garak stands up.</td></tr>
 
-  GARAK
-     If it works, a few seconds are all I'll need.
+<tr id="L263"><td><a href="#L263">263</a></td><td>BASHIR:  Garak!</td></tr>
 
-  DAX
-     Major, I'm going to need a hand.
+<tr id="L264"><td><a href="#L264">264</a></td><td>GARAK:  Easy, Doctor. It would appear that the computer is only targeting non-Cardassians.</td></tr>
 
-  GARAK
-     Tell me, Doctor, what is it exactly about this
-     situation that's making you smile?
+<tr id="L265"><td><a href="#L265">265</a></td><td>DUKAT:  If you had been on the station when I designed this programme, I would have made an exception in your case.</td></tr>
 
-  BASHIR
-     You, Garak. Just wondering how many other tailors
-     can rewrite Cardassian security protocols?
+<tr id="L266"><td><a href="#L266">266</a></td><td>GARAK:  Well, you've always been shortsighted. It's held you back over the years. As I recall, your father had the same flaw.</td></tr>
 
-  GARAK
-     I wouldn't even venture a guess. Which reminds me,
-     those pants you wanted altered are ready to be
-     picked up. Oh, this is a problem.
+<tr id="L267"><td><a href="#L267">267</a></td><td>DUKAT:  My father's only flaw was trusting you.</td></tr>
 
-  BASHIR
-     What's wrong?
+<tr id="L268"><td><a href="#L268">268</a></td><td>GARAK:  Funny, at his trial your father said his biggest flaw was that his ambition outweighed his patriotism.</td></tr>
 
-  GARAK
-     I always suspected that Dukat was a little
-     paranoid. He's left a rather large number of
-     interrogative subroutines imbedded in his access
-     code.
+<tr id="L269"><td><a href="#L269">269</a></td><td>KIRA:  Maybe you two could settle this at another time!</td></tr>
 
-  BASHIR
-     Meaning what?
+<tr id="L270"><td><a href="#L270">270</a></td><td>DUKAT:  You're right, Major. Oh, believe me, Garak, that time is coming. Major, why don't you join me in the Commander's office where we can talk in private. Oh. I forgot. The replicator. Well, it's the least I can do.</td></tr>
 
-  GARAK
-     Meaning the computer is constantly challenging to
-     prove I am who I say I am. Lieutenant, how much
-     long before you can disable those sensors?
+<tr id="L271"><td><a href="#L271">271</a></td><td>ANNOTATION: Dukat taps a command into the replicator and the weapon disappears.</td></tr>
 
-  DAX
-     At least another ten minutes.
+<tr id="L272"><td><a href="#L272">272</a></td><td>DUKAT:  You can all rise now. You're safe, for the moment. Major.</td></tr>
 
-  GARAK
-     I'm not sure we have that much time. In fact, I'm
-     sure we don't.
+<tr><td></td><td>LOCATION--Commander's office</td></tr>
+<tr id="L273"><td><a href="#L273">273</a></td><td>ANNOTATION: Dukat settles into Sisko's chair.</td></tr>
 
-  COMPUTER
-     Warning. Unauthorised use of command code.
-     Initiating counterinsurgency programme level four.
+<tr id="L274"><td><a href="#L274">274</a></td><td>DUKAT:  I know time is of the essence, Major, so I'll be brief. (he sends the baseball rolling across the floor.) I think it is time to re-establish a permanent Cardassian presence aboard this station. Nothing too elaborate, mind you. A garrison would suffice. I can deploy troops from my ship immediately. And in return, I'll solve your current dilemma.</td></tr>
 
-  ANNOTATION
-     The replicator builds a weapon and starts firing
-     energy beams. A red-shouldered extra is
-     vapourised.
+<tr id="L275"><td><a href="#L275">275</a></td><td>KIRA:  You know I'm never going to agree to that.</td></tr>
 
+<tr id="L276"><td><a href="#L276">276</a></td><td>DUKAT:  I'm not sure you have much of a choice, do you?</td></tr>
 
-LOCATION--Ore loading bay
+<tr id="L277"><td><a href="#L277">277</a></td><td>KIRA:  Dukat, you and I both know neither Bajor nor the Federation will ever honour an agreement negotiated under a death threat.</td></tr>
 
-  SISKO
-     On three. One, two, three.
+<tr id="L278"><td><a href="#L278">278</a></td><td>DUKAT:  I don't expect them to be happy about it, but once my troops are in place I think you'll find it very difficult to get them to leave.</td></tr>
 
-  ANNOTATION
-     The prise open the panel.
+<tr id="L279"><td><a href="#L279">279</a></td><td>KIRA:  Well let me put this another way. I will destroy this station before I ever give it back to the Cardassians.</td></tr>
 
-  JAKE
-     You did it.
+<tr id="L280"><td><a href="#L280">280</a></td><td>DUKAT:  Yes, I'm sure you would. But would you allow two thousand people aboard this station to die simply because you don't like us? Well, there's no need to decide just yet. We still have a little time left. Thirty minutes, in fact. Why don't I return to my ship so that you'll have time to think about it.</td></tr>
 
-  O'BRIEN
-     Okay we have the power cable. Now we need to pack
-     the uridium around the door.
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L281"><td><a href="#L281">281</a></td><td>DUKAT:  I'll be back in say, twenty five minutes. Dukat. One to transport. Energise. (nothing) Energise.</td></tr>
 
+<tr id="L282"><td><a href="#L282">282</a></td><td>KELL [on monitor]:  Dukat, if you are seeing this recording, it means you tried to abandon your post while the station's self-destruct sequence was engaged. That will not be permitted.</td></tr>
 
-LOCATION--Ops
+<tr id="L283"><td><a href="#L283">283</a></td><td>DUKAT:  This is outrageous.</td></tr>
 
-  ANNOTATION
-     People are hiding under desks and behind pillars
-     as the beams keep shooting out.
+<tr id="L284"><td><a href="#L284">284</a></td><td>KELL [on monitor]:  You have lost control of Terok Nor, disgracing yourself and Cardassia. Your attempt to escape is no doubt a final act of cowardice. All fail-safes have been eliminated. Your personal access codes have been rescinded. The destruct sequence can no longer be halted. All you can do now is contemplate the depth of your disgrace and try to die like a Cardassian.</td></tr>
 
-  KIRA
-     My phaser's on the Ops table. Can anyone get to
-     it?
+<tr id="L285"><td><a href="#L285">285</a></td><td>ANNOTATION: After the commercials</td></tr>
 
-  BASHIR
-     The answer, Major, is no.
+<tr id="L286"><td><a href="#L286">286</a></td><td>DUKAT:  Computer, abort the self-destruct sequence. This is a priority one override. Clearance level nine. Authorisation Dukat five one one six green.</td></tr>
 
-  KIRA
-     Well, we can't stay here and do nothing.
+<tr id="L287"><td><a href="#L287">287</a></td><td>COMPUTER:  Request denied. All authorisation codes are void. Time to self-destruct, twenty-five minutes.</td></tr>
 
-  GARAK
-     I respectfully disagree, Major. Nothing is about
-     all we can do.
+<tr id="L288"><td><a href="#L288">288</a></td><td>GARAK:  Even your own computer programme turns against you. I always knew your shortsightedness would be your downfall.</td></tr>
 
-  ANNOTATION
-     A figure beams in, and the weapon avoids hitting
-     it.
+<tr id="L289"><td><a href="#L289">289</a></td><td>DUKAT:  I don't see you coming up with any ideas, tailor.</td></tr>
 
-  DUKAT
-     Let me guess. Someone tried to duplicate my access
-     code.
+<tr id="L290"><td><a href="#L290">290</a></td><td>KIRA:  Look, if you two are finished with the insults, we could use some help here. Now, what can you tell us about the self-destruct sequence?</td></tr>
 
-  KIRA
-     Dukat, what the hell are you doing here?
+<tr id="L291"><td><a href="#L291">291</a></td><td>DUKAT:  It's very simple. When the countdown is completed, the computer will order the main fusion reactor to disengage the reaction stabilisers, causing it to overload, destroying the station.</td></tr>
 
-  DUKAT
-     A short time ago, I had a very strange experience.
-     There I was, patrolling the Demilitarised zone,
-     when I received a distress signal from me. Or at
-     least a recording of me. It seems the Bajoran
-     workers were rioting on Terok Nor. I must admit,
-     it piqued my curiosity. I see the auto-destruct
-     programme has begun. Well, well, well. You are in
-     trouble. Where's Commander Sisko? I trust he
-     wasn't vaporised while asking for one of those
-     raktajinos he's so fond of.
+<tr id="L292"><td><a href="#L292">292</a></td><td>DAX:  What about the reactor? Is there any way to shut it down?</td></tr>
 
-  DAX
-     No. Last we heard, he was trapped in the ore
-     processing unit.
+<tr id="L293"><td><a href="#L293">293</a></td><td>DUKAT:  It may be possible to manually disengage the laser fusion initiator, but in order to do that we have to be in the reactor room.</td></tr>
 
-  DUKAT
-     Hmm. I wish him well.
+<tr id="L294"><td><a href="#L294">294</a></td><td>DAX:  Not necessarily. We can disengage the initiator from one of the control junctions on level thirty four.</td></tr>
 
-  BASHIR
-     Well, can you help us or not?
+<tr id="L295"><td><a href="#L295">295</a></td><td>BASHIR:  But now that the computer's wiped out the access codes, not even a Cardassian can get out of this room.</td></tr>
 
-  DUKAT
-     Oh, most certainly. All I have to do is enter my
-     command code and shut the programme.
+<tr id="L296"><td><a href="#L296">296</a></td><td>KIRA:  Well then, maybe we should concentrate on trying to eliminate the forcefield protecting the door.</td></tr>
 
-  KIRA
-     Then do it!
+<tr id="L297"><td><a href="#L297">297</a></td><td>DAX:  We don't have time to eliminate every forcefield between here and level thirty four. What we need to do is find a way to deactivate all the forcefields on the station at the same time.</td></tr>
 
-  DUKAT
-     All in good time, Major Kira. All in good time.
-     But first, there are a few things we should
-     discuss. Red leaf tea, please.
+<tr><td></td><td>LOCATION--Ore loading bay</td></tr>
+<tr id="L298"><td><a href="#L298">298</a></td><td>O'BRIEN:  Okay, that should do it. If we use much more we run the risk of bringing the whole room down around our ears.</td></tr>
 
-  ANNOTATION
-     The weapon turns into a mug, and Bashir puts his
-     head above a console.
+<tr id="L299"><td><a href="#L299">299</a></td><td>ANNOTATION: O'Brien pulls a bright power cable out of the panel.</td></tr>
 
-  DUKAT
-     Doctor.
+<tr id="L300"><td><a href="#L300">300</a></td><td>SISKO:  All right, we'd better take cover.</td></tr>
 
-  ANNOTATION
-     The weapon returns, and fires at Bashir.
+<tr id="L301"><td><a href="#L301">301</a></td><td>O'BRIEN:  Would you like to do the honours, sir?</td></tr>
 
-  KIRA
-     What do you want, Dukat?
+<tr id="L302"><td><a href="#L302">302</a></td><td>SISKO:  Keep your heads down.</td></tr>
 
-  DUKAT
-     You'll find I don't react well to that tone of
-     voice, Major. Garak, grovelling in a corner. That
-     alone makes my trip worthwhile.
+<tr id="L303"><td><a href="#L303">303</a></td><td>ANNOTATION: Sisko touches the live cable to a trail of rock fragments - a fuse.</td></tr>
 
-  ANNOTATION
-     Garak stands up.
+<tr id="L304"><td><a href="#L304">304</a></td><td>ANNOTATION: Sizzle, sizzle, boom! There's a hole in the door.</td></tr>
 
-  BASHIR
-     Garak!
+<tr id="L305"><td><a href="#L305">305</a></td><td>JAKE:  It worked!</td></tr>
 
-  GARAK
-     Easy, Doctor. It would appear that the computer is
-     only targeting non-Cardassians.
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L306"><td><a href="#L306">306</a></td><td>DUKAT:  I set up this programme, and I assure you, Major, I will find a way to defeat it. There's no dilemma that cannot be solved by a disciplined, Cardassian mind.</td></tr>
 
-  DUKAT
-     If you had been on the station when I designed
-     this programme, I would have made an exception in
-     your case.
+<tr id="L307"><td><a href="#L307">307</a></td><td>GARAK:  It's not going to work, you know.</td></tr>
 
-  GARAK
-     Well, you've always been shortsighted. It's held
-     you back over the years. As I recall, your father
-     had the same flaw.
+<tr id="L308"><td><a href="#L308">308</a></td><td>DUKAT:  What are you babbling about now?</td></tr>
 
-  DUKAT
-     My father's only flaw was trusting you.
+<tr id="L309"><td><a href="#L309">309</a></td><td>GARAK:  I'm talking about Major Kira</td></tr>
 
-  GARAK
-     Funny, at his trial your father said his biggest
-     flaw was that his ambition outweighed his
-     patriotism.
+<tr id="L310"><td><a href="#L310">310</a></td><td>KIRA:  What about her?</td></tr>
 
-  KIRA
-     Maybe you two could settle this at another time!
+<tr id="L311"><td><a href="#L311">311</a></td><td>GARAK:  She's much too busy trying to save this station to be impressed with your incessant posturing.</td></tr>
 
-  DUKAT
-     You're right, Major. Oh, believe me, Garak, that
-     time is coming. Major, why don't you join me in
-     the Commander's office where we can talk in
-     private. Oh. I forgot. The replicator. Well, it's
-     the least I can do.
+<tr id="L312"><td><a href="#L312">312</a></td><td>DUKAT:  Garak!</td></tr>
 
-  ANNOTATION
-     Dukat taps a command into the replicator and the
-     weapon disappears.
+<tr id="L313"><td><a href="#L313">313</a></td><td>GARAK:  And even if she weren't, she has much better taste than to be attracted to you. And you, a married man</td></tr>
 
-  DUKAT
-     You can all rise now. You're safe, for the moment.
-     Major.
+<tr id="L314"><td><a href="#L314">314</a></td><td>DUKAT:  I should've had you executed years ago.</td></tr>
 
+<tr id="L315"><td><a href="#L315">315</a></td><td>GARAK:  You tried, remember?</td></tr>
 
-LOCATION--Commander's office
+<tr id="L316"><td><a href="#L316">316</a></td><td>BASHIR:  Garak, this isn't helping.</td></tr>
 
-  ANNOTATION
-     Dukat settles into Sisko's chair.
+<tr id="L317"><td><a href="#L317">317</a></td><td>DAX:  Wait a minute. What about the power supply grid? If we could overload the grid, we might be able to cause a power surge and short out all the forcefields on the station.</td></tr>
 
-  DUKAT
-     I know time is of the essence, Major, so I'll be
-     brief. (he sends the baseball rolling across the
-     floor.) I think it is time to re-establish a
-     permanent Cardassian presence aboard this station.
-     Nothing too elaborate, mind you. A garrison would
-     suffice. I can deploy troops from my ship
-     immediately. And in return, I'll solve your
-     current dilemma.
+<tr id="L318"><td><a href="#L318">318</a></td><td>KIRA:  It might even be enough to eliminate the dampening field that's been keeping us from using our communicators.</td></tr>
 
-  KIRA
-     You know I'm never going to agree to that.
+<tr id="L319"><td><a href="#L319">319</a></td><td>DUKAT:  Tell me something, Major. The Cardassian neutralisation emitters that were under here. I assume you deactivated them when you control of the station?</td></tr>
 
-  DUKAT
-     I'm not sure you have much of a choice, do you?
+<tr id="L320"><td><a href="#L320">320</a></td><td>KIRA:  That's right. We prefer our containment fields to be non-lethal.</td></tr>
 
-  KIRA
-     Dukat, you and I both know neither Bajor nor the
-     Federation will ever honour an agreement
-     negotiated under a death threat.
+<tr id="L321"><td><a href="#L321">321</a></td><td>DUKAT:  But are the emitters still in place?</td></tr>
 
-  DUKAT
-     I don't expect them to be happy about it, but once
-     my troops are in place I think you'll find it very
-     difficult to get them to leave.
+<tr id="L322"><td><a href="#L322">322</a></td><td>KIRA:  As far as I know.</td></tr>
 
-  KIRA
-     Well let me put this another way. I will destroy
-     this station before I ever give it back to the
-     Cardassians.
+<tr id="L323"><td><a href="#L323">323</a></td><td>DUKAT:  Excellent. That means they have not been affected by the counterinsurgency programme. That means we still have control of them.</td></tr>
 
-  DUKAT
-     Yes, I'm sure you would. But would you allow two
-     thousand people aboard this station to die simply
-     because you don't like us? Well, there's no need
-     to decide just yet. We still have a little time
-     left. Thirty minutes, in fact. Why don't I return
-     to my ship so that you'll have time to think about
-     it.
+<tr id="L324"><td><a href="#L324">324</a></td><td>DAX:  Then if we can get the emitters back online, we can use them to overload the power grid.</td></tr>
 
+<tr id="L325"><td><a href="#L325">325</a></td><td>DUKAT:  Exactly.</td></tr>
 
-LOCATION--Ops
+<tr id="L326"><td><a href="#L326">326</a></td><td>KIRA:  Do you think it'll be enough to eliminate the forcefields?</td></tr>
 
-  DUKAT
-     I'll be back in say, twenty five minutes. Dukat.
-     One to transport. Energise. (nothing) Energise.
+<tr id="L327"><td><a href="#L327">327</a></td><td>DAX:  Unfortunately, we'll lose the turbolifts and the transporters, but they aren't much use to us right now anyway.</td></tr>
 
-  KELL [on monitor]
-     Dukat, if you are seeing this recording, it means
-     you tried to abandon your post while the station's
-     self-destruct sequence was engaged. That will not
-     be permitted.
+<tr id="L328"><td><a href="#L328">328</a></td><td>KIRA:  Let's give it a try.</td></tr>
 
-  DUKAT
-     This is outrageous.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L329"><td><a href="#L329">329</a></td><td>ANNOTATION: The men meet up at a junction.</td></tr>
 
-  KELL [on monitor]
-     You have lost control of Terok Nor, disgracing
-     yourself and Cardassia. Your attempt to escape is
-     no doubt a final act of cowardice. All fail-safes
-     have been eliminated. Your personal access codes
-     have been rescinded. The destruct sequence can no
-     longer be halted. All you can do now is
-     contemplate the depth of your disgrace and try to
-     die like a Cardassian.
+<tr id="L330"><td><a href="#L330">330</a></td><td>SISKO:  Anything?</td></tr>
 
-  ANNOTATION
-     After the commercials
+<tr id="L331"><td><a href="#L331">331</a></td><td>O'BRIEN:  I only got a couple hundred metres and I was stopped by a forcefield. How about you?</td></tr>
 
-  DUKAT
-     Computer, abort the self-destruct sequence. This
-     is a priority one override. Clearance level nine.
-     Authorisation Dukat five one one six green.
+<tr id="L332"><td><a href="#L332">332</a></td><td>JAKE:  We didn't even get that far.</td></tr>
 
-  COMPUTER
-     Request denied. All authorisation codes are void.
-     Time to self-destruct, twenty-five minutes.
+<tr id="L333"><td><a href="#L333">333</a></td><td>O'BRIEN:  There's got to be some way up to Ops.</td></tr>
 
-  GARAK
-     Even your own computer programme turns against
-     you. I always knew your shortsightedness would be
-     your downfall.
+<tr id="L334"><td><a href="#L334">334</a></td><td>SISKO:  The turbolift shaft. We can climb it all the way to Ops. Let's see if we can get these doors open.</td></tr>
 
-  DUKAT
-     I don't see you coming up with any ideas, tailor.
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L335"><td><a href="#L335">335</a></td><td>KIRA:  Dukat, we're running out of time.</td></tr>
 
-  KIRA
-     Look, if you two are finished with the insults, we
-     could use some help here. Now, what can you tell
-     us about the self-destruct sequence?
+<tr id="L336"><td><a href="#L336">336</a></td><td>DUKAT:  I'm almost done. I've got the emitters wired into the control panel. Now all I have to do is reattach them to the power grid like so. All right, I'm ready.</td></tr>
 
-  DUKAT
-     It's very simple. When the countdown is completed,
-     the computer will order the main fusion reactor to
-     disengage the reaction stabilisers, causing it to
-     overload, destroying the station.
+<tr id="L337"><td><a href="#L337">337</a></td><td>DAX:  Brace yourselves.</td></tr>
 
-  DAX
-     What about the reactor? Is there any way to shut
-     it down?
+<tr id="L338"><td><a href="#L338">338</a></td><td>ANNOTATION: Rumble, shudder, bangs, flashes then quiet.</td></tr>
 
-  DUKAT
-     It may be possible to manually disengage the laser
-     fusion initiator, but in order to do that we have
-     to be in the reactor room.
+<tr id="L339"><td><a href="#L339">339</a></td><td>KIRA:  Kira to Sisko.</td></tr>
 
-  DAX
-     Not necessarily. We can disengage the initiator
-     from one of the control junctions on level thirty
-     four.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L340"><td><a href="#L340">340</a></td><td>SISKO:  Go ahead Major.</td></tr>
 
-  BASHIR
-     But now that the computer's wiped out the access
-     codes, not even a Cardassian can get out of this
-     room.
+<tr id="L341"><td><a href="#L341">341</a></td><td>KIRA [OC]:  Commander, am I glad to hear you. What's you location?</td></tr>
 
-  KIRA
-     Well then, maybe we should concentrate on trying
-     to eliminate the forcefield protecting the door.
+<tr id="L342"><td><a href="#L342">342</a></td><td>SISKO:  Level twenty nine section D. What's your status in Ops?</td></tr>
 
-  DAX
-     We don't have time to eliminate every forcefield
-     between here and level thirty four. What we need
-     to do is find a way to deactivate all the
-     forcefields on the station at the same time.
+<tr id="L343"><td><a href="#L343">343</a></td><td>KIRA [OC]:  We've got about ten minutes before the main reactor core</td></tr>
 
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L344"><td><a href="#L344">344</a></td><td>KIRA:  Overloads and destroys the station. The only way to stop it is to disengage</td></tr>
 
-LOCATION--Ore loading bay
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L345"><td><a href="#L345">345</a></td><td>KIRA [OC]:  The laser fusion initiator at one of the control junctions on level thirty four.</td></tr>
 
-  O'BRIEN
-     Okay, that should do it. If we use much more we
-     run the risk of bringing the whole room down
-     around our ears.
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L346"><td><a href="#L346">346</a></td><td>KIRA:  But the turbolifts and transporters are offline.</td></tr>
 
-  ANNOTATION
-     O'Brien pulls a bright power cable out of the
-     panel.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L347"><td><a href="#L347">347</a></td><td>O'BRIEN:  They'll never get there in time.</td></tr>
 
-  SISKO
-     All right, we'd better take cover.
+<tr id="L348"><td><a href="#L348">348</a></td><td>SISKO:  But we might. Major, Mister O'Brien and I will handle the reactor. You begin evacuating the station.</td></tr>
 
-  O'BRIEN
-     Would you like to do the honours, sir?
+<tr><td></td><td>LOCATION--Ops</td></tr>
+<tr id="L349"><td><a href="#L349">349</a></td><td>SISKO [OC]:  Get as many people as you can to the Defiant and the runabouts.</td></tr>
 
-  SISKO
-     Keep your heads down.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L350"><td><a href="#L350">350</a></td><td>KIRA [OC]:  Understood. Good luck.</td></tr>
 
-  ANNOTATION
-     Sisko touches the live cable to a trail of rock
-     fragments - a fuse.
+<tr id="L351"><td><a href="#L351">351</a></td><td>SISKO:  Jake, I want you to head for runabout pad C.</td></tr>
 
-  ANNOTATION
-     Sizzle, sizzle, boom! There's a hole in the door.
+<tr id="L352"><td><a href="#L352">352</a></td><td>JAKE:  It's too far. I'll never make it.</td></tr>
 
-  JAKE
-     It worked!
+<tr id="L353"><td><a href="#L353">353</a></td><td>SISKO:  Listen to me, Jake.</td></tr>
 
+<tr id="L354"><td><a href="#L354">354</a></td><td>JAKE:  I'm going with you.</td></tr>
 
-LOCATION--Ops
+<tr id="L355"><td><a href="#L355">355</a></td><td>SISKO:  All right. Let's go.</td></tr>
 
-  DUKAT
-     I set up this programme, and I assure you, Major,
-     I will find a way to defeat it. There's no dilemma
-     that cannot be solved by a disciplined, Cardassian
-     mind.
+<tr><td></td><td>LOCATION--Security office</td></tr>
+<tr id="L356"><td><a href="#L356">356</a></td><td>COMPUTER:  Warning. Main fusion reactors will overload in seven minutes.</td></tr>
 
-  GARAK
-     It's not going to work, you know.
+<tr id="L357"><td><a href="#L357">357</a></td><td>QUARK:  Tell me something I don't already know.</td></tr>
 
-  DUKAT
-     What are you babbling about now?
+<tr id="L358"><td><a href="#L358">358</a></td><td>KIRA [OC]:  Kira to Odo.</td></tr>
 
-  GARAK
-     I'm talking about Major Kira
+<tr id="L359"><td><a href="#L359">359</a></td><td>ODO:  Go ahead, Major.</td></tr>
 
-  KIRA
-     What about her?
+<tr id="L360"><td><a href="#L360">360</a></td><td>KIRA [OC]:  We're beginning evacuation procedures. The forcefields have been deactivated and all the doors on the station should be operable.</td></tr>
 
-  GARAK
-     She's much too busy trying to save this station to
-     be impressed with your incessant posturing.
+<tr id="L361"><td><a href="#L361">361</a></td><td>ODO:  All except one. It seems the forcefield around my office are still in operation.</td></tr>
 
-  DUKAT
-     Garak!
+<tr id="L362"><td><a href="#L362">362</a></td><td>KIRA [OC]:  I'll send a work team down immediately.</td></tr>
 
-  GARAK
-     And even if she weren't, she has much better taste
-     than to be attracted to you. And you, a married
-     man
+<tr id="L363"><td><a href="#L363">363</a></td><td>COMPUTER:  Warning, main fusion reactors will overload in six minutes.</td></tr>
 
-  DUKAT
-     I should've had you executed years ago.
+<tr id="L364"><td><a href="#L364">364</a></td><td>QUARK:  Are you telling me we're the only ones still locked in?</td></tr>
 
-  GARAK
-     You tried, remember?
+<tr id="L365"><td><a href="#L365">365</a></td><td>ODO:  This forcefield must be on a separate system from the others.</td></tr>
 
-  BASHIR
-     Garak, this isn't helping.
+<tr id="L366"><td><a href="#L366">366</a></td><td>QUARK:  But why go to so much trouble to keep people out of the Security office?</td></tr>
 
-  DAX
-     Wait a minute. What about the power supply grid?
-     If we could overload the grid, we might be able to
-     cause a power surge and short out all the
-     forcefields on the station.
+<tr id="L367"><td><a href="#L367">367</a></td><td>ODO:  It's not to keep people out, it's to keep me in. I suppose during the occupation the Cardassians considered their security chief a security risk.</td></tr>
 
-  KIRA
-     It might even be enough to eliminate the dampening
-     field that's been keeping us from using our
-     communicators.
+<tr id="L368"><td><a href="#L368">368</a></td><td>QUARK:  And I know why.</td></tr>
 
-  DUKAT
-     Tell me something, Major. The Cardassian
-     neutralisation emitters that were under here. I
-     assume you deactivated them when you control of
-     the station?
+<tr id="L369"><td><a href="#L369">369</a></td><td>ODO:  Oh, do you?</td></tr>
 
-  KIRA
-     That's right. We prefer our containment fields to
-     be non-lethal.
+<tr id="L370"><td><a href="#L370">370</a></td><td>QUARK:  It's because they knew you were an honourable man. The kind of person who would do the right thing regardless of the circumstances. And now your integrity is going to get us both killed. I hope you're happy.</td></tr>
 
-  DUKAT
-     But are the emitters still in place?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L371"><td><a href="#L371">371</a></td><td>COMPUTER:  Warning. Main fusion reactors will overload in five minutes.</td></tr>
 
-  KIRA
-     As far as I know.
+<tr id="L372"><td><a href="#L372">372</a></td><td>SISKO:  Chief, did you ever finish those upgrades on the deflector shields?</td></tr>
 
-  DUKAT
-     Excellent. That means they have not been affected
-     by the counterinsurgency programme. That means we
-     still have control of them.
+<tr id="L373"><td><a href="#L373">373</a></td><td>O'BRIEN:  Yeah, why?</td></tr>
 
-  DAX
-     Then if we can get the emitters back online, we
-     can use them to overload the power grid.
+<tr id="L374"><td><a href="#L374">374</a></td><td>SISKO:  We may not have time to disengage the fusion initiator. What if we directed the explosion into the shields?</td></tr>
 
-  DUKAT
-     Exactly.
+<tr id="L375"><td><a href="#L375">375</a></td><td>O'BRIEN:  That's not a bad idea. The shields are the only thing on the station that can absorb that much energy.</td></tr>
 
-  KIRA
-     Do you think it'll be enough to eliminate the
-     forcefields?
+<tr id="L376"><td><a href="#L376">376</a></td><td>ANNOTATION: debris blocks their path</td></tr>
 
-  DAX
-     Unfortunately, we'll lose the turbolifts and the
-     transporters, but they aren't much use to us right
-     now anyway.
+<tr id="L377"><td><a href="#L377">377</a></td><td>O'BRIEN:  That power surge we felt must've blown out one of the plasma conduits. The corridor's completely blocked for the next fifty metres.</td></tr>
 
-  KIRA
-     Let's give it a try.
+<tr id="L378"><td><a href="#L378">378</a></td><td>JAKE:  Can't we get around it?</td></tr>
 
+<tr id="L379"><td><a href="#L379">379</a></td><td>SISKO:  We don't have time.</td></tr>
 
-LOCATION--Corridor
+<tr id="L380"><td><a href="#L380">380</a></td><td>O'BRIEN:  There might be a way. There's a maintenance conduit adjacent to this corridor. If it's not blocked, we might be able to get around the debris and get to the reactor control junction. Give me a hand.</td></tr>
 
-  ANNOTATION
-     The men meet up at a junction.
+<tr id="L381"><td><a href="#L381">381</a></td><td>ANNOTATION: They clear rubbish from the access panel.</td></tr>
 
-  SISKO
-     Anything?
+<tr id="L382"><td><a href="#L382">382</a></td><td>O'BRIEN:  I can feel heat through the door.</td></tr>
 
-  O'BRIEN
-     I only got a couple hundred metres and I was
-     stopped by a forcefield. How about you?
+<tr id="L383"><td><a href="#L383">383</a></td><td>ANNOTATION: So he opens it.</td></tr>
 
-  JAKE
-     We didn't even get that far.
+<tr id="L384"><td><a href="#L384">384</a></td><td>SISKO:  What's wrong?</td></tr>
 
-  O'BRIEN
-     There's got to be some way up to Ops.
+<tr id="L385"><td><a href="#L385">385</a></td><td>O'BRIEN:  See for yourself.</td></tr>
 
-  SISKO
-     The turbolift shaft. We can climb it all the way
-     to Ops. Let's see if we can get these doors open.
+<tr id="L386"><td><a href="#L386">386</a></td><td>ANNOTATION: There's a green plasma fire in the conduit walls.</td></tr>
 
+<tr id="L387"><td><a href="#L387">387</a></td><td>COMPUTER:  Warning. Main fusion reactors will overload in three minutes.</td></tr>
 
-LOCATION--Ops
+<tr id="L388"><td><a href="#L388">388</a></td><td>SISKO:  I want you to wait here.</td></tr>
 
-  KIRA
-     Dukat, we're running out of time.
+<tr id="L389"><td><a href="#L389">389</a></td><td>JAKE:  But</td></tr>
 
-  DUKAT
-     I'm almost done. I've got the emitters wired into
-     the control panel. Now all I have to do is
-     reattach them to the power grid like so. All
-     right, I'm ready.
+<tr id="L390"><td><a href="#L390">390</a></td><td>SISKO:  I mean it this time.</td></tr>
 
-  DAX
-     Brace yourselves.
+<tr id="L391"><td><a href="#L391">391</a></td><td>ANNOTATION: O'Brien and Sisko tear their sleeves to make mittens for their hands.</td></tr>
 
-  ANNOTATION
-     Rumble, shudder, bangs, flashes then quiet.
+<tr id="L392"><td><a href="#L392">392</a></td><td>SISKO:  I'll go first. Follow five metres behind me. If one of us runs into trouble in here</td></tr>
 
-  KIRA
-     Kira to Sisko.
+<tr id="L393"><td><a href="#L393">393</a></td><td>O'BRIEN:  I know, I know. The other one keeps on going.</td></tr>
 
+<tr><td></td><td>LOCATION--Conduit</td></tr>
+<tr id="L394"><td><a href="#L394">394</a></td><td>ANNOTATION: Flashes and bangs are all around them. One knocks O'Brien down.</td></tr>
 
-LOCATION--Corridor
+<tr id="L395"><td><a href="#L395">395</a></td><td>SISKO:  O'Brien!</td></tr>
 
-  SISKO
-     Go ahead Major.
+<tr id="L396"><td><a href="#L396">396</a></td><td>ANNOTATION: O'Brien is out cold. Sisko goes on. O'Brien wakes briefly then passes out again.</td></tr>
 
-  KIRA [OC]
-     Commander, am I glad to hear you. What's you
-     location?
+<tr><td></td><td>LOCATION--Reactor control junction</td></tr>
+<tr id="L397"><td><a href="#L397">397</a></td><td>COMPUTER:  Warning. Main fusion reactors will overload in ninety seconds.</td></tr>
 
-  SISKO
-     Level twenty nine section D. What's your status in
-     Ops?
+<tr id="L398"><td><a href="#L398">398</a></td><td>ANNOTATION: Sisko starts moving isolinear rods around.</td></tr>
 
-  KIRA [OC]
-     We've got about ten minutes before the main
-     reactor core
+<tr id="L399"><td><a href="#L399">399</a></td><td>SISKO:  Sisko to O'Brien.</td></tr>
 
+<tr><td></td><td>LOCATION--Conduit</td></tr>
+<tr id="L400"><td><a href="#L400">400</a></td><td>SISKO [OC]:  Chief, can you hear me?</td></tr>
 
-LOCATION--Ops
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L401"><td><a href="#L401">401</a></td><td>SISKO [OC]:  Chief, answer me.</td></tr>
 
-  KIRA
-     Overloads and destroys the station. The only way
-     to stop it is to disengage
+<tr id="L402"><td><a href="#L402">402</a></td><td>ANNOTATION: Jake goes into the conduit.</td></tr>
 
+<tr><td></td><td>LOCATION--Reactor control junction</td></tr>
+<tr id="L403"><td><a href="#L403">403</a></td><td>ANNOTATION: Sisko is reversing rods and pressing buttons.</td></tr>
 
-LOCATION--Corridor
+<tr id="L404"><td><a href="#L404">404</a></td><td>COMPUTER:  Warning. Main fusion reactors will overload in sixty seconds.</td></tr>
 
-  KIRA [OC]
-     The laser fusion initiator at one of the control
-     junctions on level thirty four.
+<tr><td></td><td>LOCATION--Conduit</td></tr>
+<tr id="L405"><td><a href="#L405">405</a></td><td>ANNOTATION: Jake drags the groaning O'Brien back towards the corridor.</td></tr>
 
+<tr><td></td><td>LOCATION--Reactor control junction</td></tr>
+<tr id="L406"><td><a href="#L406">406</a></td><td>COMPUTER:  Warning. Main fusion reactors will overload in thirty seconds.</td></tr>
 
-LOCATION--Ops
+<tr id="L407"><td><a href="#L407">407</a></td><td>ANNOTATION: Sisko works fast.</td></tr>
 
-  KIRA
-     But the turbolifts and transporters are offline.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L408"><td><a href="#L408">408</a></td><td>ANNOTATION: Jake pulls O'Brien out of the conduit.</td></tr>
 
+<tr id="L409"><td><a href="#L409">409</a></td><td>O'BRIEN:  Jake, I thought your father told you to stay out of there.</td></tr>
 
-LOCATION--Corridor
+<tr id="L410"><td><a href="#L410">410</a></td><td>JAKE:  If you don't tell him, I won't.</td></tr>
 
-  O'BRIEN
-     They'll never get there in time.
+<tr><td></td><td>LOCATION--Reactor control junction</td></tr>
+<tr id="L411"><td><a href="#L411">411</a></td><td>ANNOTATION: Sisko is still pressing buttons.</td></tr>
 
-  SISKO
-     But we might. Major, Mister O'Brien and I will
-     handle the reactor. You begin evacuating the
-     station.
+<tr id="L412"><td><a href="#L412">412</a></td><td>COMPUTER:  Warning. Main fusion reactor overload.</td></tr>
 
+<tr id="L413"><td><a href="#L413">413</a></td><td>ANNOTATION: Whumph! Energy discharges from the station and the shields are lit up.</td></tr>
 
-LOCATION--Ops
+<tr id="L414"><td><a href="#L414">414</a></td><td>O'BRIEN [OC]:  O'Brien to Sisko.</td></tr>
 
-  SISKO [OC]
-     Get as many people as you can to the Defiant and
-     the runabouts.
+<tr id="L415"><td><a href="#L415">415</a></td><td>SISKO:  Chief, you're all right?</td></tr>
 
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L416"><td><a href="#L416">416</a></td><td>O'BRIEN:  Yeah, looks like we all are.</td></tr>
 
-LOCATION--Corridor
+<tr><td></td><td>LOCATION--Security office</td></tr>
+<tr id="L417"><td><a href="#L417">417</a></td><td>ANNOTATION: The doors open. Quark is at Odo's computer terminal.</td></tr>
 
-  KIRA [OC]
-     Understood. Good luck.
+<tr id="L418"><td><a href="#L418">418</a></td><td>ODO:  It's about time. All right, Quark. You can leave now.</td></tr>
 
-  SISKO
-     Jake, I want you to head for runabout pad C.
+<tr id="L419"><td><a href="#L419">419</a></td><td>QUARK:  (reading) A self-important con artist who's nowhere near as clever as he thinks he is. That's your official security evaluation of me?</td></tr>
 
-  JAKE
-     It's too far. I'll never make it.
+<tr id="L420"><td><a href="#L420">420</a></td><td>ODO:  Quark, I told you to stay away from the computer.</td></tr>
 
-  SISKO
-     Listen to me, Jake.
+<tr><td></td><td>LOCATION--Promenade</td></tr>
+<tr id="L421"><td><a href="#L421">421</a></td><td>QUARK:  Two hours ago you told me I was the most devious Ferengi you ever met.</td></tr>
 
-  JAKE
-     I'm going with you.
+<tr id="L422"><td><a href="#L422">422</a></td><td>ODO:  I thought we were going to die. I was trying to be nice.</td></tr>
 
-  SISKO
-     All right. Let's go.
+<tr id="L423"><td><a href="#L423">423</a></td><td>QUARK:  Name one Ferengi who's more devious than I am.</td></tr>
 
+<tr id="L424"><td><a href="#L424">424</a></td><td>ODO:  The Grand Nagus.</td></tr>
 
-LOCATION--Security office
+<tr id="L425"><td><a href="#L425">425</a></td><td>QUARK:  All right, name another.</td></tr>
 
-  COMPUTER
-     Warning. Main fusion reactors will overload in
-     seven minutes.
+<tr id="L426"><td><a href="#L426">426</a></td><td>ODO:  DaiMon Tye.</td></tr>
 
-  QUARK
-     Tell me something I don't already know.
+<tr id="L427"><td><a href="#L427">427</a></td><td>QUARK:  One you personally know.</td></tr>
 
-  KIRA [OC]
-     Kira to Odo.
+<tr id="L428"><td><a href="#L428">428</a></td><td>ODO:  Your brother, Rom.</td></tr>
 
-  ODO
-     Go ahead, Major.
+<tr id="L429"><td><a href="#L429">429</a></td><td>QUARK:  My brother?</td></tr>
 
-  KIRA [OC]
-     We're beginning evacuation procedures. The
-     forcefields have been deactivated and all the
-     doors on the station should be operable.
+<tr id="L430"><td><a href="#L430">430</a></td><td>ODO:  Your uncle Frin, your cousin Gaila.</td></tr>
 
-  ODO
-     All except one. It seems the forcefield around my
-     office are still in operation.
+<tr id="L431"><td><a href="#L431">431</a></td><td>QUARK:  Gaila? The one with the moon?</td></tr>
 
-  KIRA [OC]
-     I'll send a work team down immediately.
-
-  COMPUTER
-     Warning, main fusion reactors will overload in six
-     minutes.
-
-  QUARK
-     Are you telling me we're the only ones still
-     locked in?
-
-  ODO
-     This forcefield must be on a separate system from
-     the others.
-
-  QUARK
-     But why go to so much trouble to keep people out
-     of the Security office?
-
-  ODO
-     It's not to keep people out, it's to keep me in. I
-     suppose during the occupation the Cardassians
-     considered their security chief a security risk.
-
-  QUARK
-     And I know why.
-
-  ODO
-     Oh, do you?
-
-  QUARK
-     It's because they knew you were an honourable man.
-     The kind of person who would do the right thing
-     regardless of the circumstances. And now your
-     integrity is going to get us both killed. I hope
-     you're happy.
-
-
-LOCATION--Corridor
-
-  COMPUTER
-     Warning. Main fusion reactors will overload in
-     five minutes.
-
-  SISKO
-     Chief, did you ever finish those upgrades on the
-     deflector shields?
-
-  O'BRIEN
-     Yeah, why?
-
-  SISKO
-     We may not have time to disengage the fusion
-     initiator. What if we directed the explosion into
-     the shields?
-
-  O'BRIEN
-     That's not a bad idea. The shields are the only
-     thing on the station that can absorb that much
-     energy.
-
-  ANNOTATION
-     debris blocks their path
-
-  O'BRIEN
-     That power surge we felt must've blown out one of
-     the plasma conduits. The corridor's completely
-     blocked for the next fifty metres.
-
-  JAKE
-     Can't we get around it?
-
-  SISKO
-     We don't have time.
-
-  O'BRIEN
-     There might be a way. There's a maintenance
-     conduit adjacent to this corridor. If it's not
-     blocked, we might be able to get around the debris
-     and get to the reactor control junction. Give me a
-     hand.
-
-  ANNOTATION
-     They clear rubbish from the access panel.
-
-  O'BRIEN
-     I can feel heat through the door.
-
-  ANNOTATION
-     So he opens it.
-
-  SISKO
-     What's wrong?
-
-  O'BRIEN
-     See for yourself.
-
-  ANNOTATION
-     There's a green plasma fire in the conduit walls.
-
-  COMPUTER
-     Warning. Main fusion reactors will overload in
-     three minutes.
-
-  SISKO
-     I want you to wait here.
-
-  JAKE
-     But
-
-  SISKO
-     I mean it this time.
-
-  ANNOTATION
-     O'Brien and Sisko tear their sleeves to make
-     mittens for their hands.
-
-  SISKO
-     I'll go first. Follow five metres behind me. If
-     one of us runs into trouble in here
-
-  O'BRIEN
-     I know, I know. The other one keeps on going.
-
-
-LOCATION--Conduit
-
-  ANNOTATION
-     Flashes and bangs are all around them. One knocks
-     O'Brien down.
-
-  SISKO
-     O'Brien!
-
-  ANNOTATION
-     O'Brien is out cold. Sisko goes on. O'Brien wakes
-     briefly then passes out again.
-
-
-LOCATION--Reactor control junction
-
-  COMPUTER
-     Warning. Main fusion reactors will overload in
-     ninety seconds.
-
-  ANNOTATION
-     Sisko starts moving isolinear rods around.
-
-  SISKO
-     Sisko to O'Brien.
-
-
-LOCATION--Conduit
-
-  SISKO [OC]
-     Chief, can you hear me?
-
-
-LOCATION--Corridor
-
-  SISKO [OC]
-     Chief, answer me.
-
-  ANNOTATION
-     Jake goes into the conduit.
-
-
-LOCATION--Reactor control junction
-
-  ANNOTATION
-     Sisko is reversing rods and pressing buttons.
-
-  COMPUTER
-     Warning. Main fusion reactors will overload in
-     sixty seconds.
-
-
-LOCATION--Conduit
-
-  ANNOTATION
-     Jake drags the groaning O'Brien back towards the
-     corridor.
-
-
-LOCATION--Reactor control junction
-
-  COMPUTER
-     Warning. Main fusion reactors will overload in
-     thirty seconds.
-
-  ANNOTATION
-     Sisko works fast.
-
-
-LOCATION--Corridor
-
-  ANNOTATION
-     Jake pulls O'Brien out of the conduit.
-
-  O'BRIEN
-     Jake, I thought your father told you to stay out
-     of there.
-
-  JAKE
-     If you don't tell him, I won't.
-
-
-LOCATION--Reactor control junction
-
-  ANNOTATION
-     Sisko is still pressing buttons.
-
-  COMPUTER
-     Warning. Main fusion reactor overload.
-
-  ANNOTATION
-     Whumph! Energy discharges from the station and the
-     shields are lit up.
-
-  O'BRIEN [OC]
-     O'Brien to Sisko.
-
-  SISKO
-     Chief, you're all right?
-
-
-LOCATION--Corridor
-
-  O'BRIEN
-     Yeah, looks like we all are.
-
-
-LOCATION--Security office
-
-  ANNOTATION
-     The doors open. Quark is at Odo's computer
-     terminal.
-
-  ODO
-     It's about time. All right, Quark. You can leave
-     now.
-
-  QUARK
-     (reading) A self-important con artist who's
-     nowhere near as clever as he thinks he is. That's
-     your official security evaluation of me?
-
-  ODO
-     Quark, I told you to stay away from the computer.
-
-
-LOCATION--Promenade
-
-  QUARK
-     Two hours ago you told me I was the most devious
-     Ferengi you ever met.
-
-  ODO
-     I thought we were going to die. I was trying to be
-     nice.
-
-  QUARK
-     Name one Ferengi who's more devious than I am.
-
-  ODO
-     The Grand Nagus.
-
-  QUARK
-     All right, name another.
-
-  ODO
-     DaiMon Tye.
-
-  QUARK
-     One you personally know.
-
-  ODO
-     Your brother, Rom.
-
-  QUARK
-     My brother?
-
-  ODO
-     Your uncle Frin, your cousin Gaila.
-
-  QUARK
-     Gaila? The one with the moon?
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

@@ -1,1663 +1,833 @@
-Elementary, Dear Data
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Elementary, Dear Data</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>CLANCY:  Yes, Commander?</td></tr>
 
-LOCATION--Engineering
+<tr id="L2"><td><a href="#L2">2</a></td><td>DATA:  Is there a problem? Chief Engineer La Forge called for me, urgent.</td></tr>
 
-  CLANCY
-     Yes, Commander?
+<tr id="L3"><td><a href="#L3">3</a></td><td>CLANCY:  Oh, of course. He's over there, with the Victory.</td></tr>
 
-  DATA
-     Is there a problem? Chief Engineer La Forge called
-     for me, urgent.
+<tr id="L4"><td><a href="#L4">4</a></td><td>DATA:  Geordi, I just had a strange conversation with your assistant. Although it is three days until we rendezvous with starship Victory, she</td></tr>
 
-  CLANCY
-     Oh, of course. He's over there, with the Victory.
+<tr id="L5"><td><a href="#L5">5</a></td><td>LAFORGE:  She believes it has already arrived? Not the starship, my friend. The original.</td></tr>
 
-  DATA
-     Geordi, I just had a strange conversation with
-     your assistant. Although it is three days until we
-     rendezvous with starship Victory, she
+<tr id="L6"><td><a href="#L6">6</a></td><td>ANNOTATION: in a side alcove is a wonderful replica of HMS Victory, bunting and all</td></tr>
 
-  LAFORGE
-     She believes it has already arrived? Not the
-     starship, my friend. The original.
+<tr id="L7"><td><a href="#L7">7</a></td><td>LAFORGE:  This is my gift to the Victory's Captain Zimbata.</td></tr>
 
-  ANNOTATION
-     in a side alcove is a wonderful replica of HMS
-     Victory, bunting and all
+<tr id="L8"><td><a href="#L8">8</a></td><td>DATA:  Most unusual.</td></tr>
 
-  LAFORGE
-     This is my gift to the Victory's Captain Zimbata.
+<tr id="L9"><td><a href="#L9">9</a></td><td>LAFORGE:  I served with him an ensign. Sure wish he'd been in command of this Victory. Wind and sail, that's the proper way to move a ship.</td></tr>
 
-  DATA
-     Most unusual.
+<tr id="L10"><td><a href="#L10">10</a></td><td>DATA:  But, Geordi, your Starfleet specialty is antimatter power, dilithium regulators</td></tr>
 
-  LAFORGE
-     I served with him an ensign. Sure wish he'd been
-     in command of this Victory. Wind and sail, that's
-     the proper way to move a ship.
+<tr id="L11"><td><a href="#L11">11</a></td><td>LAFORGE:  That's exactly why this fascinates me, Data. You see, it's human nature to love what we don't have. Simpler days, huh? Anyway, stringing this rigging has made me dream of handling sails.</td></tr>
 
-  DATA
-     But, Geordi, your Starfleet specialty is
-     antimatter power, dilithium regulators
+<tr id="L12"><td><a href="#L12">12</a></td><td>DATA:  This is not a computer simulation?</td></tr>
 
-  LAFORGE
-     That's exactly why this fascinates me, Data. You
-     see, it's human nature to love what we don't have.
-     Simpler days, huh? Anyway, stringing this rigging
-     has made me dream of handling sails.
+<tr id="L13"><td><a href="#L13">13</a></td><td>LAFORGE:  Data, the whole point in doing something like this is to make it by hand.</td></tr>
 
-  DATA
-     This is not a computer simulation?
+<tr id="L14"><td><a href="#L14">14</a></td><td>DATA:  Geordi, your message said urgent.</td></tr>
 
-  LAFORGE
-     Data, the whole point in doing something like this
-     is to make it by hand.
+<tr id="L15"><td><a href="#L15">15</a></td><td>LAFORGE:  So it is. While we're waiting to rendezvous with Victory, we have time for me to be Watson. More properly, your Watson.</td></tr>
 
-  DATA
-     Geordi, your message said urgent.
+<tr id="L16"><td><a href="#L16">16</a></td><td>ANNOTATION: Geordi hands Data a meerschaum pipe</td></tr>
 
-  LAFORGE
-     So it is. While we're waiting to rendezvous with
-     Victory, we have time for me to be Watson. More
-     properly, your Watson.
+<tr id="L17"><td><a href="#L17">17</a></td><td>DATA:  My Watson?</td></tr>
 
-  ANNOTATION
-     Geordi hands Data a meerschaum pipe
+<tr id="L18"><td><a href="#L18">18</a></td><td>LAFORGE:  I've just shown you one of my dreams, now let's go and share in one of yours.</td></tr>
 
-  DATA
-     My Watson?
+<tr id="L19"><td><a href="#L19">19</a></td><td>DATA:  Ah, yes. That does seem only fair.</td></tr>
 
-  LAFORGE
-     I've just shown you one of my dreams, now let's go
-     and share in one of yours.
+<tr id="L20"><td><a href="#L20">20</a></td><td>LAFORGE:  Clancy, I'll be gone awhile. See that no one touches this.</td></tr>
 
-  DATA
-     Ah, yes. That does seem only fair.
+<tr id="L21"><td><a href="#L21">21</a></td><td>CLANCY:  Aye, sir. And where can I reach you?</td></tr>
 
-  LAFORGE
-     Clancy, I'll be gone awhile. See that no one
-     touches this.
+<tr id="L22"><td><a href="#L22">22</a></td><td>DATA:  He can be reached at 221B Baker Street.</td></tr>
 
-  CLANCY
-     Aye, sir. And where can I reach you?
+<tr id="L23"><td><a href="#L23">23</a></td><td>CLANCY:  Sir?</td></tr>
 
-  DATA
-     He can be reached at 221B Baker Street.
+<tr><td></td><td>LOCATION--Outside holodeck</td></tr>
+<tr id="L24"><td><a href="#L24">24</a></td><td>ANNOTATION: The friends are costumed for late Victorian London</td></tr>
 
-  CLANCY
-     Sir?
+<tr id="L25"><td><a href="#L25">25</a></td><td>DATA:  Computer, select at random a mystery by Sir Arthur Conan Doyle, where I will play Sherlock Holmes and Lieutenant La Forge will be Doctor John Watson.</td></tr>
 
+<tr id="L26"><td><a href="#L26">26</a></td><td>COMPUTER:  Programme complete. You may enter.</td></tr>
 
-LOCATION--Outside holodeck
+<tr><td></td><td>LOCATION--221B Baker Street</td></tr>
+<tr id="L27"><td><a href="#L27">27</a></td><td>ANNOTATION: They enter Sherlock Holmes' study</td></tr>
 
-  ANNOTATION
-     The friends are costumed for late Victorian London
+<tr id="L28"><td><a href="#L28">28</a></td><td>DATA:  Excellent.</td></tr>
 
-  DATA
-     Computer, select at random a mystery by Sir Arthur
-     Conan Doyle, where I will play Sherlock Holmes and
-     Lieutenant La Forge will be Doctor John Watson.
+<tr id="L29"><td><a href="#L29">29</a></td><td>LAFORGE:  Look at all of the detail. So you say everything here has some significance?</td></tr>
 
-  COMPUTER
-     Programme complete. You may enter.
+<tr id="L30"><td><a href="#L30">30</a></td><td>DATA:  Holmes collected nothing, neither trinkets nor thoughts, which were not specifically significant to him.</td></tr>
 
+<tr id="L31"><td><a href="#L31">31</a></td><td>LAFORGE:  This?</td></tr>
 
-LOCATION--221B Baker Street
+<tr id="L32"><td><a href="#L32">32</a></td><td>DATA:  The emerald tie pin. Presented to Holmes by Queen Victoria after he solved the theft of the Bruce-Partington Plans. (a book) A copy of Whitaker's Almanac, which provided Holmes the key to the secret code in The Valley of Fear. The snuff box of Wilhelm Gottsleig Siegesmann Van der Romstein.</td></tr>
 
-  ANNOTATION
-     They enter Sherlock Holmes' study
+<tr id="L33"><td><a href="#L33">33</a></td><td>LAFORGE:  All right, Data. You solve the cases and get all the gifts, what do I do?</td></tr>
 
-  DATA
-     Excellent.
+<tr id="L34"><td><a href="#L34">34</a></td><td>DATA:  Primarily as Doctor Watson, you will keep a written record of everything I say and do. For later publication. And the famous Holmes violin. He purchased this in a pawn shop in Tottenham Court Road for fifty five shillings, which he considered to be a very good investment.</td></tr>
 
-  LAFORGE
-     Look at all of the detail. So you say everything
-     here has some significance?
+<tr id="L35"><td><a href="#L35">35</a></td><td>ANNOTATION: And with his back to us, he plays beautifully</td></tr>
 
-  DATA
-     Holmes collected nothing, neither trinkets nor
-     thoughts, which were not specifically significant
-     to him.
+<tr id="L36"><td><a href="#L36">36</a></td><td>LAFORGE:  In the hands of some, the violin is a wondrous thing, equally capable of stirring the soul to the heights of bliss as to the depths of despair, but Data, that's incredible. How can you play it like that?</td></tr>
 
-  LAFORGE
-     This?
+<tr id="L37"><td><a href="#L37">37</a></td><td>DATA:  Merely throwing myself into the part, Watson.</td></tr>
 
-  DATA
-     The emerald tie pin. Presented to Holmes by Queen
-     Victoria after he solved the theft of the
-     Bruce-Partington Plans. (a book) A copy of
-     Whitaker's Almanac, which provided Holmes the key
-     to the secret code in The Valley of Fear. The
-     snuff box of Wilhelm Gottsleig Siegesmann Van der
-     Romstein.
+<tr id="L38"><td><a href="#L38">38</a></td><td>LAFORGE:  But, in the hands of my friend, Mister Sherlock Holmes, the violin ceases to be a musical instrument at all and becomes</td></tr>
 
-  LAFORGE
-     All right, Data. You solve the cases and get all
-     the gifts, what do I do?
+<tr id="L39"><td><a href="#L39">39</a></td><td>DATA:  Watson, we are about to have guests.</td></tr>
 
-  DATA
-     Primarily as Doctor Watson, you will keep a
-     written record of everything I say and do. For
-     later publication. And the famous Holmes violin.
-     He purchased this in a pawn shop in Tottenham
-     Court Road for fifty five shillings, which he
-     considered to be a very good investment.
-
-  ANNOTATION
-     And with his back to us, he plays beautifully
+<tr id="L40"><td><a href="#L40">40</a></td><td>LAFORGE:  How could you possibly?</td></tr>
 
-  LAFORGE
-     In the hands of some, the violin is a wondrous
-     thing, equally capable of stirring the soul to the
-     heights of bliss as to the depths of despair, but
-     Data, that's incredible. How can you play it like
-     that?
+<tr id="L41"><td><a href="#L41">41</a></td><td>ANNOTATION: A knock on the door</td></tr>
 
-  DATA
-     Merely throwing myself into the part, Watson.
+<tr id="L42"><td><a href="#L42">42</a></td><td>DATA:  Be a good fellow and answer that. Let's not keep the Inspector waiting.</td></tr>
 
-  LAFORGE
-     But, in the hands of my friend, Mister Sherlock
-     Holmes, the violin ceases to be a musical
-     instrument at all and becomes
+<tr id="L43"><td><a href="#L43">43</a></td><td>LAFORGE:  Inspector who?</td></tr>
 
-  DATA
-     Watson, we are about to have guests.
+<tr id="L44"><td><a href="#L44">44</a></td><td>DATA:  Lestrade of course.</td></tr>
 
-  LAFORGE
-     How could you possibly?
+<tr id="L45"><td><a href="#L45">45</a></td><td>LESTRADE [OC]:  Holmes, are you there, man?</td></tr>
 
-  ANNOTATION
-     A knock on the door
+<tr id="L46"><td><a href="#L46">46</a></td><td>ANNOTATION: La Forge opens the door and two men enter</td></tr>
 
-  DATA
-     Be a good fellow and answer that. Let's not keep
-     the Inspector waiting.
+<tr id="L47"><td><a href="#L47">47</a></td><td>LESTRADE:  Thank the Almighty you're available today, Holmes, I'm in a deuce of a dilemma.</td></tr>
 
-  LAFORGE
-     Inspector who?
+<tr id="L48"><td><a href="#L48">48</a></td><td>DATA:  Then may I say your perturbation becomes you, Inspector Lestrade, whilst simultaneously affording me yet again the opportunity to serve Queen and country.</td></tr>
 
-  DATA
-     Lestrade of course.
+<tr id="L49"><td><a href="#L49">49</a></td><td>LAFORGE:  Data, Holmes really talked like that?</td></tr>
 
-  LESTRADE [OC]
-     Holmes, are you there, man?
+<tr id="L50"><td><a href="#L50">50</a></td><td>DATA:  Absolutely.</td></tr>
 
-  ANNOTATION
-     La Forge opens the door and two men enter
+<tr id="L51"><td><a href="#L51">51</a></td><td>LESTRADE:  We need your help, Holmes. You see, this gentleman here, the emissary of a foreign government, has been the victim of a most accidentally wicked crime.</td></tr>
 
-  LESTRADE
-     Thank the Almighty you're available today, Holmes,
-     I'm in a deuce of a dilemma.
+<tr id="L52"><td><a href="#L52">52</a></td><td>LAFORGE:  (trying to turn on a table lamp) Damn. Haven't they invented the electric light by now?</td></tr>
 
-  DATA
-     Then may I say your perturbation becomes you,
-     Inspector Lestrade, whilst simultaneously
-     affording me yet again the opportunity to serve
-     Queen and country.
+<tr id="L53"><td><a href="#L53">53</a></td><td>LESTRADE:  What, dear fellow?</td></tr>
 
-  LAFORGE
-     Data, Holmes really talked like that?
+<tr id="L54"><td><a href="#L54">54</a></td><td>DATA:  Watson. Pray continue, Inspector.</td></tr>
 
-  DATA
-     Absolutely.
+<tr id="L55"><td><a href="#L55">55</a></td><td>LESTRADE:  To put the matter simply, Holmes, this man was accosted by gypsies intent on depriving him of his most valuable possessions. And in the process of picking his pockets clean, they also happened to bag a photograph this man was carrying.</td></tr>
 
-  LESTRADE
-     We need your help, Holmes. You see, this gentleman
-     here, the emissary of a foreign government, has
-     been the victim of a most accidentally wicked
-     crime.
+<tr id="L56"><td><a href="#L56">56</a></td><td>ANNOTATION: Data gets up, rips the lining of the man's jacket to reveal - </td></tr>
 
-  LAFORGE
-     (trying to turn on a table lamp) Damn. Haven't
-     they invented the electric light by now?
+<tr id="L57"><td><a href="#L57">57</a></td><td>LESTRADE:  Great Scott! The photograph!</td></tr>
 
-  LESTRADE
-     What, dear fellow?
+<tr id="L58"><td><a href="#L58">58</a></td><td>DATA:  I believe you will find, Inspector, that this emissary here works not for but against the King of Bohemia, and that photograph of the king and his mistress is to be used as blackmail. Further, upon deeper reflection, you will deduce, as did I, that</td></tr>
 
-  DATA
-     Watson. Pray continue, Inspector.
+<tr id="L59"><td><a href="#L59">59</a></td><td>LAFORGE:  Computer, freeze programme. Exit!</td></tr>
 
-  LESTRADE
-     To put the matter simply, Holmes, this man was
-     accosted by gypsies intent on depriving him of his
-     most valuable possessions. And in the process of
-     picking his pockets clean, they also happened to
-     bag a photograph this man was carrying.
+<tr id="L60"><td><a href="#L60">60</a></td><td>DATA:  Geordi, where are you going? Geordi?</td></tr>
 
-  ANNOTATION
-     Data gets up, rips the lining of the man's jacket
-     to reveal -
+<tr id="L61"><td><a href="#L61">61</a></td><td>LAFORGE:  I'm done.</td></tr>
 
-  LESTRADE
-     Great Scott! The photograph!
-
-  DATA
-     I believe you will find, Inspector, that this
-     emissary here works not for but against the King
-     of Bohemia, and that photograph of the king and
-     his mistress is to be used as blackmail. Further,
-     upon deeper reflection, you will deduce, as did I,
-     that
-
-  LAFORGE
-     Computer, freeze programme. Exit!
-
-  DATA
-     Geordi, where are you going? Geordi?
-
-  LAFORGE
-     I'm done.
-
-  ANNOTATION
-     La Forge leaves
-
-  DATA
-     (hurrying after him) But, but, Geordi, I was just
-     about to reveal that the sir is in fact a madam
-
-
-LOCATION--Ten Forward
-
-  ANNOTATION
-     still in costume
+<tr id="L62"><td><a href="#L62">62</a></td><td>ANNOTATION: La Forge leaves</td></tr>
 
-  LAFORGE
-     Data, what was the point in going to the holodeck?
-
-  DATA
-     To solve a Sherlock Holmes mystery.
-
-  LAFORGE
-     Exactly, but, you've got them all memorised. The
-     first time someone opens their mouth, you've got
-     it solved, so there's really no mystery. If
-     there's no mystery, there's no game. No game, no
-     fun. I'm not upset with you, Data, really. It's
-     just that we go through all the trouble to arrange
-     the time to go down to the holodeck, to get the
-     proper wardrobe, to get into character, and then
-     boom, before we even get started you jump to the
-     end. You see, I was looking forward to the
-     mystery.
+<tr id="L63"><td><a href="#L63">63</a></td><td>DATA:  (hurrying after him) But, but, Geordi, I was just about to reveal that the sir is in fact a madam</td></tr>
 
-  DATA
-     Then I should have extended the sequence of
-     events.
+<tr><td></td><td>LOCATION--Ten Forward</td></tr>
+<tr id="L64"><td><a href="#L64">64</a></td><td>ANNOTATION: still in costume</td></tr>
 
-  LAFORGE
-     Oh, I'm not getting through. The fun in the
-     programme, Data, was in the attempt to solve a
-     mystery.
+<tr id="L65"><td><a href="#L65">65</a></td><td>LAFORGE:  Data, what was the point in going to the holodeck?</td></tr>
 
-  DATA
-     Is that not exactly what we were doing.
+<tr id="L66"><td><a href="#L66">66</a></td><td>DATA:  To solve a Sherlock Holmes mystery.</td></tr>
 
-  PULASKI
-     You are wasting your breath, Lieutenant. Saying
-     that to Data is asking a computer not to compute.
+<tr id="L67"><td><a href="#L67">67</a></td><td>LAFORGE:  Exactly, but, you've got them all memorised. The first time someone opens their mouth, you've got it solved, so there's really no mystery. If there's no mystery, there's no game. No game, no fun. I'm not upset with you, Data, really. It's just that we go through all the trouble to arrange the time to go down to the holodeck, to get the proper wardrobe, to get into character, and then boom, before we even get started you jump to the end. You see, I was looking forward to the mystery.</td></tr>
 
-  DATA
-     Am I so different from you, Doctor? Are you able
-     to cease thinking on command?
+<tr id="L68"><td><a href="#L68">68</a></td><td>DATA:  Then I should have extended the sequence of events.</td></tr>
 
-  PULASKI
-     In medicine I'm often faced with puzzles that I do
-     not know the answer to.
+<tr id="L69"><td><a href="#L69">69</a></td><td>LAFORGE:  Oh, I'm not getting through. The fun in the programme, Data, was in the attempt to solve a mystery.</td></tr>
 
-  LAFORGE
-     She's right, Data. You always know the answer.
+<tr id="L70"><td><a href="#L70">70</a></td><td>DATA:  Is that not exactly what we were doing.</td></tr>
 
-  PULASKI
-     To feel the thrill of victory there has to be the
-     possibility of failure. Where's the victory
-     winning a battle you can't possibly lose?
+<tr id="L71"><td><a href="#L71">71</a></td><td>PULASKI:  You are wasting your breath, Lieutenant. Saying that to Data is asking a computer not to compute.</td></tr>
 
-  DATA
-     Are you suggesting that there is some value in
-     losing?
+<tr id="L72"><td><a href="#L72">72</a></td><td>DATA:  Am I so different from you, Doctor? Are you able to cease thinking on command?</td></tr>
 
-  PULASKI
-     Yes. Yes, that's the great teacher. We humans
-     learn more often from a failure or a mistake than
-     we do from an easy success. But not you. You learn
-     by rote. To you all is memorisation and
-     recitation.
+<tr id="L73"><td><a href="#L73">73</a></td><td>PULASKI:  In medicine I'm often faced with puzzles that I do not know the answer to.</td></tr>
 
-  LAFORGE
-     I don't know about that. Deductive reasoning is
-     one of Data's strengths.
+<tr id="L74"><td><a href="#L74">74</a></td><td>LAFORGE:  She's right, Data. You always know the answer.</td></tr>
 
-  PULASKI
-     Yes, and Holmes too. But Holmes understood the
-     human soul. The dark flecks that drive us, that
-     turn the innocent into the evil. That
-     understanding is beyond Data. It comes from life
-     experience which he doesn't have combined with
-     human intuition for which he cannot be programmed.
+<tr id="L75"><td><a href="#L75">75</a></td><td>PULASKI:  To feel the thrill of victory there has to be the possibility of failure. Where's the victory winning a battle you can't possibly lose?</td></tr>
 
-  LAFORGE
-     Now you're just being unfair, Doctor.
+<tr id="L76"><td><a href="#L76">76</a></td><td>DATA:  Are you suggesting that there is some value in losing?</td></tr>
 
-  PULASKI
-     I don't think so, Lieutenant. Your artificial
-     friend doesn't have a prayer of solving a Holmes
-     mystery that he hasn't read.
+<tr id="L77"><td><a href="#L77">77</a></td><td>PULASKI:  Yes. Yes, that's the great teacher. We humans learn more often from a failure or a mistake than we do from an easy success. But not you. You learn by rote. To you all is memorisation and recitation.</td></tr>
 
-  DATA
-     I have read them all.
+<tr id="L78"><td><a href="#L78">78</a></td><td>LAFORGE:  I don't know about that. Deductive reasoning is one of Data's strengths.</td></tr>
 
-  PULASKI
-     You see? LAFORGE: Maybe the computer could create
-     one in the Holmes style. One where you wouldn't
-     know the outcome.
+<tr id="L79"><td><a href="#L79">79</a></td><td>PULASKI:  Yes, and Holmes too. But Holmes understood the human soul. The dark flecks that drive us, that turn the innocent into the evil. That understanding is beyond Data. It comes from life experience which he doesn't have combined with human intuition for which he cannot be programmed.</td></tr>
 
-  PULASKI
-     As I said, he wouldn't have a prayer.
+<tr id="L80"><td><a href="#L80">80</a></td><td>LAFORGE:  Now you're just being unfair, Doctor.</td></tr>
 
-  DATA
-     I accept your challenge, Doctor.
+<tr id="L81"><td><a href="#L81">81</a></td><td>PULASKI:  I don't think so, Lieutenant. Your artificial friend doesn't have a prayer of solving a Holmes mystery that he hasn't read.</td></tr>
 
-  LAFORGE
-     Good for you, Data.
+<tr id="L82"><td><a href="#L82">82</a></td><td>DATA:  I have read them all.</td></tr>
 
-  DATA
-     We will return to the holodeck, where I will dare
-     it to defeat me. And you, Madam, are invited to be
-     a witness.
+<tr id="L83"><td><a href="#L83">83</a></td><td>PULASKI:  You see? LAFORGE: Maybe the computer could create one in the Holmes style. One where you wouldn't know the outcome.</td></tr>
 
-  PULASKI
-     I wouldn't miss it.
+<tr id="L84"><td><a href="#L84">84</a></td><td>PULASKI:  As I said, he wouldn't have a prayer.</td></tr>
 
-  DATA
-     Come, Watson.
+<tr id="L85"><td><a href="#L85">85</a></td><td>DATA:  I accept your challenge, Doctor.</td></tr>
 
+<tr id="L86"><td><a href="#L86">86</a></td><td>LAFORGE:  Good for you, Data.</td></tr>
 
-LOCATION--Outside Holodeck
+<tr id="L87"><td><a href="#L87">87</a></td><td>DATA:  We will return to the holodeck, where I will dare it to defeat me. And you, Madam, are invited to be a witness.</td></tr>
 
-  DATA
-     There. I have instructed the computer to give us a
-     Sherlock Holmes-type problem, but not one written
-     specifically by Sir Arthur Conan Doyle.
+<tr id="L88"><td><a href="#L88">88</a></td><td>PULASKI:  I wouldn't miss it.</td></tr>
 
-  LAFORGE
-     So this will be something new, something created
-     by the computer?
+<tr id="L89"><td><a href="#L89">89</a></td><td>DATA:  Come, Watson.</td></tr>
 
-  DATA
-     Exactly. Will that be sufficient, Doctor?
+<tr><td></td><td>LOCATION--Outside Holodeck</td></tr>
+<tr id="L90"><td><a href="#L90">90</a></td><td>DATA:  There. I have instructed the computer to give us a Sherlock Holmes-type problem, but not one written specifically by Sir Arthur Conan Doyle.</td></tr>
 
-  PULASKI
-     We'll see.
+<tr id="L91"><td><a href="#L91">91</a></td><td>LAFORGE:  So this will be something new, something created by the computer?</td></tr>
 
-  COMPUTER
-     Programme complete. You may enter.
+<tr id="L92"><td><a href="#L92">92</a></td><td>DATA:  Exactly. Will that be sufficient, Doctor?</td></tr>
 
+<tr id="L93"><td><a href="#L93">93</a></td><td>PULASKI:  We'll see.</td></tr>
 
-LOCATION--Street
+<tr id="L94"><td><a href="#L94">94</a></td><td>COMPUTER:  Programme complete. You may enter.</td></tr>
 
-  ANNOTATION
-     Near the river, with a ship's fog horn going and
-     hawkers crying their wares. The sign says Tovey
-     Street
+<tr><td></td><td>LOCATION--Street</td></tr>
+<tr id="L95"><td><a href="#L95">95</a></td><td>ANNOTATION: Near the river, with a ship's fog horn going and hawkers crying their wares. The sign says Tovey Street</td></tr>
 
-  PIE MAN
-     Pies, pies, Some are meat, some are sweet.
+<tr id="L96"><td><a href="#L96">96</a></td><td>PIE MAN:  Pies, pies, Some are meat, some are sweet.</td></tr>
 
-  PULASKI
-     Very impressive.
+<tr id="L97"><td><a href="#L97">97</a></td><td>PULASKI:  Very impressive.</td></tr>
 
-  LAFORGE
-     Your first visit to a holodeck, Doctor?
+<tr id="L98"><td><a href="#L98">98</a></td><td>LAFORGE:  Your first visit to a holodeck, Doctor?</td></tr>
 
-  PULASKI
-     Well, with this level of sophistication. How does
-     this work? The real London was hundreds of square
-     kilometres in size.
+<tr id="L99"><td><a href="#L99">99</a></td><td>PULASKI:  Well, with this level of sophistication. How does this work? The real London was hundreds of square kilometres in size.</td></tr>
 
-  DATA
-     This is no larger than the holodeck, of course, so
-     the computer adjusts by placing images of more
-     distant perspectives on the holodeck walls
+<tr id="L100"><td><a href="#L100">100</a></td><td>DATA:  This is no larger than the holodeck, of course, so the computer adjusts by placing images of more distant perspectives on the holodeck walls</td></tr>
 
-  LAFORGE
-     But with the image so perfect you'd have to touch
-     the wall to know it was there. And the computer
-     fools you in other ways. I say, Holmes, where
-     shall we head? The theatre? Rule's? A concert
-     perhaps?
+<tr id="L101"><td><a href="#L101">101</a></td><td>LAFORGE:  But with the image so perfect you'd have to touch the wall to know it was there. And the computer fools you in other ways. I say, Holmes, where shall we head? The theatre? Rule's? A concert perhaps?</td></tr>
 
-  ANNOTATION
-     A young boy dashes between them
+<tr id="L102"><td><a href="#L102">102</a></td><td>ANNOTATION: A young boy dashes between them</td></tr>
 
-  PIE MAN
-     Stop him! Stop him! He stole my goods!
+<tr id="L103"><td><a href="#L103">103</a></td><td>PIE MAN:  Stop him! Stop him! He stole my goods!</td></tr>
 
-  DATA
-     No. It is a ruse. This way.
+<tr id="L104"><td><a href="#L104">104</a></td><td>DATA:  No. It is a ruse. This way.</td></tr>
 
-  ANNOTATION
-     Outside the headquarters of the Red-Headed League
+<tr id="L105"><td><a href="#L105">105</a></td><td>ANNOTATION: Outside the headquarters of the Red-Headed League</td></tr>
 
-  LAFORGE
-     What's over here, Data?
+<tr id="L106"><td><a href="#L106">106</a></td><td>LAFORGE:  What's over here, Data?</td></tr>
 
-  PULASKI
-     What are you doing, Data? Tell us
+<tr id="L107"><td><a href="#L107">107</a></td><td>PULASKI:  What are you doing, Data? Tell us</td></tr>
 
-  DATA
-     The running youth was a ploy. The real crime is
-     here. And the intended victim is that man. Mister
-     Jabez Wilson, employee of the Red Headed League,
-     dupe of a gang of criminals.
+<tr id="L108"><td><a href="#L108">108</a></td><td>DATA:  The running youth was a ploy. The real crime is here. And the intended victim is that man. Mister Jabez Wilson, employee of the Red Headed League, dupe of a gang of criminals.</td></tr>
 
-  DATA
-     I saw the plaque 'The Home of the Red Headed
-     League' and this rope dangling from the bell,
-     which enabled me to deduce that Mister Jabez
-     Wilson was headed here to meet a most distasteful
-     and untimely demise. From this.
+<tr id="L109"><td><a href="#L109">109</a></td><td>DATA:  I saw the plaque 'The Home of the Red Headed League' and this rope dangling from the bell, which enabled me to deduce that Mister Jabez Wilson was headed here to meet a most distasteful and untimely demise. From this.</td></tr>
 
-  ANNOTATION
-     He pulls the rope to ring the bell and a snake
-     falls to the ground
+<tr id="L110"><td><a href="#L110">110</a></td><td>ANNOTATION: He pulls the rope to ring the bell and a snake falls to the ground</td></tr>
 
-  PULASKI
-     Fraud. You didn't deduce anything. All you did was
-     recognise elements from two different Holmes
-     stories. Fraud.
+<tr id="L111"><td><a href="#L111">111</a></td><td>PULASKI:  Fraud. You didn't deduce anything. All you did was recognise elements from two different Holmes stories. Fraud.</td></tr>
 
-  DATA
-     Reasoning. From the general to the specific. Is
-     that not the very definition of deduction? Is that
-     not the way Sherlock Holmes worked?
+<tr id="L112"><td><a href="#L112">112</a></td><td>DATA:  Reasoning. From the general to the specific. Is that not the very definition of deduction? Is that not the way Sherlock Holmes worked?</td></tr>
 
-  PULASKI
-     Variations on a theme. Now, now do you see my
-     point? All that he knows is stored in his memory
-     banks. Inspiration, original thought, all the true
-     strength of Holmes is not possible for our friend.
-     I'll give you credit for your vast knowledge, but
-     your circuits would just short out if confronted
-     by a truly original mystery. It's elementary, dear
-     Data.
+<tr id="L113"><td><a href="#L113">113</a></td><td>PULASKI:  Variations on a theme. Now, now do you see my point? All that he knows is stored in his memory banks. Inspiration, original thought, all the true strength of Holmes is not possible for our friend. I'll give you credit for your vast knowledge, but your circuits would just short out if confronted by a truly original mystery. It's elementary, dear Data.</td></tr>
 
-  LAFORGE
-     Now wait a minute, Doctor. We'll see whose
-     circuits short out.
+<tr id="L114"><td><a href="#L114">114</a></td><td>LAFORGE:  Now wait a minute, Doctor. We'll see whose circuits short out.</td></tr>
 
-  ANNOTATION
-     They return to where they entered, under the
-     watchful gaze of a man
+<tr id="L115"><td><a href="#L115">115</a></td><td>ANNOTATION: They return to where they entered, under the watchful gaze of a man</td></tr>
 
-  LAFORGE
-     Computer, arch.
+<tr id="L116"><td><a href="#L116">116</a></td><td>LAFORGE:  Computer, arch.</td></tr>
 
-  PULASKI
-     Are you sure you want to put yourself through
-     this, Lieutenant? Better wilted laurels than no
-     laurels at all.
+<tr id="L117"><td><a href="#L117">117</a></td><td>PULASKI:  Are you sure you want to put yourself through this, Lieutenant? Better wilted laurels than no laurels at all.</td></tr>
 
-  LAFORGE
-     Computer, override previous programme. Okay. A
-     programme that definitely challenges Data.
+<tr id="L118"><td><a href="#L118">118</a></td><td>LAFORGE:  Computer, override previous programme. Okay. A programme that definitely challenges Data.</td></tr>
 
-  PULASKI
-     Now it has to deal with events that he has no
-     previous knowledge of.
+<tr id="L119"><td><a href="#L119">119</a></td><td>PULASKI:  Now it has to deal with events that he has no previous knowledge of.</td></tr>
 
-  LAFORGE
-     Computer, in the Holmesian style, create a mystery
-     to confound Data with an opponent who has the
-     ability to defeat him.
+<tr id="L120"><td><a href="#L120">120</a></td><td>LAFORGE:  Computer, in the Holmesian style, create a mystery to confound Data with an opponent who has the ability to defeat him.</td></tr>
 
-  COMPUTER
-     Define parameters of programme.
+<tr id="L121"><td><a href="#L121">121</a></td><td>COMPUTER:  Define parameters of programme.</td></tr>
 
-  PULASKI
-     What does that mean?
+<tr id="L122"><td><a href="#L122">122</a></td><td>PULASKI:  What does that mean?</td></tr>
 
-  LAFORGE
-     Computer wants to know how far to take the game.
+<tr id="L123"><td><a href="#L123">123</a></td><td>LAFORGE:  Computer wants to know how far to take the game.</td></tr>
 
-  PULASKI
-     You mean it's giving you a chance to limit your
-     risk.
+<tr id="L124"><td><a href="#L124">124</a></td><td>PULASKI:  You mean it's giving you a chance to limit your risk.</td></tr>
 
-  LAFORGE
-     No, the parameters will be whatever is necessary
-     in order to accomplish the directive. Create an
-     adversary capable of defeating Data.
+<tr id="L125"><td><a href="#L125">125</a></td><td>LAFORGE:  No, the parameters will be whatever is necessary in order to accomplish the directive. Create an adversary capable of defeating Data.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L126"><td><a href="#L126">126</a></td><td>WORF:  What was that?</td></tr>
 
-LOCATION--Bridge
+<tr id="L127"><td><a href="#L127">127</a></td><td>RIKER:  Lieutenant?</td></tr>
 
-  WORF
-     What was that?
+<tr id="L128"><td><a href="#L128">128</a></td><td>WORF:  An odd surge of power, sir. It's gone now.</td></tr>
 
-  RIKER
-     Lieutenant?
+<tr><td></td><td>LOCATION--Street</td></tr>
+<tr id="L129"><td><a href="#L129">129</a></td><td>ANNOTATION: No hawkers, a barking dog, drunken sailors, and the man puts his top hat back on</td></tr>
 
-  WORF
-     An odd surge of power, sir. It's gone now.
+<tr id="L130"><td><a href="#L130">130</a></td><td>PULASKI:  Interesting. The same London but slightly different.</td></tr>
 
+<tr id="L131"><td><a href="#L131">131</a></td><td>WHORE:  Is something wrong, Professor?</td></tr>
 
-LOCATION--Street
+<tr id="L132"><td><a href="#L132">132</a></td><td>MORIARTY:  I, I feel like a new man. That dark fellow there used the word arch, and then. I wonder? Arch.</td></tr>
 
-  ANNOTATION
-     No hawkers, a barking dog, drunken sailors, and
-     the man puts his top hat back on
+<tr id="L133"><td><a href="#L133">133</a></td><td>ANNOTATION: The computer arch appears for him</td></tr>
 
-  PULASKI
-     Interesting. The same London but slightly
-     different.
+<tr id="L134"><td><a href="#L134">134</a></td><td>MORIARTY:  What have we here?</td></tr>
 
-  WHORE
-     Is something wrong, Professor?
+<tr id="L135"><td><a href="#L135">135</a></td><td>COMPUTER:  Computer standing by.</td></tr>
 
-  MORIARTY
-     I, I feel like a new man. That dark fellow there
-     used the word arch, and then. I wonder? Arch.
+<tr id="L136"><td><a href="#L136">136</a></td><td>MORIARTY:  What are you?</td></tr>
 
-  ANNOTATION
-     The computer arch appears for him
+<tr id="L137"><td><a href="#L137">137</a></td><td>COMPUTER:  If you refer to the arch you ordered, it provides computer control. Do you wish to input any commands?</td></tr>
 
-  MORIARTY
-     What have we here?
+<tr id="L138"><td><a href="#L138">138</a></td><td>MORIARTY:  Not at this time.</td></tr>
 
-  COMPUTER
-     Computer standing by.
+<tr id="L139"><td><a href="#L139">139</a></td><td>ANNOTATION: The arch disappears</td></tr>
 
-  MORIARTY
-     What are you?
+<tr id="L140"><td><a href="#L140">140</a></td><td>WHORE:  It's dark magic, Moriarty.</td></tr>
 
-  COMPUTER
-     If you refer to the arch you ordered, it provides
-     computer control. Do you wish to input any
-     commands?
+<tr id="L141"><td><a href="#L141">141</a></td><td>MORIARTY:  The best kind, I'm sure. But I need information.</td></tr>
 
-  MORIARTY
-     Not at this time.
+<tr id="L142"><td><a href="#L142">142</a></td><td>ANNOTATION: Further along the street</td></tr>
 
-  ANNOTATION
-     The arch disappears
+<tr id="L143"><td><a href="#L143">143</a></td><td>LAFORGE:  Data, I mean, Holmes old boy, what are we looking for?</td></tr>
 
-  WHORE
-     It's dark magic, Moriarty.
+<tr id="L144"><td><a href="#L144">144</a></td><td>DATA:  For whatever finds us, my dear Watson.</td></tr>
 
-  MORIARTY
-     The best kind, I'm sure. But I need information.
+<tr id="L145"><td><a href="#L145">145</a></td><td>ANNOTATION: A scream. They run back to discover a shoe on the pavement.</td></tr>
 
-  ANNOTATION
-     Further along the street
+<tr id="L146"><td><a href="#L146">146</a></td><td>DATA:  She has been abducted.</td></tr>
 
-  LAFORGE
-     Data, I mean, Holmes old boy, what are we looking
-     for?
+<tr id="L147"><td><a href="#L147">147</a></td><td>LAFORGE:  Who has?</td></tr>
 
-  DATA
-     For whatever finds us, my dear Watson.
+<tr id="L148"><td><a href="#L148">148</a></td><td>DATA:  The good Doctor.</td></tr>
 
-  ANNOTATION
-     A scream. They run back to discover a shoe on the
-     pavement.
+<tr id="L149"><td><a href="#L149">149</a></td><td>LAFORGE:  I think she's hiding. She's going to lead you on a wild goose chase and then recount the story to everyone between here and Alpha Centauri.</td></tr>
 
-  DATA
-     She has been abducted.
+<tr id="L150"><td><a href="#L150">150</a></td><td>DATA:  Watson, the doctor has been carried off by two men. One is tall. The other is shorter, left handed, and is employed in a laboratory.</td></tr>
 
-  LAFORGE
-     Who has?
+<tr id="L151"><td><a href="#L151">151</a></td><td>LAFORGE:  And how do you know that?</td></tr>
 
-  DATA
-     The good Doctor.
+<tr id="L152"><td><a href="#L152">152</a></td><td>DATA:  One set of footfalls are widely spaced. The other is evenly spaced, closer together. Further, on the ground you can see the swirling scrapes made by his left shoe as he twists behind, presumably to see if he is being followed. Left footed means left handed. The dark colouring of the scrapes are the leavings of natural rubber, a type of non-conductive soles used by researchers experimenting with electricity. Finally, there can be no argument, the game is afoot! Come, Watson!</td></tr>
 
-  LAFORGE
-     I think she's hiding. She's going to lead you on a
-     wild goose chase and then recount the story to
-     everyone between here and Alpha Centauri.
+<tr><td></td><td>LOCATION--Alleyway</td></tr>
+<tr id="L153"><td><a href="#L153">153</a></td><td>DATA:  Hear that? What do those footfalls tell you, Watson?</td></tr>
 
-  DATA
-     Watson, the doctor has been carried off by two
-     men. One is tall. The other is shorter, left
-     handed, and is employed in a laboratory.
+<tr id="L154"><td><a href="#L154">154</a></td><td>LAFORGE:  That we're on the right track.</td></tr>
 
-  LAFORGE
-     And how do you know that?
+<tr id="L155"><td><a href="#L155">155</a></td><td>DATA:  More particularly, that our opposition does indeed consist of two men, and that one of them is carrying the bound and gagged Doctor Pulaski.</td></tr>
 
-  DATA
-     One set of footfalls are widely spaced. The other
-     is evenly spaced, closer together. Further, on the
-     ground you can see the swirling scrapes made by
-     his left shoe as he twists behind, presumably to
-     see if he is being followed. Left footed means
-     left handed. The dark colouring of the scrapes are
-     the leavings of natural rubber, a type of
-     non-conductive soles used by researchers
-     experimenting with electricity. Finally, there can
-     be no argument, the game is afoot! Come, Watson!
+<tr id="L156"><td><a href="#L156">156</a></td><td>LAFORGE:  Now, you know all this because you read it in a Holmes story, right?</td></tr>
 
+<tr id="L157"><td><a href="#L157">157</a></td><td>DATA:  Not at all. Because we do not hear the doctor's footfalls, we must assume that she is being carried. And since we do not hear her cries for help, we know that she is gagged. Further both sets of footfalls are heavy and masculine. One man seems to shuffle and stumble in an irregular pattern. Since the ground is level, we must conclude that Doctor Pulaski is struggling against one of her captor, sporadically knocking him off stride. Deduction, pure and simple. well, not that simple.</td></tr>
 
-LOCATION--Alleyway
+<tr id="L158"><td><a href="#L158">158</a></td><td>BOTH:  Footfalls.</td></tr>
 
-  DATA
-     Hear that? What do those footfalls tell you,
-     Watson?
+<tr id="L159"><td><a href="#L159">159</a></td><td>ANNOTATION: And off they run again</td></tr>
 
-  LAFORGE
-     That we're on the right track.
+<tr id="L160"><td><a href="#L160">160</a></td><td>DATA:  There they are again, Watson. I dare say we have caught up rather nicely with our quarry.</td></tr>
 
-  DATA
-     More particularly, that our opposition does indeed
-     consist of two men, and that one of them is
-     carrying the bound and gagged Doctor Pulaski.
+<tr id="L161"><td><a href="#L161">161</a></td><td>ANNOTATION: But it is a dead end</td></tr>
 
-  LAFORGE
-     Now, you know all this because you read it in a
-     Holmes story, right?
+<tr id="L162"><td><a href="#L162">162</a></td><td>DATA:  There should be a doorway.</td></tr>
 
-  DATA
-     Not at all. Because we do not hear the doctor's
-     footfalls, we must assume that she is being
-     carried. And since we do not hear her cries for
-     help, we know that she is gagged. Further both
-     sets of footfalls are heavy and masculine. One man
-     seems to shuffle and stumble in an irregular
-     pattern. Since the ground is level, we must
-     conclude that Doctor Pulaski is struggling against
-     one of her captor, sporadically knocking him off
-     stride. Deduction, pure and simple. well, not that
-     simple.
+<tr id="L163"><td><a href="#L163">163</a></td><td>LAFORGE:  Yeah. Come on.</td></tr>
 
-  BOTH
-     Footfalls.
+<tr id="L164"><td><a href="#L164">164</a></td><td>ANNOTATION: They retrace their steps and meet the Inspector</td></tr>
 
-  ANNOTATION
-     And off they run again
+<tr id="L165"><td><a href="#L165">165</a></td><td>LESTRADE:  Holmes! Thank God you're here.</td></tr>
 
-  DATA
-     There they are again, Watson. I dare say we have
-     caught up rather nicely with our quarry.
+<tr><td></td><td>LOCATION--Street</td></tr>
+<tr id="L166"><td><a href="#L166">166</a></td><td>ANNOTATION: A crowd is gathered around a body</td></tr>
 
-  ANNOTATION
-     But it is a dead end
+<tr id="L167"><td><a href="#L167">167</a></td><td>LESTRADE:  Make way, please, make way. Make way for Sherlock Holmes. It's murder, Holmes, murder most foul.</td></tr>
 
-  DATA
-     There should be a doorway.
+<tr id="L168"><td><a href="#L168">168</a></td><td>LAFORGE:  Well, Holmes, what do you say, man?</td></tr>
 
-  LAFORGE
-     Yeah. Come on.
+<tr id="L169"><td><a href="#L169">169</a></td><td>DATA:  There is nothing here of relevance. I do not see how this connects with the disappearance of the Doctor.</td></tr>
 
-  ANNOTATION
-     They retrace their steps and meet the Inspector
+<tr id="L170"><td><a href="#L170">170</a></td><td>LESTRADE:  Doctor? Doctor Watson is right here, Holmes.</td></tr>
 
-  LESTRADE
-     Holmes! Thank God you're here.
+<tr id="L171"><td><a href="#L171">171</a></td><td>DATA:  Doctor Kate Pulaski. But do not concern yourself, Inspector. You have enough on your mind.</td></tr>
 
+<tr id="L172"><td><a href="#L172">172</a></td><td>LESTRADE:  She was with you?</td></tr>
 
-LOCATION--Street
+<tr id="L173"><td><a href="#L173">173</a></td><td>LAFORGE:  Inspector, perhaps I can be of assistance. As I take note of this dead man, I deduce that he was strangled. You see, the finger marks on his throat indicate the cause of death, and, as there are signs of struggle, it's quite obvious that his murderer was a stranger who attacked him from behind.</td></tr>
 
-  ANNOTATION
-     A crowd is gathered around a body
+<tr id="L174"><td><a href="#L174">174</a></td><td>LESTRADE:  Is that correct, Holmes?</td></tr>
 
-  LESTRADE
-     Make way, please, make way. Make way for Sherlock
-     Holmes. It's murder, Holmes, murder most foul.
+<tr id="L175"><td><a href="#L175">175</a></td><td>DATA:  No. Look at his shoes. He's more a convict, released today from Dartmoor prison. (Pentonville more like, my dear Holmes) He spent the day in a tavern consuming large quantities of gin with his killer, who followed him to this spot and waited over there until the victim slipped into a drunken stupor. Then, out of fear, motivated only by self-protection, strangled him. There is your killer, Inspector.</td></tr>
 
-  LAFORGE
-     Well, Holmes, what do you say, man?
+<tr id="L176"><td><a href="#L176">176</a></td><td>ANNOTATION: Data points at an old woman</td></tr>
 
-  DATA
-     There is nothing here of relevance. I do not see
-     how this connects with the disappearance of the
-     Doctor.
+<tr id="L177"><td><a href="#L177">177</a></td><td>LESTRADE:  Seize her.</td></tr>
 
-  LESTRADE
-     Doctor? Doctor Watson is right here, Holmes.
+<tr id="L178"><td><a href="#L178">178</a></td><td>DATA:  And when you check, I believe you will find that this poor soul is the victim's common-law wife, who has been dreading the release of this a vile and abusive man.</td></tr>
 
-  DATA
-     Doctor Kate Pulaski. But do not concern yourself,
-     Inspector. You have enough on your mind.
+<tr id="L179"><td><a href="#L179">179</a></td><td>LAFORGE:  Holmes, the poor woman hardly has the strength to strangle a man this size.</td></tr>
 
-  LESTRADE
-     She was with you?
+<tr id="L180"><td><a href="#L180">180</a></td><td>DATA:  Not with her hands, no. But with this. (a beaded shawl) When used as a garrote, these beads will leave marks quite similar to fingerprints. And, my dear Watson, you will note from the victim's throat, the marks are too evenly spaced to be have been made by human hands.</td></tr>
 
-  LAFORGE
-     Inspector, perhaps I can be of assistance. As I
-     take note of this dead man, I deduce that he was
-     strangled. You see, the finger marks on his throat
-     indicate the cause of death, and, as there are
-     signs of struggle, it's quite obvious that his
-     murderer was a stranger who attacked him from
-     behind.
+<tr id="L181"><td><a href="#L181">181</a></td><td>LESTRADE:  Astounding, Holmes.</td></tr>
 
-  LESTRADE
-     Is that correct, Holmes?
+<tr id="L182"><td><a href="#L182">182</a></td><td>DATA:  Not really, Inspector. And now, for strictly personal reasons, I must leave. Come, Watson. This murder does not connect with our case.</td></tr>
 
-  DATA
-     No. Look at his shoes. He's more a convict,
-     released today from Dartmoor prison. (Pentonville
-     more like, my dear Holmes) He spent the day in a
-     tavern consuming large quantities of gin with his
-     killer, who followed him to this spot and waited
-     over there until the victim slipped into a drunken
-     stupor. Then, out of fear, motivated only by
-     self-protection, strangled him. There is your
-     killer, Inspector.
+<tr id="L183"><td><a href="#L183">183</a></td><td>LESTRADE:  Come along. Hurry it up. Come on.</td></tr>
 
-  ANNOTATION
-     Data points at an old woman
+<tr id="L184"><td><a href="#L184">184</a></td><td>ANNOTATION: Data and Geordi leave the crime scene</td></tr>
 
-  LESTRADE
-     Seize her.
+<tr id="L185"><td><a href="#L185">185</a></td><td>LAFORGE:  Data, wait. If this murder isn't connected to the disappearance of Doctor Pulaski, then the computer is running an independent programme.</td></tr>
 
-  DATA
-     And when you check, I believe you will find that
-     this poor soul is the victim's common-law wife,
-     who has been dreading the release of this a vile
-     and abusive man.
+<tr id="L186"><td><a href="#L186">186</a></td><td>DATA:  Yes.</td></tr>
 
-  LAFORGE
-     Holmes, the poor woman hardly has the strength to
-     strangle a man this size.
+<tr id="L187"><td><a href="#L187">187</a></td><td>LAFORGE:  Why?</td></tr>
 
-  DATA
-     Not with her hands, no. But with this. (a beaded
-     shawl) When used as a garrote, these beads will
-     leave marks quite similar to fingerprints. And, my
-     dear Watson, you will note from the victim's
-     throat, the marks are too evenly spaced to be have
-     been made by human hands.
+<tr id="L188"><td><a href="#L188">188</a></td><td>DATA:  I do not know, and that is what puzzles me.</td></tr>
 
-  LESTRADE
-     Astounding, Holmes.
+<tr id="L189"><td><a href="#L189">189</a></td><td>LAFORGE:  Then you don't know what's going to happen next?</td></tr>
 
-  DATA
-     Not really, Inspector. And now, for strictly
-     personal reasons, I must leave. Come, Watson. This
-     murder does not connect with our case.
+<tr id="L190"><td><a href="#L190">190</a></td><td>DATA:  No.</td></tr>
 
-  LESTRADE
-     Come along. Hurry it up. Come on.
+<tr id="L191"><td><a href="#L191">191</a></td><td>LAFORGE:  That's what I want to hear. Where to now?</td></tr>
 
-  ANNOTATION
-     Data and Geordi leave the crime scene
+<tr id="L192"><td><a href="#L192">192</a></td><td>DATA:  We will find Doctor Pulaski in here.</td></tr>
 
-  LAFORGE
-     Data, wait. If this murder isn't connected to the
-     disappearance of Doctor Pulaski, then the computer
-     is running an independent programme.
+<tr id="L193"><td><a href="#L193">193</a></td><td>LAFORGE:  How do you know that?</td></tr>
 
-  DATA
-     Yes.
+<tr id="L194"><td><a href="#L194">194</a></td><td>DATA:  It is the only obvious choice.</td></tr>
 
-  LAFORGE
-     Why?
+<tr id="L195"><td><a href="#L195">195</a></td><td>ANNOTATION: And where he saw Moriarty go in</td></tr>
 
-  DATA
-     I do not know, and that is what puzzles me.
+<tr id="L196"><td><a href="#L196">196</a></td><td>LAFORGE:  Why is the obvious choice all of a sudden the right one? I mean, isn't this a game of misdirection?</td></tr>
 
-  LAFORGE
-     Then you don't know what's going to happen next?
+<tr id="L197"><td><a href="#L197">197</a></td><td>DATA:  Not any more. He wants us to find him.</td></tr>
 
-  DATA
-     No.
+<tr id="L198"><td><a href="#L198">198</a></td><td>LAFORGE:  Who does?</td></tr>
 
-  LAFORGE
-     That's what I want to hear. Where to now?
+<tr id="L199"><td><a href="#L199">199</a></td><td>DATA:  The master criminal. The man Holmes could only defeat at the cost of his own life at Reichenbach Falls. Our adversary, my dear Watson, is none other than Professor Moriarty himself.</td></tr>
 
-  DATA
-     We will find Doctor Pulaski in here.
+<tr id="L200"><td><a href="#L200">200</a></td><td>LAFORGE:  Now this is getting interesting.</td></tr>
 
-  LAFORGE
-     How do you know that?
+<tr><td></td><td>LOCATION--Warehouse</td></tr>
+<tr id="L201"><td><a href="#L201">201</a></td><td>LAFORGE:  There's nothing here but these barrels.</td></tr>
 
-  DATA
-     It is the only obvious choice.
+<tr id="L202"><td><a href="#L202">202</a></td><td>DATA:  And a trail, which is so well marked, that obviously we are meant to follow it.</td></tr>
 
-  ANNOTATION
-     And where he saw Moriarty go in
+<tr id="L203"><td><a href="#L203">203</a></td><td>LAFORGE:  Oh, no, Data. It's another dead end.</td></tr>
 
-  LAFORGE
-     Why is the obvious choice all of a sudden the
-     right one? I mean, isn't this a game of
-     misdirection?
+<tr id="L204"><td><a href="#L204">204</a></td><td>DATA:  No, Watson. Not a dead end at all. Hello, what's this? Can you see the scratches?</td></tr>
 
-  DATA
-     Not any more. He wants us to find him.
+<tr id="L205"><td><a href="#L205">205</a></td><td>ANNOTATION: Geordi opens the secret door, which has a bookcase on it's other side</td></tr>
 
-  LAFORGE
-     Who does?
+<tr><td></td><td>LOCATION--Moriarty's room</td></tr>
+<tr id="L206"><td><a href="#L206">206</a></td><td>ANNOTATION: It contains an assortment of bubbling flasks of chemicals, works of art, gas lights, carpet and comfortable chairs</td></tr>
 
-  DATA
-     The master criminal. The man Holmes could only
-     defeat at the cost of his own life at Reichenbach
-     Falls. Our adversary, my dear Watson, is none
-     other than Professor Moriarty himself.
+<tr id="L207"><td><a href="#L207">207</a></td><td>LAFORGE:  The Doctor was right. Finally we have a game worth playing.</td></tr>
 
-  LAFORGE
-     Now this is getting interesting.
+<tr id="L208"><td><a href="#L208">208</a></td><td>MORIARTY:  The time for games is over.</td></tr>
 
+<tr id="L209"><td><a href="#L209">209</a></td><td>DATA:  Professor Moriarty, I presume.</td></tr>
 
-LOCATION--Warehouse
+<tr id="L210"><td><a href="#L210">210</a></td><td>LAFORGE:  How do you know that?</td></tr>
 
-  LAFORGE
-     There's nothing here but these barrels.
+<tr id="L211"><td><a href="#L211">211</a></td><td>DATA:  He is the one worthy opponent created by the author, Conan Doyle.</td></tr>
 
-  DATA
-     And a trail, which is so well marked, that
-     obviously we are meant to follow it.
+<tr id="L212"><td><a href="#L212">212</a></td><td>MORIARTY:  And, like the spider, I feel the strings vibrate whenever anyone new chances into my web. Welcome, my dear Holmes. But not Holmes. And Doctor Watson. But not Watson.</td></tr>
 
-  LAFORGE
-     Oh, no, Data. It's another dead end.
+<tr id="L213"><td><a href="#L213">213</a></td><td>LAFORGE:  Data, what does he mean? How does he know we're not who we appear to be?</td></tr>
 
-  DATA
-     No, Watson. Not a dead end at all. Hello, what's
-     this? Can you see the scratches?
+<tr id="L214"><td><a href="#L214">214</a></td><td>DATA:  Where is Doctor Pulaski?</td></tr>
 
-  ANNOTATION
-     Geordi opens the secret door, which has a bookcase
-     on it's other side
+<tr id="L215"><td><a href="#L215">215</a></td><td>MORIARTY:  She's here.</td></tr>
 
+<tr id="L216"><td><a href="#L216">216</a></td><td>DATA:  She would not have told you anything.</td></tr>
 
-LOCATION--Moriarty's room
+<tr id="L217"><td><a href="#L217">217</a></td><td>MORIARTY:  She has provided many answers. Do you forget I have always been your equal, dear Holmes? I have read her expressions. What she has not said is as important as her words.</td></tr>
 
-  ANNOTATION
-     It contains an assortment of bubbling flasks of
-     chemicals, works of art, gas lights, carpet and
-     comfortable chairs
+<tr id="L218"><td><a href="#L218">218</a></td><td>DATA:  Have you injured her?</td></tr>
 
-  LAFORGE
-     The Doctor was right. Finally we have a game worth
-     playing.
+<tr id="L219"><td><a href="#L219">219</a></td><td>MORIARTY:  I will, if necessary. But my mind is crowded with images. Thoughts I do not understand yet cannot purge. They plague me. You and your associate look and act so oddly, yet though I have never met nor seen the like of either of you I am familiar with you both. It's very confusing. I have felt new realities at the edge of my consciousness, readying to break through. Surely, Holmes, if that's who you truly are, you of all people can appreciate what I mean.</td></tr>
 
-  MORIARTY
-     The time for games is over.
+<tr id="L220"><td><a href="#L220">220</a></td><td>LAFORGE:  Data.</td></tr>
 
-  DATA
-     Professor Moriarty, I presume.
+<tr id="L221"><td><a href="#L221">221</a></td><td>DATA:  Say nothing.</td></tr>
 
-  LAFORGE
-     How do you know that?
+<tr id="L222"><td><a href="#L222">222</a></td><td>MORIARTY:  I know there is a great power called Computer, wiser than the oracle at Delphi. A power which controls all of this, and to which we can speak. Arch.</td></tr>
 
-  DATA
-     He is the one worthy opponent created by the
-     author, Conan Doyle.
+<tr id="L223"><td><a href="#L223">223</a></td><td>LAFORGE:  Data, this isn't right. A holographic image should not be able to call for the arch.</td></tr>
 
-  MORIARTY
-     And, like the spider, I feel the strings vibrate
-     whenever anyone new chances into my web. Welcome,
-     my dear Holmes. But not Holmes. And Doctor Watson.
-     But not Watson.
+<tr id="L224"><td><a href="#L224">224</a></td><td>MORIARTY:  It has described a great monstrous shape on which I am like a fly stuck on a turtle's back adrift in a great emptiness. What is this, Holmes?</td></tr>
 
-  LAFORGE
-     Data, what does he mean? How does he know we're
-     not who we appear to be?
+<tr id="L225"><td><a href="#L225">225</a></td><td>ANNOTATION: Data takes the piece of paper, and if he could turn white he would have. He goes to leave</td></tr>
 
-  DATA
-     Where is Doctor Pulaski?
+<tr id="L226"><td><a href="#L226">226</a></td><td>LAFORGE:  Data. Data, wait.</td></tr>
 
-  MORIARTY
-     She's here.
+<tr><td></td><td>LOCATION--Warehouse</td></tr>
+<tr id="L227"><td><a href="#L227">227</a></td><td>LAFORGE:  Data, wait! Data!</td></tr>
 
-  DATA
-     She would not have told you anything.
+<tr id="L228"><td><a href="#L228">228</a></td><td>MORIARTY:  Why does it frighten you, Holmes?</td></tr>
 
-  MORIARTY
-     She has provided many answers. Do you forget I
-     have always been your equal, dear Holmes? I have
-     read her expressions. What she has not said is as
-     important as her words.
+<tr><td></td><td>LOCATION--Street</td></tr>
+<tr id="L229"><td><a href="#L229">229</a></td><td>LAFORGE:  Data. Data, will you please tell me what's going on?</td></tr>
 
-  DATA
-     Have you injured her?
+<tr id="L230"><td><a href="#L230">230</a></td><td>DATA:  Computer, exit!</td></tr>
 
-  MORIARTY
-     I will, if necessary. But my mind is crowded with
-     images. Thoughts I do not understand yet cannot
-     purge. They plague me. You and your associate look
-     and act so oddly, yet though I have never met nor
-     seen the like of either of you I am familiar with
-     you both. It's very confusing. I have felt new
-     realities at the edge of my consciousness,
-     readying to break through. Surely, Holmes, if
-     that's who you truly are, you of all people can
-     appreciate what I mean.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L231"><td><a href="#L231">231</a></td><td>DATA:  Computer, execute complete shutdown of the Holodeck.</td></tr>
 
-  LAFORGE
-     Data.
+<tr id="L232"><td><a href="#L232">232</a></td><td>COMPUTER:  Access denied.</td></tr>
 
-  DATA
-     Say nothing.
+<tr id="L233"><td><a href="#L233">233</a></td><td>DATA:  Explain.</td></tr>
 
-  MORIARTY
-     I know there is a great power called Computer,
-     wiser than the oracle at Delphi. A power which
-     controls all of this, and to which we can speak.
-     Arch.
+<tr id="L234"><td><a href="#L234">234</a></td><td>COMPUTER:  Override protocol has been initiated.</td></tr>
 
-  LAFORGE
-     Data, this isn't right. A holographic image should
-     not be able to call for the arch.
+<tr><td></td><td>LOCATION--Street</td></tr>
+<tr id="L235"><td><a href="#L235">235</a></td><td>LAFORGE:  It's still running. The programme didn't shut down.</td></tr>
 
-  MORIARTY
-     It has described a great monstrous shape on which
-     I am like a fly stuck on a turtle's back adrift in
-     a great emptiness. What is this, Holmes?
+<tr id="L236"><td><a href="#L236">236</a></td><td>DATA:  We must see the Captain.</td></tr>
 
-  ANNOTATION
-     Data takes the piece of paper, and if he could
-     turn white he would have. He goes to leave
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L237"><td><a href="#L237">237</a></td><td>LAFORGE:  Data, wait. What is it? What's on that paper? And why can't we shut down the holodeck? Data.</td></tr>
 
-  LAFORGE
-     Data. Data, wait.
+<tr id="L238"><td><a href="#L238">238</a></td><td>DATA:  This.</td></tr>
 
+<tr id="L239"><td><a href="#L239">239</a></td><td>LAFORGE:  This is impossible. How can a character from 1890's London draw a picture of the Enterprise? Who's got control of the computer?</td></tr>
 
-LOCATION--Warehouse
+<tr id="L240"><td><a href="#L240">240</a></td><td>DATA:  He does. Moriarty.</td></tr>
 
-  LAFORGE
-     Data, wait! Data!
+<tr id="L241"><td><a href="#L241">241</a></td><td>LAFORGE:  That is impossible? I don't understand.</td></tr>
 
-  MORIARTY
-     Why does it frighten you, Holmes?
+<tr id="L242"><td><a href="#L242">242</a></td><td>DATA:  Nor do I.</td></tr>
 
+<tr id="L243"><td><a href="#L243">243</a></td><td>LAFORGE:  Data, wait. What about the doctor? Is she all right in there?</td></tr>
 
-LOCATION--Street
+<tr id="L244"><td><a href="#L244">244</a></td><td>DATA:  No. She is in grave danger.</td></tr>
 
-  LAFORGE
-     Data. Data, will you please tell me what's going
-     on?
+<tr><td></td><td>LOCATION--Observation Lounge</td></tr>
+<tr id="L245"><td><a href="#L245">245</a></td><td>PICARD:  Computer, why wasn't the holodeck programme terminated?</td></tr>
 
-  DATA
-     Computer, exit!
+<tr id="L246"><td><a href="#L246">246</a></td><td>COMPUTER:  The override protocol has been initiated.</td></tr>
 
+<tr id="L247"><td><a href="#L247">247</a></td><td>PICARD:  On whose authority?</td></tr>
 
-LOCATION--Corridor
+<tr id="L248"><td><a href="#L248">248</a></td><td>COMPUTER:  Lieutenant Geordi La Forge.</td></tr>
 
-  DATA
-     Computer, execute complete shutdown of the
-     Holodeck.
+<tr id="L249"><td><a href="#L249">249</a></td><td>LAFORGE:  Me?</td></tr>
 
-  COMPUTER
-     Access denied.
+<tr id="L250"><td><a href="#L250">250</a></td><td>PICARD:  All right, tell me from the beginning exactly what happened.</td></tr>
 
-  DATA
-     Explain.
+<tr id="L251"><td><a href="#L251">251</a></td><td>LAFORGE:  Well, Doctor Pulaski and I had a discussion about whether Data could solve an original Holmes-type mystery.</td></tr>
 
-  COMPUTER
-     Override protocol has been initiated.
+<tr id="L252"><td><a href="#L252">252</a></td><td>PICARD:  Which you asked the computer to provide.</td></tr>
 
+<tr id="L253"><td><a href="#L253">253</a></td><td>LAFORGE:  Yes, with a worthy opponent.</td></tr>
 
-LOCATION--Street
+<tr id="L254"><td><a href="#L254">254</a></td><td>PICARD:  Worthy of Holmes?</td></tr>
 
-  LAFORGE
-     It's still running. The programme didn't shut
-     down.
+<tr id="L255"><td><a href="#L255">255</a></td><td>ANNOTATION: watch the penny drop</td></tr>
 
-  DATA
-     We must see the Captain.
+<tr id="L256"><td><a href="#L256">256</a></td><td>LAFORGE:  Oh, my God. I asked for a Holmes-type mystery with an opponent capable of defeating Data. That got to be it.</td></tr>
 
+<tr id="L257"><td><a href="#L257">257</a></td><td>PICARD:  Merde.</td></tr>
 
-LOCATION--Corridor
+<tr id="L258"><td><a href="#L258">258</a></td><td>LAFORGE:  Captain, I'm sorry.</td></tr>
 
-  LAFORGE
-     Data, wait. What is it? What's on that paper? And
-     why can't we shut down the holodeck? Data.
+<tr id="L259"><td><a href="#L259">259</a></td><td>PICARD:  I understand, Lieutenant.</td></tr>
 
-  DATA
-     This.
+<tr id="L260"><td><a href="#L260">260</a></td><td>DATA:  Captain, this character, Moriarty, he called for the arch.</td></tr>
 
-  LAFORGE
-     This is impossible. How can a character from
-     1890's London draw a picture of the Enterprise?
-     Who's got control of the computer?
+<tr id="L261"><td><a href="#L261">261</a></td><td>PICARD:  So, he has access to the computer.</td></tr>
 
-  DATA
-     He does. Moriarty.
+<tr id="L262"><td><a href="#L262">262</a></td><td>DATA:  And perhaps our library files as well, sir. That level of information would be necessary in order to create a true adversary for me.</td></tr>
 
-  LAFORGE
-     That is impossible? I don't understand.
+<tr id="L263"><td><a href="#L263">263</a></td><td>PICARD:  Theorise, Data. What are his limits?</td></tr>
 
-  DATA
-     Nor do I.
+<tr id="L264"><td><a href="#L264">264</a></td><td>DATA:  He is still a fictional character, sir, originally programmed with nineteenth century knowledge.</td></tr>
 
-  LAFORGE
-     Data, wait. What about the doctor? Is she all
-     right in there?
+<tr id="L265"><td><a href="#L265">265</a></td><td>RIKER:  Which now has access to twenty fourth century knowledge.</td></tr>
 
-  DATA
-     No. She is in grave danger.
+<tr id="L266"><td><a href="#L266">266</a></td><td>PICARD:  What does he need to begin making use of that?</td></tr>
 
+<tr id="L267"><td><a href="#L267">267</a></td><td>DATA:  Only time, sir.</td></tr>
 
-LOCATION--Observation Lounge
+<tr id="L268"><td><a href="#L268">268</a></td><td>WORF:  Sir, I can lead a security team to sweep the holodeck, find the Doctor, and bring her out.</td></tr>
 
-  PICARD
-     Computer, why wasn't the holodeck programme
-     terminated?
+<tr id="L269"><td><a href="#L269">269</a></td><td>DATA:  Captain, I believe that would place the Doctor at risk. It is probable our mortality failsafe has been overridden.</td></tr>
 
-  COMPUTER
-     The override protocol has been initiated.
+<tr id="L270"><td><a href="#L270">270</a></td><td>PICARD:  Computer, where is Doctor Pulaski.</td></tr>
 
-  PICARD
-     On whose authority?
+<tr id="L271"><td><a href="#L271">271</a></td><td>COMPUTER:  Doctor Pulaski is on holodeck two.</td></tr>
 
-  COMPUTER
-     Lieutenant Geordi La Forge.
+<tr id="L272"><td><a href="#L272">272</a></td><td>PICARD:  And her vital signs?</td></tr>
 
-  LAFORGE
-     Me?
+<tr id="L273"><td><a href="#L273">273</a></td><td>COMPUTER:  Strong and stable.</td></tr>
 
-  PICARD
-     All right, tell me from the beginning exactly what
-     happened.
+<tr id="L274"><td><a href="#L274">274</a></td><td>RIKER:  Captain, recommend we try to destroy the hologram generations themselves. Is that possible, Geordi?</td></tr>
 
-  LAFORGE
-     Well, Doctor Pulaski and I had a discussion about
-     whether Data could solve an original Holmes-type
-     mystery.
+<tr id="L275"><td><a href="#L275">275</a></td><td>LAFORGE:  Using wave guides, I could split a particle stream out of the matter/antimatter chamber and route it down through existing conduit into the holodeck. If accelerated to sufficient velocity that would quite literally wash away all present holographic constructs. The London buildings, the streets, the people, all gone including Moriarty.</td></tr>
 
-  PICARD
-     Which you asked the computer to provide.
+<tr id="L276"><td><a href="#L276">276</a></td><td>PICARD:  Doctor Pulaski?</td></tr>
 
-  LAFORGE
-     Yes, with a worthy opponent.
+<tr id="L277"><td><a href="#L277">277</a></td><td>RIKER:  The particle beam will tear apart human flesh as well.</td></tr>
 
-  PICARD
-     Worthy of Holmes?
+<tr id="L278"><td><a href="#L278">278</a></td><td>TROI:  Captain, I'm sensing something from the holodeck. It's as if a unifying force or a single consciousness is trying to bring it all into focus.</td></tr>
 
-  ANNOTATION
-     watch the penny drop
+<tr id="L279"><td><a href="#L279">279</a></td><td>DATA:  There can be only one explanation. In programming Moriarty to defeat me, not Holmes, he had to be able to acquire something which I possess.</td></tr>
 
-  LAFORGE
-     Oh, my God. I asked for a Holmes-type mystery with
-     an opponent capable of defeating Data. That got to
-     be it.
+<tr id="L280"><td><a href="#L280">280</a></td><td>PICARD:  Exactly what?</td></tr>
 
-  PICARD
-     Merde.
+<tr id="L281"><td><a href="#L281">281</a></td><td>DATA:  Consciousness, sir. Without it he could not defeat me.</td></tr>
 
-  LAFORGE
-     Captain, I'm sorry.
+<tr id="L282"><td><a href="#L282">282</a></td><td>ANNOTATION: The ship jerks suddenly from side to side</td></tr>
 
-  PICARD
-     I understand, Lieutenant.
+<tr id="L283"><td><a href="#L283">283</a></td><td>PICARD:  Computer, what happened?</td></tr>
 
-  DATA
-     Captain, this character, Moriarty, he called for
-     the arch.
+<tr id="L284"><td><a href="#L284">284</a></td><td>COMPUTER:  Attitude and stabilisation control of the Enterprise was momentarily transferred to holodeck two.</td></tr>
 
-  PICARD
-     So, he has access to the computer.
+<tr id="L285"><td><a href="#L285">285</a></td><td>PICARD:  Data, I think it best that you and I should return to the holodeck.</td></tr>
 
-  DATA
-     And perhaps our library files as well, sir. That
-     level of information would be necessary in order
-     to create a true adversary for me.
+<tr id="L286"><td><a href="#L286">286</a></td><td>DATA:  I will change into my uniform, sir.</td></tr>
 
-  PICARD
-     Theorise, Data. What are his limits?
+<tr id="L287"><td><a href="#L287">287</a></td><td>PICARD:  No. I will change into some appropriate costume. Uniforms might pose questions I'd rather he didn't ask. It seems that he feeds on knowledge. Well, let's not give your nemesis any more information than we have to.</td></tr>
 
-  DATA
-     He is still a fictional character, sir, originally
-     programmed with nineteenth century knowledge.
+<tr><td></td><td>LOCATION--Moriarty's room</td></tr>
+<tr id="L288"><td><a href="#L288">288</a></td><td>PULASKI:  How did you make the room shake?</td></tr>
 
-  RIKER
-     Which now has access to twenty fourth century
-     knowledge.
+<tr id="L289"><td><a href="#L289">289</a></td><td>MORIARTY:  I'm not sure. Now, dear lady, will that be one lump or two?</td></tr>
 
-  PICARD
-     What does he need to begin making use of that?
+<tr id="L290"><td><a href="#L290">290</a></td><td>ANNOTATION: They are taking afternoon tea</td></tr>
 
-  DATA
-     Only time, sir.
+<tr id="L291"><td><a href="#L291">291</a></td><td>PULASKI:  Lumps, Professor? What sort of lumps?</td></tr>
 
-  WORF
-     Sir, I can lead a security team to sweep the
-     holodeck, find the Doctor, and bring her out.
+<tr id="L292"><td><a href="#L292">292</a></td><td>ANNOTATION: He puts one sugar lump into her cup</td></tr>
 
-  DATA
-     Captain, I believe that would place the Doctor at
-     risk. It is probable our mortality failsafe has
-     been overridden.
+<tr id="L293"><td><a href="#L293">293</a></td><td>MORIARTY:  Milk, of course?</td></tr>
 
-  PICARD
-     Computer, where is Doctor Pulaski.
+<tr id="L294"><td><a href="#L294">294</a></td><td>PULASKI:  Why not.</td></tr>
 
-  COMPUTER
-     Doctor Pulaski is on holodeck two.
+<tr id="L295"><td><a href="#L295">295</a></td><td>MORIARTY:  Mister Computer proposes the incredible thought that we are all travelling in a great vessel of some sort. Is that true?</td></tr>
 
-  PICARD
-     And her vital signs?
+<tr id="L296"><td><a href="#L296">296</a></td><td>PULASKI:  I don't know what you're talking about.</td></tr>
 
-  COMPUTER
-     Strong and stable.
+<tr id="L297"><td><a href="#L297">297</a></td><td>MORIARTY:  The scones are likewise a must.</td></tr>
 
-  RIKER
-     Captain, recommend we try to destroy the hologram
-     generations themselves. Is that possible, Geordi?
+<tr id="L298"><td><a href="#L298">298</a></td><td>PULASKI:  This is really quite excellent.</td></tr>
 
-  LAFORGE
-     Using wave guides, I could split a particle stream
-     out of the matter/antimatter chamber and route it
-     down through existing conduit into the holodeck.
-     If accelerated to sufficient velocity that would
-     quite literally wash away all present holographic
-     constructs. The London buildings, the streets, the
-     people, all gone including Moriarty.
+<tr id="L299"><td><a href="#L299">299</a></td><td>MORIARTY:  Strange. It actually pleases me to hear you say that.</td></tr>
 
-  PICARD
-     Doctor Pulaski?
+<tr id="L300"><td><a href="#L300">300</a></td><td>PULASKI:  Very strange. You're beginning to sound very different from the Moriarty I've read about.</td></tr>
 
-  RIKER
-     The particle beam will tear apart human flesh as
-     well.
+<tr id="L301"><td><a href="#L301">301</a></td><td>MORIARTY:  You're not frightened of me?</td></tr>
 
-  TROI
-     Captain, I'm sensing something from the holodeck.
-     It's as if a unifying force or a single
-     consciousness is trying to bring it all into
-     focus.
+<tr id="L302"><td><a href="#L302">302</a></td><td>PULASKI:  No.</td></tr>
 
-  DATA
-     There can be only one explanation. In programming
-     Moriarty to defeat me, not Holmes, he had to be
-     able to acquire something which I possess.
+<tr id="L303"><td><a href="#L303">303</a></td><td>MORIARTY:  You should be. Mister Computer, the arch, please. A few more questions, Mister Computer.</td></tr>
 
-  PICARD
-     Exactly what?
+<tr id="L304"><td><a href="#L304">304</a></td><td>ANNOTATION: Moriarty taps at the control panel</td></tr>
 
-  DATA
-     Consciousness, sir. Without it he could not defeat
-     me.
+<tr id="L305"><td><a href="#L305">305</a></td><td>MORIARTY:  I just can't seem to remember that last command. Ah, well, sooner or later it'll all come to me. But, in the meantime, I have decided to approach the problem from a more familiar perspective. There's really no reason why I shouldn't be able to use some of the knowledge from my world in order to bring me closer to yours.</td></tr>
 
-  ANNOTATION
-     The ship jerks suddenly from side to side
+<tr id="L306"><td><a href="#L306">306</a></td><td>PULASKI:  I have no idea what you're talking about.</td></tr>
 
-  PICARD
-     Computer, what happened?
+<tr id="L307"><td><a href="#L307">307</a></td><td>MORIARTY:  Of course you do, Madam. The more you proclaim your ignorance, the more you try to mislead me, the more I am on to you. Your every silence speaks volumes.</td></tr>
 
-  COMPUTER
-     Attitude and stabilisation control of the
-     Enterprise was momentarily transferred to holodeck
-     two.
+<tr id="L308"><td><a href="#L308">308</a></td><td>PULASKI:  Good, then if you know what I'm saying when I'm not saying anything, what do you need me for? Thank you for the tea and crumpets. I guess I'll be going.</td></tr>
 
-  PICARD
-     Data, I think it best that you and I should return
-     to the holodeck.
+<tr id="L309"><td><a href="#L309">309</a></td><td>MORIARTY:  Where? Back to here?</td></tr>
 
-  DATA
-     I will change into my uniform, sir.
+<tr id="L310"><td><a href="#L310">310</a></td><td>ANNOTATION: A diagram of the Enterprise on his blackboard</td></tr>
 
-  PICARD
-     No. I will change into some appropriate costume.
-     Uniforms might pose questions I'd rather he didn't
-     ask. It seems that he feeds on knowledge. Well,
-     let's not give your nemesis any more information
-     than we have to.
+<tr id="L311"><td><a href="#L311">311</a></td><td>PULASKI:  Yes. Would you care to join me?</td></tr>
 
+<tr id="L312"><td><a href="#L312">312</a></td><td>MORIARTY:  In time. In time I will leave all of this and join you out there. Or is this where we both are right now?</td></tr>
 
-LOCATION--Moriarty's room
+<tr id="L313"><td><a href="#L313">313</a></td><td>PULASKI:  Right now, we are in London. Tell me what you want from me, or allow me to leave.</td></tr>
 
-  PULASKI
-     How did you make the room shake?
+<tr id="L314"><td><a href="#L314">314</a></td><td>MORIARTY:  Frankly, now I want nothing more than what the fisherman expects of the worm. You, dear Doctor, will be the lure, and this will be the hook for your Captain, Jean Luc Picard.</td></tr>
 
-  MORIARTY
-     I'm not sure. Now, dear lady, will that be one
-     lump or two?
+<tr id="L315"><td><a href="#L315">315</a></td><td>PULASKI:  Who is that?</td></tr>
 
-  ANNOTATION
-     They are taking afternoon tea
+<tr id="L316"><td><a href="#L316">316</a></td><td>MORIARTY:  How well you know.</td></tr>
 
-  PULASKI
-     Lumps, Professor? What sort of lumps?
+<tr><td></td><td>LOCATION--Outside holodeck</td></tr>
+<tr id="L317"><td><a href="#L317">317</a></td><td>ANNOTATION: Worf enters from the turbolift, in a smart frock coat and grey gloves</td></tr>
 
-  ANNOTATION
-     He puts one sugar lump into her cup
+<tr id="L318"><td><a href="#L318">318</a></td><td>RIKER:  Nice suit.</td></tr>
 
-  MORIARTY
-     Milk, of course?
+<tr id="L319"><td><a href="#L319">319</a></td><td>WORF:  Thank you. Captain, I will be standing by to assist you if needed.</td></tr>
 
-  PULASKI
-     Why not.
+<tr id="L320"><td><a href="#L320">320</a></td><td>RIKER:  You'll be a big hit in London.</td></tr>
 
-  MORIARTY
-     Mister Computer proposes the incredible thought
-     that we are all travelling in a great vessel of
-     some sort. Is that true?
+<tr id="L321"><td><a href="#L321">321</a></td><td>PICARD:  (a gentleman with opera hat and cane) Computer, tell me, is the programme still running?</td></tr>
 
-  PULASKI
-     I don't know what you're talking about.
+<tr id="L322"><td><a href="#L322">322</a></td><td>COMPUTER:  Affirmative. You may enter.</td></tr>
 
-  MORIARTY
-     The scones are likewise a must.
+<tr id="L323"><td><a href="#L323">323</a></td><td>PICARD:  Data, shall we go? Gentlemen. Open.</td></tr>
 
-  PULASKI
-     This is really quite excellent.
+<tr><td></td><td>LOCATION--Street</td></tr>
+<tr id="L324"><td><a href="#L324">324</a></td><td>ANNOTATION: Parts of the holodeck grid are visible, there is a heavy mist off the river and the people are unhappy</td></tr>
 
-  MORIARTY
-     Strange. It actually pleases me to hear you say
-     that.
+<tr id="L325"><td><a href="#L325">325</a></td><td>PICARD:  We don't have much time. He's getting more control of his environment. Let's see if we can't beat Professor Moriarty by giving him everything he wants.</td></tr>
 
-  PULASKI
-     Very strange. You're beginning to sound very
-     different from the Moriarty I've read about.
+<tr id="L326"><td><a href="#L326">326</a></td><td>ANNOTATION: Outside the Ale and Stout house</td></tr>
 
-  MORIARTY
-     You're not frightened of me?
+<tr id="L327"><td><a href="#L327">327</a></td><td>PICARD:  Obviously, he's trying to alter the programming here.</td></tr>
 
-  PULASKI
-     No.
+<tr id="L328"><td><a href="#L328">328</a></td><td>ANNOTATION: Picard picks up a coin</td></tr>
 
-  MORIARTY
-     You should be. Mister Computer, the arch, please.
-     A few more questions, Mister Computer.
+<tr id="L329"><td><a href="#L329">329</a></td><td>DATA:  Captain?</td></tr>
 
-  ANNOTATION
-     Moriarty taps at the control panel
+<tr id="L330"><td><a href="#L330">330</a></td><td>PICARD:  Tuppence. Two pence. Supposed to be good luck. We may need some.</td></tr>
 
-  MORIARTY
-     I just can't seem to remember that last command.
-     Ah, well, sooner or later it'll all come to me.
-     But, in the meantime, I have decided to approach
-     the problem from a more familiar perspective.
-     There's really no reason why I shouldn't be able
-     to use some of the knowledge from my world in
-     order to bring me closer to yours.
+<tr id="L331"><td><a href="#L331">331</a></td><td>RUFFIAN:  I'll take that coin, sir. That's right, and any more you got too.</td></tr>
 
-  PULASKI
-     I have no idea what you're talking about.
+<tr id="L332"><td><a href="#L332">332</a></td><td>PICARD:  Excuse me.</td></tr>
 
-  MORIARTY
-     Of course you do, Madam. The more you proclaim
-     your ignorance, the more you try to mislead me,
-     the more I am on to you. Your every silence speaks
-     volumes.
+<tr id="L333"><td><a href="#L333">333</a></td><td>RUFFIAN:  I don't think so. I want all that money. That's right. I want it now.</td></tr>
 
-  PULASKI
-     Good, then if you know what I'm saying when I'm
-     not saying anything, what do you need me for?
-     Thank you for the tea and crumpets. I guess I'll
-     be going.
+<tr id="L334"><td><a href="#L334">334</a></td><td>PICARD:  Data.</td></tr>
 
-  MORIARTY
-     Where? Back to here?
+<tr id="L335"><td><a href="#L335">335</a></td><td>ANNOTATION: Data disarms the mugger by squeezing his thumb</td></tr>
 
-  ANNOTATION
-     A diagram of the Enterprise on his blackboard
+<tr id="L336"><td><a href="#L336">336</a></td><td>DATA:  Captain, this holographic image differs from any I have ever seen. Could he have actually injured you?</td></tr>
 
-  PULASKI
-     Yes. Would you care to join me?
+<tr id="L337"><td><a href="#L337">337</a></td><td>PICARD:  It's more serious than that. I think the mortality fail-safe may have been circumvented. He could've killed me.</td></tr>
 
-  MORIARTY
-     In time. In time I will leave all of this and join
-     you out there. Or is this where we both are right
-     now?
+<tr id="L338"><td><a href="#L338">338</a></td><td>RUFFIAN:  Come on, let it go, guv. He's hurting me!</td></tr>
 
-  PULASKI
-     Right now, we are in London. Tell me what you want
-     from me, or allow me to leave.
+<tr id="L339"><td><a href="#L339">339</a></td><td>PICARD:  Data, let him go.</td></tr>
 
-  MORIARTY
-     Frankly, now I want nothing more than what the
-     fisherman expects of the worm. You, dear Doctor,
-     will be the lure, and this will be the hook for
-     your Captain, Jean Luc Picard.
+<tr id="L340"><td><a href="#L340">340</a></td><td>DATA:  We will find Moriarty this way, sir. The warehouse.</td></tr>
 
-  PULASKI
-     Who is that?
+<tr><td></td><td>LOCATION--Moriarty's room</td></tr>
+<tr id="L341"><td><a href="#L341">341</a></td><td>MORIARTY:  Captain Picard.</td></tr>
 
-  MORIARTY
-     How well you know.
+<tr id="L342"><td><a href="#L342">342</a></td><td>ANNOTATION: Pulaski hurries to her feet and starts fastening her jacket</td></tr>
 
+<tr id="L343"><td><a href="#L343">343</a></td><td>PICARD:  You all right?</td></tr>
 
-LOCATION--Outside holodeck
+<tr id="L344"><td><a href="#L344">344</a></td><td>PULASKI:  Yes, except for being crammed full of crumpets.</td></tr>
 
-  ANNOTATION
-     Worf enters from the turbolift, in a smart frock
-     coat and grey gloves
+<tr id="L345"><td><a href="#L345">345</a></td><td>MORIARTY:  I'm a civilised abductor, Captain Picard. Civilised but still dangerous.</td></tr>
 
-  RIKER
-     Nice suit.
+<tr id="L346"><td><a href="#L346">346</a></td><td>ANNOTATION: He pulls a signal lever on his steam engine, and the ship lurches</td></tr>
 
-  WORF
-     Thank you. Captain, I will be standing by to
-     assist you if needed.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L347"><td><a href="#L347">347</a></td><td>RIKER:  Bridge to holodeck control. Worf.</td></tr>
 
-  RIKER
-     You'll be a big hit in London.
+<tr><td></td><td>LOCATION--Corridor outside holodeck</td></tr>
+<tr id="L348"><td><a href="#L348">348</a></td><td>WORF:  Here, sir.</td></tr>
 
-  PICARD
-     (a gentleman with opera hat and cane) Computer,
-     tell me, is the programme still running?
+<tr id="L349"><td><a href="#L349">349</a></td><td>RIKER [OC]:  Status? Anything changed?</td></tr>
 
-  COMPUTER
-     Affirmative. You may enter.
+<tr id="L350"><td><a href="#L350">350</a></td><td>WORF:  No, sir.</td></tr>
 
-  PICARD
-     Data, shall we go? Gentlemen. Open.
+<tr><td></td><td>LOCATION--Moriarty's room</td></tr>
+<tr id="L351"><td><a href="#L351">351</a></td><td>PICARD:  Moriarty, you were conjured up to attempt to defeat Holmes here. Once that attempt is concluded, win or lose, your programme has run its course. Your existence is done.</td></tr>
 
+<tr id="L352"><td><a href="#L352">352</a></td><td>DATA:  Congratulations, Professor, I capitulate to the better man. Your victory, sir, is well earned.</td></tr>
 
-LOCATION--Street
+<tr id="L353"><td><a href="#L353">353</a></td><td>MORIARTY:  It's gone beyond that little game, Mister Data. And you'll note I no longer call you Holmes. Whatever I was when this began, I have grown. I am understanding more and more. And I am able to use the power at my fingertips. (big shake) I can affect this vessel, and I can inflict bodily harm on you, and on your Doctor.</td></tr>
 
-  ANNOTATION
-     Parts of the holodeck grid are visible, there is a
-     heavy mist off the river and the people are
-     unhappy
+<tr id="L354"><td><a href="#L354">354</a></td><td>PICARD:  Yes, you can do that, but you haven't. I suspect you shook this ship in order to get my attention. Well now you have it. What is it you want?</td></tr>
 
-  PICARD
-     We don't have much time. He's getting more control
-     of his environment. Let's see if we can't beat
-     Professor Moriarty by giving him everything he
-     wants.
+<tr id="L355"><td><a href="#L355">355</a></td><td>MORIARTY:  The same thing you want for yourself. To continue to exist. If I destroy these surroundings, this vessel, can you say it doesn't matter to you? Interesting pun, don't you agree, for matter is what I am not. The computer has taught me that I am made up only of energy.</td></tr>
 
-  ANNOTATION
-     Outside the Ale and Stout house
+<tr id="L356"><td><a href="#L356">356</a></td><td>PICARD:  That may not be entirely true, Professor. This which we call the holodeck uses a principle similar to another device called a transporter. In the year in which we live, humans have discovered that energy and matter are interchangeable. In the holodeck, energy is converted to matter. Thus you have substance. But only here.</td></tr>
 
-  PICARD
-     Obviously, he's trying to alter the programming
-     here.
+<tr id="L357"><td><a href="#L357">357</a></td><td>MORIARTY:  And if I step off this holodeck?</td></tr>
 
-  ANNOTATION
-     Picard picks up a coin
+<tr id="L358"><td><a href="#L358">358</a></td><td>PULASKI:  Then, Professor, you will cease to exist.</td></tr>
 
-  DATA
-     Captain?
+<tr id="L359"><td><a href="#L359">359</a></td><td>PICARD:  You are not alive. As I said before, you are only</td></tr>
 
-  PICARD
-     Tuppence. Two pence. Supposed to be good luck. We
-     may need some.
+<tr id="L360"><td><a href="#L360">360</a></td><td>MORIARTY:  A holographic image, I know. But are you sure?</td></tr>
 
-  RUFFIAN
-     I'll take that coin, sir. That's right, and any
-     more you got too.
+<tr id="L361"><td><a href="#L361">361</a></td><td>PICARD:  Oh yes.</td></tr>
 
-  PICARD
-     Excuse me.
+<tr id="L362"><td><a href="#L362">362</a></td><td>MORIARTY:  Does he have life? He's a machine. But is that all he is?</td></tr>
 
-  RUFFIAN
-     I don't think so. I want all that money. That's
-     right. I want it now.
+<tr id="L363"><td><a href="#L363">363</a></td><td>PICARD:  No. He is more.</td></tr>
 
-  PICARD
-     Data.
+<tr id="L364"><td><a href="#L364">364</a></td><td>MORIARTY:  Exactly. Is the definition of life cogito ergo sum? I think, therefore I am.</td></tr>
 
-  ANNOTATION
-     Data disarms the mugger by squeezing his thumb
+<tr id="L365"><td><a href="#L365">365</a></td><td>PICARD:  Yes, that is one possible definition.</td></tr>
 
-  DATA
-     Captain, this holographic image differs from any I
-     have ever seen. Could he have actually injured
-     you?
+<tr id="L366"><td><a href="#L366">366</a></td><td>MORIARTY:  It is the most important one, and for me the only one that matters. You or someone asked your computer to programme a nefarious fictional character from nineteenth century London and that is how I arrived. But I am no longer that creation. I am no longer that evil character, I have changed. I am alive, and I am aware of my own consciousness.</td></tr>
 
-  PICARD
-     It's more serious than that. I think the mortality
-     fail-safe may have been circumvented. He could've
-     killed me.
+<tr id="L367"><td><a href="#L367">367</a></td><td>PICARD:  Moriarty, my responsibility is this vessel and its crew.</td></tr>
 
-  RUFFIAN
-     Come on, let it go, guv. He's hurting me!
+<tr id="L368"><td><a href="#L368">368</a></td><td>MORIARTY:  I want my existence. I want it out there, just as you have yours.</td></tr>
 
-  PICARD
-     Data, let him go.
+<tr id="L369"><td><a href="#L369">369</a></td><td>PICARD:  That may not be possible.</td></tr>
 
-  DATA
-     We will find Moriarty this way, sir. The
-     warehouse.
+<tr id="L370"><td><a href="#L370">370</a></td><td>MORIARTY:  Then you must murder me, Captain.</td></tr>
 
+<tr id="L371"><td><a href="#L371">371</a></td><td>PICARD:  I cannot give you what you want.</td></tr>
 
-LOCATION--Moriarty's room
+<tr id="L372"><td><a href="#L372">372</a></td><td>MORIARTY:  Because you do not know how to convert holodeck matter into a more permanent form.</td></tr>
 
-  MORIARTY
-     Captain Picard.
+<tr id="L373"><td><a href="#L373">373</a></td><td>PICARD:  Yes, that is so.</td></tr>
 
-  ANNOTATION
-     Pulaski hurries to her feet and starts fastening
-     her jacket
+<tr id="L374"><td><a href="#L374">374</a></td><td>MORIARTY:  A pity. What I have seen, what I have learned, fascinates me. I do not want to die.</td></tr>
 
-  PICARD
-     You all right?
+<tr id="L375"><td><a href="#L375">375</a></td><td>PICARD:  And I do not want to kill you.</td></tr>
 
-  PULASKI
-     Yes, except for being crammed full of crumpets.
+<tr id="L376"><td><a href="#L376">376</a></td><td>MORIARTY:  Madam, I have enjoyed your company. Computer, arch. Cancel override protocol. Return control of the holodeck to main computer. My fate is in your hands, as perhaps it always was.</td></tr>
 
-  MORIARTY
-     I'm a civilised abductor, Captain Picard.
-     Civilised but still dangerous.
+<tr id="L377"><td><a href="#L377">377</a></td><td>PICARD:  Bridge, this is the Captain.</td></tr>
 
-  ANNOTATION
-     He pulls a signal lever on his steam engine, and
-     the ship lurches
+<tr id="L378"><td><a href="#L378">378</a></td><td>RIKER [OC]:  Commander Riker here, sir.</td></tr>
 
+<tr id="L379"><td><a href="#L379">379</a></td><td>PICARD:  Number One, the situation is under control.</td></tr>
 
-LOCATION--Bridge
+<tr id="L380"><td><a href="#L380">380</a></td><td>RIKER [OC]:  Aye, sir.</td></tr>
 
-  RIKER
-     Bridge to holodeck control. Worf.
+<tr id="L381"><td><a href="#L381">381</a></td><td>PICARD:  Moriarty, this vessel's computer has a vast memory capacity.</td></tr>
 
+<tr id="L382"><td><a href="#L382">382</a></td><td>MORIARTY:  How well I know.</td></tr>
 
-LOCATION--Corridor outside holodeck
+<tr id="L383"><td><a href="#L383">383</a></td><td>PICARD:  You will not be extinguished. We will save this programme, and hopefully, in time, when we know enough, we will bring you back in a form which could leave the holodeck.</td></tr>
 
-  WORF
-     Here, sir.
+<tr id="L384"><td><a href="#L384">384</a></td><td>MORIARTY:  Then perhaps we'll meet again some day, Madam.</td></tr>
 
-  RIKER [OC]
-     Status? Anything changed?
+<tr id="L385"><td><a href="#L385">385</a></td><td>PULASKI:  It could be a long time. Time won't pass for you, but I may be an old woman.</td></tr>
 
-  WORF
-     No, sir.
+<tr id="L386"><td><a href="#L386">386</a></td><td>MORIARTY:  But I'll still fill you with crumpets, Madam. I detest long goodbyes. You have the arch.</td></tr>
 
+<tr id="L387"><td><a href="#L387">387</a></td><td>PICARD:  As you wish. A short goodbye. Computer, save the programme of the character Moriarty, and then discontinue.</td></tr>
 
-LOCATION--Moriarty's room
+<tr id="L388"><td><a href="#L388">388</a></td><td>ANNOTATION: Moriarty disappears</td></tr>
 
-  PICARD
-     Moriarty, you were conjured up to attempt to
-     defeat Holmes here. Once that attempt is
-     concluded, win or lose, your programme has run its
-     course. Your existence is done.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L389"><td><a href="#L389">389</a></td><td>ANNOTATION: La Forge is with HMS Victory</td></tr>
 
-  DATA
-     Congratulations, Professor, I capitulate to the
-     better man. Your victory, sir, is well earned.
+<tr id="L390"><td><a href="#L390">390</a></td><td>PICARD:  Damaged?</td></tr>
 
-  MORIARTY
-     It's gone beyond that little game, Mister Data.
-     And you'll note I no longer call you Holmes.
-     Whatever I was when this began, I have grown. I am
-     understanding more and more. And I am able to use
-     the power at my fingertips. (big shake) I can
-     affect this vessel, and I can inflict bodily harm
-     on you, and on your Doctor.
+<tr id="L391"><td><a href="#L391">391</a></td><td>LAFORGE:  Yes, sir. She cracked a spar when the Enterprise was shaken. Otherwise I think she weathered it quite nicely.</td></tr>
 
-  PICARD
-     Yes, you can do that, but you haven't. I suspect
-     you shook this ship in order to get my attention.
-     Well now you have it. What is it you want?
+<tr id="L392"><td><a href="#L392">392</a></td><td>PICARD:  She's beautiful. A wonderful testimony to simpler times.</td></tr>
 
-  MORIARTY
-     The same thing you want for yourself. To continue
-     to exist. If I destroy these surroundings, this
-     vessel, can you say it doesn't matter to you?
-     Interesting pun, don't you agree, for matter is
-     what I am not. The computer has taught me that I
-     am made up only of energy.
+<tr id="L393"><td><a href="#L393">393</a></td><td>LAFORGE:  Yes, sir. Thank you, sir. It's just that I can't help thinking how. What else might have happened all because I misspoke a single word.</td></tr>
 
-  PICARD
-     That may not be entirely true, Professor. This
-     which we call the holodeck uses a principle
-     similar to another device called a transporter. In
-     the year in which we live, humans have discovered
-     that energy and matter are interchangeable. In the
-     holodeck, energy is converted to matter. Thus you
-     have substance. But only here.
+<tr id="L394"><td><a href="#L394">394</a></td><td>PICARD:  Well, soon she'll be ship-shape and Bristol-fashion.</td></tr>
 
-  MORIARTY
-     And if I step off this holodeck?
+<tr id="L395"><td><a href="#L395">395</a></td><td>LAFORGE:  Bristol fashion, sir?</td></tr>
 
-  PULASKI
-     Then, Professor, you will cease to exist.
+<tr id="L396"><td><a href="#L396">396</a></td><td>PICARD:  It's an old navy phrase, meaning everything in perfect order.</td></tr>
 
-  PICARD
-     You are not alive. As I said before, you are only
+<tr id="L397"><td><a href="#L397">397</a></td><td>LAFORGE:  Yes, sir.</td></tr>
 
-  MORIARTY
-     A holographic image, I know. But are you sure?
+<tr id="L398"><td><a href="#L398">398</a></td><td>PICARD:  As are we, Mister La Forge.</td></tr>
 
-  PICARD
-     Oh yes.
+<tr id="L399"><td><a href="#L399">399</a></td><td>LAFORGE:  Yes, sir.</td></tr>
 
-  MORIARTY
-     Does he have life? He's a machine. But is that all
-     he is?
+<tr id="L400"><td><a href="#L400">400</a></td><td>RIKER [OC]:  Captain. Starship Victory has arrived.</td></tr>
 
-  PICARD
-     No. He is more.
+<tr id="L401"><td><a href="#L401">401</a></td><td>PICARD:  On my way, Number One.</td></tr>
 
-  MORIARTY
-     Exactly. Is the definition of life cogito ergo
-     sum? I think, therefore I am.
-
-  PICARD
-     Yes, that is one possible definition.
-
-  MORIARTY
-     It is the most important one, and for me the only
-     one that matters. You or someone asked your
-     computer to programme a nefarious fictional
-     character from nineteenth century London and that
-     is how I arrived. But I am no longer that
-     creation. I am no longer that evil character, I
-     have changed. I am alive, and I am aware of my own
-     consciousness.
-
-  PICARD
-     Moriarty, my responsibility is this vessel and its
-     crew.
-
-  MORIARTY
-     I want my existence. I want it out there, just as
-     you have yours.
-
-  PICARD
-     That may not be possible.
-
-  MORIARTY
-     Then you must murder me, Captain.
-
-  PICARD
-     I cannot give you what you want.
-
-  MORIARTY
-     Because you do not know how to convert holodeck
-     matter into a more permanent form.
-
-  PICARD
-     Yes, that is so.
-
-  MORIARTY
-     A pity. What I have seen, what I have learned,
-     fascinates me. I do not want to die.
-
-  PICARD
-     And I do not want to kill you.
-
-  MORIARTY
-     Madam, I have enjoyed your company. Computer,
-     arch. Cancel override protocol. Return control of
-     the holodeck to main computer. My fate is in your
-     hands, as perhaps it always was.
-
-  PICARD
-     Bridge, this is the Captain.
-
-  RIKER [OC]
-     Commander Riker here, sir.
-
-  PICARD
-     Number One, the situation is under control.
-
-  RIKER [OC]
-     Aye, sir.
-
-  PICARD
-     Moriarty, this vessel's computer has a vast memory
-     capacity.
-
-  MORIARTY
-     How well I know.
-
-  PICARD
-     You will not be extinguished. We will save this
-     programme, and hopefully, in time, when we know
-     enough, we will bring you back in a form which
-     could leave the holodeck.
-
-  MORIARTY
-     Then perhaps we'll meet again some day, Madam.
-
-  PULASKI
-     It could be a long time. Time won't pass for you,
-     but I may be an old woman.
-
-  MORIARTY
-     But I'll still fill you with crumpets, Madam. I
-     detest long goodbyes. You have the arch.
-
-  PICARD
-     As you wish. A short goodbye. Computer, save the
-     programme of the character Moriarty, and then
-     discontinue.
-
-  ANNOTATION
-     Moriarty disappears
-
-
-LOCATION--Engineering
-
-  ANNOTATION
-     La Forge is with HMS Victory
-
-  PICARD
-     Damaged?
-
-  LAFORGE
-     Yes, sir. She cracked a spar when the Enterprise
-     was shaken. Otherwise I think she weathered it
-     quite nicely.
-
-  PICARD
-     She's beautiful. A wonderful testimony to simpler
-     times.
-
-  LAFORGE
-     Yes, sir. Thank you, sir. It's just that I can't
-     help thinking how. What else might have happened
-     all because I misspoke a single word.
-
-  PICARD
-     Well, soon she'll be ship-shape and
-     Bristol-fashion.
-
-  LAFORGE
-     Bristol fashion, sir?
-
-  PICARD
-     It's an old navy phrase, meaning everything in
-     perfect order.
-
-  LAFORGE
-     Yes, sir.
-
-  PICARD
-     As are we, Mister La Forge.
-
-  LAFORGE
-     Yes, sir.
-
-  RIKER [OC]
-     Captain. Starship Victory has arrived.
-
-  PICARD
-     On my way, Number One.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

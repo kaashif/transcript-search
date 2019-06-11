@@ -1,1209 +1,604 @@
-Birthright, part 1
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>Birthright, part 1</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Promenade</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>CRUSHER:  I should be through with the water contaminant analysis in a few hours. Then I'm going to check out one of the holosuites. They have got a relaxation programme here, Jean-Luc, from Alture Seven. Listen to this. First they bath you in a protein bath. Then a cloud of chromal vapour carries you into a meditation chamber. You should try it.</td></tr>
 
-LOCATION--Promenade
+<tr id="L2"><td><a href="#L2">2</a></td><td>PICARD:  Well, I'll be too busy discussing the finer points of water management with ten Bajoran bureaucrats. And they won't be carrying me on a cloud of chromal vapour. Ops.</td></tr>
 
-  CRUSHER
-     I should be through with the water contaminant
-     analysis in a few hours. Then I'm going to check
-     out one of the holosuites. They have got a
-     relaxation programme here, Jean-Luc, from Alture
-     Seven. Listen to this. First they bath you in a
-     protein bath. Then a cloud of chromal vapour
-     carries you into a meditation chamber. You should
-     try it.
+<tr><td></td><td>LOCATION--Replimat</td></tr>
+<tr id="L3"><td><a href="#L3">3</a></td><td>WORF:  What is this?</td></tr>
 
-  PICARD
-     Well, I'll be too busy discussing the finer points
-     of water management with ten Bajoran bureaucrats.
-     And they won't be carrying me on a cloud of
-     chromal vapour. Ops.
+<tr id="L4"><td><a href="#L4">4</a></td><td>LAFORGE:  It's pasta al fiorella. One of my favourites. Don't worry, you'll love it. You know, I really want to take a look at those Ktarian antiques. I understand they've got a twenty first century plasma coil in almost perfect condition. (pushes plate away) I'll have to talk to Chief O'Brien about these replicators. Worf, I don't see how you can eat that stuff. It tastes like liquid polymer.</td></tr>
 
+<tr id="L5"><td><a href="#L5">5</a></td><td>WORF:  Delicious.</td></tr>
 
-LOCATION--Replimat
+<tr id="L6"><td><a href="#L6">6</a></td><td>LAFORGE:  You know, I think I'm going to try that kiosk on the other side of the promenade. It looked like they had some real food.</td></tr>
 
-  WORF
-     What is this?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L7"><td><a href="#L7">7</a></td><td>DATA:  Commander, I am reading a minor power drain in the starboard EPS conduit.</td></tr>
 
-  LAFORGE
-     It's pasta al fiorella. One of my favourites.
-     Don't worry, you'll love it. You know, I really
-     want to take a look at those Ktarian antiques. I
-     understand they've got a twenty first century
-     plasma coil in almost perfect condition. (pushes
-     plate away) I'll have to talk to Chief O'Brien
-     about these replicators. Worf, I don't see how you
-     can eat that stuff. It tastes like liquid polymer.
+<tr id="L8"><td><a href="#L8">8</a></td><td>RIKER:  What's causing it?</td></tr>
 
-  WORF
-     Delicious.
+<tr id="L9"><td><a href="#L9">9</a></td><td>DATA:  The problem's originating in Sickbay. There has been an unauthorized access into the computer's bio-imaging systems.</td></tr>
 
-  LAFORGE
-     You know, I think I'm going to try that kiosk on
-     the other side of the promenade. It looked like
-     they had some real food.
+<tr id="L10"><td><a href="#L10">10</a></td><td>RIKER:  You'd better check it out.</td></tr>
 
+<tr id="L11"><td><a href="#L11">11</a></td><td>DATA:  Aye, sir.</td></tr>
 
-LOCATION--Bridge
+<tr><td></td><td>LOCATION--Medical lab</td></tr>
+<tr id="L12"><td><a href="#L12">12</a></td><td>ANNOTATION: a young, eager, intense Doctor in engrossed in what he is doing</td></tr>
 
-  DATA
-     Commander, I am reading a minor power drain in the
-     starboard EPS conduit.
+<tr id="L13"><td><a href="#L13">13</a></td><td>DATA:  Excuse me. Do you have authorisation to work in this area?</td></tr>
 
-  RIKER
-     What's causing it?
+<tr id="L14"><td><a href="#L14">14</a></td><td>BASHIR:  Come in, come in. I need a hand with this field generator. See if you can boost the power output to sixty five percent.</td></tr>
 
-  DATA
-     The problem's originating in Sickbay. There has
-     been an unauthorized access into the computer's
-     bio-imaging systems.
+<tr id="L15"><td><a href="#L15">15</a></td><td>DATA:  I am sorry, but use of sickbay equipment is limited to ship's medical personnel.</td></tr>
 
-  RIKER
-     You'd better check it out.
+<tr id="L16"><td><a href="#L16">16</a></td><td>BASHIR:  Ah. Doctor Julian Bashir, Chief Medical officer, Deep Space Nine. And you are Commander?</td></tr>
 
-  DATA
-     Aye, sir.
+<tr id="L17"><td><a href="#L17">17</a></td><td>DATA:  Data.</td></tr>
 
+<tr id="L18"><td><a href="#L18">18</a></td><td>BASHIR:  Commander Data. The synthetic lifeform.</td></tr>
 
-LOCATION--Medical lab
+<tr id="L19"><td><a href="#L19">19</a></td><td>DATA:  Yes.</td></tr>
 
-  ANNOTATION
-     a young, eager, intense Doctor in engrossed in
-     what he is doing
+<tr id="L20"><td><a href="#L20">20</a></td><td>BASHIR:  It's an honour to meet you, sir. I've heard so much about you. You must have a fascinating perspective into biocybernetic research. I'd be delighted if we could discuss the subject sometime.</td></tr>
 
-  DATA
-     Excuse me. Do you have authorisation to work in
-     this area?
+<tr id="L21"><td><a href="#L21">21</a></td><td>DATA:  I would be happy to do so. However, I must ask you to stop your experiment.</td></tr>
 
-  BASHIR
-     Come in, come in. I need a hand with this field
-     generator. See if you can boost the power output
-     to sixty five percent.
+<tr id="L22"><td><a href="#L22">22</a></td><td>BASHIR:  Ah, yes. I realise I should have asked before using your sickbay, but it would've taken me days to analyse this device with the computer I have on Deep Space Nine.</td></tr>
 
-  DATA
-     I am sorry, but use of sickbay equipment is
-     limited to ship's medical personnel.
+<tr id="L23"><td><a href="#L23">23</a></td><td>DATA:  What type of device is this?</td></tr>
 
-  BASHIR
-     Ah. Doctor Julian Bashir, Chief Medical officer,
-     Deep Space Nine. And you are Commander?
+<tr id="L24"><td><a href="#L24">24</a></td><td>BASHIR:  It was discovered in the Gamma Quadrant. I think it must be some sort of medical instrument.</td></tr>
 
-  DATA
-     Data.
+<tr id="L25"><td><a href="#L25">25</a></td><td>DATA:  It appears to employ plasma inputs.</td></tr>
 
-  BASHIR
-     Commander Data. The synthetic lifeform.
+<tr id="L26"><td><a href="#L26">26</a></td><td>BASHIR:  I'm hoping it's a medical scanner. I wanted to use your computer to find out how it works.</td></tr>
 
-  DATA
-     Yes.
+<tr id="L27"><td><a href="#L27">27</a></td><td>DATA:  I suggest we take it to Engineering and run a complete circuit-pathway diagnostic.</td></tr>
 
-  BASHIR
-     It's an honour to meet you, sir. I've heard so
-     much about you. You must have a fascinating
-     perspective into biocybernetic research. I'd be
-     delighted if we could discuss the subject
-     sometime.
+<tr id="L28"><td><a href="#L28">28</a></td><td>BASHIR:  Splendid. I must admit, Commander I didn't think you'd be so personable.</td></tr>
 
-  DATA
-     I would be happy to do so. However, I must ask you
-     to stop your experiment.
+<tr><td></td><td>LOCATION--Replimat</td></tr>
+<tr id="L29"><td><a href="#L29">29</a></td><td>ANNOTATION: a very wrinkled alien with the voice of the modern Zephram Cochrane approaches Worf while he is still eating the dodgy pasta</td></tr>
 
-  BASHIR
-     Ah, yes. I realise I should have asked before
-     using your sickbay, but it would've taken me days
-     to analyse this device with the computer I have on
-     Deep Space Nine.
+<tr id="L30"><td><a href="#L30">30</a></td><td>SHREK:  Klingon. You are Starfleet Klingon.</td></tr>
 
-  DATA
-     What type of device is this?
+<tr id="L31"><td><a href="#L31">31</a></td><td>WORF:  I am Lieutenant Worf.</td></tr>
 
-  BASHIR
-     It was discovered in the Gamma Quadrant. I think
-     it must be some sort of medical instrument.
+<tr id="L32"><td><a href="#L32">32</a></td><td>SHREK:  Worf. Son of Mogh.</td></tr>
 
-  DATA
-     It appears to employ plasma inputs.
+<tr id="L33"><td><a href="#L33">33</a></td><td>WORF:  What of it?</td></tr>
 
-  BASHIR
-     I'm hoping it's a medical scanner. I wanted to use
-     your computer to find out how it works.
+<tr id="L34"><td><a href="#L34">34</a></td><td>SHREK:  I am Jaglom Shrek, a man with information to sell.</td></tr>
 
-  DATA
-     I suggest we take it to Engineering and run a
-     complete circuit-pathway diagnostic.
+<tr id="L35"><td><a href="#L35">35</a></td><td>WORF:  You have no information I could use.</td></tr>
 
-  BASHIR
-     Splendid. I must admit, Commander I didn't think
-     you'd be so personable.
+<tr id="L36"><td><a href="#L36">36</a></td><td>SHREK:  I would not be so sure. It is about your father, Mogh.</td></tr>
 
+<tr id="L37"><td><a href="#L37">37</a></td><td>WORF:  My father died twenty five years ago at Khitomer.</td></tr>
 
-LOCATION--Replimat
+<tr id="L38"><td><a href="#L38">38</a></td><td>SHREK:  That is what you believe. What if I tell you he is still alive?</td></tr>
 
-  ANNOTATION
-     a very wrinkled alien with the voice of the modern
-     Zephram Cochrane approaches Worf while he is still
-     eating the dodgy pasta
+<tr><td></td><td>LOCATION--Somewhere dark and private</td></tr>
+<tr id="L39"><td><a href="#L39">39</a></td><td>WORF:  My father is dead.</td></tr>
 
-  SHREK
-     Klingon. You are Starfleet Klingon.
+<tr id="L40"><td><a href="#L40">40</a></td><td>SHREK:  No, he's not. I know where he is.</td></tr>
 
-  WORF
-     I am Lieutenant Worf.
+<tr id="L41"><td><a href="#L41">41</a></td><td>WORF:  How is that possible?</td></tr>
 
-  SHREK
-     Worf. Son of Mogh.
+<tr id="L42"><td><a href="#L42">42</a></td><td>SHREK:  I expect to be paid for my information. Perhaps we could negotiate an exchange. The location of your father, for</td></tr>
 
-  WORF
-     What of it?
+<tr id="L43"><td><a href="#L43">43</a></td><td>WORF:  Tell me what you know.</td></tr>
 
-  SHREK
-     I am Jaglom Shrek, a man with information to sell.
+<tr id="L44"><td><a href="#L44">44</a></td><td>SHREK:  Not all of the Klingons at Khitomer were killed during the massacre. Many were captured by the Romulans and placed in a prison camp on a remote planet. Your father was among them.</td></tr>
 
-  WORF
-     You have no information I could use.
+<tr id="L45"><td><a href="#L45">45</a></td><td>WORF:  Where is this planet?</td></tr>
 
-  SHREK
-     I would not be so sure. It is about your father,
-     Mogh.
+<tr id="L46"><td><a href="#L46">46</a></td><td>SHREK:  Not far from here. I could give you the location, for a price.</td></tr>
 
-  WORF
-     My father died twenty five years ago at Khitomer.
+<tr id="L47"><td><a href="#L47">47</a></td><td>WORF:  A Klingon would rather die than be taken prisoner. I should kill you for spreading lies about my family. My father was killed defending Khitomer.</td></tr>
 
-  SHREK
-     That is what you believe. What if I tell you he is
-     still alive?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L48"><td><a href="#L48">48</a></td><td>WORF:  Ensign Lopez. This duty roster is unacceptable. The assignments should be listed in order of priority. Prepare it again. I will expect it no later than oh nine hundred hours. Dismissed.</td></tr>
 
+<tr id="L49"><td><a href="#L49">49</a></td><td>RIKER:  Worf, we need to get your rendezvous schedule to Commander Rudman on board the Merrimac as soon as you</td></tr>
 
-LOCATION--Somewhere dark and private
+<tr id="L50"><td><a href="#L50">50</a></td><td>WORF:  I am well aware of your request, Commander.</td></tr>
 
-  WORF
-     My father is dead.
+<tr id="L51"><td><a href="#L51">51</a></td><td>RIKER:  Lieutenant, are you all right?</td></tr>
 
-  SHREK
-     No, he's not. I know where he is.
+<tr id="L52"><td><a href="#L52">52</a></td><td>WORF:  Yes, sir. I am fine. I will send your schedule, sir. Excuse me.</td></tr>
 
-  WORF
-     How is that possible?
+<tr><td></td><td>LOCATION--Worf's quarters</td></tr>
+<tr id="L53"><td><a href="#L53">53</a></td><td>ANNOTATION: he is practising his martial arts, but gets angry and smashes a glass table. The doorbell chimes</td></tr>
 
-  SHREK
-     I expect to be paid for my information. Perhaps we
-     could negotiate an exchange. The location of your
-     father, for
+<tr id="L54"><td><a href="#L54">54</a></td><td>WORF:  Enter.</td></tr>
 
-  WORF
-     Tell me what you know.
+<tr id="L55"><td><a href="#L55">55</a></td><td>TROI:  Did the table do something wrong?</td></tr>
 
-  SHREK
-     Not all of the Klingons at Khitomer were killed
-     during the massacre. Many were captured by the
-     Romulans and placed in a prison camp on a remote
-     planet. Your father was among them.
+<tr id="L56"><td><a href="#L56">56</a></td><td>WORF:  No.</td></tr>
 
-  WORF
-     Where is this planet?
+<tr id="L57"><td><a href="#L57">57</a></td><td>TROI:  I'm glad you weren't that hard on Ensign Lopez.</td></tr>
 
-  SHREK
-     Not far from here. I could give you the location,
-     for a price.
+<tr id="L58"><td><a href="#L58">58</a></td><td>WORF:  He made a mistake. The duty roster was inaccurate.</td></tr>
 
-  WORF
-     A Klingon would rather die than be taken prisoner.
-     I should kill you for spreading lies about my
-     family. My father was killed defending Khitomer.
+<tr id="L59"><td><a href="#L59">59</a></td><td>TROI:  Would you like to talk about what's bothering you or would you like to break some more furniture?</td></tr>
 
+<tr id="L60"><td><a href="#L60">60</a></td><td>WORF:  Today on the Promenade, a Yridian approached me. He knew who I was and tried to sell me information about Mogh.</td></tr>
 
-LOCATION--Bridge
+<tr id="L61"><td><a href="#L61">61</a></td><td>TROI:  Your father?</td></tr>
 
-  WORF
-     Ensign Lopez. This duty roster is unacceptable.
-     The assignments should be listed in order of
-     priority. Prepare it again. I will expect it no
-     later than oh nine hundred hours. Dismissed.
+<tr id="L62"><td><a href="#L62">62</a></td><td>WORF:  He claimed that he's alive and is being held captive in a Romulan prison camp.</td></tr>
 
-  RIKER
-     Worf, we need to get your rendezvous schedule to
-     Commander Rudman on board the Merrimac as soon as
-     you
+<tr id="L63"><td><a href="#L63">63</a></td><td>TROI:  My god. Could it be true?</td></tr>
 
-  WORF
-     I am well aware of your request, Commander.
+<tr id="L64"><td><a href="#L64">64</a></td><td>WORF:  A Klingon would never allow himself to be captured. A warrior fights to the death. If my father were alive it would dishonour his sons and their sons for three generations. Even Alexander would bear the burden of guilt.</td></tr>
 
-  RIKER
-     Lieutenant, are you all right?
+<tr id="L65"><td><a href="#L65">65</a></td><td>TROI:  So, you're willing to ignore the possibility because you're concerned about dishonour?</td></tr>
 
-  WORF
-     Yes, sir. I am fine. I will send your schedule,
-     sir. Excuse me.
+<tr id="L66"><td><a href="#L66">66</a></td><td>WORF:  My father is dead. That Yridian is selling lies!</td></tr>
 
+<tr id="L67"><td><a href="#L67">67</a></td><td>TROI:  If you're so sure about that, why are you still so upset? Worf, you can't deny the possibility just because you don't want it to be true. If you want to talk about this, you know where to find me.</td></tr>
 
-LOCATION--Worf's quarters
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L68"><td><a href="#L68">68</a></td><td>DATA:  If we transfer twenty megajoules of energy from the dilithium chamber into the plasma inputs, it should be sufficient to activate the device.</td></tr>
 
-  ANNOTATION
-     he is practising his martial arts, but gets angry
-     and smashes a glass table. The doorbell chimes
+<tr id="L69"><td><a href="#L69">69</a></td><td>LAFORGE:  It's worth a try. You two can begin by connecting the coil to the chamber. I'll configure the energy transfer.</td></tr>
 
-  WORF
-     Enter.
+<tr id="L70"><td><a href="#L70">70</a></td><td>BASHIR:  Right. Data, can I ask you a personal question?</td></tr>
 
-  TROI
-     Did the table do something wrong?
+<tr id="L71"><td><a href="#L71">71</a></td><td>DATA:  Certainly.</td></tr>
 
-  WORF
-     No.
+<tr id="L72"><td><a href="#L72">72</a></td><td>BASHIR:  Does your hair grow?</td></tr>
 
-  TROI
-     I'm glad you weren't that hard on Ensign Lopez.
+<tr id="L73"><td><a href="#L73">73</a></td><td>DATA:  I can control the rate of my follicle replenishment. However, I have not yet had a reason to modify the length of my hair. Why do you ask?</td></tr>
 
-  WORF
-     He made a mistake. The duty roster was inaccurate.
+<tr id="L74"><td><a href="#L74">74</a></td><td>BASHIR:  Just curious.</td></tr>
 
-  TROI
-     Would you like to talk about what's bothering you
-     or would you like to break some more furniture?
+<tr id="L75"><td><a href="#L75">75</a></td><td>DATA:  Power conduits are ready. Is something wrong, Doctor?</td></tr>
 
-  WORF
-     Today on the Promenade, a Yridian approached me.
-     He knew who I was and tried to sell me information
-     about Mogh.
+<tr id="L76"><td><a href="#L76">76</a></td><td>BASHIR:  You're breathing.</td></tr>
 
-  TROI
-     Your father?
+<tr id="L77"><td><a href="#L77">77</a></td><td>DATA:  Yes. I do have a functional respiration system. However, its purpose is to maintain thermal control of my internal systems. I am, in fact, capable of functioning for extended periods in a vacuum.</td></tr>
 
-  WORF
-     He claimed that he's alive and is being held
-     captive in a Romulan prison camp.
+<tr id="L78"><td><a href="#L78">78</a></td><td>BASHIR:  And you have a pulse.</td></tr>
 
-  TROI
-     My god. Could it be true?
+<tr id="L79"><td><a href="#L79">79</a></td><td>DATA:  My circulatory system not only produces bio-chemical lubricants, it regulates micro-hydraulic power. Most people are interested in my extraordinary abilities. How fast I can compute, my memory capacity, how long I will live. No one has ever asked me if my hair will grow, or noticed that I can breathe.</td></tr>
 
-  WORF
-     A Klingon would never allow himself to be
-     captured. A warrior fights to the death. If my
-     father were alive it would dishonour his sons and
-     their sons for three generations. Even Alexander
-     would bear the burden of guilt.
+<tr id="L80"><td><a href="#L80">80</a></td><td>BASHIR:  Your creator went to a lot of trouble to make you seem human. I find that fascinating.</td></tr>
 
-  TROI
-     So, you're willing to ignore the possibility
-     because you're concerned about dishonour?
+<tr id="L81"><td><a href="#L81">81</a></td><td>LAFORGE:  Okay, I think we're ready to begin the transfer.</td></tr>
 
-  WORF
-     My father is dead. That Yridian is selling lies!
+<tr id="L82"><td><a href="#L82">82</a></td><td>DATA:  Power connections are complete.</td></tr>
 
-  TROI
-     If you're so sure about that, why are you still so
-     upset? Worf, you can't deny the possibility just
-     because you don't want it to be true. If you want
-     to talk about this, you know where to find me.
+<tr id="L83"><td><a href="#L83">83</a></td><td>BASHIR:  I'll monitor the coil's transfer rate. Will you keep an eye on the transient power response?</td></tr>
 
+<tr id="L84"><td><a href="#L84">84</a></td><td>DATA:  Of course. We are ready, Geordi.</td></tr>
 
-LOCATION--Engineering
+<tr id="L85"><td><a href="#L85">85</a></td><td>LAFORGE:  Okay. Initiating energy transfer.</td></tr>
 
-  DATA
-     If we transfer twenty megajoules of energy from
-     the dilithium chamber into the plasma inputs, it
-     should be sufficient to activate the device.
+<tr id="L86"><td><a href="#L86">86</a></td><td>ANNOTATION: an orange light appears between the two sections of the device</td></tr>
 
-  LAFORGE
-     It's worth a try. You two can begin by connecting
-     the coil to the chamber. I'll configure the energy
-     transfer.
+<tr id="L87"><td><a href="#L87">87</a></td><td>BASHIR:  Power levels are holding steady.</td></tr>
 
-  BASHIR
-     Right. Data, can I ask you a personal question?
+<tr id="L88"><td><a href="#L88">88</a></td><td>DATA:  Transient response is normal.</td></tr>
 
-  DATA
-     Certainly.
+<tr id="L89"><td><a href="#L89">89</a></td><td>BASHIR:  Hold on. I'm picking up a power surge. Reduce the transfer rate.</td></tr>
 
-  BASHIR
-     Does your hair grow?
+<tr id="L90"><td><a href="#L90">90</a></td><td>LAFORGE:  Reducing rate by twenty percent.</td></tr>
 
-  DATA
-     I can control the rate of my follicle
-     replenishment. However, I have not yet had a
-     reason to modify the length of my hair. Why do you
-     ask?
+<tr id="L91"><td><a href="#L91">91</a></td><td>ANNOTATION: a crackle of energy lances out and hits Data. He falls back, rigid</td></tr>
 
-  BASHIR
-     Just curious.
+<tr id="L92"><td><a href="#L92">92</a></td><td>LAFORGE:  What happened?</td></tr>
 
-  DATA
-     Power conduits are ready. Is something wrong,
-     Doctor?
+<tr id="L93"><td><a href="#L93">93</a></td><td>BASHIR:  The power connections blew. It sent out some kind of plasma shock.</td></tr>
 
-  BASHIR
-     You're breathing.
+<tr id="L94"><td><a href="#L94">94</a></td><td>LAFORGE:  His synaptic energy is dropping.</td></tr>
 
-  DATA
-     Yes. I do have a functional respiration system.
-     However, its purpose is to maintain thermal
-     control of my internal systems. I am, in fact,
-     capable of functioning for extended periods in a
-     vacuum.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L95"><td><a href="#L95">95</a></td><td>ANNOTATION: Data is having a vision. He follows the sound of metal on metal to discover a young Noonian Soong pounding on an anvil with a hammer.</td></tr>
 
-  BASHIR
-     And you have a pulse.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L96"><td><a href="#L96">96</a></td><td>ANNOTATION: Geordi is doing something to the inside of Data's head when he wakes up</td></tr>
 
-  DATA
-     My circulatory system not only produces
-     bio-chemical lubricants, it regulates
-     micro-hydraulic power. Most people are interested
-     in my extraordinary abilities. How fast I can
-     compute, my memory capacity, how long I will live.
-     No one has ever asked me if my hair will grow, or
-     noticed that I can breathe.
+<tr id="L97"><td><a href="#L97">97</a></td><td>BASHIR:  Data, are you all right?</td></tr>
 
-  BASHIR
-     Your creator went to a lot of trouble to make you
-     seem human. I find that fascinating.
+<tr id="L98"><td><a href="#L98">98</a></td><td>DATA:  I believe so. What has happened?</td></tr>
 
-  LAFORGE
-     Okay, I think we're ready to begin the transfer.
+<tr id="L99"><td><a href="#L99">99</a></td><td>LAFORGE:  A plasma shock overloaded your positronic net. You were down a good thirty seconds.</td></tr>
 
-  DATA
-     Power connections are complete.
+<tr id="L100"><td><a href="#L100">100</a></td><td>DATA:  That cannot be possible. I have a memory record for that period of time. I can recall a series of images. I saw Doctor Soong. My father.</td></tr>
 
-  BASHIR
-     I'll monitor the coil's transfer rate. Will you
-     keep an eye on the transient power response?
+<tr id="L101"><td><a href="#L101">101</a></td><td>ANNOTATION: after the adverts, tests are continuing</td></tr>
 
-  DATA
-     Of course. We are ready, Geordi.
+<tr id="L102"><td><a href="#L102">102</a></td><td>LAFORGE:  Data, I can't find anything wrong with your positronic subprocessors or your circuit controllers. No sign of any residual energy fluctuation, cascade overload.</td></tr>
 
-  LAFORGE
-     Okay. Initiating energy transfer.
+<tr id="L103"><td><a href="#L103">103</a></td><td>DATA:  My internal diagnostic indicates that my memory systems are functioning within normal parameters. For the forty seven seconds that I was inactive, there is no record of cognitive activity.</td></tr>
 
-  ANNOTATION
-     an orange light appears between the two sections
-     of the device
+<tr id="L104"><td><a href="#L104">104</a></td><td>LAFORGE:  There's no doubt about it, Data. You were completely shut down. Maybe you had some kind of random power fluctuation, caused you to access one of your memory files.</td></tr>
 
-  BASHIR
-     Power levels are holding steady.
+<tr id="L105"><td><a href="#L105">105</a></td><td>DATA:  That cannot be. The image I saw was of Doctor Soong as a young man. I did not encounter him until much later in his life. There appears to be no rational explanation for my experience.</td></tr>
 
-  DATA
-     Transient response is normal.
+<tr id="L106"><td><a href="#L106">106</a></td><td>LAFORGE:  I'll take another look at the diagnostic log. In the meantime, you'd better disconnect that device.</td></tr>
 
-  BASHIR
-     Hold on. I'm picking up a power surge. Reduce the
-     transfer rate.
+<tr id="L107"><td><a href="#L107">107</a></td><td>BASHIR:  Data, perhaps we're going about this the wrong way.</td></tr>
 
-  LAFORGE
-     Reducing rate by twenty percent.
+<tr id="L108"><td><a href="#L108">108</a></td><td>DATA:  How so?</td></tr>
 
-  ANNOTATION
-     a crackle of energy lances out and hits Data. He
-     falls back, rigid
+<tr id="L109"><td><a href="#L109">109</a></td><td>BASHIR:  Well, maybe you had a dream or a hallucination.</td></tr>
 
-  LAFORGE
-     What happened?
+<tr id="L110"><td><a href="#L110">110</a></td><td>DATA:  I am not capable of either of those functions.</td></tr>
 
-  BASHIR
-     The power connections blew. It sent out some kind
-     of plasma shock.
+<tr id="L111"><td><a href="#L111">111</a></td><td>BASHIR:  Yet you can't account for what happened today, can you?</td></tr>
 
-  LAFORGE
-     His synaptic energy is dropping.
+<tr id="L112"><td><a href="#L112">112</a></td><td>DATA:  At present, I cannot.</td></tr>
 
+<tr id="L113"><td><a href="#L113">113</a></td><td>BASHIR:  Well maybe you should approach this from a more human standpoint. You're right that machines can't have hallucinations, but then again, most machines can't grow hair.</td></tr>
 
-LOCATION--Corridor
+<tr><td></td><td>LOCATION--Ten Forward</td></tr>
+<tr id="L114"><td><a href="#L114">114</a></td><td>ANNOTATION: Data is about to speak, then changes his mind</td></tr>
 
-  ANNOTATION
-     Data is having a vision. He follows the sound of
-     metal on metal to discover a young Noonian Soong
-     pounding on an anvil with a hammer.
+<tr id="L115"><td><a href="#L115">115</a></td><td>WORF:  Wait. What is it, Commander?</td></tr>
 
+<tr id="L116"><td><a href="#L116">116</a></td><td>DATA:  I am sorry to bother you, but I have a question of a personal nature. Do you have a moment?</td></tr>
 
-LOCATION--Engineering
+<tr id="L117"><td><a href="#L117">117</a></td><td>WORF:  A moment.</td></tr>
 
-  ANNOTATION
-     Geordi is doing something to the inside of Data's
-     head when he wakes up
+<tr id="L118"><td><a href="#L118">118</a></td><td>DATA:  I have heard you mention that you once experienced a vision.</td></tr>
 
-  BASHIR
-     Data, are you all right?
+<tr id="L119"><td><a href="#L119">119</a></td><td>WORF:  Yes. When I was young my adoptive parents arranged for me to partake in the Rite of MajQa.</td></tr>
 
-  DATA
-     I believe so. What has happened?
+<tr id="L120"><td><a href="#L120">120</a></td><td>DATA:  I understand it involves deep meditation in the lava caves of No'Mat. That prolonged exposure to the heat induces a hallucinatory effect.</td></tr>
 
-  LAFORGE
-     A plasma shock overloaded your positronic net. You
-     were down a good thirty seconds.
+<tr id="L121"><td><a href="#L121">121</a></td><td>WORF:  Why are you asking me about this?</td></tr>
 
-  DATA
-     That cannot be possible. I have a memory record
-     for that period of time. I can recall a series of
-     images. I saw Doctor Soong. My father.
+<tr id="L122"><td><a href="#L122">122</a></td><td>DATA:  I have recently had an unusual experience, which might be described as a vision.</td></tr>
 
-  ANNOTATION
-     after the adverts, tests are continuing
+<tr id="L123"><td><a href="#L123">123</a></td><td>WORF:  What happened?</td></tr>
 
-  LAFORGE
-     Data, I can't find anything wrong with your
-     positronic subprocessors or your circuit
-     controllers. No sign of any residual energy
-     fluctuation, cascade overload.
+<tr id="L124"><td><a href="#L124">124</a></td><td>DATA:  An accident in Engineering shut down my cognitive functions for a short period of time, yet I seemed to remain conscious. I saw my father.</td></tr>
 
-  DATA
-     My internal diagnostic indicates that my memory
-     systems are functioning within normal parameters.
-     For the forty seven seconds that I was inactive,
-     there is no record of cognitive activity.
+<tr id="L125"><td><a href="#L125">125</a></td><td>WORF:  You are very fortunate. That is a powerful vision.</td></tr>
 
-  LAFORGE
-     There's no doubt about it, Data. You were
-     completely shut down. Maybe you had some kind of
-     random power fluctuation, caused you to access one
-     of your memory files.
+<tr id="L126"><td><a href="#L126">126</a></td><td>DATA:  If it was a vision, I do not know how to proceed.</td></tr>
 
-  DATA
-     That cannot be. The image I saw was of Doctor
-     Soong as a young man. I did not encounter him
-     until much later in his life. There appears to be
-     no rational explanation for my experience.
+<tr id="L127"><td><a href="#L127">127</a></td><td>WORF:  You must find its meaning. If it has anything to do with your father, you must learn all you can about it. In the Klingon MajQa ritual, there is nothing more important than receiving a revelation about your father. Your father is part of you, always. Learning about him teaches you about yourself. That is why no matter where he is or what he has done, you must find him.</td></tr>
 
-  LAFORGE
-     I'll take another look at the diagnostic log. In
-     the meantime, you'd better disconnect that device.
+<tr id="L128"><td><a href="#L128">128</a></td><td>DATA:  But I am not looking for my father.</td></tr>
 
-  BASHIR
-     Data, perhaps we're going about this the wrong
-     way.
+<tr id="L129"><td><a href="#L129">129</a></td><td>WORF:  Yes, of course. Do not stop until you have the answer.</td></tr>
 
-  DATA
-     How so?
+<tr id="L130"><td><a href="#L130">130</a></td><td>DATA:  Thank you, Worf.</td></tr>
 
-  BASHIR
-     Well, maybe you had a dream or a hallucination.
+<tr><td></td><td>LOCATION--Promenade</td></tr>
+<tr id="L131"><td><a href="#L131">131</a></td><td>ANNOTATION: Morn is in conversation with a blue-skinned woman when Worf spots Shrek on the upper level</td></tr>
 
-  DATA
-     I am not capable of either of those functions.
+<tr id="L132"><td><a href="#L132">132</a></td><td>SHREK:  Lieutenant Worf. You have reconsidered.</td></tr>
 
-  BASHIR
-     Yet you can't account for what happened today, can
-     you?
+<tr id="L133"><td><a href="#L133">133</a></td><td>WORF:  Yes. I wish to go to the Romulan prison camp.</td></tr>
 
-  DATA
-     At present, I cannot.
+<tr id="L134"><td><a href="#L134">134</a></td><td>SHREK:  Excellent. I can provide you with the coordinates.</td></tr>
 
-  BASHIR
-     Well maybe you should approach this from a more
-     human standpoint. You're right that machines can't
-     have hallucinations, but then again, most machines
-     can't grow hair.
+<tr id="L135"><td><a href="#L135">135</a></td><td>WORF:  No. You will take me there.</td></tr>
 
+<tr id="L136"><td><a href="#L136">136</a></td><td>SHREK:  No, it's not possible. I have no means of transportation.</td></tr>
 
-LOCATION--Ten Forward
+<tr id="L137"><td><a href="#L137">137</a></td><td>WORF:  I checked the station records. You have a vessel that is capable of warp speed.</td></tr>
 
-  ANNOTATION
-     Data is about to speak, then changes his mind
+<tr id="L138"><td><a href="#L138">138</a></td><td>SHREK:  I, I do not have the time. I have other business.</td></tr>
 
-  WORF
-     Wait. What is it, Commander?
+<tr id="L139"><td><a href="#L139">139</a></td><td>ANNOTATION: Worf dangles Shrek over the railing</td></tr>
 
-  DATA
-     I am sorry to bother you, but I have a question of
-     a personal nature. Do you have a moment?
+<tr id="L140"><td><a href="#L140">140</a></td><td>WORF:  What is the real reason you do not wish to take me? Is it because what you have told me is not true?</td></tr>
 
-  WORF
-     A moment.
+<tr id="L141"><td><a href="#L141">141</a></td><td>SHREK:  No. The camp is located on the edge of Romulan space. It is a dangerous journey.</td></tr>
 
-  DATA
-     I have heard you mention that you once experienced
-     a vision.
+<tr id="L142"><td><a href="#L142">142</a></td><td>WORF:  Dangerous? It would be more dangerous for you to refuse.</td></tr>
 
-  WORF
-     Yes. When I was young my adoptive parents arranged
-     for me to partake in the Rite of MajQa.
+<tr id="L143"><td><a href="#L143">143</a></td><td>SHREK:  Very well. But I will require full payment in advance.</td></tr>
 
-  DATA
-     I understand it involves deep meditation in the
-     lava caves of No'Mat. That prolonged exposure to
-     the heat induces a hallucinatory effect.
+<tr id="L144"><td><a href="#L144">144</a></td><td>WORF:  No. No, I will pay you after.</td></tr>
 
-  WORF
-     Why are you asking me about this?
+<tr id="L145"><td><a href="#L145">145</a></td><td>SHREK:  But</td></tr>
 
-  DATA
-     I have recently had an unusual experience, which
-     might be described as a vision.
+<tr id="L146"><td><a href="#L146">146</a></td><td>ANNOTATION: Worf leans him further over the railing</td></tr>
 
-  WORF
-     What happened?
+<tr id="L147"><td><a href="#L147">147</a></td><td>SHREK:  Yes, yes, of course. After.</td></tr>
 
-  DATA
-     An accident in Engineering shut down my cognitive
-     functions for a short period of time, yet I seemed
-     to remain conscious. I saw my father.
+<tr id="L148"><td><a href="#L148">148</a></td><td>WORF:  If you are lying, if there is no prison camp, I will kill you.</td></tr>
 
-  WORF
-     You are very fortunate. That is a powerful vision.
+<tr><td></td><td>LOCATION--Shrek's shuttlecraft</td></tr>
+<tr id="L149"><td><a href="#L149">149</a></td><td>SHREK:  The Romulan guards have a detection perimeter. It will be necessary to transport you to the surface thirty kilometres from the prison camp.</td></tr>
 
-  DATA
-     If it was a vision, I do not know how to proceed.
+<tr id="L150"><td><a href="#L150">150</a></td><td>WORF:  The foliage is very dense. It will take me approximately twelve hours to reach the camp. I may have to travel during the night.</td></tr>
 
-  WORF
-     You must find its meaning. If it has anything to
-     do with your father, you must learn all you can
-     about it. In the Klingon MajQa ritual, there is
-     nothing more important than receiving a revelation
-     about your father. Your father is part of you,
-     always. Learning about him teaches you about
-     yourself. That is why no matter where he is or
-     what he has done, you must find him.
+<tr id="L151"><td><a href="#L151">151</a></td><td>SHREK:  That would be unwise. This is not an empty jungle. There are many predators.</td></tr>
 
-  DATA
-     But I am not looking for my father.
+<tr id="L152"><td><a href="#L152">152</a></td><td>WORF:  I am prepared.</td></tr>
 
-  WORF
-     Yes, of course. Do not stop until you have the
-     answer.
+<tr id="L153"><td><a href="#L153">153</a></td><td>SHREK:  Very well. But I recommend that you look up from time to time. The arboreal needle snake likes to attack from above. I will provide you with a map of the camp.</td></tr>
 
-  DATA
-     Thank you, Worf.
+<tr id="L154"><td><a href="#L154">154</a></td><td>WORF:  How did you learn of this camp?</td></tr>
 
+<tr id="L155"><td><a href="#L155">155</a></td><td>SHREK:  It is not important for you to know.</td></tr>
 
-LOCATION--Promenade
+<tr id="L156"><td><a href="#L156">156</a></td><td>WORF:  Why have you not informed the Klingon government of this place?</td></tr>
 
-  ANNOTATION
-     Morn is in conversation with a blue-skinned woman
-     when Worf spots Shrek on the upper level
+<tr id="L157"><td><a href="#L157">157</a></td><td>SHREK:  I sell information. I do not give it away.</td></tr>
 
-  SHREK
-     Lieutenant Worf. You have reconsidered.
+<tr id="L158"><td><a href="#L158">158</a></td><td>WORF:  You do this for profit.</td></tr>
 
-  WORF
-     Yes. I wish to go to the Romulan prison camp.
+<tr id="L159"><td><a href="#L159">159</a></td><td>SHREK:  I have my reasons, Mister Worf.</td></tr>
 
-  SHREK
-     Excellent. I can provide you with the coordinates.
+<tr id="L160"><td><a href="#L160">160</a></td><td>WORF:  What reasons could you have for letting these people suffer?</td></tr>
 
-  WORF
-     No. You will take me there.
+<tr id="L161"><td><a href="#L161">161</a></td><td>SHREK:  We will arrive in the Carraya Sector in approximately three hours. I suggest you get some rest.</td></tr>
 
-  SHREK
-     No, it's not possible. I have no means of
-     transportation.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L162"><td><a href="#L162">162</a></td><td>PICARD:  Come.</td></tr>
 
-  WORF
-     I checked the station records. You have a vessel
-     that is capable of warp speed.
+<tr id="L163"><td><a href="#L163">163</a></td><td>ANNOTATION: Data enters</td></tr>
 
-  SHREK
-     I, I do not have the time. I have other business.
+<tr id="L164"><td><a href="#L164">164</a></td><td>PICARD:  Yes, Mister Data?</td></tr>
 
-  ANNOTATION
-     Worf dangles Shrek over the railing
+<tr id="L165"><td><a href="#L165">165</a></td><td>DATA:  I am sorry to disturb you, sir.</td></tr>
 
-  WORF
-     What is the real reason you do not wish to take
-     me? Is it because what you have told me is not
-     true?
+<tr id="L166"><td><a href="#L166">166</a></td><td>PICARD:  Not at all. I'm here studying the intricacies of Bajoran aqueduct management. I would welcome an interruption. Please, sit down.</td></tr>
 
-  SHREK
-     No. The camp is located on the edge of Romulan
-     space. It is a dangerous journey.
+<tr id="L167"><td><a href="#L167">167</a></td><td>DATA:  I require your advice. I have come to an impasse regarding my recent unexplained experience.</td></tr>
 
-  WORF
-     Dangerous? It would be more dangerous for you to
-     refuse.
+<tr id="L168"><td><a href="#L168">168</a></td><td>PICARD:  Your vision of Doctor Soong. How is your investigation proceeding?</td></tr>
 
-  SHREK
-     Very well. But I will require full payment in
-     advance.
+<tr id="L169"><td><a href="#L169">169</a></td><td>DATA:  I have analysed over four thousand different religious and philosophical systems, as well as over two hundred psychological schools of thought, in an effort to understand what happened.</td></tr>
 
-  WORF
-     No. No, I will pay you after.
+<tr id="L170"><td><a href="#L170">170</a></td><td>PICARD:  And what have you found?</td></tr>
 
-  SHREK
-     But
+<tr id="L171"><td><a href="#L171">171</a></td><td>DATA:  I have been unable to find a single interpretation of the images I saw during the time I was shut down. The hammer, for instance, has several meanings. The Klingon culture views the hammer as a symbol of power. However, the Taqua tribe of Nagor sees it as an icon of hearth and home. The Ferengis view it as a sign of sexual prowess.</td></tr>
 
-  ANNOTATION
-     Worf leans him further over the railing
+<tr id="L172"><td><a href="#L172">172</a></td><td>PICARD:  I'm curious, Mister Data. Why are you looking at all these other cultures?</td></tr>
 
-  SHREK
-     Yes, yes, of course. After.
+<tr id="L173"><td><a href="#L173">173</a></td><td>DATA:  The interpretation of visions and other metaphysical experiences are almost always culturally derived, and I have no culture of my own.</td></tr>
 
-  WORF
-     If you are lying, if there is no prison camp, I
-     will kill you.
+<tr id="L174"><td><a href="#L174">174</a></td><td>PICARD:  Yes, you do. You're a culture of one, which is no less valid than a culture of one billion. Perhaps the key to understanding your experience is to stop looking into other sources for a meaning. When we look at Michaelangelo's David or Symnay's Tomb and we don't ask what does this mean to other people. The real question is, what does it mean to us? Explore this image, Data. Let it excite your imagination. Focus on it. See where it leads you. Let it inspire you.</td></tr>
 
+<tr id="L175"><td><a href="#L175">175</a></td><td>DATA:  I believe I understand, sir. Thank you.</td></tr>
 
-LOCATION--Shrek's shuttlecraft
+<tr id="L176"><td><a href="#L176">176</a></td><td>PICARD:  Good luck, Mister Data.</td></tr>
 
-  SHREK
-     The Romulan guards have a detection perimeter. It
-     will be necessary to transport you to the surface
-     thirty kilometres from the prison camp.
+<tr><td></td><td>LOCATION--Data's quarters</td></tr>
+<tr id="L177"><td><a href="#L177">177</a></td><td>ANNOTATION: Data paints his vision, then begins to embellish it</td></tr>
 
-  WORF
-     The foliage is very dense. It will take me
-     approximately twelve hours to reach the camp. I
-     may have to travel during the night.
+<tr><td></td><td>LOCATION--Jungle</td></tr>
+<tr id="L178"><td><a href="#L178">178</a></td><td>ANNOTATION: it is dark and there are lots of noises</td></tr>
 
-  SHREK
-     That would be unwise. This is not an empty jungle.
-     There are many predators.
+<tr id="L179"><td><a href="#L179">179</a></td><td>SHREK:  The camp is in a southeasterly direction. After approximately ten kilometres, you will come to the edge of the sulphur canyon. Look for a riverbank and follow it until you come to the camp. This is a homing device. It will allow you to find my ship when I return. I will not be landing in the same location.</td></tr>
 
-  WORF
-     I am prepared.
+<tr id="L180"><td><a href="#L180">180</a></td><td>WORF:  When will you return?</td></tr>
 
-  SHREK
-     Very well. But I recommend that you look up from
-     time to time. The arboreal needle snake likes to
-     attack from above. I will provide you with a map
-     of the camp.
+<tr id="L181"><td><a href="#L181">181</a></td><td>SHREK:  Fifty hours. Do not be late.</td></tr>
 
-  WORF
-     How did you learn of this camp?
+<tr id="L182"><td><a href="#L182">182</a></td><td>ANNOTATION: Worf sets off, looking up regularly. Many hours later, he hears splashing and finds himself spying on someone who has just been bathing in a pool. We discover this is a Klingon young lady</td></tr>
 
-  SHREK
-     It is not important for you to know.
+<tr id="L183"><td><a href="#L183">183</a></td><td>BA'EL:  Who's there? Toq, is that you? I can see you. I hope you're enjoying yourself. Toq, I swear I will hang you by your</td></tr>
 
-  WORF
-     Why have you not informed the Klingon government
-     of this place?
+<tr id="L184"><td><a href="#L184">184</a></td><td>ANNOTATION: Worf stands, she starts to run</td></tr>
 
-  SHREK
-     I sell information. I do not give it away.
+<tr id="L185"><td><a href="#L185">185</a></td><td>WORF:  Stop, please,</td></tr>
 
-  WORF
-     You do this for profit.
+<tr id="L186"><td><a href="#L186">186</a></td><td>BA'EL:  Who are you?</td></tr>
 
-  SHREK
-     I have my reasons, Mister Worf.
+<tr id="L187"><td><a href="#L187">187</a></td><td>WORF:  I've come to help you.</td></tr>
 
-  WORF
-     What reasons could you have for letting these
-     people suffer?
+<tr id="L188"><td><a href="#L188">188</a></td><td>BA'EL:  Help me?</td></tr>
 
-  SHREK
-     We will arrive in the Carraya Sector in
-     approximately three hours. I suggest you get some
-     rest.
+<tr id="L189"><td><a href="#L189">189</a></td><td>WORF:  Yes. How did you get out of the camp? Does anyone know you are gone?</td></tr>
 
+<tr id="L190"><td><a href="#L190">190</a></td><td>BA'EL:  Yes I come here often</td></tr>
 
-LOCATION--Ready room
+<tr id="L191"><td><a href="#L191">191</a></td><td>WORF:  You must lead me to the camp.</td></tr>
 
-  PICARD
-     Come.
+<tr id="L192"><td><a href="#L192">192</a></td><td>BA'EL:  You are Klingon. Where did you come from?</td></tr>
 
-  ANNOTATION
-     Data enters
+<tr id="L193"><td><a href="#L193">193</a></td><td>WORF:  That does not matter. I have come to take you home.</td></tr>
 
-  PICARD
-     Yes, Mister Data?
+<tr id="L194"><td><a href="#L194">194</a></td><td>BA'EL:  Home? This is my home.</td></tr>
 
-  DATA
-     I am sorry to disturb you, sir.
+<tr id="L195"><td><a href="#L195">195</a></td><td>ROMULAN [OC]:  Ba'el?</td></tr>
 
-  PICARD
-     Not at all. I'm here studying the intricacies of
-     Bajoran aqueduct management. I would welcome an
-     interruption. Please, sit down.
+<tr id="L196"><td><a href="#L196">196</a></td><td>WORF:  It is very important you tell no one you saw me.</td></tr>
 
-  DATA
-     I require your advice. I have come to an impasse
-     regarding my recent unexplained experience.
+<tr id="L197"><td><a href="#L197">197</a></td><td>ANNOTATION: Ba'el goes to meet the person who called her</td></tr>
 
-  PICARD
-     Your vision of Doctor Soong. How is your
-     investigation proceeding?
+<tr id="L198"><td><a href="#L198">198</a></td><td>BA'EL:  Is it time for the ceremony?</td></tr>
 
-  DATA
-     I have analysed over four thousand different
-     religious and philosophical systems, as well as
-     over two hundred psychological schools of thought,
-     in an effort to understand what happened.
+<tr id="L199"><td><a href="#L199">199</a></td><td>ROMULAN:  Yes, we're about to begin.</td></tr>
 
-  PICARD
-     And what have you found?
+<tr><td></td><td>LOCATION--Data's quarters</td></tr>
+<tr id="L200"><td><a href="#L200">200</a></td><td>ANNOTATION: the painting has developed a lot when the doorbell rings</td></tr>
 
-  DATA
-     I have been unable to find a single interpretation
-     of the images I saw during the time I was shut
-     down. The hammer, for instance, has several
-     meanings. The Klingon culture views the hammer as
-     a symbol of power. However, the Taqua tribe of
-     Nagor sees it as an icon of hearth and home. The
-     Ferengis view it as a sign of sexual prowess.
+<tr id="L201"><td><a href="#L201">201</a></td><td>DATA:  Come in.</td></tr>
 
-  PICARD
-     I'm curious, Mister Data. Why are you looking at
-     all these other cultures?
+<tr id="L202"><td><a href="#L202">202</a></td><td>LAFORGE:  Data, what are you doing? We were supposed to meet at</td></tr>
 
-  DATA
-     The interpretation of visions and other
-     metaphysical experiences are almost always
-     culturally derived, and I have no culture of my
-     own.
+<tr id="L203"><td><a href="#L203">203</a></td><td>ANNOTATION: There are lots of paintings stacked around the walls. Corridor, hammer striking metal, hand. Data is working on two more at the same time.</td></tr>
 
-  PICARD
-     Yes, you do. You're a culture of one, which is no
-     less valid than a culture of one billion. Perhaps
-     the key to understanding your experience is to
-     stop looking into other sources for a meaning.
-     When we look at Michaelangelo's David or Symnay's
-     Tomb and we don't ask what does this mean to other
-     people. The real question is, what does it mean to
-     us? Explore this image, Data. Let it excite your
-     imagination. Focus on it. See where it leads you.
-     Let it inspire you.
+<tr id="L204"><td><a href="#L204">204</a></td><td>LAFORGE:  Data, what are you doing?</td></tr>
 
-  DATA
-     I believe I understand, sir. Thank you.
+<tr id="L205"><td><a href="#L205">205</a></td><td>DATA:  I am painting.</td></tr>
 
-  PICARD
-     Good luck, Mister Data.
+<tr id="L206"><td><a href="#L206">206</a></td><td>LAFORGE:  I can see that. How long have you been at this?</td></tr>
 
+<tr id="L207"><td><a href="#L207">207</a></td><td>DATA:  I have created twenty three individual illustrations in the past six hours, twenty seven minutes. I believe you could say I have been inspired.</td></tr>
 
-LOCATION--Data's quarters
+<tr id="L208"><td><a href="#L208">208</a></td><td>LAFORGE:  I'll say.</td></tr>
 
-  ANNOTATION
-     Data paints his vision, then begins to embellish
-     it
+<tr id="L209"><td><a href="#L209">209</a></td><td>DATA:  I have done as Captain Picard suggested. I have tried to explore the images.</td></tr>
 
+<tr id="L210"><td><a href="#L210">210</a></td><td>LAFORGE:  Has it helped?</td></tr>
 
-LOCATION--Jungle
+<tr id="L211"><td><a href="#L211">211</a></td><td>DATA:  I am not certain. I began by painting the image of the blacksmith. Then I painted the corridor. After that, the anvil, the hammer, and Doctor Soong's face. The thought then occurred to me that I should paint smoke.</td></tr>
 
-  ANNOTATION
-     it is dark and there are lots of noises
+<tr id="L212"><td><a href="#L212">212</a></td><td>LAFORGE:  Smoke? Why smoke?</td></tr>
 
-  SHREK
-     The camp is in a southeasterly direction. After
-     approximately ten kilometres, you will come to the
-     edge of the sulphur canyon. Look for a riverbank
-     and follow it until you come to the camp. This is
-     a homing device. It will allow you to find my ship
-     when I return. I will not be landing in the same
-     location.
+<tr id="L213"><td><a href="#L213">213</a></td><td>DATA:  I cannot explain it. It is not an image I saw during my vision.</td></tr>
 
-  WORF
-     When will you return?
+<tr id="L214"><td><a href="#L214">214</a></td><td>LAFORGE:  Well, you have the smoke coming out of a bucket of water. Blacksmiths used to use water to cool the metal. Maybe that's why you painted it.</td></tr>
 
-  SHREK
-     Fifty hours. Do not be late.
+<tr id="L215"><td><a href="#L215">215</a></td><td>DATA:  Perhaps. After I painted the smoke, it then occurred to me to paint a bird's wing. I then drew an entire bird. A flock of birds flying in formation. An individual feather. If the image of a bird is related to my vision, I do not understand how. I am left with more of a mystery than ever. Geordi, I would like to recreate the experiment which caused my initial shut down.</td></tr>
 
-  ANNOTATION
-     Worf sets off, looking up regularly. Many hours
-     later, he hears splashing and finds himself spying
-     on someone who has just been bathing in a pool. We
-     discover this is a Klingon young lady
+<tr id="L216"><td><a href="#L216">216</a></td><td>LAFORGE:  What for?</td></tr>
 
-  BA'EL
-     Who's there? Toq, is that you? I can see you. I
-     hope you're enjoying yourself. Toq, I swear I will
-     hang you by your
+<tr id="L217"><td><a href="#L217">217</a></td><td>DATA:  I do not know how much longer my vision would have continued had I not been reactivated.</td></tr>
 
-  ANNOTATION
-     Worf stands, she starts to run
+<tr id="L218"><td><a href="#L218">218</a></td><td>LAFORGE:  Data, that plasma shock almost fused your neural net. I don't think it's such a good idea to try that again.</td></tr>
 
-  WORF
-     Stop, please,
+<tr id="L219"><td><a href="#L219">219</a></td><td>DATA:  I am aware of the risks involved. But I can think of no other way to investigate my experience. Will you help?</td></tr>
 
-  BA'EL
-     Who are you?
+<tr id="L220"><td><a href="#L220">220</a></td><td>LAFORGE:  Yeah. Yeah, sure. I'll go find Doctor Bashir.</td></tr>
 
-  WORF
-     I've come to help you.
+<tr id="L221"><td><a href="#L221">221</a></td><td>DATA:  I will prepare the power transfer.</td></tr>
 
-  BA'EL
-     Help me?
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L222"><td><a href="#L222">222</a></td><td>LAFORGE:  Okay, Data, we're going to monitor every subsystem in your positronic net. If I see any neural pathways overload beyond sixty five percent, I'm shutting down the experiment.</td></tr>
 
-  WORF
-     Yes. How did you get out of the camp? Does anyone
-     know you are gone?
+<tr id="L223"><td><a href="#L223">223</a></td><td>DATA:  Agreed.</td></tr>
 
-  BA'EL
-     Yes I come here often
+<tr id="L224"><td><a href="#L224">224</a></td><td>BASHIR:  We're ready.</td></tr>
 
-  WORF
-     You must lead me to the camp.
+<tr id="L225"><td><a href="#L225">225</a></td><td>LAFORGE:  Initiating energy transfer. Get ready, Data.</td></tr>
 
-  BA'EL
-     You are Klingon. Where did you come from?
+<tr id="L226"><td><a href="#L226">226</a></td><td>BASHIR:  Power levels are rising.</td></tr>
 
-  WORF
-     That does not matter. I have come to take you
-     home.
+<tr id="L227"><td><a href="#L227">227</a></td><td>LAFORGE:  It should be any second now.</td></tr>
 
-  BA'EL
-     Home? This is my home.
+<tr id="L228"><td><a href="#L228">228</a></td><td>ANNOTATION: the energy burst knocks the tricorder out of Data's hand</td></tr>
 
-  ROMULAN [OC]
-     Ba'el?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L229"><td><a href="#L229">229</a></td><td>ANNOTATION: Once again, Data finds Soong at the anvil. He plunges a bird's wing into water, and steam rises. When it clears, Soong is gone and a raven is there. It flies off down the corridor</td></tr>
 
-  WORF
-     It is very important you tell no one you saw me.
+<tr id="L230"><td><a href="#L230">230</a></td><td>DATA:  The bird did not appear in my original experience. This vision is different.</td></tr>
 
-  ANNOTATION
-     Ba'el goes to meet the person who called her
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L231"><td><a href="#L231">231</a></td><td>ANNOTATION: There is no furniture, no equipment</td></tr>
 
-  BA'EL
-     Is it time for the ceremony?
+<tr id="L232"><td><a href="#L232">232</a></td><td>SOONG:  Of course it's different. It's never the same. Always changing. Unpredictable. It doesn't make sense.</td></tr>
 
-  ROMULAN
-     Yes, we're about to begin.
+<tr id="L233"><td><a href="#L233">233</a></td><td>DATA:  What is happening, Father?</td></tr>
 
+<tr id="L234"><td><a href="#L234">234</a></td><td>SOONG:  I don't know, Data. What is happening?</td></tr>
 
-LOCATION--Data's quarters
+<tr id="L235"><td><a href="#L235">235</a></td><td>DATA:  We are on the Bridge of the Enterprise. My cat is present, my potted plant, and my paintings.</td></tr>
 
-  ANNOTATION
-     the painting has developed a lot when the doorbell
-     rings
+<tr id="L236"><td><a href="#L236">236</a></td><td>SOONG:  A beginning. Still a little grounded in the mundane, but showing promise.</td></tr>
 
-  DATA
-     Come in.
+<tr id="L237"><td><a href="#L237">237</a></td><td>DATA:  I do not understand.</td></tr>
 
-  LAFORGE
-     Data, what are you doing? We were supposed to meet
-     at
+<tr id="L238"><td><a href="#L238">238</a></td><td>SOONG:  You're not supposed to. No man should know where his dreams come from. It spoils the mystery, the fun. I'm proud of you, son. I wasn't sure you'd ever develop the cognitive abilities to make it this far. But if you're here, if you can see me, you've crossed over the threshold from being a collection of circuits and subprocessors and have started a wonderful journey.</td></tr>
 
-  ANNOTATION
-     There are lots of paintings stacked around the
-     walls. Corridor, hammer striking metal, hand. Data
-     is working on two more at the same time.
+<tr id="L239"><td><a href="#L239">239</a></td><td>DATA:  What type of journey?</td></tr>
 
-  LAFORGE
-     Data, what are you doing?
+<tr id="L240"><td><a href="#L240">240</a></td><td>ANNOTATION: Data is lying on a bed</td></tr>
 
-  DATA
-     I am painting.
+<tr id="L241"><td><a href="#L241">241</a></td><td>SOONG:  Think of it, think of it as an empty sky.</td></tr>
 
-  LAFORGE
-     I can see that. How long have you been at this?
+<tr id="L242"><td><a href="#L242">242</a></td><td>DATA:  I do not understand.</td></tr>
 
-  DATA
-     I have created twenty three individual
-     illustrations in the past six hours, twenty seven
-     minutes. I believe you could say I have been
-     inspired.
+<tr id="L243"><td><a href="#L243">243</a></td><td>SOONG:  Shh. Just dream, Data. Dream. Data, you are the bird.</td></tr>
 
-  LAFORGE
-     I'll say.
+<tr id="L244"><td><a href="#L244">244</a></td><td>ANNOTATION: and he flies along the corridor, past Soong and out into the wonders of space before waking up again in Engineering</td></tr>
 
-  DATA
-     I have done as Captain Picard suggested. I have
-     tried to explore the images.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L245"><td><a href="#L245">245</a></td><td>DATA:  The images I saw during the time I was shut down were generated by a series of previously dormant circuits in my neural net. I believe Doctor Soong incorporated those circuits into my base programming, intending to activate them when I reached a certain level of development.</td></tr>
 
-  LAFORGE
-     Has it helped?
+<tr id="L246"><td><a href="#L246">246</a></td><td>BASHIR:  But the plasma shock activated them prematurely.</td></tr>
 
-  DATA
-     I am not certain. I began by painting the image of
-     the blacksmith. Then I painted the corridor. After
-     that, the anvil, the hammer, and Doctor Soong's
-     face. The thought then occurred to me that I
-     should paint smoke.
+<tr id="L247"><td><a href="#L247">247</a></td><td>DATA:  That is correct.</td></tr>
 
-  LAFORGE
-     Smoke? Why smoke?
+<tr id="L248"><td><a href="#L248">248</a></td><td>BASHIR:  I'm curious. Now that those circuits are active, what are you going to do with them?</td></tr>
 
-  DATA
-     I cannot explain it. It is not an image I saw
-     during my vision.
+<tr id="L249"><td><a href="#L249">249</a></td><td>DATA:  I plan to shut down my cognitive functions for a brief period each day. I hope to generate new internal visions.</td></tr>
 
-  LAFORGE
-     Well, you have the smoke coming out of a bucket of
-     water. Blacksmiths used to use water to cool the
-     metal. Maybe that's why you painted it.
+<tr id="L250"><td><a href="#L250">250</a></td><td>BASHIR:  It sounds to me like you're talking about dreaming.</td></tr>
 
-  DATA
-     Perhaps. After I painted the smoke, it then
-     occurred to me to paint a bird's wing. I then drew
-     an entire bird. A flock of birds flying in
-     formation. An individual feather. If the image of
-     a bird is related to my vision, I do not
-     understand how. I am left with more of a mystery
-     than ever. Geordi, I would like to recreate the
-     experiment which caused my initial shut down.
+<tr id="L251"><td><a href="#L251">251</a></td><td>DATA:  An accurate analogy.</td></tr>
 
-  LAFORGE
-     What for?
+<tr id="L252"><td><a href="#L252">252</a></td><td>BASHIR:  Remarkable. You know, this is just the kind of thing that might get me published in the Starfleet Cybernetics Journal. Would you mind if I authored a paper on all this?</td></tr>
 
-  DATA
-     I do not know how much longer my vision would have
-     continued had I not been reactivated.
+<tr id="L253"><td><a href="#L253">253</a></td><td>DATA:  Of course not.</td></tr>
 
-  LAFORGE
-     Data, that plasma shock almost fused your neural
-     net. I don't think it's such a good idea to try
-     that again.
+<tr id="L254"><td><a href="#L254">254</a></td><td>BASHIR:  Thank you, Data. And sweet dreams.</td></tr>
 
-  DATA
-     I am aware of the risks involved. But I can think
-     of no other way to investigate my experience. Will
-     you help?
+<tr id="L255"><td><a href="#L255">255</a></td><td>ANNOTATION: and Sid pads off down the corridor, wearing the pink overshoes designed to reduce sound on stage</td></tr>
 
-  LAFORGE
-     Yeah. Yeah, sure. I'll go find Doctor Bashir.
+<tr><td></td><td>LOCATION--Meeting hall</td></tr>
+<tr id="L256"><td><a href="#L256">256</a></td><td>ANNOTATION: Worf climbs over the wall and follows the sound of singing to a table by a fire</td></tr>
 
-  DATA
-     I will prepare the power transfer.
+<tr id="L257"><td><a href="#L257">257</a></td><td>L'KOR:  (sings) van'aj javDIch Qong DIr Sa'VIch ghIH yot quelI'Pa qevas HoH Qa. teblaw'nghu mughato'Du ylja'Qo' ylja'Qo' ylja'Qo'</td></tr>
 
+<tr id="L258"><td><a href="#L258">258</a></td><td>ANNOTATION: Worf follows an old man inside and grabs him</td></tr>
 
-LOCATION--Engineering
+<tr id="L259"><td><a href="#L259">259</a></td><td>WORF:  Quiet! I'm a friend.</td></tr>
 
-  LAFORGE
-     Okay, Data, we're going to monitor every subsystem
-     in your positronic net. If I see any neural
-     pathways overload beyond sixty five percent, I'm
-     shutting down the experiment.
+<tr id="L260"><td><a href="#L260">260</a></td><td>L'KOR:  Who? Who are you?</td></tr>
 
-  DATA
-     Agreed.
+<tr id="L261"><td><a href="#L261">261</a></td><td>WORF:  Worf, son of Mogh.</td></tr>
 
-  BASHIR
-     We're ready.
+<tr id="L262"><td><a href="#L262">262</a></td><td>L'KOR:  Why have you come here?</td></tr>
 
-  LAFORGE
-     Initiating energy transfer. Get ready, Data.
+<tr id="L263"><td><a href="#L263">263</a></td><td>WORF:  I have come to find my father. Is he alive? Is he here?</td></tr>
 
-  BASHIR
-     Power levels are rising.
+<tr id="L264"><td><a href="#L264">264</a></td><td>L'KOR:  Your father fell at Khitomer.</td></tr>
 
-  LAFORGE
-     It should be any second now.
+<tr id="L265"><td><a href="#L265">265</a></td><td>WORF:  Did he die in battle?</td></tr>
 
-  ANNOTATION
-     the energy burst knocks the tricorder out of
-     Data's hand
+<tr id="L266"><td><a href="#L266">266</a></td><td>L'KOR:  He was fortunate.</td></tr>
 
+<tr id="L267"><td><a href="#L267">267</a></td><td>WORF:  You were captured.</td></tr>
 
-LOCATION--Corridor
+<tr id="L268"><td><a href="#L268">268</a></td><td>L'KOR:  Yes.</td></tr>
 
-  ANNOTATION
-     Once again, Data finds Soong at the anvil. He
-     plunges a bird's wing into water, and steam rises.
-     When it clears, Soong is gone and a raven is
-     there. It flies off down the corridor
+<tr id="L269"><td><a href="#L269">269</a></td><td>WORF:  Romulans. They robbed you of your right to die in battle. There's very little time. How many Klingons are being held here?</td></tr>
 
-  DATA
-     The bird did not appear in my original experience.
-     This vision is different.
+<tr id="L270"><td><a href="#L270">270</a></td><td>L'KOR:  Seventy three.</td></tr>
 
+<tr id="L271"><td><a href="#L271">271</a></td><td>WORF:  How many Romulans guard the camp?</td></tr>
 
-LOCATION--Bridge
+<tr id="L272"><td><a href="#L272">272</a></td><td>L'KOR:  Worf, there are things you do not understand.</td></tr>
 
-  ANNOTATION
-     There is no furniture, no equipment
+<tr id="L273"><td><a href="#L273">273</a></td><td>WORF:  What do you mean?</td></tr>
 
-  SOONG
-     Of course it's different. It's never the same.
-     Always changing. Unpredictable. It doesn't make
-     sense.
+<tr id="L274"><td><a href="#L274">274</a></td><td>L'KOR:  I must speak with the Elders.</td></tr>
 
-  DATA
-     What is happening, Father?
+<tr id="L275"><td><a href="#L275">275</a></td><td>ANNOTATION: he goes to the doorway and calls the others in</td></tr>
 
-  SOONG
-     I don't know, Data. What is happening?
+<tr id="L276"><td><a href="#L276">276</a></td><td>L'KOR:  ghoS! I knew your father well, Worf. And I remember you. A boy, barely able to lift a bat'leth. Once your father insisted we take you on the ritual hunt. You were so eager, you tried to take the beast with your bare hands. It mauled your arm.</td></tr>
 
-  DATA
-     We are on the Bridge of the Enterprise. My cat is
-     present, my potted plant, and my paintings.
+<tr id="L277"><td><a href="#L277">277</a></td><td>WORF:  I still have the scar. I do remember you now.</td></tr>
 
-  SOONG
-     A beginning. Still a little grounded in the
-     mundane, but showing promise.
+<tr id="L278"><td><a href="#L278">278</a></td><td>L'KOR:  You should not have come here, Worf.</td></tr>
 
-  DATA
-     I do not understand.
+<tr id="L279"><td><a href="#L279">279</a></td><td>WORF:  I do not understand.</td></tr>
 
-  SOONG
-     You're not supposed to. No man should know where
-     his dreams come from. It spoils the mystery, the
-     fun. I'm proud of you, son. I wasn't sure you'd
-     ever develop the cognitive abilities to make it
-     this far. But if you're here, if you can see me,
-     you've crossed over the threshold from being a
-     collection of circuits and subprocessors and have
-     started a wonderful journey.
+<tr id="L280"><td><a href="#L280">280</a></td><td>L'KOR:  You should not have come.</td></tr>
 
-  DATA
-     What type of journey?
+<tr id="L281"><td><a href="#L281">281</a></td><td>GI'RAL:  Who is this?</td></tr>
 
-  ANNOTATION
-     Data is lying on a bed
+<tr id="L282"><td><a href="#L282">282</a></td><td>WORF:  I am Worf, son of Mogh. I have come to help you escape.</td></tr>
 
-  SOONG
-     Think of it, think of it as an empty sky.
+<tr id="L283"><td><a href="#L283">283</a></td><td>L'KOR:  He does not know.</td></tr>
 
-  DATA
-     I do not understand.
+<tr id="L284"><td><a href="#L284">284</a></td><td>GI'RAL:  (an old woman) He must leave at once.</td></tr>
 
-  SOONG
-     Shh. Just dream, Data. Dream. Data, you are the
-     bird.
+<tr id="L285"><td><a href="#L285">285</a></td><td>L'KOR:  No, it is too late for that. He would bring others. vang ghaH!</td></tr>
 
-  ANNOTATION
-     and he flies along the corridor, past Soong and
-     out into the wonders of space before waking up
-     again in Engineering
+<tr id="L286"><td><a href="#L286">286</a></td><td>ANNOTATION: The men grab him. Worf easily breaks free but Romulan soldiers stop him at the doorway</td></tr>
 
+<tr id="L287"><td><a href="#L287">287</a></td><td>L'KOR:  We are not leaving here and neither are you.</td></tr>
 
-LOCATION--Corridor
+<tr id="L288"><td><a href="#L288">288</a></td><td>SOMEONE: To Be Continued...</td></tr>
 
-  DATA
-     The images I saw during the time I was shut down
-     were generated by a series of previously dormant
-     circuits in my neural net. I believe Doctor Soong
-     incorporated those circuits into my base
-     programming, intending to activate them when I
-     reached a certain level of development.
-
-  BASHIR
-     But the plasma shock activated them prematurely.
-
-  DATA
-     That is correct.
-
-  BASHIR
-     I'm curious. Now that those circuits are active,
-     what are you going to do with them?
-
-  DATA
-     I plan to shut down my cognitive functions for a
-     brief period each day. I hope to generate new
-     internal visions.
-
-  BASHIR
-     It sounds to me like you're talking about
-     dreaming.
-
-  DATA
-     An accurate analogy.
-
-  BASHIR
-     Remarkable. You know, this is just the kind of
-     thing that might get me published in the Starfleet
-     Cybernetics Journal. Would you mind if I authored
-     a paper on all this?
-
-  DATA
-     Of course not.
-
-  BASHIR
-     Thank you, Data. And sweet dreams.
-
-  ANNOTATION
-     and Sid pads off down the corridor, wearing the
-     pink overshoes designed to reduce sound on stage
-
-
-LOCATION--Meeting hall
-
-  ANNOTATION
-     Worf climbs over the wall and follows the sound of
-     singing to a table by a fire
-
-  L'KOR
-     (sings) van'aj javDIch Qong DIr Sa'VIch ghIH yot
-     quelI'Pa qevas HoH Qa. teblaw'nghu mughato'Du
-     ylja'Qo' ylja'Qo' ylja'Qo'
-
-  ANNOTATION
-     Worf follows an old man inside and grabs him
-
-  WORF
-     Quiet! I'm a friend.
-
-  L'KOR
-     Who? Who are you?
-
-  WORF
-     Worf, son of Mogh.
-
-  L'KOR
-     Why have you come here?
-
-  WORF
-     I have come to find my father. Is he alive? Is he
-     here?
-
-  L'KOR
-     Your father fell at Khitomer.
-
-  WORF
-     Did he die in battle?
-
-  L'KOR
-     He was fortunate.
-
-  WORF
-     You were captured.
-
-  L'KOR
-     Yes.
-
-  WORF
-     Romulans. They robbed you of your right to die in
-     battle. There's very little time. How many
-     Klingons are being held here?
-
-  L'KOR
-     Seventy three.
-
-  WORF
-     How many Romulans guard the camp?
-
-  L'KOR
-     Worf, there are things you do not understand.
-
-  WORF
-     What do you mean?
-
-  L'KOR
-     I must speak with the Elders.
-
-  ANNOTATION
-     he goes to the doorway and calls the others in
-
-  L'KOR
-     ghoS! I knew your father well, Worf. And I
-     remember you. A boy, barely able to lift a
-     bat'leth. Once your father insisted we take you on
-     the ritual hunt. You were so eager, you tried to
-     take the beast with your bare hands. It mauled
-     your arm.
-
-  WORF
-     I still have the scar. I do remember you now.
-
-  L'KOR
-     You should not have come here, Worf.
-
-  WORF
-     I do not understand.
-
-  L'KOR
-     You should not have come.
-
-  GI'RAL
-     Who is this?
-
-  WORF
-     I am Worf, son of Mogh. I have come to help you
-     escape.
-
-  L'KOR
-     He does not know.
-
-  GI'RAL
-     (an old woman) He must leave at once.
-
-  L'KOR
-     No, it is too late for that. He would bring
-     others. vang ghaH!
-
-  ANNOTATION
-     The men grab him. Worf easily breaks free but
-     Romulan soldiers stop him at the doorway
-
-  L'KOR
-     We are not leaving here and neither are you.
-
-  SOMEONE
-     To Be Continued...
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>

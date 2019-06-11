@@ -1,1844 +1,1044 @@
-The Dauphin
-TEASER
+<table class="table table-striped">
+<tr><td></td><td>The Dauphin</td></tr>
+<tr><td></td><td>TEASER</td></tr>
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L1"><td><a href="#L1">1</a></td><td>DATA:  Sir, we are approaching Klavdia Three.</td></tr>
 
-LOCATION--Bridge
+<tr id="L2"><td><a href="#L2">2</a></td><td>PICARD:  Take us to impulse power.</td></tr>
 
-  DATA
-     Sir, we are approaching Klavdia Three.
+<tr id="L3"><td><a href="#L3">3</a></td><td>GIBSON:  (a young lady in Wesley's seat) Aye, sir. Impulse power.</td></tr>
 
-  PICARD
-     Take us to impulse power.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L4"><td><a href="#L4">4</a></td><td>LAFORGE:  Bridge, this is Engineering.</td></tr>
 
-  GIBSON
-     (a young lady in Wesley's seat) Aye, sir. Impulse
-     power.
+<tr id="L5"><td><a href="#L5">5</a></td><td>PICARD [OC]:  Yes, Lieutenant.</td></tr>
 
+<tr id="L6"><td><a href="#L6">6</a></td><td>LAFORGE:  Now that we're out of warp, I'd like to use this time to make some routine adjustments on the deuterium control conduit. We're overdue.</td></tr>
 
-LOCATION--Engineering
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L7"><td><a href="#L7">7</a></td><td>PICARD:  How much time will these adjustments require, Lieutenant?</td></tr>
 
-  LAFORGE
-     Bridge, this is Engineering.
+<tr id="L8"><td><a href="#L8">8</a></td><td>LAFORGE [OC]:  A couple of hours, sir.</td></tr>
 
-  PICARD [OC]
-     Yes, Lieutenant.
+<tr id="L9"><td><a href="#L9">9</a></td><td>RIKER:  Proceed, Lieutenant La Forge. Standard orbit, Ensign.</td></tr>
 
-  LAFORGE
-     Now that we're out of warp, I'd like to use this
-     time to make some routine adjustments on the
-     deuterium control conduit. We're overdue.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L10"><td><a href="#L10">10</a></td><td>LAFORGE:  Wes, I'm going to need an SCM model three, from ship's stores. Can you handle that?</td></tr>
 
+<tr id="L11"><td><a href="#L11">11</a></td><td>WESLEY:  Right away.</td></tr>
 
-LOCATION--Bridge
+<tr id="L12"><td><a href="#L12">12</a></td><td>LAFORGE:  All right.</td></tr>
 
-  PICARD
-     How much time will these adjustments require,
-     Lieutenant?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L13"><td><a href="#L13">13</a></td><td>ANNOTATION: The planet on the viewscreen is a pale mustard colour</td></tr>
 
-  LAFORGE [OC]
-     A couple of hours, sir.
+<tr id="L14"><td><a href="#L14">14</a></td><td>PICARD:  Magnify, Mister Worf. Hardly an inviting planet, even for a research establishment.</td></tr>
 
-  RIKER
-     Proceed, Lieutenant La Forge. Standard orbit,
-     Ensign.
+<tr id="L15"><td><a href="#L15">15</a></td><td>TROI:  I would have thought the inhabitants of Daled Four would send a future leader to a more hospitable environment.</td></tr>
 
+<tr id="L16"><td><a href="#L16">16</a></td><td>WORF:  For some, security is more important than comfort.</td></tr>
 
-LOCATION--Engineering
+<tr id="L17"><td><a href="#L17">17</a></td><td>TROI:  Yes, but sixteen years.</td></tr>
 
-  LAFORGE
-     Wes, I'm going to need an SCM model three, from
-     ship's stores. Can you handle that?
+<tr id="L18"><td><a href="#L18">18</a></td><td>WORF:  Captain, we're being hailed.</td></tr>
 
-  WESLEY
-     Right away.
+<tr id="L19"><td><a href="#L19">19</a></td><td>PICARD:  Hailing frequencies, Mister Worf.</td></tr>
 
-  LAFORGE
-     All right.
+<tr id="L20"><td><a href="#L20">20</a></td><td>WORF:  Open.</td></tr>
 
+<tr id="L21"><td><a href="#L21">21</a></td><td>PICARD:  This is Captain Picard of the USS Enterprise.</td></tr>
 
-LOCATION--Bridge
+<tr id="L22"><td><a href="#L22">22</a></td><td>ANYA [OC]:  (very faint and static-ridden) I am Anya of</td></tr>
 
-  ANNOTATION
-     The planet on the viewscreen is a pale mustard
-     colour
+<tr id="L23"><td><a href="#L23">23</a></td><td>DATA:  Sir, the planet's troposphere is distorting our signal.</td></tr>
 
-  PICARD
-     Magnify, Mister Worf. Hardly an inviting planet,
-     even for a research establishment.
+<tr id="L24"><td><a href="#L24">24</a></td><td>PICARD:  Can you clean that up, Mister Worf?</td></tr>
 
-  TROI
-     I would have thought the inhabitants of Daled Four
-     would send a future leader to a more hospitable
-     environment.
+<tr id="L25"><td><a href="#L25">25</a></td><td>WORF:  I'll try. Now.</td></tr>
 
-  WORF
-     For some, security is more important than comfort.
+<tr id="L26"><td><a href="#L26">26</a></td><td>PICARD:  This is Picard of the Enterprise. Please will you repeat your message?</td></tr>
 
-  TROI
-     Yes, but sixteen years.
+<tr id="L27"><td><a href="#L27">27</a></td><td>ANYA [OC]:  I am Anya. Have you come for Salia of Daled Four?</td></tr>
 
-  WORF
-     Captain, we're being hailed.
+<tr id="L28"><td><a href="#L28">28</a></td><td>PICARD:  That is correct.</td></tr>
 
-  PICARD
-     Hailing frequencies, Mister Worf.
+<tr id="L29"><td><a href="#L29">29</a></td><td>ANYA [OC]:  What species are you?</td></tr>
 
-  WORF
-     Open.
+<tr id="L30"><td><a href="#L30">30</a></td><td>PICARD:  Human.</td></tr>
 
-  PICARD
-     This is Captain Picard of the USS Enterprise.
+<tr id="L31"><td><a href="#L31">31</a></td><td>ANYA [OC]:  Excellent. Bring us aboard. That is all.</td></tr>
 
-  ANYA [OC]
-     (very faint and static-ridden) I am Anya of
+<tr id="L32"><td><a href="#L32">32</a></td><td>RIKER:  Friendly, isn't she?</td></tr>
 
-  DATA
-     Sir, the planet's troposphere is distorting our
-     signal.
+<tr id="L33"><td><a href="#L33">33</a></td><td>PICARD:  Friendly or not, Salia has the rank of head of state, so we will treat her and Anya accordingly. Number One, Mister Worf, let's go greet our visitors. You have the Bridge, Mister Data.</td></tr>
 
-  PICARD
-     Can you clean that up, Mister Worf?
+<tr id="L34"><td><a href="#L34">34</a></td><td>DATA:  Aye, sir.</td></tr>
 
-  WORF
-     I'll try. Now.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L35"><td><a href="#L35">35</a></td><td>ANNOTATION: O'Brien beams a young woman and her older chaperone aboard. No luggage</td></tr>
 
-  PICARD
-     This is Picard of the Enterprise. Please will you
-     repeat your message?
+<tr id="L36"><td><a href="#L36">36</a></td><td>PICARD:  Welcome to the Enterprise. I'm Captain Picard.</td></tr>
 
-  ANYA [OC]
-     I am Anya. Have you come for Salia of Daled Four?
+<tr id="L37"><td><a href="#L37">37</a></td><td>ANYA:  This is Salia of Daled Four.</td></tr>
 
-  PICARD
-     That is correct.
+<tr id="L38"><td><a href="#L38">38</a></td><td>SALIA:  I didn't feel a thing. Is that normal when one is transported, Captain?</td></tr>
 
-  ANYA [OC]
-     What species are you?
+<tr id="L39"><td><a href="#L39">39</a></td><td>PICARD:  Oh, yes, it is.</td></tr>
 
-  PICARD
-     Human.
+<tr id="L40"><td><a href="#L40">40</a></td><td>SALIA:  Those must be the matter energy conversion controls. May I take a look?</td></tr>
 
-  ANYA [OC]
-     Excellent. Bring us aboard. That is all.
+<tr id="L41"><td><a href="#L41">41</a></td><td>PICARD:  Yes, of course.</td></tr>
 
-  RIKER
-     Friendly, isn't she?
+<tr id="L42"><td><a href="#L42">42</a></td><td>RIKER:  I can arrange for a tour of the ship, if you'd like.</td></tr>
 
-  PICARD
-     Friendly or not, Salia has the rank of head of
-     state, so we will treat her and Anya accordingly.
-     Number One, Mister Worf, let's go greet our
-     visitors. You have the Bridge, Mister Data.
+<tr id="L43"><td><a href="#L43">43</a></td><td>SALIA:  Oh, I'd love that.</td></tr>
 
-  DATA
-     Aye, sir.
+<tr id="L44"><td><a href="#L44">44</a></td><td>ANYA:  No, that will not be necessary. Just show us to our quarters, Captain Picard.</td></tr>
 
+<tr id="L45"><td><a href="#L45">45</a></td><td>PICARD:  Very well.</td></tr>
 
-LOCATION--Transporter room
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L46"><td><a href="#L46">46</a></td><td>PICARD:  We're accommodating you in quarters normally reserved for Starfleet admiralty. I'm sure you'll find them quite comfortable.</td></tr>
 
-  ANNOTATION
-     O'Brien beams a young woman and her older
-     chaperone aboard. No luggage
+<tr id="L47"><td><a href="#L47">47</a></td><td>ANNOTATION: Wesley exits a turbolift as the party passes. The universe stands still as Salia smiles at him, then turns back to speak</td></tr>
 
-  PICARD
-     Welcome to the Enterprise. I'm Captain Picard.
+<tr id="L48"><td><a href="#L48">48</a></td><td>SALIA:  That's a superconducting magnet, isn't it?</td></tr>
 
-  ANYA
-     This is Salia of Daled Four.
+<tr id="L49"><td><a href="#L49">49</a></td><td>WESLEY:  Yes It's an SCM model. How did you know that?</td></tr>
 
-  SALIA
-     I didn't feel a thing. Is that normal when one is
-     transported, Captain?
+<tr id="L50"><td><a href="#L50">50</a></td><td>SALIA:  Study, for the last sixteen years it is all I could</td></tr>
 
-  PICARD
-     Oh, yes, it is.
+<tr id="L51"><td><a href="#L51">51</a></td><td>ANYA:  Please, Salia, walk ahead with me.</td></tr>
 
-  SALIA
-     Those must be the matter energy conversion
-     controls. May I take a look?
+<tr id="L52"><td><a href="#L52">52</a></td><td>SALIA:  Better be careful. Those can rip the iron right out of your blood cells.</td></tr>
 
-  PICARD
-     Yes, of course.
+<tr id="L53"><td><a href="#L53">53</a></td><td>ANNOTATION: The party moves on, minus Riker</td></tr>
 
-  RIKER
-     I can arrange for a tour of the ship, if you'd
-     like.
+<tr id="L54"><td><a href="#L54">54</a></td><td>WESLEY:  Commander, who is she?</td></tr>
 
-  SALIA
-     Oh, I'd love that.
+<tr id="L55"><td><a href="#L55">55</a></td><td>RIKER:  I think she's a governess.</td></tr>
 
-  ANYA
-     No, that will not be necessary. Just show us to
-     our quarters, Captain Picard.
+<tr id="L56"><td><a href="#L56">56</a></td><td>WESLEY:  No! The girl.</td></tr>
 
-  PICARD
-     Very well.
+<tr id="L57"><td><a href="#L57">57</a></td><td>RIKER:  I don't know if she'll have time for you, Wes. She's destined to rule an entire world.</td></tr>
 
+<tr><td></td><td>LOCATION--Wesley's quarters</td></tr>
+<tr id="L58"><td><a href="#L58">58</a></td><td>ANNOTATION: Wesley is preening in front of a full length mirror</td></tr>
 
-LOCATION--Corridor
+<tr id="L59"><td><a href="#L59">59</a></td><td>WESLEY:  Come in.</td></tr>
 
-  PICARD
-     We're accommodating you in quarters normally
-     reserved for Starfleet admiralty. I'm sure you'll
-     find them quite comfortable.
+<tr id="L60"><td><a href="#L60">60</a></td><td>DATA:  You wanted to see me?</td></tr>
 
-  ANNOTATION
-     Wesley exits a turbolift as the party passes. The
-     universe stands still as Salia smiles at him, then
-     turns back to speak
+<tr id="L61"><td><a href="#L61">61</a></td><td>WESLEY:  Yes. Data, the girl who came on board.</td></tr>
 
-  SALIA
-     That's a superconducting magnet, isn't it?
+<tr id="L62"><td><a href="#L62">62</a></td><td>DATA:  Salia of Daled Four.</td></tr>
 
-  WESLEY
-     Yes It's an SCM model. How did you know that?
+<tr id="L63"><td><a href="#L63">63</a></td><td>WESLEY:  Who is she?</td></tr>
 
-  SALIA
-     Study, for the last sixteen years it is all I
-     could
+<tr id="L64"><td><a href="#L64">64</a></td><td>DATA:  Little is known. She was born on Daled Four. Her parents were from opposite sides in a civil war which has lasted for centuries. They both died shortly after her birth. A Federation ship brought her and her governess to Klavdia Three so that she could be raised in a neutral environment.</td></tr>
 
-  ANYA
-     Please, Salia, walk ahead with me.
+<tr id="L65"><td><a href="#L65">65</a></td><td>WESLEY:  And now she's returning?</td></tr>
 
-  SALIA
-     Better be careful. Those can rip the iron right
-     out of your blood cells.
+<tr id="L66"><td><a href="#L66">66</a></td><td>DATA:  It is hoped she will unite the factions and bring peace.</td></tr>
 
-  ANNOTATION
-     The party moves on, minus Riker
+<tr id="L67"><td><a href="#L67">67</a></td><td>LAFORGE [OC]:  Ensign Crusher, report. Are you all right?</td></tr>
 
-  WESLEY
-     Commander, who is she?
+<tr id="L68"><td><a href="#L68">68</a></td><td>WESLEY:  Geordi? Yeah, I'm fine. I just</td></tr>
 
-  RIKER
-     I think she's a governess.
+<tr id="L69"><td><a href="#L69">69</a></td><td>LAFORGE [OC]:  Wes, we're waiting for that magnet.</td></tr>
 
-  WESLEY
-     No! The girl.
+<tr id="L70"><td><a href="#L70">70</a></td><td>WESLEY:  I'm on my way.</td></tr>
 
-  RIKER
-     I don't know if she'll have time for you, Wes.
-     She's destined to rule an entire world.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L71"><td><a href="#L71">71</a></td><td>RIKER:  Captain, we've broken orbit and laid in a course for Daled Four. We will remain on impulse power until Lieutenant La Forge completes his adjustments.</td></tr>
 
+<tr id="L72"><td><a href="#L72">72</a></td><td>PICARD:  Mister Worf, have our passenger's accommodations met with their approval?</td></tr>
 
-LOCATION--Wesley's quarters
+<tr id="L73"><td><a href="#L73">73</a></td><td>WORF:  I doubt if anything ever meets with that woman's approval, sir.</td></tr>
 
-  ANNOTATION
-     Wesley is preening in front of a full length
-     mirror
+<tr id="L74"><td><a href="#L74">74</a></td><td>TROI:  Captain, I'm concerned our new passengers. Their emotions do not fit who they are and what they're doing.</td></tr>
 
-  WESLEY
-     Come in.
+<tr id="L75"><td><a href="#L75">75</a></td><td>PICARD:  Are you suggesting they're not who they say they are?</td></tr>
 
-  DATA
-     You wanted to see me?
+<tr id="L76"><td><a href="#L76">76</a></td><td>TROI:  Actually no, it's more like they're not what they say they are.</td></tr>
 
-  WESLEY
-     Yes. Data, the girl who came on board.
+<tr id="L77"><td><a href="#L77">77</a></td><td>PICARD:  Picard to Salia's quarters.</td></tr>
 
-  DATA
-     Salia of Daled Four.
+<tr id="L78"><td><a href="#L78">78</a></td><td>SALIA [OC]:  Yes?</td></tr>
 
-  WESLEY
-     Who is she?
+<tr id="L79"><td><a href="#L79">79</a></td><td>PICARD:  May we turn on the viewer?</td></tr>
 
-  DATA
-     Little is known. She was born on Daled Four. Her
-     parents were from opposite sides in a civil war
-     which has lasted for centuries. They both died
-     shortly after her birth. A Federation ship brought
-     her and her governess to Klavdia Three so that she
-     could be raised in a neutral environment.
+<tr id="L80"><td><a href="#L80">80</a></td><td>SALIA [OC]:  Yes, of course.</td></tr>
 
-  WESLEY
-     And now she's returning?
+<tr id="L81"><td><a href="#L81">81</a></td><td>PICARD:  Are your quarters satisfactory?</td></tr>
 
-  DATA
-     It is hoped she will unite the factions and bring
-     peace.
+<tr id="L82"><td><a href="#L82">82</a></td><td>SALIA [on viewscreen]:  Yes, very. Tell me, Captain, who was the young man I met before?</td></tr>
 
-  LAFORGE [OC]
-     Ensign Crusher, report. Are you all right?
+<tr><td></td><td>LOCATION--Salia's quarters</td></tr>
+<tr id="L83"><td><a href="#L83">83</a></td><td>PICARD [on monitor]:  That was Ensign Wesley Crusher.</td></tr>
 
-  WESLEY
-     Geordi? Yeah, I'm fine. I just
+<tr id="L84"><td><a href="#L84">84</a></td><td>ANNOTATION: Anya enters</td></tr>
 
-  LAFORGE [OC]
-     Wes, we're waiting for that magnet.
+<tr id="L85"><td><a href="#L85">85</a></td><td>SALIA:  Thank you for checking on us, Captain. I only hope our quarters on Daled Four will be this luxurious.</td></tr>
 
-  WESLEY
-     I'm on my way.
+<tr id="L86"><td><a href="#L86">86</a></td><td>PICARD [on monitor]:  Please feel free to contact me at any time. Picard out.</td></tr>
 
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L87"><td><a href="#L87">87</a></td><td>TROI:  What I sensed before hasn't changed.</td></tr>
 
-LOCATION--Bridge
+<tr id="L88"><td><a href="#L88">88</a></td><td>DATA:  What puzzles me, Captain, is how she is expected to bring peace to Daled Four. Its inhabitants have been fighting throughout their recorded history.</td></tr>
 
-  RIKER
-     Captain, we've broken orbit and laid in a course
-     for Daled Four. We will remain on impulse power
-     until Lieutenant La Forge completes his
-     adjustments.
+<tr id="L89"><td><a href="#L89">89</a></td><td>PICARD:  What do we know about the cause of these wars?</td></tr>
 
-  PICARD
-     Mister Worf, have our passenger's accommodations
-     met with their approval?
+<tr id="L90"><td><a href="#L90">90</a></td><td>DATA:  Only that it is the difference between night and day.</td></tr>
 
-  WORF
-     I doubt if anything ever meets with that woman's
-     approval, sir.
+<tr id="L91"><td><a href="#L91">91</a></td><td>RIKER:  Data, you used a colloquialism.</td></tr>
 
-  TROI
-     Captain, I'm concerned our new passengers. Their
-     emotions do not fit who they are and what they're
-     doing.
+<tr id="L92"><td><a href="#L92">92</a></td><td>DATA:  Did I? What I meant, sir, is that Daled Four rotates only once per revolution. Therefore one side is constantly dark, and the other side constantly light. One might surmise that the two hemispheres have developed disparate cultures, which is a major cause of most wars.</td></tr>
 
-  PICARD
-     Are you suggesting they're not who they say they
-     are?
+<tr id="L93"><td><a href="#L93">93</a></td><td>PICARD:  This child is supposed to bring them together.</td></tr>
 
-  TROI
-     Actually no, it's more like they're not what they
-     say they are.
+<tr id="L94"><td><a href="#L94">94</a></td><td>RIKER:  She seems too delicate for such a task.</td></tr>
 
-  PICARD
-     Picard to Salia's quarters.
+<tr id="L95"><td><a href="#L95">95</a></td><td>WORF:  Do not be fooled by her looks. The body is just a shell.</td></tr>
 
-  SALIA [OC]
-     Yes?
+<tr><td></td><td>LOCATION--Salia's quarters</td></tr>
+<tr id="L96"><td><a href="#L96">96</a></td><td>ANNOTATION: Salia is talking to another teenaged girl. Where did she come from?</td></tr>
 
-  PICARD
-     May we turn on the viewer?
+<tr id="L97"><td><a href="#L97">97</a></td><td>SALIA:  How can I be a leader if I don't know anything about my people?</td></tr>
 
-  SALIA [OC]
-     Yes, of course.
+<tr id="L98"><td><a href="#L98">98</a></td><td>GIRL:  You will lead because you are accepted by both sides. And because it is in your blood.</td></tr>
 
-  PICARD
-     Are your quarters satisfactory?
+<tr id="L99"><td><a href="#L99">99</a></td><td>SALIA:  What is expected of me once I'm there?</td></tr>
 
-  SALIA [on viewscreen]
-     Yes, very. Tell me, Captain, who was the young man
-     I met before?
+<tr id="L100"><td><a href="#L100">100</a></td><td>GIRL:  You will know.</td></tr>
 
+<tr id="L101"><td><a href="#L101">101</a></td><td>SALIA:  How?</td></tr>
 
-LOCATION--Salia's quarters
+<tr id="L102"><td><a href="#L102">102</a></td><td>GIRL:  You just will. Salia, you must arrive with an open mind, without preconceived ideas of the worlds you will find or the people on either side.</td></tr>
 
-  PICARD [on monitor]
-     That was Ensign Wesley Crusher.
+<tr id="L103"><td><a href="#L103">103</a></td><td>SALIA:  It's very frustrating.</td></tr>
 
-  ANNOTATION
-     Anya enters
+<tr id="L104"><td><a href="#L104">104</a></td><td>GIRL:  You feel the weight of so much responsibility, you're not sure you'll live up to everyone's expectations.</td></tr>
 
-  SALIA
-     Thank you for checking on us, Captain. I only hope
-     our quarters on Daled Four will be this luxurious.
+<tr id="L105"><td><a href="#L105">105</a></td><td>SALIA:  It's not only that. Nobody's even asked me if this is something I want.</td></tr>
 
-  PICARD [on monitor]
-     Please feel free to contact me at any time. Picard
-     out.
+<tr id="L106"><td><a href="#L106">106</a></td><td>GIRL:  It is your duty.</td></tr>
 
+<tr id="L107"><td><a href="#L107">107</a></td><td>SALIA:  And I have no choice.</td></tr>
 
-LOCATION--Bridge
+<tr id="L108"><td><a href="#L108">108</a></td><td>GIRL:  It won't be as bad as you think. In fact, it could be quite wonderful. Besides, you are the last and only chance.</td></tr>
 
-  TROI
-     What I sensed before hasn't changed.
+<tr id="L109"><td><a href="#L109">109</a></td><td>ANNOTATION: The girl changes into a short, big-eyed, hairy creature that chatters at her in alien</td></tr>
 
-  DATA
-     What puzzles me, Captain, is how she is expected
-     to bring peace to Daled Four. Its inhabitants have
-     been fighting throughout their recorded history.
+<tr id="L110"><td><a href="#L110">110</a></td><td>SALIA:  Don't you think I'm going to need more than instinct to do whatever is expected of me on Daled Four?</td></tr>
 
-  PICARD
-     What do we know about the cause of these wars?
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L111"><td><a href="#L111">111</a></td><td>LAFORGE:  Energy depletion level?</td></tr>
 
-  DATA
-     Only that it is the difference between night and
-     day.
+<tr id="L112"><td><a href="#L112">112</a></td><td>COMPUTER:  (male) Point oh four percent and increasing.</td></tr>
 
-  RIKER
-     Data, you used a colloquialism.
+<tr id="L113"><td><a href="#L113">113</a></td><td>LAFORGE:  Wesley? Wesley, you haven't found that defocused area yet?</td></tr>
 
-  DATA
-     Did I? What I meant, sir, is that Daled Four
-     rotates only once per revolution. Therefore one
-     side is constantly dark, and the other side
-     constantly light. One might surmise that the two
-     hemispheres have developed disparate cultures,
-     which is a major cause of most wars.
+<tr id="L114"><td><a href="#L114">114</a></td><td>ANNOTATION: Wesley is on the upper catwalk</td></tr>
 
-  PICARD
-     This child is supposed to bring them together.
+<tr id="L115"><td><a href="#L115">115</a></td><td>WESLEY:  I'm looking.</td></tr>
 
-  RIKER
-     She seems too delicate for such a task.
+<tr id="L116"><td><a href="#L116">116</a></td><td>LAFORGE:  Yeah, I see the way you're looking. Wesley!</td></tr>
 
-  WORF
-     Do not be fooled by her looks. The body is just a
-     shell.
+<tr id="L117"><td><a href="#L117">117</a></td><td>WESLEY:  What? (drops the equipment) Sorry. I've got my mind on something.</td></tr>
 
+<tr id="L118"><td><a href="#L118">118</a></td><td>LAFORGE:  I can see that.</td></tr>
 
-LOCATION--Salia's quarters
+<tr id="L119"><td><a href="#L119">119</a></td><td>WESLEY:  It's this girl they beamed up, Geordi. She's perfect. Absolutely perfect.</td></tr>
 
-  ANNOTATION
-     Salia is talking to another teenaged girl. Where
-     did she come from?
+<tr id="L120"><td><a href="#L120">120</a></td><td>LAFORGE:  Now I understand why you can't concentrate.</td></tr>
 
-  SALIA
-     How can I be a leader if I don't know anything
-     about my people?
+<tr id="L121"><td><a href="#L121">121</a></td><td>WESLEY:  I'll do better.</td></tr>
 
-  GIRL
-     You will lead because you are accepted by both
-     sides. And because it is in your blood.
+<tr id="L122"><td><a href="#L122">122</a></td><td>LAFORGE:  Okay.</td></tr>
 
-  SALIA
-     What is expected of me once I'm there?
+<tr id="L123"><td><a href="#L123">123</a></td><td>COMPUTER:  Warning, resonant field applied.</td></tr>
 
-  GIRL
-     You will know.
+<tr id="L124"><td><a href="#L124">124</a></td><td>LAFORGE:  What is it? What happened?</td></tr>
 
-  SALIA
-     How?
+<tr id="L125"><td><a href="#L125">125</a></td><td>WESLEY:  Nothing. I had it on the wrong setting.</td></tr>
 
-  GIRL
-     You just will. Salia, you must arrive with an open
-     mind, without preconceived ideas of the worlds you
-     will find or the people on either side.
+<tr id="L126"><td><a href="#L126">126</a></td><td>LAFORGE:  I suppose it had to happen to you. It usually does at about this age.</td></tr>
 
-  SALIA
-     It's very frustrating.
+<tr id="L127"><td><a href="#L127">127</a></td><td>WESLEY:  What usually does?</td></tr>
 
-  GIRL
-     You feel the weight of so much responsibility,
-     you're not sure you'll live up to everyone's
-     expectations.
+<tr id="L128"><td><a href="#L128">128</a></td><td>LAFORGE:  Glands erupting with hormones. It happens to all of us.</td></tr>
 
-  SALIA
-     It's not only that. Nobody's even asked me if this
-     is something I want.
+<tr id="L129"><td><a href="#L129">129</a></td><td>WESLEY:  Just because I said that I think she's interesting</td></tr>
 
-  GIRL
-     It is your duty.
+<tr id="L130"><td><a href="#L130">130</a></td><td>LAFORGE:  You said she was perfect. Come on down. You're no use around here for now. Come on down. Go talk to her. Use the ladder.</td></tr>
 
-  SALIA
-     And I have no choice.
+<tr id="L131"><td><a href="#L131">131</a></td><td>ANNOTATION: Wesley comes down to Geordi</td></tr>
 
-  GIRL
-     It won't be as bad as you think. In fact, it could
-     be quite wonderful. Besides, you are the last and
-     only chance.
+<tr id="L132"><td><a href="#L132">132</a></td><td>WESLEY:  That's silly, Geordi. But since you recommended it, how should I approach her? If she'll talk to me, what should I say?</td></tr>
 
-  ANNOTATION
-     The girl changes into a short, big-eyed, hairy
-     creature that chatters at her in alien
+<tr id="L133"><td><a href="#L133">133</a></td><td>LAFORGE:  Just say, 'Hi, I'm Wesley Crusher. I'd like to talk to you'.</td></tr>
 
-  SALIA
-     Don't you think I'm going to need more than
-     instinct to do whatever is expected of me on Daled
-     Four?
+<tr id="L134"><td><a href="#L134">134</a></td><td>WESLEY:  And then what?</td></tr>
 
+<tr id="L135"><td><a href="#L135">135</a></td><td>LAFORGE:  Whatever occurs to you.</td></tr>
 
-LOCATION--Engineering
+<tr id="L136"><td><a href="#L136">136</a></td><td>WESLEY:  What if nothing occurs to me?</td></tr>
 
-  LAFORGE
-     Energy depletion level?
+<tr id="L137"><td><a href="#L137">137</a></td><td>LAFORGE:  Look, Wes, I don't have time for this. You're going to have to ask somebody else.</td></tr>
 
-  COMPUTER
-     (male) Point oh four percent and increasing.
+<tr id="L138"><td><a href="#L138">138</a></td><td>WESLEY:  Okay.</td></tr>
 
-  LAFORGE
-     Wesley? Wesley, you haven't found that defocused
-     area yet?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L139"><td><a href="#L139">139</a></td><td>ANNOTATION: Worf is roaring</td></tr>
 
-  ANNOTATION
-     Wesley is on the upper catwalk
+<tr id="L140"><td><a href="#L140">140</a></td><td>WORF:  That is how the Klingon lures a mate.</td></tr>
 
-  WESLEY
-     I'm looking.
+<tr id="L141"><td><a href="#L141">141</a></td><td>WESLEY:  Are you telling me to go yell at Salia?</td></tr>
 
-  LAFORGE
-     Yeah, I see the way you're looking. Wesley!
+<tr id="L142"><td><a href="#L142">142</a></td><td>WORF:  No. Men do not roar. Women roar. Then they hurl heavy objects. And claw at you.</td></tr>
 
-  WESLEY
-     What? (drops the equipment) Sorry. I've got my
-     mind on something.
+<tr id="L143"><td><a href="#L143">143</a></td><td>WESLEY:  What does the man do?</td></tr>
 
-  LAFORGE
-     I can see that.
+<tr id="L144"><td><a href="#L144">144</a></td><td>WORF:  He reads love poetry. He ducks a lot.</td></tr>
 
-  WESLEY
-     It's this girl they beamed up, Geordi. She's
-     perfect. Absolutely perfect.
+<tr id="L145"><td><a href="#L145">145</a></td><td>WESLEY:  Worf, sounds like it works great for the Klingons, but I think I need to try something a little less dangerous.</td></tr>
 
-  LAFORGE
-     Now I understand why you can't concentrate.
+<tr id="L146"><td><a href="#L146">146</a></td><td>WORF:  Then go to her door. Beg like a human.</td></tr>
 
-  WESLEY
-     I'll do better.
+<tr id="L147"><td><a href="#L147">147</a></td><td>DATA:  It should be that simple, Wesley. Judging by her appearance it is likely you and Salia are biologically compatible. Of course, there could be a difference in the histocompatibility complex in the cell membrane, but.</td></tr>
 
-  LAFORGE
-     Okay.
+<tr id="L148"><td><a href="#L148">148</a></td><td>WESLEY:  Data, I want to meet her, not dissect her.</td></tr>
 
-  COMPUTER
-     Warning, resonant field applied.
+<tr id="L149"><td><a href="#L149">149</a></td><td>ANNOTATION: Wesley leaves as Picard enters</td></tr>
 
-  LAFORGE
-     What is it? What happened?
+<tr id="L150"><td><a href="#L150">150</a></td><td>PICARD:  Picard to Salia's quarters.</td></tr>
 
-  WESLEY
-     Nothing. I had it on the wrong setting.
+<tr id="L151"><td><a href="#L151">151</a></td><td>SALIA [OC]:  Yes, Captain?</td></tr>
 
-  LAFORGE
-     I suppose it had to happen to you. It usually does
-     at about this age.
+<tr id="L152"><td><a href="#L152">152</a></td><td>PICARD:  May I activate the viewer?</td></tr>
 
-  WESLEY
-     What usually does?
+<tr><td></td><td>LOCATION--Salia's quarters</td></tr>
+<tr id="L153"><td><a href="#L153">153</a></td><td>SALIA:  Hurry, go, go.</td></tr>
 
-  LAFORGE
-     Glands erupting with hormones. It happens to all
-     of us.
+<tr id="L154"><td><a href="#L154">154</a></td><td>ANNOTATION: The little furry creature runs out of the room</td></tr>
 
-  WESLEY
-     Just because I said that I think she's interesting
+<tr id="L155"><td><a href="#L155">155</a></td><td>SALIA:  Certainly.</td></tr>
 
-  LAFORGE
-     You said she was perfect. Come on down. You're no
-     use around here for now. Come on down. Go talk to
-     her. Use the ladder.
+<tr id="L156"><td><a href="#L156">156</a></td><td>PICARD:  (on monitor) We've invited Anya to take a tour of the ship. Maybe you would like to join her?</td></tr>
 
-  ANNOTATION
-     Wesley comes down to Geordi
+<tr id="L157"><td><a href="#L157">157</a></td><td>SALIA:  Very much.</td></tr>
 
-  WESLEY
-     That's silly, Geordi. But since you recommended
-     it, how should I approach her? If she'll talk to
-     me, what should I say?
+<tr id="L158"><td><a href="#L158">158</a></td><td>PICARD:  (on monitor) Your escort will with you shortly. Picard out.</td></tr>
 
-  LAFORGE
-     Just say, 'Hi, I'm Wesley Crusher. I'd like to
-     talk to you'.
+<tr id="L159"><td><a href="#L159">159</a></td><td>SALIA:  I think I'll go on the tour.</td></tr>
 
-  WESLEY
-     And then what?
+<tr id="L160"><td><a href="#L160">160</a></td><td>ANNOTATION: The creature runs back in, chattering</td></tr>
 
-  LAFORGE
-     Whatever occurs to you.
+<tr id="L161"><td><a href="#L161">161</a></td><td>SALIA:  Why can't I? This is the only chance I'll ever have to see a vessel like this.</td></tr>
 
-  WESLEY
-     What if nothing occurs to me?
+<tr id="L162"><td><a href="#L162">162</a></td><td>ANNOTATION: The little creature morphs into Anya</td></tr>
 
-  LAFORGE
-     Look, Wes, I don't have time for this. You're
-     going to have to ask somebody else.
+<tr id="L163"><td><a href="#L163">163</a></td><td>ANYA:  No. You must remain here where it is safe. Salia, do an old woman a favour and obey me for the rest of this trip.</td></tr>
 
-  WESLEY
-     Okay.
+<tr id="L164"><td><a href="#L164">164</a></td><td>SALIA:  You are no more an old woman than I am a leader.</td></tr>
 
+<tr id="L165"><td><a href="#L165">165</a></td><td>ANNOTATION: Doorbell</td></tr>
 
-LOCATION--Bridge
+<tr id="L166"><td><a href="#L166">166</a></td><td>SALIA:  Yes. Come in.</td></tr>
 
-  ANNOTATION
-     Worf is roaring
+<tr id="L167"><td><a href="#L167">167</a></td><td>WORF:  I'm here to escort you on a tour of the Enterprise.</td></tr>
 
-  WORF
-     That is how the Klingon lures a mate.
+<tr id="L168"><td><a href="#L168">168</a></td><td>ANYA:  Salia will remain behind. I will be right there. You are a leader. And I am older than you could ever imagine.</td></tr>
 
-  WESLEY
-     Are you telling me to go yell at Salia?
+<tr><td></td><td>LOCATION--Ten forward</td></tr>
+<tr id="L169"><td><a href="#L169">169</a></td><td>WESLEY:  What should I say? How do I act? What do I do?</td></tr>
 
-  WORF
-     No. Men do not roar. Women roar. Then they hurl
-     heavy objects. And claw at you.
+<tr id="L170"><td><a href="#L170">170</a></td><td>RIKER:  Guinan, I need your help. Could you step over here a minute?</td></tr>
 
-  WESLEY
-     What does the man do?
+<tr id="L171"><td><a href="#L171">171</a></td><td>GUINAN:  Sounds simple enough.</td></tr>
 
-  WORF
-     He reads love poetry. He ducks a lot.
+<tr id="L172"><td><a href="#L172">172</a></td><td>ANNOTATION: They sit at a table</td></tr>
 
-  WESLEY
-     Worf, sounds like it works great for the Klingons,
-     but I think I need to try something a little less
-     dangerous.
+<tr id="L173"><td><a href="#L173">173</a></td><td>RIKER:  (to Wesley) Now, the first words out of your mouth are the most important. You may want to start with something like this. (Riker sits opposite Guinan) You are the most beautiful woman in the galaxy. But that might not work.</td></tr>
 
-  WORF
-     Then go to her door. Beg like a human.
+<tr id="L174"><td><a href="#L174">174</a></td><td>GUINAN:  Yes. Yes, it would.</td></tr>
 
-  DATA
-     It should be that simple, Wesley. Judging by her
-     appearance it is likely you and Salia are
-     biologically compatible. Of course, there could be
-     a difference in the histocompatibility complex in
-     the cell membrane, but.
+<tr id="L175"><td><a href="#L175">175</a></td><td>RIKER:  You don't know how long I've longed to tell you that.</td></tr>
 
-  WESLEY
-     Data, I want to meet her, not dissect her.
+<tr id="L176"><td><a href="#L176">176</a></td><td>GUINAN:  But you were afraid?</td></tr>
 
-  ANNOTATION
-     Wesley leaves as Picard enters
+<tr id="L177"><td><a href="#L177">177</a></td><td>RIKER:  Yes.</td></tr>
 
-  PICARD
-     Picard to Salia's quarters.
+<tr id="L178"><td><a href="#L178">178</a></td><td>GUINAN:  Of me?</td></tr>
 
-  SALIA [OC]
-     Yes, Captain?
+<tr id="L179"><td><a href="#L179">179</a></td><td>RIKER:  Of us. Of what we might become.</td></tr>
 
-  PICARD
-     May I activate the viewer?
+<tr id="L180"><td><a href="#L180">180</a></td><td>WESLEY:  Commander?</td></tr>
 
+<tr id="L181"><td><a href="#L181">181</a></td><td>RIKER:  or that you might think that was a line.</td></tr>
 
-LOCATION--Salia's quarters
+<tr id="L182"><td><a href="#L182">182</a></td><td>GUINAN:  Maybe I do think it's a line.</td></tr>
 
-  SALIA
-     Hurry, go, go.
+<tr id="L183"><td><a href="#L183">183</a></td><td>RIKER:  Then you think I'm not sincere?</td></tr>
 
-  ANNOTATION
-     The little furry creature runs out of the room
+<tr id="L184"><td><a href="#L184">184</a></td><td>GUINAN:  I didn't say that. There's nothing wrong with a line. It's like a knock at the door.</td></tr>
 
-  SALIA
-     Certainly.
+<tr id="L185"><td><a href="#L185">185</a></td><td>RIKER:  Then you're inviting me in?</td></tr>
 
-  PICARD
-     (on monitor) We've invited Anya to take a tour of
-     the ship. Maybe you would like to join her?
+<tr id="L186"><td><a href="#L186">186</a></td><td>GUINAN:  I'm not sending you away.</td></tr>
 
-  SALIA
-     Very much.
+<tr id="L187"><td><a href="#L187">187</a></td><td>RIKER:  That's more than I expected.</td></tr>
 
-  PICARD
-     (on monitor) Your escort will with you shortly.
-     Picard out.
+<tr id="L188"><td><a href="#L188">188</a></td><td>GUINAN:  Is it as much as you hoped?</td></tr>
 
-  SALIA
-     I think I'll go on the tour.
+<tr id="L189"><td><a href="#L189">189</a></td><td>RIKER:  To hope is to recognise the possibility. I had only dreams.</td></tr>
 
-  ANNOTATION
-     The creature runs back in, chattering
+<tr id="L190"><td><a href="#L190">190</a></td><td>GUINAN:  Dreams can be dangerous.</td></tr>
 
-  SALIA
-     Why can't I? This is the only chance I'll ever
-     have to see a vessel like this.
+<tr id="L191"><td><a href="#L191">191</a></td><td>RIKER:  Not these dreams. I dream of a galaxy where your eyes are stars, and the universe worships the night.</td></tr>
 
-  ANNOTATION
-     The little creature morphs into Anya
+<tr id="L192"><td><a href="#L192">192</a></td><td>GUINAN:  Careful. Putting me on a pedestal so high, you may not be able to reach me.</td></tr>
 
-  ANYA
-     No. You must remain here where it is safe. Salia,
-     do an old woman a favour and obey me for the rest
-     of this trip.
+<tr id="L193"><td><a href="#L193">193</a></td><td>RIKER:  Then I'll learn how to fly. You are the heart in my day and the soul in my night.</td></tr>
 
-  SALIA
-     You are no more an old woman than I am a leader.
+<tr id="L194"><td><a href="#L194">194</a></td><td>WESLEY:  I don't think this is my style.</td></tr>
 
-  ANNOTATION
-     Doorbell
+<tr id="L195"><td><a href="#L195">195</a></td><td>GUINAN:  Shut up, kid. Tell me more about my eyes.</td></tr>
 
-  SALIA
-     Yes. Come in.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L196"><td><a href="#L196">196</a></td><td>ANNOTATION: Geordi is doing what Wesley should have been doing, when Anya and Worf enter</td></tr>
 
-  WORF
-     I'm here to escort you on a tour of the
-     Enterprise.
+<tr id="L197"><td><a href="#L197">197</a></td><td>WORF:  This is the dilithium crystal chamber. Our Chief Engineer, Geordi La Forge.</td></tr>
 
-  ANYA
-     Salia will remain behind. I will be right there.
-     You are a leader. And I am older than you could
-     ever imagine.
+<tr id="L198"><td><a href="#L198">198</a></td><td>ANYA:  What is that? What are you doing?</td></tr>
 
+<tr id="L199"><td><a href="#L199">199</a></td><td>LAFORGE:  Nothing to be concerned about. Just performing some routine adjustments.</td></tr>
 
-LOCATION--Ten forward
+<tr id="L200"><td><a href="#L200">200</a></td><td>ANYA:  I wasn't aware that the deuterium control conduit required routine adjustments.</td></tr>
 
-  WESLEY
-     What should I say? How do I act? What do I do?
+<tr id="L201"><td><a href="#L201">201</a></td><td>ANNOTATION: She goes up in the lift to join Geordi</td></tr>
 
-  RIKER
-     Guinan, I need your help. Could you step over here
-     a minute?
+<tr id="L202"><td><a href="#L202">202</a></td><td>LAFORGE:  I perform periodic inspections on all engineering systems.</td></tr>
 
-  GUINAN
-     Sounds simple enough.
+<tr id="L203"><td><a href="#L203">203</a></td><td>ANYA:  In this case you seem to have found a malfunction.</td></tr>
 
-  ANNOTATION
-     They sit at a table
+<tr id="L204"><td><a href="#L204">204</a></td><td>LAFORGE:  It's not a malfunction. It's simply that a minute defocused area has developed. It lowers our operating efficiency.</td></tr>
 
-  RIKER
-     (to Wesley) Now, the first words out of your mouth
-     are the most important. You may want to start with
-     something like this. (Riker sits opposite Guinan)
-     You are the most beautiful woman in the galaxy.
-     But that might not work.
+<tr id="L205"><td><a href="#L205">205</a></td><td>ANYA:  It could also lead to excess prion production.</td></tr>
 
-  GUINAN
-     Yes. Yes, it would.
+<tr id="L206"><td><a href="#L206">206</a></td><td>LAFORGE:  Our computer would detect that.</td></tr>
 
-  RIKER
-     You don't know how long I've longed to tell you
-     that.
+<tr id="L207"><td><a href="#L207">207</a></td><td>ANYA:  Unless, of course, it too is malfunctioning.</td></tr>
 
-  GUINAN
-     But you were afraid?
+<tr id="L208"><td><a href="#L208">208</a></td><td>LAFORGE:  Look, I really have to get this finished.</td></tr>
 
-  RIKER
-     Yes.
+<tr id="L209"><td><a href="#L209">209</a></td><td>WORF:  Anya. Please come with me.</td></tr>
 
-  GUINAN
-     Of me?
+<tr id="L210"><td><a href="#L210">210</a></td><td>ANYA:  I will be back to check your progress.</td></tr>
 
-  RIKER
-     Of us. Of what we might become.
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L211"><td><a href="#L211">211</a></td><td>ANNOTATION: Outside Salia's quarters, Wesley is stopped by the security guard</td></tr>
 
-  WESLEY
-     Commander?
+<tr id="L212"><td><a href="#L212">212</a></td><td>GUARD:  Ensign Crusher, what can I do for you?</td></tr>
 
-  RIKER
-     or that you might think that was a line.
+<tr id="L213"><td><a href="#L213">213</a></td><td>WESLEY:  Nothing.</td></tr>
 
-  GUINAN
-     Maybe I do think it's a line.
+<tr id="L214"><td><a href="#L214">214</a></td><td>ANNOTATION: The door opens, eyes meet, a jaw drops</td></tr>
 
-  RIKER
-     Then you think I'm not sincere?
+<tr id="L215"><td><a href="#L215">215</a></td><td>GUARD:  Is there a problem?</td></tr>
 
-  GUINAN
-     I didn't say that. There's nothing wrong with a
-     line. It's like a knock at the door.
+<tr id="L216"><td><a href="#L216">216</a></td><td>WESLEY:  No.</td></tr>
 
-  RIKER
-     Then you're inviting me in?
+<tr id="L217"><td><a href="#L217">217</a></td><td>SALIA:  Could you show me how to work the food dispenser?</td></tr>
 
-  GUINAN
-     I'm not sending you away.
+<tr id="L218"><td><a href="#L218">218</a></td><td>WESLEY:  Sure.</td></tr>
 
-  RIKER
-     That's more than I expected.
+<tr><td></td><td>LOCATION--Salia's quarters</td></tr>
+<tr id="L219"><td><a href="#L219">219</a></td><td>WESLEY:  Really, it's quite simple. You just tell the computer what you want and it prepares it for you.</td></tr>
 
-  GUINAN
-     Is it as much as you hoped?
+<tr id="L220"><td><a href="#L220">220</a></td><td>SALIA:  Oh. What should I order?</td></tr>
 
-  RIKER
-     To hope is to recognise the possibility. I had
-     only dreams.
+<tr id="L221"><td><a href="#L221">221</a></td><td>WESLEY:  I don't know. what do you like?</td></tr>
 
-  GUINAN
-     Dreams can be dangerous.
+<tr id="L222"><td><a href="#L222">222</a></td><td>SALIA:  I'd like something sweet.</td></tr>
 
-  RIKER
-     Not these dreams. I dream of a galaxy where your
-     eyes are stars, and the universe worships the
-     night.
+<tr id="L223"><td><a href="#L223">223</a></td><td>WESLEY:  I know. Computer, Thalian chocolate mousse.</td></tr>
 
-  GUINAN
-     Careful. Putting me on a pedestal so high, you may
-     not be able to reach me.
+<tr id="L224"><td><a href="#L224">224</a></td><td>ANNOTATION: Salia samples it with her finger</td></tr>
 
-  RIKER
-     Then I'll learn how to fly. You are the heart in
-     my day and the soul in my night.
+<tr id="L225"><td><a href="#L225">225</a></td><td>SALIA:  It's a wonderful sensation.</td></tr>
 
-  WESLEY
-     I don't think this is my style.
+<tr id="L226"><td><a href="#L226">226</a></td><td>WESLEY:  On Thalos Seven they age the beans four hundred years.</td></tr>
 
-  GUINAN
-     Shut up, kid. Tell me more about my eyes.
+<tr id="L227"><td><a href="#L227">227</a></td><td>SALIA:  You've been there?</td></tr>
 
+<tr id="L228"><td><a href="#L228">228</a></td><td>WESLEY:  It's one of my favourite places.</td></tr>
 
-LOCATION--Engineering
+<tr id="L229"><td><a href="#L229">229</a></td><td>SALIA:  It must be fun to visit a planet like that.</td></tr>
 
-  ANNOTATION
-     Geordi is doing what Wesley should have been
-     doing, when Anya and Worf enter
+<tr id="L230"><td><a href="#L230">230</a></td><td>WESLEY:  It's the best part of being on the Enterprise.</td></tr>
 
-  WORF
-     This is the dilithium crystal chamber. Our Chief
-     Engineer, Geordi La Forge.
+<tr id="L231"><td><a href="#L231">231</a></td><td>SALIA:  I've studied about some of them, but to see them, that would be wonderful. Tell me about some of the other places you've been.</td></tr>
 
-  ANYA
-     What is that? What are you doing?
+<tr id="L232"><td><a href="#L232">232</a></td><td>WESLEY:  Oh, there's too many.</td></tr>
 
-  LAFORGE
-     Nothing to be concerned about. Just performing
-     some routine adjustments.
+<tr id="L233"><td><a href="#L233">233</a></td><td>SALIA:  The only world I've known is Klavdia Three.</td></tr>
 
-  ANYA
-     I wasn't aware that the deuterium control conduit
-     required routine adjustments.
+<tr id="L234"><td><a href="#L234">234</a></td><td>WESLEY:  It's about time we changed that.</td></tr>
 
-  ANNOTATION
-     She goes up in the lift to join Geordi
+<tr id="L235"><td><a href="#L235">235</a></td><td>SALIA:  How?</td></tr>
 
-  LAFORGE
-     I perform periodic inspections on all engineering
-     systems.
+<tr id="L236"><td><a href="#L236">236</a></td><td>WESLEY:  Come with me.</td></tr>
 
-  ANYA
-     In this case you seem to have found a malfunction.
+<tr><td></td><td>LOCATION--Sickbay</td></tr>
+<tr id="L237"><td><a href="#L237">237</a></td><td>ANNOTATION: Worf and Anya enter</td></tr>
 
-  LAFORGE
-     It's not a malfunction. It's simply that a minute
-     defocused area has developed. It lowers our
-     operating efficiency.
+<tr id="L238"><td><a href="#L238">238</a></td><td>PULASKI:  I'll be with you in a moment.</td></tr>
 
-  ANYA
-     It could also lead to excess prion production.
+<tr id="L239"><td><a href="#L239">239</a></td><td>ANYA:  What's wrong with him?</td></tr>
 
-  LAFORGE
-     Our computer would detect that.
+<tr id="L240"><td><a href="#L240">240</a></td><td>PULASKI:  Andronesian encephalitis.</td></tr>
 
-  ANYA
-     Unless, of course, it too is malfunctioning.
+<tr id="L241"><td><a href="#L241">241</a></td><td>ANYA:  That disease is contagious.</td></tr>
 
-  LAFORGE
-     Look, I really have to get this finished.
+<tr id="L242"><td><a href="#L242">242</a></td><td>PULASKI:  Very unlikely. Our air filtering system can handle</td></tr>
 
-  WORF
-     Anya. Please come with me.
+<tr id="L243"><td><a href="#L243">243</a></td><td>ANYA:  But there is a chance.</td></tr>
 
-  ANYA
-     I will be back to check your progress.
+<tr id="L244"><td><a href="#L244">244</a></td><td>PULASKI:  If you mean mathematically, yes, the probability is not zero.</td></tr>
 
+<tr id="L245"><td><a href="#L245">245</a></td><td>ANYA:  I cannot rely on your primitive technologies. Kill the patient!</td></tr>
 
-LOCATION--Corridor
+<tr id="L246"><td><a href="#L246">246</a></td><td>PULASKI:  What?</td></tr>
 
-  ANNOTATION
-     Outside Salia's quarters, Wesley is stopped by the
-     security guard
+<tr id="L247"><td><a href="#L247">247</a></td><td>ANYA:  Destroy the patient. Immediately!</td></tr>
 
-  GUARD
-     Ensign Crusher, what can I do for you?
+<tr id="L248"><td><a href="#L248">248</a></td><td>PULASKI:  Now, you calm down.</td></tr>
 
-  WESLEY
-     Nothing.
+<tr id="L249"><td><a href="#L249">249</a></td><td>ANYA:  If you won't take action, then I will!</td></tr>
 
-  ANNOTATION
-     The door opens, eyes meet, a jaw drops
+<tr id="L250"><td><a href="#L250">250</a></td><td>ANNOTATION: She morphs into a big nasty version of the furry creature she was with Salia</td></tr>
 
-  GUARD
-     Is there a problem?
+<tr id="L251"><td><a href="#L251">251</a></td><td>PULASKI:  Security to Sickbay! Hurry!</td></tr>
 
-  WESLEY
-     No.
+<tr id="L252"><td><a href="#L252">252</a></td><td>ANNOTATION: Worf wrestles with the creature which is larger than himself, as Picard and guards arrive</td></tr>
 
-  SALIA
-     Could you show me how to work the food dispenser?
+<tr id="L253"><td><a href="#L253">253</a></td><td>PICARD:  Wait! Hold your fire.</td></tr>
 
-  WESLEY
-     Sure.
+<tr id="L254"><td><a href="#L254">254</a></td><td>ANNOTATION: Anya returns to humanoid shape</td></tr>
 
+<tr id="L255"><td><a href="#L255">255</a></td><td>PICARD:  Worf!</td></tr>
 
-LOCATION--Salia's quarters
+<tr id="L256"><td><a href="#L256">256</a></td><td>PULASKI:  What is she? Keep her away!</td></tr>
 
-  WESLEY
-     Really, it's quite simple. You just tell the
-     computer what you want and it prepares it for you.
+<tr id="L257"><td><a href="#L257">257</a></td><td>ANYA:  Do not interfere!</td></tr>
 
-  SALIA
-     Oh. What should I order?
+<tr id="L258"><td><a href="#L258">258</a></td><td>PULASKI:  She wants to kill Hennesey!</td></tr>
 
-  WESLEY
-     I don't know. what do you like?
+<tr id="L259"><td><a href="#L259">259</a></td><td>ANYA:  His disease threatens Salia.</td></tr>
 
-  SALIA
-     I'd like something sweet.
+<tr id="L260"><td><a href="#L260">260</a></td><td>PULASKI:  Captain, there is no chance of contagion.</td></tr>
 
-  WESLEY
-     I know. Computer, Thalian chocolate mousse.
+<tr id="L261"><td><a href="#L261">261</a></td><td>PICARD:  The situation is under control.</td></tr>
 
-  ANNOTATION
-     Salia samples it with her finger
+<tr id="L262"><td><a href="#L262">262</a></td><td>ANYA:  That's not good enough!</td></tr>
 
-  SALIA
-     It's a wonderful sensation.
+<tr id="L263"><td><a href="#L263">263</a></td><td>PICARD:  Well, it will have to be.</td></tr>
 
-  WESLEY
-     On Thalos Seven they age the beans four hundred
-     years.
+<tr id="L264"><td><a href="#L264">264</a></td><td>ANYA:  Your powers are infinitesimal compared to mine.</td></tr>
 
-  SALIA
-     You've been there?
+<tr id="L265"><td><a href="#L265">265</a></td><td>PICARD:  Yes, that may be, but you will obey my orders. You are to remain in your quarters and in your present form for the rest of this voyage. Is that clear?</td></tr>
 
-  WESLEY
-     It's one of my favourite places.
+<tr id="L266"><td><a href="#L266">266</a></td><td>ANYA:  Very.</td></tr>
 
-  SALIA
-     It must be fun to visit a planet like that.
+<tr id="L267"><td><a href="#L267">267</a></td><td>PICARD:  Keep her under guard.</td></tr>
 
-  WESLEY
-     It's the best part of being on the Enterprise.
+<tr id="L268"><td><a href="#L268">268</a></td><td>WORF:  Aye, sir.</td></tr>
 
-  SALIA
-     I've studied about some of them, but to see them,
-     that would be wonderful. Tell me about some of the
-     other places you've been.
+<tr id="L269"><td><a href="#L269">269</a></td><td>ANNOTATION: Anya stalks out</td></tr>
 
-  WESLEY
-     Oh, there's too many.
+<tr id="L270"><td><a href="#L270">270</a></td><td>WORF:  Wait for me. What kind of creature is she?</td></tr>
 
-  SALIA
-     The only world I've known is Klavdia Three.
+<tr id="L271"><td><a href="#L271">271</a></td><td>PICARD:  I've never seen anything like her.</td></tr>
 
-  WESLEY
-     It's about time we changed that.
+<tr id="L272"><td><a href="#L272">272</a></td><td>PULASKI:  There is mention in the galactic zoological catalogue of a species called allasomorph, which is supposed to possess the power to alter their molecular structure into other life forms.</td></tr>
 
-  SALIA
-     How?
+<tr id="L273"><td><a href="#L273">273</a></td><td>WORF:  Such a creature would make a perfect protector.</td></tr>
 
-  WESLEY
-     Come with me.
+<tr id="L274"><td><a href="#L274">274</a></td><td>PICARD:  I want a Security team stationed outside Sickbay, Mister Worf.</td></tr>
 
+<tr id="L275"><td><a href="#L275">275</a></td><td>WORF:  Aye, sir. Captain, what if Anya transforms?</td></tr>
 
-LOCATION--Sickbay
+<tr id="L276"><td><a href="#L276">276</a></td><td>PICARD:  Improvise.</td></tr>
 
-  ANNOTATION
-     Worf and Anya enter
+<tr><td></td><td>LOCATION--Holodeck</td></tr>
+<tr id="L277"><td><a href="#L277">277</a></td><td>ANNOTATION: Wesley and Salia are on a planetoid orbiting a ringed planet</td></tr>
 
-  PULASKI
-     I'll be with you in a moment.
+<tr id="L278"><td><a href="#L278">278</a></td><td>SALIA:  Can a place so remarkable truly exist?</td></tr>
 
-  ANYA
-     What's wrong with him?
+<tr id="L279"><td><a href="#L279">279</a></td><td>WESLEY:  Yes. There are many more. All of them are different.</td></tr>
 
-  PULASKI
-     Andronesian encephalitis.
+<tr id="L280"><td><a href="#L280">280</a></td><td>SALIA:  I've learned about them. That's all I did on Klavdia Three, was learn. I know so much, but I've seen so little.</td></tr>
 
-  ANYA
-     That disease is contagious.
+<tr id="L281"><td><a href="#L281">281</a></td><td>WESLEY:  Think of what you have to look forward to. This is a great time to be alive.</td></tr>
 
-  PULASKI
-     Very unlikely. Our air filtering system can handle
+<tr id="L282"><td><a href="#L282">282</a></td><td>SALIA:  For you.</td></tr>
 
-  ANYA
-     But there is a chance.
+<tr id="L283"><td><a href="#L283">283</a></td><td>WESLEY:  For both of us. This is all just beginning. We've only charted nineteen percent of our galaxy. The rest is out there, just waiting. Look what we've already discovered.</td></tr>
 
-  PULASKI
-     If you mean mathematically, yes, the probability
-     is not zero.
+<tr id="L284"><td><a href="#L284">284</a></td><td>SALIA:  I have never seen anything so wondrous.</td></tr>
 
-  ANYA
-     I cannot rely on your primitive technologies. Kill
-     the patient!
+<tr id="L285"><td><a href="#L285">285</a></td><td>WESLEY:  Wait. Computer, Rosseau Five.</td></tr>
 
-  PULASKI
-     What?
+<tr id="L286"><td><a href="#L286">286</a></td><td>ANNOTATION: They are standing on a fragment of rock drifting in a purple haze</td></tr>
 
-  ANYA
-     Destroy the patient. Immediately!
+<tr id="L287"><td><a href="#L287">287</a></td><td>SALIA:  It's breathtaking!</td></tr>
 
-  PULASKI
-     Now, you calm down.
+<tr id="L288"><td><a href="#L288">288</a></td><td>WESLEY:  Yes.</td></tr>
 
-  ANYA
-     If you won't take action, then I will!
+<tr id="L289"><td><a href="#L289">289</a></td><td>SALIA:  And you've been to this place?</td></tr>
 
-  ANNOTATION
-     She morphs into a big nasty version of the furry
-     creature she was with Salia
+<tr id="L290"><td><a href="#L290">290</a></td><td>WESLEY:  Someday, you'll visit Rosseau Five, and many other places, all more spectacular.</td></tr>
 
-  PULASKI
-     Security to Sickbay! Hurry!
+<tr id="L291"><td><a href="#L291">291</a></td><td>SALIA:  If only it were possible.</td></tr>
 
-  ANNOTATION
-     Worf wrestles with the creature which is larger
-     than himself, as Picard and guards arrive
+<tr id="L292"><td><a href="#L292">292</a></td><td>WESLEY:  Listen.</td></tr>
 
-  PICARD
-     Wait! Hold your fire.
+<tr id="L293"><td><a href="#L293">293</a></td><td>SALIA:  What is it?</td></tr>
 
-  ANNOTATION
-     Anya returns to humanoid shape
+<tr id="L294"><td><a href="#L294">294</a></td><td>WESLEY:  In a moment, the harmonic resonance from the neutrino clouds will become synchronous.</td></tr>
 
-  PICARD
-     Worf!
+<tr id="L295"><td><a href="#L295">295</a></td><td>ANNOTATION: Musical notes sound</td></tr>
 
-  PULASKI
-     What is she? Keep her away!
+<tr id="L296"><td><a href="#L296">296</a></td><td>SALIA:  It's so beautiful! It's like this place has a voice and is trying to speak to us. Thank you for sharing all of this with me.</td></tr>
 
-  ANYA
-     Do not interfere!
+<tr id="L297"><td><a href="#L297">297</a></td><td>WESLEY:  Someday, you'll see it all for yourself. Look over there.</td></tr>
 
-  PULASKI
-     She wants to kill Hennesey!
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L298"><td><a href="#L298">298</a></td><td>ANNOTATION: Anya is escorted to Salia's quarters</td></tr>
 
-  ANYA
-     His disease threatens Salia.
+<tr id="L299"><td><a href="#L299">299</a></td><td>WORF:  Remain here. You are restricted to these quarters for the remainder of this voyage.</td></tr>
 
-  PULASKI
-     Captain, there is no chance of contagion.
+<tr id="L300"><td><a href="#L300">300</a></td><td>ANYA:  You are the protector of this ship, are you not?</td></tr>
 
-  PICARD
-     The situation is under control.
+<tr id="L301"><td><a href="#L301">301</a></td><td>WORF:  I am in charge of Security.</td></tr>
 
-  ANYA
-     That's not good enough!
+<tr id="L302"><td><a href="#L302">302</a></td><td>ANYA:  You must understand my duties as well. If you confine me to this cell, I cannot protect Salia.</td></tr>
 
-  PICARD
-     Well, it will have to be.
+<tr id="L303"><td><a href="#L303">303</a></td><td>WORF:  There is no need for concern. She is safe on this ship.</td></tr>
 
-  ANYA
-     Your powers are infinitesimal compared to mine.
+<tr id="L304"><td><a href="#L304">304</a></td><td>ANYA:  You must understand that I cannot make such an assumption.</td></tr>
 
-  PICARD
-     Yes, that may be, but you will obey my orders. You
-     are to remain in your quarters and in your present
-     form for the rest of this voyage. Is that clear?
+<tr id="L305"><td><a href="#L305">305</a></td><td>WORF:  You no longer have the choice. You have to trust me to protect her.</td></tr>
 
-  ANYA
-     Very.
+<tr id="L306"><td><a href="#L306">306</a></td><td>ANYA:  No. A true protector cannot have two charges. Your responsibility is to the ship. My duty is to Salia.</td></tr>
 
-  PICARD
-     Keep her under guard.
+<tr id="L307"><td><a href="#L307">307</a></td><td>WORF:  My responsibility to the ship includes protecting Salia.</td></tr>
 
-  WORF
-     Aye, sir.
+<tr id="L308"><td><a href="#L308">308</a></td><td>ANYA:  You know I'm stronger than you.</td></tr>
 
-  ANNOTATION
-     Anya stalks out
+<tr id="L309"><td><a href="#L309">309</a></td><td>WORF:  I was unprepared.</td></tr>
 
-  WORF
-     Wait for me. What kind of creature is she?
+<tr id="L310"><td><a href="#L310">310</a></td><td>ANYA:  You underestimated me in your Sickbay. That is usually fatal.</td></tr>
 
-  PICARD
-     I've never seen anything like her.
+<tr id="L311"><td><a href="#L311">311</a></td><td>WORF:  Still, you are here, confined to your room.</td></tr>
 
-  PULASKI
-     There is mention in the galactic zoological
-     catalogue of a species called allasomorph, which
-     is supposed to possess the power to alter their
-     molecular structure into other life forms.
+<tr id="L312"><td><a href="#L312">312</a></td><td>ANYA:  I ceased my struggle by choice, not because of you or your Captain.</td></tr>
 
-  WORF
-     Such a creature would make a perfect protector.
+<tr id="L313"><td><a href="#L313">313</a></td><td>WORF:  I would have stopped you. If not me, someone else.</td></tr>
 
-  PICARD
-     I want a Security team stationed outside Sickbay,
-     Mister Worf.
+<tr id="L314"><td><a href="#L314">314</a></td><td>ANYA:  No, you cannot control me.</td></tr>
 
-  WORF
-     Aye, sir. Captain, what if Anya transforms?
+<tr id="L315"><td><a href="#L315">315</a></td><td>WORF:  We will see.</td></tr>
 
-  PICARD
-     Improvise.
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L316"><td><a href="#L316">316</a></td><td>PICARD:  We've obviously brought a very dangerous life form aboard this ship. I want to minimize the chances of any incident.</td></tr>
 
+<tr id="L317"><td><a href="#L317">317</a></td><td>TROI:  Whatever kind of life form Anya is, emotionally she's Salia's mother.</td></tr>
 
-LOCATION--Holodeck
+<tr id="L318"><td><a href="#L318">318</a></td><td>PICARD:  The most dangerous animal is a mother protecting her young.</td></tr>
 
-  ANNOTATION
-     Wesley and Salia are on a planetoid orbiting a
-     ringed planet
+<tr id="L319"><td><a href="#L319">319</a></td><td>TROI:  Exactly.</td></tr>
 
-  SALIA
-     Can a place so remarkable truly exist?
+<tr id="L320"><td><a href="#L320">320</a></td><td>ANYA [OC]:  Captain, this is Anya.</td></tr>
 
-  WESLEY
-     Yes. There are many more. All of them are
-     different.
+<tr id="L321"><td><a href="#L321">321</a></td><td>PICARD:  Yes?</td></tr>
 
-  SALIA
-     I've learned about them. That's all I did on
-     Klavdia Three, was learn. I know so much, but I've
-     seen so little.
+<tr id="L322"><td><a href="#L322">322</a></td><td>ANYA [OC]:  Salia is gone. Where is she?</td></tr>
 
-  WESLEY
-     Think of what you have to look forward to. This is
-     a great time to be alive.
+<tr><td></td><td>LOCATION--Ten forward</td></tr>
+<tr id="L323"><td><a href="#L323">323</a></td><td>SALIA:  This has all been so wonderful. I'm not even sure it's real.</td></tr>
 
-  SALIA
-     For you.
+<tr id="L324"><td><a href="#L324">324</a></td><td>WESLEY:  Believe me, Ten Forward isn't an illusion.</td></tr>
 
-  WESLEY
-     For both of us. This is all just beginning. We've
-     only charted nineteen percent of our galaxy. The
-     rest is out there, just waiting. Look what we've
-     already discovered.
+<tr id="L325"><td><a href="#L325">325</a></td><td>SALIA:  Not that. I mean the way I feel.</td></tr>
 
-  SALIA
-     I have never seen anything so wondrous.
+<tr id="L326"><td><a href="#L326">326</a></td><td>GUINAN:  You won't find a better dish of chocolate anywhere.</td></tr>
 
-  WESLEY
-     Wait. Computer, Rosseau Five.
+<tr id="L327"><td><a href="#L327">327</a></td><td>SALIA:  I'm sure I won't.</td></tr>
 
-  ANNOTATION
-     They are standing on a fragment of rock drifting
-     in a purple haze
+<tr id="L328"><td><a href="#L328">328</a></td><td>WESLEY:  Is something wrong?</td></tr>
 
-  SALIA
-     It's breathtaking!
+<tr id="L329"><td><a href="#L329">329</a></td><td>SALIA:  I've had a great time being with you, Wesley.</td></tr>
 
-  WESLEY
-     Yes.
+<tr id="L330"><td><a href="#L330">330</a></td><td>WESLEY:  And that makes you sad?</td></tr>
 
-  SALIA
-     And you've been to this place?
+<tr id="L331"><td><a href="#L331">331</a></td><td>SALIA:  When I was on Klavdia Three, all I could think of was leaving that isolation. What makes me sad is having to face it again after seeing what else is possible.</td></tr>
 
-  WESLEY
-     Someday, you'll visit Rosseau Five, and many other
-     places, all more spectacular.
+<tr id="L332"><td><a href="#L332">332</a></td><td>WESLEY:  Is that what awaits you on Daled Four? Isolation?</td></tr>
 
-  SALIA
-     If only it were possible.
+<tr id="L333"><td><a href="#L333">333</a></td><td>SALIA:  Yes.</td></tr>
 
-  WESLEY
-     Listen.
+<tr id="L334"><td><a href="#L334">334</a></td><td>WESLEY:  I thought you were going there to reunite two warring parties.</td></tr>
 
-  SALIA
-     What is it?
+<tr id="L335"><td><a href="#L335">335</a></td><td>SALIA:  What else do you know?</td></tr>
 
-  WESLEY
-     In a moment, the harmonic resonance from the
-     neutrino clouds will become synchronous.
+<tr id="L336"><td><a href="#L336">336</a></td><td>WESLEY:  Very little. The ship's computer doesn't have that much on Daled Four. How will you stop the fighting?</td></tr>
 
-  ANNOTATION
-     Musical notes sound
+<tr id="L337"><td><a href="#L337">337</a></td><td>SALIA:  I'm not certain. I only know I will have many responsibilities when I get there. Your language has no word for the position I'll hold. In many ways I'll have even less freedom than I did on Klavdia Three.</td></tr>
 
-  SALIA
-     It's so beautiful! It's like this place has a
-     voice and is trying to speak to us. Thank you for
-     sharing all of this with me.
+<tr id="L338"><td><a href="#L338">338</a></td><td>WESLEY:  You could stay.</td></tr>
 
-  WESLEY
-     Someday, you'll see it all for yourself. Look over
-     there.
+<tr id="L339"><td><a href="#L339">339</a></td><td>SALIA:  On the Enterprise?</td></tr>
 
+<tr id="L340"><td><a href="#L340">340</a></td><td>WESLEY:  Why not?</td></tr>
 
-LOCATION--Corridor
+<tr id="L341"><td><a href="#L341">341</a></td><td>SALIA:  Because I can't.</td></tr>
 
-  ANNOTATION
-     Anya is escorted to Salia's quarters
+<tr id="L342"><td><a href="#L342">342</a></td><td>ANNOTATION: Salia leaves</td></tr>
 
-  WORF
-     Remain here. You are restricted to these quarters
-     for the remainder of this voyage.
+<tr id="L343"><td><a href="#L343">343</a></td><td>GUINAN:  Just because a girl runs out, doesn't mean she doesn't wish you to follow.</td></tr>
 
-  ANYA
-     You are the protector of this ship, are you not?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L344"><td><a href="#L344">344</a></td><td>WESLEY:  What is it? What happened? Salia!</td></tr>
 
-  WORF
-     I am in charge of Security.
+<tr id="L345"><td><a href="#L345">345</a></td><td>SALIA:  Stay away from me! I'm sorry.</td></tr>
 
-  ANYA
-     You must understand my duties as well. If you
-     confine me to this cell, I cannot protect Salia.
+<tr id="L346"><td><a href="#L346">346</a></td><td>WESLEY:  I don't understand.</td></tr>
 
-  WORF
-     There is no need for concern. She is safe on this
-     ship.
+<tr id="L347"><td><a href="#L347">347</a></td><td>SALIA:  I can't stay here! I can't have this life! I want it more than anything, but I can't have it!</td></tr>
 
-  ANYA
-     You must understand that I cannot make such an
-     assumption.
+<tr id="L348"><td><a href="#L348">348</a></td><td>WESLEY:  Salia, nothing is impossible.</td></tr>
 
-  WORF
-     You no longer have the choice. You have to trust
-     me to protect her.
+<tr id="L349"><td><a href="#L349">349</a></td><td>SALIA:  Not for you.</td></tr>
 
-  ANYA
-     No. A true protector cannot have two charges. Your
-     responsibility is to the ship. My duty is to
-     Salia.
+<tr id="L350"><td><a href="#L350">350</a></td><td>WESLEY:  There's a way. I know there is!</td></tr>
 
-  WORF
-     My responsibility to the ship includes protecting
-     Salia.
+<tr id="L351"><td><a href="#L351">351</a></td><td>ANNOTATION: Picard, Anya and a guard come round the corner</td></tr>
 
-  ANYA
-     You know I'm stronger than you.
+<tr id="L352"><td><a href="#L352">352</a></td><td>ANYA:  Leave her alone!</td></tr>
 
-  WORF
-     I was unprepared.
+<tr id="L353"><td><a href="#L353">353</a></td><td>PICARD:  Ensign, step away from her.</td></tr>
 
-  ANYA
-     You underestimated me in your Sickbay. That is
-     usually fatal.
+<tr id="L354"><td><a href="#L354">354</a></td><td>ANYA:  (to Salia) Come with me.</td></tr>
 
-  WORF
-     Still, you are here, confined to your room.
+<tr><td></td><td>LOCATION--Engineering</td></tr>
+<tr id="L355"><td><a href="#L355">355</a></td><td>LAFORGE:  Energy depletion level?</td></tr>
 
-  ANYA
-     I ceased my struggle by choice, not because of you
-     or your Captain.
+<tr id="L356"><td><a href="#L356">356</a></td><td>COMPUTER:  Zero.</td></tr>
 
-  WORF
-     I would have stopped you. If not me, someone else.
+<tr id="L357"><td><a href="#L357">357</a></td><td>LAFORGE:  La Forge to bridge.</td></tr>
 
-  ANYA
-     No, you cannot control me.
+<tr id="L358"><td><a href="#L358">358</a></td><td>PICARD [OC]:  Yes, Lieutenant?</td></tr>
 
-  WORF
-     We will see.
+<tr id="L359"><td><a href="#L359">359</a></td><td>LAFORGE:  I've just completed my final adjustments. Thanks for the time. You now have warp engines available.</td></tr>
 
+<tr id="L360"><td><a href="#L360">360</a></td><td>PICARD [OC]:  Very good.</td></tr>
 
-LOCATION--Ready room
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L361"><td><a href="#L361">361</a></td><td>PICARD:  Number One, get us to Daled as quickly as possible.</td></tr>
 
-  PICARD
-     We've obviously brought a very dangerous life form
-     aboard this ship. I want to minimize the chances
-     of any incident.
+<tr id="L362"><td><a href="#L362">362</a></td><td>RIKER:  Ensign Gibson, take us to warp eight point eight.</td></tr>
 
-  TROI
-     Whatever kind of life form Anya is, emotionally
-     she's Salia's mother.
+<tr id="L363"><td><a href="#L363">363</a></td><td>GIBSON:  (a strawberry blonde) Warp eight point eight, sir.</td></tr>
 
-  PICARD
-     The most dangerous animal is a mother protecting
-     her young.
+<tr id="L364"><td><a href="#L364">364</a></td><td>RIKER:  Estimated time?</td></tr>
 
-  TROI
-     Exactly.
+<tr id="L365"><td><a href="#L365">365</a></td><td>GIBSON:  Three hours, nine minutes.</td></tr>
 
-  ANYA [OC]
-     Captain, this is Anya.
+<tr id="L366"><td><a href="#L366">366</a></td><td>PICARD:  Ensign Crusher, when you're finished with your duties in Engineering, report to my Ready Room.</td></tr>
 
-  PICARD
-     Yes?
+<tr id="L367"><td><a href="#L367">367</a></td><td>WESLEY [OC]:  Yes, sir.</td></tr>
 
-  ANYA [OC]
-     Salia is gone. Where is she?
+<tr id="L368"><td><a href="#L368">368</a></td><td>PICARD:  You have the Bridge, Number One.</td></tr>
 
+<tr id="L369"><td><a href="#L369">369</a></td><td>RIKER:  Aye, sir.</td></tr>
 
-LOCATION--Ten forward
+<tr><td></td><td>LOCATION--Ready room</td></tr>
+<tr id="L370"><td><a href="#L370">370</a></td><td>PICARD:  The woman, Anya, is not what she appears to be. She is an allasomorph.</td></tr>
 
-  SALIA
-     This has all been so wonderful. I'm not even sure
-     it's real.
+<tr id="L371"><td><a href="#L371">371</a></td><td>WESLEY:  A shape shifter?</td></tr>
 
-  WESLEY
-     Believe me, Ten Forward isn't an illusion.
+<tr id="L372"><td><a href="#L372">372</a></td><td>PICARD:  Yes. She's not only a governess, she's also the girl's protector. Now, I don't care to interfere in the personal relationships of those under my command, but in this case.</td></tr>
 
-  SALIA
-     Not that. I mean the way I feel.
+<tr id="L373"><td><a href="#L373">373</a></td><td>WESLEY:  You want me to stay away from Salia?</td></tr>
 
-  GUINAN
-     You won't find a better dish of chocolate
-     anywhere.
+<tr id="L374"><td><a href="#L374">374</a></td><td>PICARD:  Yes, I do. For the good of the ship and the safety of everyone on board.</td></tr>
 
-  SALIA
-     I'm sure I won't.
+<tr id="L375"><td><a href="#L375">375</a></td><td>WESLEY:  I will do as you ask.</td></tr>
 
-  WESLEY
-     Is something wrong?
+<tr><td></td><td>LOCATION--Salia's quarters</td></tr>
+<tr id="L376"><td><a href="#L376">376</a></td><td>SALIA:  Why won't you let me have a friend?</td></tr>
 
-  SALIA
-     I've had a great time being with you, Wesley.
+<tr id="L377"><td><a href="#L377">377</a></td><td>ANYA:  It is my duty to protect you from danger.</td></tr>
 
-  WESLEY
-     And that makes you sad?
+<tr id="L378"><td><a href="#L378">378</a></td><td>SALIA:  There's no danger here.</td></tr>
 
-  SALIA
-     When I was on Klavdia Three, all I could think of
-     was leaving that isolation. What makes me sad is
-     having to face it again after seeing what else is
-     possible.
+<tr id="L379"><td><a href="#L379">379</a></td><td>ANYA:  There is always danger from one who is not your kind. Salia, he's confusing you. You're forgetting you responsibilities.</td></tr>
 
-  WESLEY
-     Is that what awaits you on Daled Four? Isolation?
+<tr id="L380"><td><a href="#L380">380</a></td><td>SALIA:  Whether or not I see Wesley is for me to decide.</td></tr>
 
-  SALIA
-     Yes.
+<tr id="L381"><td><a href="#L381">381</a></td><td>ANYA:  It is not! I raised you, I protected you and I intend to deliver you to Daled Four!</td></tr>
 
-  WESLEY
-     I thought you were going there to reunite two
-     warring parties.
+<tr id="L382"><td><a href="#L382">382</a></td><td>SALIA:  Maybe what you want doesn't matter any more.</td></tr>
 
-  SALIA
-     What else do you know?
+<tr id="L383"><td><a href="#L383">383</a></td><td>ANYA:  Salia, please. I know it's difficult for you. But you must do what you are destined to do.</td></tr>
 
-  WESLEY
-     Very little. The ship's computer doesn't have that
-     much on Daled Four. How will you stop the
-     fighting?
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L384"><td><a href="#L384">384</a></td><td>PICARD:  Standard orbit.</td></tr>
 
-  SALIA
-     I'm not certain. I only know I will have many
-     responsibilities when I get there. Your language
-     has no word for the position I'll hold. In many
-     ways I'll have even less freedom than I did on
-     Klavdia Three.
+<tr id="L385"><td><a href="#L385">385</a></td><td>GIBSON:  Aye, sir.</td></tr>
 
-  WESLEY
-     You could stay.
+<tr id="L386"><td><a href="#L386">386</a></td><td>PICARD:  Hailing frequencies, Mister Worf.</td></tr>
 
-  SALIA
-     On the Enterprise?
+<tr id="L387"><td><a href="#L387">387</a></td><td>WORF:  Captain, I am encountering the same interference we experienced on Klavdia Three.</td></tr>
 
-  WESLEY
-     Why not?
+<tr id="L388"><td><a href="#L388">388</a></td><td>DATA:  The troposphere appears to be distorting our signals. It is fascinating, Captain. Klavdia Three and Daled Four have almost identical atmospheres.</td></tr>
 
-  SALIA
-     Because I can't.
+<tr id="L389"><td><a href="#L389">389</a></td><td>PICARD:  Magnify. Times twenty.</td></tr>
 
-  ANNOTATION
-     Salia leaves
+<tr id="L390"><td><a href="#L390">390</a></td><td>RIKER:  How could anyone exist in an environment so totally hostile toward human life?</td></tr>
 
-  GUINAN
-     Just because a girl runs out, doesn't mean she
-     doesn't wish you to follow.
+<tr id="L391"><td><a href="#L391">391</a></td><td>PICARD:  Mister Data, do whatever is necessary to override the interference. Let's complete our mission.</td></tr>
 
+<tr><td></td><td>LOCATION--Wesley's quarters</td></tr>
+<tr id="L392"><td><a href="#L392">392</a></td><td>WESLEY:  Come in. Salia! You shouldn't have come.</td></tr>
 
-LOCATION--Corridor
+<tr id="L393"><td><a href="#L393">393</a></td><td>SALIA:  Do you want me to leave?</td></tr>
 
-  WESLEY
-     What is it? What happened? Salia!
+<tr id="L394"><td><a href="#L394">394</a></td><td>WESLEY:  I didn't say that.</td></tr>
 
-  SALIA
-     Stay away from me! I'm sorry.
+<tr id="L395"><td><a href="#L395">395</a></td><td>SALIA:  Then you want me to stay.</td></tr>
 
-  WESLEY
-     I don't understand.
+<tr id="L396"><td><a href="#L396">396</a></td><td>WESLEY:  Does Anya know you're here?</td></tr>
 
-  SALIA
-     I can't stay here! I can't have this life! I want
-     it more than anything, but I can't have it!
+<tr id="L397"><td><a href="#L397">397</a></td><td>SALIA:  That doesn't matter.</td></tr>
 
-  WESLEY
-     Salia, nothing is impossible.
+<tr id="L398"><td><a href="#L398">398</a></td><td>WESLEY:  I'm glad you came. I thought Anya would have kept you with her.</td></tr>
 
-  SALIA
-     Not for you.
+<tr id="L399"><td><a href="#L399">399</a></td><td>SALIA:  I have certain rights.</td></tr>
 
-  WESLEY
-     There's a way. I know there is!
+<tr id="L400"><td><a href="#L400">400</a></td><td>WESLEY:  So in other words, you slipped out.</td></tr>
 
-  ANNOTATION
-     Picard, Anya and a guard come round the corner
+<tr id="L401"><td><a href="#L401">401</a></td><td>SALIA:  While she was asleep. I hope you didn't get in trouble from your Captain.</td></tr>
 
-  ANYA
-     Leave her alone!
+<tr id="L402"><td><a href="#L402">402</a></td><td>WESLEY:  Oh, I haven't got in trouble yet.</td></tr>
 
-  PICARD
-     Ensign, step away from her.
+<tr id="L403"><td><a href="#L403">403</a></td><td>SALIA:  Anya thought you would corrupt me.</td></tr>
 
-  ANYA
-     (to Salia) Come with me.
+<tr id="L404"><td><a href="#L404">404</a></td><td>WESLEY:  With my wild way of life?</td></tr>
 
+<tr id="L405"><td><a href="#L405">405</a></td><td>SALIA:  Maybe. With the normal things people do when they like each other.</td></tr>
 
-LOCATION--Engineering
+<tr id="L406"><td><a href="#L406">406</a></td><td>ANNOTATION: Young love's first kiss, then Anya the monster is there, screeching</td></tr>
 
-  LAFORGE
-     Energy depletion level?
+<tr id="L407"><td><a href="#L407">407</a></td><td>SALIA:  Wesley, get out of here now.</td></tr>
 
-  COMPUTER
-     Zero.
+<tr id="L408"><td><a href="#L408">408</a></td><td>WESLEY:  What's going on?</td></tr>
 
-  LAFORGE
-     La Forge to bridge.
+<tr id="L409"><td><a href="#L409">409</a></td><td>SALIA:  Just go, please.</td></tr>
 
-  PICARD [OC]
-     Yes, Lieutenant?
+<tr id="L410"><td><a href="#L410">410</a></td><td>WESLEY:  Security, crew quarters!</td></tr>
 
-  LAFORGE
-     I've just completed my final adjustments. Thanks
-     for the time. You now have warp engines available.
+<tr id="L411"><td><a href="#L411">411</a></td><td>SALIA:  No! Anya, No!</td></tr>
 
-  PICARD [OC]
-     Very good.
+<tr id="L412"><td><a href="#L412">412</a></td><td>ANNOTATION: Salia morphs into something bigger, and Wesley goes to safety. The two women return to humanoid form</td></tr>
 
+<tr id="L413"><td><a href="#L413">413</a></td><td>ANYA:  You should not have disobeyed me.</td></tr>
 
-LOCATION--Bridge
+<tr id="L414"><td><a href="#L414">414</a></td><td>SALIA:  I had to.</td></tr>
 
-  PICARD
-     Number One, get us to Daled as quickly as
-     possible.
+<tr id="L415"><td><a href="#L415">415</a></td><td>ANYA:  I warned you to leave her alone.</td></tr>
 
-  RIKER
-     Ensign Gibson, take us to warp eight point eight.
+<tr id="L416"><td><a href="#L416">416</a></td><td>SOMEONE: Captain's log, stardate 42568.8. Since Anya's powers of transformation apparently gave her the ability to escape her guards unnoticed, we have sealed her quarters with a forcefield that will contain her no matter how small a form she may take.</td></tr>
 
-  GIBSON
-     (a strawberry blonde) Warp eight point eight, sir.
+<tr><td></td><td>LOCATION--Bridge</td></tr>
+<tr id="L417"><td><a href="#L417">417</a></td><td>WORF:  Captain, I'm receiving an audio signal.</td></tr>
 
-  RIKER
-     Estimated time?
+<tr id="L418"><td><a href="#L418">418</a></td><td>PICARD:  Audio on.</td></tr>
 
-  GIBSON
-     Three hours, nine minutes.
+<tr id="L419"><td><a href="#L419">419</a></td><td>VOICE [OC]:  Come in Enterprise. This is Command Headquarters of Daled Four. We have been expecting you.</td></tr>
 
-  PICARD
-     Ensign Crusher, when you're finished with your
-     duties in Engineering, report to my Ready Room.
+<tr id="L420"><td><a href="#L420">420</a></td><td>DATA:  Sir, sensors indicate the communication originated from a terawatt source on the planet.</td></tr>
 
-  WESLEY [OC]
-     Yes, sir.
+<tr id="L421"><td><a href="#L421">421</a></td><td>RIKER:  That's more power than our entire ship can generate.</td></tr>
 
-  PICARD
-     You have the Bridge, Number One.
+<tr id="L422"><td><a href="#L422">422</a></td><td>DATA:  It is what is needed to penetrate the atmosphere.</td></tr>
 
-  RIKER
-     Aye, sir.
+<tr id="L423"><td><a href="#L423">423</a></td><td>RIKER:  Which means we lack the ability to respond, sir.</td></tr>
 
+<tr id="L424"><td><a href="#L424">424</a></td><td>WORF:  Sir, there are beam-down coordinates encoded within the carrier signal.</td></tr>
 
-LOCATION--Ready room
+<tr id="L425"><td><a href="#L425">425</a></td><td>PICARD:  Splendid.</td></tr>
 
-  PICARD
-     The woman, Anya, is not what she appears to be.
-     She is an allasomorph.
+<tr id="L426"><td><a href="#L426">426</a></td><td>RIKER:  I'll arrange for our guests to beam down.</td></tr>
 
-  WESLEY
-     A shape shifter?
+<tr><td></td><td>LOCATION--Corridor</td></tr>
+<tr id="L427"><td><a href="#L427">427</a></td><td>WORF:  Forcefield off.</td></tr>
 
-  PICARD
-     Yes. She's not only a governess, she's also the
-     girl's protector. Now, I don't care to interfere
-     in the personal relationships of those under my
-     command, but in this case.
+<tr><td></td><td>LOCATION--Salia's quarters</td></tr>
+<tr id="L428"><td><a href="#L428">428</a></td><td>SALIA:  Come in.</td></tr>
 
-  WESLEY
-     You want me to stay away from Salia?
+<tr id="L429"><td><a href="#L429">429</a></td><td>WORF:  We have arrived.</td></tr>
 
-  PICARD
-     Yes, I do. For the good of the ship and the safety
-     of everyone on board.
+<tr id="L430"><td><a href="#L430">430</a></td><td>ANYA:  Salia will be with you in just a moment.</td></tr>
 
-  WESLEY
-     I will do as you ask.
+<tr id="L431"><td><a href="#L431">431</a></td><td>ANNOTATION: Worf leaves</td></tr>
 
+<tr id="L432"><td><a href="#L432">432</a></td><td>SALIA:  You're not going?</td></tr>
 
-LOCATION--Salia's quarters
+<tr id="L433"><td><a href="#L433">433</a></td><td>ANYA:  No. My duties have been completed. I have done all that I could. I hope it was enough.</td></tr>
 
-  SALIA
-     Why won't you let me have a friend?
+<tr id="L434"><td><a href="#L434">434</a></td><td>SALIA:  You've raised me well, and I thank you for that.</td></tr>
 
-  ANYA
-     It is my duty to protect you from danger.
+<tr id="L435"><td><a href="#L435">435</a></td><td>ANYA:  I would not have harmed the boy, I only wanted to frighten him.</td></tr>
 
-  SALIA
-     There's no danger here.
+<tr id="L436"><td><a href="#L436">436</a></td><td>SALIA:  I know.</td></tr>
 
-  ANYA
-     There is always danger from one who is not your
-     kind. Salia, he's confusing you. You're forgetting
-     you responsibilities.
+<tr id="L437"><td><a href="#L437">437</a></td><td>ANYA:  You are ready for what awaits you and you will do well. I know that I have been hard on you, but I wanted to prepare you for anything you might be required to do.</td></tr>
 
-  SALIA
-     Whether or not I see Wesley is for me to decide.
+<tr id="L438"><td><a href="#L438">438</a></td><td>SALIA:  Will I ever be able to leave Daled Four?</td></tr>
 
-  ANYA
-     It is not! I raised you, I protected you and I
-     intend to deliver you to Daled Four!
+<tr id="L439"><td><a href="#L439">439</a></td><td>ANYA:  Probably not. But anything is possible.</td></tr>
 
-  SALIA
-     Maybe what you want doesn't matter any more.
+<tr id="L440"><td><a href="#L440">440</a></td><td>SALIA:  That's what Wes said.</td></tr>
 
-  ANYA
-     Salia, please. I know it's difficult for you. But
-     you must do what you are destined to do.
+<tr id="L441"><td><a href="#L441">441</a></td><td>ANYA:  I hope he's right.</td></tr>
 
+<tr id="L442"><td><a href="#L442">442</a></td><td>SALIA:  Where will you go?</td></tr>
 
-LOCATION--Bridge
+<tr id="L443"><td><a href="#L443">443</a></td><td>ANYA:  The third moon is within range of this ship's transporter, I shall go there. It was my home before we went away.</td></tr>
 
-  PICARD
-     Standard orbit.
+<tr id="L444"><td><a href="#L444">444</a></td><td>SALIA:  I'm going to miss you.</td></tr>
 
-  GIBSON
-     Aye, sir.
+<tr id="L445"><td><a href="#L445">445</a></td><td>ANYA:  I know.</td></tr>
 
-  PICARD
-     Hailing frequencies, Mister Worf.
+<tr id="L446"><td><a href="#L446">446</a></td><td>ANNOTATION: Salia goes to the door, and it opens</td></tr>
 
-  WORF
-     Captain, I am encountering the same interference
-     we experienced on Klavdia Three.
+<tr id="L447"><td><a href="#L447">447</a></td><td>SALIA:  I am ready now.</td></tr>
 
-  DATA
-     The troposphere appears to be distorting our
-     signals. It is fascinating, Captain. Klavdia Three
-     and Daled Four have almost identical atmospheres.
+<tr id="L448"><td><a href="#L448">448</a></td><td>ANNOTATION: Salia leaves and Worf enters</td></tr>
 
-  PICARD
-     Magnify. Times twenty.
+<tr id="L449"><td><a href="#L449">449</a></td><td>WORF:  I will escort you to transporter room six.</td></tr>
 
-  RIKER
-     How could anyone exist in an environment so
-     totally hostile toward human life?
+<tr id="L450"><td><a href="#L450">450</a></td><td>ANYA:  You will be happy to see me leave.</td></tr>
 
-  PICARD
-     Mister Data, do whatever is necessary to override
-     the interference. Let's complete our mission.
+<tr id="L451"><td><a href="#L451">451</a></td><td>WORF:  No. You are a worthy opponent.</td></tr>
 
+<tr id="L452"><td><a href="#L452">452</a></td><td>ANYA:  Thank you. At heart, we are very much alike.</td></tr>
 
-LOCATION--Wesley's quarters
+<tr id="L453"><td><a href="#L453">453</a></td><td>WORF:  Yes, we are.</td></tr>
 
-  WESLEY
-     Come in. Salia! You shouldn't have come.
+<tr id="L454"><td><a href="#L454">454</a></td><td>ANYA:  Perhaps we shall fight again. On the same side.</td></tr>
 
-  SALIA
-     Do you want me to leave?
+<tr id="L455"><td><a href="#L455">455</a></td><td>WORF:  It would be an honour. Shall we go?</td></tr>
 
-  WESLEY
-     I didn't say that.
+<tr><td></td><td>LOCATION--Wesley's quarters</td></tr>
+<tr id="L456"><td><a href="#L456">456</a></td><td>WESLEY:  Come in.</td></tr>
 
-  SALIA
-     Then you want me to stay.
+<tr id="L457"><td><a href="#L457">457</a></td><td>SALIA:  Wesley, I have to go now.</td></tr>
 
-  WESLEY
-     Does Anya know you're here?
+<tr id="L458"><td><a href="#L458">458</a></td><td>WESLEY:  Was it fun?</td></tr>
 
-  SALIA
-     That doesn't matter.
+<tr id="L459"><td><a href="#L459">459</a></td><td>SALIA:  What do you mean?</td></tr>
 
-  WESLEY
-     I'm glad you came. I thought Anya would have kept
-     you with her.
+<tr id="L460"><td><a href="#L460">460</a></td><td>WESLEY:  Playing humanoid. Was it fun?</td></tr>
 
-  SALIA
-     I have certain rights.
+<tr id="L461"><td><a href="#L461">461</a></td><td>SALIA:  Wesley, look at me. Right now, this minute, this is what I am. A humanoid girl.</td></tr>
 
-  WESLEY
-     So in other words, you slipped out.
+<tr id="L462"><td><a href="#L462">462</a></td><td>WESLEY:  What are you really?</td></tr>
 
-  SALIA
-     While she was asleep. I hope you didn't get in
-     trouble from your Captain.
+<tr id="L463"><td><a href="#L463">463</a></td><td>SALIA:  Does it matter?</td></tr>
 
-  WESLEY
-     Oh, I haven't got in trouble yet.
+<tr id="L464"><td><a href="#L464">464</a></td><td>WESLEY:  Yes.</td></tr>
 
-  SALIA
-     Anya thought you would corrupt me.
+<tr id="L465"><td><a href="#L465">465</a></td><td>SALIA:  Our natural state is one unlike anything you can imagine.</td></tr>
 
-  WESLEY
-     With my wild way of life?
+<tr id="L466"><td><a href="#L466">466</a></td><td>WESLEY:  So you took this form for our benefit? That's why you wanted to know what species we are.</td></tr>
 
-  SALIA
-     Maybe. With the normal things people do when they
-     like each other.
+<tr id="L467"><td><a href="#L467">467</a></td><td>SALIA:  I'm sorry I hurt you. I didn't mean to.</td></tr>
 
-  ANNOTATION
-     Young love's first kiss, then Anya the monster is
-     there, screeching
+<tr id="L468"><td><a href="#L468">468</a></td><td>WESLEY:  I loved you.</td></tr>
 
-  SALIA
-     Wesley, get out of here now.
+<tr id="L469"><td><a href="#L469">469</a></td><td>SALIA:  I love you, too.</td></tr>
 
-  WESLEY
-     What's going on?
+<tr id="L470"><td><a href="#L470">470</a></td><td>WESLEY:  Can you?</td></tr>
 
-  SALIA
-     Just go, please.
+<tr id="L471"><td><a href="#L471">471</a></td><td>SALIA:  Yes, oh yes. I have the same feelings, the same emotions as you. You must believe me.</td></tr>
 
-  WESLEY
-     Security, crew quarters!
+<tr id="L472"><td><a href="#L472">472</a></td><td>WESLEY:  Please go.</td></tr>
 
-  SALIA
-     No! Anya, No!
+<tr id="L473"><td><a href="#L473">473</a></td><td>SALIA:  Wesley, let's not say goodbye like this.</td></tr>
 
-  ANNOTATION
-     Salia morphs into something bigger, and Wesley
-     goes to safety. The two women return to humanoid
-     form
+<tr id="L474"><td><a href="#L474">474</a></td><td>ANNOTATION: No reply, so she leaves him to nurse his broken heart</td></tr>
 
-  ANYA
-     You should not have disobeyed me.
+<tr><td></td><td>LOCATION--Transporter room</td></tr>
+<tr id="L475"><td><a href="#L475">475</a></td><td>RIKER:  Prepare to beam Salia to the specified coordinates.</td></tr>
 
-  SALIA
-     I had to.
+<tr id="L476"><td><a href="#L476">476</a></td><td>O'BRIEN:  Aye, sir.</td></tr>
 
-  ANYA
-     I warned you to leave her alone.
+<tr id="L477"><td><a href="#L477">477</a></td><td>SALIA:  Our world is grateful for the courtesy which you have extended us.</td></tr>
 
-  SOMEONE
-     Captain's log, stardate 42568.8. Since Anya's
-     powers of transformation apparently gave her the
-     ability to escape her guards unnoticed, we have
-     sealed her quarters with a forcefield that will
-     contain her no matter how small a form she may
-     take.
+<tr id="L478"><td><a href="#L478">478</a></td><td>RIKER:  I hope some day that the Federation and Daled Four will have formal contact.</td></tr>
 
+<tr id="L479"><td><a href="#L479">479</a></td><td>SALIA:  That is my wish as well.</td></tr>
 
-LOCATION--Bridge
+<tr id="L480"><td><a href="#L480">480</a></td><td>O'BRIEN:  Coordinates have been input, sir.</td></tr>
 
-  WORF
-     Captain, I'm receiving an audio signal.
+<tr id="L481"><td><a href="#L481">481</a></td><td>RIKER:  Proceed.</td></tr>
 
-  PICARD
-     Audio on.
+<tr id="L482"><td><a href="#L482">482</a></td><td>ANNOTATION: Wesley enters with a dish of Thalian chocolate mousse</td></tr>
 
-  VOICE [OC]
-     Come in Enterprise. This is Command Headquarters
-     of Daled Four. We have been expecting you.
+<tr id="L483"><td><a href="#L483">483</a></td><td>WESLEY:  Wait. A taste to remember me by.</td></tr>
 
-  DATA
-     Sir, sensors indicate the communication originated
-     from a terawatt source on the planet.
+<tr id="L484"><td><a href="#L484">484</a></td><td>SALIA:  I wish there were something I could give you.</td></tr>
 
-  RIKER
-     That's more power than our entire ship can
-     generate.
+<tr id="L485"><td><a href="#L485">485</a></td><td>WESLEY:  You already have.</td></tr>
 
-  DATA
-     It is what is needed to penetrate the atmosphere.
+<tr id="L486"><td><a href="#L486">486</a></td><td>SALIA:  I'm glad you came to say goodbye. Thank you, for everything.</td></tr>
 
-  RIKER
-     Which means we lack the ability to respond, sir.
+<tr id="L487"><td><a href="#L487">487</a></td><td>SALIA:  I want you to leave now.</td></tr>
 
-  WORF
-     Sir, there are beam-down coordinates encoded
-     within the carrier signal.
+<tr id="L488"><td><a href="#L488">488</a></td><td>WESLEY:  Why?</td></tr>
 
-  PICARD
-     Splendid.
+<tr id="L489"><td><a href="#L489">489</a></td><td>SALIA:  I cannot arrive on my planet in this form, and I want you to remember me as I am now.</td></tr>
 
-  RIKER
-     I'll arrange for our guests to beam down.
+<tr id="L490"><td><a href="#L490">490</a></td><td>WESLEY:  Don't' worry, I will.</td></tr>
 
+<tr id="L491"><td><a href="#L491">491</a></td><td>ANNOTATION: She turns into a shimmering column of light</td></tr>
 
-LOCATION--Corridor
+<tr id="L492"><td><a href="#L492">492</a></td><td>WESLEY:  Energise.</td></tr>
 
-  WORF
-     Forcefield off.
+<tr><td></td><td>LOCATION--Ten forward</td></tr>
+<tr id="L493"><td><a href="#L493">493</a></td><td>ANNOTATION: Wesley is sitting alone, gazing at the bubbles in his glass of whatever. Guinan goes over</td></tr>
 
+<tr id="L494"><td><a href="#L494">494</a></td><td>WESLEY:  Seeing her on the transporter pad, it was like seeing pure light. I miss her. I feel empty.</td></tr>
 
-LOCATION--Salia's quarters
+<tr id="L495"><td><a href="#L495">495</a></td><td>GUINAN:  I know that sensation. But there'll come a time when all you remember is the love.</td></tr>
 
-  SALIA
-     Come in.
+<tr id="L496"><td><a href="#L496">496</a></td><td>WESLEY:  I'm never going to feel this way about anyone else.</td></tr>
 
-  WORF
-     We have arrived.
+<tr id="L497"><td><a href="#L497">497</a></td><td>GUINAN:  You're right.</td></tr>
 
-  ANYA
-     Salia will be with you in just a moment.
+<tr id="L498"><td><a href="#L498">498</a></td><td>WESLEY:  I didn't expect you to say that.</td></tr>
 
-  ANNOTATION
-     Worf leaves
+<tr id="L499"><td><a href="#L499">499</a></td><td>GUINAN:  There'll be others, but every time you feel love it'll will be different. Every time, it's different.</td></tr>
 
-  SALIA
-     You're not going?
+<tr id="L500"><td><a href="#L500">500</a></td><td>WESLEY:  Knowing that doesn't make it any easier.</td></tr>
 
-  ANYA
-     No. My duties have been completed. I have done all
-     that I could. I hope it was enough.
+<tr id="L501"><td><a href="#L501">501</a></td><td>GUINAN:  It's not supposed to.</td></tr>
 
-  SALIA
-     You've raised me well, and I thank you for that.
-
-  ANYA
-     I would not have harmed the boy, I only wanted to
-     frighten him.
-
-  SALIA
-     I know.
-
-  ANYA
-     You are ready for what awaits you and you will do
-     well. I know that I have been hard on you, but I
-     wanted to prepare you for anything you might be
-     required to do.
-
-  SALIA
-     Will I ever be able to leave Daled Four?
-
-  ANYA
-     Probably not. But anything is possible.
-
-  SALIA
-     That's what Wes said.
-
-  ANYA
-     I hope he's right.
-
-  SALIA
-     Where will you go?
-
-  ANYA
-     The third moon is within range of this ship's
-     transporter, I shall go there. It was my home
-     before we went away.
-
-  SALIA
-     I'm going to miss you.
-
-  ANYA
-     I know.
-
-  ANNOTATION
-     Salia goes to the door, and it opens
-
-  SALIA
-     I am ready now.
-
-  ANNOTATION
-     Salia leaves and Worf enters
-
-  WORF
-     I will escort you to transporter room six.
-
-  ANYA
-     You will be happy to see me leave.
-
-  WORF
-     No. You are a worthy opponent.
-
-  ANYA
-     Thank you. At heart, we are very much alike.
-
-  WORF
-     Yes, we are.
-
-  ANYA
-     Perhaps we shall fight again. On the same side.
-
-  WORF
-     It would be an honour. Shall we go?
-
-
-LOCATION--Wesley's quarters
-
-  WESLEY
-     Come in.
-
-  SALIA
-     Wesley, I have to go now.
-
-  WESLEY
-     Was it fun?
-
-  SALIA
-     What do you mean?
-
-  WESLEY
-     Playing humanoid. Was it fun?
-
-  SALIA
-     Wesley, look at me. Right now, this minute, this
-     is what I am. A humanoid girl.
-
-  WESLEY
-     What are you really?
-
-  SALIA
-     Does it matter?
-
-  WESLEY
-     Yes.
-
-  SALIA
-     Our natural state is one unlike anything you can
-     imagine.
-
-  WESLEY
-     So you took this form for our benefit? That's why
-     you wanted to know what species we are.
-
-  SALIA
-     I'm sorry I hurt you. I didn't mean to.
-
-  WESLEY
-     I loved you.
-
-  SALIA
-     I love you, too.
-
-  WESLEY
-     Can you?
-
-  SALIA
-     Yes, oh yes. I have the same feelings, the same
-     emotions as you. You must believe me.
-
-  WESLEY
-     Please go.
-
-  SALIA
-     Wesley, let's not say goodbye like this.
-
-  ANNOTATION
-     No reply, so she leaves him to nurse his broken
-     heart
-
-
-LOCATION--Transporter room
-
-  RIKER
-     Prepare to beam Salia to the specified
-     coordinates.
-
-  O'BRIEN
-     Aye, sir.
-
-  SALIA
-     Our world is grateful for the courtesy which you
-     have extended us.
-
-  RIKER
-     I hope some day that the Federation and Daled Four
-     will have formal contact.
-
-  SALIA
-     That is my wish as well.
-
-  O'BRIEN
-     Coordinates have been input, sir.
-
-  RIKER
-     Proceed.
-
-  ANNOTATION
-     Wesley enters with a dish of Thalian chocolate
-     mousse
-
-  WESLEY
-     Wait. A taste to remember me by.
-
-  SALIA
-     I wish there were something I could give you.
-
-  WESLEY
-     You already have.
-
-  SALIA
-     I'm glad you came to say goodbye. Thank you, for
-     everything.
-
-  SALIA
-     I want you to leave now.
-
-  WESLEY
-     Why?
-
-  SALIA
-     I cannot arrive on my planet in this form, and I
-     want you to remember me as I am now.
-
-  WESLEY
-     Don't' worry, I will.
-
-  ANNOTATION
-     She turns into a shimmering column of light
-
-  WESLEY
-     Energise.
-
-
-LOCATION--Ten forward
-
-  ANNOTATION
-     Wesley is sitting alone, gazing at the bubbles in
-     his glass of whatever. Guinan goes over
-
-  WESLEY
-     Seeing her on the transporter pad, it was like
-     seeing pure light. I miss her. I feel empty.
-
-  GUINAN
-     I know that sensation. But there'll come a time
-     when all you remember is the love.
-
-  WESLEY
-     I'm never going to feel this way about anyone
-     else.
-
-  GUINAN
-     You're right.
-
-  WESLEY
-     I didn't expect you to say that.
-
-  GUINAN
-     There'll be others, but every time you feel love
-     it'll will be different. Every time, it's
-     different.
-
-  WESLEY
-     Knowing that doesn't make it any easier.
-
-  GUINAN
-     It's not supposed to.
-
-
-END CREDITS
+<tr><td></td><td>END CREDITS</td></tr>
+</table>
