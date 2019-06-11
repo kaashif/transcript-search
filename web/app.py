@@ -57,17 +57,19 @@ def make_result(row):
 
     # if the season number is actually known
     if row['season_number'] != 0:
-        result['url'] = '/transcripts/{}/{}.{}'.format(row['series'],
-                                                       row['season_number'],
-                                                       row['episode_number'])
+        result['url'] = '/transcripts/{}/{}.{}#L{}'.format(row['series'],
+                                                           row['season_number'],
+                                                           row['episode_number'],
+                                                           row['line_number'])
         result['episode'] = "{}: Season {}, Episode {}: {}".format(row['series'].upper(),
                                                                    row['season_number'],
                                                                    row['episode_number'],
                                                                    row['episode_title'])
     else:
         # else it's just a production code
-        result['url'] = '/transcripts/{}/{}'.format(row['series'],
-                                                    row['episode_number'])
+        result['url'] = '/transcripts/{}/{}#L{}'.format(row['series'],
+                                                        row['episode_number'],
+                                                        row['line_number'])
         result['episode'] = "{}: {} ({})".format(row['series'].upper(),
                                                  row['episode_title'],
                                                  row['episode_number'])
