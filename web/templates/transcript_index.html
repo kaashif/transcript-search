@@ -1,30 +1,38 @@
 {% extends "layout.html" %}
-{% block buttons %}
-<li role="presentation"><a href="/">Search</a></li>
-<li role="presentation" class="active"><a href="/transcripts">Transcripts</a></li>
-<li role="presentation"><a href="/random">Random</a></li>
-<li role="presentation"><a href="/about">About</a></li>
-<li role="presentation"><a href="https://gitlab.com/kaashif/transcript-search">Source</a></li>
-{% endblock %}
+{% block nav_transcripts %}active{% endblock %}
 {% block content %}
-<table class="table table-hover">
-  <tr>
-	<th>Series</th>
-	<th>Season</th>
-	<th>Episode/Production Code</th>
-	<th>Title</th>
-  </tr>
-{% for entry in entries %}
-  {% if entry['season_number'] != 0 %}
-	<tr onclick="location.href='/transcripts/{{ entry['series'] }}/{{ entry['season_number'] }}.{{ entry['episode_number'] }}'">
-  {% else %}
-	<tr onclick="location.href='/transcripts/{{ entry['series'] }}/{{ entry['episode_number'] }}'">
-  {% endif %}
-	  <td>{{ entry['series'].upper() }}</td>
-	  <td>{{ entry['season_number'] if entry['season_number'] != 0 else '' }}</td>
-	  <td>{{ entry['episode_number'] }}</td>
-	  <td>{{ entry['episode_title'] }}</td>
-	</tr>
-{% endfor %}
-</table>
+<section class="page-heading">
+  <div>
+    <p class="eyebrow">Archive</p>
+    <h1>Browse every indexed episode.</h1>
+  </div>
+  <p class="page-summary">Choose an episode to open the formatted transcript.</p>
+</section>
+
+<div class="table-shell">
+  <table class="archive-table">
+    <thead>
+      <tr>
+        <th>Series</th>
+        <th>Season</th>
+        <th>Episode/Production Code</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for entry in entries %}
+      {% if entry['season_number'] != 0 %}
+      <tr onclick="location.href='/transcripts/{{ entry['series'] }}/{{ entry['season_number'] }}.{{ entry['episode_number'] }}'">
+      {% else %}
+      <tr onclick="location.href='/transcripts/{{ entry['series'] }}/{{ entry['episode_number'] }}'">
+      {% endif %}
+        <td><span class="series-badge">{{ entry['series'].upper() }}</span></td>
+        <td>{{ entry['season_number'] if entry['season_number'] != 0 else '' }}</td>
+        <td>{{ entry['episode_number'] }}</td>
+        <td>{{ entry['episode_title'] }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
 {% endblock %}

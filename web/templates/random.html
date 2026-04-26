@@ -1,19 +1,19 @@
 {% extends "layout.html" %}
-{% block buttons %}
-<li role="presentation"><a href="/">Search</a></li>
-<li role="presentation"><a href="/transcripts">Transcripts</a></li>
-<li role="presentation" class="active"><a href="/random">Random</a></li>
-<li role="presentation"><a href="/about">About</a></li>
-<li role="presentation"><a href="https://gitlab.com/kaashif/transcript-search">Source</a></li>
-{% endblock %}
+{% block nav_random %}active{% endblock %}
 {% block content %}
+<section class="page-heading compact">
+  <div>
+    <p class="eyebrow">Generated script</p>
+    <h1>{{ episode }}</h1>
+  </div>
+  <a class="primary-button" href="/random/">New random</a>
+</section>
+
 <div class="alert alert-info">
-  You can click the "Random" button at the top to get a new random
-  script. The URL to this page will always produce the same
-  script, so you can share this link.
+  This URL always produces the same generated script, so it can be shared.
 </div>
-<h2>{{ episode }}</h2>
-<pre>
-{{ parsed_transcript }}
-</pre>
+
+<section class="transcript-surface">
+  <pre>{{ parsed_transcript }}</pre>
+</section>
 {% endblock %}

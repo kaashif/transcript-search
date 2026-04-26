@@ -1,54 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-	<title>Transcript Search</title>
-	<link href="/static/style.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}Transcript Search{% endblock %}</title>
+    <link href="/static/style.css" rel="stylesheet">
   </head>
   <body>
-	<div class="container">
-	  <div class="header">
-		<nav>
-		  <ul class="nav nav-pills pull-right">
-			{% block buttons %}
-			<li role="presentation"><a href="/">Search</a>
-			</li>
-			<li role="presentation"><a href="/about">About</a>
-			</li>
-			{% endblock %}
-		  </ul>
-		</nav>
-		<h3 class="text-muted">Transcript Search</h3>
-	  </div>
-	  <div class="content">
-		{% block content %}
-		{% endblock %}
-	  </div>
-	  <footer class="footer">
-		<p>All Stargate excerpts and complete transcripts are taken
-		from <a href="http://www.stargate-sg1-solutions.com/wiki/Transcripts">stargate-sg1-solutions.com</a></p>
-        <p>Stargate SG-1 and Stargate Atlantis and its characters are
-           the property of Stargate (II) Productions, Kawoosh
-           Productions, The SCI FI Channel, Showtime/Viacom,
-           Sony/MGM/UA, Double Secret Productions, and Gekko
-           Productions.</p>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand" href="/">
+          <span class="brand-mark">TS</span>
+          <span>
+            <span class="brand-name">Transcript Search</span>
+            <span class="brand-subtitle">Stargate and Star Trek archive</span>
+          </span>
+        </a>
+        <nav class="site-nav" aria-label="Primary navigation">
+          <a href="/" class="{% block nav_search %}{% endblock %}">Search</a>
+          <a href="/transcripts" class="{% block nav_transcripts %}{% endblock %}">Transcripts</a>
+          <a href="/random" class="{% block nav_random %}{% endblock %}">Random</a>
+          <a href="/about" class="{% block nav_about %}{% endblock %}">About</a>
+          <a href="https://github.com/kaashif/transcript-search">Source</a>
+        </nav>
+      </header>
 
-        <p>All Star Trek excerpts and complete transcripts are taken
-        from <a href="http://chakoteya.net">chakoteya.net</a></p>
+      <main class="content">
+        {% block content %}
+        {% endblock %}
+      </main>
 
-        <p>Star Trek ® and related marks are trademarks of CBS Studios
-        Inc. Copyright © 1966, Present. The Star Trek web pages on
-        this site are for educational and entertainment purposes
-        only.</p>
-
-        <p>Episode transcripts and images are provided under the Fair
-           Use doctrine of U.S. copyright laws.</p>
-
-        <p>This site is for entertainment purposes only and is purely
-           non-commercial.</p>
-
-        <p>Copyrights on all images and transcripts remain with the
-           above named rights holders.</p>
-	  </footer>
-	</div>
+      <footer class="site-footer">
+        <p>
+          Stargate excerpts and complete transcripts are taken from
+          <a href="http://www.stargate-sg1-solutions.com/wiki/Transcripts">stargate-sg1-solutions.com</a>.
+          Star Trek excerpts and complete transcripts are taken from
+          <a href="http://chakoteya.net">chakoteya.net</a>.
+        </p>
+        <p>
+          This site is non-commercial and for educational and entertainment purposes only.
+          Copyrights on all images and transcripts remain with their rights holders.
+        </p>
+      </footer>
+    </div>
   </body>
 </html>

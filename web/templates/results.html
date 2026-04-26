@@ -1,54 +1,51 @@
 {% extends "layout.html" %}
-{% block buttons %}
-<li role="presentation" class="active"><a href="/">Search</a></li>
-<li role="presentation"><a href="/transcripts">Transcripts</a></li>
-<li role="presentation"><a href="/random">Random</a></li>
-<li role="presentation"><a href="/about">About</a></li>
-<li role="presentation"><a href="https://gitlab.com/kaashif/transcript-search">Source</a></li>
-{% endblock %}
+{% block nav_search %}active{% endblock %}
 {% block content %}
+<section class="page-heading compact">
+  <div>
+    <p class="eyebrow">Search results</p>
+    <h1>Matching transcript lines</h1>
+  </div>
+  <a class="secondary-button" href="/">New search</a>
+</section>
 
 {% if error %}
 <div class="alert alert-danger">
-  There was a problem with your search query! It was probably
-  malformed, please check the syntax and try again.
+  There was a problem with your search query. Check the syntax and try again.
 </div>
 {% else %}
-
-{% if results|length == 0 %}
-<div class="alert alert-warning">
-  <strong>No results found :(</strong>
-</div>
-{% elif results|length == 1000 %}
-<div class="alert alert-warning">
-  <strong>Found &gt;1000 results! Only showing the first 1000.</strong>
-</div>
-{% else %}
-<div class="alert alert-success">
-  Found <strong>{{ results|length }}</strong> results!
-</div>
-{% endif %}
-
-{% for result in results %}
-<div class="panel panel-default">
-  <div class="panel-heading">
-	<a href="{{ result ['url'] }}">
-	  {{ result['episode'] }}, in {{ result['place'] }}
-	</a>
+  {% if results|length == 0 %}
+  <div class="alert alert-warning">
+    <strong>No results found :(</strong>
   </div>
-  <div class="panel-body">
-	<ul style="list-style-type: none">
-	  {% for c in result['context_before'] %}
-	  <li class="text-muted">{{ c }}</li>
-	  {% endfor %}
-	  <li>{{ result['match'] }}</li>
-	  {% for c in result['context_after'] %}
-	  <li class="text-muted">{{ c }}</li>
-	  {% endfor %}
-	</ul>
+  {% elif results|length == 1000 %}
+  <div class="alert alert-warning">
+    <strong>Found &gt;1000 results! Only showing the first 1000.</strong>
   </div>
-</div>
-<hr>
-{% endfor %}
+  {% else %}
+  <div class="alert alert-success">
+    Found <strong>{{ results|length }}</strong> results!
+  </div>
+  {% endif %}
+
+  <div class="result-list">
+    {% for result in results %}
+    <article class="result-card">
+      <div class="result-card-header panel-heading">
+        <a href="{{ result['url'] }}">{{ result['episode'] }}</a>
+        <span>{{ result['place'] }}</span>
+      </div>
+      <ol class="context-lines">
+        {% for c in result['context_before'] %}
+        <li class="context-muted">{{ c }}</li>
+        {% endfor %}
+        <li class="context-match">{{ result['match'] }}</li>
+        {% for c in result['context_after'] %}
+        <li class="context-muted">{{ c }}</li>
+        {% endfor %}
+      </ol>
+    </article>
+    {% endfor %}
+  </div>
 {% endif %}
 {% endblock %}
