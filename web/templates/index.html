@@ -1,15 +1,9 @@
 {% extends "layout.html" %}
 {% block nav_search %}active{% endblock %}
 {% block content %}
-<section class="page-heading">
-  <div>
-    <p class="eyebrow">Search the archive</p>
-    <h1>Find lines, speakers, places, and episodes.</h1>
-  </div>
-  <p class="page-summary">
-    Search parameters are optional. Leave a field blank to ignore it.
-    Results are capped at the first 1000 matches.
-  </p>
+<section class="tool-heading">
+  <h1>Search</h1>
+  <p>Blank fields are ignored. Results are capped at 1000 matches.</p>
 </section>
 
 <form class="search-panel" action="/search" method="GET">
@@ -38,28 +32,22 @@
 
   <div class="option-section">
     <span class="option-label">Match mode</span>
-    <div class="segmented-control" role="radiogroup" aria-label="Match mode">
-      <label>
-        <input type="radio" name="andor" value="and" checked>
-        <span>AND</span>
-      </label>
-      <label>
-        <input type="radio" name="andor" value="or">
-        <span>OR</span>
-      </label>
+    <div class="inline-options" role="radiogroup" aria-label="Match mode">
+      <label><input type="radio" name="andor" value="and" checked> AND (match all parameters)</label>
+      <label><input type="radio" name="andor" value="or"> OR (match any parameter)</label>
     </div>
   </div>
 
   <div class="option-section">
     <span class="option-label">Series</span>
     <div class="series-grid">
-      <label><input type="checkbox" checked name="series" value="sg1"><span>Stargate: SG-1</span></label>
-      <label><input type="checkbox" checked name="series" value="atl"><span>Stargate: Atlantis</span></label>
-      <label><input type="checkbox" checked name="series" value="tos"><span>Star Trek: The Original Series</span></label>
-      <label><input type="checkbox" checked name="series" value="ds9"><span>Star Trek: Deep Space 9</span></label>
-      <label><input type="checkbox" checked name="series" value="tng"><span>Star Trek: The Next Generation</span></label>
-      <label><input type="checkbox" checked name="series" value="voy"><span>Star Trek: Voyager</span></label>
-      <label><input type="checkbox" checked name="series" value="ent"><span>Star Trek: Enterprise</span></label>
+      <label><input type="checkbox" checked name="series" value="sg1"> Stargate: SG-1</label>
+      <label><input type="checkbox" checked name="series" value="atl"> Stargate: Atlantis</label>
+      <label><input type="checkbox" checked name="series" value="tos"> Star Trek: The Original Series</label>
+      <label><input type="checkbox" checked name="series" value="ds9"> Star Trek: Deep Space 9</label>
+      <label><input type="checkbox" checked name="series" value="tng"> Star Trek: The Next Generation</label>
+      <label><input type="checkbox" checked name="series" value="voy"> Star Trek: Voyager</label>
+      <label><input type="checkbox" checked name="series" value="ent"> Star Trek: Enterprise</label>
     </div>
   </div>
 
