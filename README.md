@@ -67,6 +67,23 @@ Python dependencies are managed with `uv`:
     $ vercel build --yes
     $ vercel deploy --prebuilt --yes
 
+## Testing
+
+The Python app has pytest coverage for data loading, search helpers,
+Flask routes, and browser-level UI behavior with Playwright.
+
+Install dependencies and run the full suite with `uv`:
+
+    $ uv sync --dev
+    $ uv run playwright install chromium
+    $ uv run pytest
+
+To skip browser-driven tests while iterating on backend behavior:
+
+    $ uv run pytest -m "not ui"
+
+GitHub Actions runs the full test suite on every push and pull request.
+
 ## Copyright
 
 The scripts and anything I have written are under the MIT license. The

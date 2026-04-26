@@ -7,3 +7,16 @@ requires-python = ">=3.12,<3.14"
 dependencies = [
     "flask==3.1.0",
 ]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+    "pytest-playwright>=0.7.2",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+markers = [
+    "ui: browser-driven Playwright tests",
+]
