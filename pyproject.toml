@@ -1,0 +1,9 @@
+[project]
+name = "transcript-search"
+version = "0.1.0"
+description = "Star Trek and Stargate transcript search app"
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "flask==3.1.0",
+]

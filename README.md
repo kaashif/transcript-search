@@ -55,6 +55,18 @@ the parsers).
 The web app itself doesn't read the raw transcripts, but preprocessed
 and preformatted versions of them.
 
+## Vercel deployment
+
+The root `app.py` is a Vercel-compatible Flask entrypoint. It uses the
+committed `data/transcripts.tsv` directly, so it does not need the
+Postgres container used by the original Docker setup.
+
+Python dependencies are managed with `uv`:
+
+    $ uv run python app.py
+    $ vercel build --yes
+    $ vercel deploy --prebuilt --yes
+
 ## Copyright
 
 The scripts and anything I have written are under the MIT license. The

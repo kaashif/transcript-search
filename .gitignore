@@ -7,6 +7,8 @@ flask/
 .\#*
 __pycache__/
 *.swp
+.venv/
 .stack-work/
 .stack-work
 *.prof
+.vercel
